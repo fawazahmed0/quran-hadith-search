@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬৮১, আন্তর্জাতিক নাম্বারঃ ১৮৪৮ ৪৬৮১-(…/...) উবাইদুল্লাহ ইবনু উমার কাওয়ারীরী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) এর সূত্রে অনুরূপ হাদীস বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৪৬৩৪, ইসলামিক সেন্টার ৪৬৩৬)
+(…/...) উবাইদুল্লাহ ইবনু উমার কাওয়ারীরী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) এর সূত্রে অনুরূপ হাদীস বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৪৬৩৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4787</td></tr><tr><td>Arabic No</td><td>1848.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 84</td></tr></tbody></table></div>
 
@@ -80,6 +80,6 @@ The same tradition has been narrated by the same authority through another chain
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-۴۷۸۷۔ ترجمہ وہی ہے جو اوپر گزرا۔
+۔ ترجمہ وہی ہے جو اوپر گزرا۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4787</td></tr><tr><td>Arabic No</td><td>1848.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 84</td></tr></tbody></table></div>

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ মেয়েরা মাহরাম (যার সঙ্গে বিবাহ নিষিদ্ধ) ব্যতীত অন্য কারো সাথে সফর করবে না। মাহরাম কাছে নেই এমতাবস্থায় কোন পুরুষ কোন মহিলার নিকট গমন করতে পারবে না। এ সময় এক ব্যক্তি বললেন, হে আল্লাহর রাসূল! আমি অমুক অমুক সেনাদলের সাথে জিহাদ করার জন্য যেতে চাচ্ছি। কিন্তু আমার স্ত্রী হাজ্জ করতে যেতে চাচ্ছে। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি তার সাথেই যাও। (৩০০৬, ৩০৬১, ৫৩৩৩, মুসলিম ১৫/৭৪, হাঃ ১৩৪১, আহমাদ ১৯৩৪) (আধুনিক প্রকাশনীঃ ১৭২৭, ইসলামিক ফাউন্ডেশনঃ ১৭৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ মেয়েরা মাহরাম (যার সঙ্গে বিবাহ নিষিদ্ধ) ব্যতীত অন্য কারো সাথে সফর করবে না। মাহরাম কাছে নেই এমতাবস্থায় কোন পুরুষ কোন মহিলার নিকট গমন করতে পারবে না। এ সময় এক ব্যক্তি বললেন, হে আল্লাহর রাসূল! আমি অমুক অমুক সেনাদলের সাথে জিহাদ করার জন্য যেতে চাচ্ছি। কিন্তু আমার স্ত্রী হাজ্জ করতে যেতে চাচ্ছে। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি তার সাথেই যাও। (৩০০৬, ৩০৬১, ৫৩৩৩, মুসলিম ১৫/৭৪, হাঃ ১৩৪১, আহমাদ ১৯৩৪) (আধুনিক প্রকাশনীঃ ১৭২৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 28 Hadith 42</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: “மணமுடிக்கத் தகாத ஆண் (மஹ்ரம்) துணையில்லாமல் ஒரு பெண் பயணம் செய்யக் கூடாது. மணமுடிக்கத் தகாத ஆண் துணையுடன் பெண் இருக்கும் போதுதான் (மற்ற) ஆண்கள் அவளைச் சந்திக்க வேண்டும்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அப்போது ஒரு மனிதர், “அல்லாஹ் வின் தூதரே! நான் இன்னின்ன இராணுவப் பிரிவுடன் புறப்பட எண்ணி யிருக்கிறேன்; என் மனைவி ஹஜ் செய்ய எண்ணுகிறார் (நான் என்ன செய்வது)?” என்று கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், “நீரும் மனைவியுடன் (ஹஜ்ஜுக்குப்) புறப்படுவீராக!” என்றார்கள். அத்தியாயம் : 28
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: “மணமுடிக்கத் தகாத ஆண் (மஹ்ரம்) துணையில்லாமல் ஒரு பெண் பயணம் செய்யக் கூடாது. மணமுடிக்கத் தகாத ஆண் துணையுடன் பெண் இருக்கும் போதுதான் (மற்ற) ஆண்கள் அவளைச் சந்திக்க வேண்டும்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அப்போது ஒரு மனிதர், “அல்லாஹ் வின் தூதரே! நான் இன்னின்ன இராணுவப் பிரிவுடன் புறப்பட எண்ணி யிருக்கிறேன்; என் மனைவி ஹஜ் செய்ய எண்ணுகிறார் (நான் என்ன செய்வது)?” என்று கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், “நீரும் மனைவியுடன் (ஹஜ்ஜுக்குப்) புறப்படுவீராக!” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 28 Hadith 42</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.) şöyle dedİ: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Kadın ancak yanında mahremi ile yolculuk yapabilir, (Yabancı) bir erkek kadın'ın yanına ancak yanında mahremi varken girebilir." Bir adam: "Ey Allah'ın Resulü! Ben falanca orduya katılarak savaşa çıkmak istiyorum. Eşim ise hac yapmak istiyor" dedi. Nebi Sallallahu Aleyhi ve Sellem adama: "Sen de onunla birlikte git" buyurdu. Tekrar: 3006, 3061, 5233
+İbn Abbas (r.a.) şöyle dedİ: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Kadın ancak yanında mahremi ile yolculuk yapabilir, (Yabancı) bir erkek kadın'ın yanına ancak yanında mahremi varken girebilir." Bir adam: "Ey Allah'ın Resulü! Ben falanca orduya katılarak savaşa çıkmak istiyorum. Eşim ise hac yapmak istiyor" dedi. Nebi Sallallahu Aleyhi ve Sellem adama: "Sen de onunla birlikte git" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 28 Hadith 42</td></tr></tbody></table></div>
 

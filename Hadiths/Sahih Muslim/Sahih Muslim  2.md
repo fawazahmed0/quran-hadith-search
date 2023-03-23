@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১, আন্তর্জাতিক নাম্বারঃ ১ (১/...) আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... রিবাঈ ইবনু হিরাশ (রহঃ) থেকে বর্ণনা করেন যে, তিনি আলী (রাযিঃ)-কে খুৎবার মধ্যে বলতে শুনেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ তোমরা আমার প্রতি মিথ্যারোপ করো না, কেননা যে ব্যক্তি আমার প্রতি মিথ্যারোপ করবে সে জাহান্নামে প্রবেশ করবে। মুহাম্মাদ ইবনু আল মুসান্না এবং ইবনু বাশশারের সূত্রেও হাদীসটি বর্ণিত হয়েছে।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 2</td></tr></tbody></table></div>
 

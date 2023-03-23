@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ বকর ইবনু আবূ শাইবাহ (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার প্রতিপালককে অন্তর দ্বারা অনুভূতির মাধ্যমে দেখেছেন। (ইসলামিক ফাউন্ডেশনঃ ৩৩৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>436</td></tr><tr><td>Arabic No</td><td>176.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 341</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அதாஉ பின் அபீரபாஹ் (ரஹ்) அவர்கள் கூறியதாவது: ”நபி (ஸல்) அவர்கள் தம் இறைவனை அகத்தால் பார்த்தார்கள்” என்று இப்னு அப்பாஸ் (ரலி) அவர்கள், (53:13 ஆவது) வசனத்திற்கு விளக்கம்) கூறினார்கள். அத்தியாயம் : 1
+அதாஉ பின் அபீரபாஹ் (ரஹ்) அவர்கள் கூறியதாவது: ”நபி (ஸல்) அவர்கள் தம் இறைவனை அகத்தால் பார்த்தார்கள்” என்று இப்னு அப்பாஸ் (ரலி) அவர்கள், (53:13 ஆவது) வசனத்திற்கு விளக்கம்) கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>436</td></tr><tr><td>Arabic No</td><td>176.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 341</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Hafs'Abdulmelik'ten, o da Âtâ'dan, o da İbni Abbas'tan naklen rivayet ettiki İbni Abbas: «Resulullâh (Sallallahu Aleyhi ve Sellem) onu kalbi ile gördü» demiş. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 5912
+Bize Ebu Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Hafs'Abdulmelik'ten, o da Âtâ'dan, o da İbni Abbas'tan naklen rivayet ettiki İbni Abbas: «Resulullâh (Sallallahu Aleyhi ve Sellem) onu kalbi ile gördü» demiş. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>436</td></tr><tr><td>Arabic No</td><td>176.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 341</td></tr></tbody></table></div>
 

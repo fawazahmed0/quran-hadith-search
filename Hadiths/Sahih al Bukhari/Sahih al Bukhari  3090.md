@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি এক সফর হতে ফিরে এলাম। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেন, ‘দু’ রাক‘আত সালাত আদায় করে নাও।’ সিরার হচ্ছে মদিনার সন্নিকটে একটি স্থানের নাম। (৪৪৩) (আধুনিক প্রকাশনীঃ ২৮৫৮, ইসলামিক ফাউন্ডেশনঃ ২৮৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি এক সফর হতে ফিরে এলাম। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেন, ‘দু’ রাক‘আত সালাত আদায় করে নাও।’ সিরার হচ্ছে মদিনার সন্নিকটে একটি স্থানের নাম। (৪৪৩) (আধুনিক প্রকাশনীঃ ২৮৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3090</td></tr><tr><td>Arabic No</td><td>3090</td></tr><tr><td>Reference</td><td>Book 56 Hadith 294</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: நான் ஒரு பயணத்திலிருந்து திரும்பி வந்தேன். நபி (ஸல்) அவர்கள், ‘‘இரண்டு ரக்அத்கள் தொழுவீராக!” என்று (என்னிடம்) கூறினார்கள். ‘ஸிரார்’ என்பது மதீனாவின் (கிழக்கே) ஓர் ஓரத்திலுள்ள ஓரிடமாகும். அத்தியாயம் : 57
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: நான் ஒரு பயணத்திலிருந்து திரும்பி வந்தேன். நபி (ஸல்) அவர்கள், ‘‘இரண்டு ரக்அத்கள் தொழுவீராக!” என்று (என்னிடம்) கூறினார்கள். ‘ஸிரார்’ என்பது மதீனாவின் (கிழக்கே) ஓர் ஓரத்திலுள்ள ஓரிடமாகும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3090</td></tr><tr><td>Arabic No</td><td>3090</td></tr><tr><td>Reference</td><td>Book 56 Hadith 294</td></tr></tbody></table></div>
 

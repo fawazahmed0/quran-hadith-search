@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৫৮, আন্তর্জাতিক নাম্বারঃ ৩৯২ ৭৫৮-(৩২/...) কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। তিনি প্রতিবার উঠা-বসায় তাকবীর বলতেন। তিনি বলতেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমনই করতেন। (ইসলামিক ফাউন্ডেশনঃ ৭৫৬, ইসলামিক সেন্টারঃ ৭৬৯)
+কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। তিনি প্রতিবার উঠা-বসায় তাকবীর বলতেন। তিনি বলতেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমনই করতেন। (ইসলামিক ফাউন্ডেশনঃ ৭৫৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>872</td></tr><tr><td>Arabic No</td><td>392.06</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஸாலிஹ் தக்வான் (ரஹ்) அவர்கள் கூறியதாவது: அபூஹுரைரா (ரலி) அவர்கள் (தொழுகையில்) ஒவ்வொரு முறை குனியும்போதும் நிமிரும்போதும் தக்பீர் கூறிவந்தார்கள். மேலும், அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அவ்வாறு செய்துவந்ததாகவும் அறிவிப்பார்கள். அத்தியாயம் : 4
+அபூஸாலிஹ் தக்வான் (ரஹ்) அவர்கள் கூறியதாவது: அபூஹுரைரா (ரலி) அவர்கள் (தொழுகையில்) ஒவ்வொரு முறை குனியும்போதும் நிமிரும்போதும் தக்பீர் கூறிவந்தார்கள். மேலும், அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அவ்வாறு செய்துவந்ததாகவும் அறிவிப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>872</td></tr><tr><td>Arabic No</td><td>392.06</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
 

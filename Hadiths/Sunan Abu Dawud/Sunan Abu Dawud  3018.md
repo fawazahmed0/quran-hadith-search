@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন সারহা (রহঃ) ..... ইবন শিহাব (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি জানতে পেরেছি যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুদ্ধ-বিগ্রহের পর শক্তি প্রয়োগের মাধ্যমে খায়বার জয় করেন। আর সেখান থেকে যারা বহিষ্কৃত হওয়ার জন্য বের হয়েছিল, তারা যুদ্ধের পর বেরিয়ে গিয়েছিল।
+। ইবনু শিহাব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি জানতে পেরেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুদ্ধের পর শক্তি প্রয়োগে খায়বার অঞ্চল জয় করেন এবং যুদ্ধ শেষে সেখানকার অধিবাসীদের অবরুদ্ধ দুর্গ থেকে এ শর্তে বের হতে দেয়া হয় যে, তারা এখান থেকে বিতাড়িত হয়ে অন্যত্র চলে যাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3018</td></tr><tr><td>Arabic No</td><td>3018</td></tr><tr><td>Reference</td><td>Book 20 Hadith 91</td></tr></tbody></table></div>
 

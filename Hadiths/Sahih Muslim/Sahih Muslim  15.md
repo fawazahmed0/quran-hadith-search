@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬, আন্তর্জাতিক নাম্বারঃ ৬ (৬/...) মুহাম্মাদ ইবনু আবদুল্লাহ ইবনু নুমায়র ও যুহায়র ইবনু হারব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ শেষ যুগে আমার উম্মতের মধ্যে এমন কিছু লোকের আবির্ভাব ঘটবে যারা তোমাদের এমন এমন হাদীস শোনাবে যা তোমরা কিংবা তোমাদের পূর্বপুরুষরা কেউ কখনো শোননি। অতএব, তোমরা তাদের সংসর্গ থেকে সাবধান থাকবে এবং তাদেরও তোমাদের থেকে দূরে রাখবে।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>15</td></tr><tr><td>Reference</td><td>Book 0 Hadith 15</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] dan [Zuhai
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Muhammed b. Abdillah b. Numeyr ile Züheyr b. Harb rivayet ettiler. Dedilerki: bize Abdullah b. Yezid rivayet etdi. Dediki: Bana Saîd b. Ebi Eyyûb rivayet etti. Dediki: Bana Ebû Hâni, Ebu Osman Müslim b. Yesâr'dan O da Ebu Hureyre radiyallahu anh'den, o Rasuılullah (sallallahu aleyhi ve sellem)'den şöyle buyurduğunu nakletti: "Ümmetimin son zamanlarında sizlere sizin de, babalarınızın da duymadığı şeyleri anlatacak kimseler olacaktır. Onlardan olabildiği kadar uzak durunuz. "336 Yalnızca Müslim rivayet etmiştir. Tuhfetu'l-Eşraf, 14612
+Bana Muhammed b. Abdillah b. Numeyr ile Züheyr b. Harb rivayet ettiler. Dedilerki: bize Abdullah b. Yezid rivayet etdi. Dediki: Bana Saîd b. Ebi Eyyûb rivayet etti. Dediki: Bana Ebû Hâni, Ebu Osman Müslim b. Yesâr'dan O da Ebu Hureyre radiyallahu anh'den, o Rasuılullah (sallallahu aleyhi ve sellem)'den şöyle buyurduğunu nakletti: "Ümmetimin son zamanlarında sizlere sizin de, babalarınızın da duymadığı şeyleri anlatacak kimseler olacaktır. Onlardan olabildiği kadar uzak durunuz. "336 Yalnızca Müslim rivayet etmiştir. Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>15</td></tr><tr><td>Reference</td><td>Book 0 Hadith 15</td></tr></tbody></table></div>
 

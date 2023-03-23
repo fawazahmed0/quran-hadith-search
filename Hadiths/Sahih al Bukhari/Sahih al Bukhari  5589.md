@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেছেন, মদ প্রস্তুত করা হয় পাঁচটি বস্ত্ত থেকে। সেগুলো হলঃ কিসমিস, খেজুর, গম, যব ও মধু। [মুসলিম ৫৪/৬, হাঃ ৩০৩২] (আধুনিক প্রকাশনী- ৫১৭৯, ইসলামিক ফাউন্ডেশন- ৫০৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেছেন, মদ প্রস্তুত করা হয় পাঁচটি বস্ত্ত থেকে। সেগুলো হলঃ কিসমিস, খেজুর, গম, যব ও মধু। [মুসলিম ৫৪/৬, হাঃ ৩০৩২] (আধুনিক প্রকাশনী- ৫১৭৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5589</td></tr><tr><td>Arabic No</td><td>5589</td></tr><tr><td>Reference</td><td>Book 74 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உமர் (ரலி) அவர்கள் கூறியதாவது: மது ஐந்து பொருட்களிருந்து தயாரிக்கப்படுகிறது. அவை: 1. உலர்ந்த திராட்சை2. பேரீச்சம்பழம் 3. கோதுமை 4. தொலி நீக்கப்படாத கோதுமை 5. தேன். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.16 அத்தியாயம் : 74
+உமர் (ரலி) அவர்கள் கூறியதாவது: மது ஐந்து பொருட்களிருந்து தயாரிக்கப்படுகிறது. அவை: 1. உலர்ந்த திராட்சை2. பேரீச்சம்பழம் 3. கோதுமை 4. தொலி நீக்கப்படாத கோதுமை 5. தேன். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5589</td></tr><tr><td>Arabic No</td><td>5589</td></tr><tr><td>Reference</td><td>Book 74 Hadith 15</td></tr></tbody></table></div>
 

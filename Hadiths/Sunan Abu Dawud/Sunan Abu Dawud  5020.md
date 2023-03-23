@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... আবূ রাযীন (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ স্বপ্ন হলো পাখীদের পায়ের উপর, যতক্ষণ না এর তা'বীর বা ব্যাখ্যা করা হয়। আর যখন এর তা'বীর করা হয়, তখন তা সংঘটিত হয়। রাবী বলেনঃ আমার ধারণা, তিনি এরূপ বলেনঃ বন্ধু-বান্ধব ও জ্ঞানী লোক ছাড়া অন্যের কাছে স্বপ্নের কথা ব্যক্ত করা উচিত নয়।
+। আবূ রাযীন (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ স্বপ্নের ব্যাখ্যা করার পূর্ব পর্যন্ত তা একটি পাখির পায়ের সঙ্গে ঝুলন্ত থাকে। অতঃপর ব্যাখ্যা করা হলে তা কার্যকর হয়। বর্ণনাকারী বলেন, আমার ধারণা, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরো বলেছেনঃ ‘‘বন্ধু ও জ্ঞানী ব্যক্তি ছাড়া অন্য কাউকে স্বপ্নের কথা বলবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5020</td></tr><tr><td>Arabic No</td><td>5020</td></tr><tr><td>Reference</td><td>Book 43 Hadith 248</td></tr></tbody></table></div>
 

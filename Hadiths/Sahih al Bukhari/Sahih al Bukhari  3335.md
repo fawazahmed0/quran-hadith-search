@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (ইবনু মাস‘ঊদ) (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কোন ব্যক্তিকে অন্যায়ভাবে হত্যা করা হলে, তার এ খুনের পাপের অংশ আদম (আঃ)-এর প্রথম ছেলের (কাবিলের) উপর বর্তায়। কারণ সেই সর্বপ্রথম হত্যার প্রচলন ঘটায়। (৬৮৬৭, ৬৩২১) (মুসলিম ২৮/৭ হাঃ ১৬৭৭, আহমাদ ৩৬৩০) (আধুনিক প্রকাশনীঃ ৩০৮৯, ইসলামিক ফাউন্ডেশনঃ ৩০৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (ইবনু মাস‘ঊদ) (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কোন ব্যক্তিকে অন্যায়ভাবে হত্যা করা হলে, তার এ খুনের পাপের অংশ আদম (আঃ)-এর প্রথম ছেলের (কাবিলের) উপর বর্তায়। কারণ সেই সর্বপ্রথম হত্যার প্রচলন ঘটায়। (৬৮৬৭, ৬৩২১) (মুসলিম ২৮/৭ হাঃ ১৬৭৭, আহমাদ ৩৬৩০) (আধুনিক প্রকাশনীঃ ৩০৮৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3335</td></tr><tr><td>Arabic No</td><td>3335</td></tr><tr><td>Reference</td><td>Book 60 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Umar bin Hafsh bin Ghiyats] telah bercerita kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அறிவிக்கிறார்கள்: (உலகில்) ஒரு மனிதன் அநியாயமாகக் கொல்லப்படும்போது அந்தக் கொலையின் பாவத்தில் ஆதம் (அலை) அவர்களின் முதல் மகனுக்கும் ஒரு பங்கு இருக்கவே செய்யும். ஏனெனில், அவர்தான் முதன் முதலாக கொலை செய்து (ஒரு முன் மாதிரியை ஏற்படுத்தி) அதை வழக்கில் கொண்டுவந்தவர்.8 இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 60
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அறிவிக்கிறார்கள்: (உலகில்) ஒரு மனிதன் அநியாயமாகக் கொல்லப்படும்போது அந்தக் கொலையின் பாவத்தில் ஆதம் (அலை) அவர்களின் முதல் மகனுக்கும் ஒரு பங்கு இருக்கவே செய்யும். ஏனெனில், அவர்தான் முதன் முதலாக கொலை செய்து (ஒரு முன் மாதிரியை ஏற்படுத்தி) அதை வழக்கில் கொண்டுவந்தவர்.8 இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3335</td></tr><tr><td>Arabic No</td><td>3335</td></tr><tr><td>Reference</td><td>Book 60 Hadith 10</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami ['Umar bin Hafsh bin Ghiyats] telah bercerita kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah (b. Mes'ud) dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Haksızca öldürülen her bir nefsin, günahından bir pay da -haksızca dökülen kanı dolayısıyla- mutlaka Adem'in ilk (olarak kan döken) oğluna da verilir. Çünkü öldürme çığırını ilk açan odur.'' Tekrar: 6867 ve 7321
+Abdullah (b. Mes'ud) dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Haksızca öldürülen her bir nefsin, günahından bir pay da -haksızca dökülen kanı dolayısıyla- mutlaka Adem'in ilk (olarak kan döken) oğluna da verilir. Çünkü öldürme çığırını ilk açan odur.'' Tekrar: 6867 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3335</td></tr><tr><td>Arabic No</td><td>3335</td></tr><tr><td>Reference</td><td>Book 60 Hadith 10</td></tr></tbody></table></div>
 

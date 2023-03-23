@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কোন খাবার পাত্রে মাছি পড়ে, তখন তোমরা তাকে পাত্রের মাঝে সম্পূর্ণরূপে ডুবিয়ে দেবে। কেননা, তার এক ডানায় রোগ এবং অপর ডানায় শিফা থাকে। আর মাছি খাবারে পতিত হওয়ার সময় ঐ ডানা নিক্ষেপ করে, যাতে রোগ-জীবাণু থাকে। কাজেই তোমরা তাকে পাত্রের মধ্যে ডুবিয়ে দেবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কারো পাত্রে মাছি পড়লে তা এর ভিতরে ডুবিয়ে দাও। কেননা তার এক ডানায় রোগ এবং অপর ডানায় নিরাময় রয়েছে। সে জীবাণুযুক্ত পাখা ডুবিয়ে দিতে চেষ্টা করে। কাজেই তা সম্পূর্ণভাবে ডুবিয়ে দাও।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3844</td></tr><tr><td>Arabic No</td><td>3844</td></tr><tr><td>Reference</td><td>Book 28 Hadith 109</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬১৩৪, আন্তর্জাতিক নাম্বারঃ ২৪১৩ ৬১৩৪-(৪৫/২৪১৩) যুহায়র ইবনু হারব (রহঃ) ..... সা'দ (রাযিঃ) হতে বর্ণিত। "যারা তাদের প্রতিপালককে সকালে ও সন্ধ্যায় তার সন্তুষ্টি অর্জনের লক্ষ্যে আহ্বান করে তাদের আপনি বিতাড়িত করবেন না"- (সূরা আল আন’আম ৬ঃ ৫২)। এ আয়াতটি ছয় লোক সম্বন্ধে নাযিল হয়। তন্মধ্যে আমিও একজন ছিলাম এবং আবদুল্লাহ ইবনু মাসউদও ছিলেন। মুশরিকরা বলত, এ ধরনের লোককে আপনি সঙ্গে রাখবেন না। (ইসলামিক ফাউন্ডেশন ৬০২২, ইসলামিক সেন্টার ৬০৬০)
+যুহায়র ইবনু হারব (রহঃ) ..... সা'দ (রাযিঃ) হতে বর্ণিত। "যারা তাদের প্রতিপালককে সকালে ও সন্ধ্যায় তার সন্তুষ্টি অর্জনের লক্ষ্যে আহ্বান করে তাদের আপনি বিতাড়িত করবেন না"- (সূরা আল আন’আম ৬ঃ ৫২)। এ আয়াতটি ছয় লোক সম্বন্ধে নাযিল হয়। তন্মধ্যে আমিও একজন ছিলাম এবং আবদুল্লাহ ইবনু মাসউদও ছিলেন। মুশরিকরা বলত, এ ধরনের লোককে আপনি সঙ্গে রাখবেন না। (ইসলামিক ফাউন্ডেশন ৬০২২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6240</td></tr><tr><td>Arabic No</td><td>2413.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 70</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sa'd reported:This verse was revealed in relation to six persons and I and Ibn Mas'ud were amongst them. The polytheists said to him (the Holy Prophet): Do not keep such persons near you. It was upon this that (this verse was revealed):" Drive not away those who call upon their Lord morning and evening desiring only His pleasure" (vi. 52)
+Sa'd reported:This verse was revealed in relation to six persons and I and Ibn Mas'ud were amongst them. The polytheists said to him (the Holy Prophet): Do not keep such persons near you. It was upon this that (this verse was revealed):" Drive not away those who call upon their Lord morning and evening desiring only His pleasure" (vi)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6240</td></tr><tr><td>Arabic No</td><td>2413.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 70</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: என் விஷயத்திலேயே, "(நபியே!) தம் இறைவனின் உவப்பை நாடி காலையிலும், மாலையிலும் அவனை அழைப்பவர்களை நீர் விரட்டாதீர்" (6:52) எனும் இறைவசனம் அருளப்பெற்றது. ஆறு பேர் தொடர்பாகவே மேற்கண்ட வசனம் அருளப்பெற்றது. அவர்களில் நானும் இப்னு மஸ்ஊத் (ரலி) அவர்களும் அடங்குவோம். இணைவைப்பாளர்(களில் தம்மை உயர்வாகக் கருதிக்கொண்டவர்)கள் நபி (ஸல்) அவர்களிடம், "இ(ந்தச் சாமானிய எளிய)வர்களையா நீர் நெருக்கத்தில் வைத்திருக்கிறீர்?" என்று கேட்டனர். அத்தியாயம் : 44
+சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: என் விஷயத்திலேயே, "(நபியே!) தம் இறைவனின் உவப்பை நாடி காலையிலும், மாலையிலும் அவனை அழைப்பவர்களை நீர் விரட்டாதீர்" (6:52) எனும் இறைவசனம் அருளப்பெற்றது. ஆறு பேர் தொடர்பாகவே மேற்கண்ட வசனம் அருளப்பெற்றது. அவர்களில் நானும் இப்னு மஸ்ஊத் (ரலி) அவர்களும் அடங்குவோம். இணைவைப்பாளர்(களில் தம்மை உயர்வாகக் கருதிக்கொண்டவர்)கள் நபி (ஸல்) அவர்களிடம், "இ(ந்தச் சாமானிய எளிய)வர்களையா நீர் நெருக்கத்தில் வைத்திருக்கிறீர்?" என்று கேட்டனர். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6240</td></tr><tr><td>Arabic No</td><td>2413.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 70</td></tr></tbody></table></div>
 

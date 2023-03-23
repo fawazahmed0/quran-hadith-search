@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ক্রেতার উপর দিয়ে অন্য ক্রেতার দরাদরি করতে নিষেধ করেছেন। [২১৪২] (আধুনিক প্রকাশনী- ৬৪৭৯, ইসলামিক ফাউন্ডেশন- ৬৪৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ক্রেতার উপর দিয়ে অন্য ক্রেতার দরাদরি করতে নিষেধ করেছেন। [২১৪২] (আধুনিক প্রকাশনী- ৬৪৭৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6963</td></tr><tr><td>Arabic No</td><td>6963</td></tr><tr><td>Reference</td><td>Book 90 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik] dari [Nafi'] da
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (வாங்கும் நோக்கமின்றி விலையை உயர்த்திவிடுவதற்காக ஏலம் மற்றும் பிற பேரங்களின்போது) விலையை அதிகமாகக் கேட்பதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள்.16 அத்தியாயம் : 90
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (வாங்கும் நோக்கமின்றி விலையை உயர்த்திவிடுவதற்காக ஏலம் மற்றும் பிற பேரங்களின்போது) விலையை அதிகமாகக் கேட்பதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6963</td></tr><tr><td>Arabic No</td><td>6963</td></tr><tr><td>Reference</td><td>Book 90 Hadith 10</td></tr></tbody></table></div>
 

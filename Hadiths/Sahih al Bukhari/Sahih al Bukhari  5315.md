@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক লোক ও তার স্ত্রীকে লি‘আন করালেন এবং সন্তানের পৈতৃক সম্পর্ক ছিন্ন করে উভয়কে বিচ্ছিন্ন করে দিলেন। আর সন্তান মহিলাকে দিয়ে দিলেন। [৪৭৪৮] (আধুনিক প্রকাশনী- ৪৯২৪, ইসলামিক ফাউন্ডেশন- ৪৮১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক লোক ও তার স্ত্রীকে লি‘আন করালেন এবং সন্তানের পৈতৃক সম্পর্ক ছিন্ন করে উভয়কে বিচ্ছিন্ন করে দিলেন। আর সন্তান মহিলাকে দিয়ে দিলেন। [৪৭৪৮] (আধুনিক প্রকাশনী- ৪৯২৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5315</td></tr><tr><td>Arabic No</td><td>5315</td></tr><tr><td>Reference</td><td>Book 68 Hadith 64</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு மனிதரையும் அவருடைய மனைவியையும் சாப அழைப்புப் பிரமாணம் (லிஆன்) செய்ய வைத்தார்கள். அப்போது அந்த மனிதர் அவளுடைய குழந்தையைத் தம்முடைய தல்ல என்று சொன்னார். ஆகவே, அவ்விருவரையும் நபி (ஸல்) அவர்கள் பிரித்துவைத்தார்கள்; மேலும், குழந்தையை மனைவியிடம் சேர்த்தார்கள். அத்தியாயம் : 68
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு மனிதரையும் அவருடைய மனைவியையும் சாப அழைப்புப் பிரமாணம் (லிஆன்) செய்ய வைத்தார்கள். அப்போது அந்த மனிதர் அவளுடைய குழந்தையைத் தம்முடைய தல்ல என்று சொன்னார். ஆகவே, அவ்விருவரையும் நபி (ஸல்) அவர்கள் பிரித்துவைத்தார்கள்; மேலும், குழந்தையை மனைவியிடம் சேர்த்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5315</td></tr><tr><td>Arabic No</td><td>5315</td></tr><tr><td>Reference</td><td>Book 68 Hadith 64</td></tr></tbody></table></div>
 

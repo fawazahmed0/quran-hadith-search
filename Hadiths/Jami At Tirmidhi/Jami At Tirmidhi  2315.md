@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩১৫। বাহয ইবনু হাকীম (রহঃ) হতে পর্যায়ক্রমে তার বাবা ও দাদার সূত্রে বর্ণিত আছে, তার দাদা বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে আমি বলতে শুনেছিঃ সেই লোক ধ্বংস হোক যে মানুষদের হাসানোর উদ্দেশ্যে কথা বলতে গিয়ে মিথ্যা বলে। সে নিপাত যাক, সে নিপাত যাক। হাসান, গাইয়াতুল মারাম (৩৭৬), মিশকাত, তাহকীক ছানী (৪৮৩৮)। আবূ ঈসা বলেন, আবূ হুরাইরা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান।
+। বাহয ইবনু হাকীম (রহঃ) হতে পর্যায়ক্রমে তার বাবা ও দাদার সূত্রে বর্ণিত আছে, তার দাদা বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে আমি বলতে শুনেছিঃ সেই লোক ধ্বংস হোক যে মানুষদের হাসানোর উদ্দেশ্যে কথা বলতে গিয়ে মিথ্যা বলে। সে নিপাত যাক, সে নিপাত যাক। হাসান, গাইয়াতুল মারাম (৩৭৬), মিশকাত, তাহকীক ছানী (৪৮৩৮)। আবূ ঈসা বলেন, আবূ হুরাইরা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 36 Hadith 12</td></tr></tbody></table></div>
 

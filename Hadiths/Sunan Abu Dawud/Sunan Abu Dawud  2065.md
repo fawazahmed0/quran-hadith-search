@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবন মাহমুদ (রহঃ) ..... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন, তোমরা কোন স্ত্রীলোককে তার ফুফুর সাথে অথবা তার ভাইয়ের মেয়ের সাথে একত্রে বিবাহ করবে না। আর কোন স্ত্রীলোককে তার খালার সাথে অথবা খালাকে তার বোনের সাথে একত্রে বিবাহ করবে না। আর তোমরা বড় (বোন) কে, ছোট (বোনের) উপর এবং ছোট (বোন) কে বড় (বোনের) উপর বিবাহ করবে না (অর্থাৎ দুই বোনকে একত্রে বিবাহ করবে না)।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো নারীকে তার ফুফুর সাথে এবং কোনো ফুফুকে তার ভাতিজীর সাথে একত্রে বিয়ে করা যাবে না। অনুরূপভাবে কোনো নারী ও তার খালা এবং কোনো খালা ও তার ভাগ্নীকে একত্রে বিয়ে কারা যাবে না। অনুরূপ বড় (বোন)-কে ছোট (বোনের) সাথে এবং ছোটকে বড় (বোনোর) সাথেও একত্রে বিয়ে করা যাবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2065</td></tr><tr><td>Arabic No</td><td>2065</td></tr><tr><td>Reference</td><td>Book 12 Hadith 20</td></tr></tbody></table></div>
 

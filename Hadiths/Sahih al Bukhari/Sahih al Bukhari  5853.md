@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (মুহরিম অবস্থায়) যে লোকের ইযার নেই, সে যেন পায়জামা পরে, আর যার জুতা নেই, সে যেন মোজা পরে। [১৭৪০] (আধুনিক প্রকাশনী- ৫৪২৭, ইসলামিক ফাউন্ডেশন- ৫৩২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (মুহরিম অবস্থায়) যে লোকের ইযার নেই, সে যেন পায়জামা পরে, আর যার জুতা নেই, সে যেন মোজা পরে। [১৭৪০] (আধুনিক প্রকাশনী- ৫৪২৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5853</td></tr><tr><td>Arabic No</td><td>5853</td></tr><tr><td>Reference</td><td>Book 77 Hadith 70</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: (இஹ்ராமின்போது) கீழங்கி இல்லாத வர் முழுக்கால் சட்டை அணிந்துகொள் ளட்டும். காலணிகள் இல்லாதவர் (மோஸாக்கள் எனும்) காலுறைகளை அணிந்துகொள்ளட்டும். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.72 அத்தியாயம் : 77
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: (இஹ்ராமின்போது) கீழங்கி இல்லாத வர் முழுக்கால் சட்டை அணிந்துகொள் ளட்டும். காலணிகள் இல்லாதவர் (மோஸாக்கள் எனும்) காலுறைகளை அணிந்துகொள்ளட்டும். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.72 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5853</td></tr><tr><td>Arabic No</td><td>5853</td></tr><tr><td>Reference</td><td>Book 77 Hadith 70</td></tr></tbody></table></div>
 

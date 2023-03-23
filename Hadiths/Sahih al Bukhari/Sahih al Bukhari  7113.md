@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুযাইফাহ ইবনু ইয়ামান (রাঃ) হতে বর্ণিত। তিনি বলেন, বর্তমান কালের মুনাফিকরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কালের মুনাফিকদের চেয়েও জঘন্য। কেননা, সে কালে তারা (মুনাফিকী) করত গোপনে আর আজ করে প্রকাশ্যে। (আধুনিক প্রকাশনী- ৬৬১৪, ইসলামিক ফাউন্ডেশন- ৬৬২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হুযাইফাহ ইবনু ইয়ামান (রাঃ) হতে বর্ণিত। তিনি বলেন, বর্তমান কালের মুনাফিকরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কালের মুনাফিকদের চেয়েও জঘন্য। কেননা, সে কালে তারা (মুনাফিকী) করত গোপনে আর আজ করে প্রকাশ্যে। (আধুনিক প্রকাশনী- ৬৬১৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7113</td></tr><tr><td>Arabic No</td><td>7113</td></tr><tr><td>Reference</td><td>Book 92 Hadith 60</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam bin Abi Iyas] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: இன்றிருக்கும் நயவஞ்சகர்கள் நபி (ஸல்) அவர்களது காலத்திலிருந்த நயவஞ்சகர்களைவிட மோசமானவர்கள் ஆவர். (ஏனெனில்) அன்று அவர்கள் இரகசியமாகச் செயல்பட்டுவந்தார்கள். இன்றோ இவர்கள் பகிரங்கமாகச் செயல்படுகின்றார்கள்.43 அத்தியாயம் : 92
+ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: இன்றிருக்கும் நயவஞ்சகர்கள் நபி (ஸல்) அவர்களது காலத்திலிருந்த நயவஞ்சகர்களைவிட மோசமானவர்கள் ஆவர். (ஏனெனில்) அன்று அவர்கள் இரகசியமாகச் செயல்பட்டுவந்தார்கள். இன்றோ இவர்கள் பகிரங்கமாகச் செயல்படுகின்றார்கள்.43 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7113</td></tr><tr><td>Arabic No</td><td>7113</td></tr><tr><td>Reference</td><td>Book 92 Hadith 60</td></tr></tbody></table></div>
 

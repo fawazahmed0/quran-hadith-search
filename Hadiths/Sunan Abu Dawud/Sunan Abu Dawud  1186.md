@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন ইবরাহীম (রহঃ) ..... হিলাল ইবন আমের (রহঃ) হতে বর্ণিত। কাবিসা আল হিলালি (রাঃ) তাঁকে বলেন, একদা সূর্যগ্রহণ হলে ... অতঃপর মুসা ইবন ইব্রাহিমের হাদিসের অনুরূপ বর্ণিত হয়েছে। তবে এই বর্ণনায় আরও আছে যে, সে সময় এমনভাবে সূর্যগ্রহণ হয় যার ফলে আকাশের নক্ষত্রমণ্ডলী দৃষ্টিগোচর হতে থাকে।
+। হিলাল ইবনু ‘আমির (রহঃ) সূত্রে বর্ণিত। ক্বাবীসাহ আল-হিলালী (রাঃ) তাকে বলেছেন, একদা সূর্যগ্রহণ হয়। অতঃপর মূসা বর্ণিত হাদীসের অনুরূপ। তিনি বলেন, গ্রহণের কারণে সূর্য এমনভাবে আচ্ছন্ন হয়েছিল যে, তারকারাজি পর্যন্ত দৃষ্টিগোচর হচ্ছিল।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1186</td></tr><tr><td>Arabic No</td><td>1186</td></tr><tr><td>Reference</td><td>Book 3 Hadith 26</td></tr></tbody></table></div>
 

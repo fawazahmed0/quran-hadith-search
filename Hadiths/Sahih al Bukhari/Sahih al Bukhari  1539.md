@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নবী সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত, তিনি বলেন, ইহরাম বাঁধার সময় [1] আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর গায়ে সুগন্ধি মেখে দিতাম এবং বায়তুল্লাহ তাওয়াফের পূর্বে ইহরাম খুলে ফেলার সময়ও। (১৭৪৫, ৫৯২২, ৫৯২৮, ৫৯৩০, মুসলিম ১/৪, হাঃ ১৩, আহমাদ ) (আধুনিক প্রকাশনীঃ ১৪৩৮, ইসলামিক ফাউন্ডেশনঃ ১৪৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নবী সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত, তিনি বলেন, ইহরাম বাঁধার সময় [1] আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর গায়ে সুগন্ধি মেখে দিতাম এবং বায়তুল্লাহ তাওয়াফের পূর্বে ইহরাম খুলে ফেলার সময়ও। (১৭৪৫, ৫৯২২, ৫৯২৮, ৫৯৩০, মুসলিম ১/৪, হাঃ ১৩, আহমাদ ) (আধুনিক প্রকাশনীঃ ১৪৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1539</td></tr><tr><td>Arabic No</td><td>1539</td></tr><tr><td>Reference</td><td>Book 25 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: இஹ்ராம் கட்டும் நேரத்தில், அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இஹ்ராம் கட்டுவதற்காக நான் நறுமணம் பூசினேன். அவ்வாறே, இஹ்ராமிலிருந்து விடுபடும் போதும் கஅபாவைச் சுற்றி (தவாஃபுல் இஃபாளா) வருவதற்கு முன்னாலும் நறுமணம் பூசுவேன். அத்தியாயம் : 25
+நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: இஹ்ராம் கட்டும் நேரத்தில், அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இஹ்ராம் கட்டுவதற்காக நான் நறுமணம் பூசினேன். அவ்வாறே, இஹ்ராமிலிருந்து விடுபடும் போதும் கஅபாவைச் சுற்றி (தவாஃபுல் இஃபாளா) வருவதற்கு முன்னாலும் நறுமணம் பூசுவேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1539</td></tr><tr><td>Arabic No</td><td>1539</td></tr><tr><td>Reference</td><td>Book 25 Hadith 26</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha şöyle demiştir: "Resulullah (Sallallahu aleyhi ve Sellem)'e, ihrama girerken ve (şeytan taşlayıp traş olarak) ihramdan çıktığı sırada (ziyaret) tavafından önce koku sürerdim". Tekrar: 1754, 5928, 5930
+Aişe r.anha şöyle demiştir: "Resulullah (Sallallahu aleyhi ve Sellem)'e, ihrama girerken ve (şeytan taşlayıp traş olarak) ihramdan çıktığı sırada (ziyaret) tavafından önce koku sürerdim". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1539</td></tr><tr><td>Arabic No</td><td>1539</td></tr><tr><td>Reference</td><td>Book 25 Hadith 26</td></tr></tbody></table></div>
 

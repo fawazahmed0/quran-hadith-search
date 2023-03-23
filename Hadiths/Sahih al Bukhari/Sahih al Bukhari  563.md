@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ মুযানী (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বেদুঈনরা মাগরিবের সালাতের নামের ব্যাপারে তোমাদের উপর যেন প্রভাব বিস্তার না করে। রাবী (‘আবদুল্লাহ্ মুযানী (রাযি.) বলেন, বেদুঈনরা মাগরিবকে ‘ইশা বলে থাকে। (আধুনিক প্রকাশনীঃ ৫৩০, ইসলামিক ফাউন্ডেশনঃ ৫৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ মুযানী (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বেদুঈনরা মাগরিবের সালাতের নামের ব্যাপারে তোমাদের উপর যেন প্রভাব বিস্তার না করে। রাবী (‘আবদুল্লাহ্ মুযানী (রাযি.) বলেন, বেদুঈনরা মাগরিবকে ‘ইশা বলে থাকে। (আধুনিক প্রকাশনীঃ ৫৩০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>563</td></tr><tr><td>Arabic No</td><td>563</td></tr><tr><td>Reference</td><td>Book 9 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] -yaitu 'Abdullah bin 'Amru- berkata,
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களது மஃக்ரிப் தொழுகையின் பெயர் விஷயத்தில் உங்களைக் கிராமப்புற அரபியர் மிகைத்துவிட வேண்டாம். கிராமப்புற அரபியர் அதை ‘இஷா’ என்று குறிப்பிட்டுவருகின்றனர். இதை அப்துல்லாஹ் பின் முஃகஃப்பல் அல்முஸனீ (ரலி) அவர்கள் அறிவிக் கிறார்கள். அத்தியாயம் : 9
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களது மஃக்ரிப் தொழுகையின் பெயர் விஷயத்தில் உங்களைக் கிராமப்புற அரபியர் மிகைத்துவிட வேண்டாம். கிராமப்புற அரபியர் அதை ‘இஷா’ என்று குறிப்பிட்டுவருகின்றனர். இதை அப்துல்லாஹ் பின் முஃகஃப்பல் அல்முஸனீ (ரலி) அவர்கள் அறிவிக் கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>563</td></tr><tr><td>Arabic No</td><td>563</td></tr><tr><td>Reference</td><td>Book 9 Hadith 40</td></tr></tbody></table></div>
 

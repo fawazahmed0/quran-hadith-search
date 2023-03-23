@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন সালিহ্ (রহঃ) ..... আবদুল্লাহ্ ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, হজ্জের প্রাথমিক লোকেরা ক্রয়-বিক্রয় করতো। অতঃপর বর্ণনাকারী পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেন ‘‘হজ্জের মওসুমে’’ পর্যন্ত।
+। ‘আব্দুল্লাহ ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। প্রথম দিকে লোকেরা হজের (হজ্জের) মওসুমে কেনা-বেচা করতো। অতঃপর বর্ণনাকারীمَوَاسِمِ الْحَجِّ পর্যন্ত পূর্ব বর্ণিত হাদীসের সমার্থক হাদীস বর্ণনা করেন।[1] সহীহ, পূর্বেরটির দ্বারা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1735</td></tr><tr><td>Arabic No</td><td>1735</td></tr><tr><td>Reference</td><td>Book 11 Hadith 15</td></tr></tbody></table></div>
 

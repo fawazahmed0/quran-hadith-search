@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... আবূ বাকরাহ্ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ফজরের নামায আরম্ভ করে (হঠাৎ তা ছেড়ে দিয়ে) লোকদের হাতের ইাশারায় স্ব-স্ব স্থানে বসতে নির্দেশ দেন। অতঃপর এমন অবস্থায় ফিরে আসেন যে, তাঁর মাথা থেকে পানি টপকে পড়ছিল। অতঃপর তাদের (সাহাবীদের) নিয়ে নামায আদায় করেন।
+। আবূ বাকরা (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাত শুরু করে (হঠাৎ তা ছেড়ে দিলেন) আর লোকদেরকে হাতে ইশারা করলেন যে, তোমরা সবাই নিজ নিজ জায়গায় অবস্থান কর। কিছুক্ষণ পর (ফরয গোসল করে) তিনি ফিরে এলেন। তখন তাঁর মাথা থেকে পানি ঝরে পড়ছিল। অতঃপর তিনি সালাত আদায় করালেন।[1] সহীহ : বুখারী ও মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>233</td></tr><tr><td>Arabic No</td><td>233</td></tr><tr><td>Reference</td><td>Book 1 Hadith 233</td></tr></tbody></table></div>
 

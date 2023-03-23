@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৩৬১, আন্তর্জাতিক নাম্বারঃ ১৪১৬ ৩৩৬১-(.../...) আবূ কুরায়ব (রহঃ) ..... উবায়দুল্লাহ (রহঃ) থেকে এ সূত্রে অনুরূপ বর্ণিত হয়েছে। তবে এ সূত্রে ইবনু নুমায়রের অতিরিক্ত বর্ণনা উল্লেখিত হয়নি। (ইসলামিক ফাউন্ডেশন ৩৩৩৫, ইসলামীক সেন্টার ৩৩৩৪)
+আবূ কুরায়ব (রহঃ) ..... উবায়দুল্লাহ (রহঃ) থেকে এ সূত্রে অনুরূপ বর্ণিত হয়েছে। তবে এ সূত্রে ইবনু নুমায়রের অতিরিক্ত বর্ণনা উল্লেখিত হয়নি। (ইসলামিক ফাউন্ডেশন ৩৩৩৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3470</td></tr><tr><td>Arabic No</td><td>1416.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 72</td></tr></tbody></table></div>
 

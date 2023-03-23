@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪৭৫। আবু দারদা ও আবু যার (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম বলেন, আল্লাহ তা'আলা বলেনঃ হে আদম সন্তান! দিনের প্রথম ভাগে আমার জন্য চার রাক’আত নামায আদায় কর, আমি তোমার দিনের শেষ পর্যন্ত প্রয়োজন পূরণ করে দিব। —সহীহ। তা’লীকুর রাগীব- (১/২৩৬)। আবু ঈসা বলেনঃ হাদীসটি হাসান গরীব।
+। আবু দারদা ও আবু যার (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম বলেন, আল্লাহ তা'আলা বলেনঃ হে আদম সন্তান! দিনের প্রথম ভাগে আমার জন্য চার রাক’আত নামায আদায় কর, আমি তোমার দিনের শেষ পর্যন্ত প্রয়োজন পূরণ করে দিব। —সহীহ। তা’লীকুর রাগীব- (১/২৩৬)। আবু ঈসা বলেনঃ হাদীসটি হাসান গরীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>475</td></tr><tr><td>Arabic No</td><td>475</td></tr><tr><td>Reference</td><td>Book 3 Hadith 23</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... যায়দ ইবন ছাবিত (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরায়ার ক্রয়-বিক্রয় শুকনো অথবা তাজা খেজুরের বিনিময়ে জায়িয বলেছেন। (কেননা, এতে গরীব-মিসকীনদের উপকার নিহিত আছে।)
+। খারিজাহ ইবনু যায়িদ ইবনু সাবিত (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আরিয়া পদ্ধতিতে খুরমা ও খেজুর ক্রয়-বিক্রয়ের অনুমতি দিয়েছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3362</td></tr><tr><td>Arabic No</td><td>3362</td></tr><tr><td>Reference</td><td>Book 23 Hadith 37</td></tr></tbody></table></div>
 

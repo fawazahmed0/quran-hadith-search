@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, কারও হলফ করতে হলে সে যেন আল্লাহর নামেই হলফ করে, নতুবা চুপ করে থাকে। (৩৮৩৬, ৬১০৮, ৬৬৪৬, ৬৬৪৮) (আধুনিক প্রকাশনীঃ ২৪৮৪, ইসলামিক ফাউন্ডেশনঃ ২৫০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, কারও হলফ করতে হলে সে যেন আল্লাহর নামেই হলফ করে, নতুবা চুপ করে থাকে। (৩৮৩৬, ৬১০৮, ৬৬৪৬, ৬৬৪৮) (আধুনিক প্রকাশনীঃ ২৪৮৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 52 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: யார் சத்தியம் செய்கிறாரோ அவர் அல்லாஹ்வின் மீது சத்தியம் செய்யட்டும்; அல்லது அமைதியாக இருக்கட்டும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 52
+நபி (ஸல்) அவர்கள்கூறினார்கள்: யார் சத்தியம் செய்கிறாரோ அவர் அல்லாஹ்வின் மீது சத்தியம் செய்யட்டும்; அல்லது அமைதியாக இருக்கட்டும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 52 Hadith 40</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nafi’ Abdullah r.a.'den rivayet etmiştir: Nebi Sallallahu Aleyhi ve Sellem "Her kim yemin edecekse Allah adına yemin etsin ya da sussun" buyurmuştur. Tekrar: 3836, 6108, 6646, 6648
+Nafi’ Abdullah r.a.'den rivayet etmiştir: Nebi Sallallahu Aleyhi ve Sellem "Her kim yemin edecekse Allah adına yemin etsin ya da sussun" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 52 Hadith 40</td></tr></tbody></table></div>
 

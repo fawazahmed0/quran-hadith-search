@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৯৮৮। আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিঃসঙ্গ ও অপরিচিত অবস্থায় ইসলামের অগ্রযাত্রা শুরু হয়েছে। অচিরেই তা নিঃসঙ্গ ও অপরিচিত অবস্থায় প্রত্যাবর্তন করবে। অতএব নিঃসঙ্গ ও অপরিচিতদের জন্য মোবারকবাদ (স্বাগতম)।
+। আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিঃসঙ্গ ও অপরিচিত অবস্থায় ইসলামের অগ্রযাত্রা শুরু হয়েছে। অচিরেই তা নিঃসঙ্গ ও অপরিচিত অবস্থায় প্রত্যাবর্তন করবে। অতএব নিঃসঙ্গ ও অপরিচিতদের জন্য মোবারকবাদ (স্বাগতম)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3988</td></tr><tr><td>Arabic No</td><td>3988</td></tr><tr><td>Reference</td><td>Book 36 Hadith 63</td></tr></tbody></table></div>
 

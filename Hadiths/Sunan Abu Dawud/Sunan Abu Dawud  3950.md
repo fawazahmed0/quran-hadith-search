@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন সুলায়মান (রহঃ) .... উমার ইবন খাত্তাব (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যদি কেউ তাঁর এমন কোন নিকটাত্মীয়ের মালিক হয়, যার সাথে বিবাহ বৈধ নয়, সে আযাদ হয়ে যাবে।
+। কাতাদাহ (রহঃ) সূত্রে বর্ণিত। উমার ইবনুল খাত্তাব (রাঃ) বলেন, কারো মালিকানায় যদি নিকটাত্মীয় মুহাররাম ব্যক্তি গোলাম থাকে তবে সে সরাসরি আযাদ।[1] দুর্বল মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 31 Hadith 25</td></tr></tbody></table></div>
 

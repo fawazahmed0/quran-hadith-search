@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে লোক আমাদের উপর অস্ত্র তুলবে সে আমাদের দলভুক্ত নয়। [৬৮৭৪; মুসলিম ১/৪২, হাঃ ৯৮] (আধুনিক প্রকাশনী- ৬৫৭৭, ইসলামিক ফাউন্ডেশন- ৬৫৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে লোক আমাদের উপর অস্ত্র তুলবে সে আমাদের দলভুক্ত নয়। [৬৮৭৪; মুসলিম ১/৪২, হাঃ ৯৮] (আধুনিক প্রকাশনী- ৬৫৭৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7070</td></tr><tr><td>Arabic No</td><td>7070</td></tr><tr><td>Reference</td><td>Book 92 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நமக்கெதிராக ஆயுதம் ஏந்தியவர் நம்மைச் சார்ந்தவர் அல்லர். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 92
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நமக்கெதிராக ஆயுதம் ஏந்தியவர் நம்மைச் சார்ந்தவர் அல்லர். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7070</td></tr><tr><td>Arabic No</td><td>7070</td></tr><tr><td>Reference</td><td>Book 92 Hadith 21</td></tr></tbody></table></div>
 

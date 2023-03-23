@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহ্ তা‘আলা সে সকল লোকের উপর সন্তুষ্ট হন, যারা শৃঙ্খলিত অবস্থায় জান্নাতে দাখিল হবে। (৪৫৫৭) (আধুনিক প্রকাশনীঃ ২৭৮৯, ইসলামিক ফাউন্ডেশনঃ ২৭৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহ্ তা‘আলা সে সকল লোকের উপর সন্তুষ্ট হন, যারা শৃঙ্খলিত অবস্থায় জান্নাতে দাখিল হবে। (৪৫৫৭) (আধুনিক প্রকাশনীঃ ২৭৮৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3010</td></tr><tr><td>Arabic No</td><td>3010</td></tr><tr><td>Reference</td><td>Book 56 Hadith 219</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Basysyar] telah bercerita kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: சங்கிலிகளால் பிணைக்கப்பட்டவர் களாகச் சொர்க்கத்தில் நுழையும் ஒரு கூட்டத்தாரைக் கண்டு அல்லாஹ் வியப் படைவான்.124 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 56
+நபி (ஸல்) அவர்கள்கூறினார்கள்: சங்கிலிகளால் பிணைக்கப்பட்டவர் களாகச் சொர்க்கத்தில் நுழையும் ஒரு கூட்டத்தாரைக் கண்டு அல்லாஹ் வியப் படைவான்.124 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3010</td></tr><tr><td>Arabic No</td><td>3010</td></tr><tr><td>Reference</td><td>Book 56 Hadith 219</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Muhammad bin Basysyar] telah bercerita kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah Teala zincirlere vurulmuş bir şekilde cennete giren kimselere şaşar. " Tekrar: 4557
+Ebu Hureyre r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah Teala zincirlere vurulmuş bir şekilde cennete giren kimselere şaşar. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3010</td></tr><tr><td>Arabic No</td><td>3010</td></tr><tr><td>Reference</td><td>Book 56 Hadith 219</td></tr></tbody></table></div>
 

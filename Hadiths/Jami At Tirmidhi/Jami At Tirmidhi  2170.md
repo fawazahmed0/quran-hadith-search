@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২১৭০। হুযাইফা ইবনুল ইয়ামান (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সেই সত্তার শপথ, যার হাতে আমার প্রাণ! যতক্ষণ না তোমরা তোমাদের ইমামকে হত্যা করবে এবং পরস্পর হানাহানিতে লিপ্ত হবে এবং নিকৃষ্টতম ব্যক্তিরা তোমাদের দুনিয়ার হর্তাকর্তা হবে, ততক্ষণ কিয়ামত সংঘটিত হবে না। যঈফ, ইবনু মাজাহ (৪০৪৩) আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমর ইবনু আবূ আমরের সূত্রেই শুধুমাত্র আমরা এ হাদীসটি জেনেছি।
+। হুযাইফা ইবনুল ইয়ামান (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সেই সত্তার শপথ, যার হাতে আমার প্রাণ! যতক্ষণ না তোমরা তোমাদের ইমামকে হত্যা করবে এবং পরস্পর হানাহানিতে লিপ্ত হবে এবং নিকৃষ্টতম ব্যক্তিরা তোমাদের দুনিয়ার হর্তাকর্তা হবে, ততক্ষণ কিয়ামত সংঘটিত হবে না। যঈফ, ইবনু মাজাহ (৪০৪৩) আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমর ইবনু আবূ আমরের সূত্রেই শুধুমাত্র আমরা এ হাদীসটি জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2170</td></tr><tr><td>Arabic No</td><td>2170</td></tr><tr><td>Reference</td><td>Book 33 Hadith 13</td></tr></tbody></table></div>
 

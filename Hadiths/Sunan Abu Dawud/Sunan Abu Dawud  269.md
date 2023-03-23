@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... আয়িশা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার হায়েয অবস্থায় আমি এবং রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম রাতে একই চাঁদরের নীচে ঘুমাতাম আমার শরীর হতে নির্গত কোন কিছু অর্থাৎ হায়েযের রক্ত যদি তাঁর কাপড়ে লেগে যেত তবে তিনি শুধু ঐ স্থানটুকু ধুয়ে ফেলতেন। অতঃপর তা পরিবর্তন না করে সেই কাপড়েই নামায পড়তেন। আর যদি কিছু তার দেহ হতে (অর্থাৎ মযী) তাঁর কাপড়ে লাগত- তবে ঐ স্থানটুকু শুধু ধৌত করতেন এবং উক্ত কাপড়ে নামায আদায় করতেন।
+। ‘আয়িশাহ্ (রাঃ) বলেন, আমি ও রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই কম্বলের নীচে রাত কাটাতাম। অথচ তখন আমি হায়িয অবস্থায় থাকতাম। আমার হায়িযের রক্ত তাঁর শরীরে লেগে গেলে তিনি শুধু ঐ স্থানটুকু ধুয়ে ফেলতেন, এর অতিরিক্ত ধুতেন না। অতঃপর তিনি ঐ কাপড়েই সালাত আদায় করতেন। আর যদি তাঁর কাপড়ে তাঁরই দেহের (মযী) লেগে যেত, তাহলে শুধু ঐ স্থানটুকু ধুয়ে নিতেন, এর অতিরিক্ত কিছু ধুতেন না। অতঃপর ঐ কাপড়েই সালাত আদায় করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>269</td></tr><tr><td>Arabic No</td><td>269</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
 

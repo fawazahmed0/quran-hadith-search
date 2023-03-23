@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আহলে কিতাব হিব্রু ভাষায় তাওরাত পড়ে মুসলিমদের কাছে তা আরবী ভাষায় ব্যাখ্যা করত। (এ সম্পর্কে) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আহলে কিতাবকে তোমরা সত্যবাদী ভেবো না এবং তাদেরকে মিথ্যাবাদীও ভেবো না। তোমরা বলে দাও, আমরা ঈমান এনেছি আল্লাহর প্রতি এবং আমাদের উপর যা নাযিল হয়েছে তার প্রতি......। [৪৪৮৫] (আধুনিক প্রকাশনী- ৬৮৪৭, ইসলামিক ফাউন্ডেশন- ৬৮৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আহলে কিতাব হিব্রু ভাষায় তাওরাত পড়ে মুসলিমদের কাছে তা আরবী ভাষায় ব্যাখ্যা করত। (এ সম্পর্কে) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আহলে কিতাবকে তোমরা সত্যবাদী ভেবো না এবং তাদেরকে মিথ্যাবাদীও ভেবো না। তোমরা বলে দাও, আমরা ঈমান এনেছি আল্লাহর প্রতি এবং আমাদের উপর যা নাযিল হয়েছে তার প্রতি......। [৪৪৮৫] (আধুনিক প্রকাশনী- ৬৮৪৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7362</td></tr><tr><td>Arabic No</td><td>7362</td></tr><tr><td>Reference</td><td>Book 96 Hadith 89</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: வேதக்காரர்(களான யூதர்)கள் தவ்ராத் வேதத்தை ஹீப்ரு (எபிரேயு) மொழியில் ஓதி, அதை அரபு மொழியில் இஸ்லாமியர்களுக்கு விளக்கியும் வந்தார்கள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “வேதக்காரர்களை (அவர்கள் சொல்வதெல்லாம் உண்மை என) நம்பவும் வேண்டாம்; (பொய் என) மறுக்கவும் வேண்டாம். மாறாக, (முஸ்லிம்களே!) நீங்கள் கூறுங்கள்: நாங்கள் அல்லாஹ்வையும் எங்களுக்கு அருளப்பெற்றதையும் உங்களுக்கு அருளப்பெற்றதையும் நம்புகிறோம்” என்று கூறினார்கள்.97 அத்தியாயம் : 96
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: வேதக்காரர்(களான யூதர்)கள் தவ்ராத் வேதத்தை ஹீப்ரு (எபிரேயு) மொழியில் ஓதி, அதை அரபு மொழியில் இஸ்லாமியர்களுக்கு விளக்கியும் வந்தார்கள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “வேதக்காரர்களை (அவர்கள் சொல்வதெல்லாம் உண்மை என) நம்பவும் வேண்டாம்; (பொய் என) மறுக்கவும் வேண்டாம். மாறாக, (முஸ்லிம்களே!) நீங்கள் கூறுங்கள்: நாங்கள் அல்லாஹ்வையும் எங்களுக்கு அருளப்பெற்றதையும் உங்களுக்கு அருளப்பெற்றதையும் நம்புகிறோம்” என்று கூறினார்கள்.97 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7362</td></tr><tr><td>Arabic No</td><td>7362</td></tr><tr><td>Reference</td><td>Book 96 Hadith 89</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre şöyle demiştir: Ehl-i Kitap (Yahudiler) Tevrat'ı İbranice metni ile okurlar ve onu Arap diliyle Müslümanlara tefsir ederlerdi. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem sahabilerine şöyle buyurdu: "Ehli Kitab'ın sözlerini tasdik etmeyiniz, tekzip de etmeyiniz. Ancak şöyle deyin: 'Biz, Allah'a ve bize indirilene; İbrahim, İsmail, İshak, Yakub ve Esbat'a indirilene, Musa ve İsa'ya verilenlere Rableri tarafından diğer Nebilere verilenlere, onlardan hiçbiri arasında fark gözetmeksizin inandık ve biz sadece Allah'a teslim olduk' deyin. "(Bakara 136)
+Ebu Hureyre şöyle demiştir: Ehl-i Kitap (Yahudiler) Tevrat'ı İbranice metni ile okurlar ve onu Arap diliyle Müslümanlara tefsir ederlerdi. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem sahabilerine şöyle buyurdu: "Ehli Kitab'ın sözlerini tasdik etmeyiniz, tekzip de etmeyiniz. Ancak şöyle deyin: 'Biz, Allah'a ve bize indirilene; İbrahim, İsmail, İshak, Yakub ve Esbat'a indirilene, Musa ve İsa'ya verilenlere Rableri tarafından diğer Nebilere verilenlere, onlardan hiçbiri arasında fark gözetmeksizin inandık ve biz sadece Allah'a teslim olduk' deyin. "(Bakara)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7362</td></tr><tr><td>Arabic No</td><td>7362</td></tr><tr><td>Reference</td><td>Book 96 Hadith 89</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৭২৮, আন্তর্জাতিক নাম্বারঃ ১৫২৫ ৩৭২৮-(২৯/১৫২৫) ইয়াহইয়া ইবনু ইয়াহইয়া, আবূ রাবী' আতাকী ও কুতাইবাহ্ (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কোন খাদ্যদ্রব্য ক্রয় করবে সে তা আয়ত্বে নেয়ার পূর্বে বিক্রি করতে পারবে না। ইবনু আব্বাস (রাযিঃ) বলেন, আমি মনে করি সকল বস্তুর বেলায় এ একই নিয়ম। (ইসলামিক ফাউন্ডেশন ৩৬৯৪, ইসলামিক সেন্টার ৩৬৯৪)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3836</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

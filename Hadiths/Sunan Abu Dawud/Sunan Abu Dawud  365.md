@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবনু সাঈদ .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। খাওলা বিনতে ইয়াসার (রাঃ) মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বলেন, হে আল্লাহর রাসূল! আমার একটি মাত্র কাপড় আছে এবং তা পরিহিত অবস্হায় আমি হায়েযগ্রস্ত হই। তখন আমি কি করব? তিনি বলেনঃ তুমি পবিত্র হলে কাপড়টি ধুঁয়ে নাও, অতঃপর তা পরিধান করে নামায পড়। তিনি বলেন, যদি রক্তের দাগ দূরীভূত না হয়? তিনি বলেনঃ রক্ত ধৌত করাই তোমার জন্য যথেষ্ট, এর চিহ্ন তোমার কোন ক্ষতি করবে না। (হাদীছটি ভারতীয় সংস্করণে নেই, মিসরীয় সংস্করণে আছে)।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। খাওলা বিনতু ইয়াসার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট উপস্থিত হয়ে বলেন, হে আল্লাহর রসূল! আমার একটি মাত্র পরনের কাপড় আছে। তা পরিহিত অবস্থায় আমি হায়িযগ্রস্ত হই। অতএব এই অবস্থায় আমার করণীয় কি? তিনি বললেন, তুমি হায়িযমুক্ত হলে পরিধেয় বস্ত্রটি ধুয়ে নিবে। অতঃপর সেটা পরে সালাত আদায় করবে। তিনি বলেন, যদি রক্তের চিহ্ন দূরীভূত না হয়? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ রক্ত ধুয়ে ফেলাই তোমার জন্য যথেষ্ট। রক্তের চিহ্ন তোমার কোন ক্ষতি করবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>365</td></tr><tr><td>Arabic No</td><td>365</td></tr><tr><td>Reference</td><td>Book 1 Hadith 365</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den rivayet edilmiştir; "Havle binti Yesar, Resulullah (Sallallahu aleyhi ve Sellem)'e gelip: Ya Resulullah! Benim sadece bir tane elbisem var, ben o (elbisem) üzerimde iken hayız oluyorum, ne yapayım? dedi. Nebi (Sallallahu aleyhi ve Sellem) şu cevabı verdi: Temizlendiğin zaman onu yıka ve onda (onu giyerek) namazını kıl." Havle dedi ki: Kan çıkmazsa (ne yapayım)? Nebi (Sallallahu aleyhi ve Sellem); '"Kam yıkamak sana yeter, izi zarar vermez" buyurdular. Diğer tahric: Ahmed b. Hanbel, II, 380
+Ebu Hureyre (r.a.)'den rivayet edilmiştir; "Havle binti Yesar, Resulullah (Sallallahu aleyhi ve Sellem)'e gelip: Ya Resulullah! Benim sadece bir tane elbisem var, ben o (elbisem) üzerimde iken hayız oluyorum, ne yapayım? dedi. Nebi (Sallallahu aleyhi ve Sellem) şu cevabı verdi: Temizlendiğin zaman onu yıka ve onda (onu giyerek) namazını kıl." Havle dedi ki: Kan çıkmazsa (ne yapayım)? Nebi (Sallallahu aleyhi ve Sellem); '"Kam yıkamak sana yeter, izi zarar vermez" buyurdular. Diğer tahric: Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>365</td></tr><tr><td>Arabic No</td><td>365</td></tr><tr><td>Reference</td><td>Book 1 Hadith 365</td></tr></tbody></table></div>
 

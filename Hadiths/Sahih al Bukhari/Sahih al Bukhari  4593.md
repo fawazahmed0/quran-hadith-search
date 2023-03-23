@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বললেন, যখন لَا يَسْتَوِي الْقَاعِدُوْنَ مِنَ الْمُؤْمِنِيْنَ ..... আয়াতটি অবতীর্ণ হল, তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যায়দ (রাঃ)-কে ডাকলেন। তিনি তা লিখে নিলেন। ইবনু উম্মু মাকতুম (রাঃ) তাঁর অক্ষমতার ওযর পেশ করলেন, আল্লাহ তা‘আলা অবতীর্ণ করলেনঃ غَيْرَ أُولِي الضَّرَرِ অক্ষম ব্যক্তিরা ব্যতীত- (সূরাহ আন-নিসা ৪/৯৫)। [২৮৩১] (আধুনিক প্রকাশনীঃ ৪২৩২, ইসলামিক ফাউন্ডেশনঃ ৪২৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাঃ) হতে বর্ণিত। তিনি বললেন, যখন لَا يَسْتَوِي الْقَاعِدُوْنَ مِنَ الْمُؤْمِنِيْنَ ..... আয়াতটি অবতীর্ণ হল, তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যায়দ (রাঃ)-কে ডাকলেন। তিনি তা লিখে নিলেন। ইবনু উম্মু মাকতুম (রাঃ) তাঁর অক্ষমতার ওযর পেশ করলেন, আল্লাহ তা‘আলা অবতীর্ণ করলেনঃ غَيْرَ أُولِي الضَّرَرِ অক্ষম ব্যক্তিরা ব্যতীত- (সূরাহ আন-নিসা ৪/৯৫)। [২৮৩১] (আধুনিক প্রকাশনীঃ ৪২৩২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4593</td></tr><tr><td>Arabic No</td><td>4593</td></tr><tr><td>Reference</td><td>Book 65 Hadith 115</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara:When the Verse:-- "Not equal are those of the believers who sit (at home)" (4.95) was revealed, Allah Apostle called for Zaid who wrote it. In the meantime Ibn Um Maktum came and complained of his blindness, so Allah revealed: "Except those who are disabled (by injury or are blind or lame..." etc.) (4.95)
+Narrated Al-Bara:When the Verse:-- "Not equal are those of the believers who sit (at home)" (4.95) was revealed, Allah Apostle called for Zaid who wrote it. In the meantime Ibn Um Maktum came and complained of his blindness, so Allah revealed: "Except those who are disabled (by injury or are blind or lame..." etc)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4593</td></tr><tr><td>Arabic No</td><td>4593</td></tr><tr><td>Reference</td><td>Book 65 Hadith 115</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] Telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறியதாவது: “இறைநம்பிக்கையாளர்களில் அறப்போரில் கலந்துகொள்ளாமல் இருந்து விட்டவர்களும், தம் உயிராலும் பொருளாலும் அல்லாஹ்வின் வழியில் அறப் போர் புரிந்தவர்களும் சமமாகமாட்டார்கள்” எனும் (4:95ஆவது) இறைவசனம் அருளப்பெற்றபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஸைத் பின் ஸாபித் (ரலி) அவர்களை அழைக்க, அவர் (வந்து) அதை எழுதினார். அப்போது இப்னு உம்மி மக்த்தூம் (ரலி) அவர்கள் வந்து தமது ஊனத்தைப் பற்றி முறையிட்டார். அப்போதுதான் அல்லாஹ், “இடையூறு உள்ளவர்கள் தவிர' எனும் சொற்றொடரை அருளினான்.24 அத்தியாயம் : 65
+பராஉ (ரலி) அவர்கள் கூறியதாவது: “இறைநம்பிக்கையாளர்களில் அறப்போரில் கலந்துகொள்ளாமல் இருந்து விட்டவர்களும், தம் உயிராலும் பொருளாலும் அல்லாஹ்வின் வழியில் அறப் போர் புரிந்தவர்களும் சமமாகமாட்டார்கள்” எனும் (4:95ஆவது) இறைவசனம் அருளப்பெற்றபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஸைத் பின் ஸாபித் (ரலி) அவர்களை அழைக்க, அவர் (வந்து) அதை எழுதினார். அப்போது இப்னு உம்மி மக்த்தூம் (ரலி) அவர்கள் வந்து தமது ஊனத்தைப் பற்றி முறையிட்டார். அப்போதுதான் அல்லாஹ், “இடையூறு உள்ளவர்கள் தவிர' எனும் சொற்றொடரை அருளினான்.24 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4593</td></tr><tr><td>Arabic No</td><td>4593</td></tr><tr><td>Reference</td><td>Book 65 Hadith 115</td></tr></tbody></table></div>
 

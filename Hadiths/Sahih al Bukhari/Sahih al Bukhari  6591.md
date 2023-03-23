@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারিসা ইবনু ওয়াহ্ব (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে হাউযে কাউসার সম্পর্কে আলোচনা করতে শুনেছি। এ বিষয়ে তিনি বলেছেনঃ হাউযে কাউসার মদিনা এবং সান‘আর মধ্যকার দূরত্বের মতো। (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন- ৬১৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হারিসা ইবনু ওয়াহ্ব (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে হাউযে কাউসার সম্পর্কে আলোচনা করতে শুনেছি। এ বিষয়ে তিনি বলেছেনঃ হাউযে কাউসার মদিনা এবং সান‘আর মধ্যকার দূরত্বের মতো। (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6591</td></tr><tr><td>Arabic No</td><td>6591</td></tr><tr><td>Reference</td><td>Book 81 Hadith 179</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Haritha bin Wahb:I heard the Prophet (ﷺ) mentioning the Lake-Fount (A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹாரிஸா பின் வஹ்ப் (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) நபி (ஸல்) அவர்கள் (‘அல்கவ்ஸர்’) எனும் தடாகத்தைப் பற்றிக் குறிப்பிட்டார்கள். அப்போது “(அதன் பரப்பளவானது,) மதீனாவுக்கும் (யமனிலுள்ள) ‘ஸன்ஆ’ நகரத்துக்கும் இடையேயான தூரமாகும்” என்று கூறினார்கள். அத்தியாயம் : 81
+ஹாரிஸா பின் வஹ்ப் (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) நபி (ஸல்) அவர்கள் (‘அல்கவ்ஸர்’) எனும் தடாகத்தைப் பற்றிக் குறிப்பிட்டார்கள். அப்போது “(அதன் பரப்பளவானது,) மதீனாவுக்கும் (யமனிலுள்ள) ‘ஸன்ஆ’ நகரத்துக்கும் இடையேயான தூரமாகும்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6591</td></tr><tr><td>Arabic No</td><td>6591</td></tr><tr><td>Reference</td><td>Book 81 Hadith 179</td></tr></tbody></table></div>
 

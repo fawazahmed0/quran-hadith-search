@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। খালিদ (রহঃ) সূত্রে এ সনদ পূর্বোক্ত হাদীসের অনুরূপ অর্থবোধক হাদীস বর্ণিত। আমি এটি সহীহ এবং যঈফে পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4548</td></tr><tr><td>Arabic No</td><td>4548</td></tr><tr><td>Reference</td><td>Book 41 Hadith 55</td></tr></tbody></table></div>
 

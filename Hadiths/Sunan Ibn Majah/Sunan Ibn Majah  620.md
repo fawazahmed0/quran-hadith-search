@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৬২০। ফাতিমা বিনত আবূ হুবাইশ (রাঃ) হতে বর্ণিত যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উপস্থিত হয়ে তার কাছে ঋতুস্রাব সম্পর্কে অভিযোগ করেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তা এক প্রকার শিরাজনিত রোগ। সুতরাং তুমি লক্ষ্য রাখবে যে, তোমার হায়েয শুরু হলে সালাত পড়বে না। হায়েযকাল উত্তীর্ণ হলে পর তুমি পবিত্রতা অর্জন করবে, অতঃপর দু হায়েযের মধ্যবর্তীকাল সালাত পড়বে।
+। ফাতিমা বিনত আবূ হুবাইশ (রাঃ) হতে বর্ণিত যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উপস্থিত হয়ে তার কাছে ঋতুস্রাব সম্পর্কে অভিযোগ করেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তা এক প্রকার শিরাজনিত রোগ। সুতরাং তুমি লক্ষ্য রাখবে যে, তোমার হায়েয শুরু হলে সালাত পড়বে না। হায়েযকাল উত্তীর্ণ হলে পর তুমি পবিত্রতা অর্জন করবে, অতঃপর দু হায়েযের মধ্যবর্তীকাল সালাত পড়বে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>620</td></tr><tr><td>Arabic No</td><td>620</td></tr><tr><td>Reference</td><td>Book 1 Hadith 354</td></tr></tbody></table></div>
 

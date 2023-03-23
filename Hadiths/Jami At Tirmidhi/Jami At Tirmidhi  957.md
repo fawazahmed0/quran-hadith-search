@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯৫৭। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি হাজ্জের বড় (মহান) দিন প্রসঙ্গে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে প্রশ্ন করলাম। তিনি বললেনঃ তা হচ্ছে কুরবানীর দিন। — সহীহ, ইরওয়া, সহীহ আবু দাউদ (১৭০০, ১৭০১)
+। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি হাজ্জের বড় (মহান) দিন প্রসঙ্গে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে প্রশ্ন করলাম। তিনি বললেনঃ তা হচ্ছে কুরবানীর দিন। — সহীহ, ইরওয়া, সহীহ আবু দাউদ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>957</td></tr><tr><td>Arabic No</td><td>957</td></tr><tr><td>Reference</td><td>Book 9 Hadith 151</td></tr></tbody></table></div>
 

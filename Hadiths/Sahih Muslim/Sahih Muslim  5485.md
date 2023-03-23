@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩৭৮, আন্তর্জাতিক নাম্বারঃ ২০৯৩ ৫৩৭৮-(…/...) উকবাহ ইবনু মুকরাম আম্মী (রহঃ) ..... ইবনু জুরায়জ (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৩০৮, ইসলামিক সেন্টার ৫৩২৪)
+(…/...) উকবাহ ইবনু মুকরাম আম্মী (রহঃ) ..... ইবনু জুরায়জ (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৩০৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5485</td></tr><tr><td>Arabic No</td><td>2093.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 100</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১০. আবদুর রহমান ইবন কাসিম (রহঃ) তাহার পিতা হইতে বর্ণনা করেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পত্নী আয়েশা (রাঃ) তাহার ভ্রাতা মুহাম্মদ ইবন আবু বকর (রাঃ)-এর ইয়াতীম ছেলে-মেয়েদের লালন-পালন করিতেন। ইহাদের অনেকেরই অলংকার ছিল। কিন্তু আয়েশা (রাঃ) এইগুলির যাকাত আদায় করিতেন না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>587</td></tr><tr><td>Arabic No</td><td>587</td></tr><tr><td>Reference</td><td>Book 17 Hadith 10</td></tr></tbody></table></div>
 

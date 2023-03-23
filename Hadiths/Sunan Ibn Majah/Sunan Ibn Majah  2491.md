@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২৪৯১। হুযায়ফা ইবনুল ইয়ামান (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি বাড়িঘর বিক্রয় করার পর তার বিক্রয়লব্ধ মূল্য দ্বারা অনুরূপ সম্পত্তি ক্রয় না করলে তাকে কখনো তাতে বরকত দান করা হয় না।
+। হুযায়ফা ইবনুল ইয়ামান (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি বাড়িঘর বিক্রয় করার পর তার বিক্রয়লব্ধ মূল্য দ্বারা অনুরূপ সম্পত্তি ক্রয় না করলে তাকে কখনো তাতে বরকত দান করা হয় না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2491</td></tr><tr><td>Arabic No</td><td>2491</td></tr><tr><td>Reference</td><td>Book 16 Hadith 57</td></tr></tbody></table></div>
 

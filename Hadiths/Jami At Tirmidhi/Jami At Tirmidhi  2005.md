@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০০৫। সদাচার ও উত্তম চরিত্রের বর্ণনা দিতে গিয়ে আবদুল্লাহ ইবনুল মুবারাক (রহঃ) বলেন, তা হলো হাস্যোজ্জ্বল চেহারা, উত্তম জিনিস দান করা এবং কষ্ট দেয়া হতে বিরত থাকা। সনদ সহীহ।
+। সদাচার ও উত্তম চরিত্রের বর্ণনা দিতে গিয়ে আবদুল্লাহ ইবনুল মুবারাক (রহঃ) বলেন, তা হলো হাস্যোজ্জ্বল চেহারা, উত্তম জিনিস দান করা এবং কষ্ট দেয়া হতে বিরত থাকা। সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2005</td></tr><tr><td>Arabic No</td><td>2005</td></tr><tr><td>Reference</td><td>Book 27 Hadith 111</td></tr></tbody></table></div>
 

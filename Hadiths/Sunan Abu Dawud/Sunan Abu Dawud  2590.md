@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... সাইব ইবন ইয়াযীদ (রাঃ) এক ব্যক্তির নাম উল্লেখ করে বলেছেন, রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উহুদের যুদ্ধের দিন একটির ওপর আর একটি করে দু‘টি লৌহবর্ম পরিধান করে সকলের সম্মুখে আত্মপ্রকাশ করেছিলেন।
+। আস-সায়িব ইবনু ইয়াযীদ (রাঃ) এক ব্যক্তির নাম উল্লেখ করে বর্ণনা করেন যে, উহুদের যুদ্ধের দিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’টি বর্ম পরিধান করে বের হলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2590</td></tr><tr><td>Arabic No</td><td>2590</td></tr><tr><td>Reference</td><td>Book 15 Hadith 114</td></tr></tbody></table></div>
 

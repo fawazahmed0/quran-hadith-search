@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জা‘ফর ইবন মুসাফির ..... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, জনৈক ব্যক্তি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমতে হাযির হয়, যে রামাযানে (ইচ্ছাকৃতভাবে) ইফতার করে। এরপর পূর্ববর্তী হাদীসের অনুরূপ বর্ণিত হয়েছে। রাবী বলেন, এরপর তাকে এমন একটি খুরমা ভর্তি থলে প্রদান করা হয়, যাতে পনের সা' পরিমাণ খেজুর ছিল। রাবী বলেন, এরপর তিনি তাকে বলেন, তুমি তা তোমার পরিবারের লোকদের সাথে ভক্ষণ করো এবং একদিন রোযা রাখো, আর আল্লাহর নিকট গুনাহের জন্য ক্ষমা প্রার্থনা করো।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, এক ব্যক্তি রমাযান মাসের সওম ভঙ্গ করে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এলো। অতঃপর পূর্বের হাদীসের অনুরূপ। বর্ণনাকারী বলেন, পরে একটি ঝুড়িভর্তি খেজুর আসলো, যাতে পনের সা‘ খেজুর ছিলো। তিনি আরো বলেছেনঃ তুমি এবং তোমার পরিবার এগুলো খাও এবং একদিন সওম পালন করো আর আল্লাহর কাছে ক্ষমা চাও।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2393</td></tr><tr><td>Arabic No</td><td>2393</td></tr><tr><td>Reference</td><td>Book 14 Hadith 81</td></tr></tbody></table></div>
 

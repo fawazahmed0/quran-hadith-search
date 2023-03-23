@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আমর (রহঃ) ..... আনাস ইবন মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে খেজুর আনা হলে তিনি তা পরিষ্কার করতে থাকেন এবং এর পোকা ধরে ফেলে দিতে থাকেন।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে পুরাতন খেজুর পরিবেশন করা হলে তিনি তা ছিঁড়ে এর মধ্য থেকে পোকা খুঁজে বের করতে থাকেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3832</td></tr><tr><td>Arabic No</td><td>3832</td></tr><tr><td>Reference</td><td>Book 28 Hadith 97</td></tr></tbody></table></div>
 

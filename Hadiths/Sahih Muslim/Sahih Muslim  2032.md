@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৯১৭, আন্তর্জাতিক নাম্বারঃ ৮৭৯ ১৯১৭-(.../...) ইবনু নুমায়র, আবূ কুরায়ব (রহঃ) ..... সুফইয়ান (রহঃ) থেকে একই সূত্রে অনুরূপ বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ১৯০২, ইসলামীক সেন্টার ১৯০৯)
+ইবনু নুমায়র, আবূ কুরায়ব (রহঃ) ..... সুফইয়ান (রহঃ) থেকে একই সূত্রে অনুরূপ বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ১৯০২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2032</td></tr><tr><td>Arabic No</td><td>879.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 82</td></tr></tbody></table></div>
 

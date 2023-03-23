@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের সাতটি বিষয়ের নির্দেশ দিয়েছেনঃ রোগীর শুশ্রুষা, জানাযায় শরীক হওয়া এবং হাঁচিদাতার জবাব দান।[1] আর তিনি আমাদের সাতটি হতে নিষেধ করেছেনঃ রেশমী বস্ত্র, মিহিন রেশমী বস্ত্র, রেশম মিশ্রিত কাতান বস্ত্র, মোটা বস্ত্র এবং লাল ‘মীসারা’ বস্ত্র পরিধান করতে। [১২৩৯] (আধুনিক প্রকাশনী- ৫৪২৩, ইসলামিক ফাউন্ডেশন- ৫৩১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের সাতটি বিষয়ের নির্দেশ দিয়েছেনঃ রোগীর শুশ্রুষা, জানাযায় শরীক হওয়া এবং হাঁচিদাতার জবাব দান।[1] আর তিনি আমাদের সাতটি হতে নিষেধ করেছেনঃ রেশমী বস্ত্র, মিহিন রেশমী বস্ত্র, রেশম মিশ্রিত কাতান বস্ত্র, মোটা বস্ত্র এবং লাল ‘মীসারা’ বস্ত্র পরিধান করতে। [১২৩৯] (আধুনিক প্রকাশনী- ৫৪২৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5849</td></tr><tr><td>Arabic No</td><td>5849</td></tr><tr><td>Reference</td><td>Book 77 Hadith 66</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara:The Prophet (ﷺ) ordered us to observe seven things: To visit the sick; follow funeral processions; say 'May Allah bestow His Mercy on you', to the sneezer if he says, 'Praise be to Allah!; He forbade us to wear silk, Dibaj, Qassiy and Istibarq (various kinds of silken clothes); or to use red Mayathir (silkcushions). (See Hadith No. 253 A, Vol. 8)
+Narrated Al-Bara:The Prophet (ﷺ) ordered us to observe seven things: To visit the sick; follow funeral processions; say 'May Allah bestow His Mercy on you', to the sneezer if he says, 'Praise be to Allah!; He forbade us to wear silk, Dibaj, Qassiy and Istibarq (various kinds of silken clothes); or to use red Mayathir (silkcushions). (See Hadith No. 253 A, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5849</td></tr><tr><td>Arabic No</td><td>5849</td></tr><tr><td>Reference</td><td>Book 77 Hadith 66</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறியதாவது: நோயாளியை நலம் விசாரிப்பது, ‘ஜனாஸா’வைப் பின்தொடர்ந்து செல்வது, தும்மியவ(ர் அல்ஹம்து லில்லாஹ்- எல்லாப் புகழும் அல்லாஹ்வுக்கே என்று கூறுகையில் அவ)ருக்கு (யர்கமுகல்லாஹ்-அல்லாஹ் உங்களுக்குக் கருணை புரிவானாக என்று) பதில் கூறுவது உள்ளிட்ட ஏழு விஷயங்களைக் கடைப்பிடிக்குமாறு நபி (ஸல்) அவர்கள் எங்களுக்குக் கட்டளையிட்டார்கள். சாதாரணப் பட்டு, அலங்காரப் பட்டு, ‘கஸ்’ எனும் பட்டு கலந்த (எகிப்தியப்) பஞ்சாடை, தடித்த பட்டு, மென்பட்டுத் திண்டுகள் (மீஸரா) உள்ளிட்ட ஏழு பொருட் களைப் பயன்படுத்தக் கூடாது என்றும் எங்களுக்குத் தடை விதித்தார்கள்.68 அத்தியாயம் : 77
+பராஉ (ரலி) அவர்கள் கூறியதாவது: நோயாளியை நலம் விசாரிப்பது, ‘ஜனாஸா’வைப் பின்தொடர்ந்து செல்வது, தும்மியவ(ர் அல்ஹம்து லில்லாஹ்- எல்லாப் புகழும் அல்லாஹ்வுக்கே என்று கூறுகையில் அவ)ருக்கு (யர்கமுகல்லாஹ்-அல்லாஹ் உங்களுக்குக் கருணை புரிவானாக என்று) பதில் கூறுவது உள்ளிட்ட ஏழு விஷயங்களைக் கடைப்பிடிக்குமாறு நபி (ஸல்) அவர்கள் எங்களுக்குக் கட்டளையிட்டார்கள். சாதாரணப் பட்டு, அலங்காரப் பட்டு, ‘கஸ்’ எனும் பட்டு கலந்த (எகிப்தியப்) பஞ்சாடை, தடித்த பட்டு, மென்பட்டுத் திண்டுகள் (மீஸரா) உள்ளிட்ட ஏழு பொருட் களைப் பயன்படுத்தக் கூடாது என்றும் எங்களுக்குத் தடை விதித்தார்கள்.68 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5849</td></tr><tr><td>Arabic No</td><td>5849</td></tr><tr><td>Reference</td><td>Book 77 Hadith 66</td></tr></tbody></table></div>
 

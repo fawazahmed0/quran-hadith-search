@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইব্‌ন ঈসা (রহঃ) ..... জাবের ইব্‌ন আব্‌দুল্লাহ্‌ (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা একজন মহিলা নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লামকে বলেন, আমার ও আমার স্বামীর জন্য দু’আ করুন। তখন নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আল্লাহ তাআলা তোমার এবং তোমার স্বামীর উপর রহম করুন। (তিরমিযী)।
+। জাবির ইবনু ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। এক মহিলা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললো, আপনি আমার ও আমার স্বামীর জন্য দু‘আ করুন। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তোমার উপর ও তোমার স্বামীর উপর আল্লাহ রহমত বর্ষণ করুন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1533</td></tr><tr><td>Arabic No</td><td>1533</td></tr><tr><td>Reference</td><td>Book 8 Hadith 118</td></tr></tbody></table></div>
 

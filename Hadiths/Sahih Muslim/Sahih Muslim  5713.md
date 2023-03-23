@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৬০৬, আন্তর্জাতিক নাম্বারঃ ২১৯১ ৫৬০৬-(.../...) আবূ কুরায়ব ও ইসহাক ইবনু ইবরাহীম (রহঃ) হিশাম (রহঃ) এর সানাদে উপরোল্লিখিত সূত্রে হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৫২৫, ইসলামিক সেন্টার ৫৫৫০)
+আবূ কুরায়ব ও ইসহাক ইবনু ইবরাহীম (রহঃ) হিশাম (রহঃ) এর সানাদে উপরোল্লিখিত সূত্রে হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৫২৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5713</td></tr><tr><td>Arabic No</td><td>2191.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 67</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, মদপানের অপরাধে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গাছের ডাল এবং জুতা দিয়ে পিটিয়েছেন। আবূ বাকর (রাঃ) চল্লিশটি চাবুক মেরেছেন। [৬৭৭৩] (আধুনিক প্রকাশনী- ৬৩০৭, ইসলামিক ফাউন্ডেশন- ৬৩১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, মদপানের অপরাধে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গাছের ডাল এবং জুতা দিয়ে পিটিয়েছেন। আবূ বাকর (রাঃ) চল্লিশটি চাবুক মেরেছেন। [৬৭৭৩] (আধুনিক প্রকাশনী- ৬৩০৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6776</td></tr><tr><td>Arabic No</td><td>6776</td></tr><tr><td>Reference</td><td>Book 86 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Hisyam] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: மது அருந்திய குற்றத்திற்குத் தண்டனையாக பேரீச்ச மட்டையாலும் காலணியாலும் அடித்திடுமாறு நபி (ஸல்) அவர்கள் உத்தரவிட்டார்கள். அபூபக்ர் (ரலி) அவர்கள் (தமது ஆட்சிக் காலத்தில்) நாற்பது சாட்டையடிகள் கொடுத்(திட உத்தரவு பிறப்பித்)தார்கள். அத்தியாயம் : 86
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: மது அருந்திய குற்றத்திற்குத் தண்டனையாக பேரீச்ச மட்டையாலும் காலணியாலும் அடித்திடுமாறு நபி (ஸல்) அவர்கள் உத்தரவிட்டார்கள். அபூபக்ர் (ரலி) அவர்கள் (தமது ஆட்சிக் காலத்தில்) நாற்பது சாட்டையடிகள் கொடுத்(திட உத்தரவு பிறப்பித்)தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6776</td></tr><tr><td>Arabic No</td><td>6776</td></tr><tr><td>Reference</td><td>Book 86 Hadith 5</td></tr></tbody></table></div>
 

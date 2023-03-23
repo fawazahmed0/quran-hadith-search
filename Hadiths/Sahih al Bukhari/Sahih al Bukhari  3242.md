@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ হতে বর্ণিত। তিনি বলেন, ‘এক সময় আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট উপবিষ্ট ছিলাম। তিনি বললেন, আমি নিদ্রিত ছিলাম। দেখলাম আমি জান্নাতে অবস্থিত। হঠাৎ দেখলাম এক নারী একটি দালানের পাশে উযু করছে। আমি জিজ্ঞেস করলাম, এ দালানটি কার? তারা উত্তরে বললেন, ‘উমারের। তখন তাঁর আত্মমর্যাদার কথা আমার স্মরণ হল। আমি পেছনের দিকে ফিরে চলে আসলাম।’ একথা শুনে ‘উমার (রাঃ) কেঁদে ফেললেন এবং বললেন, ‘হে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আপনার সম্মুখে কি আমার কোন মর্যাদাবোধ থাকতে পারে? (৩৬৮০, ৫২২৭, ৭০২৩, ৭০২৫) (মুসলিম ৪৪/২ হাঃ ৩৩৯৫, আহমাদ ৮৪৭৮) (আধুনিক প্রকাশনীঃ ৩০০২, ইসলামিক ফাউন্ডেশনঃ ৩০১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ হতে বর্ণিত। তিনি বলেন, ‘এক সময় আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট উপবিষ্ট ছিলাম। তিনি বললেন, আমি নিদ্রিত ছিলাম। দেখলাম আমি জান্নাতে অবস্থিত। হঠাৎ দেখলাম এক নারী একটি দালানের পাশে উযু করছে। আমি জিজ্ঞেস করলাম, এ দালানটি কার? তারা উত্তরে বললেন, ‘উমারের। তখন তাঁর আত্মমর্যাদার কথা আমার স্মরণ হল। আমি পেছনের দিকে ফিরে চলে আসলাম।’ একথা শুনে ‘উমার (রাঃ) কেঁদে ফেললেন এবং বললেন, ‘হে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আপনার সম্মুখে কি আমার কোন মর্যাদাবোধ থাকতে পারে? (৩৬৮০, ৫২২৭, ৭০২৩, ৭০২৫) (মুসলিম ৪৪/২ হাঃ ৩৩৯৫, আহমাদ ৮৪৭৮) (আধুনিক প্রকাশনীঃ ৩০০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 59 Hadith 53</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Sa'id bin Abu Maryam] telah bercerita kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் இருந்தபோது அவர்கள், ‘‘நான் உறங்கிக்கொண்டிருந்தேன். அப்போது (கனவில்) என்னை சொர்க்கத் தில் கண்டேன். அப்போது (அங்கிருந்த) அரண்மனை ஒன்றின் ஓரத்தில் ஒரு பெண் அங்கத் தூய்மை (உளூ) செய்து கொண்டிருந்தாள். நான், ‘‘இந்த அரண் மனை யாருடையது?” என்று (வானவர் களிடம்) கேட்டேன். ‘‘உமர் பின் அல் கத்தாப் அவர்களுடையது” என்று பதிலளித்தார்கள். அப்போது எனக்கு உமரின் தன்மான உணர்வு நினைவுக்கு வந்தது. உடனே அங்கிருந்து திரும்பிச் சென்றுவிட்டேன்” என்று கூறினார்கள்.52 இதைக் கேட்ட உமர் (ரலி) அவர்கள் அழுதார்கள். பிறகு ‘‘அல்லாஹ்வின் தூதரே! தங்களிடமா நான் தன்மான உணர்வைக் காட்டுவேன்?” என்று கேட்டார்கள். அத்தியாயம் : 59
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் இருந்தபோது அவர்கள், ‘‘நான் உறங்கிக்கொண்டிருந்தேன். அப்போது (கனவில்) என்னை சொர்க்கத் தில் கண்டேன். அப்போது (அங்கிருந்த) அரண்மனை ஒன்றின் ஓரத்தில் ஒரு பெண் அங்கத் தூய்மை (உளூ) செய்து கொண்டிருந்தாள். நான், ‘‘இந்த அரண் மனை யாருடையது?” என்று (வானவர் களிடம்) கேட்டேன். ‘‘உமர் பின் அல் கத்தாப் அவர்களுடையது” என்று பதிலளித்தார்கள். அப்போது எனக்கு உமரின் தன்மான உணர்வு நினைவுக்கு வந்தது. உடனே அங்கிருந்து திரும்பிச் சென்றுவிட்டேன்” என்று கூறினார்கள்.52 இதைக் கேட்ட உமர் (ரலி) அவர்கள் அழுதார்கள். பிறகு ‘‘அல்லாஹ்வின் தூதரே! தங்களிடமா நான் தன்மான உணர்வைக் காட்டுவேன்?” என்று கேட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 59 Hadith 53</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Sa'id bin Abu Maryam] telah bercerita kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. anlatıyor: "Biz bir defasında Nebi Sallallahu Aleyhi ve Sellem'in yanında iken bize şunları söylemişti: "Bir gün rüyamda kendimi cennette gördüm. Orada bir köşkün yanı başında duran çok güzel bir kadın vardı 'Bu köşk kime aittir?' diye sorduğumda: 'Ömer İbnü'l-Hattab'ındır' dediler. Ben de onun kıskançlığını bildiğim için hemen geriye döndüm." Bunun üzerine Ömer ağladı ve: "Senden neyi kıskanırım ki, ey Allah'ın Resulü!" dedi. Tekrar: 3680, 5227, 7023, 7025
+Ebu Hureyre r.a. anlatıyor: "Biz bir defasında Nebi Sallallahu Aleyhi ve Sellem'in yanında iken bize şunları söylemişti: "Bir gün rüyamda kendimi cennette gördüm. Orada bir köşkün yanı başında duran çok güzel bir kadın vardı 'Bu köşk kime aittir?' diye sorduğumda: 'Ömer İbnü'l-Hattab'ındır' dediler. Ben de onun kıskançlığını bildiğim için hemen geriye döndüm." Bunun üzerine Ömer ağladı ve: "Senden neyi kıskanırım ki, ey Allah'ın Resulü!" dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 59 Hadith 53</td></tr></tbody></table></div>
 

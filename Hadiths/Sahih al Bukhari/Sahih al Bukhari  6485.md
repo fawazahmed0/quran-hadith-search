@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) বলতেন। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি যা জানি তোমরা যদি তা জানতে তবে তোমরা খুব কমই হাসতে এবং খুব বেশি কাঁদতে। [৬৬৩৭] (আধুনিক প্রকাশনী- ৬০৩৫, ইসলামিক ফাউন্ডেশন- ৬০৪১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) বলতেন। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি যা জানি তোমরা যদি তা জানতে তবে তোমরা খুব কমই হাসতে এবং খুব বেশি কাঁদতে। [৬৬৩৭] (আধুনিক প্রকাশনী- ৬০৩৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6485</td></tr><tr><td>Arabic No</td><td>6485</td></tr><tr><td>Reference</td><td>Book 81 Hadith 74</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் அறிவதை நீங்கள் அறிவீர்களாயின் நிச்சயம் குறைவாகச் சிரிப்பீர்கள்; அதிகமாக அழுவீர்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 81
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் அறிவதை நீங்கள் அறிவீர்களாயின் நிச்சயம் குறைவாகச் சிரிப்பீர்கள்; அதிகமாக அழுவீர்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6485</td></tr><tr><td>Arabic No</td><td>6485</td></tr><tr><td>Reference</td><td>Book 81 Hadith 74</td></tr></tbody></table></div>
 

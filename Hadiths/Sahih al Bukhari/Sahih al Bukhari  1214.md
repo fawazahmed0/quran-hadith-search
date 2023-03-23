@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন সালাতে থাকে, তখন তো সে তার রবের সাথে নিবিড় আলাপে মশগুল থাকে। কাজেই সে যেন তার সামনে বা ডানে থু থু না ফেলে; তবে (প্রয়োজনে) বাঁ দিকে বা পায়ের নীচে ফেলবে। (২৪১) (আধুনিক প্রকাশনীঃ ১১৩৫, ইসলামিক ফাউন্ডেশনঃ ১১৪১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন সালাতে থাকে, তখন তো সে তার রবের সাথে নিবিড় আলাপে মশগুল থাকে। কাজেই সে যেন তার সামনে বা ডানে থু থু না ফেলে; তবে (প্রয়োজনে) বাঁ দিকে বা পায়ের নীচে ফেলবে। (২৪১) (আধুনিক প্রকাশনীঃ ১১৩৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1214</td></tr><tr><td>Arabic No</td><td>1214</td></tr><tr><td>Reference</td><td>Book 21 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad] telah menceritakan kepada kami [Ghunda
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் தொழும்போது தம் இறை வனுடன் உரையாடுகிறார். எனவே, அவர் தமக்கு முன்னாலோ வலப் புறமாகவோ கண்டிப்பாக எச்சில் துப்ப வேண்டாம். எனினும், இடப் புறமாக தமது இடப் பாதத்தின் அடியில் துப்பட்டும்.9 இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 21
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் தொழும்போது தம் இறை வனுடன் உரையாடுகிறார். எனவே, அவர் தமக்கு முன்னாலோ வலப் புறமாகவோ கண்டிப்பாக எச்சில் துப்ப வேண்டாம். எனினும், இடப் புறமாக தமது இடப் பாதத்தின் அடியில் துப்பட்டும்.9 இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1214</td></tr><tr><td>Arabic No</td><td>1214</td></tr><tr><td>Reference</td><td>Book 21 Hadith 18</td></tr></tbody></table></div>
 

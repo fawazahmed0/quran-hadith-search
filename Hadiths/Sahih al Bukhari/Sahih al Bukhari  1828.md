@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) বলেন, হাফসা (রাঃ) বর্ণনা করেছেন, তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পাঁচ প্রকার প্রাণী যে হত্যা করবে তার কোন দোষ নেই। (যেমন) কাক, চিল, ইঁদুর, বিচ্ছু ও হিংস্র কুকুর। (১৮২৭, মুসলিম ১৫/৯, হাঃ ১১৯৯, ১২০০) [আধুনিক প্রকাশনীঃ ১৬৯৬(২), ইসলামিক ফাউন্ডেশনঃ নাই
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1828</td></tr><tr><td>Arabic No</td><td>1828</td></tr><tr><td>Reference</td><td>Book 28 Hadith 8</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹஃப்ஸா (ரலி) அவர்கள் கூறியதாவது: (தீங்கிழைக்கும்) ஐந்து உயிரினங்கள் உள்ளன. அவற்றைக் கொல்பவர்மீது எந்தக் குற்றமும் இல்லை. (நீர்க்)காகம், பருந்து, எலி, தேள், வெறிநாய் ஆகியவை தான் அவை. அத்தியாயம் : 28
+ஹஃப்ஸா (ரலி) அவர்கள் கூறியதாவது: (தீங்கிழைக்கும்) ஐந்து உயிரினங்கள் உள்ளன. அவற்றைக் கொல்பவர்மீது எந்தக் குற்றமும் இல்லை. (நீர்க்)காகம், பருந்து, எலி, தேள், வெறிநாய் ஆகியவை தான் அவை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1828</td></tr><tr><td>Arabic No</td><td>1828</td></tr><tr><td>Reference</td><td>Book 28 Hadith 8</td></tr></tbody></table></div>
 

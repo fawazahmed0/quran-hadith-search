@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৯১৪। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক দুটি মেয়ে সন্তানকে লালন-পালন করবে, আমি এবং সে এভাবে একসাথে পাশাপাশি জান্নাতে যাব। এই বলে তিনি নিজের হাতের দুটি আঙ্গুল একত্র করে ইশারায় বুঝিয়ে দিলেন। সহীহ, সহীহাহ (২৯৭), মুসলিম। আবূ ঈসা বলেন, এই সূত্রে হাদীসটি হাসান গারীব।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক দুটি মেয়ে সন্তানকে লালন-পালন করবে, আমি এবং সে এভাবে একসাথে পাশাপাশি জান্নাতে যাব। এই বলে তিনি নিজের হাতের দুটি আঙ্গুল একত্র করে ইশারায় বুঝিয়ে দিলেন। সহীহ, সহীহাহ (২৯৭), মুসলিম। আবূ ঈসা বলেন, এই সূত্রে হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1914</td></tr><tr><td>Arabic No</td><td>1914</td></tr><tr><td>Reference</td><td>Book 27 Hadith 20</td></tr></tbody></table></div>
 

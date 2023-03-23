@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল মুতাওয়াক্কিল .... আসমা বিনতে আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে বলতে শুনেছিঃ তোমাদের (মহিলাদের) মধ্যে যারা আল্লাহ্ ও পরকালের প্রতি বিশ্বাসী, তারা যেন পুরষদের মাথা উত্তোলনের পূর্বে নিজেদের মাথা না উঠায়। তা এইজন্য যে, যাতে মহিলারা পুরষদের সতর দেখতে না পায়।
+। আসমা বিনতু আবূ বাকর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ তোমাদের (নারীদের) মধ্যে যারা আল্লাহ ও আখিরাত দিবসে বিশ্বাসী, তারা যেন পুরুষদের মাথা উঠানোর পূর্বে নিজেদের মাথা উত্তোলন না করে। কেননা পুরুষদের সতর দেখা নারীদের জন্য অপছন্দীয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>851</td></tr><tr><td>Arabic No</td><td>851</td></tr><tr><td>Reference</td><td>Book 2 Hadith 461</td></tr></tbody></table></div>
 

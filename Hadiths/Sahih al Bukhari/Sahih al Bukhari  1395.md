@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَقَوْلِ اللهِ تَعَالَى (وَأَقِيمُوا الصَّلاَةَ وَآتُوا الزَّكَاةَ) আল্লাহ তা‘আলার বাণীঃ ‘‘সালাত কায়িম কর ও যাকাত আদায় কর।’’ (আল-বাকরাহঃ ৪৩, ৮৩, ১১০) وَقَالَ ابْنُ عَبَّاسٍ حَدَّثَنِي أَبُو سُفْيَانَ tفَذَكَرَ حَدِيثَ النَّبِيِّ فَقَالَ يَأْمُرُنَا بِالصَّلاَةِ وَالزَّكَاةِ وَالصِّلَةِ وَالْعَفَافِ ইবনু ‘আব্বাস (রাঃ) বলেনঃ আবূ সুফইয়ান (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর হাদীস উল্লেখ করে বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে সালাত (প্রতিষ্ঠা করা), যাকাত (আদায় করা), আত্মীয়তার সম্পর্ক বজায় রাখা ও পবিত্রতা রক্ষা করার আদেশ দেন। ১৩৯৫. ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মু‘আয (রাঃ)-কে ইয়ামান দেশে (শাসক হিসেবে) প্রেরণ করেন। অতঃপর বললেন, সেখানকার অধিবাসীদেরকে এ সাক্ষ্য দানের প্রতি আহবান করবে যে, আল্লাহ ব্যতীত প্রকৃত কোন উপাস্য নেই এবং আমি আল্লাহর রাসূল। যদি তারা তা মেনে নেয় তবে তাদেরকে অবগত কর যে, আল্লাহ তা‘আলা তাদের উপর প্রতি দিনে ও রাতে পাঁচ ওয়াক্ত নামায ফরজ করেছেন। যদি সেটাও তারা মেনে নেয় তবে তাদেরকে অবগত কর যে, আল্লাহ তা‘আলা তাদের উপর তাদের সম্পদের মধ্য থেকে সদাকাহ (যাকাত) ফরজ করেছেন। যেটা ধনীদের নিকট থেকে গৃহীত হবে আর দরিদ্রদের মাঝে প্রদান করা হবে। (১৪৫৮, ১৪৯৬, ২৪৪৮, ৪৩৪৭, ৭৩৭১, ৭৩৭২) (আধুনিক প্রকাশনীঃ ১৩০৫, ইসলামিক ফাউন্ডেশনঃ ১৩১০) ১৩৯৫ নং হাদীস নম্বর থেকে ইসলামিক ফাউন্ডেশন বাংলাদেশ-এর তৃতীয় খন্ড এপ্রিল ২০০২ সংস্করণ অবলম্বনে করা হয়েছে
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1395</td></tr><tr><td>Arabic No</td><td>1395</td></tr><tr><td>Reference</td><td>Book 24 Hadith 1</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim Adh-Dlohhak bin Makhlad] dari [Zakari
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் முஆத் பின் ஜபல் (ரலி) அவர்களை யமனுக்கு (ஆளு நராக) அனுப்பினார்கள். அப்போது அவரிடம், “அல்லாஹ்வைத் தவிர வேறு இறைவன் இல்லை; நான் அல்லாஹ்வின் தூதர் என்று உறுதிமொழி அளிக்குமாறு அவர்களை அழைப்பீராக! இதற்கு அவர்கள் கட்டுப்பட்டால் தினமும் ஐவேளைத் தொழுகையை இறைவன் கடமையாக்கியிருக்கிறான் என்பதை அவர்களுக்கு அறிவிப்பீராக! இதற்கும் அவர்கள் கட்டுப்பட்டால் அவர்களில் செல்வர்களிடம் பெற்று, ஏழைகளுக்கு வழங்குவதற்காக அவர்களின் செல்வத்தில் இறைவன் ஸகாத்தைக் கடமையாக்கியிருக்கிறான் என்பதை அறிவிப்பீராக!” என்று கூறினார்கள். அத்தியாயம் : 24
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் முஆத் பின் ஜபல் (ரலி) அவர்களை யமனுக்கு (ஆளு நராக) அனுப்பினார்கள். அப்போது அவரிடம், “அல்லாஹ்வைத் தவிர வேறு இறைவன் இல்லை; நான் அல்லாஹ்வின் தூதர் என்று உறுதிமொழி அளிக்குமாறு அவர்களை அழைப்பீராக! இதற்கு அவர்கள் கட்டுப்பட்டால் தினமும் ஐவேளைத் தொழுகையை இறைவன் கடமையாக்கியிருக்கிறான் என்பதை அவர்களுக்கு அறிவிப்பீராக! இதற்கும் அவர்கள் கட்டுப்பட்டால் அவர்களில் செல்வர்களிடம் பெற்று, ஏழைகளுக்கு வழங்குவதற்காக அவர்களின் செல்வத்தில் இறைவன் ஸகாத்தைக் கடமையாக்கியிருக்கிறான் என்பதை அறிவிப்பீராக!” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1395</td></tr><tr><td>Arabic No</td><td>1395</td></tr><tr><td>Reference</td><td>Book 24 Hadith 1</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu 'Ashim Adh-Dlohhak bin Makhlad] dari [Zakari
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'dan rivayet edildiğine göre, Resûlullah Sallallahu Aleyhi ve Sellem Muaz'ı Yemen'e gönderdiğinde ona, "Onları, Allah'tan başka ilah olmadiğını, benim Allah'ın resulü olduğumu kabul etmeye davet et. Eğer buna razı olurlarsa, onlara, Allah'ın zekatı farz kıldığını, zenginlerin mallarından alınıp fakirlere verileceğini bildir'! buyurmuştur. Tekrar: 1458, 1496, 2448, 4347, 7371 ve 7372
+İbn Abbas r.a.'dan rivayet edildiğine göre, Resûlullah Sallallahu Aleyhi ve Sellem Muaz'ı Yemen'e gönderdiğinde ona, "Onları, Allah'tan başka ilah olmadiğını, benim Allah'ın resulü olduğumu kabul etmeye davet et. Eğer buna razı olurlarsa, onlara, Allah'ın zekatı farz kıldığını, zenginlerin mallarından alınıp fakirlere verileceğini bildir'! buyurmuştur. Tekrar: 1458, 1496, 2448, 4347, 7371 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1395</td></tr><tr><td>Arabic No</td><td>1395</td></tr><tr><td>Reference</td><td>Book 24 Hadith 1</td></tr></tbody></table></div>
 

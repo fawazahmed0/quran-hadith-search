@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১২১। মাসরূক (রহঃ) হতে বর্ণিত, তিনি বলেন, আয়িশাহ (রাযিঃ) এ আয়াত তিলাওয়াত করলেন (অনুবাদ) “যে দিন পৃথিবী পরিবর্তিত হয়ে অন্য পৃথিবী হবে..."— (সূরা ইবরাহীম ৪৮)। আয়িশাহ (রাযিঃ) বলেন, হে আল্লাহর রাসূল! সে সময় মানুষ কোথায় থাকবে? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ পুলসিরাতের উপর। সহীহঃ ইবনু মা-জাহ (৪২৭৯), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। এটি অন্য সূত্রেও আয়িশাহ (রাযিঃ) হতে বর্ণিত হয়েছে।
+। মাসরূক (রহঃ) হতে বর্ণিত, তিনি বলেন, আয়িশাহ (রাযিঃ) এ আয়াত তিলাওয়াত করলেন (অনুবাদ) “যে দিন পৃথিবী পরিবর্তিত হয়ে অন্য পৃথিবী হবে..."— (সূরা ইবরাহীম ৪৮)। আয়িশাহ (রাযিঃ) বলেন, হে আল্লাহর রাসূল! সে সময় মানুষ কোথায় থাকবে? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ পুলসিরাতের উপর। সহীহঃ ইবনু মা-জাহ (৪২৭৯), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। এটি অন্য সূত্রেও আয়িশাহ (রাযিঃ) হতে বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3121</td></tr><tr><td>Arabic No</td><td>3121</td></tr><tr><td>Reference</td><td>Book 47 Hadith 173</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুহায়র ইবন হারব ...... উমার ইবনুল খাত্তাব (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন যে, কোন ব্যক্তিকে (দুনিয়াতে) তার স্ত্রীকে মারধর করার ব্যাপারে জিজ্ঞাসাবাদ করা হবে না।
+। উমার ইবনুল খাত্তাব (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি তার স্ত্রীকে (শালীন শিক্ষার উদ্দেশ্যে) আঘাত করলে এজন্য সে দোষী হবে না।[1] দুর্বলঃ যঈফ আল-জামি‘উস সাগীর (৬২১৮), যঈফ সুনান ইবনু মাজাহ (৪৩১), মিশকাত (৩২৬৮)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2147</td></tr><tr><td>Arabic No</td><td>2147</td></tr><tr><td>Reference</td><td>Book 12 Hadith 102</td></tr></tbody></table></div>
 

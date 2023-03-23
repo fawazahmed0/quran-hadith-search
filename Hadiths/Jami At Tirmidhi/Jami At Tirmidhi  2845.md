@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮৪৫। ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিঃসন্দেহে কোন কোন কবিতায় প্রজ্ঞাপূর্ণ কথাও আছে। হাসান সহীহঃ ইবনু মা-জাহ (৩৭৫৬) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিঃসন্দেহে কোন কোন কবিতায় প্রজ্ঞাপূর্ণ কথাও আছে। হাসান সহীহঃ ইবনু মা-জাহ (৩৭৫৬) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2845</td></tr><tr><td>Arabic No</td><td>2845</td></tr><tr><td>Reference</td><td>Book 43 Hadith 119</td></tr></tbody></table></div>
 

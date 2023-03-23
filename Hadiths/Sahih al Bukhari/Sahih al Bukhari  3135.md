@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রেরিত কোন কোন সেনা দলে কোন কোন ব্যক্তিকে সাধারণ সৈন্যদের প্রাপ্য অংশের চেয়ে অতিরিক্ত দান করতেন। (মুসলিম ৩২/১২ হাঃ ১৭৫০) (আধুনিক প্রকাশনীঃ ২৯০০, ইসলামিক ফাউন্ডেশনঃ ২৯১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রেরিত কোন কোন সেনা দলে কোন কোন ব্যক্তিকে সাধারণ সৈন্যদের প্রাপ্য অংশের চেয়ে অতিরিক্ত দান করতেন। (মুসলিম ৩২/১২ হাঃ ১৭৫০) (আধুনিক প্রকাশনীঃ ২৯০০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 57 Hadith 43</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Yahya bin Bukair] telah mengabarkan kepada kami [Al
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (அறப்போருக்காகப்) படைக் குழுக்களில் தாம் அனுப்பிவைக்கும் சிலருக்கு மட்டும் குறிப்பாகக் கொடுத்துவந்தார்கள். அவர்கள் பொதுவாகப் படையினருடன் சேர்ந்து பெறுகின்ற பங்குக்குமேல் (சற்று) அதிகப் படியாகக் கொடுத்துவந்தார்கள்.54 அத்தியாயம் : 57
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (அறப்போருக்காகப்) படைக் குழுக்களில் தாம் அனுப்பிவைக்கும் சிலருக்கு மட்டும் குறிப்பாகக் கொடுத்துவந்தார்கள். அவர்கள் பொதுவாகப் படையினருடன் சேர்ந்து பெறுகின்ற பங்குக்குமேல் (சற்று) அதிகப் படியாகக் கொடுத்துவந்தார்கள்.54 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 57 Hadith 43</td></tr></tbody></table></div>
 

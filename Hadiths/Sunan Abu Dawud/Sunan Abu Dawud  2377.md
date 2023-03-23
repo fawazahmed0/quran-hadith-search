@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আন্ নুফায়লী ..... আবদুর রহমান ইবন নু‘মান ইবন মা‘বাদ ইবন হাওযা তাঁর পিতা হতে, তিনি তাঁর দাদা হতে, তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন যে, তিনি নিদ্রার সময় সুগন্ধিযুক্ত ইসমিদ (পাথরের তৈরী) সুরমা ব্যবহারের নির্দেশ দেন এবং তিনি ইরশাদ করেছেনঃ রোযাদর ব্যক্তি যেন তা পরিহার করে। ইমাম আবূ দাঊদ (রহঃ) বলেন, আমাকে ইয়াহ্ইয়া ইবন মু‘ঈন বলেছেন, সুরমা ব্যবহার সংক্রান্ত এ হাদীসটি গ্রহনীয় নয় (মুনকার)।
+। আব্দুর রহমান ইবনুন নু‘মান ইবনু মা‘বাদ ইবনু হাওযা (রহ.) থেকে তার পিতা ও তার দাদার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকদেরকে ঘুমের সময় সুগন্ধিযুক্ত ইসমিদ সুরমা ব্যবহারের পরামর্শ দিয়ে বলেছেনঃ সওম পালনকারী তা বর্জন করবে। ইমাম আবূ দাঊদ বলেন, ইয়াহইয়া ইবনু মাঈন আমাকে বলেছেন, সুরমা ব্যবহারের হাদীসটি মুনকার।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>2377</td></tr><tr><td>Reference</td><td>Book 14 Hadith 65</td></tr></tbody></table></div>
 

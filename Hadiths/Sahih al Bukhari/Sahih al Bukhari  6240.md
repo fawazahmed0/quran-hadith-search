@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর স্ত্রী ‘আয়িশাহ হতে বর্ণিত যে, ‘উমার ইবনু খাত্তাব নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট প্রায়ই বলতেন যে, আপনি আপনার স্ত্রীদের পর্দা করান। কিন্তু তিনি তা করেননি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর স্ত্রীগণ প্রাকৃতিক প্রয়োজনে রাতে মাঠের দিকে বাইরে যেতেন। একবার সাওদাহ বিন্ত যাম‘আহ বেরিয়ে গেলেন। তিনি ছিলেন দীর্ঘাঙ্গী মহিলা। ‘উমার মজলিসে উপস্থিত ছিলেন। তাই তিনি পর্দার নির্দেশ অবতীর্ণ হবার আগ্রহে বললেনঃ ওহে সাওদাহ! আমি আপনাকে চিনে ফেলেছি। তখন আল্লাহ তা‘আলা পর্দার আয়াত নাযিল করলেন। [১৪৬] আধুনিক প্রকাশনী- ৫৭৯৮, ইসলামিক ফাউন্ডেশন- ৫৬৯৩
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর স্ত্রী ‘আয়িশাহ হতে বর্ণিত যে, ‘উমার ইবনু খাত্তাব নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট প্রায়ই বলতেন যে, আপনি আপনার স্ত্রীদের পর্দা করান। কিন্তু তিনি তা করেননি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর স্ত্রীগণ প্রাকৃতিক প্রয়োজনে রাতে মাঠের দিকে বাইরে যেতেন। একবার সাওদাহ বিন্ত যাম‘আহ বেরিয়ে গেলেন। তিনি ছিলেন দীর্ঘাঙ্গী মহিলা। ‘উমার মজলিসে উপস্থিত ছিলেন। তাই তিনি পর্দার নির্দেশ অবতীর্ণ হবার আগ্রহে বললেনঃ ওহে সাওদাহ! আমি আপনাকে চিনে ফেলেছি। তখন আল্লাহ তা‘আলা পর্দার আয়াত নাযিল করলেন। [১৪৬] আধুনিক প্রকাশনী- ৫৭৯৮, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6240</td></tr><tr><td>Arabic No</td><td>6240</td></tr><tr><td>Reference</td><td>Book 79 Hadith 14</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aisha:(the wife of the Prophet) 'Umar bin Al-Khattab used to say to Allah's Messenger (ﷺ) "Let your wives be veiled" But he did not do so. The wives of the Prophet (ﷺ) used to go out to answer the call of nature at night only at Al-Manasi.' Once Sauda, the daughter of Zam'a went out and she was a tall woman. 'Umar bin Al-Khattab saw her while he was in a gathering, and said, "I have recognized you, O Sauda!" He ('Umar) said so as he was anxious for some Divine orders regarding the veil (the veiling of women.) So Allah revealed the Verse of veiling. (Al-Hijab; a complete body cover excluding the eyes). (See Hadith No. 148, Vol. 1)
+Narrated 'Aisha:(the wife of the Prophet) 'Umar bin Al-Khattab used to say to Allah's Messenger (ﷺ) "Let your wives be veiled" But he did not do so. The wives of the Prophet (ﷺ) used to go out to answer the call of nature at night only at Al-Manasi.' Once Sauda, the daughter of Zam'a went out and she was a tall woman. 'Umar bin Al-Khattab saw her while he was in a gathering, and said, "I have recognized you, O Sauda!" He ('Umar) said so as he was anxious for some Divine orders regarding the veil (the veiling of women.) So Allah revealed the Verse of veiling. (Al-Hijab; a complete body cover excluding the eyes). (See Hadith No. 148, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6240</td></tr><tr><td>Arabic No</td><td>6240</td></tr><tr><td>Reference</td><td>Book 79 Hadith 14</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Ya'qub bin
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: உமர் பின் அல்கத்தாப் (ரலி) அவர்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், “தங்கள் துணைவியரை பர்தா அணியச் சொல்லுங்கள். (அதுவே அவர்களுக்குப் பாதுகாப்பு)” என்று கூறுவார்கள். ஆனால், (அப்போது) நபி (ஸல்) அவர்கள் (ஒன்றும்) செய்யவில்லை. நபி (ஸல்) அவர்களின் துணைவியரான நாங்கள் ஒவ்வொரு நாள் இரவிலும் (இயற்கைக் கடனை நிறைவேற்றுவதற்காக ஊருக்கு ஒதுக்குப் புறத்திலுள்ள திறந்த வெளியான) ‘மனாஸிஉ’ எனுமிடத்திற்குச் செல்வோம். (ஒருநாள் நபியவர்களின் துணைவி யார்) சவ்தா பின்த் ஸம்ஆ (ரலி) அவர்கள் (அங்கு செல்ல) வெளியேறினார்கள். அவர் உயரமான பெண்ணாயிருந்தார். அப்போது ஓர் அவையில் அமர்ந்திருந்த உமர் (ரலி) அவர்கள் அவரைப் பார்த்து, “சவ்தாவே! தங்களை நாம் அடையாளம் கண்டுகொண்டோம்” என்று பர்தா சட்டம் அருளப்பெற வேண்டுமென்ற பேரார்வத்தில் கூறினார்கள். பிறகு, அல்லாஹ் பர்தா தொடர்பான வசனத்தை அருளினான்.16 அத்தியாயம் : 79
+நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: உமர் பின் அல்கத்தாப் (ரலி) அவர்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், “தங்கள் துணைவியரை பர்தா அணியச் சொல்லுங்கள். (அதுவே அவர்களுக்குப் பாதுகாப்பு)” என்று கூறுவார்கள். ஆனால், (அப்போது) நபி (ஸல்) அவர்கள் (ஒன்றும்) செய்யவில்லை. நபி (ஸல்) அவர்களின் துணைவியரான நாங்கள் ஒவ்வொரு நாள் இரவிலும் (இயற்கைக் கடனை நிறைவேற்றுவதற்காக ஊருக்கு ஒதுக்குப் புறத்திலுள்ள திறந்த வெளியான) ‘மனாஸிஉ’ எனுமிடத்திற்குச் செல்வோம். (ஒருநாள் நபியவர்களின் துணைவி யார்) சவ்தா பின்த் ஸம்ஆ (ரலி) அவர்கள் (அங்கு செல்ல) வெளியேறினார்கள். அவர் உயரமான பெண்ணாயிருந்தார். அப்போது ஓர் அவையில் அமர்ந்திருந்த உமர் (ரலி) அவர்கள் அவரைப் பார்த்து, “சவ்தாவே! தங்களை நாம் அடையாளம் கண்டுகொண்டோம்” என்று பர்தா சட்டம் அருளப்பெற வேண்டுமென்ற பேரார்வத்தில் கூறினார்கள். பிறகு, அல்லாஹ் பர்தா தொடர்பான வசனத்தை அருளினான்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6240</td></tr><tr><td>Arabic No</td><td>6240</td></tr><tr><td>Reference</td><td>Book 79 Hadith 14</td></tr></tbody></table></div>
 

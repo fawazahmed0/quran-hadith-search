@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু মুসাইয়্যাব (রহ.) হতে বর্ণিত যে, তাঁর দাদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আসলেন। তিনি জিজ্ঞেস করলেনঃ তোমার নাম কী? তিনি বললেনঃ ‘হায্‌ন’।[1] নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ বরং তোমার নাম ‘সাহল’। তিনি বললেনঃ আমার পিতা আমার যে নাম রেখেছেন, তা অন্য কোন নাম দিয়ে আমি বদলাবো না। ইবনু মুসাইয়্যাব (রহ.) বলেনঃ এরপর থেকে আমাদের বংশের মধ্যে দুঃখকষ্টই চলে এসেছে। [৬১৯৩] (আধুনিক প্রকাশনী- ৫৭৪৮, ইসলামিক ফাউন্ডেশন- ৫৬৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু মুসাইয়্যাব (রহ.) হতে বর্ণিত যে, তাঁর দাদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আসলেন। তিনি জিজ্ঞেস করলেনঃ তোমার নাম কী? তিনি বললেনঃ ‘হায্‌ন’।[1] নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ বরং তোমার নাম ‘সাহল’। তিনি বললেনঃ আমার পিতা আমার যে নাম রেখেছেন, তা অন্য কোন নাম দিয়ে আমি বদলাবো না। ইবনু মুসাইয়্যাব (রহ.) বলেনঃ এরপর থেকে আমাদের বংশের মধ্যে দুঃখকষ্টই চলে এসেছে। [৬১৯৩] (আধুনিক প্রকাশনী- ৫৭৪৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6190</td></tr><tr><td>Arabic No</td><td>6190</td></tr><tr><td>Reference</td><td>Book 78 Hadith 214</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Musaiyab:That his father (Hazn bin Wahb) went to the Prophet (ﷺ) and the Prophet (ﷺ) asked (him), "What is your name?" He replied, "My name is Hazn." The Prophet (ﷺ) said, "You are Sahl." Hazn said, "I will not change the name with which my father has named me." Ibn Al-Musaiyab added: We have had roughness (in character) ever since. Narrated Al-Musaiyab: on the authority of his father similarly as above (i.e., 209)
+Narrated Al-Musaiyab:That his father (Hazn bin Wahb) went to the Prophet (ﷺ) and the Prophet (ﷺ) asked (him), "What is your name?" He replied, "My name is Hazn." The Prophet (ﷺ) said, "You are Sahl." Hazn said, "I will not change the name with which my father has named me." Ibn Al-Musaiyab added: We have had roughness (in character) ever since. Narrated Al-Musaiyab: on the authority of his father similarly as above (i.e)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6190</td></tr><tr><td>Arabic No</td><td>6190</td></tr><tr><td>Reference</td><td>Book 78 Hadith 214</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முசய்யப் பின் ஹஸ்ன் (ரலி) அவர்கள் கூறியதாவது: என் தந்தை (ஹஸ்ன் பின் அபீவஹ்ப்-ரலி) அவர்கள் நபி (ஸல்) அவர்களிடம் வந்தார்கள். அப்போது நபி (ஸல்) அவர்கள், “உங்கள் பெயரென்ன?” என்று கேட்டார்கள். அவர்கள், “ஹஸ்ன்” (முரடு) என்று கூறினார். நபி (ஸல்) அவர்கள், “(இல்லை) நீங்கள் (இனிமேல்) ‘சஹ்ல்’ (மென்மை)” என்று சொன்னார்கள். அவர், “என் தந்தை சூட்டிய பெயரை நான் மாற்றிக்கொள்ளமாட்டேன்” என்றார். அதற்குப் பின்னர் எங்கள் குடும்பத்தாரிடையே (அவர்களுடைய குணநலன்களில்) முரட்டுத்தனம் நீடித்தது. இதை சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் ஹஸ்ன் பின் அபீவஹ்ப் (ரலி) அவர்களிடமிருந்தும் இரு அறிவிப் பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 78
+முசய்யப் பின் ஹஸ்ன் (ரலி) அவர்கள் கூறியதாவது: என் தந்தை (ஹஸ்ன் பின் அபீவஹ்ப்-ரலி) அவர்கள் நபி (ஸல்) அவர்களிடம் வந்தார்கள். அப்போது நபி (ஸல்) அவர்கள், “உங்கள் பெயரென்ன?” என்று கேட்டார்கள். அவர்கள், “ஹஸ்ன்” (முரடு) என்று கூறினார். நபி (ஸல்) அவர்கள், “(இல்லை) நீங்கள் (இனிமேல்) ‘சஹ்ல்’ (மென்மை)” என்று சொன்னார்கள். அவர், “என் தந்தை சூட்டிய பெயரை நான் மாற்றிக்கொள்ளமாட்டேன்” என்றார். அதற்குப் பின்னர் எங்கள் குடும்பத்தாரிடையே (அவர்களுடைய குணநலன்களில்) முரட்டுத்தனம் நீடித்தது. இதை சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் ஹஸ்ன் பின் அபீவஹ்ப் (ரலி) அவர்களிடமிருந்தும் இரு அறிவிப் பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6190</td></tr><tr><td>Arabic No</td><td>6190</td></tr><tr><td>Reference</td><td>Book 78 Hadith 214</td></tr></tbody></table></div>
 

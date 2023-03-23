@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, খাইবার বিজয়ের পর আমরা বলাবলি করলাম, এখন আমরা পরিতৃপ্তির সঙ্গে খেজুর খেতে পারব। (আধুনিক প্রকাশনীঃ ৩৯১৪, ইসলামিক ফাউন্ডেশনঃ ৩৯১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, খাইবার বিজয়ের পর আমরা বলাবলি করলাম, এখন আমরা পরিতৃপ্তির সঙ্গে খেজুর খেতে পারব। (আধুনিক প্রকাশনীঃ ৩৯১৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4242</td></tr><tr><td>Arabic No</td><td>4242</td></tr><tr><td>Reference</td><td>Book 64 Hadith 279</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Aisha:When Khaibar was conquered, we said, "Now we will eat our fill o
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: கைபர் வெற்றி கொள்ளப்பட்டபோது, “இனி நம் வயிறு பேரீச்சங்கனிகளால் நிரம்பும்” என்று நாங்கள் சொல்லிக் கொண்டோம். அத்தியாயம் : 64
+ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: கைபர் வெற்றி கொள்ளப்பட்டபோது, “இனி நம் வயிறு பேரீச்சங்கனிகளால் நிரம்பும்” என்று நாங்கள் சொல்லிக் கொண்டோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4242</td></tr><tr><td>Arabic No</td><td>4242</td></tr><tr><td>Reference</td><td>Book 64 Hadith 279</td></tr></tbody></table></div>
 

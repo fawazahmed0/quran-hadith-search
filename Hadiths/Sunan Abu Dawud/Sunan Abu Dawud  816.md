@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনু সালেহ ..... মুআয ইবনু আবব্দুল্লাহ আল-জুহানী হতে বর্ণিত। তিনি বলেন, জুহায়না গোত্রের এক ব্যক্তি তাকে জানান যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে ফজরের নামাযের উভয় রাকাতে সূরা (إِذَا زُلْزِلَتِ الأَرْضُ) পড়তে শুনেছেন। তিনি আরো বলেন, আমি জানি না রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ভুল বশত এরূপ করেছিলেন না ইচ্ছাকৃতভাবে তা পড়েছিলেন।
+। মু‘আয ইবনু ‘আব্দুল্লাহ আল-জুহানী সূত্রে বর্ণিত। তিনি বলেন, জুহায়নাহ গোত্রের এক ব্যক্তি তাঁকে অবহিত করেন যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ফজর সালাতে উভয় উভয় রাক‘আতে ‘‘ইজা যুলযিলাতিল আরজু’’ পাঠ করতে শুনেছেন। তিনি আরো বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভুলবশতঃ এরূপ করেছিলেন না ইচ্ছাকৃতভাবে, তা আমি অবহিত নই।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>816</td></tr><tr><td>Arabic No</td><td>816</td></tr><tr><td>Reference</td><td>Book 2 Hadith 426</td></tr></tbody></table></div>
 

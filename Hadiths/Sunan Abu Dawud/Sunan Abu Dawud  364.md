@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আন-নুফায়লী ..... আতা (রহঃ) থেকে বর্ণিত। আয়িশা (রাঃ) বলেন, আমাদের প্রত্যেকের গায়ে দেওয়ার জন্য মাত্র একটি করে জামা ছিল তা পরিধান করা অবস্থায় আমরা হায়েযগ্রস্ত এবং অপবিত্র হতাম। অতঃপর তাতে রক্তের চিহ্ন দেখতে পেলে তাতে থুথু দিয়ে ঘষে পরিষ্কার করতাম।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমাদের কারো নিকট (কখনো) একটি জামা থাকত। হায়িয অবস্থায় তার পরনে ঐ জামা থাকত। তাতেই জানাবাতের গোসল ফরয হত। অতঃপর জামার কোথাও এক ফোটা রক্ত পরিলক্ষিত হলে তা থু থু দ্বারা রগড়ে নিত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>364</td></tr><tr><td>Arabic No</td><td>364</td></tr><tr><td>Reference</td><td>Book 1 Hadith 364</td></tr></tbody></table></div>
 

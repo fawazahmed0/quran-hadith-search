@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নুফায়লী (রহঃ) ..... আবদুল্লাহ্‌ ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সৎভাবে চলা, উত্তম চরিত্র এবং মধ্যম পন্থা অবলম্বন করা নবূওয়াতের পঁচিশ ভাগের এক ভাগ।
+। আব্দুল্লাহ ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ উত্তম পথ, গাম্ভীর্যপূর্ণ উত্তম আচরণ এবং পরিমিতিবোধ নাবুওয়াতের পঁচিশ ভাগের এক ভাগ।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4776</td></tr><tr><td>Arabic No</td><td>4776</td></tr><tr><td>Reference</td><td>Book 43 Hadith 4</td></tr></tbody></table></div>
 

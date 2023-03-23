@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবনে সাঈদ (রঃ) .... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার ডান হাতে রেশমী বস্ত্র এবং বাম হাতে সোনা নিয়ে বলেনঃ এ দুটি জিনিস আমার উম্মতের পুরুষদের জন্য হারাম।
+। আব্দুল্লাহ ইবনু যুবায়র (রাঃ) সূত্রে বর্ণিত। তিনি আলী ইবনু আবূ তালিব (রাঃ)-কে বলতে শুনেছেন, একদা আল্লাহর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ডান হাতে রেশম ও বাম হাতে স্বর্ণ নিয়ে বললেনঃ এ দু’টি জিনিস আমার উম্মাতের পুরুষদের জন্য হারাম।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4057</td></tr><tr><td>Arabic No</td><td>4057</td></tr><tr><td>Reference</td><td>Book 34 Hadith 38</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... আস্‌মা বিনতে উমায়েস (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম আমাকে বলেনঃ আমি কি তোমাকে এমন কয়েকটি বাক্য শিক্ষা দিব না, যা তুমি বিপদাপদের সময় পাঠ করতে পার? অতঃপর তিনি বলেনঃ আল্লাহু, আল্লাহু রাব্বী, লা উশ্‌রিকু বিহি শায়আন। (নাসাঈ, ইব্‌ন মাজা)।
+। আসমা বিনতু উমাইস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বলেন, আমি কি তোমাকে এমন কয়েকটি বাক্য শিক্ষা দিবো না, যা তুমি বিপদের সময় পাঠ করবে? তা হচ্ছেঃ ‘‘আল্লাহু আল্লাহু রব্বী লা উশরিকু বিহি শাইয়ান’’ (অর্থঃ আল্লাহ! আল্লাহ! আমার রব্ব! তাঁর সাথে আমি কাউকে শরীক করি না)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1525</td></tr><tr><td>Arabic No</td><td>1525</td></tr><tr><td>Reference</td><td>Book 8 Hadith 110</td></tr></tbody></table></div>
 

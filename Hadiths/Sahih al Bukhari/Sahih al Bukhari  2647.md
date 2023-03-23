@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমার নিকট আসলেন, তখন আমার নিকট জনৈক ব্যক্তি ছিল। তিনি জিজ্ঞেস করলেন, হে ‘আয়িশাহ! এ কে? আমি বললাম, আমার দুধ ভাই। তিনি বললেন, হে ‘আয়িশাহ! কে তোমার সত্যিকার দুধ ভাই তা যাচাই করে দেখে নিও। কেননা, ক্ষুধার কারণে দুধ পানের ফলেই শুধু দুধ সম্পর্ক স্থাপিত হয়। ইবনু মাহদী (রহ.) সুফইয়ান (রহ.) হতে হাদীস বর্ণনায় মুহাম্মাদ ইবনু কাসীর (রহ.)-এর অনুসরণ করেছেন। (৫১০২) (মুসলিম ১৭/৮ হাঃ ১৪৫৫, আহমাদ ২৫৮৪৮) (আধুনিক প্রকাশনীঃ ২৪৫৫, ইসলামিক ফাউন্ডেশনঃ ২৪৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমার নিকট আসলেন, তখন আমার নিকট জনৈক ব্যক্তি ছিল। তিনি জিজ্ঞেস করলেন, হে ‘আয়িশাহ! এ কে? আমি বললাম, আমার দুধ ভাই। তিনি বললেন, হে ‘আয়িশাহ! কে তোমার সত্যিকার দুধ ভাই তা যাচাই করে দেখে নিও। কেননা, ক্ষুধার কারণে দুধ পানের ফলেই শুধু দুধ সম্পর্ক স্থাপিত হয়। ইবনু মাহদী (রহ.) সুফইয়ান (রহ.) হতে হাদীস বর্ণনায় মুহাম্মাদ ইবনু কাসীর (রহ.)-এর অনুসরণ করেছেন। (৫১০২) (মুসলিম ১৭/৮ হাঃ ১৪৫৫, আহমাদ ২৫৮৪৮) (আধুনিক প্রকাশনীঃ ২৪৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2647</td></tr><tr><td>Arabic No</td><td>2647</td></tr><tr><td>Reference</td><td>Book 52 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: என்னிடம் ஒரு மனிதர் அமர்ந்திருக்க, நபி (ஸல்) அவர்கள் என் வீட்டிற்கு வந்தார்கள். ‘‘ஆயிஷாவே! இவர் யார்?” என்று நபி (ஸல்) அவர்கள் கேட்டார்கள். நான், ‘‘என் பால்குடிச் சகோதரர்” என்று கூறினேன். நபி (ஸல்) அவர்கள், ‘‘ஆயிஷாவே! உங்கள் சகோதரர்கள் யார் என்று ஆராய்ந்து பாருங்கள். ஏனெனில், பசியால் (பால் அருந்தினால்)தான் பால்குடி உறவு ஏற்படும்” என்று கூறினார்கள்.8 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 52
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: என்னிடம் ஒரு மனிதர் அமர்ந்திருக்க, நபி (ஸல்) அவர்கள் என் வீட்டிற்கு வந்தார்கள். ‘‘ஆயிஷாவே! இவர் யார்?” என்று நபி (ஸல்) அவர்கள் கேட்டார்கள். நான், ‘‘என் பால்குடிச் சகோதரர்” என்று கூறினேன். நபி (ஸல்) அவர்கள், ‘‘ஆயிஷாவே! உங்கள் சகோதரர்கள் யார் என்று ஆராய்ந்து பாருங்கள். ஏனெனில், பசியால் (பால் அருந்தினால்)தான் பால்குடி உறவு ஏற்படும்” என்று கூறினார்கள்.8 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2647</td></tr><tr><td>Arabic No</td><td>2647</td></tr><tr><td>Reference</td><td>Book 52 Hadith 11</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Mesruk'tan rivayet edilmiştir: Aişe r.anha şöyle demiştir: Yanımda bir erkek oturuyorken Nebi Sallallahu Aleyhi ve Sellem yanıma girdi. Nebi Sallallahu Aleyhi ve Sellem: "Aişe! Bu kimdir?" dedi. "Süt kardeşimdir" dedim. Bunun üzerine "Aişe! Kardeşlerinizin kimler olduğu konusunda iyi düşünün. Çünkü (haramlığı gerektiren) süt emme, açlıktan olandır" buyurdu. Tekrar 5102
+Mesruk'tan rivayet edilmiştir: Aişe r.anha şöyle demiştir: Yanımda bir erkek oturuyorken Nebi Sallallahu Aleyhi ve Sellem yanıma girdi. Nebi Sallallahu Aleyhi ve Sellem: "Aişe! Bu kimdir?" dedi. "Süt kardeşimdir" dedim. Bunun üzerine "Aişe! Kardeşlerinizin kimler olduğu konusunda iyi düşünün. Çünkü (haramlığı gerektiren) süt emme, açlıktan olandır" buyurdu. Tekrar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2647</td></tr><tr><td>Arabic No</td><td>2647</td></tr><tr><td>Reference</td><td>Book 52 Hadith 11</td></tr></tbody></table></div>
 

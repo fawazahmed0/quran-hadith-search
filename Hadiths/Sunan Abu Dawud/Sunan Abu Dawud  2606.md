@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাঈদ ইবন মানসূর ..... সাখর আল গামিদী (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন, তিনি এ বলে দু‘আ করেছেনঃ ‘‘হে আল্লাহ্! আমার উম্মতের মধ্যে যারা ভোর বেলায় সফরে বের হয় তাদেরকে বরকত দান করো।’’ আর যখন তিনি কোন সোনাদল বা সাজোয়া বাহিনী পাঠাতেন, তখন ভোর বেলাতেই পাঠাতেন। অত্র হাদীসের বর্ণনাকারী সাখর (রাঃ) একজন ব্যবসায়ী ছিলেন। তিনি তাঁর পণ্য সামগ্রী দিনের প্রথমাংশে (ভোরে) পাঠাতেন আর বেশ লাভবান হতেন। এরূপে তিনি প্রচুর ধনসম্পদের অধিকারী হয়েছিলেন।
+। সাখর আল-গামিদী (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ‘‘হে আল্লাহ! আপনি আমার উম্মতকে ভোরের বরকত দান করুন।’’ তিনি কোনো ক্ষুদ্র বা বিশাল বাহিনীকে কোথাও প্রেরণ করলে দিনের প্রথমভাগেই পাঠাতেন। বর্ণনাকারী সাখর (রাঃ) একজন ব্যবসায়ী ছিলেন। তিনি তার পণ্যদ্রব্য দিনের প্রথমভাগে (ভোরে) পাঠাতেন, ফলে তিনি সম্পদশালী হয়েছিলেন এবং এভাবে তিনি অনেক সম্পদের অধিকারী হয়েছিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2606</td></tr><tr><td>Arabic No</td><td>2606</td></tr><tr><td>Reference</td><td>Book 15 Hadith 130</td></tr></tbody></table></div>
 

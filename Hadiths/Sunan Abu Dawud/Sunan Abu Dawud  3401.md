@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইমাম আবূ দাঊদ (রহঃ) বলেন, আমি সাঈদ ইয়া‘কূব আত-তালাকানীকে এটি পাঠ করে শুনালাম। আপনাদেরকে ইবনুল মুবারক, সাঈদ আবূ শুজা‘র সূত্রে বলেছেন, তিনি বললেন, আমাকে ‘উসমান ইবনু সাগল ইবনু রাফি’ ইবনু খাদীজ (রাঃ) বলেছেন। উসমান বলেন, আমি রাফি‘ ইবনু খাদীজের নিকট ইয়াতীম হিসাবে প্রতিপালিত হয়েছি। আমি তার সাথে হজ (হজ্জ)ও করেছি। একদা আমার ভাই ইমরান ইবনু সাহল এসে তাকে জিজ্ঞেস করলেন, ‘আমরা আমাদের অমুক জমি দু’শা দিরহামের বিনিময়ে অমুককে ধার দিয়েছি। তিনি (রাফি’) বললেন, এটা বর্জন করো। কেননা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জমি ধার দিতে নিষেধ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3401</td></tr><tr><td>Arabic No</td><td>3401</td></tr><tr><td>Reference</td><td>Book 23 Hadith 76</td></tr></tbody></table></div>
 

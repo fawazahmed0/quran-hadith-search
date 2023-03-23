@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... ইবন উমার (রাঃ) ঠান্ডা অনুভব করলে নাফে'কে বলেন, আমার উপর একখন্ড কাপড় বিছিয়ে দাও আমি তার উপর একটি বোরখা সাদৃশ কাপড় বিছিয়ে দেই। তিনি বলেন, তুমি এটা আমার উপর বিছিয়ে দিলে? অথচ মুহরিম ব্যক্তির জন্য রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এটার ব্যাবহার নিষেধ করেছেন।
+। ইবনু ‘উমার (রাযি.) সূত্রে বর্ণিত। একদা তিনি খুব শীত অনুভব করায় নাফি‘কে বললেনঃ আমাকে একখানা কাপড় দিয়ে ঢেকে দাও। আমি বোরকা সদৃশ্য একটি জুব্বা তাঁর উপর বিছিয়ে দিলাম। তিনি বললেন, তুমি এটা আমার উপর বিছালে? অথচ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুহরিম ব্যক্তিকে এটা পরতে নিষেধ করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1828</td></tr><tr><td>Arabic No</td><td>1828</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
 

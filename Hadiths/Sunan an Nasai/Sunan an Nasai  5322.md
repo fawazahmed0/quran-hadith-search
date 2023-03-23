@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন আলী (রহঃ) ... সামুরা (রাঃ) থেকে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা সাদা কাপড় পরিধান করবে। কেননা এটা বেশি পবিত্র হয়ে ও বেশি পরিচ্ছন্ন। আর তোমরা তোমাদের মৃতদেরকে সাদা কাপড় দিয়ে কাফন দেবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5322</td></tr><tr><td>Arabic No</td><td>5322</td></tr><tr><td>Reference</td><td>Book 48 Hadith 283</td></tr></tbody></table></div>
 

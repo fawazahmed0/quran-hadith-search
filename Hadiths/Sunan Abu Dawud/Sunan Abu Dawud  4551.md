@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ (রহঃ) ..... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ অনিচ্ছাকৃত হত্যার দিয়াত পশু দ্বারা তিনভাগে আদায় করতে হবে; যথাঃ তেত্রিশটি হিককা, তেত্রিশটি জাযা'আ, চৌত্রিশটি ছানীয়া (আট-দশ বছর বয়সের উট); যাদের সবই গর্ভবতী হবে।
+। আসিম ইবনু দমরাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আলী (রাঃ) বলেছেন, ভুলবশত হত্যার দিয়াত তিন ধরণেরঃ তেত্রিশটি চার বছরে পদার্পণকারী উষ্ট্রী, তেত্রিশটি পাঁচ বছরে পদার্পণকারী উষ্ট্রী এবং চৌত্রিশটি তিন বছরে পদার্পণকারী উষ্ট্রী, যা ছয় থেকে নয় বছর বয়সী দিয়াত হিসেবে ধার্য।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4551</td></tr><tr><td>Arabic No</td><td>4551</td></tr><tr><td>Reference</td><td>Book 41 Hadith 58</td></tr></tbody></table></div>
 

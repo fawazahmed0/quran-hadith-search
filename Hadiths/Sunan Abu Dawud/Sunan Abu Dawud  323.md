@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল আলা .... ইবনু আবযা (রহঃ) আম্মার ইবনু ইয়াসির (রাঃ) হতে এই হাদীছের মধ্যে বলেন, তখন তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেনঃ হে আম্মার! এরূপ করাই তোমার জন্য যথেষ্ট ছিল। এই বলে তিনি তাঁর উভয় হাত মাটিতে মারেন। অতঃপর তিনি এক হাত অন্য হাতের উপর মারেন, অতঃপর স্বীয় চেহারা মোবারক ও উভয় হাতের অর্ধেক অর্থাৎ কব্জি পর্যন্ত মাসেহ্ করেন এবং একবার মাটিতে হাত স্পর্শ করায় কনুই পর্যন্ত মাসেহ্ করা যায়নি।
+। ইবনু আবযা (রহঃ) ‘আম্মার ইবনু ইয়াসির (রাঃ) সূত্রে উপরোক্ত হাদীস বর্ণনা করেন। তাতে রয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, হে ‘আম্মার! তোমার জন্য এতটুকুই যথেষ্ট- এই বলে তিনি তাঁর উভয় হাত মাটিতে মারলেন, তারপর এক হাত অপর হাতের উপর মারলেন। তারপর নিজের চেহারা এবং হাতের অর্ধেক পর্যন্ত মাসাহ্ করলেন। তবে মাটিতে একবার হাত মারায় হাতের কনুই পর্যন্ত মাসাহ্ করা যায়নি।[1] সহীহ : উভয় হাত ও কনুইদ্বয় উল্লেখ বাদে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>323</td></tr><tr><td>Arabic No</td><td>323</td></tr><tr><td>Reference</td><td>Book 1 Hadith 323</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Ibn Abza reported on the authority of 'Ammar b. Yasir in this tradition as sayin
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdurrahman bin Ebza; Ammar bin Yasir'den bu Hadisi (şu şekilde) rivayet etti: "Resulullah (Sallallahu aleyhi ve Sellem): "Ya Ammar, şöyle yapman sana yeterdi” buyurdu Ve ellerini bir kere yere, sonra da birini diğerine vurdu. Sonra yüzünü ve dirsekleri aşmadan kollarını, yarısına kadar meshetti." Ebu Davud dedi ki; Bu hadisi Veki’ A'meş-Seleme bin Kuheyl- Abdurrahman bin Ebza senediyle; Cerir de A'meş-Seleme bin Küheyl-Said bin Abdirrahman bin Ebza ve babası (Abdurrahman bin Ebza) senediyle rivayet etti. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV, 263, 265, 320
+Abdurrahman bin Ebza; Ammar bin Yasir'den bu Hadisi (şu şekilde) rivayet etti: "Resulullah (Sallallahu aleyhi ve Sellem): "Ya Ammar, şöyle yapman sana yeterdi” buyurdu Ve ellerini bir kere yere, sonra da birini diğerine vurdu. Sonra yüzünü ve dirsekleri aşmadan kollarını, yarısına kadar meshetti." Ebu Davud dedi ki; Bu hadisi Veki’ A'meş-Seleme bin Kuheyl- Abdurrahman bin Ebza senediyle; Cerir de A'meş-Seleme bin Küheyl-Said bin Abdirrahman bin Ebza ve babası (Abdurrahman bin Ebza) senediyle rivayet etti. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>323</td></tr><tr><td>Arabic No</td><td>323</td></tr><tr><td>Reference</td><td>Book 1 Hadith 323</td></tr></tbody></table></div>
 

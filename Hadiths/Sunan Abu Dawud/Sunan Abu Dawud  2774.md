@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাখলাদ ইবন খালিদ (রহঃ) ...... আবূ বাকরা (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। বস্তুত যখন তাঁর (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) নিকট কোন খুশীর খবর আসতো, অথবা তাঁকে কোন সুসংবাদ দেওয়া হতো, তখনই তিনি আল্লাহর উদ্দেশ্যে শোকর-সূচক সিজদা আদায় করতেন।
+। আবূ বাকরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে কোনো খুশির খবর আসলে অথবা তিনি কোনো সুসংবাদ পেলে আল্লাহর কাছে শুকরিয়াস্বরূপ সিজদায় পড়ে যেতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2774</td></tr><tr><td>Arabic No</td><td>2774</td></tr><tr><td>Reference</td><td>Book 15 Hadith 298</td></tr></tbody></table></div>
 

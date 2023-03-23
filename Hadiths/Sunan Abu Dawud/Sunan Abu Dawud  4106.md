@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ঈসা (রহঃ) .... আনাস (রাঃ) থেকে বর্ণিত যে, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি গোলাম নিয়ে, যাকে তিনি ফাতিমা (রাঃ) কে দান করেন। তাঁর নিকট উপস্থিত হন। এ সময় ফাতিমা (রাঃ) এর পরিধানে এমন কাপড় ছিল, যা দিয়ে মাথা ঢাকলে পা অনাবৃত হয়ে যায় এবং পা ঢাকলে মাথা অনাবৃত হয়ে যায়। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর এ অবস্থা দেখে বলেনঃ এতে তোমার দোষের কিছু নেই; কেননা, তোমার সামনে তোমার পিতা এবং তোমার গোলাম আছে।
+। আনাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক কৃতদাসকে সঙ্গে নিয়ে ফাতিমাহ (রাঃ)-এর নিকট এলেন, যে কৃতদাসটি তিনি তাকে দান করেছিলেন। ফাতিমাহ (রাঃ)-এর পরিধানে এরূপ একটি কাপড় ছিলো যা দিয়ে তিনি মাথা ঢাকলে পা দু’টিতে পৌঁছে না; আর পা ঢাকলে মাথা পর্যন্ত পৌঁছে না। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার এ অবস্থা দেখে বলেনঃ তোমার কোনো পাপ হবে না, কারণ এখানে তো শুধু তোমার পিতা ও তোমার কৃতদাস রয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4106</td></tr><tr><td>Arabic No</td><td>4106</td></tr><tr><td>Reference</td><td>Book 34 Hadith 87</td></tr></tbody></table></div>
 

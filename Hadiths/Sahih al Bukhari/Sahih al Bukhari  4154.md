@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হুদাইবিয়াহর যুদ্ধের দিন আমাদেরকে বলেছেন, পৃথিবীবাসীদের মধ্যে তোমরাই সর্বোত্তম। সেদিন আমরা ছিলাম চৌদ্দশ। আজ আমি যদি দেখতাম, তাহলে আমি তোমাদেরকে সে গাছের জায়গাটি দেখিয়ে দিতাম। [৩৫৭৬; মুসলিম ৩৩/১৮, হাঃ ১৮৫৬; আহমাদ ১৪৩১৭] ‘আমাশ (রহ.) হাদীসটি সালিম (রহ.)-এর মাধ্যমে জাবির (রাঃ)-এর অনুরূপ বর্ণনা করেছেন চৌদ্দশ। (আধুনিক প্রকাশনীঃ ৩৮৪২, ইসলামিক ফাউন্ডেশনঃ ৩৮৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হুদাইবিয়াহর যুদ্ধের দিন আমাদেরকে বলেছেন, পৃথিবীবাসীদের মধ্যে তোমরাই সর্বোত্তম। সেদিন আমরা ছিলাম চৌদ্দশ। আজ আমি যদি দেখতাম, তাহলে আমি তোমাদেরকে সে গাছের জায়গাটি দেখিয়ে দিতাম। [৩৫৭৬; মুসলিম ৩৩/১৮, হাঃ ১৮৫৬; আহমাদ ১৪৩১৭] ‘আমাশ (রহ.) হাদীসটি সালিম (রহ.)-এর মাধ্যমে জাবির (রাঃ)-এর অনুরূপ বর্ণনা করেছেন চৌদ্দশ। (আধুনিক প্রকাশনীঃ ৩৮৪২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4154</td></tr><tr><td>Arabic No</td><td>4154</td></tr><tr><td>Reference</td><td>Book 64 Hadith 198</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jabir bin 'Abdullah:On the day of Al-Hudaibiya, Allah's Messenger (ﷺ) said to us' "You are the best people on the earth!" We were 1400 then. If I could see now, I would have shown you the place of the Tree (beneath which we gave the Pledge of Allegiance)." Salim said, "Our number was 1400
+Narrated Jabir bin 'Abdullah:On the day of Al-Hudaibiya, Allah's Messenger (ﷺ) said to us' "You are the best people on the earth!" We were 1400 then. If I could see now, I would have shown you the place of the Tree (beneath which we gave the Pledge of Allegiance)." Salim said, "Our number was
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4154</td></tr><tr><td>Arabic No</td><td>4154</td></tr><tr><td>Reference</td><td>Book 64 Hadith 198</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Sufyan] ber
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ஹுதைபியா தினத்தன்று அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் எங்களிடம், “பூமியிலிருப்பவர்களில் நீங்களே சிறந்த வர்கள்” என்று கூறினார்கள். (அப்போது) நாங்கள் ஆயிரத்து நானூறு பேர் இருந் தோம். இப்போது (மட்டும்) எனக்குக் கண் பார்வை தெரியுமானால் அந்த (ரிள்வான் உறுதிப் பிரமாணம் நடைபெற்ற) மரத்தின் இடத்தைக் காண்பித்திருப்பேன்” என்றே கூறினார்கள். ஜாபிர் (ரலி) அவர்களின் மற்றோர் அறிவிப்பிலும் “(அவர்கள்) ஆயிரத்து நானூறு பேர் இருந்தனர்” என்றே வந்துள்ளது. அத்தியாயம் : 64
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ஹுதைபியா தினத்தன்று அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் எங்களிடம், “பூமியிலிருப்பவர்களில் நீங்களே சிறந்த வர்கள்” என்று கூறினார்கள். (அப்போது) நாங்கள் ஆயிரத்து நானூறு பேர் இருந் தோம். இப்போது (மட்டும்) எனக்குக் கண் பார்வை தெரியுமானால் அந்த (ரிள்வான் உறுதிப் பிரமாணம் நடைபெற்ற) மரத்தின் இடத்தைக் காண்பித்திருப்பேன்” என்றே கூறினார்கள். ஜாபிர் (ரலி) அவர்களின் மற்றோர் அறிவிப்பிலும் “(அவர்கள்) ஆயிரத்து நானூறு பேர் இருந்தனர்” என்றே வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4154</td></tr><tr><td>Arabic No</td><td>4154</td></tr><tr><td>Reference</td><td>Book 64 Hadith 198</td></tr></tbody></table></div>
 

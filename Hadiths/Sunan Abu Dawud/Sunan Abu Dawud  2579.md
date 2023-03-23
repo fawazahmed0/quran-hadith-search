@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... আবূ হুরায়রা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন। তিনি বলেছেন, ঘোড়দৌড়ের প্রতিযোগিতায় রত দু‘টি ঘোড়ার মধ্যে যে ব্যক্তি তৃতীয় ঘোড়া প্রবেশ করিয়ে দিবে অর্থাৎ সে তার ঘোড়া অগ্রগামী হওয়ার ব্যাপারে নিশ্চিত নয় এমতাবস্থায় তা হারাম বাজিতে গণ্য হবে না। আর যে ব্যক্তি ভাল ঘোড়া নিয়ে নিশ্চিত জেতার লক্ষ্যে প্রতিযোগী ঘোড়ার মধ্যে তৃতীয় ঘোড়া প্রবেশ করিয়ে দিবে, তা হারাম বাজিতে গণ্য হবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি প্রতিযোগিতায় রত দু’টি ঘোড়ার মধ্যে তৃতীয় ঘোড়া প্রবেশ করাবে- অর্থাৎ প্রতিযোগিতায় তার ঘোড়া অন্যগুলোকে অতিক্রম করবে বলে নিশ্চিত নয়-তাহলে এটা জুয়া নয়। আর যে ব্যক্তি দৌড় প্রতিযোগিতায় দু’টি ঘোড়ার মাঝে তার ঘোড়া প্রবেশ করালো এবং সে নিশ্চিত যে, তার ঘোড়া অন্যগুলোকে অতিক্রম করে যাবে, তা জুয়া গন্য হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2579</td></tr><tr><td>Arabic No</td><td>2579</td></tr><tr><td>Reference</td><td>Book 15 Hadith 103</td></tr></tbody></table></div>
 

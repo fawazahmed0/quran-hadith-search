@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন, ভাল স্বপ্ন নবুয়তের ছেচল্লিশ ভাগের এক ভাগ। (আধুনিক প্রকাশনী- ৬৫০৫, ইসলামিক ফাউন্ডেশন- ৬৫১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন, ভাল স্বপ্ন নবুয়তের ছেচল্লিশ ভাগের এক ভাগ। (আধুনিক প্রকাশনী- ৬৫০৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6989</td></tr><tr><td>Arabic No</td><td>6989</td></tr><tr><td>Reference</td><td>Book 91 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ibrahim bin Hamzah] telah menceritakan kepadaku [Ib
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நல்ல (உண்மையான) கனவு நபித்துவத்தின் நாற்பத்தாறு பாகங்களில் ஒன்றாகும். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 91
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நல்ல (உண்மையான) கனவு நபித்துவத்தின் நாற்பத்தாறு பாகங்களில் ஒன்றாகும். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6989</td></tr><tr><td>Arabic No</td><td>6989</td></tr><tr><td>Reference</td><td>Book 91 Hadith 8</td></tr></tbody></table></div>
 

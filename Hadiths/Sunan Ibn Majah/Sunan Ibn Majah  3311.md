@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৩১১। আবুদুল্লাহ ইবনুল হারিস ইবনুল হারিস ইবনুল জাযই আয-যুবাইদী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে মসজিদে বসে ভুনা গোশত খেয়েছি, অতঃপর কাঁকরে হাত মুছে দাঁড়িয়ে নামায পড়েছি, কিন্তু (গোশত খাওয়ার কারণে পুনরায়) উযু করিনি।
+। আবুদুল্লাহ ইবনুল হারিস ইবনুল হারিস ইবনুল জাযই আয-যুবাইদী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে মসজিদে বসে ভুনা গোশত খেয়েছি, অতঃপর কাঁকরে হাত মুছে দাঁড়িয়ে নামায পড়েছি, কিন্তু (গোশত খাওয়ার কারণে পুনরায়) উযু করিনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 29 Hadith 61</td></tr></tbody></table></div>
 

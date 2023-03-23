@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আনসারগণ কিছু কিছু খেজুর গাছ নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর জন্য নির্দিষ্ট করে দিয়েছিলেন। অবশেষে বনু কুরায়যা ও বনু নাযীর জয় করা হলে তিনি ঐ খেজুর গাছগুলো তাদেরকে ফেরত দিয়ে দেন। [২৬৩০] (আধুনিক প্রকাশনীঃ ৩৭৩০, ইসলামিক ফাউন্ডেশনঃ ৩৭৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আনসারগণ কিছু কিছু খেজুর গাছ নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর জন্য নির্দিষ্ট করে দিয়েছিলেন। অবশেষে বনু কুরায়যা ও বনু নাযীর জয় করা হলে তিনি ঐ খেজুর গাছগুলো তাদেরকে ফেরত দিয়ে দেন। [২৬৩০] (আধুনিক প্রকাশনীঃ ৩৭৩০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4030</td></tr><tr><td>Arabic No</td><td>4030</td></tr><tr><td>Reference</td><td>Book 64 Hadith 79</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Abu Al Aswad] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாóக் (ரó) அவர்கள் கூறியதாவது: (பனூ) குறைழா, (பனுந்) நளீர் குலத்தாரை வெற்றி கொள்ளும்வரையில் (அன்சார்களில்) சிலர் நபி (ஸல்) அவர்க(ளின் செலவுக)ளுக்காகப் பேரீச்சமரங்களை (அன்பளிப்பாக)க் கொடுத்திருந்தார்கள். அதற்குப் பிறகு நபி (ஸல்) அவர்கள் அவற்றை அவர்களிடமே திருப்பிக் கொடுத்துவிட்டார்கள்.89 அத்தியாயம் : 64
+அனஸ் பின் மாóக் (ரó) அவர்கள் கூறியதாவது: (பனூ) குறைழா, (பனுந்) நளீர் குலத்தாரை வெற்றி கொள்ளும்வரையில் (அன்சார்களில்) சிலர் நபி (ஸல்) அவர்க(ளின் செலவுக)ளுக்காகப் பேரீச்சமரங்களை (அன்பளிப்பாக)க் கொடுத்திருந்தார்கள். அதற்குப் பிறகு நபி (ஸல்) அவர்கள் அவற்றை அவர்களிடமே திருப்பிக் கொடுத்துவிட்டார்கள்.89 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4030</td></tr><tr><td>Arabic No</td><td>4030</td></tr><tr><td>Reference</td><td>Book 64 Hadith 79</td></tr></tbody></table></div>
 

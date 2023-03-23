@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 জুনদুব (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, যতক্ষণ পর্যন্ত ইবাদাত মনের চাহিদার অনুকূল হয় তিলাওয়াত করতে থাক এবং তাতে মনোসংযোগে ব্যাঘাত ঘটলে পড়া ত্যাগ কর। হারিস ইবনু ‘উবায়দ ও সা‘ঈদ ইবনু যায়দ আবূ ‘ইমরান এর মাধ্যেমে জুনদাবের অনুরূপ বর্ণনা করেছেন। কিন্তু হাম্মাদ ইবনু সালামাহ ও আবান এটিকে মারফু‘ হিসেবে বর্ণনা করেননি। ..... তবে জুনদাবের বর্ণনাটি অধিক বিশুদ্ধ ও অধিক বর্ণিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5061</td></tr><tr><td>Arabic No</td><td>5061</td></tr><tr><td>Reference</td><td>Book 66 Hadith 86</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Amru bin Ali] Telah menceritakan kepada kami [Ab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களின் உள்ளங்கள் ஒன்றுபட்டி ருக்கும்வரை குர்ஆனை ஓதுங்கள். (அதன் கருத்தை அறிவதில்) நீங்கள் கருத்து வேறுபாடு கொண்டால் அ(ந்த இடத்)தைவிட்டு எழுந்து (சென்று)விடுங்கள். இதை ஜுன்துப் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் ஏழு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 66
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களின் உள்ளங்கள் ஒன்றுபட்டி ருக்கும்வரை குர்ஆனை ஓதுங்கள். (அதன் கருத்தை அறிவதில்) நீங்கள் கருத்து வேறுபாடு கொண்டால் அ(ந்த இடத்)தைவிட்டு எழுந்து (சென்று)விடுங்கள். இதை ஜுன்துப் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் ஏழு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5061</td></tr><tr><td>Arabic No</td><td>5061</td></tr><tr><td>Reference</td><td>Book 66 Hadith 86</td></tr></tbody></table></div>
 

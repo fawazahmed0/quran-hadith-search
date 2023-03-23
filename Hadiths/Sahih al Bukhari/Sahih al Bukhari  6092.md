@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এমনভাবে হাঁ করে দেখিনি যে, তাঁর আলা জিহ্বা দেখা যেত। তিনি কেবল মুচকি হাসতেন। [৪৮২৮] (আধুনিক প্রকাশনী- ৫৬৫৩, ইসলামিক ফাউন্ডেশন- ৫৫৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এমনভাবে হাঁ করে দেখিনি যে, তাঁর আলা জিহ্বা দেখা যেত। তিনি কেবল মুচকি হাসতেন। [৪৮২৮] (আধুনিক প্রকাশনী- ৫৬৫৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6092</td></tr><tr><td>Arabic No</td><td>6092</td></tr><tr><td>Reference</td><td>Book 78 Hadith 119</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Sulaiman] dia berkata; telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களை நான் ஒருபோதும் ஒரேயடியாகத் தமது உள்நாக்குத் தெரியும் அளவுக்குச் சிரிக்கக் கண்டதில்லை. அவர்கள் (பெரும்பாலும்) புன்னகைப்பவர்களா கவே இருந்தார்கள்.110 அத்தியாயம் : 78
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களை நான் ஒருபோதும் ஒரேயடியாகத் தமது உள்நாக்குத் தெரியும் அளவுக்குச் சிரிக்கக் கண்டதில்லை. அவர்கள் (பெரும்பாலும்) புன்னகைப்பவர்களா கவே இருந்தார்கள்.110 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6092</td></tr><tr><td>Arabic No</td><td>6092</td></tr><tr><td>Reference</td><td>Book 78 Hadith 119</td></tr></tbody></table></div>
 

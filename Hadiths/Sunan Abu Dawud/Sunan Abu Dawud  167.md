@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসহাক ইবনু ইসমাঈল .... মুজাছিদ (রহঃ) বানূ ছাফীফের এক ব্যাক্তি হতে এবং তিনি তাঁর পিতা হতে বর্ণনা করেছেন। আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে পেশাব করার পর তাঁর লজ্জাস্থানে পানি ছিটাতে দেখেছি (অর্থাৎ হালকাভাবে ধৌত করতেন)।
+। সাক্বীফ গোত্রের জনৈক ব্যক্তি হতে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে পেশাব করে লজ্জাস্থানে পানি ছিটা দিতে দেখেছি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
 

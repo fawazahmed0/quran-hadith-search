@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৬৬, আন্তর্জাতিক নাম্বারঃ ২৯৩ ৫৬৬-(১/২৯৩) আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমাদের কেউ যখন ঋতুবতী হয়ে পড়ত তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নির্দেশে সে পরিহিত কাপড় ভাল করে বেঁধে নিত। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সাথে মেলামেশা করতেন। (ইসলামিক ফাউন্ডেশনঃ ৫৭০, ইসলামিক সেন্টারঃ ৫৮৬)
+আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমাদের কেউ যখন ঋতুবতী হয়ে পড়ত তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নির্দেশে সে পরিহিত কাপড় ভাল করে বেঁধে নিত। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সাথে মেলামেশা করতেন। (ইসলামিক ফাউন্ডেশনঃ ৫৭০, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>293.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 1</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekr b. Ebî Şeybe ile Züheyr b. Harb ve İshak b. İbrahim rivayet ettiler. İshak: Bize haber verdi tabirini kullandı. Ötekiler: Bize Cerir Mansur'dan, o da İbrahim'den, o da Esved'den, o da Aişe'den naklen rivayet etti. dediler. Aişe (r.anha) dedi ki: Bizden birimiz ay hali olmuşsa Resulullah (Sallallahu aleyhi ve Sellem)'in ona emri üzerine bir izar (peştamal)a bürünür sonra ona mübaşeret ederdi. Diğer tahric: Buhari, 300 -buna yakın-, 2031 -buna yakın-; Ebu Davud, 268; Tirmizi, 132 -buna yakm-; Nesai, 285, 372; İbn Mace, 636; Tuhfetu'I-Eşraf, 15982
+Bize Ebu Bekr b. Ebî Şeybe ile Züheyr b. Harb ve İshak b. İbrahim rivayet ettiler. İshak: Bize haber verdi tabirini kullandı. Ötekiler: Bize Cerir Mansur'dan, o da İbrahim'den, o da Esved'den, o da Aişe'den naklen rivayet etti. dediler. Aişe (r.anha) dedi ki: Bizden birimiz ay hali olmuşsa Resulullah (Sallallahu aleyhi ve Sellem)'in ona emri üzerine bir izar (peştamal)a bürünür sonra ona mübaşeret ederdi. Diğer tahric: Buhari, 300 -buna yakın-, 2031 -buna yakın-; Ebu Davud, 268; Tirmizi, 132 -buna yakm-; Nesai, 285, 372; İbn Mace, 636; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>293.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 1</td></tr></tbody></table></div>
 

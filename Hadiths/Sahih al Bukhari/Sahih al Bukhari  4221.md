@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ এবং ‘আবদুল্লাহ ইবনু আবূ আওফা (রাঃ) হতে বর্ণিত যে, (খাইবার যুদ্ধে) তাঁরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলেন। তাঁরা গাধার গোশত পেলেন। তাঁরা তা রান্না করলেন। এমন সময়ে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর ঘোষণাকারী ঘোষণা করলেন, ডেকচিগুলো উল্টে ফেল। [৩১৫৫, ৪২২৩, ৪২২৫, ৪২২৬, ৫৫২৫; মুসলিম ৩৪/৫, হাঃ ১৯৩৮, আহমাদ ১৮৬৪৬] (আধুনিক প্রকাশনীঃ ৩৯০০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4221</td></tr><tr><td>Arabic No</td><td>4221</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Al-Bara and 'Abdullah bin Abl 'Aufa:That when they were in the company 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(கைபர் போரில்) மக்கள் நபி (ஸல்) அவர்களுடன் இருந்து கொண்டிருந்தபோது அவர்களுக்கு(நாட்டு)க் கழுதைகள் கிடைத்தன. உடனே அவற்றை மக்கள் சமைத்தனர். அப்போது நபி (ஸல்) அவர்களின் அறிவிப்பாளர், “பாத்திரங்களைக் கவிழ்த்துவிடுங்கள்” என்று பொதுஅறிவிப்புச் செய்தார். இதை பராஉ (ரலி) அவர்களும் அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் : 64
+(கைபர் போரில்) மக்கள் நபி (ஸல்) அவர்களுடன் இருந்து கொண்டிருந்தபோது அவர்களுக்கு(நாட்டு)க் கழுதைகள் கிடைத்தன. உடனே அவற்றை மக்கள் சமைத்தனர். அப்போது நபி (ஸல்) அவர்களின் அறிவிப்பாளர், “பாத்திரங்களைக் கவிழ்த்துவிடுங்கள்” என்று பொதுஅறிவிப்புச் செய்தார். இதை பராஉ (ரலி) அவர்களும் அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4221</td></tr><tr><td>Arabic No</td><td>4221</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

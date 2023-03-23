@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৬৪৫, আন্তর্জাতিক নাম্বারঃ ২৬৫৬ ৬৬৪৫-(১৯/২৬৫৬) আবূ বাকর ইবনু আবু শাইবাহ ও আবু কুরায়ব (রহঃ) ...... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, কুরায়শ গোত্রের মুশরিকরা ভাগ্যলিপির ব্যাপারে বিবাদ করতে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আগমন করলো। তারপর এ আয়াত নাযিল হলো- "যেদিন তাদের কে নিম্নমুখী করে জাহান্নামে টেনে আনা হবে এবং (বলা হবে) জাহান্নামের আগুনের ছোয়া আস্বাদন করো। নিশ্চয়ই আমি সকল বিষয়বস্তু পরিমিত পরিমাণে সৃষ্টি করেছি।" (ইসলামিক ফাউন্ডেশন ৬৫১১, ইসলামিক সেন্টার ৬৫৬২)
+‘আবদুল আ’লা ইবনু হাম্মাদ, কুতাইবাহ্ ইবনু সাঈদ (রহঃ) ..... তাউস (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহাবাদের মধ্য থেকে কিছু সংখ্যক সহাবাকে দেখতে পেয়েছি। তারা বলতেন যে, সকল বিষয় নির্ধারিত (সৃষ্ট)। তিনি বলেন, আমি আবদুল্লাহ ইবনু উমর (রাযিঃ) কে বলতে শুনেছি যে, তিনি বলেছেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সকল বিষয় নির্দিষ্ট পরিমাণে সৃষ্ট, এমনকি অক্ষমতা ও বুদ্ধিমত্তা বা বুদ্ধিমত্তা ও অক্ষমতাও। (ইসলামিক ফাউন্ডেশন ৬৫১০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6752</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 46 Hadith 30</td></tr></tbody></table></div>
 
@@ -56,7 +56,7 @@ Tawus reported:I found some Companions of Allah's Messenger (ﷺ) as saying: Eve
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Ziyad bin Isma'il] dari [Muhammad bin 'Abbad bin Ja'far Al Makhrumi] dari [Abu Hurairah] dia berkata; "Pada suatu hari, kaum musyrik Quraisy datang menemui Rasulullah shallallahu 'alaihi wasallam untuk memperdebatkan masalah qadar (takdir). Tak lama kemudian, turunlah ayat Al Qur'an yang berbunyi: 'Ingatlah pada hari di mana mereka diseret ke neraka pada muka mereka. Dikatakan kepada mereka; 'Rasakanlah sentuhan api neraka. Sesungguhnya Kami menciptakan segala sesuatu menurut qadarnya.'" (Al Qamar (54): 48-49
+Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Ziyad bin Isma'il] dari [Muhammad bin 'Abbad bin Ja'far Al Makhrumi] dari [Abu Hurairah] dia berkata; "Pada suatu hari, kaum musyrik Quraisy datang menemui Rasulullah shallallahu 'alaihi wasallam untuk memperdebatkan masalah qadar (takdir). Tak lama kemudian, turunlah ayat Al Qur'an yang berbunyi: 'Ingatlah pada hari di mana mereka diseret ke neraka pada muka mereka. Dikatakan kepada mereka; 'Rasakanlah sentuhan api neraka. Sesungguhnya Kami menciptakan segala sesuatu menurut qadarnya.'" (Al Qamar (54):
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6752</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 46 Hadith 30</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] kedua
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) குறைஷி இணைவைப்பாளர்கள் விதி தொடர்பாக அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் விவாதிக்க வந்தனர். அப்போது, "அவர்கள் நரகத்தில் முகம்குப்புற இழுத்துவரப்படும் நாளில் "நரகத்தின் வேதனையைச் சுவையுங்கள்" (என்று கூறப்படும்). ஒவ்வொரு பொருளையும் நாம் திட்டமிட்டபடியே படைத்துள்ளோம்" (54:48,49) எனும் இறைவசனங்கள் அருளப்பெற்றன. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 46
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) குறைஷி இணைவைப்பாளர்கள் விதி தொடர்பாக அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் விவாதிக்க வந்தனர். அப்போது, "அவர்கள் நரகத்தில் முகம்குப்புற இழுத்துவரப்படும் நாளில் "நரகத்தின் வேதனையைச் சுவையுங்கள்" (என்று கூறப்படும்). ஒவ்வொரு பொருளையும் நாம் திட்டமிட்டபடியே படைத்துள்ளோம்" (54:48,49) எனும் இறைவசனங்கள் அருளப்பெற்றன. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6752</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 46 Hadith 30</td></tr></tbody></table></div>
 

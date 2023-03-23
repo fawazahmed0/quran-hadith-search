@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা এক সা‘ পরিমাণ খাদ্য অথবা এক সা‘ পরিমাণ যব অথবা এক সা‘ পরিমাণ খেজুর অথবা এক সা পরিমাণ পনির অথবা এক সা‘ পরিমাণ কিসমিস দিয়ে সদাকাতুল ফিত্র আদায় করতাম। (১৫০৫) (আধুনিক প্রকাশনীঃ ১৪০৯, ইসলামিক ফাউন্ডেশনঃ ১৪১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা এক সা‘ পরিমাণ খাদ্য অথবা এক সা‘ পরিমাণ যব অথবা এক সা‘ পরিমাণ খেজুর অথবা এক সা পরিমাণ পনির অথবা এক সা‘ পরিমাণ কিসমিস দিয়ে সদাকাতুল ফিত্র আদায় করতাম। (১৫০৫) (আধুনিক প্রকাশনীঃ ১৪০৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1506</td></tr><tr><td>Arabic No</td><td>1506</td></tr><tr><td>Reference</td><td>Book 24 Hadith 106</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நோன்புப் பெருநாள் தர்மமாக ஒரு ஸாஉ அளவு ஏதேனும் உண வையோ, அல்லது ஒரு ஸாஉ அளவு தொலி நீக்கப்படாத கோதுமையையோ, அல்லது ஒரு ஸாஉ அளவு பேரீச்சம் பழத்தையோ, அல்லது ஒரு ஸாஉ அளவு பாலாடைக் கட்டியையோ, அல்லது ஒரு ஸாஉ அளவு உலர்ந்த திராட்சையையோ வழங்கி வந்தோம். அத்தியாயம் : 24
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நோன்புப் பெருநாள் தர்மமாக ஒரு ஸாஉ அளவு ஏதேனும் உண வையோ, அல்லது ஒரு ஸாஉ அளவு தொலி நீக்கப்படாத கோதுமையையோ, அல்லது ஒரு ஸாஉ அளவு பேரீச்சம் பழத்தையோ, அல்லது ஒரு ஸாஉ அளவு பாலாடைக் கட்டியையோ, அல்லது ஒரு ஸாஉ அளவு உலர்ந்த திராட்சையையோ வழங்கி வந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1506</td></tr><tr><td>Arabic No</td><td>1506</td></tr><tr><td>Reference</td><td>Book 24 Hadith 106</td></tr></tbody></table></div>
 

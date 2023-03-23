@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন সুলায়মান (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মহান আল্লাহ বলেনঃ আমি দুই শরীকের মধ্যে তৃতীয় যতক্ষণ না তারা একে অপরের প্রতি খিয়ানত করে। এরপর যখন তাদের কেউ অন্যের প্রতি খিয়ানত করে, তখন আমি তাদের সংশ্রব পরিত্যাগ করি। (ফলে সে যৌথ কারবারে বরকত উঠে যায়।)
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, নিশ্চয়ই মহান আল্লাহ বলেনঃ আমি দু’ অংশীদারে মধ্যে তৃতীয় অংশীদার, যতক্ষণ তারা একে অন্যের সাথে বিশ্বাসঘাতকতা না করে। যখন এক অংশীদার অপরের সাথে খিয়ানাত করে তখন আমি তাদের থেকে সরে যাই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3383</td></tr><tr><td>Arabic No</td><td>3383</td></tr><tr><td>Reference</td><td>Book 23 Hadith 58</td></tr></tbody></table></div>
 

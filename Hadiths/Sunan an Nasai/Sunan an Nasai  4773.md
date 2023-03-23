@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ওহাব ইন বায়ান (রহঃ) ... আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, একবার রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কিছু বণ্টন করছিলেন, এমন সময় এক ব্যক্তি সামনের দিক হতে এসে তার উপর ঝুকে পড়লে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে তাঁর হাতের কাঠি দ্বারা খোঁচা দেন। এতে ঐ ব্যক্তি বের হয়ে যায়। তারপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এসো, প্রতিশোধ নাও। সে ব্যক্তি বললোঃ ইয়া রাসূলাল্লাহ! আমি ক্ষমা করে দিয়েছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4773</td></tr><tr><td>Arabic No</td><td>4773</td></tr><tr><td>Reference</td><td>Book 45 Hadith 68</td></tr></tbody></table></div>
 

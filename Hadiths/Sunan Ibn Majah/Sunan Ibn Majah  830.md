@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৮৩০। আল-বারাআ ইবনু আযেব (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিয়ে যোহরের সালাত আদায় করতেন। আমরা সূরাহ লুকমান ও সূরাহ যারিয়াত থেকে তাঁর পঠিত আয়াতের পর আয়াত শুনতে পেতাম।
+। আল-বারাআ ইবনু আযেব (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিয়ে যোহরের সালাত আদায় করতেন। আমরা সূরাহ লুকমান ও সূরাহ যারিয়াত থেকে তাঁর পঠিত আয়াতের পর আয়াত শুনতে পেতাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>830</td></tr><tr><td>Arabic No</td><td>830</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
 

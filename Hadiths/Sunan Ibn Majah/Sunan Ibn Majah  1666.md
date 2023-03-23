@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/১৬৬৬। আবদুর রহমান ইবনু আওফ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি সফরে রোযা রাখে সে আবাসে উপস্থিত রোযা ভঙ্গকারী ব্যক্তির অনুরূপ। আবূ ইসহাক (রহ.) বলেন, হাদীসটি নির্ভরযোগ্য নয়।
+। আবদুর রহমান ইবনু আওফ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি সফরে রোযা রাখে সে আবাসে উপস্থিত রোযা ভঙ্গকারী ব্যক্তির অনুরূপ। আবূ ইসহাক (রহ.) বলেন, হাদীসটি নির্ভরযোগ্য নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1666</td></tr><tr><td>Arabic No</td><td>1666</td></tr><tr><td>Reference</td><td>Book 7 Hadith 29</td></tr></tbody></table></div>
 

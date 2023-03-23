@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের বেলা পরিবারের কাছে প্রবেশ করতে নিষেধ করেছেন। (৪৪৩) (আধুনিক প্রকাশনীঃ ১৬৭২. ইসলামিক ফাউন্ডেশনঃ ১৬৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের বেলা পরিবারের কাছে প্রবেশ করতে নিষেধ করেছেন। (৪৪৩) (আধুনিক প্রকাশনীঃ ১৬৭২. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: (பயணத்திலிருந்து திரும்பும்போது) இரவு நேரத்தில் திடீரென வீட்டாரிடம் செல்வதை நபி (ஸல்) அவர்கள் தடுத்துள்ளார்கள். அத்தியாயம் : 26
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: (பயணத்திலிருந்து திரும்பும்போது) இரவு நேரத்தில் திடீரென வீட்டாரிடம் செல்வதை நபி (ஸல்) அவர்கள் தடுத்துள்ளார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
 

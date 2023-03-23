@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহিয়া ইবনে খালাফ (রহঃ) ..... ইবনে জুরায়জ (রহঃ) হতে বর্ণিত। তিনি বলেন, আতা (রাঃ) বলেছেন, ইবনে যুবায়ের (রাঃ) এর সময় একবার ঈদুল ফিতর ও জুমা একই দিনে অনুষ্ঠিত হয়। এ সময় ইবনে যুবাইর (রাঃ) বলেন, একই দিনে দুইটি ঈদের সমাগম হয়েছে। তখন তিনি দুইটিকে একত্রিত করে উভয় ঈদের জন্য দুই রাকাত নামায আদায় করেন এবং সেদিন তিনি আছরের পূর্বে আর কোন নামায পড়েননি।
+। ‘আত্বা (রহঃ) বলেন, একদা ‘আবদুল্লাহ ইবনুয যুবায়ির (রাঃ) এর যুগে জুমু‘আহ ও ঈদুল ফিত্বর একই দিনে হওয়ায় তিনি বলেন, একই দিনে দুই ঈদ একত্র হয়েছে। তিনি দুই সালাত (জুমু‘আহ ও ‘ঈদের সালাত) একত্র করেন এবং প্রত্যুষে মাত্র দু’ রাক‘আত সালাত আদায় করেন, এর অধিক করলেন না। অতঃপর তিনি ‘আসরের সালাত আদায় করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1072</td></tr><tr><td>Arabic No</td><td>1072</td></tr><tr><td>Reference</td><td>Book 2 Hadith 683</td></tr></tbody></table></div>
 

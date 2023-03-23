@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহ্‌ইয়া ইব্‌নু মুঈন (রহঃ) ..... আয়েশা (রাঃ) হতে বর্ণিত। তিন খায়বার বিজয়ের ঘটনা বর্ণনা প্রসংগে বলেন, নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম আব্দুল্লহ্‌ ইব্‌ন রাওয়াহা (রাঃ)-কে খায়বারের ইয়াহূদীদের নিকট প্রেরণ করতেন। তিনি গাছের খেজুরের পরিমাণ অনুমান করতেন – যখন তা উপযুক্ত অবস্থায় পৌঁছতো এবং খওয়ার উপযুক্ত হওয়ার পূর্বে।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি খায়বারের আলোচনা প্রসঙ্গে বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আবদুল্লাহ ইবনু রাওয়াহা (রাঃ)-কে খায়বারের ইহুদীদের কাছে প্রেরণ করলেন। তিনি গাছের খেজুরের পরিমাণ অনুমানে নির্ধারণ করতেন- যখন তা পুষ্ট হতো, তবে খাওয়ার উপযোগী হওয়ার পূর্বে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>1606</td></tr><tr><td>Reference</td><td>Book 9 Hadith 51</td></tr></tbody></table></div>
 

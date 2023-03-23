@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ..... আবূ ‘আমরাহ তাঁর পিতা সূত্রে বর্ণনা করেন। তিনি বলেনঃ একদা আমরা চার ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আসি, আর আমাদের সাথে ছিল একটি ঘোড়া। তিনি আমাদের প্রত্যেককে (মালে-গণীমতের) এক-একটি হিসসা প্রদান করেন এবং ঘোড়ার জন্য দুটি অংশ প্রদান করেন।
+। আবূ ‘আমরাহ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি (পিতা) বলেন, ‘আমরা চার ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এলাম। আমাদের সাথে একটি ঘোড়াও ছিলো। তিনি আমাদের প্রত্যেককে গানীমাত থেকে এক ভাগ করে দিলেন, আর ঘোড়ার জন্য দু’ ভাগ দিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2734</td></tr><tr><td>Arabic No</td><td>2734</td></tr><tr><td>Reference</td><td>Book 15 Hadith 258</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬০৪৪, আন্তর্জাতিক নাম্বারঃ ২৩৭২ ৬০৪৪-(.../...) আবূ ইসহাক, মা'মার (রহঃ) হতে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯৩৬, ইসলামিক সেন্টার, নেই)
+আবূ ইসহাক, মা'মার (রহঃ) হতে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯৩৬, ইসলামিক সেন্টার, নেই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>2372.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 208</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা .... উম্মে সালামা (রাঃ) হতে বর্ণিত। এক মহিলার সর্বক্ষণ রক্তস্রাব হত .... পূর্বোক্ত হাদীছের অনুরূপ। তিনি বলেন, যখন কোন মহিলার হায়েয-নিফাসকালীন পূর্ব নির্ধারিত সময় অতিবাহিত হবে- তখন সে গোসল করে নামায আদায় করবে।
+। উম্মু সালামাহ (রাঃ) সূত্রে বর্ণিত। এক মহিলার অত্যধিক রক্তস্রাব হতো। অতঃপর বর্ণনাকারী পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করে বলেন, যখন হায়িযের সময়সীমা পার হয়ে যাবে এবং সালাতের সময় উপস্থিত হবে তখন সে যেন গোসল করে নেয়। পূর্বোক্ত হাদীসের সমঅর্থবোধক।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>275</td></tr><tr><td>Arabic No</td><td>275</td></tr><tr><td>Reference</td><td>Book 1 Hadith 275</td></tr></tbody></table></div>
 

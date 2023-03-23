@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইব্‌ন সালামা আল-মুরাদী (রহঃ) .... উক্‌বা ইব্‌ন আমের (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম আমাকে প্রত্যেক নামাযের পর সূরা ফালাক ও সূরা নাস্‌ পাঠের জন্য নির্দেশ প্রদান করেন। (তিরমিযী, নাসাঈ)।
+। ‘উক্ববাহ ইবনু ‘আমির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে প্রত্যেক সালাতের পর ‘কুল আ‘ঊযু বি-রব্বিল ফালাক্ব ও কুল আ‘ঊযু বি-রব্বিন্ নাস’ সূরাহ দুটি পাঠ করতে নির্দেশ দিয়েছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1523</td></tr><tr><td>Arabic No</td><td>1523</td></tr><tr><td>Reference</td><td>Book 8 Hadith 108</td></tr></tbody></table></div>
 

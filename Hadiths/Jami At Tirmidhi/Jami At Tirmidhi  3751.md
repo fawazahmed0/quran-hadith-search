@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৫১। সা'দ (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ “হে আল্লাহ। আপনার নিকট সা'দ দু'আ করলে তা গ্রহণ করুন"। সহীহঃ মিশকাত (৬১২৫)। আবূ ঈসা বলেন, এ হাদীস ইসমাঈল-এর বরাতে কাইস (রহঃ)-এর সনদেও বর্ণিত আছে। তাতে আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ “হে আল্লাহ! আপনার নিকট সাদ দুআ করলে তা গ্রহণ করুন”। এ রিওয়ায়াতটি অনেক বেশি সহীহ।
+। সা'দ (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ “হে আল্লাহ। আপনার নিকট সা'দ দু'আ করলে তা গ্রহণ করুন"। সহীহঃ মিশকাত (৬১১৬)। আবূ ঈসা বলেন, এ হাদীস ইসমাঈল-এর বরাতে কাইস (রহঃ)-এর সনদেও বর্ণিত আছে। তাতে আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ “হে আল্লাহ! আপনার নিকট সাদ দুআ করলে তা গ্রহণ করুন”। এ রিওয়ায়াতটি অনেক বেশি সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3751</td></tr><tr><td>Arabic No</td><td>3751</td></tr><tr><td>Reference</td><td>Book 49 Hadith 148</td></tr></tbody></table></div>
 

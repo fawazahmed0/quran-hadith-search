@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইমাম বুখারী (রহ.) বলেন] অপর একটি সানাদে ইবনু ইসহাক-ইবনু আবূ নাজীহ ও আবান ইবনু সালিহ-‘আত্বা ও মুজাহিদ (রহ.)-ইবনু ‘আব্বাস (রাঃ) থেকে অতিরিক্ত বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ‘উমরাহ্তুল কাযা আদায়ের সফরে মায়মূনাহ (রাঃ)-কে বিয়ে করেছিলেন। [১৮৩৭] (আধুনিক প্রকাশনীঃ ৩৯২৬, ইসলামিক ফাউন্ডেশনঃ ৩৯৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইমাম বুখারী (রহ.) বলেন] অপর একটি সানাদে ইবনু ইসহাক-ইবনু আবূ নাজীহ ও আবান ইবনু সালিহ-‘আত্বা ও মুজাহিদ (রহ.)-ইবনু ‘আব্বাস (রাঃ) থেকে অতিরিক্ত বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ‘উমরাহ্তুল কাযা আদায়ের সফরে মায়মূনাহ (রাঃ)-কে বিয়ে করেছিলেন। [১৮৩৭] (আধুনিক প্রকাশনীঃ ৩৯২৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4259</td></tr><tr><td>Arabic No</td><td>4259</td></tr><tr><td>Reference</td><td>Book 64 Hadith 293</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Ismail] Telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஹிஜ்ரீ ஏழாம் ஆண்டு செய்த) “உம்ரத்துல் களா'வின்போது (முந்தைய ஆண்டு விடுபட்ட உம்ராவை நிறைவேற்றியபோது) மைமூனா (ரலி) அவர்களை மணந்துகொண்டார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 64
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஹிஜ்ரீ ஏழாம் ஆண்டு செய்த) “உம்ரத்துல் களா'வின்போது (முந்தைய ஆண்டு விடுபட்ட உம்ராவை நிறைவேற்றியபோது) மைமூனா (ரலி) அவர்களை மணந்துகொண்டார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4259</td></tr><tr><td>Arabic No</td><td>4259</td></tr><tr><td>Reference</td><td>Book 64 Hadith 293</td></tr></tbody></table></div>
 

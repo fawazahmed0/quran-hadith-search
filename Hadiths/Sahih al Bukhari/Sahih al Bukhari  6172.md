@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইবনু সা‘ঈদকে বললেনঃ আমি তোমার জন্য একটি কথা গোপন রেখেছি, তুমি বলতো সে কথাটা কী? সে বললঃ ‘দুখ’ তখন তিনি বললেনঃ ‘দূর হও’। (আধুনিক প্রকাশনী- ৫৭৩২, ইসলামিক ফাউন্ডেশন- ৫৬২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইবনু সা‘ঈদকে বললেনঃ আমি তোমার জন্য একটি কথা গোপন রেখেছি, তুমি বলতো সে কথাটা কী? সে বললঃ ‘দুখ’ তখন তিনি বললেনঃ ‘দূর হও’। (আধুনিক প্রকাশনী- ৫৭৩২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6172</td></tr><tr><td>Arabic No</td><td>6172</td></tr><tr><td>Reference</td><td>Book 78 Hadith 198</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Sa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (தன்னை இறைத்தூதர் என வாதிட்டுவந்த) இப்னு ஸய்யாத் (எனும் யூதச் சிறுவன்) இடம் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “உனக்காக ஒன்றை நான் (மனத்தில்) மறைத்துவைத்துள்ளேன். அது என்ன (சொல்)?” என்றார்கள். அவன், “அத்துக்” (‘அத்துகான்’ எனும் 44ஆவது அத்தியாயம்) என்றான். நபி (ஸல்) அவர்கள், “தூர விலகிப்போ” என்றார்கள்.193 அத்தியாயம் : 78
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (தன்னை இறைத்தூதர் என வாதிட்டுவந்த) இப்னு ஸய்யாத் (எனும் யூதச் சிறுவன்) இடம் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “உனக்காக ஒன்றை நான் (மனத்தில்) மறைத்துவைத்துள்ளேன். அது என்ன (சொல்)?” என்றார்கள். அவன், “அத்துக்” (‘அத்துகான்’ எனும் 44ஆவது அத்தியாயம்) என்றான். நபி (ஸல்) அவர்கள், “தூர விலகிப்போ” என்றார்கள்.193 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6172</td></tr><tr><td>Arabic No</td><td>6172</td></tr><tr><td>Reference</td><td>Book 78 Hadith 198</td></tr></tbody></table></div>
 

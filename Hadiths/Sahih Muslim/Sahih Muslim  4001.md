@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৮৯৩, আন্তর্জাতিক নাম্বারঃ ১৫৬৩ ৩৮৯৩-(.../...) আবূ তাহির (রহঃ) ..... আইয়্যুব (রহঃ) হতে উক্ত সূত্রে অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৮৫৭, ইসলামিক সেন্টার ৩৮৫৫)
+আবূ তাহির (রহঃ) ..... আইয়্যুব (রহঃ) হতে উক্ত সূত্রে অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৮৫৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4001</td></tr><tr><td>Arabic No</td><td>1563.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 40</td></tr></tbody></table></div>
 

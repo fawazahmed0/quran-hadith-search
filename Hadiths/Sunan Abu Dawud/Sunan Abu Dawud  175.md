@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হায়ওয়াত ইবনু শুরায়হ্ ..... খালিদ থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর এক সাহাবীর সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যাক্তিকে নামায পড়তে দেখলেন-যার পায়ের পাতার উপরের অংশে এক দিরহাম পরিমাণ স্থান ঝকঝকে শুকনা ছিল, যাতে উযূর সময় পানি পৌঁছেনি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে পুনরায় উযূ (ওজু/অজু/অযু) করে নামায পড়ার নির্দেশ দেন।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জনৈক সাহাবী সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দেখলেন, এক ব্যক্তি সালাত আদায় করছে, অথচ তার পায়ের উপরিভাগে এক দিরহাম পরিমাণ স্থান শুকনো, (অযুর সময়) তাতে পানি পৌঁছেনি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে পুনরায় অযু করে সালাত আদায়ের নির্দেশ দিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>175</td></tr><tr><td>Arabic No</td><td>175</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
 

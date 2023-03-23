@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯১৩। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যার হৃদয়ে কুরআনের কিছুই নেই সে বর্জিত ঘরের মত। যঈফ, মিশকাত (২১৩৫) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যার হৃদয়ে কুরআনের কিছুই নেই সে বর্জিত ঘরের মত। যঈফ, মিশকাত (২১৩৫) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2913</td></tr><tr><td>Arabic No</td><td>2913</td></tr><tr><td>Reference</td><td>Book 45 Hadith 39</td></tr></tbody></table></div>
 

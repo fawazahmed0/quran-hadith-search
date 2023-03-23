@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি لَقَدْ رَاٰى مِنْ اٰيٰتِ رَبِّهِ الْكُبْرٰى আয়াতের ব্যাখ্যায় বলেন, রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সবুজ একটি ‘রফরফ’ দেখেছিলেন যা পুরো আকাশ জুড়ে রেখেছিল। [৩২৩৩] (আধুনিক প্রকাশনীঃ ৪৪৯১, ইসলামিক ফাউন্ডেশনঃ ৪৪৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি لَقَدْ رَاٰى مِنْ اٰيٰتِ رَبِّهِ الْكُبْرٰى আয়াতের ব্যাখ্যায় বলেন, রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সবুজ একটি ‘রফরফ’ দেখেছিলেন যা পুরো আকাশ জুড়ে রেখেছিল। [৩২৩৩] (আধুনিক প্রকাশনীঃ ৪৪৯১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4858</td></tr><tr><td>Arabic No</td><td>4858</td></tr><tr><td>Reference</td><td>Book 65 Hadith 379</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah] Telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்கமா பின் கைஸ் அந்நகஈ (ரஹ்) அவர்கள் கூறியதாவது: ‘‘ ‘உறுதியாக அவர் தம் இறைவனின் சான்றுகளில் மிகப் பெரியதைக் கண்டார்’ எனும் (53:18ஆவது) வசனத்தின் கருத்தாவது: அடிவானத்தை அடைத்துக்கொண்டுவிட்டிருந்த பச்சை விரிப்பு ஒன்றை நபி (ஸல்) அவர்கள் கண்டார்கள்” என அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறினார்கள்.6 அத்தியாயம் : 65
+அல்கமா பின் கைஸ் அந்நகஈ (ரஹ்) அவர்கள் கூறியதாவது: ‘‘ ‘உறுதியாக அவர் தம் இறைவனின் சான்றுகளில் மிகப் பெரியதைக் கண்டார்’ எனும் (53:18ஆவது) வசனத்தின் கருத்தாவது: அடிவானத்தை அடைத்துக்கொண்டுவிட்டிருந்த பச்சை விரிப்பு ஒன்றை நபி (ஸல்) அவர்கள் கண்டார்கள்” என அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறினார்கள்.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4858</td></tr><tr><td>Arabic No</td><td>4858</td></tr><tr><td>Reference</td><td>Book 65 Hadith 379</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারিস ইবনু মিসকীন (রহ.)… মায়মূনাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সা.) তার স্ত্রীদের কারও সঙ্গে হায়য অবস্থায় শরীরের সঙ্গে শরীর লাগাতেন, যখন তিনি (ঋতুমতী স্ত্রী) কাপড় পরিহিত থাকতেন যা তাঁর উরু ও হাঁটুদ্বয়ের অর্ধেক পর্যন্ত পৌঁছত। সহীহ: আবূ দাউদ ২৬৭, দারিমী ১০৫৭। [দ্রঃ ২৮৭]
+। হারিস ইবনু মিসকিন (রহঃ) ... মায়মূনা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সহধর্মিণীদের কারো সাথে হায়য অবস্থায় শরীরের সাথে শরীর লাগাতেন, যখন তিনি (ঋতুমতী সহধর্মিণী) ইযার পরিহিত থাকতেন যা তার উরু ও হাটুদ্বয়ের অর্ধেক পর্যন্ত পৌঁছত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>376</td></tr><tr><td>Arabic No</td><td>376</td></tr><tr><td>Reference</td><td>Book 3 Hadith 28</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Al Harits bin Miskin] telah dibacakan kepadanya d
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Meymune (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), hayız gören hanımlarıyla uylukları ve dizlerinin yarısına kadar örten bir elbise olduğu halde onlarla bir yatakta yatar ve beraber olurdu. (Buhârî, Hayz: 6; Müslim, Hayz: 3)
+Meymune (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), hayız gören hanımlarıyla uylukları ve dizlerinin yarısına kadar örten bir elbise olduğu halde onlarla bir yatakta yatar ve beraber olurdu. (Buhârî, Hayz: 6; Müslim, Hayz:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>376</td></tr><tr><td>Arabic No</td><td>376</td></tr><tr><td>Reference</td><td>Book 3 Hadith 28</td></tr></tbody></table></div>
 

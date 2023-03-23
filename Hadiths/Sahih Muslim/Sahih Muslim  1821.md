@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৭০৬, আন্তর্জাতিক নাম্বারঃ ৭৭৭ ১৭০৬-(২০৯/...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা বাড়ীতেও সালাত আদায় কর। বাড়ীগুলোকে কবর সৃদশ করে রেখে না। (ইসলামী ফাউন্ডেশন ১৬৯১, ইসলামীক সেন্টার ১৬৯৮)
+মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা বাড়ীতেও সালাত আদায় কর। বাড়ীগুলোকে কবর সৃদশ করে রেখে না। (ইসলামী ফাউন্ডেশন ১৬৯১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1821</td></tr><tr><td>Arabic No</td><td>777.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 249</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan Telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களுடைய இல்லங்களிலும் (கூடுதலான தொழுகைகளை) தொழுங்கள். இல்லங்களை சவக்குழிகளாக ஆக்கிவிடாதீர்கள்.-இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 6
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களுடைய இல்லங்களிலும் (கூடுதலான தொழுகைகளை) தொழுங்கள். இல்லங்களை சவக்குழிகளாக ஆக்கிவிடாதீர்கள்.-இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1821</td></tr><tr><td>Arabic No</td><td>777.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 249</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Abdullah bin Abu Bakar] dari ['Abba
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Zeyd el-Mazini'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Evimle minberimin arası, cennet bahçelerinden bir bahçedir,» Diğer tahric: Buharî, Salat fî Mescidi Mekke ve'1-Medîne, 20/5; Müslim, Hacc, 15/501
+Abdullah b. Zeyd el-Mazini'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Evimle minberimin arası, cennet bahçelerinden bir bahçedir,» Diğer tahric: Buharî, Salat fî Mescidi Mekke ve'1-Medîne, 20/5; Müslim, Hacc
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>465</td></tr><tr><td>Arabic No</td><td>465</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
 

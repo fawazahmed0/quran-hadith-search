@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬০৯৫, আন্তর্জাতিক নাম্বারঃ ২৩৯৫ ৬০৯৫-(…/...) 'আমর আন নাকিদ, হাসান হুলওয়ানী ও আবদ ইবনু হুমায়দ (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে উপরোক্ত সূত্রে হুবহু রিওয়ায়াত করেন। (ইসলামিক ফাউন্ডেশন ৫৯৮৪, ইসলামিক সেন্টার ৬০২৪)
+(…/...) 'আমর আন নাকিদ, হাসান হুলওয়ানী ও আবদ ইবনু হুমায়দ (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে উপরোক্ত সূত্রে হুবহু রিওয়ায়াত করেন। (ইসলামিক ফাউন্ডেশন ৫৯৮৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6201</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯৬৭। জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মক্কায় এলেন, তখন সাতবার বাইতুল্লাহর তাওয়াফ করলেন। তখন আমি তাকে এ আয়াত পাঠ করতে শুনলাম (অনুবাদ) “তোমরা ইবরাহীমের দাঁড়াবার স্থানকে নামাযের স্থানরূপে গ্রহণ কর”— (সূরা আল-বাকারাহ ১২৫)। তারপর তিনি মাকামে ইবরাহীমের পিছনে নামায আদায় করলেন, তারপর হাজরে আসওয়াদের নিকট এসে তাতে চুমু দিলেন, তারপর বললেনঃ আল্লাহ তা'আলা প্রথমে যা উল্লেখ করেছেন আমরা তা হতে শুরু করব। অতঃপর তিনি তিলাওয়াত করলেনঃ “সাফা ও মারওয়া আল্লাহ তা'আলার নিদর্শনসমূহের অন্তর্ভুক্ত"- (সূরা আল-বাকারাহ ১৫৮)। সহীহঃ ইবনু মা-জাহ (২৯৬০), বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মক্কায় এলেন, তখন সাতবার বাইতুল্লাহর তাওয়াফ করলেন। তখন আমি তাকে এ আয়াত পাঠ করতে শুনলাম (অনুবাদ) “তোমরা ইবরাহীমের দাঁড়াবার স্থানকে নামাযের স্থানরূপে গ্রহণ কর”— (সূরা আল-বাকারাহ ১২৫)। তারপর তিনি মাকামে ইবরাহীমের পিছনে নামায আদায় করলেন, তারপর হাজরে আসওয়াদের নিকট এসে তাতে চুমু দিলেন, তারপর বললেনঃ আল্লাহ তা'আলা প্রথমে যা উল্লেখ করেছেন আমরা তা হতে শুরু করব। অতঃপর তিনি তিলাওয়াত করলেনঃ “সাফা ও মারওয়া আল্লাহ তা'আলার নিদর্শনসমূহের অন্তর্ভুক্ত"- (সূরা আল-বাকারাহ ১৫৮)। সহীহঃ ইবনু মা-জাহ (২৯৬০), বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2967</td></tr><tr><td>Arabic No</td><td>2967</td></tr><tr><td>Reference</td><td>Book 47 Hadith 19</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jabir bin 'Abdullah:"When the Messenger of Allah (ﷺ) arrived in Makkah, performing Tawaf around the House seven times, I heard him reciting: And take the Maqam of Ibrahim as a place of prayer (2:125). So he performed Salat behind the Maqam, then he came to the (Black) Stone, then he said: 'We begin with what Allah began with.' So he began at As-Safa and recited: Indeed As-Safa and Al-Marwah are among the Symbols of Allah (2:158)
+Narrated Jabir bin 'Abdullah:"When the Messenger of Allah (ﷺ) arrived in Makkah, performing Tawaf around the House seven times, I heard him reciting: And take the Maqam of Ibrahim as a place of prayer (2:125). So he performed Salat behind the Maqam, then he came to the (Black) Stone, then he said: 'We begin with what Allah began with.' So he began at As-Safa and recited: Indeed As-Safa and Al-Marwah are among the Symbols of Allah (2:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2967</td></tr><tr><td>Arabic No</td><td>2967</td></tr><tr><td>Reference</td><td>Book 47 Hadith 19</td></tr></tbody></table></div>
 

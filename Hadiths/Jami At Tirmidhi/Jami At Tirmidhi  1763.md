@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। উম্মু সালামা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, জামা-ই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট সবচাইতে প্রিয় পোশাক ছিল। সহীহ, দেখুন পূর্বের হাদীস। আবূ ঈসা বলেন, আমি মুহাম্মাদ ইবনু ইসমাঈল (বুখারী)-কে বলতে শুনেছি, আব্দুল্লাহ ইবনু বুরাইদা কর্তৃক তার মায়ের বরাতে উম্মু সালামা হতে বর্ণিত হাদীস অধিক সহীহ। এই বর্ণনা সূত্রে আবূ তুমাইলা তার মা হতে এভাবে উল্লেখ আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1763</td></tr><tr><td>Arabic No</td><td>1763</td></tr><tr><td>Reference</td><td>Book 24 Hadith 46</td></tr></tbody></table></div>
 

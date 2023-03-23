@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্ হাসান আলী ..... হাম্মাদ ইবন যায়িদ (রহঃ) হতে বর্ণিত। তিনি বলেন, একদা আমি আইয়ুবকে বলি, তোমরা কি হাসান বর্ণিত ঐ হাদীসটি সম্পর্কে কেউ জ্ঞাত আছ? তোমার ব্যাপার তোমার হাতে? তিনি বলেন, না। তবে কাতাদা ... আবূ হুরায়রা (রাঃ) হতে, তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এরূপ হাদীস বর্ণনা করেছেন।
+। হাম্মাদ ইবনু যায়িদ (রহ.) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি আইয়ূব (রহ.)-কে জিজ্ঞেস করি, আপনি কি এমন কাউকে জানেন যিনি হাসান বাসরীর মতো বলেন, তোমার ব্যাপার তোমার হাতে? তিনি বললেন, না। তবে কাতাদাহ ... আবূ হুরাইরাহ (রাযি.) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে অনুরূপ বলেছেন।[1] দুর্বলঃ যঈফ সুনান আত-তিরমিযী (২০৫/১১৯৪), যঈফ সুনান নাসায়ী (২২২/৩৪১০)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2204</td></tr><tr><td>Arabic No</td><td>2204</td></tr><tr><td>Reference</td><td>Book 13 Hadith 30</td></tr></tbody></table></div>
 

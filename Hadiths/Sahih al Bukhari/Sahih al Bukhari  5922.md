@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর মুহরিম অবস্থায় নিজ হাতে খুশবু লাগিয়ে দিয়েছি এবং মিনাতেও সেখান থেকে রওনা হবার আগে তাঁকে আমি খুশবু লাগিয়েছি। [১৫৩৯] (আধুনিক প্রকাশনী- ৫৪৯০, ইসলামিক ফাউন্ডেশন- ৫৩৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর মুহরিম অবস্থায় নিজ হাতে খুশ্বু লাগিয়ে দিয়েছি এবং মিনাতেও সেখান থেকে রওনা হবার আগে তাঁকে আমি খুশবু লাগিয়েছি। [১৫৩৯] (আধুনিক প্রকাশনী- ৫৪৯০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5922</td></tr><tr><td>Arabic No</td><td>5922</td></tr><tr><td>Reference</td><td>Book 77 Hadith 137</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ahmad bin Muhammad] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ‘இஹ்ராம்’ கட்டியபோது நான் அவர்களுக்கு என் கையால் நறுமணம் பூசிவிட்டேன். மேலும், (இஹ்ராமிலிருந்து அவர்கள் விடுபட்ட போதும்) ‘மினா’வில் வைத்து (அங்கிருந்து) அவர்கள் (தவாஃபுஸ் ஸியாரத் செய்ய) புறப்படுவதற்கு முன்பாக அவர்களுக்கு நறுமணம் பூசினேன். அத்தியாயம் : 77
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ‘இஹ்ராம்’ கட்டியபோது நான் அவர்களுக்கு என் கையால் நறுமணம் பூசிவிட்டேன். மேலும், (இஹ்ராமிலிருந்து அவர்கள் விடுபட்ட போதும்) ‘மினா’வில் வைத்து (அங்கிருந்து) அவர்கள் (தவாஃபுஸ் ஸியாரத் செய்ய) புறப்படுவதற்கு முன்பாக அவர்களுக்கு நறுமணம் பூசினேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5922</td></tr><tr><td>Arabic No</td><td>5922</td></tr><tr><td>Reference</td><td>Book 77 Hadith 137</td></tr></tbody></table></div>
 

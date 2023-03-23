@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৭৯৪, আন্তর্জাতিক নাম্বারঃ ১২০৭ ২৭৯৪-(.../...) আবদ ইবনু হুমায়দ (রহঃ) ..... আয়িশাহ্ (রাযিঃ) থেকে অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৭৭১, ইসলামীক সেন্টার ২৭৬৯)
+আবদ ইবনু হুমায়দ (রহঃ) ..... আয়িশাহ্ (রাযিঃ) থেকে অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৭৭১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2904</td></tr><tr><td>Arabic No</td><td>1207.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 113</td></tr></tbody></table></div>
 

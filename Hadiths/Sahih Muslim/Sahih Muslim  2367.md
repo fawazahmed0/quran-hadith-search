@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২৫৭, আন্তর্জাতিক নাম্বারঃ ১০২৪ ২২৫৭-(.../...) ইবনু নুমায়র (রহঃ) ..... আ'মাশ (রহঃ) এর সূত্রেও উপরের হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২২৩৬, ইসলামীক সেন্টার ২২৩৭)
+ইবনু নুমায়র (রহঃ) ..... আ'মাশ (রহঃ) এর সূত্রেও উপরের হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২২৩৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2367</td></tr><tr><td>Arabic No</td><td>1024.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 104</td></tr></tbody></table></div>
 

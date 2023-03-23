@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি স্বর্ণের আংটি ব্যবহার করতে নিষেধ করেছেন। ‘আমর (রহ.) বাশীর (রহ.)-কে এ রকমই বর্ণনা করতে শুনেছেন। [মুসলিম ৩৭/১১, হাঃ ২০৮৯] (আধুনিক প্রকাশনী- ৫৪২৭, ইসলামিক ফাউন্ডেশন- ৫৩৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি স্বর্ণের আংটি ব্যবহার করতে নিষেধ করেছেন। ‘আমর (রহ.) বাশীর (রহ.)-কে এ রকমই বর্ণনা করতে শুনেছেন। [মুসলিম ৩৭/১১, হাঃ ২০৮৯] (আধুনিক প্রকাশনী- ৫৪২৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5864</td></tr><tr><td>Arabic No</td><td>5864</td></tr><tr><td>Reference</td><td>Book 77 Hadith 81</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பொன் மோதிரத்தை அணிய வேண்டாமென்று (ஆண்களுக்குத்) தடை விதித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 77
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பொன் மோதிரத்தை அணிய வேண்டாமென்று (ஆண்களுக்குத்) தடை விதித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5864</td></tr><tr><td>Arabic No</td><td>5864</td></tr><tr><td>Reference</td><td>Book 77 Hadith 81</td></tr></tbody></table></div>
 

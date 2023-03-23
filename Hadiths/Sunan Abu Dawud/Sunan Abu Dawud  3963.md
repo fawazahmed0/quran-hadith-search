@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম ইবন মূসা (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ব্যভিচারের ফলে সৃষ্ট সন্তান তিন দিক দিয়েই নিকৃষ্ট (অর্থাৎ তার বাপ, মা ও সম্পর্ক)। আবূ হুরায়রা (রাঃ) আরো বলেনঃ যদি আমি আল্লাহর রাস্তায় কাউকে একটা চাবুকও মারতে পারি তবে তা আমার নিকট ‘জারয সন্তানকে’ আযাদ করার চাইতে উত্তম।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জারজ সন্তান তিনটি মন্দের অন্যতম। আবূ হুরাইরাহ (রাঃ) বলেন, আল্লাহর পথে চাবুক দ্বারা উপকৃত হওয়া আমার নিকট জারজ সন্তান আযাদ করার চেয়ে বেশী প্রিয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3963</td></tr><tr><td>Arabic No</td><td>3963</td></tr><tr><td>Reference</td><td>Book 31 Hadith 38</td></tr></tbody></table></div>
 

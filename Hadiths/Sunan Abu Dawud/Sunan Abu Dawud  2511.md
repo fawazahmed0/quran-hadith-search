@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবনুল জাররাহ্ .... মারওয়ান ইবনুল হাকামের পুত্র আবদুল আযীয (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আবূ হুরায়রা (রাঃ)-কে বলতে শুনেছি যে, তিনি রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছেন, পুরুষের মধ্যে দূষনীয় স্বভাব হল কৃপণতা, যা তাকে হকদারের হক দান হতে বিরত রাখে, আর ভীরুতা ও হীন মানসিকতা যা যুদ্ধক্ষেত্রে অন্তরে ভীতি সঞ্চার করে।
+। আবূ হুরাইরাহ (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তির চরিত্রে কৃপণতা, ভীরুতা ও হীনমানসিকতা রয়েছে সে খুবই নিকৃষ্ট।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2511</td></tr><tr><td>Arabic No</td><td>2511</td></tr><tr><td>Reference</td><td>Book 15 Hadith 35</td></tr></tbody></table></div>
 

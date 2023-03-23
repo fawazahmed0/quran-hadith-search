@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সামুরাহ ইবনু জুনদুব (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাত শেষ করতেন, তখন আমাদের দিকে মুখ ফিরাতেন। (১১৪৩, ১৩৮৬, ২০৮৫, ২৭৯১, ৩২৩৬, ৩৩৫৪, ৩৩৫৪, ৩৬৭৪, ৬০৯৬, ৭০৪৭) (আধুনিক প্রকাশনীঃ৭৯৭, ইসলামিক ফাউন্ডেশনঃ ৮০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সামুরাহ ইবনু জুনদুব (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাত শেষ করতেন, তখন আমাদের দিকে মুখ ফিরাতেন। (১১৪৩, ১৩৮৬, ২০৮৫, ২৭৯১, ৩২৩৬, ৩৩৫৪, ৩৩৫৪, ৩৬৭৪, ৬০৯৬, ৭০৪৭) (আধুনিক প্রকাশনীঃ৭৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>845</td></tr><tr><td>Arabic No</td><td>845</td></tr><tr><td>Reference</td><td>Book 10 Hadith 237</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சமுரா பின் ஜுன்தப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு தொழுகையைத் தொழுவித்து முடித்ததும் எங்களை நோக்கித் தமது முகத்தை நேராகத் திருப்பி (அமர்ந்து)விடுவார்கள். அத்தியாயம் : 10
+சமுரா பின் ஜுன்தப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு தொழுகையைத் தொழுவித்து முடித்ததும் எங்களை நோக்கித் தமது முகத்தை நேராகத் திருப்பி (அமர்ந்து)விடுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>845</td></tr><tr><td>Arabic No</td><td>845</td></tr><tr><td>Reference</td><td>Book 10 Hadith 237</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Semure İbn Cündeb (Radiyallahu Anh) şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem namaz'ı kıldığı zaman yüzünü bize döndürürdü. Tekrar: 1142, 1386, 2085, 2791, 3236, 3354, 4674, 6096 vs 7947
+Semure İbn Cündeb (Radiyallahu Anh) şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem namaz'ı kıldığı zaman yüzünü bize döndürürdü. Tekrar: 1142, 1386, 2085, 2791, 3236, 3354, 4674, 6096 vs
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>845</td></tr><tr><td>Arabic No</td><td>845</td></tr><tr><td>Reference</td><td>Book 10 Hadith 237</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৯৪৯, আন্তর্জাতিক নাম্বারঃ ২৭৯১ ৬৯৪৯-(২৯/২৭৯১) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... আয়িশাহ্ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে আল্লাহর বাণীঃ (অর্থ) "যেদিন এ পৃথিবী পরিবর্তিত হয়ে অন্য পৃথিবী হয়ে যাবে এবং আকাশমণ্ডলীও"- (সূরা ইবরা-হীম ১৪ঃ ৪৮) সম্পর্কে প্রশ্ন করলাম, হে আল্লাহর রসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম! তবে সেদিন লোকেরা কোথায় থাকবে? তিনি বললেন, (জাহান্নামের উপরে নির্মিত) সেতুর উপরে অবস্থান করবে। (ইসলামিক ফাউন্ডেশন ৬৭৯৯, ইসলামিক সেন্টার ৬৮৫৩)
+আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... আয়িশাহ্ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে আল্লাহর বাণীঃ (অর্থ) "যেদিন এ পৃথিবী পরিবর্তিত হয়ে অন্য পৃথিবী হয়ে যাবে এবং আকাশমণ্ডলীও"- (সূরা ইবরা-হীম ১৪ঃ ৪৮) সম্পর্কে প্রশ্ন করলাম, হে আল্লাহর রসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম! তবে সেদিন লোকেরা কোথায় থাকবে? তিনি বললেন, (জাহান্নামের উপরে নির্মিত) সেতুর উপরে অবস্থান করবে। (ইসলামিক ফাউন্ডেশন ৬৭৯৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7056</td></tr><tr><td>Arabic No</td><td>2791</td></tr><tr><td>Reference</td><td>Book 52 Hadith 12</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், "அந்நாளில் பூமி, வேறு பூமியாகவும் வானங்களும் (வேறு வானங்களாகவும்) மாற்றப்படும்" (14:48) எனும் இறைவசனத்தை ஓதிக்காட்டி, "அல்லாஹ்வின் தூதரே! அன்றைய நாளில் மக்கள் அனைவரும் எங்கே இருப்பார்கள்?" என்று கேட்டேன். அதற்கு அவர்கள், "அஸ்ஸிராத் (எனும் நரகப் பாலத்தின்) மீது" என்று பதிலளித்தார்கள். அத்தியாயம் : 50
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், "அந்நாளில் பூமி, வேறு பூமியாகவும் வானங்களும் (வேறு வானங்களாகவும்) மாற்றப்படும்" (14:48) எனும் இறைவசனத்தை ஓதிக்காட்டி, "அல்லாஹ்வின் தூதரே! அன்றைய நாளில் மக்கள் அனைவரும் எங்கே இருப்பார்கள்?" என்று கேட்டேன். அதற்கு அவர்கள், "அஸ்ஸிராத் (எனும் நரகப் பாலத்தின்) மீது" என்று பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7056</td></tr><tr><td>Arabic No</td><td>2791</td></tr><tr><td>Reference</td><td>Book 52 Hadith 12</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Ali b. Müshir, Dâvud'dan, o da Şa'bî'den, o da Mesrûk'dan, o da Âişe'den naklen rivayet etti. (Şöyle demiş): Resulullah (Sallallahu Aleyhi ve Sellem)'e Allah (Azze ve Celle)'nin: «O gün yer, yerden başka bir kılığa değişecek, göklerde öyle olacak...» [İbrahim 48] âyet-i kerîmesini sordum, İnsanlar o gün nerede olacak yâ Resûlallah? dedim. «Sırat üzerinde!» buyurdular. Diğer tahric: Buhari Kitabu'r-Rikak; İbn Mace, zühd (4279)
+Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Ali b. Müshir, Dâvud'dan, o da Şa'bî'den, o da Mesrûk'dan, o da Âişe'den naklen rivayet etti. (Şöyle demiş): Resulullah (Sallallahu Aleyhi ve Sellem)'e Allah (Azze ve Celle)'nin: «O gün yer, yerden başka bir kılığa değişecek, göklerde öyle olacak...» [İbrahim 48] âyet-i kerîmesini sordum, İnsanlar o gün nerede olacak yâ Resûlallah? dedim. «Sırat üzerinde!» buyurdular. Diğer tahric: Buhari Kitabu'r-Rikak; İbn Mace, zühd
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7056</td></tr><tr><td>Arabic No</td><td>2791</td></tr><tr><td>Reference</td><td>Book 52 Hadith 12</td></tr></tbody></table></div>
 

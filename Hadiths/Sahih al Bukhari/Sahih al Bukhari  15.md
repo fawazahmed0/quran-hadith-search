@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কেউ প্রকৃত মু’মিন হতে পারবে না, যতক্ষণ না আমি তার নিকট তার পিতা, তার সন্তান ও সব মানুষের অপেক্ষা অধিক প্রিয়পাত্র হই। (মুসলিম ১/১৬ হাঃ ৪৪, আহমাদ ১২৮১৪) (আধুনিক প্রকাশনীঃ ১৪, ইসলামিক ফাউন্ডেশনঃ ১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কেউ প্রকৃত মু’মিন হতে পারবে না, যতক্ষণ না আমি তার নিকট তার পিতা, তার সন্তান ও সব মানুষের অপেক্ষা অধিক প্রিয়পাত্র হই। (মুসলিম ১/১৬ হাঃ ৪৪, আহমাদ ১২৮১৪) (আধুনিক প্রকাশনীঃ ১৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>15</td></tr><tr><td>Arabic No</td><td>15</td></tr><tr><td>Reference</td><td>Book 2 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ya'qub bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவருக்கு, அவருடைய தந்தை, அவருடைய பிள்ளை, ஏனைய மக்கள் அனைவரையும்விட நான் நேசத் திற்குரியவனாக ஆகாத வரை அவர் (உண்மையான) இறைநம்பிக்கை கொண் டவர் ஆகமாட்டார்.16 இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 2
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவருக்கு, அவருடைய தந்தை, அவருடைய பிள்ளை, ஏனைய மக்கள் அனைவரையும்விட நான் நேசத் திற்குரியவனாக ஆகாத வரை அவர் (உண்மையான) இறைநம்பிக்கை கொண் டவர் ஆகமாட்டார்.16 இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>15</td></tr><tr><td>Arabic No</td><td>15</td></tr><tr><td>Reference</td><td>Book 2 Hadith 8</td></tr></tbody></table></div>
 

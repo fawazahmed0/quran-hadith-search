@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আম্মার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এমন অবস্থায় দেখেছি যে তাঁর সঙ্গে মাত্র পাঁচজন গোলাম, দু’জন মহিলা এবং আবূ বাকর (রাঃ) ছাড়া অন্য কেউ ছিল না। (৩৮৫৭) আধুনিক প্রকাশনীঃ ৩৩৮৮, ইসলামিক ফাউন্ডেশনঃ ৩৩৯৫
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আম্মার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এমন অবস্থায় দেখেছি যে তাঁর সঙ্গে মাত্র পাঁচজন গোলাম, দু’জন মহিলা এবং আবূ বাকর (রাঃ) ছাড়া অন্য কেউ ছিল না। (৩৮৫৭) আধুনিক প্রকাশনীঃ ৩৩৮৮, ইসলামিক ফাউন্ডেশনঃ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 62 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Ahmad bin Abu ath-Thayyib] telah bercerita kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹம்மாம் பின் அல்ஹாரிஸ் (ரஹ்) அவர்கள் கூறியதாவது: “(இஸ்லாத்தின் ஆரம்பக் காலத்தில்) அல்லாஹ்வின் தூதர் (ஸல்) அவர்களு டன் ஐந்து அடிமைகளும் இரண்டு பெண்களும் (அடிமையல்லாத ஆண் களில்) அபூபக்ர் (ரலி) அவர்களும் மட்டுமே இருக்கக் கண்டேன்” என அம்மார் பின் யாசிர் (ரலி) அவர்கள் சொல்ல நான் கேட்டேன்.20 அத்தியாயம் : 62
+ஹம்மாம் பின் அல்ஹாரிஸ் (ரஹ்) அவர்கள் கூறியதாவது: “(இஸ்லாத்தின் ஆரம்பக் காலத்தில்) அல்லாஹ்வின் தூதர் (ஸல்) அவர்களு டன் ஐந்து அடிமைகளும் இரண்டு பெண்களும் (அடிமையல்லாத ஆண் களில்) அபூபக்ர் (ரலி) அவர்களும் மட்டுமே இருக்கக் கண்டேன்” என அம்மார் பின் யாசிர் (ரலி) அவர்கள் சொல்ல நான் கேட்டேன்.20 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 62 Hadith 12</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন উবায়দ (রহঃ) .... আবু কিলাবা (রহঃ) থেকে বর্ণিত, তিনি বলেনঃ আমার কাছে সে ব্যক্তি বর্ণনা করেছে, যাকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ পড়ানঃ فَيَوْمَئِذٍ لاَ يُعَذَّبُ (অর্থাৎ তিনিيُعَذَّبُ এর যাল অক্ষর যবর দিয়ে পড়তেন।)
+। আবূ কিলাবাহ (রাঃ) সূত্রে বর্ণিত। আমার কাছে ঐ ব্যক্তি বর্ণনা করেছেন, যাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পড়িয়েছেনঃ فَيَوْمَئِذٍ لَا يُعَذَّبُ। অর্থাৎ তিনি يُعَذَّبُ এর যাল অক্ষরে যবর দিয়ে পড়তেন।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3997</td></tr><tr><td>Arabic No</td><td>3997</td></tr><tr><td>Reference</td><td>Book 32 Hadith 29</td></tr></tbody></table></div>
 

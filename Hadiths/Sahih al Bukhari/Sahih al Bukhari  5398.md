@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ জুহাইফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি হেলান দিয়ে খাদ্য গ্রহণ করি না। [1] [৫৩৯৯] (আধুনিক প্রকাশনী- ৪৯৯৭, ইসলামিক ফাউন্ডেশন- ৪৮৯৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ জুহাইফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি হেলান দিয়ে খাদ্য গ্রহণ করি না। [1] [৫৩৯৯] (আধুনিক প্রকাশনী- ৪৯৯৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5398</td></tr><tr><td>Arabic No</td><td>5398</td></tr><tr><td>Reference</td><td>Book 70 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Mis'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் சாய்ந்தபடி சாப்பிடமாட்டேன். இதை அபூஜுஹைஃபா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 70
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் சாய்ந்தபடி சாப்பிடமாட்டேன். இதை அபூஜுஹைஃபா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5398</td></tr><tr><td>Arabic No</td><td>5398</td></tr><tr><td>Reference</td><td>Book 70 Hadith 26</td></tr></tbody></table></div>
 

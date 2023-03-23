@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০৮৫, আন্তর্জাতিক নাম্বারঃ ১০৮৬ ১০৮৫. মুহাম্মাদ ইবনুল মুসান্না (রহ.) ..... মালিক ইবনু হুওয়াইরিস (রাঃ) হতে বর্ণিত। তিনি নবী (সা.)-কে সালাতে উভয় হাত উঠাতে দেখেছেন। যখন তিনি রুকূ করতেন, যখন রুকূ হতে তার মাথা তুলতেন আর যখন সিজদা করতেন এবং সিজদা হতে মাথা উঠাতেন তার দু'হাত তার উভয় কানের লতি বরাবর হত। সহীহ: মুসলিম ৩৯১, আবু দাউদ ৭৪৫, ইবনু মাজাহ ৮৫৯, ইরওয়াউল গালীল ২/৬৭।
+। মুহাম্মদ ইবনু মুসান্না (রহঃ) ... মালিক ইবনু হুয়াইরিছ (রাঃ) থেকে বর্ণিত যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে সালাতে উভয় হাত উঠাতে দেখেছেন। যখন তিনি রুকু করতেন, যখন রুকু থেকে তার মাথা তুলতেন আর যখন সিজদা করতেন এবং সিজদা থেকে মাথা উঠাতেন। তাঁর হাতদ্বয় তাঁর উভয় কানের লতি বরাবর হতো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 12 Hadith 57</td></tr></tbody></table></div>
 

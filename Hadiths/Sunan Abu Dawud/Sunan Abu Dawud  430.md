@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হায়ওয়াত ইবনু শুরায়হ্ আল-মিসরী ..... আবূ কাতাদা ইবনু রিবঈ (রাঃ) বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহান আল্লাহ্ বলেন, নিশ্চিত আমি আপনার উম্মাতের উপর পাচঁ ওয়াক্ত নামায ফরয করেছি এবং আমি নিজের পক্ষ থেকে প্রতিশ্রুতি দিচ্ছিঃ যে ব্যক্তি তা সঠিক ওয়াক্তসমূহে আদায় করবে; আমি তাকে জান্নাতে প্রবেশ করাব। আর যে ব্যক্তি তার হেফাজত করে না; তার জন্য আমার পক্ষ থেকে কোন প্রতিশ্রুতি নেই। (ইবনু মাজাহ)।
+। আবূ ক্বাতাদাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহান আল্লাহ বলেন, আমি তোমার উম্মাতের উপর পাঁচ ওয়াক্ত সালাত ফরয করেছি। আর আমি আমার পক্ষ হতে এ মর্মে প্রতিশ্রুতি দিচ্ছি যে, যে ব্যক্তি নির্ধারিত সময়ে এসব সালাতের হিফাযাত করবে তাকে আমি জান্নাতে প্রবেশ করাবো। আর যে ব্যক্তি এর হিফাযাত করবে না তার জন্য আমার পক্ষ হতে কোন প্রতিশ্রুতি নেই।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>430</td></tr><tr><td>Arabic No</td><td>430</td></tr><tr><td>Reference</td><td>Book 2 Hadith 40</td></tr></tbody></table></div>
 

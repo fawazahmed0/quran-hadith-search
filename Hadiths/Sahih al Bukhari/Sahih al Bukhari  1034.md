@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, যখন প্রবল গতিতে বায়ু প্রবাহিত হত তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর চেহারায় তার প্রতিক্রিয়া দেখা দিত। (ভয়ের চিহ্ন দেখা দিত)। (আধুনিক প্রকাশনীঃ ৯৭১, ইসলামিক ফাউন্ডেশনঃ ৯৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, যখন প্রবল গতিতে বায়ু প্রবাহিত হত তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর চেহারায় তার প্রতিক্রিয়া দেখা দিত। (ভয়ের চিহ্ন দেখা দিত)। (আধুনিক প্রকাশনীঃ ৯৭১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1034</td></tr><tr><td>Arabic No</td><td>1034</td></tr><tr><td>Reference</td><td>Book 15 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah mengabarkan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: கடுமையான காற்று வீசும்போது, அ(தன் பாதிப்பான)து நபி (ஸல்) அவர் களது முகத்தில் காணப்படும்.11 அத்தியாயம் : 15
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: கடுமையான காற்று வீசும்போது, அ(தன் பாதிப்பான)து நபி (ஸல்) அவர் களது முகத்தில் காணப்படும்.11 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1034</td></tr><tr><td>Arabic No</td><td>1034</td></tr><tr><td>Reference</td><td>Book 15 Hadith 29</td></tr></tbody></table></div>
 

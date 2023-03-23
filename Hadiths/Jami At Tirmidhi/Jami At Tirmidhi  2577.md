@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫৭৭। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জাহান্নামে কাফির ব্যক্তির গায়ের চামড়া হবে বিয়াল্লিশ গজ মোটা, তার মাড়ির দাত হবে উহুদের সমান বড় এবং মক্কা-মদীনার দূরত্বের সমান বিস্তৃত হবে তার বসার জায়গা (নিতম্বদেশ)। সহীহঃ মিশকাত (৫৬৭৫), সহীহাহ (১১০৫), আযযিলা-ল (৬১০) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ এবং আমাশের বর্ণনা হিসেবে গারীব।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জাহান্নামে কাফির ব্যক্তির গায়ের চামড়া হবে বিয়াল্লিশ গজ মোটা, তার মাড়ির দাত হবে উহুদের সমান বড় এবং মাক্কা-মদীনার দূরত্বের সমান বিস্তৃত হবে তার বসার জায়গা (নিতম্বদেশ)। সহীহঃ মিশকাত (৫৬৭৫), সহীহাহ (১১০৫), আযযিলা-ল (৬১০) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ এবং আমাশের বর্ণনা হিসেবে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2577</td></tr><tr><td>Arabic No</td><td>2577</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
 

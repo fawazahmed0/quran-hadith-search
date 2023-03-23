@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ রাফে .... আয়িশা (রাঃ) হতে বর্ণিত। তাকে স্ত্রী-পুরুষের স্থলিত হওয়ার পর তা ধৌত করা সম্পর্কে জিজ্ঞাসা করা হল। তিনি বলেন, রাসুলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এক কোষ পানি স্থলিত বীর্যের উপর ঢালতেন। অতঃপর আরো এক কোশ পানি এর উপর ঢেলে পরিষ্কার করতেন।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। স্বামী-স্ত্রীর মাঝে প্রবাহিত বীর্য সম্পর্কে তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক অঞ্জলি পানি নিয়ে তা বীর্য লাগার স্থানে ঢেলে দিতেন। অতঃপর আরেক অঞ্জলি পানি নিয়ে তা উক্ত স্থানে ঢেলে দিতেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>257</td></tr><tr><td>Arabic No</td><td>257</td></tr><tr><td>Reference</td><td>Book 1 Hadith 257</td></tr></tbody></table></div>
 

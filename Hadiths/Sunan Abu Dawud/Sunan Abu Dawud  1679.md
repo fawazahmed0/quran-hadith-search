@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইব্‌ন কাছীর (রহঃ) ...... সাঈদ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একদা সা’দ ইবন উবাদা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লামের খিদমতে হাজির হয়ে জিজ্ঞাসা করেন, কি ধরনের সদ্‌কাহ আপনার নিকট প্রিয়? তিনি বলেনঃ পানি পান করানো।
+। সাঈদ (রহঃ) সূত্রে বর্ণিত। একদা সা‘দ ইবনু ‘উবাদাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললেন, আপনার কাছে কোন সাদাকা অধিক পছন্দনীয়? তিনি বললেনঃ পানি (পান করানো)।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1679</td></tr><tr><td>Arabic No</td><td>1679</td></tr><tr><td>Reference</td><td>Book 9 Hadith 124</td></tr></tbody></table></div>
 

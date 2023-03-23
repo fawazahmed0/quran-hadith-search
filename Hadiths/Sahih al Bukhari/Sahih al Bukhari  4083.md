@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-قَالَهُ عَبَّاسُ بْنُ سَهْلٍ عَنْ أَبِيْ حُمَيْدٍ عَنْ النَّبِيِّ صلى الله عليه وسلم ‘আব্বাস ইবনু সাহল (রহ.) আবূ হুমায়দ (রাঃ)-এর বাচনিক নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে এ হাদীসটি বর্ণনা করেছেন। ৪০৮৩. ক্বাতাদাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-এর নিকট থেকে শুনেছি যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, এ (উহূদ) পর্বত আমাদেরকে ভালবাসে আর আমরাও একে ভালবাসি। [৩৭১] (আধুনিক প্রকাশনীঃ ৩৭৭৭, ইসলামিক ফাউন্ডেশনঃ ৩৭৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قَالَهُ عَبَّاسُ بْنُ سَهْلٍ عَنْ أَبِيْ حُمَيْدٍ عَنْ النَّبِيِّ صلى الله عليه وسلم ‘আব্বাস ইবনু সাহল (রহ.) আবূ হুমায়দ (রাঃ)-এর বাচনিক নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে এ হাদীসটি বর্ণনা করেছেন। ৪০৮৩. ক্বাতাদাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-এর নিকট থেকে শুনেছি যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, এ (উহূদ) পর্বত আমাদেরকে ভালবাসে আর আমরাও একে ভালবাসি। [৩৭১] (আধুনিক প্রকাশনীঃ ৩৭৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4083</td></tr><tr><td>Arabic No</td><td>4083</td></tr><tr><td>Reference</td><td>Book 64 Hadith 127</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Nashr bin Ali] dia berkata, telah mengabarkan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (பின் மாலிக்-ரலி) அவர்கள் கூறியதாவது: “இந்த (உஹுத்) மலை நம்மை நேசிக்கிறது. நாமும் அதை நேசிக்கி றோம்” என்று நபி (ஸல்) அவர்கள் கூறி னார்கள்.156 அத்தியாயம் : 64
+அனஸ் (பின் மாலிக்-ரலி) அவர்கள் கூறியதாவது: “இந்த (உஹுத்) மலை நம்மை நேசிக்கிறது. நாமும் அதை நேசிக்கி றோம்” என்று நபி (ஸல்) அவர்கள் கூறி னார்கள்.156 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4083</td></tr><tr><td>Arabic No</td><td>4083</td></tr><tr><td>Reference</td><td>Book 64 Hadith 127</td></tr></tbody></table></div>
 

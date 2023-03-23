@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক আনসার ও তার স্ত্রীকে লি‘আন করান এবং তাদেরকে বিচ্ছিন্ন করে দেন। [৪৭৪৮] আধুনিক প্রকাশনী- ৪৯২৩, ইসলামিক ফাউন্ডেশন- ৪৮১৮
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক আনসার ও তার স্ত্রীকে লি‘আন করান এবং তাদেরকে বিচ্ছিন্ন করে দেন। [৪৭৪৮] আধুনিক প্রকাশনী- ৪৯২৩, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5314</td></tr><tr><td>Arabic No</td><td>5314</td></tr><tr><td>Reference</td><td>Book 68 Hadith 63</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அன்சாரிகளில் உள்ள ஒரு தம்பதியரை சாபஅழைப்புப் பிரமாணம் (லிஆன்) செய்யவைத்து அவர்கள் இருவரையும் பிரித்து வைத்தார்கள். அத்தியாயம் : 68
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அன்சாரிகளில் உள்ள ஒரு தம்பதியரை சாபஅழைப்புப் பிரமாணம் (லிஆன்) செய்யவைத்து அவர்கள் இருவரையும் பிரித்து வைத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5314</td></tr><tr><td>Arabic No</td><td>5314</td></tr><tr><td>Reference</td><td>Book 68 Hadith 63</td></tr></tbody></table></div>
 

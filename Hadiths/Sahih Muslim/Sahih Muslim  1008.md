@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+শা'বী (রহঃ) বলেন, এরা তার কাছে খাদ্যের জন্য আবেদন করে। এরা জায়ীরাতুল আরবের জ্বিন ছিল। শা'বীর এ বর্ণনা পর্যন্ত হাদীস শেষ হয়েছে। আবদুল্লাহর হাদীস থেকে এ সূত্রে বর্ণনা কিছুটা ব্যাপক। (ইসলামিক ফাউন্ডেশনঃ ৮৯০, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1008</td></tr><tr><td>Arabic No</td><td>450.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 170</td></tr></tbody></table></div>
 

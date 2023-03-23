@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেছেন যে, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে যুদ্ধে বের হতাম, তখন আমাদের সঙ্গে স্ত্রীগণ থাকত না, তখন আমরা বলতাম আমরা কি খাসি হয়ে যাব না? তিনি আমাদেরকে এ থেকে নিষেধ করলেন এবং কাপড়ের বিনিময়ে হলেও মহিলাদেরকে বিয়ে করার অর্থাৎ নিকাহে মুত‘আর অনুমতি দিলেন এবং পাঠ করলেনঃ يَا أَيُّهَا الَّذِيْنَ آمَنُوْا لَا تُحَرِّمُوْا طَيِّبَاتِ مَا أَحَلَّ اللهُ لَكُمْ।[1] [৫০৭১, ৫০৭৫; মুসলিম ১৬/২, হাঃ ১৪০৪, আহমাদ ৪১১৩] (আধুনিক প্রকাশনীঃ ৪২৫৪, ইসলামিক ফাউন্ডেশনঃ ৪২৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেছেন যে, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে যুদ্ধে বের হতাম, তখন আমাদের সঙ্গে স্ত্রীগণ থাকত না, তখন আমরা বলতাম আমরা কি খাসি হয়ে যাব না? তিনি আমাদেরকে এ থেকে নিষেধ করলেন এবং কাপড়ের বিনিময়ে হলেও মহিলাদেরকে বিয়ে করার অর্থাৎ নিকাহে মুত‘আর অনুমতি দিলেন এবং পাঠ করলেনঃ يَا أَيُّهَا الَّذِيْنَ آمَنُوْا لَا تُحَرِّمُوْا طَيِّبَاتِ مَا أَحَلَّ اللهُ لَكُمْ।[1] [৫০৭১, ৫০৭৫; মুসলিম ১৬/২, হাঃ ১৪০৪, আহমাদ ৪১১৩] (আধুনিক প্রকাশনীঃ ৪২৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4615</td></tr><tr><td>Arabic No</td><td>4615</td></tr><tr><td>Reference</td><td>Book 65 Hadith 137</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah:We used to participate in the holy wars carried on by the Pro
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Amru bin 'Aun] Telah menceritakan kepada kami [Khalid] dari [Isma'il] dari [Qais] dari ['Abdullah radliallahu 'anhu] dia berkata; Kami pernah berperang bersama Nabi shallallaahu 'alaihi wasallam namun tidak mengikut sertakan istri-istri kami, lalu kami berkata: Wahai Rasulullah, tidakkah kami dikebiri? Namun Nabi shallallaahu 'alaihi wasallam melarang kami melakukannya. tapi setelah itu beliau memberikan keringanan kepada kami untuk menikahi wanita dalam waktu tertentu. lalu beliau membacakan ayat; Hai orang-orang yang beriman, janganlah kamu haramkan apa-apa yang baik yang telah Allah halalkan bagi kamu, dan janganlah kamu melampaui batas. Sesungguhnya Allah tidak menyukai orang-orang yang melampaui batas. (Al Maidah: 87)
+Telah menceritakan kepada kami ['Amru bin 'Aun] Telah menceritakan kepada kami [Khalid] dari [Isma'il] dari [Qais] dari ['Abdullah radliallahu 'anhu] dia berkata; Kami pernah berperang bersama Nabi shallallaahu 'alaihi wasallam namun tidak mengikut sertakan istri-istri kami, lalu kami berkata: Wahai Rasulullah, tidakkah kami dikebiri? Namun Nabi shallallaahu 'alaihi wasallam melarang kami melakukannya. tapi setelah itu beliau memberikan keringanan kepada kami untuk menikahi wanita dalam waktu tertentu. lalu beliau membacakan ayat; Hai orang-orang yang beriman, janganlah kamu haramkan apa-apa yang baik yang telah Allah halalkan bagi kamu, dan janganlah kamu melampaui batas. Sesungguhnya Allah tidak menyukai orang-orang yang melampaui batas. (Al Maidah:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4615</td></tr><tr><td>Arabic No</td><td>4615</td></tr><tr><td>Reference</td><td>Book 65 Hadith 137</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin 'Aun] Telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கைஸ் பின் அபீஹாஸிம் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள், “எங்களுடன் துணைவியர் யாரும் இல்லாத நிலையில் நபி (ஸல்) அவர்களுடன் நாங்கள் (ஓர்) அறப் போரில் கலந்துகொண்டிருந்தோம். ஆகவே, நாங்கள் நபி (ஸல்) அவர்களிடம், “நாங்கள் காயடித்து (ஆண்மை நீக்கம் செய்து)கொள்ளலாமா?' என்று கேட்டோம். அதற்கு அவர்கள் அப்படிச் செய்ய வேண்டாமென்று எங்களைத் தடுத்தார்கள். அதன் பிறகு துணியை (மஹ்ராக)க் கொடுத்துப் பெண்ணை மணந்துகொள்ள எங்களுக்கு அனுமதியளித்தார்கள்” என்று கூறிவிட்டுப் பிறகு, “இறைநம்பிக்கை கொண்டவர்களே! அல்லாஹ் உங்களுக்கு அனுமதித்த நல்லவற்றை விலக்கி (ஹராமாக்கி)க்கொள்ளாதீர்கள்” எனும் (5:87ஆவது) இறைவசனத்தை ஓதிக்காட்டினார்கள்.12 அத்தியாயம் : 65
+கைஸ் பின் அபீஹாஸிம் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள், “எங்களுடன் துணைவியர் யாரும் இல்லாத நிலையில் நபி (ஸல்) அவர்களுடன் நாங்கள் (ஓர்) அறப் போரில் கலந்துகொண்டிருந்தோம். ஆகவே, நாங்கள் நபி (ஸல்) அவர்களிடம், “நாங்கள் காயடித்து (ஆண்மை நீக்கம் செய்து)கொள்ளலாமா?' என்று கேட்டோம். அதற்கு அவர்கள் அப்படிச் செய்ய வேண்டாமென்று எங்களைத் தடுத்தார்கள். அதன் பிறகு துணியை (மஹ்ராக)க் கொடுத்துப் பெண்ணை மணந்துகொள்ள எங்களுக்கு அனுமதியளித்தார்கள்” என்று கூறிவிட்டுப் பிறகு, “இறைநம்பிக்கை கொண்டவர்களே! அல்லாஹ் உங்களுக்கு அனுமதித்த நல்லவற்றை விலக்கி (ஹராமாக்கி)க்கொள்ளாதீர்கள்” எனும் (5:87ஆவது) இறைவசனத்தை ஓதிக்காட்டினார்கள்.12 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4615</td></tr><tr><td>Arabic No</td><td>4615</td></tr><tr><td>Reference</td><td>Book 65 Hadith 137</td></tr></tbody></table></div>
 

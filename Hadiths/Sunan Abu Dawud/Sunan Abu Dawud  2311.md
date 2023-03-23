@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন ইব্রাহীম .... জাবির ইবন আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, কোন একজন আনসার সাহাবীর মুসায়কা নামক দাসী নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমতে উপস্থিত হয়ে অভিযোগ পেশ করে যে, তার মনিব তাকে ব্যভিচারে লিপ্ত হওয়ার জন্য বাধ্য করেছে। তখন এ আয়াত নাযিল হয়ঃ (অর্থ) ‘‘তোমাদের দাসীদেরকে যিনায় লিপ্ত হওয়ার জন্য বাধ্য করোনা।’’
+। জাবির ইবনু আব্দুল্লাহ (রাযি.) বলেন, ‘মুসাইকাহ’ নামক এক আনসারী সাহাবীর দাসী নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, আমার মনিব আমাকে ব্যভিচারে বাধ্য করে। তখন এ আয়াত অবতীর্ণ হলোঃ ‘‘তোমরা তোমাদের দাসীদেরকে ব্যভিচার করতে বাধ্য করো না’’ (সূরা আন-নূরঃ ৩৩)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2311</td></tr><tr><td>Arabic No</td><td>2311</td></tr><tr><td>Reference</td><td>Book 13 Hadith 137</td></tr></tbody></table></div>
 

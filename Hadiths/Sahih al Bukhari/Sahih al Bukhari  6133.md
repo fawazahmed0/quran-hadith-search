@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ مُعَاوِيَةُ لاَ حَكِيمَ إِلاَّ ذُو تَجْرِبَةٍ মু‘আবিয়া (রাঃ) বলেছেনঃ অভিজ্ঞতা ব্যতীত সহনশীলতা সম্ভব নয়। ৬১৩৩. আবূ হুরাইরাহ হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রকৃত মু’মিন একই গর্ত থেকে দু’বার দংশিত হয় না। [মুসলিম৫৩/১২, হাঃ ২৯৯৮, আহমাদ ৮৯৩৭] (আধুনিক প্রকাশনী- ৫৬৯৩, ইসলামিক ফাউন্ডেশন- ৫৫৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ مُعَاوِيَةُ لاَ حَكِيمَ إِلاَّ ذُو تَجْرِبَةٍ মু‘আবিয়া (রাঃ) বলেছেনঃ অভিজ্ঞতা ব্যতীত সহনশীলতা সম্ভব নয়। ৬১৩৩. আবূ হুরাইরাহ হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রকৃত মু’মিন একই গর্ত থেকে দু’বার দংশিত হয় না। [মুসলিম৫৩/১২, হাঃ ২৯৯৮, আহমাদ ৮৯৩৭] (আধুনিক প্রকাশনী- ৫৬৯৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6133</td></tr><tr><td>Arabic No</td><td>6133</td></tr><tr><td>Reference</td><td>Book 78 Hadith 160</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Lai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இறைநம்பிக்கையாளர் ஒரே புற்றில் இரண்டு முறை தீண்டப்படமாட்டார்.150 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இறைநம்பிக்கையாளர் ஒரே புற்றில் இரண்டு முறை தீண்டப்படமாட்டார்.150 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6133</td></tr><tr><td>Arabic No</td><td>6133</td></tr><tr><td>Reference</td><td>Book 78 Hadith 160</td></tr></tbody></table></div>
 

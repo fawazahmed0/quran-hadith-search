@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০৬৯। আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট কয়েকজন লোক এসে বললঃ হে আল্লাহর রাসূল! আমরা যা হত্যা করি তা খাবো আর আল্লাহ তা'আলা যা হত্যা করেন তা খাবো না? তখন আল্লাহ তা'আলা এ আয়াত অবতীর্ণ করেন (অনুবাদ) ‘তোমরা তার নিদর্শনসমূহে বিশ্বাসী হলে যার উপর আল্লাহ তা'আলার নাম নেয়া হয়েছে তা হতে খাও... তোমরা যদি তাদের কথামত চল তবে অবশ্যই তোমরা মুশরিক হয়ে যাবে" (সূরা আল-আনআম ১১৮-১২১)। সহীহঃ সহীহ আবূ দাউদ (২০৫৮, ২০৫৯)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। এ হাদীসটি ইবনু আব্বাস (রাযিঃ) হতে অন্যভাবেও বর্ণিত হয়েছে। কেউ কেউ এটিকে আতা ইবনু সায়িব হতে, তিনি সা’ঈদ ইবনু জুবাইর হতে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এই সূত্রে মুরসালরূপে বর্ণনা করেছেন।
+। আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট কয়েকজন লোক এসে বললঃ হে আল্লাহর রাসূল! আমরা যা হত্যা করি তা খাবো আর আল্লাহ তা'আলা যা হত্যা করেন তা খাবো না? তখন আল্লাহ তা'আলা এ আয়াত অবতীর্ণ করেন (অনুবাদ) ‘তোমরা তার নিদর্শনসমূহে বিশ্বাসী হলে যার উপর আল্লাহ তা'আলার নাম নেয়া হয়েছে তা হতে খাও... তোমরা যদি তাদের কথামত চল তবে অবশ্যই তোমরা মুশরিক হয়ে যাবে" (সূরা আল-আনআম ১১৮-১২১)। সহীহঃ সহীহ আবূ দাউদ (২০৫৮, ২০৫৯)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। এ হাদীসটি ইবনু আব্বাস (রাযিঃ) হতে অন্যভাবেও বর্ণিত হয়েছে। কেউ কেউ এটিকে আতা ইবনু সায়িব হতে, তিনি সা’ঈদ ইবনু জুবাইর হতে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এই সূত্রে মুরসালরূপে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3069</td></tr><tr><td>Arabic No</td><td>3069</td></tr><tr><td>Reference</td><td>Book 47 Hadith 121</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin 'Abbas:"Some people came to the Prophet (ﷺ) and they said: 'O Messenger of Allah! Why is it that we can eat what we kill but we can not eat what Allah has killed?' So Allah revealed: So eat of that on which Allah's Name has been mentioned if you are indeed believers in His Ayat..." up to His saying: ...And if you obey them, then you would indeed be idolaters (6:121)
+Narrated 'Abdullah bin 'Abbas:"Some people came to the Prophet (ﷺ) and they said: 'O Messenger of Allah! Why is it that we can eat what we kill but we can not eat what Allah has killed?' So Allah revealed: So eat of that on which Allah's Name has been mentioned if you are indeed believers in His Ayat..." up to His saying: ...And if you obey them, then you would indeed be idolaters (6:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3069</td></tr><tr><td>Arabic No</td><td>3069</td></tr><tr><td>Reference</td><td>Book 47 Hadith 121</td></tr></tbody></table></div>
 

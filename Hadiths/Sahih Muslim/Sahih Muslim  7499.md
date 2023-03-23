@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭৩৮৯-(.../...) আবু তাহির, হারমালাহ ইবনু ইয়াহইয়া, যুহায়র ইবনু হারব ও মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭২২৮, ইসলামিক সেন্টার ৭২৮১)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7499</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

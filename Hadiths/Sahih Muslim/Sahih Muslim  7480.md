@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭৩৭০-(.../...) ইবনু আবু উমার (রহঃ) ..... সত্যবাদী, বিশ্বস্ত ব্যক্তি ওয়ালীদ ইবনু হারব থেকে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭২১০, ইসলামিক সেন্টার ৭২৬২)
+ইবনু আবু উমার (রহঃ) ..... সত্যবাদী, বিশ্বস্ত ব্যক্তি ওয়ালীদ ইবনু হারব থেকে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭২১০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7480</td></tr><tr><td>Arabic No</td><td>2987.04</td></tr><tr><td>Reference</td><td>Book 55 Hadith 63</td></tr></tbody></table></div>
 

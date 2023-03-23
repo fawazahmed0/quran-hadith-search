@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আন্-নুফায়লী ..... মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর আযাদকৃত দাসী মায়মুনা (রাঃ) হতে বর্ণিত। তিনি বলেন, ইয়া রাসূলাল্লাহ্! বায়তুল মুকাদ্দাসের মধ্যে নামায আদায় করা এবং যিয়ারতের জন্য সফর করা সম্পর্কে আপনার অভিমত কি? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা সেখানে গিয়ে নামায আদায় করতে পার। তখন উক্ত শহর ছিল শত্রুদের দখলে। এজন্য নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যদি তোমরা সেখানে গিয়ে নামায আদায়ের সুযোগ না পাও তবে বাতি জালানোর জন্য (যায়তুন) তৈল পাঠিয়ে দাও। (ইবনু মাজাহ)।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মুক্ত দাসী মায়মূনাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, হে আল্লাহর রসূল! বায়তুল মাক্বদিস (মাসজিদুল আক্বসা) সম্পর্কে আমাদের জন্য আপনার অভিমত কি? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমরা সেখানে গিয়ে সালাত আদায় করতে পার। ঐ সময় শহরটি শত্রুদের দখলে ছিল। (সেজন্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন) তোমরা সেখানে গিয়ে সালাত আদায় করতে না পারলে সেখানে বাতি জ্বালানোর জন্য তেল পাঠিয়ে দিও।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>457</td></tr><tr><td>Arabic No</td><td>457</td></tr><tr><td>Reference</td><td>Book 2 Hadith 67</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [An Nufaili] telah menceritakan kepada kami [Misk
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nebi (S.A.V.)'in azatlısı Meymune r.anha'dan, nakledildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem)’e: Beyt-i Makdis'de (namaz kılmanın hükmünü) bize beyan et, dedi. Resulullah (Sallallahu aleyhi ve Sellem): "Oraya gidiniz ve orada namaz kılınız" buyurdu. O zaman Beyt-i Makdis'te savaş vardı (Efendimiz devamla): "Eğer oraya gidemez ve orada namaz kılamazsanız, kandillerinde yakılmak üzere zeytin yağı gönderiniz" buyurdu. Diğer tahric: İbn Mace, İkame; Ahmed b. Hanbel, VI, 463
+Nebi (S.A.V.)'in azatlısı Meymune r.anha'dan, nakledildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem)’e: Beyt-i Makdis'de (namaz kılmanın hükmünü) bize beyan et, dedi. Resulullah (Sallallahu aleyhi ve Sellem): "Oraya gidiniz ve orada namaz kılınız" buyurdu. O zaman Beyt-i Makdis'te savaş vardı (Efendimiz devamla): "Eğer oraya gidemez ve orada namaz kılamazsanız, kandillerinde yakılmak üzere zeytin yağı gönderiniz" buyurdu. Diğer tahric: İbn Mace, İkame; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>457</td></tr><tr><td>Arabic No</td><td>457</td></tr><tr><td>Reference</td><td>Book 2 Hadith 67</td></tr></tbody></table></div>
 

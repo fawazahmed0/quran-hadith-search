@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৫৭৪। উমার ইবনুল খাত্তাব (রাঃ) বলেন, বলা হল, হে আল্লাহর রাসূল! অমুক লোক শহীদ হয়েছে। তিনি বললেনঃ কোন অবস্থাতেই নয়, গানীমাতের একটি আলখাল্লা (লম্বা ঢিলা জামা) আত্মসাৎ করায় আমি তাকে জাহান্নামে দেখতে পাচ্ছি। তিনি বললেনঃ হে উমার! উঠ এবং তিনবার ঘোষণা দাও- ঈমানদার লোক ব্যতীত অন্য কেউ জান্নাতে যেতে পারবে না। সহীহ, মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান সহীহ গারীব বলেছেন।
+। উমার ইবনুল খাত্তাব (রাঃ) বলেন, বলা হল, হে আল্লাহর রাসূল! অমুক লোক শহীদ হয়েছে। তিনি বললেনঃ কোন অবস্থাতেই নয়, গানীমাতের একটি আলখাল্লা (লম্বা ঢিলা জামা) আত্মসাৎ করায় আমি তাকে জাহান্নামে দেখতে পাচ্ছি। তিনি বললেনঃ হে উমার! উঠ এবং তিনবার ঘোষণা দাও- ঈমানদার লোক ব্যতীত অন্য কেউ জান্নাতে যেতে পারবে না। সহীহ, মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান সহীহ গারীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1574</td></tr><tr><td>Arabic No</td><td>1574</td></tr><tr><td>Reference</td><td>Book 21 Hadith 35</td></tr></tbody></table></div>
 

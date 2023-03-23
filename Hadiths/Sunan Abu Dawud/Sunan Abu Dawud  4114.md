@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুহায়র ইবন হারব (রহঃ) .... আমর ইবন শুআয়ব (রহঃ) তাঁর পিতা ও দাদা থেকে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কেউ তার দাসীর বিয়ে কোন গোলামের সাথে বা অন্য কোন কর্মচারীর সাথে দেবে, তখন তার জন্য ঐ দাসীর নাভীর নীচ থেকে হাঁটুর উপরের অংশ দেখা বৈধ নয়। ইমাম আবূ দাউদ (রহঃ) বলেনঃ সঠিক নাম হলো সাওয়াদ ইবন দাউদ। ওকী' এ ব্যাপারে সন্দেহে নিপতিত হয়েছে।
+। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কেউ তার ক্রীতদাসীকে কৃতদাসের সাথে অথবা মজদুরের সাথে বিয়ে দিলে, সে তার (দাসীর) নাভির নীচে থেকে হাঁটুর উপর পর্যন্ত দেখবে না।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4114</td></tr><tr><td>Arabic No</td><td>4114</td></tr><tr><td>Reference</td><td>Book 34 Hadith 95</td></tr></tbody></table></div>
 

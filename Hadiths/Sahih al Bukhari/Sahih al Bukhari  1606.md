@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন হতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে (তাওয়াফ করার সময়) এ দু’টি রুকন ইসতিলাম (চুমু) করতে দেখেছি, তখন হতে ভীড় থাকুক বা নাই থাকুক কোন অবস্থাতেই এ দু’-এর ইসতিলাম (চুমু) করা বাদ দেইনি। [রাবী ‘উবাইদুল্লাহ (রহ.) বলেন] আমি নাফি‘ (রহ.)-কে জিজ্ঞেস করলাম, ইবনু ‘উমার (রাঃ) কি ঐ ‘দু’ রুকনের মধ্যবর্তী স্থানে স্বাভাবিক গতিতে চলতেন? তিনি বললেন, সহজে ইসতিলাম করার উদ্দেশে তিনি (এতদুভয়ের মাঝে) স্বাভাবিকভাবে চলতেন। (১৬১১, মুসলিম ১৫/৪০, হাঃ ১২৬৮, আহমাদ ৪৮৮৭) (আধুনিক প্রকাশনীঃ ১৫০২, ইসলামিক ফাউন্ডেশনঃ ১৫০৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন হতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে (তাওয়াফ করার সময়) এ দু’টি রুকন ইসতিলাম (চুমু) করতে দেখেছি, তখন হতে ভীড় থাকুক বা নাই থাকুক কোন অবস্থাতেই এ দু’-এর ইসতিলাম (চুমু) করা বাদ দেইনি। [রাবী ‘উবাইদুল্লাহ (রহ.) বলেন] আমি নাফি‘ (রহ.)-কে জিজ্ঞেস করলাম, ইবনু ‘উমার (রাঃ) কি ঐ ‘দু’ রুকনের মধ্যবর্তী স্থানে স্বাভাবিক গতিতে চলতেন? তিনি বললেন, সহজে ইসতিলাম করার উদ্দেশে তিনি (এতদুভয়ের মাঝে) স্বাভাবিকভাবে চলতেন। (১৬১১, মুসলিম ১৫/৪০, হাঃ ১২৬৮, আহমাদ ৪৮৮৭) (আধুনিক প্রকাশনীঃ ১৫০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>1606</td></tr><tr><td>Reference</td><td>Book 25 Hadith 92</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நெரிசலுள்ள நேரத்திலும் நெரிசலற்ற நேரத்திலும் நபி (ஸல்) அவர்கள் ஹஜருல் அஸ்வத், ருக்னுல் யமானீ ஆகிய இரண்டு மூலைகளையும் முத்தமிட்டதைப் பார்த்ததி லிருந்து நானும் இவ்விரண்டு மூலைகளையும் முத்தமிடுவதைக் கைவிட்டதில்லை. அறிவிப்பாளர் உபைதுல்லாஹ் பின் உமர் (ரஹ்) அவர்கள் கூறினார்கள்: நான் (இந்த ஹதீஸை எனக்கு அறிவித்த) நாஃபி (ரஹ்) அவர்களிடம், “இப்னு உமர் (ரலி) அவர்கள், அவ்விரு மூலைகளுக்கிடையே (மட்டும் சாதாரண மாக) நடந்து செல்வார்களா?” என்று கேட்டேன். “முத்தமிடுவதற்கு வசதியாக இருக்க வேண்டும் என்பதற்காக நடந்து செல்வார்கள்” எனப் பதிலளித்தார்கள். அத்தியாயம் : 25
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நெரிசலுள்ள நேரத்திலும் நெரிசலற்ற நேரத்திலும் நபி (ஸல்) அவர்கள் ஹஜருல் அஸ்வத், ருக்னுல் யமானீ ஆகிய இரண்டு மூலைகளையும் முத்தமிட்டதைப் பார்த்ததி லிருந்து நானும் இவ்விரண்டு மூலைகளையும் முத்தமிடுவதைக் கைவிட்டதில்லை. அறிவிப்பாளர் உபைதுல்லாஹ் பின் உமர் (ரஹ்) அவர்கள் கூறினார்கள்: நான் (இந்த ஹதீஸை எனக்கு அறிவித்த) நாஃபி (ரஹ்) அவர்களிடம், “இப்னு உமர் (ரலி) அவர்கள், அவ்விரு மூலைகளுக்கிடையே (மட்டும் சாதாரண மாக) நடந்து செல்வார்களா?” என்று கேட்டேன். “முத்தமிடுவதற்கு வசதியாக இருக்க வேண்டும் என்பதற்காக நடந்து செல்வார்கள்” எனப் பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>1606</td></tr><tr><td>Reference</td><td>Book 25 Hadith 92</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a. şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem'i istilam ederken gördüğümden beri (Yemen tarafındaki) şu iki rüknü istilam etmeyi zorlukta ve rahatlıkta hiçbir zaman terketmedim." Ravî şöyle demiştir: "Nafi'ye İbn Ömer'in iki rükün arasında yürüyüp yürümediğini sordum. Bana, "İstilam etmek kolay olsun diye yürürdü" diye cevap verdi.'" Tekrar: 1611
+İbn Ömer r.a. şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem'i istilam ederken gördüğümden beri (Yemen tarafındaki) şu iki rüknü istilam etmeyi zorlukta ve rahatlıkta hiçbir zaman terketmedim." Ravî şöyle demiştir: "Nafi'ye İbn Ömer'in iki rükün arasında yürüyüp yürümediğini sordum. Bana, "İstilam etmek kolay olsun diye yürürdü" diye cevap verdi.'" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>1606</td></tr><tr><td>Reference</td><td>Book 25 Hadith 92</td></tr></tbody></table></div>
 

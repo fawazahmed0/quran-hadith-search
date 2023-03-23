@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫০৩। আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাকে এত এত পরিমাণ সম্পদ দিলেও আমি কারো বিকৃত করে নকল করা পছন্দ করি না। সহীহঃ মিশকাত তাহকীক ছানী (৪৮৫৭)। আবূ ঈসা বলেন, এই হাদীসটি হাসান সহীহ। আবূ হুজাইফা আল-কূফী ইবনু মাসউদ (রাঃ)-এর শিষ্যগণের অন্তর্ভুক্ত। তার নাম সালামা ইবনু সুহাইবাহ বলে পরিচিত।
+। আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাকে এত এত পরিমাণ সম্পদ দিলেও আমি কারো বিকৃত করে নকল করা পছন্দ করি না। সহীহঃ মিশকাত তাহকীক ছানী (৪৮৫৭)। আবূ ঈসা বলেন, এই হাদীসটি হাসান সহীহ। আবূ হুজাইফা আল-কূফী ইবনু মাসউদ (রাঃ)-এর শিষ্যগণের অন্তর্ভুক্ত। তার নাম সালামা ইবনু সুহাইবাহ বলে পরিচিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2503</td></tr><tr><td>Arabic No</td><td>2503</td></tr><tr><td>Reference</td><td>Book 37 Hadith 89</td></tr></tbody></table></div>
 

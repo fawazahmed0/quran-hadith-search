@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মিনহাল (রহঃ) ...... সাঈদ ইবন আবূ বুরদা (রহঃ) তাঁর পিতা হতে, তিনি তাঁর দাদা আবূ মূসা আসআরী (রাঃ) থেকে বর্ণনা করেছেন যে, দু'ব্যক্তি কোন উট বা কোন পশুর ব্যাপারে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকটে দাবী পেশ করে। কিন্তু তাদের কারো পক্ষে কোন সাক্ষী ছিলো না। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের জন্য তা থেকে অর্ধেক-অর্ধেক অংশ নির্ধারিত করে দেন।
+। আবূ মূসা আল-আশ‘আরী (রাঃ) সূত্রে বর্ণিত। দু’ ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট একটি উট বা একটি পশুর দাবি পেশ করলো। তাদের উভয়েরই কোনো প্রমাণ ছিলো না। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পশুটি উভয়কে দান করলেন।[1] দুর্বলঃ ইরওয়া (২৬৫৬)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3613</td></tr><tr><td>Arabic No</td><td>3613</td></tr><tr><td>Reference</td><td>Book 25 Hadith 43</td></tr></tbody></table></div>
 

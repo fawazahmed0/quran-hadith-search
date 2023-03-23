@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইসহাক (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছ দিয়ে একটি জানাজা যাওয়ার সময় তিনি দাঁড়িয়ে গেলে তাকে বলা হল যে, এটাতো এক ইয়াহুদীর জানাজা। তিনি বললেন, আমরাতো ফেরেশতাদের সম্মানার্থে দাঁড়িয়েছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 21 Hadith 112</td></tr></tbody></table></div>
 

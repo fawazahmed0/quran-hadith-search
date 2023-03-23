@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ কুরায়ব ও ইবনু নুমায়র (রহঃ) ..... হিশাম (রাযিঃ) এর সানাদে উপরোক্ত সূত্রে বর্ণিত দু’টোর মাঝে সহজটি পর্যন্ত উল্লেখ করেন এবং তিনি পরবর্তী অংশ উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশন ৫৮৪১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>2327.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
 

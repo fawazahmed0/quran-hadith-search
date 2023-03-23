@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২০৪১। ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তিন ব্যক্তি থেকে কলম উঠিয়ে রাখা হয়েছেঃ ঘুমন্ত ব্যক্তি যতক্ষণ না সে জাগ্রত হয়, নাবালেগ, যতক্ষণ না সে বালেগ হয় এবং পাগল, যতক্ষণ না সে জ্ঞান ফিরে পায় বা সুস্থ হয়। অধস্তন রাবী আবূ বাকর (রহ.)-এর বর্ণনায় আছেঃ বেহুঁশ ব্যক্তি যতক্ষণ না সে হুঁশ ফিরে পায়।
+। ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তিন ব্যক্তি থেকে কলম উঠিয়ে রাখা হয়েছেঃ ঘুমন্ত ব্যক্তি যতক্ষণ না সে জাগ্রত হয়, নাবালেগ, যতক্ষণ না সে বালেগ হয় এবং পাগল, যতক্ষণ না সে জ্ঞান ফিরে পায় বা সুস্থ হয়। অধস্তন রাবী আবূ বাকর (রহ.)-এর বর্ণনায় আছেঃ বেহুঁশ ব্যক্তি যতক্ষণ না সে হুঁশ ফিরে পায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2041</td></tr><tr><td>Arabic No</td><td>2041</td></tr><tr><td>Reference</td><td>Book 10 Hadith 26</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Aishah that:the Messenger of Allah said. "The Pen has been lifted from three : from the sleeping person until he awakens, from the minor until he grows up, and from the insane person until he comes to his senses."In his narration, (one of the narrators Abu Bakr (Ibn Abu Shaibah) said: "And from the afflicted person, unit he recovers" (1)
+It was narrated from Aishah that:the Messenger of Allah said. "The Pen has been lifted from three : from the sleeping person until he awakens, from the minor until he grows up, and from the insane person until he comes to his senses."In his narration, (one of the narrators Abu Bakr (Ibn Abu Shaibah) said: "And from the afflicted person, unit he recovers
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2041</td></tr><tr><td>Arabic No</td><td>2041</td></tr><tr><td>Reference</td><td>Book 10 Hadith 26</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceri
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Üç sınıf mükelleftik kalemi kaldırılmıştır: Uyanıncaya kadar uyuyandan, erginlik çağına varıncaya kadar çocuktan ve akıllanıncaya veya ayılıncaya kadar deliden.» EBU DAVUD HADİSLERİ: İZAH 4403’TE 4398 – 4399 – 4400 – 4401 – 4402 – 4403
+Aişe (r.anha)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Üç sınıf mükelleftik kalemi kaldırılmıştır: Uyanıncaya kadar uyuyandan, erginlik çağına varıncaya kadar çocuktan ve akıllanıncaya veya ayılıncaya kadar deliden.» EBU DAVUD HADİSLERİ: İZAH 4403’TE 4398 – 4399 – 4400 – 4401 – 4402 –
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2041</td></tr><tr><td>Arabic No</td><td>2041</td></tr><tr><td>Reference</td><td>Book 10 Hadith 26</td></tr></tbody></table></div>
 

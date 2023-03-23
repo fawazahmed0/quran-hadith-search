@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, একবার তিনি যবের আটা ও পুরোনা গন্ধযুক্ত চর্বি নিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উপস্থিত হলেন। রাবী বলেন, আমি তাঁকে বলতে শুনেছি যে, মদিনা্য় অবস্থান কালে তাঁর বর্ম জনৈক ইয়াহূদীর নিকট বন্ধক রেখে তিনি নিজ পরিবারের জন্য তার হতে যব খরিদ করেন। [রাবী কাতাদাহ (রহ.) বলেন] আমি তাঁকে [আনাস (রহ.)-কে] বলতে শুনেছি যে, মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পরিবারের কাছে এক সা‘ পরিমাণ গম বা এক সা‘ পরিমাণ আটাও থাকত না, অথচ সে সময় তাঁর নয়জন সহধর্মিণী ছিলেন। (২৫০৮) (আধুনিক প্রকাশনীঃ ১৯২৪ , ইসলামিক ফাউন্ডেশনঃ ১৯৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, একবার তিনি যবের আটা ও পুরোনা গন্ধযুক্ত চর্বি নিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উপস্থিত হলেন। রাবী বলেন, আমি তাঁকে বলতে শুনেছি যে, মদিনা্য় অবস্থান কালে তাঁর বর্ম জনৈক ইয়াহূদীর নিকট বন্ধক রেখে তিনি নিজ পরিবারের জন্য তার হতে যব খরিদ করেন। [রাবী কাতাদাহ (রহ.) বলেন] আমি তাঁকে [আনাস (রহ.)-কে] বলতে শুনেছি যে, মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পরিবারের কাছে এক সা‘ পরিমাণ গম বা এক সা‘ পরিমাণ আটাও থাকত না, অথচ সে সময় তাঁর নয়জন সহধর্মিণী ছিলেন। (২৫০৮) (আধুনিক প্রকাশনীঃ ১৯২৪ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2069</td></tr><tr><td>Arabic No</td><td>2069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 22</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Qatada:Anas went to the Prophet (ﷺ) with barley bread having some dissolved fat on it. The Prophet (ﷺ) had mortgaged his armor to a Jew in Medina and took from him some barley for his family. Anas heard him saying, "The household of Muhammad did not possess even a single Sa of wheat or food grains for the evening meal, although he has nine wives to look after." (See Hadith No. 685)
+Narrated Qatada:Anas went to the Prophet (ﷺ) with barley bread having some dissolved fat on it. The Prophet (ﷺ) had mortgaged his armor to a Jew in Medina and took from him some barley for his family. Anas heard him saying, "The household of Muhammad did not possess even a single Sa of wheat or food grains for the evening meal, although he has nine wives to look after." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2069</td></tr><tr><td>Arabic No</td><td>2069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 22</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Hisyam] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் தீட்டப் படாத கோதுமையில் தயாரிக்கப்பட்ட ரொட்டியையும் வாசனை நீங்கிய உருக்கப் பட்ட கொழுப்பையும் கொண்டு சென்றேன். நபி (ஸல்) அவர்கள் தமது கவசத்தை மதீனாவில் உள்ள ஒரு யூதரிடம் அடைமானமாக வைத்து, அவரிடமிருந்து தம் குடும்பத்தாருக்காகத் தீட்டப்படாத கோதுமையை (கடனாக) வாங்கியிருந்தார்கள். ‘‘முஹம்மத் (ஸல்) அவர்களின் குடும்பத்தாரிடம் தீட்டிய கோதுமையில் ஒரு ‘ஸாஉ’, மற்ற தானியங்களில் ஒரு ‘ஸாஉ’கூட இருந்ததில்லை. அந்த நேரத்தில் நபியவர்களுக்கு ஒன்பது துணைவியர் இருந்தனர்” என்று நபி (ஸல்) அவர்களே கூற நான் கேட்டிருந்தேன். அத்தியாயம் : 34
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் தீட்டப் படாத கோதுமையில் தயாரிக்கப்பட்ட ரொட்டியையும் வாசனை நீங்கிய உருக்கப் பட்ட கொழுப்பையும் கொண்டு சென்றேன். நபி (ஸல்) அவர்கள் தமது கவசத்தை மதீனாவில் உள்ள ஒரு யூதரிடம் அடைமானமாக வைத்து, அவரிடமிருந்து தம் குடும்பத்தாருக்காகத் தீட்டப்படாத கோதுமையை (கடனாக) வாங்கியிருந்தார்கள். ‘‘முஹம்மத் (ஸல்) அவர்களின் குடும்பத்தாரிடம் தீட்டிய கோதுமையில் ஒரு ‘ஸாஉ’, மற்ற தானியங்களில் ஒரு ‘ஸாஉ’கூட இருந்ததில்லை. அந்த நேரத்தில் நபியவர்களுக்கு ஒன்பது துணைவியர் இருந்தனர்” என்று நபி (ஸல்) அவர்களே கூற நான் கேட்டிருந்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2069</td></tr><tr><td>Arabic No</td><td>2069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 22</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Hisyam] 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes'ten r.a. rivayet edildiğine göre o, Nebi Sallallahu Aleyhi ve Sellem'e arpa ekmeği ve uzun süre kalmaktan kokusu değişmiş bir miktar yemek götürdü. Nebi Sallallahu Aleyhi ve Sellem Medine'de bir yahudiye zırhını rehin olarak bırakmış, bunun karşılığında ondan ailesi için arpa almıştı. (Ravi): "Andolsun onun (Enes'in) şöyle dediğini işittim: Muhammed Sallallahu Aleyhi ve Sellem'in dokuz hanımı kendisi ile birlikte olduğu halde, ailesinin yanında hiçbir gece ne bir sa' buğday ne de bir sa' ekin bulunmamıştır". Tekrar: 2508
+Enes'ten r.a. rivayet edildiğine göre o, Nebi Sallallahu Aleyhi ve Sellem'e arpa ekmeği ve uzun süre kalmaktan kokusu değişmiş bir miktar yemek götürdü. Nebi Sallallahu Aleyhi ve Sellem Medine'de bir yahudiye zırhını rehin olarak bırakmış, bunun karşılığında ondan ailesi için arpa almıştı. (Ravi): "Andolsun onun (Enes'in) şöyle dediğini işittim: Muhammed Sallallahu Aleyhi ve Sellem'in dokuz hanımı kendisi ile birlikte olduğu halde, ailesinin yanında hiçbir gece ne bir sa' buğday ne de bir sa' ekin bulunmamıştır". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2069</td></tr><tr><td>Arabic No</td><td>2069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 22</td></tr></tbody></table></div>
 

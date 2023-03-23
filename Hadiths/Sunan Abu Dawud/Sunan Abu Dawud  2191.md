@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আল্ ‘আলা ...... আমর ইবন শু‘আয়ব (রহঃ) হতে পূর্বোক্ত হাদীসের সনদ ও অর্থে হাদীস বর্ণিত হয়েছে। তবে তিনি (মুহাম্মদ) ইহা অতিরিক্ত বর্ণনা করেছেন যে, যদি কেহ কোনরূপ গোনাহের কাজের জন্য শপথ করে, তবে উহা তার জন্য আদায় করা প্রয়োজনীয় নয়, আর যে ব্যক্তি আত্মীয়তা ছিন্ন করার জন্য শপথ (হলফ) করে, তার শপথও পালনীয় নয়।
+। আমর ইবনু শু‘আইব (রহ.) থেকে এ সূত্রে পূর্বোক্ত হাদীসের অনুরূপ অর্থে বর্ণিত। তাতে রয়েছেঃ যে ব্যক্তি কোনো পাপ কাজের জন্য শপথ করে তার শপথ হয়নি এবং যে ব্যক্তি আত্মীয়তার সম্পর্ক ছিন্ন করার শপথ করে তার শপথও হয়নি। (এরূপ শপথ পূরণ করতে হবে না)।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2191</td></tr><tr><td>Arabic No</td><td>2191</td></tr><tr><td>Reference</td><td>Book 13 Hadith 17</td></tr></tbody></table></div>
 

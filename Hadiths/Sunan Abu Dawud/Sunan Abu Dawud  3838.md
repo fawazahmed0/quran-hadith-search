@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবী শায়বা (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গী হিসাবে জিহাদে শরীক হতাম এবং মুশরিকদের তৈজসপত্র পেতাম, যা দিয়ে আমরা পানি পান করতাম এবং অন্যান্য প্রয়োজনও মিটাতাম। আর তিনি এরূপ করাকে দোষের মনে করতেন না।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে যুদ্ধে যোগদান করতাম। আমরা মুশরিকদের পাত্র ও পানপাত্র পেয়ে তা ব্যবহার করতাম। এতে তিনি আমাদের কোনো দোষ ধরেননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3838</td></tr><tr><td>Arabic No</td><td>3838</td></tr><tr><td>Reference</td><td>Book 28 Hadith 103</td></tr></tbody></table></div>
 

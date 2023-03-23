@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। জনৈক ব্যক্তি মারা যায় এবং সে একটি আযাদকৃত গোলাম ব্যতীত আর কাউকে ওয়ারিছ হিসাবে রেখে যায়নি। তখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞাসা করেনঃ তার কি কোন ওয়ারিছ আছে? তাঁরা (সাহাবীরা) বলেনঃ না, তবে তার একটি আযাদকৃত গোলাম আছে। তখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেই ব্যক্তিকে ঐ ব্যক্তির পরিত্যক্ত সম্পদ দিয়ে দেন।
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। একটি লোক মারা যায় এবং তার একজন মুক্তদাস ছাড়া অন্য কোনো উত্তরাধিকারী ছিলো না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞেস করলেনঃ তার কেউ আছে কি? লোকেরা বললো, তার মুক্তদাসটি ছাড়া আর কেউ নেই। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার মাল তাকে দিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2905</td></tr><tr><td>Arabic No</td><td>2905</td></tr><tr><td>Reference</td><td>Book 19 Hadith 21</td></tr></tbody></table></div>
 

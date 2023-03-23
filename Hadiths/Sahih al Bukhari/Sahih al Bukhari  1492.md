@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, মায়মূনা (রাঃ) কর্তৃক আযাদকৃত জনৈক দাসীকে সদাকাহ স্বরূপ প্রদত্ত একটি বকরীকে মৃত অবস্থায় দেখতে পেয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমরা এর চামড়া দিয়ে উপকৃত হও না কেন? তারা বললেনঃ এটা তো মৃত। তিনি বললেন, এটা কেবল ভক্ষণ হারাম করা হয়েছে। (২২২১, ৫৫৩১, ৫৫৩২, মুসলিম ৩/২৭, হাঃ ৩৬৩, আহমাদ ২০০৩) (আধুনিক প্রকাশনীঃ ১৩৯৬, ইসলামিক ফাউন্ডেশনঃ ১৪০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, মায়মূনা (রাঃ) কর্তৃক আযাদকৃত জনৈক দাসীকে সদাকাহ স্বরূপ প্রদত্ত একটি বকরীকে মৃত অবস্থায় দেখতে পেয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমরা এর চামড়া দিয়ে উপকৃত হও না কেন? তারা বললেনঃ এটা তো মৃত। তিনি বললেন, এটা কেবল ভক্ষণ হারাম করা হয়েছে। (২২২১, ৫৫৩১, ৫৫৩২, মুসলিম ৩/২৭, হাঃ ৩৬৩, আহমাদ ২০০৩) (আধুনিক প্রকাশনীঃ ১৩৯৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 24 Hadith 92</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Uqair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் துணைவியார்) மைமூனா (ரலி) அவர்களுடைய ஓர் அடிமைப் பெண்ணுக்குத் தர்மமாக வழங் கப்பட்ட ஓர் ஆடு செத்துக் கிடந்ததை நபி (ஸல்) அவர்கள் கண்டார்கள். அப்போது “இதன் தோலை நீங்கள் பயன்படுத்தியிருக்கக் கூடாதா?” என்று கேட்டார்கள். “இது செத்ததாயிற்றே!” எனத் தோழர்கள் கூறியதும், “இதை உண்பது தான் தடுக்கப்பட்டுள்ளது” என நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 24
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் துணைவியார்) மைமூனா (ரலி) அவர்களுடைய ஓர் அடிமைப் பெண்ணுக்குத் தர்மமாக வழங் கப்பட்ட ஓர் ஆடு செத்துக் கிடந்ததை நபி (ஸல்) அவர்கள் கண்டார்கள். அப்போது “இதன் தோலை நீங்கள் பயன்படுத்தியிருக்கக் கூடாதா?” என்று கேட்டார்கள். “இது செத்ததாயிற்றே!” எனத் தோழர்கள் கூறியதும், “இதை உண்பது தான் தடுக்கப்பட்டுள்ளது” என நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 24 Hadith 92</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Uqair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Meymûne'nin azadlı kölesine zekat malından verilmiş bir koyunun murdar bir şekilde ölmüş olduğunu görünce onlara, "Derisinden faydalansanız ya!" buyurmuştu. Onlar hayvanın "leş" olduğunu söyleyince ise, "Onun sadece yenilmesi haram kılınmıştır" buyurmuştur. Tekrar: 2221, 5531, 5533
+İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Meymûne'nin azadlı kölesine zekat malından verilmiş bir koyunun murdar bir şekilde ölmüş olduğunu görünce onlara, "Derisinden faydalansanız ya!" buyurmuştu. Onlar hayvanın "leş" olduğunu söyleyince ise, "Onun sadece yenilmesi haram kılınmıştır" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 24 Hadith 92</td></tr></tbody></table></div>
 

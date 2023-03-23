@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নু‘মান ইবনু বাশীর (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, হালাল সুস্পষ্ট এবং হারামও সুস্পষ্ট, উভয়ের মাঝে বহু অস্পষ্ট বিষয় রয়েছে। যে ব্যক্তি গুনাহের সন্দেহযুক্ত কাজ পরিত্যাগ করে, সে ব্যক্তি যে বিষয়ে গুনাহ হওয়া সুস্পষ্ট, সে বিষয়ে অধিকতর পরিত্যাগকারী হবে। পক্ষান্তরে যে ব্যক্তি গুনাহের সন্দেহযুক্ত কাজ করতে দুঃসাহস করে, সে ব্যক্তির সুস্পষ্ট গুনাহের কাজে পতিত হবার যথেষ্ট আশঙ্কা রয়েছে। গুনাহসমূহ আল্লাহর সংরক্ষিত এলাকা, যে জানোয়ার সংরক্ষিত এলাকার চার পাশে চরতে থাকে, তার ঐ সংরক্ষিত এলাকায় প্রবেশ করার সম্ভাবনা রয়েছে। (৫২) (আধুনিক প্রকাশনীঃ ১৯০৮ , ইসলামিক ফাউন্ডেশনঃ ১৯২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নু‘মান ইবনু বাশীর (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, হালাল সুস্পষ্ট এবং হারামও সুস্পষ্ট, উভয়ের মাঝে বহু অস্পষ্ট বিষয় রয়েছে। যে ব্যক্তি গুনাহের সন্দেহযুক্ত কাজ পরিত্যাগ করে, সে ব্যক্তি যে বিষয়ে গুনাহ হওয়া সুস্পষ্ট, সে বিষয়ে অধিকতর পরিত্যাগকারী হবে। পক্ষান্তরে যে ব্যক্তি গুনাহের সন্দেহযুক্ত কাজ করতে দুঃসাহস করে, সে ব্যক্তির সুস্পষ্ট গুনাহের কাজে পতিত হবার যথেষ্ট আশঙ্কা রয়েছে। গুনাহসমূহ আল্লাহর সংরক্ষিত এলাকা, যে জানোয়ার সংরক্ষিত এলাকার চার পাশে চরতে থাকে, তার ঐ সংরক্ষিত এলাকায় প্রবেশ করার সম্ভাবনা রয়েছে। (৫২) (আধুনিক প্রকাশনীঃ ১৯০৮ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2051</td></tr><tr><td>Arabic No</td><td>2051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: அனுமதிக்கப்பட்டதும் (ஹலால்) தெளிவானது; தடை செய்யப்பட்டதும் (ஹராம்) தெளிவானது. இவை இரண்டுக்கு மிடையே சந்தேகத்திற்கிடமான சில செயல்களும் உள்ளன. யார் பாவம் எனச் சந்தேகப்படுபவற்றை கைவிடுகிறாரோ அவர் பாவம் என்று தெளிவாகத் தெரிவதை நிச்சயம் கைவிடுவார்; யார் பாவம் எனச் சந்தேகிக்கப்படுபவற்றைச் செய்யத் துணிகிறாரோ அவர் (பாவம் என்று) தெளிவாகத் தெரிகின்றவற்றிலும் சிக்கிக்கொள்ளக்கூடும். பாவங்கள் அல்லாஹ்வின் வேலிகளாகும். யார் வேலியைச் சுற்றி மேய்கிறாரோ அவர் அதற்குள்ளேயே சென்றுவிடக்கூடும்.3 இதை நுஅமான் பின் பஷீர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 34
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: அனுமதிக்கப்பட்டதும் (ஹலால்) தெளிவானது; தடை செய்யப்பட்டதும் (ஹராம்) தெளிவானது. இவை இரண்டுக்கு மிடையே சந்தேகத்திற்கிடமான சில செயல்களும் உள்ளன. யார் பாவம் எனச் சந்தேகப்படுபவற்றை கைவிடுகிறாரோ அவர் பாவம் என்று தெளிவாகத் தெரிவதை நிச்சயம் கைவிடுவார்; யார் பாவம் எனச் சந்தேகிக்கப்படுபவற்றைச் செய்யத் துணிகிறாரோ அவர் (பாவம் என்று) தெளிவாகத் தெரிகின்றவற்றிலும் சிக்கிக்கொள்ளக்கூடும். பாவங்கள் அல்லாஹ்வின் வேலிகளாகும். யார் வேலியைச் சுற்றி மேய்கிறாரோ அவர் அதற்குள்ளேயே சென்றுவிடக்கூடும்.3 இதை நுஅமான் பின் பஷீர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2051</td></tr><tr><td>Arabic No</td><td>2051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 5</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nu'man İbn Beşîr r.a., Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: "Helal bellidir, haram da bellidir. Bu ikisi arasında şüpheli olan bazı şeyler vardır. Kim günah olup olmadığı şüpheli olan bir şeyi terk ederse, günah olduğu kesin olan bir şeyi daha çok terk eder. Kim günah olup olmadığı şüpheli olan bir şeye karşı cür'et ederse, günah olduğu kesin olan bir şeye düşebilir. Günahlar Allah'ın koruluğudur. Kim koruluğun etrafında koyun otlatırsa çok geçmeden koyunlar koruluğa dalabilir." Tekrar: 2218, 2421, 2533, 2745, 4303, 6749, 6765, 6817, 7182
+Nu'man İbn Beşîr r.a., Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: "Helal bellidir, haram da bellidir. Bu ikisi arasında şüpheli olan bazı şeyler vardır. Kim günah olup olmadığı şüpheli olan bir şeyi terk ederse, günah olduğu kesin olan bir şeyi daha çok terk eder. Kim günah olup olmadığı şüpheli olan bir şeye karşı cür'et ederse, günah olduğu kesin olan bir şeye düşebilir. Günahlar Allah'ın koruluğudur. Kim koruluğun etrafında koyun otlatırsa çok geçmeden koyunlar koruluğa dalabilir." Tekrar: 2218, 2421, 2533, 2745
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2051</td></tr><tr><td>Arabic No</td><td>2051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 5</td></tr></tbody></table></div>
 

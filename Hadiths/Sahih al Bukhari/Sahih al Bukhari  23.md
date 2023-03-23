@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাযি.)-কে বলতে শুনেছেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একবার আমি নিদ্রাবস্থায় (স্বপ্নে) দেখলাম যে, লোকদেরকে আমার সামনে আনা হচ্ছে। আর তাদের পরণে রয়েছে জামা। কারো জামা বুক পর্যন্ত আর কারো জামা এর নীচ পর্যন্ত। আর ‘উমার ইবনুল খাত্তাব (রাযি.)-কে আমার সামনে আনা হল এমন অবস্থায় যে, তিনি তাঁর জামা (অধিক লম্বা হওয়ায়) টেনে ধরে নিয়ে যাচ্ছিলেন। সাহাবীগণ আরয করলেন, হে আল্লাহর রাসূল! আপনি এর কী তা’বীর করেছেন? তিনি বললেনঃ (এ জামা অর্থ) দ্বীন। (৩৬৯১, ৭০০৮, ৭০০৯; মুসলিম ৪৪/২ হাঃ ২৩৯০, আহমাদ ১১৮১৪) (আধুনিক প্রকাশনীঃ ২২, ইসলামিক ফাউন্ডেশনঃ ২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাযি.)-কে বলতে শুনেছেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একবার আমি নিদ্রাবস্থায় (স্বপ্নে) দেখলাম যে, লোকদেরকে আমার সামনে আনা হচ্ছে। আর তাদের পরণে রয়েছে জামা। কারো জামা বুক পর্যন্ত আর কারো জামা এর নীচ পর্যন্ত। আর ‘উমার ইবনুল খাত্তাব (রাযি.)-কে আমার সামনে আনা হল এমন অবস্থায় যে, তিনি তাঁর জামা (অধিক লম্বা হওয়ায়) টেনে ধরে নিয়ে যাচ্ছিলেন। সাহাবীগণ আরয করলেন, হে আল্লাহর রাসূল! আপনি এর কী তা’বীর করেছেন? তিনি বললেনঃ (এ জামা অর্থ) দ্বীন। (৩৬৯১, ৭০০৮, ৭০০৯; মুসলিম ৪৪/২ হাঃ ২৩৯০, আহমাদ ১১৮১৪) (আধুনিক প্রকাশনীঃ ২২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>23</td></tr><tr><td>Arabic No</td><td>23</td></tr><tr><td>Reference</td><td>Book 2 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Ubaidillah] berkata, telah mencerit
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “நான் உறங்கிக்கொண்டி ருக்கும்போது (கனவில்), மக்கள் (பல விதமான) சட்டைகளை அணிந்தவர்களாக எனக்கு எடுத்துக்காட்டப்பட்டனர். அவற்றில் (அவர்களுடைய) மார்பை எட்டக்கூடியவையும், மார்பை எட்டாத வையும் இருந்தன. உமர் பின் அல்கத்தாப் அவர்கள் (தரையில்) இழுபடும் அளவுக்கு (நீளமான) சட்டையொன்றை அணிந்தவராக எனக்குக் காட்டப்பட்டார்” என்று கூறினார்கள். மக்கள், “அல்லாஹ்வின் தூதரே! இதற்கு நீங்கள் என்ன விளக்கம் கண்டீர்கள்?” என்று கேட்டார்கள். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “(அந்தச் சட்டைகள் அவர்களுடைய) மார்க்கத்தை (மார்க்க உணர்வையும் செயல்பாடுகளையும்) குறிக்கும்” என்று பதிலளித்தார்கள்.21 அத்தியாயம் : 2
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “நான் உறங்கிக்கொண்டி ருக்கும்போது (கனவில்), மக்கள் (பல விதமான) சட்டைகளை அணிந்தவர்களாக எனக்கு எடுத்துக்காட்டப்பட்டனர். அவற்றில் (அவர்களுடைய) மார்பை எட்டக்கூடியவையும், மார்பை எட்டாத வையும் இருந்தன. உமர் பின் அல்கத்தாப் அவர்கள் (தரையில்) இழுபடும் அளவுக்கு (நீளமான) சட்டையொன்றை அணிந்தவராக எனக்குக் காட்டப்பட்டார்” என்று கூறினார்கள். மக்கள், “அல்லாஹ்வின் தூதரே! இதற்கு நீங்கள் என்ன விளக்கம் கண்டீர்கள்?” என்று கேட்டார்கள். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “(அந்தச் சட்டைகள் அவர்களுடைய) மார்க்கத்தை (மார்க்க உணர்வையும் செயல்பாடுகளையும்) குறிக்கும்” என்று பதிலளித்தார்கள்.21 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>23</td></tr><tr><td>Arabic No</td><td>23</td></tr><tr><td>Reference</td><td>Book 2 Hadith 16</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Ubaidillah] berkata, telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Uyuduğum esnada gördüm ki halk bana arzolunuyordu. Üstlerinde gömlekler vardı. Bu gömleklerin kimi memelere varıyor, kimi daha kısa idi. Ömer bin el-Hattâb da bana arzolundu. Üstünde (eteklerini yerde) sürüdüğü bir gömlek vardı. "Ya Resûlâllâh, bunu ne ile te'vîl ettin?" diye sordular. "Dîn ile." cevâbını verdi. Tekrar: 3691, 7008, 7009
+Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Uyuduğum esnada gördüm ki halk bana arzolunuyordu. Üstlerinde gömlekler vardı. Bu gömleklerin kimi memelere varıyor, kimi daha kısa idi. Ömer bin el-Hattâb da bana arzolundu. Üstünde (eteklerini yerde) sürüdüğü bir gömlek vardı. "Ya Resûlâllâh, bunu ne ile te'vîl ettin?" diye sordular. "Dîn ile." cevâbını verdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>23</td></tr><tr><td>Arabic No</td><td>23</td></tr><tr><td>Reference</td><td>Book 2 Hadith 16</td></tr></tbody></table></div>
 

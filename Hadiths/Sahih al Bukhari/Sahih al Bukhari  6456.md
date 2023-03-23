@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বিছানা ছিল চামড়ার তৈরি এবং তার ভেতরে ছিল খেজুরের ছাল। (আধুনিক প্রকাশনী- ৬০০৬, ইসলামিক ফাউন্ডেশন- ৬০১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বিছানা ছিল চামড়ার তৈরি এবং তার ভেতরে ছিল খেজুরের ছাল। (আধুনিক প্রকাশনী- ৬০০৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6456</td></tr><tr><td>Arabic No</td><td>6456</td></tr><tr><td>Reference</td><td>Book 81 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ahmad bin Abu Raja'] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: பேரீச்சம் நாரால் நிரப்பப்பட்ட பதனிடப்பட்ட தோலே அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் படுக்கை விரிப்பாக இருந்தது. அத்தியாயம் : 81
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: பேரீச்சம் நாரால் நிரப்பப்பட்ட பதனிடப்பட்ட தோலே அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் படுக்கை விரிப்பாக இருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6456</td></tr><tr><td>Arabic No</td><td>6456</td></tr><tr><td>Reference</td><td>Book 81 Hadith 45</td></tr></tbody></table></div>
 

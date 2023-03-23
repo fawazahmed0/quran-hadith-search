@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন আবদুল হামীদ (রহঃ) ..... আবূ জাবীরা (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমর ইবন আস একজন দীর্ঘ বক্তৃতা দানকারী ব্যক্তি সম্পর্কে বলেনঃ যদি সে মধ্যম ধরনের বক্তৃতা দিত, তবে খুবই ভাল করতো। কেননা, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আমি এটা ভাল মনে করি এবং আমাকে এরূপ নির্দেশ দেয়া হয়েছে যে, আমি যেন বক্তৃতা দেয়ার সময় মধ্যপন্থা অবলম্বন করি। কেননা, মধ্যম-পন্থাই হলো উত্তমপন্থা।
+। আমর ইবনুল আস (রাঃ) একদিন বলেন, এক ব্যক্তি দাঁড়িয়ে সুদীর্ঘ বক্তৃতা দিলো। আমর (রাঃ) বললেন, যদি সে সংক্ষিপ্ত আলোচনা করতো তবে তার জন্য ভালো হতো। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আমার নিকট উপযুক্ত মনে হয়েছে অথবা আমাকে আদেশ দেয়া হয়েছে ভাষণ সংক্ষিপ্ত করতে। কেননা সংক্ষিপ্ত আলোচনা উত্তম।[1] সনদ হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 43 Hadith 236</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাসরূক (রহ.) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ্ ইবনু ‘আমর (রাঃ) বলেছেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জন্মগতভাবে বা ইচ্ছাপূর্বক অশ্লীল ভাষী ছিলেন না। তিনি বলেছেন, তোমাদের মধ্যে ঐ ব্যক্তিই আমার সবচেয়ে প্রিয় যে সর্বোত্তম চরিত্রের অধিকারী। (৩৫৫৯) (ইসলামিক ফাউন্ডেশনঃ ৩৪৮৫ প্রথমাংশ)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তিনি আরো বলেছেন, তোমরা চার ব্যক্তির নিকট হতে কুরআন শিক্ষা কর, ‘আবদুল্লাহ ইবনু মাস‘ঊদ, সালিম মাওলা আবূ হুযায়ফাহ, উবাই ইবনু কা‘ব ও মু‘আয ইবনু জাবাল (রাঃ)। (৩৭৫৮) (আধুনিক প্রকাশনীঃ ৩৪৭৭, ইসলামিক ফাউন্ডেশনঃ ৩৪৮৫ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

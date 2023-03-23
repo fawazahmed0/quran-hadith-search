@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত, তিনি বলেন, তা হল একটি মানযিল মাত্র, যেখানে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অবতরণ করতেন, যাতে বেরিয়ে যাওয়া সহজতর হয় অর্থাৎ এর দ্বারা আবতাহ বুঝানো হয়েছে। (মুসলিম ১৫/৫৯, হাঃ ১৩১১, আহমাদ ২৫৭৭৮) (আধুনিক প্রকাশনীঃ ১৬৪১. ইসলামিক ফাউন্ডেশনঃ ১৬৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত, তিনি বলেন, তা হল একটি মানযিল মাত্র, যেখানে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অবতরণ করতেন, যাতে বেরিয়ে যাওয়া সহজতর হয় অর্থাৎ এর দ্বারা আবতাহ বুঝানো হয়েছে। (মুসলিম ১৫/৫৯, হাঃ ১৩১১, আহমাদ ২৫৭৭৮) (আধুনিক প্রকাশনীঃ ১৬৪১. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1765</td></tr><tr><td>Arabic No</td><td>1765</td></tr><tr><td>Reference</td><td>Book 25 Hadith 241</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (அல்முஹஸ்ஸபில் தங்குவது ஹஜ்ஜின் வழிபாடுகளில் ஒன்றல்ல; மதீனாவுக்குப்) புறப்பட்டுச் செல்ல வசதியாக இருக்க வேண்டும் என்பதற்காக நபி (ஸல்) அவர்கள் தங்கி ஓய்வெடுத்த ஓர் இடமே அல்முஹஸ்ஸப் -அதாவது அல்அப்தஹ்- ஆகும். அத்தியாயம் : 25
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (அல்முஹஸ்ஸபில் தங்குவது ஹஜ்ஜின் வழிபாடுகளில் ஒன்றல்ல; மதீனாவுக்குப்) புறப்பட்டுச் செல்ல வசதியாக இருக்க வேண்டும் என்பதற்காக நபி (ஸல்) அவர்கள் தங்கி ஓய்வெடுத்த ஓர் இடமே அல்முஹஸ்ஸப் -அதாவது அல்அப்தஹ்- ஆகும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1765</td></tr><tr><td>Arabic No</td><td>1765</td></tr><tr><td>Reference</td><td>Book 25 Hadith 241</td></tr></tbody></table></div>
 

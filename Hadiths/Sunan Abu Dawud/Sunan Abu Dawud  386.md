@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবনু ইব্রাহীম ..... সাঈদ ইবনু আবূ সাঈদ আল-মাকবূরী থেকে তাঁর পিতার সূত্রে এবং তিনি আবূ হুরায়রা (রাঃ)-এর সূত্রে বর্ণনা করেছেন। তিনি (আবূ হুরায়রা) নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম হতে পূর্বোক্ত হাদীছের অনুরূপ বর্ণনা করেছেন। তিনি বলেনঃ কারও মোজায় নাপাক নাগলে তা পবিত্র করার জন্য মাটই যথেষ্ট।
+। আবূ হুরাইরাহ্ (রাঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত আছে। তাতে রয়েছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কারো মোজায় নাপাকি লেগে গেলে মাটিই তার পবিত্রকারী।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>386</td></tr><tr><td>Arabic No</td><td>386</td></tr><tr><td>Reference</td><td>Book 1 Hadith 386</td></tr></tbody></table></div>
 

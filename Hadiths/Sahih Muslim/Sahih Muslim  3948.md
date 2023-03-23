@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৮৪০, আন্তর্জাতিক নাম্বারঃ ১৫৪৮ ৩৮৪০-(.../...) আবূ তাহির (রহঃ) ..... রফি'র সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন। কিন্তু তাতে তার কোন এক চাচার কথা বলেননি। (ইসলামিক ফাউন্ডেশন ৩৮০৪, ইসলামিক সেন্টার ৩৮০৪)
+আবূ তাহির (রহঃ) ..... রফি'র সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন। কিন্তু তাতে তার কোন এক চাচার কথা বলেননি। (ইসলামিক ফাউন্ডেশন ৩৮০৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3948</td></tr><tr><td>Arabic No</td><td>1548.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 147</td></tr></tbody></table></div>
 

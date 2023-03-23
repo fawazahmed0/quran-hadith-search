@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। আয়িশা (রাঃ) থেকে বর্ণিতঃ তাছাড়া তিনি ই’তিকাফ অবস্থায় মাথা বের করে দিতেন, আর আমি হায়েয অবস্থায় মাথা ধুয়ে দিতাম। (২৯৫) (আ.প্র. ২৯০, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>299</td></tr><tr><td>Arabic No</td><td>299</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'dan şöyle nakledilmiştir: "İkimiz de cünüp iken Nebi (Sallallahu aleyhi ve Sellem) ile birlikte bir kaptaki suyu kullanarak ğusül abdesti alırdık." [-300-] Bana emrederdi, ben de izarımi bağlardım. Sonra hayızlı olmama rağmen bana dokunurdu. Tekrar: 302, 2030 [-301-] Nebi (Sallallahu aleyhi ve Sellem) itikattayken başını bana uzatırdı. Ben de hayızlı olduğum halde başını yıkardım." İZAH: SAYFA: 208, HADİS NO: 302
+Aişe r.anha'dan şöyle nakledilmiştir: "İkimiz de cünüp iken Nebi (Sallallahu aleyhi ve Sellem) ile birlikte bir kaptaki suyu kullanarak ğusül abdesti alırdık." [-300-] Bana emrederdi, ben de izarımi bağlardım. Sonra hayızlı olmama rağmen bana dokunurdu. Tekrar: 302, 2030 [-301-] Nebi (Sallallahu aleyhi ve Sellem) itikattayken başını bana uzatırdı. Ben de hayızlı olduğum halde başını yıkardım." İZAH: SAYFA: 208, HADİS NO:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>299</td></tr><tr><td>Arabic No</td><td>299</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

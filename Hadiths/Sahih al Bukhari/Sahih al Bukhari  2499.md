@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বারের জমি এ শর্তে ইয়াহূদীদের দিয়েছিলেন যে, তারা নিজেদের শ্রমে তাতে চাষাবাদ করবে, তার বিনিময়ে উৎপন্ন ফসলের অর্ধেক তাদের হবে। (২২৮৫) (আধুনিক প্রকাশনীঃ ২৩১৯, ইসলামিক ফাউন্ডেশনঃ ২৩৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বারের জমি এ শর্তে ইয়াহূদীদের দিয়েছিলেন যে, তারা নিজেদের শ্রমে তাতে চাষাবাদ করবে, তার বিনিময়ে উৎপন্ন ফসলের অর্ধেক তাদের হবে। (২২৮৫) (আধুনিক প্রকাশনীঃ ২৩১৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2499</td></tr><tr><td>Arabic No</td><td>2499</td></tr><tr><td>Reference</td><td>Book 47 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கைபர் நிலங்களை யூதர்களுக்கு, அவற்றில் அவர்கள் உழைத்து விவசாயம் செய்ய வேண்டும் என்றும், அவற்றி லிருந்து கிடைக்கும் விளைச்சலில் பாதி அவர்களுக்குரியது என்றும் நிபந்தனை யிட்டு (குத்தகைக்குக்) கொடுத்தார்கள். அத்தியாயம் : 47
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கைபர் நிலங்களை யூதர்களுக்கு, அவற்றில் அவர்கள் உழைத்து விவசாயம் செய்ய வேண்டும் என்றும், அவற்றி லிருந்து கிடைக்கும் விளைச்சலில் பாதி அவர்களுக்குரியது என்றும் நிபந்தனை யிட்டு (குத்தகைக்குக்) கொடுத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2499</td></tr><tr><td>Arabic No</td><td>2499</td></tr><tr><td>Reference</td><td>Book 47 Hadith 16</td></tr></tbody></table></div>
 

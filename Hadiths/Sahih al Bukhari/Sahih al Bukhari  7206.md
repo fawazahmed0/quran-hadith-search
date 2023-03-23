@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াযীদ ইবনু আবূ ‘উবায়দ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি সালামাকে জিজ্ঞেস করলাম, হুদাইবিয়াহর দিন আপনারা কোন্ বিষয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে বায়‘আত করেছিলেন? তিনি বললেন, মৃত্যুর উপর। [২৯৬০] (আধুনিক প্রকাশনী- ৬৭০০, ইসলামিক ফাউন্ডেশন- ৬৭১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইয়াযীদ ইবনু আবূ ‘উবায়দ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি সালামাকে জিজ্ঞেস করলাম, হুদাইবিয়াহর দিন আপনারা কোন্ বিষয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে বায়‘আত করেছিলেন? তিনি বললেন, মৃত্যুর উপর। [২৯৬০] (আধুনিক প্রকাশনী- ৬৭০০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7206</td></tr><tr><td>Arabic No</td><td>7206</td></tr><tr><td>Reference</td><td>Book 93 Hadith 66</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-யஸீத் பின் அபீஉபைத் (ரஹ்) அவர்கள் கூறியதாவது: சலமா பின் அல்அக்வஉ (ரலி) அவர்களிடம் நான், “எந்த விஷயத்திற்காக நீங்கள் நபி (ஸல்) அவர்களிடம் ஹுதைபியா நாளில் உறுதிமொழி அளித்தீர்கள்?” என்று கேட்டேன். அதற்கு அவர்கள், “(இறைவழியில்) உயிர்நீக்கத் தயாராக இருப்பதாக உறுதிமொழி அளித்தோம்” என்று பதிலளித்தார்கள்.67 அத்தியாயம் : 93
+யஸீத் பின் அபீஉபைத் (ரஹ்) அவர்கள் கூறியதாவது: சலமா பின் அல்அக்வஉ (ரலி) அவர்களிடம் நான், “எந்த விஷயத்திற்காக நீங்கள் நபி (ஸல்) அவர்களிடம் ஹுதைபியா நாளில் உறுதிமொழி அளித்தீர்கள்?” என்று கேட்டேன். அதற்கு அவர்கள், “(இறைவழியில்) உயிர்நீக்கத் தயாராக இருப்பதாக உறுதிமொழி அளித்தோம்” என்று பதிலளித்தார்கள்.67 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7206</td></tr><tr><td>Arabic No</td><td>7206</td></tr><tr><td>Reference</td><td>Book 93 Hadith 66</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... ইবনু উমর (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কলসী, দুব্বা, মুযাফফাত হতে বারণ করেছেন। তিনি বলেছেন, তোমরা নবীয প্রস্তুত করো চামড়া দ্বারা নির্মিত পাত্রে। (ইসলামিক ফাউন্ডেশন ৫০২৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5197</td></tr><tr><td>Arabic No</td><td>1997.12</td></tr><tr><td>Reference</td><td>Book 36 Hadith 71</td></tr></tbody></table></div>
 

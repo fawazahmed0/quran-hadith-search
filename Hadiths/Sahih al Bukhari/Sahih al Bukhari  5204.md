@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু যাম‘আহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা কেউ নিজ স্ত্রীদেরকে গোলামের মত প্রহার করো না। কেননা, দিনের শেষে তার সঙ্গে তো মিলিত হবে। [৩৩৭৭] (আধুনিক প্রকাশনী- ৪৮২২, ইসলামিক ফাউন্ডেশন- ৪৮২৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু যাম‘আহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা কেউ নিজ স্ত্রীদেরকে গোলামের মত প্রহার করো না। কেননা, দিনের শেষে তার সঙ্গে তো মিলিত হবে। [৩৩৭৭] (আধুনিক প্রকাশনী- ৪৮২২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 67 Hadith 138</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் உங்கள் மனைவியரை அடிமையை அடிப்பதுபோல அடிக்க வேண்டாம். (ஏனெனில்,) பிறகு அதே நாளின் இறுதியில் (இரவில்) அவளுட னேயே (நாணமில்லாமல்) உறவு கொள்வீர்கள். இதை அப்துல்லாஹ் பின் ஸம்ஆ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.140 அத்தியாயம் : 67
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் உங்கள் மனைவியரை அடிமையை அடிப்பதுபோல அடிக்க வேண்டாம். (ஏனெனில்,) பிறகு அதே நாளின் இறுதியில் (இரவில்) அவளுட னேயே (நாணமில்லாமல்) உறவு கொள்வீர்கள். இதை அப்துல்லாஹ் பின் ஸம்ஆ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.140 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 67 Hadith 138</td></tr></tbody></table></div>
 

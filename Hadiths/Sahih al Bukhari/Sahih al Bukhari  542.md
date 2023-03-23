@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা যখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পিছনে গরমের সময় সালাত আদায় করতাম, তখন তাপ হতে রক্ষা পাবার জন্য কাপড়ের উপর সিজদা করতাম। (৩৮৫) (আধুনিক প্রকাশনীঃ ৫০৯, ইসলামিক ফাউন্ডেশনঃ ৫১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা যখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পিছনে গরমের সময় সালাত আদায় করতাম, তখন তাপ হতে রক্ষা পাবার জন্য কাপড়ের উপর সিজদা করতাম। (৩৮৫) (আধুনিক প্রকাশনীঃ ৫০৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>542</td></tr><tr><td>Arabic No</td><td>542</td></tr><tr><td>Reference</td><td>Book 9 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad] -yakni Ibnu Muqatil-berkata, telah men
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நண்பகல் நேரங்களில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக் குப்பின் (லுஹ்ர்) தொழும்போது, வெப்பத் தைத் தவிர்ப்பதற்காக எங்கள் ஆடையின் (ஒரு பகுதியின்) மீது சிரவணக்கம் (சஜ்தா) செய்பவர்களாக இருந்தோம். அத்தியாயம் : 9
+அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நண்பகல் நேரங்களில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக் குப்பின் (லுஹ்ர்) தொழும்போது, வெப்பத் தைத் தவிர்ப்பதற்காக எங்கள் ஆடையின் (ஒரு பகுதியின்) மீது சிரவணக்கம் (சஜ்தா) செய்பவர்களாக இருந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>542</td></tr><tr><td>Arabic No</td><td>542</td></tr><tr><td>Reference</td><td>Book 9 Hadith 19</td></tr></tbody></table></div>
 

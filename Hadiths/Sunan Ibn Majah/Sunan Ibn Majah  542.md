@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৫৪২। জাবির ইবনু সামুরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যাক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে জিজ্ঞেস করলো, কোন ব্যাক্তি যে কাপড় পরে সহবাস করেছে সে কাপড় পরেই কি সে সালাত আদায় করতে পারে? তিনি বলেনঃ হ্যাঁ, তবে তাতে নাপাকী দৃষ্টিগোচর হলে তা ধুয়ে নিতে হবে।
+। জাবির ইবনু সামুরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যাক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে জিজ্ঞেস করলো, কোন ব্যাক্তি যে কাপড় পরে সহবাস করেছে সে কাপড় পরেই কি সে সালাত আদায় করতে পারে? তিনি বলেনঃ হ্যাঁ, তবে তাতে নাপাকী দৃষ্টিগোচর হলে তা ধুয়ে নিতে হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>542</td></tr><tr><td>Arabic No</td><td>542</td></tr><tr><td>Reference</td><td>Book 1 Hadith 276</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ সুনির্দিষ্ট অংশের হাকদারদের মীরাস দাও। এরপর যা অবশিষ্ট থাকবে তা নিকটতম পুরুষ আত্মীয়দের প্রাপ্য। [৬৭৩২] (আধুনিক প্রকাশনী- ৬২৭৮, ইসলামিক ফাউন্ডেশন- ৬২৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ সুনির্দিষ্ট অংশের হাকদারদের মীরাস দাও। এরপর যা অবশিষ্ট থাকবে তা নিকটতম পুরুষ আত্মীয়দের প্রাপ্য। [৬৭৩২] (আধুনিক প্রকাশনী- ৬২৭৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>6746</td></tr><tr><td>Reference</td><td>Book 85 Hadith 23</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Umayyah bin Bistham] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: (பாகப்பிரிவினை தொடர்பாகக் குர்ஆன் நிர்ணயித்துள்ள) பாகங்களை (முதலில்) அவற்றுக்கு உரியவர்களிடம் சேர்த்துவிடுங்கள். பாகம் நிர்ணயிக்கப் பட்டவர்கள் எடுத்ததுபோக எஞ்சியிருப்பது (இறந்தவரின்) மிக நெருக்கமான (உறவினரான) ஆணுக்கு உரியதாகும். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.33 அத்தியாயம் : 86
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: (பாகப்பிரிவினை தொடர்பாகக் குர்ஆன் நிர்ணயித்துள்ள) பாகங்களை (முதலில்) அவற்றுக்கு உரியவர்களிடம் சேர்த்துவிடுங்கள். பாகம் நிர்ணயிக்கப் பட்டவர்கள் எடுத்ததுபோக எஞ்சியிருப்பது (இறந்தவரின்) மிக நெருக்கமான (உறவினரான) ஆணுக்கு உரியதாகும். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.33 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>6746</td></tr><tr><td>Reference</td><td>Book 85 Hadith 23</td></tr></tbody></table></div>
 

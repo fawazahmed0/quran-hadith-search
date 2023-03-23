@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবূ শুরায়হ কা'বী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ হে খুযা'আ গোত্রের লোকেরা! তোমরা শ্রবণ কর। তোমরা হুযায়ল গোত্রের এ লোককে হত্যা করেছ। আমি এর দিয়াত আদায় করে দেব। আমার এই নির্দেশের পর যদি কোন গোত্রের কেউ নিহত হয়, তবে তার উত্তরাধিকারীদের দু'টি ইখতিয়ার থাকবে, হয় তারা দিয়াত গ্রহণ করবে, নয়তো হত্যাকারীকে কতল করবে।
+। সাঈদ ইবনু আবূ সাঈদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি আবূ সুরাই আল কাবি (রাঃ)-কে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শোনো হে খুযাআহ গোত্রের লোকেরা! তোমরা হুযাইল গোত্রের এক ব্যক্তিকে হত্যা করেছো। আর আমি তার রক্তমূল্য পরিশোধ করবো। আমার এ কথার পর যাদের কোনো লোককে হত্যা করা হবে তখন নিহতের পরিবার দু’টি বিকল্প অবস্থার যে কোনো একটি গ্রহণ করতে পারবে। দিয়াত গ্রহণ করবে অথবা হত্যা করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4504</td></tr><tr><td>Arabic No</td><td>4504</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
 

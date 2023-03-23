@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন বাশশার ... হাকীম ইবন মু‘আবিয়া (রহঃ) তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, আমি বলি, হে আল্লাহ্‌র রাসুল! আমরা আমাদের স্ত্রীদের সাথে কোথায় কিরূপে সহবাস করব এবং কোথায় করব না? তিনি বলেন, তুমি তোমার ক্ষেত্রে যেরূপে ইচ্ছা গমণ করত পার। আর যখন তুমি খাবে, তখন তাকেও খেতে দিবে। আর যখন তুমি যা পরিধান করবে, তখন তাকেও তা পরিধান করাবে এবং তাকে গালমন্দ করবে না ও মারধর করবে না।
+। বাহয ইবনু হাকীম তার পিতা থেকে তার দাদার সূত্রে বর্ণিত। তিনি বলেন, একদা আমি বলি, হে আল্লাহর রাসূল! আমরা আমাদের স্ত্রীদের কোন্ স্থানে সঙ্গম করবো, আর কোন্ স্থান বর্জন করবো? তিনি বললেনঃ তুমি যেভাবে ইচ্ছে করো তোমার ফসল উৎপাদন স্থানে (সম্মুখের লজ্জাস্থানে) সঙ্গম করো। আর তুমি যখন খাবে তাকেও খাওয়াবে এবং তুমি পরিধার করলে তাকেও পরিধান করাবে। তাকে গালমন্দ করবে না এবং মারবে না। ইমাম আবূ দাঊদ (রহ.) বলেন, শু‘বাহ বর্ণনা করেছেন, যখন তুমি খাবে তখন তাকেও খাওয়াবে। আর যখন তুমি পরিধান করবে তখন তাকেও পরাবে।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2143</td></tr><tr><td>Arabic No</td><td>2143</td></tr><tr><td>Reference</td><td>Book 12 Hadith 98</td></tr></tbody></table></div>
 

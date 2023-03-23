@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮/১৯। আবদুল্লাহ ইবনু মাসঊদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি তোমাদের নিকট রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর হাদীস বর্ণনা করলে তোমরা তার যুহদ (সাধনা), ধার্মিকতা ও তাক্বওয়ার কথা স্মরণে রেখে তা মেনে নাও (এবং নিজের মত খাটানো ত্যাগ করো)।
+। আলী ইবনু আবূ তালিব থেকে বর্ণিত। তিনি বলেন, আমি তোমাদের নিকট রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর হাদীস বর্ণনা করলে তোমরা মনে রাখবে যে, তিনি ছিলেন সর্বাধিক ধার্মিক, হিদায়াতপ্রাপ্ত ও আল্লাহ্ভীরু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>19</td></tr><tr><td>Arabic No</td><td>19</td></tr><tr><td>Reference</td><td>Book 0 Hadith 19</td></tr></tbody></table></div>
 

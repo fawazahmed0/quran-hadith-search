@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৪২৪। বাহয ইবনু হাকীম (রহঃ) হতে তার বাবা, অতঃপর তার দাদার সুত্রে বর্ণিত আছে, তিনি বলেন, আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ (কিয়ামত দিবসে) তোমাদের পায়ে হাটিয়ে, সাওয়ারী হিসাবে এবং কিছু সংখ্যককে মুখের উপর উপুড় করে টেনে হাযির করা হবে। সহীহ, ফাযাইলুশশাম (১৩)। আবূ হুরাইরা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। বাহয ইবনু হাকীম (রহঃ) হতে তার বাবা, অতঃপর তার দাদার সুত্রে বর্ণিত আছে, তিনি বলেন, আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ (কিয়ামত দিবসে) তোমাদের পায়ে হাটিয়ে, সাওয়ারী হিসাবে এবং কিছু সংখ্যককে মুখের উপর উপুড় করে টেনে হাযির করা হবে। সহীহ, ফাযাইলুশশাম (১৩)। আবূ হুরাইরা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 37 Hadith 10</td></tr></tbody></table></div>
 

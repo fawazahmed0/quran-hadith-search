@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... আওস ইবনু আবূ আওস আছ-ছাকাফী (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম একদা উযূ (ওজু/অজু/অযু)র সময় তাঁর জুতা ও কদমদ্বয় মাসেহ্ করেন। আব্বাদ (রাঃ) বলেন, একদা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এক কওমের কূপের নিকট আসেন। কিন্তু রাবী মুসাদ্দাদের বর্ণনার মধ্যে الْمِيضَأَةَ ও الْكِظَامَةَ শব্দের উল্লেখ নেই। অতঃপর উভয় রাবী মতৈক্যে পৌঁছে বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম উযূর সময় জুতা ও কদমদ্বয়ের উপর মাসেহ্ করেছেন।
+। আওস ইবনু আবূ আওস আস-সাক্বাফী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অযুর সময় তাঁর জুতাজোড়া ও দু’ পায়ের উপর মাসাহ্ করেছেন। আব্বাদ বলেন, আমি রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখলাম একটি সম্প্রদায়ের পানির মশকের কাছে আগমন করে এবং অযু করে অযুর সময় মাসাহ করছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>160</td></tr><tr><td>Arabic No</td><td>160</td></tr><tr><td>Reference</td><td>Book 1 Hadith 160</td></tr></tbody></table></div>
 

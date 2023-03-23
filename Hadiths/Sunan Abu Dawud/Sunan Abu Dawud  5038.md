@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবূ শায়বা (রহঃ) ...... আবূ বুরদা (রহঃ) তার পিতা থেকে বর্ণনা করেছেন। তিনি বলেনঃ ইয়াহূদীরা নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এ জন্য হাঁচি দিত যে, যাতে এর জবাবে তিনি বলেনঃ আল্লাহ্‌ তোমাদের উপর রহম করুন! কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ আল্লাহ্‌ তোমাদের হিদায়াত দান করুন এবং তোমাদের দিলকে পরিষ্কার করে দিন।
+। আবূ বুরদা (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, ইয়াহুদীরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে এই আশায় ইচ্ছাকৃতভাবেই হাঁচি দিতো যে, তিনি তাদের হাঁচির জবাবে ‘ইয়ারহামুকাল্লা’ বলবেন। কিন্তু তিনি বলতেনঃ ‘ইয়াহদিকুমুল্লাহু ওয়া ইউসলিহু বালাকুম।’[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5038</td></tr><tr><td>Arabic No</td><td>5038</td></tr><tr><td>Reference</td><td>Book 43 Hadith 266</td></tr></tbody></table></div>
 

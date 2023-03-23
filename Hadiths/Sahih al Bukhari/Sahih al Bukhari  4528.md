@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, ইয়াহূদীরা বলত যে, যদি কেউ স্ত্রীর পেছন দিক থেকে সহবাস করে তাহলে সন্তান টেরা চোখের হয়। তখন (এর প্রতিবাদে) نِسَاؤُكُمْ حَرْثٌ لَكُمْ আয়াত অবতীর্ণ হয়। [মুসলিম ত্বলাক (তালাক)/১৮, হাঃ ১৪৩৫] (আধুনিক প্রকাশনীঃ ৪১৬৮, ইসলামিক ফাউন্ডেশনঃ ৪১৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, ইয়াহূদীরা বলত যে, যদি কেউ স্ত্রীর পেছন দিক থেকে সহবাস করে তাহলে সন্তান টেরা চোখের হয়। তখন (এর প্রতিবাদে) نِسَاؤُكُمْ حَرْثٌ لَكُمْ আয়াত অবতীর্ণ হয়। [মুসলিম ত্বলাক (তালাক)/১৮, হাঃ ১৪৩৫] (আধুনিক প্রকাশনীঃ ৪১৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4528</td></tr><tr><td>Arabic No</td><td>4528</td></tr><tr><td>Reference</td><td>Book 65 Hadith 51</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jabir:Jews used to say: "If one has sexual intercourse with his wife from the back, then she will deliver a squint-eyed child." So this Verse was revealed:-- "Your wives are a tilth unto you; so go to your tilth when or how you will." (2.223)
+Narrated Jabir:Jews used to say: "If one has sexual intercourse with his wife from the back, then she will deliver a squint-eyed child." So this Verse was revealed:-- "Your wives are a tilth unto you; so go to your tilth when or how you will
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4528</td></tr><tr><td>Arabic No</td><td>4528</td></tr><tr><td>Reference</td><td>Book 65 Hadith 51</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Jabir:Jews used to say: "If one has sexual intercourse with his wife fr
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Ibnu Al Munkadir] aku mendengar [Jabir radliallahu 'anhu] berkata; Orang-orang Yahudi berkata; Apabila menggauli wanita melalui belakang maka mata anaknya akan menjadi juling'. Lalu Allah Subhaanahu menurunkan ayat; Isteri-isteri kalian adalah ladang kalian, maka datangilah ladang kalian dari mana engkau kehendaki." (QS. Albaqarah 223)
+Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Ibnu Al Munkadir] aku mendengar [Jabir radliallahu 'anhu] berkata; Orang-orang Yahudi berkata; Apabila menggauli wanita melalui belakang maka mata anaknya akan menjadi juling'. Lalu Allah Subhaanahu menurunkan ayat; Isteri-isteri kalian adalah ladang kalian, maka datangilah ladang kalian dari mana engkau kehendaki." (QS. Albaqarah)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4528</td></tr><tr><td>Arabic No</td><td>4528</td></tr><tr><td>Reference</td><td>Book 65 Hadith 51</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் தம் மனைவியிடம் பின்புறத்திலிருந்து உடலுறவு கொண்டால் குழந்தை மாறுகண் கொண்டதாகப் பிறக்கும் என்று யூதர்கள் சொல்லிவந்தார்கள். எனவே, “உங்கள் பெண்கள் உங்களுக்குரிய “விளைநிலம்' ஆவர். ஆகவே, உங்கள் விளைநிலத்திற்கு நீங்கள் விரும்பியபடி செல்லுங்கள்” எனும் (2:223ஆவது) இறைவசனம் அருளப்பெற்றது.62 அத்தியாயம் : 65
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் தம் மனைவியிடம் பின்புறத்திலிருந்து உடலுறவு கொண்டால் குழந்தை மாறுகண் கொண்டதாகப் பிறக்கும் என்று யூதர்கள் சொல்லிவந்தார்கள். எனவே, “உங்கள் பெண்கள் உங்களுக்குரிய “விளைநிலம்' ஆவர். ஆகவே, உங்கள் விளைநிலத்திற்கு நீங்கள் விரும்பியபடி செல்லுங்கள்” எனும் (2:223ஆவது) இறைவசனம் அருளப்பெற்றது.62 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4528</td></tr><tr><td>Arabic No</td><td>4528</td></tr><tr><td>Reference</td><td>Book 65 Hadith 51</td></tr></tbody></table></div>
 

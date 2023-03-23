@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে শুনেছি অথবা বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ উল্কি অঙ্কণকারী এবং পেশাধারী নারী এবং পরচুলা ব্যবহারকারী পরচুলা লাগানোর পেশাধারী নারীকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লা‘নত করেছেন। [৫৯৩৭] (আধুনিক প্রকাশনী- ৫৫০৯, ইসলামিক ফাউন্ডেশন- ৫৪০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে শুনেছি অথবা বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ উল্কি অঙ্কণকারী এবং পেশাধারী নারী এবং পরচুলা ব্যবহারকারী পরচুলা লাগানোর পেশাধারী নারীকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লা‘নত করেছেন। [৫৯৩৭] (আধুনিক প্রকাশনী- ৫৫০৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5942</td></tr><tr><td>Arabic No</td><td>5942</td></tr><tr><td>Reference</td><td>Book 77 Hadith 157</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Yusuf bin Musa] telah menceritakan kepada kami [Al 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: பச்சை குத்துபவளையும் பச்சை குத்திக்கொள்பவளையும் ஒட்டுமுடி வைத்துவிடுபவளையும் ஒட்டுமுடி வைத்துக்கொள்பவளையும் நபி (ஸல்) அவர்கள் சபித்தார்கள். அத்தியாயம் : 77
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: பச்சை குத்துபவளையும் பச்சை குத்திக்கொள்பவளையும் ஒட்டுமுடி வைத்துவிடுபவளையும் ஒட்டுமுடி வைத்துக்கொள்பவளையும் நபி (ஸல்) அவர்கள் சபித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5942</td></tr><tr><td>Arabic No</td><td>5942</td></tr><tr><td>Reference</td><td>Book 77 Hadith 157</td></tr></tbody></table></div>
 

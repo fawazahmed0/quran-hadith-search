@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৪০৭৩। মুগীরা ইবনে শোবা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট দাজ্জাল সম্পর্কে আমার চেয়ে অধিক কেউ জিজ্ঞাসা করেনি। তিনি আমাকে বলেনঃ তুমি তার সম্পর্কে কি জানতে চাচ্ছো? আমি বললাম, লোকজন বলাবলি করে যে, তার সাথে অঢেল পানাহারের সামগ্রী থাকবে। তিনি বলেনঃ আল্লাহর নিকট তা মামুলি ব্যাপার।
+। মুগীরা ইবনে শোবা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট দাজ্জাল সম্পর্কে আমার চেয়ে অধিক কেউ জিজ্ঞাসা করেনি। তিনি আমাকে বলেনঃ তুমি তার সম্পর্কে কি জানতে চাচ্ছো? আমি বললাম, লোকজন বলাবলি করে যে, তার সাথে অঢেল পানাহারের সামগ্রী থাকবে। তিনি বলেনঃ আল্লাহর নিকট তা মামুলি ব্যাপার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4073</td></tr><tr><td>Arabic No</td><td>4073</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
 

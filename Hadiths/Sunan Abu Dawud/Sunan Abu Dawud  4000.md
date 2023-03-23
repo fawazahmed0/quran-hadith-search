@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... যুহরী (রহঃ) থেকে বর্ণিত। তিনি মুআম্মার এবং কখনো ইবন মুসায়্যাব (রহঃ) থেকে বর্ণনা করেন। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বকর,উমার ও উছমান (রাঃ)مَالِكِ يَوْمِ الدِّينِ পড়তেন। আর সর্বপ্রথম যিনি مَلِكِ يَوْمِ الدِّينِ পড়েন, তিনি হলেন মারওয়ান।
+। ইবনুল মুসাইয়্যাব (রহঃ) বর্ণনা করে বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর, উমার ও উসমান (রাঃ) এ আয়াত (مَالِكِ يَوْمِ الدِّينِ) এর নিয়মে অর্থাৎ ‘মীম’-এর সাথে আলিফসহ পড়েন। মারওয়ান সর্বপ্রথম ‘আলিফ’ ছাড়া পড়েন।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>4000</td></tr><tr><td>Reference</td><td>Book 32 Hadith 32</td></tr></tbody></table></div>
 

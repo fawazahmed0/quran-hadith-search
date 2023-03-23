@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২২৮১। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে আমি বর্ণনা করছি যে, তিনি বলেছেনঃ মনগড়া (মিথ্যা) স্বপ্ন বর্ণনাকারীকে কিয়ামতের দিন যবের দানায় গিট লাগাতে বাধ্য করা হবে। সহীহ, সহীহাহ (২৩৫৯)।
+। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে আমি বর্ণনা করছি যে, তিনি বলেছেনঃ মনগড়া (মিথ্যা) স্বপ্ন বর্ণনাকারীকে কিয়ামতের দিন যবের দানায় গিট লাগাতে বাধ্য করা হবে। সহীহ, সহীহাহ (২৩৫৯)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2281</td></tr><tr><td>Arabic No</td><td>2281</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
 

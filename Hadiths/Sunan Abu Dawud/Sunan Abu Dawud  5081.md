@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, যে ব্যক্তি সকাল-সন্ধ্যায় উপনীত হয়ে সাতবার বলেঃ ‘‘আল্লাহ আমার জন্য যথেষ্ট। তিনি ছাড়া কোনো ইলাহ নেই, আমি তাঁর উপর ভরসা করি এবং তিনি মহান আরশের রব’’ আল্লাহ তার জন্য যথেষ্ট হবেন যা তাকে দুশ্চিন্তাগ্রস্ত করে তার বিরুদ্ধে চাই সে সত্যিকারভাবে অথবা কৃত্রিমভাবে বলুক না কেন।[1] বানোয়াটঃ যঈফাহ হা/ ৫২৮৬।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mawdu</td><td>Al-Albani</td></tr><tr><td>Mawdu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5081</td></tr><tr><td>Arabic No</td><td>5081</td></tr><tr><td>Reference</td><td>Book 43 Hadith 309</td></tr></tbody></table></div>
 

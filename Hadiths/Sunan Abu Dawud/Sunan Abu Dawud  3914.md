@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আবদুর রাহীম (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ভূত-প্রেত মানুষকে কষ্ট দিতে সক্ষম নয়। -হাসান। ইমাম আবূ দাউদ (রহঃ) বলেন, ইমাম মালিক (রহঃ)-কে (لاَ صَفَرَ) সম্পর্কে জিজ্ঞাসা করা হলে তিনি বলেনঃ জাহিলী যুগে লোকেরা কখনও সফর মাসকে হালাল সাব্যস্ত করতো, আবার কখনো হারাম সাব্যস্ত করতো, (নিজেদের সুবিধার জন্য)। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ না, সফর এমন কোন মাস নয়, যেরূপ তোমরা ধারণা কর। -সহীহ মাকতু।
+। ইমাম আবূ দাঊদ (রহঃ) বলেন, ইমাম মালিক (রহঃ)-কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বাণী ‘লা সাফারা’ সম্পর্কে প্রশ্ন করা হলে তিনি বলেন, তৎকালীন আরবের লোকেরা সফর মাসকে (যুদ্ধের জন্য) বৈধ ঘোষণা করতো। তারা উক্ত মাসকে এক বছর বৈধ এবং এক বছর নিষিদ্ধ গণ্য করতো। সেজন্য নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোনো সফর নেই।[1] সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3914</td></tr><tr><td>Arabic No</td><td>3914</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
 

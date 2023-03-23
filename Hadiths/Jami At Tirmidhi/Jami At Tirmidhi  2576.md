@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জাহান্নামের মধ্যে সাউদ' নামে আগুনের একটি পাহাড় আছে। কাফিরগণ সত্তর বছরে এর উপর উঠবে এবং সত্তর বছরে গড়িয়ে পড়বে। এমনিভাবে তারা তাতে অনন্তকাল ধরে উঠবে ও নামবে। যঈফ, মিশকাত (৫৬৭৭) আবূ ঈসা বলেন, এ হাদীসটি গারীব। আমরা শুধুমাত্র ইবনু লাহীআর হাদীস হিসাবে এটিকে মারফু হিসাবে জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2576</td></tr><tr><td>Arabic No</td><td>2576</td></tr><tr><td>Reference</td><td>Book 39 Hadith 4</td></tr></tbody></table></div>
 

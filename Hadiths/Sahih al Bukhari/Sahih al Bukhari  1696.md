@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নিজ হাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কুরবানীর (হাদী) পশুর কিলাদা পাকিয়ে দিয়েছি। এরপর তিনি তাকে কিলাদা পরিয়ে ইশ‘আর করার পর পাঠিয়ে দিয়েছেন এবং তাঁর জন্য যা হালাল ছিল এতে তা হারাম হয়নি। (১৬৯৮, ১৬৯৯, ১৭০১ হতে ১৭০৫, ২৩১৭, ৫৫৬৬, মুসলিম ১৫/৬৪, হাঃ ১৩২১) (আধুনিক প্রকাশনীঃ ১৫৭৮, ইসলামিক ফাউন্ডেশনঃ ১৫৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নিজ হাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কুরবানীর পশুর কিলাদা পাকিয়ে দিয়েছি। এরপর তিনি তাকে কিলাদা পরিয়ে ইশ‘আর করার পর পাঠিয়ে দিয়েছেন এবং তাঁর জন্য যা হালাল ছিল এতে তা হারাম হয়নি। (১৬৯৮, ১৬৯৯, ১৭০১ হতে ১৭০৫, ২৩১৭, ৫৫৬৬, মুসলিম ১৫/৬৪, হাঃ ১৩২১) (আধুনিক প্রকাশনীঃ ১৫৭৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1696</td></tr><tr><td>Arabic No</td><td>1696</td></tr><tr><td>Reference</td><td>Book 25 Hadith 174</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Afla
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) நபி (ஸல்) அவர்களின் குர்பானி ஒட்டகங்களுக்கு நான் என் கைகளால் அடையாள மாலைகள் திரித்தேன். பிறகு அவற்றை நபி (ஸல்) அவர்கள் அந்த ஒட்டகங்களின் கழுத்தில் தொங்கவிட்டு, அவற்றுக்கு அடையாளமிட்டார்கள். (பிறகு மக்காவில்) குர்பானி கொடு(ப்பதற்காக அனுப்பிவை)த்தார்கள். ஆனால், (அதற்குமுன்) அவர்களுக்கு அனுமதிக்கப்படடிருந்த எதுவும் (அப்போது மதீனாவிலிருந்த) அவர்கள்மீது (இஹ்ராம் கட்டியவருக்குப் போன்று) தடை செய்யப்பட்டதாக ஆகவில்லை.55 அத்தியாயம் : 25
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) நபி (ஸல்) அவர்களின் குர்பானி ஒட்டகங்களுக்கு நான் என் கைகளால் அடையாள மாலைகள் திரித்தேன். பிறகு அவற்றை நபி (ஸல்) அவர்கள் அந்த ஒட்டகங்களின் கழுத்தில் தொங்கவிட்டு, அவற்றுக்கு அடையாளமிட்டார்கள். (பிறகு மக்காவில்) குர்பானி கொடு(ப்பதற்காக அனுப்பிவை)த்தார்கள். ஆனால், (அதற்குமுன்) அவர்களுக்கு அனுமதிக்கப்படடிருந்த எதுவும் (அப்போது மதீனாவிலிருந்த) அவர்கள்மீது (இஹ்ராம் கட்டியவருக்குப் போன்று) தடை செய்யப்பட்டதாக ஆகவில்லை.55 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1696</td></tr><tr><td>Arabic No</td><td>1696</td></tr><tr><td>Reference</td><td>Book 25 Hadith 174</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Afla
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha) şöyle demiştir: "Resulullah'ın kurbanının gerdanlığını kendi ellerimle büktüm. Hz. Nebi de onu taktı, kurbana bellik koydu ve gönderdi. Bunu yaptıktan sonra, önceden helal olan şeylerden hiçbiri haram hale gelmedi (yani ihram yasakları başlamadı)". Tekrar: 1698, 1699, 1700, 1701, 1702, 1703, 1704, 1705, 2317, 5566
+Aişe (r.anha) şöyle demiştir: "Resulullah'ın kurbanının gerdanlığını kendi ellerimle büktüm. Hz. Nebi de onu taktı, kurbana bellik koydu ve gönderdi. Bunu yaptıktan sonra, önceden helal olan şeylerden hiçbiri haram hale gelmedi (yani ihram yasakları başlamadı)". Tekrar: 1698, 1699, 1700, 1701, 1702
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1696</td></tr><tr><td>Arabic No</td><td>1696</td></tr><tr><td>Reference</td><td>Book 25 Hadith 174</td></tr></tbody></table></div>
 

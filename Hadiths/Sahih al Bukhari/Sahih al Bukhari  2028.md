@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নবী সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, মসজিদে ই‘তিকাফরত অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার দিকে তাঁর মাথা ঝুঁকিয়ে দিতেন আর আমি ঋতুমতী অবস্থায় তাঁর চুল আঁচড়িয়ে দিতাম। (২৯৫, মুসলিম ৩/৩, হাঃ ২৯৭, আহমাদ ২৬৩২১) (আধুনিক প্রকাশনীঃ ১৮৮৬, ইসলামিক ফাউন্ডেশনঃ ১৮৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নবী সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, মসজিদে ই‘তিকাফরত অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার দিকে তাঁর মাথা ঝুঁকিয়ে দিতেন আর আমি ঋতুমতী অবস্থায় তাঁর চুল আঁচড়িয়ে দিতাম। (২৯৫, মুসলিম ৩/৩, হাঃ ২৯৭, আহমাদ ২৬৩২১) (আধুনিক প্রকাশনীঃ ১৮৮৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2028</td></tr><tr><td>Arabic No</td><td>2028</td></tr><tr><td>Reference</td><td>Book 33 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பள்ளிவாசலில் இஃதிகாஃப் இருந்தபோது தமது தலையை (வீட்டிலிருந்த) என் பக்கம் நீட்டுவார்கள்; மாதவிடாய் ஏற்பட்டிருக்கும் நிலையில் அதை நான் வாரிவிடுவேன். அத்தியாயம் : 33
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பள்ளிவாசலில் இஃதிகாஃப் இருந்தபோது தமது தலையை (வீட்டிலிருந்த) என் பக்கம் நீட்டுவார்கள்; மாதவிடாய் ஏற்பட்டிருக்கும் நிலையில் அதை நான் வாரிவிடுவேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2028</td></tr><tr><td>Arabic No</td><td>2028</td></tr><tr><td>Reference</td><td>Book 33 Hadith 4</td></tr></tbody></table></div>
 

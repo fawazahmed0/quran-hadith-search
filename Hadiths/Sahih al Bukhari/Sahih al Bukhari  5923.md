@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি যত উৎকৃষ্ট খুশবু পেতাম, তা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে লাগিয়ে দিতাম। এমন কি সে খুশবুর ঔজ্জ্বল্য তাঁর মাথায় ও দাড়িতে দেখতে পেতাম। (আধুনিক প্রকাশনী- ৫৪৯১, ইসলামিক ফাউন্ডেশন- ৫৩৮৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি যত উৎকৃষ্ট খুশবু পেতাম, তা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে লাগিয়ে দিতাম। এমন কি সে খুশবুর ঔজ্জ্বল্য তাঁর মাথায় ও দাড়িতে দেখতে পেতাম। (আধুনিক প্রকাশনী- ৫৪৯১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5923</td></tr><tr><td>Arabic No</td><td>5923</td></tr><tr><td>Reference</td><td>Book 77 Hadith 138</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு, அவர்களிடம் இருந்தவற்றி லேயே நல்ல மணமுடைய வாசனைப் பொருளை நான் பூசிவந்தேன். எந்த அளவுக்கென்றால் அந்த நறுமணப் பொருளின் மினுமினுப்பை அவர்களின் தலையிலும் அவர்களின் தாடியிலும் என்னால் காண முடிந்தது. அத்தியாயம் : 77
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு, அவர்களிடம் இருந்தவற்றி லேயே நல்ல மணமுடைய வாசனைப் பொருளை நான் பூசிவந்தேன். எந்த அளவுக்கென்றால் அந்த நறுமணப் பொருளின் மினுமினுப்பை அவர்களின் தலையிலும் அவர்களின் தாடியிலும் என்னால் காண முடிந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5923</td></tr><tr><td>Arabic No</td><td>5923</td></tr><tr><td>Reference</td><td>Book 77 Hadith 138</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ক্রীতদাস যদি তার মনিবের হিতাকাঙ্ক্ষী হয় এবং তার প্রতিপালকের উত্তমরূপে ইবাদত করে, তাহলে তার সাওয়াব হবে দ্বিগুণ। (২৫৫০) (আধুনিক প্রকাশনীঃ ২৩৬১, ইসলামিক ফাউন্ডেশনঃ ২৩৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ক্রীতদাস যদি তার মনিবের হিতাকাঙ্ক্ষী হয় এবং তার প্রতিপালকের উত্তমরূপে ইবাদত করে, তাহলে তার সাওয়াব হবে দ্বিগুণ। (২৫৫০) (আধুনিক প্রকাশনীঃ ২৩৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2546</td></tr><tr><td>Arabic No</td><td>2546</td></tr><tr><td>Reference</td><td>Book 49 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Nafi'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அடிமை, தன் எசமானுக்கு விசுவாசமாக நடந்து, தன் இறைவனை நன்முறையில் வழிபடுவானாயின் அவனுக்கு இரு முறை(‘னாலும்) நன்மை கிடைக்கும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 49
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அடிமை, தன் எசமானுக்கு விசுவாசமாக நடந்து, தன் இறைவனை நன்முறையில் வழிபடுவானாயின் அவனுக்கு இரு முறை(‘னாலும்) நன்மை கிடைக்கும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2546</td></tr><tr><td>Arabic No</td><td>2546</td></tr><tr><td>Reference</td><td>Book 49 Hadith 29</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Nafi'
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer'den r.a. rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem: "Köle efendisinin iyiliğini ister ve Rabbine güzelce kulluk ederse iki kat mükafat alır" buyurmuştur. Tekrar: 2550
+İbn Ömer'den r.a. rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem: "Köle efendisinin iyiliğini ister ve Rabbine güzelce kulluk ederse iki kat mükafat alır" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2546</td></tr><tr><td>Arabic No</td><td>2546</td></tr><tr><td>Reference</td><td>Book 49 Hadith 29</td></tr></tbody></table></div>
 

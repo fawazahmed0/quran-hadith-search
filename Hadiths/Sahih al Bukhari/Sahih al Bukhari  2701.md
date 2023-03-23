@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) ‘উমরার উদ্দেশে বহির্গত হলেন। কিন্তু কুরাইশ কাফিররা তাঁর ও বাইতুল্লাহর মাঝে বাধা হয়ে দাঁড়াল। তখন তিনি হুদায়বিয়াতে তাঁর হাদী কুরবানী করলেন, তাঁর মাথা মুড়ালেন এবং তাদের সঙ্গে সন্ধি করলেন যে, আগামী বছর তিনি ‘উমরাহ করবেন আর তরবারি ব্যতীত অন্য কোন অস্ত্র বহন করবেন না। আর তারা যতদিন চাইবে তার বেশি সেখানে থাকবেন না। পরের বছর তিনি ‘উমরাহ করলেন এবং তাদের সঙ্গে সন্ধি মুতাবেক প্রবেশ করলেন। তিনি সেখানে তিন দিন অবস্থান করলেন। তারা তাঁকে বেরিয়ে যেতে বললে, তিনি বেরিয়ে গেলেন। (৪২৫২) (আধুনিক প্রকাশনীঃ ২৫০৪, ইসলামিক ফাউন্ডেশনঃ ২৫১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) ‘উমরার উদ্দেশে বহির্গত হলেন। কিন্তু কুরাইশ কাফিররা তাঁর ও বাইতুল্লাহর মাঝে বাধা হয়ে দাঁড়াল। তখন তিনি হুদায়বিয়াতে তাঁর হাদী কুরবানী করলেন, তাঁর মাথা মুড়ালেন এবং তাদের সঙ্গে সন্ধি করলেন যে, আগামী বছর তিনি ‘উমরাহ করবেন আর তরবারি ব্যতীত অন্য কোন অস্ত্র বহন করবেন না। আর তারা যতদিন চাইবে তার বেশি সেখানে থাকবেন না। পরের বছর তিনি ‘উমরাহ করলেন এবং তাদের সঙ্গে সন্ধি মুতাবেক প্রবেশ করলেন। তিনি সেখানে তিন দিন অবস্থান করলেন। তারা তাঁকে বেরিয়ে যেতে বললে, তিনি বেরিয়ে গেলেন। (৪২৫২) (আধুনিক প্রকাশনীঃ ২৫০৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 53 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Rofi'] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் யிஉம்ரா’ செய்யும் நோக்கத்தில் (மக்காவை நோக்கிப்) புறப்பட்டார்கள். அவர்களை குறைஷி இறைமறுப்பாளர்கள் இறை யில்லம் கஅபாவிற்குச் செல்ல விடாமல் தடுத்துவிட்டனர். ஆகவே, நபி (ஸல்) அவர்கள் யிஹுதைபியா’ எனும் இடத்தில் தமது குர்பானி பிராணியை அறுத்து (பலியிட்டு)விட்டுத் தமது தலையை மழித்துக்கொண்டார்கள். மேலும், ‘‘வரும் ஆண்டில், நான் (என் தோழர்களுடன்) உம்ரா செய்ய அனுமதிக் கப்பட வேண்டும்; வாள்களைத் தவிர வேறு ஆயுதங்களை நாங்கள் எடுத்து வரமாட்டோம்; குறைஷியர் விரும்புகின்ற வரை மட்டுமே மக்காவில் தங்கியிருப் போம்” என்னும் நிபந்தனையின் பேரில் குறைஷியருடன் சமாதான ஒப்பந்தம் செய்துகொண்டார்கள். அவர்களிடம் செய்துகொண்ட சமாதான ஒப்பந்தத்தின்படியே (அடுத்த ஆண்டு மக்கா நகரினுள்) நுழைந்தார்கள். அங்கு மூன்று நாட்கள் தங்கி (முடித்து) விட்டபோது, குறைஷியர் நபி (ஸல்) அவர்களை (மக்காவைவிட்டு) வெளி யேறும்படி உத்தரவிட, நபி (ஸல்) அவர்களும் வெளியேறிவிட்டார்கள். அத்தியாயம் : 53
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் யிஉம்ரா’ செய்யும் நோக்கத்தில் (மக்காவை நோக்கிப்) புறப்பட்டார்கள். அவர்களை குறைஷி இறைமறுப்பாளர்கள் இறை யில்லம் கஅபாவிற்குச் செல்ல விடாமல் தடுத்துவிட்டனர். ஆகவே, நபி (ஸல்) அவர்கள் யிஹுதைபியா’ எனும் இடத்தில் தமது குர்பானி பிராணியை அறுத்து (பலியிட்டு)விட்டுத் தமது தலையை மழித்துக்கொண்டார்கள். மேலும், ‘‘வரும் ஆண்டில், நான் (என் தோழர்களுடன்) உம்ரா செய்ய அனுமதிக் கப்பட வேண்டும்; வாள்களைத் தவிர வேறு ஆயுதங்களை நாங்கள் எடுத்து வரமாட்டோம்; குறைஷியர் விரும்புகின்ற வரை மட்டுமே மக்காவில் தங்கியிருப் போம்” என்னும் நிபந்தனையின் பேரில் குறைஷியருடன் சமாதான ஒப்பந்தம் செய்துகொண்டார்கள். அவர்களிடம் செய்துகொண்ட சமாதான ஒப்பந்தத்தின்படியே (அடுத்த ஆண்டு மக்கா நகரினுள்) நுழைந்தார்கள். அங்கு மூன்று நாட்கள் தங்கி (முடித்து) விட்டபோது, குறைஷியர் நபி (ஸல்) அவர்களை (மக்காவைவிட்டு) வெளி யேறும்படி உத்தரவிட, நபி (ஸல்) அவர்களும் வெளியேறிவிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 53 Hadith 11</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Muhammad bin Rofi'] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Ömer r.a.'den nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem umre yapmak için yola çıktı. Kureyş müşrikleri onun Beytullah'a gitmesine engel oldular. Bunun üzerine Hz. Nebi Hudeybiye'de kurbanını kesti, başını tıraş etti ve umreyi ertesi yıl yapmak, yanında kılıç dışında silah taşımamak ve onların istediği süreden daha uzun kalmamak üzere Mekkelilerle anlaştı. Ertesi yıl umre yaptı ve Mekke'ye anlaşmaya uygun şekilde girdi. Orada üç gün kalınca Mekkeliler, artık çıkmasını istediler ve o da çıktı. Tekrar: 4252
+Abdullah b. Ömer r.a.'den nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem umre yapmak için yola çıktı. Kureyş müşrikleri onun Beytullah'a gitmesine engel oldular. Bunun üzerine Hz. Nebi Hudeybiye'de kurbanını kesti, başını tıraş etti ve umreyi ertesi yıl yapmak, yanında kılıç dışında silah taşımamak ve onların istediği süreden daha uzun kalmamak üzere Mekkelilerle anlaştı. Ertesi yıl umre yaptı ve Mekke'ye anlaşmaya uygun şekilde girdi. Orada üç gün kalınca Mekkeliler, artık çıkmasını istediler ve o da çıktı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 53 Hadith 11</td></tr></tbody></table></div>
 

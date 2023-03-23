@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবনু সিনান .... আয়িশা (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম হতে হাদীছের অনুরূপ বর্ণনা করেছেন। ইমাম আবূ দাউদ (রহঃ) বলেন, আদী ইবনু ছাবেত, আমাশ ও আইউবের হাদীছটি দুর্বল। আয়িশা (রাঃ) হতে অন্য একটি বর্ণনায় উল্লেখ আছে যে, ইস্তেহাযাগ্রস্ত মহিলাদের প্রত্যেক নামাযের পূর্বে গোসল করতে হবে। অপর এক বর্ণনায় আছে, প্রত্যেক নামাযের সময় উযূ (ওজু/অজু/অযু) করতে হবে। অপর এক বর্ণনায় আছে, ইস্তেহাযাগ্রস্থ মহিলাদের প্রত্যেহ একবার গোসল করতে হবে। হিশাম ইবনু উরওয়া (রহঃ) তাঁর পিতার সূত্রে ইস্তেহাযাগ্রস্ত মহিলাদের ব্যাপারে বর্ণনা করেছেন যে, তাদের প্রত্যেক নামাযের পূর্বে উযূ করতে হবে। ইমাম আবূ দাউদ (রহঃ) এর বর্ণনা মতে এই হাদীছের সনদ দুর্বল।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>300</td></tr><tr><td>Arabic No</td><td>300</td></tr><tr><td>Reference</td><td>Book 1 Hadith 300</td></tr></tbody></table></div>
 

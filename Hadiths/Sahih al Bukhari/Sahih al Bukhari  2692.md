@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু কুলসুম বিনতে ‘উকবাহ (রাঃ) হতে বর্ণিত যে, তিনি আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে বলতে শুনেছেন, সে ব্যক্তি মিথ্যাচারী নয়, যে মানুষের মধ্যে মীমাংসা করার জন্য ভালো কথা পৌঁছে দেয় কিংবা ভালো কথা বলে। (মুসলিম ৪৫/২৭ হাঃ ২৬০৫, আহমাদ ২৭৩৪১) (আধুনিক প্রকাশনীঃ ২৪৯৭, ইসলামিক ফাউন্ডেশনঃ ২৫১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু কুলসুম বিনতে ‘উকবাহ (রাঃ) হতে বর্ণিত যে, তিনি আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে বলতে শুনেছেন, সে ব্যক্তি মিথ্যাচারী নয়, যে মানুষের মধ্যে মীমাংসা করার জন্য ভালো কথা পৌঁছে দেয় কিংবা ভালো কথা বলে। (মুসলিম ৪৫/২৭ হাঃ ২৬০৫, আহমাদ ২৭৩৪১) (আধুনিক প্রকাশনীঃ ২৪৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2692</td></tr><tr><td>Arabic No</td><td>2692</td></tr><tr><td>Reference</td><td>Book 53 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdul 'aziz bin 'Abdullah] telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மக்களிடையே சமாதானம் செய்து வைப்பவர் பொய்யர் அல்லர். அவர் (இங்கும் அங்கும்) நல்லதை லிபுனைந்துலி கூறுகிறார். இதை உம்மு குல்ஸூம் பின்த் உக்பா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 53
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மக்களிடையே சமாதானம் செய்து வைப்பவர் பொய்யர் அல்லர். அவர் (இங்கும் அங்கும்) நல்லதை லிபுனைந்துலி கூறுகிறார். இதை உம்மு குல்ஸூம் பின்த் உக்பா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2692</td></tr><tr><td>Arabic No</td><td>2692</td></tr><tr><td>Reference</td><td>Book 53 Hadith 3</td></tr></tbody></table></div>
 

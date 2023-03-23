@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইবনু ওয়াহব (রহঃ) বলেন, আমি ইমাম মালিক (রহঃ)-এর নিকট বলতে শুনেছি প্রবৃত্তির পূজারীরা আমাদের বিরুদ্ধে উপরোক্ত হাদীস দলীল হিসেবে পেশ করে থাকে। তারা বলে যে, নাবালেগ অবস্থায় মারা গেছে এমন সন্তান সম্পর্কে আপনার মতামত কি? তিনি বলেনঃ তারা কিরূপ আমল করতো তা আল্লাহই ভালো জানেন।[1] সনদ সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4715</td></tr><tr><td>Arabic No</td><td>4715</td></tr><tr><td>Reference</td><td>Book 42 Hadith 120</td></tr></tbody></table></div>
 

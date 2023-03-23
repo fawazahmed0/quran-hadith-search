@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১২২৩, আন্তর্জাতিক নাম্বারঃ ৫৯২ ১২২৩-(.../...) ইবনু নুময়ের (রহঃ) .... ‘আসিম (রহঃ)-এর মাধ্যমে একই সানাদে হাদীসটি বর্ণনা করেছেন। তবে এতে তিনি يَا ذَا الْجَلاَلِ وَالإِكْرَامِ উল্লেখ করেছেন। (ইসলামী ফাউন্ডেশন ১২১২, ইসলামীক সেন্টার ১২২৪)
+ইবনু নুময়ের (রহঃ) .... ‘আসিম (রহঃ)-এর মাধ্যমে একই সানাদে হাদীসটি বর্ণনা করেছেন। তবে এতে তিনি يَا ذَا الْجَلاَلِ وَالإِكْرَامِ উল্লেখ করেছেন। (ইসলামী ফাউন্ডেশন ১২১২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1336</td></tr><tr><td>Arabic No</td><td>592.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 173</td></tr></tbody></table></div>
 

@@ -72,7 +72,7 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Kuteybe b. Said tahdis etti. Bize Leys tahdis etti. (H) Bize Muhammed b. Rumh da tahdis etti. Bize el-Leys, İbn Şihab'dan haber verdi. Onun İbnu'l-Müseyyeb'den rivayet ettiğine göre o Ebu Hureyre'yi şöyle derken dinlemiştir: - Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Nefsim elinde olana yemin ederim ki fazla bir zaman geçmeden Meryem oğlu aranızda adaletle hükmeden bir hakem olarak inecek. Haç'ı kıracak, domuzu öldürecek, cizyeyi kaldıracaktır. Mal da hiç kimse onu kabul etmeyecek kadar çoğalacaktır. " Diğer tahric: Buhari, 2222; Tirmizi, 2233; Tuhfetu'l-Eşraf, 13228
+Bize Kuteybe b. Said tahdis etti. Bize Leys tahdis etti. (H) Bize Muhammed b. Rumh da tahdis etti. Bize el-Leys, İbn Şihab'dan haber verdi. Onun İbnu'l-Müseyyeb'den rivayet ettiğine göre o Ebu Hureyre'yi şöyle derken dinlemiştir: - Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Nefsim elinde olana yemin ederim ki fazla bir zaman geçmeden Meryem oğlu aranızda adaletle hükmeden bir hakem olarak inecek. Haç'ı kıracak, domuzu öldürecek, cizyeyi kaldıracaktır. Mal da hiç kimse onu kabul etmeyecek kadar çoğalacaktır. " Diğer tahric: Buhari, 2222; Tirmizi, 2233; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>389</td></tr><tr><td>Arabic No</td><td>155.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 294</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩২৪১, আন্তর্জাতিক নাম্বারঃ ১৩৭৯ ৩২৪১-(৪৮৫/১৩৭৯) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মদীনার প্রবেশ পথে মালায়িকাহ প্রহরারত। তথায় মহামারী ও দাজ্জাল প্রবেশ করতে পারবে না। (ইসলামিক ফাউন্ডেশন ৩২১৬, ইসলামীক সেন্টার ৩২১৩)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মাদীনার প্রবেশ পথে মালায়িকাহ প্রহরারত। তথায় মহামারী ও দাজ্জাল প্রবেশ করতে পারবে না। (ইসলামিক ফাউন্ডেশন ৩২১৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>1379</td></tr><tr><td>Reference</td><td>Book 15 Hadith 554</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மதீனாவின் நுழைவாயில்களில் வானவர்கள் இருப்பர். மதீனாவிற்குள் கொள்ளை நோயும் தஜ்ஜாலும் நுழைய முடியாது.- இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 15
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மதீனாவின் நுழைவாயில்களில் வானவர்கள் இருப்பர். மதீனாவிற்குள் கொள்ளை நோயும் தஜ்ஜாலும் நுழைய முடியாது.- இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>1379</td></tr><tr><td>Reference</td><td>Book 15 Hadith 554</td></tr></tbody></table></div>
 

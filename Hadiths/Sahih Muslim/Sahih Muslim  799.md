@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৮৫, আন্তর্জাতিক নাম্বারঃ ৩৫৮ ৬৮৫-(.../...) আহমাদ ইবনু ঈসা (রহঃ), যুহায়র ইবনু হারব, হারমালাহ ইবনু ইয়াহইয়া প্রত্যেকেই ইবনু শিহাব থেকে উকায়ল এর সনদে যুহরী থেকে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৬৮৪, ইসলামিক সেন্টারঃ ৬৯৯)
+আহমাদ ইবনু ঈসা (রহঃ), যুহায়র ইবনু হারব, হারমালাহ ইবনু ইয়াহইয়া প্রত্যেকেই ইবনু শিহাব থেকে উকায়ল এর সনদে যুহরী থেকে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৬৮৪, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>799</td></tr><tr><td>Arabic No</td><td>358.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 120</td></tr></tbody></table></div>
 

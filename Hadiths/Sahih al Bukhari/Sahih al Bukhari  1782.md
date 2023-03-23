@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক আনসারী মহিলাকে বললেনঃ আমাদের সঙ্গে হাজ্জ করতে তোমার বাধা কিসের? ইবনু ‘আব্বাস (রাঃ) মহিলার নাম বলেছিলেন কিন্তু আমি ভুলে গিয়েছি। মহিলা বলল, আমাদের একটি পানি বহনকারী উট ছিল। কিন্তু তাতে অমুকের পিতা ও তার পুত্র (অর্থাৎ মহিলার স্বামী ও ছেলে) আরোহণ করে চলে গেছেন। আর আমাদের জন্য রেখে গেছেন পানি বহনকারী আরেকটি উট যার দ্বারা আমরা পানি বহন করে থাকি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আচ্ছা, রমাযান এলে তখন ‘উমরাহ করে নিও। কেননা, রমযানের একটি ‘উমরাহ একটি হাজ্জের সমতুল্য। অথবা এরূপ কোন কথা তিনি বলেছিলেন। (১৮৬৩, মুসলিম ১৫/৩৬, হাঃ ১২৫৬, আহমাদ ২০২৫) (আধুনিক প্রকাশনীঃ ১৬৫৫. ইসলামিক ফাউন্ডেশনঃ ১৬৬৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক আনসারী মহিলাকে বললেনঃ আমাদের সঙ্গে হাজ্জ করতে তোমার বাধা কিসের? ইবনু ‘আব্বাস (রাঃ) মহিলার নাম বলেছিলেন কিন্তু আমি ভুলে গিয়েছি। মহিলা বলল, আমাদের একটি পানি বহনকারী উট ছিল। কিন্তু তাতে অমুকের পিতা ও তার পুত্র (অর্থাৎ মহিলার স্বামী ও ছেলে) আরোহণ করে চলে গেছেন। আর আমাদের জন্য রেখে গেছেন পানি বহনকারী আরেকটি উট যার দ্বারা আমরা পানি বহন করে থাকি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আচ্ছা, রমাযান এলে তখন ‘উমরাহ করে নিও। কেননা, রমযানের একটি ‘উমরাহ একটি হাজ্জের সমতুল্য। অথবা এরূপ কোন কথা তিনি বলেছিলেন। (১৮৬৩, মুসলিম ১৫/৩৬, হাঃ ১২৫৬, আহমাদ ২০২৫) (আধুনিক প্রকাশনীঃ ১৬৫৫. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அன்சாரிப் பெண்களில் ஒருவரிடம், -“இப்னு அப்பாஸ் (ரலி) அவர்கள் அப்பெண்ணின் பெயரைக் குறிப்பிட்டார்கள்; நான் அதை மறந்துவிட்டேன்” என அவரிடமிருந்து அறிவிக்கும் அதாஉ (ரஹ்) அவர்கள் கூறுகிறார்- “நீ ஏன் எங்களுடன் ஹஜ் செய்யவில்லை?” எனக் கேட்டார்கள். அதற்கு அப்பெண்மணி, “எங்களிடம் இருந்த நீர் இறைப்பதற்கான (இரு ஒட்டகங்களில்) ஓர் ஒட்டகத்தில் இன்னா ரின் தந்தையும் அவருடைய மகனும் (என் கணவரும் மகனும் ஹஜ்ஜுக்கு) ஏறிச் சென்றுவிட்டனர்; மற்றோர் ஒட்டகத்தை அவர் விட்டுச்சென்றுள்ளார். அதன் மூலம் நாங்கள் நீர் இறைத்துக்கொண்டிருக்கி றோம்” என்றார். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “ரமளான் வந்துவிட்டால் அதில் நீ உம்ரா செய்துகொள். ஏனெனில், ரமளானில் உம்ரா செய்வது ஹஜ்ஜாகும்” என்றோ, அல்லது அதைப் போன்றோ கூறினார்கள். அத்தியாயம் : 26
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அன்சாரிப் பெண்களில் ஒருவரிடம், -“இப்னு அப்பாஸ் (ரலி) அவர்கள் அப்பெண்ணின் பெயரைக் குறிப்பிட்டார்கள்; நான் அதை மறந்துவிட்டேன்” என அவரிடமிருந்து அறிவிக்கும் அதாஉ (ரஹ்) அவர்கள் கூறுகிறார்- “நீ ஏன் எங்களுடன் ஹஜ் செய்யவில்லை?” எனக் கேட்டார்கள். அதற்கு அப்பெண்மணி, “எங்களிடம் இருந்த நீர் இறைப்பதற்கான (இரு ஒட்டகங்களில்) ஓர் ஒட்டகத்தில் இன்னா ரின் தந்தையும் அவருடைய மகனும் (என் கணவரும் மகனும் ஹஜ்ஜுக்கு) ஏறிச் சென்றுவிட்டனர்; மற்றோர் ஒட்டகத்தை அவர் விட்டுச்சென்றுள்ளார். அதன் மூலம் நாங்கள் நீர் இறைத்துக்கொண்டிருக்கி றோம்” என்றார். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “ரமளான் வந்துவிட்டால் அதில் நீ உம்ரா செய்துகொள். ஏனெனில், ரமளானில் உம்ரா செய்வது ஹஜ்ஜாகும்” என்றோ, அல்லது அதைப் போன்றோ கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem ensar'dan bir kadına: "Bizimle hac yapmana engel olan şey nedir?" diye sordu. Kadın şöyle dedi: Bizim bir devemiz vardı. Falan ve oğlu (yani kocam ve oğlum) o deveye bindiler. (Kocam) geriye su taşıdığımız şu deveyi bıraktı. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Öyleyse Ramazan gelince Ramazanda umre yap. Çünkü Ramazan'da bir umre bir hacdır". Tekrar: 1863
+İbn Abbas r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem ensar'dan bir kadına: "Bizimle hac yapmana engel olan şey nedir?" diye sordu. Kadın şöyle dedi: Bizim bir devemiz vardı. Falan ve oğlu (yani kocam ve oğlum) o deveye bindiler. (Kocam) geriye su taşıdığımız şu deveyi bıraktı. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Öyleyse Ramazan gelince Ramazanda umre yap. Çünkü Ramazan'da bir umre bir hacdır". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
 

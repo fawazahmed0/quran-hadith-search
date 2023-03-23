@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, এক দরজী খাবার তৈরী করে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দাওয়াত করলেন। আনাস ইবনু মালিক (রাঃ) বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সামনে রুটি এবং ঝোল যাতে লাউ ও গোশতের টুকরা ছিল, পেশ করলেন। আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দেখতে পেলাম যে, পেয়ালার কিনারা হতে তিনি লাউয়ের টুকরা খোঁজ করে নিচ্ছেন। সেদিন হতে আমি সব সময় লাউ ভালবাসতে থাকি। (৫৩৭৯, ৫৪২০, ৫৪৩৩, ৫৪৩৫, ৪৫৩৭, ৫৪৩৯, মুসলিম ৩৬/২১, হাঃ ২০৪১, আহমাদ ১২৮৬১) (আধুনিক প্রকাশনীঃ ১৯৪৭ , ইসলামিক ফাউন্ডেশনঃ ১৯৬২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, এক দরজী খাবার তৈরী করে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দাওয়াত করলেন। আনাস ইবনু মালিক (রাঃ) বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সামনে রুটি এবং ঝোল যাতে লাউ ও গোশতের টুকরা ছিল, পেশ করলেন। আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দেখতে পেলাম যে, পেয়ালার কিনারা হতে তিনি লাউয়ের টুকরা খোঁজ করে নিচ্ছেন। সেদিন হতে আমি সব সময় লাউ ভালবাসতে থাকি। (৫৩৭৯, ৫৪২০, ৫৪৩৩, ৫৪৩৫, ৪৫৩৭, ৫৪৩৯, মুসলিম ৩৬/২১, হাঃ ২০৪১, আহমাদ ১২৮৬১) (আধুনিক প্রকাশনীঃ ১৯৪৭ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2092</td></tr><tr><td>Arabic No</td><td>2092</td></tr><tr><td>Reference</td><td>Book 34 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: ஒரு தையல்காரர் தாம் தயாரித்த விருந்துக்காக அல்லாஹ்வின் தூதர் (ஸல்) அவர்களை அழைத்தார். நானும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் அந்த விருந்துக்குச் சென்றேன். அவர் ரொட்டியையும் சுரைக்காயும் உப்புக் கண்டமும் உள்ள குழம்பையும் அல்லாஹ் வின் தூதர் (ஸல்) அவர்களின் முன்னே வைத்தார்: நபி (ஸல்) அவர்கள் தட்டைச் சுற்றிலும் சுரைக்காயைத் தேடுவதை நான் பார்த்தேன். அன்றிலிருந்து நானும் சுரைக்காயை விரும்பி(ச் சாப்பிட்டு)க் கொண்டே இருக்கிறேன். அத்தியாயம் : 34
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: ஒரு தையல்காரர் தாம் தயாரித்த விருந்துக்காக அல்லாஹ்வின் தூதர் (ஸல்) அவர்களை அழைத்தார். நானும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் அந்த விருந்துக்குச் சென்றேன். அவர் ரொட்டியையும் சுரைக்காயும் உப்புக் கண்டமும் உள்ள குழம்பையும் அல்லாஹ் வின் தூதர் (ஸல்) அவர்களின் முன்னே வைத்தார்: நபி (ஸல்) அவர்கள் தட்டைச் சுற்றிலும் சுரைக்காயைத் தேடுவதை நான் பார்த்தேன். அன்றிலிருந்து நானும் சுரைக்காயை விரும்பி(ச் சாப்பிட்டு)க் கொண்டே இருக்கிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2092</td></tr><tr><td>Arabic No</td><td>2092</td></tr><tr><td>Reference</td><td>Book 34 Hadith 45</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik r.a. şöyle demiştir: Bir demirci, yemek hazırlayarak Nebii Sallallahu Aleyhi ve Sellem'İ yemeğe davet etti. Ben de Resulullah Sallallahu Aleyhi ve Sellem ile birlikte bu yemeğe gittim. Hz. Nebi'in Sallallahu Aleyhi ve Sellem önüne ekmek, kabak çorbası ve kurutulmuş et konuldu. Ben, Hz. Nebi'in tabağın içinde kabakları araştırdığını gördüm. O günden beri kabağı severim. Tekrar: 5379, 5433, 5435, 5436, 5437, 5439
+Enes İbn Malik r.a. şöyle demiştir: Bir demirci, yemek hazırlayarak Nebii Sallallahu Aleyhi ve Sellem'İ yemeğe davet etti. Ben de Resulullah Sallallahu Aleyhi ve Sellem ile birlikte bu yemeğe gittim. Hz. Nebi'in Sallallahu Aleyhi ve Sellem önüne ekmek, kabak çorbası ve kurutulmuş et konuldu. Ben, Hz. Nebi'in tabağın içinde kabakları araştırdığını gördüm. O günden beri kabağı severim. Tekrar: 5379
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2092</td></tr><tr><td>Arabic No</td><td>2092</td></tr><tr><td>Reference</td><td>Book 34 Hadith 45</td></tr></tbody></table></div>
 

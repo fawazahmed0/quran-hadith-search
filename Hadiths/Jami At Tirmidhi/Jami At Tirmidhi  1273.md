@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১২৭৩৷ ইবনু উমর (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, পাল দেওয়ার উদ্দেশ্যে ষাঁড় প্রদান করে মজুরি নিতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন। সহীহ, বেচা-কেনার হাদীস, বুখারী আবূ হুরাইরা, আনাস ও আবূ সাঈদ (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। ইবনু উমর (রাঃ) হতে বর্ণিত হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। এ হাদীসের সমর্থনে একদল আলিম মত দিয়েছেন। পাল দেওয়ার বিনিময়ে পুরস্কার গ্রহণের পক্ষে অন্য একদল আলিম অনুমতি প্রদান করেছেন।
+ইবনু উমর (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, পাল দেওয়ার উদ্দেশ্যে ষাঁড় প্রদান করে মজুরি নিতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন। সহীহ, বেচা-কেনার হাদীস, বুখারী আবূ হুরাইরা, আনাস ও আবূ সাঈদ (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। ইবনু উমর (রাঃ) হতে বর্ণিত হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। এ হাদীসের সমর্থনে একদল আলিম মত দিয়েছেন। পাল দেওয়ার বিনিময়ে পুরস্কার গ্রহণের পক্ষে অন্য একদল আলিম অনুমতি প্রদান করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1273</td></tr><tr><td>Arabic No</td><td>1273</td></tr><tr><td>Reference</td><td>Book 14 Hadith 75</td></tr></tbody></table></div>
 

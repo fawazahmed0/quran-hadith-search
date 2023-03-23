@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা জুমু‘আহর সালাতের পরেই ‘কা-ইলাহ’ করতাম এবং দুপুরের খাদ্য গ্রহণ করতাম। [৯৩৮] (আধুনিক প্রকাশনী- ৫৮৩৭, ইসলামিক ফাউন্ডেশন- ৫৭৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা জুমু‘আহর সালাতের পরেই ‘কা-ইলাহ’ করতাম এবং দুপুরের খাদ্য গ্রহণ করতাম। [৯৩৮] (আধুনিক প্রকাশনী- ৫৮৩৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6279</td></tr><tr><td>Arabic No</td><td>6279</td></tr><tr><td>Reference</td><td>Book 79 Hadith 53</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (வெள்ளிக்கிழமை) ஜுமுஆ தொழுகைக்குப் பின்னால்தான் மதிய ஓய்வு எடுப்போம்; காலை உணவு உட்கொள்வோம்61 அத்தியாயம் : 79
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (வெள்ளிக்கிழமை) ஜுமுஆ தொழுகைக்குப் பின்னால்தான் மதிய ஓய்வு எடுப்போம்; காலை உணவு உட்கொள்வோம்61 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6279</td></tr><tr><td>Arabic No</td><td>6279</td></tr><tr><td>Reference</td><td>Book 79 Hadith 53</td></tr></tbody></table></div>
 

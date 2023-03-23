@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৯২৪, আন্তর্জাতিক নাম্বারঃ ২৭৭৬ ৬৯২৪-(৬/২৭৭৬) উবাইদুল্লাহ ইবনু মু’আয আল আম্বারী (রহঃ) ..... যায়দ ইবনু সাবিত (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উহুদ যুদ্ধের জন্যে বের হলেন। এমন সময় কতক লোক রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সফরসঙ্গী হয়েও ফিরে আসলো। তাদের সম্পর্কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহাবাগণ দু’দলে ভাগ হয়ে গেল। কেউ বলল, আমরা তাদেরকে হত্যা করে ফেলব; আর কেউ বলল, আমরা তাদের হত্যা করব না। তখন অবতীর্ণ হলো, "তোমাদের কি হলো যে, তোমরা মুনাফিকদের ব্যাপারে দু’দলে ভাগ হয়ে গেলে?" (সূরা আন নিসা ৪ঃ ৮৮)। (ইসলামিক ফাউন্ডেশন ৬৭৭৪, ইসলামিক সেন্টার ৬৮২৯)
+উবাইদুল্লাহ ইবনু মু’আয আল আম্বারী (রহঃ) ..... যায়দ ইবনু সাবিত (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উহুদ যুদ্ধের জন্যে বের হলেন। এমন সময় কতক লোক রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সফরসঙ্গী হয়েও ফিরে আসলো। তাদের সম্পর্কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহাবাগণ দু’দলে ভাগ হয়ে গেল। কেউ বলল, আমরা তাদেরকে হত্যা করে ফেলব; আর কেউ বলল, আমরা তাদের হত্যা করব না। তখন অবতীর্ণ হলো, "তোমাদের কি হলো যে, তোমরা মুনাফিকদের ব্যাপারে দু’দলে ভাগ হয়ে গেলে?" (সূরা আন নিসা ৪ঃ ৮৮)। (ইসলামিক ফাউন্ডেশন ৬৭৭৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7031</td></tr><tr><td>Arabic No</td><td>2776.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 8</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zaid b. Thabit reported that Allah's Apostle (ﷺ) set out for Uhud. Some of those persons who were with them came back. The Companions of Allah's Apostle (ﷺ) were divided in two groups. One group said:We would kill them, and the other one said: No, this should not be done, and it was on this occasion that this verse was revealed:" Why should you, then, be two parties in relation to hypocrites?" (iv. 88)
+Zaid b. Thabit reported that Allah's Apostle (ﷺ) set out for Uhud. Some of those persons who were with them came back. The Companions of Allah's Apostle (ﷺ) were divided in two groups. One group said:We would kill them, and the other one said: No, this should not be done, and it was on this occasion that this verse was revealed:" Why should you, then, be two parties in relation to hypocrites?" (iv)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7031</td></tr><tr><td>Arabic No</td><td>2776.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 8</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸைத் பின் ஸாபித் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் உஹுது(ப் போரு)க்காகப் புறப்பட்டுச் சென்றபோது, அவர்களுடனிருந்தவர்களில் சிலர் (நயவஞ்சகர்கள்) திரும்பி வந்துவிட்டனர். (இவர்கள்மீது என்ன நடவடிக்கை எடுப்பது என்பது தொடர்பாக) நபித்தோழர்கள் இரு பிரிவினராகப் பிரிந்துவிட்டார்கள். அவர்களில் சிலர், "அ(வ்வாறு திரும்பிச் சென்ற)வர்களைக் கொன்றுவிடுவோம்" என்று கூறினர். வேறுசிலர், "இல்லை (அவர்களைக் கொல்லவேண்டாம்)" என்று கூறினர். அப்போதுதான் "உங்களுக்கு என்ன நேர்ந்துவிட்டது? நயவஞ்சகர்கள் விஷயத்தில் நீங்கள் இரு பிரிவினர்களாக உள்ளீர்கள்" (4:88) எனும் வசனத்தை அல்லாஹ் அருளினான். - மேற்கண்ட ஹதீஸ் ஸைத் பின் ஸாபித் (ரலி) அவர்களிடமிருந்தே மேலும் இரு அறிவிப்பாளர் தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 50
+ஸைத் பின் ஸாபித் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் உஹுது(ப் போரு)க்காகப் புறப்பட்டுச் சென்றபோது, அவர்களுடனிருந்தவர்களில் சிலர் (நயவஞ்சகர்கள்) திரும்பி வந்துவிட்டனர். (இவர்கள்மீது என்ன நடவடிக்கை எடுப்பது என்பது தொடர்பாக) நபித்தோழர்கள் இரு பிரிவினராகப் பிரிந்துவிட்டார்கள். அவர்களில் சிலர், "அ(வ்வாறு திரும்பிச் சென்ற)வர்களைக் கொன்றுவிடுவோம்" என்று கூறினர். வேறுசிலர், "இல்லை (அவர்களைக் கொல்லவேண்டாம்)" என்று கூறினர். அப்போதுதான் "உங்களுக்கு என்ன நேர்ந்துவிட்டது? நயவஞ்சகர்கள் விஷயத்தில் நீங்கள் இரு பிரிவினர்களாக உள்ளீர்கள்" (4:88) எனும் வசனத்தை அல்லாஹ் அருளினான். - மேற்கண்ட ஹதீஸ் ஸைத் பின் ஸாபித் (ரலி) அவர்களிடமிருந்தே மேலும் இரு அறிவிப்பாளர் தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7031</td></tr><tr><td>Arabic No</td><td>2776.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 8</td></tr></tbody></table></div>
 

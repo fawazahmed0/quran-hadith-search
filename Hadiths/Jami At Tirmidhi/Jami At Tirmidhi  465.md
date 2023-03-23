@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪৬৫। আবু সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি বিতরের নামায না আদায় করে ঘুমিয়ে পড়ল অথবা তা আদায় করতে ভুলে গেল সে যেন মনে হওয়ার সাথে সাথে অথবা ঘুম হতে উঠার সাথে সাথে তা আদায় করে নেয়। —সহীহ। ইবনু মাজাহ– (১১৮৮)।
+। আবু সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি বিতরের নামায না আদায় করে ঘুমিয়ে পড়ল অথবা তা আদায় করতে ভুলে গেল সে যেন মনে হওয়ার সাথে সাথে অথবা ঘুম হতে উঠার সাথে সাথে তা আদায় করে নেয়। —সহীহ। ইবনু মাজাহ– (১১৮৮)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>465</td></tr><tr><td>Arabic No</td><td>465</td></tr><tr><td>Reference</td><td>Book 3 Hadith 13</td></tr></tbody></table></div>
 

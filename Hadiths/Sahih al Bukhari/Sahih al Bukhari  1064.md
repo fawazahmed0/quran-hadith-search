@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্‌ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূর্যগ্রহণের সময় লোকদের নিয়ে দু’রাক‘আতে চার রুকূ‘ সহ সালাত আদায় করেন। প্রথমটি (দ্বিতীয় রাক‘আতের চেয়ে) দীর্ঘস্থায়ী ছিল। (১০৪৪) (আধুনিক প্রকাশনীঃ ৯৯৯, ইসলামিক ফাউন্ডেশনঃ ১০০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্‌ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূর্যগ্রহণের সময় লোকদের নিয়ে দু’রাক‘আতে চার রুকূ‘ সহ সালাত আদায় করেন। প্রথমটি (দ্বিতীয় রাক‘আতের চেয়ে) দীর্ঘস্থায়ী ছিল। (১০৪৪) (আধুনিক প্রকাশনীঃ ৯৯৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1064</td></tr><tr><td>Arabic No</td><td>1064</td></tr><tr><td>Reference</td><td>Book 16 Hadith 23</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mahmud bin Ghoilan] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்களுக்குச் சூரிய கிரகணத் தொழுகை தொழுவித்த போது, இரண்டு ரக்அத்களில் நான்கு ருகூஉகள் செய்தார்கள். அதில் முந்திய முந்திய ருகூஉகள் (அடுத்தடுத்த ருகூஉ களைவிட) நீளமானவையாக இருந்தன. அத்தியாயம் : 16
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்களுக்குச் சூரிய கிரகணத் தொழுகை தொழுவித்த போது, இரண்டு ரக்அத்களில் நான்கு ருகூஉகள் செய்தார்கள். அதில் முந்திய முந்திய ருகூஉகள் (அடுத்தடுத்த ருகூஉ களைவிட) நீளமானவையாக இருந்தன. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1064</td></tr><tr><td>Arabic No</td><td>1064</td></tr><tr><td>Reference</td><td>Book 16 Hadith 23</td></tr></tbody></table></div>
 

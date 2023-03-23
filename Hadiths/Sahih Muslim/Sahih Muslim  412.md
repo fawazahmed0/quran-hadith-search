@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩০১, আন্তর্জাতিক নাম্বারঃ ১৬২ ৩০১-(২৬০/...) আবদুল্লাহ ইবনু হাশিম আল আবদী (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আমার নিকট ফেরেশতা আসলেন এবং তারা আমাকে নিয়ে যমযমে গেলেন। আমার বুক চিরে ফেলা হল। তারপর যমযমের পানি দিয়ে আমাকে গোসল করানো হল। এরপর নির্ধারিত স্থানে আমাকে ফিরিয়ে আনা হল। (ইসলামিক ফাউন্ডেশনঃ ৩০৯, ইসলামিক সেন্টারঃ ৩২০)
+আবদুল্লাহ ইবনু হাশিম আল আবদী (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আমার নিকট ফেরেশতা আসলেন এবং তারা আমাকে নিয়ে যমযমে গেলেন। আমার বুক চিরে ফেলা হল। তারপর যমযমের পানি দিয়ে আমাকে গোসল করানো হল। এরপর নির্ধারিত স্থানে আমাকে ফিরিয়ে আনা হল। (ইসলামিক ফাউন্ডেশনঃ ৩০৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>412</td></tr><tr><td>Arabic No</td><td>162.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 317</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abdullah bin Hasyim al-Abdi] telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என்னை அ(ந்த வான)வர்கள் ஸம்ஸம் கிணற்றுக்குக் கொண்டுசென்றார்கள். என் நெஞ்சைப் பிளந்து, (இதயத்தை வெளியிலெடுத்து) ஸம்ஸம் கிணற்றின் நீரால் (என் இதயம்) கழுவப்பட்டது. பிறகு மீண்டும் (அதே இடத்திற்கு) நான் கொண்டுவந்து விடப்பட்டேன். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 1
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என்னை அ(ந்த வான)வர்கள் ஸம்ஸம் கிணற்றுக்குக் கொண்டுசென்றார்கள். என் நெஞ்சைப் பிளந்து, (இதயத்தை வெளியிலெடுத்து) ஸம்ஸம் கிணற்றின் நீரால் (என் இதயம்) கழுவப்பட்டது. பிறகு மீண்டும் (அதே இடத்திற்கு) நான் கொண்டுவந்து விடப்பட்டேன். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>412</td></tr><tr><td>Arabic No</td><td>162.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 317</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abdullah bin Hasyim al-Abdi] telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Abdullah b. Haşim El-Abdi rivayet etti. (Dedi ki): Bize Behz b. Esed rivayet etti. (Dediki): Bize Süleyman b. El-Mugira rivayet etti. (Dedi ki): Bize Sabit, Enes b. Malik'ten şöyle dediğini tahdis etti: Resulullah (Sallallahu aleyhi ve Sellem): Yanıma gelindi, (gelenler) beni Zemzeme götürdü, göğsüm açıldı, sonra Zemzem suyu ile yıkandı, sonra (yerime) indirildim. Yalnız Müslim rivayet etmiştir; Tuhfetu'l~Eşraf, 413
+Bana Abdullah b. Haşim El-Abdi rivayet etti. (Dedi ki): Bize Behz b. Esed rivayet etti. (Dediki): Bize Süleyman b. El-Mugira rivayet etti. (Dedi ki): Bize Sabit, Enes b. Malik'ten şöyle dediğini tahdis etti: Resulullah (Sallallahu aleyhi ve Sellem): Yanıma gelindi, (gelenler) beni Zemzeme götürdü, göğsüm açıldı, sonra Zemzem suyu ile yıkandı, sonra (yerime) indirildim. Yalnız Müslim rivayet etmiştir; Tuhfetu'l~Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>412</td></tr><tr><td>Arabic No</td><td>162.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 317</td></tr></tbody></table></div>
 

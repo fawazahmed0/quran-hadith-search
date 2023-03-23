@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯৪৩, আন্তর্জাতিক নাম্বারঃ ১৫৮২ ৩৯৪৩-(.../...) উমাইয়্যাহ্ ইবনু বিস্‌তাম (রহঃ) ..... আমর ইবনু দীনার (রহঃ) হতে উক্ত সানাদে উল্লিখিত রূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৯০৬, ইসলামিক সেন্টার ৩৯০৫)
+উমাইয়্যাহ্ ইবনু বিস্‌তাম (রহঃ) ..... আমর ইবনু দীনার (রহঃ) হতে উক্ত সানাদে উল্লিখিত রূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৯০৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>1582.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 90</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্বাস ইবন আবদুল আযীম (রহঃ) .... উছমান ইবন আবী সুলায়মান (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খালিদ ইবন ওয়ালীদ (রাঃ) কে দুমার শাসক উকায়দারের নিকট প্রেরণ করেন। তখন খালিদ ও তাঁর সঙ্গিরা তাঁকে গ্রেফতার করে তাঁর নিকট নিয়ে আসে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মৃত্যুদণ্ড মওকূফ করেন এবং জিযিয়া কর দেওয়ার শর্তে তাঁর সাথে সন্ধি করেন।
+। আনাস ইবনু মালিক ও উসমান ইবনু আবূ সুলাইমান (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খালিদ ইবনুল ওয়ালীদকে দূমাতুল জান্দালের শাসক উকাইদির ইবনু আব্দুল মালিকের বিরুদ্ধে অভিযানে পাঠালেন। সাহাবীরা তাকে গ্রেফতার করে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট নিয়ে আসেন। তিনি তার মৃত্যুদন্ড মওকুফ করলেন এবং জিযয়া দেয়ার শর্তে তার সাথে সন্ধিতে আবদ্ধ হলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 20 Hadith 110</td></tr></tbody></table></div>
 

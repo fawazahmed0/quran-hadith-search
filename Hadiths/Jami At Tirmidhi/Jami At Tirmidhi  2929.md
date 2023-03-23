@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯২৯। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পড়েছেনঃ ইন্নান্নাফসা বিন-নাফসি ওয়াল আইনু বিলআইনি। সনদ দুর্বল সুয়াইদ ইবনু নাসর-ইবনুল মুবারাক- ইউনুস ইবনু ইয়াযীদ (রাহঃ) হতে এই সূত্রে উপরোক্ত সনদে বর্ণিত হাদীসের মতই হাদীস বর্ণিত আছে। আবু ঈসা বলেনঃ আবু আলী ইবনু ইয়াযীদ হলেন ইউনুস ইবনু ইয়ামীদের সহোদর। এ হাদীসটি হাসান গারীব। মুহাম্মাদ বলেনঃ কেবল মাত্র ইবনুল মুবারাক ইউনুস ইবনু ইয়ামীদের সূত্রে এ হাদীস বর্ণনা করেছেন। আবূ উবাইদ এ হাদীসের অনুসরণক্ৰমে ওয়াল-আইনু বিল-আইন পড়েছেন।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পড়েছেনঃ ইন্নান্নাফসা বিন-নাফসি ওয়াল আইনু বিলআইনি। সনদ দুর্বল সুয়াইদ ইবনু নাসর-ইবনুল মুবারাক- ইউনুস ইবনু ইয়াযীদ (রাহঃ) হতে এই সূত্রে উপরোক্ত সনদে বর্ণিত হাদীসের মতই হাদীস বর্ণিত আছে। আবু ঈসা বলেনঃ আবু আলী ইবনু ইয়াযীদ হলেন ইউনুস ইবনু ইয়ামীদের সহোদর। এ হাদীসটি হাসান গারীব। মুহাম্মাদ বলেনঃ কেবল মাত্র ইবনুল মুবারাক ইউনুস ইবনু ইয়ামীদের সূত্রে এ হাদীস বর্ণনা করেছেন। আবূ উবাইদ এ হাদীসের অনুসরণক্ৰমে ওয়াল-আইনু বিল-আইন পড়েছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2929</td></tr><tr><td>Arabic No</td><td>2929</td></tr><tr><td>Reference</td><td>Book 46 Hadith 3</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik:"The Prophet (ﷺ) would recite: 'Anin-nafsu Bin-Nafsi Wal-'Ainu Bil-'Aini'" (From 5:45)
+Narrated Anas bin Malik:"The Prophet (ﷺ) would recite: 'Anin-nafsu Bin-Nafsi Wal-'Ainu Bil-'Aini'" (From 5:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2929</td></tr><tr><td>Arabic No</td><td>2929</td></tr><tr><td>Reference</td><td>Book 46 Hadith 3</td></tr></tbody></table></div>
 

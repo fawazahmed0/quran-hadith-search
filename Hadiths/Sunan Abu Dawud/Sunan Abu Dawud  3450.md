@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন উছমান (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। একদা জনৈক ব্যক্তি এসে বলেঃ ইয়া রাসূলাল্লাহ! আপনি দ্রব্য-মূল্য বেঁধে দিন। তিনি বলেনঃ বরং আমি দু'আ করব। এরপর আর এক ব্যক্তি এসে বলেঃ ইয়া রাসূলাল্লাহ! আপনি জিনিসের দর নির্ধারণ করে দিন। তিনি বলেনঃ বরং আল্লাহ-ই জিনিসের দর বাড়ান-কমান। আর আমি এরূপ ইচ্ছা করি যে, আমি মহান আল্লাহ্‌র সংগে এমন অবস্থায় মিলিত হই, যাতে কারো আমার জুলুমের ব্যাপারে কোন অভিযোগ থাকবে না।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। একদা এক ব্যক্তি এসে বললো, হে আল্লাহর রাসূল! দ্রব্যমূল্য নির্ধারণ করে দিন। তিনি বললেনঃ বরং আমি দু‘আ করবো। এরপর আরেক ব্যক্তি এসে বললো, হে আল্লাহর রাসূল! দ্রব্যমূল্য নির্ধারণ করুন। তিনি বললেনঃ বরং আল্লাহই (জিনিসের দাম) কমান-বাড়ান। আমি আশা করি যে, আমি যেন আল্লাহর সাথে এমন অবস্থায় মিলিত হই, আমার বিরুদ্ধে কারো প্রতি জুলুমের কোনো অভিযোগ থাকবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3450</td></tr><tr><td>Arabic No</td><td>3450</td></tr><tr><td>Reference</td><td>Book 24 Hadith 35</td></tr></tbody></table></div>
 

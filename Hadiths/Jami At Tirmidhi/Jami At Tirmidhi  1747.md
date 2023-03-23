@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭৪৭ আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের আংটির নকশা ছিল নিম্নরূপঃ এক পংক্তিতে মুহাম্মাদ, এক পংক্তিতে রাসূল' এবং এক পংক্তিতে ‘আল্লাহ। - সহীহ, ইবনু মা-জাহ (৩৬৩৯-৩৬৪০), বুখারী আনাস (রাঃ)-এর হাদীসটি হাসান সহীহ গারীব।
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের আংটির নকশা ছিল নিম্নরূপঃ এক পংক্তিতে মুহাম্মাদ, এক পংক্তিতে রাসূল' এবং এক পংক্তিতে ‘আল্লাহ। - সহীহ, ইবনু মা-জাহ (৩৬৩৯-৩৬৪০), বুখারী আনাস (রাঃ)-এর হাদীসটি হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1747</td></tr><tr><td>Arabic No</td><td>1747</td></tr><tr><td>Reference</td><td>Book 24 Hadith 28</td></tr></tbody></table></div>
 

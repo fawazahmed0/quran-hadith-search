@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৪৭. সাহল ইবন সা’দ আস-সাঈদী (রাঃ) হইতে বর্ণিত, লোকদিগকে নির্দেশ প্রদান করা হইত যেন নামাযে প্রত্যেকে তাহার ডান হাত বাম হাতের উপর রাখে। আবু হাযিম (রহঃ) বলেনঃ আমি জানি যে, তিনি এই বাক্যের সনদ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পর্যন্ত পৌছাইতেন।
+রেওয়ায়ত ৪৭. সাহল ইবন সা’দ আস-সাঈদী (রাঃ) হইতে বর্ণিত, লোকদিগকে নির্দেশ প্রদান করা হইত যেন নামাযে প্রত্যেকে তাহার ডান হাত বাম হাতের কজির উপর রাখে। আবু হাযিম (রহঃ) বলেনঃ আমি জানি যে, তিনি এই বাক্যের সনদ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পর্যন্ত পৌছাইতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>378</td></tr><tr><td>Arabic No</td><td>378</td></tr><tr><td>Reference</td><td>Book 9 Hadith 53</td></tr></tbody></table></div>
 

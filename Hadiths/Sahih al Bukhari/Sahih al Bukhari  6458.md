@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) বর্ণিত। তিনি বলেন, আমাদের উপর দিয়ে মাস কেটে যেত, আমরা এর মধ্যে ঘরে (রান্নার) আগুন জ্বালাতাম না। আমরা কেবল খুরমা ও পানির উপর চলতাম। তবে যৎ সামান্য গোশত আমাদের নিকট এসে যেত। [২৫৬৭] (আধুনিক প্রকাশনী- ৬০০৮, ইসলামিক ফাউন্ডেশন- ৬০১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) বর্ণিত। তিনি বলেন, আমাদের উপর দিয়ে মাস কেটে যেত, আমরা এর মধ্যে ঘরে (রান্নার) আগুন জ্বালাতাম না। আমরা কেবল খুরমা ও পানির উপর চলতাম। তবে যৎ সামান্য গোশত আমাদের নিকট এসে যেত। [২৫৬৭] (আধুনিক প্রকাশনী- ৬০০৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6458</td></tr><tr><td>Arabic No</td><td>6458</td></tr><tr><td>Reference</td><td>Book 81 Hadith 47</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் குடும்பத் தாராகிய) நாங்கள் (சமைப்பதற்காக அடுப்பில்) நெருப்பு பற்றவைக்காம லேயே ஒரு மாத காலம்கூட எங்களுக்குக் கழிந்திருக்கிறது. அப்போதெல்லாம் (வெறும்) பேரீச்சம்பழமும் நீரும்தான் (எங்கள் உணவாகும்); (எப்போதாவது) சிறிது இறைச்சி எங்களுக்கு அனுப்பிவைக்கப் பட்டால் தவிர. அத்தியாயம் : 81
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் குடும்பத் தாராகிய) நாங்கள் (சமைப்பதற்காக அடுப்பில்) நெருப்பு பற்றவைக்காம லேயே ஒரு மாத காலம்கூட எங்களுக்குக் கழிந்திருக்கிறது. அப்போதெல்லாம் (வெறும்) பேரீச்சம்பழமும் நீரும்தான் (எங்கள் உணவாகும்); (எப்போதாவது) சிறிது இறைச்சி எங்களுக்கு அனுப்பிவைக்கப் பட்டால் தவிர. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6458</td></tr><tr><td>Arabic No</td><td>6458</td></tr><tr><td>Reference</td><td>Book 81 Hadith 47</td></tr></tbody></table></div>
 

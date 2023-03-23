@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবনু ইব্রাহীম .... আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম মাঝে মাঝে উম্মে সুলায়ম (রাঃ)-কে দেখতে যেতেন এবং সেখানে কখনও কখনও নামাযের ওয়াক্ত হয়ে গেলে আমাদের মাদুরের উপর নামায পড়তেন। মাদুরটি ছিল খেজুর পাতার এবং তা উম্মে সুলায়ম (রাঃ) পানি দ্বারা ধৌত করে দিতেন। (নাসাঈ, বুখারী)।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাঝেমধ্যে উম্মু সুলাইম (রাঃ)-কে দেখতে যেতেন। সেখানে কখনো সালাতের সময় হয়ে গেলে তিনি আমাদের (খেজুর পাতার তৈরী) মাদুরের উপর সালাত আদায় করে নিতেন। উম্মু সুলাইম (রাঃ) সেটিকে পানি দিয়ে ধুয়ে দিতেন।[1] সহীহ : বুখারী ও মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>658</td></tr><tr><td>Arabic No</td><td>658</td></tr><tr><td>Reference</td><td>Book 2 Hadith 268</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik (r.a.)'den şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem) Ümmü Süleym'i (zaman zaman) ziyaret ederdi, bazan (da bu ziyaret esnasında) namaz (vakti) girerdi. Resul-i Ek­rem (Sallallahu aleyhi ve Sellem) de bize ait ve suyla yıkanmış hasırdan ibaret olan bir sergi üzerine namaz(ını) kılardı. Diğer tahric: Buharî, salat, ezan; Müslim, mesacid; Tirmizî, salat; Nesaî, imame; Darimî, salat; Muvatta', sefer; Ahmed b. Hanbel, III, 131, 145, 149, 164
+Enes b. Malik (r.a.)'den şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem) Ümmü Süleym'i (zaman zaman) ziyaret ederdi, bazan (da bu ziyaret esnasında) namaz (vakti) girerdi. Resul-i Ek­rem (Sallallahu aleyhi ve Sellem) de bize ait ve suyla yıkanmış hasırdan ibaret olan bir sergi üzerine namaz(ını) kılardı. Diğer tahric: Buharî, salat, ezan; Müslim, mesacid; Tirmizî, salat; Nesaî, imame; Darimî, salat; Muvatta', sefer; Ahmed b. Hanbel, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>658</td></tr><tr><td>Arabic No</td><td>658</td></tr><tr><td>Reference</td><td>Book 2 Hadith 268</td></tr></tbody></table></div>
 

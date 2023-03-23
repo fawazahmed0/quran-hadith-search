@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৩৫৮, আন্তর্জাতিক নাম্বারঃ ১৪১৫ ৩৩৫৮-(৫৯/...) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... ইবনু উমর (রাযিঃ) থেকে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিগার নিষিদ্ধ করেছেন। (ইসলামিক ফাউন্ডেশন ৩৩৩২, ইসলামীক সেন্টার ৩৩৩১)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... ইবনু উমর (রাযিঃ) থেকে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিগার নিষিদ্ধ করেছেন। (ইসলামিক ফাউন্ডেশন ৩৩৩২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3467</td></tr><tr><td>Arabic No</td><td>1415.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 69</td></tr></tbody></table></div>
 

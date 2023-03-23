@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূল ওয়ালীদ ..... কাবীসা ইবনু ওয়াক্কাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ আমার পরে এমন এক সময় আসবে যখন আমীরগণ যথা সময়ে নামায আদায়ে বিলম্ব করবে। এটা তোমাদের জন্য উপকারী কিন্তু-তাদের জন্য অত্যন্ত ক্ষতিকর। তোমরা তাদের সাথে একত্রে ততদিন নামায আদায় করবে যতদিন তাঁরা কিবলামুখী হয়ে নামায পড়বে অর্থাৎ মুসলিম থাকবে।
+। কাবীসাহ ইবনু ওয়াক্কাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার পরে তোমাদের এমন শাসকগণ আসবে, যারা বিলম্বে সালাত আদায় করবে। এতে তোমাদের কোন ক্ষতি নেই, বরং তাদের জন্যই ক্ষতিকর। যতদিন পর্যন্ত তারা কিবলামুখী হয়ে সালাত আদায় করবে ততদিন পর্যন্ত তোমরা তাদের সাথে সালাত আদায় করতে থাকবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>434</td></tr><tr><td>Arabic No</td><td>434</td></tr><tr><td>Reference</td><td>Book 2 Hadith 44</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Kabisa bin Vakkas (r.a.)'dan, dedi ki: Resulullah (Sallallahu aleyhi ve Sellem): "Benden sonra size namazı (efdal) vaktinden sonraya bırakacak emirler amir olacaktır. O (geciktirilen namaz) sizin için faydalıdır. Zararı da onlara aittir. Ancak onlar kıbleye (müteveccihen) namaz kıldıkları müddetçe siz de onlarla birlikte namaz kılınız."' Diğer tahric: Müslim, mesacid; Nesai, imame; İbn Mace, ikame, cihad; Ahmed b. Hanbel, I, 400, 409, 455, 459; III, 445
+Kabisa bin Vakkas (r.a.)'dan, dedi ki: Resulullah (Sallallahu aleyhi ve Sellem): "Benden sonra size namazı (efdal) vaktinden sonraya bırakacak emirler amir olacaktır. O (geciktirilen namaz) sizin için faydalıdır. Zararı da onlara aittir. Ancak onlar kıbleye (müteveccihen) namaz kıldıkları müddetçe siz de onlarla birlikte namaz kılınız."' Diğer tahric: Müslim, mesacid; Nesai, imame; İbn Mace, ikame, cihad; Ahmed b. Hanbel, I, 400, 409, 455, 459; III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>434</td></tr><tr><td>Arabic No</td><td>434</td></tr><tr><td>Reference</td><td>Book 2 Hadith 44</td></tr></tbody></table></div>
 

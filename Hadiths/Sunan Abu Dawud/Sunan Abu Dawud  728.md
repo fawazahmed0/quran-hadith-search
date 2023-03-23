@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবনু আবূ শায়বা .... ওয়ায়েল ইবনু হুজর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে নামায শুরুর সময় স্বীয় হস্তদ্বয় নিজের কান পর্যন্ত উঠাতে দেখেছি। রাবী বলেন, কিছু দিন পর আমি পুনরায় সেখানে গিয়ে দেখি যে, সাহাবায়ে কিরাম নামায আরম্ভের সময় তাদের হাতগুলি বুক পর্যন্ত উঠাচ্ছেন। এ সময় তাদের শরীর কোট ও অন্যান্য কাপড় দ্বারা আবৃত ছিল। (নাসাঈ)।
+। ওয়ায়িল ইবনু হুজর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সালাত আরম্ভকালে স্বীয় দু’ হাত নিজের কান পর্যন্ত উঠাতে দেখেছি। বর্ণনাকারী বলেন, আমি কয়েক দিন পর সেখানে গিয়ে দেখলাম, সাহাবীগণ সালাত আরম্ভকালে তাদের হাতগুলো বুক পর্যন্ত উঠাচ্ছেন। এ সময় তাঁদের শরীর কোট ও অন্যান্য কাপড়ে আবৃত ছিল।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Yine) Vail b. Hucr'dan; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem)'i namaza başlayacağı zaman ellerini kulaklarının hizasına kadar kaldırırken gördüm. Daha sonra yanlarına geldiğimde üzerlerinde aba ve başlıklı elbiseler olduğu halde namaza başlarken ellerini (ancak) göğüslerine kadar kaldırdıklarını gördüm. Diğer tahric: Nesai, tatbîk; Ahmed b. Hanbel IV, 319
+(Yine) Vail b. Hucr'dan; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem)'i namaza başlayacağı zaman ellerini kulaklarının hizasına kadar kaldırırken gördüm. Daha sonra yanlarına geldiğimde üzerlerinde aba ve başlıklı elbiseler olduğu halde namaza başlarken ellerini (ancak) göğüslerine kadar kaldırdıklarını gördüm. Diğer tahric: Nesai, tatbîk; Ahmed b. Hanbel IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
 

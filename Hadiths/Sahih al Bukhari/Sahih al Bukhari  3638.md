@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে চাঁদ দু’খন্ড হয়েছিল। (৩৮৭০, ৪৮৬৬, মুসলিম ৫০/৮, হাঃ ২৮০৩) (আধুনিক প্রকাশনীঃ ৩৩৬৭, ইসলামিক ফাউন্ডেশনঃ ৩৩৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে চাঁদ দু’খন্ড হয়েছিল। (৩৮৭০, ৪৮৬৬, মুসলিম ৫০/৮, হাঃ ২৮০৩) (আধুনিক প্রকাশনীঃ ৩৩৬৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3638</td></tr><tr><td>Arabic No</td><td>3638</td></tr><tr><td>Reference</td><td>Book 61 Hadith 142</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Khalaf bin Khalid Al Qurasyiy] telah bercerita kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் காலத்தில் சந்திரன் (இரண்டாகப்) பிளவுபட்டது.154 அத்தியாயம் : 61
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் காலத்தில் சந்திரன் (இரண்டாகப்) பிளவுபட்டது.154 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3638</td></tr><tr><td>Arabic No</td><td>3638</td></tr><tr><td>Reference</td><td>Book 61 Hadith 142</td></tr></tbody></table></div>
 

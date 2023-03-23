@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন হাতিম (রহঃ) ... আব্দুল মালিক (রহঃ)-এর পিতা আবুল মিনহাল (রাঃ) থেকে বর্ণিত যে, সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে আইয়ামে বীযের তিন দিনের সাওমে পালন করার নির্দেশ দিতেন এবং বলতেন যে, এই তিন দিনের সাওম সারা মাস সাওম পালন করার সমতুল্য।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 22 Hadith 342</td></tr></tbody></table></div>
 

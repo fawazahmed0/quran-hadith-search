@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭৩৭। আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বর্ণের আংটি পরতে, রেশমি পোশাক পরতে, রুকু সিজদায় কুরআনের আয়াত পাঠ করতে এবং হলুদ রং-এর পোশাক পরতে বারণ করেছেন। সহীহ, মুসলিম, পূর্বে ১৭২৫ নং হাদীসেও সংক্ষেপে বর্ণিত হয়েছে। এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বর্ণের আংটি পরতে, রেশমি পোশাক পরতে, রুকু সিজদায় কুরআনের আয়াত পাঠ করতে এবং হলুদ রং-এর পোশাক পরতে বারণ করেছেন। সহীহ, মুসলিম, পূর্বে ১৭২৫ নং হাদীসেও সংক্ষেপে বর্ণিত হয়েছে। এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1737</td></tr><tr><td>Arabic No</td><td>1737</td></tr><tr><td>Reference</td><td>Book 24 Hadith 18</td></tr></tbody></table></div>
 

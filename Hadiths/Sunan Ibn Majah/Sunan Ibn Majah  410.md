@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৪১০। সাবিত ইবনু আবূ সাফিয়্যাহ আস-সুমালী (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি আবূ জাফার (রহঃ)-কে জিজ্ঞেস করে বললাম, আমার নিকট জাবির ইবনু আবদুল্লাহ থেকে হাদীস বর্ণনা করা হয়েছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার করে উযূর অঙ্গ ধৌত করতেন? তিনি বলেন, হ্যাঁ। আমি বললাম, তিনি কি দুবার অথবা তিনবার করে উযূ (ওজু/অজু/অযু) অঙ্গ ধৌত করেছেন? তিনি বলেন, হ্যাঁ।
+। সাবিত ইবনু আবূ সাফিয়্যাহ আস-সুমালী (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি আবূ জাফার (রহঃ)-কে জিজ্ঞেস করে বললাম, আমার নিকট জাবির ইবনু আবদুল্লাহ থেকে হাদীস বর্ণনা করা হয়েছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার করে উযূর অঙ্গ ধৌত করতেন? তিনি বলেন, হ্যাঁ। আমি বললাম, তিনি কি দুবার অথবা তিনবার করে উযূ (ওজু/অজু/অযু) অঙ্গ ধৌত করেছেন? তিনি বলেন, হ্যাঁ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>410</td></tr><tr><td>Arabic No</td><td>410</td></tr><tr><td>Reference</td><td>Book 1 Hadith 144</td></tr></tbody></table></div>
 

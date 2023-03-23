@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... নাফে (রহঃ) হতে বর্ণিত। তিনি বলেন, ইবনে উমর (রাঃ) জুমার ফরযের পূর্ববর্তী নামায (অর্থাৎ, সুন্নাত নামায) দীর্ঘায়িত করতেন এবং জুমার নামায আদায়ের পর ঘরে ফিরে দুই রাকাত আদায় করতেন। তিনি আরো বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এইরূপে জুমার দিনে নামায আদায় করতেন। (নাসাঈ, মুসলিম, তিরমিযী, ইবনে মাজা)
+। নাফি‘ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ইবনু ‘উমার (রাঃ) জুমু‘আহর সালাতের পূর্বে দীর্ঘক্ষণ সালাত আদায় করতেন এবং জুমু‘আহর সালাতের পরে বাড়িতে গিয়ে দু’ রাক‘আত সালাত আদায় করতেন এবং বলতেন, রসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ করেছেন।[1] সহীহ : বুখারী ও মুসলিম, তার থেকে মারফুভাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1128</td></tr><tr><td>Arabic No</td><td>1128</td></tr><tr><td>Reference</td><td>Book 2 Hadith 739</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হাসান ইব্‌নুল আলা (রাঃ) ..... ইব্‌ন উমর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লামকে মসজিদে অবস্থানকালে একই বৈঠকে নিম্নোক্ত দু’আটি একশত বার পাঠ করতে-গণনা করেছিঃ রাব্বিগফির্‌ লী ওয়াতুব্‌ আলায়্যা ইন্নাকা আন্‌তাত্‌ তাওয়াবুর রাহীম। (তিরমিযী, নাসাঈ, ইব্‌ন মাজা)।
+। ইবনু ‘উমার রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে অবস্থানকালে একই বৈঠকে একশো বার এ দু‘আ পাঠ করেছেন এবং আমরা তা গণনা করেছিঃ ‘‘রব্বিগফিরলী ওয়াতুব ‘আলাইয়া ইন্নাকা আনতাত্ তাওয়াবুর রহীম।’’ প্রভূ হে! আমাকে ক্ষমা করে দাও, আমার তওবা কবুল করে নাও, তুমিই তওবা কবুলকারী ও দয়ালু।’’[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1516</td></tr><tr><td>Arabic No</td><td>1516</td></tr><tr><td>Reference</td><td>Book 8 Hadith 101</td></tr></tbody></table></div>
 

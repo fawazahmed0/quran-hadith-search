@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জা‘ফর ইবন মুসাফির তিন্নীসী (রহঃ) .... আবূ সা‘ঈদ খুদরী (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা বণ্টনের মজুরী গ্রহণ করা হতে বিরত থাক। রাবী বলেনঃ তখন আমরা জিজ্ঞাসা করলাম, বণ্টনের মজুরী গ্রহণের ব্যাপারটা কি? তিনি বললেনঃ কোন বস্তু যা লোকদের মাঝে বন্টনের জন্য দেয়া হয়, (বণ্টকারী নিজে অধিক পাওয়ার আশায় তা থেকে অন্যকে বণ্টনের সময় কিছু কম দেয়), পরে তা কম হয়ে যায়।
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোনো কিছু বণ্টনের পারিশ্রমিক গ্রহণ থেকে বিরত থাকো। বর্ণনাকারী বলেন, ‘আমরা এর তাৎপর্য সম্পর্কে জিজ্ঞেস করলে তিনি বলেনঃ একটি নির্দিষ্ট জিনিসে বিভিন্ন লোকের অধিকার থাকতে পারে। (অথচ বণ্টনকারী বেশি পাওয়ার জন্য কারচুপি করে)। ফলে অন্যরা ভাগে কম পায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2783</td></tr><tr><td>Arabic No</td><td>2783</td></tr><tr><td>Reference</td><td>Book 15 Hadith 307</td></tr></tbody></table></div>
 

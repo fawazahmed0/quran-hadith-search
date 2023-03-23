@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফস ইবন আমর (রহঃ) ..... আলকামা ইবন ওয়াইল (রহঃ)-এর সনদে উপরোক্ত হাদীছের অনুরূপ হাদীছ বর্ণিত হয়েছে।
+। ‘আলকামাহ ইবনু ওয়াইল (রাঃ) নিজ সনদে উপরোক্ত হাদীস বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3059</td></tr><tr><td>Arabic No</td><td>3059</td></tr><tr><td>Reference</td><td>Book 20 Hadith 132</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবু ক্বাতাদাহ্ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আমি অনেক সময় দীর্ঘ করে সালাত আদায়ের ইচ্ছা নিয়ে দাঁড়াই। পরে শিশুর কান্নাকাটি শুনে সালাত সংক্ষেপ করি। কারণ শিশুর মাকে কষ্টে ফেলা আমি পছন্দ করি না। বিশ্র ইবনু বাকর, বাকিয়্যাহ ও ইবনু মুবারাক আওযায়ী (রহ.) হতে হাদীস বর্ণনায় ওয়ালীদ ইবনু মুসলিম (রহ.)-এর অনুসরণ করেছেন। (৮৬৮) (আধুনিক প্রকাশনীঃ ৬৬৫, ইসলামিক ফাউন্ডেশনঃ ৬৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবু ক্বাতাদাহ্ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আমি অনেক সময় দীর্ঘ করে সালাত আদায়ের ইচ্ছা নিয়ে দাঁড়াই। পরে শিশুর কান্নাকাটি শুনে সালাত সংক্ষেপ করি। কারণ শিশুর মাকে কষ্টে ফেলা আমি পছন্দ করি না। বিশ্র ইবনু বাকর, বাকিয়্যাহ ও ইবনু মুবারাক আওযায়ী (রহ.) হতে হাদীস বর্ণনায় ওয়ালীদ ইবনু মুসলিম (রহ.)-এর অনুসরণ করেছেন। (৮৬৮) (আধুনিক প্রকাশনীঃ ৬৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>707</td></tr><tr><td>Arabic No</td><td>707</td></tr><tr><td>Reference</td><td>Book 10 Hadith 102</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீண்ட நேரம் தொழுவிக்கும் எண்ணத் துடன் நான் தொழுகையில் நிற்பேன். அப்போது (பின்னால் தொழுதுகொண்டி ருக்கும் பெண்களுடைய) குழந்தையின் அழுகையை நான் கேட்பேன். அந்தக் குழந்தையின் தாய்க்கு நான் சிரமம் அளித்துவிடக் கூடாது என்பதற்காக எனது தொழுகையைச் சுருக்கமாக முடித்துவிடுவேன். இதை அபூகத்தாதா (ஹாரிஸ் பின் ரிப்ஈ) அல்அன்சாரி (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 10
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீண்ட நேரம் தொழுவிக்கும் எண்ணத் துடன் நான் தொழுகையில் நிற்பேன். அப்போது (பின்னால் தொழுதுகொண்டி ருக்கும் பெண்களுடைய) குழந்தையின் அழுகையை நான் கேட்பேன். அந்தக் குழந்தையின் தாய்க்கு நான் சிரமம் அளித்துவிடக் கூடாது என்பதற்காக எனது தொழுகையைச் சுருக்கமாக முடித்துவிடுவேன். இதை அபூகத்தாதா (ஹாரிஸ் பின் ரிப்ஈ) அல்அன்சாரி (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>707</td></tr><tr><td>Arabic No</td><td>707</td></tr><tr><td>Reference</td><td>Book 10 Hadith 102</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Katade (r.a.)'den nakledildiğine göre Resûlullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Bazen uzun uzun namaz kılmak isteğiyle namaza duruyorum ve bu sırada çocukların ağlama sesini duyuyorum. Bu durumda çocuğun annesine sıkıntı vermemek için namazımı kısa tutuyorum. Tekrar: 868
+Ebu Katade (r.a.)'den nakledildiğine göre Resûlullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Bazen uzun uzun namaz kılmak isteğiyle namaza duruyorum ve bu sırada çocukların ağlama sesini duyuyorum. Bu durumda çocuğun annesine sıkıntı vermemek için namazımı kısa tutuyorum. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>707</td></tr><tr><td>Arabic No</td><td>707</td></tr><tr><td>Reference</td><td>Book 10 Hadith 102</td></tr></tbody></table></div>
 

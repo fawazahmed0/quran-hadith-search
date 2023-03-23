@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ হে উম্মাতে মুহাম্মাদী আল্লাহর শপথ! আমি যা জানি যদি তা তোমরা জানতে তবে অবশ্যই তোমরা হাসতে কম আর কাঁদতে বেশি।[1] [১০৪৪] (আধুনিক প্রকাশনী- ৬১৬৯, ইসলামিক ফাউন্ডেশন- ৬১৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ হে উম্মাতে মুহাম্মাদী আল্লাহর শপথ! আমি যা জানি যদি তা তোমরা জানতে তবে অবশ্যই তোমরা হাসতে কম আর কাঁদতে বেশি।[1] [১০৪৪] (আধুনিক প্রকাশনী- ৬১৬৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6631</td></tr><tr><td>Arabic No</td><td>6631</td></tr><tr><td>Reference</td><td>Book 83 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad] Telah memberitakan kepada kami ['Abdah] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: முஹம்மதின் சமுதாயமே! அல்லாஹ்வின் மீதாணையாக! நான் அறிவதையெல்லாம் நீங்கள் அறிவீர் களாயின் நிச்சயம் அதிகமாக அழுவீர் கள்; குறைவாகவே சிரிப்பீர்கள். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.16 அத்தியாயம் : 83
+நபி (ஸல்) அவர்கள் கூறினார்கள்: முஹம்மதின் சமுதாயமே! அல்லாஹ்வின் மீதாணையாக! நான் அறிவதையெல்லாம் நீங்கள் அறிவீர் களாயின் நிச்சயம் அதிகமாக அழுவீர் கள்; குறைவாகவே சிரிப்பீர்கள். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6631</td></tr><tr><td>Arabic No</td><td>6631</td></tr><tr><td>Reference</td><td>Book 83 Hadith 11</td></tr></tbody></table></div>
 

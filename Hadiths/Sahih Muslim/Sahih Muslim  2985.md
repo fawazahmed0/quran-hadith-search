@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৮৭৫, আন্তর্জাতিক নাম্বারঃ ১২২৯ ২৮৭৫-(.../...) ইবনু নুমায়র (রহঃ) ..... হাফসাহ্ (রাযিঃ) বলেন, আমি বললাম, হে আল্লাহর রসূল! কী ব্যাপার, আপনি ইহরাম খুলেননি? ... উপরোক্ত হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২৮৫১, ইসলামীক সেন্টার ২৮৫০)
+ইবনু নুমায়র (রহঃ) ..... হাফসাহ্ (রাযিঃ) বলেন, আমি বললাম, হে আল্লাহর রসূল! কী ব্যাপার, আপনি ইহরাম খুলেননি? ... উপরোক্ত হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২৮৫১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2985</td></tr><tr><td>Arabic No</td><td>1229.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 193</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩২১৭। তামীম আদ-দারী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শেষ যুগে এমন একদল লোকের আবির্ভাব ঘটবে, যারা উটের কুঁজ এবং মেষের লেজের (প্রান্তভাগের চর্বিযুক্ত মোটা) অংশ (খাওয়ার জন্য) কেটে বিচ্ছিন্ন করবে। সাবধান! জীবন্ত প্রাণীর দেহের কোন অংশ কেটে বিচ্ছন্ন করা হলে তা মৃত হিসাবে গণ্য (তা খাওয়া নিষিদ্ধ)
+। তামীম আদ-দারী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শেষ যুগে এমন একদল লোকের আবির্ভাব ঘটবে, যারা উটের কুঁজ এবং মেষের লেজের (প্রান্তভাগের চর্বিযুক্ত মোটা) অংশ (খাওয়ার জন্য) কেটে বিচ্ছিন্ন করবে। সাবধান! জীবন্ত প্রাণীর দেহের কোন অংশ কেটে বিচ্ছন্ন করা হলে তা মৃত হিসাবে গণ্য (তা খাওয়া নিষিদ্ধ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3217</td></tr><tr><td>Arabic No</td><td>3217</td></tr><tr><td>Reference</td><td>Book 28 Hadith 18</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল ও উসমান ইবন আবূ শায়বা হতে বর্ণিত। রাবী উসমান তাঁর হাদীসে বর্ণনা করেছেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আযাদকৃত গোলাম সাওবান তাঁকে বলেছেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তি শিংগা লাগায় এবং যাকে লাগায় তারা ইফতার করল অর্থাৎ রোযা ভেঙ্গে ফেলল।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর আযাদকৃত গোলাম সাওবান (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রক্তমোক্ষণকারী ও যে রক্তমোক্ষণ করায় তাদের উভয়ের সওম নষ্ট হয়ে যায়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2370</td></tr><tr><td>Arabic No</td><td>2370</td></tr><tr><td>Reference</td><td>Book 14 Hadith 58</td></tr></tbody></table></div>
 

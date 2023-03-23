@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবনে মুহাম্মাদ (রহঃ) ..... ইবনে আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা আমি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পিছন দিয়ে আসছিলাম, যখন তিনি নামাযরত ছিলেন। তখন আমি তাঁর বগল মোবারকের নিম্নাংশের সাদা অংশটি দেখি। কারণ এ সময় তার হস্তদ্বয়কে প্রসারিত করে রেখেছিলেন। (আহমদ)।
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সালাতরত অবস্থায় আমি তাঁর পিছন দিয়ে চলে আসি এবং এ সময় আমি তাঁর বগলের সাদা অংশ দেখতে পাই। কারণ তিনি তাঁর দু’ হাত প্রসারিত করে রেখেছিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>899</td></tr><tr><td>Arabic No</td><td>899</td></tr><tr><td>Reference</td><td>Book 2 Hadith 509</td></tr></tbody></table></div>
 

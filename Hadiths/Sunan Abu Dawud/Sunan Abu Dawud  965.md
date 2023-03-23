@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা (রহঃ) ..... মুহাম্মাদ ইবনে আমর ইবনে আমেরী (রহঃ) হতে বর্ণিত। তিনি বলেন, উপরোক্ত হাদিস বর্ণনার মজলিসে আমি হাজির ছিলাম। রাবী বলেন, তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) যখন দ্বিতীয় রাকাতের জন্য বসতেন তখন বাম পায়ের পাতার পেটের উপর বসতেন এবং ডান পা খাঁড়া করে রাখতেন। তিনি যখন চতুর্থ রাকাতে বসতেন, তখন তাঁর বাম পাছাকে জমিনের সাথে মিলিয়ে দিতেন এবং বাম পা'কে ডান দিকে বের করে দিতেন।
+। মুহাম্মদ ইবনু ‘আমর আল-‘আমিরী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, যে মাজলিসে এ হাদীসটি আলোচিত হচ্ছিল সেখানে আমিও উপস্থিত ছিলাম। বর্ণনাকারী বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন দুই রাক‘আত শেষে বসতেন তখন বাম পায়ের তালুর ওপর ভর করে বসতেন, এ সময় তাঁর নিতম্ব মাটিতে লাগিয়ে রাখতেন এবং উভয় পা একদিকে বের করে দিতেন।[1] সহীহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>965</td></tr><tr><td>Arabic No</td><td>965</td></tr><tr><td>Reference</td><td>Book 2 Hadith 576</td></tr></tbody></table></div>
 

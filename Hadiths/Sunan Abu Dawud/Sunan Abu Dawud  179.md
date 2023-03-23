@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবনু আবূ শায়বা .... আয়িশা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাঁর কোন এক স্ত্রীকে চুম্বন করে উযূ (ওজু/অজু/অযু) করা ব্যতিরেকে নামায আদায় করতে যান। উরওয়া (রহঃ) বলেন, আমি তাঁকে (আয়িশাকে) জিজ্ঞাসা করলাম তিনই কি আপনি নন? এতদশ্রবণে তিনি মুচকি হাসি দেন।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কোন এক স্ত্রীকে চুমো দিলেন, অতঃপর সালাত আদায়ের জন্য বের হলেন, কিন্তু অযু করলেন না। ‘উরওয়াহ বলেনঃ আমি ‘আয়িশাহ্ (রাঃ)-কে বললাম, ‘সেই স্ত্রী আপনি নন কি? ফলে তিনি হেসে দিলেন।[1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, সুলাইমান আল-আ‘মাশ সূত্রে যায়িদাহ এবং ‘আবদুল হামীদ আল-হিম্মানী অনুরূপ বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>179</td></tr><tr><td>Arabic No</td><td>179</td></tr><tr><td>Reference</td><td>Book 1 Hadith 179</td></tr></tbody></table></div>
 

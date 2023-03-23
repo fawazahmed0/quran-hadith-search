@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি এবং আমার মা (লুবাবাহ্ বিনত হারিস) মুসতায‘আফীন (দুর্বল, অসহায়) এর অন্তর্ভুক্ত ছিলাম। আমি ছিলাম না-বালিগ শিশুদের মধ্যে আর আমার মা ছিলেন মহিলাদের মধ্যে। (৪৫৮৭, ৪৫৮৮, ৪৫৯৭) (আধুনিক প্রকাশনীঃ ১২৬৭, ইসলামিক ফাউন্ডেশনঃ ১২৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি এবং আমার মা (লুবাবাহ্ বিনত হারিস) মুসতায‘আফীন (দুর্বল, অসহায়) এর অন্তর্ভুক্ত ছিলাম। আমি ছিলাম না-বালিগ শিশুদের মধ্যে আর আমার মা ছিলেন মহিলাদের মধ্যে। (৪৫৮৭, ৪৫৮৮, ৪৫৯৭) (আধুনিক প্রকাশনীঃ ১২৬৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1357</td></tr><tr><td>Arabic No</td><td>1357</td></tr><tr><td>Reference</td><td>Book 23 Hadith 110</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் சிறுவனாகவும், என் தாயார் பெண்ணாகவும் இருந்ததால் நானும் என் தாயாரும் (சமுதாயத்தின்) பலவீனமான பிரிவைச் சேர்ந்தவர்களாக (மக்காவில்) இருந்தோம். அத்தியாயம் : 23
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் சிறுவனாகவும், என் தாயார் பெண்ணாகவும் இருந்ததால் நானும் என் தாயாரும் (சமுதாயத்தின்) பலவீனமான பிரிவைச் சேர்ந்தவர்களாக (மக்காவில்) இருந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1357</td></tr><tr><td>Arabic No</td><td>1357</td></tr><tr><td>Reference</td><td>Book 23 Hadith 110</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle demiştir: Ben ve annem müstezaflardan idik. Ben çocuklardan, annem ise kadınlardan (müstezaflardan) idi. Tekrar: 4587, 4588, 4597
+İbn Abbas r.a. şöyle demiştir: Ben ve annem müstezaflardan idik. Ben çocuklardan, annem ise kadınlardan (müstezaflardan) idi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1357</td></tr><tr><td>Arabic No</td><td>1357</td></tr><tr><td>Reference</td><td>Book 23 Hadith 110</td></tr></tbody></table></div>
 

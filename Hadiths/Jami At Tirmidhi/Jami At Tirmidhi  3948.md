@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৯৪৮। ইবনু উমর (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আসলাম গোত্রকে আল্লাহ তা'আলা হিফাযাতে রাখুন, গিফার গোত্রকে আল্লাহ মাফ করুন। সহীহঃ বুখারী (হাঃ ১০০৬, ৩৫১৩, ৩৫১৪), মুসলিম (হাঃ ৭/১৭৭, ১৭৮)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। এ অনুচ্ছেদে আবূ যার, আবূ বারযা আল-আসলামী, বুরাইদা ও আবূ হুরাইরাহ (রাযিঃ) কর্তৃকও হাদীস বর্ণিত আছে।
+। ইবনু উমর (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আসলাম গোত্রকে আল্লাহ তা'আলা হিফাযাতে রাখুন, গিফার গোত্রকে আল্লাহ মাফ করুন। সহীহঃ বুখারী (হাঃ ১০০৬, ৩৫১৩, ৩৫১৪), মুসলিম (হাঃ ৭/১৭৭, ১৭৮)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। এ অনুচ্ছেদে আবূ যার, আবূ বারযা আল-আসলামী, বুরাইদা ও আবূ হুরাইরাহ (রাযিঃ) কর্তৃকও হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3948</td></tr><tr><td>Arabic No</td><td>3948</td></tr><tr><td>Reference</td><td>Book 49 Hadith 348</td></tr></tbody></table></div>
 

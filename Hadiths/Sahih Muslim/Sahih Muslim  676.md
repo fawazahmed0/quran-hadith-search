@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৬৩, আন্তর্জাতিক নাম্বারঃ ২৯১ ৫৬৩-(.../...) আবূ কুরায়ব (রহঃ) ও আবূ তাহির (রহঃ) এর সকলেই হিশাম ইবনু উরওয়াহ্ (রহঃ) হতে এ সূত্রে ইয়াহইয়া ইবনু সাঈদের হাদীসের অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৫৬৭, ইসলামিক সেন্টারঃ ৫৮৩)
+আবূ কুরায়ব (রহঃ) ও আবূ তাহির (রহঃ) এর সকলেই হিশাম ইবনু উরওয়াহ্ (রহঃ) হতে এ সূত্রে ইয়াহইয়া ইবনু সাঈদের হাদীসের অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৫৬৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>676</td></tr><tr><td>Arabic No</td><td>291.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 142</td></tr></tbody></table></div>
 

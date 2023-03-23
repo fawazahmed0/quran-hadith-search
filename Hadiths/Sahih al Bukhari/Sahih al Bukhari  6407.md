@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে তার প্রতিপালকের যিকর করে, আর যে যিকর করে না, তাদের উপমা হলো জীবিত ও মৃত ব্যক্তি। [মুসলিম ৬/২৯, হাঃ ৭৭৯] (আধুনিক প্রকাশনী- ৫৯৫৯, ইসলামিক ফাউন্ডেশন- ৫৮৫২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে তার প্রতিপালকের যিকর করে, আর যে যিকর করে না, তাদের উপমা হলো জীবিত ও মৃত ব্যক্তি। [মুসলিম ৬/২৯, হাঃ ৭৭৯] (আধুনিক প্রকাশনী- ৫৯৫৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6407</td></tr><tr><td>Arabic No</td><td>6407</td></tr><tr><td>Reference</td><td>Book 80 Hadith 102</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: தம் இறைவனை நினைவுகூர்ந்து போற்றுகின்றவரின் நிலை உயிருள்ள வரின் நிலையையும், தம் இறைவனை நினைவுகூர்ந்து போற்றாதவரின் நிலை உயிரற்றவரின் நிலையையும் ஒத்திருக் கிறது. இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 80
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: தம் இறைவனை நினைவுகூர்ந்து போற்றுகின்றவரின் நிலை உயிருள்ள வரின் நிலையையும், தம் இறைவனை நினைவுகூர்ந்து போற்றாதவரின் நிலை உயிரற்றவரின் நிலையையும் ஒத்திருக் கிறது. இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6407</td></tr><tr><td>Arabic No</td><td>6407</td></tr><tr><td>Reference</td><td>Book 80 Hadith 102</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবনু আবূ শায়বা .... আয়িশা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম রাতে নফল নামায পাঠকালে আমি তার সামনে কিবলার দিকে শুয়ে থাকতাম। অতঃপর যখন তিনি বেতেরের নামায পড়ার ইচ্ছা করতেন তখন তিনি আমাকে পা সরানোর জন্য খোঁচা দিতেন। রাবী উছমানের বর্ণনায় “খোচা দেয়া” শব্দটি উল্লেখ আছে।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে কিবলার দিকে আড়া-আড়িভাবে শুয়ে থাকতাম। এরূপ অবস্থায়ই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (রাতের নফল) সালাত আদায় করতেন। অতঃপর তিনি বিতর সালাত আদায়ের ইচ্ছা করলে আমাকে চিমটি কাটতেন আর বলতেনঃ উঠো এবং পাশে দাঁড়াও। বর্ণনাকারী ‘উসমানের বর্ণনায় ‘চিমটি কাটার’ কথাটি আছে। [1] হাসান সহীহ : বুখারী ও মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>714</td></tr><tr><td>Arabic No</td><td>714</td></tr><tr><td>Reference</td><td>Book 2 Hadith 324</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'den; demiştir ki: Ben Resulullah (Sallallahu aleyhi ve Sellem)'in kıblesi cihetine enlemesine uzanmış bir halde uyurdum. Resulullah (Sallallahu aleyhi ve Sellem) ben önünde iken namaz kılardı. Vitir namazı kılmak isteyince; (burada ravi) Osman, "Bana dürterdi" (sözünü) ilave etmiştir. "(Ey Aişe artık kalk), bir kenara çekil (de vitir namazını kıl)" buyururdu. Bu son kısımda hadisin iki ravisi de müttefiktir. Diğer tahric: Buharî, salat; Müslim, salat; Nesaî, tahare; kıble; Ahmed b. Hanbel, VI, 260
+Aişe (r.anha)'den; demiştir ki: Ben Resulullah (Sallallahu aleyhi ve Sellem)'in kıblesi cihetine enlemesine uzanmış bir halde uyurdum. Resulullah (Sallallahu aleyhi ve Sellem) ben önünde iken namaz kılardı. Vitir namazı kılmak isteyince; (burada ravi) Osman, "Bana dürterdi" (sözünü) ilave etmiştir. "(Ey Aişe artık kalk), bir kenara çekil (de vitir namazını kıl)" buyururdu. Bu son kısımda hadisin iki ravisi de müttefiktir. Diğer tahric: Buharî, salat; Müslim, salat; Nesaî, tahare; kıble; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>714</td></tr><tr><td>Arabic No</td><td>714</td></tr><tr><td>Reference</td><td>Book 2 Hadith 324</td></tr></tbody></table></div>
 

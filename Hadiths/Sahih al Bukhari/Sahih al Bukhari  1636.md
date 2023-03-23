@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ যার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমি মক্কায় অবস্থানকালে ঘরের ছাদ ফাঁক করা হল এবং জিবরাঈল (‘আ.) অবতরণ করলেন। এরপর তিনি আমার বক্ষ বিদারণ করলেন এবং তা যমযমের পানি দ্বারা ধুলেন, এরপর ঈমান ও হিকমতে পরিপূর্ণ একটি সোনার পেয়ালা নিয়ে এলেন এবং তা আমার বুকে ঢেলে দিয়ে জোড়া লাগিয়ে দিলেন। অতঃপর আমার হাত ধরে আমাকে নিয়ে দুনিয়ার আসমানে গেলেন এবং জিবরাঈল (‘আ.) এই আসমানের তত্ত্বাবধানকারী ফেরেশ্তাকে বললেন, (দরজা) খোল। তিনি বললেন কে? তিনি বললেন, আমি জিব্রাঈল। (৩৪৯) (আধুনিক প্রকাশনীঃ অনুচ্ছেদ ৭৫, ইসলামিক ফাউন্ডেশনঃ অনুচ্ছেদ ১০৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ যার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমি মক্কায় অবস্থানকালে ঘরের ছাদ ফাঁক করা হল এবং জিবরাঈল (‘আ.) অবতরণ করলেন। এরপর তিনি আমার বক্ষ বিদারণ করলেন এবং তা যমযমের পানি দ্বারা ধুলেন, এরপর ঈমান ও হিকমতে পরিপূর্ণ একটি সোনার পেয়ালা নিয়ে এলেন এবং তা আমার বুকে ঢেলে দিয়ে জোড়া লাগিয়ে দিলেন। অতঃপর আমার হাত ধরে আমাকে নিয়ে দুনিয়ার আসমানে গেলেন এবং জিবরাঈল (‘আ.) এই আসমানের তত্ত্বাবধানকারী ফেরেশ্তাকে বললেন, (দরজা) খোল। তিনি বললেন কে? তিনি বললেন, আমি জিব্রাঈল। (৩৪৯) (আধুনিক প্রকাশনীঃ অনুচ্ছেদ ৭৫, ইসলামিক ফাউন্ডেশনঃ অনুচ্ছেদ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 25 Hadith 119</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik that Abu Dhar said:Allah's Messenger (ﷺ) said, "The roof of my house was made open while I was at Makkah (on the night of Mi'raj) and Jibril descended. He opened up my chest and washed it with the water of Zamzam. The he brought the golden tray full of Wisdom and Belief and poured it in my chest and then closed it. The he took hold of my hand and ascended to the nearest heaven. Jibril told the gatekeeper of the nearest heaven to open the gate. The gatekeeper asked, "Who is it?" Jibril replied, "I am Jibril." (See Hadith No. 349 Vol.1)
+Narrated Anas bin Malik that Abu Dhar said:Allah's Messenger (ﷺ) said, "The roof of my house was made open while I was at Makkah (on the night of Mi'raj) and Jibril descended. He opened up my chest and washed it with the water of Zamzam. The he brought the golden tray full of Wisdom and Belief and poured it in my chest and then closed it. The he took hold of my hand and ascended to the nearest heaven. Jibril told the gatekeeper of the nearest heaven to open the gate. The gatekeeper asked, "Who is it?" Jibril replied, "I am Jibril." (See Hadith No. 349 Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 25 Hadith 119</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Anas bin Malik that Abu Dhar said:Allah's Messenger (ﷺ) said, "The ro
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் மக்காவில் இருந்தபோது எனது (வீட்டுக்) கூரை திறக்கப்பட்டது. (அதன் வழியாக வானவர்) ஜிப்ரீல் (அலை) அவர்கள் இறங்கி எனது நெஞ்சைப் பிளந்தார். பிறகு அதை ஸம்ஸம் நீரால் கழுவினார். பிறகு இறைநம்பிக்கையும் ஞானமும் நிரம்பிய தங்கத் தட்டு ஒன்றைக் கொண்டு வந்து, அதிலுள்ளதை என் நெஞ்சில் நிரப்பி, நெஞ்சை மூடினார். பிறகு என் கையைப் பிடித்து முதல் வானத்திற்கு ஏற்றிச் சென்றார். முதல் வானத்தின் காவலரிடம் ‘திறப்பீராக!’ என்றார். “யார் அது?” என அக்காவலர் கேட்க, ‘ஜிப்ரீல்’ என்று ஜிப்ரீல் (அலை) அவர்கள் கூறினார்கள். இதை அபூதர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 25
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் மக்காவில் இருந்தபோது எனது (வீட்டுக்) கூரை திறக்கப்பட்டது. (அதன் வழியாக வானவர்) ஜிப்ரீல் (அலை) அவர்கள் இறங்கி எனது நெஞ்சைப் பிளந்தார். பிறகு அதை ஸம்ஸம் நீரால் கழுவினார். பிறகு இறைநம்பிக்கையும் ஞானமும் நிரம்பிய தங்கத் தட்டு ஒன்றைக் கொண்டு வந்து, அதிலுள்ளதை என் நெஞ்சில் நிரப்பி, நெஞ்சை மூடினார். பிறகு என் கையைப் பிடித்து முதல் வானத்திற்கு ஏற்றிச் சென்றார். முதல் வானத்தின் காவலரிடம் ‘திறப்பீராக!’ என்றார். “யார் அது?” என அக்காவலர் கேட்க, ‘ஜிப்ரீல்’ என்று ஜிப்ரீல் (அலை) அவர்கள் கூறினார்கள். இதை அபூதர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 25 Hadith 119</td></tr></tbody></table></div>
 

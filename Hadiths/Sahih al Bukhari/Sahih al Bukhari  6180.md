@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল (রাঃ) থেকে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সাবধান! তোমাদের কেউ যেন এ কথা না বলে, আমার অন্তর ‘খবীস’ হয়ে গেছে। বরং সে বলবেঃ আমার অন্তর কলুষিত হয়েছে। [মুসলিম ৪০/৪, হাঃ ২২৫১] (আধুনিক প্রকাশনী- ৫৭৩৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6180</td></tr><tr><td>Arabic No</td><td>6180</td></tr><tr><td>Reference</td><td>Book 78 Hadith 204</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Sal:The Prophet (ﷺ) said, "None of you should say Khabuthat Nafsi but he is recommended to say 'Laqisat Nafsi (See Hadith No. 202)
+Narrated Sal:The Prophet (ﷺ) said, "None of you should say Khabuthat Nafsi but he is recommended to say 'Laqisat Nafsi (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6180</td></tr><tr><td>Arabic No</td><td>6180</td></tr><tr><td>Reference</td><td>Book 78 Hadith 204</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Abdullah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் (மனக் குழப்பத்திலிருக்கும்) யாரும் (‘என் மனம் அசுத்தமாகிவிட்டது’ எனும் பொருள் பொதிந்த) ‘கபுஸத் நஃப்ஸீ’ எனும் சொல்லை ஆள வேண்டாம். மாறாக, (‘என் மனம் கனத்துவிட்டது’ எனும் பொருள்தரும்) ‘லகிசத் நஃப்ஸீ’ எனும் சொல்லையே ஆளட்டும். இதை சஹ்ல் பின் ஹுனைஃப் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் (மனக் குழப்பத்திலிருக்கும்) யாரும் (‘என் மனம் அசுத்தமாகிவிட்டது’ எனும் பொருள் பொதிந்த) ‘கபுஸத் நஃப்ஸீ’ எனும் சொல்லை ஆள வேண்டாம். மாறாக, (‘என் மனம் கனத்துவிட்டது’ எனும் பொருள்தரும்) ‘லகிசத் நஃப்ஸீ’ எனும் சொல்லையே ஆளட்டும். இதை சஹ்ல் பின் ஹுனைஃப் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6180</td></tr><tr><td>Arabic No</td><td>6180</td></tr><tr><td>Reference</td><td>Book 78 Hadith 204</td></tr></tbody></table></div>
 

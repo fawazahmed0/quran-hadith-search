@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭৭২। কাতাদা (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, আনাস ইবনু মালিক (রাঃ)-কে আমি প্রশ্ন করলাম, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের জুতাজোড়া কেমন ছিল? তিনি বললেন, এর দু'টি করে ফিতা ছিল। সহীহ, মুখতাসার শামা-ইল (৬০, ৬২) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। কাতাদা (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, আনাস ইবনু মালিক (রাঃ)-কে আমি প্রশ্ন করলাম, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের জুতাজোড়া কেমন ছিল? তিনি বললেন, এর দু'টি করে ফিতা ছিল। সহীহ, মুখতাসার শামা-ইল (৬০, ৬২) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1772</td></tr><tr><td>Arabic No</td><td>1772</td></tr><tr><td>Reference</td><td>Book 24 Hadith 60</td></tr></tbody></table></div>
 

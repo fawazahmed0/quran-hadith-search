@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭৯৪, আন্তর্জাতিক নাম্বারঃ ১৮৯৩ ৪৭৯৪-(…/...) ইসহাক ইবনু ইবরাহীম, বিশর ইবনু খালিদ ও মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... আ'মাশ (রহঃ) উক্ত সানাদে বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৭৪৭, ইসলামিক সেন্টার ৪৭৪৮)
+(…/...) ইসহাক ইবনু ইবরাহীম, বিশর ইবনু খালিদ ও মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... আ'মাশ (রহঃ) উক্ত সানাদে বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৭৪৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4900</td></tr><tr><td>Arabic No</td><td>1893.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 196</td></tr></tbody></table></div>
 

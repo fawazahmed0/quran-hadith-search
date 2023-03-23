@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত, তিনি বলেন, ‘আকাবা রাতে আমার দু’জন মামা আমাকে সেখানে নিয়ে গিয়েছিলেন। ইমাম বুখারী (রহ.) বলেন, ইবনু উয়ায়না বলেন, দু’জন মামার একজন হলেন বারা‘ ইবনু মা‘রূর (রাঃ)। (৩৮৯১) (আধুনিক প্রকাশনীঃ ৩৬০৩, ইসলামিক ফাউন্ডেশনঃ ৩৬০৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত, তিনি বলেন, ‘আকাবা রাতে আমার দু’জন মামা আমাকে সেখানে নিয়ে গিয়েছিলেন। ইমাম বুখারী (রহ.) বলেন, ইবনু উয়ায়না বলেন, দু’জন মামার একজন হলেন বারা‘ ইবনু মা‘রূর (রাঃ)। (৩৮৯১) (আধুনিক প্রকাশনীঃ ৩৬০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3890</td></tr><tr><td>Arabic No</td><td>3890</td></tr><tr><td>Reference</td><td>Book 63 Hadith 115</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: என் இரு மாமன்மார்களும் அல்அகபா உடன்படிக்கையில் கலந்துகொண்டனர். சுஃப்யான் பின் உயைனா (ரஹ்) அவர்கள், “அந்த இருவரில் ஒருவர் பராஉ பின் மஅரூர் (ரலி) அவர்களாவார்”139 என்று சொன்னார் என அபூஅப்தில்லாஹ் புகாரீயாகிய நான் கூறுகிறேன். அத்தியாயம் : 63
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: என் இரு மாமன்மார்களும் அல்அகபா உடன்படிக்கையில் கலந்துகொண்டனர். சுஃப்யான் பின் உயைனா (ரஹ்) அவர்கள், “அந்த இருவரில் ஒருவர் பராஉ பின் மஅரூர் (ரலி) அவர்களாவார்”139 என்று சொன்னார் என அபூஅப்தில்லாஹ் புகாரீயாகிய நான் கூறுகிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3890</td></tr><tr><td>Arabic No</td><td>3890</td></tr><tr><td>Reference</td><td>Book 63 Hadith 115</td></tr></tbody></table></div>
 

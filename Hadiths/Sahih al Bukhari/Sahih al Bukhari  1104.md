@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আমির ইবনু রাবী‘আহ (রাযি.) থেকে বর্ণিত। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে রাতের বেলা সফরে বাহনের পিঠে বাহনের গতিপথ অভিমুখী হয়ে নফল সালাত আদায় করতে দেখেছেন। (১০৯৩) (আধুনিক প্রকাশনীঃ ১০৩৬, ইসলামিক ফাউন্ডেশনঃ ১০৪০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1104</td></tr><tr><td>Arabic No</td><td>1104</td></tr><tr><td>Reference</td><td>Book 18 Hadith 24</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated 'Abdullah bin Amir that his father had told him that he had seen the Pr
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆமிர் பின் ரபிஆ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரவில் பயணம் செய்தபோது, தமது ஊர்தி ஒட்டகத்தில் அமர்ந்து அது சென்ற திசை நோக்கிக் கூடுதல் தொழுகைகளைத் தொழுததை நான் பார்த்திருக்கிறேன். அத்தியாயம் : 18
+ஆமிர் பின் ரபிஆ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரவில் பயணம் செய்தபோது, தமது ஊர்தி ஒட்டகத்தில் அமர்ந்து அது சென்ற திசை நோக்கிக் கூடுதல் தொழுகைகளைத் தொழுததை நான் பார்த்திருக்கிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1104</td></tr><tr><td>Arabic No</td><td>1104</td></tr><tr><td>Reference</td><td>Book 18 Hadith 24</td></tr></tbody></table></div>
 

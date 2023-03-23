@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হিশাম ইবন বাহরাম মাদাইনী (রহঃ) .... উবাদা ইবন সামিত (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন কোন জানাযার উদ্দেশ্যে দাঁড়াতেন, তখন তিনি ততক্ষণ বসতেন না, যতক্ষণ না সে লাশকে কবরে রাখা হতো। অতঃপর জনৈক ইয়াহূদী আলিম তাঁর নিকট দিয়ে গমনকালে বলেঃ আমরাও এরূপ করে থাকি। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বসে পড়েন এবং বলেনঃ তোমরাও বস এবং তাদের (ইয়াহূদীদের) বিপরীত কাজ কর।
+। উবাদাহ ইবনুস সামিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছ দিয়ে লাশ নিয়ে যাওয়া হলে তিনি দাঁড়িয়ে যেতেন এবং তা কবরে না নামানো পর্যন্ত দাঁড়িয়ে থাকতেন। একবার এক ইয়াহুদী ‘আলিম তাঁর কাছে এসে বললো, ‘আমরাও এরূপ করি। একথা শুনে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বসে গেলেন এবং বললেনঃ তোমরা তাদের বিপরীত করার জন্য বসে যাও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3176</td></tr><tr><td>Arabic No</td><td>3176</td></tr><tr><td>Reference</td><td>Book 21 Hadith 88</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইবন মুহাম্মদ (রহঃ) .... তাউস (রহঃ) উমার (রাঃ) থেকে বর্ণনা করেছেন যে, একদা তিনি মিম্বরের উপর দাঁড়ান। এরপর উপরোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে। তবে সেখানে উল্লেখ নেই যে, তিনি সে মহিলাকে হত্যার নির্দেশ দেন। তবে এখানে অতিরিক্ত উল্লেখ আছে যে, তিনি একটা দাস বা দাসী দেওয়ার জন্য নির্দেশ দেন। তখন উমার (রাঃ) বলেনঃ আল্লাহু আকবার! যদি আমি এ হুকুম না শুনতাম, তবে আমি অন্যরূপ নির্দেশ দিতাম।
+। তাঊস (রহঃ) সূত্রে বর্ণিত। একদা উমার (রাঃ) মিম্বারে দাঁড়ালেন ... অতঃপর পূর্বোক্ত হাদীসের অর্থানুরূপ বর্ণিত। তবে এতে ‘‘তাকে হত্যা করা হবে’’ কথাটি নেই। এরপর উৎকৃষ্ট গোলাম বা দাসীর কথা বলেছেন। বর্ণনাকারী বলেন, উমার (রাঃ) বললেন, আল্লাহু আকবার, আমি হাদীস না শুনলে তো ভিন্ন নির্দেশ দিয়ে ফেলতাম।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4573</td></tr><tr><td>Arabic No</td><td>4573</td></tr><tr><td>Reference</td><td>Book 41 Hadith 80</td></tr></tbody></table></div>
 

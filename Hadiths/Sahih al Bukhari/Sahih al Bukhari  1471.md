@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুবাইর ইবনু ‘আওয়াম (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ তোমাদের মধ্যে কেউ রশি নিয়ে তার পিঠে কাঠের বোঝা বয়ে আনা এবং তা বিক্রি করা, ফলে আল্লাহ তার চেহারাকে (যাচ্ঞা করার লাঞ্ছনা হতে) রক্ষা করেন, তা মানুষের কাছে সওয়াল করার চেয়ে উত্তম, চাই তারা দিক বা না দিক। (২০৭৫, ২৩৭৩) (আধুনিক প্রকাশনীঃ ১৩৭৭, ইসলামিক ফাউন্ডেশনঃ ১৩৮৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যুবাইর ইবনু ‘আওয়াম (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ তোমাদের মধ্যে কেউ রশি নিয়ে তার পিঠে কাঠের বোঝা বয়ে আনা এবং তা বিক্রি করা, ফলে আল্লাহ তার চেহারাকে (যাচ্ঞা করার লাঞ্ছনা হতে) রক্ষা করেন, তা মানুষের কাছে সওয়াল করার চেয়ে উত্তম, চাই তারা দিক বা না দিক। (২০৭৫, ২৩৭৩) (আধুনিক প্রকাশনীঃ ১৩৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1471</td></tr><tr><td>Arabic No</td><td>1471</td></tr><tr><td>Reference</td><td>Book 24 Hadith 73</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Wuhaib] te
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் ஒரு கயிற்றை எடுத்துக்கொண்டு தமது முதுகில் விறகுக் கட்டைச் சுமந்து விற்(றுப் பிழைப்)பதானது, மக்களிடம் யாசகம் கேட்பதைவிடச் சிறந்ததாகும். இதன் மூலம், அவருக்கு இழிவு ஏற்படாமல் அல்லாஹ் தடுத்து விடுவான். மக்கள் அவருக்குக் கொடுக்க வும் செய்யலாம்; அல்லது மறுக்கவும் செய்யலாம். இதை ஸுபைர் பின் அல்அவ்வாம் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 24
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் ஒரு கயிற்றை எடுத்துக்கொண்டு தமது முதுகில் விறகுக் கட்டைச் சுமந்து விற்(றுப் பிழைப்)பதானது, மக்களிடம் யாசகம் கேட்பதைவிடச் சிறந்ததாகும். இதன் மூலம், அவருக்கு இழிவு ஏற்படாமல் அல்லாஹ் தடுத்து விடுவான். மக்கள் அவருக்குக் கொடுக்க வும் செய்யலாம்; அல்லது மறுக்கவும் செய்யலாம். இதை ஸுபைர் பின் அல்அவ்வாம் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1471</td></tr><tr><td>Arabic No</td><td>1471</td></tr><tr><td>Reference</td><td>Book 24 Hadith 73</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Wuhaib] te
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zübeyr İbnü'i-Avvam r.a. Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet eder: "Siz'den birinin, urganını alıp, sırtında odun yükü taşıması böylece Allah'ın onun başını dik bir durumda tutması, ister versinler, isterse vermesinler, insanlardan dilenmesinden daha hayırlıdır. Tekrar: 2075, 3373
+Zübeyr İbnü'i-Avvam r.a. Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet eder: "Siz'den birinin, urganını alıp, sırtında odun yükü taşıması böylece Allah'ın onun başını dik bir durumda tutması, ister versinler, isterse vermesinler, insanlardan dilenmesinden daha hayırlıdır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1471</td></tr><tr><td>Arabic No</td><td>1471</td></tr><tr><td>Reference</td><td>Book 24 Hadith 73</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... হাকীম ইবন হিযাম (রাঃ) থেকে বর্ণিত। একদা তিনি বলেনঃ ইয়া রাসূলাল্লাহ! যদি কেউ আমার কাছে উপস্থিত হয়ে এমন কিছু জিনিস ক্রয় করতে চায়, যা আমার কাছে নেই, তবে কি আমি তাকে সে জিনিস বাজার থেকে ক্রয় করে দিতে পারি? তখন তিনি বলেনঃ তোমার কাছে যা নেই, তা তুমি ক্রয়-বিক্রয় করবে না।
+। হাকিম ইবনু হিযাম (রহঃ) সূত্রে বর্ণিত। একদা তিনি বলেন, হে আল্লাহর রাসূল! কোনো ব্যক্তি আমার নিকট এসে এমন জিনিস কিনতে চায় যা আমার কাছে নেই। আমি কি বাজার থেকে তার জন্য ঐ জিনিস কিনে আনবো? তিনি বলেনঃ তোমার কাছে যা নেই তা বিক্রি করো না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3503</td></tr><tr><td>Arabic No</td><td>3503</td></tr><tr><td>Reference</td><td>Book 24 Hadith 88</td></tr></tbody></table></div>
 

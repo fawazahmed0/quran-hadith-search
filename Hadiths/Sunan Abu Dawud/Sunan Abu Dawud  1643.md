@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ ইব্‌ন মুআয (রহঃ) ..... ছাওবান (রাঃ) হতে বর্ণিত। আর তিনি ছিলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লামের আযাদকৃত গোলাম। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তি আমার নিকট এই মর্মে প্রতিশ্রুতিবদ্ধ হবে যে, সে অন্যের নিকট যাচ্ঞা করবে না, আমি তার জান্নাতের জিম্মাদারী গ্রহণ করব। ছাওবান (রাঃ) বলেন, আমি। অতঃপর তিনি কারো নিকট কিছু প্রার্থনা করতেন না।
+। সাওবান (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি আমাকে নিশ্চয়তা দিবে যে, সে অন্যের কাছে কিছু চাইবে না, তাহলে আমি তার জান্নাতের যিম্মাদার হবো। সাওবান (রাঃ) বলেন, আমি। এরপর তিনি কারো কাছে কিছু সওয়াল করেননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1643</td></tr><tr><td>Arabic No</td><td>1643</td></tr><tr><td>Reference</td><td>Book 9 Hadith 88</td></tr></tbody></table></div>
 

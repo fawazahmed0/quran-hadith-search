@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন আলী (রহঃ) .... হুজায়ফা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি মুহাম্মদ ইবন মাসলামা (রাঃ) ব্যতীত আর কাউকে ফিতনার মধ্যে নিপাতিত হওয়ার পর রক্ষা পেতে দেখিনি, যে ফিতনা সম্পর্কে আমি নিজেও ভীত ছিলাম। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপ বলতে শুনি যে, (হে মুহাম্মদ ইবন মাসলামা), ফিতনার কারণে তোমার কোন ক্ষতি হবে না।
+। মুহাম্মাদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, হুযাইফাহ (রাঃ) বলেছেন, মুহাম্মাদ ইবনু মাসলামাহ (রাঃ) ছাড়া অন্য সবার ব্যাপারেই হাঙ্গামার শিকার হওয়ার আশঙ্কা করেছি। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, হাঙ্গামা তোমার (মুহাম্মাদ ইবনু মাসলামাহর) কোনো ক্ষতি করতে পারবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4663</td></tr><tr><td>Arabic No</td><td>4663</td></tr><tr><td>Reference</td><td>Book 42 Hadith 68</td></tr></tbody></table></div>
 

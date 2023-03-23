@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কুরাইব (রহ.) বলেন, ‘আবদুল্লাহ ইবনু ‘আব্বাস (রাঃ) ফযল (রাঃ) হতে আমার নিকট বর্ণনা করেছেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জামরায় পৌঁছা পর্যন্ত তালবিয়া পাঠ করতে থাকেন। (১৫৪৪, মুসলিম ১৫/৪৫, হাঃ ১৬৮০, ১৬৮১, আহমাদ ২১৮০১) (আধুনিক প্রকাশনীঃ ১৫৫৬ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ১৫৬২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1669</td></tr><tr><td>Arabic No</td><td>1669</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুহায়র ইবন হারব ..... বনী নাওফলের আযাদকৃত গোলাম আবূ হাসান বলেন, তিনি ইবন আব্বাস (রাঃ)-কে এমন একজন দাস সম্পর্কে জিজ্ঞাসা করেন, যার অধীনে একজন দাসী স্ত্রী ছিল। আর সে তাকে দু‘তালাক প্রদান করেছিল। এরপর তারা উভয়েই আযাদ হয়। এমতাবস্থায় দাসীটি কি তাকে পুনরায় বিবাহ করতে পারবে? তিনি বলেন, হ্যাঁ, পারবে। কেননা, এতদসম্পর্কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ ফয়সালা প্রদান করেছেন।
+। বনী নাওফালের মুক্তদাস আবূ হাসান (রহ.) বলেন, তিনি ইবনু ‘আব্বাস (রাযি.)-এর নিকট জনৈক ক্রীতদাস সম্পর্কে ফতোয়া চাইলেন, তার একজন দাসী স্ত্রী ছিলো যাকে সে দুই তালাক দেয়। পরে তারা উভয়ে দাসত্বমুক্ত হয়ে যায়। এমতাবস্থায় ঐ মহিলাকে পুনরায় বিয়ের পয়গাম দেয়া তার জন্য ঠিক হবে কিনা? উত্তরে তিনি বললেন, হ্যাঁ, পারবে। কেননা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ সিদ্ধান্ত দিয়েছেন।[1] দুর্বলঃ যঈফ সুনান ইবনু মাজাহ (৪৫৩), যঈফ সুনান নাসায়ী (২২৫/৩৪২৮)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2187</td></tr><tr><td>Arabic No</td><td>2187</td></tr><tr><td>Reference</td><td>Book 13 Hadith 13</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) .... হাবীব ইবন মাসলামা ফিহরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘খুমুস’ বা এক-পঞ্চমাংশ নেওয়ার পর গণীমতের মালের ‘ছুলুছ’ বা এক-তৃতীয়াংশ অতিরিক্ত (পুরস্কার) হিসাবে প্রদান করতেন।
+। হাবীব ইবনু মাসলামাহ আল-ফিহরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গানীমাতের এক-পঞ্চমাংশ বের করার পর অবশিষ্ট মালের এক-তৃতীয়াংশ অতিরিক্ত হিসেবে প্রদান করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2748</td></tr><tr><td>Arabic No</td><td>2748</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
 

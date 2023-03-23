@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবনু হারব্ ..... ওয়াবিসা (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এক ব্যক্তিকে কাতারের পিছনে একাকী দাঁড়িয়ে নামায পড়তে দেখেন। তিনি তাকে পুনরায় নামায পড়ার নির্দেশ দেন- (ইবনু মাজাহ,তিরমিযী)।
+। ওয়াবিসাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে কাতারের পিছনে একাকী দাড়িঁয়ে সালাত আদায় করতে দেখে তাকে পুনরায় সালাত আদায় করার নির্দেশ দিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>682</td></tr><tr><td>Arabic No</td><td>682</td></tr><tr><td>Reference</td><td>Book 2 Hadith 292</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Hafsh bin Umar] dia berk
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Vabisa (b. Ma'bed) (r.a.)'den rivayet edildiğine göre "Peygamber (Sallallahu aleyhi ve Sellem) saffın arasında tek başına namaz kılan bir adam görmüş de kendisine (namazı) iade etmesini emretmiştir." Süleyman b. Harb, "namazı iade etmesini emretti" diye rivayet etmiştir." Diğer tahric: Tirmizî, mevakît; ibn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, IV, 228
+Vabisa (b. Ma'bed) (r.a.)'den rivayet edildiğine göre "Peygamber (Sallallahu aleyhi ve Sellem) saffın arasında tek başına namaz kılan bir adam görmüş de kendisine (namazı) iade etmesini emretmiştir." Süleyman b. Harb, "namazı iade etmesini emretti" diye rivayet etmiştir." Diğer tahric: Tirmizî, mevakît; ibn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>682</td></tr><tr><td>Arabic No</td><td>682</td></tr><tr><td>Reference</td><td>Book 2 Hadith 292</td></tr></tbody></table></div>
 

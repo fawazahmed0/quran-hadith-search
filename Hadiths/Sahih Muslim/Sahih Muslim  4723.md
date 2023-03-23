@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬১৭, আন্তর্জাতিক নাম্বারঃ ১৮২৮ ৪৬১৭-(.../...) মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... আয়িশাহ্ (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৫৭২, ইসলামিক সেন্টার ৪৫৭৫)
+মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... আয়িশাহ্ (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৫৭২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4723</td></tr><tr><td>Arabic No</td><td>1828.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 23</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৩০১, আন্তর্জাতিক নাম্বারঃ ১৪০৪ ৩৩০১-(১১/১৪০৪) মুহাম্মাদ ইবনু ‘আবদুল্লাহ ইবনু নুমায়র আল হামদানী (রহঃ) ..... কায়স (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি আবদুল্লাহ (রাযিঃ) কে বলতে শুনেছি, আমরা রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে জিহাদে অংশগ্রহণ করতাম এবং আমাদের সঙ্গে আমাদের স্ত্রীগণ থাকত না। আমরা বললাম, আমরা কি খাসী হব না? তিনি আমাদের তা থেকে নিষেধ করলেন। অতঃপর তিনি পরিধেয় বস্ত্র দানের বিনিময়ে আমাদের নির্দিষ্ট কালের জন্য নারীদের বিবাহ করার রুখসত দিলেন। অতঃপর আবদুল্লাহ (রাযিঃ) পাঠ করলেনঃ “হে মুমিনগণ! আল্লাহ তোমাদের জন্য উৎকৃষ্ট যেসব বস্তু হালাল করেছেন, সে সমুদয়কে তোমরা হারাম করো না এবং সীমালঙ্ঘন করো না আল্লাহ সীমালঙ্ঘনকারীদের পছন্দ করেন না”— (সূরা আল মায়িদাহ ৫ঃ ৮৭)। (ইসলামিক ফাউন্ডেশন ৩২৭৬, ইসলামীক সেন্টার ৩২৭৪)
+মুহাম্মাদ ইবনু ‘আবদুল্লাহ ইবনু নুমায়র আল হামদানী (রহঃ) ..... কায়স (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি আবদুল্লাহ (রাযিঃ) কে বলতে শুনেছি, আমরা রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে জিহাদে অংশগ্রহণ করতাম এবং আমাদের সঙ্গে আমাদের স্ত্রীগণ থাকত না। আমরা বললাম, আমরা কি খাসী হব না? তিনি আমাদের তা থেকে নিষেধ করলেন। অতঃপর তিনি পরিধেয় বস্ত্র দানের বিনিময়ে আমাদের নির্দিষ্ট কালের জন্য নারীদের বিবাহ করার রুখসত দিলেন। অতঃপর আবদুল্লাহ (রাযিঃ) পাঠ করলেনঃ “হে মুমিনগণ! আল্লাহ তোমাদের জন্য উৎকৃষ্ট যেসব বস্তু হালাল করেছেন, সে সমুদয়কে তোমরা হারাম করো না এবং সীমালঙ্ঘন করো না আল্লাহ সীমালঙ্ঘনকারীদের পছন্দ করেন না”— (সূরা আল মায়িদাহ ৫ঃ ৮৭)। (ইসলামিক ফাউন্ডেশন ৩২৭৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>1404.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 13</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah (b. Mas'ud) reported:We were on an expedition with Allah's Messenger (ﷺ) and we had no women with us. We said: Should we not have ourselves castrated? He (the Holy Prophet) forbade us to do so He then granted us permission that we should contract temporary marriage for a stipulated period giving her a garment, and 'Abdullah then recited this verse: 'Those who believe do not make unlawful the good things which Allah has made lawful for you, and do not transgress. Allah does not like trangressers" (al-Qur'an, v. 87)
+Abdullah (b. Mas'ud) reported:We were on an expedition with Allah's Messenger (ﷺ) and we had no women with us. We said: Should we not have ourselves castrated? He (the Holy Prophet) forbade us to do so He then granted us permission that we should contract temporary marriage for a stipulated period giving her a garment, and 'Abdullah then recited this verse: 'Those who believe do not make unlawful the good things which Allah has made lawful for you, and do not transgress. Allah does not like trangressers" (al-Qur'an, v)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>1404.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 13</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair Al Hamdani] tel
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) மற்றும் சலமா பின் அல்அக்வஉ (ரலி) ஆகியோர் கூறியதாவது: (நாங்கள் "ஹுனைன்" அல்லது "அவ்தாஸ்" போரில் இருந்தபோது) எங்களிடம் அல்லாஹ்வின் தூதருடைய அறிவிப்பாளர் ஒருவர் வந்து, "அல்முத்ஆ" (தவணை முறைத்) திருமணம் செய்து கொள்ள அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் உங்களுக்கு (தாற்காலிகமாக) அனுமதியளித்துள்ளார்கள் என்று அறிவிப்புச் செய்தார். அத்தியாயம் : 16
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) மற்றும் சலமா பின் அல்அக்வஉ (ரலி) ஆகியோர் கூறியதாவது: (நாங்கள் "ஹுனைன்" அல்லது "அவ்தாஸ்" போரில் இருந்தபோது) எங்களிடம் அல்லாஹ்வின் தூதருடைய அறிவிப்பாளர் ஒருவர் வந்து, "அல்முத்ஆ" (தவணை முறைத்) திருமணம் செய்து கொள்ள அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் உங்களுக்கு (தாற்காலிகமாக) அனுமதியளித்துள்ளார்கள் என்று அறிவிப்புச் செய்தார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>1404.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 13</td></tr></tbody></table></div>
 

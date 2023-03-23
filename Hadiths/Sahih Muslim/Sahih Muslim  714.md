@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬০১, আন্তর্জাতিক নাম্বারঃ ৩১৪ ৬০১-(.../৩১৪) 'আবদুল মালিক ইবনু শু'আয়ব ইবনুল লায়স (রহঃ) ..... উম্মুল মু'মিনীন আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন যে, আবূ তালহার সন্তানদের মা উন্মু সুলায়ম একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়ে হিশামের হাদীসের অনুরূপ বর্ণনা করেন। তবে এ হাদীসটিতে ব্যতিক্রম যা রয়েছে তা হল, আয়িশাহ্ (রাযিঃ) বলেন, আমি বললাম, "ছিঃ ছিঃ (অসন্তোষ প্রকাশক শব্দ) মেয়েলোক কি ঐরুপ দেখে?" (ইসলামিক ফাউন্ডেশনঃ ৬০৫, ইসলামিক সেন্টারঃ ৬২১)
+আবদুল মালিক ইবনু শু'আয়ব ইবনুল লায়স (রহঃ) ..... উম্মুল মু'মিনীন আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন যে, আবূ তালহার সন্তানদের মা উন্মু সুলায়ম একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়ে হিশামের হাদীসের অনুরূপ বর্ণনা করেন। তবে এ হাদীসটিতে ব্যতিক্রম যা রয়েছে তা হল, আয়িশাহ্ (রাযিঃ) বলেন, আমি বললাম, "ছিঃ ছিঃ (অসন্তোষ প্রকাশক শব্দ) মেয়েলোক কি ঐরুপ দেখে?" (ইসলামিক ফাউন্ডেশনঃ ৬০৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>714</td></tr><tr><td>Arabic No</td><td>314.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 36</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ A'isha the wife of the Apostle (ﷺ) narrated:Umm Sulaim, the mother of Bani Abu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Abdülmelik b. Şuayb b. Leys de rivayet etti. (Dediki): Bana babam dedemden rivayet etti.. (Demişki): Bana Ukayl b. Halid, ibnî Şihab'dan rivayet etti. İbnî Şihab şöyle demiş: Urve b. Zubeyr'in haber verdiğine göre Nebi (Sallallahu aleyhi ve Sellem)'in zevcesi Aişe ona şunu haber verdi: Ebu Talha'nın oğullarının annesi olan Ümmü Suleym, Resulullah (Sallallahu aleyhi ve Sellem)'in huzuruna girdi ve Hişam'ın hadisi ile aynı manada hadisi rivayet etti. Ancak onun rivayetinde o şöyle dedi: Aişe dedi ki: Ben de ona: Üf senden, kadın böyle bir şey görür mü, dedim. Diğer tahric: Ebu Davud, 237; Nesai, 196
+Bize Abdülmelik b. Şuayb b. Leys de rivayet etti. (Dediki): Bana babam dedemden rivayet etti.. (Demişki): Bana Ukayl b. Halid, ibnî Şihab'dan rivayet etti. İbnî Şihab şöyle demiş: Urve b. Zubeyr'in haber verdiğine göre Nebi (Sallallahu aleyhi ve Sellem)'in zevcesi Aişe ona şunu haber verdi: Ebu Talha'nın oğullarının annesi olan Ümmü Suleym, Resulullah (Sallallahu aleyhi ve Sellem)'in huzuruna girdi ve Hişam'ın hadisi ile aynı manada hadisi rivayet etti. Ancak onun rivayetinde o şöyle dedi: Aişe dedi ki: Ben de ona: Üf senden, kadın böyle bir şey görür mü, dedim. Diğer tahric: Ebu Davud, 237; Nesai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>714</td></tr><tr><td>Arabic No</td><td>314.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 36</td></tr></tbody></table></div>
 

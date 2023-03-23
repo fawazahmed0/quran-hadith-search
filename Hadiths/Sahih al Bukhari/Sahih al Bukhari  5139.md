@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুর রহমান ইবনু ইয়াযীদ এবং মুজাম্মি‘ ইবনু ইয়াযীদ উভয়েই বর্ণনা করেন যে, ‘খিযামা’ নামীয় এক লোক তার মেয়েকে তার অনুমতি ব্যতীত বিয়ে দেন। পরবর্তী অংশ পূর্বোক্ত হাদীসের ন্যায়। [৫১৩৮] (আধুনিক প্রকাশনী- ৪৭৬০, ইসলামিক ফাউন্ডেশন- ৪৭৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুর রহমান ইবনু ইয়াযীদ এবং মুজাম্মি‘ ইবনু ইয়াযীদ উভয়েই বর্ণনা করেন যে, ‘খিযামা’ নামীয় এক লোক তার মেয়েকে তার অনুমতি ব্যতীত বিয়ে দেন। পরবর্তী অংশ পূর্বোক্ত হাদীসের ন্যায়। [৫১৩৮] (আধুনিক প্রকাশনী- ৪৭৬০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5139</td></tr><tr><td>Arabic No</td><td>5139</td></tr><tr><td>Reference</td><td>Book 67 Hadith 75</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Abdur-Rahman bin Yazid and Majammi bin Yazid:The same ,Hadith above: A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-காசிம் பின் முஹம்மத் (ரஹ்) அவர்கள் கூறியதாவது: அப்துர் ரஹ்மான் பின் யஸீத் (ரஹ்) அவர்களும், முஜம்மிஉ பின் யஸீத் (ரஹ்) அவர்களும், ‘‘கிதாம் என்றழைக்கப்படும் ஒருவர் தம்முடைய புதல்வி ஒருவரை மணமுடித்து வைத்தார்” என்று ஆரம்பித்து மேற்கண்ட ஹதீஸைப் போலவே அறிவித்தனர். அத்தியாயம் : 67
+காசிம் பின் முஹம்மத் (ரஹ்) அவர்கள் கூறியதாவது: அப்துர் ரஹ்மான் பின் யஸீத் (ரஹ்) அவர்களும், முஜம்மிஉ பின் யஸீத் (ரஹ்) அவர்களும், ‘‘கிதாம் என்றழைக்கப்படும் ஒருவர் தம்முடைய புதல்வி ஒருவரை மணமுடித்து வைத்தார்” என்று ஆரம்பித்து மேற்கண்ட ஹதீஸைப் போலவே அறிவித்தனர். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5139</td></tr><tr><td>Arabic No</td><td>5139</td></tr><tr><td>Reference</td><td>Book 67 Hadith 75</td></tr></tbody></table></div>
 

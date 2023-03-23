@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মু‘মার আবদুল্লাহ্ ইবন আমর ইবন আবুল হাজ্জাজ ...... আল হারিস ইবন আমর আস সাহমী (রাঃ) বলেন, একদা আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমতে হাযির হই, যখন তিনি মিনাতে ছিলেন অথবা আরাফাতে। আর তাঁর চতুর্দিকে বহু লোক ছিল। তখন তাঁর নিকট বেদুঈনরা আসত আর বলত, এটা মোবারক চেহারা। রাবী বলেন, তিনি ইরাকের অধিবাসীদের জন্য মীকাতস্বরূপ যাতু-ইরককে নির্ধারণ করেন।
+। হারিস ইবনু ‘আমর আস-সাহমী (রাযি.) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলাম, তখন তিনি মিনা অথবা আরাফাতে ছিলেন। এ সময় কিছু লোক তাঁকে ঘিরে রেখেছিলো। বর্ণনাকারী বলেন, এমন সময় কতিপয় বেদুঈন এসে তাঁর চেহারা দেখে স্বতস্ফুর্তভাবে বলে উঠলো, ‘সত্যই এটা বরকতময় চেহারা। বর্ণনাকারী বলেন, তিনি এ সময় ইরাকবাসীর জন্য ‘যাতু ইরক’ কে মীকাত নির্দিষ্ট করে দিয়েছেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1742</td></tr><tr><td>Arabic No</td><td>1742</td></tr><tr><td>Reference</td><td>Book 11 Hadith 22</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু শিহাব (রহ.) বর্ণনা করেন। মাহমূদ ইবনু রাবী বর্ণনা করেছেন যে, তিনিই ছিলেন সেই লোক, বাল্যাবস্থায় তাঁদেরই কূপ থেকে পানি মুখে নিয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যার চেহারার উপর ছিটিয়ে দিয়েছিলেন।[৭৭] (আধুনিক প্রকাশনী- ৫৯০৮, ইসলামিক ফাউন্ডেশন- ৫৮০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু শিহাব (রহ.) বর্ণনা করেন। মাহমূদ ইবনু রাবী বর্ণনা করেছেন যে, তিনিই ছিলেন সেই লোক, বাল্যাবস্থায় তাঁদেরই কূপ থেকে পানি মুখে নিয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যার চেহারার উপর ছিটিয়ে দিয়েছিলেন।[৭৭] (আধুনিক প্রকাশনী- ৫৯০৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6354</td></tr><tr><td>Arabic No</td><td>6354</td></tr><tr><td>Reference</td><td>Book 80 Hadith 51</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மஹ்மூத் பின் அர்ரபீஉ (ரலி) அவர்கள் கூறியதாவது: நான் (நான்கு அல்லது ஐந்து வயது) சிறுவனாக இருந்தபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எங்கள் வீட்டுக் கிணற்றிலிருந்து (தண்ணீரை எடுத்துத் தமது வாயில் வைத்து) என் முகத்தில் (வளத்திற்காக) உமிழ்ந்தார்கள். இதை இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் அறிவிக்கிறார்கள்.42 அத்தியாயம் : 80
+மஹ்மூத் பின் அர்ரபீஉ (ரலி) அவர்கள் கூறியதாவது: நான் (நான்கு அல்லது ஐந்து வயது) சிறுவனாக இருந்தபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எங்கள் வீட்டுக் கிணற்றிலிருந்து (தண்ணீரை எடுத்துத் தமது வாயில் வைத்து) என் முகத்தில் (வளத்திற்காக) உமிழ்ந்தார்கள். இதை இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் அறிவிக்கிறார்கள்.42 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6354</td></tr><tr><td>Arabic No</td><td>6354</td></tr><tr><td>Reference</td><td>Book 80 Hadith 51</td></tr></tbody></table></div>
 

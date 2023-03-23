@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬৩৪। আবূ কুরাইবও এই সনদে অনুরূপ হাদীস বর্ণনা করেছেন। যঈফ, জামে সাগীর (২০৫০), মিশকাত (৪০৩৯) এ অনুচ্ছেদে সাঈদ ইবনু যাইদ ও হারব ইবনু উবাইদুল্লাহর দাদা হতেও হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, কাবুস ইবনু আবূ যাবিয়ান তার পিতার সূত্রে এ হাদীসটি মুরসাল হিসাবে বর্ণনা করেছেন। সকল ফিকহবিদ এ হাদীসের ভিত্তিতে একমত হয়ে বলেছেন, কোন নাসারা (খ্ৰীষ্টান) মুসলিম হলে তার ওপর নির্ধারিত জিযইয়া মাওকৃফ হয়ে যাবে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের বাণীঃ “মুসলিমদের ওপর উশরের জিযইয়া নেই”-এর অর্থ হচ্ছেঃ ব্যক্তির ওপর নির্ধারিত জিযইয়া। এ হাদীস হতে এটাও বুঝা যাচ্ছে যে, তিনি বলেছেনঃ উশর (জিযইয়া) শুধু ইয়াহুদী ও নাসারাদের ওপর আরোপিত হবে, মুসলিমদের ওপর কোন উশর ধার্য হবে না।
+। আবূ কুরাইবও এই সনদে অনুরূপ হাদীস বর্ণনা করেছেন। যঈফ, জামে সাগীর (২০৫০), মিশকাত (৪০৩৯) এ অনুচ্ছেদে সাঈদ ইবনু যাইদ ও হারব ইবনু উবাইদুল্লাহর দাদা হতেও হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, কাবুস ইবনু আবূ যাবিয়ান তার পিতার সূত্রে এ হাদীসটি মুরসাল হিসাবে বর্ণনা করেছেন। সকল ফিকহবিদ এ হাদীসের ভিত্তিতে একমত হয়ে বলেছেন, কোন নাসারা (খ্ৰীষ্টান) মুসলিম হলে তার ওপর নির্ধারিত জিযইয়া মাওকৃফ হয়ে যাবে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের বাণীঃ “মুসলিমদের ওপর উশরের জিযইয়া নেই”-এর অর্থ হচ্ছেঃ ব্যক্তির ওপর নির্ধারিত জিযইয়া। এ হাদীস হতে এটাও বুঝা যাচ্ছে যে, তিনি বলেছেনঃ উশর (জিযইয়া) শুধু ইয়াহুদী ও নাসারাদের ওপর আরোপিত হবে, মুসলিমদের ওপর কোন উশর ধার্য হবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 7 Hadith 18</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ibn Abbas narrated:(A similar narration as no. 633)
+Ibn Abbas narrated:(A similar narration as no)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 7 Hadith 18</td></tr></tbody></table></div>
 

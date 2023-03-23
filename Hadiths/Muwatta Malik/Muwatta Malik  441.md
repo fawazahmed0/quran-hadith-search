@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১. সালিহ ইবন খাওয়াত (خوات) (রহঃ) এমন এক ব্যক্তি হইতে বর্ণনা করেন, যিনি জাতুররিকা (ذَاتِ الرِّقَاعِ) যুদ্ধের দিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে সালাতুল-খাওফ আদায় করিয়াছেন। একদল তাহার সাথে কাতারে দাঁড়াইয়াছিল, আর একদল শক্রর মুকাবিলায় সারিবদ্ধ ছিল। যে দল তাহার সাথে ছিল, তিনি সেই দলকে লইয়া এক রাকাআত সালাতুল-খাওফ পড়িলেন। অতঃপর তিনি দণ্ডায়মান রহিলেন, (দলে যাহারা ছিলেন) তাহারা নিজের নামায আদায় করিয়া লইলেন। অতঃপর তাহারা প্রত্যাবর্তন করিয়া শক্রর মুকাবিলায় সারিবদ্ধ হইয়া গেলেন। তারপর দ্বিতীয় দল উপস্থিত হইল। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাহাদের সঙ্গে অবশিষ্ট নামায পড়িলেন। অতঃপর তিনি বসা অবস্থায় রহিলেন। সঙ্গিগণ তাহাদের নামায পূর্ণ করিলে তিনি তাঁহাদের সাথে সালাম ফিরাইলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 11 Hadith 1</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepadaku Yahya dari Malik dari [Yazid bin Ruman] dari [Shalih
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Salih b. Havvat, Zatü'rrika' Gazvesinde Resûlullah'la Sallallahu Aleyhi ve Sellem beraber korku namazı kılan bir zattan naklen anlatıyor: Önce bir grup gelip Resûlullah'ın Sallallahu Aleyhi ve Sellem ardında saf yaptı, diğer grup ise düşman karşısında kaldı. Saf yapanlara peygamberimiz bir rekat kıldırdıktan sonra kendisi kıyamda bekledi, safta bulunanlar kendi kendilerine namazlarını tamamlayıp ayrıldılar. Bu defa düşman karşısında bekleyen grup geldi, peygamberimizin ardında saf yaptı, namazlarını bitirenler ise düşman karşısına gittiler. İkinci gruba da kalan bir rekatı kıldırdıktan sonra tehiyyatta, oturdu. Cemaat kılmadıkları rekatı tamamladıktan sonra hep beraber selam verdiler. Diğer tahric: Buharî, Megazî; Müslim, Salatu'lMusafırîn; Şafiî, Risale, no: 509, 677
+Salih b. Havvat, Zatü'rrika' Gazvesinde Resûlullah'la Sallallahu Aleyhi ve Sellem beraber korku namazı kılan bir zattan naklen anlatıyor: Önce bir grup gelip Resûlullah'ın Sallallahu Aleyhi ve Sellem ardında saf yaptı, diğer grup ise düşman karşısında kaldı. Saf yapanlara peygamberimiz bir rekat kıldırdıktan sonra kendisi kıyamda bekledi, safta bulunanlar kendi kendilerine namazlarını tamamlayıp ayrıldılar. Bu defa düşman karşısında bekleyen grup geldi, peygamberimizin ardında saf yaptı, namazlarını bitirenler ise düşman karşısına gittiler. İkinci gruba da kalan bir rekatı kıldırdıktan sonra tehiyyatta, oturdu. Cemaat kılmadıkları rekatı tamamladıktan sonra hep beraber selam verdiler. Diğer tahric: Buharî, Megazî; Müslim, Salatu'lMusafırîn; Şafiî, Risale, no:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 11 Hadith 1</td></tr></tbody></table></div>
 

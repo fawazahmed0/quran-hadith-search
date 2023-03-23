@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, ইবনু ‘আব্বাসের খালা উম্মু হুফায়দ (রাঃ) একদা নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর খিদমাতে পনির, ঘি ও দব্ব (অনেকটা গুইসাপের মত দেখতে) হাদিয়া পাঠালেন। কিন্তু নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) শুধু পনির ও ঘি খেলেন আর দব্ব অরুচিকর হওয়ায় বাদ দিলেন। ইবনু ‘আব্বাস (রাঃ) বলেন, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর দস্তরখানে (দব্ব) খাওয়া হয়েছে। তা হারাম হলে রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর দস্তরখানে খাওয়া হত না। (৫৩৮৯, ৫৪০২, ৭৩৫৮, মুসলিম ৩৪/৭ হাঃ ১৯৪৭) (আধুনিক প্রকাশনীঃ ২৩৮৮, ইসলামিক ফাউন্ডেশনঃ ২৪০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, ইবনু ‘আব্বাসের খালা উম্মু হুফায়দ (রাঃ) একদা নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর খিদমাতে পনির, ঘি ও দব্ব (অনেকটা গুইসাপের মত দেখতে) হাদিয়া পাঠালেন। কিন্তু নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) শুধু পনির ও ঘি খেলেন আর দব্ব অরুচিকর হওয়ায় বাদ দিলেন। ইবনু ‘আব্বাস (রাঃ) বলেন, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর দস্তরখানে (দব্ব) খাওয়া হয়েছে। তা হারাম হলে রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর দস্তরখানে খাওয়া হত না। (৫৩৮৯, ৫৪০২, ৭৩৫৮, মুসলিম ৩৪/৭ হাঃ ১৯৪৭) (আধুনিক প্রকাশনীঃ ২৩৮৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 51 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: என் தாயாரின் சகோதரியான உம்மு ஹுஃபைத் (ரலி) அவர்கள், நபி (ஸல்) அவர்களுக்கு (உலர்ந்த) பாலாடைக் கட்டி யையும் வெண்ணெயையும் உடும்புகளை யும் அன்பளிப்பாக வழங்கினார்கள். நபி (ஸல்) அவர்கள் பாலாடைக் கட்டியிலி ருந்தும் வெண்ணையிலிருந்தும் (சிறிது எடுத்து) உண்டார்கள். ஆனால், பிடிக்காத தால் உடும்புகளை அவர்கள் உண்ணாமல் விட்டுவிட்டார்கள். (எனினும்) அது (உடும்பு) அல்லாஹ் வின் தூதர் (ஸல்) அவர்களின் உணவு விரிப்பில் வைத்து உண்ணப்பட்டது. அது தடை செய்யப்பட்டதாக இருந்திருந்தால், அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் உணவு விரிப்பில் வைத்து உண்ணப்பட்டி ருக்காது. அத்தியாயம் : 50
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: என் தாயாரின் சகோதரியான உம்மு ஹுஃபைத் (ரலி) அவர்கள், நபி (ஸல்) அவர்களுக்கு (உலர்ந்த) பாலாடைக் கட்டி யையும் வெண்ணெயையும் உடும்புகளை யும் அன்பளிப்பாக வழங்கினார்கள். நபி (ஸல்) அவர்கள் பாலாடைக் கட்டியிலி ருந்தும் வெண்ணையிலிருந்தும் (சிறிது எடுத்து) உண்டார்கள். ஆனால், பிடிக்காத தால் உடும்புகளை அவர்கள் உண்ணாமல் விட்டுவிட்டார்கள். (எனினும்) அது (உடும்பு) அல்லாஹ் வின் தூதர் (ஸல்) அவர்களின் உணவு விரிப்பில் வைத்து உண்ணப்பட்டது. அது தடை செய்யப்பட்டதாக இருந்திருந்தால், அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் உணவு விரிப்பில் வைத்து உண்ணப்பட்டி ருக்காது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 51 Hadith 10</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] t
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'dan rivayet edilmiştir: İbn Abbas'ın teyzesi Ümmü Hufeyd, Nebi Sallallahu Aleyhi ve Sellem'e keş, tereyağı ve birkaç keler hediye etmişti. Nebi Sallallahu Aleyhi ve Sellem keş'i ve tereyağını yedi; kelerleri ise tiksindiğinden dolayı yemedi. İbn Abbas r.a. dedi ki: "Kelerler Hz. Nebi'in sofrasında yeniidi. Haram olsaydı Allah Resulü'nün sofrasında yenilmezdi." Tekrar: 5389, 5402, 7358
+İbn Abbas r.a.'dan rivayet edilmiştir: İbn Abbas'ın teyzesi Ümmü Hufeyd, Nebi Sallallahu Aleyhi ve Sellem'e keş, tereyağı ve birkaç keler hediye etmişti. Nebi Sallallahu Aleyhi ve Sellem keş'i ve tereyağını yedi; kelerleri ise tiksindiğinden dolayı yemedi. İbn Abbas r.a. dedi ki: "Kelerler Hz. Nebi'in sofrasında yeniidi. Haram olsaydı Allah Resulü'nün sofrasında yenilmezdi." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 51 Hadith 10</td></tr></tbody></table></div>
 

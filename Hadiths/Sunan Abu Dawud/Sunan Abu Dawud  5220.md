@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বকর ইবন আবূ শায়বা (রহঃ) .... শা'বী (রহঃ) থেকে বর্ণিত যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জা'ফর ইবন আবূ তালিব (রাঃ)-এর সাথে মিলিত হয়ে, তাঁর সাথে মু'আনাকা (আলিঙ্গন) করেন এবং তাঁর দু'চোখের মাঝখানে অর্থাৎ কপালে চুমা দেন।
+। আশ-শা‘বী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর দেখা হলো, জা‘ফা ইবনু আবূ তালিবের সঙ্গে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে জড়িয়ে ধরলেন এবং তার দু’চোখর মাঝখানে চুমু দিলেন।[1] দুর্বলঃ মিশকাত হা/ ৪৬৮৬।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5220</td></tr><tr><td>Arabic No</td><td>5220</td></tr><tr><td>Reference</td><td>Book 43 Hadith 448</td></tr></tbody></table></div>
 

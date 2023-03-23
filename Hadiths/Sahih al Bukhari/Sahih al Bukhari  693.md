@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (ইবনু মালিক) (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা শোন ও আনুগত্য কর, যদিও তোমাদের উপর এমন কোন হাবশীকে নেতা নিয়োগ করা হয়-যার মাথা কিসমিসের মতো। (৬৯৬,৭১৪২) (আধুনিক প্রকাশনীঃ ৬৫২, ইসলামিক ফাউন্ডেশনঃ ৬৬০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (ইবনু মালিক) (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা শোন ও আনুগত্য কর, যদিও তোমাদের উপর এমন কোন হাবশীকে নেতা নিয়োগ করা হয়-যার মাথা কিসমিসের মতো। (৬৯৬,৭১৪২) (আধুনিক প্রকাশনীঃ ৬৫২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>693</td></tr><tr><td>Arabic No</td><td>693</td></tr><tr><td>Reference</td><td>Book 10 Hadith 88</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உலர்ந்த திராட்சை போன்ற தலை யுடைய அபிசீனிய (கறுப்பு நிற அடிமை யொருவ)ர் உங்களுக்குத் தலைவராக்கப் பட்டாலும் (அவருக்குச்) செவிசாயுங்கள்; கீழ்ப்படியுங்கள். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உலர்ந்த திராட்சை போன்ற தலை யுடைய அபிசீனிய (கறுப்பு நிற அடிமை யொருவ)ர் உங்களுக்குத் தலைவராக்கப் பட்டாலும் (அவருக்குச்) செவிசாயுங்கள்; கீழ்ப்படியுங்கள். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>693</td></tr><tr><td>Arabic No</td><td>693</td></tr><tr><td>Reference</td><td>Book 10 Hadith 88</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmîştir: Sizin başınıza geçirilen ve kendisine görev verilen kişi başı kuru üzüm tanesi gibi (siyah ve kıvırcık olan) bir Habeşî köle bile olsa onu dinleyin ve ona itaat edin! Tekrar: 696 ve 7142
+Enes İbn Malik (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmîştir: Sizin başınıza geçirilen ve kendisine görev verilen kişi başı kuru üzüm tanesi gibi (siyah ve kıvırcık olan) bir Habeşî köle bile olsa onu dinleyin ve ona itaat edin! Tekrar: 696 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>693</td></tr><tr><td>Arabic No</td><td>693</td></tr><tr><td>Reference</td><td>Book 10 Hadith 88</td></tr></tbody></table></div>
 

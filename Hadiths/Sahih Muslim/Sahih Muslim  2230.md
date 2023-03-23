@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যুহায়র ইবনু হারব (রহঃ) ..... আলী (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমরা জানাযায় রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে দাঁড়াতে দেখে দাঁড়িয়েছি এবং বসতে দেখে বসে গেছি। (ইসলামী ফাউন্ডেশন.২০৯৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2230</td></tr><tr><td>Arabic No</td><td>962.04</td></tr><tr><td>Reference</td><td>Book 11 Hadith 107</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஆரம்பக்காலத்தில்) பிரேதத்தைக் கண்டு எழுந்து நிற்பதைப் பார்த்தபோது நாங்களும் நின்றோம்; (பிற்காலத்தில்) அவர்கள் உட்கார்ந்தபோது நாங்களும் உட்கார்ந்துவிட்டோம். இதை மஸ்ஊத் பின் அல்ஹகம் (ரலி) அவர்கள் அறிவிக்கிறார்கள். - மேற்கண்ட ஹதீஸ் அலீ (ரலி) அவர்களிடமிருந்தே மேலும் இரு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 11
+அலீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஆரம்பக்காலத்தில்) பிரேதத்தைக் கண்டு எழுந்து நிற்பதைப் பார்த்தபோது நாங்களும் நின்றோம்; (பிற்காலத்தில்) அவர்கள் உட்கார்ந்தபோது நாங்களும் உட்கார்ந்துவிட்டோம். இதை மஸ்ஊத் பின் அல்ஹகம் (ரலி) அவர்கள் அறிவிக்கிறார்கள். - மேற்கண்ட ஹதீஸ் அலீ (ரலி) அவர்களிடமிருந்தே மேலும் இரு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2230</td></tr><tr><td>Arabic No</td><td>962.04</td></tr><tr><td>Reference</td><td>Book 11 Hadith 107</td></tr></tbody></table></div>
 

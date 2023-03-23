@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮১১। আবূল আলিয়া হতে বর্ণিত, তিনি বলেনঃ রসুন হালাল খাদ্যের অন্তর্ভুক্ত। সনদ দুর্বল ও বিচ্ছিন্ন। আবূ খালদার নাম খালিদ ইবনু দীনার। হাদীস বিশারদদের নিকট তিনি বিশ্বস্থ রাবী। তিনি আনাস ইবনু মালিকের দেখা পেয়েছেন এবং তার নিকট হতে হাদীস বর্ণনা করেছেন। আবূল আলিয়ার নাম রুফাঈ আর-রিযাহী। আব্দুর রহমান ইবনু মাহদী বলেন, আবূ খালদাহ একজন উত্তম মুসলিম ছিলেন।
+। আবূল আলিয়া হতে বর্ণিত, তিনি বলেনঃ রসুন হালাল খাদ্যের অন্তর্ভুক্ত। সনদ দুর্বল ও বিচ্ছিন্ন। আবূ খালদার নাম খালিদ ইবনু দীনার। হাদীস বিশারদদের নিকট তিনি বিশ্বস্থ রাবী। তিনি আনাস ইবনু মালিকের দেখা পেয়েছেন এবং তার নিকট হতে হাদীস বর্ণনা করেছেন। আবূল আলিয়ার নাম রুফাঈ আর-রিযাহী। আব্দুর রহমান ইবনু মাহদী বলেন, আবূ খালদাহ একজন উত্তম মুসলিম ছিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1811</td></tr><tr><td>Arabic No</td><td>1811</td></tr><tr><td>Reference</td><td>Book 25 Hadith 25</td></tr></tbody></table></div>
 

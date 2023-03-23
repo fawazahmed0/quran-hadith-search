@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল মিনহাল (রহঃ) ..... আবদুল্লাহ ইবন আমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তি তিন দিনের কম সময়ে কুরআন খতম করে, সে তার কিছুই অনুধাবন করতে সক্ষম হয় না। (তিরমিযী, নাসাঈ, ইবন মাজা)।
+। ‘আবদুল্লাহ ইবনু ‘আমর রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তিন দিনের কম সময়ে কুরআন খতম করে, সে কিছুই হৃদয়ঙ্গম করতে পারে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1394</td></tr><tr><td>Arabic No</td><td>1394</td></tr><tr><td>Reference</td><td>Book 6 Hadith 24</td></tr></tbody></table></div>
 

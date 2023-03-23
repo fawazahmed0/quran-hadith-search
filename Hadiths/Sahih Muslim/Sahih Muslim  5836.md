@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৭২৯, আন্তর্জাতিক নাম্বারঃ ২২৩৪ ৫৭২৯-(.../...) কুতাইবাহ ইবনু সাঈদ ও উসমান ইবনু আবূ শাইবাহ্ (রহঃ) ..... আ'মাশ (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৬৪১, ইসলামিক সেন্টার ৫৬৭১)
+কুতাইবাহ ইবনু সাঈদ ও উসমান ইবনু আবূ শাইবাহ্ (রহঃ) ..... আ'মাশ (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৬৪১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5836</td></tr><tr><td>Arabic No</td><td>2234.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 187</td></tr></tbody></table></div>
 

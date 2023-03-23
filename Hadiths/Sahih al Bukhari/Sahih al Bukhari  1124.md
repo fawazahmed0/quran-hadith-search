@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জুনদাব (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (একবার) অসুস্থ হয়ে পড়েন। ফলে এক রাত বা দু’ রাত তিনি (তাহাজ্জুদের জন্য) উঠেননি। (১১২৫, ৪৯৫০, ৪৯৫১, ৪৯৮৩) (আধুনিক প্রকাশনীঃ ১০৫৩, ইসলামিক ফাউন্ডেশনঃ ১০৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জুনদাব (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (একবার) অসুস্থ হয়ে পড়েন। ফলে এক রাত বা দু’ রাত তিনি (তাহাজ্জুদের জন্য) উঠেননি। (১১২৫, ৪৯৫০, ৪৯৫১, ৪৯৮৩) (আধুনিক প্রকাশনীঃ ১০৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1124</td></tr><tr><td>Arabic No</td><td>1124</td></tr><tr><td>Reference</td><td>Book 19 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜுன்துப் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் நோய்வாய்ப்பட்ட போது, ஓர் இரவோ அல்லது இரண்டு இரவுகளோ (இரவுத் தொழுகைக்காக) அவர்கள் எழவில்லை.4 அத்தியாயம் : 19
+ஜுன்துப் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் நோய்வாய்ப்பட்ட போது, ஓர் இரவோ அல்லது இரண்டு இரவுகளோ (இரவுத் தொழுகைக்காக) அவர்கள் எழவில்லை.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1124</td></tr><tr><td>Arabic No</td><td>1124</td></tr><tr><td>Reference</td><td>Book 19 Hadith 4</td></tr></tbody></table></div>
 

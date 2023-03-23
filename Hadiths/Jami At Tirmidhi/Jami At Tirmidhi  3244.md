@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৪৪। আবদুল্লাহ ইবনু আমর (রাযিঃ) কর্তৃক বর্ণিত আছে, তিনি বলেন, এক বেদুঈন বলল, হে আল্লাহর রাসূল! সূর কি? তিনি বললেনঃ একটি শিং, তাতে ফুঁ দেয়া হবে। সহীহঃ সহীহাহ (১০৮০) আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমরা শুধু সুলাইমান আত-তাইনী কর্তৃক হাদীসটি সম্পর্কে জেনেছি।
+। আবদুল্লাহ ইবনু আমর (রাযিঃ) কর্তৃক বর্ণিত আছে, তিনি বলেন, এক বেদুঈন বলল, হে আল্লাহর রাসূল! সূর কি? তিনি বললেনঃ একটি শিং, তাতে ফুঁ দেয়া হবে। সহীহঃ সহীহাহ (১০৮০) আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমরা শুধু সুলাইমান আত-তাইনী কর্তৃক হাদীসটি সম্পর্কে জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3244</td></tr><tr><td>Arabic No</td><td>3244</td></tr><tr><td>Reference</td><td>Book 47 Hadith 296</td></tr></tbody></table></div>
 

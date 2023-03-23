@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২৬, আন্তর্জাতিক নাম্বারঃ ১২৪ ২২৬-(১৯৭/১২৪) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... 'আবদুল্লাহ (রাযিঃ) বলেন, (আল্লাহ তা'আলার বাণীঃ) “যারা ঈমান এনেছে এবং তাদের ঈমানকে যুলম দ্বারা কলুষিত করেনি নিরাপত্তা তাদের জন্য, তারাই সৎপথপ্রাপ্ত"- (সূরাহ আল আন’আম ৬ঃ ৮২)। এ আয়াতটি অবতীর্ণ হলে তা সাহাবাদের কাছে খুবই কঠিন মনে হল। তারা বললেন, আমাদের মধ্যে এমন কে আছে যে নিজের উপর আদৌ অত্যাচার করেনি? তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেন, তোমরা যা মনে করেছ বিষয়টি তা নয়, বরং এর মর্মার্থ হচ্ছে লুকমান তার পুত্রকে সম্বোধন করে যা বলেছিলেন। তিনি বলেছিলেনঃ “হে বৎস! আল্লাহর সাথে কোন শারীক করো না, নিশ্চয়ই শিরক চরম যুলম"- (সূরাহ্ লুকমান ৩১ঃ ১৩)। (ইসলামিক ফাউন্ডেশনঃ ২২৭, ইসলামিক সেন্টারঃ ২৩৫)
+আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... 'আবদুল্লাহ (রাযিঃ) বলেন, (আল্লাহ তা'আলার বাণীঃ) “যারা ঈমান এনেছে এবং তাদের ঈমানকে যুলম দ্বারা কলুষিত করেনি নিরাপত্তা তাদের জন্য, তারাই সৎপথপ্রাপ্ত"- (সূরাহ আল আন’আম ৬ঃ ৮২)। এ আয়াতটি অবতীর্ণ হলে তা সাহাবাদের কাছে খুবই কঠিন মনে হল। তারা বললেন, আমাদের মধ্যে এমন কে আছে যে নিজের উপর আদৌ অত্যাচার করেনি? তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেন, তোমরা যা মনে করেছ বিষয়টি তা নয়, বরং এর মর্মার্থ হচ্ছে লুকমান তার পুত্রকে সম্বোধন করে যা বলেছিলেন। তিনি বলেছিলেনঃ “হে বৎস! আল্লাহর সাথে কোন শারীক করো না, নিশ্চয়ই শিরক চরম যুলম"- (সূরাহ্ লুকমান ৩১ঃ ১৩)। (ইসলামিক ফাউন্ডেশনঃ ২২৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>124.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It is narrated on the authority of 'Abdullah (b. Mas'ud) that when this verse was revealed:" It is those who believe and confound not their belief with wrongdoing" (vi. 82), the Companions of the Messenger of Allah wore greatly perturbed. They said: Who amongst us (is so fortunate) that he does not wrong himself? Upon this the Messenger of Allah (ﷺ) remarked: It does not mean that which you presume It implies that which Luqman said to his son: O my son, do not associate anything with Allah, for indeed it is the gravest wrongdoing (xxxi. 13)
+It is narrated on the authority of 'Abdullah (b. Mas'ud) that when this verse was revealed:" It is those who believe and confound not their belief with wrongdoing" (vi. 82), the Companions of the Messenger of Allah wore greatly perturbed. They said: Who amongst us (is so fortunate) that he does not wrong himself? Upon this the Messenger of Allah (ﷺ) remarked: It does not mean that which you presume It implies that which Luqman said to his son: O my son, do not associate anything with Allah, for indeed it is the gravest wrongdoing (xxxi)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>124.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: "எவர் இறைநம்பிக்கை கொண்டு (பின்னர்) தமது இறைநம்பிக்கையுடன் அநீதியைக் கலந்துவிடவில்லையோ அவர்களுக்கே உண்மையில் அமைதி உண்டு" எனும் (6:82ஆவது) இறைவசனம் அருளப்பெற்றபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் தோழர்களுக்கு அது கடினமாகத் தெரிந்தது. மேலும், அவர்கள் "எங்களில் யார்தாம் தமக்குத் தாமே அநீதி இழைக்காதவர்?" என்று கேட்டார்கள். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அநீதி என்பதற்கு நீங்கள் நினைக்கின்ற அர்த்தம் இல்லை. உண்மையில் (அறிஞர்) லுக்மான் அவர்கள் தம் புதல்வரிடம் "என் அன்பு மகனே! அல்லாஹ்வுக்கு இணை கற்பிக்காதே. அல்லாஹ்வுக்கு இணைகற்பிப்பது தான் மாபெரும் அநீதியாகும்" என்று சொன்ன(தாக 31:13ஆவது வசனத்தில் அல்லாஹ் கூறியிருப்ப)துதான் அதற்குப் பொருள் ஆகும்.- இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 1
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: "எவர் இறைநம்பிக்கை கொண்டு (பின்னர்) தமது இறைநம்பிக்கையுடன் அநீதியைக் கலந்துவிடவில்லையோ அவர்களுக்கே உண்மையில் அமைதி உண்டு" எனும் (6:82ஆவது) இறைவசனம் அருளப்பெற்றபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் தோழர்களுக்கு அது கடினமாகத் தெரிந்தது. மேலும், அவர்கள் "எங்களில் யார்தாம் தமக்குத் தாமே அநீதி இழைக்காதவர்?" என்று கேட்டார்கள். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அநீதி என்பதற்கு நீங்கள் நினைக்கின்ற அர்த்தம் இல்லை. உண்மையில் (அறிஞர்) லுக்மான் அவர்கள் தம் புதல்வரிடம் "என் அன்பு மகனே! அல்லாஹ்வுக்கு இணை கற்பிக்காதே. அல்லாஹ்வுக்கு இணைகற்பிப்பது தான் மாபெரும் அநீதியாகும்" என்று சொன்ன(தாக 31:13ஆவது வசனத்தில் அல்லாஹ் கூறியிருப்ப)துதான் அதற்குப் பொருள் ஆகும்.- இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>124.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
 

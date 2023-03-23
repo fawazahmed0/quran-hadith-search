@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৪২৭, আন্তর্জাতিক নাম্বারঃ ১৪৩৫ ৩৪২৭-(১১৭/১৪৩৫) কুতায়বাহ ইবনু সাঈদ, আবূ বাকর ইবনু আবূ শায়বাহ ও আমর আন্ নাকিদ (রহিমাহুমুল্লাহ) ..... জাবির (রাযিঃ) থেকে বর্ণিত। তিনি বলেনঃ ইয়াহুদীরা বলত, কোন লোক স্ত্রীর পেছন দিক থেকে তার যোনী দ্বারে সঙ্গম করলে এতে সন্তান টেরা চক্ষু বিশিষ্ট হবে। এ প্রসঙ্গে নাযিল হয় অর্থাৎ "স্ত্রীগণ তোমাদের শস্যক্ষেত্র। অতএব, তোমরা তোমাদের শস্যক্ষেত্রে যেভাবে ইচ্ছা গমন করতে পার"- (সূরা আল বাকারাহ ২ঃ ২২৩)। (ইসলামিক ফাউন্ডেশন ৩৪০০, ইসলামীক সেন্টার ৩৩৯৯)
+কুতায়বাহ ইবনু সাঈদ, আবূ বাকর ইবনু আবূ শায়বাহ ও আমর আন্ নাকিদ (রহিমাহুমুল্লাহ) ..... জাবির (রাযিঃ) থেকে বর্ণিত। তিনি বলেনঃ ইয়াহুদীরা বলত, কোন লোক স্ত্রীর পেছন দিক থেকে তার যোনী দ্বারে সঙ্গম করলে এতে সন্তান টেরা চক্ষু বিশিষ্ট হবে। এ প্রসঙ্গে নাযিল হয় অর্থাৎ "স্ত্রীগণ তোমাদের শস্যক্ষেত্র। অতএব, তোমরা তোমাদের শস্যক্ষেত্রে যেভাবে ইচ্ছা গমন করতে পার"- (সূরা আল বাকারাহ ২ঃ ২২৩)। (ইসলামিক ফাউন্ডেশন ৩৪০০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3535</td></tr><tr><td>Arabic No</td><td>1435.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 137</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Jabir (Allah be pleased with him) declared that the Jews used to say:When a man has intercourse with his wife through the vagina but being on her back. the child will have squint, so the verse came down:" Your wives are your tilth; go then unto your tilth as you may desire" (ii. 223)
+Jabir (Allah be pleased with him) declared that the Jews used to say:When a man has intercourse with his wife through the vagina but being on her back. the child will have squint, so the verse came down:" Your wives are your tilth; go then unto your tilth as you may desire" (ii)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3535</td></tr><tr><td>Arabic No</td><td>1435.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 137</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakar bin Abi Syaib
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் தம் மனைவியிடம் பின்புறத்திலிருந்து பிறவி உறுப்பில் உடலுறவு கொண்டால் (பிறக்கும்) குழந்தை மாறுகண் கொண்டதாக இருக்கும் என்று யூதர்கள் சொல்லிவந்தார்கள். எனவே, "உங்கள் மனைவியர் உங்களுக்கு விளைநிலம் (போன்றவர்கள்). எனவே, நீங்கள் விரும்பும் வகையில் உங்களது விளைநிலத்திற்குச் செல்லுங்கள்" எனும் (2:223ஆவது) இறை வசனம் அருளப்பெற்றது. இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 16
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் தம் மனைவியிடம் பின்புறத்திலிருந்து பிறவி உறுப்பில் உடலுறவு கொண்டால் (பிறக்கும்) குழந்தை மாறுகண் கொண்டதாக இருக்கும் என்று யூதர்கள் சொல்லிவந்தார்கள். எனவே, "உங்கள் மனைவியர் உங்களுக்கு விளைநிலம் (போன்றவர்கள்). எனவே, நீங்கள் விரும்பும் வகையில் உங்களது விளைநிலத்திற்குச் செல்லுங்கள்" எனும் (2:223ஆவது) இறை வசனம் அருளப்பெற்றது. இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3535</td></tr><tr><td>Arabic No</td><td>1435.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 137</td></tr></tbody></table></div>
 

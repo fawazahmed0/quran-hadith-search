@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনু সালেহ .... আলী (রাঃ) হতে বর্ণিত। রাবী বলেন … সুলায়মান ইবনু দাউদের সূত্রে বর্ণিত হাদীছের অনুরূপ। তবে এই বর্ণনায় (فَلَمَّا بَرَزَ) “ফাল্লাম্মা বারাযা” এর স্থানে (فَلَمَّا خَرَجَ) “ফাল্লাম্মা খারাজা”-এর উল্লেখ আছ।
+। আবূ সালিহ আল-গিফারী (রহঃ) ‘আলী (রাঃ) সূত্রে সুলাইমান ইবনু দাঊদ-এর অনুরূপ সমার্থক হাদীস বর্ণনা করেছেন। তবে তাতে ‘‘ফালাম্মা বারাযা’’ এর স্থলে ‘‘ফালাম্মা খারাজা’’ উল্লেখ করা হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>491</td></tr><tr><td>Arabic No</td><td>491</td></tr><tr><td>Reference</td><td>Book 2 Hadith 101</td></tr></tbody></table></div>
 

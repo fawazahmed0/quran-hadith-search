@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইসমাঈল ইবনু মাসউদ (রহঃ) ... সা’দ ইবনু হিশাম (রাঃ) থেকে বর্ণিত যে, আয়িশা (রাঃ) তার নিকট বর্ণনা করেছেন রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিতরের সালাতে দু’রাকআতে সালাম ফিরাতেন না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1698</td></tr><tr><td>Arabic No</td><td>1698</td></tr><tr><td>Reference</td><td>Book 20 Hadith 101</td></tr></tbody></table></div>
 

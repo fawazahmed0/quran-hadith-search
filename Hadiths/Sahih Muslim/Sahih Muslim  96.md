@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হাজ্জাজ ইবনু শাইর (রহঃ) ..... উমার (রাযিঃ) হতে বর্ণিত। হাদীসটি উপরোক্ত হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৪, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>96</td></tr><tr><td>Arabic No</td><td>8.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 4</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ The same hadith is mentioned through a different chain
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர் தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர் தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>96</td></tr><tr><td>Arabic No</td><td>8.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 4</td></tr></tbody></table></div>
 

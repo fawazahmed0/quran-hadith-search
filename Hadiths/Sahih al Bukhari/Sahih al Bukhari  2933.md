@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু আওফা (রাঃ) হতে বর্ণিত। তিনি বলেন, আহযাবের দিনে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই বলে মুশরিকদের বিরুদ্ধে দু‘আ করেছিলেন যে, হে কিতাব নাযিলকারী, সত্বর হিসাব গ্রহণকারী আল্লাহ্! হে আল্লাহ্! তাদের সকল দলকে পরাজিত করুন। হে আল্লাহ্! আপনি তাদের পর্যুদস্ত ও প্রকম্পিত করুন।’ (২৯৬৫, ৩০২৫, ৪১১৫, ৬৩৯২, ৭৪৮৯) (মুসলিম ৩২/৭ হাঃ ১৭৪২, আহমাদ ১৯১২৯) (আধুনিক প্রকাশনীঃ ২৭১৮, ইসলামিক ফাউন্ডেশনঃ ২৭২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু আওফা (রাঃ) হতে বর্ণিত। তিনি বলেন, আহযাবের দিনে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই বলে মুশরিকদের বিরুদ্ধে দু‘আ করেছিলেন যে, হে কিতাব নাযিলকারী, সত্বর হিসাব গ্রহণকারী আল্লাহ্! হে আল্লাহ্! তাদের সকল দলকে পরাজিত করুন। হে আল্লাহ্! আপনি তাদের পর্যুদস্ত ও প্রকম্পিত করুন।’ (২৯৬৫, ৩০২৫, ৪১১৫, ৬৩৯২, ৭৪৮৯) (মুসলিম ৩২/৭ হাঃ ১৭৪২, আহমাদ ১৯১২৯) (আধুনিক প্রকাশনীঃ ২৭১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2933</td></tr><tr><td>Arabic No</td><td>2933</td></tr><tr><td>Reference</td><td>Book 56 Hadith 146</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அபீ அவ்ஃபா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அகழ்ப் போர் நாளில் இணைவைப்பாளர் களுக்கு எதிராகப் பிரார்த்தனை புரிந்தார் கள். அப்போது, ‘‘இறைவா! குர்ஆனை அருள்பவனே! விரைவாகக் கணக்கெடுப்ப வனே! இறைவா! இக்கூட்டுப் படையின ரைத் தோற்கடிப்பாயாக! இறைவா! இவர் களைத் தோல்வியுறச்செய்து நடுக்கத்திற் குள்ளாக்குவாயாக!” என்று பிரார்த்தித் தார்கள். அத்தியாயம் : 56
+அப்துல்லாஹ் பின் அபீ அவ்ஃபா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அகழ்ப் போர் நாளில் இணைவைப்பாளர் களுக்கு எதிராகப் பிரார்த்தனை புரிந்தார் கள். அப்போது, ‘‘இறைவா! குர்ஆனை அருள்பவனே! விரைவாகக் கணக்கெடுப்ப வனே! இறைவா! இக்கூட்டுப் படையின ரைத் தோற்கடிப்பாயாக! இறைவா! இவர் களைத் தோல்வியுறச்செய்து நடுக்கத்திற் குள்ளாக்குவாயாக!” என்று பிரார்த்தித் தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2933</td></tr><tr><td>Arabic No</td><td>2933</td></tr><tr><td>Reference</td><td>Book 56 Hadith 146</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ebi Evfa şöyle demiştir: "Nebi Sallallahu Aleyhi ve Sellem Hendek savaşında müşriklere şöyle beddua etmişti: "Ey kitabı indiren, hesabı çok hızlı gören Allahım, çeşitli kabilelerden oluşan şu düşman birliklerini dağıt, onları hezimete uğrat ve sarsıp perişan et!" Tekrar: 2965, 3025, 4115, 6392, 7489
+Abdullah İbn Ebi Evfa şöyle demiştir: "Nebi Sallallahu Aleyhi ve Sellem Hendek savaşında müşriklere şöyle beddua etmişti: "Ey kitabı indiren, hesabı çok hızlı gören Allahım, çeşitli kabilelerden oluşan şu düşman birliklerini dağıt, onları hezimete uğrat ve sarsıp perişan et!" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2933</td></tr><tr><td>Arabic No</td><td>2933</td></tr><tr><td>Reference</td><td>Book 56 Hadith 146</td></tr></tbody></table></div>
 

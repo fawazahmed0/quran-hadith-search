@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাস‘ঊদ (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, যে দু’টি আয়াত তিলাওয়াত করে....। [৪০০৮] (আধুনিক প্রকাশনীঃ ৪৬৩৭, ইসলামিক ফাউন্ডেশনঃ ৪৬৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাস‘ঊদ (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, যে দু’টি আয়াত তিলাওয়াত করে....। [৪০০৮] (আধুনিক প্রকাশনীঃ ৪৬৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 66 Hadith 30</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Mas'ud:Whoever recites two verses ... (text as in the following had
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: யார் இரண்டு வசனங்களை ஓதினார்களோ...33 இதை அபூமஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 66
+நபி (ஸல்) அவர்கள் கூறினார்கள்: யார் இரண்டு வசனங்களை ஓதினார்களோ...33 இதை அபூமஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 66 Hadith 30</td></tr></tbody></table></div>
 

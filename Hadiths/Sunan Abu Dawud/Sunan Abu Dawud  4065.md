@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন ইউনুস (রহঃ) .... আবুল রামছা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদিন আমি আমার পিতার সাথে গিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে দুটি সবুজ রংয়ের চাদর পরিহিত অবস্থায় দেখতে পাই।
+। আবূ রিমসাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি আমার পিতার সাথে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট গেলাম। তখন আমি তাঁর পরিধানে দু’টি সবুজ রঙে চাদর দেখেছি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4065</td></tr><tr><td>Arabic No</td><td>4065</td></tr><tr><td>Reference</td><td>Book 34 Hadith 46</td></tr></tbody></table></div>
 

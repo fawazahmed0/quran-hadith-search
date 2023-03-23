@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর ইন্তিকালের পূর্বে যখন তাঁর পিঠ আমার উপর হেলান দেয়া অবস্থায় ছিল, তখন আমি কান ঝুঁকিয়ে দিয়ে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, হে আল্লাহ! আমাকে ক্ষমা করুন, আমার উপর রহম করুন এবং মহান বন্ধুর সঙ্গে আমাকে মিলিত করুন। [৫৬৭৪] (আধুনিক প্রকাশনীঃ ৪০৯০, ইসলামিক ফাউন্ডেশনঃ ৪০৯৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর ইন্তিকালের পূর্বে যখন তাঁর পিঠ আমার উপর হেলান দেয়া অবস্থায় ছিল, তখন আমি কান ঝুঁকিয়ে দিয়ে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, হে আল্লাহ! আমাকে ক্ষমা করুন, আমার উপর রহম করুন এবং মহান বন্ধুর সঙ্গে আমাকে মিলিত করুন। [৫৬৭৪] (আধুনিক প্রকাশনীঃ ৪০৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4440</td></tr><tr><td>Arabic No</td><td>4440</td></tr><tr><td>Reference</td><td>Book 64 Hadith 461</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aisha:I heard the Prophet (ﷺ) and listened to him before his death while he was leaning his back on me and saying, "O Allah! Forgive me, and bestow Your Mercy on me, and let me meet the (highest) companions (of the Hereafter)." (See the Qur'an (4:69) and Hadith #4435
+Narrated 'Aisha:I heard the Prophet (ﷺ) and listened to him before his death while he was leaning his back on me and saying, "O Allah! Forgive me, and bestow Your Mercy on me, and let me meet the (highest) companions (of the Hereafter)." (See the Qur'an (4:69) and Hadith
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4440</td></tr><tr><td>Arabic No</td><td>4440</td></tr><tr><td>Reference</td><td>Book 64 Hadith 461</td></tr></tbody></table></div>
 

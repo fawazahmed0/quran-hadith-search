@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জুবায়র ইবনু মুত‘ঈম (রাঃ) হতে বর্ণিত। তিনি বলেন, এক স্ত্রীলোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এল। তিনি তাঁকে আবার আসার জন্য বললেন। স্ত্রীলোকটি বলল, আমি এসে যদি আপনাকে না পাই তবে কী করব? এ কথা দ্বারা স্ত্রীলোকটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মৃত্যুর প্রতি ইশারা করেছিল। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, যদি আমাকে না পাও তাহলে আবূ বাকরের নিকট আসবে। (৭২২০, ৭৩৬০, মুসলিম ৪৪/১, হাঃ ২৩৮৬, আহমাদ ১৬৭৫৫) (আধুনিক প্রকাশনীঃ ৩৩৮৭, ইসলামিক ফাউন্ডেশনঃ ৩৩৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জুবায়র ইবনু মুত‘ঈম (রাঃ) হতে বর্ণিত। তিনি বলেন, এক স্ত্রীলোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এল। তিনি তাঁকে আবার আসার জন্য বললেন। স্ত্রীলোকটি বলল, আমি এসে যদি আপনাকে না পাই তবে কী করব? এ কথা দ্বারা স্ত্রীলোকটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মৃত্যুর প্রতি ইশারা করেছিল। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, যদি আমাকে না পাও তাহলে আবূ বাকরের নিকট আসবে। (৭২২০, ৭৩৬০, মুসলিম ৪৪/১, হাঃ ২৩৮৬, আহমাদ ১৬৭৫৫) (আধুনিক প্রকাশনীঃ ৩৩৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3659</td></tr><tr><td>Arabic No</td><td>3659</td></tr><tr><td>Reference</td><td>Book 62 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Al Humaidiy] dan [Muhammad bin 'Ubaidullah], keduan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜுபைர் பின் முத்இம் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் ஒரு பெண்மணி (தேவை ஒன்றை முறையிடு வதற்காக) வந்தார். நபி (ஸல்) அவர்கள் அந்தப் பெண்மணியைத் திரும்பவும் வரும்படிக் கட்டளையிட்டார்கள். அந்தப் பெண்மணி, “நான் வந்து தங்களைக் காண (முடிய)வில்லையென்றால்...?” என்று -நபி (ஸல்) அவர்கள் இறந்து விட்டால் (என்ன செய்வது?) என்பதுபோல்- கேட்டாள். அதற்கு நபி (ஸல்) அவர்கள், “நீ என்னைக் காண வில்லையென்றால் அபூபக்ரிடம் செல்” என்று பதில் சொன்னார்கள்.19 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 62
+ஜுபைர் பின் முத்இம் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் ஒரு பெண்மணி (தேவை ஒன்றை முறையிடு வதற்காக) வந்தார். நபி (ஸல்) அவர்கள் அந்தப் பெண்மணியைத் திரும்பவும் வரும்படிக் கட்டளையிட்டார்கள். அந்தப் பெண்மணி, “நான் வந்து தங்களைக் காண (முடிய)வில்லையென்றால்...?” என்று -நபி (ஸல்) அவர்கள் இறந்து விட்டால் (என்ன செய்வது?) என்பதுபோல்- கேட்டாள். அதற்கு நபி (ஸல்) அவர்கள், “நீ என்னைக் காண வில்லையென்றால் அபூபக்ரிடம் செல்” என்று பதில் சொன்னார்கள்.19 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3659</td></tr><tr><td>Arabic No</td><td>3659</td></tr><tr><td>Reference</td><td>Book 62 Hadith 11</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Al Humaidiy] dan [Muhammad bin 'Ubaidullah], keduan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muhammed b. Cubeyr b. Mut'im, dedi ki: "Bir kadın Nebi Sallallahu Aleyhi ve Sellem'e geldi. Ona daha sonra yanına dönmesini emretti. Kadın -Sanki ölümü kastedercesine-: Ne dersin, gelir de seni bulamazsam (ne yapayım) dedi. Resulullah: Beni bulamazsan Ebu Bekir'e git, diye buyurdu." Tekrar: 7220 ve 7360
+Muhammed b. Cubeyr b. Mut'im, dedi ki: "Bir kadın Nebi Sallallahu Aleyhi ve Sellem'e geldi. Ona daha sonra yanına dönmesini emretti. Kadın -Sanki ölümü kastedercesine-: Ne dersin, gelir de seni bulamazsam (ne yapayım) dedi. Resulullah: Beni bulamazsan Ebu Bekir'e git, diye buyurdu." Tekrar: 7220 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3659</td></tr><tr><td>Arabic No</td><td>3659</td></tr><tr><td>Reference</td><td>Book 62 Hadith 11</td></tr></tbody></table></div>
 

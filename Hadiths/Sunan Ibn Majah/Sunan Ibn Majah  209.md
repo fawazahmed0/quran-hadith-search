@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২০৯। আমর ইবনু আওফ আল-মুযানী (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যাক্তি আমার একটি (মৃত) সুন্নাত জীবিত করলো এবং লোকেরা তদনুযায়ী আমল করলো, সেও আমলকারীদের সমপরিমাণ পুরস্কার পাবে এবং তাতে আমলকারীদের পুরস্কার আদৌ হ্রাস পাবে না। পক্ষান্তরে কোন ব্যাক্তি বিদআতের প্রচলন করলে এবং তদনুযায়ী আমল করা হলে তার উপর আমলকারীদের সমপরিমাণ পাপ বর্তাবে এবং তাতে আমলকারীদের পাপের বোঝা আদৌ হালকা হবে না।
+। আমর ইবনু আওফ আল-মুযানী (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যাক্তি আমার একটি (মৃত) সুন্নাত জীবিত করলো এবং লোকেরা তদনুযায়ী আমল করলো, সেও আমলকারীদের সমপরিমাণ পুরস্কার পাবে এবং তাতে আমলকারীদের পুরস্কার আদৌ হ্রাস পাবে না। পক্ষান্তরে কোন ব্যাক্তি বিদআতের প্রচলন করলে এবং তদনুযায়ী আমল করা হলে তার উপর আমলকারীদের সমপরিমাণ পাপ বর্তাবে এবং তাতে আমলকারীদের পাপের বোঝা আদৌ হালকা হবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>209</td></tr><tr><td>Arabic No</td><td>209</td></tr><tr><td>Reference</td><td>Book 0 Hadith 209</td></tr></tbody></table></div>
 

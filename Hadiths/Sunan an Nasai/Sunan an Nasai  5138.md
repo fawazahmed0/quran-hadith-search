@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন আবদুল আ'লা (রহঃ) ... হুযায়ফা (রাঃ)-এর বােন থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সময় আমাদেরকে লক্ষ্য করে ভাষণ দিলেন। তাতে বললেনঃ হে নারী সমাজ! তোমরা কি রৌপ্য দ্বারা অলংকার বানাতে পার না? দেখ, তোমাদের যে নারীই স্বর্ণের অলংকার বানিয়ে তা (পরপুরুষকে) দেখায়, এজন্য তাকে অবশ্যই শাস্তি দেয়া হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5138</td></tr><tr><td>Arabic No</td><td>5138</td></tr><tr><td>Reference</td><td>Book 48 Hadith 99</td></tr></tbody></table></div>
 

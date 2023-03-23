@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবনে আউফ (রহঃ) .... মুহাম্মদ ইবনে মুসলিম (রহঃ) হতে এই সূত্রে উপরোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে। এই বর্ণনায় নামাযের কথা উল্লেখ নাই। তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) তাঁর চাদর উল্টিয়ে ডান দিক বাম কাধেঁর উপর এবং বাম দিক ডান কাধেঁর উপর রেখে আল্লাহ তাআলার নিকট দোয়া করেন।
+। মুহাম্মাদ ইবনু মুসলিম (রহঃ) হতে নিজস্ব সানাদে এ হাদীসটি বর্ণিত হয়েছে। তবে তার বর্ণনায় সালাত আদায়ের কথা উল্লেখ নেই। বর্ণনাকারী বলেন, ‘‘তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) স্বীয় চাদর উল্টিয়ে নেন। তিনি ডান স্কন্ধের উপরে রাখা চাদরের ডান পার্শ্বকে বাম কাঁধের উপর এবং বাম কাঁধের উপরে রাখা চাদরের বাম পার্শ্বকে ডান কাঁধের উপর রাখলেন। তারপর মহা মহীয়ান আল্লাহর কাছে দু‘আ করলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1163</td></tr><tr><td>Arabic No</td><td>1163</td></tr><tr><td>Reference</td><td>Book 3 Hadith 3</td></tr></tbody></table></div>
 

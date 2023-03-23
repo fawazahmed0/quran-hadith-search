@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَأْكُلُوا الرِّبَا أَضْعَافًا مُضَاعَفَةً وَاتَّقُوا اللهَ لَعَلَّكُمْ تُفْلِحُونَ) ‘‘হে মু’মিনগণ! তোমরা চক্রবৃদ্ধিহারে সুদ গ্রহণ করো না এ ব্যাপারে আল্লাহকে ভয় কর তবে সফলতা অর্জন করতে পারবে।’’ (আলু ইমরানঃ ১৩০) ২০৮৩. আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মানুষের উপর এমন এক যুগ অবশ্যই আসবে যখন মানুষ পরোয়া করবে না যে কিভাবে সে মাল অর্জন করল হালাল উপায়ে না হারাম উপায়ে। (২০৫৯) (আধুনিক প্রকাশনীঃ ১৯৩৮ , ইসলামিক ফাউন্ডেশনঃ ১৯৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَأْكُلُوا الرِّبَا أَضْعَافًا مُضَاعَفَةً وَاتَّقُوا اللهَ لَعَلَّكُمْ تُفْلِحُونَ) ‘‘হে মু’মিনগণ! তোমরা চক্রবৃদ্ধিহারে সুদ গ্রহণ করো না এ ব্যাপারে আল্লাহকে ভয় কর তবে সফলতা অর্জন করতে পারবে।’’ (আলু ইমরানঃ ১৩০) ২০৮৩. আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মানুষের উপর এমন এক যুগ অবশ্যই আসবে যখন মানুষ পরোয়া করবে না যে কিভাবে সে মাল অর্জন করল হালাল উপায়ে না হারাম উপায়ে। (২০৫৯) (আধুনিক প্রকাশনীঃ ১৯৩৮ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 34 Hadith 36</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Hurairah (ra):The Prophet (ﷺ) said "Certainly a time will come when people will not bother to know from where they earned the money, by lawful means or unlawful means." (See Hadith no. 2050)
+Narrated Abu Hurairah (ra):The Prophet (ﷺ) said "Certainly a time will come when people will not bother to know from where they earned the money, by lawful means or unlawful means." (See Hadith no)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 34 Hadith 36</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Ibnu Abu D
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: மக்களுக்கு ஒரு காலம் வரும்; அப்போது ஒரு மனிதர், தாம் பொருளீட் டியது அனுமதிக்கப்பட்ட (ஹலாலான) வழியிலா; அல்லது அனுமதிக்கப்படாத (ஹராமான) வழியிலா என்பது குறித்துப் பொருட்படுத்தமாட்டார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+நபி (ஸல்) அவர்கள்கூறினார்கள்: மக்களுக்கு ஒரு காலம் வரும்; அப்போது ஒரு மனிதர், தாம் பொருளீட் டியது அனுமதிக்கப்பட்ட (ஹலாலான) வழியிலா; அல்லது அனுமதிக்கப்படாத (ஹராமான) வழியிலா என்பது குறித்துப் பொருட்படுத்தமாட்டார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 34 Hadith 36</td></tr></tbody></table></div>
 

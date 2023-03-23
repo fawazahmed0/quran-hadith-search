@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ঈদ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি ইবনু ‘আব্বাস (রাঃ)-কে ‘সূরাহ হাশর’ সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেন, এ সুরাকে ‘সূরাহ বানী নাযীর’ বল। [৪০২৯] (আধুনিক প্রকাশনীঃ ৪৫১৫, ইসলামিক ফাউন্ডেশনঃ ৪৫১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘ঈদ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি ইবনু ‘আব্বাস (রাঃ)-কে ‘সূরাহ হাশর’ সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেন, এ সুরাকে ‘সূরাহ বানী নাযীর’ বল। [৪০২৯] (আধুনিক প্রকাশনীঃ ৪৫১৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4883</td></tr><tr><td>Arabic No</td><td>4883</td></tr><tr><td>Reference</td><td>Book 65 Hadith 403</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Hasan bin Mudrik] Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: நான் இப்னு அப்பாஸ் (ரலி) அவர்களிடம் (59ஆவது அத்தியாயத்தின் பெயரை) ‘அல்ஹஷ்ர்’ அத்தியாயம் எனக் குறிப்பிட்டேன். அவர்கள், ‘அந்நளீர்’ அத்தியாயம் என்று கூறுங்கள் என்றார்கள்.3 அத்தியாயம் : 65
+சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: நான் இப்னு அப்பாஸ் (ரலி) அவர்களிடம் (59ஆவது அத்தியாயத்தின் பெயரை) ‘அல்ஹஷ்ர்’ அத்தியாயம் எனக் குறிப்பிட்டேன். அவர்கள், ‘அந்நளீர்’ அத்தியாயம் என்று கூறுங்கள் என்றார்கள்.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4883</td></tr><tr><td>Arabic No</td><td>4883</td></tr><tr><td>Reference</td><td>Book 65 Hadith 403</td></tr></tbody></table></div>
 

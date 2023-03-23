@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২১৩৪। উকবা ইবনু আমের (রাঃ) থেকে বর্ণিত। তিনি বলেন, যে, তার বোন নগ্নপদে ও অনাবৃত চেহারায় পদব্রজে (হজ্জে) যাওয়ার মান্নত করেছে। তিনি বিষয়টি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে অবহিত করলেন। তিনি বলেনঃ তাকে বলো, সে যেন বাহনে আরোহণ করে এবং মুখমন্ডল আবৃত রেখে (হাজ্জে যায়) এবং তিন দিন রোযা রাখে।
+। উকবা ইবনু আমের (রাঃ) থেকে বর্ণিত। তিনি বলেন, যে, তার বোন নগ্নপদে ও অনাবৃত চেহারায় পদব্রজে (হজ্জে) যাওয়ার মান্নত করেছে। তিনি বিষয়টি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে অবহিত করলেন। তিনি বলেনঃ তাকে বলো, সে যেন বাহনে আরোহণ করে এবং মুখমন্ডল আবৃত রেখে (হাজ্জে যায়) এবং তিন দিন রোযা রাখে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2134</td></tr><tr><td>Arabic No</td><td>2134</td></tr><tr><td>Reference</td><td>Book 11 Hadith 45</td></tr></tbody></table></div>
 

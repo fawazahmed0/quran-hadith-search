@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আবদুর রাযযাক (রহ.) মা‘মার (রহ.) সূত্রে বর্ণিত হাদীসে রয়েছে, আমাকে দেখেছেন আবূ লুবাবা অথবা যায়দ ইবনু খাত্তাব (রাঃ) আর অনুসরণ করেছেন মা‘মার (রহ.)-কে ইউনুস ইবনু ইয়াইনা, ইসহাক কলবী ও যুবাইদী (রহ.) এবং সালিহ, ইবনু আবূ হাফসাহ ও ইবনু মুজাম্মি‘ (রহ.).....ইবনু ‘উমার (রাঃ) হতে বর্ণিত হাদীসে রয়েছে, ‘আমাকে দেখেছেন আবূ লুবাবা ও যায়দ ইবনু খাত্তাব (রাঃ)।’ (মুসলিম ৩৭/৩৯ হাঃ ২২৩৩) (ইসলামিক ফাউন্ডেশনঃ ৩০৬৪ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3299</td></tr><tr><td>Arabic No</td><td>3299</td></tr><tr><td>Reference</td><td>Book 59 Hadith 107</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Ibn 'Umar (ra):Abu Lubaba and Zaid bin Khattab saw me
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: ...அப்போது (நான் பாம்பைக் கொல்ல அதை விரட்டிச் சென்றபோது) என்னை அபூலுபாபா (ரலி) அவர்களும் ஸைத் பின் அல்கத்தாப் (ரலி) அவர்களும் பார்த்தார்கள்.102 இந்த ஹதீஸ் ஒன்பது அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 59
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: ...அப்போது (நான் பாம்பைக் கொல்ல அதை விரட்டிச் சென்றபோது) என்னை அபூலுபாபா (ரலி) அவர்களும் ஸைத் பின் அல்கத்தாப் (ரலி) அவர்களும் பார்த்தார்கள்.102 இந்த ஹதீஸ் ஒன்பது அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3299</td></tr><tr><td>Arabic No</td><td>3299</td></tr><tr><td>Reference</td><td>Book 59 Hadith 107</td></tr></tbody></table></div>
 

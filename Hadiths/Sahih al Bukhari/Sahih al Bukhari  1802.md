@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুমাইদ (রহ.) হতে বর্ণিত। তিনি আনাস (রাঃ)-কে বলতে শুনেছেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফর হতে ফিরে যখন মদিনার উঁচু রাস্তাগুলো দেখতেন তখন তিনি তাঁর উটনী দ্রুতগতিতে চালাতেন আর বাহন অন্য জানোয়ার হলে তিনি তাকে তাড়া দিতেন। অপর একটি বর্ণনায় হুমাইদ আনাস (রাঃ) হতে বর্ণনা করেন, তিনি বলেন,دَرَجَاتِ (উঁচু রাস্তা)-এর পরিবর্তে جُدُرَاتِ (দেয়ালগুলো) শব্দ বলেছেন। হারিস ইবনু ‘উমাইর (রহ.) ইসমা‘ঈল (রহ.)-এর অনুরূপ বর্ণনা করেন। (১৮৮৬) (আধুনিক প্রকাশনীঃ ১৬৭৩. ইসলামিক ফাউন্ডেশনঃ ১৬৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হুমাইদ (রহ.) হতে বর্ণিত। তিনি আনাস (রাঃ)-কে বলতে শুনেছেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফর হতে ফিরে যখন মদিনার উঁচু রাস্তাগুলো দেখতেন তখন তিনি তাঁর উটনী দ্রুতগতিতে চালাতেন আর বাহন অন্য জানোয়ার হলে তিনি তাকে তাড়া দিতেন। অপর একটি বর্ণনায় হুমাইদ আনাস (রাঃ) হতে বর্ণনা করেন, তিনি বলেন,دَرَجَاتِ (উঁচু রাস্তা)-এর পরিবর্তে جُدُرَاتِ (দেয়ালগুলো) শব্দ বলেছেন। হারিস ইবনু ‘উমাইর (রহ.) ইসমা‘ঈল (রহ.)-এর অনুরূপ বর্ণনা করেন। (১৮৮৬) (আধুনিক প্রকাশনীঃ ১৬৭৩. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>1802</td></tr><tr><td>Reference</td><td>Book 26 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பயணத்திலிருந்து திரும்பி மதீனாவின் உயரமான பாதைகளைப் பார்க்கும்போது தமது ஒட்டகத்தை விரைவாகச் செலுத்து வார்கள்; வாகனம் கால்நடையாக இருப் பின் அதைத் தட்டிவிடுவார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் ஹாரிஸ் பின் உமைர் (ரஹ்) அவர்களது அறிவிப்பில், “மதீனாமீது கொண்ட அன்பால் ஒட்டகத்தை முடுக்கி விடுவார்கள்” என்று இடம்பெற்றுள்ளது. இஸ்மாயீல் பின் ஜஅஃபர் (ரஹ்) அவர்களது அறிவிப்பில், ‘மதீனாவின் (சுற்றுச்) சுவர்களைப் பார்க்கும்போது’ என இடம்பெற்றுள்ளது. அத்தியாயம் : 26
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பயணத்திலிருந்து திரும்பி மதீனாவின் உயரமான பாதைகளைப் பார்க்கும்போது தமது ஒட்டகத்தை விரைவாகச் செலுத்து வார்கள்; வாகனம் கால்நடையாக இருப் பின் அதைத் தட்டிவிடுவார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் ஹாரிஸ் பின் உமைர் (ரஹ்) அவர்களது அறிவிப்பில், “மதீனாமீது கொண்ட அன்பால் ஒட்டகத்தை முடுக்கி விடுவார்கள்” என்று இடம்பெற்றுள்ளது. இஸ்மாயீல் பின் ஜஅஃபர் (ரஹ்) அவர்களது அறிவிப்பில், ‘மதீனாவின் (சுற்றுச்) சுவர்களைப் பார்க்கும்போது’ என இடம்பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>1802</td></tr><tr><td>Reference</td><td>Book 26 Hadith 27</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem yolculuktan dönüp de Medine'nin yüksek yollarını görünce devesini hızlı sürerdi, Medine'ye bir an önce ulaşmayı istediğinden bineğini harekete geçirirdi. Tekrar: 1886
+Enes r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem yolculuktan dönüp de Medine'nin yüksek yollarını görünce devesini hızlı sürerdi, Medine'ye bir an önce ulaşmayı istediğinden bineğini harekete geçirirdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>1802</td></tr><tr><td>Reference</td><td>Book 26 Hadith 27</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ আল্লাহ এমন কোন রোগ পাঠাননি যার আরোগ্যের ব্যবস্থা দেননি। (আধুনিক প্রকাশনী- ৫২৬৭, ইসলামিক ফাউন্ডেশন- ৫১৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ আল্লাহ এমন কোন রোগ পাঠাননি যার আরোগ্যের ব্যবস্থা দেননি। (আধুনিক প্রকাশনী- ৫২৬৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5678</td></tr><tr><td>Arabic No</td><td>5678</td></tr><tr><td>Reference</td><td>Book 76 Hadith 1</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் எந்த நோயையும் அதற் குரிய நிவாரணியை அருளாமல் இறக்குவ தில்லை.2 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 76
+நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் எந்த நோயையும் அதற் குரிய நிவாரணியை அருளாமல் இறக்குவ தில்லை.2 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5678</td></tr><tr><td>Arabic No</td><td>5678</td></tr><tr><td>Reference</td><td>Book 76 Hadith 1</td></tr></tbody></table></div>
 

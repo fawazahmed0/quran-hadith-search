@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৬২, আন্তর্জাতিক নাম্বারঃ ৬৬৩ ৬৬২. হান্নাদ (রহ.) ..... আবু উবায়দাহ্ (রহ.) হতে বর্ণিত। তিনি বলেন, আবদুল্লাহ ইবনু মাস্'উদ (রাঃ) বলেছেন যে, খন্দকের যুদ্ধের দিন মুশরিকরা নবী (সা.) -কে চার ওয়াক্ত সালাত হতে ব্যস্ত রেখেছিল। পরে তিনি বিলাল (রাঃ)-কে আযান দেয়ার নির্দেশ দেন, বিলাল (রাঃ) আযান দেন, পরে ইকামত দেন, নবী (সা.) যুহরের সালাত আদায় করেন। আবার ইকামত দেন এবং আসরের সালাত আদায় করেন। আবার ইকামত বলা হয় ও মাগরিবের সালাত আদায় করেন। আবার ইকামত বলা হয় এবং তিনি ‘ইশার সালাত আদায় করেন। সহীহ: তিরমিযী ১৭৯, মুসনাদে আহমাদ ৪০১৩। (দ্রঃ ৬২২)
+। হান্নাদ (রহঃ) ... আবূ উবায়দা (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আব্দুল্লাহ ইবনু মাসউদ (রাঃ) বলেছেন যে, খন্দকের যুদ্ধের দিন মুশরিকরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে চার ওয়াক্ত সালাত হতে বিরত রেখেছিল। পরে তিনি বিলাল (রাঃ)-কে আযান দেওয়ার নির্দেশ দেন, বিলাল (রাঃ) আযান দেন, পরে ইকামত দেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যোহরের সালাত আদায় করেন। পূনরায় ইকামত দেন এবং আসরের সালাত আদায় করেন। পূনরায় ইকামত বলা হয় ও মাগরিবের সালাত আদায় করেন। আবার ইকামত বলা হয় এবং তিনি ঈশার সালাত আদায় করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>662</td></tr><tr><td>Arabic No</td><td>662</td></tr><tr><td>Reference</td><td>Book 7 Hadith 37</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Hannad] dari [Husyaim] dari [Abu Az Zubair] dari 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Mes’ud (radıyallahü anh)’tan rivâyete göre: Müşrikler, Hendek savaşında Rasûlüllah (sallallahü aleyhi ve sellem)’i aşırı derece meşgul ettiklerinden dolayı arka arkaya dört vakit namazı savaş esnasında kılmamışlardı. Yatsı vakti Bilal’e emretti, ezan okudu sonra kamet getirdi, öğle kılındı sonra kamet etti, ikindi kılındı, sonra kamet getirildi akşam kılındı, sonra da yine kamet getirilerek yatsı namazı kılındı.) (Tirmizî, Salat: 132)
+Abdullah b. Mes’ud (radıyallahü anh)’tan rivâyete göre: Müşrikler, Hendek savaşında Rasûlüllah (sallallahü aleyhi ve sellem)’i aşırı derece meşgul ettiklerinden dolayı arka arkaya dört vakit namazı savaş esnasında kılmamışlardı. Yatsı vakti Bilal’e emretti, ezan okudu sonra kamet getirdi, öğle kılındı sonra kamet etti, ikindi kılındı, sonra kamet getirildi akşam kılındı, sonra da yine kamet getirilerek yatsı namazı kılındı.) (Tirmizî, Salat:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>662</td></tr><tr><td>Arabic No</td><td>662</td></tr><tr><td>Reference</td><td>Book 7 Hadith 37</td></tr></tbody></table></div>
 

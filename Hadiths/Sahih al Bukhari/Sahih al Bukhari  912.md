@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সায়িব ইবনু ইয়াযীদ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর (রাযি.) এবং উমর (রাযি.)-এর সময় জুমু‘আহর দিন ইমাম যখন মিম্বরের উপর বসতেন, তখন প্রথম আযান দেয়া হত। পরে যখন ‘উসমান (রাযি.) খলীফাহ হলেন এবং লোকসংখ্যা বৃদ্ধি পেল, তখন তিনি ‘যাওরাহ’ হতে তৃতীয়* আযান বৃদ্ধি করেন। আবূ ‘আবদুল্লাহ্ (ইমাম বুখারী) (রহ.) বলেন, ‘যাওরাহ’ হল মাদ্বীনার অদূরে বাজারের একটি স্থান। (৯১৩, ৯১৫, ৯১৬) (আধুনিক প্রকাশনীঃ ৮৫৯, ইসলামিক ফাউন্ডেশনঃ ৮৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সায়িব ইবনু ইয়াযীদ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর (রাযি.) এবং উমর (রাযি.)-এর সময় জুমু‘আহর দিন ইমাম যখন মিম্বরের উপর বসতেন, তখন প্রথম আযান দেয়া হত। পরে যখন ‘উসমান (রাযি.) খলীফাহ হলেন এবং লোকসংখ্যা বৃদ্ধি পেল, তখন তিনি ‘যাওরাহ’ হতে তৃতীয়* আযান বৃদ্ধি করেন। আবূ ‘আবদুল্লাহ্ (ইমাম বুখারী) (রহ.) বলেন, ‘যাওরাহ’ হল মাদ্বীনার অদূরে বাজারের একটি স্থান। (৯১৩, ৯১৫, ৯১৬) (আধুনিক প্রকাশনীঃ ৮৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>912</td></tr><tr><td>Arabic No</td><td>912</td></tr><tr><td>Reference</td><td>Book 11 Hadith 36</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களது காலத்திலும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரது காலத்திலும் வெள்ளிக்கிழமை அன்று இமாம் சொற்பொழிவு மேடைமீது அமர்ந்ததும் முதலாவது பாங்கு சொல்லப்பட்டுவந்தது. உஸ்மான் (ரலி) அவர்கள் (ஆட்சிக்) காலத்தில் (மதீனாவில்) மக்கள் தொகை அதிகரித்தபோது, ‘அஸ்ஸவ்ரா’ எனும் கடைவீதியில் (பாங்கு, இகாமத் அல்லாமல்) மூன்றாவது தொழுகை அறிவிப்பை அதிகப்படுத்தினார்கள்.10 அத்தியாயம் : 11
+சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களது காலத்திலும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரது காலத்திலும் வெள்ளிக்கிழமை அன்று இமாம் சொற்பொழிவு மேடைமீது அமர்ந்ததும் முதலாவது பாங்கு சொல்லப்பட்டுவந்தது. உஸ்மான் (ரலி) அவர்கள் (ஆட்சிக்) காலத்தில் (மதீனாவில்) மக்கள் தொகை அதிகரித்தபோது, ‘அஸ்ஸவ்ரா’ எனும் கடைவீதியில் (பாங்கு, இகாமத் அல்லாமல்) மூன்றாவது தொழுகை அறிவிப்பை அதிகப்படுத்தினார்கள்.10 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>912</td></tr><tr><td>Arabic No</td><td>912</td></tr><tr><td>Reference</td><td>Book 11 Hadith 36</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Saib İbn Yezîd (r.a.)'in şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem Ebu Bekir ve Ömer (r.a.) dönemlerinde Cum'a ezanı imam minbere çıkıp oturduğunda okunurdu. Fakat Osman (r.a.) halife olduğunda Medine'de İnsanlar çoğalıp nüfus arttığı için Zevrâ denen yerde üçüncü ezanın ek olarak okunmasını kararlaştırdı. Tekrar: 913, 915, 916
+Saib İbn Yezîd (r.a.)'in şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem Ebu Bekir ve Ömer (r.a.) dönemlerinde Cum'a ezanı imam minbere çıkıp oturduğunda okunurdu. Fakat Osman (r.a.) halife olduğunda Medine'de İnsanlar çoğalıp nüfus arttığı için Zevrâ denen yerde üçüncü ezanın ek olarak okunmasını kararlaştırdı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>912</td></tr><tr><td>Arabic No</td><td>912</td></tr><tr><td>Reference</td><td>Book 11 Hadith 36</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উমার ইবনু আবূ সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে একটি মাত্র পোষাক জড়িয়ে উম্মু সালামাহ (রাযি.)-এর ঘরে সালাত আদায় করতে দেখেছি, যার প্রান্তদ্বয় তাঁর দুই কাঁধের উপর রেখেছিলেন। (৩৫৪; মুসলিম ৪/৫২, হাঃ ৫১৭, আহমাদ ১৬৩৩৫) (আধুনিক প্রকাশনীঃ ৩৪৩, ইসলামিক ফাউন্ডেশনঃ ৩৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উমার ইবনু আবূ সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে একটি মাত্র পোষাক জড়িয়ে উম্মু সালামাহ (রাযি.)-এর ঘরে সালাত আদায় করতে দেখেছি, যার প্রান্তদ্বয় তাঁর দুই কাঁধের উপর রেখেছিলেন। (৩৫৪; মুসলিম ৪/৫২, হাঃ ৫১৭, আহমাদ ১৬৩৩৫) (আধুনিক প্রকাশনীঃ ৩৪৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>356</td></tr><tr><td>Arabic No</td><td>356</td></tr><tr><td>Reference</td><td>Book 8 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ubaid bin Isma'il] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உமர் பின் அபீசலமா (ரலி) அவர்கள் கூறியதாவது: உம்மு சலமா (ரலி) அவர்களது இல்லத்தில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரே ஆடையை அணிந்து கொண்டு, அதன் இரு ஓரங்களையும் தம் தோள்கள்மீது மாற்றிப் போட்டுக்கொண்டு தொழுவதை நான் பார்த்தேன். அத்தியாயம் : 8
+உமர் பின் அபீசலமா (ரலி) அவர்கள் கூறியதாவது: உம்மு சலமா (ரலி) அவர்களது இல்லத்தில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரே ஆடையை அணிந்து கொண்டு, அதன் இரு ஓரங்களையும் தம் தோள்கள்மீது மாற்றிப் போட்டுக்கொண்டு தொழுவதை நான் பார்த்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>356</td></tr><tr><td>Arabic No</td><td>356</td></tr><tr><td>Reference</td><td>Book 8 Hadith 8</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩১০৭। আলকামা ইবনে নাযলা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বাকর ও উমার (রাঃ) ইন্তিকাল করেন এবং ঐ সময় পর্যন্ত মক্কার বাড়িঘর ‘আস-সাওয়াইব’ নামে পরিচিত ছিল। কোন ব্যক্তির প্রয়োজন হলে সে তাতে (তিন ঘরে) বসবাস করতো এবং কারো (নিজের জন্য) প্রয়োজন না হলে সে তা অন্যকে বসবাসের জন্য খালি করে দিতো।
+। আলকামা ইবনে নাযলা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বাকর ও উমার (রাঃ) ইন্তিকাল করেন এবং ঐ সময় পর্যন্ত মক্কার বাড়িঘর ‘আস-সাওয়াইব’ নামে পরিচিত ছিল। কোন ব্যক্তির প্রয়োজন হলে সে তাতে (তিন ঘরে) বসবাস করতো এবং কারো (নিজের জন্য) প্রয়োজন না হলে সে তা অন্যকে বসবাসের জন্য খালি করে দিতো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3107</td></tr><tr><td>Arabic No</td><td>3107</td></tr><tr><td>Reference</td><td>Book 25 Hadith 226</td></tr></tbody></table></div>
 

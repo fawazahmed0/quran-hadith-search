@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল ওয়াহ্‌হাব .... আবূ হুরায়রা (রাঃ) হতে-বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেনঃ তোমাদের কেউ যেন নামায আদায়ের সময় তার জুতা খুলে এমন স্থানে না রাখে যাতে অন্যের অসুবিধা হয়, বরং জুতা খুলে স্বীয় পদদ্বয়ের মধ্যবর্তী স্থানে রাখবে অথবা তা পরিধান করেই নামায পড়বে।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ সালাত আদায়কালে জুতা খুলে যেন এমন জায়গায় না রাখে যাতে অন্যের কষ্ট হয়। বরং জুতাজোড়া যেন দু’ পায়ের মাঝখানে রেখে দেয় অথবা তা পরেই সালাত আদায় করে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>655</td></tr><tr><td>Reference</td><td>Book 2 Hadith 265</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdul Wahhab bin Najdah] telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Sizden biriniz namaz kılmak isteyip de ayakkabılarını (ayağından) çıkardığı zaman, onlarla kimseyi rahatsız etmesin. (Ya) onları ayaklarının arasına koysun, yahutta namazı onlarla kılsın." Diğer tahric: Hakim, el-Müstedrek, I, 259, 260; Beyhaki, Süneni’l-kübra, II, 432
+Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Sizden biriniz namaz kılmak isteyip de ayakkabılarını (ayağından) çıkardığı zaman, onlarla kimseyi rahatsız etmesin. (Ya) onları ayaklarının arasına koysun, yahutta namazı onlarla kılsın." Diğer tahric: Hakim, el-Müstedrek, I, 259, 260; Beyhaki, Süneni’l-kübra, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>655</td></tr><tr><td>Reference</td><td>Book 2 Hadith 265</td></tr></tbody></table></div>
 

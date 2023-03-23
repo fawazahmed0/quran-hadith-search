@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১১৯৩। আবদুল্লাহ বিন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে দু রাকআত (ফরয) সালাত আদায় করতো, তার চেয়ে বেশি পড়তেন না। আর তিনি তাহাজ্জুদ সালাতও পড়তেন। আমি বললাম, তিনি কি বিতর সালাত (নামায/নামাজ) আদায় করতো? তিনি বলেন, হ্যাঁ।
+। আবদুল্লাহ বিন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে দু রাকআত (ফরয) সালাত আদায় করতো, তার চেয়ে বেশি পড়তেন না। আর তিনি তাহাজ্জুদ সালাতও পড়তেন। আমি বললাম, তিনি কি বিতর সালাত (নামায/নামাজ) আদায় করতো? তিনি বলেন, হ্যাঁ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 5 Hadith 391</td></tr></tbody></table></div>
 

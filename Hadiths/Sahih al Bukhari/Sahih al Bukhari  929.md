@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, জুমু‘আহর দিন মসজিদের দরজায় মালাইকাহ অবস্থান করেন এবং ক্রমানুসারে পূর্বে আগমণকারীদের নাম লিখতে থাকেন। যে সবার পূর্বে সে আসে ঐ ব্যক্তির ন্যায় যে একটি মোটাতাজা উট কুরবানী করে। অতঃপর যে আসে সে ঐ ব্যক্তির ন্যায় যে একটি গাভী কুরবানী করে, অতঃপর মেষ কুরবানী করার ন্যায়। অতঃপর আগমনকারী ব্যক্তি মুরগী দানকারীর ন্যায়। অতঃপর আগমনকারী ব্যক্তি একটি ডিম দানকারীর ন্যায়। অতঃপর ইমাম যখন বের হন তখন মালাইকাহ তাঁদের খাতা বন্ধ করে দিয়ে মনোযোগ সহকারে খুৎবাহ শ্রবণ করতে থাকে। (৩২১১) (আধুনিক প্রকাশনীঃ ৮৭৬, ইসলামিক ফাউন্ডেশনঃ ৮৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, জুমু‘আহর দিন মসজিদের দরজায় মালাইকাহ অবস্থান করেন এবং ক্রমানুসারে পূর্বে আগমণকারীদের নাম লিখতে থাকেন। যে সবার পূর্বে সে আসে ঐ ব্যক্তির ন্যায় যে একটি মোটাতাজা উট কুরবানী করে। অতঃপর যে আসে সে ঐ ব্যক্তির ন্যায় যে একটি গাভী কুরবানী করে, অতঃপর মেষ কুরবানী করার ন্যায়। অতঃপর আগমনকারী ব্যক্তি মুরগী দানকারীর ন্যায়। অতঃপর আগমনকারী ব্যক্তি একটি ডিম দানকারীর ন্যায়। অতঃপর ইমাম যখন বের হন তখন মালাইকাহ তাঁদের খাতা বন্ধ করে দিয়ে মনোযোগ সহকারে খুৎবাহ শ্রবণ করতে থাকে। (৩২১১) (আধুনিক প্রকাশনীঃ ৮৭৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>929</td></tr><tr><td>Arabic No</td><td>929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 53</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளிக்கிழமை வந்துவிட்டால், வானவர்கள் (ஜுமுஆ தொழுகை நடக்கும்) பள்ளிவாச-ன் நுழைவாயி-ல் நின்று கொண்டு, முதன் முதலாக உள்ளே நுழைபவரையும் அடுத்தடுத்து உள்ளே நுழைபவரையும் (அவர்களின் பெயர் களை) எழுதிப் பதிவு செய்துகொண்டி ருப்பார்கள். நேரத்தோடு (ஜுமுஆவுக்கு) வருப வரது நிலை ஓர் ஒட்டகத்தை ‘குர்பானி’ கொடுத்தவரது நிலைக்கு ஒப்பானதாகும். அதற்கடுத்து வருபவர் ஒரு மாட்டை ‘குர்பானி’ கொடுத்தவர் போன்றவர் ஆவார். அதற்கடுத்து வருபவர் கொம்புள்ள ஓர் ஆட்டையும் அதற்கடுத்து வருபவர் ஒரு கோழியையும் அதற்கடுத்து வருபவர் ஒரு முட்டையையும் தர்மம் செய்தவர் போன்றோர் ஆவர். இமாம் (உரையாற்றுவதற்காகப்) புறப்பட்டு வந்துவிட்டால், வானவர்கள் தங்கள் (பதிவு) ஏடுகளைச் சுருட்டி (வைத்து)விட்டு (அவரது) உரையைச் செவிதாழ்த்திக் கேட்க ஆரம்பித்து விடுவார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 11
+நபி (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளிக்கிழமை வந்துவிட்டால், வானவர்கள் (ஜுமுஆ தொழுகை நடக்கும்) பள்ளிவாச-ன் நுழைவாயி-ல் நின்று கொண்டு, முதன் முதலாக உள்ளே நுழைபவரையும் அடுத்தடுத்து உள்ளே நுழைபவரையும் (அவர்களின் பெயர் களை) எழுதிப் பதிவு செய்துகொண்டி ருப்பார்கள். நேரத்தோடு (ஜுமுஆவுக்கு) வருப வரது நிலை ஓர் ஒட்டகத்தை ‘குர்பானி’ கொடுத்தவரது நிலைக்கு ஒப்பானதாகும். அதற்கடுத்து வருபவர் ஒரு மாட்டை ‘குர்பானி’ கொடுத்தவர் போன்றவர் ஆவார். அதற்கடுத்து வருபவர் கொம்புள்ள ஓர் ஆட்டையும் அதற்கடுத்து வருபவர் ஒரு கோழியையும் அதற்கடுத்து வருபவர் ஒரு முட்டையையும் தர்மம் செய்தவர் போன்றோர் ஆவர். இமாம் (உரையாற்றுவதற்காகப்) புறப்பட்டு வந்துவிட்டால், வானவர்கள் தங்கள் (பதிவு) ஏடுகளைச் சுருட்டி (வைத்து)விட்டு (அவரது) உரையைச் செவிதாழ்த்திக் கேட்க ஆரம்பித்து விடுவார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>929</td></tr><tr><td>Arabic No</td><td>929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 53</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (Radiyallahu Anh), Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmİştir: "Cum'a günü olduğunda melekler mescidin kapısına dizilir ve ilk olarak gelenlerden itibaren sırayla gelen cemaati yazarlar. Namaza erken gelen kimseler sanki bir deveyi Allah yolunda kurban etmiş gibi sevap alırlar. Onlardan sonra gelenler bir sığırı, daha sonra gelenler bir koçu, ardından gelenler bir tavuğu ve en sona gelenler bir yumurtayı Allah yolunda tasadduk etmiş gibi sevap alırlar. İmam (hutbe için) çıktığında melekler kayıtları tuttukları defterleri kaldınrlar ve okunan zikri dinlemeye başlarlar. Tekrar: 3211
+Ebu Hureyre (Radiyallahu Anh), Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmİştir: "Cum'a günü olduğunda melekler mescidin kapısına dizilir ve ilk olarak gelenlerden itibaren sırayla gelen cemaati yazarlar. Namaza erken gelen kimseler sanki bir deveyi Allah yolunda kurban etmiş gibi sevap alırlar. Onlardan sonra gelenler bir sığırı, daha sonra gelenler bir koçu, ardından gelenler bir tavuğu ve en sona gelenler bir yumurtayı Allah yolunda tasadduk etmiş gibi sevap alırlar. İmam (hutbe için) çıktığında melekler kayıtları tuttukları defterleri kaldınrlar ve okunan zikri dinlemeye başlarlar. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>929</td></tr><tr><td>Arabic No</td><td>929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 53</td></tr></tbody></table></div>
 

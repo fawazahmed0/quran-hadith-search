@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাউদ (রহঃ) .... আবদুল্লাহ ইবন আমর ইবন আস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যতক্ষন পর্যন্ত কোন অপরাধ তোমাদের মাঝে সীমাবন্ধ থাকে, ততক্ষণ তোমরা পরস্পর তা ক্ষমা করে দেও। আর যদি তা আমার নিকট পেশ করা হয়, তবে তার জন্য শরীআত সম্মত শাস্তি প্রদান ওয়াজিব হয়ে যায়।
+। আব্দুল্লাহ ইবনু আমর ইবনুল আস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা আপোষে তোমাদের মধ্যে সংঘটিত হাদ্দ সংশ্লিষ্ট অপরাধ গোপন রাখো। অন্যথায় তা আমার নিকট পৌঁছলে তার শাস্তি বাস্তবায়িত হবেই।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4376</td></tr><tr><td>Arabic No</td><td>4376</td></tr><tr><td>Reference</td><td>Book 40 Hadith 26</td></tr></tbody></table></div>
 

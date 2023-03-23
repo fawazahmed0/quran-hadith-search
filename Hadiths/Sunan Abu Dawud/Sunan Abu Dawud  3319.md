@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইবনু কা‘ব ইবনু মালিক (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বা আবূ লুবাবাহ কিংবা আল্লাহর ইচ্ছায় অপর কেউ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলেন, আমার তওবা কবূল হওয়ায় আমি আমার গোত্রের যে বাড়িতে অপরাধের শিকার হয়েছি তা ত্যাগ করবো এবং আমার সমস্ত সাদাকাহ করে দিবো। তিনি বললেনঃ এক-তৃতীয়াংশ সাদাকাহ করাই তোমার জন্য যথেষ্ট।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3319</td></tr><tr><td>Arabic No</td><td>3319</td></tr><tr><td>Reference</td><td>Book 22 Hadith 78</td></tr></tbody></table></div>
 

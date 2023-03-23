@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-فِيْهِ : عَمْرَةُ عَنْ عَائِشَةَ رضي الله عنها، عَنْ النَّبِيِّ صلى الله عليه وسلم তাতেঃ ‘আয়িশাহ (রাঃ) নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামহতে বর্ণনা করেছেন। ৫০১৩. আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত যে, এক ব্যক্তি আরেক ব্যক্তিকে ‘কুল হুআল্লাহু আহাদ’ পড়তে শুনলেন। সে বার বার তা মুখে উচ্চারণ করছিল। পরদিন সকালে তিনি রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর কাছে এসে এ ব্যাপারে বললেন। যেন ঐ ব্যক্তি তাকে কম মনে করলেন। তখন রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, সেই সত্তার কসম, যাঁর হাতে আমার জীবন। এ সূরাহ হচ্ছে সমগ্র কুরআনের এক-তৃতীয়াংশের সমান। [৬৬৪৩, ৭৩৭৪] (আধুনিক প্রকাশনীঃ ৪৬৪১, ইসলামিক ফাউন্ডেশনঃ ৪৬৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فِيْهِ : عَمْرَةُ عَنْ عَائِشَةَ رضي الله عنها، عَنْ النَّبِيِّ صلى الله عليه وسلم তাতেঃ ‘আয়িশাহ (রাঃ) নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামহতে বর্ণনা করেছেন। ৫০১৩. আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত যে, এক ব্যক্তি আরেক ব্যক্তিকে ‘কুল হুআল্লাহু আহাদ’ পড়তে শুনলেন। সে বার বার তা মুখে উচ্চারণ করছিল। পরদিন সকালে তিনি রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর কাছে এসে এ ব্যাপারে বললেন। যেন ঐ ব্যক্তি তাকে কম মনে করলেন। তখন রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, সেই সত্তার কসম, যাঁর হাতে আমার জীবন। এ সূরাহ হচ্ছে সমগ্র কুরআনের এক-তৃতীয়াংশের সমান। [৬৬৪৩, ৭৩৭৪] (আধুনিক প্রকাশনীঃ ৪৬৪১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5013</td></tr><tr><td>Arabic No</td><td>5013</td></tr><tr><td>Reference</td><td>Book 66 Hadith 35</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் ‘குல் ஹுவல்லாஹு அஹத்’ எனும் (112ஆவது) அத்தியாயத்தைத் திரும்பத் திரும்ப ஓதிக்கொண்டிருந்ததை மற்றொரு மனிதர் செவியுற்றார்.39 (இதைக் கேட்ட) அந்த மனிதர் விடிந்ததும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் வந்து அதைப் பற்றிக் கூறினார். அந்தச் சிறிய அத்தியாயத்தை(த் திரும்பத் திரும்ப அவர் ஓதியதை) இவர் சாதாரணமாக மதிப்பிட்டதைப் போல் தெரிந்தது. அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘என் உயிர் எவன் கையிலுள்ளதோ அ(ந்த இறை)வன்மீது சத்தியமாக! அந்த அத்தியாயம் குர்ஆனின் மூன்றில் ஒரு பங்கிற்கு ஈடானதாகும்” என்று சொன்னார்கள்.40 அத்தியாயம் : 66
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் ‘குல் ஹுவல்லாஹு அஹத்’ எனும் (112ஆவது) அத்தியாயத்தைத் திரும்பத் திரும்ப ஓதிக்கொண்டிருந்ததை மற்றொரு மனிதர் செவியுற்றார்.39 (இதைக் கேட்ட) அந்த மனிதர் விடிந்ததும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் வந்து அதைப் பற்றிக் கூறினார். அந்தச் சிறிய அத்தியாயத்தை(த் திரும்பத் திரும்ப அவர் ஓதியதை) இவர் சாதாரணமாக மதிப்பிட்டதைப் போல் தெரிந்தது. அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘என் உயிர் எவன் கையிலுள்ளதோ அ(ந்த இறை)வன்மீது சத்தியமாக! அந்த அத்தியாயம் குர்ஆனின் மூன்றில் ஒரு பங்கிற்கு ஈடானதாகும்” என்று சொன்னார்கள்.40 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5013</td></tr><tr><td>Arabic No</td><td>5013</td></tr><tr><td>Reference</td><td>Book 66 Hadith 35</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Said el-Hudrl'den rivayet edildiğine göre; Adam'ın biri, başka birinin İhlas suresini tekrarlayıp durduğunu işitmiş. Sabah olunca, Nebi Sallallahu Aleyhi ve Sellem'e gelip biraz da adamın yaptığını hafife alarak bu durumu haber vermiş. Bunun üzerine Allah Resülü Sallallahu Aleyhi ve Sellem şöyle buyurmuş: "Canım elinde bulunan Allah'a yemin ederim ki, bu sure Kur'an'ın üçte birine denktir." Hadisin geçtiği diğer yerler: 6643, 7374
+Ebu Said el-Hudrl'den rivayet edildiğine göre; Adam'ın biri, başka birinin İhlas suresini tekrarlayıp durduğunu işitmiş. Sabah olunca, Nebi Sallallahu Aleyhi ve Sellem'e gelip biraz da adamın yaptığını hafife alarak bu durumu haber vermiş. Bunun üzerine Allah Resülü Sallallahu Aleyhi ve Sellem şöyle buyurmuş: "Canım elinde bulunan Allah'a yemin ederim ki, bu sure Kur'an'ın üçte birine denktir." Hadisin geçtiği diğer yerler:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5013</td></tr><tr><td>Arabic No</td><td>5013</td></tr><tr><td>Reference</td><td>Book 66 Hadith 35</td></tr></tbody></table></div>
 

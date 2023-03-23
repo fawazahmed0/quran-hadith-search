@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) থেকে বর্ণনা করেন যে, তিনি বলেন, إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِيْنًا এর দ্বারা হুদাইবিয়াহর সন্ধি বোঝানো হয়েছে। [৪১৭২] (আধুনিক প্রকাশনীঃ ইসলামিক ফাউন্ডেশনঃ ৪৪৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) থেকে বর্ণনা করেন যে, তিনি বলেন, إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِيْنًا এর দ্বারা হুদাইবিয়াহর সন্ধি বোঝানো হয়েছে। [৪১৭২] (আধুনিক প্রকাশনীঃ ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4834</td></tr><tr><td>Arabic No</td><td>4834</td></tr><tr><td>Reference</td><td>Book 65 Hadith 355</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basyar] Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கத்தாதா பின் திஆமா (ரஹ்) அவர்கள் கூறியதாவது: ‘‘(நபியே!) நாம் உமக்கு வெளிப்படை யான வெற்றியை அளித்துள்ளோம்” எனும் (48:1ஆவது) இறைவசனம் ஹுதைபியா உடன்படிக்கையையே குறிக்கிறது” என்று அனஸ் (ரலி) அவர்கள் கூறினார்கள்.3 அத்தியாயம் : 65
+கத்தாதா பின் திஆமா (ரஹ்) அவர்கள் கூறியதாவது: ‘‘(நபியே!) நாம் உமக்கு வெளிப்படை யான வெற்றியை அளித்துள்ளோம்” எனும் (48:1ஆவது) இறைவசனம் ஹுதைபியா உடன்படிக்கையையே குறிக்கிறது” என்று அனஸ் (ரலி) அவர்கள் கூறினார்கள்.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4834</td></tr><tr><td>Arabic No</td><td>4834</td></tr><tr><td>Reference</td><td>Book 65 Hadith 355</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা সফরে ঊনিশ দিন পর্যন্ত অবস্থান কালে সালাত কসর করেন। সেহেতু আমরাও ঊনিশ দিনের সফরে থাকলে কসর করি এবং এর চেয়ে অধিক হলে পূর্ণ সালাত আদায় করি। (৪২৯৮, ৪২৯৯) (আধুনিক প্রকাশনীঃ ১০১৪, ইসলামিক ফাউন্ডেশনঃ ১০১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা সফরে ঊনিশ দিন পর্যন্ত অবস্থান কালে সালাত কসর করেন। সেহেতু আমরাও ঊনিশ দিনের সফরে থাকলে কসর করি এবং এর চেয়ে অধিক হলে পূর্ণ সালাত আদায় করি। (৪২৯৮, ৪২৯৯) (আধুনিক প্রকাশনীঃ ১০১৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 18 Hadith 1</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (மக்கா வெற்றி ஆண்டில் மக்காவில்) தங்கியிருந்தபோது, பத்தொன்பது நாட்கள் சுருக்கித் தொழு தார்கள். ஆகவே, நாங்களும் பத்தொன்பது நாட்களுக்குப் பயணம் மேற்கொண்டால், சுருக்கி (கஸ்ர் செய்து) தொழுவோம். (அதைவிட) அதிகமாகத் தங்கினால், (சுருக்காமல் வழக்கப்படி) முழுமையாகத் தொழுவோம். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 18
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (மக்கா வெற்றி ஆண்டில் மக்காவில்) தங்கியிருந்தபோது, பத்தொன்பது நாட்கள் சுருக்கித் தொழு தார்கள். ஆகவே, நாங்களும் பத்தொன்பது நாட்களுக்குப் பயணம் மேற்கொண்டால், சுருக்கி (கஸ்ர் செய்து) தொழுவோம். (அதைவிட) அதிகமாகத் தங்கினால், (சுருக்காமல் வழக்கப்படி) முழுமையாகத் தொழுவோம். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 18 Hadith 1</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem bir yerde (gecesiyle birlikte) on dokuz gün kaldı ve bu müddet içinde na­mazları kısaltarak kıldı. Biz (gecesiyle birlikte) on dokuz günlük yolculuk yaptığımızda namazları kısaltarak kılardık. Fakat daha uzun süreli yolculuklarda tam kılardık. Tekrar: 4298, 4299
+İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem bir yerde (gecesiyle birlikte) on dokuz gün kaldı ve bu müddet içinde na­mazları kısaltarak kıldı. Biz (gecesiyle birlikte) on dokuz günlük yolculuk yaptığımızda namazları kısaltarak kılardık. Fakat daha uzun süreli yolculuklarda tam kılardık. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 18 Hadith 1</td></tr></tbody></table></div>
 

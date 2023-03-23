@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার এবং রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর গোসলের জন্য এ পাত্রটি রাখা হত। আমরা এক সাথে এর থেকে গোসল করতাম।[1] [২৫০] (আধুনিক প্রকাশনী- ৬৮২৭, ইসলামিক ফাউন্ডেশন- ৬৮৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার এবং রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর গোসলের জন্য এ পাত্রটি রাখা হত। আমরা এক সাথে এর থেকে গোসল করতাম।[1] [২৫০] (আধুনিক প্রকাশনী- ৬৮২৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7339</td></tr><tr><td>Arabic No</td><td>7339</td></tr><tr><td>Reference</td><td>Book 96 Hadith 68</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Aisha:This big copper vessel used to be put for me and Allah's Messeng
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்கள் (ஒரு பாத்திரத்தைக் காட்டி), “இந்தப் பாத்திரம் நானும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களும் குளிப்பதற்காக வைக்கப்பட்டுவந்தது. நாங்கள் இருவரும் ஒருசேர இதில் குளிக்கத் தொடங்குவோம்” என்று கூறினார்கள்.67 அத்தியாயம் : 96
+உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்கள் (ஒரு பாத்திரத்தைக் காட்டி), “இந்தப் பாத்திரம் நானும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களும் குளிப்பதற்காக வைக்கப்பட்டுவந்தது. நாங்கள் இருவரும் ஒருசேர இதில் குளிக்கத் தொடங்குவோம்” என்று கூறினார்கள்.67 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7339</td></tr><tr><td>Arabic No</td><td>7339</td></tr><tr><td>Reference</td><td>Book 96 Hadith 68</td></tr></tbody></table></div>
 

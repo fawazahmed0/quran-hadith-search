@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... ইবনু উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, বিলাল (রাঃ) ফজরের নামাযের আযান সুবহে সা’দিকের পূর্বেই দিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাকে পুনর্বার আযান দেওয়ার নির্দেশ দেন। তিনি তা পুনরায় দিলেন। প্রকাশ থাকে যে, বিলাল (রাঃ) ঘুমের কারণে যথা সময়ে আযান দিতে সক্ষম হতেন না। রাবী মূসার বর্ণনায় আরো আছে, অতঃপর বিলাল (রাঃ) পুনর্বার আযান দিলেন। জেনে রাখ! মানুষেরা এ সময়ে ঘুমে বিভোর থাকে। (তিরমিযী)।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। একদা বিলাল (রাঃ) সুবহে সাদিকের আগেই আযান দিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে পুনরায় আযান দেয়ার স্থানে ফিরে গিয়ে এ ঘোষণা দেয়ার নির্দেশ দিলেনঃ জেনে রাখ, বান্দা (বিলাল) আযানের সময় সম্পর্কে অমনোযোগী হয়ে পড়েছিল। [1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, হাম্মাদ ইবনু সালামাহ্ ছাড়া অন্য কেউ আইয়ূব (রাঃ) সূত্রে এ হাদীস বর্ণনা করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>532</td></tr><tr><td>Arabic No</td><td>532</td></tr><tr><td>Reference</td><td>Book 2 Hadith 142</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Narrated Abdullah ibn Umar: Bilal made a call to prayer before the break of dawn
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer'den rivayet edildiğine göre, Bilal (r.a.) sabah olmadan ezan okumuş, Nebiyy-i Ekrem (Sallallahu aleyhi ve Sellem) de ona (tekrar ezan okudğu yere) dönmesini ve "haberiniz olsun köle uyudu, haberiniz olsun köle uyudu" diye seslenmesini emretmiştir. Musa (rivayetine) devamla '' Bilal dönüp haberiniz olsun köle uyumuştur.” diye nida etti'' cümlesini eklemiştir. Ebu Davud dediki; Bu hadisi Eyyub'dan sadece Hammad riva­yet etmiştir. Diğer tahric: Buharî, ezan; savm; şehadet; ahad; Müslim, sıyam; Tirmizî, salat; Nesaî, ezan; Darimî, salat; Muvatta nida; Ahmed b. Hanbel, II, 9, 57, 62, 64, 73, 79, 107, 123
+İbn Ömer'den rivayet edildiğine göre, Bilal (r.a.) sabah olmadan ezan okumuş, Nebiyy-i Ekrem (Sallallahu aleyhi ve Sellem) de ona (tekrar ezan okudğu yere) dönmesini ve "haberiniz olsun köle uyudu, haberiniz olsun köle uyudu" diye seslenmesini emretmiştir. Musa (rivayetine) devamla '' Bilal dönüp haberiniz olsun köle uyumuştur.” diye nida etti'' cümlesini eklemiştir. Ebu Davud dediki; Bu hadisi Eyyub'dan sadece Hammad riva­yet etmiştir. Diğer tahric: Buharî, ezan; savm; şehadet; ahad; Müslim, sıyam; Tirmizî, salat; Nesaî, ezan; Darimî, salat; Muvatta nida; Ahmed b. Hanbel, II, 9
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>532</td></tr><tr><td>Arabic No</td><td>532</td></tr><tr><td>Reference</td><td>Book 2 Hadith 142</td></tr></tbody></table></div>
 

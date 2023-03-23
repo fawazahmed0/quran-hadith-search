@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন ঈসা (রহঃ) .... ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি গর্ব ও অহংকার প্রকাশের জন্য পোশাক পরিধান করে কিয়ামতের দিন আল্লাহ তাকে ঐ ধরনের পোশাক পরাবেন, এরপর তাতে দোযখের আগুন লাগিয়ে দেবেন।
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, যে ব্যক্তি খ্যাতি লাভের জন্য পোশাক পরে, কিয়ামতের দিন আল্লাহ তাকে সেরূপ পোশাক পরাবেন, অতঃপর তাতে আগুন ধরিয়ে দেয়া হবে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4029</td></tr><tr><td>Arabic No</td><td>4029</td></tr><tr><td>Reference</td><td>Book 34 Hadith 10</td></tr></tbody></table></div>
 

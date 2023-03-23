@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনু হাম্বল .... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেছেনঃ মসজিদের ইমাম হলো মুসল্লীদের জন্য যিম্মাদার এবং মুয়াযযিন আমানতদার স্বরূপ। ইয়া আল্লাহ্! তুমি ইমামদের সৎপথ প্রদর্শন কর এবং ক্ষমা কর। (তিরমিযী)।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইমাম হচ্ছেন যিম্মাদার এবং মুয়াজ্জিন (ওয়াক্তের) আমানাতদার। ‘হে আল্লাহ! ইমামদের সঠিক পথ প্রদর্শন করুন এবং মুয়াজ্জিনদের ক্ষমা করে দিন।’[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>517</td></tr><tr><td>Arabic No</td><td>517</td></tr><tr><td>Reference</td><td>Book 2 Hadith 127</td></tr></tbody></table></div>
 

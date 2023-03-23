@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭৭৭। বুরাইদাহ (রাযিঃ) হতে মারফু' হিসেবে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে ‘আলী! বারবার (অননুমোদিত জিনিসের প্রতি) তাকাবে না। তোমার প্রথম দৃষ্টি জায়িয (ও ক্ষমাযোগ্য) হলেও পরের দৃষ্টি (ক্ষমাযোগ্য) নয়। হাসানঃ হিজাবুল মারয়াহ (৩৪), সহীহ আবী দাউদ (১৮৬৫)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। আমরা এটি শুধু শারীকের রিওয়ায়াত হিসেবে জেনেছি।
+। বুরাইদাহ (রাযিঃ) হতে মারফু' হিসেবে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে ‘আলী! বারবার (অননুমোদিত জিনিসের প্রতি) তাকাবে না। তোমার প্রথম দৃষ্টি জায়িয (ও ক্ষমাযোগ্য) হলেও পরের দৃষ্টি (ক্ষমাযোগ্য) নয়। হাসানঃ হিজাবুল মারয়াহ (৩৪), সহীহ আবী দাউদ (১৮৬৫)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। আমরা এটি শুধু শারীকের রিওয়ায়াত হিসেবে জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2777</td></tr><tr><td>Arabic No</td><td>2777</td></tr><tr><td>Reference</td><td>Book 43 Hadith 47</td></tr></tbody></table></div>
 

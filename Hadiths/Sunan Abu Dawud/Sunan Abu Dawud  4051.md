@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফস ইবনে উমার (রহঃ) .... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমাকে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সোনার আংটি ও রেশমের বস্ত্র পরিধান করতে লাল জিন-পোশের উপর সওয়ার হতে নিষেধ করেছেন।
+। আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে নিষেধ করেছেন স্বর্ণের আংটি ব্যবহার করতে, রেশমী কাপড় পরতে এবং নরম তুলতুলে লাল রঙের রেশমী জিনপোষে বসতে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 32</td></tr></tbody></table></div>
 

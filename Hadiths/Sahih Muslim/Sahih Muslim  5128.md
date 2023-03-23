@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫০২২, আন্তর্জাতিক নাম্বারঃ ১৯৭৯ ৫০২২-(.../...) আবদ ইবনু হুমায়দ (রহঃ) ..... ইবনু জুরায়জ (রহঃ) হতে এ সূত্রে হুবহু বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৪৯৬৫, ইসলামিক সেন্টার ৪৯৭২)
+আবদ ইবনু হুমায়দ (রহঃ) ..... ইবনু জুরায়জ (রহঃ) হতে এ সূত্রে হুবহু বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৪৯৬৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5128</td></tr><tr><td>Arabic No</td><td>1979.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
 

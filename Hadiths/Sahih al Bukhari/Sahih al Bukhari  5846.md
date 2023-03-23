@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পুরুষদের জাফরানী রং-এর কাপড় পরতে নিষেধ করেছেন। [মুসলিম ৩৭/২৩, হাঃ ২১০১, আহমাদ ১২৯৪১] (আধুনিক প্রকাশনী- ৫৪২০, ইসলামিক ফাউন্ডেশন- ৫৩১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পুরুষদের জাফরানী রং-এর কাপড় পরতে নিষেধ করেছেন। [মুসলিম ৩৭/২৩, হাঃ ২১০১, আহমাদ ১২৯৪১] (আধুনিক প্রকাশনী- ৫৪২০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5846</td></tr><tr><td>Arabic No</td><td>5846</td></tr><tr><td>Reference</td><td>Book 77 Hadith 63</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஆண்கள் (தமது மேனியில்) குங்குமப்பூச் சாயமிட்டுக்கொள்வதை நபி (ஸல்) அவர்கள் தடை செய்தார்கள்.65 அத்தியாயம் : 77
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஆண்கள் (தமது மேனியில்) குங்குமப்பூச் சாயமிட்டுக்கொள்வதை நபி (ஸல்) அவர்கள் தடை செய்தார்கள்.65 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5846</td></tr><tr><td>Arabic No</td><td>5846</td></tr><tr><td>Reference</td><td>Book 77 Hadith 63</td></tr></tbody></table></div>
 

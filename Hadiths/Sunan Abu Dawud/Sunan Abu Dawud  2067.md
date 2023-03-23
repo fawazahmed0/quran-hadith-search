@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন মুহাম্মাদ ..... ইবন আব্বাস (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন যে, তিনি কোন স্ত্রী লোকের সাথে তার খালা ও ফুফুকে এবং দুজন খালা ফুফুকে একত্রে বিবাহ করাকে হারাম বলে অপছন্দ করতেন
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন দুই মহিলাকে একত্রে বিয়ে করতে নিষেধ করেছেন যাদের পরস্পরের মধ্যে সম্পর্ক হচ্ছে ফুফু ও ভাতিজী এবং খালা ও ভাগ্নী। অনুরূপভাবে তিনি এমন দু‘জন মহিলাকেও একত্রে বিয়ে করতে নিষেধ করেছেন যারা পরস্পর খালা বা ফুফু।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2067</td></tr><tr><td>Arabic No</td><td>2067</td></tr><tr><td>Reference</td><td>Book 12 Hadith 22</td></tr></tbody></table></div>
 

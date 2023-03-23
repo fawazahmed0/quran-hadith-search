@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... আমর ইবন মুররা (রহঃ) উপরোক্ত হাদীছের সনদ ও অর্থে বর্ণনা করেছেন। তবে তিনি “ওয়া য়াসসিরিল হুদায়া” এর স্থলে “ওয়াসসির হুদা” উল্লেখ করেছেন। (তিরমিযী, নাসাঈ, ইবন মাজা)।
+। সুফয়ান (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি ‘আমর ইবনু মুররাহকে উপরোক্ত সানাদ ও অর্থে হাদীস বর্ণনা করতে শুনেছি। তিনি ‘ওয়া ইয়াসসিরিল হুদা ইলাইয়্যা’ বলেছেন, কিন্তু ‘হুদায়া’ বলেননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1511</td></tr><tr><td>Arabic No</td><td>1511</td></tr><tr><td>Reference</td><td>Book 8 Hadith 96</td></tr></tbody></table></div>
 

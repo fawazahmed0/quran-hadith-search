@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৫৩, আন্তর্জাতিক নাম্বারঃ ৬৫৪ ৬৫৩. কুতায়বাহ্ (রহ.) ..... ‘আমর ইবনু আওস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার কাছে সাকীফ সম্প্রদায়ের এক ব্যক্তি বর্ণনা করেছেন যে, সে সফর অবস্থায় বৃষ্টির এক রাতে নবী (সা.) -এর ঘোষককে সালাতের জন্যে আসো, কল্যাণের জন্য আসো। এরপরে বলতে শুনেছেন- “সল্লু ফী রিহা-লিকুম” (সকলেই আপন স্থানে সালাত আদায় করে নাও)। সহীহ: নাসায়ী’র “সুনানুল কুবরা” ১৬১৭, মুসনাদে আহমাদ ২৩২১৫।
+। কুতায়বা (রহঃ) ... আমর ইবনু আওস (রাঃ) থেকে বর্নিত। তিনি বলেন, আমার নিকট সাকীফ গোত্রের এক ব্যক্তি বর্ননা করেছেন যে, তিনি সফর অবস্থায় বর্ষার এক রাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঘোষককে বলতে শুনেছেনঃ حَىَّ عَلَى الصَّلاَةِ حَىَّ عَلَى الْفَلاَحِ صَلُّوا فِي رِحَالِكُمْ "সকলেই আপন আপন স্থানে সালাত আদায় করে নিন"।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>653</td></tr><tr><td>Arabic No</td><td>653</td></tr><tr><td>Reference</td><td>Book 7 Hadith 28</td></tr></tbody></table></div>
 

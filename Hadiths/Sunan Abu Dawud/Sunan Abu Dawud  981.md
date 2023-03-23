@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন ইউনুস (রহঃ) ..... উকবা ইবন আমের (রাঃ) হতে বর্ণিত। তিনি বলেন, তোমরা বলবেঃ ‘‘আল্লাহুম্মা সাল্লে আলা মুহাম্মাদিনিন নাবিয়্যিল উম্মিয়্যি ওয়া আলা আলি মুহাম্মাদিন্।’’
+। ইমাম আবূ দাউদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আহমাদ ইবনু ইউনুস, যুহাইর, মুহাম্মাদ ইবনু ইসহাক, মুহাম্মাদ ইবনু ইবরাহীম ইবনুল হারিস এবং মুহাম্মাদ ইবনু ‘আবদুল্লাহ ইবনু যায়িদের মাধ্যমে ‘উক্ববাহ ইবনু ‘আমর (রাঃ) হতে এই হাদীস বর্ণনা করেছেন। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, তোমরা বলোঃ ‘‘আল্লাহুম্মা সল্লি ‘আলা মুহাম্মাদিন নাবিই্যুল উম্মীয়ি ওয়া ‘আলা ‘আলি মুহাম্মাদিন।’’[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>981</td></tr><tr><td>Reference</td><td>Book 2 Hadith 592</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ This tradition has also been reported by ‘Uqbah b. ‘Amr through a different 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Ebu Mes'ud el-Ensâri'nin) önceki (980.) haberi Ukbe b.Amr’dan aynen rivayet edilmiştir. Farklı olarak bunda Resûlullah; "Allah'ım! Ümmî Nebî Mııhammed'i ve âlini yücelt" deyiniz buyurmuştur. Diğer tahric: Beyhakî, es-Sünenü'l-kübra, Iı, 378, Darekutnî, Sünen, I, 355
+(Ebu Mes'ud el-Ensâri'nin) önceki (980.) haberi Ukbe b.Amr’dan aynen rivayet edilmiştir. Farklı olarak bunda Resûlullah; "Allah'ım! Ümmî Nebî Mııhammed'i ve âlini yücelt" deyiniz buyurmuştur. Diğer tahric: Beyhakî, es-Sünenü'l-kübra, Iı, 378, Darekutnî, Sünen, I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>981</td></tr><tr><td>Reference</td><td>Book 2 Hadith 592</td></tr></tbody></table></div>
 

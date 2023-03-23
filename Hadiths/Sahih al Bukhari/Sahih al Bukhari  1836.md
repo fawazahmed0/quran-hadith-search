@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু বুহাইনা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম অবস্থায় ‘লাহইয়ে জামাল’ নামক স্থানে তাঁর মাথার মধ্যখানে সিঙ্গা লাগিয়েছিলেন। (৫৬৯৮, মুসলিম ১৫/১১, হাঃ ১২০৩) (আধুনিক প্রকাশনীঃ ১৭০৪, ইসলামিক ফাউন্ডেশনঃ ১৭১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু বুহাইনা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম অবস্থায় ‘লাহইয়ে জামাল’ নামক স্থানে তাঁর মাথার মধ্যখানে সিঙ্গা লাগিয়েছিলেন। (৫৬৯৮, মুসলিম ১৫/১১, হাঃ ১২০৩) (আধুনিক প্রকাশনীঃ ১৭০৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 28 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khalid bin Mukhallad] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு புஹைனா (ரலி) அவர்கள் கூறியதாவது : நபி (ஸல்) அவர்கள் இஹ்ராம் கட்டியிருந்த நிலையில், (மக்கா சாலையில் உள்ள) ‘லஹ்யு ஜமல்’ எனுமிடத்தில் தமது தலையின் நடுப் பகுதியில் குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள். அத்தியாயம் : 28
+இப்னு புஹைனா (ரலி) அவர்கள் கூறியதாவது : நபி (ஸல்) அவர்கள் இஹ்ராம் கட்டியிருந்த நிலையில், (மக்கா சாலையில் உள்ள) ‘லஹ்யு ஜமல்’ எனுமிடத்தில் தமது தலையின் நடுப் பகுதியில் குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 28 Hadith 16</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Khalid bin Mukhallad] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Buhayne r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem Lahy-i cemel denilen yerde başının ortasından hacamat yaptırdı (kan aldırdı). Tekrar: 5698
+İbn Buhayne r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem Lahy-i cemel denilen yerde başının ortasından hacamat yaptırdı (kan aldırdı). Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 28 Hadith 16</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। বিশর ইবনু হিলাল (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, তোমাদের নিকট রমযান উপস্থিত হয়েছে, যা একটি বরকতময় মাস। তোমাদের উপরে আল্লাহ তা’আলা অত্র মাসের সওম ফরয করেছেন। এ মাস আগমনে জান্নাতের দরজাসমূহ খুলে দেয়া হয়, জাহান্নামের দরজাসমূহ বন্ধ করে দেয়া হয়, আর আল্লাহর অবাধ্য শয়তানদের গলায় লোহার বেড়ী পরানো হয়। এ মাসে একটি রাত রয়েছে যা এক হাজার মাস অপেক্ষাও উত্তম। যে ব্যক্তি সে রাতের কল্যাণ থেকে বঞ্চিত রয়ে গেল সে প্রকৃত বঞ্চিত রয়ে গেল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2106</td></tr><tr><td>Arabic No</td><td>2106</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
 

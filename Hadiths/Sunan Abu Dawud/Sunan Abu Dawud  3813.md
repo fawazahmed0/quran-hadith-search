@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ফারজ (রহঃ) ..... সালমান (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে ফড়িং সম্পর্কে জিজ্ঞাসা করা হলে তিনি বলেনঃ এরা আল্লাহ্‌র অগণিত সেনা। আমি তা খাই না এবং আমি একে হারামও বলি না। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ মু'তামির (রহঃ) তাঁর পিতা হতে, তিনি আবূ উছমান (রহঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। তিনি তাঁর সনদে সালমান (রাঃ)-এর কথা উল্লেখ করেননি।
+। সালমান (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে টিড্ডি খাওয়া সম্পর্কে প্রশ্ন করা হলে তিনি বলেনঃ আল্লাহর অসংখ্য সৈন্যবাহিনী রয়েছে। আমি এগুলো খাই না এবং হারামও বলি না।[1] দুর্বলঃ মিশকাত
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3813</td></tr><tr><td>Arabic No</td><td>3813</td></tr><tr><td>Reference</td><td>Book 28 Hadith 78</td></tr></tbody></table></div>
 

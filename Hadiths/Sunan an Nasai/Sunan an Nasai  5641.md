@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সুওয়ায়দ (রহঃ) ... শারীক ইব্‌ন আবানের কন্যা হুনায়দা (রহঃ) বলেন, আমি খুরায়বা নামক স্থানে আয়েশা (রাঃ)-এর সাথে মিলিত হলাম। আমি তাঁর নিকট শরাবের তলানী সম্বন্ধে জিজ্ঞাসা করলাম। তিনি আমাকে তা থেকে নিষেধ করলেন। তিনি বললেন, নবীয সন্ধ্যায় ভেজাবে এবং ভােরে পান করবে। আর যদি তা কোন মশকে থাকে, তবে তার মুখ বন্ধ করে দেবে। আর তিনি আমাকে কদুর খােল, কাষ্ঠের পাত্র, আলকাতরা মাখা পাত্র ও সবুজ কলস ব্যবহার করতে নিষেধ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5641</td></tr><tr><td>Arabic No</td><td>5641</td></tr><tr><td>Reference</td><td>Book 51 Hadith 103</td></tr></tbody></table></div>
 

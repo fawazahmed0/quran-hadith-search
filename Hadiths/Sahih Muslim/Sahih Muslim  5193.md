@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... ইবনু উমার (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাড়ি (কলস) ও দুব্বা (-তে নবীয বানানো) হতে বারণ করেছেন। (ইসলামিক ফাউন্ডেশন ৫০২৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5193</td></tr><tr><td>Arabic No</td><td>1997.08</td></tr><tr><td>Reference</td><td>Book 36 Hadith 67</td></tr></tbody></table></div>
 

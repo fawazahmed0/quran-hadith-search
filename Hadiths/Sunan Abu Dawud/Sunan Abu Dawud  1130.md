@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবনে আব্দুল আযীয ..... ইবনে উমর (রাঃ) হতে বর্ণিত। তিনি মক্কায় অবস্থানকালে জুমার ফরয নামায আদায়ের পর নিজ স্থান ত্যাগ করে একটু সামনে এগিয়ে দুই রাকাত নামায আদায় করতেন। অতঃপর আরো একটু সামনে এগিয়ে চার রাকাত আদায় করতেন। আর তিনি মদিনায় অবস্থানকালে জুমার ফরয নামায আদায় শেষে ঘরে ফিরে দুই রাকাত আদায় করতেন। তখন তাঁকে এ ব্যাপারে জিজ্ঞাসা করা হলে তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এইরূপ করতেন।
+। ‘আত্বা (রহঃ) ইবনু ‘উমার (রাঃ) সম্পর্কে বর্ণনা করেন যে, তিনি মাক্কায় অবস্থানকালে জুমু‘আহর (ফারয) সালাত আদায়ের পর সামনে এগিয়ে (স্থান পরিবর্তন করে) দু’ রাক‘আত সালাত আদায় করতেন। অতঃপর আবার সামনে এগিয়ে (স্থান পরিবর্তন করে) চার রাক‘আত সালাত আদায় করতেন। কিন্তু তিনি মাদীনায় অবস্থানকালে জুমু‘আহর (ফারয) সালাতের পর মসজিদে সালাত আদায় না করে বাড়িতে এসে দু’ রাক‘আত সালাত আদায় করতেন। তাঁকে এর কারণ জিজ্ঞেস করা হলে তিনি বলেন, রসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1130</td></tr><tr><td>Arabic No</td><td>1130</td></tr><tr><td>Reference</td><td>Book 2 Hadith 741</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Abdul Aziz bin Abu Rizmah Al Marwaz
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Atâ'dan rivayet edildiğine göre; İbn Ömer Mekke'de olduğu zaman, cum'a'yı kılınca biraz ilerleyip iki rekat, sonra yine ilerleyip dört rekat daha kılardı. Medine'de olduğunda ise, cumayı kılar sonra evine döner ve (evinde) iki rekat namaz kılardı. Mescitte (birşey) kılmazdı.Kendisine (bu farklılığın sebebi) soruldu; "Resûlullah (s.a.v.) böyle yapardı" cevabım verdi. Diğer tahric: Beyhakî, es-Sunenu'l-kubrâ, III, 240
+Atâ'dan rivayet edildiğine göre; İbn Ömer Mekke'de olduğu zaman, cum'a'yı kılınca biraz ilerleyip iki rekat, sonra yine ilerleyip dört rekat daha kılardı. Medine'de olduğunda ise, cumayı kılar sonra evine döner ve (evinde) iki rekat namaz kılardı. Mescitte (birşey) kılmazdı.Kendisine (bu farklılığın sebebi) soruldu; "Resûlullah (s.a.v.) böyle yapardı" cevabım verdi. Diğer tahric: Beyhakî, es-Sunenu'l-kubrâ, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1130</td></tr><tr><td>Arabic No</td><td>1130</td></tr><tr><td>Reference</td><td>Book 2 Hadith 741</td></tr></tbody></table></div>
 

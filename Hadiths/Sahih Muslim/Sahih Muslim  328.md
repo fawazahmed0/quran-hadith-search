@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২৭, আন্তর্জাতিক নাম্বারঃ ১২৪ ২২৭-(১৯৮/...) ইসহাক ইবনু ইবরাহীম আলী ইবনু খাশরাম, মিনজাব ইবনু হারিস আত তামীমী এবং আবূ কুরায়ব (রহঃ) ..... আমাশ (রহঃ) থেকে উক্ত সনদে বর্ণনা করেছেন। আবূ কুরায়ব (রহঃ) বলেন, ইবনু ইদরীস (রহঃ) বলেছেন, প্রথমতঃ আমার পিতা আমাকে আ'বান ইবনু তাগলিব থেকে আমাশ এর সূত্রে বর্ণনা করেছেন, পরবর্তীকালে আমি নিজেই আমাশ থেকে সরাসরি এ হাদীস শুনেছি (ইসলামিক ফাউন্ডেশনঃ ২২৮, ইসলামিক সেন্টারঃ ২৩৬)
+ইসহাক ইবনু ইবরাহীম আলী ইবনু খাশরাম, মিনজাব ইবনু হারিস আত তামীমী এবং আবূ কুরায়ব (রহঃ) ..... আমাশ (রহঃ) থেকে উক্ত সনদে বর্ণনা করেছেন। আবূ কুরায়ব (রহঃ) বলেন, ইবনু ইদরীস (রহঃ) বলেছেন, প্রথমতঃ আমার পিতা আমাকে আ'বান ইবনু তাগলিব থেকে আমাশ এর সূত্রে বর্ণনা করেছেন, পরবর্তীকালে আমি নিজেই আমাশ থেকে সরাসরি এ হাদীস শুনেছি (ইসলামিক ফাউন্ডেশনঃ ২২৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>328</td></tr><tr><td>Arabic No</td><td>124.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 235</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith is narrated by another chain of transmitters, (namely) lshaq b. Ibra
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் நான்கு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மேலும் நான்கு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>328</td></tr><tr><td>Arabic No</td><td>124.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 235</td></tr></tbody></table></div>
 

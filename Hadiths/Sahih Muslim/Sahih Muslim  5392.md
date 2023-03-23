@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আশ'আসা ইবনু আবূ শা'সা (রহঃ) হতে উল্লেখিত সূত্রে হাদীসটি বর্ণিত আছে। তিনিও (সুফইয়ান) সালামের প্রসারের কথা এবং সন্দেহ ব্যতীতই স্বর্ণের আংটির কথা বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫২১৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5392</td></tr><tr><td>Arabic No</td><td>2066.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 8</td></tr></tbody></table></div>
 

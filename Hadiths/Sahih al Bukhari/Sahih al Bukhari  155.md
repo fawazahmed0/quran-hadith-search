@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রকৃতির ডাকে সাড়া দিতে বের হলে আমি তাঁর অনুসরণ করলাম। আর তিনি এদিক-ওদিক চাইতেন না। যখন আমি তাঁর নিকটবর্তী হলাম তখন তিনি আমাকে বললেনঃ ‘আমাকে কিছু পাথর কুড়িয়ে দাও, আমি তা দিয়ে শৌচকার্য সারব’ (বর্ণনাকারী বলেন), বা এ ধরনের কোন কথা বললেন, আর আমার জন্য হাড্ডি বা গোবর আনবে না।’ তখন আমি আমার কাপড়ের কোচায় করে কয়েকটি পাথর এনে তাঁর পাশে রেখে আমি তাঁর নিকট হতে সরে গেলাম। তিনি প্রয়োজন মিটিয়ে সেগুলো কাজে লাগালেন। (৩৮৬০ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ১৫২, ইসলামিক ফাউন্ডেশনঃ ১৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রকৃতির ডাকে সাড়া দিতে বের হলে আমি তাঁর অনুসরণ করলাম। আর তিনি এদিক-ওদিক চাইতেন না। যখন আমি তাঁর নিকটবর্তী হলাম তখন তিনি আমাকে বললেনঃ ‘আমাকে কিছু পাথর কুড়িয়ে দাও, আমি তা দিয়ে শৌচকার্য সারব’ (বর্ণনাকারী বলেন), বা এ ধরনের কোন কথা বললেন, আর আমার জন্য হাড্ডি বা গোবর আনবে না।’ তখন আমি আমার কাপড়ের কোচায় করে কয়েকটি পাথর এনে তাঁর পাশে রেখে আমি তাঁর নিকট হতে সরে গেলাম। তিনি প্রয়োজন মিটিয়ে সেগুলো কাজে লাগালেন। (৩৮৬০ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ১৫২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>155</td></tr><tr><td>Arabic No</td><td>155</td></tr><tr><td>Reference</td><td>Book 4 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad Al Makki] berkata, telah menc
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இயற்கைக் கடனை நிறைவேற்றுவதற்காக வெளியே சென்றபோது, அவர்களைப் பின் தொடர்ந்து நானும் சென்றேன். அவர்கள் திரும்பிப் பார்க்காமலேயே சென்றார்கள். அவர்கள் அருகில் நான் சென்றபோது, “நான் (இயற்கைக் கடனை முடித்தபின்) சுத்தம் செய்வதற்காக எனக்குச் சில கற்களை(த் தேடி எடுத்து)வாரீர். எலும்பையோ கெட்டிச் சாணத்தையோ கொண்டு வந்துவிடாதீர்” என்று சொன்னார்கள். நான் (கற்களைப் பொறுக்கியெடுத்து) எனது ஆடையின் ஓரத்தில் போட்டுக் கொண்டுவந்து நபி (ஸல்) அவர்கள் பக்கத்தில் வைத்துவிட்டு, அங்கிருந்து திரும்பிவிட்டேன். நபி (ஸல்) அவர்கள் (இயற்கைக் கடனை முடித்துவிட்டு) அக்கற்களால் சுத்தம் செய்துகொண்டார்கள். அத்தியாயம் : 4
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இயற்கைக் கடனை நிறைவேற்றுவதற்காக வெளியே சென்றபோது, அவர்களைப் பின் தொடர்ந்து நானும் சென்றேன். அவர்கள் திரும்பிப் பார்க்காமலேயே சென்றார்கள். அவர்கள் அருகில் நான் சென்றபோது, “நான் (இயற்கைக் கடனை முடித்தபின்) சுத்தம் செய்வதற்காக எனக்குச் சில கற்களை(த் தேடி எடுத்து)வாரீர். எலும்பையோ கெட்டிச் சாணத்தையோ கொண்டு வந்துவிடாதீர்” என்று சொன்னார்கள். நான் (கற்களைப் பொறுக்கியெடுத்து) எனது ஆடையின் ஓரத்தில் போட்டுக் கொண்டுவந்து நபி (ஸல்) அவர்கள் பக்கத்தில் வைத்துவிட்டு, அங்கிருந்து திரும்பிவிட்டேன். நபி (ஸல்) அவர்கள் (இயற்கைக் கடனை முடித்துவிட்டு) அக்கற்களால் சுத்தம் செய்துகொண்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>155</td></tr><tr><td>Arabic No</td><td>155</td></tr><tr><td>Reference</td><td>Book 4 Hadith 21</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad Al Makki] berkata, telah menc
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) tuvalet ihtiyacını görmek için çıktığında onun peşinden gittim. O, sağ'a sol'a bakmıyordu. Kendisine yaklaştım. Bana: "Temizlik yapmak İçin bana taş ara. Ancak kemik ve tezek getirme" dedi. Ben elbisemin bir kenarında taşlar getirerek onun yan tarafına bıraktım, sonra geriye döndüm. Tuvalet İhtiyacını görünce o taşları kullandı. Tekrar: 3860
+Ebu Hureyre r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) tuvalet ihtiyacını görmek için çıktığında onun peşinden gittim. O, sağ'a sol'a bakmıyordu. Kendisine yaklaştım. Bana: "Temizlik yapmak İçin bana taş ara. Ancak kemik ve tezek getirme" dedi. Ben elbisemin bir kenarında taşlar getirerek onun yan tarafına bıraktım, sonra geriye döndüm. Tuvalet İhtiyacını görünce o taşları kullandı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>155</td></tr><tr><td>Arabic No</td><td>155</td></tr><tr><td>Reference</td><td>Book 4 Hadith 21</td></tr></tbody></table></div>
 

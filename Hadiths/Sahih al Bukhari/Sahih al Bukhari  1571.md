@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘ইমরান ইবনু হুসায়ন (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর যুগে হাজ্জে তামাত্তু‘ করেছি, কুরআনেও তার বিধান নাযিল হয়েছে অথচ এক ব্যক্তি তার ইচ্ছামত অভিমত ব্যক্ত করেছেন। (৪৫১৮) (আধুনিক প্রকাশনীঃ ১৪৬৮, ইসলামিক ফাউন্ডেশনঃ ১৪৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘ইমরান ইবনু হুসায়ন (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর যুগে হাজ্জে তামাত্তু‘ করেছি, কুরআনেও তার বিধান নাযিল হয়েছে অথচ এক ব্যক্তি তার ইচ্ছামত অভিমত ব্যক্ত করেছেন। (৪৫১৮) (আধুনিক প্রকাশনীঃ ১৪৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 25 Hadith 57</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இம்ரான் பின் ஹுஸைன் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் காலத்தில் ‘தமத்துஉ’ செய்தோம். குர்ஆனும் (அதை அனுமதித்தே) இறங்கியது. ஆனால், ஒரு மனிதர் (உமர் (ரலி) அவர்கள்), தாம் விரும்பியதைத் தமது சொந்தக் கருத்தாகக் கூறினார்.20 அத்தியாயம் : 25
+இம்ரான் பின் ஹுஸைன் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் காலத்தில் ‘தமத்துஉ’ செய்தோம். குர்ஆனும் (அதை அனுமதித்தே) இறங்கியது. ஆனால், ஒரு மனிதர் (உமர் (ரலி) அவர்கள்), தாம் விரும்பியதைத் தமது சொந்தக் கருத்தாகக் கூறினார்.20 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 25 Hadith 57</td></tr></tbody></table></div>
 

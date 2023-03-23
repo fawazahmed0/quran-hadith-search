@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইবরাহীম ইবন ইয়াকূব (রহঃ) ... ইমরান ইবন হুসায়ন (রাঃ) বলেন, এক ব্যক্তি মান্নত করলো যে, সে তার কাওমের মসজিদে নামায পড়তে উপস্থিত হবে না। ইমরান (রাঃ) বললেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আল্লাহর অসন্তুষ্টিতে মান্নত করা বৈধ নয়। আর এর কাফফারা হলো কসমের কাফফারা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3846</td></tr><tr><td>Arabic No</td><td>3846</td></tr><tr><td>Reference</td><td>Book 35 Hadith 86</td></tr></tbody></table></div>
 

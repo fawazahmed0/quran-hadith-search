@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৮৬৯, আন্তর্জাতিক নাম্বারঃ ২৭৫৩ ৬৮৬৯-(…/...) মুহাম্মাদ ইবনু আবদুল আ’লা (রহঃ) ..... মু’তামির এর পিতা থেকে উপরোক্ত সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৭২৩, ইসলামিক সেন্টার ৬৭৭৯)
+(…/...) মুহাম্মাদ ইবনু আবদুল আ’লা (রহঃ) ..... মু’তামির এর পিতা থেকে উপরোক্ত সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৭২৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>2753.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 24</td></tr></tbody></table></div>
 

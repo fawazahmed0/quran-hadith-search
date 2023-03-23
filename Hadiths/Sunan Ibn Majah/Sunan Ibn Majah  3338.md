@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৩৩৮। ইবনে আতা (রাঃ) থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি (আতা) বলেন, আবূ হুরায়রা (রাঃ) তার এলাকা অর্থাৎ উবাইনায় (ইউনা) যান। লোকেরা তার জন্য মিহি রুটি পরিবেশন করলে তিনি কেঁদে দিলেন এবং বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কখনও এরূপ রুটি দেখেননি।
+। ইবনে আতা (রাঃ) থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি (আতা) বলেন, আবূ হুরায়রা (রাঃ) তার এলাকা অর্থাৎ উবাইনায় (ইউনা) যান। লোকেরা তার জন্য মিহি রুটি পরিবেশন করলে তিনি কেঁদে দিলেন এবং বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কখনও এরূপ রুটি দেখেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3338</td></tr><tr><td>Arabic No</td><td>3338</td></tr><tr><td>Reference</td><td>Book 29 Hadith 88</td></tr></tbody></table></div>
 

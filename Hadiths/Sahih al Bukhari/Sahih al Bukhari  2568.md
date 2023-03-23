@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, যদি আমাকে হালাল পশুর পায়া বা হাতা খেতে ডাকা হয়, তবু তা আমি গ্রহণ করব আর যদি আমাকে পায়া বা হাতা হাদিয়া দেয়া হয়, আমি তা গ্রহণ করব। (৫১৭৮) (আধুনিক প্রকাশনীঃ ২৩৮১, ইসলামিক ফাউন্ডেশনঃ ২৩৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, যদি আমাকে হালাল পশুর পায়া বা হাতা খেতে ডাকা হয়, তবু তা আমি গ্রহণ করব আর যদি আমাকে পায়া বা হাতা হাদিয়া দেয়া হয়, আমি তা গ্রহণ করব। (৫১৭৮) (আধুনিক প্রকাশনীঃ ২৩৮১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2568</td></tr><tr><td>Arabic No</td><td>2568</td></tr><tr><td>Reference</td><td>Book 51 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஓர் ஆட்டில் (எனக்குப் பிடித்த) கணைக்கால் பகுதி, அல்லது (விலையற்ற) கணுக்காலுக்குக் கீழுள்ள பகுதி(யைச் சமைத்து விருந்து)க்கு நான் அழைக்கப் பட்டாலும் நிச்சயம் (அதை) நான் ஏற்றுக் கொள்வேன்; ஆட்டின் கணைக்கால் பகுதி, அல்லது கணுக்காலுக்குக் கீழே உள்ள பகுதி எனக்கு அன்பளிப்பாகத் தரப்பட்டாலும் நிச்சயம் நான் பெற்றுக் கொள்வேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 50
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஓர் ஆட்டில் (எனக்குப் பிடித்த) கணைக்கால் பகுதி, அல்லது (விலையற்ற) கணுக்காலுக்குக் கீழுள்ள பகுதி(யைச் சமைத்து விருந்து)க்கு நான் அழைக்கப் பட்டாலும் நிச்சயம் (அதை) நான் ஏற்றுக் கொள்வேன்; ஆட்டின் கணைக்கால் பகுதி, அல்லது கணுக்காலுக்குக் கீழே உள்ள பகுதி எனக்கு அன்பளிப்பாகத் தரப்பட்டாலும் நிச்சயம் நான் பெற்றுக் கொள்வேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2568</td></tr><tr><td>Arabic No</td><td>2568</td></tr><tr><td>Reference</td><td>Book 51 Hadith 3</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle dedi: "Paça yemeye bile davet edilsem giderim; paça da hediye edilse kabul ederim." Tekrar: 5178
+Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle dedi: "Paça yemeye bile davet edilsem giderim; paça da hediye edilse kabul ederim." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2568</td></tr><tr><td>Arabic No</td><td>2568</td></tr><tr><td>Reference</td><td>Book 51 Hadith 3</td></tr></tbody></table></div>
 

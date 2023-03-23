@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আদম সন্তানের বয়স বাড়ে আর তার সঙ্গে দু’টি জিনিসও বাড়ে; ধন-মালের প্রতি ভালবাসা আর দীর্ঘ বয়সের আশা। [মুসলিম ১২/৩৮, হাঃ ১০৪৭, আহমাদ ১২১৪৩] (আধুনিক প্রকাশনী- ৫৯৭৩, ইসলামিক ফাউন্ডেশন- ৫৯৭৯) শু‘বাহ (রহঃ) কাতাদাহ (রাঃ) হতে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6421</td></tr><tr><td>Arabic No</td><td>6421</td></tr><tr><td>Reference</td><td>Book 81 Hadith 10</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மனிதன் (வளர்ந்து) பெரியவனாக ஆக அவனுடன் இரண்டு ஆசைகளும் வளர்கின்றன: 1. பொருளாசை. 2. நீண்ட நாள் வாழ வேண்டும் என்ற ஆசை. இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 81
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மனிதன் (வளர்ந்து) பெரியவனாக ஆக அவனுடன் இரண்டு ஆசைகளும் வளர்கின்றன: 1. பொருளாசை. 2. நீண்ட நாள் வாழ வேண்டும் என்ற ஆசை. இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6421</td></tr><tr><td>Arabic No</td><td>6421</td></tr><tr><td>Reference</td><td>Book 81 Hadith 10</td></tr></tbody></table></div>
 

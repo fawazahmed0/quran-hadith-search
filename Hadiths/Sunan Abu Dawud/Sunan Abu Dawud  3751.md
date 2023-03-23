@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... মিকদাম আবূ কারীমা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কারো নিকট মেহমান হিসাবে যায় এবং সে সকাল পর্যন্ত মাহরুম থাকে, এমতাবস্থায় প্রত্যেক মুসলিমের উচিত তার সাহায্য করা। এমন কি সেই মেহমান, সে রাতের জন্য মেহমানীর হক সে কাওমের ফসল এবং মাল হতে নেওয়ার হকদার হয়ে যায়।
+। আল মিকদাম আবূ কারিমাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি কোনো সম্প্রদায়ের নিকট মেহমান হয়ে এলো, (অথচ) বঞ্চিত অবস্থায় তার সকাল হলো, তাকে সাহায্য করা প্রত্যেক মুসলিমের কর্তব্য। তাদের খাদ্য ও মাল থেকে সে তার রাতের মেহমানদারীর পরিমাণ আদায় করে নিতে পারে।[1] দুর্বলঃ মিশকাত (৪২৪৭)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3751</td></tr><tr><td>Arabic No</td><td>3751</td></tr><tr><td>Reference</td><td>Book 28 Hadith 16</td></tr></tbody></table></div>
 

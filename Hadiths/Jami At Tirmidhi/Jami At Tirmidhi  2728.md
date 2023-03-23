@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭২৮। আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত, তিনি বলেন, কোন একসময় জনৈক ব্যক্তি প্রশ্ন করল, হে আল্লাহর রাসূল! আমাদের কোন ব্যক্তি তার ভাই কিংবা বন্ধুর সাথে দেখা করলে সে কি তার সামনে ঝুঁকে (নত) যাবে? তিনি বললেনঃ না। সে আবার প্রশ্ন করল, তাহলে কি সে গলাগলি করে তাকে চুমু খাবে? তিনি বললেনঃ না। সে এবার বলল, তাহলে সে তার হাত ধরে মুসাফাহা (করমর্দন) করবে? তিনি বললেনঃ হ্যাঁ। হাসানঃ ইবনু মা-জাহ (৩৭০২)। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
+। আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত, তিনি বলেন, কোন একসময় জনৈক ব্যক্তি প্রশ্ন করল, হে আল্লাহর রাসূল! আমাদের কোন ব্যক্তি তার ভাই কিংবা বন্ধুর সাথে দেখা করলে সে কি তার সামনে ঝুঁকে (নত) যাবে? তিনি বললেনঃ না। সে আবার প্রশ্ন করল, তাহলে কি সে গলাগলি করে তাকে চুমু খাবে? তিনি বললেনঃ না। সে এবার বলল, তাহলে সে তার হাত ধরে মুসাফাহা (করমর্দন) করবে? তিনি বললেনঃ হ্যাঁ। হাসানঃ ইবনু মা-জাহ (৩৭০২)। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2728</td></tr><tr><td>Arabic No</td><td>2728</td></tr><tr><td>Reference</td><td>Book 42 Hadith 41</td></tr></tbody></table></div>
 

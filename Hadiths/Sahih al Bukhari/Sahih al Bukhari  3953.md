@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, বদরের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছিলেন, হে আল্লাহ্! আমি আপনার প্রতিশ্রুতি ও অঙ্গীকার পূরণ করার জন্য প্রার্থনা করছি। হে আল্লাহ্! আপনি যদি চান (কাফিররা জয়লাভ করুক) তাহলে আপনার ‘ইবাদাত আর হবে না। আবূ বাকর (রাঃ) তাঁর হাত ধরে বললেন, যথেষ্ট হয়েছে। তখন রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ আয়াত পড়তে পড়তে বের হলেনঃ ‘‘শীঘ্রই দুশমনরা পরাজিত হবে এবং পৃষ্ঠ প্রদর্শন করবে’’- (সূরাহ ক্বামার ৫৪/৪৫)। [২৯১৫] (আধুনিক প্রকাশনীঃ ৩৬৬২, ইসলামিক ফাউন্ডেশনঃ ৩৬৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, বদরের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছিলেন, হে আল্লাহ্! আমি আপনার প্রতিশ্রুতি ও অঙ্গীকার পূরণ করার জন্য প্রার্থনা করছি। হে আল্লাহ্! আপনি যদি চান (কাফিররা জয়লাভ করুক) তাহলে আপনার ‘ইবাদাত আর হবে না। আবূ বাকর (রাঃ) তাঁর হাত ধরে বললেন, যথেষ্ট হয়েছে। তখন রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ আয়াত পড়তে পড়তে বের হলেনঃ ‘‘শীঘ্রই দুশমনরা পরাজিত হবে এবং পৃষ্ঠ প্রদর্শন করবে’’- (সূরাহ ক্বামার ৫৪/৪৫)। [২৯১৫] (আধুনিক প্রকাশনীঃ ৩৬৬২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3953</td></tr><tr><td>Arabic No</td><td>3953</td></tr><tr><td>Reference</td><td>Book 64 Hadith 5</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:On the day of the battle of Badr, the Prophet (ﷺ) said, "O Allah! I appeal to You (to fulfill) Your Covenant and Promise. O Allah! If Your Will is that none should worship You (then give victory to the pagans)." Then Abu Bakr took hold of him by the hand and said, "This is sufficient for you." The Prophet came out saying, "Their multitude will be put to flight and they will show their backs." (54.45)
+Narrated Ibn 'Abbas:On the day of the battle of Badr, the Prophet (ﷺ) said, "O Allah! I appeal to You (to fulfill) Your Covenant and Promise. O Allah! If Your Will is that none should worship You (then give victory to the pagans)." Then Abu Bakr took hold of him by the hand and said, "This is sufficient for you." The Prophet came out saying, "Their multitude will be put to flight and they will show their backs
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3953</td></tr><tr><td>Arabic No</td><td>3953</td></tr><tr><td>Reference</td><td>Book 64 Hadith 5</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ibn 'Abbas:On the day of the battle of Badr, the Prophet (ﷺ) said, "O
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Muhammad bin 'Ubaidullah bin Hawsyab] telah menceritakan kepada kami ['Abdul Wahhab] telah menceritakan kepada kami [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas] berkata; Nabi shallallahu 'alaihi wasallam berdo'a pada perang Badar: "Ya Allah, aku meminta jaminan dan janji-Mu. Ya Allah, jika Engkau mau Engkau tidak akan diibadahi". Maka Abu Bakr memegang (pundak) beliau seraya berkata; "Cukuplah". Maka beliau keluar lalu bersabda (membaca ayat): "Golongan itu pasti akan dikalahkan dan akan mundur ke belakang". (QS al-Qamar ayat 45)
+Telah menceritakan kepadaku [Muhammad bin 'Ubaidullah bin Hawsyab] telah menceritakan kepada kami ['Abdul Wahhab] telah menceritakan kepada kami [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas] berkata; Nabi shallallahu 'alaihi wasallam berdo'a pada perang Badar: "Ya Allah, aku meminta jaminan dan janji-Mu. Ya Allah, jika Engkau mau Engkau tidak akan diibadahi". Maka Abu Bakr memegang (pundak) beliau seraya berkata; "Cukuplah". Maka beliau keluar lalu bersabda (membaca ayat): "Golongan itu pasti akan dikalahkan dan akan mundur ke belakang". (QS al-Qamar ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3953</td></tr><tr><td>Arabic No</td><td>3953</td></tr><tr><td>Reference</td><td>Book 64 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin 'Ubaidullah bin Hawsyab] telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: பத்ருடைய தினத்தன்று (மிகக் குறைந்த எண்ணிக்கை கொண்ட தமது படையினரையும் மிகப் பெருந் தொகையினரான எதிரிகளையும் கண்ட) நபி (ஸல்) அவர்கள், “இறைவா! (இறைமறுப்பாளர்களுக்கெதிராக எங்களுக்கு வெற்றியளிப்பதாக நீ அளித்த) உனது உறுதிமொழியையும் வாக்குறுதியையும் (நிறைவேற்றித் தரும்படி) நான் கோருகிறேன். (இறைவா! இந்த இறைநம்பிக்கையாளர்களை அழிக்க) நீ நினைத்தால், உன்னை (மட்டுமே) வழிபடுவோர் (இப்புவியில்) இல்லாமல்போய்விடுவர்” என்று கூறினார்கள். அப்போது அபூபக்ர் (ரலி) அவர்கள் நபி (ஸல்) அவர்களின் கரத்தைப் பற்றிக்கொண்டு, “போதும் (அல்லாஹ்வின் தூதரே!)” என்று சொன்னார்கள். அப்போது நபி (ஸல்) அவர்கள் (தாம் தங்கியிருந்த கூடாரத்திலிருந்து) “விரைவில் அந்தப் படையினர் தோற்கடிக்கப்படுவர். அவர்கள் புறமுதுகிட்டு ஓடுவர்” என்று (54:45ஆவது குர்ஆன் வசன வாசகத்தைக்) கூறிக்கொண்டே வெளியேறி வந்தார்கள். அத்தியாயம் : 64
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: பத்ருடைய தினத்தன்று (மிகக் குறைந்த எண்ணிக்கை கொண்ட தமது படையினரையும் மிகப் பெருந் தொகையினரான எதிரிகளையும் கண்ட) நபி (ஸல்) அவர்கள், “இறைவா! (இறைமறுப்பாளர்களுக்கெதிராக எங்களுக்கு வெற்றியளிப்பதாக நீ அளித்த) உனது உறுதிமொழியையும் வாக்குறுதியையும் (நிறைவேற்றித் தரும்படி) நான் கோருகிறேன். (இறைவா! இந்த இறைநம்பிக்கையாளர்களை அழிக்க) நீ நினைத்தால், உன்னை (மட்டுமே) வழிபடுவோர் (இப்புவியில்) இல்லாமல்போய்விடுவர்” என்று கூறினார்கள். அப்போது அபூபக்ர் (ரலி) அவர்கள் நபி (ஸல்) அவர்களின் கரத்தைப் பற்றிக்கொண்டு, “போதும் (அல்லாஹ்வின் தூதரே!)” என்று சொன்னார்கள். அப்போது நபி (ஸல்) அவர்கள் (தாம் தங்கியிருந்த கூடாரத்திலிருந்து) “விரைவில் அந்தப் படையினர் தோற்கடிக்கப்படுவர். அவர்கள் புறமுதுகிட்டு ஓடுவர்” என்று (54:45ஆவது குர்ஆன் வசன வாசகத்தைக்) கூறிக்கொண்டே வெளியேறி வந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3953</td></tr><tr><td>Arabic No</td><td>3953</td></tr><tr><td>Reference</td><td>Book 64 Hadith 5</td></tr></tbody></table></div>
 

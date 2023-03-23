@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন বাক্কার আল আয়শী .... উম্মে হারাম (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন যে, তিনি বলেছেনঃ রণতরিতে সমুদ্র-বক্ষে যে সৈনিকের মাথা ঘুরে বমি হয়, সে একজন শহীদের সওয়াব পায়, আর যে পানিতে ডুবে মারা যায়, সে দু‘জন শহীদের সওয়াব পায়।
+। উম্মু হারাম (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সমুদ্রে সফরকারী সৈনিকের নৌযানের ঝাঁকুনিতে বমি হলে তার জন্য একজন শহীদের সাওয়াব রয়েছে এবং সমুদ্রে ডুবে যাওয়া ব্যক্তির জন্য রয়েছে দু’জন শহীদের সাওয়াব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2493</td></tr><tr><td>Arabic No</td><td>2493</td></tr><tr><td>Reference</td><td>Book 15 Hadith 17</td></tr></tbody></table></div>
 

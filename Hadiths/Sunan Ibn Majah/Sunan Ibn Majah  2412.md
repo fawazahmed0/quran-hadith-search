@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৪১২। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মুক্তদাস সাওবান (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তিনটি দোষ থেকে মুক্ত অবস্থায় যার দেহ থেকে তার প্রাণবায়ু বের হয়েছে সে জান্নাতে প্রবেশ করবেঃ অহংকার, আত্মসাৎ ও ঋণ।
+। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মুক্তদাস সাওবান (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তিনটি দোষ থেকে মুক্ত অবস্থায় যার দেহ থেকে তার প্রাণবায়ু বের হয়েছে সে জান্নাতে প্রবেশ করবেঃ অহংকার, আত্মসাৎ ও ঋণ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2412</td></tr><tr><td>Arabic No</td><td>2412</td></tr><tr><td>Reference</td><td>Book 15 Hadith 23</td></tr></tbody></table></div>
 

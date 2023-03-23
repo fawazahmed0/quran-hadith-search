@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, বন্দীদেরকে মুক্তি দাও, দাওয়াত কবূল কর এবং রোগীদের সেবা কর। [৩০৪৬] (আধুনিক প্রকাশনী- ৪৭৯৩, ইসলামিক ফাউন্ডেশন- ৪৭৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, বন্দীদেরকে মুক্তি দাও, দাওয়াত কবূল কর এবং রোগীদের সেবা কর। [৩০৪৬] (আধুনিক প্রকাশনী- ৪৭৯৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5174</td></tr><tr><td>Arabic No</td><td>5174</td></tr><tr><td>Reference</td><td>Book 67 Hadith 109</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘(போர்க்) கைதியை (எதிரியிடமிருந்து) விடுவியுங்கள்; (மணவிருந்து வலீமா முதலியவற்றுக்காக) அழைத்தவருக்கு (அவரது அழைப்பை ஏற்று) பதிலளியுங்கள்; நோயாளியை நலம் விசாரியுங்கள்” என்று கூறினார்கள்.111 அத்தியாயம் : 67
+அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘(போர்க்) கைதியை (எதிரியிடமிருந்து) விடுவியுங்கள்; (மணவிருந்து வலீமா முதலியவற்றுக்காக) அழைத்தவருக்கு (அவரது அழைப்பை ஏற்று) பதிலளியுங்கள்; நோயாளியை நலம் விசாரியுங்கள்” என்று கூறினார்கள்.111 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5174</td></tr><tr><td>Arabic No</td><td>5174</td></tr><tr><td>Reference</td><td>Book 67 Hadith 109</td></tr></tbody></table></div>
 

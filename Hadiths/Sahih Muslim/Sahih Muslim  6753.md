@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৬৪৬, আন্তর্জাতিক নাম্বারঃ ২৬৫৭ ৬৬৪৬-(২০/২৬৫৭) ইসহাক ইবনু ইব্রাহীম ও আবদ ইবনু হুমায়দ (রহঃ) ..... আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আবু হুরাইরাহ (রাযিঃ) যা বলেছেন ‘লামাম (আকর্ষণীয় বড় গুনাহ) বিষয়ে তার চেয়ে অধিক সাদৃশ্যপূর্ণ কোন বিষয় আমি দেখিনি। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা’আলা আদম সন্তানের উপর ব্যভিচারের যে ভাগ লিখেছেন, নিঃসন্দেহে তা সে পাবে। দু’চোখের ব্যভিচার দেখা, যবানের ব্যভিচার, পরস্পর কথোপকথনের ব্যভিচার, মনের ব্যভিচার কামনা-বাসনা করা। আর লজ্জাস্থান তা সত্যায়িত করে অথবা মিথ্যা সাব্যস্ত করে। আবদ (রহঃ) তাউস এর বর্ণনায় বলেছেন যে, তিনি ইবনু আব্বাস (রাযিঃ) হতে শুনেছেন। (ইসলামিক ফাউন্ডেশন ৬৫১২, ইসলামিক সেন্টার ৬৫৬৩)
+আবূ বাকর ইবনু আবু শাইবাহ ও আবু কুরায়ব (রহঃ) ...... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, কুরায়শ গোত্রের মুশরিকরা ভাগ্যলিপির ব্যাপারে বিবাদ করতে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আগমন করলো। তারপর এ আয়াত নাযিল হলো- "যেদিন তাদের কে নিম্নমুখী করে জাহান্নামে টেনে আনা হবে এবং (বলা হবে) জাহান্নামের আগুনের ছোয়া আস্বাদন করো। নিশ্চয়ই আমি সকল বিষয়বস্তু পরিমিত পরিমাণে সৃষ্টি করেছি।" (ইসলামিক ফাউন্ডেশন ৬৫১১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6753</td></tr><tr><td>Arabic No</td><td>2657.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 31</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abu Huraira reported that the polytheists of the Quraish came to have an argument with Allah's Messenger (ﷺ) in regard to Destiny and then this verse was revealed:" On the day when they are dragged into the Fire upon their faces, taste the touch of Fire. Surely, We have created everything according to a measure" (liv. 48)
+Abu Huraira reported that the polytheists of the Quraish came to have an argument with Allah's Messenger (ﷺ) in regard to Destiny and then this verse was revealed:" On the day when they are dragged into the Fire upon their faces, taste the touch of Fire. Surely, We have created everything according to a measure" (liv)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6753</td></tr><tr><td>Arabic No</td><td>2657.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 31</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abd bin Humaid] dan laf
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: விபசாரத்தில் ஆதமின் மக(ன் மனித)னுக்குள்ள பங்கை இறைவன் எழுதியுள்ளான். அதை அவன் அடைந்தே தீருவான். (மனிதனின் கண்ணும் நாவும்கூட விபசாரம் செய்கின்றன.) கண்ணின் விபசாரம் (தவறான) பார்வையாகும். நாவின் விபசாரம் (ஆபாசமான) பேச்சாகும். மனம் ஏங்குகிறது; இச்சை கொள்கிறது. மர்ம உறுப்பு இவை அனைத்தையும் உண்மையாக்குகிறது; அல்லது பொய்யாக்குகிறது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இதன் அறிவிப்பாளரான இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறுகிறார்கள்: நபி (ஸல்) அவர்களிடமிருந்து அபூஹுரைரா (ரலி) அவர்கள் அறிவித்துள்ள இந்த ஹதீஸை விடச் சிறு பாவங்களுக்கு எடுத்துக்காட்டாக வேறெதையும் நான் காணவில்லை. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 46
+நபி (ஸல்) அவர்கள் கூறினார்கள்: விபசாரத்தில் ஆதமின் மக(ன் மனித)னுக்குள்ள பங்கை இறைவன் எழுதியுள்ளான். அதை அவன் அடைந்தே தீருவான். (மனிதனின் கண்ணும் நாவும்கூட விபசாரம் செய்கின்றன.) கண்ணின் விபசாரம் (தவறான) பார்வையாகும். நாவின் விபசாரம் (ஆபாசமான) பேச்சாகும். மனம் ஏங்குகிறது; இச்சை கொள்கிறது. மர்ம உறுப்பு இவை அனைத்தையும் உண்மையாக்குகிறது; அல்லது பொய்யாக்குகிறது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இதன் அறிவிப்பாளரான இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறுகிறார்கள்: நபி (ஸல்) அவர்களிடமிருந்து அபூஹுரைரா (ரலி) அவர்கள் அறிவித்துள்ள இந்த ஹதீஸை விடச் சிறு பாவங்களுக்கு எடுத்துக்காட்டாக வேறெதையும் நான் காணவில்லை. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6753</td></tr><tr><td>Arabic No</td><td>2657.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 31</td></tr></tbody></table></div>
 

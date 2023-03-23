@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০৫২। ইবনু মাসউদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, মিরাজের রাত প্রসঙ্গে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, এই রাতে ফিরিশতাদের যে দলের সম্মুখ দিয়েই তিনি যাচ্ছিলেন তারা বলেছেন, “আপনার উম্মাতকে রক্তক্ষরণের নির্দেশ দিন”। সহীহ, ইবনু মা-জাহ (৩৪৭৭)। আবূ ঈসা বলেন, এ হাদীসটি হাসান ও ইবনু মাসউদ (রাঃ)-এর রিওয়ায়াত হিসাবে গারীব।
+। ইবনু মাসউদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, মিরাজের রাত প্রসঙ্গে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, এই রাতে ফিরিশতাদের যে দলের সম্মুখ দিয়েই তিনি যাচ্ছিলেন তারা বলেছেন, “আপনার উম্মাতকে রক্তক্ষরণের নির্দেশ দিন”। সহীহ, ইবনু মা-জাহ (৩৪৭৭)। আবূ ঈসা বলেন, এ হাদীসটি হাসান ও ইবনু মাসউদ (রাঃ)-এর রিওয়ায়াত হিসাবে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2052</td></tr><tr><td>Arabic No</td><td>2052</td></tr><tr><td>Reference</td><td>Book 28 Hadith 17</td></tr></tbody></table></div>
 

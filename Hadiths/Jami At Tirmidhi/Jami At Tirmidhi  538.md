@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৩৮। ইবনু উমার (রাঃ) হতেও বর্ণিত আছে, তিনি এক ঈদের দিন নামায আদায় করতে বের হলেন। তিনি এর পূর্বেও কোন (নফল) নামায আদায় করেননি এবং পরেও আদায় করেননি। তিনি বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমনটিই করেছেন। —হাসান সহীহ। ইরওয়া— (৩/৯৯)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
+। ইবনু উমার (রাঃ) হতেও বর্ণিত আছে, তিনি এক ঈদের দিন নামায আদায় করতে বের হলেন। তিনি এর পূর্বেও কোন (নফল) নামায আদায় করেননি এবং পরেও আদায় করেননি। তিনি বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমনটিই করেছেন। —হাসান সহীহ। ইরওয়া— (৩/৯৯)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>538</td></tr><tr><td>Arabic No</td><td>538</td></tr><tr><td>Reference</td><td>Book 5 Hadith 9</td></tr></tbody></table></div>
 

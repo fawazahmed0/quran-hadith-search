@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা আশ্‘আরী (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আল্লাহর সাক্ষাত ভালবাসে, আল্লাহ্ও তার সাক্ষাত ভালবাসেন। আর যে ব্যক্তি আল্লাহর সাক্ষাত ভালবাসে না, আল্লাহ্ও তার সাক্ষাত ভালবাসেন না। [মুসলিম ৪৮/৬, হাঃ ২৬৮৬] (আধুনিক প্রকাশনী- ৬০৫৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6508</td></tr><tr><td>Arabic No</td><td>6508</td></tr><tr><td>Reference</td><td>Book 81 Hadith 97</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Al 'Ala'] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: எவர் அல்லாஹ்வை தரிசிக்க விரும்புகின்றாரோ அவரைச் சந்திக்க அல்லாஹ்வும் விரும்புகின்றான். எவர் அல்லாஹ்வை தரிசிப்பதை வெறுக்கின்றாரோ அவரைச் சந்திப்பதை அல்லாஹ்வும் வெறுக்கின்றான். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 82
+நபி (ஸல்) அவர்கள் கூறினார்கள்: எவர் அல்லாஹ்வை தரிசிக்க விரும்புகின்றாரோ அவரைச் சந்திக்க அல்லாஹ்வும் விரும்புகின்றான். எவர் அல்லாஹ்வை தரிசிப்பதை வெறுக்கின்றாரோ அவரைச் சந்திப்பதை அல்லாஹ்வும் வெறுக்கின்றான். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6508</td></tr><tr><td>Arabic No</td><td>6508</td></tr><tr><td>Reference</td><td>Book 81 Hadith 97</td></tr></tbody></table></div>
 

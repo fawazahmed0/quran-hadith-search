@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি চায় যে, তার রিযক প্রশস্ত হোক এবং আয়ু বর্ধিত হোক, সে যেন তার আত্মীয়তার বন্ধন অক্ষুণ্ণ রাখে। [২০৬৭] (আধুনিক প্রকাশনী- ৫৫৫১, ইসলামিক ফাউন্ডেশন- ৫৪৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি চায় যে, তার রিযক প্রশস্ত হোক এবং আয়ু বর্ধিত হোক, সে যেন তার আত্মীয়তার বন্ধন অক্ষুণ্ণ রাখে। [২০৬৭] (আধুনিক প্রকাশনী- ৫৫৫১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5986</td></tr><tr><td>Arabic No</td><td>5986</td></tr><tr><td>Reference</td><td>Book 78 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தமது வாழ்வாதாரம் (ரிஸ்க்) விசாலமாக்கப்படுவதையும் வாழ்நாள் நீட்டிக்கப்படுவதையும் யார் விரும்புகின் றாரோ அவர் தமது உறவைப் பேணி வாழட்டும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தமது வாழ்வாதாரம் (ரிஸ்க்) விசாலமாக்கப்படுவதையும் வாழ்நாள் நீட்டிக்கப்படுவதையும் யார் விரும்புகின் றாரோ அவர் தமது உறவைப் பேணி வாழட்டும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5986</td></tr><tr><td>Arabic No</td><td>5986</td></tr><tr><td>Reference</td><td>Book 78 Hadith 17</td></tr></tbody></table></div>
 

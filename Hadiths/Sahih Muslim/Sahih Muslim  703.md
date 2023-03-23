@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯০, আন্তর্জাতিক নাম্বারঃ ৩০৬ ৫৯০-(২৪/...) মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে বর্ণিত। উমর (রাযিঃ) একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে ফাতাওয়া জিজ্ঞেস করলেন যে, আমাদের কেউ কি নাপাক অবস্থায় ঘুমাতে পারবে? তিনি বললেন, হ্যাঁ, সে যেন ওযু করে তারপর ঘুমায়। এরপর যখন ইচ্ছা গোসল করে নেয়। (ইসলামিক ফাউন্ডেশনঃ ৫৯৪, ইসলামিক সেন্টারঃ ৬১০)
+মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে বর্ণিত। উমর (রাযিঃ) একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে ফাতাওয়া জিজ্ঞেস করলেন যে, আমাদের কেউ কি নাপাক অবস্থায় ঘুমাতে পারবে? তিনি বললেন, হ্যাঁ, সে যেন ওযু করে তারপর ঘুমায়। এরপর যখন ইচ্ছা গোসল করে নেয়। (ইসলামিক ফাউন্ডেশনঃ ৫৯৪, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>703</td></tr><tr><td>Arabic No</td><td>306.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 25</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. Rafi'de rivayet etti. (Dediki): Bize Abdurrezzak, İbni Cüreyc'den rivayet etti. (Demiş ki) : Bana Nafi', İbni Ömer'den naklen haber verdi ki: (babası): Ömer, Nebi (Sallallahu aleyhi ve Sellem)'den fetva sorarak: Bizden bir kişi cünüp olduğu halde uyuyabilir mi, dedi. Allah Resulü: "Evet (ama önce) abdest alsın, sonra -dilerse- gusledinceye kadar uyusun" buyurdu. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-fşraf, 7781
+Bize Muhammed b. Rafi'de rivayet etti. (Dediki): Bize Abdurrezzak, İbni Cüreyc'den rivayet etti. (Demiş ki) : Bana Nafi', İbni Ömer'den naklen haber verdi ki: (babası): Ömer, Nebi (Sallallahu aleyhi ve Sellem)'den fetva sorarak: Bizden bir kişi cünüp olduğu halde uyuyabilir mi, dedi. Allah Resulü: "Evet (ama önce) abdest alsın, sonra -dilerse- gusledinceye kadar uyusun" buyurdu. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-fşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>703</td></tr><tr><td>Arabic No</td><td>306.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 25</td></tr></tbody></table></div>
 

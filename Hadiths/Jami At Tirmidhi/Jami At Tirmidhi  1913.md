@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৯১৩। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তার মেয়ে সন্তানদের জন্য কোনরকম পরীক্ষার সম্মুখীন হয় (বিপদগ্ৰস্ত হয়), সে তাদের ব্যাপারে ধৈর্য ধরলে তার জন্য তারা জাহান্নাম হতে আবরণ (প্রতিবন্ধক) হবে। সহীহ, বুখারী, মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
+। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তার মেয়ে সন্তানদের জন্য কোনরকম পরীক্ষার সম্মুখীন হয় (বিপদগ্ৰস্ত হয়), সে তাদের ব্যাপারে ধৈর্য ধরলে তার জন্য তারা জাহান্নাম হতে আবরণ (প্রতিবন্ধক) হবে। সহীহ, বুখারী, মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1913</td></tr><tr><td>Arabic No</td><td>1913</td></tr><tr><td>Reference</td><td>Book 27 Hadith 19</td></tr></tbody></table></div>
 

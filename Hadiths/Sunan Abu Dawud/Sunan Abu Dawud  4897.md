@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদু আ'লা (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা এক ব্যক্তি আবূ বকর (রাঃ)-কে গালি-গালাজ করতে থাকে ...। এরপর উপরোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। এক ব্যক্তি আবূ বাকর (রাঃ)-কে গালি দিচ্ছিল ... অতঃপর পূর্বোক্ত হাদীসের অনুরূপ।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4897</td></tr><tr><td>Arabic No</td><td>4897</td></tr><tr><td>Reference</td><td>Book 43 Hadith 125</td></tr></tbody></table></div>
 

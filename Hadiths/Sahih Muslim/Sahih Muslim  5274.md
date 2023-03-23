@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫১৬৯, আন্তর্জাতিক নাম্বারঃ ২০২৪ ৫১৬৯-(১১২/২০২৪) হাদ্দাব ইবনু খালিদ (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে পান করা হতে শাসন করেছেন। (ইসলামিক ফাউন্ডেশন ৫১০২, ইসলামিক সেন্টার ৫১১৩)
+হাদ্দাব ইবনু খালিদ (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে পান করা হতে শাসন করেছেন। (ইসলামিক ফাউন্ডেশন ৫১০২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>2024.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
 

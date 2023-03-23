@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সুওয়ায়দ (রহঃ) ... আব্দুর রহমান ইবন আবযা (রহঃ) তাঁর পিতার সূত্রে বর্ণনা করেন। তিনি বলেন, আমি উবাই ইবন কা'ব (রাঃ)-কে নবীযের ব্যাপারে প্রশ্ন করলে, তিনি বললেনঃ পানি পান কর, মধু, ছাতু এবং দুধ পান কর, যা পান করে তুমি ছোট থেকে বড় হয়েছ— আমি আবার জিজ্ঞাসা করলে, তিনি বললেনঃ তুমি মদ পান করতে চাও? মদ পান করতে চাও?
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5754</td></tr><tr><td>Arabic No</td><td>5754</td></tr><tr><td>Reference</td><td>Book 51 Hadith 216</td></tr></tbody></table></div>
 

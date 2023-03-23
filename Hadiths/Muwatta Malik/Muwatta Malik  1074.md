@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১. মালিক (রহঃ) বলেনঃ মু'আবিয়া ইবন আবী সুফিয়ান যায়দ ইবন সাবিত (রহঃ)-কে দাদার মীরাস সম্বন্ধে প্রশ্ন করিয়া লিখিয়াছিলেন। যায়েদ উত্তরে লিখিলেন, তুমি দাদার মীরাস সম্বন্ধে জিজ্ঞাসা করিয়াছ, ইহা এমন একটি মাসআলা সেই সম্বন্ধে দুই খলীফা [উমর, উসমান (রাঃ)] ফয়সালা করার সময় আমি স্বয়ং ইহাতে উপস্থিত ছিলাম। মৃতের এক ভাই থাকিলে দাদাকে অর্ধেক অংশ দিতেন এবং দুই ভাই থাকিলে দাদার এক-তৃতীয়াংশ এবং অনেক ভাই-বোন থাকিলেও ঐ এক-তৃতীয়াংশই দাদাকে দিতেন, উহা হইতে কম দিতেন না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1074</td></tr><tr><td>Arabic No</td><td>1074</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজ গৃহে অবস্থানকারিণী কুমারী মেয়ের চেয়েও অধিক লজ্জাশীল ছিলেন। [৩৫৬২] (আধুনিক প্রকাশনী- ৫৬৭৯, ইসলামিক ফাউন্ডেশন- ৫৫৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজ গৃহে অবস্থানকারিণী কুমারী মেয়ের চেয়েও অধিক লজ্জাশীল ছিলেন। [৩৫৬২] (আধুনিক প্রকাশনী- ৫৬৭৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6119</td></tr><tr><td>Arabic No</td><td>6119</td></tr><tr><td>Reference</td><td>Book 78 Hadith 146</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Sa'id:The Prophet (ﷺ) was more shy (from Haya': pious shyness from committing religeous indiscretions) than a veiled virgin girl. (See Hadith No. 762, Vol. 4)
+Narrated Abu Sa'id:The Prophet (ﷺ) was more shy (from Haya': pious shyness from committing religeous indiscretions) than a veiled virgin girl. (See Hadith No. 762, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6119</td></tr><tr><td>Arabic No</td><td>6119</td></tr><tr><td>Reference</td><td>Book 78 Hadith 146</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Al Ja'ad] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் திரைக்குள் இருக்கும் கன்னிப் பெண்ணைவிடவும் அதிகக் கூச்ச சுபாவம் உள்ளவர்களாய் இருந்தார்கள்.134 இதை அப்துல்லாஹ் பின் அபீஉத்பா (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் திரைக்குள் இருக்கும் கன்னிப் பெண்ணைவிடவும் அதிகக் கூச்ச சுபாவம் உள்ளவர்களாய் இருந்தார்கள்.134 இதை அப்துல்லாஹ் பின் அபீஉத்பா (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6119</td></tr><tr><td>Arabic No</td><td>6119</td></tr><tr><td>Reference</td><td>Book 78 Hadith 146</td></tr></tbody></table></div>
 

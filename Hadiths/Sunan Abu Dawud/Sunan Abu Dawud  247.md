@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা .... আবদুল্লাহ ইবনু উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, প্রথমাবস্থায় নামায পঞ্চাশ ওয়াক্ত ফরজ ছিল এবং অপবিত্রতার গোসল সাতবার ও পেশাবযুক্ত কাপড়াদি সাতবার ধৌত করতে হত। অতঃপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এই সংখ্যা কমানোর জন্য আল্লাহর নিকট দুআ করতে থাকেন। অবশেযে পাঁচ ওয়াক্তের নামায ফরজ করা হয় এবং অপবিত্রতার গোসল একবার ও পেশাবযুক্ত কাপড় একবার ধৌত করার নির্দোশ দেয়া হয়।
+। ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, প্রথমে পঞ্চাশ ওয়াক্ত সালাত ফরয ছিল এবং জানাবাতের গোসল করতে হতো সাতবার, কাপড়ে পেশাব লেগে গেলে তাও সাতবার ধুতে হতো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (এর সংখ্যা কমানোর জন্য) অবিরাম দু‘আ করতে থাকেন। অতঃপর দৈনিক পাঁচ ওয়াক্ত সালাত ফরয করা হলো, জানাবাতের গোসল একবার এবং কাপড়ে পেশাব লেগে গেলে তা ধুতে নির্দেশ করা হলো একবার।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>247</td></tr><tr><td>Arabic No</td><td>247</td></tr><tr><td>Reference</td><td>Book 1 Hadith 247</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২১৩৯, আন্তর্জাতিক নাম্বারঃ ৯৭১ ২১৩৯-(.../...) কুতায়বাহ ইবনু সাঈদ, আমর আন নাকিদ (রহঃ) ..... উভয়েই সুহায়ল (রহঃ) থেকে একই সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ২১১৮, ইসলামীক সেন্টার ২১২১)
+কুতায়বাহ ইবনু সাঈদ, আমর আন নাকিদ (রহঃ) ..... উভয়েই সুহায়ল (রহঃ) থেকে একই সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ২১১৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2249</td></tr><tr><td>Arabic No</td><td>971.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 125</td></tr></tbody></table></div>
 

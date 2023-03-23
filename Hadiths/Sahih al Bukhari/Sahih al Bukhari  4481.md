@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘উমার (রাঃ) বলেন, উবাই (রাঃ) আমাদের মধ্যে শ্রেষ্ঠতম ক্বারী, আর ‘আলী (রাঃ) আমাদের মধ্যে শ্রেষ্ঠতম বিচারক। কিন্তু আমরা উবাই (রাঃ)-এর কিছু কথা বাদ দেই। কারণ উবাই (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে যা শুনেছি তার কিছুই ছাড়ব না। অথচ আল্লাহ তা‘আলা বলেন, আমি যে আয়াত রহিত করি অথবা ভুলিয়ে দেই ........ (সূরাহ আল-বাকারাহ ২/১০৬)। [৫০০৫] (আধুনিক প্রকাশনীঃ ৪১২৩, ইসলামিক ফাউন্ডেশনঃ ৪১২৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘উমার (রাঃ) বলেন, উবাই (রাঃ) আমাদের মধ্যে শ্রেষ্ঠতম ক্বারী, আর ‘আলী (রাঃ) আমাদের মধ্যে শ্রেষ্ঠতম বিচারক। কিন্তু আমরা উবাই (রাঃ)-এর কিছু কথা বাদ দেই। কারণ উবাই (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে যা শুনেছি তার কিছুই ছাড়ব না। অথচ আল্লাহ তা‘আলা বলেন, আমি যে আয়াত রহিত করি অথবা ভুলিয়ে দেই ........ (সূরাহ আল-বাকারাহ ২/১০৬)। [৫০০৫] (আধুনিক প্রকাশনীঃ ৪১২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4481</td></tr><tr><td>Arabic No</td><td>4481</td></tr><tr><td>Reference</td><td>Book 65 Hadith 8</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:'Umar said, "Our best Qur'an reciter is Ubai and our best judge is 'Ali; and in spite of this, we leave some of the statements of Ubai because Ubai says, 'I do not leave anything that I have heard from Allah's Messenger (ﷺ) while Allah: "Whatever verse (Revelations) do We abrogate or cause to be forgotten but We bring a better one or similar to it." (2.106)
+Narrated Ibn 'Abbas:'Umar said, "Our best Qur'an reciter is Ubai and our best judge is 'Ali; and in spite of this, we leave some of the statements of Ubai because Ubai says, 'I do not leave anything that I have heard from Allah's Messenger (ﷺ) while Allah: "Whatever verse (Revelations) do We abrogate or cause to be forgotten but We bring a better one or similar to it
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4481</td></tr><tr><td>Arabic No</td><td>4481</td></tr><tr><td>Reference</td><td>Book 65 Hadith 8</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ibn 'Abbas:'Umar said, "Our best Qur'an reciter is Ubai and our best ju
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Amru bin 'Ali] Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Sufyan] dari [Habib] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] dia berkata; ['Umar radliallahu 'anhu] berkata; "Ubay adalah orang yang paling pandai dalam membaca Al Qur'an di antara kami, dan Ali adalah orang yang paling paham dengan hukum di antara kami. Sementara kami banyak meninggalkan qira'ah Ubay (dalam membaca Al Qur'an). Karena [Ubay] pernah berkata, "Aku tidak akan meninggalkan sesuatu yang telah aku dengar dari Rasulullah. Sementara Allah Tabaraka Wa Ta'ala berfirman: '(Ayat mana saja yang kami nasakhkan, atau kami jadikan (manusia) lupa kepadanya, kami datangkan yang lebih baik daripadanya atau yang sebanding dengannya) ' (QS. Al Baqarah: 106)
+Telah menceritakan kepada kami ['Amru bin 'Ali] Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Sufyan] dari [Habib] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] dia berkata; ['Umar radliallahu 'anhu] berkata; "Ubay adalah orang yang paling pandai dalam membaca Al Qur'an di antara kami, dan Ali adalah orang yang paling paham dengan hukum di antara kami. Sementara kami banyak meninggalkan qira'ah Ubay (dalam membaca Al Qur'an). Karena [Ubay] pernah berkata, "Aku tidak akan meninggalkan sesuatu yang telah aku dengar dari Rasulullah. Sementara Allah Tabaraka Wa Ta'ala berfirman: '(Ayat mana saja yang kami nasakhkan, atau kami jadikan (manusia) lupa kepadanya, kami datangkan yang lebih baik daripadanya atau yang sebanding dengannya) ' (QS. Al Baqarah:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4481</td></tr><tr><td>Arabic No</td><td>4481</td></tr><tr><td>Reference</td><td>Book 65 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin 'Ali] Telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உமர் (ரலி) அவர்கள் கூறினார்கள்: எங்களில் (குர்ஆனை) நன்கு ஓதத் தெரிந்தவர் உபை பின் கஅப் (ரலி) ஆவார். எங்களில் நன்கு தீர்ப்பு வழங்கும் ஞானமுடையவர் அலீ (ரலி) ஆவார். நாங்கள் உபை அவர்களின் சொற்களில் சிலவற்றை விட்டுவிடுவோம். ஏனெனில் அவர், “அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து நான் செவியுற்ற எதையும் கைவிடமாட்டேன்” என்று சொல்வார். ஆனால், அல்லாஹ்வோ, “நாம் ஒரு வசனத்தை மாற்றினால், அல்லது மறக்கச் செய்தால் அதைவிடச் சிறந்ததையோ, அதற்கு நிகரானதையோ கொண்டுவருவோம் என்று கூறியுள்ளான்.18 இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 65
+உமர் (ரலி) அவர்கள் கூறினார்கள்: எங்களில் (குர்ஆனை) நன்கு ஓதத் தெரிந்தவர் உபை பின் கஅப் (ரலி) ஆவார். எங்களில் நன்கு தீர்ப்பு வழங்கும் ஞானமுடையவர் அலீ (ரலி) ஆவார். நாங்கள் உபை அவர்களின் சொற்களில் சிலவற்றை விட்டுவிடுவோம். ஏனெனில் அவர், “அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து நான் செவியுற்ற எதையும் கைவிடமாட்டேன்” என்று சொல்வார். ஆனால், அல்லாஹ்வோ, “நாம் ஒரு வசனத்தை மாற்றினால், அல்லது மறக்கச் செய்தால் அதைவிடச் சிறந்ததையோ, அதற்கு நிகரானதையோ கொண்டுவருவோம் என்று கூறியுள்ளான்.18 இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4481</td></tr><tr><td>Arabic No</td><td>4481</td></tr><tr><td>Reference</td><td>Book 65 Hadith 8</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন কাছীর (রহঃ) .... হুমায়দ (রহঃ) থেকে বর্ণিত যে, হাসান (রহঃ) বলেনঃ আল্লাহ্‌র বাণীঃ এভাবেই আমি একে গুনাহগারদের অন্তরে নিক্ষেপ করি, অর্থাৎ শিরিককে।
+। হাসান বাসরী (রহঃ) সূত্রে বর্ণিত। আল্লাহর বাণীঃ ‘‘এভাবে আমি পাপীদের অন্তরে তা সঞ্চার করি।’’ (সূরা আল-হিজরঃ ১২)। এর অর্থ হচ্ছে, শিরক।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>4619</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
 

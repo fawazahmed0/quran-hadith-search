@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮২৩। ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, আমাকে জ্ঞান ও প্রজ্ঞা দান করার জন্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহ তা'আলার নিকট দু'বার দু'আ করেছেন। সহীহঃ রাওযুন নায়ীর (৩৯৫)। আবূ ঈসা বলেন, এ হাদীসটি হাসান এবং আতার বর্ণনার পরিপ্রেক্ষিতে এই সনদে গারীব। হাদীসটি ইকরিমাহও ইবনু আব্বাস (রাযিঃ) হতে রিওয়ায়াত করেছেন।
+। ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, আমাকে জ্ঞান ও প্রজ্ঞা দান করার জন্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহ তা'আলার নিকট দু'বার দু'আ করেছেন। সহীহঃ রাওযুন নায়ীর (৩৯৫)। আবূ ঈসা বলেন, এ হাদীসটি হাসান এবং আতার বর্ণনার পরিপ্রেক্ষিতে এই সনদে গারীব। হাদীসটি ইকরিমাহও ইবনু আব্বাস (রাযিঃ) হতে রিওয়ায়াত করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3823</td></tr><tr><td>Arabic No</td><td>3823</td></tr><tr><td>Reference</td><td>Book 49 Hadith 223</td></tr></tbody></table></div>
 

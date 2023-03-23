@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর এবং ‘উমার (রাযি.)-এর সঙ্গে মিনায় দু’রাক‘আত সালাত আদায় করেছি। উসমান (রাযি.)-এর সঙ্গেও তাঁর খিলাফতের প্রথম দিকে দু‘রাক‘আত আদায় করেছি। অতঃপর তিনি পূর্ণ সালাত আদায় করতে লাগলেন। (১৬৫৫; মুসলিম ৬/২, হাঃ ৬৯৪, আহমাদ ৪৫৩৩, ৬৩৬০) (আধুনিক প্রকাশনীঃ ১০১৬, ইসলামিক ফাউন্ডেশনঃ ১০২১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর এবং ‘উমার (রাযি.)-এর সঙ্গে মিনায় দু’রাক‘আত সালাত আদায় করেছি। উসমান (রাযি.)-এর সঙ্গেও তাঁর খিলাফতের প্রথম দিকে দু‘রাক‘আত আদায় করেছি। অতঃপর তিনি পূর্ণ সালাত আদায় করতে লাগলেন। (১৬৫৫; মুসলিম ৬/২, হাঃ ৬৯৪, আহমাদ ৪৫৩৩, ৬৩৬০) (আধুনিক প্রকাশনীঃ ১০১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1082</td></tr><tr><td>Arabic No</td><td>1082</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுடனும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோருட னும் உஸ்மான் (ரலி) அவர்களது ஆட்சி யின் ஆரம்பக் கட்டத்தில் உஸ்மான் (ரலி) அவர்களுடனும் ‘மினா’வில் (கடமையான நான்கு ரக்அத்களைச் சுருக்கி) இரண்டு ரக்அத்களாகவே தொழுதேன். உஸ்மான் (ரலி) அவர்கள் பின்னர் (சுருக்கித் தொழா மல்) முழுமையாகவே தொழுதார்கள். அத்தியாயம் : 18
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுடனும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோருட னும் உஸ்மான் (ரலி) அவர்களது ஆட்சி யின் ஆரம்பக் கட்டத்தில் உஸ்மான் (ரலி) அவர்களுடனும் ‘மினா’வில் (கடமையான நான்கு ரக்அத்களைச் சுருக்கி) இரண்டு ரக்அத்களாகவே தொழுதேன். உஸ்மான் (ரலி) அவர்கள் பின்னர் (சுருக்கித் தொழா மல்) முழுமையாகவே தொழுதார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1082</td></tr><tr><td>Arabic No</td><td>1082</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah (İbn Ömer r.a.)'dan nakledilmiştir: "Ben Mina'daki namazları Resulullah Sallallahu Aleyhi ve Sellem, Ebu Bekir ve Ömer radıyallahu anhuma ile birlikte ikişer rekat halinde kıldım. Osman (r.a.) döneminin başlarında da onunla birlikte Mina'daki namazları böyle kıldım. Fakat Osman (r.a.) daha sonra tam olarak kılmaya başladı. Tekrar: 1655
+Abdullah (İbn Ömer r.a.)'dan nakledilmiştir: "Ben Mina'daki namazları Resulullah Sallallahu Aleyhi ve Sellem, Ebu Bekir ve Ömer radıyallahu anhuma ile birlikte ikişer rekat halinde kıldım. Osman (r.a.) döneminin başlarında da onunla birlikte Mina'daki namazları böyle kıldım. Fakat Osman (r.a.) daha sonra tam olarak kılmaya başladı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1082</td></tr><tr><td>Arabic No</td><td>1082</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
 

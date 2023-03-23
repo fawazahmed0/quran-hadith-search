@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১৩। উম্মু আতিয়্যা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ কোন মৃত ব্যক্তির জন্যে আমাদের তিন দিনের অধিক শোক পালন করা হতে নিষেধ করা হতো। কিন্তু স্বামীর ক্ষেত্রে চার মাস দশদিন (শোক পালনের অনুমতি ছিল)। আমরা তখন সুরমা লাগাতাম না, সুগন্ধি ব্যবহার করতাম না, ইয়েমেনের তৈরি রঙিন কাপড় ছাড়া অন্য কোন রঙিন কাপড় পরিধান করতাম না। তবে হায়েয হতে পবিত্রতার গোসলে আজফারের খোশবু মিশ্রিত বস্ত্রখন্ড ব্যবহারের অনুমতি ছিল। আর আমাদের জানাযার পেছনে যাওয়া নিষিদ্ধ ছিল। এই বর্ণনা হিশাম ইব্‌নু হাস্‌সান (রহঃ) হাফসা (রাঃ) হতে, তিনি উম্মে আতিয়্যা (রাঃ) হতে এবং তিনি নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) হতে বিবৃত করেছেন। (১২৭৮, ১২৭৯, ৫৩৪০, ৫৩৪১, ৫৩৪২, ৫৩৪৩; মুসলিম ১১/১১, হাঃ ৯৩৮) (আ.প্র. ৩০২, ই.ফা. ৩০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। উম্মু আতিয়্যা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ কোন মৃত ব্যক্তির জন্যে আমাদের তিন দিনের অধিক শোক পালন করা হতে নিষেধ করা হতো। কিন্তু স্বামীর ক্ষেত্রে চার মাস দশদিন (শোক পালনের অনুমতি ছিল)। আমরা তখন সুরমা লাগাতাম না, সুগন্ধি ব্যবহার করতাম না, ইয়েমেনের তৈরি রঙিন কাপড় ছাড়া অন্য কোন রঙিন কাপড় পরিধান করতাম না। তবে হায়েয হতে পবিত্রতার গোসলে আজফারের খোশবু মিশ্রিত বস্ত্রখন্ড ব্যবহারের অনুমতি ছিল। আর আমাদের জানাযার পেছনে যাওয়া নিষিদ্ধ ছিল। এই বর্ণনা হিশাম ইব্‌নু হাস্‌সান (রহঃ) হাফসা (রাঃ) হতে, তিনি উম্মে আতিয়্যা (রাঃ) হতে এবং তিনি নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) হতে বিবৃত করেছেন। (১২৭৮, ১২৭৯, ৫৩৪০, ৫৩৪১, ৫৩৪২, ৫৩৪৩; মুসলিম ১১/১১, হাঃ ৯৩৮) (আ.প্র. ৩০২, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>313</td></tr><tr><td>Arabic No</td><td>313</td></tr><tr><td>Reference</td><td>Book 6 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] berkata, telah menc
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு அத்திய்யா நுசைபா பின்த் கஅப் (ரலி) அவர்கள் கூறியதாவது: இறந்துபோன எவருக்காகவும் மூன்று நாட்களுக்குமேல் (அலங்காரம், நறுமணம் உள்ளிட்டவற்றைக் கைவிட்டு) துக்கம் கடைப்பிடிக்கக் கூடாதென (பெண்களாகிய) நாங்கள் (நபியவர்களால்) தடை விதிக்கப்பட்டிருந்தோம்; ஆனால், (கணவருக்காக அவர் இறந்தபின் அவருடைய) மனைவி நான்கு மாதம் பத்து நாட்கள் (துக்கம் கடைபிடிப்பதைத்) தவிர! (அதாவது இந்த நாட்களில்) நாங்கள் (கண்ணில்) அஞ்சனம் தீட்டவோ, நறுமணம் பூசவோ, சாயமிட்ட ஆடைகளை அணியவோ கூடாது. ஆனால், நெய்வதற்குமுன் நூ-ல் சாயமிடப்பட்ட (‘அஸ்ப்’ எனும்) ஆடையைத் தவிர! (அதை அணிந்து கொள்ளலாம்.) எங்களில் ஒரு பெண் குளித்து மாதவிடாயி-ருந்து தூய்மையடையும் போது, ‘ளிஃபார்’ நகரத்து (யமன்) ‘குஸ்த்’ (ஜாதிக் கோஷ்டக்) கட்டைத் துண்டைப் பயன்படுத்திக்கொள்ள எங்களுக்கு அனுமதி வழங்கப்பட்டது. மேலும், நாங்கள் ‘ஜனாஸா’வைத் தொடர்ந்து செல்ல வேண்டாமெனத் தடை விதிக்கப்பட்டி ருந்தோம். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 6
+உம்மு அத்திய்யா நுசைபா பின்த் கஅப் (ரலி) அவர்கள் கூறியதாவது: இறந்துபோன எவருக்காகவும் மூன்று நாட்களுக்குமேல் (அலங்காரம், நறுமணம் உள்ளிட்டவற்றைக் கைவிட்டு) துக்கம் கடைப்பிடிக்கக் கூடாதென (பெண்களாகிய) நாங்கள் (நபியவர்களால்) தடை விதிக்கப்பட்டிருந்தோம்; ஆனால், (கணவருக்காக அவர் இறந்தபின் அவருடைய) மனைவி நான்கு மாதம் பத்து நாட்கள் (துக்கம் கடைபிடிப்பதைத்) தவிர! (அதாவது இந்த நாட்களில்) நாங்கள் (கண்ணில்) அஞ்சனம் தீட்டவோ, நறுமணம் பூசவோ, சாயமிட்ட ஆடைகளை அணியவோ கூடாது. ஆனால், நெய்வதற்குமுன் நூ-ல் சாயமிடப்பட்ட (‘அஸ்ப்’ எனும்) ஆடையைத் தவிர! (அதை அணிந்து கொள்ளலாம்.) எங்களில் ஒரு பெண் குளித்து மாதவிடாயி-ருந்து தூய்மையடையும் போது, ‘ளிஃபார்’ நகரத்து (யமன்) ‘குஸ்த்’ (ஜாதிக் கோஷ்டக்) கட்டைத் துண்டைப் பயன்படுத்திக்கொள்ள எங்களுக்கு அனுமதி வழங்கப்பட்டது. மேலும், நாங்கள் ‘ஜனாஸா’வைத் தொடர்ந்து செல்ல வேண்டாமெனத் தடை விதிக்கப்பட்டி ருந்தோம். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>313</td></tr><tr><td>Arabic No</td><td>313</td></tr><tr><td>Reference</td><td>Book 6 Hadith 18</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] berkata, telah menc
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Atiyye'den şöyle nakledilmiştir: "Bir ölü için üç günden fazla yas tutmamız yasaklandı. Ancak koca için dört ay on gün yas tutmamız emredildi. Yas tuttuğumuz süre içinde, sürme çekmez, koku sürünmez ve asab dışında boyalı elbise giymezdik. Adetimiz sona erip hayızdan dolayı gusül abdesti alınca azıcık küst-ı azfâr kullanmamıza izin verildi. Bizim cenazelerin ardından gitmemiz de yasaklandı. Tekrar: 1278, 5340, 5341, 5342, 5343
+Ümmü Atiyye'den şöyle nakledilmiştir: "Bir ölü için üç günden fazla yas tutmamız yasaklandı. Ancak koca için dört ay on gün yas tutmamız emredildi. Yas tuttuğumuz süre içinde, sürme çekmez, koku sürünmez ve asab dışında boyalı elbise giymezdik. Adetimiz sona erip hayızdan dolayı gusül abdesti alınca azıcık küst-ı azfâr kullanmamıza izin verildi. Bizim cenazelerin ardından gitmemiz de yasaklandı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>313</td></tr><tr><td>Arabic No</td><td>313</td></tr><tr><td>Reference</td><td>Book 6 Hadith 18</td></tr></tbody></table></div>
 

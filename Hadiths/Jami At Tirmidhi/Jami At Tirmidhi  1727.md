@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭২৭। আতা ইবনু আবূ রাবাহ (রাহঃ) হতে বর্ণিত আছে, তিনি বলেন, ইবনু আব্বাস (রাঃ)-কে আমি বলতে শুনেছি, একটি ছাগল মারা গেল। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মালিককে বললেনঃ তোমরা কেন তার চামড়া ছিলে নাওনি? তোমরা এটাকে প্রক্রিয়াজাতের পর কাজে ব্যবহার করতে পারতে। সহীহ, ইবনু মা-জাহ (৩৬০৯, ৩৬১০), মুসলিম
+। আতা ইবনু আবূ রাবাহ (রাহঃ) হতে বর্ণিত আছে, তিনি বলেন, ইবনু আব্বাস (রাঃ)-কে আমি বলতে শুনেছি, একটি ছাগল মারা গেল। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মালিককে বললেনঃ তোমরা কেন তার চামড়া ছিলে নাওনি? তোমরা এটাকে প্রক্রিয়াজাতের পর কাজে ব্যবহার করতে পারতে। সহীহ, ইবনু মা-জাহ (৩৬০৯, ৩৬১০), মুসলিম
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1727</td></tr><tr><td>Arabic No</td><td>1727</td></tr><tr><td>Reference</td><td>Book 24 Hadith 8</td></tr></tbody></table></div>
 

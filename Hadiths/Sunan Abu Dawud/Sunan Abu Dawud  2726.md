@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহবূব ইবন মূসা আবূ সাহিল (রহঃ) ..... ইবন ‘উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, বদর যুদ্ধের দিন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে বলেনঃ ‘উসমান (রাঃ) আল্লাহ এবং তাঁর রাসূলের প্রয়োজনে গিয়েছে। আর আমি তার পক্ষ হতে বায়‘আত গ্রহণ করছি। অতঃপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর জন্য গণীমতের মাল নির্ধারণ করেন। আর তিনি উসমান (রাঃ) ব্যতীত অন্য কোন অনুপস্থিত ব্যক্তির জন্য মালে গণীমতের অংশ নির্ধারণ করেননি।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বদর যুদ্ধের দিন দাঁড়িয়ে বললেনঃ ‘উসমান (রাঃ) আল্লাহ ও তাঁর রাসূলের প্রয়োজনেই গিয়েছে। আমি তার পক্ষ থেকে বাই‘আত গ্রহণ করছি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে গানীমাতের ভাগ দিলেন। ‘উসমান ছাড়া অনুপস্থিত অন্য কাউকে তিনি গানীমাতের ভাগ দেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2726</td></tr><tr><td>Arabic No</td><td>2726</td></tr><tr><td>Reference</td><td>Book 15 Hadith 250</td></tr></tbody></table></div>
 

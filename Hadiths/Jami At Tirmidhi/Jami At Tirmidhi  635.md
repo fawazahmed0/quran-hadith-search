@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬৩৫৷ আবদুল্লাহ (রাঃ)-এর স্ত্রী যাইনাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে সম্বোধন করে বললেনঃ হে মহিলাগণ! তোমাদের গহনাপত্র দিয়ে হলেও তোমরা দান-খয়রাত কর। কেননা, কিয়ামত দিবসে তোমাদের সংখ্যাই জাহান্নামীদের মধ্যে বেশি হবে। - পরবর্তী হাদীসের সহায়তায় হাদীসটি সহিহ।
+আবদুল্লাহ (রাঃ)-এর স্ত্রী যাইনাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে সম্বোধন করে বললেনঃ হে মহিলাগণ! তোমাদের গহনাপত্র দিয়ে হলেও তোমরা দান-খয়রাত কর। কেননা, কিয়ামত দিবসে তোমাদের সংখ্যাই জাহান্নামীদের মধ্যে বেশি হবে। - পরবর্তী হাদীসের সহায়তায় হাদীসটি সহিহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>635</td></tr><tr><td>Arabic No</td><td>635</td></tr><tr><td>Reference</td><td>Book 7 Hadith 19</td></tr></tbody></table></div>
 

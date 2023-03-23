@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুআাম্মাল ইবনু হিশাম .... রিফাআ ইবনু রাফে (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উপরোক্ত ঘটনা বর্ণনা করেন। তিনি বলেনঃ “তাকবীর তাহরীমা” বলার পর তুমি কুরআনের সহজতম অংশ পাঠ করবে। তিনি বলেনঃ তুমি যখন নামাযের মধ্যে প্রথম বৈঠকে উপবেশন কর, তখন শান্তির সাথে বসবে এবং এ সময় তোমার বাম পা বিছিয়ে দিয়ে অতঃপর তাশাহ্‌হুদ পাঠ করবে। পরে যখন তুমি দাঁড়াবে, তখন উপরোক্ত নিয়মে নামায শেষ করবে।
+। রিফা‘আহ ইবনু রাফি‘ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উপরোক্ত ঘটনা বর্ণনা করেন। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমি সালাত আদায়ে দাঁড়িয় মহা মহীয়ান আল্লাহর নামে তাকবীর বলবে। এরপর কুরআনের যে অংশ তোমার জন্য সহজ তা তিলাওয়াত করবে। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমি সালাতের প্রথম বৈঠকে প্রশান্তির সাথে বসবে এবং এ সময় তোমার বাম পা বিছিয়ে দিবে, অতঃপর তাশাহহুদ পড়বে। অতঃপর আবার দাঁড়ালে উপরোক্ত নিয়মেই সালাত শেষ করবে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>860</td></tr><tr><td>Arabic No</td><td>860</td></tr><tr><td>Reference</td><td>Book 2 Hadith 470</td></tr></tbody></table></div>
 

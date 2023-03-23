@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, সালাতে কোমরে হাত রাখা নিষেধ করা হয়েছে। হিশাম ও আবূ হিলাল (রহ.) ইবনু সীরীন (রহ.)-এর মাধ্যমে আবূ হুরাইরাহ্ (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন। (১২২০; মুসলিম ৫/১১, হাঃ ৫৪৫, আহমাদ ৭১৭৮) (আধুনিক প্রকাশনীঃ ১১৪০, ইসলামিক ফাউন্ডেশনঃ ১১৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, সালাতে কোমরে হাত রাখা নিষেধ করা হয়েছে। হিশাম ও আবূ হিলাল (রহ.) ইবনু সীরীন (রহ.)-এর মাধ্যমে আবূ হুরাইরাহ্ (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন। (১২২০; মুসলিম ৫/১১, হাঃ ৫৪৫, আহমাদ ৭১৭৮) (আধুনিক প্রকাশনীঃ ১১৪০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 21 Hadith 23</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: தொழும்போது இடுப்பில் கை வைப்பது தடுக்கப்பட்டுள்ளது. வேறு இரு அறிவிப்புகளில் நபி (ஸல்) அவர்களே இவ்வாறு கூறியதாக இடம்பெற்றுள்ளது. அத்தியாயம் : 21
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: தொழும்போது இடுப்பில் கை வைப்பது தடுக்கப்பட்டுள்ளது. வேறு இரு அறிவிப்புகளில் நபி (ஸல்) அவர்களே இவ்வாறு கூறியதாக இடம்பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 21 Hadith 23</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre r.a.'den rivayet edildiğine göre namazda elleri böğre koymak yasaklandı. Tekrar: 1220
+Ebû Hureyre r.a.'den rivayet edildiğine göre namazda elleri böğre koymak yasaklandı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 21 Hadith 23</td></tr></tbody></table></div>
 

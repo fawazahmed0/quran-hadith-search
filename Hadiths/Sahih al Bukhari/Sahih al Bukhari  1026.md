@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আববাদ ইবনু তামীম (রহ.) তাঁর চাচা হতে বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বৃষ্টির জন্য দু‘আ করলেন। অতঃপর তিনি দু’রাক‘আত সালাত আদায় করলেন এবং চাদর উল্টিয়ে নিলেন। (১০০৫) (আধুনিক প্রকাশনীঃ ৯৬৪, ইসলামিক ফাউন্ডেশনঃ ৯৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আববাদ ইবনু তামীম (রহ.) তাঁর চাচা হতে বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বৃষ্টির জন্য দু‘আ করলেন। অতঃপর তিনি দু’রাক‘আত সালাত আদায় করলেন এবং চাদর উল্টিয়ে নিলেন। (১০০৫) (আধুনিক প্রকাশনীঃ ৯৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1026</td></tr><tr><td>Arabic No</td><td>1026</td></tr><tr><td>Reference</td><td>Book 15 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் ஸைத் அல்மாஸினீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மழை வேண்டிப் பிரார்த்தித்தபோது, இரண்டு ரக்அத்கள் தொழுவித்தார்கள். அப்போது தமது மேல்துண்டை மாற்றிப் போட்டுக்கொண் டார்கள். அத்தியாயம் : 15
+அப்துல்லாஹ் பின் ஸைத் அல்மாஸினீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மழை வேண்டிப் பிரார்த்தித்தபோது, இரண்டு ரக்அத்கள் தொழுவித்தார்கள். அப்போது தமது மேல்துண்டை மாற்றிப் போட்டுக்கொண் டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1026</td></tr><tr><td>Arabic No</td><td>1026</td></tr><tr><td>Reference</td><td>Book 15 Hadith 21</td></tr></tbody></table></div>
 

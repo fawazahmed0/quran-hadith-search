@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মশকের মুখ খুলে, তাতে মুখ লাগিয়ে পানি পান করতে নিষেধ করেছেন। [৫৬২৬; মুসলিম ৩৬/১৩, হাঃ ২০২৩, আহমাদ ১১৬৬২] (আধুনিক প্রকাশনী- ৫২১৪, ইসলামিক ফাউন্ডেশন- ৫১১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মশকের মুখ খুলে, তাতে মুখ লাগিয়ে পানি পান করতে নিষেধ করেছেন। [৫৬২৬; মুসলিম ৩৬/১৩, হাঃ ২০২৩, আহমাদ ১১৬৬২] (আধুনিক প্রকাশনী- ৫২১৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5625</td></tr><tr><td>Arabic No</td><td>5625</td></tr><tr><td>Reference</td><td>Book 74 Hadith 51</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Ibnu Abu D
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தண்ணீர் தோல்பைகளை ‘இக்தினாஸ்’ செய்ய வேண்டாமெனத் தடை விதித்தார் கள். அதாவது அவற்றின் வாய்ப் பகுதியை வெளிப்பக்கமாகச் சுருட்டிவிட்டு அதிலிருந்து நீர் பருகுவதைத் தடை செய்தார்கள். அத்தியாயம் : 74
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தண்ணீர் தோல்பைகளை ‘இக்தினாஸ்’ செய்ய வேண்டாமெனத் தடை விதித்தார் கள். அதாவது அவற்றின் வாய்ப் பகுதியை வெளிப்பக்கமாகச் சுருட்டிவிட்டு அதிலிருந்து நீர் பருகுவதைத் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5625</td></tr><tr><td>Arabic No</td><td>5625</td></tr><tr><td>Reference</td><td>Book 74 Hadith 51</td></tr></tbody></table></div>
 

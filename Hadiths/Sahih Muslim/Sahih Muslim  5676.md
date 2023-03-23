@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫৬৯, আন্তর্জাতিক নাম্বারঃ ২১৭২ ৫৫৬৯-(২১/...) আবূ তাহির (রহঃ) ..... ইবনু ওয়াহব (রহঃ) বলেন, লায়স ইবনু সা'দ (রহঃ) কে আমি বলতে শুনেছি যে, الْحَمْوُ শব্দের অর্থ স্বামীর ভাই (দেবর-ভাসুর) এবং স্বামীর আত্মীয়-স্বজনদের মধ্যে তার (স্বামীর ভাইয়ের) সমপর্যায়ের চাচাত ভাই প্রমুখ (ইসলামিক ফাউন্ডেশন ৫৪৮৯, ইসলামিক সেন্টার ৫৫১৩)
+আবূ তাহির (রহঃ) ..... ইবনু ওয়াহব (রহঃ) বলেন, লায়স ইবনু সা'দ (রহঃ) কে আমি বলতে শুনেছি যে, الْحَمْوُ শব্দের অর্থ স্বামীর ভাই (দেবর-ভাসুর) এবং স্বামীর আত্মীয়-স্বজনদের মধ্যে তার (স্বামীর ভাইয়ের) সমপর্যায়ের চাচাত ভাই প্রমুখ (ইসলামিক ফাউন্ডেশন ৫৪৮৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5676</td></tr><tr><td>Arabic No</td><td>2172.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 30</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-லைஸ் பின் சஅத் (ரஹ்) அவர்கள் கூறியதாவது: "அல்ஹம்வு" என்பது கணவருடைய சகோதரர், கணவருடைய தந்தையின் சகோதரரின் புதல்வர் போன்ற உறவினர்களைக் குறிக்கும். அத்தியாயம் : 39
+லைஸ் பின் சஅத் (ரஹ்) அவர்கள் கூறியதாவது: "அல்ஹம்வு" என்பது கணவருடைய சகோதரர், கணவருடைய தந்தையின் சகோதரரின் புதல்வர் போன்ற உறவினர்களைக் குறிக்கும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5676</td></tr><tr><td>Arabic No</td><td>2172.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 30</td></tr></tbody></table></div>
 

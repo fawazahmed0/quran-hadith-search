@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মুহাম্মদ মারওয়ারী (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ এই আয়াতঃ (إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَالِدَيْنِ وَالأَقْرَبِينَ) অর্থাৎ ‘‘যদি সে উত্তম ওসীয়াত রেখে যায়, মাতাপিতা ও নিকটাত্মীয়দের জন্য, মীরাছের আয়াত দ্বারা বাতিল হয়ে গেছে। (কেননা মীরাছের আয়াতে উত্তরাধিকারীদের অংশ স্পষ্টভাবে উল্লেখ আছে)।
+। ইবনু ‘আব্বাস (রাঃ) বর্ণনা করেন (আল্লাহর বাণীঃ) ‘‘তোমাদের কারো মৃত্যু উপস্থিত হলে তার পরিত্যক্ত সম্পদ পিতা-মাতা ও নিকটাত্মীয়ের জন্য প্রচলিত নিয়ম অনুযায়ী ওসিয়াত করা তোমাদের উপর ফরয’’[সূরা আল-বাকারাহঃ ১৮০] ওসিয়াতের নিয়ম এভাবেই ছিলো। পরে উত্তরাধিকার সম্পর্কিত বিধান অবতীর্ণ হলে এ আয়াত মানসূখ হয়ে যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2869</td></tr><tr><td>Arabic No</td><td>2869</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
 

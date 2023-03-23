@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহ.) হতে বর্ণিত। তিনি বলেন, ইবনু ‘উমার (রাঃ) যুল-হুলাইফায় ফজরের সালাত শেষ করে সওয়ারী প্রস্তুত করার নির্দেশ দিতেন, প্রস্তুত হলে আরোহণ করতেন। সওয়ারী তাঁকে নিয়ে দাঁড়িয়ে গেলে তিনি সোজা কিবলামুখী হয়ে হারাম শরীফের সীমারেখায় পৌঁছা পর্যন্ত তালবিয়া পাঠ করতে থাকতেন। এরপর বিরতি দিয়ে যূ-তুওয়া নামক স্থানে পৌঁছে ভোর পর্যন্ত রাত যাপন করতেন এবং অতঃপর ফজরের সালাত আদায় করে গোসল করতেন এবং বলতেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপই করে ছিলেন। ইসমা‘ঈল (রহ.) গোসল সম্পর্কিত বর্ণনায় আইয়ূব (রহ.)-এর অনুসরণ করেছেন। (১৫৫৪, ১৫৭৩, ১৫৭৪) (আধুনিক প্রকাশনীঃকিতাবুল হাজ্জ অনুচ্ছেদ ২৯ , ইসলামিক ফাউন্ডেশনঃ পরিচ্ছেদ ৯৮৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহ.) হতে বর্ণিত। তিনি বলেন, ইবনু ‘উমার (রাঃ) যুল-হুলাইফায় ফজরের সালাত শেষ করে সওয়ারী প্রস্তুত করার নির্দেশ দিতেন, প্রস্তুত হলে আরোহণ করতেন। সওয়ারী তাঁকে নিয়ে দাঁড়িয়ে গেলে তিনি সোজা কিবলামুখী হয়ে হারাম শরীফের সীমারেখায় পৌঁছা পর্যন্ত তালবিয়া পাঠ করতে থাকতেন। এরপর বিরতি দিয়ে যূ-তুওয়া নামক স্থানে পৌঁছে ভোর পর্যন্ত রাত যাপন করতেন এবং অতঃপর ফজরের সালাত আদায় করে গোসল করতেন এবং বলতেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপই করে ছিলেন। ইসমা‘ঈল (রহ.) গোসল সম্পর্কিত বর্ণনায় আইয়ূব (রহ.)-এর অনুসরণ করেছেন। (১৫৫৪, ১৫৭৩, ১৫৭৪) (আধুনিক প্রকাশনীঃকিতাবুল হাজ্জ অনুচ্ছেদ ২৯ , ইসলামিক ফাউন্ডেশনঃ পরিচ্ছেদ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1553</td></tr><tr><td>Arabic No</td><td>1553</td></tr><tr><td>Reference</td><td>Book 25 Hadith 39</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Nafi', 'Whenever Ibn 'Umar finished his morning Salat at Dhul-Hulaifa h
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள், ‘துல் ஹுலைஃபா’வில் ‘சுப்ஹு’ தொழுதவுடன், தமது ஊர்தி ஒட்டகத்தை(ப் பயணத்திற்கு)த் தயாராக்கும்படி கட்டளையிடுவார்கள். அவ்வாறே தயார் செய்யப்படும். பிறகு அவர்கள் (அதில்) ஏறி, ஒட்டகம் நிலைக்கு வந்ததும் நேராக (அமர்ந்து) ‘கிப்லா’வை முன்னோக்குவார்கள். பின்னர் ‘தல்பியா’ கூறத் தொடங்குவார் கள். புனித (ஹரம்) எல்லை வரும்வரை தல்பியா கூறிக்கொண்டேயிருப்பார்கள். பிறகு ‘தூத்துவா’ எனுமிடத்தை அடையும் போது தல்பியாவை நிறுத்தி அங்கேயே விடியும்வரை தங்குவார்கள். சுப்ஹு தொழுதுவிட்டு (அங்கேயே) குளிப்பார்கள். இவ்வாறே நபி (ஸல்) அவர்கள் செய்த தாகவும் கூறுவார்கள். இது, இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. இரண்டாவது அறிவிப்பில் குளித்தது உள்ளிட்ட சில தகவல்களே இடம்பெறுகின்றன. அத்தியாயம் : 25
+நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள், ‘துல் ஹுலைஃபா’வில் ‘சுப்ஹு’ தொழுதவுடன், தமது ஊர்தி ஒட்டகத்தை(ப் பயணத்திற்கு)த் தயாராக்கும்படி கட்டளையிடுவார்கள். அவ்வாறே தயார் செய்யப்படும். பிறகு அவர்கள் (அதில்) ஏறி, ஒட்டகம் நிலைக்கு வந்ததும் நேராக (அமர்ந்து) ‘கிப்லா’வை முன்னோக்குவார்கள். பின்னர் ‘தல்பியா’ கூறத் தொடங்குவார் கள். புனித (ஹரம்) எல்லை வரும்வரை தல்பியா கூறிக்கொண்டேயிருப்பார்கள். பிறகு ‘தூத்துவா’ எனுமிடத்தை அடையும் போது தல்பியாவை நிறுத்தி அங்கேயே விடியும்வரை தங்குவார்கள். சுப்ஹு தொழுதுவிட்டு (அங்கேயே) குளிப்பார்கள். இவ்வாறே நபி (ஸல்) அவர்கள் செய்த தாகவும் கூறுவார்கள். இது, இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. இரண்டாவது அறிவிப்பில் குளித்தது உள்ளிட்ட சில தகவல்களே இடம்பெறுகின்றன. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1553</td></tr><tr><td>Arabic No</td><td>1553</td></tr><tr><td>Reference</td><td>Book 25 Hadith 39</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated Nafi', 'Whenever Ibn 'Umar finished his morning Salat at Dhul-Hulaifa h
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nafi’ şöyle demiştir: "İbn Ömer r.a. Zul-Huleyfe'de sabah namazını kılınca devesinin eğerinin bağlanmasını emrederdi. Eğeri bağlanınca, devesi onu doğrulttuğu zaman ayakta olduğu halde kıbleye yönelir ve Harem'e varana kadar telbiye getirirdi. Harem'e gelince telbiyeyi bırakırdı. Zû Tuva'ya gelince sabaha kadar orada kalırdı Sabah namazını kıldıktan sonra gusül abdesti alırdı. İbn Ömer, Nebi Sallallahu Aleyhi ve Sellem'în de böyle yaptığını söylerdi." Tekrar: 1554, 1573, 1574
+Nafi’ şöyle demiştir: "İbn Ömer r.a. Zul-Huleyfe'de sabah namazını kılınca devesinin eğerinin bağlanmasını emrederdi. Eğeri bağlanınca, devesi onu doğrulttuğu zaman ayakta olduğu halde kıbleye yönelir ve Harem'e varana kadar telbiye getirirdi. Harem'e gelince telbiyeyi bırakırdı. Zû Tuva'ya gelince sabaha kadar orada kalırdı Sabah namazını kıldıktan sonra gusül abdesti alırdı. İbn Ömer, Nebi Sallallahu Aleyhi ve Sellem'în de böyle yaptığını söylerdi." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1553</td></tr><tr><td>Arabic No</td><td>1553</td></tr><tr><td>Reference</td><td>Book 25 Hadith 39</td></tr></tbody></table></div>
 

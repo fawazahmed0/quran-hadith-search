@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৭৮৮, আন্তর্জাতিক নাম্বারঃ ৮১৯ ১৭৮৮-(.../...) আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) থেকে একই সানাদে হাদীসটি বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৭৭৩, ইসলামীক সেন্টার ১৭৮০)
+আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) থেকে একই সানাদে হাদীসটি বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৭৭৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1903</td></tr><tr><td>Arabic No</td><td>819.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 331</td></tr></tbody></table></div>
 

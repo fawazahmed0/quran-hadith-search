@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে তিনখানা কাপড় দিয়ে কাফন দেয়া হয়েছিল, তাতে জামা ও পাগড়ী ছিল না। আবূ ‘আবদুল্লাহ্ (রহ.) বলেন, আবূ নু‘আইম (রহ.) ثَلاَثَةِ শব্দটি বলেননি। আর ‘আবদুল্লাহ্ ইবনু ওয়ালীদ (রহ.) হতে হাদীস বর্ণনায়ثَلاَثَةِ শব্দটি বলেছেন। (১২৬৪) (আধুনিক প্রকাশনীঃ ১১৯০, ইসলামিক ফাউন্ডেশনঃ ১১৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে তিনখানা কাপড় দিয়ে কাফন দেয়া হয়েছিল, তাতে জামা ও পাগড়ী ছিল না। আবূ ‘আবদুল্লাহ্ (রহ.) বলেন, আবূ নু‘আইম (রহ.) ثَلاَثَةِ শব্দটি বলেননি। আর ‘আবদুল্লাহ্ ইবনু ওয়ালীদ (রহ.) হতে হাদীস বর্ণনায়ثَلاَثَةِ শব্দটি বলেছেন। (১২৬৪) (আধুনিক প্রকাশনীঃ ১১৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1272</td></tr><tr><td>Arabic No</td><td>1272</td></tr><tr><td>Reference</td><td>Book 23 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் உடலுக்கு மூன்று துணிகளால் ‘கஃபன்’ இடப் பட்டது; அவற்றில் மேலங்கியோ தலைப்பாகையோ இருக்கவில்லை. அத்தியாயம் : 23
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் உடலுக்கு மூன்று துணிகளால் ‘கஃபன்’ இடப் பட்டது; அவற்றில் மேலங்கியோ தலைப்பாகையோ இருக்கவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1272</td></tr><tr><td>Arabic No</td><td>1272</td></tr><tr><td>Reference</td><td>Book 23 Hadith 33</td></tr></tbody></table></div>
 

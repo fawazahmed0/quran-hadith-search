@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২০১৩। আবূ উমামাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক মহিলা তার দু’টি সন্তানসহ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আসে। সে একটি সন্তানকে কোলে এবং অপরটিকে হাতে ধরে নিয়ে আসে। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ গর্ভধারিনী (বহনকারিণী), সন্তান জন্মদানকারিণী এবং মমতাময়ী বা তারা তাদের স্বামীদের কষ্ট না দিলে তাদের মধ্যে যারা সালাতী তারা জান্নাতে যাবে।
+। আবূ উমামাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক মহিলা তার দু’টি সন্তানসহ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আসে। সে একটি সন্তানকে কোলে এবং অপরটিকে হাতে ধরে নিয়ে আসে। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ গর্ভধারিনী (বহনকারিণী), সন্তান জন্মদানকারিণী এবং মমতাময়ী বা তারা তাদের স্বামীদের কষ্ট না দিলে তাদের মধ্যে যারা সালাতী তারা জান্নাতে যাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2013</td></tr><tr><td>Arabic No</td><td>2013</td></tr><tr><td>Reference</td><td>Book 9 Hadith 169</td></tr></tbody></table></div>
 

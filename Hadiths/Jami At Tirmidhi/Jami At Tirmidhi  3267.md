@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৬৭। আল-বারাআ ইবনু আযিব (রাযিঃ) হতে বর্ণিত আছে, “যারা আপনাকে উচ্চস্বরে ঘরের বাইরে হতে ডাকে, তাদের বেশির ভাগই নির্বোধ"- (সূরা ফাত্হ ৪)। বর্ণনাকারী বলেন, জনৈক ব্যক্তি দাঁড়িয়ে বলল, হে আল্লাহর রাসূল! আমার প্রসঙ্গে প্রশংসা হল সৌন্দর্য এবং আমার প্রসঙ্গে নিন্দা হল অপমান। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এ মর্যাদা শুধুমাত্র মহান আল্লাহ তা'আলার। সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
+। আল-বারাআ ইবনু আযিব (রাযিঃ) হতে বর্ণিত আছে, “যারা আপনাকে উচ্চস্বরে ঘরের বাইরে হতে ডাকে, তাদের বেশির ভাগই নির্বোধ"- (সূরা ফাত্হ ৪)। বর্ণনাকারী বলেন, জনৈক ব্যক্তি দাঁড়িয়ে বলল, হে আল্লাহর রাসূল! আমার প্রসঙ্গে প্রশংসা হল সৌন্দর্য এবং আমার প্রসঙ্গে নিন্দা হল অপমান। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এ মর্যাদা শুধুমাত্র মহান আল্লাহ তা'আলার। সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3267</td></tr><tr><td>Arabic No</td><td>3267</td></tr><tr><td>Reference</td><td>Book 47 Hadith 319</td></tr></tbody></table></div>
 

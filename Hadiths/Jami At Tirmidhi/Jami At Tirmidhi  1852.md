@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮৫২। আবূ উসাইদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা যাইতুনের তেল খাও এবং তা শরীরে মালিশ কর। কেননা এটি একটি কল্যাণময় গাছের তেল। পূর্বের হাদীসের সহায়তায় সহীহ এ হাদীসটিকে আবূ ঈসা উল্লেখিত সনদসূত্রে গারীব বলেছেন। আমরা এ হাদীসটি শুধু সুফিয়ান সাওরী হতে আবদুল্লাহ ইবনু ঈসার সূত্রে জেনেছি।
+। আবূ উসাইদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা যাইতুনের তেল খাও এবং তা শরীরে মালিশ কর। কেননা এটি একটি কল্যাণময় গাছের তেল। পূর্বের হাদীসের সহায়তায় সহীহ এ হাদীসটিকে আবূ ঈসা উল্লেখিত সনদসূত্রে গারীব বলেছেন। আমরা এ হাদীসটি শুধু সুফিয়ান সাওরী হতে আবদুল্লাহ ইবনু ঈসার সূত্রে জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1852</td></tr><tr><td>Arabic No</td><td>1852</td></tr><tr><td>Reference</td><td>Book 25 Hadith 69</td></tr></tbody></table></div>
 

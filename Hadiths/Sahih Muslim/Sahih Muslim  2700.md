@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৫৯০, আন্তর্জাতিক নাম্বারঃ ১১৪৯ ২৫৯০-(.../...) ইসহাক ইবনু মানসূর (রহঃ) ..... সুফইয়ান থেকে এ সূত্রে উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। তবে এ সূত্রে দু’ মাসের সিয়ামের কথা উল্লেখ রয়েছে। (ইসলামিক ফাউন্ডেশন ২৫৬৭, ইসলামীক সেন্টার ২৫৬৬)
+ইসহাক ইবনু মানসূর (রহঃ) ..... সুফইয়ান থেকে এ সূত্রে উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। তবে এ সূত্রে দু’ মাসের সিয়ামের কথা উল্লেখ রয়েছে। (ইসলামিক ফাউন্ডেশন ২৫৬৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2700</td></tr><tr><td>Arabic No</td><td>1149.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 206</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, এক লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বলল, কেউ যুদ্ধ করে মর্যাদার জন্য, কেউ বীরত্বের জন্য, কেউ লোক দেখানোর জন্য। এদের কার যুদ্ধটা আল্লাহর পথে হচ্ছে? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যে লোক আল্লাহর বাণীকে উর্দ্ধে তুলে ধরার জন্য যুদ্ধ করে, সেটাই আল্লাহর পথে। [১২৩] (আধুনিক প্রকাশনী- ৬৯৪০, ইসলামিক ফাউন্ডেশন- ৬৯৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, এক লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বলল, কেউ যুদ্ধ করে মর্যাদার জন্য, কেউ বীরত্বের জন্য, কেউ লোক দেখানোর জন্য। এদের কার যুদ্ধটা আল্লাহর পথে হচ্ছে? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যে লোক আল্লাহর বাণীকে উর্দ্ধে তুলে ধরার জন্য যুদ্ধ করে, সেটাই আল্লাহর পথে। [১২৩] (আধুনিক প্রকাশনী- ৬৯৪০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7458</td></tr><tr><td>Arabic No</td><td>7458</td></tr><tr><td>Reference</td><td>Book 97 Hadith 84</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Musa:A man came to the Prophet (ﷺ) and said, "A man fights for pride and haughtiness another fights for bravery, and another fights for showing off; which of these (cases) is in Allah's Cause?" The Prophet (ﷺ) said, "The one who fights that Allah's Word (Islam) should be superior, fights in Allah's Cause." (See Hadith No. 65, Vol. 4)
+Narrated Abu Musa:A man came to the Prophet (ﷺ) and said, "A man fights for pride and haughtiness another fights for bravery, and another fights for showing off; which of these (cases) is in Allah's Cause?" The Prophet (ﷺ) said, "The one who fights that Allah's Word (Islam) should be superior, fights in Allah's Cause." (See Hadith No. 65, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7458</td></tr><tr><td>Arabic No</td><td>7458</td></tr><tr><td>Reference</td><td>Book 97 Hadith 84</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் ஒரு மனிதர் வந்து, “அல்லாஹ்வின் தூதரே! ஒரு மனிதர் இன மாச்சரியத்திற்காகப் போரிடுகிறார். ஒருவர் வீரத்தை வெளிக்காட்டப் போரிடுகிறார். இன்னொருவர் பிறருக்குக் காட்டிக்கொள்வதற்காகப் போரிடுகிறார். இவர்களில் இறைவழியில் போரிடுகின்றவர் யார்?” என்று கேட்டார். நபி (ஸல்) அவர்கள், “எவர் அல்லாஹ்வின் வாக்கே மேலோங்கியதாய் இருக்க வேண்டும் என்பதற்காகப் போரிடுகிறாரோ அவர்தான் அல்லாஹ்வின் பாதையில் போரிடுபவர் ஆவார்” என்று பதிலளித்தார்கள்.98 அத்தியாயம் : 97
+அபூமூசா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் ஒரு மனிதர் வந்து, “அல்லாஹ்வின் தூதரே! ஒரு மனிதர் இன மாச்சரியத்திற்காகப் போரிடுகிறார். ஒருவர் வீரத்தை வெளிக்காட்டப் போரிடுகிறார். இன்னொருவர் பிறருக்குக் காட்டிக்கொள்வதற்காகப் போரிடுகிறார். இவர்களில் இறைவழியில் போரிடுகின்றவர் யார்?” என்று கேட்டார். நபி (ஸல்) அவர்கள், “எவர் அல்லாஹ்வின் வாக்கே மேலோங்கியதாய் இருக்க வேண்டும் என்பதற்காகப் போரிடுகிறாரோ அவர்தான் அல்லாஹ்வின் பாதையில் போரிடுபவர் ஆவார்” என்று பதிலளித்தார்கள்.98 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7458</td></tr><tr><td>Arabic No</td><td>7458</td></tr><tr><td>Reference</td><td>Book 97 Hadith 84</td></tr></tbody></table></div>
 

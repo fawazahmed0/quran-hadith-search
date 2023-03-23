@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৪৫৫, আন্তর্জাতিক নাম্বারঃ ৬৮৫ ১৪৫৫-(১/৬৮৫) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, বাড়ীতে কিংবা সফরে যে কোন অবস্থায় প্রথমে সালাত দু' দু' রাকাআত করে ফারয করা হয়েছিল। পরবর্তী সময়ে সফরের সালাত দু' রাকাআত ঠিক রাখা হলেও বাড়ীতে অবস্থানকালীন সালাতের রাকাআত সংখ্যা বৃদ্ধি করে দেয়া হয়েছে। (ইসলামী ফাউন্ডেশন ১৪৪০, ইসলামীক সেন্টার ১৪৫০)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>685.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 1</td></tr></tbody></table></div>
 

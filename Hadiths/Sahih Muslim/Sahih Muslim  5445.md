@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩৩৮, আন্তর্জাতিক নাম্বারঃ ২০৮১ ৫৩৩৮-(৩৬/২০৮১) সুরায়জ ইবনু ইউনুস, ইবরাহীম ইবনু মূসা ও আহমাদ ইবনু হাম্বাল (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (ঘর থেকে) একটি চাদর শরীরে জড়িয়ে বের হয়েছিলেন- যার মধ্যে কালো পশম দ্বারা উটের হাওদার আবৃত নকশা অঙ্কিত ছিল। (ইসলামিক ফাউন্ডেশন ৫২৭১, ইসলামিক সেন্টার ৫২৮৪)
+সুরায়জ ইবনু ইউনুস, ইবরাহীম ইবনু মূসা ও আহমাদ ইবনু হাম্বাল (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (ঘর থেকে) একটি চাদর শরীরে জড়িয়ে বের হয়েছিলেন- যার মধ্যে কালো পশম দ্বারা উটের হাওদার আবৃত নকশা অঙ্কিত ছিল। (ইসলামিক ফাউন্ডেশন ৫২৭১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5445</td></tr><tr><td>Arabic No</td><td>2081</td></tr><tr><td>Reference</td><td>Book 37 Hadith 60</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepadaku [Suraij bin Yunus]; Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ஒரு நாள் காலை நபி (ஸல்) அவர்கள், கோடுபோட்ட கறுப்பு முடியாலான ஆடை அணிந்து வெளியே புறப்பட்டார்கள்.இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 37
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ஒரு நாள் காலை நபி (ஸல்) அவர்கள், கோடுபோட்ட கறுப்பு முடியாலான ஆடை அணிந்து வெளியே புறப்பட்டார்கள்.இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5445</td></tr><tr><td>Arabic No</td><td>2081</td></tr><tr><td>Reference</td><td>Book 37 Hadith 60</td></tr></tbody></table></div>
 

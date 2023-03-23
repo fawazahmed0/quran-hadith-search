@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পরিবারবর্গ একদিনে দু’বেলা খানা খেয়ে একবেলা শুধু খুর্মা খেয়েই কাটিয়ে দিতেন। [(আধুনিক প্রকাশনী- ৬০০৫, ইসলামিক ফাউন্ডেশন- ৬০১১]
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পরিবারবর্গ একদিনে দু’বেলা খানা খেয়ে একবেলা শুধু খুর্মা খেয়েই কাটিয়ে দিতেন। [(আধুনিক প্রকাশনী- ৬০০৫, ইসলামিক ফাউন্ডেশন]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6455</td></tr><tr><td>Arabic No</td><td>6455</td></tr><tr><td>Reference</td><td>Book 81 Hadith 44</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq bin Ibrahim bin Abdurrahman] telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: முஹம்மத் (ஸல்) அவர்களின் குடும்பத்தார் ஒரு நாளில் இரண்டு முறை உணவு உண்டால் அதில் ஒன்று (வெறும்) பேரீச்சம்பழமாகவே இருக்கும். அத்தியாயம் : 81
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: முஹம்மத் (ஸல்) அவர்களின் குடும்பத்தார் ஒரு நாளில் இரண்டு முறை உணவு உண்டால் அதில் ஒன்று (வெறும்) பேரீச்சம்பழமாகவே இருக்கும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6455</td></tr><tr><td>Arabic No</td><td>6455</td></tr><tr><td>Reference</td><td>Book 81 Hadith 44</td></tr></tbody></table></div>
 

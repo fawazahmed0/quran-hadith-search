@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কোন মুকাতিব গোলাম শাস্তিযোগ্য কোন কাজ করবে অথবা কোন সম্পদের মালিক হবে, তখন তার যত অংশ আযাদ হবে, তত অংশের মালিক হবে।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মুকাতাব গোলাম হাদ্দ এর অপরাধে অভিযুক্ত হলে বা মৃতের ওয়ারিস হলে সে তার মুক্ত হওয়ার অংশের অংশীদার হবে। ইমাম আবূ দাঊদ (রহঃ) বলেন, এ হাদীসটি উহাইদ (রহঃ) আইয়ূব থেকে, তিনি ইকরিমাহ থেকে তিনি আলী থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে বর্ণনা করেছেন। অন্য দিকে হাম্মাদ ইবনু যায়িদ ও ইসমাঈল (রহঃ) আইয়ূব থেকে তিনি ইকরিমাহ থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে মুরসালভাবে বর্ণনা করেছেন। ইসমাঈল ইবনু উলাইয়াহ এটিকে ইকরিমাহ (রহঃ)-এর বক্তব্যে গণ্য করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4582</td></tr><tr><td>Arabic No</td><td>4582</td></tr><tr><td>Reference</td><td>Book 41 Hadith 89</td></tr></tbody></table></div>
 

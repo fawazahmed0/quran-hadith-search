@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন ইয়াহইয়া ইবন হারিস (রহঃ) ... মুতাররিফ (রহঃ) থেকে বর্ণিত। তিনি বলেন, শা'বী (রহঃ) এর নিকট রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অংশ এবং তাঁর সফী সম্বন্ধে প্রশ্ন করা হলে তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অংশ তো ছিল একজন মুসলিম-এর অংশের সমান। আর ‘সফীর অংশ হিসেবে তার যা ইচ্ছা তা নেয়ার ইখতিয়ার ছিল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mursal</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mursal</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4145</td></tr><tr><td>Arabic No</td><td>4145</td></tr><tr><td>Reference</td><td>Book 38 Hadith 13</td></tr></tbody></table></div>
 

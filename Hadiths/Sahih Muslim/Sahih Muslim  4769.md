@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬৬৩, আন্তর্জাতিক নাম্বারঃ ১৭০৯ ৪৬৬৩-(.../...) ইবনু নুমায়র (রহঃ) ..... উবাদাহ্ ইবনু ওয়ালীদের হাদীসটি বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬১৭, ইসলামিক সেন্টার ৪৬১৮)
+ইবনু নুমায়র (রহঃ) ..... উবাদাহ্ ইবনু ওয়ালীদের হাদীসটি বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬১৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4769</td></tr><tr><td>Arabic No</td><td>1709.06</td></tr><tr><td>Reference</td><td>Book 33 Hadith 67</td></tr></tbody></table></div>
 

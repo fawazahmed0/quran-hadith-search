@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০৭১। আবূ সাঈদ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহ তা'আলার বাণী “অথবা তোমার প্রতিপালকের কোন নিদর্শন আসবে” (সূরা আন’আম ১৫৮) প্রসঙ্গে বলেন, তা হচ্ছে পশ্চিম দিগন্ত হতে সূর্যোদয়। সহীহঃ মুসলিম (১/৯৫), আবূ হুরাইরাহ হতে আরো পূর্ণাঙ্গ রূপে। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। কেউ কেউ এটিকে বর্ণনা করেছেন তবে তা মারফু' হিসেবে নয়।
+। আবূ সাঈদ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহ তা'আলার বাণী “অথবা তোমার প্রতিপালকের কোন নিদর্শন আসবে” (সূরা আন’আম ১৫৮) প্রসঙ্গে বলেন, তা হচ্ছে পশ্চিম দিগন্ত হতে সূর্যোদয়। সহীহঃ মুসলিম (১/৯৫), আবূ হুরাইরাহ হতে আরো পূর্ণাঙ্গ রূপে। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। কেউ কেউ এটিকে বর্ণনা করেছেন তবে তা মারফু' হিসেবে নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 47 Hadith 123</td></tr></tbody></table></div>
 

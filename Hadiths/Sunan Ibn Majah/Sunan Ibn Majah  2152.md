@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/২১৫২। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ লোকেদের মধ্যে অধিক মিথ্যাবাদী হলো কাপড়ে রংকারী ও অংলকার নির্মাতারা।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ লোকেদের মধ্যে অধিক মিথ্যাবাদী হলো কাপড়ে রংকারী ও অংলকার নির্মাতারা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mawdu</td><td>Al-Albani</td></tr><tr><td>Mawdu</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Mawdu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2152</td></tr><tr><td>Arabic No</td><td>2152</td></tr><tr><td>Reference</td><td>Book 12 Hadith 16</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:"The most dishonest of people are the dyers and the goldsmiths. "[1]
+It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:"The most dishonest of people are the dyers and the goldsmiths
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mawdu</td><td>Al-Albani</td></tr><tr><td>Mawdu</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Mawdu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2152</td></tr><tr><td>Arabic No</td><td>2152</td></tr><tr><td>Reference</td><td>Book 12 Hadith 16</td></tr></tbody></table></div>
 

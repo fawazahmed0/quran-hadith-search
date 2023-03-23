@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন মাসলামা (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাত আদায় করার পর বলতেনঃ আজ রাতে তোমাদের কেউ স্বপ্ন দেখেছো কি? তিনি আরো বলতেনঃ আমার পরে নবূওয়াতের কোন অংশ বাকী থাকবে না, সত্য স্বপ্ন ছাড়া।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাত শেষে (লোকদের দিকে) মুখ করে বলতেন। আজ রাতে তোমাদের কেউ কোনো স্বপ্ন দেখেছে কি? অতঃপর তিনি বলতেন, আমার পরে কেবল সত্য স্বপ্ন ছাড়া নাবুওয়্যাতের ধারা অবশিষ্ট থাকবে না।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5017</td></tr><tr><td>Arabic No</td><td>5017</td></tr><tr><td>Reference</td><td>Book 43 Hadith 245</td></tr></tbody></table></div>
 

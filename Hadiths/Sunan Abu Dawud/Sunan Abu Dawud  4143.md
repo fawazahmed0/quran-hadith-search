@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... জাবির ইবন সামুরা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ঘরে প্রবেশ করে দেখতে পাই যে, তিনি একটি বালিশে হেলান দিয়ে বসে আছেন। ইবন জাররাহ (রহঃ) বলেনঃ তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর বাম দিকে হেলান দিয়ে বসে ছিলেন। ইমাম আবূ দাউদ (রহঃ) বলেন, ইসহাক ইবন মানসূর (রহঃ) ইসরাঈল (রহঃ) থেকে এরূপ বর্ণনা করেছেন যে, তিনি তার বাম পাশে হেলান দিয়ে বসে ছিলেন।
+। জাবির ইবনু সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঘরে গিয়ে তাঁকে বালিসে বাম কাতে ঠেস দিয়ে বসা দেখেছি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4143</td></tr><tr><td>Arabic No</td><td>4143</td></tr><tr><td>Reference</td><td>Book 34 Hadith 124</td></tr></tbody></table></div>
 

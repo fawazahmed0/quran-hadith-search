@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, لَرَآدُّكَ إِلٰى مَعَادٍ এর অর্থ মক্কার পানে। (আধুনিক প্রকাশনীঃ ৪৪০৯, ইসলামিক ফাউন্ডেশনঃ ৪৪১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, لَرَآدُّكَ إِلٰى مَعَادٍ এর অর্থ মক্কার পানে। (আধুনিক প্রকাশনীঃ ৪৪০৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4773</td></tr><tr><td>Arabic No</td><td>4773</td></tr><tr><td>Reference</td><td>Book 65 Hadith 295</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Muqatil] Telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இக்ரிமா (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள், (28:85ஆவது வசனத்திலுள்ள) ‘நீங்கள் திரும்ப வேண்டிய இடம்’ (மஆத்) என்பது மக்காவைக் குறிக்கிறது என்று கூறினார்கள். அத்தியாயம் : 65
+இக்ரிமா (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள், (28:85ஆவது வசனத்திலுள்ள) ‘நீங்கள் திரும்ப வேண்டிய இடம்’ (மஆத்) என்பது மக்காவைக் குறிக்கிறது என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4773</td></tr><tr><td>Arabic No</td><td>4773</td></tr><tr><td>Reference</td><td>Book 65 Hadith 295</td></tr></tbody></table></div>
 

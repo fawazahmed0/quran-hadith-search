@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ইয়াহইয়া (রহঃ) ..... সুফিয়ান (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ খলীফা পাঁচজনঃ আবূ বকর (রাঃ), উমার (রাঃ), উসমান (রাঃ), আলী (রাঃ) এবং উমার ইবন আবদুল আযীয (রাঃ)।
+। সুফিয়ান সাওরী (রহঃ) বলেন, খলিফাগণের সংখ্যা পাঁচজনঃ আবূ বাকর, উমার, উসমান, আলী ও উমার ইবনুল আব্দুল আযীয (রাঃ)।[1] সনদ যঈফ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
 

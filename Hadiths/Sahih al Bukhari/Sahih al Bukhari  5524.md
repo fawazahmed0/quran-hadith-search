@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ খাইবারের দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গাধার গোশত খেতে নিষেধ করেছেন। তবে ঘোড়ার গোশত খেতে অনুমতি প্রদান করেছেন। [৪২১৯] (আধুনিক প্রকাশনী- ৫১১৮, ইসলামিক ফাউন্ডেশন- ৫০১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ খাইবারের দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গাধার গোশত খেতে নিষেধ করেছেন। তবে ঘোড়ার গোশত খেতে অনুমতি প্রদান করেছেন। [৪২১৯] (আধুনিক প্রকাশনী- ৫১১৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5524</td></tr><tr><td>Arabic No</td><td>5524</td></tr><tr><td>Reference</td><td>Book 72 Hadith 50</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கைபர் போரின் போது (நாட்டுக்) கழுதைகளின் இறைச் சியை உண்ண வேண்டாமென்று தடை செய்தார்கள். குதிரைகளின் இறைச்சியை உண்ண அனுமதியளித்தார்கள்.43 அத்தியாயம் : 72
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கைபர் போரின் போது (நாட்டுக்) கழுதைகளின் இறைச் சியை உண்ண வேண்டாமென்று தடை செய்தார்கள். குதிரைகளின் இறைச்சியை உண்ண அனுமதியளித்தார்கள்.43 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5524</td></tr><tr><td>Arabic No</td><td>5524</td></tr><tr><td>Reference</td><td>Book 72 Hadith 50</td></tr></tbody></table></div>
 

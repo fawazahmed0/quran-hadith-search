@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৯৪৩, আন্তর্জাতিক নাম্বারঃ ৮৮৪ ১৯৪৩-(.../...) 'আমর আন নাকিদ, আবূ বাকর ইবনু নাফি ও মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... তারা শুবাহ (রহঃ) থেকে একই সূত্রে অনুরূপ বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৯২৮, ইসলামীক সেন্টার ১৯৩৫)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2058</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা তাবূকের যুদ্ধ থেকে নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর সঙ্গে প্রত্যাবর্তন করেছি। (২৮৩৯, ৪৪২৩) (আধুনিক প্রকাশনীঃ ২৬২৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2838</td></tr><tr><td>Arabic No</td><td>2838</td></tr><tr><td>Reference</td><td>Book 56 Hadith 54</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ahmad bin Yunus] telah bercerita kepada kami [Zuhai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் தபூக் போரிலிருந்து நபி (ஸல்) அவர்களுடன் திரும்பிவந்தோம்... அத்தியாயம் : 56
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் தபூக் போரிலிருந்து நபி (ஸல்) அவர்களுடன் திரும்பிவந்தோம்... அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2838</td></tr><tr><td>Arabic No</td><td>2838</td></tr><tr><td>Reference</td><td>Book 56 Hadith 54</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Ahmad bin Yunus] telah bercerita kepada kami [Zuhai
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik şöyle dedi: "Biz Resulullah Sallallahu Aleyhi ve Sellem ile birlikte Tebuk savaşından döndük." Tekrar: 2839, 4423
+Enes İbn Malik şöyle dedi: "Biz Resulullah Sallallahu Aleyhi ve Sellem ile birlikte Tebuk savaşından döndük." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2838</td></tr><tr><td>Arabic No</td><td>2838</td></tr><tr><td>Reference</td><td>Book 56 Hadith 54</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৩০৮। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ঋণ পরিশোধ করার ক্ষেত্রে সক্ষম ব্যক্তির টালবাহানা করা অন্যায়। তোমাদের কারো পাওনা পরিশোধ করার জন্য ঋণগ্রস্ত ব্যক্তি কোন সক্ষম ব্যক্তির উপর দায়িত্ব দিলে তা অনুমোদন করা উচিত। সহীহ, ইবনু মা-জাহ (২৪০৩), নাসা-ঈ ইবনু উমার ও আশ-শারীদ (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ঋণ পরিশোধ করার ক্ষেত্রে সক্ষম ব্যক্তির টালবাহানা করা অন্যায়। তোমাদের কারো পাওনা পরিশোধ করার জন্য ঋণগ্রস্ত ব্যক্তি কোন সক্ষম ব্যক্তির উপর দায়িত্ব দিলে তা অনুমোদন করা উচিত। সহীহ, ইবনু মা-জাহ (২৪০৩), নাসা-ঈ ইবনু উমার ও আশ-শারীদ (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1308</td></tr><tr><td>Arabic No</td><td>1308</td></tr><tr><td>Reference</td><td>Book 14 Hadith 111</td></tr></tbody></table></div>
 

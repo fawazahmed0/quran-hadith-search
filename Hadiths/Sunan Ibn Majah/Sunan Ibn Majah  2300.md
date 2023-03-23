@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২৩০০। আবূ সাঈদ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমি গবাদিপশুর পালের নিকট পৌঁছে তার রাখালকে উচ্চৈস্বরে তিনবার ডাক দিবে। সে তোমার ডাকে সাড়া দিলে তো ভালো, অন্যথায় তুমি তার দুধপান করো, ক্ষতিসাধন না করে। আর তুমি কোন ফলের বাগানে পৌঁছে বাগানের মালিককে তিনবার ডাক দিবে। সে তোমার ডাকে সাড়া দিলে তো ভালো, অন্যথায় তুমি ক্ষতি না করে তা থেকে পেড়ে খাও।
+। আবূ সাঈদ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমি গবাদিপশুর পালের নিকট পৌঁছে তার রাখালকে উচ্চৈস্বরে তিনবার ডাক দিবে। সে তোমার ডাকে সাড়া দিলে তো ভালো, অন্যথায় তুমি তার দুধপান করো, ক্ষতিসাধন না করে। আর তুমি কোন ফলের বাগানে পৌঁছে বাগানের মালিককে তিনবার ডাক দিবে। সে তোমার ডাকে সাড়া দিলে তো ভালো, অন্যথায় তুমি ক্ষতি না করে তা থেকে পেড়ে খাও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2300</td></tr><tr><td>Arabic No</td><td>2300</td></tr><tr><td>Reference</td><td>Book 12 Hadith 164</td></tr></tbody></table></div>
 

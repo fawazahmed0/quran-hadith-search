@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্‌ন মুছান্না (রহঃ) .... উম্মু সালামা (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণিত আছে। তবে মুআয (রাঃ)-এর হাদীছ সম্পূর্ণ।
+। উম্মু সালামাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে উপরে বর্ণিত হাদীসের অনুরূপ বর্ণনা করেন। আর মু‘আযের হাদীসটি পরিপূর্ণ।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4288</td></tr><tr><td>Arabic No</td><td>4288</td></tr><tr><td>Reference</td><td>Book 38 Hadith 10</td></tr></tbody></table></div>
 

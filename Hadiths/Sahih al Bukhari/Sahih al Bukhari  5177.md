@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যে ওয়ালীমায় কেবল ধনীদেরকে দাওয়াত করা হয় এবং গরীবদেরকে দাওয়াত করা হয় না সেই ওয়ালীমা সবচেয়ে নিকৃষ্ট। যে ব্যক্তি দাওয়াত কবুল করে না, সে আল্লাহ্ ও তাঁর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে অবাধ্যতা করে। [মুসলিম ১৬/১৪, হাঃ ১৪৩২, আহমাদ ৭২৮৩] (আধুনিক প্রকাশনী- ৪৭৯৬, ইসলামিক ফাউন্ডেশন- ৪৭৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যে ওয়ালীমায় কেবল ধনীদেরকে দাওয়াত করা হয় এবং গরীবদেরকে দাওয়াত করা হয় না সেই ওয়ালীমা সবচেয়ে নিকৃষ্ট। যে ব্যক্তি দাওয়াত কবুল করে না, সে আল্লাহ্ ও তাঁর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে অবাধ্যতা করে। [মুসলিম ১৬/১৪, হাঃ ১৪৩২, আহমাদ ৭২৮৩] (আধুনিক প্রকাশনী- ৪৭৯৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5177</td></tr><tr><td>Arabic No</td><td>5177</td></tr><tr><td>Reference</td><td>Book 67 Hadith 112</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறினார்கள்: ஏழைகளை விட்டுவிட்டு, செல்வந்தர்கள் மட்டுமே அழைக்கப்படும் மணவிருந்து (வலீமா) உணவே உணவுகளில் மிகத் தீயதாகும். விருந்து அழைப்பை ஏற்காதவர் அல்லாஹ்வுக்கும் அவனுடைய தூதருக்கும் மாறு செய்தவர் ஆவார்.113 அத்தியாயம் : 67
+அபூஹுரைரா (ரலி) அவர்கள் கூறினார்கள்: ஏழைகளை விட்டுவிட்டு, செல்வந்தர்கள் மட்டுமே அழைக்கப்படும் மணவிருந்து (வலீமா) உணவே உணவுகளில் மிகத் தீயதாகும். விருந்து அழைப்பை ஏற்காதவர் அல்லாஹ்வுக்கும் அவனுடைய தூதருக்கும் மாறு செய்தவர் ஆவார்.113 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5177</td></tr><tr><td>Arabic No</td><td>5177</td></tr><tr><td>Reference</td><td>Book 67 Hadith 112</td></tr></tbody></table></div>
 

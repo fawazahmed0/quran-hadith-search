@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ مَعْنٌ سَأَلْتُ مَالِكَ بْنَ أَنَسٍ عَنِ الْفُقَّاعِ فَقَالَ إِذَا لَمْ يُسْكِرْ فَلاَ بَأْسَ وَقَالَ ابْنُ الدَّرَاوَرْدِيِّ سَأَلْنَا عَنْه“ فَقَالُوا لاَ يُسْكِرُ لاَ بَأْسَ بِهِ. মা’ন (রহ.) বলেন, আমি মালিক ইবনু আনাসকে ‘ফুক্কা’ সম্বন্ধে জিজ্ঞেস করেছি। তিনি বলেছেনঃ নেশাগ্রস্ত না করলে তাতে কোন ক্ষতি নেই। ইবনু দারাওয়ারদী বলেন, আমরা এ সম্পর্কে অনেককে জিজ্ঞেস করেছি, তারা বলেছেন, নেশাগ্রস্ত না করলে তাতে আপত্তি নেই। ৫৫৮৫. ‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ‘বিতা’ সম্পর্কে জিজ্ঞেস করা হয়েছিল। তিনি বললেনঃ সর্বপ্রকার নেশা জাতীয় পানীয় হারাম। [২৪২] (আধুনিক প্রকাশনী- ৫১৭৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5585</td></tr><tr><td>Arabic No</td><td>5585</td></tr><tr><td>Reference</td><td>Book 74 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ‘பித்உ’ (தேனிலிருந்து தயாரிக் கப்படும் மது) பற்றிக் கேட்கப்பட்டது. அதற்கு அவர்கள், ‘‘போதை தரும் பானம் ஒவ்வொன்றும் தடை செய்யப்பட்டதாகும்” என்று பதிலளித்தார்கள்.11 அத்தியாயம் : 74
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ‘பித்உ’ (தேனிலிருந்து தயாரிக் கப்படும் மது) பற்றிக் கேட்கப்பட்டது. அதற்கு அவர்கள், ‘‘போதை தரும் பானம் ஒவ்வொன்றும் தடை செய்யப்பட்டதாகும்” என்று பதிலளித்தார்கள்.11 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5585</td></tr><tr><td>Arabic No</td><td>5585</td></tr><tr><td>Reference</td><td>Book 74 Hadith 11</td></tr></tbody></table></div>
 

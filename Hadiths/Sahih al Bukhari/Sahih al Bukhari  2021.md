@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তা (লাইলাতুল কদর [ক্বদর]) রমাযানের শেষ দশকে অনুসন্ধান কর। লাইলাতুল কদর [ক্বদর] (শেষ দিক হতে গণনায়) নবম, সপ্তম বা পঞ্চম রাত অবশিষ্ট থাকে। (২০২২) (আধুনিক প্রকাশনীঃ ১৮৭৮, ইসলামিক ফাউন্ডেশনঃ ১৮৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তা (লাইলাতুল কদর [ক্বদর]) রমাযানের শেষ দশকে অনুসন্ধান কর। লাইলাতুল কদর [ক্বদর] (শেষ দিক হতে গণনায়) নবম, সপ্তম বা পঞ্চম রাত অবশিষ্ট থাকে। (২০২২) (আধুনিক প্রকাশনীঃ ১৮৭৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2021</td></tr><tr><td>Arabic No</td><td>2021</td></tr><tr><td>Reference</td><td>Book 32 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: ரமளானின் இறுதிப் பத்து நாட்களில் லைலத்துல் கத்ரை தேடிக்கொள்ளுங்கள்! (அதாவது) ‘‘லைலத்துல் கத்ரை இருபத் தொன்றாவது இரவில், இருபத்து மூன்றாவது இரவில், இருபத்து ஐந்தாவது இரவில் தேடிக்கொள்ளுங்கள்!” இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 32
+நபி (ஸல்) அவர்கள்கூறினார்கள்: ரமளானின் இறுதிப் பத்து நாட்களில் லைலத்துல் கத்ரை தேடிக்கொள்ளுங்கள்! (அதாவது) ‘‘லைலத்துல் கத்ரை இருபத் தொன்றாவது இரவில், இருபத்து மூன்றாவது இரவில், இருபத்து ஐந்தாவது இரவில் தேடிக்கொள்ளுங்கள்!” இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2021</td></tr><tr><td>Arabic No</td><td>2021</td></tr><tr><td>Reference</td><td>Book 32 Hadith 8</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a., Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini söylemiştir: "Kadir gecesini Ramazanın son on gününde; dokuz gün kaldığında, yedi gün kaldığında ve beş gün kaldığında araştırın". Tekrar: 2022
+İbn Abbas r.a., Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini söylemiştir: "Kadir gecesini Ramazanın son on gününde; dokuz gün kaldığında, yedi gün kaldığında ve beş gün kaldığında araştırın". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2021</td></tr><tr><td>Arabic No</td><td>2021</td></tr><tr><td>Reference</td><td>Book 32 Hadith 8</td></tr></tbody></table></div>
 

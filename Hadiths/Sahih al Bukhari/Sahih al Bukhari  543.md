@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদিনা্য় অবস্থানকালে (একবার) যুহর ও ‘আসরের আট রাক‘আত এবং মাগরিব ও ‘ইশার সাত রাক‘আত একত্রে মিলিত আদায় করেন। আইয়ূব (রহ.) বলেন, সম্ভবত এটা বৃষ্টির রাতে হয়েছিল। জাবির (রহ.) বললেন, সম্ভবত তাই।* (৫৬২, ১১৭৪) (আধুনিক প্রকাশনীঃ ৫১০, ইসলামিক ফাউন্ডেশনঃ ৫১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদিনা্য় অবস্থানকালে (একবার) যুহর ও ‘আসরের আট রাক‘আত এবং মাগরিব ও ‘ইশার সাত রাক‘আত একত্রে মিলিত আদায় করেন। আইয়ূব (রহ.) বলেন, সম্ভবত এটা বৃষ্টির রাতে হয়েছিল। জাবির (রহ.) বললেন, সম্ভবত তাই।* (৫৬২, ১১৭৪) (আধুনিক প্রকাশনীঃ ৫১০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>543</td></tr><tr><td>Arabic No</td><td>543</td></tr><tr><td>Reference</td><td>Book 9 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu AN Nu'man] berkata, telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மதீனாவில் லுஹ்ரையும் அஸ்ரையும் (சேர்த்து) எட்டு ரக்அத்களாகவும் மஃக்ரிபையும் இஷா வையும் (சேர்த்து) ஏழு ரக்அத்களாகவும் தொழு(வித்)தார்கள். இதன் அறிவிப்பாளரான ஜாபிர் பின் ஸைத் (ரஹ்) அவர்களிடம் அய்யூப் அஸ் ஸக்தியானீ (ரஹ்) அவர்கள், “இ(வ்வாறு சேர்த்துத் தொழுத)து மழைக் காலத்தில் நடந்திருக்கலாமோ?” என்று கேட்டார்கள். அதற்கு ஜாபிர் (ரஹ்) அவர்கள் ‘இருக் கலாம்’ என்று பதிலளித்தார்கள். அத்தியாயம் : 9
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மதீனாவில் லுஹ்ரையும் அஸ்ரையும் (சேர்த்து) எட்டு ரக்அத்களாகவும் மஃக்ரிபையும் இஷா வையும் (சேர்த்து) ஏழு ரக்அத்களாகவும் தொழு(வித்)தார்கள். இதன் அறிவிப்பாளரான ஜாபிர் பின் ஸைத் (ரஹ்) அவர்களிடம் அய்யூப் அஸ் ஸக்தியானீ (ரஹ்) அவர்கள், “இ(வ்வாறு சேர்த்துத் தொழுத)து மழைக் காலத்தில் நடந்திருக்கலாமோ?” என்று கேட்டார்கள். அதற்கு ஜாபிர் (ரஹ்) அவர்கள் ‘இருக் கலாம்’ என்று பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>543</td></tr><tr><td>Arabic No</td><td>543</td></tr><tr><td>Reference</td><td>Book 9 Hadith 20</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu AN Nu'man] berkata, telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbâs'tan şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem Medine'de öğle İle ikindi namazını birlikte sekiz rekat, akşam ile yatsı namazını da yedi rekat olarak kıldırmıştır." Ravilerden Eyyub kendisinden önceki râvî Câbir'e Bu olay yağmurlu bir gecede vaki olmuş olabilir mi?' diye sormuş, o da 'Muhtemelen' diye cevap vermiştir. Tekrar: 562, 1174
+İbn Abbâs'tan şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem Medine'de öğle İle ikindi namazını birlikte sekiz rekat, akşam ile yatsı namazını da yedi rekat olarak kıldırmıştır." Ravilerden Eyyub kendisinden önceki râvî Câbir'e Bu olay yağmurlu bir gecede vaki olmuş olabilir mi?' diye sormuş, o da 'Muhtemelen' diye cevap vermiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>543</td></tr><tr><td>Arabic No</td><td>543</td></tr><tr><td>Reference</td><td>Book 9 Hadith 20</td></tr></tbody></table></div>
 

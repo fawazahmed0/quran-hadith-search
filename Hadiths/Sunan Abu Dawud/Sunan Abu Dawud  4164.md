@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ওবায়দুল্লাহ ইবন উমার (রাঃ) .... কারীমা বিনতে হাম্মাম (রহঃ) থেকে বর্নিত যে, একদিন জনৈক মহিলা আয়েশা (রাঃ)-এর নিকট মেহেদির খিযাক সম্পর্কে জিজ্ঞেস করেন। তিনি বলেন, এত কোন দোষ নেই। তবে আমি তা অপছন্দ করি। কেননা আমার প্রিয় রাসুল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর গন্ধকে অপছন্দ করতেন।
+। ইয়াহইয়া ইবনু আবূ কাসির (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, কারীমাহ বিনুত হাম্মাম (রহঃ) আমাকে বর্ণনা করেন যে, এক মহিলা মেহেদীর খেযাব লাগানো সম্পর্কে আয়িশাহ (রাঃ)-কে জিজ্ঞেস করলে তিনি বলেন, এটা ব্যবহারে কোনো দোষ নেই; তবে আমি তা অপছন্দ করি। কারণ আমার প্রিয় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এটির গন্ধ অপছন্দ করতেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, অর্থাৎ মাথার চুলের খেযাব।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4164</td></tr><tr><td>Arabic No</td><td>4164</td></tr><tr><td>Reference</td><td>Book 35 Hadith 6</td></tr></tbody></table></div>
 

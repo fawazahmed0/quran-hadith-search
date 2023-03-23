@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+অতঃপর আমরা উম্মু সালামাহ (রাযি.)-এর নিকট গেলাম। তিনিও অনুরূপ কথাই বললেন। (১৯২৬) (আধুনিক প্রকাশনীঃ ১৭৯২, ইসলামিক ফাউন্ডেশনঃ ১৮০৫ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada saya [Malik] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூபக்ர் பின் அப்திர் ரஹ்மான் (ரஹ்) அவர்கள் கூறியதாவது: நானும் என் தந்தையும் ஆயிஷா (ரலி) அவர்களிடம் சென்றோம்; ஆயிஷா (ரலி) அவர்கள், ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் உறக்க ஸ்கலிதம் ஏற்படாமல், தாம்பத்திய உறவில் ஈடுபட்டு, குளியல் கடமையானவர்களாக சுப்ஹு நேரத்தை அடைவார்கள்; பின்னர் நோன்பைத் தொடர்வார்கள்” என்று கூறினார்கள். பிறகு, உம்மு சலமா (ரலி) அவர்களிடம் நாங்கள் சென்றபோது அவர்களும் அவ்வாறே கூறினார்கள். அத்தியாயம் : 30
+அபூபக்ர் பின் அப்திர் ரஹ்மான் (ரஹ்) அவர்கள் கூறியதாவது: நானும் என் தந்தையும் ஆயிஷா (ரலி) அவர்களிடம் சென்றோம்; ஆயிஷா (ரலி) அவர்கள், ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் உறக்க ஸ்கலிதம் ஏற்படாமல், தாம்பத்திய உறவில் ஈடுபட்டு, குளியல் கடமையானவர்களாக சுப்ஹு நேரத்தை அடைவார்கள்; பின்னர் நோன்பைத் தொடர்வார்கள்” என்று கூறினார்கள். பிறகு, உம்மு சலமா (ரலி) அவர்களிடம் நாங்கள் சென்றபோது அவர்களும் அவ்வாறே கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

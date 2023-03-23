@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, মহামারীতে মৃত্যু হওয়া প্রতিটি মুসলিমের জন্য শাহাদাত। (৫৭৩২) (মুসলিম ৩৩/৫১ হাঃ ১৯১৬, আহমাদ ১২৫২১) (আধুনিক প্রকাশনীঃ ২৬২০, ইসলামিক ফাউন্ডেশনঃ ২৬৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, মহামারীতে মৃত্যু হওয়া প্রতিটি মুসলিমের জন্য শাহাদাত। (৫৭৩২) (মুসলিম ৩৩/৫১ হাঃ ১৯১৬, আহমাদ ১২৫২১) (আধুনিক প্রকাশনীঃ ২৬২০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2830</td></tr><tr><td>Arabic No</td><td>2830</td></tr><tr><td>Reference</td><td>Book 56 Hadith 46</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Bisyir bin Muhammad] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: கொள்ளை நோயால் இறக்கின்ற ஒவ்வொரு முஸ்லிமுக்கும் அது வீர மரணமாகும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 56
+நபி (ஸல்) அவர்கள்கூறினார்கள்: கொள்ளை நோயால் இறக்கின்ற ஒவ்வொரு முஸ்லிமுக்கும் அது வீர மரணமாகும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2830</td></tr><tr><td>Arabic No</td><td>2830</td></tr><tr><td>Reference</td><td>Book 56 Hadith 46</td></tr></tbody></table></div>
 

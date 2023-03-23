@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন উছমান (রহঃ) ..... উবাদা ইবন সামিত (রাঃ) এরূপ বর্ণনা করেছেন। কিন্তু আগের হাদীছটি সম্পূর্ণ। (এ হাদীছে তিনি বলেনঃ) তখন আমি বলিঃ ইয়া রাসূলাল্লাহ! এ সম্পর্কে আপনার অভিমত কি? তখন তিনি বলেনঃ এতো অংগার, যা তুমি তোমার দুটি কাঁধে ঝুলিয়েছ
+। উবাদাহ ইবনুস সামিত (রাঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। তবে প্রথম হাদীসটি পূর্ণাঙ্গ। এ বর্ণনায় রয়েছেঃ আমি জিজ্ঞেস করি, হে আল্লাহর রাসূল! এ বিষয়ে আপনি কি বলেন? তিনি বললেনঃ এটাতো জ্বলন্ত অংগার, যা তুমি তোমার দু’ কাঁধে ঝুলিয়েছ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3417</td></tr><tr><td>Arabic No</td><td>3417</td></tr><tr><td>Reference</td><td>Book 24 Hadith 2</td></tr></tbody></table></div>
 

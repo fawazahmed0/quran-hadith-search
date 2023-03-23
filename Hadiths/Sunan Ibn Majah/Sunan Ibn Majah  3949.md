@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩৯৪৯। ফাসীলা নাম্নী এক সিরীয় মহিলা বলেন, আমি আমার পিতাকে বলতে শুনেছি, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট জিজ্ঞাসা করলাম, হে আল্লাহর রাসূল! নিজ গোত্রের প্রতি ভালোবাসা কি গোত্রেবাদের অন্তর্ভুক্ত? তিনি বলেনঃ না। তবে নিজ গোত্রকে অন্যের উপর অত্যাচারে সহায়তা করা গোত্রবাদের অন্তর্ভুক্ত।
+। ফাসীলা নাম্নী এক সিরীয় মহিলা বলেন, আমি আমার পিতাকে বলতে শুনেছি, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট জিজ্ঞাসা করলাম, হে আল্লাহর রাসূল! নিজ গোত্রের প্রতি ভালোবাসা কি গোত্রেবাদের অন্তর্ভুক্ত? তিনি বলেনঃ না। তবে নিজ গোত্রকে অন্যের উপর অত্যাচারে সহায়তা করা গোত্রবাদের অন্তর্ভুক্ত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3949</td></tr><tr><td>Arabic No</td><td>3949</td></tr><tr><td>Reference</td><td>Book 36 Hadith 24</td></tr></tbody></table></div>
 

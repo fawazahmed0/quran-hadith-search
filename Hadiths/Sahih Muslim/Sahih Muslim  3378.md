@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩২৬৯, আন্তর্জাতিক নাম্বারঃ ১৩৯৪ ৩২৬৯-(.../...) যুহায়র ইবনু হারব (রহঃ) ..... ইয়াহইয়া ইবনু সাঈদ (রহঃ) থেকে এ সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে (ইসলামিক ফাউন্ডেশন ৩২৪৪, ইসলামীক সেন্টার ৩২৪১)
+যুহায়র ইবনু হারব (রহঃ) ..... ইয়াহইয়া ইবনু সাঈদ (রহঃ) থেকে এ সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে (ইসলামিক ফাউন্ডেশন ৩২৪৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3378</td></tr><tr><td>Arabic No</td><td>1394.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 582</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা একব্যক্তি বাতাসকে লা'নত করে। ইমাম মুসলিম (রহঃ)-এর বর্ণনায় আছেঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যামানায় কোন এক ব্যক্তির চাদর বাতাসে উড়িয়ে নিলে, সে ব্যক্তি বাতাসের উপর লা'নত করে। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ বাতাসকে লা'নত করো না, কেননা বাতাস তো (আল্লাহ্‌র পক্ষ থেকে) নির্দেশিত। আর যে ব্যক্তি এমন কিছুর উপর লা'নত করে, যা লা'নতের উপযোগী নয়, এমতাবস্থায় তা তার উপর এসে বর্তায়।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। এক ব্যক্তি বাতাসকে অভিশাপ দিলো। মুসলিমের বর্ণনায় রয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে এক ব্যক্তির চাদর বাতাসে ওলটপালট হয়ে গেলে সে বাতাসকে অভিশাপ দিলো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি বাতাসকে লানত করো না, কেননা সে নির্দেশপ্রাপ্ত। যা অভিশাপযোগ্য নয় কেউ তাকে অভিশাপ দিলে তা অভিশাপকারীর উপরই পতিত হয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>4908</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
 

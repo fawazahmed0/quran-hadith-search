@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَكَانَتْ عَائِشَةُ يَؤُمُّهَا عَبْدُهَا ذَكْوَانُ مِنَ الْمُصْحَفِ وَوَلَدِ الْبَغِيِّ وَالْأَعْرَابِيِّ وَالْغُلَامِ الَّذِي لَمْ يَحْتَلِمْ لِقَوْلِ النَّبِيِّ صلى الله عليه وسلم يَؤُمُّهُمْ أَقْرَؤُهُمْ لِكِتَابِ اللَّهِ. وَلاَ يَمْنَعُ العَبْدُ مِنَ الْجَمَاعَةِ بِغَيْرِ عِلَّةٍ ‘আয়িশাহ্ (রাযি.)-এর গোলাম যাক্ওয়ান কুরআন দেখে কিরাআত পড়ে ‘আয়িশাহ্ (রাযি.)-এর ইমামাত করতেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তাদের মধ্যে যে আল্লাহর কিতাব সম্বন্ধে অধিক জানে সে তাদের ইমামাত করবে। [ইমাম বুখারী (রহ.) বলেন,] বিনা কারণে গোলামকে জামা‘আতে উপস্থিত হতে বাধা দেয়া যাবে না]। ৬৯২. ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর (মদিনা্য়) আগমনের পূর্বে মুহাজিরগণের প্রথম দল যখন কুবা এলাকার কোন এক স্থানে এলেন, তখন আবূ হুযাইফাহ (রাযি.)-এর আযাদকৃত গোলাম সালিম (রাযি.) তাঁদের ইমামাত করতেন। তাঁদের মধ্যে তিনি কুরআন সম্পর্কে অধিক অভিজ্ঞ ছিলেন। (৭১৭৫) (আধুনিক প্রকাশনীঃ ৬৫১, ইসলামিক ফাউন্ডেশনঃ ৬৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَكَانَتْ عَائِشَةُ يَؤُمُّهَا عَبْدُهَا ذَكْوَانُ مِنَ الْمُصْحَفِ وَوَلَدِ الْبَغِيِّ وَالْأَعْرَابِيِّ وَالْغُلَامِ الَّذِي لَمْ يَحْتَلِمْ لِقَوْلِ النَّبِيِّ صلى الله عليه وسلم يَؤُمُّهُمْ أَقْرَؤُهُمْ لِكِتَابِ اللَّهِ. وَلاَ يَمْنَعُ العَبْدُ مِنَ الْجَمَاعَةِ بِغَيْرِ عِلَّةٍ ‘আয়িশাহ্ (রাযি.)-এর গোলাম যাক্ওয়ান কুরআন দেখে কিরাআত পড়ে ‘আয়িশাহ্ (রাযি.)-এর ইমামাত করতেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তাদের মধ্যে যে আল্লাহর কিতাব সম্বন্ধে অধিক জানে সে তাদের ইমামাত করবে। [ইমাম বুখারী (রহ.) বলেন,] বিনা কারণে গোলামকে জামা‘আতে উপস্থিত হতে বাধা দেয়া যাবে না]। ৬৯২. ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর (মদিনা্য়) আগমনের পূর্বে মুহাজিরগণের প্রথম দল যখন কুবা এলাকার কোন এক স্থানে এলেন, তখন আবূ হুযাইফাহ (রাযি.)-এর আযাদকৃত গোলাম সালিম (রাযি.) তাঁদের ইমামাত করতেন। তাঁদের মধ্যে তিনি কুরআন সম্পর্কে অধিক অভিজ্ঞ ছিলেন। (৭১৭৫) (আধুনিক প্রকাশনীঃ ৬৫১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>692</td></tr><tr><td>Arabic No</td><td>692</td></tr><tr><td>Reference</td><td>Book 10 Hadith 87</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: முதல் கட்டமாக (மதீனாவிற்குப் புலம்பெயர்ந்து வந்த) முஹாஜிர்கள்-குபா பகுதியில் உள்ள- ‘அல்உஸ்பா’ எனும் இடத்திற்கு வந்(து சேர்ந்)தபோது, அங்குள்ள மக்களுக்கு அபூஹுதைஃபா (ரலி) அவர்களின் அடிமையாயிருந்த சா-ம் (ரலி) அவர்களே அவர்களுக்குத் தலைமை தாங்கித் தொழுவித்துக்கொண்டிருந்தார்கள். இது நபி (ஸல்) அவர்கள் புலம்பெயர்ந்து (மதீனாவிற்கு) வருவதற்கு முன்பு நடைபெற்றது. அவர் (சா-ம்) மற்றவர்களைவிடக் குர்ஆனை நன்கு ஓதத் தெரிந்தவராக இருந்தார். அத்தியாயம் : 10
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: முதல் கட்டமாக (மதீனாவிற்குப் புலம்பெயர்ந்து வந்த) முஹாஜிர்கள்-குபா பகுதியில் உள்ள- ‘அல்உஸ்பா’ எனும் இடத்திற்கு வந்(து சேர்ந்)தபோது, அங்குள்ள மக்களுக்கு அபூஹுதைஃபா (ரலி) அவர்களின் அடிமையாயிருந்த சா-ம் (ரலி) அவர்களே அவர்களுக்குத் தலைமை தாங்கித் தொழுவித்துக்கொண்டிருந்தார்கள். இது நபி (ஸல்) அவர்கள் புலம்பெயர்ந்து (மதீனாவிற்கு) வருவதற்கு முன்பு நடைபெற்றது. அவர் (சா-ம்) மற்றவர்களைவிடக் குர்ஆனை நன்கு ஓதத் தெரிந்தவராக இருந்தார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>692</td></tr><tr><td>Arabic No</td><td>692</td></tr><tr><td>Reference</td><td>Book 10 Hadith 87</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer (r.a.)'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem'in hicretinden önce Mekke'den Medine'ye göç eden ilk muhacirler Kuba civarında bir bölge olan Usbe'ye vardıklarında onlara Ebu Huzeyfe'nin kölesi Salim namaz kıldırıyordu. Salim onlar arasında Kur'ân'ı en iyi en fazla ezbere bilen kişi idi. Tekrar: 7175
+İbn Ömer (r.a.)'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem'in hicretinden önce Mekke'den Medine'ye göç eden ilk muhacirler Kuba civarında bir bölge olan Usbe'ye vardıklarında onlara Ebu Huzeyfe'nin kölesi Salim namaz kıldırıyordu. Salim onlar arasında Kur'ân'ı en iyi en fazla ezbere bilen kişi idi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>692</td></tr><tr><td>Arabic No</td><td>692</td></tr><tr><td>Reference</td><td>Book 10 Hadith 87</td></tr></tbody></table></div>
 

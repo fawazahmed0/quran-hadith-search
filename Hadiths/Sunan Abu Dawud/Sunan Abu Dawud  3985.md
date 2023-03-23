@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন আব্দুর রহমান (রহঃ) .... উবায়্যা ইবন কা’আব (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিম্নোক্ত আয়াতঃ قَدْ بَلَغْتَ مِنْ لَدُنِّي এর لَدُنِّي শব্দের নূনকে তাশদীদ সহকারে তিলাওয়াত করতেন।
+। উবাই ইবনু কা‘ব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই আয়াতেরقَدْ بَلَغْتَ مِنْ لَدُنِّي লাদুন্নী শব্দের নূনকে তাশদীদ সহকারে পড়েছেন।[1] দুর্বল
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3985</td></tr><tr><td>Arabic No</td><td>3985</td></tr><tr><td>Reference</td><td>Book 32 Hadith 17</td></tr></tbody></table></div>
 

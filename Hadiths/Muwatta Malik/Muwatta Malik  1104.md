@@ -62,7 +62,7 @@ Yahya related to me from Malik that he had heard that Said ibn al-Musayyab said,
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İmâm-ı Mâlik der ki: Bize göre kesici, öğütücü ve sivri dişlerin diyeti eşittir. Çünkü Resûlüllah (sallallahü aleyhi ve sellem): «Dişin diyeti beş devedir» buyurdu, öğütücü diş de bu dişlerden biridir. Bunlardan bir kısmı diğerine üstün olmaz. Şeybanî, 668
+İmâm-ı Mâlik der ki: Bize göre kesici, öğütücü ve sivri dişlerin diyeti eşittir. Çünkü Resûlüllah (sallallahü aleyhi ve sellem): «Dişin diyeti beş devedir» buyurdu, öğütücü diş de bu dişlerden biridir. Bunlardan bir kısmı diğerine üstün olmaz. Şeybanî
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1104</td></tr><tr><td>Arabic No</td><td>1104</td></tr><tr><td>Reference</td><td>Book 28 Hadith 14</td></tr></tbody></table></div>
 

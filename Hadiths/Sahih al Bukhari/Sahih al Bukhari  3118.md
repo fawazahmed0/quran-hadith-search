@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-খাওলাহ্ আনসারীয়া (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, কিছু লোক আল্লাহর দেয়া সম্পদ অন্যায়ভাবে ব্যয় করে, কিয়ামতের দিন তাদের জন্য জাহান্নাম নির্ধারিত।’ (আধুনিক প্রকাশনীঃ ২৮৮৪, ইসলামিক ফাউন্ডেশনঃ ২৮৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+খাওলাহ্ আনসারীয়া (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, কিছু লোক আল্লাহর দেয়া সম্পদ অন্যায়ভাবে ব্যয় করে, কিয়ামতের দিন তাদের জন্য জাহান্নাম নির্ধারিত।’ (আধুনিক প্রকাশনীঃ ২৮৮৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3118</td></tr><tr><td>Arabic No</td><td>3118</td></tr><tr><td>Reference</td><td>Book 57 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Yazid] telah bercerita kepada kami te
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மனிதர்கள் சிலர் அல்லாஹ்வின் செல்வத்தை நியாயமாகப் பங்கிடாமல் (அநியாயமாகப் பங்கீடு செய்து) கையாள் கிறார்கள். அவர்களுக்கு மறுமை நாளில் நரகமே கிடைக்கும். இதை கவ்லா அல்அன்சாரிய்யா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 57
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மனிதர்கள் சிலர் அல்லாஹ்வின் செல்வத்தை நியாயமாகப் பங்கிடாமல் (அநியாயமாகப் பங்கீடு செய்து) கையாள் கிறார்கள். அவர்களுக்கு மறுமை நாளில் நரகமே கிடைக்கும். இதை கவ்லா அல்அன்சாரிய்யா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3118</td></tr><tr><td>Arabic No</td><td>3118</td></tr><tr><td>Reference</td><td>Book 57 Hadith 27</td></tr></tbody></table></div>
 

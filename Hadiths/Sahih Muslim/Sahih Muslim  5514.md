@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইয়াহইয়া ইবনু ইয়াহইয়া আবূ বাকর ইবনু আবূ শাইবাহ্ আমর আন নাকিদ ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আবূ তালহাহ্ (রাযিঃ)-এর সানাদে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেন, ফেরেশতাগণ সে গৃহে প্রবেশ করেন না, যে গৃহে কোন কুকুর অথবা কোন (প্রাণীর) ছবি থাকে। (ইসলামিক ফাউন্ডেশন ৫৩৩৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5514</td></tr><tr><td>Arabic No</td><td>2106.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 129</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya], [Abu Bakr bin Abu Syaibah], ['
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நாயும் (உயிரினங்களின்) உருவப்படமும் உள்ள வீட்டில் (அருள்) வானவர்கள் நுழையமாட்டார்கள்.-இதை அபூதல்ஹா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 37
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நாயும் (உயிரினங்களின்) உருவப்படமும் உள்ள வீட்டில் (அருள்) வானவர்கள் நுழையமாட்டார்கள்.-இதை அபூதல்ஹா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5514</td></tr><tr><td>Arabic No</td><td>2106.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 129</td></tr></tbody></table></div>
 

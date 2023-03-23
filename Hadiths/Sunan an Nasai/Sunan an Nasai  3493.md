@@ -16,21 +16,21 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم دَخَلَ عَلَىَّ مَسْرُورًا تَبْرُقُ أَسَارِيرُ وَجْهِهِ فَقَالَ ‏ "‏ أَلَمْ تَرَىْ أَنَّ مُجَزِّزًا نَظَرَ إِلَى زَيْدِ بْنِ حَارِثَةَ وَأُسَامَةَ فَقَالَ إِنَّ بَعْضَ هَذِهِ الأَقْدَامِ لَمِنْ بَعْضٍ ‏"‏ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا قتيبة، قال حدثنا الليث، عن ابن شهاب، عن عروة، عن عايشة، قالت ان رسول الله صلى الله عليه وسلم دخل على مسرورا تبرق اسارير وجهه فقال " الم ترى ان مجززا نظر الى زيد بن حارثة واسامة فقال ان بعض هذه الاقدام لمن بعض
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+কুতায়াবা (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামআমার নিকট উপস্থিত হলেন, তখন তাঁর চেহারায় খুশীর চিহ্ন প্ৰস্ফুটিত ছিল। তিনি বললেনঃ তুমি কি জান মুজাযিযিয নাম্নী এক ব্যক্তি যায়দ ইবন হারিসা এবং উসামা (রাঃ)-কে দেখে বললোঃ এই উভয় ব্যক্তির পায়ের গড়নের মধ্যে মিল আছে।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Aishah said:"The Messenger of Allah came to me looking happy and cheerful, and he said: 'Did you not see that Mujazziz looked at Zaid bin Harithah and Usamah and said: These feet belong to one another
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ It was narrated that 'Aishah said:"The Messenger of Allah came to me looking hap
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Qutaibah] ia berkata; telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam menemuiku dalam keadaan senang dan guratan-guratan dahinya bersinar. Kemudian beliau bersabda: "Tidakkah engkau melihat bahwa Mujazziz melihat kepada Zaid bin Haritsah dan Usamah? Kemudian ia berkata; sesungguhnya sebagian telapak-telapak ini mengikuti sebagian yang lain
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengabarkan kepada kami [Qutaibah] ia berkata; telah menceritakan kepada k
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengabarkan kepada kami [Qutaibah] ia berkata; telah menceritakan kepada k
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم میرے پاس خوش خوش آئے، آپ کے چہرے کے خطوط خوشی سے چمک دمک رہے تھے، آپ نے فرمایا: ”ارے تمہیں نہیں معلوم؟ مجزز ( قیافہ شناس ہے ) نے زید بن حارثہ اور اسامہ کو دیکھا تو کہنے لگا: ان کے پیروں کے بعض حصے ایک دوسرے سے ملتے جلتے ہیں“ ۱؎۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 27 Hadith 105</td></tr></tbody></table></div>

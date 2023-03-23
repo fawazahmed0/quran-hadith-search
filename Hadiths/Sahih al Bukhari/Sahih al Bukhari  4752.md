@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(إِذْ تَلَقَّوْنَه” بِأَلْسِنَتِكُمْ وَتَقُوْلُوْنَ بِأَفْوَاهِكُمْ مَّا لَيْسَ لَكُمْ بِهٰعِلْمٌ وَّتَحْسَبُوْنَه” هَيِّنًا - وَّهُوَ عِنْدَ اللهِ عَظِيْمٌ). ‘‘যখন তোমরা মুখে মুখে এ ঘটনা ছড়াচ্ছিলে এবং এমন বিষয় মুখে উচ্চারণ করছিলে যার কোন জ্ঞান তোমাদের ছিল না এবং তোমরা একে তুচ্ছ মনে করেছিলে, যদিও আল্লাহর নিকট এটা ছিল মারাত্মক বিষয়।’’ (সূরাহ নূর ২৪/১৫) ৪৭৫২. ইবনু আবূ মুলাইকাহ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি ‘আয়িশাহ (রাঃ) إِذْ تَلِقُوْنَه بِأَلْسِنَتِكُمْ পড়েছেন। অর্থাৎ (تَلِقُوْنَهُ এর ل এর মধ্যে কাসরা বা যের এবং ق এর উপর যুম্মা বা পেশ দিয়ে পড়েছেন)। [৪১৪৪] (আধুনিক প্রকাশনীঃ ৪৩৯১, ইসলামিক ফাউন্ডেশনঃ ৪৩৯৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(إِذْ تَلَقَّوْنَه” بِأَلْسِنَتِكُمْ وَتَقُوْلُوْنَ بِأَفْوَاهِكُمْ مَّا لَيْسَ لَكُمْ بِهٰعِلْمٌ وَّتَحْسَبُوْنَه” هَيِّنًا - وَّهُوَ عِنْدَ اللهِ عَظِيْمٌ). ‘‘যখন তোমরা মুখে মুখে এ ঘটনা ছড়াচ্ছিলে এবং এমন বিষয় মুখে উচ্চারণ করছিলে যার কোন জ্ঞান তোমাদের ছিল না এবং তোমরা একে তুচ্ছ মনে করেছিলে, যদিও আল্লাহর নিকট এটা ছিল মারাত্মক বিষয়।’’ (সূরাহ নূর ২৪/১৫) ৪৭৫২. ইবনু আবূ মুলাইকাহ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি ‘আয়িশাহ (রাঃ) إِذْ تَلِقُوْنَه بِأَلْسِنَتِكُمْ পড়েছেন। অর্থাৎ (تَلِقُوْنَهُ এর ل এর মধ্যে কাসরা বা যের এবং ق এর উপর যুম্মা বা পেশ দিয়ে পড়েছেন)। [৪১৪৪] (আধুনিক প্রকাশনীঃ ৪৩৯১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4752</td></tr><tr><td>Arabic No</td><td>4752</td></tr><tr><td>Reference</td><td>Book 65 Hadith 274</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn Abi Mulaika:I heard 'Aisha reciting: "When you invented a lie (and carry it) on your tongues." (24.15)
+Narrated Ibn Abi Mulaika:I heard 'Aisha reciting: "When you invented a lie (and carry it) on your tongues
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4752</td></tr><tr><td>Arabic No</td><td>4752</td></tr><tr><td>Reference</td><td>Book 65 Hadith 274</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ibn Abi Mulaika:I heard 'Aisha reciting: "When you invented a lie (and 
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibrahim bin Musa] Telah menceritakan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] Telah mengabarkan kepada mereka. [Ibnu Abu Mulaikah] dia berkata; Aku mendengar [Aisyah] membaca ayat: Ingatlah, di waktu kamu menerima berita bohong itu dari mulut ke mulut. (An Nuur: 15)
+Telah menceritakan kepada kami [Ibrahim bin Musa] Telah menceritakan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] Telah mengabarkan kepada mereka. [Ibnu Abu Mulaikah] dia berkata; Aku mendengar [Aisyah] membaca ayat: Ingatlah, di waktu kamu menerima berita bohong itu dari mulut ke mulut. (An Nuur:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4752</td></tr><tr><td>Arabic No</td><td>4752</td></tr><tr><td>Reference</td><td>Book 65 Hadith 274</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அபீமுளைக்கா (ரஹ்) அவர்கள் கூறியதாவது: (24:15ஆவது வசனத்தின் மூலத்திலுள்ள ‘இஃத் தலக்கவ்னஹு’ (உங்கள் நாவுகளால் பரப்பிக்கொண்டிருந்த நேரத்தை) எனும் பதத்தை) ஆயிஷா (ரலி) அவர்கள் ‘இஃத் தலிகூனஹு’ (நீங்கள் பொய் சொல்லிக்கொண்டிருந்த நேரத்தை) என்று ஓதுவதை நான் செவியுற்றேன்.8 அத்தியாயம் : 65
+இப்னு அபீமுளைக்கா (ரஹ்) அவர்கள் கூறியதாவது: (24:15ஆவது வசனத்தின் மூலத்திலுள்ள ‘இஃத் தலக்கவ்னஹு’ (உங்கள் நாவுகளால் பரப்பிக்கொண்டிருந்த நேரத்தை) எனும் பதத்தை) ஆயிஷா (ரலி) அவர்கள் ‘இஃத் தலிகூனஹு’ (நீங்கள் பொய் சொல்லிக்கொண்டிருந்த நேரத்தை) என்று ஓதுவதை நான் செவியுற்றேன்.8 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4752</td></tr><tr><td>Arabic No</td><td>4752</td></tr><tr><td>Reference</td><td>Book 65 Hadith 274</td></tr></tbody></table></div>
 

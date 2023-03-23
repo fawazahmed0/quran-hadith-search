@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-দাঊদ ইবন রাশীদ (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মারামারিতে লিপ্ত ব্যক্তিদের উচিত, কিসাস গ্রহণ করা থেকে দূরে থাকা। যে অধিক নিকটবর্তী, তার উচিত হত্যাকারীকে ক্ষমা করা; যদিও সে মহিলা হয়। ইমাম আবূ দাঊদ (রহঃ) বলেনঃيَنْحَجِزُوا শব্দের অর্থ কিসাস গ্রহণ থেকে বিরত থাকা।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ বিবাদমান পক্ষবৃন্দ যেন কিসাস গ্রহণ থেকে বিরত থাকে। ঘণিষ্ঠতর ব্যক্তি কিসাস ক্ষমা করবে, অতঃপর পরবর্তী ঘনিষ্ঠতর ব্যক্তি, যদিও সে মহিলা হয়। ইমাম আবূ দাঊদ (রহঃ) বলেন, ‘ইয়ানহাজিযু’ শব্দের অর্থ হলো, তারা কিসাস গ্রহণ থেকে বিরত থাকবে। ইমাম আবূ দাঊদ (রহঃ) বলেন, মহিলাদের জন্যও হত্যাকারীকে ক্ষমা করা বৈধ। যদি তিনি নিহতের ওয়ারিস হন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 41 Hadith 45</td></tr></tbody></table></div>
 

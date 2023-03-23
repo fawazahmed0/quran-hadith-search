@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাত শুরু করতেন, তখন উভয় হাত তাঁর কাঁধ বরাবর উঠাতেন। আর যখন রুকূ‘তে যাওয়ার জন্য তাকবীর বলতেন এবং যখন রুকূ‘ হতে মাথা উঠাতেন তখনও একইভাবে দু’হাত উঠাতেন এবং سَمِعَ اللهُ لِمَنْ حَمِدَهُ رَبَّنَا وَلَكَ الْحَمْدُ বলতেন। কিন্তু সিজদার সময় এমন করতেন না। (৭৩৬, ৭৩৭,৭৩৯ মুসলিম ৪/৯, হাঃ ৩৯০, আহমাদ ৪৫৪০) (আধুনিক প্রকাশনীঃ ৬৯১, ইসলামিক ফাউন্ডেশনঃ ৬৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাত শুরু করতেন, তখন উভয় হাত তাঁর কাঁধ বরাবর উঠাতেন। আর যখন রুকূ‘তে যাওয়ার জন্য তাকবীর বলতেন এবং যখন রুকূ‘ হতে মাথা উঠাতেন তখনও একইভাবে দু’হাত উঠাতেন এবং سَمِعَ اللهُ لِمَنْ حَمِدَهُ رَبَّنَا وَلَكَ الْحَمْدُ বলতেন। কিন্তু সিজদার সময় এমন করতেন না। (৭৩৬, ৭৩৭,৭৩৯ মুসলিম ৪/৯, হাঃ ৩৯০, আহমাদ ৪৫৪০) (আধুনিক প্রকাশনীঃ ৬৯১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>735</td></tr><tr><td>Arabic No</td><td>735</td></tr><tr><td>Reference</td><td>Book 10 Hadith 129</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுகையைத் துவக்கும்போது தம் தோள்களுக்கு நேராகத் கைகளை உயர்த்துவார்கள். ருகூஉவிற்காக ‘தக்பீர்’ கூறும்போதும் ருகூவி-ருந்து தலையை உயர்த்தும்போதும் அவ்வாறே (தோள்களுக்கு நேராக) இரு கைகளையும் மீண்டும் உயர்த்துவார்கள். மேலும் (ருகூவி-ருந்து எழும்போது) ‘சமிஅல்லாஹு -மன் ஹமிதஹ், ரப்பனா வல(க்)கல் ஹம்து’ என்று கூறுவார்கள். சஜ்தாவில் (குனியும்போதோ சஜ்தாவிலிருந்து எழும்போதோ) இவ்வாறு செய்ய மாட்டார்கள் (கைகளை உயர்த்த மாட்டார்கள்). அத்தியாயம் : 10
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுகையைத் துவக்கும்போது தம் தோள்களுக்கு நேராகத் கைகளை உயர்த்துவார்கள். ருகூஉவிற்காக ‘தக்பீர்’ கூறும்போதும் ருகூவி-ருந்து தலையை உயர்த்தும்போதும் அவ்வாறே (தோள்களுக்கு நேராக) இரு கைகளையும் மீண்டும் உயர்த்துவார்கள். மேலும் (ருகூவி-ருந்து எழும்போது) ‘சமிஅல்லாஹு -மன் ஹமிதஹ், ரப்பனா வல(க்)கல் ஹம்து’ என்று கூறுவார்கள். சஜ்தாவில் (குனியும்போதோ சஜ்தாவிலிருந்து எழும்போதோ) இவ்வாறு செய்ய மாட்டார்கள் (கைகளை உயர்த்த மாட்டார்கள்). அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>735</td></tr><tr><td>Arabic No</td><td>735</td></tr><tr><td>Reference</td><td>Book 10 Hadith 129</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Salim bin Abdullah babası (İbni Ömer r.a.) nın şöyle dediğini nakletmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem namaz'a başladığı zaman ellerini omuzları hi­zasında kaldırırdı. Rükû için tekbir getirdiğinde ve başını rükûdan kaldırıp doğrulunca aynı şekilde ellerini kaldırırdı ve (Semi'allahu limen hamideh, Rabbena ve lekel hamd) derdi. Fakat secdelerde ellerini kaldırmazdı. Tekrar: 736, 738 ve 739
+Salim bin Abdullah babası (İbni Ömer r.a.) nın şöyle dediğini nakletmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem namaz'a başladığı zaman ellerini omuzları hi­zasında kaldırırdı. Rükû için tekbir getirdiğinde ve başını rükûdan kaldırıp doğrulunca aynı şekilde ellerini kaldırırdı ve (Semi'allahu limen hamideh, Rabbena ve lekel hamd) derdi. Fakat secdelerde ellerini kaldırmazdı. Tekrar: 736, 738 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>735</td></tr><tr><td>Arabic No</td><td>735</td></tr><tr><td>Reference</td><td>Book 10 Hadith 129</td></tr></tbody></table></div>
 

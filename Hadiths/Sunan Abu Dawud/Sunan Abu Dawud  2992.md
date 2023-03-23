@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন বাশশার (রহঃ) ..... ইবন আওন (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি মুহাম্মদের নিকট নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জন্য নির্ধারিত অংশ ও সাফী সম্পর্কে জিজ্ঞাসা করি। তিনি বলেনঃ সাধারণ মুসলিমদের সাথে তাঁরও একটা অংশ নির্ধারণ করা হতো, যদিও তিনি যুদ্ধে অনুপস্থিত থাকতেন। আর সাফী হলো খুমুসের সেই বাছাই করা মাল, যা সবার আগে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জন্য নেওয়া হতো।
+। ইবনু ‘আওন (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি মুহাম্মাদকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাধারণ অংশ ও বিশেষ অংশ সম্পর্কে জিজ্ঞেস করলে তিনি বলেন, তিনি যুদ্ধে অংশ গ্রহণ না করলেও মুসলিমদের সাথে তাঁকেও একটি অংশ দেয়া হতো। তাঁর বিশেষ অংশ খুমুস বের করার পূর্বেই পৃথক করে রাখা হতো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2992</td></tr><tr><td>Arabic No</td><td>2992</td></tr><tr><td>Reference</td><td>Book 20 Hadith 65</td></tr></tbody></table></div>
 

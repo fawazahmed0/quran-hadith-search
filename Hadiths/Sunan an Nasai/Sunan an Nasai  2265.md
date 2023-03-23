@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইমরান ইবনু ইয়াযীদ (রহঃ) ... আবূ সালামা (রাঃ) থেকে বর্ণিত যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাররুজ জাহুরান নামক স্থানে দ্বিপ্রহরের আহার করছিলেন আর তার সাথে আবূ বকর এবং উমর (রাঃ)-ও ছিলেন। তখন তিনি (তাঁদেরকে) বললেন, এসো খাও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2265</td></tr><tr><td>Arabic No</td><td>2265</td></tr><tr><td>Reference</td><td>Book 22 Hadith 176</td></tr></tbody></table></div>
 

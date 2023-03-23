@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) আরও বলেন, আমার বোন (উম্মুল মু’মিনীন) হাফসাহ (রাযি.) আমাকে হাদীস শুনিয়েছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজর হবার পর সংক্ষিপ্ত দু’রাক‘আত সালাত আদায় করতেন। (ইবনু ‘উমার (রাযি.) বলেন,) এটি ছিল এমন একটি সময়, যখন আমরা কেউ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর খিদমতে হাযির হতাম না। ইবনু আবু যিনাদ (রহ.) বলেছেন, মূসা ইবনু ‘উক্বাহ (রাযি.) নাফি‘ (রহ.) হতে ‘ইশার পরে তাঁর পরিজনের মধ্যে কথাটি বর্ণনা করেছেন। (৬১৮; মুসলিম ৬/১৫, হাঃ ৭২৯) (আধুনিক প্রকাশনীঃ ১০৯৭ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ১১০৩ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1172</td></tr><tr><td>Arabic No</td><td>1172</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮৭৫। আবূ হুরাইরা (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দুইটি গাছের ফল দিয়ে মদ বানানো হয়— খেজুর ও আঙ্গুর। সহীহ, ইবনু মা-জাহ (৩৩৭৮), মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। আবূ কাসীর আস-সুহাইমী আল-গুবারী হিসাবেও পরিচিত। তার নাম ইয়াযীদ ইবনু আবদুর রাহমান ইবনু গুফাইলা। ইকরিমা ইবনু আম্মার হতে শুবা এ হাদীসটি বর্ণনা করেছেন।
+। আবূ হুরাইরা (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দুইটি গাছের ফল দিয়ে মদ বানানো হয়— খেজুর ও আঙ্গুর। সহীহ, ইবনু মা-জাহ (৩৩৭৮), মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। আবূ কাসীর আস-সুহাইমী আল-গুবারী হিসাবেও পরিচিত। তার নাম ইয়াযীদ ইবনু আবদুর রাহমান ইবনু গুফাইলা। ইকরিমা ইবনু আম্মার হতে শুবা এ হাদীসটি বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1875</td></tr><tr><td>Arabic No</td><td>1875</td></tr><tr><td>Reference</td><td>Book 26 Hadith 15</td></tr></tbody></table></div>
 

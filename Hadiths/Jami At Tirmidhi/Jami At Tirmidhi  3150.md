@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১৫০। উবাই ইবনু কাব (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ছেলেটিকে খাযির (আঃ) হত্যা করেন, সে আল্লাহ তা'আলার নির্ধারিত তাকদীর মতো (সৃষ্টির সূচনাতেই) কাফির ছিল। সহীহঃ যিলা-লুল জান্নাত (১৯৪, ১৯৫), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব।
+। উবাই ইবনু কাব (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ছেলেটিকে খাযির (আঃ) হত্যা করেন, সে আল্লাহ তা'আলার নির্ধারিত তাকদীর মতো (সৃষ্টির সূচনাতেই) কাফির ছিল। সহীহঃ যিলা-লুল জান্নাত (১৯৪, ১৯৫), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3150</td></tr><tr><td>Arabic No</td><td>3150</td></tr><tr><td>Reference</td><td>Book 47 Hadith 202</td></tr></tbody></table></div>
 

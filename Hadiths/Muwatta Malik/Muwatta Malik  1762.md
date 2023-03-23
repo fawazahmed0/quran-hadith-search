@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৮. মালিক (রহঃ)-এর নিকট রেওয়ায়ত পৌছিয়াছে যে, যদি কেহ কোন খালি ঘরে যায়, তবে "আসসালামু আলাইনা ওয়া আলা ইবাদিল্লাহিস সালিহীন" বলিবে অর্থাৎ আমাদের উপর এবং আল্লাহর নেক বান্দাদের উপর সালাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1762</td></tr><tr><td>Arabic No</td><td>1762</td></tr><tr><td>Reference</td><td>Book 53 Hadith 7</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৮৫। জাবির ইবনু সামুরা হতে বর্ণিত আছে, তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের নামায আদায়ের পর সূর্য উঠা পর্যন্ত নিজের নামাযের জায়গায় বসে থাকতেন। —সহীহ। সহীহ আবু দাউদ- (১১৭১), মুসলিম। আবু ঈসা বলেনঃ হাদীসটি হাসান সহীহ।
+। জাবির ইবনু সামুরা হতে বর্ণিত আছে, তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের নামায আদায়ের পর সূর্য উঠা পর্যন্ত নিজের নামাযের জায়গায় বসে থাকতেন। —সহীহ। সহীহ আবু দাউদ- (১১৭১), মুসলিম। আবু ঈসা বলেনঃ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>585</td></tr><tr><td>Arabic No</td><td>585</td></tr><tr><td>Reference</td><td>Book 6 Hadith 42</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَقَالَ الْحَسَنُ إِنْ صَامَ عَنْهُ ثَلاَثُونَ رَجُلاً يَوْمًا وَاحِدًا جَازَ হাসান (রহ.) বলেন, তার পক্ষ হতে ত্রিশজন লোক একদিন সওম পালন করতে হবে। ১৯৫২. ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: সওমের কাযা যিম্মায় রেখে যদি কোন ব্যক্তি মারা যায় তাহলে তার অভিভাবক তার পক্ষ হতে সওম আদায় করবে। (মুসলিম ১৩/২৭, হাঃ ১১৪৭) (আধুনিক প্রকাশনীঃ ১৮১২, ইসলামিক ফাউন্ডেশনঃ ১৮২৫) تَابَعَهُ ابْنُ وَهْبٍ عَنْ عَمْرٍو وَرَوَاهُ يَحْيَى بْنُ أَيُّوبَ عَنْ ابْنِ أَبِي جَعْفَرٍ ইবনু ওয়াহাব (রহ.) ‘আমর (রহ.) হতে উক্ত হাদীসটি অনুরূপ বর্ণনা করেছেন। ইয়াহইয়া ইবনু আইয়ুব (রহ.)...ইবনু আবূ জা‘ফর (রহ.) হতেও এ হাদীসটি বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 30 Hadith 59</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Khalid] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நிறைவேற்ற வேண்டிய நோன்பு உள்ள நிலையில் ஒருவர் இறந்துவிட்டால், அவர் சார்பாக அவருடைய பொறுப்பாளர் (உறவினர்) நோன்பு நோற்பார். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 30
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நிறைவேற்ற வேண்டிய நோன்பு உள்ள நிலையில் ஒருவர் இறந்துவிட்டால், அவர் சார்பாக அவருடைய பொறுப்பாளர் (உறவினர்) நோன்பு நோற்பார். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 30 Hadith 59</td></tr></tbody></table></div>
 

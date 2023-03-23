@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কায়সারের নিকট চিঠি লিখেছিলেন এবং এতে বলেছিলেন, যদি তুমি মুখ ফিরিয়ে রাখ তাহলে প্রজাদের পাপের বোঝা তোমার উপরেই চাপানো হবে। (২৯৪০) (আধুনিক প্রকাশনীঃ ২৭২১, ইসলামিক ফাউন্ডেশনঃ ২৭৩২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কায়সারের নিকট চিঠি লিখেছিলেন এবং এতে বলেছিলেন, যদি তুমি মুখ ফিরিয়ে রাখ তাহলে প্রজাদের পাপের বোঝা তোমার উপরেই চাপানো হবে। (২৯৪০) (আধুনিক প্রকাশনীঃ ২৭২১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 56 Hadith 149</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ishaq] telah mengabarkan kepada kami [Ya'qub bin Ib
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (கிழக்கு ரோமானியப் பேரரசர்) சீசருக்குக் கடிதம் எழுதினார்கள். (அதில்) ‘‘நீர் (இஸ்லாமிய அழைப்பைப்) புறக்கணிப்பீ ராயின், உம் (பாமரக்) குடிமக்கள் (இஸ்லாத்தை ஏற்காமல்போவதன்) பாவமும் உம்மைச் சேரும்” என்று கூறி யிருந்தார்கள்.82 அத்தியாயம் : 56
+அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (கிழக்கு ரோமானியப் பேரரசர்) சீசருக்குக் கடிதம் எழுதினார்கள். (அதில்) ‘‘நீர் (இஸ்லாமிய அழைப்பைப்) புறக்கணிப்பீ ராயின், உம் (பாமரக்) குடிமக்கள் (இஸ்லாத்தை ஏற்காமல்போவதன்) பாவமும் உம்மைச் சேரும்” என்று கூறி யிருந்தார்கள்.82 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 56 Hadith 149</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৮৭২, আন্তর্জাতিক নাম্বারঃ ১৯২৯ ৪৮৭২-(…/...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... যাকারিয়া ইবনু আবূ যায়িদাহ্ (রহঃ) হতে এ সানাদে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৮২৫, ইসলামিক সেন্টার ৪৮২৬)
+(…/...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... যাকারিয়া ইবনু আবূ যায়িদাহ্ (রহঃ) হতে এ সানাদে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৮২৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4978</td></tr><tr><td>Arabic No</td><td>1929.07</td></tr><tr><td>Reference</td><td>Book 34 Hadith 7</td></tr></tbody></table></div>
 

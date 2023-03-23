@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/২৮১০। ‘আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর হাতে একটি আরবীয় ধনুক ছিলো। তিনি এক ব্যক্তির হাতে একটি পারসিক ধনুক দেখে বলেনঃ এটা কী? এটা ফেলে দাও। তোমরা এটার অনুরূপ ধনুক রাখো এবং বর্শাও রাখো। কেননা আল্লাহ তা‘আলা এই ধনুক ও বর্শা দ্বারা তোমাদের দীনের সাহায্য করবেন এবং তোমাদের দ্বারা বিভিন্ন দেশ জয় করাবেন।
+। ‘আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর হাতে একটি আরবীয় ধনুক ছিলো। তিনি এক ব্যক্তির হাতে একটি পারসিক ধনুক দেখে বলেনঃ এটা কী? এটা ফেলে দাও। তোমরা এটার অনুরূপ ধনুক রাখো এবং বর্শাও রাখো। কেননা আল্লাহ তা‘আলা এই ধনুক ও বর্শা দ্বারা তোমাদের দীনের সাহায্য করবেন এবং তোমাদের দ্বারা বিভিন্ন দেশ জয় করাবেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2810</td></tr><tr><td>Arabic No</td><td>2810</td></tr><tr><td>Reference</td><td>Book 24 Hadith 58</td></tr></tbody></table></div>
 

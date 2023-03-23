@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... হুনায়দা ইবন খালিদ তাঁর স্ত্রী হতে এবং তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কোন এক স্ত্রী হতে বর্ণনা করেছেন। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যিল-হজ্জের প্রথম নয়দিন ও আশুরার দিন রোযা রাখতেন। আর তিনি প্রতি মাসে তিনদিন, মাসের প্রথম সোম ও বৃহস্পতিবার রোযা রাখতেন।
+। হুনাইদাহ ইবনু খালিদ (রহ.) তার স্ত্রী থেকে এবং তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কোনো এক স্ত্রী সূত্রে বর্ণনা করেছেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যিলহজ মাসের নয় তারিখ পর্যন্ত, আশুরার দিন, প্রত্যেক মাসে তিনদিন, মাসের প্রথম সোমবার ও বৃহস্পতিবার সওম রাখতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2437</td></tr><tr><td>Arabic No</td><td>2437</td></tr><tr><td>Reference</td><td>Book 14 Hadith 125</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ প্রত্যেক উম্মতের জন্য একজন আমানতদার রয়েছে। আর এ উম্মাতের আমানতদার হল আবূ ‘উবাইদাহ ইবনুল জাররাহ্। [৩৭৪৪] (আধুনিক প্রকাশনীঃ ৪০৩৩, ইসলামিক ফাউন্ডেশনঃ ৪০৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ প্রত্যেক উম্মতের জন্য একজন আমানতদার রয়েছে। আর এ উম্মাতের আমানতদার হল আবূ ‘উবাইদাহ ইবনুল জাররাহ্। [৩৭৪৪] (আধুনিক প্রকাশনীঃ ৪০৩৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4382</td></tr><tr><td>Arabic No</td><td>4382</td></tr><tr><td>Reference</td><td>Book 64 Hadith 405</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Walid] Telah menceritakan kepada kami [Syu'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வொரு சமுதாயத்தாருக்கும் (அவர்களின்) நம்பிக்கைக்குப் பாத்திரமானவர் ஒருவர் உண்டு. இந்தச் சமுதாயத்தாரின் நம்பிக்கைக்குரியவர் அபூஉபைதா பின் அல்ஜர்ராஹ் அவர்களாவார். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.416 அத்தியாயம் : 64
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வொரு சமுதாயத்தாருக்கும் (அவர்களின்) நம்பிக்கைக்குப் பாத்திரமானவர் ஒருவர் உண்டு. இந்தச் சமுதாயத்தாரின் நம்பிக்கைக்குரியவர் அபூஉபைதா பின் அல்ஜர்ராஹ் அவர்களாவார். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.416 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4382</td></tr><tr><td>Arabic No</td><td>4382</td></tr><tr><td>Reference</td><td>Book 64 Hadith 405</td></tr></tbody></table></div>
 

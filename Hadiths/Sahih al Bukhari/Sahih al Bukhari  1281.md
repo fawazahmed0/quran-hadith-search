@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যায়নাব বিন্তু আবূ সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সহধর্মিণী উম্মু হাবীবাহ (রাযি.)-এর নিকটে গেলাম। তখন তিনি বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, যে স্ত্রীলোক আল্লাহ্ এবং ক্বিয়ামাত (কিয়ামত) দিবসের প্রতি ঈমান রাখে তার পক্ষে কোন মৃত ব্যক্তির জন্য তিন দিনের বেশী শোক পালন করা বৈধ নয়। তবে স্বামীর জন্য চার মাস দশ দিন (বৈধ)। (১২৮) (আধুনিক প্রকাশনীঃ ১১৯৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1281</td></tr><tr><td>Arabic No</td><td>1281</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada saya [Malik] 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyneb binti Ebi Seleme şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem'in hanımı Ümmü Habîbe r.anha'nın yanına girdim. O bana şöyle dedi: Ben Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle dediğini işittim: Allah'a ve ahiret gününe inanan bir kadının, ölen bir kimse için üç günden fazla yas tutması helal değildir. Ancak kocası için dört ay on gün yas tutar." [-1282-] Zeyneb binti Ebi Seleme anlatmaya devam ederek şöyle dedi: Sonra erkek kardeşi öldüğünde Zeynep binti Cahş'ın yanına girdim. Güzel koku getirilmesini istedi ve bu kokuyu süründü. Sonra şöyle dedi: "Benim koku sürmeye ihtiyacım yok. Ancak ben Resulullah Sallallahu Aleyhi ve Sellem'in minberde şöyle dediğini işittim: "Allah'a ve ahiret gününe inanan bir kadının ölen bir kimse, için üç günden fazla yas tutması helal değildir. Ancak kocası için dört ay on gün yas tutar. Tekrar: 5335
+Zeyneb binti Ebi Seleme şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem'in hanımı Ümmü Habîbe r.anha'nın yanına girdim. O bana şöyle dedi: Ben Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle dediğini işittim: Allah'a ve ahiret gününe inanan bir kadının, ölen bir kimse için üç günden fazla yas tutması helal değildir. Ancak kocası için dört ay on gün yas tutar." [-1282-] Zeyneb binti Ebi Seleme anlatmaya devam ederek şöyle dedi: Sonra erkek kardeşi öldüğünde Zeynep binti Cahş'ın yanına girdim. Güzel koku getirilmesini istedi ve bu kokuyu süründü. Sonra şöyle dedi: "Benim koku sürmeye ihtiyacım yok. Ancak ben Resulullah Sallallahu Aleyhi ve Sellem'in minberde şöyle dediğini işittim: "Allah'a ve ahiret gününe inanan bir kadının ölen bir kimse, için üç günden fazla yas tutması helal değildir. Ancak kocası için dört ay on gün yas tutar. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1281</td></tr><tr><td>Arabic No</td><td>1281</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

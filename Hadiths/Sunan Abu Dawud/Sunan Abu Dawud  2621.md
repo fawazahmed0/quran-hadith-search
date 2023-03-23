@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন বাশশার ..... আবূ বিশর (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আব্বাদ ইবন শুরাহবীল হতে উক্ত মর্মে উপরোক্ত হাদীসটি শুনেছি। তিনি আমাদের বনী গুবার গোত্রের একজন লোক ছিলেন।
+। আবূ বিশর থেকে ... এই সনদে পূর্বোক্ত হাদীসের অনুরূপ অর্থের হাদীস বর্ণিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2621</td></tr><tr><td>Arabic No</td><td>2621</td></tr><tr><td>Reference</td><td>Book 15 Hadith 145</td></tr></tbody></table></div>
 

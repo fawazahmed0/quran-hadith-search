@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, (কেউ তাঁকে খুশবু হাদিয়া দিলে) তিনি (সে) খুশবু ফিরিয়ে দিতেন না এবং বলতেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খুশবু প্রত্যাখ্যান করতেন না। [২৫৮২] (আধুনিক প্রকাশনী- ৫৪৯৭, ইসলামিক ফাউন্ডেশন- ৫৩৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, (কেউ তাঁকে খুশবু হাদিয়া দিলে) তিনি (সে) খুশবু ফিরিয়ে দিতেন না এবং বলতেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খুশবু প্রত্যাখ্যান করতেন না। [২৫৮২] (আধুনিক প্রকাশনী- ৫৪৯৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5929</td></tr><tr><td>Arabic No</td><td>5929</td></tr><tr><td>Reference</td><td>Book 77 Hadith 144</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Azra
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸுமாமா பின் அப்தில்லாஹ் பின் அனஸ் (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் (தமக்கு அன்பளிப்பாகத் தரப்படும்) நறுமணப் பொருளை மறுக்காமல் ஏற்றுக்கொள் வார்கள். மேலும், அவர்கள், ‘‘நபி (ஸல்) அவர்கள் (தமக்கு அன்பளிப்பாக அளிக்கப்பட்ட) நறுமணப் பொருளை மறுத்ததில்லை” என்று கூறினார்கள்.117 அத்தியாயம் : 77
+ஸுமாமா பின் அப்தில்லாஹ் பின் அனஸ் (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் (தமக்கு அன்பளிப்பாகத் தரப்படும்) நறுமணப் பொருளை மறுக்காமல் ஏற்றுக்கொள் வார்கள். மேலும், அவர்கள், ‘‘நபி (ஸல்) அவர்கள் (தமக்கு அன்பளிப்பாக அளிக்கப்பட்ட) நறுமணப் பொருளை மறுத்ததில்லை” என்று கூறினார்கள்.117 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5929</td></tr><tr><td>Arabic No</td><td>5929</td></tr><tr><td>Reference</td><td>Book 77 Hadith 144</td></tr></tbody></table></div>
 

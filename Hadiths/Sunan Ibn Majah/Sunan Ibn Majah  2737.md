@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৭৩৭। আবূ উমামা ইবনে সাহল ইবনে হুনাইফ (রহঃ) থেকে বর্ণিত। এক ব্যক্তি অপর ব্যক্তিকে তীর নিক্ষেপ করে হত্যা করলো। নিহতের এক মামা ছাড়া আর কোন ওয়ারিস ছিলো না। আবূ উবায়দা ইবনুল জাররাহ (রাঃ) বিষয়টি নিয়ে উমার (রাঃ) কে পত্র লিখেন। উমার (রাঃ) তাকে লিখে জানান যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার কোন অভিভাবক নেই আল্লাহ ও তাঁর রাসূলই তার অভিভাবক এবং যার কোন ওয়ারিস নেই মামাই তার ওয়ারিস।
+। আবূ উমামা ইবনে সাহল ইবনে হুনাইফ (রহঃ) থেকে বর্ণিত। এক ব্যক্তি অপর ব্যক্তিকে তীর নিক্ষেপ করে হত্যা করলো। নিহতের এক মামা ছাড়া আর কোন ওয়ারিস ছিলো না। আবূ উবায়দা ইবনুল জাররাহ (রাঃ) বিষয়টি নিয়ে উমার (রাঃ) কে পত্র লিখেন। উমার (রাঃ) তাকে লিখে জানান যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার কোন অভিভাবক নেই আল্লাহ ও তাঁর রাসূলই তার অভিভাবক এবং যার কোন ওয়ারিস নেই মামাই তার ওয়ারিস।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2737</td></tr><tr><td>Arabic No</td><td>2737</td></tr><tr><td>Reference</td><td>Book 23 Hadith 19</td></tr></tbody></table></div>
 

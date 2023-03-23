@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন উবায়দুল্লাহ (রহঃ) .... নাফি (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা ইবন উমার (রাঃ) বাদ্যযন্ত্রের শব্দ শুনে তাঁর কানে আঙ্গুল ঢুকিয়ে দেন। তিনি সেখান থেকে দূরে গিয়ে আমাকে বলেনঃ হে নাফি! তুমি কি এখনও কোন শব্দ শুনতে পাচ্ছ? আমি বলিঃ না। তখন তিনি তাঁর কান থেকে আঙ্গুল বের করে বলেনঃ একদিন আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলাম, তিনি এরূপ শব্দ শুনে-এরূপ করেন। ইমাম আবূ দাউদ (রহঃ) বলেনঃ হাদীছটি মুনকার।
+। নাফি‘ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা ইবনু উমার (রাঃ) বাদ্যযন্ত্রের শব্দ শুনতে পেয়ে উভয় কানে আঙ্গুল ঢুকিয়ে রাস্তা থেকে সরে গিয়ে আমাকে বললেন, হে নাফি‘! তুমি কি কিছু শুনতে পাচ্ছো? বর্ণনাকারী বলেন, আমি বললাম, না। বর্ণনাকারী বলেন, অতঃপর তিনি কান থেকে হাত তুলে বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলাম। তখন তিনি এ ধরণের শব্দ শুনে এরূপ করেছিলেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, এ হাদীসটি মুনকার।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4924</td></tr><tr><td>Arabic No</td><td>4924</td></tr><tr><td>Reference</td><td>Book 43 Hadith 152</td></tr></tbody></table></div>
 

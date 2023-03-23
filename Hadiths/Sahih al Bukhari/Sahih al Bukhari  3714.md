@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মিসওয়ার ইবনু মাখরামাহ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ফাতিমাহ আমার টুকরা। যে তাকে দুঃখ দিবে, সে যেন আমাকে দুঃখ দিল। (৯২৬) (আধুনিক প্রকাশনীঃ ৩৪৩৮, ইসলামিক ফাউন্ডেশনঃ ৩৪৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মিসওয়ার ইবনু মাখরামাহ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ফাতিমাহ আমার টুকরা। যে তাকে দুঃখ দিবে, সে যেন আমাকে দুঃখ দিল। (৯২৬) (আধুনিক প্রকাশনীঃ ৩৪৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3714</td></tr><tr><td>Arabic No</td><td>3714</td></tr><tr><td>Reference</td><td>Book 62 Hadith 63</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Ibnu 'Uy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஃபாத்திமா என்னில் ஒரு பகுதியாவார். எனவே, அவருக்குக் கோபமூட்டியவர் எனக்குக் கோபமூட்டியவர் ஆவார். இதை மிஸ்வர் பின் மக்ரமா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.88 அத்தியாயம் : 62
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஃபாத்திமா என்னில் ஒரு பகுதியாவார். எனவே, அவருக்குக் கோபமூட்டியவர் எனக்குக் கோபமூட்டியவர் ஆவார். இதை மிஸ்வர் பின் மக்ரமா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.88 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3714</td></tr><tr><td>Arabic No</td><td>3714</td></tr><tr><td>Reference</td><td>Book 62 Hadith 63</td></tr></tbody></table></div>
 

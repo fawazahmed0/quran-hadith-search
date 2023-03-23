@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেন, হে বানূ নাজ্জার! তোমাদের বাগানটি মূল্য নির্ধারণ করে আমার নিকট বিক্রি করে দাও। তারা বলল, আমরা এর মূল্য একমাত্র আল্লাহ ছাড়া কারো কাছে চাই না। (২৩৪) (আধুনিক প্রকাশনীঃ ২৫৭৪, ইসলামিক ফাউন্ডেশনঃ ২৫৮৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেন, হে বানূ নাজ্জার! তোমাদের বাগানটি মূল্য নির্ধারণ করে আমার নিকট বিক্রি করে দাও। তারা বলল, আমরা এর মূল্য একমাত্র আল্লাহ ছাড়া কারো কাছে চাই না। (২৩৪) (আধুনিক প্রকাশনীঃ ২৫৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2779</td></tr><tr><td>Arabic No</td><td>2779</td></tr><tr><td>Reference</td><td>Book 55 Hadith 42</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami ['Abdul Warit
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘பனூ நஜ்ஜார் குலத்தாரே! உங்கள் தோட்டத்திற்கு என்னி டம் விலை சொல்லுங்கள்” என்று கேட்டார்கள். அதற்கு அந்தக் குலத்தார், ‘‘அதன் விலையை நாங்கள் அல்லாஹ்விடமே எதிர்பார்க்கிறோம்” என்று கூறினார்கள். அத்தியாயம் : 55
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘பனூ நஜ்ஜார் குலத்தாரே! உங்கள் தோட்டத்திற்கு என்னி டம் விலை சொல்லுங்கள்” என்று கேட்டார்கள். அதற்கு அந்தக் குலத்தார், ‘‘அதன் விலையை நாங்கள் அல்லாஹ்விடமே எதிர்பார்க்கிறோம்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2779</td></tr><tr><td>Arabic No</td><td>2779</td></tr><tr><td>Reference</td><td>Book 55 Hadith 42</td></tr></tbody></table></div>
 

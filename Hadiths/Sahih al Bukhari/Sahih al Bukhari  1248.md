@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ اللهُ عَزَّ وَجَلَّ (وَبَشِّرْ الصَّابِرِينَ) আল্লাহ্ তা‘আলার বাণীঃ ‘‘আর সবরকারীদের সুসংবাদ প্রদান করুন’’। (আল-বাকরাহ ১৫৫) ১২৪৮. আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন : কোন মুসলিমের তিনটি সন্তান সাবালিগ হবার পূর্বে মারা গেলে তাদের প্রতি তাঁর রহমত স্বরূপ অবশ্যই আল্লাহ্ তা‘আলা ঐ ব্যক্তিকে জান্নাতে প্রবেশ করাবেন।[1] (১৩৮১) (আধুনিক প্রকাশনীঃ ১১৬৮, ইসলামিক ফাউন্ডেশনঃ ১১৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ اللهُ عَزَّ وَجَلَّ (وَبَشِّرْ الصَّابِرِينَ) আল্লাহ্ তা‘আলার বাণীঃ ‘‘আর সবরকারীদের সুসংবাদ প্রদান করুন’’। (আল-বাকরাহ ১৫৫) ১২৪৮. আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন : কোন মুসলিমের তিনটি সন্তান সাবালিগ হবার পূর্বে মারা গেলে তাদের প্রতি তাঁর রহমত স্বরূপ অবশ্যই আল্লাহ্ তা‘আলা ঐ ব্যক্তিকে জান্নাতে প্রবেশ করাবেন।[1] (১৩৮১) (আধুনিক প্রকাশনীঃ ১১৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1248</td></tr><tr><td>Arabic No</td><td>1248</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abd
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: மனிதர்களில் ஒரு முஸ்லிமுக்கு, பருவமடையாத மூன்று (குழந்தைகள்) இறந்துவிட்டால், அக்குழந்தைகளின் மீது அல்லாஹ் கொண்டுள்ள கருணை யின் புண்ணியத்தால், அவரை அல்லாஹ் சொர்க்கத்தில் நுழையச் செய்யாமல் இருப்பதில்லை.9 இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 23
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: மனிதர்களில் ஒரு முஸ்லிமுக்கு, பருவமடையாத மூன்று (குழந்தைகள்) இறந்துவிட்டால், அக்குழந்தைகளின் மீது அல்லாஹ் கொண்டுள்ள கருணை யின் புண்ணியத்தால், அவரை அல்லாஹ் சொர்க்கத்தில் நுழையச் செய்யாமல் இருப்பதில்லை.9 இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1248</td></tr><tr><td>Arabic No</td><td>1248</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abd
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: "Ergenlik çağına girmemiş üç çocuğu ölen her Müslüman'ı Allah, çocuklara olan merhameti sebebiyle cennete koyar. Tekrar: 1381
+Enes r.a. Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: "Ergenlik çağına girmemiş üç çocuğu ölen her Müslüman'ı Allah, çocuklara olan merhameti sebebiyle cennete koyar. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1248</td></tr><tr><td>Arabic No</td><td>1248</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 

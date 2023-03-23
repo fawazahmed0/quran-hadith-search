@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০২১। 'আবদুল্লাহ ইবনু আমর (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কবীরা গুনাহসমূহের মধ্যে রয়েছে আল্লাহ তা'আলার সাথে অংশীদার স্থাপন করা, বাবা-মায়ের অবাধ্যা হওয়া, অথবা বলেছেনঃ মিথ্যা শপথ করা। বর্ণনাকারী শুবাহর সন্দেহ যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শেষোক্ত দুটি কথার কোনটি বলেছেন। সহীহঃ বুখারী। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। 'আবদুল্লাহ ইবনু আমর (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কবীরা গুনাহসমূহের মধ্যে রয়েছে আল্লাহ তা'আলার সাথে অংশীদার স্থাপন করা, বাবা-মায়ের অবাধ্যা হওয়া, অথবা বলেছেনঃ মিথ্যা শপথ করা। বর্ণনাকারী শুবাহর সন্দেহ যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শেষোক্ত দুটি কথার কোনটি বলেছেন। সহীহঃ বুখারী। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 47 Hadith 73</td></tr></tbody></table></div>
 

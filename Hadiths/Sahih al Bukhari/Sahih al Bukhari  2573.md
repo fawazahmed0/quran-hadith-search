@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘আব ইবনু জাসসামাহ (রাঃ) হতে বর্ণিত। তিনি (সা‘আব ইবনু জাসসামা) রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর জন্য একটি বন্য গাধা হাদিয়া পাঠালেন। রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) তখন আবওয়া কিংবা ওয়াদ্দান নামক স্থানে ছিলেন। তিনি হাদিয়া ফেরত পাঠালেন। পরে তার বিষণ্ণ মুখ দেখে বললেন, শুন! আমরা ইহরাম অবস্থায় না থাকলে তোমার হাদিয়া ফেরত দিতাম না। (১৮২৫) (আধুনিক প্রকাশনীঃ ২৩৮৬, ইসলামিক ফাউন্ডেশনঃ ২৪০৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘আব ইবনু জাসসামাহ (রাঃ) হতে বর্ণিত। তিনি (সা‘আব ইবনু জাসসামা) রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর জন্য একটি বন্য গাধা হাদিয়া পাঠালেন। রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) তখন আবওয়া কিংবা ওয়াদ্দান নামক স্থানে ছিলেন। তিনি হাদিয়া ফেরত পাঠালেন। পরে তার বিষণ্ণ মুখ দেখে বললেন, শুন! আমরা ইহরাম অবস্থায় না থাকলে তোমার হাদিয়া ফেরত দিতাম না। (১৮২৫) (আধুনিক প্রকাশনীঃ ২৩৮৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2573</td></tr><tr><td>Arabic No</td><td>2573</td></tr><tr><td>Reference</td><td>Book 51 Hadith 8</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated As-Sa'b bin Jath-thama:An onager was presented to Allah's Messenger (ﷺ) at the place called Al-Abwa' or Waddan, but Allah's Apostle rejected it. When the Prophet (ﷺ) noticed the signs of sorrow on the giver's face he said, "We have not rejected your gift, but we are in the state of Ihram." (i.e. if we were not in a state of Ihram we would have accepted your gift, Fath-ul-Bari page 130, Vol. 6)
+Narrated As-Sa'b bin Jath-thama:An onager was presented to Allah's Messenger (ﷺ) at the place called Al-Abwa' or Waddan, but Allah's Apostle rejected it. When the Prophet (ﷺ) noticed the signs of sorrow on the giver's face he said, "We have not rejected your gift, but we are in the state of Ihram." (i.e. if we were not in a state of Ihram we would have accepted your gift, Fath-ul-Bari page 130, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2573</td></tr><tr><td>Arabic No</td><td>2573</td></tr><tr><td>Reference</td><td>Book 51 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [M
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸஅப் பின் ஜஸ்ஸாமா (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு ஒரு காட்டுக் கழுதையைப் பரிசாக அளித்தேன். அப்போது அவர்கள் ‘அப்வா’ என்னும் இடத்தில் லிஅல்லது யிவத்தான்’5 எனும் இடத்தில்லி இருந்தார் கள். அதை நபி (ஸல்) அவர்கள் என்னி டமே திருப்பிக் கொடுத்துவிட்டார்கள். என் முகத்தில் ஏற்பட்ட (மாற்றத்)தை கண்டபோது, ‘‘நாம் இஹ்ராம் கட்டியிருப்ப தால்தான் உம்மிடம் அதைத் திருப்பித் தந்தோம்” என்று கூறினார்கள்.6 அத்தியாயம் : 50
+ஸஅப் பின் ஜஸ்ஸாமா (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு ஒரு காட்டுக் கழுதையைப் பரிசாக அளித்தேன். அப்போது அவர்கள் ‘அப்வா’ என்னும் இடத்தில் லிஅல்லது யிவத்தான்’5 எனும் இடத்தில்லி இருந்தார் கள். அதை நபி (ஸல்) அவர்கள் என்னி டமே திருப்பிக் கொடுத்துவிட்டார்கள். என் முகத்தில் ஏற்பட்ட (மாற்றத்)தை கண்டபோது, ‘‘நாம் இஹ்ராம் கட்டியிருப்ப தால்தான் உம்மிடம் அதைத் திருப்பித் தந்தோம்” என்று கூறினார்கள்.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2573</td></tr><tr><td>Arabic No</td><td>2573</td></tr><tr><td>Reference</td><td>Book 51 Hadith 8</td></tr></tbody></table></div>
 

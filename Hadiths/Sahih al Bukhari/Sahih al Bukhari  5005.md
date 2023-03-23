@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘উমার (রাঃ) বলেছেন, ‘আলী (রাঃ) আমাদের মধ্যে সর্বোত্তম বিচারক এবং উবাই (রাঃ) আমাদের মধ্যে সর্বোত্তম কারী। এতদ্সত্ত্বেও তিনি যা তিলাওয়াত করেছেন, আমরা তার কিছু অংশ বাদ দিই, অথচ তিনি বলছেন, আমি তা আল্লাহর রাসূলের যবান থেকে শুনেছি, কোন কিছুর বিনিময়ে আমি তা ত্যাগ করব না। আল্লাহ্ বলেছেন, ‘‘আমি কোন আয়াত রহিত করলে কিংবা ভুলিয়ে দিলে তা হতে উত্তম কিংবা তার মত কোন আয়াত এনে দিই।’’ ৪৪৮১] (আধুনিক প্রকাশনীঃ ৪৬৩৪, ইসলামিক ফাউন্ডেশনঃ ৪৬৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘উমার (রাঃ) বলেছেন, ‘আলী (রাঃ) আমাদের মধ্যে সর্বোত্তম বিচারক এবং উবাই (রাঃ) আমাদের মধ্যে সর্বোত্তম কারী। এতদ্সত্ত্বেও তিনি যা তিলাওয়াত করেছেন, আমরা তার কিছু অংশ বাদ দিই, অথচ তিনি বলছেন, আমি তা আল্লাহর রাসূলের যবান থেকে শুনেছি, কোন কিছুর বিনিময়ে আমি তা ত্যাগ করব না। আল্লাহ্ বলেছেন, ‘‘আমি কোন আয়াত রহিত করলে কিংবা ভুলিয়ে দিলে তা হতে উত্তম কিংবা তার মত কোন আয়াত এনে দিই।’’ ৪৪৮১] (আধুনিক প্রকাশনীঃ ৪৬৩৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5005</td></tr><tr><td>Arabic No</td><td>5005</td></tr><tr><td>Reference</td><td>Book 66 Hadith 27</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:'Umar said, Ubai was the best of us in the recitation (of the Qur'an) yet we leave some of what he recites.' Ubai says, 'PI have taken it from the mouth of Allah's Messenger (ﷺ) and will not leave for anything whatever." But Allah said "None of Our Revelations do We abrogate or cause to be forgotten but We substitute something better or similar." 2
+Narrated Ibn 'Abbas:'Umar said, Ubai was the best of us in the recitation (of the Qur'an) yet we leave some of what he recites.' Ubai says, 'PI have taken it from the mouth of Allah's Messenger (ﷺ) and will not leave for anything whatever." But Allah said "None of Our Revelations do We abrogate or cause to be forgotten but We substitute something better or similar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5005</td></tr><tr><td>Arabic No</td><td>5005</td></tr><tr><td>Reference</td><td>Book 66 Hadith 27</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ibn 'Abbas:'Umar said, Ubai was the best of us in the recitation (of th
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Shadaqah bin Al Fadll] Telah mengabarkan kepada kami [Yahya] dari [Sufyan] dari [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, [Umar] berkata, "Orang yang paling baik bacaannya di antara kita adalah Ubbay, dan kita akan meninggalkan Qira'ah Ubay." Maka [Ubay] pun berkata, "Aku telah mengambilnya langsung dari bibir Rasulullah shallallahu 'alaihi wasallam, karena itu aku tidak akan meninggalkannya lantaran karena suatu masalah. Allah Ta'ala berfirman: 'MAA NANSAKH MIN 'AAYATIN AW NUNSIKHA NA'TI BIKHAIR MINHAA AW MITSLIHAA (Tidaklah kami menghapus suatu ayat pun, atau ayat itu dihapus, kecuali kami akan menggantinya dengan yang lebih baik darinya atau semisalnya). (QS. Albaqarah 106)
+Telah menceritakan kepada kami [Shadaqah bin Al Fadll] Telah mengabarkan kepada kami [Yahya] dari [Sufyan] dari [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, [Umar] berkata, "Orang yang paling baik bacaannya di antara kita adalah Ubbay, dan kita akan meninggalkan Qira'ah Ubay." Maka [Ubay] pun berkata, "Aku telah mengambilnya langsung dari bibir Rasulullah shallallahu 'alaihi wasallam, karena itu aku tidak akan meninggalkannya lantaran karena suatu masalah. Allah Ta'ala berfirman: 'MAA NANSAKH MIN 'AAYATIN AW NUNSIKHA NA'TI BIKHAIR MINHAA AW MITSLIHAA (Tidaklah kami menghapus suatu ayat pun, atau ayat itu dihapus, kecuali kami akan menggantinya dengan yang lebih baik darinya atau semisalnya). (QS. Albaqarah)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5005</td></tr><tr><td>Arabic No</td><td>5005</td></tr><tr><td>Reference</td><td>Book 66 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Shadaqah bin Al Fadll] Telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உமர் (ரலி) அவர்கள் கூறியதாவது: எங்களில் (குர்ஆனை) நன்கு ஓதத் தெரிந்தவர் உபை பின் கஅப் (ரலி) ஆவார். நாங்கள் உபை (ரலி) அவர்களின் சொற்களில் சிலவற்றை விட்டுவிடுவோம். ஏனெனில் அவர்கள், ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து நான் செவிமடுத்த எதையும் கைவிடமாட்டேன்” என்று சொல்வார். ஆனால், அல்லாஹ்வோ, ‘‘எந்த ஒரு வசனத்தையாவது நாம் மாற்றிவிட்டால், அல்லது அகற்றிவிட்டால் (அதற்குப் பதிலாக) அதனினும் சிறந்த, அல்லது அது போன்ற வேறு வசனத்தை நாம் கொண்டுவருகிறோம்” என்று கூறியுள்ளான். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.30 அத்தியாயம் : 66
+உமர் (ரலி) அவர்கள் கூறியதாவது: எங்களில் (குர்ஆனை) நன்கு ஓதத் தெரிந்தவர் உபை பின் கஅப் (ரலி) ஆவார். நாங்கள் உபை (ரலி) அவர்களின் சொற்களில் சிலவற்றை விட்டுவிடுவோம். ஏனெனில் அவர்கள், ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து நான் செவிமடுத்த எதையும் கைவிடமாட்டேன்” என்று சொல்வார். ஆனால், அல்லாஹ்வோ, ‘‘எந்த ஒரு வசனத்தையாவது நாம் மாற்றிவிட்டால், அல்லது அகற்றிவிட்டால் (அதற்குப் பதிலாக) அதனினும் சிறந்த, அல்லது அது போன்ற வேறு வசனத்தை நாம் கொண்டுவருகிறோம்” என்று கூறியுள்ளான். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.30 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5005</td></tr><tr><td>Arabic No</td><td>5005</td></tr><tr><td>Reference</td><td>Book 66 Hadith 27</td></tr></tbody></table></div>
 

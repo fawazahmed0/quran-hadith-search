@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু বাশশার .... আবদুল হামীদ ইবনু মাহমূদ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি আনাস ইবনু মালিক (রাঃ) এর সাথে জুমুআর নামায আদায় করি অধিক ভীড়ের কারণে আমরা স্তম্ভের নিকটে সরে যেতে বাধ্য হই। ফলে আমরা আগে পিছে হয়ে যাই। অতঃপর আনাস (রাঃ) বলেন, আমরা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের যুগে দুই স্তম্ভের মধ্যবর্তী স্থানে দন্ডায়মান হওয়া হতে বিরত থাকতাম। (নাসাঈ, তিরমিযী)।
+। ‘আবদুল হামীদ ইবনু মাহমূদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি আনাস ইবনু মালিক (রাঃ)-এর সাথে জুম্মার সালাত আদায় করি। লোকজন বেশি হওয়ায় আমরা খুঁটি সমূহের মাঝখানে যেতে বাধ্য হই। এতে করে আমরা আগে পিছে হয়ে যাই। আনাস (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে আমরা এভাবে (দুই খুঁটির মাঝখানে) দাঁড়ানো হতে বিরত থাকার চেষ্টা করতাম।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 2 Hadith 283</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdulhamîd b. Mahmud demiştir ki: Bir cum'a günü Enes b. Malik'le namaz kılmıştım. (Kalabalıktan) direklerin arasına itildik. (Kimimiz) öne geçtik (kimimiz de) geride kaldık. (Namazı kılınca) Enes; "Biz Nebi (Sallallahu aleyhi ve Sellem) zamanında bundan sakınırdık" dedi. Diğer tahric: Tirmızî, mevakît; Nesaî, imame; Ahmed b. Hanbel III, 131
+Abdulhamîd b. Mahmud demiştir ki: Bir cum'a günü Enes b. Malik'le namaz kılmıştım. (Kalabalıktan) direklerin arasına itildik. (Kimimiz) öne geçtik (kimimiz de) geride kaldık. (Namazı kılınca) Enes; "Biz Nebi (Sallallahu aleyhi ve Sellem) zamanında bundan sakınırdık" dedi. Diğer tahric: Tirmızî, mevakît; Nesaî, imame; Ahmed b. Hanbel III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 2 Hadith 283</td></tr></tbody></table></div>
 

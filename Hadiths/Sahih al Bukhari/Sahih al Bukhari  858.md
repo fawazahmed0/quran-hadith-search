@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন,জুমু‘আহর দিন প্রত্যেক বয়ঃপ্রাপ্ত (মুসলিমের) গোসল করা ওয়াজিব। (৮৭৯, ৮৮০, ৮৯৫, ২৬৬৫ মুসলিম ৭/১, হাঃ ৮৪৬, আহমাদ ১১২৫০) (আধুনিক প্রকাশনীঃ ৮০৯, ইসলামিক ফাউন্ডেশনঃ ৮১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন,জুমু‘আহর দিন প্রত্যেক বয়ঃপ্রাপ্ত (মুসলিমের) গোসল করা ওয়াজিব। (৮৭৯, ৮৮০, ৮৯৫, ২৬৬৫ মুসলিম ৭/১, হাঃ ৮৪৬, আহমাদ ১১২৫০) (আধুনিক প্রকাশনীঃ ৮০৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>858</td></tr><tr><td>Arabic No</td><td>858</td></tr><tr><td>Reference</td><td>Book 10 Hadith 249</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளிக் கிழமை (ஜுமுஆ) தினத் தில் குளிப்பது, பருவமடைந்த ஒவ்வொரு வர் மீதும் கடமையாகும்.79 இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+நபி (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளிக் கிழமை (ஜுமுஆ) தினத் தில் குளிப்பது, பருவமடைந்த ஒவ்வொரு வர் மீதும் கடமையாகும்.79 இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>858</td></tr><tr><td>Arabic No</td><td>858</td></tr><tr><td>Reference</td><td>Book 10 Hadith 249</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Saîd el-Hudrî (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Cum'a günü boy abdesti (ğusüi) almak, ihtilam olan (ergenlik çağına giren) herkese vaciptir. Tekrar: 879, 880, 895 ve 2665
+Ebu Saîd el-Hudrî (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Cum'a günü boy abdesti (ğusüi) almak, ihtilam olan (ergenlik çağına giren) herkese vaciptir. Tekrar: 879, 880, 895 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>858</td></tr><tr><td>Arabic No</td><td>858</td></tr><tr><td>Reference</td><td>Book 10 Hadith 249</td></tr></tbody></table></div>
 

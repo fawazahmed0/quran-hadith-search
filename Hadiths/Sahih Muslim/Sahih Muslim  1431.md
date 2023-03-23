@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩১৭, আন্তর্জাতিক নাম্বারঃ ৬৩১ ১৩১৭-(.../...) আবূ বকর ইবনু আবূ শায়বাহ ও ইসহাক ইবনু ইবরাহীম (রহঃ) ... ইয়াহইয়া ইবনু আবূ কাসীর-এর মাধ্যমে উক্ত সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৩০৪, ইসলামীক সেন্টার ১৩১৬)
+আবূ বকর ইবনু আবূ শায়বাহ ও ইসহাক ইবনু ইবরাহীম (রহঃ) ... ইয়াহইয়া ইবনু আবূ কাসীর-এর মাধ্যমে উক্ত সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৩০৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1431</td></tr><tr><td>Arabic No</td><td>631.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 264</td></tr></tbody></table></div>
 

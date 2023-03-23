@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল হাম্মাদ থেকে ছাবিত আল-বানানীর সূত্রে, তিনি আবূ নাদরা (রাঃ) এর সূত্রে বর্ণনা করেন। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের কাপড়ে থুথু বা শ্লেষ্মা লাগলে তিনি তার একাংশ অপর অংশের সাথে ঘর্যণ করেন।
+। আবূ নাযরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাপড়ে থুথু লাগলে তিনি কাপড়ের এক অংশ দিয়ে অপর অংশ রগড়ে দিলেন। [1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>389</td></tr><tr><td>Arabic No</td><td>389</td></tr><tr><td>Reference</td><td>Book 1 Hadith 389</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Nadra'dan, demiştir ki; "Resulullah (Sallallahu aleyhi ve Sellem) elbisesine tükürdü ve orayı biri biri üstüne (katlayıp) sürttü." Diğer tahric: Nesai, tahare; İbn Mace, ikame; Ahmed b.Hanbel, III, 42
+Ebu Nadra'dan, demiştir ki; "Resulullah (Sallallahu aleyhi ve Sellem) elbisesine tükürdü ve orayı biri biri üstüne (katlayıp) sürttü." Diğer tahric: Nesai, tahare; İbn Mace, ikame; Ahmed b.Hanbel, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>389</td></tr><tr><td>Arabic No</td><td>389</td></tr><tr><td>Reference</td><td>Book 1 Hadith 389</td></tr></tbody></table></div>
 

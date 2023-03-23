@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, প্রত্যেক উম্মাতের মধ্যে একজন বিশ্বস্ত ব্যক্তি থাকেন আর আমাদের এই উম্মাতের মধ্যে বিশ্বস্ত ব্যক্তি হচ্ছে আবূ ‘উবাইদাহ ইবনু জার্রাহ (রাঃ)। (৪৩৮২, ৭২৫৫, মুসলিম ৪৪/৭ হাঃ ২৪১৯, আহমাদ ১৩৫৬৪) (আধুনিক প্রকাশনীঃ ৩৪৬১, ইসলামিক ফাউন্ডেশনঃ ৩৪৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, প্রত্যেক উম্মাতের মধ্যে একজন বিশ্বস্ত ব্যক্তি থাকেন আর আমাদের এই উম্মাতের মধ্যে বিশ্বস্ত ব্যক্তি হচ্ছে আবূ ‘উবাইদাহ ইবনু জার্রাহ (রাঃ)। (৪৩৮২, ৭২৫৫, মুসলিম ৪৪/৭ হাঃ ২৪১৯, আহমাদ ১৩৫৬৪) (আধুনিক প্রকাশনীঃ ৩৪৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3744</td></tr><tr><td>Arabic No</td><td>3744</td></tr><tr><td>Reference</td><td>Book 62 Hadith 89</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Amru bin 'Ali] telah bercerita kepada kami ['Abdul
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வொரு சமுதாயத்தாருக்கும் (அதன்) நம்பிக்கைக்குரியவர் ஒருவர் உண்டு. சமுதாயமே! நமது நம்பிக்கைக் குரியவர் அபூஉபைதா பின் அல்—ர்ராஹ் அவர்கள்தான். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 62
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வொரு சமுதாயத்தாருக்கும் (அதன்) நம்பிக்கைக்குரியவர் ஒருவர் உண்டு. சமுதாயமே! நமது நம்பிக்கைக் குரியவர் அபூஉபைதா பின் அல்—ர்ராஹ் அவர்கள்தான். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3744</td></tr><tr><td>Arabic No</td><td>3744</td></tr><tr><td>Reference</td><td>Book 62 Hadith 89</td></tr></tbody></table></div>
 

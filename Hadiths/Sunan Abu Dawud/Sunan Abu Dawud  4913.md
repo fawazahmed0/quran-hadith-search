@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মুছান্না (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন মুসলিমের জন্য উচিত নয় যে, সে তার ভাইকে তিন দিনের অধিক পরিত্যাগ করে। এরপর যখন সে তার সাথে দেখা করবে, তখন তাকে তিনবার সালাম করবে। যদি সে একবারও সালামের জবাব না দেয়, তখন সে সমস্ত গুনাহের ভাগী হবে।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো মুসলিমের জন্য অপর মুসলিমের তিন দিনের অধিক সম্পর্ক ছিন্ন করে থাকা উচিৎ নয়। অতঃপর সে তার দেখা পেয়ে তাকে তিনবার সালাম দিলে সে যদি একবারও উত্তর না দেয় তবে সে তার গুনাহসহ প্রত্যাবর্ত করলো।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4913</td></tr><tr><td>Arabic No</td><td>4913</td></tr><tr><td>Reference</td><td>Book 43 Hadith 141</td></tr></tbody></table></div>
 

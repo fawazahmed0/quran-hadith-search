@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মু‘আবিয়াহ ইবনু মুযার্রাদ (রাঃ) থেকে অনুরূপ বর্ণনা করেছেন। (আবূ হুরাইরাহ বলেন) রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, ইচ্ছে হলে তোমরা পড়, (ক্ষমতায় অধিষ্ঠিত হলে সম্ভবত তোমরা পৃথিবীতে বিপর্যয় সৃষ্টি করবে এবং আত্মীয়তার বন্ধন ছিন্ন করবে)। অর্থাৎ آسِنٍ অর্থ পরিবর্তনশীল বা ময়লাযুক্ত।[৪৮৩০] (আধুনিক প্রকাশনীঃ ৪৪৬৭, ইসলামিক ফাউন্ডেশনঃ ৪৪৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মু‘আবিয়াহ ইবনু মুযার্রাদ (রাঃ) থেকে অনুরূপ বর্ণনা করেছেন। (আবূ হুরাইরাহ বলেন) রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, ইচ্ছে হলে তোমরা পড়, (ক্ষমতায় অধিষ্ঠিত হলে সম্ভবত তোমরা পৃথিবীতে বিপর্যয় সৃষ্টি করবে এবং আত্মীয়তার বন্ধন ছিন্ন করবে)। অর্থাৎ آسِنٍ অর্থ পরিবর্তনশীল বা ময়লাযুক্ত।[৪৮৩০] (আধুনিক প্রকাশনীঃ ৪৪৬৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4832</td></tr><tr><td>Arabic No</td><td>4832</td></tr><tr><td>Reference</td><td>Book 65 Hadith 353</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Muawiya bin Abi Al-Muzarrad:Allah's Messenger (ﷺ), said, "Recite if you wish: Would you then if you were given the authority." (47.22)
+Narrated Muawiya bin Abi Al-Muzarrad:Allah's Messenger (ﷺ), said, "Recite if you wish: Would you then if you were given the authority
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4832</td></tr><tr><td>Arabic No</td><td>4832</td></tr><tr><td>Reference</td><td>Book 65 Hadith 353</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Muawiya bin Abi Al-Muzarrad:Allah's Messenger (ﷺ), said, "Recite if y
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்சொன்ன இதே ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் அறிவிக்கப்பட்டுள்ளது. (47:15ஆவது வசனத்தின் மூலத்திலுள்ள) ‘ஆசின்’ எனும் சொல்லுக்கு ‘மாறுகின்ற’ என்பது பொருள். அத்தியாயம் : 65
+மேற்சொன்ன இதே ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் அறிவிக்கப்பட்டுள்ளது. (47:15ஆவது வசனத்தின் மூலத்திலுள்ள) ‘ஆசின்’ எனும் சொல்லுக்கு ‘மாறுகின்ற’ என்பது பொருள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4832</td></tr><tr><td>Arabic No</td><td>4832</td></tr><tr><td>Reference</td><td>Book 65 Hadith 353</td></tr></tbody></table></div>
 

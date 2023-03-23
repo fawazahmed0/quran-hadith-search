@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমূদ ইবন খালিদ ..... মুহাম্মাদ ইবন রাশেদ হতে পূর্বোক্ত হাদীসের সনদে ও অর্থে হাদীস বর্ণিত হয়েছে। তবে রাবী খালিদ অতিরিক্ত বর্ণনা করেছেন যে, সে ব্যভিচারের কারণে সৃষ্ট মায়ের কারণে সন্তান হবে, চাই সে দাসী হোক বা স্বাধীন স্ত্রীলোক। আর এরূপ নির্দেশ ছিল ইসলামের প্রাথমিক যুগে। আর ইসলাম পূর্বে যে মাল বণ্টিত হয়েছে, তা তো গত হয়ে গেছে।
+। মুহাম্মাদ ইবনু রাশিদ (রহ.) থেকে উক্ত সনদে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। এতে অতিরিক্ত রয়েছেঃ ঐ সন্তান মায়ের জারজ সন্তান হিসাবে পরিচিতি পাবে, চাই সে নারী স্বাধীন কিংবা দাসী হোক। এ বিধান ইসলামে প্রাথমিক যুগে প্রযোজন্য ছিলো। আর ইসলামের পূর্বে যে সম্পদ বন্টন হয়েছে তা তো গত হয়ে গেছে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>2266</td></tr><tr><td>Reference</td><td>Book 13 Hadith 92</td></tr></tbody></table></div>
 

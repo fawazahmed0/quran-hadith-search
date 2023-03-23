@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) বলেন, ঈদের দিনে হাবশী লোকেরা ঢাল ও বর্শা নিয়ে খেলা করত। তিনি বলেন, আমি আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে বলেছিলাম কিংবা তিনিই আমাকে বলেছিলেন, তুমি কি দেখতে চাও? আমি বললাম, হ্যাঁ। অতঃপর তিনি আমাকে তাঁর পেছনে দাঁড় করালেন। আমার গাল তাঁর গালের উপর ছিল। তিনি বলছিলেন, হে বানূ আরফিদা, চালিয়ে যাও। যখন আমি ক্লান্ত হয়ে পড়লাম, তিনি আমাকে বললেন, যথেষ্ট হয়েছে? বললাম, হ্যাঁ। তিনি বললেন, তাহলে যাও। আহমদ (রহ.) ইবনু ওয়াহব (রহ.) সূত্রে বলেন, তিনি যখন অন্য মনস্ক হলেন। (৪৪৫) (আধুনিক প্রকাশনীঃ ২৬৯২, ইসলামিক ফাউন্ডেশনঃ ২৭০৩ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2906</td></tr><tr><td>Arabic No</td><td>2906</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

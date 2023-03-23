@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, হে বানূ নাজ্জার! আমাকে তোমাদের বাগানের মূল্য বল। বাগানটিতে ঘরের ভাঙা চুরা অংশ ও খেজুর গাছ ছিল। (২৩৪) (আধুনিক প্রকাশনীঃ ১৯৬১ , ইসলামিক ফাউন্ডেশনঃ ১৯৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, হে বানূ নাজ্জার! আমাকে তোমাদের বাগানের মূল্য বল। বাগানটিতে ঘরের ভাঙা চুরা অংশ ও খেজুর গাছ ছিল। (২৩৪) (আধুনিক প্রকাশনীঃ ১৯৬১ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2106</td></tr><tr><td>Arabic No</td><td>2106</td></tr><tr><td>Reference</td><td>Book 34 Hadith 59</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (மதீனாவில் பள்ளிவாசல் கட்ட எண்ணியபோது), ‘‘பனூ நஜ்ஜார் குலத்தாரே! உங்கள் தோட்டத்திற்கு என்னிடம் விலை கூறுங்கள்” என்று கேட்டார்கள். அதில் பாழடைந்த கட்டடங் களும் பேரீச்ச மரங்களும் இருந்தன. அத்தியாயம் : 34
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (மதீனாவில் பள்ளிவாசல் கட்ட எண்ணியபோது), ‘‘பனூ நஜ்ஜார் குலத்தாரே! உங்கள் தோட்டத்திற்கு என்னிடம் விலை கூறுங்கள்” என்று கேட்டார்கள். அதில் பாழடைந்த கட்டடங் களும் பேரீச்ச மரங்களும் இருந்தன. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2106</td></tr><tr><td>Arabic No</td><td>2106</td></tr><tr><td>Reference</td><td>Book 34 Hadith 59</td></tr></tbody></table></div>
 

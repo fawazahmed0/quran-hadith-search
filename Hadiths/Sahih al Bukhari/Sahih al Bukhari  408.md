@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ ও আবূ সা‘ঈদ (খুদরী) (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদের দেয়ালে কফ দেখে কাঁকর নিয়ে তা মুছে ফেললেন। অতঃপর তিনি বললেনঃ তোমাদের কেউ যেন সামনের দিকে অথবা ডান দিকে কফ না ফেলে, বরং সে যেন তা তার বাম দিকে অথবা তার বাম পায়ের নীচে ফেলে। (৪১০, ৪১১, ৪১৪, ৪১৬) (আধুনিক প্রকাশনীঃ ৩৯৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>408</td></tr><tr><td>Arabic No</td><td>408</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah mengabarkan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி), அபூசயீத் அல்குத்ரீ (ரலி) ஆகியோர் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பள்ளிவாசல் சுவரில் (காறி உமிழப் பட்டிருந்த) சளியைக் கண்டார்கள். உடனே சிறு கல் ஒன்றை எடுத்து அதைச் சுரண்டி (தூய்மைப்படுத்தி)னார்கள். பிறகு, “உங்களில் எவருக்கேனும் சளி உமிழ வேண்டிய அவசியம் ஏற்பட்டால், தமது முகத்துக்கு எதிரே (கிப்லா திசையில்) உமிழ வேண்டாம்; தமது வலப் புறத்திலும் உமிழ வேண்டாம்; தமது இடப் புறமோ பாதத்தின் அடியிலோ அவர் உமிழ்ந்து கொள்ளட்டும்” என்று சொன்னார்கள். அத்தியாயம் : 8
+அபூஹுரைரா (ரலி), அபூசயீத் அல்குத்ரீ (ரலி) ஆகியோர் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பள்ளிவாசல் சுவரில் (காறி உமிழப் பட்டிருந்த) சளியைக் கண்டார்கள். உடனே சிறு கல் ஒன்றை எடுத்து அதைச் சுரண்டி (தூய்மைப்படுத்தி)னார்கள். பிறகு, “உங்களில் எவருக்கேனும் சளி உமிழ வேண்டிய அவசியம் ஏற்பட்டால், தமது முகத்துக்கு எதிரே (கிப்லா திசையில்) உமிழ வேண்டாம்; தமது வலப் புறத்திலும் உமிழ வேண்டாம்; தமது இடப் புறமோ பாதத்தின் அடியிலோ அவர் உமிழ்ந்து கொள்ளட்டும்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>408</td></tr><tr><td>Arabic No</td><td>408</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah mengabarkan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Humeyd İbn Abdurrahman'dan şöyle nakledilmiştir: "Ebu Hureyre ve Ebu Saîd el-Hudrî'nin bana anlattıklarına göre Nebi Sallallahu Aleyhi ve Sellem cami duvarında balgam gördü. Hemen bir taş alıp onu kazıyarak temizledi. Sonra da şöyle buyurdu: "Siz'den biri balgamını çıkaracağı zaman, ön tarafına ve sağ tarafına tükürmesin. Ya sol tarafına ya da sol ayağını bastığı yere tükürsün. Tekrar: 411, 414
+Humeyd İbn Abdurrahman'dan şöyle nakledilmiştir: "Ebu Hureyre ve Ebu Saîd el-Hudrî'nin bana anlattıklarına göre Nebi Sallallahu Aleyhi ve Sellem cami duvarında balgam gördü. Hemen bir taş alıp onu kazıyarak temizledi. Sonra da şöyle buyurdu: "Siz'den biri balgamını çıkaracağı zaman, ön tarafına ve sağ tarafına tükürmesin. Ya sol tarafına ya da sol ayağını bastığı yere tükürsün. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>408</td></tr><tr><td>Arabic No</td><td>408</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

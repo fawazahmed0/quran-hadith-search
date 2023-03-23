@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/১১২৭। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শোন! তোমাদের কেউ বকরী চরাবার জন্য এক বা দু মইল দূরে চলে গেল, অতঃপর সেখানে ঘাস না পেয়ে আরও দূরে চলে গেল, তারপর জুমুআহর দিন এলো, কিন্তু সে এসে জুমুআহর সালাত (নামায/নামাজ) এ উপস্থিত হলো না। তারপর আরেক জুমুআহ এলো এবং সে তাতেও হাযির হলো না, তারপর আরেক জুমুআহ এলো এবং সে তাতেও হাযির হলো না, শেষে তার অন্তরে মোহর মেরে দেয়া হয়।
+। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শোন! তোমাদের কেউ বকরী চরাবার জন্য এক বা দু মইল দূরে চলে গেল, অতঃপর সেখানে ঘাস না পেয়ে আরও দূরে চলে গেল, তারপর জুমুআহর দিন এলো, কিন্তু সে এসে জুমুআহর সালাত (নামায/নামাজ) এ উপস্থিত হলো না। তারপর আরেক জুমুআহ এলো এবং সে তাতেও হাযির হলো না, তারপর আরেক জুমুআহ এলো এবং সে তাতেও হাযির হলো না, শেষে তার অন্তরে মোহর মেরে দেয়া হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sanad Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1127</td></tr><tr><td>Arabic No</td><td>1127</td></tr><tr><td>Reference</td><td>Book 5 Hadith 325</td></tr></tbody></table></div>
 

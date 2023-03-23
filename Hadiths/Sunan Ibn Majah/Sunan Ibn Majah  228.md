@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯/২২৮। আবূ উমামাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এই জ্ঞান জব্দ করে নেয়ার পূর্বেই তোমরা তা ধারণ করো। তা জব্দ করার অর্থ তুলে নেয়া। অতঃপর তিনি তাঁর শাহাদাত ও মধ্যমা আঙ্গুল একত্র করে বলেনঃ এভাবে। অতঃপর তিনি বলেনঃ শিক্ষক ও শিক্ষার্থী প্রতিদানে সমান অংশীদার। অবশিষ্ট লোকের মধ্যে কোন সৌন্দর্য ও কল্যাণ নেই।
+। আবূ উমামাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এই জ্ঞান জব্দ করে নেয়ার পূর্বেই তোমরা তা ধারণ করো। তা জব্দ করার অর্থ তুলে নেয়া। অতঃপর তিনি তাঁর শাহাদাত ও মধ্যমা আঙ্গুল একত্র করে বলেনঃ এভাবে। অতঃপর তিনি বলেনঃ শিক্ষক ও শিক্ষার্থী প্রতিদানে সমান অংশীদার। অবশিষ্ট লোকের মধ্যে কোন সৌন্দর্য ও কল্যাণ নেই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>228</td></tr><tr><td>Arabic No</td><td>228</td></tr><tr><td>Reference</td><td>Book 0 Hadith 228</td></tr></tbody></table></div>
 

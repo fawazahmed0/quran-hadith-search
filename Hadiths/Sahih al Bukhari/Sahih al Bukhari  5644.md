@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মু’মিন ব্যক্তির দৃষ্টান্ত হল, শস্যক্ষেতের নরম চারাগাছের মত। যে কোন দিক থেকেই তার দিকে বাতাস আসলে বাতাস তাকে নুইয়ে দেয়। আবার যখন বাতাসের প্রবাহ বন্ধ হয় তখন তা সোজা হয়ে দাঁড়ায়। বালা মুসিবত মু’মিনকে নোয়াতে থাকে। আর ফাসিক হল শক্ত ভূমির উপর শক্তভাবে সোজা হয়ে দাঁড়ানো গাছের মত, যাকে আল্লাহ যখন ইচ্ছে করেন ভেঙ্গে দেন। [৭৪৬৬; মুসলিম ৫০/১৪, হাঃ ২৮০৯] (আধুনিক প্রকাশনী- ৫২৩২, ইসলামিক ফাউন্ডেশন- ৫১২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মু’মিন ব্যক্তির দৃষ্টান্ত হল, শস্যক্ষেতের নরম চারাগাছের মত। যে কোন দিক থেকেই তার দিকে বাতাস আসলে বাতাস তাকে নুইয়ে দেয়। আবার যখন বাতাসের প্রবাহ বন্ধ হয় তখন তা সোজা হয়ে দাঁড়ায়। বালা মুসিবত মু’মিনকে নোয়াতে থাকে। আর ফাসিক হল শক্ত ভূমির উপর শক্তভাবে সোজা হয়ে দাঁড়ানো গাছের মত, যাকে আল্লাহ যখন ইচ্ছে করেন ভেঙ্গে দেন। [৭৪৬৬; মুসলিম ৫০/১৪, হাঃ ২৮০৯] (আধুনিক প্রকাশনী- ৫২৩২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5644</td></tr><tr><td>Arabic No</td><td>5644</td></tr><tr><td>Reference</td><td>Book 75 Hadith 4</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The example of a believer is that of a fresh tender plant; from whatever direction the wind comes, it bends it, but when the wind becomes quiet, it becomes straight again. Similarly, a believer is afflicted with calamities (but he remains patient till Allah removes his difficulties.) And an impious wicked person is like a pine tree which keeps hard and straight till Allah cuts (breaks) it down when He wishes." (See Hadith No. 558, Vol. 9)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The example of a believer is that of a fresh tender plant; from whatever direction the wind comes, it bends it, but when the wind becomes quiet, it becomes straight again. Similarly, a believer is afflicted with calamities (but he remains patient till Allah removes his difficulties.) And an impious wicked person is like a pine tree which keeps hard and straight till Allah cuts (breaks) it down when He wishes." (See Hadith No. 558, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5644</td></tr><tr><td>Arabic No</td><td>5644</td></tr><tr><td>Reference</td><td>Book 75 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Mundzir] dia berkata; telah mencerit
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இறைநம்பிக்கையாளரின் நிலையானது, புற்களில் நாணல் போன்றதாகும். காற்றடிக்கும்போது அதைக் காற்று (தன் திசையில்) சாய்த்துவிடும். காற்று நின்று விட்டால், அது நேராக நிற்கும். சோதனை யின்போது (இறைநம்பிக்கையாளரின் நிலையும் அவ்வாறுதான்). தீயவன், உறுதியாக நிமிர்ந்து நிற்கும் தேவதாரு மரத்தைப் போன்றவன். அல்லாஹ், தான் நாடும்போது அதை (ஒரேயடியாக) உடைத்து (சாய்த்து)விடுகிறான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 75
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இறைநம்பிக்கையாளரின் நிலையானது, புற்களில் நாணல் போன்றதாகும். காற்றடிக்கும்போது அதைக் காற்று (தன் திசையில்) சாய்த்துவிடும். காற்று நின்று விட்டால், அது நேராக நிற்கும். சோதனை யின்போது (இறைநம்பிக்கையாளரின் நிலையும் அவ்வாறுதான்). தீயவன், உறுதியாக நிமிர்ந்து நிற்கும் தேவதாரு மரத்தைப் போன்றவன். அல்லாஹ், தான் நாடும்போது அதை (ஒரேயடியாக) உடைத்து (சாய்த்து)விடுகிறான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5644</td></tr><tr><td>Arabic No</td><td>5644</td></tr><tr><td>Reference</td><td>Book 75 Hadith 4</td></tr></tbody></table></div>
 

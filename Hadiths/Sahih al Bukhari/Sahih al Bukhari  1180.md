@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মুল মু’মিনীন হাফসাহ (রাযি.) আমার নিকট বর্ণনা করেছেন যে, যখন মুআয্যিন আযান দিতেন এবং ফজর উদিত হত তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’রাক‘আত সালাত আদায় করতেন। (আধুনিক প্রকাশনীঃ ১১০৫ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ১১১০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1180</td></tr><tr><td>Arabic No</td><td>1180</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

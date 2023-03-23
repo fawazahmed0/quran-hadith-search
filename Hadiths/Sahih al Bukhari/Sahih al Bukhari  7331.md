@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই বলে দু‘আ করেছেনঃ হে আল্লাহ্! তাদের পরিমাপে বরকত দান করুন, তাদের সা‘-এ বরকত দিন এবং তাদের মুদে- অর্থাৎ মাদ্বীনাবাসীদের। [২১৩০] (আধুনিক প্রকাশনী- ৬৮১৯, ইসলামিক ফাউন্ডেশন- ৬৮৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই বলে দু‘আ করেছেনঃ হে আল্লাহ্! তাদের পরিমাপে বরকত দান করুন, তাদের সা‘-এ বরকত দিন এবং তাদের মুদে- অর্থাৎ মাদ্বীনাবাসীদের। [২১৩০] (আধুনিক প্রকাশনী- ৬৮১৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7331</td></tr><tr><td>Arabic No</td><td>7331</td></tr><tr><td>Reference</td><td>Book 96 Hadith 60</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ishaq
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இறைவா! மதீனாவாசிகளுக்கு அவர் களது முகத்தலளவையில் வளத்தை அருள்வாயாக! அவர்களின் ‘ஸாஉ’ மற்றும் ‘முத்’(து) ஆகிய அளவைகளிலும் அவர்களுக்கு வளத்தை அருள்வாயாக!” என்று பிரார்த்தித்தார்கள்.60 அத்தியாயம் : 96
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இறைவா! மதீனாவாசிகளுக்கு அவர் களது முகத்தலளவையில் வளத்தை அருள்வாயாக! அவர்களின் ‘ஸாஉ’ மற்றும் ‘முத்’(து) ஆகிய அளவைகளிலும் அவர்களுக்கு வளத்தை அருள்வாயாக!” என்று பிரார்த்தித்தார்கள்.60 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7331</td></tr><tr><td>Arabic No</td><td>7331</td></tr><tr><td>Reference</td><td>Book 96 Hadith 60</td></tr></tbody></table></div>
 

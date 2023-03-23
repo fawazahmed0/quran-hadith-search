@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’ধরনের ক্রয়-বিক্রয় নিষেধ করেছেন। তা হল লিমাস (৩) ও নিবায (৪) আর ইশতিমালে সাম্মা এবং এক কাপড়ে ইহতিবা করতে নিষেধ করেছেন। (৫৮৪, ৫৮৮, ১৯৯৩, ২১৪৫, ২১৪৬, ৫৮১৯, ৫৮২১ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ৩৫৫, ইসলামিক ফাউন্ডেশনঃ ৩৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’ধরনের ক্রয়-বিক্রয় নিষেধ করেছেন। তা হল লিমাস (৩) ও নিবায (৪) আর ইশতিমালে সাম্মা এবং এক কাপড়ে ইহতিবা করতে নিষেধ করেছেন। (৫৮৪, ৫৮৮, ১৯৯৩, ২১৪৫, ২১৪৬, ৫৮১৯, ৫৮২১ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ৩৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>368</td></tr><tr><td>Arabic No</td><td>368</td></tr><tr><td>Reference</td><td>Book 8 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah bin 'Uqbah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘-மாஸ்’ (முலாமஸா), ‘நபாத்’ (முனாபஃதா) எனும் இரு வியாபார முறைகளுக்குத் தடை விதித்தார்கள். மேலும், ஒரே துணியை உடலில் சுற்றிக்கொண்டு அதன் ஒரு மூலையை ஒரு தோளில் போட்டுக்கொண்டு மற்றொரு தோளைத் திறந்த நிலையில் விட்டுவிடுவதற்கும் (இஷ்திமாலுஸ் ஸம்மாஉ), ஒருவர் ஒரே துணியால் (தம் முதுகையும் முழங்கால்களையும்) போர்த்திக்கொண்டு அமர்ந்திருப்பதற்கும் (இஹ்திபா) தடை விதித்தார்கள்.14 அத்தியாயம் : 8
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘-மாஸ்’ (முலாமஸா), ‘நபாத்’ (முனாபஃதா) எனும் இரு வியாபார முறைகளுக்குத் தடை விதித்தார்கள். மேலும், ஒரே துணியை உடலில் சுற்றிக்கொண்டு அதன் ஒரு மூலையை ஒரு தோளில் போட்டுக்கொண்டு மற்றொரு தோளைத் திறந்த நிலையில் விட்டுவிடுவதற்கும் (இஷ்திமாலுஸ் ஸம்மாஉ), ஒருவர் ஒரே துணியால் (தம் முதுகையும் முழங்கால்களையும்) போர்த்திக்கொண்டு அமர்ந்திருப்பதற்கும் (இஹ்திபா) தடை விதித்தார்கள்.14 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>368</td></tr><tr><td>Arabic No</td><td>368</td></tr><tr><td>Reference</td><td>Book 8 Hadith 20</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qabishah bin 'Uqbah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre'den şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) limâs ve nibâz satışı ile sammâ şeklinde örtünmeyi ve insanların bir parça elbise içinde dizlerini kırarak kaba eti üzerine oturmasını yasakladı. Tekrar; 584, 588, 1992, 2145, 2146, 5819, 5821
+Ebu Hureyre'den şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) limâs ve nibâz satışı ile sammâ şeklinde örtünmeyi ve insanların bir parça elbise içinde dizlerini kırarak kaba eti üzerine oturmasını yasakladı. Tekrar; 584, 588
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>368</td></tr><tr><td>Arabic No</td><td>368</td></tr><tr><td>Reference</td><td>Book 8 Hadith 20</td></tr></tbody></table></div>
 

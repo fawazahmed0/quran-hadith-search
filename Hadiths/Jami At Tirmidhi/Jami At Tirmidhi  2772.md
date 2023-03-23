@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭৭২। আবূ মাসউদ (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তির প্রভাবাধীন এলাকায় কেউ ইমামতি করবে না এবং তার বাড়ীতে তার নির্দিষ্ট আসনে তার অনুমতি ব্যতীত বসবে না। সহীহঃ ইরওয়াহ (৪৯৪), সহীহ আবূ দাউদ (৫৯৪)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ মাসউদ (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তির প্রভাবাধীন এলাকায় কেউ ইমামতি করবে না এবং তার বাড়ীতে তার নির্দিষ্ট আসনে তার অনুমতি ব্যতীত বসবে না। সহীহঃ ইরওয়াহ (৪৯৪), সহীহ আবূ দাউদ (৫৯৪)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2772</td></tr><tr><td>Arabic No</td><td>2772</td></tr><tr><td>Reference</td><td>Book 43 Hadith 42</td></tr></tbody></table></div>
 

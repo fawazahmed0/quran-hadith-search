@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫/৪৩২২। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কাফেরদের দেহ হবে অস্বাভাবিক মোটা, এমনকি তার এক একটি দাঁত হবে উহুদ পাহাড়ের চেয়েও বড়ো। আর তার দেহ হবে তার দাঁতের তুলনায় এতো বিরাট, যেমন তোমাদের কারো দাঁতের তুলনায় তার দেহ অনেক বড় হয়ে থাকে।
+। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কাফেরদের দেহ হবে অস্বাভাবিক মোটা, এমনকি তার এক একটি দাঁত হবে উহুদ পাহাড়ের চেয়েও বড়ো। আর তার দেহ হবে তার দাঁতের তুলনায় এতো বিরাট, যেমন তোমাদের কারো দাঁতের তুলনায় তার দেহ অনেক বড় হয়ে থাকে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4322</td></tr><tr><td>Arabic No</td><td>4322</td></tr><tr><td>Reference</td><td>Book 37 Hadith 223</td></tr></tbody></table></div>
 

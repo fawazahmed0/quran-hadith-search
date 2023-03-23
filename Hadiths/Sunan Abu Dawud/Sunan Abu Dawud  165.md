@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু মারওয়ান ..... মুগীরা ইবনুু শোবা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি তাবুকের যুদ্ধে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে উযূ (ওজু/অজু/অযু) করিয়েছি। তখন তিনি মোজার উপরের ও নীচের অংশ (উভয়ই) মাসেহ্ করেন।
+। মুগীরাহ ইবনু শু’বাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, তাবূক যুদ্ধের সময় আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে অযু করিয়েছি। তিনি মোজাদ্বয়ের উপরিভাগ ও নিম্নভাগ মাসাহ্ করেছেন। [1] দুর্বল : মিশকাত ৫২১। ইমাম আবূ দাউদ (রহঃ) বলেন, আমি জানতে পেরেছি, সাওর হাদীসটি রাজা থেকে শোনেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>165</td></tr><tr><td>Arabic No</td><td>165</td></tr><tr><td>Reference</td><td>Book 1 Hadith 165</td></tr></tbody></table></div>
 

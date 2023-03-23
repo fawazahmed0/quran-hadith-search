@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪০৪, আন্তর্জাতিক নাম্বারঃ ২১৩ ৪০৪-(৩৬৩/২১৩) মুহাম্মাদ ইবনু আল মুসান্না ও ইবনু বাশশার (রহঃ) ..... নুমান ইবনু বাশীর (রাযিঃ) থেকে বর্ণিত। তিনি বক্তৃতায় বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছি যে, কিয়ামত দিবসে জাহান্নামীদের মধ্যে সবচেয়ে হালকা শাস্তি হবে ঐ ব্যক্তির যার দু' পায়ের তলায় দু'টি জ্বলন্ত কয়লা রাখা হবে, যার কারণে তার মগজ উথলাতে থাকবে। (ইসলামিক ফাউন্ডেশনঃ ৪০৯, ইসলামিক সেন্টারঃ ৪২৩)
+মুহাম্মাদ ইবনু আল মুসান্না ও ইবনু বাশশার (রহঃ) ..... নুমান ইবনু বাশীর (রাযিঃ) থেকে বর্ণিত। তিনি বক্তৃতায় বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছি যে, কিয়ামত দিবসে জাহান্নামীদের মধ্যে সবচেয়ে হালকা শাস্তি হবে ঐ ব্যক্তির যার দু' পায়ের তলায় দু'টি জ্বলন্ত কয়লা রাখা হবে, যার কারণে তার মগজ উথলাতে থাকবে। (ইসলামিক ফাউন্ডেশনঃ ৪০৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>213.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 422</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளில் நரகவாசிகளிலேயே மிகவும் குறைவான வேதனை அனுபவிப்பவர் ஒரு மனிதராவார். அவருடைய உள்ளங்கால்களின் நடுவில் இரண்டு நெருப்புக் கங்குகள் வைக்கப் படும். அவற்றால் அவரது மூளை கொதிக்கும். இதை நுஅமான் பின் பஷீர் (ரலி) அவர்கள் உரையாற்றிக்கொண்டிருக்கும்போது அறிவித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 1
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளில் நரகவாசிகளிலேயே மிகவும் குறைவான வேதனை அனுபவிப்பவர் ஒரு மனிதராவார். அவருடைய உள்ளங்கால்களின் நடுவில் இரண்டு நெருப்புக் கங்குகள் வைக்கப் படும். அவற்றால் அவரது மூளை கொதிக்கும். இதை நுஅமான் பின் பஷீர் (ரலி) அவர்கள் உரையாற்றிக்கொண்டிருக்கும்போது அறிவித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>213.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 422</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. EI-Müsenna ile İbni Beşşâr da rivayet ettiler lâfız İbnü'I Müsenna'nındır. Dedilerki: Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. Dediki: Ebu İshâk-ı şöyle derken işittim. Nu'man b. Beşir'i hutbe irâd ederken dinledim, şöyle diyordu: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'i: "Şüphesiz kıyamet gününde cehennemlikler arasında azabı en hafif olacak kişi, ayaklarının altındaki çukura iki kor ateş konulacak bir adamdır. Bu kor ateşten dolayı da beyni kaynayacaktır. " dediğini işittim. Diğer tahric: Buhari, 6561, 6562; Tirmizi, 2604; Tuhfetu'I-Eşraf, 11636
+Bize Muhammed b. EI-Müsenna ile İbni Beşşâr da rivayet ettiler lâfız İbnü'I Müsenna'nındır. Dedilerki: Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. Dediki: Ebu İshâk-ı şöyle derken işittim. Nu'man b. Beşir'i hutbe irâd ederken dinledim, şöyle diyordu: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'i: "Şüphesiz kıyamet gününde cehennemlikler arasında azabı en hafif olacak kişi, ayaklarının altındaki çukura iki kor ateş konulacak bir adamdır. Bu kor ateşten dolayı da beyni kaynayacaktır. " dediğini işittim. Diğer tahric: Buhari, 6561, 6562; Tirmizi, 2604; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>213.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 422</td></tr></tbody></table></div>
 

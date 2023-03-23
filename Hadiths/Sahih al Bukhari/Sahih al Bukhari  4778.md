@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, গায়বের [1] চাবি পাঁচটি। এরপর তিনি এ আয়াত পাঠ করলেনঃ ক্বিয়ামাত (কিয়ামত) সম্পর্কিত জ্ঞান কেবল আল্লাহ্ তা‘আলারই আছে। [১০৩৯] (আধুনিক প্রকাশনীঃ ৪৪১৪, ইসলামিক ফাউন্ডেশনঃ ৪৪১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, গায়বের [1] চাবি পাঁচটি। এরপর তিনি এ আয়াত পাঠ করলেনঃ ক্বিয়ামাত (কিয়ামত) সম্পর্কিত জ্ঞান কেবল আল্লাহ্ তা‘আলারই আছে। [১০৩৯] (আধুনিক প্রকাশনীঃ ৪৪১৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 65 Hadith 300</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "The keys of the Unseen are five." And then he recited: 'Verily, the knowledge of the Hour is with Allah (alone).' (31.34)
+Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "The keys of the Unseen are five." And then he recited: 'Verily, the knowledge of the Hour is with Allah (alone)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 65 Hadith 300</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "The keys of the Unseen are
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Sulaiman] dia berkata; Telah menceritakan kepadaku [Ibnu Wahab] dia berkata; Telah menceritakan kepadaku [Umar bin Muhammad bin Zaid bin Abdullah bin Umar] bahwa [Bapaknya] menceritakan kepadanya; Sesungguhnya [Abdullah bin Umar radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Kunci-kunci perkara ghaib ada lima." lalu beliau membaca ayat; Sesungguhnya hanya pada Allah sajalah pengetahuan tentang Hari Kiamat.. (Luqman: 34)
+Telah menceritakan kepada kami [Yahya bin Sulaiman] dia berkata; Telah menceritakan kepadaku [Ibnu Wahab] dia berkata; Telah menceritakan kepadaku [Umar bin Muhammad bin Zaid bin Abdullah bin Umar] bahwa [Bapaknya] menceritakan kepadanya; Sesungguhnya [Abdullah bin Umar radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Kunci-kunci perkara ghaib ada lima." lalu beliau membaca ayat; Sesungguhnya hanya pada Allah sajalah pengetahuan tentang Hari Kiamat.. (Luqman:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 65 Hadith 300</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Sulaiman] dia berkata; Telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘மறைவானவற்றின் திறவுகோல்கள் ஐந்தாகும்” என்று கூறிவிட்டு, பிறகு ‘‘நிச்சயமாக, மறுமை(நாள் எப்போது வரும் என்பது) பற்றிய அறிவு அல்லாஹ்விடமே உள்ளது” என்று தொடங்கும் (31:34 ஆவது) இறைவசனத்தை ஓதினார்கள்.5 அத்தியாயம் : 65
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘மறைவானவற்றின் திறவுகோல்கள் ஐந்தாகும்” என்று கூறிவிட்டு, பிறகு ‘‘நிச்சயமாக, மறுமை(நாள் எப்போது வரும் என்பது) பற்றிய அறிவு அல்லாஹ்விடமே உள்ளது” என்று தொடங்கும் (31:34 ஆவது) இறைவசனத்தை ஓதினார்கள்.5 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 65 Hadith 300</td></tr></tbody></table></div>
 

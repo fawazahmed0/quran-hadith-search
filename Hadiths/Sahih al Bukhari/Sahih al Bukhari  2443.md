@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমার ভাইকে সাহায্য কর, সে যালিম হোক অথবা মাযলুম। (অর্থাৎ যালিম ভাইকে যুলুম থেকে বিরত রাখবে এবং মাযলুম ভাইকে যালিমের হাত হতে রক্ষা করবে)। (২৪৪৪, ৬৯৫২) (আধুনিক প্রকাশনীঃ ২২৬৪, ইসলামিক ফাউন্ডেশনঃ ২২৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমার ভাইকে সাহায্য কর, সে যালিম হোক অথবা মাযলুম। (অর্থাৎ যালিম ভাইকে যুলুম থেকে বিরত রাখবে এবং মাযলুম ভাইকে যালিমের হাত হতে রক্ষা করবে)। (২৪৪৪, ৬৯৫২) (আধুনিক প্রকাশনীঃ ২২৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 46 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Utsman bin Abi Syaibah] telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உன் சகோதரன் அநீதியிழைத்தவனாக உள்ள நிலையிலும் அநீதியிழைக்கப் பட்டவனாக உள்ள நிலையிலும் அவனுக்கு நீ உதவி செய். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 46
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உன் சகோதரன் அநீதியிழைத்தவனாக உள்ள நிலையிலும் அநீதியிழைக்கப் பட்டவனாக உள்ள நிலையிலும் அவனுக்கு நீ உதவி செய். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 46 Hadith 4</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Utsman bin Abi Syaibah] telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "İster haksızlığa uğrasın, ister haksızlık etsin, din kardeşine yardım et" Tekrar: 2444, 6952
+Enes İbn Malik r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "İster haksızlığa uğrasın, ister haksızlık etsin, din kardeşine yardım et" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 46 Hadith 4</td></tr></tbody></table></div>
 

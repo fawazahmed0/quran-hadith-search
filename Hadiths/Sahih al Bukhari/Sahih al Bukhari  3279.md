@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি, তিনি পূর্ব দিকে ইঙ্গিত করে বলেছেন, সাবধান! ফিতনা এখানেই। সাবধান! ফিতনা এখানেই। যেখান থেকে শয়তানের শিং উদিত হবে। (৩১০৪) (আধুনিক প্রকাশনীঃ ৩০৩৭, ইসলামিক ফাউন্ডেশনঃ ৩০৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি, তিনি পূর্ব দিকে ইঙ্গিত করে বলেছেন, সাবধান! ফিতনা এখানেই। সাবধান! ফিতনা এখানেই। যেখান থেকে শয়তানের শিং উদিত হবে। (৩১০৪) (আধুনিক প্রকাশনীঃ ৩০৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3279</td></tr><tr><td>Arabic No</td><td>3279</td></tr><tr><td>Reference</td><td>Book 59 Hadith 88</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari ['Abdulla
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கிழக்குத் திசையை நோக்கி சைகை காட்டியபடி, ‘‘குழப்பம் இங்குதான். குழப்பம் இங்குதான். ஷைத்தானின் கொம்பு உதயமாகும் இடத்திலிருந்து... (அது தோன்றும்)” என்று கூறினார்கள்.81 அத்தியாயம் : 59
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கிழக்குத் திசையை நோக்கி சைகை காட்டியபடி, ‘‘குழப்பம் இங்குதான். குழப்பம் இங்குதான். ஷைத்தானின் கொம்பு உதயமாகும் இடத்திலிருந்து... (அது தோன்றும்)” என்று கூறினார்கள்.81 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3279</td></tr><tr><td>Arabic No</td><td>3279</td></tr><tr><td>Reference</td><td>Book 59 Hadith 88</td></tr></tbody></table></div>
 

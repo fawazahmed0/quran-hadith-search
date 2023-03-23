@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনু বাশশার ও আবদুল্লাহ ইবনু হাশিম (রহঃ) ..... কা'ব ইবনু মালিক (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে তাদের অবিকল হাদীস বর্ণনা করেছেন। কিন্তু তারা দু’জনেই ইয়াহইয়া (রহঃ) হতে বর্ণনা করেছেন যে, কফিরের দৃষ্টান্ত দেবদারু গাছের মতো। (ইসলামিক ফাউন্ডেশন ৬৮৩৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7097</td></tr><tr><td>Arabic No</td><td>2810.04</td></tr><tr><td>Reference</td><td>Book 52 Hadith 51</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் கஅப் பின் மாலிக் (ரலி) அவர்களிடமிருந்தே மேலும் இரு அறிவிப்பாளர் தொடர்கள் வழியாகவும் வந்துள்ளது. அவற்றில் யஹ்யா அல்கத்தான் (ரஹ்) அவர்களது அறிவிப்பில், "இறைமறுப்பாளனின் நிலை தேவதாரு மரத்திற்கு ஒப்பானதாகும்" என்று இடம்பெற்றுள்ளது. மற்றவர்களின் அறிவிப்பில் மேற்கண்ட ஹதீஸில் உள்ளதைப் போன்றே ("நயவஞ்சகனின் நிலை" என்று) காணப்படுகிறது. அத்தியாயம் : 50
+மேற்கண்ட ஹதீஸ் கஅப் பின் மாலிக் (ரலி) அவர்களிடமிருந்தே மேலும் இரு அறிவிப்பாளர் தொடர்கள் வழியாகவும் வந்துள்ளது. அவற்றில் யஹ்யா அல்கத்தான் (ரஹ்) அவர்களது அறிவிப்பில், "இறைமறுப்பாளனின் நிலை தேவதாரு மரத்திற்கு ஒப்பானதாகும்" என்று இடம்பெற்றுள்ளது. மற்றவர்களின் அறிவிப்பில் மேற்கண்ட ஹதீஸில் உள்ளதைப் போன்றே ("நயவஞ்சகனின் நிலை" என்று) காணப்படுகிறது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7097</td></tr><tr><td>Arabic No</td><td>2810.04</td></tr><tr><td>Reference</td><td>Book 52 Hadith 51</td></tr></tbody></table></div>
 

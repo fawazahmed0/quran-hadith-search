@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَجَلَسَ النَّبِيُّ صلى الله عليه وسلم وَأَصْحَابُهُ فِي سَقِيفَةِ بَنِي سَاعِدَةَ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর সাহাবীগণ বনু সাঈদার ছায়াযুক্ত উঠানে বসেছিলেন। ২৪৬২. ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহ তা‘আলা যখন তাঁর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে তাঁর সান্নিধ্যে উঠিয়ে নিলেন, তখন আনসারগণ বনূ সাঈদা গোত্রের ছায়া ছাউনীতে গিয়ে সমবেত হলেন। আমি আবূ বাকর (রাঃ)-কে বললাম, আমাদের সঙ্গে চলুন। এরপর আমরা তাদের নিকট সাকীফাহ বনূ সাঈদাতে গিয়ে পৌঁছলাম। (৩৪৪৫, ৩৯২৮, ৪০২১, ৬৮২৯, ৬৮৩০, ৭৩২৩) (আধুনিক প্রকাশনীঃ ২২৮৩, ইসলামিক ফাউন্ডেশনঃ ২৩০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَجَلَسَ النَّبِيُّ صلى الله عليه وسلم وَأَصْحَابُهُ فِي سَقِيفَةِ بَنِي سَاعِدَةَ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর সাহাবীগণ বনু সাঈদার ছায়াযুক্ত উঠানে বসেছিলেন। ২৪৬২. ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহ তা‘আলা যখন তাঁর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে তাঁর সান্নিধ্যে উঠিয়ে নিলেন, তখন আনসারগণ বনূ সাঈদা গোত্রের ছায়া ছাউনীতে গিয়ে সমবেত হলেন। আমি আবূ বাকর (রাঃ)-কে বললাম, আমাদের সঙ্গে চলুন। এরপর আমরা তাদের নিকট সাকীফাহ বনূ সাঈদাতে গিয়ে পৌঁছলাম। (৩৪৪৫, ৩৯২৮, ৪০২১, ৬৮২৯, ৬৮৩০, ৭৩২৩) (আধুনিক প্রকাশনীঃ ২২৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2462</td></tr><tr><td>Arabic No</td><td>2462</td></tr><tr><td>Reference</td><td>Book 46 Hadith 23</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ், தன் தூதர் (ஸல்) அவர் களை மரணிக்கச் செய்தபோது, அன்சாரி கள் யிபனூ சாயிதா’ சாவடியில் ஒன்றுகூடி விட்டார்கள். நான் அபூபக்ர் (ரலி) அவர் களை, ‘‘எங்களுடன் வாருங்கள்” என்று அழைத்தேன். நாங்கள் அன்சாரிகளிடம் பனூ சாயிதா (குலத்தாரின்) சாவடிக்குச் சென்றோம்.8 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 46
+உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ், தன் தூதர் (ஸல்) அவர் களை மரணிக்கச் செய்தபோது, அன்சாரி கள் யிபனூ சாயிதா’ சாவடியில் ஒன்றுகூடி விட்டார்கள். நான் அபூபக்ர் (ரலி) அவர் களை, ‘‘எங்களுடன் வாருங்கள்” என்று அழைத்தேன். நாங்கள் அன்சாரிகளிடம் பனூ சாயிதா (குலத்தாரின்) சாவடிக்குச் சென்றோம்.8 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2462</td></tr><tr><td>Arabic No</td><td>2462</td></tr><tr><td>Reference</td><td>Book 46 Hadith 23</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ubeydullah İbn Abdullah İbn Utbe'den rivayet edilmiştir: Abdullah İbn Abbas r.a. ona Ömer r.a. hakkında şunu anlatmıştır: Allah, Resulü Sallallahu Aleyhi ve Sellem'i vefat ettirince ensar Saide oğullarının gölgeliğinde toplandı. Ben Ebu Bekir'e: "Haydi, biz de gidelim" dedim ve biz de Saide oğullarının gölgeliğine, onların yanına geldik. Tekrar: 3445, 4021, 6829, 6830, 7323
+Ubeydullah İbn Abdullah İbn Utbe'den rivayet edilmiştir: Abdullah İbn Abbas r.a. ona Ömer r.a. hakkında şunu anlatmıştır: Allah, Resulü Sallallahu Aleyhi ve Sellem'i vefat ettirince ensar Saide oğullarının gölgeliğinde toplandı. Ben Ebu Bekir'e: "Haydi, biz de gidelim" dedim ve biz de Saide oğullarının gölgeliğine, onların yanına geldik. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2462</td></tr><tr><td>Arabic No</td><td>2462</td></tr><tr><td>Reference</td><td>Book 46 Hadith 23</td></tr></tbody></table></div>
 

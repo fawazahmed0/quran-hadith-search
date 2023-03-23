@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘উসমান (রাঃ) বাদার যুদ্ধে অনুপস্থিত ছিলেন। কেননা, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কন্যা ছিলেন তাঁর স্ত্রী আর তিনি ছিলেন পীড়িত। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে বললেন, ‘বাদ্র যুদ্ধে যোগদানকারীর সমপরিমাণ সাওয়াব ও (গানীমাতের) অংশ তুমি পাবে।’ (৩৬৯৮, ৩৭০৪, ৪০৬৬, ৪৫১৩, ৪৫১৪, ৪৬৫০, ৪৬৫১, ৭০৯৫) (আধুনিক প্রকাশনীঃ ২৮৯৬, ইসলামিক ফাউন্ডেশনঃ ২৯০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘উসমান (রাঃ) বাদার যুদ্ধে অনুপস্থিত ছিলেন। কেননা, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কন্যা ছিলেন তাঁর স্ত্রী আর তিনি ছিলেন পীড়িত। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে বললেন, ‘বাদ্র যুদ্ধে যোগদানকারীর সমপরিমাণ সাওয়াব ও (গানীমাতের) অংশ তুমি পাবে।’ (৩৬৯৮, ৩৭০৪, ৪০৬৬, ৪৫১৩, ৪৫১৪, ৪৬৫০, ৪৬৫১, ৭০৯৫) (আধুনিক প্রকাশনীঃ ২৮৯৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3130</td></tr><tr><td>Arabic No</td><td>3130</td></tr><tr><td>Reference</td><td>Book 57 Hadith 39</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musa] telah bercerita kepada kami [Abu 'Awanah] tel
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: உஸ்மான் (ரலி) அவர்கள் பத்ர் போரில் கலந்துகொள்ளாமல் போனதற்குக் காரணம், அவர்களின் துணைவியார் நோயாளியாக இருந்ததுதான். அவர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் புதல்வியாவார்.50 அப்போது நபி (ஸல்) அவர்கள் உஸ்மான் (ரலி) அவர்களிடம், ‘‘பத்ர் போரில் கலந்துகொண்டவருக்குரிய நன்மையும் (போர்ச் செல்வத்தில்) அவருக் குரிய பங்கும் உங்களுக்கு உண்டு” என்று கூறினார்கள். அத்தியாயம் : 57
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: உஸ்மான் (ரலி) அவர்கள் பத்ர் போரில் கலந்துகொள்ளாமல் போனதற்குக் காரணம், அவர்களின் துணைவியார் நோயாளியாக இருந்ததுதான். அவர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் புதல்வியாவார்.50 அப்போது நபி (ஸல்) அவர்கள் உஸ்மான் (ரலி) அவர்களிடம், ‘‘பத்ர் போரில் கலந்துகொண்டவருக்குரிய நன்மையும் (போர்ச் செல்வத்தில்) அவருக் குரிய பங்கும் உங்களுக்கு உண்டு” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3130</td></tr><tr><td>Arabic No</td><td>3130</td></tr><tr><td>Reference</td><td>Book 57 Hadith 39</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Musa] telah bercerita kepada kami [Abu 'Awanah] tel
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a.'in şöyle dediği nakledilmiştir: "Hz. Osman Bedir savaşına katılamamıştı. Zira o hasta olan eşi ile ilgilenmek zorundaydı. Onun eşi ise Resulullah Sallallahu Aleyhi ve Sellem'in kızı idi. Resul-i Ekrem Sallallahu Aleyhi ve Sellem ona: "Sana Bedir savaşına katılmış birisi gibi ecir vardır" deyip ganimetten pay verdi. " Tekrar: 3698, 3704, 4066, 4513, 4514, 4650, 4651, 7095
+Abdullah İbn Ömer r.a.'in şöyle dediği nakledilmiştir: "Hz. Osman Bedir savaşına katılamamıştı. Zira o hasta olan eşi ile ilgilenmek zorundaydı. Onun eşi ise Resulullah Sallallahu Aleyhi ve Sellem'in kızı idi. Resul-i Ekrem Sallallahu Aleyhi ve Sellem ona: "Sana Bedir savaşına katılmış birisi gibi ecir vardır" deyip ganimetten pay verdi. " Tekrar: 3698, 3704, 4066
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3130</td></tr><tr><td>Arabic No</td><td>3130</td></tr><tr><td>Reference</td><td>Book 57 Hadith 39</td></tr></tbody></table></div>
 

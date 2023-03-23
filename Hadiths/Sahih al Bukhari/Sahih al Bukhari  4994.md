@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি সূরাহ বনী ইসরাঈল, সূরাহ কাহ্ফ, সূরাহ মারিয়াম, সূরাহ ত্বাহা এবং সূরাহ আম্বিয়া সম্পর্কে বলতেন যে, এগুলো হচ্ছে আমার সর্বপ্রথম সম্পদ এবং এগুলো আমার পুরাতন সম্পত্তি। [৪৭০৮] (আধুনিক প্রকাশনীঃ ৪৬২৩, ইসলামিক ফাউন্ডেশনঃ ৪৬২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি সূরাহ বনী ইসরাঈল, সূরাহ কাহ্ফ, সূরাহ মারিয়াম, সূরাহ ত্বাহা এবং সূরাহ আম্বিয়া সম্পর্কে বলতেন যে, এগুলো হচ্ছে আমার সর্বপ্রথম সম্পদ এবং এগুলো আমার পুরাতন সম্পত্তি। [৪৭০৮] (আধুনিক প্রকাশনীঃ ৪৬২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4994</td></tr><tr><td>Arabic No</td><td>4994</td></tr><tr><td>Reference</td><td>Book 66 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துர்ரஹ்மான் பின் யஸீத் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு மஸ்ஊத் (ரலி) அவர்கள் பனூ இஸ்ராயீல், அல்கஹ்ஃப், மர்யம் (ஆகிய 17, 18, 19ஆம்) அத்தியாயங்கள் குறித்துக் கூறுகையில், ‘‘இவை அதிசயமான முதல்தர அத்தியாயங்களில் உள்ளவையாகும். மேலும், இவை நான் மனனம் செய்த பழைய தொடக்கக் கால அத்தியாயங்களில் அடங்கும்” என்று குறிப்பிட்டார்கள்.21 அத்தியாயம் : 66
+அப்துர்ரஹ்மான் பின் யஸீத் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு மஸ்ஊத் (ரலி) அவர்கள் பனூ இஸ்ராயீல், அல்கஹ்ஃப், மர்யம் (ஆகிய 17, 18, 19ஆம்) அத்தியாயங்கள் குறித்துக் கூறுகையில், ‘‘இவை அதிசயமான முதல்தர அத்தியாயங்களில் உள்ளவையாகும். மேலும், இவை நான் மனனம் செய்த பழைய தொடக்கக் கால அத்தியாயங்களில் அடங்கும்” என்று குறிப்பிட்டார்கள்.21 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4994</td></tr><tr><td>Arabic No</td><td>4994</td></tr><tr><td>Reference</td><td>Book 66 Hadith 16</td></tr></tbody></table></div>
 

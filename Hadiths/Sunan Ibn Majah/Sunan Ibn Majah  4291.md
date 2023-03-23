@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০/৪২৯১। আবূ বুরদা (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ কিয়ামতের দিন সমগ্র সৃষ্টিকে একত্র করার পর মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উম্মাতকে সিজদারত হওয়ার নির্দেশ দেয়া হবে। তারা দীর্ঘক্ষণ তাঁর উদ্দেশে সিজদারত থাকবে। অতঃপর বলা হবে, তোমরা মাথা উঠাও। আমি তোমাদের সমসংখ্যককে (কাফেরকে) জাহান্নামের ফিদয়া স্বরূপ দিয়েছি।
+। আবূ বুরদা (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ কিয়ামতের দিন সমগ্র সৃষ্টিকে একত্র করার পর মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উম্মাতকে সিজদারত হওয়ার নির্দেশ দেয়া হবে। তারা দীর্ঘক্ষণ তাঁর উদ্দেশে সিজদারত থাকবে। অতঃপর বলা হবে, তোমরা মাথা উঠাও। আমি তোমাদের সমসংখ্যককে (কাফেরকে) জাহান্নামের ফিদয়া স্বরূপ দিয়েছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4291</td></tr><tr><td>Arabic No</td><td>4291</td></tr><tr><td>Reference</td><td>Book 37 Hadith 192</td></tr></tbody></table></div>
 

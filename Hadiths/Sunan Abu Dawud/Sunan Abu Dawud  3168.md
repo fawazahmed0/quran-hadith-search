@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কোন জানাযার অনুগমন করে, তার সালাতুল জানাযা আদায় করে, সে এক কীরাত ছওয়াব পায়। আর যে ব্যক্তি জানাযার সাথে গমন করে তার দাফনেও শরীক হয়, সে ব্যক্তি দু'কীরাত ছওয়াব পায়। ঐ দু'কীরাতের ছোট কীরাতের পরিমাণ হলো উহুদ পাহাড়ের সমান, অথবা দু'কীরাতের মাঝে এক কীরাত হলো উহুদ পাহাড় সমতুল্য।
+। আবূ হুরাইরা (রাঃ) সূত্রে বর্ণিত। তিনি বলেনঃ (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন), যে ব্যক্তি লাশের অনুগমন করে এবং তার জানাযা আদায় করে তার জন্য এক ক্বীরাত সওয়াব রয়েছে। আর যে ব্যক্তি লাশের অনুগমন করে এবং দাফন শেষ করা পর্যন্ত শরীক থাকে তার জন্য রয়েছে দু’ ক্বীরাত সওয়াব। এ দু’ ক্বীরাতের ছোট ক্বীরাতটি উহুদ পাহাড়ের সমান অথবা উভয়ের একটি উহুদ পাহাড়ের সমান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3168</td></tr><tr><td>Arabic No</td><td>3168</td></tr><tr><td>Reference</td><td>Book 21 Hadith 80</td></tr></tbody></table></div>
 

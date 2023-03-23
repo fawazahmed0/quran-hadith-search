@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্ত্রী হাফসা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন শোয়ার ইচ্ছা করতেন, তখন তিনি তাঁর ডান হাত ডান গালের নীচে রেখে নীচের দু'আটি তিনবার পড়তেনঃ হে আল্লাহ্‌! যেদিন আপনি আপনার বান্দাদের পুনরায় জীবিত করে উঠাবেন, সেদিন আপনার আযাব থেকে আমাকে রক্ষা করবেন। ["তিনবার" কথাটুকু সহিহ নয়।]
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্ত্রী হাফসাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন শয়ন করতেন তখন তার ডান হাত গালের নীচে রেখে তিনবার বলতেনঃ ‘‘আল্লাহুম্মা কিন্নী আযাবাকা ইয়াওমা তাব‘আসু ইবাদাকা’’ (অর্থঃ হে আল্লাহ! আপনি যেদিন আপনার বান্দাদেরকে কবর থেকে উঠাবেন, সেদিন আমাকে আপনার আযাব থেকে রক্ষা করুন)।[1] সহীহ। তবে ‘তিনবার’ কথাটি বাদে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5045</td></tr><tr><td>Arabic No</td><td>5045</td></tr><tr><td>Reference</td><td>Book 43 Hadith 273</td></tr></tbody></table></div>
 

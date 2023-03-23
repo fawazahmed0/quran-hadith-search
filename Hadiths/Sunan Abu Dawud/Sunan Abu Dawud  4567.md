@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমূদ ইবন খালিদ (রহঃ) ..... আমর ইবন শু'আয়েব (রহঃ) তার পিতা হতে এবং তিনি তার দাদা হতে বর্ণনা করেছেন। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চোখের ব্যাপারে, যা স্বস্থানে অবস্থিত থাকা সত্ত্বেও এর দৃষ্টি শক্তি বিনষ্ট হয়ে যায়, এজন্য দিয়াতের এক-তৃতীয়াংশ নির্ধারণ করেছেন।
+। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা এবং তার দাদার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নির্দেশ দিয়েছেন, যদি আঘাতের কারণে চক্ষু স্থানচ্যুত না হয়ে জ্যোতি নষ্ট হয় তাহলে পূর্ণ দিয়াতের এক-তৃতীয়াংশ দিতে হবে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4567</td></tr><tr><td>Arabic No</td><td>4567</td></tr><tr><td>Reference</td><td>Book 41 Hadith 74</td></tr></tbody></table></div>
 

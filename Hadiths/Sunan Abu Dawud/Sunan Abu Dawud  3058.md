@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন মারযূক (রহঃ) .... আল্‌কামা ইবন ওয়াইল (রাঃ) তাঁর পিতা হতে বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে হাযরামাওতে একখন্ড যমীন বন্দোবস্ত দিয়েছিলেন।
+। ওয়াইল (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে হাদরামাওত এলাকায় এখ খন্ড জমি জায়গীর হিসাবে দিয়েছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ঈদ ইবন মানসূর ও ‘উছমান ইবন আবূ শায়বা (রহঃ) ..... রুয়াইফা ইবন ছাবিত আল আনসারী (রাঃ) থেকে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আল্লাহর উপর এবং কিয়ামতের দিনের উপর ঈমান রাখে, সে যেন মুসলিমদের গণীমতের মালের কোন বাহনের উপর সওয়ার না হয়, এমনকি সে তা দুর্বল করে ফেরত দেয়। আর যে ব্যক্তি আল্লাহর উপর এবং কিয়ামতের দিনের উপর ঈমান রাখে, সে যেন মুসলিমদের প্রাপ্ত মালে-গণীমত থেকে কোন কাপড় না পরে, এমন কি সে তা পুরাতন করে ফেরত দেয়।
+। রুয়াইফি ইবনু সাবিত আল-আনসারী (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি আল্লাহ ও আখিরাতের উপর ঈমান রাখে সে যেন মুসলিমদের ‘ফাই‘লব্ধ পশুর পিঠে সাওয়ার না হয়। সে সাওয়ারী হিসাবে ব্যবহার করে তাকে দুর্বল করে গানীমাতে ফেরত দেয় (এরূপ করা উচিত নয়)। যে ব্যক্তি আল্লাহ ও আখিরাতের প্রতি ঈমান রাখে, সে যেন মুসলিমদের গানীমাতের পোশাক না পরে, এমন কি সে তা পুরাতন করে গানীমাতে ফেরত দেয় (এটা ঠিক নয়)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2708</td></tr><tr><td>Arabic No</td><td>2708</td></tr><tr><td>Reference</td><td>Book 15 Hadith 232</td></tr></tbody></table></div>
 

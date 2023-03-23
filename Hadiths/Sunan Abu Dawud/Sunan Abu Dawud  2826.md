@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ ইবন সারী ও হাসান ইবন ‘ঈসা (রহঃ) ..... ইবন ‘আব্বাস ও আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তাঁরা বলেনঃ রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তাঁরা বলেনঃ রাসূলুল্লাহ্সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘শারীতাতে শয়তান’ হতে নিষেধ করেছেন। রাবী ইবন ঈসা (রহঃ) তাঁর বর্ণিত হাদীছে এরূপ অতিরিক্ত বর্ণনা করেছেন যে, ‘শারীতাতে শয়তানের’ অর্থ হলোঃ কোন পশুকে যবাহের সময় কেবল তার উপরের চামড়া কেটে ছেড়ে দেওয়া এবং রগ কর্তন না করা। ফলে সে (অধিক কষ্ট পেয়ে) এ অবস্থায় মারা যায়।
+। ইবনু ‘আব্বাস (রাঃ) ও আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তারা বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শয়তানের নিয়মে যবাহ করতে নিষেধ করেছেন। ইবনু ঈসা বর্ণিত হাদীসে রয়েছেঃ ‘শারীতাতিশ শাইতান হলোঃ যবাহের সময় রগ না কেটে কেবল শরীরের চামড়া তুলে পশুকে রেখে দেয়া, ফলে অধিক কষ্ট পেয়ে পশুটি মারা যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2826</td></tr><tr><td>Arabic No</td><td>2826</td></tr><tr><td>Reference</td><td>Book 16 Hadith 39</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Hannad bin As Sari], dan [Al Hasan bin Isa] mant
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas ile Ebü Hüreyre'den rivayet olunmuştur ki: "Rasûlullah (S.A.V.) şeritatüşşeytanı yasaklamıştır" (Ravî el-Hasen) İbn îsa (şeritatüşşeytan tabirini açıklamak üzere) rivayetine (şu sözleri de) ekledi: "O derisinin (ve boğazının bir kısmının) kesilerek (yemek ve nefes borularının sağ ve solunda bulunan) iki şah damarı kesilmeden bırakılan, sonra ölünceye kadar (o hal üzere terk edilmek suretiyle) kesilen hayvandır" Diğer tahric: Müsned 19359
+İbn Abbas ile Ebü Hüreyre'den rivayet olunmuştur ki: "Rasûlullah (S.A.V.) şeritatüşşeytanı yasaklamıştır" (Ravî el-Hasen) İbn îsa (şeritatüşşeytan tabirini açıklamak üzere) rivayetine (şu sözleri de) ekledi: "O derisinin (ve boğazının bir kısmının) kesilerek (yemek ve nefes borularının sağ ve solunda bulunan) iki şah damarı kesilmeden bırakılan, sonra ölünceye kadar (o hal üzere terk edilmek suretiyle) kesilen hayvandır" Diğer tahric: Müsned
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2826</td></tr><tr><td>Arabic No</td><td>2826</td></tr><tr><td>Reference</td><td>Book 16 Hadith 39</td></tr></tbody></table></div>
 

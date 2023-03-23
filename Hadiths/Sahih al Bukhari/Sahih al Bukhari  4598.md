@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) বলেন যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ‘ইশার সালাত আদায় করছিলেন, তিনি সামিআল্লাহু লিমান হামিদাহ বললেন, তারপর সিজদা্ করার পূর্বে বললেন, হে আল্লাহ! আয়্যাশ ইবনু আবূ রাবিয়াকে মুক্ত করুন। হে আল্লাহ! সালামাহ ইবনু হিশামকে মুক্ত করুন। হে ‘আল্লাহ! ওয়ালিদ ইবনু ওয়ালিদকে মুক্ত করুন। হে আল্লাহ! অক্ষম মু’মিনদেরকে মুক্ত করুন। হে আল্লাহ! মুযার গোত্রের উপর কঠিন শাস্তি অবতীর্ণ করুন। হে আল্লাহ! তাদের উপর ইউসুফ (আঃ)-এর যুগের দুর্ভিক্ষের মত দুর্ভিক্ষ চাপিয়ে দিন। [৭৯৭] (আধুনিক প্রকাশনীঃ ৪২৩৭, ইসলামিক ফাউন্ডেশনঃ ৪২৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) বলেন যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ‘ইশার সালাত আদায় করছিলেন, তিনি সামিআল্লাহু লিমান হামিদাহ বললেন, তারপর সিজদা্ করার পূর্বে বললেন, হে আল্লাহ! আয়্যাশ ইবনু আবূ রাবিয়াকে মুক্ত করুন। হে আল্লাহ! সালামাহ ইবনু হিশামকে মুক্ত করুন। হে ‘আল্লাহ! ওয়ালিদ ইবনু ওয়ালিদকে মুক্ত করুন। হে আল্লাহ! অক্ষম মু’মিনদেরকে মুক্ত করুন। হে আল্লাহ! মুযার গোত্রের উপর কঠিন শাস্তি অবতীর্ণ করুন। হে আল্লাহ! তাদের উপর ইউসুফ (আঃ)-এর যুগের দুর্ভিক্ষের মত দুর্ভিক্ষ চাপিয়ে দিন। [৭৯৭] (আধুনিক প্রকাশনীঃ ৪২৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4598</td></tr><tr><td>Arabic No</td><td>4598</td></tr><tr><td>Reference</td><td>Book 65 Hadith 120</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Syai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இஷா தொழுது கொண்டிருந்தபோது, “சமிஅல்லாஹு லிமன் ஹமிதஹ்' என்று சொல்லிவிட்டு, பிறகு சஜ்தா செய்வதற்கு முன்பாக, “இறைவா! (மக்காவில் சிக்கித் தவிக்கும்) அய்யாஷ் பின் அபீரபீஆவைக் காப்பாற்று வாயாக! இறைவா! சலமா பின் ஹிஷாமைக் காப்பாற்றுவாயாக! இறைவா! வலீத் பின் அல்வலீதைக் காப்பாற்றுவாயாக! இறைவா! இறைநம்பிக்கையாளர்களில் ஒடுக்கப்பட்டவர்களைக் காப்பாற்றுவாயாக! இறைவா! முளர் குலத்தாரின் மீது உன் பிடியை இறுக்கிக் கடுமைப்படுத்துவாயாக! இறைவா! யூசுஃப் (அலை) அவர்களின் சமுதாயத்தாருக்கு அளித்த பஞ்சம் நிறைந்த ஆண்டுகளைப் போல் இவர்களுக்கும் பஞ்சம் நிறைந்த ஆண்டுகளை அளிப்பாயாக!” என்று பிரார்த்தித்தார்கள்.29 அத்தியாயம் : 65
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இஷா தொழுது கொண்டிருந்தபோது, “சமிஅல்லாஹு லிமன் ஹமிதஹ்' என்று சொல்லிவிட்டு, பிறகு சஜ்தா செய்வதற்கு முன்பாக, “இறைவா! (மக்காவில் சிக்கித் தவிக்கும்) அய்யாஷ் பின் அபீரபீஆவைக் காப்பாற்று வாயாக! இறைவா! சலமா பின் ஹிஷாமைக் காப்பாற்றுவாயாக! இறைவா! வலீத் பின் அல்வலீதைக் காப்பாற்றுவாயாக! இறைவா! இறைநம்பிக்கையாளர்களில் ஒடுக்கப்பட்டவர்களைக் காப்பாற்றுவாயாக! இறைவா! முளர் குலத்தாரின் மீது உன் பிடியை இறுக்கிக் கடுமைப்படுத்துவாயாக! இறைவா! யூசுஃப் (அலை) அவர்களின் சமுதாயத்தாருக்கு அளித்த பஞ்சம் நிறைந்த ஆண்டுகளைப் போல் இவர்களுக்கும் பஞ்சம் நிறைந்த ஆண்டுகளை அளிப்பாயாக!” என்று பிரார்த்தித்தார்கள்.29 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4598</td></tr><tr><td>Arabic No</td><td>4598</td></tr><tr><td>Reference</td><td>Book 65 Hadith 120</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Syai
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre (radıyallahü anh) şöyle demiştir:Peygamber (sallallahü aleyhi ve sellem) yatsı namazını kıldırırken “Semiallâhu limen hamideh” dediği zaman, bundan sonra secdeye varmazdan evvel şöyle deyip duâ etti: Allah, Ayyaş ibn Ebı Rabia'yı kurtar! Allah, Selemetu'bnu'l-Hişâm'ı kurtar! Allah, el-Velîd ibnu'l-Velîd'i kurtar! Allah, kâfirler elinde bunalıp zaîf ve âciz görülen (diğer) mü'minleri de kurtar! „ Allah, Mudar'ı (Mudar'ın evlâdı olan Kureyş'e ukubetini artır) daha beterciğine; (içinde bulundukları); bu yılları Yûsuf Peygamber'in o şiddetli yıllarına benzet!" Allah'ın Şu Kavli: Eğer size yağmurdan bir eziyet olursa, yahut hasta bulunursanız silâhlarınızı koymanızda üzerinize vebal yoktur -fakat yine bütün ihtiyat tedbîrlerini alın. Şübhe yoktur ki, Allah kâfirlere hor ve hakir edici bir azâb hazırlamıştır-"(Âyet: 102)
+Ebû Hureyre (radıyallahü anh) şöyle demiştir:Peygamber (sallallahü aleyhi ve sellem) yatsı namazını kıldırırken “Semiallâhu limen hamideh” dediği zaman, bundan sonra secdeye varmazdan evvel şöyle deyip duâ etti: Allah, Ayyaş ibn Ebı Rabia'yı kurtar! Allah, Selemetu'bnu'l-Hişâm'ı kurtar! Allah, el-Velîd ibnu'l-Velîd'i kurtar! Allah, kâfirler elinde bunalıp zaîf ve âciz görülen (diğer) mü'minleri de kurtar! „ Allah, Mudar'ı (Mudar'ın evlâdı olan Kureyş'e ukubetini artır) daha beterciğine; (içinde bulundukları); bu yılları Yûsuf Peygamber'in o şiddetli yıllarına benzet!" Allah'ın Şu Kavli: Eğer size yağmurdan bir eziyet olursa, yahut hasta bulunursanız silâhlarınızı koymanızda üzerinize vebal yoktur -fakat yine bütün ihtiyat tedbîrlerini alın. Şübhe yoktur ki, Allah kâfirlere hor ve hakir edici bir azâb hazırlamıştır-"(Âyet:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4598</td></tr><tr><td>Arabic No</td><td>4598</td></tr><tr><td>Reference</td><td>Book 65 Hadith 120</td></tr></tbody></table></div>
 

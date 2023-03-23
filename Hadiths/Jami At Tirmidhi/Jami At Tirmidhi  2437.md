@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৪৩৭। আবূ উমামা (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ আমার প্রভু আমার সাথে অঙ্গীকার করেছেন যে, তিনি আমার উম্মাতের মধ্যে সত্তরহাজার লোককে জান্নাতে প্রবেশ করাবেন যাদের কোন হিসাবও নেয়া হবে না এবং শাস্তিও প্রদান করা হবে না। আর প্রতি হাজারের সাথে থাকবে আরো সত্তরহাজার। আর আমার পরোয়ারদিগারের তিনমুঠি পরিমাণ। সহীহ, ইবনু মা-জাহ (৪২৮৬)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
+। আবূ উমামা (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ আমার প্রভু আমার সাথে অঙ্গীকার করেছেন যে, তিনি আমার উম্মাতের মধ্যে সত্তরহাজার লোককে জান্নাতে প্রবেশ করাবেন যাদের কোন হিসাবও নেয়া হবে না এবং শাস্তিও প্রদান করা হবে না। আর প্রতি হাজারের সাথে থাকবে আরো সত্তরহাজার। আর আমার পরোয়ারদিগারের দুই হাতের মুঠির তিনমুঠি পরিমাণ। সহীহ, ইবনু মা-জাহ (৪২৮৬)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2437</td></tr><tr><td>Arabic No</td><td>2437</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
 

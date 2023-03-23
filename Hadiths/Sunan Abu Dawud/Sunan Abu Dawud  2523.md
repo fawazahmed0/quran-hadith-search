@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আমর আল-রাযী ...... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন (আবিসিনিয়ার বাদশাহ্) নাজ্জাশী মারা গেলেন, তখন আমরা বলাবলি করছিলাম, তাঁর কবরের ওপর নূর (আলো) সর্বদা দেখা যেতে থাকবে।
+। ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, যখন (বাদশা) নাজ্জাশী মারা যান, তখন ‘আমরা বলাবলি করছিলাম যে, তার কবরের উপর সর্বদা নূর দেখা যাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>2523</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
 

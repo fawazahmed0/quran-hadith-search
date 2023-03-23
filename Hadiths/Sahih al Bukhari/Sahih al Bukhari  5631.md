@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুমামাহ ইবনু ‘আবদুল্লাহ (রহ.) হতে বর্ণিত। তিনি বলেনঃ আনাস (রাঃ)-এর নিয়ম ছিল, তিনি দুই কিংবা তিন নিঃশ্বাসে পাত্র হতে পানি পান করতেন। তিনি মনে করতেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তিন নিঃশ্বাসে পানি পান করতেন।[1] (আধুনিক প্রকাশনী- ৫২২০, ইসলামিক ফাউন্ডেশন- ৫১১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সুমামাহ ইবনু ‘আবদুল্লাহ (রহ.) হতে বর্ণিত। তিনি বলেনঃ আনাস (রাঃ)-এর নিয়ম ছিল, তিনি দুই কিংবা তিন নিঃশ্বাসে পাত্র হতে পানি পান করতেন। তিনি মনে করতেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তিন নিঃশ্বাসে পানি পান করতেন।[1] (আধুনিক প্রকাশনী- ৫২২০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5631</td></tr><tr><td>Arabic No</td><td>5631</td></tr><tr><td>Reference</td><td>Book 74 Hadith 57</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dan [Abu Nu'aim] keduanya berkata; t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸுமாமா பின் அப்தில்லாஹ் (ரஹ்) அவர்கள் கூறியதாவது: (என் பாட்டனார்) அனஸ் (ரலி) அவர்கள் பாத்திரத்தில் (பருகும்போது) இரண்டு அல்லது மூன்று முறை மூச்சு விட்டு(ப் பருகி)வந்தார்கள். நபி (ஸல்) அவர்கள் மூன்று முறை மூச்சு விட்டு(ப் பருகி)வந்ததாகச் சொன்னார்கள்.49 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 74
+ஸுமாமா பின் அப்தில்லாஹ் (ரஹ்) அவர்கள் கூறியதாவது: (என் பாட்டனார்) அனஸ் (ரலி) அவர்கள் பாத்திரத்தில் (பருகும்போது) இரண்டு அல்லது மூன்று முறை மூச்சு விட்டு(ப் பருகி)வந்தார்கள். நபி (ஸல்) அவர்கள் மூன்று முறை மூச்சு விட்டு(ப் பருகி)வந்ததாகச் சொன்னார்கள்.49 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5631</td></tr><tr><td>Arabic No</td><td>5631</td></tr><tr><td>Reference</td><td>Book 74 Hadith 57</td></tr></tbody></table></div>
 

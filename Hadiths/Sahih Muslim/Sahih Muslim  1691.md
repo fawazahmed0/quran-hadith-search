@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৫৭৬, আন্তর্জাতিক নাম্বারঃ ৭২৭ ১৫৭৬-(৯৯/৭২৭) কুতায়বাহ ইবনু সাঈদ (রহঃ) ..... 'আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেছেনঃ রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের দু' রাকাআত সুন্নাত সালাতের প্রথম রাকাআতে সূরাহ বাকারার قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا‏ (সূরাহ বাকারাহ ২ঃ ১৩৬)) আয়াতটি এবং দ্বিতীয় রাকাতেآمَنَّا بِاللَّهِ وَاشْهَدْ بِأَنَّا مُسْلِمُونَ‏ (সূরাহ আ-লি ইমরান ৩ঃ ৬৪) আয়াতটি পড়তেন। (ইসলামী ফাউন্ডেশন ১৫৬১, ইসলামীক সেন্টার ১৫৬৮)
+কুতায়বাহ ইবনু সাঈদ (রহঃ) ..... 'আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেছেনঃ রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের দু' রাকাআত সুন্নাত সালাতের প্রথম রাকাআতে সূরাহ বাকারার قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا‏ (সূরাহ বাকারাহ ২ঃ ১৩৬)) আয়াতটি এবং দ্বিতীয় রাকাতেآمَنَّا بِاللَّهِ وَاشْهَدْ بِأَنَّا مُسْلِمُونَ‏ (সূরাহ আ-লি ইমরান ৩ঃ ৬৪) আয়াতটি পড়তেন। (ইসলামী ফাউন্ডেশন ১৫৬১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1691</td></tr><tr><td>Arabic No</td><td>727.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 121</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ibn 'Abbas reported that the Messenger of Allah (ﷺ) used to recite in first of the two (supererogatory) rak'ahs of the dawn:"Say: We believed in Allah and what was revealed to us..." verse 136 from Surah Baqara, and in the second of the two: "I believe in Allah and I bear testimony that we are Muslims" (iii. 52)
+Ibn 'Abbas reported that the Messenger of Allah (ﷺ) used to recite in first of the two (supererogatory) rak'ahs of the dawn:"Say: We believed in Allah and what was revealed to us..." verse 136 from Surah Baqara, and in the second of the two: "I believe in Allah and I bear testimony that we are Muslims" (iii)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1691</td></tr><tr><td>Arabic No</td><td>727.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 121</td></tr></tbody></table></div>
 
@@ -56,7 +56,7 @@ Ibn 'Abbas reported that the Messenger of Allah (ﷺ) used to recite in first of
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Fazari yaitu Marwan bin Muawiyah] dari [Utsman bin Hakim Al Anshari], katanya; telah menceritakan kepadaku [Said bin Yasar] bahwa [Ibnu Abbas] mengabarinya; bahwa dalam dua raka'at fajar, tepatnya di raka'at pertama, Rasulullah shallallahu 'alaihi wasallam membaca "Katakanlah, kami beriman kepada Allah dan apa yang diturunkan kepada kami." QS. Albaqarah 136, dan pada rakaat kedua membaca "Kami beriman kepada Allah, dan saksikanlah bahwa kami orang muslim." QS. Ali Imran 52
+Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Fazari yaitu Marwan bin Muawiyah] dari [Utsman bin Hakim Al Anshari], katanya; telah menceritakan kepadaku [Said bin Yasar] bahwa [Ibnu Abbas] mengabarinya; bahwa dalam dua raka'at fajar, tepatnya di raka'at pertama, Rasulullah shallallahu 'alaihi wasallam membaca "Katakanlah, kami beriman kepada Allah dan apa yang diturunkan kepada kami." QS. Albaqarah 136, dan pada rakaat kedua membaca "Kami beriman kepada Allah, dan saksikanlah bahwa kami orang muslim." QS. Ali Imran
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1691</td></tr><tr><td>Arabic No</td><td>727.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 121</td></tr></tbody></table></div>
 

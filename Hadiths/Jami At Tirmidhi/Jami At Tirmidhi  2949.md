@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯৪৯। আবদুল্লাহ ইবনু আমর (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিন দিনের কম সময়ে যে লোক কুরআন পাঠ করল সে কুরআনের কিছুই বুঝেনি। সহীহঃ সহীহ আবূ দাউদ (১২৬০), মিশকাত (২২০১), সহীহাহ (১৫১৩) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। মুহাম্মাদ ইবনু বাশশার-মুহাম্মাদ ইবনু জাফার হতে, তিনি শুবাহ্ (রহঃ) সূত্রে উপরোক্ত হাদীসের একই রকম বর্ণনা করেছেন।
+। আবদুল্লাহ ইবনু আমর (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিন দিনের কম সময়ে যে লোক কুরআন পাঠ করল সে কুরআনের কিছুই বুঝেনি। সহীহঃ সহীহ আবূ দাউদ (১২৬০), মিশকাত (২২০১), সহীহাহ (১৫১৩) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। মুহাম্মাদ ইবনু বাশশার-মুহাম্মাদ ইবনু জাফার হতে, তিনি শুবাহ্ (রহঃ) সূত্রে উপরোক্ত হাদীসের একই রকম বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2949</td></tr><tr><td>Arabic No</td><td>2949</td></tr><tr><td>Reference</td><td>Book 46 Hadith 23</td></tr></tbody></table></div>
 

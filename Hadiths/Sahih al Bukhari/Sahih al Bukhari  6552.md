@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসহাক ইবনু ইব্রাহীম (রহ.) ... সাহল ইবনু সা‘দ (রাঃ) সূত্রে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ জান্নাতের মাঝে এমন একটি বৃক্ষ হবে যার ছায়ায় একজন আরোহী একশ’ বছর পর্যন্ত চলবে, তবুও বৃক্ষের ছায়াকে অতিক্রম করতে পারবে না। (আধুনিক প্রকাশনী- ৬১০০, ইসলামিক ফাউন্ডেশন- ৬১০৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইসহাক ইবনু ইব্রাহীম (রহ.) ... সাহল ইবনু সা‘দ (রাঃ) সূত্রে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ জান্নাতের মাঝে এমন একটি বৃক্ষ হবে যার ছায়ায় একজন আরোহী একশ’ বছর পর্যন্ত চলবে, তবুও বৃক্ষের ছায়াকে অতিক্রম করতে পারবে না। (আধুনিক প্রকাশনী- ৬১০০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6552</td></tr><tr><td>Arabic No</td><td>6552</td></tr><tr><td>Reference</td><td>Book 81 Hadith 141</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Sahl bin Sa'd: Allah's Messenger (ﷺ) said, "In Paradise there is a tr
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கத்தில் ஒரு மரம் உள்ளது. அதன் நிழலில் பயணிப்பவர் நூறு வருடங்கள் பயணித்தாலும் அதைக் கடந்துசெல்ல முடியாது. இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 81
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கத்தில் ஒரு மரம் உள்ளது. அதன் நிழலில் பயணிப்பவர் நூறு வருடங்கள் பயணித்தாலும் அதைக் கடந்துசெல்ல முடியாது. இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6552</td></tr><tr><td>Arabic No</td><td>6552</td></tr><tr><td>Reference</td><td>Book 81 Hadith 141</td></tr></tbody></table></div>
 

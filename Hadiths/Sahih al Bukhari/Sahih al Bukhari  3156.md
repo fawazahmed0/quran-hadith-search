@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যে পর্যন্ত না ‘আবদুর রহমান ইবনু আউফ (রাঃ) এ ব্যাপারে সাক্ষ্য দিলেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাজার এলাকার অগ্নিপূজকদের নিকট হতে তা গ্রহণ করেছেন। (আধুনিক প্রকাশনীঃ ২৯২১ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ২৯৩২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3156</td></tr><tr><td>Arabic No</td><td>3156</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইব্‌রাহীম (রহঃ) ..... উকরা ইবন আমির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কারো দোষ-ক্রটি দেখার পর তা গোপন রাখে, সে যেন জীবন্ত কবর দেয়া কন্যাকে জীবন দান করে, (অর্থাৎ মৃতকে জীবন দান করা যেমন ছওয়াবের কাজ; কোন মুসলিমের দোষ-ক্রটি গোপন রাখা ঐরূপ ছওয়াবের কাজ।)
+। উকবাহ ইবনু আমির (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি (কারোর) গোপনীয় দোষ দেখতে পেয়েও তা গোপন করলো সে যেন জীবন্ত কবরস্থ কন্যাকে জীবন দিলো।[1] দুর্বলঃ যঈফাহ হা/ ১২৬৫।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4891</td></tr><tr><td>Arabic No</td><td>4891</td></tr><tr><td>Reference</td><td>Book 43 Hadith 119</td></tr></tbody></table></div>
 

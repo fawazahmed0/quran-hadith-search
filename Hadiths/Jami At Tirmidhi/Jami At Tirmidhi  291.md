@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯১। ইবনু মাসউদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নিঃশব্দে তাশাহহুদ পাঠ করাই সুন্নাত। -সহীহ। সহীহ আবু দাউদ- (৯০৬), সিফাতুস সালাত- (১৪২)। আবু ঈসা বলেনঃ ইবনু মাসউদের এ হাদীসটি হাসান গারীব। ‘আলিমগণ এ হাদীস অনুযায়ী আমল করেন।
+। ইবনু মাসউদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নিঃশব্দে তাশাহহুদ পাঠ করাই সুন্নাত। -সহীহ। সহীহ আবু দাউদ- (৯০৬), সিফাতুস সালাত- (১৪২)। আবু ঈসা বলেনঃ ইবনু মাসউদের এ হাদীসটি হাসান গারীব। ‘আলিমগণ এ হাদীস অনুযায়ী আমল করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>291</td></tr><tr><td>Arabic No</td><td>291</td></tr><tr><td>Reference</td><td>Book 2 Hadith 143</td></tr></tbody></table></div>
 

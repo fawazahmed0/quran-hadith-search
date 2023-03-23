@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (ইবনু মালিক) (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ যার (রাযি.)-কে বলেন, শোন এবং আনুগত্য কর, যদিও কোন হাবশী আমীর হয় যার মাথা কিস্মিসের মতো। (৬৯৩) (আধুনিক প্রকাশনীঃ ৬৫৪, ইসলামিক ফাউন্ডেশনঃ ৬৬২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (ইবনু মালিক) (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ যার (রাযি.)-কে বলেন, শোন এবং আনুগত্য কর, যদিও কোন হাবশী আমীর হয় যার মাথা কিস্মিসের মতো। (৬৯৩) (আধুনিক প্রকাশনীঃ ৬৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 10 Hadith 91</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Aban] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அபூதர் (ரலி) அவர்களிடம், “(உங்களுக்குத் தலைவராக் கப்படுபவர்) உலர்ந்த திராட்சை போன்ற தலையுடைய அபிசீனியராயிருப்பினும், அவருக்கு நீங்கள் செவிசாயுங்கள்; கட்டுப்படுங்கள்” என்று சொன்னார்கள். அத்தியாயம் : 10
+அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அபூதர் (ரலி) அவர்களிடம், “(உங்களுக்குத் தலைவராக் கப்படுபவர்) உலர்ந்த திராட்சை போன்ற தலையுடைய அபிசீனியராயிருப்பினும், அவருக்கு நீங்கள் செவிசாயுங்கள்; கட்டுப்படுங்கள்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 10 Hadith 91</td></tr></tbody></table></div>
 

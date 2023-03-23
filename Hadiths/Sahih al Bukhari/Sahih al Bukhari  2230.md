@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুদাববার গোলাম বিক্রি করেছেন। (২১৪১) (আধুনিক প্রকাশনীঃ ২০৭৩, ইসলামিক ফাউন্ডেশনঃ ২০৮৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুদাববার গোলাম বিক্রি করেছেন। (২১৪১) (আধুনিক প্রকাশনীঃ ২০৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2230</td></tr><tr><td>Arabic No</td><td>2230</td></tr><tr><td>Reference</td><td>Book 34 Hadith 177</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Wak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: பின்தேதியிட்டு விடுதலை அளிக் கப்பட்ட (முதப்பரான) அடிமையை (அவருடைய உரிமையாளரின் கடனை அடைப்பதற்காக) நபி (ஸல்) அவர்கள் விற்பனை செய்(துகொடுத்)தார்கள். அத்தியாயம் : 34
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: பின்தேதியிட்டு விடுதலை அளிக் கப்பட்ட (முதப்பரான) அடிமையை (அவருடைய உரிமையாளரின் கடனை அடைப்பதற்காக) நபி (ஸல்) அவர்கள் விற்பனை செய்(துகொடுத்)தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2230</td></tr><tr><td>Arabic No</td><td>2230</td></tr><tr><td>Reference</td><td>Book 34 Hadith 177</td></tr></tbody></table></div>
 

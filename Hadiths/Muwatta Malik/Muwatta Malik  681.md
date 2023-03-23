@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৫১. মালিক (রহঃ) বলেনঃ তিনি জানিতে পারিয়াছেন যে, আনাস ইবন মালিক (রাঃ) যখন অতি বৃদ্ধ হন, তখন তিনি রোযা রাখিতে পারিতেন না, তাই তিনি ফিদয়া দিতেন। মালিক (রহঃ) বলেনঃ আমি ফিদয়া দেওয়াকে জরুরী মনে করি না। তবে দেওয়া আমার মতে উত্তম, যদি সামর্থ্য থাকে। যে ব্যক্তি ফিদয়া দিবে সে প্রতিদিনের পরিবর্তে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মুদ-এর (এক সের পরিমাণ ওজনের একটি পরিমাপ) সমপরিমাণ এক মুদ আহার করাইবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>681</td></tr><tr><td>Arabic No</td><td>681</td></tr><tr><td>Reference</td><td>Book 18 Hadith 52</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... আবূ রাফে (রাঃ) হতে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাঁর স্ত্রীদের সাথে সহবাস করেন। এক স্ত্রীর সাথে সহবাসের পর অপর স্ত্রীর সাথে সহবাসের পুর্বে তিনি গোসল করেন। রাবী বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে জিজ্ঞাসা করলাম- আপনি কেন একবার গোসল করলেন না (সবশেষে একবারে গোসল করলেই তো হত- কেন আপনি বারবার গোসল করলেন)? তিনি বলেন, এরূপ করা অধিকতর পবিত্র, উত্তম ও উৎকৃষ্ট। (ইবনু মাজাহ)। আবূ দাউদ (রহঃ) বলেন, এ ছাদীছের তুলনায় আনাস (রাঃ) এর হাদীছ অধিকতর সহীহ।
+। আবূ রাফি' (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদিন তাঁর স্ত্রীদের নিকট গেলেন এবং প্রত্যেক স্ত্রীর নিকটই গোসল করলেন। বর্ণনাকারী বলেন, আমি বললাম, হে আল্লাহর রসূল! আপনি সবশেষে একবার গোসল করলেই তো পারতেন? তিনি বললেন, এরূপ করাই অধিকতর পবিত্রতা, উৎকৃষ্টতা ও পরিচ্ছন্নতার পরিচায়ক।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>219</td></tr><tr><td>Arabic No</td><td>219</td></tr><tr><td>Reference</td><td>Book 1 Hadith 219</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Rafi (r.a)'den, demiştir ki; Resulullah (sallallahu aleyhi ve sellem) bir gün her birinin yanında (ayrı ayrı) yıkanmak suretiyle, (bütün) hanımları dolaştı. Ebu Rafi şöyle dedi; "Ya Resulullah, hepsi için bir kerre gusül etsen olmaz mıydı?" dedim. "Bu, (sevap yönünden) daha iyi (kalbin tatmini için) daha güzel, (beden için) daha temizdir" buyurdu. Ebu Davud: "Enes'in (Önceki) Hadisi bundan daha sahihtir" demiştir. Diğer tahric: İbn Mace, Tahare 102; Ahmed b. Hanbel, VI, 8, 10, 39
+Ebu Rafi (r.a)'den, demiştir ki; Resulullah (sallallahu aleyhi ve sellem) bir gün her birinin yanında (ayrı ayrı) yıkanmak suretiyle, (bütün) hanımları dolaştı. Ebu Rafi şöyle dedi; "Ya Resulullah, hepsi için bir kerre gusül etsen olmaz mıydı?" dedim. "Bu, (sevap yönünden) daha iyi (kalbin tatmini için) daha güzel, (beden için) daha temizdir" buyurdu. Ebu Davud: "Enes'in (Önceki) Hadisi bundan daha sahihtir" demiştir. Diğer tahric: İbn Mace, Tahare 102; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>219</td></tr><tr><td>Arabic No</td><td>219</td></tr><tr><td>Reference</td><td>Book 1 Hadith 219</td></tr></tbody></table></div>
 

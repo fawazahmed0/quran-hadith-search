@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬১৫৭, আন্তর্জাতিক নাম্বারঃ ২৪২৫ ৬১৫৭-(.../...) আহমাদ ইবনু সাঈদ দারিমী (রহঃ) ..... আবদুল্লাহ (রাযিঃ) হতে এর অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬০৪৫, ইসলামিক সেন্টার ৬০৮২)
+আহমাদ ইবনু সাঈদ দারিমী (রহঃ) ..... আবদুল্লাহ (রাযিঃ) হতে এর অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬০৪৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6263</td></tr><tr><td>Arabic No</td><td>2425.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 93</td></tr></tbody></table></div>
 

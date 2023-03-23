@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ওয়াহাব ইবন বাকীয়্যা (রহঃ) .... আবূ যায়দ (রাঃ) থেকে বর্ণিত, তিনি জনৈক আনসার ব্যক্তির ছয়টি গোলাম আযাদ করার প্রসঙ্গে এ হাদীছ উল্লেখ করে বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (তার সম্পর্কে) বলেনঃ যদি তার দাফনের পূর্বে আমি উপস্থিত হতাম তবে তাকে মুসলিমদের কবরস্থানে দাফন করা হতো না।
+। আবূ যায়িদ (রহঃ) সূত্রে জনৈক আনসারী সম্পর্কিত হাদীসের সমার্থক হাদীস বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমি যদি তার দাফনের পূর্বে উপস্থিত হতাম, তাহলে তাকে মুসলিমদের কবরস্থানে দাফন করা হতো না।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3960</td></tr><tr><td>Arabic No</td><td>3960</td></tr><tr><td>Reference</td><td>Book 31 Hadith 35</td></tr></tbody></table></div>
 

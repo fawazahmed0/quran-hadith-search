@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু মূছান্না .... আবদুল্লাহ্ ইবনু মাস্উদ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ মহিলাদের ঘরে নামায আদায় করা বৈঠকখানায় নামায আদায় করার চাইতে উত্তম এবং মহিলাদের সাধারণ থাকার ঘরে নামায আদায় করার চেয়ে গোপন প্রকোষ্ঠে নামায আদায় করা অধিক উত্তম।
+। ‘আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নারীদের জন্য ঘরের আঙ্গিনায় সালাত আদায়ের চাইতে তার গৃহে সালাত আদায় করা উত্তম। আর নারীদের জন্য গৃহের অন্য কোন স্থানে সালাত আদায়ের চাইতে তার গোপন কামরায় সালাত আদায় করা অধিক উত্তম।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>570</td></tr><tr><td>Arabic No</td><td>570</td></tr><tr><td>Reference</td><td>Book 2 Hadith 180</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ibnu Al-Mutsanna] bahwasanya [Amru bin 'Ashim] t
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah (İbn Mes'ud)'dan Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu rivayet edilmiştir: "Kadının özel odasında kıldığı namaz (evin) salonunda kıldığı namazından, (eşyalarının gizlendiği) daha özel odada kıldığı namaz da Özel odasında kıldığı namazdan daha efdaldir." Tahric: Kütüb-i sitte içinde sadece Ebu Davud rivayet etmiştir. İbn Huzeyme, sahîh, III, 94-96
+Abdullah (İbn Mes'ud)'dan Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu rivayet edilmiştir: "Kadının özel odasında kıldığı namaz (evin) salonunda kıldığı namazından, (eşyalarının gizlendiği) daha özel odada kıldığı namaz da Özel odasında kıldığı namazdan daha efdaldir." Tahric: Kütüb-i sitte içinde sadece Ebu Davud rivayet etmiştir. İbn Huzeyme, sahîh, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>570</td></tr><tr><td>Arabic No</td><td>570</td></tr><tr><td>Reference</td><td>Book 2 Hadith 180</td></tr></tbody></table></div>
 

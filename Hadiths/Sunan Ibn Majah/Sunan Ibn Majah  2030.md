@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/২০৩০। ‘আবদুল্লাহ্ ইবনু মাস‘উদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আল্লাহর শপথ! কেউ ইচ্ছা করলে আমার থেকে লিআন জাতীয় শপথ গ্রহণ করতে পারে যে, নিশ্চয় এই ক্ষুদ্র সূরা নিসা (অর্থাৎ সূরা তালাক) ‘‘চার মাস দশ দিন’’ সম্বলিত আয়াত (সূরা বাকারা) নাযিল হওয়ার পরে নাযিল হয়েছে।
+। ‘আবদুল্লাহ্ ইবনু মাস‘উদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আল্লাহর শপথ! কেউ ইচ্ছা করলে আমার থেকে লিআন জাতীয় শপথ গ্রহণ করতে পারে যে, নিশ্চয় এই ক্ষুদ্র সূরা নিসা (অর্থাৎ সূরা তালাক) ‘‘চার মাস দশ দিন’’ সম্বলিত আয়াত (সূরা বাকারা) নাযিল হওয়ার পরে নাযিল হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2030</td></tr><tr><td>Arabic No</td><td>2030</td></tr><tr><td>Reference</td><td>Book 10 Hadith 15</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that' Abdullah bin Mas'ud said:"By Allah, for those who would like to go through the process of praying for Allah's curse to be upon the one who is wrong, the shorter Surah concerning women[l] was revealed after (the Verses[2] which speak of the waiting period of) four months and ten (days)." [1] (65:40), [2] (2:234)
+It was narrated that' Abdullah bin Mas'ud said:"By Allah, for those who would like to go through the process of praying for Allah's curse to be upon the one who is wrong, the shorter Surah concerning women[l] was revealed after (the Verses[2] which speak of the waiting period of) four months and ten (days)." [1] (65:40), [2] (2:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2030</td></tr><tr><td>Arabic No</td><td>2030</td></tr><tr><td>Reference</td><td>Book 10 Hadith 15</td></tr></tbody></table></div>
 

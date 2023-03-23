@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৬৬৩, আন্তর্জাতিক নাম্বারঃ ৭৫৮ ১৬৬৩-(.../...) মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... শু'বাহ-এর মাধ্যমে আবূ ইসহাক (রহঃ) থেকে একই সানাদে হাদীসটি বর্ণনা করেছেন। তবে মানসূর (রহঃ) বর্ণিত হাদীসটি পূর্ণাঙ্গ ও বেশী স্পষ্ট। (ইসলামী ফাউন্ডেশন ১৬৪৮, ইসলামীক সেন্টার ১৬৫৫)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1778</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

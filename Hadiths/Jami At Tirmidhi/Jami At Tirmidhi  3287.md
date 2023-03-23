@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৮৭। ইবনু মাসউদ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে চাঁদ বিদীর্ণ হয়। সে সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের বলেনঃ তোমরা সাক্ষী থাক। সহীহঃ বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। ইবনু মাসউদ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে চাঁদ বিদীর্ণ হয়। সে সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের বলেনঃ তোমরা সাক্ষী থাক। সহীহঃ বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3287</td></tr><tr><td>Arabic No</td><td>3287</td></tr><tr><td>Reference</td><td>Book 47 Hadith 339</td></tr></tbody></table></div>
 

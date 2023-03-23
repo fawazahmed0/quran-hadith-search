@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এসব ছবি নির্মাতাদেরকে কিয়ামতের দিন শাস্তি দেয়া হবে। তাদেরকে বলা হবে, যা তোমরা সৃষ্টি করেছ, তাকে জীবিত কর। [৫৯৫১] (আধুনিক প্রকাশনী- ৭০৩৭, ইসলামিক ফাউন্ডেশন- ৭০৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এসব ছবি নির্মাতাদেরকে কিয়ামতের দিন শাস্তি দেয়া হবে। তাদেরকে বলা হবে, যা তোমরা সৃষ্টি করেছ, তাকে জীবিত কর। [৫৯৫১] (আধুনিক প্রকাশনী- ৭০৩৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7558</td></tr><tr><td>Arabic No</td><td>7558</td></tr><tr><td>Reference</td><td>Book 97 Hadith 183</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hamm
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இந்த (உயிரினங்களின்) உருவங் களைப் படைத்தோர் மறுமை நாளில் வேதனை செய்யப்படுவார்கள். அவர்களி டம், ‘நீங்கள் படைத்தவற்றுக்கு உயிர் கொடுங்கள் (பார்க்கலாம்)’ என்று சொல்லப்படும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.197 அத்தியாயம் : 97
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இந்த (உயிரினங்களின்) உருவங் களைப் படைத்தோர் மறுமை நாளில் வேதனை செய்யப்படுவார்கள். அவர்களி டம், ‘நீங்கள் படைத்தவற்றுக்கு உயிர் கொடுங்கள் (பார்க்கலாம்)’ என்று சொல்லப்படும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.197 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7558</td></tr><tr><td>Arabic No</td><td>7558</td></tr><tr><td>Reference</td><td>Book 97 Hadith 183</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করতেন আর আমি তখন তাঁর বিছানায় আড়াআড়িভাবে শুয়ে থাকতাম। বিত্র পড়ার সময় তিনি আমাকেও জাগাতেন, তখন আমিও বিত্র পড়তাম। (৩৮২; মুসলিম ৪/৫১, হাঃ ৫১২, আহমাদ ২৫৭৪৫) (আধুনিক প্রকাশনীঃ ৪৮২, ইসলামিক ফাউন্ডেশনঃ ৪৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করতেন আর আমি তখন তাঁর বিছানায় আড়াআড়িভাবে শুয়ে থাকতাম। বিত্র পড়ার সময় তিনি আমাকেও জাগাতেন, তখন আমিও বিত্র পড়তাম। (৩৮২; মুসলিম ৪/৫১, হাঃ ৫১২, আহমাদ ২৫৭৪৫) (আধুনিক প্রকাশনীঃ ৪৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>512</td></tr><tr><td>Arabic No</td><td>512</td></tr><tr><td>Reference</td><td>Book 8 Hadith 159</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களது விரிப்பில் குறுக்கே உறங்கிக்கொண்டிருக்கையில் நபி (ஸல்) அவர்கள் தொழுதுகொண்டிருப்பார்கள். அவர்கள் ‘வித்ர்’ தொழ எண்ணும் போது, என்னை எழுப்புவார்கள். (அதன்பின்) நான் ‘வித்ர்’ தொழுவேன். அத்தியாயம் : 8
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களது விரிப்பில் குறுக்கே உறங்கிக்கொண்டிருக்கையில் நபி (ஸல்) அவர்கள் தொழுதுகொண்டிருப்பார்கள். அவர்கள் ‘வித்ர்’ தொழ எண்ணும் போது, என்னை எழுப்புவார்கள். (அதன்பின்) நான் ‘வித்ர்’ தொழுவேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>512</td></tr><tr><td>Arabic No</td><td>512</td></tr><tr><td>Reference</td><td>Book 8 Hadith 159</td></tr></tbody></table></div>
 

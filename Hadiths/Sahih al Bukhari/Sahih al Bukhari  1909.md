@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অথবা বলেন, আবুল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা চাঁদ দেখে সিয়াম আরম্ভ করবে এবং চাঁদ দেখে ইফতার করবে। আকাশ যদি মেঘে ঢাকা থাকে তাহলে শা‘বানের গণনা ত্রিশ দিন পুরা করবে। (মুসলিম ১৩/২, হাঃ ১০৮১) (আধুনিক প্রকাশনীঃ ১৭৭৪, ইসলামিক ফাউন্ডেশনঃ ১৭৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অথবা বলেন, আবুল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা চাঁদ দেখে সিয়াম আরম্ভ করবে এবং চাঁদ দেখে ইফতার করবে। আকাশ যদি মেঘে ঢাকা থাকে তাহলে শা‘বানের গণনা ত্রিশ দিন পুরা করবে। (মুসলিম ১৩/২, হাঃ ১০৮১) (আধুনিক প্রকাশনীঃ ১৭৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1909</td></tr><tr><td>Arabic No</td><td>1909</td></tr><tr><td>Reference</td><td>Book 30 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபுல்காசிம் நபி (ஸல்) அவர்கள் கூறினார்கள்: பிறையைப் பார்த்து நோன்பு நோறுங் கள்; பிறையைப் பார்த்து நோன்பை விடுங்கள். உங்களுக்கு மேகமூட்டம் ஏற்பட்டால் ஷஅபான் மாதத்தை முப்பது நாட்களாக முழுமைப்படுத்துங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 30
+அபுல்காசிம் நபி (ஸல்) அவர்கள் கூறினார்கள்: பிறையைப் பார்த்து நோன்பு நோறுங் கள்; பிறையைப் பார்த்து நோன்பை விடுங்கள். உங்களுக்கு மேகமூட்டம் ஏற்பட்டால் ஷஅபான் மாதத்தை முப்பது நாட்களாக முழுமைப்படுத்துங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1909</td></tr><tr><td>Arabic No</td><td>1909</td></tr><tr><td>Reference</td><td>Book 30 Hadith 19</td></tr></tbody></table></div>
 

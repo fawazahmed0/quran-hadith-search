@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৬৮০, আন্তর্জাতিক নাম্বারঃ ১১৭৬ ২৬৮০-(১০/...) আবূ বকর ইবনু নাফি আল ‘আবদী (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (যিলহাজের) দশ তারিখে সওম পালন করেননি। (ইসলামিক ফাউন্ডেশন ২৬৫৭, ইসলামীক সেন্টার ২৬৫৬)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2790</td></tr><tr><td>Arabic No</td><td>1176.02</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
 

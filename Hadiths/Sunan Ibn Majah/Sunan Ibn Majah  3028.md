@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩০২৮। সুলায়মান ইবনে ‘আমর ইবনুল আহওয়াস (রহঃ) থেকে তার মাতার সূত্রে বর্ণিত। তিনি (মাতা) বলেন, কোরবানীর দিন জামরাতুল ‘আকাবার নিকটে আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে খচ্চরের পিঠে আরোহিত অবস্থায় দেখেছি। তখন তিনি বলেছেনঃ হে লোকসকল! যখন তোমরা জামরায় (কংকর) নিক্ষেপ করতে যাবে তখন সেখানে ক্ষুদ্র আকারের কংকর নিক্ষেপ করবে।
+। সুলায়মান ইবনে ‘আমর ইবনুল আহওয়াস (রহঃ) থেকে তার মাতার সূত্রে বর্ণিত। তিনি (মাতা) বলেন, কোরবানীর দিন জামরাতুল ‘আকাবার নিকটে আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে খচ্চরের পিঠে আরোহিত অবস্থায় দেখেছি। তখন তিনি বলেছেনঃ হে লোকসকল! যখন তোমরা জামরায় (কংকর) নিক্ষেপ করতে যাবে তখন সেখানে ক্ষুদ্র আকারের কংকর নিক্ষেপ করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3028</td></tr><tr><td>Arabic No</td><td>3028</td></tr><tr><td>Reference</td><td>Book 25 Hadith 147</td></tr></tbody></table></div>
 

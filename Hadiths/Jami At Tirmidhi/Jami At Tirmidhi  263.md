@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৬৩৷ ইমাম তিরমিয়ী বলেনঃ মুহাম্মাদ ইবনু বাশশার আব্দুর রহমান ইবনু মাহদী হতে, তিনি শু’বা হতে স্বীয় সনদে অনুরূপ হাদীস বর্ণনা করেছেন। —সহীহ। দেখুন পূর্বের হাদীস। হুযাইফা হতে অন্য সূত্রেও হাদীসটি বর্ণিত হয়েছে। তাতে তিনি রাত্রে নামায আদায় করেছেন বলে উল্লেখ আছে।
+ইমাম তিরমিয়ী বলেনঃ মুহাম্মাদ ইবনু বাশশার আব্দুর রহমান ইবনু মাহদী হতে, তিনি শু’বা হতে স্বীয় সনদে অনুরূপ হাদীস বর্ণনা করেছেন। —সহীহ। দেখুন পূর্বের হাদীস। হুযাইফা হতে অন্য সূত্রেও হাদীসটি বর্ণিত হয়েছে। তাতে তিনি রাত্রে নামায আদায় করেছেন বলে উল্লেখ আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>263</td></tr><tr><td>Arabic No</td><td>263</td></tr><tr><td>Reference</td><td>Book 2 Hadith 115</td></tr></tbody></table></div>
 

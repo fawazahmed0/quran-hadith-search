@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১৭. মালিক (রহঃ) ইয়াহইয়া ইবন সাঈদ (রহঃ) হইতে বর্ণনা করেন যে, তাহার নিকট রেওয়ায়ত পৌছিয়াছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেনঃ তোমাদের কেউ তাহার নিত্যব্যবহার্য কাপড় ব্যতীত জুম'আর জন্য দুইটি কাপড় তৈয়ার করিয়া রাখিলে ইহাতে কোন দোষ নাই। নাফি (রহঃ) হইতে বর্ণিত, ইহরাম অবস্থায় না থাকিলে আবদুল্লাহ ইবন উমর (রাঃ) তেল ও খুশবু না লাগাইয়া জুম'আয় গমন করিতেন না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>240</td></tr><tr><td>Arabic No</td><td>240</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
 

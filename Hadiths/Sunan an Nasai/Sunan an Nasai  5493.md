@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবন মুসান্না (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ হে আল্লাহ্‌! আমি আপনার নিকট আশ্রয় প্রার্থনা করছি পাগলামী, কুষ্ঠ রোগ এবং শ্বেতরোগ এবং অতি মন্দ রোগ ব্যাধি হতে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5493</td></tr><tr><td>Arabic No</td><td>5493</td></tr><tr><td>Reference</td><td>Book 50 Hadith 66</td></tr></tbody></table></div>
 

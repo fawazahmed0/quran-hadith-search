@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬৬১, আন্তর্জাতিক নাম্বারঃ ১৮৪০ ৪৬৬১-(.../...) আবূ বকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... আ'মাশ (রহঃ) থেকে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬১৫, ইসলামিক সেন্টার ৪৬১৬/(ক)
+আবূ বকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... আ'মাশ (রহঃ) থেকে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬১৫, ইসলামিক সেন্টার ৪৬১৬/(ক)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4767</td></tr><tr><td>Arabic No</td><td>1840.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 65</td></tr></tbody></table></div>
 

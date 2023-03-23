@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সাঈদ (রহঃ) .... আব্বাস ইবন জুলায়দ হাজারী (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি আবদুল্লাহ্‌ ইবন উমার (রাঃ)-কে এরূপ বলতে শুনেছি যে, একবার এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বলেঃ ইয়া রাসূলাল্লাহ! আমরা গোলামকে কতবার ক্ষমা করবো? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চুপ থাকলে সে ব্যক্তি আবার একই প্রশ্ন করে। তখনও তিনি চুপ থাকেন। লোকটি তৃতীয়বার একই বিষয়ে জিজ্ঞাসা করলে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা তাদের প্রত্যহ সত্তর বার ক্ষমা করবে।
+। আব্দুল্লাহ ইবনু উমার (রাঃ) বলেন, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, হে আল্লাহর রাসূল! আমরা কাজের লোককে প্রতিদিন কতোবার মাফ করবো? তিনি চুপ থাকলেন। লোকটি আবার একই প্রশ্ন করলে এবারও তিনি চুপ থাকলেন। তৃতীয় বার প্রশ্ন করলে তিনি বলেনঃ প্রতিদিন সত্তর বার।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 43 Hadith 392</td></tr></tbody></table></div>
 

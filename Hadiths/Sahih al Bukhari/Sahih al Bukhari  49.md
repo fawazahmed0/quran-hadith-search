@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উবাদাহ ইবনু সামিত (রাযি.) বর্ণনা করেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লায়লাতুল কদর সম্পর্কে জানানোর জন্য বের হলেন। তখন দু’জন মুসলিম বিবাদ করছিল। তিনি বললেনঃ আমি তোমাদের লাইলাতুল ক্বাদর সম্পর্কে জানানোর জন্য বেরিয়েছিলাম; কিন্তু তখন অমুক অমুক বিবাদে লিপ্ত থাকায় তা (লাইলাতুল ক্বদরের নির্দিষ্ট তারিখ সম্পর্কিত জ্ঞান) উঠিয়ে নেয়া হয়েছে। আর হয়তো বা এটাই তোমাদের জন্য মঙ্গলজনক হবে। তোমরা তা অনুসন্ধান কর (রমাযানের) ২৭, ২৯ ও ২৫ তম রাতে। (২০২৩, ৬০৪৯) (আধুনিক প্রকাশনীঃ ৪৭, ইসলামিক ফাউন্ডেশনঃ ৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উবাদাহ ইবনু সামিত (রাযি.) বর্ণনা করেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লায়লাতুল কদর সম্পর্কে জানানোর জন্য বের হলেন। তখন দু’জন মুসলিম বিবাদ করছিল। তিনি বললেনঃ আমি তোমাদের লাইলাতুল ক্বাদর সম্পর্কে জানানোর জন্য বেরিয়েছিলাম; কিন্তু তখন অমুক অমুক বিবাদে লিপ্ত থাকায় তা (লাইলাতুল ক্বদরের নির্দিষ্ট তারিখ সম্পর্কিত জ্ঞান) উঠিয়ে নেয়া হয়েছে। আর হয়তো বা এটাই তোমাদের জন্য মঙ্গলজনক হবে। তোমরা তা অনুসন্ধান কর (রমাযানের) ২৭, ২৯ ও ২৫ তম রাতে। (২০২৩, ৬০৪৯) (আধুনিক প্রকাশনীঃ ৪৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>49</td></tr><tr><td>Arabic No</td><td>49</td></tr><tr><td>Reference</td><td>Book 2 Hadith 42</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah mengabarkan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உபாதா பின் அஸ்ஸாமித் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘லைலத்துல் கத்ர்’ (கண்ணியமிக்க இரவு) பற்றி (‘அது ரமளான் மாதத்தில் எந்த இரவு’ என்று) அறிவிப்பதற்காக(த் தமது வீட்டிலிருந்து) வெளியே வந்தார்கள். அப்போது இரு முஸ்லிம்கள் தமக்கிடையே சச்சரவு செய்துகொண்டிருந்தார்கள். (இதைக் கண்ணுற்ற) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “லைலத்துல் கத்ர் இரவு பற்றி உங்களுக்கு அறிவிப்பதற்காக நான் புறப்பட்டுவந்தேன். அப்போது இன்ன மனிதரும் இன்ன மனிதரும் சச்சரவு செய்துகொண்டிருந்தனர். (அவர் களை விலக்கிவிடச் சென்றேன்.) எனவே, அது (பற்றிய விளக்கம் என் நினைவி லிருந்து) நீக்கப்பட்டுவிட்டது. அதுவும் உங்களுக்கு ஒரு நன்மையாக இருக்க லாம். (ரமளான் மாதத்தின் இருபத்து) ஏழு, (இருபத்து) ஒன்பது, (இருபத்து) ஐந்து ஆகிய (ஒற்றை எண்ணிக்கையிலான) இரவுகளில் அதைத் தேடிக்கொள் ளுங்கள்” என்றார்கள். அத்தியாயம் : 2
+உபாதா பின் அஸ்ஸாமித் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘லைலத்துல் கத்ர்’ (கண்ணியமிக்க இரவு) பற்றி (‘அது ரமளான் மாதத்தில் எந்த இரவு’ என்று) அறிவிப்பதற்காக(த் தமது வீட்டிலிருந்து) வெளியே வந்தார்கள். அப்போது இரு முஸ்லிம்கள் தமக்கிடையே சச்சரவு செய்துகொண்டிருந்தார்கள். (இதைக் கண்ணுற்ற) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “லைலத்துல் கத்ர் இரவு பற்றி உங்களுக்கு அறிவிப்பதற்காக நான் புறப்பட்டுவந்தேன். அப்போது இன்ன மனிதரும் இன்ன மனிதரும் சச்சரவு செய்துகொண்டிருந்தனர். (அவர் களை விலக்கிவிடச் சென்றேன்.) எனவே, அது (பற்றிய விளக்கம் என் நினைவி லிருந்து) நீக்கப்பட்டுவிட்டது. அதுவும் உங்களுக்கு ஒரு நன்மையாக இருக்க லாம். (ரமளான் மாதத்தின் இருபத்து) ஏழு, (இருபத்து) ஒன்பது, (இருபத்து) ஐந்து ஆகிய (ஒற்றை எண்ணிக்கையிலான) இரவுகளில் அதைத் தேடிக்கொள் ளுங்கள்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>49</td></tr><tr><td>Arabic No</td><td>49</td></tr><tr><td>Reference</td><td>Book 2 Hadith 42</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah mengabarkan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ubade bin Samit'ten rivayet edildiğine göre Allah Resulü (Sallallahu aleyhi ve Sellem) kadir gecesini haber vermek üzere evinden çıktı. Müslümanlardan iki kişi birbiri ile tartıştılar. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Size Kadir gecesini haber vermek üzere çıkmıştım. Ancak falan ile falan tartışınca (buna dair bilgi hafızamdan) kaldırıldı. Umarım ki bu da sizin için hayırlı olur. Kadir gecesini (yirmiden sonraki) yedinci, dokuzuncu ve beşinci gecede arayınız. Tekrar: 2023, 6049
+Ubade bin Samit'ten rivayet edildiğine göre Allah Resulü (Sallallahu aleyhi ve Sellem) kadir gecesini haber vermek üzere evinden çıktı. Müslümanlardan iki kişi birbiri ile tartıştılar. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Size Kadir gecesini haber vermek üzere çıkmıştım. Ancak falan ile falan tartışınca (buna dair bilgi hafızamdan) kaldırıldı. Umarım ki bu da sizin için hayırlı olur. Kadir gecesini (yirmiden sonraki) yedinci, dokuzuncu ve beşinci gecede arayınız. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>49</td></tr><tr><td>Arabic No</td><td>49</td></tr><tr><td>Reference</td><td>Book 2 Hadith 42</td></tr></tbody></table></div>
 

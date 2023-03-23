@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/১৩২৫। আল-মুত্তালিব ইবনু আবূ ওয়াদাআ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রাতের সালাত (নামায/নামাজ) দু দু রাকআত করে। প্রতি দু রাকআতের শেষে রয়েছে তাশাহ্‌হুদ। অত্যন্ত বিনয়-নম্রতা সহকারে, শান্তভাবে ও একাগ্রতার সাথে সালাত (নামায/নামাজ) পড়বে এবং বলবেঃ হে আল্লাহ্! আমাকে ক্ষমা করুন। যে ব্যক্তি তা করেনি তার নামায ত্রুটিপূর্ণ।
+। আল-মুত্তালিব ইবনু আবূ ওয়াদাআ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রাতের সালাত (নামায/নামাজ) দু দু রাকআত করে। প্রতি দু রাকআতের শেষে রয়েছে তাশাহ্‌হুদ। অত্যন্ত বিনয়-নম্রতা সহকারে, শান্তভাবে ও একাগ্রতার সাথে সালাত (নামায/নামাজ) পড়বে এবং বলবেঃ হে আল্লাহ্! আমাকে ক্ষমা করুন। যে ব্যক্তি তা করেনি তার নামায ত্রুটিপূর্ণ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1325</td></tr><tr><td>Arabic No</td><td>1325</td></tr><tr><td>Reference</td><td>Book 5 Hadith 523</td></tr></tbody></table></div>
 

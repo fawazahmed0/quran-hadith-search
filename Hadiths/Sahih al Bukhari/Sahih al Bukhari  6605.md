@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, একবার আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে উপবিষ্ট ছিলাম। তখন তাঁর সঙ্গে ছিল একটুকরা খড়ি। যা দিয়ে তিনি মাটির উপর দাগ টানছিলেন। তিনি তখন বললেনঃ তোমাদের মাঝে এমন কোন লোক নেই যার ঠিকানা জাহান্নামে বা জান্নাতে লেখা হয়নি। লোকদের ভিতর থেকে এক ব্যক্তি বলল, হে আল্লাহর রাসূল! আমরা কি তাহলে (এর উপর) নির্ভর করব না? তিনি বললেনঃ না, তোমরা ‘আমল কর। কেননা, প্রত্যেকের জন্য ‘আমল সহজ করে দেয়া হয়েছে। এরপর তিনি তিলাওয়াত করলেনঃ فَأَمَّا مَنْ أَعْطَى وَاتَّقَى الْآيَةَ। [১৩৬২] (আধুনিক প্রকাশনী- ৬১৪৪, ইসলামিক ফাউন্ডেশন- ৬১৫২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, একবার আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে উপবিষ্ট ছিলাম। তখন তাঁর সঙ্গে ছিল একটুকরা খড়ি। যা দিয়ে তিনি মাটির উপর দাগ টানছিলেন। তিনি তখন বললেনঃ তোমাদের মাঝে এমন কোন লোক নেই যার ঠিকানা জাহান্নামে বা জান্নাতে লেখা হয়নি। লোকদের ভিতর থেকে এক ব্যক্তি বলল, হে আল্লাহর রাসূল! আমরা কি তাহলে (এর উপর) নির্ভর করব না? তিনি বললেনঃ না, তোমরা ‘আমল কর। কেননা, প্রত্যেকের জন্য ‘আমল সহজ করে দেয়া হয়েছে। এরপর তিনি তিলাওয়াত করলেনঃ فَأَمَّا مَنْ أَعْطَى وَاتَّقَى الْآيَةَ। [১৩৬২] (আধুনিক প্রকাশনী- ৬১৪৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6605</td></tr><tr><td>Arabic No</td><td>6605</td></tr><tr><td>Reference</td><td>Book 82 Hadith 11</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Ali:While we were sitting with the Prophet (ﷺ) who had a stick with which he was scraping the earth, he lowered his head and said, "There is none of you but has his place assigned either in the Fire or in Paradise." Thereupon a man from the people said, "Shall we not depend upon this, O Allah's Apostle?" The Prophet (ﷺ) said, "No, but carry on and do your deeds, for everybody finds it easy to do such deeds (as will lead him to his place)." The Prophet (ﷺ) then recited the Verse: 'As for him who gives (in charity) and keeps his duty to Allah..' (92.5)
+Narrated 'Ali:While we were sitting with the Prophet (ﷺ) who had a stick with which he was scraping the earth, he lowered his head and said, "There is none of you but has his place assigned either in the Fire or in Paradise." Thereupon a man from the people said, "Shall we not depend upon this, O Allah's Apostle?" The Prophet (ﷺ) said, "No, but carry on and do your deeds, for everybody finds it easy to do such deeds (as will lead him to his place)." The Prophet (ﷺ) then recited the Verse: 'As for him who gives (in charity) and keeps his duty to Allah
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6605</td></tr><tr><td>Arabic No</td><td>6605</td></tr><tr><td>Reference</td><td>Book 82 Hadith 11</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Ali:While we were sitting with the Prophet (ﷺ) who had a stick with 
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Sa'd bin Ubaidah] dari [Abu Abdurrahman as Sulami] dari [Ali] radliallahu 'anhu mengatakan; kami duduk-duduk bersama Nabi shallallahu 'alaihi wasallam yang ketika itu beliau membawa tongkat yang beliau gunakan untuk memukul-mukul di tanah, kemudian beliau bersabda: "Tidaklah salah seorang diantara kalian selain telah ditentukan tempat tinggalnya di neraka atau di surga." Maka seseorang berujar; 'kalau begitu, kita bertawakkal saja ya Rasulullah? ' Nabi menjawab: "Jangan, beramallah, sebab semua orang telah dimudahkan, " kemudian beliau membaca ayat; 'Adapun orang yang memberikan hartanya lantas bertaqwa' (QS. Allail ayat 5)
+Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Sa'd bin Ubaidah] dari [Abu Abdurrahman as Sulami] dari [Ali] radliallahu 'anhu mengatakan; kami duduk-duduk bersama Nabi shallallahu 'alaihi wasallam yang ketika itu beliau membawa tongkat yang beliau gunakan untuk memukul-mukul di tanah, kemudian beliau bersabda: "Tidaklah salah seorang diantara kalian selain telah ditentukan tempat tinggalnya di neraka atau di surga." Maka seseorang berujar; 'kalau begitu, kita bertawakkal saja ya Rasulullah? ' Nabi menjawab: "Jangan, beramallah, sebab semua orang telah dimudahkan, " kemudian beliau membaca ayat; 'Adapun orang yang memberikan hartanya lantas bertaqwa' (QS. Allail ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6605</td></tr><tr><td>Arabic No</td><td>6605</td></tr><tr><td>Reference</td><td>Book 82 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் (பகீஉல் ஃகர்கத் எனும் பொது மையவாடியில் ஜனாஸா ஒன்றில் கலந்துகொள்வதற்காக) அமர்ந்திருந்தோம். அப்போது நபி (ஸல்) அவர்கள் தம்மிடமிருந்த ஒரு குச்சியால் தரையைக் குத்திக் கீறியபடி (ஆழ்ந்த யோசனையில்) இருந்தார்கள். பின்னர் “சொர்க்கம் அல்லது நரகத்திலுள்ள தமது இருப்பிடம் எழுதப்பட்டிராத எவரும் உங்களில் இல்லை” என்று சொன்னார்கள். அப்போது மக்களில் ஒருவர், “அவ்வாறாயின் (ஏற்கெனவே எழுதப்பட்டுவிட்ட விதியை நம்பிக்கொண்டு நல்லறங்கள் ஏதும் புரியாமல்) நாங்கள் இருந்துவிட மாட்டோமா? அல்லாஹ்வின் தூதரே!” என்று கேட்டார். நபி (ஸல்) அவர்கள், “இல்லை. நீங்கள் செயலாற்றுங்கள். (நல்லார், பொல்லார்) அனைவருக்கும் (அவரவர் செல்லும் வழி) எளிதாக்கப்பட்டுள்ளது” என்று கூறி விட்டு, பிறகு “எவர் (இறைவழியில்) வழங்கி (இறைவனை) அஞ்சி வாழ்ந்து, நல்லறங்களை மெய்யாக்குகிறாரோ, அவருக்கு (சொர்க்கம் என்ற) நல்வழியை எளிதாக்குவோம்” எனும் (92:5-7) வசனங்களை ஓதிக்காட்டினார்கள்.14 அத்தியாயம் : 82
+அலீ (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் (பகீஉல் ஃகர்கத் எனும் பொது மையவாடியில் ஜனாஸா ஒன்றில் கலந்துகொள்வதற்காக) அமர்ந்திருந்தோம். அப்போது நபி (ஸல்) அவர்கள் தம்மிடமிருந்த ஒரு குச்சியால் தரையைக் குத்திக் கீறியபடி (ஆழ்ந்த யோசனையில்) இருந்தார்கள். பின்னர் “சொர்க்கம் அல்லது நரகத்திலுள்ள தமது இருப்பிடம் எழுதப்பட்டிராத எவரும் உங்களில் இல்லை” என்று சொன்னார்கள். அப்போது மக்களில் ஒருவர், “அவ்வாறாயின் (ஏற்கெனவே எழுதப்பட்டுவிட்ட விதியை நம்பிக்கொண்டு நல்லறங்கள் ஏதும் புரியாமல்) நாங்கள் இருந்துவிட மாட்டோமா? அல்லாஹ்வின் தூதரே!” என்று கேட்டார். நபி (ஸல்) அவர்கள், “இல்லை. நீங்கள் செயலாற்றுங்கள். (நல்லார், பொல்லார்) அனைவருக்கும் (அவரவர் செல்லும் வழி) எளிதாக்கப்பட்டுள்ளது” என்று கூறி விட்டு, பிறகு “எவர் (இறைவழியில்) வழங்கி (இறைவனை) அஞ்சி வாழ்ந்து, நல்லறங்களை மெய்யாக்குகிறாரோ, அவருக்கு (சொர்க்கம் என்ற) நல்வழியை எளிதாக்குவோம்” எனும் (92:5-7) வசனங்களை ஓதிக்காட்டினார்கள்.14 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6605</td></tr><tr><td>Arabic No</td><td>6605</td></tr><tr><td>Reference</td><td>Book 82 Hadith 11</td></tr></tbody></table></div>
 

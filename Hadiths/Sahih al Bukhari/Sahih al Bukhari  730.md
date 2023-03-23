@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর একটি চাটাই ছিল। তিনি তা দিনের বেলায় বিছিয়ে রাখতেন এবং রাতের বেলা তা দিয়ে কামরা বানিয়ে নিতেন। সাহাবীগণ তাঁর পিছনে কাতারবদ্ধ হয়ে দাঁড়ান এবং তাঁর পিছনে সালাত আদায় করেন। (৭২৯) (আধুনিক প্রকাশনীঃ ৬৮৬, ইসলামিক ফাউন্ডেশনঃ ৬৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর একটি চাটাই ছিল। তিনি তা দিনের বেলায় বিছিয়ে রাখতেন এবং রাতের বেলা তা দিয়ে কামরা বানিয়ে নিতেন। সাহাবীগণ তাঁর পিছনে কাতারবদ্ধ হয়ে দাঁড়ান এবং তাঁর পিছনে সালাত আদায় করেন। (৭২৯) (আধুনিক প্রকাশনীঃ ৬৮৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>730</td></tr><tr><td>Arabic No</td><td>730</td></tr><tr><td>Reference</td><td>Book 10 Hadith 124</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் பாய் ஒன்று இருந்தது; பக-ல் அதை விரித்துக் கொள்வார்கள். இரவில் அதையே (தடுப்பு) அறை போன்று அமைத்துக்கொள்வார்கள். (அதற்குள் நின்று அவர்கள் தொழும் போது) மக்களில் சிலர் அவர்களிடம் திரண்டு (வந்து) அவர்களுக்குப் பின்னால் (நின்று அவர்களைப் பின்பற்றித்) தொழுவார்கள். அத்தியாயம் : 10
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் பாய் ஒன்று இருந்தது; பக-ல் அதை விரித்துக் கொள்வார்கள். இரவில் அதையே (தடுப்பு) அறை போன்று அமைத்துக்கொள்வார்கள். (அதற்குள் நின்று அவர்கள் தொழும் போது) மக்களில் சிலர் அவர்களிடம் திரண்டு (வந்து) அவர்களுக்குப் பின்னால் (நின்று அவர்களைப் பின்பற்றித்) தொழுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>730</td></tr><tr><td>Arabic No</td><td>730</td></tr><tr><td>Reference</td><td>Book 10 Hadith 124</td></tr></tbody></table></div>
 

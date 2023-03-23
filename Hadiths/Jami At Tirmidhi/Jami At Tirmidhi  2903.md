@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯০৩। উকবাহ ইবনু আমির (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে প্রতি ওয়াক্ত নামাযের পর সূরা আন-নাস ও সূরা আল-ফালাক পাঠের আদেশ করেছেন। সহীহঃ সহীহাহ (১৫১৪), সহীহ আবূ দাউদ (১৩৬৩), তা’লীক আলা ইবনে খুযাইমাহ (৭৫৫)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
+। উকবাহ ইবনু আমির (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে প্রতি ওয়াক্ত নামাযের পর সূরা আন-নাস ও সূরা আল-ফালাক পাঠের আদেশ করেছেন। সহীহঃ সহীহাহ (১৫১৪), সহীহ আবূ দাউদ (১৩৬৩), তা’লীক আলা ইবনে খুযাইমাহ (৭৫৫)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2903</td></tr><tr><td>Arabic No</td><td>2903</td></tr><tr><td>Reference</td><td>Book 45 Hadith 29</td></tr></tbody></table></div>
 

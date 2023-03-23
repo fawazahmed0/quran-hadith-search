@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya related to me that Malik said, "I heard that a beggar asked for food from A'isha, umm al-muminin, while she had some grapes. She told some one to take him one grape. He began to look in amazement. A'isha said, 'Are you amazed? How many atoms' weights do you see in this grape?' " (referring to Sura 99 ayat 7)
+Yahya related to me that Malik said, "I heard that a beggar asked for food from A'isha, umm al-muminin, while she had some grapes. She told some one to take him one grape. He began to look in amazement. A'isha said, 'Are you amazed? How many atoms' weights do you see in this grape?' " (referring to Sura 99 ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1846</td></tr><tr><td>Arabic No</td><td>1846</td></tr><tr><td>Reference</td><td>Book 58 Hadith 6</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মিনা হতে ফিরে) যখন মক্কা্ প্রবেশের ইচ্ছা করলেন তখন বললেনঃ আগামীকাল খায়ফ বনী কেনানায় (মুহাসসাবে) ইনশাআল্লাহ আমাদের অবস্থানস্থল হবে যেখানে তারা (বনূ খায়ফ ও কুরাইশরা) কুফরীর উপর শপথ করেছিল। (১৫৯০, ৩৮৮২, ৪২৮৩, ৪২৮৫, ৭৪৭৯, মুসলিম ১৫/৫৯, হাঃ ১৩১৪, আহমাদ ৭২৪৪) (আধুনিক প্রকাশনীঃ ১৪৮৫, ইসলামিক ফাউন্ডেশনঃ ১৪৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মিনা হতে ফিরে) যখন মক্কা্ প্রবেশের ইচ্ছা করলেন তখন বললেনঃ আগামীকাল খায়ফ বনী কেনানায় (মুহাসসাবে) ইনশাআল্লাহ আমাদের অবস্থানস্থল হবে যেখানে তারা (বনূ খায়ফ ও কুরাইশরা) কুফরীর উপর শপথ করেছিল। (১৫৯০, ৩৮৮২, ৪২৮৩, ৪২৮৫, ৭৪৭৯, মুসলিম ১৫/৫৯, হাঃ ১৩১৪, আহমাদ ৭২৪৪) (আধুনিক প্রকাশনীঃ ১৪৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 25 Hadith 75</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:When Allah's Messenger (ﷺ) intended to enter Mecca he said, "Our destination tomorrow, if Allah wished, will be Khaif Bani Kinana where (the pagans) had taken the oath of Kufr." (Against the Prophet (ﷺ) i.e. to be loyal to heathenism by boycotting Bani Hashim, the Prophet's folk) (See Hadith 3882)
+Narrated Abu Huraira:When Allah's Messenger (ﷺ) intended to enter Mecca he said, "Our destination tomorrow, if Allah wished, will be Khaif Bani Kinana where (the pagans) had taken the oath of Kufr." (Against the Prophet (ﷺ) i.e. to be loyal to heathenism by boycotting Bani Hashim, the Prophet's folk) (See Hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 25 Hadith 75</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (விடைபெறும் ஹஜ்ஜில் ‘மினா’விலிருந்து) மக்காவிற்கு வருகை தர விரும்பியபோது, “நாளை நாம் தங்கப்போகும் இடம் இறைவன் நாடினால், ‘பனூ கினானா’ குலத்தாரின் (அல்முஹஸ்ஸப்) பள்ளத் தாக்கு ஆகும். அங்குதான் (குறைஷியர்), ‘இறைமறுப்பில் நிலைத்திருப்போம்’ என்று சூளுரைத்தனர்” என்று சொன்னார்கள். அத்தியாயம் : 25
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (விடைபெறும் ஹஜ்ஜில் ‘மினா’விலிருந்து) மக்காவிற்கு வருகை தர விரும்பியபோது, “நாளை நாம் தங்கப்போகும் இடம் இறைவன் நாடினால், ‘பனூ கினானா’ குலத்தாரின் (அல்முஹஸ்ஸப்) பள்ளத் தாக்கு ஆகும். அங்குதான் (குறைஷியர்), ‘இறைமறுப்பில் நிலைத்திருப்போம்’ என்று சூளுரைத்தனர்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 25 Hadith 75</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'in rivayetine göre Nebi Sallallahu Aleyhi ve Sellem Mekke'ye gitmek istediği zaman şöyle demiştir: "Yarınki konaklama yerimiz, inşallah, Benî Kinane'nin küfür üzerine ahitleştikleri yer olacaktır. Tekrar: 1590, 3882, 4284, 4285, 7479
+Ebu Hureyre r.a.'in rivayetine göre Nebi Sallallahu Aleyhi ve Sellem Mekke'ye gitmek istediği zaman şöyle demiştir: "Yarınki konaklama yerimiz, inşallah, Benî Kinane'nin küfür üzerine ahitleştikleri yer olacaktır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 25 Hadith 75</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন যায়দ ...... সুলায়মান ইবন ইয়াসার হতে ফাতিমার বহিস্কৃত হওয়ার হাদীস সম্পর্কে বর্ণিত হয়েছে। রাবী বলেন, তার এ বহিস্কার ছিল তার বদঅভ্যাসের পরিণতিস্বরূপ।
+। সুলায়মান ইবনু ইয়াসার (রহ.) থেকে ফাতিমাহর চলে যাওয়ার বিষয়ে বর্ণিত। তিনি বলেন, তার অশোভনীয় আচরণের কারণে তা হয়েছিল।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>2294</td></tr><tr><td>Reference</td><td>Book 13 Hadith 120</td></tr></tbody></table></div>
 

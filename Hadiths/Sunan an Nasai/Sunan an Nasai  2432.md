@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন মামার (রহঃ) ... আব্দুল মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে আলোকোজ্জ্বল রাত বিশিষ্ট আইয়ামের বীযের তিন দিনের সাওমে পালন করার নির্দেশ দিয়েছেন। তের, চৌদ্দ এবং পনের তারিখের।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2432</td></tr><tr><td>Arabic No</td><td>2432</td></tr><tr><td>Reference</td><td>Book 22 Hadith 343</td></tr></tbody></table></div>
 
@@ -44,7 +44,7 @@ Abdul-Malik bin Qudamah bin Milhan narrated that his father said:"The Messenger 
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Ma'mar] dia berkata; telah menceritakan kepada kami [Habban] dia berkata; telah menceritakan kepada kami [Hammam] dia berkata; telah menceritakan kepada kami [Anas bin Sirin] dia berkata; telah menceritakan kepadaku ['Abdul Malik bin Qudamah bin Milhan] dari [bapaknya], dia berkata; bahwa Nabi shallallahu 'alaihi wasallam menyuruh kami berpuasa pada tiga hari Bidl. Yaitu tanggal 13, 14, 15
+Telah mengabarkan kepada kami [Muhammad bin Ma'mar] dia berkata; telah menceritakan kepada kami [Habban] dia berkata; telah menceritakan kepada kami [Hammam] dia berkata; telah menceritakan kepada kami [Anas bin Sirin] dia berkata; telah menceritakan kepadaku ['Abdul Malik bin Qudamah bin Milhan] dari [bapaknya], dia berkata; bahwa Nabi shallallahu 'alaihi wasallam menyuruh kami berpuasa pada tiga hari Bidl. Yaitu tanggal
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2432</td></tr><tr><td>Arabic No</td><td>2432</td></tr><tr><td>Reference</td><td>Book 22 Hadith 343</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩৪০ মুহাম্মদাদ ইবন ঈসা ..... কায়স ইবন তালক (রহঃ) হতে বর্ণনা করেছেন। তিনি বলেন, রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ তোমরা খাও এবং পান করো, আর তোমাদেকে যেন সু্বহে সাদিকের উচ্চ লম্বা রেখা (যা পূর্ব হতে পশ্চিমে দৃশ্যমান) সাহরী খাওয়া হতে বিরত না রাখে। আর তোমরা ততক্ষণ পানাহার করো, যতক্ষণ না সুবহে সাদিকের লম্বা লাল আলোকরশ্মি (যা পূর্বাকাশে উত্তর দক্ষিণে দৃশ্যমান) প্রকাশ পায়।
+। কায়িস ইবনু তালক (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ খাও এবং পান করো। ঊর্ধ্বাকাশে ভোরের যে লম্বা রেখা ফুটে উঠে, তা যেন তোমাদেরকে (সাহারী খাওয়া থেকে) বিরত না রাখে। সুতরাং আকাশের দিগন্তে লাল রঙ্গের ফর্সা ফুটে উঠা পর্যন্ত তোমরা খাও এবং পান করো।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2348</td></tr><tr><td>Arabic No</td><td>2348</td></tr><tr><td>Reference</td><td>Book 14 Hadith 36</td></tr></tbody></table></div>
 

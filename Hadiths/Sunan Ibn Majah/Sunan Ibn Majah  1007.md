@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/১০০৭। ইবনু উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলা হল, মসজিদের বাম দিক খালি হয়ে গেছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যাক্তি মসজিদের বাম দিকের খালি জায়গা পূর্ণ করবে, তার জন্য দ্বিগুণ পুরস্কার লিপিবদ্ধ করা হয়।
+। ইবনু উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলা হল, মসজিদের বাম দিক খালি হয়ে গেছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যাক্তি মসজিদের বাম দিকের খালি জায়গা পূর্ণ করবে, তার জন্য দ্বিগুণ পুরস্কার লিপিবদ্ধ করা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1007</td></tr><tr><td>Arabic No</td><td>1007</td></tr><tr><td>Reference</td><td>Book 5 Hadith 205</td></tr></tbody></table></div>
 

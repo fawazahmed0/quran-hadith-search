@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাতটি অঙ্গের দ্বারা সিজদা্ করতে এবং চুল ও কাপড় না গুটাতে নির্দেশিত হয়েছিলেন। (অঙ্গ সাতটি হল) কপাল দু’ হাত, দু’ হাঁটু ও দু’ পা। (৮১০, ৮১২, ৮১৫, ৮১৬; মুসলিম ৪৩/৪৪, হাঃ ৪৯০, আহমাদ ২৫৮৪) (আধুনিক প্রকাশনীঃ ৭৬৪, ইসলামিক ফাউন্ডেশনঃ ৭৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাতটি অঙ্গের দ্বারা সিজদা্ করতে এবং চুল ও কাপড় না গুটাতে নির্দেশিত হয়েছিলেন। (অঙ্গ সাতটি হল) কপাল দু’ হাত, দু’ হাঁটু ও দু’ পা। (৮১০, ৮১২, ৮১৫, ৮১৬; মুসলিম ৪৩/৪৪, হাঃ ৪৯০, আহমাদ ২৫৮৪) (আধুনিক প্রকাশনীঃ ৭৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>809</td></tr><tr><td>Arabic No</td><td>809</td></tr><tr><td>Reference</td><td>Book 10 Hadith 204</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நெற்றி, இரு (உள்ளங்)கைகள், இரு முழங்கால்கள், இரண்டு கால் (நுனி)கள் ஆகிய ஏழு உறுப்புகள் (தரையில்) படுமாறு சஜ்தா செய்யும்படி நபி (ஸல்) அவர்கள் (இறைவனால்) கட்டளையிடப்பட்டார்கள். (சஜ்தாவில்) தலைமுடியையோ ஆடையையோ (தரையில் படாதவாறு) பிடிக்கக் கூடாது என்றும் அவர்கள் கட்டளையிடப்பட்டார்கள்.66 அத்தியாயம் : 10
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நெற்றி, இரு (உள்ளங்)கைகள், இரு முழங்கால்கள், இரண்டு கால் (நுனி)கள் ஆகிய ஏழு உறுப்புகள் (தரையில்) படுமாறு சஜ்தா செய்யும்படி நபி (ஸல்) அவர்கள் (இறைவனால்) கட்டளையிடப்பட்டார்கள். (சஜ்தாவில்) தலைமுடியையோ ஆடையையோ (தரையில் படாதவாறு) பிடிக்கக் கூடாது என்றும் அவர்கள் கட்டளையிடப்பட்டார்கள்.66 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>809</td></tr><tr><td>Arabic No</td><td>809</td></tr><tr><td>Reference</td><td>Book 10 Hadith 204</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.)'in şöyle dediği nakledilmiştir; "Resûlullah Sallallahu Aleyhi ve Sellem'e yedi azası üzerinde secde etmesi ve namazda iken elbisesiyle, saçıyla - başıyla uğraşmaması emredildi. Bu azalar şunlardır: Alın, iki el, iki diz ve iki ayak. Tekrar: 810, 813, 815, 816
+İbn Abbas (r.a.)'in şöyle dediği nakledilmiştir; "Resûlullah Sallallahu Aleyhi ve Sellem'e yedi azası üzerinde secde etmesi ve namazda iken elbisesiyle, saçıyla - başıyla uğraşmaması emredildi. Bu azalar şunlardır: Alın, iki el, iki diz ve iki ayak. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>809</td></tr><tr><td>Arabic No</td><td>809</td></tr><tr><td>Reference</td><td>Book 10 Hadith 204</td></tr></tbody></table></div>
 

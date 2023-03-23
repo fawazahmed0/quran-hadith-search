@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ (রহঃ) .... ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপ বলতে শুনেছিঃ যদি তোমরা ঈনা বিক্রি কর, ষাড়ের লেজ ধরে থাক এবং কৃষিকাজে লিপ্ত থাকার কারণে জিহাদ পরিত্যাগ কর, তবে আল্লাহ তোমাদের উপর এমন অপমান প্রবল করে দেবেন যে, যতক্ষণ না তোমরা দীনের উপর পূর্ণরুপে প্রত্যাবর্তন করবে, ততক্ষণ আল্লাহ তোমাদের থেকে ঐ অপমান দূর করবেন না।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, যখন তোমরা ঈনা[1] পদ্ধতিতে ব্যবসা করবে, গরুর লেজ আঁকড়ে ধরবে, কৃষিকাজেই সন্তুষ্ট থাকবে এবং জিহাদ ছেড়ে দিবে তখন আল্লাহ তোমাদের উপর লাঞ্ছনা ও অপমান চাপিয়ে দিবেন। তোমরা তোমাদের দ্বীনে ফিরে না আসা পর্যন্ত আল্লাহ তোমাদেরকে এই অপমান থেকে মুক্তি দিবেন না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 47</td></tr></tbody></table></div>
 

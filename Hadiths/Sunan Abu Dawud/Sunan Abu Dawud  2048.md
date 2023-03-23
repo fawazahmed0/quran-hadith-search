@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ..... জাবির ইবন আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে জিজ্ঞাসা করেন, তুমি কি বিবাহ করেছ? আমি বলি, হ্যাঁ। তিনি পুনরায় জিজ্ঞাসা করেন, সে কি কুমারী, নাকি অকুমারী? আমি বলি, অকুমারী। তিনি বলেন, তুমি কোন কুমারী স্ত্রীলোককে কেন বিবাহ করলে না, যার সাথে তুমি আমোদ-ফুর্তি করতে পারতে এবং সেও তোমার সাথে আমোদ-ফুর্তি করতে পারত?
+। জাবির ইবনু আব্দুল্লাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ তুমি কি বিয়ে করেছো? আমি বলি, হ্যাঁ। তিনি আবার বললেনঃ কুমারী না অকুমারী? আমি বললাম, অকুমারী। তিনি বললেনঃ তুমি কোনো কুমারী মেয়েকে বিয়ে করলে না কেন? তার সাথে তুমি খেলতে পারতে সেও তোমার সাথে খেলাধুলা করতে পারতো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2048</td></tr><tr><td>Arabic No</td><td>2048</td></tr><tr><td>Reference</td><td>Book 12 Hadith 3</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Câbir b. Abdillah (r.a.)'dan, dedi ki: Resûlullah sallallahu aleyhi ve sellem bana; "Evlendin mi?" diye sordu. Evet, cevabını verdim. "Kız mı aldın yoksa dul mu?" Dul aldım, diye cevap verdim. "Bir bakireyle evlenseydin ya! Sen onunla oynaşırdın o da seninle oynaşırdı" buyurdu. Diğer tahric: Buharî, cihad, buyu', istikrad, meğazi, nikah, nefekat, deavat; Müslim, müsakat, reda ; Tirmizî, nikah; Nesaî, nikah, buyu'; İbn Mace, nikah (1860), Dârimî, nikah; Ahmed b. Hanbel, III, 294, 297, 306, 308, 314, 358, 362, 374, 376, 390; IV, 108-109
+Câbir b. Abdillah (r.a.)'dan, dedi ki: Resûlullah sallallahu aleyhi ve sellem bana; "Evlendin mi?" diye sordu. Evet, cevabını verdim. "Kız mı aldın yoksa dul mu?" Dul aldım, diye cevap verdim. "Bir bakireyle evlenseydin ya! Sen onunla oynaşırdın o da seninle oynaşırdı" buyurdu. Diğer tahric: Buharî, cihad, buyu', istikrad, meğazi, nikah, nefekat, deavat; Müslim, müsakat, reda ; Tirmizî, nikah; Nesaî, nikah, buyu'; İbn Mace, nikah (1860), Dârimî, nikah; Ahmed b. Hanbel, III, 294, 297, 306, 308, 314, 358, 362, 374, 376, 390; IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2048</td></tr><tr><td>Arabic No</td><td>2048</td></tr><tr><td>Reference</td><td>Book 12 Hadith 3</td></tr></tbody></table></div>
 

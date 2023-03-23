@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... আবদুল্লাহ ইবন মুগাফফাল (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্‌ হলেন নরম ব্যবহারকারী, তিনি নরম ব্যবহার পসন্দ করেন। আর তিনি নরম ব্যবহারকারীকে যে ছাওয়াব দেন, কঠোর ব্যবহারকারীকে তা দেন না।
+। আব্দুল্লাহ ইবনু মুগাফফাল (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয়ই মহান আল্লাহ নম্র, তিনি নম্রতা পছন্দ করেন। তিনি নম্র স্বভাবের লোককে যা দান করেন তা কঠিন স্বভাবের লোককে দান করেন না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4807</td></tr><tr><td>Arabic No</td><td>4807</td></tr><tr><td>Reference</td><td>Book 43 Hadith 35</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪২৫৬, আন্তর্জাতিক নাম্বারঃ ১৬৭২ ৪২৫৬-(.../...) ইসহাক ইবনু মানসূর (রহঃ) ... আইয়্যুব (রহঃ) হতে উক্ত সানাদে অনুরূপভাবে হাদীসটি বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪২১৭, ইসলামিক সেন্টার ৪২১৭)
+ইসহাক ইবনু মানসূর (রহঃ) ... আইয়্যুব (রহঃ) হতে উক্ত সানাদে অনুরূপভাবে হাদীসটি বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪২১৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>1672.04</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
 

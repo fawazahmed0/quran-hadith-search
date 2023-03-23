@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১১. মালিক (রহঃ) বলেন, আমাদের ফয়সালা এই- নাক দিয়া রক্ত প্রবাহিত হইলে, শরীর হইতে খুন নির্গত হইলে এবং পুজ বহির্গত হইলে ওযু করিতে হইবে না। হাদস (حدث) যাহাতে ওযু নষ্ট হয়, এর কারণে ওযু করিতে হইবে; যাহা বাহির হয় গুহ্যদ্বার অথবা জননেন্দ্রীয় হইতে অথবা নিদ্রার কারণে। নাফি' (রহঃ) হইতে বর্ণিত, ইবন উমর (রাঃ) বসা অবস্থায় ঘুমাইতেন। অতঃপর ওযু না করিয়া নামায পড়িতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>39</td></tr><tr><td>Arabic No</td><td>39</td></tr><tr><td>Reference</td><td>Book 2 Hadith 8</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাসঊদ আনসারী (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুকুরের মূল্য, ব্যভিচারের বিনিময় এবং গণকের পারিতোষিক (গ্রহণ করা) হতে নিষেধ করেছেন। (২২৮২, ২৩৪৬, ৫৭৬১, মুসলিম ২২/৯, হাঃ ১৫৬৭, আহমাদ ১৭০৬৯) (আধুনিক প্রকাশনীঃ ২০৭৮, ইসলামিক ফাউন্ডেশনঃ ২০৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাসঊদ আনসারী (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুকুরের মূল্য, ব্যভিচারের বিনিময় এবং গণকের পারিতোষিক (গ্রহণ করা) হতে নিষেধ করেছেন। (২২৮২, ২৩৪৬, ৫৭৬১, মুসলিম ২২/৯, হাঃ ১৫৬৭, আহমাদ ১৭০৬৯) (আধুনিক প্রকাশনীঃ ২০৭৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2237</td></tr><tr><td>Arabic No</td><td>2237</td></tr><tr><td>Reference</td><td>Book 34 Hadith 183</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமஸ்ஊத் அல்அன்சாரீ (ரலி) அவர்கள் கூறியதாவது: நாய் விற்ற காசையும் விபசாரியின் வருமானத்தையும் சோதிடரின் தட்சணை யையும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை செய்தார்கள். அத்தியாயம் : 34
+அபூமஸ்ஊத் அல்அன்சாரீ (ரலி) அவர்கள் கூறியதாவது: நாய் விற்ற காசையும் விபசாரியின் வருமானத்தையும் சோதிடரின் தட்சணை யையும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2237</td></tr><tr><td>Arabic No</td><td>2237</td></tr><tr><td>Reference</td><td>Book 34 Hadith 183</td></tr></tbody></table></div>
 

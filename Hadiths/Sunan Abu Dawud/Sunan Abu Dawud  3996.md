@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফস ইবন উমার (রহঃ) .... আবূ কিলাবা (রহঃ) তাঁর থেকে শ্রবণ করেন, যাকে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ পড়ানঃ فَيَوْمَئِذٍ لاَ يُعَذَّبُ عَذَابَهُ أَحَدٌ * وَلاَ يُوثَقُ وَثَاقَهُ أَحَدٌ (অর্থাৎ তিনি يُعَذَّبُ এর ‘যাল’ অক্ষর এবংيُوثَقُ এর ‘ছা’ অক্ষর যবর দিয়ে তিলওয়াত করেন।)
+। আবূ কিলাবাহ তার থেকে শুনেছেন, যাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (এই আয়াত) এভাবে পড়িয়েছেনঃ(فَيَوْمَئِذٍ لَا يُعَذَّبُ عَذَابَهُ أَحَدٌ وَلَا يُوثَقُ)।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 32 Hadith 28</td></tr></tbody></table></div>
 

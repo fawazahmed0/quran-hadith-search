@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৯২. আবদুল্লাহ ইবন উমর (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, পাঁচ ধরনের প্রাণী ইহরাম অবস্থায় যদি কেউ হত্যা করে, তবে তাহার কোন গুনাহ হইবে না; যথা বিচ্ছু, ইদুর, হিংস্র কুকুর, চিল ও কাক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>789</td></tr><tr><td>Arabic No</td><td>789</td></tr><tr><td>Reference</td><td>Book 20 Hadith 85</td></tr></tbody></table></div>
 

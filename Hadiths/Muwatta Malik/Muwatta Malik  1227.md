@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৭০. উমর ইবন খাত্তাব (রাঃ) বলিয়াছেনঃ যেই স্ত্রীকে তালাক দেওয়া হইয়াছে তারপর হায়য (মাসিক ঋতু) আসিয়াছে এক হায়য বা দুই হায়য, অতঃপর তাহার ঋতুস্রাব বন্ধ হইয়া গিয়াছে, সেই স্ত্রী নয় মাস যাবত অপেক্ষা করিবে (ইতিমধ্যে) গৰ্ভ প্রকাশ পাইলে, তবে সন্তান প্রসব দ্বারারা ইদ্দত পালন করিবে, নতুরা নয় মাসের পর তিন মাস ইদ্দত পালন করিবে, তারপর সে অন্যের জন্য হালাল হইবে। মালিক (রহঃ) হইতে বর্ণিত, সাঈদ ইবন মুসায়্যিব (রহঃ) বলতেন, পুরুষের জন্য হইল তালাকের অধিকার আর স্ত্রীদের জন্য হইল ইদ্দত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
 

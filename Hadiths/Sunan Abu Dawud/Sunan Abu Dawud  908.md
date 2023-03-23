@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল ওয়াহহাব ইবনে নাজদা (রহঃ) ..... আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, হে আলী! তুমি নামাযের মধ্যে ইমামের কিরাতের ভুল শোধরিও না। ইমাম আবু দাউদ (রহঃ) বলেন, রাবী আবু ইসহাক (রহঃ) হারিস (রহঃ) হতে মাত্র চারটি হাদিস শ্রবণ করেছেন। (এই হাদিসটি এসবের অন্তর্ভুক্ত নয়। অর্থাৎ সনদের দিক থেকে হাদিসটি গ্রহণযোগ্য নয়)।
+। ‘আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে ‘আলী! তুমি সালাতের মধ্যে ইমামের ভুল শোধরাবে না।[1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, হারীসের কাছ থেকে আবূ ইসহাক কেবল চারটি হাদীস শুনেছেন। তাতে এ হাদীসটি নেই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>908</td></tr><tr><td>Arabic No</td><td>908</td></tr><tr><td>Reference</td><td>Book 2 Hadith 519</td></tr></tbody></table></div>
 

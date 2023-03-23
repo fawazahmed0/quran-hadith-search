@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইসহাক ইবনু ইবরাহীম (রহঃ) ..... ইয়াহইয়া ইবনু কাসীর (রহঃ) এর সূত্রে এ হাদীস উক্তরূপে বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৮৬৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4013</td></tr><tr><td>Arabic No</td><td>1568.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 52</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বাকর (রাঃ) বললেন, আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, আমরা (নবী-রাসূলগণ আমাদের সম্পদের) কাউকে উত্তরাধিকারী রেখে যাই না। আমরা যা রেখে যাই সদাকাহ হিসেবেই রেখে যাই। এ মাল থেকে মুহাম্মাদের পরিবার-পরিজনে ভোগ করবে। আল্লাহর কসম! আমার আত্মীয় স্বজনের সঙ্গে আত্মীয়তা দৃঢ় করার চেয়ে রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর আত্মীয়তাই আমার নিকট প্রিয়তর। [৩০৯৩] (আধুনিক প্রকাশনীঃ ৩৭৩৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4035</td></tr><tr><td>Arabic No</td><td>4035</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি ও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই পাত্রের পানি নিয়ে জানাবাতের গোসল করতাম। (২৫০) (আধুনিক প্রকাশনীঃ ২৫৬, ইসলামিক ফাউন্ডেশনঃ ২৬১) ‘আবদুর রহমান ইবনু কাসিম (রহ.) তাঁর পিতার সূত্রে ‘আয়িশাহ (রাযি.) থেকে অনুরূপ হাদীস বর্ণনা করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>263</td></tr><tr><td>Arabic No</td><td>263</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நானும் நபி (ஸல்) அவர்களும் பெருந்துடக்கிற்கான குளியலை ஒரே பாத்திரத்தி-ருந்து நிறைவேற்றினோம்.. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 5
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நானும் நபி (ஸல்) அவர்களும் பெருந்துடக்கிற்கான குளியலை ஒரே பாத்திரத்தி-ருந்து நிறைவேற்றினோம்.. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>263</td></tr><tr><td>Arabic No</td><td>263</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
 

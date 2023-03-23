@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-দাঊদ ইবন রাশীদ (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একবার এক ইয়াহূদী রমণী নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট হাদিয়া স্বরূপ একটি বিষ-মিশ্রিত বকরীর গোশত প্রেরণ করে। যদ্দরুণ তিনি তাকে কিছুই বলেননি। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ সে মহিলাটি ছিল মুরাহহাব নামক এক ইয়াহূদীর বোন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খাদ্যে বিষ মিশিয়ে দিয়েছিল।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। এক ইয়াহুদী মহিলা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বিষ মিশ্রিত একটি ভূনা ছাগী উপহার দিয়েছিল। বর্ণনাকারী বলেন, কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার বিরুদ্ধে কোনো ব্যবস্থা নেননি। ইমাম আবূ দাঊদ (রহঃ) বলেন, যে নারী নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বিষ প্রয়োগ করেছিল। সে হলো মারহাব নামক ইয়াহুদীর বোন।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4509</td></tr><tr><td>Arabic No</td><td>4509</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
 

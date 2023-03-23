@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। জাবির (রাযিঃ) হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইশতিমালুস সাম্মা (বাম কাধ অনাবৃত রেখে চাদরের দুই প্রান্ত ডান কাধে জড়ো করে পরতে), ইহতিবা (নিতম্বে ভর করে হাটুদ্বয় উচু করে পেটের সাথে চাদর পেচিয়ে বসতে) এবং এক পায়ের উপর অপর পা (হাঁটু ভাঁজ করে) উঠিয়ে পিঠের উপর চিৎ হয়ে শুতে বারণ করেছেন। সহীহঃ সহীহাহ (১২৫৫), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 43 Hadith 37</td></tr></tbody></table></div>
 

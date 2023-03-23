@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নূহ ইবন হাবীব (রহঃ) .... আবদুল্লাহ ইবন আমর (রাঃ) হতে বর্ণিত। তিনি একদা নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে জিজ্ঞাসা করেন যেঃ কুরআন কত দিনে খতম করা উচিত। তিনি বলেনঃ চল্লিশ দিনে, অতঃপর বলেন, এক মাসে। পরে তিনি বলেনঃ বিশ দিনে। অতঃপর তিনি পনের দিন, দশ দিন ও সাত দিনের কথা উল্লেখ করেন এবং সাত দিনের আর কম করেননি। (তিরমিযী, নাসাঈ)।
+। ‘আবদুল্লাহ ইবনু ‘আমর রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কুরআন খতমের সময়সীমা সম্পর্কে জিজ্ঞেস করলে তিনি বলেন, চল্লিশ দিনে। অতঃপর বলেনঃ এক মাসে, অতঃপর বলেনঃ বিশ দিনে, অতঃপর বলেনঃ পনের দিনে, অতঃপর বলেনঃ দশ দিনে, সর্বশেষে বলেন, সাত দিনে। আর তিনি সাত দিনের কম উল্লেখ করেননি।[1] সহীহ : তবে ‘‘সাত দিনের কমে’’ কথাটি শায। পূর্বের (১৩৯১ নং) হাদীসের এ কথাটির কারণে ‘‘তাহলে তিন দিনে খতম করবে।’’
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1395</td></tr><tr><td>Arabic No</td><td>1395</td></tr><tr><td>Reference</td><td>Book 6 Hadith 25</td></tr></tbody></table></div>
 

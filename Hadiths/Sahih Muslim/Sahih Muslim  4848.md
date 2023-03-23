@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭৪২, আন্তর্জাতিক নাম্বারঃ ১৮৭২ ৪৭৪২-(.../...) যুহায়র ইবনু হারব ও আবূ বকর ইবনু আবূ শাইবাহ্ (রহঃ) থেকে এ সানাদে অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৬৯৫, ইসলামিক সেন্টার ৪৬৯৬)
+যুহায়র ইবনু হারব ও আবূ বকর ইবনু আবূ শাইবাহ্ (রহঃ) থেকে এ সানাদে অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৬৯৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>1872.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 144</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮৩। আবূ হুরায়রা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ তাঁর সাথে মদ্বীনার কোন এক পথে নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) এর দেখা হলো। আবূ হুরায়রা (রাঃ) তখন জানাবাত অবস্থায় ছিলেন। তিনি বলেন, আমি নিজেকে অপবিত্র মনে করে সরে পড়লাম। পরে আবূ হুরায়রা (রাঃ) গোসল করে এলেন। পুনরায় সাক্ষাত হলে আল্লাহর রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) জিজ্ঞেস করলেনঃ ওহে আবূ হুরাইরা! কোথায় ছিলে? আবূ হুরায়রা (রাঃ) বললেনঃ আমি জানাবাতের অবস্থায় আপনার সঙ্গে বসা সমীচীন মনে করিনি। তিনি বললেনঃ সুবহানাল্লাহ্‌! মু’মিন অপবিত্র হয় না।
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ তাঁর সাথে মদ্বীনার কোন এক পথে নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) এর দেখা হলো। আবূ হুরায়রা (রাঃ) তখন জানাবাত অবস্থায় ছিলেন। তিনি বলেন, আমি নিজেকে অপবিত্র মনে করে সরে পড়লাম। পরে আবূ হুরায়রা (রাঃ) গোসল করে এলেন। পুনরায় সাক্ষাত হলে আল্লাহর রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) জিজ্ঞেস করলেনঃ ওহে আবূ হুরাইরা! কোথায় ছিলে? আবূ হুরায়রা (রাঃ) বললেনঃ আমি জানাবাতের অবস্থায় আপনার সঙ্গে বসা সমীচীন মনে করিনি। তিনি বললেনঃ সুবহানাল্লাহ্‌! মু’মিন অপবিত্র হয় না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>283</td></tr><tr><td>Arabic No</td><td>283</td></tr><tr><td>Reference</td><td>Book 5 Hadith 35</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: பெருந்துடக்கு ஏற்பட்ட நிலையில் நான் மதீனாவின் ஒரு சாலையில் நின்று கொண்டிருந்தேன். அப்போது நபி (ஸல்) அவர்கள் என்னைச் சந்தித்தார்கள். உடனே நான் அவர்களிடமிருந்து (நழுவிச்) சென்று மறைந்துகொண்டேன். உடனே நான் சென்று குளித்துவிட்டு வந்தேன். அப்போது “(இவ்வளவு நேரம்) எங்கிருந்தாய், அபூஹுரைரா?” என்று நபி (ஸல்) அவர்கள் கேட்டார்கள். “நான் பெருந்துடக்கு உடையவனாய் இருந்தேன். சுத்தமில்லாமல் தங்கள் அருகே அமர் வதை நான் வெறுத்தேன்” என்று சொன்னேன். அப்போது நபி (ஸல்) அவர்கள், “சுப்ஹானல்லாஹ் (அல்லாஹ் தூயவன்) ஒரு முஸ்-ம் (பெருந்துடக்கு ஏற்பட்டதால்) அசுத்தமாகிவிடமாட்டார்” என்று கூறினார்கள். அத்தியாயம் : 5
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: பெருந்துடக்கு ஏற்பட்ட நிலையில் நான் மதீனாவின் ஒரு சாலையில் நின்று கொண்டிருந்தேன். அப்போது நபி (ஸல்) அவர்கள் என்னைச் சந்தித்தார்கள். உடனே நான் அவர்களிடமிருந்து (நழுவிச்) சென்று மறைந்துகொண்டேன். உடனே நான் சென்று குளித்துவிட்டு வந்தேன். அப்போது “(இவ்வளவு நேரம்) எங்கிருந்தாய், அபூஹுரைரா?” என்று நபி (ஸல்) அவர்கள் கேட்டார்கள். “நான் பெருந்துடக்கு உடையவனாய் இருந்தேன். சுத்தமில்லாமல் தங்கள் அருகே அமர் வதை நான் வெறுத்தேன்” என்று சொன்னேன். அப்போது நபி (ஸல்) அவர்கள், “சுப்ஹானல்லாஹ் (அல்லாஹ் தூயவன்) ஒரு முஸ்-ம் (பெருந்துடக்கு ஏற்பட்டதால்) அசுத்தமாகிவிடமாட்டார்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>283</td></tr><tr><td>Arabic No</td><td>283</td></tr><tr><td>Reference</td><td>Book 5 Hadith 35</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. dediki: Cünüb iken Medîne sokaklarından birinde kendisine Nebiyyi Ekrem sallallahu aleyhi ve sellem tesâdüf etmiş. -(Ebu Hureyre) der ki, yanından savuşup gittim. Ve gusledip geldim. (Resûlullâh sallallahu aleyhi ve sellem): "Ya Ebu Hureyre, nerede idin." diye sordu. "Cünüb idim. Tahâretsiz olarak seninle birlikte oturmak istemedim." dedim. Bunun üzerine, "Sübhanallâh, Mu'min (hiç) necis olmaz." buyurdu. Tekrar: 285
+Ebu Hureyre r.a. dediki: Cünüb iken Medîne sokaklarından birinde kendisine Nebiyyi Ekrem sallallahu aleyhi ve sellem tesâdüf etmiş. -(Ebu Hureyre) der ki, yanından savuşup gittim. Ve gusledip geldim. (Resûlullâh sallallahu aleyhi ve sellem): "Ya Ebu Hureyre, nerede idin." diye sordu. "Cünüb idim. Tahâretsiz olarak seninle birlikte oturmak istemedim." dedim. Bunun üzerine, "Sübhanallâh, Mu'min (hiç) necis olmaz." buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>283</td></tr><tr><td>Arabic No</td><td>283</td></tr><tr><td>Reference</td><td>Book 5 Hadith 35</td></tr></tbody></table></div>
 

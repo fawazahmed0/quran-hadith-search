@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... ইবনু উমর (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুযদালিফায় মাগরিব ও ইশার সালাত (সালাত/নামাজ/নামায) একত্রে আদায় করেন। (ইসলামিক ফাউন্ডেশন ২৯৭৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>703.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 314</td></tr></tbody></table></div>
 

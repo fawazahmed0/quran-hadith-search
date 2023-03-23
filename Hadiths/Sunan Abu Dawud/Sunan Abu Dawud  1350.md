@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসুলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম রাত্রিতে তের রাকাত নামায আদায় করতেন এবং তিনি নবম রাকাতে বিতির পাঠ শেষ করতেন অথবা তিনি (আয়েশা) যেরূপ বর্ণনা করেছেন। অতঃপর তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বসাবস্থায় দুই রাকাত নামায আদায় করতেন। তিনি ফজরের দুই রাকাত সুন্নাত নামায আযান ও ইকামতের মধ্যবর্তী সময়ে আদায় করতেন।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে তের রাক‘আত সালাত আদায় করতেন এবং নবম রাক‘আতে বিতর অথবা তিনি অনুরূপ বলেছেন। তিনি বসে দু’ রাক‘আত সালাত আদায় করতেন, অতঃপর ফজরের দু’ রাক‘আত সুন্নাত সালাত আযান ও ইক্বামাত(ইকামত/একামত)ের মধ্যবর্তী সময়ে আদায় করতেন।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1350</td></tr><tr><td>Arabic No</td><td>1350</td></tr><tr><td>Reference</td><td>Book 5 Hadith 101</td></tr></tbody></table></div>
 

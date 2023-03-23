@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্‌ন নুফায়ল (রহঃ) .... জাবির ইব্‌ন সামুরা (রাঃ) এ হাদীছ বর্ণনা প্রসঙ্গে আরো অতিরিক্ত উল্লেখ করেন যে, এরপর তিনি তাঁর ঘরে ফিরলে কুরায়শগণ এসে জিজ্ঞাসা করেনঃ এরপর কি হবে? তিনি বলেনঃ তারপর ‘হারাজ’ অর্থাৎ হত্যা ও খুন-খারাবী শুরু হবে।
+। জাবির ইবনু সামুরাহ (রাঃ) সূত্রে উপরের বর্ণিত হাদীস বর্ণিত। তবে এ বর্ণনায় আছেঃ পরে যখন তিনি তার ঘরে ফিরে যান, কুরাইশদের কয়েকজন এসে তাকে প্রশ্ন করলো, তারপরে কি হবে? তিনি বললেনঃ অতঃপর বিপর্যয় সৃষ্টি হবে।[1] সহীহ, তবে এ কথাটি বাদেঃ ‘‘পরে যখন তিনি তাঁর ঘরে ফিরে যান...’’। এর পূর্বেরটি দেখুন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4281</td></tr><tr><td>Arabic No</td><td>4281</td></tr><tr><td>Reference</td><td>Book 38 Hadith 3</td></tr></tbody></table></div>
 

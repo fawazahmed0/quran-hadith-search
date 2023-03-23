@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন হাতিম (রহঃ) ... আবু যর (রাঃ) বলেছেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি ঐ যে ব্যক্তি প্রতি মাসে তিন দিন সওম পালন করল সে যেন সারা মাস সাওম পালন করল অথবা তিনি বলেছেনঃ তার জন্য সারা মাস সাওম পালন করার সওয়াব রয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 22 Hadith 321</td></tr></tbody></table></div>
 

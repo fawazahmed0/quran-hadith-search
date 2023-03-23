@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইয়াহইয়া ইবনু হাবীব হারিসী ও মুহাম্মাদ ইবনু আবদুল্লাহ রূযযী (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হাওযের কাছে আকাশের তারকারাজির মতো অগণিত স্বর্ণ ও রূপার পানপাত্র দেখতে পাবে। (ইসলামিক ফাউন্ডেশন ৫৭৯৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6000</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

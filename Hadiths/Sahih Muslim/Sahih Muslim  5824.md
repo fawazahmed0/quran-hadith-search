@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৭১৭, আন্তর্জাতিক নাম্বারঃ ২২৩২ ৫৭১৭-(.../...) ইসহাক ইবনু ইবরাহীম (রহঃ) হিশাম (রহঃ) ..... উপরোল্লিখিত সূত্রে হাদীস বর্ণনা করেন এবং বলেন, 'লেজবিহীন পিঠে দু'টি শুভ্র রেখাযুক্ত সৰ্প (সাপ)। (ইসলামিক ফাউন্ডেশন ৫৬৩০, ইসলামিক সেন্টার ৫৬৫৯)
+ইসহাক ইবনু ইবরাহীম (রহঃ) হিশাম (রহঃ) ..... উপরোল্লিখিত সূত্রে হাদীস বর্ণনা করেন এবং বলেন, 'লেজবিহীন পিঠে দু'টি শুভ্র রেখাযুক্ত সৰ্প (সাপ)। (ইসলামিক ফাউন্ডেশন ৫৬৩০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5824</td></tr><tr><td>Arabic No</td><td>2232.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 176</td></tr></tbody></table></div>
 

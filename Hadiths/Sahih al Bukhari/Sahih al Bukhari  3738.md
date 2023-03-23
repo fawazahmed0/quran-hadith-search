@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তিনি তা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট বর্ণনা করেন। তিনি বললেন, ‘আবদুল্লাহ খুব চমৎকার মানুষ। যদি সে রাতে সালাত আদায় করত। (তাঁর পুত্র) সালিম (রহ.) বলেন, অতঃপর ‘আবদুল্লাহ (রাঃ) রাতে খুব অল্প সময়ই ঘুমাতেন। (১১২২) (আধুনিক প্রকাশনীঃ ৩৪৫৭ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৩৪৬৫ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3738</td></tr><tr><td>Arabic No</td><td>3738</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

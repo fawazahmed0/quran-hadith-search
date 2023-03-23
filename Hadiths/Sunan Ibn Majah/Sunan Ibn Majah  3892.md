@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৮৯২। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি হঠাৎ কোন বিপদগ্রস্ত ব্যক্তিকে দেখে বলবে, ‘‘সমস্ত প্রশংসা আল্লাহর জন্য, তিনি তোমাকে যে বিপদে লিপ্ত করেছেন তা থেকে আমাকে নিরাপদ রেখেছেন এবং তাঁর অসংখ্য সৃষ্টির উপর আমাকে মর্যাদা দান করেছেন ’’, তাহলে সে তার জীবৎকাল পর্যন্ত উক্ত বিপদ থেকে নিরাপদ থাকবে (তিরমিযি)।
+। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি হঠাৎ কোন বিপদগ্রস্ত ব্যক্তিকে দেখে বলবে, ‘‘সমস্ত প্রশংসা আল্লাহর জন্য, তিনি তোমাকে যে বিপদে লিপ্ত করেছেন তা থেকে আমাকে নিরাপদ রেখেছেন এবং তাঁর অসংখ্য সৃষ্টির উপর আমাকে মর্যাদা দান করেছেন ’’, তাহলে সে তার জীবৎকাল পর্যন্ত উক্ত বিপদ থেকে নিরাপদ থাকবে (তিরমিযি)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3892</td></tr><tr><td>Arabic No</td><td>3892</td></tr><tr><td>Reference</td><td>Book 34 Hadith 66</td></tr></tbody></table></div>
 

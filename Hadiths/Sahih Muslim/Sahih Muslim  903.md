@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৮৯, আন্তর্জাতিক নাম্বারঃ ৪০৩ ৭৮৯-(৬১/...) আবূ বকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আমাদেরকে যেভাবে কুরআন শিক্ষা দিতেন, সেভাবেই আমাদেরকে তাশাহহুদ শিক্ষা দিতেন। (ইসলামিক ফাউন্ডেশনঃ ৭৮৬, ইসলামিক সেন্টারঃ ৭৯৮)
+আবূ বকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আমাদেরকে যেভাবে কুরআন শিক্ষা দিতেন, সেভাবেই আমাদেরকে তাশাহহুদ শিক্ষা দিতেন। (ইসলামিক ফাউন্ডেশনঃ ৭৮৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் குர்ஆனின் அத்தியாயத்தைக் கற்றுத்தருவதைப் போன்று (தொழுகை இருப்பில் ஓதப்படும்) அத்தஹிய்யாத்தை எங்களுக்குக் கற்றுத் தருவார்கள். அத்தியாயம் : 4
+அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் குர்ஆனின் அத்தியாயத்தைக் கற்றுத்தருவதைப் போன்று (தொழுகை இருப்பில் ஓதப்படும்) அத்தஹிய்யாத்தை எங்களுக்குக் கற்றுத் தருவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
 

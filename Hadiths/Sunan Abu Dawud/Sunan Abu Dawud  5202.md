@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন মাসলামা (রহঃ) .... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খেলায়রত কয়েকটি ছোট ছেলের পাশ দিয়ে যাবার সময় তাদের সালাম করেন।
+। সাবিত (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আনাস (রাঃ) বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খেলাধূলারত একদল বালকের নিকট এসে তাদেরকে সালাম দিয়েছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>5202</td></tr><tr><td>Reference</td><td>Book 43 Hadith 430</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sabit'ten (rivayet edildiğine göre) Hz. Enes şöyle demiştir: "Rasûlullah (s.a.v.) (birgün) oynamakta olan çocukların yanından geçti de onlara selâm verdi." Tahric edenler: Buharî, istizan; Müslim, selâm; Tirmizi, istizan; İbn Mace, edeb; Darimî, istizan; Nesâi, Amelu'l-Yevmi, s. 286
+Sabit'ten (rivayet edildiğine göre) Hz. Enes şöyle demiştir: "Rasûlullah (s.a.v.) (birgün) oynamakta olan çocukların yanından geçti de onlara selâm verdi." Tahric edenler: Buharî, istizan; Müslim, selâm; Tirmizi, istizan; İbn Mace, edeb; Darimî, istizan; Nesâi, Amelu'l-Yevmi, s
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>5202</td></tr><tr><td>Reference</td><td>Book 43 Hadith 430</td></tr></tbody></table></div>
 

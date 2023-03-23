@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) ... হাসান (রহঃ) বলেনঃ মহান আল্লাহ্‌র বাণীঃ তাদের মধ্যে এবং তারা যা চায় তার মধ্যে প্রতিবন্ধক হয়েছে। তিনি বলেনঃ এর অর্থঃ তাদের মধ্যে এবং ঈমানের মধ্যে প্রতিবন্ধক হয়েছে।
+। হাসান বাসরী (রহঃ) মহান আল্লাহর এ বাণীঃ ‘‘তাদের ও এদের বাসনার মধ্যে প্রতিবন্ধক সৃষ্টি করা হয়েছে’’ (সূরা সাবাঃ ৫৪) সম্পর্কে বলেন, তাদের ও ঈমানের মধ্যে।[1] সনদ সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
 

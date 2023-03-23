@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫৯, আন্তর্জাতিক নাম্বারঃ ২৮৯ ৫৫৯-(১০৮/২৮৯) আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... আমর ইবনু মাইমূন (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি সুলাইমান ইবনু ইয়াসারকে জিজ্ঞেস করলাম যে, বীর্য কোন লোকের কাপড়ে লেগে গেলে সে শুধু সে বীর্য ধুয়ে ফেলবে না কাপড়টাই ধুয়ে ফেলবে? তিনি বললেন, ‘আয়িশাহ (রাযিঃ) আমাকে জানিয়েছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বীর্য ধুয়ে ফেলতেন তারপর সে কাপড়েই সালাতের জন্যে বেরিয়ে যেতেন আর আমি (পিছন থেকে) সে কাপড়ে ধোয়ার চিহ্ন দেখতে পেতাম। (ইসলামিক ফাউন্ডেশনঃ ৫৬৩, ইসলামিক সেন্টারঃ ৫৭৯)
+আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... আমর ইবনু মাইমূন (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি সুলাইমান ইবনু ইয়াসারকে জিজ্ঞেস করলাম যে, বীর্য কোন লোকের কাপড়ে লেগে গেলে সে শুধু সে বীর্য ধুয়ে ফেলবে না কাপড়টাই ধুয়ে ফেলবে? তিনি বললেন, ‘আয়িশাহ (রাযিঃ) আমাকে জানিয়েছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বীর্য ধুয়ে ফেলতেন তারপর সে কাপড়েই সালাতের জন্যে বেরিয়ে যেতেন আর আমি (পিছন থেকে) সে কাপড়ে ধোয়ার চিহ্ন দেখতে পেতাম। (ইসলামিক ফাউন্ডেশনঃ ৫৬৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>289.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 138</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekr b. Ebi Şeybe tahdis etti. Bize Muhammed b. Bişr, Amr b. Meymun'dan şöyle dediğini tahdis etti: Süleyman b. Yesar'a bir adamın elbisesine isabet eden meni hakkında onu mu yıkar yoksa elbiseyi mi yıkar, diye sordum. O: Aişe'nin bana haber verdiğine göre Resulullah (Sallallahu aleyhi ve Sellem) meniyi yıkar, sonra o elbise üzerinde olduğu halde -ve ben elbisesinde yıkamanın izini görüyorken- namaza çıkardı. Diğer tahric: Buhari, 229, 230, 231, 232; Ebu Davud, 373; Tirmizi, 117; Nesai, 294; İbn Mace, 536 buna yakın uzunca; Tuhfetu'l-Eşraf, 16135
+Bize Ebu Bekr b. Ebi Şeybe tahdis etti. Bize Muhammed b. Bişr, Amr b. Meymun'dan şöyle dediğini tahdis etti: Süleyman b. Yesar'a bir adamın elbisesine isabet eden meni hakkında onu mu yıkar yoksa elbiseyi mi yıkar, diye sordum. O: Aişe'nin bana haber verdiğine göre Resulullah (Sallallahu aleyhi ve Sellem) meniyi yıkar, sonra o elbise üzerinde olduğu halde -ve ben elbisesinde yıkamanın izini görüyorken- namaza çıkardı. Diğer tahric: Buhari, 229, 230, 231, 232; Ebu Davud, 373; Tirmizi, 117; Nesai, 294; İbn Mace, 536 buna yakın uzunca; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>289.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 138</td></tr></tbody></table></div>
 

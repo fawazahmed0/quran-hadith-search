@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+অবশেষে বাদরী সাহাবী আবূ লুবাবাহ (রাঃ) তাঁকে বললেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ঘরে বসবাসকারী (শ্বেতবর্ণের) ছোট সাপ মারতে নিষেধ করেছেন। এতে তিনি তা মারা থেকে নিবৃত্ত থাকেন। [৩২৯৮] (আধুনিক প্রকাশনীঃ ৩৭১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>4016</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের ঘরের এমন কিছুই না ভেঙ্গে ছাড়তেন না, যাতে কোন (প্রাণীর) ছবি থাকত। (আধুনিক প্রকাশনী- ৫৫২০, ইসলামিক ফাউন্ডেশন- ৫৪১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের ঘরের এমন কিছুই না ভেঙ্গে ছাড়তেন না, যাতে কোন (প্রাণীর) ছবি থাকত। (আধুনিক প্রকাশনী- ৫৫২০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5952</td></tr><tr><td>Arabic No</td><td>5952</td></tr><tr><td>Reference</td><td>Book 77 Hadith 168</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது வீட்டில் சிலுவை போன்ற உருவங்கள் உள்ள எந்தப் பொருளையும் சிதைக்காமல் விட்டுவைத்ததில்லை. அத்தியாயம் : 77
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது வீட்டில் சிலுவை போன்ற உருவங்கள் உள்ள எந்தப் பொருளையும் சிதைக்காமல் விட்டுவைத்ததில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5952</td></tr><tr><td>Arabic No</td><td>5952</td></tr><tr><td>Reference</td><td>Book 77 Hadith 168</td></tr></tbody></table></div>
 

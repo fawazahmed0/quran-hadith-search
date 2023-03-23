@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৩১৪। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু ঈদের দিন দেশের কোন শহরে অস্ত্রসজ্জিত হতে নিষেধ করেছেন, তবে শত্রুর উপস্থিতিতে তা করা যেতে পারে।
+। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু ঈদের দিন দেশের কোন শহরে অস্ত্রসজ্জিত হতে নিষেধ করেছেন, তবে শত্রুর উপস্থিতিতে তা করা যেতে পারে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 5 Hadith 512</td></tr></tbody></table></div>
 

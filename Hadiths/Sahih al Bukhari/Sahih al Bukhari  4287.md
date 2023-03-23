@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ [ইবনু মাস‘ঊদ (রাঃ)] হতে বর্ণিত। তিনি বলেন, মক্কা বিজয়ের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মক্কা্য় প্রবেশ করলেন, তখন বাইতুল্লাহর চারপাশ ঘিরে তিনশত ষাটটি প্রতিমা স্থাপিত ছিল। তিনি হাতে একটি লাঠি নিয়ে প্রতিমাগুলোকে আঘাত করতে থাকলেন আর বলতে থাকলেন, হাক এসেছে, বাতিল অপসৃত হয়েছে। হাক এসেছে, বাতিলের উদ্ভব বা পুনরুত্থান আর ঘটবে না। [২৪৭৮] (আধুনিক প্রকাশনীঃ ৩৯৫১, ইসলামিক ফাউন্ডেশনঃ ৩৯৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ [ইবনু মাস‘ঊদ (রাঃ)] হতে বর্ণিত। তিনি বলেন, মক্কা বিজয়ের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মক্কা্য় প্রবেশ করলেন, তখন বাইতুল্লাহর চারপাশ ঘিরে তিনশত ষাটটি প্রতিমা স্থাপিত ছিল। তিনি হাতে একটি লাঠি নিয়ে প্রতিমাগুলোকে আঘাত করতে থাকলেন আর বলতে থাকলেন, হাক এসেছে, বাতিল অপসৃত হয়েছে। হাক এসেছে, বাতিলের উদ্ভব বা পুনরুত্থান আর ঘটবে না। [২৪৭৮] (আধুনিক প্রকাশনীঃ ৩৯৫১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4287</td></tr><tr><td>Arabic No</td><td>4287</td></tr><tr><td>Reference</td><td>Book 64 Hadith 320</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah:When the Prophet (ﷺ) entered Mecca on the day of the Conque
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Shadaqah bin Fadhl] Telah mengabarkan kepada kami [Ibnu 'Uyainah] dari [Ibnu Abu Najih] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah] radliallahu 'anhu, katanya, Nabi shallallahu 'alaihi wasallam memasuki Makkah pada penaklukan Makkah yang ketika itu di sekitar ka'bah ada tiga ratus enam puluh patung, lantas beliau porak-porandakan dengan sebongkah kayu di tangannya seraya beliau serukan "Sekarang telah datang kebenaran dan kebatilan telah musnah." (QS. Isra'; 81), "Sekarang kebenaran telah datang dan kebatilan tak akan terulang dan kembali lagi." (QS. Saba': 49)
+Telah menceritakan kepada kami [Shadaqah bin Fadhl] Telah mengabarkan kepada kami [Ibnu 'Uyainah] dari [Ibnu Abu Najih] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah] radliallahu 'anhu, katanya, Nabi shallallahu 'alaihi wasallam memasuki Makkah pada penaklukan Makkah yang ketika itu di sekitar ka'bah ada tiga ratus enam puluh patung, lantas beliau porak-porandakan dengan sebongkah kayu di tangannya seraya beliau serukan "Sekarang telah datang kebenaran dan kebatilan telah musnah." (QS. Isra'; 81), "Sekarang kebenaran telah datang dan kebatilan tak akan terulang dan kembali lagi." (QS. Saba':)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4287</td></tr><tr><td>Arabic No</td><td>4287</td></tr><tr><td>Reference</td><td>Book 64 Hadith 320</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Shadaqah bin Fadhl] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: கஅபாவைச் சுற்றிலும் முந்நூற்று அறுபது சிலைகள் இருக்க, நபி (ஸல்) அவர்கள் மக்கா நகருக்குள் நுழைந்தார் கள். அப்போது அவர்கள், “சத்தியம் வந்துவிட்டது; அசத்தியம் அழிந்துவிட்டது. சத்தியம் வந்துவிட்டது; (இனி) அசத்தியம் மீண்டும் ஒருமுறை பிறக்காது” என்று கூறிக்கொண்டே, தம் கையிலிருந்த குச்சியால் அவற்றை (குத்தி) அடிக்கத் தொடங்கினார்கள்.327 அத்தியாயம் : 64
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: கஅபாவைச் சுற்றிலும் முந்நூற்று அறுபது சிலைகள் இருக்க, நபி (ஸல்) அவர்கள் மக்கா நகருக்குள் நுழைந்தார் கள். அப்போது அவர்கள், “சத்தியம் வந்துவிட்டது; அசத்தியம் அழிந்துவிட்டது. சத்தியம் வந்துவிட்டது; (இனி) அசத்தியம் மீண்டும் ஒருமுறை பிறக்காது” என்று கூறிக்கொண்டே, தம் கையிலிருந்த குச்சியால் அவற்றை (குத்தி) அடிக்கத் தொடங்கினார்கள்.327 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4287</td></tr><tr><td>Arabic No</td><td>4287</td></tr><tr><td>Reference</td><td>Book 64 Hadith 320</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মশকের মুখে মুখ লাগিয়ে পানি পান করতেন, অপবিত্র বস্তু ভক্ষণকারী জানোয়ারের পিঠে আরোহণ করতে এবং তীর খাওয়া পশুর গোশত ভক্ষণ করতে নিষেধ করেছেন।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কলসের মুখে মুখ লাগিয়ে পানি পান করতে, জাল্লালায় সওয়ার থেকে এবং কোনো প্রাণীকে বেঁধে তীর নিক্ষেপ করে হত্যা করতে বারণ করেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, জাল্লালা হলো, যে প্রাণী নাপাক বস্তু খায়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 27 Hadith 51</td></tr></tbody></table></div>
 

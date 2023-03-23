@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তোমাদের প্রতিপালক থেকে বর্ণনা করেছেন। তিনি বলেনঃ প্রতিটি আমলের কাফ্ফারা রয়েছে, সে সব আমলের ত্রুটি দূর করার জন্য। কিন্তু সওম আমার জন্যই, এতে লোক দেখানোর কিছু নেই, তাই আমি নিজেই এর প্রতিদান দেব। সওম পালনকারীর মুখের গন্ধ আল্লাহর কাছে মিস্‌কের চেয়েও বেশি সুগন্ধময়। [১৮৯৪] (আধুনিক প্রকাশনী- ৭০১৯, ইসলামিক ফাউন্ডেশন- ৭০৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তোমাদের প্রতিপালক থেকে বর্ণনা করেছেন। তিনি বলেনঃ প্রতিটি আমলের কাফ্ফারা রয়েছে, সে সব আমলের ত্রুটি দূর করার জন্য। কিন্তু সওম আমার জন্যই, এতে লোক দেখানোর কিছু নেই, তাই আমি নিজেই এর প্রতিদান দেব। সওম পালনকারীর মুখের গন্ধ আল্লাহর কাছে মিস্‌কের চেয়েও বেশি সুগন্ধময়। [১৮৯৪] (আধুনিক প্রকাশনী- ৭০১৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7538</td></tr><tr><td>Arabic No</td><td>7538</td></tr><tr><td>Reference</td><td>Book 97 Hadith 163</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:The Prophet (ﷺ) said that your Lord said, "Every (sinful) deed can be expiated; and the fast is for Me, so I will give the reward for it; and the smell which comes out of the mouth of a fasting person, is better in Allah's Sight than the smell of musk." (See Hadith No. 584)
+Narrated Abu Huraira:The Prophet (ﷺ) said that your Lord said, "Every (sinful) deed can be expiated; and the fast is for Me, so I will give the reward for it; and the smell which comes out of the mouth of a fasting person, is better in Allah's Sight than the smell of musk." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7538</td></tr><tr><td>Arabic No</td><td>7538</td></tr><tr><td>Reference</td><td>Book 97 Hadith 163</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் உங்கள் இறைவனி டமிருந்து அறிவித்தார்கள்: இறைவன் கூறுகின்றான்: ஒவ்வொரு (தீய) செயலுக்கும் ஒரு பரிகாரம் உண்டு. நோன்பு எனக்காகவே நிறைவேற்றப்படுவதாகும். நானே அதற்குப் பிரதிபலன் வழங்குவேன். நோன்பாளியின் வாயிலிருந்து வீசும் வாடை கஸ்தூரி வாசனையைவிட அல்லாஹ்விடம் மணமிக்கதாகும்.178 அத்தியாயம் : 97
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் உங்கள் இறைவனி டமிருந்து அறிவித்தார்கள்: இறைவன் கூறுகின்றான்: ஒவ்வொரு (தீய) செயலுக்கும் ஒரு பரிகாரம் உண்டு. நோன்பு எனக்காகவே நிறைவேற்றப்படுவதாகும். நானே அதற்குப் பிரதிபலன் வழங்குவேன். நோன்பாளியின் வாயிலிருந்து வீசும் வாடை கஸ்தூரி வாசனையைவிட அல்லாஹ்விடம் மணமிக்கதாகும்.178 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7538</td></tr><tr><td>Arabic No</td><td>7538</td></tr><tr><td>Reference</td><td>Book 97 Hadith 163</td></tr></tbody></table></div>
 

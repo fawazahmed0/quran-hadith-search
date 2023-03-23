@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবী শায়বা (রহঃ) .... আবূ তুফায়ল (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা ফাতিমা (রাঃ) আবূ বকর (রাঃ) এর নিকট উপস্থিত হয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পরিত্যক্ত সম্পত্তিতে নিজের হিসসা দাবী করেন। তখন আবূ বকর (রাঃ) বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরূপ বলতে শুনেছি যে, যখন আল্লাহ্‌ তাঁর কোন নবীকে কোন জীবিকা প্রদান করেন, তা তাঁর পরবর্তী স্থলাভিষিক্ত ব্যক্তির অধিকারে চলে যাবে।
+। আবুত তুফাইল (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ফাতিমাহ (রাঃ) আবূ বাকর (রাঃ)-এর নিকট এসে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সম্পদে তার মীরাস দাবি করেন। বর্ণনাকারী বলেন, আবূ বাকর (রাঃ) বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আল্লাহ কোনো নবীকে জীবন ধারণের ব্যবস্থা করে দিলে তাঁর পরবর্তীতে তাঁর স্থলাভিষিক্ত ব্যক্তি এর হকদার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2973</td></tr><tr><td>Arabic No</td><td>2973</td></tr><tr><td>Reference</td><td>Book 20 Hadith 46</td></tr></tbody></table></div>
 

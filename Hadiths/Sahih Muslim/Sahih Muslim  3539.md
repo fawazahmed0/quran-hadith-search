@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৪৩১, আন্তর্জাতিক নাম্বারঃ ১৪৩৬ ৩৪৩১-(.../...) ইয়াহইয়া ইবনু হাবীব (রহঃ) ..... শু'বাহ (রহঃ) এর সূত্রে এ সানাদের বর্ণনায় বলেছেন, ফিরে না আসা পর্যন্ত কথার উল্লেখ আছে। (ইসলামিক ফাউন্ডেশন ৩৪০৪, ইসলামীক সেন্টার ৩৪০৩)
+ইয়াহইয়া ইবনু হাবীব (রহঃ) ..... শু'বাহ (রহঃ) এর সূত্রে এ সানাদের বর্ণনায় বলেছেন, ফিরে না আসা পর্যন্ত কথার উল্লেখ আছে। (ইসলামিক ফাউন্ডেশন ৩৪০৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3539</td></tr><tr><td>Arabic No</td><td>1436.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 141</td></tr></tbody></table></div>
 

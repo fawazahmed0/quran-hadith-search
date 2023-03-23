@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯৯, আন্তর্জাতিক নাম্বারঃ ২০৯ ৩৯৯-(৩৫৮/...) ইবনু আবূ উমর (রহঃ) ..... আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি জিজ্ঞেস করলাম, ইয়া রাসূলাল্লাহ! নিশ্চয়ই আবূ তালিব তো আপনার হিফাযাত করতেন, আপনাকে সাহায্য করতেন এবং আপনার পক্ষ হয়ে (অন্যদের প্রতি) রাগ করতেন। তার এ কর্ম তার কি কোন উপকারে এসেছে? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উত্তরে বললেনঃ হ্যাঁ। আমি তাকে জাহান্নামের গভীরে পেয়েছিলাম, অতঃপর আমি সেখান থেকে (তার পায়ের) গ্রন্থি পর্যন্ত বের করে আগুনের উপরিভাগে নিয়ে এসেছি। (ইসলামিক ফাউন্ডেশনঃ ৪০৫, ইসলামিক সেন্টারঃ ৪১৮)
+ইবনু আবূ উমর (রহঃ) ..... আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি জিজ্ঞেস করলাম, ইয়া রাসূলাল্লাহ! নিশ্চয়ই আবূ তালিব তো আপনার হিফাযাত করতেন, আপনাকে সাহায্য করতেন এবং আপনার পক্ষ হয়ে (অন্যদের প্রতি) রাগ করতেন। তার এ কর্ম তার কি কোন উপকারে এসেছে? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উত্তরে বললেনঃ হ্যাঁ। আমি তাকে জাহান্নামের গভীরে পেয়েছিলাম, অতঃপর আমি সেখান থেকে (তার পায়ের) গ্রন্থি পর্যন্ত বের করে আগুনের উপরিভাগে নিয়ে এসেছি। (ইসলামিক ফাউন্ডেশনঃ ৪০৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>511</td></tr><tr><td>Arabic No</td><td>209.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 417</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [S
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான், "அல்லாஹ்வின் தூதரே! அபூதாலிப் தங்களைப் பாதுகாப்பவராகவும், தங்களுக்கு உதவி செய்பவராகவும் இருந்தாரே! அது அவருக்குப் பயனளித்ததா?" என்று கேட்டேன். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், "ஆம்; அவரை நான் நரகத்தின் பிரதான பகுதியில் கண்டேன். உடனே அவரை அங்கிருந்து அப்புறப்படுத்தி (கணுக்கால்வரை தீண்டும்) சிறிதளவு நெருப்பிற்குக் கொண்டுவந்தேன்" என்று கூறினார்கள். அத்தியாயம் : 1
+அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான், "அல்லாஹ்வின் தூதரே! அபூதாலிப் தங்களைப் பாதுகாப்பவராகவும், தங்களுக்கு உதவி செய்பவராகவும் இருந்தாரே! அது அவருக்குப் பயனளித்ததா?" என்று கேட்டேன். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், "ஆம்; அவரை நான் நரகத்தின் பிரதான பகுதியில் கண்டேன். உடனே அவரை அங்கிருந்து அப்புறப்படுத்தி (கணுக்கால்வரை தீண்டும்) சிறிதளவு நெருப்பிற்குக் கொண்டுவந்தேன்" என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>511</td></tr><tr><td>Arabic No</td><td>209.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 417</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [S
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize İbni Ebi Ömer rivayet etti. (Dediki): Bize Süfyan, Abdulmelik b. Umeyr'den, o da Abdullah b. Haris'ten naklen rivayet etti. Demişki. Abbas'ı şunları söylerken işittim: Ey Allah'ın Resulü, şüphesiz Ebu Talib seni koruyor, sana yardım ediyordu. Bunun ona bir faydası oldu mu, dedim. Allah Resulü: "Evet, ben onu cehennemin derinliklerinde buldum, onu topuklarına kadar varan bir yere kadar çıkardım" buyurdu. Diğer tahric: Buhari, 3883, 6208, 6572 -muhtasar olarak-; Tuhfetu'l-Eşraf, 5128
+Bize İbni Ebi Ömer rivayet etti. (Dediki): Bize Süfyan, Abdulmelik b. Umeyr'den, o da Abdullah b. Haris'ten naklen rivayet etti. Demişki. Abbas'ı şunları söylerken işittim: Ey Allah'ın Resulü, şüphesiz Ebu Talib seni koruyor, sana yardım ediyordu. Bunun ona bir faydası oldu mu, dedim. Allah Resulü: "Evet, ben onu cehennemin derinliklerinde buldum, onu topuklarına kadar varan bir yere kadar çıkardım" buyurdu. Diğer tahric: Buhari, 3883, 6208, 6572 -muhtasar olarak-; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>511</td></tr><tr><td>Arabic No</td><td>209.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 417</td></tr></tbody></table></div>
 

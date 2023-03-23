@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭০৫, আন্তর্জাতিক নাম্বারঃ ১৮৫৬ ৪৭০৫-(৭১/...) সাঈদ ইবনু আমর আশ'আসী, সুওয়াইদ ইবনু সাঈদ, ইসহাক ইবনু ইবরাহীম ও আহমাদ ইবনু আবদা (রহঃ) ... জাবির (রাযিঃ) হতে বর্ণিত। তিনি বলেন, হুদাইবিয়ার দিনে আমরা (সংখ্যায়) ছিলাম চৌদ্দশ’। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে লক্ষ্য করে বললেন, আজকের দিন তোমরা গোটা দুনিয়াবাসীর মধ্যে সর্বোত্তম। জাবির (রাযিঃ) বলেন, যদি আমি দেখতে পারতাম তবে তোমাদেরকে অবশ্যই সে গাছটির জায়গা দেখিয়ে দিতাম। (ইসলামিক ফাউন্ডেশন ৪৬৫৮, ইসলামিক সেন্টার ৪৬৬০)
+সাঈদ ইবনু আমর আশ'আসী, সুওয়াইদ ইবনু সাঈদ, ইসহাক ইবনু ইবরাহীম ও আহমাদ ইবনু আবদা (রহঃ) ... জাবির (রাযিঃ) হতে বর্ণিত। তিনি বলেন, হুদাইবিয়ার দিনে আমরা (সংখ্যায়) ছিলাম চৌদ্দশ’। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে লক্ষ্য করে বললেন, আজকের দিন তোমরা গোটা দুনিয়াবাসীর মধ্যে সর্বোত্তম। জাবির (রাযিঃ) বলেন, যদি আমি দেখতে পারতাম তবে তোমাদেরকে অবশ্যই সে গাছটির জায়গা দেখিয়ে দিতাম। (ইসলামিক ফাউন্ডেশন ৪৬৫৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4811</td></tr><tr><td>Arabic No</td><td>1856.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 108</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Amru Al Asy'atsi] dan [Suwaid bin Sa'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது நாங்கள் ஹுதைபியா தினத்தன்று ஆயிரத்து நானூறு பேர் இருந்தோம். அப்போது நபி (ஸல்) அவர்கள் எங்களிடம், "பூமியிலிருப்பவர்களில் நீங்களே சிறந்தவர்கள்" என்று கூறினார்கள். இப்போது (மட்டும்) எனக்குக் கண்பார்வை தெரியுமானால் அந்த (ரிள்வான் உறுதிப்பிரமாணம் நடைபெற்ற) மரத்தின் இடத்தைக் காண்பித்திருப்பேன். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 33
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது நாங்கள் ஹுதைபியா தினத்தன்று ஆயிரத்து நானூறு பேர் இருந்தோம். அப்போது நபி (ஸல்) அவர்கள் எங்களிடம், "பூமியிலிருப்பவர்களில் நீங்களே சிறந்தவர்கள்" என்று கூறினார்கள். இப்போது (மட்டும்) எனக்குக் கண்பார்வை தெரியுமானால் அந்த (ரிள்வான் உறுதிப்பிரமாணம் நடைபெற்ற) மரத்தின் இடத்தைக் காண்பித்திருப்பேன். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4811</td></tr><tr><td>Arabic No</td><td>1856.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 108</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Amru Al Asy'atsi] dan [Suwaid bin Sa'
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Saîd b. Amr E-Eş'asî ile Süveyd b. Saîd, İshâk. îbrahîm ve Ahmed b. Abde rivayet ettiler. Lâfız Saîd'indir. (Saîd île tshâk: Bize haber verdi tâbirini kullandılar.) Ötekiler: Bize Süfyân, Anır'dan, o da Câbir'den naklen rivayet etti; dediler. Câbir şöyle demiş : Biz Hudeybiye günü bin dört yüz kişi idik. Nebi (Sallallahu Aleyhi ve Sellem) bize : «Bugün siz yer yüzü halkının en hayırlısısınız!» buyurdular. Câbir şunu da söylemiş: Gözüm görse size o ağacın yerini gösterdim. [20]
+Bize Saîd b. Amr E-Eş'asî ile Süveyd b. Saîd, İshâk. îbrahîm ve Ahmed b. Abde rivayet ettiler. Lâfız Saîd'indir. (Saîd île tshâk: Bize haber verdi tâbirini kullandılar.) Ötekiler: Bize Süfyân, Anır'dan, o da Câbir'den naklen rivayet etti; dediler. Câbir şöyle demiş : Biz Hudeybiye günü bin dört yüz kişi idik. Nebi (Sallallahu Aleyhi ve Sellem) bize : «Bugün siz yer yüzü halkının en hayırlısısınız!» buyurdular. Câbir şunu da söylemiş: Gözüm görse size o ağacın yerini gösterdim
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4811</td></tr><tr><td>Arabic No</td><td>1856.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 108</td></tr></tbody></table></div>
 

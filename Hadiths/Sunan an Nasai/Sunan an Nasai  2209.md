@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইসহাক ইবনু ইবরাহীম (রহঃ) ... আবূ সালামা (রহঃ) থেকে বর্ণিত। অতঃপর পূর্বের অনুরূপ হাদীস বর্ণনা করলেন এবং বললেন যে, যে ব্যক্তি রমযান মাসে সাওম (রোযা/রোজা/সিয়াম/ছিয়াম) পালন করে এবং তারাবীহর সালাত আদায় করে আল্লাহ তা'আলার উপর দৃঢ় বিশ্বাস রেখে এবং সওয়াবের নিয়তে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2209</td></tr><tr><td>Arabic No</td><td>2209</td></tr><tr><td>Reference</td><td>Book 22 Hadith 120</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৪৬৩, আন্তর্জাতিক নাম্বারঃ ৬৮৮ ১৪৬৩-(../...) মুহাম্মাদ ইবনু মিনহাল আয্‌ যারীর, মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... কাতাদাহ থেকে একই সানাদে অনুরূপ অর্থবোধক হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৪৪৮, ইসলামীক সেন্টার ১৪৫৭)
+মুহাম্মাদ ইবনু মিনহাল আয্‌ যারীর, মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... কাতাদাহ থেকে একই সানাদে অনুরূপ অর্থবোধক হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৪৪৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1578</td></tr><tr><td>Arabic No</td><td>688.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 9</td></tr></tbody></table></div>
 

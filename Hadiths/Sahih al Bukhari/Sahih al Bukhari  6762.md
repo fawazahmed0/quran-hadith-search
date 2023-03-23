@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, কোন কাওমের বোনের পুত্র সে কাওমেরই অন্তর্ভুক্ত। এখানে مِنْهُمْ বলেছেন অথবা مِنْ أَنْفُسِهِمْ বলেছেন। [৩১৪৬] (আধুনিক প্রকাশনী- ৬২৯৪, ইসলামিক ফাউন্ডেশন- ৬৩০৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, কোন কাওমের বোনের পুত্র সে কাওমেরই অন্তর্ভুক্ত। এখানে مِنْهُمْ বলেছেন অথবা مِنْ أَنْفُسِهِمْ বলেছেন। [৩১৪৬] (আধুনিক প্রকাশনী- ৬২৯৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6762</td></tr><tr><td>Arabic No</td><td>6762</td></tr><tr><td>Reference</td><td>Book 85 Hadith 39</td></tr></tbody></table></div>
 

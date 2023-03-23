@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬৯০। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার এক মাসের জন্য তার স্ত্রীদের সাথে ঈলা (শপথ) করেন। ঘরের মাচানের একটি কক্ষে তিনি ২৯ দিন থাকেন। লোকেরা বলল, হে রাসূলুল্লাহ! আপনি তো এক মাসের জন্য ঈলা (শপথ) করেছিলেন? তিনি বললেনঃ এই মাসটি উনত্রিশ দিনের। —সহীহ, বুখারী। আবু ঈসা এই হাদীসটিকে হাসান সহীহ বলেছেন।
+। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার এক মাসের জন্য তার স্ত্রীদের সাথে ঈলা (শপথ) করেন। ঘরের মাচানের একটি কক্ষে তিনি ২৯ দিন থাকেন। লোকেরা বলল, হে রাসূলুল্লাহ! আপনি তো এক মাসের জন্য ঈলা (শপথ) করেছিলেন? তিনি বললেনঃ এই মাসটি উনত্রিশ দিনের। —সহীহ, বুখারী। আবু ঈসা এই হাদীসটিকে হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>690</td></tr><tr><td>Reference</td><td>Book 8 Hadith 9</td></tr></tbody></table></div>
 

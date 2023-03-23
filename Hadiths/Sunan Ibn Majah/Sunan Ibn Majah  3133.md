@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩১৩৩। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, বিদায় হজ্জে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যে সকল স্ত্রী উমরা (অর্থাৎ তামাত্তো হজ্জ) করেন, তিনি তাদের সকলের পক্ষ থেকে একটি গাভী কোরবানী করেন।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, বিদায় হজ্জে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যে সকল স্ত্রী উমরা (অর্থাৎ তামাত্তো হজ্জ) করেন, তিনি তাদের সকলের পক্ষ থেকে একটি গাভী কোরবানী করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 26 Hadith 14</td></tr></tbody></table></div>
 

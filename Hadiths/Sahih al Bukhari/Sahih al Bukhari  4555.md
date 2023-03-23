@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, এরপর আবূ ত্বলহা (রাঃ) হাস্সান ইবনু সাবিত এবং উবাই ইবনু কা‘বের মধ্যে বণ্টন করে দিলেন। আমি তাঁর নিকটাত্মীয় ছিলাম। কিন্তু আমাকে তা হতে কিছুই দেননি। [১৪৬১] (আধুনিক প্রকাশনীঃ ৪১৯৪, ইসলামিক ফাউন্ডেশনঃ ৪১৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, এরপর আবূ ত্বলহা (রাঃ) হাস্সান ইবনু সাবিত এবং উবাই ইবনু কা‘বের মধ্যে বণ্টন করে দিলেন। আমি তাঁর নিকটাত্মীয় ছিলাম। কিন্তু আমাকে তা হতে কিছুই দেননি। [১৪৬১] (আধুনিক প্রকাশনীঃ ৪১৯৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4555</td></tr><tr><td>Arabic No</td><td>4555</td></tr><tr><td>Reference</td><td>Book 65 Hadith 77</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Anas:Abu Talha distributed the garden between Hassan and Ubai, but he d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஆகவே, அந்த (பைருஹா)த் தோட்டத்தை ஹஸ்ஸான் பின் ஸாபித் (ரலி) அவர்களுக்கும் உபை பின் கஅப் (ரலி) அவர்களுக்கும் (அபூதல்ஹா (ரலி) அவர்கள் தர்மமாக) வழங்கிவிட்டார்கள். ஆனால், நான்தான் (அவ்விருவரையும்விட) அவருக்கு நெருங்கிய உறவினராய் இருந்தேன். அதிலிருந்து எனக்கு அவர் சிறிதும் கொடுக்கவில்லை.12 அத்தியாயம் : 65
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஆகவே, அந்த (பைருஹா)த் தோட்டத்தை ஹஸ்ஸான் பின் ஸாபித் (ரலி) அவர்களுக்கும் உபை பின் கஅப் (ரலி) அவர்களுக்கும் (அபூதல்ஹா (ரலி) அவர்கள் தர்மமாக) வழங்கிவிட்டார்கள். ஆனால், நான்தான் (அவ்விருவரையும்விட) அவருக்கு நெருங்கிய உறவினராய் இருந்தேன். அதிலிருந்து எனக்கு அவர் சிறிதும் கொடுக்கவில்லை.12 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4555</td></tr><tr><td>Arabic No</td><td>4555</td></tr><tr><td>Reference</td><td>Book 65 Hadith 77</td></tr></tbody></table></div>
 

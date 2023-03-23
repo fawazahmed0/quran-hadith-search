@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুবায়র (রাঃ) হতে বর্ণিত। তিনি বলেছেন, বদরের দিন মুহাজিরদেরকে গানীমাতের একশ’ অংশ দেয়া হয়েছিল। (আধুনিক প্রকাশনীঃ ৩৭২৭, ইসলামিক ফাউন্ডেশনঃ ৩৭৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যুবায়র (রাঃ) হতে বর্ণিত। তিনি বলেছেন, বদরের দিন মুহাজিরদেরকে গানীমাতের একশ’ অংশ দেয়া হয়েছিল। (আধুনিক প্রকাশনীঃ ৩৭২৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4027</td></tr><tr><td>Arabic No</td><td>4027</td></tr><tr><td>Reference</td><td>Book 64 Hadith 76</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Az-Zubair:On the day of Badr, (Quraishi) Emigrants received 100 shares 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸுபைர் பின் அல்அவ்வாம் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போரின்போது முஹாஜிர்களுக்கு (போர்ச் செல்வத்திலிருந்து) நூறு பங்குகள் ஒதுக்கப்பட்டன. இதை உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள்.68 அத்தியாயம் : 64
+ஸுபைர் பின் அல்அவ்வாம் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போரின்போது முஹாஜிர்களுக்கு (போர்ச் செல்வத்திலிருந்து) நூறு பங்குகள் ஒதுக்கப்பட்டன. இதை உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள்.68 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4027</td></tr><tr><td>Arabic No</td><td>4027</td></tr><tr><td>Reference</td><td>Book 64 Hadith 76</td></tr></tbody></table></div>
 

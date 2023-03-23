@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ আস্সা‘য়িদী (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘জান্নাতে চাবুক পরিমাণ সামান্য জায়গাও দুনিয়া এবং এর মধ্যে যা আছে তার থেকে উত্তম।’ (২৭৯৪) (আধুনিক প্রকাশনীঃ ৩০১০, ইসলামিক ফাউন্ডেশনঃ ৩০২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ আস্সা‘য়িদী (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘জান্নাতে চাবুক পরিমাণ সামান্য জায়গাও দুনিয়া এবং এর মধ্যে যা আছে তার থেকে উত্তম।’ (২৭৯৪) (আধুনিক প্রকাশনীঃ ৩০১০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3250</td></tr><tr><td>Arabic No</td><td>3250</td></tr><tr><td>Reference</td><td>Book 59 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Sahl bin Sa'd Al-Saidi:Allah's Messenger (ﷺ) said, "A place in Paradi
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கத்தில் ஒரு சாட்டை வைக்கும் அளவுக்கு இடம் (கிடைப்பதானது) உலகத்தையும் அதிலிருப்பவற்றையும் விடச் சிறந்ததாகும்.55 இதை சஹ்ல் பின் சஅத் அஸ்ஸாஇதீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கத்தில் ஒரு சாட்டை வைக்கும் அளவுக்கு இடம் (கிடைப்பதானது) உலகத்தையும் அதிலிருப்பவற்றையும் விடச் சிறந்ததாகும்.55 இதை சஹ்ல் பின் சஅத் அஸ்ஸாஇதீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3250</td></tr><tr><td>Arabic No</td><td>3250</td></tr><tr><td>Reference</td><td>Book 59 Hadith 61</td></tr></tbody></table></div>
 

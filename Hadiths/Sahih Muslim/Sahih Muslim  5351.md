@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫২৪৬, আন্তর্জাতিক নাম্বারঃ ২০৫১ ৫২৪৬-(১৬৫/...) মূসা ইবনু কুরায়শ ইবনু নাফি তামীমী (রহঃ) ..... সুলাইমান ইবনু বিলাল (রহঃ) হতে উল্লেখিত সূত্রে হাদীসটি বর্ণিত রয়েছে। তবে তিনি نِعْمَ الأُدُمُ বলেছেন نِعْمَ الأُدُمُ أَوِ الإِدَامُ বলে শব্দের মাঝে কোন সংশয় প্রকাশ করেননি। (ইসলামিক ফাউন্ডেশন ৫১৭৮, ইসলামিক সেন্টার ৫১৯০)
+মূসা ইবনু কুরায়শ ইবনু নাফি তামীমী (রহঃ) ..... সুলাইমান ইবনু বিলাল (রহঃ) হতে উল্লেখিত সূত্রে হাদীসটি বর্ণিত রয়েছে। তবে তিনি نِعْمَ الأُدُمُ বলেছেন نِعْمَ الأُدُمُ أَوِ الإِدَامُ বলে শব্দের মাঝে কোন সংশয় প্রকাশ করেননি। (ইসলামিক ফাউন্ডেশন ৫১৭৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5351</td></tr><tr><td>Arabic No</td><td>2051.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 225</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi], telah mengabar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் ஆயிஷா (ரலி) அவர்களிடமிருந்தே மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில் "குழம்புகளில் அருமையானது" என ஐயப்பாடின்றி அறிவிக்கப்பட்டுள்ளது. அத்தியாயம் : 36
+மேற்கண்ட ஹதீஸ் ஆயிஷா (ரலி) அவர்களிடமிருந்தே மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில் "குழம்புகளில் அருமையானது" என ஐயப்பாடின்றி அறிவிக்கப்பட்டுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5351</td></tr><tr><td>Arabic No</td><td>2051.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 225</td></tr></tbody></table></div>
 

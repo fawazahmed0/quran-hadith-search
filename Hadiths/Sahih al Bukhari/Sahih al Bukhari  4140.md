@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ আনসারী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে আনমার যুদ্ধে সাওয়ারীতে আরোহণ করে মাশরিকের দিকে মুখ করে নফল সালাত আদায় করতে দেখেছি। [৪০০] (আধুনিক প্রকাশনীঃ ৩৮২৮, ইসলামিক ফাউন্ডেশনঃ ৩৮৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ আনসারী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে আনমার যুদ্ধে সাওয়ারীতে আরোহণ করে মাশরিকের দিকে মুখ করে নফল সালাত আদায় করতে দেখেছি। [৪০০] (আধুনিক প্রকাশনীঃ ৩৮২৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4140</td></tr><tr><td>Arabic No</td><td>4140</td></tr><tr><td>Reference</td><td>Book 64 Hadith 184</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Ibnu Abu D
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் அல் அன்சாரி (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “அன்மார்' போரின்போது தமது வாகனத்தின் மீதமர்ந்தவாறு கிழக்குத் திசையை நோக்கி கூடுதலானத் தொழுகையைத் தொழுவதை நான் பார்த்தேன்.214 அத்தியாயம் : 64
+ஜாபிர் பின் அப்தில்லாஹ் அல் அன்சாரி (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “அன்மார்' போரின்போது தமது வாகனத்தின் மீதமர்ந்தவாறு கிழக்குத் திசையை நோக்கி கூடுதலானத் தொழுகையைத் தொழுவதை நான் பார்த்தேன்.214 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4140</td></tr><tr><td>Arabic No</td><td>4140</td></tr><tr><td>Reference</td><td>Book 64 Hadith 184</td></tr></tbody></table></div>
 

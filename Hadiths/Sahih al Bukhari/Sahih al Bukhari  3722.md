@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ‘উসমান (রহ.) হতে বর্ণিত। তিনি বলেন, যে সব যুদ্ধে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বয়ং যোগদান করেছিলেন, তন্মধ্যে এক যুদ্ধে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে কোন এক সময় ত্বলহা ও সা‘দ (রাঃ) ছাড়া অন্য কেউ ছিলেন না। আবূ ‘উসমান (রাঃ) তাঁদের উভয় হতে এ হাদীস বর্ণনা করেছেন। (৩৭২২=৪০৬০, ৩৭২৩=৪০৬১, মুসলিম ৪৪/৬ হাঃ ২৪১৪) (আধুনিক প্রকাশনীঃ ৩৪৪৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3722</td></tr><tr><td>Arabic No</td><td>3722</td></tr><tr><td>Reference</td><td>Book 62 Hadith 70</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Muhammad bin Abu Bakr Al Muqaddamiy] telah bercerita k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-தல்ஹா (ரலி) அவர்களும் சஅத் (ரலி) அவர்களும் கூறிய தாவது: நபி (ஸல்) அவர்கள் (இணைவைப் பாளர்களுடன்) போரிட்ட அந்த (உஹுத் போரின்) நாட்களில் அவர்களுடன் எங்கள் இருவரையும் தவிர வேறெவரும் இருக்கவில்லை.100 இதை, அறிவிப்பாளர் அபூஉஸ்மான் அப்துர் ரஹ்மான் அந்நஹ்தீ (ரஹ்) அவர்கள் தல்ஹா (ரலி) மற்றும் சஅத் (ரலி) ஆகிய இருவரிடமே நேரடியாகக் கேட்டு அறிவிக்கிறார்கள். அத்தியாயம் : 62
+தல்ஹா (ரலி) அவர்களும் சஅத் (ரலி) அவர்களும் கூறிய தாவது: நபி (ஸல்) அவர்கள் (இணைவைப் பாளர்களுடன்) போரிட்ட அந்த (உஹுத் போரின்) நாட்களில் அவர்களுடன் எங்கள் இருவரையும் தவிர வேறெவரும் இருக்கவில்லை.100 இதை, அறிவிப்பாளர் அபூஉஸ்மான் அப்துர் ரஹ்மான் அந்நஹ்தீ (ரஹ்) அவர்கள் தல்ஹா (ரலி) மற்றும் சஅத் (ரலி) ஆகிய இருவரிடமே நேரடியாகக் கேட்டு அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3722</td></tr><tr><td>Arabic No</td><td>3722</td></tr><tr><td>Reference</td><td>Book 62 Hadith 70</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, তিনি তাদের কাছে বর্ণনা করেছেন, মদ হারাম করা হয়েছে। আর সেকালে মদ তৈরী হত কাঁচা ও পাকা খেজুর থেকে। [২৪৬৪] (আধুনিক প্রকাশনী- ৫১৭৫, ইসলামিক ফাউন্ডেশন- ৫০৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, তিনি তাদের কাছে বর্ণনা করেছেন, মদ হারাম করা হয়েছে। আর সেকালে মদ তৈরী হত কাঁচা ও পাকা খেজুর থেকে। [২৪৬৪] (আধুনিক প্রকাশনী- ৫১৭৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5584</td></tr><tr><td>Arabic No</td><td>5584</td></tr><tr><td>Reference</td><td>Book 74 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] telah mencer
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அன்றைய தினம் நன்கு கனியாத நிறம் மாறிய பேரீச்சங்காயிலிருந்தும் பேரீச்சம்பழத்திலிருந்தும் தயாரிக்கப்பட்டதுதான் மதுபானமாகும் என்றிருந்த நிலையில் மது தடை செய்யப்பட்டது. அத்தியாயம் : 74
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அன்றைய தினம் நன்கு கனியாத நிறம் மாறிய பேரீச்சங்காயிலிருந்தும் பேரீச்சம்பழத்திலிருந்தும் தயாரிக்கப்பட்டதுதான் மதுபானமாகும் என்றிருந்த நிலையில் மது தடை செய்யப்பட்டது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5584</td></tr><tr><td>Arabic No</td><td>5584</td></tr><tr><td>Reference</td><td>Book 74 Hadith 10</td></tr></tbody></table></div>
 

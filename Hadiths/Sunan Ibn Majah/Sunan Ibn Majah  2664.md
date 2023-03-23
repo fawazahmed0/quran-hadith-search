@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৬৬৪। ‘আলী (রাঃ) থেকে এবং ‘আমর ইবনে শু‘আইব (রাঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। তারা বলেন, এক ব্যক্তি তার ক্রীতদাসকে ইচ্ছাকৃতভাবে হত্যা করলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে এক শত বেত্রাঘাত করেন, এক বছরের নির্বাসন দেন এবং মুসলিমদের (জায়গীর, ভাতা ইত্যাদি) প্রাপ্য অংশের মধ্য থেকে তার অংশ বিলোপ করেন।
+। ‘আলী (রাঃ) থেকে এবং ‘আমর ইবনে শু‘আইব (রাঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। তারা বলেন, এক ব্যক্তি তার ক্রীতদাসকে ইচ্ছাকৃতভাবে হত্যা করলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে এক শত বেত্রাঘাত করেন, এক বছরের নির্বাসন দেন এবং মুসলিমদের (জায়গীর, ভাতা ইত্যাদি) প্রাপ্য অংশের মধ্য থেকে তার অংশ বিলোপ করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2664</td></tr><tr><td>Arabic No</td><td>2664</td></tr><tr><td>Reference</td><td>Book 21 Hadith 50</td></tr></tbody></table></div>
 

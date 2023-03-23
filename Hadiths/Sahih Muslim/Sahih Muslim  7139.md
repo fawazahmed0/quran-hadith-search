@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭০৩১, আন্তর্জাতিক নাম্বারঃ ২৮২৮ ৭০৩১-(.../২৮২৮) বর্ণনাকারী আবু হাযিম (রহঃ) বলেন, নুমান ইবনু আবূ ‘আইয়্যাশ যুরাকীর কাছে এ হাদীস আমি বর্ণনা করার পর তিনি বললেন, আমাকে আবু সাঈদ আল খুদরী (রাযিঃ) বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জান্নাতের মাঝে এমন একটি গাছ রয়েছে, যা দ্রুতগামী শক্তিশালী অশ্বারোহী একশ’ বছর পর্যন্ত চলার পরও তা সে অতিক্রম করতে পারবে না। (ইসলামিক ফাউন্ডেশন ৬৮৭৭, ইসলামিক সেন্টার ৬৯৩৪)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7139</td></tr><tr><td>Arabic No</td><td>2828</td></tr><tr><td>Reference</td><td>Book 53 Hadith 9</td></tr></tbody></table></div>
 

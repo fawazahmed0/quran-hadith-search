@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বকর ইবন আবূ শায়বা (রহঃ) ..... আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আমাদের ছোটদের স্নেহ করে না এবং বড়দের হক আদায় করে না, অর্থাৎ সম্মান করে না, সে আমাদের হক আদায় করে না, অর্থাৎ সম্মান করে না সে আমাদের দলভুক্ত নয়।
+। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আমাদের ছোটদেরকে স্নেহ করে না এবং আমাদের বড়দেরকে সম্মান করে না সে আমাদের অন্তর্ভুক্ত নয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4943</td></tr><tr><td>Arabic No</td><td>4943</td></tr><tr><td>Reference</td><td>Book 43 Hadith 171</td></tr></tbody></table></div>
 

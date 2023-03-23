@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইব্‌নু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিয়ে দু’রাক‘আত সালাত আদায় করলেন, তারপর চলে গেলেন। (৩৮০) (আধুনিক প্রকাশনীঃ ১০৯০, ইসলামিক ফাউন্ডেশনঃ ১০৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইব্‌নু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিয়ে দু’রাক‘আত সালাত আদায় করলেন, তারপর চলে গেলেন। (৩৮০) (আধুনিক প্রকাশনীঃ ১০৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1168</td></tr><tr><td>Arabic No</td><td>1168</td></tr><tr><td>Reference</td><td>Book 19 Hadith 47</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (எங்கள் வீட்டில்) எங்களுக்கு இரண்டு ரக்அத்கள் தொழு வித்துவிட்டுத் திரும்பிச் சென்றார்கள்.23 அத்தியாயம் : 19
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (எங்கள் வீட்டில்) எங்களுக்கு இரண்டு ரக்அத்கள் தொழு வித்துவிட்டுத் திரும்பிச் சென்றார்கள்.23 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1168</td></tr><tr><td>Arabic No</td><td>1168</td></tr><tr><td>Reference</td><td>Book 19 Hadith 47</td></tr></tbody></table></div>
 

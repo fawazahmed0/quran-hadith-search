@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন মুহাম্মাদ এবং মুহাম্মাদ ইবনুল আলা (রহঃ) ..... ইবন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের সাথে নামায আদায়কালে (ভুলবশত চার রাকাতের স্থলে) দুই রাকাত আদায় করে সালাম ফিরান। অতঃপর রাবী আবু উসামা আবু হুরায়রা (রাঃ) হতে বর্ণিত হাদীছের অনুরূপ বর্ণনা প্রসংগে বলেনঃ অতঃপর তিনি ফিরিয়ে ভুলের জন্য সিজদায়ে সাহূ আদায় করেন। (ইবন মাজা)
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে নিয়ে (চার রাক‘আত বিশিষ্ট ফারয) সালাত আদায় করতে গিয়ে (ভুল বশতঃ) দু’ রাক‘আত আদায় করেই সালাম ফিরালেন। অতঃপর আবূ হুরাইরাহ (রাঃ) সূত্রে ইবনু সীরীন বর্ণিত হাদীসের অনুরূপ বর্ণনা করেন। এতে রয়েছেঃ অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাম ফিরালেন এবং দুটি সাহু সিজদা্ করলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>1017</td></tr><tr><td>Reference</td><td>Book 2 Hadith 628</td></tr></tbody></table></div>
 

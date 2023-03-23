@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইব্‌ন আলী (রহঃ) .... আবূ মূসা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি যখন ইয়ামনের শাসনকর্তা, তখন মু’আয (রাঃ) আমার নিকট আসেন। এ সময় একজন ইয়াহূদী মুসলিম হয়ে, পরে ইসলাম পরিত্যাগ করে। সে সময় মু’আয (রাঃ) সেখানে উপস্থিত হয়ে বলেনঃ যতক্ষণ না এ ব্যক্তিকে হত্যা করা হয়, ততক্ষণ আমি আমার বাহন থেকে অবতরণ করবো না। পরে তাকে হত্যা করা হয়। এই দুই জনের একজন বলেনঃ হত্যার পূর্বে তাকে তাওবা করার জন্য অনুরোধ করা হয়।
+। আূ মূসা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি ইয়ামেনে অবস্থানকালে মু‘আয (রাঃ) আমার নিকট আসলেন। একটি লোক ইয়াহুদী ছিলো, সে মুসলিম হয়ে আবার ইসলাম ত্যাগ করে মুরতাদ হয়ে যায়। মু‘আয (রাঃ) এসে বলেন, একে হত্যা না করা পর্যন্ত আমি আমার জন্তুযান থেকে নামবো না। অতঃপর তাকে হত্যা করা হলো। তালহা ও বুরাইদাহ উভয়ের একজন বলেন, হত্যা করার পূর্বে তাকে ইসলামে ফিরে আসার আহবান জানানো হয়েছিল।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4355</td></tr><tr><td>Arabic No</td><td>4355</td></tr><tr><td>Reference</td><td>Book 40 Hadith 5</td></tr></tbody></table></div>
 

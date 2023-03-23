@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯২৩, আন্তর্জাতিক নাম্বারঃ ২৩১৮ ৫৯২৩-(.../...) আবদ ইবনু হুমায়দ ..... আবূ হুরাইরাহ্ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮২২, ইসলামিক সেন্টার ৫৮৫৭)
+আবদ ইবনু হুমায়দ ..... আবূ হুরাইরাহ্ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮২২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6029</td></tr><tr><td>Arabic No</td><td>2318.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 87</td></tr></tbody></table></div>
 

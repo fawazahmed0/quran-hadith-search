@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০৫১। আবূ ইসহাক (রহঃ) হতে বর্ণিত, তিনি বলেন, আল-বারাআ ইবনু আযিব (রাযিঃ) বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বেশ কিছু সাহাবী শরাব নিষিদ্ধ হওয়ার পূর্বে মদ্যপানে অভ্যস্ত অবস্থায় মারা যান। শরাব হারাম হওয়া সম্পর্কিত আয়াত অবতীর্ণ হলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথীদের কেউ কেউ বলেন, আমাদের ঐসব সার্থীদের কি হবে, যারা শরাব পানে অভ্যস্ত থাকাকালে মারা গেছেন! তখন এ আয়াত অবতীর্ণ হয় (অনুবাদ) “যারা ঈমান এনেছে ও নেক কাজ করেছে তারা পূর্বে যা ভক্ষণ করেছে, সেজন্য তাদের কোন গুনাহ নেই.....”— (সূরা আল-মায়িদাহ ৯৩)। সনদ সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ ইসহাক (রহঃ) হতে বর্ণিত, তিনি বলেন, আল-বারাআ ইবনু আযিব (রাযিঃ) বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বেশ কিছু সাহাবী শরাব নিষিদ্ধ হওয়ার পূর্বে মদ্যপানে অভ্যস্ত অবস্থায় মারা যান। শরাব হারাম হওয়া সম্পর্কিত আয়াত অবতীর্ণ হলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথীদের কেউ কেউ বলেন, আমাদের ঐসব সার্থীদের কি হবে, যারা শরাব পানে অভ্যস্ত থাকাকালে মারা গেছেন! তখন এ আয়াত অবতীর্ণ হয় (অনুবাদ) “যারা ঈমান এনেছে ও নেক কাজ করেছে তারা পূর্বে যা ভক্ষণ করেছে, সেজন্য তাদের কোন গুনাহ নেই.....”— (সূরা আল-মায়িদাহ ৯৩)। সনদ সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3051</td></tr><tr><td>Arabic No</td><td>3051</td></tr><tr><td>Reference</td><td>Book 47 Hadith 103</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara bin 'Azib:"Some people among the Companions of the Prophet (ﷺ) died while they had been drinking Khamr. So when it was revealed that it was unlawful, some people among the Companions of the Messenger of Allah (ﷺ) said: 'How about our companions who died while they were drinking it?' So (the following) Ayah was revealed: Those who believe and do righteous good deeds, there is no sin on them for what they ate (5:93)
+Narrated Al-Bara bin 'Azib:"Some people among the Companions of the Prophet (ﷺ) died while they had been drinking Khamr. So when it was revealed that it was unlawful, some people among the Companions of the Messenger of Allah (ﷺ) said: 'How about our companions who died while they were drinking it?' So (the following) Ayah was revealed: Those who believe and do righteous good deeds, there is no sin on them for what they ate (5:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3051</td></tr><tr><td>Arabic No</td><td>3051</td></tr><tr><td>Reference</td><td>Book 47 Hadith 103</td></tr></tbody></table></div>
 

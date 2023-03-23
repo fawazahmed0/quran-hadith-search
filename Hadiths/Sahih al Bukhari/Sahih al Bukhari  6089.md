@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+একদিন আমি অভিযোগ করে বললামঃ আমি ঘোড়ার পিঠে চেপে বসে আঁকড়ে ধরে থাকতে পারি না। তখন তিনি আমার বুকে হাত রেখে দু‘আ করলেন। হে আল্লাহ! তাকে দৃঢ়চিত্ত করুন এবং তাকে সঠিক পথের সন্ধানদাতা ও সৎপথপ্রাপ্ত বানিয়ে দিন। [৩০৩৫] (আধুনিক প্রকাশনী- ৫৬৫১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6089</td></tr><tr><td>Arabic No</td><td>6089</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

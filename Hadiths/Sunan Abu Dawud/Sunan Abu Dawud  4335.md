@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইব্‌ন জাররাহ্‌ (রহঃ) .... ইব্‌রাহীম থেকে বর্ণিত। তিনি বলেনঃ উবায়দা সালমানী (রাঃ) উপরোক্ত হাদীছরে অনুরূপ হাদীছ বর্ণনা করেছেন। তিনি বলেনঃ আমি সালমানী (রাঃ) কে জিজ্ঞাসা করিঃ আপনি কি মনে করেন, মুখতার দাজ্জালের অন্তর্ভুক্ত। তিনি বলেনঃ সে তো তাদের নেতা
+। ইবরাহীম আন নাখঈ (রহঃ) সূত্রে বর্ণিত। তিনি আবীদাহ আস-সালমানীর সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণনা করেন। আমি আবীদাহ আস-সালমানীকে বললাম, আপনি কি মনে করেন যে, সে ওদের অর্থাৎ আল মুখতার অন্তর্ভুক্ত? আবীদাহ বলেন, সে নেতৃস্থানীয় দাজ্জালদের অন্তর্ভুক্ত।[1] দুর্বল মাকতূ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4335</td></tr><tr><td>Arabic No</td><td>4335</td></tr><tr><td>Reference</td><td>Book 39 Hadith 45</td></tr></tbody></table></div>
 

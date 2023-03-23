@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) ও মু‘আবিয়া (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি একটি কাঁচি দিয়ে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর চুল ছোট ছোট করে দিয়েছিলাম। (মুসলিম ১৫/৩৩, হাঃ ১২৪৬) (আধুনিক প্রকাশনীঃ ১৬১২. ইসলামিক ফাউন্ডেশনঃ ১৬১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) ও মু‘আবিয়া (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি একটি কাঁচি দিয়ে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর চুল ছোট ছোট করে দিয়েছিলাম। (মুসলিম ১৫/৩৩, হাঃ ১২৪৬) (আধুনিক প্রকাশনীঃ ১৬১২. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1730</td></tr><tr><td>Arabic No</td><td>1730</td></tr><tr><td>Reference</td><td>Book 25 Hadith 208</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Al Hasan bi
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஆவியா (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் முடியை (மர்வாவில் வைத்து) கத்தரிக் கோலால் (கத்தரித்துக்) குறைத்தேன்.62 அத்தியாயம் : 25
+முஆவியா (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் முடியை (மர்வாவில் வைத்து) கத்தரிக் கோலால் (கத்தரித்துக்) குறைத்தேன்.62 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1730</td></tr><tr><td>Arabic No</td><td>1730</td></tr><tr><td>Reference</td><td>Book 25 Hadith 208</td></tr></tbody></table></div>
 

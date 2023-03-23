@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মুল মু’মিনীন ‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহ তা‘আলা মুকীম অবস্থায় ও সফরে দু’ রাক‘আত করে সালাত ফরজ করেছিলেন। পরে সফরের সালাত আগের মত রাখা হয় আর মুকীম অবস্থার সালাত বাড়িয়ে দেয়া হয়। (১০৯০, ৩৯৩৫; মুসলিম ৬/১, হাঃ ৬৮৫) (আধুনিক প্রকাশনীঃ ৩৩৭, ইসলামিক ফাউন্ডেশনঃ ৩৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মুল মু’মিনীন ‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহ তা‘আলা মুকীম অবস্থায় ও সফরে দু’ রাক‘আত করে সালাত ফরজ করেছিলেন। পরে সফরের সালাত আগের মত রাখা হয় আর মুকীম অবস্থার সালাত বাড়িয়ে দেয়া হয়। (১০৯০, ৩৯৩৫; মুসলিম ৬/১, হাঃ ৬৮৫) (আধুনিক প্রকাশনীঃ ৩৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>350</td></tr><tr><td>Arabic No</td><td>350</td></tr><tr><td>Reference</td><td>Book 8 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (மிஅராஜ் இரவில்) அல்லாஹ் தொழுகையைக் கடமையாக்கியபோது, சொந்த ஊரில் இருந்தாலும் பயணத்தில் இருந்தாலும் இரண்டு இரண்டு ரக்அத்களாகவே கடமையாக்கினான். பின்னர் பயணத் தொழுகை அவ்வாறே (இரண்டு இரண்டு ரக்அத்களாகவே) நீடித்தது; சொந்த ஊரில் தொழும் தொழுகையில் (லுஹ்ர், அஸ்ர், இஷா ஆகியவற்றில்) தலா இரண்டு ரக்அத்கள் கூடுதலாக்கப்பட்டது.5 அத்தியாயம் : 8
+இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (மிஅராஜ் இரவில்) அல்லாஹ் தொழுகையைக் கடமையாக்கியபோது, சொந்த ஊரில் இருந்தாலும் பயணத்தில் இருந்தாலும் இரண்டு இரண்டு ரக்அத்களாகவே கடமையாக்கினான். பின்னர் பயணத் தொழுகை அவ்வாறே (இரண்டு இரண்டு ரக்அத்களாகவே) நீடித்தது; சொந்த ஊரில் தொழும் தொழுகையில் (லுஹ்ர், அஸ்ர், இஷா ஆகியவற்றில்) தலா இரண்டு ரக்அத்கள் கூடுதலாக்கப்பட்டது.5 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>350</td></tr><tr><td>Arabic No</td><td>350</td></tr><tr><td>Reference</td><td>Book 8 Hadith 2</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Mu'minlerin annesi Aişe (r.anha)'den şöyle nakledilmiştir: "Allah Teâlâ, hem ikamet halinde hem de seferîlikte, namazı ikişer rekat olarak farz kıldı. Seferilikteki hali aynen korundu, ancak ikamet halinde kılınan namaza ilave yapıldı. Tekrar: 1090, 3935
+Mu'minlerin annesi Aişe (r.anha)'den şöyle nakledilmiştir: "Allah Teâlâ, hem ikamet halinde hem de seferîlikte, namazı ikişer rekat olarak farz kıldı. Seferilikteki hali aynen korundu, ancak ikamet halinde kılınan namaza ilave yapıldı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>350</td></tr><tr><td>Arabic No</td><td>350</td></tr><tr><td>Reference</td><td>Book 8 Hadith 2</td></tr></tbody></table></div>
 

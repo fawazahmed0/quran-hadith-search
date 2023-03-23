@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, (নবী তনয়) ইব্রাহীম (রাঃ)-এর মৃত্যু হলে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তাঁর জন্য তো জান্নাতে একজন দুধ-মা রয়েছেন। (২৩৫৫, ৬১৯০) (আধুনিক প্রকাশনীঃ ১২৯১, ইসলামিক ফাউন্ডেশনঃ ১২৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, (নবী তনয়) ইব্রাহীম (রাঃ)-এর মৃত্যু হলে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তাঁর জন্য তো জান্নাতে একজন দুধ-মা রয়েছেন। (২৩৫৫, ৬১৯০) (আধুনিক প্রকাশনীঃ ১২৯১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1382</td></tr><tr><td>Arabic No</td><td>1382</td></tr><tr><td>Reference</td><td>Book 23 Hadith 134</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Sy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் புதல்வர்) இப்ராஹீம் (ரலி) இறந்தபோது நபி (ஸல்) அவர்கள், “இவருக்குச் சொர்க்கத்தில் பாலூட்டும் அன்னை உண்டு” எனக் கூறினார்கள். அத்தியாயம் : 23
+பராஉ (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் புதல்வர்) இப்ராஹீம் (ரலி) இறந்தபோது நபி (ஸல்) அவர்கள், “இவருக்குச் சொர்க்கத்தில் பாலூட்டும் அன்னை உண்டு” எனக் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1382</td></tr><tr><td>Arabic No</td><td>1382</td></tr><tr><td>Reference</td><td>Book 23 Hadith 134</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Sy
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bera' r.a. şöyle demiştir: (Nebi (s.a.v.)'in oğlu) İbrahim (a.s.) vefat ettiğinde Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Cennette onun süt annesi var. Tekrar: 3255, 6195
+Bera' r.a. şöyle demiştir: (Nebi (s.a.v.)'in oğlu) İbrahim (a.s.) vefat ettiğinde Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Cennette onun süt annesi var. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1382</td></tr><tr><td>Arabic No</td><td>1382</td></tr><tr><td>Reference</td><td>Book 23 Hadith 134</td></tr></tbody></table></div>
 

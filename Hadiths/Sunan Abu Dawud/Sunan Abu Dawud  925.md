@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াযিদ ইবনে খালিদ (রহঃ) .... সুহাইব (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমতে হাজির হয়ে তাঁকে নামাযরত অবস্থায় দেখতে পাই সালাম দেই। এ সময় তিনি আঙ্গুলের ইশারায় এর জবাব দেন। (নাসাঈ, তিরমিযী)।
+। সুহাইব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সালাতরত অবস্থায় আমি তাঁর পাশ দিয়ে যাওয়ার সময় তাঁকে সালাম করলে তিনি হাতের ইশারায় সালামের জবাব দেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>925</td></tr><tr><td>Arabic No</td><td>925</td></tr><tr><td>Reference</td><td>Book 2 Hadith 536</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২৫৪৬। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি তার মুসলিম ভাইয়ের গোপন (অপরাধের) বিষয় গোপন রাখবে, আল্লাহ কিয়ামতের দিন তার গুপ্ত (অপরাধের) বিষয় গোপন রাখবেন। আর যে ব্যক্তি তার মুসলিম ভাইয়ের গোপন বিষয় ফাঁস করে দিবে, আল্লাহ তার গোপন বিষয় ফাঁস করে দিবেন, এমনকি এই কারণে তাকে তার ঘরে পর্যন্ত অপদস্থ করবেন।
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি তার মুসলিম ভাইয়ের গোপন (অপরাধের) বিষয় গোপন রাখবে, আল্লাহ কিয়ামতের দিন তার গুপ্ত (অপরাধের) বিষয় গোপন রাখবেন। আর যে ব্যক্তি তার মুসলিম ভাইয়ের গোপন বিষয় ফাঁস করে দিবে, আল্লাহ তার গোপন বিষয় ফাঁস করে দিবেন, এমনকি এই কারণে তাকে তার ঘরে পর্যন্ত অপদস্থ করবেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2546</td></tr><tr><td>Arabic No</td><td>2546</td></tr><tr><td>Reference</td><td>Book 20 Hadith 14</td></tr></tbody></table></div>
 

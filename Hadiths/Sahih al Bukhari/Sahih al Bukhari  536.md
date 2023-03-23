@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 জাহান্নাম তার প্রতিপালকের নিকট এ বলে নালিশ করেছিলো, হে আমার প্রতিপালক! (দহনের প্রচন্ডতায়) আমার এক অংশ আর এক অংশকে গ্রাস করে ফেলেছে। ফলে আল্লাহ্ তা‘আলা তাকে দু’টি শ্বাস ফেলার অনুমতি দিলেন, একটি শীতকালে আর একটি গ্রীষ্মকালে। আর সে দু’টি হলো, তোমরা গ্রীষ্মকালে যে প্রচন্ড উত্তাপ এবং শীতকালে যে প্রচন্ড ঠান্ডা অনুভব কর তাই। (৩২৬০; মুসলিম ৫/৩২, হাঃ ৬১৫, ৬১৭, আহমাদ ৭২৫১) (আধুনিক প্রকাশনীঃ ৫০৪ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৫১০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>536</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah Al Mutsanna] berkata, telah m
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Hava aşırı derecede sıcak olduğu zaman, namaz'ı serin bir vakte te'hir edin. Çünkü havanın aşırı derecede sıcak olması, cehennem'in kaynamasından / sıcağının artmasından ileri gelir." [-537-] "Cehennem Rabbine Ya Rabbi! Bir kısmım bir kısmımı yedi diye şikayette butundu. Bunun üzerine Allah Teâlâ ona, biri kışın diğeri yazın olmak üzere iki nefes alması için müsaade etti. İşte bu nefesler, yazın hissettiğinizden daha sıcak ve kışın yaşadığınız zemheriden daha soğuktur. Tekrar: 3260
+Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Hava aşırı derecede sıcak olduğu zaman, namaz'ı serin bir vakte te'hir edin. Çünkü havanın aşırı derecede sıcak olması, cehennem'in kaynamasından / sıcağının artmasından ileri gelir." [-537-] "Cehennem Rabbine Ya Rabbi! Bir kısmım bir kısmımı yedi diye şikayette butundu. Bunun üzerine Allah Teâlâ ona, biri kışın diğeri yazın olmak üzere iki nefes alması için müsaade etti. İşte bu nefesler, yazın hissettiğinizden daha sıcak ve kışın yaşadığınız zemheriden daha soğuktur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>536</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

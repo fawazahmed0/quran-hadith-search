@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Nafi'], bahwa ketika dalam perjalan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nâfi anlatıyor: Abdullah b. Ömer, Mina'da iken imama uyduğu zaman namazları dört rekât, tek başına kıldığı zaman ise iki rekât olarak kılardı. Şeybanî, 199
+Nâfi anlatıyor: Abdullah b. Ömer, Mina'da iken imama uyduğu zaman namazları dört rekât, tek başına kıldığı zaman ise iki rekât olarak kılardı. Şeybanî
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>184</td></tr><tr><td>Arabic No</td><td>184</td></tr><tr><td>Reference</td><td>Book 3 Hadith 17</td></tr></tbody></table></div>
 

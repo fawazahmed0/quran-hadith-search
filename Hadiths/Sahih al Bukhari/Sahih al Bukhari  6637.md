@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আবুল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যাঁর হাতে মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর প্রাণ ঐ সত্তার কসম! আমি যা জানি তোমরা যদি তা জানতে, তাহলে তোমরা অবশ্যই কাঁদতে বেশি আর হাসতে কম। [৬৪৮৫] (আধুনিক প্রকাশনী- ৬১৭৪, ইসলামিক ফাউন্ডেশন- ৬১৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আবুল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যাঁর হাতে মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর প্রাণ ঐ সত্তার কসম! আমি যা জানি তোমরা যদি তা জানতে, তাহলে তোমরা অবশ্যই কাঁদতে বেশি আর হাসতে কম। [৬৪৮৫] (আধুনিক প্রকাশনী- ৬১৭৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6637</td></tr><tr><td>Arabic No</td><td>6637</td></tr><tr><td>Reference</td><td>Book 83 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ibrahim bin Musa] telah memberitakan kepada kami [H
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபுல்காசிம் (முஹம்மத் -ஸல்) அவர்கள் கூறினார்கள்: முஹம்மதின் உயிர் எவன் கையிலுள்ளதோ அவன்மீது சத்தியமாக! நான் அறிவதையெல்லாம் நீங்கள் அறிவீர்களாயின் நிச்சயம் அதிகமாக அழுவீர்கள்; குறைவாகவே சிரிப்பீர்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.21 அத்தியாயம் : 83
+அபுல்காசிம் (முஹம்மத் -ஸல்) அவர்கள் கூறினார்கள்: முஹம்மதின் உயிர் எவன் கையிலுள்ளதோ அவன்மீது சத்தியமாக! நான் அறிவதையெல்லாம் நீங்கள் அறிவீர்களாயின் நிச்சயம் அதிகமாக அழுவீர்கள்; குறைவாகவே சிரிப்பீர்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.21 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6637</td></tr><tr><td>Arabic No</td><td>6637</td></tr><tr><td>Reference</td><td>Book 83 Hadith 16</td></tr></tbody></table></div>
 

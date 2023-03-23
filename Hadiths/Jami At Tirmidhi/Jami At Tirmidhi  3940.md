@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৯৪০। আবূ আইউব আল-আনসারী (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আনসারগণ এবং মুযাইনাহ্, জুহাইনাহ, আশজা', গিফার গোত্রগুলো ও বানু আবদুদ দার-এর লোকেরা আমার সঙ্গী ও সাহায্যকারী। আল্লাহ ব্যতীত তাদের কোন সাহায্যকারী সঙ্গী নেই। আল্লাহ ও তার রাসূলই তাদের সাহায্যকারী সঙ্গী বা সাথী। সহীহঃ মুসলিম (৭/১৭৮)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ আইউব আল-আনসারী (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আনসারগণ এবং মুযাইনাহ্, জুহাইনাহ, আশজা', গিফার গোত্রগুলো ও বানু আবদুদ দার-এর লোকেরা আমার সঙ্গী ও সাহায্যকারী। আল্লাহ ব্যতীত তাদের কোন সাহায্যকারী সঙ্গী নেই। আল্লাহ ও তার রাসূলই তাদের সাহায্যকারী সঙ্গী বা সাথী। সহীহঃ মুসলিম (৭/১৭৮)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3940</td></tr><tr><td>Arabic No</td><td>3940</td></tr><tr><td>Reference</td><td>Book 49 Hadith 340</td></tr></tbody></table></div>
 

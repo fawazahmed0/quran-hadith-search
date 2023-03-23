@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মালিক (রহঃ) বলেনঃ আমাদের নিকট এই আদেশ রহিয়াছে যে, যদি দাস ইচ্ছাকৃত বা অনিচ্ছাকৃতভাবে নিহত হয়, আর তাহার প্রভু একজন সাক্ষী উপস্থিত করে, তবে সে ঐ সাক্ষীর সহিত একটি কসম করিবে। তাহা হইলে সে দাসের মূল্য প্রাপ্ত হইবে। দাসদের মধ্যে ইচ্ছাকৃত বা অনিচ্ছাকৃত হত্যায় কসম নাই। তাহাদের কসম লওয়ার কথা আমি কোন আলিমের নিকট শুনি নাই। মালিক (রহঃ) বলেন, যদি দাস ইচ্ছাকৃত বা অনিচ্ছাকৃতভাবে নিহত হয়, তাহা হইলে তাহার প্রভুর উপর কোনরূপ কসম অর্পিত হয় না। প্ৰভু তখনই মূল্য প্রাপ্ত হইবে যখন সে এক অথবা দুইজন সাক্ষী উপস্থিত করিয়া নিজেও সাক্ষী হিসাবে এক কসম করিবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1597</td></tr><tr><td>Arabic No</td><td>1597</td></tr><tr><td>Reference</td><td>Book 44 Hadith 2</td></tr></tbody></table></div>
 

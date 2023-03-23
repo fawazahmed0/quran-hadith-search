@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুতাম্মল ইবন ফাদল (রহঃ) ..... সালমান (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ তোমাদের রব চিরঞ্জীব ও মহান দাতা। যখন কোন বান্দাহ হাত উঠিয়ে দু’আ করে, তখন তিনি তার খালি হাত ফিরিয়ে দিতে লজ্জাবোধ করেন। (তিরমিযী, ইবন মাজা)
+। সালমান ফারসী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয় তোমাদের রবব চিরঞ্জীব ও মহান দাতা। বান্দাহ দু’ হাত তুলে তাঁর নিকট চাইলে তিনি খালি হাত ফেরত দিতে লজ্জবোধ করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 8 Hadith 73</td></tr></tbody></table></div>
 

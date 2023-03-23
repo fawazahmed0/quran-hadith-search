@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের ঘরেও কিছু সালাত আদায় করবে এবং ঘরকে তোমরা কবর বানিয়ে নিও না। (১১৮৭; মুসলিম ৬/২৯, হাঃ ৭৭৭, আহমাদ ৪৬৫৩) (আধুনিক প্রকাশনীঃ ৪১৪, ইসলামিক ফাউন্ডেশনঃ ৪২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের ঘরেও কিছু সালাত আদায় করবে এবং ঘরকে তোমরা কবর বানিয়ে নিও না। (১১৮৭; মুসলিম ৬/২৯, হাঃ ৭৭৭, আহমাদ ৪৬৫৩) (আধুনিক প্রকাশনীঃ ৪১৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>432</td></tr><tr><td>Arabic No</td><td>432</td></tr><tr><td>Reference</td><td>Book 8 Hadith 82</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musadad] berkata, telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் தொழுகைகளில் சிலவற்றை உங்கள் இல்லங்களிலும் நிறைவேற்றுங்கள் உங்கள் இல்லங்களை மண்ணறைகளாக (கப்றுகள்) ஆக்கிவிடாதீர்கள்.39 அத்தியாயம் : 8
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் தொழுகைகளில் சிலவற்றை உங்கள் இல்லங்களிலும் நிறைவேற்றுங்கள் உங்கள் இல்லங்களை மண்ணறைகளாக (கப்றுகள்) ஆக்கிவிடாதீர்கள்.39 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>432</td></tr><tr><td>Arabic No</td><td>432</td></tr><tr><td>Reference</td><td>Book 8 Hadith 82</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২৪০০। সামুরা (রাঃ) থেকে বর্ণিত। রাসলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোন ব্যক্তি (ধারে) যা গ্রহণ করেছে তা ফেরত না দেয়া পর্যন্ত তার জন্য সে দায়ী থাকবে।
+। সামুরা (রাঃ) থেকে বর্ণিত। রাসলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোন ব্যক্তি (ধারে) যা গ্রহণ করেছে তা ফেরত না দেয়া পর্যন্ত তার জন্য সে দায়ী থাকবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2400</td></tr><tr><td>Arabic No</td><td>2400</td></tr><tr><td>Reference</td><td>Book 15 Hadith 11</td></tr></tbody></table></div>
 

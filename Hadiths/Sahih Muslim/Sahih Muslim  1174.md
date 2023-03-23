@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০৬১, আন্তর্জাতিক নাম্বারঃ ৫২৪ ১০৬১-(১০/...) উবায়দুল্লাহ ইবনু মু'আয আল আম্বারী (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, মসজিদ নির্মাণের পূর্বে বকরীর খোয়াড়েও সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১০৫৫, ইসলামীক সেন্টার ১০৬৪)
+উবায়দুল্লাহ ইবনু মু'আয আল আম্বারী (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, মসজিদ নির্মাণের পূর্বে বকরীর খোয়াড়েও সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১০৫৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1174</td></tr><tr><td>Arabic No</td><td>524.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 14</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কবর যিয়ারতকারিণী মহিলাদের উপর লা'নত করেছেন। আর যারা কবরের উপর মসজিদ বানায় এবং বাতি জ্বালায়, তাদের উপরও তিনি অভিসম্পাত করেছেন।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কবর যিয়ারাতকারী মহিলাদের অভিসম্পাত করেছেন। যারা কবরের উপর মাসজিদ নির্মাণ করে এবং কবরে বাতি জ্বালায় তাদেরকেও অভিসম্পাত করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3236</td></tr><tr><td>Arabic No</td><td>3236</td></tr><tr><td>Reference</td><td>Book 21 Hadith 148</td></tr></tbody></table></div>
 

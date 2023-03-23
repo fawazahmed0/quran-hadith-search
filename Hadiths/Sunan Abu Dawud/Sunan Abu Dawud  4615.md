@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... হাসান (রহঃ) এ আয়াত সম্পর্কে বলেনঃ (وَلِذَلِكَ خَلَقَهُمْ) অর্থাৎ আল্লাহ্‌ তাদের এজন্য সৃষ্টি করেছেন। এ ব্যাখ্যায় তিনি বলেনঃ আল্লাহ্‌ তাদের পয়দা করেছেন জান্নাতের জন্য এবং ওদের (কাফিরদের) সৃষ্টি করেছেন জাহান্নামের জন্য।
+। হাসান বাসরী (রহঃ) সূত্রে বর্ণিত। তিনি মহান আল্লাহর বাণীঃ ‘‘এবং তিনি তাদেরকে এজন্য সৃষ্টি করেছেন’’ (সূরা হুদঃ ১১৯) এর ব্যাখ্যায় বলেন, তিনি (আল্লাহ) এদেরকে (মু‘মিনদের) এর (জান্নাতের) জন্য এবং এদেরকে (মুনাফিকদের) এজন্য (জাহান্নামের জন্য) সৃষ্টি করেছেন।[1] সনদ সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4615</td></tr><tr><td>Arabic No</td><td>4615</td></tr><tr><td>Reference</td><td>Book 42 Hadith 20</td></tr></tbody></table></div>
 

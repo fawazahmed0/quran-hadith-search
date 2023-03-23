@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৬৬৫। আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে বর্ণিত, তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট (হাদীস) লিপিবদ্ধ করে রাখার অনুমতি চাইলাম, কিন্তু তিনি আমাদেরকে অনুমতি দেননি। সহীহঃ মুসলিম (৮/২২৯) অনুরূপ আবূ ঈসা বলেন, এ হাদীসটি যাইদ ইবনু আসলাম (রহঃ) হতে অন্য সূত্রেও বর্ণিত আছে। এটি হাম্মামও যাইদ ইবনু আসলাম হতে বর্ণনা করেছেন।
+। আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে বর্ণিত, তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট (হাদীস) লিপিবদ্ধ করে রাখার অনুমতি চাইলাম, কিন্তু তিনি আমাদেরকে অনুমতি দেননি। সহীহঃ মুসলিম (৮/২২৯) অনুরূপ আবূ ঈসা বলেন, এ হাদীসটি যাইদ ইবনু আসলাম (রহঃ) হতে অন্য সূত্রেও বর্ণিত আছে। এটি হাম্মামও যাইদ ইবনু আসলাম হতে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2665</td></tr><tr><td>Arabic No</td><td>2665</td></tr><tr><td>Reference</td><td>Book 41 Hadith 21</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হাসান ইবনু আলী ... ইমাম যুহরী (রহঃ) হতে বর্ণিত। তিনি বলেন, ‘আওয়ালী’ নামক শহরতলীর দুরত্ব মদ্বীনা হতে ২ অথবা ৩ মাইল। রাবী বলেন, সন্তবতঃ ইমাম ঐ স্থানের দুরত্ব চার মাইলও বলেছেন।
+। আয-যুহরী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আওয়ালীর দূরত্ব মাদীনাহ থেকে দুই অথবা তিন মাইল। বর্ণনাকারী বলেন, সম্ভবত তিনি (যুহরী) চার মাইলের কথাও বলেছেন।[1] সহীহ মাক্বতূ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>405</td></tr><tr><td>Arabic No</td><td>405</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
 

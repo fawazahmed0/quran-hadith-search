@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাযরা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, কোন বান্দার জন্যই এ কথা বলা সমীচীন নয় যে, আমি (মুহাম্মদ) ইউনুস ইবনু মাত্তার থেকে উত্তম। (৩৪১৫, মুসলিম ৪৩/৪৩ হাঃ ২৩৭৬, আহমাদ ১০০৪৮) (আধুনিক প্রকাশনীঃ ৩১৬৪, ইসলামিক ফাউন্ডেশনঃ ৩১৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাযরা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, কোন বান্দার জন্যই এ কথা বলা সমীচীন নয় যে, আমি (মুহাম্মদ) ইউনুস ইবনু মাত্তার থেকে উত্তম। (৩৪১৫, মুসলিম ৪৩/৪৩ হাঃ ২৩৭৬, আহমাদ ১০০৪৮) (আধুনিক প্রকাশনীঃ ৩১৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3416</td></tr><tr><td>Arabic No</td><td>3416</td></tr><tr><td>Reference</td><td>Book 60 Hadith 88</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: எந்த அடியாரும் (என்னைப் பற்றி) நான் யூனுஸ் பின் மத்தா அவர்களைவிடச் சிறந்தவன் என்று கூறுவது அவருக்குத் தகாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 60
+நபி (ஸல்) அவர்கள் கூறினார்கள்: எந்த அடியாரும் (என்னைப் பற்றி) நான் யூனுஸ் பின் மத்தா அவர்களைவிடச் சிறந்தவன் என்று கூறுவது அவருக்குத் தகாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3416</td></tr><tr><td>Arabic No</td><td>3416</td></tr><tr><td>Reference</td><td>Book 60 Hadith 88</td></tr></tbody></table></div>
 

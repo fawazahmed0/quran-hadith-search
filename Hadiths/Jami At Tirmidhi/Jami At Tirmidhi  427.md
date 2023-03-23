@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪২৭। উম্মু হাবীব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি যুহরের (ফরযের) পূর্বে চার রাকাআত এবং পরে চার রাকাআত নামায আদায় করবে আল্লাহ তা'আলা তার প্রতি জাহান্নামের আগুন হারাম করে দিবেন। —সহীহ। ইবনু মাজাহ– (১১৬০)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান গারীব। অন্য সূত্রেও হাদীসটি বর্ণিত হয়েছে।
+। উম্মু হাবীব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি যুহরের (ফরযের) পূর্বে চার রাকাআত এবং পরে চার রাকাআত নামায আদায় করবে আল্লাহ তা'আলা তার প্রতি জাহান্নামের আগুন হারাম করে দিবেন। —সহীহ। ইবনু মাজাহ– (১১৬০)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান গারীব। অন্য সূত্রেও হাদীসটি বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>427</td></tr><tr><td>Arabic No</td><td>427</td></tr><tr><td>Reference</td><td>Book 2 Hadith 280</td></tr></tbody></table></div>
 

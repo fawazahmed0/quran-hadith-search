@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। إِلَّا الْمُسْتَضْعَفِيْنَ সম্পর্কে তিনি বলেছেন যে, আল্লাহ তা‘আলা যাদের অক্ষমতা কবূল করেছেন আমার মাতা তাঁদের অন্তর্ভুক্ত ছিলেন। [১৩৫৭] (আধুনিক প্রকাশনীঃ ৪২৩৬, ইসলামিক ফাউন্ডেশনঃ ৪২৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। إِلَّا الْمُسْتَضْعَفِيْنَ সম্পর্কে তিনি বলেছেন যে, আল্লাহ তা‘আলা যাদের অক্ষমতা কবূল করেছেন আমার মাতা তাঁদের অন্তর্ভুক্ত ছিলেন। [১৩৫৭] (আধুনিক প্রকাশনীঃ ৪২৩৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4597</td></tr><tr><td>Arabic No</td><td>4597</td></tr><tr><td>Reference</td><td>Book 65 Hadith 119</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An Nu'man] Telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அபீமுளைக்கா (ரஹ்) அவர்கள் கூறியதாவது: “இயலாதவர்களாயிருக்கும் ஆண்கள், பெண்கள் மற்றும் குழந்தை களைத் தவிர!” எனும் (4:98ஆவது) இறை வசனத்தைப் பற்றி இப்னு அப்பாஸ் (ரலி) அவர்கள் (பின்வருமாறு) கூறினார்கள்: இயலாதவர்கள் என அல்லாஹ் அறிவித்தவர்களில் என் தாயார் (உம்முல் ஃபள்ல்) அவர்களும் ஒருவராயிருந்தார்.28 அத்தியாயம் : 65
+இப்னு அபீமுளைக்கா (ரஹ்) அவர்கள் கூறியதாவது: “இயலாதவர்களாயிருக்கும் ஆண்கள், பெண்கள் மற்றும் குழந்தை களைத் தவிர!” எனும் (4:98ஆவது) இறை வசனத்தைப் பற்றி இப்னு அப்பாஸ் (ரலி) அவர்கள் (பின்வருமாறு) கூறினார்கள்: இயலாதவர்கள் என அல்லாஹ் அறிவித்தவர்களில் என் தாயார் (உம்முல் ஃபள்ல்) அவர்களும் ஒருவராயிருந்தார்.28 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4597</td></tr><tr><td>Arabic No</td><td>4597</td></tr><tr><td>Reference</td><td>Book 65 Hadith 119</td></tr></tbody></table></div>
 

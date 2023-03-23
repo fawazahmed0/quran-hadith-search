@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ বাকর ইবনু আবী শাইবাহ ও ইবনু নুমায়র (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ সাপ যেমন সংকুচিত হয়ে আপন গর্তের দিকে প্রত্যাবর্তন করে তদ্রুপ ইসলামও সংকুচিত হয়ে মদীনার দিকে প্রত্যাবর্তন করবে। (ইসলামিক ফাউন্ডেশনঃ ২৭২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>374</td></tr><tr><td>Arabic No</td><td>147</td></tr><tr><td>Reference</td><td>Book 1 Hadith 281</td></tr></tbody></table></div>
 

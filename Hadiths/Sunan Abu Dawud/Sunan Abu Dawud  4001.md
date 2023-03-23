@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাঈদ ইবন ইয়াহইয়া (রহঃ) .... উম্মু সালামা (রাঃ) থেকে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূরা ফাতিহা এভাবে তিলাওয়াত করতেনঃ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ * الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ * الرَّحْمَنِ الرَّحِيمِ * مَلِكِ يَوْمِ الدِّينِ তিনি এভাবে বিচ্ছিন্নরূপে আয়াতগুলো তিলাওয়াত করতেন।
+। উম্মু সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কুরআন পাঠ বর্ণনা করেন অথবা অনুরূপ শব্দ প্রয়োগ করেনঃ (بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ. الرَّحْمَنِ الرَّحِيمِ. مَلِكِ يَوْمِ الدِّينِ)। তিনি প্রতিটি আয়াত বিরতি দিয়ে পাঠ করতেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, আমি আহমাদ (রহঃ)-কে বলতে শুনেছি, প্রাচীন কিরাআত হলো مَالِكِ يَوْمِ الدِّينِ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4001</td></tr><tr><td>Arabic No</td><td>4001</td></tr><tr><td>Reference</td><td>Book 32 Hadith 33</td></tr></tbody></table></div>
 

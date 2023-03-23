@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬১২। খালিদ ইবনু যিয়াদ থেকে অন্য সূত্রেও হাদীসটি অনুরূপ বর্ণিত হয়েছে। আবু ঈসা বলেনঃ এই হাদীসটি গারীব। শাহর ইবনু হাওশাব থেকে মুকাতিল ইবনু হাইয়ান ছাড়া অন্য কোন সূত্রে হাদীসটি জানতে পারিনি।
+। খালিদ ইবনু যিয়াদ থেকে অন্য সূত্রেও হাদীসটি অনুরূপ বর্ণিত হয়েছে। আবু ঈসা বলেনঃ এই হাদীসটি গারীব। শাহর ইবনু হাওশাব থেকে মুকাতিল ইবনু হাইয়ান ছাড়া অন্য কোন সূত্রে হাদীসটি জানতে পারিনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>612</td></tr><tr><td>Arabic No</td><td>612</td></tr><tr><td>Reference</td><td>Book 6 Hadith 69</td></tr></tbody></table></div>
 

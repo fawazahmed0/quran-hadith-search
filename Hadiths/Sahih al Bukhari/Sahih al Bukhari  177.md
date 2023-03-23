@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আব্বাস ইবনু তামীম (রহ.), তাঁর চাচার সূত্রে বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (কোন মুসল্লী) সালাত থেকে সরে থাকবে না যতক্ষণ না সে শব্দ শুনতে পায় কিংবা গন্ধ পায়। (১৩৭) (আধুনিক প্রকাশনীঃ ১৭২, ইসলামিক ফাউন্ডেশনঃ ১৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আব্বাস ইবনু তামীম (রহ.), তাঁর চাচার সূত্রে বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (কোন মুসল্লী) সালাত থেকে সরে থাকবে না যতক্ষণ না সে শব্দ শুনতে পায় কিংবা গন্ধ পায়। (১৩৭) (আধুনিক প্রকাশনীঃ ১৭২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>177</td></tr><tr><td>Arabic No</td><td>177</td></tr><tr><td>Reference</td><td>Book 4 Hadith 43</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (தொழுகையில் நிற்கும்போது பின்துவாரத்திலிருந்து பிரியும் காற்றின்) சப்தத்தைக் கேட்காத வரை, அல்லது (அதன்) நாற்றத்தை உணராத வரை (தொழுகையை விட்டு) திரும்பிச் செல்ல வேண்டாம். இதை அப்துல்லாஹ் பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 4
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (தொழுகையில் நிற்கும்போது பின்துவாரத்திலிருந்து பிரியும் காற்றின்) சப்தத்தைக் கேட்காத வரை, அல்லது (அதன்) நாற்றத்தை உணராத வரை (தொழுகையை விட்டு) திரும்பிச் செல்ல வேண்டாம். இதை அப்துல்லாஹ் பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>177</td></tr><tr><td>Arabic No</td><td>177</td></tr><tr><td>Reference</td><td>Book 4 Hadith 43</td></tr></tbody></table></div>
 

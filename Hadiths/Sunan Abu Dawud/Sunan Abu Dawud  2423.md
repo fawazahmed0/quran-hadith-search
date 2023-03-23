@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল মালিক ইবন শু‘আয়ব ..... ইবন শিহাব যুহরী (রহঃ) হতে বর্ণিত যে, যখন শনিবারের রোযা রাখার নিষিদ্ধতা সম্পর্কে তাকে কেউ বলত, তখন ইবন শিহাব বলতেন, এ হাদীসটি দুর্বল।
+। ইবনু শিহাব (রহ.) সূত্রে বর্ণিত। তার নিকট শুধু শনিবার সওম রাখা নিষেধ সম্পর্কিত হাদীস আলোচনা করা হলে তিনি বলেন, এটা তো হিমসী বর্ণিত হাদীস।[1] মাকতূ‘ মারফূয।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 14 Hadith 111</td></tr></tbody></table></div>
 

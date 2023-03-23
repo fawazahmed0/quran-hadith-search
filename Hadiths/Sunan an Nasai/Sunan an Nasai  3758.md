@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হান্নাদ ইবন সারী (রহঃ) ... আবদুর রহমান ইবন আলকামা (রাঃ) বলেন, সাকাফী গোত্রের প্রতিনিধি দল রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়, তখন তাদের হাতে কিছু হাদিয়া ছিল। তিনি বললেনঃ এটা হাদিয়া না সাদকা? যদি তা হাদিয়া হয়, তবে এরদ্বারা তো আল্লাহর রাসূলের সন্তুষ্টি অর্জন এবং উদ্দেশ্য পূর্ণ হওয়ার বাসনা হয়ে থাকে। আর যদি তা সাদাকা হয়, তবে তা মহান মহীয়ান আল্লাহ্ তা'আলার সন্তুষ্টি লাভ করা উদ্দেশ্য। তারা বললেনঃ না, ইহা হাদিয়া। তখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের এই হাদিয়া গ্রহণ করলেন। আর তিনি তাদের সাথে উপবেশন করলেন এবং তিনি জিজ্ঞাসাবাদ করতে লাগলেন (তাদের প্রশ্ন করতে লাগলেন এবং তারাও তাকে প্রশ্ন করতে) লাগলো। এরপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুহরের সালাত আদায় করলেন আসরের সালাতের সঙ্গে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3758</td></tr><tr><td>Arabic No</td><td>3758</td></tr><tr><td>Reference</td><td>Book 34 Hadith 40</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবদুল্লাহ ইবনু আব্দুর রহমান আদ দারিমী (রহঃ) ..... ইয়াহইয়া ইবনু হামযাহ্ (রহঃ) হতে উল্লেখিত সূত্রে হাদীসটি বর্ণনা করেছেন। তবে তিনি বিদায় হাজ্জের সময় কথাটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশন ৪৯৫১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5112</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

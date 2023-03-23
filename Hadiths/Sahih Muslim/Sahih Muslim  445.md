@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... আবূ মূসা (রাযিঃ) বলেন, একবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের সামনে দাড়িয়ে পাঁচটি কথা বললেনঃ (১) আল্লাহ কখনো নিদ্রা যান না। (২) নিদ্রিত হওয়া তার সাজেও না। (৩) তিনি তাঁর ইচ্ছানুসারে মীযান (দাড়িপাল্লা) নামান এবং উত্তোলন করেন। (৪) দিনের পূর্বেই রাতের সকল আমল তার কাছে পেশ করা হয়। রাতের পূর্বেই দিনের সকল আমল তার কাছে পেশ করা হয়। (৫) তিনি নূরের পর্দায় আচ্ছাদিত। আবূ বকর (রাযিঃ)-এর আরেক বর্ণনায় لنُّورُ (আলো) এর পরিবর্তে النَّارُ (আগুন) শব্দের উল্লেখ রয়েছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যদি সে আবরণ খুলে দেয়া হয়, তবে তার নূরের আলোচ্ছটা সৃষ্টি জগতের দৃশ্যমান সব কিছু ভস্ম করে দিবে। (ইসলামিক ফাউন্ডেশনঃ ৩৪২ ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>445</td></tr><tr><td>Arabic No</td><td>179.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 350</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] kedu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekr b. Ebi Şeybe ile Ebu Kureyb rivayet ettiler. Dedilerki: Bize Ebu Muaviye rivayet etti. (Dediki): Bize A'meş Amr b. Murra'dan, o da Ebu Ubeyde'den, o da Ebu Musa'dan naklen rivayet etti. Ebu Musa dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) bize kalkıp bir hutbe verdi ve beş hususu dile getirip şöyle buyurdu: "Muhakkak Aziz ve Celil Allah uyumaz, onun uyuması da gerekmez. O adalet terazisini alçaltır ve yükseltir. Gecenin ameli ona gündüzün amelinden önce, gündüzün ameli de gecenin amelinden önce yükseltilir. Onun hicabı nurdur. -Ebu Bekr'in rivayetinde: nardır- eğer onu açacak olursa yüzünün nurunun parıltıları basarının değdiği bütün mahlukatını yakardı. " Ebu Bekr'in, A'meş'ten diye naklettiği rivayetinde: Bize tahdis etti, dememiştir. Diğer tahric: İbn Mace, 195, 196; Tuhfetu'l-Eşraf, 9146
+Bize Ebu Bekr b. Ebi Şeybe ile Ebu Kureyb rivayet ettiler. Dedilerki: Bize Ebu Muaviye rivayet etti. (Dediki): Bize A'meş Amr b. Murra'dan, o da Ebu Ubeyde'den, o da Ebu Musa'dan naklen rivayet etti. Ebu Musa dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) bize kalkıp bir hutbe verdi ve beş hususu dile getirip şöyle buyurdu: "Muhakkak Aziz ve Celil Allah uyumaz, onun uyuması da gerekmez. O adalet terazisini alçaltır ve yükseltir. Gecenin ameli ona gündüzün amelinden önce, gündüzün ameli de gecenin amelinden önce yükseltilir. Onun hicabı nurdur. -Ebu Bekr'in rivayetinde: nardır- eğer onu açacak olursa yüzünün nurunun parıltıları basarının değdiği bütün mahlukatını yakardı. " Ebu Bekr'in, A'meş'ten diye naklettiği rivayetinde: Bize tahdis etti, dememiştir. Diğer tahric: İbn Mace, 195, 196; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>445</td></tr><tr><td>Arabic No</td><td>179.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 350</td></tr></tbody></table></div>
 

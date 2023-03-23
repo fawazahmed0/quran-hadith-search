@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০৭২, আন্তর্জাতিক নাম্বারঃ ১০৭৩ ১০৭২. ইসমাঈল ইবনু মাসউদ (রহ.) ..... ইবনু সীরীন (রহ.) হতে বর্ণিত। তিনি বলেন, যারা রাসূলুল্লাহ (সা.)-এর সাথে ফজরের সালাত আদায় করতেন তাদের কেউ আমার কাছে রিওয়ায়াত করেছেন যে, যখন তিনি দ্বিতীয় রাকআতে “সামি আল্ল-হু লিমান হামিদাহ” বললেন, তখন কিছুক্ষণ দাঁড়ালেন। সহীহ: আবু দাউদ ১৪৪৬, সহীহ: আবূ দাউদ ১৩০০।
+। ইসমাঈল ইবনু মাসউদ (রহঃ) ... ইবনু সীরীন (রহঃ) থেকে বর্ণিত যে, যারা রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে ফজরের সালাত আদায় করেছেন তাদের কেউ আমার কাছে রেওয়ায়েত করেছেন যে, যখন তিনি দ্বিতীয় রাকাআতেسَمِعَ اللَّهُ لِمَنْ حَمِدَهُ বললেন, তখন কিছুক্ষণ দাঁড়ালেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1072</td></tr><tr><td>Arabic No</td><td>1072</td></tr><tr><td>Reference</td><td>Book 12 Hadith 44</td></tr></tbody></table></div>
 

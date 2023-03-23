@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর স্ত্রীদের পাজামাকে এক বিঘত পরিমাণ লম্বা (গোছা থেকে) করার অনুমতি দেন। এরপর তিনি এর উপর আরো এক বিঘত বাড়াবার অনুমতি দেন, যখন তাঁরা বৃদ্ধির অনুমতি চায়। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বিবিগণ তাঁদের কাপড় আমাদের কাছে পাঠাতেন আমরা হাত দিয়ে তা মেপে দিতাম।
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উম্মুল মু‘মিনীনদের জন্য এক বিঘত আচল (নীচে) ঝুলানোর অনুমতি দিতেন। অতঃপর তারা আরো বাড়িয়ে দেয়ার আবেদন জানালে তিনি তাদের জন্য আরো এক বিঘত বাড়ানোর অনুমতি দিয়েছেন। অতঃপর তারা আমাদের নিকট তাদের কাপড় পাঠিয়ে দিতেন। আর আমরা এক গজ করে মেপে দিতাম।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4119</td></tr><tr><td>Arabic No</td><td>4119</td></tr><tr><td>Reference</td><td>Book 34 Hadith 100</td></tr></tbody></table></div>
 

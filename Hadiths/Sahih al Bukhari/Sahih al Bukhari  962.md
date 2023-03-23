@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর, ‘উমার এবং ‘উসমান (রাযি.)-এর সঙ্গে সালাতে হাযির ছিলাম। সকলেই খুৎবাহর আগে সালাত আদায় করতেন। (৯৮) (আধুনিক প্রকাশনীঃ ৯০৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 13 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] berkata, telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடனும் அபூபக்ர் (ரலி), உமர் (ரலி), உஸ்மான் (ரலி) ஆகியோருடனும் பெருநாள் தொழுகையில் கலந்துகொண் டுள்ளேன். அவர்கள் அனைவரும் (குத்பா) உரை நிகழ்த்துவதற்கு முன்பே தொழுப வர்களாக இருந்தனர். அத்தியாயம் : 13
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடனும் அபூபக்ர் (ரலி), உமர் (ரலி), உஸ்மான் (ரலி) ஆகியோருடனும் பெருநாள் தொழுகையில் கலந்துகொண் டுள்ளேன். அவர்கள் அனைவரும் (குத்பா) உரை நிகழ்த்துவதற்கு முன்பே தொழுப வர்களாக இருந்தனர். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 13 Hadith 11</td></tr></tbody></table></div>
 

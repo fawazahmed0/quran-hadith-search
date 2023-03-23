@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০১, আন্তর্জাতিক নাম্বারঃ ৫৫ ১০১-(৯৬/...) মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... তামীম আদ দারী (রাযিঃ)-এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম থেকে উপরোক্ত হাদীসের মতোই বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ১০৩, ইসলামিক সেন্টারঃ ১০৫)
+মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... তামীম আদ দারী (রাযিঃ)-এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম থেকে উপরোক্ত হাদীসের মতোই বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ১০৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>197</td></tr><tr><td>Arabic No</td><td>55.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 104</td></tr></tbody></table></div>
 

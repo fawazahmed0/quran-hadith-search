@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, যে ব্যক্তি তার সম্পদ রক্ষা করতে গিয়ে নিহত হয়, সে শহীদ। (আধুনিক প্রকাশনীঃ ২৩০১, ইসলামিক ফাউন্ডেশনঃ ২৩১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, যে ব্যক্তি তার সম্পদ রক্ষা করতে গিয়ে নিহত হয়, সে শহীদ। (আধুনিক প্রকাশনীঃ ২৩০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2480</td></tr><tr><td>Arabic No</td><td>2480</td></tr><tr><td>Reference</td><td>Book 46 Hadith 41</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yazid] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தமது செல்வத்தைப் பாதுகாப்பதற்காகப் போராடும்போது கொல்லப்பட்டவர் (இறை வழியில்) உயிர்த் தியாகம் செய்தவர் (ஷஹீத்) ஆவார். இதை அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 46
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தமது செல்வத்தைப் பாதுகாப்பதற்காகப் போராடும்போது கொல்லப்பட்டவர் (இறை வழியில்) உயிர்த் தியாகம் செய்தவர் (ஷஹீத்) ஆவார். இதை அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2480</td></tr><tr><td>Arabic No</td><td>2480</td></tr><tr><td>Reference</td><td>Book 46 Hadith 41</td></tr></tbody></table></div>
 

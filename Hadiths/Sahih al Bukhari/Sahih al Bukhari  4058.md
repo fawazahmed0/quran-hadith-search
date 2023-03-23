@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, সা‘দ (রাঃ) ব্যতীত অন্য কারো জন্য নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে তাঁর পিতা-মাতার নাম একত্রে উল্লেখ করতে আমি শুনিনি। [২৯০৫] (আধুনিক প্রকাশনীঃ ৩৭৫৬, ইসলামিক ফাউন্ডেশনঃ ৩৭৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, সা‘দ (রাঃ) ব্যতীত অন্য কারো জন্য নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে তাঁর পিতা-মাতার নাম একত্রে উল্লেখ করতে আমি শুনিনি। [২৯০৫] (আধুনিক প্রকাশনীঃ ৩৭৫৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4058</td></tr><tr><td>Arabic No</td><td>4058</td></tr><tr><td>Reference</td><td>Book 64 Hadith 104</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Mis'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (பின் அபீதாலிப் -ரலி) அவர்கள் கூறியதாவது : நபி (ஸல்) அவர்கள் தம் பெற்றோர் இருவரையும் ஒன்றுசேர்த்து சஅத் பின் அபீவக்காஸ் (ரலி) அவர்களைத் தவிர வேறு யாருக்கும் (அர்ப்பணிப்பதாகக்) கூறியதை நான் கேட்டதில்லை. அத்தியாயம் : 64
+அலீ (பின் அபீதாலிப் -ரலி) அவர்கள் கூறியதாவது : நபி (ஸல்) அவர்கள் தம் பெற்றோர் இருவரையும் ஒன்றுசேர்த்து சஅத் பின் அபீவக்காஸ் (ரலி) அவர்களைத் தவிர வேறு யாருக்கும் (அர்ப்பணிப்பதாகக்) கூறியதை நான் கேட்டதில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4058</td></tr><tr><td>Arabic No</td><td>4058</td></tr><tr><td>Reference</td><td>Book 64 Hadith 104</td></tr></tbody></table></div>
 

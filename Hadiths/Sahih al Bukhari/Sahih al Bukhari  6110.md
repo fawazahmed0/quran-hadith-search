@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাস‘ঊদ (রাঃ) হতে বর্ণিত যে, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললেনঃ অমুক ব্যক্তি সালাত দীর্ঘ করে। যে কারণে আমি ফজরের সালাত থেকে পিছনে থাকি। বর্ণনাকারী বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কোন ওয়াজের মধ্যে সেদিনের চেয়ে অধিক রাগান্বিত হতে দেখিনি। রাবী বলেন, এরপর তিনি বললেনঃ তোমাদের মধ্যে কেউ কেউ ঘৃণা সৃষ্টিকারী আছে। সুতরাং তোমাদের যে কেউ লোকেদের নিয়ে সালাত আদায় করে, সে যেন সংক্ষেপ করে। কারণ তাদের মধ্যে রোগী, বৃদ্ধ এবং কাজের লোক থাকে। [৯০] (আধুনিক প্রকাশনী- ৫৬৭১, ইসলামিক ফাউন্ডেশন- ৫৫৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাস‘ঊদ (রাঃ) হতে বর্ণিত যে, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললেনঃ অমুক ব্যক্তি সালাত দীর্ঘ করে। যে কারণে আমি ফজরের সালাত থেকে পিছনে থাকি। বর্ণনাকারী বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কোন ওয়াজের মধ্যে সেদিনের চেয়ে অধিক রাগান্বিত হতে দেখিনি। রাবী বলেন, এরপর তিনি বললেনঃ তোমাদের মধ্যে কেউ কেউ ঘৃণা সৃষ্টিকারী আছে। সুতরাং তোমাদের যে কেউ লোকেদের নিয়ে সালাত আদায় করে, সে যেন সংক্ষেপ করে। কারণ তাদের মধ্যে রোগী, বৃদ্ধ এবং কাজের লোক থাকে। [৯০] (আধুনিক প্রকাশনী- ৫৬৭১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6110</td></tr><tr><td>Arabic No</td><td>6110</td></tr><tr><td>Reference</td><td>Book 78 Hadith 137</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Mas'ud:A man came to the Prophet (ﷺ) and said "I keep away from the morning prayer only because such and such person prolongs the prayer when he leads us in it. The narrator added: I had never seen Allah's Apostle more furious in giving advice than he was on that day. He said, "O people! There are some among you who make others dislike good deeds) cause the others to have aversion (to congregational prayers). Beware! Whoever among you leads the people in prayer should not prolong it, because among them there are the sick, the old, and the needy." (See Hadith No. 670, Vol 1)
+Narrated Abu Mas'ud:A man came to the Prophet (ﷺ) and said "I keep away from the morning prayer only because such and such person prolongs the prayer when he leads us in it. The narrator added: I had never seen Allah's Apostle more furious in giving advice than he was on that day. He said, "O people! There are some among you who make others dislike good deeds) cause the others to have aversion (to congregational prayers). Beware! Whoever among you leads the people in prayer should not prolong it, because among them there are the sick, the old, and the needy." (See Hadith No. 670, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6110</td></tr><tr><td>Arabic No</td><td>6110</td></tr><tr><td>Reference</td><td>Book 78 Hadith 137</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமஸ்ஊத் உக்பா பின் ஆமிர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம் வந்து, “(அல்லாஹ்வின் தூதரே!) இன்ன மனிதர் எங்களுக்குத் தொழுகையை நீட்டுவதால் நான் அதிகாலை(க் கூட்டு)த்தொழுகைக்கு (ஃபஜ்ருடைய ஜமாஅத் திற்கு)ச் செல்வதில்லை” என்று கூறினார். இதைக் கேட்டதும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஆற்றிய உரையின்போது முன்எப்போதும் இல்லாத அளவுக்குக் கடுமையாகக் கோபம் கொண்டதை நான் கண்டேன். அப்போது அவர்கள், “மக்களே! (வணக்க வழிபாடுகளில்) வெறுப்பை ஏற்படுத்துகின்றவர்களும் உங்களில் உள்ளனர். உங்களில் யாரேனும் மக்களுக்கு (தலைமையேற்று)த் தொழுவித்தால் அவர் சுருக்கமாகத் தொழுகை நடத்தட்டும். ஏனெனில், மக்களில் நோயாளிகளும் முதியோரும் அலுவல் உடையோரும் இருக்கின்றனர்” என்று கூறினார்கள்.126 அத்தியாயம் : 78
+அபூமஸ்ஊத் உக்பா பின் ஆமிர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம் வந்து, “(அல்லாஹ்வின் தூதரே!) இன்ன மனிதர் எங்களுக்குத் தொழுகையை நீட்டுவதால் நான் அதிகாலை(க் கூட்டு)த்தொழுகைக்கு (ஃபஜ்ருடைய ஜமாஅத் திற்கு)ச் செல்வதில்லை” என்று கூறினார். இதைக் கேட்டதும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஆற்றிய உரையின்போது முன்எப்போதும் இல்லாத அளவுக்குக் கடுமையாகக் கோபம் கொண்டதை நான் கண்டேன். அப்போது அவர்கள், “மக்களே! (வணக்க வழிபாடுகளில்) வெறுப்பை ஏற்படுத்துகின்றவர்களும் உங்களில் உள்ளனர். உங்களில் யாரேனும் மக்களுக்கு (தலைமையேற்று)த் தொழுவித்தால் அவர் சுருக்கமாகத் தொழுகை நடத்தட்டும். ஏனெனில், மக்களில் நோயாளிகளும் முதியோரும் அலுவல் உடையோரும் இருக்கின்றனர்” என்று கூறினார்கள்.126 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6110</td></tr><tr><td>Arabic No</td><td>6110</td></tr><tr><td>Reference</td><td>Book 78 Hadith 137</td></tr></tbody></table></div>
 

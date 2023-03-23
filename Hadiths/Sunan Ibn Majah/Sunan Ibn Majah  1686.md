@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/১৬৮৬। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মুক্তদাসী মায়মূনা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে রোযাদার দম্পতি সম্পর্কে জিজ্ঞেস করা হলো যে, স্বামী তাকে চুমা দিয়েছে। তিনি বলেনঃ তারা রোযা ভঙ্গ করেছে।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মুক্তদাসী মায়মূনা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে রোযাদার দম্পতি সম্পর্কে জিজ্ঞেস করা হলো যে, স্বামী তাকে চুমা দিয়েছে। তিনি বলেনঃ তারা রোযা ভঙ্গ করেছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1686</td></tr><tr><td>Arabic No</td><td>1686</td></tr><tr><td>Reference</td><td>Book 7 Hadith 49</td></tr></tbody></table></div>
 

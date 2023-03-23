@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫৬৫। ইয়াহইয়া ইবনু কাসীর (রহঃ) হতে আল্লাহ তা'আলার বাণী, “তারা তো বাগানের মধ্যে আনন্দিত থাকবে" (রূমঃ ১৫) আয়াতের ব্যাখ্যা প্রসঙ্গে বর্ণিত আছে, তিনি বলেনঃ তারা গান শুনবে। সনদ সহীহ মাকতু, হাদীসের বর্ণনা অনুযায়ী গানের অর্থ হলো হুরদের উচ্চকণ্ঠে গানের আওয়াজ।
+। ইয়াহইয়া ইবনু কাসীর (রহঃ) হতে আল্লাহ তা'আলার বাণী, “তারা তো বাগানের মধ্যে আনন্দিত থাকবে" (রূমঃ ১৫) আয়াতের ব্যাখ্যা প্রসঙ্গে বর্ণিত আছে, তিনি বলেনঃ তারা গান শুনবে। সনদ সহীহ মাকতু, হাদীসের বর্ণনা অনুযায়ী গানের অর্থ হলো হুরদের উচ্চকণ্ঠে গানের আওয়াজ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 38 Hadith 43</td></tr></tbody></table></div>
 

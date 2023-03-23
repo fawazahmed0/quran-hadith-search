@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবূ ‘আমরাহ গোত্রের জনৈক ব্যক্তি, আবূ ‘আমরাহ (রাঃ) থেকে পূর্বোক্ত হাদীছের অনুরূপ হাদীছ বর্ণনা করেছেন। কিন্তু তিনি সেই বর্ণনায় (চারজনের স্থলে) তিনজনের কথা বলেছেন। আরো অতিরিক্ত বলেছেনঃ অশ্বারোহী সৈন্যের জন্য ছিল তিনটি অংশ।
+। আবূ ‘আমরাহ (রহঃ) এ সূত্রে বর্ণিত হাদীসের সমার্থক হাদীস বর্ণনা করেন। তবে তিনি এ বর্ণনায় তিনজনের কথা উল্লেখ করেন এবং বলেন, ঘোড়া সাওয়ারীর জন্য ছিলো তিন ভাগ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2735</td></tr><tr><td>Arabic No</td><td>2735</td></tr><tr><td>Reference</td><td>Book 15 Hadith 259</td></tr></tbody></table></div>
 

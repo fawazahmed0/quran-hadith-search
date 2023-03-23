@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ওয়াহব ইবন বাকিয়্যা (রহঃ) .... ইবন আব্বাস (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন। তিনি তাশাহহুদের পর এই দুআ পাঠ করতেনঃ ‘‘আল্লাহুম্মা ইন্নী আউযু বিকা মিন্ আযাবে জাহান্নাম ওয়া আউযু বিকা মিন আযাবিল্ কাবরে, ওয়া আউযু বিকা মিন্ ফিতনাতিদ্ দাজ্জাল ওয়া আউযু বিকা মিন্ ফিতনাতিল মাহয়া ওয়াল মামাত।’’
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে তাশাহহুদের পর বলতেনঃ ‘‘আল্লাহুম্মা ইন্নি আ‘উযুবিকা মিন ‘আযাবি জাহান্নাম, ওয়া আ‘উযুবিকা মিন ‘আযাবিল ক্বাবরি, ওয়া আ‘উযুবিকা মিন ফিতনাতিদ দাজ্জাল, ওয়া আ‘উযুবিকা মিন ফিতনাতিল মাহইয়া ওয়াল মামাতি’’। (অর্থঃ হে আল্লাহ, আমি আপনার নিকট আশ্রয় প্রার্থনা করছি জাহান্নামের আযাব হতে, আশ্রয় প্রার্থনা করছি কবরের আযাব হতে, আশ্রয় প্রার্থনা করছি দাজ্জালের ফিতনাহ হতে এবং আশ্রয় প্রার্থনা করছি জীবন ও মৃত্যুর ফিতনাহ হতে।)[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 2 Hadith 595</td></tr></tbody></table></div>
 

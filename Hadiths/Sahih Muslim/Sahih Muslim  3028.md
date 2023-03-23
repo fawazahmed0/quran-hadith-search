@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আলী ইবনু হুজর (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ আমি উমরাহ ও হাজ্জ (হজ্জ/হজ) উভয়ের ইহরাম বাঁধছি। (ইসলামিক ফাউন্ডেশন ২৮৯৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3028</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஹஜ் மற்றும் உம்ரா இரண்டிற்கும் சேர்த்து, லப்பைக்க உம்ரத்தன் வ ஹஜ்ஜன்; லப்பைக்க உம்ரத்தன் வ ஹஜ்ஜன் (நான் உம்ராவிற்கும் ஹஜ்ஜுக்கும் தல்பியாச் சொல்கிறேன்; நான் உம்ராவிற்கும் ஹஜ்ஜுக்கும் தல்பியாச் சொல்கிறேன்) என்று தல்பியாச் சொன்னதை நான் செவியுற்றுள்ளேன். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 15
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஹஜ் மற்றும் உம்ரா இரண்டிற்கும் சேர்த்து, லப்பைக்க உம்ரத்தன் வ ஹஜ்ஜன்; லப்பைக்க உம்ரத்தன் வ ஹஜ்ஜன் (நான் உம்ராவிற்கும் ஹஜ்ஜுக்கும் தல்பியாச் சொல்கிறேன்; நான் உம்ராவிற்கும் ஹஜ்ஜுக்கும் தல்பியாச் சொல்கிறேன்) என்று தல்பியாச் சொன்னதை நான் செவியுற்றுள்ளேன். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3028</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু আতিয়্যাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কন্যা [যায়নাব (রাযি.)]-এর গোসল দিতে যাচ্ছিলাম, গোসল দেয়ার সময় তিনি আমাদের বলেনঃ তোমরা তাঁর ডান দিক হতে এবং উযূর স্থানগুলো হতে শুরু করবে। (১৬৭) (আধুনিক প্রকাশনীঃ ১১৭৫, ইসলামিক ফাউন্ডেশনঃ ১১৮৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু আতিয়্যাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কন্যা [যায়নাব (রাযি.)]-এর গোসল দিতে যাচ্ছিলাম, গোসল দেয়ার সময় তিনি আমাদের বলেনঃ তোমরা তাঁর ডান দিক হতে এবং উযূর স্থানগুলো হতে শুরু করবে। (১৬৭) (আধুনিক প্রকাশনীঃ ১১৭৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1256</td></tr><tr><td>Arabic No</td><td>1256</td></tr><tr><td>Reference</td><td>Book 23 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு அ(த்)திய்யா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் மகளை நாங்கள் நீராட்டிக்கொண்டிருந்தபோது, “சடலத்தின் வலப் புறத்திலிருந்தும் அதன் அங்கத் தூய்மை செய்ய வேண்டிய பகுதிகளிலிருந்தும் ஆரம்பியுங்கள்” என நபி (ஸல்) அவர்கள் எங்களிடம் கூறினார்கள். அத்தியாயம் : 23
+உம்மு அ(த்)திய்யா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் மகளை நாங்கள் நீராட்டிக்கொண்டிருந்தபோது, “சடலத்தின் வலப் புறத்திலிருந்தும் அதன் அங்கத் தூய்மை செய்ய வேண்டிய பகுதிகளிலிருந்தும் ஆரம்பியுங்கள்” என நபி (ஸல்) அவர்கள் எங்களிடம் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1256</td></tr><tr><td>Arabic No</td><td>1256</td></tr><tr><td>Reference</td><td>Book 23 Hadith 18</td></tr></tbody></table></div>
 

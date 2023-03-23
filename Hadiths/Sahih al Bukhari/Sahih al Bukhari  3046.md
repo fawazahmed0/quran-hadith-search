@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-فِيْهِ عَنْ أَبِيْ مُوسَى عَنْ النَّبِيِّ صلى الله عليه وسلم এ বিষয়ে আবূ মূসা (রাঃ) কর্তৃক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিকট হতে হাদীস বর্ণিত রয়েছে। ৩০৪৬. আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা বন্দী আযাদ কর, ক্ষুধার্তকে আহার্য দাও এবং রুগীর সেবা-শুশ্রূষা কর। (৫১৭৪, ৫৩৭৩, ৫৬৭৯, ৬১৬৩) (আধুনিক প্রকাশনীঃ ২৮১৯, ইসলামিক ফাউন্ডেশনঃ ২৮২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فِيْهِ عَنْ أَبِيْ مُوسَى عَنْ النَّبِيِّ صلى الله عليه وسلم এ বিষয়ে আবূ মূসা (রাঃ) কর্তৃক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিকট হতে হাদীস বর্ণিত রয়েছে। ৩০৪৬. আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা বন্দী আযাদ কর, ক্ষুধার্তকে আহার্য দাও এবং রুগীর সেবা-শুশ্রূষা কর। (৫১৭৪, ৫৩৭৩, ৫৬৭৯, ৬১৬৩) (আধুনিক প্রকাশনীঃ ২৮১৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3046</td></tr><tr><td>Arabic No</td><td>3046</td></tr><tr><td>Reference</td><td>Book 56 Hadith 252</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Ja
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘(போர்க்) கைதியை (எதிரியிடமிருந்து) விடுவியுங்கள்; பசித்தவருக்கு உணவளி யுங்கள்; நோயாளியை நலம் விசாரியுங்கள்” என்று கூறினார்கள். அத்தியாயம் : 56
+அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘(போர்க்) கைதியை (எதிரியிடமிருந்து) விடுவியுங்கள்; பசித்தவருக்கு உணவளி யுங்கள்; நோயாளியை நலம் விசாரியுங்கள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3046</td></tr><tr><td>Arabic No</td><td>3046</td></tr><tr><td>Reference</td><td>Book 56 Hadith 252</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Ja
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Musa r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Esirlerin bağlarını çözün, açları doyurun ve hastaları ziyaret edin!" Tekrar: 5174, 5373, 5649, 7173
+Ebu Musa r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Esirlerin bağlarını çözün, açları doyurun ve hastaları ziyaret edin!" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3046</td></tr><tr><td>Arabic No</td><td>3046</td></tr><tr><td>Reference</td><td>Book 56 Hadith 252</td></tr></tbody></table></div>
 

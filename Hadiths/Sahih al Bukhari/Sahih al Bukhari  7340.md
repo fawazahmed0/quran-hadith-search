@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+এবং বানী সুলায়মের গোত্রের উপর বদদু‘আ করার জন্য মাসব্যাপী (তিনি (ফজরের সালাতে) কুনূত (নাযিলা) পড়েছিলেন। [২১৩০] (আধুনিক প্রকাশনী- ৬৮২৮ শেষাংশ, ইসলামিক ফাউন্ডেশন- ৬৮৪০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7340</td></tr><tr><td>Arabic No</td><td>7340</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

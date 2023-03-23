@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) হাদিয়া গ্রহণ করতেন এবং তার প্রতিদানও দিতেন। আবূ ‘আবদুল্লাহ (রহ.) বলেন, ওয়াকী ও মুহাযির (রহ.) হিশাম তার পিতা সূত্রে ‘আয়িশাহ (রাঃ) হতে উল্লেখ করেননি। (আধুনিক প্রকাশনীঃ ২৩৯৭, ইসলামিক ফাউন্ডেশনঃ ২৪১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) হাদিয়া গ্রহণ করতেন এবং তার প্রতিদানও দিতেন। আবূ ‘আবদুল্লাহ (রহ.) বলেন, ওয়াকী ও মুহাযির (রহ.) হিশাম তার পিতা সূত্রে ‘আয়িশাহ (রাঃ) হতে উল্লেখ করেননি। (আধুনিক প্রকাশনীঃ ২৩৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2585</td></tr><tr><td>Arabic No</td><td>2585</td></tr><tr><td>Reference</td><td>Book 51 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Isa b
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அன்பளிப்பை ஏற்றுக்கொள்வார்கள்; அதற்கு ஈடாக (ஏதேனும்) வழங்கிவிடு வார்கள்.12 இதே ஹதீஸ் உர்வா பின் அஸ் ஸுபைர் (ரஹ்) அவர்களிடமிருந்து (முர்ச லாக) இரு தொடர்களில் அறிவிக்கப் பட்டுள்ளது. அத்தியாயம் : 50
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அன்பளிப்பை ஏற்றுக்கொள்வார்கள்; அதற்கு ஈடாக (ஏதேனும்) வழங்கிவிடு வார்கள்.12 இதே ஹதீஸ் உர்வா பின் அஸ் ஸுபைர் (ரஹ்) அவர்களிடமிருந்து (முர்ச லாக) இரு தொடர்களில் அறிவிக்கப் பட்டுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2585</td></tr><tr><td>Arabic No</td><td>2585</td></tr><tr><td>Reference</td><td>Book 51 Hadith 19</td></tr></tbody></table></div>
 

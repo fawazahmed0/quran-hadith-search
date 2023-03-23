@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাপড় হতে অপবিত্রতার চিহ্ন ধুয়ে দিতাম এবং কাপড়ে ভিজা চিহ্ন নিয়ে তিনি সালাতে বের হতেন। (২৩০, ২৩১, ২৩২; মুসলিম ২/৩২, হাঃ ২৮৯) (আধুনিক প্রকাশনীঃ ২২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>229</td></tr><tr><td>Arabic No</td><td>229</td></tr><tr><td>Reference</td><td>Book 4 Hadith 95</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களின் ஆடை யில் இந்திரியம் பட்ட இடத்தைக் கழுவு வேன். (அந்த ஆடையோடு) நபி (ஸல்) அவர்கள் தொழச் செல்வார்கள். அவர் களின் ஆடையில் ஈரம் அப்படியே இருக்கும். அத்தியாயம் : 4
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களின் ஆடை யில் இந்திரியம் பட்ட இடத்தைக் கழுவு வேன். (அந்த ஆடையோடு) நபி (ஸல்) அவர்கள் தொழச் செல்வார்கள். அவர் களின் ஆடையில் ஈரம் அப்படியே இருக்கும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>229</td></tr><tr><td>Arabic No</td><td>229</td></tr><tr><td>Reference</td><td>Book 4 Hadith 95</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe r.anha şöyle demiştir: "Ben Resulullah (Sallallahu aleyhi ve Sellem)'in elbisesinden cünüplüğü yani meninin isabet ettiği yeri yıkardım, sonra elbisesinin yıkanan yerlerinde yıkama izi göründüğü halde namaza çıkardı. Tekrar: 230, 231, 232
+Âişe r.anha şöyle demiştir: "Ben Resulullah (Sallallahu aleyhi ve Sellem)'in elbisesinden cünüplüğü yani meninin isabet ettiği yeri yıkardım, sonra elbisesinin yıkanan yerlerinde yıkama izi göründüğü halde namaza çıkardı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>229</td></tr><tr><td>Arabic No</td><td>229</td></tr><tr><td>Reference</td><td>Book 4 Hadith 95</td></tr></tbody></table></div>
 

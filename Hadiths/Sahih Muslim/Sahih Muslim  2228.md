@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনু মুসান্না, ইসহাক ইবনু ইবরাহীম ও ইবনু আবূ উমার (রহঃ) ..... মাসউদ ইবনু হাকাম আল আনসারী (রাযিঃ) আলী ইবনু আবূ তলিব (রাযিঃ) কে জানাযার ব্যাপারে বলতে শুনেছেনঃ রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রথম দিকে দাঁড়াতেন এবং পরে বসে পড়তেন। নাফি ইবনু জুবায়র কথাটা এজন্য বর্ণনা করেছেন যে, তিনি ওয়াকিদ ইবনু আমর (রাযিঃ) কে দেখলেন তিনি লাশ নীচে রাখার অপেক্ষায় দাঁড়িয়ে আছেন। (ইসলামী ফাউন্ডেশন ২০৯৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2228</td></tr><tr><td>Arabic No</td><td>962.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 105</td></tr></tbody></table></div>
 

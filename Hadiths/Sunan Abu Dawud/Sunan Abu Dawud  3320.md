@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইবনু কা‘ব ইবনু মালিক (রাঃ) বলেন, আবূ লূবাবাহ (রাঃ) ছিলেন ... অতঃপর পূর্বোক্ত হাদীসের সমার্থক হাদীস বর্ণিত। ঘটনাটি আবূ লুবাবাহ (রাঃ) সংশ্লিষ্ট। আবূ দাঊদ (রহঃ) বলেন, ইউনুস ইবনু শিহাব থেকে তিনি বনু সায়িব ইবনু আবূ লুবাবাহ থেকে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>3320</td></tr><tr><td>Reference</td><td>Book 22 Hadith 79</td></tr></tbody></table></div>
 

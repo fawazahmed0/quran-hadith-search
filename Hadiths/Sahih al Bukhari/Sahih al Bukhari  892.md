@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর মসজিদে জুমু‘আহর সালাত অনুষ্ঠিত হবার পর প্রথম জুমু‘আহর সালাত অনুষ্ঠিত হয় বাহরাইনে জুওয়াসা নামক স্থানে অবস্থিত আবদুল কায়স গোত্রের মসজিদে। (৪৩৭১) (আধুনিক প্রকাশনীঃ ৮৪১ ইসলামিক ফাউন্ডেশনঃ ৮৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর মসজিদে জুমু‘আহর সালাত অনুষ্ঠিত হবার পর প্রথম জুমু‘আহর সালাত অনুষ্ঠিত হয় বাহরাইনে জুওয়াসা নামক স্থানে অবস্থিত আবদুল কায়স গোত্রের মসজিদে। (৪৩৭১) (আধুনিক প্রকাশনীঃ ৮৪১ ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>892</td></tr><tr><td>Arabic No</td><td>892</td></tr><tr><td>Reference</td><td>Book 11 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது பள்ளிவாச-ல் (வெள்ளிக்கிழமை) தொழுவிக்கப்பட்ட ஜுமுஆ தொழுகைக் குப் பிறகு (இஸ்லாமிய வரலாற்றில்) முதன் முதலாக தொழுவிக்கப்பட்ட ஜுமுஆ தொழுகை, ‘ஜுவாஸா’ எனுமிடத்தில் -அதாவது பஹ்ரைன் நாட்டி-ருந்த (ஒரு கிராமத்தில்)- அப்துல் கைஸ் குலத்தாரின் பள்ளிவாச-ல் நடைபெற்ற தொழுகையே ஆகும்.7 அத்தியாயம் : 11
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது பள்ளிவாச-ல் (வெள்ளிக்கிழமை) தொழுவிக்கப்பட்ட ஜுமுஆ தொழுகைக் குப் பிறகு (இஸ்லாமிய வரலாற்றில்) முதன் முதலாக தொழுவிக்கப்பட்ட ஜுமுஆ தொழுகை, ‘ஜுவாஸா’ எனுமிடத்தில் -அதாவது பஹ்ரைன் நாட்டி-ருந்த (ஒரு கிராமத்தில்)- அப்துல் கைஸ் குலத்தாரின் பள்ளிவாச-ல் நடைபெற்ற தொழுகையே ஆகும்.7 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>892</td></tr><tr><td>Arabic No</td><td>892</td></tr><tr><td>Reference</td><td>Book 11 Hadith 17</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceri
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbâs (Radiyallahu anh)'dan nakledilmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem'in mescidinden sonra Cum'a namazı ilk olarak Bahreyn'in Cuvâsâ köyündeki Abdü'l-kays mescidinde kılınmıştır. Tekrar: 4371
+İbn Abbâs (Radiyallahu anh)'dan nakledilmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem'in mescidinden sonra Cum'a namazı ilk olarak Bahreyn'in Cuvâsâ köyündeki Abdü'l-kays mescidinde kılınmıştır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>892</td></tr><tr><td>Arabic No</td><td>892</td></tr><tr><td>Reference</td><td>Book 11 Hadith 17</td></tr></tbody></table></div>
 

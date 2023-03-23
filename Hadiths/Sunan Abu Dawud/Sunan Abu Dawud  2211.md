@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ইবরাহীম ...... আবূ তামীমা (রহঃ) তার গোত্রের এক ব্যক্তি হতে বর্ণনা করেছেন। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন এক ব্যক্তিকে তার স্ত্রীকে ‘হে আমার ভগ্নি’ সন্বোধন করতে শুনে তাকে এরূপ করতে নিষেধ করেন।
+। আবূ তামীমাহ (রাযি.) সূত্রে বর্ণিত। তিনি তাঁর স্বগোত্রীয় এক ব্যক্তি থেকে বর্ণনা করেন, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছ থেকে শুনেছেন, তিনি এক ব্যক্তিকে তার স্ত্রীকে ‘হে আমার আদুরে বোন’ বলতে শুনে তাকে এরূপ সম্বোধন করতে নিষেধ করেছেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2211</td></tr><tr><td>Arabic No</td><td>2211</td></tr><tr><td>Reference</td><td>Book 13 Hadith 37</td></tr></tbody></table></div>
 

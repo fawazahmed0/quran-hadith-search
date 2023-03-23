@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী ইবনু খশরম (রহ.)… শুরায়হ (রহ.) থেকে বর্ণিত। তিনি বলেন আমি আয়িশা (রাঃ)-কে প্রশ্ন করলাম, নবী (সা.) ঘরে আসার পর কি করতেন? তিনি বলেন, মিসওয়াক করতেন। সহীহ: মুসলিম ২৫৩, ইবনু মাজাহ ২৯০, ইওয়াউল গালীল ৭২।
+। আলী ইবনু খাশরাম (রহঃ) ... সুরাইয়া (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি আয়িশা (রাঃ)-কে জিজ্ঞাসা করলাম, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘরে প্রবেশ করার পর প্রথমে কি করতেন? তিনি বলেনঃ মিসওয়াক করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Arabic No</td><td>8</td></tr><tr><td>Reference</td><td>Book 1 Hadith 8</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Ali bin Khasram] dia berkata; telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Şüreyh (radıyallahü anh), babasından aktararak şöyle demiştir: Âişe (radıyallahü anha)’ya: Peygamber (sallallahü aleyhi ve sellem) evine girdiğinde ilk iş olarak ne yapardı?) diye sordum. (Önce ağzını misvaklardı.) diye cevap verdi. Tahara: 15; Ebû Dâvûd, Tahara: 30
+İbn Şüreyh (radıyallahü anh), babasından aktararak şöyle demiştir: Âişe (radıyallahü anha)’ya: Peygamber (sallallahü aleyhi ve sellem) evine girdiğinde ilk iş olarak ne yapardı?) diye sordum. (Önce ağzını misvaklardı.) diye cevap verdi. Tahara: 15; Ebû Dâvûd, Tahara:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Arabic No</td><td>8</td></tr><tr><td>Reference</td><td>Book 1 Hadith 8</td></tr></tbody></table></div>
 

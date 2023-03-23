@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৭২২। মা‘কিল ইবনে ইয়াসার আল-মুযানী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট শুনেছি যে, একটি ফারায়েযের বিষয় উত্থাপিত হলো, যাতে দাদাও অন্তর্ভুক্ত ছিল। তিনি দাদাকে এক-তৃতীয়াশ বা এক-ষষ্ঠাংশ দিয়েছেন।
+। মা‘কিল ইবনে ইয়াসার আল-মুযানী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট শুনেছি যে, একটি ফারায়েযের বিষয় উত্থাপিত হলো, যাতে দাদাও অন্তর্ভুক্ত ছিল। তিনি দাদাকে এক-তৃতীয়াশ বা এক-ষষ্ঠাংশ দিয়েছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2722</td></tr><tr><td>Arabic No</td><td>2722</td></tr><tr><td>Reference</td><td>Book 23 Hadith 4</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কামিল .... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ তোমরা প্রাপ্ত বা অপ্রাপ্ত বয়স্কা ইয়াতীম (মা-বাপ হারা) মেয়ের বিবাহে স্বীকারোক্তি গ্রহণ করবে। আর সে যদি চুপ করে থাকে, তবে তা-ই তার জন্য স্বীকারোক্তি। আর সে যদি বিবাহে অস্বীকৃতি জ্ঞাপন করে, তবে তার উপর কোন যুলুম করবে না। রাবী ইয়াযীদ বর্ণিত হাদীসে ইখতিয়ার (ইচ্ছা) শব্দটি উল্লেখ আছে। ইমাম আবূ দাঊদ (রহঃ) আয়েশা (রাঃ) হতে বর্ণনা করেছেন। তিনি বলেন, আমি বললাম, ইয়া রাসূলাল্লাহ্! কুমারী মেয়েরা (বিবাহে) স্বীকারোক্তি করতে লজ্জাবোধ করে। তিনি বলেন, কুমারী মেয়ের চুপ থাকাই তার জন্য স্বীকারোক্তি।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইয়াতীম কুমারী মেয়ে থেকে সরাসরি সম্মতি নিতে হবে। তার চুপ থাকাই তার সম্মতি। সে অসম্মতি প্রকাশ করলে তার উপর কোনো জবরদস্তি করা চলবে না।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2093</td></tr><tr><td>Arabic No</td><td>2093</td></tr><tr><td>Reference</td><td>Book 12 Hadith 48</td></tr></tbody></table></div>
 

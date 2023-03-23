@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুফ্ইয়ান ইবনু আবূ যুহাইর (রাঃ) হতে বর্ণিত। যিনি আযদ-শানূ‘আ গোত্রের লোক, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর একজন সাহাবী ছিলেন। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, যে ব্যক্তি এমন কুকুর পোষে যা ক্ষেত ও গবাদি পশুর হিফাযতের কাজে লাগে না, প্রতিদিন তার নেক আমল হতে এক কীরাত পরিমাণ কমতে থাকে। আমি বললাম, আপনি কি এটা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে শুনেছেন? তিনি বললেন, হ্যাঁ, এ মসজিদের প্রতিপালকের কসম (আমি তাঁর কাছেই শুনেছি)। (৩৩২৫, মুসলিম ২২/১০, হাঃ ১৫৭৬, আহমাদ ২১৯৭২) (আধুনিক প্রকাশনীঃ ২১৫৫, ইসলামিক ফাউন্ডেশনঃ ২১৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সুফ্ইয়ান ইবনু আবূ যুহাইর (রাঃ) হতে বর্ণিত। যিনি আযদ-শানূ‘আ গোত্রের লোক, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর একজন সাহাবী ছিলেন। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, যে ব্যক্তি এমন কুকুর পোষে যা ক্ষেত ও গবাদি পশুর হিফাযতের কাজে লাগে না, প্রতিদিন তার নেক আমল হতে এক কীরাত পরিমাণ কমতে থাকে। আমি বললাম, আপনি কি এটা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে শুনেছেন? তিনি বললেন, হ্যাঁ, এ মসজিদের প্রতিপালকের কসম (আমি তাঁর কাছেই শুনেছি)। (৩৩২৫, মুসলিম ২২/১০, হাঃ ১৫৭৬, আহমাদ ২১৯৭২) (আধুনিক প্রকাশনীঃ ২১৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 41 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: ‘அஸ்த் ஷனூஆ’ குலத்தைச் சேர்ந்த சுஃப்யான் பின் அபீஸுஹைர் (ரலி) அவர்கள் என்னிடம், ‘‘ யிவிவசாயப் பண்ணையையோ கால்நடைகளையோ பாதுகாக்கும் தேவை எதுவும் இன்றி எவர் நாய் வைத்திருக்கிறாரோ அவரது நற்செயல்களிலிருந்து ஒவ்வொரு நாளும் ஒரு யிகீராத்’ அளவுக்கு (நன்மை) குறைந்து விடும்’ என்று நபி (ஸல்) அவர்கள் கூற நான் கேட்டேன்” என்று சொன்னார்கள். நான், ‘‘இதை நீங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து (நேரடியாகக்) கேட்டீர்களா?” என்று வினவினேன். சுஃப்யான் பின் அபீ ஸுஹைர் (ரலி) அவர்கள், ‘‘ஆம்; இந்தப் பள்ளிவாசலின் அதிபதி (அல்லாஹ்வின்) மீது ஆணையாக! அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து நானே நேரடியாகச் செவியுற்றேன்” என்று பதிலளித்தார்கள். அத்தியாயம் : 41
+சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: ‘அஸ்த் ஷனூஆ’ குலத்தைச் சேர்ந்த சுஃப்யான் பின் அபீஸுஹைர் (ரலி) அவர்கள் என்னிடம், ‘‘ யிவிவசாயப் பண்ணையையோ கால்நடைகளையோ பாதுகாக்கும் தேவை எதுவும் இன்றி எவர் நாய் வைத்திருக்கிறாரோ அவரது நற்செயல்களிலிருந்து ஒவ்வொரு நாளும் ஒரு யிகீராத்’ அளவுக்கு (நன்மை) குறைந்து விடும்’ என்று நபி (ஸல்) அவர்கள் கூற நான் கேட்டேன்” என்று சொன்னார்கள். நான், ‘‘இதை நீங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து (நேரடியாகக்) கேட்டீர்களா?” என்று வினவினேன். சுஃப்யான் பின் அபீ ஸுஹைர் (ரலி) அவர்கள், ‘‘ஆம்; இந்தப் பள்ளிவாசலின் அதிபதி (அல்லாஹ்வின்) மீது ஆணையாக! அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து நானே நேரடியாகச் செவியுற்றேன்” என்று பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 41 Hadith 4</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ezd-i Şenue kabilesinden Süfyan İbn Ebu Züheyr adlı sahabı, "Resulullah Sallallahu Aleyhi ve Sellem'i şöyle buyururken işittim" demiştir: "Zirai gereklilik ya da çoban köpeği olma amacı bulunmadığı halde köpek edinen kimsenin, hergün amelinden bir kırat eksilir." (Saib İbn Yezid), "Ben ona, sen gerçekten bu sözü Resulullah'tan işittin mi?" diye sordum. O da bana, "Şu mescidin Rabbine yemin olsun ki evet işittim" diye cevap verdi" demiştir. Tekrar: 3325
+Ezd-i Şenue kabilesinden Süfyan İbn Ebu Züheyr adlı sahabı, "Resulullah Sallallahu Aleyhi ve Sellem'i şöyle buyururken işittim" demiştir: "Zirai gereklilik ya da çoban köpeği olma amacı bulunmadığı halde köpek edinen kimsenin, hergün amelinden bir kırat eksilir." (Saib İbn Yezid), "Ben ona, sen gerçekten bu sözü Resulullah'tan işittin mi?" diye sordum. O da bana, "Şu mescidin Rabbine yemin olsun ki evet işittim" diye cevap verdi" demiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 41 Hadith 4</td></tr></tbody></table></div>
 

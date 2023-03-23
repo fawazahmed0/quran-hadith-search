@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২১৭৬, আন্তর্জাতিক নাম্বারঃ ৯৮৫ ২১৭৬-(২০/...) মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... আবূ সাঈদ আল খুদরী (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমরা তিন প্রকারের জিনিস যথা- পনির, খেজুর ও বার্লি দিয়ে ফিতরা আদায় করতাম। (ইসলামিক ফাউন্ডেশন ২১৫৫, ইসলামীক সেন্টার ২১৫৮)
+মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... আবূ সাঈদ আল খুদরী (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমরা তিন প্রকারের জিনিস যথা- পনির, খেজুর ও বার্লি দিয়ে ফিতরা আদায় করতাম। (ইসলামিক ফাউন্ডেশন ২১৫৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2286</td></tr><tr><td>Arabic No</td><td>985.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 24</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நாங்கள் பாலாடைக்கட்டி, பேரீச்சம் பழம், தோல் நீக்கப்படாத (வாற்)கோதுமை ஆகிய மூன்று இனங்களிலிருந்தே நோன்புப் பெருநாள் தர்மத்தை வழங்கிவந்தோம். அத்தியாயம் : 12
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நாங்கள் பாலாடைக்கட்டி, பேரீச்சம் பழம், தோல் நீக்கப்படாத (வாற்)கோதுமை ஆகிய மூன்று இனங்களிலிருந்தே நோன்புப் பெருநாள் தர்மத்தை வழங்கிவந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2286</td></tr><tr><td>Arabic No</td><td>985.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 24</td></tr></tbody></table></div>
 

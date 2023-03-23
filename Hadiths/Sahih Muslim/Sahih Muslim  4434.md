@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৩২৬, আন্তর্জাতিক নাম্বারঃ ১৬৯৬ ৪৩২৬-(.../...) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... ইয়াহইয়া ইবনু আবূ কাসির (রহঃ) হতে একই সূত্রে উল্লেখিত হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪২৮৫, ইসলামিক সেন্টার ৪২৮৬)
+আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... ইয়াহইয়া ইবনু আবূ কাসির (রহঃ) হতে একই সূত্রে উল্লেখিত হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪২৮৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4434</td></tr><tr><td>Arabic No</td><td>1696.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 37</td></tr></tbody></table></div>
 

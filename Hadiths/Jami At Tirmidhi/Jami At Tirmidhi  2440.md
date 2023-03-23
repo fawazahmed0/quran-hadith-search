@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৪৪০। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমার উম্মাতের মধ্যে কেউ বিরাট জনগোষ্ঠীর জন্য সুপারিশ করবে, কেউ একটি গোত্রের জন্য, কেউ একটি ছোট দলের জন্য, কেউ একজন লোকের জন্য সুপারিশ করবে এবং তারা জান্নাতে প্রবেশ করবে। যঈফ, মিশকাত (৫৬০২) আবূ ঈসা বলেন, এ হাদীসটি হাসান।
+। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমার উম্মাতের মধ্যে কেউ বিরাট জনগোষ্ঠীর জন্য সুপারিশ করবে, কেউ একটি গোত্রের জন্য, কেউ একটি ছোট দলের জন্য, কেউ একজন লোকের জন্য সুপারিশ করবে এবং তারা জান্নাতে প্রবেশ করবে। যঈফ, মিশকাত (৫৬০২) আবূ ঈসা বলেন, এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2440</td></tr><tr><td>Arabic No</td><td>2440</td></tr><tr><td>Reference</td><td>Book 37 Hadith 26</td></tr></tbody></table></div>
 

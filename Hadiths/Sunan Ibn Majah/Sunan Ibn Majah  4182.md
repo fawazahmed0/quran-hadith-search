@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৪১৮২। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয় প্রতিটি ধর্মের একটি স্বতন্ত্র বৈশিষ্ট্য আছে। ইসলামের স্বতন্ত্র বৈশিষ্ট্য হলো ‘লজ্জাশলীতা’।
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয় প্রতিটি ধর্মের একটি স্বতন্ত্র বৈশিষ্ট্য আছে। ইসলামের স্বতন্ত্র বৈশিষ্ট্য হলো ‘লজ্জাশলীতা’।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4182</td></tr><tr><td>Arabic No</td><td>4182</td></tr><tr><td>Reference</td><td>Book 37 Hadith 83</td></tr></tbody></table></div>
 

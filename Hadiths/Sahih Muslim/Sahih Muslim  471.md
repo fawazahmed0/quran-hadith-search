@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৫৯, আন্তর্জাতিক নাম্বারঃ ১৯১ ৩৫৯-(৩১৮/...) আবূ রাবী ... হাম্মদ ইবনু যায়দ (রহঃ) থেকে বর্ণনা করেন। তিনি বলেন, 'আমর ইবনু দীনারকে আমি জিজ্ঞেস করলাম, আপনি কি জাবির ইবনু ‘আবদুল্লাহ (রাযিঃ) কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হাদীস বর্ণনা করতে শুনেছেন যে, আল্লাহ তা'আলা কতিপয় মানুষকে শাফাআতের মাধ্যমে জাহান্নাম থেকে বের করবেন। তখন তিনি বললেন, হ্যাঁ! (ইসলামিক ফাউন্ডেশনঃ ৩৬৭, ইসলামিক সেন্টারঃ ৩৭৮)
+আবূ রাবী ... হাম্মদ ইবনু যায়দ (রহঃ) থেকে বর্ণনা করেন। তিনি বলেন, 'আমর ইবনু দীনারকে আমি জিজ্ঞেস করলাম, আপনি কি জাবির ইবনু ‘আবদুল্লাহ (রাযিঃ) কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হাদীস বর্ণনা করতে শুনেছেন যে, আল্লাহ তা'আলা কতিপয় মানুষকে শাফাআতের মাধ্যমে জাহান্নাম থেকে বের করবেন। তখন তিনি বললেন, হ্যাঁ! (ইসলামিক ফাউন্ডেশনঃ ৩৬৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>471</td></tr><tr><td>Arabic No</td><td>191.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 377</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu ar-Rabi'] telah menceritakan kepada kami [Ha
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹம்மாத் பின் ஸைத் (ரஹ்) அவர்கள் கூறியதாவது: நான் அம்ர் பின் தீனார் (ரஹ்) அவர்களிடம், "மக்களில் சிலரைப் பரிந்துரையின் பேரில் அல்லாஹ் நரகத்திலிருந்து வெளியேற்றுவான் என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறியதாக ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிப்பதை நீங்கள் செவியுற்றீர்களா?" என்று கேட்டேன். அதற்கு அவர்கள், "ஆம்" என்றார்கள். அத்தியாயம் : 1
+ஹம்மாத் பின் ஸைத் (ரஹ்) அவர்கள் கூறியதாவது: நான் அம்ர் பின் தீனார் (ரஹ்) அவர்களிடம், "மக்களில் சிலரைப் பரிந்துரையின் பேரில் அல்லாஹ் நரகத்திலிருந்து வெளியேற்றுவான் என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறியதாக ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிப்பதை நீங்கள் செவியுற்றீர்களா?" என்று கேட்டேன். அதற்கு அவர்கள், "ஆம்" என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>471</td></tr><tr><td>Arabic No</td><td>191.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 377</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu ar-Rabi'] telah menceritakan kepada kami [Ha
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Rabi'de tahdis etti. Bize Hammad b. Zeyd tahdis edip dedi ki: Amr b. Dinar'a sordum: Cabir b. Abdullah'ı Resulullah (Sallallahu aleyhi ve Sellem)'den: "Şüphesiz Allah şefaat ile cehennem ateşinden birtakım kimseleri çıkartacaktır" diye tahdis ederken dinledin mi dedim. O, evet dedi. Diğer tahric: Buhari, 6558; Tuhfetu'l-Eşraf, 2514
+Bize Ebu Rabi'de tahdis etti. Bize Hammad b. Zeyd tahdis edip dedi ki: Amr b. Dinar'a sordum: Cabir b. Abdullah'ı Resulullah (Sallallahu aleyhi ve Sellem)'den: "Şüphesiz Allah şefaat ile cehennem ateşinden birtakım kimseleri çıkartacaktır" diye tahdis ederken dinledin mi dedim. O, evet dedi. Diğer tahric: Buhari, 6558; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>471</td></tr><tr><td>Arabic No</td><td>191.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 377</td></tr></tbody></table></div>
 

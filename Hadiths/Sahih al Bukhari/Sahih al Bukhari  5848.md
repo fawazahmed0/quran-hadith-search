@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছিলেন মাঝারি আকৃতির। আমি তাঁকে লাল হুল্লা পরা অবস্থায় দেখেছি। তাঁর চেয়ে অধিক সুন্দর আর কিছু আমি দেখিনি। [৩৫৫১] (আধুনিক প্রকাশনী- ৫৪২২, ইসলামিক ফাউন্ডেশন- ৫৩১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছিলেন মাঝারি আকৃতির। আমি তাঁকে লাল হুল্লা পরা অবস্থায় দেখেছি। তাঁর চেয়ে অধিক সুন্দর আর কিছু আমি দেখিনি। [৩৫৫১] (আধুনিক প্রকাশনী- ৫৪২২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5848</td></tr><tr><td>Arabic No</td><td>5848</td></tr><tr><td>Reference</td><td>Book 77 Hadith 65</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Sy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(பராஉ ர) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (அதிக உயரமாகவுமில்லாமல் குட்டையாகவும் இல்லாமல்) நடுத்தர உயரமுள்ளவர்களாய் இருந்தார்கள். சிவப்புநிற அங்கி ஒன்றில் அவர்களை நான் பார்த்திருக்கிறேன். (அந்த ஆடையில்) நபி (ஸல்) அவர்களைவிட அழகான எவரையும் எப்போதும் நான் கண்டதேயில்லை.67 அத்தியாயம் : 77
+(பராஉ ர) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (அதிக உயரமாகவுமில்லாமல் குட்டையாகவும் இல்லாமல்) நடுத்தர உயரமுள்ளவர்களாய் இருந்தார்கள். சிவப்புநிற அங்கி ஒன்றில் அவர்களை நான் பார்த்திருக்கிறேன். (அந்த ஆடையில்) நபி (ஸல்) அவர்களைவிட அழகான எவரையும் எப்போதும் நான் கண்டதேயில்லை.67 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5848</td></tr><tr><td>Arabic No</td><td>5848</td></tr><tr><td>Reference</td><td>Book 77 Hadith 65</td></tr></tbody></table></div>
 

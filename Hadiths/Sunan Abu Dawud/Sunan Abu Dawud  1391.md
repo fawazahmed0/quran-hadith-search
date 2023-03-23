@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন হাফস (রহঃ) ..... আবদুল্লাহ ইবন আমর (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম আমাকে বলেনঃ তুমি এক মাসে কুরআন খতম করবে। আমি বলিঃ এর চাইতে কম সময়ে খতম করার ক্ষমতা আমার আছে। তিনি বলেনঃ তবে তিন দিনে খতম করবে।
+। ‘আবদুল্লাহ ইবনু ‘আমর রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ তুমি কুরআন এক মাসে খতম করবে। তিনি বলেন, আমার এর চেয়ে অধিক শক্তি আছে। তিনি বললেনঃ তাহলে তিন দিনে খতম করবে।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1391</td></tr><tr><td>Arabic No</td><td>1391</td></tr><tr><td>Reference</td><td>Book 6 Hadith 21</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... আমর ইবন শুআইব (রহঃ) তাঁর পিতা হতে এবং তিনি তাঁর দাদা থেকে বর্ণনা করেছেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তির স্ত্রীর জন্য তার স্বামীর মাল হতে কিছু দান করা জাইয নয়, যতক্ষণ না তার স্বামী তার সতীত্বের মালিক থাকে।
+। ‘আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ স্বামী যদি স্ত্রীর সতীত্বের হিফাযাতকারী হয় তাহলে কোনো স্ত্রীর পক্ষে (স্বামীর বিনা অনুমতিতে) তার মাল থেকে ব্যয় করা জায়িয নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3546</td></tr><tr><td>Arabic No</td><td>3546</td></tr><tr><td>Reference</td><td>Book 24 Hadith 131</td></tr></tbody></table></div>
 

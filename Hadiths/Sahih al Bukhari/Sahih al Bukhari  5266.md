@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ঈদ ইবনু যুবায়র (রহ.) হতে বর্ণিত। তিনি ইবনু ‘আব্বাস (রাঃ)-কে বলতে শুনেছেন যে, কোন ব্যক্তি তার স্ত্রীকে হারাম বলে ঘোষণা দেয় সে ক্ষেত্রে কিছু অর্থাৎ তালাক হয় না। তিনি আরও বলেনঃ ‘‘নিশ্চয় তোমাদের জন্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মধ্যে রয়েছে উত্তম আদর্শ।’’সূরাহ আল-আহযাবঃ ২১)[৪৯১১] আধুনিক প্রকাশনী- ৪৮৮০, ইসলামিক ফাউন্ডেশন- ৪৭৭৫
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘ঈদ ইবনু যুবায়র (রহ.) হতে বর্ণিত। তিনি ইবনু ‘আব্বাস (রাঃ)-কে বলতে শুনেছেন যে, কোন ব্যক্তি তার স্ত্রীকে হারাম বলে ঘোষণা দেয় সে ক্ষেত্রে কিছু অর্থাৎ তালাক হয় না। তিনি আরও বলেনঃ ‘‘নিশ্চয় তোমাদের জন্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মধ্যে রয়েছে উত্তম আদর্শ।’’সূরাহ আল-আহযাবঃ ২১)[৪৯১১] আধুনিক প্রকাশনী- ৪৮৮০, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5266</td></tr><tr><td>Arabic No</td><td>5266</td></tr><tr><td>Reference</td><td>Book 68 Hadith 16</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Sa'id bin Jubair:that he heard Ibn 'Abbas saying, "If a man makes his w
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Al Hasan bin Shabbah] Ia mendengar [Ar Robi' bin Nafi'] Telah menceritakan kepada kami [Mu'awiyah] dari [Yahya bin Abu Katsir] dari [Ya'la bin Hakim] dari [Sa'id bin Jubair] bahwa ia telah mengabarkan kepadanya bahwa ia mendengar [Ibnu Abbas] berkata; "Bila seseorang mengharamkan isterinya seperti mengatakan 'Engkau sekarang bagiku bukan apa-apanya lagi', maka itu harus membayar kaffarat", lantas ia membacakan ayat, "Sesungguhnya pada diri Rasulullah terdapat suri tauladan bagi kalian." (QS. AL-Ahzab 21)
+Telah menceritakan kepadaku [Al Hasan bin Shabbah] Ia mendengar [Ar Robi' bin Nafi'] Telah menceritakan kepada kami [Mu'awiyah] dari [Yahya bin Abu Katsir] dari [Ya'la bin Hakim] dari [Sa'id bin Jubair] bahwa ia telah mengabarkan kepadanya bahwa ia mendengar [Ibnu Abbas] berkata; "Bila seseorang mengharamkan isterinya seperti mengatakan 'Engkau sekarang bagiku bukan apa-apanya lagi', maka itu harus membayar kaffarat", lantas ia membacakan ayat, "Sesungguhnya pada diri Rasulullah terdapat suri tauladan bagi kalian." (QS. AL-Ahzab)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5266</td></tr><tr><td>Arabic No</td><td>5266</td></tr><tr><td>Reference</td><td>Book 68 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Al Hasan bin Shabbah] Ia mendengar [Ar Robi' bin Na
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள், ‘‘ஒருவர் (தம் மனைவியை நோக்கி) ‘அவள் எனக்கு ஹராம் (விலக்கப்பட்டவள்)’ என்று கூறினால் அது (மணவிலக்காகக் கருதப்படும்) ஒரு விஷயமே அல்ல” என்று கூறிவிட்டு, ‘‘உறுதியாக அல்லாஹ்வின் தூதரில் உங்களுக்கு ஓர் அழகிய முன்மாதிரி இருக்கிறது” (33:21) என்றும் கூறினார்கள்.21 அத்தியாயம் : 68
+சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள், ‘‘ஒருவர் (தம் மனைவியை நோக்கி) ‘அவள் எனக்கு ஹராம் (விலக்கப்பட்டவள்)’ என்று கூறினால் அது (மணவிலக்காகக் கருதப்படும்) ஒரு விஷயமே அல்ல” என்று கூறிவிட்டு, ‘‘உறுதியாக அல்லாஹ்வின் தூதரில் உங்களுக்கு ஓர் அழகிய முன்மாதிரி இருக்கிறது” (33:21) என்றும் கூறினார்கள்.21 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5266</td></tr><tr><td>Arabic No</td><td>5266</td></tr><tr><td>Reference</td><td>Book 68 Hadith 16</td></tr></tbody></table></div>
 

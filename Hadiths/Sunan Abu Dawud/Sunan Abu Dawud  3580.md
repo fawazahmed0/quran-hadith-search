@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন ইউনুস (রহঃ) ..... আবদুল্লাহ্‌ ইবন আমর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘুষদাতা এবং গ্রহীতার উপর লা'নত করেছেন।
+। আব্দুল্লাহ ইবনু আমর ইবনুল আস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘুষ দাতা ও ঘুষ গ্রহীতাকে অভিসম্পাত করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3580</td></tr><tr><td>Arabic No</td><td>3580</td></tr><tr><td>Reference</td><td>Book 25 Hadith 10</td></tr></tbody></table></div>
 

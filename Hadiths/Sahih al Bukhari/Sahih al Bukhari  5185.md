@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামবলেন, যে আল্লাহ্ এবং আখিরাতের ওপর বিশ্বাস রাখে, সে যেন আপন প্রতিবেশীকে কষ্ট না দেয়। [৬০১৮, ৬১৩৬, ৬১৩৮, ৬৪৭৫] (আধুনিক প্রকাশনী- ৪৮০৪, ইসলামিক ফাউন্ডেশন- ৪৮০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আর তোমরা নারীদের সঙ্গে সদ্ব্যবহার করবে। কেননা, তাদেরকে সৃষ্টি করা হয়েছে পাঁজরার হাড় থেকে এবং সবচেয়ে বাঁকা হচ্ছে পাঁজরার ওপরের হাড়। যদি তা সোজা করতে যাও, তাহলে ভেঙ্গে যাবে। আর যদি তা যেভাবে আছে সেভাবে রেখে দাও তাহলে বাঁকাই থাকবে। অতএব, তোমাদেরকে ওসীয়ত করা হলো নারীদের সঙ্গে সদ্ব্যবহার করার জন্য। [৩৩৩১](আধুনিক প্রকাশনী- ৪৮০৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

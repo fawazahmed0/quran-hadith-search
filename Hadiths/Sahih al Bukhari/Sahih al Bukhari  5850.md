@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাসলামা সা‘ঈদ হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-কে জিজ্ঞেস করেছি, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘না‘লাই’[1] পায়ে রেখে সালাত আদায় করেছেন কি? তিনি বলেছেনঃ হ্যাঁ। [৩৮৬] (আধুনিক প্রকাশনী- ৫৪২৪, ইসলামিক ফাউন্ডেশন- ৫৩২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাসলামা সা‘ঈদ হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-কে জিজ্ঞেস করেছি, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘না‘লাই’[1] পায়ে রেখে সালাত আদায় করেছেন কি? তিনি বলেছেনঃ হ্যাঁ। [৩৮৬] (আধুনিক প্রকাশনী- ৫৪২৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5850</td></tr><tr><td>Arabic No</td><td>5850</td></tr><tr><td>Reference</td><td>Book 77 Hadith 67</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சயீத் அபூமஸ்லமா (ரஹ்) அவர்கள் கூறியதாவது: நான் அனஸ் (ரலி) அவர்களிடம், ‘‘நபி (ஸல்) அவர்கள் தம் காலணிகளுடன் தொழுதுவந்தார்களா?” என்று கேட்டேன். அவர்கள், ‘‘ஆம் (தொழுதுவந்தார்கள்)” என்று சொன்னார்கள்.69 அத்தியாயம் : 77
+சயீத் அபூமஸ்லமா (ரஹ்) அவர்கள் கூறியதாவது: நான் அனஸ் (ரலி) அவர்களிடம், ‘‘நபி (ஸல்) அவர்கள் தம் காலணிகளுடன் தொழுதுவந்தார்களா?” என்று கேட்டேன். அவர்கள், ‘‘ஆம் (தொழுதுவந்தார்கள்)” என்று சொன்னார்கள்.69 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5850</td></tr><tr><td>Arabic No</td><td>5850</td></tr><tr><td>Reference</td><td>Book 77 Hadith 67</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবদুল্লাহ্‌ ইবন আমর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তির মাল কেউ নাহকভাবে (চুরি করে) নিতে, আর সে ব্যক্তি চোরের মুকাবিলা করার সময় নিহত হয়, সে শহীদ হবে।
+। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কারো সম্পদ অন্যায়ভাবে গ্রাস করার উপক্রম হলে এবং সে তা প্রতিরোধ করতে গিয়ে হত্যা হলে সে শহীদ বলে গণ্য হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4771</td></tr><tr><td>Arabic No</td><td>4771</td></tr><tr><td>Reference</td><td>Book 42 Hadith 176</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer'den (rivayet edildiğine göre) Nebi (s.a.v.) (şöyle) buyurmuştur: "Malı haksızlıkla elinden alınmak istenen bir kimse malını korumak için mücadeleye girişir de (bu "yüzden) öldürülürse o kimse şehiddir." Tahric edenler: Tirmizi, diyât; Nesâi, tahrimü'd-dem; İbn Mâce, hudûd; Buhari, mezâlim; Müslim, îman; Ahmed b. Hanbel, I, 79, 187, 190, 305; II 163, 193, 194, 205, 206, 210,215,217,217,221,224
+Abdullah İbn Ömer'den (rivayet edildiğine göre) Nebi (s.a.v.) (şöyle) buyurmuştur: "Malı haksızlıkla elinden alınmak istenen bir kimse malını korumak için mücadeleye girişir de (bu "yüzden) öldürülürse o kimse şehiddir." Tahric edenler: Tirmizi, diyât; Nesâi, tahrimü'd-dem; İbn Mâce, hudûd; Buhari, mezâlim; Müslim, îman; Ahmed b. Hanbel, I, 79, 187, 190, 305; II 163, 193, 194, 205
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4771</td></tr><tr><td>Arabic No</td><td>4771</td></tr><tr><td>Reference</td><td>Book 42 Hadith 176</td></tr></tbody></table></div>
 

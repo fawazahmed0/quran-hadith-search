@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইব্‌ন আবু শায়বা (রহঃ) .... ইব্‌ন ইসহাক হতে বর্ণিত ... উপরোক্ত হাদীছের অনুরূপ। রাবী (আবদুল্লাহ) এইরূপ অতিরিক্ত বর্ণনা করেছেনঃ “আমাদের নিকট হতে তোমার মাল নিয়ে যাও, আমাদের এর কোন প্রয়োজন নাই।”
+। ইবনু ইসহাক (রহঃ) হতে উল্লেখিত সানাদে অনুরূপ অর্থের হাদীস বর্ণিত। তাতে আরো রয়েছেঃ ‘তুমি তোমার মাল নিয়ে যাও, আমাদের এর কোনই প্রয়োজন নেই’।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>1674</td></tr><tr><td>Reference</td><td>Book 9 Hadith 119</td></tr></tbody></table></div>
 

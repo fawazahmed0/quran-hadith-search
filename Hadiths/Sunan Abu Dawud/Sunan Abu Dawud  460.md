@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু ইসহাক .... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। (অধস্তন রাবী) আবূ বদর শুজা ইবনুল ওয়ালীদ (রহঃ) বলেন, শরীক এ হাদীছের সনদ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পর্যন্ত উন্নীত করেছেন। মহানবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ মসজিদের প্রস্তর টুকরাগুলি সেই ব্যক্তিকে আল্লাহর নামে শপথ দেয়- যে তাদেরকে মসজিদ থেকে বাইরে বের করে।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। আবূ বাদর (রাঃ) বলেন, আমার মতে হাদীসটি তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পর্যন্ত সানাদ পৌঁছিয়ে মারফূ' ভাবেই বর্ণনা করেছেন। অর্থাৎ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পাথর কুচি তার অপসারণকারীকে এ মর্মে শপথ দেয় যে-তাকে যেন মাসজিদ থেকে বের করা না হয়।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>460</td></tr><tr><td>Arabic No</td><td>460</td></tr><tr><td>Reference</td><td>Book 2 Hadith 70</td></tr></tbody></table></div>
 

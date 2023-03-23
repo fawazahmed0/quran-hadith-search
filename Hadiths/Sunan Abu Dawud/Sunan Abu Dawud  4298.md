@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যুদ্ধের দিন মুসলিমদের শিবির স্থাপন করা হবে ‘গূতা’ নামক শহরে, যা সিরিয়ার সর্বোত্তম শহর দামিশকের পাশে অবস্থিত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4298</td></tr><tr><td>Arabic No</td><td>4298</td></tr><tr><td>Reference</td><td>Book 39 Hadith 8</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Hisyam bin Ammar] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu'd-Derda (r.a)den, Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: "Büyük savaş gününde müslümanların çadırı (kalesi) Şam'ın en hayırlı şehirlerinden olan Dimeşk adındaki şehir tarafındaki Guta da olacaktır. Ayrıca Tahric: Ahmed b. Hanbel VI, 25
+Ebu'd-Derda (r.a)den, Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: "Büyük savaş gününde müslümanların çadırı (kalesi) Şam'ın en hayırlı şehirlerinden olan Dimeşk adındaki şehir tarafındaki Guta da olacaktır. Ayrıca Tahric: Ahmed b. Hanbel VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4298</td></tr><tr><td>Arabic No</td><td>4298</td></tr><tr><td>Reference</td><td>Book 39 Hadith 8</td></tr></tbody></table></div>
 

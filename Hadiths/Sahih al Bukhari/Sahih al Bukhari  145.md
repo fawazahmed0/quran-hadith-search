@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেনঃ ‘লোকে বলে পেশাব পায়খানা করার সময় ক্বিবলা (কিবলা/কেবলা)হর দিকে এবং বাইতুল মুকাদ্দাসের দিকে মুখ করে বসবে না।’ ‘আবদুল্লাহ্ ইব্ন ‘উমার (রাযি.) বলেন, ‘আমি একদা আমাদের ঘরের ছাদে উঠলাম। অতঃপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দেখলাম বাইতুল মুকাদ্দাসের দিকে মুখ করে দু’টি ইটের উপর স্বীয় প্রয়োজনে বসেছেন। তিনি [ওয়াসী (রহ.)-কে] বললেন, তুমি বোধ হয় তাদের মধ্যে শামিল, যারা পাছায় ভর দিয়ে সালাত আদায় করে। আমি বললাম, ‘আল্লাহর কসম! আমি জানি না।’ মালিক (রহ.) বলেন, (এর অর্থ হলো) যারা সালাত আদায় করে এবং মাটি থেকে পাছা না উঠিয়ে সিজদা দেয়। (১৪৮,১৪৯,৩১০২ ; মুসলিম ২/১৭, হাঃ ২৬৬, আহমাদ ৪৮১২, ৪৯৯১) (আধুনিক প্রকাশনীঃ ১৪২ হাদীসের শেষাংশ নেই, ইসলামিক ফাউন্ডেশনঃ ১৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেনঃ ‘লোকে বলে পেশাব পায়খানা করার সময় ক্বিবলা (কিবলা/কেবলা)হর দিকে এবং বাইতুল মুকাদ্দাসের দিকে মুখ করে বসবে না।’ ‘আবদুল্লাহ্ ইব্ন ‘উমার (রাযি.) বলেন, ‘আমি একদা আমাদের ঘরের ছাদে উঠলাম। অতঃপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দেখলাম বাইতুল মুকাদ্দাসের দিকে মুখ করে দু’টি ইটের উপর স্বীয় প্রয়োজনে বসেছেন। তিনি [ওয়াসী (রহ.)-কে] বললেন, তুমি বোধ হয় তাদের মধ্যে শামিল, যারা পাছায় ভর দিয়ে সালাত আদায় করে। আমি বললাম, ‘আল্লাহর কসম! আমি জানি না।’ মালিক (রহ.) বলেন, (এর অর্থ হলো) যারা সালাত আদায় করে এবং মাটি থেকে পাছা না উঠিয়ে সিজদা দেয়। (১৪৮,১৪৯,৩১০২ ; মুসলিম ২/১৭, হাঃ ২৬৬, আহমাদ ৪৮১২, ৪৯৯১) (আধুনিক প্রকাশনীঃ ১৪২ হাদীসের শেষাংশ নেই, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 4 Hadith 11</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin 'Umar:People say, "Whenever you sit for answering the call of nature, you should not face the Qibla or Baitul-Maqdis (Jerusalem)." I told them. "Once I went up the roof of our house and I saw Allah's Apostle answering the call of nature while sitting on two bricks facing Baitul-Maqdis (Jerusalem) (but there was a screen covering him. ' (Fath-al-Bari, Page 258, Vol. 1)
+Narrated 'Abdullah bin 'Umar:People say, "Whenever you sit for answering the call of nature, you should not face the Qibla or Baitul-Maqdis (Jerusalem)." I told them. "Once I went up the roof of our house and I saw Allah's Apostle answering the call of nature while sitting on two bricks facing Baitul-Maqdis (Jerusalem) (but there was a screen covering him. ' (Fath-al-Bari, Page 258, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 4 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-வாசிஉ பின் ஹப்பான் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள், “இயற்றைக் கடனை நிறைவேற்ற நீ அமரும்போது, கிப்லாவையோ, பைத்துல் மக்திஸையோ முன்னோக்கக் கூடாது என்று மக்கள் சிலர் சொல்கிறார்கள். ஆனால், நான் ஒரு நாள் எங்கள் (ஹஃப்ஸா) வீட்டின் கூரையின் மீது (ஒரு வேலையாக) ஏறினேன். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரு செங்கற்களின் மீது பைத்துல் மக்திஸின் திசையை முன்னோக்கியபடி இயற்கைக் கடனை நிறைவேற்ற அமர்ந்திருப்பதை (தற் செயலாக)க் கண்டேன்” என்று கூறு வார்கள்.10 பிறகு என்னிடம், “புட்டங்களில் தொழுபவர்களில் நீங்களும் ஒருவரோ!” என்று கேட்டார்கள். அதற்கு நான், “அல்லாஹ்வின் மீதாணையாக! (நான் அவ்வாறு தொழுதேனா என்று) எனக்குத் தெரியாது” என்றேன். இதன் அறிவிப்பாளர்களில் ஒருவரான மாலிக் (ரஹ்) அவர்கள் கூறுகிறார்கள்: தரையுடன் (புட்டத்தை) சேர்த்துக் கொண்டவராகவும் புட்டத்தைத் தரை யிலிருந்து உயர்த்தாமலும் சஜ்தா செய்(து தொழு)பவரைத்தான் அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் (இவ்வாறு) குறிப்பிட்டார்கள். அத்தியாயம் : 4
+வாசிஉ பின் ஹப்பான் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள், “இயற்றைக் கடனை நிறைவேற்ற நீ அமரும்போது, கிப்லாவையோ, பைத்துல் மக்திஸையோ முன்னோக்கக் கூடாது என்று மக்கள் சிலர் சொல்கிறார்கள். ஆனால், நான் ஒரு நாள் எங்கள் (ஹஃப்ஸா) வீட்டின் கூரையின் மீது (ஒரு வேலையாக) ஏறினேன். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரு செங்கற்களின் மீது பைத்துல் மக்திஸின் திசையை முன்னோக்கியபடி இயற்கைக் கடனை நிறைவேற்ற அமர்ந்திருப்பதை (தற் செயலாக)க் கண்டேன்” என்று கூறு வார்கள்.10 பிறகு என்னிடம், “புட்டங்களில் தொழுபவர்களில் நீங்களும் ஒருவரோ!” என்று கேட்டார்கள். அதற்கு நான், “அல்லாஹ்வின் மீதாணையாக! (நான் அவ்வாறு தொழுதேனா என்று) எனக்குத் தெரியாது” என்றேன். இதன் அறிவிப்பாளர்களில் ஒருவரான மாலிக் (ரஹ்) அவர்கள் கூறுகிறார்கள்: தரையுடன் (புட்டத்தை) சேர்த்துக் கொண்டவராகவும் புட்டத்தைத் தரை யிலிருந்து உயர்த்தாமலும் சஜ்தா செய்(து தொழு)பவரைத்தான் அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் (இவ்வாறு) குறிப்பிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 4 Hadith 11</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Vâsi' İbn Hibban'ın rivayet ettiğine göre Abdullah İbn Ömer şöyle söylerdi: İnsanlar "Tuvalet yapmak için oturduğunda kıbleye ve Beytü'l-Makdis'e önünü dönme" diyorlar. Oysa ben birgün evlerimizden birinin üzerine çıktım. Resûlullah (Sallallahu aleyhi ve Sellem)'i tuvalet ihtiyacını görmek üzere iki tuğla üzerine oturmuş ve önünü Beytü'l-Makdis'e dönmüş olarak gördüm. (İbn Ömer, Vâsi'a şöyle dedi): "Belki de sen de karnını dizlerine yapıştırarak namaz kılanlardansın." Vâsi: "Vallahi bilmiyorum", dedi Mâlik, İbn Ömer'in burada namaz kılarken yerden uzakta durmayan, yere yapışık olanları kasdettiğini söylemiştir. Tekrar: 148, 149, 3102
+Vâsi' İbn Hibban'ın rivayet ettiğine göre Abdullah İbn Ömer şöyle söylerdi: İnsanlar "Tuvalet yapmak için oturduğunda kıbleye ve Beytü'l-Makdis'e önünü dönme" diyorlar. Oysa ben birgün evlerimizden birinin üzerine çıktım. Resûlullah (Sallallahu aleyhi ve Sellem)'i tuvalet ihtiyacını görmek üzere iki tuğla üzerine oturmuş ve önünü Beytü'l-Makdis'e dönmüş olarak gördüm. (İbn Ömer, Vâsi'a şöyle dedi): "Belki de sen de karnını dizlerine yapıştırarak namaz kılanlardansın." Vâsi: "Vallahi bilmiyorum", dedi Mâlik, İbn Ömer'in burada namaz kılarken yerden uzakta durmayan, yere yapışık olanları kasdettiğini söylemiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 4 Hadith 11</td></tr></tbody></table></div>
 

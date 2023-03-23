@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, একদিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কোন এক সহধর্মিণীর কাছে ছিলেন। উম্মুল মু’মিনীনদের অপর একজন খাদিমের মারফত এক পাত্রে খাবার পাঠালেন। তিনি তার হাতের আঘাতে পাত্রটি ভেঙ্গে ফেলেন। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা জোড়া লাগিয়ে তাতে খাবার রাখলেন এবং (সাথীদেরকে) বললেন, তোমরা খাও। যে পর্যন্ত তাঁরা খাওয়া শেষ না করলেন, সে পর্যন্ত নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পাত্রটি ও প্রেরিত খাদেমকে আটকিয়ে রাখলেন। তারপর তিনি ভাঙ্গা পাত্রটি রেখে দিয়ে একটি ভাল পাত্র ফেরত দিলেন। ইবনু আবূ মারইয়াম (রহ.) ...... আনাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত আছে। (৫২২৫) (আধুনিক প্রকাশনীঃ ২৩০২, ইসলামিক ফাউন্ডেশনঃ ২৩১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, একদিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কোন এক সহধর্মিণীর কাছে ছিলেন। উম্মুল মু’মিনীনদের অপর একজন খাদিমের মারফত এক পাত্রে খাবার পাঠালেন। তিনি তার হাতের আঘাতে পাত্রটি ভেঙ্গে ফেলেন। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা জোড়া লাগিয়ে তাতে খাবার রাখলেন এবং (সাথীদেরকে) বললেন, তোমরা খাও। যে পর্যন্ত তাঁরা খাওয়া শেষ না করলেন, সে পর্যন্ত নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পাত্রটি ও প্রেরিত খাদেমকে আটকিয়ে রাখলেন। তারপর তিনি ভাঙ্গা পাত্রটি রেখে দিয়ে একটি ভাল পাত্র ফেরত দিলেন। ইবনু আবূ মারইয়াম (রহ.) ...... আনাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত আছে। (৫২২৫) (আধুনিক প্রকাশনীঃ ২৩০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2481</td></tr><tr><td>Arabic No</td><td>2481</td></tr><tr><td>Reference</td><td>Book 46 Hadith 42</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறி னார்கள்: நபி (ஸல்) அவர்கள் தம் துணைவியரில் ஒருவரிடம் (ஆயிஷா (ரலி) அவர்களிடம்) இருந்தார்கள். இறைநம்பிக்கையாளர்களின் அன்னையரில் (நபியவர்களின் துணைவியரில்) ஒருவர் பணிப்பெண் ஒருவரிடம் உணவுள்ள தட்டு ஒன்றைக் கொடுத்தனுப்பினார்கள். அவர் (ஆயிஷா) அந்தப் பணிப் பெண்ணின் கையைத் தட்டி தட்டை உடைத்துவிட்டார். நபி (ஸல்) அவர்கள் அந்த உடைந்த தட்டை ஒன்று சேர்த்து, உணவை அதில் எடுத்து வைத்து (தம் தோழர்களிடம்), ‘‘உண்ணுங்கள்” என்று கூறினார்கள். அவர்கள் உண்டு முடிக்கும்வரை தட்டையும் அதைக் கொண்டுவந்த பணிப் பெண்ணையும் அங்கேயே நிறுத்தி வைத்தார்கள். (அனைவரும் உண்டு முடித்த பின்பு) உடைந்த தட்டைத் தம்மிடமே வைத்துக்கொண்டு (உடையாத) நல்ல தட்டைக் கொடுத்து (அனுப்பி) விட்டார்கள்.22 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 46
+அனஸ் (ரலி) அவர்கள் கூறி னார்கள்: நபி (ஸல்) அவர்கள் தம் துணைவியரில் ஒருவரிடம் (ஆயிஷா (ரலி) அவர்களிடம்) இருந்தார்கள். இறைநம்பிக்கையாளர்களின் அன்னையரில் (நபியவர்களின் துணைவியரில்) ஒருவர் பணிப்பெண் ஒருவரிடம் உணவுள்ள தட்டு ஒன்றைக் கொடுத்தனுப்பினார்கள். அவர் (ஆயிஷா) அந்தப் பணிப் பெண்ணின் கையைத் தட்டி தட்டை உடைத்துவிட்டார். நபி (ஸல்) அவர்கள் அந்த உடைந்த தட்டை ஒன்று சேர்த்து, உணவை அதில் எடுத்து வைத்து (தம் தோழர்களிடம்), ‘‘உண்ணுங்கள்” என்று கூறினார்கள். அவர்கள் உண்டு முடிக்கும்வரை தட்டையும் அதைக் கொண்டுவந்த பணிப் பெண்ணையும் அங்கேயே நிறுத்தி வைத்தார்கள். (அனைவரும் உண்டு முடித்த பின்பு) உடைந்த தட்டைத் தம்மிடமே வைத்துக்கொண்டு (உடையாத) நல்ல தட்டைக் கொடுத்து (அனுப்பி) விட்டார்கள்.22 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2481</td></tr><tr><td>Arabic No</td><td>2481</td></tr><tr><td>Reference</td><td>Book 46 Hadith 42</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem hanımlarından birinin yanında bulunuyordu. mu'minlerin annelerinden biri, onun bulunduğu odaya içinde yemek olan bir tencere gönderdi. Hz. Nebi'in odasında bulunduğu hanımı, tencereye eliyle vurarak kırdı. Nebi Sallallahu Aleyhi ve Sellem hemen tencereyi birleştirdi, dökülen yemeği içine koydu ve: "yeyin" buyurdu. Yemeği bitirinceye kadar, yemek getiren kişiyi ve kırık tencereyi yanında bekletti. Sonra yemeği getiren kişiye sağlam bir tencere verdi ve kırılanı göndermedi. Tekrar: 5225
+Enes r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem hanımlarından birinin yanında bulunuyordu. mu'minlerin annelerinden biri, onun bulunduğu odaya içinde yemek olan bir tencere gönderdi. Hz. Nebi'in odasında bulunduğu hanımı, tencereye eliyle vurarak kırdı. Nebi Sallallahu Aleyhi ve Sellem hemen tencereyi birleştirdi, dökülen yemeği içine koydu ve: "yeyin" buyurdu. Yemeği bitirinceye kadar, yemek getiren kişiyi ve kırık tencereyi yanında bekletti. Sonra yemeği getiren kişiye sağlam bir tencere verdi ve kırılanı göndermedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2481</td></tr><tr><td>Arabic No</td><td>2481</td></tr><tr><td>Reference</td><td>Book 46 Hadith 42</td></tr></tbody></table></div>
 

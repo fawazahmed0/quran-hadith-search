@@ -16,21 +16,21 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ يَعْلَى، قَالَ حَدَّثَنَا بِهِ أَبِي، عَنْ غَيْلاَنَ، عَنْ أَبِي إِسْحَاقَ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ أَفْضَلُ مَا غَيَّرْتُمْ بِهِ الشَّمَطَ الْحِنَّاءُ وَالْكَتَمُ ‏"‏ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا محمد بن مسلم، قال حدثنا يحيى بن يعلى، قال حدثنا به ابي، عن غيلان، عن ابي اسحاق، عن ابن ابي ليلى، عن ابي ذر، عن النبي صلى الله عليه وسلم قال " افضل ما غيرتم به الشمط الحناء والكتم
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবন মুসলিম (রহঃ) ... আবূ যর (রাঃ) থেকে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা যে সকল বস্তু দ্বারা বার্ধক্যজনিত শুভ্রতাকে পরিবর্তন করে থাক, এর মধ্যে উত্তম হলো মেহেদী এবং কাতাম (এক প্রকার ঘাস)।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Dharr that:The Prophet [SAW] said: "The best things with which you can change gray hair are Henna and Katam
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ It was narrated from Abu Dharr that:The Prophet [SAW] said: "The best things wit
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengkhabarkan kepada kami [Muhammad bin Muslim], dia berkata; telah menceritakan kepada kami [Yahya bin Ya'la], dia berkata; [ayahku] telah menceritakannya kepada kami dari [Ghailan] dari [Abu Ishaq] dari [Ibnu Abu Laila] dari [Abu Dzar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesuatu yang paling utama yang kalian gunakan untuk mengubah rambut putih adalah inai dan katam
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengkhabarkan kepada kami [Muhammad bin Muslim], dia berkata; telah mencer
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengkhabarkan kepada kami [Muhammad bin Muslim], dia berkata; telah mencer
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>

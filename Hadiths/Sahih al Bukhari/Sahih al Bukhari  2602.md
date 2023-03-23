@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَتْ أَسْمَاءُ لِلْقَاسِمِ بْنِ مُحَمَّدٍ وَابْنِ أَبِيْ عَتِيْقٍ وَرِثْتُ عَنْ أُخْتِيْ عَائِشَةَ مَالًا بِالْغَابَةِ وَقَدْ أَعْطَانِيْ بِهِ مُعَاوِيَةُ مِائَةَ أَلْفٍ فَهُوَ لَكُمَا আসমা (রাঃ) কাসিম ইবনু মুহাম্মাদ এবং ইবনু আবূ ‘আতীক (রহ.)-কে বলেছেন, আমি আমার বোন ‘আয়িশাহ (রাঃ)-এর নিকট হতে উত্তরাধিকারসূত্রে গানাহ নামক স্থানে কিছু সম্পত্তি পেয়েছি। আর মু‘আবিয়াহ (রাঃ) আমাকে এর পরিবর্তে এক লাখ দিরহাম দিয়েছিলেন। এগুলো তোমাদের দু’জনের। ২৬০২. সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট কিছু পানীয় উপস্থিত করা হল। সেখান হতে কিছু তিনি নিজে পান করলেন। তাঁর ডান পার্শ্বে ছিল এক যুবক আর বাম পার্শ্বে ছিলেন বৃদ্ধগণ। তখন তিনি যুবককে বললেন, তুমি আমাকে অনুমতি দিলে এদেরকে আমি দিতে পারি। সে বলল, হে আল্লাহর রাসূল! আপনার (বারকাত) হতে আমার প্রাপ্য অংশের ব্যাপারে আমি অন্য কাউকে অগ্রগণ্য করতে পারি না। তখন তিনি তার হাতে পাত্রটি সজোরে রেখে দিলেন। (২৩৫১) (আধুনিক প্রকাশনীঃ ২৪১৩, ইসলামিক ফাউন্ডেশনঃ ২৪৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَتْ أَسْمَاءُ لِلْقَاسِمِ بْنِ مُحَمَّدٍ وَابْنِ أَبِيْ عَتِيْقٍ وَرِثْتُ عَنْ أُخْتِيْ عَائِشَةَ مَالًا بِالْغَابَةِ وَقَدْ أَعْطَانِيْ بِهِ مُعَاوِيَةُ مِائَةَ أَلْفٍ فَهُوَ لَكُمَا আসমা (রাঃ) কাসিম ইবনু মুহাম্মাদ এবং ইবনু আবূ ‘আতীক (রহ.)-কে বলেছেন, আমি আমার বোন ‘আয়িশাহ (রাঃ)-এর নিকট হতে উত্তরাধিকারসূত্রে গানাহ নামক স্থানে কিছু সম্পত্তি পেয়েছি। আর মু‘আবিয়াহ (রাঃ) আমাকে এর পরিবর্তে এক লাখ দিরহাম দিয়েছিলেন। এগুলো তোমাদের দু’জনের। ২৬০২. সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট কিছু পানীয় উপস্থিত করা হল। সেখান হতে কিছু তিনি নিজে পান করলেন। তাঁর ডান পার্শ্বে ছিল এক যুবক আর বাম পার্শ্বে ছিলেন বৃদ্ধগণ। তখন তিনি যুবককে বললেন, তুমি আমাকে অনুমতি দিলে এদেরকে আমি দিতে পারি। সে বলল, হে আল্লাহর রাসূল! আপনার (বারকাত) হতে আমার প্রাপ্য অংশের ব্যাপারে আমি অন্য কাউকে অগ্রগণ্য করতে পারি না। তখন তিনি তার হাতে পাত্রটি সজোরে রেখে দিলেন। (২৩৫১) (আধুনিক প্রকাশনীঃ ২৪১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2602</td></tr><tr><td>Arabic No</td><td>2602</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Sahl bin Sa'd:A drink (milk mixed with water) was brought to the Prophet (ﷺ) who drank some of it while a boy was sitting on his right and old men on his left. The Prophet (ﷺ) said to the boy, "If you permit me, I'll give (the rest of the drink to) these old men first." The boy said, "I will not give preference to any one over me as regards my share from you, O Allah's Messenger (ﷺ)!" The Prophet (ﷺ) then put that container in the boy's hand. (See Hadith No. 541)
+Narrated Sahl bin Sa'd:A drink (milk mixed with water) was brought to the Prophet (ﷺ) who drank some of it while a boy was sitting on his right and old men on his left. The Prophet (ﷺ) said to the boy, "If you permit me, I'll give (the rest of the drink to) these old men first." The boy said, "I will not give preference to any one over me as regards my share from you, O Allah's Messenger (ﷺ)!" The Prophet (ﷺ) then put that container in the boy's hand. (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2602</td></tr><tr><td>Arabic No</td><td>2602</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Yahya bin Qaza'ah] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் ஒரு பானம் (பால்) கொண்டுவரப்பட்டது. (அதை) அவர்கள் அருந்தினார்கள். அப்போது அவர்களுடைய வலப் பக்கத்தில் ஒரு சிறுவரும் இடப் பக்கத்தில் முதியவர்களும் இருந்தனர். நபி (ஸல்) அவர்கள் அந்தச் சிறுவரிடம், ‘‘நீ அனுமதியளித்தால் நான் இவர்களுக்கு (இந்த முதியவர்களுக்கு) இதைக் கொடுத்துவிடுகிறேன்” என்று கூறினார்கள். அந்தச் சிறுவர், ‘‘அல்லாஹ்வின் தூதரே! தங்களிடமிருந்து (எனக்குக் கிடைக்கக்கூடிய) என் பங்கை வேறெவருக்காகவும் விட்டுக்கொடுக்க நான் தயாராக இல்லை” என்று கூறினார். நபி (ஸல்) அவர்கள் அச்சிறுவரின் கையில் அந்த (மீதி) பானத்தை வைத்தார்கள். அத்தியாயம் : 50
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் ஒரு பானம் (பால்) கொண்டுவரப்பட்டது. (அதை) அவர்கள் அருந்தினார்கள். அப்போது அவர்களுடைய வலப் பக்கத்தில் ஒரு சிறுவரும் இடப் பக்கத்தில் முதியவர்களும் இருந்தனர். நபி (ஸல்) அவர்கள் அந்தச் சிறுவரிடம், ‘‘நீ அனுமதியளித்தால் நான் இவர்களுக்கு (இந்த முதியவர்களுக்கு) இதைக் கொடுத்துவிடுகிறேன்” என்று கூறினார்கள். அந்தச் சிறுவர், ‘‘அல்லாஹ்வின் தூதரே! தங்களிடமிருந்து (எனக்குக் கிடைக்கக்கூடிய) என் பங்கை வேறெவருக்காகவும் விட்டுக்கொடுக்க நான் தயாராக இல்லை” என்று கூறினார். நபி (ஸல்) அவர்கள் அச்சிறுவரின் கையில் அந்த (மீதி) பானத்தை வைத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2602</td></tr><tr><td>Arabic No</td><td>2602</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফ্‌স ইবন উমার (রহঃ) .... কায়লা বিনত মাখরামা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে 'কারফাসা' অবস্থায় বসতে দেখেন। তিনি আরো বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপ বিনয়ের সাথে বসতে দেখে ভীত-সন্ত্রস্থ হই।
+। কাইলাহ বিনতু মাখরামাহ (রাঃ) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর হাঁটুদ্বয় খাড়া করে তা দু’ হাত দিয়ে পেঁচিয়ে ধরে বসতে দেখেছেন। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বিনীতভাবে বসা দেখে বয়ে শিউরে উঠি।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>4847</td></tr><tr><td>Reference</td><td>Book 43 Hadith 75</td></tr></tbody></table></div>
 

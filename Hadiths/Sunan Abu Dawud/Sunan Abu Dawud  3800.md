@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, জাহিলী যুগের লোকেরা কিছু জিনিস খেতো এবং ঘৃণাবশত কিছু জিনিস পরিহার করতো। এ অবস্থায় আল্লাহ তাঁর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে প্রেরণ করলেন এবং তাঁর কিতাব অবতীর্ণ করলেন এবং তাতে কিছু জিনিস হালাল করলেন ও কিছু জিনিস হারাম করলেন। তিনি যা হালাল করেছেন তা হালাল এবং যা হারাম করেছেন তা হারাম, আর যেগুলো সম্পর্কে নীরব থেকেছেন তাতে ছাড় দেয়া হয়েছে। অতঃপর ইবনু আব্বাস (রাঃ) তিলাওয়াত করেনঃ ‘‘আপনি বলুন, আমার নিকট যে ওয়াহী এসেছে তাতে এমন কোনো জিনিস পাইনি যা আহার করা কারো জন্য হারাম।’’ আয়াতের শেষ পর্যন্ত।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3800</td></tr><tr><td>Arabic No</td><td>3800</td></tr><tr><td>Reference</td><td>Book 28 Hadith 65</td></tr></tbody></table></div>
 

@@ -16,21 +16,21 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا سُفْيَانُ، أَخُو قَبِيصَةَ وَمُعَاوِيَةُ بْنُ هِشَامٍ قَالاَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا عَاصِمُ بْنُ كُلَيْبٍ، عَنْ أَبِيهِ، عَنْ وَائِلِ بْنِ حُجْرٍ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَلِي شَعْرٌ فَقَالَ ‏"‏ ذُبَابٌ ‏"‏ ‏.‏ فَظَنَنْتُ أَنَّهُ يَعْنِينِي فَأَخَذْتُ مِنْ شَعْرِي ثُمَّ أَتَيْتُهُ فَقَالَ لِي ‏"‏ لَمْ أَعْنِكَ وَهَذَا أَحْسَنُ ‏"‏ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا محمود بن غيلان، قال حدثنا سفيان، اخو قبيصة ومعاوية بن هشام قالا حدثنا سفيان، قال حدثنا عاصم بن كليب، عن ابيه، عن وايل بن حجر، قال اتيت النبي صلى الله عليه وسلم ولي شعر فقال " ذباب " . فظننت انه يعنيني فاخذت من شعري ثم اتيته فقال لي " لم اعنك وهذا احسن
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মাহমূদ ইবন গায়লান (রহঃ) ... ওয়ায়ল ইবন হুজর (রাঃ) বলেন, আমি আমার মাথাভরা চুল নিয়েরাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আসলে তিনি বললেনঃ অশুভ! আমি মনে করলাম, তিনি আমাকে বলছেন। সুতরাংআমি চুল কেটে ফেললাম। তারপর আবার তাঁর নিকট গেলে তিনি বললেনঃ আমি তোমরা তোমাকে বলিনি। তবে এটা উত্তম।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Wa'il bin Hujr said:"I came to the Prophet [SAW] and I had hair. He said: 'This is bad,' and I thought he meant me, so I cut my hair then I came to him. He said to me: 'I didn't mean you, but this is better
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ It was narrated that Wa'il bin Hujr said:"I came to the Prophet [SAW] and I had 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengkhabarkan kepada kami [Mahmud bin Ghailan], dia berkata; telah menceritakan kepada kami [Sufyan saudara Qabishah] dan [Mu'awiyah bin Hisyam] mereka berkata; telah menceritakan kepada kami [Sufyan], dia berkata; telah menceritakan kepada kami ['Ashim bin Kulaib] dari [ayahnya] dari [Wail bin Hujr], dia berkata; "Saya menemui Nabi shallallahu 'alaihi wasallam sedangkan saya memiliki rambut (panjang), lalu beliau bersabda: " lalat" Saya mengira bahwa yang beliau maksudkan adalah saya lalu saya memotongnya dan menemui beliau, beliau bersabda kepadaku: "Aku tidak memaksudkan dirimu tapi ini lebih baik
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengkhabarkan kepada kami [Mahmud bin Ghailan], dia berkata; telah menceri
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengkhabarkan kepada kami [Mahmud bin Ghailan], dia berkata; telah menceri
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>

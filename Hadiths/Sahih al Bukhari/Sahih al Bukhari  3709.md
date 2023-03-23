@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-শাবী (রহ.) হতে বর্ণিত যে, ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) যখন জা‘ফর (রাঃ)-এর ছেলেকে সালাম করতেন তখন বলতেন, হে, দু‘বাহু ওয়ালা ব্যক্তির ছেলে। [১] আবূ ‘আবদুল্লাহ [ইমাম বুখারী (রহ.)] বলেন, الْجَنَاحَانِ অর্থ প্রত্যেক বস্তুর দু’ পাশ। (৪২৬৪) (আধুনিক প্রকাশনীঃ ৩৪৩৪, ইসলামিক ফাউন্ডেশনঃ ৩৪৪১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+শাবী (রহ.) হতে বর্ণিত যে, ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) যখন জা‘ফর (রাঃ)-এর ছেলেকে সালাম করতেন তখন বলতেন, হে, দু‘বাহু ওয়ালা ব্যক্তির ছেলে। [১] আবূ ‘আবদুল্লাহ [ইমাম বুখারী (রহ.)] বলেন, الْجَنَاحَانِ অর্থ প্রত্যেক বস্তুর দু’ পাশ। (৪২৬৪) (আধুনিক প্রকাশনীঃ ৩৪৩৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3709</td></tr><tr><td>Arabic No</td><td>3709</td></tr><tr><td>Reference</td><td>Book 62 Hadith 59</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku ['Amru bin 'Ali] telah bercerita kepada kami [Yazid bin
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஷஅபீ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள், ஜஅஃபர் (ரலி) அவர்களின் மகனா(ர் அப்துல்லாஹ் பின் ஜஅஃப)ருக்கு சலாம் சொன்னால், “இரு சிறகுகள் உடைய வரின் மகனே! உங்கள்மீது சாந்தி உண்டாகட்டும்' என்று சொல்வார்கள்.80 அபூஅப்தில்லாஹ் (புகாரீ) கூறுகிறேன்: “இரு சிறகுகள்' என்பது “இரு பக்க (பல)ங் களைக்' குறிக்கும். அத்தியாயம் : 62
+ஷஅபீ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள், ஜஅஃபர் (ரலி) அவர்களின் மகனா(ர் அப்துல்லாஹ் பின் ஜஅஃப)ருக்கு சலாம் சொன்னால், “இரு சிறகுகள் உடைய வரின் மகனே! உங்கள்மீது சாந்தி உண்டாகட்டும்' என்று சொல்வார்கள்.80 அபூஅப்தில்லாஹ் (புகாரீ) கூறுகிறேன்: “இரு சிறகுகள்' என்பது “இரு பக்க (பல)ங் களைக்' குறிக்கும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3709</td></tr><tr><td>Arabic No</td><td>3709</td></tr><tr><td>Reference</td><td>Book 62 Hadith 59</td></tr></tbody></table></div>
 

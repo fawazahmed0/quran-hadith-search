@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবনু উছমান .... শোআইব ইবনু আবূ হামযা হতে বর্ণিত। তিনি বলেন, ইবনুল মুনকাদির, ইবনু আবূ ফারওয়া এবং মদীনার অপরাপর ফকীহগণ আমাকে বলেছেন যে, উপরোক্ত দু’আটি পাঠের সময় তুমি “ওয়া আনা আওয়ালুল-মুসলিমীন-এর স্থলে “ওয়া আনা মিনাল-মুসলিমীন” বলবে।
+। শু‘আইব ইবনু আবূ হামযাহ সূত্রে বর্ণিত। তিনি বলেন, মুহাম্মাদ ইবনুল মুনকাদির, ইবনু আবূ ফারওয়াহ এবং মদীনার অন্যান্য ফাক্বীহগণ আমাকে বলেছেন, উপরোক্ত দু‘আ পাঠকালে তুমি ‘‘ওয়া আনা আওয়ালুল মুসলিমীন’’ এর স্থলে ‘‘ওয়া আনা মিনাল-মুসলিমীন’’ বাক্যটি বলবে।[1] সহীহ মাক্বতূ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 2 Hadith 372</td></tr></tbody></table></div>
 

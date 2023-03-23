@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪৭৬, আন্তর্জাতিক নাম্বারঃ ১৭৬০ ৪৪৭৬-(.../...) মুহাম্মাদ ইবনু আবূ উমার (রহঃ) ..... আবূ যিনাদ (রহঃ) হতে এ সানাদে উল্লিখিত হাদীসের অনুরূপ হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৪৩২, ইসলামিক সেন্টার ৪৪৩৪)
+মুহাম্মাদ ইবনু আবূ উমার (রহঃ) ..... আবূ যিনাদ (রহঃ) হতে এ সানাদে উল্লিখিত হাদীসের অনুরূপ হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৪৩২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>1760.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 65</td></tr></tbody></table></div>
 

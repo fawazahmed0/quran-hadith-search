@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... শু‘বা (রহঃ) হতে পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেছেন। রাবী বলেন, এরপর তিনি স্বহস্তে এর রক্ত মুছে দেন। ইমাম আবূ দাঊদ বলেন, হাম্মাম বর্ণনা করেছেন যে, এরপর তিনি স্বীয় আঙুল দ্বারা এর রক্তের চিহ্ন মুছে দেন। ইমাম আবু দাউদ (রহঃ) বলেন, হাদিসটি কেবলমাত্র বাসরার বর্ণনাকারী বর্ণনা করেছেন।
+। শু‘বাহ (রহ.) থেকে উক্ত হাদীসটি আবুল ওয়ালীদের বর্ণিত হাদীসের অর্থানুযায়ী বর্ণিত হয়েছে। তিনি বলেছেন, অতঃপর তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) নিজ হাতে রক্ত প্রবাহিত করলেন। আবূ দাঊদ বলেন, হাম্মাম বর্ণনা করেছেন, নিজের আঙ্গুল দ্বারা রক্ত প্রবাহিত করেছেন। আবূ দাঊদ বলেন, হাদীসটি কেবলমাত্র বাসরাহ্‌র বর্ণনাকারীরা বর্ণনা করেছেন।[1] সহীহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1753</td></tr><tr><td>Arabic No</td><td>1753</td></tr><tr><td>Reference</td><td>Book 11 Hadith 33</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল ‘আযীয (রহ.) আরও বলেন, আমি ‘আবদুল্লাহ ইবনু যুবাইর (রাঃ)-কে ‘আসরের সালাতের পর দু’রাক‘আত সালাত আদায় করতে দেখেছি এবং তিনি বলেছেন ‘আয়িশাহ্ (রাযি.) তাঁকে বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (‘আসরের সালাতের পরের) এই দু’রাক‘আত সালাত আদায় করা ব্যতীত তাঁর ঘরে প্রবেশ করতেন না। (৫৯০) (আধুনিক প্রকাশনীঃ ১৫২২, ইসলামিক ফাউন্ডেশনঃ ১৫২৮ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1630</td></tr><tr><td>Arabic No</td><td>1630</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

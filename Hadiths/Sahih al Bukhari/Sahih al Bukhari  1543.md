@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, ‘আরাফাহ হতে মুয্দালিফা পর্যন্ত একই বাহনে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পিছনে উসামা ইবনু যায়দ (রাঃ) উপবিষ্ট ছিলেন। এরপর মুযদালিফা হতে মিনা পর্যন্ত ফযল [ইবনু ‘আব্বাস (রাঃ)]-কে তাঁর পিছনে আরোহণ করান। ইবনু ‘আব্বাস (রাঃ) বলেন, তাঁরা উভয়ই বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জামরা আকাবায় কঙ্কর নিক্ষেপ করা পর্যন্ত তালবিয়া পাঠ করছিলেন। (১৬৮৫, ১৬৮৫, ১৬৮৭, মুসলিম ১৫/৪৫, হাঃ ১২৮১, আহমাদ ১৮৩১) (আধুনিক প্রকাশনীঃ ১৪৪২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1543</td></tr><tr><td>Arabic No</td><td>1543</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: உசாமா (ரலி) அவர்கள் நபி (ஸல்) அவர்களுடன் வாகனத்தின்பின் அமர்ந்து ‘அரஃபா’விலிருந்து ‘முஸ்தலிஃபா’வரை சென்றார்கள். பிறகு ஃபள்ல் (ரலி) அவர்கள் ‘முஸ்தலிஃபா’விலிருந்து ‘மினா’வரை சென்றார்கள். “நபி (ஸல்) அவர்கள் ஜம்ரத்துல் அகபாவில் கல்லெறியும்வரை தல்பியாவை நிறுத்தவில்லை” என இவ்விருவருமே கூறினார்கள். அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: உசாமா (ரலி) அவர்கள் நபி (ஸல்) அவர்களுடன் வாகனத்தின்பின் அமர்ந்து ‘அரஃபா’விலிருந்து ‘முஸ்தலிஃபா’வரை சென்றார்கள். பிறகு ஃபள்ல் (ரலி) அவர்கள் ‘முஸ்தலிஃபா’விலிருந்து ‘மினா’வரை சென்றார்கள். “நபி (ஸல்) அவர்கள் ஜம்ரத்துல் அகபாவில் கல்லெறியும்வரை தல்பியாவை நிறுத்தவில்லை” என இவ்விருவருமே கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1543</td></tr><tr><td>Arabic No</td><td>1543</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'den nakledildiğine göre: Usame Arafat'tan Müzdelife'ye kadar Resûlullah Sallallahu Aleyhi ve Sellem'in terkisinde idi. Efendimiz Sallallahu Aleyhi ve Sellem daha sonra Müzdelife'den Mina'ya kadar Fadl'ı terkisine aldı. Usame ve Fadl, "Hz. Nebi, Akabe cemresine (büyük şeytana) taş atıncaya kadar telbiye etmeye devam etti" demişlerdir. 1543 nolu Hadisin geçtiği diğer yerler: 1686; 1544 nolu Hadisin geçtiği diğer yerler: 1670 1685, 1687
+İbn Abbas r.a.'den nakledildiğine göre: Usame Arafat'tan Müzdelife'ye kadar Resûlullah Sallallahu Aleyhi ve Sellem'in terkisinde idi. Efendimiz Sallallahu Aleyhi ve Sellem daha sonra Müzdelife'den Mina'ya kadar Fadl'ı terkisine aldı. Usame ve Fadl, "Hz. Nebi, Akabe cemresine (büyük şeytana) taş atıncaya kadar telbiye etmeye devam etti" demişlerdir. 1543 nolu Hadisin geçtiği diğer yerler: 1686; 1544 nolu Hadisin geçtiği diğer yerler:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1543</td></tr><tr><td>Arabic No</td><td>1543</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

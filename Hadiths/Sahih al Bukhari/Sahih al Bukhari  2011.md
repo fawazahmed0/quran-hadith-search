@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নবী-সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করেন এবং তা ছিল রমাযানে। (৭২৯) (আধুনিক প্রকাশনীঃ ১৮৬৯, ইসলামিক ফাউন্ডেশনঃ ১৮৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নবী-সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করেন এবং তা ছিল রমাযানে। (৭২৯) (আধুনিক প্রকাশনীঃ ১৮৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2011</td></tr><tr><td>Arabic No</td><td>2011</td></tr><tr><td>Reference</td><td>Book 31 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ரமளானில் (இரவில்) தொழுதார்கள். அத்தியாயம் : 31
+நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ரமளானில் (இரவில்) தொழுதார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2011</td></tr><tr><td>Arabic No</td><td>2011</td></tr><tr><td>Reference</td><td>Book 31 Hadith 4</td></tr></tbody></table></div>
 

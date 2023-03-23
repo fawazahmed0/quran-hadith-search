@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন হারব (রহঃ) ...... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমার পিতার সঙ্গে অপর এক ব্যক্তিকে একই কবরে দাফন করা হয়। এজন্য আমার ধারণা ছিল যে, আমি তাঁর লাশ অন্যত্র সরিয়ে নেব। সে মতে ছ’মাস পর আমি তাঁর (পিতার) লাশ সরিয়ে নেই। এ সময় তাঁর শরীরের আকৃতিতে কোনরূপ পরিবর্তন আসেনি। অবশ্য তাঁর কয়েকটি দাঁড়ি, যা মাটির সাথে মিশে ছিল, তা পরিবর্তিত হয়ে গিয়েছিল।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার পিতার সাথে (একই কবরে) অন্য এক লোককে দাফন করা হয়েছিল। তাই আমি তার লাশ অন্যত্র সরিয়ে নেয়ার ইচ্ছা করলাম। অতঃপর ছয় মাস পর আমি পিতার লাশ তুললাম (এবং অন্যত্র দাফন করলাম)। তার শরীরের কোনো অংশই পরিবর্ততন হয়নি। কেবল দাড়ির কিছু চুল মাটির সংস্পর্শে কিছুটা পরিবর্তন হয়েছিলো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3232</td></tr><tr><td>Arabic No</td><td>3232</td></tr><tr><td>Reference</td><td>Book 21 Hadith 144</td></tr></tbody></table></div>
 

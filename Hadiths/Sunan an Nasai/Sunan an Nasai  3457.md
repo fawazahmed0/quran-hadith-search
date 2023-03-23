@@ -16,21 +16,21 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ مَعْمَرٍ، عَنِ الْحَكَمِ بْنِ أَبَانَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، أَتَى النَّبِيَّ صلى الله عليه وسلم قَدْ ظَاهَرَ مِنِ امْرَأَتِهِ فَوَقَعَ عَلَيْهَا فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي ظَاهَرْتُ مِنِ امْرَأَتِي فَوَقَعْتُ قَبْلَ أَنْ أُكَفِّرَ ‏.‏ قَالَ ‏"‏ وَمَا حَمَلَكَ عَلَى ذَلِكَ يَرْحَمُكَ اللَّهُ ‏"‏ ‏.‏ قَالَ رَأَيْتُ خَلْخَالَهَا فِي ضَوْءِ الْقَمَرِ ‏.‏ فَقَالَ ‏"‏ لاَ تَقْرَبْهَا حَتَّى تَفْعَلَ مَا أَمَرَ اللَّهُ عَزَّ وَجَلَّ ‏"‏ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا الحسين بن حريث، قال حدثنا الفضل بن موسى، عن معمر، عن الحكم بن ابان، عن عكرمة، عن ابن عباس، ان رجلا، اتى النبي صلى الله عليه وسلم قد ظاهر من امراته فوقع عليها فقال يا رسول الله اني ظاهرت من امراتي فوقعت قبل ان اكفر . قال " وما حملك على ذلك يرحمك الله " . قال رايت خلخالها في ضوء القمر . فقال " لا تقربها حتى تفعل ما امر الله عز وجل
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হুসায়ন ইবন হুরায়াছ (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত যে, এক ব্যক্তি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আসলো, যে তার স্ত্রীর সাথে যিহার করেছিলো। আর কাফফারা আদায় করার পূর্বেই সে তার সাথে সহবাস করে। সে এসে বলেঃ ইয়া রাসূলাল্লাহ্! আমি আমার স্ত্রীর সাথে যিহার করেছি এবং কাফফারা আদায়ের পূর্বে তার সাথে সহবাস করেছি। তিনি জিজ্ঞাসা করলেনঃ তুমি কেন এরূপ করলে? সে বললোঃ আমি চাদের আলোতে তার পায়ের মল দেখলাম। তিনি বললেনঃ এখন তুমি আল্লাহর আদেশ পালন না করা পর্যন্ত তার নিকট গমন করো না।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn 'Abbas that a man came to the Prophet who had declared Zihar from his wife, then he had intercourse with her. He said:"O Messenger of Allah, I declared Zihar on my wife, then I had intercourse with her before I offered the expiation." He said: "What made you do that, may Allah have mercy on you?" He said: "I saw her anklets in the light of the moon." He said: "Do not approach her until you have done that which Allah, the Mighty and Sublime, has commanded
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ It was narrated from Ibn 'Abbas that a man came to the Prophet who had declared 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Al Hasan bin Huraits] ia berkata; telah menceritakan kepada kami [Al Fadll bin Musa] dari [Ma'mar] dari [Al Hakam bin Aban] dari ['Ikrimah] dari [Ibnu Abbas], bahwa seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam, ia telah menzhihar (mengatakan kepada isterinya engkau seperti punggung ibuku) isterinya lalu ia menggaulinya, ia berkata, "Wahai Rasulullah, aku telah menzhihar isteriku lalu aku menggaulinya sebelum membayar kaffarat?" Beliau bersabda: "Apa yang mendorongmu untuk melakukan hal itu, semoga Allah merahmatimu?" Aku melihat gelang kakinya di bawah cahaya bulan." Beliau bersabda: "Janganlah engkau mendekatinya hingga melakukan apa yang Allah Azza wa Jalla perintahkan
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengabarkan kepada kami [Al Hasan bin Huraits] ia berkata; telah mencerita
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengabarkan kepada kami [Al Hasan bin Huraits] ia berkata; telah mencerita
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی الله عنہما سے روایت ہے کہ ایک شخص نبی اکرم صلی اللہ علیہ وسلم کے پاس آیا جس نے اپنی بیوی سے ظہار کیا تھا پھر اس سے صحبت کر بیٹھا، اس نے رسول اللہ صلی اللہ علیہ وسلم کو بتایا کہ میں نے اپنی بیوی سے ظہار کیا تھا لیکن میں کفارہ ادا کیے بغیر اس سے جماع کر بیٹھا۔ آپ نے فرمایا: ”اللہ تعالیٰ تم پر رحم کرے، ایسا کر گزرنے پر تمہیں کس چیز نے مجبور کیا ہے“؟ اس نے کہا: چاند کی چاندنی میں میں نے اس کی پازیب دیکھی ( تو مجھ سے رہا نہ گیا اور میں اس سے جماع کر بیٹھا ) آپ نے فرمایا: ” ( اچھا اب ) اس کے قریب نہ جانا جب تک کہ وہ نہ کر لو جس کا اللہ نے ( ایسے موقع پر کرنے کا ) حکم دیا ہے ( یعنی کفارہ ادا کر دو ) “ ۲؎۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 27 Hadith 69</td></tr></tbody></table></div>

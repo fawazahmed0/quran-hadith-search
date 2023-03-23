@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৫৪, আন্তর্জাতিক নাম্বারঃ ২৪০ ৪৫৪-(২৫/২৪০) হারূন ইবনু সাঈদ আল আইলী, আবূ তাহির ও আহমাদ ইবনু ঈসা (রহঃ) ..... সালিম (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি সা'দ ইবনু আবূ ওয়াক্কাস এর ইন্তিকালের দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী আয়িশাহ (রাযিঃ) এর কাছে উপস্থিত হই। সে সময়ে 'আবদুর রহমান ইবনু আবূ বকরও এলেন এবং 'আয়িশাহ (রাযিঃ) এর সামনে ওযু করতে লাগলেন। তখন আয়িশাহ (রাযিঃ) বললেনঃ হে আবদুর রহমান পূর্ণভাবে ওযু কর। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে এ কথা বলতে শুনেছি যে, পায়ের ঐ গোড়ালিগুলোর জন্য আগুনের শাস্তি রয়েছে (যেগুলো শুকনো থাকে)। (ইসলামিক ফাউন্ডেশনঃ ৪৫৭, ইসলামিক সেন্টারঃ ৪৭৩)
+হারূন ইবনু সাঈদ আল আইলী, আবূ তাহির ও আহমাদ ইবনু ঈসা (রহঃ) ..... সালিম (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি সা'দ ইবনু আবূ ওয়াক্কাস এর ইন্তিকালের দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী আয়িশাহ (রাযিঃ) এর কাছে উপস্থিত হই। সে সময়ে 'আবদুর রহমান ইবনু আবূ বকরও এলেন এবং 'আয়িশাহ (রাযিঃ) এর সামনে ওযু করতে লাগলেন। তখন আয়িশাহ (রাযিঃ) বললেনঃ হে আবদুর রহমান পূর্ণভাবে ওযু কর। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে এ কথা বলতে শুনেছি যে, পায়ের ঐ গোড়ালিগুলোর জন্য আগুনের শাস্তি রয়েছে (যেগুলো শুকনো থাকে)। (ইসলামিক ফাউন্ডেশনঃ ৪৫৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>566</td></tr><tr><td>Arabic No</td><td>240.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Salim, the freed slave of Shaddad, said:I came to 'A'isha, the wife of the Proph
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Harun b. Sa'id el-Eylî ile Ebu't-Tahir ve Ahmed h İsa rivayet ettiler. Dedilerki: Bize Abdullah b. Vehb, Mahremetü'bnü Bukeyr'den, o da babasından o da Şeddad'ın azatlısı Salim'den naklen haber verdi. Salim şöyle demiş: Sa'd b. Ebi Vakkas'ın vefat ettiği gün Nebi (Sallallahu aleyhi ve Sellem)'in zevcesi Aişe (r.anha)'nın huzuruna girdim. Abdurrahman b. Ebi Bekr de içeri girdi ve onun yanında abdest aldı. Aişe (r.anha): Ey Abdurrahman abdest azalarını iyice yıka, çünkü ben Resulullah (Sallallahu aleyhi ve Sellem)'i: "Ateşten dolayı ökçelerin vay haline" buyururken dinledim, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 16092
+Bize Harun b. Sa'id el-Eylî ile Ebu't-Tahir ve Ahmed h İsa rivayet ettiler. Dedilerki: Bize Abdullah b. Vehb, Mahremetü'bnü Bukeyr'den, o da babasından o da Şeddad'ın azatlısı Salim'den naklen haber verdi. Salim şöyle demiş: Sa'd b. Ebi Vakkas'ın vefat ettiği gün Nebi (Sallallahu aleyhi ve Sellem)'in zevcesi Aişe (r.anha)'nın huzuruna girdim. Abdurrahman b. Ebi Bekr de içeri girdi ve onun yanında abdest aldı. Aişe (r.anha): Ey Abdurrahman abdest azalarını iyice yıka, çünkü ben Resulullah (Sallallahu aleyhi ve Sellem)'i: "Ateşten dolayı ökçelerin vay haline" buyururken dinledim, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>566</td></tr><tr><td>Arabic No</td><td>240.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
 

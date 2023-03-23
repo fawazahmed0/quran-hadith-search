@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২২৯৭। যাইদ ইবনু খালিদ আল-জুহানী (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে তিনি বলতে শুনেছেনঃ সাক্ষীগণের মধ্যে সেই ব্যক্তি সবচাইতে উত্তম যে তলব করার আগেই নিজ ইচ্ছায় সাক্ষ্য দেয়। পূর্বের হাদীসের সহায়তায় এ হাদীসটি সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান এবং উপরোক্ত সনদসূত্রে গারীব।
+। যাইদ ইবনু খালিদ আল-জুহানী (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে তিনি বলতে শুনেছেনঃ সাক্ষীগণের মধ্যে সেই ব্যক্তি সবচাইতে উত্তম যে তলব করার আগেই নিজ ইচ্ছায় সাক্ষ্য দেয়। পূর্বের হাদীসের সহায়তায় এ হাদীসটি সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান এবং উপরোক্ত সনদসূত্রে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2297</td></tr><tr><td>Arabic No</td><td>2297</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
 

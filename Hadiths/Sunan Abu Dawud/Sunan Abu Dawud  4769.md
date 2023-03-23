@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন উবায়দ (রহঃ) ..... আবূ ওযযী (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আলী (রাঃ) সে যুদ্ধের সময় বলেনঃ তোমরা মাখদাজকে অনুসন্ধান কর। এরপর তিনি এ হাদীছ বর্ণনা প্রসঙ্গে বলেনঃ তখন লোকেরা তার লাশকে মৃতদের লাশের নীচে যমীন থেকে উদ্ধার করে। রাবী আবূ ওযযী (রহঃ) বলেনঃ আমি যেন এখনো তার লাশকে দেখছি। সে একটা হাবশী কুর্তা (জামা) পরে ছিল এবং তার একটা বাহু স্ত্রীলোকের স্তনের বোঁটার মত ছিল, যার উপর বুনো ইদুরের চুলের মত পশম ছিল।
+। আবুল ওয়াদী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আলী (রাঃ) বললেন, তোমরা মুখদাজকে (ছোট হাতবিশিষ্ট ব্যক্তিকে) খুঁজে বের করো। অতঃপর পূর্বের হাদীসের অনুরূপ। এরপর তারা তাকে ভুলুণ্ঠিত লাশগুলোর নীচ থেকে বের করলো। আবুল ওয়াদী আরো বলেন, তাকে দেখে আমার মনে হলো সে যেন হাবসী লোক, তার পরিধানে জুব্বা ছিলো। আর এক হাতের উপর মেয়েলোকের স্তনের বোঁটার মত একটি বোঁটা ছিলো এবং তাতে ইয়ারবু‘র লেজের লোমের ন্যায় লোম ছিলো।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4769</td></tr><tr><td>Arabic No</td><td>4769</td></tr><tr><td>Reference</td><td>Book 42 Hadith 174</td></tr></tbody></table></div>
 

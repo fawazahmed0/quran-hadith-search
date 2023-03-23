@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালমান ফারসী (রাঃ) বলেন, ‘ঈসা (আ.) এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মধ্যে ছয় শত বছরের পার্থক্য ছিল। (আধুনিক প্রকাশনীঃ ৩৬৫৭, ইসলামিক ফাউন্ডেশনঃ ৩৬৬০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালমান ফারসী (রাঃ) বলেন, ‘ঈসা (আ.) এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মধ্যে ছয় শত বছরের পার্থক্য ছিল। (আধুনিক প্রকাশনীঃ ৩৬৫৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3948</td></tr><tr><td>Arabic No</td><td>3948</td></tr><tr><td>Reference</td><td>Book 63 Hadith 172</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Al Hasan bin Mudrik] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சல்மான் அல்ஃபாரிசீ (ரலி) அவர்கள் கூறியதாவது: ஈசா (அலை) அவர்களுக்கும் முஹம்மத் (ஸல்) அவர்களுக்கும் இடை யிலான காலம் அறுநூறாண்டுகளாகும்.199 அத்தியாயம் : 63
+சல்மான் அல்ஃபாரிசீ (ரலி) அவர்கள் கூறியதாவது: ஈசா (அலை) அவர்களுக்கும் முஹம்மத் (ஸல்) அவர்களுக்கும் இடை யிலான காலம் அறுநூறாண்டுகளாகும்.199 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3948</td></tr><tr><td>Arabic No</td><td>3948</td></tr><tr><td>Reference</td><td>Book 63 Hadith 172</td></tr></tbody></table></div>
 

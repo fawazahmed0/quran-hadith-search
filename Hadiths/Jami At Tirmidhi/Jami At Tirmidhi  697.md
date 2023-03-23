@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬৯৭। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যেদিন তোমরা সবাই রোযা পালন কর সে দিন হল রোযা। যেদিন তোমরা সবাই রোযা ভঙ্গ কর সে দিন হল ঈদুল ফিতর। আর যেদিন তোমরা সবাই কুরবানী কর সে দিন হল ঈদুল আযহা। — সহীহ, ইবনু মা-জাহ (১৬৬০) আবু ঈসা এই হাদীসটিকে হাসান গারীব বলেছেন। এই হাদীসটি ব্যাখ্যা করতে গিয়ে কোন কোন আলিম বলেন, এক সাথে এবং অধিক সংখ্যকের সাথে রোযা ও ঈদ পালন করতে হবে।
+। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যেদিন তোমরা সবাই রোযা পালন কর সে দিন হল রোযা। যেদিন তোমরা সবাই রোযা ভঙ্গ কর সে দিন হল ঈদুল ফিতর। আর যেদিন তোমরা সবাই কুরবানী কর সে দিন হল ঈদুল আযহা। — সহীহ, ইবনু মা-জাহ (১৬৬০) আবু ঈসা এই হাদীসটিকে হাসান গারীব বলেছেন। এই হাদীসটি ব্যাখ্যা করতে গিয়ে কোন কোন আলিম বলেন, এক সাথে এবং অধিক সংখ্যকের সাথে রোযা ও ঈদ পালন করতে হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>697</td></tr><tr><td>Arabic No</td><td>697</td></tr><tr><td>Reference</td><td>Book 8 Hadith 16</td></tr></tbody></table></div>
 

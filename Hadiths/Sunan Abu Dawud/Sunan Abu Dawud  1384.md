@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাকীম ইবন সায়েফ (রহঃ) ..... আবদুল্লাহ ইবন মাসউদ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম আমাদেরকে বলেনঃ তোমরা তাকে (শবে কদর) রমযানের সতের, একুশ ও তেইশের রাতে অন্বেষণ কর। অতঃপর তিনি চুপ থাকেন।
+। ইবনু মাসউদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে বলেছেনঃ তোমরা লাইলাতুল ক্বদর অন্বেষণ করো রমাযানের সতের, একুশ ও তেইশ তারিখের রাতে। অতঃপর তিনি চুপ থাকলেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1384</td></tr><tr><td>Arabic No</td><td>1384</td></tr><tr><td>Reference</td><td>Book 6 Hadith 14</td></tr></tbody></table></div>
 

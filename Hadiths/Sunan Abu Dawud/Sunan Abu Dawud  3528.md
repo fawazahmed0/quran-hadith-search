@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন কাছীর (রহঃ) .... উমারা ইবন উমাইর (রাঃ) তাঁর ফুফু থেকে বর্ণনা করেছেন। তিনি বলেনঃ একদা তিনি আইশা (রাঃ)-কে জিজ্ঞাসা করেন যে, আমার লালন-পালনে একজন ইয়াতীম আছে, আমি কি তার মাল খেতে পারি? তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষের জন্য উওম খাবার হলো তার নিজের হাতে অর্জিত খাদ্য এবং তার সন্তানের আয়ও নিজের উপার্জনের মত।
+। ‘উমারাহ ইবনু উমাইর (রহঃ) তার ফুফুর সূত্রে বর্ণনা করেন, তিনি ‘আয়িশাহ (রাঃ)-কে জিজ্ঞেস করলেন, আমার প্রতিপালনে একটি ইয়াতীম রয়েছে। আমি কি তার মাল থেকে খেতে পারি? তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তির নিজ হাতের উপার্জিত খাদ্য সর্বোত্তম খাদ্য। তার সন্তানও তার উপার্জন বিশেষ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3528</td></tr><tr><td>Arabic No</td><td>3528</td></tr><tr><td>Reference</td><td>Book 24 Hadith 113</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Umâre b. Umeyr'in, halasından rivayet ettiğine göre; o (Umâre'nin halası); Hz. Âişe (r.anha) ya: Kucağımda bir yetim var, onun malından yiyebilir miyim? diye sordu. Âişe (r.anha) de: Rasûlullah (Sallallahu aleyhi ve Sellem): "İnsanın yediği şeylerin en temizi kendi kazancından olanıdır ve kişinin çocuğu onun kazanandandır" buyurdu, dedi. Diğer tahric: Nesai, buyu'; İbn Mace, ticarât; Darimî, buyu'; Ahmed b. Hanbel, VI, 31, 42, 177, 193, 220
+Umâre b. Umeyr'in, halasından rivayet ettiğine göre; o (Umâre'nin halası); Hz. Âişe (r.anha) ya: Kucağımda bir yetim var, onun malından yiyebilir miyim? diye sordu. Âişe (r.anha) de: Rasûlullah (Sallallahu aleyhi ve Sellem): "İnsanın yediği şeylerin en temizi kendi kazancından olanıdır ve kişinin çocuğu onun kazanandandır" buyurdu, dedi. Diğer tahric: Nesai, buyu'; İbn Mace, ticarât; Darimî, buyu'; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3528</td></tr><tr><td>Arabic No</td><td>3528</td></tr><tr><td>Reference</td><td>Book 24 Hadith 113</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০১২। সাহল ইবনু সা’দ আস-সায়িদী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ধৈর্য ও স্থিরতা আল্লাহ্ তা'আলার পক্ষ হতে, আর তাড়াহুড়া শাইতানের পক্ষ হতে। যঈফ, মিশকাত, তাহকীক ছানী (৫০৫৫) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। একদল হাদীস বিশারদ আবদুল মুহাইমিনের সমালোচনা করেছেন। তারা বলেছেন, তার স্মৃতিশক্তি দুর্বল। আল-আশাজ-এর নাম আল-মুনযির, পিতা আয়িয।
+। সাহল ইবনু সা’দ আস-সায়িদী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ধৈর্য ও স্থিরতা আল্লাহ্ তা'আলার পক্ষ হতে, আর তাড়াহুড়া শাইতানের পক্ষ হতে। যঈফ, মিশকাত, তাহকীক ছানী (৫০৫৫) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। একদল হাদীস বিশারদ আবদুল মুহাইমিনের সমালোচনা করেছেন। তারা বলেছেন, তার স্মৃতিশক্তি দুর্বল। আল-আশাজ-এর নাম আল-মুনযির, পিতা আয়িয।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2012</td></tr><tr><td>Arabic No</td><td>2012</td></tr><tr><td>Reference</td><td>Book 27 Hadith 118</td></tr></tbody></table></div>
 

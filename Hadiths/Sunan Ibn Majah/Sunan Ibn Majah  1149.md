@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১১৪৯। ইবনু উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে একমাস যাবত ফজরের ফারয্ সালাত (নামায/নামাজ) এর পূর্বেকার দু রাকআত সুন্নাত সালাতে সূরাহ কাফিরূন ও সূরাহ ইখলাস তিলাওয়াত করতে দেখেছি (শুনেছি)।
+। ইবনু উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে একমাস যাবত ফজরের ফারয্ সালাত (নামায/নামাজ) এর পূর্বেকার দু রাকআত সুন্নাত সালাতে সূরাহ কাফিরূন ও সূরাহ ইখলাস তিলাওয়াত করতে দেখেছি (শুনেছি)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1149</td></tr><tr><td>Arabic No</td><td>1149</td></tr><tr><td>Reference</td><td>Book 5 Hadith 347</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Ibn ‘Umar said:“I watched the Prophet (ﷺ) for a month, and in the two Rak’ah before Fajr he used to recite: “Say: O you disbelievers!” [Al-Kafirun (109)] and “Say: Allah is One.” [Al- Ikhlas (112]
+It was narrated that Ibn ‘Umar said:“I watched the Prophet (ﷺ) for a month, and in the two Rak’ah before Fajr he used to recite: “Say: O you disbelievers!” [Al-Kafirun (109)] and “Say: Allah is One.” [Al- Ikhlas]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1149</td></tr><tr><td>Arabic No</td><td>1149</td></tr><tr><td>Reference</td><td>Book 5 Hadith 347</td></tr></tbody></table></div>
 

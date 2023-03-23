@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমা'ঈল (রহঃ) .... তালাব (রহঃ) তাঁর পিতা থেকে বর্ণনা করেন। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গী ছিলাম। কিন্তু আমি কোন দিন তাঁর থেকে মাটির নীচে বসবাসকারী প্রাণী হারাম হওয়া সম্পর্কে কিছু শ্রবণ করি নি।
+। মিলকাম ইবনু তালিব্ব (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ছিলাম। কিন্তু আমি কখনো ‘হাশরাতুল আরদ’ হারাম হওয়া সম্পর্কে কিছু শুনিনি।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3798</td></tr><tr><td>Arabic No</td><td>3798</td></tr><tr><td>Reference</td><td>Book 28 Hadith 63</td></tr></tbody></table></div>
 

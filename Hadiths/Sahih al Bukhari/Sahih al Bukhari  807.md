@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু মালিক (রহ.) যিনি ইবনু বুহাইনা (রাযি.) তাঁর হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাত আদায় করতেন, তখন উভয় হাত এমন ফাঁক করতেন যে, তাঁর উভয় বগলের শুভ্রতা প্রকাশ হয়ে পড়ত। লায়স (রহ.) বলেন, জা‘ফার বিন রাবী‘আহ (রহ.) আমার নিকট এ রকম বর্ণনা করেছেন। (আধুনিক প্রকাশনীঃ ৭৬২, ইসলামিক ফাউন্ডেশনঃ ৭৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু মালিক (রহ.) যিনি ইবনু বুহাইনা (রাযি.) তাঁর হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাত আদায় করতেন, তখন উভয় হাত এমন ফাঁক করতেন যে, তাঁর উভয় বগলের শুভ্রতা প্রকাশ হয়ে পড়ত। লায়স (রহ.) বলেন, জা‘ফার বিন রাবী‘আহ (রহ.) আমার নিকট এ রকম বর্ণনা করেছেন। (আধুনিক প্রকাশনীঃ ৭৬২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>807</td></tr><tr><td>Arabic No</td><td>807</td></tr><tr><td>Reference</td><td>Book 10 Hadith 202</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah mengabarkan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மா-க் இப்னு புஹைனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தொழும்போது (சஜ்தாவில்) தம்மிரு அக்குள்களின் வெண்மை தென்படும் அளவுக்கு இரு கை (புஜங்)களையும் விரி(த்துவை)ப்பார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 10
+அப்துல்லாஹ் பின் மா-க் இப்னு புஹைனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தொழும்போது (சஜ்தாவில்) தம்மிரு அக்குள்களின் வெண்மை தென்படும் அளவுக்கு இரு கை (புஜங்)களையும் விரி(த்துவை)ப்பார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>807</td></tr><tr><td>Arabic No</td><td>807</td></tr><tr><td>Reference</td><td>Book 10 Hadith 202</td></tr></tbody></table></div>
 

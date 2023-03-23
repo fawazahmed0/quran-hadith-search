@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবনু আবূ শায়বা .... আবূ সালেহ্ হতে বর্ণিত। তিনি বলেন, এরূপ বলা হত যে, যখন কোন ব্যক্তি মসজিদ হতে পাথরের টুকরা বাইরে নিয়ে যায়, তখন কঙ্কর তাকে শপথ দেয় (আর বলে, আমাকে বাইরে নিয়ে যেও না)।
+। আবূ সালিহ সূত্রে বর্ণিত। তিনি বলেন, কথিত আছে, কোন ব্যক্তি যখন মাসজিদ থেকে পাথর কুচি বাইরে নিয়ে যায়, তখন সেগুলো তাকে শপথ দিতে থাকে (এবং বলতে থাকে, আমাদেরকে মাসজিদ থেকে বের করো না)।[1] সহীহ মাক্বতূ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>459</td></tr><tr><td>Arabic No</td><td>459</td></tr><tr><td>Reference</td><td>Book 2 Hadith 69</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুর রহমান ইবনু ইয়াযীদ (রহ.) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ (রাঃ) বাতন ওয়াদী হতে কঙ্কর মারেন। তখন আমি তাঁকে বললাম, হে আবূ ‘আবদুর রহমান! লোকেরা তো এর উচ্চস্থান হতে কঙ্কর মারে। তিনি বললেন, সে সত্তার কসম! যিনি ব্যতীত কোন ইলাহ নেই, এটা সে স্থান, যেখানে সূরা আল-বাকারাহ নাযিল হয়েছে। ‘আবদুল্লাহ ইবনু ওয়ালীদ (রহ.)...আ‘মাশ (রহ.) হতে এরূপ বর্ণনা করেন। (১৭৪৮, ১৭৮৯, ১১৭৫০, মুসলিম ১৫/৫০, হাঃ ১২৯৬) (আধুনিক প্রকাশনীঃ ১৬২৫. ইসলামিক ফাউন্ডেশনঃ ১৬৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুর রহমান ইবনু ইয়াযীদ (রহ.) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ (রাঃ) বাতন ওয়াদী হতে কঙ্কর মারেন। তখন আমি তাঁকে বললাম, হে আবূ ‘আবদুর রহমান! লোকেরা তো এর উচ্চস্থান হতে কঙ্কর মারে। তিনি বললেন, সে সত্তার কসম! যিনি ব্যতীত কোন ইলাহ নেই, এটা সে স্থান, যেখানে সূরা আল-বাকারাহ নাযিল হয়েছে। ‘আবদুল্লাহ ইবনু ওয়ালীদ (রহ.)...আ‘মাশ (রহ.) হতে এরূপ বর্ণনা করেন। (১৭৪৮, ১৭৮৯, ১১৭৫০, মুসলিম ১৫/৫০, হাঃ ১২৯৬) (আধুনিক প্রকাশনীঃ ১৬২৫. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1747</td></tr><tr><td>Arabic No</td><td>1747</td></tr><tr><td>Reference</td><td>Book 25 Hadith 225</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துர் ரஹ்மான் பின் யஸீத் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள், ‘பத்னுல் வாதி’ பள்ளத்திலிருந்து கல்லெறிந்தார்கள். அப்போது நான், “அப்துர் ரஹ்மானின் தந்தையே! மக்கள் மேற்பரப்பில் இருந்தல்லவா கல்லை எறிகின்றனர்?” எனக் கேட்டேன். அதற்கு அவர்கள், “எவனைத் தவிர வேறு இறைவன் இல்லையோ அவன் மீதாணையாக! ‘அல்பகரா’ அத்தியாயம் யாருக்கு அருளப்பட்டதோ அந்த நபி (ஸல்) அவர்கள் (கல் எறிந்த வண்ணம்) நின்றிருந்த இடம் இதுதான்” எனக் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 25
+அப்துர் ரஹ்மான் பின் யஸீத் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள், ‘பத்னுல் வாதி’ பள்ளத்திலிருந்து கல்லெறிந்தார்கள். அப்போது நான், “அப்துர் ரஹ்மானின் தந்தையே! மக்கள் மேற்பரப்பில் இருந்தல்லவா கல்லை எறிகின்றனர்?” எனக் கேட்டேன். அதற்கு அவர்கள், “எவனைத் தவிர வேறு இறைவன் இல்லையோ அவன் மீதாணையாக! ‘அல்பகரா’ அத்தியாயம் யாருக்கு அருளப்பட்டதோ அந்த நபி (ஸல்) அவர்கள் (கல் எறிந்த வண்ணம்) நின்றிருந்த இடம் இதுதான்” எனக் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1747</td></tr><tr><td>Arabic No</td><td>1747</td></tr><tr><td>Reference</td><td>Book 25 Hadith 225</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdurrahman İbn Yezîd şöyle dedi: Abdullah b. Mes'ud, vadinin alt yanından şeytanı taşladı. Ben: Ey Ebu Abdurrahman! İnsanlar vadinin üst tarafından taşlıyor, dedim. Abdullah b. Mes'ud şöyle dedi: Kendisinden başka ilah olmayan Allah'a yemin ederim ki burası el-Bakara suresinin indirildiği yerdir. Tekrar: 1748, 1749, 1750
+Abdurrahman İbn Yezîd şöyle dedi: Abdullah b. Mes'ud, vadinin alt yanından şeytanı taşladı. Ben: Ey Ebu Abdurrahman! İnsanlar vadinin üst tarafından taşlıyor, dedim. Abdullah b. Mes'ud şöyle dedi: Kendisinden başka ilah olmayan Allah'a yemin ederim ki burası el-Bakara suresinin indirildiği yerdir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1747</td></tr><tr><td>Arabic No</td><td>1747</td></tr><tr><td>Reference</td><td>Book 25 Hadith 225</td></tr></tbody></table></div>
 

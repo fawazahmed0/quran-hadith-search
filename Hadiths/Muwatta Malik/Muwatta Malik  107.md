@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Abdullah bin Dinar] dari [Abdullah 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Ömer der ki, babam Ömer b. el-Hattab Resulullah Sallallahu Aleyhi ve Sellem'e gece cünüp olduğunu söyledi. O da: «Cinsî uzvunu yıkayıp abdest aldıktan sonra uyu.» buyur. Diğer tahric: Buhari, Gusül; Müslim, Hayd. Ayrıca bkz. Şeybanî, 55
+Abdullah b. Ömer der ki, babam Ömer b. el-Hattab Resulullah Sallallahu Aleyhi ve Sellem'e gece cünüp olduğunu söyledi. O da: «Cinsî uzvunu yıkayıp abdest aldıktan sonra uyu.» buyur. Diğer tahric: Buhari, Gusül; Müslim, Hayd. Ayrıca bkz. Şeybanî
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>107</td></tr><tr><td>Arabic No</td><td>107</td></tr><tr><td>Reference</td><td>Book 2 Hadith 76</td></tr></tbody></table></div>
 

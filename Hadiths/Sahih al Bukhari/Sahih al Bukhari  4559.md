@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালিম (রহ.) তার পিতা থেকে বর্ণনা করেন যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে শুনেছেন যে, তিনি ফজরের সালাতের শেষ রাকআতে রুকূ‘ থেকে মাথা তুলে ‘সামি‘আল্লাহু লিমান হামিদাহ্ (আল্লাহ তাঁর প্রশংসাকারীর প্রশংসা শোনেন। হে আমাদের প্রতিালক! তোমার জন্য সমস্ত প্রশংসা)’, ‘রব্বানা ওয়ালাকাল হামদ’ বলার পর এটা বলতেনঃ হে আল্লাহ! অমুক, অমুক এবং অমুককে লানত করুন। তখন আল্লাহ এ আয়াত অবতীর্ণ করলেনঃ لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْءٌ ..... فَإِنَّهُمْ ظَالِمُوْنَ ‘‘তিনি তাদের প্রতি ক্ষমাশীল হবেন অথবা তাদের শাস্তি দিবেন, এ বিষয়ে তোমার করণীয় কিছুই নেই। কারণ তারা যালিম।’’ ইসহাক ইবনু রাশিদ (রহ.) ইমাম যুহরী (রহ.) থেকে এটা বর্ণনা করেছেন। [৪০৬৯] (আধুনিক প্রকাশনীঃ ৪১৯৮, ইসলামিক ফাউন্ডেশনঃ ৪২০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালিম (রহ.) তার পিতা থেকে বর্ণনা করেন যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে শুনেছেন যে, তিনি ফজরের সালাতের শেষ রাকআতে রুকূ‘ থেকে মাথা তুলে ‘সামি‘আল্লাহু লিমান হামিদাহ্ (আল্লাহ তাঁর প্রশংসাকারীর প্রশংসা শোনেন। হে আমাদের প্রতিালক! তোমার জন্য সমস্ত প্রশংসা)’, ‘রব্বানা ওয়ালাকাল হামদ’ বলার পর এটা বলতেনঃ হে আল্লাহ! অমুক, অমুক এবং অমুককে লানত করুন। তখন আল্লাহ এ আয়াত অবতীর্ণ করলেনঃ لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْءٌ ..... فَإِنَّهُمْ ظَالِمُوْنَ ‘‘তিনি তাদের প্রতি ক্ষমাশীল হবেন অথবা তাদের শাস্তি দিবেন, এ বিষয়ে তোমার করণীয় কিছুই নেই। কারণ তারা যালিম।’’ ইসহাক ইবনু রাশিদ (রহ.) ইমাম যুহরী (রহ.) থেকে এটা বর্ণনা করেছেন। [৪০৬৯] (আধুনিক প্রকাশনীঃ ৪১৯৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4559</td></tr><tr><td>Arabic No</td><td>4559</td></tr><tr><td>Reference</td><td>Book 65 Hadith 81</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Salim's father:That he heard Allah's Messenger (ﷺ) on raising his head from the bowing in the last rak'a in the Fajr prayer, saying, "O Allah, curse such-and-such person and such-and-such person, and such-and-such person," after saying, "Allah hears him who sends his praises to Him, O our Lord, all praise is for you." So Allah revealed:--"Not for you (O Muhammad) (but for Allah) is the decision, verily they are indeed wrongdoers." (3.128)
+Narrated Salim's father:That he heard Allah's Messenger (ﷺ) on raising his head from the bowing in the last rak'a in the Fajr prayer, saying, "O Allah, curse such-and-such person and such-and-such person, and such-and-such person," after saying, "Allah hears him who sends his praises to Him, O our Lord, all praise is for you." So Allah revealed:--"Not for you (O Muhammad) (but for Allah) is the decision, verily they are indeed wrongdoers
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4559</td></tr><tr><td>Arabic No</td><td>4559</td></tr><tr><td>Reference</td><td>Book 65 Hadith 81</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hibban bin Musa] Telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: (உஹுத் போரில் பலத்த காயமுற்ற பின்) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஃபஜ்ர் தொழுகையின் கடைசி ரக்அத்தில் ருகூஉவிலிருந்து தமது தலையை உயர்த்தும்போது, “சமிஅல்லாஹு லிமன் ஹமிதஹ், ரப்பனா வல(க்)கல் ஹம்த்' (அல்லாஹ், தன்னைப் புகழ்வோரின் புகழுரையைச் செவிமடுக்கின்றான்; எங்கள் இறைவா! உனக்கே எல்லாப் புகழும்.) என்று சொன்ன பின்பு, “இறைவா! இன்னார், இன்னார், இன்னாரை உன் கருணையிலிருந்து அப்புறப்படுத்துவாயாக!” என்று (சில எதிரிகளுக்கெதிராகப்) பிரார்த்திப்பதை நான் கேட்டிருக்கிறேன். அப்போது அல்லாஹ், “அவர்களை அல்லாஹ் மன்னிக்கும்வரை, அல்லது அவர்கள் அநீதியாளர்களாக இருப்பதால் அவர்களை அவன் வேதனை செய்யும்வரை (அவர்களுக்குத் தண்டனை வழங்குமாறு கூற, நபியே) உமக்கு எந்த உரிமையும் இல்லை” எனும் (3:128 ஆவது) வசனத்தை அருளினான்.16 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 65
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: (உஹுத் போரில் பலத்த காயமுற்ற பின்) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஃபஜ்ர் தொழுகையின் கடைசி ரக்அத்தில் ருகூஉவிலிருந்து தமது தலையை உயர்த்தும்போது, “சமிஅல்லாஹு லிமன் ஹமிதஹ், ரப்பனா வல(க்)கல் ஹம்த்' (அல்லாஹ், தன்னைப் புகழ்வோரின் புகழுரையைச் செவிமடுக்கின்றான்; எங்கள் இறைவா! உனக்கே எல்லாப் புகழும்.) என்று சொன்ன பின்பு, “இறைவா! இன்னார், இன்னார், இன்னாரை உன் கருணையிலிருந்து அப்புறப்படுத்துவாயாக!” என்று (சில எதிரிகளுக்கெதிராகப்) பிரார்த்திப்பதை நான் கேட்டிருக்கிறேன். அப்போது அல்லாஹ், “அவர்களை அல்லாஹ் மன்னிக்கும்வரை, அல்லது அவர்கள் அநீதியாளர்களாக இருப்பதால் அவர்களை அவன் வேதனை செய்யும்வரை (அவர்களுக்குத் தண்டனை வழங்குமாறு கூற, நபியே) உமக்கு எந்த உரிமையும் இல்லை” எனும் (3:128 ஆவது) வசனத்தை அருளினான்.16 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4559</td></tr><tr><td>Arabic No</td><td>4559</td></tr><tr><td>Reference</td><td>Book 65 Hadith 81</td></tr></tbody></table></div>
 

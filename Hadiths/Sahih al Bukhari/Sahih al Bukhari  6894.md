@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, নাযরের কন্যা একটি বালিকাকে চড় দিয়ে তার দাঁত ভেঙ্গে ফেলল। তারা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এল। তখন তিনি কিসাসের হুকুম দিলেন। (আধুনিক প্রকাশনী- ৬৪১৪, ইসলামিক ফাউন্ডেশন- ৬৪২৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, নাযরের কন্যা একটি বালিকাকে চড় দিয়ে তার দাঁত ভেঙ্গে ফেলল। তারা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এল। তখন তিনি কিসাসের হুকুম দিলেন। (আধুনিক প্রকাশনী- ৬৪১৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6894</td></tr><tr><td>Arabic No</td><td>6894</td></tr><tr><td>Reference</td><td>Book 87 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Anshari] telah menceritakan kepada kami [Huma
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (என் பாட்டனார்) நள்ர் அவர்களின் புதல்வி (ருபய்யிஉ பின்த் நள்ர்) ஓர் இளம் பெண்ணின் கன்னத்தில் அறைந்து அவளது முன்பல்லை உடைத்துவிட்டார். ஆகவே, அவர்கள் நபி (ஸல்) அவர்களிடம் (வழக்கைக் கொண்டு)வந்தார்கள். அப்போது நபியவர்கள் பழிவாங்கிடுமாறு உத்தரவிட்டார்கள். அத்தியாயம் : 87
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (என் பாட்டனார்) நள்ர் அவர்களின் புதல்வி (ருபய்யிஉ பின்த் நள்ர்) ஓர் இளம் பெண்ணின் கன்னத்தில் அறைந்து அவளது முன்பல்லை உடைத்துவிட்டார். ஆகவே, அவர்கள் நபி (ஸல்) அவர்களிடம் (வழக்கைக் கொண்டு)வந்தார்கள். அப்போது நபியவர்கள் பழிவாங்கிடுமாறு உத்தரவிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6894</td></tr><tr><td>Arabic No</td><td>6894</td></tr><tr><td>Reference</td><td>Book 87 Hadith 32</td></tr></tbody></table></div>
 

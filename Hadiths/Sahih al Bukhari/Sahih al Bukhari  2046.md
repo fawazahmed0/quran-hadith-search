@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি ঋতুমতী অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর চুল আঁচড়িয়ে দিতেন। ঐ সময়ে তিনি মসজিদে ই‘তিকাফ অবস্থায় থাকতেন আর ‘আয়িশাহ্ (রাযি.) তাঁর হুজরায় অবস্থান করতেন। তিনি ‘আয়িশাহ্ (রাযি.)-এর দিকে তাঁর মাথা বাড়িয়ে দিতেন। (২৯৫) (আধুনিক প্রকাশনীঃ ১৯০৩, ইসলামিক ফাউন্ডেশনঃ ১৯১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি ঋতুমতী অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর চুল আঁচড়িয়ে দিতেন। ঐ সময়ে তিনি মসজিদে ই‘তিকাফ অবস্থায় থাকতেন আর ‘আয়িশাহ্ (রাযি.) তাঁর হুজরায় অবস্থান করতেন। তিনি ‘আয়িশাহ্ (রাযি.)-এর দিকে তাঁর মাথা বাড়িয়ে দিতেন। (২৯৫) (আধুনিক প্রকাশনীঃ ১৯০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2046</td></tr><tr><td>Arabic No</td><td>2046</td></tr><tr><td>Reference</td><td>Book 33 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பள்ளிவாசலில் இஃதிகாஃப் இருக்கும்போது தமது தலையை அறை’லிருக்கும் என்னிடம் கொடுப்பார்கள். நான் அவர்களது தலையை வாரிவிடுவேன்; அப்போது எனக்கு மாதவிடாய் ஏற்பட்டிருக்கும். அத்தியாயம் : 33
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பள்ளிவாசலில் இஃதிகாஃப் இருக்கும்போது தமது தலையை அறை’லிருக்கும் என்னிடம் கொடுப்பார்கள். நான் அவர்களது தலையை வாரிவிடுவேன்; அப்போது எனக்கு மாதவிடாய் ஏற்பட்டிருக்கும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2046</td></tr><tr><td>Arabic No</td><td>2046</td></tr><tr><td>Reference</td><td>Book 33 Hadith 21</td></tr></tbody></table></div>
 

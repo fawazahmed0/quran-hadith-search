@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৮৯। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আল্লাহ তা'আলাকে মহব্বত কর। কেননা তিনি তোমাদেরকে তার নিয়ামাতরাজি খাবার খাওয়াচ্ছেন। আর আল্লাহ্ তা'আলার মহব্বতে তোমরা আমাকেও মহব্বত এবং আমার মহব্বতে আমার আহলে বাইতকেও মহব্বত কর। যঈফ, তাখরীজ ফিকহিস সীরাহ (২৩) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব। আমরা শুধু উপরোক্ত সূত্রে এ হাদীস জেনেছি।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আল্লাহ তা'আলাকে মহব্বত কর। কেননা তিনি তোমাদেরকে তার নিয়ামাতরাজি খাবার খাওয়াচ্ছেন। আর আল্লাহ্ তা'আলার মহব্বতে তোমরা আমাকেও মহব্বত এবং আমার মহব্বতে আমার আহলে বাইতকেও মহব্বত কর। যঈফ, তাখরীজ ফিকহিস সীরাহ (২৩) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব। আমরা শুধু উপরোক্ত সূত্রে এ হাদীস জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3789</td></tr><tr><td>Arabic No</td><td>3789</td></tr><tr><td>Reference</td><td>Book 49 Hadith 188</td></tr></tbody></table></div>
 

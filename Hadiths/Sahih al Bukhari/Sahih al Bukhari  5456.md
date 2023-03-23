@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন আহার করে সে যেন তার হাত না মোছে, যতক্ষণ না সে তা চেটে খায় কিংবা অন্যের দ্বারা চাটিয়ে নেয়। [মুসলিম ৩৬/১৮, হাঃ ২০৩১, আহমাদ ১৯২৪] (আধুনিক প্রকাশনী- ৫০৫২, ইসলামিক ফাউন্ডেশন- ৪৯৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন আহার করে সে যেন তার হাত না মোছে, যতক্ষণ না সে তা চেটে খায় কিংবা অন্যের দ্বারা চাটিয়ে নেয়। [মুসলিম ৩৬/১৮, হাঃ ২০৩১, আহমাদ ১৯২৪] (আধুনিক প্রকাশনী- ৫০৫২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5456</td></tr><tr><td>Arabic No</td><td>5456</td></tr><tr><td>Reference</td><td>Book 70 Hadith 85</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் சாப்பிட்டால் அவர் தமது கையைத் தாமே உறிஞ்சாமல், அல்லது (மனைவி போன்றவரிடம்) உறிஞ்சத் தராமல் அதை அவர் துடைத்துக் கொள்ள வேண்டாம். இதை இப்னு அப்பாஸ் ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 70
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் சாப்பிட்டால் அவர் தமது கையைத் தாமே உறிஞ்சாமல், அல்லது (மனைவி போன்றவரிடம்) உறிஞ்சத் தராமல் அதை அவர் துடைத்துக் கொள்ள வேண்டாம். இதை இப்னு அப்பாஸ் ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5456</td></tr><tr><td>Arabic No</td><td>5456</td></tr><tr><td>Reference</td><td>Book 70 Hadith 85</td></tr></tbody></table></div>
 

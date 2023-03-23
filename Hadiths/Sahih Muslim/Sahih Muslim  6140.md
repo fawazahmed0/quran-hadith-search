@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬০৩৪, আন্তর্জাতিক নাম্বারঃ ২৩৬৯ ৬০৩৪-(.../...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ...... আনাস (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯২৭, ইসলামিক সেন্টার ৫৯৬৫)
+মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ...... আনাস (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯২৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6140</td></tr><tr><td>Arabic No</td><td>2369.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 198</td></tr></tbody></table></div>
 

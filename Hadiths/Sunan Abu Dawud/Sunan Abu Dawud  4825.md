@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন জা'ফর (রহঃ) .... জাবির ইবন সামুরা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যখন আমরা নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে যেতাম, তখন আমরা যেখানে স্থান পেতাম, সেখানে বসে পড়তাম।
+। জাবির ইবনু সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসতাম, তখন আমাদের যে কোনো ব্যক্তি সভার প্রান্তের খালি জায়গায় বসতো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4825</td></tr><tr><td>Arabic No</td><td>4825</td></tr><tr><td>Reference</td><td>Book 43 Hadith 53</td></tr></tbody></table></div>
 

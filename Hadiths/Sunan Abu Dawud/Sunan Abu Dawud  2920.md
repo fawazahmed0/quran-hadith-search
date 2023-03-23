@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুসায়ন ইবন মু'আয (রহঃ) .... আবূ হুরায়রা (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেনঃ সন্তান যদি ভূমিষ্ঠ হয়ে কাঁদে, তবে তাকে ওয়ারিছ করা হবে (অর্থাৎ সন্তানের মাঝে জীবনের চিহ্ন প্রকাশের সাথে সাথেই সে মীরাছের অধিকারী হবে)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ শিশু ভূমিষ্ঠ হয়ে কান্নার শব্দ করে মারা গেলে তাকে ওয়ারিস গণ্য করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2920</td></tr><tr><td>Arabic No</td><td>2920</td></tr><tr><td>Reference</td><td>Book 19 Hadith 36</td></tr></tbody></table></div>
 

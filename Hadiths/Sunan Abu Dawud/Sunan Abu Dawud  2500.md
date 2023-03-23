@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাঈদ ইবন মানসূর .... ফুযালা ইবন উবায়দ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক ব্যক্তির মৃত্যুর সঙ্গে সঙ্গে তার কর্মশক্তি শেষ হয়ে যায়, কিন্তু শত্রুপক্ষের মোকাবিলায় সদা প্রস্তুত সৈনিক মারা গেলে তার আমল শেষ হয় না। কিয়ামতের দিন পর্যন্ত তার জন্য আমল বৃদ্ধি পেতে থাকে এবং সে কবরে (মুনকার ও নাকীর ফেরেশতার) পরীক্ষা হতেও নিরাপদ থাকে।
+। ফাদালাহ ইবনু ‘উবাইদ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ প্রত্যেক ব্যক্তির মৃত্যুর সাথে সাথে তার আমল শেষ হয়ে যায়, কিন্তু সীমান্ত প্রহরায় সাওয়াব বন্ধ হয় না। কিয়ামত পর্যন্ত তার আমলের সাওয়াব বৃদ্ধি পেতে থাকবে এবং সে কবরের ফিতনা থেকে নিরাপদ থাকবে। সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2500</td></tr><tr><td>Arabic No</td><td>2500</td></tr><tr><td>Reference</td><td>Book 15 Hadith 24</td></tr></tbody></table></div>
 

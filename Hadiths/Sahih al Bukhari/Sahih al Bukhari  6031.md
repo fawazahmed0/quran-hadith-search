@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গালি-গালাজকারী, অশালীন ও লা‘নতকারী ছিলেন না। তিনি আমাদের কারো উপর অসন্তুষ্ট হলে, শুধু এতটুকু বলতেন, তার কী হলো। তার কপাল ধূলিমলিন হোক। [৬০৪৬] (আধুনিক প্রকাশনী- ৫৫৯৬, ইসলামিক ফাউন্ডেশন- ৫৪৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গালি-গালাজকারী, অশালীন ও লা‘নতকারী ছিলেন না। তিনি আমাদের কারো উপর অসন্তুষ্ট হলে, শুধু এতটুকু বলতেন, তার কী হলো। তার কপাল ধূলিমলিন হোক। [৬০৪৬] (আধুনিক প্রকাশনী- ৫৫৯৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6031</td></tr><tr><td>Arabic No</td><td>6031</td></tr><tr><td>Reference</td><td>Book 78 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Asbagh] dia berkata; telah mengabarkan kepadaku 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஏசுபவராகவோ, கெட்ட வார்த்தைகள் பேசுபவராகவோ சாபமிடுபவராகவோ இருக்கவில்லை. எங்களில் ஒருவரைக் கண்டிக்கும்போது கூட “அவருக்கென்ன நேர்ந்தது? அவருடைய நெற்றி மண்ணில் படட்டும்” என்றே கூறுவார்கள். அத்தியாயம் : 78
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஏசுபவராகவோ, கெட்ட வார்த்தைகள் பேசுபவராகவோ சாபமிடுபவராகவோ இருக்கவில்லை. எங்களில் ஒருவரைக் கண்டிக்கும்போது கூட “அவருக்கென்ன நேர்ந்தது? அவருடைய நெற்றி மண்ணில் படட்டும்” என்றே கூறுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6031</td></tr><tr><td>Arabic No</td><td>6031</td></tr><tr><td>Reference</td><td>Book 78 Hadith 61</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর উপর অবতীর্ণ কৃত শেষ আয়াতটি হল সুদ সম্পর্কিত। (আধুনিক প্রকাশনীঃ ৪১৮৪, ইসলামিক ফাউন্ডেশনঃ ৪১৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর উপর অবতীর্ণ কৃত শেষ আয়াতটি হল সুদ সম্পর্কিত। (আধুনিক প্রকাশনীঃ ৪১৮৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 65 Hadith 67</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah bin Uqbah] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்கு அருளப்பெற்ற இறுதி வசனம் வட்டியைக் குறித்த (இந்த 2:281ஆவது) வசனம் ஆகும்.81 அத்தியாயம் : 65
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்கு அருளப்பெற்ற இறுதி வசனம் வட்டியைக் குறித்த (இந்த 2:281ஆவது) வசனம் ஆகும்.81 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 65 Hadith 67</td></tr></tbody></table></div>
 

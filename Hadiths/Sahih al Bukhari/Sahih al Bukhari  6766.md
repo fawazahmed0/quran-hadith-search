@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+রাবী বলেন, আমি এ কথাটি আবূ বাকর (রাঃ)-এর নিকটে উল্লেখ করলাম। তখন তিনি বললেন, আমার দু’টো কান তা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে শুনেছে এবং আমার অন্তর তা সংরক্ষণ করে রেখেছে। [৪৩২৭; মুসলিম ১/২৭, হাঃ ৬৩, আহমাদ ১৫৫৩] (আধুনিক প্রকাশনী- ৬২৯৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6766</td></tr><tr><td>Arabic No</td><td>6766</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

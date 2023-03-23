@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্রাহীম ইবন মূসা .... মু‘আবিয়া (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসুলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছি, তাওবার দরজা বন্ধ না হওয়া পর্যন্ত হিজরত বন্ধ হবে না। আর সূর্য যে পর্যন্ত পশ্চিম আকাশে উদিত না হয় সে পর্যন্ত তাওবার দরজা বন্ধ হবে না।
+। মু‘আবিয়াহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ তওবার দরজা বন্ধ না হওয়া পর্যন্ত হিজরাত শেষ হবে না। আর তওবার দরজা বন্ধ হবে না যতক্ষণ পশ্চিম দিক থেকে সূর্য উদিত না হয়। সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>2479</td></tr><tr><td>Reference</td><td>Book 15 Hadith 3</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah mengabarkan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muaviye (bin Ebi Süfyan)'dan; demiştir ki: Rasulullah (Sallallahu aleyhi ve sellem)'i; 'tevbe (vakti) sona ermedikçe hicret (vakti) de sona ermez. Güneş battığı yerden doğmadıkça da tevbe sona ermez" buyururken işittim. Diğer tahric: Darimî, siyer, Ahmed b. Hanbel, VI, 99
+Muaviye (bin Ebi Süfyan)'dan; demiştir ki: Rasulullah (Sallallahu aleyhi ve sellem)'i; 'tevbe (vakti) sona ermedikçe hicret (vakti) de sona ermez. Güneş battığı yerden doğmadıkça da tevbe sona ermez" buyururken işittim. Diğer tahric: Darimî, siyer, Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>2479</td></tr><tr><td>Reference</td><td>Book 15 Hadith 3</td></tr></tbody></table></div>
 

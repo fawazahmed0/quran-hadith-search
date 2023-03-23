@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭১০। জাবির (রাঃ) হতে বর্ণিত আছে, মুখমণ্ডলে দাগ দিতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বারণ করেছেন। সহীহ, ইরওয়া (২১৮৫), সহীহ আবূ দাউদ (২৩১০), মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। জাবির (রাঃ) হতে বর্ণিত আছে, মুখমণ্ডলে দাগ দিতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বারণ করেছেন। সহীহ, ইরওয়া (২১৮৫), সহীহ আবূ দাউদ (২৩১০), মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1710</td></tr><tr><td>Arabic No</td><td>1710</td></tr><tr><td>Reference</td><td>Book 23 Hadith 43</td></tr></tbody></table></div>
 

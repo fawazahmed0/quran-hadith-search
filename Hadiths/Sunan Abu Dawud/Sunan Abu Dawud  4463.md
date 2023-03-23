@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসহাক ইবন ইবরাহীম (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যদি অবিবাহিত ব্যক্তি সমকামিতার সময় ধরা পড়ে, তবে তাকে পাথর মেরে হত্যা করতে হবে।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, অবিবাহিতদের লাওয়াতাতে (পায়ুকামে) লিপ্ত পাওয়া গেলে রজম করা হবে। ইমাম আবূ দাঊদ (রহঃ) বলেন, ‘আসিম (রহঃ) সূত্রে বর্ণিত হাদীস আমর ইবনু আবূ আমরের হাদীসকে দুর্বল প্রমাণিত করে।[1] সনদ সহীহ মাওকুফ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4463</td></tr><tr><td>Arabic No</td><td>4463</td></tr><tr><td>Reference</td><td>Book 40 Hadith 113</td></tr></tbody></table></div>
 

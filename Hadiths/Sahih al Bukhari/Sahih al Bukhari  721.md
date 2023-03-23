@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যদি লোকেরা জানত যে, আওয়াল ওয়াক্তে সালাত আদায়ের কী ফাযীলাত, তাহলে তারা এর জন্য প্রতিযোগিতা করে আগেভাগে আসার চেষ্টা করতো। আর ‘ইশা ও ফজরের জামা‘আতের কী ফাযীলাত যদি তারা জানত তাহলে হামাগুড়ি দিয়ে হলেও তাতে উপস্থিত হতো। এবং সামনের কাতারের কী ফাযীলাত তা যদি জানত, তাহলে এর জন্য তারা কুরআ ব্যবহার করতো। (৬১৫) (আধুনিক প্রকাশনীঃ ৬৭৭ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৬৮৫ শেষাংশ)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>721</td></tr><tr><td>Arabic No</td><td>721</td></tr><tr><td>Reference</td><td>Book 10 Hadith 115</td></tr></tbody></table></div>
 

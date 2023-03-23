@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, ‘আবদুর রহমান ইবনু আবূ বাকর (রাযি.) একটি মিস্ওয়াক হাতে নিয়ে দাঁত ঘষতে ঘষতে প্রবেশ করলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -তার দিকে তাকালেন। আমি তাঁকে বললাম, হে ‘আবদুর রহমান! মিস্ওয়াকটি আমাকে দাও। সে তা আমাকে দিল। আমি ব্যবহৃত অংশ ভেঙ্গে ফেললাম এবং তা চিবিয়ে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দিলাম। তিনি আমার বুকে হেলান দিয়ে তা দিয়ে মিস্ওয়াক করলেন। (১৩৮৯, ৩১০০, ৩৭৭৪, ৪৪৩৮, ৪৪৪৬, ৪৪৪৯, ৪৪৫০, ৪৪৫১, ৫২১৭, ৬৫১০) (আধুনিক প্রকাশনীঃ ৮৩৯, ইসলামিক ফাউন্ডেশনঃ ৮৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, ‘আবদুর রহমান ইবনু আবূ বাকর (রাযি.) একটি মিস্ওয়াক হাতে নিয়ে দাঁত ঘষতে ঘষতে প্রবেশ করলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -তার দিকে তাকালেন। আমি তাঁকে বললাম, হে ‘আবদুর রহমান! মিস্ওয়াকটি আমাকে দাও। সে তা আমাকে দিল। আমি ব্যবহৃত অংশ ভেঙ্গে ফেললাম এবং তা চিবিয়ে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দিলাম। তিনি আমার বুকে হেলান দিয়ে তা দিয়ে মিস্ওয়াক করলেন। (১৩৮৯, ৩১০০, ৩৭৭৪, ৪৪৩৮, ৪৪৪৬, ৪৪৪৯, ৪৪৫০, ৪৪৫১, ৫২১৭, ৬৫১০) (আধুনিক প্রকাশনীঃ ৮৩৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>890</td></tr><tr><td>Arabic No</td><td>890</td></tr><tr><td>Reference</td><td>Book 11 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்கள் இறக்கும் தறுவாயில் என் நெஞ்சில் சாய்ந்துகொண்டி ருந்தபோது என் சகோதரர்) அப்துர் ரஹ்மான் பின் அபீபக்ர் (ரலி) அவர்கள் தம்மிடமிருந்த பல் குச்சியால் பல் துலக்கியபடி வந்தார். அவரை அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் கூர்ந்து பார்த்தார்கள். அவரிடம் நான், “என்னிடம் இந்தப் பல் குச்சியைக் கொடுங்கள், அப்துர் ரஹ்மானே!” என்று கேட்க, அவர் என்னிடம் அதைக் கொடுத்தார். நான் கடித்து (அதன் முனையைத் துப்பி)விட்டு, அதை நன்றாக மென்று (மென்மைப்படுத்தி) அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் கொடுத்தேன். அவர்கள் என் நெஞ்சின் மீது சாய்ந்தபடியே அதைக் கொண்டு பல் துலக்கிக் கொண்டார்கள். அத்தியாயம் : 11
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்கள் இறக்கும் தறுவாயில் என் நெஞ்சில் சாய்ந்துகொண்டி ருந்தபோது என் சகோதரர்) அப்துர் ரஹ்மான் பின் அபீபக்ர் (ரலி) அவர்கள் தம்மிடமிருந்த பல் குச்சியால் பல் துலக்கியபடி வந்தார். அவரை அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் கூர்ந்து பார்த்தார்கள். அவரிடம் நான், “என்னிடம் இந்தப் பல் குச்சியைக் கொடுங்கள், அப்துர் ரஹ்மானே!” என்று கேட்க, அவர் என்னிடம் அதைக் கொடுத்தார். நான் கடித்து (அதன் முனையைத் துப்பி)விட்டு, அதை நன்றாக மென்று (மென்மைப்படுத்தி) அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் கொடுத்தேன். அவர்கள் என் நெஞ்சின் மீது சாய்ந்தபடியே அதைக் கொண்டு பல் துலக்கிக் கொண்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>890</td></tr><tr><td>Arabic No</td><td>890</td></tr><tr><td>Reference</td><td>Book 11 Hadith 15</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (Radiyallahu Anha)'dan rivayet edilmiştir: "Resûl-i Ekrem Sallallahu Aleyhi ve Sellem hasta iken Abdurrahmân İbn Ebi Bekir zi­arete gelmişti, içeriye giren Abdurrahmân'in elinde dişlerini temizlediği bir misvak vardı. Resûlullah Sallallahu Aleyhi ve Sellem onun elindeki misvak'a bakakaldı. Ben bunu fark edince Abdurrahman'dan misvağı bana vermesini istedim. Abdurrahman'dan aldığım misvağı kırıp ucunu dişlerimle ezerek yumuşattıktan sonra Resûlullah Sallallahu Aleyhi ve Sellem'e verdim. Resûl-i Ekrem (Sallallahu aleyhi ve Sellem) de göğsüme yaslanmış iken dişlerini bu misvakla temizlemeye koyuldu. Tekrar: 1389, 3100, 3774, 4438, 4449, 4450, 4451, 5217 ve 6510
+Aişe (Radiyallahu Anha)'dan rivayet edilmiştir: "Resûl-i Ekrem Sallallahu Aleyhi ve Sellem hasta iken Abdurrahmân İbn Ebi Bekir zi­arete gelmişti, içeriye giren Abdurrahmân'in elinde dişlerini temizlediği bir misvak vardı. Resûlullah Sallallahu Aleyhi ve Sellem onun elindeki misvak'a bakakaldı. Ben bunu fark edince Abdurrahman'dan misvağı bana vermesini istedim. Abdurrahman'dan aldığım misvağı kırıp ucunu dişlerimle ezerek yumuşattıktan sonra Resûlullah Sallallahu Aleyhi ve Sellem'e verdim. Resûl-i Ekrem (Sallallahu aleyhi ve Sellem) de göğsüme yaslanmış iken dişlerini bu misvakla temizlemeye koyuldu. Tekrar: 1389, 3100, 3774, 4438, 4449, 4450, 4451, 5217 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>890</td></tr><tr><td>Arabic No</td><td>890</td></tr><tr><td>Reference</td><td>Book 11 Hadith 15</td></tr></tbody></table></div>
 

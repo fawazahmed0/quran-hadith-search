@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... জাসরা বিনত দাজাজা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আইশা (রাঃ) বলেছেনঃ আমি সাফিয়ার ন্যায় আর কাউকে উত্তম খানা পাকাতে দেখিনি। একদা তিনি খানা পাকিয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট প্রেরণ করেন, যাতে আমি রাগান্বিত হই এবং পাত্রটি ভেঙ্গে ফেলি। এরপর আমি জিজ্ঞাসা করি, ইয়া রাসূলাল্লাহ! আমি যা করেছি, এর কাফফারা কি? তখন তিনি বলেনঃ পাত্রের বিনিময়ে এরূপ পাত্র এবং খানার বিনিময়ে এরূপ খানা।
+। জাসরাহ বিনতু দাজাজাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা ‘আয়িশাহ (রাঃ) বলেন, সাফিয়্যাহর মতো সুস্বাদু খাবার রান্না করতে কাউকে আমি দেখিনি। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য খাবার তৈরী করে পাঠালেন। এতে রাগান্বিত হয়ে আমি খাবারের পাত্রটি ভেঙ্গে ফেলি। অতঃপর আমি বলি, হে আল্লাহর রাসূল! আমার কৃতকর্মের কাফফারাহ কি? তিনি বলেনঃ অনুরূপ একটি পাত্র ও খাবারের বিনিময়ে অনুরূপ খাবার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 24 Hadith 153</td></tr></tbody></table></div>
 

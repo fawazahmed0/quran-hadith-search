@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আবদুল্লাহ কাত্তান (রহঃ) ..... ইবন ইসহাক (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ 'সাহেবে-মাক্‌স' ঐ ব্যক্তি, যে লোকদের নিকট হতে উশর এক-দশমাংশ আদায় করার সময় (যাকাত হিসাবে) কিছু বেশী আদায় করে।
+। ইবনু ইসহাক (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, জনগণের নিটক থেকে খাজনা আদায়কারীকে তহসিলদার বলা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2938</td></tr><tr><td>Arabic No</td><td>2938</td></tr><tr><td>Reference</td><td>Book 20 Hadith 11</td></tr></tbody></table></div>
 

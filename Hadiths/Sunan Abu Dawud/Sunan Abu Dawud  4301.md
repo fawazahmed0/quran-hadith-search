@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল ওয়াহাব ইব্‌ন নাজ্‌দা (রহঃ) .... আওফ ইব্‌ন মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্‌ এ উম্মতের উপর এক সাথে দু'টি বিপদ একত্রিত করবেন না যে, তারা পরস্পর যুদ্ধ-বিগ্রহে লিপ্ত থাকবে এবং শত্রু ও তাদের উপর হামলা করবে।
+। আওফ ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এই উম্মাতের তরবারি ও এর শত্রুর তরবারি দু’টোকে আল্লাহ কখনো এ উম্মাতের উপর একত্র করবেন না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4301</td></tr><tr><td>Arabic No</td><td>4301</td></tr><tr><td>Reference</td><td>Book 39 Hadith 11</td></tr></tbody></table></div>
 

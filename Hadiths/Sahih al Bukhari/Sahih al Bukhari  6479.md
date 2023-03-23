@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সাত প্রকার লোককে আল্লাহ্ ছায়া দান করবেন। (তন্মধ্যে) এমন এক ব্যক্তি যে আল্লাহর যিকর করে অতঃপর তার দু’টি চোখ অশ্রুসিক্ত হয়। [৬৬০] (আধুনিক প্রকাশনী- ৬০২৯, ইসলামিক ফাউন্ডেশন- ৬০৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সাত প্রকার লোককে আল্লাহ্ ছায়া দান করবেন। (তন্মধ্যে) এমন এক ব্যক্তি যে আল্লাহর যিকর করে অতঃপর তার দু’টি চোখ অশ্রুসিক্ত হয়। [৬৬০] (আধুনিক প্রকাশনী- ৬০২৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6479</td></tr><tr><td>Arabic No</td><td>6479</td></tr><tr><td>Reference</td><td>Book 81 Hadith 68</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (தனது நிழலைத் தவிர வேறு நிழலே இல்லாத மறுமை நாளில்) ஏழு பேருக்கு அல்லாஹ் தனது (அரியணையின்) நிழலில் அடைக்கலம் அளிக்கிறான். (தனிமையில்) அல்லாஹ்வை நினைவு கூர்ந்து (அவனது அச்சத்தால்) கண்ணீர் வடிப்பவர் (அவர்களில் ஒருவராவார்). இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.67 அத்தியாயம் : 81
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (தனது நிழலைத் தவிர வேறு நிழலே இல்லாத மறுமை நாளில்) ஏழு பேருக்கு அல்லாஹ் தனது (அரியணையின்) நிழலில் அடைக்கலம் அளிக்கிறான். (தனிமையில்) அல்லாஹ்வை நினைவு கூர்ந்து (அவனது அச்சத்தால்) கண்ணீர் வடிப்பவர் (அவர்களில் ஒருவராவார்). இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.67 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6479</td></tr><tr><td>Arabic No</td><td>6479</td></tr><tr><td>Reference</td><td>Book 81 Hadith 68</td></tr></tbody></table></div>
 

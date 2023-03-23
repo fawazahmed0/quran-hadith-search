@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৬৫, আন্তর্জাতিক নাম্বারঃ ১৯৩ ৩৬৫-(৩২৪/...) মুহাম্মাদ ইবনু আল মুসান্না (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেন, কিয়ামত দিবসে আল্লাহ তা'আলা মু'মিন বান্দাদেরকে একত্রিত করবেন। ফলে তারা সেটাকে অতি সঙ্কটময় মনে করবে। বর্ণনাকারী পূর্বোক্ত হাদীসদ্বয়ের অনুরূপ বর্ণনা করেছেন। তবে এ রিওয়ায়াতে চতুর্থাবারের ব্যাপারে উল্লেখ করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তারপর আমি বলবো, হে প্রতিপালক! আর কেউ অবশিষ্ট নেই। কেবল তারাই আছে যাদেরকে পবিত্র কুরআন আটকে রেখেছে। অর্থাৎ যাদের ব্যাপারে চিরকালের জন্য জাহান্নাম নির্ধারিত করে দেয়া হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৩৭৩, ইসলামিক সেন্টারঃ ৩৮৪)
+মুহাম্মাদ ইবনু আল মুসান্না (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেন, কিয়ামত দিবসে আল্লাহ তা'আলা মু'মিন বান্দাদেরকে একত্রিত করবেন। ফলে তারা সেটাকে অতি সঙ্কটময় মনে করবে। বর্ণনাকারী পূর্বোক্ত হাদীসদ্বয়ের অনুরূপ বর্ণনা করেছেন। তবে এ রিওয়ায়াতে চতুর্থাবারের ব্যাপারে উল্লেখ করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তারপর আমি বলবো, হে প্রতিপালক! আর কেউ অবশিষ্ট নেই। কেবল তারাই আছে যাদেরকে পবিত্র কুরআন আটকে রেখেছে। অর্থাৎ যাদের ব্যাপারে চিরকালের জন্য জাহান্নাম নির্ধারিত করে দেয়া হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৩৭৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>477</td></tr><tr><td>Arabic No</td><td>193.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 383</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Anas b. Malik reported:The Prophet of Allah (may peace be, upon him) said: Allah
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. el-Müsenna tahdis etti. Bize Muaz b. Hişam tahdis edip dedi ki: Bana babam Katade'den tahdis etti. Onun Enes b. Malik'ten rivayetine göre Allah'ın Nebisi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kıyamet gününde Allah müminleri toplayacak ve bu husus onlara ilham olunacak" deyip, bundan önceki iki ravinin hadisi gibi hadisi nakletti ve dördüncüsünde de şunu zikretti: "Ben de: Rabbim, cehennem ateşinde Kur'an'ın alıkoyduğu -yani hakkında ebedilik vacip olmuş- kimselerden başkası kalmadı, derim. " Diğer tahric: Buhari, 7410, 7440 -muhtasar olarak-, 7516; Tuhfetu'I-Eşraf, 1357
+Bize Muhammed b. el-Müsenna tahdis etti. Bize Muaz b. Hişam tahdis edip dedi ki: Bana babam Katade'den tahdis etti. Onun Enes b. Malik'ten rivayetine göre Allah'ın Nebisi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kıyamet gününde Allah müminleri toplayacak ve bu husus onlara ilham olunacak" deyip, bundan önceki iki ravinin hadisi gibi hadisi nakletti ve dördüncüsünde de şunu zikretti: "Ben de: Rabbim, cehennem ateşinde Kur'an'ın alıkoyduğu -yani hakkında ebedilik vacip olmuş- kimselerden başkası kalmadı, derim. " Diğer tahric: Buhari, 7410, 7440 -muhtasar olarak-, 7516; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>477</td></tr><tr><td>Arabic No</td><td>193.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 383</td></tr></tbody></table></div>
 

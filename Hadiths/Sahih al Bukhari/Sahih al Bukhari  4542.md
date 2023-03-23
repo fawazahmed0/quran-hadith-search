@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, সূরাহ আল-বাকারাহর শেষ আয়াতগুলো যখন অবতীর্ণ হল, তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মসজিদে তা পাঠ করে শুনান এবং মদের ব্যবসা নিষিদ্ধ করে দেন। (আধুনিক প্রকাশনীঃ ৪১৮২, ইসলামিক ফাউন্ডেশনঃ ৪১৮৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, সূরাহ আল-বাকারাহর শেষ আয়াতগুলো যখন অবতীর্ণ হল, তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মসজিদে তা পাঠ করে শুনান এবং মদের ব্যবসা নিষিদ্ধ করে দেন। (আধুনিক প্রকাশনীঃ ৪১৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4542</td></tr><tr><td>Arabic No</td><td>4542</td></tr><tr><td>Reference</td><td>Book 65 Hadith 65</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Basyar] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: “அல்பகரா' அத்தியாயத்தின் இறுதி வசனங்கள் (2:275-281) அருளப்பெற்ற போது அவற்றை நபி (ஸல்) அவர்கள் பள்ளிவாசலில் வைத்து (மக்களுக்கு) ஓதிக்காட்டினார்கள். மேலும், மது வியாபாரத்தைத் தடை செய்தார்கள். அத்தியாயம் : 65
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: “அல்பகரா' அத்தியாயத்தின் இறுதி வசனங்கள் (2:275-281) அருளப்பெற்ற போது அவற்றை நபி (ஸல்) அவர்கள் பள்ளிவாசலில் வைத்து (மக்களுக்கு) ஓதிக்காட்டினார்கள். மேலும், மது வியாபாரத்தைத் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4542</td></tr><tr><td>Arabic No</td><td>4542</td></tr><tr><td>Reference</td><td>Book 65 Hadith 65</td></tr></tbody></table></div>
 

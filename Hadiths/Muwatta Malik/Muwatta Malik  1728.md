@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১৭. জাবির ইবন আবদুল্লাহ (রাঃ)-এর বর্ণনা, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেন, তোমাদের মধ্যে যখন কেহ রোগী দেখিতে যায়, তখন সে আল্লাহর রহমতের মধ্যে ঢুকিয়া পড়ে। অতঃপর যখন সে সেখানে বসে, তখন সেই রহমত তাহার ভিতরে অবস্থান করে কিংবা এই রকমই কিছু তিনি বলিয়াছেন।[1]
+রেওয়ায়ত ১৭. জাবির ইবন আবদুল্লাহ (রাঃ)-এর বর্ণনা, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেন, তোমাদের মধ্যে যখন কেহ রোগী দেখিতে যায়, তখন সে আল্লাহর রহমতের মধ্যে ঢুকিয়া পড়ে। অতঃপর যখন সে সেখানে বসে, তখন সেই রহমত তাহার ভিতরে অবস্থান করে কিংবা এই রকমই কিছু তিনি বলিয়াছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 50 Hadith 18</td></tr></tbody></table></div>
 

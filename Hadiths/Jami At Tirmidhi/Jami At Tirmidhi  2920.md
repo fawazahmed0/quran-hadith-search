@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯২০। আয়িশাহ (রাযিঃ) বলেন, সূরা বনী ইসরাঈল ও সূরা আয-যুমার তিলাওয়াত না করা পর্যন্ত নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘুমাতেন না। সহীহঃ সহীহাহ (৬৪১)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। আবূ লুবাবা একজন বাসরার শাইখ। হাম্মাদ ইবনু যাইদ তার সূত্রে একাধিক হাদীস রিওয়ায়াত করেছেন। তার নাম মারওয়ান বলে কথিত। মুহাম্মাদ ইবনু ইসমাঈল উক্ত কথাটি তার কিতাবুত তারীখ গ্রন্থে বর্ণনা করেছেন।
+। আয়িশাহ (রাযিঃ) বলেন, সূরা বনী ইসরাঈল ও সূরা আয-যুমার তিলাওয়াত না করা পর্যন্ত নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘুমাতেন না। সহীহঃ সহীহাহ (৬৪১)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। আবূ লুবাবা একজন বাসরার শাইখ। হাম্মাদ ইবনু যাইদ তার সূত্রে একাধিক হাদীস রিওয়ায়াত করেছেন। তার নাম মারওয়ান বলে কথিত। মুহাম্মাদ ইবনু ইসমাঈল উক্ত কথাটি তার কিতাবুত তারীখ গ্রন্থে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2920</td></tr><tr><td>Arabic No</td><td>2920</td></tr><tr><td>Reference</td><td>Book 45 Hadith 46</td></tr></tbody></table></div>
 

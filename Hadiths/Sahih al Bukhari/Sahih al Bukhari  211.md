@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। একদা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুধ পান করলেন। অতঃপর কুলি করলেন এবং বললেনঃ ‘এতে রয়েছে তৈলাক্ত বস্তু’ (কাজেই কুলি করা উত্তম)। ইউনুস ও সালিহ ইবনু কায়সার (রাযি.) যুহরী (রহ.) হতে অনুরূপ বর্ণনা করেছেন। (৫৬০৯; মুসলিম ৩/২৪, হাঃ ৩৫৮, আহমাদ ১৯৫১, ৩০৫১) (আধুনিক প্রকাশনীঃ ২০৫, ইসলামিক ফাউন্ডেশনঃ ২১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। একদা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুধ পান করলেন। অতঃপর কুলি করলেন এবং বললেনঃ ‘এতে রয়েছে তৈলাক্ত বস্তু’ (কাজেই কুলি করা উত্তম)। ইউনুস ও সালিহ ইবনু কায়সার (রাযি.) যুহরী (রহ.) হতে অনুরূপ বর্ণনা করেছেন। (৫৬০৯; মুসলিম ৩/২৪, হাঃ ৩৫৮, আহমাদ ১৯৫১, ৩০৫১) (আধুনিক প্রকাশনীঃ ২০৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>211</td></tr><tr><td>Arabic No</td><td>211</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] dan [Qutaibah] keduanya berkat
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பால் அருந்திவிட்டு வாய் கொப்புளித் தார்கள். பிறகு “இதில் கொழுப்பு இருக்கி றது (ஆகவேதான், வாய்கொப்புளித்தேன்)” என்று சொன்னார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 4
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பால் அருந்திவிட்டு வாய் கொப்புளித் தார்கள். பிறகு “இதில் கொழுப்பு இருக்கி றது (ஆகவேதான், வாய்கொப்புளித்தேன்)” என்று சொன்னார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>211</td></tr><tr><td>Arabic No</td><td>211</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] dan [Qutaibah] keduanya berkat
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'den rivayet edildiğine göre, Resûlullah (Sallallahu aleyhi ve Sellem) süt içip ağzını çalkaladıktan sonra şöyle buyurdu: "Onun (sütün), yağı vardır. Tekrar: 5609. Diğer tahric edenler: Tirmizi Tahare; Nesâî, Tahara: 125
+İbn Abbas r.a.'den rivayet edildiğine göre, Resûlullah (Sallallahu aleyhi ve Sellem) süt içip ağzını çalkaladıktan sonra şöyle buyurdu: "Onun (sütün), yağı vardır. Tekrar: 5609. Diğer tahric edenler: Tirmizi Tahare; Nesâî, Tahara:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>211</td></tr><tr><td>Arabic No</td><td>211</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
 

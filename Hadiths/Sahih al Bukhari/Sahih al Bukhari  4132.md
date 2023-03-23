@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে নাজ্দ এলাকায় যুদ্ধ করেছি। এ যুদ্ধে আমরা শত্রুদের মুকাবালা করেছিলাম এবং তাদের সম্মুখে কাতারে দাঁড়িয়েছিলাম। [৯৪২] (আধুনিক প্রকাশনীঃ ৩৮২৩, ইসলামিক ফাউন্ডেশনঃ ৩৮২৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে নাজ্দ এলাকায় যুদ্ধ করেছি। এ যুদ্ধে আমরা শত্রুদের মুকাবালা করেছিলাম এবং তাদের সম্মুখে কাতারে দাঁড়িয়েছিলাম। [৯৪২] (আধুনিক প্রকাশনীঃ ৩৮২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4132</td></tr><tr><td>Arabic No</td><td>4132</td></tr><tr><td>Reference</td><td>Book 64 Hadith 176</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (“தாத்துர் ரிக்காஉ') போருக்காக அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் நஜ்தை நோக்கி நாங்கள் புறப்பட்டுச் சென்றோம். அப்போது நாங்கள் எதிரிகளை எதிர்கொண்டு அவர்களுக்காக அணிவகுத்தோம்.206 அத்தியாயம் : 64
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (“தாத்துர் ரிக்காஉ') போருக்காக அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் நஜ்தை நோக்கி நாங்கள் புறப்பட்டுச் சென்றோம். அப்போது நாங்கள் எதிரிகளை எதிர்கொண்டு அவர்களுக்காக அணிவகுத்தோம்.206 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4132</td></tr><tr><td>Arabic No</td><td>4132</td></tr><tr><td>Reference</td><td>Book 64 Hadith 176</td></tr></tbody></table></div>
 

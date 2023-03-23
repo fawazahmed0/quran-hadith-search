@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ عُمَرُ بْنُ عَبْدِ الْعَزِيْزِ كَانَتْ الْهَدِيَّةُ فِيْ زَمَنِ رَسُوْلِ اللهِ صلى الله عليه وسلم هَدِيَّةً وَالْيَوْمَ رِشْوَةٌ. ‘উমার ইবনু ‘আব্দুল ‘আযীয (রহ.) বলেছেন, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর যুগে হাদিয়া ছিল, কিন্তু আজকাল তা ঘুষে পরিণত হয়েছে। ২৫৯৬. ‘আবদুল্লাহ ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর জনৈক সাহাবী সা‘আব ইবনু জাস্সামা লাইসী (রাঃ)-কে বলতে শুনেছেন যে, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে তিনি একটি বন্য গাধা হাদিয়া দিয়েছিলেন। সে সময় তিনি ইহরাম অবস্থায় আবওয়াহ কিংবা ওয়াদ্দান নামক স্থানে অবস্থান করছিলেন। কাজেই তিনি সেটা ফিরিয়ে দিলেন। সা‘আব (রাঃ) বলেন, যখন তিনি আমার চেহারায় হাদিয়া ফিরিয়ে দেয়ার ছাপ দেখলেন, তখন তিনি বললেন, আমরা ইহরাম অবস্থায় না থাকলে তোমার হাদিয়া ফিরিয়ে দিতাম না। (১৮২৫) (আধুনিক প্রকাশনীঃ ২৪০৭, ইসলামিক ফাউন্ডেশনঃ ২৪২৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ عُمَرُ بْنُ عَبْدِ الْعَزِيْزِ كَانَتْ الْهَدِيَّةُ فِيْ زَمَنِ رَسُوْلِ اللهِ صلى الله عليه وسلم هَدِيَّةً وَالْيَوْمَ رِشْوَةٌ. ‘উমার ইবনু ‘আব্দুল ‘আযীয (রহ.) বলেছেন, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর যুগে হাদিয়া ছিল, কিন্তু আজকাল তা ঘুষে পরিণত হয়েছে। ২৫৯৬. ‘আবদুল্লাহ ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর জনৈক সাহাবী সা‘আব ইবনু জাস্সামা লাইসী (রাঃ)-কে বলতে শুনেছেন যে, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে তিনি একটি বন্য গাধা হাদিয়া দিয়েছিলেন। সে সময় তিনি ইহরাম অবস্থায় আবওয়াহ কিংবা ওয়াদ্দান নামক স্থানে অবস্থান করছিলেন। কাজেই তিনি সেটা ফিরিয়ে দিলেন। সা‘আব (রাঃ) বলেন, যখন তিনি আমার চেহারায় হাদিয়া ফিরিয়ে দেয়ার ছাপ দেখলেন, তখন তিনি বললেন, আমরা ইহরাম অবস্থায় না থাকলে তোমার হাদিয়া ফিরিয়ে দিতাম না। (১৮২৫) (আধুনিক প্রকাশনীঃ ২৪০৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 51 Hadith 30</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin 'Abbas:That he heard As-Sa'b bin Jath-thama Al-Laithi, who was one of the companions of the Prophet, saying that he gave the meat of an onager to Allah's Messenger (ﷺ) while he was at a place called Al-Abwa' or Waddan, and was in a state of Ihram. The Prophet (ﷺ) did not accept it. When the Prophet (ﷺ) saw the signs of sorrow on As-Sa'b's face because of not accepting his present, he said (to him), "We are not returning your present, but we are in the state of Ihram." (See Hadith No. 747)
+Narrated 'Abdullah bin 'Abbas:That he heard As-Sa'b bin Jath-thama Al-Laithi, who was one of the companions of the Prophet, saying that he gave the meat of an onager to Allah's Messenger (ﷺ) while he was at a place called Al-Abwa' or Waddan, and was in a state of Ihram. The Prophet (ﷺ) did not accept it. When the Prophet (ﷺ) saw the signs of sorrow on As-Sa'b's face because of not accepting his present, he said (to him), "We are not returning your present, but we are in the state of Ihram." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 51 Hadith 30</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபித்தோழர் ஸஅப் பின் ஜஸ் ஸாமா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘அப்வா’ என்னும் இடத்தில் அல்லது யிவத்தான்’ என்னும் இடத்தில் இருந்தபோது, ஒரு காட்டுக் கழுதையை அவர்களுக்கு நான் அன்பளிப்பாக வழங்கினேன். (அது நான் வேட்டையாடியதாகும்.) அப்போது அவர்கள் இஹ்ராம் கட்டியிருந்தார்கள். அதனால், அதை ஏற்க மறுத்துவிட் டார்கள். அவர்கள் என் அன்பளிப்பை ஏற்க மறுத்துவிட்டதால் என் முகத்தில் தோன் றிய கவலையைக் கண்டபோது, ‘‘நாமாக உமது அன்பளிப்பை மறுக்கவில்லை; மாறாக, நாம் யிஇஹ்ராம்’ கட்டியுள்ளோம்” என்று கூறினார்கள். அத்தியாயம் : 50
+நபித்தோழர் ஸஅப் பின் ஜஸ் ஸாமா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘அப்வா’ என்னும் இடத்தில் அல்லது யிவத்தான்’ என்னும் இடத்தில் இருந்தபோது, ஒரு காட்டுக் கழுதையை அவர்களுக்கு நான் அன்பளிப்பாக வழங்கினேன். (அது நான் வேட்டையாடியதாகும்.) அப்போது அவர்கள் இஹ்ராம் கட்டியிருந்தார்கள். அதனால், அதை ஏற்க மறுத்துவிட் டார்கள். அவர்கள் என் அன்பளிப்பை ஏற்க மறுத்துவிட்டதால் என் முகத்தில் தோன் றிய கவலையைக் கண்டபோது, ‘‘நாமாக உமது அன்பளிப்பை மறுக்கவில்லை; மாறாக, நாம் யிஇஹ்ராம்’ கட்டியுள்ளோம்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 51 Hadith 30</td></tr></tbody></table></div>
 

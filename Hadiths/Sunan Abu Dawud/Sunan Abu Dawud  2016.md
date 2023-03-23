@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ....... কাসীর ইবন কাসীর ইবন মুত্তালিব ইবন আবূ ওয়াদা'আহ (রহঃ) হতে, তিনি তাঁর পরিবারের জনৈক ব্যক্তি হতে, তিনি তাঁর দাদা হতে বর্ণনা করেছেন যে, তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বনী সাহাম গোত্রের দরজার নিকট নামায আদায় করতে দেখেন, যখন লোকেরা তাঁর সম্মুখ দিয়ে যাতায়াত করছেন এবং তাদের মধ্যে কোন সুতরা ছিল না। রাবী সুফইয়ান (রহঃ) বলেন, তাঁর ও কা‘বার মধ্যে কোন সু্তরা ছিল না।
+। কাসীর ইবনু কাসীর ইবনুল মুত্তালিব ইবনু আবূ ওয়াদা‘আহ (রহ.) থেকে তার পরিবারের জনৈক ব্যক্তির সূত্রে এবং তিনি তার দাদার সূত্রে বর্ণনা করেন। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বনী সাহমের দরজার কাছে সালাত আদায় করতে দেখেছেন। এ সময় লোকেরা তাঁর সম্মুখ দিয়ে অতিক্রম করেছে। অথচ উভয়ের মাঝখানে সুতরাহ ছিলো না। সুফিয়ান বলেন, তাঁর এবং কা‘বার মাঝখানে কোনো সুতরাহ ছিলো না।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2016</td></tr><tr><td>Arabic No</td><td>2016</td></tr><tr><td>Reference</td><td>Book 11 Hadith 296</td></tr></tbody></table></div>
 

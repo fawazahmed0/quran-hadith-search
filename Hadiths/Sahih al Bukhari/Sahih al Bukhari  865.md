@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি তোমাদের স্ত্রীরা রাতের বেলা মসজিদে আসতে চায় তাহলে তাদের অনুমতি দিবে। শু‘বাহ (রহ.).....ইবনু ‘উমার (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হাদীস বর্ণনায় ‘উবাইদুল্লাহ্ ইবনু মূসা (রহ.)-এর অনুসরণ করেছেন। (৮৭৩, ৮৯৯, ৯০০, ৫২৩৮; মুসলিম ৪/৩০, হাঃ ৪৪২, আহমাদ ৫২১১) (আধুনিক প্রকাশনীঃ ৮১৬, ইসলামিক ফাউন্ডেশনঃ ৮২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি তোমাদের স্ত্রীরা রাতের বেলা মসজিদে আসতে চায় তাহলে তাদের অনুমতি দিবে। শু‘বাহ (রহ.).....ইবনু ‘উমার (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হাদীস বর্ণনায় ‘উবাইদুল্লাহ্ ইবনু মূসা (রহ.)-এর অনুসরণ করেছেন। (৮৭৩, ৮৯৯, ৯০০, ৫২৩৮; মুসলিম ৪/৩০, হাঃ ৪৪২, আহমাদ ৫২১১) (আধুনিক প্রকাশনীঃ ৮১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>865</td></tr><tr><td>Arabic No</td><td>865</td></tr><tr><td>Reference</td><td>Book 10 Hadith 256</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Hanzhalah] dari [Sal
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் துணைவியர் இரவில் பள்ளிவாசலுக்குச் செல்ல உங்களிடம் அனுமதி கேட்டால், அவர்களுக்கு அனுமதி வழங் குங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 10
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் துணைவியர் இரவில் பள்ளிவாசலுக்குச் செல்ல உங்களிடம் அனுமதி கேட்டால், அவர்களுக்கு அனுமதி வழங் குங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>865</td></tr><tr><td>Arabic No</td><td>865</td></tr><tr><td>Reference</td><td>Book 10 Hadith 256</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Hanzhalah] dari [Sal
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer (r.a.) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Kadınlarınız geceleyin namaza gitmek için sizden izin istediklerinde onlara izin verin." Şu'be bu hadisin mütâbii'ni A'meş Mücâhid Abdullah İbn Ömer yoluyla zikretmiştir. Tekrar: 873, 899, 900 ve 5238
+Abdullah İbn Ömer (r.a.) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Kadınlarınız geceleyin namaza gitmek için sizden izin istediklerinde onlara izin verin." Şu'be bu hadisin mütâbii'ni A'meş Mücâhid Abdullah İbn Ömer yoluyla zikretmiştir. Tekrar: 873, 899, 900 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>865</td></tr><tr><td>Arabic No</td><td>865</td></tr><tr><td>Reference</td><td>Book 10 Hadith 256</td></tr></tbody></table></div>
 

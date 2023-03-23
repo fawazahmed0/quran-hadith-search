@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমাদের কারও জানাবাতের গোসলের প্রয়োজন হলে সে দু’হাতে পানি নিয়ে তিনবার মাথায় ঢালত। পরে হাতে পানি নিয়ে ডান পাশে তিনবার এবং আবার অপর হাতে পানি নিয়ে বাম পাশে তিনবার ঢালত। (আধুনিক প্রকাশনীঃ ২৬৯, ইসলামিক ফাউন্ডেশনঃ ২৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমাদের কারও জানাবাতের গোসলের প্রয়োজন হলে সে দু’হাতে পানি নিয়ে তিনবার মাথায় ঢালত। পরে হাতে পানি নিয়ে ডান পাশে তিনবার এবং আবার অপর হাতে পানি নিয়ে বাম পাশে তিনবার ঢালত। (আধুনিক প্রকাশনীঃ ২৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>277</td></tr><tr><td>Arabic No</td><td>277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khallad bin Yahya] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் துணைவி யரான) எங்களில் ஒருவருக்குப் பெருந் துடக்கு ஏற்பட்டால், இரு கைகளிலும் மூன்று முறை தண்ணீர் அள்ளி தலைக்கு மேல் ஊற்றிக் குளிப்போம். பின்னர் கையால் தண்ணீர் அள்ளி (தலை முதல் கால்வரை) வலப் பக்கம் ஊற்றுவோம். மற்றொரு கையால் தண்ணீர் அள்ளி இடப் பக்கம் ஊற்றுவோம். அத்தியாயம் : 5
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் துணைவி யரான) எங்களில் ஒருவருக்குப் பெருந் துடக்கு ஏற்பட்டால், இரு கைகளிலும் மூன்று முறை தண்ணீர் அள்ளி தலைக்கு மேல் ஊற்றிக் குளிப்போம். பின்னர் கையால் தண்ணீர் அள்ளி (தலை முதல் கால்வரை) வலப் பக்கம் ஊற்றுவோம். மற்றொரு கையால் தண்ணீர் அள்ளி இடப் பக்கம் ஊற்றுவோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>277</td></tr><tr><td>Arabic No</td><td>277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 29</td></tr></tbody></table></div>
 

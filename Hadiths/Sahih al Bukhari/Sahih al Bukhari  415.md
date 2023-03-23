@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মসজিদে থুথু ফেলা গুনাহের কাজ, আর তার কাফফারাহ (প্রতিকার) হচ্ছে তা দাবিয়ে দেয়া (মুছে ফেলা)। (মুসলিম ৫/১৩, হাঃ ৫৫২, আহমাদ ১২৭৭৫) (আধুনিক প্রকাশনীঃ ৩৯৮, ইসলামিক ফাউন্ডেশনঃ ৪০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মসজিদে থুথু ফেলা গুনাহের কাজ, আর তার কাফফারাহ (প্রতিকার) হচ্ছে তা দাবিয়ে দেয়া (মুছে ফেলা)। (মুসলিম ৫/১৩, হাঃ ৫৫২, আহমাদ ১২৭৭৫) (আধুনিক প্রকাশনীঃ ৩৯৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 8 Hadith 65</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [S
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: பள்ளிவாசலுக்குள் உமிழ்வது குற்றமாகும். அதை மண்ணுக்குள் புதைப்பது அதற்கான பரிகாரமாகும். இதை அனஸ் பின் மா-க் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 8
+நபி (ஸல்) அவர்கள் கூறினார்கள்: பள்ளிவாசலுக்குள் உமிழ்வது குற்றமாகும். அதை மண்ணுக்குள் புதைப்பது அதற்கான பரிகாரமாகும். இதை அனஸ் பின் மா-க் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 8 Hadith 65</td></tr></tbody></table></div>
 

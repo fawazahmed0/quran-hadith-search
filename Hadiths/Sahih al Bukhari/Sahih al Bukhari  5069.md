@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ঈদ ইবনু যুবায়র (রহঃ) হতে বর্ণিত। তিনি বলেন যে, ইবনু ‘আব্বাস (রাঃ) আমাকে বললেন, তুমি কি বিয়ে করেছ? আমি বললাম, না। তিনি বললেন, বিয়ে কর। কারণ, এই উম্মাতের সর্বশ্রেষ্ঠ ব্যক্তির অধিক সংখ্যক স্ত্রী ছিল। (আধুনিক প্রকাশনীঃ ৪৬৯৬, ইসলামিক ফাউন্ডেশনঃ ৪৬৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘ঈদ ইবনু যুবায়র (রহঃ) হতে বর্ণিত। তিনি বলেন যে, ইবনু ‘আব্বাস (রাঃ) আমাকে বললেন, তুমি কি বিয়ে করেছ? আমি বললাম, না। তিনি বললেন, বিয়ে কর। কারণ, এই উম্মাতের সর্বশ্রেষ্ঠ ব্যক্তির অধিক সংখ্যক স্ত্রী ছিল। (আধুনিক প্রকাশনীঃ ৪৬৯৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5069</td></tr><tr><td>Arabic No</td><td>5069</td></tr><tr><td>Reference</td><td>Book 67 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Al Hakam Al Anshari] Telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: என்னிடம் இப்னு அப்பாஸ் (ரலி) அவர்கள், ‘‘மணமுடித்தீரா?” என்று கேட்டார்கள். நான், ‘‘இல்லை” என்றேன். அவர்கள் ‘‘மணமுடித்துக்கொள்ளுங்கள்! ஏனெனில், இந்தச் சமுதாயத்திலேயே சிறந்தவர் (ஆகிய முஹம்மத் (ஸல்) அவர்கள்) அதிகமான பெண்களை மணமுடித்தவர் ஆவார்” என்று சொன் னார்கள். அத்தியாயம் : 67
+சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: என்னிடம் இப்னு அப்பாஸ் (ரலி) அவர்கள், ‘‘மணமுடித்தீரா?” என்று கேட்டார்கள். நான், ‘‘இல்லை” என்றேன். அவர்கள் ‘‘மணமுடித்துக்கொள்ளுங்கள்! ஏனெனில், இந்தச் சமுதாயத்திலேயே சிறந்தவர் (ஆகிய முஹம்மத் (ஸல்) அவர்கள்) அதிகமான பெண்களை மணமுடித்தவர் ஆவார்” என்று சொன் னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5069</td></tr><tr><td>Arabic No</td><td>5069</td></tr><tr><td>Reference</td><td>Book 67 Hadith 7</td></tr></tbody></table></div>
 

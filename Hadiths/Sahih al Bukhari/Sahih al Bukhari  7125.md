@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকরাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। তিনি বলেছেনঃ মাসীহ্ দাজ্জালের প্রভাব মাদ্বীনাহ্য় প্রভাব পড়বে না। সে সময় মাদ্বীনাহ্য় সাতটি প্রবেশপথ থাকবে। প্রতিটি প্রবেশপথে দু’জন করে ফেরেশ্তা নিযুক্ত থাকবেন। [১৮৭৯] (আধুনিক প্রকাশনী- ৬৬২৬, ইসলামিক ফাউন্ডেশন- ৬৬৪১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বাকরাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। তিনি বলেছেনঃ মাসীহ্ দাজ্জালের প্রভাব মাদ্বীনাহ্য় প্রভাব পড়বে না। সে সময় মাদ্বীনাহ্য় সাতটি প্রবেশপথ থাকবে। প্রতিটি প্রবেশপথে দু’জন করে ফেরেশ্তা নিযুক্ত থাকবেন। [১৮৭৯] (আধুনিক প্রকাশনী- ৬৬২৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7125</td></tr><tr><td>Arabic No</td><td>7125</td></tr><tr><td>Reference</td><td>Book 92 Hadith 72</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdul 'Aziz bin Abdullah] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மஸீஹுத் தஜ்ஜாலைக் குறித்த அச்சம் மதீனாவிற்குள் நுழையாது. அந்த நாளில் மதீனாவுக்கு ஏழு நுழைவாயில்கள் இருக்கும். ஒவ்வொரு நுழைவாயிலிலும் இரண்டு வானவர்கள் (காவல் காப்பதற்காக நியமிக்கப்பட்டு) இருப்பார்கள். இதை அபூபக்ரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.60 அத்தியாயம் : 92
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மஸீஹுத் தஜ்ஜாலைக் குறித்த அச்சம் மதீனாவிற்குள் நுழையாது. அந்த நாளில் மதீனாவுக்கு ஏழு நுழைவாயில்கள் இருக்கும். ஒவ்வொரு நுழைவாயிலிலும் இரண்டு வானவர்கள் (காவல் காப்பதற்காக நியமிக்கப்பட்டு) இருப்பார்கள். இதை அபூபக்ரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.60 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7125</td></tr><tr><td>Arabic No</td><td>7125</td></tr><tr><td>Reference</td><td>Book 92 Hadith 72</td></tr></tbody></table></div>
 

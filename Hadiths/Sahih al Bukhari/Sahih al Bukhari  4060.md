@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ‘উসমান (রহ.) হতে বর্ণিত। তিনি বলেন, যে দিনগুলোতে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যুদ্ধ করেছেন তার কোন এক সময়ে ত্বলহা এবং সা‘দ (রাঃ) ব্যতীত অন্য কেউ নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলেন না। হাদীসটি আবূ ‘উসমান (রাঃ) তাদের উভয়ের নিকট থেকে শুনে বর্ণনা করেছেন। [৩৭২২, ৩৭২৩] (আধুনিক প্রকাশনীঃ ৩৭৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4060</td></tr><tr><td>Arabic No</td><td>4060</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] dari [Mu'tamir] dari [Ayahnya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஉஸ்மான் (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (உஹுதில்) போரிட்டுவந்த அந்த நாட்களில் ஒன்றில், தல்ஹா பின் உபைதில்லாஹ் (ரலி) அவர்களையும், சஅத் பின் அபீவக்காஸ் (ரலி) அவர்களையும் தவிர்த்து (முஹாஜிர்களில் வேறு யாரும்) அவர்களுடன் எஞ்சியிருக்கவில்லை. இது குறித்து தல்ஹா (ரலி) அவர்களும், சஅத் (ரலி) அவர்களும் (நேரடியாக) அறிவித்த ஹதீஸையும் அபூஉஸ்மான் (ரஹ்) அவர்கள் அறிவித்துள்ளார்கள்.125 அத்தியாயம் : 64
+அபூஉஸ்மான் (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (உஹுதில்) போரிட்டுவந்த அந்த நாட்களில் ஒன்றில், தல்ஹா பின் உபைதில்லாஹ் (ரலி) அவர்களையும், சஅத் பின் அபீவக்காஸ் (ரலி) அவர்களையும் தவிர்த்து (முஹாஜிர்களில் வேறு யாரும்) அவர்களுடன் எஞ்சியிருக்கவில்லை. இது குறித்து தல்ஹா (ரலி) அவர்களும், சஅத் (ரலி) அவர்களும் (நேரடியாக) அறிவித்த ஹதீஸையும் அபூஉஸ்மான் (ரஹ்) அவர்கள் அறிவித்துள்ளார்கள்.125 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4060</td></tr><tr><td>Arabic No</td><td>4060</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

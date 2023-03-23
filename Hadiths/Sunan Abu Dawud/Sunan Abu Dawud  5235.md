@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... আবদুল্লাহ্‌ ইবন আমর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার পাশ দিয়ে যান, যখন আমি এবং আমার মা আমাদের একটা দেয়ালে চুনকান করছিলাম। তখন তিনি জিজ্ঞাসা করেনঃ হে আবদুল্লাহ! এটা কি? আমি বলিঃ ইয়া রাসূলাল্লাহ! দেয়াল সংস্কার করছি। এ সময় তিনি বলেনঃ মৃত্যু এর চাইতেও দ্রুত আগমনকারী! (কাজেই প্রয়োজনের চাইতে বিলাসিতার জন্য কিছু না করাই ভাল।)
+। ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার পাশ দিয়ে যাচ্ছিলেন। আমি ও ‘আমর মা তখন আমার একটি দেয়াল মেরামত করছিলাম। তিনি বললেনঃ হে ‘আব্দুল্লাহ! কি হচ্ছে? আমি বললাম, মেরামত করছি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমি দেখছি, নির্দেশ (কিয়ামত বা মৃত্যু) এর চেয়েও দ্রুত ধাবমান।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5235</td></tr><tr><td>Arabic No</td><td>5235</td></tr><tr><td>Reference</td><td>Book 43 Hadith 463</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) came upon us 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Âmir'den demiştir ki: "(Birgün) annemle birlikte bana ait duvarı çamurla tamir ederken Rasûlullah (s.a.v.) uğradı "Ey Ab­dullah bu nedir? dedi. Ben de: Ey Allah'ın Rasulu tamirine uğraştığım birşeydir. Cevabını verdim. Bunun üzerine: (Sana gelmekte olan ölüm) iş (i) buna gelecek olan yıkılma işinden daha da sür'atlidir, buyurdu. Tahric edenler: Tirmizî, zühd; İbn Mâce, zühd; Ahmed b. Hanbel, II, 161
+Abdullah b. Âmir'den demiştir ki: "(Birgün) annemle birlikte bana ait duvarı çamurla tamir ederken Rasûlullah (s.a.v.) uğradı "Ey Ab­dullah bu nedir? dedi. Ben de: Ey Allah'ın Rasulu tamirine uğraştığım birşeydir. Cevabını verdim. Bunun üzerine: (Sana gelmekte olan ölüm) iş (i) buna gelecek olan yıkılma işinden daha da sür'atlidir, buyurdu. Tahric edenler: Tirmizî, zühd; İbn Mâce, zühd; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5235</td></tr><tr><td>Arabic No</td><td>5235</td></tr><tr><td>Reference</td><td>Book 43 Hadith 463</td></tr></tbody></table></div>
 

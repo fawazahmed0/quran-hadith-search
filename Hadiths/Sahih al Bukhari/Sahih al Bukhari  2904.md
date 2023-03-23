@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, বনূ নযীরের সম্পদ আল্লাহ তা‘আলা তাঁর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে ‘ফায়’ হিসেবে দান করেছিলেন। এতে মুসলিমগণ অশ্ব বা সাওয়ারী চালনা করেনি। এ কারণে তা আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর জন্য নির্দিষ্ট ছিল। এ সম্পদ থেকে নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) তাঁর পরিবারকে এক বছরের খরচ দিয়ে দিতেন এবং বাকী আল্লাহর রাস্তায় জিহাদের প্রস্তুতির জন্য হাতিয়ার ও ঘোড়া ইত্যাদিতে ব্যয় করতেন। (৩০৯৪, ৪০৩৩, ৪৮৮৫, ৫৩৫৭, ৫৩৫৮, ৬৭২৮, ৭৩০৫) (মুসলিম ৩২/১৫ হাঃ ১৭৫৭) (আধুনিক প্রকাশনীঃ ২৬৯০, ইসলামিক ফাউন্ডেশনঃ ২৭০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, বনূ নযীরের সম্পদ আল্লাহ তা‘আলা তাঁর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে ‘ফায়’ হিসেবে দান করেছিলেন। এতে মুসলিমগণ অশ্ব বা সাওয়ারী চালনা করেনি। এ কারণে তা আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর জন্য নির্দিষ্ট ছিল। এ সম্পদ থেকে নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) তাঁর পরিবারকে এক বছরের খরচ দিয়ে দিতেন এবং বাকী আল্লাহর রাস্তায় জিহাদের প্রস্তুতির জন্য হাতিয়ার ও ঘোড়া ইত্যাদিতে ব্যয় করতেন। (৩০৯৪, ৪০৩৩, ৪৮৮৫, ৫৩৫৭, ৫৩৫৮, ৬৭২৮, ৭৩০৫) (মুসলিম ৩২/১৫ হাঃ ১৭৫৭) (আধুনিক প্রকাশনীঃ ২৬৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2904</td></tr><tr><td>Arabic No</td><td>2904</td></tr><tr><td>Reference</td><td>Book 56 Hadith 118</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உமர் (ரலி) அவர்கள் கூறியதாவது: பனுந் நளீர் (யூதக்) குலத்தாரின் செல்வங்கள், அல்லாஹ் தன் தூதர் (ஸல்) அவர்களுக்கு அளித்தவையாகும். அதற்காக முஸ்லிம்கள் (தங்கள்) குதிரைகளையோ ஒட்டகங்களையோ செலுத்திப் போர் செய்திருக்கவில்லை.56 ஆகவே, அவை அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு மட்டுமே உரியவையாக இருந்தன. அவற்றிலிருந்து அவர்கள் தம் வீட்டாருக்கு ஆண்டுச் செலவுக்குக் கொடுத்துவந்தார்கள். பிறகு மீதியை இறைவழியில் (போரிடுவதற்கான) ஆயத்தப் பொருள்கள் வாங்க, ஆயுதங்களுக்காகவும் குதிரைகளுக் காகவும் செலவிட்டுவந்தார்கள். அத்தியாயம் : 56
+உமர் (ரலி) அவர்கள் கூறியதாவது: பனுந் நளீர் (யூதக்) குலத்தாரின் செல்வங்கள், அல்லாஹ் தன் தூதர் (ஸல்) அவர்களுக்கு அளித்தவையாகும். அதற்காக முஸ்லிம்கள் (தங்கள்) குதிரைகளையோ ஒட்டகங்களையோ செலுத்திப் போர் செய்திருக்கவில்லை.56 ஆகவே, அவை அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு மட்டுமே உரியவையாக இருந்தன. அவற்றிலிருந்து அவர்கள் தம் வீட்டாருக்கு ஆண்டுச் செலவுக்குக் கொடுத்துவந்தார்கள். பிறகு மீதியை இறைவழியில் (போரிடுவதற்கான) ஆயத்தப் பொருள்கள் வாங்க, ஆயுதங்களுக்காகவும் குதிரைகளுக் காகவும் செலவிட்டுவந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2904</td></tr><tr><td>Arabic No</td><td>2904</td></tr><tr><td>Reference</td><td>Book 56 Hadith 118</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Ömer'in şöyle dediği nakledilmiştir: "Ben-i Nadir Yahudilerinden alınan malları Allah Teala Resulü’ne herhangi bir savaş olmadan bir ganimet (fey) olarak lutfetti. Müslümanlar bu malları elde etmek için ne at ne de deve koşturmak zorunda kaldılar. İşte bu mallar sırf Resul-i Ekrem Sallallahu Aleyhi ve Sellem'e ait kabul edildi. O da ailesinin bir yıllık nafakasını ayırdı ve kalan kısmı Allah yolunda cihada hazırlık olmak üzere silah alımı ve diğer askerı harcamalar için kullandı. " Tekrar: 3094, 4033, 4885, 5357, 5358, 6728, 7305
+Hz. Ömer'in şöyle dediği nakledilmiştir: "Ben-i Nadir Yahudilerinden alınan malları Allah Teala Resulü’ne herhangi bir savaş olmadan bir ganimet (fey) olarak lutfetti. Müslümanlar bu malları elde etmek için ne at ne de deve koşturmak zorunda kaldılar. İşte bu mallar sırf Resul-i Ekrem Sallallahu Aleyhi ve Sellem'e ait kabul edildi. O da ailesinin bir yıllık nafakasını ayırdı ve kalan kısmı Allah yolunda cihada hazırlık olmak üzere silah alımı ve diğer askerı harcamalar için kullandı. " Tekrar: 3094, 4033
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2904</td></tr><tr><td>Arabic No</td><td>2904</td></tr><tr><td>Reference</td><td>Book 56 Hadith 118</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬৬৩। হুযাইফাহ (রাযিঃ) হতে বর্ণিত আছে। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাছে আমরা অবস্থান করছিলাম। তখন তিনি বললেনঃ তোমাদের মাঝে আমি আর কত দিন বেঁচে থাকব তা আমার জানা নেই। অতএব তোমরা আমার অবর্তমানে দু'জন লোকের অনুসরণ করবে- এ কথা বলে তিনি আবূ বাকর ও উমার (রাযিঃ)-এর দিকে ইশারা করলেন। সহীহঃ দেখুন পূর্বের হাদীস।
+। হুযাইফাহ (রাযিঃ) হতে বর্ণিত আছে। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাছে আমরা অবস্থান করছিলাম। তখন তিনি বললেনঃ তোমাদের মাঝে আমি আর কত দিন বেঁচে থাকব তা আমার জানা নেই। অতএব তোমরা আমার অবর্তমানে দু'জন লোকের অনুসরণ করবে- এ কথা বলে তিনি আবূ বাকর ও উমার (রাযিঃ)-এর দিকে ইশারা করলেন। সহীহঃ দেখুন পূর্বের হাদীস।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3663</td></tr><tr><td>Arabic No</td><td>3663</td></tr><tr><td>Reference</td><td>Book 49 Hadith 59</td></tr></tbody></table></div>
 

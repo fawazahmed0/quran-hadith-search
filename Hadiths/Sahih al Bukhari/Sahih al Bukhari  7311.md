@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুগীরাহ ইবনু শু‘বাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্বিয়ামাত (কিয়ামত) আসা পর্যন্ত আমার উম্মাতের এক দল সর্বদাই বিজয়ী থাকবে। আর তাঁরা হলেন বিজয়ী। [৩৬৪০] (আধুনিক প্রকাশনী- ৬৮০১, ইসলামিক ফাউন্ডেশন- ৬৮১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুগীরাহ ইবনু শু‘বাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্বিয়ামাত (কিয়ামত) আসা পর্যন্ত আমার উম্মাতের এক দল সর্বদাই বিজয়ী থাকবে। আর তাঁরা হলেন বিজয়ী। [৩৬৪০] (আধুনিক প্রকাশনী- ৬৮০১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7311</td></tr><tr><td>Arabic No</td><td>7311</td></tr><tr><td>Reference</td><td>Book 96 Hadith 42</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Ismail] dari [Qais] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: என் சமுதாயத்தாரில் ஒரு குழுவினர் (உண்மைக்கு) ஆதரவாளர்களாக இருந்து கொண்டே இருப்பார்கள். இறுதியாக, அவர்கள் மேலோங்கியவர்களாக இருக்கும் நிலையிலேயே அவர்களிடம் இறைக்கட்டளை(யான மறுமை நாள்) வரும். இதை முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.42 அத்தியாயம் : 96
+நபி (ஸல்) அவர்கள் கூறினார்கள்: என் சமுதாயத்தாரில் ஒரு குழுவினர் (உண்மைக்கு) ஆதரவாளர்களாக இருந்து கொண்டே இருப்பார்கள். இறுதியாக, அவர்கள் மேலோங்கியவர்களாக இருக்கும் நிலையிலேயே அவர்களிடம் இறைக்கட்டளை(யான மறுமை நாள்) வரும். இதை முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.42 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7311</td></tr><tr><td>Arabic No</td><td>7311</td></tr><tr><td>Reference</td><td>Book 96 Hadith 42</td></tr></tbody></table></div>
 

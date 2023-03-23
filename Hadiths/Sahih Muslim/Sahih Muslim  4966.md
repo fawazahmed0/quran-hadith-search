@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৮৬০, আন্তর্জাতিক নাম্বারঃ ৭১৫ ৪৮৬০-(../...) ইয়াহইয়া ইবনু হাবীব (রহঃ) ..... সাইয়্যার (রহঃ) হতে এ সানাদে অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৪৮১৩, ইসলামিক সেন্টার ৪৯১৪)
+ইয়াহইয়া ইবনু হাবীব (রহঃ) ..... সাইয়্যার (রহঃ) হতে এ সানাদে অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৪৮১৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4966</td></tr><tr><td>Arabic No</td><td>715.25</td></tr><tr><td>Reference</td><td>Book 33 Hadith 261</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৪০, আন্তর্জাতিক নাম্বারঃ ১৩৩ ২৪০-(২১১/১৩৩) ইউসুফ ইবনু ইয়াকুব আস সাফফার (রহঃ) ... আবদুল্লাহ (রাযিঃ) বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে ওয়াসওয়াসা সম্পর্কে জিজ্ঞেস করা হলে তিনি বললেন, এটাই সত্যিকারের ঈমান। (ইসলামিক ফাউন্ডেশনঃ ২৪২, ইসলামিক সেন্টারঃ ২৫০)
+ইউসুফ ইবনু ইয়াকুব আস সাফফার (রহঃ) ... আবদুল্লাহ (রাযিঃ) বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে ওয়াসওয়াসা সম্পর্কে জিজ্ঞেস করা হলে তিনি বললেন, এটাই সত্যিকারের ঈমান। (ইসলামিক ফাউন্ডেশনঃ ২৪২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>342</td></tr><tr><td>Arabic No</td><td>133</td></tr><tr><td>Reference</td><td>Book 1 Hadith 249</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yusuf bin Ya'qub ash-Shaffar] telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் "மனக் குழப்பம்" குறித்து வினவப்பட்டது. அதற்கு அவர்கள், "அதுதான் ஒளிவுமறைவற்ற இறைநம்பிக்கை" என்று பதிலளித்தார்கள். இதை அல்கமா (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 1
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் "மனக் குழப்பம்" குறித்து வினவப்பட்டது. அதற்கு அவர்கள், "அதுதான் ஒளிவுமறைவற்ற இறைநம்பிக்கை" என்று பதிலளித்தார்கள். இதை அல்கமா (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>342</td></tr><tr><td>Arabic No</td><td>133</td></tr><tr><td>Reference</td><td>Book 1 Hadith 249</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(وَلَيْسَ الْبِرُّ بِأَنْ تَأْتُوا الْبُيُوْتَ مِنْ ظُهُوْرِهَا وَلٰكِنَّ الْبِرَّ مَنِ اتَّقٰى ج وَأْتُوا الْبُيُوْتَ مِنْ أَبْوٰبِهَا ص وَاتَّقُوا اللهَ لَعَلَّكُمْ تُفْلِحُوْنَ) ‘‘আর পেছনের দিক দিয়ে ঘরে প্রবেশ করাতে কোন পুণ্য নেই, বরং পুণ্য আছে কেউ তাকওয়া অবলম্বন করলে। সুতরাং তোমরা দরজা দিয়ে ঘরে প্রবেশ কর এবং আল্লাহকে ভয় কর, যাতে তোমরা কৃতকার্য হতে পার।’’ (সূরাহ আল-বাকারাহ ২/১৮৯) ৪৫১২. বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, জাহিলী যুগে যখন লোকেরা ইহরাম বাঁধত, তারা পেছনের দরজা দিয়ে ঘরে প্রবেশ করত। তখন আল্লাহ তা‘আলা অবতীর্ণ করলেন- ‘‘আর পেছনের দিক দিয়ে ঘরে প্রবেশ করাতে কোন পুণ্য নেই, বরং পুণ্য আছে কেউ তাকওয়া অবলম্বন করলে। সুতরাং তোমরা দরজা দিয়ে ঘরে প্রবেশ কর’’- (সূরাহ আল-বাকারাহ ২/১৮৯)। [১৮০৩] (আধুনিক প্রকাশনীঃ ৪১৫৫, ইসলামিক ফাউন্ডেশনঃ ৪১৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وَلَيْسَ الْبِرُّ بِأَنْ تَأْتُوا الْبُيُوْتَ مِنْ ظُهُوْرِهَا وَلٰكِنَّ الْبِرَّ مَنِ اتَّقٰى ج وَأْتُوا الْبُيُوْتَ مِنْ أَبْوٰبِهَا ص وَاتَّقُوا اللهَ لَعَلَّكُمْ تُفْلِحُوْنَ) ‘‘আর পেছনের দিক দিয়ে ঘরে প্রবেশ করাতে কোন পুণ্য নেই, বরং পুণ্য আছে কেউ তাকওয়া অবলম্বন করলে। সুতরাং তোমরা দরজা দিয়ে ঘরে প্রবেশ কর এবং আল্লাহকে ভয় কর, যাতে তোমরা কৃতকার্য হতে পার।’’ (সূরাহ আল-বাকারাহ ২/১৮৯) ৪৫১২. বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, জাহিলী যুগে যখন লোকেরা ইহরাম বাঁধত, তারা পেছনের দরজা দিয়ে ঘরে প্রবেশ করত। তখন আল্লাহ তা‘আলা অবতীর্ণ করলেন- ‘‘আর পেছনের দিক দিয়ে ঘরে প্রবেশ করাতে কোন পুণ্য নেই, বরং পুণ্য আছে কেউ তাকওয়া অবলম্বন করলে। সুতরাং তোমরা দরজা দিয়ে ঘরে প্রবেশ কর’’- (সূরাহ আল-বাকারাহ ২/১৮৯)। [১৮০৩] (আধুনিক প্রকাশনীঃ ৪১৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4512</td></tr><tr><td>Arabic No</td><td>4512</td></tr><tr><td>Reference</td><td>Book 65 Hadith 39</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara:In the Pre-lslamic Period when the people assumed Ihram, they would enter their houses from the back. So Allah revealed:-- "And it is not righteousness that you enter houses from the back, but the righteous man is he who fears Allah, obeys His Orders and keeps away from what He has forbidden. So enter houses through their doors." (2.189)
+Narrated Al-Bara:In the Pre-lslamic Period when the people assumed Ihram, they would enter their houses from the back. So Allah revealed:-- "And it is not righteousness that you enter houses from the back, but the righteous man is he who fears Allah, obeys His Orders and keeps away from what He has forbidden. So enter houses through their doors
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4512</td></tr><tr><td>Arabic No</td><td>4512</td></tr><tr><td>Reference</td><td>Book 65 Hadith 39</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Al-Bara:In the Pre-lslamic Period when the people assumed Ihram, they w
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Israil] dari [Abu Ishaq] dari [Al Barra] dia berkata; "Pada masa Jahiliyah, orang-orang yang berihram pada waktu haji, mendatangi rumah dari belakang, maka Allah menurunkan ayat; "Bukan suatu kebaikan mendatangi rumah-rumah dari belakang, kebaikan adalah (kebaikan) orang yang bertakwa. Datangilah rumah-rumah dari pintu-pintunya." (QS.Albaqarah 189)
+Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Israil] dari [Abu Ishaq] dari [Al Barra] dia berkata; "Pada masa Jahiliyah, orang-orang yang berihram pada waktu haji, mendatangi rumah dari belakang, maka Allah menurunkan ayat; "Bukan suatu kebaikan mendatangi rumah-rumah dari belakang, kebaikan adalah (kebaikan) orang yang bertakwa. Datangilah rumah-rumah dari pintu-pintunya." (QS.Albaqarah)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4512</td></tr><tr><td>Arabic No</td><td>4512</td></tr><tr><td>Reference</td><td>Book 65 Hadith 39</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Israil] dari [Abu Ish
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: அறியாமைக் காலத்தில் அன்சாரிகள் (ஹஜ் மற்றும் உம்ராவுக்காக) இஹ்ராம் கட்டிவிட்டால் தம் வீட்டிற்குள் (அதன் முன்புற வாயில் வழியாக நுழையாமல்) அதன் பின்பக்க வாயில் வழியே நுழைந்து கொண்டிருந்தார்கள். அப்போது அல்லாஹ், “நீங்கள் (உங்கள்) வீடுகளில் அவற்றின் பின்வாசல் வழியே நுழைவது புண்ணியமன்று; மாறாக, இறைவனுக்கு அஞ்சுபவர்தான் புண்ணிய வான் ஆவார். மேலும், நீங்கள் உங்கள் வீடுகளில் அவற்றின் முன்வாயில்கள் வழியே நுழையுங்கள்” எனும் (2:189ஆவது) வசனத்தை அருளினான்.49 அத்தியாயம் : 65
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: அறியாமைக் காலத்தில் அன்சாரிகள் (ஹஜ் மற்றும் உம்ராவுக்காக) இஹ்ராம் கட்டிவிட்டால் தம் வீட்டிற்குள் (அதன் முன்புற வாயில் வழியாக நுழையாமல்) அதன் பின்பக்க வாயில் வழியே நுழைந்து கொண்டிருந்தார்கள். அப்போது அல்லாஹ், “நீங்கள் (உங்கள்) வீடுகளில் அவற்றின் பின்வாசல் வழியே நுழைவது புண்ணியமன்று; மாறாக, இறைவனுக்கு அஞ்சுபவர்தான் புண்ணிய வான் ஆவார். மேலும், நீங்கள் உங்கள் வீடுகளில் அவற்றின் முன்வாயில்கள் வழியே நுழையுங்கள்” எனும் (2:189ஆவது) வசனத்தை அருளினான்.49 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4512</td></tr><tr><td>Arabic No</td><td>4512</td></tr><tr><td>Reference</td><td>Book 65 Hadith 39</td></tr></tbody></table></div>
 

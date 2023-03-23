@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ প্রত্যেক নেশা সৃষ্টিকারী বস্তুই হারাম। আর যে বস্তুর অধিক পানে নেশার সৃষ্টি হয় তা এক অঞ্জলীও পান করা হারাম।
+। আয়িশাহ (রাঃ)-এর সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ নেশা উদ্রেককারী যে কোনো বস্তুই হারাম। যে বস্তুর এক ফারাক পরিমাণ পান করলে নেশার উদ্রেক হয় তার এক অঞ্জলি পরিমাণও হারাম।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3687</td></tr><tr><td>Arabic No</td><td>3687</td></tr><tr><td>Reference</td><td>Book 27 Hadith 19</td></tr></tbody></table></div>
 

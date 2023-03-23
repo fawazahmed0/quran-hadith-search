@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪০৪৬, আন্তর্জাতিক নাম্বারঃ ১৬১৮ ৪০৪৬-(১২/...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... বারা (রাযি.) হতে বর্ণিত যে, সর্বশেষ অবতীর্ণ পূর্ণাঙ্গ সূরা, সূরা তওবা আর সর্বশেষ অবতীর্ণ আয়াত 'কালালাহ্' আয়াত। (ইসলামিক ফাউন্ডেশন ৪০০৯, ইসলামিক সেন্টার ৪০০৮)
+ইসহাক ইবনু ইবরাহীম (রহঃ) ..... বারা (রাযি.) হতে বর্ণিত যে, সর্বশেষ অবতীর্ণ পূর্ণাঙ্গ সূরা, সূরা তওবা আর সর্বশেষ অবতীর্ণ আয়াত 'কালালাহ্' আয়াত। (ইসলামিক ফাউন্ডেশন ৪০০৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4154</td></tr><tr><td>Arabic No</td><td>1618.03</td></tr><tr><td>Reference</td><td>Book 23 Hadith 15</td></tr></tbody></table></div>
 

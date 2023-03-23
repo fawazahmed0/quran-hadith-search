@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩৪৪, আন্তর্জাতিক নাম্বারঃ ২০৮৩ ৫৩৪৪-(… /...) মুহাম্মদ ইবনুল মুসান্না (রহঃ) ... সুফইয়ান (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীসটি বর্ণিত আছে। তবে তিনিفَأَدَعُهَا কথাটি অতিরিক্ত করেছেন। (ইসলামিক ফাউন্ডেশন ৫২৭৬, ইসলামিক সেন্টার ৫২৯০)
+(… /...) মুহাম্মদ ইবনুল মুসান্না (রহঃ) ... সুফইয়ান (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীসটি বর্ণিত আছে। তবে তিনিفَأَدَعُهَا কথাটি অতিরিক্ত করেছেন। (ইসলামিক ফাউন্ডেশন ৫২৭৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>2083.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
 

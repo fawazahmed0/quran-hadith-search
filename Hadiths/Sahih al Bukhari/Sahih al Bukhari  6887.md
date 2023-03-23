@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উক্ত হাদীসের সূত্রে এও বর্ণিত, তিনি বলেছেনঃ যদি কেউ তোমার ঘরে তোমার অনুমতি ব্যতীত উঁকি মারে আর তুমি পাথর মেরে তার চক্ষু ফুটা করে দাও, তাতে তোমার কোন গুনাহ্ হবে না। [৬৭০২; মুসলিম ৩৮/৯, হাঃ ২১৫৮, আহমাদ ১৯৫৩০] (আধুনিক প্রকাশনী- ৬৪০৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6887</td></tr><tr><td>Arabic No</td><td>6887</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul yaman] telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நாமே (காலத்தால்) பிந்தியவர்களும் மறுமை நாளில் (தகுதியால்) முந்திய வர்களும் ஆவோம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.25 அத்தியாயம் : 87
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நாமே (காலத்தால்) பிந்தியவர்களும் மறுமை நாளில் (தகுதியால்) முந்திய வர்களும் ஆவோம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.25 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6887</td></tr><tr><td>Arabic No</td><td>6887</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

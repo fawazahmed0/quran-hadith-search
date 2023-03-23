@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পশুকে পাল দেয়া বাবদ বিনিময় নিতে নিষেধ করেছেন। (আধুনিক প্রকাশনীঃ ২১২৩, ইসলামিক ফাউন্ডেশনঃ ২১৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পশুকে পাল দেয়া বাবদ বিনিময় নিতে নিষেধ করেছেন। (আধুনিক প্রকাশনীঃ ২১২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>2284</td></tr><tr><td>Reference</td><td>Book 37 Hadith 24</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Abdul
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: பொலிகாளை புணர்ச்சிக்குக் கட்டணம் பெறுவதை நபி (ஸல்) அவர்கள் தடை செய்தார்கள்.15 அத்தியாயம் : 37
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: பொலிகாளை புணர்ச்சிக்குக் கட்டணம் பெறுவதை நபி (ஸல்) அவர்கள் தடை செய்தார்கள்.15 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>2284</td></tr><tr><td>Reference</td><td>Book 37 Hadith 24</td></tr></tbody></table></div>
 

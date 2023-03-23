@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু আদম ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ইমাম এ জন্য নিযুক্ত করা হয় যে, অন্যেরা তার অনুসরণ করবে। অতঃপর রাবী পূর্বোক্ত হাদীছের অনুরূপ বর্ণনা করেছন। তবে এটুকু অতিরিক্ত বর্ণিত হয়েছে যে, যখন ইমাম কিরাআত পাঠ করবে তখন তোমরা চুপ থাকবে”। (নাসাঈ ইবনু মাজাহ)।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইমাম এজন্যই নিয়োগ করা হয়, যেন অন্যেরা তার অনুসরণ করে। অতঃপর পূর্বোক্ত হাদীসের অনুরূপ। তাতে আরো রয়েছেঃ ইমাম যখন কিরাত পাঠ করবে, তখন তোমরা চুপ থাকবে। ইমাম আবূ দাউদ (রহঃ) বলেন, এই অতিরিক্ত অংশটুকু-‘‘ইমাম যখন কিরাত পাঠ করবে, তখন তোমরা চুপ থাকবে’’ সুরক্ষিত (মাহফূয) নয়। এটা আবূ খালিদের ধারণা মাত্র।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>604</td></tr><tr><td>Arabic No</td><td>604</td></tr><tr><td>Reference</td><td>Book 2 Hadith 214</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: The imam is appointed only to be f
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre'den; Nebi (Sallallahu aleyhi ve Sellem) (şöyle) buyurmuştur: "İmam ancak kendisine uyulmak içindir. (Ebu Halid) bu (603.) habere şu cümleyi ilave etmiştir; "(İmam) okuduğu zaman susunuz.” Ebu Davud, dedi ki; ‘‘İmam okuduğu zaman susunuz" ilavesi, (sağlam ravilerden) zoptedilmiş değildir. Bize göre (bu ilave) Ebu Ha­lid'e ait bir vehimdir.” Diğer tahric: Müslim, salat; Ebu Davud, salat 178; Nesaî, iftitah; İbn Mace ikame; Ahmed b. Hanbel, II, 376, 420; IV - 415
+Ebu Hureyre'den; Nebi (Sallallahu aleyhi ve Sellem) (şöyle) buyurmuştur: "İmam ancak kendisine uyulmak içindir. (Ebu Halid) bu (603.) habere şu cümleyi ilave etmiştir; "(İmam) okuduğu zaman susunuz.” Ebu Davud, dedi ki; ‘‘İmam okuduğu zaman susunuz" ilavesi, (sağlam ravilerden) zoptedilmiş değildir. Bize göre (bu ilave) Ebu Ha­lid'e ait bir vehimdir.” Diğer tahric: Müslim, salat; Ebu Davud, salat 178; Nesaî, iftitah; İbn Mace ikame; Ahmed b. Hanbel, II, 376, 420; IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>604</td></tr><tr><td>Arabic No</td><td>604</td></tr><tr><td>Reference</td><td>Book 2 Hadith 214</td></tr></tbody></table></div>
 

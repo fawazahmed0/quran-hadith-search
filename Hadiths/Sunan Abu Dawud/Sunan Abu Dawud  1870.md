@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহইয়া ইবন মুঈন ...... মুহাজির আল মক্কী (রহঃ) হতে বর্ণিত। তিনি বলেন, জাবির ইবন আবদুল্লাহ্ (রাঃ)-কে এমন এক ব্যক্তি সম্পর্কে জিজ্ঞাসা করা হয়, যে বায়তুল্লাহ্ দৃষ্টিগোচর হলে হাত উত্তোলন করে। জাবির (রাঃ) বলেন, আমি ইয়াহুদীদেরে ব্যতীত আর কাউকে এরূপ করতে দেখিনি। আমরা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে হজ্জ করেছি, কিন্তু তিনি এরূপ করেননি।
+। আল-মুহাজির আল-মাক্কী (রহ.) সূত্রে বর্ণিত। তিনি বলেন, জাবির ইবনু ‘আব্দুল্লাহ (রাযি.)-কে এমন ব্যক্তি সম্বন্ধে জিজ্ঞেস করা হলো, যে বায়তুল্লাহ দেখলে দুই হাত উত্তোলন করে। তিনি বলেন, ইয়াহুদী ছাড়া অন্য কাউকে আমি এরূপ করতে দেখিনি। আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে হজ (হজ্জ) করেছি, কিন্তু তিনি এরূপ করেননি।[1] দুর্বলঃ মিশকাত (২৫৭৪), যঈফ সুনান আত-তিরমিযী (১৫০/৮৬৩), যঈফ সুনান নাসায়ী (১৮৫/২৮৯৫)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1870</td></tr><tr><td>Arabic No</td><td>1870</td></tr><tr><td>Reference</td><td>Book 11 Hadith 150</td></tr></tbody></table></div>
 

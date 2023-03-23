@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবনে সাঈদ (রহঃ) .... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবীগণ সিজদার সময় সমস্ত অংগ প্রত্যঙ্গকে অধিক সম্প্রসারিত রেখে নামায আদায় করার কষ্ট সম্পর্কে তাঁর নিকট অভিযোগ পেশ করলে তিনি বলেন, তোমরা শরীরের অংগ প্রত্যঙ্গকে সিজদার সময় পরস্পর পরস্পরের সাথে সম্মিলিত রেখে (এ কষ্ট দূর করার উদ্দেশ্যে) সাহায্য গ্রহণ কর। (তিরমিযী, বায়হাকী)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীগণ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে তাদের সমস্যার কথা জানান যে, সিজদার সময় তারা হাতকে বগল থেকে এবং পেটকে উরু থেকে আলাদা করে রাখলে এতে তাদের কষ্টবোধ হয়। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এক্ষেত্রে তোমরা হাঁটুর সাহায্য নাও।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>902</td></tr><tr><td>Arabic No</td><td>902</td></tr><tr><td>Reference</td><td>Book 2 Hadith 512</td></tr></tbody></table></div>
 

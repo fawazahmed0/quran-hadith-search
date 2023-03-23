@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৭৯৫, আন্তর্জাতিক নাম্বারঃ ২৭১৯ ৬৭৯৫-(.../...) মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... শুবাহ (রহঃ) এর সানাদে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৬৫৪, ইসলামিক সেন্টার ৬৭০৭)
+মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... শুবাহ (রহঃ) এর সানাদে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৬৫৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6902</td></tr><tr><td>Arabic No</td><td>2719.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 95</td></tr></tbody></table></div>
 

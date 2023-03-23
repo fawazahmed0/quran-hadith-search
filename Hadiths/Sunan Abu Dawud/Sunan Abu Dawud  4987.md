@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারুন ইবন যায়দ (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দীন ব্যতীত অন্য কিছুর সাথে কোন ব্যাক্তিকে সম্পর্কিত করতে শুনিনি।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দ্বীনের সঙ্গে সম্পৃক্ত করা ছাড়া অন্যভাবে কারো পরিচয় দিতে শুনিনি।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4987</td></tr><tr><td>Arabic No</td><td>4987</td></tr><tr><td>Reference</td><td>Book 43 Hadith 215</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ফজরের সালাতের শেষে রুকু‘ থেকে মাথা উঠানোর সময় বলতে শুনেছেন, হে আমাদের প্রতিপালক! সমস্ত প্রশংসা কেবলমাত্র আপনারই জন্য। তিনি আরো বললেন, হে আল্লাহ্! আপনি অমুক অমুক লোকের উপর অভিশাপ দিন। তখন আল্লাহ্ নাযিল করলেনঃ ‘‘আল্লাহ তাদের প্রতি ক্ষমাশীল হবেন অথবা তাদেরকে শাস্তি প্রদান করবেন- এ ব্যাপারে তোমার কিছু করার নেই। কেননা তারা হচ্ছে যালিম’’- (সূরাহ আলে ‘ইমরান ৩/১২৮)। [৪০৬৯] (আধুনিক প্রকাশনী- ৬৮৩৩, ইসলামিক ফাউন্ডেশন- ৬৮৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ফজরের সালাতের শেষে রুকু‘ থেকে মাথা উঠানোর সময় বলতে শুনেছেন, ربنا ولك الحمد الخ (হে আমাদের প্রতিপালক! সমস্ত প্রশংসা কেবলমাত্র আপনারই জন্য। তিনি আরো বললেন, হে আল্লাহ্! আপনি অমুক অমুক লোকের উপর অভিশাপ দিন। তখন আল্লাহ্ নাযিল করলেনঃ ‘‘আল্লাহ তাদের প্রতি ক্ষমাশীল হবেন অথবা তাদেরকে শাস্তি প্রদান করবেন- এ ব্যাপারে তোমার কিছু করার নেই। কেননা তারা হচ্ছে যালিম’’- (সূরাহ আলে ‘ইমরান ৩/১২৮)। [৪০৬৯] (আধুনিক প্রকাশনী- ৬৮৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7346</td></tr><tr><td>Arabic No</td><td>7346</td></tr><tr><td>Reference</td><td>Book 96 Hadith 74</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Umar:That he heard the Prophet, after raising his head from the bowing in morning prayer, saying, "O Allah, our Lord! All the praises are for you." And in the last (rak'a) he said, "O Allah! Curse so-and-so and so--and-so." And then Allah revealed:-- 'Not for you (O Muhammad) is the decision, (but for Allah), whether He turns in mercy to them or punish them, for they are indeed wrongdoers.' (3.128)
+Narrated Ibn 'Umar:That he heard the Prophet, after raising his head from the bowing in morning prayer, saying, "O Allah, our Lord! All the praises are for you." And in the last (rak'a) he said, "O Allah! Curse so-and-so and so--and-so." And then Allah revealed:-- 'Not for you (O Muhammad) is the decision, (but for Allah), whether He turns in mercy to them or punish them, for they are indeed wrongdoers
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7346</td></tr><tr><td>Arabic No</td><td>7346</td></tr><tr><td>Reference</td><td>Book 96 Hadith 74</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ibn 'Umar:That he heard the Prophet, after raising his head from the bo
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibn Umar] ia mendengar nabi shallallahu 'alaihi wasallam berdoa ketika shalat fajar dan ketika mengangkat kepalanya dari rukuk: 'ALLAAHUMMA RABBANAA WALAKAL HAMDU (Ya Allah rabb kami, bagi-Mu segala puji) ', itu beliau ucapkan pada rukuk terakhir. Kemudian beliau berdoa: 'ALLAAHUMMA IL 'AN FULAANAN WAFULAANAN (Ya Allah, laknatlah si A dan si B) '. Lantas Allah menurunkan ayat: '(Sama sekali engkau tidak mempunyai wewenang terhadap urusan mereka itu, Allah mengampuni mereka atau menyiksa mereka, sebab mereka adalah orang-orang yang zhalim) ' (Qs. Ali'Imran: 128)
+Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibn Umar] ia mendengar nabi shallallahu 'alaihi wasallam berdoa ketika shalat fajar dan ketika mengangkat kepalanya dari rukuk: 'ALLAAHUMMA RABBANAA WALAKAL HAMDU (Ya Allah rabb kami, bagi-Mu segala puji) ', itu beliau ucapkan pada rukuk terakhir. Kemudian beliau berdoa: 'ALLAAHUMMA IL 'AN FULAANAN WAFULAANAN (Ya Allah, laknatlah si A dan si B) '. Lantas Allah menurunkan ayat: '(Sama sekali engkau tidak mempunyai wewenang terhadap urusan mereka itu, Allah mengampuni mereka atau menyiksa mereka, sebab mereka adalah orang-orang yang zhalim) ' (Qs. Ali'Imran:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7346</td></tr><tr><td>Arabic No</td><td>7346</td></tr><tr><td>Reference</td><td>Book 96 Hadith 74</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஃபஜ்ர் தொழுகையில் கடைசி ரக்அத்தில் தமது தலையை ருகூஉவிலிருந்து உயர்த்தி, “அல்லாஹும்ம ரப்பனா வ லக்கல் ஹம்து” (இறைவா! எங்கள் அதிபதியே! உனக்கே புகழனைத்தும்) என்று சொல்லிவிட்டுப் பிறகு, “இறைவா! இன்னாரையும் இன்னாரையும் உன் கருணையிலிருந்து அப்புறப்படுத்துவாயாக!” என்று பிரார்த்தித்தார்கள். அப்போது வல்லமையும் மாண்புமிக்க அல்லாஹ், “அவர்களை அல்லாஹ் மன்னிக்கும்வரை, அல்லது அவர்கள் அநீதியாளர்களாக இருப்பதால் அவனே அவர்களை வேதனை செய்யும்வரை (அவர்களுக்குத் தண்டனை வழங்குமாறு கூற, நபியே!) உமக்கு எந்த உரிமையும் இல்லை” எனும் (3: 128ஆவது) வசனத்தை அருளினான்.74 அத்தியாயம் : 96
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஃபஜ்ர் தொழுகையில் கடைசி ரக்அத்தில் தமது தலையை ருகூஉவிலிருந்து உயர்த்தி, “அல்லாஹும்ம ரப்பனா வ லக்கல் ஹம்து” (இறைவா! எங்கள் அதிபதியே! உனக்கே புகழனைத்தும்) என்று சொல்லிவிட்டுப் பிறகு, “இறைவா! இன்னாரையும் இன்னாரையும் உன் கருணையிலிருந்து அப்புறப்படுத்துவாயாக!” என்று பிரார்த்தித்தார்கள். அப்போது வல்லமையும் மாண்புமிக்க அல்லாஹ், “அவர்களை அல்லாஹ் மன்னிக்கும்வரை, அல்லது அவர்கள் அநீதியாளர்களாக இருப்பதால் அவனே அவர்களை வேதனை செய்யும்வரை (அவர்களுக்குத் தண்டனை வழங்குமாறு கூற, நபியே!) உமக்கு எந்த உரிமையும் இல்லை” எனும் (3: 128ஆவது) வசனத்தை அருளினான்.74 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7346</td></tr><tr><td>Arabic No</td><td>7346</td></tr><tr><td>Reference</td><td>Book 96 Hadith 74</td></tr></tbody></table></div>
 

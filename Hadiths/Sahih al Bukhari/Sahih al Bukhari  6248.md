@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা জুমু‘আহর দিনে খুশি হতাম। রাবী বলেন, আমি তাঁকে বললামঃ কেন? তিনি বললেনঃ আমাদের একজন বৃদ্ধা মহিলা ছিল। সে কোন লোককে ‘বুদাআ’ নামক খেজুর বাগানে পাঠিয়ে বীট চিনির শিকড় আনতো। তা একটি হাঁড়িতে দিয়ে সে তাতে কিছুটা যবের দানা দিয়ে ঘুঁটে এক রকম খাবার তৈরী করত। এরপর আমরা যখন জুমু‘আহর সালাত আদায় করে ফিরতাম, তখন আমরা ঐ মহিলাকে সালাম দিতাম। তখন সে আমাদের ঐ খাবার পরিবেশন করত। আমরা এজন্য খুশী হতাম। আমাদের নিয়ম ছিল যে, আমরা জুমু‘আহর পরেই মধ্যাহ্ন ভোজন ও মধ্যাহ্ন বিশ্রাম করতাম। [৯৩৮] (আধুনিক প্রকাশনী- ৫৮০৬, ইসলামিক ফাউন্ডেশন- ৫৭০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা জুমু‘আহর দিনে খুশি হতাম। রাবী বলেন, আমি তাঁকে বললামঃ কেন? তিনি বললেনঃ আমাদের একজন বৃদ্ধা মহিলা ছিল। সে কোন লোককে ‘বুদাআ’ নামক খেজুর বাগানে পাঠিয়ে বীট চিনির শিকড় আনতো। তা একটি হাঁড়িতে দিয়ে সে তাতে কিছুটা যবের দানা দিয়ে ঘুঁটে এক রকম খাবার তৈরী করত। এরপর আমরা যখন জুমু‘আহর সালাত আদায় করে ফিরতাম, তখন আমরা ঐ মহিলাকে সালাম দিতাম। তখন সে আমাদের ঐ খাবার পরিবেশন করত। আমরা এজন্য খুশী হতাম। আমাদের নিয়ম ছিল যে, আমরা জুমু‘আহর পরেই মধ্যাহ্ন ভোজন ও মধ্যাহ্ন বিশ্রাম করতাম। [৯৩৮] (আধুনিক প্রকাশনী- ৫৮০৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6248</td></tr><tr><td>Arabic No</td><td>6248</td></tr><tr><td>Reference</td><td>Book 79 Hadith 22</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Hazim:Sahl said, "We used to feel happy on Fridays." I asked Sahl, "Why?" He said, "There was an old woman of our acquaintance who used to send somebody to Buda'a (Ibn Maslama said, "Buda'a was a garden of date-palms at Medina). She used to pull out the silq (a kind of vegetable) from its roots and put it in a cooking pot, adding some powdered barley over it (and cook it). After finishing the Jumua (Friday) prayer we used to (pass by her and) greet her, whereupon she would present us with that meal, so we used to feel happy because of that. We used to have neither a midday nap, nor meals, except after the Friday prayer." (See Hadith No. 60, Vol.2)
+Narrated Abu Hazim:Sahl said, "We used to feel happy on Fridays." I asked Sahl, "Why?" He said, "There was an old woman of our acquaintance who used to send somebody to Buda'a (Ibn Maslama said, "Buda'a was a garden of date-palms at Medina). She used to pull out the silq (a kind of vegetable) from its roots and put it in a cooking pot, adding some powdered barley over it (and cook it). After finishing the Jumua (Friday) prayer we used to (pass by her and) greet her, whereupon she would present us with that meal, so we used to feel happy because of that. We used to have neither a midday nap, nor meals, except after the Friday prayer." (See Hadith No. 60, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6248</td></tr><tr><td>Arabic No</td><td>6248</td></tr><tr><td>Reference</td><td>Book 79 Hadith 22</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹாஸிம் சலமா பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: “நாங்கள் வெள்ளிக்கிழமை அன்று (மிகவும்) மகிழ்ச்சியாக இருப்போம்” என்று சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறினார்கள். நான், “ஏன்?” என்று கேட்டேன். அதற்கு அவர்கள் “எங்களுக்கு ஒரு மூதாட்டி இருந்தார். அவர் மதீனாவிலுள்ள ‘புளாஆ’ எனும் பேரீச்சந் தோட்டத்திற்கு ஆளனுப்பி, (அங்கு பயிராகும்) தண்டுக்கீரையின் தண்டு களைக் கொண்டுவரச் செய்து, அதை ஒரு பாத்திரத்தில் இடுவார். அத்துடன் சிறிது தொலி நீக்கப்படாத கோதுமையை அரைத்து அதில் இடுவார். நாங்கள் ஜுமுஆ தொழுதுவிட்டுத் திரும்பிவந்து அந்த மூதாட்டிக்கு சலாம் சொல்வோம். அப்போது அவர் அந்த உணவை எங்கள்முன் வைப்பார். அதன் காரணத்தால்தான் நாங்கள் (வெள்ளிக்கிழமை) மகிழ்ச்சியோடு இருப்போம். ஜுமுஆவிற்குப் பிறகுதான் நாங்கள் மதிய ஓய்வு எடுப்போம்; காலை உணவையும் உட்கொள்வோம்.23 அத்தியாயம் : 79
+அபூஹாஸிம் சலமா பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: “நாங்கள் வெள்ளிக்கிழமை அன்று (மிகவும்) மகிழ்ச்சியாக இருப்போம்” என்று சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறினார்கள். நான், “ஏன்?” என்று கேட்டேன். அதற்கு அவர்கள் “எங்களுக்கு ஒரு மூதாட்டி இருந்தார். அவர் மதீனாவிலுள்ள ‘புளாஆ’ எனும் பேரீச்சந் தோட்டத்திற்கு ஆளனுப்பி, (அங்கு பயிராகும்) தண்டுக்கீரையின் தண்டு களைக் கொண்டுவரச் செய்து, அதை ஒரு பாத்திரத்தில் இடுவார். அத்துடன் சிறிது தொலி நீக்கப்படாத கோதுமையை அரைத்து அதில் இடுவார். நாங்கள் ஜுமுஆ தொழுதுவிட்டுத் திரும்பிவந்து அந்த மூதாட்டிக்கு சலாம் சொல்வோம். அப்போது அவர் அந்த உணவை எங்கள்முன் வைப்பார். அதன் காரணத்தால்தான் நாங்கள் (வெள்ளிக்கிழமை) மகிழ்ச்சியோடு இருப்போம். ஜுமுஆவிற்குப் பிறகுதான் நாங்கள் மதிய ஓய்வு எடுப்போம்; காலை உணவையும் உட்கொள்வோம்.23 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6248</td></tr><tr><td>Arabic No</td><td>6248</td></tr><tr><td>Reference</td><td>Book 79 Hadith 22</td></tr></tbody></table></div>
 

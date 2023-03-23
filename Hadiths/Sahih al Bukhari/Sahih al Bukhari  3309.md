@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লেজকাটা সাপকে হত্যা করার নির্দেশ দিয়েছেন, আর বলেছেন, এ ধরনের সাপ দৃষ্টিশক্তি বিনষ্ট করে এবং গর্ভপাত ঘটায়। (৩৩০৮) (আধুনিক প্রকাশনীঃ ৩০৬৫, ইসলামিক ফাউন্ডেশনঃ ৩০৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লেজকাটা সাপকে হত্যা করার নির্দেশ দিয়েছেন, আর বলেছেন, এ ধরনের সাপ দৃষ্টিশক্তি বিনষ্ট করে এবং গর্ভপাত ঘটায়। (৩৩০৮) (আধুনিক প্রকাশনীঃ ৩০৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3309</td></tr><tr><td>Arabic No</td><td>3309</td></tr><tr><td>Reference</td><td>Book 59 Hadith 117</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் குட்டைவால் பாம்பைக் கொல்லுமாறு உத்தரவிட்டார்கள். மேலும், ‘‘அது கண் பார்வையைப் பறித்துவிடும்; கருவைச் சிதைத்துவிடும்” என்று கூறினார்கள்.111 அத்தியாயம் : 59
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் குட்டைவால் பாம்பைக் கொல்லுமாறு உத்தரவிட்டார்கள். மேலும், ‘‘அது கண் பார்வையைப் பறித்துவிடும்; கருவைச் சிதைத்துவிடும்” என்று கூறினார்கள்.111 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3309</td></tr><tr><td>Arabic No</td><td>3309</td></tr><tr><td>Reference</td><td>Book 59 Hadith 117</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইসমাঈল ইবন ইয়াকূব সাবহী (রহঃ) ... ইয়ালা (রাঃ) থেকে বর্ণিত। তিনি বলেন, একদা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট দিয়ে যাচ্ছিলাম; তখন আমায় গায়ে ছিল খালূক। তখন তিনি আমাকে বললেনঃ হে ইয়ালা! তোমার স্ত্রী আছে কি? আমি বললাম, না। তিনি বললেনঃ যাও এটা ধুয়ে ফেল, আবার ধুয়ে ফেল, আবার ধুয়ে ফেল, আর লাগাবে না। ইয়ালা (রাঃ) বলেনঃ আমি ফিরে গিয়ে তা ধুয়ে ফেললাম, আবার ধুয়ে ফেললাম, আবার ধুলাম, এরপর আর তা লাগাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5125</td></tr><tr><td>Arabic No</td><td>5125</td></tr><tr><td>Reference</td><td>Book 48 Hadith 86</td></tr></tbody></table></div>
 

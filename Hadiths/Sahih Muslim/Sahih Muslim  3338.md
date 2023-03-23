@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩২২৯, আন্তর্জাতিক নাম্বারঃ ১৩৭৪ ৩২২৯-(.../...) আবূ বকর ইবনু আবূ শায়বাহ, ইসহাক ইবনু মানসূর (রহঃ) ..... ইয়াহইয়া ইবনু আবূ কাসীর (রহঃ) থেকে এ সূত্রে অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩২০৪, ইসলামীক সেন্টার ৩২০১)
+আবূ বকর ইবনু আবূ শায়বাহ, ইসহাক ইবনু মানসূর (রহঃ) ..... ইয়াহইয়া ইবনু আবূ কাসীর (রহঃ) থেকে এ সূত্রে অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩২০৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3338</td></tr><tr><td>Arabic No</td><td>1374.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 542</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০৩, আন্তর্জাতিক নাম্বারঃ ৫৬ ১০৩-(৯৭/৫৬) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... জারীর (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি সালাত আদায়ের, যাকাত দেয়ার এবং প্রত্যেক মুসলিম কল্যাণ সাধন করার জন্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর নিকট বাই’আত করেছি। (ইসলামিক ফাউন্ডেশনঃ ১০৫, ইসলামিক সেন্টারঃ ১০৭)
+আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... জারীর (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি সালাত আদায়ের, যাকাত দেয়ার এবং প্রত্যেক মুসলিম কল্যাণ সাধন করার জন্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর নিকট বাই’আত করেছি। (ইসলামিক ফাউন্ডেশনঃ ১০৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>199</td></tr><tr><td>Arabic No</td><td>56.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 106</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekir b. Ebî Şeybe rivayet etti. (Dedi ki): Bize Abdullah b. Nümeyr ile Ebu Üsâme, İsmail b. Ebi Hâlid'den o da Kays'dan, o da Cerir'den naklen rivayet ettiler. Cerir dedi ki: Rasulullah (Sallallahu aleyhi ve Sellem)'e namazı dosdoğru kılmak, zekatı vermek ve her müslümana nasihat etmek şartı ile bey'at ettim. Diğer tahric: Buhari, 57, 1336,2049,2566; Tirmizi, 1925; Tuhfetu'I-Eşraf, 3226
+Bize Ebu Bekir b. Ebî Şeybe rivayet etti. (Dedi ki): Bize Abdullah b. Nümeyr ile Ebu Üsâme, İsmail b. Ebi Hâlid'den o da Kays'dan, o da Cerir'den naklen rivayet ettiler. Cerir dedi ki: Rasulullah (Sallallahu aleyhi ve Sellem)'e namazı dosdoğru kılmak, zekatı vermek ve her müslümana nasihat etmek şartı ile bey'at ettim. Diğer tahric: Buhari, 57, 1336,2049,2566; Tirmizi, 1925; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>199</td></tr><tr><td>Arabic No</td><td>56.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 106</td></tr></tbody></table></div>
 

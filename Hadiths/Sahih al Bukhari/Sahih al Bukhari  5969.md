@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আববাদ ইবনু তামীম এর চাচা (‘আবদুল্লাহ ইবনু যায়দ) হতে বর্ণিত যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মসজিদের ভিতর চিৎ হয়ে শয়ন করতে দেখেছেন যখন তাঁর এক পা অন্য পায়ের উপর উঠানো ছিল। [৪৭৫] (আধুনিক প্রকাশনী- ৫৫৩৬, ইসলামিক ফাউন্ডেশন- ৫৪৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আববাদ ইবনু তামীম এর চাচা (‘আবদুল্লাহ ইবনু যায়দ) হতে বর্ণিত যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মসজিদের ভিতর চিৎ হয়ে শয়ন করতে দেখেছেন যখন তাঁর এক পা অন্য পায়ের উপর উঠানো ছিল। [৪৭৫] (আধুনিক প্রকাশনী- ৫৫৩৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5969</td></tr><tr><td>Arabic No</td><td>5969</td></tr><tr><td>Reference</td><td>Book 77 Hadith 185</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் ஸைத் அல்அன்சாரி (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம்மிரு கால்களில் ஒன்றை மற்றொன்றின்மீது தூக்கிவைத்தவர்களாகப் பள்ளிவாசலில் (மல்லாந்து) படுத்திருப்பதை நான் பார்த்தேன்.143 அத்தியாயம் : 77
+அப்துல்லாஹ் பின் ஸைத் அல்அன்சாரி (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம்மிரு கால்களில் ஒன்றை மற்றொன்றின்மீது தூக்கிவைத்தவர்களாகப் பள்ளிவாசலில் (மல்லாந்து) படுத்திருப்பதை நான் பார்த்தேன்.143 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5969</td></tr><tr><td>Arabic No</td><td>5969</td></tr><tr><td>Reference</td><td>Book 77 Hadith 185</td></tr></tbody></table></div>
 

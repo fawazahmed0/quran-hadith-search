@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ বকর ইবনু খাল্লাদ আল বাহিলী (রহঃ) ..... হাবীব (রহঃ) থেকে একই সানাদে বর্ণিত। তিনি বলেন, মূর্তি বিলুপ্ত এবং ছবি ধ্বংস করে দিবে। (ইসলামী ফাউন্ডেশন ২১১৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2243</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

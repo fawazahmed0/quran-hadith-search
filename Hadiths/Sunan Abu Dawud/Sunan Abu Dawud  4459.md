@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন বাশশার (রহঃ) .... নু'মান ইবন বাশীর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সে ব্যক্তির ব্যাপারে, যে তার স্ত্রীর দাসীর সাথে যিনা করেছিল, এরূপ নির্দেশ দেন যে, যদি তার স্ত্রী তার জন্য সে দাসীকে হালাল করে দেয়, তবে তাকে একশো বেত্রাদণ্ড প্রদান করতে হবে; অন্যথায় তাকে পাথর মেরে হত্যা করতে হবে।
+। নু‘মান ইবনু বাশীর (রাঃ) সূত্রে বর্ণিত। কোনো ব্যক্তি তার স্ত্রীর দাসীর সঙ্গে সঙ্গম করলে, তার স্ত্রী যদি তাকে তার জন্য বৈধ করে দিয়ে থাকে তবে একশো বেত্রাঘাত করা হবে; আর যদি বৈধ করে না দিয়ে থাকে, তবে তাকে আমি রজম করবো।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4459</td></tr><tr><td>Arabic No</td><td>4459</td></tr><tr><td>Reference</td><td>Book 40 Hadith 109</td></tr></tbody></table></div>
 

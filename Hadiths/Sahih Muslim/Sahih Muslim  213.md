@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১১৬, আন্তর্জাতিক নাম্বারঃ ৫৯ ১১৬-(১০৯/.) উকবাহ ইবনু মুকরাম আল আম্মী (রহঃ) ..... তার উস্তায ইয়াহইয়া ইবনু মুহাম্মাদ থেকে বর্ণনা করেন যে, তিনি বলেন, আমি উপরোক্ত সনদে ইবনু আবদুর রহমান থেকে শুনেছি। তিনি বলেন, মুনাফিকের চিহ্ন তিনটি- যদিও সে সওম পালন করে এবং সালাত আদায় করে এবং মনে করে যে, সে মুসলিম। (ইসলামিক ফাউন্ডেশনঃ ১১৭, ইসলামিক সেন্টারঃ ১২১)
+উকবাহ ইবনু মুকরাম আল আম্মী (রহঃ) ..... তার উস্তায ইয়াহইয়া ইবনু মুহাম্মাদ থেকে বর্ণনা করেন যে, তিনি বলেন, আমি উপরোক্ত সনদে ইবনু আবদুর রহমান থেকে শুনেছি। তিনি বলেন, মুনাফিকের চিহ্ন তিনটি- যদিও সে সওম পালন করে এবং সালাত আদায় করে এবং মনে করে যে, সে মুসলিম। (ইসলামিক ফাউন্ডেশনঃ ১১৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>213</td></tr><tr><td>Arabic No</td><td>59.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 119</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Ishaq] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ukbe b. Mukrem el-Ammi tahdis etti. Bize Yahya b. Muhammed b. Kays Ebu Zukeyr tahdis edip dedi ki: Ala b. Abdurrahman'ı bu isnad ile tahdis ederken dinledim ve o şöyle dedi: "Münafığın alameti üçtür. İsterse oruç tutsun, namaz kılsın, Müslüman olduğunu iddia etsin. " Diğer tahric: Tirmizi, 2631; Tuhfetu'l-Eşraf, 14096
+Bize Ukbe b. Mukrem el-Ammi tahdis etti. Bize Yahya b. Muhammed b. Kays Ebu Zukeyr tahdis edip dedi ki: Ala b. Abdurrahman'ı bu isnad ile tahdis ederken dinledim ve o şöyle dedi: "Münafığın alameti üçtür. İsterse oruç tutsun, namaz kılsın, Müslüman olduğunu iddia etsin. " Diğer tahric: Tirmizi, 2631; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>213</td></tr><tr><td>Arabic No</td><td>59.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 119</td></tr></tbody></table></div>
 

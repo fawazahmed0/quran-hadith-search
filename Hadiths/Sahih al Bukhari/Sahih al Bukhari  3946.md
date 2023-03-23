@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালমান ফারসী (রাঃ) হতে বর্ণিত, তিনি দশ জনেরও অধিক মালিকের অধীনে হাত বদল হতে থাকেন। (আধুনিক প্রকাশনীঃ ৩৬৫৫, ইসলামিক ফাউন্ডেশনঃ ৩৬৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালমান ফারসী (রাঃ) হতে বর্ণিত, তিনি দশ জনেরও অধিক মালিকের অধীনে হাত বদল হতে থাকেন। (আধুনিক প্রকাশনীঃ ৩৬৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3946</td></tr><tr><td>Arabic No</td><td>3946</td></tr><tr><td>Reference</td><td>Book 63 Hadith 170</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Salman Al-Farisi:That he was sold (as a slave) by one master to another for more than ten times (i.e between 13 and 19)
+Narrated Salman Al-Farisi:That he was sold (as a slave) by one master to another for more than ten times (i.e between 13 and)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3946</td></tr><tr><td>Arabic No</td><td>3946</td></tr><tr><td>Reference</td><td>Book 63 Hadith 170</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Al Hasan bin 'Umar bin Syaqiq] telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஉஸ்மான் அந்நஹ்தீ (ரஹ்) அவர்கள் கூறியதாவது: சல்மான் அல்ஃபாரிசீ (ரலி) அவர்கள், “நான் ஓர் எசமானிடமிருந்து இன்னோர் எசமானாகப் பத்துக்கு மேற்பட்ட எசமானர் களின் கைக்கு (விற்கப்பட்டு) மாறிக் கொண்டிருந்தேன்” என்று சொன்னார்கள்.197 அத்தியாயம் : 63
+அபூஉஸ்மான் அந்நஹ்தீ (ரஹ்) அவர்கள் கூறியதாவது: சல்மான் அல்ஃபாரிசீ (ரலி) அவர்கள், “நான் ஓர் எசமானிடமிருந்து இன்னோர் எசமானாகப் பத்துக்கு மேற்பட்ட எசமானர் களின் கைக்கு (விற்கப்பட்டு) மாறிக் கொண்டிருந்தேன்” என்று சொன்னார்கள்.197 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3946</td></tr><tr><td>Arabic No</td><td>3946</td></tr><tr><td>Reference</td><td>Book 63 Hadith 170</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ক্বাতাদাহ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-কে জিজ্ঞেস করলামঃ কোন্ ধরনের কাপড় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট অধিক প্রিয় ছিল? তিনি বললেনঃ হিবারা-ইয়ামনী চাদর। [৫৮১৩; মুসলিম ৩৭/৫, হাঃ ২০৭৯, আহমাদ ১৪১১০] (আধুনিক প্রকাশনী- ৫৩৮৭, ইসলামিক ফাউন্ডেশন- ৫২৮৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ক্বাতাদাহ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-কে জিজ্ঞেস করলামঃ কোন্ ধরনের কাপড় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট অধিক প্রিয় ছিল? তিনি বললেনঃ হিবারা-ইয়ামনী চাদর। [৫৮১৩; মুসলিম ৩৭/৫, হাঃ ২০৭৯, আহমাদ ১৪১১০] (আধুনিক প্রকাশনী- ৫৩৮৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5812</td></tr><tr><td>Arabic No</td><td>5812</td></tr><tr><td>Reference</td><td>Book 77 Hadith 30</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin 'Ashim] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கத்தாதா (ரஹ்) அவர்கள் கூறியதாவது: நான் அனஸ் (ரலி) அவர்களிடம், ‘‘எந்த ஆடை நபி (ஸல்) அவர்களுக்கு மிகவும் விருப்பமானதாக இருந்தது?” என்று கேட்டேன். அவர்கள், ‘‘(பருத்தி யாலான) யமன் நாட்டுச் சால்வை” என்று பதிலளித்தார்கள். அத்தியாயம் : 77
+கத்தாதா (ரஹ்) அவர்கள் கூறியதாவது: நான் அனஸ் (ரலி) அவர்களிடம், ‘‘எந்த ஆடை நபி (ஸல்) அவர்களுக்கு மிகவும் விருப்பமானதாக இருந்தது?” என்று கேட்டேன். அவர்கள், ‘‘(பருத்தி யாலான) யமன் நாட்டுச் சால்வை” என்று பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5812</td></tr><tr><td>Arabic No</td><td>5812</td></tr><tr><td>Reference</td><td>Book 77 Hadith 30</td></tr></tbody></table></div>
 

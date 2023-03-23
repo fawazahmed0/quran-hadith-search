@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পরচুলা ব্যবহারকারী এবং এ পেশাধারী এবং উল্কি অঙ্কনকারী এবং তা গ্রহণকারী নারীদের অভিশাপ দিয়েছেন। [৫৯৩৭] (আধুনিক প্রকাশনী- ৫৫১৫, ইসলামিক ফাউন্ডেশন- ৫৪১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পরচুলা ব্যবহারকারী এবং এ পেশাধারী এবং উল্কি অঙ্কনকারী এবং তা গ্রহণকারী নারীদের অভিশাপ দিয়েছেন। [৫৯৩৭] (আধুনিক প্রকাশনী- ৫৫১৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5947</td></tr><tr><td>Arabic No</td><td>5947</td></tr><tr><td>Reference</td><td>Book 77 Hadith 163</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒட்டுமுடி வைத்துவிடுபவளையும் ஒட்டுமுடி வைத்துக்கொள்பவளையும், பச்சை குத்திவிடுபவளையும் பச்சை குத்திக்கொள்பவளையும் சபித்தார்கள். அத்தியாயம் : 77
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒட்டுமுடி வைத்துவிடுபவளையும் ஒட்டுமுடி வைத்துக்கொள்பவளையும், பச்சை குத்திவிடுபவளையும் பச்சை குத்திக்கொள்பவளையும் சபித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5947</td></tr><tr><td>Arabic No</td><td>5947</td></tr><tr><td>Reference</td><td>Book 77 Hadith 163</td></tr></tbody></table></div>
 

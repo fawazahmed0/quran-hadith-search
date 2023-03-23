@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহ্ তা‘আলার নিরানব্বই নাম আছে, এক কম একশত নাম। যে ব্যক্তি এ (নাম) গুলোর হিফাযাত করবে সে জান্নাতে প্রবেশ করবে। আল্লাহ্ বিজোড়। তিনি বিজোড় পছন্দ করেন। [২৭৩৬] (আধুনিক প্রকাশনী- ৫৯৬২, ইসলামিক ফাউন্ডেশন- ৫৮৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহ্ তা‘আলার নিরানব্বই নাম আছে, এক কম একশত নাম। যে ব্যক্তি এ (নাম) গুলোর হিফাযাত করবে সে জান্নাতে প্রবেশ করবে। আল্লাহ্ বিজোড়। তিনি বিজোড় পছন্দ করেন। [২৭৩৬] (আধুনিক প্রকাশনী- ৫৯৬২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6410</td></tr><tr><td>Arabic No</td><td>6410</td></tr><tr><td>Reference</td><td>Book 80 Hadith 105</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்விற்கு தொண்ணூற்று ஒன்பது -நூற்றுக்கு ஒன்று குறைவான- பெயர்கள் உண்டு. அவற்றை (நம்பிக்கை கொண்டு) மனனமிட்டவர் யாரும் சொர்க்கம் நுழையாமல் இருப்பதில்லை. அல்லாஹ் ஒற்றையானவன். ஒற்றைப் படையையே அவன் விரும்புகிறான்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 80
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்விற்கு தொண்ணூற்று ஒன்பது -நூற்றுக்கு ஒன்று குறைவான- பெயர்கள் உண்டு. அவற்றை (நம்பிக்கை கொண்டு) மனனமிட்டவர் யாரும் சொர்க்கம் நுழையாமல் இருப்பதில்லை. அல்லாஹ் ஒற்றையானவன். ஒற்றைப் படையையே அவன் விரும்புகிறான்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6410</td></tr><tr><td>Arabic No</td><td>6410</td></tr><tr><td>Reference</td><td>Book 80 Hadith 105</td></tr></tbody></table></div>
 

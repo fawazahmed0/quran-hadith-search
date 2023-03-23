@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কায়স ইবনু আবূ হাযিম (রহ.) হতে বর্ণিত। তিনি বলেন, আমি খালিদ ইবনু ওয়ালিদ (রাঃ)-কে বলতে শুনেছি, মূতার যুদ্ধে আমার হাতে নয়টি তরবারি ভেঙ্গে গিয়েছিল। শেষে আমার হাতে একটি প্রশস্ত ইয়ামানী তলোয়ার ব্যতীত আর কিছুই অবশিষ্ট ছিল না। [৪২৬৬] (আধুনিক প্রকাশনীঃ ৩৯৩২, ইসলামিক ফাউন্ডেশনঃ ৩৯৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কায়স ইবনু আবূ হাযিম (রহ.) হতে বর্ণিত। তিনি বলেন, আমি খালিদ ইবনু ওয়ালিদ (রাঃ)-কে বলতে শুনেছি, মূতার যুদ্ধে আমার হাতে নয়টি তরবারি ভেঙ্গে গিয়েছিল। শেষে আমার হাতে একটি প্রশস্ত ইয়ামানী তলোয়ার ব্যতীত আর কিছুই অবশিষ্ট ছিল না। [৪২৬৬] (আধুনিক প্রকাশনীঃ ৩৯৩২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4265</td></tr><tr><td>Arabic No</td><td>4265</td></tr><tr><td>Reference</td><td>Book 64 Hadith 299</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-காலித் பின் அல்வலீத் (ரலி) அவர்கள் கூறியதாவது: மூத்தா போரின்போது (தீவிரமாகப் போர் புரிந்ததால்), என் கையில் இருந்த ஒன்பது வாட்கள் உடைந்துவிட்டன; என் கரத்தில் யமன் நாட்டின் அகலமான வாள் ஒன்று மட்டுமே (உடையாமல்) எஞ்சியது. அத்தியாயம் : 64
+காலித் பின் அல்வலீத் (ரலி) அவர்கள் கூறியதாவது: மூத்தா போரின்போது (தீவிரமாகப் போர் புரிந்ததால்), என் கையில் இருந்த ஒன்பது வாட்கள் உடைந்துவிட்டன; என் கரத்தில் யமன் நாட்டின் அகலமான வாள் ஒன்று மட்டுமே (உடையாமல்) எஞ்சியது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4265</td></tr><tr><td>Arabic No</td><td>4265</td></tr><tr><td>Reference</td><td>Book 64 Hadith 299</td></tr></tbody></table></div>
 

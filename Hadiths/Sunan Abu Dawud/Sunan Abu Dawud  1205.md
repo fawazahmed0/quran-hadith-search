@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আনাস ইবন মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের নামাযের সময় কোন গন্তব্যে পৌঁছে সেখান হতে যুহরের নামায আদায়ের পূর্বে বের হতেন না। রাবী বলেন, এক ব্যাক্তি আনাস (রাঃ)-কে জিজ্ঞেস করেন, যদি তিনি ঠিক দ্বিপ্রহরের সময়ও কোন গন্তব্যে পৌঁছতেন, তখন তিনি কি নামায আদায় করতেন? তিনি বলেন, হ্যাঁ করতেন। (নাসাঈ)।
+। আনাস ইবনু মালিক (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন স্থানে (যুহরের সময়) যাত্রাবিরতী করলে যুহর সালাত আদায় না করা পর্যন্ত সেখান থেকে পুনরায় রওয়ানা করতেন না। এক ব্যক্তি আনাস (রাঃ)-কে জিজ্ঞেস করলো, তখন যদি ঠিক দুপুর হয় তবুও? তিনি বললেন, হ্যাঁ, ঠিক দুপুর হলেও।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
 

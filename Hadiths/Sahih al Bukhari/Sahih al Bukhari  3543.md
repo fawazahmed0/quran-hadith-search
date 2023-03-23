@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ জুহাইফাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি। আর হাসান (রাঃ) তাঁরই সদৃশ। (৩৫৪৪) (আধুনিক প্রকাশনীঃ ৩২৭৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3543</td></tr><tr><td>Arabic No</td><td>3543</td></tr><tr><td>Reference</td><td>Book 61 Hadith 52</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ahmad bin Yunus] telah bercerita kepada kami [Zuhai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஜுஹைஃபா (ரலி அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களைப் பார்த் திருக்கிறேன். ஹசன் (ரலி) அவர்கள், (தோற்றத்தில்) நபி (ஸல்) அவர்களை ஒத்திருக்கிறார்கள். அத்தியாயம் : 61
+அபூஜுஹைஃபா (ரலி அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களைப் பார்த் திருக்கிறேன். ஹசன் (ரலி) அவர்கள், (தோற்றத்தில்) நபி (ஸல்) அவர்களை ஒத்திருக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3543</td></tr><tr><td>Arabic No</td><td>3543</td></tr><tr><td>Reference</td><td>Book 61 Hadith 52</td></tr></tbody></table></div>
 

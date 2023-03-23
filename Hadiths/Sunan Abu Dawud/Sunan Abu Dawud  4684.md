@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন উবায়দ (রহঃ) .... যুহরী (রহঃ) বলেন, আল্লাহ্‌ তা'আলার এ বাণীঃ (আরবরা বলে; আমরা ঈমান এনেছি) আপনি বলুনঃ তোমরা ঈমান আনোনি; বরং তোমরা বলঃ আমরা ইসলাম কবূল করেছি। রাবী বলেন, আামাদের কাছে এর অর্থ হলোঃ ইসলাম হলো, মুখে উচ্চারণ করা এবং ঈমান হলো নেক আমল করা।
+। মা‘মার (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, যুহরী (রহঃ) বলেছেন, আল্লাহর বাণীঃ ‘‘(হে নবী!) আপনি বলুন, তোমরা ঈমান আনোনি, বরং তোমরা বলো, আমরা ইসলাম গ্রহণ করেছি’’ (সূরা হুজুরাতঃ ১৪)। এর তাৎপর্য আমরা বুঝেছি ইসলাম হলো কালেমা শাহাদাত আর ঈমান হলো আমল করা।[1] সনদ সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4684</td></tr><tr><td>Arabic No</td><td>4684</td></tr><tr><td>Reference</td><td>Book 42 Hadith 89</td></tr></tbody></table></div>
 

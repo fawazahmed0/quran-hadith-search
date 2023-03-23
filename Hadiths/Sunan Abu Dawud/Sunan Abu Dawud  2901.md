@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুস সালাম ইবন ‘আতীক দিমাশকী (রহঃ) ..... সালিহ্ ইবন ইয়াহইয়া ইবন মিকদাম (রাঃ) তাঁর পিতা থেকে এবং তিনি তাঁর দাদা হতে বর্ণনা করেছেন। তিনি বলেনঃ আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরূপ বলতে শুনেছিঃ আমি তার ওয়ারিছ যার কোন ওয়ারিছ নেই, তার কয়েদীদের মুক্তি করি এবং তার পরিত্যক্ত মালের উত্তরাধিকারী হই। আর যার কোন ওয়ারিছ নেই, তার মামা তার ওয়ারিছ হবে, যে তার কয়েদীদের মুক্ত করবে এবং তার মালের উত্তরাধিকারীও হবে।
+। আল-মিকদাম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যার কোনো ওয়ারিস নেই আমি তার ওয়ারিস হবো। আমি তার বন্দী মুক্ত করবো এবং তার সম্পত্তির উত্তরাধিকারী হবো। যার কোনো ওয়ারিস নেই, মামা তার ওয়ারিস। সে তার বন্দী মুক্ত করবে এবং তার সম্পদের উত্তরাধিকারী হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2901</td></tr><tr><td>Arabic No</td><td>2901</td></tr><tr><td>Reference</td><td>Book 19 Hadith 17</td></tr></tbody></table></div>
 

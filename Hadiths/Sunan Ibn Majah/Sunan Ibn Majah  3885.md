@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩৮৮৫। আবূ হুরায়রা (রাঃ) থকে বর্ণিত নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন তাঁর ঘর থেকে বের হতেন তখন বরতেনঃ ‘‘আল্লাহর নামে, আল্লাহ ছাড়া ক্ষতি রোধ করা বা কল্যাণ হাসিল করার শক্তি কারো নেই। ভরসা আল্লাহর উপর’’।
+। আবূ হুরায়রা (রাঃ) থকে বর্ণিত নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন তাঁর ঘর থেকে বের হতেন তখন বরতেনঃ ‘‘আল্লাহর নামে, আল্লাহ ছাড়া ক্ষতি রোধ করা বা কল্যাণ হাসিল করার শক্তি কারো নেই। ভরসা আল্লাহর উপর’’।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3885</td></tr><tr><td>Arabic No</td><td>3885</td></tr><tr><td>Reference</td><td>Book 34 Hadith 59</td></tr></tbody></table></div>
 

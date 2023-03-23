@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা মৃতদেরকে গালি দিও না। কারণ তারা তাদের কৃতকর্মের (পরিণাম ফল) পর্যন্ত পৌঁছে গেছে। [১৩৯৩] (আধুনিক প্রকাশনী- ৬০৬৬, ইসলামিক ফাউন্ডেশন- ৬০৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা মৃতদেরকে গালি দিও না। কারণ তারা তাদের কৃতকর্মের (পরিণাম ফল) পর্যন্ত পৌঁছে গেছে। [১৩৯৩] (আধুনিক প্রকাশনী- ৬০৬৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6516</td></tr><tr><td>Arabic No</td><td>6516</td></tr><tr><td>Reference</td><td>Book 81 Hadith 105</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Ja'd] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இறந்தோரை ஏசாதீர்கள். ஏனெனில், அவர்கள் தாம் செய்த (நன்மை, தீமை ஆகிய)வற்றின்பால் சென்று சேர்ந்துவிட்டார்கள். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.99 அத்தியாயம் : 82
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இறந்தோரை ஏசாதீர்கள். ஏனெனில், அவர்கள் தாம் செய்த (நன்மை, தீமை ஆகிய)வற்றின்பால் சென்று சேர்ந்துவிட்டார்கள். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.99 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6516</td></tr><tr><td>Arabic No</td><td>6516</td></tr><tr><td>Reference</td><td>Book 81 Hadith 105</td></tr></tbody></table></div>
 

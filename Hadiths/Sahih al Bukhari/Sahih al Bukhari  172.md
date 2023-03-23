@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন তোমাদের কারো পাত্রে যদি কুকুর পান করে তবে তা যেন সাতবার ধুয়ে নেয়। (মুসলিম ২/২৭, হাঃ ২৭৯, আহমাদ ৭৩৫০, ৭৩৫১,৭৪৫১) (আধুনিক প্রকাশনীঃ ১৬৮, ইসলামিক ফাউন্ডেশনঃ ১৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন তোমাদের কারো পাত্রে যদি কুকুর পান করে তবে তা যেন সাতবার ধুয়ে নেয়। (মুসলিম ২/২৭, হাঃ ২৭৯, আহমাদ ৭৩৫০, ৭৩৫১,৭৪৫১) (আধুনিক প্রকাশনীঃ ১৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>172</td></tr><tr><td>Arabic No</td><td>172</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] dari [Malik] dari [Abu Az Z
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவருடைய பாத்திரத் தில் நாய் (வாய்வைத்துக்) குடித்துவிடு மானால், அவர் அந்தப் பாத்திரத்தை ஏழு முறை கழுவட்டும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 4
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவருடைய பாத்திரத் தில் நாய் (வாய்வைத்துக்) குடித்துவிடு மானால், அவர் அந்தப் பாத்திரத்தை ஏழு முறை கழுவட்டும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>172</td></tr><tr><td>Arabic No</td><td>172</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
 

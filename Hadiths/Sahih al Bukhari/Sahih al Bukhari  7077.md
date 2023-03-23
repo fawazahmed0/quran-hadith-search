@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন যে, আমার পরে তোমরা পরস্পরে হানাহানি করে কুফরীর দিকে ফিরে যেও না। [১৭৪২] (আধুনিক প্রকাশনী- ৬৫৮৪, ইসলামিক ফাউন্ডেশন- ৬৫৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন যে, আমার পরে তোমরা পরস্পরে হানাহানি করে কুফরীর দিকে ফিরে যেও না। [১৭৪২] (আধুনিক প্রকাশনী- ৬৫৮৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7077</td></tr><tr><td>Arabic No</td><td>7077</td></tr><tr><td>Reference</td><td>Book 92 Hadith 28</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் (‘விடைபெறும்’ ஹஜ்ஜின்போது) கூறினார்கள்: எனக்குப் பின்னால் உங்களில் ஒருவர் மற்றவரின் பிடரியை வெட்டிக்கொள்ளும் இறைமறுப்பாளர்களாய் மாறிவிடாதீர்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.18 அத்தியாயம் : 92
+நபி (ஸல்) அவர்கள் (‘விடைபெறும்’ ஹஜ்ஜின்போது) கூறினார்கள்: எனக்குப் பின்னால் உங்களில் ஒருவர் மற்றவரின் பிடரியை வெட்டிக்கொள்ளும் இறைமறுப்பாளர்களாய் மாறிவிடாதீர்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.18 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7077</td></tr><tr><td>Arabic No</td><td>7077</td></tr><tr><td>Reference</td><td>Book 92 Hadith 28</td></tr></tbody></table></div>
 

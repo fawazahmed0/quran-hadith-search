@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১৪৭৮। ‘আবদুল্লাহ্ ইবনু মাস‘উদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, যে ব্যক্তি লাশ বহন করে, সে যেন খাটের চারদিক ধারণ করে। কারণ এটা সুন্নাতের অন্তর্ভুক্ত। অতঃপর সে চাইলে আরো ধরতে পারে, আর চাইলে ত্যাগও করতে পারে।
+। ‘আবদুল্লাহ্ ইবনু মাস‘উদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, যে ব্যক্তি লাশ বহন করে, সে যেন খাটের চারদিক ধারণ করে। কারণ এটা সুন্নাতের অন্তর্ভুক্ত। অতঃপর সে চাইলে আরো ধরতে পারে, আর চাইলে ত্যাগও করতে পারে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1478</td></tr><tr><td>Arabic No</td><td>1478</td></tr><tr><td>Reference</td><td>Book 6 Hadith 46</td></tr></tbody></table></div>
 

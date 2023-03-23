@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯০২। আইশা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ তা'আলার যিকির প্রতিষ্ঠার লক্ষ্যেই জামরায় কংকর ছুড়া এবং সাফা-মারওয়ার মাঝে সাঈ করার নিয়ম রাখা হয়েছে। যঈফ, মিশকাত (২৬২৪), যঈফ আবূ দাউদ (৩২৮) আবূ ঈসা বলেন, এই হাদীসটি হাসান সহীহ।
+। আইশা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ তা'আলার যিকির প্রতিষ্ঠার লক্ষ্যেই জামরায় কংকর ছুড়া এবং সাফা-মারওয়ার মাঝে সাঈ করার নিয়ম রাখা হয়েছে। যঈফ, মিশকাত (২৬২৪), যঈফ আবূ দাউদ (৩২৮) আবূ ঈসা বলেন, এই হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>902</td></tr><tr><td>Arabic No</td><td>902</td></tr><tr><td>Reference</td><td>Book 9 Hadith 95</td></tr></tbody></table></div>
 

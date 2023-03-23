@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৯৪। আবূ হুরায়রা(রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আবূ বাকরের ধন-সম্পদ আমার যতটুকু উপকারে এসেছে অন্য কারো ধন-সম্পদ আমার তত উপকারে আসেনি। রাবী বলেন, এ কথায় আবূ বাকর কেঁদে ফেলেন এবং বলেন, হে আল্লাহ্‌র রাসূল! আমি ও আমার ধন-সম্পদ আপনারই।
+। আবূ হুরায়রা(রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আবূ বাকরের ধন-সম্পদ আমার যতটুকু উপকারে এসেছে অন্য কারো ধন-সম্পদ আমার তত উপকারে আসেনি। রাবী বলেন, এ কথায় আবূ বাকর কেঁদে ফেলেন এবং বলেন, হে আল্লাহ্‌র রাসূল! আমি ও আমার ধন-সম্পদ আপনারই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 0 Hadith 94</td></tr></tbody></table></div>
 

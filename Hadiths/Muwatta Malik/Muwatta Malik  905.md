@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ২০৪. হিশাম ইবন উরওয়াহ্ (রহঃ) তাহার পিতা হইতে বর্ণনা করেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিনায় দুই রাকাআত কসর নামায আদায় করিয়াছিলেন। আবু বকর (রাঃ) এবং উমর ইবন খাত্তাব (রাঃ) তাঁহাদের আমলে দুই রাকাআত করিয়া পড়িয়াছিলেন। এমন কি উসমান ইবন আফফান (রাঃ)-ও তাহার খিলাফতের কিছুকাল দুই রাকাআত করিয়া পড়িয়াছেন, কিন্তু পরে তিনি চার রাকাআত করিয়া পড়িতে শুরু করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>905</td></tr><tr><td>Arabic No</td><td>905</td></tr><tr><td>Reference</td><td>Book 20 Hadith 201</td></tr></tbody></table></div>
 

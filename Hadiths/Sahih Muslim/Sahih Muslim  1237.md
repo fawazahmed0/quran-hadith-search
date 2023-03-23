@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১১২৪, আন্তর্জাতিক নাম্বারঃ ৫৫৫ ১১২৪-(.../...) আবুর রাবী' আয যাহরানী (রহঃ) ..... আবূ মাসলামাহ (রহঃ) থেকে বর্ণিত। তিনি বলেছেন, আনাস (ইবনু মালিক) (রাযিঃ) কে অনুরূপ জিজ্ঞেস করলাম। (ইসলামী ফাউন্ডেশন ১১১৭, ইসলামীক সেন্টার ১১২৬)
+আবুর রাবী' আয যাহরানী (রহঃ) ..... আবূ মাসলামাহ (রহঃ) থেকে বর্ণিত। তিনি বলেছেন, আনাস (ইবনু মালিক) (রাযিঃ) কে অনুরূপ জিজ্ঞেস করলাম। (ইসলামী ফাউন্ডেশন ১১১৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1237</td></tr><tr><td>Arabic No</td><td>555.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 75</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பள்ளிவாசலுக்குள் உமிழ்வது குற்றமாகும். அ(வ்வாறு உமிழ்ந்த)தை மண்ணுக்குள் புதைப்பதே அதற்குரிய பரிகாரமாகும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 5
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பள்ளிவாசலுக்குள் உமிழ்வது குற்றமாகும். அ(வ்வாறு உமிழ்ந்த)தை மண்ணுக்குள் புதைப்பதே அதற்குரிய பரிகாரமாகும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1237</td></tr><tr><td>Arabic No</td><td>555.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 75</td></tr></tbody></table></div>
 

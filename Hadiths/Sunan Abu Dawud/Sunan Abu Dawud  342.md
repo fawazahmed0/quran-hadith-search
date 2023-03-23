@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াযীদ ইবনু খালিদ ..... হাফসা (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম হতে বর্ণনা করেন। তিনি বলেনঃ প্রত্যেক বয়ঃপ্রাপ্ত ব্যক্তির জন্য জুমুআর নামায আদায় করা একান্ত কর্তব্য এবং যে ব্যক্তি জুমুআর নামাযের জন্য গমন করবে তাঁর জন্য গোসল করা প্রয়োজন। ইমাম আবূ দাউদ (রহঃ) বলেন, কোন নাপাক ব্যক্তি যদি জুমুআর দিনের সুবহে সা’দিকের পর গোসল করে তবে ঐ গোসলই তার জন্য যথেষ্ট হবে।
+। হাফসাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক প্রাপ্তবয়স্ক লোকের জন্য জুমুআর সালাতে যাওয়া একান্ত কর্তব্য। আর যে ব্যক্তি জুমুআর সালাতে যাবে তার জন্য গোসল করা জরুরী।[1] সহীহ: বুখারী ও মুসলিম। ইমাম আবূ দাউদ (রহঃ) বলেন, কোন ব্যক্তি জুমুআর দিন ফজরের পর গোসল করলেও যথেষ্ট হবে, যদিও তা জানাবাতের গোসল হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>342</td></tr><tr><td>Arabic No</td><td>342</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
 

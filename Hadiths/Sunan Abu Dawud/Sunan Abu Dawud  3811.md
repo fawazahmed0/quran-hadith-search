@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবন বাককার (রহঃ) ...... আমর ইবন শুআয়ব (রহঃ) তাঁর পিতা হতে এবং তিনি তাঁর দাদা থেকে বর্ণনা করেছেন। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বরের দিন গৃহ-পালিত গাধার গোশত এবং নাপাক জিনিস ভক্ষণকারী পশুর গোশত খেতে নিষেধ করেন। আর তিনি এদের উপর আরোহণ করতে এবং এদের গোশত খেতেও নিষেধ করেন।
+। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও দাদার সূত্রে বর্ণিত। তিনি (দাদা) বলেনঃ খায়বার যুদ্ধের দিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গৃহপালিত গাধার গোশত এবং নাপাকী খায় এমন প্রাণীর গোশত খেতে ও তাতে সওয়ার হতে নিষেধ করেছেন।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3811</td></tr><tr><td>Arabic No</td><td>3811</td></tr><tr><td>Reference</td><td>Book 28 Hadith 76</td></tr></tbody></table></div>
 

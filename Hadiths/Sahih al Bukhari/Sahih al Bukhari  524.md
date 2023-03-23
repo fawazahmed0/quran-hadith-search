@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জারীর ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট সালাত আদায়, যাকাত প্রদান এবং প্রত্যেক মুসলিমকে নাসীহাত করার বায়‘আত গ্রহণ করেছি। (৫৭) (আধুনিক প্রকাশনীঃ ৪৯৩, ইসলামিক ফাউন্ডেশনঃ ৪৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জারীর ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট সালাত আদায়, যাকাত প্রদান এবং প্রত্যেক মুসলিমকে নাসীহাত করার বায়‘আত গ্রহণ করেছি। (৫৭) (আধুনিক প্রকাশনীঃ ৪৯৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 9 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் தொழுகையைக் கடைப் பிடிப்பதாகவும், ஸகாத் வழங்குவதாகவும், ஒவ்வொரு முஸ்-முக்கும் நலம் நாடுவ தாகவும் உறுதிமொழி அளித்தேன். அத்தியாயம் : 9
+ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் தொழுகையைக் கடைப் பிடிப்பதாகவும், ஸகாத் வழங்குவதாகவும், ஒவ்வொரு முஸ்-முக்கும் நலம் நாடுவ தாகவும் உறுதிமொழி அளித்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 9 Hadith 3</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceri
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cerîr bin Abdullah (r.a.)'ın şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem'e namazı kılmak, zekatı vermek ve her müslümana nasihat etmek üzere biat ettim. Tekrar: 57
+Cerîr bin Abdullah (r.a.)'ın şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem'e namazı kılmak, zekatı vermek ve her müslümana nasihat etmek üzere biat ettim. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 9 Hadith 3</td></tr></tbody></table></div>
 

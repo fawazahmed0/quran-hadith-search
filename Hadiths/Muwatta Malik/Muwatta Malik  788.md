@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৯১. আবদুল্লাহ ইবন উমর (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, পাঁচ প্রকার প্রাণী মুহরিম ব্যক্তি যদি বধ করে তবে তাহার কোন গুনাহ হইবে না- কাক, চিল, বিচ্ছু, ইদুর, হিংস্ৰ কুকুর (বা হিংস্র জন্তু, যথা বাঘ, চিতাবাঘ ইত্যাদি)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 20 Hadith 84</td></tr></tbody></table></div>
 

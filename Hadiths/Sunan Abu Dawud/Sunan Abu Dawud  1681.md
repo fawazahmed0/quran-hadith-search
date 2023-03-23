@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইব্‌ন কাছীর (রহঃ) ..... সা’দ ইব্‌ন উবাদা (রাঃ) হতে বর্ণিত। তিনি বলেন, ইয়া রাসূলাল্লাহ্‌! আমার মাতা উম্মে সা’দ ইন্‌তিকাল করেছেন। কাজেই (তার ঈছালে ছওয়াবের জন্য) কোন্‌ ধরনের সদ্‌কাহ উত্তম? তিনি বলেনঃ পানি। অতঃপর সা’দ (রাঃ) একটি কূপ খনন করেন এবং বলেন, এই কূপের পানি বিতরণের ছাওয়াব উম্মে সা’দের জন্য নির্ধারিত। (নাসাঈ, ইব্‌ন মাজা)।
+। সা‘দ ইবনু ‘উবাদাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, হে আল্লাহর রসূল! উম্মু সা‘দ মৃত্যুবরণ করেছেন (তার পক্ষ হতে) কোন সাদাকা সর্বোত্তম হবে? তিনি বললেনঃ পানি। বর্ণনাকারী বলেন, তিনি (সা‘দ) একটি কূপ খনন করে বললেন, এটা উম্মু সা‘দের (কল্যানের) জন্য ওয়াকফ।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1681</td></tr><tr><td>Arabic No</td><td>1681</td></tr><tr><td>Reference</td><td>Book 9 Hadith 126</td></tr></tbody></table></div>
 

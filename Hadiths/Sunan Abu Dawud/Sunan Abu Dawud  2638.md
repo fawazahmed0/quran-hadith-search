@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্ হাসান ইবন আলী .... সালামা ইবনুল আকওয়া (রাঃ) বলেছেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের উপর আবূ বাকর (রাঃ)-কে আমীর (সেনাপতি) নিযুক্ত করে এক যুদ্ধে পাঠালেন। আমরা (ফুযারা গোত্রের) কিছু মুশরিকদের সঙ্গে যুদ্ধ করছিলাম। রাতের বেলা তাদের উপর অতর্কিত আক্রমণ চালিয়ে শত্রুদেরকে হত্যা করেছিলাম। সে রাতে আমাদের আক্রমনের সংকেত ছিল ‘‘আমিত, আমিত’’। সালামা ইবনুল আকওয়া (রাঃ) বলেছেন, আমি নিজ হাতে সে রাতে সাতজন প্রসিদ্ধ নেতাকে হত্যা করেছিলাম।
+। ইয়্যাস ইবনু সালামাহ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি (সালামাহ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক যুদ্ধে আবূ বাকর (রাঃ)-কে সেনাপতি নিয়োগ দিলেন। ‘আমরা রাতের বেলা মুশরিকদের উপর আক্রমণ করে তাদেরকে হত্যা করলাম। ঐ রাতে আমাদের সাংকেতিক ডাক ছিলো ‘আমিত, ‘আমিত।’ সালামাহ (রাঃ) বলেন, ঐ রাতে আমি নিজ হাতে সাতজন মুশরিক নেতাকে হত্যা করেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2638</td></tr><tr><td>Arabic No</td><td>2638</td></tr><tr><td>Reference</td><td>Book 15 Hadith 162</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ...... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, একদা তাঁরা (সাহাবীরা) জিজ্ঞাসা করেন, ইয়া রাসূলাল্লাহ! আমাদের কওমের লোকেরা জাহিলিয়াতের যুগের খুবই নিকটবর্তী (অর্থাৎ তারা কেবলই ইসলাম কবুল করেছে)। তারা আমাদের কাছে গোশত নিয়ে আসে, অথচ আমরা জানি না,, তারা যবাহের সময় ঐ পশুর উপর ‘বিসমিল্লাহ্’ পাঠ করেছে কিনা? আমরা কি এ গোশত থেকে ভক্ষণ করব? তখন রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা ‘বিসমিল্লাহ্’ বলে তা ভক্ষণ কর।
+। ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। একদা সাহাবীগণ বলেন, হে আল্লাহর রাসূল! জাহিলী যুগের কাছাকাছি একটি (নও মুসলিম) দল আমাদের নিকট গোশত নিয়ে আসে। ‘আমরা জানি না তারা আল্লাহর নাম নিয়ে তা যবাহ করেছে কি না। ‘আমরা কি এ গোশত খাবো? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমরা আল্লাহর নাম নিয়ে তা খাও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2829</td></tr><tr><td>Arabic No</td><td>2829</td></tr><tr><td>Reference</td><td>Book 16 Hadith 42</td></tr></tbody></table></div>
 

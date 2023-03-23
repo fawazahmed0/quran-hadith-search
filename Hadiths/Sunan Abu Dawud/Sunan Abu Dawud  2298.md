@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন মুহাম্মদ আল মারওয়াযী ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহ্ তা‘আলার বাণীঃ ‘‘তোমাদের মধ্যে যারা মৃত্যুবরণ করে এবং তাদের স্ত্রীদের ছেড়ে যায় এরূপ অসীয়াত করে যে, তাদের এক বছর ঘর হতে বহিস্কার না করে খোরপোষ দিতে হবে।’’ এ আয়াতটি মীরাসের আয়াত নাযিলের কারণে মানসূখ বা রহিত হয়ে যায়। সেখানে তাদের এক চতুর্থাুংশ এবং এক অষ্টমাংশ ফরয করা হয়। আর এক বছরের সময়সীমা বাতিল হয় এ জন্য যে, তাদের ইদ্দতের সময়সীমা চার মাস দশদিন নির্ধারিত হয়।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। মহান আল্লাহর বাণীঃ ‘‘তোমাদের মধ্যে যাদের মৃত্যু আসন্ন এবং স্ত্রী রেখে যায় তারা যেন এরূপ ওসিয়ত করে যে, তাদেরকে এক বছর ঘরে থেকে বের না করে খোরাকী দেয়’’ (সূরা আল-বাকারাহঃ ২৪০)। এ আয়াতটি মীরাসের আয়াত দ্বারা মানসূখ হয়ে গেছে। যেখানে স্ত্রীদের জন্য এক-চতুর্থাংশ ও এক-অষ্টমাংশ নির্ধারণ করা হয়। আর এক বছরের ইদ্দাত বাতিল করে চার মাস দশ দিন করা হয়।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2298</td></tr><tr><td>Arabic No</td><td>2298</td></tr><tr><td>Reference</td><td>Book 13 Hadith 124</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইব্‌ন ইসমাঈল (রহঃ) .... আবদুর রহমান ইব্‌ন তুরফা (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ কিলাবের যুদ্ধের সময় তার দাদা আরফাজা ইব্‌ন আসআদ (রাঃ) এর নাক কাটা যায়। তিনি একটি রূপার নাক তৈরী করে নিলে, তা থেকে দুর্গন্ধ আসতে থাকে। তখন তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নির্দেশে একটি সোনার নাক তৈরি করে নেন।
+। আব্দুর রাহমান ইবনু তারাফাহ (রাঃ) সূত্রে বর্ণিত। ‘কুলাব’ যুদ্ধের দিন তার দাদা আর-ফাজাহ ইবনু আস'আদের নাক কেটে গেলে তিনি রূপার নাক বানিয়ে নিলেন। তা দুর্গন্ধযুক্ত হওয়ায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নির্দেশে তিনি স্বর্ণের নাক তৈরী করে নেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 36 Hadith 19</td></tr></tbody></table></div>
 

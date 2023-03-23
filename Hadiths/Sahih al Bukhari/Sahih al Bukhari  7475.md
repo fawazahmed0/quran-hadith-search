@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একবার আমি ঘুমিয়ে ছিলাম এমন অবস্থায় আমাকে একটি কূপের কাছে দেখতে পেলাম। অতঃপর আমি সে কূপ থেকে আল্লাহর ইচ্ছায় পানি উঠালাম। তারপর আবূ কুহাফার পুত্র (আবূ বকর) তা নিলেন এবং তিনি এক বা দু’ বালতি উঠালেন। তার উঠানোতে দুর্বলতা ছিল। আল্লাহ তাকে ক্ষমা করুন। তারপর ‘উমার তা নিলেন। তখন তা বিরাট একটি বালতিতে রূপ ধারণ করল। আমি লোকের মধ্যে কোন বাহাদুরকে তার মত পানি তুলতে আর দেখিনি। এমনকি লোকেরা কূপের চারপাশ একেবারে ভিজিয়ে ফেলল। (আধুনিক প্রকাশনী- ৬৯৫৭, ইসলামিক ফাউন্ডেশন- ৬৯৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একবার আমি ঘুমিয়ে ছিলাম এমন অবস্থায় আমাকে একটি কূপের কাছে দেখতে পেলাম। অতঃপর আমি সে কূপ থেকে আল্লাহর ইচ্ছায় পানি উঠালাম। তারপর আবূ কুহাফার পুত্র (আবূ বকর) তা নিলেন এবং তিনি এক বা দু’ বালতি উঠালেন। তার উঠানোতে দুর্বলতা ছিল। আল্লাহ তাকে ক্ষমা করুন। তারপর ‘উমার তা নিলেন। তখন তা বিরাট একটি বালতিতে রূপ ধারণ করল। আমি লোকের মধ্যে কোন বাহাদুরকে তার মত পানি তুলতে আর দেখিনি। এমনকি লোকেরা কূপের চারপাশ একেবারে ভিজিয়ে ফেলল। (আধুনিক প্রকাশনী- ৬৯৫৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7475</td></tr><tr><td>Arabic No</td><td>7475</td></tr><tr><td>Reference</td><td>Book 97 Hadith 101</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "While I was sleeping, I saw myself (in a dream) standing by a well. I drew from it as much water as Allah wished me to draw, and then Ibn Quhafa (Abu Bakr) took the bucket from me and drew one or two buckets, and there was weakness in his drawing----may Allah forgive him! Then 'Umar took the bucket which turned into something like a big drum. I had never seen a powerful man among the people working as perfectly and vigorously as he did. (He drew so much water that) the people drank to their satisfaction and watered their camels that knelt down there. (See Hadith No. 16, Vol. 5)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "While I was sleeping, I saw myself (in a dream) standing by a well. I drew from it as much water as Allah wished me to draw, and then Ibn Quhafa (Abu Bakr) took the bucket from me and drew one or two buckets, and there was weakness in his drawing----may Allah forgive him! Then 'Umar took the bucket which turned into something like a big drum. I had never seen a powerful man among the people working as perfectly and vigorously as he did. (He drew so much water that) the people drank to their satisfaction and watered their camels that knelt down there. (See Hadith No. 16, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7475</td></tr><tr><td>Arabic No</td><td>7475</td></tr><tr><td>Reference</td><td>Book 97 Hadith 101</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "While I was sleeping, I saw 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் உறங்கிக்கொண்டிருந்தபோது (கனவில்) என்னை நான் ஒரு கிணற்றின் அருகே கண்டேன். (அதிலிருந்து) நான் இறைக்க வேண்டுமென அல்லாஹ் நாடிய அளவுக்கு(த் தண்ணீர்) இறைத்தேன். பிறகு அபூகுஹாஃபாவின் புதல்வர் (அபூபக்ர் (ரலி) அவர்கள்) அதை (வாளியை) எடுத்துக்கொண்டு (அதிலிருந்து) ‘ஒரு வாளி நீரை’ அல்லது ‘இரண்டு வாளிகள் நீரை’ இறைத்தார். அவர் (சிறிது நேரம்) இறைத்தபோது சோர்வு தெரிந்தது. அல்லாஹ் (அவரது சோர்வை) அவருக்கு மன்னிப்பானாக! பிறகு அதை உமர் எடுத்தார். அப்போது அது மிகப் பெரிய வாளியாக மாறிவிட்டிருந்தது. அவரைப் போன்று சீராகவும் உறுதியாகவும் செயல்படுகின்ற புத்திசாலியான (அபூர்வத்) தலைவர் ஒருவரை மக்களில் நான் பார்த்ததில்லை. மக்கள் (தங்கள் ஒட்டகங்களுக்கு நீர் புகட்டி,) உமர் அவர்களைச் சுற்றிலும் ஒட்டகங்கள் ஓய்வெடுக்கும் அளவிற்கு (அவர் நீர் இறைத்தார்).117 அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் உறங்கிக்கொண்டிருந்தபோது (கனவில்) என்னை நான் ஒரு கிணற்றின் அருகே கண்டேன். (அதிலிருந்து) நான் இறைக்க வேண்டுமென அல்லாஹ் நாடிய அளவுக்கு(த் தண்ணீர்) இறைத்தேன். பிறகு அபூகுஹாஃபாவின் புதல்வர் (அபூபக்ர் (ரலி) அவர்கள்) அதை (வாளியை) எடுத்துக்கொண்டு (அதிலிருந்து) ‘ஒரு வாளி நீரை’ அல்லது ‘இரண்டு வாளிகள் நீரை’ இறைத்தார். அவர் (சிறிது நேரம்) இறைத்தபோது சோர்வு தெரிந்தது. அல்லாஹ் (அவரது சோர்வை) அவருக்கு மன்னிப்பானாக! பிறகு அதை உமர் எடுத்தார். அப்போது அது மிகப் பெரிய வாளியாக மாறிவிட்டிருந்தது. அவரைப் போன்று சீராகவும் உறுதியாகவும் செயல்படுகின்ற புத்திசாலியான (அபூர்வத்) தலைவர் ஒருவரை மக்களில் நான் பார்த்ததில்லை. மக்கள் (தங்கள் ஒட்டகங்களுக்கு நீர் புகட்டி,) உமர் அவர்களைச் சுற்றிலும் ஒட்டகங்கள் ஓய்வெடுக்கும் அளவிற்கு (அவர் நீர் இறைத்தார்).117 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7475</td></tr><tr><td>Arabic No</td><td>7475</td></tr><tr><td>Reference</td><td>Book 97 Hadith 101</td></tr></tbody></table></div>
 

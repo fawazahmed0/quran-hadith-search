@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... আবদুল্লাহ্ ইবনু উমার (রাঃ) হতে বর্ণিত। তিনি বলেছেন, আমরা পুরুষরা ও মহিলারা রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের সময় একই পাত্রের পানি দ্বারা একত্রে উযূ (ওজু/অজু/অযু) করতাম এবং একই সময় কখনও কখনও আমাদের একের হাত অন্যের হাতের সাথে লেগে যেত। (ঐ)।
+। ‘আব্দুল্লাহ ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে আমরা ও নারীরা একই পাত্রে হাত দিয়ে পানি নিয়ে অযু করতাম।[1] সহীহ : বুখারী, পূর্বেরটি (৭৯ নং হাদীস) দেখুন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 1 Hadith 80</td></tr></tbody></table></div>
 

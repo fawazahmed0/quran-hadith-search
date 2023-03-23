@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেন, ‘আমার উত্তরাধিকারীরা কোন স্বর্ণ মুদ্রা এবং রৌপ্য মুদ্রা ভাগাভাগি করবে না, বরং আমি যা কিছু রেখে গেলাম তা থেকে আমার স্ত্রীদের খরচ এবং কর্মচারীদের পারিশ্রমিক দেয়ার পর যা অবশিষ্ট থাকে তা সদাকাহ।’ (৬৭২৯) (মুসলিম ৩২/১৬ হাঃ ১৭৬০, আহমাদ ৮৯০১) (আধুনিক প্রকাশনীঃ ২৫৭২, ইসলামিক ফাউন্ডেশনঃ ২৫৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেন, ‘আমার উত্তরাধিকারীরা কোন স্বর্ণ মুদ্রা এবং রৌপ্য মুদ্রা ভাগাভাগি করবে না, বরং আমি যা কিছু রেখে গেলাম তা থেকে আমার স্ত্রীদের খরচ এবং কর্মচারীদের পারিশ্রমিক দেয়ার পর যা অবশিষ্ট থাকে তা সদাকাহ।’ (৬৭২৯) (মুসলিম ৩২/১৬ হাঃ ১৭৬০, আহমাদ ৮৯০১) (আধুনিক প্রকাশনীঃ ২৫৭২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2776</td></tr><tr><td>Arabic No</td><td>2776</td></tr><tr><td>Reference</td><td>Book 55 Hadith 39</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என் வாரிசுகள் பொற்காசையோ வெள்ளி நாணயத்தையோ பங்கிட்டுக் கொள்ள (வாரிசுரிமையாகப் பெற)மாட்டார் கள்; என் துணைவியரின் செலவுகளையும் என் ஊழியரின் கூலியையும் தவிர நான் விட்டுச்செல்லும் அனைத்தும் தர்மமே யாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 55
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என் வாரிசுகள் பொற்காசையோ வெள்ளி நாணயத்தையோ பங்கிட்டுக் கொள்ள (வாரிசுரிமையாகப் பெற)மாட்டார் கள்; என் துணைவியரின் செலவுகளையும் என் ஊழியரின் கூலியையும் தவிர நான் விட்டுச்செல்லும் அனைத்தும் தர்மமே யாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2776</td></tr><tr><td>Arabic No</td><td>2776</td></tr><tr><td>Reference</td><td>Book 55 Hadith 39</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den nakledilmiştir: Allah Resulü sallallahu aleyhi ve sellem: "Benim mirasçılarım ne dirhem, ne de dinar bölüşürler. Eşlerimin nafakası ve çalışanımın maaşı dışında her ne bırakmışsam sadakadır" buyurmuştur. Tekrar: 3096, 6729
+Ebu Hureyre r.a.'den nakledilmiştir: Allah Resulü sallallahu aleyhi ve sellem: "Benim mirasçılarım ne dirhem, ne de dinar bölüşürler. Eşlerimin nafakası ve çalışanımın maaşı dışında her ne bırakmışsam sadakadır" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2776</td></tr><tr><td>Arabic No</td><td>2776</td></tr><tr><td>Reference</td><td>Book 55 Hadith 39</td></tr></tbody></table></div>
 

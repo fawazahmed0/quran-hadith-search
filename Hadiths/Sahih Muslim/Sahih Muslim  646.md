@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩৩, আন্তর্জাতিক নাম্বারঃ ২৭৮ ৫৩৩-(৮৮/...) সালামাহ ইবনু শাবীব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যখন তোমাদের কেউ জাগ্রত হবে তখন সে তার হাত পাত্রে ঢুকাবার পূর্বে যেন তা তিনবার ধুয়ে নেয়। কারণ সে জানে না যে, তার হাত রাতে কোথায় ছিল। (ইসলামিক ফাউন্ডেশনঃ ৫৩৭, ইসলামিক সেন্টারঃ ৫৫৩)
+সালামাহ ইবনু শাবীব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যখন তোমাদের কেউ জাগ্রত হবে তখন সে তার হাত পাত্রে ঢুকাবার পূর্বে যেন তা তিনবার ধুয়ে নেয়। কারণ সে জানে না যে, তার হাত রাতে কোথায় ছিল। (ইসলামিক ফাউন্ডেশনঃ ৫৩৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>278.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 112</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Abu Huraira reported:The Apostle of Allah (ﷺ) said: When anyone amongst you wa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Seleme b. Şebib de tahdis edip dedi ki: Bize Hasan b. /'\yen tahdis etti. Bize Ma'kil, Ebu'z-Zubeyr'den tahdis etti. O Cabir'den, o Ebu Hureyre' den rivayet ettiğine göre kendisine Nebi (Sallallahu aleyhi ve Sellem)'in: "Biriniz uyandığı zaman elini kabına daldırmadan önce eline üç defa su döksün. Çünkü o elinin geceyi nerede geçirdiğini bilemez" buyurduğunu haber verdi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 12233
+Bana Seleme b. Şebib de tahdis edip dedi ki: Bize Hasan b. /'\yen tahdis etti. Bize Ma'kil, Ebu'z-Zubeyr'den tahdis etti. O Cabir'den, o Ebu Hureyre' den rivayet ettiğine göre kendisine Nebi (Sallallahu aleyhi ve Sellem)'in: "Biriniz uyandığı zaman elini kabına daldırmadan önce eline üç defa su döksün. Çünkü o elinin geceyi nerede geçirdiğini bilemez" buyurduğunu haber verdi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>278.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 112</td></tr></tbody></table></div>
 

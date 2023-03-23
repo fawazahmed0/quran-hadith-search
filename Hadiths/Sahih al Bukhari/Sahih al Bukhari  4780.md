@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ্ তা‘আলা বলেন, আমি আমার নেক বান্দাদের জন্য এমন সব বস্তুরাজি তৈরি করে রেখেছি, যা কোন চোখ দেখেনি, কোন কান শোনেনি এবং কোন ব্যক্তির মন কল্পনা করেনি। এসব ছাড়া যা কিছুই তোমরা দেখছ, তার কোন মূল্যই নেই। তারপর এ আয়াত পাঠ করলেন, কেউ জানে না তাদের জন্য নয়ন তৃপ্তিকর কী লুক্কায়িত রাখা হয়েছে, তাদের কৃতকর্মের পারিতোষিক হিসেবে। আবূ মুয়াবিয়াহ আ‘মাশ হতে তিনি আবূ সালিহ হতে বর্ণনা করেন, আবূ হুরাইরাহ قُرَّةِ أَعْيُنٍএর স্থলে قُرَّاتِ أَعْيُنٍ পড়তেন।[৩২৪৪] (আধুনিক প্রকাশনীঃ ৪৪১৬, ইসলামিক ফাউন্ডেশনঃ ৪৪১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ্ তা‘আলা বলেন, আমি আমার নেক বান্দাদের জন্য এমন সব বস্তুরাজি তৈরি করে রেখেছি, যা কোন চোখ দেখেনি, কোন কান শোনেনি এবং কোন ব্যক্তির মন কল্পনা করেনি। এসব ছাড়া যা কিছুই তোমরা দেখছ, তার কোন মূল্যই নেই। তারপর এ আয়াত পাঠ করলেন, কেউ জানে না তাদের জন্য নয়ন তৃপ্তিকর কী লুক্কায়িত রাখা হয়েছে, তাদের কৃতকর্মের পারিতোষিক হিসেবে। আবূ মুয়াবিয়াহ আ‘মাশ হতে তিনি আবূ সালিহ হতে বর্ণনা করেন, আবূ হুরাইরাহ قُرَّةِ أَعْيُنٍএর স্থলে قُرَّاتِ أَعْيُنٍ পড়তেন।[৩২৪৪] (আধুনিক প্রকাশনীঃ ৪৪১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4780</td></tr><tr><td>Arabic No</td><td>4780</td></tr><tr><td>Reference</td><td>Book 65 Hadith 302</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:The Prophet, said, "Allah said, 'I have prepared for My pious worshipers such things as no eye has ever seen, no ear has ever heard of, and nobody has ever thought of. All that is reserved, besides which, all that you have seen, is nothing." Then he recited:-- 'No soul knows what is kept hidden (in reserve) for them of joy as a reward for what they used to do.' (32.17)
+Narrated Abu Huraira:The Prophet, said, "Allah said, 'I have prepared for My pious worshipers such things as no eye has ever seen, no ear has ever heard of, and nobody has ever thought of. All that is reserved, besides which, all that you have seen, is nothing." Then he recited:-- 'No soul knows what is kept hidden (in reserve) for them of joy as a reward for what they used to do
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4780</td></tr><tr><td>Arabic No</td><td>4780</td></tr><tr><td>Reference</td><td>Book 65 Hadith 302</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq bin Nashr] Telah menceritakan kepada kami [Ab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘உயர்ந்தோன் அல்லாஹ், ‘என் நல்லடியார்களின் சேமிப்பாக எந்தக் கண்ணும் கண்டிராத, எந்தக் காதும் கேட்டிராத, எந்த மனிதரின் மனத்திலும் தோன்றியிராத இன்பங்களை நான் சொர்க்கத்தில் தயார்படுத்தி வைத்துள்ளேன். (சொர்க்கத்தின் இன்பங்கள் குறித்து) உங்களுக்கு அறிவிக்கப்பட்டுள்ளவை, (அங்கே கிடைக்கவிருக்கும் இன்பங்களுக்கு முன்னே) சொற்பமானவையே ஆகும்’ எனக் கூறுகின்றான்” என்று சொன்னார்கள். பிறகு, ‘‘அவர்கள் செய்துகொண்டி ருந்த (நற்)செயல்களின் பலனாகக் கண்களைக் குளிரச் செய்யும் எத்தகைய இன்பங்கள் அவர்களுக்காக மறைத்து வைக்கப்பட்டுள்ளன என்பதை யாரும் அறியமாட்டார்கள்” எனும் (32:17ஆவது) இறைவசனத்தை ஒதினார்கள். மற்றோர் அறிவிப்பில், அபூஹுரைரா (ரலி) அவர்கள் (32:17ஆவது வசனத்தின் மூலத்தில் உள்ள ‘குர்ரத்’ (குளிர்ச்சி) எனும் ஒருமையான சொல்லை) ‘குர்ராத்’ என(ப் பன்மையாக) வாசித்தார்கள் என்று காணப்படுகிறது. அத்தியாயம் : 65
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘உயர்ந்தோன் அல்லாஹ், ‘என் நல்லடியார்களின் சேமிப்பாக எந்தக் கண்ணும் கண்டிராத, எந்தக் காதும் கேட்டிராத, எந்த மனிதரின் மனத்திலும் தோன்றியிராத இன்பங்களை நான் சொர்க்கத்தில் தயார்படுத்தி வைத்துள்ளேன். (சொர்க்கத்தின் இன்பங்கள் குறித்து) உங்களுக்கு அறிவிக்கப்பட்டுள்ளவை, (அங்கே கிடைக்கவிருக்கும் இன்பங்களுக்கு முன்னே) சொற்பமானவையே ஆகும்’ எனக் கூறுகின்றான்” என்று சொன்னார்கள். பிறகு, ‘‘அவர்கள் செய்துகொண்டி ருந்த (நற்)செயல்களின் பலனாகக் கண்களைக் குளிரச் செய்யும் எத்தகைய இன்பங்கள் அவர்களுக்காக மறைத்து வைக்கப்பட்டுள்ளன என்பதை யாரும் அறியமாட்டார்கள்” எனும் (32:17ஆவது) இறைவசனத்தை ஒதினார்கள். மற்றோர் அறிவிப்பில், அபூஹுரைரா (ரலி) அவர்கள் (32:17ஆவது வசனத்தின் மூலத்தில் உள்ள ‘குர்ரத்’ (குளிர்ச்சி) எனும் ஒருமையான சொல்லை) ‘குர்ராத்’ என(ப் பன்மையாக) வாசித்தார்கள் என்று காணப்படுகிறது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4780</td></tr><tr><td>Arabic No</td><td>4780</td></tr><tr><td>Reference</td><td>Book 65 Hadith 302</td></tr></tbody></table></div>
 

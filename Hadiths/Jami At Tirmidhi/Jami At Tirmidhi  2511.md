@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫১১। আবূ বাকরা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (ন্যায়পরায়ণ শাসকের বিরুদ্ধে) বিদ্রোহ ও রক্তসম্পৰ্কীয় আত্মীয়তার বন্ধন ছিন্ন করার মতো মারাত্মক আর কোন পাপ নেই, আল্লাহ তা'আলা যার সাজা পৃথিবীতেও প্রদান করেন এবং আখিরাতের জন্যও অবশিষ্ট রাখেন। সহীহঃ ইবনু মা-জাহ (৪২১১)। আবূ ঈসা বলেন, এই হাদীসটি হাসান সহীহ।
+। আবূ বাকরা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (ন্যায়পরায়ণ শাসকের বিরুদ্ধে) বিদ্রোহ ও রক্তসম্পৰ্কীয় আত্মীয়তার বন্ধন ছিন্ন করার মতো মারাত্মক আর কোন পাপ নেই, আল্লাহ তা'আলা যার সাজা পৃথিবীতেও প্রদান করেন এবং আখিরাতের জন্যও অবশিষ্ট রাখেন। সহীহঃ ইবনু মা-জাহ (৪২১১)। আবূ ঈসা বলেন, এই হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2511</td></tr><tr><td>Arabic No</td><td>2511</td></tr><tr><td>Reference</td><td>Book 37 Hadith 97</td></tr></tbody></table></div>
 

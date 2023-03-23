@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... সাহাল ইবনে সা'দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মিম্বর অথবা অন্য কোথাও বেশী উপরে হাত উঠিয়ে দোয়া করতে দেখিনি। বরং তিনি শাহাদত আংগুল উপরে উঠিয়ে ইশারা করতেন এবং বৃদ্ধা ও মধ্যমাকে মিলিয়ে শাহাদত আংগুলি দ্বারা ইশারা করতেন মাত্র।
+। সাহল ইবনু সা‘দ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে মিম্বারে অবস্থানকালে অথবা অন্যত্র কখনো হাত উঠাতে দেখিনি। তবে আমি দেখেছি যে, তিনি মধ্যমা ও বৃদ্ধাঙ্গুলি মিলিয়ে বৃত্ত বানিয়ে শাহাদাত অঙ্গুলি দিয়ে ইশারা (করে দু‘আ) করতেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1105</td></tr><tr><td>Arabic No</td><td>1105</td></tr><tr><td>Reference</td><td>Book 2 Hadith 716</td></tr></tbody></table></div>
 

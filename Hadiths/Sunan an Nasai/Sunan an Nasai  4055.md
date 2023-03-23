@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সাফওয়ান ইবন আমর (রহঃ) ... ইসরাঈল (রহঃ) আবূ ইসহাক থেকে, তিনি শা'বী থেকে, তিনি জারীর (রাঃ) থেকে। তিনি বলেন, যে গোলাম পালিয়ে মুশরিকদের দেশে চলে যায়, তার রক্ত হালাল হয়ে যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 37 Hadith 90</td></tr></tbody></table></div>
 

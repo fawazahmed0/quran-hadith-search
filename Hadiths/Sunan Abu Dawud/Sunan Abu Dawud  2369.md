@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল ..... শাদ্দাদ ইবন আওস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাকী' নামক স্থানে এক ব্যক্তির নিকট গমন করে তাকে শিংগা লাগাতে দেখেন। এ সময় তিনি রামাযানের আঠার তারিখ অতিক্রান্ত হওয়ার বিষয় গণনা করে বলেনঃ যে ব্যক্তি শিংগা লাগায় এবং যাকে লাগায় তারা উভয়ে রোযা ভঙ্গ করল।
+। শাদ্দাদ ইবনু আওস (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রমাযানের আঠার দিন অতিবাহিত হবার পর আমার হাত ধরে বাকী‘তে এক ব্যক্তির নিকট আসলেন, যে শিংগা লাগাচ্ছিল। তিনি বললেনঃ রক্তমোক্ষণকারী ও যার রক্তমোক্ষণ করা হয়েছে তাদের উভয়ের সওম নষ্ট হয়ে গেছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2369</td></tr><tr><td>Arabic No</td><td>2369</td></tr><tr><td>Reference</td><td>Book 14 Hadith 57</td></tr></tbody></table></div>
 

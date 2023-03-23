@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুদাববার বিক্রি করেছেন। (২১৪১) (আধুনিক প্রকাশনীঃ ২০৭৩, ইসলামিক ফাউন্ডেশনঃ ২০৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুদাববার বিক্রি করেছেন। (২১৪১) (আধুনিক প্রকাশনীঃ ২০৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>2231</td></tr><tr><td>Reference</td><td>Book 34 Hadith 178</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) sold a Mudabbar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: (பின்தேதியிட்டு விடுதலை அளிக்கப்பட்ட அடிமையான) முதப்பரை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் விற்றார்கள். அத்தியாயம் : 34
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: (பின்தேதியிட்டு விடுதலை அளிக்கப்பட்ட அடிமையான) முதப்பரை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் விற்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>2231</td></tr><tr><td>Reference</td><td>Book 34 Hadith 178</td></tr></tbody></table></div>
 

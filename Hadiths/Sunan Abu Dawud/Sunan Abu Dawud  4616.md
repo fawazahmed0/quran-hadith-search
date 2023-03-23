@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কামিল (রহঃ) .... খালিদ হাযযা (রহঃ) বলেনঃ আমি হাসান (রহঃ)-কে জিজ্ঞাসা করি, এ আয়াতের অর্থ কি? যেখানে বলা হয়েছেঃ শয়তান তোমাদের কাউকে গুমরাহ করতে পারে না, তবে যে জাহান্নামে যাবে, (তার কথা স্বতন্ত্র)। তিনি বলেনঃ অবশ্যই শয়তান তার গুমরাহীর ফাঁদে তাকেই আবদ্ধ করবে, যার জন্য আল্লাহ্‌ জাহান্নাম ওয়াজিব করেছেন।
+। খালিদ আল-হাযযা (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি হাসান বাসরী (রহঃ)-কে ‘‘তোমরা কেউই কাউকে আল্লাহ সম্বন্ধে বিভ্রান্ত করতে পারবে না কেবল জাহান্নামে প্রবেশকারীকে ব্যতীত।’’ এ আয়াতের অর্থ সম্পর্কে প্রশ্ন করলে তিনি বলেন, শুধু তাদেরকেই শয়তান পথভ্রষ্ট করতে পারবে যাদের জাহান্নামে প্রবেশ করাকে আল্লাহ অবধারিত করেছেন।[1] সনদ সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>4616</td></tr><tr><td>Reference</td><td>Book 42 Hadith 21</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(রাবী) ‘আমর ইবনু দ্বীনার (রহ.) বলেছেন, জাবির ইবনু ‘আব্দুল্লাহ (রাঃ)-কেও আমরা জিজ্ঞেস করলাম। তিনি বলেছেন, সাফা-মারওয়ার মাঝে তাওয়াফ না করা পর্যন্ত কেউ তার স্ত্রীর নিকট কিছুতেই যাবে না। (৩৯৬) (আধুনিক প্রকাশনীঃ ১৬৬৫. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 26 Hadith 19</td></tr></tbody></table></div>
 

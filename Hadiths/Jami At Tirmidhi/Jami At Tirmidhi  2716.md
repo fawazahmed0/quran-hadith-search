@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭১৬। আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার মৃত্যুর পূর্বে কিসরা, কাইসার ও নাজাশী এবং তখনকার সব পরাক্রান্ত রাজা বাদশাহদের নিকট তাদেরকে আল্লাহর দ্বীনের দাওয়াত দিয়ে চিঠি দিয়েছিলেন। তবে ইনি সেই নাজাশী নন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যার জানাযা আদায় করেছিলেন। সহীহঃ মুসলিম (৫/১৬৬) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব
+। আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার মৃত্যুর পূর্বে কিসরা, কাইসার ও নাজাশী এবং তখনকার সব পরাক্রান্ত রাজা বাদশাহদের নিকট তাদেরকে আল্লাহর দ্বীনের দাওয়াত দিয়ে চিঠি দিয়েছিলেন। তবে ইনি সেই নাজাশী নন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যার জানাযা আদায় করেছিলেন। সহীহঃ মুসলিম (৫/১৬৬) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2716</td></tr><tr><td>Arabic No</td><td>2716</td></tr><tr><td>Reference</td><td>Book 42 Hadith 29</td></tr></tbody></table></div>
 

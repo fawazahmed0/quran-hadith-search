@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন আবূ মারয়াম (রহঃ) ...... জাবির ইবন আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পাহাড়ের ঘাটি হতে পেশাব-পায়খানা সেরে ফিরে আসেন। এ সময় আমাদের সামনে ঢালের উপর কিছু খেজুর সংরক্ষিত ছিল। আমরা তাঁকে আহবান করলে তিনি আমাদের সঙ্গে তা আহার করেন। আর এসময় তিনি পানি স্পর্শ করেন নি।
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পেশাব-পায়খানা সেরে গিরিপথ থেকে নামলেন। আমাদের সামনে ঢালের উপর খেজুর রাখা ছিলো। আমরা তাঁকে খেতে ডাকলে তিনি আমাদের সঙ্গে খেজুর খেলেন কিন্তু পানি স্পর্শ করলে না (হাত ধৌত করেননি)।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3762</td></tr><tr><td>Arabic No</td><td>3762</td></tr><tr><td>Reference</td><td>Book 28 Hadith 27</td></tr></tbody></table></div>
 

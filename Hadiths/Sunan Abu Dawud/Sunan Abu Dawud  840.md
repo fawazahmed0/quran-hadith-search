@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাঈদ ইবনু মানসূর ...... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেছেনঃ তোমরা সিজদা করার সময় উটের ন্যায় বসবে না এবং সিজদায় যেতে মাটিতে হাঁটু রাখার পূর্বে হাত রাখবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যেন সিজদার সময় উটের ন্যায় না বসে এবং সিজদাকালে যেন মাটিতে হাঁটু রাখার পূর্বে হাত রাখে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 2 Hadith 450</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem); "Bi­riniz secdeye vardığında deve gibi çökmesin, dizlerinden önce ellerini (yere) koysun" buyurdu. Diğer tahric: Tirmizî, salat; Nesaî, tatbik; Darimî, salat; Ahmed b. Hanbel, II, 381
+Ebu Hureyre (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem); "Bi­riniz secdeye vardığında deve gibi çökmesin, dizlerinden önce ellerini (yere) koysun" buyurdu. Diğer tahric: Tirmizî, salat; Nesaî, tatbik; Darimî, salat; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 2 Hadith 450</td></tr></tbody></table></div>
 

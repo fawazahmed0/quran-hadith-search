@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আসমা বিন্তে য়াযীদ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ এই দুটি আয়াত হল আল্লাহ্‌র “ইসম আজম” মহান নাম। ১। (وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ لاَ إِلَهَ إِلاَّ هُوَ الرَّحْمَنُ الرَّحِيمُ) অর্থাৎ তোমাদের ইলাহ এক, তিনি ছাড়া আর কোন ইলাহ নাই, যিনি দাতা-দয়ালু। ২। সূরা আল- ইমরানের প্রথমাংশঃ (الم * الله لا إله إلا هو الحى القيوم) আলিফ, লাম, মীম আল্লাহ্‌ ছাড়া আর কোন ইলাহ নাই, তিনি চিরঞ্জীব ও চিরস্থায়ী। ( তিরমিযী, ইবন মাজা)।
+। আসমা বিনতু ইয়াযীদ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইসমে আযম এ দু’টি আয়াতে রয়েছে- (এক) তোমাদের ইলাহ একমাত্র ইলাহ, তিনি ছাড়া কোনো ইলাহ নাই, তিনি অতি দয়ালূ মেহেরবান (সূরাহ আল-বাক্বারাহ : ১৬৩)। (দুই) সূরাহ আলে-‘ইমরানের প্রথমাংশ, আলিফ-লাম-মীম, তিনিই সেই আল্লাহ, তিনি ছাড়া কোন ইলাহ নেই, তিনি চিরঞ্জীব, চিরস্থায়ী।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1496</td></tr><tr><td>Arabic No</td><td>1496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 81</td></tr></tbody></table></div>
 

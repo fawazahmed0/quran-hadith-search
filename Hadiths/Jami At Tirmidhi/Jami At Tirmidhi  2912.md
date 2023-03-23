@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯১২। জুবাইর ইবনু নুফাইর (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা'আলার প্রস্রবণ হতে নিঃসৃত জিনিস অর্থাৎ কুরআন মাজীদের তুলনায় শ্রেষ্ঠতর কোন কিছু নিয়ে তোমরা আল্লাহ তা’আলার নিকটে ফিরে যেতে পারবে না। যঈফ, যঈফা
+। জুবাইর ইবনু নুফাইর (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা'আলার প্রস্রবণ হতে নিঃসৃত জিনিস অর্থাৎ কুরআন মাজীদের তুলনায় শ্রেষ্ঠতর কোন কিছু নিয়ে তোমরা আল্লাহ তা’আলার নিকটে ফিরে যেতে পারবে না। যঈফ, যঈফা
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2912</td></tr><tr><td>Arabic No</td><td>2912</td></tr><tr><td>Reference</td><td>Book 45 Hadith 38</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Narrated Jubair bin Nufair:that the Prophet (ﷺ) said: "You shall not return to
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cübeyr b. Nüfeyr (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Siz Allah’a Kur’ân’ın emirlerini yerine getirerek yaptığınız iyiliklerden daha değerli bir şeyle Allah’ın huzuruna dönemezsiniz.” Diğer tahric: Müsned: 21274
+Cübeyr b. Nüfeyr (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Siz Allah’a Kur’ân’ın emirlerini yerine getirerek yaptığınız iyiliklerden daha değerli bir şeyle Allah’ın huzuruna dönemezsiniz.” Diğer tahric: Müsned:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2912</td></tr><tr><td>Arabic No</td><td>2912</td></tr><tr><td>Reference</td><td>Book 45 Hadith 38</td></tr></tbody></table></div>
 

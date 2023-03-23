@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট যখন কোন ঋণী ব্যক্তির জানাযা উপস্থিত করা হত তখন তিনি জিজ্ঞেস করতেন, সে তার ঋণ পরিশোধের জন্য অতিরিক্ত মাল রেখে গেছে কি? যদি তাঁকে বলা হত যে, সে তার ঋণ পরিশোধের মতো মাল রেখে গেছে তখন তার জানাযার সালাত আদায় করতেন। নতুবা বলতেন, তোমাদের সাথীর জানাযা আদায় করে নাও। পরবর্তীতে যখন আল্লাহ তাঁর বিজয়ের দ্বার উন্মুক্ত করে দেন, তখন তিনি বললেন, আমি মু’মিনদের জন্য তাদের নিজের চেয়েও অধিক নিকটবর্তী। তাই কোন মু’মিন ঋণ রেখে মারা গেলে সে ঋণ পরিশোধ করার দায়িত্ব আমার। আর যে ব্যক্তি সম্পদ রেখে যায়, সে সম্পদ তার উত্তরাধিকারীদের জন্য। (২৩৯৮, ২৩৯৯, ৪৭৮১, ৫৩৭১, ৬৭৩১, ৬৭৪৫, ৬৭৬৩, মুসলিম ২৩/৪, হাঃ ১৬১৯, আহমাদ ৯৮৫৫) (আধুনিক প্রকাশনীঃ ২১৩৪, ইসলামিক ফাউন্ডেশনঃ ২১৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট যখন কোন ঋণী ব্যক্তির জানাযা উপস্থিত করা হত তখন তিনি জিজ্ঞেস করতেন, সে তার ঋণ পরিশোধের জন্য অতিরিক্ত মাল রেখে গেছে কি? যদি তাঁকে বলা হত যে, সে তার ঋণ পরিশোধের মতো মাল রেখে গেছে তখন তার জানাযার সালাত আদায় করতেন। নতুবা বলতেন, তোমাদের সাথীর জানাযা আদায় করে নাও। পরবর্তীতে যখন আল্লাহ তাঁর বিজয়ের দ্বার উন্মুক্ত করে দেন, তখন তিনি বললেন, আমি মু’মিনদের জন্য তাদের নিজের চেয়েও অধিক নিকটবর্তী। তাই কোন মু’মিন ঋণ রেখে মারা গেলে সে ঋণ পরিশোধ করার দায়িত্ব আমার। আর যে ব্যক্তি সম্পদ রেখে যায়, সে সম্পদ তার উত্তরাধিকারীদের জন্য। (২৩৯৮, ২৩৯৯, ৪৭৮১, ৫৩৭১, ৬৭৩১, ৬৭৪৫, ৬৭৬৩, মুসলিম ২৩/৪, হাঃ ১৬১৯, আহমাদ ৯৮৫৫) (আধুনিক প্রকাশনীঃ ২১৩৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2298</td></tr><tr><td>Arabic No</td><td>2298</td></tr><tr><td>Reference</td><td>Book 39 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: கடன்பட்ட நிலையில் இறந்த ஒருவர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் (இறுதித் தொழுகைக்காகக்) கொண்டுவரப் படுவார்; அப்போது ‘‘இவர் தம்மீதுள்ள கடனை அடைக்க ஏதேனும் விட்டுச் சென்றிருக்கிறாரா?” என்று கேட்பார்கள். ‘‘கடனை அடைப்பதற்குப் போதுமானதை விட்டுச்சென்றிருக்கிறார்” என்று கூறப் பட்டால் (அவருக்காகத்) தொழுகை நடத்து வார்கள். இல்லையென்றால், ‘‘உங்கள் தோழருக்கு நீங்களே தொழுதுகொள்ளுங்கள்” என்று முஸ்லிம்களிடம் கூறிவிடுவார்கள். அவர்களுக்கு அல்லாஹ் பல வெற்றிகளை அளித்தபோது (அதன் மூலம் அரசு நிதி குவிந்ததால்), ‘‘இறைநம்பிக்கையாளர்களுக்கு, அவர்களைவிட நானே நெருக்கமான (உரிமை உடைய)வன் ஆவேன். எனவே, இறைநம்பிக்கையாளர்களில் யார் கடனை (அடைக்காமல்) விட்டுச்செல்கிறாரோ அதை அடைப்பது என் பொறுப்பாகும்; யார் செல்வத்தை விட்டுச்செல்கிறாரோ அது அவர்களின் வாரிசுகளுக்கு உரியதாகும்!” என்று கூறினார்கள். அத்தியாயம் : 39
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: கடன்பட்ட நிலையில் இறந்த ஒருவர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் (இறுதித் தொழுகைக்காகக்) கொண்டுவரப் படுவார்; அப்போது ‘‘இவர் தம்மீதுள்ள கடனை அடைக்க ஏதேனும் விட்டுச் சென்றிருக்கிறாரா?” என்று கேட்பார்கள். ‘‘கடனை அடைப்பதற்குப் போதுமானதை விட்டுச்சென்றிருக்கிறார்” என்று கூறப் பட்டால் (அவருக்காகத்) தொழுகை நடத்து வார்கள். இல்லையென்றால், ‘‘உங்கள் தோழருக்கு நீங்களே தொழுதுகொள்ளுங்கள்” என்று முஸ்லிம்களிடம் கூறிவிடுவார்கள். அவர்களுக்கு அல்லாஹ் பல வெற்றிகளை அளித்தபோது (அதன் மூலம் அரசு நிதி குவிந்ததால்), ‘‘இறைநம்பிக்கையாளர்களுக்கு, அவர்களைவிட நானே நெருக்கமான (உரிமை உடைய)வன் ஆவேன். எனவே, இறைநம்பிக்கையாளர்களில் யார் கடனை (அடைக்காமல்) விட்டுச்செல்கிறாரோ அதை அடைப்பது என் பொறுப்பாகும்; யார் செல்வத்தை விட்டுச்செல்கிறாரோ அது அவர்களின் வாரிசுகளுக்கு உரியதாகும்!” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2298</td></tr><tr><td>Arabic No</td><td>2298</td></tr><tr><td>Reference</td><td>Book 39 Hadith 9</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle anlatır: Resuılullah Sallallahu Aleyhi ve Sellem'e borcu bulunan bir cenaze getirildiği zaman "Borcu için (techiz masraflarını) aşan bir mal bıraktı mı?" diye sorardı. Eğer borcunu karşılayacak kadar mal bıraktığı söylenirse onun cenaze namazını kılardı. Aksi halde, müminlere, "Arkadaşınızın namazını kılın" buyururdu. Fetihler artıp (mallar çoğalınca), "Ben, mu'minlere kendi nefislerinden daha yakınım. Bir müslüman borçlu olarak ölürse borcunu ödemek bana aittir. Mal bıraktığı zaman ise malı mirasçılarınındır" buyurmuştur. Tekra: 2398, 2399, 5371, 6731, 6745, 6763
+Ebu Hureyre r.a. şöyle anlatır: Resuılullah Sallallahu Aleyhi ve Sellem'e borcu bulunan bir cenaze getirildiği zaman "Borcu için (techiz masraflarını) aşan bir mal bıraktı mı?" diye sorardı. Eğer borcunu karşılayacak kadar mal bıraktığı söylenirse onun cenaze namazını kılardı. Aksi halde, müminlere, "Arkadaşınızın namazını kılın" buyururdu. Fetihler artıp (mallar çoğalınca), "Ben, mu'minlere kendi nefislerinden daha yakınım. Bir müslüman borçlu olarak ölürse borcunu ödemek bana aittir. Mal bıraktığı zaman ise malı mirasçılarınındır" buyurmuştur. Tekra: 2398
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2298</td></tr><tr><td>Arabic No</td><td>2298</td></tr><tr><td>Reference</td><td>Book 39 Hadith 9</td></tr></tbody></table></div>
 

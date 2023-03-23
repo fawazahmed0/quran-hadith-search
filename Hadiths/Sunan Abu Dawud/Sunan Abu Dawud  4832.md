@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন আওন (রহঃ) ..... আবূ সাঈদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মু'মিন ব্যক্তি ছাড়া আর কারো সাথী হবে না। আর মুত্তাকী ব্যতীত অন্য কেউ যেন তোমার খাবার না খায়।
+। আবূ সাঈদ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তুমি মু‘মিন ব্যক্তি ব্যতীত অন্য কারো সঙ্গী হবে না এবং তোমার খাদ্য যেন পরহেযগার লোকে খায়।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4832</td></tr><tr><td>Arabic No</td><td>4832</td></tr><tr><td>Reference</td><td>Book 43 Hadith 60</td></tr></tbody></table></div>
 

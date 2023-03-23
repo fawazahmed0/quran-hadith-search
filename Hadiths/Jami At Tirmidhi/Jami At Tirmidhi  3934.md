@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৯৩৪। যাইদ ইবনু সাবিত (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইয়ামান দেশের দিকে তাকিয়ে বললেনঃ “হে আল্লাহ! তাদের মন (আমাদের দিকে) ফিরিয়ে দিন এবং আমাদের সা ও মুদ-এ বারাকাত দান করুন”। হাসান সহীহঃ মিশকাত ৬২৭২, তাহকীক সানী, ইরওয়া (৪/১৭৬)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ এবং যাইদ ইবনু সাবিত (রাযিঃ)-এর বর্ণনার পরিপ্রেক্ষিতে গারীব। আমরা শুধুমাত্র ইমরান আল-কাত্তানের সনদেই হাদীসটি জানতে পেরেছি।
+। যাইদ ইবনু সাবিত (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইয়ামান দেশের দিকে তাকিয়ে বললেনঃ “হে আল্লাহ! তাদের মন (আমাদের দিকে) ফিরিয়ে দিন এবং আমাদের সা ও মুদ-এ বারাকাত দান করুন”। হাসান সহীহঃ মিশকাত, তাহকীক সানী (৬২৬৩), ইরওয়া (৪/১৭৬)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ এবং যাইদ ইবনু সাবিত (রাযিঃ)-এর বর্ণনার পরিপ্রেক্ষিতে গারীব। আমরা শুধুমাত্র ইমরান আল-কাত্তানের সনদেই হাদীসটি জানতে পেরেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3934</td></tr><tr><td>Arabic No</td><td>3934</td></tr><tr><td>Reference</td><td>Book 49 Hadith 334</td></tr></tbody></table></div>
 

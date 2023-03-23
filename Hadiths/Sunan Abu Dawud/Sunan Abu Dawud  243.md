@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবনু আলী ..... আয়িশা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম যখন অপবিত্রতার গোসল করবার ইচ্ছা করতেন, প্রথমে তিনি উভয় হাতের কব্জি পর্যন্ত ধৌত করতেন, অতঃপর শরীরের সংযোগ স্থানসমূহ পানি দিয়ে ধৌত করতেন, অতঃপর উভয় হাত পবিত্র হওয়ার পর দেওয়ালের দিকে বিস্তৃত করতেন, অতঃপর উযূ (ওজু/অজু/অযু) করতেন এবং মাথায় পানি ঢালতেন। (বুখারী, মুসলিম, তিরমিযী, ইবনু মাজাহ)।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানাবাতের গোসল করার ইচ্ছা করলে প্রথমে উভয় হাত কব্জি পর্যন্ত ধুতেন, তারপর (শরীরের) জোড়াসমূহ পানি দিয়ে ধুতেন। যখন উভয় হাত পরিষ্কার হয়ে যেত তখন (ঘষার জন্য) দেয়ালের দিকে হাত বাড়িয়ে দিতেন। তারপর অযু শুরু করতেন এবং মাথায় পানি ঢালতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
 

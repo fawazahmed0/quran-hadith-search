@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 শু‘আয়ব (রহ.) বলেন, আমাকে নাফি‘ (রহ.) ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণনা করে শুনিয়েছেন যে, জামা‘আতের সালাতে একাকী সালাত হতে সাতাশ গুণ অধিক সওয়াব হয়। (৬৪৫; মুসলিম ৫/৪২, হাঃ ৬৫০, আহমাদ ৫৯২৮) (আধুনিক প্রকাশনীঃ ৬১২ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৬১৯ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>649</td></tr><tr><td>Reference</td><td>Book 10 Hadith 46</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated 'Abdullah bin 'Umar:The reward of the congregational prayer is twenty s
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அ(வ்வாறு தனியாகத் தொழுவ)தை விட (கூட்டாகத் தொழுவது,) இருபத்தேழு மடங்கு அதிகச் சிறப்புடையதாகும் (என நபி (ஸல்) அவர்கள் கூறினார்கள்). அத்தியாயம் : 10
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அ(வ்வாறு தனியாகத் தொழுவ)தை விட (கூட்டாகத் தொழுவது,) இருபத்தேழு மடங்கு அதிகச் சிறப்புடையதாகும் (என நபி (ஸல்) அவர்கள் கூறினார்கள்). அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>649</td></tr><tr><td>Reference</td><td>Book 10 Hadith 46</td></tr></tbody></table></div>
 

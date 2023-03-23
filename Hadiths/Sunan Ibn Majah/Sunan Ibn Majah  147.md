@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১৪৭। হানী ইবনু হানী (রহঃ) থেকে বর্ণিত। তিনি বলেন, আম্মার আলী -এর নিকট প্রবেশ করে তিনি বলেন, এই পাক-পবিত্র ব্যাক্তিকে স্বাগতম। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছিঃ আম্মার এমন একটি পাত্র যার গলা পর্যন্ত ঈমানে ভরপুর।
+। হানী ইবনু হানী (রহঃ) থেকে বর্ণিত। তিনি বলেন, আম্মার আলী -এর নিকট প্রবেশ করে তিনি বলেন, এই পাক-পবিত্র ব্যাক্তিকে স্বাগতম। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছিঃ আম্মার এমন একটি পাত্র যার গলা পর্যন্ত ঈমানে ভরপুর।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>147</td></tr><tr><td>Arabic No</td><td>147</td></tr><tr><td>Reference</td><td>Book 0 Hadith 147</td></tr></tbody></table></div>
 

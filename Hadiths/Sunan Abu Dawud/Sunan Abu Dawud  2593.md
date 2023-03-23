@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উকবা ইবন মুকাররিম ..... সিমাক (রহঃ) তাঁর বংশের একজন হতে এবং তিনি অপর একব্যক্তি হতে বর্ণনা করেন। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পতাকা হলুদ রং এর দেখতে পেয়েছি।
+। সিমাক (রাঃ) থেকে তার সম্প্রদায়ের এক ব্যক্তি থেকে এবং তিনি আরেক ব্যক্তির সূত্রে বর্ণনা করেন যে, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পতাকা দেখেছি। তা ছিলো হলুদ রঙের।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2593</td></tr><tr><td>Arabic No</td><td>2593</td></tr><tr><td>Reference</td><td>Book 15 Hadith 117</td></tr></tbody></table></div>
 

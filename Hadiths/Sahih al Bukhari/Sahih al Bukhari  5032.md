@@ -41,13 +41,13 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, এটা খুবই খারাপ কথা যে, তোমাদের মধ্যে কেউ বলবে, আমি কুরআনের অমুক অমুক আয়াত ভুলে গেছি; বরং তাকে ভুলিয়ে দেয়া হয়েছে। সুতরাং, তোমরা কুরআন তিলাওয়াত করতে থাক কেননা, তা মানুষের অন্তর থেকে উটের চেয়েও দ্রুত গতিতে চলে যায়। [৫০৩৯; মুসলিম ৬/৩৩, হাঃ ৭৯০, আহমাদ ৩৬২০] (আধুনিক প্রকাশনীঃ ৪৬৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5032</td></tr><tr><td>Arabic No</td><td>5032</td></tr><tr><td>Reference</td><td>Book 66 Hadith 54</td></tr></tbody></table></div>
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5032.2</td></tr><tr><td>Arabic No</td><td>5032.2</td></tr><tr><td>Reference</td><td>Book 66 Hadith 55</td></tr></tbody></table></div>
@@ -62,7 +62,7 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "It is a bad thing that some of you s
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah:I heard the Prophet (ﷺ) saying... (as above, no. 550)
+Narrated 'Abdullah:I heard the Prophet (ﷺ) saying... (as above, no)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5032.2</td></tr><tr><td>Arabic No</td><td>5032.2</td></tr><tr><td>Reference</td><td>Book 66 Hadith 55</td></tr></tbody></table></div>
 
@@ -84,7 +84,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ‘‘இன்ன இன்ன குர்ஆன் வசனங்களை நான் மறந்துவிட்டேன்” என்று ஒருவர் கூறுவதுதான் அவரின் வார்த்தைகளிலேயே மிகவும் மோசமான வார்த்தையாகும். வேண்டுமானால், ‘மறக்க வைக்கப்பட்டுவிட்டது’ என்று அவர் கூறட்டும்! குர்ஆனைத் தொடர்ந்து (ஓதி) நினைவுபடுத்திவாருங்கள். ஏனெனில், ஒட்டகங்களைவிடவும் வேகமாக மனிதர் களின் நெஞ்சங்களிலிருந்து குர்ஆன் தப்பக்கூடியதாகும். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 66
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ‘‘இன்ன இன்ன குர்ஆன் வசனங்களை நான் மறந்துவிட்டேன்” என்று ஒருவர் கூறுவதுதான் அவரின் வார்த்தைகளிலேயே மிகவும் மோசமான வார்த்தையாகும். வேண்டுமானால், ‘மறக்க வைக்கப்பட்டுவிட்டது’ என்று அவர் கூறட்டும்! குர்ஆனைத் தொடர்ந்து (ஓதி) நினைவுபடுத்திவாருங்கள். ஏனெனில், ஒட்டகங்களைவிடவும் வேகமாக மனிதர் களின் நெஞ்சங்களிலிருந்து குர்ஆன் தப்பக்கூடியதாகும். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5032</td></tr><tr><td>Arabic No</td><td>5032</td></tr><tr><td>Reference</td><td>Book 66 Hadith 54</td></tr></tbody></table></div>
 
@@ -104,7 +104,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah (ibn-i Mes'ud)'dan rivayet edildiğine göre, o Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu demiştir: "Sizden birinin şu şu ayeti unuttum demesi ne kadar da kötü! Bilakis o, unutturulmuştur. Kur'an'ı hatırlamaya çalışın! Çünkü Kur'an, insanların hafızalarından, develerin otlakta dağılmasından daha çabuk dağılır. " Hadisin geçtiği diğer yer: 5039
+Abdullah (ibn-i Mes'ud)'dan rivayet edildiğine göre, o Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu demiştir: "Sizden birinin şu şu ayeti unuttum demesi ne kadar da kötü! Bilakis o, unutturulmuştur. Kur'an'ı hatırlamaya çalışın! Çünkü Kur'an, insanların hafızalarından, develerin otlakta dağılmasından daha çabuk dağılır. " Hadisin geçtiği diğer yer:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5032.2</td></tr><tr><td>Arabic No</td><td>5032.2</td></tr><tr><td>Reference</td><td>Book 66 Hadith 55</td></tr></tbody></table></div>
 

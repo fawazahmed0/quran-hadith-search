@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহ.) বলেন, তিনি (ইবনু ‘উমার (রাযি.) তাঁকে আরো বলতেন, আমি আমার সাথীদেরকে যেমন করতে দেখেছি তেমন করব। আর কাউকে আমি দিন রাতের কোন সময়ই সালাত আদায় করতে বাধা দিইনা, তবে তাঁরা যেন সূর্যোদয় ও সূর্যাস্তের সময় (সালাতের) ইচ্ছা না করে। (৫৮২; মুসলিম ১৫/৯৭, হাঃ ১৩৯৯, আহমাদ ৪৪৮৫) (আধুনিক প্রকাশনীঃ ১১১৪ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ১১১৮ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1191</td></tr><tr><td>Arabic No</td><td>1191</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

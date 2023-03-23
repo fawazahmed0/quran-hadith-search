@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা দু’টি কবরের পাশ দিয়ে অতিক্রম করছিলেন। এ সময় তিনি বললেনঃ এদের ‘আযাব দেয়া হচ্ছে, কোন গুরুতর অপরাধের জন্য তাদের শাস্তি দেয়া হচ্ছে না। তাদের একজন পেশাব হতে সতর্ক থাকত না। আর অপরজন চোগলখোরী করে বেড়াত। তারপর তিনি একখানি কাঁচা খেজুরের ডাল নিয়ে ভেঙ্গে দু’ভাগ করলেন এবং প্রত্যেক কবরের উপর একখানি গেড়ে দিলেন। সাহাবীগণ জিজ্ঞেস করলেন, হে আল্লাহর রাসূল! কেন এমন করলেন? তিনি বললেনঃ আশা করা যেতে পারে যতক্ষণ পর্যন্ত এ দু’টি শুকিয়ে না যায় তাদের আযাব কিছুটা হালকা করা হবে। ইবনুল মুসান্না (রহ.) আ‘মাশ (রহ.) বলেনঃ আমি মুজাহিদ (রহ.) হতে অনুরূপ শুনেছি। সে তার পেশাব হতে সতর্ক থাকত। (২১৬) (আধুনিক প্রকাশনীঃ ২১২, ইসলামিক ফাউন্ডেশনঃ ২১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা দু’টি কবরের পাশ দিয়ে অতিক্রম করছিলেন। এ সময় তিনি বললেনঃ এদের ‘আযাব দেয়া হচ্ছে, কোন গুরুতর অপরাধের জন্য তাদের শাস্তি দেয়া হচ্ছে না। তাদের একজন পেশাব হতে সতর্ক থাকত না। আর অপরজন চোগলখোরী করে বেড়াত। তারপর তিনি একখানি কাঁচা খেজুরের ডাল নিয়ে ভেঙ্গে দু’ভাগ করলেন এবং প্রত্যেক কবরের উপর একখানি গেড়ে দিলেন। সাহাবীগণ জিজ্ঞেস করলেন, হে আল্লাহর রাসূল! কেন এমন করলেন? তিনি বললেনঃ আশা করা যেতে পারে যতক্ষণ পর্যন্ত এ দু’টি শুকিয়ে না যায় তাদের আযাব কিছুটা হালকা করা হবে। ইবনুল মুসান্না (রহ.) আ‘মাশ (রহ.) বলেনঃ আমি মুজাহিদ (রহ.) হতে অনুরূপ শুনেছি। সে তার পেশাব হতে সতর্ক থাকত। (২১৬) (আধুনিক প্রকাশনীঃ ২১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 4 Hadith 84</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:The Prophet (ﷺ) once passed by two graves and said, "These two persons are being tortured not for a major sin (to avoid). One of them never saved himself from being soiled with his urine, while the other used to go about with calumnies (to make enmity between friends)." The Prophet (ﷺ) then took a green leaf of a date-palm tree, split it into (pieces) and fixed one on each grave. They said, "O Allah's Apostle! Why have you done so?" He replied, "I hope that their punishment might be lessened till these (the pieces of the leaf) become dry." (See the footnote of Hadith 215)
+Narrated Ibn 'Abbas:The Prophet (ﷺ) once passed by two graves and said, "These two persons are being tortured not for a major sin (to avoid). One of them never saved himself from being soiled with his urine, while the other used to go about with calumnies (to make enmity between friends)." The Prophet (ﷺ) then took a green leaf of a date-palm tree, split it into (pieces) and fixed one on each grave. They said, "O Allah's Apostle! Why have you done so?" He replied, "I hope that their punishment might be lessened till these (the pieces of the leaf) become dry." (See the footnote of Hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 4 Hadith 84</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, [Muhammad bin
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரு மண்ணறை களைக் கடந்து சென்றார்கள். அப்போது “இவர்கள் இருவரும் வேதனை செய்யப் படுகிறார்கள். ஒரு பெரும் (பாவச்) செயலுக்காக இவர்கள் இருவரும் வேதனை செய்யப்படவில்லை; இவ்விரு வரில் ஒருவரோ, சிறுநீரிலிருந்து (தம் உடலையும் உடையையும்) மறை(த்துக் கா)க்காமலிருந்தார்; மற்றவரோ, கோள் சொல்லித் திரிந்துகொண்டிருந்தார்” என்று கூறினார்கள். பிறகு ஒரு பச்சை பேரீச்ச மட்டையை எடுத்து, அதை இரண்டாகப் பிளந்து, ஒவ்வொரு மண்ணறையின் மீதும் ஒன்றை ஊன்றினார்கள். (அது பற்றி) மக்கள், “ஏன் இவ்வாறு செய்தீர்கள், அல்லாஹ்வின் தூதரே?” என்று கேட்டார்கள். “இவ்விரு மட்டைகளும் காயாத வரை இவ்விருவரின் வேதனை குறைக்கப்படலாம்” என்று நபி (ஸல்) அவர்கள் பதிலளித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் ஒன்றில், அஃமஷ் (ரஹ்) அவர்கள் இந்த ஹதீஸை முஜாஹித் (ரஹ்) அவர்களிட மிருந்து நேரடியாகச் செவியுற்றதாக இடம்பெற்றுள்ளது. அத்தியாயம் : 4
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரு மண்ணறை களைக் கடந்து சென்றார்கள். அப்போது “இவர்கள் இருவரும் வேதனை செய்யப் படுகிறார்கள். ஒரு பெரும் (பாவச்) செயலுக்காக இவர்கள் இருவரும் வேதனை செய்யப்படவில்லை; இவ்விரு வரில் ஒருவரோ, சிறுநீரிலிருந்து (தம் உடலையும் உடையையும்) மறை(த்துக் கா)க்காமலிருந்தார்; மற்றவரோ, கோள் சொல்லித் திரிந்துகொண்டிருந்தார்” என்று கூறினார்கள். பிறகு ஒரு பச்சை பேரீச்ச மட்டையை எடுத்து, அதை இரண்டாகப் பிளந்து, ஒவ்வொரு மண்ணறையின் மீதும் ஒன்றை ஊன்றினார்கள். (அது பற்றி) மக்கள், “ஏன் இவ்வாறு செய்தீர்கள், அல்லாஹ்வின் தூதரே?” என்று கேட்டார்கள். “இவ்விரு மட்டைகளும் காயாத வரை இவ்விருவரின் வேதனை குறைக்கப்படலாம்” என்று நபி (ஸல்) அவர்கள் பதிலளித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் ஒன்றில், அஃமஷ் (ரஹ்) அவர்கள் இந்த ஹதீஸை முஜாஹித் (ரஹ்) அவர்களிட மிருந்து நேரடியாகச் செவியுற்றதாக இடம்பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 4 Hadith 84</td></tr></tbody></table></div>
 

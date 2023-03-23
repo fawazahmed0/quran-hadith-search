@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭১১। আবূ সাহলাহ্ (রাঃ) বলেন, উসমান (রাযিঃ) নিজগৃহে অবরুদ্ধ থাকাকালে বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে একটি ওয়াদা (উপদেশ) দিয়েছেন। সুতরাং আমি তাতে ধৈর্য ধারণ করব। সহীহঃ ইবনু মাজাহ (১১৩)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব। এ হাদীস আমরা শুধুমাত্র ইসমাঈল ইবনু আবূ খালিদের সনদে অবগত হয়েছি।
+। আবূ সাহলাহ্ (রহঃ) বলেন, উসমান (রাযিঃ) নিজগৃহে অবরুদ্ধ থাকাকালে বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে একটি ওয়াদা (উপদেশ) দিয়েছেন। সুতরাং আমি তাতে ধৈর্য ধারণ করব। সহীহঃ ইবনু মাজাহ (১১৩)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব। এ হাদীস আমরা শুধুমাত্র ইসমাঈল ইবনু আবূ খালিদের সনদে অবগত হয়েছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3711</td></tr><tr><td>Arabic No</td><td>3711</td></tr><tr><td>Reference</td><td>Book 49 Hadith 107</td></tr></tbody></table></div>
 

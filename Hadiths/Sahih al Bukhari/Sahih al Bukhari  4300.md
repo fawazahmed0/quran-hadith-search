@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 লায়স [ইবনু সা‘দ (রহ.)] বলেছেন, ইউনুস আমার কাছে ইবনু শিহাব থেকে বর্ণনা করেন যে, তিনি বলেছেন, ‘আবদুল্লাহ ইবনু সালাবাহ ইবনু সু‘আয়র (রাঃ) আমার নিকট বর্ণনা করেছেন, আর মক্কা বিজয়ের বছর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁর মুখমন্ডল মাসহ(মাসেহ) করেছিলেন। [৬৩৫৬] (আধুনিক প্রকাশনীঃ অনুচ্ছেদ, ইসলামিক ফাউন্ডেশনঃ অনুচ্ছেদ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4300</td></tr><tr><td>Arabic No</td><td>4300</td></tr><tr><td>Reference</td><td>Book 64 Hadith 333</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated 'Abdullah bin Tha'laba bin Su'air whose face was rubbed by the Prophet 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் ஸஅலபா பின் ஸுஐர் (ரலி) அவர்கள்-அன்னாரின் முகத்தை நபி (ஸல்) அவர்கள் மக்கா வெற்றி ஆண்டில் (அன்போடு தடவிக் கொடுத்திருந்தார்கள் - எனக்குத் தெரிவித்தார்கள்...337 அத்தியாயம் : 64)
+இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் ஸஅலபா பின் ஸுஐர் (ரலி) அவர்கள்-அன்னாரின் முகத்தை நபி (ஸல்) அவர்கள் மக்கா வெற்றி ஆண்டில் (அன்போடு தடவிக் கொடுத்திருந்தார்கள் - எனக்குத் தெரிவித்தார்கள்...337 அத்தியாயம் :)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4300</td></tr><tr><td>Arabic No</td><td>4300</td></tr><tr><td>Reference</td><td>Book 64 Hadith 333</td></tr></tbody></table></div>
 

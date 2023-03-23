@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার উম্মাতের মাঝে আবূ বাকর (রাযিঃ) হলেন আমার উম্মাতের প্রতি সর্বাধিক দয়ালু, তাদের মধ্যে আল্লাহর বিধান প্রয়োগে সর্বাধিক কঠোর হলেন উমার, তাদের মাঝে সর্বাধিক লজ্জাশীল হলেন উসমান, তাদের মাঝে সর্বাধিক উত্তম কুরআন পাঠকারী হলেন উবাই ইবনু কাব, তাদের মাঝে ফারাইয সম্পর্কে সর্বাধিক জ্ঞাত হলেন যাইদ ইবনু সাবিত এবং তাদের মাঝে হালাল-হারাম সম্পর্কে সর্বাধিক জ্ঞাত হলেন মুআয ইবনু জাবাল, সাবধান প্রত্যেক উন্মাতের মাঝেই একজন সর্বাধিক বিশ্বস্ত লোক আছে। আমার উম্মাতের মাঝে সর্বাধিক বিশ্বস্ত লোক হলেন আবূ উবাইদাহ ইবনুল জাররাহ্। সহীহঃ ইবনু মাজাহ (হাঃ ১৫৪)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3791</td></tr><tr><td>Arabic No</td><td>3791</td></tr><tr><td>Reference</td><td>Book 49 Hadith 190</td></tr></tbody></table></div>
 

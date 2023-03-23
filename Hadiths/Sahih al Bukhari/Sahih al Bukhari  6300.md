@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ঈদ ইবনু যুবায়র (রহ.) হতে বর্ণিত। তিনি বলেন, ইবনু ‘আব্বাস (রাঃ)-কে জিজ্ঞেস করা হলো যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ওফাতের সময় আপনি বয়সে কার মত ছিলেন? তিনি বললেনঃ আমি তখন খাত্নাকৃত ছিলাম।[৬৩০০] (আধুনিক প্রকাশনী- ৫৮৫৬, ইসলামিক ফাউন্ডেশন- ৫৭৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘ঈদ ইবনু যুবায়র (রহ.) হতে বর্ণিত। তিনি বলেন, ইবনু ‘আব্বাস (রাঃ)-কে জিজ্ঞেস করা হলো যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ওফাতের সময় আপনি বয়সে কার মত ছিলেন? তিনি বললেনঃ আমি তখন খাত্নাকৃত ছিলাম।[৬৩০০] (আধুনিক প্রকাশনী- ৫৮৫৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6300</td></tr><tr><td>Arabic No</td><td>6300</td></tr><tr><td>Reference</td><td>Book 79 Hadith 72</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Sa'id ibn Jubair said, "Ibn 'Abbas said, 'When the Prophet (ﷺ) died, I had alr
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் விருத்தசேதனம் செய்தவனாக இருந்தபோது நபி (ஸல்) அவர்களின் உயிர் கைப்பற்றப்பட்டது. அத்தியாயம் : 79
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் விருத்தசேதனம் செய்தவனாக இருந்தபோது நபி (ஸல்) அவர்களின் உயிர் கைப்பற்றப்பட்டது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6300</td></tr><tr><td>Arabic No</td><td>6300</td></tr><tr><td>Reference</td><td>Book 79 Hadith 72</td></tr></tbody></table></div>
 

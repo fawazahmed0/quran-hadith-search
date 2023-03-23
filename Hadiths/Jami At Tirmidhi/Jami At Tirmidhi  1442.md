@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৪৪২। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তির উপর দু'টি জুতা দিয়ে চল্লিশ ঘা হাদ্দ কায়িম করেন। সনদ দূর্বল মিসআর বলেন, আমার মনে হয় এটা মাদক সেবনের ঘটনা ছিল। সায়িব, ইবনু আব্বাস ও উকবা ইবনুল হারিস (রাঃ) হতেও হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, আবূ সাঈদ (রাঃ) বর্ণিত হাদীসটি হাসান। আবূ সিদ্দিকের নাম বাকর, পিতা আমর, মতাতন্তরে পিতার নাম কাইস।
+। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তির উপর দু'টি জুতা দিয়ে চল্লিশ ঘা হাদ্দ কায়িম করেন। সনদ দূর্বল মিসআর বলেন, আমার মনে হয় এটা মাদক সেবনের ঘটনা ছিল। সায়িব, ইবনু আব্বাস ও উকবা ইবনুল হারিস (রাঃ) হতেও হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, আবূ সাঈদ (রাঃ) বর্ণিত হাদীসটি হাসান। আবূ সিদ্দিকের নাম বাকর, পিতা আমর, মতাতন্তরে পিতার নাম কাইস।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1442</td></tr><tr><td>Arabic No</td><td>1442</td></tr><tr><td>Reference</td><td>Book 17 Hadith 25</td></tr></tbody></table></div>
 

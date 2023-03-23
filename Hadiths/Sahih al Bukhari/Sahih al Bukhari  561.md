@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, সূর্য পর্দার আড়ালে ঢাকা পড়ে যাওয়ার সাথে সাথেই আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে মাগরিবের সালাত আদায় করতাম। (আধুনিক প্রকাশনীঃ ৫২৮, ইসলামিক ফাউন্ডেশনঃ ৫৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, সূর্য পর্দার আড়ালে ঢাকা পড়ে যাওয়ার সাথে সাথেই আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে মাগরিবের সালাত আদায় করতাম। (আধুনিক প্রকাশনীঃ ৫২৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>561</td></tr><tr><td>Arabic No</td><td>561</td></tr><tr><td>Reference</td><td>Book 9 Hadith 38</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Makki bin Ibrahim] berkata, telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சலமா பின் அல்அக்வஉ (ரலி) அவர்கள் கூறியதாவது: சூரியன் அடிவானில் மறைந்ததும் நாங்கள் நபி (ஸல்) அவர்களுடன் மஃக்ரிப் தொழுகையைத் தொழுபவர்களாக இருந்தோம். அத்தியாயம் : 9
+சலமா பின் அல்அக்வஉ (ரலி) அவர்கள் கூறியதாவது: சூரியன் அடிவானில் மறைந்ததும் நாங்கள் நபி (ஸல்) அவர்களுடன் மஃக்ரிப் தொழுகையைத் தொழுபவர்களாக இருந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>561</td></tr><tr><td>Arabic No</td><td>561</td></tr><tr><td>Reference</td><td>Book 9 Hadith 38</td></tr></tbody></table></div>
 

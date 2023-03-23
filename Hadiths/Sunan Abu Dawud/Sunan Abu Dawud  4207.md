@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইব্‌ন আলা (রহঃ) .... আবূ রিমছা (রাঃ) এ হাদিছে বর্ণনা করেন যে, আমার পিতা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলেনঃ আমি একজন ডাক্তার, আপনার পিঠে কি হয়েছে তা আমাকে দেখান। তখন তিনি বলেনঃ ডাক্তার তো আল্লাহ-ই। তুমি বরং রোগীর একজন বন্ধু। (তিনি আরো বলেনঃ) আসল ডাক্তার তো তিনিই, যিনি একে সৃষ্টি করেছেন।
+। আবূ রিমসাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, অতঃপর আমার পিতা তাঁকে বলেন, আপনার পিঠের এ জিনিসটি (নাবূওয়াতের মোহর) আমাকে দেখান, কারণ আমি একজন চিকিৎসক। তিনি বললেনঃ আল্লাহ হলেন চিকিৎসক, আর তুমি একজন বন্ধু। তিনিই এর চিকিৎসক যিনি একে সৃষ্টি করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4207</td></tr><tr><td>Arabic No</td><td>4207</td></tr><tr><td>Reference</td><td>Book 35 Hadith 49</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ওয়াসিল ইবন আবদুল আ'লা (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিমের জন্য প্রত্যেক কষ্টদায়ক বস্তু অন্য মুসলিমের জন্য হারাম, অর্থাৎ তার মাল তার ইযযাত ও তার রক্ত এবং কোন ব্যক্তির জন্য এ অন্যায়টুকু যথেষ্ট যে, সে তার মুসলিম ভাইকে নগন্য বলে মনে করে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একজন মুসলিমের জন্য অন্য মুসলিমের সম্পদ, সম্মান ও জীবনে হস্তক্ষেপ করা হারাম। কোনো ব্যক্তির নিকৃষ্ট প্রমাণিত হওয়ার জন্য এটুকুই যথেষ্ট যে, সে তার মুসলিম ভাইকে তুচ্ছ মনে করে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4882</td></tr><tr><td>Arabic No</td><td>4882</td></tr><tr><td>Reference</td><td>Book 43 Hadith 110</td></tr></tbody></table></div>
 

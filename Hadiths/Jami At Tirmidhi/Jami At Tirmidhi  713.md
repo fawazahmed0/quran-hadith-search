@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭১৩। আবু সাঈদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে আমরা সফরে যেতাম। আমাদের মধ্যে রোযাদার এবং রোযা ভঙ্গকারী উভয়েই থাকতেন। রোযাদারের বিরুদ্ধে রোযা ভঙ্গকারী এবং রোযা ভঙ্গকারীর বিরুদ্ধে রোযাদার কোনরকম অভিযোগ করেননি। তারা মনে করতেন, শক্তিশালী লোক রোযা পালন করলে তা ভালই করেছে এবং দুর্বল লোক রোযা পালন না করলে তাও ভাল করেছে — সহীহ, মুসলিম আবু ঈসা এই হাদীসটিকে হাসান সহীহ বলেছেন।
+। আবু সাঈদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে আমরা সফরে যেতাম। আমাদের মধ্যে রোযাদার এবং রোযা ভঙ্গকারী উভয়েই থাকতেন। রোযাদারের বিরুদ্ধে রোযা ভঙ্গকারী এবং রোযা ভঙ্গকারীর বিরুদ্ধে রোযাদার কোনরকম অভিযোগ করেননি। তারা মনে করতেন, শক্তিশালী লোক রোযা পালন করলে তা ভালই করেছে এবং দুর্বল লোক রোযা পালন না করলে তাও ভাল করেছে — সহীহ, মুসলিম আবু ঈসা এই হাদীসটিকে হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>713</td></tr><tr><td>Arabic No</td><td>713</td></tr><tr><td>Reference</td><td>Book 8 Hadith 32</td></tr></tbody></table></div>
 

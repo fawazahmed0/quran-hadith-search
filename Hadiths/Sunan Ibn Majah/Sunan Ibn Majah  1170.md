@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/১১৭০। আবদুল্লাহ ইবনু মাসঊদ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ বেজোড়, তিনি বেজোড় ভালোবাসেন। হে কুরআনের বাহকগণ! তোমরা বিতর সালাত (নামায/নামাজ) পড়ো। এক বেদুঈন বললো, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি বললেন? রাবী বলেন, (তা) তোমার জন্য নয় এবং তোমার সাথীদের জন্যও নয়।
+। আবদুল্লাহ ইবনু মাসঊদ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ বেজোড়, তিনি বেজোড় ভালোবাসেন। হে কুরআনের বাহকগণ! তোমরা বিতর সালাত (নামায/নামাজ) পড়ো। এক বেদুঈন বললো, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি বললেন? রাবী বলেন, (তা) তোমার জন্য নয় এবং তোমার সাথীদের জন্যও নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 5 Hadith 368</td></tr></tbody></table></div>
 

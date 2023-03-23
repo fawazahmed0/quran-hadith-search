@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫৫, আন্তর্জাতিক নাম্বারঃ ২৮৮ ৫৫৫-(১০৫/২৮৮) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... 'আলকামাহ ও আল আসওয়াদ (রহঃ) থেকে বর্ণিত। একদিন জনৈক ব্যক্তি আয়িশাহ (রাযিঃ) এর ঘরে মেহমান হল। আয়িশাহ (রাযিঃ) দেখলেন, ভোরে সে তার কাপড় ধৌত করছে (অর্থাৎ রাত্রে তার স্বপ্ন দোষ হয়েছিল) তা দেখে আয়িশাহ বললেনঃ মূলত তোমার পক্ষে এটুকুই যথেষ্ট হতো যে, তুমি বীর্য দেখে থাকলে কেবলমাত্র সে স্থানটি ধুয়ে নিতে। আর যদি তা না দেখে থাক, তাহলে (মনের সন্দেহ দূর করার জন্যে) জায়গাটিতে পানি ছিটিয়ে নিতে পারতে। কেননা, এমনও হয়েছে আমি নিজে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাপড় থেকে শুকনো বীর্য রগড়িয়ে ফেলেছি, আর তিনি সে কাপড় পরেই সালাত আদায় করেছেন*। (ইসলামিক ফাউন্ডেশনঃ ৫৫৯, ইসলামিক সেন্টারঃ ৫৭৫) * যা লাফিয়ে কুদে বের হয়, তাকে বলে মানী (বীর্য), তাতে গোসল করা ফরয হয়। আর যদি কারও প্রস্রাবের আগে বা পরে কিছু বের হয়, তাতে গোসল করতে হয় না। কতলোক খুব হাস্য রসিক, সামান্য মহিলার স্পর্শ পেলেই তরল কিছু বের হয়, তাতে শুধু লজ্জাস্থান ধুয়ে নিবে ও ওযু করে নিবে। গোসল করতে হবে না।
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... 'আলকামাহ ও আল আসওয়াদ (রহঃ) থেকে বর্ণিত। একদিন জনৈক ব্যক্তি আয়িশাহ (রাযিঃ) এর ঘরে মেহমান হল। আয়িশাহ (রাযিঃ) দেখলেন, ভোরে সে তার কাপড় ধৌত করছে (অর্থাৎ রাত্রে তার স্বপ্ন দোষ হয়েছিল) তা দেখে আয়িশাহ বললেনঃ মূলত তোমার পক্ষে এটুকুই যথেষ্ট হতো যে, তুমি বীর্য দেখে থাকলে কেবলমাত্র সে স্থানটি ধুয়ে নিতে। আর যদি তা না দেখে থাক, তাহলে (মনের সন্দেহ দূর করার জন্যে) জায়গাটিতে পানি ছিটিয়ে নিতে পারতে। কেননা, এমনও হয়েছে আমি নিজে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাপড় থেকে শুকনো বীর্য রগড়িয়ে ফেলেছি, আর তিনি সে কাপড় পরেই সালাত আদায় করেছেন*। (ইসলামিক ফাউন্ডেশনঃ ৫৫৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>668</td></tr><tr><td>Arabic No</td><td>288.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 134</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்கமா (ரஹ்) மற்றும் அஸ்வத் (ரஹ்) ஆகியோர் கூறியதாவது: ஒரு மனிதர் (அன்னை) ஆயிஷா (ரலி) அவர்களிடம் (விருந்தினராகத்) தங்கினார். அவர் காலையில் தமது ஆடையைக் கழுவினார். (இதைக் கண்ட) ஆயிஷா (ரலி) அவர்கள், அது உமது ஆடையில் தென்பட்டால் அந்த இடத்தைக் கழுவினால் போதும். அவ்வாறு அது தென்படாவிட்டால் அந்த இடத்தைச் சுற்றிலும் தண்ணீர் தெளித்துவிடுவீராக! நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் ஆடையில்பட்ட இந்திரியத்தை நன்கு சுரண்டிவிடுவேன். அந்த ஆடையை அணிந்துகொண்டு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுவார்கள் என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 2
+அல்கமா (ரஹ்) மற்றும் அஸ்வத் (ரஹ்) ஆகியோர் கூறியதாவது: ஒரு மனிதர் (அன்னை) ஆயிஷா (ரலி) அவர்களிடம் (விருந்தினராகத்) தங்கினார். அவர் காலையில் தமது ஆடையைக் கழுவினார். (இதைக் கண்ட) ஆயிஷா (ரலி) அவர்கள், அது உமது ஆடையில் தென்பட்டால் அந்த இடத்தைக் கழுவினால் போதும். அவ்வாறு அது தென்படாவிட்டால் அந்த இடத்தைச் சுற்றிலும் தண்ணீர் தெளித்துவிடுவீராக! நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் ஆடையில்பட்ட இந்திரியத்தை நன்கு சுரண்டிவிடுவேன். அந்த ஆடையை அணிந்துகொண்டு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுவார்கள் என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>668</td></tr><tr><td>Arabic No</td><td>288.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 134</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Yahya b. Yahya da rivayet etti. (Dediki): Bize Halid b. Abdillah, Halid'den, o da Ebu Ma'şer'den, o da İbrahim'den, o da Alkame ile Esved'den naklen haber verdiki; Bir adam Aişe (r.anha)'ya misafir olmuş, sabah olunca elbisesini yıkamaya koyulmuş. Aişe (r.anha): Sen onu görürsen yerini yıkaman sana yeterdi. Eğer yerini görmezsen etrafına su serpersin. Ben Resulullah (Sallallahu aleyhi ve Sellem)'in elbisesinden onu ovaladığımı ve sonra da o elbiseyle namaz kıldırdığını görmüşümdür, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 15941
+Bize Yahya b. Yahya da rivayet etti. (Dediki): Bize Halid b. Abdillah, Halid'den, o da Ebu Ma'şer'den, o da İbrahim'den, o da Alkame ile Esved'den naklen haber verdiki; Bir adam Aişe (r.anha)'ya misafir olmuş, sabah olunca elbisesini yıkamaya koyulmuş. Aişe (r.anha): Sen onu görürsen yerini yıkaman sana yeterdi. Eğer yerini görmezsen etrafına su serpersin. Ben Resulullah (Sallallahu aleyhi ve Sellem)'in elbisesinden onu ovaladığımı ve sonra da o elbiseyle namaz kıldırdığını görmüşümdür, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>668</td></tr><tr><td>Arabic No</td><td>288.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 134</td></tr></tbody></table></div>
 

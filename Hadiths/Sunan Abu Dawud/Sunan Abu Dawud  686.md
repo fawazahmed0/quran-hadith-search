@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্-হাসান ইবনু আলী ..... আতা (রহঃ) হতে বর্ণিত। তিনি বলেন, হাওদার পিছনের কাঠ এক হাত বা তার চেয়ে কিছুটা লম্বা হয়ে থাকে।
+। ‘আত্বা (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, হাওদার পশ্চাৎভাগের কাষ্ঠ খন্ড এক হাত বা তার চেয়ে কিছু বেশি (লম্বা) হয়ে থাকে।[1] সহীহ মাক্বতূ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>686</td></tr><tr><td>Arabic No</td><td>686</td></tr><tr><td>Reference</td><td>Book 2 Hadith 296</td></tr></tbody></table></div>
 

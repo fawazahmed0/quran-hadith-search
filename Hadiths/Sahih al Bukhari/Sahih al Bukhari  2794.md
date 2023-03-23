@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেন, আল্লাহর রাস্তায় একটি সকাল কিংবা একটি বিকাল অতিবাহিত করা দুনিয়া ও তার ভিতরের সকল কিছু থেকে উত্তম। (২৮৯২, ৩২৫০, ৬৪১৫) (মুসলিম ৩৩/৩০ হাঃ ১৮৮১, আহমাদ ১৫৫৬০) (আধুনিক প্রকাশনীঃ ২৫৮৭, ইসলামিক ফাউন্ডেশনঃ ২৫৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেন, আল্লাহর রাস্তায় একটি সকাল কিংবা একটি বিকাল অতিবাহিত করা দুনিয়া ও তার ভিতরের সকল কিছু থেকে উত্তম। (২৮৯২, ৩২৫০, ৬৪১৫) (মুসলিম ৩৩/৩০ হাঃ ১৮৮১, আহমাদ ১৫৫৬০) (আধুনিক প্রকাশনীঃ ২৫৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2794</td></tr><tr><td>Arabic No</td><td>2794</td></tr><tr><td>Reference</td><td>Book 56 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Qabishah] telah bercerita kepada kami [Sufyan] dari
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: இறைவழியில் காலையிலும் மாலை யிலும் சிறிது நேரம் (போர் புரியச்) செல்வது உலகத்தைவிடவும் அதிலுள்ள பொருட்களைவிடவும் சிறந்ததாகும். இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 56
+நபி (ஸல்) அவர்கள்கூறினார்கள்: இறைவழியில் காலையிலும் மாலை யிலும் சிறிது நேரம் (போர் புரியச்) செல்வது உலகத்தைவிடவும் அதிலுள்ள பொருட்களைவிடவும் சிறந்ததாகும். இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2794</td></tr><tr><td>Arabic No</td><td>2794</td></tr><tr><td>Reference</td><td>Book 56 Hadith 12</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Qabishah] telah bercerita kepada kami [Sufyan] dari
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sehl İbn Sa'd r.a.'dan nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah yolunda sabah veya akşam yola çıkmak dünyadan ve dünyadaki her şeyden daha değerlidir." Tekrar: 2892, 3250, 6415
+Sehl İbn Sa'd r.a.'dan nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah yolunda sabah veya akşam yola çıkmak dünyadan ve dünyadaki her şeyden daha değerlidir." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2794</td></tr><tr><td>Arabic No</td><td>2794</td></tr><tr><td>Reference</td><td>Book 56 Hadith 12</td></tr></tbody></table></div>
 

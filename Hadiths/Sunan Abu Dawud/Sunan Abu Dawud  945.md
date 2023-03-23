@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... আবু যর (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন। তিনি (নবী করীম সা) বলেছেন, যখন তোমাদের কেউ নামাযে রত হয়, তখন তার সম্মুখভাগ হতে রহমত নাযিল হয়। অতএব নামাযী ব্যক্তি যেন সম্মুখ ভাগের পাথর (ইত্যাদি) অপসারণ না করে। (নাসাঈ, ইবনে মাজাহ, তিরমিযী)।
+। আবূ যার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কেউ সালাতে দাঁড়ালে তার সামনে আল্লাহর রহমত থাকে। সুতরাং এ সময় মুসল্লী যেন পাথরকুচি (ইত্যাদি) সরাতে ব্যস্ত না হয়।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>945</td></tr><tr><td>Arabic No</td><td>945</td></tr><tr><td>Reference</td><td>Book 2 Hadith 556</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Zer' (r.a.), Nebi (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir: "Sizden biri namaz'a başladığı zaman küçük çakılları düzeltmesin. Çünkü (bu anda) rahmet kendisine yönelir." Diğer tahric: Nesai, tatbik; sehv; İbn Mace, ikamet; Tirmizi, salat; Ahmed b. Hanbel, V, 250, 163, 179
+Ebû Zer' (r.a.), Nebi (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir: "Sizden biri namaz'a başladığı zaman küçük çakılları düzeltmesin. Çünkü (bu anda) rahmet kendisine yönelir." Diğer tahric: Nesai, tatbik; sehv; İbn Mace, ikamet; Tirmizi, salat; Ahmed b. Hanbel, V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>945</td></tr><tr><td>Arabic No</td><td>945</td></tr><tr><td>Reference</td><td>Book 2 Hadith 556</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা একটি কারুকার্য খচিত চাদর গায়ে দিয়ে সালাত আদায় করলেন। আর সালাতে সে চাদরের কারুকার্যের প্রতি তাঁর দৃষ্টি পড়ল। সালাত শেষে তিনি বললেনঃ এ চাদরখানা আবূ জাহমের নিকট নিয়ে যাও, আর তার কাছ হতে আমবিজানিয়্যাহ (কারুকার্য ছাড়া মোটা চাদর) নিয়ে আস। এটা তো আমাকে সালাত হতে অমনোযোগী করে দিচ্ছিল। হিশাম ইবনু ‘উরওয়াহ (রহ.) তাঁর পিতা হতে এবং তিনি ‘আয়িশাহ (রাযি.) হতে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি সালাত আদায়ের সময় এর কারুকার্যের প্রতি আমার দৃষ্টি পড়ে। তখন আমি আশংকা করছিলাম যে, এটা আমাকে ফিতনায় ফেলে দিতে পারে। (৭৫২, ৫৮১৭; মুসলিম ৫/১৫, হাঃ ৫৫৬, আহমাদ ২৪১৪২) (আধুনিক প্রকাশনীঃ৩৬০, ইসলামিক ফাউন্ডেশনঃ ৩৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা একটি কারুকার্য খচিত চাদর গায়ে দিয়ে সালাত আদায় করলেন। আর সালাতে সে চাদরের কারুকার্যের প্রতি তাঁর দৃষ্টি পড়ল। সালাত শেষে তিনি বললেনঃ এ চাদরখানা আবূ জাহমের নিকট নিয়ে যাও, আর তার কাছ হতে আমবিজানিয়্যাহ (কারুকার্য ছাড়া মোটা চাদর) নিয়ে আস। এটা তো আমাকে সালাত হতে অমনোযোগী করে দিচ্ছিল। হিশাম ইবনু ‘উরওয়াহ (রহ.) তাঁর পিতা হতে এবং তিনি ‘আয়িশাহ (রাযি.) হতে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি সালাত আদায়ের সময় এর কারুকার্যের প্রতি আমার দৃষ্টি পড়ে। তখন আমি আশংকা করছিলাম যে, এটা আমাকে ফিতনায় ফেলে দিতে পারে। (৭৫২, ৫৮১৭; মুসলিম ৫/১৫, হাঃ ৫৫৬, আহমাদ ২৪১৪২) (আধুনিক প্রকাশনীঃ৩৬০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>373</td></tr><tr><td>Arabic No</td><td>373</td></tr><tr><td>Reference</td><td>Book 8 Hadith 25</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வேலைப்பாடு மிக்க (சதுரமான) கறுப்புக் கம்பளி ஆடை ஒன்றை அணிந்துகொண்டு தொழுதார் கள். (தொழுது கொண்டிருக்கும்போது) அதன் வேலைப்பாடுகளை ஒரு முறை கூர்ந்து கவனித்தார்கள். தொழுது முடித்ததும், “எனது இந்தக் கறுப்புக் கம்பளி ஆடையை, (இதை எனக்கு அன்பளித்த) அபூஜஹ்மிடம் கொடுத்துவிட்டு, அபூஜஹ்மிடம் இருக்கும் (வேலைப்பாடுகளற்ற) ‘அன்பிஜான்’ (நகர எளிய) ஆடையை (வாங்கி) என்னிடம் கொண்டுவாருங்கள். இந்த ஆடை சற்று முன்னர் எனது தொழுகையிலிருந்து என் கவனத்தைத் திருப்பிவிட்டது” என்று சொன்னார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் ஒன்றில், “நான் தொழுதுகொண்டிருக்கும்போதே அதன் வேலைப்பாடுகளைக் கூர்ந்து கவனித்துக்கொண்டு இருந்தேன். அது என்னைக் குழப்பிவிடுமோ என நான் அஞ்சினேன்” என்று நபி (ஸல்) அவர்கள் கூறியதாக இடம்பெற்றுள்ளது.17 அத்தியாயம் : 8
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வேலைப்பாடு மிக்க (சதுரமான) கறுப்புக் கம்பளி ஆடை ஒன்றை அணிந்துகொண்டு தொழுதார் கள். (தொழுது கொண்டிருக்கும்போது) அதன் வேலைப்பாடுகளை ஒரு முறை கூர்ந்து கவனித்தார்கள். தொழுது முடித்ததும், “எனது இந்தக் கறுப்புக் கம்பளி ஆடையை, (இதை எனக்கு அன்பளித்த) அபூஜஹ்மிடம் கொடுத்துவிட்டு, அபூஜஹ்மிடம் இருக்கும் (வேலைப்பாடுகளற்ற) ‘அன்பிஜான்’ (நகர எளிய) ஆடையை (வாங்கி) என்னிடம் கொண்டுவாருங்கள். இந்த ஆடை சற்று முன்னர் எனது தொழுகையிலிருந்து என் கவனத்தைத் திருப்பிவிட்டது” என்று சொன்னார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் ஒன்றில், “நான் தொழுதுகொண்டிருக்கும்போதே அதன் வேலைப்பாடுகளைக் கூர்ந்து கவனித்துக்கொண்டு இருந்தேன். அது என்னைக் குழப்பிவிடுமோ என நான் அஞ்சினேன்” என்று நபி (ஸல்) அவர்கள் கூறியதாக இடம்பெற்றுள்ளது.17 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>373</td></tr><tr><td>Arabic No</td><td>373</td></tr><tr><td>Reference</td><td>Book 8 Hadith 25</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'den şöyle nakledilmiştir; "Allah Resulü (Sallallahu aleyhi ve Sellem) üzerinde motif bulunan hamîsa adlı bir elbise ile namaz kılarken bir an gözü, motiflere daldı. Namazını bitirince: Bu elbisemi Ebu Cehm'e götürün, bana da onun enbicâniyesini getirin! Çünkü biraz önce bu elbise, namazda iken beni oyaladı' dedi." Aişe (r.anha)'den Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu nakledilmiştir: "Namazda iken elbisenin nakışlarına bakıyordum. Beni ibadetimden alıkoymasından endişe ettim. Tekrar: 752, 5817
+Aişe (r.anha)'den şöyle nakledilmiştir; "Allah Resulü (Sallallahu aleyhi ve Sellem) üzerinde motif bulunan hamîsa adlı bir elbise ile namaz kılarken bir an gözü, motiflere daldı. Namazını bitirince: Bu elbisemi Ebu Cehm'e götürün, bana da onun enbicâniyesini getirin! Çünkü biraz önce bu elbise, namazda iken beni oyaladı' dedi." Aişe (r.anha)'den Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu nakledilmiştir: "Namazda iken elbisenin nakışlarına bakıyordum. Beni ibadetimden alıkoymasından endişe ettim. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>373</td></tr><tr><td>Arabic No</td><td>373</td></tr><tr><td>Reference</td><td>Book 8 Hadith 25</td></tr></tbody></table></div>
 

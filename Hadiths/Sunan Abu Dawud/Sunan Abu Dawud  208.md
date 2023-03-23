@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবনু ইউনুস .... উরওয়া (রহঃ) হতে বর্ণিত। আলী ইবনু আবূ তালিব (রাঃ) মিকদাদ (রাঃ)-কে বলেন ... অতঃপর পুর্বোক্ত হাদীছের অনুরূপ বর্ণনা দেন। রাবী বলেন, মিকদাদ (রাঃ) তাকে এতদসম্পর্কে জিজ্ঞাসা করলে- রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ ঐ ব্যাক্তির স্বীয় লিংগ ও অন্ডকোষ ধৌত করা উচিত। (নাসাঈ, ইবনু মাজাহ)।
+। ‘উরওয়াহ (রহঃ) সূত্রে বর্ণিত। ‘আলী ইবনু আবূ তালিব (রাঃ) মিক্বদাদ (রাঃ)-কে বললেনঃ অতঃপর পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেন। মিক্বদাদ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে (মযী বের হলে করণীয় সম্পর্কে) জিজ্ঞাসা করলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সে যেন তার পুরুষাঙ্গ ও অন্ডকোষ ধুয়ে নেয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>208</td></tr><tr><td>Arabic No</td><td>208</td></tr><tr><td>Reference</td><td>Book 1 Hadith 208</td></tr></tbody></table></div>
 

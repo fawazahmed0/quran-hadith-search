@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ত্বলহা ইবনু মুসাররিফ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ‘আবদুল্লাহ্ ইবনু আবী আওফা (রাঃ)-এর নিকট জিজ্ঞেস করলাম, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) কি অসীয়াত করেছিলেন? তিনি বলেন, না। আমি বললাম, তাহলে কিভাবে লোকদের উপর অসীয়াত ফরজ করা হলো, কিংবা ওয়াসিয়াতের নির্দেশ দেয়া হলো? তিনি বললেন, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আল্লাহর কিতাব মুতাবিক ‘আমল করার জন্য অসীয়াত করেছেন। (৪৪৬০, ৫০২২) (মুসলিম ২৪/৩ হাঃ ১৬৩৪, আহমাদ ১৪৪৯৯) (আধুনিক প্রকাশনীঃ ২৫৩৮, ইসলামিক ফাউন্ডেশনঃ ২৫৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ত্বলহা ইবনু মুসাররিফ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ‘আবদুল্লাহ্ ইবনু আবী আওফা (রাঃ)-এর নিকট জিজ্ঞেস করলাম, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) কি অসীয়াত করেছিলেন? তিনি বলেন, না। আমি বললাম, তাহলে কিভাবে লোকদের উপর অসীয়াত ফরজ করা হলো, কিংবা ওয়াসিয়াতের নির্দেশ দেয়া হলো? তিনি বললেন, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আল্লাহর কিতাব মুতাবিক ‘আমল করার জন্য অসীয়াত করেছেন। (৪৪৬০, ৫০২২) (মুসলিম ২৪/৩ হাঃ ১৬৩৪, আহমাদ ১৪৪৯৯) (আধুনিক প্রকাশনীঃ ২৫৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2740</td></tr><tr><td>Arabic No</td><td>2740</td></tr><tr><td>Reference</td><td>Book 55 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Khollad bin Yahya] telah bercerita kepada kami [Mal
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-தல்ஹா பின் முஸர்ரிஃப் (ரஹ்) அவர்கள் கூறியதாவது: நான் அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்களிடம், ‘‘நபி (ஸல்) அவர்கள் இறுதி விருப்பம் தெரிவித்தார்களா?” என்று கேட்டேன். அவர்கள், ‘‘இல்லை” என்று பதிலளித்தார்கள். நான், ‘‘அப்படி யென்றால் மக்கள்மீது இறுதி விருப்பம் தெரிவிப்பது எப்படிக் கடமையாக்கப்பட்டது? அல்லது இறுதி விருப்பம் தெரிவிக்க வேண்டுமென்று மக்களுக்கு எப்படிக் கட்டளையிடப்பட்டது?” என்று கேட்டேன். அதற்கு அவர்கள், ‘‘அல்லாஹ்வுடைய வேதத்தின்படி செயல்படுமாறு நபி (ஸல்) அவர்கள் அறிவுறுத்தினார்கள் ‘‘ என்று பதிலளித்தார்கள்.3 அத்தியாயம் : 55
+தல்ஹா பின் முஸர்ரிஃப் (ரஹ்) அவர்கள் கூறியதாவது: நான் அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்களிடம், ‘‘நபி (ஸல்) அவர்கள் இறுதி விருப்பம் தெரிவித்தார்களா?” என்று கேட்டேன். அவர்கள், ‘‘இல்லை” என்று பதிலளித்தார்கள். நான், ‘‘அப்படி யென்றால் மக்கள்மீது இறுதி விருப்பம் தெரிவிப்பது எப்படிக் கடமையாக்கப்பட்டது? அல்லது இறுதி விருப்பம் தெரிவிக்க வேண்டுமென்று மக்களுக்கு எப்படிக் கட்டளையிடப்பட்டது?” என்று கேட்டேன். அதற்கு அவர்கள், ‘‘அல்லாஹ்வுடைய வேதத்தின்படி செயல்படுமாறு நபி (ஸல்) அவர்கள் அறிவுறுத்தினார்கள் ‘‘ என்று பதிலளித்தார்கள்.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2740</td></tr><tr><td>Arabic No</td><td>2740</td></tr><tr><td>Reference</td><td>Book 55 Hadith 3</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Khollad bin Yahya] telah bercerita kepada kami [Mal
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Talha İbn Musarrif'ten nakledilmiştir: Abdullah İbn Ebu Evfa r.a.'a "Allah Resulü Sallallahu aleyhi ve sellem vasiyet etmiş miydi?" diye sordum. "Hayır" dedi. "İnsanların vasiyet etmeleri nasıl farz kılındı?" diye sordum. "Allah'ın Kitabını vasiyet etti" dedi. Tekrar: 4460, 5022
+Talha İbn Musarrif'ten nakledilmiştir: Abdullah İbn Ebu Evfa r.a.'a "Allah Resulü Sallallahu aleyhi ve sellem vasiyet etmiş miydi?" diye sordum. "Hayır" dedi. "İnsanların vasiyet etmeleri nasıl farz kılındı?" diye sordum. "Allah'ın Kitabını vasiyet etti" dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2740</td></tr><tr><td>Arabic No</td><td>2740</td></tr><tr><td>Reference</td><td>Book 55 Hadith 3</td></tr></tbody></table></div>
 

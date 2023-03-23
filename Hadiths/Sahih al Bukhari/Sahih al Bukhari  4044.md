@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, উহূদ যুদ্ধের দিন কতক সাহাবী সকাল বেলা মদ পান করেছিলেন।[1] অতঃপর তাঁরা শাহাদাত লাভ করেন। [২৮১৫] (আধুনিক প্রকাশনীঃ ৩৭৪২, ইসলামিক ফাউন্ডেশনঃ নাই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4044</td></tr><tr><td>Arabic No</td><td>4044</td></tr><tr><td>Reference</td><td>Book 64 Hadith 90</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: (மது விலக்கு அமலுக்கு வரும்முன் நடந்த) உஹுத் போர் அன்று காலையில் சிலர் மது அருந்தினார்கள். பிறகு (அந்தப் போரில்) உயிர்த் தியாகிகளாகக் கொல்லப்பட்டார்கள்.111 அத்தியாயம் : 64
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: (மது விலக்கு அமலுக்கு வரும்முன் நடந்த) உஹுத் போர் அன்று காலையில் சிலர் மது அருந்தினார்கள். பிறகு (அந்தப் போரில்) உயிர்த் தியாகிகளாகக் கொல்லப்பட்டார்கள்.111 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4044</td></tr><tr><td>Arabic No</td><td>4044</td></tr><tr><td>Reference</td><td>Book 64 Hadith 90</td></tr></tbody></table></div>
 

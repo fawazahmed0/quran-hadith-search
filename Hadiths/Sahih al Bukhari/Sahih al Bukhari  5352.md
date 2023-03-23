@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহান আল্লাহ বলেন, তুমি ব্যয় কর, হে আদম সন্তান! আমিও তোমার প্রতি ব্যয় করব। [৩৬৮৪] (আধুনিক প্রকাশনী- ৪৯৫২, ইসলামিক ফাউন্ডেশন- ৪৮৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহান আল্লাহ বলেন, তুমি ব্যয় কর, হে আদম সন্তান! আমিও তোমার প্রতি ব্যয় করব। [৩৬৮৪] (আধুনিক প্রকাশনী- ৪৯৫২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5352</td></tr><tr><td>Arabic No</td><td>5352</td></tr><tr><td>Reference</td><td>Book 69 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] ia berkata; Telah menceritakan kepadaku
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ், ‘‘ஆதமின் மகனே! (மனிதனே! மற்றவர்களுக்காகச்) செலவிடு;உனக்கு நான் செலவிடுவேன்” என்று கூறினான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.4 அத்தியாயம் : 69
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ், ‘‘ஆதமின் மகனே! (மனிதனே! மற்றவர்களுக்காகச்) செலவிடு;உனக்கு நான் செலவிடுவேன்” என்று கூறினான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5352</td></tr><tr><td>Arabic No</td><td>5352</td></tr><tr><td>Reference</td><td>Book 69 Hadith 2</td></tr></tbody></table></div>
 

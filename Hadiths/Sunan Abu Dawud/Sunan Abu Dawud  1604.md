@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইব্‌ন ইস্‌হাক আল-মুসায়্যাবী (রহঃ) ..... ইব্‌ন শিহাব (রহঃ) হতে উপরোক্ত হাদীসের সনদ ও অর্থে হাদীস বর্ণিত হইয়াছে।
+। ইবনু শিহাব (রহঃ) হতে পূর্বোক্ত সানাদে এ হাদীসের ভাবার্থ বর্ণিত হয়েছে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1604</td></tr><tr><td>Arabic No</td><td>1604</td></tr><tr><td>Reference</td><td>Book 9 Hadith 49</td></tr></tbody></table></div>
 

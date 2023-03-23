@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৫১, আন্তর্জাতিক নাম্বারঃ ৩৩৬ ৬৫১-(৭০/৩৩৬) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... উম্মু হানী (রাযিঃ) বিনতু আবূ তালিব (রাযিঃ) হতে বর্ণিত। তিনি বলেন, মক্কা বিজয়ের বছর আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে গেলাম। তখন আমি তাকে এ অবস্থায় পেলাম যে, তিনি গোসল করছিলেন, আর তার কন্যা ফাতিমা একটি কাপড় দিয়ে তাকে আড়াল করে রেখেছিল*। (ইসলামিক ফাউন্ডেশনঃ ৬৫৫, ইসলামিক সেন্টারঃ ৬৭০) * ইমাম নাবাবী (রহঃ) বলেনঃ প্রয়োজনের সময় গুপ্তাঙ্গ খোলা জায়িয, যেমন নির্জনে গোসল করার সময়, প্রস্রাব করার সময়, স্ত্রী সহবাসের সময়। কিন্তু লোক সম্মুখে গুপ্তাঙ্গ খোলা কখনও বৈধ নয়। অন্যান্য উলামায়ে কিরাম বলেন, নির্জনে গোসলের সময়ও লুঙ্গী পরে থাকা মুস্তাহাব। তবে প্রয়োজনে উলঙ্গ হয়ে গোসল করাও বৈধ আছে। (নাবাবী)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... উম্মু হানী (রাযিঃ) বিনতু আবূ তালিব (রাযিঃ) হতে বর্ণিত। তিনি বলেন, মক্কা বিজয়ের বছর আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে গেলাম। তখন আমি তাকে এ অবস্থায় পেলাম যে, তিনি গোসল করছিলেন, আর তার কন্যা ফাতিমা একটি কাপড় দিয়ে তাকে আড়াল করে রেখেছিল*। (ইসলামিক ফাউন্ডেশনঃ ৬৫৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>336.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 86</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு ஹானீ பின்த் அபீதாலிப் (ரலி) அவர்கள் கூறியதாவது: மக்கா வெற்றிகொள்ளப்பட்ட ஆண்டில் நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் சென்றேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் குளித்துக்கொண்டிருப்பதைக் கண்டேன். அவர்களை, அவர்களுடைய புதல்வி ஃபாத்திமா (ரலி) அவர்கள் ஒரு துணியால் திரையிட்டு மறைத்துக்கொண்டிருந்தார்கள். அத்தியாயம் : 3
+உம்மு ஹானீ பின்த் அபீதாலிப் (ரலி) அவர்கள் கூறியதாவது: மக்கா வெற்றிகொள்ளப்பட்ட ஆண்டில் நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் சென்றேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் குளித்துக்கொண்டிருப்பதைக் கண்டேன். அவர்களை, அவர்களுடைய புதல்வி ஃபாத்திமா (ரலி) அவர்கள் ஒரு துணியால் திரையிட்டு மறைத்துக்கொண்டிருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>336.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 86</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca d
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Yahya b. Yahya rivayet etti dediki: Malike Ebu'n Nadr'dan duyduğum ona da.Ümmü Hanî binti Ebi Talib'in azadlısı Ebu Mürre'nin haber verdiği şu hadisi okudum. Ebu Mürre Ümmü Hani binti Ebi Talib'i şunları söylerken işitmiş. Mekke'nin fethedildiği sene Resulullah (Sallallahu aleyhi ve Sellem)'in yanına gitmiştim. Onun yıkanmakta olduğunu, kızı Fatıma'nın da bir elbise ile onu örttüğünü gördüm. Diğer tahric: Buhari, 280, 357 -uzunca-, 3171 -uzunca-, 6158 -uzunca-; Müslim, 6166; Tirmizi, 2734, 1579; Nesai, 225; İbn Mace, 465; Tuhfetu'l-Eşraf, 18018
+Bize Yahya b. Yahya rivayet etti dediki: Malike Ebu'n Nadr'dan duyduğum ona da.Ümmü Hanî binti Ebi Talib'in azadlısı Ebu Mürre'nin haber verdiği şu hadisi okudum. Ebu Mürre Ümmü Hani binti Ebi Talib'i şunları söylerken işitmiş. Mekke'nin fethedildiği sene Resulullah (Sallallahu aleyhi ve Sellem)'in yanına gitmiştim. Onun yıkanmakta olduğunu, kızı Fatıma'nın da bir elbise ile onu örttüğünü gördüm. Diğer tahric: Buhari, 280, 357 -uzunca-, 3171 -uzunca-, 6158 -uzunca-; Müslim, 6166; Tirmizi, 2734, 1579; Nesai, 225; İbn Mace, 465; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>336.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 86</td></tr></tbody></table></div>
 

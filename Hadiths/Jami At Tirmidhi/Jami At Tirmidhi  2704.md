@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭০৪। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অল্প বয়সী বেশি বয়সীদেরকে, পদচারী বসা লোকদেরকে এবং অল্প সংখ্যক বেশি সংখ্যককে সালাম করবে। সহীহঃ প্রাগুক্ত (১১৪৯), বুখারী। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অল্প বয়সী বেশি বয়সীদেরকে, পদচারী বসা লোকদেরকে এবং অল্প সংখ্যক বেশি সংখ্যককে সালাম করবে। সহীহঃ প্রাগুক্ত (১১৪৯), বুখারী। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2704</td></tr><tr><td>Arabic No</td><td>2704</td></tr><tr><td>Reference</td><td>Book 42 Hadith 17</td></tr></tbody></table></div>
 

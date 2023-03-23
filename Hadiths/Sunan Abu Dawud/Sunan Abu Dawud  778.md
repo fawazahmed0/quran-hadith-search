@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকর ইবনু খাল্লাদ ..... সামুরা ইবনু জুনদুব (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম নামায পাঠকালে দুটি স্থানে ক্ষণিক চুপ থাকতেন। যখন তাকবীরে তাহরীমা বলতেন এবং যখন তিনি কিরাআত সমাপ্ত করতেন ... অতঃপর রাবী ইউনুস হতে বর্ণিত হাদীছের অনুরূপ বর্ণিত আছে।
+। সামুরাহ ইবনু জুনদুব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে দু’ জায়গায় চুপ থাকতেন। সালাত আরম্ভকালে (অর্থাৎ তাকবীরে তাহরীমা বলার পর) এবং কিরাত শেষ করার পর .... অতঃপর ইউনুস সূত্রে বর্ণিত হাদীসের অনুরূপ।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>778</td></tr><tr><td>Arabic No</td><td>778</td></tr><tr><td>Reference</td><td>Book 2 Hadith 388</td></tr></tbody></table></div>
 

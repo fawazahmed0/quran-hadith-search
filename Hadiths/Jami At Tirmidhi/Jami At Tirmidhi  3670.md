@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬৭০। ইবনু উমর (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর (রাঃ)-কে বলেনঃ আপনি হাওযে (কাওসারে) আমার সাখী এবং (হিযরাতকালেও ছাওর পর্বত) গুহায় আপনিই (ছিলেন) আমার সাখী। যঈফ, মিশকাত (৬০২৮) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ গারীব।
+। ইবনু উমর (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর (রাঃ)-কে বলেনঃ আপনি হাওযে (কাওসারে) আমার সাখী এবং (হিযরাতকালেও ছাওর পর্বত) গুহায় আপনিই (ছিলেন) আমার সাখী। যঈফ, মিশকাত (৬০১৯) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3670</td></tr><tr><td>Arabic No</td><td>3670</td></tr><tr><td>Reference</td><td>Book 49 Hadith 66</td></tr></tbody></table></div>
 

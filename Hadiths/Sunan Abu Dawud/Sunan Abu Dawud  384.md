@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবনু মুহাম্মাদ ..... মূসা ইবনু আবদুল্লাহ্ ইবনু ইয়াযীদ (রহঃ) থেকে বনী আব্দুল আশহালের এক মহিলার সূত্রে বর্ণিত। তিনি বলেছেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে জিজ্ঞাসা করি, আমাদের মসজিদে যাতায়াতের রাস্তাটির কিছু অংশ ময়লা-আবর্জনাপূর্ণ বৃষ্টিপাতের সময় আমরা কি করব? তিনি বলেনঃ পরবর্তী রাস্তাটুকু কি পবিত্র নয়? আমি বলি, হ্যাঁ। তিনি বলেনঃ পূর্বের (দুর্গন্ধযুক্ত) রাস্তাটির নাপাকী পরবর্তী (পবিত্র) রাস্তা বিদুরিত করবে। (ইবনু মাজাহ)।
+। বনু ‘আবদুল আশহালের জনৈক মহিলা সূত্রে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রসূল! আমাদের মসজিদে যাওয়ার রাস্তাটি আবর্জনাপূর্ণ। সুতরাং বৃষ্টি হলে আমরা কি করব? তিনি বললেনঃ এর পরের রাস্তাটা কি এর চাইতে ভাল নয়? আমি বললাম, হ্যাঁ, ভাল। তিনি বললেনঃ তাহলে এটা ওটার পরিপূরক। (অর্থাৎ এ রাস্তার ময়লা ঐ রাস্তা দূর করে দিবে)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>384</td></tr><tr><td>Reference</td><td>Book 1 Hadith 384</td></tr></tbody></table></div>
 

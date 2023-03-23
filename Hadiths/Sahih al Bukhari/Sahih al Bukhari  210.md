@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মুল মু’মিনীন মাইমূনাহ (রাযি.) হতে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর নিকট (বকরীর) কাঁধের গোশত খেলেন, অতঃপর সালাত আদায় করলেন অথচ অযূ করলেন না। (মুসলিম ৩/২৪, হাঃ ৩৫৬) (আধুনিক প্রকাশনীঃ ২০৪, ইসলামিক ফাউন্ডেশনঃ ২১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মুল মু’মিনীন মাইমূনাহ (রাযি.) হতে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর নিকট (বকরীর) কাঁধের গোশত খেলেন, অতঃপর সালাত আদায় করলেন অথচ অযূ করলেন না। (মুসলিম ৩/২৪, হাঃ ৩৫৬) (আধুনিক প্রকাশনীঃ ২০৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>210</td></tr><tr><td>Arabic No</td><td>210</td></tr><tr><td>Reference</td><td>Book 4 Hadith 76</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Dan telah menceritakan kepada kami [Ashbagh] berkata, telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மைமூனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என் வீட்டில் ஆட்டுச் சப்பையைச் சாப்பிட்டார்கள். பின்னர் (அதற்காகப் புதிதாக) அங்கத் தூய்மை செய்யாமலேயே தொழுதார்கள்.27 அத்தியாயம் : 4
+மைமூனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என் வீட்டில் ஆட்டுச் சப்பையைச் சாப்பிட்டார்கள். பின்னர் (அதற்காகப் புதிதாக) அங்கத் தூய்மை செய்யாமலேயே தொழுதார்கள்.27 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>210</td></tr><tr><td>Arabic No</td><td>210</td></tr><tr><td>Reference</td><td>Book 4 Hadith 76</td></tr></tbody></table></div>
 

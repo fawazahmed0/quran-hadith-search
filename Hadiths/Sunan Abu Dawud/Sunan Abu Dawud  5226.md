@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... আবূ যার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বলেনঃ হে আবূ যার! তখন আমি বলিঃ ইয়া রাসূলাল্লাহ! আমি আপনার সেবার জন্য প্রস্তুত এবং হাযির আছি এবং আমি আপনার জন্য উৎসর্গীত।
+। আবূ যার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে আবূ যার! আমি বললাম, হে আল্লাহর রাসূল! আমি উপস্থিত, আমি আপনার জন্য উৎসর্গিত।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5226</td></tr><tr><td>Arabic No</td><td>5226</td></tr><tr><td>Reference</td><td>Book 43 Hadith 454</td></tr></tbody></table></div>
 

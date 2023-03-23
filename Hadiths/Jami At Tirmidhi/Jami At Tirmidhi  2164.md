@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২১৬৪। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ফজরের নামায যে লোক আদায় করে, সে আল্লাহ তা'আলার হিফাযাতে থাকে। সুতরাং আল্লাহ তা'আলা তোমাদেরকে যেন তার দায়িত্ব প্রসঙ্গে অভিযুক্ত না করেন। সহীহ, সহীহুত তারগীব (৪৬১), তা’লীকুর রাগীব (১/১৪১, ১৫৫৫, ১৬৩) আবূ ঈসা বলেন, জুনদাব ও ইবনু উমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান এবং এ সূত্রে গারীব।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ফজরের নামায যে লোক আদায় করে, সে আল্লাহ তা'আলার হিফাযাতে থাকে। সুতরাং আল্লাহ তা'আলা তোমাদেরকে যেন তার দায়িত্ব প্রসঙ্গে অভিযুক্ত না করেন। সহীহ, সহীহুত তারগীব (৪৬১), তা’লীকুর রাগীব (১/১৪১, ১৫৫৫, ১৬৩) আবূ ঈসা বলেন, জুনদাব ও ইবনু উমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান এবং এ সূত্রে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2164</td></tr><tr><td>Arabic No</td><td>2164</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Bundar]; telah menceritakan kepada kami [Ma'di b
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre (r.a.)’den rivâyete göre, Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: “Her kim sabah namazını kılarsa Allah’ın himayesine ve koruması altına girmiştir. Allah bu korumasına karşılık sizden bir şey de istememektedir.” Tirmizî rivâyet etmiştir. Tirmizî: Bu konuda Cündüp ve İbn Ömer’den de hadis rivâyet edilmiştir. Bu hadis bu şekliyle hasen ğaribtir. Biraz farklı hali olmak üzre İbn-i Mace de tıklayın: 3945 ve 3946
+Ebû Hureyre (r.a.)’den rivâyete göre, Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: “Her kim sabah namazını kılarsa Allah’ın himayesine ve koruması altına girmiştir. Allah bu korumasına karşılık sizden bir şey de istememektedir.” Tirmizî rivâyet etmiştir. Tirmizî: Bu konuda Cündüp ve İbn Ömer’den de hadis rivâyet edilmiştir. Bu hadis bu şekliyle hasen ğaribtir. Biraz farklı hali olmak üzre İbn-i Mace de tıklayın: 3945 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2164</td></tr><tr><td>Arabic No</td><td>2164</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
 

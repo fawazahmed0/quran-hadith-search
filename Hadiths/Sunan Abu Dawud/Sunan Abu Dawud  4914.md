@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন সাব্বাহ (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন মুসলিমের জন্য উচিত নয় যে, সে তার মুসলিম ভাইকে তিন দিনের অধিক সময়ের জন্য পরিত্যাগ করবে। আর যে ব্যক্তি তিন দিনের অধিক সময় বিচ্ছিন্ন থেকে মারা যায়, সে জাহান্নামে যাবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো মুসলিমের জন্য তার অপর ভাইয়ের সঙ্গে সম্পর্ক ছিন্ন করে তিন দিনের বেশি থাকা হালাল নয়। অতঃপর সে ব্যক্তি তিন দিনের বেশি সময় সম্পর্ক ছিন্ন রাখা অবস্থায় মারা গেলো, সে জাহান্নামে প্রবেশ করলো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4914</td></tr><tr><td>Arabic No</td><td>4914</td></tr><tr><td>Reference</td><td>Book 43 Hadith 142</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Ash Shabbah Al Bazzaz] berkata, tel
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre'den (rivayet edildiğine göre) Rasûlullah (s.a.) (şöyle) buyurmuştur: "Bir müslümanın (din) kardeşine üç (gün)den fazla küsmesi helal olmaz. Kim (müslüman kardeşine) üç günden fazla küser de (böyle küs haliyle) vefat edecek olursa cehennem'e girmeyi hak etmiş olur." Diğer Tahric eden: Ahmed b. Hanbel. III. 468
+Ebû Hureyre'den (rivayet edildiğine göre) Rasûlullah (s.a.) (şöyle) buyurmuştur: "Bir müslümanın (din) kardeşine üç (gün)den fazla küsmesi helal olmaz. Kim (müslüman kardeşine) üç günden fazla küser de (böyle küs haliyle) vefat edecek olursa cehennem'e girmeyi hak etmiş olur." Diğer Tahric eden: Ahmed b. Hanbel. III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4914</td></tr><tr><td>Arabic No</td><td>4914</td></tr><tr><td>Reference</td><td>Book 43 Hadith 142</td></tr></tbody></table></div>
 

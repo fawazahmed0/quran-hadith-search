@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইব্‌ন দাউদ (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমার জানামতে রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয় আল্লাহ্‌ এ উম্মতের জন্য প্রতি শতাব্দীতে এমন এক ব্যক্তিকে প্রেরণ করবেন, যিনি দীনের ‘তাজ্‌দীদ’ বা সংস্কার সাধন করবেন।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয়ই আল্লাহ এই উম্মাতের জন্য প্রতি একশত বছরের শিরোভাগে এমন লোকের আর্বিভাব ঘটাবেন, যিনি এই উম্মাতের দ্বীনকে তার জন্য সঞ্জীবিত করবেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, আব্দুর রাহমান ইবনু শুরাইহ আল-ইসকান্দারানীও এ হাদীস বর্ণনা করেছেন, কিন্তু তিনি শারাহীল-এর অতিরিক্ত বর্ণনা করেননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4291</td></tr><tr><td>Arabic No</td><td>4291</td></tr><tr><td>Reference</td><td>Book 39 Hadith 1</td></tr></tbody></table></div>
 

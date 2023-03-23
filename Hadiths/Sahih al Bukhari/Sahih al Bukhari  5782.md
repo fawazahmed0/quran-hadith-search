@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কারও কোন খাবার পাত্রে মাছি পড়ে, তখন তাকে পুরোপুরি ডুবিয়ে দিবে, তারপরে ফেলে দিবে। কারণ, তার এক ডানায় থাকে আরোগ্য, আর আরেক ডানায় থাকে রোগ। [৩৩২০] (আধুনিক প্রকাশনী- ৫৩৫৭, ইসলামিক ফাউন্ডেশন- ৫২৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কারও কোন খাবার পাত্রে মাছি পড়ে, তখন তাকে পুরোপুরি ডুবিয়ে দিবে, তারপরে ফেলে দিবে। কারণ, তার এক ডানায় থাকে আরোগ্য, আর আরেক ডানায় থাকে রোগ। [৩৩২০] (আধুনিক প্রকাশনী- ৫৩৫৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5782</td></tr><tr><td>Arabic No</td><td>5782</td></tr><tr><td>Reference</td><td>Book 76 Hadith 93</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Isma'i
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் பாத்திரத்தில் ஈ விழுந்துவிட்டால், அதை முழுவதுமாக அமிழ்த்தி எடுங்கள். பிறகு அதை எடுத்தெறிந்துவிடுங்கள். ஏனெனில், அதன் இரு இறக்கைகளில் ஒன்றில் நோய் இருக்கிறது. இன்னொன்றில் நிவாரணம் இருக்கிறது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.110 அத்தியாயம் : 76
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் பாத்திரத்தில் ஈ விழுந்துவிட்டால், அதை முழுவதுமாக அமிழ்த்தி எடுங்கள். பிறகு அதை எடுத்தெறிந்துவிடுங்கள். ஏனெனில், அதன் இரு இறக்கைகளில் ஒன்றில் நோய் இருக்கிறது. இன்னொன்றில் நிவாரணம் இருக்கிறது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.110 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5782</td></tr><tr><td>Arabic No</td><td>5782</td></tr><tr><td>Reference</td><td>Book 76 Hadith 93</td></tr></tbody></table></div>
 

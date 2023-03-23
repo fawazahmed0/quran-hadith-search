@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল (সা) খায়বার ইয়াহূদীদেরকে দিলেন এ শর্তে যে, তারা তাতে কাজ করবে এবং তাতে ফসল ফলাবে, তাতে যা উৎপন্ন হবে তার অর্ধেক তারা পাবে। (২২৮৫) (আধুনিক প্রকাশনীঃ ২৫২১, ইসলামিক ফাউন্ডেশনঃ ২৫৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল (সা) খায়বার ইয়াহূদীদেরকে দিলেন এ শর্তে যে, তারা তাতে কাজ করবে এবং তাতে ফসল ফলাবে, তাতে যা উৎপন্ন হবে তার অর্ধেক তারা পাবে। (২২৮৫) (আধুনিক প্রকাশনীঃ ২৫২১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2720</td></tr><tr><td>Arabic No</td><td>2720</td></tr><tr><td>Reference</td><td>Book 54 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Juwa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் யிகைபர்’ நிலங்களை (அங்கிருந்த) யூதர் களுக்கு, ‘அவற்றில் அவர்கள் உழைத்து விவசாயம் செய்ய வேண்டும்’ என்றும், ‘அவற்றிலிருந்து வரும் விளைச்சலில் பாதி அவர்களுக்குரியது’ என்றும் நிபந்தனையிட்டுக் கொடுத்தார்கள்.6 அத்தியாயம் : 54
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் யிகைபர்’ நிலங்களை (அங்கிருந்த) யூதர் களுக்கு, ‘அவற்றில் அவர்கள் உழைத்து விவசாயம் செய்ய வேண்டும்’ என்றும், ‘அவற்றிலிருந்து வரும் விளைச்சலில் பாதி அவர்களுக்குரியது’ என்றும் நிபந்தனையிட்டுக் கொடுத்தார்கள்.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2720</td></tr><tr><td>Arabic No</td><td>2720</td></tr><tr><td>Reference</td><td>Book 54 Hadith 9</td></tr></tbody></table></div>
 

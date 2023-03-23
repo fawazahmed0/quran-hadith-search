@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ জা‘ফার (রহ.) হতে বর্ণনা করেন যে, তিনি ও তাঁর পিতা জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.)-এর নিকট ছিলেন। সেখানে আরো কিছু লোক ছিলেন। তাঁরা তাঁকে গোসল সম্বন্ধে জিজ্ঞেস করলেন। তিনি বললেন, এক সা‘ তোমার জন্য যথেষ্ট। তখন এক ব্যক্তি বলে উঠলঃ আমার জন্য তা যথেষ্ট নয়। জাবির (রাযি.) বললেনঃ তোমার চেয়ে অধিক চুল যাঁর মাথায় ছিল এবং তোমার চেয়ে যিনি উত্তম ছিলেন (আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ) তাঁর জন্য তো এ পরিমাণই যথেষ্ট ছিল। অতঃপর তিনি এক কাপড়ে আমাদের ইমামাত করেন। (২৫৫, ২৫৬; মুসলিম ৩/১১, হাঃ ৩২৯, আহমাদ ১৫০৪১) (আধুনিক প্রকাশনীঃ ২৪৫, ইসলামিক ফাউন্ডেশনঃ ২৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ জা‘ফার (রহ.) হতে বর্ণনা করেন যে, তিনি ও তাঁর পিতা জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.)-এর নিকট ছিলেন। সেখানে আরো কিছু লোক ছিলেন। তাঁরা তাঁকে গোসল সম্বন্ধে জিজ্ঞেস করলেন। তিনি বললেন, এক সা‘ তোমার জন্য যথেষ্ট। তখন এক ব্যক্তি বলে উঠলঃ আমার জন্য তা যথেষ্ট নয়। জাবির (রাযি.) বললেনঃ তোমার চেয়ে অধিক চুল যাঁর মাথায় ছিল এবং তোমার চেয়ে যিনি উত্তম ছিলেন (আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ) তাঁর জন্য তো এ পরিমাণই যথেষ্ট ছিল। অতঃপর তিনি এক কাপড়ে আমাদের ইমামাত করেন। (২৫৫, ২৫৬; মুসলিম ৩/১১, হাঃ ৩২৯, আহমাদ ১৫০৪১) (আধুনিক প্রকাশনীঃ ২৪৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>252</td></tr><tr><td>Arabic No</td><td>252</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஜஅஃபர் (முஹம்மத் பின் அலீ அல்பாக்கிர்-ரஹ்) அவர்கள் கூறியதாவது: ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அருகில் நானும் என் தந்தை (அலீ பின் ஹுசைன்) அவர்களும் வேறுசிலரும் இருந்தோம். அப்போது ஜாபிர் (ரலி) அவர்களிடம் குளியல் பற்றிக் கேட்டோம். “ஒரு ‘ஸாஉ’ தண்ணீர் போதும்” என்று ஜாபிர் (ரலி) அவர்கள் கூறினார்கள். அப்போது ஒருவர், “அந்தத் தண்ணீர் எனக்குப் போதாது” என்றார். அதற்கு ஜாபிர் (ரலி) அவர்கள், “உன்னைவிட அதிக முடியுள்ளவரும் உன்னைவிடச் சிறந்தவரு (மான அல்லாஹ்வின் தூதர் (ஸல்) அவர்களு)க்கு அந்த அளவுத் தண்ணீர் போதுமானதாக இருந்தது” எனக் கூறினார்கள். பிறகு ஒரே ஆடை அணிந்தவர்களாக எங்களுக்குத் தலைமை தாங்கித் தொழுவித்தார்கள். அத்தியாயம் : 5
+அபூஜஅஃபர் (முஹம்மத் பின் அலீ அல்பாக்கிர்-ரஹ்) அவர்கள் கூறியதாவது: ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அருகில் நானும் என் தந்தை (அலீ பின் ஹுசைன்) அவர்களும் வேறுசிலரும் இருந்தோம். அப்போது ஜாபிர் (ரலி) அவர்களிடம் குளியல் பற்றிக் கேட்டோம். “ஒரு ‘ஸாஉ’ தண்ணீர் போதும்” என்று ஜாபிர் (ரலி) அவர்கள் கூறினார்கள். அப்போது ஒருவர், “அந்தத் தண்ணீர் எனக்குப் போதாது” என்றார். அதற்கு ஜாபிர் (ரலி) அவர்கள், “உன்னைவிட அதிக முடியுள்ளவரும் உன்னைவிடச் சிறந்தவரு (மான அல்லாஹ்வின் தூதர் (ஸல்) அவர்களு)க்கு அந்த அளவுத் தண்ணீர் போதுமானதாக இருந்தது” எனக் கூறினார்கள். பிறகு ஒரே ஆடை அணிந்தவர்களாக எங்களுக்குத் தலைமை தாங்கித் தொழுவித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>252</td></tr><tr><td>Arabic No</td><td>252</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Ca'fer'den nakledildiğine göre kendisi, babası ve bir kaç kişi ile birlikte Câbir İbn Abdullah'ın yanında bulunurken orada bulunanlardan biri, ona ğusül abdestinin ne kadar su ile alınabileceğini sordu. O da: 'Sana bir sa' yeter' diye cevap verince; adam: 'Bu bana' yetmez dedi. Cabir ise; 'Senden daha fazla saçı bulunan ve senden daha hayırlı birine yetiyordu.' dedi ve sonra bir parça bez'den oluşan elbisesi ile bize namaz kıldırdı. Tekrar: 255, 256
+Ebu Ca'fer'den nakledildiğine göre kendisi, babası ve bir kaç kişi ile birlikte Câbir İbn Abdullah'ın yanında bulunurken orada bulunanlardan biri, ona ğusül abdestinin ne kadar su ile alınabileceğini sordu. O da: 'Sana bir sa' yeter' diye cevap verince; adam: 'Bu bana' yetmez dedi. Cabir ise; 'Senden daha fazla saçı bulunan ve senden daha hayırlı birine yetiyordu.' dedi ve sonra bir parça bez'den oluşan elbisesi ile bize namaz kıldırdı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>252</td></tr><tr><td>Arabic No</td><td>252</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
 

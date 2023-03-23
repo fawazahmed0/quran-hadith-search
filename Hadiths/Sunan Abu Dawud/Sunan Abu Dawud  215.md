@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু মিহরান .... সাহল ইবন সা’দ (রাঃ) থেকে বর্ণিত। তিনি বলেন, উবাই ইবন কাব (রাঃ) আমাকে বলেছেন যে, মুফতীগগ এরূপ ফাতওয়া দিতেন যে, বীর্যপাত হলেই গোসল করতে হবে (অন্যথায় নয়)। ইসলামের প্রাথমিক যুগে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম গোসলের ব্যাপারে স্বাধীনতা প্রদান করেন। তিনি পরবর্তীকালে স্ত্রী সহবাস করলেই (বীর্যপাত হোক বা না হোক) গোসলের নির্দেশ দেন। (বুখারী, মুসলিম, তিরমিযী, ইবনু মাজাহ)।
+। উবাই ইবনু কা’ব (রাঃ) সূত্রে বর্ণিত। মুফতীগণ ফাতাওয়াহ দিতেন যে, কেবল বীর্য বের হলেই গোসল করতে হবে। এটা ছিল এক ধরনের বিশেষ সুবিধা। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইসলামের প্রাথমিক অবস্থায় এই বিশেষ সুবিধা দিয়েছিলেন। তবে পরবর্তীতে তিনি গোসল করার নির্দেশ দেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>215</td></tr><tr><td>Arabic No</td><td>215</td></tr><tr><td>Reference</td><td>Book 1 Hadith 215</td></tr></tbody></table></div>
 

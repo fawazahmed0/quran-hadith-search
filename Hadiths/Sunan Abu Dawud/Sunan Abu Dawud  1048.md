@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন সালেহ (রহঃ) ..... জাবের ইবন আবদুল্লাহ (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন। তিনি বলেনঃ জুমুআর দিনের বার ঘন্টার মধ্যে একটি বিশেষ মুহূর্ত আছে, তখন কোন মুসলিম আল্লাহর নিকট যাই দু’আ করে আল্লাহ তাই কবুল করেন। তোমরা এই মুহূর্তটিকে আসরের শেষে অনুসন্ধান কর। (নাসাঈ)।
+। জাবির ইবনু ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জুমু‘আহর দিনের বার ঘন্টার মধ্যে এমন একটি মুহুর্ত রয়েছে যদি কোন মুসলিম এ সময় আল্লাহর কাছে কিছু প্রার্থনা করে তাহলে মহান ও সর্বশক্তিমান আল্লাহ তাকে তা দান করেন। এ মুহুর্তটি তোমরা ‘আসরের শেষ সময়ে অনুসন্ধান করো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1048</td></tr><tr><td>Arabic No</td><td>1048</td></tr><tr><td>Reference</td><td>Book 2 Hadith 659</td></tr></tbody></table></div>
 

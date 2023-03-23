@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল আ‘লা ইবন হাম্মাদ (রহঃ) ..... হাফসা বিনত আবদুর রহমান ইবন আবূ বাকর (রহঃ) তাঁর পিতা হতে বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা আবদুর রহমানকে বলেন, হে আবদুর রহমান! তুমি তোমার ভগ্নি আয়েশাকে তোমার সাওয়ারীর পশ্চাতে আরোহণ করে তানঈম নামক স্থান হতে উমরার জন্য ইহরাম বাঁধাও এবং উমরা করাও। অতঃপর তিনি তাঁর (আয়েশার) সাথে আক্‌মা নামক স্থানে অবতরণ করলে তিনি সে স্থান হতে উমরার জন্য ইহরাম বাঁধেন কারণ তা উমরা কবুল হওয়ার স্থান।
+। হাফসাহ বিনতু ‘আব্দুর রহমান ইবনু আবূ বাকর (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আব্দুর রহমানকে বলেনঃ হে আব্দুর রহমান! তোমার বোন ‘আয়িশাকে তোমার সওয়ারীর পেছনে বসিয়ে নাও এবং আত-তানঈম থেকে তাকে ‘উমরার জন্য ইহরাম বাঁধাও। আর তুমি তাকে নিয়ে সেখানকার উঁচু টিলা থেকে নেমে সমতল ভূমিতে এলেই সে ইহরাম বাঁধবে, কারণ তা ‘উমরা কবূল হওয়ার স্থান।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>1995</td></tr><tr><td>Reference</td><td>Book 11 Hadith 275</td></tr></tbody></table></div>
 

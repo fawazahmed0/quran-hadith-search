@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯৫২, আন্তর্জাতিক নাম্বারঃ ১৫৮৬ ৩৯৫২-(.../...) আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও ইসহাক (রহঃ) ..... যুহরী (রহঃ) হতে উক্ত রূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩৯১৫, ইসলামিক সেন্টার ৩৯১৪)
+আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও ইসহাক (রহঃ) ..... যুহরী (রহঃ) হতে উক্ত রূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩৯১৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4060</td></tr><tr><td>Arabic No</td><td>1586.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 99</td></tr></tbody></table></div>
 

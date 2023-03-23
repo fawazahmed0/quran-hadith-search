@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৯৬। আবদ ইবনু হুমাইদ বর্ণনা করেছেন, তিনি ইউনুস ইবনু মুহাম্মাদ হতে তিনি আব্দুল মুনয়িম হতে..... পূর্বের হাদীসের অনুরূপ। দেখুন পূর্বের হাদীস আবূ ঈসা বলেনঃ জাবিরের এই হাদীসটি এই সূত্র ব্যতীত অন্য কোন সূত্রে আমরা জানতে পারিনি। যা আব্দুল মুনয়িম কর্তৃক বর্ণিত। আর এই সনদ সূত্র অপরিচিত। আব্দুল মুনয়িম বাসরার অধিবাসী একজন রাবী।
+। আবদ ইবনু হুমাইদ বর্ণনা করেছেন, তিনি ইউনুস ইবনু মুহাম্মাদ হতে তিনি আব্দুল মুনয়িম হতে..... পূর্বের হাদীসের অনুরূপ। দেখুন পূর্বের হাদীস আবূ ঈসা বলেনঃ জাবিরের এই হাদীসটি এই সূত্র ব্যতীত অন্য কোন সূত্রে আমরা জানতে পারিনি। যা আব্দুল মুনয়িম কর্তৃক বর্ণিত। আর এই সনদ সূত্র অপরিচিত। আব্দুল মুনয়িম বাসরার অধিবাসী একজন রাবী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Jabir [bin Abdullah] narrated:(Another chain for) a similar narration (as no. 195)
+Jabir [bin Abdullah] narrated:(Another chain for) a similar narration (as no)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
 

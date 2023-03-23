@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২০৫৫, আন্তর্জাতিক নাম্বারঃ ৯৩৮ ২০৫৫-(৩৪/৯৩৮) ইয়াহইয়া ইবনু আইয়ূব (রহঃ) ..... উম্মু আত্বিয়্যাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমাদেরকে (মহিলাদেরকে) জানাযার অনুসরণ করতে (পিছনে যেতে) নিষেধ করা হত। কিন্তু আমাদেরকে কঠোরভাবে নিষেধ করা হত না। (ইসলামী ফাউন্ডেশন ২০৩৪, ইসলামীক সেন্টার ২০৪০)
+ইয়াহইয়া ইবনু আইয়ূব (রহঃ) ..... উম্মু আত্বিয়্যাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমাদেরকে (মহিলাদেরকে) জানাযার অনুসরণ করতে (পিছনে যেতে) নিষেধ করা হত। কিন্তু আমাদেরকে কঠোরভাবে নিষেধ করা হত না। (ইসলামী ফাউন্ডেশন ২০৩৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2166</td></tr><tr><td>Arabic No</td><td>938.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 44</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு அத்திய்யா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (பெண்கள்) இறுதி ஊர்வலத்தைப் பின்தொடர்ந்து செல்ல வேண்டாமெனத் தடை விதிக்கப்பட்டிருந்தோம். ஆனால்,வன்மையாகத் தடுக்கப்பட்டோமில்லை. இதை முஹம்மத் பின் சீரீன் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 11
+உம்மு அத்திய்யா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (பெண்கள்) இறுதி ஊர்வலத்தைப் பின்தொடர்ந்து செல்ல வேண்டாமெனத் தடை விதிக்கப்பட்டிருந்தோம். ஆனால்,வன்மையாகத் தடுக்கப்பட்டோமில்லை. இதை முஹம்மத் பின் சீரீன் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2166</td></tr><tr><td>Arabic No</td><td>938.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 44</td></tr></tbody></table></div>
 

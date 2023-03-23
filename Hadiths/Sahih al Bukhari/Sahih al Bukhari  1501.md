@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, উরাইনা গোত্রের কতিপয় লোকের মদ্বীনার আবহাওয়া প্রতিকূল হওয়ায় আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে যাকাতের উটের কাছে গিয়ে উটের দুধ ও পেশাব পান করার অনুমতি প্রদান করেন। তারা রাখালকে (নির্মমভাবে) হত্যা করে এবং উট হাঁকিয়ে নিয়ে (পালিয়ে) যায়। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের পশ্চাদ্ধাবনে লোক প্রেরণ করেন, তাদেরকে ধরে নিয়ে আসা হয়। এরপর তাদের হাত পা কেটে দেন এবং তাদের চোখে তপ্ত শলাকা বিদ্ধ করেন আর তাদেরকে হাররা নামক উত্তপ্ত স্থানে ফেলে রাখেন। তারা (যন্ত্রণায়) পাথর কামড়ে ধরে ছিল। আবূ কিলাবাহ, সাবিত ও হুমাইদ (রহ.) আনাস (রাঃ) হতে হাদীস বর্ণনায় কাতাদাহ (রহ.)-এর অনুসরণ করেন। (২৩৩) (আধুনিক প্রকাশনীঃ ১৪০৪, ইসলামিক ফাউন্ডেশনঃ ১৪১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, উরাইনা গোত্রের কতিপয় লোকের মদ্বীনার আবহাওয়া প্রতিকূল হওয়ায় আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে যাকাতের উটের কাছে গিয়ে উটের দুধ ও পেশাব পান করার অনুমতি প্রদান করেন। তারা রাখালকে (নির্মমভাবে) হত্যা করে এবং উট হাঁকিয়ে নিয়ে (পালিয়ে) যায়। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের পশ্চাদ্ধাবনে লোক প্রেরণ করেন, তাদেরকে ধরে নিয়ে আসা হয়। এরপর তাদের হাত পা কেটে দেন এবং তাদের চোখে তপ্ত শলাকা বিদ্ধ করেন আর তাদেরকে হাররা নামক উত্তপ্ত স্থানে ফেলে রাখেন। তারা (যন্ত্রণায়) পাথর কামড়ে ধরে ছিল। আবূ কিলাবাহ, সাবিত ও হুমাইদ (রহ.) আনাস (রাঃ) হতে হাদীস বর্ণনায় কাতাদাহ (রহ.)-এর অনুসরণ করেন। (২৩৩) (আধুনিক প্রকাশনীঃ ১৪০৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 24 Hadith 101</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:Some people from 'Uraina tribe came to Medina and its climate did not suit them, so Allah's Messenger (ﷺ) (p.b.u.h) allowed them to go to the herd of camels (given as Zakat) and they drank their milk and urine (as medicine) but they killed the shepherd and drove away all the camels. So Allah's Messenger (ﷺ) sent (men) in their pursuit to catch them, and they were brought, and he had their hands and feet cut, and their eyes were branded with heated pieces of iron and they were left in the Harra (a stony place at Medina) biting the stones. (See Hadith No. 234, Vol. 1)
+Narrated Anas:Some people from 'Uraina tribe came to Medina and its climate did not suit them, so Allah's Messenger (ﷺ) (p.b.u.h) allowed them to go to the herd of camels (given as Zakat) and they drank their milk and urine (as medicine) but they killed the shepherd and drove away all the camels. So Allah's Messenger (ﷺ) sent (men) in their pursuit to catch them, and they were brought, and he had their hands and feet cut, and their eyes were branded with heated pieces of iron and they were left in the Harra (a stony place at Medina) biting the stones. (See Hadith No. 234, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 24 Hadith 101</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: ‘உரைனா’ குலத்தைச் சேர்ந்த சிலர் மதீனா வந்தபோது, மதீனாவின் பருவநிலை ஒத்துக்கொள்ளாமல் நோயுற்றனர். எனவே, ஸகாத்தாகப் பெறப்பட்ட ஒட்டகங்கள் இருக்குமிடத்திற்குச் சென்று அதன் பாலையும் சிறுநீரையும் குடிப்பதற்கு அவர்களை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அனுமதித்தார்கள். ஆனால், அவர்கள் (அங்கு சென்று அவ்வாறே குடித்து குணமடைந்தபிறகு) ஒட்டகம் மேய்ப்பவரைக் கொலை செய்துவிட்டு ஒட்டகங்களையும் ஓட்டிச் சென்று விட்டனர். செய்தியறிந்த அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், அவர்களைப் பிடித்து வர ஆள் அனுப்பினார்கள். அவர்கள் பிடித்து வரப்பட்டதும், (பல கொடுஞ்செயல்கள் புரிந்த) அவர்களின் கைகளையும் கால் களையும் வெட்டினார்கள்; கண்(இமை) களின் ஓரங்களில் சூடிட்டார்கள்; அவர் களைக் கருங்கற்கள் நிறைந்த ‘ஹர்ரா’ எனுமிடத்தில் (பற்களால்) கற்களை (பற்றி)ப் பிடித்துக்கொண்டிருக்கும்படி விட்டு விட்டார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 24
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: ‘உரைனா’ குலத்தைச் சேர்ந்த சிலர் மதீனா வந்தபோது, மதீனாவின் பருவநிலை ஒத்துக்கொள்ளாமல் நோயுற்றனர். எனவே, ஸகாத்தாகப் பெறப்பட்ட ஒட்டகங்கள் இருக்குமிடத்திற்குச் சென்று அதன் பாலையும் சிறுநீரையும் குடிப்பதற்கு அவர்களை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அனுமதித்தார்கள். ஆனால், அவர்கள் (அங்கு சென்று அவ்வாறே குடித்து குணமடைந்தபிறகு) ஒட்டகம் மேய்ப்பவரைக் கொலை செய்துவிட்டு ஒட்டகங்களையும் ஓட்டிச் சென்று விட்டனர். செய்தியறிந்த அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், அவர்களைப் பிடித்து வர ஆள் அனுப்பினார்கள். அவர்கள் பிடித்து வரப்பட்டதும், (பல கொடுஞ்செயல்கள் புரிந்த) அவர்களின் கைகளையும் கால் களையும் வெட்டினார்கள்; கண்(இமை) களின் ஓரங்களில் சூடிட்டார்கள்; அவர் களைக் கருங்கற்கள் நிறைந்த ‘ஹர்ரா’ எனுமிடத்தில் (பற்களால்) கற்களை (பற்றி)ப் பிடித்துக்கொண்டிருக்கும்படி விட்டு விட்டார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 24 Hadith 101</td></tr></tbody></table></div>
 

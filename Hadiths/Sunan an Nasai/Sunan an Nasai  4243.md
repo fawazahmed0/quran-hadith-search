@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+উবায়দুল্লাহ ইবন সাঈদ (রহঃ) ... সালামা ইবন মুহাব্বিক (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাবুক যুদ্ধে এক মহিলার নিকট পানি চেয়ে পাঠান। সেই মহিলা বলে পাঠালো যে, আমার নিকট পানি তো আছে, কিন্তু তা মৃত জন্তুর মশকে ভরা রয়েছে। তিনি জিজ্ঞাসা করলেন, তুমি কি তা দাবাগত করেছিলে? সেই মহিলা বললোঃ হ্যাঁ! তখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ দাবাগতকরণই তার পবিত্রকরণ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>4243</td></tr><tr><td>Reference</td><td>Book 41 Hadith 22</td></tr></tbody></table></div>
 

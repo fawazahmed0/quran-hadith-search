@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুস সামাদ হতে বর্ণিত। তিনি বলেন, আমার কাছে হাদীস বর্ণনা করেন, আমার পিতা, তিনি বলেন, আমার কাছে হাদীস বর্ণনা করেন আইয়ুব, তিনি নাফি' থেকে আর নাফি' ইবনু ‘উমার (রাঃ) থেকে। (فَأْتُوْا حَرْثَكُمْ أَنّٰى شِئْتُمْ) ‘অতএব তোমরা তোমাদের শস্যক্ষেত্রে যেভাবে ইচ্ছা গমন করতে পার’- (সূরাহ আল-বাকারাহ ২/২২৩)। রাবী বলেন, স্ত্রীলোকের পশ্চাৎদিক দিয়ে সহবাস করতে পারে। মুহাম্মাদ ইবনু ইয়াহ্ইয়া ইবনু সা‘ঈদ তাঁর পিতা থেকে, তিনি ‘উবাইদুল্লাহ থেকে, তিনি নাফি‘ থেকে এবং তিনি ইবনু ‘উমার (রাঃ) থেকে বর্ণনা করেছেন। [৪৫২৬] (আধুনিক প্রকাশনীঃ ৪১৬৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4526</td></tr><tr><td>Arabic No</td><td>4526</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

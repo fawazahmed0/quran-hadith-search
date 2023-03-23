@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুযদালিফায় মাগরিব ও ‘ইশা এক সাথে আদায় করেন। প্রত্যেকটির জন্য আলাদা ইক্বামাত(ইকামত/একামত) দেয়া হয়। তবে উভয়ের মধ্যে বা পরে তিনি কোন নফল সালাত আদায় করেননি। (১০৯১) (আধুনিক প্রকাশনীঃ ১৫৫৯, ইসলামিক ফাউন্ডেশনঃ ১৫৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুযদালিফায় মাগরিব ও ‘ইশা এক সাথে আদায় করেন। প্রত্যেকটির জন্য আলাদা ইক্বামাত(ইকামত/একামত) দেয়া হয়। তবে উভয়ের মধ্যে বা পরে তিনি কোন নফল সালাত আদায় করেননি। (১০৯১) (আধুনিক প্রকাশনীঃ ১৫৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 25 Hadith 153</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Ibnu Abu D
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) கூறியதாவது: நபி (ஸல்) அவர்கள் முஸ்தலிஃபாவில் மஃக்ரிபையும் இஷாவையும் சேர்த்துத் தொழுதார்கள். அவை ஒவ்வொன்றுக்கும் (தனித்தனி) இகாமத் சொல்லப்பட்டது. இரண்டிற்குமிடையிலோ ஒவ்வொன்றுக் கும் பின்போ கடமையல்லாத (கூடுதல்) தொழுகை எதையும் அவர்கள் தொழ வில்லை. அத்தியாயம் : 25
+இப்னு உமர் (ரலி) கூறியதாவது: நபி (ஸல்) அவர்கள் முஸ்தலிஃபாவில் மஃக்ரிபையும் இஷாவையும் சேர்த்துத் தொழுதார்கள். அவை ஒவ்வொன்றுக்கும் (தனித்தனி) இகாமத் சொல்லப்பட்டது. இரண்டிற்குமிடையிலோ ஒவ்வொன்றுக் கும் பின்போ கடமையல்லாத (கூடுதல்) தொழுகை எதையும் அவர்கள் தொழ வில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 25 Hadith 153</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২১১। উম্মু উমারাহ আল-আনসারিয়্যাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললেনঃ আমি (কুরআনে) প্রতিটি প্রসঙ্গ পুরুষদের জন্যই উল্লেখিত দেখতে পাচ্ছি। অথচ মহিলাদের প্রসঙ্গে কোন বিষয়ে আলোচনা দেখছি না। তখন এই আয়াত অবতীর্ণ হয় (অনুবাদ) “নিশ্চয় যেসব পুরুষ ও স্ত্রীলোক মুসলিম, মু'মিন, আল্লাহ তা'আলার অনুগত, সত্য পথের পথিক, ধৈর্যশীল, আল্লাহ তা’আলাকে ভয়কারী, এবং বেশি পরিমাণে আল্লাহ তা'আলাকে মনে করে, আল্লাহ তা'আলা তাদের জন্য ক্ষমা ও মহাপুরস্কার রেখেছেন"- (সূরা আহযাব ৩৫)। সনদ সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। উল্লেখিত সনদেই শুধু আমরা এ হাদীস জেনেছি।
+। উম্মু উমারাহ আল-আনসারিয়্যাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললেনঃ আমি (কুরআনে) প্রতিটি প্রসঙ্গ পুরুষদের জন্যই উল্লেখিত দেখতে পাচ্ছি। অথচ মহিলাদের প্রসঙ্গে কোন বিষয়ে আলোচনা দেখছি না। তখন এই আয়াত অবতীর্ণ হয় (অনুবাদ) “নিশ্চয় যেসব পুরুষ ও স্ত্রীলোক মুসলিম, মু'মিন, আল্লাহ তা'আলার অনুগত, সত্য পথের পথিক, ধৈর্যশীল, আল্লাহ তা’আলাকে ভয়কারী, এবং বেশি পরিমাণে আল্লাহ তা'আলাকে মনে করে, আল্লাহ তা'আলা তাদের জন্য ক্ষমা ও মহাপুরস্কার রেখেছেন"- (সূরা আহযাব ৩৫)। সনদ সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। উল্লেখিত সনদেই শুধু আমরা এ হাদীস জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3211</td></tr><tr><td>Arabic No</td><td>3211</td></tr><tr><td>Reference</td><td>Book 47 Hadith 263</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Umm 'Umarah Al-Ansariyyah:that she came to the Prophet (ﷺ) and said: "I do not see but that everything is for the men, and I do not see anything being mentioned for the women." So this Ayah was revealed: 'Indeed the Muslim men and the Muslim women, the believing men and the believing women... (33:35)
+Narrated Umm 'Umarah Al-Ansariyyah:that she came to the Prophet (ﷺ) and said: "I do not see but that everything is for the men, and I do not see anything being mentioned for the women." So this Ayah was revealed: 'Indeed the Muslim men and the Muslim women, the believing men and the believing women... (33:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3211</td></tr><tr><td>Arabic No</td><td>3211</td></tr><tr><td>Reference</td><td>Book 47 Hadith 263</td></tr></tbody></table></div>
 

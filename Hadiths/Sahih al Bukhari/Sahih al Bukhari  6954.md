@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, বায়ু বের হলে ওযূ না করা পর্যন্ত আল্লাহ্ তোমাদের কারো সালাত কবুল করবেন না। [১৩৫] (আধুনিক প্রকাশনী- ,৬৪৭১ ইসলামিক ফাউন্ডেশন- ৬৪৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, বায়ু বের হলে ওযূ না করা পর্যন্ত আল্লাহ্ তোমাদের কারো সালাত কবুল করবেন না। [১৩৫] (আধুনিক প্রকাশনী- ,৬৪৭১ ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6954</td></tr><tr><td>Arabic No</td><td>6954</td></tr><tr><td>Reference</td><td>Book 90 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq bin Nashr] telah menceritakan kepada kami [Ab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களுக்குச் சிறுதுடக்கு ஏற்பட் டால் நீங்கள் அங்கத் தூய்மை (உளூ) செய்துகொள்ளாத வரை உங்கள் தொழு கையை அல்லாஹ் ஏற்கமாட்டான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.4 அத்தியாயம் : 90
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களுக்குச் சிறுதுடக்கு ஏற்பட் டால் நீங்கள் அங்கத் தூய்மை (உளூ) செய்துகொள்ளாத வரை உங்கள் தொழு கையை அல்லாஹ் ஏற்கமாட்டான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6954</td></tr><tr><td>Arabic No</td><td>6954</td></tr><tr><td>Reference</td><td>Book 90 Hadith 2</td></tr></tbody></table></div>
 

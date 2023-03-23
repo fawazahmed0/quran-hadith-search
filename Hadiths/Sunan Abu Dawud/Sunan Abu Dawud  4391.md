@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবন আলী (রহঃ) .... জাবির ইবন আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ছিনতাইকারীর হাত কাটা যাবে না। আর যে ব্যক্তি অন্যের মাল ছিনতাই করে, সে আমাদের দলভুক্ত নয়। এ সনদে আরো বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ খিয়ানতকারীর হাতও কাটা যাবে না।
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ লুণ্ঠনকারীর হাত কাটা যাবে না। যে ব্যক্তি দিবালোকে লুণ্ঠন করে সে আমাদের অন্তর্ভুক্ত নয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4391</td></tr><tr><td>Arabic No</td><td>4391</td></tr><tr><td>Reference</td><td>Book 40 Hadith 41</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Nashr bin Ali] berkata, telah mengabarkan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Câbir b. Abdullah (r.a) demiştir ki; Rasûlullah (s.a.v.) şöyle buyurmuştur: "(Birisinin malını) açıktan zorla alan'ın (müntehibin) eli kesilmez. Açıkta olan bir malı zorla olan bizden değildir." Tahric edenler: Nesai, nikah; hıyel; sarık; Tirmizi, hudûd; îbn Mace, hudûd, fiten; Ahmed b. Hanbel III, 140, 197, 390
+Câbir b. Abdullah (r.a) demiştir ki; Rasûlullah (s.a.v.) şöyle buyurmuştur: "(Birisinin malını) açıktan zorla alan'ın (müntehibin) eli kesilmez. Açıkta olan bir malı zorla olan bizden değildir." Tahric edenler: Nesai, nikah; hıyel; sarık; Tirmizi, hudûd; îbn Mace, hudûd, fiten; Ahmed b. Hanbel III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4391</td></tr><tr><td>Arabic No</td><td>4391</td></tr><tr><td>Reference</td><td>Book 40 Hadith 41</td></tr></tbody></table></div>
 

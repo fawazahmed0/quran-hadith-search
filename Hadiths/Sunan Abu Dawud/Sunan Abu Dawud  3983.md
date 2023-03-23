@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কামিল (রহঃ) .... শাহর ইবন হাওশাব (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি উম্মু সালামা (রাঃ)-কে জিজ্ঞাসা করি, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিম্নোক্ত আয়াতটি কিভাবে তিলাওয়াত করতেন? (إِنَّهُ عَمَلٌ غَيْرُ صَالِحٍ) এভাবে তিলাওয়াত করতেন কি? তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পড়তেনঃ (إِنَّهُ عَمِلَ غَيْرَ صَالِحٍ)।
+। শাহর ইবনু হাওশাব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি উম্মু সালামাহ (রাঃ)-কে জিজ্ঞেস করলাম, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই আয়াত কিভাবে পড়তেনঃ (إِنَّهُ عَمَلٌ غَيْرُ صَالِحٍ)? তিনি বললেন, তিনি এই আয়াত এভাবে পড়তেন(إِنَّهُ عَمِلَ غَيْرَ صَالِحٍ)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3983</td></tr><tr><td>Arabic No</td><td>3983</td></tr><tr><td>Reference</td><td>Book 32 Hadith 15</td></tr></tbody></table></div>
 

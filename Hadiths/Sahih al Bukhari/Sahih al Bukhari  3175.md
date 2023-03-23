@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ ابْنُ وَهْبٍ أَخْبَرَنِيْ يُونُسُ عَنْ ابْنِ شِهَابٍ سُئِلَ أَعَلَى مَنْ سَحَرَ مِنْ أَهْلِ الْعَهْدِ قَتْلٌ قَالَ بَلَغَنَا أَنَّ رَسُوْلَ اللهِ صلى الله عليه وسلم قَدْ صُنِعَ لَهُ ذَلِكَ فَلَمْ يَقْتُلْ مَنْ صَنَعَهُ وَكَانَ مِنْ أَهْلِ الْكِتَابِ ইবনু ওহাব (রহ.) ... ইবনু শিহাব (রহ.) হতে বর্ণনা করেন যে, তাঁকে জিজ্ঞেস করা হয়েছিল, কোন জিম্মী যদি যাদু করে, তবে কি তাকে হত্যা করা হবে? তিনি বলেন, আমার নিকট এ হাদীস পৌঁছেছে যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে যাদু করা হয়েছিল। কিন্তু তিনি যাদুকরকে হত্যা করেন নি। সে ছিল আহলে কিতাব। ৩১৭৫. ‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে যাদু করা হয়েছিল। ফলে তিনি ধারণা করতেন যে, তিনি এ কাজ করেছেন অথচ তিনি তা করেননি। (৩২৬৮, ৫৭৬৩, ৫৭৬৫, ৫৭৬৬, ৬০৬৩, ৬৩৯১) (আধুনিক প্রকাশনীঃ ২৯৩৭, ইসলামিক ফাউন্ডেশনঃ ২৯৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ ابْنُ وَهْبٍ أَخْبَرَنِيْ يُونُسُ عَنْ ابْنِ شِهَابٍ سُئِلَ أَعَلَى مَنْ سَحَرَ مِنْ أَهْلِ الْعَهْدِ قَتْلٌ قَالَ بَلَغَنَا أَنَّ رَسُوْلَ اللهِ صلى الله عليه وسلم قَدْ صُنِعَ لَهُ ذَلِكَ فَلَمْ يَقْتُلْ مَنْ صَنَعَهُ وَكَانَ مِنْ أَهْلِ الْكِتَابِ ইবনু ওহাব (রহ.) ... ইবনু শিহাব (রহ.) হতে বর্ণনা করেন যে, তাঁকে জিজ্ঞেস করা হয়েছিল, কোন জিম্মী যদি যাদু করে, তবে কি তাকে হত্যা করা হবে? তিনি বলেন, আমার নিকট এ হাদীস পৌঁছেছে যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে যাদু করা হয়েছিল। কিন্তু তিনি যাদুকরকে হত্যা করেন নি। সে ছিল আহলে কিতাব। ৩১৭৫. ‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে যাদু করা হয়েছিল। ফলে তিনি ধারণা করতেন যে, তিনি এ কাজ করেছেন অথচ তিনি তা করেননি। (৩২৬৮, ৫৭৬৩, ৫৭৬৫, ৫৭৬৬, ৬০৬৩, ৬৩৯১) (আধুনিক প্রকাশনীঃ ২৯৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3175</td></tr><tr><td>Arabic No</td><td>3175</td></tr><tr><td>Reference</td><td>Book 58 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்கு (ஒரு தடவை) சூனியம் செய்யப்பட்டது. அதன் வாயி லாக, தாம் செய்யாத ஒரு செயலைத் தாம் செய்ததாக அவர்கள் எண்ணிக்கொள்ளும் படி அவர்களுக்குப் பிரமையூட்டப்பட் டது.30 அத்தியாயம் : 58
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்கு (ஒரு தடவை) சூனியம் செய்யப்பட்டது. அதன் வாயி லாக, தாம் செய்யாத ஒரு செயலைத் தாம் செய்ததாக அவர்கள் எண்ணிக்கொள்ளும் படி அவர்களுக்குப் பிரமையூட்டப்பட் டது.30 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3175</td></tr><tr><td>Arabic No</td><td>3175</td></tr><tr><td>Reference</td><td>Book 58 Hadith 17</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Aişe'nin naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem'e büyü yapılmıştı. Hatta bu yüzden aslında hiç yapmadığı bazı şeyleri yaptığını zannediyordu. Tekrar: 2268, 5763, 5765, 5766, 6063, 6391
+Hz. Aişe'nin naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem'e büyü yapılmıştı. Hatta bu yüzden aslında hiç yapmadığı bazı şeyleri yaptığını zannediyordu. Tekrar: 2268
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3175</td></tr><tr><td>Arabic No</td><td>3175</td></tr><tr><td>Reference</td><td>Book 58 Hadith 17</td></tr></tbody></table></div>
 

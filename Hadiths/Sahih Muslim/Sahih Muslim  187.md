@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯১, আন্তর্জাতিক নাম্বারঃ ৫২ ৯১-(৮৭/...) হারমালাহ ইবনু ইয়াহইয়া (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে বলতে শুনেছি যে, অহংকার ও দাম্ভিকতা চিৎকারকারী উট পালকদের মধ্যে এবং নম্রতা বকরীওয়ালাদের মধ্যে। (ইসলামিক ফাউন্ডেশনঃ ৯৩, ইসলামিক সেন্টারঃ ৯৫)
+হারমালাহ ইবনু ইয়াহইয়া (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে বলতে শুনেছি যে, অহংকার ও দাম্ভিকতা চিৎকারকারী উট পালকদের মধ্যে এবং নম্রতা বকরীওয়ালাদের মধ্যে। (ইসলামিক ফাউন্ডেশনঃ ৯৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>52.06</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பெருமையும் கர்வமும் ஒட்டகங்களின் உரிமையாளர்களான நாடோடிகளிடையே காணப்படும்.அமைதி(யும் பணிவும்) ஆடுகளின் உரிமையாளர்களிடையே காணப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 1
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பெருமையும் கர்வமும் ஒட்டகங்களின் உரிமையாளர்களான நாடோடிகளிடையே காணப்படும்.அமைதி(யும் பணிவும்) ஆடுகளின் உரிமையாளர்களிடையே காணப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>52.06</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Hammdtü'bnü Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. Dediki: Bana Yunus, İbni Şihâb'dan rivayet etti. Demişki: Bana Ebu Seleme b. Abdîrrâhmân haber verdi ki, Ebu Hureyre dedi ki: Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim: "Kendini beğenme ve büyüklenme bağırıp çağıran bedevilerde, ağırbaşlılık ise koyun sahiplerindedir. " Yalnız Müslim rivayet etmiştir; Tuhfetu'!-Eşraf, 15340
+Bana Hammdtü'bnü Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. Dediki: Bana Yunus, İbni Şihâb'dan rivayet etti. Demişki: Bana Ebu Seleme b. Abdîrrâhmân haber verdi ki, Ebu Hureyre dedi ki: Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim: "Kendini beğenme ve büyüklenme bağırıp çağıran bedevilerde, ağırbaşlılık ise koyun sahiplerindedir. " Yalnız Müslim rivayet etmiştir; Tuhfetu'!-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>52.06</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
 

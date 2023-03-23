@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন ইয়াহইয়া (রহঃ) ..... আমর ইবন দীনার (রহঃ) পূর্বোক্ত হাদিসের সনদ ও অর্থে হাদিস বর্ণনা করেছেন। রাবী সালামা তাঁর হাদিসে বর্ণনা করেছেন যে, আমর ইবন দীনার (রহঃ) বলেছেনঃ এরূপ ফয়সালা হকের ব্যাপারে হতে পারে। (তবে হদ বা শাস্তির ফয়সালার ব্যাপারে অবশ্যই দুইজন ন্যায়পরায়ণ ব্যাক্তির সাক্ষ্য প্রয়োজন)।
+। ‘আমর ইবনু দীনার (রহঃ) থেকে এ সনদে উপরের হাদীসের অনুরূপ বর্ণিত। সালামাহ তার হাদীসে বলেন, আমর (রহঃ) বলেছেন, তা ছিলো অধিকারস্বত্ব সম্পর্কিত বিষয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3609</td></tr><tr><td>Arabic No</td><td>3609</td></tr><tr><td>Reference</td><td>Book 25 Hadith 39</td></tr></tbody></table></div>
 

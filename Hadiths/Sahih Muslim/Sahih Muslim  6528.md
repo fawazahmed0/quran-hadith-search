@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৪২২, আন্তর্জাতিক নাম্বারঃ ২৫৫৯ ৬৪২২-(…/...) যুহায়র ইবনু হারব, ইবনু আবূ উমর ও আমর আন নাকিদ (রহঃ) ..... যুহরী (রহঃ) এর সূত্রে এ সানাদে অনুরূপ হাদীস বর্ণিত। তবে ইবনু উয়াইনাহ وَلاَ تَقَاطَعُوا ‏ (এবং তোমরা পরস্পর সম্পর্ক বিচ্ছিন্ন করো না) বাড়িয়ে বলেছেন। (ইসলামিক ফাউন্ডেশন ৬২৯৭, ইসলামিক সেন্টার ৬৩৪৬)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6528</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

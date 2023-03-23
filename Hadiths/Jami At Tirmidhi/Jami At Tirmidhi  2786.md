@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭৮৬। আবূ মূসা (রাযিঃ) হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রতিটি চোখই যিনাকরী। কোন নারী সুগন্ধি মেখে কোন মজলিসের পাশ দিয়ে গেলে সে এমন এমন অর্থাৎ যিনাকারিণী। হাসানঃ তাখরাজুল ঈমান লি আবী উবাইদ (৯৬/১১০), তাখরাজুল মিশকাত (৬৫), হিজাবুল মারয়াহ (৬৪)। আবূ হুরাইরাহ (রাযিঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ মূসা (রাযিঃ) হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রতিটি চোখই যিনাকরী। কোন নারী সুগন্ধি মেখে কোন মজলিসের পাশ দিয়ে গেলে সে এমন এমন অর্থাৎ যিনাকারিণী। হাসানঃ তাখরাজুল ঈমান লি আবী উবাইদ (৯৬/১১০), তাখরাজুল মিশকাত (৬৫), হিজাবুল মারয়াহ (৬৪)। আবূ হুরাইরাহ (রাযিঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2786</td></tr><tr><td>Arabic No</td><td>2786</td></tr><tr><td>Reference</td><td>Book 43 Hadith 58</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Musa (r.a.)’den rivâyete göre, Nebi (s.a.v.) şöyle buyurdu: “Her göz yabancı bir kadına bakarak göz zinası işlemiştir. Bir kadın da güzel kokular sürünerek erkeklerin yanından geçerse o da aynen bakan erkekler gibi zina etmiş gibidir.” Diğer tahric: Dârimî, İstizan Bir kısmı benzer olmak üzre Nesai ziynet; yine az benzeri Ebu Davud tereccül Bu konuda Ebû Hureyre’den de hadis rivâyet edilmiştir. Tirmizî: Bu hadis hasen sahihtir. EBU DAVUD RİVAYETİ İÇİN BURAYA TIKLAYIN EBU DAVUD EBU HUREYRE RİVAYETLERİ: 4174 — 4175
+Ebû Musa (r.a.)’den rivâyete göre, Nebi (s.a.v.) şöyle buyurdu: “Her göz yabancı bir kadına bakarak göz zinası işlemiştir. Bir kadın da güzel kokular sürünerek erkeklerin yanından geçerse o da aynen bakan erkekler gibi zina etmiş gibidir.” Diğer tahric: Dârimî, İstizan Bir kısmı benzer olmak üzre Nesai ziynet; yine az benzeri Ebu Davud tereccül Bu konuda Ebû Hureyre’den de hadis rivâyet edilmiştir. Tirmizî: Bu hadis hasen sahihtir. EBU DAVUD RİVAYETİ İÇİN BURAYA TIKLAYIN EBU DAVUD EBU HUREYRE RİVAYETLERİ: 4174 —
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2786</td></tr><tr><td>Arabic No</td><td>2786</td></tr><tr><td>Reference</td><td>Book 43 Hadith 58</td></tr></tbody></table></div>
 

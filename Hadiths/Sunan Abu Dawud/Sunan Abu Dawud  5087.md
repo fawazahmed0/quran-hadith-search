@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আবূ যার (রাঃ) বলতেন, যে ব্যক্তি সকালে ঘুম থেকে উঠে বলবেঃ ‘‘হে আল্লাহ! আমি যে কসমই করি, যে কথাই বলি, আর যে মান্নতই মানি, এসব কার্যকর হওয়ার জন্য রয়েছে তোমার ইচ্ছা। তুমি যা চাও তাই হয়, তুমি যা চাও না তা হয় না। হে আল্লাহ! আমাকে ক্ষমা করে দাও এবং আমার এগুলো অগ্রাহ্য করো। হে আল্লাহ! যার প্রতি তুমি দয়া করো তার প্রতি আমারও দু‘আ। তুমি যাকে অভিশাপ দাও তার প্রতি অমার অভিশাপ’’ এসব অকল্যাণ থেকে ঐ দিনের জন্য তাকে মুক্তি দেয়া হয়।[1] সনদ যঈফ মাওকূফ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5087</td></tr><tr><td>Arabic No</td><td>5087</td></tr><tr><td>Reference</td><td>Book 43 Hadith 315</td></tr></tbody></table></div>
 

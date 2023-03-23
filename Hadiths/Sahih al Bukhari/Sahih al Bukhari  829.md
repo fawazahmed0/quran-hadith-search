@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-لِأَنَّ النَّبِيَّ صلى الله عليه وسلم قَامَ مِنْ الرَّكْعَتَيْنِ وَلَمْ يَرْجِعْ. কেননা, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’ রাক‘আত শেষে (তাশাহহুদ না পড়ে) দাঁড়ালেন এবং আর (বসার জন্য) ফেরেননি। ৮২৯. বানূ ‘আবদুল মুত্তালিবের আযাদকৃত দাস এবং রাবী কোন সময়ে বলেছেন রাবীয়া ইবনু হারিসের আদাকৃত দাস, ‘আবদুর রহমান ইবনু হুরমুয (রাযি.) হতে বর্ণিত যে, বনূ ‘আব্দ মানাফের বন্ধু গোত্র আয্দ শানআর লোক ‘আবদুল্লাহ্ ইবনু বুহাইনাহ (রাযি.) যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাহাবীগণের অন্যতম। তিনি বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁদের নিয়ে যুহরের সালাত আদায় করলেন। তিনি প্রথমে দু’ রাকাআত পড়ার পর না বসে দাঁড়িয়ে গেলেন। মুক্তাদীগণ তাঁর সঙ্গে দাঁড়িয়ে গেলেন। এভাবে সালাতের শেষভাবে মুক্তাদীগণ সালামের জন্য অপেক্ষা করছিলেন। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বসাবস্থায় তাকবীর বললেন এবং সালাম ফিরানোর পূর্বে দু’বার সিজদা্ করলেন, এরপর সালাম ফিরালেন। ( ৮৩০, ১২২৪, ১২২৫, ১২৩০, ৬৬৭০) (আধুনিক প্রকাশনীঃ৭৮৩ , ইসলামিক ফাউন্ডেশনঃ ৭৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لِأَنَّ النَّبِيَّ صلى الله عليه وسلم قَامَ مِنْ الرَّكْعَتَيْنِ وَلَمْ يَرْجِعْ. কেননা, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’ রাক‘আত শেষে (তাশাহহুদ না পড়ে) দাঁড়ালেন এবং আর (বসার জন্য) ফেরেননি। ৮২৯. বানূ ‘আবদুল মুত্তালিবের আযাদকৃত দাস এবং রাবী কোন সময়ে বলেছেন রাবীয়া ইবনু হারিসের আদাকৃত দাস, ‘আবদুর রহমান ইবনু হুরমুয (রাযি.) হতে বর্ণিত যে, বনূ ‘আব্দ মানাফের বন্ধু গোত্র আয্দ শানআর লোক ‘আবদুল্লাহ্ ইবনু বুহাইনাহ (রাযি.) যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাহাবীগণের অন্যতম। তিনি বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁদের নিয়ে যুহরের সালাত আদায় করলেন। তিনি প্রথমে দু’ রাকাআত পড়ার পর না বসে দাঁড়িয়ে গেলেন। মুক্তাদীগণ তাঁর সঙ্গে দাঁড়িয়ে গেলেন। এভাবে সালাতের শেষভাবে মুক্তাদীগণ সালামের জন্য অপেক্ষা করছিলেন। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বসাবস্থায় তাকবীর বললেন এবং সালাম ফিরানোর পূর্বে দু’বার সিজদা্ করলেন, এরপর সালাম ফিরালেন। ( ৮৩০, ১২২৪, ১২২৫, ১২৩০, ৬৬৭০) (আধুনিক প্রকাশনীঃ৭৮৩ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 10 Hadith 223</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் இப்னு புஹைனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு முறை எங்களுக்கு லுஹ்ர் தொழுகை தொழுவித் தார்கள். அப்போது முந்திய இரு ரக் அத்கள் முடிந்ததும் (அத்தஹிய்யாத் அமர்வில்) உட்காராமலேயே எழுந்து விட்டார்கள். மக்களும் அவர்களுடன் எழுந்துவிட்டனர். நபியவர்கள் தொழுகையை முடித்து, சலாம் கொடுப்பதை மக்கள் எதிர்பார்த்துக் கொண்டிருந்தபோது, அமர்ந்தபடியே நபி (ஸல்) அவர்கள் தக்பீர் கூறினார்கள்; சலாம் கொடுப்பதற்குமுன் (மறதிக்காக) இரு சஜ்தாக்கள் செய்துவிட்டுப் பின்னர் சலாம் கொடுத்தார்கள்.72 இதன் அறிவிப்பாளரான இப்னு புஹைனா (ரலி) அவர்கள், பனூ அப்தி மனாஃப் குலத்தாரின் நட்புக் கூட்டமான அஸ்த் ஷநூஆ குலத்தைச் சேர்ந்த நபித்தோழர் ஆவார். அத்தியாயம் : 10
+அப்துல்லாஹ் இப்னு புஹைனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு முறை எங்களுக்கு லுஹ்ர் தொழுகை தொழுவித் தார்கள். அப்போது முந்திய இரு ரக் அத்கள் முடிந்ததும் (அத்தஹிய்யாத் அமர்வில்) உட்காராமலேயே எழுந்து விட்டார்கள். மக்களும் அவர்களுடன் எழுந்துவிட்டனர். நபியவர்கள் தொழுகையை முடித்து, சலாம் கொடுப்பதை மக்கள் எதிர்பார்த்துக் கொண்டிருந்தபோது, அமர்ந்தபடியே நபி (ஸல்) அவர்கள் தக்பீர் கூறினார்கள்; சலாம் கொடுப்பதற்குமுன் (மறதிக்காக) இரு சஜ்தாக்கள் செய்துவிட்டுப் பின்னர் சலாம் கொடுத்தார்கள்.72 இதன் அறிவிப்பாளரான இப்னு புஹைனா (ரலி) அவர்கள், பனூ அப்தி மனாஃப் குலத்தாரின் நட்புக் கூட்டமான அஸ்த் ஷநூஆ குலத்தைச் சேர்ந்த நபித்தோழர் ஆவார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 10 Hadith 223</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Buhayne. şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem bir gün bize öğle namazı kıldırıyordu. Fakat ilk İki rekatı kıldırdıktan sonra teşehhüde oturmadan üçüncü rekata kalktı. Bunun üzerine cemaat da onunla birlikte kalkıp kıyam'a durdu. Cemaat Resûlullah Sallallahu Aleyhi ve Sellem'İn selâm vermesini beklerken Resûl-i Ekrem (Sallallahu aleyhi ve Sellem) namazı bitirip oturduğu yerde tekbir aldı ve selâm vermeden önce iki defa secde etti. Daha sonra da selâm verip namazdan çıktı. Tekrar: 830, 1224, 1225, 1230 ve 6670
+Abdullah İbn Buhayne. şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem bir gün bize öğle namazı kıldırıyordu. Fakat ilk İki rekatı kıldırdıktan sonra teşehhüde oturmadan üçüncü rekata kalktı. Bunun üzerine cemaat da onunla birlikte kalkıp kıyam'a durdu. Cemaat Resûlullah Sallallahu Aleyhi ve Sellem'İn selâm vermesini beklerken Resûl-i Ekrem (Sallallahu aleyhi ve Sellem) namazı bitirip oturduğu yerde tekbir aldı ve selâm vermeden önce iki defa secde etti. Daha sonra da selâm verip namazdan çıktı. Tekrar: 830, 1224, 1225, 1230 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 10 Hadith 223</td></tr></tbody></table></div>
 

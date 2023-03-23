@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৮০৮, আন্তর্জাতিক নাম্বারঃ ১৫৩৬ ৩৮০৮-(৮৭/...) আবূ কামিল জাহদারী (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জমি বর্গা দিতে নিষেধ করেছেন। (ইসলামিক ফাউন্ডেশন ৩৭৭২, ইসলামিক সেন্টার ৩৭৭২)
+আবূ কামিল জাহদারী (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জমি বর্গা দিতে নিষেধ করেছেন। (ইসলামিক ফাউন্ডেশন ৩৭৭২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3916</td></tr><tr><td>Arabic No</td><td>1536.11</td></tr><tr><td>Reference</td><td>Book 21 Hadith 115</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepadaku [Abu Kamil Al Jahdari] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதவாது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நிலத்தைக் குத்தகைக்கு விடுவதைத் தடை செய்தார்கள்.58 அத்தியாயம் : 21
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதவாது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நிலத்தைக் குத்தகைக்கு விடுவதைத் தடை செய்தார்கள்.58 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3916</td></tr><tr><td>Arabic No</td><td>1536.11</td></tr><tr><td>Reference</td><td>Book 21 Hadith 115</td></tr></tbody></table></div>
 

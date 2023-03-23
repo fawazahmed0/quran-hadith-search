@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন সাঈদ আল-কিন্দী (রহঃ) .... আবদুল্লাহ ইবন মাসউদ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ তাশাহহুদ আস্তে পাঠ করাই সুন্নাত। (তিরমিযী)।
+। ‘আবদুল্লাহ ইবনু মাস‘ঊদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, তাশাহহুদ আস্তে পড়া সুন্নাত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>986</td></tr><tr><td>Reference</td><td>Book 2 Hadith 597</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdullah bin Sa'id Al Kindi] telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah (b. Mes'ud)'dan; demiştir ki: Teşehhüdün gizli okunması sünnettendir." Diğer tahric: Tirmizî, salât; Hâkim, el-Müsledrek, I, 230, 267
+Abdullah (b. Mes'ud)'dan; demiştir ki: Teşehhüdün gizli okunması sünnettendir." Diğer tahric: Tirmizî, salât; Hâkim, el-Müsledrek, I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>986</td></tr><tr><td>Reference</td><td>Book 2 Hadith 597</td></tr></tbody></table></div>
 

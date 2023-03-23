@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবনু আবদুল্লাহ ইবনু বাযী (রহঃ) ...... সুহায়ল ইবনু আবূ সালিহ (রহঃ) থেকে এ সূত্রে অনুরূপ বর্ণিত হয়েছে। তবে তিনি عَقْصَاءُ এর স্থলে عَضْبَاءُ বলেছেন এবং ললাটে দাগ দেয়ার কথা উল্লেখ করা ছাড়া কেবল “পার্শ্ব এবং পার্শ্ব দাগ দেয়া হবে” কথাটি উল্লেখ করেছেন। (ইসলামিক ফাউন্ডেশন ২১৬৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2293</td></tr><tr><td>Arabic No</td><td>987.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 31</td></tr></tbody></table></div>
 

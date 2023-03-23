@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন সুলায়মান আল-আনবারী, আবু নুআয়েম হতে, তিনি মিসআর (রহঃ) হতে উপরোক্ত হাদীছের সনদে ও অর্থে হাদীছ বর্ণনা করেছেন। তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেনঃ তোমাদের হস্তদ্বয় রানের উপর রেখে ডান এবং বাম পাশের লোকদের সালাম করাই যথেষ্ট।
+। একই সানাদে অনুরূপ অর্থবোধক হাদীস মিস‘আর (রহঃ) হতেও বর্ণিত হয়েছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের কারো জন্য কি যথেষ্ট নয় অথবা তাদের কারো জন্য কি যথেষ্ট নয় যে, সে উরুর উপর হাত রেখে তার ডান ও বাম দিকের ভাইদের সালাম বলবে?[1] সহীহ : মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>999</td></tr><tr><td>Arabic No</td><td>999</td></tr><tr><td>Reference</td><td>Book 2 Hadith 610</td></tr></tbody></table></div>
 

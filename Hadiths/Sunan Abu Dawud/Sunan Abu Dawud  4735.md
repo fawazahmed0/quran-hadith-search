@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাউদ (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি নিজেকে এর উপযুক্ত মনে করতাম না যে, মহান আল্লাহ্‌ আমার সম্পর্কে এমন কোন আয়াত নাযিল করবেন, যা সব সময় পড়া হবে।
+। ইবনু শিহাব (রহঃ) বর্ণনা করেন, আমাকে উরওয়াহ ইবনু যুবায়র, সাঈদ ইবনুল মুসাইয়্যাব, আলকামাহ ইবনু ওয়াক্কাস ও উবাইদুল্লাহ ইবনু আব্দুল্লাহ (রহঃ) আইশাহ (রাঃ)-এর হাদীস সম্পর্কে জানিয়েছেন যে, তিনি বলেছেন, আমি নিজেকে এই পর্যায়ের মনে করতাম না যে, মহান আল্লাহ আমার সম্পর্কে এমন কথা বলবেন যা তিলাওয়াত করা হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 42 Hadith 140</td></tr></tbody></table></div>
 

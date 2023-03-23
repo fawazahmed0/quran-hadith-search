@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি অপর কাউকে তার বসার স্থান থেকে উঠিয়ে দিয়ে সে সেখানে বসবে না। [৯১১; মুসলিম ৩৯/১১, হাঃ ২১৭৭, আহমাদ ৬০৬৯] (আধুনিক প্রকাশনী- ৫৮২৭, ইসলামিক ফাউন্ডেশন- ৫৭২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি অপর কাউকে তার বসার স্থান থেকে উঠিয়ে দিয়ে সে সেখানে বসবে না। [৯১১; মুসলিম ৩৯/১১, হাঃ ২১৭৭, আহমাদ ৬০৬৯] (আধুনিক প্রকাশনী- ৫৮২৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6269</td></tr><tr><td>Arabic No</td><td>6269</td></tr><tr><td>Reference</td><td>Book 79 Hadith 43</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il bin Abdullah] dia berkata; telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: ஒரு மனிதர் இன்னொரு மனிதரை, அவர் அமர்ந்திருக்கும் இடத்திலிருந்து எழுப்பிவிட்டு, பிறகு இவர் அந்த இடத்தில் அமர வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.53 அத்தியாயம் : 79
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: ஒரு மனிதர் இன்னொரு மனிதரை, அவர் அமர்ந்திருக்கும் இடத்திலிருந்து எழுப்பிவிட்டு, பிறகு இவர் அந்த இடத்தில் அமர வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.53 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6269</td></tr><tr><td>Arabic No</td><td>6269</td></tr><tr><td>Reference</td><td>Book 79 Hadith 43</td></tr></tbody></table></div>
 

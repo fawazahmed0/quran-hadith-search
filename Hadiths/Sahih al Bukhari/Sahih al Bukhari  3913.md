@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3913</td></tr><tr><td>Arabic No</td><td>3913</td></tr><tr><td>Reference</td><td>Book 63 Hadith 138</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Khabbab:We migrated with Allah's Messenger (ﷺ) (See Hadith No. 253 be
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கப்பாப் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் ஹிஜ்ரத் செய்தோம்.162 அத்தியாயம் : 63
+கப்பாப் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் ஹிஜ்ரத் செய்தோம்.162 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3913</td></tr><tr><td>Arabic No</td><td>3913</td></tr><tr><td>Reference</td><td>Book 63 Hadith 138</td></tr></tbody></table></div>
 

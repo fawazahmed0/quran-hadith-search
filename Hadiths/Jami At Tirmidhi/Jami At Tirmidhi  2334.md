@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩৩৪। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার হাত ঘাড়ের পিছনে স্থাপন করলেন, তারপর তা প্রসারিত করে বললেনঃ এই হলো আদম সন্তান, আর এটা হলো তার আয়ু। তিনি তারপর তিনবার বললেনঃ আর এই হলো তার আশা-আকাঙ্ক্ষা। সহীহ, ইবনু মা-জাহ (৪২৩২), বুখারী অনুরূপ। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবূ সাঈদ (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার হাত ঘাড়ের পিছনে স্থাপন করলেন, তারপর তা প্রসারিত করে বললেনঃ এই হলো আদম সন্তান, আর এটা হলো তার আয়ু। তিনি তারপর তিনবার বললেনঃ আর এই হলো তার আশা-আকাঙ্ক্ষা। সহীহ, ইবনু মা-জাহ (৪২৩২), বুখারী অনুরূপ। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবূ সাঈদ (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2334</td></tr><tr><td>Arabic No</td><td>2334</td></tr><tr><td>Reference</td><td>Book 36 Hadith 31</td></tr></tbody></table></div>
 

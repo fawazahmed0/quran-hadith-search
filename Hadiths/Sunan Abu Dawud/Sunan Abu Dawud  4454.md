@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আশ-শা‘বী (রহঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। আমি এটি সহীহ এবং যঈফেও পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4454</td></tr><tr><td>Arabic No</td><td>4454</td></tr><tr><td>Reference</td><td>Book 40 Hadith 104</td></tr></tbody></table></div>
 

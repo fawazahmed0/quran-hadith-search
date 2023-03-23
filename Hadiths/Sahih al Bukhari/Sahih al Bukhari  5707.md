@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আফফান (রহ.) বলেন, সালীম ইবনু হাইয়ান, আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রোগের কোন সংক্রমণ নেই, কুলক্ষণ বলে কিছু নেই, পেঁচা অশুভের লক্ষণ নয়, সফর মাসের কোন অশুভ নেই। কুষ্ঠ রোগী থেকে দূরে থাক, যেভাবে তুমি বাঘ থেকে দূরে থাক। [৫৭১৭, ৫৭৫৭, ৫৭৭০, ৫৭৭৩, ৫৭৭৫] (আধুনিক প্রকাশনী- অনুচ্ছেদ, ইসলামিক ফাউন্ডেশন- অনুচ্ছেদ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5707</td></tr><tr><td>Arabic No</td><td>5707</td></tr><tr><td>Reference</td><td>Book 76 Hadith 27</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "(There is) no 'Adwa (no cont
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொற்றுநோய் என்பது கிடையாது. பறவைகளைக் கொண்டு சகுனம் பார்ப்பதும் ஆந்தையால் சகுனம் பார்ப்பதும் கிடையாது. ‘ஸஃபர்’ மாதம் பீடை என்பதும் கிடையாது. சிங்கத்திடமிருந்து நீ எப்படி வெருண் டோடுவாயோ அப்படி தொழுநோயாளியிட மிருந்து வெருண்டோடு.33 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 76
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொற்றுநோய் என்பது கிடையாது. பறவைகளைக் கொண்டு சகுனம் பார்ப்பதும் ஆந்தையால் சகுனம் பார்ப்பதும் கிடையாது. ‘ஸஃபர்’ மாதம் பீடை என்பதும் கிடையாது. சிங்கத்திடமிருந்து நீ எப்படி வெருண் டோடுவாயோ அப்படி தொழுநோயாளியிட மிருந்து வெருண்டோடு.33 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5707</td></tr><tr><td>Arabic No</td><td>5707</td></tr><tr><td>Reference</td><td>Book 76 Hadith 27</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কাসিম (রহ.) হতে বর্ণিত যে, জা‘ফর (রাঃ)-এর বংশের এক নারী আশঙ্কা করল যে, তার অভিভাবকরা তার অসম্মতিতে বিয়ে দিতে যাচ্ছে। এ জন্য সে আনসারী দু’জন মুরববী জারিয়ার দু পুত্র ‘আবদুর রহমান (রাঃ) ও মুজামমি (রাঃ)-কে এ কথা বলে পাঠাল। তারা বললেন, তোমার ভয়ের কারণ নেই। কেননা, খানসা বিনত খিযাম (রাঃ)-কে তার পিতা তার অসম্মতিতে বিয়ে দিয়েছিল। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ বিয়ে রদ করে দেন। সুফ্ইয়ান (রহ.) বলেছেন যে, আমি ‘আবদুর রহমান (রহ.)-কে তাঁর পিতা থেকে إِنَّ خَنْسَاءَ বলতে শুনেছি। [৫১৩৮] (আধুনিক প্রকাশনী- ৬৪৮৫, ইসলামিক ফাউন্ডেশন- ৬৪৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কাসিম (রহ.) হতে বর্ণিত যে, জা‘ফর (রাঃ)-এর বংশের এক নারী আশঙ্কা করল যে, তার অভিভাবকরা তার অসম্মতিতে বিয়ে দিতে যাচ্ছে। এ জন্য সে আনসারী দু’জন মুরববী জারিয়ার দু পুত্র ‘আবদুর রহমান (রাঃ) ও মুজামমি (রাঃ)-কে এ কথা বলে পাঠাল। তারা বললেন, তোমার ভয়ের কারণ নেই। কেননা, খানসা বিনত খিযাম (রাঃ)-কে তার পিতা তার অসম্মতিতে বিয়ে দিয়েছিল। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ বিয়ে রদ করে দেন। সুফ্ইয়ান (রহ.) বলেছেন যে, আমি ‘আবদুর রহমান (রহ.)-কে তাঁর পিতা থেকে إِنَّ خَنْسَاءَ বলতে শুনেছি। [৫১৩৮] (আধুনিক প্রকাশনী- ৬৪৮৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6969</td></tr><tr><td>Arabic No</td><td>6969</td></tr><tr><td>Reference</td><td>Book 90 Hadith 16</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Qasim:A woman from the offspring of Ja'far was afraid lest her guardian marry her (to somebody) against her will. So she sent for two elderly men from the Ansar, 'AbdurRahman and Mujammi', the two sons of Jariya, and they said to her, "Don't be afraid, for Khansa' bint Khidam was given by her father in marriage against her will, then the Prophet (ﷺ) cancelled that marriage." (See Hadith No. 78)
+Narrated Al-Qasim:A woman from the offspring of Ja'far was afraid lest her guardian marry her (to somebody) against her will. So she sent for two elderly men from the Ansar, 'AbdurRahman and Mujammi', the two sons of Jariya, and they said to her, "Don't be afraid, for Khansa' bint Khidam was given by her father in marriage against her will, then the Prophet (ﷺ) cancelled that marriage." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6969</td></tr><tr><td>Arabic No</td><td>6969</td></tr><tr><td>Reference</td><td>Book 90 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-காசிம் பின் முஹம்மத் பின் அபீபக்ர் (ரஹ்) அவர்கள் கூறியதாவது: ஜஅஃபர் அவர்களுடைய மக்களில் ஒரு பெண்மணி, தன்னைத் தன் காப்பாளர் தனக்குப் பிடிக்காத ஒருவருக்கு மணமுடித்து வைக்கப்போகிறார் என அஞ்சினார். ஆகவே, அப்பெண்மணி ஜாரியா என்பவரின் (புதல்வர் யஸீதுடைய) புதல்வர்களான அப்துர் ரஹ்மான் (ரஹ்), முஜம்மிஉ (ரஹ்) ஆகிய இரு அன்சாரிப் பெரியவர்களிடம் ஆளனுப்பிவைத்தார். அவர்கள் இருவரும், “(பெண்களே!) அஞ்சாதீர்கள். ஏனெனில், கிதாம் என்பவரின் புதல்வியான கன்ஸாவை அவருடைய தந்தை அவருக்குப் பிடிக்காத ஒருவருக்கு மணமுடித்துவைத்தார். (இது குறித்து அப்பெண்மணி முறையிட்ட போது) நபி (ஸல்) அவர்கள் அத்திரு மணத்தை ரத்துச் செய்தார்கள்” என்று கூறியனுப்பினார்கள். அறிவிப்பாளர் சுஃப்யான் (ரஹ்) அவர்கள் கூறுகிறார்கள்: அப்துர் ரஹ்மான் பின் காசிம் (ரஹ்) அவர்கள் தம் தந்தை (காசிம் பின் முஹம்மத் பின் அபீபக்ர்-ரஹ்) அவர்களிடமிருந்து இந்த ஹதீஸை அறிவித்ததை நான் செவியுற்றேன்.24 அத்தியாயம் : 90
+காசிம் பின் முஹம்மத் பின் அபீபக்ர் (ரஹ்) அவர்கள் கூறியதாவது: ஜஅஃபர் அவர்களுடைய மக்களில் ஒரு பெண்மணி, தன்னைத் தன் காப்பாளர் தனக்குப் பிடிக்காத ஒருவருக்கு மணமுடித்து வைக்கப்போகிறார் என அஞ்சினார். ஆகவே, அப்பெண்மணி ஜாரியா என்பவரின் (புதல்வர் யஸீதுடைய) புதல்வர்களான அப்துர் ரஹ்மான் (ரஹ்), முஜம்மிஉ (ரஹ்) ஆகிய இரு அன்சாரிப் பெரியவர்களிடம் ஆளனுப்பிவைத்தார். அவர்கள் இருவரும், “(பெண்களே!) அஞ்சாதீர்கள். ஏனெனில், கிதாம் என்பவரின் புதல்வியான கன்ஸாவை அவருடைய தந்தை அவருக்குப் பிடிக்காத ஒருவருக்கு மணமுடித்துவைத்தார். (இது குறித்து அப்பெண்மணி முறையிட்ட போது) நபி (ஸல்) அவர்கள் அத்திரு மணத்தை ரத்துச் செய்தார்கள்” என்று கூறியனுப்பினார்கள். அறிவிப்பாளர் சுஃப்யான் (ரஹ்) அவர்கள் கூறுகிறார்கள்: அப்துர் ரஹ்மான் பின் காசிம் (ரஹ்) அவர்கள் தம் தந்தை (காசிம் பின் முஹம்மத் பின் அபீபக்ர்-ரஹ்) அவர்களிடமிருந்து இந்த ஹதீஸை அறிவித்ததை நான் செவியுற்றேன்.24 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6969</td></tr><tr><td>Arabic No</td><td>6969</td></tr><tr><td>Reference</td><td>Book 90 Hadith 16</td></tr></tbody></table></div>
 

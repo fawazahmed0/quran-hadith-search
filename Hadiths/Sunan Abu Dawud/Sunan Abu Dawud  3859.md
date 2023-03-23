@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুর রহমান ইবন ইবরাহীম .... আবূ কাবশা আনসারী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মাথার সিঁথিতে এবং দুই কাঁধের মাঝখানে শিংগা লাগাতেন এবং বলতেনঃ যে ব্যক্তি এসব স্থান থেকে দূষিত রক্ত বের করে ফেলবে, সে কোন রোগের জন্য অন্য চিকিৎসা না করলেও তাঁর কোন ক্ষতি হবে না।
+। আবূ কাবশাহ আল-আনসারী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সিঁথিতে এবং দু’ কাঁধের মধ্যখানে রক্তমোক্ষণ করাতেন। তিনি বলতেনঃ যে ব্যক্তি এই অঙ্গ থেকে রক্তমোক্ষণ করাবে, সে কোনো রোগের কোনো ঔষধ ব্যবহার না করলেও তার অসুবিধা নেই।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3859</td></tr><tr><td>Arabic No</td><td>3859</td></tr><tr><td>Reference</td><td>Book 29 Hadith 5</td></tr></tbody></table></div>
 

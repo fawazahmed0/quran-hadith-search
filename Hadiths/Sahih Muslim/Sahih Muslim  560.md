@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪৮, আন্তর্জাতিক নাম্বারঃ ২৩৭ ৪৪৮-(২০/২৩৭) কুতাইবাহ ইবনু সাঈদ, আমর আন নাকিদ ও মুহাম্মদ ইবনু আবদুল্লাহ ইবনু নুমায়র (রহঃ) … আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ তোমাদের কেউ যখন ঢিলা ব্যবহার করে, তখন যেন বেজোড় সংখ্যা ব্যবহার করে। আর তোমদের কেউ যখন ওযু করে তখন যেন নাকের ভেতর পানি প্রবেশ করায় এবং নাক ঝেড়ে সাফ করে। (ইসলামিক ফাউন্ডেশনঃ ৪৫১, ইসলামিক সেন্টারঃ ৪৬৭)
+কুতাইবাহ ইবনু সাঈদ, আমর আন নাকিদ ও মুহাম্মদ ইবনু আবদুল্লাহ ইবনু নুমায়র (রহঃ) … আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ তোমাদের কেউ যখন ঢিলা ব্যবহার করে, তখন যেন বেজোড় সংখ্যা ব্যবহার করে। আর তোমদের কেউ যখন ওযু করে তখন যেন নাকের ভেতর পানি প্রবেশ করায় এবং নাক ঝেড়ে সাফ করে। (ইসলামিক ফাউন্ডেশনঃ ৪৫১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>560</td></tr><tr><td>Arabic No</td><td>237.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 27</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Amru an-Naqid] serta [M
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Kuteybetü'bnü Said ile Amru'n-nakid ve Muhammed b. Abdillah b. Nümeyr toptan İbni Uyeyne'den rivayet ettiler. Kuteybe dedi ki: Bize Süfyan, Ebu'z-zinad'dan, o da A'rac'dan, o da Ebu Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. Şöyle buyurmuşlar: "Sizden kim taşla temizlenirse tek sayı taşla temizlensin. Sizden kim abdest alırsa burnuna su alsın, sonra çıkarsın. " Diğer tahric: Nesai, 86; Tuhfetu'l-Eşraf, 13689
+Bize Kuteybetü'bnü Said ile Amru'n-nakid ve Muhammed b. Abdillah b. Nümeyr toptan İbni Uyeyne'den rivayet ettiler. Kuteybe dedi ki: Bize Süfyan, Ebu'z-zinad'dan, o da A'rac'dan, o da Ebu Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. Şöyle buyurmuşlar: "Sizden kim taşla temizlenirse tek sayı taşla temizlensin. Sizden kim abdest alırsa burnuna su alsın, sonra çıkarsın. " Diğer tahric: Nesai, 86; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>560</td></tr><tr><td>Arabic No</td><td>237.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 27</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সুওয়ায়দ (রহঃ) ... শা'বী (রহঃ) থেকে বর্ণিত। তিনি বলেন, আলী (রাঃ) লোকদেরকে দ্রাক্ষারস পান করাতেন, আর তা এত গাঢ় হতো যে, যদি তাতে মাছি পতিত হতো, তবে সে বের হতে পারতো না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5718</td></tr><tr><td>Arabic No</td><td>5718</td></tr><tr><td>Reference</td><td>Book 51 Hadith 180</td></tr></tbody></table></div>
 

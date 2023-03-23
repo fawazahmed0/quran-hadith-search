@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইব্‌ন ইস্‌মাঈল (রহঃ) .... আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম এরূপ দু’আ করতেনঃ ইয়া আল্লাহ! আমি শ্বেত (কুষ্ঠ) রোগ হতে, পাগ্‌লামী হতে, খুজ্‌লী-পাঁচড়া হতে এবং ঘৃণ্য রোগ হতে পরিত্রাণ পাওয়ার জন্য তোমার আশ্রয় প্রার্থনা করছি। (নাসাঈ)।
+। আনাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ ‘‘হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই শ্বেত, উন্মাদনা, কুষ্ঠ এবং সমস্ত দুরারোগ্য ব্যাধি হতে।’’[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1554</td></tr><tr><td>Arabic No</td><td>1554</td></tr><tr><td>Reference</td><td>Book 8 Hadith 139</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জারীর (রাঃ) হতে বর্ণিত। তিনি বলেন যে, বিদায় হাজ্জে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ লোকদেরকে চুপ থাকতে বল। তারপর তিনি বললেনঃ আমার পরে তোমরা একে অন্যের গর্দান উড়িয়ে কুফরীর দিকে ফিরে যেয়ো না। [১২১] (আধুনিক প্রকাশনী- ৬৫৮৭, ইসলামিক ফাউন্ডেশন- ৬৬০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জারীর (রাঃ) হতে বর্ণিত। তিনি বলেন যে, বিদায় হাজ্জে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ লোকদেরকে চুপ থাকতে বল। তারপর তিনি বললেনঃ আমার পরে তোমরা একে অন্যের গর্দান উড়িয়ে কুফরীর দিকে ফিরে যেয়ো না। [১২১] (আধুনিক প্রকাশনী- ৬৫৮৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7080</td></tr><tr><td>Arabic No</td><td>7080</td></tr><tr><td>Reference</td><td>Book 92 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ‘விடைபெறும்’ ஹஜ்ஜின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “மக்களை மௌனம்காக்கச் சொல்லுங் கள்” என்று சொல்லிவிட்டு (மக்கள் மௌனமான) பின்னர், “எனக்குப் பின்னால் உங்களில் ஒருவர் மற்றவரின் பிடரியை வெட்டிக்கொள்ளும் இறைமறுப் பாளர்களாய் மாறிவிடாதீர்கள்” என்று சொன்னார்கள். அத்தியாயம் : 92
+ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ‘விடைபெறும்’ ஹஜ்ஜின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “மக்களை மௌனம்காக்கச் சொல்லுங் கள்” என்று சொல்லிவிட்டு (மக்கள் மௌனமான) பின்னர், “எனக்குப் பின்னால் உங்களில் ஒருவர் மற்றவரின் பிடரியை வெட்டிக்கொள்ளும் இறைமறுப் பாளர்களாய் மாறிவிடாதீர்கள்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7080</td></tr><tr><td>Arabic No</td><td>7080</td></tr><tr><td>Reference</td><td>Book 92 Hadith 31</td></tr></tbody></table></div>
 

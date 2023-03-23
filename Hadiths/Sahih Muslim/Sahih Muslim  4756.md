@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬৫০, আন্তর্জাতিক নাম্বারঃ ১৮৩৭ ৪৬৫০-(.../...) মুহাম্মাদ ইবনু বাশশার (রহঃ) ও ইসহাক (রহঃ) বর্ণিত রিওয়ায়াতে আছে "হাত-পা কাটা হাবশী গোলামও যদি আমীর হয় (তবুও তার আনুগত্য করবে)।" (ইসলামিক ফাউন্ডেশন ৪৬০৪, ইসলামিক সেন্টার ৪৬০৬)
+মুহাম্মাদ ইবনু বাশশার (রহঃ) ও ইসহাক (রহঃ) বর্ণিত রিওয়ায়াতে আছে "হাত-পা কাটা হাবশী গোলামও যদি আমীর হয় (তবুও তার আনুগত্য করবে)।" (ইসলামিক ফাউন্ডেশন ৪৬০৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4756</td></tr><tr><td>Arabic No</td><td>1837.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 54</td></tr></tbody></table></div>
 

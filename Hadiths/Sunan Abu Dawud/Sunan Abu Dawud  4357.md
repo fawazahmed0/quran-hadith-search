@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্‌ন মা’আয (রহঃ) .... কাসিম (রহঃ) হতে উপরোক্ত ঘটনা বর্ণিত হয়েছে যে, মু’আয (রাঃ) ততক্ষণ তার বাহন হতে অবতরণ করেননি, যতক্ষণ না সে ব্যক্তির মস্তক দ্বি-খন্ডিত করা হয়। আর তাকে তাওবা করতে বলা হয়নি।
+। কাসিম (রহঃ) সূত্রে অনুরূপ ঘটনা বর্ণিত। তিনি বলেন, তাকে হত্যা না করা পর্যন্ত তিনি (মু‘আয) অবতরণ করেননি। আর তাকে ইসলামে ফিরে আসার আহবানও করা হয়নি।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4357</td></tr><tr><td>Arabic No</td><td>4357</td></tr><tr><td>Reference</td><td>Book 40 Hadith 7</td></tr></tbody></table></div>
 

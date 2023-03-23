@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৪৩৩। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা একটি পানির চৌবাচ্চা অতিক্রমকালে তা থেকে মুখ লাগিয়ে পানি পান করছিলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা মুখ লাগিয়ে পানি পান করো না, বরং তোমাদের হাতগুলো ধৌত করে তার সাহায্যে পান করো। কারণ হাতের তুলনায় অধিক পরিচ্ছন্ন কোন পাত্র নাই।
+। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা একটি পানির চৌবাচ্চা অতিক্রমকালে তা থেকে মুখ লাগিয়ে পানি পান করছিলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা মুখ লাগিয়ে পানি পান করো না, বরং তোমাদের হাতগুলো ধৌত করে তার সাহায্যে পান করো। কারণ হাতের তুলনায় অধিক পরিচ্ছন্ন কোন পাত্র নাই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3433</td></tr><tr><td>Arabic No</td><td>3433</td></tr><tr><td>Reference</td><td>Book 30 Hadith 63</td></tr></tbody></table></div>
 

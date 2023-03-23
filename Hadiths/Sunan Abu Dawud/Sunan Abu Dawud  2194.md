@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্ কা‘নবী ..... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ তিনটি এমন কাজ আছে, যার জন্য চেষ্টা করা দরকার। যথাঃ বিবাহ, তালাক এবং পরিত্যক্ত স্ত্রীকে পুনঃগ্রহণ সম্পর্কে। (অর্থাৎ হাসি-ঠাট্টাচ্ছলে এরূপ কোনো করা যায় না।)।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিনটি কাজ এমন যা বাস্তবে বা ঠাট্টাচ্ছলে করলেও তা বাস্তবিকই ধর্তব্য। তা হলোঃ বিবাহ, তালাক ও স্ত্রীকে ফিরিয়ে আনা।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>2194</td></tr><tr><td>Reference</td><td>Book 13 Hadith 20</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৮৯৬। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বলেছেনঃ তুমি সিজদা থেকে তোমার মাথা তুলে কুকুরের মত বসো না। তোমার উভয় নিতম্ব তোমার দু পায়ের পাতার মাঝখানে রাখো এবং তোমার দু পায়ের পিঠ মাটির সাথে স্থাপন করো।
+। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বলেছেনঃ তুমি সিজদা থেকে তোমার মাথা তুলে কুকুরের মত বসো না। তোমার উভয় নিতম্ব তোমার দু পায়ের পাতার মাঝখানে রাখো এবং তোমার দু পায়ের পিঠ মাটির সাথে স্থাপন করো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mawdu</td><td>Al-Albani</td></tr><tr><td>Mawdu</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>896</td></tr><tr><td>Arabic No</td><td>896</td></tr><tr><td>Reference</td><td>Book 5 Hadith 94</td></tr></tbody></table></div>
 

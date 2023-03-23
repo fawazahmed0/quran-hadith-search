@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১৯. উমর (রাঃ) ফিদক ও নাজরান হইতেও ইহুদী বিতাড়িত করিয়াছিলেন। খায়বরের ইহুদীদের না কোন জায়গা ছিল, না বাগান ছিল। ফিদকের ইহুদীদের স্থাবর সম্পত্তির অর্ধেক ছিল এবং অর্ধেক ফল ছিল। উমর (রাঃ) অর্ধেক ফল ও স্থাবর সম্পত্তির দাম নির্ধারিত করিয়া উহা তাহাদেরকে দিয়া দেন এবং তাহাদেরকে তথা হইতে বহিষ্কার করিয়াছিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1615</td></tr><tr><td>Arabic No</td><td>1615</td></tr><tr><td>Reference</td><td>Book 45 Hadith 18</td></tr></tbody></table></div>
 

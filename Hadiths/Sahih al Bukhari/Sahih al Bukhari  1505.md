@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা এক সা’ পরিমাণ যব দ্বারা সদাকাতুল ফিত্র আদায় করতাম। (১৫০৬, ১৫০৮, ১৫১০, মুসলিম ১২/৪, হাঃ ৯৮৫, আহমাদ ১১৯৩২) (আধুনিক প্রকাশনীঃ ১৪০৮, ইসলামিক ফাউন্ডেশনঃ ১৪১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা এক সা’ পরিমাণ যব দ্বারা সদাকাতুল ফিত্র আদায় করতাম। (১৫০৬, ১৫০৮, ১৫১০, মুসলিম ১২/৪, হাঃ ৯৮৫, আহমাদ ১১৯৩২) (আধুনিক প্রকাশনীঃ ১৪০৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1505</td></tr><tr><td>Arabic No</td><td>1505</td></tr><tr><td>Reference</td><td>Book 24 Hadith 105</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah bin 'Uqbah] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (நோன்புப் பெருநாள்) தர்ம மாக ஒரு ‘ஸாஉ’ அளவு தீட்டாத (வாற்) கோதுமையை உணவுக்காகக் கொடுத்து வந்தோம். அத்தியாயம் : 24
+அபூசயீத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (நோன்புப் பெருநாள்) தர்ம மாக ஒரு ‘ஸாஉ’ அளவு தீட்டாத (வாற்) கோதுமையை உணவுக்காகக் கொடுத்து வந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1505</td></tr><tr><td>Arabic No</td><td>1505</td></tr><tr><td>Reference</td><td>Book 24 Hadith 105</td></tr></tbody></table></div>
 

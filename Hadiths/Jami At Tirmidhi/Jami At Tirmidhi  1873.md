@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮৭৩। হাসান ইবনু আলী আল-খাল্লাল-ইয়াহইয়া ইবনু আদম হতে তিনি ইসরাঈল (রহঃ) হতে উপরের বর্ণিত হাদীসের মতোই হাদীস বর্ণনা করেছেন। সহীহ, ইবনু মা-জাহ (৩৩৭৯)
+। হাসান ইবনু আলী আল-খাল্লাল-ইয়াহইয়া ইবনু আদম হতে তিনি ইসরাঈল (রহঃ) হতে উপরের বর্ণিত হাদীসের মতোই হাদীস বর্ণনা করেছেন। সহীহ, ইবনু মা-জাহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1873</td></tr><tr><td>Arabic No</td><td>1873</td></tr><tr><td>Reference</td><td>Book 26 Hadith 13</td></tr></tbody></table></div>
 

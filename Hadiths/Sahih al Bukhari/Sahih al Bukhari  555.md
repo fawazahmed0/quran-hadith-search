@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মালাকগণ পালা বদল করে তোমাদের মাঝে আগমন করেন; একদল দিনে, একদল রাতে। ‘আসর ও ফজরের সালাতে উভয় দল একত্র হন। অতঃপর তোমাদের মাঝে রাত যাপনকারী দলটি উঠে যান। তখন তাদের প্রতিপালক তাদের জিজ্ঞেস করেন, আমার বান্দাদের কোন্ অবস্থায় রেখে আসলে? অবশ্য তিনি নিজেই তাদের ব্যাপারে সর্বাধিক অবত। উত্তরে তাঁরা বলেন, আমরা তাদের সালাতে রেখে এসেছি, আর আমরা যখন তাদের নিকট গিয়েছিলাম তখনও তারা সালাত আদায়রত অবস্থায় ছিলেন। (৩২২৩, ৭৪২৯, ৭৪৮৬; মুসলিম ৫/৩৬, হাঃ ৬৩২, আহমাদ ১০৩১৩) (আধুনিক প্রকাশনীঃ ৫২২, ইসলামিক ফাউন্ডেশনঃ ৫২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মালাকগণ পালা বদল করে তোমাদের মাঝে আগমন করেন; একদল দিনে, একদল রাতে। ‘আসর ও ফজরের সালাতে উভয় দল একত্র হন। অতঃপর তোমাদের মাঝে রাত যাপনকারী দলটি উঠে যান। তখন তাদের প্রতিপালক তাদের জিজ্ঞেস করেন, আমার বান্দাদের কোন্ অবস্থায় রেখে আসলে? অবশ্য তিনি নিজেই তাদের ব্যাপারে সর্বাধিক অবত। উত্তরে তাঁরা বলেন, আমরা তাদের সালাতে রেখে এসেছি, আর আমরা যখন তাদের নিকট গিয়েছিলাম তখনও তারা সালাত আদায়রত অবস্থায় ছিলেন। (৩২২৩, ৭৪২৯, ৭৪৮৬; মুসলিম ৫/৩৬, হাঃ ৬৩২, আহমাদ ১০৩১৩) (আধুনিক প্রকাশনীঃ ৫২২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>555</td></tr><tr><td>Arabic No</td><td>555</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah telah mencer
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இரவு நேரத்தில் சில வானவர்களும் பகல் நேரத்தில் சில வானவர்களும் அடுத்தடுத்து (சுழற்சி முறையில்) உங்களிடையே வருகின்றனர்; ஃபஜ்ர் தொழுகை யிலும் அஸ்ர் தொழுகையிலும் ஒன்றுகூடுகின்றனர். பிறகு, உங்களிடையே இரவில் தங்கியவர்கள் (வானத்துக்கு) ஏறிச் செல்கின்றனர். அப்போது மக்களைப் பற்றி மிகவும் அறிந்தவனான அல்லாஹ் அ(வ் வான)வர் களிடம், “(பூமியிலுள்ள) என் அடியார்களை எந்த நிலையில் விட்டுவந்தீர்கள்?” என்று கேட்பான். அதற்கு அ(வ்வான)வர்கள், “அவர்களை உன்னைத் தொழுகின்ற நிலையில் விட்டுவந்தோம்; அவர்கள் (உன்னைத்) தொழுதுகொண்டிருந்த நிலையிலேயே அவர்களிடம் நாங்கள் சென்றோம்” என்று பதிலளிப்பார்கள். அத்தியாயம் : 9
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இரவு நேரத்தில் சில வானவர்களும் பகல் நேரத்தில் சில வானவர்களும் அடுத்தடுத்து (சுழற்சி முறையில்) உங்களிடையே வருகின்றனர்; ஃபஜ்ர் தொழுகை யிலும் அஸ்ர் தொழுகையிலும் ஒன்றுகூடுகின்றனர். பிறகு, உங்களிடையே இரவில் தங்கியவர்கள் (வானத்துக்கு) ஏறிச் செல்கின்றனர். அப்போது மக்களைப் பற்றி மிகவும் அறிந்தவனான அல்லாஹ் அ(வ் வான)வர் களிடம், “(பூமியிலுள்ள) என் அடியார்களை எந்த நிலையில் விட்டுவந்தீர்கள்?” என்று கேட்பான். அதற்கு அ(வ்வான)வர்கள், “அவர்களை உன்னைத் தொழுகின்ற நிலையில் விட்டுவந்தோம்; அவர்கள் (உன்னைத்) தொழுதுகொண்டிருந்த நிலையிலேயே அவர்களிடம் நாங்கள் சென்றோம்” என்று பதிலளிப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>555</td></tr><tr><td>Arabic No</td><td>555</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah telah mencer
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Bazı melekler gece, bazıları da gündüz nöbetleşe yanınıza gelir. Bunlar, sabah ve ikindi namazlarında bir araya gelirler. Daha sonra gece sizin yanınızda olanlar Hak Teâlâ'nın huzuruna çıkar. Allah Teâlâ kullarını en iyi kendisi bilmesine rağmen yine de onlara 'Kullarımı nasıl bıraktınız?' diye sorar. Onlar da: Yanlarından ayrılırken namaz kılıyorlardı. Yanlarına vardığımızda da namaz kılıyorlardı' diye cevap verirler. Tekrar: 3223, 7429, 7486
+Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Bazı melekler gece, bazıları da gündüz nöbetleşe yanınıza gelir. Bunlar, sabah ve ikindi namazlarında bir araya gelirler. Daha sonra gece sizin yanınızda olanlar Hak Teâlâ'nın huzuruna çıkar. Allah Teâlâ kullarını en iyi kendisi bilmesine rağmen yine de onlara 'Kullarımı nasıl bıraktınız?' diye sorar. Onlar da: Yanlarından ayrılırken namaz kılıyorlardı. Yanlarına vardığımızda da namaz kılıyorlardı' diye cevap verirler. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>555</td></tr><tr><td>Arabic No</td><td>555</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
 

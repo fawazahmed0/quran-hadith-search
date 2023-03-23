@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুমায়দ (রহ.) হতে বর্ণিত যে, এক লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঘরে উঁকি মারল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার দিকে চাকু নিক্ষেপ করতে উদ্যত হলেন। আমি জিজ্ঞেস করলাম, (এ হাদীস) আপনাকে কে বর্ণনা করেছেন? তিনি বললেন, আনাস ইবনু মালিক (রাঃ)। [৬২৪২] (আধুনিক প্রকাশনী- ৬৪০৯, ইসলামিক ফাউন্ডেশন- ৬৪২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হুমায়দ (রহ.) হতে বর্ণিত যে, এক লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঘরে উঁকি মারল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার দিকে চাকু নিক্ষেপ করতে উদ্যত হলেন। আমি জিজ্ঞেস করলাম, (এ হাদীস) আপনাকে কে বর্ণনা করেছেন? তিনি বললেন, আনাস ইবনু মালিক (রাঃ)। [৬২৪২] (আধুনিক প্রকাশনী- ৬৪০৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6889</td></tr><tr><td>Arabic No</td><td>6889</td></tr><tr><td>Reference</td><td>Book 87 Hadith 27</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Yahya:Humaid said, "A man peeped into the house of the Prophet (ﷺ) and the Prophet (ﷺ) aimed an arrow head at him to hit him." I asked, "Who told you that?" He said, "Anas bin Malik" (See Hadith No. 258 and 259, Vol. 8)
+Narrated Yahya:Humaid said, "A man peeped into the house of the Prophet (ﷺ) and the Prophet (ﷺ) aimed an arrow head at him to hit him." I asked, "Who told you that?" He said, "Anas bin Malik" (See Hadith No. 258 and 259, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6889</td></tr><tr><td>Arabic No</td><td>6889</td></tr><tr><td>Reference</td><td>Book 87 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-யஹ்யா பின் சயீத் (ரஹ்) அவர்கள் கூறியதாவது: “ஒரு மனிதர் நபி (ஸல்) அவர்களின் இல்லத்திற்குள் (ஒரு துவாரம் வழியாக) எட்டிப் பார்த்தார். அப்போது அவரை நோக்கி நபி (ஸல்) அவர்கள் நீளமான அம்பின் கூர்மையான பகுதியை நேராகக் கொண்டுசென்றார்கள்” என்று ஹுமைத் (ரஹ்) அவர்கள் கூறினார்கள். அப்போது நான், “இதை உங்களுக்கு அறிவித்தவர் யார்?” என்று கேட்டேன். அதற்கு ஹுமைத் (ரஹ்) அவர்கள், “அனஸ் பின் மாலிக் (ரலி) அவர்கள்தான் (அறிவித்தார்கள்)” என்று பதிலளித்தார்கள்.26 அத்தியாயம் : 87
+யஹ்யா பின் சயீத் (ரஹ்) அவர்கள் கூறியதாவது: “ஒரு மனிதர் நபி (ஸல்) அவர்களின் இல்லத்திற்குள் (ஒரு துவாரம் வழியாக) எட்டிப் பார்த்தார். அப்போது அவரை நோக்கி நபி (ஸல்) அவர்கள் நீளமான அம்பின் கூர்மையான பகுதியை நேராகக் கொண்டுசென்றார்கள்” என்று ஹுமைத் (ரஹ்) அவர்கள் கூறினார்கள். அப்போது நான், “இதை உங்களுக்கு அறிவித்தவர் யார்?” என்று கேட்டேன். அதற்கு ஹுமைத் (ரஹ்) அவர்கள், “அனஸ் பின் மாலிக் (ரலி) அவர்கள்தான் (அறிவித்தார்கள்)” என்று பதிலளித்தார்கள்.26 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6889</td></tr><tr><td>Arabic No</td><td>6889</td></tr><tr><td>Reference</td><td>Book 87 Hadith 27</td></tr></tbody></table></div>
 

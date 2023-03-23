@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। কাসেম ইবনু যাকারিয়া (রহঃ) ... হাফসা (রাঃ) রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেনঃ যে ব্যক্তি (রমযানের সাওম ব্যতীত) রাত্রে সাওমের নিয়্যত না করে তার সাওম পালন করা হবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2331</td></tr><tr><td>Arabic No</td><td>2331</td></tr><tr><td>Reference</td><td>Book 22 Hadith 242</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মারিয়াম (আঃ) ছিলেন (পূর্বের) নারীদের মধ্যে শ্রেষ্ঠতমা নারী। আর খাদীজাহ (রাঃ) (এ উম্মাতের) নারীদের মধ্যে সর্বশ্রেষ্ঠা। (৩৪৩২) (আধুনিক প্রকাশনীঃ ৩৫৩৩, ইসলামিক ফাউন্ডেশনঃ ৩৫৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মারিয়াম (আঃ) ছিলেন (পূর্বের) নারীদের মধ্যে শ্রেষ্ঠতমা নারী। আর খাদীজাহ (রাঃ) (এ উম্মাতের) নারীদের মধ্যে সর্বশ্রেষ্ঠা। (৩৪৩২) (আধুনিক প্রকাশনীঃ ৩৫৩৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3815</td></tr><tr><td>Arabic No</td><td>3815</td></tr><tr><td>Reference</td><td>Book 63 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Muhammad] telah mengabarkan kepada kami ['Abdah] dari 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உலகின் பெண்களிலேயே (அன்று) சிறந்தவர் மர்யம் ஆவார். (இன்று) உலகப் பெண்களிலேயே சிறந்தவர் கதீஜா ஆவார். இதை அலீ (ரலி) அவர்கள் அறிவிக் கிறார்கள்.51 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 63
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உலகின் பெண்களிலேயே (அன்று) சிறந்தவர் மர்யம் ஆவார். (இன்று) உலகப் பெண்களிலேயே சிறந்தவர் கதீஜா ஆவார். இதை அலீ (ரலி) அவர்கள் அறிவிக் கிறார்கள்.51 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3815</td></tr><tr><td>Arabic No</td><td>3815</td></tr><tr><td>Reference</td><td>Book 63 Hadith 40</td></tr></tbody></table></div>
 

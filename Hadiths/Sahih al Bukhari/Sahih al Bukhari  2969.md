@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, এক সময় লোকেরা ভীত হয়ে পড়ল। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ ত্বলহা (রাঃ)-এর ধীরগতি সম্পন্ন একটি ঘোড়ার উপর চড়লেন এবং একাকী ঘোড়াটিকে হাঁকিয়ে বেরিয়ে পড়লেন। লোকেরা তখন তাঁর পিছু পিছু ঘোড়ায় চড়ে ছুটে চলল। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তোমরা ভয় করো না। এ ঘোড়াটি তো দ্রুতগামী। বর্ণনাকারী বলেন, সেদিন হতে আর কখনো সে ঘোড়াটি কারো পেছনে পড়েনি। (২৬২৭) (আধুনিক প্রকাশনীঃ ২৭৪৮, ইসলামিক ফাউন্ডেশনঃ ২৭৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, এক সময় লোকেরা ভীত হয়ে পড়ল। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ ত্বলহা (রাঃ)-এর ধীরগতি সম্পন্ন একটি ঘোড়ার উপর চড়লেন এবং একাকী ঘোড়াটিকে হাঁকিয়ে বেরিয়ে পড়লেন। লোকেরা তখন তাঁর পিছু পিছু ঘোড়ায় চড়ে ছুটে চলল। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তোমরা ভয় করো না। এ ঘোড়াটি তো দ্রুতগামী। বর্ণনাকারী বলেন, সেদিন হতে আর কখনো সে ঘোড়াটি কারো পেছনে পড়েনি। (২৬২৭) (আধুনিক প্রকাশনীঃ ২৭৪৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2969</td></tr><tr><td>Arabic No</td><td>2969</td></tr><tr><td>Reference</td><td>Book 56 Hadith 178</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik:Once the people got frightened, so Allah's Messenger (ﷺ) rode a slow horse belonging to Abu Talha, and he set out all alone, making the horse gallop. Then the people rode, making their horses gallop after him. On his return he said, "Don't be afraid (there is nothing to be afraid of) (and I have found) this horse a very fast one." That horse was never excelled in running hence forward. (Qastalani Vol. 5)
+Narrated Anas bin Malik:Once the people got frightened, so Allah's Messenger (ﷺ) rode a slow horse belonging to Abu Talha, and he set out all alone, making the horse gallop. Then the people rode, making their horses gallop after him. On his return he said, "Don't be afraid (there is nothing to be afraid of) (and I have found) this horse a very fast one." That horse was never excelled in running hence forward. (Qastalani Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2969</td></tr><tr><td>Arabic No</td><td>2969</td></tr><tr><td>Reference</td><td>Book 56 Hadith 178</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Al Fadhl bin Sahal] telah bercerita kepada kami [Hu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை, எதிரிகள் படையெடுத்து வருவதாக மதீனா நகர) மக்கள் பீதிக்குள்ளானார்கள். உடனே அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், அபூதல்ஹா (ரலி) அவர்களுக்குச் சொந்தமான மெதுவாக நடக்கக்கூடிய குதிரை ஒன்றில் ஏறிக்கொண்டு, (அதை) உதைத்துப் பாய்ந்தோடச் செய்தபடி தனியாகப் புறப்பட்டார்கள். அவர்களுக்குப் பின்னால் மக்களும் (வாகனங்களில்) ஏறிப் பாய்ந்து சென்றார்கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘பீதியடையாதீர்கள். (பீதியடையும்படி யாரும் படையெடுத்து வரவில்லை.) இந்தக் குதிரை தங்குதடையின்றி வேகமாக ஓடக்கூடியதாக உள்ளது” என்று கூறினார்கள். அந்த நாளுக்குப் பிறகு, அந்தக் குதிரையை யாராலும் முந்த முடிய வில்லை. அத்தியாயம் : 56
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை, எதிரிகள் படையெடுத்து வருவதாக மதீனா நகர) மக்கள் பீதிக்குள்ளானார்கள். உடனே அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், அபூதல்ஹா (ரலி) அவர்களுக்குச் சொந்தமான மெதுவாக நடக்கக்கூடிய குதிரை ஒன்றில் ஏறிக்கொண்டு, (அதை) உதைத்துப் பாய்ந்தோடச் செய்தபடி தனியாகப் புறப்பட்டார்கள். அவர்களுக்குப் பின்னால் மக்களும் (வாகனங்களில்) ஏறிப் பாய்ந்து சென்றார்கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘பீதியடையாதீர்கள். (பீதியடையும்படி யாரும் படையெடுத்து வரவில்லை.) இந்தக் குதிரை தங்குதடையின்றி வேகமாக ஓடக்கூடியதாக உள்ளது” என்று கூறினார்கள். அந்த நாளுக்குப் பிறகு, அந்தக் குதிரையை யாராலும் முந்த முடிய வில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2969</td></tr><tr><td>Arabic No</td><td>2969</td></tr><tr><td>Reference</td><td>Book 56 Hadith 178</td></tr></tbody></table></div>
 

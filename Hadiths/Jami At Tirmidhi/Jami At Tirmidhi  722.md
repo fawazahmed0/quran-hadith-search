@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭২২। আবু সাঈদ আল-আশাজ্জ আবু উসামা হতে, তিনি আউফ (রাঃ) হতে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উপরোক্ত হাদীসের ন্যায় বর্ণনা করেছেন। -সহীহ দেখুন-পূর্বের হাদীস। আবূ সাঈদ ও উম্মু ইসহাক আল-গানাবিয়্যা (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। আবু হুরাইরা (রাঃ) হতে বর্ণিত হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। এ হাদীস অনুযায়ী বেশিরভাগ আলিম আমল করতে বলেছেন। সুফিয়ান সাওর, শাফিঈ, আহমাদ ও ইসহাক বলেন, ভুলবশতঃ পানাহার করলে রোযা নষ্ট হয় না। ইমাম মালিক বলেন, কোন লোক রামাযান মাসে ভুলবশতঃ পানাহার করলে সে লোককে এর কায আদায় করতে হবে। কিন্তু প্রথমোক্ত অভিমতই বেশি সঠিক।
+। আবু সাঈদ আল-আশাজ্জ আবু উসামা হতে, তিনি আউফ (রাঃ) হতে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উপরোক্ত হাদীসের ন্যায় বর্ণনা করেছেন। -সহীহ দেখুন-পূর্বের হাদীস। আবূ সাঈদ ও উম্মু ইসহাক আল-গানাবিয়্যা (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। আবু হুরাইরা (রাঃ) হতে বর্ণিত হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। এ হাদীস অনুযায়ী বেশিরভাগ আলিম আমল করতে বলেছেন। সুফিয়ান সাওর, শাফিঈ, আহমাদ ও ইসহাক বলেন, ভুলবশতঃ পানাহার করলে রোযা নষ্ট হয় না। ইমাম মালিক বলেন, কোন লোক রামাযান মাসে ভুলবশতঃ পানাহার করলে সে লোককে এর কায আদায় করতে হবে। কিন্তু প্রথমোক্ত অভিমতই বেশি সঠিক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 8 Hadith 41</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abu Hurairah narrated:(Another chain) with the same or similar (Hadith as no. 721)
+Abu Hurairah narrated:(Another chain) with the same or similar (Hadith as no)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 8 Hadith 41</td></tr></tbody></table></div>
 

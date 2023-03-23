@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে খুৎবাহ দিতে শুনেছি। তিনি বলেছেনঃ আমাদের আজকের এ দিনে আমরা যে কাজ প্রথম শুরু করব, তাহল সালাত আদায় করা। অতঃপর ফিরে আসব এবং কুরবানী করব। তাই যে এ রকম করে সে আমাদের রীতি সঠিকভাবে মান্য করল। (৯৫৫, ৯৬৫, ৯৬৮, ৯৭৬, ৯৮৩, ৫৫৪৫, ৫৫৫৬, ৫৫৫৭, ৫৫৬০, ৫৫৬৩, ৬৬৭৩) (আধুনিক প্রকাশনীঃ ৮৯৭, ইসলামিক ফাউন্ডেশনঃ ৯০৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে খুৎবাহ দিতে শুনেছি। তিনি বলেছেনঃ আমাদের আজকের এ দিনে আমরা যে কাজ প্রথম শুরু করব, তাহল সালাত আদায় করা। অতঃপর ফিরে আসব এবং কুরবানী করব। তাই যে এ রকম করে সে আমাদের রীতি সঠিকভাবে মান্য করল। (৯৫৫, ৯৬৫, ৯৬৮, ৯৭৬, ৯৮৩, ৫৫৪৫, ৫৫৫৬, ৫৫৫৭, ৫৫৬০, ৫৫৬৩, ৬৬৭৩) (আধুনিক প্রকাশনীঃ ৮৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>951</td></tr><tr><td>Arabic No</td><td>951</td></tr><tr><td>Reference</td><td>Book 13 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj] berkata, telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஈதுல் அள்ஹா பெருநாளில்) உரையாற்றியதை நான் கேட்டேன். அவர்கள் (தமது உரையில்) “நாம் இன்றைய தினம் செய்யும் முதல் வேலை (பெருநாள் தொழுகை) தொழுவ தாகும். பிறகு திரும்பி வந்து ‘குர்பானி’ பிராணிகளை அறுப்பதாகும். யார் (இதைச்) செய்கிறாரோ அவர் நமது வழிமுறையைப் பின்பற்றியவர் ஆவார்” என்று கூறி னார்கள். அத்தியாயம் : 13
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஈதுல் அள்ஹா பெருநாளில்) உரையாற்றியதை நான் கேட்டேன். அவர்கள் (தமது உரையில்) “நாம் இன்றைய தினம் செய்யும் முதல் வேலை (பெருநாள் தொழுகை) தொழுவ தாகும். பிறகு திரும்பி வந்து ‘குர்பானி’ பிராணிகளை அறுப்பதாகும். யார் (இதைச்) செய்கிறாரோ அவர் நமது வழிமுறையைப் பின்பற்றியவர் ஆவார்” என்று கூறி னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>951</td></tr><tr><td>Arabic No</td><td>951</td></tr><tr><td>Reference</td><td>Book 13 Hadith 3</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hajjaj] berkata, telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-el-Berâ' İbn Âzib (r.a.)'den nakledildiğine göre o şöyle der: "Resulullah Sallallahu Aleyhi ve Sellem'in bir bayram namazı hutbesinde; "Biz işte bu günümüze ilk olarak namazla başlarız sonra dönüp kurbanlarımızı keseriz. Kim bu şekilde hareket ederse şüphesiz bizim sünnetimize uygun davranmış olur" buyurduğunu işittim. Tekrar: 955, 965, 968, 976, 983, 5545-5557, 5560, 5563 ve 6673
+el-Berâ' İbn Âzib (r.a.)'den nakledildiğine göre o şöyle der: "Resulullah Sallallahu Aleyhi ve Sellem'in bir bayram namazı hutbesinde; "Biz işte bu günümüze ilk olarak namazla başlarız sonra dönüp kurbanlarımızı keseriz. Kim bu şekilde hareket ederse şüphesiz bizim sünnetimize uygun davranmış olur" buyurduğunu işittim. Tekrar: 955, 965, 968, 976, 983, 5545-5557, 5560, 5563 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>951</td></tr><tr><td>Arabic No</td><td>951</td></tr><tr><td>Reference</td><td>Book 13 Hadith 3</td></tr></tbody></table></div>
 

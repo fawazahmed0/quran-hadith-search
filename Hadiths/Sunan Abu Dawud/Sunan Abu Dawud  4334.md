@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ্‌ ইব্‌ন মু’আয (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামত ততক্ষণ সংঘটিত হবে না, যতক্ষণ না ত্রিশজন মিথ্যাবাদী দাজ্জালের আবির্ভাব হবে। তারা সবাই আল্লাহ্‌ এবং তার রাসুলকে অস্বীকার করবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিরিশজন মিথ্যাবাদী দাজ্জাল আবির্ভূত না হওয়া পর্যন্ত কিয়ামত সংঘটিত হবে না। তাদের প্রত্যেকেই আল্লাহ ও তাঁর রাসূলের উপর মিথ্যা আরোপ করবে।[1] সনদ হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4334</td></tr><tr><td>Arabic No</td><td>4334</td></tr><tr><td>Reference</td><td>Book 39 Hadith 44</td></tr></tbody></table></div>
 

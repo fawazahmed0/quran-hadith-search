@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ ابْنُ عَبَّاسٍ طَافَ النَّبِيُّ صلى الله عليه وسلم عَلَى بَعِيرٍ. ইবনু ‘আব্বাস (রাযি.) বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের উটে সওয়ার হয়ে তওয়াফ করেছেন। ৪৬৪. উম্মু সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট (বিদায় হজ্জে) আমার অসুস্থতার কথা জানালে তিনি বললেনঃ সওয়ার হয়ে লোকদের হতে দূরে থেকে ত্বওয়াফ কর। আমি ত্বওয়াফ করলাম। আর আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাইতুল্লাহর পাশে الطُّورِ وَكِتَابٍ مَسْطُورٍ তিলাওয়াত করে সালাত আদায় করছিলেন। (১৬১৯, ১৬২৬, ১৬৩৩, ৪৮৫৩; মুসলিম ১৫/৪২, হাঃ ১২৭৬ ) (আধুনিক প্রকাশনীঃ ৪৪৪, ইসলামিক ফাউন্ডেশনঃ ৪৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ ابْنُ عَبَّاسٍ طَافَ النَّبِيُّ صلى الله عليه وسلم عَلَى بَعِيرٍ. ইবনু ‘আব্বাস (রাযি.) বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের উটে সওয়ার হয়ে তওয়াফ করেছেন। ৪৬৪. উম্মু সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট (বিদায় হজ্জে) আমার অসুস্থতার কথা জানালে তিনি বললেনঃ সওয়ার হয়ে লোকদের হতে দূরে থেকে ত্বওয়াফ কর। আমি ত্বওয়াফ করলাম। আর আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাইতুল্লাহর পাশে الطُّورِ وَكِتَابٍ مَسْطُورٍ তিলাওয়াত করে সালাত আদায় করছিলেন। (১৬১৯, ১৬২৬, ১৬৩৩, ৪৮৫৩; মুসলিম ১৫/৪২, হাঃ ১২৭৬ ) (আধুনিক প্রকাশনীঃ ৪৪৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>464</td></tr><tr><td>Arabic No</td><td>464</td></tr><tr><td>Reference</td><td>Book 8 Hadith 112</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Um Salama:I complained to Allah's Messenger (ﷺ) that I was sick. He t
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Muhammad bin 'Abdurrahman bin Naufal] dari ['Urwah bin Az Zubair] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] berkata, "Aku mengadu kepada Rasulullah shallallahu 'alaihi wasallam bahwa aku mengalami rasa sakit. Beliau kemudian bersabda: "Thawaflah di belakang orang dengan berkendaraan." Maka aku pun melakukan thawaf, sedangkan Rasulullah shallallahu 'alaihi wasallam shalat di sisi Ka'bah dengan membaca: "WATHTHUUR WA KITAABIM MASTHUUR (Demi bukit, dan Kitab yang ditulis) ' (Qs. Ath Thuur: 1-2)
+Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Muhammad bin 'Abdurrahman bin Naufal] dari ['Urwah bin Az Zubair] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] berkata, "Aku mengadu kepada Rasulullah shallallahu 'alaihi wasallam bahwa aku mengalami rasa sakit. Beliau kemudian bersabda: "Thawaflah di belakang orang dengan berkendaraan." Maka aku pun melakukan thawaf, sedangkan Rasulullah shallallahu 'alaihi wasallam shalat di sisi Ka'bah dengan membaca: "WATHTHUUR WA KITAABIM MASTHUUR (Demi bukit, dan Kitab yang ditulis) ' (Qs. Ath Thuur:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>464</td></tr><tr><td>Arabic No</td><td>464</td></tr><tr><td>Reference</td><td>Book 8 Hadith 112</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: “நான் நோயுற்றுள்ளேன்” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் நான் முறையிட்டேன். அதற்கு அவர்கள், “மக்களுக்கப்பா-ருந்து வாகனத்தில் அமர்ந்து (கஅபாவைச்) சுற்றி (தவாஃப்) வருவாயாக!” என்று சொன்னார்கள். அவ்வாறே நான் சுற்றிவந்தேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘அத்தூர்’ எனும் (52ஆவது) அத்தியாத்தை ஓதியவாறு கஅபாவின் ஒரு பக்கத்தில் தொழுதுகொண்டிருந்தார்கள். அத்தியாயம் : 8
+உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: “நான் நோயுற்றுள்ளேன்” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் நான் முறையிட்டேன். அதற்கு அவர்கள், “மக்களுக்கப்பா-ருந்து வாகனத்தில் அமர்ந்து (கஅபாவைச்) சுற்றி (தவாஃப்) வருவாயாக!” என்று சொன்னார்கள். அவ்வாறே நான் சுற்றிவந்தேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘அத்தூர்’ எனும் (52ஆவது) அத்தியாத்தை ஓதியவாறு கஅபாவின் ஒரு பக்கத்தில் தொழுதுகொண்டிருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>464</td></tr><tr><td>Arabic No</td><td>464</td></tr><tr><td>Reference</td><td>Book 8 Hadith 112</td></tr></tbody></table></div>
 

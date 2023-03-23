@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আলী ইবন হুজর (রহঃ) ... হাসান (রহঃ) থেকে বর্ণিত যে, ইবন আব্বাস (রাঃ) বসরায় খুতবা দানকালীন বললেন যে, তোমরা নিজ নিজ সাদাকায়ে ফিতর আদায় কর, তখন লোকজন একে অপরের দিকে তাকাতে লাগল। ইবন আব্বাস (রাঃ) বললেন, এখানে মদীনার অধিবাসী কে কে আছ? তোমরা তোমাদের সাথীদেরকে কাছে গিয়ে তাদেরকে শিক্ষা দাও। কেননা তারা জানে না যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্ৰত্যেক অপ্রাপ্ত বয়স্ক, প্রাপ্ত বয়স্ক, স্বাধীন, গোলাম, পুরুষ এবং মহিলার উপর অর্ধ সা' করে গম অথবা এক সা' করে খেজুর বা যব সাদাকায়ে ফিতর স্বরূপ ওয়াজিব করেছেন। হাসান (রহঃ) বলেন, আলী (রাঃ) বলেছেন যে, আল্লাহ তাআলা যদি তোমাদেরকে স্বচ্ছলতা দান করেন তাহলে তোমরাও স্বচ্ছলভাবে দান কর এবং এক সা' করে গম অথবা অন্যান্য বস্তু আদায় করতে থাক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2515</td></tr><tr><td>Arabic No</td><td>2515</td></tr><tr><td>Reference</td><td>Book 23 Hadith 81</td></tr></tbody></table></div>
 

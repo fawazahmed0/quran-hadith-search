@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন নিশ্চয় আল্লাহ্‌ তা'আলা মদ, এবং এর মূল্য গ্রহণকে হারাম করেছেন। মৃত জীব-জন্তু এবং এর মূল্য গ্রহণকে হারাম করেছেন এবং শূকর এবং তার মূল্য গ্রহণকে হারাম করেছেন।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ নিশ্চয়ই মহান আল্লাহ মদ ও মদের মূল্য হারাম করেছেন, মৃত জন্তু ও এর মূল্য হারাম করেছেন এবং শূকর ও এর মূল্য হারাম করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3485</td></tr><tr><td>Arabic No</td><td>3485</td></tr><tr><td>Reference</td><td>Book 24 Hadith 70</td></tr></tbody></table></div>
 

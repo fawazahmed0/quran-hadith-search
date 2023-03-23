@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মুল মুমিনীন [‘আয়িশাহ (রাযি.)] হতে বর্ণিত। তিনি বলেন, আমার কাছে যে পশম ছিল আমি তা দিয়ে কিলাদা পাকিয়ে দিয়েছি। (১৭৯৬) (আধুনিক প্রকাশনীঃ ১৫৮৭, ইসলামিক ফাউন্ডেশনঃ ১৫৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মুল মুমিনীন [‘আয়িশাহ (রাযি.)] হতে বর্ণিত। তিনি বলেন, আমার কাছে যে পশম ছিল আমি তা দিয়ে কিলাদা পাকিয়ে দিয়েছি। (১৭৯৬) (আধুনিক প্রকাশনীঃ ১৫৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1705</td></tr><tr><td>Arabic No</td><td>1705</td></tr><tr><td>Reference</td><td>Book 25 Hadith 183</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin 'Ali] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இறைநம்பிக்கையாளர்களின் அன்னை (ஆயிஷா (ரலி) அவர்கள்) கூறியதாவது: நான் குர்பானி பிராணிகளின் அடையாள மாலைகளை என்னிடமிருந்த கம்பளியால் திரித்தேன். அத்தியாயம் : 25
+இறைநம்பிக்கையாளர்களின் அன்னை (ஆயிஷா (ரலி) அவர்கள்) கூறியதாவது: நான் குர்பானி பிராணிகளின் அடையாள மாலைகளை என்னிடமிருந்த கம்பளியால் திரித்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1705</td></tr><tr><td>Arabic No</td><td>1705</td></tr><tr><td>Reference</td><td>Book 25 Hadith 183</td></tr></tbody></table></div>
 

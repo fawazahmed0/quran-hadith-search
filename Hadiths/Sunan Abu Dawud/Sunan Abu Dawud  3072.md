@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বাল (রহঃ) ..... ইবন উমার (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুবাইর (রাঃ)-কে এত পরিমাণ জায়গীর দেন, যতদূর তাঁর ঘোড়া দৌড়ে যেতে পারে। এরপর তিনি তাঁর ঘোড়া দৌড়ান এবং দৌড়ের পর থেমে তাঁর হাতের চাবুক ফেলে দেন। তখন তিনি বলেনঃ যতদূর তাঁর চাবুক গিয়েছে, ততদূর তাঁকে দিয়ে দাও।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুবায়র (রাঃ)-কে তার ঘোড়ার এক দৌড় পরিমাণ যমীন জায়গীর হিসেবে দিলেন। তিনি তার ঘোড়া ছুটালেন। অতঃপর তা থেমে গেলে সেখানে তার চাবুক নিক্ষেপ করলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তাকে তার চাবুক পৌঁছার স্থান পর্যন্ত প্রদান করো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3072</td></tr><tr><td>Arabic No</td><td>3072</td></tr><tr><td>Reference</td><td>Book 20 Hadith 145</td></tr></tbody></table></div>
 

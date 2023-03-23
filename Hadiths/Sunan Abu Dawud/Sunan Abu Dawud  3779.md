@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ঈসা (রহঃ) .... সাফওয়ান ইবন উমায়্যা (রাঃ) থেকে বর্ণিত। তিনি বলেন, একদা আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে খাওয়ার সময় আমার হাত দিয়ে হাড় থেকে গোশত ছাড়াচ্ছিলাম। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ হাড়খানা তোমার মুখে দাও। কেননা, দাত দিয়ে গোশত কেটে খাওয়াতে স্বাদ অধিক পাওয়া যায় এবং তা সহজে হযম হয়।
+। সাফওয়ান ইবনু উমাইয়্যাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে আহার করছিলাম এবং হাড় থেকে গোশত ছিড়ে খাচ্ছিলাম। তখন তিনি বললেনঃ হাড়টি তুলে মুখে নাও, এবং দাঁত দিয়ে কামড়ে খাও, কারণ তা অধিক উপকারী ও স্বাস্থ্যকর। ইমাম আবূ দাঊদ (রহঃ) বলেন, উসমান (রহঃ) সাফওয়ান (রহঃ) থেকে কিছু শুনেননি। এ বর্ণনাটি মুরসাল।[1] দুর্বলঃ যঈফাহ (২১৯৩)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3779</td></tr><tr><td>Arabic No</td><td>3779</td></tr><tr><td>Reference</td><td>Book 28 Hadith 44</td></tr></tbody></table></div>
 

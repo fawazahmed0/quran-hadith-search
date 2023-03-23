@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাঈদ ইবন মানসূর .... ইবন ইসাম আল মুযানী তাঁর পিতা হতে বর্ণনা করেন। তিনি বলেছেন, আমাদেরকে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খন্ডযুদ্ধে পাঠাতেন, আর বলতেন, তোমরা কোন মসজিদ দেখতে পেলে অথবা কোন মুআযযিনকে আযান দিতে শুনলে সেখানে অতর্কিত আক্রমন চালাবে না এবং কাউকে হত্যা করবে না।
+। ইবনু ‘ইসাম আল-মুযানী (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের একটি ক্ষুদ্র বাহিনী প্রেরণের সময় বললেনঃ জনপদে কোনো মাসজিদ দেখতে পেলে কিংবা মুয়াজ্জিনের আযানধ্বনি শুনতে পেলে কাউকে হত্যা করবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2635</td></tr><tr><td>Arabic No</td><td>2635</td></tr><tr><td>Reference</td><td>Book 15 Hadith 159</td></tr></tbody></table></div>
 

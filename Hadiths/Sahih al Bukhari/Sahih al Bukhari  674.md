@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু ‘উমার (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন খাবার খেতে থাক, তখন সালাতের ইক্বামাত(ইকামত/একামত) হয়ে গেলেও খাওয়া শেষ না করে তাড়াহুড়া করবে না। আবূ ‘আবদুল্লাহ্ ইমাম বুখারী (রহ.) বলেন, আমাকে ইব্রাহীম ইবনু মুনযির (রহ.) এ হাদীসটি ওয়াহ্ব ইবনু উসমান (রহ.) হতে বর্ণনা করেছেন এবং ওয়াহ্ব হলেন মদিনা্বাসী। (মুসলিম ৫/১৬,হাঃ ৫৫৯ আহমাদ ৪৭০৯) (আধুনিক প্রকাশনীঃ ৬৩৩ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৬৪০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>674</td></tr><tr><td>Arabic No</td><td>674</td></tr><tr><td>Reference</td><td>Book 10 Hadith 68</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "If anyone of you is having his meals
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் சாப்பிட்டுக்கொண்டிருந்தால் அவர் தமது தேவையை முடிப்ப தற்கு முன்பாக அவசரப்ப(ட்டு எழுந்துவி)ட வேண்டாம். தொழுகைக்காக ‘இகாமத்’ சொல்லப்பட்டாலும் சரியே! இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 10
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் சாப்பிட்டுக்கொண்டிருந்தால் அவர் தமது தேவையை முடிப்ப தற்கு முன்பாக அவசரப்ப(ட்டு எழுந்துவி)ட வேண்டாம். தொழுகைக்காக ‘இகாமத்’ சொல்லப்பட்டாலும் சரியே! இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>674</td></tr><tr><td>Arabic No</td><td>674</td></tr><tr><td>Reference</td><td>Book 10 Hadith 68</td></tr></tbody></table></div>
 

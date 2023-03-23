@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু ‘সাদ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আমার পরিবার-পরিজনের মাঝে সাহরী খেতাম। এরপর আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে সালাতে অংশ গ্রহণ করার জন্য জলদি করতাম। (৫৭৭) (আধুনিক প্রকাশনীঃ ১৭৮৪, ইসলামিক ফাউন্ডেশনঃ ১৭৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু ‘সাদ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আমার পরিবার-পরিজনের মাঝে সাহরী খেতাম। এরপর আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে সালাতে অংশ গ্রহণ করার জন্য জলদি করতাম। (৫৭৭) (আধুনিক প্রকাশনীঃ ১৭৮৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1920</td></tr><tr><td>Arabic No</td><td>1920</td></tr><tr><td>Reference</td><td>Book 30 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Ubaidullah] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நான் என் குடும்பத்தாருடன் சஹர் செய்துவிட்டு அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் (சுப்ஹு) தொழுகையை அடைவதற்காக விரைவாகச் செல்வேன்.17 அத்தியாயம் : 30
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நான் என் குடும்பத்தாருடன் சஹர் செய்துவிட்டு அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் (சுப்ஹு) தொழுகையை அடைவதற்காக விரைவாகச் செல்வேன்.17 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1920</td></tr><tr><td>Arabic No</td><td>1920</td></tr><tr><td>Reference</td><td>Book 30 Hadith 29</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5257</td></tr><tr><td>Arabic No</td><td>5257</td></tr><tr><td>Reference</td><td>Book 68 Hadith 7</td></tr></tbody></table></div>
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Sahl bin Sa'd:similarly as above (182)
+Narrated Sahl bin Sa'd:similarly as above
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5257</td></tr><tr><td>Arabic No</td><td>5257</td></tr><tr><td>Reference</td><td>Book 68 Hadith 7</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফস ইবন উমার ও মুসলিম ইবন ইবরাহীম (রহঃ) .... আমির গোত্রের আবূ রাযীন (রাঃ) হতে বর্ণিত। তিনি জিজ্ঞাসা করেন, হে আল্লাহ্‌র রাসুল! আমার পিতা অতি বৃদ্ধ, আর তিনি হজ্জ ও উমরা আদায় করতে অসমর্থ এবং সাওয়ার হতেও অপারগ। তিনি বলেন, তুমি তোমার পিতার পক্ষ হতে হজ্জ ও উমরা কর।
+। আবূ রাযীন (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, ‘আমির গোত্রের জনৈক ব্যক্তি বললো, হে আল্লাহর রাসূল! আমার পিতা অতি বৃদ্ধ, হজ (হজ্জ) এবং ‘উমরা আদায় করতে তিনি অক্ষম এবং সওয়ারীতে সফর করতেও অসমর্থ। তিনি বললেনঃ তোমার পিতার পক্ষ থেকে তুমি হজ (হজ্জ) ও ‘উমরা আদায় করো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1810</td></tr><tr><td>Arabic No</td><td>1810</td></tr><tr><td>Reference</td><td>Book 11 Hadith 90</td></tr></tbody></table></div>
 

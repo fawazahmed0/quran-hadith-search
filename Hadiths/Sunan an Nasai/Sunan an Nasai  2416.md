@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবু বকর ইবন আবু নযর (রহঃ) ... হাফসা (রাঃ) থেকে বর্ণিত। তিনি বলেন, চারটি আমল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কখনো পরিত্যাগ করতেন না। আশুরার দিনের সাওম, যিলহজ্জ মাসের নয় দিনের সাওম, প্রত্যেক মাসে তিন দিনের সাওম এবং ফজরের দু' রাকাআত সুন্নাত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2416</td></tr><tr><td>Arabic No</td><td>2416</td></tr><tr><td>Reference</td><td>Book 22 Hadith 327</td></tr></tbody></table></div>
 

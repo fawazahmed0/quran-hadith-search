@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-তারিক (রহ.) হতে বর্ণিত যে, তিনি বলেছেন, সা‘ঈদ ইবনু মুসাইয়্যাব (রাঃ)-এর কাছে সে গাছটির কথা উল্লেখ করা হলে তিনি হেসে বললেন, আমার পিতা আমাকে জানিয়েছেন যে, তিনি সেখানের বায়আতে উপস্থিত ছিলেন। [৪১৬২] (আধুনিক প্রকাশনীঃ ৩৮৫০, ইসলামিক ফাউন্ডেশনঃ ৩৮৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তারিক (রহ.) হতে বর্ণিত যে, তিনি বলেছেন, সা‘ঈদ ইবনু মুসাইয়্যাব (রাঃ)-এর কাছে সে গাছটির কথা উল্লেখ করা হলে তিনি হেসে বললেন, আমার পিতা আমাকে জানিয়েছেন যে, তিনি সেখানের বায়আতে উপস্থিত ছিলেন। [৪১৬২] (আধুনিক প্রকাশনীঃ ৩৮৫০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4165</td></tr><tr><td>Arabic No</td><td>4165</td></tr><tr><td>Reference</td><td>Book 64 Hadith 207</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Tariq:(The tree where the Ridwan Pledge of allegiance was taken by the 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-தாரிக் பின் அப்திர் ரஹ்மான் (ரஹ்) அவர்கள் கூறியதாவது: சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்களிடம் அந்த மரத்தைப் பற்றிக் குறிப்பிடப்பட்டது. அப்போது சயீத் அவர்கள் சிரித்துவிட்டு, அ(ந்தப் பிரமாணத்)தில் கலந்துகொண்டவரான என் தந்தை (அடுத்த ஆண்டே அந்த மரத்தை எங்களால் கண்டுபிடிக்க முடியவில்லை என்று) தெரிவித்ததாகக் கூறினார். அத்தியாயம் : 64
+தாரிக் பின் அப்திர் ரஹ்மான் (ரஹ்) அவர்கள் கூறியதாவது: சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்களிடம் அந்த மரத்தைப் பற்றிக் குறிப்பிடப்பட்டது. அப்போது சயீத் அவர்கள் சிரித்துவிட்டு, அ(ந்தப் பிரமாணத்)தில் கலந்துகொண்டவரான என் தந்தை (அடுத்த ஆண்டே அந்த மரத்தை எங்களால் கண்டுபிடிக்க முடியவில்லை என்று) தெரிவித்ததாகக் கூறினார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4165</td></tr><tr><td>Arabic No</td><td>4165</td></tr><tr><td>Reference</td><td>Book 64 Hadith 207</td></tr></tbody></table></div>
 

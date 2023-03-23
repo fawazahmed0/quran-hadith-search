@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উরওয়াহ ইবনু যুবাইর (রহ.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর স্ত্রী ‘আয়িশাহ্ (রাযি.) তাঁকে বলেছেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে এ বলে দু‘আ করতেনঃ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَفِتْنَةِ الْمَمَاتِ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ ‘‘কবরের আযাব হতে, মাসীহে দাজ্জালের ফিতনা হতে এবং জীবন ও মৃত্যুর ফিতনা হতে ইয়া আল্লাহ্! আপনার নিকট আশ্রয় প্রার্থনা করছি। হে আল্লাহ্! গুনাহ্ ও ঋণগ্রস্ততা হতে আপনার নিকট আশ্রয় চাই।’’ তখন এক ব্যক্তি তাঁকে বলল, আপনি কতই না ঋণগ্রস্ততা হতে আশ্রয় প্রার্থনা করেন। তিনি (আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ) বললেনঃ যখন কোন ব্যক্তি ঋণগ্রস্ত হয়ে পড়ে তখন কথা বলার সময় মিথ্যা বলে এবং ওয়াদা করলে তা ভঙ্গ করে। (৮৩৩, ২৩৯৭, ৬৩৬৮, ৬৩৭৫, ৬৩৭৬, ৬৩৭৭, ৭১২৯) (আধুনিক প্রকাশনীঃ৭৮৬, ইসলামিক ফাউন্ডেশনঃ ৭৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উরওয়াহ ইবনু যুবায়র (রহ.) হতে বর্ণিত। ‘আয়িশাহ্ (রাযি.) বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সালাতে দাজ্জালের ফিতনা হতে আশ্রয় প্রার্থনা করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>832</td></tr><tr><td>Arabic No</td><td>832</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Urve İbnü'z-Zübeyr Aişe (r.anha)'nın kendisine şunu haber verdiğini nakletmİştir: "Resûlullah Sallallahu Aleyhi ve Sellem namaz'da iken şöyle dua ederdi; [Allahümme eûzübike min Azabi'l-Kabri ve Eûzübike min Fitneti'l-Mesihi'd-Deccâl ve Eûzübike min Fitneti'l-Mahyâ ve Fitneti'l-Memât Allahümme innî Eûzübike mine'l-Me'semi ve'l-Mağrami] "Allah'ım kabir azabından sana sığınırım, Allahım Mesih - deccâlin fitnesinden sana sığınırım, hayatın ve Ölümün fitnesinden sana sığınırım, Allah'ım günahlardan ve borçlu olmaktan sana sığınırım,' Sahâbîlerden birisi Resûlullah Sallallahu Aleyhi ve Sellem'e: Ey Allah'ın Resulü borçlu olmaktan ne kadar çok Allah'a sığınıyorsunuz böyle?!' deyince Resûl-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurdu: Bir kimse borçlandığı zaman konuşur fakat yalan söyler, söz verir fakat sözünde durmaz. Tekrar: 833, 2397, 6368, 6375, 6376, 6377 ve 7129
+Urve İbnü'z-Zübeyr Aişe (r.anha)'nın kendisine şunu haber verdiğini nakletmİştir: "Resûlullah Sallallahu Aleyhi ve Sellem namaz'da iken şöyle dua ederdi; [Allahümme eûzübike min Azabi'l-Kabri ve Eûzübike min Fitneti'l-Mesihi'd-Deccâl ve Eûzübike min Fitneti'l-Mahyâ ve Fitneti'l-Memât Allahümme innî Eûzübike mine'l-Me'semi ve'l-Mağrami] "Allah'ım kabir azabından sana sığınırım, Allahım Mesih - deccâlin fitnesinden sana sığınırım, hayatın ve Ölümün fitnesinden sana sığınırım, Allah'ım günahlardan ve borçlu olmaktan sana sığınırım,' Sahâbîlerden birisi Resûlullah Sallallahu Aleyhi ve Sellem'e: Ey Allah'ın Resulü borçlu olmaktan ne kadar çok Allah'a sığınıyorsunuz böyle?!' deyince Resûl-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurdu: Bir kimse borçlandığı zaman konuşur fakat yalan söyler, söz verir fakat sözünde durmaz. Tekrar: 833, 2397, 6368, 6375, 6376, 6377 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>832</td></tr><tr><td>Arabic No</td><td>832</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

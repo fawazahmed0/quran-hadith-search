@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত, ‘‘কোন স্ত্রী যদি স্বামীর অবজ্ঞা ও উপেক্ষার ভয় করে’’- (আন-নিসাঃ ১২৮) আয়াতের তাফসীর প্রসঙ্গে তিনি (‘আয়িশাহ (রাযি.) বলেন, এক ব্যক্তি তার স্ত্রীর কাছে বেশী যাওয়া-আসা করত না বরং তাকে পরিত্যাগ অর্থাৎ তালাক দেয়ার ইচ্ছা পোষণ করত। [1] এ অবস্থায় স্ত্রী বলল, আমি তোমাকে আমার ব্যাপারে দায়মুক্ত করে দিলাম। এ ঘটনার প্রেক্ষিতে এই আয়াতটি অবতীর্ণ হয়। (২৬৯৪, ৪৬০১, ৫২০৬) (আধুনিক প্রকাশনীঃ ২২৭১, ইসলামিক ফাউন্ডেশনঃ ২২৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত, ‘‘কোন স্ত্রী যদি স্বামীর অবজ্ঞা ও উপেক্ষার ভয় করে’’- (আন-নিসাঃ ১২৮) আয়াতের তাফসীর প্রসঙ্গে তিনি (‘আয়িশাহ (রাযি.) বলেন, এক ব্যক্তি তার স্ত্রীর কাছে বেশী যাওয়া-আসা করত না বরং তাকে পরিত্যাগ অর্থাৎ তালাক দেয়ার ইচ্ছা পোষণ করত। [1] এ অবস্থায় স্ত্রী বলল, আমি তোমাকে আমার ব্যাপারে দায়মুক্ত করে দিলাম। এ ঘটনার প্রেক্ষিতে এই আয়াতটি অবতীর্ণ হয়। (২৬৯৪, ৪৬০১, ৫২০৬) (আধুনিক প্রকাশনীঃ ২২৭১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2450</td></tr><tr><td>Arabic No</td><td>2450</td></tr><tr><td>Reference</td><td>Book 46 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhamamad] telah mengabarkan kepada kami ['Abdul
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ‘‘ஒரு பெண் தன் கணவனிடமிருந்து ஏற்படும் பிணக்கை, அல்லது புறக்கணிப் பைப் பற்றி அஞ்சினால், அவ்விருவரும் (தம் உரிமைகளில் சிலவற்றைப் பரஸ்பரம் விட்டுக்கொடுத்து) தமக்கிடையே சமாதானம் செய்துகொள்வதில் தவறேதும் இல்லை” (4:128) என்ற குர்ஆனின் வசனத்தைப் பற்றி ஆயிஷா (ரலி) அவர்கள் பின்வருமாறு கூறினார்கள்: ஒரு மனிதர் தம் மனைவியிடம் அதிக நாட்டம் கொள்ளாமல் அவளைவிட்டுப் பிரிந்துவிட விரும்புகிறார். இந்நிலையில் மனைவி, ‘‘என் (தாம்பத்திய உரிமைகள்) விஷயத்தில் (நான் விட்டுக்கொடுத்து) நடந்துகொள்கிறேன் (என்னை மணவிலக் குச் செய்துவிட வேண்டாம்)” என்று கேட்டுக்கொள்கிறாள். இது தொடர்பாகவே இந்த இறைவசனம் அருளப்பட்டது. அத்தியாயம் : 46
+உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ‘‘ஒரு பெண் தன் கணவனிடமிருந்து ஏற்படும் பிணக்கை, அல்லது புறக்கணிப் பைப் பற்றி அஞ்சினால், அவ்விருவரும் (தம் உரிமைகளில் சிலவற்றைப் பரஸ்பரம் விட்டுக்கொடுத்து) தமக்கிடையே சமாதானம் செய்துகொள்வதில் தவறேதும் இல்லை” (4:128) என்ற குர்ஆனின் வசனத்தைப் பற்றி ஆயிஷா (ரலி) அவர்கள் பின்வருமாறு கூறினார்கள்: ஒரு மனிதர் தம் மனைவியிடம் அதிக நாட்டம் கொள்ளாமல் அவளைவிட்டுப் பிரிந்துவிட விரும்புகிறார். இந்நிலையில் மனைவி, ‘‘என் (தாம்பத்திய உரிமைகள்) விஷயத்தில் (நான் விட்டுக்கொடுத்து) நடந்துகொள்கிறேன் (என்னை மணவிலக் குச் செய்துவிட வேண்டாம்)” என்று கேட்டுக்கொள்கிறாள். இது தொடர்பாகவே இந்த இறைவசனம் அருளப்பட்டது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2450</td></tr><tr><td>Arabic No</td><td>2450</td></tr><tr><td>Reference</td><td>Book 46 Hadith 11</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhamamad] telah mengabarkan kepada kami ['Abdul
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'dan nakledilmiştir: Hz. Aişe, "Eğer bir kadın kocasının geçimsizliğinden veya kendisinden yüz çevirmesinden endişe ederse aralarında bir sulh yapmalarında onlara bir günah yoktur" (Nisa 128) ayetinin iniş sebebi hakkında şöyle demiştir: Evli bir erkek eşiyle aynı evde oturuyordu. Ancak onunla çokça cinsel ilişkiye girmiyor ve ondan ayrılmak istiyordu. Bunun üzerine eşi "Sana kendimle ilgili bütün haklarımı helal ediyorum" demişti. Bunun üzerine bu ayet indi. Tekrar: 2694, 4601, 5206
+Aişe r.anha'dan nakledilmiştir: Hz. Aişe, "Eğer bir kadın kocasının geçimsizliğinden veya kendisinden yüz çevirmesinden endişe ederse aralarında bir sulh yapmalarında onlara bir günah yoktur" (Nisa 128) ayetinin iniş sebebi hakkında şöyle demiştir: Evli bir erkek eşiyle aynı evde oturuyordu. Ancak onunla çokça cinsel ilişkiye girmiyor ve ondan ayrılmak istiyordu. Bunun üzerine eşi "Sana kendimle ilgili bütün haklarımı helal ediyorum" demişti. Bunun üzerine bu ayet indi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2450</td></tr><tr><td>Arabic No</td><td>2450</td></tr><tr><td>Reference</td><td>Book 46 Hadith 11</td></tr></tbody></table></div>
 

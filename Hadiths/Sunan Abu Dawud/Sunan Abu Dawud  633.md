@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু হাতেম ...... মুহাম্মাদ ইবনু আব্দুর রহমান থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, জাবের ইবনু আবদুল্লাহ (রাঃ) চাঁদর ব্যতীত কেবলমাত্র একটি জামা পরিধান করে আমাদের নামাযের ইমামতি করেন এবং তার উপর চাঁদর ছিল না। নামায শেষে তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে একটি মাত্র জামা পরিধাণ করে নামায আদায় করতে দেখেছি। (মুসলিম)।
+। মুহাম্মাদ ইবনু ‘আবদুর রহমান আবূ বাকর হতে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) গায়ে কোন চাদর না জড়িয়েই একটি মাত্র জামা পরে আমাদের ইমামতি করলেন। অতঃপর সালাত শেষে তিনি বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে একটি জামা পরে সালাত আদায় করতে দেখেছি।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>633</td></tr><tr><td>Arabic No</td><td>633</td></tr><tr><td>Reference</td><td>Book 2 Hadith 243</td></tr></tbody></table></div>
 

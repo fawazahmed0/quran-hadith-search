@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১২৯৬, আন্তর্জাতিক নাম্বারঃ ৬২১ ১২৯৬-(.../...) হারূন ইবনু সাঈদ আল লায়লী (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসরের সালাত আদায় করতেন যখন ছায়া প্রতিটি বস্তুর সমান হত। (ইসলামী ফাউন্ডেশন ১২৮৩, ইসলামীক সেন্টার ১২৯৫)
+হারূন ইবনু সাঈদ আল লায়লী (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসরের সালাত আদায় করতেন যখন ছায়া প্রতিটি বস্তুর সমান হত। (ইসলামী ফাউন্ডেশন ১২৮৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1409</td></tr><tr><td>Arabic No</td><td>621.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 243</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith that the Messenger of Allah (ﷺ) used to offer the afternoon prayer
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கப்பாப் பின் அல்அரத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் சுடுமணல்(மீது நின்று தொழுவதிலுள்ள சிரமம்) குறித்து முறையிட்டோம். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எங்கள் முறையீட்டை ஏற்கவில்லை. அத்தியாயம் : 5
+கப்பாப் பின் அல்அரத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் சுடுமணல்(மீது நின்று தொழுவதிலுள்ள சிரமம்) குறித்து முறையிட்டோம். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எங்கள் முறையீட்டை ஏற்கவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1409</td></tr><tr><td>Arabic No</td><td>621.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 243</td></tr></tbody></table></div>
 

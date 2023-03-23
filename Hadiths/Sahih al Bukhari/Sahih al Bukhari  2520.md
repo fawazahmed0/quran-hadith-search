@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আসমা বিনতু আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, সূর্য গ্রহণের সময় আমাদেরকে ক্রীতদাস মুক্ত করার নির্দেশ দেয়া হত। (৮৬) (আধুনিক প্রকাশনীঃ ২৩৩৭, ইসলামিক ফাউন্ডেশনঃ ২৩৫৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আসমা বিনতু আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, সূর্য গ্রহণের সময় আমাদেরকে ক্রীতদাস মুক্ত করার নির্দেশ দেয়া হত। (৮৬) (আধুনিক প্রকাশনীঃ ২৩৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2520</td></tr><tr><td>Arabic No</td><td>2520</td></tr><tr><td>Reference</td><td>Book 49 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Abu Bakar] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அஸ்மா பின்த் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் சந்திர (அல்லது சூரிய) கிரகணத்தின்போது அடிமைகளை விடுதலை செய்யும்படி கட்டளையிடப் பட்டிருந்தோம். அத்தியாயம் : 49
+அஸ்மா பின்த் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் சந்திர (அல்லது சூரிய) கிரகணத்தின்போது அடிமைகளை விடுதலை செய்யும்படி கட்டளையிடப் பட்டிருந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2520</td></tr><tr><td>Arabic No</td><td>2520</td></tr><tr><td>Reference</td><td>Book 49 Hadith 4</td></tr></tbody></table></div>
 

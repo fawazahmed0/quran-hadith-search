@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৬। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহর কসম! নিশ্চয়ই আমি নামাযের মধ্যে বাচ্চার কান্না শুনতে পেলে তার মায়ের ব্যাকুল হওয়ার সম্ভাবনায় আমি নামায সংক্ষেপ করি। —সহীহ। ইবনু মাজাহ– (৯৮৯), বুখারী ও মুসলিম। এ অনুচ্ছেদে আবু কাতাদা, আবু সাঈদ ও আবু হুরাইরা (রাঃ) হতেও হাদীস বর্ণিত আছে। আবু ঈসা বলেনঃ আনাসের হাদীসটি হাসান সহীহ।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহর কসম! নিশ্চয়ই আমি নামাযের মধ্যে বাচ্চার কান্না শুনতে পেলে তার মায়ের ব্যাকুল হওয়ার সম্ভাবনায় আমি নামায সংক্ষেপ করি। —সহীহ। ইবনু মাজাহ– (৯৮৯), বুখারী ও মুসলিম। এ অনুচ্ছেদে আবু কাতাদা, আবু সাঈদ ও আবু হুরাইরা (রাঃ) হতেও হাদীস বর্ণিত আছে। আবু ঈসা বলেনঃ আনাসের হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>376</td></tr><tr><td>Arabic No</td><td>376</td></tr><tr><td>Reference</td><td>Book 2 Hadith 228</td></tr></tbody></table></div>
 

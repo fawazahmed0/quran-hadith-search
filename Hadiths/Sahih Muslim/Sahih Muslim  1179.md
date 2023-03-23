@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০৬৬, আন্তর্জাতিক নাম্বারঃ ৫২৬ ১০৬৬-(১৪/...) সুওয়াইদ ইবনু সাঈদ (রহঃ) ইবনু উমার ও আবদুল্লাহ ইবনু দীনার এর মাধ্যমে 'আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণনা করেছেন। তিনি বলেছেন, লোকজন ফজরের সালাত আদায় করছিল। ঠিক তখন একজন সেখানে এসে হাজির হলো ... এতটুকু বর্ণনা করার পর তিনি মালিক বর্ণিত হাদীসের অনুরূপ বিষয়বস্তু রর্ণনা করলেন। (ইসলামী ফাউন্ডেশন ১০৬০, ইসলামীক সেন্টার ১০৬৮)
+সুওয়াইদ ইবনু সাঈদ (রহঃ) ইবনু উমার ও আবদুল্লাহ ইবনু দীনার এর মাধ্যমে 'আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণনা করেছেন। তিনি বলেছেন, লোকজন ফজরের সালাত আদায় করছিল। ঠিক তখন একজন সেখানে এসে হাজির হলো ... এতটুকু বর্ণনা করার পর তিনি মালিক বর্ণিত হাদীসের অনুরূপ বিষয়বস্তু রর্ণনা করলেন। (ইসলামী ফাউন্ডেশন ১০৬০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1179</td></tr><tr><td>Arabic No</td><td>526.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 19</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Ibn 'Umar reported:As the people were engaged in the morning prayer a man came t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் இப்னு உமர் (ரலி) அவர்களிடமிருந்தே மேலும் இரு அறிவிப்பாளர் தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 5
+மேற்கண்ட ஹதீஸ் இப்னு உமர் (ரலி) அவர்களிடமிருந்தே மேலும் இரு அறிவிப்பாளர் தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1179</td></tr><tr><td>Arabic No</td><td>526.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 19</td></tr></tbody></table></div>
 

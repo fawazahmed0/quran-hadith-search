@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যুহারর ইবনু হারব (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যতক্ষণ পর্যন্ত পৃথিবীতে 'আল্লাহ আল্লাহ বলার মতো লোক থাকবে ততক্ষণ পর্যন্ত কিয়ামত হবে না। 'আবদ ইবনু হুমায়দ (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেনঃ ‘আল্লাহু আল্লাহু বলার মতো একটি মানুষ অবশিষ্ট থাকতে কিয়ামত হবে না। (ইসলামিক ফাউন্ডেশনঃ ২৭৩, ২৭৪; ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பூமியில் "அல்லாஹ், அல்லாஹ்" என்று சொல்லப்படாதபோதுதான் மறுமை நாள் நிகழும். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். - அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: "அல்லாஹ், அல்லாஹ்" என்று சொல்லிக்கொண்டிருக்கும் (இறைநம்பிக்கையாளர்) எவர்மீதும் மறுமை நாள் நிகழாது. இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 1
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பூமியில் "அல்லாஹ், அல்லாஹ்" என்று சொல்லப்படாதபோதுதான் மறுமை நாள் நிகழும். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். - அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: "அல்லாஹ், அல்லாஹ்" என்று சொல்லிக்கொண்டிருக்கும் (இறைநம்பிக்கையாளர்) எவர்மீதும் மறுமை நாள் நிகழாது. இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Affân rivayet etti. (Dediki): Bize Hammad rivayet etti. (Dediki): Bize Sabit, Enes'den naklen haber verdiki, Enes Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etti: "Yeryüzünde Allah Allah diyen kalmayıncaya kadar kıyamet kopmayacaktır. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 344
+Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Affân rivayet etti. (Dediki): Bize Hammad rivayet etti. (Dediki): Bize Sabit, Enes'den naklen haber verdiki, Enes Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etti: "Yeryüzünde Allah Allah diyen kalmayıncaya kadar kıyamet kopmayacaktır. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
 

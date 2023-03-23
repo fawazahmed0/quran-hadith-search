@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আমর ইবনু মায়মূন (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ‘উমার (রাঃ)-এর সাথে ছিলাম। তিনি মুযদালিফাতে ফজরের সালাত আদায় করে (মাশ‘আরে হারামে) উকূফ করলেন এবং তিনি বললেন, মুশরিকরা সূর্য না উঠা পর্যন্ত রওয়ানা হত না। তারা বলত, হে সাবীর! আলোকিত হও। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের বিপরীত করলেন এবং তিনি সূর্য উঠার আগেই রওয়ানা হলেন। (৩৮৩৮) (আধুনিক প্রকাশনীঃ ১৫৭০, ইসলামিক ফাউন্ডেশনঃ ১৫৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমর ইবনু মায়মূন (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ‘উমার (রাঃ)-এর সাথে ছিলাম। তিনি মুযদালিফাতে ফজরের সালাত আদায় করে (মাশ‘আরে হারামে) উকূফ করলেন এবং তিনি বললেন, মুশরিকরা সূর্য না উঠা পর্যন্ত রওয়ানা হত না। তারা বলত, হে সাবীর! আলোকিত হও। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের বিপরীত করলেন এবং তিনি সূর্য উঠার আগেই রওয়ানা হলেন। (৩৮৩৮) (আধুনিক প্রকাশনীঃ ১৫৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1684</td></tr><tr><td>Arabic No</td><td>1684</td></tr><tr><td>Reference</td><td>Book 25 Hadith 164</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் மைமூன் (ரஹ்) அவர்கள் கூறியதாவது: உமர் (ரலி) அவர்கள் முஸ்தலிஃபா வில் ஃபஜ்ர் தொழுததை நான் கண்டேன். பிறகு அங்கு அவர்கள் தங்கினார்கள். “இணைவைப்பாளர்கள், சூரியன் உதயமாகாத வரை இங்கிருந்து திரும்பிச் செல்வதில்லை; அவர்கள் ‘ஸபீர் மலை (சூரிய உதயத்தால்) ஒளிரட்டும்!’ என்றும் கூறுவார்கள்; ஆனால், நபி (ஸல்) அவர் களோ இணைவைப்பாளர்களுக்கு மாற்ற மாக நடந்தார்கள்” என்று கூறினார்கள். பிறகு சூரியன் உதிக்கும் முன்பே அங்கிருந்து திரும்பிவிட்டார்கள். அத்தியாயம் : 25
+அம்ர் பின் மைமூன் (ரஹ்) அவர்கள் கூறியதாவது: உமர் (ரலி) அவர்கள் முஸ்தலிஃபா வில் ஃபஜ்ர் தொழுததை நான் கண்டேன். பிறகு அங்கு அவர்கள் தங்கினார்கள். “இணைவைப்பாளர்கள், சூரியன் உதயமாகாத வரை இங்கிருந்து திரும்பிச் செல்வதில்லை; அவர்கள் ‘ஸபீர் மலை (சூரிய உதயத்தால்) ஒளிரட்டும்!’ என்றும் கூறுவார்கள்; ஆனால், நபி (ஸல்) அவர் களோ இணைவைப்பாளர்களுக்கு மாற்ற மாக நடந்தார்கள்” என்று கூறினார்கள். பிறகு சூரியன் உதிக்கும் முன்பே அங்கிருந்து திரும்பிவிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1684</td></tr><tr><td>Arabic No</td><td>1684</td></tr><tr><td>Reference</td><td>Book 25 Hadith 164</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr İbn Meymun şöyle anlatır: "Ömer'in, Müzdelife'de sabah namazını kıldıktan sonra bir süre vakfe yapıp sonra da, "Müşrikler güneş doğmadıkça Müzdelife'den ayrılmazlar ve "Ey Sebîr dağı! Aydınlan" derlerdi. Resulullah bu konuda onlara muhalefet etti ve güneş doğmadan önce Müzdelife'den ayrıldı" demiştir." Tekrar; 3838
+Amr İbn Meymun şöyle anlatır: "Ömer'in, Müzdelife'de sabah namazını kıldıktan sonra bir süre vakfe yapıp sonra da, "Müşrikler güneş doğmadıkça Müzdelife'den ayrılmazlar ve "Ey Sebîr dağı! Aydınlan" derlerdi. Resulullah bu konuda onlara muhalefet etti ve güneş doğmadan önce Müzdelife'den ayrıldı" demiştir." Tekrar;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1684</td></tr><tr><td>Arabic No</td><td>1684</td></tr><tr><td>Reference</td><td>Book 25 Hadith 164</td></tr></tbody></table></div>
 

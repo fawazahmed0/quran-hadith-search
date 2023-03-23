@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ২৫৮. উম্মুল মুমিনীন আয়েশা (রাঃ) বলেনঃ যে ব্যক্তি হজ্জে তামাত্তু করিবে আর তাহার সহিত যদি কুরবানীর পশু জোগাড় না থাকে তবে সে হজ্জের ইহরামের সময় হইতে আরাফাতের দিন পর্যন্ত রোযা রাখিবে। আর এই দিনগুলিতে যদি সে রোযা রাখিতে না পারে তবে মিনা-র দিনগুলিতে সে উহা আদায় করিয়া নিবে। আবদুল্লাহ ইবন উমর (রাঃ)-এর মতও উল্লিখিত বিষয়ে আয়েশা (রাঃ)-এর মতের অনুরূপ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>957</td></tr><tr><td>Arabic No</td><td>957</td></tr><tr><td>Reference</td><td>Book 20 Hadith 6</td></tr></tbody></table></div>
 

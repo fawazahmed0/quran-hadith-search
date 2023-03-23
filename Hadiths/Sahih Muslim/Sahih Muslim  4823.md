@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭১৭, আন্তর্জাতিক নাম্বারঃ ১৮৬০ ৪৭১৭-(.../...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... সালামাহ্ (রাযিঃ) থেকে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬৭০, ইসলামিক সেন্টার ৪৬৭২)
+ইসহাক ইবনু ইবরাহীম (রহঃ) ..... সালামাহ্ (রাযিঃ) থেকে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬৭০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>1860.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 119</td></tr></tbody></table></div>
 

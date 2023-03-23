@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫৪৫। মু'আয ইবনু জাবাল (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতীরা জান্নাতে প্রবেশের সময় তাদের শরীরে লোম থাকবে না, দাঁড়ি-গোফও থাকবে না এবং চোখে সুরমা লাগানো থাকবে। তারা হবে ত্রিশ অথবা তেত্রিশ বছরের যুবক। হাসানঃ দেখুন হাদীস নং (২৫৩৯)। আবূ ঈসা বলেন, এই হাদীসটি হাসান গারীব। উক্ত হাদীসটি কাতাদার কোন কোন শিষ্য তার সূত্রে মুরসালভাবে বর্ণনা করেছেন, মুসনাদরূপে বর্ণনা করেননি।
+। মু'আয ইবনু জাবাল (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতীরা জান্নাতে প্রবেশের সময় তাদের শরীরে লোম থাকবে না, দাঁড়ি-গোফও থাকবে না এবং চোখে সুরমা লাগানো থাকবে। তারা হবে ত্রিশ অথবা তেত্রিশ বছরের যুবক। হাসানঃ দেখুন হাদীস নং (২৫৩৯)। আবূ ঈসা বলেন, এই হাদীসটি হাসান গারীব। উক্ত হাদীসটি কাতাদার কোন কোন শিষ্য তার সূত্রে মুরসালভাবে বর্ণনা করেছেন, মুসনাদরূপে বর্ণনা করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2545</td></tr><tr><td>Arabic No</td><td>2545</td></tr><tr><td>Reference</td><td>Book 38 Hadith 23</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল মালিক ইবনু শুআয়ব ..... আল-ফাদল-ইবনু আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আমাদের নিকট আসেন। আমরা তখন আমাদের জংগলে ছিলাম। আব্বাস (রাঃ)-ও তাঁর সাথে ছিলেন। অতঃপর ঐ জংগলে সুত্‌রাবিহীন অবস্থায় নামায পড়েন যখন তাঁর সামনে আমাদের গাধা ও কুকুর দৌড়দৌড়ি করছিল কিন্তু এটাকে তিনি আপত্তিকর মনে করেন নি। (নাসাঈ)।
+। আল-ফাদল ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট আসলেন। আমরা তখন আমাদের বাগানে ছিলাম। তাঁর সাথে ‘আব্বাস (রাঃ)-ও ছিলেন। তিনি বালু ভূমিতে সালাত আদায় করলেন। অথচ তাঁর সামনে কোন সুতরাহ ছিল না। আমাদের মাদী গাধা এবং কুকুরটি তাঁর সামনে দৌড়াদৌড়ি করছিল। কিন্তু তিনি একে আপত্তিকর মনে করলেন না।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>718</td></tr><tr><td>Arabic No</td><td>718</td></tr><tr><td>Reference</td><td>Book 2 Hadith 328</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Al Laits] dia berkat
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Fadl İbn Abbas'dan; demiştir ki: Biz kendimize ait olan bir arazide bulunduğumuz sırada Nebi (Sallallahu aleyhi ve Sellem) Abbas'la beraber yanımıza geldi. Önünde bize ait bir eşekle bir dişi köpek oynaşırken sütresiz olarak kırda namaz kıldı da onlara aldırmadı. Diğer tahric: Nesaî, kıble; Beyhakî, es-Sünenu'l-kübra, II, 278
+Fadl İbn Abbas'dan; demiştir ki: Biz kendimize ait olan bir arazide bulunduğumuz sırada Nebi (Sallallahu aleyhi ve Sellem) Abbas'la beraber yanımıza geldi. Önünde bize ait bir eşekle bir dişi köpek oynaşırken sütresiz olarak kırda namaz kıldı da onlara aldırmadı. Diğer tahric: Nesaî, kıble; Beyhakî, es-Sünenu'l-kübra, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>718</td></tr><tr><td>Arabic No</td><td>718</td></tr><tr><td>Reference</td><td>Book 2 Hadith 328</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪০৮৭, আন্তর্জাতিক নাম্বারঃ ১৬২৫ ৪০৮৭-(.../...) আহমাদ ইবনু ইউনুস, যুহায়র, আবূ যুবায়র, জাবির (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪০৫০, ইসলামিক সেন্টার ৪০৪৯)
+আহমাদ ইবনু ইউনুস, যুহায়র, আবূ যুবায়র, জাবির (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪০৫০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>1625.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
 

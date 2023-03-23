@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২৮৪, আন্তর্জাতিক নাম্বারঃ ১০৩৯ ২২৮৪-(১০২/...) ইয়াহইয়া ইবনু আইয়ুব ও কুতায়বাহু ইবনু সাঈদ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যে ব্যক্তি দু' একটি খেজুর বা দু' এক গ্রাস খাবার ভিক্ষা চেয়ে বেড়ায় এবং এ নিয়ে চলে যায় সে মিসকীন নয়। বরং প্রকৃত মিসকীন ঐ ব্যক্তি, যে মানুষের কাছে হাত পাতে না। প্রকৃত মিসকীনের স্বরূপ জানতে চাইলে এ আয়াত পাঠ করো- "তারা মানুষের কাছে কাকুতি মিনতির সাথে হাত পাতে না"- (সূরা আল বাকারাহ ২ঃ ২৭৩)। (ইসলামিক ফাউন্ডেশন ২২৬৩ ইসলামীক সেন্টার ২২৬৩)
+ইয়াহইয়া ইবনু আইয়ুব ও কুতায়বাহু ইবনু সাঈদ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যে ব্যক্তি দু' একটি খেজুর বা দু' এক গ্রাস খাবার ভিক্ষা চেয়ে বেড়ায় এবং এ নিয়ে চলে যায় সে মিসকীন নয়। বরং প্রকৃত মিসকীন ঐ ব্যক্তি, যে মানুষের কাছে হাত পাতে না। প্রকৃত মিসকীনের স্বরূপ জানতে চাইলে এ আয়াত পাঠ করো- "তারা মানুষের কাছে কাকুতি মিনতির সাথে হাত পাতে না"- (সূরা আল বাকারাহ ২ঃ ২৭৩)। (ইসলামিক ফাউন্ডেশন ২২৬৩ ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2394</td></tr><tr><td>Arabic No</td><td>1039.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 131</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abu Huraira reported Allah's Messenger (ﷺ) as saying:Miskin is not he who is dismissed with one or two dates, and with one morsel or two morsels. (In fact) miskin is he who abstains (from begging). Read if you so desire (the verse):" They beg not of men importunately)" (ii. 273)
+Abu Huraira reported Allah's Messenger (ﷺ) as saying:Miskin is not he who is dismissed with one or two dates, and with one morsel or two morsels. (In fact) miskin is he who abstains (from begging). Read if you so desire (the verse):" They beg not of men importunately)" (ii)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2394</td></tr><tr><td>Arabic No</td><td>1039.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 131</td></tr></tbody></table></div>
 

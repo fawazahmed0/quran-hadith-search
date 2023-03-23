@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (ইবনু ‘উমার) (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে শুনেছি, তিনি সূর্যোদয়ের সময় এবং সূর্যাস্তের সময় সালাত আদায় করতে নিষেধ করেছেন। (৫৮২) (আধুনিক প্রকাশনীঃ ১৫২১, ইসলামিক ফাউন্ডেশনঃ ১৫২৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (ইবনু ‘উমার) (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে শুনেছি, তিনি সূর্যোদয়ের সময় এবং সূর্যাস্তের সময় সালাত আদায় করতে নিষেধ করেছেন। (৫৮২) (আধুনিক প্রকাশনীঃ ১৫২১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 25 Hadith 113</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: சூரியன் உதிக்கும்போதும் மறையும் போதும் தொழக் கூடாதென நபி (ஸல்) அவர்கள் தடை செய்ததை நான் செவியுற் றிருக்கிறேன். அத்தியாயம் : 25
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: சூரியன் உதிக்கும்போதும் மறையும் போதும் தொழக் கூடாதென நபி (ஸல்) அவர்கள் தடை செய்ததை நான் செவியுற் றிருக்கிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 25 Hadith 113</td></tr></tbody></table></div>
 

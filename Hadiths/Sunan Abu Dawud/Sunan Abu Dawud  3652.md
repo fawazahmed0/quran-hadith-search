@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন মুহাম্মদ (রহঃ) ..... জুনদুব (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি নিজের রায় অনুযায়ী আল্লাহ্‌র কিতাবের তাফসীর করে, আর সে যদি তার বর্ণনায় সঠিকও হয়, তবু সে ভুল করলো।
+। যুনদুব (রাঃ)-এর সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কুরআনের ব্যাখ্যায় নিজ মনগড়া কথা বলে, তার কথা সঠিক হয়ে গেলেও সে ভুল করেছে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad bin Yahya] telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cündüb (b. Abdillah el-Becelî)'den Rasulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet olunmuştur: "Aziz ve Celil olan Allah'ın Kitabı üzerinde (sırf kendi) görüşüne dayanarak fikir beyan eden kimse, (konuşmasında) isabet bile etse yine de hata etmiş olur." Diğer tahric: Müslim, münafikîn; Tirmizî, tefsir; Darimî, mukaddime; Ahmed, b. Hanbel, V, 115
+Cündüb (b. Abdillah el-Becelî)'den Rasulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet olunmuştur: "Aziz ve Celil olan Allah'ın Kitabı üzerinde (sırf kendi) görüşüne dayanarak fikir beyan eden kimse, (konuşmasında) isabet bile etse yine de hata etmiş olur." Diğer tahric: Müslim, münafikîn; Tirmizî, tefsir; Darimî, mukaddime; Ahmed, b. Hanbel, V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
 

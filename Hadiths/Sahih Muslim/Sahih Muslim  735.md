@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬২২, আন্তর্জাতিক নাম্বারঃ ৩২৪ ৬২২-(৪৯/৩২৪) মুহাম্মাদ ইবনু আল মুসান্না (রহঃ) ..... উম্মু সালামাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, তিনি এবং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই পাত্রে অপবিত্রতার গোসল করতেন। (ইসলামিক ফাউন্ডেশনঃ ৬২৬, ইসলামিক সেন্টারঃ ৬৪১)
+মুহাম্মাদ ইবনু আল মুসান্না (রহঃ) ..... উম্মু সালামাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, তিনি এবং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই পাত্রে অপবিত্রতার গোসল করতেন। (ইসলামিক ফাউন্ডেশনঃ ৬২৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>735</td></tr><tr><td>Arabic No</td><td>324</td></tr><tr><td>Reference</td><td>Book 3 Hadith 57</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவியார்) உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: நானும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களும் பெருந்துடக்கிற்காக ஒரே பாத்திரத்தில் குளிப்போம். இதை ஸைனப் பின்த் உம்மி சலமா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 3
+நபி (ஸல்) அவர்களின் துணைவியார்) உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: நானும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களும் பெருந்துடக்கிற்காக ஒரே பாத்திரத்தில் குளிப்போம். இதை ஸைனப் பின்த் உம்மி சலமா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>735</td></tr><tr><td>Arabic No</td><td>324</td></tr><tr><td>Reference</td><td>Book 3 Hadith 57</td></tr></tbody></table></div>
 

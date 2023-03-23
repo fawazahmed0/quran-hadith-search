@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যেন এক পায়ে জুতা পরে না হাঁটে। হয় দু’পা-ইখোলা রাখবে অথবা দু’ পায়ে পরবে। [মুসলিম ৩৭/১৯, হাঃ ২০৯৭] (আধুনিক প্রকাশনী- ৫৪৩০, ইসলামিক ফাউন্ডেশন- ৫৩২৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যেন এক পায়ে জুতা পরে না হাঁটে। হয় দু’পা-ইখোলা রাখবে অথবা দু’ পায়ে পরবে। [মুসলিম ৩৭/১৯, হাঃ ২০৯৭] (আধুনিক প্রকাশনী- ৫৪৩০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5856</td></tr><tr><td>Arabic No</td><td>5856</td></tr><tr><td>Reference</td><td>Book 77 Hadith 73</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abu Az
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் ஒரேயொரு காலணியில் நடக்க வேண்டாம். ஒன்று, இரு காலணிகளையும் ஒருசேரக் கழற்றிவிடுங்கள்; அல்லது இரண்டையும் ஒரு சேர அணிந்து கொள்ளுங்கள். அத்தியாயம் : 77
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் ஒரேயொரு காலணியில் நடக்க வேண்டாம். ஒன்று, இரு காலணிகளையும் ஒருசேரக் கழற்றிவிடுங்கள்; அல்லது இரண்டையும் ஒரு சேர அணிந்து கொள்ளுங்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5856</td></tr><tr><td>Arabic No</td><td>5856</td></tr><tr><td>Reference</td><td>Book 77 Hadith 73</td></tr></tbody></table></div>
 

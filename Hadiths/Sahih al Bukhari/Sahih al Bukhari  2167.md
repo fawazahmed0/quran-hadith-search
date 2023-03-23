@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, লোকেরা বাজারের প্রান্ত সীমায় খাদ্য ক্রয় করে সেখানেই বিক্রি করে দিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্থানান্তর না করে সেখানেই বিক্রি করতে তাদের নিষেধ করেছেন। (২১২৩) (আধুনিক প্রকাশনীঃ ২০১৮, ইসলামিক ফাউন্ডেশনঃ ২০৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, লোকেরা বাজারের প্রান্ত সীমায় খাদ্য ক্রয় করে সেখানেই বিক্রি করে দিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্থানান্তর না করে সেখানেই বিক্রি করতে তাদের নিষেধ করেছেন। (২১২৩) (আধুনিক প্রকাশনীঃ ২০১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2167</td></tr><tr><td>Arabic No</td><td>2167</td></tr><tr><td>Reference</td><td>Book 34 Hadith 118</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபித்தோழர்கள் உணவுப் பொருட் களைக் கடைவீதி துவங்கும் இடத்தில் வாங்கி அதே இடத்தில் விற்றுவந்தனர்; ஆகவே, கடைத்தெருவுக்குள் கொண்டு சொல்லாமல் வாங்கிய இடத்திலேயே அவர்கள் விற்கக் கூடாதென அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் தடை செய்தார்கள். அத்தியாயம் : 34
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபித்தோழர்கள் உணவுப் பொருட் களைக் கடைவீதி துவங்கும் இடத்தில் வாங்கி அதே இடத்தில் விற்றுவந்தனர்; ஆகவே, கடைத்தெருவுக்குள் கொண்டு சொல்லாமல் வாங்கிய இடத்திலேயே அவர்கள் விற்கக் கூடாதென அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2167</td></tr><tr><td>Arabic No</td><td>2167</td></tr><tr><td>Reference</td><td>Book 34 Hadith 118</td></tr></tbody></table></div>
 

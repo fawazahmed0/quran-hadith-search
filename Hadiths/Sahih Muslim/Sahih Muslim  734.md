@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬২১, আন্তর্জাতিক নাম্বারঃ ৩২৩ ৬২১-(৪৮/৩২৩) ইসহাক ইবনু ইবরাহীম (রহঃ) ও মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাইমুনাহ (রাযিঃ) এর উদ্ধৃত্ত পানি দিয়ে গোসল করতেন। (ইসলামিক ফাউন্ডেশনঃ ৬২৫, ইসলামিক সেন্টারঃ ৬৪০)
+ইসহাক ইবনু ইবরাহীম (রহঃ) ও মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাইমুনাহ (রাযিঃ) এর উদ্ধৃত্ত পানি দিয়ে গোসল করতেন। (ইসলামিক ফাউন্ডেশনঃ ৬২৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>734</td></tr><tr><td>Arabic No</td><td>323</td></tr><tr><td>Reference</td><td>Book 3 Hadith 56</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Hatim] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தம் துணைவியாரும் என் சிறிய தாயாருமான) மைமூனா (ரலி) அவர்கள் மிச்சம் வைத்த தண்ணீரில் குளிப்பார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 3
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தம் துணைவியாரும் என் சிறிய தாயாருமான) மைமூனா (ரலி) அவர்கள் மிச்சம் வைத்த தண்ணீரில் குளிப்பார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>734</td></tr><tr><td>Arabic No</td><td>323</td></tr><tr><td>Reference</td><td>Book 3 Hadith 56</td></tr></tbody></table></div>
 

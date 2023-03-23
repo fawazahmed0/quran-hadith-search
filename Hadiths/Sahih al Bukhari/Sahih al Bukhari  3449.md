@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের অবস্থা কেমন হবে যখন তোমাদের মধ্যে মারইয়াম পুত্র ‘ঈসা (আঃ) অবতরণ করবেন আর তোমাদের ইমাম তোমাদের মধ্য থেকেই হবে।* (২২২২, মুসলিম ১/১৭ হাঃ ১৫৫, আহমাদ ৭৬৮৪) (আধুনিক প্রকাশনীঃ ৩১৯৪, ইসলামিক ফাউন্ডেশনঃ ৩২০৩) ‘উকাইল ও আওযা‘ঈ হাদীস বর্ণনায় এর অনুসরণ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3449</td></tr><tr><td>Arabic No</td><td>3449</td></tr><tr><td>Reference</td><td>Book 60 Hadith 119</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ibnu Bukair] telah bercerita kepada kami [Al Laits]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களைச் சேர்ந்த ஒருவரே உங்க ளுக்கு(த் தொழுவிக்கும்) இமாமாக இருக்க மர்யமின் மைந்தர் உங்களிடையே இறங்கு வாரேயானால் அப்போது உங்களுக்கு எப்படியிருக்கும்? இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 60
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களைச் சேர்ந்த ஒருவரே உங்க ளுக்கு(த் தொழுவிக்கும்) இமாமாக இருக்க மர்யமின் மைந்தர் உங்களிடையே இறங்கு வாரேயானால் அப்போது உங்களுக்கு எப்படியிருக்கும்? இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3449</td></tr><tr><td>Arabic No</td><td>3449</td></tr><tr><td>Reference</td><td>Book 60 Hadith 119</td></tr></tbody></table></div>
 

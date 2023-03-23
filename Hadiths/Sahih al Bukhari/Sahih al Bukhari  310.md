@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১০। আয়িশা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ আল্লাহ্‌র রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-এর সঙ্গে তাঁর কোন একজন স্ত্রী ই’তিকাফ করেছিলেন। তিনি রক্ত ও হলদে পানি বের হতে দেখতেন আর তাঁর নীচে একটা পাত্র বসিয়ে রাখতেন এবং সে অবস্থায় সালাত আদায় করতেন। (৩০৯) (আ.প্র. ২৯৯, ই.ফা. ৩০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। আয়িশা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ আল্লাহ্‌র রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-এর সঙ্গে তাঁর কোন একজন স্ত্রী ই’তিকাফ করেছিলেন। তিনি রক্ত ও হলদে পানি বের হতে দেখতেন আর তাঁর নীচে একটা পাত্র বসিয়ে রাখতেন এবং সে অবস্থায় সালাত আদায় করতেন। (৩০৯) (আ.প্র. ২৯৯, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>310</td></tr><tr><td>Arabic No</td><td>310</td></tr><tr><td>Reference</td><td>Book 6 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் அவர்களுடைய துணைவியரில் ஒருவர் ‘இஃதிகாஃப்’ இருந்தார். அப்போது அவர் குசும்பப் பூவின் நீரின் நிறத்தில் உதிரப்போக்கைக் காண்பவராக இருந்தார். அவர் தொழும்போது அவருக்குக் கீழே கையலம்பும் பாத்திரம் இருக்கும். அத்தியாயம் : 6
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் அவர்களுடைய துணைவியரில் ஒருவர் ‘இஃதிகாஃப்’ இருந்தார். அப்போது அவர் குசும்பப் பூவின் நீரின் நிறத்தில் உதிரப்போக்கைக் காண்பவராக இருந்தார். அவர் தொழும்போது அவருக்குக் கீழே கையலம்பும் பாத்திரம் இருக்கும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>310</td></tr><tr><td>Arabic No</td><td>310</td></tr><tr><td>Reference</td><td>Book 6 Hadith 15</td></tr></tbody></table></div>
 

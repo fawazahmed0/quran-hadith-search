@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৩৫২। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখনই তোমার যা খেতে লোভ জাগে, তখনই তা খাওয়াই (যথেচ্ছ আহার) হলো অপচয়।
+। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখনই তোমার যা খেতে লোভ জাগে, তখনই তা খাওয়াই (যথেচ্ছ আহার) হলো অপচয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mawdu</td><td>Al-Albani</td></tr><tr><td>Mawdu</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3352</td></tr><tr><td>Arabic No</td><td>3352</td></tr><tr><td>Reference</td><td>Book 29 Hadith 102</td></tr></tbody></table></div>
 

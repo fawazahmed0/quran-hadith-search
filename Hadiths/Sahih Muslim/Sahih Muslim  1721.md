@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৬০৬, আন্তর্জাতিক নাম্বারঃ ৭৩৭ ১৬০৬-(.../...) আবূ বকর ইবনু আবূ শায়বাহ এবং আবূ কুরায়ব (রহঃ) ..... সকলে হিশাম (রহঃ) থেকে একই সানাদে বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৫৯১, ইসলামীক সেন্টার ১৫৯৮)
+আবূ বকর ইবনু আবূ শায়বাহ এবং আবূ কুরায়ব (রহঃ) ..... সকলে হিশাম (রহঃ) থেকে একই সানাদে বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৫৯১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1721</td></tr><tr><td>Arabic No</td><td>737.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 150</td></tr></tbody></table></div>
 

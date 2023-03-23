@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯৫৯, আন্তর্জাতিক নাম্বারঃ ১৫৮৮ ৩৯৫৯-(.../...) আবূ সাঈদ আশাজ্জ (রহঃ) ..... ফুযায়ল ইবনু গাযওয়ান (রহঃ) হতে এ সানাদে বর্ণিত। তবে তিনি "হাতে হাতে" কথাটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশন ৩৯২২, ইসলামিক সেন্টার ৩৯২১)
+আবূ সাঈদ আশাজ্জ (রহঃ) ..... ফুযায়ল ইবনু গাযওয়ান (রহঃ) হতে এ সানাদে বর্ণিত। তবে তিনি "হাতে হাতে" কথাটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশন ৩৯২২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4067</td></tr><tr><td>Arabic No</td><td>1588.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 106</td></tr></tbody></table></div>
 

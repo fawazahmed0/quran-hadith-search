@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯৯৫, আন্তর্জাতিক নাম্বারঃ ২৩৫৩ ৫৯৯৫-(…/...) মুহাম্মাদ ইবনু রাফি (রহঃ) ..... ইউনুস (রাযিঃ) হতে উপরোক্ত সূত্রে ইয়াযীদ ইবনু যুরাই এর হাদীসের অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮৯১, ইসলামিক সেন্টার ৫৯২৭)
+(…/...) মুহাম্মাদ ইবনু রাফি (রহঃ) ..... ইউনুস (রাযিঃ) হতে উপরোক্ত সূত্রে ইয়াযীদ ইবনু যুরাই এর হাদীসের অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮৯১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6101</td></tr><tr><td>Arabic No</td><td>2353.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 159</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৩৭৫৷ আবদুল্লাহ ইবনু বুসর (রাযিঃ) হতে বর্ণিত আছে, এক লোক অতিরিক্ত বলল, হে আল্লাহর রাসুল! আমার জন্য ইসলামের শারী'আতের বিষয়াদি অতিরিক্ত হয়ে গেছে। সুতরাং আমাকে এমন একটি বিষয় জানান, যা আমি শক্তভাবে আঁকড়ে থাকতে পারি। তিনি বললেনঃ সর্বদা তোমার জিহ্বা যেন আল্লাহ তা'আলার যিকরের দ্বারা সিক্ত থাকে। সহীহঃ ইবনু মাজাহ (হাঃ ৩৭৯৩)। আবূ ঈসা বলেন, উপরোক্ত সূত্রে এ হাদীসটি হাসান গারীব।
+আবদুল্লাহ ইবনু বুসর (রাযিঃ) হতে বর্ণিত আছে, এক লোক অতিরিক্ত বলল, হে আল্লাহর রাসুল! আমার জন্য ইসলামের শারী'আতের বিষয়াদি অতিরিক্ত হয়ে গেছে। সুতরাং আমাকে এমন একটি বিষয় জানান, যা আমি শক্তভাবে আঁকড়ে থাকতে পারি। তিনি বললেনঃ সর্বদা তোমার জিহ্বা যেন আল্লাহ তা'আলার যিকরের দ্বারা সিক্ত থাকে। সহীহঃ ইবনু মাজাহ (হাঃ ৩৭৯৩)। আবূ ঈসা বলেন, উপরোক্ত সূত্রে এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3375</td></tr><tr><td>Arabic No</td><td>3375</td></tr><tr><td>Reference</td><td>Book 48 Hadith 6</td></tr></tbody></table></div>
 

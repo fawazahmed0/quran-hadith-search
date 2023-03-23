@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল মুনকাদির (রহ.) হতে বর্ণিত। তিনি বলেনঃ আমি জাবির ইবনু ‘আবদুল্লাহ (রাযি.)-কে এক কাপড়ে সালাত আদায় করতে দেখেছি। আর তিনি বলেছেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে এক কাপড়ে সালাত আদায় করতে দেখেছি। (৩৫২; মুসলিম, ৪/৫২, হাঃ ৫১৮, আহমাদ ১৫১৩৩) (আধুনিক প্রকাশনীঃ৩৪০, ইসলামিক ফাউন্ডেশনঃ ৩৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুহাম্মাদ ইবনুল মুনকাদির (রহ.) হতে বর্ণিত। তিনি বলেনঃ আমি জাবির ইবনু ‘আবদুল্লাহ (রাযি.)-কে এক কাপড়ে সালাত আদায় করতে দেখেছি। আর তিনি বলেছেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে এক কাপড়ে সালাত আদায় করতে দেখেছি। (৩৫২; মুসলিম, ৪/৫২, হাঃ ৫১৮, আহমাদ ১৫১৩৩) (আধুনিক প্রকাশনীঃ৩৪০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>353</td></tr><tr><td>Arabic No</td><td>353</td></tr><tr><td>Reference</td><td>Book 8 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mutharrif Abu Mush'ab] berkata, telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஹம்மத் பின் அல்முன்கதிர் (ரஹ்) அவர்கள் கூறியதாவது: ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் ஒரே ஆடையை அணிந்து கொண்டு தொழுவதை நான் பார்த்தேன். மேலும் அவர்கள், “நபி (ஸல்) அவர்கள் ஒரே ஆடையை அணிந்துகொண்டு தொழுவதை நான் கண்டேன்” என்றும் கூறினார்கள். அத்தியாயம் : 8
+முஹம்மத் பின் அல்முன்கதிர் (ரஹ்) அவர்கள் கூறியதாவது: ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் ஒரே ஆடையை அணிந்து கொண்டு தொழுவதை நான் பார்த்தேன். மேலும் அவர்கள், “நபி (ஸல்) அவர்கள் ஒரே ஆடையை அணிந்துகொண்டு தொழுவதை நான் கண்டேன்” என்றும் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>353</td></tr><tr><td>Arabic No</td><td>353</td></tr><tr><td>Reference</td><td>Book 8 Hadith 5</td></tr></tbody></table></div>
 

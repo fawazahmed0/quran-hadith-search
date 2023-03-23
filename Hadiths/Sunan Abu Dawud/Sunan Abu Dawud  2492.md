@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহ্ইয়া ইবন মুঈন ..... উম্মে সুলায়মের বোন রুমায়সা হতে বর্ণনা করেন, তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিদ্রা গেলেন আর এমন সময় হাসতে হাসতে জেগে উঠলেন, যখন ঐ রমণীর মাথা ধৌত করছিলেন। তখন তিনি জিজ্ঞাসা করলেন, ইয়া রাসূলাল্লাহ! আমার মাথা ধোয়ার কারণে আপনার হাসি পাচ্ছে না কী? তিনি বললেন, না। এরপর উপরোক্ত হাদীসটি কিছুটা কম-বেশি বর্ণনা করলেন।
+। উম্মু সুলাইম (রাঃ)-এর বোন রুমাইসা সূত্রে বর্ণিত। তিনি বলেন, একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘুমালেন এবং হাসতে হাসতে ঘুম থেকে জেগে উঠলেন। তখন তিনি (উম্মু হারাম) নিজের মাথা ধৌত করছিলেন। তিনি জিজ্ঞেস করলেন, হে আল্লাহর রাসূল! আপনি কি আমাকে মাথা ধৌত করতে দেখে হাসছেন? তিনি বললেনঃ না। অতঃপর হাদীসের বাকী অংশ কিছুটা কম-বেশিসহ পূর্বের হাদীসের অনুরূপ বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2492</td></tr><tr><td>Arabic No</td><td>2492</td></tr><tr><td>Reference</td><td>Book 15 Hadith 16</td></tr></tbody></table></div>
 

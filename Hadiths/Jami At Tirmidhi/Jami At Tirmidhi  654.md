@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬৫৪। মাহমূদ ইবনু গাইলান ইয়াহইয়া ইবনু আদম এর সূত্রে আব্দুর রহীম ইবনু সুলাইমান হতে অনুরূপ হাদীস বর্ণনা করেছেন। দেখুন পূর্বের হাদীস। আবূ ঈসা বলেন, এই সূত্রে হাদীসটি গরীব।
+। মাহমূদ ইবনু গাইলান ইয়াহইয়া ইবনু আদম এর সূত্রে আব্দুর রহীম ইবনু সুলাইমান হতে অনুরূপ হাদীস বর্ণনা করেছেন। দেখুন পূর্বের হাদীস। আবূ ঈসা বলেন, এই সূত্রে হাদীসটি গরীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>654</td></tr><tr><td>Arabic No</td><td>654</td></tr><tr><td>Reference</td><td>Book 7 Hadith 38</td></tr></tbody></table></div>
 

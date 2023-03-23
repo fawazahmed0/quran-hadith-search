@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসহাক ইবন ইসমাঈল তালেকানী ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন আলী (রাঃ) ফাতিমা (রাঃ)-কে বিবাহ করেন, তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে বলেন, তুমি তাঁকে (ফাতিমাকে) কিছু প্রদান কর। তিনি (আলী) বলেন, আমার নিকট কিছু নাই। তিনি জিজ্ঞাসা করেন, তোমার হাতামীয়া লৌহ বর্মটি কোথায়? (তা প্রদান করে সহবাস করতে পার)।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, যখন আলী (রাযি.) ফাতিমাহ (রাযি.)-কে বিয়ে করেন, তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ তাকে কিছু প্রদান করো। তিনি বললেন, আমার নিকট কিছুই নেই। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেনঃ তোমার হুতামীয়া বর্মটি কোথায়? (সেটাই দাও)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2125</td></tr><tr><td>Arabic No</td><td>2125</td></tr><tr><td>Reference</td><td>Book 12 Hadith 80</td></tr></tbody></table></div>
 

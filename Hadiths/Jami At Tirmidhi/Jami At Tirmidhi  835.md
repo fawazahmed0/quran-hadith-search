@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮৩৫। ইয়ালা ইবনু উমাইয়া (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, এক বেদুইনকে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম অবস্থায় জুব্বা পরিহিত দেখলেন। তিনি তাকে তা খুলার নির্দেশ দিলেন। - সহীহ, সহীহ আবু দাউদ ১৫৯৬, ১৫৯৯, বুখারি, মুসলিম পূর্ণরূপে।
+। ইয়ালা ইবনু উমাইয়া (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, এক বেদুইনকে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম অবস্থায় জুব্বা পরিহিত দেখলেন। তিনি তাকে তা খুলার নির্দেশ দিলেন। - সহীহ, সহীহ আবু দাউদ ১৫৯৬, ১৫৯৯, বুখারি, মুসলিম পূর্ণরূপে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>835</td></tr><tr><td>Arabic No</td><td>835</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
 

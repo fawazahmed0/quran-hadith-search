@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik bahwa [Abu Zinad] mengabarkan kepadanya, 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Şihab'a Rivâyet edildi: Sakîf kabilesinden bir kişi kişi, Gaylan b. Seleme es-Sekafî'dir. müslüman olduğu zaman on karısı vardı. Resûlüllah (sallallahü aleyhi ve sellem) ona: «Dört karın kalsın, diğerlerini boşa» buyurdu. İbn Abdülber der ki; Muvatta ravileri ile İbn Şihab ravilerinin çoğu böyle Rivâyet ettiler: ve İbn Mace, mevsûl olarak Rivâyet ederler. Tirmizî, 9- Nikâh, 33; İbn Mace, 9 -Nikâh, 40
+İbn Şihab'a Rivâyet edildi: Sakîf kabilesinden bir kişi kişi, Gaylan b. Seleme es-Sekafî'dir. müslüman olduğu zaman on karısı vardı. Resûlüllah (sallallahü aleyhi ve sellem) ona: «Dört karın kalsın, diğerlerini boşa» buyurdu. İbn Abdülber der ki; Muvatta ravileri ile İbn Şihab ravilerinin çoğu böyle Rivâyet ettiler: ve İbn Mace, mevsûl olarak Rivâyet ederler. Tirmizî, 9- Nikâh, 33; İbn Mace, 9 -Nikâh
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1532</td></tr><tr><td>Arabic No</td><td>1532</td></tr><tr><td>Reference</td><td>Book 41 Hadith 4</td></tr></tbody></table></div>
 

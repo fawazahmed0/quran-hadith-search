@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈক ইয়াহূদীর কাছ হতে বাকীতে খাদ্য খরিদ করে তাঁর লৌহ নির্মিত বর্ম ইয়াহূদীর কাছে বন্ধক রেখেছেন। (২০৬৮) (আধুনিক প্রকাশনীঃ ২০৯২, ইসলামিক ফাউন্ডেশনঃ ২১০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈক ইয়াহূদীর কাছ হতে বাকীতে খাদ্য খরিদ করে তাঁর লৌহ নির্মিত বর্ম ইয়াহূদীর কাছে বন্ধক রেখেছেন। (২০৬৮) (আধুনিক প্রকাশনীঃ ২০৯২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2251</td></tr><tr><td>Arabic No</td><td>2251</td></tr><tr><td>Reference</td><td>Book 35 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Salam] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு யூதரிடம் உணவுப் பொருளைக் கடனாக வாங்கினார்கள்; (அதற்காக) தமது இரும்புக் கவசத்தை அந்த யூதரிடம் அடைமானம் வைத்தார்கள். அத்தியாயம் : 35
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு யூதரிடம் உணவுப் பொருளைக் கடனாக வாங்கினார்கள்; (அதற்காக) தமது இரும்புக் கவசத்தை அந்த யூதரிடம் அடைமானம் வைத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2251</td></tr><tr><td>Arabic No</td><td>2251</td></tr><tr><td>Reference</td><td>Book 35 Hadith 12</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৬২। ইমাম তিরমিয়ী বলেনঃ আমি আমার গ্রন্থে এটি লেখা পেয়েছি যে, আলী ইবনু হুজর, ইসমাঈল ইবনু ইবরাহীম হতে, তিনি ইবনু জুরাইজের সূত্রে হাদীস বর্ণনা করেছেন।
+। ইমাম তিরমিয়ী বলেনঃ আমি আমার গ্রন্থে এটি লেখা পেয়েছি যে, আলী ইবনু হুজর, ইসমাঈল ইবনু ইবরাহীম হতে, তিনি ইবনু জুরাইজের সূত্রে হাদীস বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>162</td></tr><tr><td>Arabic No</td><td>162</td></tr><tr><td>Reference</td><td>Book 2 Hadith 14</td></tr></tbody></table></div>
 

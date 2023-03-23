@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কাতাদাহ্ আনসারী (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মেয়ে যয়নবের গর্ভজাত ও আবুল আস ইবনু রাবী‘আহ ইবনু ‘আবদ শামস (রহ.)-এর ঔরসজাত কন্যা উমামাহ (রাযি.)-কে কাঁধে নিয়ে সালাত আদায় করতেন। তিনি যখন সিজদায় যেতেন তখন তাকে রেখে দিতেন আর যখন দাঁড়াতেন তখন তাকে তুলে নিতেন। (৫৯৯৬; মুসলিম ৫/৯, হাঃ ৫৪৩, আহমাদ ২২৬৪২) (আধুনিক প্রকাশনীঃ ৪৮৬, ইসলামিক ফাউন্ডেশনঃ ৪৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ কাতাদাহ্ আনসারী (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মেয়ে যয়নবের গর্ভজাত ও আবুল আস ইবনু রাবী‘আহ ইবনু ‘আবদ শামস (রহ.)-এর ঔরসজাত কন্যা উমামাহ (রাযি.)-কে কাঁধে নিয়ে সালাত আদায় করতেন। তিনি যখন সিজদায় যেতেন তখন তাকে রেখে দিতেন আর যখন দাঁড়াতেন তখন তাকে তুলে নিতেন। (৫৯৯৬; মুসলিম ৫/৯, হাঃ ৫৪৩, আহমাদ ২২৬৪২) (আধুনিক প্রকাশনীঃ ৪৮৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>516</td></tr><tr><td>Reference</td><td>Book 8 Hadith 163</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூகத்தாதா (ஹாரிஸ் பின் ரிப்ஈ) அல்அன்சாரி (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தம் புதல்வி ஸைனபுக்கும் - அபுல்ஆஸ் பின் ரபீஆ பின் அப்தி ஷம்ஸ் (ரலி) அவர்களுக்கும் பிறந்த (தம் பேத்தி) உமாமா பின்த் ஸைனபை (தமது தோளில்) சுமந்துகொண்டு தொழுதிருக்கிறார்கள். சிரவணக்கம் செய்யச் செல்லும்போது உமாமாவை இறக்கிவிடுவார்கள்; எழுந்து நிற்கும்போது (மீண்டும்) உமாமாவை (தமது தோளில்) தூக்கிக்கொள்வார்கள்.64 அத்தியாயம் : 8
+அபூகத்தாதா (ஹாரிஸ் பின் ரிப்ஈ) அல்அன்சாரி (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தம் புதல்வி ஸைனபுக்கும் - அபுல்ஆஸ் பின் ரபீஆ பின் அப்தி ஷம்ஸ் (ரலி) அவர்களுக்கும் பிறந்த (தம் பேத்தி) உமாமா பின்த் ஸைனபை (தமது தோளில்) சுமந்துகொண்டு தொழுதிருக்கிறார்கள். சிரவணக்கம் செய்யச் செல்லும்போது உமாமாவை இறக்கிவிடுவார்கள்; எழுந்து நிற்கும்போது (மீண்டும்) உமாமாவை (தமது தோளில்) தூக்கிக்கொள்வார்கள்.64 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>516</td></tr><tr><td>Reference</td><td>Book 8 Hadith 163</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Katâde el-Ensârî'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem kızı Zeyneb'in Ebu'l-As İbn Rabî' İbn Abdişems'ten olma kızı Ümâme'yi taşıyarak namaz kılardı. Secdeye vardığı zaman onu bırakır, ayağa kalktığı zaman ise tekrar alırdı. Tekrar: 5996
+Ebu Katâde el-Ensârî'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem kızı Zeyneb'in Ebu'l-As İbn Rabî' İbn Abdişems'ten olma kızı Ümâme'yi taşıyarak namaz kılardı. Secdeye vardığı zaman onu bırakır, ayağa kalktığı zaman ise tekrar alırdı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>516</td></tr><tr><td>Reference</td><td>Book 8 Hadith 163</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ সা‘ঈদী (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, যদি কোন কিছুতে অকল্যাণ থেকে থাকে, তবে তা আছে নারী, ঘোড়া ও বাড়িতে। (৫০৯৫) (মুসলিম ৩৯/৩৪ হাঃ ২২২৬, ) (আধুনিক প্রকাশনীঃ ২৬৪৯, ইসলামিক ফাউন্ডেশনঃ ২৬৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ সা‘ঈদী (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, যদি কোন কিছুতে অকল্যাণ থেকে থাকে, তবে তা আছে নারী, ঘোড়া ও বাড়িতে। (৫০৯৫) (মুসলিম ৩৯/৩৪ হাঃ ২২২৬, ) (আধুনিক প্রকাশনীঃ ২৬৪৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2859</td></tr><tr><td>Arabic No</td><td>2859</td></tr><tr><td>Reference</td><td>Book 56 Hadith 75</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Abu Hazi
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அபசகுனம் எதிலாவது இருக்குமானால் பெண்ணிலும் குதிரையிலும் வீட்டிலும் தான் இருக்கும். இதை சஹ்ல் பின் சஅத் அஸ்ஸாஇதீ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.33 அத்தியாயம் : 56
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அபசகுனம் எதிலாவது இருக்குமானால் பெண்ணிலும் குதிரையிலும் வீட்டிலும் தான் இருக்கும். இதை சஹ்ல் பின் சஅத் அஸ்ஸாஇதீ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.33 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2859</td></tr><tr><td>Arabic No</td><td>2859</td></tr><tr><td>Reference</td><td>Book 56 Hadith 75</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম (রহঃ) .... আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুলল্লাহ সালল্লালল্লাহু আলাইহে ওয়াসালল্লাম আসরের পর (নফল) নামায পড়তে নিষেধ করেছেন; তবে যদি সূর্য উপরে থাকে। (নাসাঈ)
+। ‘আলী (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আসরের পর সালাত আদায় করতে নিষেধ করেছেন। অবশ্য সূর্য উঁচুতে থাকাবস্থায় আদায় করা যায়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1274</td></tr><tr><td>Arabic No</td><td>1274</td></tr><tr><td>Reference</td><td>Book 5 Hadith 25</td></tr></tbody></table></div>
 

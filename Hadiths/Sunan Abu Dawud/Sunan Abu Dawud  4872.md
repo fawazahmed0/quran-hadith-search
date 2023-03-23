@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু'মুখ বিশিষ্ট ব্যক্তি (অর্থাৎ মুনাফিক) নিকৃষ্টতম, যে এক পক্ষের লোকের সাথে এক মুখে এবং অপর পক্ষের লোকের সাথে অন্য মুখে কথা বলে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সবচেয়ে নিকৃষ্ট মানুষ হলো দ্বিমুখী চরিত্রের লোক। তারা এক দলের নিকট এক চেহারা নিয়ে এবং অপর দলের নিকট অন্য চেহারা নিয়ে আত্মপ্রকাশ করে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4872</td></tr><tr><td>Arabic No</td><td>4872</td></tr><tr><td>Reference</td><td>Book 43 Hadith 100</td></tr></tbody></table></div>
 

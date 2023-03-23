@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯৩, আন্তর্জাতিক নাম্বারঃ ২০৬ ৩৯৩-(৩৫২/...) 'আমূর আন নাকিদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৩৯৯, ইসলামিক সেন্টারঃ ৪১২)
+আমূর আন নাকিদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৩৯৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>505</td></tr><tr><td>Arabic No</td><td>206.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 411</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith is narrated from the Apostle (ﷺ) by another chain of narrators, 'A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>505</td></tr><tr><td>Arabic No</td><td>206.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 411</td></tr></tbody></table></div>
 

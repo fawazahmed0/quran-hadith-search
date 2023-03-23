@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, সূরা ছোয়াদের সিজ্দা একান্ত জরুরী নয়। কিন্তু আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এ সূরায় সিজ্দা করতে দেখেছি। (১০৬৯) (আধুনিক প্রকাশনীঃ ৩১৭০, ইসলামিক ফাউন্ডেশনঃ ৩১৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, সূরা ছোয়াদের সিজ্দা একান্ত জরুরী নয়। কিন্তু আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এ সূরায় সিজ্দা করতে দেখেছি। (১০৬৯) (আধুনিক প্রকাশনীঃ ৩১৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3422</td></tr><tr><td>Arabic No</td><td>3422</td></tr><tr><td>Reference</td><td>Book 60 Hadith 94</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Wuha
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ‘ஸாத்’ (எனும் 38ஆவது) அத்தியாயத்தில் உள்ள இறைவசனத்திற்கு சஜ்தா (சிரவணக்கம்) செய்வது, கட்டாயம் செய்யப்பட வேண்டிய(வை என்று கட்டளை யிடப்பட்டுள்ள) சஜ்தாக்களில் ஒன்றல்ல. ஆயினும், நபி (ஸல்) அவர்கள் அந்த இடத்தில் (38:24) சஜ்தா செய்வதை நான் பார்த்திருக்கிறேன். அத்தியாயம் : 60
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ‘ஸாத்’ (எனும் 38ஆவது) அத்தியாயத்தில் உள்ள இறைவசனத்திற்கு சஜ்தா (சிரவணக்கம்) செய்வது, கட்டாயம் செய்யப்பட வேண்டிய(வை என்று கட்டளை யிடப்பட்டுள்ள) சஜ்தாக்களில் ஒன்றல்ல. ஆயினும், நபி (ஸல்) அவர்கள் அந்த இடத்தில் (38:24) சஜ்தா செய்வதை நான் பார்த்திருக்கிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3422</td></tr><tr><td>Arabic No</td><td>3422</td></tr><tr><td>Reference</td><td>Book 60 Hadith 94</td></tr></tbody></table></div>
 

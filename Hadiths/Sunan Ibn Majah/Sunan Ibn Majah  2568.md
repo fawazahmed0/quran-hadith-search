@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৫৬৮। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোন ব্যক্তি অপর ব্যক্তিকে ‘‘হে মুখান্নাস’’ (নপুংসক) বললে তাকে বিশটি বেত্রাঘাত করো এবং কোন ব্যক্তি অপর ব্যক্তিকে ‘‘হে লূতী’’ (সমকামী) বললে তাকেও বিশটি বেত্রাঘাত করো।
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোন ব্যক্তি অপর ব্যক্তিকে ‘‘হে মুখান্নাস’’ (নপুংসক) বললে তাকে বিশটি বেত্রাঘাত করো এবং কোন ব্যক্তি অপর ব্যক্তিকে ‘‘হে লূতী’’ (সমকামী) বললে তাকেও বিশটি বেত্রাঘাত করো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2568</td></tr><tr><td>Arabic No</td><td>2568</td></tr><tr><td>Reference</td><td>Book 20 Hadith 36</td></tr></tbody></table></div>
 

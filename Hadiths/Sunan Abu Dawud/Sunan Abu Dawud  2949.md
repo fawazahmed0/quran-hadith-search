@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালামা ইবন শাবীব (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি আমার তরফ হতে তোমাদেরকে না কিছু দেই এবং না কিছু আটকিয়ে রাখি। বরং আমি তো বণ্টনকারী মাত্র। যেখানে হুকুম হয়, আমি সেখানেই খরচ করি।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আমি তোমাদেরকে আমার ইচ্ছা মতো কোনো জিনিস দেই না এবং আমার ইচ্ছা মতো তোমাদেরকে তা থেকে বঞ্চিত করি না। আমি তো কেবল কোষাধ্যক্ষ বা বণ্টনকারী। আমাকে যেখানে ব্যয়ের নির্দেশ দেয়া হয় সেখানেই ব্যয় করি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2949</td></tr><tr><td>Arabic No</td><td>2949</td></tr><tr><td>Reference</td><td>Book 20 Hadith 22</td></tr></tbody></table></div>
 

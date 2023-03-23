@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২২৪৩। আয়েশা (রাঃ) থেকে বর্ণিত। এক ব্যক্তি একটি গোলাম খরিদ করে তার দ্বারা কিছু উপার্জনও করে। অতঃপর গোলামের মধ্যে কিছু দোষ পেয়ে সে তা ফেরত দেয়। বিক্রেতা এসে বললো, ইয়া রাসূলাল্লাহ! সে আমার গোলাম দ্বারা কিছু উপার্জনও করেছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ উপার্জন ভোগ দায় বহনের সাথে যুক্ত।
+। আয়েশা (রাঃ) থেকে বর্ণিত। এক ব্যক্তি একটি গোলাম খরিদ করে তার দ্বারা কিছু উপার্জনও করে। অতঃপর গোলামের মধ্যে কিছু দোষ পেয়ে সে তা ফেরত দেয়। বিক্রেতা এসে বললো, ইয়া রাসূলাল্লাহ! সে আমার গোলাম দ্বারা কিছু উপার্জনও করেছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ উপার্জন ভোগ দায় বহনের সাথে যুক্ত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2243</td></tr><tr><td>Arabic No</td><td>2243</td></tr><tr><td>Reference</td><td>Book 12 Hadith 107</td></tr></tbody></table></div>
 

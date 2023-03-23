@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... আবদুল্লাহ্‌ ইবন যাম'আ (রাঃ) এ হাদীছ বর্ণনা প্রসঙ্গে বলেনঃ যখন নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উমার (রাঃ) এর কণ্ঠস্বর শ্রবণ করেন, তখন তিনি বাইরে চলে আসেন, এমন কি তিনি তাঁর মাথা হুজরার বাইরে এনে বলেনঃ না, না, না! আবূ কুহাফার ছেলের উচিত লোকদের নিয়ে সালাত আদায় করা। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাগাম্বিত হয়ে এরূপ উক্তি করেন।
+। উবাইদুল্লাহ ইবনু আব্দুল্লাহ ইবনু উত্ববাহ (রহঃ) সূত্রে বর্ণিত। এ হাদীস সম্পর্কে তাকে আব্দুল্লাহ ইবনু যাম‘আহ (রাঃ) জানিয়েছেন। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উমার (রাঃ)-এর কণ্ঠস্বর শোনার সঙ্গে উঠে এসে তাঁর ঘর থেকে মাথা বের করে ক্রোধের সঙ্গে বললেন, না, না, না; আবূ কুহাফার পুত্র যেন লোকদের সালাতে ইমামতি করে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4661</td></tr><tr><td>Arabic No</td><td>4661</td></tr><tr><td>Reference</td><td>Book 42 Hadith 66</td></tr></tbody></table></div>
 

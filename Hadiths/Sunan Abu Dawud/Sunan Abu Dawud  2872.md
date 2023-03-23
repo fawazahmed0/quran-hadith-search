@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুমায়ন ইবন মাস‘আদা (রহঃ) ...... ‘আমর ইবন শু‘আয়ব (রহঃ) তাঁর পিতা হতে এবং তিনি তাঁর দাদা থেকে বর্ণনা করেছেন যে, একদা জনৈক ব্যক্তি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়ে বলেঃ আমি ফকীর, আমার কিছুই নেই। কিন্তু আমার প্রতিপালনে একজন ইয়াতীম আছে (যার সম্পদ আছে)। তিনি বললেনঃ তুমি তোমার ইয়াতীমের মাল হতে এ শর্তে খেতে পার যে, তুমি অমিতব্যয়ী হবে না, প্রয়োজনের অতিরিক্ত গ্রহণ করবে না, যাতে মাল তাড়াতাড়ি নিঃশেষ হয়ে যায় এবং ইয়াতীমের মাল হতে নিজের জন্য কিছু জমা করবে না।
+। ‘আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, আমি গরীব মানুষ। আমার কোনো সম্পদ নেই। তবে আমার অধীনে একজন ইয়াতীম আছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি ইয়াতীমের সম্পদ থেকে খেতে পারো। কিন্তু কোনো অপচয় করবে না, অতিরিক্ত গ্রহণ করবে না এবং তোমার নিজের জন্য কিছু সঞ্চয়ও করবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2872</td></tr><tr><td>Arabic No</td><td>2872</td></tr><tr><td>Reference</td><td>Book 18 Hadith 11</td></tr></tbody></table></div>
 

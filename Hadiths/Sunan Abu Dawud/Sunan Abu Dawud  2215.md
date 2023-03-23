@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্ হাসান ইবন আলী .... ইবন ইসহাক (রহঃ) হতে পূর্বোক্ত হাদীসের সনদে হাদীস বর্ণিত হয়েছে। তবে তাঁর মতে ইর্‌ক হলো তিরিশ সা' এর সমান। ইমাম আবূ দাঊদ (রহঃ) বলেন, ইয়াহ্ইয়া ইবন আদম বর্ণিত হাদীসের চেয়ে এ হাদীসে বর্ণিত অভিমতটি অধিক সত্য।
+। ইবনু ইসহাক (রহ.) থেকে এই সনদে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। এতে আরো আছে, ‘আরাক হলো তিরিশ সা‘-এর সমান। ইমাম আবূ দাঊদ (রহ.) বলেন, হাদীসটি ইয়াহইয়া ইবনু আদমের বর্ণিত হাদীসের চেয়ে অধিকতর বিশুদ্ধ।[1] হাসান, তার এ কথাটি বাদেঃ ‘‘ষাট সা‘তে এক ‘আরাক।’’
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2215</td></tr><tr><td>Arabic No</td><td>2215</td></tr><tr><td>Reference</td><td>Book 13 Hadith 41</td></tr></tbody></table></div>
 

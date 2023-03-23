@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জুবায়র ইবনু মৃত‘ইম (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মাগরিবের সালাতে সূরাহ্ আত-তূর পড়তে শুনেছি। (৩০৫০, ৪০২৩,৪৮৫৪ মুসলিম ৪/৩৫, হাঃ ৪৬৩৪ আহমাদ ১৬৭৭৩) (আধুনিক প্রকাশনীঃ ৭২১, ইসলামিক ফাউন্ডেশনঃ ৭২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জুবায়র ইবনু মৃত‘ইম (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মাগরিবের সালাতে সূরাহ্ আত-তূর পড়তে শুনেছি। (৩০৫০, ৪০২৩,৪৮৫৪ মুসলিম ৪/৩৫, হাঃ ৪৬৩৪ আহমাদ ১৬৭৭৩) (আধুনিক প্রকাশনীঃ ৭২১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>765</td></tr><tr><td>Arabic No</td><td>765</td></tr><tr><td>Reference</td><td>Book 10 Hadith 159</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜுபைர் பின் முத்இம் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மஃக்ரிப் தொழுகையில் ‘அத்தூர்’ (எனும் 52ஆவது) அத்தியாயத்தை ஓதியதை நான் செவியுற்றேன். அத்தியாயம் : 10
+ஜுபைர் பின் முத்இம் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மஃக்ரிப் தொழுகையில் ‘அத்தூர்’ (எனும் 52ஆவது) அத்தியாயத்தை ஓதியதை நான் செவியுற்றேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>765</td></tr><tr><td>Arabic No</td><td>765</td></tr><tr><td>Reference</td><td>Book 10 Hadith 159</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muhammed İbn Cübeyr İbn Mut'im babasının şöyle dediğini naklettir: "Resûlullah Sallallahu Aleyhi ve Sellem'İn akşam namazında Tur sûresini okuduğunu işittim. Tekrar: 3050, 4023 ve 4854
+Muhammed İbn Cübeyr İbn Mut'im babasının şöyle dediğini naklettir: "Resûlullah Sallallahu Aleyhi ve Sellem'İn akşam namazında Tur sûresini okuduğunu işittim. Tekrar: 3050, 4023 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>765</td></tr><tr><td>Arabic No</td><td>765</td></tr><tr><td>Reference</td><td>Book 10 Hadith 159</td></tr></tbody></table></div>
 

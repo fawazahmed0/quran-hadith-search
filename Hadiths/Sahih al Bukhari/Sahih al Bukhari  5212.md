@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, সওদা বিনতে যাম‘আহ (রাঃ) তাঁর পালার রাত ‘আয়িশাহ (রাঃ)-কে দান করেছিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আয়িশাহ (রাঃ)-এর জন্য দু’দিন বরাদ্দ করেন- ‘আয়িশাহ (রাঃ)-’র দিন এবং সওদা (রাঃ)-’র দিন। [২৫৯৩] (আধুনিক প্রকাশনী- ৪৮২৯, ইসলামিক ফাউন্ডেশন- ৪৮৩২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, সওদা বিনতে যাম‘আহ (রাঃ) তাঁর পালার রাত ‘আয়িশাহ (রাঃ)-কে দান করেছিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আয়িশাহ (রাঃ)-এর জন্য দু’দিন বরাদ্দ করেন- ‘আয়িশাহ (রাঃ)-’র দিন এবং সওদা (রাঃ)-’র দিন। [২৫৯৩] (আধুনিক প্রকাশনী- ৪৮২৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5212</td></tr><tr><td>Arabic No</td><td>5212</td></tr><tr><td>Reference</td><td>Book 67 Hadith 145</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Malik bin Isma'il] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களுடைய துணைவி யாரான) சவ்தா பின்த் ஸம்ஆ (ரலி) அவர்கள், (நபி (ஸல்) அவர்கள்) தம்மிடம் தங்கும் நாளை எனக்கு அன்பளிப்பாக (விட்டு)க் கொடுத்தார்கள். நபி (ஸல்) அவர்கள் என்னுடைய நாளையும் ‘சவ்தா’ அவர்களின் நாளையும் எனக்கே ஒதுக்கிவந்தார்கள்.144 அத்தியாயம் : 67
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களுடைய துணைவி யாரான) சவ்தா பின்த் ஸம்ஆ (ரலி) அவர்கள், (நபி (ஸல்) அவர்கள்) தம்மிடம் தங்கும் நாளை எனக்கு அன்பளிப்பாக (விட்டு)க் கொடுத்தார்கள். நபி (ஸல்) அவர்கள் என்னுடைய நாளையும் ‘சவ்தா’ அவர்களின் நாளையும் எனக்கே ஒதுக்கிவந்தார்கள்.144 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5212</td></tr><tr><td>Arabic No</td><td>5212</td></tr><tr><td>Reference</td><td>Book 67 Hadith 145</td></tr></tbody></table></div>
 

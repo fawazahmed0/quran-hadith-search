@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আল্-আলা ..... মুহাম্মদ ইবন আমর (রহঃ) পূর্বোক্ত হাদীসের সনদে হাদীস বর্ণনা করেছেন। আর অতিরিক্ত বর্ণনা করেছেন যে, যদি সে ক্রন্দন করে বা চুপ থাকে। এখানে بَكَتْ (সে ক্রন্দন করে) শব্দটি অতিরিক্ত।
+। মুহাম্মাদ ইবনু ‘আমর (রহ.) থেকে পূর্বোক্ত হাদীস উক্ত সনদে বর্ণিত। তবে তাতে আরো রয়েছেঃ ‘‘তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেনঃ ‘যদি সে কাঁদে অথবা নীরব থাকে।’ এখানে ‘বাকাত্’ শব্দটি অতিরিক্ত। আবূ দাঊদ (রহ.) বলেন, ‘বাকাত্’ শব্দটি নির্ভরযোগ্য নয়। এটি হাদীসের মধ্যে সংশয়। যা ইবনু ইদরীস থেকে হয়েছে। আর ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত হয়েছে যে, তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! কুমারী (বিয়ের) কথাবার্তা বলতে লজ্জাবোধ করে। তিনি বললেনঃ তার চুপ থাকা তার সম্মতি।[1] আবূ হুরাইরাহ বর্ণিত হাদীসটি শায। আয়িশাহ বর্ণিত হাদীসটি সহীহ। ইরওয়া (১৮৩৪, ১৮৩৮)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2094</td></tr><tr><td>Arabic No</td><td>2094</td></tr><tr><td>Reference</td><td>Book 12 Hadith 49</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রাঃ) .... ইবনে আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঈদের নামায আযান ও ইকামত ব্যতীত আদায় করেন এবং আবু বকর (রাঃ), উমর (রাঃ) ও উসমান (রাঃ)-ও তদ্রূপ করেন। (ইবনে মাজা)
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বাকর এবং ‘উমার অথবা ‘উসমান (রাঃ) আযান ও ইক্বামাত(ইকামত/একামত) ছাড়াই ‘ঈদের সালাত আদায় করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1147</td></tr><tr><td>Arabic No</td><td>1147</td></tr><tr><td>Reference</td><td>Book 2 Hadith 758</td></tr></tbody></table></div>
 

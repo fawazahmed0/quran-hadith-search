@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (খিলাফাতের) এই বিষয়টি সব সময় কুরাইশদের মধ্যেই থাকবে, যতদিন তাদের থেকে দু’জন লোকও অবশিষ্ট থাকবে। [৩৫০১] (আধুনিক প্রকাশনী- ৬৬৪১, ইসলামিক ফাউন্ডেশন- ৬৬৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (খিলাফাতের) এই বিষয়টি সব সময় কুরাইশদের মধ্যেই থাকবে, যতদিন তাদের থেকে দু’জন লোকও অবশিষ্ট থাকবে। [৩৫০১] (আধুনিক প্রকাশনী- ৬৬৪১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7140</td></tr><tr><td>Arabic No</td><td>7140</td></tr><tr><td>Reference</td><td>Book 93 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இந்த ஆட்சியதிகாரம் குறைஷியரி டையேதான் இருந்துவரும்; அவர்களில் இருவர் எஞ்சியிருக்கும்வரை. இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.6 அத்தியாயம் : 93
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இந்த ஆட்சியதிகாரம் குறைஷியரி டையேதான் இருந்துவரும்; அவர்களில் இருவர் எஞ்சியிருக்கும்வரை. இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7140</td></tr><tr><td>Arabic No</td><td>7140</td></tr><tr><td>Reference</td><td>Book 93 Hadith 4</td></tr></tbody></table></div>
 

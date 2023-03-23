@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইসহাক ইবনু ইবরাহীম এবং উবায়দুল্লাহ ইবনু সাঈদ (রহঃ) ... আবু বাকরা (রাঃ) সুত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেনঃ তোমাদের কেউ কখনও এরূপ বলবে না, আমি পূরা রমযানের সাওম (সিয়াম/রোজা/রোযা) পালন করেছি অথবা আমি পূরা রমযান মাসে তারাবীহর সালাত আদায় করেছি। রাবী বলেন, কেন তিনি এরূপ বলা অসমীচীন মনে করেছেন তা আমার জানা নেই। হয়তো বা এর মধ্যে নিজ প্রশংসা বা অসাবধানতা আছে বলেই তিনি এরূপ বলাকে সমীচীন মনে করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2109</td></tr><tr><td>Arabic No</td><td>2109</td></tr><tr><td>Reference</td><td>Book 22 Hadith 20</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৪৪০। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক অসুস্থ ব্যক্তিকে দেখতে গেলেন এবং তাকে জিজ্ঞেস করলেনঃ তোমার কি কিছুর প্রতি লোভ জাগে? সে বললো, আমি গমের রুটি খেতে চাই। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যার গমের রুটি আছে সে যেন তার ভাইকে তা পাঠিয়ে দেয়। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কোন রোগী কিছু খেতে চাইলে সে যেন তাকে তা খাওয়ায়।
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক অসুস্থ ব্যক্তিকে দেখতে গেলেন এবং তাকে জিজ্ঞেস করলেনঃ তোমার কি কিছুর প্রতি লোভ জাগে? সে বললো, আমি গমের রুটি খেতে চাই। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যার গমের রুটি আছে সে যেন তার ভাইকে তা পাঠিয়ে দেয়। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কোন রোগী কিছু খেতে চাইলে সে যেন তাকে তা খাওয়ায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3440</td></tr><tr><td>Arabic No</td><td>3440</td></tr><tr><td>Reference</td><td>Book 31 Hadith 5</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭৩৪, আন্তর্জাতিক নাম্বারঃ ১৮৬৯ ৪৭৩৪-(৯৩/...) কুতাইবাহ ও ইবনু রুমূহ (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) এর সূত্রে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শত্রু দেশে কুরআন নিয়ে সফর করতে বারণ করতেন এই ভয়ে যে, তা শত্রুরা পেয়ে যাবে। (ইসলামিক ফাউন্ডেশন ৪৬৮৭, ইসলামিক সেন্টার ৪৬৮৯)
+কুতাইবাহ ও ইবনু রুমূহ (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) এর সূত্রে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শক্র দেশে কুরআন নিয়ে সফর করতে বারণ করতেন এই ভয়ে যে, তা শক্ররা পেয়ে যাবে। (ইসলামিক ফাউন্ডেশন ৪৬৮৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4840</td></tr><tr><td>Arabic No</td><td>1869.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 136</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [La
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: குர்ஆன் பிரதியுடன் எதிரியின் நாட்டுக்குப் பயணம் செய்வதை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடைசெய்தார்கள். அத்தியாயம் : 33
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: குர்ஆன் பிரதியுடன் எதிரியின் நாட்டுக்குப் பயணம் செய்வதை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடைசெய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4840</td></tr><tr><td>Arabic No</td><td>1869.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 136</td></tr></tbody></table></div>
 

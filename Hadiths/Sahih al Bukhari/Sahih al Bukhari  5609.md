@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুধপান করেছেন, এরপর তিনি কুলি করেছেন এবং বলেছেনঃ এর মধ্যে তৈল আছে। [২১১] (আধুনিক প্রকাশনী- ৫১৯৯১), ইসলামিক ফাউন্ডেশন- ৫০৯৫
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুধপান করেছেন, এরপর তিনি কুলি করেছেন এবং বলেছেনঃ এর মধ্যে তৈল আছে। [২১১] (আধুনিক প্রকাশনী- ৫১৯৯১), ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5609</td></tr><tr><td>Arabic No</td><td>5609</td></tr><tr><td>Reference</td><td>Book 74 Hadith 35</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) drank milk and then rinsed his mouth
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பால் அருந்திவிட்டு வாய் கொப்புளித்தார்கள். அப்போது, ‘‘இதில் (பால்) கொழுப்பு இருக்கிறது” என்று சொன்னார்கள்.31 அத்தியாயம் : 74
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பால் அருந்திவிட்டு வாய் கொப்புளித்தார்கள். அப்போது, ‘‘இதில் (பால்) கொழுப்பு இருக்கிறது” என்று சொன்னார்கள்.31 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5609</td></tr><tr><td>Arabic No</td><td>5609</td></tr><tr><td>Reference</td><td>Book 74 Hadith 35</td></tr></tbody></table></div>
 

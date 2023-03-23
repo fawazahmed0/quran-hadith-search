@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩২৩৫। খুযাইমা ইবনে জাযই (রাঃ) বলেন, আমি বললাম, ইয়া রাসূলাল্লাহ! আমি আপনার নিকট যমীনের কীট সম্পর্কে জিজ্ঞাসা করার জন্য এসেছি। আপনি খেঁকশিয়াল সম্পর্কে কী বলেন? তিনি পাল্টা জিজ্ঞেস করেনঃ কে খেঁকশিয়াল খায়? আমি বললাম, ইয়া রাসূলাল্লাহ! আপনি নেকড়ে বাঘ সম্পর্কে কী বলেন? তিনি বলেনঃ যার মধ্যে কোন ভালো গুণ আছে সেরূপ কোন ব্যক্তি কি তা খেতে পারে?
+। খুযাইমা ইবনে জাযই (রাঃ) বলেন, আমি বললাম, ইয়া রাসূলাল্লাহ! আমি আপনার নিকট যমীনের কীট সম্পর্কে জিজ্ঞাসা করার জন্য এসেছি। আপনি খেঁকশিয়াল সম্পর্কে কী বলেন? তিনি পাল্টা জিজ্ঞেস করেনঃ কে খেঁকশিয়াল খায়? আমি বললাম, ইয়া রাসূলাল্লাহ! আপনি নেকড়ে বাঘ সম্পর্কে কী বলেন? তিনি বলেনঃ যার মধ্যে কোন ভালো গুণ আছে সেরূপ কোন ব্যক্তি কি তা খেতে পারে?
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3235</td></tr><tr><td>Arabic No</td><td>3235</td></tr><tr><td>Reference</td><td>Book 28 Hadith 36</td></tr></tbody></table></div>
 

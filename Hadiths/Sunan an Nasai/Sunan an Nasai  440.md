@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪০, আন্তর্জাতিক নাম্বারঃ ৪৪১ ৪৪০. ‘উতবাহ্ ইবনু 'আবদুল্লাহ (রহ.) ..... মিকদাদ ইবনুল আসওয়াদ (রাঃ) হতে বর্ণিত। আলী ইবনু আবূ ত্বালিব তাঁকে (মিক্বদাদকে) রাসূলুল্লাহ (সা.) -এর নিকট ঐ ব্যক্তি সম্পর্কে জিজ্ঞেস করার অনুরোধ করেন যে ব্যক্তি তার স্ত্রীর কাছে গেলে তার মযী নির্গত হয়। কেননা তাঁর কন্যা আমার বিবাহে থাকায় আমি তাঁকে জিজ্ঞেস করতে লজ্জাবোধ করি। মিকদাদ (রাঃ) রাসূলুল্লাহ (সা.) -কে প্রশ্ন করলে তিনি বললেন, সে যেন তার লজ্জাস্থান ধুয়ে ফেলে এবং সালাতের উযূর ন্যায় উযূর করে। সহীহ: আবূ দাউদ ২০৭, ইবনু মাজাহ ৫০৫, মুয়াত্ত্বা মালিক (১/৫৩/৪০), সহীহ ইবনু খুযায়মাহ্ ২১। [দ্রঃ ১৫৬]
+। উতবা ইবনু আবদুল্লাহ (রহঃ) ... আলী ইবনু আবূ তালিব (রাঃ) থেকে বর্ণিত। তিনি তাঁকে (মিকদাদকে) রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট ঐ ব্যাক্তি সম্পর্কে জিজ্ঞাসা করার অনুরোধ করেন যে ব্যাক্তি স্বীয় স্ত্রীর কাছে গেলে তার মযী নির্গত হয়। কেননা তাঁর কন্যা আমার বিবাহে থাকায় আমি তাঁকে জিজ্ঞাসা করতে লজ্জাবোধ করি। রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞাসা করলে তিনি বললেনঃ সে যেন তার লজ্জাস্থান ধৌত করে এবং সালাতের উযূর ন্যায় উযূ (ওজু/অজু/অযু) করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>440</td></tr><tr><td>Arabic No</td><td>440</td></tr><tr><td>Reference</td><td>Book 4 Hadith 46</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami ['Utbah bin Abdullah] dia berkata; telah dibacakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ali (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Mıkdad’ı, Rasûlüllah (sallallahü aleyhi ve sellem)’e karısının yanında kendisinden mezi gelen adamın ne yapması gerektiğini sormak üzere göndermiştim. Çünkü kızı fatıma benim hanımım olduğu için bunu sormaya utanmıştım. Mıkdad, bunu sormuştu da Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştu: böyle bir durum meydana gelirse tenasül organını yıkasın, namaz abdesti gibi abdest alsın.) (Ebû Dâvûd, Tahara: 82; İbn Mâce, Tahara: 70)
+Ali (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Mıkdad’ı, Rasûlüllah (sallallahü aleyhi ve sellem)’e karısının yanında kendisinden mezi gelen adamın ne yapması gerektiğini sormak üzere göndermiştim. Çünkü kızı fatıma benim hanımım olduğu için bunu sormaya utanmıştım. Mıkdad, bunu sormuştu da Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştu: böyle bir durum meydana gelirse tenasül organını yıkasın, namaz abdesti gibi abdest alsın.) (Ebû Dâvûd, Tahara: 82; İbn Mâce, Tahara:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>440</td></tr><tr><td>Arabic No</td><td>440</td></tr><tr><td>Reference</td><td>Book 4 Hadith 46</td></tr></tbody></table></div>
 

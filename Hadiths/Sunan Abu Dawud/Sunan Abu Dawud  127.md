@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসহাক ইবনু ইসমাঈল .... উপরোক্ত হাদীছের অনুরূপ। তবে এই বর্ণনায় বিশর-এর বর্ণনার সাথে কিছুটা পার্থক্য আছে এই বর্ণনায় আছেঃ মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তিনবার কুল্লি করেন এবং তিনবার নাকে পানি দেন।
+। ইবনু ‘আক্বীল উপরোক্ত হাদীস কিছু অর্থগত পার্থক্যসহ বর্ণনা করেছেন। তাতে তিনি বলেছেনঃ তিনি তিনবার কুলি করলেন এবং নাকে পানি দিলেন।[1] রুবাই' বিনতু মু‘আব্বিয সূত্রে শায।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>127</td></tr><tr><td>Arabic No</td><td>127</td></tr><tr><td>Reference</td><td>Book 1 Hadith 127</td></tr></tbody></table></div>
 

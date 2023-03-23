@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩৯৮, আন্তর্জাতিক নাম্বারঃ ২১০০ ৫৩৯৮-(৬৭/...) ইয়াহইয়া ইবনু ইয়াহইয়া, আবূ বাকর ইবনু আবূ শাইবাহ, ইবনু নুমায়র, যুহায়র ইবনু হারব, ইসহাক ইবনু ইবরাহীম, আবূ তাহির, হারমালাহ ও আবদ ইবনু হুমায়দ (রহঃ) যুহরী (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৩২৭, ইসলামিক সেন্টার ৫৩৪৪)
+ইয়াহইয়া ইবনু ইয়াহইয়া, আবূ বাকর ইবনু আবূ শাইবাহ, ইবনু নুমায়র, যুহায়র ইবনু হারব, ইসহাক ইবনু ইবরাহীম, আবূ তাহির, হারমালাহ ও আবদ ইবনু হুমায়দ (রহঃ) যুহরী (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৩২৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5505</td></tr><tr><td>Arabic No</td><td>2100.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 120</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata; Aku membaca Hadits 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் மல்லாந்து படுத்துக்கொண்டு ஒரு காலை மற்றொரு கால்மீது போட்டுக்கொள்ள வேண்டாம். இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 37
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் மல்லாந்து படுத்துக்கொண்டு ஒரு காலை மற்றொரு கால்மீது போட்டுக்கொள்ள வேண்டாம். இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5505</td></tr><tr><td>Arabic No</td><td>2100.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 120</td></tr></tbody></table></div>
 

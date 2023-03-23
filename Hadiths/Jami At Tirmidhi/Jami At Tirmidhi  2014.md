@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০১৪। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুআয (রাঃ)-কে ইয়ামানে প্রেরণের সময় বলেনঃ অত্যাচারিতের বদ-দু’আকে ভয় কর। কেননা, তার বদ-দুআ এবং আল্লাহ তা'আলার মাঝখানে কোন প্রতিবন্ধকতা নেই। সহীহ, সহীহ আবূ দাউদ (১৪১২), বুখারী, মুসলিম। আবূ ঈসা বলেন, আনাস, আবূ হুরাইরা, আবদুল্লাহ ইবনু আমর ও আবূ সাঈদ (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান সহীহ। আবূ মা'বাদের নাম না-ফিয।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুআয (রাঃ)-কে ইয়ামানে প্রেরণের সময় বলেনঃ অত্যাচারিতের বদ-দু’আকে ভয় কর। কেননা, তার বদ-দুআ এবং আল্লাহ তা'আলার মাঝখানে কোন প্রতিবন্ধকতা নেই। সহীহ, সহীহ আবূ দাউদ (১৪১২), বুখারী, মুসলিম। আবূ ঈসা বলেন, আনাস, আবূ হুরাইরা, আবদুল্লাহ ইবনু আমর ও আবূ সাঈদ (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান সহীহ। আবূ মা'বাদের নাম না-ফিয।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2014</td></tr><tr><td>Arabic No</td><td>2014</td></tr><tr><td>Reference</td><td>Book 27 Hadith 120</td></tr></tbody></table></div>
 

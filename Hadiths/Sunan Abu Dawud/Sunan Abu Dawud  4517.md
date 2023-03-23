@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন আলী (রহঃ) .... কাতাদা (রহঃ) শু'বা (রহঃ)-এর সনদে অনুরূপ হাদীছ বর্ণনা করেছেন। তবে এখানে এরূপ বর্ণিত হয়েতে যে, এরপর রাবী হাসান (রহঃ) এ হাদীছ ভুলে যান এবং বলেনঃ কোন স্বাধীন ব্যক্তিকে গোলামের বিনিময়ে হত্যা করা যাবে না।
+। কাতাদাহ (রহঃ) থেকে শু‘বাহ (রহঃ) সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। এতে আরো রয়েছেঃ পরবর্তীতে আল-হাসান (রহঃ) হাদীসটি ভুলে যান। তাই তিনি বলতেন, গোলাম হত্যার অপরাধে স্বাধীন ব্যক্তিকে হত্যা করা যাবে না।[1] সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4517</td></tr><tr><td>Arabic No</td><td>4517</td></tr><tr><td>Reference</td><td>Book 41 Hadith 24</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উলঙ্গ অবস্থায় হাম্মাম-খানায় প্রবেশ করতে নিষেধ করেন। পরে তিনি পুরুষদের জন্য লুঙ্গী পরে সেখানে যাওয়ার অনুমতি দেন।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গণ-গোসলখানায় প্রবেশ করতে নির্দেশ করেছেন। অতঃপর পুরুষদের লুঙ্গি-পাজামা পরে প্রবেশের অনুমতি দিয়েছেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
 

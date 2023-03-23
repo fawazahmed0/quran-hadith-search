@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০০৩। আবূদ দারদা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ সচ্চরিত্র ও সদাচারই দাঁড়িপাল্লায় সবচাইতে ভারী হবে। সচ্চরিত্রবান ও সদাচারী ব্যক্তি তার সদাচার ও চরিত্র মাধুর্য দ্বারা অবশ্যই রোযাদার ও নামায়ীর পর্যায়ে পৌঁছে যায়। সহীহ, প্রাগুক্ত। আবূ ঈসা বলেন, উল্লেখিত সনদসূত্রে এ হাদীসটি গারীব।
+। আবূদ দারদা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ সচ্চরিত্র ও সদাচারই দাঁড়িপাল্লায় সবচাইতে ভারী হবে। সচ্চরিত্রবান ও সদাচারী ব্যক্তি তার সদাচার ও চরিত্র মাধুর্য দ্বারা অবশ্যই রোযাদার ও নামায়ীর পর্যায়ে পৌঁছে যায়। সহীহ, প্রাগুক্ত। আবূ ঈসা বলেন, উল্লেখিত সনদসূত্রে এ হাদীসটি গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2003</td></tr><tr><td>Arabic No</td><td>2003</td></tr><tr><td>Reference</td><td>Book 27 Hadith 109</td></tr></tbody></table></div>
 

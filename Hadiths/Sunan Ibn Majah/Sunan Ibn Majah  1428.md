@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১৪২৮। মুগীরাহ ইবনু শুবাহ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ইমাম যে স্থানে দাঁড়িয়ে ফরয সালাত (নামায/নামাজ) পড়ে, সেই স্থান থেকে না সরে সে যেন (নফল) সালাত না পড়ে। ২/১৪২৮(১) কাসীর ইবনু উবায়দ আল-হিমসী (রহঃ), বাকিয়্যা, আবূ আবদুর রহমান তামীমী, উসমান ইবনু আতা, তার পিতা, মুগীরাহ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে।
+। মুগীরাহ ইবনু শুবাহ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ইমাম যে স্থানে দাঁড়িয়ে ফরয সালাত (নামায/নামাজ) পড়ে, সেই স্থান থেকে না সরে সে যেন (নফল) সালাত না পড়ে। ২/১৪২৮(১) কাসীর ইবনু উবায়দ আল-হিমসী (রহঃ), বাকিয়্যা, আবূ আবদুর রহমান তামীমী, উসমান ইবনু আতা, তার পিতা, মুগীরাহ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1428</td></tr><tr><td>Arabic No</td><td>1428</td></tr><tr><td>Reference</td><td>Book 5 Hadith 626</td></tr></tbody></table></div>
 

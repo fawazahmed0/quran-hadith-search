@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইবরাহীম ইবনু দীনার ও মুহাম্মাদ ইবনু হারব আল ওয়াসিতী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ তোমরা যদি জানতে অথবা তারা যদি জানত যে, সামনের লাইনে দাঁড়ানো কত কল্যাণকর; তাহলে তারা এটা লাভ করার জন্য লটারী করত। ইবনু হারব-এর বর্ণনায় প্রথম লাইনের উল্লেখ রয়েছে। তাতে আরো আছেঃ তারা এ লাইনে স্থান লাভ করার জন্য লটারী করত। (ইসলামিক ফাউন্ডেশনঃ ৮৬৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>439</td></tr><tr><td>Reference</td><td>Book 4 Hadith 146</td></tr></tbody></table></div>
 

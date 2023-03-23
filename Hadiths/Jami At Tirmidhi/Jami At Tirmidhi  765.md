@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭৬৫ সাহল ইবনু সা'দ (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ “রাইয়্যান” নামে জান্নাতে একটি দরজা আছে। রোযা পালনকারীকে এই দরজা দিয়ে প্রবেশের জন্য ডাকা হবে। যে সব লোক রোযা পালন করে তারা এই দরজা দিয়ে (জান্নাতে) প্রবেশ করবে। আর তাতে যে লোক প্রবেশ করবে সে আর কখনও পিপাসার্ত হবে না। — সহীহ, ইবনু মা-জাহ (১৬৪০), “পিপাসার্ত হবে না" ব্যাক্যাংশ ব্যতীত - বুখারী, মুসলিম আবু ঈসা এই হাদীসটিকে হাসান, সহীহ গারীব বলেছেন।
+সাহল ইবনু সা'দ (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ “রাইয়্যান” নামে জান্নাতে একটি দরজা আছে। রোযা পালনকারীকে এই দরজা দিয়ে প্রবেশের জন্য ডাকা হবে। যে সব লোক রোযা পালন করে তারা এই দরজা দিয়ে (জান্নাতে) প্রবেশ করবে। আর তাতে যে লোক প্রবেশ করবে সে আর কখনও পিপাসার্ত হবে না। — সহীহ, ইবনু মা-জাহ (১৬৪০), “পিপাসার্ত হবে না" ব্যাক্যাংশ ব্যতীত - বুখারী, মুসলিম আবু ঈসা এই হাদীসটিকে হাসান, সহীহ গারীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>765</td></tr><tr><td>Arabic No</td><td>765</td></tr><tr><td>Reference</td><td>Book 8 Hadith 84</td></tr></tbody></table></div>
 

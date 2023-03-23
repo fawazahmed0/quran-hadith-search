@@ -62,7 +62,7 @@ Telah menceritakan kepadaku Malik dari [Abdullah bin Yazid] mantan budak Al Aswa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَذَكَرَ : « أَنَّ النَّارَ اشْتَكَتْ إِلَى رَبِّهَا، فَأَذِنَ لَهَا فِي كُلِّ عَامٍ بِنَفَسَيْنِ، نَفَسٍ فِي الشِّتَاءِ وَنَفَسٍ فِي الصَّيْفِ »(26). Ebu Hureyre'den: Resulullah Sallallahu Aleyhi ve Sellem: «Sıcak şiddetli olunca (öğle) namazını biraz te'hir edin; serin vakte bırakın, zira sıcağın şiddeti, cehennemin nefesindendir.» buyurdu. Sonra şu hadisi zikretti: «Cehennem, Rabbine şikayette bulundu. O da, senede iki nefes izin verdi: Bir ne­fes kışın, bir nefes de yazın.» Buhari, Mevakitu's-Saîat; Müslim, Mesacid; Şeybanî, 183
+وَذَكَرَ : « أَنَّ النَّارَ اشْتَكَتْ إِلَى رَبِّهَا، فَأَذِنَ لَهَا فِي كُلِّ عَامٍ بِنَفَسَيْنِ، نَفَسٍ فِي الشِّتَاءِ وَنَفَسٍ فِي الصَّيْفِ »(26). Ebu Hureyre'den: Resulullah Sallallahu Aleyhi ve Sellem: «Sıcak şiddetli olunca (öğle) namazını biraz te'hir edin; serin vakte bırakın, zira sıcağın şiddeti, cehennemin nefesindendir.» buyurdu. Sonra şu hadisi zikretti: «Cehennem, Rabbine şikayette bulundu. O da, senede iki nefes izin verdi: Bir ne­fes kışın, bir nefes de yazın.» Buhari, Mevakitu's-Saîat; Müslim, Mesacid; Şeybanî
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মিকদাম ইবনু মা‘দীকারিব (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, তোমরা তোমাদের খাদ্য মেপে নিবে, তাতে তোমাদের জন্য বরকত হবে। (আধুনিক প্রকাশনীঃ ১৯৮০, ইসলামিক ফাউন্ডেশনঃ ১৯৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মিকদাম ইবনু মা‘দীকারিব (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, তোমরা তোমাদের খাদ্য মেপে নিবে, তাতে তোমাদের জন্য বরকত হবে। (আধুনিক প্রকাশনীঃ ১৯৮০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2128</td></tr><tr><td>Arabic No</td><td>2128</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் உணவு(ப் பொருட்)களை அளந்துகொள்ளுங்கள்; உங்களுக்கு வளம் (பரக்கத்) வழங்கப்படும்.39 இதை மிக்தாம் பின் மஅதீகரிப் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் உணவு(ப் பொருட்)களை அளந்துகொள்ளுங்கள்; உங்களுக்கு வளம் (பரக்கத்) வழங்கப்படும்.39 இதை மிக்தாம் பின் மஅதீகரிப் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2128</td></tr><tr><td>Arabic No</td><td>2128</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
 

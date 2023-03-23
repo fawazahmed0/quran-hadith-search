@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল মুছান্না (রহঃ) .... আনাস (রাঃ) হতে বর্ণিত। তিনি বলেনঃ আল্লাহ্‌র বানী "তারা রাত্রিতে খুব কম সময়ই আরাম করত" এই আয়াতের অর্থ হলঃ তারা মাগরিব ও ইশার মধ্যবর্তী সময়ে নামায আদায় করত। রাবী ইয়াহইয়া তাঁর বর্ণিত হাদীছে আরও বর্ণনা করেছেন যে, “তাদের পৃষ্ঠদেশ বিছানা হতে দূরে অবস্থান করত" – এই আয়াতের অর্থও পূর্বের আয়াতের অনুরূপ।
+। আনাস (রাঃ) সূত্রে বর্ণিত। আল্লাহর বাণীঃ ‘‘তারা রাতের সামান্য সময় ঘুমে কাটাতো’’ (সূরাহ আয-যারি‘আত : ১৭)। তিনি বলেন, এ আয়াতের অর্থ হচ্ছে, সাহাবীগণ মাগরিব ও ‘ইশার মধ্যবর্তী সময়ে সালাত আদায় করতেন। ইয়াহইয়া তার বর্ণনায় এটুকু বৃদ্ধি করেছেন যে, ‘‘তাতাজাফা জুনূবুহুম’’-এর অর্থও অনুরূপ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1322</td></tr><tr><td>Arabic No</td><td>1322</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
 

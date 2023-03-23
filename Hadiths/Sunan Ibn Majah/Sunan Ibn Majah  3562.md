@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৫৬২। আবূ বুরদা (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমার পিতা আমাকে বললেন, হে বৎস! বৃষ্টির সময় তুমি যদি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে আমাদের দেখতে তবে অবশ্যই তুমি আমাদের শরীরের গন্ধকে মেষের গন্ধ বলে অনুভব করতে।
+। আবূ বুরদা (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমার পিতা আমাকে বললেন, হে বৎস! বৃষ্টির সময় তুমি যদি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে আমাদের দেখতে তবে অবশ্যই তুমি আমাদের শরীরের গন্ধকে মেষের গন্ধ বলে অনুভব করতে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3562</td></tr><tr><td>Arabic No</td><td>3562</td></tr><tr><td>Reference</td><td>Book 32 Hadith 13</td></tr></tbody></table></div>
 

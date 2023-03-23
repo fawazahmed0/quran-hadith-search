@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ উম্ম-হানী বিনত আবী তালিব আমার নিকট বর্ণনা করেছেন যে, তিনি মক্কা বিজয়ের দিন জনৈক মুশরিককে (হারিছ ইবন হিশাম) আশ্রয় দেন। অতঃপর তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে আসেন এবং তাঁর নিকট ব্যাপারটি খুলে বলেন। রাবী বলেন, তখন তিনি বলেনঃ ‘তুমি যাকে পানাহ্ দিয়েছ, আমিও তাকে পানাহ্ দিলাম। আর তুমি যাকে নিরাপত্তা দিয়েছ, আমিও তাকে নিরাপত্তা দিলাম।
+। উম্মু হানী বিনতু আবূ তালিব(রাঃ) সূত্রে বর্ণিত। তিনি মক্কা বিজয়ের দিন মুশরিকদের এক লোককে আশ্রয় দেন। তারপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে তাঁকে বিষয়টি অবহিত করায় তিনি বললেনঃ তুমি যাকে আশ্রয় দিয়েছো ‘আমরাও তাকে আশ্রয় দিলাম এবং তুমি যাকে নিরাপত্তা দিয়েছো, ‘আমরাও তাকে নিরাপত্তা দিলাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2763</td></tr><tr><td>Arabic No</td><td>2763</td></tr><tr><td>Reference</td><td>Book 15 Hadith 287</td></tr></tbody></table></div>
 

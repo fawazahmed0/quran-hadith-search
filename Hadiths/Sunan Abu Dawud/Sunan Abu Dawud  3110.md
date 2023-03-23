@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... উবায়দ ইবন খালিদ সালামী (রাঃ) থেকে বর্ণিত, যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জনৈক সাহাবী ছিলেন। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হঠাৎ মারা যাওয়া আল্লাহ্‌র গযবের পাকড়াও স্বরূপ, (যাতে সে তওবার সুযোগ না পায়)।
+। বনূ সুলাইমের উবাইদ ইবনু খালিদ (রাঃ) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অন্যতম সাহাবী ছিলেন। অধস্তন বর্ণনাকারী মুসাদ্দাদ এটি কখনো নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মারফূ’ হাদীসরূপে আবার কখনো উবাইদ ইবনু খালিদের কাছ থেকে মওকুফ হাদীস হিসেবে বর্ণনা করেছেন। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেনঃ আকস্মিক মৃত্যু গযবের দ্বারা গ্রেপ্তারস্বরূপ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>3110</td></tr><tr><td>Reference</td><td>Book 21 Hadith 22</td></tr></tbody></table></div>
 

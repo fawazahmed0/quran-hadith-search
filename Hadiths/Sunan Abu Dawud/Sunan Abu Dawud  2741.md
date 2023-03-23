@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল ওহাব ইবন নাজদা (রহঃ) ..... ইবন ‘উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নাজদের দিকে প্রেরিত এক বাহিনীর সঙ্গে পাঠান এবং অন্য একটি সেনাদলকে শত্রুদের সাথে মুকাবিলা করার জন্য প্রেরণ করেন। বাহিনীর সৈন্যরা সবাই বারটি করে উট গণীমতের মাল হিসাবে পায় এবং শত্রুদের প্রতি প্রেরিত দলটির সবাই আরো একটি করে অতিরিক্ত উট পান। ফলে, তাদের সকলের অংশে তেরটি করে উট হয়।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে এক মুজাহিদ বাহিনীর সাথে ‘নাজাদ’ এলাকায় প্রেরণ করেন এবং সেনাবাহিনীর একটি অংশকে অভিযানে পাঠান। সেনাবাহিনীর সকল সৈন্য ভাগে বারোটি করে গানীমাতের উট পেলো এবং অভিযানে প্রেরিত সৈন্যদেরকে তিনি একটি করে উট অতিরিক্ত দিলেন। ফলে তাদের প্রত্যেকের ভাগে তেরটি করে উট পড়ে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2741</td></tr><tr><td>Arabic No</td><td>2741</td></tr><tr><td>Reference</td><td>Book 15 Hadith 265</td></tr></tbody></table></div>
 

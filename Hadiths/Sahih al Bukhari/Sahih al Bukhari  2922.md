@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, শরীরে চুলকানী থাকার কারণে তাদের দু’জনকে (আবদুর রাহমান ও যুবায়রকে) রেশমী পোষাক পরার অনুমতি দিয়েছিলেন বা দেয়া হয়েছিল। (২৯১৯) (আধুনিক প্রকাশনীঃ ২৭০৭, ইসলামিক ফাউন্ডেশনঃ ২৭১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, শরীরে চুলকানী থাকার কারণে তাদের দু’জনকে (আবদুর রাহমান ও যুবায়রকে) রেশমী পোষাক পরার অনুমতি দিয়েছিলেন বা দেয়া হয়েছিল। (২৯১৯) (আধুনিক প্রকাশনীঃ ২৭০৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2922</td></tr><tr><td>Arabic No</td><td>2922</td></tr><tr><td>Reference</td><td>Book 56 Hadith 135</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Anas:(Wearing of silk) was allowed to them (i.e. 'AbdurRahman and Az-Zu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அவ்விருவருக்கும் இருந்த சொறி சிரங்கின் காரணமாக, அவர்களுக்கு (பட்டாடை அணிய) நபி (ஸல்) அவர்கள் சலுகை கொடுத்தார்கள்; அல்லது சலுகை கொடுக்கப்பட்டது. அத்தியாயம் : 56
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அவ்விருவருக்கும் இருந்த சொறி சிரங்கின் காரணமாக, அவர்களுக்கு (பட்டாடை அணிய) நபி (ஸல்) அவர்கள் சலுகை கொடுத்தார்கள்; அல்லது சலுகை கொடுக்கப்பட்டது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2922</td></tr><tr><td>Arabic No</td><td>2922</td></tr><tr><td>Reference</td><td>Book 56 Hadith 135</td></tr></tbody></table></div>
 

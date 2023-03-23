@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন মুছান্না (রহঃ) ... ইবন আব্বাস (রাঃ) বসরার আমীর থাকাকালীন রমযান মাসের সমাপ্তি লগ্নে বলেছিলেন, তোমরা নিজ নিজ সাদাকায়ে ফিত্বর আদায় করে দাও, তখন তঁরা একে অপরের পানে তাকাতাকি করতে লাগলেন। তিনি বললেন, এখানে মদীনার অধিবাসী কারা কারা আছ? তোমরা দাঁড়াও এবং তোমাদের সাথীদেরকে শিক্ষা দাও। যেহেতু তারা জানে না যে, এ সাদাকায়ে ফিতর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক পুরুষ, নারী, স্বাধীন এবং গোলাম ব্যক্তির উপর এক সা' করে যব অথবা খেজুর অথবা অর্ধ সা' করে গম ওয়াজিব করে দিয়েছেন। তখনি তাঁরা তা আদায় করে দেওয়ার জন্য প্রস্তুত হয়ে গেলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2508</td></tr><tr><td>Arabic No</td><td>2508</td></tr><tr><td>Reference</td><td>Book 23 Hadith 74</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন আমর (রহঃ) ...... মুগীরা ইবন শোবা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ যখন ইমাম (তিন বা চার রাকাত বিশিষ্ট নামাযে) দুই রাকাত আদায়ের পর না বসে দন্ডায়মান হওয়া কালে সম্পূর্ণ সোজা হওয়ার পূর্বে এটা তার স্মরণ হয়; তখন তিনি সাথে সাথেই বসবেন এবং যদি তিনি সোজা হয়ে দাঁড়িয়ে গিয়ে থাকেন তখন তিনি আর না বসে নামায শেষে দুইটি সিজদা সাহূ করবেন (ইবন মাজা)।
+। মুগীরাহ ইবনু শু‘বাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু’ রাক‘আতের পরে ইমাম দাঁড়িয়ে গেলে এবং সোজা হয়ে দাঁড়ানোর পূর্বেই তার স্মরণ হলে তিনি বসে যাবেন; কিন্তু সোজা হয়ে দাঁড়িয়ে গেলে তিনি বসবেন না, বরং সাহু সিজদা্ আদায় করবেন।[1] সহীহ। ইমাম আবূ দাঊদ (রহঃ) বলেন, আমার কিতাবে জাবির আল-জু‘ফা সূত্রে বর্ণিত এ হাদীস ছাড়া অন্য কোন হাদীস নেই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 2 Hadith 647</td></tr></tbody></table></div>
 

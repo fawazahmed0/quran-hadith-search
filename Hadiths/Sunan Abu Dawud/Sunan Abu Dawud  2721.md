@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ঈদ ইবন মানসূর (রহঃ) ..... ‘আওফ ইবন আশজাঈ ও খালিদ ইবন ওয়ালীদ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিহত ব্যক্তির মালামাল হত্যাকারীকে দেওয়ার নির্দেশ দিয়েছেন এবং সে ধন- সম্পদ হতে এক-পঞ্চমাংশ আলাদা করেননি, (যেমন মালে গণীমত হতে আলাদা করতেন।)
+। ‘আওফ ইবনু মালিক আল-আশজা‘ঈ ও খালিদ ইবনুল ওয়ালীদ (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিহত কাফিরের পরিত্যক্ত জিনিসপত্র হত্যাকারীকে দেয়ার হুকুম করেন এবং তিনি নিহতের মালে এক-পঞ্চমাংশ ধার্য করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2721</td></tr><tr><td>Arabic No</td><td>2721</td></tr><tr><td>Reference</td><td>Book 15 Hadith 245</td></tr></tbody></table></div>
 

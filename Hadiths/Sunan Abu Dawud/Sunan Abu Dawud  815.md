@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ ইবনু মুআয ..... আবূ উছমান আন-নাহদী হতে বর্ণিত। তিনি বলেন, একদা তিনি ইবনু মাসউদ (রাঃ) এর পিছনে মাগরিবের নামায আদায় করেন। তিনি সূরা ইখলাস পাঠ করেন।
+। আবূ ‘উসমান আন-নাহদী সূত্রে বর্ণিত। তিনি বলেন, একবার তিনি ইবনু মাসঊদ (রাঃ)-এর পিছনে মাগরিবের সালাত আদায় করেন। তিনি সূরাহ ইখলাস পাঠ করেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abu’Uthman al-Nahdl said that he offered the sunset prayer behind Ibn mas’ud, when he recited “Say:He is Allah, the One” (Surah 112)
+Abu’Uthman al-Nahdl said that he offered the sunset prayer behind Ibn mas’ud, when he recited “Say:He is Allah, the One” (Surah)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
 

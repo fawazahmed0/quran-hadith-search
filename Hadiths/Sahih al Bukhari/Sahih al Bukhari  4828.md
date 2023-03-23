@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তিনি [‘আয়িশাহ (রাঃ)] বলেন, যখনই তিনি মেঘ অথবা ঝড়ো হাওয়া দেখতেন, তখনই তাঁর চেহারায় তা পরিলক্ষিত হত। তিনি বললেন, মানুষ যখন মেঘ দেখে তখন বৃষ্টির আশায় আনন্দিত হয়। কিন্তু আপনি যখন মেঘ দেখেন, তখন আমি আপনার চেহারায় আতংকের ছাপ পাই। তিনি বললেন, হে ‘আয়িশাহ! এতে ‘আযাব না থাকার ব্যাপারে আমি নিশ্চিত নই। বাতাস দিয়েই তো এক কওমকে ‘আযাব দেয়া হয়েছে। সে কওম ‘আযাব দেখে বলেছিল, এ তো মেঘ, আমাদেরকে বৃষ্টি দিবে। [৩২০৬] (আধুনিক প্রকাশনীঃ ৪৪৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4828</td></tr><tr><td>Arabic No</td><td>4828</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Aisha:(the wife of the Prophet), I never saw Allah's Messenger (ﷺ) l
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin 'Isa] Telah menceritakan kepada kami [Ibnu Wahab] Telah mengabarkan kepada kami [Amru] bahwa [Abu An Nadrl] menceritakan kepadanya, dari [Sulaiman bin Yasar] dari [Aisyah radliallahu 'anha] -istri Rasulullah shallallahu 'alaihi wasallam- ia berkata; "Saya tidak pernah melihat Rasulullah shalallahu'alaihi wa sallam tertawa terbahak-bahak hingga terlihat anak lidahnya, beliau hanya tersenyum." Aisyah berkata; "Apabila beliau melihat awan atau angin maka hal itu dapat diketahui pada wajahnya." Dia berkata; "Wahai Rasulullah! Apabila orang-orang melihat awan, mereka sangat bahagia berharap supaya turun hujan. Sedangkan saya melihat engkau setiap kali melihatnya tampak kekhawatiran di wajahmu." Beliau bersabda: "Wahai Aisyah! Saya tidak merasa aman, jangan-jangan isinya mendatangkan siksaan. Telah diadzab suatu kaum dengan angin dan suatu kaum lagi melihat adzab, namun dia malah mengatakan; 'Ini adalah awan yang mengandung hujan, yang akan menghujani kami (padahal justru awan itu akan mendatangkan siksa) '. (QS. Al Ahqaf 24)
+Telah menceritakan kepada kami [Ahmad bin 'Isa] Telah menceritakan kepada kami [Ibnu Wahab] Telah mengabarkan kepada kami [Amru] bahwa [Abu An Nadrl] menceritakan kepadanya, dari [Sulaiman bin Yasar] dari [Aisyah radliallahu 'anha] -istri Rasulullah shallallahu 'alaihi wasallam- ia berkata; "Saya tidak pernah melihat Rasulullah shalallahu'alaihi wa sallam tertawa terbahak-bahak hingga terlihat anak lidahnya, beliau hanya tersenyum." Aisyah berkata; "Apabila beliau melihat awan atau angin maka hal itu dapat diketahui pada wajahnya." Dia berkata; "Wahai Rasulullah! Apabila orang-orang melihat awan, mereka sangat bahagia berharap supaya turun hujan. Sedangkan saya melihat engkau setiap kali melihatnya tampak kekhawatiran di wajahmu." Beliau bersabda: "Wahai Aisyah! Saya tidak merasa aman, jangan-jangan isinya mendatangkan siksaan. Telah diadzab suatu kaum dengan angin dan suatu kaum lagi melihat adzab, namun dia malah mengatakan; 'Ini adalah awan yang mengandung hujan, yang akan menghujani kami (padahal justru awan itu akan mendatangkan siksa) '. (QS. Al Ahqaf)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4828</td></tr><tr><td>Arabic No</td><td>4828</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin 'Isa] Telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களுடைய துணைவியாரான ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களை உள்நாக்குத் தெரியும் அளவுக்குச் சிரிப்பவர்களாகக் கண்ட தில்லை. அவர்கள் புன்னகைப்பவர்களா கவே இருந்தார்கள்.2 அத்தியாயம் : 65
+நபி (ஸல்) அவர்களுடைய துணைவியாரான ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களை உள்நாக்குத் தெரியும் அளவுக்குச் சிரிப்பவர்களாகக் கண்ட தில்லை. அவர்கள் புன்னகைப்பவர்களா கவே இருந்தார்கள்.2 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4828</td></tr><tr><td>Arabic No</td><td>4828</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

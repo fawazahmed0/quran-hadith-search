@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কারো পক্ষে এক বোঝা লাকড়ী সংগ্রহ করে পিঠে বহন করে নেয়া কারো নিকট চাওয়ার চেয়ে উত্তম। কেউ দিতেও পারে, নাও দিতে পারে। (১৪৭০, মুসলিম ১২/৩৫, হাঃ ১০৪২, আহমাদ ৯৮৭৫) (আধুনিক প্রকাশনীঃ ১৯২৯ , ইসলামিক ফাউন্ডেশনঃ ১৯৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কারো পক্ষে এক বোঝা লাকড়ী সংগ্রহ করে পিঠে বহন করে নেয়া কারো নিকট চাওয়ার চেয়ে উত্তম। কেউ দিতেও পারে, নাও দিতে পারে। (১৪৭০, মুসলিম ১২/৩৫, হাঃ ১০৪২, আহমাদ ৯৮৭৫) (আধুনিক প্রকাশনীঃ ১৯২৯ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2074</td></tr><tr><td>Arabic No</td><td>2074</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் விறகுக் கட்டு ஒன்றைத் தமது முதுகில் சும(ந்து விற்றுப் பிழை)ப்பதானது, பிறரிடம் யாசிப்பதை விடச் சிறந்ததாகும். பிறர் அவருக்குக் கொடுக்கவும் செய்யலாம்; மறுக்கவும் செய்யலாம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் விறகுக் கட்டு ஒன்றைத் தமது முதுகில் சும(ந்து விற்றுப் பிழை)ப்பதானது, பிறரிடம் யாசிப்பதை விடச் சிறந்ததாகும். பிறர் அவருக்குக் கொடுக்கவும் செய்யலாம்; மறுக்கவும் செய்யலாம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2074</td></tr><tr><td>Arabic No</td><td>2074</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
 

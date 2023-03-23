@@ -62,7 +62,7 @@ Telah menceritakan kepadaku Yahya dari Malik dari [Nafi'] dari [Abdullah bin Uma
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Ömer r.a.'in rivayetine göre, Resuîullah Sallallahu Aleyhi ve Sellem: «ikindi namazını kaçıran kimse, ailesini ve malını zayi etmiş gibidir» buyurdu. Diğer tahric edenler: Buhari, Mevakitu's-Salat; Müslim, Mesacid; Şeyban-î, 222
+Abdullah b. Ömer r.a.'in rivayetine göre, Resuîullah Sallallahu Aleyhi ve Sellem: «ikindi namazını kaçıran kimse, ailesini ve malını zayi etmiş gibidir» buyurdu. Diğer tahric edenler: Buhari, Mevakitu's-Salat; Müslim, Mesacid; Şeyban-î
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>21</td></tr><tr><td>Arabic No</td><td>21</td></tr><tr><td>Reference</td><td>Book 1 Hadith 21</td></tr></tbody></table></div>
 

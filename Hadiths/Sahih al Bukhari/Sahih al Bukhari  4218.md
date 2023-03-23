@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম গৃহপালিত গাধার গোশত খেতে নিষেধ করেছেন। [৮৫৩] (আধুনিক প্রকাশনীঃ ৩৮৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4218</td></tr><tr><td>Arabic No</td><td>4218</td></tr><tr><td>Reference</td><td>Book 64 Hadith 258</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) forbade the eating of donkey-meat
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நாட்டுக் கழுதைகளின் இறைச்சியை உண்ண வேண்டாமென நபி (ஸல்) அவர்கள் தடை விதித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 64
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நாட்டுக் கழுதைகளின் இறைச்சியை உண்ண வேண்டாமென நபி (ஸல்) அவர்கள் தடை விதித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4218</td></tr><tr><td>Arabic No</td><td>4218</td></tr><tr><td>Reference</td><td>Book 64 Hadith 258</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) তাঁকে আরও বলেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘যূ-তুওয়া’য় অবতরণ করতেন এবং এখানেই রাত যাপন করতেন আর মক্কা্য় আসার পথে এখানেই ফজরের সালাত আদায় করতেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সালাত আদায়ের সেই স্থানটা ছিল একটা বড় টিলার উপরে। যেখানে মাসজিদ নির্মিত হয়েছে সেখানে নয় বরং তার নীচে একটা বড় টিলার উপর। (১৭৬৭, ১৭৬৯) (আধুনিক প্রকাশনীঃ ৪৬২ অষ্টম অংশ, ইসলামিক ফাউন্ডেশনঃ ৪৬৮ অষ্টম অংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>491</td></tr><tr><td>Arabic No</td><td>491</td></tr><tr><td>Reference</td><td>Book 8 Hadith 138</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ See translation for hadith 484 above
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: “நபி (ஸல்) அவர்கள் (மதீனாவி-ருந்து) மக்கா செல்லும்போது ‘தூத்துவா’ என்ற இடத்தில் இரவு நேரம் தங்கிவிட்டு, அங்கேயே காலையில் சுப்ஹு தொழுகையைத் தொழுவார்கள். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுத இடம் அங்குள்ள கெட்டியான மேட்டின் மீது அமைந் துள்ளது. அங்கு (தற்போது) பள்ளிவாசல் கட்டப்பட்டுள்ள இடம் (நபி (ஸல்) அவர்கள் தொழுத) அந்த இடமன்று; அந்தப் பள்ளிவாசலுக்குக் கீழ்ப்புறமாக அமைந்துள்ள கெட்டியான மேடே (நபி (ஸல்) அவர்கள் தொழுத) அந்த இடமாகும்” என அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் என்னிடம் கூறினார்கள். அத்தியாயம் : 8
+நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: “நபி (ஸல்) அவர்கள் (மதீனாவி-ருந்து) மக்கா செல்லும்போது ‘தூத்துவா’ என்ற இடத்தில் இரவு நேரம் தங்கிவிட்டு, அங்கேயே காலையில் சுப்ஹு தொழுகையைத் தொழுவார்கள். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுத இடம் அங்குள்ள கெட்டியான மேட்டின் மீது அமைந் துள்ளது. அங்கு (தற்போது) பள்ளிவாசல் கட்டப்பட்டுள்ள இடம் (நபி (ஸல்) அவர்கள் தொழுத) அந்த இடமன்று; அந்தப் பள்ளிவாசலுக்குக் கீழ்ப்புறமாக அமைந்துள்ள கெட்டியான மேடே (நபி (ஸல்) அவர்கள் தொழுத) அந்த இடமாகும்” என அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் என்னிடம் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>491</td></tr><tr><td>Arabic No</td><td>491</td></tr><tr><td>Reference</td><td>Book 8 Hadith 138</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ See translation for hadith 484 above
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ravi der ki: "Abdullah İbn Ömer şöyle anlattı: Allah Resulü Zu Tuvâ'da konaklardı. Sabaha kadar geceyi burada geçirirdi. Mekke'ye girmeden önce sabah namazını burada kılardı. Rasûlullah (Sallallahu aleyhi ve Sellem)'in namaz kıldığı yer sert bir kayadan oluşan tepenin üstüydü. Sonraları cami yapı­lan tepede değildi. Onun namaz kıldığı yer, buranın biraz aşağı kesiminde sert kayadan oluşan tepenin üstüydü. Tekrar: 1767, 1769
+Ravi der ki: "Abdullah İbn Ömer şöyle anlattı: Allah Resulü Zu Tuvâ'da konaklardı. Sabaha kadar geceyi burada geçirirdi. Mekke'ye girmeden önce sabah namazını burada kılardı. Rasûlullah (Sallallahu aleyhi ve Sellem)'in namaz kıldığı yer sert bir kayadan oluşan tepenin üstüydü. Sonraları cami yapı­lan tepede değildi. Onun namaz kıldığı yer, buranın biraz aşağı kesiminde sert kayadan oluşan tepenin üstüydü. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>491</td></tr><tr><td>Arabic No</td><td>491</td></tr><tr><td>Reference</td><td>Book 8 Hadith 138</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দদ (রহঃ) ..... সামুরা ইবনে জুনদুব (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমার নামাযের প্রথম রাকাতে “সাব্বিহিছ্‌মা রাব্বিকাল্‌ আলা” এবং দ্বিতীয় রাকাতে “হাল্‌ আতাকা হাদীছুল্‌ গাশিয়াহ্‌” তিলাওয়াত করতেন। (নাসাঈ)
+। সামুরাহ ইবনু জুনদুব (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমু‘আহর সালাতে ‘সাবিবহিস্‌মা রব্বিকাল আ‘লা’ এবং ‘হাল আতা-কা হাদীসুল গা-শিয়াহ’’ সূরাহদ্বয় পাঠ করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1125</td></tr><tr><td>Arabic No</td><td>1125</td></tr><tr><td>Reference</td><td>Book 2 Hadith 736</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Samurah ibn Jundub: The Messenger of Allah (ﷺ) used to recite in the Friday prayer: "Glorify the name of your most high Lord" (Surah 87) and Has the story of the overwhelming event reached you? (Surah 88)
+Narrated Samurah ibn Jundub: The Messenger of Allah (ﷺ) used to recite in the Friday prayer: "Glorify the name of your most high Lord" (Surah 87) and Has the story of the overwhelming event reached you? (Surah)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1125</td></tr><tr><td>Arabic No</td><td>1125</td></tr><tr><td>Reference</td><td>Book 2 Hadith 736</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৮৪৪, আন্তর্জাতিক নাম্বারঃ ৮৪৭ ১৮৪৪-(.../...) মুহাম্মাদ ইবনু রুমূহ (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, লোকজন ছিল শ্রমজীবী। তাদের কাজের জন্য বিকল্প লোক ছিল না। তাদের (ঘৰ্মাক্ত) দেহে দুৰ্গন্ধ ছড়াত। তাই তাদের বলা হ'ল, তোমরা যদি জুমুআর দিন গোসল করতে! (ইসলামী ফাউন্ডেশন, ১৮২৯, ইসলামীক সেন্টার ১৮৩৬)
+মুহাম্মাদ ইবনু রুমূহ (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, লোকজন ছিল শ্রমজীবী। তাদের কাজের জন্য বিকল্প লোক ছিল না। তাদের (ঘৰ্মাক্ত) দেহে দুৰ্গন্ধ ছড়াত। তাই তাদের বলা হ'ল, তোমরা যদি জুমুআর দিন গোসল করতে! (ইসলামী ফাউন্ডেশন, ১৮২৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1959</td></tr><tr><td>Arabic No</td><td>847.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 9</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர் கள் கூறினார்கள்: வெள்ளிக்கிழமை குளிப்பது பருவமடைந்த ஒவ்வொருவர் மீதும் கடமையாகும். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 7
+அல்லாஹ்வின் தூதர் (ஸல்) அவர் கள் கூறினார்கள்: வெள்ளிக்கிழமை குளிப்பது பருவமடைந்த ஒவ்வொருவர் மீதும் கடமையாகும். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1959</td></tr><tr><td>Arabic No</td><td>847.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 9</td></tr></tbody></table></div>
 

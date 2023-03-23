@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মুসাফফা .... আবদুল্লাহ্ ইবন আমর (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন যে, তিনি বলেছেনঃ যুদ্ধে যোগদান যেমন পুণ্যের কাজ, তেমনি যুদ্ধক্ষেত্র হতে (নিজ বাড়ীতে) প্রত্যাবর্তন করাও পুণ্যের কাজ।
+। ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যুদ্ধ থেকে ফেরা যুদ্ধে যোগদানের মতই নেকীর কাজ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2487</td></tr><tr><td>Arabic No</td><td>2487</td></tr><tr><td>Reference</td><td>Book 15 Hadith 11</td></tr></tbody></table></div>
 

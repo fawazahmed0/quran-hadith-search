@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৩০. মালিক (রহঃ) বলেনঃ আবু বরক সিদ্দীক (রাঃ) বলিয়াছিলেনঃ যাকাতের বেলায় উট বাঁধার দড়িটি দিতেও যদি কেহ অস্বীকৃতি জানায় তবে তাহার সঙ্গে আমি লড়াই করিব।[1]
+রেওয়ায়ত ৩০. মালিক (রহঃ) বলেনঃ আবু বরক সিদ্দীক (রাঃ) বলিয়াছিলেনঃ যাকাতের বেলায় উট বাঁধার দড়িটি দিতেও যদি কেহ অস্বীকৃতি জানায় তবে তাহার সঙ্গে আমি লড়াই করিব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 17 Hadith 28</td></tr></tbody></table></div>
 

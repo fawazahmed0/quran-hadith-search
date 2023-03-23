@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Rabi'ah bin Abu Abdurrahman] bahwa 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Ömer'den: Ömer b. Hattab, Allah rızası için bir at bağışladı. Sonra da onu satın almak istedi. Resûlüllah'a (sallallahü aleyhi ve sellem) durumu arzedince peygamberimiz şöyie buyurdu: «Onu ne satın al, ne de sadakandan geri dön.» Buhârî, Zekât, 24/59; Müslim, Hibât, 24/3
+Abdullah b. Ömer'den: Ömer b. Hattab, Allah rızası için bir at bağışladı. Sonra da onu satın almak istedi. Resûlüllah'a (sallallahü aleyhi ve sellem) durumu arzedince peygamberimiz şöyie buyurdu: «Onu ne satın al, ne de sadakandan geri dön.» Buhârî, Zekât, 24/59; Müslim, Hibât
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>320</td></tr><tr><td>Arabic No</td><td>320</td></tr><tr><td>Reference</td><td>Book 8 Hadith 34</td></tr></tbody></table></div>
 

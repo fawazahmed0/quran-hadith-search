@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২০০৯। ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কন্যাকে প্রথম বিবাহের সুবাদে দু’ বছর পর আবূল আস ইবনুর রবী (রাঃ)-এর নিকট ফেরত পাঠান।
+। ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কন্যাকে প্রথম বিবাহের সুবাদে দু’ বছর পর আবূল আস ইবনুর রবী (রাঃ)-এর নিকট ফেরত পাঠান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 9 Hadith 165</td></tr></tbody></table></div>
 

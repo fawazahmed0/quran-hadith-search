@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... উম্মু কুরয (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছি, তোমরা পাখীদের তাদের বাসায় থাকতে দেবে (তাড়িয়ে দেবে না)। রাবী উম্মু কুর্‌য (রাঃ) আরো বলেনঃ আমি তাঁকে এরূপ বলতে শুনেছি, ছেলের (আকীকার জন্য) দু‘টি বকরী এবং মেয়ের জন্য একটি বকরী যবাহ্ করতে হবে। আর এতে তোমাদের কোন ক্ষতি নেই, চাই বকরী নর হোক কিংবা মাদী।
+। উম্মু কুরয (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ তোমরা পাখিকে তার বাসায় নিরাপদে থাকতে দিবে। আমি তাঁকে এও বলতে শুনেছিঃ ‘আক্বীকাহ্ ছেলের পক্ষ থেকে দু’টি এবং মেয়ের পক্ষ থেকে একটি বকরী যবাহ করবে। আক্বীকাহ্ খাসী বা বকরী দ্বারা দেয়াতে কোনো অসুবিধা নেই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2835</td></tr><tr><td>Arabic No</td><td>2835</td></tr><tr><td>Reference</td><td>Book 16 Hadith 48</td></tr></tbody></table></div>
 

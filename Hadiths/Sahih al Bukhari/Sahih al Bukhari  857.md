@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-শা‘বী (রহ.) হতে বর্ণিত। তিনি বলেন, এমন এক ব্যক্তি আমাকে খবর দিয়েছেন, যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে একটি পৃথক কবরের নিকট গেলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানে লোকদের ইমামাত করেন। লোকজন কাতারবন্দী হয়ে তাঁর পিছনে দাঁড়িয়ে গেল। আমি জিজ্ঞেস করলাম, হে আবূ ‘আমর! কে আপনাকে এ হাদীস বর্ণনা করেছেন? তিনি বললেন, ইবনু ‘আব্বাস (রাযি আল্লাহু তা‘আলা ‘আনহু)। (১২৪৭, ১৩১৯, ১৩২১, ১৩২২, ১৩২৬, ১৩৩৬, ১৩৪০ মুসলিম ১১/২৩, হাঃ ৯৫৪, আহমাদ ২৫৫৪) (আধুনিক প্রকাশনীঃ ৮০৮, ইসলামিক ফাউন্ডেশনঃ ৮১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+শা‘বী (রহ.) হতে বর্ণিত। তিনি বলেন, এমন এক ব্যক্তি আমাকে খবর দিয়েছেন, যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে একটি পৃথক কবরের নিকট গেলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানে লোকদের ইমামাত করেন। লোকজন কাতারবন্দী হয়ে তাঁর পিছনে দাঁড়িয়ে গেল। আমি জিজ্ঞেস করলাম, হে আবূ ‘আমর! কে আপনাকে এ হাদীস বর্ণনা করেছেন? তিনি বললেন, ইবনু ‘আব্বাস (রাযি আল্লাহু তা‘আলা ‘আনহু)। (১২৪৭, ১৩১৯, ১৩২১, ১৩২২, ১৩২৬, ১৩৩৬, ১৩৪০ মুসলিম ১১/২৩, হাঃ ৯৫৪, আহমাদ ২৫৫৪) (আধুনিক প্রকাশনীঃ ৮০৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>857</td></tr><tr><td>Arabic No</td><td>857</td></tr><tr><td>Reference</td><td>Book 10 Hadith 248</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சுலைமான் அஷ்ஷைபானீ (ரஹ்) அவர்கள் கூறியதாவது: “நபி (ஸல்) அவர்கள் (மையவாடியில்) தனியாக இருந்த ஒரு மண்ணறை (கப்று) அருகே சென்று மக்களுக்கு இமாமாக நின்று (ஜனாஸா தொழுகை) தொழுவித்தார்கள். மக்கள் அந்த மண்ணறை அருகில் அணிவகுத்து நின்றார்கள்” என்று நபி (ஸல்) அவர்களுடன் அப்போது சென்றிருந்த ஒருவர் என்னிடம் கூறினார் என ஷஅபீ (ரஹ்) அவர்கள் கூறினார்கள். அப்போது நான் “அபூஅம்ரே! உங்களுக்கு இதைக் கூறிய அவர் யார்?” என்று கேட்டேன். அதற்கு ஷஅபீ (ரஹ்) அவர்கள், ‘இப்னு அப்பாஸ் (ரலி) அவர்கள்’ என்று பதிலளித்தார்கள்.78 அத்தியாயம் : 10
+சுலைமான் அஷ்ஷைபானீ (ரஹ்) அவர்கள் கூறியதாவது: “நபி (ஸல்) அவர்கள் (மையவாடியில்) தனியாக இருந்த ஒரு மண்ணறை (கப்று) அருகே சென்று மக்களுக்கு இமாமாக நின்று (ஜனாஸா தொழுகை) தொழுவித்தார்கள். மக்கள் அந்த மண்ணறை அருகில் அணிவகுத்து நின்றார்கள்” என்று நபி (ஸல்) அவர்களுடன் அப்போது சென்றிருந்த ஒருவர் என்னிடம் கூறினார் என ஷஅபீ (ரஹ்) அவர்கள் கூறினார்கள். அப்போது நான் “அபூஅம்ரே! உங்களுக்கு இதைக் கூறிய அவர் யார்?” என்று கேட்டேன். அதற்கு ஷஅபீ (ரஹ்) அவர்கள், ‘இப்னு அப்பாஸ் (ரலி) அவர்கள்’ என்று பதிலளித்தார்கள்.78 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>857</td></tr><tr><td>Arabic No</td><td>857</td></tr><tr><td>Reference</td><td>Book 10 Hadith 248</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceri
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Süleyman eş-Şeybânî Şa'bî'nin şöyle dediğini nakletmiştir: "Resulullah Sallallahu Aleyhi ve Sellem ile birlikte terk edilmiş ve bir kenarda unutulmuş bir kabre uğrayan ashâb-ı kirâm'dan bir zât bana haber verdi; Resulullah Sallallahu Aleyhi ve Sellem bu kabrin yanından geçerken orada durup bize imamlık yaptı ve (ölünün cenaze namazını kıldırdı.) Biz de arkasında saf olmuştuk." Râvî Süleyman eş-Şeybânî diyor ki: "Ben Şa'bî'ye: Ya Ebu Amr sana bu rivayeti kim nakletti diye sorduğumda şöyle cevap verdi: Abdullah İbn Abbâs anlattı. Tekrar: 1247, 1319, 1321, 1322, 1326 ve 1340
+Süleyman eş-Şeybânî Şa'bî'nin şöyle dediğini nakletmiştir: "Resulullah Sallallahu Aleyhi ve Sellem ile birlikte terk edilmiş ve bir kenarda unutulmuş bir kabre uğrayan ashâb-ı kirâm'dan bir zât bana haber verdi; Resulullah Sallallahu Aleyhi ve Sellem bu kabrin yanından geçerken orada durup bize imamlık yaptı ve (ölünün cenaze namazını kıldırdı.) Biz de arkasında saf olmuştuk." Râvî Süleyman eş-Şeybânî diyor ki: "Ben Şa'bî'ye: Ya Ebu Amr sana bu rivayeti kim nakletti diye sorduğumda şöyle cevap verdi: Abdullah İbn Abbâs anlattı. Tekrar: 1247, 1319, 1321, 1322, 1326 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>857</td></tr><tr><td>Arabic No</td><td>857</td></tr><tr><td>Reference</td><td>Book 10 Hadith 248</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবনু মুহাম্মাদ .... আসমা বিনতে আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি এক মহিলাকে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের নিকট জিজ্ঞাসা করতে শুনেছি যে, হায়েয হতে পবিত্র হওয়ার পর সময়ের পরিহিত বস্ত্র পরিধাণ করে নামায আদায় করতে পারবে কি? তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তাতে রক্তের চিহ্ন পরিলক্ষিত হলে তাতে সামান্য পানি দিয়ে ঘর্ষণ করে রক্তের দাগ মুছে ফেলতে হবে। অতঃপর তা পরিধান করে নামায আদায় করবে।
+। আসমা বিনতু আবূ বাকর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি এক মহিলাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট জিজ্ঞেস করতে শুনেছি, পবিত্র হওয়ার পর (হায়িযকালীন) কাপড় আমরা কি করব? তাতে কি সালাত আদায় করা যাবে? তিনি বললেনঃ তা দেখে নিবে। তাতে রক্ত লেগে থাকলে সামান্য পানি দিয়ে রক্ত খুঁটে ফেলে পানি ছিটিয়ে রক্তের স্থান ধুয়ে ফেলবে যেন রক্তের চিহ্ন না থাকে। অতঃপর সেটা পরিধান করে সালাত আদায় করবে।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>360</td></tr><tr><td>Arabic No</td><td>360</td></tr><tr><td>Reference</td><td>Book 1 Hadith 360</td></tr></tbody></table></div>
 

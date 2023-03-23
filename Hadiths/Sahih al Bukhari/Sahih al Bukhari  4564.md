@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেছেন, ইবরাহীম (আঃ) যখন আগুনে নিক্ষিপ্ত হয়েছিলেন তখন তাঁর শেষ কথা ছিলঃ حَسْبِيَ اللهُ وَنِعْمَ الْوَكِيْلُ অর্থাৎ ‘‘আল্লাহ্ই যথেষ্ট’’ তিনি কতই না উত্তম কর্মবিধায়ক! [৪৫৬৩] (আধুনিক প্রকাশনীঃ ৪২০৩, ইসলামিক ফাউন্ডেশনঃ ৪২০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেছেন, ইবরাহীম (আঃ) যখন আগুনে নিক্ষিপ্ত হয়েছিলেন তখন তাঁর শেষ কথা ছিলঃ حَسْبِيَ اللهُ وَنِعْمَ الْوَكِيْلُ অর্থাৎ ‘‘আল্লাহ্ই যথেষ্ট’’ তিনি কতই না উত্তম কর্মবিধায়ক! [৪৫৬৩] (আধুনিক প্রকাশনীঃ ৪২০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4564</td></tr><tr><td>Arabic No</td><td>4564</td></tr><tr><td>Reference</td><td>Book 65 Hadith 86</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:The last statement of Abraham when he was thrown into the fire was:--"Allah is Sufficient for us and He is the Best Disposer (of affairs for us)." (3.173)
+Narrated Ibn 'Abbas:The last statement of Abraham when he was thrown into the fire was:--"Allah is Sufficient for us and He is the Best Disposer (of affairs for us)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4564</td></tr><tr><td>Arabic No</td><td>4564</td></tr><tr><td>Reference</td><td>Book 65 Hadith 86</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Malik bin Ismail] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: இப்ராஹீம் (அலை) அவர்கள் நெருப்பில் எறியப்பட்டபோது, “எனக்கு அல்லாஹ்வே போதுமானவன்; அவனே பொறுப்பேற்றுக்கொள்வோரில் சிறந்தவன்” (ஹஸ்பியல்லாஹ‚ வ நிஅமல் வக்கீல்) என்பதே அவர்களின் கடைசி வார்த்தையாக இருந்தது. அத்தியாயம் : 65
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: இப்ராஹீம் (அலை) அவர்கள் நெருப்பில் எறியப்பட்டபோது, “எனக்கு அல்லாஹ்வே போதுமானவன்; அவனே பொறுப்பேற்றுக்கொள்வோரில் சிறந்தவன்” (ஹஸ்பியல்லாஹ‚ வ நிஅமல் வக்கீல்) என்பதே அவர்களின் கடைசி வார்த்தையாக இருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4564</td></tr><tr><td>Arabic No</td><td>4564</td></tr><tr><td>Reference</td><td>Book 65 Hadith 86</td></tr></tbody></table></div>
 

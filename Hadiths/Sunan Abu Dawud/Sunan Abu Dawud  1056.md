@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন ইয়াহইয়া (রহঃ) .... আবদুল্লাহ ইবন উমার (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন। তিনি বলেনঃ যারা জুমুআর নামাযের আযান শুনতে পাবে তাদের উপর জুমুআর নামায আদায় করা ওয়াজিব। (বাধ্যতামূলক)।
+। ‘আবদুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যারা জুমু‘আহর আযান শুনতে পাবে তাদের উপর জুমু‘আহর সালাত আদায় করা ফার্য।[1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, একদল বর্ণনাকারী এ হাদীস সুফয়ান (রহঃ) সূত্রে সংক্ষেপে বর্ণনা করেছেন ‘আবদুল্লাহ ইবনু ‘আমর (রাঃ) এর হাদীস হিসেবে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বাণী হিসেবে নয়। শুধু ক্বাবীসাহ (রহঃ) এটিকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বাণী হিসেবে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1056</td></tr><tr><td>Arabic No</td><td>1056</td></tr><tr><td>Reference</td><td>Book 2 Hadith 667</td></tr></tbody></table></div>
 

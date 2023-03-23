@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেনাদল পাঠালেন এবং উসামাহ ইবনু যায়দ (রাঃ)-কে তাঁদের আমীর নিয়োগ করলেন। কিন্তু তার আমীর নিযুক্তির সমালোচনা করা হল। তখন তিনি বললেনঃ তোমরা যদি তার আমীর নিযুক্তির সমালোচনা কর, তোমরা এর আগে তার পিতার আমীর নিযুক্তিরও সমালোচনা করেছিলে। আল্লাহর কসম! সে ইমারাতের যোগ্য ছিল। আর সে ছিল আমার কাছে মানুষদের মাঝে সবচেয়ে প্রিয়। আর তারপরে এ হল আমার নিকট সর্বাধিক প্রিয়।[1] [৩৭৩০] (আধুনিক প্রকাশনী- ৬৬৮৪, ইসলামিক ফাউন্ডেশন- ৬৬৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেনাদল পাঠালেন এবং উসামাহ ইবনু যায়দ (রাঃ)-কে তাঁদের আমীর নিয়োগ করলেন। কিন্তু তার আমীর নিযুক্তির সমালোচনা করা হল। তখন তিনি বললেনঃ তোমরা যদি তার আমীর নিযুক্তির সমালোচনা কর, তোমরা এর আগে তার পিতার আমীর নিযুক্তিরও সমালোচনা করেছিলে। আল্লাহর কসম! সে ইমারাতের যোগ্য ছিল। আর সে ছিল আমার কাছে মানুষদের মাঝে সবচেয়ে প্রিয়। আর তারপরে এ হল আমার নিকট সর্বাধিক প্রিয়।[1] [৩৭৩০] (আধুনিক প্রকাশনী- ৬৬৮৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7187</td></tr><tr><td>Arabic No</td><td>7187</td></tr><tr><td>Reference</td><td>Book 93 Hadith 49</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Umar:Allah's Messenger (ﷺ) sent an army unit headed by Usama bin Zaid and the people criticized his leadership. The Prophet (ﷺ) said (to the people), "If you are criticizing his leadership now, then you used to criticize his father's leadership before. By Allah, he (Usama's father) deserved the leadership and used to be one of the most beloved persons to me, and now his son (Usama) is one of the most beloved persons to me after him. " (See Hadith No. 745, Vol. 5)
+Narrated Ibn 'Umar:Allah's Messenger (ﷺ) sent an army unit headed by Usama bin Zaid and the people criticized his leadership. The Prophet (ﷺ) said (to the people), "If you are criticizing his leadership now, then you used to criticize his father's leadership before. By Allah, he (Usama's father) deserved the leadership and used to be one of the most beloved persons to me, and now his son (Usama) is one of the most beloved persons to me after him. " (See Hadith No. 745, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7187</td></tr><tr><td>Arabic No</td><td>7187</td></tr><tr><td>Reference</td><td>Book 93 Hadith 49</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin ismail] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தமது இறுதிக் காலத்தில்) உசாமா பின் ஸைத் (ரலி) அவர்களைத் தளபதியாக்கி ஒரு படைப் பிரிவை அனுப்பி வைத்தார் கள். அப்போது உசாமாவின் தலைமை குறித்து (அவர் வயதில் சிறியவர் என்று) குறைகூறப்பட்டது. அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இவரது தலைமை குறித்து இப்போது நீங்கள் குறைகூறுகின்றீர்கள் என்றால், (இது ஒன்றும் புதிதல்ல.) இதற்கு முன்பு (மூத்தா போரின்போது) இவருடைய தந்தையின் தலைமையையும்தான் நீங்கள் குறைகூறிக்கொண்டிருந்தீர்கள். அல்லாஹ்வின் மீதாணையாக! அவர் தலைமைக்குத் தகுதியானவராகவே இருந்தார். மேலும், அவர் மக்களிலேயே எனக்கு மிகவும் பிரியமானவராகவும் இருந்தார். அவருக்குப்பின் (அவருடைய புதல்வரான) இவர் மக்களிலேயே எனக்கு மிகவும் பிரியமானவர் ஆவார்” என்று சொன்னார்கள்.54 அத்தியாயம் : 93
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தமது இறுதிக் காலத்தில்) உசாமா பின் ஸைத் (ரலி) அவர்களைத் தளபதியாக்கி ஒரு படைப் பிரிவை அனுப்பி வைத்தார் கள். அப்போது உசாமாவின் தலைமை குறித்து (அவர் வயதில் சிறியவர் என்று) குறைகூறப்பட்டது. அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இவரது தலைமை குறித்து இப்போது நீங்கள் குறைகூறுகின்றீர்கள் என்றால், (இது ஒன்றும் புதிதல்ல.) இதற்கு முன்பு (மூத்தா போரின்போது) இவருடைய தந்தையின் தலைமையையும்தான் நீங்கள் குறைகூறிக்கொண்டிருந்தீர்கள். அல்லாஹ்வின் மீதாணையாக! அவர் தலைமைக்குத் தகுதியானவராகவே இருந்தார். மேலும், அவர் மக்களிலேயே எனக்கு மிகவும் பிரியமானவராகவும் இருந்தார். அவருக்குப்பின் (அவருடைய புதல்வரான) இவர் மக்களிலேயே எனக்கு மிகவும் பிரியமானவர் ஆவார்” என்று சொன்னார்கள்.54 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7187</td></tr><tr><td>Arabic No</td><td>7187</td></tr><tr><td>Reference</td><td>Book 93 Hadith 49</td></tr></tbody></table></div>
 

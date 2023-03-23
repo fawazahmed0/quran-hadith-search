@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-لِقَوْلِ النَّبِيِّ صلى الله عليه وسلم لاَ يُمْنَعُ فَضْلُ الْمَاءِ কেননা, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, অতিরিক্ত পানি ব্যবহার করতে যেন কাউকে নিষেধ করা না হয়। ২৩৫৩. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ঘাস উৎপাদন হতে বিরত রাখার উদ্দেশে প্রয়োজনের অতিরিক্ত পানি রুখে রাখা যাবে না। (২৩৫৪, ৬৯৬২, মুসলিম ২২/৮, হাঃ ১৫৬৬, আহমাদ ৮৩২৮) (আধুনিক প্রকাশনীঃ ২১৮২, ইসলামিক ফাউন্ডেশনঃ ২১৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لِقَوْلِ النَّبِيِّ صلى الله عليه وسلم لاَ يُمْنَعُ فَضْلُ الْمَاءِ কেননা, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, অতিরিক্ত পানি ব্যবহার করতে যেন কাউকে নিষেধ করা না হয়। ২৩৫৩. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ঘাস উৎপাদন হতে বিরত রাখার উদ্দেশে প্রয়োজনের অতিরিক্ত পানি রুখে রাখা যাবে না। (২৩৫৪, ৬৯৬২, মুসলিম ২২/৮, হাঃ ১৫৬৬, আহমাদ ৮৩২৮) (আধুনিক প্রকাশনীঃ ২১৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2353</td></tr><tr><td>Arabic No</td><td>2353</td></tr><tr><td>Reference</td><td>Book 42 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ‘‘(தேவைக்குமேல்) எஞ்சியுள்ள தண்ணீ ரைத் தடுக்கலாகாது. (அவ்வாறு) தடுத்தால், அதைச் சுற்றியுள்ள) புற்பூண்டுகளை (மேய விடாமல் கால்நடைகளைத்) தடுத்த தாகிவிடும்.4 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 42
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ‘‘(தேவைக்குமேல்) எஞ்சியுள்ள தண்ணீ ரைத் தடுக்கலாகாது. (அவ்வாறு) தடுத்தால், அதைச் சுற்றியுள்ள) புற்பூண்டுகளை (மேய விடாமல் கால்நடைகளைத்) தடுத்த தாகிவிடும்.4 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2353</td></tr><tr><td>Arabic No</td><td>2353</td></tr><tr><td>Reference</td><td>Book 42 Hadith 3</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'in rivayet ettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Meradaki herkesin yararına açık olan otların büyümesine engel olacak şekilde ihtiyaçtan fazla olan su'dan istifade edilmesi engellenemez. " Tekrar: 2353, 6962
+Ebu Hureyre r.a.'in rivayet ettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Meradaki herkesin yararına açık olan otların büyümesine engel olacak şekilde ihtiyaçtan fazla olan su'dan istifade edilmesi engellenemez. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2353</td></tr><tr><td>Arabic No</td><td>2353</td></tr><tr><td>Reference</td><td>Book 42 Hadith 3</td></tr></tbody></table></div>
 

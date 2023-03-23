@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হামিদ ইবন ইয়াহ্‌ইয়া (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে যখন ঘুম থেকে জাগতেন, তখন তিনি বলতেনঃ হে আল্লাহ্‌! পবিত্র মহান আপনি, আপনি ছাড়া কোন ইলাহ নেই; আমি আমার গুনাহের জন্য আপনার কাছে ক্ষমা প্রার্থনা করছি; আমি আপনার রহমত কামনা করছি। হে আল্লাহ্‌! আপনি আমাকে অধিক জ্ঞান দান করুন। আর হিদায়েতের পর আপনি আমাকে গুমরাহ করবেন না। আর আপনার খাস রহমত আমাকে দান করুন। কেননা, আপনিই তো একমাত্র দানকারী।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে সজাগ হলে বলতেনঃ হে আল্লাহ! আপনি ছাড়া কোনো ইলাহ নেই, আপনার পবিত্রতা বর্ণনা করছি। হে আল্লাহ! আমি আপনার নিকট আমার গুনাহের ক্ষমা ও রহমত কামনা করছি। হে আল্লাহ! আমার ইলম বাড়িয়ে দিন এবং হিদায়াত দানের পর আমার অন্তরকে বাঁকা করবেন না এবং আমার জন্য আপনার পক্ষ থেকে রহমত দান করুন। নিশ্চয়ই আপনি মহাদানকারী।[1] দুর্বলঃ মিশকাত হা/ ১২১৪।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5061</td></tr><tr><td>Arabic No</td><td>5061</td></tr><tr><td>Reference</td><td>Book 43 Hadith 289</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বকর ইবন আবূ শায়বা (রহঃ) .... আবূ উমামা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লাঠি ভর দিয়ে আমাদের সামনে আসেন। তখন আমরা তার সম্মানে দাঁড়ালে, তিনি বলেনঃ তোমরা আজমীদের অর্থাৎ অনারবদেব মত একে অন্যের সম্মানে দাঁড়াবে না।
+। আবূ উমামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লাঠিতে ভর দিয়ে আমাদের নিকট আসলেন। আমরা তাঁর সম্মানে উঠে দাঁড়ালে তিনি বললেনঃ তোমরা দাঁড়াবে না, যেরূপ অনারবরা একে অপরকে সম্মান দেখানোর জন্য দাঁড়ায়।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5230</td></tr><tr><td>Arabic No</td><td>5230</td></tr><tr><td>Reference</td><td>Book 43 Hadith 458</td></tr></tbody></table></div>
 

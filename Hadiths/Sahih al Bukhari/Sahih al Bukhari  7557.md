@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এসব ছবি নির্মাতাদেরকে কিয়ামতের দিন শাস্তি দেয়া হবে। তখন তাদেরকে নির্দেশ দেয়া হবে তোমরা যা বানিয়েছ, তা জীবিত কর। [২১০৫] (আধুনিক প্রকাশনী- ৭০৩৬, ইসলামিক ফাউন্ডেশন- ৭০৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এসব ছবি নির্মাতাদেরকে কিয়ামতের দিন শাস্তি দেয়া হবে। তখন তাদেরকে নির্দেশ দেয়া হবে তোমরা যা বানিয়েছ, তা জীবিত কর। [২১০৫] (আধুনিক প্রকাশনী- ৭০৩৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7557</td></tr><tr><td>Arabic No</td><td>7557</td></tr><tr><td>Reference</td><td>Book 97 Hadith 182</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இந்த (உயிரினங்களின்) உருவங்களைப் படைப்போர் மறுமை நாளில் வேதனை செய்யப்படுவார்கள். அவர்களிடம், ‘நீங்கள் படைத்தவற்றுக்கு உயிர் கொடுங்கள் (பார்க்கலாம்)’ என்று சொல்லப்படும். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.196 அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இந்த (உயிரினங்களின்) உருவங்களைப் படைப்போர் மறுமை நாளில் வேதனை செய்யப்படுவார்கள். அவர்களிடம், ‘நீங்கள் படைத்தவற்றுக்கு உயிர் கொடுங்கள் (பார்க்கலாம்)’ என்று சொல்லப்படும். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.196 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7557</td></tr><tr><td>Arabic No</td><td>7557</td></tr><tr><td>Reference</td><td>Book 97 Hadith 182</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫৫০। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতে যে বাজার আছে, তাতে নারী-পুরুষের প্রতিকৃতি ছাড়া আর কিছুর ক্রয়-বিক্রয় হবে না। যখন কেউ কোন প্রতিকৃতির আকাঙ্ক্ষা করবে, সঙ্গে সঙ্গে তা পেয়ে যাবে। যঈফ, মিশকাত (৫৬৪৬), যঈফা (১৯৮২) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব।
+। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতে যে বাজার আছে, তাতে নারী-পুরুষের প্রতিকৃতি ছাড়া আর কিছুর ক্রয়-বিক্রয় হবে না। যখন কেউ কোন প্রতিকৃতির আকাঙ্ক্ষা করবে, সঙ্গে সঙ্গে তা পেয়ে যাবে। যঈফ, মিশকাত (৫৬৪৬), যঈফা (১৯৮২) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2550</td></tr><tr><td>Arabic No</td><td>2550</td></tr><tr><td>Reference</td><td>Book 38 Hadith 28</td></tr></tbody></table></div>
 

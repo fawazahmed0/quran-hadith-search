@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন আবদিল্লাহ (রহঃ) ...... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জানাযার পেছনে চীৎকার করতে করতে এবং আগুন নিয়ে যাবে না। রাবী হারুন অতিরিক্ত বর্ণনা করেছেনঃ জানাযার আগে আগেও গমন করবে না।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ উচ্চস্বরে কান্নাকাটি করে এবং আগুন নিয়ে লাশের অনুসরণ করা যাবে না। হারূনের বর্ণনায় রয়েছেঃ লাশের আগে আগেও চলা যাবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3171</td></tr><tr><td>Arabic No</td><td>3171</td></tr><tr><td>Reference</td><td>Book 21 Hadith 83</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন ইবরাহীম (রহঃ) ...... ইবন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুলল্লাহ সালল্লালল্লাহু আলাইহে ওয়াসালল্লাম বলেছেনঃ যে ব্যক্তি আসরের ফরয নামাযের পূর্বে চার রাকাত নামায পড়বে আল্লাহ তাআলা তার উপর রহমত বর্ষণ করুন। (তিরমিযী)
+। ইবনু ‘উমার রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ এমন ব্যক্তির উপর অনুগ্রহ করেন, যে ‘আসরের পূর্বে চার রাক‘আত সালাত আদায় করে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1271</td></tr><tr><td>Arabic No</td><td>1271</td></tr><tr><td>Reference</td><td>Book 5 Hadith 22</td></tr></tbody></table></div>
 

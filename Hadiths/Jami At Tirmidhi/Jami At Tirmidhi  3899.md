@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮৯৯। উবাই ইবনু কাব (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি দীন ইসলামে হিজরাত না থাকত তাহলে আমি আনসারদের একজনই হতাম। হাসান সহীহঃ সহীহাহ (১৭৬৮), বুখারী ও মুসলিম।
+। উবাই ইবনু কাব (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি দীন ইসলামে হিজরাত না থাকত তাহলে আমি আনসারদের একজনই হতাম। হাসান সহীহঃ সহীহাহ (১৭৬৮), বুখারী ও মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3899</td></tr><tr><td>Arabic No</td><td>3899</td></tr><tr><td>Reference</td><td>Book 49 Hadith 299</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ubey b. Ka’b (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Hicret olmasaydı Ensâr’dan biri olmak isterdim.” Diğer tahric: Müsned: 20294
+Ubey b. Ka’b (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Hicret olmasaydı Ensâr’dan biri olmak isterdim.” Diğer tahric: Müsned:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3899</td></tr><tr><td>Arabic No</td><td>3899</td></tr><tr><td>Reference</td><td>Book 49 Hadith 299</td></tr></tbody></table></div>
 

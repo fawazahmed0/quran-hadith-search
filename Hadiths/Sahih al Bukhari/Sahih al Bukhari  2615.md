@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত, দুমার উকাইদির নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে হাদিয়া দিয়েছিলেন। (২৬১৫, মুসলিম ৪৪/২৪ হাঃ ২৪৬৯) (আধুনিক প্রকাশনীঃ ২৪২৪, ইসলামিক ফাউন্ডেশনঃ ২৪৪০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2615</td></tr><tr><td>Arabic No</td><td>2615</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்கு மெல்லிய பட்டாலான அங்கி ஒன்று அன்பளிப்பாகத் தரப்பட்டது. அவர்கள் பட்டுத் துணியை (அணிவதைத்) தடை செய்துவந்தார்கள். மக்களோ அந்த அங்கி(யின் தரம் மற்றும் மென்மை)யைக் கண்டு வியந்தார்கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘முஹம்மதின் உயிர் யார் கையில் உள்ளதோ அ(ந்த இறை)வன்மீது சத்திய மாக! சொர்க்கத்தில் (தோழர்) சஅத் பின் முஆதுக்கு கிடைக்கவிருக்கும் கைக் குட்டைகள் இதைவிட அழகானவையாக இருக்கும்” என்று கூறினார்கள். அத்தியாயம் : 51
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்கு மெல்லிய பட்டாலான அங்கி ஒன்று அன்பளிப்பாகத் தரப்பட்டது. அவர்கள் பட்டுத் துணியை (அணிவதைத்) தடை செய்துவந்தார்கள். மக்களோ அந்த அங்கி(யின் தரம் மற்றும் மென்மை)யைக் கண்டு வியந்தார்கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘முஹம்மதின் உயிர் யார் கையில் உள்ளதோ அ(ந்த இறை)வன்மீது சத்திய மாக! சொர்க்கத்தில் (தோழர்) சஅத் பின் முஆதுக்கு கிடைக்கவிருக்கும் கைக் குட்டைகள் இதைவிட அழகானவையாக இருக்கும்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2615</td></tr><tr><td>Arabic No</td><td>2615</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem'e saf ipekten bir cübbe hediye edilmişti. Kendisi ipek giyilmesini yasaklardı. Bu cübbe insanların çok hoşuna gitti. Bunun üzerine "Muhammed'in canı elinde olana yemin ederim ki! Cennette Sa'd b. Muaz'ın mendilleri bile bundan daha güzeldir" buyurdu. Tekrar: 2616, 3248
+Enes r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem'e saf ipekten bir cübbe hediye edilmişti. Kendisi ipek giyilmesini yasaklardı. Bu cübbe insanların çok hoşuna gitti. Bunun üzerine "Muhammed'in canı elinde olana yemin ederim ki! Cennette Sa'd b. Muaz'ın mendilleri bile bundan daha güzeldir" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2615</td></tr><tr><td>Arabic No</td><td>2615</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

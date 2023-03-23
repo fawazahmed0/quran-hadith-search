@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আলা (রহঃ) ..... জাবির ইবন আবদুল্লাহ্‌ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কথা বলার সময় ধীরে ধীরে এবং স্পষ্টভাবে কথা বলতেন।
+। মিস‘আর (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি একজন শাইখকে মসজিদের মধ্যে বলতে শুনেছি, আমি জাবির ইবনু আব্দুল্লাহ (রাঃ)-কে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বক্তব্য ছিলো স্পষ্ট ও ধীর গতিসম্পন্ন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4838</td></tr><tr><td>Arabic No</td><td>4838</td></tr><tr><td>Reference</td><td>Book 43 Hadith 66</td></tr></tbody></table></div>
 

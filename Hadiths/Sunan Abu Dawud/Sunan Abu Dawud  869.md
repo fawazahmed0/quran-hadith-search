@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আর-রবি ইবনে নাফি আবু তাওবা (রহঃ) ..... উকবা ইবনে আমের (রাঃ) হতে বর্ণিত। তিনি বলেন, কুরআনের আয়াত “ফাসাব্বি বিসমি রাব্বিকাল আযিম” অবতীর্ণ হওয়ার পর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তোমরা এটা রুকুতে পড়বে। অতঃপর কুরআনের অন্য আয়াত “সাব্বিহিসমা রাব্বিকাল আলা” অবতীর্ণ হলে তিনি বলেন, এটা তোমারা সিজদায় পড়বে। (ইবনে মাজাহ)।
+। ‘উক্ববাহ ইবনু ‘আমির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘ফাসাবিবহ বিসমি রব্বিকাল ‘আযীম’ কুরআনের এ আয়াত অবতীর্ণ হওয়ার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমরা এটা রুকূ‘তে পাঠ করবে। অতঃপর ‘সাব্বিহিসমা রব্বিকাল আ‘লা’ এ আয়াত অবতীর্ণ হলে তিনি বলেন, তোমরা এটা সিজদাতে পাঠ করবে।[1] দুর্বল : ইরওয়া।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>869</td></tr><tr><td>Reference</td><td>Book 2 Hadith 479</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Narrated Uqbah ibn Amir: When "Glorify the name of your mighty Lord" was reveale
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ukbe b. Amir'den; demiştir ki: [Fesebbih bismi Rabbikel Azim] (Vakıa 74) = "O halde Rabbini o büyük adiyle tesbih (ve tenzih) et" ayet-i kerimesi inince, Resulullah (sallallahu aleyhi ve sellem); "bunu rükunuzda söyleyin" buyurdu. [Sebbih isme Rabbike'l-A'la] (A'la 1) = "Rabbinin o çok yüce adım tesbih (ve tenzih) et" ayeti inince de, "bunu da secdenizde söyleyin" buyurdu. Diğer tahric: İbn Mace, ikame; Darimî salat; Ahmed, IV-155
+Ukbe b. Amir'den; demiştir ki: [Fesebbih bismi Rabbikel Azim] (Vakıa 74) = "O halde Rabbini o büyük adiyle tesbih (ve tenzih) et" ayet-i kerimesi inince, Resulullah (sallallahu aleyhi ve sellem); "bunu rükunuzda söyleyin" buyurdu. [Sebbih isme Rabbike'l-A'la] (A'la 1) = "Rabbinin o çok yüce adım tesbih (ve tenzih) et" ayeti inince de, "bunu da secdenizde söyleyin" buyurdu. Diğer tahric: İbn Mace, ikame; Darimî salat; Ahmed, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>869</td></tr><tr><td>Reference</td><td>Book 2 Hadith 479</td></tr></tbody></table></div>
 

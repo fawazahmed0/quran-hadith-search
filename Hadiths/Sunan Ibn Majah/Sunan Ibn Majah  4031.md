@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯/৪০৩১। আনান ইবনে মালেক (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ বিপদ যত তীব্র হবে, প্রতিদানও তদনুরূপ বিরাটা হবে। নিশ্চয় আল্লাহ কোন জাতিকে ভালোবাসলে তাদের পরীক্ষা করেন। যে কেউ তাতে সন্তুষ্ট থাকে তার জন্য রয়েছে আল্লাহর সন্তুষ্টি। আর যে কেউ তাতে অসন্তুষ্ট হয়, তার জন্য রয়েছে অসন্তুষ্টি।
+। আনান ইবনে মালেক (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ বিপদ যত তীব্র হবে, প্রতিদানও তদনুরূপ বিরাটা হবে। নিশ্চয় আল্লাহ কোন জাতিকে ভালোবাসলে তাদের পরীক্ষা করেন। যে কেউ তাতে সন্তুষ্ট থাকে তার জন্য রয়েছে আল্লাহর সন্তুষ্টি। আর যে কেউ তাতে অসন্তুষ্ট হয়, তার জন্য রয়েছে অসন্তুষ্টি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4031</td></tr><tr><td>Arabic No</td><td>4031</td></tr><tr><td>Reference</td><td>Book 36 Hadith 106</td></tr></tbody></table></div>
 

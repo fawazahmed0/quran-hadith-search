@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন ইয়াহইয়া (রহঃ) ... আবদুল্লাহ্ (রাঃ) থেকে বর্ণিত, তিনি বলেছেনঃ সুন্নত তালাক হলো, যে পাক অবস্থায় সহবাস করা হয়নি। তাতে এক তালাক দেওয়া। এরপর যখন হায়য় হওয়ার পর পাক হয়, তখন তাকে আর এক তালাক দেওয়া। এরপর যখন সে আবার হয়েয থেকে পাক হয়, তখন আরো এক তালাক দেওয়া, এরপর সে এক হায়েয পর্যন্ত ইদ্দত পালন করবে। আ'মাশ (রহঃ) বলেন, আমি ইবরাহীমকে জিজ্ঞাসা করলে, তিনি এরূপ বললেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3394</td></tr><tr><td>Arabic No</td><td>3394</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
 

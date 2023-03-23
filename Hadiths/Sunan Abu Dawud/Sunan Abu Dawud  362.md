@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... হাম্মাদ ইবনু সালামা-হিশাম হতে পূর্বোক্ত হাদীছের অনুরূপ বর্ণনা করেছেন। রাবী বলেন, প্রথমে তা (রক্ত) খুঁচিয়ে তুলে ফেলবে, অতঃপর তা পানি দিয়ে ঘর্ষণ করে ধৌত করবে।
+। হিশাম (রহঃ) সূত্রে উক্ত হাদীসের সমার্থক বর্ণনা আছে। তাতে রয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ কোন জিনিস দিয়ে তা দূর করে পানি দ্বারা ঘষে নিবে। তারপর তাতে পানি ছিটিয়ে ধুয়ে ফেলবে।[1] সহীহ : বুখারী ও মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>362</td></tr><tr><td>Reference</td><td>Book 1 Hadith 362</td></tr></tbody></table></div>
 

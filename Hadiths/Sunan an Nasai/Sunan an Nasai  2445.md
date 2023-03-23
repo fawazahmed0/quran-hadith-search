@@ -16,29 +16,29 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي عَمْرُو بْنُ يَحْيَى، ح وَأَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، عَنْ عَبْدِ الرَّحْمَنِ، عَنْ سُفْيَانَ، وَشُعْبَةَ، وَمَالِكٍ، عَنْ عَمْرِو بْنِ يَحْيَى، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ لَيْسَ فِيمَا دُونَ خَمْسَةِ أَوْسُقٍ صَدَقَةٌ وَلاَ فِيمَا دُونَ خَمْسِ ذَوْدٍ صَدَقَةٌ وَلاَ فِيمَا دُونَ خَمْسَةِ أَوَاقٍ صَدَقَةٌ ‏"‏ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا عبيد الله بن سعيد، قال حدثنا سفيان، قال حدثني عمرو بن يحيى، ح واخبرنا محمد بن المثنى، ومحمد بن بشار، عن عبد الرحمن، عن سفيان، وشعبة، ومالك، عن عمرو بن يحيى، عن ابيه، عن ابي سعيد الخدري، ان رسول الله صلى الله عليه وسلم قال " ليس فيما دون خمسة اوسق صدقة ولا فيما دون خمس ذود صدقة ولا فيما دون خمسة اواق صدقة
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+উবায়দুল্লাহ ইবন সাঈদ (রহঃ) এবং মুহাম্মাদ ইবন মুছান্না (রহঃ) ... আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পাঁচ ওসকে (ত্রিশ মণ) এর কম মালে যাকাত ওয়াজিব হয় না। পাঁচ উটের কমেও যাকাত ওয়াজিব হয় না এবং পাঁচ ওকিয়া (দুই শত দিৱাহাম)-এর কমেও যাকাত ওয়াজিব হয় না।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 
 ## English
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Abu Sa'eed Al-Khudri that the Messenger of Allah said:"No Sadaqah is due on less than five Awsuq,[1] and no Sadaqah is due on less than five Dhawd (head of camel), and no Sadaqah is due on less than five Awaq."[2]
+It was narrated from Abu Sa'eed Al-Khudri that the Messenger of Allah said:"No Sadaqah is due on less than five Awsuq,[1] and no Sadaqah is due on less than five Dhawd (head of camel), and no Sadaqah is due on less than five Awaq
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ It was narrated from Abu Sa'eed Al-Khudri that the Messenger of Allah said:"No S
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami ['Ubaidullah bin Sa'id] dia berkata; Telah menceritakan kepada kami [Sufyan] dia berkata; Telah menceritakan kepadaku ['Amru bin Yahya], demikian juga diriwayatkan dari jalur lainnya, dan telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] dari ['Abdurrahman] dari [Sufyan] dan [Syu'bah] dan [Malik] dari ['Amru bin Yahya] dari [bapaknya] dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada zakat pada biji-bijian yang kurang dari lima wasaq, tidak ada zakat pada unta yang kurang dari lima dzaud (ekor) dan tidak ada zakat pada perak yang kurang dari lima uqiyah
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengabarkan kepada kami ['Ubaidullah bin Sa'id] dia berkata; Telah menceri
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengabarkan kepada kami ['Ubaidullah bin Sa'id] dia berkata; Telah menceri
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”پانچ وسق سے کم غلے میں زکاۃ نہیں ہے، اور پانچ اونٹ سے کم میں زکاۃ نہیں ہے اور پانچ اوقیہ سے کم چاندی میں زکاۃ نہیں ہے۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>

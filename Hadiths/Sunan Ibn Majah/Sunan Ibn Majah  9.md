@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯/৯। আবদুল্লাহ বিন আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, মুআবিয়াহ ভাষণ দিতে দাঁড়িয়ে বলেন, তোমাদের আলিমগণ কোথায়, তোমাদের আলিমগণ কোথায়? আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ ক্বিয়ামাত (কিয়ামত) পর্যন্ত আমার উম্মাতের একটি দল সর্বদা লোকেদের উপর বিজয়ী থাকবে। তারা তাদের লাঞ্ছিত করতে উদ্যত বা সাহায্য করতে আগ্রহী কারো পরোয়া করবে না।
+। আবদুল্লাহ বিন আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, মুআবিয়াহ ভাষণ দিতে দাঁড়িয়ে বলেন, তোমাদের আলিমগণ কোথায়, তোমাদের আলিমগণ কোথায়? আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ ক্বিয়ামাত (কিয়ামত) পর্যন্ত আমার উম্মাতের একটি দল সর্বদা লোকেদের উপর বিজয়ী থাকবে। তারা তাদের লাঞ্ছিত করতে উদ্যত বা সাহায্য করতে আগ্রহী কারো পরোয়া করবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Arabic No</td><td>9</td></tr><tr><td>Reference</td><td>Book 0 Hadith 9</td></tr></tbody></table></div>
 

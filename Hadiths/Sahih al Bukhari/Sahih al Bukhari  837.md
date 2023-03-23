@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাম ফিরাতেন, তখন সালাম শেষ হলেই মহিলাগণ দাঁড়িয়ে পড়তেন। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়ানোর পূর্বে কিছুক্ষণ বসে অপেক্ষা করতেন। ইবনু শিহাব (রহ.) বলেন, আল্লাহ্ই ভাল জানেন, আমার মনে হয়, তাঁর এ অপেক্ষা এ কারণে যাতে মুসাল্লীগণ হতে যে সব পুরুষ ফিরে যান তাদের পূর্বেই মহিলারা নিজ অবস্থানে পৌঁছে যেতে পারেন। (৮৩৭, ৮৪৯, ৮৫০, ৮৬৬, ৮৭০, ৮৭৪) (আধুনিক প্রকাশনীঃ৭৯০, ইসলামিক ফাউন্ডেশনঃ ৭৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাম ফিরাতেন, তখন সালাম শেষ হলেই মহিলাগণ দাঁড়িয়ে পড়তেন। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়ানোর পূর্বে কিছুক্ষণ বসে অপেক্ষা করতেন। ইবনু শিহাব (রহ.) বলেন, আল্লাহ্ই ভাল জানেন, আমার মনে হয়, তাঁর এ অপেক্ষা এ কারণে যাতে মুসাল্লীগণ হতে যে সব পুরুষ ফিরে যান তাদের পূর্বেই মহিলারা নিজ অবস্থানে পৌঁছে যেতে পারেন। (৮৩৭, ৮৪৯, ৮৫০, ৮৬৬, ৮৭০, ৮৭৪) (আধুনিক প্রকাশনীঃ৭৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>837</td></tr><tr><td>Arabic No</td><td>837</td></tr><tr><td>Reference</td><td>Book 10 Hadith 230</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தொழுகையில்) ‘சலாம்’ கொடுத்து முடித்த தும் பெண்கள் எழுந்து (சென்று)விடுவார் கள். நபி (ஸல்) அவர்கள் எழுவதற்குமுன் சற்று நேரம் (தொழுத இடத்திலேயே) வீற்றி ருப்பார்கள். (இதன் அறிவிப்பாளர்களில் ஒருவ ரான) இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறுகையில், “அல்லாஹ் நன்க றிந்தவன்! தொழுகை முடிந்து திரும்பும் ஆண்கள் பெண்களிடம் வருவதற்குமுன் பெண்கள் (அங்கிருந்து) புறப்பட்டுச் சென்றுவிட வேண்டும் என்பதற்காகவே நபி (ஸல்) அவர்கள் அவ்வாறு வீற்றிருந்தார்கள் என்றே நான் கருதுகிறேன்” என்றார்கள். அத்தியாயம் : 10
+உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தொழுகையில்) ‘சலாம்’ கொடுத்து முடித்த தும் பெண்கள் எழுந்து (சென்று)விடுவார் கள். நபி (ஸல்) அவர்கள் எழுவதற்குமுன் சற்று நேரம் (தொழுத இடத்திலேயே) வீற்றி ருப்பார்கள். (இதன் அறிவிப்பாளர்களில் ஒருவ ரான) இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறுகையில், “அல்லாஹ் நன்க றிந்தவன்! தொழுகை முடிந்து திரும்பும் ஆண்கள் பெண்களிடம் வருவதற்குமுன் பெண்கள் (அங்கிருந்து) புறப்பட்டுச் சென்றுவிட வேண்டும் என்பதற்காகவே நபி (ஸல்) அவர்கள் அவ்வாறு வீற்றிருந்தார்கள் என்றே நான் கருதுகிறேன்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>837</td></tr><tr><td>Arabic No</td><td>837</td></tr><tr><td>Reference</td><td>Book 10 Hadith 230</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hind Bintü'l-Hâris Ümmü Seleme (r.anha)'nın şöyle dediğini nakletmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem namaz'dan çıkmak İçin selâm verirdi ve selâm verir vermez kadınlar kalkıp giderdi. Fakat kendisi kalkmadan önce birazcık beklerdi." İbn Şihab şöyle demiştir: "Bana kalırsa Resulullah Sallallahu Aleyhi ve Sellem erkek cemaat İle kadınların karşılaşmasını önlemek için bu şekilde beklerdi ki kadınlar çıkıp gitsin. Tabiî ki her şeyin en doğrusunu sadece Allah bilir. Tekrar: 849 ve 850
+Hind Bintü'l-Hâris Ümmü Seleme (r.anha)'nın şöyle dediğini nakletmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem namaz'dan çıkmak İçin selâm verirdi ve selâm verir vermez kadınlar kalkıp giderdi. Fakat kendisi kalkmadan önce birazcık beklerdi." İbn Şihab şöyle demiştir: "Bana kalırsa Resulullah Sallallahu Aleyhi ve Sellem erkek cemaat İle kadınların karşılaşmasını önlemek için bu şekilde beklerdi ki kadınlar çıkıp gitsin. Tabiî ki her şeyin en doğrusunu sadece Allah bilir. Tekrar: 849 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>837</td></tr><tr><td>Arabic No</td><td>837</td></tr><tr><td>Reference</td><td>Book 10 Hadith 230</td></tr></tbody></table></div>
 

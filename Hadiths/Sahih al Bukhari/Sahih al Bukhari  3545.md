@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ জুহাইফাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি আর তাঁর নীচ ঠোঁটের নিম্নভাগে দাড়িতে সামান্য সাদা চুল দেখেছি। (মুসলিম ৪৩/২৯ হাঃ ২৩৪২) (আধুনিক প্রকাশনীঃ ৩২৮১, ইসলামিক ফাউন্ডেশনঃ ৩২৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ জুহাইফাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি আর তাঁর নীচ ঠোঁটের নিম্নভাগে দাড়িতে সামান্য সাদা চুল দেখেছি। (মুসলিম ৪৩/২৯ হাঃ ২৩৪২) (আধুনিক প্রকাশনীঃ ৩২৮১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3545</td></tr><tr><td>Arabic No</td><td>3545</td></tr><tr><td>Reference</td><td>Book 61 Hadith 54</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Raja'] telah bercerita kepada kami [I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஜுஹைஃபா அஸ்ஸுவாயீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களை நான் பார்த்திருக் கிறேன். அவர்களுடைய கீழுதட்டின் அடியிலுள்ள (தாடைக்கு மேலுள்ள) குறுந்தாடியில் நான் வெண்மையைக் கண்டேன். அத்தியாயம் : 61
+அபூஜுஹைஃபா அஸ்ஸுவாயீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களை நான் பார்த்திருக் கிறேன். அவர்களுடைய கீழுதட்டின் அடியிலுள்ள (தாடைக்கு மேலுள்ள) குறுந்தாடியில் நான் வெண்மையைக் கண்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3545</td></tr><tr><td>Arabic No</td><td>3545</td></tr><tr><td>Reference</td><td>Book 61 Hadith 54</td></tr></tbody></table></div>
 

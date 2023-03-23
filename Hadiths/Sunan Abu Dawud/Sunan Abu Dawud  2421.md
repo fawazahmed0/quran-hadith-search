@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হামীদ ইবন মাস‘আদা ...... আবদুল্লাহ্ ইবন বুসর আল সুলামী তার ভগ্নি হতে বর্ণনা করেছেন। ইয়াযীদ আস সাম্মা অতিরিক্ত বর্ণনা করেছেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ তোমরা রোযা রাখবে না। তবে যদি ঐ দিন রোযা রাখা ফরয হয়, তা স্বতস্ত্র ব্যাপার। আর যদি তোমাদের কেউ আঙ্গুরের খোসা বা কোন গাছের ছাল ছাড়া অন্য কিছুই খেতে না পায়, তবে সে যেন তা চর্বণের পর ভক্ষণ করে। ইমাম আবূ দাঊদ (রহঃ) বলেন, এ হাদীসটি মানসূখ বা রহিত।
+। আব্দুল্লাহ ইবনু বুসর আস-সুলামী (রহ.) থেকে তার বোন আস-সাম্মা‘ (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা শুধু শনিবারে সওম রেখো না। তবে ঐ দিন তোমাদের উফর ফরযকৃত সওম রাখতে পারো। তোমাদের কেউ যদি সওম ভঙ্গের জন্য আঙ্গুর গাছের ছাল বা অন্য গাছের ডালা ছাড়া কিছু না পায়, তাহলে তা চিবিয়ে সওম ভঙ্গ করবে। ইমাম আবূ দাঊদ (রহ.) বলেন, এ হাদীসটি মানসূখ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2421</td></tr><tr><td>Arabic No</td><td>2421</td></tr><tr><td>Reference</td><td>Book 14 Hadith 109</td></tr></tbody></table></div>
 

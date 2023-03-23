@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, আমি মারিয়ামের পুত্র ‘ঈসার অধিক ঘনিষ্ঠ। আর নবীগণ পরস্পর বৈমাত্রিয় ভাই। আমার ও তার মাঝখানে কোন নবী নেই। (৩৪৪৩, মুসলিম ৪৩/৪০ হাঃ ২৩৬৫, আহমাদ ৮২৫৫) (আধুনিক প্রকাশনীঃ ৩১৮৭, ইসলামিক ফাউন্ডেশনঃ ৩১৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, আমি মারিয়ামের পুত্র ‘ঈসার অধিক ঘনিষ্ঠ। আর নবীগণ পরস্পর বৈমাত্রিয় ভাই। আমার ও তার মাঝখানে কোন নবী নেই। (৩৪৪৩, মুসলিম ৪৩/৪০ হাঃ ২৩৬৫, আহমাদ ৮২৫৫) (আধুনিক প্রকাশনীঃ ৩১৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3442</td></tr><tr><td>Arabic No</td><td>3442</td></tr><tr><td>Reference</td><td>Book 60 Hadith 112</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'ai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் மர்யமின் மைந்தருக்கு மிகவும் நெருக்கமானவன் ஆவேன்; இறைத் தூதர்கள் தந்தைவழிச் சகோதரர்கள் ஆவர்; எனக்கும் அவருக்கும் இடையே இறைத்தூதர் எவருமில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 60
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் மர்யமின் மைந்தருக்கு மிகவும் நெருக்கமானவன் ஆவேன்; இறைத் தூதர்கள் தந்தைவழிச் சகோதரர்கள் ஆவர்; எனக்கும் அவருக்கும் இடையே இறைத்தூதர் எவருமில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3442</td></tr><tr><td>Arabic No</td><td>3442</td></tr><tr><td>Reference</td><td>Book 60 Hadith 112</td></tr></tbody></table></div>
 

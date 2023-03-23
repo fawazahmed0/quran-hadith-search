@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আবূ লাহাব লানাতুল্লাহি ‘আলাইহি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে লক্ষ্য করে বললো, সারা দিনের জন্য তোমার অনিষ্ট হোক! (তার এ কথার পরিপ্রেক্ষিতে) নাযিল হয়ঃ (যার অর্থ) ‘‘আবূ লাহাবের হাত দু’টো ধ্বংস হোক এবং সেও ধ্বংস হোক’’- (আল-মাসাদঃ ১)। (৩৫২৫, ৩৫২৬, ৪৭৭০, ৪৮০১, ৪৯৭১, ৪৯৭২, ৪৯৭৩, মুসলিম ১/৮৯, হাঃ ২০৮, আহমাদ ২৮০২) (আধুনিক প্রকাশনীঃ ১৩০৪, ইসলামিক ফাউন্ডেশনঃ ১৩১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আবূ লাহাব লানাতুল্লাহি ‘আলাইহি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে লক্ষ্য করে বললো, সারা দিনের জন্য তোমার অনিষ্ট হোক! (তার এ কথার পরিপ্রেক্ষিতে) নাযিল হয়ঃ (যার অর্থ) ‘‘আবূ লাহাবের হাত দু’টো ধ্বংস হোক এবং সেও ধ্বংস হোক’’- (আল-মাসাদঃ ১)। (৩৫২৫, ৩৫২৬, ৪৭৭০, ৪৮০১, ৪৯৭১, ৪৯৭২, ৪৯৭৩, মুসলিম ১/৮৯, হাঃ ২০৮, আহমাদ ২৮০২) (আধুনিক প্রকাশনীঃ ১৩০৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1394</td></tr><tr><td>Arabic No</td><td>1394</td></tr><tr><td>Reference</td><td>Book 23 Hadith 148</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas.:Abu Lahab, may Allah curse him, once said to the Prophet (p.b.u.h), "Perish you all the day." Then the Divine Inspiration came: "Perish the hands of Abi Lahab! And perish he!" (111.1)
+Narrated Ibn 'Abbas.:Abu Lahab, may Allah curse him, once said to the Prophet (p.b.u.h), "Perish you all the day." Then the Divine Inspiration came: "Perish the hands of Abi Lahab! And perish he
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1394</td></tr><tr><td>Arabic No</td><td>1394</td></tr><tr><td>Reference</td><td>Book 23 Hadith 148</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan [bapakku] ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அபூலஹப்மீது அல்லாஹ்வின் சாபம் உண்டாகட்டும்! அவன் நபி (ஸல்) அவர்களைப் பார்த்து ‘இனி எல்லா நாட்களிலும் உமக்கு நாசம் உண்டாகட்டும்” எனக் கூறினான். அப்போதுதான், “அபூலஹபின் இரு கரங்களும் நாசமாகட்டும்; அவனும் நாசமாகட்டும்...” என்ற (111ஆவது) அத்தியாயம் அருளப்பெற்றது. அத்தியாயம் : 23
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அபூலஹப்மீது அல்லாஹ்வின் சாபம் உண்டாகட்டும்! அவன் நபி (ஸல்) அவர்களைப் பார்த்து ‘இனி எல்லா நாட்களிலும் உமக்கு நாசம் உண்டாகட்டும்” எனக் கூறினான். அப்போதுதான், “அபூலஹபின் இரு கரங்களும் நாசமாகட்டும்; அவனும் நாசமாகட்டும்...” என்ற (111ஆவது) அத்தியாயம் அருளப்பெற்றது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1394</td></tr><tr><td>Arabic No</td><td>1394</td></tr><tr><td>Reference</td><td>Book 23 Hadith 148</td></tr></tbody></table></div>
 

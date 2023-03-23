@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৮৩, আন্তর্জাতিক নাম্বারঃ ১৫৫ ২৮৩-(২৪৪/...) হারমালাহ ইবনু ইয়াহইয়া (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ তোমাদের জীবন কতই না ধন্য হবে, যখন ঈসা ইবনু মারইয়াম (আঃ) তোমাদের মাঝে অবতরণ করবেন এবং তোমাদেরই একজন তোমাদের ইমাম হবেন। (ইসলামিক ফাউন্ডেশনঃ ২৮৯, ইসলামিক সেন্টারঃ ৩০০)
+হারমালাহ ইবনু ইয়াহইয়া (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ তোমাদের জীবন কতই না ধন্য হবে, যখন ঈসা ইবনু মারইয়াম (আঃ) তোমাদের মাঝে অবতরণ করবেন এবং তোমাদেরই একজন তোমাদের ইমাম হবেন। (ইসলামিক ফাউন্ডেশনঃ ২৮৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>392</td></tr><tr><td>Arabic No</td><td>155.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 297</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Harmeletü'bnü Yahya rivayet etti. (Dedi ki): Bize İbni Vehb haber verdi. (Dedi ki): Bana Yunus, İbni Şihâb'dan naklen haber verdi. Demiş ki: Bana Ebu Katâdete'I-Ensârî'nin âzadlısı Nâfi' haber verdi ki, Ebu Hureyre şöyle demiş: Resulullâh (Sallallahu Aleyhi ve Sellem): "İmamınız sizden olduğu halde Meryem oğlunun aranızda ineceği zamanda haliniz ne olacak" buyurdu. Diğer tahric: Buhari, 3449; Tuhfetu'l-Eşraf, 14236
+Bana Harmeletü'bnü Yahya rivayet etti. (Dedi ki): Bize İbni Vehb haber verdi. (Dedi ki): Bana Yunus, İbni Şihâb'dan naklen haber verdi. Demiş ki: Bana Ebu Katâdete'I-Ensârî'nin âzadlısı Nâfi' haber verdi ki, Ebu Hureyre şöyle demiş: Resulullâh (Sallallahu Aleyhi ve Sellem): "İmamınız sizden olduğu halde Meryem oğlunun aranızda ineceği zamanda haliniz ne olacak" buyurdu. Diğer tahric: Buhari, 3449; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>392</td></tr><tr><td>Arabic No</td><td>155.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 297</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৮৫৫, আন্তর্জাতিক নাম্বারঃ ২৭৪৭ ৬৮৫৫-(…/...) আহমাদ আদ দারিমী (রহঃ) ..... আনাস (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৭০৯, ইসলামিক সেন্টার ৬৭৬৫)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6962</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

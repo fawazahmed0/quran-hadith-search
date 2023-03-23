@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-عَفَوْا كَثُرُوا وَكَثُرَتْ أَمْوَالُهُمْ. ‘আফাও’ অর্থ বর্ধিত করা। তাদের মাল বর্ধিত হয়েছে। ৫৮৯৩. ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা গোঁফ অধিক ছোট করবে এবং দাড়ি ছেড়ে দিবে (বড় রাখবে)। [৫৮৯২] (আধুনিক প্রকাশনী- ,৫৪৬৫ ইসলামিক ফাউন্ডেশন- ৫৩৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عَفَوْا كَثُرُوا وَكَثُرَتْ أَمْوَالُهُمْ. ‘আফাও’ অর্থ বর্ধিত করা। তাদের মাল বর্ধিত হয়েছে। ৫৮৯৩. ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা গোঁফ অধিক ছোট করবে এবং দাড়ি ছেড়ে দিবে (বড় রাখবে)। [৫৮৯২] (আধুনিক প্রকাশনী- ,৫৪৬৫ ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5893</td></tr><tr><td>Arabic No</td><td>5893</td></tr><tr><td>Reference</td><td>Book 77 Hadith 110</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad] telah mengabarkan kepada kami [Abdah] tel
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மீசையை நன்கு ஒட்டக் கத்தரியுங்கள். தாடியை வளரவிடுங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 77
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மீசையை நன்கு ஒட்டக் கத்தரியுங்கள். தாடியை வளரவிடுங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5893</td></tr><tr><td>Arabic No</td><td>5893</td></tr><tr><td>Reference</td><td>Book 77 Hadith 110</td></tr></tbody></table></div>
 

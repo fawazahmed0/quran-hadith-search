@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যায়দ ইবনু খালিদ (রহ.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সময় একবার বৃষ্টি হলো। তিনি বললেনঃ আল্লাহ্ বলছেন, (বৃষ্টি হওয়ার ব্যাপার নিয়ে) আমার বান্দাদের কতক আমার সঙ্গে কুফরী করছে, আর কতক ঈমান এনেছে। [৮৪৬] (আধুনিক প্রকাশনী- ৬৯৮৪, ইসলামিক ফাউন্ডেশন- ৬৯৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যায়দ ইবনু খালিদ (রহ.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সময় একবার বৃষ্টি হলো। তিনি বললেনঃ আল্লাহ্ বলছেন, (বৃষ্টি হওয়ার ব্যাপার নিয়ে) আমার বান্দাদের কতক আমার সঙ্গে কুফরী করছে, আর কতক ঈমান এনেছে। [৮৪৬] (আধুনিক প্রকাশনী- ৬৯৮৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7503</td></tr><tr><td>Arabic No</td><td>7503</td></tr><tr><td>Reference</td><td>Book 97 Hadith 128</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Zaid bin Khalid:It rained (because of the Prophet's invocation for rain
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸைத் பின் காலித் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் காலத்தில் (ஒருநாள்) மழை பொழிந்தது. அப்போது அவர்கள், “என் அடியார்களில் என்னை நிராகரிப்பவனும் இருக்கின்றான்; என்னை நம்புகிறவனும் இருக்கின்றான் என அல்லாஹ் கூறுகின்றான்” என்று சொன்னார்கள்.145 அத்தியாயம் : 97
+ஸைத் பின் காலித் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் காலத்தில் (ஒருநாள்) மழை பொழிந்தது. அப்போது அவர்கள், “என் அடியார்களில் என்னை நிராகரிப்பவனும் இருக்கின்றான்; என்னை நம்புகிறவனும் இருக்கின்றான் என அல்லாஹ் கூறுகின்றான்” என்று சொன்னார்கள்.145 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7503</td></tr><tr><td>Arabic No</td><td>7503</td></tr><tr><td>Reference</td><td>Book 97 Hadith 128</td></tr></tbody></table></div>
 

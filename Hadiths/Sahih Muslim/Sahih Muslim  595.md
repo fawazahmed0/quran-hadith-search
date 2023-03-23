@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৮৩, আন্তর্জাতিক নাম্বারঃ ২৫৫ ৪৮৩-(৪৭/...) মুহাম্মাদ ইবনু আল মুসান্না ও ইবনু বাশশার (রহঃ) ..... হুযাইফাহ (রাযিঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন রাতে উঠতেন তখন মিসওয়াক দ্বারা ঘষে মুখ পরিষ্কার করতেন। (ইসলামিক ফাউন্ডেশনঃ ৪৮৬, ইসলামিক সেন্টারঃ ৫০২)
+মুহাম্মাদ ইবনু আল মুসান্না ও ইবনু বাশশার (রহঃ) ..... হুযাইফাহ (রাযিঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন রাতে উঠতেন তখন মিসওয়াক দ্বারা ঘষে মুখ পরিষ্কার করতেন। (ইসলামিক ফাউন্ডেশনঃ ৪৮৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>595</td></tr><tr><td>Arabic No</td><td>255.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 62</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹுதைஃபா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரவில் (உறங்கி) எழுந்ததும் பல் துலக்கும் குச்சியால் தம் வாயைத் தேய்ப்பார்கள். இந்த ஹதீஸ் பல அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 2
+ஹுதைஃபா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரவில் (உறங்கி) எழுந்ததும் பல் துலக்கும் குச்சியால் தம் வாயைத் தேய்ப்பார்கள். இந்த ஹதீஸ் பல அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>595</td></tr><tr><td>Arabic No</td><td>255.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 62</td></tr></tbody></table></div>
 

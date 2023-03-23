@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন উবায়দ (রহঃ) ...... মালিক ইবন আওস (রাঃ) উপরোক্ত হাদীসে বর্ণিত ঘটনার প্রেক্ষিতে বলেনঃ তাঁরা উভয়ে অর্থাৎ আলী (রাঃ) ও আব্বাস (রাঃ) ঐ মালের ব্যাপারে পরস্পর ঝগড়ায় লিপ্ত হন, যা আল্লাহ্‌ তাঁর রাসূলকে বনূ নযীর গোত্রের ধন-সম্পদ হতে প্রদান করেছিলেন। আবূ দাঊদ (রহঃ) বলেনঃ উমার (রাঃ)-এর উদ্দেশ্য ছিল যে, তাতে যেন বণ্টনের নাম না আসে। কেননা বণ্টনযোগ্য তো ঐ সম্পদ, যাতে মালিকানা বর্তায়। আর এ মালে মালিকনা বর্তায়নি।
+। মালিক ইবনু আওস (রাঃ) সূত্রে বর্ণিত। তিনি উক্ত ঘটনা সম্পর্কে বলেন, তারা উভয়ে অর্থাৎ আলী ও আব্বাস (রাঃ) খায়বারের ফাইলদ্ধ সম্পদ নিয়ে বিবাদে লিপ্ত হলেন- যা বনূ নাযীর গোত্রের কাছ থেকে আল্লাহ তাঁর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দান করেছিলেন। আবূ দাঊদ (রহঃ) বলেন, ‘উমার (রাঃ)-এর ইচ্ছা ছিলো এ সম্পদের উপর বণ্টনের নামও নেয়া যাবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2964</td></tr><tr><td>Arabic No</td><td>2964</td></tr><tr><td>Reference</td><td>Book 20 Hadith 37</td></tr></tbody></table></div>
 

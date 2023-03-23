@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩২৯৫। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দস্তরখান বিছানো হলে তা পুনরায় তুলে না নেয়া পর্যন্ত কোন ব্যক্তি যেন উঠে না যায় এবং সে আহারে পরিতৃপ্ত হলেও হাত গুটিয়ে না নেয়, যতক্ষণ না অন্য সকলের আহার গ্রহণ শেষ হয়। (একান্তই যদি ওঠার প্রয়োজন হয় তবে) সে যেন ওজরখাহি করে। কারণ সে হাত গুটিয়ে নিলে তার সাথে লোক লজ্জিত হবে এবং হয়ত তার আরও খাদ্যের প্রয়োজন থাকতে পারে।
+। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দস্তরখান বিছানো হলে তা পুনরায় তুলে না নেয়া পর্যন্ত কোন ব্যক্তি যেন উঠে না যায় এবং সে আহারে পরিতৃপ্ত হলেও হাত গুটিয়ে না নেয়, যতক্ষণ না অন্য সকলের আহার গ্রহণ শেষ হয়। (একান্তই যদি ওঠার প্রয়োজন হয় তবে) সে যেন ওজরখাহি করে। কারণ সে হাত গুটিয়ে নিলে তার সাথে লোক লজ্জিত হবে এবং হয়ত তার আরও খাদ্যের প্রয়োজন থাকতে পারে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3295</td></tr><tr><td>Arabic No</td><td>3295</td></tr><tr><td>Reference</td><td>Book 29 Hadith 45</td></tr></tbody></table></div>
 

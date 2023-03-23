@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অশ্লীল ভাষী ও অসদাচরণের অধিকারী ছিলেন না। তিনি বলতেন, তোমাদের মধ্যে সেই ব্যক্তিই সর্বোত্তম যে নৈতিকতায় সর্বোত্তম। (৩৭৫৯, ৬০২৯, ৬০৩৫, মুসলিম ৪৩/১৬ হাঃ ২৩২১, আহমাদ ৬৫১৪) (আধুনিক প্রকাশনীঃ ৩২৯৫, ইসলামিক ফাউন্ডেশনঃ ৩৩০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অশ্লীল ভাষী ও অসদাচরণের অধিকারী ছিলেন না। তিনি বলতেন, তোমাদের মধ্যে সেই ব্যক্তিই সর্বোত্তম যে নৈতিকতায় সর্বোত্তম। (৩৭৫৯, ৬০২৯, ৬০৩৫, মুসলিম ৪৩/১৬ হাঃ ২৩২১, আহমাদ ৬৫১৪) (আধুনিক প্রকাশনীঃ ৩২৯৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3559</td></tr><tr><td>Arabic No</td><td>3559</td></tr><tr><td>Reference</td><td>Book 61 Hadith 68</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) never used bad language neither a "Fahish nor a Mutafahish. He used to say "The best amongst you are those who have the best manners and character." (See Hadith No. 56 (B) Vol. 8
+Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) never used bad language neither a "Fahish nor a Mutafahish. He used to say "The best amongst you are those who have the best manners and character." (See Hadith No. 56 (B) Vol
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3559</td></tr><tr><td>Arabic No</td><td>3559</td></tr><tr><td>Reference</td><td>Book 61 Hadith 68</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) never used bad language neither a 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இயற்கையாகவோ, செயற்கையாகவோ கெட்ட வார்த்தை பேசுபவர்களாக இருந்ததில்லை. “உங்களில் சிறந்தவர் உங்களில் நற்குணமுடையவரே” என்று அவர்கள் கூறுவார்கள். அத்தியாயம் : 61
+அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இயற்கையாகவோ, செயற்கையாகவோ கெட்ட வார்த்தை பேசுபவர்களாக இருந்ததில்லை. “உங்களில் சிறந்தவர் உங்களில் நற்குணமுடையவரே” என்று அவர்கள் கூறுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3559</td></tr><tr><td>Arabic No</td><td>3559</td></tr><tr><td>Reference</td><td>Book 61 Hadith 68</td></tr></tbody></table></div>
 

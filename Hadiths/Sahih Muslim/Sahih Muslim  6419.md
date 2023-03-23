@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+(…/...) ইয়াহইয়া ইবনু হাবীব (রহঃ) অপর সূত্রে আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... শুবাহ (রহঃ) এর সূত্রে এ সানাদে অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬১৯১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6419</td></tr><tr><td>Arabic No</td><td>2509.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 248</td></tr></tbody></table></div>
 

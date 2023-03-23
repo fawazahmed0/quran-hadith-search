@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হামেদ ইবন ইয়াহিয়া আল-বালখী (রহঃ) ..... আতা ইবন আবু রাবাহ (রহঃ) সাদ ইবন সাইদ (রাঃ) হতে উপরোক্ত হাদিসের অনুরূপ বর্ণনা করেছেন।
+। সুফয়ান (রহঃ) বলেন, ‘আত্বা ইবনু আবূ রাবাহ (রহঃ) এ হাদীস সা‘দ ইবনু সাঈদ (রহঃ) সূত্রে বর্ণনা করেছেন। ইমাম আবূ দাউদ (রহঃ) বলেন, সা‘দ এর দুই পুত্র ‘আবদ রাব্বিহী ও ইয়াহইয়া এ হাদীস মুরসাল হিসেবে বর্ণনা করেছেন। তাদের দাদা যায়িদ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে সালাত আদায় করেছেন এবং ঘটনাটি তার সাথে সংশ্লিষ্ট।[1] সহীহ: পূর্বেরটির কারণে। এবং তার উক্তিঃ (তাদের দাদা যায়িদ) কথাটি ভুল। সঠিক হচ্ছেঃ (তাদের দাদা ক্বায়িস)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1268</td></tr><tr><td>Arabic No</td><td>1268</td></tr><tr><td>Reference</td><td>Book 5 Hadith 19</td></tr></tbody></table></div>
 

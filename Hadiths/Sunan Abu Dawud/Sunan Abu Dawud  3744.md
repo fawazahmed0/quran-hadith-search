@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হামিদ ইবন ইয়াহ্‌ইয়া (রহঃ) ..... আনাস ইবন মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সুফিয়া (রাঃ) এর ওলীমা ছাতু এবং খোরমা দ্বারা করেছিলেন।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাফিয়্যাহ (রাঃ)-এর বিবাহে খেজুর ও ছাতু দিয়ে ওয়ালিমা করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3744</td></tr><tr><td>Arabic No</td><td>3744</td></tr><tr><td>Reference</td><td>Book 28 Hadith 9</td></tr></tbody></table></div>
 

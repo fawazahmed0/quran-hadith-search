@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩৩৯, আন্তর্জাতিক নাম্বারঃ ২০৮২ ৫৩৩৯-(৩৭/২০৮২) আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, যে বালিশের উপর রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হেলান দিতেন সেটি ছিল চর্মের। এর অভ্যন্তরে খেজুর গাছের ছাল ছিল। (ইসলামিক ফাউন্ডেশন ৫২৭২, ইসলামিক সেন্টার ৫২৮৫)
+আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, যে বালিশের উপর রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হেলান দিতেন সেটি ছিল চর্মের। এর অভ্যন্তরে খেজুর গাছের ছাল ছিল। (ইসলামিক ফাউন্ডেশন ৫২৭২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5446</td></tr><tr><td>Arabic No</td><td>2082.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 61</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் சாய்ந்துகொள்ளும் தலையணை, பதனிடப்பட்ட தோலால் அமைந்திருந்தது. அது ஈச்ச நாரினால் நிரப்பப்பெற்றிருந்தது. அத்தியாயம் : 37
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் சாய்ந்துகொள்ளும் தலையணை, பதனிடப்பட்ட தோலால் அமைந்திருந்தது. அது ஈச்ச நாரினால் நிரப்பப்பெற்றிருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5446</td></tr><tr><td>Arabic No</td><td>2082.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 61</td></tr></tbody></table></div>
 

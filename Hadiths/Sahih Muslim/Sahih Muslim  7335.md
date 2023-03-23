@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২২৫, আন্তর্জাতিক নাম্বারঃ ১৯২১ ৭২২৫-(৭৯/২৯২১) আবু বকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... ইবনু উমর (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, অবশ্যই ইয়াহুদীরা তোমাদের সঙ্গে লড়াই করবে এবং তোমরা তাদেরকে হত্যা করবে। পরিশেষে পাথর (সন্ধান দিয়ে) বলবে, হে মুসলিম। এ-ই যে ইয়াহুদী। এসো, তুমি তাকে হত্যা কর। (ইসলামিক ফাউন্ডেশন ৭০৭১, ইসলামিক সেন্টার ৭১২৫)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7335</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

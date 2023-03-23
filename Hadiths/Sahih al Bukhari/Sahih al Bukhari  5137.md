@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, হে আল্লাহর রাসূল! নিশ্চয়ই কুমারী মেয়েরা লজ্জা করে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তার চুপ থাকাটাই হচ্ছে তার সম্মতি। [৬৯৪৬, ৬৯৭১](আধুনিক প্রকাশনী- ৪৭৫৮, ইসলামিক ফাউন্ডেশন- ৪৭৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, হে আল্লাহর রাসূল! নিশ্চয়ই কুমারী মেয়েরা লজ্জা করে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তার চুপ থাকাটাই হচ্ছে তার সম্মতি। [৬৯৪৬, ৬৯৭১](আধুনিক প্রকাশনী- ৪৭৫৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5137</td></tr><tr><td>Arabic No</td><td>5137</td></tr><tr><td>Reference</td><td>Book 67 Hadith 73</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Amru bin Ar Rabi' bin Thariq] ia berkata; Telah 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான், ‘‘அல்லாஹ்வின் தூதரே! கன்னிப் பெண் வெட்கப்படுவாளே?” என்று கேட்டேன். அதற்கு, ‘‘அவளது மௌனமே சம்மதம்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 67
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான், ‘‘அல்லாஹ்வின் தூதரே! கன்னிப் பெண் வெட்கப்படுவாளே?” என்று கேட்டேன். அதற்கு, ‘‘அவளது மௌனமே சம்மதம்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5137</td></tr><tr><td>Arabic No</td><td>5137</td></tr><tr><td>Reference</td><td>Book 67 Hadith 73</td></tr></tbody></table></div>
 

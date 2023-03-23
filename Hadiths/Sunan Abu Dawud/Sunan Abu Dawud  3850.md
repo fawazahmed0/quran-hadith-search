@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আলা (রহঃ) ...... আবূ সা'ঈদ খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খানা খাওয়ার পর এরূপ দু'আ পড়তেনঃ (অর্থ) সমস্ত প্রশংসা সে আল্লাহ্‌র জন্য, যিনি আমাদের খাওয়ালেন, পান করালেন এবং আমাদেরকে তাঁর অনুগত বান্দাদের অন্তর্ভুক্ত করেছেন।
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খাওয়া শেষে বলতেনঃ ‘‘সেই আল্লাহর জন্য সমস্ত প্রশংসা যিনি আমাদেরকে খাওয়ালেন, পান করালেন এবং মুসলিমদের অন্তর্ভুক্ত করলেন।[1] দুর্বলঃ মিশকাত (৪২০৪)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3850</td></tr><tr><td>Arabic No</td><td>3850</td></tr><tr><td>Reference</td><td>Book 28 Hadith 115</td></tr></tbody></table></div>
 

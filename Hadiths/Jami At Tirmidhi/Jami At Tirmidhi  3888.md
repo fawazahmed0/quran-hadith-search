@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮৮৮। আমর ইবনু গালিব (রহঃ) হতে বর্ণিত আছে, এক লোক আম্মার ইবনু ইয়াসির (রাঃ)-এর নিকটে বসে আইশা (রাঃ) প্রসঙ্গে কিছু বিরুপ মন্তব্য করলে আম্মার (রাঃ) বলেনঃ দূর হও পাপিষ্ঠ এখান থেকে! তুমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের প্রিয়তমাকে কষ্ট দিচ্ছ। সনদ দুর্বল আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
+। আমর ইবনু গালিব (রহঃ) হতে বর্ণিত আছে, এক লোক আম্মার ইবনু ইয়াসির (রাঃ)-এর নিকটে বসে আইশা (রাঃ) প্রসঙ্গে কিছু বিরুপ মন্তব্য করলে আম্মার (রাঃ) বলেনঃ দূর হও পাপিষ্ঠ এখান থেকে! তুমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের প্রিয়তমাকে কষ্ট দিচ্ছ। সনদ দুর্বল আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3888</td></tr><tr><td>Arabic No</td><td>3888</td></tr><tr><td>Reference</td><td>Book 49 Hadith 288</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন ইউনুস (রহঃ) ...... আমির (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে আলী (রাঃ), ফযল (রাঃ) এবং উসামা ইবন যায়দ (রাঃ) গোসল দিয়েছিলেন এবং এরাই তাকে কবরে নামিয়েছিলেন। রাবী বলেনঃ আমার নিকট মারহাব অথবা ইবন আবী মারহাব বর্ণনা করেছেন যে, তাঁরা আবদুর রহমান ইবন আওফ (রাঃ)-কেও তাদের সংগে নিয়েছিলেন। তাঁরা দাফনক্রিয়া শেষ করলে আলী (রাঃ) বলেনঃ প্রত্যেক ব্যক্তির (দাফনের) কাজ তার স্বজনদের করা উচিত।
+। ‘আমির (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আলী (রাঃ), আল-ফাদল ইবনু আব্বাস (রাঃ) ও উসামাহ ইবনু যায়িয (রাঃ) গোসল দিয়েছেন এবং তারাই তাকে কবরে নামিয়েছেন। আশ্ শা‘বী (রহঃ) বলেন, মারহাব কিংবা ইবনু আবূ মারহাব আমাদের কাছে বর্ণনা করেন, তারা ‘আব্দুর রাহমান ইবনু আওফ (রাঃ)-কেও তাদের সাথে শরীক করেন। দাফন সম্পন্ন করে আলী (রাঃ) বললেন, মৃত ব্যক্তির দাফন কাজ তার স্বজনের সম্পন্ন করা উচিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3209</td></tr><tr><td>Arabic No</td><td>3209</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
 

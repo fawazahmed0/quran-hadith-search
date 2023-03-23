@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ তাহির ও হারূন ইবনু সাঈদ আল আইলী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ পাঁচ ওয়াক্ত সালাত, এক জুমুআহ থেকে আর এক জুমুআহ এবং এক রমাযান থেকে আর এক রমাযান, তার মধ্যবর্তী সময়ের জন্যে কাফফারাহ হয়ে যাবে যদি কাবীরাহ গুনাহ হতে বেঁচে থাকে। (ইসলামিক ফাউন্ডেশনঃ ৪৪৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>552</td></tr><tr><td>Arabic No</td><td>233.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 19</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu ath-Thahir] dan [Harun bin Sa'id al-Aili] ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஐவேளைத் தொழுகைகள், ஒரு ஜுமுஆவிலிருந்து மறு ஜுமுஆ ஆகியன அவற்றுக்கிடையே ஏற்படும் பாவங்களுக்குப் பரிகாரங்களாகும். பெரும்பாவங்களில் சிக்காதவரை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 2
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஐவேளைத் தொழுகைகள், ஒரு ஜுமுஆவிலிருந்து மறு ஜுமுஆ ஆகியன அவற்றுக்கிடையே ஏற்படும் பாவங்களுக்குப் பரிகாரங்களாகும். பெரும்பாவங்களில் சிக்காதவரை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>552</td></tr><tr><td>Arabic No</td><td>233.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 19</td></tr></tbody></table></div>
 

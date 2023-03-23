@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুআম্মাল (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কেউ খাবার খায়, তখন সে যেন বিসমিল্লাহ বলে। যদি সে খাবার গ্রহণের শুরুতে বিসমিল্লাহ বলতে ভুলে যায়, তবে সে যেন পরে বলেঃ (অর্থ) আমি আল্লাহ্‌র নামে খাওয়া শুরু করছি- প্রথমে এবং শেষে।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কেউ আহার করতে বসলে যেন বিসমিল্লাহ বলে খাবার শুরু করে। সে যদি প্রথমে বিসমিল্লাহ বলতে ভুলে যায় তবে যেন বলেঃ খাবারের শুরুতে আল্লাহর নাম শেষেও আল্লাহর নাম।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3767</td></tr><tr><td>Arabic No</td><td>3767</td></tr><tr><td>Reference</td><td>Book 28 Hadith 32</td></tr></tbody></table></div>
 

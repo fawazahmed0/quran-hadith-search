@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হায়ছাম ইব্‌ন খালিদ আল জুহানী (রহঃ) .... আলী (রাঃ) হতে বর্ণিত। তিনি পথিমধ্যে কিছু পতিত দীনার প্রাপ্ত হন এবং তা দিয়ে কিছু আটা ক্রয় করেন। আটা বিক্রেতা তাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জামাতা হিসাবে চিনিতে পেরে দীনার তাকে ফিরিয়ে দেন। অতঃপর আলী (রাঃ) তা গ্রহণ করে তা ভাঙ্গিয়ে দুই কিরাতের গোশত খরিদ করেন।
+। ‘আলী (রাঃ) সূত্রে বর্ণিত। তিনি পথে পতিত একটি দীনার পেয়ে তা দিয়ে আটা কিনলেন। আটার বিক্রেতা তাকে (রাসূলের জামাতা হিসেবে) চিনতে পেরে তাঁকে দীনারটি ফেরত দিলেন। অতঃপর ‘আলী (রাঃ) দীনারটি ভাঙ্গিয়ে দুই ক্বিরাত দিয়ে গোশত কিনলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1715</td></tr><tr><td>Arabic No</td><td>1715</td></tr><tr><td>Reference</td><td>Book 10 Hadith 15</td></tr></tbody></table></div>
 

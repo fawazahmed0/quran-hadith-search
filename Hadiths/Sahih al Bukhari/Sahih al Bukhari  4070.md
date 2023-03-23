@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালিম ইবনু ‘আবদুল্লাহ (রহ.) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সাফওয়ান ইবনু উমাইয়াহ, সুহায়ল ইবনু আমর এবং হারিস ইবনু হিশামের জন্য বদদু‘আ করতেন। এ ব্যাপারেই অবতীর্ণ হয়েছে- ‘‘তিনি তাদের প্রতি ক্ষমাশীল হবেন অথবা তাদেরকে শাস্তি দেবেন, এ বিষয়ে আপনার করণীয় কিছুই করার নেই। কারণ তারা যালিম।’’ [৪০৬৯] (আধুনিক প্রকাশনীঃ ৩৭৬৫, ইসলামিক ফাউন্ডেশনঃ ৩৭৬৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালিম ইবনু ‘আবদুল্লাহ (রহ.) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সাফওয়ান ইবনু উমাইয়াহ, সুহায়ল ইবনু আমর এবং হারিস ইবনু হিশামের জন্য বদদু‘আ করতেন। এ ব্যাপারেই অবতীর্ণ হয়েছে- ‘‘তিনি তাদের প্রতি ক্ষমাশীল হবেন অথবা তাদেরকে শাস্তি দেবেন, এ বিষয়ে আপনার করণীয় কিছুই করার নেই। কারণ তারা যালিম।’’ [৪০৬৯] (আধুনিক প্রকাশনীঃ ৩৭৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4070</td></tr><tr><td>Arabic No</td><td>4070</td></tr><tr><td>Reference</td><td>Book 64 Hadith 115</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Salim bin 'Abdullah said' "Allah's Messenger (ﷺ) used to invoke evil upon Safwan bin Umaiya, Suhail bin 'Amr and Al-Harith bin Hisham. So the Verse was revealed:-- "Not for you (O Muhammad!)......(till the end of Verse) For they are indeed wrong-doers." (3.128)
+Salim bin 'Abdullah said' "Allah's Messenger (ﷺ) used to invoke evil upon Safwan bin Umaiya, Suhail bin 'Amr and Al-Harith bin Hisham. So the Verse was revealed:-- "Not for you (O Muhammad!)......(till the end of Verse) For they are indeed wrong-doers
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4070</td></tr><tr><td>Arabic No</td><td>4070</td></tr><tr><td>Reference</td><td>Book 64 Hadith 115</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Salim bin 'Abdullah said' "Allah's Messenger (ﷺ) used to invoke evil upon Safw
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சாலிம் பின் அப்தில்லாஹ் (ரஹ்) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (உஹுத் போரில் காயப்படுத்தப்பட்ட போது எதிரிகளான) ஸஃப்வான் பின் உமய்யா, சுஹைல் பின் அம்ர், ஹாரிஸ் பின் ஹிஷாம் ஆகியோருக்கெதிராகப் பிரார்த்தித்தார்கள். அப்போது, “(நபியே!) அதிகாரத்தில் உமக்கு எந்தப் பங்கும் இல்லை. ஒன்று அவர்களை அல்லாஹ் மன்னிக்கலாம். அல்லது அவர்களைத் தண்டிக்கலாம். ஏனெனில், அவர்கள் அநீதி இழைத்தவர் களாவர்.” என்ற (3:128) எனும் வசனம் அருளப்பெற்றது.134 அத்தியாயம் : 64
+சாலிம் பின் அப்தில்லாஹ் (ரஹ்) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (உஹுத் போரில் காயப்படுத்தப்பட்ட போது எதிரிகளான) ஸஃப்வான் பின் உமய்யா, சுஹைல் பின் அம்ர், ஹாரிஸ் பின் ஹிஷாம் ஆகியோருக்கெதிராகப் பிரார்த்தித்தார்கள். அப்போது, “(நபியே!) அதிகாரத்தில் உமக்கு எந்தப் பங்கும் இல்லை. ஒன்று அவர்களை அல்லாஹ் மன்னிக்கலாம். அல்லது அவர்களைத் தண்டிக்கலாம். ஏனெனில், அவர்கள் அநீதி இழைத்தவர் களாவர்.” என்ற (3:128) எனும் வசனம் அருளப்பெற்றது.134 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4070</td></tr><tr><td>Arabic No</td><td>4070</td></tr><tr><td>Reference</td><td>Book 64 Hadith 115</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... নুয়াইম তার পিতা হতে বর্ণনা করেন যে, মাইয (রাঃ) নরী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়ে চারবার যিনার কথা স্বীকার করেন। যার ফলে তিনি তাকে পাথর মেরে হত্যার নির্দেশ দেন এবং হুযালা (রাঃ)-কে বলেনঃ যদি তুমি এ কথা তোমার কাপড় দিয়ে ঢেকে রাখতে (অর্থাৎ গোপন রাখতে), তবে তা তোমার জন্য উওম হতো।
+। ইয়াযীদ ইবনু সুআইম (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। মাঈয নামক জনৈক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে চার বার (যেনার কথা) স্বীকার করে। সুতরাং তিনি তাকে পাথর মেরে হত্যা করার আদেশ দেন। আর তিনি হাজ্জালকে বলেন, তুমি যদি এটা তোমার কাপড় দিয়ে ঢেকে রাখতে, তাহলে তোমার কল্যাণ হতো।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4377</td></tr><tr><td>Arabic No</td><td>4377</td></tr><tr><td>Reference</td><td>Book 40 Hadith 27</td></tr></tbody></table></div>
 

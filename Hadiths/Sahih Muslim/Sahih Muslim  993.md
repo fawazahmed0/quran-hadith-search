@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৭৯, আন্তর্জাতিক নাম্বারঃ ৪৪২ ৮৭৯-(.../...) ‘আলী ইবনু খাশরাম (রহঃ) ..... আল আ'মাশ (রহঃ)-এর সূত্রে এ সনদে উপরোক্ত হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৮৭৫, ইসলামিক সেন্টারঃ ৮৮৮)
+‘আলী ইবনু খাশরাম (রহঃ) ..... আল আ'মাশ (রহঃ)-এর সূত্রে এ সনদে উপরোক্ত হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৮৭৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>993</td></tr><tr><td>Arabic No</td><td>442.06</td></tr><tr><td>Reference</td><td>Book 4 Hadith 155</td></tr></tbody></table></div>
 

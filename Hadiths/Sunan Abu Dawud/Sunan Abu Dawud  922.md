@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনে হাম্বল (রহঃ) .... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘরের দরজা বন্ধ করে নামায আদায় করছিলেন। এ সময় আমি এলে তিনি দরজা খুলে দিয়ে পুনরায় নামাযে রত হন। হাদিসে আরও উল্লেখ আছে যে, দরজাটি কেবলামুখী ছিল। (নাসাঈ, তিরমিযী)।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘরে দরজা বন্ধ করে সালাত আদায় করছিলেন। এমতাবস্থায় আমি এসে দরজা খুলতে বললে তিনি হেঁটে গিয়ে দরজা খুলে পুনরায় সালাতে রত হলেন। হাদীসে একথাও রয়েছে যে, দরজাটি ক্বিবলা (কিবলা/কেবলা)হর দিকে ছিলো।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>922</td></tr><tr><td>Arabic No</td><td>922</td></tr><tr><td>Reference</td><td>Book 2 Hadith 533</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Musaddad] sedangkan ini a
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Müsedded'in rivayet ettiği lafızlar esas alınmak suretiyle:) Âişe (r.anhâ)'dan; demiştir ki: Resûlullah (s.a.v.) (odasında) idi. -Ahmed'in rivayetinde, "namaz kılıyordu"- Ve kapı da kapalı idi. Ben geldim (namazda olduğunu bilmeden) kapıyı açmasını istedim. Ahmed buraya "yürüdü" sözünü ilave etti. Bana kapıyı açtı. Sonra (geri geri giderek) namaz kıldığı yere döndü." (Hadisin râvilerinden Urve b. ez-Zübeyr) "kapı kıble cihetindeydi" demiştir. Diğer tahric: Nesâî, sehv; Tirmizî, cuma; Ahmed b. Hanbel, I, 74, VI, 31
+(Müsedded'in rivayet ettiği lafızlar esas alınmak suretiyle:) Âişe (r.anhâ)'dan; demiştir ki: Resûlullah (s.a.v.) (odasında) idi. -Ahmed'in rivayetinde, "namaz kılıyordu"- Ve kapı da kapalı idi. Ben geldim (namazda olduğunu bilmeden) kapıyı açmasını istedim. Ahmed buraya "yürüdü" sözünü ilave etti. Bana kapıyı açtı. Sonra (geri geri giderek) namaz kıldığı yere döndü." (Hadisin râvilerinden Urve b. ez-Zübeyr) "kapı kıble cihetindeydi" demiştir. Diğer tahric: Nesâî, sehv; Tirmizî, cuma; Ahmed b. Hanbel, I, 74, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>922</td></tr><tr><td>Arabic No</td><td>922</td></tr><tr><td>Reference</td><td>Book 2 Hadith 533</td></tr></tbody></table></div>
 

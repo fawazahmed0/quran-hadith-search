@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৩২৮। মুহাম্মাদ ইবনু বাশশার স্বীয় সনদে মুআয (রাঃ) হতে হান্নাদের হাদীসের মতই বর্ণনা করেছেন। দেখুন পূর্বের হাদীস আবূ ঈসা বলেছেন, শুধু উল্লেখিত সূত্রেই আমরা হাদীসটি প্রসঙ্গে জেনেছি। আমার মতে এ হাদীসের সনদ পরস্পর সংযুক্ত নয়। আবূ আওন আস-সাকাফীর নাম মুহাম্মাদ, পিতা উবাইদুল্লাহ।
+। মুহাম্মাদ ইবনু বাশশার স্বীয় সনদে মুআয (রাঃ) হতে হান্নাদের হাদীসের মতই বর্ণনা করেছেন। দেখুন পূর্বের হাদীস আবূ ঈসা বলেছেন, শুধু উল্লেখিত সূত্রেই আমরা হাদীসটি প্রসঙ্গে জেনেছি। আমার মতে এ হাদীসের সনদ পরস্পর সংযুক্ত নয়। আবূ আওন আস-সাকাফীর নাম মুহাম্মাদ, পিতা উবাইদুল্লাহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1328</td></tr><tr><td>Arabic No</td><td>1328</td></tr><tr><td>Reference</td><td>Book 15 Hadith 8</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হিশাম ইবনু আম্মার .... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ কোন ব্যক্তি মসজিদে যে উদ্দেশ্যে আসবে তার জন্য তদ্রুপ (বিনিময়) রয়েছে।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ কোন উদ্দেশে মসজিদে এলে, সে ঐ উদ্দেশ্য অনুপাতেই (প্রতিদান) পাবে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>472</td></tr><tr><td>Arabic No</td><td>472</td></tr><tr><td>Reference</td><td>Book 2 Hadith 82</td></tr></tbody></table></div>
 

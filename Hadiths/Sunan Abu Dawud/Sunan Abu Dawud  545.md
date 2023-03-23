@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবনু ইসহাক ..... সালিম আবূন-নাদর থেকে বর্ণিত। তিনি বলেন, মুআযযিন ইকামত দেয়ার পরেও মুসল্লীদের কম উপস্থিতির কারণে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাদের আগমন অপেক্ষায় বসে থাকতেন এবং যখন তিনি মুসল্লীর সংখ্যা অধিক দেখতেন তখন ইকামতের সাথে সাথেই নামায আদায় করতেন। (মুরসাল হাদীস)।
+। সালিম আবূন্ নাদর সূত্রে বর্ণিত। তিনি বলেন, সালাতের ইক্বামাত(ইকামত/একামত) বলার পর মসজিদে মুসল্লীর সংখ্যা কম দেখলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত শুরু না করে বসে যেতেন। অতঃপর যখনই পূর্ণ জামা‘আতের মুসল্লীর সমাগম হতে দেখতেন তখন সালাত আদায়ে দাঁড়াতেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>545</td></tr><tr><td>Arabic No</td><td>545</td></tr><tr><td>Reference</td><td>Book 2 Hadith 155</td></tr></tbody></table></div>
 

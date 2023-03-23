@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+(…/...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ও উমাইয়াহ্ ইবনু বিসতাম (রহঃ) ..... উবাইদুল্লাহ (রহঃ) হতে উপরোক্ত সানাদে হুবহু হাদীস বর্ণনা করেছেন। এরা উভয়ে ব্যাখ্যাটিকে (মূল) হাদীসের সাথে যুক্ত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৩৭৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5561</td></tr><tr><td>Arabic No</td><td>2120.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 171</td></tr></tbody></table></div>
 

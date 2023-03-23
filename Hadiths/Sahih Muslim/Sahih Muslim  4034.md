@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯২৬, আন্তর্জাতিক নাম্বারঃ ১৫৭৫ ৩৯২৬-(.../...) আহমাদ ইবনু মুনযির (রহঃ) ..... ইয়াহইয়া ইবনু আবূ কাসীর এর সূত্রে উক্ত রূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৮৮৯, ইসলামিক সেন্টার ৩৮৮৮)
+আহমাদ ইবনু মুনযির (রহঃ) ..... ইয়াহইয়া ইবনু আবূ কাসীর এর সূত্রে উক্ত রূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৮৮৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4034</td></tr><tr><td>Arabic No</td><td>1575.05</td></tr><tr><td>Reference</td><td>Book 22 Hadith 73</td></tr></tbody></table></div>
 

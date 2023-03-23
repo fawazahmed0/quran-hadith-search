@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইকরিমাহ (রহঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর শপথ! আমি অবশ্যই কুরাইশদের বিরুদ্ধে যুদ্ধ করবো। আল্লাহর শপথ! আমি অবশ্যই কুরাইশদের বিরুদ্ধে যুদ্ধ করবো। আল্লাহর শপথ! অবশ্যই কুরাইশদের বিরুদ্ধে যুদ্ধ করবো। অতঃপর তিনি ইনশাআল্লাহ বললেন।[1] আবূ দাঊদ (রহঃ) বলেন, আল-ওয়ালীদ বিন মুসলিম (রহঃ) শারীক থেকে বর্ণনা করেছেন যে, অতঃপর তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) কুরাইশদের বিরুদ্ধে যুদ্ধ করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3285</td></tr><tr><td>Arabic No</td><td>3285</td></tr><tr><td>Reference</td><td>Book 22 Hadith 44</td></tr></tbody></table></div>
 

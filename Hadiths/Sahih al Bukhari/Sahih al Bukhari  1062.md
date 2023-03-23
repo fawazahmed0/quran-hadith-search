@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকরাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময় সূর্যগ্রহণ হল। তখন তিনি দু’রাক‘আত সালাত আদায় করলেন। (১০৪০) (আধুনিক প্রকাশনীঃ ৯৯৭, ইসলামিক ফাউন্ডেশনঃ ১০০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বাকরাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময় সূর্যগ্রহণ হল। তখন তিনি দু’রাক‘আত সালাত আদায় করলেন। (১০৪০) (আধুনিক প্রকাশনীঃ ৯৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1062</td></tr><tr><td>Arabic No</td><td>1062</td></tr><tr><td>Reference</td><td>Book 16 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mahmud bin Ghoilan] berkata, telah telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூபக்ரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது காலத்தில் சூரிய கிரகணம் ஏற்பட்டது. அப்போது அவர்கள் இரண்டு ரக்அத்கள் தொழுதார்கள்.9 அத்தியாயம் : 16
+அபூபக்ரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது காலத்தில் சூரிய கிரகணம் ஏற்பட்டது. அப்போது அவர்கள் இரண்டு ரக்அத்கள் தொழுதார்கள்.9 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1062</td></tr><tr><td>Arabic No</td><td>1062</td></tr><tr><td>Reference</td><td>Book 16 Hadith 21</td></tr></tbody></table></div>
 

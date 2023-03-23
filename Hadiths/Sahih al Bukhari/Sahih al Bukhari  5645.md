@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ যে ব্যক্তির কল্যাণ কামনা করেন তাকে তিনি দুঃখকষ্টে পতিত করেন। (আধুনিক প্রকাশনী- ৫২৩৩, ইসলামিক ফাউন্ডেশন- ৫১২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ যে ব্যক্তির কল্যাণ কামনা করেন তাকে তিনি দুঃখকষ্টে পতিত করেন। (আধুনিক প্রকাশনী- ৫২৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5645</td></tr><tr><td>Arabic No</td><td>5645</td></tr><tr><td>Reference</td><td>Book 75 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யாருக்கு அல்லாஹ் நன்மையை நாடுகின்றானோ அவரை (சத்திய) சோதனைக்கு உள்ளாக்குகின்றான்.4 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 75
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யாருக்கு அல்லாஹ் நன்மையை நாடுகின்றானோ அவரை (சத்திய) சோதனைக்கு உள்ளாக்குகின்றான்.4 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5645</td></tr><tr><td>Arabic No</td><td>5645</td></tr><tr><td>Reference</td><td>Book 75 Hadith 5</td></tr></tbody></table></div>
 

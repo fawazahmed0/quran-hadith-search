@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭৫৪, আন্তর্জাতিক নাম্বারঃ ১৮৭৬ ৪৭৫৪-(…/...) আবূ বকর ইবনু আবূ শইবাহ এবং আবূ কুরায়ব (রহঃ) .... উমরাহ্ (রহঃ) এর সূত্রে এ সানাদে উক্ত হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৭০৭, ইসলামিক সেন্টার ৪৭০৮)
+(…/...) আবূ বকর ইবনু আবূ শইবাহ এবং আবূ কুরায়ব (রহঃ) .... উমরাহ্ (রহঃ) এর সূত্রে এ সানাদে উক্ত হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৭০৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4860</td></tr><tr><td>Arabic No</td><td>1876.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 156</td></tr></tbody></table></div>
 

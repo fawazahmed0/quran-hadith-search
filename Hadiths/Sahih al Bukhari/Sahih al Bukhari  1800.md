@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাত্রে কখনো পরিবারের নিকট প্রবেশ করতেন না। তিনি প্রভাতে কিংবা বৈকালে ছাড়া পরিবারের নিকট প্রবেশ করতেন না। (মুসলিম ৩৩/৫৬, হাঃ ১৯২৮, আহমাদ ১৩১১৭) (আধুনিক প্রকাশনীঃ ১৬৭১. ইসলামিক ফাউন্ডেশনঃ ১৬৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাত্রে কখনো পরিবারের নিকট প্রবেশ করতেন না। তিনি প্রভাতে কিংবা বৈকালে ছাড়া পরিবারের নিকট প্রবেশ করতেন না। (মুসলিম ৩৩/৫৬, হাঃ ১৯২৮, আহমাদ ১৩১১৭) (আধুনিক প্রকাশনীঃ ১৬৭১. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1800</td></tr><tr><td>Arabic No</td><td>1800</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பயணத்தை முடித்து) இரவு நேரத்தில் திடீரெனத் தம் வீட்டாரிடம் செல்லமாட்டார்கள்; காலை யிலோ அல்லது மாலையிலோதான் செல்வார்கள். அத்தியாயம் : 26
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பயணத்தை முடித்து) இரவு நேரத்தில் திடீரெனத் தம் வீட்டாரிடம் செல்லமாட்டார்கள்; காலை யிலோ அல்லது மாலையிலோதான் செல்வார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1800</td></tr><tr><td>Arabic No</td><td>1800</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
 

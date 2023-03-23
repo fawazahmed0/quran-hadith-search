@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নু‘মান ইবনু বশীর (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা অবশ্যই কাতার সোজা করে নিবে, তা না হলে আল্লাহ্ তা‘আলা তোমাদের মাঝে মতভেদ সৃষ্টি করে দিবেন। (মুসলিম ৪/২৮, হাঃ ৪৩৬, আহমাদ ১৮৪১৭) (আধুনিক প্রকাশনীঃ ৬৭৪, ইসলামিক ফাউন্ডেশনঃ ৬৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নু‘মান ইবনু বশীর (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা অবশ্যই কাতার সোজা করে নিবে, তা না হলে আল্লাহ্ তা‘আলা তোমাদের মাঝে মতভেদ সৃষ্টি করে দিবেন। (মুসলিম ৪/২৮, হাঃ ৪৩৬, আহমাদ ১৮৪১৭) (আধুনিক প্রকাশনীঃ ৬৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>717</td></tr><tr><td>Arabic No</td><td>717</td></tr><tr><td>Reference</td><td>Book 10 Hadith 112</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid Hisyam bin 'Abdul Malik] berkata, t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களின் (தொழுகை) வரிசைகளை ஒழுங்குபடுத்துங்கள். இல்லையெனில், அல்லாஹ் உங்கள் முகங்களுக்கிடையே மாற்றத்தை ஏற்படுத்திவிடுவான்.34 இதை நுஅமான் பின் பஷீர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களின் (தொழுகை) வரிசைகளை ஒழுங்குபடுத்துங்கள். இல்லையெனில், அல்லாஹ் உங்கள் முகங்களுக்கிடையே மாற்றத்தை ஏற்படுத்திவிடுவான்.34 இதை நுஅமான் பின் பஷீர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>717</td></tr><tr><td>Arabic No</td><td>717</td></tr><tr><td>Reference</td><td>Book 10 Hadith 112</td></tr></tbody></table></div>
 

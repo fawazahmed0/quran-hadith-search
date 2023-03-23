@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবনু আবূ সুরায়জ .... ইকরামা (রহঃ) হামনা বিনতে জাহাশ হতে বর্ণনা করেন যে, তিনি ইস্তেহাযাগ্রস্ত থাকাবস্থায় তাঁর স্বামী তাঁর সাথে সংগম করতেন।
+। হামনাহ বিনতু জাহশ সূত্রে বর্ণিত। তিনি মুস্তাহাযা থাকাকালীন অবস্থায় তার স্বামী তার সাথে সহবাস করতেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>310</td></tr><tr><td>Arabic No</td><td>310</td></tr><tr><td>Reference</td><td>Book 1 Hadith 310</td></tr></tbody></table></div>
 

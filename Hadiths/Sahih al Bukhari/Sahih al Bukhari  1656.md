@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারিসাহ ইবনু ওয়াহব খুযা‘য় (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিয়ে মিনাতে দু’ রাক‘আত সালাত আদায় করেছেন। এ সময় আমরা আগের তুলনায় সংখ্যায় বেশি ছিলাম এবং অতি নিরাপদে ছিলাম। (১০৮৩) (আধুনিক প্রকাশনীঃ ১৫৪৪, ইসলামিক ফাউন্ডেশনঃ ১৫৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হারিসাহ ইবনু ওয়াহব খুযা‘য় (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিয়ে মিনাতে দু’ রাক‘আত সালাত আদায় করেছেন। এ সময় আমরা আগের তুলনায় সংখ্যায় বেশি ছিলাম এবং অতি নিরাপদে ছিলাম। (১০৮৩) (আধুনিক প্রকাশনীঃ ১৫৪৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1656</td></tr><tr><td>Arabic No</td><td>1656</td></tr><tr><td>Reference</td><td>Book 25 Hadith 137</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹாரிஸா பின் வஹ்ப் அல் குஸாயீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மினாவில் எங்க ளுக்கு இரு ரக்அத்கள் தொழுவித்தார்கள். அந்நாளில் எப்போதும் இல்லாத அளவுக்கு நாங்கள் அதிகமாகவும் இருந்தோம்; எந்த அச்சமும் இல்லாமலும் இருந்தோம். அத்தியாயம் : 25
+ஹாரிஸா பின் வஹ்ப் அல் குஸாயீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மினாவில் எங்க ளுக்கு இரு ரக்அத்கள் தொழுவித்தார்கள். அந்நாளில் எப்போதும் இல்லாத அளவுக்கு நாங்கள் அதிகமாகவும் இருந்தோம்; எந்த அச்சமும் இல்லாமலும் இருந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1656</td></tr><tr><td>Arabic No</td><td>1656</td></tr><tr><td>Reference</td><td>Book 25 Hadith 137</td></tr></tbody></table></div>
 

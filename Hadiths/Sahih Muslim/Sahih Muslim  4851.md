@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭৪৫, আন্তর্জাতিক নাম্বারঃ ১৮৭৩ ৪৭৪৫-(.../...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... হুসায়ন (রহঃ) হতে এ সানাদে বর্ণনা করেন, তবে তিনি "উরওয়াহ ইবনু জা'দ" উল্লেখ করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬৯৮, ইসলামিক সেন্টার ৪৬৯৯)
+ইসহাক ইবনু ইবরাহীম (রহঃ) ..... হুসায়ন (রহঃ) হতে এ সানাদে বর্ণনা করেন, তবে তিনি "উরওয়াহ ইবনু জা'দ" উল্লেখ করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬৯৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4851</td></tr><tr><td>Arabic No</td><td>1873.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 147</td></tr></tbody></table></div>
 

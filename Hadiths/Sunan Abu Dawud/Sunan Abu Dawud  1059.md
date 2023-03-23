@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবন আলী (রহঃ) ...... আবু মালীহ (রাঃ) থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, হুদায়বিয়ার সন্ধির সময় তিনি জুমুআর দিন নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে আসেন। ঐ সময় হালকা বৃষ্টি হয় যাতে জুতার তলাও ভিজে নাই। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সকলকে স্ব-স্ব অবস্থানস্থলে নামায আদায়ের নির্দেশ দেন। (ইবন মাজা)
+। আবূ মালীহ (রহঃ) হতে তার পিতার সূত্রে বর্ণিত। তিনি হুদায়বিয়ার সময় জুমু‘আহর দিনে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে আসেন। সেদিন সামান্য বৃষ্টি হয়েছিলো যাতে জুতার তলাও ভিজে নাই। এ অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে নিজ নিজ অবস্থানে সালাত আদায়ের নির্দেশ দেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1059</td></tr><tr><td>Arabic No</td><td>1059</td></tr><tr><td>Reference</td><td>Book 2 Hadith 670</td></tr></tbody></table></div>
 

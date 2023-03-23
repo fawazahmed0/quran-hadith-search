@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ক্বাতাদাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আনাস ইবনু মালিক (রাঃ) বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই রাত্রে সকল স্ত্রীর নিকট গমন করেছেন। ঐ সময় তাঁর ন’জন স্ত্রী ছিল। [২৬৮](আধুনিক প্রকাশনী- ৪৮৩২, ইসলামিক ফাউন্ডেশন- ৪৮৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ক্বাতাদাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আনাস ইবনু মালিক (রাঃ) বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই রাত্রে সকল স্ত্রীর নিকট গমন করেছেন। ঐ সময় তাঁর ন’জন স্ত্রী ছিল। [২৬৮](আধুনিক প্রকাশনী- ৪৮৩২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>5215</td></tr><tr><td>Reference</td><td>Book 67 Hadith 148</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdul A'la bin Hammad] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரே இரவில் தம் எல்லா துணைவியரிடமும் சென்றுவிட்டு வந்துவிடுவார்கள். அப்போது அவர்களுக்கு ஒன்பது துணைவியர் இருந்தனர்.147 அத்தியாயம் : 67
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரே இரவில் தம் எல்லா துணைவியரிடமும் சென்றுவிட்டு வந்துவிடுவார்கள். அப்போது அவர்களுக்கு ஒன்பது துணைவியர் இருந்தனர்.147 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>5215</td></tr><tr><td>Reference</td><td>Book 67 Hadith 148</td></tr></tbody></table></div>
 

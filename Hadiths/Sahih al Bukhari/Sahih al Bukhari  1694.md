@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মিসওয়ার ইবনু মাখরামা ও মারওয়ান (রাযি.) হতে বর্ণিত। তাঁরা উভয়েই বলেছেন, হুদায়বিয়ার সন্ধির পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক হাজারেরও অধিক সাহাবী নিয়ে মাদ্বীনা হতে বের হয়ে যুল-হুলাইফা পৌঁছে কুরবানীর পশুটিকে কিলাদা পরালেন এবং ইশ‘আর করলেন। এরপর তিনি ‘উমরাহ’র ইহরাম বাঁধলেন। (১৬৯৪=১৮১১, ২৭১২, ২৭৩১, ৪১৫৮, ৪১৭৮, ৪১৮১) (১৬৯৫=২৭১১, ২৭৩২, ৪১৫৭, ৪১৭৯, ৪১৮০) (আধুনিক প্রকাশনীঃ ১৫৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மிஸ்வர் பின் மக்ரமா (ரலி), மர்வான் பின் அல்ஹகம் ஆகியோர் கூறியதாவது: ஹுதைபியா உடன்படிக்கை நடந்த ஆண்டு நபி (ஸல்) அவர்கள் ஆயிரத்துக் கும் மேற்பட்ட தோழர்களுடன் மதீனா விலிருந்து புறப்பட்டார்கள்; துல்ஹுலை ஃபாவுக்கு வந்ததும் குர்பானிப் பிராணி யின் கழுத்தில் அடையாள மாலை தொங்க விட்டு அடையாளமும் இட்டார்கள்; பின்னர் உம்ராவுக்காக இஹ்ராம் கட்டினார்கள். அத்தியாயம் : 25
+மிஸ்வர் பின் மக்ரமா (ரலி), மர்வான் பின் அல்ஹகம் ஆகியோர் கூறியதாவது: ஹுதைபியா உடன்படிக்கை நடந்த ஆண்டு நபி (ஸல்) அவர்கள் ஆயிரத்துக் கும் மேற்பட்ட தோழர்களுடன் மதீனா விலிருந்து புறப்பட்டார்கள்; துல்ஹுலை ஃபாவுக்கு வந்ததும் குர்பானிப் பிராணி யின் கழுத்தில் அடையாள மாலை தொங்க விட்டு அடையாளமும் இட்டார்கள்; பின்னர் உம்ராவுக்காக இஹ்ராம் கட்டினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Misver İbn Mahrame ve Mervan şöyle demişlerdir: " Nebi (Sallallahu aleyhi ve Sellem), Hudeybiye anlaşmasının yapıldığı yıl, bir kaç onluk yüzer kişilik on civarında sahabî grubu ile birlikte yola çıkmıştı. Zu'l-Huleyfe'ye geldikleri zaman Resulullah kurbanlık hayvana gerdanlık takmış, bellik koymuş sonra da ihrama girmişti." 1694’ün Geçtiği diğer yerler: 1694, 1811, 2712, 2731, 4158, 4178, 4181. 1695’in geçtiği diğer yerler: 2711, 2732, 4157, 4179, 4180
+Misver İbn Mahrame ve Mervan şöyle demişlerdir: " Nebi (Sallallahu aleyhi ve Sellem), Hudeybiye anlaşmasının yapıldığı yıl, bir kaç onluk yüzer kişilik on civarında sahabî grubu ile birlikte yola çıkmıştı. Zu'l-Huleyfe'ye geldikleri zaman Resulullah kurbanlık hayvana gerdanlık takmış, bellik koymuş sonra da ihrama girmişti." 1694’ün Geçtiği diğer yerler: 1694, 1811, 2712, 2731, 4158, 4178, 4181. 1695’in geçtiği diğer yerler:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
 

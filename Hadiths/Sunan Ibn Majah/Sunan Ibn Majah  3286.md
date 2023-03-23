@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩২৮৬। ওয়াহশী (রাঃ) থেকে বর্ণিত। তারা বলেন, ইয়া রাসূলাল্লাহ! আমরা আহার করি, কিন্তু পরিতৃপ্ত হতে পারি না। তিনি বলেন, তোমরা হয়ত পৃথক পৃথকভাবে আহার করো। তারা বলেন, হ্যাঁ। তিনি বলেন, তোমরা একত্রে আহার করো এবং আহারকালে আল্লাহর নাম স্মরণ করো, তাহলে তোমাদের খাদ্যে তোমাদের জন্য বরকত দেয়া হবে।
+। ওয়াহশী (রাঃ) থেকে বর্ণিত। তারা বলেন, ইয়া রাসূলাল্লাহ! আমরা আহার করি, কিন্তু পরিতৃপ্ত হতে পারি না। তিনি বলেন, তোমরা হয়ত পৃথক পৃথকভাবে আহার করো। তারা বলেন, হ্যাঁ। তিনি বলেন, তোমরা একত্রে আহার করো এবং আহারকালে আল্লাহর নাম স্মরণ করো, তাহলে তোমাদের খাদ্যে তোমাদের জন্য বরকত দেয়া হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3286</td></tr><tr><td>Arabic No</td><td>3286</td></tr><tr><td>Reference</td><td>Book 29 Hadith 36</td></tr></tbody></table></div>
 

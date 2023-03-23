@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৮. মালিক (রহঃ) বলিয়াছেন, তাহার নিকট সংবাদ পৌছিয়াছে যে, ফজরের নামাযের সংবাদ দেওয়ার জন্য মুয়াযযিন উমর ইবন খাত্তাব (রাঃ)-এর নিকট আসিলেন এবং তাহাকে নিদ্রিত পাইয়া বলিলেন- (يا امير المؤمنين) الصَّلاَةُ خَيْرٌ مِنَ النَّوْمِ উমর (রাঃ) শুনিয়া বাক্যটিকে ফজরের আযানের অন্তর্ভুক্ত করিবার নির্দেশ দিলেন। মালিক (রহঃ)-এর চাচা আবু সুহায়ল ইবন মালিক (রহঃ) তাহার পিতা হইতে বর্ণনা করিয়াছেন, তিনি বলিয়াছেনঃ লোকদিগকে (পূর্বযুগে) যেইরূপ পাইয়াছি, এখন নামাযের আযান ব্যতীত আর অন্য কিছুই সেইরূপ দেখিতেছি না।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>154</td></tr><tr><td>Arabic No</td><td>154</td></tr><tr><td>Reference</td><td>Book 3 Hadith 9</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ..... জাবির ইবন আবদিল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রতিবেশী তার প্রতিবেশীর শুফআ'র অধিক হকদার। যদি সে উপস্থিত না থাকে, তবে তার জন্য অপেক্ষা করতে হবে, যদি তাদের উভয়ের বাড়ীতে যাতায়াতের রাস্তা এক হয়।
+। জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রতিবেশী তার প্রতিবেশীর শুফ‘আর বেশী হকদার। সে অনুপস্থিত থাকলে তার জন্য অপেক্ষা করতে হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3518</td></tr><tr><td>Arabic No</td><td>3518</td></tr><tr><td>Reference</td><td>Book 24 Hadith 103</td></tr></tbody></table></div>
 

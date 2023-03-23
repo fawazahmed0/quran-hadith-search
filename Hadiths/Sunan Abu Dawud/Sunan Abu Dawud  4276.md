@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইব্‌ন ইউনুস (রহঃ) .... আবূ মাজ্‌লায (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ এ আয়াতঃ “যে ব্যক্তি কোন মু’মিনকে ইচ্ছাকৃতভাবে হত্যা করবে, তার ঠিকানা হলো জাহান্নাম”, এর অর্থঃ জাহান্নাম-ই তার প্রাপ্য। তবে আল্লাহ্‌ যদি ইচ্ছা করেন, তবে তাকে ক্ষমাও করে দিতে পারেন।
+। আবূ মিজলায (রহঃ) সূত্রে বর্ণিত। তিনি মহান আল্লাহর এ বাণী প্রসঙ্গে বলেনঃ ‘‘যে ব্যক্তি কোনো ঈমানদারকে ইচ্ছাকৃতভাবে হত্যা করবে, তার শাস্তি হবে চিরস্থায়ী জাহান্নাম’’, এটা হলো তার পরিণাম। তবে আল্লাহ ইচ্ছা করলে তাকে ক্ষমা করতে পারেন।[1] হাসান মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4276</td></tr><tr><td>Arabic No</td><td>4276</td></tr><tr><td>Reference</td><td>Book 37 Hadith 37</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনু আল মুসান্না (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, আনসারদের প্রতি বিদ্বেষ পোষণ করা হচ্ছে মুনাফিকের নিদর্শন, আর আনসারদের প্রতি ভালোবাসা হচ্ছে মুমিনের নিদর্শন। (ইসলামিক ফাউন্ডেশনঃ ১৩৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>235</td></tr><tr><td>Arabic No</td><td>74.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 141</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammedü'bnü'l-Müsennâ rivayet etti. (Dediki): Bize Abdurrahman b. Mehdi, Şu'beden, o da Abdullah b. Abdillâh b. Cebr'-den naklen rivayet etti. Abdullah demiş ki; Enes'i şöyle derken dinledim: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Münafığın a/dmeti Ensar'a buğz etmek, müminin a/dmeti ise Ensar'ı sevmektir. " Diğer tahric: Buhari, 17, 3573; Nesai, 5034; Tuhfetu'I-Eşraf, 962
+Bize Muhammedü'bnü'l-Müsennâ rivayet etti. (Dediki): Bize Abdurrahman b. Mehdi, Şu'beden, o da Abdullah b. Abdillâh b. Cebr'-den naklen rivayet etti. Abdullah demiş ki; Enes'i şöyle derken dinledim: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Münafığın a/dmeti Ensar'a buğz etmek, müminin a/dmeti ise Ensar'ı sevmektir. " Diğer tahric: Buhari, 17, 3573; Nesai, 5034; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>235</td></tr><tr><td>Arabic No</td><td>74.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 141</td></tr></tbody></table></div>
 

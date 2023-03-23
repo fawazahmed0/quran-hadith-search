@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্বাস আনবারী (রহঃ) .... আলী (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উপরোক্ত হাদীছ বর্ণনা প্রসঙ্গে বলেনঃ আমি একথাগুলো রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে যখন বর্ণনা করতে শুনেছি, তখন থেকে তা পাঠ করতে ভুলিনি, তবে সিফফীনের-যুদ্ধের রাতে তা পড়তে ভুলে যাই। কিন্তু শেষ রাতে স্মরণ হওয়ায়, তখন আমি তা পাঠ করি।
+। আলী (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে অনুরূপ হাদীস বর্ণিত। বর্ণনাকারী বলেন, আলী (রাঃ) বললেন, আমি সিফফীন যুদ্ধের রাত ব্যতীত এ তাসবীহগুলোর পড়া কখনো ছাড়িনি; যখন থেকে আমি তা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট শুনেছি। অবশ্য ঐ রাতের শেষ প্রহরে আমার তা স্মরণ হলে আমি তাসবীহগুলো আদায় করেছি।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5064</td></tr><tr><td>Arabic No</td><td>5064</td></tr><tr><td>Reference</td><td>Book 43 Hadith 292</td></tr></tbody></table></div>
 

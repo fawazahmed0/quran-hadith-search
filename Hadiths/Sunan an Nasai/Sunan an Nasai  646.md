@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৪৬, আন্তর্জাতিক নাম্বারঃ ৬৪৭ ৬৪৬. মুহাম্মাদ ইবনুল মুসান্না (রহ.) ..... বারা ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। আল্লাহর নবী (সা.) বলেছেন: নিশ্চয় আল্লাহ প্রথম কাতারে সালাত আদায়কারীদের প্রতি অনুগ্রহ করেন এবং তাঁর ফেরেশতাগণও তাদের জন্যে অনুগ্রহ প্রার্থনা করেন। মুয়াযযিনকে তার আওয়াজের দূরত্ব পরিমাণ মাফ করে দেয়া হয় এবং যে সব শুষ্ক ও আর্দ্র জিনিস তার আওয়াজ শুনে তারা তাকে সত্যবাদী বলে ঘোষণা দেয় এবং তাকে তার সঙ্গে সালাত আদায়কারীদের সমপরিমাণ পুরস্কার দেয়া হয়। সহীহ: ইবনু মাজাহ ৯৯৭, মুসনাদে আহমাদ ১৫৪১৪।
+। মুহাম্মাদ ইবনু মুসান্না (রহঃ) ... বারা ইবনু আযিব (রাঃ) থেকে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয়ই আল্লাহ প্রথম কাতারে সালাত আদায়কারীদের প্রতি অনুগ্রহ করেন এবং তাঁর ফেরেশতাগণও তাদের জন্য অনুগ্রহ প্রার্থনা করেন এবং মুয়াযযিনকে তার আওয়াজের দূরত্ব পরিমান ক্ষমা করে দেয়া হয় এবং যে সব শুষ্ক ও আদ্র জিনিস তার শব্দ শোনে, তারা তাকে সত্যবাদী বলে ঘোষণা দেয় এবং তাকে তার সাথে সালাত আদায়কারীদের সমপরিমাণ পূরস্কার দেওয়া হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>646</td></tr><tr><td>Reference</td><td>Book 7 Hadith 21</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Al-Mutsanna] dia berkata; telah menc
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bera b. Âzib (radıyallahü anh)’ten rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdular: ve Melekleri ilk saftaki kimseleri tebrik ederler. Müezzin ise sesinin gür oluşu nispetinde günahları affedilir. Yaş, kuru, canlı, cansız ne varsa müezzinin sesini duyan her şey ve herkes müezzinin söylediklerini tasdik ederler. Müezzinle birlikte namaz kılanların sevabı kadar sevap müezzine yazılır.) (Ebû Dâvûd, Salat: 31; İbn Mâce, Ezan: 5)
+Bera b. Âzib (radıyallahü anh)’ten rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdular: ve Melekleri ilk saftaki kimseleri tebrik ederler. Müezzin ise sesinin gür oluşu nispetinde günahları affedilir. Yaş, kuru, canlı, cansız ne varsa müezzinin sesini duyan her şey ve herkes müezzinin söylediklerini tasdik ederler. Müezzinle birlikte namaz kılanların sevabı kadar sevap müezzine yazılır.) (Ebû Dâvûd, Salat: 31; İbn Mâce, Ezan:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>646</td></tr><tr><td>Reference</td><td>Book 7 Hadith 21</td></tr></tbody></table></div>
 

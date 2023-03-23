@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৭. সাঈদ ইবন মুসায়্যাব (রহঃ) হইতে বর্ণিত, তিনি বলিয়াছেনঃ আমি কি তোমাদের এমন কাজের সন্ধান দিব যাহা বহু নামায ও অনেক সদকা হইতেও উৎকৃষ্ট? লোকেরা বলি, নিশ্চয়ই। বলুন। তিনি বলিলেন, পরস্পর আপস করাইয়া দেওয়া। আর তোমরা শত্রুতা ও দুশমনী হইতে দূরে থাক। কারণ এই স্বভাব নেকীকে বিনষ্ট করে।
+রেওয়ায়ত ৭. সাঈদ ইবন মুসায়্যাব (রহঃ) হইতে বর্ণিত, তিনি বলিয়াছেনঃ আমি কি তোমাদের এমন কাজের সন্ধান দিব যাহা বহু নামায ও অনেক সদকা হইতেও উৎকৃষ্ট? লোকেরা বলি, নিশ্চয়ই। বলুন। তিনি বলিলেন, পরস্পর আপস করাইয়া দেওয়া। আর তোমরা শক্রতা ও দুশমনী হইতে দূরে থাক। কারণ এই স্বভাব নেকীকে বিনষ্ট করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 47 Hadith 7</td></tr></tbody></table></div>
 

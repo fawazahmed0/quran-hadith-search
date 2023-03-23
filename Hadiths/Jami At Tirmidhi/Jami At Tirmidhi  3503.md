@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৫০৩। মুসলিম ইবনু আবূ বাকরাহ (রহঃ) বলেন, আমার পিতা আমাকে বলতে শুনলেনঃ “হে আল্লাহ! তোমার কাছে আমি দুশ্চিন্তা, অলসতা ও কবরের শাস্তি হতে আশ্রয় প্রার্থনা করি।” তিনি বললেন, হে প্রিয় বৎস! এটা তুমি কার নিকট শুনেছ? আমি বললাম, আমি এ বাক্যগুলো আপনাকেই বলতে শুনেছি। তিনি বললেন, তোমার জন্য এগুলোকে আবশ্যকীয় করে নাও। কেননা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আমি এ শব্দগুলো বলতে শুনেছি। সানাদ সহীহ। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ।
+। মুসলিম ইবনু আবূ বাকরাহ (রহঃ) বলেন, আমার পিতা আমাকে বলতে শুনলেনঃ “হে আল্লাহ! তোমার কাছে আমি দুশ্চিন্তা, অলসতা ও কবরের শাস্তি হতে আশ্রয় প্রার্থনা করি।” তিনি বললেন, হে প্রিয় বৎস! এটা তুমি কার নিকট শুনেছ? আমি বললাম, আমি এ বাক্যগুলো আপনাকেই বলতে শুনেছি। তিনি বললেন, তোমার জন্য এগুলোকে আবশ্যকীয় করে নাও। কেননা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আমি এ শব্দগুলো বলতে শুনেছি। সানাদ সহীহ। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3503</td></tr><tr><td>Arabic No</td><td>3503</td></tr><tr><td>Reference</td><td>Book 48 Hadith 134</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪৮৫, আন্তর্জাতিক নাম্বারঃ ১৭৬৬ ৪৪৮৫-(.../...) আবূ তাহির (রহঃ) ..... মূসা (রহঃ) হতে এ সানাদে এ হাদীসটি বর্ণনা করেন। আর ইবনু জুরাইজ (রহঃ) এর হাদীসটি অনেক সূত্রে বর্ণিত এবং সেটিই পূর্ণাঙ্গ। (ইসলামিক ফাউন্ডেশন ৪৪৪১, ইসলামিক সেন্টার ৪৪৪৩)
+আবূ তাহির (রহঃ) ..... মূসা (রহঃ) হতে এ সানাদে এ হাদীসটি বর্ণনা করেন। আর ইবনু জুরাইজ (রহঃ) এর হাদীসটি অনেক সূত্রে বর্ণিত এবং সেটিই পূর্ণাঙ্গ। (ইসলামিক ফাউন্ডেশন ৪৪৪১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4593</td></tr><tr><td>Arabic No</td><td>1766.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 74</td></tr></tbody></table></div>
 

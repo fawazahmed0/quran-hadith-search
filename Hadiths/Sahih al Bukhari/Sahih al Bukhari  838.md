@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَكَانَ ابْنُ عُمَرَ رَضِيَ اللهُ عَنْهُمَا يَسْتَحِبُّ إِذَا سَلَّمَ الْإِمَامُ أَنْ يُسَلِّمَ مَنْ خَلْفَهُ. ইবনু ‘উমার (রাযি.) ইমামের সালাম ফিরানোর সময় মুক্তাদীগণের সালাম ফিরানো মুস্তাহাব মনে করতেন। ৮৩৮. ইতবান ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে সালাত আদায় করেছি। তিনি যখন সালাম ফিরান তখন আমরাও সালাম ফিরাই। (আধুনিক প্রকাশনীঃ৭৯১, ইসলামিক ফাউন্ডেশনঃ ৭৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَكَانَ ابْنُ عُمَرَ رَضِيَ اللهُ عَنْهُمَا يَسْتَحِبُّ إِذَا سَلَّمَ الْإِمَامُ أَنْ يُسَلِّمَ مَنْ خَلْفَهُ. ইবনু ‘উমার (রাযি.) ইমামের সালাম ফিরানোর সময় মুক্তাদীগণের সালাম ফিরানো মুস্তাহাব মনে করতেন। ৮৩৮. ইতবান ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে সালাত আদায় করেছি। তিনি যখন সালাম ফিরান তখন আমরাও সালাম ফিরাই। (আধুনিক প্রকাশনীঃ৭৯১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>838</td></tr><tr><td>Arabic No</td><td>838</td></tr><tr><td>Reference</td><td>Book 10 Hadith 231</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hibban bin Musa] berkata, telah mengabarkan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இத்பான் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் தொழுவோம். நபி (ஸல்) அவர்கள் சலாம் கொடுக்கும்போதே நாங்களும் சலாம் கொடுப்போம். அத்தியாயம் : 10
+இத்பான் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் தொழுவோம். நபி (ஸல்) அவர்கள் சலாம் கொடுக்கும்போதே நாங்களும் சலாம் கொடுப்போம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>838</td></tr><tr><td>Arabic No</td><td>838</td></tr><tr><td>Reference</td><td>Book 10 Hadith 231</td></tr></tbody></table></div>
 

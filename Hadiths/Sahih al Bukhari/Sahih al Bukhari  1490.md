@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার একটি ঘোড়া আল্লাহর পথে দান করলাম। যার কাছে ঘোড়াটি ছিল সে এর হাক আদায় করতে পারল না। তখন আমি তা ক্রয় করতে চাইলাম এবং আমার ধারণা ছিল যে, সে সেটি কম মূল্যে বিক্রি করবে। এ সম্পর্কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে আমি জিজ্ঞেস করলাম। তিনি বললেনঃ তুমি ক্রয় করবে না এবং তোমার সদাকাহ ফিরিয়ে নিবে না, সে তা এক দিরহামের বিনিময়ে দিলেও। কেননা, যে ব্যক্তি নিজের সদাকাহ ফিরিয়ে নেয় সে যেন নিজের বমি পুনঃ ভক্ষণ করে। (৩৬২৩, ২৬৩৬, ২/৯৭০, ৩০০৩, মুসলিম ২৪/১, হাঃ ১৬২০, আহমাদ ৪৫২১) (আধুনিক প্রকাশনীঃ ১৩৯৪, ইসলামিক ফাউন্ডেশনঃ ১৪০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার একটি ঘোড়া আল্লাহর পথে দান করলাম। যার কাছে ঘোড়াটি ছিল সে এর হাক আদায় করতে পারল না। তখন আমি তা ক্রয় করতে চাইলাম এবং আমার ধারণা ছিল যে, সে সেটি কম মূল্যে বিক্রি করবে। এ সম্পর্কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে আমি জিজ্ঞেস করলাম। তিনি বললেনঃ তুমি ক্রয় করবে না এবং তোমার সদাকাহ ফিরিয়ে নিবে না, সে তা এক দিরহামের বিনিময়ে দিলেও। কেননা, যে ব্যক্তি নিজের সদাকাহ ফিরিয়ে নেয় সে যেন নিজের বমি পুনঃ ভক্ষণ করে। (৩৬২৩, ২৬৩৬, ২/৯৭০, ৩০০৩, মুসলিম ২৪/১, হাঃ ১৬২০, আহমাদ ৪৫২১) (আধুনিক প্রকাশনীঃ ১৩৯৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 24 Hadith 90</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் பாதையில் பயணம் செய்வதற்காக நான் ஒருவருக்குக் குதிரை யொன்றை (தர்மமாக)க் கொடுத்தேன். ஆனால், அவர் அதை (சரியாகப் பராமரிக் காமல்) வீணாக்கிவிட்டார். எனவே, நான் அதை விலைக்கு வாங்க நாடினேன். அதை அவர் மலிவான விலைக்கே விற்று விடுவார் என்றும் நான் எண்ணினேன். எனவே, (இதைப் பற்றி) நபி (ஸல்) அவர்களிடம் கேட்டேன். அதற்கு அவர்கள், “அதை விலைக்கு வாங்காதீர்! உமது தர்மத்தை நீர் திரும்பப் பெற்றுக்கொள்ளாதீர்! அதை அவர் உமக்கு ஒரு வெள்ளிக் காசுக்குக் கொடுத்தாலும் சரியே. ஏனெனில், தர்மத்தைத் திரும்பப் பெறுபவன், தான் எடுத்த வாந்தியைத் தானே உண்பவனைப் போன்றவன் ஆவான்” என்றார்கள். அத்தியாயம் : 24
+உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் பாதையில் பயணம் செய்வதற்காக நான் ஒருவருக்குக் குதிரை யொன்றை (தர்மமாக)க் கொடுத்தேன். ஆனால், அவர் அதை (சரியாகப் பராமரிக் காமல்) வீணாக்கிவிட்டார். எனவே, நான் அதை விலைக்கு வாங்க நாடினேன். அதை அவர் மலிவான விலைக்கே விற்று விடுவார் என்றும் நான் எண்ணினேன். எனவே, (இதைப் பற்றி) நபி (ஸல்) அவர்களிடம் கேட்டேன். அதற்கு அவர்கள், “அதை விலைக்கு வாங்காதீர்! உமது தர்மத்தை நீர் திரும்பப் பெற்றுக்கொள்ளாதீர்! அதை அவர் உமக்கு ஒரு வெள்ளிக் காசுக்குக் கொடுத்தாலும் சரியே. ஏனெனில், தர்மத்தைத் திரும்பப் பெறுபவன், தான் எடுத்த வாந்தியைத் தானே உண்பவனைப் போன்றவன் ஆவான்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 24 Hadith 90</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyd İbn Eslem'in naklettiğine göre babası şöyle anlatır: "Ömer'i şöy­le söylerken işittim: "Allah için bir atı sadaka olarak vermiştim. Alan kimse ata bakamayıp güçsüz bıraktı. Ben de onu satın almak istedim. O kimsenin, İzin alarak sattığını zannettim. Durumu Resûlullah Sallallahu Aleyhi ve Sellem'e sorunca, bana, "Satın alma, onu sana bir dirheme verse bile asla verdiğin sadakaya geri dönme. Çünkü sadakasından geri dönen, kustuğunu geri ağzına alan gibidir" buyurmuştur. Tekrar: 2623, 2636, 2970, 3003
+Zeyd İbn Eslem'in naklettiğine göre babası şöyle anlatır: "Ömer'i şöy­le söylerken işittim: "Allah için bir atı sadaka olarak vermiştim. Alan kimse ata bakamayıp güçsüz bıraktı. Ben de onu satın almak istedim. O kimsenin, İzin alarak sattığını zannettim. Durumu Resûlullah Sallallahu Aleyhi ve Sellem'e sorunca, bana, "Satın alma, onu sana bir dirheme verse bile asla verdiğin sadakaya geri dönme. Çünkü sadakasından geri dönen, kustuğunu geri ağzına alan gibidir" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 24 Hadith 90</td></tr></tbody></table></div>
 

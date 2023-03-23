@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিনায় দু’ রাক‘আত সালাত আদায় করেছেন এবং আবূ বকর, ‘উমার (রাঃ)-ও। আর ‘উসমান (রাঃ) তাঁর খিলাফতের প্রথম ভাগেও দু’ রাক‘আত আদায় করেছেন। (১০৮২) (আধুনিক প্রকাশনীঃ ১৫৪৩, ইসলামিক ফাউন্ডেশনঃ ১৫৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিনায় দু’ রাক‘আত সালাত আদায় করেছেন এবং আবূ বকর, ‘উমার (রাঃ)-ও। আর ‘উসমান (রাঃ) তাঁর খিলাফতের প্রথম ভাগেও দু’ রাক‘আত আদায় করেছেন। (১০৮২) (আধুনিক প্রকাশনীঃ ১৫৪৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1655</td></tr><tr><td>Arabic No</td><td>1655</td></tr><tr><td>Reference</td><td>Book 25 Hadith 136</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரும் உஸ்மான் (ரலி) அவர்கள், தமது ஆட்சியின் ஆரம்பக் காலத்திலும் (கடமையான நான்கு ரக்அத்களைச் சுருக்கி) மினாவில் இரண்டு ரக்அத்களாகத் தொழுதார்கள். அத்தியாயம் : 25
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரும் உஸ்மான் (ரலி) அவர்கள், தமது ஆட்சியின் ஆரம்பக் காலத்திலும் (கடமையான நான்கு ரக்அத்களைச் சுருக்கி) மினாவில் இரண்டு ரக்அத்களாகத் தொழுதார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1655</td></tr><tr><td>Arabic No</td><td>1655</td></tr><tr><td>Reference</td><td>Book 25 Hadith 136</td></tr></tbody></table></div>
 

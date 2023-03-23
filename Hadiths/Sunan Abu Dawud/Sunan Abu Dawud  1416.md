@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্রাহীম (রহঃ) .... আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ হে কুরআনের অনুসারীগণ! তোমরা বিতরের নামায আদায় কর। কেননা আল্লাহ তাআলা বেজোড় (একক), কাজেই তিনি বেজোড় (বিতর)-কে ভালোবাসেন। (তিরমিযী, নাসাঈ, ইবন মাজা)।
+। ‘আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে কুরআনের ধারকগণ! তোমরা বিতর সালাত আদায় করো। কেননা আল্লাহ বেজোড়, তাই তিনি বেজোড়কে ভালবাসেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>1416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
 

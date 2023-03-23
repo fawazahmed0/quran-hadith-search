@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন আবূ শায়বা ..... আবদুল্লাহ্ ইবন মাসঊদ (রাঃ) হতে পূর্বোক্ত হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে।
+। আব্দুল্লাহ ইবনু মাসঊদ (রাযি.) সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত।[1] আমি এটি সহীহ এবং যঈফেও পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2115</td></tr><tr><td>Arabic No</td><td>2115</td></tr><tr><td>Reference</td><td>Book 12 Hadith 70</td></tr></tbody></table></div>
 

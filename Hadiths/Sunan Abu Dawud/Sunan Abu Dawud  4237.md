@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... হুজায়ফা (রাঃ) এর বোন থেকে বর্ণিত যে, একদা রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ হে মহিলারা! তোমাদের জন্য এটাই কি যথেষ্ট নয় যে, তোমরা রূপা দিয়ে গহনা তৈরী করবে? (জেনে রাখ) তোমাদের মধ্যে যে সব মহিলা গর্ব ও অহংকার দেখাবার জন্য সোনার অলংকার পরবে, কিয়ামতের দিন তাকে ঐ অলংকার দিয়ে শাস্তি দেওয়া হবে।
+। হুযাইফাহ (রাঃ)-এর বোন সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ হে নারী জাতি! তোমরা কি রূপা দিয়ে অলংকার তৈরী করতে পারো না! জেনে রাখো! তোমাদের মধ্যকার যে নারী প্রদর্শনীর জন্য স্বর্ণালংকার পরবে তাকে সে কারণে শাস্তি ভোগ করতে হবে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 36 Hadith 24</td></tr></tbody></table></div>
 

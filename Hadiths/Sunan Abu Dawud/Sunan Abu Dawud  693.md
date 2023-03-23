@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমুদ ইবনু খালিদ আদ-দিমাশকী ..... দুবাআ বিনতুল মিকদাদ থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি (মিকদাদ) বলেন, আমি কখনও রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে সরাসরি স্বীয় সম্মুখে কাঠ, খুটি অথবা গাছ রেখে নামায পড়তেন। তখন তিনি তা নিজের ডান বা বাম পাশে রেখে নামায পড়তেন এবং নিজের দুই চোখ বরাবর স্থাপন করতেন না (যাতে মূর্তি পূজার সাথে সাদৃশ্য না হয়)।
+। দুবা‘আহ বিনতু মিক্বদাদ ইবনুল আসওয়াদ হতে তার পিতার সূত্রে বর্ণিত। তিনি (মিক্বদাদ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি, তিনি (সুতরাহ হিসেবে) কোন লাকড়ি, স্তম্ভ বা গাছের দিকে ফিরে সালাত আদায় করলে ওগুলোকে নিজের ডান অথবা বাম পাশে রাখতেন, দু’ চোখের ঠিক মাঝ বরাবর রাখতেন না।[1] দুর্বল : মিশকাত ৭৮৩।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>693</td></tr><tr><td>Arabic No</td><td>693</td></tr><tr><td>Reference</td><td>Book 2 Hadith 303</td></tr></tbody></table></div>
 

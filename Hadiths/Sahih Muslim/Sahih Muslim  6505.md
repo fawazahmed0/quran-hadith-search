@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবু কুরায়ব (রহঃ), মুহাম্মাদ ইবনু হাতিম (রহঃ) ও কাসিম ইবনু যাকারিয়্যা (রহঃ) হাবীব (রহঃ) এর সূত্রে এ সানাদে হুবহু বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৬২৭৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6505</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন ‘আলা (রহঃ) ... কায়স (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খাসআম গোত্রের দিকে একটি ছােট সেনাদল পাঠালেন। তারা সিজদার মাধ্যমে আত্মরক্ষা করতে চাইল, কিন্তু তবু তাদের হত্যা করা হল। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের সম্পর্কে অর্ধ দিয়াতের ফয়সালা দিলেন এবং বললেনঃ যে মুসলিম মুশরিকদের সাথে থাকে, ঐ সকল মুসলিমের সঙ্গে আমার কোন সম্পর্ক নেই। এরপর রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ দেখ, মুসলিম মুশরিকদের সাথে বসবাস করতে পারে না। অতঃপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সাবধান! উভয় সম্প্রদায়ের রান্নার আগুন যেন পাশাপাশি দেখা না যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4780</td></tr><tr><td>Arabic No</td><td>4780</td></tr><tr><td>Reference</td><td>Book 45 Hadith 75</td></tr></tbody></table></div>
 

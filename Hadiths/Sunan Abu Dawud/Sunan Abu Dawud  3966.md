@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল ওয়াহাব ইবন নাজদা (রহঃ) .... আমর ইবন আবাসা (রাঃ) থেকে বর্ণিত, তিনি বলেনঃ আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরূপ বলতে শুনেছিঃ যে ব্যক্তি কোন মু’মিন দাসীকে আযাদ করে দেবে, সে তার জন্য দোযখের আগুন থেকে মুক্তির কারণ হবে।
+। শুরাহবীল ইবনুস সিমত (রহঃ) সূত্রে বর্ণিত। একদা তিনি আমর ইবনু আবাসাহ (রাঃ)-কে বলেন, আপনি আমাদের নিকট এমন একটি হাদীস বর্ণনা করুন, যা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট শুনেছেন। তিনি বলেন, যে ব্যক্তি কৃতদাসীকে মুক্ত করবে, সে জাহান্নামের আগুন থেকে মুক্তি পাবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3966</td></tr><tr><td>Arabic No</td><td>3966</td></tr><tr><td>Reference</td><td>Book 31 Hadith 41</td></tr></tbody></table></div>
 

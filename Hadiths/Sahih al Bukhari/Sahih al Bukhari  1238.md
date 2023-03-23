@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত, তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: যে আল্লাহ্‌র সঙ্গে শির্ক করা অবস্থায় মারা যায়, সে জাহান্নামে প্রবেশ করবে। আমি বললাম, যে আল্লাহ্‌র সঙ্গে কোন কিছুর শির্ক না করা অবস্থায় মারা যায়, সে জান্নাতে প্রবেশ করবে। (৪৪৯৭, ৬৬৮৩) (আধুনিক প্রকাশনীঃ ১১৫৯, ইসলামিক ফাউন্ডেশনঃ ১১৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত, তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: যে আল্লাহ্‌র সঙ্গে শির্ক করা অবস্থায় মারা যায়, সে জাহান্নামে প্রবেশ করবে। আমি বললাম, যে আল্লাহ্‌র সঙ্গে কোন কিছুর শির্ক না করা অবস্থায় মারা যায়, সে জান্নাতে প্রবেশ করবে। (৪৪৯৭, ৬৬৮৩) (আধুনিক প্রকাশনীঃ ১১৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1238</td></tr><tr><td>Arabic No</td><td>1238</td></tr><tr><td>Reference</td><td>Book 23 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) கூறியதாவது: “யார் அல்லாஹ்வுக்கு இணை கற்பித்தவராக இறக்கிறாரோ அவர் நிச்சயமாக நரகத்தில் நுழைவார்” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். (அப்படியாயின்) “யார் அல்லாஹ்வுக்கு எதையும் இணை கற்பிக்காமல் மரணிக்கிறாரோ அவர் நிச்சயமாகச் சொர்க்கத்தில் நுழைவார்” என நான் கூறுகிறேன். அத்தியாயம் : 23
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) கூறியதாவது: “யார் அல்லாஹ்வுக்கு இணை கற்பித்தவராக இறக்கிறாரோ அவர் நிச்சயமாக நரகத்தில் நுழைவார்” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். (அப்படியாயின்) “யார் அல்லாஹ்வுக்கு எதையும் இணை கற்பிக்காமல் மரணிக்கிறாரோ அவர் நிச்சயமாகச் சொர்க்கத்தில் நுழைவார்” என நான் கூறுகிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1238</td></tr><tr><td>Arabic No</td><td>1238</td></tr><tr><td>Reference</td><td>Book 23 Hadith 2</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Mes'ud r.a. Resulullah Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir; "Kim herhangi bir şey'i Allah'a ortak koşarak ölürse ateş'e (cehenneme) girer." (Abdullah dedi ki): Ben de diyorum ki: Kim Allah'a hiçbir şeyi ortak koşmaksızın ölürse cennete girer. Tekrar: 4497, 6683
+Abdullah İbn Mes'ud r.a. Resulullah Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir; "Kim herhangi bir şey'i Allah'a ortak koşarak ölürse ateş'e (cehenneme) girer." (Abdullah dedi ki): Ben de diyorum ki: Kim Allah'a hiçbir şeyi ortak koşmaksızın ölürse cennete girer. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1238</td></tr><tr><td>Arabic No</td><td>1238</td></tr><tr><td>Reference</td><td>Book 23 Hadith 2</td></tr></tbody></table></div>
 

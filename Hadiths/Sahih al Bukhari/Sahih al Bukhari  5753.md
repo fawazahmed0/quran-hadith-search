@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ছোঁয়াচে ও শুভ-অশুভ বলতে কিছু নেই। অমঙ্গল তিন বস্তুর মধ্যে স্ত্রীলোক, গৃহ ও পশুতে।[1] [২০৯৯; মুসলিম ৩৯/৩৪, হাঃ ২২২৫, আহমাদ ৪৫৪৪] (আধুনিক প্রকাশনী- ৫৩৩৩, ইসলামিক ফাউন্ডেশন- ৫২২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ছোঁয়াচে ও শুভ-অশুভ বলতে কিছু নেই। অমঙ্গল তিন বস্তুর মধ্যে স্ত্রীলোক, গৃহ ও পশুতে।[1] [২০৯৯; মুসলিম ৩৯/৩৪, হাঃ ২২২৫, আহমাদ ৪৫৪৪] (আধুনিক প্রকাশনী- ৫৩৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5753</td></tr><tr><td>Arabic No</td><td>5753</td></tr><tr><td>Reference</td><td>Book 76 Hadith 68</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொற்றுநோய் கிடையாது; பறவை சகுனமும் கிடையாது. அபசகுனம் (இருக்க வேண்டுமென்றால்) மனைவி, வீடு, வாகனம் ஆகிய மூன்றில்தான் இருக்கும்.80 இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 76
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொற்றுநோய் கிடையாது; பறவை சகுனமும் கிடையாது. அபசகுனம் (இருக்க வேண்டுமென்றால்) மனைவி, வீடு, வாகனம் ஆகிய மூன்றில்தான் இருக்கும்.80 இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5753</td></tr><tr><td>Arabic No</td><td>5753</td></tr><tr><td>Reference</td><td>Book 76 Hadith 68</td></tr></tbody></table></div>
 

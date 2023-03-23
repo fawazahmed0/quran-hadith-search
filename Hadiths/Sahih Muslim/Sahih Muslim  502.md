@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯০, আন্তর্জাতিক নাম্বারঃ ২০৪ ৩৯০-(৩৪৯/...) উবাইদুল্লাহ ইবনু উমার আল কাওয়ারীরী (রহঃ) ..... 'আবদুল মালিক ইবনু উমার (রহঃ) থেকে অনুরূপ বর্ণনা করেছেন; তবে জারীর বর্ণিত হাদীসটি সম্পূর্ণ ও পরিপূর্ণ। (ইসলামিক ফাউন্ডেশনঃ ৩৯৬, ইসলামিক সেন্টারঃ ৪০৯)
+উবাইদুল্লাহ ইবনু উমার আল কাওয়ারীরী (রহঃ) ..... 'আবদুল মালিক ইবনু উমার (রহঃ) থেকে অনুরূপ বর্ণনা করেছেন; তবে জারীর বর্ণিত হাদীসটি সম্পূর্ণ ও পরিপূর্ণ। (ইসলামিক ফাউন্ডেশনঃ ৩৯৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>502</td></tr><tr><td>Arabic No</td><td>204.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 408</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ The same hadith is narrated by Ubaidallah b. Umar al-Qawariri from Abu 'Uwana, w
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. இருப்பினும், முந்தைய அறிவிப்பே நிறைவானதும் நிரப்பமானதும் ஆகும். அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. இருப்பினும், முந்தைய அறிவிப்பே நிறைவானதும் நிரப்பமானதும் ஆகும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>502</td></tr><tr><td>Arabic No</td><td>204.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 408</td></tr></tbody></table></div>
 

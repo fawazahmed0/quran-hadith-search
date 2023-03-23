@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (আবিসিনিয়ার বাদশাহ্) নাজাশীর জানাযা আদায় করেন। আমি দ্বিতীয় অথবা তৃতীয় কাতারে ছিলাম। (১৩২০, ১৩৩৪, ৩৮৭৭, ৩৮৭৮, ৩৮৭৯, মুসলিম ১১/২২, হাঃ ৯৫২, আহমাদ ১৪৮৯৫) (আধুনিক প্রকাশনীঃ ১২৩১, ইসলামিক ফাউন্ডেশনঃ ১২৩৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (আবিসিনিয়ার বাদশাহ্) নাজাশীর জানাযা আদায় করেন। আমি দ্বিতীয় অথবা তৃতীয় কাতারে ছিলাম। (১৩২০, ১৩৩৪, ৩৮৭৭, ৩৮৭৮, ৩৮৭৯, মুসলিম ১১/২২, হাঃ ৯৫২, আহমাদ ১৪৮৯৫) (আধুনিক প্রকাশনীঃ ১২৩১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1317</td></tr><tr><td>Arabic No</td><td>1317</td></tr><tr><td>Reference</td><td>Book 23 Hadith 74</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] dari [Abu 'Awanah] dari [Qatadah] dari
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், (அபிசீனிய மன்னர்) நஜாஷீ அவர்களுக்காக இறுதித் தொழுகை நடத்தினார்கள். அப்போது நான் இரண்டாவது அல்லது மூன்றாவது வரிசையில் நின்றிருந்தேன். அத்தியாயம் : 23
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், (அபிசீனிய மன்னர்) நஜாஷீ அவர்களுக்காக இறுதித் தொழுகை நடத்தினார்கள். அப்போது நான் இரண்டாவது அல்லது மூன்றாவது வரிசையில் நின்றிருந்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1317</td></tr><tr><td>Arabic No</td><td>1317</td></tr><tr><td>Reference</td><td>Book 23 Hadith 74</td></tr></tbody></table></div>
 

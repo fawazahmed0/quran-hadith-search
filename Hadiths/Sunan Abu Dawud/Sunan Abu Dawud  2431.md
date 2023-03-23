@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল ....... আব্দুল্লাহ্ ইবন কায়স (রাঃ) আয়েশা (রাঃ)-কে বলতে শুনেছেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট মাসসমূহের মধ্যে (নফল) রোযার জন্য প্রিয়তম মাস ছিল শা‘বান মাস। এরপর তিনি রামাযানের রোযা রাখা শুরু করতেন।
+। ‘আয়িশাহ্ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট সকল মাসের মধ্যে শা‘বান মাসে অধিক সওম রাখা অধিক পছন্দনীয় ছিলো। তিনি এ মাসে সওম অব্যাহত রেখে তা রমাযানের সাথে যুক্ত করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 14 Hadith 119</td></tr></tbody></table></div>
 

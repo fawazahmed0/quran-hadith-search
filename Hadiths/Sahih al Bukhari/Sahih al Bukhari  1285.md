@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর এক কন্যা [উম্মু কুলসুম (রা.)]-এর জানাযায় উপস্থিত হলাম। আল্লাহর রাসূল কবরের পার্শ্বে উপবিষ্ট ছিলেন। আনাস (রাঃ) বলেন, তখন আমি তাঁর চক্ষু হতে অশ্রু ঝরতে দেখলাম। বর্ণনাকারী বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞেস করলেন, তোমাদের মধ্যে কি এমন কেউ আছে, যে আজ রাতে স্ত্রী মিলন করোনি? আবূ তালহা (রাঃ) বললেন, আমি। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তা হলে তুমি (কবরে) অবতরণ কর। রাবী বলেন, তখন তিনি আবূ তালহা (রাঃ) তাঁর কবরে অবতরণ করলেন। (১৩৪২) (আধুনিক প্রকাশনীঃ ১২০২, ইসলামিক ফাউন্ডেশনঃ ১২১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর এক কন্যা [উম্মু কুলসুম (রা.)]-এর জানাযায় উপস্থিত হলাম। আল্লাহর রাসূল কবরের পার্শ্বে উপবিষ্ট ছিলেন। আনাস (রাঃ) বলেন, তখন আমি তাঁর চক্ষু হতে অশ্রু ঝরতে দেখলাম। বর্ণনাকারী বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞেস করলেন, তোমাদের মধ্যে কি এমন কেউ আছে, যে আজ রাতে স্ত্রী মিলন করোনি? আবূ তালহা (রাঃ) বললেন, আমি। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তা হলে তুমি (কবরে) অবতরণ কর। রাবী বলেন, তখন তিনি আবূ তালহা (রাঃ) তাঁর কবরে অবতরণ করলেন। (১৩৪২) (আধুনিক প্রকাশনীঃ ১২০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1285</td></tr><tr><td>Arabic No</td><td>1285</td></tr><tr><td>Reference</td><td>Book 23 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தம் மகள் (ஒருவரை அடக்கம் செய்யும்போது அவருக்கு) அருகே நாங்கள் இருந்தோம். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், குழியின் அருகே அமர்ந்திருந்தார்கள். அப்போது அவர்களின் கண்கள் கண்ணீர் வடித்ததை நான் கண்டேன். “இன்றிரவு தம் மனைவியோடு தாம்பத்திய உறவு கொள்ளாதவர் யாரேனும் உங்களில் உண்டா?”என வினவினார்கள். “நான் உள்ளேன்” என அபூதல்ஹா (ரலி) அவர்கள் கூறியவுடன், அவரை குழியினுள் இறங்குமாறு நபி (ஸல்) அவர்கள் கூறினார்கள். அவரும் (நபியவர்களின் மகளுடைய) குழிக்குள் இறங்கினார்.17 அத்தியாயம் : 23
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தம் மகள் (ஒருவரை அடக்கம் செய்யும்போது அவருக்கு) அருகே நாங்கள் இருந்தோம். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், குழியின் அருகே அமர்ந்திருந்தார்கள். அப்போது அவர்களின் கண்கள் கண்ணீர் வடித்ததை நான் கண்டேன். “இன்றிரவு தம் மனைவியோடு தாம்பத்திய உறவு கொள்ளாதவர் யாரேனும் உங்களில் உண்டா?”என வினவினார்கள். “நான் உள்ளேன்” என அபூதல்ஹா (ரலி) அவர்கள் கூறியவுடன், அவரை குழியினுள் இறங்குமாறு நபி (ஸல்) அவர்கள் கூறினார்கள். அவரும் (நபியவர்களின் மகளுடைய) குழிக்குள் இறங்கினார்.17 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1285</td></tr><tr><td>Arabic No</td><td>1285</td></tr><tr><td>Reference</td><td>Book 23 Hadith 45</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik r.a. şöyle demiştir: Nebi (s.a.v.)'in bir kızının (Ümmü Gülsüm'ün) cenazesine katıldık. Resulullah Sallallahu Aleyhi ve Sellem kabrin bir tarafına oturmuştu. Gözlerinden yaşlar boşaldığını gördüm. O Sallallahu Aleyhi ve Sellem: "İçinizden bu gece cinsel ilişkide bulunmayan var mı?" buyurdu. Ebu Talha: "Ben" dedi. Nebi (Sallallahu aleyhi ve Sellem): "Haydi kabre in" buyurdu. Bunun üzerine Ebu Talha kabre indi. Tekrar: 1342
+Enes İbn Malik r.a. şöyle demiştir: Nebi (s.a.v.)'in bir kızının (Ümmü Gülsüm'ün) cenazesine katıldık. Resulullah Sallallahu Aleyhi ve Sellem kabrin bir tarafına oturmuştu. Gözlerinden yaşlar boşaldığını gördüm. O Sallallahu Aleyhi ve Sellem: "İçinizden bu gece cinsel ilişkide bulunmayan var mı?" buyurdu. Ebu Talha: "Ben" dedi. Nebi (Sallallahu aleyhi ve Sellem): "Haydi kabre in" buyurdu. Bunun üzerine Ebu Talha kabre indi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1285</td></tr><tr><td>Arabic No</td><td>1285</td></tr><tr><td>Reference</td><td>Book 23 Hadith 45</td></tr></tbody></table></div>
 

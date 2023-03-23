@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২১৩। মুসআব ইবনু সা’দ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যাক্তি নিজে কুরআন শিক্ষা করে এবং তা অপরকে শিক্ষা দেয়, সেই তোমাদের মধ্যে উত্তম। রাবী বলেন, তিনি আমার হাত ধরে আমাকে এই স্থানে বসালেন এবং বললেন, ইনি সর্বাপেক্ষা বড় কারী।
+। মুসআব ইবনু সা’দ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যাক্তি নিজে কুরআন শিক্ষা করে এবং তা অপরকে শিক্ষা দেয়, সেই তোমাদের মধ্যে উত্তম। রাবী বলেন, তিনি আমার হাত ধরে আমাকে এই স্থানে বসালেন এবং বললেন, ইনি সর্বাপেক্ষা বড় কারী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>213</td></tr><tr><td>Arabic No</td><td>213</td></tr><tr><td>Reference</td><td>Book 0 Hadith 213</td></tr></tbody></table></div>
 

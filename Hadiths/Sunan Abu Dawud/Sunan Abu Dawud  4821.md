@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন সারহ (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আবুল কাসিম মুহাম্মদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কেউ রোদের মধ্যে বসে থাকে, এরপর সেখানে ছায়া পড়ে; ফলে তার শরীরের কিছু অংশ রোদের মধ্যে এবং কিছু অংশ ছায়ার মধ্যে থাকে; তবে তার উচিত, সেখান থেকে উঠে যাওয়া।
+। আবূ হুরাইরাহ (রাঃ) বলেন, আবুল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ রোদে বসা অবস্থায় সেখানে ছায়া এলে তার দেহের কিছু অংশ রোদে এবং কিছু অংশ ছায়ায় পড়ে গেলে সে যেন সেখান থেকে উঠে যায়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4821</td></tr><tr><td>Arabic No</td><td>4821</td></tr><tr><td>Reference</td><td>Book 43 Hadith 49</td></tr></tbody></table></div>
 

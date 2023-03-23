@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(نَحْبَه”) عَهْدَهُ (أَقْطَارِهَا) جَوَانِبُهَا الْفِتْنَةَ لآَتَوْهَا لَأَعْطَوْهَا. نَحْبَه তার অঙ্গীকার। أَقْطَارِهَا তার পার্শ্বসমূহ। الْفِتْنَةَ لَاٰتَوْهَا তারা তা গ্রহণ করত। ৪৭৮৩. আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা মনে করি, এ আয়াত আনাস ইবনু নায্র সম্পর্কে নাযিল হয়েছেঃ ‘‘মু’মিনদের মধ্যে কতক আল্লাহর সঙ্গে তাদের কৃত ওয়াদা পূর্ণ করেছে।’’ [২৮০৫] (আধুনিক প্রকাশনীঃ ৪৪১৯, ইসলামিক ফাউন্ডেশনঃ ৪৪২১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(نَحْبَه”) عَهْدَهُ (أَقْطَارِهَا) جَوَانِبُهَا الْفِتْنَةَ لآَتَوْهَا لَأَعْطَوْهَا. نَحْبَه তার অঙ্গীকার। أَقْطَارِهَا তার পার্শ্বসমূহ। الْفِتْنَةَ لَاٰتَوْهَا তারা তা গ্রহণ করত। ৪৭৮৩. আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা মনে করি, এ আয়াত আনাস ইবনু নায্র সম্পর্কে নাযিল হয়েছেঃ ‘‘মু’মিনদের মধ্যে কতক আল্লাহর সঙ্গে তাদের কৃত ওয়াদা পূর্ণ করেছে।’’ [২৮০৫] (আধুনিক প্রকাশনীঃ ৪৪১৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 65 Hadith 305</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Anas:We think that the Verse: 'Among the Believers are men who have bee
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Muhammad bin Basyar] Telah menceritakan kepada kami [Muhammad bin Abdullah Al Anshari] dia berkata; Telah menceritakan kepadaku [Bapakku] dari [Tsumamah] dari [Anas bin Malik radliallahu 'anhu] dia berkata; "Kami melihat ayat ini turun berkenaan dengan Anas bin An Nadlr, yaitu ayat: Di antara orang-orang mukmin itu terdapat orang-orang yang menepati apa yang telah mereka janjikan kepada Allah, (Al Ahzab: 23)
+Telah menceritakan kepadaku [Muhammad bin Basyar] Telah menceritakan kepada kami [Muhammad bin Abdullah Al Anshari] dia berkata; Telah menceritakan kepadaku [Bapakku] dari [Tsumamah] dari [Anas bin Malik radliallahu 'anhu] dia berkata; "Kami melihat ayat ini turun berkenaan dengan Anas bin An Nadlr, yaitu ayat: Di antara orang-orang mukmin itu terdapat orang-orang yang menepati apa yang telah mereka janjikan kepada Allah, (Al Ahzab:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 65 Hadith 305</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Basyar] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: ‘‘இறைநம்பிக்கையாளர்களில் சிலர் உள்ளனர். அவர்கள் அல்லாஹ்விடம் தாம் அளித்த வாக்குறுதியில் உண்மையாக நடந்துகொண்டார்கள்” என்று தொடங்கும் (33:23ஆவது) வசனம், அனஸ் பின் நள்ர் (ரலி) அவர்கள் தொடர்பாக அருளப்பெற்றதென்றே நாங்கள் கருதுகிறோம்.4 அத்தியாயம் : 65
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: ‘‘இறைநம்பிக்கையாளர்களில் சிலர் உள்ளனர். அவர்கள் அல்லாஹ்விடம் தாம் அளித்த வாக்குறுதியில் உண்மையாக நடந்துகொண்டார்கள்” என்று தொடங்கும் (33:23ஆவது) வசனம், அனஸ் பின் நள்ர் (ரலி) அவர்கள் தொடர்பாக அருளப்பெற்றதென்றே நாங்கள் கருதுகிறோம்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 65 Hadith 305</td></tr></tbody></table></div>
 

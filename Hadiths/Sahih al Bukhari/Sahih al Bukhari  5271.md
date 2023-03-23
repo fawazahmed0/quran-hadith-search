@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যুহরী (রহ.) বলেন, জাবির ইবনু ‘আবদুল্লাহ আনসারী (রাঃ) থেকে যিনি শুনেছেন, তিনি আমাকে বলেছেন, রজমকারীদের মধ্যে আমিও একজন ছিলাম। আমরা মদিনার মুসল্লায় অর্থাৎ ঈদগাহে) তাকে রজম করলাম। পাথর যখন তাকে অতিষ্ঠ করে তুলল, সে তখন পালিয়ে গেল। হাররায় আমরা তাকে পাকড়াও করলাম এবং রজম করলাম। অবশেষে সে মৃত্যু বরণ করলো। [৫২৭০; মুসলিম ২৯/৫, হাঃ ১৬৬১, আহমাদ ১৪৪৬৯] আধুনিক প্রকাশনী- ৪৮৮৫, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5271</td></tr><tr><td>Arabic No</td><td>5271</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

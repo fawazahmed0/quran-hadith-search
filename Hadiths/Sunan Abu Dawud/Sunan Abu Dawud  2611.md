@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুহাইর ইবন হারব আবূ খায়সামা ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সফরসঙ্গীর উত্তম সংখ্যা হলো নুন্যতম চারজন, আর ক্ষুদ্র সেনাদলের উত্তম সংখ্যা চার‘শ এবং সাঁজোয়া বাহিনীর উত্তম সংখ্যা চার হাজার। আর ১২ হাজারের সৈন্যদল কথনও স্বল্পতার জন্য পরাজিত হবে না (অন্য কোন কারণ ছাড়া)।
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সফরে উত্তম হচ্ছে চারজন সঙ্গী হওয়া, ক্ষুদ্রবাহিনীতে চারশো এবং সেনাবাহিনীতে চার হাজার সৈন্য হওয়া উত্তম। আর বারো হাজার সৈন্য হলে সংখ্যা স্বল্পতার কারণে পরাজিত হয় না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2611</td></tr><tr><td>Arabic No</td><td>2611</td></tr><tr><td>Reference</td><td>Book 15 Hadith 135</td></tr></tbody></table></div>
 

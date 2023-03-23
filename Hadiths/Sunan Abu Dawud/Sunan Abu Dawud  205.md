@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান .... আলী ইবনু তালক (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেনঃ যখন কোন ব্যক্তি নামাযের মধ্যে নিঃসাড়ে পাশ্চাৎ-দ্বার দিয়ে বায়ু নির্গত করে, তখন তাঁর উচিত পুনরায় উযূ (ওজু/অজু/অযু) করে নামায আদায় করা।
+। ‘আলী ইবনু তালক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ সালাতের মধ্যে (পশ্চাৎ-দ্বারে) বায়ু নির্গত করলে সে যেন ফিরে গিয়ে অযু করে এবং পুনরায় সালাত আদায় করে।[1] দুর্বল : যঈফ আল-জামি‘উস সাগীর ৬০৭, মিশকাত ৩১৪, ১০০৬।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>205</td></tr><tr><td>Arabic No</td><td>205</td></tr><tr><td>Reference</td><td>Book 1 Hadith 205</td></tr></tbody></table></div>
 

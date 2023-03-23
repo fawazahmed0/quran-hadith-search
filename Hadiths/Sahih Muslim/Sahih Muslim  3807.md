@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৬৯৯, আন্তর্জাতিক নাম্বারঃ ১৫১২ ৩৬৯৯-(.../...) 'আমর আন নাকিদ (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে একই সূত্রে উক্ত হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৬৬৫, ইসলামিক সেন্টার ৩৬৬৫)
+আমর আন নাকিদ (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে একই সূত্রে উক্ত হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৬৬৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>1512.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
 

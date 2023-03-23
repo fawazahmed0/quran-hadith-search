@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৫৮৭। বাজালা (রহঃ) হতে বর্ণিত আছে, অগ্নিপূজকদের হতে উমার (রাঃ) কর সংগ্রহ করতেন না যে পর্যন্ত না তাকে আবদুর রাহমান ইবনু আওফ (রাঃ) জানান যে, হাজার এলাকার অগ্নিপূজকদের নিকট হতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কর সংগ্রহ করেছেন। সহীহ, দেখুন পূর্বের হাদীস এ হাদীসে আরো অনেক কথা আছে। এ হাদীসটি হাসান সহীহ।
+। বাজালা (রহঃ) হতে বর্ণিত আছে, অগ্নিপূজকদের হতে উমার (রাঃ) কর সংগ্রহ করতেন না যে পর্যন্ত না তাকে আবদুর রাহমান ইবনু আওফ (রাঃ) জানান যে, হাজার এলাকার অগ্নিপূজকদের নিকট হতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কর সংগ্রহ করেছেন। সহীহ, দেখুন পূর্বের হাদীস এ হাদীসে আরো অনেক কথা আছে। এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1587</td></tr><tr><td>Arabic No</td><td>1587</td></tr><tr><td>Reference</td><td>Book 21 Hadith 49</td></tr></tbody></table></div>
 

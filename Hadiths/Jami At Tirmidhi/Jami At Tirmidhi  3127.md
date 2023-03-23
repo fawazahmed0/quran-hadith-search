@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১২৭। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা মুমিনের দূরদৃষ্টি সম্পর্কে সজাগ থাক। কারণ সে আল্লাহ্ তা'আলার নূরের সাহায্যে দেখে। তারপর তিনি পাঠ করেনঃ “নিশ্চয় এতে নিদর্শন রয়েছে অন্তর্দৃষ্টি সম্পন্ন লোকদের জন্য" (সূরাঃ আল-হিজর— ৭৫)। যঈফ, যঈফা (১৮২১) আবূ ঈসা বলেন, এ হাদীসটি গারীব। আমরা শুধুমাত্র উপরোক্ত সূত্রেই এ হাদীস জেনেছি। কোন কোন তাফসীরকার আয়াতে উদ্ধৃত “মুতাওয়াসসিমীন" শব্দের অর্থ করেছেন “মুতাফাররিসীন" (দূরদৃষ্টি বা অন্তর দৃষ্টি সম্পন্ন লোক)।
+। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা মুমিনের দূরদৃষ্টি সম্পর্কে সজাগ থাক। কারণ সে আল্লাহ্ তা'আলার নূরের সাহায্যে দেখে। তারপর তিনি পাঠ করেনঃ “নিশ্চয় এতে নিদর্শন রয়েছে অন্তর্দৃষ্টি সম্পন্ন লোকদের জন্য" (সূরাঃ আল-হিজর— ৭৫)। যঈফ, যঈফা (১৮২১) আবূ ঈসা বলেন, এ হাদীসটি গারীব। আমরা শুধুমাত্র উপরোক্ত সূত্রেই এ হাদীস জেনেছি। কোন কোন তাফসীরকার আয়াতে উদ্ধৃত “মুতাওয়াসসিমীন" শব্দের অর্থ করেছেন “মুতাফাররিসীন" (দূরদৃষ্টি বা অন্তর দৃষ্টি সম্পন্ন লোক)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 47 Hadith 179</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Sa'eed Al-Khudri:that the Messenger of Allah (ﷺ) said: "Beware of the believer's intuition, for indeed he sees with Allah's Light." Then he recited: Surely in this are signs for those who see (15:75)
+Narrated Abu Sa'eed Al-Khudri:that the Messenger of Allah (ﷺ) said: "Beware of the believer's intuition, for indeed he sees with Allah's Light." Then he recited: Surely in this are signs for those who see (15:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 47 Hadith 179</td></tr></tbody></table></div>
 

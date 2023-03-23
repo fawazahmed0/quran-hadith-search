@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ..... ইমরান ইবন হুসায়ন (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ জনৈক ফকীরের ছেলে একজন ধনী ব্যক্তির ছেলের কান কেটে নেয়। তখন তার পরিবার-পরিজন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বলেঃ ইয়া রাসূলাল্লাহ! আমরা তো ফকীর! তখন তিনি তাদের উপর কোন দিয়াত নির্ধারণ করেননি।
+। ইমরান ইবনু হুসাইন (রাঃ) থেকে বর্ণিত। একদা এক দরিদ্র ব্যক্তির গোলাম অপর এক ধনী লোকের গোলামের কান কেটে ফেললো। অতঃপর তার পরিবারের লোকেরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, হে আল্লাহর রাসূল! আমরা তো গরীব। অতএব তিনি তার উপর কোনো কিছু ধার্য করেননি। সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 41 Hadith 97</td></tr></tbody></table></div>
 

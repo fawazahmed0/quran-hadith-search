@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৩৩০। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তাজা খেজুর শুকনা খেজুরের সাথে মিশিয়ে খাও, পুরাতন খেজুর নতুন খেজুরের সাথে মিশিয়ে খাও। কারণ তাতে শয়তান রাগান্বিত হয় এবং বলে, আদম-সন্তান জীবিত রইলো, এমনকি পুরাতন ফল নুতন ফলের সাথে আহার করলো।
+। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তাজা খেজুর শুকনা খেজুরের সাথে মিশিয়ে খাও, পুরাতন খেজুর নতুন খেজুরের সাথে মিশিয়ে খাও। কারণ তাতে শয়তান রাগান্বিত হয় এবং বলে, আদম-সন্তান জীবিত রইলো, এমনকি পুরাতন ফল নুতন ফলের সাথে আহার করলো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mawdu</td><td>Al-Albani</td></tr><tr><td>Mawdu</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3330</td></tr><tr><td>Arabic No</td><td>3330</td></tr><tr><td>Reference</td><td>Book 29 Hadith 80</td></tr></tbody></table></div>
 

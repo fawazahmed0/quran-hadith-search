@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ এবং সালাম আকওয়া‘ (রাঃ) হতে বর্ণিত যে, আমরা কোন এক সেনাবাহিনীতে ছিলাম এবং রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট এসে বললেন, তোমাদেরকে মুত‘আহ বিয়ের অনুমতি দেয়া হয়েছে। সুতরাং তোমরা মুত‘আহ করতে পার। (আধুনিক প্রকাশনী- ৪৭৪২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5117</td></tr><tr><td>Arabic No</td><td>5117</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Jabir bin 'Abdullah and Salama bin Al-Akwa':While we were in an army, A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்களும் சலமா பின் அல்அக்வஉ (ரலி) அவர்களும் கூறியதாவது: நாங்கள் ஒரு போர் படையில் இருந்தோம்.59 அப்போது எங்களிடம் அல்லாஹ் வின் தூதர் (ஸல்) அவர்களுடைய தூதுவர் ஒருவர் வந்து, ‘அல்முத்ஆ’ (தவணை முறைத்) திருமணம் உங்களுக்கு (தாற்காலிமாக) அனுமதிக்கப்பட்டுள்ளது. நீங்கள் ‘அல்முத்ஆ’ திருமணம் செய்து கொள்ளலாம்” என்று அறிவிப்புச் செய்தார். அத்தியாயம் : 67
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்களும் சலமா பின் அல்அக்வஉ (ரலி) அவர்களும் கூறியதாவது: நாங்கள் ஒரு போர் படையில் இருந்தோம்.59 அப்போது எங்களிடம் அல்லாஹ் வின் தூதர் (ஸல்) அவர்களுடைய தூதுவர் ஒருவர் வந்து, ‘அல்முத்ஆ’ (தவணை முறைத்) திருமணம் உங்களுக்கு (தாற்காலிமாக) அனுமதிக்கப்பட்டுள்ளது. நீங்கள் ‘அல்முத்ஆ’ திருமணம் செய்து கொள்ளலாம்” என்று அறிவிப்புச் செய்தார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5117</td></tr><tr><td>Arabic No</td><td>5117</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

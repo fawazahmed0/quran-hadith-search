@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কা'নবী (রহঃ) ...... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানব দেহের সমস্ত অঙ্গ-প্রতঙ্গ মাটিতে খেয়ে ফেলে, কিন্তু মেরুদণ্ডের হাঁড় খেতে পারে না। তা দিয়েই মানুষকে তৈরী করা হয়েছে এবং দ্বিতীয়বার তা দিয়েই তাদের সৃষ্টি করা হবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রতিটি আদম সন্তানকে মাটি খেয়ে ফেলবে, শুধু মেরুদন্ডের নীচের হাড়টুকু বাকী থাকবে। এ থেকেই তাকে সৃষ্টি করা হয়েছে এবং এ থেকেই তাকে পুনর্গঠন করা হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4743</td></tr><tr><td>Arabic No</td><td>4743</td></tr><tr><td>Reference</td><td>Book 42 Hadith 148</td></tr></tbody></table></div>
 

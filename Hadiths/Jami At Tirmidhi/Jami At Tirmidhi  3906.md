@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৯০৬। ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ তা'আলা ও শেষ দিনের প্রতি ঈমান রাখে এরূপ কোন লোক কখনো আনসারদের প্রতি বিদ্বেষ পোষণ করতে পারে না। সহীহঃ সহীহাহ (হাঃ ১২৩৪), মুসলিম আবূ হুরাইরাহ ও আবূ সাঈদ হতে বর্ণনা করেছেন। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ তা'আলা ও শেষ দিনের প্রতি ঈমান রাখে এরূপ কোন লোক কখনো আনসারদের প্রতি বিদ্বেষ পোষণ করতে পারে না। সহীহঃ সহীহাহ (হাঃ ১২৩৪), মুসলিম আবূ হুরাইরাহ ও আবূ সাঈদ হতে বর্ণনা করেছেন। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3906</td></tr><tr><td>Arabic No</td><td>3906</td></tr><tr><td>Reference</td><td>Book 49 Hadith 306</td></tr></tbody></table></div>
 

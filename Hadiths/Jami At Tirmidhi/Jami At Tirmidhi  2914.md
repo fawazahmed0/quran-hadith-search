@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯১৪। আবদুল্লাহ ইবনু আমর (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (কিয়ামতের দিন) কুরআনের বাহককে বলা হবে, পাঠ করতে থাক ও উপরে আরোহণ করতে থাক এবং দুনিয়াতে যেভাবে ধীরে সুস্থে পাঠ করতে ঠিক সেরূপে ধীরে সুস্থে পাঠ করতে থাক। যে আয়াতে তোমার পাঠ সমাপ্ত হবে সেখানেই তোমার স্থান। হাসান সহীহঃ মিশকাত (২১৩৪), তা’লীকুর রাগীব (২/২০৮), সহীহ আবূ দাউদ (১৩১৭), সহীহাহ (২২৪০)।
+। আবদুল্লাহ ইবনু আমর (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (কিয়ামতের দিন) কুরআনের বাহককে বলা হবে, পাঠ করতে থাক ও উপরে আরোহণ করতে থাক এবং দুনিয়াতে যেভাবে ধীরে সুস্থে পাঠ করতে ঠিক সেরূপে ধীরে সুস্থে পাঠ করতে থাক। যে আয়াতে তোমার পাঠ সমাপ্ত হবে সেখানেই তোমার স্থান। হাসান সহীহঃ মিশকাত (২১৩৪), তা’লীকুর রাগীব (২/২০৮), সহীহ আবূ দাউদ (১৩১৭), সহীহাহ (২২৪০)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2914</td></tr><tr><td>Arabic No</td><td>2914</td></tr><tr><td>Reference</td><td>Book 45 Hadith 40</td></tr></tbody></table></div>
 

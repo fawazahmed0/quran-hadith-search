@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সায়িব ইবনু ইয়াযীদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে সা‘ ছিল তোমাদের এখনকার মুদ্দের এক মুদ্দ ও এক মুদ্দের তৃতীয়াংশ পরিমাণ। অতঃপর ‘উমার ইবনু আবদুল আযীয (রহ.)-এর যুগে তার পরিমাণ বর্দ্ধিত করা হয়েছে। [১৮৫৯] (আধুনিক প্রকাশনী- ৬২৪৫, ইসলামিক ফাউন্ডেশন- ৬২৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সায়িব ইবনু ইয়াযীদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে সা‘ ছিল তোমাদের এখনকার মুদ্দের এক মুদ্দ ও এক মুদ্দের তৃতীয়াংশ পরিমাণ। অতঃপর ‘উমার ইবনু আবদুল আযীয (রহ.)-এর যুগে তার পরিমাণ বর্দ্ধিত করা হয়েছে। [১৮৫৯] (আধুনিক প্রকাশনী- ৬২৪৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6712</td></tr><tr><td>Arabic No</td><td>6712</td></tr><tr><td>Reference</td><td>Book 84 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் காலத்தில் ‘ஸாஉ’ என்பது, இன்றைக்கு (நடைமுறை யிலிருக்கும்) உங்களது ‘முத்’தில் ஒரு ‘முத்’தும் மூன்றில் ஒரு பாகமும் (1 1/3) கொண்டதாக இருந்தது. பின்னர் உமர் பின் அப்தில் அஸீஸ் (ரஹ்) அவர்களது காலத்தில் இதன் அளவு அதிகமாக்கப் பட்டது.8 அத்தியாயம் : 86
+சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் காலத்தில் ‘ஸாஉ’ என்பது, இன்றைக்கு (நடைமுறை யிலிருக்கும்) உங்களது ‘முத்’தில் ஒரு ‘முத்’தும் மூன்றில் ஒரு பாகமும் (1 1/3) கொண்டதாக இருந்தது. பின்னர் உமர் பின் அப்தில் அஸீஸ் (ரஹ்) அவர்களது காலத்தில் இதன் அளவு அதிகமாக்கப் பட்டது.8 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6712</td></tr><tr><td>Arabic No</td><td>6712</td></tr><tr><td>Reference</td><td>Book 84 Hadith 5</td></tr></tbody></table></div>
 

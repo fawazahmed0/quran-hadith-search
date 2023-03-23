@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালিমের পিতা [ইবনু ‘উমার (রাঃ)] হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কারো স্ত্রী মসজিদে যাবার অনুমতি চাইলে তাকে নিষেধ করো না। [৮৬৫](আধুনিক প্রকাশনী- ৪৮৫৫, ইসলামিক ফাউন্ডেশন- ৪৮৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালিমের পিতা [ইবনু ‘উমার (রাঃ)] হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কারো স্ত্রী মসজিদে যাবার অনুমতি চাইলে তাকে নিষেধ করো না। [৮৬৫](আধুনিক প্রকাশনী- ৪৮৫৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5238</td></tr><tr><td>Arabic No</td><td>5238</td></tr><tr><td>Reference</td><td>Book 67 Hadith 171</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் மனைவியர் பள்ளிவாசலுக்குச் செல்ல உங்களிடம் அனுமதி கேட்டால் அவர்களைத் தடுக்காதீர்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.168 அத்தியாயம் : 67
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் மனைவியர் பள்ளிவாசலுக்குச் செல்ல உங்களிடம் அனுமதி கேட்டால் அவர்களைத் தடுக்காதீர்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.168 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5238</td></tr><tr><td>Arabic No</td><td>5238</td></tr><tr><td>Reference</td><td>Book 67 Hadith 171</td></tr></tbody></table></div>
 

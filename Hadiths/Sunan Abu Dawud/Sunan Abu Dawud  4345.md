@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইব্‌ন আলা (রহঃ) .... উরস ইবন আমিরা আল-কিন্দী (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন যে, যখন যমীনের উপর কোন গুনাহের কাজ অনুষ্ঠিত হয়, তখন তা দেখে যে খারাপ মনে করে অথবা ঘৃণা করেঃ সে ব্যক্তি এরূপ, যেন সে গুনাহের কাজ দেখে নাই, পক্ষান্তরে, যে ব্যক্তি কোন গুনাহের কাজ নিজে প্রত্যক্ষ করে না, অথচ সে গুনাহের কাজ অনুষ্ঠিত হলে খুশী হয়ঃ সে ব্যক্তি এরূপ, যেন সে নিজেই তা প্রত্যক্ষ করে।
+। আল-উরস ইবনু ‘আমীরাহ আল-কিনদী (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো স্থানে যখন অন্যায় সংঘটিত হয়, তখন সেখানে উপস্থিত ব্যক্তি তাতে অসন্তুষ্ট হলে, সে অনুপস্থিতিদের মতোই গণ্য হবে (তার গুনাহ হবে না)। আর যে ব্যক্তি অন্যায় কাজের স্থান থেকে অনুপস্থিত হয়েও তাতে সন্তুষ্ট হয়, সে অন্যায়ে উপস্থিতদের অন্তর্ভুক্ত।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4345</td></tr><tr><td>Arabic No</td><td>4345</td></tr><tr><td>Reference</td><td>Book 39 Hadith 55</td></tr></tbody></table></div>
 

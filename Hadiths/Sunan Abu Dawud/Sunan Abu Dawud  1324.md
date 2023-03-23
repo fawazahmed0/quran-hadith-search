@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাখলাদ ইবন খালিদ (রহঃ) ..... আবু হুরায়রা (রাঃ) হতে এই সনদেও উপরোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে। তবে এতে আরও বর্ণিত হয়েছে যে, অতঃপর তুমি তোমার ইচ্ছানুযায়ী দীর্ঘ কিরাআত দ্বারা নামায আদায় করতে পার। ( মুসলিম)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। তবে এতে রয়েছে, এরপর যত ইচ্ছা দীর্ঘ করবে। ইমাম আবূ দাউদ (রহঃ) বলেন, এ হাদীসটি হাম্মাদ ইবনু সালামাহ, যুহাইর ইবনু মু‘আবিয়াহ, আইয়ূব, ইবনু ‘আওন ও একদল হিশাম সূত্রে বর্ণনা করেছেন, তারা এটি আবূ হুরাইরাহ (রাঃ)-এর নিজস্ব বক্তব্য হিসেবে উল্লেখ করেছেন। ইবনু ‘আওন মুহাম্মাদ ইবনু সীরীন সূত্রে বর্ণনা করেন যে, প্রথম দু’ রাক‘আতের ক্বিরাআত ছোট করবে।[1] সহীহ মাওকূফ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1324</td></tr><tr><td>Arabic No</td><td>1324</td></tr><tr><td>Reference</td><td>Book 5 Hadith 75</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৪০৬। উকবা ইবনু আমির (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! মুক্তির উপায় কি? তিনি বললেনঃ তুমি তোমার রসনা সংযত রাখ, তোমার বাসস্থান যেন তোমার জন্য প্রশস্ত হয় (অর্থাৎ তুমি তোমার বাড়ীতে অবস্থান কর) এবং তোমার গুনাহের জন্য ক্ৰন্দন কর। সহীহ, সহীহাহ (৮৮৮)। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
+। উকবা ইবনু আমির (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! মুক্তির উপায় কি? তিনি বললেনঃ তুমি তোমার রসনা সংযত রাখ, তোমার বাসস্থান যেন তোমার জন্য প্রশস্ত হয় (অর্থাৎ তুমি তোমার বাড়ীতে অবস্থান কর) এবং তোমার গুনাহের জন্য ক্ৰন্দন কর। সহীহ, সহীহাহ (৮৮৮)। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2406</td></tr><tr><td>Arabic No</td><td>2406</td></tr><tr><td>Reference</td><td>Book 36 Hadith 104</td></tr></tbody></table></div>
 

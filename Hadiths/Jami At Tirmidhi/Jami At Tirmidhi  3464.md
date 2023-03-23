@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। জাবির (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক (একবার) বলে “সুবহানাল্লাহিল আযীম ওয়াবিহামদিহী”, তার জন্য জান্নাতে একটি খেজুর গাছ লাগানো হয়। সহীহঃ রাওযুন নায়ীর (হাঃ ২৪৩), সহীহাহ (হাঃ ৬৪)। আবূ ঈসা বলেন, হাদীসটি হাসান গারীব সহীহ। হাদীসটি আমরা শুধুমাত্র আবূয যুবাইর এর বরাতে জাবির (রাযিঃ) হতে অবগত হয়েছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3464</td></tr><tr><td>Arabic No</td><td>3464</td></tr><tr><td>Reference</td><td>Book 48 Hadith 95</td></tr></tbody></table></div>
 

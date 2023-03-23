@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭/৯২। জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এ উম্মাতের তারাই মাজুসী (অগ্নিপূজক) যারা আল্লাহ্‌র নির্ধারিত তাকদীরকে অস্বীকার করে। এরা রোগাক্রান্ত হলে তোমরা তাদের দেখতে যেও না। তারা মারা গেলে তোমরা তাদের জানাযায় হাজির হয়ো না। এদের সাথে তোমাদের সাক্ষাৎ হলে তোমরা এদের সালাম দিও না।
+। জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এ উম্মাতের তারাই মাজুসী (অগ্নিপূজক) যারা আল্লাহ্‌র নির্ধারিত তাকদীরকে অস্বীকার করে। এরা রোগাক্রান্ত হলে তোমরা তাদের দেখতে যেও না। তারা মারা গেলে তোমরা তাদের জানাযায় হাজির হয়ো না। এদের সাথে তোমাদের সাক্ষাৎ হলে তোমরা এদের সালাম দিও না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 0 Hadith 92</td></tr></tbody></table></div>
 

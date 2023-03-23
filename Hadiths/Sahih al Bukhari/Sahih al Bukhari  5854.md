@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পবিত্রতা লাভ করতে, মাথা আঁচড়াতে ও জুতা পায়ে দিতে ডান দিক থেকে আরম্ভ করা পছন্দ করতেন। [১৬৮] (আধুনিক প্রকাশনী- ৫৪২৮, ইসলামিক ফাউন্ডেশন- ৫৩২৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পবিত্রতা লাভ করতে, মাথা আঁচড়াতে ও জুতা পায়ে দিতে ডান দিক থেকে আরম্ভ করা পছন্দ করতেন। [১৬৮] (আধুনিক প্রকাশনী- ৫৪২৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5854</td></tr><tr><td>Arabic No</td><td>5854</td></tr><tr><td>Reference</td><td>Book 77 Hadith 71</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், தாம் அங்கத் தூய்மை (உளூ) செய்யும்போதும், தலைவாரிக் கொள்ளும்போதும், காலணி அணிந்துகொள்ளும்போதும் வலப் பக்கத்திலிருந்து தொடங்குவதையே விரும்பிவந்தார்கள்.73 அத்தியாயம் : 77
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், தாம் அங்கத் தூய்மை (உளூ) செய்யும்போதும், தலைவாரிக் கொள்ளும்போதும், காலணி அணிந்துகொள்ளும்போதும் வலப் பக்கத்திலிருந்து தொடங்குவதையே விரும்பிவந்தார்கள்.73 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5854</td></tr><tr><td>Arabic No</td><td>5854</td></tr><tr><td>Reference</td><td>Book 77 Hadith 71</td></tr></tbody></table></div>
 

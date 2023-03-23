@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হাফসাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর নিকট বলেছেন যে, ‘আবদুল্লাহ অত্যন্ত নেক ব্যক্তি। (১১২২) (আধুনিক প্রকাশনীঃ ৩৪৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3740</td></tr><tr><td>Arabic No</td><td>3740</td></tr><tr><td>Reference</td><td>Book 62 Hadith 86</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Yahya bin Sulaiman] telah bercerita kepada kami [Ib
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹஃப்ஸா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னிடம், “அப்துல்லாஹ் (இப்னு உமர்) ஒரு நல்ல மனிதர்” என்று சொன்னார்கள். இதைத் தம் சகோதரி ஹஃப்ஸா (ரலி) அவர்களிடமிருந்து இப்னு உமர் (ரலி) அவர்களே அறிவிக்கிறார்கள். அத்தியாயம் : 62
+ஹஃப்ஸா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னிடம், “அப்துல்லாஹ் (இப்னு உமர்) ஒரு நல்ல மனிதர்” என்று சொன்னார்கள். இதைத் தம் சகோதரி ஹஃப்ஸா (ரலி) அவர்களிடமிருந்து இப்னு உமர் (ரலி) அவர்களே அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3740</td></tr><tr><td>Arabic No</td><td>3740</td></tr><tr><td>Reference</td><td>Book 62 Hadith 86</td></tr></tbody></table></div>
 

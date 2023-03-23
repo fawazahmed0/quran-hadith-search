@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০৮৯। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা বিয়ের ঘোষণা দিবে, বিয়ের কাজ মসজিদে সম্পন্ন করবে এবং এতে দফ পিটাবে। বিয়ের ঘোষণা দিবে এই অংশটি ব্যতীত হাদীসটি যঈফ। ইবনু মাজাহ (১৮৯৫) আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। ঈসা ইবনু মাইমূন হাদীস শাস্ত্রে দুর্বল। তবে যে ঈসা ইবনু মাইমূন তাফসীর সম্পর্কে ইবনু আবূ নাজীহ হতে বর্ণনা করেছেন তিনি নির্ভরযোগ্য।
+। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা বিয়ের ঘোষণা দিবে, বিয়ের কাজ মসজিদে সম্পন্ন করবে এবং এতে দফ পিটাবে। বিয়ের ঘোষণা দিবে এই অংশটি ব্যতীত হাদীসটি যঈফ। ইবনু মাজাহ (১৮৯৫) আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। ঈসা ইবনু মাইমূন হাদীস শাস্ত্রে দুর্বল। তবে যে ঈসা ইবনু মাইমূন তাফসীর সম্পর্কে ইবনু আবূ নাজীহ হতে বর্ণনা করেছেন তিনি নির্ভরযোগ্য।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 11 Hadith 10</td></tr></tbody></table></div>
 

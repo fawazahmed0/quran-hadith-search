@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাআদ (রহঃ) ...... ইবন আব্বাস (রাঃ) হতে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, উমরাকারী হাজরে আসওয়াদ চুম্বন না করা পর্যন্ত তালবিয়া পাঠ করতে থাকবে।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘উমরা আদায়কারী ‘হাজরে আসওয়াদ’ চুম্বন করা পর্যন্ত তালবিয়া পড়তে থাকবে। ইমাম আবূ দাঊদ (রহ.) বলেন, ‘আব্দুল মালিক ইবনুল সুলাইমান এবং হাম্মাম (রহ.) ‘আতা (রহ.) থেকে ইবনু ‘আব্বাস (রাযি.) সূত্রে এটি ‘মাওকুফ’ হিসেবে বর্ণনা করেছেন।[1] দুর্বলঃ আল-জামি‘উস সাগীর (৬৪৪৩), মিশকাত (২৬১৫), যঈফ সুনান আত-তিরমিযী (১৫৮/৯২৮)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1817</td></tr><tr><td>Arabic No</td><td>1817</td></tr><tr><td>Reference</td><td>Book 11 Hadith 97</td></tr></tbody></table></div>
 

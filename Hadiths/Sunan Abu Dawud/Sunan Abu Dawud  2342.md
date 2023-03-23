@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহামূদ ইবন খালিদ ও আবদুল্লাহ্ ইবন আবদুর রহমান সমরকান্দী .... ইবন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা লোকেরা রামাযানের চাঁদ অন্বেষণ করে, কিন্তু দেখতে পায়নি। পরে এক ব্যক্তি রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরূপ খবর দেয় যে, সে চাঁদ দেখেছে। এরপর তিনি রোযা রাখেন এবং লোকদেরকেও রোযা রাখার নির্দেশ দেন।
+। ইবনু উমার (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, লোকেরা রমাযানের চাঁদ অন্বেষণ করছিল। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জানালাম যে, আমি চাঁদ দেখেছি। অতঃপর তিনি নিজেও সওম রাখলেন এবং লোকদেরকেও রমাযানের সওম পালনের নির্দেশ দিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2342</td></tr><tr><td>Arabic No</td><td>2342</td></tr><tr><td>Reference</td><td>Book 14 Hadith 30</td></tr></tbody></table></div>
 

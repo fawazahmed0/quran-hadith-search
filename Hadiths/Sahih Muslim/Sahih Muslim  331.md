@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৩০, আন্তর্জাতিক নাম্বারঃ ১২৭ ২৩০-(২০১/১২৭) সাঈদ ইবনু মানসূর, কুতাইবাহ ইবনু সাঈদ ও মুহাম্মাদ ইবনু উবায়দ আল গুবারী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ কথা বা কাজে পরিণত না করা পর্যন্ত আল্লাহ তা'আলা আমার উম্মতের জন্য তাদের মনে কল্পনাগুলোকে মাফ করে দিয়েছেন। (ইসলামিক ফাউন্ডেশনঃ ২৩১, ইসলামিক সেন্টারঃ ২৩৯)
+সাঈদ ইবনু মানসূর, কুতাইবাহ ইবনু সাঈদ ও মুহাম্মাদ ইবনু উবায়দ আল গুবারী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ কথা বা কাজে পরিণত না করা পর্যন্ত আল্লাহ তা'আলা আমার উম্মতের জন্য তাদের মনে কল্পনাগুলোকে মাফ করে দিয়েছেন। (ইসলামিক ফাউন্ডেশনঃ ২৩১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>331</td></tr><tr><td>Arabic No</td><td>127.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 238</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] sert
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Said b. Mansur ile Kuteybetü'bnü Said ve Mubaramed b. Ubeyd el-Guberî rivayet ettiler. Lafız Said'indir. Dediler ki: Bize Ebu Avane Katade'den, o da Züraratü'bnü Evfa'dan, o da Ebu Hureyre'den naklen rivayet etti. Ebu Hureyre dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Şüphesiz ki dilleri ile söylemedikleri yahut gereğini yapmadıkları sürece Allah ümmetime içlerinden geçenleri bağışlamıştır. " Diğer tahric: Buhari, 2528, 5269, 6664; Ebu Davud, 2209; Tirmizi, 1183; Nesai, 3434, 3435; İbn Mace, 2040, 2044; Tuhfetu'l-Eşraf, 12896
+Bize Said b. Mansur ile Kuteybetü'bnü Said ve Mubaramed b. Ubeyd el-Guberî rivayet ettiler. Lafız Said'indir. Dediler ki: Bize Ebu Avane Katade'den, o da Züraratü'bnü Evfa'dan, o da Ebu Hureyre'den naklen rivayet etti. Ebu Hureyre dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Şüphesiz ki dilleri ile söylemedikleri yahut gereğini yapmadıkları sürece Allah ümmetime içlerinden geçenleri bağışlamıştır. " Diğer tahric: Buhari, 2528, 5269, 6664; Ebu Davud, 2209; Tirmizi, 1183; Nesai, 3434, 3435; İbn Mace, 2040, 2044; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>331</td></tr><tr><td>Arabic No</td><td>127.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 238</td></tr></tbody></table></div>
 

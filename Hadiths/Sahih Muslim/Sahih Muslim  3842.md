@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+তিনি আরো বলেনঃ আমরা কাফিলা থেকে দ্রব্য খরিদ করতাম। এরপর রসূলুল্লাহ আমাদেরকে সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা স্থানান্তরিত করার পূর্বে বিক্রি করতে নিষেধ করেছেন। (ইসলামিক ফাউন্ডেশন ৩৭০০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3842</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

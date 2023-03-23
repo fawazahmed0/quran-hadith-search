@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উটের পিঠে সওয়ার হয়ে বাইতুল্লাহ তাওয়াফ করেন, যখনই তিনি হাজরে আসওয়াদের কাছে আসতেন তখন তাঁর হাতের বস্তু (লাঠি) দিয়ে তার দিকে ইঙ্গিত করতেন ও তাকবীর বলতেন। (১৬০৭) (আধুনিক প্রকাশনীঃ ১৫২৩, ইসলামিক ফাউন্ডেশনঃ ১৫২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উটের পিঠে সওয়ার হয়ে বাইতুল্লাহ তাওয়াফ করেন, যখনই তিনি হাজরে আসওয়াদের কাছে আসতেন তখন তাঁর হাতের বস্তু (লাঠি) দিয়ে তার দিকে ইঙ্গিত করতেন ও তাকবীর বলতেন। (১৬০৭) (আধুনিক প্রকাশনীঃ ১৫২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1632</td></tr><tr><td>Arabic No</td><td>1632</td></tr><tr><td>Reference</td><td>Book 25 Hadith 115</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada saya [Ishaq Al Wasitiy] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒட்டகத்தின் மீதமர்ந்துகொண்டு இறை யில்லம் கஅபாவைச் சுற்றி (தவாஃப்) வந்தார்கள். ஹஜருல் அஸ்வதின் பக்கம் வரும்போதெல்லாம் தமது கையிலுள்ள ஒரு பொருளால் ஹஜருல் அஸ்வதை நோக்கிச் சைகை செய்துவிட்டு தக்பீர் சொன்னார்கள். அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒட்டகத்தின் மீதமர்ந்துகொண்டு இறை யில்லம் கஅபாவைச் சுற்றி (தவாஃப்) வந்தார்கள். ஹஜருல் அஸ்வதின் பக்கம் வரும்போதெல்லாம் தமது கையிலுள்ள ஒரு பொருளால் ஹஜருல் அஸ்வதை நோக்கிச் சைகை செய்துவிட்டு தக்பீர் சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1632</td></tr><tr><td>Arabic No</td><td>1632</td></tr><tr><td>Reference</td><td>Book 25 Hadith 115</td></tr></tbody></table></div>
 

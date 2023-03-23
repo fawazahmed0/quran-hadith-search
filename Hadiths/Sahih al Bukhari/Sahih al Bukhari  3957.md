@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারা (রাঃ) হতে বর্ণিত। তিনি বলেন, মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর যে সব সাহাবী বদরে উপস্থিত ছিলেন তারা আমার কাছে বর্ণনা করেছেন যে, তাদের সংখ্যা তালুতের যে সব সঙ্গী নদী পার হয়েছিলেন তাদের সমান ছিল। তাদের সংখ্যা ছিল তিনশ’ দশেরও কিছু বেশী। বারা’ (রাঃ) বলেন, আল্লাহর কসম, ঈমানদার ব্যতীত আর কেউই তাঁর সঙ্গে নদী পার হতে পারেনি। [৩৯৫৮-৩৯৫৯] (আধুনিক প্রকাশনীঃ ৩৬৬৬, ইসলামিক ফাউন্ডেশনঃ ৩৬৬৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারা (রাঃ) হতে বর্ণিত। তিনি বলেন, মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর যে সব সাহাবী বদরে উপস্থিত ছিলেন তারা আমার কাছে বর্ণনা করেছেন যে, তাদের সংখ্যা তালুতের যে সব সঙ্গী নদী পার হয়েছিলেন তাদের সমান ছিল। তাদের সংখ্যা ছিল তিনশ’ দশেরও কিছু বেশী। বারা’ (রাঃ) বলেন, আল্লাহর কসম, ঈমানদার ব্যতীত আর কেউই তাঁর সঙ্গে নদী পার হতে পারেনি। [৩৯৫৮-৩৯৫৯] (আধুনিক প্রকাশনীঃ ৩৬৬৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3957</td></tr><tr><td>Arabic No</td><td>3957</td></tr><tr><td>Reference</td><td>Book 64 Hadith 9</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara:The companions of (the Prophet) Muhammad who took part in Badr, told me that their number was that of Saul's (i.e. Talut's) companions who crossed the river (of Jordan) with him and they were over three-hundred-and-ten men. By Allah, none crossed the river with him but a believer. (See Qur'an 2:249)
+Narrated Al-Bara:The companions of (the Prophet) Muhammad who took part in Badr, told me that their number was that of Saul's (i.e. Talut's) companions who crossed the river (of Jordan) with him and they were over three-hundred-and-ten men. By Allah, none crossed the river with him but a believer. (See Qur'an 2:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3957</td></tr><tr><td>Arabic No</td><td>3957</td></tr><tr><td>Reference</td><td>Book 64 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin Khalid] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போரில் கலந்துகொண்ட நபித் தோழர்கள் என்னிடம் கூறினார்கள்: தாலூத் அவர்களுடன் ஆற்றைக் கடந்து சென்றவர்களான முன்னூற்றுப் பத்துக்கும் சற்றுக் கூடுதலான அவர்களுடைய தோழர்களின் எண்ணிக்கையில் நாங்கள் இருந்தோம்.9 மேலும், பராஉ (ரலி) அவர்கள் கூறி னார்கள்: அல்லாஹ்வின் மீதாணையாக! தாலூத் அவர்களுடன் இறைநம்பிக்கை யாளர்களைத் தவிர வேறெவரும் ஆற்றைக் கடக்கவில்லை. அத்தியாயம் : 64
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போரில் கலந்துகொண்ட நபித் தோழர்கள் என்னிடம் கூறினார்கள்: தாலூத் அவர்களுடன் ஆற்றைக் கடந்து சென்றவர்களான முன்னூற்றுப் பத்துக்கும் சற்றுக் கூடுதலான அவர்களுடைய தோழர்களின் எண்ணிக்கையில் நாங்கள் இருந்தோம்.9 மேலும், பராஉ (ரலி) அவர்கள் கூறி னார்கள்: அல்லாஹ்வின் மீதாணையாக! தாலூத் அவர்களுடன் இறைநம்பிக்கை யாளர்களைத் தவிர வேறெவரும் ஆற்றைக் கடக்கவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3957</td></tr><tr><td>Arabic No</td><td>3957</td></tr><tr><td>Reference</td><td>Book 64 Hadith 9</td></tr></tbody></table></div>
 

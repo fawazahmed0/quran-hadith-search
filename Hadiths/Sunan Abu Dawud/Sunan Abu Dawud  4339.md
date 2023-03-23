@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... জারীর ইবন আব্দুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরূপ বলতে শুনেছি, যদি কোন ব্যক্তি, কোন কাওমের মধ্যে গুনাহে লিপ্ত হয় এবং তারা সে ব্যক্তিকে সে গুনাহের কাজ থেকে বিরত রাখতে চেষ্টা করে না; আল্লাহ্‌ তাদের মৃত্যুর পূর্বে তাদের উপর আযাব প্রেরণ করেন।
+। জারীর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ কোনো ব্যক্তি কোনো জাতির মধ্যে বাস করছে যাদের মাঝে পাপাচার হচ্ছে, তারা এ পাপাচার প্রতিরোধে সক্ষম হওয়া সত্ত্বেও প্রতিরোধ করছে না, তাহলে মৃত্যুর পূর্বেই আল্লাহ তাদের চরম শাস্তি দিবেন[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4339</td></tr><tr><td>Arabic No</td><td>4339</td></tr><tr><td>Reference</td><td>Book 39 Hadith 49</td></tr></tbody></table></div>
 

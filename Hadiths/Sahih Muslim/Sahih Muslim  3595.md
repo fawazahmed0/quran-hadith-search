@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৪৮৭, আন্তর্জাতিক নাম্বারঃ ১৪৫১ ৩৪৮৭-(২২/...) ইবনু আবূ উমর (রহঃ) ..... উম্মুল ফাযল (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, একবার কিংবা দু'বার চুমুকে হারাম করে না। (ইসলামিক ফাউন্ডেশন ৩৪৬০, ইসলামীক সেন্টার ৩৪৫৯)
+ইবনু আবূ উমর (রহঃ) ..... উম্মুল ফাযল (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, একবার কিংবা দু'বার চুমুকে হারাম করে না। (ইসলামিক ফাউন্ডেশন ৩৪৬০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3595</td></tr><tr><td>Arabic No</td><td>1451.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 28</td></tr></tbody></table></div>
 

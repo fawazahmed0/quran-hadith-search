@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজ হাতে সাতটি উট দাঁড়িয়ে থাকা অবস্থায় কুরবানী করেন এবং মদ্বীনাতেও হৃষ্টপুষ্ট শিং বিশিষ্ট সুন্দর দু’টি দুম্বা তিনি কুরবানী করেছেন। এখানে হাদীসটি সংক্ষেপে বর্ণিত হয়েছে। (১০৮৯) (আধুনিক প্রকাশনীঃ ১৫৯৪, ইসলামিক ফাউন্ডেশনঃ ১৬০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজ হাতে সাতটি উট দাঁড়িয়ে থাকা অবস্থায় কুরবানী করেন এবং মদ্বীনাতেও হৃষ্টপুষ্ট শিং বিশিষ্ট সুন্দর দু’টি দুম্বা তিনি কুরবানী করেছেন। এখানে হাদীসটি সংক্ষেপে বর্ণিত হয়েছে। (১০৮৯) (আধুনিক প্রকাশনীঃ ১৫৯৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1712</td></tr><tr><td>Arabic No</td><td>1712</td></tr><tr><td>Reference</td><td>Book 25 Hadith 190</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sahal bin Bakar] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஹஜ்ஜின்போது) ஏழு ஒட்டகங்களை நிற்கவைத்துத் தமது கையாலேயே அறுத்தார்கள், மேலும், அவர்கள் மதீனாவில், பெரிய கொம்புகளை உடைய, கறுப்பு நிறம் கலந்த வெள்ளை நிற செம்மறி ஆடுகள் இரண்டையும் குர்பானி கொடுத்தார்கள். அத்தியாயம் : 25
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஹஜ்ஜின்போது) ஏழு ஒட்டகங்களை நிற்கவைத்துத் தமது கையாலேயே அறுத்தார்கள், மேலும், அவர்கள் மதீனாவில், பெரிய கொம்புகளை உடைய, கறுப்பு நிறம் கலந்த வெள்ளை நிற செம்மறி ஆடுகள் இரண்டையும் குர்பானி கொடுத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1712</td></tr><tr><td>Arabic No</td><td>1712</td></tr><tr><td>Reference</td><td>Book 25 Hadith 190</td></tr></tbody></table></div>
 

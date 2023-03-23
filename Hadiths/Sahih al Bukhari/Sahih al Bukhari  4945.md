@@ -41,13 +41,13 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, বাকীউল গারকাদ নামক স্থানে এক জানাযায় আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলাম। সে সময় তিনি বলেছিলেন, তোমাদের মধ্যে এমন কোন ব্যক্তি নেই, যার স্থান জান্নাত বা জাহান্নামে নির্ধারিত হয়নি। এ কথা শুনে সকলেই বললেন, হে আল্লাহর রাসূল! তাহলে কি আমরা ভাগ্যের উপর নির্ভর করে বসে থাকব? উত্তরে তিনি বললেন, তোমরা ‘আমল করতে থাক। কারণ, যাকে যে ‘আমলের জন্য সৃষ্টি করা হয়েছে, তার জন্য সে ‘আমল সহজ করে দেয়া হয়েছে। এরপর তিনি পাঠ কররেন, সুতরাং কেউ দান করলে, মুত্তাকী হলে এবং যা উত্তম তা গ্রহণ করলে, আমি তার জন্য সুগম করে দেব সহজ পথ এবং কেউ কার্পণ্য করলেও নিজেকে স্বয়ংসম্পূর্ণ মনে করলে, যার যা উত্তম তা ত্যাগ করলে, তার জন্য আমি সহজ করে দেব কঠোর পরিণামের পথ। [১৩৬২] (আধুনিক প্রকাশনীঃ ৪৫৪৭৬, ইসলামিক ফাউন্ডেশনঃ ৪৫৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, বাকীউল গারকাদ নামক স্থানে এক জানাযায় আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলাম। সে সময় তিনি বলেছিলেন, তোমাদের মধ্যে এমন কোন ব্যক্তি নেই, যার স্থান জান্নাত বা জাহান্নামে নির্ধারিত হয়নি। এ কথা শুনে সকলেই বললেন, হে আল্লাহর রাসূল! তাহলে কি আমরা ভাগ্যের উপর নির্ভর করে বসে থাকব? উত্তরে তিনি বললেন, তোমরা ‘আমল করতে থাক। কারণ, যাকে যে ‘আমলের জন্য সৃষ্টি করা হয়েছে, তার জন্য সে ‘আমল সহজ করে দেয়া হয়েছে। এরপর তিনি পাঠ কররেন, সুতরাং কেউ দান করলে, মুত্তাকী হলে এবং যা উত্তম তা গ্রহণ করলে, আমি তার জন্য সুগম করে দেব সহজ পথ এবং কেউ কার্পণ্য করলেও নিজেকে স্বয়ংসম্পূর্ণ মনে করলে, যার যা উত্তম তা ত্যাগ করলে, তার জন্য আমি সহজ করে দেব কঠোর পরিণামের পথ। [১৩৬২] (আধুনিক প্রকাশনীঃ ৪৫৪৭৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4945</td></tr><tr><td>Arabic No</td><td>4945</td></tr><tr><td>Reference</td><td>Book 65 Hadith 466</td></tr></tbody></table></div>
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4945.2</td></tr><tr><td>Arabic No</td><td>4945.2</td></tr><tr><td>Reference</td><td>Book 65 Hadith 467</td></tr></tbody></table></div>
@@ -56,13 +56,13 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Ali:We were in the company of the Prophet (ﷺ) in a funeral procession at Baqi Al-Gharqad. He said, "There is none of you but has his place written for him in Paradise or in the Hell- Fire." They said, "O Allah's Apostle! Shall we depend (on this fact and give up work)?" He said, "Carry on doing (good deeds), for every body will find it easy to do (what will lead him to his destined place)." Then he recited: 'As for him who gives (in charity) and keeps his duty to Allah, and believes in the Best reward from Allah (i.e. Allah will compensate him for what he will spend in Allah's way). So, We will make smooth for him the path of ease. But he who is a greedy miser....for him, the path for evil.' (92.5-10)
+Narrated 'Ali:We were in the company of the Prophet (ﷺ) in a funeral procession at Baqi Al-Gharqad. He said, "There is none of you but has his place written for him in Paradise or in the Hell- Fire." They said, "O Allah's Apostle! Shall we depend (on this fact and give up work)?" He said, "Carry on doing (good deeds), for every body will find it easy to do (what will lead him to his destined place)." Then he recited: 'As for him who gives (in charity) and keeps his duty to Allah, and believes in the Best reward from Allah (i.e. Allah will compensate him for what he will spend in Allah's way). So, We will make smooth for him the path of ease. But he who is a greedy miser....for him, the path for evil
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4945</td></tr><tr><td>Arabic No</td><td>4945</td></tr><tr><td>Reference</td><td>Book 65 Hadith 466</td></tr></tbody></table></div>
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu 'Abdur-Rahman:'Ali said, "We were sitting with the Prophet," (He then mentioned the Hadith above (469)
+Narrated Abu 'Abdur-Rahman:'Ali said, "We were sitting with the Prophet," (He then mentioned the Hadith above)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4945.2</td></tr><tr><td>Arabic No</td><td>4945.2</td></tr><tr><td>Reference</td><td>Book 65 Hadith 467</td></tr></tbody></table></div>
 
@@ -84,7 +84,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (ஒருநாள்) ஒரு ஜனாஸாவிற்காக நபி (ஸல்) அவர்களுடன் ‘பகீஉல் ஃகர்கத் (எனும் மதீனாவின் பொது மையவாடியி)ல்’இருந்துகொண்டிருந்தோம். அப்போது நபியவர்கள், ‘‘சொர்க்கத்திலுள்ள தமது இருப்பிடத்தையோ நரகத்திலுள்ள தமது இருப்பிடத்தையோ எழுதப்பட்டிராத எவரும் உங்களில் இல்லை” என்று சொன்னார்கள். உடனே மக்கள், ‘‘அல்லாஹ்வின் தூதரே! நாங்கள் (இதன் மீதே) நம்பிக்கை கொண்டு (நல்லறங்கள் ஏதும் செய்யாமல்) இருந்துவிடமாட்டோமா?” என்று கேட்டார்கள். அதற்கு நபி (ஸல்) அவர்கள், ‘‘நீங்கள் செயலாற்றுங்கள். (நல்லார், பொல்லார்) எல்லாருக்கும் (அவரவர் செல்லும் வழி) எளிதாக்கப்பட்டுள்ளது” என்று கூறினார்கள். பிறகு, ‘‘எவர் (இறைவழியில்) வழங்கி, (இறைவனை) அஞ்சி வாழ்ந்து, நல்லறங்களை மெய்ப்பிக்கிறாரோ அவருக்கு, நன்மைக்குரிய (சொர்க்கத் தின்) வழியை நாம் எளிதாக்குவோம். எவர் உலோபித்தனம் செய்து, (அல்லாஹ் வையும்) பொருட்படுத்தாது, (இம் மார்க்கத்திலுள்ள) நல்லறங்களையும் பொய்யாக்கிவிடுகின்றாரோ, அவருக் குக் கஷ்டத்திற்குரிய (நரகத்தின்) வழியைத்தான் நாம் எளிதாக்கி வைப்போம்” எனும் (92:5-10) இறை வசனங்களை ஓதிக்காட்டினார்கள்.4 அத்தியாயம் : 65
+அலீ (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (ஒருநாள்) ஒரு ஜனாஸாவிற்காக நபி (ஸல்) அவர்களுடன் ‘பகீஉல் ஃகர்கத் (எனும் மதீனாவின் பொது மையவாடியி)ல்’இருந்துகொண்டிருந்தோம். அப்போது நபியவர்கள், ‘‘சொர்க்கத்திலுள்ள தமது இருப்பிடத்தையோ நரகத்திலுள்ள தமது இருப்பிடத்தையோ எழுதப்பட்டிராத எவரும் உங்களில் இல்லை” என்று சொன்னார்கள். உடனே மக்கள், ‘‘அல்லாஹ்வின் தூதரே! நாங்கள் (இதன் மீதே) நம்பிக்கை கொண்டு (நல்லறங்கள் ஏதும் செய்யாமல்) இருந்துவிடமாட்டோமா?” என்று கேட்டார்கள். அதற்கு நபி (ஸல்) அவர்கள், ‘‘நீங்கள் செயலாற்றுங்கள். (நல்லார், பொல்லார்) எல்லாருக்கும் (அவரவர் செல்லும் வழி) எளிதாக்கப்பட்டுள்ளது” என்று கூறினார்கள். பிறகு, ‘‘எவர் (இறைவழியில்) வழங்கி, (இறைவனை) அஞ்சி வாழ்ந்து, நல்லறங்களை மெய்ப்பிக்கிறாரோ அவருக்கு, நன்மைக்குரிய (சொர்க்கத் தின்) வழியை நாம் எளிதாக்குவோம். எவர் உலோபித்தனம் செய்து, (அல்லாஹ் வையும்) பொருட்படுத்தாது, (இம் மார்க்கத்திலுள்ள) நல்லறங்களையும் பொய்யாக்கிவிடுகின்றாரோ, அவருக் குக் கஷ்டத்திற்குரிய (நரகத்தின்) வழியைத்தான் நாம் எளிதாக்கி வைப்போம்” எனும் (92:5-10) இறை வசனங்களை ஓதிக்காட்டினார்கள்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4945</td></tr><tr><td>Arabic No</td><td>4945</td></tr><tr><td>Reference</td><td>Book 65 Hadith 466</td></tr></tbody></table></div>
 

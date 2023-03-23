@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৮৫৩। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, লোকেরা আমীন বলা ত্যাগ করেছে। অথচ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গাইরিল মাগযূবি আলাইহিম ওয়ালায যআল্লীন বলার পর আমীন বলতেন, এমনকি প্রথম সারির লোকেরা তা শুনতে পেতো এবং এতে মসজিদে প্রতিধ্বনি হতো।
+। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, লোকেরা আমীন বলা ত্যাগ করেছে। অথচ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গাইরিল মাগযূবি আলাইহিম ওয়ালায যআল্লীন বলার পর আমীন বলতেন, এমনকি প্রথম সারির লোকেরা তা শুনতে পেতো এবং এতে মসজিদে প্রতিধ্বনি হতো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>853</td></tr><tr><td>Arabic No</td><td>853</td></tr><tr><td>Reference</td><td>Book 5 Hadith 51</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ২৩৮. যায়দ ইবন আসলাম (রহঃ) বর্ণনা করেন, এক ব্যক্তি উমর ইবন খাত্তাব (রাঃ)-এর নিকট আসিয়া বলিলঃ আমীরুল মু'মিনীন আমি ইহরাম অবস্থায় লাঠি দ্বারা কয়েকটি পঙ্গপাল মারিয়া ফেলিয়াছি। উমর (রাঃ) তখন বলিলেনঃ মুষ্টি পরিমাণ খাদ্য কাহাকেও দিয়া দাও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 20 Hadith 11</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনুল মুছান্না (রহঃ) ..... আবদুল্লাহ ইবন আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, ইয়া রাসূলাল্লাহ! আমি কুরআন কত দিনে খতম করব? তিনি বলেনঃ এক মাসে। আমি বলিঃ আমি এর চাইতে কম সময়ে খতম করতে সামর্থ রাখি। অতঃপর তাঁর সাথে আলাপ-আলোচনার পর তিনি এর পরিমাণ কমিয়ে সাত দিনে খতম করতে নির্দেশ দেন। আমি বলিঃ আমি এর চাইতেও কম সময়ে খতম করতে সক্ষম। তিনি বলেনঃ যে ব্যক্তি তিন দিনের কম সময়ে কুরআন খতম করেছে, সে (কুরআন) হৃদয়ঙ্গম করতে ব্যর্থ হয়েছে।
+। ‘আবদুল্লাহ ইবনু ‘আমর রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, হে আল্লাহর রসূল! আমি কয়দিনে কুরআন খতম করবো? তিনি বললেনঃ এক মাসে। তিনি বললেন, আমি এর চেয়ে অধিক শক্তি রাখি। আবূ মূসার বর্ণনায় রয়েছে অতঃপর আলোচনার মাধ্যমে সময়ের ব্যবধান কমিয়ে অবশেষে বললেন, সাত দিনে খতম করবে। তিনি বললেন, আমি এর চেয়েও বেশি শক্তি রাখি। তিনি বললেনঃ যে ব্যক্তি তিন দিনের কমে কুরআন খতম করে, সে কুরআনকে হৃদয়ঙ্গম করতে পারে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1390</td></tr><tr><td>Arabic No</td><td>1390</td></tr><tr><td>Reference</td><td>Book 6 Hadith 20</td></tr></tbody></table></div>
 

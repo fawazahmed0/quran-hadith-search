@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, দু’আর আদব (শিষ্টতা) হল, উভয় কাঁধ বা তার সম-পরিমাণ পর্যন্ত উত্তোলন করা এবং ইস্তেগফারের (গোনাহ মাফের জন্য দু’আ করার) আদব হল, দুআর সময় শাহাদাত আঙ্গুল দ্বারা ইশারা করা। ইবতিহালের (অর্থাৎ দু’আর সময় রোনাজারি, কান্নাকাটি করা) আদব হল-দুআর সময় উভয় হস্তকে এত উপরে উঠানো যাতে হাতের বগলের সাদা অংশ দৃষ্টিগোচর হয়।
+। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, তুমি উভয় হাতকে তোমার কাঁধ বরাবর বা অনুরূপ উঁচু করে দু‘আ করবে এবং ইস্তিগফারের সময় এক আঙ্গুল দ্বারা ইশারা করবে এবং দু‘আতে কাকুতি মিনতির সময় দু’ হাত প্রসারিত করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>1489</td></tr><tr><td>Reference</td><td>Book 8 Hadith 74</td></tr></tbody></table></div>
 

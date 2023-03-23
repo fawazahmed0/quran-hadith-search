@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহ.) হতে বর্ণিত। ‘আবদুল্লাহ্‌ ইব্‌নু ‘উমার (রাযি.) বিত্‌র সালাতের এক ও দু’ রাক‘আতের মাঝে সালাম ফিরাতেন (অর্থাৎ দুই রাকাত পড়ে সালাম ফেরাতেন অতঃপর আরো এক রাকাত পড়তেন)। অতঃপর কাউকে কোন প্রয়োজনীয় কাজের নির্দেশ দিতেন। (আধুনিক প্রকাশনীঃ ৯৩২ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৯৩৭ শেষাংশ)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহ.) হতে বর্ণিত। ‘আবদুল্লাহ্‌ ইব্‌নু ‘উমার (রাযি.) বিত্‌র সালাতের দু’ রাক‘আতের মাঝে সালাম ফিরাতেন। অতঃপর কাউকে কোন প্রয়োজনীয় কাজের নির্দেশ দিতেন। (আধুনিক প্রকাশনীঃ ৯৩২ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৯৩৭ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 14 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Nafi' told that 'Abdullah bin 'Umar used to say Taslim between (the first) two R
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள், வித்ர் தொழும்போது (மூன்று ரக்அத்களில் கடைசி) ஒரு ரக்அத்திற்கும் (முந்தைய) இரு ரக்அத்களுக்கும் இடையே ‘சலாம்’ கொடுப்பார்கள். (அந்த இடைவெளியில்) தம்முடைய சில தேவைகள் பற்றி (தம் ஊழியருக்கு)க் கட்டளையிடுவார்கள். அத்தியாயம் : 14
+நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள், வித்ர் தொழும்போது (மூன்று ரக்அத்களில் கடைசி) ஒரு ரக்அத்திற்கும் (முந்தைய) இரு ரக்அத்களுக்கும் இடையே ‘சலாம்’ கொடுப்பார்கள். (அந்த இடைவெளியில்) தம்முடைய சில தேவைகள் பற்றி (தம் ஊழியருக்கு)க் கட்டளையிடுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 14 Hadith 2</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... জাবির ইবন আবদুল্লাহ্‌ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কাউকে কিছু দেয়া হয়, আর সে তার বিনিময় দানে সক্ষম, তখন তার উচিত তার বিনিময় দেয়া। আর যদি তার বিনিময় দানের ক্ষমতা না থাকে, তখন তার উচিত দাতার প্রশংসা করা। আর যে ব্যক্তি দাতার প্রশংসা করে, সে যেন তার শোকর আদায় করলো। আর যে ব্যক্তি কারো অনুগ্রহকে গোপন রাখে, সে যেন তার না-শোকরী করলো।
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কাউকে কিছু দান করা হলে সে যেন সামর্থ্য থাকলে তার প্রতিদান দেয়। যদি সেই সামর্থ্য না থাকে তবে সে যেন তার প্রশংসা করে। সে তার প্রশংসা করলে তার প্রতি কৃতজ্ঞতা আদায় করলো। আর যে ব্যক্তি তা গোপন রাখলো সে অকৃতজ্ঞতা প্রকাশ করলো।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 43 Hadith 41</td></tr></tbody></table></div>
 

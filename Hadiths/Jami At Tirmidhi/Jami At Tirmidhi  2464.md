@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৪৬৪। ‘আবদুর রাহমান ইবনু আওফ (রাঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ -এর সঙ্গে আমাদেরকে বিপদাপদ দিয়ে পরীক্ষা করা হয়েছে। আমরা এতে ধৈর্য ধারণ করেছি। তাঁর মৃত্যুর পরে সুখ-স্বাচ্ছন্দ ও আরাম-আয়িশ দ্বারা আমাদেরকে পরীক্ষা করা হলে আমরা ধৈর্য ও সহনশীলতার স্বাক্ষর রাখতে পারিনি। সনদ সহীহ। আবূ ঈসা বলেন, এই হাদীসটি হাসান।
+। ‘আবদুর রাহমান ইবনু আওফ (রাঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ -এর সঙ্গে আমাদেরকে বিপদাপদ দিয়ে পরীক্ষা করা হয়েছে। আমরা এতে ধৈর্য ধারণ করেছি। তাঁর মৃত্যুর পরে সুখ-স্বাচ্ছন্দ ও আরাম-আয়িশ দ্বারা আমাদেরকে পরীক্ষা করা হলে আমরা ধৈর্য ও সহনশীলতার স্বাক্ষর রাখতে পারিনি। সনদ সহীহ। আবূ ঈসা বলেন, এই হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>2464</td></tr><tr><td>Reference</td><td>Book 37 Hadith 50</td></tr></tbody></table></div>
 

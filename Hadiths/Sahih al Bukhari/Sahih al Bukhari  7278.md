@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) ও যায়দ ইবনু খালিদ (রাঃ) হতে বর্ণিত। তাঁরা বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে উপস্থিত ছিলাম। (এ সময়) তিনি বললেনঃ আমি অবশ্য অবশ্যই মহান আল্লাহ্ তা‘আলার কিতাব অনুযায়ী তোমাদের মাঝে ফায়সালা করব। [২৩১৪, ২৩১৫] (আধুনিক প্রকাশনী- ৬৭৭০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7278</td></tr><tr><td>Arabic No</td><td>7278</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) மற்றும் ஸைத் பின் காலித் (ரலி) ஆகி யோர் கூறியதாவது: (ஒருமுறை) நபி (ஸல்) அவர்களிடம் நாங்கள் இருந்தோம். அப்போது (வழக் கைக் கொண்டுவந்த இருவரிடம்) “உங்கள் இருவருக்குமிடையே நான் அல்லாஹ்வின் சட்டப்படியே தீர்ப்பளிப்பேன்” என்று நபியவர்கள் சொன்னார்கள்.12 அத்தியாயம் : 96
+அபூஹுரைரா (ரலி) மற்றும் ஸைத் பின் காலித் (ரலி) ஆகி யோர் கூறியதாவது: (ஒருமுறை) நபி (ஸல்) அவர்களிடம் நாங்கள் இருந்தோம். அப்போது (வழக் கைக் கொண்டுவந்த இருவரிடம்) “உங்கள் இருவருக்குமிடையே நான் அல்லாஹ்வின் சட்டப்படியே தீர்ப்பளிப்பேன்” என்று நபியவர்கள் சொன்னார்கள்.12 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7278</td></tr><tr><td>Arabic No</td><td>7278</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

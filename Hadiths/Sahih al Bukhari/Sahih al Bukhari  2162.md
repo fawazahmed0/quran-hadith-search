@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, শহরে প্রবেশের পূর্বে বণিক দলের সঙ্গে সাক্ষাৎ করা এবং গ্রামবাসীর পক্ষে শহরবাসীর বিক্রি করা হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন। (২১৪০) (আধুনিক প্রকাশনীঃ ২০১৩, ইসলামিক ফাউন্ডেশনঃ ২০২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, শহরে প্রবেশের পূর্বে বণিক দলের সঙ্গে সাক্ষাৎ করা এবং গ্রামবাসীর পক্ষে শহরবাসীর বিক্রি করা হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন। (২১৪০) (আধুনিক প্রকাশনীঃ ২০১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2162</td></tr><tr><td>Arabic No</td><td>2162</td></tr><tr><td>Reference</td><td>Book 34 Hadith 113</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (வெளியிலிருந்து வரும்) வணிகர்களை எதிர்கொண்டு (வழியிலேயே சரக்குகளை) வாங்குவதையும் கிராமத்திலிருந்து (சரக்கு கொண்டு)வருபவருக்காக உள்ளூர்வாசி விற்றுக் கொடுப்பதையும் நபி (ஸல்) அவர்கள் தடுத்தார்கள். அத்தியாயம் : 34
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (வெளியிலிருந்து வரும்) வணிகர்களை எதிர்கொண்டு (வழியிலேயே சரக்குகளை) வாங்குவதையும் கிராமத்திலிருந்து (சரக்கு கொண்டு)வருபவருக்காக உள்ளூர்வாசி விற்றுக் கொடுப்பதையும் நபி (ஸல்) அவர்கள் தடுத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2162</td></tr><tr><td>Arabic No</td><td>2162</td></tr><tr><td>Reference</td><td>Book 34 Hadith 113</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুব্বা ও মুযাফফাত ব্যবহার করতে নিষেধ করেছেন। ‘উসমান (রহ.) বলেন, জারীর (রহ.) সূত্রে এরকমই বর্ণনা করেছেন। [মুসলিম ৩৬/৬, হাঃ ১৯৯৪, আহমাদ ৬৩৪] (আধুনিক প্রকাশনী- ৫১৮৪, ইসলামিক ফাউন্ডেশন- ৫০৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুব্বা ও মুযাফফাত ব্যবহার করতে নিষেধ করেছেন। ‘উসমান (রহ.) বলেন, জারীর (রহ.) সূত্রে এরকমই বর্ণনা করেছেন। [মুসলিম ৩৬/৬, হাঃ ১৯৯৪, আহমাদ ৬৩৪] (আধুনিক প্রকাশনী- ৫১৮৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5594</td></tr><tr><td>Arabic No</td><td>5594</td></tr><tr><td>Reference</td><td>Book 74 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சுரைக்காய் குடுவையையும் தார் பூசப்பட்ட பாத்திரத் தையும் பயன்படுத்த வேண்டாமெனத் தடை செய்தார்கள். இதே ஹதீஸ் மற்றோர் அறிவிப்பாளர் தொடர் வழியாகவும் அறிவிக்கப்பட் டுள்ளது. அத்தியாயம் : 74
+அலீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சுரைக்காய் குடுவையையும் தார் பூசப்பட்ட பாத்திரத் தையும் பயன்படுத்த வேண்டாமெனத் தடை செய்தார்கள். இதே ஹதீஸ் மற்றோர் அறிவிப்பாளர் தொடர் வழியாகவும் அறிவிக்கப்பட் டுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5594</td></tr><tr><td>Arabic No</td><td>5594</td></tr><tr><td>Reference</td><td>Book 74 Hadith 20</td></tr></tbody></table></div>
 

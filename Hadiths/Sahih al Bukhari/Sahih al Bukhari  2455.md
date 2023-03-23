@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবালাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমরা মাদ্বীনায় কিছু সংখ্যক ইরাকী লোকের সাথে ছিলাম। একবার আমরা দুর্ভিক্ষের কবলে পতিত হই, তখন ইবনু যুবাইর (রাঃ) আমাদেরকে খেজুর খেতে দিতেন। ইবনু উমার (রাঃ) আমাদের নিকট দিয়ে যেতেন এবং বলতেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কাউকে তার ভাইয়ের অনুমতি ব্যতীত এক সাথে দু’টো করে খেজুর খেতে নিষেধ করেছেন। (২৪৮৯, ২৪৯০, ৫৪৪৬) (আধুনিক প্রকাশনীঃ ২২৭৬, ইসলামিক ফাউন্ডেশনঃ ২২৯৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবালাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমরা মাদ্বীনায় কিছু সংখ্যক ইরাকী লোকের সাথে ছিলাম। একবার আমরা দুর্ভিক্ষের কবলে পতিত হই, তখন ইবনু যুবাইর (রাঃ) আমাদেরকে খেজুর খেতে দিতেন। ইবনু উমার (রাঃ) আমাদের নিকট দিয়ে যেতেন এবং বলতেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কাউকে তার ভাইয়ের অনুমতি ব্যতীত এক সাথে দু’টো করে খেজুর খেতে নিষেধ করেছেন। (২৪৮৯, ২৪৯০, ৫৪৪৬) (আধুনিক প্রকাশনীঃ ২২৭৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2455</td></tr><tr><td>Arabic No</td><td>2455</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafzh bin 'Umar] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜபலா பின் சுஹைம் (ரஹ்) அவர்கள் கூறியதாவது: நாங்கள் இராக்வாசிகள் சிலருடன் மதீனாவில் இருந்தோம். எங்களுக்குப் பஞ்சம் ஏற்பட்டது. ஆகவே, இப்னு ஸுபைர் (ரலி) அவர்கள் எங்களுக்குப் பேரீச்சம்பழங்களைக் கொடுத்துவந்தார் கள். (அதை நாங்கள் கூடி அமர்ந்து உண்ணும்போது) இப்னு உமர் (ரலி) அவர்கள் எங்களைக் கடந்து செல்வார்கள். அப்போது, ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், இரண்டு பேரீச்சம் பழங்களை ஒரே தடவையில் எடுத்து உண்பதைத் தடை செய்தார்கள்; உங்களில் (அப்படிச் சேர்த்து உண்ண விரும்பும்) அந்த மனிதர் தம் சகோதரரிடம் அனுமதி கேட்டுக்கொண்டால் தவிர” என்று கூறுவார்கள். அத்தியாயம் : 46
+ஜபலா பின் சுஹைம் (ரஹ்) அவர்கள் கூறியதாவது: நாங்கள் இராக்வாசிகள் சிலருடன் மதீனாவில் இருந்தோம். எங்களுக்குப் பஞ்சம் ஏற்பட்டது. ஆகவே, இப்னு ஸுபைர் (ரலி) அவர்கள் எங்களுக்குப் பேரீச்சம்பழங்களைக் கொடுத்துவந்தார் கள். (அதை நாங்கள் கூடி அமர்ந்து உண்ணும்போது) இப்னு உமர் (ரலி) அவர்கள் எங்களைக் கடந்து செல்வார்கள். அப்போது, ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், இரண்டு பேரீச்சம் பழங்களை ஒரே தடவையில் எடுத்து உண்பதைத் தடை செய்தார்கள்; உங்களில் (அப்படிச் சேர்த்து உண்ண விரும்பும்) அந்த மனிதர் தம் சகோதரரிடம் அனுமதி கேட்டுக்கொண்டால் தவிர” என்று கூறுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2455</td></tr><tr><td>Arabic No</td><td>2455</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hafzh bin 'Umar] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cebele'den rivayet edilmiştir: Bazı Iraklılarla birlikte Medine'deydik. Kıtlık oldu. Abdullah İbn Zübeyr bize kuru hurma veriyordu. Abdullah İbn Ömer de yoldan geçerken bize uğruyor ve "Allah Resulü, kişinin yanındakilerden izin istemeden, hurmaları ikişer ikişer yemeyi yasaklamıştır" diyordu. Tekrar: 2489, 2490, 5446
+Cebele'den rivayet edilmiştir: Bazı Iraklılarla birlikte Medine'deydik. Kıtlık oldu. Abdullah İbn Zübeyr bize kuru hurma veriyordu. Abdullah İbn Ömer de yoldan geçerken bize uğruyor ve "Allah Resulü, kişinin yanındakilerden izin istemeden, hurmaları ikişer ikişer yemeyi yasaklamıştır" diyordu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2455</td></tr><tr><td>Arabic No</td><td>2455</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবনু আবূ শায়বা ..... আবদুল্লাহ ইবনু মাসউদ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, গরমের সময় রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম যুহরের নামায- তিন হতে পাঁচ কদমের মধ্যের সময়ে এবং শীতকালে পাঁচ হতে সাত কদমের মধ্যবর্তী সময়ে আদায় করতেন। (নাসাঈ)।
+। আসওয়াদ সূত্রে বর্ণিত। ‘আব্দুল্লাহ ইবনু মাসউদ (রাঃ) বলেন, গ্রীষ্মকালে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর (যুহর) সালাত আদায়ের সময় ছিল (ছায়ার) তিন কদম হতে পাঁচ কদম পর্যন্ত। আর শীতকালে ছিল পাঁচ কদম হতে সাত কদম পর্যন্ত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
 

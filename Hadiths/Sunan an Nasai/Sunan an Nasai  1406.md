@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। মুহাম্মদ ইবনু সালামা (রহঃ) ... ইবরাহীম ইবনু নাশীত (রহঃ) থেকে বর্নিত যে, তিনি ইবনু শিহাব (রহঃ)-কে জুমু'আর দিনের গোসল করা সম্পর্কে জিজ্ঞাসা করলে তিনি বলেন, “তা হলো সূন্নাত”। আরও বলেন, আমার কাছে এ সম্পর্কে সালিম ইবনু আব্দুল্লাহ তার পিতা (আব্দুল্লাহ) (রাঃ) থেকে বর্ণনা করেছেন যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ সষ্পর্কে মিম্বরের উপর বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1406</td></tr><tr><td>Arabic No</td><td>1406</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
 

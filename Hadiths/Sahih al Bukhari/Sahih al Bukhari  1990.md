@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বনূ আযহারের আযাদকৃত গোলাম আবূ ‘উবাইদ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি একদা ঈদে ‘উমার ইবনুল খাত্তাব (রাঃ)-এর সাথে ছিলাম, তখন তিনি বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই দুই দিনে সওম পালন করতে নিষেধ করেছেন। (ঈদুল ফিত্রের দিন) যে দিন তোমরা তোমাদের সওম ছেড়ে দাও। আরেক দিন, যেদিন তোমরা তোমাদের কুরবানীর গোশত্ খাও। আবূ ‘আবদুল্লাহ (রহ.) বলেন, ইবনু ‘উয়ায়নাহ (রহ.) বলেন, যিনি ইবনু আযহারের মাওলা বলে উল্লেখ করেছেন, তিনি ঠিক বর্ণনা করেছেন; আর যিনি ‘আবদুর রহমান ইবনু ‘আওফ (রাঃ)-এর মাওলা বলেছেন, তিনিও ঠিক বর্ণনা করেছেন। (৫৫৭১, মুসলিম ১৩/২২, হাঃ ১১৩৭, আহমাদ ২২৪) (আধুনিক প্রকাশনীঃ ১৮৫১, ইসলামিক ফাউন্ডেশনঃ ১৮৬৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বনূ আযহারের আযাদকৃত গোলাম আবূ ‘উবাইদ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি একদা ঈদে ‘উমার ইবনুল খাত্তাব (রাঃ)-এর সাথে ছিলাম, তখন তিনি বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই দুই দিনে সওম পালন করতে নিষেধ করেছেন। (ঈদুল ফিত্রের দিন) যে দিন তোমরা তোমাদের সওম ছেড়ে দাও। আরেক দিন, যেদিন তোমরা তোমাদের কুরবানীর গোশত্ খাও। আবূ ‘আবদুল্লাহ (রহ.) বলেন, ইবনু ‘উয়ায়নাহ (রহ.) বলেন, যিনি ইবনু আযহারের মাওলা বলে উল্লেখ করেছেন, তিনি ঠিক বর্ণনা করেছেন; আর যিনি ‘আবদুর রহমান ইবনু ‘আওফ (রাঃ)-এর মাওলা বলেছেন, তিনিও ঠিক বর্ণনা করেছেন। (৫৫৭১, মুসলিম ১৩/২২, হাঃ ১১৩৭, আহমাদ ২২৪) (আধুনিক প্রকাশনীঃ ১৮৫১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 30 Hadith 97</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஉபைத் சஅத் பின் உபைத் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஒரு பெருநாளில் உமர் பின் அல்கத்தாப் (ரலி) அவர்களுடன் கலந்து கொண்டேன். அப்போது அவர்கள் (பின்வருமாறு) கூறினார்கள்: இவ்விரு நாட்களிலும் நோன்பு நோற்பதை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை செய்தார்கள். ஒன்று, உங்கள் நோன்பிலிருந்து நீங்கள் விடுபடும் நோன்புப் பெருநாள் (ஈதுல் ஃபித்ர்) ஆகும்; மற்றொன்று, உங்கள் குர்பானி பிராணிகளின் இறைச்சியை நீங்கள் உண் ணும் (ஹஜ்ஜு) பெருநாள் ஆகும். அபூஅப்தில்லாஹ் புகாரீ (ஆகிய நான்) கூறுகிறேன்: இதன் அறிவிப்பாளரான அபூஉபைத் (ரஹ்) அவர்கள், அப்துர் ரஹ்மான் பின் அஸ்ஹர் (ரலி) அவர்களின் முன்னாள் அடிமை என்றும், அப்துர் ரஹ்மான் பின் அவ்ஃப் (ரலி) அவர்களின் முன்னாள் அடிமை என்றும் (இரு விதமாகச்) சொல்வர். இரண்டும் சரிதான்லிஎன்று இப்னு உயைனா (ரஹ்) அவர்கள் கூறுகிறார்கள். (அபூஉபைத் அவர்களின் வாரிசுரிமை இவ்விருவருக்கும் இருந்ததே இதற்குக் காரணம்.) அத்தியாயம் : 30
+அபூஉபைத் சஅத் பின் உபைத் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஒரு பெருநாளில் உமர் பின் அல்கத்தாப் (ரலி) அவர்களுடன் கலந்து கொண்டேன். அப்போது அவர்கள் (பின்வருமாறு) கூறினார்கள்: இவ்விரு நாட்களிலும் நோன்பு நோற்பதை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை செய்தார்கள். ஒன்று, உங்கள் நோன்பிலிருந்து நீங்கள் விடுபடும் நோன்புப் பெருநாள் (ஈதுல் ஃபித்ர்) ஆகும்; மற்றொன்று, உங்கள் குர்பானி பிராணிகளின் இறைச்சியை நீங்கள் உண் ணும் (ஹஜ்ஜு) பெருநாள் ஆகும். அபூஅப்தில்லாஹ் புகாரீ (ஆகிய நான்) கூறுகிறேன்: இதன் அறிவிப்பாளரான அபூஉபைத் (ரஹ்) அவர்கள், அப்துர் ரஹ்மான் பின் அஸ்ஹர் (ரலி) அவர்களின் முன்னாள் அடிமை என்றும், அப்துர் ரஹ்மான் பின் அவ்ஃப் (ரலி) அவர்களின் முன்னாள் அடிமை என்றும் (இரு விதமாகச்) சொல்வர். இரண்டும் சரிதான்லிஎன்று இப்னு உயைனா (ரஹ்) அவர்கள் கூறுகிறார்கள். (அபூஉபைத் அவர்களின் வாரிசுரிமை இவ்விருவருக்கும் இருந்ததே இதற்குக் காரணம்.) அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 30 Hadith 97</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ezher'in azatlısı Ebu Ubeyd şöyle demiştir: Ömer İbn Hattab r.a. ile bir bayrama şahit oldum. O şöyle dedi: "Şu İki gün Resulullah Sallallahu Aleyhi ve Sellem'in oruç tutmayı yasakladığı günlerdir: Birisi orucunuzdan iftar ettiğiniz bayram günü, diğeri de kurbanınızdan yediğiniz gün". Tekrar: 5571
+İbn Ezher'in azatlısı Ebu Ubeyd şöyle demiştir: Ömer İbn Hattab r.a. ile bir bayrama şahit oldum. O şöyle dedi: "Şu İki gün Resulullah Sallallahu Aleyhi ve Sellem'in oruç tutmayı yasakladığı günlerdir: Birisi orucunuzdan iftar ettiğiniz bayram günü, diğeri de kurbanınızdan yediğiniz gün". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 30 Hadith 97</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনে মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ঘোড়ার কপালে কল্যাণ ও বরকত আছে। (২৮৫১) (আধুনিক প্রকাশনীঃ ৩৩৭৩, ইসলামিক ফাউন্ডেশনঃ ৩৩৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনে মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ঘোড়ার কপালে কল্যাণ ও বরকত আছে। (২৮৫১) (আধুনিক প্রকাশনীঃ ৩৩৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3645</td></tr><tr><td>Arabic No</td><td>3645</td></tr><tr><td>Reference</td><td>Book 61 Hadith 148</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Qais bin Hafsh] telah bercerita kepada kami [Khalid
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: குதிரைகளின் நெற்றிகளில் நன்மை பிணைக்கப்பட்டுள்ளது. இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.158 அத்தியாயம் : 61
+நபி (ஸல்) அவர்கள் கூறினார்கள்: குதிரைகளின் நெற்றிகளில் நன்மை பிணைக்கப்பட்டுள்ளது. இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.158 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3645</td></tr><tr><td>Arabic No</td><td>3645</td></tr><tr><td>Reference</td><td>Book 61 Hadith 148</td></tr></tbody></table></div>
 

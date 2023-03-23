@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুহায়র ইবন হারব ...... ইবন আব্বাস (রাঃ) হতে বর্ণিত। আকরা' ইবন হাবিস (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে জিজ্ঞস করেন, ইয়া রাসূলাল্লাহ্! হজ্জ কি প্রতি বছরই ফরয, নাকি জীবনে একবার? তিনি বলেন, বরং (জীবনে) একবার (হজ্জ করা ফরয)। এর অধিক যদি কেউ করে তবে তা তার জন্য অতিরিক্ত।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। আকরা‘ ইবনু হাবিস (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করলেন, হে আল্লাহর রাসূল! হজ (হজ্জ) প্রতি বছরই ফরয, নাকি মাত্র একবার? তিনি বললেন, জীবনে বরং একবারই, তবে কেউ অধিক করলে সেটা তার জন্য নফল।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1721</td></tr><tr><td>Arabic No</td><td>1721</td></tr><tr><td>Reference</td><td>Book 11 Hadith 1</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ঈসা ইবন ইউনুস (রহঃ) ... আমর ইবন শুআয়ব তাঁর পিতার মাধ্যমে তাঁর দাদা থেকে বর্ণনা করেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নারীর দিয়াত নরের দিয়াতের ন্যায়; যাবৎ না এক-তৃতীয়াংশ দিয়াত পর্যন্ত পৌঁছায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4805</td></tr><tr><td>Arabic No</td><td>4805</td></tr><tr><td>Reference</td><td>Book 45 Hadith 100</td></tr></tbody></table></div>
 

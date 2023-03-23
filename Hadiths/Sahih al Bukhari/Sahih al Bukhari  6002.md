@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি শিশুকে নিজের কোলে উঠিয়ে নিলেন। তারপর তাকে তাহনীক [1] করালেন। শিশুটি তাঁর কোলে প্রস্রাব করে দিল। তখন তিনি পানি আনতে বললেন এবং তা প্রস্রাবের জায়গায়) ঢেলে দিলেন। [২২২] (আধুনিক প্রকাশনী- ৫৫৬৭, ইসলামিক ফাউন্ডেশন- ৫৪৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি শিশুকে নিজের কোলে উঠিয়ে নিলেন। তারপর তাকে তাহনীক [1] করালেন। শিশুটি তাঁর কোলে প্রস্রাব করে দিল। তখন তিনি পানি আনতে বললেন এবং তা প্রস্রাবের জায়গায়) ঢেলে দিলেন। [২২২] (আধুনিক প্রকাশনী- ৫৫৬৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6002</td></tr><tr><td>Arabic No</td><td>6002</td></tr><tr><td>Reference</td><td>Book 78 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு சிறு குழந்தையைத் தமது மடியில் வைத்து இனிப்புப் பொருளை மென்று அதன் வாயிலிட்டுக்கொண்டிருந்தார்கள். அப்போது அவர்கள்மீது அந்தக் குழந்தை சிறுநீர் கழித்துவிட்டது. ஆகவே, அவர்கள் தண்ணீர் கொண்டுவரச்சொல்லி அதன்மீது ஊற்றச்செய்தார்கள்.26 அத்தியாயம் : 78
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு சிறு குழந்தையைத் தமது மடியில் வைத்து இனிப்புப் பொருளை மென்று அதன் வாயிலிட்டுக்கொண்டிருந்தார்கள். அப்போது அவர்கள்மீது அந்தக் குழந்தை சிறுநீர் கழித்துவிட்டது. ஆகவே, அவர்கள் தண்ணீர் கொண்டுவரச்சொல்லி அதன்மீது ஊற்றச்செய்தார்கள்.26 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6002</td></tr><tr><td>Arabic No</td><td>6002</td></tr><tr><td>Reference</td><td>Book 78 Hadith 33</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৩৪৮৪। আবূ কাবশা আল-আনমারী (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মাথার মাঝখানে এবং দু’ কাঁধের মাঝ বরাবর রক্তমোক্ষণ করাতেন এবং বলতেনঃ যে ব্যক্তি নিজ দেহের এ অংশ থেকে রক্তমোক্ষণ করাবে, সে তার কোন রোগের চিকিৎসা না করালেও তার কোন ক্ষতি হবে না।
+। আবূ কাবশা আল-আনমারী (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মাথার মাঝখানে এবং দু’ কাঁধের মাঝ বরাবর রক্তমোক্ষণ করাতেন এবং বলতেনঃ যে ব্যক্তি নিজ দেহের এ অংশ থেকে রক্তমোক্ষণ করাবে, সে তার কোন রোগের চিকিৎসা না করালেও তার কোন ক্ষতি হবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3484</td></tr><tr><td>Arabic No</td><td>3484</td></tr><tr><td>Reference</td><td>Book 31 Hadith 49</td></tr></tbody></table></div>
 

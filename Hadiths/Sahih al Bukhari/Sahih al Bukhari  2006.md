@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ‘আশূরার দিনের সওমের উপরে অন্য কোন দিনের সওমকে প্রাধান্য প্রদান করতে দেখিনি এবং এ মাস অর্থাৎ রমাযান মাস (এর উপর অন্য মাসের গুরুত্ব প্রদান করতেও দেখিনি)। (মুসলিম ১৩/১৯, হাঃ ১১৩২) (আধুনিক প্রকাশনীঃ ১৮৬৫, ইসলামিক ফাউন্ডেশনঃ ১৮৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ‘আশূরার দিনের সওমের উপরে অন্য কোন দিনের সওমকে প্রাধান্য প্রদান করতে দেখিনি এবং এ মাস অর্থাৎ রমাযান মাস (এর উপর অন্য মাসের গুরুত্ব প্রদান করতেও দেখিনি)। (মুসলিম ১৩/১৯, হাঃ ১১৩২) (আধুনিক প্রকাশনীঃ ১৮৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2006</td></tr><tr><td>Arabic No</td><td>2006</td></tr><tr><td>Reference</td><td>Book 30 Hadith 111</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Ibnu 'Uyainah] dari 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அஷூரா எனும் இந்த (முஹர்ரம் பத்தாம்) நாளையும் லிரமளான் எனும்லி இந்த மாதத்தையும் தவிர, வேறெதையும் ஏனையவற்றைவிடச் சிறப்பாகத் தேர்ந் தெடுத்து நபி (ஸல்) அவர்கள் நோன்பு நோற்பதை நான் பார்த்ததில்லை. அத்தியாயம் : 30
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அஷூரா எனும் இந்த (முஹர்ரம் பத்தாம்) நாளையும் லிரமளான் எனும்லி இந்த மாதத்தையும் தவிர, வேறெதையும் ஏனையவற்றைவிடச் சிறப்பாகத் தேர்ந் தெடுத்து நபி (ஸல்) அவர்கள் நோன்பு நோற்பதை நான் பார்த்ததில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2006</td></tr><tr><td>Arabic No</td><td>2006</td></tr><tr><td>Reference</td><td>Book 30 Hadith 111</td></tr></tbody></table></div>
 

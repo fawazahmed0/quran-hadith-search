@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০১৮, আন্তর্জাতিক নাম্বারঃ ৫০৬ ১০১৮-(.../...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... ইবনু উমার (রাযিঃ) হতে বর্ণিত। তিনি এ সূত্রেও উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ১০১২, ইসলামিক সেন্টারঃ ১০২৩)
+ইসহাক ইবনু ইবরাহীম (রহঃ) ..... ইবনু উমার (রাযিঃ) হতে বর্ণিত। তিনি এ সূত্রেও উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ১০১২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1131</td></tr><tr><td>Arabic No</td><td>506.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 293</td></tr></tbody></table></div>
 

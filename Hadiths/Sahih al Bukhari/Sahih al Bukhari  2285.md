@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+রাফি‘ ইবনু খাদীজ (রাঃ) রিওয়ায়েত করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শস্য ক্ষেত বর্গা দিতে নিষেধ করেছেন। উবায়দুল্লাহ (রহ.) নাফি‘-এর বরাত দিয়ে ইবনু ‘উমার (রাঃ) হতে (এটুকু অতিরিক্ত) বর্ণনা করেছেন যে, ‘উমার (রাঃ) কর্তৃক ইয়াহূদীদেরকে বিতাড়ণ করা পর্যন্ত (খায়বারের জমি তাদের নিকট ইজারাহ দেয়া হত)। (২৩৩২, ২৩৪৪, ২৭২২) (আধুনিক প্রকাশনীঃ ২১২৪, ইসলামিক ফাউন্ডেশনঃ ২১৪১ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2285</td></tr><tr><td>Arabic No</td><td>2285</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem, Hayber arazisini, ekip dikmeleri için, çıkacak mahsulün yarısı karşılığında onlara (kiraya) vermiştir Nafi' kira miktarını söylemişti, fakat ben aklımda tutamadım Tekrar. 2328. 2329, 2331, 2338, 2499, 2720, 3152, 4248
+Abdullah İbn Ömer r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem, Hayber arazisini, ekip dikmeleri için, çıkacak mahsulün yarısı karşılığında onlara (kiraya) vermiştir Nafi' kira miktarını söylemişti, fakat ben aklımda tutamadım Tekrar. 2328. 2329, 2331
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2285</td></tr><tr><td>Arabic No</td><td>2285</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

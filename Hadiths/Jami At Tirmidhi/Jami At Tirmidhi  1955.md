@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৯৫৫। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষের প্রতি যে লোক কৃতজ্ঞ নয় আল্লাহ্ তা'আলার প্রতিও সে কৃতজ্ঞ নয়। পূর্বের হাদীসের সহায়তায় হাদীসটি সহীহ, প্রাগুক্ত। আবূ হুরাইরা, আশআস ইবনু কাইস ও নুমান ইবনু বাশীর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষের প্রতি যে লোক কৃতজ্ঞ নয় আল্লাহ্ তা'আলার প্রতিও সে কৃতজ্ঞ নয়। পূর্বের হাদীসের সহায়তায় হাদীসটি সহীহ, প্রাগুক্ত। আবূ হুরাইরা, আশআস ইবনু কাইস ও নুমান ইবনু বাশীর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1955</td></tr><tr><td>Arabic No</td><td>1955</td></tr><tr><td>Reference</td><td>Book 27 Hadith 61</td></tr></tbody></table></div>
 

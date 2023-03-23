@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন উবায়দ ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, জনৈকা কুমারী (প্রাপ্ত বয়স্কয়া) মেয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমাতে উপস্থিত হয়ে অভিযোগ পেশ করে যে, তার পিতা তাকে এমন এক ব্যাক্তির সাথে বিবাহ দিয়েছে, যে তার অপছন্দ। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ ব্যাপারে তাকে ইখতিয়ার প্রদান করেন। (সে রাখতেও পারে অথবা বিচ্ছেদও ঘটাতে পারে।)
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এক যুবতী এসে বললো, তার অসম্মতিতে তার পিতা তাকে বিয়ে দিয়েছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে এখতিয়ার প্রদান করলেন (সে বিয়ে রাখতেও পারে অথবা বিচ্ছেদ ঘটাতেও পারে)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2096</td></tr><tr><td>Arabic No</td><td>2096</td></tr><tr><td>Reference</td><td>Book 12 Hadith 51</td></tr></tbody></table></div>
 

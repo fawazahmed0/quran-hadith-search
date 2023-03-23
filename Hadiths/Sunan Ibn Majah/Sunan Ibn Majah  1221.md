@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১২২১। আয়িশাহ্ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাত (নামায/নামাজ)রত অবস্থায় কারো বমি হলে, নাক দিয়ে রক্ত বের হলে, খাদ্য বা পানীয় পেট থেকে মুখে চলে এলে অথবা বীর্যরস নির্গত হলে, সে যেন বাইরে এসে উযূ (ওজু/অজু/অযু) করে, অতঃপর পূর্বোক্ত সালাতের অবশিষ্টাংশ পূর্ণ করে, উক্ত অবস্থায় যদি সে কথা না বলে থাকে।
+। আয়িশাহ্ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাত (নামায/নামাজ)রত অবস্থায় কারো বমি হলে, নাক দিয়ে রক্ত বের হলে, খাদ্য বা পানীয় পেট থেকে মুখে চলে এলে অথবা বীর্যরস নির্গত হলে, সে যেন বাইরে এসে উযূ (ওজু/অজু/অযু) করে, অতঃপর পূর্বোক্ত সালাতের অবশিষ্টাংশ পূর্ণ করে, উক্ত অবস্থায় যদি সে কথা না বলে থাকে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1221</td></tr><tr><td>Arabic No</td><td>1221</td></tr><tr><td>Reference</td><td>Book 5 Hadith 419</td></tr></tbody></table></div>
 

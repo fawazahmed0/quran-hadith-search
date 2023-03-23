@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ أَنَسٌ قَالَ الْعَبَّاسُ لِلنَّبِيِّ صلى الله عليه وسلم فَادَيْتُ نَفْسِي وَفَادَيْتُ عَقِيلاً وَكَانَ عَلِيٌّ لَهُ نَصِيبٌ فِي تِلْكَ الْغَنِيمَةِ الَّتِي أَصَابَ مِنْ أَخِيهِ عَقِيلٍ وَعَمِّهِ عَبَّاسٍ আনাস (রাঃ) বর্ণনা করেছেন, ‘আব্বাস (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলেছিলেন, আমি নিজের ও আকীলের মুক্তিপণ আদায় করছি। এদিকে আলী ইবনু আবী তালিব (রাঃ) তার ভাই আকীল ও চাচা আব্বাসের মুক্তিপণ বাবত প্রাপ্ত গনীমাতের অংশ পেয়েছিলেন। ২৫৩৭. আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, মদ্বীনার কিছু লোক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাছে অনুমতি প্রার্থনা করে বলল, আপনি অনুমতি দিলে আমরা আমাদের বোনের ছেলে ‘আব্বাসের মুক্তিপণ ছেড়ে দিব। কিন্তু তিনি বললেন, তোমরা তার (মুক্তিপণের) একটি দিরহামও ছাড়তে পার না। (৩০৪৮, ৪০১৮) (আধুনিক প্রকাশনীঃ ২৩৫৩, ইসলামিক ফাউন্ডেশনঃ ২৩৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ أَنَسٌ قَالَ الْعَبَّاسُ لِلنَّبِيِّ صلى الله عليه وسلم فَادَيْتُ نَفْسِي وَفَادَيْتُ عَقِيلاً وَكَانَ عَلِيٌّ لَهُ نَصِيبٌ فِي تِلْكَ الْغَنِيمَةِ الَّتِي أَصَابَ مِنْ أَخِيهِ عَقِيلٍ وَعَمِّهِ عَبَّاسٍ আনাস (রাঃ) বর্ণনা করেছেন, ‘আব্বাস (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলেছিলেন, আমি নিজের ও আকীলের মুক্তিপণ আদায় করছি। এদিকে আলী ইবনু আবী তালিব (রাঃ) তার ভাই আকীল ও চাচা আব্বাসের মুক্তিপণ বাবত প্রাপ্ত গনীমাতের অংশ পেয়েছিলেন। ২৫৩৭. আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, মদ্বীনার কিছু লোক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাছে অনুমতি প্রার্থনা করে বলল, আপনি অনুমতি দিলে আমরা আমাদের বোনের ছেলে ‘আব্বাসের মুক্তিপণ ছেড়ে দিব। কিন্তু তিনি বললেন, তোমরা তার (মুক্তিপণের) একটি দিরহামও ছাড়তে পার না। (৩০৪৮, ৪০১৮) (আধুনিক প্রকাশনীঃ ২৩৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 49 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il bin 'Abdullah] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அன்சாரிகளில் சிலர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், ‘‘எங்கள் சகோதரி மகன் அப்பாஸ் (ரலி) அவர்களி டமிருந்து பிணைத் தொகை பெறாமல் நாங்கள் (அவரை) விட்டுவிடுகிறோம்; நீங்கள் எங்களுக்கு அனுமதி கொடுங்கள்” என்று அனுமதி கோரினார்கள். நபி (ஸல்) அவர்கள், ‘‘அவரிடமிருந்து ஒரு திர்ஹமைக்கூட (வாங்காமல்) விட்டுவிடாதீர்கள்” என்று கூறினார்கள்.16 அத்தியாயம் : 49
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அன்சாரிகளில் சிலர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், ‘‘எங்கள் சகோதரி மகன் அப்பாஸ் (ரலி) அவர்களி டமிருந்து பிணைத் தொகை பெறாமல் நாங்கள் (அவரை) விட்டுவிடுகிறோம்; நீங்கள் எங்களுக்கு அனுமதி கொடுங்கள்” என்று அனுமதி கோரினார்கள். நபி (ஸல்) அவர்கள், ‘‘அவரிடமிருந்து ஒரு திர்ஹமைக்கூட (வாங்காமல்) விட்டுவிடாதீர்கள்” என்று கூறினார்கள்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 49 Hadith 21</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il bin 'Abdullah] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a.'den rivayet edilmiştir: Ensar'dan birkaç kişi Allah Resulü'nden izin isteyerek "İzin buyur da kız kardeşimizin oğlu Abbas'ın fidyesini almayalım" dediler. Nebi (Sallallahu Aleyhi ve Sellem): "Onda almadık bir dirhem bile bırakmayacaksınız" buyurdu. Tekrar: 3048, 4018
+Enes r.a.'den rivayet edilmiştir: Ensar'dan birkaç kişi Allah Resulü'nden izin isteyerek "İzin buyur da kız kardeşimizin oğlu Abbas'ın fidyesini almayalım" dediler. Nebi (Sallallahu Aleyhi ve Sellem): "Onda almadık bir dirhem bile bırakmayacaksınız" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 49 Hadith 21</td></tr></tbody></table></div>
 

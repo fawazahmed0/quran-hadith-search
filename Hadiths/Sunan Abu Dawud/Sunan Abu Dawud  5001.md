@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাফওয়ান ইবন সালিহ (রহঃ) ..... উছমান ইবন আবূ আতিকা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আওফ (রাঃ) এ কারণে এরূপ জিজ্ঞাসা করেন যে, তাঁবুটি ছিল খুবই ছোট।
+। উসমান ইবনু আবুল আতিকাহ বলেন, তাঁবুর পরিধি সংকীর্ণ হওয়ায় ‘আওফ (রাঃ) কৌতুক করে বলেছিলেন, আমার পুরো শরীরসহ প্রবেশ করবো?[1] সনদ যঈফ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>5001</td></tr><tr><td>Reference</td><td>Book 43 Hadith 229</td></tr></tbody></table></div>
 

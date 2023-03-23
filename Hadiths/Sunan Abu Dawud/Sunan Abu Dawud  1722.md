@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আন্ নুফায়লী ..... ইবন আবূ ওয়াকিদ আল-লায়সী থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসুলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বিদায় হজ্জের সময় তাঁর স্ত্রীদের বলতে শুনেছি, এ হজ্জের পর তোমরা আর হজ্জের জন্য ঘর হতে বের হবে না।
+। আবূ ওয়াকিদ আল-লাইসী (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বিদায় হজের (হজ্জের) দিন তাঁর স্ত্রীদেরকে বলতে শুনেছিঃ তোমাদের জন্য হজ (হজ্জ) এই একবারই। এরপর হজের (হজ্জের) জন্য আর বের হতে হবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1722</td></tr><tr><td>Arabic No</td><td>1722</td></tr><tr><td>Reference</td><td>Book 11 Hadith 2</td></tr></tbody></table></div>
 

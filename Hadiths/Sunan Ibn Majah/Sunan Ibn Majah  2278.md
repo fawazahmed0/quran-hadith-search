@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/২২৭৮। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অবশ্যই মানুষ এমন এক যুগের সম্মুখীন হবে যখন তাদের মধ্যে এমন একজনও পাওয়া যাবে না যে সূদখোর নয়। সে সূদ না খেলেও তার ধুলোবালি (মলিনতা) তাকে স্পর্শ করবে।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অবশ্যই মানুষ এমন এক যুগের সম্মুখীন হবে যখন তাদের মধ্যে এমন একজনও পাওয়া যাবে না যে সূদখোর নয়। সে সূদ না খেলেও তার ধুলোবালি (মলিনতা) তাকে স্পর্শ করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 12 Hadith 142</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে ‘আসরের সালাত আদায় করতাম। সালাতের পর লোকেরা ‘আমর ইবনু আওফ গোত্রের মহল্লায় গিয়ে তাদেরকে সালাত আদায় করা অবস্থায় পেতো।* (৫৫০, ৫৫১, ৭৩২৯) (আধুনিক প্রকাশনীঃ ৫১৫, ইসলামিক ফাউন্ডেশনঃ ৫২১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে ‘আসরের সালাত আদায় করতাম। সালাতের পর লোকেরা ‘আমর ইবনু আওফ গোত্রের মহল্লায় গিয়ে তাদেরকে সালাত আদায় করা অবস্থায় পেতো।* (৫৫০, ৫৫১, ৭৩২৯) (আধুনিক প্রকাশনীঃ ৫১৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>548</td></tr><tr><td>Arabic No</td><td>548</td></tr><tr><td>Reference</td><td>Book 9 Hadith 25</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ishaq
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அஸ்ர் தொழுகையைத் தொழுதுவிட்டு (மதீனாவுக்கு அருகிலுள்ள ‘குபா’ பகுதியில் வசிக்கும்) பனூ அம்ர் பின் அவ்ஃப் குலத்தாரிடம் எங்களில் சிலர் சென்றால், அக்குலத்தார் அஸ்ர் தொழுதுகொண்டிருப்பதைக் காண்போம். அத்தியாயம் : 9
+அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அஸ்ர் தொழுகையைத் தொழுதுவிட்டு (மதீனாவுக்கு அருகிலுள்ள ‘குபா’ பகுதியில் வசிக்கும்) பனூ அம்ர் பின் அவ்ஃப் குலத்தாரிடம் எங்களில் சிலர் சென்றால், அக்குலத்தார் அஸ்ர் தொழுதுகொண்டிருப்பதைக் காண்போம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>548</td></tr><tr><td>Arabic No</td><td>548</td></tr><tr><td>Reference</td><td>Book 9 Hadith 25</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ishaq
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Mâlik'ten şöyle nakledilmiştir: "Biz İkindi namazını kılardık. Biri Amr İbn Avf oğullarının bulunduğu bölgeye gittiği zaman onların ikindi namazını kıldığını görürdü. Tekrar: 550, 551, 7229
+Enes İbn Mâlik'ten şöyle nakledilmiştir: "Biz İkindi namazını kılardık. Biri Amr İbn Avf oğullarının bulunduğu bölgeye gittiği zaman onların ikindi namazını kıldığını görürdü. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>548</td></tr><tr><td>Arabic No</td><td>548</td></tr><tr><td>Reference</td><td>Book 9 Hadith 25</td></tr></tbody></table></div>
 

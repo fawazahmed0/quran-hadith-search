@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪০২৩, আন্তর্জাতিক নাম্বারঃ ১৬০৯ ৪০২৩-(.../...) যুহায়র ইবনু হারব, আবূ তাহির, হারমালাহ ইবনু ইয়াহইয়া ও আবদ ইবনু হুমায়দ (রহঃ) .... যুহরী (রহঃ) সূত্রে এ সানাদে হুবহু হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৯৮৬, ইসলামিক সেন্টার ৩৯৮৫)
+যুহায়র ইবনু হারব, আবূ তাহির, হারমালাহ ইবনু ইয়াহইয়া ও আবদ ইবনু হুমায়দ (রহঃ) .... যুহরী (রহঃ) সূত্রে এ সানাদে হুবহু হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৯৮৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4131</td></tr><tr><td>Arabic No</td><td>1609.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 170</td></tr></tbody></table></div>
 

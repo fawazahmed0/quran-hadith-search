@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ .... আবদুল্লাহ্ ইবনু মাসউদ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাকে জ্বীনদের নিকট আগমনের রাতে বলেছিলেনঃ তোমার পাত্রের মধ্যে কি আছে? জবাবে তিনি বলেন নবীয। এতদশ্রবণে তিনি বলেনঃ খেজুর পবিত্র এবং পানি পাক। (তিরমিযী, ইবনু মাজাহ)।
+। ‘আব্দুল্লাহ ইবনু মাসউদ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জ্বীন আগমনের রাতে তাকে জিজ্ঞেস করেছিলেন, তোমার পাত্রে কি আছে? তিনি বলেন, নবীয। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, খেজুর পবিত্র আর পানি পবিত্রকারী। শারীক (রহঃ) বলেন, হান্নাদ ‘‘জ্বীন আগমনের রাত’’ কথাটি উল্লেখ করেননি।[1] দুর্বল : মিশকাত ৪৮০।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Arabic No</td><td>84</td></tr><tr><td>Reference</td><td>Book 1 Hadith 84</td></tr></tbody></table></div>
 

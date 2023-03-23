@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন যায়দ ইবন আবূ যারকা ..... মাকহুল (রহঃ) সাহল (রাঃ) থেকে বর্ণিত হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন। রাবী বলেন, মাকহুল বলতেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পরে এরূপ বিবাহ (মাহর ব্যতীত) আর বৈধ নয়।
+। মাকহুল (রহ.) সূত্রে সাহল (রাযি.) বর্ণিত হাদীসের অনুরূপ বর্ণিত হয়েছে। মাকহুল (রহ.) বলতেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পরে কারো জন্য মোহর ছাড়া বিয়ে জায়েয নয়।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2113</td></tr><tr><td>Arabic No</td><td>2113</td></tr><tr><td>Reference</td><td>Book 12 Hadith 68</td></tr></tbody></table></div>
 

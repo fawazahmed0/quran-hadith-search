@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৯৯৩, আন্তর্জাতিক নাম্বারঃ ১৯৬৯ ৪৯৯৩-(.../...) যুহায়র ইবনু হারব, হাসান হুলওয়ানী ও আবদ ইবনু হুমায়দ, যুহরী (রহঃ) হতে উক্ত সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৯৩৮, ইসলামিক সেন্টার ৪৯৪৩)
+যুহায়র ইবনু হারব, হাসান হুলওয়ানী ও আবদ ইবনু হুমায়দ, যুহরী (রহঃ) হতে উক্ত সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৯৩৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5099</td></tr><tr><td>Arabic No</td><td>1969.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 36</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবনু আবূ শায়বা ..... আব্দুল জব্বার ইবনু ওয়ায়েল থেকে তাঁর পিতার সূত্রে বর্ণিত। তাঁর পিতা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নামাযে দন্ডায়মান হয়ে স্বীয় হস্তদ্বয় কাঁধ পর্যন্ত এবং বৃদ্ধাগুলিদ্বয় কান পর্যন্ত উঠিয়ে তাকবীর বলতে দেখেছেন।
+। ‘আবদুল জাববার ইবনু ওয়ায়িল থেকে তাঁর পিতার সূত্রে বর্ণিত। তাঁর পিতা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সালাতে দাঁড়িয়ে স্বীয় দু’ হাত কাঁধ পর্যন্ত এবং বৃদ্ধাঙ্গুলিদ্বয় কর্ণদ্বয় পর্যন্ত উঠিয়ে তাকবীর বলতে দেখেছেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>724</td></tr><tr><td>Arabic No</td><td>724</td></tr><tr><td>Reference</td><td>Book 2 Hadith 334</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdulcebbar b. Vail'in babasından rivayet ettiğine göre (babası Vail) Nebi (Sallallahu aleyhi ve Sellem)'in namaza kalkınca ellerini omuz hizasına, baş parmaklarını da kulak hizasına kadar kaldırıp sonra tekbir aldığını görmüştür. Diğer tahric: Tirmizî, salat, Tefsiru sure; Nesaî, iftitah; İbn Mace, ikame, cenaiz; Ahmed b. Hanbel,-1, 45; 111-13; IV, 48; VI, 13
+Abdulcebbar b. Vail'in babasından rivayet ettiğine göre (babası Vail) Nebi (Sallallahu aleyhi ve Sellem)'in namaza kalkınca ellerini omuz hizasına, baş parmaklarını da kulak hizasına kadar kaldırıp sonra tekbir aldığını görmüştür. Diğer tahric: Tirmizî, salat, Tefsiru sure; Nesaî, iftitah; İbn Mace, ikame, cenaiz; Ahmed b. Hanbel,-1, 45; 111-13; IV, 48; VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>724</td></tr><tr><td>Arabic No</td><td>724</td></tr><tr><td>Reference</td><td>Book 2 Hadith 334</td></tr></tbody></table></div>
 

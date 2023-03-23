@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ذَكَرَهُ أَبُو بَكْرٍ وَأَبُو ذَرٍّ وَأَبُو هُرَيْرَةَ عَنْ النَّبِيِّ صلى الله عليه وسلم আবূ বাকর, আবূ যার ও আবূ হুরাইরাহ্ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এ বিষয়ে হাদীস বর্ণনা করেন। ১৪৫২. আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত, জনৈক বেদুঈন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট হিজরাত সম্পর্কে জিজ্ঞেস করলে তিনি বললেনঃ তোমার তো বড় সাহস! হিজরতের ব্যাপার কঠিন, বরং যাকাত দেয়ার মত তোমার কোন উট আছে কি? সে বলল, জী হ্যাঁ, আছে। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সাগরের ওপারে হলেও (যেখানেই থাক) তুমি ‘আমল করবে। তোমার ন্যূনতম ‘আমলও আল্লাহ বিনষ্ট করবেন না। (২৬৩৩, ২৯২৩, ৬১৬৫, মুসলিম ৩৩/২০, হাঃ ১৮৬৫, আহমাদ ১১১০৮) (আধুনিক প্রকাশনীঃ ১৩৫৯, ইসলামিক ফাউন্ডেশনঃ ১৩৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ذَكَرَهُ أَبُو بَكْرٍ وَأَبُو ذَرٍّ وَأَبُو هُرَيْرَةَ عَنْ النَّبِيِّ صلى الله عليه وسلم আবূ বাকর, আবূ যার ও আবূ হুরাইরাহ্ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এ বিষয়ে হাদীস বর্ণনা করেন। ১৪৫২. আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত, জনৈক বেদুঈন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট হিজরাত সম্পর্কে জিজ্ঞেস করলে তিনি বললেনঃ তোমার তো বড় সাহস! হিজরতের ব্যাপার কঠিন, বরং যাকাত দেয়ার মত তোমার কোন উট আছে কি? সে বলল, জী হ্যাঁ, আছে। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সাগরের ওপারে হলেও (যেখানেই থাক) তুমি ‘আমল করবে। তোমার ন্যূনতম ‘আমলও আল্লাহ বিনষ্ট করবেন না। (২৬৩৩, ২৯২৩, ৬১৬৫, মুসলিম ৩৩/২০, হাঃ ১৮৬৫, আহমাদ ১১১০৮) (আধুনিক প্রকাশনীঃ ১৩৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1452</td></tr><tr><td>Arabic No</td><td>1452</td></tr><tr><td>Reference</td><td>Book 24 Hadith 55</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Sa'id Al-Khudri:A Bedouin asked Allah's Messenger (ﷺ) about the emigration. The Prophet (p.b.u.h) said, "May Allah have mercy on you! The matter of emigration is very hard. Have you got camels? Do you pay their Zakat?" The Bedouin said, "Yes, I have camels and I pay their Zakat." The Prophet (ﷺ) said, Work beyond the seas and Allah will not decrease (waste) any of your good deeds." (See Hadith No. 260 Vol. 5)
+Narrated Abu Sa'id Al-Khudri:A Bedouin asked Allah's Messenger (ﷺ) about the emigration. The Prophet (p.b.u.h) said, "May Allah have mercy on you! The matter of emigration is very hard. Have you got camels? Do you pay their Zakat?" The Bedouin said, "Yes, I have camels and I pay their Zakat." The Prophet (ﷺ) said, Work beyond the seas and Allah will not decrease (waste) any of your good deeds." (See Hadith No. 260 Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1452</td></tr><tr><td>Arabic No</td><td>1452</td></tr><tr><td>Reference</td><td>Book 24 Hadith 55</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: ஒரு கிராமவாசி அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் புலம்பெயர்தல் (ஹிஜ்ரத்) தொடர்பாகக் கேட்டார். அதற்கு அவர்கள், “உமக்குக் கேடுதான்” (எனச் செல்லமாகக் கூறிவிட்டு) “நிச்சயமாக அதன் நிலை மிகவும் கடினமானது. உம்மிடம் ஒட்டகங்கள் இருக்கின்றனவா? அவற்றுக்கு ஸகாத் கொடுத்துவருகிறீரா?” எனக் கேட்டார்கள். அவர், ‘ஆம்’ என்றதும் அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள், “நீர் கடல் கடந்து (பல ஊர்களுக்கப்பால்) சென்றுகூட நன்மை செய்வீராக! நிச்சயமாக அல்லாஹ் உம்முடைய (நற்)செயல்(களின் நன்மை) களிலிருந்து எதையும் குறைத்துவிட மாட்டான் “ எனக் கூறினார்கள்.14 அத்தியாயம் : 24
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: ஒரு கிராமவாசி அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் புலம்பெயர்தல் (ஹிஜ்ரத்) தொடர்பாகக் கேட்டார். அதற்கு அவர்கள், “உமக்குக் கேடுதான்” (எனச் செல்லமாகக் கூறிவிட்டு) “நிச்சயமாக அதன் நிலை மிகவும் கடினமானது. உம்மிடம் ஒட்டகங்கள் இருக்கின்றனவா? அவற்றுக்கு ஸகாத் கொடுத்துவருகிறீரா?” எனக் கேட்டார்கள். அவர், ‘ஆம்’ என்றதும் அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள், “நீர் கடல் கடந்து (பல ஊர்களுக்கப்பால்) சென்றுகூட நன்மை செய்வீராக! நிச்சயமாக அல்லாஹ் உம்முடைய (நற்)செயல்(களின் நன்மை) களிலிருந்து எதையும் குறைத்துவிட மாட்டான் “ எனக் கூறினார்கள்.14 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1452</td></tr><tr><td>Arabic No</td><td>1452</td></tr><tr><td>Reference</td><td>Book 24 Hadith 55</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Saîd el-Hudrî şöyle anlatır: Bir bedevi gelerek hicret etme konusunda Resulullah Sallallahu Aleyhi ve Sellem'e danıştı. Nebi Sallallahu Aleyhi ve Sellem ona, "Sana yazık olur. Çünkü hicret çok zor ve meşakkatli bir iştir. Sadakasını vereceğin deven var mı?" buyurdu. Bedevi: "Evet" dedi. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, "Denizler ardında bile olsan çalış. Çünkü Allah yaptığın hiçbir iyiliği mükafatsız bırakmaz" buyurdu. Tekrarı: 2633, 3923, 6165
+Ebu Saîd el-Hudrî şöyle anlatır: Bir bedevi gelerek hicret etme konusunda Resulullah Sallallahu Aleyhi ve Sellem'e danıştı. Nebi Sallallahu Aleyhi ve Sellem ona, "Sana yazık olur. Çünkü hicret çok zor ve meşakkatli bir iştir. Sadakasını vereceğin deven var mı?" buyurdu. Bedevi: "Evet" dedi. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, "Denizler ardında bile olsan çalış. Çünkü Allah yaptığın hiçbir iyiliği mükafatsız bırakmaz" buyurdu. Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1452</td></tr><tr><td>Arabic No</td><td>1452</td></tr><tr><td>Reference</td><td>Book 24 Hadith 55</td></tr></tbody></table></div>
 

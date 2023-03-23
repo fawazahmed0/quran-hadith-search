@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯৫৫। আসিম ইবনু আদী (রাঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উটের রাখালদের (মিনায়) রাত্রি যাপন না করার এবং কুরবানীর দিন কংকর মেরে পরবর্তী দুইদিনের কংকর কোন একদিন একত্রে মারার অনুমতি তার বর্ণনায় বলেছেন, দুই দিনের কংকর প্রথম দিন একত্রে এবং মিনা হতে যাত্রার শেষদিন কংকর মারবে। — সহীহ, ইবনু মা-জাহ (৩০৩৭) এই হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। এই হাদীসটি অপেক্ষা অনেক বেশি সহীহ।
+। আসিম ইবনু আদী (রাঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উটের রাখালদের (মিনায়) রাত্রি যাপন না করার এবং কুরবানীর দিন কংকর মেরে পরবর্তী দুইদিনের কংকর কোন একদিন একত্রে মারার অনুমতি তার বর্ণনায় বলেছেন, দুই দিনের কংকর প্রথম দিন একত্রে এবং মিনা হতে যাত্রার শেষদিন কংকর মারবে। — সহীহ, ইবনু মা-জাহ (৩০৩৭) এই হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। এই হাদীসটি অপেক্ষা অনেক বেশি সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>955</td></tr><tr><td>Arabic No</td><td>955</td></tr><tr><td>Reference</td><td>Book 9 Hadith 149</td></tr></tbody></table></div>
 

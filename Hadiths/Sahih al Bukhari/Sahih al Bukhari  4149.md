@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ক্বাতাদাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, হুদাইবিয়াহর যুদ্ধের বছর আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে রওয়ানা করেছিলাম। তখন তাঁর সাহাবীগণ ইহরাম বেঁধেছিলেন কিন্তু আমি ইহরাম বাঁধিনি। [১৮২১] (আধুনিক প্রকাশনীঃ ৩৮৩৭, ইসলামিক ফাউন্ডেশনঃ ৩৮৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ক্বাতাদাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, হুদাইবিয়াহর যুদ্ধের বছর আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে রওয়ানা করেছিলাম। তখন তাঁর সাহাবীগণ ইহরাম বেঁধেছিলেন কিন্তু আমি ইহরাম বাঁধিনি। [১৮২১] (আধুনিক প্রকাশনীঃ ৩৮৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4149</td></tr><tr><td>Arabic No</td><td>4149</td></tr><tr><td>Reference</td><td>Book 64 Hadith 193</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin Ar Rabi'] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூகத்தாதா (ரலி) அவர்கள் கூறியதாவது: ஹுதைபியா ஆண்டில் நாங்கள் நபி (ஸல்) அவர்களுடன் சென்றோம். அப்போது நபி (ஸல்) அவர்களின் தோழர்கள் “இஹ்ராம்' கட்டியிருந்தார்கள். நான் (மட்டும்) இஹ்ராம் கட்டவில்லை.225 அத்தியாயம் : 64
+அபூகத்தாதா (ரலி) அவர்கள் கூறியதாவது: ஹுதைபியா ஆண்டில் நாங்கள் நபி (ஸல்) அவர்களுடன் சென்றோம். அப்போது நபி (ஸல்) அவர்களின் தோழர்கள் “இஹ்ராம்' கட்டியிருந்தார்கள். நான் (மட்டும்) இஹ்ராம் கட்டவில்லை.225 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4149</td></tr><tr><td>Arabic No</td><td>4149</td></tr><tr><td>Reference</td><td>Book 64 Hadith 193</td></tr></tbody></table></div>
 

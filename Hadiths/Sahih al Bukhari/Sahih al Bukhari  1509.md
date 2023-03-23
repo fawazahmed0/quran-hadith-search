@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(আবদুল্লাহ) ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকদেরকে ঈদের সালাতের উদ্দেশে বের হওয়ার পূর্বেই[1] সদাকাতুল ফিত্র আদায় করার নির্দেশ দেন। (১৫০৩) (আধুনিক প্রকাশনীঃ ১৪১২, ইসলামিক ফাউন্ডেশনঃ ১৪১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(আবদুল্লাহ) ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকদেরকে ঈদের সালাতের উদ্দেশে বের হওয়ার পূর্বেই[1] সদাকাতুল ফিত্র আদায় করার নির্দেশ দেন। (১৫০৩) (আধুনিক প্রকাশনীঃ ১৪১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1509</td></tr><tr><td>Arabic No</td><td>1509</td></tr><tr><td>Reference</td><td>Book 24 Hadith 109</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Hafsh bin 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நோன்புப் பெருநாள் தர்மத்தை மக்கள் தொழுகைக்காகப் புறப்படுவதற்கு முன் னால் கொடுத்துவிடும்படி நபி (ஸல்) அவர்கள் கட்டளையிட்டார்கள். அத்தியாயம் : 24
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நோன்புப் பெருநாள் தர்மத்தை மக்கள் தொழுகைக்காகப் புறப்படுவதற்கு முன் னால் கொடுத்துவிடும்படி நபி (ஸல்) அவர்கள் கட்டளையிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1509</td></tr><tr><td>Arabic No</td><td>1509</td></tr><tr><td>Reference</td><td>Book 24 Hadith 109</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আ‘লা (রহঃ) .... মিসওয়ার ইবন মাখরামা ও মারওয়ান ইবন হাকাম (রাঃ) থেকে বর্ণিত। তারা বলেনঃ কুরাইশরা এ কথার উপর সন্ধি করেছিল যে, দশ বছর পর্যন্ত যুদ্ধ বন্ধ থাকবে, এ সময় মানুষেরা সুখে-শান্তিতে থাকবে, আমাদের পরস্পরের মাঝে পবিত্রতা বজায় থাকবে। আর এ সময় প্রত্যক্ষ ও পরোক্ষভাবে কোন চুরি-ডাকাতি হবে না।
+। আল-মিসওয়ার ইবনু মাখরামাহ (রাঃ) ও মারওয়ান ইবনুল হাকাম সূত্রে বর্ণিত। কুরাইশরা দশ বছর পর্যন্ত যুদ্ধ বন্ধ রাখার সন্ধি করলো। এ সময়ে লোকজন নিরাপদে থাকবে; আমাদের পরস্পরের মাঝে কোনো কুটিলতা থাকবে না; গোপন ষড়যন্ত্র করবে না এবং কোনো পক্ষই বিশ্বাসঘাতকতা করবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2766</td></tr><tr><td>Arabic No</td><td>2766</td></tr><tr><td>Reference</td><td>Book 15 Hadith 290</td></tr></tbody></table></div>
 

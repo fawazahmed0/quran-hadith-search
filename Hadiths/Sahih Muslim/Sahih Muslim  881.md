@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৬৭, আন্তর্জাতিক নাম্বারঃ ৩৯৫ ৭৬৭-(৪১/...) আহমাদ ইবনু জা'ফার আল মাফিরী (রহঃ) ... আবূ হুরাইরাহ (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কোন সালাত আদায় করল, কিন্তু তাতে ফাতিহাতুল কিতাব (সূরাহ ফা-তিহাহ্‌) পাঠ করল না- তার এ সালাত ত্রুটিপূর্ণ ও অসম্পূর্ণ। এ কথাটি তিনি তিনবার বলেছেন। তাদের হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশনঃ ৭৬৪, ইসলামিক সেন্টারঃ ৭৭৬)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>881</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

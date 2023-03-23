@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪৯, আন্তর্জাতিক নাম্বারঃ ২৩৭ ৪৪৯-(২১/...) মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... হাম্মাম ইবনু মুনব্বিহ (রহঃ) বলেনঃ এগুলো আবূ হুরাইরাহ (রাযিঃ) আমাদের কাছে মুহাম্মাদুর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। এরপর তিনি কয়েকটি হাদীস উল্লেখ করেন। তন্মধ্যে এও ছিল যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা যখন ওযু করবে তখন উভয় নাকের ছিদ্রে পানি টেনে নিবে, এরপর ঝেড়ে ফেলবে। (ইসলামিক ফাউন্ডেশনঃ ৪৫২, ইসলামিক সেন্টারঃ ৪৬৮)
+মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... হাম্মাম ইবনু মুনব্বিহ (রহঃ) বলেনঃ এগুলো আবূ হুরাইরাহ (রাযিঃ) আমাদের কাছে মুহাম্মাদুর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। এরপর তিনি কয়েকটি হাদীস উল্লেখ করেন। তন্মধ্যে এও ছিল যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা যখন ওযু করবে তখন উভয় নাকের ছিদ্রে পানি টেনে নিবে, এরপর ঝেড়ে ফেলবে। (ইসলামিক ফাউন্ডেশনঃ ৪৫২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>561</td></tr><tr><td>Arabic No</td><td>237.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 28</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Muhammed b. Rafi' rivayet etti. (Dedi ki) : Bize Abdurrazzak b. Hemmam rivayet etti. (Dedi ki) : Bize Ma'mer, Hemmam b. Münebbih'den naklen haber verdi. Hemmam b. Münebbih dedi ki: Bu Ebu Hureyre'nin Resulullah (Sallallahu aleyhi ve Sellem)'den bize tahdis ettiğidir deyip, pek çok hadis-i şerif zikretti. Bunlardan biri de şudur: Yine Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Sizden bir kimse abdest alırsa her iki burun deliğine su çektikten sonra onu çıkarsın. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 14743
+Bana Muhammed b. Rafi' rivayet etti. (Dedi ki) : Bize Abdurrazzak b. Hemmam rivayet etti. (Dedi ki) : Bize Ma'mer, Hemmam b. Münebbih'den naklen haber verdi. Hemmam b. Münebbih dedi ki: Bu Ebu Hureyre'nin Resulullah (Sallallahu aleyhi ve Sellem)'den bize tahdis ettiğidir deyip, pek çok hadis-i şerif zikretti. Bunlardan biri de şudur: Yine Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Sizden bir kimse abdest alırsa her iki burun deliğine su çektikten sonra onu çıkarsın. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>561</td></tr><tr><td>Arabic No</td><td>237.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 28</td></tr></tbody></table></div>
 

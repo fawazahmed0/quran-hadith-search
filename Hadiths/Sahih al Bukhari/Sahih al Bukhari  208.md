@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উমাইয়াহ (রাযি.) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে একটি বকরীর কাঁধের গোশ্ত কেটে খেতে দেখলেন। এ সময় সালাতের জন্য আহবান হল। তিনি ছুরিটি ফেলে দিলেন, অতঃপর সালাত আদায় করলেন; কিন্তু উযূ করলেন না। (৬৭৫, ২৯২৩, ৫৪০৮, ৫৪২২, ৫৪৬২; মুসলিম ৩/২৪, হাঃ ৩৫৫, আহমাদ ১৭২৫০) (আধুনিক প্রকাশনীঃ ২০২, ইসলামিক ফাউন্ডেশনঃ ২০৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উমাইয়াহ (রাযি.) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে একটি বকরীর কাঁধের গোশ্ত কেটে খেতে দেখলেন। এ সময় সালাতের জন্য আহবান হল। তিনি ছুরিটি ফেলে দিলেন, অতঃপর সালাত আদায় করলেন; কিন্তু উযূ করলেন না। (৬৭৫, ২৯২৩, ৫৪০৮, ৫৪২২, ৫৪৬২; মুসলিম ৩/২৪, হাঃ ৩৫৫, আহমাদ ১৭২৫০) (আধুনিক প্রকাশনীঃ ২০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>208</td></tr><tr><td>Arabic No</td><td>208</td></tr><tr><td>Reference</td><td>Book 4 Hadith 74</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் உமய்யா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (சமைக்கப்பட்ட) ஆட்டின் சப்பை ஒன்றிலிருந்து (இறைச்சியை) வெட்டி(ச் சாப்பிட்டு)க்கொண்டிருந்ததை நான் பார்த்தேன். அப்போது தொழுகைக்காக அவர்கள் அழைக்கப்பட்டார்கள். உடனே கத்தியைக் கீழே போட்டுவிட்டுத் தொழுதார்கள்; (புதிதாக) அங்கத் தூய்மை செய்யவில்லை. அத்தியாயம் : 4
+அம்ர் பின் உமய்யா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (சமைக்கப்பட்ட) ஆட்டின் சப்பை ஒன்றிலிருந்து (இறைச்சியை) வெட்டி(ச் சாப்பிட்டு)க்கொண்டிருந்ததை நான் பார்த்தேன். அப்போது தொழுகைக்காக அவர்கள் அழைக்கப்பட்டார்கள். உடனே கத்தியைக் கீழே போட்டுவிட்டுத் தொழுதார்கள்; (புதிதாக) அங்கத் தூய்மை செய்யவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>208</td></tr><tr><td>Arabic No</td><td>208</td></tr><tr><td>Reference</td><td>Book 4 Hadith 74</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cafer İbn Amr İbn Ümeyye babasından şunu rivayet etmiştir: Amr, Resulullah (Sallallahu aleyhi ve Sellem)'in koyun küreğinden et kesip yediğini görmüş, namaz için çağırıldığında bıçağı bırakıp namaz kıldığını, abdest almadığını söylemiştir. Tekrar: 675, 2923, 5408, 5422, 5426
+Cafer İbn Amr İbn Ümeyye babasından şunu rivayet etmiştir: Amr, Resulullah (Sallallahu aleyhi ve Sellem)'in koyun küreğinden et kesip yediğini görmüş, namaz için çağırıldığında bıçağı bırakıp namaz kıldığını, abdest almadığını söylemiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>208</td></tr><tr><td>Arabic No</td><td>208</td></tr><tr><td>Reference</td><td>Book 4 Hadith 74</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আবূল কাসিম (রাঃ) বলেছেনঃ যদি কোন লোক অনুমতি ছাড়া তোমার দিকে উঁকি মারে আর তখন তুমি তার প্রতি কংকর ছুঁড়ে তার চক্ষু উপড়ে ফেল, এতে তোমার কোন অপরাধ হবে না।[1] [৬৮৮৮] (আধুনিক প্রকাশনী- ৬৪২৩, ইসলামিক ফাউন্ডেশন- ৬৪৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আবূল কাসিম (রাঃ) বলেছেনঃ যদি কোন লোক অনুমতি ছাড়া তোমার দিকে উঁকি মারে আর তখন তুমি তার প্রতি কংকর ছুঁড়ে তার চক্ষু উপড়ে ফেল, এতে তোমার কোন অপরাধ হবে না।[1] [৬৮৮৮] (আধুনিক প্রকাশনী- ৬৪২৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6902</td></tr><tr><td>Arabic No</td><td>6902</td></tr><tr><td>Reference</td><td>Book 87 Hadith 41</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபுல் காசிம் (முஹம்மத்-ஸல்) அவர்கள் கூறினார்கள்: உன் அனுமதியின்றி ஒரு மனிதர் உன்னை எட்டிப் பார்த்தபோது அவர்மீது நீ சிறுகல்லைச் சுண்டிஎறிய, அது அவரது கண்ணைப் பறித்துவிட்டால் உன்மீது எந்தக் குற்றமுமில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.45 அத்தியாயம் : 87
+அபுல் காசிம் (முஹம்மத்-ஸல்) அவர்கள் கூறினார்கள்: உன் அனுமதியின்றி ஒரு மனிதர் உன்னை எட்டிப் பார்த்தபோது அவர்மீது நீ சிறுகல்லைச் சுண்டிஎறிய, அது அவரது கண்ணைப் பறித்துவிட்டால் உன்மீது எந்தக் குற்றமுமில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.45 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6902</td></tr><tr><td>Arabic No</td><td>6902</td></tr><tr><td>Reference</td><td>Book 87 Hadith 41</td></tr></tbody></table></div>
 

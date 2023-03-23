@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, (একবার) রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মুশরিকদের নাবালিগ সন্তানাদি সম্পর্কে জিজ্ঞাসা করা হলে উত্তরে তিনি বললেন, তারা (বাঁচলে) কী ‘আমল করত এ ব্যাপারে আল্লাহই সবচেয়ে বেশি জানেন। [১৩৮৩] (আধুনিক প্রকাশনী- ৬১৩৭, ইসলামিক ফাউন্ডেশন- ৬১৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, (একবার) রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মুশরিকদের নাবালিগ সন্তানাদি সম্পর্কে জিজ্ঞাসা করা হলে উত্তরে তিনি বললেন, তারা (বাঁচলে) কী ‘আমল করত এ ব্যাপারে আল্লাহই সবচেয়ে বেশি জানেন। [১৩৮৩] (আধুনিক প্রকাশনী- ৬১৩৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6597</td></tr><tr><td>Arabic No</td><td>6597</td></tr><tr><td>Reference</td><td>Book 82 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: இணைவைப்போரின் குழந்தைகள் (இறந்துவிட்டால் அவர்களின் முடிவு யாது? என்பது) குறித்து நபி (ஸல்) அவர்களிடம் வினவப்பட்டது. அதற்கு அவர்கள், “அவர்கள் (உயிருடன் வாழ்ந்தால்) எவ்வாறு செயல்பட்டிருப்பார்கள் என்பதை அல்லாஹ் நன்கு அறிவான்” என்று பதிலளித்தார்கள்.8 அத்தியாயம் : 82
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: இணைவைப்போரின் குழந்தைகள் (இறந்துவிட்டால் அவர்களின் முடிவு யாது? என்பது) குறித்து நபி (ஸல்) அவர்களிடம் வினவப்பட்டது. அதற்கு அவர்கள், “அவர்கள் (உயிருடன் வாழ்ந்தால்) எவ்வாறு செயல்பட்டிருப்பார்கள் என்பதை அல்லாஹ் நன்கு அறிவான்” என்று பதிலளித்தார்கள்.8 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6597</td></tr><tr><td>Arabic No</td><td>6597</td></tr><tr><td>Reference</td><td>Book 82 Hadith 4</td></tr></tbody></table></div>
 

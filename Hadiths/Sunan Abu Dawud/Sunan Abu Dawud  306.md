@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল মালেক ইবনু শুআয়ব ..... লাইছ (রহঃ) রবীআর সূত্রে বর্ণনা করেন যে, ইস্তেহাযাগ্রস্ত মহিলাদের প্রত্যেক নামাযের পূর্বে উযূ (ওজু/অজু/অযু) করার প্রয়োজন নাই। তবে রক্ত প্রবাহিত হওয়া ব্যতিরেকে যে সমস্ত কারণে উযূ নষ্ট হয়- এরূপ কিছু হলে পুনরায় উযূ করতে হবে। ইমাম আবূ দাউদ (রহঃ) বলেন, এটা মালিক ইবনু আনাসের অভিমত।
+। রবী‘আহ সূত্রে বর্ণিত। তার অভিমত হলো, মুস্তাহাযার প্রত্যেক সালাতের পূর্বে অযু করার প্রয়োজন নেই। কিন্তু যদি তার অযু নষ্ট হয়ে যায়, অবশ্যই ইস্তিহাযা ছাড়া, তাহলে অযু করে নিবে। ইমাম আবূ দাউদ (রহঃ) বলেন, মালিক ইবনু আনাসের মত এটাই।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>306</td></tr><tr><td>Arabic No</td><td>306</td></tr><tr><td>Reference</td><td>Book 1 Hadith 306</td></tr></tbody></table></div>
 

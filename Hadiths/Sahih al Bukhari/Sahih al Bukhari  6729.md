@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার রেখে যাওয়া সম্পত্তির দ্বীনার বণ্টিত হবে না। আমার রেখে যাওয়া সম্পত্তি সবই সাদাকা- আমার স্ত্রীদের এবং আমার কর্মচারীদের খরচ বাদ দিয়ে। [২৭৭৬] (আধুনিক প্রকাশনী- ৬২৬১, ইসলামিক ফাউন্ডেশন- ৬২৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার রেখে যাওয়া সম্পত্তির দ্বীনার বণ্টিত হবে না। আমার রেখে যাওয়া সম্পত্তি সবই সাদাকা- আমার স্ত্রীদের এবং আমার কর্মচারীদের খরচ বাদ দিয়ে। [২৭৭৬] (আধুনিক প্রকাশনী- ৬২৬১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6729</td></tr><tr><td>Arabic No</td><td>6729</td></tr><tr><td>Reference</td><td>Book 85 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] mengatakan, telah menceritakan kepadaku
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என் வாரிசுகள் ஒரு பொற்காசைக்கூட (வாரிசுப்) பங்காகப் பெறமாட்டார்கள். என் துணைவியருக்கான வாழ்க்கைச் செலவும் என் (பிரதிநிதி மற்றும்) ஊழியரின் ஊதியமும்போக நான் விட்டுச் செல்பவையெல்லாம் தர்மமேயாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.10 அத்தியாயம் : 86
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என் வாரிசுகள் ஒரு பொற்காசைக்கூட (வாரிசுப்) பங்காகப் பெறமாட்டார்கள். என் துணைவியருக்கான வாழ்க்கைச் செலவும் என் (பிரதிநிதி மற்றும்) ஊழியரின் ஊதியமும்போக நான் விட்டுச் செல்பவையெல்லாம் தர்மமேயாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.10 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6729</td></tr><tr><td>Arabic No</td><td>6729</td></tr><tr><td>Reference</td><td>Book 85 Hadith 6</td></tr></tbody></table></div>
 

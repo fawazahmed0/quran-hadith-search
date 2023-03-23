@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ক্বাতাদাহ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কেউ যখন পেশাব করে তখন সে যেন কখনো ডান হাত দিয়ে তার পুরুষাঙ্গ না ধরে এবং ডান হাত দিয়ে শৌচকার্য না করে এবং পান করার সময় যেন পাত্রের মধ্যে শ্বাস না ছাড়ে। (১৫৩) (আধুনিক প্রকাশনীঃ ১৫১, ইসলামিক ফাউন্ডেশনঃ ১৫৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ক্বাতাদাহ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কেউ যখন পেশাব করে তখন সে যেন কখনো ডান হাত দিয়ে তার পুরুষাঙ্গ না ধরে এবং ডান হাত দিয়ে শৌচকার্য না করে এবং পান করার সময় যেন পাত্রের মধ্যে শ্বাস না ছাড়ে। (১৫৩) (আধুনিক প্রকাশনীঃ ১৫১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>154</td></tr><tr><td>Arabic No</td><td>154</td></tr><tr><td>Reference</td><td>Book 4 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் சிறுநீர் கழிக்கும் போது, பிறவி உறுப்பைத் தமது வலக் கரத்தால் தொட வேண்டாம்; வலக் கரத் தால் சுத்தம் செய்யவும் வேண்டாம். (ஏதேனும் ஒன்றைப் பருகும்போது) பாத்திரத்திற்குள் மூச்சு விடவும் வேண்டாம். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 4
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் சிறுநீர் கழிக்கும் போது, பிறவி உறுப்பைத் தமது வலக் கரத்தால் தொட வேண்டாம்; வலக் கரத் தால் சுத்தம் செய்யவும் வேண்டாம். (ஏதேனும் ஒன்றைப் பருகும்போது) பாத்திரத்திற்குள் மூச்சு விடவும் வேண்டாம். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>154</td></tr><tr><td>Arabic No</td><td>154</td></tr><tr><td>Reference</td><td>Book 4 Hadith 20</td></tr></tbody></table></div>
 

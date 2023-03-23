@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন বাশশার (রহঃ) .... সাঈদ (রহঃ) থেকে উপরোক্ত হাদীছের ও অর্থে হাদীছ বর্ণিত হয়েছে। ইমাম আবু দাউদ (রহঃ) রাওহ ইবন উবাদা, তিনি সাঈদ ইবন আবূ উরওয়া (রাঃ) হতে যে হাদিছটি বর্ণনা করেছেন, তাতে السِّعَايَةَ বা ‘পরিশ্রম’ শব্দটির উল্লেখ নেই। পক্ষান্তরে জারীর ইবন হাযিম ও মূসা ইবন খালফ একত্রে আবূ কাতাদা (রাঃ) থেকে, তিনি ইয়াযীদ ইবন যুরাফ থেকে উপরোক্ত হাদীছের সনদে ও অর্থে যে হাদীছ বর্ণনা করেছেন, তাতে السِّعَايَةَ শব্দটি উল্লেখ আছে।
+। সাঈদ (রহঃ) থেকে তার সনদে অনুরূপ অর্থের হাদীস বর্ণিত। ইমাম আবূ দাঊদ (রহঃ) বলেন, কোনো বর্ণনায় শব্দটি উল্লেখ আছে এবং কোনো বর্ণনায় নেই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3939</td></tr><tr><td>Arabic No</td><td>3939</td></tr><tr><td>Reference</td><td>Book 31 Hadith 14</td></tr></tbody></table></div>
 

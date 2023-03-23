@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ (রহঃ) .... শাকীক (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা ইবন মাসউদ (রাঃ)-কে বলা হয় যে, লোকেরা নিম্নোক্ত আয়াতটি এ ভাবে পড়েঃ وَقَالَتْ هِيتَ لَكَ তখন তিনি বলেনঃ আমি সেভাবেই পড়ি, যেভাবে পড়তে আমার ভাল লাগেঃ (وَقَالَتْ هَيْتَ لَكَ)।
+। শাকীক (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আব্দুল্লাহ ইবনু মাস‘ঊদ (রাঃ)-কে বলা হলো, কিছু লোক এ আয়াত هِيتَ لَكَ পড়ে (‘হা’র নীচে যের এবং ‘তা’র উপর পেশ দিয়ে)। তিনি বললেন, আমাকে যেভাবে শিখানো হয়েছে আমি সেভাবেই পড়া পছন্দ করি। এ বলে তিনি পাঠ করলেন هَيْتَ لَكَ (‘হা’র উপর ও ‘তা’র উপর যবর দিয়ে)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4005</td></tr><tr><td>Arabic No</td><td>4005</td></tr><tr><td>Reference</td><td>Book 32 Hadith 37</td></tr></tbody></table></div>
 

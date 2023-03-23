@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৪৯১৷ আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের আগের উন্মাতের মধ্যে কোন এক লোক তার দামী জামা পরে গর্বভরে পথে বের হলে আল্লাহ তা'আলা তখন তাকে গ্রাস করার জন্য যমীনকে নির্দেশ দিলেন। অতএব যমীন তাকে গ্রাস করে এবং সে কিয়ামত পর্যন্ত এভাবে ধ্বসতেই থাকবে। সহীহঃ আস-সহীহ আল জামি' (৩২১৭), বুখারী, মুসলিম আবূ হুরাইরা হতে। আবূ ঈসা বলেন, হাদীসটি সহীহ।
+আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের আগের উন্মাতের মধ্যে কোন এক লোক তার দামী জামা পরে গর্বভরে পথে বের হলে আল্লাহ তা'আলা তখন তাকে গ্রাস করার জন্য যমীনকে নির্দেশ দিলেন। অতএব যমীন তাকে গ্রাস করে এবং সে কিয়ামত পর্যন্ত এভাবে ধ্বসতেই থাকবে। সহীহঃ আস-সহীহ আল জামি' (৩২১৭), বুখারী, মুসলিম আবূ হুরাইরা হতে। আবূ ঈসা বলেন, হাদীসটি সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2491</td></tr><tr><td>Arabic No</td><td>2491</td></tr><tr><td>Reference</td><td>Book 37 Hadith 77</td></tr></tbody></table></div>
 

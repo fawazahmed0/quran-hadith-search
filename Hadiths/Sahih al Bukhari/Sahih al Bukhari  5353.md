@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিধবা ও মিসকীন-এর জন্য খাদ্যজোগাড় করতে চেষ্টারত ব্যক্তি আল্লাহর রাস্তায় মুজাহিদের মত অথবা রাতে সালাতে দন্ডয়মান ও দিনে সিয়ামকারীর মত। [৬০০৬৯, ৬০০৭; মুসলিম ৫৩/২, হাঃ ২৯৮২, আহমাদ ৮৭৪০] (আধুনিক প্রকাশনী- ৪৯৫৩, ইসলামিক ফাউন্ডেশন- ৪৮৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিধবা ও মিসকীন-এর জন্য খাদ্যজোগাড় করতে চেষ্টারত ব্যক্তি আল্লাহর রাস্তায় মুজাহিদের মত অথবা রাতে সালাতে দন্ডয়মান ও দিনে সিয়ামকারীর মত। [৬০০৬৯, ৬০০৭; মুসলিম ৫৩/২, হাঃ ২৯৮২, আহমাদ ৮৭৪০] (আধুনিক প্রকাশনী- ৪৯৫৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5353</td></tr><tr><td>Arabic No</td><td>5353</td></tr><tr><td>Reference</td><td>Book 69 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Qaza'ah] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (கணவனை இழந்த) கைம்பெண்ணுக் காகவும் ஏழைக்காகவும் பாடுபடுகின்றவர், ‘அல்லாஹ்வின் பாதையில் அறப்போர் புரிபவரைப் போன்றவர் ஆவார்’ அல்லது ‘இரவில் நின்று வழிபட்டுப் பகலில் நோன்பு நோற்பவரைப் போன்றவர் ஆவார்’. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 69
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (கணவனை இழந்த) கைம்பெண்ணுக் காகவும் ஏழைக்காகவும் பாடுபடுகின்றவர், ‘அல்லாஹ்வின் பாதையில் அறப்போர் புரிபவரைப் போன்றவர் ஆவார்’ அல்லது ‘இரவில் நின்று வழிபட்டுப் பகலில் நோன்பு நோற்பவரைப் போன்றவர் ஆவார்’. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5353</td></tr><tr><td>Arabic No</td><td>5353</td></tr><tr><td>Reference</td><td>Book 69 Hadith 3</td></tr></tbody></table></div>
 

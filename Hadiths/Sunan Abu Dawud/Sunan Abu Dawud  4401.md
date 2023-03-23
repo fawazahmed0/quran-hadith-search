@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন সারহ (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যখন আলী (রাঃ) এ সম্পর্কে জানতে পারেন তখন তিনি উমার (রাঃ) এর নিকট উপস্থিত হয়ে বলেনঃ আপনি কি তা ভুলে গেছেন, যা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে তিন ব্যক্তি হতে কলম উঠিয়ে নেওয়া হয়েছে। যথাঃ (১) পাগল যতক্ষণ না সে সুস্থ হয় (২) নিদ্রিত ব্যক্তি যতক্ষণ না সে জাগ্রত হয় এবং (৩) নাবালেগ ছেলে-মেয়ে যতক্ষণ না তারা বালেগ হয়। একথা শোনার পর তিনি বলেনঃ আপনি সত্য বলেছেন। পরে তিনি সে মহিলাকে ছেড়ে দেন।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আলী ইবনু আবূ তালিব (রাঃ)-এর পাশ দিয়ে যাওয়া ... অতঃপর উসমান ইবনু অবূ শাইরাহ বর্ণিত হাদীসের সমার্থবোধক হাদীস বর্ণিত। তিনি বলেন, আপনার কি মনে নেই, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিন প্রকার লোকের উপর থেকে কলম তুলে রাখা হয়েছেঃ (১) নির্বোধ পাগল, যতক্ষণ না সুস্থ হয়, (২) নিদ্রিত ব্যক্তি, যতক্ষণ না জাগ্রত হয় এবং (৩) নাবালেগ শিশু, যতক্ষণ না প্রাপ্তবয়স্ক হয়। একথা শুনে উমার (রাঃ) বলেন, আপনি সত্যিই বলেছেন। বর্ণনাকারী বলেন, অতঃপর তিনি দন্ডিতাকে ছেড়ে দিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4401</td></tr><tr><td>Arabic No</td><td>4401</td></tr><tr><td>Reference</td><td>Book 40 Hadith 51</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Narrated Ali ibn AbuTalib: Ibn Abbas said: A lunatic woman passed by Ali ibn Abu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a) demiştirki: "Ali b. Ebi Talib radıyallahu anh bana uğradı... " Ravi, Osman'ın hadisinin manasım rivayet etti ve şöyle dedi:(Ali:) "Rasulullah (s..a.v.)'in, "kalem üç gruptan kaldırıldı; aklı başından gitmiş akıl hastasından, uyanıncaya kadar uyuyandan ve baliğ oluncaya kadar çocuktan " buyurduğunu hatırlamıyor musun? dedi. Ömer: Doğru söyledin, dedi. İbn Abbas: "Ömer kadını serbest bıraktı" dedi. Tahric edenler: Buhari. hudûd; Ahmed. b. Hanbel, I, 140, 154, 155
+İbn Abbas (r.a) demiştirki: "Ali b. Ebi Talib radıyallahu anh bana uğradı... " Ravi, Osman'ın hadisinin manasım rivayet etti ve şöyle dedi:(Ali:) "Rasulullah (s..a.v.)'in, "kalem üç gruptan kaldırıldı; aklı başından gitmiş akıl hastasından, uyanıncaya kadar uyuyandan ve baliğ oluncaya kadar çocuktan " buyurduğunu hatırlamıyor musun? dedi. Ömer: Doğru söyledin, dedi. İbn Abbas: "Ömer kadını serbest bıraktı" dedi. Tahric edenler: Buhari. hudûd; Ahmed. b. Hanbel, I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4401</td></tr><tr><td>Arabic No</td><td>4401</td></tr><tr><td>Reference</td><td>Book 40 Hadith 51</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪০৪৩, আন্তর্জাতিক নাম্বারঃ ১৬১৭ ৪০৪৩-(.../...) আবূ বকর ইবনু শাইবাহ, যুহায়র ইবনু হারব, ইসহাক ইবনু ইবরাহীম ও ইবনু রাফি (রহঃ) ...... কাতাদার সূত্রে এ সানাদে অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪০০৬, ইসলামিক সেন্টার ৪০০৫)
+আবূ বকর ইবনু শাইবাহ, যুহায়র ইবনু হারব, ইসহাক ইবনু ইবরাহীম ও ইবনু রাফি (রহঃ) ...... কাতাদার সূত্রে এ সানাদে অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪০০৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4151</td></tr><tr><td>Arabic No</td><td>1617.02</td></tr><tr><td>Reference</td><td>Book 23 Hadith 12</td></tr></tbody></table></div>
 

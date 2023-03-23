@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৪১। আবদুর রহমান (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ ‘আম্মার (রাঃ) ‘উমর (রাঃ)-কে বলছিলেনঃ আমি (তায়াম্মুমের জন্য) মাটিতে গড়াগড়ি দিলাম। পরে নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-এর নিকট গেলাম। তখন তিনি বলেছিলেন: চেহারা ও হাত দু’টো মাস্‌হ করাই তোমার জন্য যথেষ্ট। (৩৩৮) (আ.প্র. ৩২৯, ই.ফা. ৩৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। আবদুর রহমান (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ ‘আম্মার (রাঃ) ‘উমর (রাঃ)-কে বলছিলেনঃ আমি (তায়াম্মুমের জন্য) মাটিতে গড়াগড়ি দিলাম। পরে নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-এর নিকট গেলাম। তখন তিনি বলেছিলেন: চেহারা ও হাত দু’টো মাস্‌হ করাই তোমার জন্য যথেষ্ট। (৩৩৮) (আ.প্র. ৩২৯, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 7 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துர் ரஹ்மான் பின் அப்ஸா (ரலி) அவர்கள் கூறியதாவது: அம்மார் (ரலி) அவர்கள் உமர் (ரலி) அவர்களிடம், “மண்ணில் புரண்ட நான் நபி (ஸல்) அவர்களிடம் வந்(து நடந்த தைத் தெரிவித்)தேன். அப்போது நபி (ஸல்) அவர்கள், “முகமும் (மணிக்கட்டுவரை) இரு கைகளும் உமக்கு (தயம்மும் செய்யப்) போதும்” என்று சொன்னார்கள் எனக் கூறினார்கள். அத்தியாயம் : 7
+அப்துர் ரஹ்மான் பின் அப்ஸா (ரலி) அவர்கள் கூறியதாவது: அம்மார் (ரலி) அவர்கள் உமர் (ரலி) அவர்களிடம், “மண்ணில் புரண்ட நான் நபி (ஸல்) அவர்களிடம் வந்(து நடந்த தைத் தெரிவித்)தேன். அப்போது நபி (ஸல்) அவர்கள், “முகமும் (மணிக்கட்டுவரை) இரு கைகளும் உமக்கு (தயம்மும் செய்யப்) போதும்” என்று சொன்னார்கள் எனக் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 7 Hadith 8</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর রাস্তায় জিহাদের নিয়্যতে যে লোক বের হয়, আর আল্লাহর রাস্তায় জিহাদ এবং তাঁর কলেমার বিশ্বাসই যদি তাকে বের করে থাকে, এমন লোকের জন্য আল্লাহ্ স্বয়ং যিম্মাদার হয়ে যান। হয়তো তাকে তিনি জান্নাতে প্রবেশ করাবেন, নচেৎ যে জায়গা থেকে সে বের হয়েছিল সওয়াব কিংবা গনীমতসহ তাকে সে জায়গায় ফিরিয়ে আনবেন। [৩৬] (আধুনিক প্রকাশনী- ৬৯৩৯, ইসলামিক ফাউন্ডেশন- ৬৯৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর রাস্তায় জিহাদের নিয়্যতে যে লোক বের হয়, আর আল্লাহর রাস্তায় জিহাদ এবং তাঁর কলেমার বিশ্বাসই যদি তাকে বের করে থাকে, এমন লোকের জন্য আল্লাহ্ স্বয়ং যিম্মাদার হয়ে যান। হয়তো তাকে তিনি জান্নাতে প্রবেশ করাবেন, নচেৎ যে জায়গা থেকে সে বের হয়েছিল সওয়াব কিংবা গনীমতসহ তাকে সে জায়গায় ফিরিয়ে আনবেন। [৩৬] (আধুনিক প্রকাশনী- ৬৯৩৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7457</td></tr><tr><td>Arabic No</td><td>7457</td></tr><tr><td>Reference</td><td>Book 97 Hadith 83</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah guarantees to the person who carries out Jihad for His Cause and nothing compelled him to go out but the Jihad in His Cause, and belief in His Words, that He will either admit him into Paradise or return him with his reward or the booty he has earned to his residence from where he went out." (See Hadith No. 555)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah guarantees to the person who carries out Jihad for His Cause and nothing compelled him to go out but the Jihad in His Cause, and belief in His Words, that He will either admit him into Paradise or return him with his reward or the booty he has earned to his residence from where he went out." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7457</td></tr><tr><td>Arabic No</td><td>7457</td></tr><tr><td>Reference</td><td>Book 97 Hadith 83</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் பாதையில் போராடு வதற்காகவும் அவனுடைய வாக்குகளை உண்மையென நிரூபிப்பதற்காகவும் மட்டுமே வெளியே புறப்பட்டு, அவனது பாதையில் போராடியவரை சொர்க்கத்தில் அனுப்புவதற்கு அல்லாஹ் பொறுப் பேற்றுக்கொண்டுள்ளான்; அல்லது அவர் பெற்ற நன்மையுடன், அல்லது (அந்த நன்மையுடன் சேர்த்து) போரில் கிடைத்த செல்வத்துடன் அவரை வீட்டிற்குத் திரும்பக் கொண்டுவர அல்லாஹ் பொறுப்பேற்றுக்கொண்டுள்ளான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.97 அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் பாதையில் போராடு வதற்காகவும் அவனுடைய வாக்குகளை உண்மையென நிரூபிப்பதற்காகவும் மட்டுமே வெளியே புறப்பட்டு, அவனது பாதையில் போராடியவரை சொர்க்கத்தில் அனுப்புவதற்கு அல்லாஹ் பொறுப் பேற்றுக்கொண்டுள்ளான்; அல்லது அவர் பெற்ற நன்மையுடன், அல்லது (அந்த நன்மையுடன் சேர்த்து) போரில் கிடைத்த செல்வத்துடன் அவரை வீட்டிற்குத் திரும்பக் கொண்டுவர அல்லாஹ் பொறுப்பேற்றுக்கொண்டுள்ளான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.97 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7457</td></tr><tr><td>Arabic No</td><td>7457</td></tr><tr><td>Reference</td><td>Book 97 Hadith 83</td></tr></tbody></table></div>
 

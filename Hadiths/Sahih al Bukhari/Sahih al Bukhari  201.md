@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক সা‘ (৪ মুদ) হতে পাঁচ মুদ পর্যন্ত পানি দিয়ে গোসল করতেন এবং উযু করতেন এক মুদ দিয়ে। (মুসলিম ৩/১০, হাঃ ৩২৫, আহমাদ ১৪০০২, ১৪০৯৫) (আধুনিক প্রকাশনীঃ ১৯৫, ইসলামিক ফাউন্ডেশনঃ ২০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক সা‘ (৪ মুদ) হতে পাঁচ মুদ পর্যন্ত পানি দিয়ে গোসল করতেন এবং উযু করতেন এক মুদ দিয়ে। (মুসলিম ৩/১০, হাঃ ৩২৫, আহমাদ ১৪০০২, ১৪০৯৫) (আধুনিক প্রকাশনীঃ ১৯৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>201</td></tr><tr><td>Arabic No</td><td>201</td></tr><tr><td>Reference</td><td>Book 4 Hadith 67</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு ‘ஸாஉ’ முதல் ஐந்து ‘முத்’து வரையிலான தண்ணீரில் குளிப்பார்கள்; ஒரு ‘முத்’து அளவுத் தண்ணீரில் அங்கத் தூய்மை செய் வார்கள்.25 அத்தியாயம் : 4
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு ‘ஸாஉ’ முதல் ஐந்து ‘முத்’து வரையிலான தண்ணீரில் குளிப்பார்கள்; ஒரு ‘முத்’து அளவுத் தண்ணீரில் அங்கத் தூய்மை செய் வார்கள்.25 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>201</td></tr><tr><td>Arabic No</td><td>201</td></tr><tr><td>Reference</td><td>Book 4 Hadith 67</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন আবদুল হামীদ বাহরানী .......... আসমা বিনত ইয়াযীদ ইবন আল - সাকান আল আনসারীয়া (রাঃ) হতে বর্ণিত। তিনি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যুগে তালাকপ্রাপ্তা হন, আর সে সময় তালাকপ্রাপ্তা রমনীর জন্য ইদ্দত পালনের কোন প্রয়োজন ছিল না। এরপর আল্লাহ্ তা‘আলা আসমার তালাক প্রাপ্তির পর ইদ্দত সম্পর্কিয় আয়াত নাযিল করেন। আর তিনিই ছিলেন সরবপ্রথম মহিলা, যার সম্পর্কে তালাকপ্রাপ্তা মহিলাদের জন্য ইদ্দত পাল প্রয়োজন এ আয়াত নাযিল হয়।
+। আসমা বিনতু ইয়াযীদ ইবনুস সাকান আল-আনসারিয়্যাহ (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে তিনি তালাকপ্রাপ্ত হন। তখন তালাকপ্রাপ্তা নারীর ইদ্দাত পালনের কথা ছিলো না। যখন আসমাকে তালাক দেয়া হলো তখন মহান আল্লাহ তা‘আলা তালাক বিষয়ে ইদ্দাতের আয়াত অবতীর্ণ করলেন। তিনি হলেন সর্বপ্রথম নারী যাকে কেন্দ্র করে তালাকপ্রাপ্তা মহিলার ইদ্দাতের বিধান অবতীর্ণ হয়।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2281</td></tr><tr><td>Arabic No</td><td>2281</td></tr><tr><td>Reference</td><td>Book 13 Hadith 107</td></tr></tbody></table></div>
 

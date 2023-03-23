@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, যখন তোমরা তা (চাঁদ) দেখবে তখন সওম রাখবে, আবার যখন তা দেখবে তখন ইফ্তার করবে। আর যদি আকাশ মেঘলা থাকে তবে সময় হিসাব করে (ত্রিশ দিন) পূর্ণ করবে। ইয়াহইয়া ইবনু বুকায়র (রহ.) ব্যতীত অন্যরা লায়স (রহ.) হতে ‘উকায়ল এবং ইউনুস (রহ.) সূত্রে বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কথাটি বলেছেন রমাযানের চাঁদ সম্পর্কে। (১৯০৬, ১৯০৭) (আধুনিক প্রকাশনীঃ ১৭৬৫, ইসলামিক ফাউন্ডেশনঃ ১৭৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, যখন তোমরা তা (চাঁদ) দেখবে তখন সওম রাখবে, আবার যখন তা দেখবে তখন ইফ্তার করবে। আর যদি আকাশ মেঘলা থাকে তবে সময় হিসাব করে (ত্রিশ দিন) পূর্ণ করবে। ইয়াহইয়া ইবনু বুকায়র (রহ.) ব্যতীত অন্যরা লায়স (রহ.) হতে ‘উকায়ল এবং ইউনুস (রহ.) সূত্রে বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কথাটি বলেছেন রমাযানের চাঁদ সম্পর্কে। (১৯০৬, ১৯০৭) (আধুনিক প্রকাশনীঃ ১৭৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1900</td></tr><tr><td>Arabic No</td><td>1900</td></tr><tr><td>Reference</td><td>Book 30 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் ரமளான் பிறை கண்டதும் நோன்பு நோறுங்கள்; (மறு) பிறை கண்டதும் நோன்பை விடுங்கள்; உங்களுக்கு (வானில்) மேகமூட்டம் தென்பட்டால் அதை (முப்பது நாட்களாக)க் கணக்கிட்டுக்கொள்ளுங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 30
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் ரமளான் பிறை கண்டதும் நோன்பு நோறுங்கள்; (மறு) பிறை கண்டதும் நோன்பை விடுங்கள்; உங்களுக்கு (வானில்) மேகமூட்டம் தென்பட்டால் அதை (முப்பது நாட்களாக)க் கணக்கிட்டுக்கொள்ளுங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1900</td></tr><tr><td>Arabic No</td><td>1900</td></tr><tr><td>Reference</td><td>Book 30 Hadith 10</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer, Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu işitmiştir: "Hilali gördüğünüzde oruç tutun ve hilali yeniden gördüğünüzde oruç tutmayı bırakın. Hava bulutlu olduğu zaman hilal'i göremezseniz o ay'ı hesaplayarak belirleyin!'' Tekrar: 1906, 1907
+Abdullah İbn Ömer, Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu işitmiştir: "Hilali gördüğünüzde oruç tutun ve hilali yeniden gördüğünüzde oruç tutmayı bırakın. Hava bulutlu olduğu zaman hilal'i göremezseniz o ay'ı hesaplayarak belirleyin!'' Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1900</td></tr><tr><td>Arabic No</td><td>1900</td></tr><tr><td>Reference</td><td>Book 30 Hadith 10</td></tr></tbody></table></div>
 

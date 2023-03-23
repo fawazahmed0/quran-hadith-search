@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২৯৭৪। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি কিরান হজ্জের ইহরাম বেঁধে (মক্কায়) আগমন করেন। তিনি সাতবার বাইতুল্লাহ তাওয়াফ করেন এবং সাফা ও মারওয়া পাহাড়দ্বয়ের মাঝে সাঈ করেন, অতঃপর বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপই করেছেন।
+। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি কিরান হজ্জের ইহরাম বেঁধে (মক্কায়) আগমন করেন। তিনি সাতবার বাইতুল্লাহ তাওয়াফ করেন এবং সাফা ও মারওয়া পাহাড়দ্বয়ের মাঝে সাঈ করেন, অতঃপর বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপই করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2974</td></tr><tr><td>Arabic No</td><td>2974</td></tr><tr><td>Reference</td><td>Book 25 Hadith 93</td></tr></tbody></table></div>
 

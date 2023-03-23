@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) থেকে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কেউ যেন ফুফু ও তার ভাতিজীকে এবং খালা এবং তার বোনঝিকে একত্রে বিয়ে না করে। [৫১১০; মুসলিম ১৬/৩, হাঃ ১৪০৮, আহমাদ ১০০০২] (আধুনিক প্রকাশনী- ৪৭৩৫, ইসলামিক ফাউন্ডেশন- ৪৭৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) থেকে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কেউ যেন ফুফু ও তার ভাতিজীকে এবং খালা এবং তার বোনঝিকে একত্রে বিয়ে না করে। [৫১১০; মুসলিম ১৬/৩, হাঃ ১৪০৮, আহমাদ ১০০০২] (আধুনিক প্রকাশনী- ৪৭৩৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5109</td></tr><tr><td>Arabic No</td><td>5109</td></tr><tr><td>Reference</td><td>Book 67 Hadith 47</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (ஒருவர்) ஒரு பெண்ணையும் அவளு டைய தந்தையின் சகோதரியையும் ஒருசேர மனைவியராக்கிக் கொள்ளலாகாது. (இதைப் போன்றே) ஒரு பெண்ணையும் அவளுடைய தாயின் சகோதரியையும் ஒருசேர மனைவியராக்கிக் கொள்ள லாகாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 67
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (ஒருவர்) ஒரு பெண்ணையும் அவளு டைய தந்தையின் சகோதரியையும் ஒருசேர மனைவியராக்கிக் கொள்ளலாகாது. (இதைப் போன்றே) ஒரு பெண்ணையும் அவளுடைய தாயின் சகோதரியையும் ஒருசேர மனைவியராக்கிக் கொள்ள லாகாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5109</td></tr><tr><td>Arabic No</td><td>5109</td></tr><tr><td>Reference</td><td>Book 67 Hadith 47</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৫১৫। ইবনু উমর (রাঃ) হতে বর্ণিত, তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর নিকট শান্তি ও নিরাপত্তা প্রার্থনার চাইতে অধিক প্রিয় কিছু তার কাছে চাওয়া হয় না। আবূ ঈসা বলেন, এ হাদীসটি গারীব। আমরা শুধুমাত্র আব্দুর রহমান ইবনু আবী বাকার আল-মুলাইকীর সূত্রেই এ হাদীসটি জানতে পেরেছি। যঈফ, মিশকাত (২২৩৯)
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল-আব্বাস আমার থেকে এবং আমি তার থেকে। যঈফ, মিশকাত (৬১৪৮), যঈফা (২৩১৫) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ গারীব। আমরা শুধু ইসরাঈলের সূত্রে এ হাদীস প্রসঙ্গে জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3515</td></tr><tr><td>Arabic No</td><td>3515</td></tr><tr><td>Reference</td><td>Book 48 Hadith 146</td></tr></tbody></table></div>
 

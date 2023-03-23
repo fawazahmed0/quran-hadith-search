@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্বাস আনবারী (রহঃ) ..... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হামযা (রাঃ)-এর পাশ দিয়ে যান, যার নাক-কান কেটে ফেলা হয়। আর তিনি হামযা (রাঃ) ব্যতীত অন্য কারো জানাযার নামায পড়াননি।
+। আনাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হামযাহ (রাঃ)-এর লাশের পাশ দিয়ে অতিক্রমকালে দেখলেন, তার মৃতদেহ বিকৃত করা হয়েছে। তিনি হামযাহ (রাঃ) ছাড়া অন্য কোনো শহীদ জানাযা পড়েননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>3137</td></tr><tr><td>Reference</td><td>Book 21 Hadith 49</td></tr></tbody></table></div>
 

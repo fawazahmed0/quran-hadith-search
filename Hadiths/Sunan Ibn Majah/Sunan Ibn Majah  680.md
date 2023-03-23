@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৬৮০। মুগীরাহ ইবনু শুবাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে যোহরের সালাত দুপুরের (প্রথমভাগে) পড়তাম। তিনি আমাদের বলেনঃ তোমরা ঠান্ডা করে সালাত পড়ো। কেননা গরমের তীব্রতা জাহান্নামের নিঃশ্বাস থেকে।
+। মুগীরাহ ইবনু শুবাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে যোহরের সালাত দুপুরের (প্রথমভাগে) পড়তাম। তিনি আমাদের বলেনঃ তোমরা ঠান্ডা করে সালাত পড়ো। কেননা গরমের তীব্রতা জাহান্নামের নিঃশ্বাস থেকে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>680</td></tr><tr><td>Arabic No</td><td>680</td></tr><tr><td>Reference</td><td>Book 2 Hadith 14</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাতের পূর্বের দু’রাক‘আত (সুন্নাত) এত সংক্ষিপ্ত করতেন এমনকি আমি (মনে মনে) বলতাম, তিনি কি (শুধু) উম্মুল কিতাব (সূরাহ্ ফাতিহা) তিলাওয়াত করলেন? (আধুনিক প্রকাশনীঃ ১০৯৭, ইসলামিক ফাউন্ডেশনঃ ১১০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাতের পূর্বের দু’রাক‘আত (সুন্নাত) এত সংক্ষিপ্ত করতেন এমনকি আমি (মনে মনে) বলতাম, তিনি কি (শুধু) উম্মুল কিতাব (সূরাহ্ ফাতিহা) তিলাওয়াত করলেন? (আধুনিক প্রকাশনীঃ ১০৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1165</td></tr><tr><td>Arabic No</td><td>1165</td></tr><tr><td>Reference</td><td>Book 19 Hadith 44</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சுப்ஹு தொழு கைக்குமுன் சுருக்கமாக (ஓதி) இரண்டு ரக்அத் (சுன்னத்) தொழுவார்கள். எந்த அளவுக்கென்றால், அதில் அவர்கள் ‘அல்ஃபாத்திஹா’ அத்தியாயத்தை ஓதி னார்களா என்றுகூட நான் நினைப்பேன்.29 இந்த ஹதீஸ் இரண்டு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 19
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சுப்ஹு தொழு கைக்குமுன் சுருக்கமாக (ஓதி) இரண்டு ரக்அத் (சுன்னத்) தொழுவார்கள். எந்த அளவுக்கென்றால், அதில் அவர்கள் ‘அல்ஃபாத்திஹா’ அத்தியாயத்தை ஓதி னார்களா என்றுகூட நான் நினைப்பேன்.29 இந்த ஹதீஸ் இரண்டு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1165</td></tr><tr><td>Arabic No</td><td>1165</td></tr><tr><td>Reference</td><td>Book 19 Hadith 44</td></tr></tbody></table></div>
 

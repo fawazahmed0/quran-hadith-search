@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবূ শায়বা (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি এ ভয়ে সাপকে ছেড়ে দেবে যে, সে প্রতিশোধ গ্রহণ করবে, সে আমাদের দলভুক্ত নয়। কেননা, যখন থেকে আমরা সাপের বিরুদ্ধে যুদ্ধ ঘোষণা করেছি, তখন থেকে আমরা সাপ হতে নিরাপদ নই।
+। ইবনু ‘আব্বাস (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি প্রতিশোধের ভয়ে সাপ (না মেরে) ছেড়ে দিবে, সে আমাদের দলভুক্ত নয়। যখন থেকে এগুলোর সঙ্গে আমাদের যুদ্ধ শুরু হয়েছে তখন থেকে ‘আমরা এগুলোকে নিরাপদে ছেড়ে দেইনি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5250</td></tr><tr><td>Arabic No</td><td>5250</td></tr><tr><td>Reference</td><td>Book 43 Hadith 478</td></tr></tbody></table></div>
 

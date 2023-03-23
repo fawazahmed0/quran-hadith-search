@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... খালাস হাজরী (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আয়েশা (রাঃ)-কে বলতে শুনেছি, আমি এবং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার ঋতুকালীন সময়ে একই চাদরের নিচে শয়ন করতাম। অতঃপর তাঁর শরীর মোবারকে যদি কিছু (রক্ত) লাগত, তবে তিনি তা ধুয়ে ফেলতেন। আর যদি তার কাপড়ে কিছু (রক্ত) লাগত, তবে তিনি সে স্থান ধুয়ে ফেলতেন। আর তিনি তা পরিবর্তন না করে, তা পরা অবস্থায় নামায আদায় করতেন।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, হায়িয অবস্থায় আমি এবং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই কম্বলে রাত কাটাতাম। আমার দেহের রক্ত তাঁর দেহে লাগলে তিনি শুধু ঐ স্থানটি ধুয়ে নিতেন। আর যদি রক্তের কিছু তাঁর কাপড়ে লাগতো তখনও তিনি শুধু তাই ধুয়ে নিতেন এবং সেই কাপড় পরেই সালাত আদায় করতেন।[1] সহীহ। এটি গত হয়েছে হা/২৬৯।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2166</td></tr><tr><td>Arabic No</td><td>2166</td></tr><tr><td>Reference</td><td>Book 12 Hadith 121</td></tr></tbody></table></div>
 

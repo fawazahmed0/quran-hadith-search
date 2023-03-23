@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-এ সম্পর্কে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে আবূ সা‘ঈদ খুদরী (রাযি.)-এর সূত্রে হাদীস বর্ণিত হয়েছে। ২৯. ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাকে জাহান্নাম দেখানো হয়। (আমি দেখি), তার অধিবাসীদের বেশির ভাগই নারীজাতি; (কারণ) তারা কুফরী করে। জিজ্ঞেস করা হল, ‘তারা কি আল্লাহর সঙ্গে কুফরী করে?’ তিনি বললেনঃ ‘তারা স্বামীর অবাধ্য হয় এবং অকৃতজ্ঞ হয়।’ তুমি যদি দীর্ঘদিন তাদের কারো প্রতি ইহসান করতে থাক, অতঃপর সে তোমার সামান্য অবহেলা দেখতে পেলেই বলে ফেলে, ‘আমি কক্ষনো তোমার নিকট হতে ভালো ব্যবহার পাইনি।’ (৪৩১,৭৪৮,১০৫২,৩২০২,৫১৯৭; মুসলিম ৮/১ হাঃ ৮৮৪, আহমাদ ৩০৬৪) (আধুনিক প্রকাশনীঃ ২৮,ইসলামিক ফাউন্ডেশনঃ ২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+এ সম্পর্কে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে আবূ সা‘ঈদ খুদরী (রাযি.)-এর সূত্রে হাদীস বর্ণিত হয়েছে। ২৯. ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাকে জাহান্নাম দেখানো হয়। (আমি দেখি), তার অধিবাসীদের বেশির ভাগই নারীজাতি; (কারণ) তারা কুফরী করে। জিজ্ঞেস করা হল, ‘তারা কি আল্লাহর সঙ্গে কুফরী করে?’ তিনি বললেনঃ ‘তারা স্বামীর অবাধ্য হয় এবং অকৃতজ্ঞ হয়।’ তুমি যদি দীর্ঘদিন তাদের কারো প্রতি ইহসান করতে থাক, অতঃপর সে তোমার সামান্য অবহেলা দেখতে পেলেই বলে ফেলে, ‘আমি কক্ষনো তোমার নিকট হতে ভালো ব্যবহার পাইনি।’ (৪৩১,৭৪৮,১০৫২,৩২০২,৫১৯৭; মুসলিম ৮/১ হাঃ ৮৮৪, আহমাদ ৩০৬৪) (আধুনিক প্রকাশনীঃ ২৮,ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Zaid b
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் “(நான் சூரிய கிரகணத் தொழுகையில் இருந்தபோது) எனக்கு நரகம் காட்டப்பட்டது. நரகவாசிகளில் அதிகம்பேர் பெண்களாகவே இருந்தனர். பெண்கள் நிராகரிக்கின்றனர்” என்று கூறினார்கள். அப்போது “இறைவனையா அவர்கள் நிராகரிக்கிறார்கள்?” என்று கேட்கப்பட்டது. நபி (ஸல்) அவர்கள், “கணவனை நிராகரிக் கிறார்கள்; (அதாவது அவன் செய்த) உதவி களுக்கு நன்றி செய்ய மறுக்கிறார்கள். அவர்களில் ஒருத்திக்குக் காலமெல்லாம் நீ உதவி செய்து, பிறகு உன்னிடம் ஏதேனும் (குறை) ஒன்றை அவள் கண்டால், ‘உன்னி டமிருந்து எந்த நலனையும் நான் கண்ட தேயில்லை’ என்று சொல்லிவிடுவாள்” எனப் பதிலளித்தார்கள். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 2
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் “(நான் சூரிய கிரகணத் தொழுகையில் இருந்தபோது) எனக்கு நரகம் காட்டப்பட்டது. நரகவாசிகளில் அதிகம்பேர் பெண்களாகவே இருந்தனர். பெண்கள் நிராகரிக்கின்றனர்” என்று கூறினார்கள். அப்போது “இறைவனையா அவர்கள் நிராகரிக்கிறார்கள்?” என்று கேட்கப்பட்டது. நபி (ஸல்) அவர்கள், “கணவனை நிராகரிக் கிறார்கள்; (அதாவது அவன் செய்த) உதவி களுக்கு நன்றி செய்ய மறுக்கிறார்கள். அவர்களில் ஒருத்திக்குக் காலமெல்லாம் நீ உதவி செய்து, பிறகு உன்னிடம் ஏதேனும் (குறை) ஒன்றை அவள் கண்டால், ‘உன்னி டமிருந்து எந்த நலனையும் நான் கண்ட தேயில்லை’ என்று சொல்லிவிடுவாள்” எனப் பதிலளித்தார்கள். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Zaid b
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah ibn-i Abbas r.a şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: "Bana afeş (cehennem) gösterildi. Cehennemliklerin çoğunluğunun kadınlar olduğunu gördüm. Zira onlar inkar edenlerdir". Nebi (Sallallahu aleyhi ve Sellem)'e soruldu: "Allah'ı mı inkar ederler?" Nebi sallallahu aleyhi ve selem şöyle buyurdu: Kocalarını(n hakkını) inkar ederler, iyiliği inkar ederler. Onlardan birine uzun zaman iyilikte bulunsan, sonra senden (sevmediği) bir şey görse hemen 'zaten senden hiçbir iyilik görmedim' der". Tekrar: 431, 748, 1052, 3206, 5197
+Abdullah ibn-i Abbas r.a şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: "Bana afeş (cehennem) gösterildi. Cehennemliklerin çoğunluğunun kadınlar olduğunu gördüm. Zira onlar inkar edenlerdir". Nebi (Sallallahu aleyhi ve Sellem)'e soruldu: "Allah'ı mı inkar ederler?" Nebi sallallahu aleyhi ve selem şöyle buyurdu: Kocalarını(n hakkını) inkar ederler, iyiliği inkar ederler. Onlardan birine uzun zaman iyilikte bulunsan, sonra senden (sevmediği) bir şey görse hemen 'zaten senden hiçbir iyilik görmedim' der". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
 

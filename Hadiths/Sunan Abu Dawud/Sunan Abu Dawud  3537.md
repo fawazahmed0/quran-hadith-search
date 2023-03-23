@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আমর (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন যে, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ্‌র শপথ! আজ হতে আমি কুরায়শ মুহাজির, আনসার, দাওসী অথবা ছাকাফী ব্যতীত অন্য কারো নিকট হতে হাদিয়া গ্রহণ করব না।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আল্লাহর শপথ! আজকের দিনের পর থেকে আমি কুরাইশ মুহাজির, আনসার এবং দাওস অথবা সাক্বীফ গোত্রের লোক ছাড়া অন্য কারো উপঢৌকন নিবো না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3537</td></tr><tr><td>Arabic No</td><td>3537</td></tr><tr><td>Reference</td><td>Book 24 Hadith 122</td></tr></tbody></table></div>
 

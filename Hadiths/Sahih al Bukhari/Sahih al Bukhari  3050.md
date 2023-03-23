@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জুবাইর (ইবনু মুতয়িম) (রাঃ) হতে বর্ণিত। আর তিনি বাদার যুদ্ধে বন্দীদের মুক্ত করার জন্য এসেছিলেন। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মাগরিবের সালাতে সূরায়ে তূর পড়তে শুনেছি। (৭৬৫) (আধুনিক প্রকাশনীঃ ২৮২২, ইসলামিক ফাউন্ডেশনঃ ২৮৩২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জুবাইর (ইবনু মুতয়িম) (রাঃ) হতে বর্ণিত। আর তিনি বাদার যুদ্ধে বন্দীদের মুক্ত করার জন্য এসেছিলেন। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মাগরিবের সালাতে সূরায়ে তূর পড়তে শুনেছি। (৭৬৫) (আধুনিক প্রকাশনীঃ ২৮২২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 56 Hadith 256</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Mahmud] telah bercerita kepadaku ['Abdur Razzaq] telah
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஹம்மத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: என் தந்தை ஜுபைர் பின் முத்இம் (ரலி) அவர்கள் பத்ர் போர்க் கைதிகளின் (பிணைத்தொகை மற்றும் விடுதலை) விஷயமாக நபி (ஸல்) அவர்களிடம் சென்றிருந்தார்கள். அப்போது, ‘‘நபி (ஸல்) அவர்கள் மஃக்ரிப் தொழுகையில் ‘அத்தூர்’ எனும் (52ஆவது) அத்தியாயத்தை ஓதக் கேட்டேன்” என்று (என் தந்தை) கூறினார்கள்.162 அத்தியாயம் : 56
+முஹம்மத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: என் தந்தை ஜுபைர் பின் முத்இம் (ரலி) அவர்கள் பத்ர் போர்க் கைதிகளின் (பிணைத்தொகை மற்றும் விடுதலை) விஷயமாக நபி (ஸல்) அவர்களிடம் சென்றிருந்தார்கள். அப்போது, ‘‘நபி (ஸல்) அவர்கள் மஃக்ரிப் தொழுகையில் ‘அத்தூர்’ எனும் (52ஆவது) அத்தியாயத்தை ஓதக் கேட்டேன்” என்று (என் தந்தை) கூறினார்கள்.162 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 56 Hadith 256</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (ইবনু মালিক) (রাঃ) হতে বর্ণিত যে, মক্কা্বাসী কাফিররা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট নিদর্শন দেখানোর জন্য বললে তিনি তাদেরকে চাঁদ দু’ভাগ করে দেখালেন। (৩৮৬৮, ৪৮৬৭, ৪৮৬৮, মুসলিম ৫০/৮, হাঃ ২৮০২) (আধুনিক প্রকাশনীঃ ৩৩৬৬, ইসলামিক ফাউন্ডেশনঃ ৩৩৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (ইবনু মালিক) (রাঃ) হতে বর্ণিত যে, মক্কা্বাসী কাফিররা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট নিদর্শন দেখানোর জন্য বললে তিনি তাদেরকে চাঁদ দু’ভাগ করে দেখালেন। (৩৮৬৮, ৪৮৬৭, ৪৮৬৮, মুসলিম ৫০/৮, হাঃ ২৮০২) (আধুনিক প্রকাশনীঃ ৩৩৬৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3637</td></tr><tr><td>Arabic No</td><td>3637</td></tr><tr><td>Reference</td><td>Book 61 Hadith 141</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Abdullah bin Muhammad] telah bercerita kepada kami [Yu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: மக்காவாசிகள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ஓர் (அற்புதச்) சான்றைக் காட்டும்படி கேட்டார்கள். ஆகவே, சந்திரன் (இரண்டாகப்) பிளவுண்ட நிகழ்ச்சியை (தம் உண்மைக்குச் சான்றாக) நபி (ஸல்) அவர்கள் காட்டினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 61
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: மக்காவாசிகள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ஓர் (அற்புதச்) சான்றைக் காட்டும்படி கேட்டார்கள். ஆகவே, சந்திரன் (இரண்டாகப்) பிளவுண்ட நிகழ்ச்சியை (தம் உண்மைக்குச் சான்றாக) நபி (ஸல்) அவர்கள் காட்டினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3637</td></tr><tr><td>Arabic No</td><td>3637</td></tr><tr><td>Reference</td><td>Book 61 Hadith 141</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭৯৮। জারহাদ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার পাশ দিয়ে যাচ্ছিলেন আর তখন তার উরু খোলা অবস্থায় ছিল। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ তোমার উরু ঢেকে রাখ, কেননা এটাও আভরণীয় অঙ্গ। - সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
+। জারহাদ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার পাশ দিয়ে যাচ্ছিলেন আর তখন তার উরু খোলা অবস্থায় ছিল। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ তোমার উরু ঢেকে রাখ, কেননা এটাও আভরণীয় অঙ্গ। - সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2798</td></tr><tr><td>Arabic No</td><td>2798</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
 

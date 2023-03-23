@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+(…/২৭৩২) তিনি (সাফওয়ান) বলেন, এরপর আমি বাজারের দিকে বের হলাম। আর আবু দারদা (রাযিঃ) এর দেখা পেলাম, তখন তিনি আমাকে অনুরূপ কথা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করলেন। (ইসলামিক ফাউন্ডেশন ৬৬৮০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6929</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭৪২। সালত ইবনু আবদুল্লাহ ইবনু নাওফাল (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি ইবনু আব্বাস (রাঃ)-কে ডান হাতে আংটি পরতে দেখেছি। আমার ধারণা তিনি এও বলেছেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে তার ডান হাতে আংটি পরতে দেখেছি। হাসান সহীহ, ইরওয়া (৩/৩০৩-৩০৪), মুখতাসার শামা-ইল (৮০) আবূ ঈসা বলেন, ইমাম বুখারী বলেছেন, মুহাম্মাদ ইবনু ইসহাক হতে, আস-সালত ইবনু আবদুল্লাহ ইবনু নাওফাল-এর সূত্রে বর্ণিত হাদীসটি হাসান সহীহ।
+। সালত ইবনু আবদুল্লাহ ইবনু নাওফাল (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি ইবনু আব্বাস (রাঃ)-কে ডান হাতে আংটি পরতে দেখেছি। আমার ধারণা তিনি এও বলেছেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে তার ডান হাতে আংটি পরতে দেখেছি। হাসান সহীহ, ইরওয়া (৩/৩০৩-৩০৪), মুখতাসার শামা-ইল (৮০) আবূ ঈসা বলেন, ইমাম বুখারী বলেছেন, মুহাম্মাদ ইবনু ইসহাক হতে, আস-সালত ইবনু আবদুল্লাহ ইবনু নাওফাল-এর সূত্রে বর্ণিত হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1742</td></tr><tr><td>Arabic No</td><td>1742</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
 

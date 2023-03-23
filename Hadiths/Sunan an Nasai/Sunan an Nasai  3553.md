@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন মানসূর (রহঃ) ... ফাতিমা বিনত আবু হুবায়শ (রাঃ) বলেন, তিনি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট গিয়ে রক্ত নির্গমনের কথা ব্যক্ত করলেন। তিনি তাকে বললেনঃ এই রক্ত কোন শিরা হতে প্রবাহিত হয় অর্থাৎ জরায়ু হতে আসে না। যখন তোমার হায়ায় আরম্ভ হয়, তখন তুমি এর প্রতি লক্ষ্য রাখ। তখন নামায় পড়বে না। হায়যের সময় চলে গেলে তুমি পাক হয়ে যাবে। তিনি বললেনঃ উভয় হয়েযের মধ্যবর্তী সময় নামায পড়বে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3553</td></tr><tr><td>Arabic No</td><td>3553</td></tr><tr><td>Reference</td><td>Book 27 Hadith 167</td></tr></tbody></table></div>
 

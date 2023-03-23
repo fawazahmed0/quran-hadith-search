@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আদী (রহ.) হতে বর্ণিত। তিনি বারাআ (রাঃ)-কে বলতে শুনেছেন যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হাসসান (রাঃ)-কে বলেছেন, কবিতার দ্বারা তাদের (কাফিরদের) দোষত্রুটি বর্ণনা কর অথবা (বর্ণনাকারীর সন্দেহ) তাদের দোষত্রুটি বর্ণনা করার জবাব দাও। জিবরীল (আঃ) তোমার সঙ্গে থাকবেন। [৩২১৩] (আধুনিক প্রকাশনীঃ ৩৮১৭, ইসলামিক ফাউন্ডেশনঃ ৩৮২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আদী (রহ.) হতে বর্ণিত। তিনি বারাআ (রাঃ)-কে বলতে শুনেছেন যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হাসসান (রাঃ)-কে বলেছেন, কবিতার দ্বারা তাদের (কাফিরদের) দোষত্রুটি বর্ণনা কর অথবা (বর্ণনাকারীর সন্দেহ) তাদের দোষত্রুটি বর্ণনা করার জবাব দাও। জিবরীল (আঃ) তোমার সঙ্গে থাকবেন। [৩২১৩] (আধুনিক প্রকাশনীঃ ৩৮১৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4123</td></tr><tr><td>Arabic No</td><td>4123</td></tr><tr><td>Reference</td><td>Book 64 Hadith 167</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Al-Bara:The Prophet (ﷺ) said to Hassan, "Abuse them (with your poems)
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறிய தாவது: நபி (ஸல்) அவர்கள், (“பனூ குறைழா' நாளில் கவிஞர்) ஹஸ்ஸான் பின் ஸாபித் (ரலி) அவர்களிடம், “இணைவைப்பாளர்களைத் தாக்கி வசைக்கவி பாடுங்கள். ஜிப்ரீல் உங்களுடன் (உறுதுணையாக) இருப்பார்” என்று கூறினார்கள்.197 அத்தியாயம் : 64
+பராஉ (ரலி) அவர்கள் கூறிய தாவது: நபி (ஸல்) அவர்கள், (“பனூ குறைழா' நாளில் கவிஞர்) ஹஸ்ஸான் பின் ஸாபித் (ரலி) அவர்களிடம், “இணைவைப்பாளர்களைத் தாக்கி வசைக்கவி பாடுங்கள். ஜிப்ரீல் உங்களுடன் (உறுதுணையாக) இருப்பார்” என்று கூறினார்கள்.197 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4123</td></tr><tr><td>Arabic No</td><td>4123</td></tr><tr><td>Reference</td><td>Book 64 Hadith 167</td></tr></tbody></table></div>
 

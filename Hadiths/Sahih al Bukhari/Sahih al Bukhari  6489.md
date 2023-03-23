@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কবিতার কবিতায় সর্বাধিক সত্য যে কথাটি বলেছেন তা হলঃ ‘‘জেনে রেখো আল্লাহ্ ব্যতীত যা কিছু আছে সবই বাতিল।[1]’’ [৩৮৪১] (আধুনিক প্রকাশনী- ৬০৩৯, ইসলামিক ফাউন্ডেশন- ৬০৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কবিতার কবিতায় সর্বাধিক সত্য যে কথাটি বলেছেন তা হলঃ ‘‘জেনে রেখো আল্লাহ্ ব্যতীত যা কিছু আছে সবই বাতিল।[1]’’ [৩৮৪১] (আধুনিক প্রকাশনী- ৬০৩৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6489</td></tr><tr><td>Arabic No</td><td>6489</td></tr><tr><td>Reference</td><td>Book 81 Hadith 78</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Almutsanna] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: “அறிக! அல்லாஹ்வைத் தவிர உள்ள பொருட்கள் அனைத்தும் அழியக் கூடியவையே” எனும் பாடல்தான் கவிஞர்கள் சொன்ன வரிகளிலேயே மிக உண்மையானதாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.78 அத்தியாயம் : 81
+நபி (ஸல்) அவர்கள் கூறினார்கள்: “அறிக! அல்லாஹ்வைத் தவிர உள்ள பொருட்கள் அனைத்தும் அழியக் கூடியவையே” எனும் பாடல்தான் கவிஞர்கள் சொன்ன வரிகளிலேயே மிக உண்மையானதாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.78 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6489</td></tr><tr><td>Arabic No</td><td>6489</td></tr><tr><td>Reference</td><td>Book 81 Hadith 78</td></tr></tbody></table></div>
 

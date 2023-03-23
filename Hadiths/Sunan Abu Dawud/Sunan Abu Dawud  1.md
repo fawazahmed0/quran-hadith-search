@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবনু মাসলামা .... মুগীরা ইবনু শোবা (রাঃ) হতে বর্ণিত তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম যখন পায়খানায় গমন করতেন, তখন বহুদূর যেতেন। -(তিরমিযী, নাসাঈ- ইবনু মাজাহ)।
+। মুগীরাহ ইবনু শু’বাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পায়খানার উদ্দেশ্যে দূরে চলে যেতেন।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1</td></tr><tr><td>Arabic No</td><td>1</td></tr><tr><td>Reference</td><td>Book 1 Hadith 1</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab al Qa'nabi] tel
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muğîre b. Şu'be'den demiştir ki; "Nebi Sallellahu aleyhi ve seliem abdest bozacağı zaman (halkın gözünden) uzaklaşırdı" Diğer tahric: Tîrimizi, taharet; Nesaî, tahare; İbn Mace tahare; Ahmed b. Hanbel, IV, 248
+Muğîre b. Şu'be'den demiştir ki; "Nebi Sallellahu aleyhi ve seliem abdest bozacağı zaman (halkın gözünden) uzaklaşırdı" Diğer tahric: Tîrimizi, taharet; Nesaî, tahare; İbn Mace tahare; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1</td></tr><tr><td>Arabic No</td><td>1</td></tr><tr><td>Reference</td><td>Book 1 Hadith 1</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি দশটি বছর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমত করেছি। কিন্তু তিনি কক্ষনো আমার প্রতি উঃ শব্দটি করেননি। এ কথা জিজ্ঞেস করেননি, তুমি এ কাজ কেন করলে এবং কেন করলে না? [২৭৬৮; মুসলিম ৪৩/১৩, হাঃ ২৩০৯, আহমাদ ১৩০২০] (আধুনিক প্রকাশনী- ৫৬০৩, ইসলামিক ফাউন্ডেশন- ৫৪৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি দশটি বছর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমত করেছি। কিন্তু তিনি কক্ষনো আমার প্রতি উঃ শব্দটি করেননি। এ কথা জিজ্ঞেস করেননি, তুমি এ কাজ কেন করলে এবং কেন করলে না? [২৭৬৮; মুসলিম ৪৩/১৩, হাঃ ২৩০৯, আহমাদ ১৩০২০] (আধুনিক প্রকাশনী- ৫৬০৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6038</td></tr><tr><td>Arabic No</td><td>6038</td></tr><tr><td>Reference</td><td>Book 78 Hadith 68</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] dia mendengar [Sallam bin Misk
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுக்குப் பத்து ஆண்டுகள் சேவகம் புரிந்தேன். (மனம் வேதனைப்படும்படி) என்னை “ச்சீ ‘‘ என்றோ, “(இதை) ஏன் செய்தாய்” என்றோ, “நீ (இப்படிச்) செய்திருக்கக் கூடாதா?” என்றோ அவர்கள் சொன்ன தில்லை. அத்தியாயம் : 78
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுக்குப் பத்து ஆண்டுகள் சேவகம் புரிந்தேன். (மனம் வேதனைப்படும்படி) என்னை “ச்சீ ‘‘ என்றோ, “(இதை) ஏன் செய்தாய்” என்றோ, “நீ (இப்படிச்) செய்திருக்கக் கூடாதா?” என்றோ அவர்கள் சொன்ன தில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6038</td></tr><tr><td>Arabic No</td><td>6038</td></tr><tr><td>Reference</td><td>Book 78 Hadith 68</td></tr></tbody></table></div>
 

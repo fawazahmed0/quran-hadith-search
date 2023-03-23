@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে বলতে শুনেছি যে, তিনটি জিনিসে অকল্যাণ আছেঃ ঘোড়ায়, নারীতে ও বাড়িতে। (২০৯৯) (আধুনিক প্রকাশনীঃ ২৬৪৮, ইসলামিক ফাউন্ডেশনঃ ২৬৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে বলতে শুনেছি যে, তিনটি জিনিসে অকল্যাণ আছেঃ ঘোড়ায়, নারীতে ও বাড়িতে। (২০৯৯) (আধুনিক প্রকাশনীঃ ২৬৪৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2858</td></tr><tr><td>Arabic No</td><td>2858</td></tr><tr><td>Reference</td><td>Book 56 Hadith 74</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'ai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: ‘‘அபசகுனம் என்பது (எதிலாவது இருக்க முடியும் என்றால்) குதிரை, பெண், வீடு ஆகிய மூன்றில் மட்டுமே (இருக்க முடியும்)” என்று நபி (ஸல்) அவர்கள் கூற நான் கேட்டிருக்கிறேன். அத்தியாயம் : 56
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: ‘‘அபசகுனம் என்பது (எதிலாவது இருக்க முடியும் என்றால்) குதிரை, பெண், வீடு ஆகிய மூன்றில் மட்டுமே (இருக்க முடியும்)” என்று நபி (ஸல்) அவர்கள் கூற நான் கேட்டிருக்கிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2858</td></tr><tr><td>Arabic No</td><td>2858</td></tr><tr><td>Reference</td><td>Book 56 Hadith 74</td></tr></tbody></table></div>
 

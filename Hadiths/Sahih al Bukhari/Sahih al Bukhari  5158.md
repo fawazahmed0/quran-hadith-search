@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উরওয়াহ (রহ.) হতে বর্ণিত। তিনি বলেন, যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আয়িশাহ (রাঃ)-কে বিয়ে করেন তখন তাঁর বয়স ছিল ছয় বছর এবং যখন বাসর করেন তখন তাঁর বয়স ছিল নয় বছর এবং নয় বছর তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে জীবন কাটান। [৩৮৯৪](আধুনিক প্রকাশনী- ৪৭৭৮, ইসলামিক ফাউন্ডেশন- ৪৭৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উরওয়াহ (রহ.) হতে বর্ণিত। তিনি বলেন, যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আয়িশাহ (রাঃ)-কে বিয়ে করেন তখন তাঁর বয়স ছিল ছয় বছর এবং যখন বাসর করেন তখন তাঁর বয়স ছিল নয় বছর এবং নয় বছর তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে জীবন কাটান। [৩৮৯৪](আধুনিক প্রকাশনী- ৪৭৭৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5158</td></tr><tr><td>Arabic No</td><td>5158</td></tr><tr><td>Reference</td><td>Book 67 Hadith 93</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah bin Utbah] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ்ஸ’பைர் (ரஹ்) அவர்கள் கூறியதாவது: (என் சிற்றன்னை) ஆயிஷா (ரலி) அவர்களை, அவர் ஆறு வயதுடையவராய் இருந்தபோது நபி (ஸல்) அவர்கள் மணந்தார்கள்; அவருக்கு ஒன்பது வயதானபோது, அவருடன் தாம்பத்திய உறவைத் தொடங்கினார்கள். அவர்களுடன் ஆயிஷா (ரலி) அவர்கள் ஒன்பது ஆண்டுகள் (மனைவியாக) வாழ்ந்தார்கள்.97 அத்தியாயம் : 67
+உர்வா பின் அஸ்ஸ’பைர் (ரஹ்) அவர்கள் கூறியதாவது: (என் சிற்றன்னை) ஆயிஷா (ரலி) அவர்களை, அவர் ஆறு வயதுடையவராய் இருந்தபோது நபி (ஸல்) அவர்கள் மணந்தார்கள்; அவருக்கு ஒன்பது வயதானபோது, அவருடன் தாம்பத்திய உறவைத் தொடங்கினார்கள். அவர்களுடன் ஆயிஷா (ரலி) அவர்கள் ஒன்பது ஆண்டுகள் (மனைவியாக) வாழ்ந்தார்கள்.97 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5158</td></tr><tr><td>Arabic No</td><td>5158</td></tr><tr><td>Reference</td><td>Book 67 Hadith 93</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কেউ তার মুসলিম ভাইকে ‘হে কাফির’ বলে ডাকে, তখন তা তাদের দু’জনের কোন একজনের উপর বর্তায়। (আধুনিক প্রকাশনী- ৫৬৬৪, ইসলামিক ফাউন্ডেশন- ৫৫৬০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কেউ তার মুসলিম ভাইকে ‘হে কাফির’ বলে ডাকে, তখন তা তাদের দু’জনের কোন একজনের উপর বর্তায়। (আধুনিক প্রকাশনী- ৫৬৬৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6103</td></tr><tr><td>Arabic No</td><td>6103</td></tr><tr><td>Reference</td><td>Book 78 Hadith 130</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad] dan [Ahmad bin Sa'id] keduanya berkata
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதர் தம் (முஸ்லிம்) சகோ தரரை நோக்கி ‘காஃபிரே!’ (இறைமறுப் பாளனே!) என்று கூறினால் நிச்சயம் அவ்விருவரில் ஒருவர் அச்சொல்லுக்கு உரியவராகத் திரும்புவார்.118 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 78
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதர் தம் (முஸ்லிம்) சகோ தரரை நோக்கி ‘காஃபிரே!’ (இறைமறுப் பாளனே!) என்று கூறினால் நிச்சயம் அவ்விருவரில் ஒருவர் அச்சொல்லுக்கு உரியவராகத் திரும்புவார்.118 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6103</td></tr><tr><td>Arabic No</td><td>6103</td></tr><tr><td>Reference</td><td>Book 78 Hadith 130</td></tr></tbody></table></div>
 

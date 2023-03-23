@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৩০. যাইদ ইবন আসলাম (রাঃ) বর্ণনা করেন, উমর ইবন খাত্তাব (রাঃ) বলিতেন, হে আল্লাহ! এমন ব্যক্তির হাতে আমাকে হত্যা করাইও না যে ব্যক্তি তোমাকে একটি সিজদাও করিয়াছে।[1]
+রেওয়ায়ত ৩০. যাইদ ইবন আসলাম (রাঃ) বর্ণনা করেন, উমর ইবন খাত্তাব (রাঃ) বলিতেন, হে আল্লাহ! এমন ব্যক্তির হাতে আমাকে হত্যা করাইও না যে ব্যক্তি তোমাকে একটি সিজদাও করিয়াছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>988</td></tr><tr><td>Arabic No</td><td>988</td></tr><tr><td>Reference</td><td>Book 21 Hadith 30</td></tr></tbody></table></div>
 

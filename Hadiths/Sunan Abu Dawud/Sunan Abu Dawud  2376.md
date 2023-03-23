@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাসীর ..... নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জনৈক সাহাবী হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তি বমি করে, তার রোযা ভঙ্গ হয় তবে যার স্বপ্নদোষ হয় এবং যে শিংগা লাগায় এতে রোযা ভঙ্গ হয় না।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জনৈক সাহাবী সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কারো বমি হলে, স্বপ্নদোষ হলে এবং রক্তমোক্ষণ করালে সে সওম ভংগ করবে না।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 14 Hadith 64</td></tr></tbody></table></div>
 

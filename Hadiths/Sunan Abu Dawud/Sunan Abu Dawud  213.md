@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হিশাম ইবনু আব্দুল মালিক .... মুআয ইবনু জাবাল (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে জিজ্ঞাসা করি যে, ঋতুবতী অবস্থায় স্ত্রীলোক পুরুষের জন্য কতটুকু হালাল? তিনি বলেন, কাপড়ের উপর যতটুকু সম্ভব তবে এটা থেকেও বেচে থাকা উত্তম। আবূ দাউদ (রহঃ) বলেন, সনদের দিক থেকে হাদীছটি খুব শক্তিশালী নয়।
+। মু‘আয ইবনু জাবাল (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞাসা করলাম, ঋতুবতী অবস্থায় স্ত্রীলোক পুরুষের জন্য কতটুকু হালাল? তিনি বললেন, পায়জামার উপরের অংশ (হালাল)। তবে তা থেকেও বেঁচে থাকা উত্তম।[1] দুর্বল : যঈফ আল-জামি‘উস সাগীর ৫১১৫, মিশকাত ৫৫২। ইমাম আবূ দাউদ (রহঃ) বলেন, হাদীসটি শক্তিশালী নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>213</td></tr><tr><td>Arabic No</td><td>213</td></tr><tr><td>Reference</td><td>Book 1 Hadith 213</td></tr></tbody></table></div>
 

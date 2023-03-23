@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৩৪. যাইদ ইবন আসলাম (রহঃ) বর্ণনা করেন, উমর ইবন খাত্তাব (রাঃ) বলতেন, হে আল্লাহ! তোমার রাহে শাহাদত আর তোমার রাসূলের এই নগরে (মদীনায়) আমার মৃত্যু তোমার কাছে আমি প্রার্থনা করি।[1]
+রেওয়ায়ত ৩৪. যাইদ ইবন আসলাম (রহঃ) বর্ণনা করেন, উমর ইবন খাত্তাব (রাঃ) বলতেন, হে আল্লাহ! তোমার রাহে শাহাদত আর তোমার রাসূলের এই নগরে (মদীনায়) আমার মৃত্যু তোমার কাছে আমি প্রার্থনা করি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>992</td></tr><tr><td>Arabic No</td><td>992</td></tr><tr><td>Reference</td><td>Book 21 Hadith 34</td></tr></tbody></table></div>
 

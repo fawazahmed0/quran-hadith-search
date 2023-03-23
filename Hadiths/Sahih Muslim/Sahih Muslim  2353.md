@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২৪৩, আন্তর্জাতিক নাম্বারঃ ১০১৭ ২২৪৩-(৭০/...) উবায়দুল্লাহ ইবনু উমার আল কাওয়ারীরী, আবূ কামিল এবং মুহাম্মাদ আবদুল মালিক আল আল উমাবী (রহঃ) ..... মুন্‌যির ইবনু জারীর (রাযিঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে বসা ছিলাম। এ সময় চামড়ার আবা পরিহিত একদল লোক আসলেন ..... পূর্বের হাদীসের অনুরূপ। এতে আরো আছে, অতঃপর তিনি যুহরের সালাত (সালাত/নামাজ/নামায) আদায় করলেন। অতঃপর ছোট একটি মিম্বারে উঠে আল্লাহ তা’আলার প্রশংসা ও গুণগান করলেন। অতঃপর বললেন, আল্লাহ তা'আলা তার কিতাবে নাযিল করেছেন- “হে মানব গোষ্ঠী! তোমরা তোমাদের প্রভুকে ভয় কর। (ইসলামিক ফাউন্ডেশন ২২২২, ইসলামীক সেন্টার ২২২৩)
+উবায়দুল্লাহ ইবনু উমার আল কাওয়ারীরী, আবূ কামিল এবং মুহাম্মাদ আবদুল মালিক আল আল উমাবী (রহঃ) ..... মুন্‌যির ইবনু জারীর (রাযিঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে বসা ছিলাম। এ সময় চামড়ার আবা পরিহিত একদল লোক আসলেন ..... পূর্বের হাদীসের অনুরূপ। এতে আরো আছে, অতঃপর তিনি যুহরের সালাত (সালাত/নামাজ/নামায) আদায় করলেন। অতঃপর ছোট একটি মিম্বারে উঠে আল্লাহ তা’আলার প্রশংসা ও গুণগান করলেন। অতঃপর বললেন, আল্লাহ তা'আলা তার কিতাবে নাযিল করেছেন- “হে মানব গোষ্ঠী! তোমরা তোমাদের প্রভুকে ভয় কর। (ইসলামিক ফাউন্ডেশন ২২২২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2353</td></tr><tr><td>Arabic No</td><td>1017.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 90</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Mundhir b. Jarir narrated on the authority of his father:When we were sitting in the company of the Messenger of Allah (ﷺ). There came people dressed in striped woollen clothes, and the rest of the hadith in the same, and there (it is also mentioned):" He observed the Zuhr prayer and then climbed up a small pulpit, praised Allah, lauded Him, and then said: Verily Allah in His Book has revealed: 'O people, fear your Lord, ' etc." (iv. 1)
+Mundhir b. Jarir narrated on the authority of his father:When we were sitting in the company of the Messenger of Allah (ﷺ). There came people dressed in striped woollen clothes, and the rest of the hadith in the same, and there (it is also mentioned):" He observed the Zuhr prayer and then climbed up a small pulpit, praised Allah, lauded Him, and then said: Verily Allah in His Book has revealed: 'O people, fear your Lord, ' etc." (iv)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2353</td></tr><tr><td>Arabic No</td><td>1017.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 90</td></tr></tbody></table></div>
 

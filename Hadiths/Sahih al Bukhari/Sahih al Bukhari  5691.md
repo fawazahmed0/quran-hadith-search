@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিঙ্গা লাগিয়েছেন এবং যে ব্যক্তি শিঙ্গা লাগিয়ে দেয় তাকে পারিশ্রমিক দিয়েছেন আর তিনি নাকে ঔষধ টেনে নিয়েছেন। [১৮৩৫; মুসলিম ১৫/১১, হাঃ ১২০২] (আধুনিক প্রকাশনী- ৫২৮০, ইসলামিক ফাউন্ডেশন- ৫১৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিঙ্গা লাগিয়েছেন এবং যে ব্যক্তি শিঙ্গা লাগিয়ে দেয় তাকে পারিশ্রমিক দিয়েছেন আর তিনি নাকে ঔষধ টেনে নিয়েছেন। [১৮৩৫; মুসলিম ১৫/১১, হাঃ ১২০২] (আধুনিক প্রকাশনী- ৫২৮০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5691</td></tr><tr><td>Arabic No</td><td>5691</td></tr><tr><td>Reference</td><td>Book 76 Hadith 14</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள். குருதி உறிஞ்சி எடுப்பவருக்கு அவருடைய ஊதியத்தைக் கொடுத்தார்கள். மேலும், தமது மூக்கில் (சொட்டு)மருந்து விட்டுக்கொண்டார்கள்.12 அத்தியாயம் : 76
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள். குருதி உறிஞ்சி எடுப்பவருக்கு அவருடைய ஊதியத்தைக் கொடுத்தார்கள். மேலும், தமது மூக்கில் (சொட்டு)மருந்து விட்டுக்கொண்டார்கள்.12 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5691</td></tr><tr><td>Arabic No</td><td>5691</td></tr><tr><td>Reference</td><td>Book 76 Hadith 14</td></tr></tbody></table></div>
 

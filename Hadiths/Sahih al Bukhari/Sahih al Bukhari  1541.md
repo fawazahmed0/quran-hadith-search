@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল-হুলাইফার মসজিদের নিকট হতে ইহরাম বেঁধেছেন। (মুসলিম ১৫/৪, হাঃ ১১৮৬ ) (আধুনিক প্রকাশনীঃ , ইসলামিক ফাউন্ডেশনঃ ১৪৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল-হুলাইফার মসজিদের নিকট হতে ইহরাম বেঁধেছেন। (মুসলিম ১৫/৪, হাঃ ১১৮৬ ) (আধুনিক প্রকাশনীঃ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1541</td></tr><tr><td>Arabic No</td><td>1541</td></tr><tr><td>Reference</td><td>Book 25 Hadith 28</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ‘துல்ஹுலைஃபா’ பள்ளிவாசலைத் தவிர வேறெங்கும் இஹ்ராம் கட்டியதில்லை. இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 25
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ‘துல்ஹுலைஃபா’ பள்ளிவாசலைத் தவிர வேறெங்கும் இஹ்ராம் கட்டியதில்லை. இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1541</td></tr><tr><td>Arabic No</td><td>1541</td></tr><tr><td>Reference</td><td>Book 25 Hadith 28</td></tr></tbody></table></div>
 

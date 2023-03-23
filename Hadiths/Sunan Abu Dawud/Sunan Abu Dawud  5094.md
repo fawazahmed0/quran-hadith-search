@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম (রহঃ) .... উম্মু সালামা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সব সময় আমার ঘর থেকে বের হওয়াকালে আকাশের দিকে মুখ করে এ দু'আ পাঠ করতেঃ হে আল্লাহ্‌! আমি আপনার পানাহ চাই গুমরাহ হওয়া থেকে অথবা গুমরাহ করা থেকে; পদস্খলন হওয়া থেকে অথবা পদস্খলন করা থেকে; জুলুম করা থেকে বা মাজলুম হওয়া থেকে; মূর্খতা থেকে অথবা মূর্খেত আচরণ থেকে।
+। উম্মু সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখনই আমার ঘর থেকে বের হতেন, তখন আকাশের দিকে মাথা তুলে বলতেনঃ ‘‘হে আল্লাহ! আমি আপনার নিকট পথভ্রষ্ট হওয়া বা পথভ্রষ্ট করা, গুনাহ করা বা গুনাহের দিকে ধাবিত করা, উৎপীড়ন করা বা উৎপীড়িত হওয়া, অজ্ঞতা প্রকাশ করা বা অজ্ঞত প্রকাশ্যের পাত্র হওয়া থেকে আশ্রয় চাইছি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 43 Hadith 322</td></tr></tbody></table></div>
 

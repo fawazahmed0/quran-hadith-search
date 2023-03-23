@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আমার পায়ের উপর হেলান দেয়া অবস্থায় বলতে শুনেছিঃ হে আল্লাহ! আমাকে ক্ষমা কর, আমার প্রতি দয়া কর, আর আমাকে মহান বন্ধুর সঙ্গে মিলিত কর। [৪৪৪০] (আধুনিক প্রকাশনী- ৫২৬৩, ইসলামিক ফাউন্ডেশন- ৫১৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আমার পায়ের উপর হেলান দেয়া অবস্থায় বলতে শুনেছিঃ হে আল্লাহ! আমাকে ক্ষমা কর, আমার প্রতি দয়া কর, আর আমাকে মহান বন্ধুর সঙ্গে মিলিত কর। [৪৪৪০] (আধুনিক প্রকাশনী- ৫২৬৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5674</td></tr><tr><td>Arabic No</td><td>5674</td></tr><tr><td>Reference</td><td>Book 75 Hadith 34</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aisha:I heard the Prophet (ﷺ) , who was resting against me, saying, "O Allah! Excuse me and bestow Your Mercy on me and let me join with the highest companions (in Paradise)." See Qur'an (4.69)
+Narrated 'Aisha:I heard the Prophet (ﷺ) , who was resting against me, saying, "O Allah! Excuse me and bestow Your Mercy on me and let me join with the highest companions (in Paradise)." See Qur'an
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5674</td></tr><tr><td>Arabic No</td><td>5674</td></tr><tr><td>Reference</td><td>Book 75 Hadith 34</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Abu Syaibah] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (இறப்பதற்கு முன்பு) என்மீது சாய்ந்தபடி, ‘‘இறைவா! எனக்கு மன்னிப்பளிப்பாயாக. எனக்குக் கருணை புரிவாயாக. மிக்க மேலான தோழர்களுடன் (சொர்க்கத்தில்) என்னைச் சேர்த்தருள்வாயாக” என்று பிரார்த்திப்பதை நான் செவியுற்றேன்.29 அத்தியாயம் : 75
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (இறப்பதற்கு முன்பு) என்மீது சாய்ந்தபடி, ‘‘இறைவா! எனக்கு மன்னிப்பளிப்பாயாக. எனக்குக் கருணை புரிவாயாக. மிக்க மேலான தோழர்களுடன் (சொர்க்கத்தில்) என்னைச் சேர்த்தருள்வாயாக” என்று பிரார்த்திப்பதை நான் செவியுற்றேன்.29 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5674</td></tr><tr><td>Arabic No</td><td>5674</td></tr><tr><td>Reference</td><td>Book 75 Hadith 34</td></tr></tbody></table></div>
 

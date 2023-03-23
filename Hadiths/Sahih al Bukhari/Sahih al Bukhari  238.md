@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাযি.) হতে বর্ণিত। তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছেন যে, আমরা শেষে আগমনকারী এবং (ক্বিয়ামাত (কিয়ামত) দিবসে) অগ্রবর্তী। (৮৭৬, ৮৯৬, ২৯৫৬, ৩৪৮৬, ৬৬২৪, ৬৮৮৭,৭০৩৬,৭৪৯৫ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ ২৩৮) এ সনদেই তিনি বলেনঃ তোমাদের কেউ যেন স্থির- যা প্রবাহিত নয় এমন পানিতে কখনো পেশাব না করে। (সম্ভবত) পরে সে আবার তাতে গোসল করবে। (আধুনিক প্রকাশনীঃ ২৩২, ইসলামিক ফাউন্ডেশনঃ ২৩৮ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>238</td></tr><tr><td>Arabic No</td><td>238</td></tr><tr><td>Reference</td><td>Book 4 Hadith 104</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நாம் (காலத்தால்) பிந்தியவர்களாகவும் (மறுமையில் தகுதியால்) முந்தியவர் களாகவும் உள்ளோம். அத்தியாயம் : 4
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நாம் (காலத்தால்) பிந்தியவர்களாகவும் (மறுமையில் தகுதியால்) முந்தியவர் களாகவும் உள்ளோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>238</td></tr><tr><td>Arabic No</td><td>238</td></tr><tr><td>Reference</td><td>Book 4 Hadith 104</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Rivayet edildiğine göre Ebu Hureyre Nebi (Sallallahu aleyhi ve Sellem)'in şu sözünü duymuştur: "Biz (bu dünyada) son, (âhirette ise) öncüleriz. Tekrar: 876, 896, 6926, 3486, 6634, 6887, 7036, 7495
+Rivayet edildiğine göre Ebu Hureyre Nebi (Sallallahu aleyhi ve Sellem)'in şu sözünü duymuştur: "Biz (bu dünyada) son, (âhirette ise) öncüleriz. Tekrar: 876, 896, 6926
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>238</td></tr><tr><td>Arabic No</td><td>238</td></tr><tr><td>Reference</td><td>Book 4 Hadith 104</td></tr></tbody></table></div>
 

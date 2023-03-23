@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১১১. নাফি (রহঃ) হইতে বর্ণিত, আবদুল্লাহ ইবন উমর (রাঃ) হাজরে আসওয়াদ হইতে হাজরে আসওয়াদ পর্যন্ত তিন তাওয়াফে রমল করিতেন আর বাকি তাওয়াফগুলিতে সাধারণভাবে চলিতেন।[1]
+রেওয়ায়ত ১১১. নাফি (রহঃ) হইতে বর্ণিত, আবদুল্লাহ ইবন উমর (রাঃ) হাজরে আসওয়াদ হইতে হাজরে আসওয়াদ পর্যন্ত তিন তাওয়াফে রমল করিতেন আর বাকি তাওয়াফগুলিতে সাধারণভাবে চলিতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>809</td></tr><tr><td>Arabic No</td><td>809</td></tr><tr><td>Reference</td><td>Book 20 Hadith 105</td></tr></tbody></table></div>
 

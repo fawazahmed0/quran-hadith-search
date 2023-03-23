@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছ্‌মান ইব্‌ন আবু শায়বা (রহঃ) ..... সুফিয়ান ইব্‌ন হুসায়েন (রহঃ) থেকে এই সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। এই বর্ণনায় আরো আছেঃ যদি এক বছর বয়সের মাদী উট না থাকে তবে দুই বছর বয়সের নর উট দিতে হবে। তিনি এই বর্ণনায় ইমাম যুহরীর কথা উল্লেখ করেন নাই।
+। সুফয়ান ইবনু হুসাইন (রহঃ) হতে উপরোক্ত সানাদে এ হাদীসের ভাবার্থ বর্ণিত হয়েছে। তিনি বলেন, বিনতু মাখাদ না থাকলে ইবনু লাবূন দিতে হবে। এ বর্ণনায় যুহরীর কথাটি উল্লেখ নেই।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1569</td></tr><tr><td>Arabic No</td><td>1569</td></tr><tr><td>Reference</td><td>Book 9 Hadith 14</td></tr></tbody></table></div>
 

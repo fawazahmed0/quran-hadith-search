@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু শিহাব যুহরী (রহ.)....নাওফাল ইবনু মু‘আবিয়া (রাঃ) হতে আবূ হুরাইরাহ্ (রাঃ)-এর হাদীসের মতই বর্ণনা করেছেন। তবে অতিরিক্ত আর একটি কথাও বর্ণনা করেছেন যে এমন একটি সালাত রয়েছে যে ব্যক্তির ঐ সালাত ফওত হয়ে গেল, তার পরিবার-পরিজন ধন-সম্পদ সবই যেন ধ্বংস হয়ে গেল। (আধুনিক প্রকাশনীঃ ৩৩৩৫, ইসলামিক ফাউন্ডেশনঃ ৩৩৪২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3601</td></tr><tr><td>Arabic No</td><td>3601</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

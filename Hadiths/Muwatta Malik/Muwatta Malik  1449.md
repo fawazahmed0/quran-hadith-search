@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৪৯. সুলায়মান ইবন ইয়াসার (রহঃ) হইতে বর্ণিত, সাবিত ইবন যাহহাক আনসারী (রাঃ) হাররা নামক স্থানে একটি উট পাইয়া রশি দ্বারা বাঁধিয়া দিলেন। তাহার পর উমর (রাঃ)-কে বললেন, উমর (রাঃ) বললেন, তুমি তিনবার উহা প্রচার কর। সাবিত (রাঃ) বললেন, আমি তাহার ঝামেলায় পড়িয়া আমার জমির খবর লইতে পারি নাই। উমর (রাঃ) বলিলেন, তাহা হইলে যেখানে উটটি পাইয়াছ সেখানে ছাড়িয়া দিয়া আস।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1449</td></tr><tr><td>Arabic No</td><td>1449</td></tr><tr><td>Reference</td><td>Book 36 Hadith 51</td></tr></tbody></table></div>
 

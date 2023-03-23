@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্রাহীম .... জাবের ইবনু আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, একধা আমি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের খেদমতে গোশত ও রুটি হাযির করি। তিনি তা আহার করে পানি চেয়ে উযূ (ওজু/অজু/অযু) করলেন (অর্থাৎ হাত-মুখ ধুইলেন)। অতঃপর তিনি যুহরের নামায আদায় করেন। পরে তিনি তার রেখে দেয়া খাবার চেয়ে নিয়ে আহার করেন এবং উযূ (ওজু/অজু/অযু) না করে নামায আদায় করেন।
+। মুহাম্মাদ ইবনু মুনকাদির (রহঃ) বলেন, একদা আমি জাবির ইবনু ‘আব্দুল্লাহ (রাঃ)-কে বলতে শুনেছিঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে রুটি ও গোশত পেশ করলাম। তিনি তা খেয়ে অযুর পানি আনিয়ে অযু করে যুহরের সালাত আদায় করলেন। এরপর অবশিষ্ট খাবার চেয়ে নিয়ে তা খেলেন। অতঃপর অযু না করে পুনরায় সালাত আদায়ের জন্য দাড়িঁয়ে গেলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>191</td></tr><tr><td>Reference</td><td>Book 1 Hadith 191</td></tr></tbody></table></div>
 

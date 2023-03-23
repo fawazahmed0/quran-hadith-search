@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, একবার তিনি একদল শিশুর পার্শ্ব দিয়ে অতিক্রম করা কালে তিনি তাদের সালাম করে বললেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-ও তা করতেন। [মুসলিম ৩৯/৫, হাঃ ২১৬৮] (আধুনিক প্রকাশনী- ৫৮০৫, ইসলামিক ফাউন্ডেশন- ৫৭০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, একবার তিনি একদল শিশুর পার্শ্ব দিয়ে অতিক্রম করা কালে তিনি তাদের সালাম করে বললেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-ও তা করতেন। [মুসলিম ৩৯/৫, হাঃ ২১৬৮] (আধুনিক প্রকাশনী- ৫৮০৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6247</td></tr><tr><td>Arabic No</td><td>6247</td></tr><tr><td>Reference</td><td>Book 79 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Al Ja'd] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸாபித் அல்புனானீ (ரஹ்) அவர்கள் கூறியதாவது: (ஒருமுறை) அனஸ் பின் மாலிக் (ரலி) அவர்கள் சிறுவர்களைக் கடந்து சென்ற போது அவர்களுக்கு சலாம் சொன்னார்கள். மேலும், “நபி (ஸல்) அவர்கள் இவ்வாறு தான் செய்துவந்தார்கள்” என்று கூறி னார்கள். அத்தியாயம் : 79
+ஸாபித் அல்புனானீ (ரஹ்) அவர்கள் கூறியதாவது: (ஒருமுறை) அனஸ் பின் மாலிக் (ரலி) அவர்கள் சிறுவர்களைக் கடந்து சென்ற போது அவர்களுக்கு சலாம் சொன்னார்கள். மேலும், “நபி (ஸல்) அவர்கள் இவ்வாறு தான் செய்துவந்தார்கள்” என்று கூறி னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6247</td></tr><tr><td>Arabic No</td><td>6247</td></tr><tr><td>Reference</td><td>Book 79 Hadith 21</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইব্‌ন আলী (রহঃ) ..... হাজ্জাজ ইব্‌ন হাব্বান (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমরা আনাস (রাঃ) এর নিকট হাযির হই এবং এ সময় আমার বোন মুগীরা বলেনঃ তুমি যখন ছোট ছিলে, তখন তোমার মাথায় দু’টি চুলের গোছা অথবা খোঁপা ছিল। তিনি [আনাস (রাঃ)] এ সময় তোমার মাথা স্পর্শ করে বরকতের জন্য দু’আ করেন এবং বলেনঃ তোমরা এ দু’টি গোছা বা খোঁপা মুড়িয়ে ফেল। কেননা, ইহা ইয়াহূদীদের রীতি-নীতি।
+। আল-হাজ্জাজ ইবনু হাসসান (রহঃ) বলেন, একদা আমরা আনাস ইবনু মালিক (রাঃ)-এর নিকট গেলাম। আমার বোন আল-মুগীরাহ আমার নিকট বর্ণনা করেন, তুমি তখন বালক ছিলে আর তোমার মাথায় দু’টি শিং অর্থাৎ দু’টি চুলের গুচ্ছ ছিলো। তিনি তোমার মাথায় হাত বুলিয়ে তোমার কল্যাণের জন্য দু‘আ করে বলেন, এ দু’টি কামিয়ে ফেলে বা কেটে ফেলো। কারণ এটা ইয়াহুদীদের রীতি।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4197</td></tr><tr><td>Arabic No</td><td>4197</td></tr><tr><td>Reference</td><td>Book 35 Hadith 39</td></tr></tbody></table></div>
 

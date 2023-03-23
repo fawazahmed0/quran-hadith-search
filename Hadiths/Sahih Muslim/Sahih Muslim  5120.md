@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫০১৪, আন্তর্জাতিক নাম্বারঃ ১৯৭৭ ৫০১৪-(.../...) আহমাদ ইবনু আবদুল্লাহ ইবনু হাকাম হাশিমী (রহঃ) ..... উমার কিংবা আমর ইবনু মুসলিম (রহঃ) হতে এ সূত্রে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৯৫৮, ইসলামিক সেন্টার ৪৯৬৪)
+আহমাদ ইবনু আবদুল্লাহ ইবনু হাকাম হাশিমী (রহঃ) ..... উমার কিংবা আমর ইবনু মুসলিম (রহঃ) হতে এ সূত্রে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৯৫৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5120</td></tr><tr><td>Arabic No</td><td>1977.04</td></tr><tr><td>Reference</td><td>Book 35 Hadith 54</td></tr></tbody></table></div>
 

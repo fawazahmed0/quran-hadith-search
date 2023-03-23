@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আববাদ (রাঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা্য় তের বছর কাটান। তিনি তিষট্টি বছর বয়সে মারা যান। (৩৮৫১) (আধুনিক প্রকাশনীঃ ৩৬১৬, ইসলামিক ফাউন্ডেশনঃ ৩৬২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আববাদ (রাঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা্য় তের বছর কাটান। তিনি তিষট্টি বছর বয়সে মারা যান। (৩৮৫১) (আধুনিক প্রকাশনীঃ ৩৬১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3903</td></tr><tr><td>Arabic No</td><td>3903</td></tr><tr><td>Reference</td><td>Book 63 Hadith 128</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Mathar bin Al Fadlal] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (நபியாக்கப்பட்டபின்) மக்காவில் பதிமூன்றாண்டுகள் தங்கியிருந்தார்கள். தமது அறுபத்து மூன்றாம் வயதில் இறந்தார்கள். அத்தியாயம் : 63
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (நபியாக்கப்பட்டபின்) மக்காவில் பதிமூன்றாண்டுகள் தங்கியிருந்தார்கள். தமது அறுபத்து மூன்றாம் வயதில் இறந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3903</td></tr><tr><td>Arabic No</td><td>3903</td></tr><tr><td>Reference</td><td>Book 63 Hadith 128</td></tr></tbody></table></div>
 

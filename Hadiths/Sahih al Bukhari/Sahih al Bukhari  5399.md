@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ জুহাইফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে ছিলাম। তিনি তাঁর নিকট উপবিষ্ট জনৈক ব্যক্তিকে বললেনঃ হেলান দেয়া অবস্থায় আমি খাবার খাই না। [৫৩৯৮] (আধুনিক প্রকাশনী- ৪৯৯৮, ইসলামিক ফাউন্ডেশন- ৪৮৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ জুহাইফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে ছিলাম। তিনি তাঁর নিকট উপবিষ্ট জনৈক ব্যক্তিকে বললেনঃ হেলান দেয়া অবস্থায় আমি খাবার খাই না। [৫৩৯৮] (আধুনিক প্রকাশনী- ৪৯৯৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5399</td></tr><tr><td>Arabic No</td><td>5399</td></tr><tr><td>Reference</td><td>Book 70 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Utsman bin Abu Syaibah] Telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஜுஹைஃபா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் இருந்தேன். அப்போது அவர்கள் தம்முடனிருந்த ஒரு மனிதரிடம், ‘‘நான் சாய்ந்துகொண்டு சாப்பிடமாட்டேன்” என்று சொன்னார்கள். அத்தியாயம் : 70
+அபூஜுஹைஃபா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் இருந்தேன். அப்போது அவர்கள் தம்முடனிருந்த ஒரு மனிதரிடம், ‘‘நான் சாய்ந்துகொண்டு சாப்பிடமாட்டேன்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5399</td></tr><tr><td>Arabic No</td><td>5399</td></tr><tr><td>Reference</td><td>Book 70 Hadith 27</td></tr></tbody></table></div>
 

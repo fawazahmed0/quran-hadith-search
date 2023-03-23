@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আদী ইবনু হাতিম (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের প্রত্যেকের সঙ্গে শীঘ্রই তার প্রতিপালক কথা বলবেন, তখন প্রতিপালক ও তার মাঝে কোন অনুবাদক ও আড়াল করে এমন পর্দা থাকবে না।। [১৪১৩] (আধুনিক প্রকাশনী- ৬৯২৫, ইসলামিক ফাউন্ডেশন- ৬৯৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আদী ইবনু হাতিম (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের প্রত্যেকের সঙ্গে শীঘ্রই তার প্রতিপালক কথা বলবেন, তখন প্রতিপালক ও তার মাঝে কোন অনুবাদক ও আড়াল করে এমন পর্দা থাকবে না।। [১৪১৩] (আধুনিক প্রকাশনী- ৬৯২৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7443</td></tr><tr><td>Arabic No</td><td>7443</td></tr><tr><td>Reference</td><td>Book 97 Hadith 69</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒவ்வொருவருடனும் அல்லாஹ் (மறுமை நாளில் தனித்தனியாகப்) பேசாமலிருக்கமாட்டான். அப்போது அல்லாஹ்வுக்கும் உங்களுக்கும் இடையே மொழிபெயர்ப்பாளரும் இருக்கமாட்டார்; தடுக்கின்ற திரையும் இருக்காது. இதை அதீ பின் ஹாத்திம் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.83 அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒவ்வொருவருடனும் அல்லாஹ் (மறுமை நாளில் தனித்தனியாகப்) பேசாமலிருக்கமாட்டான். அப்போது அல்லாஹ்வுக்கும் உங்களுக்கும் இடையே மொழிபெயர்ப்பாளரும் இருக்கமாட்டார்; தடுக்கின்ற திரையும் இருக்காது. இதை அதீ பின் ஹாத்திம் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.83 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7443</td></tr><tr><td>Arabic No</td><td>7443</td></tr><tr><td>Reference</td><td>Book 97 Hadith 69</td></tr></tbody></table></div>
 

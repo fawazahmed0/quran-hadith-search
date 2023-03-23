@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইয়াহূদ ও নাসারারা (চুল ও দাড়িতে) রং লাগায় না। কাজেই তোমরা তাদের উল্টো কর। [৩৪৬২] (আধুনিক প্রকাশনী- ৫৪৭০, ইসলামিক ফাউন্ডেশন- ৫৩৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইয়াহূদ ও নাসারারা (চুল ও দাড়িতে) রং লাগায় না। কাজেই তোমরা তাদের উল্টো কর। [৩৪৬২] (আধুনিক প্রকাশনী- ৫৪৭০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5899</td></tr><tr><td>Arabic No</td><td>5899</td></tr><tr><td>Reference</td><td>Book 77 Hadith 116</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: யூதர்களும் கிறித்தவர்களும் (முடிகளுக்குச்) சாயமிடுவதில்லை; ஆகவே, நீங்கள் (முடிகளுக்குச் சாயமிட்டு) அவர்களுக்கு மாறுசெய்யுங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.102 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 77
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: யூதர்களும் கிறித்தவர்களும் (முடிகளுக்குச்) சாயமிடுவதில்லை; ஆகவே, நீங்கள் (முடிகளுக்குச் சாயமிட்டு) அவர்களுக்கு மாறுசெய்யுங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.102 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5899</td></tr><tr><td>Arabic No</td><td>5899</td></tr><tr><td>Reference</td><td>Book 77 Hadith 116</td></tr></tbody></table></div>
 

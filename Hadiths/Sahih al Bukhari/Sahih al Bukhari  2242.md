@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুহাম্মাদ অথবা ‘আবদুল্লাহ ইবনু আবুল মুজালিদ (রহ.) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ ইবনু শাদ্দাদ ইবনু হাদ ও আবূ বুরদাহ (রহ.)-এর মাঝে সলম কেনা-বেচার ব্যাপারে মতভেদ দেখা দিলে তাঁরা আমাকে ইবনু আবূ ‘আওফা (রাঃ)-এর নিকট পাঠান। আমি এ বিষয়ে তাঁকে জিজ্ঞেস করলে তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম , আবূ বাকর ও ‘উমার (রাঃ)-এর যুগে আমরা গম, যব, কিসমিস ও খেজুরে সলম করতাম। (তিনি আরো বলেন) এবং আমি ইবনু আবযা (রাঃ)-কে জিজ্ঞেস করলে তিনিও অনুরূপ বলেন। (২২৪২=২২৪৪, ২২৫৫) (২২৪৩=২২৪৫, ২২৫৪) (আধুনিক প্রকাশনীঃ ২০৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2242</td></tr><tr><td>Arabic No</td><td>2242</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Sy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அபில் முஜாலித் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் ஷத்தாத் (ரலி) அவர்களும் அபூபுர்தா (ரலி) அவர்களும் முன்பண வணிகம் (அஸ்ஸலம்) தொடர் பாகக் கருத்து வேறுபாடு கொண்டார்கள். அப்போது, என்னை இப்னு அபீஅஃவ்பா (ரலி) அவர்களிடம் அனுப்பினார்கள். அவர்களிடம் சென்று நான் இது பற்றிக் கேட்டேன். அதற்கு அவர்கள், ‘‘நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது காலத்திலும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரின் காலத்திலும் கோதுமை, தொலி நீக்கப்படாத கோதுமை, உலர்ந்த திராட்சை, உலர்ந்த பேரீச்சம்பழம் ஆகியவற்றுக்காக முன்பணம் கொடுத்து வந்தோம்” என்றார்கள். பிறகு நான் அப்துர் ரஹ்மான் பின் அப்ஸா (ரலி) அவர்களிடம் கேட்டேன்; அவர்களும் இவ்வாறே கூறினார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 35
+இப்னு அபில் முஜாலித் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் ஷத்தாத் (ரலி) அவர்களும் அபூபுர்தா (ரலி) அவர்களும் முன்பண வணிகம் (அஸ்ஸலம்) தொடர் பாகக் கருத்து வேறுபாடு கொண்டார்கள். அப்போது, என்னை இப்னு அபீஅஃவ்பா (ரலி) அவர்களிடம் அனுப்பினார்கள். அவர்களிடம் சென்று நான் இது பற்றிக் கேட்டேன். அதற்கு அவர்கள், ‘‘நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது காலத்திலும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரின் காலத்திலும் கோதுமை, தொலி நீக்கப்படாத கோதுமை, உலர்ந்த திராட்சை, உலர்ந்த பேரீச்சம்பழம் ஆகியவற்றுக்காக முன்பணம் கொடுத்து வந்தோம்” என்றார்கள். பிறகு நான் அப்துர் ரஹ்மான் பின் அப்ஸா (ரலி) அவர்களிடம் கேட்டேன்; அவர்களும் இவ்வாறே கூறினார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2242</td></tr><tr><td>Arabic No</td><td>2242</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Sy
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ebu'l-Mücalid şöyle anlatır: Abdullah İbn Şeddad ibnü'l-Had ve Ebu Bürde selef (selem) hakkında görüş ayrılığına düştüler. Daha sonra beni, İbn Ebi Evfa'ya gönderdiler. Ben de konuyu ona sordum. Bana şöyle dedi: "Biz, Resulullah Sallallahu Aleyhi ve Sellem, Ebu Bekir ve Ömer zamanında iken, buğday, arpa, kuru üzüm ve kuru hurma konusunda selem akdi yapardık." İbn Ebza'ya sordum. O da aynı şekilde cevap verdi. 2242 Tekrarı: 2244, 2255. 2243 Tekrarı: 2245, 2254
+Abdullah İbn Ebu'l-Mücalid şöyle anlatır: Abdullah İbn Şeddad ibnü'l-Had ve Ebu Bürde selef (selem) hakkında görüş ayrılığına düştüler. Daha sonra beni, İbn Ebi Evfa'ya gönderdiler. Ben de konuyu ona sordum. Bana şöyle dedi: "Biz, Resulullah Sallallahu Aleyhi ve Sellem, Ebu Bekir ve Ömer zamanında iken, buğday, arpa, kuru üzüm ve kuru hurma konusunda selem akdi yapardık." İbn Ebza'ya sordum. O da aynı şekilde cevap verdi. 2242 Tekrarı: 2244, 2255. 2243 Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2242</td></tr><tr><td>Arabic No</td><td>2242</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

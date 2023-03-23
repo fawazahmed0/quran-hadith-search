@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুুস সাব্বাহ্ .... ইউনুস থেকে যুহরীর সূত্রে পূর্বোক্ত হাদীছের অনুরূপ বর্ণনা ধারায় ও অর্থে বর্ণনা করেছেন। এই সনদসূত্রে উল্লেখ আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন অপবিত্র অবস্থায় খাদ্য গ্রহণের ইচ্ছা করতেন, তখন উভয় হাত ধৌত করতেন। (বুখারী, মুসলিম, নাসঈ, ইবনু মাজাহ)।
+। ইউনুস হতে যুহরী সূত্রে একই সানাদে সমার্থবোধক হাদীস বর্ণিত আছে। তাতে একথাও রয়েছেঃ নাপাক অবস্থায় তিনি খাওয়ার ইচ্ছা করলে তাঁর উভয় হাত ধুয়ে নিতেন। [1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, ইউনুস থেকে ইবনু ওয়াহ্ব এ হাদীসটিই বর্ণনা করেছেন। তবে তিনি খাওয়ার কথাটা ‘আয়িশাহ্ (রাঃ)-এর বক্তব্য বলে উল্লেখ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>223</td></tr><tr><td>Arabic No</td><td>223</td></tr><tr><td>Reference</td><td>Book 1 Hadith 223</td></tr></tbody></table></div>
 

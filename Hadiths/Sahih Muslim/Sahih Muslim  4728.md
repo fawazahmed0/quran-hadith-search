@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬২২, আন্তর্জাতিক নাম্বারঃ ১৮২৯ ৪৬২২-(.../...) আহমাদ ইবনু আবদুর রহমান ইবনু ওয়াহব (রহঃ) ..... আবদুল্লাহ ইবনু উমার (রাযিঃ) এর সূত্রে এ মর্মে হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৪৫৭৬, ইসলামিক সেন্টার ৪৫৭৯)
+আহমাদ ইবনু আবদুর রহমান ইবনু ওয়াহব (রহঃ) ..... আবদুল্লাহ ইবনু উমার (রাযিঃ) এর সূত্রে এ মর্মে হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৪৫৭৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4728</td></tr><tr><td>Arabic No</td><td>1829.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 27</td></tr></tbody></table></div>
 

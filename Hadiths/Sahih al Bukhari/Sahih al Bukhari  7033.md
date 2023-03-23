@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উবাইদুল্লাহ্ ইবনু ‘আবদুল্লাহ্ (রহ.) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে সব স্বপ্নের উল্লেখ করেছেন আমি ‘আবদুল্লাহ্ ইবনু ‘আব্বাস (রাঃ)-কে সে ব্যাপারে জিজ্ঞেস করলাম। [৩৬২০] (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন- ৬৫৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উবাইদুল্লাহ্ ইবনু ‘আবদুল্লাহ্ (রহ.) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে সব স্বপ্নের উল্লেখ করেছেন আমি ‘আবদুল্লাহ্ ইবনু ‘আব্বাস (রাঃ)-কে সে ব্যাপারে জিজ্ঞেস করলাম। [৩৬২০] (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7033</td></tr><tr><td>Arabic No</td><td>7033</td></tr><tr><td>Reference</td><td>Book 91 Hadith 48</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narated Ubaidullah bin Abdullah:I asked Ibn Abbas about the dream of Allah's Mes
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உபைதுல்லாஹ் பின் அப்தில்லாஹ் (ரஹ்) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எடுத்துரைத்த அவர்களது கனவைப் பற்றி நான் அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்களிடம் கேட்டேன். அத்தியாயம் : 91
+உபைதுல்லாஹ் பின் அப்தில்லாஹ் (ரஹ்) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எடுத்துரைத்த அவர்களது கனவைப் பற்றி நான் அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்களிடம் கேட்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7033</td></tr><tr><td>Arabic No</td><td>7033</td></tr><tr><td>Reference</td><td>Book 91 Hadith 48</td></tr></tbody></table></div>
 

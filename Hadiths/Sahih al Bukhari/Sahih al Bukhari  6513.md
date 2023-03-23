@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ক্বাতাদাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মৃত ব্যক্তি হয়ত নিজে শান্তিপ্রাপ্ত হবে অথবা লোকজন তার থেকে শান্তি লাভ করবে। মু’মিন (দুনিয়ার কষ্ট হতে) শান্তি লাভ করে। [৬৫১২; মুসলিম ১১/২১, হাঃ ৯৫০] (আধুনিক প্রকাশনী- ৬০৬৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6513</td></tr><tr><td>Arabic No</td><td>6513</td></tr><tr><td>Reference</td><td>Book 81 Hadith 102</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (இவர்) ஓய்வு பெற்றவர்; அல்லது (பிறருக்கு) ஓய்வு அளித்தவர் ஆவார். இறைநம்பிக்கையாளர் (இறக்கும்போது, இவ்வுலகத் துன்பங்களிலிருந்து) ஓய்வு பெறுகிறார். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 82
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (இவர்) ஓய்வு பெற்றவர்; அல்லது (பிறருக்கு) ஓய்வு அளித்தவர் ஆவார். இறைநம்பிக்கையாளர் (இறக்கும்போது, இவ்வுலகத் துன்பங்களிலிருந்து) ஓய்வு பெறுகிறார். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6513</td></tr><tr><td>Arabic No</td><td>6513</td></tr><tr><td>Reference</td><td>Book 81 Hadith 102</td></tr></tbody></table></div>
 

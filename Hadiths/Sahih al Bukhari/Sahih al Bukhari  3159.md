@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নু‘মান (রহ.) (মুগীরাহকে) বললেন, আপনাকে আল্লাহ তা‘আলা এমন যুদ্ধে রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথী করেছেন আর তিনি আপনাকে লজ্জিত ও অসম্মানিত করেনি আর আমিও আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে অনেক যুদ্ধে অংশ নিয়েছি। তাঁর নিয়ম এ ছিল যে, যদি দিনের পূর্বাহ্নে যুদ্ধ শুরু না করতেন, তবে তিনি বাতাস প্রবাহিত হওয়া এবং সালাতের সময় হওয়া পর্যন্ত অপেক্ষা করতেন। (আধুনিক প্রকাশনীঃ ২৯২৩, ইসলামিক ফাউন্ডেশনঃ ২৯৩৪ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3159</td></tr><tr><td>Arabic No</td><td>3159</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

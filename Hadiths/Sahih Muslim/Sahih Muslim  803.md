@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৮৯, আন্তর্জাতিক নাম্বারঃ ৩৬০ ৬৮৯-(.../...) আবূ বকর ইবনু আবূ শাইবাহ ও কাসিম ইবনু যাকারিয়্যা (রহঃ) প্রত্যেকেই নিজ নিজ সনদে জাবির ইবনু সামুরাহ (রাযিঃ) হতে আবূ কামিল এর অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৬৮৮, ইসলামিক সেন্টারঃ ৭০৩)
+আবূ বকর ইবনু আবূ শাইবাহ ও কাসিম ইবনু যাকারিয়্যা (রহঃ) প্রত্যেকেই নিজ নিজ সনদে জাবির ইবনু সামুরাহ (রাযিঃ) হতে আবূ কামিল এর অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৬৮৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>803</td></tr><tr><td>Arabic No</td><td>360.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 124</td></tr></tbody></table></div>
 

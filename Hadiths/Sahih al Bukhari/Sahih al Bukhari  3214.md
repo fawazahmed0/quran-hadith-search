@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি যেন বানূ গানমের গলিতে উপরে উঠা ধূলা স্বয়ং দেখতে পাচ্ছি। মূসা এতটুকু বাড়িয়ে বলেছেন, জিব্রীল বাহন নিয়ে পদচারণা করেন।* (আধুনিক প্রকাশনীঃ ২৯৭৪, ইসলামিক ফাউন্ডেশনঃ ২৯৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি যেন বানূ গানমের গলিতে উপরে উঠা ধূলা স্বয়ং দেখতে পাচ্ছি। মূসা এতটুকু বাড়িয়ে বলেছেন, জিব্রীল বাহন নিয়ে পদচারণা করেন।* (আধুনিক প্রকাশনীঃ ২৯৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3214</td></tr><tr><td>Arabic No</td><td>3214</td></tr><tr><td>Reference</td><td>Book 59 Hadith 25</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Jari
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (கஸ்ரஜ் குலத்தைச் சேர்ந்த) பனூ ஃகன்ம் கிளையாரின் குறுகலான வீதியில் கிளம்புகின்ற புழுதியை (இன்றும்) நான் பார்ப்பதைப் போன்றுள்ளது. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அவற்றில் மூசா பின் இஸ்மாயில் (ரஹ்) அவர்களது அறிவிப்பில், ‘(வானவர்) ஜிப்ரீல் அவர் களின் படைகள் கிளப்பிய’ என்று கூடுதலாக இடம்பெற்றுள்ளது.26 அத்தியாயம் : 59
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (கஸ்ரஜ் குலத்தைச் சேர்ந்த) பனூ ஃகன்ம் கிளையாரின் குறுகலான வீதியில் கிளம்புகின்ற புழுதியை (இன்றும்) நான் பார்ப்பதைப் போன்றுள்ளது. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அவற்றில் மூசா பின் இஸ்மாயில் (ரஹ்) அவர்களது அறிவிப்பில், ‘(வானவர்) ஜிப்ரீல் அவர் களின் படைகள் கிளப்பிய’ என்று கூடுதலாக இடம்பெற்றுள்ளது.26 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3214</td></tr><tr><td>Arabic No</td><td>3214</td></tr><tr><td>Reference</td><td>Book 59 Hadith 25</td></tr></tbody></table></div>
 

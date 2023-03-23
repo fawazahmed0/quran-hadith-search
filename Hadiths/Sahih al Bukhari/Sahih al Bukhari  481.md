@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একজন মু’মিন আরেকজন মু‘মিনের জন্যে ইমারতস্বরূপ, যার এক অংশ অপর অংশকে শক্তিশালী করে থাকে। এ ব’লে তিনি তার হাতের আঙুলগুলো একটার মধ্যে আরেকটা প্রবেশ করালেন। (২৪৪৬, ৬০২৬; মুসলিম ৫৪/১৭, হাঃ ২৫৮৫, আহমাদ ১৯৬৪৪) (আধুনিক প্রকাশনীঃ ৪৫৯, ইসলামিক ফাউন্ডেশনঃ ৪৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একজন মু’মিন আরেকজন মু‘মিনের জন্যে ইমারতস্বরূপ, যার এক অংশ অপর অংশকে শক্তিশালী করে থাকে। এ ব’লে তিনি তার হাতের আঙুলগুলো একটার মধ্যে আরেকটা প্রবেশ করালেন। (২৪৪৬, ৬০২৬; মুসলিম ৫৪/১৭, হাঃ ২৫৮৫, আহমাদ ১৯৬৪৪) (আধুনিক প্রকাশনীঃ ৪৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>481</td></tr><tr><td>Arabic No</td><td>481</td></tr><tr><td>Reference</td><td>Book 8 Hadith 128</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khallad bin Yahya] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இறைநம்பிக்கையாளர்கள் ஒருவருக்கொருவர் (துணை நிற்கும் விஷயத்தில்) ஒரு கட்டடத்தைப் போன்றவர்கள் ஆவர். அதன் ஒரு பகுதி மற்றொரு பகுதிக்கு வலுவூட்டுகிறது. (இப்படிக் கூறியபோது) நபி (ஸல்) அவர்கள் தம் (இரு) கைவிரல்களை, ஒன்றுடன் ஒன்றைக் கோத்துக்காட்டி னார்கள். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 8
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இறைநம்பிக்கையாளர்கள் ஒருவருக்கொருவர் (துணை நிற்கும் விஷயத்தில்) ஒரு கட்டடத்தைப் போன்றவர்கள் ஆவர். அதன் ஒரு பகுதி மற்றொரு பகுதிக்கு வலுவூட்டுகிறது. (இப்படிக் கூறியபோது) நபி (ஸல்) அவர்கள் தம் (இரு) கைவிரல்களை, ஒன்றுடன் ஒன்றைக் கோத்துக்காட்டி னார்கள். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>481</td></tr><tr><td>Arabic No</td><td>481</td></tr><tr><td>Reference</td><td>Book 8 Hadith 128</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Khallad bin Yahya] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Musa Nebi Sallallahu Aleyhi ve Sellem'in parmaklarını birbirine kenetleyerek şöyle buyurduğunu nakletmiştir: "Mu'min, mu'min için, parçaları birbirini sıkı sıkıya tutan bir bina gibidir. Tekrar: 2446, 6026
+Ebu Musa Nebi Sallallahu Aleyhi ve Sellem'in parmaklarını birbirine kenetleyerek şöyle buyurduğunu nakletmiştir: "Mu'min, mu'min için, parçaları birbirini sıkı sıkıya tutan bir bina gibidir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>481</td></tr><tr><td>Arabic No</td><td>481</td></tr><tr><td>Reference</td><td>Book 8 Hadith 128</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... মুআয়কীব (রাযিঃ) থেকে বর্ণিত। (তিনি বলেছেন) রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈক ব্যক্তিকে সালাতরত অবস্থায় সাজদার জায়গা (থেকে পাথর-টুকরা ইত্যাদি সরিয়ে) সমান করতে দেখে বললেনঃ তোমাকে যদি এরূপ (পাথর টুকরা ইত্যাদি সরিয়ে সাজদার জায়গা সমান) করতেই হয় তাহলে মাত্র একবারের জন্য করতে পার। (ইসলামী ফাউন্ডেশন ১১০২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1220</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

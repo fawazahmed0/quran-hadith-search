@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১২১. আবুয যুবায়র মক্কী (রহঃ) বলেনঃ আবদুল্লাহ ইবন আব্বাস (রাঃ)-কে আসরের পর তাওয়াফ করিতে দেখিতে পাইলাম। তাওয়াফের পর হুজরায় চলিয়া গেলেন। জানি না সেখানে তিনি কি করিয়াছিলেন।[1]
+রেওয়ায়ত ১২১. আবুয যুবায়র মক্কী (রহঃ) বলেনঃ আবদুল্লাহ ইবন আব্বাস (রাঃ)-কে আসরের পর তাওয়াফ করিতে দেখিতে পাইলাম। তাওয়াফের পর হুজরায় চলিয়া গেলেন। জানি না সেখানে তিনি কি করিয়াছিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>819</td></tr><tr><td>Arabic No</td><td>819</td></tr><tr><td>Reference</td><td>Book 20 Hadith 115</td></tr></tbody></table></div>
 

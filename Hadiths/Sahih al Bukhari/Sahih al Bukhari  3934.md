@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাঃ) বর্ণনা করেন, লোকেরা বছর গণনা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নবুয়াত প্রাপ্তির দিন হতে করেনি এবং তাঁর মৃত্যুর দিন থেকেও করেনি বরং তাঁর মদিনা্য় হিজরাত হতে বছর গণনা করা হয়েছে। (আধুনিক প্রকাশনীঃ ৩৬৪৪, ইসলামিক ফাউন্ডেশনঃ ৩৬৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাঃ) বর্ণনা করেন, লোকেরা বছর গণনা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নবুয়াত প্রাপ্তির দিন হতে করেনি এবং তাঁর মৃত্যুর দিন থেকেও করেনি বরং তাঁর মদিনা্য় হিজরাত হতে বছর গণনা করা হয়েছে। (আধুনিক প্রকাশনীঃ ৩৬৪৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3934</td></tr><tr><td>Arabic No</td><td>3934</td></tr><tr><td>Reference</td><td>Book 63 Hadith 159</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: மக்கள் (ஆண்டுக் கணக்கை) நபி (ஸல்) அவர்கள் இறைத்தூதராக நியமிக்கப் பட்ட (அவர்களுடைய 40ஆம் வய)திலிருந்தோ அவர்களுடைய மறைவிலிருந்தோ கணக்கிடவில்லை; மதீனாவுக்கு நபி (ஸல்) அவர்கள் (ஹிஜ்ரத் செய்து) வந்ததிலிருந்தே கணக்கிட்டார்கள். அத்தியாயம் : 63
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: மக்கள் (ஆண்டுக் கணக்கை) நபி (ஸல்) அவர்கள் இறைத்தூதராக நியமிக்கப் பட்ட (அவர்களுடைய 40ஆம் வய)திலிருந்தோ அவர்களுடைய மறைவிலிருந்தோ கணக்கிடவில்லை; மதீனாவுக்கு நபி (ஸல்) அவர்கள் (ஹிஜ்ரத் செய்து) வந்ததிலிருந்தே கணக்கிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3934</td></tr><tr><td>Arabic No</td><td>3934</td></tr><tr><td>Reference</td><td>Book 63 Hadith 159</td></tr></tbody></table></div>
 

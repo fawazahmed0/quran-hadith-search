@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ওয়াযীর (রহঃ) ..... সুলায়ম ইবন আমির (রহঃ) বুসরের দু'ছেলে থেকে বর্ণনা করেন যে, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট আসেন, তখন আমরা তাঁর সামনে মাখন এবং খেজুর পেশ করি। আর তিনি মাখন এবং খেজুর খুবই পছন্দ করতেন।
+। বুসর আস-সুলামীর দু’ পত্র সূত্রে বর্ণিত। তারা উভয়ে বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের বাড়িতে প্রবেশ করলেন। আমরা তাঁকে পনীর ও খেজুর খেতে দিলাম। তিনি পনীর ও খেজুর খুব পছন্দ করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3837</td></tr><tr><td>Arabic No</td><td>3837</td></tr><tr><td>Reference</td><td>Book 28 Hadith 102</td></tr></tbody></table></div>
 

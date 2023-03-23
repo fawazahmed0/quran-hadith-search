@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৫. উরওয়া ইবন যুবায়র (রহঃ) এই আয়াত সম্বন্ধে(তাহাদের জন্য দুনিয়া ও আখিরাতে সুসংবাদ রহিয়াছে) বলেন যে, ইহার অর্থ হইল ঐ সমস্ত ভাল স্বপ্ন, যাহা নেককার মানুষে দেখে কিংবা অপর কেহ তাহার সম্বন্ধে (বা তাহার জন্য) দেখে।
+রেওয়ায়ত ৫. উরওয়া ইবন যুবায়র (রহঃ) এই আয়াত সম্বন্ধে (‏لَهُمُ الْبُشْرَى فِي الْحَيَاةِ الدُّنْيَا وَفِي الآخِرَةِ‏) (তাহাদের জন্য দুনিয়া ও আখিরাতে সুসংবাদ রহিয়াছে) বলেন যে, ইহার অর্থ হইল ঐ সমস্ত ভাল স্বপ্ন, যাহা নেককার মানুষে দেখে কিংবা অপর কেহ তাহার সম্বন্ধে (বা তাহার জন্য) দেখে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1752</td></tr><tr><td>Arabic No</td><td>1752</td></tr><tr><td>Reference</td><td>Book 52 Hadith 4</td></tr></tbody></table></div>
 

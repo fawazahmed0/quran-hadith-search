@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২০৬৪। সালামাহ্ ইবনু সাখর আল-বায়াদী (রাঃ) থেকে বর্ণিত। কাফ্ফারা আদায়ের পূর্বে সহবাসে লিপ্ত হওয়া যিহারকারী সম্পর্কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ একই কাফফারা হবে (অর্থাৎ সহবাসের জন্য স্বতন্ত্র কাফফারা হবে না)।
+। সালামাহ্ ইবনু সাখর আল-বায়াদী (রাঃ) থেকে বর্ণিত। কাফ্ফারা আদায়ের পূর্বে সহবাসে লিপ্ত হওয়া যিহারকারী সম্পর্কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ একই কাফফারা হবে (অর্থাৎ সহবাসের জন্য স্বতন্ত্র কাফফারা হবে না)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2064</td></tr><tr><td>Arabic No</td><td>2064</td></tr><tr><td>Reference</td><td>Book 10 Hadith 49</td></tr></tbody></table></div>
 

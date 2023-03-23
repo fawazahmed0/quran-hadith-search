@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৮৯০, আন্তর্জাতিক নাম্বারঃ ১২৩৪ ২৮৯০-(.../...) ইয়াহইয়া ইবনু ইয়াহইয়া ও আবদ ইবনু হুমায়দ (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে এ সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৮৬৬, ইসলামীক সেন্টার ২৮৬৫)
+ইয়াহইয়া ইবনু ইয়াহইয়া ও আবদ ইবনু হুমায়দ (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে এ সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৮৬৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>1234.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 208</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু মারইয়াম (রহ.) বলেন, আনাস (রাযি.) হতে বর্ণিত। বানী সালিমা গোত্রের লোকেরা নিজেদের ঘর-বাড়ি ছেড়ে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে বসতি স্থাপন করতে চেয়েছিল। আনাস (রাযি.) বলেন, কিন্তু মাদ্বীনার কোনো এলাকা একেবারে শূন্য হওয়াটা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পছন্দ করেননি। তাই তিনি বলেনঃ তোমরা কি (মসজিদে আসা যাওয়ায়) তোমাদের পদচিহ্নগুলোর সওয়াব কামনা কর না? মুজাহিদ (রহ) বলেন, خُطَاهُمْ آثَارُهُمْ অর্থাৎ যমীনে চলার পদচিহ্নসমূহ। (৬৫৫) (আধুনিক প্রকাশনীঃ ৬১৬ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>655</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

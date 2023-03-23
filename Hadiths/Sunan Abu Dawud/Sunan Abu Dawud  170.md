@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুসাইন ইবনু ঈসা .... উকবা ইবনু আমের আল-জুহানী (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম হতে পূর্বোক্ত হাদীছের অনুরূপ বর্ণনা করেছেন। কিন্তু সেখানে উটের রাখালী সম্পর্কে যা উক্ত হয়েছে- তা এই হাদীছে উল্লেখ নেই। অতঃপর তাঁর বর্ণনা পরস্পরায় তিনি বলেছেনঃ কোন ব্যক্তি যদি উত্তমরূপে উযূ (ওজু/অজু/অযু) করার পর আকাশের দিকে তাকিয়ে (উপরোক্ত দু’আ পাঠ করে) তবে তার জন্য আটটি জান্নাতের সমস্ত দরজা খুলে যাবে। অতঃপর রাবী মুয়াবিয়ার বর্ণিত হাদিছের অনুরূপ বর্ণনা করেন।
+। উক্ববাহ ইবনু ‘আমির আল-জুহানী (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেছেন। কিন্তু তিনি তাতে ‘উটশালায়’ কথাটি উল্লেখ করেননি। তিনি তাঁর বর্ণনায় ‘উত্তমরূপে অযু করার পর ‘আকাশের দিকে তাকিয়ে’ (দু‘আ পড়ার কথা) বলেছেন। তারপর বাকি অংশ মু‘আবিয়াহ বর্ণিত হাদীসের অনুরূপ।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>170</td></tr><tr><td>Arabic No</td><td>170</td></tr><tr><td>Reference</td><td>Book 1 Hadith 170</td></tr></tbody></table></div>
 

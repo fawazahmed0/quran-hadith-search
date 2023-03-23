@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা ধ্বংসাত্মক কাজ থেকে বেঁচে থাক। আর তা হল আল্লাহর সাথে শরীক স্থির করা ও যাদু করা। [২৭৬৬] (আধুনিক প্রকাশনী- ৫৩৪৩, ইসলামিক ফাউন্ডেশন- ৫২৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা ধ্বংসাত্মক কাজ থেকে বেঁচে থাক। আর তা হল আল্লাহর সাথে শরীক স্থির করা ও যাদু করা। [২৭৬৬] (আধুনিক প্রকাশনী- ৫৩৪৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5764</td></tr><tr><td>Arabic No</td><td>5764</td></tr><tr><td>Reference</td><td>Book 76 Hadith 78</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Abdul Aziz bin Abdullah] dia berkata; telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பேரழிவை உண்டாக்கும் பெரும் பாவங் களைத் தவிர்த்துவிடுங்கள். (இறைவனுக்கு) இணைகற்பிப்பதும் சூனியம் செய்வதும் அவற்றில் அடங்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.90 அத்தியாயம் : 76
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பேரழிவை உண்டாக்கும் பெரும் பாவங் களைத் தவிர்த்துவிடுங்கள். (இறைவனுக்கு) இணைகற்பிப்பதும் சூனியம் செய்வதும் அவற்றில் அடங்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.90 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5764</td></tr><tr><td>Arabic No</td><td>5764</td></tr><tr><td>Reference</td><td>Book 76 Hadith 78</td></tr></tbody></table></div>
 

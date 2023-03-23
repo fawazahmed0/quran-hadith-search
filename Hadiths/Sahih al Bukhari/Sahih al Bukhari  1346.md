@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তাঁদেরকে তাঁদের রক্ত সহ দাফন কর। অর্থাৎ উহুদের যুদ্ধের দিন শহীদগণের সম্পর্কে (কথাটি বলেছিলেন) আর তিনি তাঁদের গোসলও দেননি। (১৩৪৩) (আধুনিক প্রকাশনীঃ ১২৫৮, ইসলামিক ফাউন্ডেশনঃ ১২৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তাঁদেরকে তাঁদের রক্ত সহ দাফন কর। অর্থাৎ উহুদের যুদ্ধের দিন শহীদগণের সম্পর্কে (কথাটি বলেছিলেন) আর তিনি তাঁদের গোসলও দেননি। (১৩৪৩) (আধুনিক প্রকাশনীঃ ১২৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1346</td></tr><tr><td>Arabic No</td><td>1346</td></tr><tr><td>Reference</td><td>Book 23 Hadith 101</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [La
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: “இவர்களை -உஹுத் போரில் இறந்தவர்களை- அவர்களின் இரத்தத் துடனேயே அடக்குங்கள் என்று நபி (ஸல்) அவர்கள் கூறினார்கள்; மேலும், அவர்களை நபி (ஸல்) அவர்கள், நீராட்டவில்லை. அத்தியாயம் : 23
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: “இவர்களை -உஹுத் போரில் இறந்தவர்களை- அவர்களின் இரத்தத் துடனேயே அடக்குங்கள் என்று நபி (ஸல்) அவர்கள் கூறினார்கள்; மேலும், அவர்களை நபி (ஸல்) அவர்கள், நீராட்டவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1346</td></tr><tr><td>Arabic No</td><td>1346</td></tr><tr><td>Reference</td><td>Book 23 Hadith 101</td></tr></tbody></table></div>
 

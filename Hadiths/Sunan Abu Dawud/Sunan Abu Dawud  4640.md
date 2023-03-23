@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... মাকহূল (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যুদ্ধের সময় মুসলিমদের তাঁবু একস্থানে অবস্থিত থাকবে, যাকে 'গুতা' বলা হয়। (এটি শাম দেশে, দামিশকের কাছে অবস্থিত একটা স্থানের নাম।)
+। মাকহুল (রহঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তুমুল যুদ্ধের সময় মুসলিমদের সমাবেশ স্থলের নাম হলো গুতাহ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 42 Hadith 45</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেবল পিতা তার পুত্রদের কিছু দিয়ে তা ফেরত নিতে পারে। এ ছাড়া আর কারো জন্য কোন জিনিস কাউকে দিয়ে তা ফেরত নেওয়া জাইয নয়। আর ঐ ব্যক্তির উদাহরণ, যে কাউকে কিছু দিয়ে তা আবার ফেরত চায়, ঐ কুকুরের মত, যে পেট পুরে খাওয়ার পর বমি করে, পরে তা আবার নিজে ভক্ষণ করে।
+। ইবনু ‘উমার ও ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোনো ব্যক্তির জন্যই (কাউকে কিছু) দেয়ার বা দান করার পর তা ফেরত নেয়া হালাল নয়। তবে পিতা পুত্রকে কিছু দান করার পর তা ফেরত নিতে পারবে। যে ব্যক্তি দান করার পর তা ফেরত নেয়, সে এমন কুকুরের মতো, যে পেট ভরে খাওয়ার পর বমি করে পুনরায় তা খায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3539</td></tr><tr><td>Arabic No</td><td>3539</td></tr><tr><td>Reference</td><td>Book 24 Hadith 124</td></tr></tbody></table></div>
 

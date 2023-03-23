@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৪৩২৯। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জান্নাতের এক বিঘত পরিমাণ স্থান সমগ্র পৃথিবী ও তার মধ্যকার সব কিছু থেকে উত্তম।
+। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জান্নাতের এক বিঘত পরিমাণ স্থান সমগ্র পৃথিবী ও তার মধ্যকার সব কিছু থেকে উত্তম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4329</td></tr><tr><td>Arabic No</td><td>4329</td></tr><tr><td>Reference</td><td>Book 37 Hadith 230</td></tr></tbody></table></div>
 

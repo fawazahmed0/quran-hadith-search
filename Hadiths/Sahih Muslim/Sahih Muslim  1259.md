@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১১৪৬, আন্তর্জাতিক নাম্বারঃ ৫৬৭ ১১৪৬-(.../...) আবূ বকর ইবনু আবূ শায়বাহ, যুহায়র ইবনু হারব ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... কতাদাহ (রহঃ) থেকে (পূর্ব-বর্ণিত হাদীসের) অনুরূপ বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১১৩৯, ইসলামীক সেন্টার ১১৪৮)
+আবূ বকর ইবনু আবূ শায়বাহ, যুহায়র ইবনু হারব ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... কতাদাহ (রহঃ) থেকে (পূর্ব-বর্ণিত হাদীসের) অনুরূপ বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১১৩৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1259</td></tr><tr><td>Arabic No</td><td>567.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 97</td></tr></tbody></table></div>
 

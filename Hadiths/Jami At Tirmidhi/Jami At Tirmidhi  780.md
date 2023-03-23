@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭৮০। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কাউকে খাবারের দাওয়াত দেওয়া হলে সেলোক যেন তা গ্রহণ করে। সে রোযাদার হলে (দাওয়াতকারীর জন্য) যেন দু'আ করে। — সহীহ, ইবনু মা-জাহ (১৭৫০), মুসলিম
+। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কাউকে খাবারের দাওয়াত দেওয়া হলে সেলোক যেন তা গ্রহণ করে। সে রোযাদার হলে (দাওয়াতকারীর জন্য) যেন দু'আ করে। — সহীহ, ইবনু মা-জাহ (১৭৫০), মুসলিম
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 8 Hadith 99</td></tr></tbody></table></div>
 

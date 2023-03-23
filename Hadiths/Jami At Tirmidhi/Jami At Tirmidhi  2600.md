@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৬০০। ইমরান ইবনু হুসাইন (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার আবেদনের কারণে আমার উম্মাতের এক দল জাহান্নাম থেকে মুক্তি পাবে। তাদের নাম হবে জাহান্নামী। সহীহঃ ইবনু মা-জাহ (৪৩১৫), বুখারী আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবূ রাজা আল-উতারিদীর নাম ইমরান ইবনু তাইম, মতান্তরে ইবনু মিলহান।
+। ইমরান ইবনু হুসাইন (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার আবেদনের কারণে আমার উম্মাতের এক দল জাহান্নাম থেকে মুক্তি পাবে। তাদের নাম হবে জাহান্নামী। সহীহঃ ইবনু মা-জাহ (৪৩১৫), বুখারী আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবূ রাজা আল-উতারিদীর নাম ইমরান ইবনু তাইম, মতান্তরে ইবনু মিলহান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2600</td></tr><tr><td>Arabic No</td><td>2600</td></tr><tr><td>Reference</td><td>Book 39 Hadith 28</td></tr></tbody></table></div>
 

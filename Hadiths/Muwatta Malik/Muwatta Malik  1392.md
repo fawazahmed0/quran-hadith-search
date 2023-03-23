@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৩. যুহরী (রহঃ) সালিম ইবন আবদুল্লাহ্ ইবন উমর (রাঃ)-কে শস্যক্ষেত্র কেরায়া দেওয়ার ব্যাপারে প্রশ্ন করিলে তিনি বলিলেন, স্বর্ণ ও চাঁদির পরিবর্তে হইলে কোন ক্ষতি নাই। যুহরী (রহঃ) বললেন, রাফি ইবন খাদীজ (রাঃ) হইতে বর্ণিত হাদীস কি আপনার জানা আছে? উত্তরে সালিম (রহঃ) বলিলেন, তিনি অর্থাৎ রাফি' অনেক অস্পষ্ট কথা বলিয়াছেন, যদি আমার নিকট শস্যক্ষেত্র হইত তবে আমি কেরায়া দিতাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1392</td></tr><tr><td>Arabic No</td><td>1392</td></tr><tr><td>Reference</td><td>Book 34 Hadith 3</td></tr></tbody></table></div>
 

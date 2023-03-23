@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) অথবা জাবির ইবনু ‘আবদুল্লাহ (রাঃ) থেকে বর্ণনা করেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর দু’টি কব্জি ও দু’টি পা গোশতপূর্ণ ছিল। আমি তাঁর পরে তাঁর মত কাউকে দেখিনি। [৫৯০৭] (আধুনিক প্রকাশনী- ৫৪৭৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5911</td></tr><tr><td>Arabic No</td><td>5911</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Anas or Jabir bin 'Abdullah:The Prophet (ﷺ) had big hands and feet an
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி), அல்லது ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பருத்த உள்ளங்கைகளும் பருத்த பாதங்களும் உடையவர்களாக இருந்தார்கள். அவர்களுக்குப்பின் அவர்களைப் போன்றவர் எவரையும் நான் பார்க்கவில்லை. அத்தியாயம் : 77
+அனஸ் (ரலி), அல்லது ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பருத்த உள்ளங்கைகளும் பருத்த பாதங்களும் உடையவர்களாக இருந்தார்கள். அவர்களுக்குப்பின் அவர்களைப் போன்றவர் எவரையும் நான் பார்க்கவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5911</td></tr><tr><td>Arabic No</td><td>5911</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

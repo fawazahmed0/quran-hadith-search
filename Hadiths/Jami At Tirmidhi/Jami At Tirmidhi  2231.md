@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২২৩১। আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার পরিবারের মধ্যে একজন লোক রাজাধিপতি হবে, তার নাম হবে আমার নামের অনুরূপ। আসিম (রাহঃ) বলেন, আবূ হুরাইরা (রাঃ) হতে আবূ সালিহ (রাহঃ) আমাদের নিকট বর্ণনা করেছেন যে, যদি পৃথিবী ধ্বংসের মাত্র একদিনও অবশিষ্ট থাকে, তাহলে তার রাজত্বের জন্য আল্লাহ তা'আলা সে দিনটিকেই দীর্ঘায়িত করে দিবেন। হাসান সহীহ, দেখুন পূর্বের হাদীস আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার পরিবারের মধ্যে একজন লোক রাজাধিপতি হবে, তার নাম হবে আমার নামের অনুরূপ। আসিম (রাহঃ) বলেন, আবূ হুরাইরা (রাঃ) হতে আবূ সালিহ (রাহঃ) আমাদের নিকট বর্ণনা করেছেন যে, যদি পৃথিবী ধ্বংসের মাত্র একদিনও অবশিষ্ট থাকে, তাহলে তার রাজত্বের জন্য আল্লাহ তা'আলা সে দিনটিকেই দীর্ঘায়িত করে দিবেন। হাসান সহীহ, দেখুন পূর্বের হাদীস আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>2231</td></tr><tr><td>Reference</td><td>Book 33 Hadith 74</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইব্‌ন কুদামা (রহঃ) .... ইব্‌রাহীম (রহঃ) হতে বর্ণিত। তিনি বলেন, এক ওয়াসাকের পরিমাণ হল ষাট্‌ সা’আ-এর সমান এবং হিজাজীদের প্রচলিত সুনির্দিষ্ট ওজন।(১)
+। ইবরাহীম (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, এক ওয়াসাক হচ্ছে ষাট সা‘। এটি আল-হাজ্জাজ কর্তৃক নির্ধারিত।[1] সহীহ মাক্বতূ‘।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1560</td></tr><tr><td>Arabic No</td><td>1560</td></tr><tr><td>Reference</td><td>Book 9 Hadith 5</td></tr></tbody></table></div>
 

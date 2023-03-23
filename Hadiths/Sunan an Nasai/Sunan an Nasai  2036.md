@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইসহাক ইবনু মানসুর (রহঃ) ... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি এক ব্যক্তিকে শুনলাম যে, সে তার পিতা মাতার জন্য মাগফিরাত চাচ্ছে অথচ তারা মুশরিক। তখন আমি তাকে বললাম, তুমি তাদের জন্য মাগফিরাত চাচ্ছ অথচ তারা মুশরিক। তখন সে বললো, ইবরাহীম (আঃ) কি স্বীয় পিতার জন্য মাগফিরাত চাননি? এরপর আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে আসলাম এবং ঘটনা তার কাছে উল্লেখ করলাম। তখন এ আয়াত অবর্তীর্ণ হলঃ وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لأَبِيهِ إِلاَّ عَنْ مَوْعِدَةٍ وَعَدَهَا إِيَّاهُ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2036</td></tr><tr><td>Arabic No</td><td>2036</td></tr><tr><td>Reference</td><td>Book 21 Hadith 219</td></tr></tbody></table></div>
 
@@ -44,7 +44,7 @@ It was narrated that 'Ali said:"I heard a man praying for forgiveness for his pa
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Manshur] dia berkata; telah menceritakan kepada kami ['Abdurrahman] dari [Sufyan] dari [Abu Ishaq] dari [Abul Khalil] dari ['Ali] dia berkata; Aku mendengar seseorang memintakan ampunan bagi kedua orang tuanya sedang keduanya musyrik, maka aku bertanya kepadanya; "Apakah engkau memintakan ampunan untuk mereka berdua, padahal mereka musyrik?" ia menjawab, "Bukankah Nabi Ibrahim juga memintakan ampunan untuk bapaknya?" lalu aku menemui Nabi shallallahu 'alaihi wasallam dan aku ceritakan hal itu kepada beliau, lalu turunlah ayat, "Dan permintaan ampun dari Ibrahim (kepada Allah) untuk bapaknya tidak lain hanyalah karena suatu janji yang telah diikrarkannya kepada bapaknya itu." (Qs. At Taubah 9: 114)
+Telah mengabarkan kepada kami [Ishaq bin Manshur] dia berkata; telah menceritakan kepada kami ['Abdurrahman] dari [Sufyan] dari [Abu Ishaq] dari [Abul Khalil] dari ['Ali] dia berkata; Aku mendengar seseorang memintakan ampunan bagi kedua orang tuanya sedang keduanya musyrik, maka aku bertanya kepadanya; "Apakah engkau memintakan ampunan untuk mereka berdua, padahal mereka musyrik?" ia menjawab, "Bukankah Nabi Ibrahim juga memintakan ampunan untuk bapaknya?" lalu aku menemui Nabi shallallahu 'alaihi wasallam dan aku ceritakan hal itu kepada beliau, lalu turunlah ayat, "Dan permintaan ampun dari Ibrahim (kepada Allah) untuk bapaknya tidak lain hanyalah karena suatu janji yang telah diikrarkannya kepada bapaknya itu." (Qs. At Taubah 9:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2036</td></tr><tr><td>Arabic No</td><td>2036</td></tr><tr><td>Reference</td><td>Book 21 Hadith 219</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ ইবনু উমার ..... জাবের ইবনু আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। মুআয ইবনু জাবাল (রাঃ) রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের সাথে এশার নামায আদায়ের পর স্বীয় সম্প্রদায়ে ফিরে গিয়ে পুনরায় তাদের ঐ এশার নামাযে ইমামতি করতেন।
+। জাবির ইবনু ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। মু‘আয ইবনু জাবাল (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ‘ইশার সালাত আদায়ের পর পুনরায় নিজ কওমের নিকট গিয়ে ঐ সালাতেই তাদের ইমামতি করতেন।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir b. Abdullah'dan (rivayet edildiğine göre) Mu'az b. Cebel (r.a.) önce Resulullah (Sallallahu aleyhi ve Sellem) ile yatsıyı kılar, sonra kavmine gelip bu namazı (bir de) onlara kıldırırdı. Diğer tahric: Buharî, ezan; Müslim, salat; Ebu Davud, salat; Tirmizî, cum'a; Nesai, imame; Ahmed, I, 450; III, 376, 377
+Cabir b. Abdullah'dan (rivayet edildiğine göre) Mu'az b. Cebel (r.a.) önce Resulullah (Sallallahu aleyhi ve Sellem) ile yatsıyı kılar, sonra kavmine gelip bu namazı (bir de) onlara kıldırırdı. Diğer tahric: Buharî, ezan; Müslim, salat; Ebu Davud, salat; Tirmizî, cum'a; Nesai, imame; Ahmed, I, 450; III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
 

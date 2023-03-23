@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২২১৮। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রায় ত্রিশজন ডাহা মিথ্যাবাদী প্রতারকের আবির্ভাবের পূর্বে কিয়ামত সংঘটিত হবে না। তাদের সকলে দাবি করবে যে, সে আল্লাহ্ তা'আলার প্রেরিত রাসূল। সহীহ, সহীহাহ (১৬৮৩), বুখারী, মুসলিম। আবূ ঈসা বলেন, জাবির ইবনু সামুরা ও ইবনু উমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান সহীহ।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রায় ত্রিশজন ডাহা মিথ্যাবাদী প্রতারকের আবির্ভাবের পূর্বে কিয়ামত সংঘটিত হবে না। তাদের সকলে দাবি করবে যে, সে আল্লাহ্ তা'আলার প্রেরিত রাসূল। সহীহ, সহীহাহ (১৬৮৩), বুখারী, মুসলিম। আবূ ঈসা বলেন, জাবির ইবনু সামুরা ও ইবনু উমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2218</td></tr><tr><td>Arabic No</td><td>2218</td></tr><tr><td>Reference</td><td>Book 33 Hadith 61</td></tr></tbody></table></div>
 

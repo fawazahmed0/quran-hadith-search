@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -বলেছেনঃ প্রত্যেক সাবালকের জন্য জুমু‘আহর দিন গোসল করা ওয়াজিব। (৮৫৮) (আধুনিক প্রকাশনীঃ ৮৪৪, ইসলামিক ফাউন্ডেশনঃ ৮৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -বলেছেনঃ প্রত্যেক সাবালকের জন্য জুমু‘আহর দিন গোসল করা ওয়াজিব। (৮৫৮) (আধুনিক প্রকাশনীঃ ৮৪৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>895</td></tr><tr><td>Arabic No</td><td>895</td></tr><tr><td>Reference</td><td>Book 11 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Shafw
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஜுமுஆ நாளில் குளிப்பது பருவ மடைந்த ஒவ்வொருவர்மீதும் கடமை யாகும். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 11
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஜுமுஆ நாளில் குளிப்பது பருவ மடைந்த ஒவ்வொருவர்மீதும் கடமை யாகும். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>895</td></tr><tr><td>Arabic No</td><td>895</td></tr><tr><td>Reference</td><td>Book 11 Hadith 20</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/১৯২২। ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি কখনও রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর লজ্জাস্থানের দিকে তাকাইনি বা তা দেখিনি।
+। ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি কখনও রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর লজ্জাস্থানের দিকে তাকাইনি বা তা দেখিনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1922</td></tr><tr><td>Arabic No</td><td>1922</td></tr><tr><td>Reference</td><td>Book 9 Hadith 78</td></tr></tbody></table></div>
 

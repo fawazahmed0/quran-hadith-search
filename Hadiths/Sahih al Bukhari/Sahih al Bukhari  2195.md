@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রহ.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খেজুর ফল পোখতা হওয়ার আগে বিক্রি করতে নিষেধ করেছেন। আবূ ‘আবদুল্লাহ [ইমাম বুখারী (রহ.)] বলেন, অর্থাৎ লালচে হওয়ার আগে। (১৪৮৮) (আধুনিক প্রকাশনীঃ ২০৪১, ইসলামিক ফাউন্ডেশনঃ ২০৫৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রহ.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খেজুর ফল পোখতা হওয়ার আগে বিক্রি করতে নিষেধ করেছেন। আবূ ‘আবদুল্লাহ [ইমাম বুখারী (রহ.)] বলেন, অর্থাৎ লালচে হওয়ার আগে। (১৪৮৮) (আধুনিক প্রকাশনীঃ ২০৪১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2195</td></tr><tr><td>Arabic No</td><td>2195</td></tr><tr><td>Reference</td><td>Book 34 Hadith 142</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibnu Muqatil] telah menceritakan kepada kami ['A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: பேரீச்ச மரத்திலுள்ள கனிகள் பக்குவம் அடையாதவரை லிஅதாவது (உண்பதற்கு ஏற்றவாறு) சிவக்காத வரைலி அவற்றை விற்பதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள். அத்தியாயம் : 34
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: பேரீச்ச மரத்திலுள்ள கனிகள் பக்குவம் அடையாதவரை லிஅதாவது (உண்பதற்கு ஏற்றவாறு) சிவக்காத வரைலி அவற்றை விற்பதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2195</td></tr><tr><td>Arabic No</td><td>2195</td></tr><tr><td>Reference</td><td>Book 34 Hadith 142</td></tr></tbody></table></div>
 

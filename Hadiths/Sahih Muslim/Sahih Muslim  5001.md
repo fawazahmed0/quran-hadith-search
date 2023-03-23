@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৮৯৫, আন্তর্জাতিক নাম্বারঃ ১৯৩৫ ৪৮৯৫-(২০/…) উসমান ইবনু আবূ শাইবাহ্ (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা আমাদেরকে একটি অভিযানে পাঠালেন। বাহিনীতে আমরা ছিলাম তিনশ’ জন। আমরা আমাদের রসদপত্র আমাদের কাঁধে বহন করেছিলাম। (ইসলামিক ফাউন্ডেশন ৪৮৪৬, ইসলামিক সেন্টার ৪৮৪৭)
+(…) উসমান ইবনু আবূ শাইবাহ্ (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা আমাদেরকে একটি অভিযানে পাঠালেন। বাহিনীতে আমরা ছিলাম তিনশ’ জন। আমরা আমাদের রসদপত্র আমাদের কাঁধে বহন করেছিলাম। (ইসলামিক ফাউন্ডেশন ৪৮৪৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>1935.04</td></tr><tr><td>Reference</td><td>Book 34 Hadith 30</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எங்களில் முந்நூறு பேரை ஒரு படைப்பிரிவில் அனுப்பினார்கள். நாங்கள் எங்கள் பயண உணவை எங்கள் தோள்களில் சுமந்து எடுத்துச் சென்றோம். அத்தியாயம் : 34
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எங்களில் முந்நூறு பேரை ஒரு படைப்பிரிவில் அனுப்பினார்கள். நாங்கள் எங்கள் பயண உணவை எங்கள் தோள்களில் சுமந்து எடுத்துச் சென்றோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>1935.04</td></tr><tr><td>Reference</td><td>Book 34 Hadith 30</td></tr></tbody></table></div>
 

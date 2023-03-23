@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মদিনার প্রবেশ পথসমূহে ফেরেশ্তা পাহারায় নিয়োজিত আছে। তাই প্লেগ রোগ এবং দাজ্জাল মদিনায় প্রবেশ করতে পারবে না। (৫৭৩১, ৭১৩৩, মুসলিম ১৫/৮৭, হাঃ ১৩৭৯, আহমাদ ৭২৩৮) (আধুনিক প্রকাশনীঃ ১৭৪৫, ইসলামিক ফাউন্ডেশনঃ ১৭৫৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মদিনার প্রবেশ পথসমূহে ফেরেশ্তা পাহারায় নিয়োজিত আছে। তাই প্লেগ রোগ এবং দাজ্জাল মদিনায় প্রবেশ করতে পারবে না। (৫৭৩১, ৭১৩৩, মুসলিম ১৫/৮৭, হাঃ ১৩৭৯, আহমাদ ৭২৩৮) (আধুনিক প্রকাশনীঃ ১৭৪৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1880</td></tr><tr><td>Arabic No</td><td>1880</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மதீனாவின் நுழைவாயில்களில் வானவர்கள் இருப்பர். மதீனாவிற்குள் (பிளேக் போன்ற) கொள்ளை நோயும் தஜ்ஜாலும் நுழையமாட்டார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 29
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மதீனாவின் நுழைவாயில்களில் வானவர்கள் இருப்பர். மதீனாவிற்குள் (பிளேக் போன்ற) கொள்ளை நோயும் தஜ்ஜாலும் நுழையமாட்டார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1880</td></tr><tr><td>Arabic No</td><td>1880</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'in naklettiğine göre Resûl-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Medine'nin geçit yerlerinde melekler nöbet tutar; oraya veba hastalığı ve Deccal giremez." Tekrar: 5731, 7133
+Ebu Hureyre r.a.'in naklettiğine göre Resûl-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Medine'nin geçit yerlerinde melekler nöbet tutar; oraya veba hastalığı ve Deccal giremez." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1880</td></tr><tr><td>Arabic No</td><td>1880</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
 

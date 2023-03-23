@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন এমন সূরাহ্ তিলাওয়াত করতেন যাতে সিজদা্ আছে, তখন তিনি সিজদা্ করতেন এবং আমরাও তাঁর সঙ্গে সিজদা্ করতাম। এমন কি (ভীড়ের কারণে) আমাদের মধ্যে কেউ কেউ কপাল রাখার জায়গা পেত না। (১০৭৫) (আধুনিক প্রকাশনীঃ ১০১৩, ইসলামিক ফাউন্ডেশনঃ ১০১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন এমন সূরাহ্ তিলাওয়াত করতেন যাতে সিজদা্ আছে, তখন তিনি সিজদা্ করতেন এবং আমরাও তাঁর সঙ্গে সিজদা্ করতাম। এমন কি (ভীড়ের কারণে) আমাদের মধ্যে কেউ কেউ কপাল রাখার জায়গা পেত না। (১০৭৫) (আধুনিক প্রকাশনীঃ ১০১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 17 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Shadaqah bin Al Fadhal] berkata, telah mengabark
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சஜ்தா வசன முள்ள அத்தியாயத்தை (எங்களுக்கு) ஓதிக்காட்டும்போது அவர்கள் சஜ்தா செய்வார்கள். உடனே நாங்களும் சஜ்தா செய்வோம். அப்போது எங்களில் சிலருக்கு நெற்றி வைக்கக்கூட (போதுமான) இடம் கிடைக்காது. அத்தியாயம் : 17
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சஜ்தா வசன முள்ள அத்தியாயத்தை (எங்களுக்கு) ஓதிக்காட்டும்போது அவர்கள் சஜ்தா செய்வார்கள். உடனே நாங்களும் சஜ்தா செய்வோம். அப்போது எங்களில் சிலருக்கு நெற்றி வைக்கக்கூட (போதுமான) இடம் கிடைக்காது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 17 Hadith 13</td></tr></tbody></table></div>
 

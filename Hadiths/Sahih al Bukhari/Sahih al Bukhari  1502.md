@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ ইবনু আবূ তালহাকে সাথে নিয়ে আমি একদিন সকালে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট তাঁকে তাহ্নীক করানোর উদ্দেশে গেলাম। তখন আমি তাঁকে নিজ হাতে একটি কাঠি দিয়ে যাকাতের উটের গায়ে চিহ্ন লাগাতে দেখলাম। (৫৫৪২, ৫৮২৪) (আধুনিক প্রকাশনীঃ ১৪০৫, ইসলামিক ফাউন্ডেশনঃ ১৪১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ ইবনু আবূ তালহাকে সাথে নিয়ে আমি একদিন সকালে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট তাঁকে তাহ্নীক করানোর উদ্দেশে গেলাম। তখন আমি তাঁকে নিজ হাতে একটি কাঠি দিয়ে যাকাতের উটের গায়ে চিহ্ন লাগাতে দেখলাম। (৫৫৪২, ৫৮২৪) (আধুনিক প্রকাশনীঃ ১৪০৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1502</td></tr><tr><td>Arabic No</td><td>1502</td></tr><tr><td>Reference</td><td>Book 24 Hadith 102</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பேரீச்சம் பழத்தை மென்று ஊட்டுவதற்காக ஒரு நாள் காலை அப்துல்லாஹ் பின் அபீதல்ஹா எனும் குழந்தையை அவர்களிடம் கொண்டுசென்றேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், சூடிடும் கருவியைக் கொண்டு ஸகாத் ஒட்டகங்களுக்கு, தம் கையால் அடையாளமிட்டுக் கொண்டிருந்ததைக் கண்டேன். அத்தியாயம் : 24
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பேரீச்சம் பழத்தை மென்று ஊட்டுவதற்காக ஒரு நாள் காலை அப்துல்லாஹ் பின் அபீதல்ஹா எனும் குழந்தையை அவர்களிடம் கொண்டுசென்றேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், சூடிடும் கருவியைக் கொண்டு ஸகாத் ஒட்டகங்களுக்கு, தம் கையால் அடையாளமிட்டுக் கொண்டிருந்ததைக் கண்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1502</td></tr><tr><td>Arabic No</td><td>1502</td></tr><tr><td>Reference</td><td>Book 24 Hadith 102</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik r.a. şöyle anlatır: "Abdullah İbn Ebi Talha'yı, ağzına, tahnik (çiğnenmiş hurma çalması) için Resûlullah'a götürdüm. Resûlullah Sallallahu Aleyhi ve Sellem ile karşılaştım. Elinde bir mühür vardı ve bununla zekât develerini damgalıyordu." Tekrar: 5542, 5824
+Enes İbn Malik r.a. şöyle anlatır: "Abdullah İbn Ebi Talha'yı, ağzına, tahnik (çiğnenmiş hurma çalması) için Resûlullah'a götürdüm. Resûlullah Sallallahu Aleyhi ve Sellem ile karşılaştım. Elinde bir mühür vardı ve bununla zekât develerini damgalıyordu." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1502</td></tr><tr><td>Arabic No</td><td>1502</td></tr><tr><td>Reference</td><td>Book 24 Hadith 102</td></tr></tbody></table></div>
 

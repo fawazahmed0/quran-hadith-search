@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উবাইদুল্লাহ ইবনু ‘আবদুল্লাহ ইবন ‘উতবাহ (রহ.) হতে বর্ণিত। ‘আয়িশাহ ও ‘আবদুল্লাহ ইবনু ‘আব্বাস (রাযি.) বলেছেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর মৃত্যু পীড়া শুরু হলে তিনি তাঁর একটা চাদরে নিজ মুখমন্ডল আবৃত করতে লাগলেন। যখন শ্বাস বন্ধ হবার উপক্রম হলো, তখন মুখ হতে চাদর সরিয়ে দিলেন। এমতাবস্থায় তিনি বললেনঃ ইয়াহুদী ও নাসারাদের প্রতি আল্লাহর অভিশাপ, তারা তাদের নবীদের (নবীদের) কবরকে মসজিদে পরিণত করেছে। (এ বলে) তারা যে (বিদ‘আতী) কার্যকলাপ করত তা হতে তিনি সতর্ক করেছিলেন। (১৩৩০, ১৩৯০, ৩৪৫৩, ৩৪৫৪, ৪৪৪১, ৪৪৪৩, ৪৪৪৪, ৫৮১৫, ৫৮১৬; মুসলিম ৫/৩, হাঃ ৫৩১, আহমাদ ১৮৮৪) (আধুনিক প্রকাশনীঃ ৪১৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>435</td></tr><tr><td>Arabic No</td><td>435</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி), அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) ஆகி யோர் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு இறப்பு நெருங்கிவிட்டபோது, தமது முகத்தின் மீது வேலைப்பாடுகள் கொண்ட கறுப்புத் துணி ஒன்றைப் போட்டுக்கொள்ளலானார்கள். வெப்பத்தை உணரும்போது, அதைத் தமது முகத்தி-ருந்து விலக்கிவிடுவார்கள். அதே நிலையில் அவர்கள் இருந்து கொண்டிருக்க, “யூதர்களையும் கிறித்தவர் களையும் அல்லாஹ் தனது கருணை யிலிருந்து அப்புறப்படுத்தவானாக! தம் இறைத்தூதர்களின் அடக்கத் தலங்களை அவர்கள் வழிபாட்டுத் தலங்களாக ஆக்கிக்கொண்டார்கள்” என்று கூறி, அவர்கள் செய்ததை(ப் போன்று நீங்களும் செய்துவிடாதீர்கள் எனத் தம் சமுதாயத் தாரை) எச்சரித்தார்கள். அத்தியாயம் : 8
+ஆயிஷா (ரலி), அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) ஆகி யோர் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு இறப்பு நெருங்கிவிட்டபோது, தமது முகத்தின் மீது வேலைப்பாடுகள் கொண்ட கறுப்புத் துணி ஒன்றைப் போட்டுக்கொள்ளலானார்கள். வெப்பத்தை உணரும்போது, அதைத் தமது முகத்தி-ருந்து விலக்கிவிடுவார்கள். அதே நிலையில் அவர்கள் இருந்து கொண்டிருக்க, “யூதர்களையும் கிறித்தவர் களையும் அல்லாஹ் தனது கருணை யிலிருந்து அப்புறப்படுத்தவானாக! தம் இறைத்தூதர்களின் அடக்கத் தலங்களை அவர்கள் வழிபாட்டுத் தலங்களாக ஆக்கிக்கொண்டார்கள்” என்று கூறி, அவர்கள் செய்ததை(ப் போன்று நீங்களும் செய்துவிடாதீர்கள் எனத் தம் சமுதாயத் தாரை) எச்சரித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>435</td></tr><tr><td>Arabic No</td><td>435</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ubeydullah İbn Abdullah İbn Utbe Hz. Aişe ile İbn Abbas'ın şöyle dediğini nakletmiştir: "Resulullah (Sallallahu Aleyhi ve Sellem) son rahatsızlığı esnasında kendisine ait kadife bir örtü ile yüzünü örtmeye başladı. Örtüden bunaldıkça yüzünü açardı. Bu haldeyken şöyle buyurdu: Yahudi ve Hıristiyanlara Allah la'net etsin! Zira onlar Nebilerinin kabirlerini mescid edindiler. Böylece ümmetini onların yaptıklarından sakındırıyordu. Tekrar: 1330, 1390, 3453, 4441, 4443, 5815; 3454, 4444, 5816
+Ubeydullah İbn Abdullah İbn Utbe Hz. Aişe ile İbn Abbas'ın şöyle dediğini nakletmiştir: "Resulullah (Sallallahu Aleyhi ve Sellem) son rahatsızlığı esnasında kendisine ait kadife bir örtü ile yüzünü örtmeye başladı. Örtüden bunaldıkça yüzünü açardı. Bu haldeyken şöyle buyurdu: Yahudi ve Hıristiyanlara Allah la'net etsin! Zira onlar Nebilerinin kabirlerini mescid edindiler. Böylece ümmetini onların yaptıklarından sakındırıyordu. Tekrar: 1330, 1390, 3453, 4441, 4443, 5815;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>435</td></tr><tr><td>Arabic No</td><td>435</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

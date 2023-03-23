@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাস‘ঊদ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুকুরের মূল্য, যিনাকারিণীর পারিশ্রমিক ও গণকের পারিশ্রমিক দিতে নিষেধ করেছেন। [২২৩৭] (আধুনিক প্রকাশনী- ৫৩৪০, ইসলামিক ফাউন্ডেশন- ৫২৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাস‘ঊদ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুকুরের মূল্য, যিনাকারিণীর পারিশ্রমিক ও গণকের পারিশ্রমিক দিতে নিষেধ করেছেন। [২২৩৭] (আধুনিক প্রকাশনী- ৫৩৪০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5761</td></tr><tr><td>Arabic No</td><td>5761</td></tr><tr><td>Reference</td><td>Book 76 Hadith 75</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நாய் விற்ற காசு, விபசாரியின் வருமானம், சோதிடனின் தட்சிணை ஆகியவற்றுக்கு நபி (ஸல்) அவர்கள் தடை விதித்தார்கள்.86 அத்தியாயம் : 76
+அபூமஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நாய் விற்ற காசு, விபசாரியின் வருமானம், சோதிடனின் தட்சிணை ஆகியவற்றுக்கு நபி (ஸல்) அவர்கள் தடை விதித்தார்கள்.86 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5761</td></tr><tr><td>Arabic No</td><td>5761</td></tr><tr><td>Reference</td><td>Book 76 Hadith 75</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুমায়দ সা‘ঈদ (রাযি.) হতে বর্ণিত। এক সন্ধ্যায় সালাতের পর আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়ালেন এবং শাহাদাত বাণী পাঠ করলেন। আর যথাযথভাবে আল্লাহর প্রশংসা করলেন। অতঃপর বললেন, ‘আম্মা বা‘দ’। (১৫০০, ২৫৯৭, ৬৬৩৬, ৬৯৭৯, ৭১৭৪, ৭১৯৭) (আধুনিক প্রকাশনীঃ ৮৭২, ইসলামিক ফাউন্ডেশনঃ ৮৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুমায়দ সা‘ঈদ (রাযি.) হতে বর্ণিত। এক সন্ধ্যায় সালাতের পর আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়ালেন এবং শাহাদাত বাণী পাঠ করলেন। আর যথাযথভাবে আল্লাহর প্রশংসা করলেন। অতঃপর বললেন, ‘আম্মা বা‘দ’। (১৫০০, ২৫৯৭, ৬৬৩৬, ৬৯৭৯, ৭১৭৪, ৭১৯৭) (আধুনিক প্রকাশনীঃ ৮৭২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>925</td></tr><tr><td>Arabic No</td><td>925</td></tr><tr><td>Reference</td><td>Book 11 Hadith 49</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுமைத் அப்துர் ரஹ்மான் அஸ்ஸாஇதீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு நாள் மாலையில் தொழுகைக்குப் பிறகு எழுந்து நின்று, ஏகத்துவ உறுதி மொழி கூறி அல்லாஹ்வை அவனுக்குத் தகுதியான பண்புகளைக் கூறி புகழ்ந்தபின் ‘அம்மா பஅத்’ (இறைவனைப் போற்றிப் புகழ்ந்தபின்...) என்று கூறினார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 11
+அபூஹுமைத் அப்துர் ரஹ்மான் அஸ்ஸாஇதீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு நாள் மாலையில் தொழுகைக்குப் பிறகு எழுந்து நின்று, ஏகத்துவ உறுதி மொழி கூறி அல்லாஹ்வை அவனுக்குத் தகுதியான பண்புகளைக் கூறி புகழ்ந்தபின் ‘அம்மா பஅத்’ (இறைவனைப் போற்றிப் புகழ்ந்தபின்...) என்று கூறினார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>925</td></tr><tr><td>Arabic No</td><td>925</td></tr><tr><td>Reference</td><td>Book 11 Hadith 49</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Urve, Ebû Humeyd es-Sâidî'nin kendisine şu bilgiyi haber verdiğini söylemiştir: "Resûlullah Sallallahu Aleyhi ve Sellem Öğleden sonra bir namazın ardında ayağa kalktı ve şehadet getirip Allah Teâlâ'ya hamd ve sena ettikten sonra şöyl dedi: Emma ba'du.. (bunlardan sonra...-Esas konuya gelince-). Tekrar: 1500, 2597, 6636, 6979, 7174 ve 7197
+Urve, Ebû Humeyd es-Sâidî'nin kendisine şu bilgiyi haber verdiğini söylemiştir: "Resûlullah Sallallahu Aleyhi ve Sellem Öğleden sonra bir namazın ardında ayağa kalktı ve şehadet getirip Allah Teâlâ'ya hamd ve sena ettikten sonra şöyl dedi: Emma ba'du.. (bunlardan sonra...-Esas konuya gelince-). Tekrar: 1500, 2597, 6636, 6979, 7174 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>925</td></tr><tr><td>Arabic No</td><td>925</td></tr><tr><td>Reference</td><td>Book 11 Hadith 49</td></tr></tbody></table></div>
 

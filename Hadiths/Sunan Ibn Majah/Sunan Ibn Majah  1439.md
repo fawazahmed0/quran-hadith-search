@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭/১৪৩৯। ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক রুগ্ন ব্যক্তিকে দেখতে গিয়ে বলেনঃ তুমি কী চাও? সে বললো, আমি গমের রুটি খেতে চাই। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কারো কাছে গমের রুটি থাকলে সে যেন তা তার ভাইয়ের জন্য পাঠায়। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কারো রোগী কিছু খেতে আকাঙ্ক্ষা কররে সে তাকে যেন তা খাওয়ায়।
+। ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক রুগ্ন ব্যক্তিকে দেখতে গিয়ে বলেনঃ তুমি কী চাও? সে বললো, আমি গমের রুটি খেতে চাই। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কারো কাছে গমের রুটি থাকলে সে যেন তা তার ভাইয়ের জন্য পাঠায়। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কারো রোগী কিছু খেতে আকাঙ্ক্ষা কররে সে তাকে যেন তা খাওয়ায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1439</td></tr><tr><td>Arabic No</td><td>1439</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
 

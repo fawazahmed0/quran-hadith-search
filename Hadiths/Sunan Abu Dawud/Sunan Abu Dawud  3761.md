@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমা'ঈল (রহঃ) ......... সালমান (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি তাওরাতে পড়েছি যে, ''খাওয়ার আগে উযূ করলে খাদ্যের মধ্যে বরকত হয়। ''আমি একথা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললে, তিনি বলেনঃ খাওয়ার মধ্যে বরকত হলো খাদ্য গ্রহণের আগে এবং খাওয়ার শেষে উযূ করাতে। সুফয়ান ছাওরী (রহঃ) খাওয়ার আগে সালাতের উযূর ন্যায় উযূ করাকে খারাপ মনে করতেন। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ হাদীছটি দুর্বল।
+। সালমান (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আম তাওরাতে পড়েছিঃ ‘‘খাবার শুরুর আগে উযু করার মধ্যেই খাবারের বরকত নিহিত।’’ আমি এ কথা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট বর্ণনা করলে তিনি বলেনঃ খাদ্য গ্রহণের আগে ও পরে উযু করার (হাত ধোয়ার) মধ্যে খাদ্যের বরকত নিহিত। সুফিয়ান (রহঃ) খাওয়ার পূর্বে উযু করা পছন্দ করতেন না। ইমাম আবূ দাঊদ (রহঃ) বলেন, হাদীসটি যঈফ।[1] দুর্বলঃ যঈফাহ (১৬৮), মিশকাত (৪২০৮)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3761</td></tr><tr><td>Arabic No</td><td>3761</td></tr><tr><td>Reference</td><td>Book 28 Hadith 26</td></tr></tbody></table></div>
 

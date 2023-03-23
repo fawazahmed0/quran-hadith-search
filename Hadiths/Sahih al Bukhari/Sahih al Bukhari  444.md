@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কাতাদাহ্ সালামী (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ মসজিদে প্রবেশ করলে সে যেন বসার পূর্বে দু’রাক‘আত সালাত আদায় করে নেয়। (১১৬৩; মুসলিম ৬/১০, হাঃ ৭১৪, আহমাদ ১৫৭৮৯) (আধুনিক প্রকাশনীঃ ৪২৫, ইসলামিক ফাউন্ডেশনঃ ৪৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ কাতাদাহ্ সালামী (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ মসজিদে প্রবেশ করলে সে যেন বসার পূর্বে দু’রাক‘আত সালাত আদায় করে নেয়। (১১৬৩; মুসলিম ৬/১০, হাঃ ৭১৪, আহমাদ ১৫৭৮৯) (আধুনিক প্রকাশনীঃ ৪২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>444</td></tr><tr><td>Arabic No</td><td>444</td></tr><tr><td>Reference</td><td>Book 8 Hadith 93</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் பள்ளிவாசலுக்குள் நுழைந்தால், உட்காருவதற்கு முன்பு இரண்டு ரக்அத்கள் தொழட்டும். இதை அபூகத்தாதா அஸ்ஸலமீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 8
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் பள்ளிவாசலுக்குள் நுழைந்தால், உட்காருவதற்கு முன்பு இரண்டு ரக்அத்கள் தொழட்டும். இதை அபூகத்தாதா அஸ்ஸலமீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>444</td></tr><tr><td>Arabic No</td><td>444</td></tr><tr><td>Reference</td><td>Book 8 Hadith 93</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Katâde es-Selemî'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu nakledilmiştir: İçinizden biri Mescid'e girdiği zaman oturmadan önce iki rek'at namaz kılsın!. Tekrar: 1164
+Ebu Katâde es-Selemî'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu nakledilmiştir: İçinizden biri Mescid'e girdiği zaman oturmadan önce iki rek'at namaz kılsın!. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>444</td></tr><tr><td>Arabic No</td><td>444</td></tr><tr><td>Reference</td><td>Book 8 Hadith 93</td></tr></tbody></table></div>
 

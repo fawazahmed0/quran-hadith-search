@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ جَابِرٌ حَرَّمَ النَّبِيُّ صلى الله عليه وسلم بَيْعَ الْخَمْرِ জাবির (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদ বিক্রয় করা হারাম করেছেন। ২২২৬. ‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন সূরা আল-বাকারার শেষ আয়াতগুলো নাযিল হলো, তখন নবী বের হয়ে বললেন, শরাবের ব্যবসা হারাম করা হয়েছে। (আধুনিক প্রকাশনীঃ ২০৬৯, ইসলামিক ফাউন্ডেশনঃ ২০৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ جَابِرٌ حَرَّمَ النَّبِيُّ صلى الله عليه وسلم بَيْعَ الْخَمْرِ জাবির (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদ বিক্রয় করা হারাম করেছেন। ২২২৬. ‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন সূরা আল-বাকারার শেষ আয়াতগুলো নাযিল হলো, তখন নবী বের হয়ে বললেন, শরাবের ব্যবসা হারাম করা হয়েছে। (আধুনিক প্রকাশনীঃ ২০৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2226</td></tr><tr><td>Arabic No</td><td>2226</td></tr><tr><td>Reference</td><td>Book 34 Hadith 173</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ‘அல்பகரா’ அத்தியாயத்தின் (வட்டியைத் தடை செய்யும் வசனத்திலிருந்து) இறுதி வசனம்வரையிலான வசனங்கள் (2:275லி281) இறங்கியபோது நபி (ஸல்) அவர்கள் (மக்களிடம்) வந்து, ‘‘மதுபான வணிகம் தடை செய்யப்பட்டுவிட்டது” என்றார்கள்.86 அத்தியாயம் : 34
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ‘அல்பகரா’ அத்தியாயத்தின் (வட்டியைத் தடை செய்யும் வசனத்திலிருந்து) இறுதி வசனம்வரையிலான வசனங்கள் (2:275லி281) இறங்கியபோது நபி (ஸல்) அவர்கள் (மக்களிடம்) வந்து, ‘‘மதுபான வணிகம் தடை செய்யப்பட்டுவிட்டது” என்றார்கள்.86 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2226</td></tr><tr><td>Arabic No</td><td>2226</td></tr><tr><td>Reference</td><td>Book 34 Hadith 173</td></tr></tbody></table></div>
 

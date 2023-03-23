@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন ফজরের সালাত শেষ করতেন তখন নারীরা চাদরে সর্বাঙ্গ আচ্ছাদিত করে ঘরে ফিরতেন। অন্ধকারের দরুণ তখন তাঁদেরকে চেনা যেতো না। (৩৭২) (আ.প্র, ৮১৮ ইসলামিক ফাউন্ডেশনঃ ৮২৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন ফজরের সালাত শেষ করতেন তখন নারীরা চাদরে সর্বাঙ্গ আচ্ছাদিত করে ঘরে ফিরতেন। অন্ধকারের দরুণ তখন তাঁদেরকে চেনা যেতো না। (৩৭২) (আ.প্র, ৮১৮ ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 10 Hadith 258</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik]. (dalam jal
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் சுப்ஹு தொழுகையைத் தொழுவிப்பார்கள். (தொழுகை முடிந்ததும்) பெண்கள் தங்கள் ஆடைகளால் (உடல் முழுவதையும்) போர்த்திக்கொண்டு திரும்பிச் செல்வார்கள். இருட்டின் காரணத்தால் அவர்கள் (யார் யாரென) அறியப்படமாட்டார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 10
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் சுப்ஹு தொழுகையைத் தொழுவிப்பார்கள். (தொழுகை முடிந்ததும்) பெண்கள் தங்கள் ஆடைகளால் (உடல் முழுவதையும்) போர்த்திக்கொண்டு திரும்பிச் செல்வார்கள். இருட்டின் காரணத்தால் அவர்கள் (யார் யாரென) அறியப்படமாட்டார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 10 Hadith 258</td></tr></tbody></table></div>
 

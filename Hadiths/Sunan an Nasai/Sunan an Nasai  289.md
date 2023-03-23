@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৮৯, আন্তর্জাতিক নাম্বারঃ ২৯০ ২৮৯. 'আমর ইবনু 'আলী (রহ.) ..... ইবনু আব্বাস (রাঃ) হতে বর্ণিত। তিনি নবী (সা.) হতে ঐ লোক সম্পর্কে বর্ণনা করেন, যে লোক হায়য অবস্থায় স্ত্রী সহবাস করে সে এক দীনার অথবা অর্ধ দীনার সদাক্বাহ করে। সহীহ: আবূ দাউদ ২৬৪, ইবনু মাজাহ ৬৪০।
+। আমর ইবনু আলী (রহঃ) ... ইবনু আব্বাস (রাঃ) থেকে বর্ণিত, তিনি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে ঐ ব্যাক্তি সম্পর্কে বর্ণনা করেনঃ যে ব্যাক্তি হায়য অবস্থায় স্ত্রী সঙ্গম করে, সে এক দিনার অথবা অর্ধ দিনার সা’দকা করবে। সহিহ, ইবনু মাজাহ হাঃ ৬৪০, আদবুয যিফাফ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>289</td></tr><tr><td>Arabic No</td><td>289</td></tr><tr><td>Reference</td><td>Book 1 Hadith 290</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Amr bin Ali] dia berkata; Telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbâs (radıyallahü anh)’dan rivâyete göre, Peygamber (sallallahü aleyhi ve sellem) hayızlı olduğunu bilerek bir kimse hanımıyla cinsel ilişkide bulunursa, ceza olarak bir veya yarım dinar sadaka vermesini emretmiştir. (Tirmizî, Tahara: 103; Ebû Dâvûd, Tahara: 106)
+İbn Abbâs (radıyallahü anh)’dan rivâyete göre, Peygamber (sallallahü aleyhi ve sellem) hayızlı olduğunu bilerek bir kimse hanımıyla cinsel ilişkide bulunursa, ceza olarak bir veya yarım dinar sadaka vermesini emretmiştir. (Tirmizî, Tahara: 103; Ebû Dâvûd, Tahara:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>289</td></tr><tr><td>Arabic No</td><td>289</td></tr><tr><td>Reference</td><td>Book 1 Hadith 290</td></tr></tbody></table></div>
 

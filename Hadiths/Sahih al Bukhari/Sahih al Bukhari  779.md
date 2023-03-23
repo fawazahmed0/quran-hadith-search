@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কাতাদাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের সালাতের প্রথম রাক‘আতে কিরাআত দীর্ঘ করতেন ও দ্বিতীয় রাক‘আতে সংক্ষিপ্ত করতেন এবং এ রকম করতেন ফজরের সালাতেও। (৭৫৯) (আধুনিক প্রকাশনীঃ ৭৩৫, ইসলামিক ফাউন্ডেশনঃ ৭৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ কাতাদাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের সালাতের প্রথম রাক‘আতে কিরাআত দীর্ঘ করতেন ও দ্বিতীয় রাক‘আতে সংক্ষিপ্ত করতেন এবং এ রকম করতেন ফজরের সালাতেও। (৭৫৯) (আধুনিক প্রকাশনীঃ ৭৩৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 10 Hadith 174</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Hisy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூகத்தாதா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் லுஹ்ர் தொழுகை யின் முதலாவது ரக்அத்தில் நீண்ட நேரம் ஓதுவார்கள்; இரண்டாவது ரக்அத்தில் சுருக்கமாக ஓதுவார்கள். சுப்ஹு தொழுகையிலும் இவ்வாறே செய்வார்கள். அத்தியாயம் : 10
+அபூகத்தாதா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் லுஹ்ர் தொழுகை யின் முதலாவது ரக்அத்தில் நீண்ட நேரம் ஓதுவார்கள்; இரண்டாவது ரக்அத்தில் சுருக்கமாக ஓதுவார்கள். சுப்ஹு தொழுகையிலும் இவ்வாறே செய்வார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 10 Hadith 174</td></tr></tbody></table></div>
 

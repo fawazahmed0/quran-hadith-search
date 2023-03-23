@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল মুছান্না .... যায়েদ ইবনু ছাবেত (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসুসুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম সূর্য পশ্চিম আকাশে হেলে যাওয়ার পর যুহরের নামায প্রচন্ড গরম থাকাবস্থায় আদায় করতেন। সাহাবীদের জন্য এই নামাযের চাইতে কষ্টদায়ক (প্রচন্ড গরমের কারণে) অন্য কোন নামায ছিল না। অতঃপর এই আয়াত নাযিল হয়ঃ “তোমরা নামাযসমূহের হেফাযত কর, বিশেষভাবে মধ্যবর্তী নামাযের”। তিনি বলেন, এর পূর্বে দুই ওয়াক্ত ও পরে দুই ওয়াক্তের নামায আছে। (বুখারীর তারীখ, আহমাদ)।
+। যায়িদ ইবনু সাবিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের সালাত দুপুরে (সূর্য ঢলা পরপরই প্রচন্ড গরমে) আদায় করতেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীগণের নিকট অন্যান্য সালাতের চেয়ে এ সালাতই ছিল বেশি কষ্টদায়ক। অতঃপর এ আয়াত অবতীর্ণ হয়ঃ ‘‘তোমরা সালাত সমূহের হিফাযাত কর, বিশেষ করে মধ্যবর্তী সালাতের’’ (সূরাহ বাক্বারাহ, ২৩৮)। যায়িদ (রাঃ) বলেন, এ সালাতের পূর্বে এবং পরে দু’ ওয়াক্ত করে সালাত রয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>411</td></tr><tr><td>Arabic No</td><td>411</td></tr><tr><td>Reference</td><td>Book 2 Hadith 21</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyd bin Sabit (r.a.)'den demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) öğle namazını, zevalden hemen sonra kıldırırdı. Ashabına ondan daha meşakkatli hiçbir namaz kıldırmadı. ''Namazlara ve orta namazına devam ediniz" ayeti inince, Efendimiz: "Ondan önce iki namaz ve sonra iki namaz vardır" buyurdu. Diğer tahric: Ahmed b. Hanbel, V, 183
+Zeyd bin Sabit (r.a.)'den demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) öğle namazını, zevalden hemen sonra kıldırırdı. Ashabına ondan daha meşakkatli hiçbir namaz kıldırmadı. ''Namazlara ve orta namazına devam ediniz" ayeti inince, Efendimiz: "Ondan önce iki namaz ve sonra iki namaz vardır" buyurdu. Diğer tahric: Ahmed b. Hanbel, V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>411</td></tr><tr><td>Arabic No</td><td>411</td></tr><tr><td>Reference</td><td>Book 2 Hadith 21</td></tr></tbody></table></div>
 

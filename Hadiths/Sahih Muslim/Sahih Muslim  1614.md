@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৪৯৯, আন্তর্জাতিক নাম্বারঃ ৭০০ ১৪৯৯-(৩৫/...) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ... আবদুল্লাহ ইবনু উমার (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে একটি গাধার পিঠে আরোহণ করে খায়বারের দিকে মুখ করে সালাত আদায় করতে দেখেছি। (ইসলামী ফাউন্ডেশন ১৪৮৪, ইসলামীক সেন্টার ১৪৯২)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ... আবদুল্লাহ ইবনু উমার (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে একটি গাধার পিঠে আরোহণ করে খায়বারের দিকে মুখ করে সালাত আদায় করতে দেখেছি। (ইসলামী ফাউন্ডেশন ১৪৮৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1614</td></tr><tr><td>Arabic No</td><td>700.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 45</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] katanya; "Aku pernah menyetorka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கழுதையில் இருந்தவாறு தொழுவதை நான் கண்டேன். அப்போது அவர்கள் கைபரை நோக்கிச் சென்றுகொண்டிருந்தார்கள். அத்தியாயம் : 6
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கழுதையில் இருந்தவாறு தொழுவதை நான் கண்டேன். அப்போது அவர்கள் கைபரை நோக்கிச் சென்றுகொண்டிருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1614</td></tr><tr><td>Arabic No</td><td>700.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 45</td></tr></tbody></table></div>
 

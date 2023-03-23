@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭১৮। সাইব ইবনু ইয়াযীদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, তাবুকের যুদ্ধ শেষে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফিরে আসলে জনগণ তাকে অভ্যর্থনা জানানোর উদ্দেশ্যে সানিয়াতুল বিদা পর্যন্ত এগিয়ে যায়। সাইব (রাঃ) বলেন, জনগণের সাথে আমিও এগিয়ে গেলাম। আমি তখন বালক ছিলাম। সহীহ, বুখারী এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। সাইব ইবনু ইয়াযীদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, তাবুকের যুদ্ধ শেষে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফিরে আসলে জনগণ তাকে অভ্যর্থনা জানানোর উদ্দেশ্যে সানিয়াতুল বিদা পর্যন্ত এগিয়ে যায়। সাইব (রাঃ) বলেন, জনগণের সাথে আমিও এগিয়ে গেলাম। আমি তখন বালক ছিলাম। সহীহ, বুখারী এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1718</td></tr><tr><td>Arabic No</td><td>1718</td></tr><tr><td>Reference</td><td>Book 23 Hadith 52</td></tr></tbody></table></div>
 

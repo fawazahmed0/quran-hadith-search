@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ঈসা ইবনে ইবরাহীম (রহঃ) .... মুহাম্মাদ ইবনে আমর ইবনে আতা (রহঃ) হতে বর্ণিত। তিনি বলেন, একদা তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর একদল সাহাবীদের মধ্যে বসা ছিলেন, এ সময় উপরোক্ত হাদিসটি আলোচিত হয়। তবে তাতে আবু কাতাদা (রাঃ) এর নাম উল্লেখ নেই। রাবী বলেন, যখন তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) দ্বিতীয় রাকাতের পরে বসতেন, তখন বাম পায়ের উপর ভর করে বসতেন এবং যখন তিনি শেষ বৈঠকে বসতেন, তখন বাম পা সামনে এগিয়ে দিয়ে এবং পাছার উপর ভর করে বসতেন।
+। মুহাম্মদ ইবনু ‘আমর ইবনু ‘আত্বা (রহঃ) সূত্রে বর্ণিত। একদা তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর একদল সাহাবীর সাথে বসা ছিলেন। তখন পূর্বোক্ত হাদীসটি আলোচিত হয়। অবশ্য তাতে সাহাবী আবূ ক্বাতাদাহর নাম উল্লেখ নেই। তিনি বর্ণনা করলেন, তিনি যখন দুই রাক’আত সম্পন্ন করে বসতেন তখন বাম পা বাইরের দিকে ছড়িয়ে দিয়ে নিতম্বের উপর বসলেন।[1] সহীহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>964</td></tr><tr><td>Arabic No</td><td>964</td></tr><tr><td>Reference</td><td>Book 2 Hadith 575</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম ইবন মুসা রাযী (রহঃ) ..... ওয়াসিলা ইবন আসকা' (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেনঃ মহিলারা তিন ব্যক্তির উত্তরাধিকারী হতে পারে, যথাঃ (১) স্বীয় আযাদকৃত গোলামের, (২) পথে কুড়িয়ে পাওয়া সন্তানের এবং (৩) নিজের ঐ সন্তানের, যার ব্যাপারে স্বামীর সাথে লি‘আন করা হয়েছে (অর্থাৎ পিতা যার পিতৃত্বের অস্বীকার করেছে এমন সন্তান)।
+। ওয়াসিলাহ ইবনুল আসকা (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ নারীরা তিন ব্যক্তির মীরাস পাবেঃ (১) তার মুক্তদাসের (২) তার কুড়িয়ে পাওয়া শিশুর মীরাস এবং (৩) যে সন্তান সম্পর্কে সে লি‘আন করেছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2906</td></tr><tr><td>Arabic No</td><td>2906</td></tr><tr><td>Reference</td><td>Book 19 Hadith 22</td></tr></tbody></table></div>
 

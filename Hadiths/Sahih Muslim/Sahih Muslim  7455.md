@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... আয়িশাহ্ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, এমন সময় রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ওফাত হয়েছে, যখন আমরা দুটি কালো জিনিস তথা পানি ও খেজুর খেয়ে পূর্ণতৃপ্ত হতাম। (ইসলামিক ফাউন্ডেশন ৭১৮৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7455</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

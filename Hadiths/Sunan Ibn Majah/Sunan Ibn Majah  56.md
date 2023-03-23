@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫/৫৬। আবদুল্লাহ ইবনু আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ বনী ইসরাঈলের যাবতীয় কাজকর্ম যথার্থভাবেই হচ্ছিল, যতক্ষণ তাদের মধ্যে যথার্থ সন্তান জন্মেছে। অতঃপর তাদের মধ্যে বিজাতীয় বা লুন্ঠনকৃত নারীর সন্তান যুক্ত হলে তারা নিজেদের মত অনুযায়ী রায় প্রদান করে নিজেরাও পথভ্রষ্ট হয় এবং অন্যদেরও পথভ্রষ্ট করে।
+। আবদুল্লাহ ইবনু আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ বনী ইসরাঈলের যাবতীয় কাজকর্ম যথার্থভাবেই হচ্ছিল, যতক্ষণ তাদের মধ্যে যথার্থ সন্তান জন্মেছে। অতঃপর তাদের মধ্যে বিজাতীয় বা লুন্ঠনকৃত নারীর সন্তান যুক্ত হলে তারা নিজেদের মত অনুযায়ী রায় প্রদান করে নিজেরাও পথভ্রষ্ট হয় এবং অন্যদেরও পথভ্রষ্ট করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 0 Hadith 56</td></tr></tbody></table></div>
 

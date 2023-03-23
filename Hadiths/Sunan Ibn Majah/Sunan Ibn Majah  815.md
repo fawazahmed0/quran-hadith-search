@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৮১৫। আবদুল্লাহ ইবনু মুগাফফাল (রাঃ) এর পুত্র থেকে বর্ণিত। তিনি বলেন, ইসলামে নতুন কিছু উদ্ভাবন বা প্রচলনের বিরুদ্ধে আমার পিতার চাইতে অধিক কঠোর মনোভাবাপন্ন লোক আমি খুব কমই দেখেছি। তিনি আমাকে (সালাতের মধ্যে) বিসমিল্লাহির রাহমানির রাহীম পড়তে শুনে বলেন, প্রিয় বৎস! বিদআত থেকে বিরত থাকো। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বাকর , উমার ও উসমান (রাঃ) এর সাথে সালাত আদায় করেছি, কিন্তু আমি তাদের কাউকে বিসমিল্লাহ পড়তে শুনিনি। অতএব তুমি আলহামদু লিল্লাহি রাব্বিল আলামীন দ্বারাই কিরাআত শুরু করবে।
+। আবদুল্লাহ ইবনু মুগাফফাল (রাঃ) এর পুত্র থেকে বর্ণিত। তিনি বলেন, ইসলামে নতুন কিছু উদ্ভাবন বা প্রচলনের বিরুদ্ধে আমার পিতার চাইতে অধিক কঠোর মনোভাবাপন্ন লোক আমি খুব কমই দেখেছি। তিনি আমাকে (সালাতের মধ্যে) বিসমিল্লাহির রাহমানির রাহীম পড়তে শুনে বলেন, প্রিয় বৎস! বিদআত থেকে বিরত থাকো। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বাকর , উমার ও উসমান (রাঃ) এর সাথে সালাত আদায় করেছি, কিন্তু আমি তাদের কাউকে বিসমিল্লাহ পড়তে শুনিনি। অতএব তুমি আলহামদু লিল্লাহি রাব্বিল আলামীন দ্বারাই কিরাআত শুরু করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 5 Hadith 13</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ibn ‘Abdullah bin Mughaffal narrated from his father and he said:“I have rarely seen a man for whom innovation in Islam was harder to bear than him. He heard me reciting: ‘In the Name of Allah, the Most Gracious, the Most Merciful’ Bismillahir-Rahmanir-Rahim [1:1] and he said: ‘O my son, beware of innovation, for I prayed with the Messenger of Allah (ﷺ), and with Abu Bakr, and with ‘Umar, and with ‘Uthman, and I never heard any of them saying this. When you (begin to) recite, say: ‘All the praises and thanks are to Allah, the Lord of all that exists.’ (Al-hamdu Lillahi Rabbil-‘Alamin).’” [1:2]
+Ibn ‘Abdullah bin Mughaffal narrated from his father and he said:“I have rarely seen a man for whom innovation in Islam was harder to bear than him. He heard me reciting: ‘In the Name of Allah, the Most Gracious, the Most Merciful’ Bismillahir-Rahmanir-Rahim [1:1] and he said: ‘O my son, beware of innovation, for I prayed with the Messenger of Allah (ﷺ), and with Abu Bakr, and with ‘Umar, and with ‘Uthman, and I never heard any of them saying this. When you (begin to) recite, say: ‘All the praises and thanks are to Allah, the Lord of all that exists.’ (Al-hamdu Lillahi Rabbil-‘Alamin).’” [1:]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 5 Hadith 13</td></tr></tbody></table></div>
 

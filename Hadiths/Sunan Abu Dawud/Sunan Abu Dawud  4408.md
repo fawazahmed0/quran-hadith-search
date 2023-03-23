@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... জুনাদা ইবন আবূ উমাইমা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ আমরা বুসর ইবন আরতাত (রাঃ) এর সাথে সমুদ্রের সফরে ছিলাম। তখন তাঁর নিকট 'মিসদার' নামক একজন চোরকে হাযির করা হয়, যে উষ্ট্রী চুরি করেছিল। তখন তিনি বলেন আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ তোমরা সফরে খাকাবস্থায় কোন চোরের হাত কাটবে না। যদি অবস্থা এরূপ না হতো, তাহলে অবশ্যই আমি তার হাত কেটে দিতাম।
+। জুনাদাহ ইবনু আবূ উমাইয়্যাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা বুসর ইবনু আরতাত (রাঃ)-এর সাথে নৌযুদ্ধে ছিলাম। এ সময় মিসদার নামক এক চোরকে ধরে তার নিকট হাযির করা হলো। সে একটি উষ্ট্রী চুরি করেছিল। তিনি বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ সফরে হাত কাটা যাবে না। অন্যথায় আমি অবশ্যই এর হাত কেটে দিতাম।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4408</td></tr><tr><td>Arabic No</td><td>4408</td></tr><tr><td>Reference</td><td>Book 40 Hadith 58</td></tr></tbody></table></div>
 

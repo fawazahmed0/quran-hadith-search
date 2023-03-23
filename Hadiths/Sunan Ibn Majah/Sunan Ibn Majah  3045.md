@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩০৪৫। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, জিজ্ঞেস করা হলো, ইয়া রাসূলাল্লাহ! যারা মাথা মুন্ডন করিয়েছে আপনি তাদের জন্য তিনবার, আর যারা চুল ছাঁটিয়েছে তাদের জন্য একবার মাত্র দোয়া করেছেন, এর কারণ কী? তিনি বলেনঃ যারা মাথা মুন্ডন করিয়েছে তারা সন্দেহ করেনি (অর্থাৎ উত্তম কাজ সন্দেহমুক্তভাবে সমাধা করেছে)।
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, জিজ্ঞেস করা হলো, ইয়া রাসূলাল্লাহ! যারা মাথা মুন্ডন করিয়েছে আপনি তাদের জন্য তিনবার, আর যারা চুল ছাঁটিয়েছে তাদের জন্য একবার মাত্র দোয়া করেছেন, এর কারণ কী? তিনি বলেনঃ যারা মাথা মুন্ডন করিয়েছে তারা সন্দেহ করেনি (অর্থাৎ উত্তম কাজ সন্দেহমুক্তভাবে সমাধা করেছে)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3045</td></tr><tr><td>Arabic No</td><td>3045</td></tr><tr><td>Reference</td><td>Book 25 Hadith 164</td></tr></tbody></table></div>
 

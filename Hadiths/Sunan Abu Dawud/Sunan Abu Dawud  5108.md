@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবন আলী (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আল্লাহ্‌র ওয়াস্তে পানাহ চায়, তাকে পানাহ দেবে। আর যে ব্যক্তি আল্লাহ্‌র ওয়াস্তে কিছু চায়, তাকে দেবে।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তোমাদের নিকট মহান আল্লাহর নামে আশ্রয় চায় তোমরা তাকে আশ্রয় দাও। আর যে তোমাদের নিকট আল্লাহর নামে কিছু চায় তোমরা তাকে তা দান করো।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5108</td></tr><tr><td>Arabic No</td><td>5108</td></tr><tr><td>Reference</td><td>Book 43 Hadith 336</td></tr></tbody></table></div>
 

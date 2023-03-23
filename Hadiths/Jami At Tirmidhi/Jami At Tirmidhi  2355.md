@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩৫৫। জাবির ইবনু আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দরিদ্র মুসলিমগণ তাদের সম্পদশালীদের চেয়ে চল্লিশবছর পূর্বে জান্নাতে যাবে। দরিদ্র মুহাজিরগণ এই শব্দে হাদীসটি সহীহ, মুসলিম (৮/২২০)। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
+। জাবির ইবনু আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দরিদ্র মুসলিমগণ তাদের সম্পদশালীদের চেয়ে চল্লিশবছর পূর্বে জান্নাতে যাবে। দরিদ্র মুহাজিরগণ এই শব্দে হাদীসটি সহীহ, মুসলিম (৮/২২০)। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 36 Hadith 52</td></tr></tbody></table></div>
 

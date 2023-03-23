@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইব্‌ন ইউনুস (রহঃ) .... আবূ রিমছা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একবার আমি আমার পিতার সাথে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট গিয়ে দেখতে পাই যে, তাঁর চুল কান পর্যন্ত লম্বা এবং তা মেহেদী রঙে রঞ্জিত ছিল; আর তিনি সবুজ রঙের দু’টি চাদর পরেছিলেন।
+। আবূ রিমসাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি আমার পিতার সঙ্গে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট যাই। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কানের লতি পর্যন্ত দীর্ঘ বাবরি চুল মেহেদির রঙে রঞ্জিত ছিলো এবং তাঁর পরিধানে ছিলো দু’টি সবুজ রঙের চাদর।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4206</td></tr><tr><td>Arabic No</td><td>4206</td></tr><tr><td>Reference</td><td>Book 35 Hadith 48</td></tr></tbody></table></div>
 

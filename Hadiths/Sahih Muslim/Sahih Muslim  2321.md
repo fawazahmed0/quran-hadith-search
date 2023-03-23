@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২১১, আন্তর্জাতিক নাম্বারঃ ১০০১ ২২১১-(.../...) সুওয়াইদ ইবনু সাঈদ, ইসহাক ইবনু ইবরাহীম ও আবদ ইবনু হুমায়দ (রহঃ) ..... হিশাম উরওয়াহ থেকে এ সূত্রে উপরের হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২১৯০, ইসলামীক সেন্টার ২১৯২)
+সুওয়াইদ ইবনু সাঈদ, ইসহাক ইবনু ইবরাহীম ও আবদ ইবনু হুমায়দ (রহঃ) ..... হিশাম উরওয়াহ থেকে এ সূত্রে উপরের হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২১৯০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>1001.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
 

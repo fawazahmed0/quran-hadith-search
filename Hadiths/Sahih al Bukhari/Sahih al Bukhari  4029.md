@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ঈদ ইবনু জুবায়র (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ইবনু ‘আব্বাসের নিকট সূরাহ হাশরকে সূরাহ হাশর নামে উল্লেখ করায়, তিনি বললেন, বরং তুমি বলবে ‘সূরাহ নাযীর’।[1] আবূ বিশর থেকে হুশাইমও এ বর্ণণায় তার (আবূ আওয়ানাহর) অনুসরণ করেছেন। [৪৬৪৫, ৪৮৮২, ৪৮৮৩] (আধুনিক প্রকাশনীঃ ৩৭২৯, ইসলামিক ফাউন্ডেশনঃ ৩৭৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘ঈদ ইবনু জুবায়র (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ইবনু ‘আব্বাসের নিকট সূরাহ হাশরকে সূরাহ হাশর নামে উল্লেখ করায়, তিনি বললেন, বরং তুমি বলবে ‘সূরাহ নাযীর’।[1] আবূ বিশর থেকে হুশাইমও এ বর্ণণায় তার (আবূ আওয়ানাহর) অনুসরণ করেছেন। [৪৬৪৫, ৪৮৮২, ৪৮৮৩] (আধুনিক প্রকাশনীঃ ৩৭২৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4029</td></tr><tr><td>Arabic No</td><td>4029</td></tr><tr><td>Reference</td><td>Book 64 Hadith 78</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Al Hasan bin Mudrik] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: நான் இப்னு அப்பாஸ் (ரலி) அவர்களிடம், “(குர்ஆனின் 59ஆவது அத்தியாயத்தின் பெயரை) “அல்ஹஷ்ர்' அத்தியாயம் எனக் குறிப்பிட்டேன். (அப்போது) அவர்கள் “அந்நளீர்' அத்தி யாயம் என்று கூறுங்கள் என்றார்கள்.88 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 64
+சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: நான் இப்னு அப்பாஸ் (ரலி) அவர்களிடம், “(குர்ஆனின் 59ஆவது அத்தியாயத்தின் பெயரை) “அல்ஹஷ்ர்' அத்தியாயம் எனக் குறிப்பிட்டேன். (அப்போது) அவர்கள் “அந்நளீர்' அத்தி யாயம் என்று கூறுங்கள் என்றார்கள்.88 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4029</td></tr><tr><td>Arabic No</td><td>4029</td></tr><tr><td>Reference</td><td>Book 64 Hadith 78</td></tr></tbody></table></div>
 

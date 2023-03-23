@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্রাহীম ইবন মূসা আর রাযী ..... মুহাম্মদ ইবন কাসিমের খাদেম ইউনুস ইবন উবায়দ বলেন, আমাকে মুহাম্মদ ইবন কাসিম একবার বারা'আ ইবন আযিব (রাঃ) এর নিকট পাঠিয়েছিলেন, তাঁকে জিজ্ঞাসা করে জানার জন্য যে, রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পতাকা কিরূপ ছিল। তাঁকে জিজ্ঞাসা করলে তিনি বলেন, তাঁর পতাকা ছিল কালো চতুষ্কোণ বিশিষ্ট মোটা পশমী কাপড়ের সাদা ডোরাদার, যা চিতাবাঘের চামড়ার মত ডোরাদার মনে হতো।
+। মুহাম্মাদ ইবনুল কাসিমের মুক্তদাস ইউনুস ইবনু ‘উবাইদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পতাকা কিরূপ ছিলো তা জিজ্ঞেস করার জন্য মুহাম্মাদ ইবনুল কাসিম আমাকে আল-বারাআ ইবনু ‘আযিব (রাঃ)-এর নিকট প্রেরণ করেন। তিনি (বারাআ) বললেন, তাঁর পতাকা ছিলো কালো রঙের এবং বর্গাকৃতির যা চিতাবাগের (চামড়ার) ন্যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2591</td></tr><tr><td>Arabic No</td><td>2591</td></tr><tr><td>Reference</td><td>Book 15 Hadith 115</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা নারীদেরকে উত্তম নাসীহাত প্রদান করবে। কেননা নারী জাতিকে পাঁজরের হাড় থেকে সৃষ্টি করা হয়েছে। আর পাঁজরের হাড়গুলোর মধ্যে উপরের হাড়টি বেশী বাঁকা। তুমি যদি তা সোজা করতে যাও, তাহলে তা ভেঙ্গে যাবে আর যদি ছেড়ে দাও, তাহলে সব সময় তা বাঁকাই থাকবে। কাজেই নারীদেরকে নাসীহাত করতে থাক। (৫১৮৪, ৫১৮৬) (আধুনিক প্রকাশনীঃ ৩০৮৫, ইসলামিক ফাউন্ডেশনঃ ৩০৯৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা নারীদেরকে উত্তম নাসীহাত প্রদান করবে। কেননা নারী জাতিকে পাঁজরের হাড় থেকে সৃষ্টি করা হয়েছে। আর পাঁজরের হাড়গুলোর মধ্যে উপরের হাড়টি বেশী বাঁকা। তুমি যদি তা সোজা করতে যাও, তাহলে তা ভেঙ্গে যাবে আর যদি ছেড়ে দাও, তাহলে সব সময় তা বাঁকাই থাকবে। কাজেই নারীদেরকে নাসীহাত করতে থাক। (৫১৮৪, ৫১৮৬) (আধুনিক প্রকাশনীঃ ৩০৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3331</td></tr><tr><td>Arabic No</td><td>3331</td></tr><tr><td>Reference</td><td>Book 60 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Kuraib] dan [Musa bin Hizam] keduanya berkata, 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பெண்கள் விஷயத்தில் (நல்ல விதமாக நடந்துகொள்ளும்படி கூறும்) என் அறிவுரையை ஏற்றுக்கொள்ளுங்கள். அவர்களை நல்ல விதமாக நடத்துங்கள். ஏனெனில், பெண், விலா எலும்பிலிருந்து படைக்கப்பட்டிருக்கிறாள். மேலும், விலா எலும்பிலேயே அதன் மேற்பகுதி மிகக் கோணலானதாகும். நீ அதை (பலவந்தமாக) நேராக்க முயன்றால் உடைத்துவிடுவாய். அதை அப்படியே விட்டுவிட்டால் அது கோணலாகவே இருக்கும். ஆகவே, பெண்கள் விஷயத்தில் என் அறிவுரையை ஏற்றுக்கொள்ளுங்கள்.5 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 60
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பெண்கள் விஷயத்தில் (நல்ல விதமாக நடந்துகொள்ளும்படி கூறும்) என் அறிவுரையை ஏற்றுக்கொள்ளுங்கள். அவர்களை நல்ல விதமாக நடத்துங்கள். ஏனெனில், பெண், விலா எலும்பிலிருந்து படைக்கப்பட்டிருக்கிறாள். மேலும், விலா எலும்பிலேயே அதன் மேற்பகுதி மிகக் கோணலானதாகும். நீ அதை (பலவந்தமாக) நேராக்க முயன்றால் உடைத்துவிடுவாய். அதை அப்படியே விட்டுவிட்டால் அது கோணலாகவே இருக்கும். ஆகவே, பெண்கள் விஷயத்தில் என் அறிவுரையை ஏற்றுக்கொள்ளுங்கள்.5 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3331</td></tr><tr><td>Arabic No</td><td>3331</td></tr><tr><td>Reference</td><td>Book 60 Hadith 6</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Kuraib] dan [Musa bin Hizam] keduanya berkata, 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Kadınlar hakkında tavsiyemi kabul ediniz, ona uyunuz. Çünkü kadın bir kaburga kemiğinden yaratılmıştır. Şüphesiz kaburga kemiğinde en eğri taraf da onun en üst tarafıdır. Sen onu düzeltmeye kalkışırsan kırarsın. O haliyle bırakacak olursan eğriliği devam eder. O halde kadınlar hakkında tavsiyemi kabul ediniz. " Tekrar: 5184, 5186
+Ebu Hureyre r.a. dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Kadınlar hakkında tavsiyemi kabul ediniz, ona uyunuz. Çünkü kadın bir kaburga kemiğinden yaratılmıştır. Şüphesiz kaburga kemiğinde en eğri taraf da onun en üst tarafıdır. Sen onu düzeltmeye kalkışırsan kırarsın. O haliyle bırakacak olursan eğriliği devam eder. O halde kadınlar hakkında tavsiyemi kabul ediniz. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3331</td></tr><tr><td>Arabic No</td><td>3331</td></tr><tr><td>Reference</td><td>Book 60 Hadith 6</td></tr></tbody></table></div>
 

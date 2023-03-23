@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যায়দ ইবন আখযাম আবূ তালিব (রহঃ) ..... আবদুল্লাহ্‌ ইবন বুরায়দা (রহঃ) তাঁর পিতা সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ আমি যাকে যে কাজের জন্য নিয়োগ করব এবং তার জন্য যে বেতন নির্ধারণ করব, এর অতিরিক্ত যদি সে কিছু গ্রহণ করে, তবে তা আত্মসাৎরূপে গণ্য হবে।
+। বুরাইদাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ‘আমরা কাউকে সরকারী পদে নিযুক্ত করলে তার আহার ব্যবস্থাও আমার দায়িত্ব। পরে সে অতিরিক্ত কিছু নিলে তবে তা আত্মসাৎ হিসেবে গণ্য হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2943</td></tr><tr><td>Arabic No</td><td>2943</td></tr><tr><td>Reference</td><td>Book 20 Hadith 16</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৩৫১, আন্তর্জাতিক নাম্বারঃ ১৭০৭ ৪৩৫১-(.../...) মুহাম্মাদ ইবনু মুসান্না (রহঃ) ..... সুফইয়ান (রহঃ) হতে একই সূত্রে উল্লিখিত হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৩১০, ইসলামিক সেন্টার ৪৩১১)
+মুহাম্মাদ ইবনু মুসান্না (রহঃ) ..... সুফইয়ান (রহঃ) হতে একই সূত্রে উল্লিখিত হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৩১০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4459</td></tr><tr><td>Arabic No</td><td>1707.03</td></tr><tr><td>Reference</td><td>Book 29 Hadith 62</td></tr></tbody></table></div>
 

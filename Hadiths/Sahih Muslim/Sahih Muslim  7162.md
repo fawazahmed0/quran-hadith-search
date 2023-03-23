@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭০৫৪, আন্তর্জাতিক নাম্বারঃ ২৮৪০ ৭০৫৪-(২৭/২৮৪০) হাজ্জাজ ইবনু আশ শাইর (রহঃ) ..... আবূ হুরাইরাহ্ (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, এমন কিছু লোক জান্নাতে যাবে, যাদের অন্তর পাখীর অন্তরের মতো। (ইসলামিক ফাউন্ডেশন ৬৮৯৯, ইসলামিক সেন্টার ৬৯৫৬)
+হাজ্জাজ ইবনু আশ শাইর (রহঃ) ..... আবূ হুরাইরাহ্ (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, এমন কিছু লোক জান্নাতে যাবে, যাদের অন্তর পাখীর অন্তরের মতো। (ইসলামিক ফাউন্ডেশন ৬৮৯৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7162</td></tr><tr><td>Arabic No</td><td>2840</td></tr><tr><td>Reference</td><td>Book 53 Hadith 31</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Hajjaj bin Asy Sya'ir] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கத்தில் மக்கள் சிலர் நுழைவார்கள். அவர்களுடைய உள்ளங்கள் பறவைகளின் உள்ளத்தைப் போன்றிருக்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 51
+நபி (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கத்தில் மக்கள் சிலர் நுழைவார்கள். அவர்களுடைய உள்ளங்கள் பறவைகளின் உள்ளத்தைப் போன்றிருக்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7162</td></tr><tr><td>Arabic No</td><td>2840</td></tr><tr><td>Reference</td><td>Book 53 Hadith 31</td></tr></tbody></table></div>
 

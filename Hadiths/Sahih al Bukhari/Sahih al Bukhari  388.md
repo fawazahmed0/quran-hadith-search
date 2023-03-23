@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুগীরাহ ইবনু শু‘বাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে উযূ করিয়েছি। তিনি (উযূর সময়) মোজা দু’টির উপর মাসহ(মাসেহ) করলেন ও সালাত আদায় করলেন। (১৮২) (আধুনিক প্রকাশনীঃ ৩৭৫, ইসলামিক ফাউন্ডেশনঃ ৩৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুগীরাহ ইবনু শু‘বাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে উযূ করিয়েছি। তিনি (উযূর সময়) মোজা দু’টির উপর মাসহ(মাসেহ) করলেন ও সালাত আদায় করলেন। (১৮২) (আধুনিক প্রকাশনীঃ ৩৭৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>388</td></tr><tr><td>Reference</td><td>Book 8 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Nashr] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) நான் நபி (ஸல்) அவர்கள் அங்கத் தூய்மை (உளூ) செய்வதற்காகத் தண்ணீர் ஊற்றினேன். (அவர்கள் உளூவின் இறுதியில், கால்களைக் கழுவாமல்) தம் காலுறைகள்மீது (ஈரக் கையால்) தடவி (மஸ்ஹு செய்து)விட்டு (காலுறைகளுட னேயே) தொழுதார்கள். அத்தியாயம் : 8
+முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) நான் நபி (ஸல்) அவர்கள் அங்கத் தூய்மை (உளூ) செய்வதற்காகத் தண்ணீர் ஊற்றினேன். (அவர்கள் உளூவின் இறுதியில், கால்களைக் கழுவாமல்) தம் காலுறைகள்மீது (ஈரக் கையால்) தடவி (மஸ்ஹு செய்து)விட்டு (காலுறைகளுட னேயே) தொழுதார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>388</td></tr><tr><td>Reference</td><td>Book 8 Hadith 40</td></tr></tbody></table></div>
 

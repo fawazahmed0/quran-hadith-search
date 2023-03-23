@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা বিজয়ের বছর যখন মক্কায় প্রবেশ করেন, তখন তাঁর মাথার উপর লৌহ শিরস্ত্রাণ ছিল। [১৮৪৬] (আধুনিক প্রকাশনী- ৫৩৮৩, ইসলামিক ফাউন্ডেশন- ৫২৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা বিজয়ের বছর যখন মক্কায় প্রবেশ করেন, তখন তাঁর মাথার উপর লৌহ শিরস্ত্রাণ ছিল। [১৮৪৬] (আধুনিক প্রকাশনী- ৫৩৮৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5808</td></tr><tr><td>Arabic No</td><td>5808</td></tr><tr><td>Reference</td><td>Book 77 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Ma
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்கா வெற்றி கொள்ளப்பட்ட ஆண்டில் தமது தலையில் இரும்புத் தொப்பி அணிந்தவாறு மக்கா வினுள் நுழைந்தார்கள்.29 அத்தியாயம் : 77
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்கா வெற்றி கொள்ளப்பட்ட ஆண்டில் தமது தலையில் இரும்புத் தொப்பி அணிந்தவாறு மக்கா வினுள் நுழைந்தார்கள்.29 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5808</td></tr><tr><td>Arabic No</td><td>5808</td></tr><tr><td>Reference</td><td>Book 77 Hadith 26</td></tr></tbody></table></div>
 

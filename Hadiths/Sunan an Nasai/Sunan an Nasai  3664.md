@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবন আবদুল্লাহ্ ইবন মুবারক (রহঃ) ... সা'দ ইবন উবাদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি বললামঃ ইয়া রাসূলাল্লাহ্! আমার মাতা ইনতিকাল করেছেন, আমি কি তার পক্ষ হতে সাদাকা করব? তিনি বললেনঃ হ্যাঁ। আমি বললামঃ কোন্ সাদাকা উত্তম? তিনি বললেনঃ পানি পান করানো (-র ব্যবস্থা করা)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3664</td></tr><tr><td>Arabic No</td><td>3664</td></tr><tr><td>Reference</td><td>Book 30 Hadith 54</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবন মাসলামা আল কা‘নবী ও ইবন সারহ .... আবূ বাদ্দাহ্ ইবন আসিম (রহঃ) তাঁর পিতা হতে বর্ণনা করেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উট পালকের জন্য মিনাতে কংকর নিক্ষেপের ব্যাপারটি রুখসাত হিসাবে ধার্য করেন। আর তারা কেবল জামরাতুল-আকাবা সম্পন্ন করতো। অতঃপর পরের দিন (১১ যিলহজ্জ) তারা কংকর নিক্ষেপ করতো এবং তারপর দু‘দিনে (১২ ও ১৩ যিল-হজ্জে) তারা সর্বশেষ কংকর নিক্ষেপ করতো।
+। আবুল বাদ্দাহ ইবনু ‘আসিম (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উটের রাখালদেরকে মিনার বাইরে রাত যাপনের অনুমতি দেন। তারা কেবল কুরবানীর দিন কংকর মারবে এবং পরের দু‘দিন ও প্রত্যাবর্তনের দিন (তের তারিখ) কংকর নিক্ষেপ করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1975</td></tr><tr><td>Arabic No</td><td>1975</td></tr><tr><td>Reference</td><td>Book 11 Hadith 255</td></tr></tbody></table></div>
 

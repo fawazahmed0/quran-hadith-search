@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনু সালেহ্ .... উবাই ইবনু কাব (রাঃ) থেকে বর্ণিত। ইসলামের প্রাথমিক যুগে মুসলিমদের কাপড়-চোপড়ের স্বল্পতা হেতু রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সল্লাম লোকদের স্ত্রী-সহবাসে বীর্যপাত না ঘটলে গোসল করার ব্যাপারে স্বাধীনতা প্রদান করেন। অতঃপর তিনি গোসলের নির্দেশ দেন এবং পূর্বোক্ত অনুমতি রহিত করেন। ইমাম আবূ দাউদ (রহ্) বলেন, বীর্যপাত হলে গোসল করতে হবে। (বুখারী, মুসলিম, তিরমিযী, নাসাঈ, ইবনু মাজাহ)।
+। উবাই ইবনু কা’ব (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইসলামের প্রাথমিক অবস্থায় লোকদের কাপড়-চোপড়ের স্বল্পতার কারণে কেবল সহবাসে বীর্য নির্গত না হলে গোসল না করার অনুমতি প্রদান করেন। তবে পরবর্তীতে এরূপ অবস্থায় (বীর্যপাত না হলেও) তিনি গোসল করার নির্দেশ দেন এবং গোসল ত্যাগ না করতে বলেন। [1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, অর্থাৎ বীর্যপাত হলে গোসল করা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>214</td></tr><tr><td>Arabic No</td><td>214</td></tr><tr><td>Reference</td><td>Book 1 Hadith 214</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল মুছান্না ..... আয়িশা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ প্রাপ্ত বয়সী মহিলারা ওড়না ছাড়া নামায আদায় করলে তা আল্লাহর নিকটে কবুল হবে না। (তিরমিযী, ইবনু মাজাহ, মালেক, হাকেম)।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন প্রাপ্তবয়স্কা মহিলা ওড়না ছাড়া সালাত আদায় করলে আল্লাহ তার সালাত কবুল করেন না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>641</td></tr><tr><td>Arabic No</td><td>641</td></tr><tr><td>Reference</td><td>Book 2 Hadith 251</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Al-Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Allah, aybaşı olan (baliğa kadın)'ın namazını ancak başörtüsü ile kabul eder" Ebu Davud dedi ki; Bu hadisi aynı zamanda Said, yani İbn Ebî Arube, Katade el-Hasen senediyle Nebi (Sallallahu aleyhi ve Sellem) 'den rivayet etmiştir. Diğer tahric: Tirmizî, salat; ibn Mace, tahare; Ahmed b. Hanbel, VI, 150, 218, 259
+Aişe (r.anha)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Allah, aybaşı olan (baliğa kadın)'ın namazını ancak başörtüsü ile kabul eder" Ebu Davud dedi ki; Bu hadisi aynı zamanda Said, yani İbn Ebî Arube, Katade el-Hasen senediyle Nebi (Sallallahu aleyhi ve Sellem) 'den rivayet etmiştir. Diğer tahric: Tirmizî, salat; ibn Mace, tahare; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>641</td></tr><tr><td>Arabic No</td><td>641</td></tr><tr><td>Reference</td><td>Book 2 Hadith 251</td></tr></tbody></table></div>
 

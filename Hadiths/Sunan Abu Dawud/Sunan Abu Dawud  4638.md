@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী ইবন সাহল (রহঃ) .... মাকহূল (রহঃ) বলেনঃ রোমের লোকেরা শামে চল্লিশ দিন থাকবে। দামিশক ও আম্মান ছাড়া কোন শহর তাদের হাত থেকে রেহাই পাবে না।
+। মাকহুল (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, রোমিওরা সিরিয়ায় প্রবেশ করে চল্লিশদিন অবস্থান করবে এবং দামিস্ক ও আম্মান ব্যতীত কোনো স্থানই তাদের থেকে নিরাপদ থাকবে না।[1] সনদ যঈফ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4638</td></tr><tr><td>Arabic No</td><td>4638</td></tr><tr><td>Reference</td><td>Book 42 Hadith 43</td></tr></tbody></table></div>
 

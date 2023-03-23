@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসামাহ ইবনু যায়দ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গাধার পিঠে পালান চাপিয়ে তার উপর চাদর বিছিয়ে তাতে চড়লেন। আর উসামাহ (রাঃ)-কে তাঁর পেছনে বসিয়ে নিলেন। (৪৫৬৬, ৫৬৬৩, ৫৯৬৪, ৬২০৮) (মুসলিম ৩২/৪০, হাঃ ১৭৯৮) (আধুনিক প্রকাশনীঃ ২৭৬৬, ইসলামিক ফাউন্ডেশনঃ ২৭৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উসামাহ ইবনু যায়দ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গাধার পিঠে পালান চাপিয়ে তার উপর চাদর বিছিয়ে তাতে চড়লেন। আর উসামাহ (রাঃ)-কে তাঁর পেছনে বসিয়ে নিলেন। (৪৫৬৬, ৫৬৬৩, ৫৯৬৪, ৬২০৮) (মুসলিম ৩২/৪০, হাঃ ১৭৯৮) (আধুনিক প্রকাশনীঃ ২৭৬৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2987</td></tr><tr><td>Arabic No</td><td>2987</td></tr><tr><td>Reference</td><td>Book 56 Hadith 196</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Qutaibah] telah bercerita kepada kami [Abu Shofwan]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உசாமா பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கழுதையின் மீது அமர்ந்து பயணம் செய்தார்கள். அதில் சேணம் விரித்து குஞ்சம்வைத்த முரட்டுத் துணிமேல் அவர்கள் அமர்ந்திருந்தார்கள். தமக்குப் பின்னே என்னைக் கழுதையின் மீது அமர்த்திக்கொண்டார்கள். அத்தியாயம் : 56
+உசாமா பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கழுதையின் மீது அமர்ந்து பயணம் செய்தார்கள். அதில் சேணம் விரித்து குஞ்சம்வைத்த முரட்டுத் துணிமேல் அவர்கள் அமர்ந்திருந்தார்கள். தமக்குப் பின்னே என்னைக் கழுதையின் மீது அமர்த்திக்கொண்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2987</td></tr><tr><td>Arabic No</td><td>2987</td></tr><tr><td>Reference</td><td>Book 56 Hadith 196</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Qutaibah] telah bercerita kepada kami [Abu Shofwan]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Usame İbn Zeyd r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem bir merkeple yolculuk yapıyordu. Merkebin semerinin üzerinde kadife bir örtü vardı ve Nebi Sallallahu Aleyhi ve Sellem bu yolculuğu sırasında Usame'yi terkisine aldı. Tekrar: 4566, 5663, 5964, 6207
+Usame İbn Zeyd r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem bir merkeple yolculuk yapıyordu. Merkebin semerinin üzerinde kadife bir örtü vardı ve Nebi Sallallahu Aleyhi ve Sellem bu yolculuğu sırasında Usame'yi terkisine aldı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2987</td></tr><tr><td>Arabic No</td><td>2987</td></tr><tr><td>Reference</td><td>Book 56 Hadith 196</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গিরগিটিকে ক্ষতিকর (রক্তচোষা) প্রাণী বলেছেন। কিন্তু একে হত্যা করার আদেশ দিতে আমি তাঁকে শুনিনি। (৩৩০৬, মুসলিম ২৯/৩৯, হাঃ ২২২৯) (আধুনিক প্রকাশনীঃ ১৬৯৯, ইসলামিক ফাউন্ডেশনঃ ১৭০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গিরগিটিকে ক্ষতিকর (রক্তচোষা) প্রাণী বলেছেন। কিন্তু একে হত্যা করার আদেশ দিতে আমি তাঁকে শুনিনি। (৩৩০৬, মুসলিম ২৯/৩৯, হাঃ ২২২৯) (আধুনিক প্রকাশনীঃ ১৬৯৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1831</td></tr><tr><td>Arabic No</td><td>1831</td></tr><tr><td>Reference</td><td>Book 28 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [M
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது : அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் “பல்லி தீங்கிழைக்கக்கூடியது” என்று சொன்னார்கள். (ஆனால்,) அதைக் கொல்லும்படி அவர்கள் உத்தரவிட்டு நான் செவியுற்றதில்லை.4 அபூஅப்தில்லாஹ் (புகாரீ ஆகிய நான்) கூறுகிறேன்: (அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கும் இதற்கு) முந்தைய ஹதீஸ், ‘மினா’ புனித (ஹரம்) எல்லையில் அடங்கும் என்பதை யும், அங்கு பாம்பைக் கொல்வது குற்றமாகாது என்றே அவர்கள் கருதினர் என்பதையும் காட்டுகிறது என்போம். அத்தியாயம் : 28
+நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது : அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் “பல்லி தீங்கிழைக்கக்கூடியது” என்று சொன்னார்கள். (ஆனால்,) அதைக் கொல்லும்படி அவர்கள் உத்தரவிட்டு நான் செவியுற்றதில்லை.4 அபூஅப்தில்லாஹ் (புகாரீ ஆகிய நான்) கூறுகிறேன்: (அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கும் இதற்கு) முந்தைய ஹதீஸ், ‘மினா’ புனித (ஹரம்) எல்லையில் அடங்கும் என்பதை யும், அங்கு பாம்பைக் கொல்வது குற்றமாகாது என்றே அவர்கள் கருதினர் என்பதையும் காட்டுகிறது என்போம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1831</td></tr><tr><td>Arabic No</td><td>1831</td></tr><tr><td>Reference</td><td>Book 28 Hadith 11</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [M
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe r.anha "Resulullah Sallallahu Aleyhi ve Sellem'in keler'e "fasıkçık" dediğini işittim ancak onun öldürülmesini emrettiğini işitmedim." Tekrar: 3306
+Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe r.anha "Resulullah Sallallahu Aleyhi ve Sellem'in keler'e "fasıkçık" dediğini işittim ancak onun öldürülmesini emrettiğini işitmedim." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1831</td></tr><tr><td>Arabic No</td><td>1831</td></tr><tr><td>Reference</td><td>Book 28 Hadith 11</td></tr></tbody></table></div>
 

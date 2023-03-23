@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৫১। ইবনু উমার (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে সফরে যুহরের নামায দুই রাকাআত আদায় করেছি। এরপর আরো দুই রাক’আত আদায় করেছি। সনদ দুর্বল। তার বর্ণিত পূর্ববর্তী ৫৩৬ নং হাদীসের বিরোধী হওয়ার ফলে মতন ও মুনকার আবূ ঈসা বলেনঃ এটি হাসান হাদীস। ইবনু আবী লাইলা আতিয়্যাহ এবং নাফি এর সূত্রে ইবনু উমার হতে বর্ণনা করেছেন।
+। ইবনু উমার (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে সফরে যুহরের নামায দুই রাকাআত আদায় করেছি। এরপর আরো দুই রাক’আত আদায় করেছি। সনদ দুর্বল। তার বর্ণিত পূর্ববর্তী ৫৩৬ নং হাদীসের বিরোধী হওয়ার ফলে মতন ও মুনকার আবূ ঈসা বলেনঃ এটি হাসান হাদীস। ইবনু আবী লাইলা আতিয়্যাহ এবং নাফি এর সূত্রে ইবনু উমার হতে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>551</td></tr><tr><td>Arabic No</td><td>551</td></tr><tr><td>Reference</td><td>Book 6 Hadith 8</td></tr></tbody></table></div>
 

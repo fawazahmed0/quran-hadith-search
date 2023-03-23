@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেন, কিয়ামতের দিন একজন খুব মোটা ব্যক্তি আসবে; কিন্তু সে আল্লাহর কাছে মশার পাখার চেয়ে ক্ষুদ্র হবে। তারপর তিনি বলেন, পাঠ করো, ‘‘ক্বিয়ামাত (কিয়ামত) দিবসে তাদের কাজের কোন গুরুত্ব দিব না।[1] ইয়াহ্ইয়াহ ইবনু বুকায়র (রহ.).....আবূ যিনাদ (রহ.) থেকে অনুরূপ হাদীস বর্ণিত আছে। [মুসলিম ৫০/হাঃ ২৭৮৫] (আধুনিক প্রকাশনীঃ ৪৩৬৮, ইসলামিক ফাউন্ডেশনঃ ৪৩৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেন, কিয়ামতের দিন একজন খুব মোটা ব্যক্তি আসবে; কিন্তু সে আল্লাহর কাছে মশার পাখার চেয়ে ক্ষুদ্র হবে। তারপর তিনি বলেন, পাঠ করো, ‘‘ক্বিয়ামাত (কিয়ামত) দিবসে তাদের কাজের কোন গুরুত্ব দিব না।[1] ইয়াহ্ইয়াহ ইবনু বুকায়র (রহ.).....আবূ যিনাদ (রহ.) থেকে অনুরূপ হাদীস বর্ণিত আছে। [মুসলিম ৫০/হাঃ ২৭৮৫] (আধুনিক প্রকাশনীঃ ৪৩৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4729</td></tr><tr><td>Arabic No</td><td>4729</td></tr><tr><td>Reference</td><td>Book 65 Hadith 251</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "On the Day of Resurrection, a huge fat man will come who will not weigh, the weight of the wing of a mosquito in Allah's Sight." and then the Prophet (ﷺ) added, 'We shall not give them any weight on the Day of Resurrection ' (18.105)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "On the Day of Resurrection, a huge fat man will come who will not weigh, the weight of the wing of a mosquito in Allah's Sight." and then the Prophet (ﷺ) added, 'We shall not give them any weight on the Day of Resurrection
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4729</td></tr><tr><td>Arabic No</td><td>4729</td></tr><tr><td>Reference</td><td>Book 65 Hadith 251</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Abdullah] Telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளில் உடல் பருத்த கொழுத்த மனிதன் ஒருவன் வருவான். அல்லாஹ்விடம் கொசுவின் இறக்கை யளவு எடைகூட அவன் (மதிப்பு) பெற மாட்டான். ‘‘மறுமை நாளில் அவர்களுக்கு எத்தகைய மதிப்பையும் அளிக்கமாட்டோம்” எனும் (18:105ஆவது) இறைவசனத்தை ஓதிக்கொள்ளுங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 65
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளில் உடல் பருத்த கொழுத்த மனிதன் ஒருவன் வருவான். அல்லாஹ்விடம் கொசுவின் இறக்கை யளவு எடைகூட அவன் (மதிப்பு) பெற மாட்டான். ‘‘மறுமை நாளில் அவர்களுக்கு எத்தகைய மதிப்பையும் அளிக்கமாட்டோம்” எனும் (18:105ஆவது) இறைவசனத்தை ஓதிக்கொள்ளுங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4729</td></tr><tr><td>Arabic No</td><td>4729</td></tr><tr><td>Reference</td><td>Book 65 Hadith 251</td></tr></tbody></table></div>
 

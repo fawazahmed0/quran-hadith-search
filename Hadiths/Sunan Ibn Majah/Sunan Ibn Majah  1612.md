@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৬১২। জারীর ইবনু ‘আবদুল্লাহ্ আল-বাজালী (রাঃ) থেকে বর্ণিত। তিনি বলেন, মৃতের বাড়িতে ভীড় জমানো ও খাদ্য প্রস্তুত করা বিলাপের অন্তর্ভুক্ত মনে করতাম।
+। জারীর ইবনু ‘আবদুল্লাহ্ আল-বাজালী (রাঃ) থেকে বর্ণিত। তিনি বলেন, মৃতের বাড়িতে ভীড় জমানো ও খাদ্য প্রস্তুত করা বিলাপের অন্তর্ভুক্ত মনে করতাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1612</td></tr><tr><td>Arabic No</td><td>1612</td></tr><tr><td>Reference</td><td>Book 6 Hadith 180</td></tr></tbody></table></div>
 

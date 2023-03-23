@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১১/১১। জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উপস্থিত থাকা অবস্থায় তিনি একটি সরল রেখা টানলেন এবং তাঁর ডান দিকে দুটি সরল রেখা টানলেন এবং বাম দিকেও দুটি সরল রেখা টানলেন। অতঃপর তিনি মধ্যবর্তী রেখার উপর তাঁর হাত রেখে বলেনঃ এটা আল্লাহ্‌র রাস্তা। অতঃপর তিনি এ আয়াত তিলাওয়াত করেন (অনুবাদ) এবং এ পথই আমার সরল পথ। অতএব তোমরা এ পথেরই অনুসরণ করো এবং বিভিন্ন পথ অনুসরণ করো না, অন্যথায় তা তোমাদেরকে তাঁর পথ থেকে বিচ্ছিন্ন করে ফেলবে। (সূরাহ আনআম ৬ : ১৫৩)
+। জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উপস্থিত থাকা অবস্থায় তিনি একটি সরল রেখা টানলেন এবং তাঁর ডান দিকে দুটি সরল রেখা টানলেন এবং বাম দিকেও দুটি সরল রেখা টানলেন। অতঃপর তিনি মধ্যবর্তী রেখার উপর তাঁর হাত রেখে বলেনঃ এটা আল্লাহ্‌র রাস্তা। অতঃপর তিনি এ আয়াত তিলাওয়াত করেন (অনুবাদ) এবং এ পথই আমার সরল পথ। অতএব তোমরা এ পথেরই অনুসরণ করো এবং বিভিন্ন পথ অনুসরণ করো না, অন্যথায় তা তোমাদেরকে তাঁর পথ থেকে বিচ্ছিন্ন করে ফেলবে। (সূরাহ আনআম ৬ :)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Arabic No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Sa'id Abdullah bin Sa'id] berkata, telah men
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir b.Abdillah r.a.’den şöyle söylediği rivayet edilmiştir; “Biz Nebi s.a.v.’in yanında idik. Bir çizgi çizdi. O’nun sağına ve soluna da ikişer çizgi çizdikten sonra mübarek elini ortadaki çizginin üzerine bırakıp, “Bu, Allah’ın yoludur” buyurdu. Sonra bu ayeti okudu; “Gerçekten bu benim dostoğru yolumdur. Artık O’na uyunuz. Başka yolları takip etmeyiniz. Sonra bunlar sizi Allah Teala’nın yanından ayırır…” (En’am 153)
+Cabir b.Abdillah r.a.’den şöyle söylediği rivayet edilmiştir; “Biz Nebi s.a.v.’in yanında idik. Bir çizgi çizdi. O’nun sağına ve soluna da ikişer çizgi çizdikten sonra mübarek elini ortadaki çizginin üzerine bırakıp, “Bu, Allah’ın yoludur” buyurdu. Sonra bu ayeti okudu; “Gerçekten bu benim dostoğru yolumdur. Artık O’na uyunuz. Başka yolları takip etmeyiniz. Sonra bunlar sizi Allah Teala’nın yanından ayırır…” (En’am)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Arabic No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬২৪৪, আন্তর্জাতিক নাম্বারঃ ২৪৬৮ ৬২৪৪-(…/...) মুহাম্মাদ ইবনু 'আমর ইবনু জাবালাহ্ ..... শুবাহ্ (রহঃ) হতে এ দু’টো সূত্রেই আবূ দাউদের ন্যায় রিওয়ায়াত করেন। (ইসলামিক ফাউন্ডেশন ৬১২৬, ইসলামিক সেন্টার ৬১৬৯)
+(…/...) মুহাম্মাদ ইবনু 'আমর ইবনু জাবালাহ্ ..... শুবাহ্ (রহঃ) হতে এ দু’টো সূত্রেই আবূ দাউদের ন্যায় রিওয়ায়াত করেন। (ইসলামিক ফাউন্ডেশন ৬১২৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6350</td></tr><tr><td>Arabic No</td><td>2468.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 180</td></tr></tbody></table></div>
 

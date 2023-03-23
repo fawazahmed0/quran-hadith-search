@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কা‘ব ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাবুকের যুদ্ধে বৃহস্পতিবার বের হন আর বৃহস্পতিবার বের হওয়াই তিনি পছন্দ করতেন। (২৭৫৭) (আধুনিক প্রকাশনীঃ ২৭৩২, ইসলামিক ফাউন্ডেশনঃ ২৭৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কা‘ব ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাবুকের যুদ্ধে বৃহস্পতিবার বের হন আর বৃহস্পতিবার বের হওয়াই তিনি পছন্দ করতেন। (২৭৫৭) (আধুনিক প্রকাশনীঃ ২৭৩২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2950</td></tr><tr><td>Arabic No</td><td>2950</td></tr><tr><td>Reference</td><td>Book 56 Hadith 162</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [H
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கஅப் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தபூக் போருக்கு வியாழக்கிழமையன்றுதான் புறப்பட் டார்கள். வியாழக்கிழமையன்று (பயணம்) புறப்படுவதை அவர்கள் விரும்பி வந்தார்கள். அத்தியாயம் : 56
+கஅப் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தபூக் போருக்கு வியாழக்கிழமையன்றுதான் புறப்பட் டார்கள். வியாழக்கிழமையன்று (பயணம்) புறப்படுவதை அவர்கள் விரும்பி வந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2950</td></tr><tr><td>Arabic No</td><td>2950</td></tr><tr><td>Reference</td><td>Book 56 Hadith 162</td></tr></tbody></table></div>
 

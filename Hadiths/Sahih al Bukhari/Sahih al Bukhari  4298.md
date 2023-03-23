@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, (মক্কা বিজয়ের সময়ে) নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ঊনিশ দিন মক্কায় অবস্থান করেছিলেন, তিনি সে সময় দু’রাক‘আত সালাত আদায় করতেন। [১০৮০] (আধুনিক প্রকাশনীঃ ৩৯৬০, ইসলামিক ফাউন্ডেশনঃ ৩৯৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, (মক্কা বিজয়ের সময়ে) নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ঊনিশ দিন মক্কায় অবস্থান করেছিলেন, তিনি সে সময় দু’রাক‘আত সালাত আদায় করতেন। [১০৮০] (আধুনিক প্রকাশনীঃ ৩৯৬০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4298</td></tr><tr><td>Arabic No</td><td>4298</td></tr><tr><td>Reference</td><td>Book 64 Hadith 331</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdan] Telah mengabarkan kepada kami [Abdullah] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்கா நகரில் இரண்டு ரக்அத்கள் (கஸ்ராகத்) தொழுதபடி பத்தொன்பது நாட்கள் தங்கியிருந்தார்கள்.336 அத்தியாயம் : 64
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்கா நகரில் இரண்டு ரக்அத்கள் (கஸ்ராகத்) தொழுதபடி பத்தொன்பது நாட்கள் தங்கியிருந்தார்கள்.336 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4298</td></tr><tr><td>Arabic No</td><td>4298</td></tr><tr><td>Reference</td><td>Book 64 Hadith 331</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৪৬, আন্তর্জাতিক নাম্বারঃ ৩৩৪ ৬৪৬-(৬৫/...) মুহাম্মাদ ইবনু রুমহ (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, উম্মু হাবীবাহ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে রক্ত সম্পর্কে জিজ্ঞেস করল। এরপর আয়িশাহ (রাযিঃ) বলেন, আমি তার পাত্র দেখেছি রক্তে পরিপূর্ণ। এরপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন, তোমার হায়িয যে কয়দিন হয়, সে কয়দিন পরিমাণ তুমি অপেক্ষা কর। তারপর গোসল করে ফেল এবং সালাত আদায় কর। (ইসলামিক ফাউন্ডেশনঃ ৬৫০, ইসলামিক সেন্টারঃ ৬৬৫)
+মুহাম্মাদ ইবনু রুমহ (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, উম্মু হাবীবাহ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে রক্ত সম্পর্কে জিজ্ঞেস করল। এরপর আয়িশাহ (রাযিঃ) বলেন, আমি তার পাত্র দেখেছি রক্তে পরিপূর্ণ। এরপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন, তোমার হায়িয যে কয়দিন হয়, সে কয়দিন পরিমাণ তুমি অপেক্ষা কর। তারপর গোসল করে ফেল এবং সালাত আদায় কর। (ইসলামিক ফাউন্ডেশনঃ ৬৫০, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>759</td></tr><tr><td>Arabic No</td><td>334.05</td></tr><tr><td>Reference</td><td>Book 3 Hadith 81</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. Rumh rivayet etti (Dedi ki) Bize Leys, haber verdi. H. Bize Kuteybetüb'nü Saîd de rivayet etti. (Dediki): Bize Leys, Yezld b. Ebi Habib'den, o da Ca'ferden, o da. Irak'dan, o da Urve'den, o da Aişe'den naklen rivayet etti. Ki Aişe söyle demiş: Ümmü Habibe, Resulullah (Sallallahu aleyhi ve Sellem)'e kan'a dair soru sordu. Aişe: Ben onun (içinde yıkandığı) leğenini kanla dolmuş gördüm, dedi. Resulullah (Sallallahu aleyhi ve Sellem) ona: ''4y halin seni alıkoyduğu kadar bir süre bekle sonra guslet ve namaz kıl" buyurdu. Diğer tahric: Ebu Davud, 279; Nesai, 207, 351 753 - 757
+Bize Muhammed b. Rumh rivayet etti (Dedi ki) Bize Leys, haber verdi. H. Bize Kuteybetüb'nü Saîd de rivayet etti. (Dediki): Bize Leys, Yezld b. Ebi Habib'den, o da Ca'ferden, o da. Irak'dan, o da Urve'den, o da Aişe'den naklen rivayet etti. Ki Aişe söyle demiş: Ümmü Habibe, Resulullah (Sallallahu aleyhi ve Sellem)'e kan'a dair soru sordu. Aişe: Ben onun (içinde yıkandığı) leğenini kanla dolmuş gördüm, dedi. Resulullah (Sallallahu aleyhi ve Sellem) ona: ''4y halin seni alıkoyduğu kadar bir süre bekle sonra guslet ve namaz kıl" buyurdu. Diğer tahric: Ebu Davud, 279; Nesai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>759</td></tr><tr><td>Arabic No</td><td>334.05</td></tr><tr><td>Reference</td><td>Book 3 Hadith 81</td></tr></tbody></table></div>
 

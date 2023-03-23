@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মদিনা) আসেন এবং বলেন, নির্দিষ্ট মাপে, নির্দিষ্ট ওজনে ও নির্দিষ্ট মেয়াদে (সলম) কর। (২২৩৯) (আধুনিক প্রকাশনীঃ ২০৮৪, ইসলামিক ফাউন্ডেশনঃ ২১০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মদিনা) আসেন এবং বলেন, নির্দিষ্ট মাপে, নির্দিষ্ট ওজনে ও নির্দিষ্ট মেয়াদে (সলম) কর। (২২৩৯) (আধুনিক প্রকাশনীঃ ২০৮৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) came (to Medina) and he told the people (r
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (மதீனாவுக்கு) வந்தபோது, (முன்பண வணிகம் பற்றிக் குறிப்பிடுகையில்), ‘‘குறிப்பிட்ட அளவுக் காகவும் குறிப்பிட்ட எடைக்காகவும் குறிப்பிட்ட தவணைக்குக் கொடுக்கட்டும்!” என்று கூறினார்கள். அத்தியாயம் : 35
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (மதீனாவுக்கு) வந்தபோது, (முன்பண வணிகம் பற்றிக் குறிப்பிடுகையில்), ‘‘குறிப்பிட்ட அளவுக் காகவும் குறிப்பிட்ட எடைக்காகவும் குறிப்பிட்ட தவணைக்குக் கொடுக்கட்டும்!” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুসাযন ইবন মুআয (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কাঊকে খাবার জন্য আহবান করা হয়, আর সে আহবানকারীর সাথে আসে, এটাই তার জন্য অনুমতি।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কোনো ব্যক্তি পানাহারের জন্য আমন্ত্রিত হয় এবং সে আমন্ত্রণকারীর প্রতিনিধির সঙ্গে আসে, তবে তার জন্য এটাই অনুমতি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5190</td></tr><tr><td>Arabic No</td><td>5190</td></tr><tr><td>Reference</td><td>Book 43 Hadith 418</td></tr></tbody></table></div>
 

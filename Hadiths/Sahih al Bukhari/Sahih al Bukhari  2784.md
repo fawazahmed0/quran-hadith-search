@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘হে আল্লাহর রাসূল! আমরা জিহাদকে সর্বোত্তম আমল মনে করি, তবে কি আমরা জিহাদ করব না?’ আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেন, ‘তোমাদের জন্য উত্তম জিহাদ হচ্ছে মকবুল হজ্জ।’ (১৫২০) (আধুনিক প্রকাশনীঃ ২৫৭৮, ইসলামিক ফাউন্ডেশনঃ ২৫৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘হে আল্লাহর রাসূল! আমরা জিহাদকে সর্বোত্তম আমল মনে করি, তবে কি আমরা জিহাদ করব না?’ আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেন, ‘তোমাদের জন্য উত্তম জিহাদ হচ্ছে মকবুল হজ্জ।’ (১৫২০) (আধুনিক প্রকাশনীঃ ২৫৭৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2784</td></tr><tr><td>Arabic No</td><td>2784</td></tr><tr><td>Reference</td><td>Book 56 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Khalid] tela
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் (நபி (ஸல்) அவர்களிடம்), ‘‘அல்லாஹ்வின் தூதரே! அறப்போர் புரிவதை சிறந்த நற்செயலாக நாங்கள் கருதுகிறோம். எனவே, (பெண்களாகிய) நாங்களும் அறப்போர் புரியலாமா?” என்று கேட்டேன். அதற்கு நபி (ஸல்) அவர்கள், ‘‘(பெண்களான) உங்களுக்குச் சிறந்த அறப்போர், பாவச்செயல் கலவாத ஹஜ்தான்” என்று பதிலளித்தார்கள்.4 அத்தியாயம் : 56
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் (நபி (ஸல்) அவர்களிடம்), ‘‘அல்லாஹ்வின் தூதரே! அறப்போர் புரிவதை சிறந்த நற்செயலாக நாங்கள் கருதுகிறோம். எனவே, (பெண்களாகிய) நாங்களும் அறப்போர் புரியலாமா?” என்று கேட்டேன். அதற்கு நபி (ஸல்) அவர்கள், ‘‘(பெண்களான) உங்களுக்குச் சிறந்த அறப்போர், பாவச்செயல் கலவாத ஹஜ்தான்” என்று பதிலளித்தார்கள்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2784</td></tr><tr><td>Arabic No</td><td>2784</td></tr><tr><td>Reference</td><td>Book 56 Hadith 3</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ইন্তিকাল করার সময় আমার বুক ও থুতনির মাঝে ছিলেন। আর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর (মৃত্যু-যন্ত্রণার) পর আমি আর কারো জন্য মৃত্যু-যন্ত্রণাকে খারাপ মনে করি না। [৮৯০] (আধুনিক প্রকাশনীঃ ৪০৯৩, ইসলামিক ফাউন্ডেশনঃ ৪০৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ইন্তিকাল করার সময় আমার বুক ও থুতনির মাঝে ছিলেন। আর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর (মৃত্যু-যন্ত্রণার) পর আমি আর কারো জন্য মৃত্যু-যন্ত্রণাকে খারাপ মনে করি না। [৮৯০] (আধুনিক প্রকাশনীঃ ৪০৯৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4446</td></tr><tr><td>Arabic No</td><td>4446</td></tr><tr><td>Reference</td><td>Book 64 Hadith 466</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Aisha:The Prophet (ﷺ) died while he was between my chest and chin, s
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: என் முகவாய்க்கும் என் நெஞ்சுக்கு மிடையே சாய்ந்திருந்த நிலையில் நபி (ஸல்) அவர்கள் இறந்தார்கள். ஆகவே, நபி (ஸல்) அவர்களுக்குப் பிறகு எவரது மரணத்தின் வேதனையைக் கண்டும் ஒருபோதும் நான் வருந்துவ தில்லை.484 அத்தியாயம் : 64
+ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: என் முகவாய்க்கும் என் நெஞ்சுக்கு மிடையே சாய்ந்திருந்த நிலையில் நபி (ஸல்) அவர்கள் இறந்தார்கள். ஆகவே, நபி (ஸல்) அவர்களுக்குப் பிறகு எவரது மரணத்தின் வேதனையைக் கண்டும் ஒருபோதும் நான் வருந்துவ தில்லை.484 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4446</td></tr><tr><td>Arabic No</td><td>4446</td></tr><tr><td>Reference</td><td>Book 64 Hadith 466</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৯০। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, একদিন কুরাইশ মুশরিকরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসে। তারা ভাগ্য প্রসঙ্গে বাদানুবাদ করছিল। সে সময় এ আয়াতটি অবতীর্ণ হয় (অনুবাদ) "যেদিন তাদেরকে উপুর করে জাহান্নামের দিকে টেনে নিযে যাওয়া হবে (আর বলা হবে), জাহান্নামের যন্ত্রণার স্বাদ গ্রহণ কর। প্রতিটি জিনিস আমরা নির্ধারিত পরিমাণে সৃষ্টি করেছি"- (সূরা কামার ৪৮-৪৯)। সহীহ, ইবনু মাজাহ (হাঃ ৮৩), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, একদিন কুরাইশ মুশরিকরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসে। তারা ভাগ্য প্রসঙ্গে বাদানুবাদ করছিল। সে সময় এ আয়াতটি অবতীর্ণ হয় (অনুবাদ) "যেদিন তাদেরকে উপুর করে জাহান্নামের দিকে টেনে নিযে যাওয়া হবে (আর বলা হবে), জাহান্নামের যন্ত্রণার স্বাদ গ্রহণ কর। প্রতিটি জিনিস আমরা নির্ধারিত পরিমাণে সৃষ্টি করেছি"- (সূরা কামার ৪৮-৪৯)। সহীহ, ইবনু মাজাহ (হাঃ ৮৩), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 47 Hadith 342</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Hurairah:"The idolaters of the Quraish came to the Messenger of Allah (ﷺ) arguing about Qadar, so the following was revealed: The day they will be dragged on their faces into the Fire. Taste you the touch of Hell! Verily, We have created all things with Qadar (54:48 & 49)
+Narrated Abu Hurairah:"The idolaters of the Quraish came to the Messenger of Allah (ﷺ) arguing about Qadar, so the following was revealed: The day they will be dragged on their faces into the Fire. Taste you the touch of Hell! Verily, We have created all things with Qadar (54:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 47 Hadith 342</td></tr></tbody></table></div>
 

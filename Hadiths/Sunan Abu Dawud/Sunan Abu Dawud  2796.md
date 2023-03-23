@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহ্ইয়া ইবন মু‘ঈন (রহঃ) ..... আবূ সা‘ঈদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ শিং বিশিষ্ট মোটাতাজা দুম্বা কুরবানী করতেন, যার চোখ, মুখ ও পা কালো রং মিশ্রিত হতো।
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন শিংবিশিষ্ট মোটাতাজা দুম্বা কুরবানী করেছেন যার চোখ, মুখ ও পা কালো বর্ণের ছিলো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
 

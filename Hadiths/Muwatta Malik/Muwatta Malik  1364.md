@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৮০. আবদুল্লাহ ইবন উমর (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেন-ক্রেতা বিক্রেতা উভয়ের ইখতিয়ার থাকিবে তাহার অপর পক্ষের উপর, যাবত তাহারা পৃথক না হইয়া যায়। কিন্তু “বায়'উল-খিয়ার” এর ব্যাপার স্বতন্ত্র। মালিক (রহঃ) বলেনঃ এই ব্যাপারে আমাদের নিকট কোন নির্দিষ্ট সময়সীমা নাই, এই প্রকার সময়সীমা নির্ধারণ মদীনার আলিমগণও করেন নাই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1364</td></tr><tr><td>Arabic No</td><td>1364</td></tr><tr><td>Reference</td><td>Book 31 Hadith 26</td></tr></tbody></table></div>
 

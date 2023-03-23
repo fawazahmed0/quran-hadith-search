@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মদিনাতে দাজ্জালের ত্রাস ও ভীতি প্রবেশ করতে পারবে না। ঐ সময় মদিনার সাতটি প্রবেশ পথ থাকবে। প্রত্যেক পথে দু’জন করে ফেরেশতা (মোতায়েন) থাকবে। (৭১২৫, ৭১২৬) (আধুনিক প্রকাশনীঃ ১৭৪৪, ইসলামিক ফাউন্ডেশনঃ ১৭৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বাকরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মদিনাতে দাজ্জালের ত্রাস ও ভীতি প্রবেশ করতে পারবে না। ঐ সময় মদিনার সাতটি প্রবেশ পথ থাকবে। প্রত্যেক পথে দু’জন করে ফেরেশতা (মোতায়েন) থাকবে। (৭১২৫, ৭১২৬) (আধুনিক প্রকাশনীঃ ১৭৪৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1879</td></tr><tr><td>Arabic No</td><td>1879</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah mence
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மசீஹுத் தஜ்ஜாவைப் பற்றிய அச்சம் மதீனாவுக்குள் நுழையாது. அன்றைய தினம் மதீனாவுக்கு ஏழு வாசல்கள் இருக்கும்; ஒவ்வொரு வாசலிலும் இரு வானவர்கள் இருப்பார்கள். இதை அபூபக்ரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 29
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மசீஹுத் தஜ்ஜாவைப் பற்றிய அச்சம் மதீனாவுக்குள் நுழையாது. அன்றைய தினம் மதீனாவுக்கு ஏழு வாசல்கள் இருக்கும்; ஒவ்வொரு வாசலிலும் இரு வானவர்கள் இருப்பார்கள். இதை அபூபக்ரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1879</td></tr><tr><td>Arabic No</td><td>1879</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah mence
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Bekre r.a.'in naklettiğine göre Resûl-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Deccal'in saldığı korku ve fitne Medine'ye giremeyecek. O gün Medine'nin yedi kapısı olacak ve her kapısında iki melek nöbet tutacak." Tekrar: 7125, 7126
+Ebu Bekre r.a.'in naklettiğine göre Resûl-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Deccal'in saldığı korku ve fitne Medine'ye giremeyecek. O gün Medine'nin yedi kapısı olacak ve her kapısında iki melek nöbet tutacak." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1879</td></tr><tr><td>Arabic No</td><td>1879</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
 

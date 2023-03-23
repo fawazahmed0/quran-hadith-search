@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৪৩। আম্মার (রাঃ) থেকে বর্ণিতঃ আম্মার (রাঃ) বলেছেনঃ নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) মাটিতে হাত মারলেন এবং তাঁর চেহারা ও হস্তদ্বয় মাস্‌হ করলেন। (৩৩৮) (আ.প্র. ৩৩০, ই.ফা. ৩৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। আম্মার (রাঃ) থেকে বর্ণিতঃ আম্মার (রাঃ) বলেছেনঃ নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) মাটিতে হাত মারলেন এবং তাঁর চেহারা ও হস্তদ্বয় মাস্‌হ করলেন। (৩৩৮) (আ.প্র. ৩৩০, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 7 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] ia berkata; telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்மார் (ரலி) அவர்கள் கூறியதாவது: அப்போது நபி (ஸல்) அவர்கள் தமது கையைத் தரையில் அடித்துத் தமது முகத்தையும் (மணிக்கட்டுவரை) இரு கைகளையும் தடவி(க்காட்டி)னார்கள். அத்தியாயம் : 7
+அம்மார் (ரலி) அவர்கள் கூறியதாவது: அப்போது நபி (ஸல்) அவர்கள் தமது கையைத் தரையில் அடித்துத் தமது முகத்தையும் (மணிக்கட்டுவரை) இரு கைகளையும் தடவி(க்காட்டி)னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 7 Hadith 10</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্রাহীমের দাদা থেকে বাদর তথা ‘আফরার দুই ছেলের সম্পর্কে এক রেওয়ায়ত বর্ণনা করেছেন। [৩১৪১] (আধুনিক প্রকাশনীঃ নেই, ইসলামিক ফাউন্ডেশনঃ ৩৬৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইব্রাহীমের দাদা থেকে বাদর তথা ‘আফরার দুই ছেলের সম্পর্কে এক রেওয়ায়ত বর্ণনা করেছেন। [৩১৪১] (আধুনিক প্রকাশনীঃ নেই, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3964</td></tr><tr><td>Arabic No</td><td>3964</td></tr><tr><td>Reference</td><td>Book 64 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Abdur-Rahman bin 'Auf:(the grandfather of Salih bin Ibrahim) the story
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பத்ர் போரில் அஃப்ராவின் இரு புதல்வர்கள் (முஆத், முஅவ்வித் ஆகியோர் அபூஜஹ்லைக் கொன்றது) தொடர்பான தகவல் அப்துர் ரஹ்மான் பின் அவ்ஃப் (ரலி) அவர்கள் வாயிலாகவும் வந்துள்ளது. அத்தியாயம் : 64
+பத்ர் போரில் அஃப்ராவின் இரு புதல்வர்கள் (முஆத், முஅவ்வித் ஆகியோர் அபூஜஹ்லைக் கொன்றது) தொடர்பான தகவல் அப்துர் ரஹ்மான் பின் அவ்ஃப் (ரலி) அவர்கள் வாயிலாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3964</td></tr><tr><td>Arabic No</td><td>3964</td></tr><tr><td>Reference</td><td>Book 64 Hadith 17</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবন কুদামা (রহঃ) ... মুগীরা (রহঃ) শা'বী (রহঃ) থেকে বর্ণনা করেন যে, তিনি বলেন, জারীর (রাঃ) রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করতেন যে, গোলাম যখন পালিয়ে যায়, তখন তার নামায কবূল হয় না। যদি সে এভাবে মৃত্যুবরণ করে, তবে সে কাফির হয়ে মরবে। জারীর (রাঃ)-এর এক গোলাম পালিয়ে গিয়েছিল। তিনি তাকে গ্রেফতার করার পর তার গর্দান উড়িয়ে দেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4050</td></tr><tr><td>Arabic No</td><td>4050</td></tr><tr><td>Reference</td><td>Book 37 Hadith 85</td></tr></tbody></table></div>
 

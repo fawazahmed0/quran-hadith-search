@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সালিহ্ আল্ আনতাকী মাহবূব ইবন মূসা ..... আয়েশা (রাঃ) হতে বর্ণিত যে, তিনি এক সময়ে নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে সফরে ছিলেন। তিনি বলেন, তখন আমি তাঁর সঙ্গে দৌড় প্রতিযোগিতায় তাঁর আগে বেড়ে গেলাম (অর্থাৎ জিতে গেলাম), তারপর যখন আমি মোটা স্থুলকায় হয়ে গেলাম, তখন পুনরায় তাঁর সঙ্গে দৌড় প্রতিযোগিতায় অবতীর্ণ হলাম। তখন তিনি আমার আগে বেড়ে (জিতে) গেলেন। তখন তিনি বললেন, এটা তোমার প্রথমবারে জেতার বদলা।
+। ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি এক সফরে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ছিলেন। তিনি বলেন, আমি তাঁর সাথে দৌড় প্রতিযোগিতা করে তাঁর আগে চলে গেলাম। অতঃপর আমি মোটা হয়ে যাওয়ার পর তাঁর সাথে আবারো দৌড় প্রতিযোগিতা করলাম, এবার তিনি আমাকে পিছে ফেলে দিলেন বিজয়ী হলেন। তিনি বলেনঃ এ বিজয় সেই বিজয়ের বদলা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2578</td></tr><tr><td>Arabic No</td><td>2578</td></tr><tr><td>Reference</td><td>Book 15 Hadith 102</td></tr></tbody></table></div>
 

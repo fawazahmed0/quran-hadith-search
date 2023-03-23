@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩০, আন্তর্জাতিক নাম্বারঃ ২৭৮ ৫৩০-(৮৭/২৭৮) নাসর ইবনু আলী আল জাহযামী ও হামিদ ইবনু উমার আল বাকরাবী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেন, তোমাদের কেউ যখন ঘুম থেকে উঠবে তখন সে যেন তিনবার হাত না ধোয়া পর্যন্ত পাত্রে না ঢুকায়। কারণ সে জানে না যে, তার হাত রাতে কোথায় ছিল। (ইসলামিক ফাউন্ডেশনঃ ৫৩৪, ইসলামিক সেন্টারঃ ৫৫০)
+নাসর ইবনু আলী আল জাহযামী ও হামিদ ইবনু উমার আল বাকরাবী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেন, তোমাদের কেউ যখন ঘুম থেকে উঠবে তখন সে যেন তিনবার হাত না ধোয়া পর্যন্ত পাত্রে না ঢুকায়। কারণ সে জানে না যে, তার হাত রাতে কোথায় ছিল। (ইসলামিক ফাউন্ডেশনঃ ৫৩৪, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>643</td></tr><tr><td>Arabic No</td><td>278.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 109</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Nashr bin Ali al-Jahdlami] dan [Hamid bin Um
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Nasr b. Ali el-Cehdami ile Hamid b. Ömer el-Bekravı tahdis edip dediler ki: Bize Bişr b. el-Mufaddal Halid'den, o Abdullah b. Şakik'den, o Ebu Hureyre'den rivayet ettiğine göre Nebi (Sallallahu aleyhi ve Sellem): "Sizden biriniz uykudan uyandığı vakit elini üç defa yzkamadıkça kaba daldırmasın. Çünkü o elinin geceyi nerede geçirdiğini bilmez" buyurdu. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 13567
+Bize Nasr b. Ali el-Cehdami ile Hamid b. Ömer el-Bekravı tahdis edip dediler ki: Bize Bişr b. el-Mufaddal Halid'den, o Abdullah b. Şakik'den, o Ebu Hureyre'den rivayet ettiğine göre Nebi (Sallallahu aleyhi ve Sellem): "Sizden biriniz uykudan uyandığı vakit elini üç defa yzkamadıkça kaba daldırmasın. Çünkü o elinin geceyi nerede geçirdiğini bilmez" buyurdu. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>643</td></tr><tr><td>Arabic No</td><td>278.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 109</td></tr></tbody></table></div>
 

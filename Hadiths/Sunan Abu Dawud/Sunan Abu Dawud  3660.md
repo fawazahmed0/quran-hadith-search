@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... যায়দ ইবন ছাবিত (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরূপ বলতে শুনেছি যে, আল্লাহ্‌ তা'আলা সে ব্যক্তিকে সুখে-শান্তিতে রাখুন, যে আমার কথা শোনার পর তা স্মরণ রাখে এবং অন্য লোকের নিকট পৌছে দেয়। বস্তুত ফিকাহ তত্ত্ববিদ একে অপরের চাইতে বিচক্ষণ। আবার এমন অনেকেই আছেন, যারা প্রকৃতপক্ষে ফকীহ নন।
+। যায়িদ ইবনু সাবিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি আমার নিকট থেকে হাদিস শুনে তা মুখস্থ রাখলো এবং অন্যের নিকটও তা পৌঁছে দিলো, আল্লাহ তাকে চিরউজ্জ্বল করে রাখবেন। জ্ঞানের অনেক বাহক তার চেয়ে অধিক সমঝদার লোকের নিকট তার বহন নিয়ে যায়; যদিও জ্ঞানের বহু বাহক নিজেরা জ্ঞানী নয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
 

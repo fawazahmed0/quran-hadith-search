@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৮৭, আন্তর্জাতিক নাম্বারঃ ১৫৭ ২৮৭-(২৪৮/১৫৭) ইয়াহইয়া ইবনু আইয়ুব, কুতাইবাহ ইবনু সাঈদ ও আলী ইবনু হুজুর (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ পশ্চিম দিকে সূর্যোদয়ের পূর্বে কিয়ামত সংঘটিত হবে না, আর যখন পশ্চিমাকাশে সূর্য উঠবে তখন সকল মানুষ একত্রে ঈমান আনবে। কিন্তু যে ইতঃপূর্বে ঈমান আনেনি অথবা যে ঈমান অনুযায়ী নেক কাজ করেনি সে সময়ে ঈমান আনায় তার কোন কল্যাণ সাধিত হবে না। আবূ বাকর ইবনু শাইবাহ, ইবনু নুমায়র, আবূ কুরায়ব, যুহায়র ইবনু হারব ও মুহাম্মাদ ইবনু রাফি (রহঃ) ... আবূ হুরাইরাহ্ (রাযিঃ) নবীসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সূত্রে বর্ণিত হাদীসের অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ২৯৩, ২৯৪; ইসলামিক সেন্টারঃ ৩০৪, ৩০৫)
+ইয়াহইয়া ইবনু আইয়ুব, কুতাইবাহ ইবনু সাঈদ ও আলী ইবনু হুজুর (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ পশ্চিম দিকে সূর্যোদয়ের পূর্বে কিয়ামত সংঘটিত হবে না, আর যখন পশ্চিমাকাশে সূর্য উঠবে তখন সকল মানুষ একত্রে ঈমান আনবে। কিন্তু যে ইতঃপূর্বে ঈমান আনেনি অথবা যে ঈমান অনুযায়ী নেক কাজ করেনি সে সময়ে ঈমান আনায় তার কোন কল্যাণ সাধিত হবে না। আবূ বাকর ইবনু শাইবাহ, ইবনু নুমায়র, আবূ কুরায়ব, যুহায়র ইবনু হারব ও মুহাম্মাদ ইবনু রাফি (রহঃ) ... আবূ হুরাইরাহ্ (রাযিঃ) নবীসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সূত্রে বর্ণিত হাদীসের অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ২৯৩, ২৯৪; ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>396</td></tr><tr><td>Arabic No</td><td>157.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] serta 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Yahya b. Eyyub, Kuteybe b. Said ve Ali b. Hucr tahdis edip dediler ki: Bize İsmail -b. Cafer demek istiyorlar- el-Ala'dan -ki İbn Abdurrahman'dır- tahdis etti. O babasından, o Ebu Hureyre'den rivayet ettiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Güneş battığı yerden doğmadıkça kıyamet kopmayacaktır. Güneş battığı yerden doğacak olursa insanların hepsi tamamen iman edecekler. İşte "Rabbinin ayet/erinden biri geldiği gün daha önce iman etmemiş yahut imanında bir hayır kazanmamış olan kimseye imanı fayda vermez." (En'am, 158) denilen gün o gündür. " Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf, 13988
+Bize Yahya b. Eyyub, Kuteybe b. Said ve Ali b. Hucr tahdis edip dediler ki: Bize İsmail -b. Cafer demek istiyorlar- el-Ala'dan -ki İbn Abdurrahman'dır- tahdis etti. O babasından, o Ebu Hureyre'den rivayet ettiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Güneş battığı yerden doğmadıkça kıyamet kopmayacaktır. Güneş battığı yerden doğacak olursa insanların hepsi tamamen iman edecekler. İşte "Rabbinin ayet/erinden biri geldiği gün daha önce iman etmemiş yahut imanında bir hayır kazanmamış olan kimseye imanı fayda vermez." (En'am, 158) denilen gün o gündür. " Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>396</td></tr><tr><td>Arabic No</td><td>157.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
 

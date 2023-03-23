@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময়ে দেখেছি যে, লোকেরা খাদ্য আনুমানিক পরিমাণের ভিত্তিতে বেচা-কেনা করত, পরে তা সেখানেই নিজেদের ঘরে তুলে নেয়ার আগেই বিক্রি করলে তাদেরকে শাস্তি দেয়া হতো। (২১২৩) (আধুনিক প্রকাশনীঃ ১৯৮৯, ইসলামিক ফাউন্ডেশনঃ ২০০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময়ে দেখেছি যে, লোকেরা খাদ্য আনুমানিক পরিমাণের ভিত্তিতে বেচা-কেনা করত, পরে তা সেখানেই নিজেদের ঘরে তুলে নেয়ার আগেই বিক্রি করলে তাদেরকে শাস্তি দেয়া হতো। (২১২৩) (আধুনিক প্রকাশনীঃ ১৯৮৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2137</td></tr><tr><td>Arabic No</td><td>2137</td></tr><tr><td>Reference</td><td>Book 34 Hadith 89</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் காலத்தில் மக்கள், குத்துமதிப்பாக உணவுப் பொருட்களை விலைக்கு வாங்கிக்கொண்டி ருந்தபோது, அவற்றைத் தம் இருப்பிடங் களுக்குக் கொண்டுபோய்ச் சேர்க்காமல் அதே இடத்தில் விற்றதற்காக அடிக்கப் பட்டதை நான் பார்த்திருக்கிறேன். அத்தியாயம் : 34
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் காலத்தில் மக்கள், குத்துமதிப்பாக உணவுப் பொருட்களை விலைக்கு வாங்கிக்கொண்டி ருந்தபோது, அவற்றைத் தம் இருப்பிடங் களுக்குக் கொண்டுபோய்ச் சேர்க்காமல் அதே இடத்தில் விற்றதற்காக அடிக்கப் பட்டதை நான் பார்த்திருக்கிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2137</td></tr><tr><td>Arabic No</td><td>2137</td></tr><tr><td>Reference</td><td>Book 34 Hadith 89</td></tr></tbody></table></div>
 

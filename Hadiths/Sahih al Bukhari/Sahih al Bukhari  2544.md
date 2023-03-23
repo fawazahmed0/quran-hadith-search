@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কারো যদি একটি বাঁদী থাকে আর সে তাকে প্রতিপালন করে, তার সাথে ভাল আচরণ করে এবং তাকে মুক্তি দিয়ে বিয়ে করে, তাহলে সে দ্বিগুণ সাওয়াব লাভ করবে। (৯৭) (আধুনিক প্রকাশনীঃ ২৩৫৯, ইসলামিক ফাউন্ডেশনঃ ২৩৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কারো যদি একটি বাঁদী থাকে আর সে তাকে প্রতিপালন করে, তার সাথে ভাল আচরণ করে এবং তাকে মুক্তি দিয়ে বিয়ে করে, তাহলে সে দ্বিগুণ সাওয়াব লাভ করবে। (৯৭) (আধুনিক প্রকাশনীঃ ২৩৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2544</td></tr><tr><td>Arabic No</td><td>2544</td></tr><tr><td>Reference</td><td>Book 49 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Ibrahim] dia mendengar [Muhammad bin F
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எவரிடம் ஓர் அடிமைப் பெண் இருந்து, அவளுக்கு அவர் கல்வி கற்றுக் கொடுத்து, அவளை நல்ல முறையில் நடத்தி, பிறகு அவளை விடுதலை செய்து, தாமே அவளை மணமுடித்துக்கொள்கி றாரோ அவருக்கு இரு நன்மைகள் உண்டு. இதை அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.24 அத்தியாயம் : 49
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எவரிடம் ஓர் அடிமைப் பெண் இருந்து, அவளுக்கு அவர் கல்வி கற்றுக் கொடுத்து, அவளை நல்ல முறையில் நடத்தி, பிறகு அவளை விடுதலை செய்து, தாமே அவளை மணமுடித்துக்கொள்கி றாரோ அவருக்கு இரு நன்மைகள் உண்டு. இதை அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.24 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2544</td></tr><tr><td>Arabic No</td><td>2544</td></tr><tr><td>Reference</td><td>Book 49 Hadith 27</td></tr></tbody></table></div>
 

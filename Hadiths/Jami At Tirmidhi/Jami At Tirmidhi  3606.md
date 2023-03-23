@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬০৬। ওয়াসিলাহ্ ইবনুল আসক্বা (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা'আলা ইসমাঈল (আঃ)-এর বংশধর হতে কিনানাহ গোত্রকে বাছাই করেছেন, কিনানাহ গোত্র হতে কুরাইশকে বাছাই করেছেন, আবার কুরাইশদের মধ্য হতে হাশিমকে বাছাই করেছেন এবং বনু হাশিম হতে আমাকে বাছাই করেছেন। সহীহঃ সহীহাহ (৩০২), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব।
+। ওয়াসিলাহ্ ইবনুল আসক্বা (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা'আলা ইসমাঈল (আঃ)-এর বংশধর হতে কিনানাহ গোত্রকে বাছাই করেছেন, কিনানাহ গোত্র হতে কুরাইশকে বাছাই করেছেন, আবার কুরাইশদের মধ্য হতে হাশিমকে বাছাই করেছেন এবং বনু হাশিম হতে আমাকে বাছাই করেছেন। সহীহঃ সহীহাহ (৩০২), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3606</td></tr><tr><td>Arabic No</td><td>3606</td></tr><tr><td>Reference</td><td>Book 49 Hadith 2</td></tr></tbody></table></div>
 

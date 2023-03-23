@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, ইসলামের ধারক বাহকরা সায়বা বানায় না। জাহিলী যুগের লোকেরা সায়বা বানাত। (আধুনিক প্রকাশনী- ৬২৮৫, ইসলামিক ফাউন্ডেশন- ৬২৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, ইসলামের ধারক বাহকরা সায়বা বানায় না। জাহিলী যুগের লোকেরা সায়বা বানাত। (আধুনিক প্রকাশনী- ৬২৮৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6753</td></tr><tr><td>Arabic No</td><td>6753</td></tr><tr><td>Reference</td><td>Book 85 Hadith 30</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah bin 'Uqbah] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: ‘உன்மீது யாருக்கும் வாரிசுரிமை கிடையாது’ என்ற நிபந்தனையின்பேரில் அடிமைகளை முஸ்லிம்கள் விடுதலை செய்வதில்லை; அறியாமைக் காலத்தவர் தான் அவ்வாறு விடுதலை செய்துவந்தனர். அத்தியாயம் : 86
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: ‘உன்மீது யாருக்கும் வாரிசுரிமை கிடையாது’ என்ற நிபந்தனையின்பேரில் அடிமைகளை முஸ்லிம்கள் விடுதலை செய்வதில்லை; அறியாமைக் காலத்தவர் தான் அவ்வாறு விடுதலை செய்துவந்தனர். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6753</td></tr><tr><td>Arabic No</td><td>6753</td></tr><tr><td>Reference</td><td>Book 85 Hadith 30</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুগীরাহ ইবনু শু‘বাহ (রাঃ)-কে বর্ণনা করতে শুনেছি। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এত (দীর্ঘ সময় ধরে) সালাত আদায় করতেন যে, তাঁর দু’পা ফুলে যেত। তাঁকে এ ব্যাপারে জিজ্ঞেস করা হলে তিনি বললেনঃ আমি কি শোকরগুযার বান্দা হবো না? [১১৩০] (আধুনিক প্রকাশনী- ৬০২১, ইসলামিক ফাউন্ডেশন- ৬০২৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুগীরাহ ইবনু শু‘বাহ (রাঃ)-কে বর্ণনা করতে শুনেছি। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এত (দীর্ঘ সময় ধরে) সালাত আদায় করতেন যে, তাঁর দু’পা ফুলে যেত। তাঁকে এ ব্যাপারে জিজ্ঞেস করা হলে তিনি বললেনঃ আমি কি শোকরগুযার বান্দা হবো না? [১১৩০] (আধুনিক প্রকাশনী- ৬০২১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6471</td></tr><tr><td>Arabic No</td><td>6471</td></tr><tr><td>Reference</td><td>Book 81 Hadith 60</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம் பாதங்கள் ‘வீங்கும் அளவுக்கு’ அல்லது ‘புடைக்கும் அளவுக்கு’ நின்று தொழுவார்கள். இதுபற்றி அவர்களிடம் கேட்கப்படும்போது “நான் நன்றியுள்ள அடியானாக இருக்க வேண்டாமா?” என்று கேட்பார்கள்.56 அத்தியாயம் : 81
+முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம் பாதங்கள் ‘வீங்கும் அளவுக்கு’ அல்லது ‘புடைக்கும் அளவுக்கு’ நின்று தொழுவார்கள். இதுபற்றி அவர்களிடம் கேட்கப்படும்போது “நான் நன்றியுள்ள அடியானாக இருக்க வேண்டாமா?” என்று கேட்பார்கள்.56 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6471</td></tr><tr><td>Arabic No</td><td>6471</td></tr><tr><td>Reference</td><td>Book 81 Hadith 60</td></tr></tbody></table></div>
 

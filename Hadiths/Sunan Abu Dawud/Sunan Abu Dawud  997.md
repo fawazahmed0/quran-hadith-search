@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদা ইবন আবদুল্লাহ (রহঃ) .... আলকামা ইবন ওয়ায়েল (রহঃ) তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, একদা আমি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে নামায আদায় করি। তিনি সালাম ফিরাবার সময় প্রথমে ডান দিকে ফিরে ‘‘আস্-সালামু আলায়কুম ওয়ারহমাতুল্লাহে ওয়া বারাকাতুহু’’ বলেন এবং বাম দিকে ফিরে ‘‘আস্-সালামু আলায়কুম ওয়ারহমাতুল্লাহ’’ বলেন।
+। ‘আলকামাহ ইবনু ওয়াইল (রহঃ) তার পিতা হতে বর্ণনা করেন যে, তিনি বলেছেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে সালাত আদায় করেছি। তিনি ডান দিকে সালাম ফিরানোর সময় বলতেন ‘‘আসসালামু ‘আলাইকুম ওয়া রহমাতুল্লাহি ওয়া বারাকাতুহু’’ এবং বাঁ দিকে সালাম ফিরানোর সময় বলতেন ‘‘আসসালামু ‘আলাইকুম ওয়া রহমাতুল্লাহ’’।[1] সহীহ : মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>997</td></tr><tr><td>Arabic No</td><td>997</td></tr><tr><td>Reference</td><td>Book 2 Hadith 608</td></tr></tbody></table></div>
 

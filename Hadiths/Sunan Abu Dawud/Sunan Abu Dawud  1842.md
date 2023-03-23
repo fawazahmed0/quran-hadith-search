@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ (রহঃ) ..... উসমান ইবন আফফান (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন ... পূর্বোক্ত হাদীসের অনুরূপ। এ বর্ণনায় আরো আছে, মুহরিম ব্যক্তি বিবাহের প্রস্তাবও দিতে পারবে না।
+। ‘উসমান (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, অতঃপর বর্ণনাকারী উপরোক্ত হাদীসের অনুরূপ বর্ণনা করেন। তবে এ বর্ণনায় আরো রয়েছেঃ ‘বিবাহের প্রস্তাবও দিতে পারবে না।’[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>1842</td></tr><tr><td>Reference</td><td>Book 11 Hadith 122</td></tr></tbody></table></div>
 

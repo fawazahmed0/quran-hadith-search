@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবনু মুহাম্মাদ .... হারাম ইবনু হাকীম থেকে তাঁর চাচার সূত্রে বর্ণিত। তিনি (চাচা) রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে জিজ্ঞাসা করেন- আমার স্ত্রী যখন ঋতুবতী হয়, তখন সে আমার জন্য কতটুকু হালাল? তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেনঃ তুমি কাপড়ের উপর দিয়ে যা কিছু করতে পার এবং ঋতুবতী স্ত্রীলোকের সাথে খানা-পিনার বৈধতা সম্পর্কে আলোচনা করলেন। (তিরমিযী)।
+। হারাম ইবনু হাকীম থেকে তার চাচার সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞাসা করলেন, আমার স্ত্রী হায়িয অবস্থায় আমার জন্য কতটুকু হালাল? তিনি বললেন, পায়জামার উপরের অংশ তোমার জন্য হালাল। তিনি ঋতুবতী স্ত্রীকে নিয়ে একত্রে পানাহার করার কথাও উল্লেখ করলেন। অতঃপর শেষ পর্যন্ত হাদীস বর্ণনা করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>212</td></tr><tr><td>Arabic No</td><td>212</td></tr><tr><td>Reference</td><td>Book 1 Hadith 212</td></tr></tbody></table></div>
 

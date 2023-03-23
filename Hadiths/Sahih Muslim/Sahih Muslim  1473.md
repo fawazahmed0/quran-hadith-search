@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩৫৯, আন্তর্জাতিক নাম্বারঃ ৬৪৯ ১৩৫৯-(২৪৬/...) আবূ বকর ইবনু আবূ শায়বাহ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জামা'আতের সাথে সালাত আদায় করা একাকী সালাত আদায় করার চেয়ে পচিশগুণ বেশী উত্তম। তিনি আরো বলেছেনঃ রাতের কর্তব্যরত মালায়িকাহ (ফেরেশতাগণ) এবং দিনের কর্তব্যরত মালায়িকাহ ফজরের সালাতের সময় একত্র হয়। এ কথা বলে আবূ হুরায়রাহ (রাযিঃ) বললেন, এক্ষেত্রে তোমরা ইচ্ছা করলে কুরআনের আয়াতটি পাঠ করো- অর্থাৎ- "ফজরের ওয়াক্তের কুরআন পাঠে উপস্থিত থাকে"- (সূরাহ ইসরা ১৭ঃ ৭৮)। (ইসলামী ফাউন্ডেশন ১৩৪৬, ইসলামীক সেন্টার ১৩৫৮)
+আবূ বকর ইবনু আবূ শায়বাহ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জামা'আতের সাথে সালাত আদায় করা একাকী সালাত আদায় করার চেয়ে পচিশগুণ বেশী উত্তম। তিনি আরো বলেছেনঃ রাতের কর্তব্যরত মালায়িকাহ (ফেরেশতাগণ) এবং দিনের কর্তব্যরত মালায়িকাহ ফজরের সালাতের সময় একত্র হয়। এ কথা বলে আবূ হুরায়রাহ (রাযিঃ) বললেন, এক্ষেত্রে তোমরা ইচ্ছা করলে কুরআনের আয়াতটি পাঠ করো- وَقُرْآنَ الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا অর্থাৎ- "ফজরের ওয়াক্তের কুরআন পাঠে উপস্থিত থাকে"- (সূরাহ ইসরা ১৭ঃ ৭৮)। (ইসলামী ফাউন্ডেশন ১৩৪৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>649.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 306</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abu Huraira reported Allah's Apostle (ﷺ) as saying:Prayer said in a congregation is twenty-five degrees more excellent than prayer said by a single person. He (Abu Huraira further) said: The angels of the night and the angels of the day meet together. Abu Huraira said: Recite it you like:" Surely the recital of the Qur'an at dawn is witnessed" (al-Qur'an, xvii. 78)
+Abu Huraira reported Allah's Apostle (ﷺ) as saying:Prayer said in a congregation is twenty-five degrees more excellent than prayer said by a single person. He (Abu Huraira further) said: The angels of the night and the angels of the day meet together. Abu Huraira said: Recite it you like:" Surely the recital of the Qur'an at dawn is witnessed" (al-Qur'an, xvii)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>649.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 306</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் தனியாகத் தொழும் தொழுகையைவிடக் கூட்டாக (ஜமாஅத்துடன்) தொழும் தொழுகை, இருபத்தைந்து மடங்கு அதிகச் சிறப்புடையதாகும். அதிகாலை (ஃபஜ்ர்) தொழுகையில் இரவு நேரத்து வானவர்களும், பகல் நேரத்து வானவர்களும் ஒன்று சேர்கிறார்கள். இதை அறிவித்த அபூஹுரைரா (ரலி) அவர்கள், "நீங்கள் விரும்பினால், "(நபியே!) அதிகாலையில் ஓதுவதை (தொழுவதை)க் கடைப்பிடிப்பீராக! (ஏனெனில்,) அதிகாலையில் ஓதுவது (வானவர்களால்) சாட்சியம் சொல்லப்படக்கூடியதாகும்" எனும் (17:78ஆவது) இறைவசனத்தை ஓதிக்கொள்ளுங்கள்" என்று சொன்னார்கள். - மேற்கண்ட ஹதீஸ் அபூஹுரைரா (ரலி) அவர்களிடமிருந்தே மேலும் இரு அறிவிப்பாளர் தொடர்கள் வழியாகவும் வந்துள்ளது. ஆனால், அவற்றில் "இருபத்தைந்து பங்கு" எனும் வாசகம் இடம்பெற்றுள்ளது. அத்தியாயம் : 5
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் தனியாகத் தொழும் தொழுகையைவிடக் கூட்டாக (ஜமாஅத்துடன்) தொழும் தொழுகை, இருபத்தைந்து மடங்கு அதிகச் சிறப்புடையதாகும். அதிகாலை (ஃபஜ்ர்) தொழுகையில் இரவு நேரத்து வானவர்களும், பகல் நேரத்து வானவர்களும் ஒன்று சேர்கிறார்கள். இதை அறிவித்த அபூஹுரைரா (ரலி) அவர்கள், "நீங்கள் விரும்பினால், "(நபியே!) அதிகாலையில் ஓதுவதை (தொழுவதை)க் கடைப்பிடிப்பீராக! (ஏனெனில்,) அதிகாலையில் ஓதுவது (வானவர்களால்) சாட்சியம் சொல்லப்படக்கூடியதாகும்" எனும் (17:78ஆவது) இறைவசனத்தை ஓதிக்கொள்ளுங்கள்" என்று சொன்னார்கள். - மேற்கண்ட ஹதீஸ் அபூஹுரைரா (ரலி) அவர்களிடமிருந்தே மேலும் இரு அறிவிப்பாளர் தொடர்கள் வழியாகவும் வந்துள்ளது. ஆனால், அவற்றில் "இருபத்தைந்து பங்கு" எனும் வாசகம் இடம்பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>649.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 306</td></tr></tbody></table></div>
 

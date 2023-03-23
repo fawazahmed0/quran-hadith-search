@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যিয়াদ ইবনু আইউব .... আবূ কিলাবা (রহঃ) হতে বর্ণিত। তিনি বলেন, আবূ সুলায়মান মালিক ইবনুল-হুআয়রিছ (রাঃ) একদা আমাদের মসজিদে আগমন করে বলেন, আল্লাহর শপথ! আমি তোমাদেরকে নামায আদায়ের মাধ্যমে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে যেভাবে নামায আদায় করতে দেখেছি তা প্রদর্শন করতে চাই। রাবী বলেনঃ অতঃপর তিনি প্রথম রাকাতের দ্বিতীয় সিজদা হতে মাথা উত্তোলন করে একটু বসেন।
+। আবূ ক্বিলাবাহ সূত্রে বর্ণিত। তিনি বলেন, একদা আবূ সুলায়মান মালিক ইবনুল হুওয়াইরিস (রাঃ) আমাদের মসজিদে এসে বললেন, আল্লাহর শপথ! আমি এখন সালাত আদায় করবো, কিন্তু সালাত আদায়ের উদ্দেশে নয়। বরং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে যেভাবে সালাত আদায় করতে দেখেছি তা তোমাদেরকে দেখাতে চাই। বর্ণনাকারী বলেন, অতঃপর তিনি প্রথম রাক‘আতের দ্বিতীয় সিজদা্ হতে মাথা উঠানোর পর একটু বসতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 2 Hadith 453</td></tr></tbody></table></div>
 

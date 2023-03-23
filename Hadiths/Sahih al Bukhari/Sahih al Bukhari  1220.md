@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রহ.) হতে বর্ণিত। তিনি বলেন, কোমরে হাত রেখে সালাত আদায় করতে লোকেদের নিষেধ করা হয়েছে। (১২১৯) (আধুনিক প্রকাশনীঃ ১১৪০ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ১১৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রহ.) হতে বর্ণিত। তিনি বলেন, কোমরে হাত রেখে সালাত আদায় করতে লোকেদের নিষেধ করা হয়েছে। (১২১৯) (আধুনিক প্রকাশনীঃ ১১৪০ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1220</td></tr><tr><td>Arabic No</td><td>1220</td></tr><tr><td>Reference</td><td>Book 21 Hadith 24</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin 'Ali] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஒருவர் இடுப்பில் கை வைத்துக் கொண்டு தொழுவது தடுக்கப்பட் டுள்ளது. அத்தியாயம் : 21
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஒருவர் இடுப்பில் கை வைத்துக் கொண்டு தொழுவது தடுக்கப்பட் டுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1220</td></tr><tr><td>Arabic No</td><td>1220</td></tr><tr><td>Reference</td><td>Book 21 Hadith 24</td></tr></tbody></table></div>
 

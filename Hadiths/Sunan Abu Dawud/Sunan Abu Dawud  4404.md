@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) .... আতিয়া কুরাযী (রাঃ) হতে বর্ণিত। তিনি বলেনঃ আমি কুরায়যা গোত্রের বন্দীদের অন্তর্ভুক্ত ছিলাম, (যাদের হত্যার নির্দেশ দেওয়া হয়েছিল). সে সময় লোকেরা তদন্ত করে দেখছিল এবং যাদের নাভীর নীচে চুল উঠেছিল, তাদের হত্যা করা হচ্ছিল। আর আমি তাদের দলভুক্ত ছিলাম, যাদের তখনো নাভীর নীচে পশম উঠেনি। ফলে আমাকে হত্যা করা হয় নি।
+। আতিয়্যাহ আল-কুরাযী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি বনী কুরাইযার বন্দীদের অন্তর্ভুক্ত ছিলাম। তারা দেখতো, যার নাভীর নীচে চুল উঠেছে তাকে হত্যা করা হতো; আর যার উঠেনি, তাকে হত্যা করা হতো না। আর আমি তাদের অন্তর্ভুক্ত ছিলাম, যাদের তা উঠেনি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4404</td></tr><tr><td>Arabic No</td><td>4404</td></tr><tr><td>Reference</td><td>Book 40 Hadith 54</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, মু‘আবিয়া (রাঃ)-এর মা হিন্দা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলেন, আবূ সুফিয়ান (রাঃ) একজন কৃপণ ব্যক্তি। এমতাবস্থায় আমি যদি তার মাল হতে গোপনে কিছু গ্রহণ করি, তাতে কি আমার গুনাহ হবে? তিনি বললেন, তুমি তোমার ও সন্তানদের প্রয়োজন অনুযায়ী ন্যায়ভাবে গ্রহণ করতে পার। (২৪৬০, ৩৮২৫, ৫৩৫৯, ৫৩৬৪, ৫৩৭০, ৬৬৪১, ৭১৬১, ৭১৮০) (আধুনিক প্রকাশনীঃ ২০৫৪, ইসলামিক ফাউন্ডেশনঃ ২০৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, মু‘আবিয়া (রাঃ)-এর মা হিন্দা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলেন, আবূ সুফিয়ান (রাঃ) একজন কৃপণ ব্যক্তি। এমতাবস্থায় আমি যদি তার মাল হতে গোপনে কিছু গ্রহণ করি, তাতে কি আমার গুনাহ হবে? তিনি বললেন, তুমি তোমার ও সন্তানদের প্রয়োজন অনুযায়ী ন্যায়ভাবে গ্রহণ করতে পার। (২৪৬০, ৩৮২৫, ৫৩৫৯, ৫৩৬৪, ৫৩৭০, ৬৬৪১, ৭১৬১, ৭১৮০) (আধুনিক প্রকাশনীঃ ২০৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2211</td></tr><tr><td>Arabic No</td><td>2211</td></tr><tr><td>Reference</td><td>Book 34 Hadith 157</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: முஆவியா (ரலி) அவர்களின் அன்னை ஹின்த் (ரலி) அவர்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், ‘‘(என் கணவர்) அபூசுஃப்யான் கஞ்சரான மனிதராக இருக்கிறார். அவரது பொருளை அவருக்குத் தெரியாமல் நான் எடுத்தால் என்மீது அது குற்றமாகுமா?” எனக் கேட்டார்கள். அதற்கு, ‘‘உனக்குப் போது மானதை நியாயமான முறையில் (வழக்கத் திலுள்ள அளவு) நீயும் உன் பிள்ளைகளும் எடுத்துக்கொள்ளுங்கள்!” என அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் பதிலளித் தார்கள். அத்தியாயம் : 34
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: முஆவியா (ரலி) அவர்களின் அன்னை ஹின்த் (ரலி) அவர்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், ‘‘(என் கணவர்) அபூசுஃப்யான் கஞ்சரான மனிதராக இருக்கிறார். அவரது பொருளை அவருக்குத் தெரியாமல் நான் எடுத்தால் என்மீது அது குற்றமாகுமா?” எனக் கேட்டார்கள். அதற்கு, ‘‘உனக்குப் போது மானதை நியாயமான முறையில் (வழக்கத் திலுள்ள அளவு) நீயும் உன் பிள்ளைகளும் எடுத்துக்கொள்ளுங்கள்!” என அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் பதிலளித் தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2211</td></tr><tr><td>Arabic No</td><td>2211</td></tr><tr><td>Reference</td><td>Book 34 Hadith 157</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha şöyle anlatır: Muaviye'nin annesi Hind, Nebi Sallallahu Aleyhi ve Sellem'e: "Kocam Ebu Süfyan cimri bir adamdır. O'nun malından gizlice alsam bana günah olur mu?" diye sordu. Resulullah Sallallahu Aleyhi ve Sellem ona: "Kendine ve çocuklarına örf'e göre yetecek kadar al" buyurdu Tekrar. 2460, 3825, 5359, 5364, 5370, 6641, 7161, 7180
+Aişe r.anha şöyle anlatır: Muaviye'nin annesi Hind, Nebi Sallallahu Aleyhi ve Sellem'e: "Kocam Ebu Süfyan cimri bir adamdır. O'nun malından gizlice alsam bana günah olur mu?" diye sordu. Resulullah Sallallahu Aleyhi ve Sellem ona: "Kendine ve çocuklarına örf'e göre yetecek kadar al" buyurdu Tekrar. 2460, 3825, 5359
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2211</td></tr><tr><td>Arabic No</td><td>2211</td></tr><tr><td>Reference</td><td>Book 34 Hadith 157</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন যে, বদর যুদ্ধের দিন আবূ জাহ্ল যখন মৃত্যুর মুখোমুখী তখন তিনি (‘আবদুল্লাহ) তার কাছে গেলেন। তখন আবূ জাহ্ল বলল, (আজ) তোমরা যাকে হত্যা করলে তার চেয়ে নির্ভরযোগ্য লোক আর আছে কি? (আধুনিক প্রকাশনীঃ ৩৬৭০, ইসলামিক ফাউন্ডেশনঃ ৩৬৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন যে, বাদর যুদ্ধের দিন আবূ জাহ্ল যখন মৃত্যুর মুখোমুখী তখন তিনি (‘আবদুল্লাহ) তার কাছে গেলেন। তখন আবূ জাহ্ল বলল, (আজ) তোমরা যাকে হত্যা করলে তার চেয়ে নির্ভরযোগ্য লোক আর আছে কি? (আধুনিক প্রকাশনীঃ ৩৬৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3961</td></tr><tr><td>Arabic No</td><td>3961</td></tr><tr><td>Reference</td><td>Book 64 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Abu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போரில் அபூஜஹ்லின் உயிர் ஊசலாடிக்கொண்டிருந்தபோது நான் அவனிடம் வந்தேன். அப்போது அவன், “நீங்கள் எவனைக் கொலை செய்தீர்களோ அவனைவிடச் சிறந்தவன் ஒருவன் உண்டா?” என்று (தன்னைத்தானே புகழ்ந்தபடி) சொன்னான்.13 அத்தியாயம் : 64
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போரில் அபூஜஹ்லின் உயிர் ஊசலாடிக்கொண்டிருந்தபோது நான் அவனிடம் வந்தேன். அப்போது அவன், “நீங்கள் எவனைக் கொலை செய்தீர்களோ அவனைவிடச் சிறந்தவன் ஒருவன் உண்டா?” என்று (தன்னைத்தானே புகழ்ந்தபடி) சொன்னான்.13 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3961</td></tr><tr><td>Arabic No</td><td>3961</td></tr><tr><td>Reference</td><td>Book 64 Hadith 13</td></tr></tbody></table></div>
 

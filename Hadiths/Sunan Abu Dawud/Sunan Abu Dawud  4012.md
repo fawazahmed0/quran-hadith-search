@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন নুফায়ল (রহঃ) .... ই’য়ালা (রাঃ) থেকে বর্ণিত যে, একদা রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈক ব্যক্তিকে খোলা-ময়দানে উলঙ্গ হয়ে গোসল করতে দেখেন, এরপর তিনি মিম্বরে উঠে আল্লাহর হামদ ও প্রশংসা করার পর বলেনঃ মহান আল্লাহ চিরঞ্জীব, পর্দাকারী, তিনি শরম ও পর্দাকারীদের ভালবাসেন। আর তোমাদের কেউ যখন গোসল করে, তখন সে যেন তার সতর ঢেকে রাখে।
+। ইয়া‘লা (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে উলঙ্গ হয়ে খোলা জায়গায় গোসল করতে দেখলেন। অতঃপর মিম্বারে উঠে আল্লাহর প্রশংসা ও গুণগান করার পর বললেনঃ নিশ্চয়ই আল্লাহ লজ্জাশীল, গোপণীয়তা অবলম্বনকারী। তিনি লজ্জা ও গোপনীয়তা পছন্দ করেন। তোমাদের কেউ গোসল করতে চাইলে সে যেন গোপনীয়তা অবলম্বন করে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4012</td></tr><tr><td>Arabic No</td><td>4012</td></tr><tr><td>Reference</td><td>Book 33 Hadith 4</td></tr></tbody></table></div>
 

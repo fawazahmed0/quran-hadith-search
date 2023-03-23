@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮০০। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে আম্মার! সুখবর গ্রহণ কর, বিদ্রোহী দলটি তোমাকে হত্যা করবে। সহীহঃ সহীহাহু (৭১০)। আবূ ঈসা বলেন, এ অনুচ্ছেদে উম্মু সালামাহ, ‘আবদুল্লাহ ইবনু আমর, আবূল ইয়াসার ও হুযইফাহ্ (রাযিঃ) কর্তৃকও হাদীস বর্ণিত আছে। এ হাদীসটি হাসান, সহীহ এবং আ'লা ইবনু আবদুর রহমানের বর্ণনার পরিপ্রেক্ষিতে গারীব।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে আম্মার! সুখবর গ্রহণ কর, বিদ্রোহী দলটি তোমাকে হত্যা করবে। সহীহঃ সহীহাহু (৭১০)। আবূ ঈসা বলেন, এ অনুচ্ছেদে উম্মু সালামাহ, ‘আবদুল্লাহ ইবনু আমর, আবূল ইয়াসার ও হুযইফাহ্ (রাযিঃ) কর্তৃকও হাদীস বর্ণিত আছে। এ হাদীসটি হাসান, সহীহ এবং আ'লা ইবনু আবদুর রহমানের বর্ণনার পরিপ্রেক্ষিতে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3800</td></tr><tr><td>Arabic No</td><td>3800</td></tr><tr><td>Reference</td><td>Book 49 Hadith 200</td></tr></tbody></table></div>
 

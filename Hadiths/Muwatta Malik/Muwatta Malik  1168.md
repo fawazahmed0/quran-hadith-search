@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১৮. আবদুল্লাহ ইবন উমর (রাঃ) বলিতেনঃ কেউ স্ত্রীর সহিত ঈলা করিলে তবে চার মাস অতিবাহিত হইলে তাহাকে বন্দী করা হইবে, যাবৎ তালাক না দেয় অথবা কসম ভঙ্গ করিয়া কাফফারা আদায় করে স্ত্রীকে গ্রহণ করিবে। চার মাস অতিবাহিত হইলে তাহাকে বন্দী না করা পর্যন্ত তালাক প্রযোজ্য হইবে না। ইবন শিহাব (রহঃ) হইতে বর্ণিত, সাঈদ ইবন মুসায়্যিব এবং আবদুর রহমান ইবন আবু বকর (রাঃ) তাহারা উভয়ে বলিতেন, যে ব্যক্তি স্ত্রীর সহিত ঈলা করিয়াছে, চার মাস অতিবাহিত হইলে উহা এক তালাক গণ্য হইবে। ইদ্দতের ভিতর সে ব্যক্তি স্ত্রীর দিকে রুজু’ (উহাকে গ্রহণ) করিতে পারবে।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1168</td></tr><tr><td>Arabic No</td><td>1168</td></tr><tr><td>Reference</td><td>Book 29 Hadith 19</td></tr></tbody></table></div>
 

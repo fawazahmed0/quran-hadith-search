@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৬৬৮। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলতেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবীদের মধ্যে আবদুল্লাহ ইবনু আমর (রাযিঃ) ব্যতীত আমার চাইতে বেশি তার হাদীস সংরক্ষণকারী আর কেউ নেই। কারণ তিনি হাদীস লিখতেন, আর আমি লিখতাম না। সহীহঃ মুখতাসারুল বুখারী (৭৭), বুখারী। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। ওয়াহব ইবনু মুনাব্বিহ তার ভাই হতে বর্ণনা করেন, যার নাম হাম্মাম ইবনু মুনব্বিহ।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলতেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবীদের মধ্যে আবদুল্লাহ ইবনু আমর (রাযিঃ) ব্যতীত আমার চাইতে বেশি তার হাদীস সংরক্ষণকারী আর কেউ নেই। কারণ তিনি হাদীস লিখতেন, আর আমি লিখতাম না। সহীহঃ মুখতাসারুল বুখারী (৭৭), বুখারী। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। ওয়াহব ইবনু মুনাব্বিহ তার ভাই হতে বর্ণনা করেন, যার নাম হাম্মাম ইবনু মুনব্বিহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2668</td></tr><tr><td>Arabic No</td><td>2668</td></tr><tr><td>Reference</td><td>Book 41 Hadith 24</td></tr></tbody></table></div>
 

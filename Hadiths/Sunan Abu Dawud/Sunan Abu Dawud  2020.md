@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল হাসান ইবন আলী (রহঃ) ..... মূসা ইবন বাযান (রহঃ) হতে বর্ণিত। তিনি বলেন, একদা আমি ইয়া‘লা ইবন উমাইয়্যার নিকট গমন করি। তখন তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন যে, হারামের মধ্যে খাদ্যশস্য (অধিক মূল্যে বিক্রির আশায়) গুদামজাত করে রাখাও সীমালংঘনের পর্যায়ভূক্ত।
+। মূসা ইবনু বাযান (রহ.) বলেন, আমি ইয়া‘লা ইবনু উমায়্যাহ (রাযি.)-এর কাছে এলে তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হেরেম এলাকায় খাদ্যশস্য গুদামজাত করে রাখা ধর্মদ্রোহিতার নামান্তর।[1] দুর্বলঃ যঈফ আল-জামি‘উস সাগীর (১৮৪), মিশকাত (২৭২৩)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 11 Hadith 300</td></tr></tbody></table></div>
 

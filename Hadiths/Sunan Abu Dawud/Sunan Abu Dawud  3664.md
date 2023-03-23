@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকর ইবন আবী শায়বা (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আল্লাহ্‌র সন্তুষ্টি লাভের ইলমকে দুনিয়া লাভের আশায় অর্জন করলো, সে ব্যক্তি কিয়ামতের দিন জান্নাতের খোশবু পাবে না।
+। আবূ হুরাইরাহ (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ইলমের দ্বারা আল্লাহর সন্তুষ্টি অন্বেষণ করা যায়, কোনো লোক যদি দুনিয়াবী স্বার্থ লাভের জন্য তা শিক্ষা করে, তবে সে কিয়ামতের দিন জান্নাতের সুগন্ধি পাবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3664</td></tr><tr><td>Arabic No</td><td>3664</td></tr><tr><td>Reference</td><td>Book 26 Hadith 24</td></tr></tbody></table></div>
 

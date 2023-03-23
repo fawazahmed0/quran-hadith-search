@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাইমূনাহ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করা হয়েছিল এমন একটি ইঁদুর সম্পর্কে যা ঘিয়ের মধ্যে পড়েছিল। তখন তিনি বলেছিলেনঃ ওটি এবং তার আশ-পাশের অংশ ফেলে দাও, তারপর খাও। [২৩৫] (আধুনিক প্রকাশনী- ৫১৩৩, ইসলামিক ফাউন্ডেশন- ৫০২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মাইমূনাহ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করা হয়েছিল এমন একটি ইঁদুর সম্পর্কে যা ঘিয়ের মধ্যে পড়েছিল। তখন তিনি বলেছিলেনঃ ওটি এবং তার আশ-পাশের অংশ ফেলে দাও, তারপর খাও। [২৩৫] (আধুনিক প্রকাশনী- ৫১৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5540</td></tr><tr><td>Arabic No</td><td>5540</td></tr><tr><td>Reference</td><td>Book 72 Hadith 65</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மைமூனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் நெய்யில் விழுந்து (செத்து)விட்ட எலி குறித்து கேட்கப்பட்டது. அதற்கு அவர்கள் ‘‘(உடனே) அந்த எலியையும் அதைச் சுற்றியுள்ள நெய்யையும் (எடுத்து) எறிந்துவிட்டு (மீதி நெய்யை) உண்ணுங்கள்” என்று பதிலளித்தார்கள். அத்தியாயம் : 72
+மைமூனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் நெய்யில் விழுந்து (செத்து)விட்ட எலி குறித்து கேட்கப்பட்டது. அதற்கு அவர்கள் ‘‘(உடனே) அந்த எலியையும் அதைச் சுற்றியுள்ள நெய்யையும் (எடுத்து) எறிந்துவிட்டு (மீதி நெய்யை) உண்ணுங்கள்” என்று பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5540</td></tr><tr><td>Arabic No</td><td>5540</td></tr><tr><td>Reference</td><td>Book 72 Hadith 65</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে পূর্বে উল্লেখিত হাদীসের মত একটি হাদীস বর্ণনা করতে শুনেছি। আর হাবশী ভাষায় হারজ অর্থ (মানুষ) হত্যা। [৭০৬৩] (আধুনিক প্রকাশনী- ৬৫৭৩, ইসলামিক ফাউন্ডেশন- ৬৫৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে পূর্বে উল্লেখিত হাদীসের মত একটি হাদীস বর্ণনা করতে শুনেছি। আর হাবশী ভাষায় হারজ অর্থ (মানুষ) হত্যা। [৭০৬৩] (আধুনিক প্রকাশনী- ৬৫৭৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7065</td></tr><tr><td>Arabic No</td><td>7065</td></tr><tr><td>Reference</td><td>Book 92 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Musa:The Prophet (ﷺ) said...(as above, 185). And Harj, in the Eth
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூவாயில் (ரஹ்) அவர்கள் கூறியதாவது: நான் அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி), அபூமூசா (ரலி) ஆகியோருடன் அமர்ந்திருந்தேன். அப்போது அபூமூசா (ரலி) அவர்கள், “நான் நபி (ஸல்) அவர்கள் இவ்வாறு சொல்லக் கேட்டேன். மேலும், ‘ஹர்ஜ்’ எனும் சொல்லுக்கு அபிசீனிய மொழியில் ‘கொலை’ என்பது பொருள்” எனக் கூறினார்கள். அத்தியாயம் : 92
+அபூவாயில் (ரஹ்) அவர்கள் கூறியதாவது: நான் அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி), அபூமூசா (ரலி) ஆகியோருடன் அமர்ந்திருந்தேன். அப்போது அபூமூசா (ரலி) அவர்கள், “நான் நபி (ஸல்) அவர்கள் இவ்வாறு சொல்லக் கேட்டேன். மேலும், ‘ஹர்ஜ்’ எனும் சொல்லுக்கு அபிசீனிய மொழியில் ‘கொலை’ என்பது பொருள்” எனக் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7065</td></tr><tr><td>Arabic No</td><td>7065</td></tr><tr><td>Reference</td><td>Book 92 Hadith 16</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন সিনান (রহঃ) ...... ইমাম শাবী (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ দাস-দাসীর মূল্য হলো পাঁচশো দিরহাম। ইমাম আবূ দাউদ (রহঃ) বলেনঃ রাবী'আ (রহঃ) বলেছেনঃ গুররা বা দাস-দাসীর মূল্য পঞ্চাশ দীনার।
+। আশ-শা‘বী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আল-গুররাহ হলো পাঁচশ দিরহাম। ইমাম আবূ দাঊদ (রহঃ) বলেন, রাবী‘আহ বলেছেন, গুররাহ হলো পাঁচশ দীনার।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 41 Hadith 87</td></tr></tbody></table></div>
 

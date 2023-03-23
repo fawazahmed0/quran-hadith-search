@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমাকে একজোড়া রেশমী কাপড় দিলেন। আমি তা পরিধান করলাম। তাঁর মুখমন্ডলে গোস্বার ভাব দেখতে পেয়ে আমি আমার মহিলাদের মাঝে তা ভাগ করে দিয়ে দিলাম। (৫৩৬৬, ৫৮৪০, মুসলিম ৩৭/আ্উয়ালুল কিতাব হাঃ ২০৭১, আহমাদ ১১৭১) (আধুনিক প্রকাশনীঃ ২৪২৩, ইসলামিক ফাউন্ডেশনঃ ২৪৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমাকে একজোড়া রেশমী কাপড় দিলেন। আমি তা পরিধান করলাম। তাঁর মুখমন্ডলে গোস্বার ভাব দেখতে পেয়ে আমি আমার মহিলাদের মাঝে তা ভাগ করে দিয়ে দিলাম। (৫৩৬৬, ৫৮৪০, মুসলিম ৩৭/আ্উয়ালুল কিতাব হাঃ ২০৭১, আহমাদ ১১৭১) (আধুনিক প্রকাশনীঃ ২৪২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2614</td></tr><tr><td>Arabic No</td><td>2614</td></tr><tr><td>Reference</td><td>Book 51 Hadith 47</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எனக்குப் பட்டு அங்கி ஒன்றை அன்பளிப்பாக வழங்கி னார்கள். அதை நான் அணிந்துகொண் டேன். (அதைக் கண்ட) நபி (ஸல்) அவர் களின் முகத்தில் கோபத்தைக் கண்டேன். ஆகவே, அதைப் பல துண்டுகளாக்கி எங்கள் (குடும்பப்) பெண்களிடையே பங்கிட்டுவிட்டேன்.24 அத்தியாயம் : 51
+அலீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எனக்குப் பட்டு அங்கி ஒன்றை அன்பளிப்பாக வழங்கி னார்கள். அதை நான் அணிந்துகொண் டேன். (அதைக் கண்ட) நபி (ஸல்) அவர் களின் முகத்தில் கோபத்தைக் கண்டேன். ஆகவே, அதைப் பல துண்டுகளாக்கி எங்கள் (குடும்பப்) பெண்களிடையே பங்கிட்டுவிட்டேன்.24 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2614</td></tr><tr><td>Arabic No</td><td>2614</td></tr><tr><td>Reference</td><td>Book 51 Hadith 47</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ali r.a.'in şöyle dediği rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem bana çizgili ve ipekli bir elbise hediye etti. Ben de onu giyindim. Sonra yüzünde bir kızgınlık belirtisi gördüm. Bunun üzerine elbiseyi ailemin kadınları arasında paylaştırdım. Tekrar: 5366, 5840
+Ali r.a.'in şöyle dediği rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem bana çizgili ve ipekli bir elbise hediye etti. Ben de onu giyindim. Sonra yüzünde bir kızgınlık belirtisi gördüm. Bunun üzerine elbiseyi ailemin kadınları arasında paylaştırdım. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2614</td></tr><tr><td>Arabic No</td><td>2614</td></tr><tr><td>Reference</td><td>Book 51 Hadith 47</td></tr></tbody></table></div>
 

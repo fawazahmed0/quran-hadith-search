@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) থেকে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা সহজ পন্থা অবলম্বন কর, কঠিন পন্থা অবলম্বন করো না, মানুষকে সুসংবাদ দাও, বিরক্তি সৃষ্টি করো না। (৬১২৫; মুসলিম ৩২/৩ হাঃ ১৭৩৪, আহমাদ ১৩১৭৪) (আধুনিক প্রকাশনীঃ ৬৯, .ফা. ৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) থেকে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা সহজ পন্থা অবলম্বন কর, কঠিন পন্থা অবলম্বন করো না, মানুষকে সুসংবাদ দাও, বিরক্তি সৃষ্টি করো না। (৬১২৫; মুসলিম ৩২/৩ হাঃ ১৭৩৪, আহমাদ ১৩১৭৪) (আধুনিক প্রকাশনীঃ ৬৯, .ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 3 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (மார்க்க விஷயங்களில் மக்களிடம்) எளிதாக நடந்துகொள்ளுங்கள். (மக்க ளைச்) சிரமப்படுத்தாதீர்கள். நற்செய்தி (களை அதிகம்) சொல்லுங்கள். வெறுப் பேற்றிடாதீர்கள். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 3
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (மார்க்க விஷயங்களில் மக்களிடம்) எளிதாக நடந்துகொள்ளுங்கள். (மக்க ளைச்) சிரமப்படுத்தாதீர்கள். நற்செய்தி (களை அதிகம்) சொல்லுங்கள். வெறுப் பேற்றிடாதீர்கள். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 3 Hadith 11</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. Nebi (Sallallahu aleyhi ve Sellem)'in şöyle söylediğini rivayet etmiştir: "Kolaylaştırın, zorlaştırmayım. Müjdeleyin, nefret ettirmeyin. Tekrar: 6125
+Enes r.a. Nebi (Sallallahu aleyhi ve Sellem)'in şöyle söylediğini rivayet etmiştir: "Kolaylaştırın, zorlaştırmayım. Müjdeleyin, nefret ettirmeyin. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 3 Hadith 11</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৯৬৭। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের নিকট এমন কোন ব্যক্তি বিবাহের প্রস্তাব নিয়ে এলে, যার চরিত্র ও ধর্মানুরাগ সম্পর্কে তোমরা সন্তুষ্ট, তার সাথে (তোমাদের মেয়েদের) বিবাহ দাও। তোমরা যদি তা না করো, তাহলে পৃথিবীতে বিপর্যয় ও ব্যাপক বিশৃংখলা ছড়িয়ে পড়বে।
+। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের নিকট এমন কোন ব্যক্তি বিবাহের প্রস্তাব নিয়ে এলে, যার চরিত্র ও ধর্মানুরাগ সম্পর্কে তোমরা সন্তুষ্ট, তার সাথে (তোমাদের মেয়েদের) বিবাহ দাও। তোমরা যদি তা না করো, তাহলে পৃথিবীতে বিপর্যয় ও ব্যাপক বিশৃংখলা ছড়িয়ে পড়বে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1967</td></tr><tr><td>Arabic No</td><td>1967</td></tr><tr><td>Reference</td><td>Book 9 Hadith 123</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৭২, আন্তর্জাতিক নাম্বারঃ ৪৪০ ৮৭২-(.../...) কুতাইবাহ ইবনু সা'ঈদ (রহঃ) ..... সুহায়ল (রহঃ) হতে বর্ণিত। তিনি উপরের হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৮৬৮, ইসলামিক সেন্টারঃ ৮৮১)
+কুতাইবাহ ইবনু সা'ঈদ (রহঃ) ..... সুহায়ল (রহঃ) হতে বর্ণিত। তিনি উপরের হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৮৬৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>440.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 148</td></tr></tbody></table></div>
 

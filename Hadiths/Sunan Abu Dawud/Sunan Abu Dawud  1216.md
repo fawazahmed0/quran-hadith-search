@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন হিশাম (রহঃ) ..... হিশাম ইবন সা'দ (রহঃ) হতে বর্ণিত। তিনি বলেন, মক্কা ও সারিফ নামক স্থানদ্বয়ের মধ্যেকার দূরত্ব দশ মাইল। (অবশ্য কেউ কেউ ছয়/সাত মাইলের কথাও উল্লেখ করেছেন)।
+। হিশাম ইবনু সা‘দ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, মাক্কাহ ও সারিফ এর মধ্যকার দশ মাইলের ব্যবধান রয়েছে।[1] মাক্বতূ‘।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1216</td></tr><tr><td>Arabic No</td><td>1216</td></tr><tr><td>Reference</td><td>Book 4 Hadith 19</td></tr></tbody></table></div>
 

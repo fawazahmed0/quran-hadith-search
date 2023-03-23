@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ‘উমার ইবনুল খাত্তাব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয়ই আল্লাহর বান্দাদের মাঝে এমন কিছু লোক আছে যারা নবী নন এবং শহীদও নয়। কিয়ামতের দিন মহান আল্লাহর দরবারে তাদের মর্যাদার কারণে নবীগণ ও শহীদগণ তাদের প্রতি ঈর্ষান্বিত হবেন। সাহাবীগণ বললেন, হে আল্লাহর আমাদের অবহিত করুন, তারা কারা? তিনি বলেন, তারা ঐ সব লোক যারা আল্লাহর মহানুভবতায় পরস্পরকে ভালোবাসে, অথচ তারা পরস্পর আত্মীয়ও নয় এবং পরস্পরকে সম্পদও দেয়নি। আল্লাহর শপথ! তাদের মুখমন্ডল যেমন নূর এবং তারা নূরের আসনে উপবেশন করবে। তারা ভীত হবে না, যখন মানুষ ভীত থাকবে। তারা দুশ্চিন্তায় পড়বে না, যখন মানুষ দুশ্চিন্তাগ্রস্ত থাকবে। তিনি এ আয়াত তিলাওয়াত করলেনঃ ‘‘জেনে রাখো! আল্লাহর বন্ধুদের কোনো ভয় নেই এবং তারা দুশ্চিন্তাগ্রস্ত হবে না।’’(সূরা ইউনুসঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3527</td></tr><tr><td>Arabic No</td><td>3527</td></tr><tr><td>Reference</td><td>Book 24 Hadith 112</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৫৬. ইয়াহইয়াহ ইবস সাঈদ (রহঃ) শুনিয়াছেন- সাঈদ ইবন মুসায়াব (রহঃ)-কে এক ব্যক্তি প্রশ্ন করতে সে বলিলঃ আমি নামায পড়িতেছি এই অবস্থায় আর্দ্রতা অনুভব করি। তবে আমি কি (নামায ছাড়িয়া) ফিরিয়া যাইব? সাঈদ বলিলেনঃ আমার রানের উপর দিয়া ভাসিয়া পড়িলেও আমি আমার নামায সমাপ্ত না করিয়া ফিরিব না।[1]
+রেওয়ায়ত ৫৬. ইয়াহইয়াহ ইবস সাঈদ (রহঃ) শুনিয়াছেন- সাঈদ ইবন মুসায়াব (রহঃ)-কে এক ব্যক্তি প্রশ্ন করতে সে বলিলঃ আমি নামায পড়িতেছি এই অবস্থায় আর্দ্রতা অনুভব করি। তবে আমি কি (নামায ছাড়িয়া) ফিরিয়া যাইব? সাঈদ বলিলেনঃ আমার রানের উপর দিয়া ভাসিয়া পড়িলেও আমি আমার নামায সমাপ্ত না করিয়া ফিরিব না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Arabic No</td><td>87</td></tr><tr><td>Reference</td><td>Book 2 Hadith 56</td></tr></tbody></table></div>
 

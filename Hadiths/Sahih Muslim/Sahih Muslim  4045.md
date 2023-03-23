@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯৩৭, আন্তর্জাতিক নাম্বারঃ ১৫৭৯ ৩৯৩৭-(.../...) আবূ তাহির (রহঃ) ..... আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) এর সূত্রে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৯০০, ইসলামিক সেন্টার ৩৮৯৯)
+আবূ তাহির (রহঃ) ..... আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) এর সূত্রে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৯০০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4045</td></tr><tr><td>Arabic No</td><td>1579.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 84</td></tr></tbody></table></div>
 

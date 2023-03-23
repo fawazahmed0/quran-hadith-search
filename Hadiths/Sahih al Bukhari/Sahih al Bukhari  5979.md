@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আসমা (রাঃ) থেকে বর্ণনা করেন। তিনি বলেনঃ কুরাইশরা যে সময়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে সন্ধি চুক্তি করেছিল, ঐ চুক্তিবদ্ধ সময়ে আমার মা তাঁর পিতার সঙ্গে এলেন। আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে জিজ্ঞেস করলামঃ আমার মা এসেছেন, তবে সে অমুসলিম। আমি কি তাঁর সঙ্গে উত্তম ব্যবহার করবো? তিনি বললেনঃ হাঁ। তোমার মায়ের সঙ্গে উত্তম ব্যবহার করো। [২৬২০] (আধুনিক প্রকাশনী- অনুচ্ছেদ, ইসলামিক ফাউন্ডেশন- অনুচ্ছেদ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5979</td></tr><tr><td>Arabic No</td><td>5979</td></tr><tr><td>Reference</td><td>Book 78 Hadith 10</td></tr></tbody></table></div>

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবু কুরায়ব (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পরিবার-পরিজন দু' দিন পূর্ণতৃপ্ত হয়ে গমের রুটি খাননি। দুদিনের একদিন তিনি খুরমা খেয়েই অতিবাহিত করতেন। (ইসলামিক ফাউন্ডেশন ৭১৭৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7446</td></tr><tr><td>Arabic No</td><td>2970.04</td></tr><tr><td>Reference</td><td>Book 55 Hadith 30</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ A'isha reported:Never could the family of Muhammad (ﷺ) (afford to eat to the f
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: முஹம்மத் (ஸல்) அவர்களின் குடும்பத்தார் இரண்டு நாட்கள் வயிறு நிரம்ப உண்டிருந்தால், அதில் ஒரு நாள் (வெறும்) பேரீச்சம் பழமாக இருந்திருக்குமே அன்றி, (தொடர்ந்து இரு நாட்களும்) கோதுமை ரொட்டியாக இருந்திருக்காது. அத்தியாயம் : 53
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: முஹம்மத் (ஸல்) அவர்களின் குடும்பத்தார் இரண்டு நாட்கள் வயிறு நிரம்ப உண்டிருந்தால், அதில் ஒரு நாள் (வெறும்) பேரீச்சம் பழமாக இருந்திருக்குமே அன்றி, (தொடர்ந்து இரு நாட்களும்) கோதுமை ரொட்டியாக இருந்திருக்காது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7446</td></tr><tr><td>Arabic No</td><td>2970.04</td></tr><tr><td>Reference</td><td>Book 55 Hadith 30</td></tr></tbody></table></div>
 

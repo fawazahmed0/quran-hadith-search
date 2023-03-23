@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ ইবন সারী (রহঃ) ..... আবূ আমর (রহঃ) অতিরিক্ত বর্ণনা করেছেন, তিনি বলেনঃ আমি বারা ইবন আযিব (রাঃ)-কে নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এরূপ বর্ণনা করতে শুনেছি। এরপর পূর্ববর্তী হাদীছের অনুরূপ বর্ণিত হয়েছে।
+। আল-বারাআ (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। আমি এটি সহীহ এবং যঈফে পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4754</td></tr><tr><td>Arabic No</td><td>4754</td></tr><tr><td>Reference</td><td>Book 42 Hadith 159</td></tr></tbody></table></div>
 

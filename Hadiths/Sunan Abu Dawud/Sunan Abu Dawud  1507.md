@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন সুলায়মান (রহঃ) ..... আবু যুবায়ের (রহঃ) হতে বর্ণিত। তিনি বলেন, আবদুল্লাহ ইবন যুবায়ের (রাঃ) নামায শেষে তাহলীল (লা ইলাহা ইল্লাল্লাহ ...) পাঠ করতেন। অতঃপর উপরোক্ত দুআর অনুরূপ বর্ণিত হয়েছে এবং তার সাথে “লা হাওলা ওয়ালা কুওয়াতা ইল্লা বিল্লাহ, লা না’বুদু ইল্লা ইয়্যাহু লাহুন-নি’মাহ ... অতিরিক্ত বর্ণনা করে পরে উপরোক্ত হাদীছের অনুরূপ বর্ণনা করেছেন।
+। আবুয-যুবাইর (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ ইবনুয যুবাইর (রাঃ) প্রত্যেক ফারয সালাতের পর ‘লা ইলাহা ইল্লাল্লাহ’ পাঠ করতেন। অতঃপর উপরোক্ত দু‘আর অনুরূপ। তিনি আরো বৃদ্ধি করেনঃ লা হাওলা ওয়ালা কুওয়াতা ইল্লা বিল্লাহি, লা ইলাহা ইল্লাল্লাহ লা না‘বুদু ইল্লা ইয়্যাহুু লাহুন নি‘মাতু..।’’ অতঃপর অবশিষ্ট হাদীস বর্ণনা করেন।[1] সহীহ : মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1507</td></tr><tr><td>Arabic No</td><td>1507</td></tr><tr><td>Reference</td><td>Book 8 Hadith 92</td></tr></tbody></table></div>
 

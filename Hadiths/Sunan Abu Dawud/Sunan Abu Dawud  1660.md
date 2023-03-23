@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হাসান ইব্‌ন আলী (রহঃ) .... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহে ওয়াসাল্লামকে বলতে শুনেছিঃ পূর্বোক্ত হাদীছের অনুরূপ। অতঃপর রাবী আবু হুরায়রা (রাঃ)-কে জিজ্ঞেস করেন, উটের হক কি? তিনি বলেন, উত্তম উট (আল্লাহ্‌র রাস্তায়) দান করা, অধিক দুগ্ধবতী উষ্ট্রী দান করা, আরোহণের জন্য উট ধার দেওয়া, প্রজননের উদ্দেশ্যে পারিশ্রমিক ছাড়াই উট ধার দেওয়া এবং উষ্ট্রীর দুধ (অভাবগ্রস্তকে) পান করতে দেওয়া। (নাসাঈ)
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপই বলতে শুনেছি। বর্ণনাকারী আবূ হুরাইরাহ (রাঃ)-কে জিজ্ঞেস করলেন, উটের হাক্ব কি? তিনি বললেন, উত্তমটি দান করা, অধিক দুগ্ধবতী দান করা, তার পৃষ্ঠে আরোহণ করতে দেয়া, পুরুষ উট দ্বারা প্রজনন করতে দেয়া এবং দুধ (অভাবীদের) পান করতে দেয়া।[1] হাসান, পরবর্তী হাদীসের কারণে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1660</td></tr><tr><td>Arabic No</td><td>1660</td></tr><tr><td>Reference</td><td>Book 9 Hadith 105</td></tr></tbody></table></div>
 

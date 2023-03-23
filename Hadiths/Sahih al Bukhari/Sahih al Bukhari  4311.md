@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুজাহিদ ইবনু জাবর আল-মাক্কী (রহ.) হতে বর্ণিত যে, ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) বলতেনঃ মক্কা বিজয়ের পর আর কোন হিজরাত নেই। [৩৮৯৯] (আধুনিক প্রকাশনীঃ ৩৯৬৯, ইসলামিক ফাউন্ডেশনঃ ৩৯৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুজাহিদ ইবনু জাবর আল-মাক্কী (রহ.) হতে বর্ণিত যে, ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) বলতেনঃ মক্কা বিজয়ের পর আর কোন হিজরাত নেই। [৩৮৯৯] (আধুনিক প্রকাশনীঃ ৩৯৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4311</td></tr><tr><td>Arabic No</td><td>4311</td></tr><tr><td>Reference</td><td>Book 64 Hadith 342</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq bin Yazid] Telah menceritakan kepada kami [Ya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஜாஹித் பின் ஜப்ர் அல்மக்கீ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள், “(மக்கா) வெற்றிக்குப் பிறகு ஹிஜ்ரத் என்பதே கிடையாது” என்று சொல்லிவந்தார்கள். அத்தியாயம் : 64
+முஜாஹித் பின் ஜப்ர் அல்மக்கீ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள், “(மக்கா) வெற்றிக்குப் பிறகு ஹிஜ்ரத் என்பதே கிடையாது” என்று சொல்லிவந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4311</td></tr><tr><td>Arabic No</td><td>4311</td></tr><tr><td>Reference</td><td>Book 64 Hadith 342</td></tr></tbody></table></div>
 

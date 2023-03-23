@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ ..... তারিক ইবনু আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেছেন যখন তোমাদের কেউ নামাযে দাঁড়ায় অথবা নামায আদায় করতে থাকে, তখন সে যেন তার সম্মুখে অথবা ডান দিকে থুথু না ফেলে, বরং থুথু ফেলার একান্ত প্রয়োজন হলে বাম দিকের কাপড়ে ফেলবে, যদি সেদিকে কোন লোক না থাকে। যদি বাম দিকে কোন লোক থাকে তবে বাম পায়ের নীচে ফেলবে। অতঃপর তা মুছে ফেলবে। (নাসাঈ, তিরমিযী, ইবনু মাজাহ)।
+। ত্বারিক্ব ইবনু ‘আব্দুল্লাহ আল-মুহারিবী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি সালাতে দাঁড়ালে বা সালাত আদায়কালে যেন তার সামনে অথবা ডান দিকে থু থু না ফেলে। অবশ্য বাম দিকে (ফাঁকা) জায়গা থাকলে সেদিকে থু থু ফেলবে অথবা বাম পায়ের নিচে থু থু ফেলে তা ঘষে মুছে ফেলবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>478</td></tr><tr><td>Arabic No</td><td>478</td></tr><tr><td>Reference</td><td>Book 2 Hadith 88</td></tr></tbody></table></div>
 

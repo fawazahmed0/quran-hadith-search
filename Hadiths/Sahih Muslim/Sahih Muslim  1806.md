@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৬৯১, আন্তর্জাতিক নাম্বারঃ ৭৬৭ ১৬৯১-(১৯৭/৭৬৭) ইয়াহইয়া ইবনু ইয়াহইয়া ও আবূ বকর ইবনু আবৃ শায়বাহ (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে সালাত আদায় করতে উঠলে সংক্ষিপ্তভাবে দু' রাকাআত (প্রথম দু' রাকাআত) সালাত শুরু করতেন। (ইসলামী ফাউন্ডেশন ১৬৭৬, ইসলামীক সেন্টার ১৬৮৩)
+ইয়াহইয়া ইবনু ইয়াহইয়া ও আবূ বকর ইবনু আবৃ শায়বাহ (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে সালাত আদায় করতে উঠলে সংক্ষিপ্তভাবে দু' রাকাআত (প্রথম দু' রাকাআত) সালাত শুরু করতেন। (ইসলামী ফাউন্ডেশন ১৬৭৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1806</td></tr><tr><td>Arabic No</td><td>767</td></tr><tr><td>Reference</td><td>Book 6 Hadith 234</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ A'isha reported that when the Messenger of Allah (ﷺ) stood up at night to pray
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரவில் தொழுவதற்காக நின்றால் முதலில் சுருக்கமாக இரண்டு ரக்அத்கள் தொழுவார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 6
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரவில் தொழுவதற்காக நின்றால் முதலில் சுருக்கமாக இரண்டு ரக்அத்கள் தொழுவார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1806</td></tr><tr><td>Arabic No</td><td>767</td></tr><tr><td>Reference</td><td>Book 6 Hadith 234</td></tr></tbody></table></div>
 

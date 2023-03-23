@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ সন্তান হল শয্যাধিপতির। [৬৮১৮; মুসলিম ১৭/১০, হাঃ ১৪৫৮, আহমাদ ৭৭৬৭] (আধুনিক প্রকাশনী- ৬২৮২, ইসলামিক ফাউন্ডেশন- ৬৬২৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ সন্তান হল শয্যাধিপতির। [৬৮১৮; মুসলিম ১৭/১০, হাঃ ১৪৫৮, আহমাদ ৭৭৬৭] (আধুনিক প্রকাশনী- ৬২৮২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6750</td></tr><tr><td>Arabic No</td><td>6750</td></tr><tr><td>Reference</td><td>Book 85 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Syu'bah] dari [Muha
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: தாய் (பெண்) யாருடைய அதிகாரத்தின் கீழ் இருக்கிறாளோ அவருக்கே குழந்தை உரியதாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 86
+நபி (ஸல்) அவர்கள் கூறினார்கள்: தாய் (பெண்) யாருடைய அதிகாரத்தின் கீழ் இருக்கிறாளோ அவருக்கே குழந்தை உரியதாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6750</td></tr><tr><td>Arabic No</td><td>6750</td></tr><tr><td>Reference</td><td>Book 85 Hadith 27</td></tr></tbody></table></div>
 

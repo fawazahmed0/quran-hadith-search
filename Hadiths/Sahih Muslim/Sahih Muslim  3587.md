@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৪৭৯, আন্তর্জাতিক নাম্বারঃ ১৪৪৯ ৩৪৭৯-(.../...) সুওয়ায়দ ইবনু সাঈদ ও আমর আন নাকিদ (রহিমাহুমাল্লাহ) ..... হিশাম ইবনু উরওয়াহ (রহঃ) সূত্রে এ সানাদে অনুরূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৪৫২, ইসলামীক সেন্টার ৩৪৫১)
+সুওয়ায়দ ইবনু সাঈদ ও আমর আন নাকিদ (রহিমাহুমাল্লাহ) ..... হিশাম ইবনু উরওয়াহ (রহঃ) সূত্রে এ সানাদে অনুরূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৪৫২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3587</td></tr><tr><td>Arabic No</td><td>1449.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 20</td></tr></tbody></table></div>
 

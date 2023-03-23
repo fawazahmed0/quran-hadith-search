@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩২৯। জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা রাস্তার উপর রাত যাপন করা ও সালাত আদায় করা থেকে বিরত থাকো। কেননা তা (রাতে) সাপ ও হিংস্র জন্তুর যাতায়াত পথ। তোমরা রাস্তায় পেশাব-পায়খানা করা থেকেও বিরত থাকো। কারণ তা অভিশপ্ত আচরণের অন্তর্ভুক্ত।
+। জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা রাস্তার উপর রাত যাপন করা ও সালাত আদায় করা থেকে বিরত থাকো। কেননা তা (রাতে) সাপ ও হিংস্র জন্তুর যাতায়াত পথ। তোমরা রাস্তায় পেশাব-পায়খানা করা থেকেও বিরত থাকো। কারণ তা অভিশপ্ত আচরণের অন্তর্ভুক্ত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>329</td></tr><tr><td>Arabic No</td><td>329</td></tr><tr><td>Reference</td><td>Book 1 Hadith 63</td></tr></tbody></table></div>
 

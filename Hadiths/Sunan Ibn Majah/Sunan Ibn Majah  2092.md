@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২০৯২। ইবনু ‘উমার বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অধিকাংশ শপথ ছিলঃ না, অন্তরসমূহের পরিবর্তনকারীর শপথ।
+। ইবনু ‘উমার বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অধিকাংশ শপথ ছিলঃ না, অন্তরসমূহের পরিবর্তনকারীর শপথ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2092</td></tr><tr><td>Arabic No</td><td>2092</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
 

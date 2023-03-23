@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইব্‌ন আলী (রহঃ) ..... আয়্যূব (রহঃ) হতে উপরোক্ত হাদীসের সনদ ও অর্থে হাদীসটি বর্ণিত হয়েছে। তবে তিনি তার বর্ণনায় আরো বর্ণনা করেছেন, একদা আমরা বলি, ইয়া রাসূলাল্লাহ! যাকাত আদায়কারীগণ পরিমাণের অতিরিক্ত যাকাত উসুল করে থাকে। ইমাম আবু দাউদ বলেন, রাবী আব্দুর রায্‌যাক এই হাদীসটি মা’মার পর্যন্ত পৌঁছিয়েছেন।
+। আইয়ূব (রহঃ) হতে উপরোক্ত হাদীসের ভাবার্থ একই সানাদে বর্ণিত হয়েছে। তবে তাতে রয়েছেঃ আমরা বললাম, হে আল্লাহর রসূল! যাকাত আদায়কারীগণ সীমালঙ্ঘন করে।[1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, এটি ‘আবদুর রাযযাক্ব (রহঃ) মা‘মার হতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর হাদীসরূপে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1587</td></tr><tr><td>Arabic No</td><td>1587</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
 

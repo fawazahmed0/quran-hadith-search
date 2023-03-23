@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহইয়া ইবন মু‘ঈন ..... আদ দাহহাক ইবন ফায়রুয তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, একদা আমি বলি, হে আল্লাহ্‌র রাসুল! আমি ইসলাম কবুল করেছি এবং দুই বোন একই সঙ্গে আমার স্ত্রী হিসাবে আছে। তিনি বলেন, এদের মধ্যে যাকে খুশি তুমি তালাক প্রদান করো।
+। আদ-দাহহাক ইবনু ফাররূয (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, একদা আমি বলি, হে আল্লাহর রাসূল! আমি ইসলাম কবুল করেছি এবং একই সাথে দুই বোন আমার স্ত্রী হিসেবে আছে। তিনি বলেনঃ তোমার ইচ্ছে অনুযায়ী তাদের উভয়ের কোনো একজনকে তালাক দাও।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2243</td></tr><tr><td>Arabic No</td><td>2243</td></tr><tr><td>Reference</td><td>Book 13 Hadith 69</td></tr></tbody></table></div>
 

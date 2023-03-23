@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ তাওবা রুবাই ইবনু নাফে .... আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম যখন উযূ (ওজু/অজু/অযু) করতেন, তখন তিনি এক কোশ পানি হাতে নিয়ে থুতনির নীচে দিয়ে তা দ্বারা দাড়ি খেলাল করতেন। তিনি আরো বলেনঃ আমার প্রতিপালক আমাকে এরূপ করার নির্দেশ দিয়েছেন।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অযু করার সময় হাতে এক অঞ্জলি পানি নিতেন। তারপর ঐ পানি চোয়ালের নিম্নদেশে (থুতনির নীচে) লাগিয়ে দাড়ি খিলাল করতেন এবং বলতেনঃ আমার মহান প্রতিপালক আমাকে এরূপ করারই নির্দেশ দিয়েছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আবুল মুগীরাহ (রহঃ) সূত্রে ইবনুল মুসাফ্‌ফা (রহঃ) কর্তৃক বর্ণিত হাদীসের অনুরূপ বর্ণিত। আমি এটি সহীহ এবং যঈফেও পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4879</td></tr><tr><td>Arabic No</td><td>4879</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১২৬। আদী ইবনু সাবিত (রাহঃ) হতে পর্যায়ক্রমে তার পিতা ও দাদার সূত্রে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইস্তিহাযার রোগিণী সম্পর্কে বলেনঃ ইতোপূর্বে সে যে কয়দিন ঋতুবতী থাকতো ততদিন নামায ছেড়ে দেবে; অতঃপর গোসল করবে এবং প্রত্যেক নামাযের সময় নতুন করে ওযু করবে এবং রোযা রাখবে ও নামায আদায় করবে। —সহীহ। ইবনু মাজাহ– (৬২৫)।
+। আদী ইবনু সাবিত (রাহঃ) হতে পর্যায়ক্রমে তার পিতা ও দাদার সূত্রে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইস্তিহাযার রোগিণী সম্পর্কে বলেনঃ ইতোপূর্বে সে যে কয়দিন ঋতুবতী থাকতো ততদিন নামায ছেড়ে দেবে; অতঃপর গোসল করবে এবং প্রত্যেক নামাযের সময় নতুন করে ওযু করবে এবং রোযা রাখবে ও নামায আদায় করবে। —সহীহ। ইবনু মাজাহ– (৬২৫)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>126</td></tr><tr><td>Reference</td><td>Book 1 Hadith 126</td></tr></tbody></table></div>
 

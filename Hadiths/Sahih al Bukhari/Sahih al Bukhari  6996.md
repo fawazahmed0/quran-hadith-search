@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ক্বাতাদাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে আমাকে স্বপ্নে দেখে সে প্রকৃতই দেখে। ইউনুস ও ইবনু আখীয্ যুহরী (রহ.) যুবায়দীর অনুসরণ করেছেন। [৩২৯২]কাফ (আধুনিক প্রকাশনী- ৬৫১২, ইসলামিক ফাউন্ডেশন- ৬৫২৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ক্বাতাদাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে আমাকে স্বপ্নে দেখে সে প্রকৃতই দেখে। ইউনুস ও ইবনু আখীয্ যুহরী (রহ.) যুবায়দীর অনুসরণ করেছেন। [৩২৯২]কাফ (আধুনিক প্রকাশনী- ৬৫১২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6996</td></tr><tr><td>Arabic No</td><td>6996</td></tr><tr><td>Reference</td><td>Book 91 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khalid bin Khali] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (கனவில்) யார் என்னைக் கண்டாரோ நிச்சயமாக அவர் உண்மையையே கண்டார். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 91
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (கனவில்) யார் என்னைக் கண்டாரோ நிச்சயமாக அவர் உண்மையையே கண்டார். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6996</td></tr><tr><td>Arabic No</td><td>6996</td></tr><tr><td>Reference</td><td>Book 91 Hadith 15</td></tr></tbody></table></div>
 

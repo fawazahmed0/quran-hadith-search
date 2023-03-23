@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... উবায়দুল্লাহ্ ইবনু আবদুল্লাহ্ ইবনু উমার (রহঃ) হতে বর্ণিত। তিনি বলেন, আমার পিতা আমার নিকট বর্ণনা করেছেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেছেনঃ পানি দুই কুল্লা পরিমাণ হলে তা অপবিত্র হয় না, তাকে (কিছুই) অপবিত্র করতে পারে না।
+। ‘উবাইদুল্লাহ ইবনু ‘আব্দুল্লাহ ইবনু ‘উমার সূত্রে বর্ণিত। তিনি বলেন, আমার পিতা আমার নিকট বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পানি দুই কুল্লাহ (মটকা) পরিমাণ হলে তা অপবিত্র হয় না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Arabic No</td><td>65</td></tr><tr><td>Reference</td><td>Book 1 Hadith 65</td></tr></tbody></table></div>
 

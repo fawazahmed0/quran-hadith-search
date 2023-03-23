@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২০৫৮, আন্তর্জাতিক নাম্বারঃ ৯৩৯ ২০৫৮-(৩৭/...) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... উম্মু 'আতিয়্যাহ (রাযিঃ) থেকে বর্ণিত। আমরা তার (যায়নাব) মাথার চুল আঁচড়িয়ে তিনভাগে ভাগ করে দিয়েছি। (ইসলামী ফাউন্ডেশন ২০৩৭, ইসলামীক সেন্টার ২০৪২)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... উম্মু 'আতিয়্যাহ (রাযিঃ) থেকে বর্ণিত। আমরা তার (যায়নাব) মাথার চুল আঁচড়িয়ে তিনভাগে ভাগ করে দিয়েছি। (ইসলামী ফাউন্ডেশন ২০৩৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2169</td></tr><tr><td>Arabic No</td><td>939.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 47</td></tr></tbody></table></div>
 

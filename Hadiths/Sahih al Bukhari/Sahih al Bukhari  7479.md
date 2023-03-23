@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমরা আগামী কল্য বানী কিনানা উপত্যকায় অবস্থান করব ইনশা-আল্লাহ্, যেখানে কাফিররা কুফরীর উপর দৃঢ় থাকার শপথ নিয়েছিল। তিনি (এ কথার দ্বারা) মুহাস্সাবকে উদ্দেশ্য করছিলেন। [১৫৮৯] (আধুনিক প্রকাশনী- ৬৯৬১, ইসলামিক ফাউন্ডেশন- ৬৯৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমরা আগামী কল্য বানী কিনানা উপত্যকায় অবস্থান করব ইনশা-আল্লাহ্, যেখানে কাফিররা কুফরীর উপর দৃঢ় থাকার শপথ নিয়েছিল। তিনি (এ কথার দ্বারা) মুহাস্সাবকে উদ্দেশ্য করছিলেন। [১৫৮৯] (আধুনিক প্রকাশনী- ৬৯৬১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7479</td></tr><tr><td>Arabic No</td><td>7479</td></tr><tr><td>Reference</td><td>Book 97 Hadith 105</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If Allah wills, tomorrow we will encamp in Khaif Bani Kinana, the place where the pagans took the oath of Kufr (disbelief) against the Prophet. He meant Al-Muhassab. (See Hadith 1589)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If Allah wills, tomorrow we will encamp in Khaif Bani Kinana, the place where the pagans took the oath of Kufr (disbelief) against the Prophet. He meant Al-Muhassab. (See Hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7479</td></tr><tr><td>Arabic No</td><td>7479</td></tr><tr><td>Reference</td><td>Book 97 Hadith 105</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If Allah wills, tomorrow we 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (மக்கா வெற்றிக்குப்பின் ஹுனைன் செல்ல திட்டமிட்டபோது) “அல்லாஹ் நாடினால் நாளை நாம் பனூ கினானா பள்ளத்தாக்கின் அருகே தங்குவோம். அந்த இடத்தில்தான் குறைஷியர் ‘நாங்கள் இறைமறுப்பில் நிலைத்திருப்போம்’ என்று சூளுரைத்தார்கள்” என்று முஹஸ்ஸப் பள்ளத்தாக்கைக் கருத்தில் கொண்டு கூறினார்கள்.121 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 97
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (மக்கா வெற்றிக்குப்பின் ஹுனைன் செல்ல திட்டமிட்டபோது) “அல்லாஹ் நாடினால் நாளை நாம் பனூ கினானா பள்ளத்தாக்கின் அருகே தங்குவோம். அந்த இடத்தில்தான் குறைஷியர் ‘நாங்கள் இறைமறுப்பில் நிலைத்திருப்போம்’ என்று சூளுரைத்தார்கள்” என்று முஹஸ்ஸப் பள்ளத்தாக்கைக் கருத்தில் கொண்டு கூறினார்கள்.121 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7479</td></tr><tr><td>Arabic No</td><td>7479</td></tr><tr><td>Reference</td><td>Book 97 Hadith 105</td></tr></tbody></table></div>
 

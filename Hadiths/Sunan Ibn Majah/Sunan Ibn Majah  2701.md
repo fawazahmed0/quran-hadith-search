@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২৭০১। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ওসিয়াত করে মারা গেলো সে সঠিক পথে ও সুন্নাতের উপরই মারা গেলো, তাকওয়া ও শহীদী দরজা পেয়ে মারা গেলো এবং গুনাহ মাফ পেয়ে মারা গেলো।
+। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ওসিয়াত করে মারা গেলো সে সঠিক পথে ও সুন্নাতের উপরই মারা গেলো, তাকওয়া ও শহীদী দরজা পেয়ে মারা গেলো এবং গুনাহ মাফ পেয়ে মারা গেলো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 22 Hadith 7</td></tr></tbody></table></div>
 

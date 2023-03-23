@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) ..... জাবির ইবন আবদুল্লাহ্‌ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরাফাতে অবস্থানকালে লোকদের কাছে উপস্থিত হয়ে বলেনঃ তোমাদের মাঝে এমন কেউ আছে কি, যে আমাকে আমার কাওম কুরায়শদের কাছে নিয়ে যেতে পারে? কেননা, কুরায়শরা আমার রবের কথা মানুষের কাছে পৌছাতে বাধার সৃষ্টি করছে।
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, মানুষ একত্রিত হওয়ার স্থানে (আরাফা ময়দানে) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকদের সামনে নিজেকে পেশ করে বলতেনঃ এমন কোনো ব্যক্তি আছে কি যে আমাকে তাঁর গোত্রের কাছে নিয়ে যাবে? কেননা কুরাইশ গোত্রের লোকেরা আমাকে আমার রবের বাণী পৌঁছিয়ে দিতে বাধা সৃষ্টি করেছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4734</td></tr><tr><td>Arabic No</td><td>4734</td></tr><tr><td>Reference</td><td>Book 42 Hadith 139</td></tr></tbody></table></div>
 

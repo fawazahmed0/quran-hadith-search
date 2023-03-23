@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুয়াম্মাল ইবনুল ফাদল (রহঃ) ..... রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী উম্মে হাবীবা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ যে ব্যাক্তি যুহরের ফরয নামাযের পূর্বে এবং পরে চার রাকাত করে নামায পড়বে তাঁর জন্য দোযখের আগুন হারাম হবে। (তিরমিযি, নাসাই, ইবন মাজা)।
+। আনবাসাহ ইবনু আবূ সুফয়ান (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী উম্মু হাবীবাহ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি নিয়মিতভাবে যুহরের পূর্বে চার রাক‘আত এবং পরে চার রাক‘আত সালাত আদায় করবে, তার জন্য জাহান্নাম হারাম করা হবে।[1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, আল-‘আলা ইবনুল হারিস ও সুলায়মান ইবনু মূসা (রহঃ) মাকহুল (রহঃ) হতে এ সানাদে অনুরূপ বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1269</td></tr><tr><td>Arabic No</td><td>1269</td></tr><tr><td>Reference</td><td>Book 5 Hadith 20</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Fadl] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nebi (s.a.v.)'in eşi Ümmü Habîbe (r.anha)'dan; demiştir ki: Nebi (s.a.v.) şöyle buyurdu: "Kim öğle namazından Önce ve sonra dört rekat namaz kılmaya devam ederse (o kimse) cehennem ateşine haram kılınır." Ebû Dâvûd dedi ki: Bu hadisi aynı şekilde (ve) aynı senedle, el-Ala b. el-Hâris ile Süleyman b. Mûsâ da MekhûVden rivayet ettiler. Diğer tahric: Tirmizî, mevâkît; Nesâî, kıyamu'1-leyl; İbn Mâce, ikâme; Ahmed b. Hanbel, V, 418, 420; VI, 63, 148, 326
+Nebi (s.a.v.)'in eşi Ümmü Habîbe (r.anha)'dan; demiştir ki: Nebi (s.a.v.) şöyle buyurdu: "Kim öğle namazından Önce ve sonra dört rekat namaz kılmaya devam ederse (o kimse) cehennem ateşine haram kılınır." Ebû Dâvûd dedi ki: Bu hadisi aynı şekilde (ve) aynı senedle, el-Ala b. el-Hâris ile Süleyman b. Mûsâ da MekhûVden rivayet ettiler. Diğer tahric: Tirmizî, mevâkît; Nesâî, kıyamu'1-leyl; İbn Mâce, ikâme; Ahmed b. Hanbel, V, 418, 420; VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1269</td></tr><tr><td>Arabic No</td><td>1269</td></tr><tr><td>Reference</td><td>Book 5 Hadith 20</td></tr></tbody></table></div>
 

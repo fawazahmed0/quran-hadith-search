@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাস‘ঊদ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষ স্বীয় পরিবার-পরিজনের জন্য পুণ্যের আশায় যখন ব্যয় করে তখন সেটা তার জন্য সদাকাহ হয়ে যায়। (৪০০৬, ৫৩৫১) (আধুনিক প্রকাশনীঃ ৫৩, ইসলামিক ফাউন্ডেশনঃ ৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাস‘ঊদ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষ স্বীয় পরিবার-পরিজনের জন্য পুণ্যের আশায় যখন ব্যয় করে তখন সেটা তার জন্য সদাকাহ হয়ে যায়। (৪০০৬, ৫৩৫১) (আধুনিক প্রকাশনীঃ ৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதர் (இறைவனிடம் கிடைக் கும்) நன்மையை நாடித் தம் குடும்பத் தாருக்குச் செலவு செய்தால், அதுவும் அவருக்குத் தர்மம் ஆகும். இதை அபூமஸ்ஊத் அல்அன்சாரி (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 2
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதர் (இறைவனிடம் கிடைக் கும்) நன்மையை நாடித் தம் குடும்பத் தாருக்குச் செலவு செய்தால், அதுவும் அவருக்குத் தர்மம் ஆகும். இதை அபூமஸ்ஊத் அல்அன்சாரி (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Mes’ud r.a. şöyle dedi: Nebiyy-i Mükerrem sallallahu aleyhi ve sellem buyurdu ki: "Kişi Allah'ın rızasını gözeterek ailesine harcama yaptığında bu kendisi için sadaka olur. Tekrar: 4006, 5351
+Ebu Mes’ud r.a. şöyle dedi: Nebiyy-i Mükerrem sallallahu aleyhi ve sellem buyurdu ki: "Kişi Allah'ın rızasını gözeterek ailesine harcama yaptığında bu kendisi için sadaka olur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
 

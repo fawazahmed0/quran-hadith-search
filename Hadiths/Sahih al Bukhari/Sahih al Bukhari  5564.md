@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’টি শিংওয়ালা সাদা-কালো রঙের ভেড়া কুরবানী করতেন। তিনি পশুগুলোর পার্শ্ব তাঁর পায়ে চেপে ধরে সেগুলোকে নিজ হাতে যবহ্ করতেন। [৫৫৫৩] (আধুনিক প্রকাশনী- ৫১৫৭, ইসলামিক ফাউন্ডেশন- ৫০৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’টি শিংওয়ালা সাদা-কালো রঙের ভেড়া কুরবানী করতেন। তিনি পশুগুলোর পার্শ্ব তাঁর পায়ে চেপে ধরে সেগুলোকে নিজ হাতে যবহ্ করতেন। [৫৫৫৩] (আধুনিক প্রকাশনী- ৫১৫৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5564</td></tr><tr><td>Arabic No</td><td>5564</td></tr><tr><td>Reference</td><td>Book 73 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கொம்பு உள்ள இரு கறுப்பு வெள்ளை செம்மறியாட்டுக் கடாக்களைக் குர்பானி கொடுத்து வந்தார் கள். அப்போது தமது காலை அவற்றின் பக்கவாட்டில் வைத்துக்கொண்டு தமது கரத்தால் அவற்றை அறுப்பார்கள்.20 அத்தியாயம் : 73
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கொம்பு உள்ள இரு கறுப்பு வெள்ளை செம்மறியாட்டுக் கடாக்களைக் குர்பானி கொடுத்து வந்தார் கள். அப்போது தமது காலை அவற்றின் பக்கவாட்டில் வைத்துக்கொண்டு தமது கரத்தால் அவற்றை அறுப்பார்கள்.20 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5564</td></tr><tr><td>Arabic No</td><td>5564</td></tr><tr><td>Reference</td><td>Book 73 Hadith 20</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন হাতিম ইবন বুযায় (রহঃ) ...... জাবির ইবন আবদিল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা লোকেরা কবরস্থানে আলো দেখতে পেয়ে সেখানে গমন করে। তখন তারা দেখতে পায় যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজে কবরের মাঝে দাঁড়িয়ে বলছেনঃ তোমরা তোমাদের সাথীকে (মৃত ব্যক্তিকে) আমার কাছে দাও। আর তিনি ছিলেন সেই ব্যক্তি, যিনি উচ্চস্বরে আল্লাহর যিকির করতেন।
+। জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাতের বেলায় কবরস্থানে আলো দেখতে পেয়ে লোকেরা সেখানে এসে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কবরের মধ্যে দাঁড়ানো অবস্থায় দেখলো। তিনি বললেনঃ তোমাদের সাথীকে আমার কাছে দাও। এ লোকটি উচ্চস্বরে যিকির করতো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3164</td></tr><tr><td>Arabic No</td><td>3164</td></tr><tr><td>Reference</td><td>Book 21 Hadith 76</td></tr></tbody></table></div>
 

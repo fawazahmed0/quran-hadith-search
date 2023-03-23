@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আর জান্নাতে তোমাদের কারও একটি ধনুকের পরিমাণ জায়গাও ঐ জায়গা অপেক্ষা অধিক উত্তম যেখানে সূর্য উদিত হয় আর সূর্য অস্তমিত হয় (অর্থাৎ পৃথিবীর চেয়ে)। (২৭৯৩) (আধুনিক প্রকাশনীঃ ৩০১২ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৩০২২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3252</td></tr><tr><td>Arabic No</td><td>3252</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

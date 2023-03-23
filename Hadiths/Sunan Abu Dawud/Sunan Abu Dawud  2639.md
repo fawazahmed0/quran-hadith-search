@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্ হাসান ইবন শাওকার ..... জাবির ইবন আবদুল্লাহ্ (রাঃ) বর্ণনা করেছেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে লোকজনের পেছনে অবস্থান করতেন ও অসামর্থ লোকদের নিজ সাওয়ারীতে তুলে নিতেন এবং সকল সঙ্গী মুসলিমের কল্যাণের জন্য দু‘আ করতেন।
+। আবুয যুবায়র (রহঃ) সূত্রে বর্ণিত। জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) তাদেরকে বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে কাফেলার পিছনে অবস্থান করতেন। তিনি দুর্বলদের নিজের বাহনের পিছনে উঠিয়ে নিতেন এবং তাদের জন্য দু‘আ করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2639</td></tr><tr><td>Arabic No</td><td>2639</td></tr><tr><td>Reference</td><td>Book 15 Hadith 163</td></tr></tbody></table></div>
 

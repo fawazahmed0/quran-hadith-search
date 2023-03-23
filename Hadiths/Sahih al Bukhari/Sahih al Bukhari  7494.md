@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭৪৯৪ আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাদের রব্ব প্রত্যেক রাতে যখন রাতের শেষ তৃতীয়াংশ বাকী থাকে তখন পৃথিবীর আসমানে নেমে আসেন এবং বলেন, আমার কাছে যে দু‘আ করবে, আমি তার দু‘আ কবূল করব। আমার কাছে যে চাইবে, আমি তাকে দেব। আমার কাছে যে ক্ষমা প্রার্থনা করবে, তাকে আমি ক্ষমা করে দেব। [১১৪৫] (আধুনিক প্রকাশনী- ৬৯৭৬, ইসলামিক ফাউন্ডেশন- ৬৯৮৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাদের রব্ব প্রত্যেক রাতে যখন রাতের শেষ তৃতীয়াংশ বাকী থাকে তখন পৃথিবীর আসমানে নেমে আসেন এবং বলেন, আমার কাছে যে দু‘আ করবে, আমি তার দু‘আ কবূল করব। আমার কাছে যে চাইবে, আমি তাকে দেব। আমার কাছে যে ক্ষমা প্রার্থনা করবে, তাকে আমি ক্ষমা করে দেব। [১১৪৫] (আধুনিক প্রকাশনী- ৬৯৭৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7494</td></tr><tr><td>Arabic No</td><td>7494</td></tr><tr><td>Reference</td><td>Book 97 Hadith 120</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Every night when it is the last third of the night, our Lord, the Superior, the Blessed, descends to the nearest heaven and says: Is there anyone to invoke Me that I may respond to his invocation? Is there anyone to ask Me so that I may grant him his request? Is there anyone asking My forgiveness so that I may forgive him?. " (See Hadith No. 246,Vol. 2)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Every night when it is the last third of the night, our Lord, the Superior, the Blessed, descends to the nearest heaven and says: Is there anyone to invoke Me that I may respond to his invocation? Is there anyone to ask Me so that I may grant him his request? Is there anyone asking My forgiveness so that I may forgive him?. " (See Hadith No. 246,Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7494</td></tr><tr><td>Arabic No</td><td>7494</td></tr><tr><td>Reference</td><td>Book 97 Hadith 120</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உயர்வும் வளமும் மிக்கவனான நம் இறைவன் ஒவ்வோர் இரவிலும் இரவின் இறுதி மூன்றிலொரு பங்கு இருக்கும்போது கீழ்வானிற்கு இறங்கி வந்து, “என்னிடம் யாரேனும் பிரார்த்தித்தால் அவரது பிரார்த்தனையை நான் ஏற்கிறேன். என்னிடம் யாரேனும் கேட்டால் அவருக்கு நான் கொடுக்கிறேன். என்னிடம் யாரேனும் பாவமன்னிப்புக் கோரினால் அவரை நான் மன்னிக்கிறேன்” என்று கூறுகின்றான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.137 அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உயர்வும் வளமும் மிக்கவனான நம் இறைவன் ஒவ்வோர் இரவிலும் இரவின் இறுதி மூன்றிலொரு பங்கு இருக்கும்போது கீழ்வானிற்கு இறங்கி வந்து, “என்னிடம் யாரேனும் பிரார்த்தித்தால் அவரது பிரார்த்தனையை நான் ஏற்கிறேன். என்னிடம் யாரேனும் கேட்டால் அவருக்கு நான் கொடுக்கிறேன். என்னிடம் யாரேனும் பாவமன்னிப்புக் கோரினால் அவரை நான் மன்னிக்கிறேன்” என்று கூறுகின்றான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.137 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7494</td></tr><tr><td>Arabic No</td><td>7494</td></tr><tr><td>Reference</td><td>Book 97 Hadith 120</td></tr></tbody></table></div>
 

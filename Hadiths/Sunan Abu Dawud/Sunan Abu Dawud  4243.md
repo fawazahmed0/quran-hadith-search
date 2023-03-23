@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইব্‌ন ইয়াহ্‌ইয়া (রহঃ) .... হুযায়ফা (রাঃ) থেকে বর্ণিত যে, আল্লাহ্‌র শপথ! আমি জানি না, আমার সাথীরা ভুলে গেছে কিনা? আল্লাহ্‌র কসম! রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কিয়ামত পর্যন্ত ফিতনা সৃষ্টিকারী কোন ব্যক্তির কথা উল্লেখ করতে বাদ দেননি, যাদের সংখ্যা হবে তিন শ’রও বেশী। তিন তাদের নাম, তাদের পিতার নাম এবং তাদের গোত্রের নাম আমাদের নিকট উল্লেখ করেন।
+। হুযাইফাহ ইবনুল ইয়ামেন (রাঃ) বলেনঃ আল্লাহর কসম! আমি জানি না আমার সাথীরা ভুলে গেছেন না কি জেনে শুনে ভুলে আছেন। আল্লাহর কসম! কিয়ামত পর্যন্ত ফিতনার সংখ্যা হবে তিন শতাধিক। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের প্রত্যেকের নাম, পিতার নাম ও গোত্রের নাম আমাদেরকে অবহিত করেছেন।[1] দুর্বলঃ মিশকাত হা/ ৫৩৯৩।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>4243</td></tr><tr><td>Reference</td><td>Book 37 Hadith 4</td></tr></tbody></table></div>
 

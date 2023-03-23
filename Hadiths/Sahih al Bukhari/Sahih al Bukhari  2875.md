@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মুল মুমিনীন ‘আয়িশাহ (রাঃ) হতে বর্ণিত, তিনি বলেনঃ আমি আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট জিহাদের অনুমতি চাইলে তিনি বলেন, ‘তোমাদের জিহাদ হলো হাজ্জ।’ ‘আবদুল্লাহ ইবনু অলীদ বলেছেন, সুফ্ইয়ান (রাঃ) এ সম্পর্কে আমাদের হাদীস শুনিয়েছেন। (১৫২০) (আধুনিক প্রকাশনীঃ ২৬৬৪, ইসলামিক ফাউন্ডেশনঃ ২৬৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মুল মুমিনীন ‘আয়িশাহ (রাঃ) হতে বর্ণিত, তিনি বলেনঃ আমি আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট জিহাদের অনুমতি চাইলে তিনি বলেন, ‘তোমাদের জিহাদ হলো হাজ্জ।’ ‘আবদুল্লাহ ইবনু অলীদ বলেছেন, সুফ্ইয়ান (রাঃ) এ সম্পর্কে আমাদের হাদীস শুনিয়েছেন। (১৫২০) (আধুনিক প্রকাশনীঃ ২৬৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2875</td></tr><tr><td>Arabic No</td><td>2875</td></tr><tr><td>Reference</td><td>Book 56 Hadith 91</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் அறப் போரில் ஈடுபட அனுமதி கேட்டேன். அதற்கு அவர்கள், ‘‘(பெண்களாகிய) உங்கள் அறப்போர் ஹஜ் செய்வதுதான்” என்று கூறினார்கள்.46 அத்தியாயம் : 56
+இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் அறப் போரில் ஈடுபட அனுமதி கேட்டேன். அதற்கு அவர்கள், ‘‘(பெண்களாகிய) உங்கள் அறப்போர் ஹஜ் செய்வதுதான்” என்று கூறினார்கள்.46 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2875</td></tr><tr><td>Arabic No</td><td>2875</td></tr><tr><td>Reference</td><td>Book 56 Hadith 91</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৫৭২, আন্তর্জাতিক নাম্বারঃ ২২৪২ ৬৫৭২-(…/...) নাসর ইবনু আলী আল জাহযামী (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৪৩৯, ইসলামিক সেন্টার ৬৪৯০)
+(…/...) নাসর ইবনু আলী আল জাহযামী (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৪৩৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6678</td></tr><tr><td>Arabic No</td><td>2242.07</td></tr><tr><td>Reference</td><td>Book 45 Hadith 175</td></tr></tbody></table></div>
 

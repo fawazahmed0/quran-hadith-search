@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সাঈদ খুদরী (রাঃ) হতে বর্ণিত যে, একদা তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উপবিষ্ট ছিলেন, তখন তিনি বললেন, হে আল্লাহর রাসূল! আমরা বন্দী দাসীর সাথে সঙ্গত হই। কিন্তু আমরা তাদের (বিক্রয় করে) মূল্য হাসিল করতে চাই। এমতাবস্থায় আযল- (নিরুদ্ধ সঙ্গম করা) সম্পর্কে আপনি কী বলেন? তিনি বললেন, আর তোমরা কি এরূপ করে থাক! তোমরা যদি তা (আযল) না কর তাতে তোমাদের কোন ক্ষতি নেই। কারণ আল্লাহ তা‘আলা যে সন্তান জন্ম হওয়ার ফায়সালা করে রেখেছেন, তা অবশ্যই জন্ম নিবে। (আধুনিক প্রকাশনীঃ ২০৭২, ইসলামিক ফাউন্ডেশনঃ ২০৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সাঈদ খুদরী (রাঃ) হতে বর্ণিত যে, একদা তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উপবিষ্ট ছিলেন, তখন তিনি বললেন, হে আল্লাহর রাসূল! আমরা বন্দী দাসীর সাথে সঙ্গত হই। কিন্তু আমরা তাদের (বিক্রয় করে) মূল্য হাসিল করতে চাই। এমতাবস্থায় আযল- (নিরুদ্ধ সঙ্গম করা) সম্পর্কে আপনি কী বলেন? তিনি বললেন, আর তোমরা কি এরূপ করে থাক! তোমরা যদি তা (আযল) না কর তাতে তোমাদের কোন ক্ষতি নেই। কারণ আল্লাহ তা‘আলা যে সন্তান জন্ম হওয়ার ফায়সালা করে রেখেছেন, তা অবশ্যই জন্ম নিবে। (আধুনিক প্রকাশনীঃ ২০৭২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>2229</td></tr><tr><td>Reference</td><td>Book 34 Hadith 176</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுடன் அமர்ந்திருந்தேன். (அப்போது அன்சாரிகளில் ஒருவர் வந்து) ‘‘அல்லாஹ்வின் தூதரே! எங்களுக்கு (பெண்) போர்க் கைதிகள் கிடைக்கின்றனர்; அவர்களை நல்ல விலைக்கு விற்க நாங்கள் விரும்புவதால், (அவர்களுடன் உடலுறவு கொள்ளும்போது) நாங்கள் புணர்ச்சி இடைமுறிப்பு (அஸ்ல்) செய்துகொள்வது பற்றி என்ன கருதுகிறீர்கள்?” என்று கேட்டார்கள். ‘‘அப்படியா நீங்கள் செய்கிறீர்கள்? அவ்வாறு நீங்கள் (அஸ்ல்) செய்யாமலிப்பதால் உங்கள்மீது (குற்றம்) இல்லை. ஏனெனில், உருவாக வேண்டுமென்று அல்லாஹ் எழுதிவிட்ட எந்த உயிரும் உருவாகாமல் இருப்பதில்லை” என்று கூறினார்கள்.90 அத்தியாயம் : 34
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுடன் அமர்ந்திருந்தேன். (அப்போது அன்சாரிகளில் ஒருவர் வந்து) ‘‘அல்லாஹ்வின் தூதரே! எங்களுக்கு (பெண்) போர்க் கைதிகள் கிடைக்கின்றனர்; அவர்களை நல்ல விலைக்கு விற்க நாங்கள் விரும்புவதால், (அவர்களுடன் உடலுறவு கொள்ளும்போது) நாங்கள் புணர்ச்சி இடைமுறிப்பு (அஸ்ல்) செய்துகொள்வது பற்றி என்ன கருதுகிறீர்கள்?” என்று கேட்டார்கள். ‘‘அப்படியா நீங்கள் செய்கிறீர்கள்? அவ்வாறு நீங்கள் (அஸ்ல்) செய்யாமலிப்பதால் உங்கள்மீது (குற்றம்) இல்லை. ஏனெனில், உருவாக வேண்டுமென்று அல்லாஹ் எழுதிவிட்ட எந்த உயிரும் உருவாகாமல் இருப்பதில்லை” என்று கூறினார்கள்.90 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>2229</td></tr><tr><td>Reference</td><td>Book 34 Hadith 176</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Said el-Hudri r.a. şöyle anlatır: "Resulullah (Sallallahu aleyhi ve Sellem)'in yanında oturuyordum. "Ey Allah'ın Resulü' Bize (savaş) esirleri verildi. Onları satıp paralarını almak istiyoruz. Onlarla (cima da) azil yapmamız konusunda ne buyurursunuz?" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, Böyle mi yapıyorsunuz! Böyle yapmanızda bir günah yok. Çünkü Allah'ın dünyaya gelmesini takdir ettiği her canlı mutlaka gelecektir" buyurdu. Tekrar: 2542,4138,5210,6603,7409
+Ebu Said el-Hudri r.a. şöyle anlatır: "Resulullah (Sallallahu aleyhi ve Sellem)'in yanında oturuyordum. "Ey Allah'ın Resulü' Bize (savaş) esirleri verildi. Onları satıp paralarını almak istiyoruz. Onlarla (cima da) azil yapmamız konusunda ne buyurursunuz?" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, Böyle mi yapıyorsunuz! Böyle yapmanızda bir günah yok. Çünkü Allah'ın dünyaya gelmesini takdir ettiği her canlı mutlaka gelecektir" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>2229</td></tr><tr><td>Reference</td><td>Book 34 Hadith 176</td></tr></tbody></table></div>
 

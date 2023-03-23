@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৫৫, আন্তর্জাতিক নাম্বারঃ ৪৩০ ৮৫৫-(.../...) আবূ সাঈদ আশাজ্জ ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আ'মাশ (রহঃ) হতে এ সনদেও উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮৫১, ইসলামিক সেন্টারঃ ৮৬৪)
+আবূ সাঈদ আশাজ্জ ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আ'মাশ (রহঃ) হতে এ সনদেও উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮৫১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>430.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 131</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith has been narrated by A'mash with the same chain of transmitters
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொழுகையில் பிரார்த்திக்கும்போது வானத்தை அண்ணாந்து பார்க்கும் மக்கள் அதை நிறுத்திக் கொள்ளட்டும். அல்லது அவர்களுடைய பார்வை பறிக்கப்பட்டுவிடும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 4
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொழுகையில் பிரார்த்திக்கும்போது வானத்தை அண்ணாந்து பார்க்கும் மக்கள் அதை நிறுத்திக் கொள்ளட்டும். அல்லது அவர்களுடைய பார்வை பறிக்கப்பட்டுவிடும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>430.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 131</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ মসজিদ হতে যার অবস্থান (বাসস্থান) যত দূরে সে তত অধিক ছওয়াবের অধিকারী। (ইবনু মাজাহ)।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মসজিদে থেকে যার (বাসস্থান) যত বেশী দূরে, সে তত বেশি সাওয়াবের অধিকারী।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>556</td></tr><tr><td>Arabic No</td><td>556</td></tr><tr><td>Reference</td><td>Book 2 Hadith 166</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'in rivayet ettiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Sevabı en çok olan, mescide en uzak yerden gelendir" Diğer tahric: Buhari, ezan; Müslim, mesacid; İbn Mace, mesacid; Muvatta, tahare; Ahmed b. Hanbel, II, 351, 428
+Ebu Hureyre (r.a.)'in rivayet ettiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Sevabı en çok olan, mescide en uzak yerden gelendir" Diğer tahric: Buhari, ezan; Müslim, mesacid; İbn Mace, mesacid; Muvatta, tahare; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>556</td></tr><tr><td>Arabic No</td><td>556</td></tr><tr><td>Reference</td><td>Book 2 Hadith 166</td></tr></tbody></table></div>
 

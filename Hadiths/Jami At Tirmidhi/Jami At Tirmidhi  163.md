@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৬৩। বিশর ইবনু মুআয, ইসমাঈল ইবনু উলাইয়্যা হতে ইবনু জুরাইজের সূত্রে অনুরূপ বর্ণিত আছে। —আর এই বর্ণনাটি অধিক সহীহ।
+। বিশর ইবনু মুআয, ইসমাঈল ইবনু উলাইয়্যা হতে ইবনু জুরাইজের সূত্রে অনুরূপ বর্ণিত আছে। —আর এই বর্ণনাটি অধিক সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>163</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
 

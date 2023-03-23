@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আব্দুল জব্বার ইবনু আলা (রহঃ) ... আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ তা'আলা যদি পাঁচ বছর তার বান্দাদের থেকে বৃষ্টি বন্ধ রাখেন তারপর তা পাঠান তাহলে মানুষের একদল কাফির হয়ে যাবে। তারা বলবে, মিজদাহ নক্ষত্রের প্রভাবে আমাদের উপর বৃষ্টি বর্ষিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1526</td></tr><tr><td>Arabic No</td><td>1526</td></tr><tr><td>Reference</td><td>Book 17 Hadith 23</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, এক মাস ব্যাপী নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রি‘ল ও যাক্ওয়ান গোত্রের বিরুদ্ধে কুনূতে দু‘আ পাঠ করেছিলেন। (১০০১) (আধুনিক প্রকাশনীঃ ৯৪৪, ইসলামিক ফাউন্ডেশনঃ ৯৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, এক মাস ব্যাপী নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রি‘ল ও যাক্ওয়ান গোত্রের বিরুদ্ধে কুনূতে দু‘আ পাঠ করেছিলেন। (১০০১) (আধুনিক প্রকাশনীঃ ৯৪৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1003</td></tr><tr><td>Arabic No</td><td>1003</td></tr><tr><td>Reference</td><td>Book 14 Hadith 14</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (தொழுகையில்) ஒரு மாத காலம் ‘குனூத்’ (எனும் இடர் காலப் பிரார்த்தனை) ஓதினார்கள். (அதில் இணைவைப்பாளர்களான) ரிஅல், தக்வான் குலத்தாருக்கெதிராகப் பிரார்த்தித்தார்கள். அத்தியாயம் : 14
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (தொழுகையில்) ஒரு மாத காலம் ‘குனூத்’ (எனும் இடர் காலப் பிரார்த்தனை) ஓதினார்கள். (அதில் இணைவைப்பாளர்களான) ரிஅல், தக்வான் குலத்தாருக்கெதிராகப் பிரார்த்தித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1003</td></tr><tr><td>Arabic No</td><td>1003</td></tr><tr><td>Reference</td><td>Book 14 Hadith 14</td></tr></tbody></table></div>
 

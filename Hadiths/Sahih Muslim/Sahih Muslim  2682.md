@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৫৭২, আন্তর্জাতিক নাম্বারঃ ১১৪৩ ২৫৭২-(.../...) মুহাম্মাদ ইবনু রাফি (রহঃ) ..... জাবির (রাযিঃ) থেকে এ সূত্রেও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর একই হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৫৪৯, ইসলামীক সেন্টার ২৫৪৮)
+মুহাম্মাদ ইবনু রাফি (রহঃ) ..... জাবির (রাযিঃ) থেকে এ সূত্রেও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর একই হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৫৪৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2682</td></tr><tr><td>Arabic No</td><td>1143.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 188</td></tr></tbody></table></div>
 

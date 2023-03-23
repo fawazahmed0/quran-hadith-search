@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮৮৩। আমর ইবনু শুআইব (রাহঃ) হতে পর্যায়ক্রমে তার বাবা ও দাদার সূত্রে বর্ণিত আছে, তিনি (দাদা) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে দাঁড়িয়ে ও বসে পান করতে দেখেছি। হাসান, মিশকাত (৪২৭৬), মুখতাসার শামা-ইল (১৭৭) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। আমর ইবনু শুআইব (রাহঃ) হতে পর্যায়ক্রমে তার বাবা ও দাদার সূত্রে বর্ণিত আছে, তিনি (দাদা) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে দাঁড়িয়ে ও বসে পান করতে দেখেছি। হাসান, মিশকাত (৪২৭৬), মুখতাসার শামা-ইল (১৭৭) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1883</td></tr><tr><td>Arabic No</td><td>1883</td></tr><tr><td>Reference</td><td>Book 26 Hadith 23</td></tr></tbody></table></div>
 

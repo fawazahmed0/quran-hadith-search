@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আদী ইবনু হাতিম (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, তোমরা জাহান্নাম হতে আত্মরক্ষা কর এক টুকরা খেজুর সদাকাহ করে হলেও। (১৪১৩) (আধুনিক প্রকাশনীঃ ১৩২৫, ইসলামিক ফাউন্ডেশনঃ ১৩৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আদী ইবনু হাতিম (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, তোমরা জাহান্নাম হতে আত্মরক্ষা কর এক টুকরা খেজুর সদাকাহ করে হলেও। (১৪১৩) (আধুনিক প্রকাশনীঃ ১৩২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1417</td></tr><tr><td>Arabic No</td><td>1417</td></tr><tr><td>Reference</td><td>Book 24 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பேரீச்சம் பழத்தின் ஒரு சிறுதுண்டின் மூலமாவது நரகத்திலிருந்து (உங்களைப்) பாதுகாத்துக்கொள்ளுங்கள். இதை அதீ பின் ஹாத்திம் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 24
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பேரீச்சம் பழத்தின் ஒரு சிறுதுண்டின் மூலமாவது நரகத்திலிருந்து (உங்களைப்) பாதுகாத்துக்கொள்ளுங்கள். இதை அதீ பின் ஹாத்திம் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1417</td></tr><tr><td>Arabic No</td><td>1417</td></tr><tr><td>Reference</td><td>Book 24 Hadith 21</td></tr></tbody></table></div>
 

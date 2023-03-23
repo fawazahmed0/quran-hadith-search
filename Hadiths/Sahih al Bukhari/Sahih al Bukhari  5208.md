@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+অন্য সূত্র থেকেও জাবির (রাঃ) এরূপ হাদীস বর্ণনা করেছেন। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে এবং কুরআন অবতীর্ণ হওয়াকালে ‘আযল করতাম। [৫২০৭; মুসলিম ত্বলাক (তালাক)/২১, হাঃ ১৪৪০, আহমাদ ১৪৩২২] (আধুনিক প্রকাশনী- ৪৮২৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5208</td></tr><tr><td>Arabic No</td><td>5208</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

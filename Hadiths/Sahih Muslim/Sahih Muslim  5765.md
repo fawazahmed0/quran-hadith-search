@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৬৫৮, আন্তর্জাতিক নাম্বারঃ ২২১৪ ৫৬৫৮-(…/২৮৭) বর্ণনাকারী উবাইদুল্লাহ বলেন, তিনি আমাকে আরও জানিয়েছেন যে, তার ঐ ছেলেটি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কোলে প্রস্রাব করে দিল। সে সময় রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সামান্য পানি নিয়ে আসতে বললেন এবং তিনি প্রস্রাবের উপর ঢেলে দিলেন, কিন্তু একেবারে পুরোপুরি তা ধুলেন না। (ইসলামিক ফাউন্ডেশন ৫৫৭৫, ইসলামিক সেন্টার ৫৬০০)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5765</td></tr><tr><td>Arabic No</td><td>287.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 117</td></tr></tbody></table></div>
 

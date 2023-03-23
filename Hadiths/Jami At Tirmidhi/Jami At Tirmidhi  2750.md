@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইবনু উমর (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের মাঝে কোন ব্যক্তি যেন তার ভাইকে তার আসন থেকে তুলে দিয়ে সে সেখানে না বসে। বর্ণনাকারী বলেন, লোকেরা ইবনু উমারের জন্য জায়গা ছেড়ে দিত কিন্তু তিনি তাতে বসতেন না। সহীহঃ বুখারী (৬২৭০), মুসলিম (৭/১০)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2750</td></tr><tr><td>Arabic No</td><td>2750</td></tr><tr><td>Reference</td><td>Book 43 Hadith 20</td></tr></tbody></table></div>
 

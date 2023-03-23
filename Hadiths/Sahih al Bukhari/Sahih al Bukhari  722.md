@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ অনুসরণ করার জন্যই ইমাম নির্ধারণ করা হয়। কাজেই তার বিরুদ্ধাচরণ করবে না। তিনি যখন রুকূ‘ করেন তখন তোমরাও রুকু‘ করবে। তিনি যখন سَمِعَ اللهُ لِمَنْ حَمِدَهُ বলেন, তখন তোমরা رَبَّنَا لَكَ الْحَمْدُ বলবে। তিনি যখন সিজদা্ করবেন তখন তোমরাও সিজদা্ করবে। তিনি যখন বসে সালাত আদায় করেন, তখন তোমরাও সবাই বসে সালাত আদায় করবে। আর তোমরা সালাতে কাতার সোজা করে নিবে, কেননা কাতার সোজা করা সালাতের সৌন্দর্যের অন্তর্ভুক্ত। (৭৩৪; মুসলিম ৪/১৯, হাঃ ৪১৪) (আধুনিক প্রকাশনীঃ ৬৭৮, ইসলামিক ফাউন্ডেশনঃ ৬৮৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ অনুসরণ করার জন্যই ইমাম নির্ধারণ করা হয়। কাজেই তার বিরুদ্ধাচরণ করবে না। তিনি যখন রুকূ‘ করেন তখন তোমরাও রুকু‘ করবে। তিনি যখন سَمِعَ اللهُ لِمَنْ حَمِدَهُ বলেন, তখন তোমরা رَبَّنَا لَكَ الْحَمْدُ বলবে। তিনি যখন সিজদা্ করবেন তখন তোমরাও সিজদা্ করবে। তিনি যখন বসে সালাত আদায় করেন, তখন তোমরাও সবাই বসে সালাত আদায় করবে। আর তোমরা সালাতে কাতার সোজা করে নিবে, কেননা কাতার সোজা করা সালাতের সৌন্দর্যের অন্তর্ভুক্ত। (৭৩৪; মুসলিম ৪/১৯, হাঃ ৪১৪) (আধুনিক প্রকাশনীঃ ৬৭৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 10 Hadith 116</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:The Prophet (ﷺ) said, "The Imam is (appointed) to be followed. So do not differ from him, bow when he bows, and say, "Rabbana-lakal hamd" if he says "Sami'a l-lahu liman hamidah"; and if he prostrates, prostrate (after him), and if he prays sitting, pray sitting all together, and straighten the rows for the prayer, as the straightening of the rows is amongst those things which make your prayer a correct and perfect one. (See Hadith No. 657)
+Narrated Abu Huraira:The Prophet (ﷺ) said, "The Imam is (appointed) to be followed. So do not differ from him, bow when he bows, and say, "Rabbana-lakal hamd" if he says "Sami'a l-lahu liman hamidah"; and if he prostrates, prostrate (after him), and if he prays sitting, pray sitting all together, and straighten the rows for the prayer, as the straightening of the rows is amongst those things which make your prayer a correct and perfect one. (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 10 Hadith 116</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: பின்பற்றப்படுவதற்காகவே இமாம் ஏற்படுத்தப்பட்டுள்ளார். எனவே, அவ ருக்கு நீங்கள் முரண்படாதீர்கள். அவர் குனிந்(து ருகூஉ செய்)தால், நீங்களும் குனி(ந்து ருகூஉ செய்)யுங்கள். அவர் ‘சமிஅல்லாஹு -மன் ஹமிதஹ்’ (இறைவன் தன்னைப் புகழ்வோரின் புகழுரையை ஏற்றுக்கொள்கிறான்) என்று கூறினால், நீங்கள் ‘ரப்பனா ல(க்)கல் ஹம்து’ (எங்கள் இறைவா! எல்லாப் புகழும் உனக்கே!) என்று சொல்லுங்கள். அவர் சிரவணக்கம் (சஜ்தா) செய்தால், நீங்களும் சிரவணக்கம் (சஜ்தா) செய்யுங்கள். அவர் உட்கார்ந்து தொழுதால், நீங்கள் அனைவரும் உட்கார்ந்து தொழுங்கள். தொழுகை வரிசையை ஒழுங்குபடுத்துங்கள். ஏனெனில், வரிசையை ஒழுங்குபடுத்துவது தொழுகையை அழகுறச் செய்வதில் அடங்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+நபி (ஸல்) அவர்கள் கூறினார்கள்: பின்பற்றப்படுவதற்காகவே இமாம் ஏற்படுத்தப்பட்டுள்ளார். எனவே, அவ ருக்கு நீங்கள் முரண்படாதீர்கள். அவர் குனிந்(து ருகூஉ செய்)தால், நீங்களும் குனி(ந்து ருகூஉ செய்)யுங்கள். அவர் ‘சமிஅல்லாஹு -மன் ஹமிதஹ்’ (இறைவன் தன்னைப் புகழ்வோரின் புகழுரையை ஏற்றுக்கொள்கிறான்) என்று கூறினால், நீங்கள் ‘ரப்பனா ல(க்)கல் ஹம்து’ (எங்கள் இறைவா! எல்லாப் புகழும் உனக்கே!) என்று சொல்லுங்கள். அவர் சிரவணக்கம் (சஜ்தா) செய்தால், நீங்களும் சிரவணக்கம் (சஜ்தா) செய்யுங்கள். அவர் உட்கார்ந்து தொழுதால், நீங்கள் அனைவரும் உட்கார்ந்து தொழுங்கள். தொழுகை வரிசையை ஒழுங்குபடுத்துங்கள். ஏனெனில், வரிசையை ஒழுங்குபடுத்துவது தொழுகையை அழகுறச் செய்வதில் அடங்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 10 Hadith 116</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: İmam kendisine uyulması için vardır; ona aykırı hareket etmeyin. O rükû'a vardığında siz de rükû edin, (Semi'allahu limen hamideh) dediği zaman siz (Rabbena,lekel hamd) deyin, o secde edince siz de secde edin, o oturarak kılıyorsa siz de oturarak kılın. Ve namaz kılarken safları düzgün tutun. Çünkü safların düzgün tutulması namazı güzelleştiren temel unsurlardandır. Tekrar: 734
+Ebu Hureyre (r.a.) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: İmam kendisine uyulması için vardır; ona aykırı hareket etmeyin. O rükû'a vardığında siz de rükû edin, (Semi'allahu limen hamideh) dediği zaman siz (Rabbena,lekel hamd) deyin, o secde edince siz de secde edin, o oturarak kılıyorsa siz de oturarak kılın. Ve namaz kılarken safları düzgün tutun. Çünkü safların düzgün tutulması namazı güzelleştiren temel unsurlardandır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 10 Hadith 116</td></tr></tbody></table></div>
 

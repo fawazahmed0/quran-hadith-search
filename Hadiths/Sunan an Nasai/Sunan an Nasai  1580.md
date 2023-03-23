@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আলী ইবনু হুজর (রহঃ) ... হাসান (রহঃ) থেকে বর্ণিত যে, ইবনু আব্বাস (রাঃ) একবার বসরায় খুৎবা দিচ্ছিলেন, তিনি বললেন, তোমরা স্বীয় কওমের যাকাত আদায় কর। তখন লোকেরা একে অন্যের দিকে তাকাতে লাগল। তিনি বললেন এখানে মদীনার অধিবাসী কে কে আছ? তোমরা তোমাদের ভাইদের কাছে যাও এবং তাদের দ্বীনী ইলম শিক্ষা দাও। যেহেতু তারা জানে না যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছোট, বড়, আযাদ, গোলাম, পুরুষ এবং মহিলা সবার উপর অর্ধ সা' গম অথবা এক সা' খেজুরে এবং যব ফরয করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
 

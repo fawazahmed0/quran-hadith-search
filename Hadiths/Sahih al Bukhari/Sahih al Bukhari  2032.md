@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত যে, ‘উমার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে জিজ্ঞেস করেন যে, আমি জাহিলিয়্যা যুগে মাসজিদুল হারামে এক রাত ই‘তিকাফ করার মানৎ করেছিলাম। তিনি (উত্তরে) বললেনঃ তোমার মানৎ পুরা কর। (২০৪৩, ৩১৪৪, ৪৩২০, ৬৬৯৭) (আধুনিক প্রকাশনীঃ ১৮৮৯, ইসলামিক ফাউন্ডেশনঃ ১৯০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত যে, ‘উমার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে জিজ্ঞেস করেন যে, আমি জাহিলিয়্যা যুগে মাসজিদুল হারামে এক রাত ই‘তিকাফ করার মানৎ করেছিলাম। তিনি (উত্তরে) বললেনঃ তোমার মানৎ পুরা কর। (২০৪৩, ৩১৪৪, ৪৩২০, ৬৬৯৭) (আধুনিক প্রকাশনীঃ ১৮৮৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2032</td></tr><tr><td>Arabic No</td><td>2032</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (என் தந்தை) உமர் (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடம், ‘‘மஸ்ஜிதுல் ஹராம் புனிதப் பள்ளிவாசலில் ஓர் இரவு இஃதிகாஃப் இருப்பதாக அறியாமைக் காலத்தில் நான் நேர்ச்சை செய்திருந்தேன்” என்று கூறினார்கள். அதற்கு நபி (ஸல்) அவர்கள், ‘‘உமது நேர்ச்சையை நிறைவேற்றுவீராக!” என்றார்கள்.3 அத்தியாயம் : 33
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (என் தந்தை) உமர் (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடம், ‘‘மஸ்ஜிதுல் ஹராம் புனிதப் பள்ளிவாசலில் ஓர் இரவு இஃதிகாஃப் இருப்பதாக அறியாமைக் காலத்தில் நான் நேர்ச்சை செய்திருந்தேன்” என்று கூறினார்கள். அதற்கு நபி (ஸல்) அவர்கள், ‘‘உமது நேர்ச்சையை நிறைவேற்றுவீராக!” என்றார்கள்.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2032</td></tr><tr><td>Arabic No</td><td>2032</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a. şöyls demiştir: Ömer r.a. Nebi Sallallahu Aleyhi ve Sellem'e: "Ben cahiliye döneminde Mescid-i Haram'da bir gece itikaf yapmayı adamıştım" dedi. Nebi Sallallahu Aleyhi ve Sellem: "Adağını yerine getir" buyurdu. Tekrar: 2043, 3144, 4320, 6697
+İbn Ömer r.a. şöyls demiştir: Ömer r.a. Nebi Sallallahu Aleyhi ve Sellem'e: "Ben cahiliye döneminde Mescid-i Haram'da bir gece itikaf yapmayı adamıştım" dedi. Nebi Sallallahu Aleyhi ve Sellem: "Adağını yerine getir" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2032</td></tr><tr><td>Arabic No</td><td>2032</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
 

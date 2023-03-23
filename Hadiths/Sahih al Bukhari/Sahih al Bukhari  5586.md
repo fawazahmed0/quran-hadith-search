@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ‘বিতা’ সম্পর্কে জিজ্ঞেস করা হয়েছিল। ‘বিতা’ হচ্ছে মধু হতে তৈরী নবীয। ইয়ামানের লোকেরা তা পান করত। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে সকল পানীয় নেশার সৃষ্টি করে তা-ই হারাম। যুহরী হতে বর্ণিত। তিনি বলেন, আনাস ইবনু মালিক (রাঃ) আমাকে খবর দিয়েছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা দুব্বা (কদূর খোল) এর মধ্যে নবীয তৈরী করবে না, মুযাফফাত (আলকাতরা যুক্ত পাত্র)’র মধ্যেও করবে না। [২৪২] (আধুনিক প্রকাশনী- ৫১৭৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5586</td></tr><tr><td>Arabic No</td><td>5586</td></tr><tr><td>Reference</td><td>Book 74 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ‘பித்உ’ குறித்துக் கேட்கப்பட்டது. -அது தேனால் தயாரிக்கப்படும் மதுவாகும்.- யமன்வாசிகள் அதை அருந்திவந்தார்கள். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘போதை தரும் (மது) பானம் ஒவ்வொன்றும் தடை செய்யப்பட்ட தேயாகும்” என்று சொன்னார்கள். அத்தியாயம் : 74
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ‘பித்உ’ குறித்துக் கேட்கப்பட்டது. -அது தேனால் தயாரிக்கப்படும் மதுவாகும்.- யமன்வாசிகள் அதை அருந்திவந்தார்கள். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘போதை தரும் (மது) பானம் ஒவ்வொன்றும் தடை செய்யப்பட்ட தேயாகும்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5586</td></tr><tr><td>Arabic No</td><td>5586</td></tr><tr><td>Reference</td><td>Book 74 Hadith 12</td></tr></tbody></table></div>
 

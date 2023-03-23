@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘দ ইবনু আবূ ওয়াক্কাস (রাঃ) হতে বর্ণিত। তিনি বলেন, উহূদের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমার জন্য তাঁর তীরাধার খুলে দিয়ে বললেন, তোমার জন্য আমার মাতা-পিতা কুরবান হোক; তুমি তীর চালাতে থাক। [৩৭২৫] (আধুনিক প্রকাশনীঃ ৩৭৫৩, ইসলামিক ফাউন্ডেশনঃ ৩৭৫৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘দ ইবনু আবূ ওয়াক্কাস (রাঃ) হতে বর্ণিত। তিনি বলেন, উহূদের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমার জন্য তাঁর তীরাধার খুলে দিয়ে বললেন, তোমার জন্য আমার মাতা-পিতা কুরবান হোক; তুমি তীর চালাতে থাক। [৩৭২৫] (আধুনিক প্রকাশনীঃ ৩৭৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 64 Hadith 101</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போரின்போது நபி (ஸல்) அவர்கள் தமது அம்புக் கூட்டிலிருந்துஎனக்காக (அம்புகளை) உருவிக் கொடுத்துக் கொண்டிருந்தார்கள். அப்போது (என்னிடம்), “அம்பெய்யுங்கள். என் தந்தையும் என் தாயும் உங்களுக்கு அர்ப்பணமாகட்டும்” என்று கூறினார்கள். அத்தியாயம் : 64
+சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போரின்போது நபி (ஸல்) அவர்கள் தமது அம்புக் கூட்டிலிருந்துஎனக்காக (அம்புகளை) உருவிக் கொடுத்துக் கொண்டிருந்தார்கள். அப்போது (என்னிடம்), “அம்பெய்யுங்கள். என் தந்தையும் என் தாயும் உங்களுக்கு அர்ப்பணமாகட்டும்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 64 Hadith 101</td></tr></tbody></table></div>
 

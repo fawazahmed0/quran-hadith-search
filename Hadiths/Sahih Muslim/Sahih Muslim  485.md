@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৭৩, আন্তর্জাতিক নাম্বারঃ ১৯৬ ৩৭৩-(৩৩২/...) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেন, জান্নাতে লোকদের প্রবেশ সম্পর্কে আমিই হবো সর্বপ্রথম সুপারিশকারী এবং এত অধিক সংখ্যক মানুষ আমার প্রতি ঈমান এনেছে যা অন্য কোন নবীর বেলায় হবে না। নবীদের কেউ কেউ তো এমতাবস্থায়ও আসবেন যার প্রতি মাত্র এক ব্যক্তিই ঈমান এনেছে। (ইসলামিক ফাউন্ডেশনঃ ৩৮১, ইসলামিক সেন্টারঃ ৩৯২)
+আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেন, জান্নাতে লোকদের প্রবেশ সম্পর্কে আমিই হবো সর্বপ্রথম সুপারিশকারী এবং এত অধিক সংখ্যক মানুষ আমার প্রতি ঈমান এনেছে যা অন্য কোন নবীর বেলায় হবে না। নবীদের কেউ কেউ তো এমতাবস্থায়ও আসবেন যার প্রতি মাত্র এক ব্যক্তিই ঈমান এনেছে। (ইসলামিক ফাউন্ডেশনঃ ৩৮১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>485</td></tr><tr><td>Arabic No</td><td>196.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 391</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நானே சொர்க்கத்திற்காகப் பரிந்துரைக்கும் முதல் ஆள் ஆவேன். நான் (இறைவனின் தூதர் என) ஏற்றுக்கொள்ளப்பட்ட அளவுக்கு இறைத்தூதர்களில் வேறெவரும் ஏற்றுக் கொள்ளப் பட்டதில்லை. இறைத்தூதர்களில்(இப்படியும்) ஒருவர் இருந்தார்; அவருடைய சமுதாயத்தாரில் ஒரேயொரு மனிதர்தாம் அவரை ஏற்றுக்கொண்டார். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 1
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நானே சொர்க்கத்திற்காகப் பரிந்துரைக்கும் முதல் ஆள் ஆவேன். நான் (இறைவனின் தூதர் என) ஏற்றுக்கொள்ளப்பட்ட அளவுக்கு இறைத்தூதர்களில் வேறெவரும் ஏற்றுக் கொள்ளப் பட்டதில்லை. இறைத்தூதர்களில்(இப்படியும்) ஒருவர் இருந்தார்; அவருடைய சமுதாயத்தாரில் ஒரேயொரு மனிதர்தாம் அவரை ஏற்றுக்கொண்டார். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>485</td></tr><tr><td>Arabic No</td><td>196.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 391</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritaka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekr b. Ebi Şeybe’de rivayet etti. (Dediki) Bize Hüseyin b.Ali, Zaide’ den , o da Muhtar b. Fulful’den naklen rivayet etti. Demiş ki : Enes b. Malik dedi ki: Nebi (Sallallahu aleyhi ve Sellem): "Ben cennet için ilk şefaat edecek olanım. Benim tasdik edildiğim kadar nebilerden hiçbir nebi tasdik edilmiş değildir. Hatta nebiler arasında ümmetinden kendisini yalnızca bir adamın tasdik etmiş olduğu nebi dahi vardır" buyurdu. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 1578
+Bize Ebu Bekr b. Ebi Şeybe’de rivayet etti. (Dediki) Bize Hüseyin b.Ali, Zaide’ den , o da Muhtar b. Fulful’den naklen rivayet etti. Demiş ki : Enes b. Malik dedi ki: Nebi (Sallallahu aleyhi ve Sellem): "Ben cennet için ilk şefaat edecek olanım. Benim tasdik edildiğim kadar nebilerden hiçbir nebi tasdik edilmiş değildir. Hatta nebiler arasında ümmetinden kendisini yalnızca bir adamın tasdik etmiş olduğu nebi dahi vardır" buyurdu. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>485</td></tr><tr><td>Arabic No</td><td>196.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 391</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাসীর .... মুহাল্লাব ইবন আবূ সুফরাহ (রহঃ) বলেন, আমাকে এমন একজন সাহাবী হাদীস বর্ণনা করেছেন, যিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছেনঃ তোমরা যখন (যুদ্ধক্ষেত্রে না গিয়ে) ঘরে অবস্থান করবে, তখন সংকেত হওয়া উচিত ‘‘হা-মীম, লা-ইউনসারূন’’। (অর্থাৎ হে আল্লাহ্! শত্রুপক্ষ যেন জয়ী না হয় আর কারো সাহায্য না পায়)।
+। মুহাল্লাব ইবনু আবূ সুফরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, এক ব্যক্তি আমাকে জানালেন যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ তোমরা রাতের অন্ধকারে শত্রুবাহিনী দ্বারা আক্রান্ত হলে তোমাদের সাংকেতিক পরিচয় হবে, ‘হা-মীম লা ইউনসারূন।’’
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2597</td></tr><tr><td>Arabic No</td><td>2597</td></tr><tr><td>Reference</td><td>Book 15 Hadith 121</td></tr></tbody></table></div>
 

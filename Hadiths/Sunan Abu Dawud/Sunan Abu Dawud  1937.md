@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল হাসান ইবন আলী (রহঃ) ..... জাবির ইবন আবদুল্লাহ্ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন যে, আরাফাতের সবই অবস্থান স্থল আর মিনার সবই কুরবানীর স্থান এবং সমস্ত মুযদালিফাই অবস্থান স্থল আর মক্কার সমস্ত প্রশস্ত রাস্তই চলাচলের রাস্তা ও কুরবানীর জায়গা।
+। ‘আতা (রহ.) সূত্রে বর্ণিত। তিনি বলেন, একদা জাবির ইবনু ‘আব্দুল্লাহ (রাযি.) আমাকে বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আরাফার পুরো এলাকাই অবস্থানের জায়গা। মিনার সম্পূর্ণ এলাকা কুরবানীর স্থান এবং মুযদালিফার বিস্তৃত এলাকা অবস্থানের স্থান এবং মক্কার প্রতিটি অলি-গলি চলাচলের পথ এবং কুরবানীর স্থান।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1937</td></tr><tr><td>Arabic No</td><td>1937</td></tr><tr><td>Reference</td><td>Book 11 Hadith 217</td></tr></tbody></table></div>
 

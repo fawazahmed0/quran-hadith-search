@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+কুরায়ব বলেন, আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) ফযল এর সূত্রে আমাকে অবহিত করেছেন যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জামরায়* পৌছার পূর্ব পর্যন্ত অনবরত তালবিয়াহ্ পাঠ করছিলেন। (ইসলামিক ফাউন্ডেশন ২৯৫৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3087</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইব্নু মুহাম্মাদ ইব্নু ‘আলী ও তাঁর ভাই ‘আবদুল্লাহ্ তাঁদের পিতা থেকে বর্ণনা করেন যে, ‘আলী (রাঃ) ইব্নু ‘আব্বাস (রাঃ)-কে বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বর যুদ্ধে মুত‘আহ বিয়ে এবং গৃহপালিত গাধার গোশ্ত খাওয়া নিষেধ করেছেন। [৪২১৬] (আধুনিক প্রকাশনী- ৪৭৪০, ইসলামিক ফাউন্ডেশন- ৪৭৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হাসান ইব্নু মুহাম্মাদ ইব্নু ‘আলী ও তাঁর ভাই ‘আবদুল্লাহ্ তাঁদের পিতা থেকে বর্ণনা করেন যে, ‘আলী (রাঃ) ইব্নু ‘আব্বাস (রাঃ)-কে বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বর যুদ্ধে মুত‘আহ বিয়ে এবং গৃহপালিত গাধার গোশ্ত খাওয়ানিষেধ করেছেন। [৪২১৬] (আধুনিক প্রকাশনী- ৪৭৪০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>5115</td></tr><tr><td>Reference</td><td>Book 67 Hadith 52</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Malik bin Isma'il] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஹம்மத் பின் அலீ (ரஹ்) அவர்களும் அப்துல்லாஹ் பின் அலீ (ரஹ்) அவர்களும் கூறியதாவது: (எம் தந்தை) அலீ (ரலி) அவர்கள் இப்னு அப்பாஸ் (ரலி) அவர்களிடம்,” ‘அல்முத்ஆ’ (தவணைமுறைத்) திருமணத் திற்கும், நாட்டுக் கழுதைகளின் இறைச்சிக் கும் கைபர் போரின்போது நபி (ஸல்) அவர்கள் தடை விதித்தார்கள்” என்று சொன்னார்கள்.58 அத்தியாயம் : 67
+முஹம்மத் பின் அலீ (ரஹ்) அவர்களும் அப்துல்லாஹ் பின் அலீ (ரஹ்) அவர்களும் கூறியதாவது: (எம் தந்தை) அலீ (ரலி) அவர்கள் இப்னு அப்பாஸ் (ரலி) அவர்களிடம்,” ‘அல்முத்ஆ’ (தவணைமுறைத்) திருமணத் திற்கும், நாட்டுக் கழுதைகளின் இறைச்சிக் கும் கைபர் போரின்போது நபி (ஸல்) அவர்கள் தடை விதித்தார்கள்” என்று சொன்னார்கள்.58 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>5115</td></tr><tr><td>Reference</td><td>Book 67 Hadith 52</td></tr></tbody></table></div>
 

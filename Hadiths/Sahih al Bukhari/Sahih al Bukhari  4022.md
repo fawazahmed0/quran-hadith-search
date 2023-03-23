@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কায়স (রহ.) হতে বর্ণিত যে, বদর যুদ্ধে অংশ গ্রহণকারী সাহাবীদের ভাতা পাঁচ হাজার পাঁচ হাজার করে নির্ধারিত ছিল। ‘উমার (রহ.) বলেছেন, অবশ্যই আমি বদর যুদ্ধে শরীক সাহাবীদেরকে পরবর্তী লোকদের হতে অধিক মর্যাদা দেব। (আধুনিক প্রকাশনীঃ ৩৭২৩, ইসলামিক ফাউন্ডেশনঃ ৩৭২৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কায়স (রহ.) হতে বর্ণিত যে, বাদর যুদ্ধে অংশ গ্রহণকারী সাহাবীদের ভাতা পাঁচ হাজার পাঁচ হাজার করে নির্ধারিত ছিল। ‘উমার (রহ.) বলেছেন, অবশ্যই আমি বাদর যুদ্ধে শরীক সাহাবীদেরকে পরবর্তী লোকদের হতে অধিক মর্যাদা দেব। (আধুনিক প্রকাশনীঃ ৩৭২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4022</td></tr><tr><td>Arabic No</td><td>4022</td></tr><tr><td>Reference</td><td>Book 64 Hadith 71</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Qais:The Badr warriors were given five thousand (Dirhams) each, yearly.
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கைஸ் பின் அபீ ஹாஸிம் (ரஹ்) அவர்கள் கூறியதாவது: பத்ர் போரில் கலந்துகொண்டவர்களின் (வருடாந்திர உதவித்) தொகை (நபர் ஒருவருக்கு, தீனார்/திர்ஹம்) ஐயாயிரம், ஐயாயிரமாக இருந்தது. உமர் (ரலி) அவர்கள் (தமது ஆட்சிக் காலத்தின் போது), “(உதவித் தொகையை) மற்றவர்களைவிட இவர்களுக்கு அதிகமாக்கித் தருவேன்” என்று கூறினார்கள். அத்தியாயம் : 64
+கைஸ் பின் அபீ ஹாஸிம் (ரஹ்) அவர்கள் கூறியதாவது: பத்ர் போரில் கலந்துகொண்டவர்களின் (வருடாந்திர உதவித்) தொகை (நபர் ஒருவருக்கு, தீனார்/திர்ஹம்) ஐயாயிரம், ஐயாயிரமாக இருந்தது. உமர் (ரலி) அவர்கள் (தமது ஆட்சிக் காலத்தின் போது), “(உதவித் தொகையை) மற்றவர்களைவிட இவர்களுக்கு அதிகமாக்கித் தருவேன்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4022</td></tr><tr><td>Arabic No</td><td>4022</td></tr><tr><td>Reference</td><td>Book 64 Hadith 71</td></tr></tbody></table></div>
 

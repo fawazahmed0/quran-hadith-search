@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৬৮৫, আন্তর্জাতিক নাম্বারঃ ১৫৭ ৬৬৮৫-(১১/১৫৭) হারমালাহ্ ইবনু ইয়াহইয়া (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন,রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামত সন্নিকটবর্তী হলে ইলম উঠিয়ে নেয়া হবে, ফিতনাহ প্রসার হবে, কৃপণতা বেড়ে যাবে এবং হারজ বৃদ্ধি পাবে। লোকেরা বলল, হারজ কি? তিনি বললেন, কতল (হত্যা)। (ইসলামিক ফাউন্ডেশন ৬৫৪৮, ইসলামিক সেন্টার ৬৬০২)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6792</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

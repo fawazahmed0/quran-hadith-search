@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন আবদিল্লাহ (রহঃ) .... ইউসুফ ইবন আবদিল্লাহ ইবন সালাম (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি যে, তিনি এক ইকরা যবের রুটি নিয়ে তার উপর খেজুর রেখে বলেন, এ হলো এর (রুটির) তরকারি।
+। ইউসুফ ইবনু আব্দুল্লাহ ইবনু সালাম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি দেখলাম নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক টুকরা যবের রুটি নিয়ে তাতে একটি খেজুর রেখে বললেনঃ এই খেজুর এই রুটির তরকারী।[1] দুর্বলঃ মিশকাত (৪২২৩)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3830</td></tr><tr><td>Arabic No</td><td>3830</td></tr><tr><td>Reference</td><td>Book 28 Hadith 95</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৪০০, আন্তর্জাতিক নাম্বারঃ ২১০১ ৫৪০০-(…/...) আবূ বাকর ইবনু আবূ শাইবাহ, ‘আমর আন্‌ নাকিদ, যুহায়র ইবনু হারব, ইবনু নুমায়র ও আবূ কুরায়ব (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পুরুষদেরকে জাফরানী রং-এর কাপড় পরিধান করতে নিষেধ করেছেন। (ইসলামিক ফাউন্ডেশন ৫৩২৯, ইসলামিক সেন্টার ৫৩৪৬)
+(…/...) আবূ বাকর ইবনু আবূ শাইবাহ, ‘আমর আন্‌ নাকিদ, যুহায়র ইবনু হারব, ইবনু নুমায়র ও আবূ কুরায়ব (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পুরুষদেরকে জাফরানী রং-এর কাপড় পরিধান করতে নিষেধ করেছেন। (ইসলামিক ফাউন্ডেশন ৫৩২৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5507</td></tr><tr><td>Arabic No</td><td>2101.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 122</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqi
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் அப்துல்லாஹ் பின் ஸைத் (ரலி) அவர்களிடமிருந்தே மேலும் ஒன்பது அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 37
+மேற்கண்ட ஹதீஸ் அப்துல்லாஹ் பின் ஸைத் (ரலி) அவர்களிடமிருந்தே மேலும் ஒன்பது அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5507</td></tr><tr><td>Arabic No</td><td>2101.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 122</td></tr></tbody></table></div>
 

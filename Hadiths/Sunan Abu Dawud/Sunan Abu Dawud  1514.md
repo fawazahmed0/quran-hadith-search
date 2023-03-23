@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আন- নুফায়লী (রহঃ) ..... আবু বাকর সিদ্দীক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেন, যে ব্যক্তি ইস্তিগফারের (গোনাহে লিপ্ত হওয়ার পর লজ্জিত হয়ে ক্ষমা প্রার্থনা করা) পরে তওবা করে, তবে তা ইসরার (বারবার) হিসাবে গণ্য হবে না; যদিও সে ব্যক্তি দৈনিক সত্তর বারও এরূপ করে। (তিরমিযী)।
+। আবূ বাকর সিদ্দীক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রসূলুলাল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি গুনাহ করার পরপরই ক্ষমা চায়, সে বারবার গুনাহকারী গণ্য হবে না। যদিও সে দৈনিক সত্তর বার ঐ পাপে লিপ্ত হয়।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1514</td></tr><tr><td>Arabic No</td><td>1514</td></tr><tr><td>Reference</td><td>Book 8 Hadith 99</td></tr></tbody></table></div>
 

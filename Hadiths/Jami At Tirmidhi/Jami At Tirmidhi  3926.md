@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৯২৬। ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত আছে। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা ভূমিকে উদ্দেশ্য করে বলেনঃ কতই না পবিত্র ও উত্তম শহর তুমি এবং আমার নিকট তুমি কতই না প্রিয়। আমার স্বজাতি যদি তোমার হতে আমাকে বিতাড়িত না করত তবে আমি তোমাকে ব্যতীত অন্য কোথাও বসবাস করতাম না। সহীহঃ মিশকাত (হাঃ ২৭২৪)। আবূ ঈসা বলেন, উপর্যুক্ত সনদে এ হাদীসটি হাসান সহীহ গারীব।
+। ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত আছে। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাক্কা ভূমিকে উদ্দেশ্য করে বলেনঃ কতই না পবিত্র ও উত্তম শহর তুমি এবং আমার নিকট তুমি কতই না প্রিয়। আমার স্বজাতি যদি তোমার হতে আমাকে বিতাড়িত না করত তবে আমি তোমাকে ব্যতীত অন্য কোথাও বসবাস করতাম না। সহীহঃ মিশকাত (হাঃ ২৭২৪)। আবূ ঈসা বলেন, উপর্যুক্ত সনদে এ হাদীসটি হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3926</td></tr><tr><td>Arabic No</td><td>3926</td></tr><tr><td>Reference</td><td>Book 49 Hadith 326</td></tr></tbody></table></div>
 

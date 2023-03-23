@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যদি বনী ইসরাঈল না হত, তবে গোশ্ত পচে যেত না। আর যদি (মা) হাওয়া (আঃ) না হতেন, তাহলে কক্ষণও কোন নারী তার স্বামীর খেয়ানত করত না। (আধুনিক প্রকাশনীঃ ৩১৪৮, ইসলামিক ফাউন্ডেশনঃ ৩১৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যদি বনী ইসরাঈল না হত, তবে গোশ্ত পচে যেত না। আর যদি (মা) হাওয়া (আঃ) না হতেন, তাহলে কক্ষণও কোন নারী তার স্বামীর খেয়ানত করত না। (আধুনিক প্রকাশনীঃ ৩১৪৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3399</td></tr><tr><td>Arabic No</td><td>3399</td></tr><tr><td>Reference</td><td>Book 60 Hadith 72</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku ['Abdullah bin Muhammad Al Ju'fiy] telah bercerita kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இஸ்ரவேலர்கள் மட்டும் இருந்திரா விட்டால் இறைச்சி துர்நாற்றமெடுக்காது. ஹவ்வா (ஏவாள்) அவர்கள் மட்டும் இருந்திராவிட்டால் பெண், தன் கணவனை எக்காலத்திலும் (ஆசையூட்டி) ஏமாற்ற மாட்டாள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.78 அத்தியாயம் : 60
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இஸ்ரவேலர்கள் மட்டும் இருந்திரா விட்டால் இறைச்சி துர்நாற்றமெடுக்காது. ஹவ்வா (ஏவாள்) அவர்கள் மட்டும் இருந்திராவிட்டால் பெண், தன் கணவனை எக்காலத்திலும் (ஆசையூட்டி) ஏமாற்ற மாட்டாள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.78 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3399</td></tr><tr><td>Arabic No</td><td>3399</td></tr><tr><td>Reference</td><td>Book 60 Hadith 72</td></tr></tbody></table></div>
 

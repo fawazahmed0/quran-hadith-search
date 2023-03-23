@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ তার স্ত্রীর সাথে মিলনের পূর্বে যদি বলে, আল্লাহর নামে আরম্ভ করছি। আল্লাহ্! তুমি আমাদেরকে শয়তান থেকে দূরে রাখ এবং যা আমাদেরকে দান করবে তাকেও শয়তান থেকে দূরে রাখ)- অতঃপর (এ মিলনের দ্বারা) তাদের কিসমতে কোন সন্তান থাকলে শয়তান তার কোন ক্ষতি করতে পারবে না। (৩২৭১, ৩২৮৩, ৫১৬৫, ৬৩৮৮, ৭৩৯৬; মুসলিম ত্বলাক (তালাক) অধ্যায়, অনুচ্ছেদ ১৭ হাঃ ১৪৩৪, আহমাদ ১৯০৮) (আধুনিক প্রকাশনীঃ ১৩৮, ইসলামিক ফাউন্ডেশনঃ ১৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ তার স্ত্রীর সাথে মিলনের পূর্বে যদি বলে, আল্লাহর নামে আরম্ভ করছি। আল্লাহ্! তুমি আমাদেরকে শয়তান থেকে দূরে রাখ এবং যা আমাদেরকে দান করবে তাকেও শয়তান থেকে দূরে রাখ)- অতঃপর (এ মিলনের দ্বারা) তাদের কিসমতে কোন সন্তান থাকলে শয়তান তার কোন ক্ষতি করতে পারবে না। (৩২৭১, ৩২৮৩, ৫১৬৫, ৬৩৮৮, ৭৩৯৬; মুসলিম ত্বলাক (তালাক) অধ্যায়, অনুচ্ছেদ ১৭ হাঃ ১৪৩৪, আহমাদ ১৯০৮) (আধুনিক প্রকাশনীঃ ১৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>141</td></tr><tr><td>Arabic No</td><td>141</td></tr><tr><td>Reference</td><td>Book 4 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் தம் மனைவியிடம் (தாம்பத்திய உறவுகொள்ளும் எண்ணத் தில்) செல்லும்போது, “அல்லாஹ்வின் திருப்யெரால் (பிஸ்மில்லாஹ்); இறைவா! ஷைத்தானை எங்களைவிட்டு விலக்கி வைப்பாயாக! எங்களுக்கு நீ அளிக்கின்ற குழந்தைச் செல்வத்திலிருந்தும் ஷைத் தானை விலக்கிவைப்பாயாக!” என்று பிரார்த்தித்து(விட்டு உறவு கொண்டு), அதன் மூலம் அவ்விருவருக்கும் குழந்தை வழங்கப்படுமானால் அக்குழந் தைக்கு ஷைத்தான் தீங்கு விளைவிப்ப தில்லை. இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 4
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் தம் மனைவியிடம் (தாம்பத்திய உறவுகொள்ளும் எண்ணத் தில்) செல்லும்போது, “அல்லாஹ்வின் திருப்யெரால் (பிஸ்மில்லாஹ்); இறைவா! ஷைத்தானை எங்களைவிட்டு விலக்கி வைப்பாயாக! எங்களுக்கு நீ அளிக்கின்ற குழந்தைச் செல்வத்திலிருந்தும் ஷைத் தானை விலக்கிவைப்பாயாக!” என்று பிரார்த்தித்து(விட்டு உறவு கொண்டு), அதன் மூலம் அவ்விருவருக்கும் குழந்தை வழங்கப்படுமானால் அக்குழந் தைக்கு ஷைத்தான் தீங்கு விளைவிப்ப தில்லை. இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>141</td></tr><tr><td>Arabic No</td><td>141</td></tr><tr><td>Reference</td><td>Book 4 Hadith 7</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a., Nebi (Sallallahu aleyhi ve Sellem)'den şunu rivayet etmiştir: "Sizden biri eşi ile cinsel ilişkide bulunacağı zaman: Bismillah, Allahümme cennibne'ş-şeytâne ve cennibi'ş-şeytâne mâ razaktenâ (Bismillah, Allah'ım bizi şeytandan uzak tut, şeytanı da bize rızık olarak vereceğin (çocuktan) uzak tut) derse ve o İlişki sebebiyle bir çocuklarının olması takdir edilirse şeytan ona zarar veremez. Tekrar: 3271, 3233. 5165 6388, 7396
+İbn Abbas r.a., Nebi (Sallallahu aleyhi ve Sellem)'den şunu rivayet etmiştir: "Sizden biri eşi ile cinsel ilişkide bulunacağı zaman: Bismillah, Allahümme cennibne'ş-şeytâne ve cennibi'ş-şeytâne mâ razaktenâ (Bismillah, Allah'ım bizi şeytandan uzak tut, şeytanı da bize rızık olarak vereceğin (çocuktan) uzak tut) derse ve o İlişki sebebiyle bir çocuklarının olması takdir edilirse şeytan ona zarar veremez. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>141</td></tr><tr><td>Arabic No</td><td>141</td></tr><tr><td>Reference</td><td>Book 4 Hadith 7</td></tr></tbody></table></div>
 

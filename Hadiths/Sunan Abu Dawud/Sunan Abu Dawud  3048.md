@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন বাশশার (রহঃ) ..... আতা (রহঃ) বাকর ইবন ওয়াইল সম্প্রদায়ের জনৈক ব্যক্তি হতে শ্রবণ করেছেন, যিনি তার মামার নিকট হতে বর্ণনা করেছেন। তিনি বলেনঃ আমি জিজ্ঞাসা করি, ইয়া রাসূলাল্লাহ! আমি কি আমার কওমের নিকট হতে উশর আদায় করব? জবাবে তিনি বলেনঃ উশর তো কেবল ইয়াহূদ ও নাসারাদের (তিজারতী মালের) উপর ধার্য হয়ে থাকে।
+। ‘আতা (রহঃ) সূত্রে বর্ণিত। তিনি বাকর ইবনু ওয়াইল গোত্রের জনৈক ব্যক্তি থেকে শুনেছেন যিনি তার মামা থেকে বর্ণনা করেছেন। তিনি বলেন, আমি বলি, হে আল্লাহ রাসূল! আমি কি আমার গোত্রের লোকদের নিকট থেকে উশর আদায় করবো? তিনি বললেনঃ উশর ইয়াহুদী ও খৃষ্টানদের উপর ধার্য হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3048</td></tr><tr><td>Arabic No</td><td>3048</td></tr><tr><td>Reference</td><td>Book 20 Hadith 121</td></tr></tbody></table></div>
 

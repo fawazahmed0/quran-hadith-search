@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৪২, আন্তর্জাতিক নাম্বারঃ ২৮১ ৫৪২-(৯৪/২৮১) ইয়াহইয়া ইবনু ইয়াহইয়া, মুহাম্মাদ ইবনু রুমহ (রহঃ) ও কুতাইবাহ (রহঃ) ..... জাবির (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জমা পানিতে প্রস্রাব করতে নিষেধ করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৫৪৬, ইসলামিক সেন্টারঃ ৫৬২)
+ইয়াহইয়া ইবনু ইয়াহইয়া, মুহাম্মাদ ইবনু রুমহ (রহঃ) ও কুতাইবাহ (রহঃ) ..... জাবির (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জমা পানিতে প্রস্রাব করতে নিষেধ করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৫৪৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>281</td></tr><tr><td>Reference</td><td>Book 2 Hadith 121</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] ked
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: தேங்கி நிற்கும் தண்ணீரில் சிறுநீர் கழிக்க வேண்டாம் என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 2
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: தேங்கி நிற்கும் தண்ணீரில் சிறுநீர் கழிக்க வேண்டாம் என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>281</td></tr><tr><td>Reference</td><td>Book 2 Hadith 121</td></tr></tbody></table></div>
 

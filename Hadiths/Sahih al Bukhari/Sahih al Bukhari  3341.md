@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (ইবনু মাস‘ঊদ) (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সকল ক্বারীদের ক্বিরাআতের মত فَهَلْ مِنْ مُدَّكِرٍ তিলাওয়াত করেছেন। (৩৩৪৫, ৩৩৭৬, ৪৮৬৯, ৪৮৭০, ৪৮৭১, ৪৮৭২, ৪৮৭৩, ৪৮৭৪) (আধুনিক প্রকাশনীঃ ৩০৯৪, ইসলামিক ফাউন্ডেশনঃ ৩১০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (ইবনু মাস‘ঊদ) (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সকল ক্বারীদের ক্বিরাআতের মত فَهَلْ مِنْ مُدَّكِرٍ তিলাওয়াত করেছেন। (৩৩৪৫, ৩৩৭৬, ৪৮৬৯, ৪৮৭০, ৪৮৭১, ৪৮৭২, ৪৮৭৩, ৪৮৭৪) (আধুনিক প্রকাশনীঃ ৩০৯৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3341</td></tr><tr><td>Arabic No</td><td>3341</td></tr><tr><td>Reference</td><td>Book 60 Hadith 16</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah:Allah's Messenger (ﷺ) recited the following Verse) in the usual tone: 'Fahal-Min-Muddalkir.' (54.15)
+Narrated 'Abdullah:Allah's Messenger (ﷺ) recited the following Verse) in the usual tone: 'Fahal-Min-Muddalkir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3341</td></tr><tr><td>Arabic No</td><td>3341</td></tr><tr><td>Reference</td><td>Book 60 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Nashr bin 'Ali] telah mengabarkan kepada kami [Abu 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் யிஃபஹல் மின்(ம்) முத்தகிர் (அறிவுரை பெறுபவர் எவராவது இருக்கின்றாரா?) எனும் (குர்ஆனின் 54ஆவது அத்தியாயத்தில் இடம்பெற்றுள்ள) இறைவசனத்தைப் பொதுவாக மக்கள் ஓதும் பிரபலமான முறைப்படி யிஃப ஹல்மின்(ம்) முத்தகிர்’ என்றே ஓதினார்கள். (வெகுசிலர் ஓதுவதைப்போல் யிமுஸ்தகிர்’ என்று பிரித்தோ, வேறொரு முறைப்படி யிமுஸ்ஸக்கிர்’ என்றோ ஓதவில்லை)14 அத்தியாயம் : 60
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் யிஃபஹல் மின்(ம்) முத்தகிர் (அறிவுரை பெறுபவர் எவராவது இருக்கின்றாரா?) எனும் (குர்ஆனின் 54ஆவது அத்தியாயத்தில் இடம்பெற்றுள்ள) இறைவசனத்தைப் பொதுவாக மக்கள் ஓதும் பிரபலமான முறைப்படி யிஃப ஹல்மின்(ம்) முத்தகிர்’ என்றே ஓதினார்கள். (வெகுசிலர் ஓதுவதைப்போல் யிமுஸ்தகிர்’ என்று பிரித்தோ, வேறொரு முறைப்படி யிமுஸ்ஸக்கிர்’ என்றோ ஓதவில்லை)14 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3341</td></tr><tr><td>Arabic No</td><td>3341</td></tr><tr><td>Reference</td><td>Book 60 Hadith 16</td></tr></tbody></table></div>
 

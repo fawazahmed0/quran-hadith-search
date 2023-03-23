@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জারীর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি যখন ইসলাম গ্রহণ করেছি তখন থেকে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে তাঁর নিকট প্রবেশ করতে বাধা দেননি এবং যখনই তিনি আমার চেহারার দিকে তাকাতেন তখন তিনি মুচকি হাসতেন। (৩৮২২, ৬০৯০) (ইসলামিক ফাউন্ডেশনঃ ২৮১৯ প্রথমাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>3035</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

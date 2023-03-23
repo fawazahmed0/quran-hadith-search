@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, হে ভাগ্নে! নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার নিকট উপস্থিত থাকার কালে ‘আসরের পরবর্তী দু’রাক‘আত কখনও ছাড়েননি। (৫৯০; মুসলিম ৬/৫৩, হাঃ ৮৩৫) (আধুনিক প্রকাশনীঃ ৫৫৬, ইসলামিক ফাউন্ডেশনঃ ৫৬৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, হে ভাগ্নে! নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার নিকট উপস্থিত থাকার কালে ‘আসরের পরবর্তী দু’রাক‘আত কখনও ছাড়েননি। (৫৯০; মুসলিম ৬/৫৩, হাঃ ৮৩৫) (আধুনিক প্রকাশনীঃ ৫৫৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 9 Hadith 66</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்கள் (என்னிடம்), “என் சகோதரி (அஸ்மாவின்) மகனே! அஸ்ர் தொழுகைக்குப்பின் இரண்டு சஜ்தாக்கள் (ரக்அத்கள்) தொழுவதை என்னிடம் இருக்கும்போது நபி (ஸல்) அவர்கள் ஒருபோதும் கைவிட்டதில்லை” என்று சொன்னார்கள். அத்தியாயம் : 9
+உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்கள் (என்னிடம்), “என் சகோதரி (அஸ்மாவின்) மகனே! அஸ்ர் தொழுகைக்குப்பின் இரண்டு சஜ்தாக்கள் (ரக்அத்கள்) தொழுவதை என்னிடம் இருக்கும்போது நபி (ஸல்) அவர்கள் ஒருபோதும் கைவிட்டதில்லை” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 9 Hadith 66</td></tr></tbody></table></div>
 

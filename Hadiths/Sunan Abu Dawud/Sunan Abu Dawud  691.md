@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবনু মুহাম্মাদ .... সুফিয়ান ইবনু উয়ায়না (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি শারীক (রহঃ)-কে দেখেছি, তিনি এক জানাযায় হাযির হয়ে আমাদের সাথে আসরের নামায পড়েন তিনি (সুতরা স্বরূপ) নিজের টুপি সামনে রাখেন।
+। সুফিয়ান ইবনু ‘উয়ায়নাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি শারীক (রাঃ)-কে দেখেছি, তিনি এক জানাযার সালাত আদায় করতে এসে আমাদের সাথে ‘আসরের সালাত আদায় করলেন। তিনি (উক্ত ফরয সালাতে সুতরাহ হিসেবে) নিজের টুপি (খুলে) সামনে রাখলেন।[1] সহীহ মাক্বতূ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>691</td></tr><tr><td>Arabic No</td><td>691</td></tr><tr><td>Reference</td><td>Book 2 Hadith 301</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮০২। আইশা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নারী-পুরুষ উভয়কে গোসলখানায় যেতে বারণ করেছিলেন। পরে অবশ্য পুরুষের লুঙ্গি পরে সেখানে যাবার সম্মতি দিয়েছেন। যঈফ, ইবনু মাজাহ (২৭৪৯) আবূ ঈসা বলেন, আমরা শুধুমাত্র হাম্মাদ ইবনু সালামার রিওয়ায়াত হিসাবে এ হাদীস জেনেছি। এ হাদীসের সনদসূত্র খুব দৃঢ় নয়।
+। আইশা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নারী-পুরুষ উভয়কে গোসলখানায় যেতে বারণ করেছিলেন। পরে অবশ্য পুরুষের লুঙ্গি পরে সেখানে যাবার সম্মতি দিয়েছেন। যঈফ, ইবনু মাজাহ (২৭৪৯) আবূ ঈসা বলেন, আমরা শুধুমাত্র হাম্মাদ ইবনু সালামার রিওয়ায়াত হিসাবে এ হাদীস জেনেছি। এ হাদীসের সনদসূত্র খুব দৃঢ় নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2802</td></tr><tr><td>Arabic No</td><td>2802</td></tr><tr><td>Reference</td><td>Book 43 Hadith 75</td></tr></tbody></table></div>
 

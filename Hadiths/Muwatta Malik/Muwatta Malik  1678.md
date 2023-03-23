@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৮. যায়দ ইবন আসলাম (রহঃ) হইতে, তিনি ইবন বুজাইদ আনসারী আল হারেসী (রাঃ) হইতে এবং তিনি তাহার দাদা হইতে রেওয়ায়ত করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করিয়াছেন যে, মিসকীনদেরকে (যাহা কিছু সম্ভব হয়) দাও, যদিও পোড়া খুর হউক না কেন।[1]
+রেওয়ায়ত ৮. যায়দ ইবন আসলাম (রহঃ) হইতে, তিনি ইবন বুজাইদ আনসারী আল হারেসী (রাঃ) হইতে এবং তিনি তাহার দাদা হইতে রেওয়ায়ত করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করিয়াছেন যে, মিসকীনদেরকে (যাহা কিছু সম্ভব হয়) দাও, যদিও পোড়া খুর হউক না কেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1678</td></tr><tr><td>Arabic No</td><td>1678</td></tr><tr><td>Reference</td><td>Book 49 Hadith 8</td></tr></tbody></table></div>
 

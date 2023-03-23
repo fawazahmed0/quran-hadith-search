@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৩০৪। হাকীম ইবনে জাবির (রহঃ) থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বাড়িতে তাঁর নিকট উপস্থিত হলাম। তখন তাঁর সামনে লাউয়ের তরকারী ছিল। আমি জিজ্ঞাসা করলাম, এটা কী? তিনি বলেনঃ এটা লাউ তরকারী। আমরা তা দিয়ে আমাদের খাদ্যদ্রব্যের পরিমাণ বাড়াই।
+। হাকীম ইবনে জাবির (রহঃ) থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বাড়িতে তাঁর নিকট উপস্থিত হলাম। তখন তাঁর সামনে লাউয়ের তরকারী ছিল। আমি জিজ্ঞাসা করলাম, এটা কী? তিনি বলেনঃ এটা লাউ তরকারী। আমরা তা দিয়ে আমাদের খাদ্যদ্রব্যের পরিমাণ বাড়াই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3304</td></tr><tr><td>Arabic No</td><td>3304</td></tr><tr><td>Reference</td><td>Book 29 Hadith 54</td></tr></tbody></table></div>
 

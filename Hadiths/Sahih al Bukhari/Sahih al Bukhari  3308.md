@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘পিঠে দু’টি সাদা রেখাওয়ালা সাপকে হত্যা কর। কেননা এ জাতীয় সাপ দৃষ্টিশক্তি বিনষ্ট করে আর গর্ভপাত ঘটায়।’ (৩৩০৯) (আধুনিক প্রকাশনীঃ ৩০৬৪, ইসলামিক ফাউন্ডেশনঃ ৩০৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘পিঠে দু’টি সাদা রেখাওয়ালা সাপকে হত্যা কর। কেননা এ জাতীয় সাপ দৃষ্টিশক্তি বিনষ্ট করে আর গর্ভপাত ঘটায়।’ (৩৩০৯) (আধুনিক প্রকাশনীঃ ৩০৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 59 Hadith 116</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Ubaid bin Isma'il] telah bercerita kepada kami [Ab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: முதுகில் இரண்டு வெள்ளைக் கோடு கள் உள்ள (துத்துஃப்யத்தைன் என்னும்) பாம்பைக் கொல்லுங்கள். ஏனெனில், அது (கண்) பார்வையைப் பறித்துவிடும்; கர்ப்பத்தைக் கலைத்துவிடும்.110 இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 59
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: முதுகில் இரண்டு வெள்ளைக் கோடு கள் உள்ள (துத்துஃப்யத்தைன் என்னும்) பாம்பைக் கொல்லுங்கள். ஏனெனில், அது (கண்) பார்வையைப் பறித்துவிடும்; கர்ப்பத்தைக் கலைத்துவிடும்.110 இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 59 Hadith 116</td></tr></tbody></table></div>
 

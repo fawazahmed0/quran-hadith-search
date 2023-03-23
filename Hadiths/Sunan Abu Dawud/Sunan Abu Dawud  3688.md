@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ...... মালিক ইবন আবূ মারয়াম (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আবদুর রহমান ইবন গানাম (রাঃ) আমাদের নিকট আসে। তখন আমরা তাঁর সঙ্গে তিলা সম্পর্কে আলোচনা করি। তিনি বলেন, আমার নিকট আবূ মূসা আশ'আরী (রাঃ) হাদীছ বর্ণনা করেছেন যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপ বলতে শুনেছেনঃ আমার উম্মতের কিছু লোক শরাব পান করবে এবং এর নাম শরাব ছাড়া অন্য কিছু রাখবে।
+। মালিক ইবনু আবূ মারইয়াম (রহঃ)-এর সূত্রে বর্ণিত। তিনি বলেন, একদা আব্দুর রাহমান ইবনু গানম (রহঃ) আমাদের নিকট আসলে আমরা ‘তিলাআ’ সম্পর্কে উল্লেখ করলাম। তিনি বললেন, আবূ মালিক আল-আশ‘আরী (রাঃ) আমাকে বলেছেন যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ আমার উম্মাতের একদল লোক মদ পান করবে এবং তারা একে ভিন্ন নামে অভিহিত করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3688</td></tr><tr><td>Arabic No</td><td>3688</td></tr><tr><td>Reference</td><td>Book 27 Hadith 20</td></tr></tbody></table></div>
 

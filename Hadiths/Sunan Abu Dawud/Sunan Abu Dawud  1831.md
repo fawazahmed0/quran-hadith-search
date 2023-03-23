@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ (রহঃ) .... আবদুল্লাহ ইবন উমার (রাঃ) মুহরিম স্ত্রীলোকদের (লম্বা) মোজা কেটে দিতেন। অতঃপর তাঁর স্ত্রী সাফিয়্যা বিনতে আবূ উবায়দ তাঁর নিকট বর্ণনা করেন যে, আয়েশা (রাঃ) তাঁকে বলেছেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুহরিম স্ত্রীলোকদের মোজা পরিধানের অনুমতি প্রদান করেছেন (লম্বা অংশ কর্তন ব্যতীত)। ফলে তিনি (ইবন উমার) তা কর্তন করা থেকে বিরত থাকেন।
+। সালিম (রহ.) সূত্রে বর্ণিত। ‘আব্দুল্লাহ ইবনু ‘উমার (রাযি.) মুহরিম নারীর জন্য মোজার উপরের অংশ কেটে ব্যবহারের অনুমতি দিতেন। পরে সাফিয়্যাহ বিনতু আবূ ‘উবাইদ (রহ.) তাকে বর্ণনা করেন যে, ‘আয়িশাহ (রাঃ) তাকে বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নারীদেরকে মোজা পরার অনুমতি দিয়েছেন। এরপর তিনি তা কর্তন করা বাদ দেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1831</td></tr><tr><td>Arabic No</td><td>1831</td></tr><tr><td>Reference</td><td>Book 11 Hadith 111</td></tr></tbody></table></div>
 

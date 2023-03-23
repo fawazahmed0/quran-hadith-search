@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হায়ওয়াত শুরায়হ্ .... আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ চক্ষু হল পাশ্চাদ্বারের সংরক্ষণকারী। অতএব যে ব্যক্তি চোখ মুদে নিদ্রা যায় সে যেন উযূ (ওজু/অজু/অযু) করে।
+। ‘আলী ইবনু আবূ তালিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ চক্ষুদ্বয় হচ্ছে পশ্চাৎদ্বারের সংরক্ষণকারী। কাজেই যে ব্যক্তি (চোখ বন্ধ করে) ঘুমায়, সে যেন অযু করে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>203</td></tr><tr><td>Arabic No</td><td>203</td></tr><tr><td>Reference</td><td>Book 1 Hadith 203</td></tr></tbody></table></div>
 

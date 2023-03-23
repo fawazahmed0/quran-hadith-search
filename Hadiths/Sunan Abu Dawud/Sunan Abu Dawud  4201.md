@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্‌ন নুফায়ল (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমরা হাজ্জ ও উমরা ব্যতীত সব সময় দাঁড়ি লম্বা রাখতাম। ইমাম আবূ দাউদ (রহঃ) বলেনঃ ‘ইস্‌তিহ্‌দাদ’ শব্দের অর্থ হলোঃ নাভীর নীচের চুল মুণ্ডন করা।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা হজ (হজ্জ) ও উমরা ছাড়া দাঁড়ির সম্মুখ ভাগ লম্বা করে রাখতাম। ইমাম আবূ দাঊদ (রহঃ) বলেন, অর্থাৎ নাভির নীচের লোম কামিয়ে ফেলা।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4201</td></tr><tr><td>Arabic No</td><td>4201</td></tr><tr><td>Reference</td><td>Book 35 Hadith 43</td></tr></tbody></table></div>
 

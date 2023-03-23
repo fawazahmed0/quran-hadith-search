@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৪১৭১। আবূ আইউব (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে বললো, হে আল্লাহর রাসূল! আমাকে সংক্ষেপে শিখিয়ে দিন। তিনি বলেনঃ যখন তুমি তোমার নামাযে দাঁড়াবে, তখন এমনভাবে নামায পড়ো, যেন এটাই তোমার শেষ নামায। তুমি এমন কথা বলো না, যার জন্য তোমাকে কৈফিয়ত দিতে হবে। আর মানুষের হাতে যা আছে তা থেকে নিরাশ হয়ে যাওয়ার ব্যাপারে দৃঢ় প্রতিজ্ঞ হও।
+। আবূ আইউব (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে বললো, হে আল্লাহর রাসূল! আমাকে সংক্ষেপে শিখিয়ে দিন। তিনি বলেনঃ যখন তুমি তোমার নামাযে দাঁড়াবে, তখন এমনভাবে নামায পড়ো, যেন এটাই তোমার শেষ নামায। তুমি এমন কথা বলো না, যার জন্য তোমাকে কৈফিয়ত দিতে হবে। আর মানুষের হাতে যা আছে তা থেকে নিরাশ হয়ে যাওয়ার ব্যাপারে দৃঢ় প্রতিজ্ঞ হও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4171</td></tr><tr><td>Arabic No</td><td>4171</td></tr><tr><td>Reference</td><td>Book 37 Hadith 72</td></tr></tbody></table></div>
 

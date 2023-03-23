@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৪০৭, আন্তর্জাতিক নাম্বারঃ ১৪২৯ ৩৪০৭-(১০২/...) হুমায়দ ইবনু মাস'আদাহ্ আল বাহিলী (রহঃ) ..... 'আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ “যখন তোমাদেরকে দাওয়াত দেয়া হয় তখন তোমরা দাওয়াতে আসবে।" (ইসলামিক ফাউন্ডেশন ৩৩৮০, ইসলামীক সেন্টার ৩৩৭৯)
+হুমায়দ ইবনু মাস'আদাহ্ আল বাহিলী (রহঃ) ..... 'আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ “যখন তোমাদেরকে দাওয়াত দেয়া হয় তখন তোমরা দাওয়াতে আসবে।" (ইসলামিক ফাউন্ডেশন ৩৩৮০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3515</td></tr><tr><td>Arabic No</td><td>1429.07</td></tr><tr><td>Reference</td><td>Book 16 Hadith 118</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Abdullah b. Umar (Allah be pleased with them) reported Allah's Messen- ger (ﷺ)
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் விருந்துக்கு அழைக்கப்பட்டால் செல்லுங்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 16
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் விருந்துக்கு அழைக்கப்பட்டால் செல்லுங்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3515</td></tr><tr><td>Arabic No</td><td>1429.07</td></tr><tr><td>Reference</td><td>Book 16 Hadith 118</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... উম্মে সালামা (রাঃ) এর সনদে পূর্বোক্ত ঘটনা বর্ণিত হয়েছে। এই বর্ণনায় আছে, মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সে (হায়েযের পরিমাণ সময়) নামায ছেড়ে দেবে, এরপর থেকে গোসল করে কাপড়ের সাহায্যে (লজ্জাস্থানে) পট্টি বেঁধে নামায পড়বে। ইমাম আবূ দাউদ (রহঃ) বলেন, এই হাদীছে উল্লেখিত রক্তপ্রদর রোগিণীর নাম, হাম্মাদ (রহঃ) আইউবের সূত্রে- ফাতিমা বিনতে আবূ হুবায়েশ বলে উল্লেখ করেছেন।
+। সুলায়মান ইবনু ইয়াসার হতে উম্মু সালামাহ (রাঃ) সূত্রে উক্ত ঘটনা বর্ণিত হয়েছে। তাতে রয়েছে, সে যেন (হায়িযের সময়সীমার দিনগুলোতে) সালাত ছেড়ে দেয়। এছাড়া এর পরের দিনগুলোতে সে যেন গোসল করে (লজ্জাস্থানে) কাপড়ের নেকড়া বেঁধে সালাত আদায় করে। ইমাম আবূ দাউদ (রহঃ) বলেন, হাম্মাদ ইবনু যায়িদ (রহঃ) আইয়ুব সূত্রে বলেছেন, এ হাদীসে বর্ণিত উক্ত রক্তপ্রদর রোগীনীর নাম ফাতিমাহ বিনতু আবূ হুবাইশ (রাঃ)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>278</td></tr><tr><td>Arabic No</td><td>278</td></tr><tr><td>Reference</td><td>Book 1 Hadith 278</td></tr></tbody></table></div>
 

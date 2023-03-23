@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৩৬৮, আন্তর্জাতিক নাম্বারঃ ১০৭১ ২৩৬৮-(১৬৪/১০৭১) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাস্তায় একটি খেজুর পেয়ে বললেন, যদি এটা সদাকার খেজুর হওয়ার সম্ভাবনা না থাকত তাহলে আমি এটা খেয়ে নিতাম। (ইসলামিক ফাউন্ডেশন ২৩৪৬, ইসলামীক সেন্টার ২৩৪৬)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাস্তায় একটি খেজুর পেয়ে বললেন, যদি এটা সদাকার খেজুর হওয়ার সম্ভাবনা না থাকত তাহলে আমি এটা খেয়ে নিতাম। (ইসলামিক ফাউন্ডেশন ২৩৪৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2478</td></tr><tr><td>Arabic No</td><td>1071.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 215</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு பேரீச்சம் பழத்தைக் கண்டபோது, "இது தர்மப்பொருளாக இருக்காது என்றிருந்தால் இதை நான் சாப்பிட்டிருப்பேன்" என்றார்கள். அத்தியாயம் : 12
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு பேரீச்சம் பழத்தைக் கண்டபோது, "இது தர்மப்பொருளாக இருக்காது என்றிருந்தால் இதை நான் சாப்பிட்டிருப்பேன்" என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2478</td></tr><tr><td>Arabic No</td><td>1071.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 215</td></tr></tbody></table></div>
 

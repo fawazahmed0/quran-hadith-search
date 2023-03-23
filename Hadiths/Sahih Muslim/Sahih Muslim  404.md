@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৯৪, আন্তর্জাতিক নাম্বারঃ ১৬০ ২৯৪-(২৫৩/...) মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, ‘প্রথম অবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট যে ওয়াহীর সূচনা হয়...। অতঃপর হাদীসের অবশিষ্টাংশ ইউনুসের বর্ণিত হাদীসের অনুরূপ বর্ণিত হয়েছে। তবে এখানে কিছুটা শব্দগত পার্থক্য রয়েছে। যেমন- খাদীজাহ (রাযিঃ) বলেন, আল্লাহর শপথ! আল্লাহ আপনাকে কখনো দুশ্চিন্তায় নিক্ষেপ করবেন না। খাদীজাহ (রাযিঃ) ওয়ারাকাকে সম্বোধন করে বললেন, হে আমার চাচাতো ভাই! আপনার ভাতিজা কি বলে তা শুনেন। (ইসলামিক ফাউন্ডেশনঃ ৩০১, ইসলামিক সেন্টারঃ ৩১২)
+মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, ‘প্রথম অবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট যে ওয়াহীর সূচনা হয়...। অতঃপর হাদীসের অবশিষ্টাংশ ইউনুসের বর্ণিত হাদীসের অনুরূপ বর্ণিত হয়েছে। তবে এখানে কিছুটা শব্দগত পার্থক্য রয়েছে। যেমন- খাদীজাহ (রাযিঃ) বলেন, আল্লাহর শপথ! আল্লাহ আপনাকে কখনো দুশ্চিন্তায় নিক্ষেপ করবেন না। খাদীজাহ (রাযিঃ) ওয়ারাকাকে সম্বোধন করে বললেন, হে আমার চাচাতো ভাই! আপনার ভাতিজা কি বলে তা শুনেন। (ইসলামিক ফাউন্ডেশনঃ ৩০১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>404</td></tr><tr><td>Arabic No</td><td>160.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith has been narrated on the authority of 'A'isha with another chain of 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில் ("அல்லாஹ்வின் மீதாணையாக! உங்களை ஒருபோதும் அல்லாஹ் இழிவுபடுத்த மாட்டான்" எனும் வாசகத்திற்கு பதிலாக) "அல்லாஹ்வின் மீதாணையாக! உங்களை ஒருபோதும் அல்லாஹ் கவலையில் ஆழ்த்தமாட்டான்" என்று (கதீஜா (ரலி) அவர்கள் ஆறுதல் கூறியதாக) இடம்பெற்றுள்ளது. அவ்வாறே ("என் தந்தையின் சகோதரரே!" என்று வரக்காவிடம் கூறியதற்கு பதிலாக) "என் தந்தையின் சகோதரர் புதல்வரே!" என கதீஜா (ரலி) அவர்கள் கூறியதாகவும் இடம்பெற்றுள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில் ("அல்லாஹ்வின் மீதாணையாக! உங்களை ஒருபோதும் அல்லாஹ் இழிவுபடுத்த மாட்டான்" எனும் வாசகத்திற்கு பதிலாக) "அல்லாஹ்வின் மீதாணையாக! உங்களை ஒருபோதும் அல்லாஹ் கவலையில் ஆழ்த்தமாட்டான்" என்று (கதீஜா (ரலி) அவர்கள் ஆறுதல் கூறியதாக) இடம்பெற்றுள்ளது. அவ்வாறே ("என் தந்தையின் சகோதரரே!" என்று வரக்காவிடம் கூறியதற்கு பதிலாக) "என் தந்தையின் சகோதரர் புதல்வரே!" என கதீஜா (ரலி) அவர்கள் கூறியதாகவும் இடம்பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>404</td></tr><tr><td>Arabic No</td><td>160.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ This hadith has been narrated on the authority of 'A'isha with another chain of 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Muhammed b. Rafi' de tahdis etti. Bize Abdurrezzak tahdis etti, bize Ma'mer haber verip dedi ki: Zühri dedi ki: Bana Urve, Aişe'den onun şöyle dediğini de haber verdi. Resulullah (Sallallahu aleyhi ve Sellem)'e vahyin ilk gelişi şöyle olmuştur. Sonra da (Ma'mer) hadisi Yunus'un naklettiği şeklide nakletti ancak o rivayetinde şöyle dedi: Allah'a yemin olsun ki Allah seni ebediyen mahcup etmeyecektir. Ayrıca dedi ki: Hatice: Ey amcaoğlu, kardeşinin oğlunu dinle, dedi. Diğer tahric: Buhari, 6972, 4956; Tuhfetu'l-Eşraf, 16637
+Bana Muhammed b. Rafi' de tahdis etti. Bize Abdurrezzak tahdis etti, bize Ma'mer haber verip dedi ki: Zühri dedi ki: Bana Urve, Aişe'den onun şöyle dediğini de haber verdi. Resulullah (Sallallahu aleyhi ve Sellem)'e vahyin ilk gelişi şöyle olmuştur. Sonra da (Ma'mer) hadisi Yunus'un naklettiği şeklide nakletti ancak o rivayetinde şöyle dedi: Allah'a yemin olsun ki Allah seni ebediyen mahcup etmeyecektir. Ayrıca dedi ki: Hatice: Ey amcaoğlu, kardeşinin oğlunu dinle, dedi. Diğer tahric: Buhari, 6972, 4956; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>404</td></tr><tr><td>Arabic No</td><td>160.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
 

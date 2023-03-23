@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৯২৩, আন্তর্জাতিক নাম্বারঃ ২৭৭৫ ৬৯২৩-(…/...) আবূ বাকর ইবনু খাল্লাদ আল বাহিলী ও ইয়াহইয়া (রহঃ) ..... আবদুল্লাহ (রাযিঃ) থেকে অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৭৭৩, ইসলামিক সেন্টার ৬৮২৮)
+(…/...) আবূ বাকর ইবনু খাল্লাদ আল বাহিলী ও ইয়াহইয়া (রহঃ) ..... আবদুল্লাহ (রাযিঃ) থেকে অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৭৭৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7030</td></tr><tr><td>Arabic No</td><td>2775.02</td></tr><tr><td>Reference</td><td>Book 51 Hadith 7</td></tr></tbody></table></div>
 

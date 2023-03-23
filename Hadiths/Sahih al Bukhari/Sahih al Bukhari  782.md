@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবু হুরাইরাহ্ (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইমাম غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلاَ الضَّالِّينَ পড়লে তোমরা ‘আমীন’ বলো। কেননা, যার এ (আমীন) বলা মালাকগণের (আমীন) বলার সাথে একই সময় হয়, তার পূর্বের সব গুনাহ মাফ করে দেয়া হয়। মুহাম্মাদ ইবনু ‘আমর (রহ.) আবূ সালামাহ (রহ.) সূত্রে আবূ হুরাইরাহ্ (রাযি.)-এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এবং নু‘আইম- মুজমির (রহ.) আবূ হুরাইরাহ্ (রাযি.) হতে হাদীস বর্ণনায় সুমাই (রহ.)-এর অনুসরণ করেছেন। (৪৪৭৫) (আধুনিক প্রকাশনীঃ ৭৩৮, ইসলামিক ফাউন্ডেশনঃ ৭৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবু হুরাইরাহ্ (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইমাম غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلاَ الضَّالِّينَ পড়লে তোমরা ‘আমীন’ বলো। কেননা, যার এ (আমীন) বলা মালাকগণের (আমীন) বলার সাথে একই সময় হয়, তার পূর্বের সব গুনাহ মাফ করে দেয়া হয়। মুহাম্মাদ ইবনু ‘আমর (রহ.) আবূ সালামাহ (রহ.) সূত্রে আবূ হুরাইরাহ্ (রাযি.)-এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এবং নু‘আইম- মুজমির (রহ.) আবূ হুরাইরাহ্ (রাযি.) হতে হাদীস বর্ণনায় সুমাই (রহ.)-এর অনুসরণ করেছেন। (৪৪৭৫) (আধুনিক প্রকাশনীঃ ৭৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 10 Hadith 177</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Sumay
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (தொழுகையில்) இமாம், “ஃகைரில் மஃக்ளூபி அலைஹிம் வலள் ளால்லீன்” என்று ஓதியவுடன் நீங்கள், “ஆமீன் (அவ்வாறே ஆகட்டும்)” என்று சொல்லுங்கள். ஏனெனில், யார் ‘ஆமீன்’ கூறு(ம் நேரமா) வது வானவர்கள் ‘ஆமீன்’ கூறுகின்ற (நேரத்)துடன் ஒத்தமைந்து விடுகின்றதோ அவர் அதற்குமுன் செய்த பாவங்கள் மன்னிக்கப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 10
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (தொழுகையில்) இமாம், “ஃகைரில் மஃக்ளூபி அலைஹிம் வலள் ளால்லீன்” என்று ஓதியவுடன் நீங்கள், “ஆமீன் (அவ்வாறே ஆகட்டும்)” என்று சொல்லுங்கள். ஏனெனில், யார் ‘ஆமீன்’ கூறு(ம் நேரமா) வது வானவர்கள் ‘ஆமீன்’ கூறுகின்ற (நேரத்)துடன் ஒத்தமைந்து விடுகின்றதோ அவர் அதற்குமுன் செய்த பாவங்கள் மன்னிக்கப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 10 Hadith 177</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Sumay
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "İmam غير المغضوب عليهم ولا الضالين […ğayri’l-mağdubi aleyhim veleddaaaalliiin] dediği zaman siz de âmîn âmîn deyin. Zira meleklerle aynı anda âmîn demeye muvaffak olan bir kimsenin geçmiş günahları bağışlanır. Tekrar: 4475
+Ebu Hureyre (r.a.) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "İmam غير المغضوب عليهم ولا الضالين […ğayri’l-mağdubi aleyhim veleddaaaalliiin] dediği zaman siz de âmîn âmîn deyin. Zira meleklerle aynı anda âmîn demeye muvaffak olan bir kimsenin geçmiş günahları bağışlanır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 10 Hadith 177</td></tr></tbody></table></div>
 

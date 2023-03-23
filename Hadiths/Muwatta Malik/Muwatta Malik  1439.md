@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৩৯. নুমান ইবন বশীর (রাঃ) বলেন, তাহার পিতা বশীর (রাঃ) তাহাকে একবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট নিয়া গেলেন এবং বলিলেন, ইয়া রাসূলাল্লাহ! আমি আমার এই ছেলেকে আমার একটি গোলাম হেবা করিয়াছি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিলেন, তুমি কি তোমার প্রত্যেকটি ছেলেকেই এইরূপ হেবা করিয়াছ? তিনি বলিলেন, না। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিলেন, তাহা হইলে হেবা (দান) ফিরাইয়া নাও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1439</td></tr><tr><td>Arabic No</td><td>1439</td></tr><tr><td>Reference</td><td>Book 36 Hadith 41</td></tr></tbody></table></div>
 

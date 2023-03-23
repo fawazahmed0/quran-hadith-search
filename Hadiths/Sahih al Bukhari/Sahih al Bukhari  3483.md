@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাস‘ঊদ ‘উকবাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আম্বিয়া-এ-কিরামের উক্তিসমূহ যা মানব জাতি লাভ করেছে, তার মধ্যে একটি হল, ‘‘যদি তোমার লজ্জা না থাকে তাহলে তুমি যা ইচ্ছে তাই কর।’’ (৩৪৮৪, ৬১২০) (আধুনিক প্রকাশনীঃ ৩২২৫, ইসলামিক ফাউন্ডেশনঃ ৩২৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাস‘ঊদ ‘উকবাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আম্বিয়া-এ-কিরামের উক্তিসমূহ যা মানব জাতি লাভ করেছে, তার মধ্যে একটি হল, ‘‘যদি তোমার লজ্জা না থাকে তাহলে তুমি যা ইচ্ছে তাই কর।’’ (৩৪৮৪, ৬১২০) (আধুনিক প্রকাশনীঃ ৩২২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3483</td></tr><tr><td>Arabic No</td><td>3483</td></tr><tr><td>Reference</td><td>Book 60 Hadith 150</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Masud 'Uqba:The Prophet (ﷺ) said, "One of the sayings of the prop
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மக்கள் இறைத் தூதர்களின் சொற்களிலிருந்து பெற்ற (அறிவுரைகளில்) ஒன்றுதான், ‘‘உனக்கு நாணம் இல்லையேல் நாடியதைச் செய்துகொள்” என்பதும். இதை அபூமஸ்ஊத் உக்பா பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 60
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மக்கள் இறைத் தூதர்களின் சொற்களிலிருந்து பெற்ற (அறிவுரைகளில்) ஒன்றுதான், ‘‘உனக்கு நாணம் இல்லையேல் நாடியதைச் செய்துகொள்” என்பதும். இதை அபூமஸ்ஊத் உக்பா பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3483</td></tr><tr><td>Arabic No</td><td>3483</td></tr><tr><td>Reference</td><td>Book 60 Hadith 150</td></tr></tbody></table></div>
 

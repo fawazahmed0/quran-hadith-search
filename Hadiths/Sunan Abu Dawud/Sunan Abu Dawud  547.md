@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনু ইউনুস ..... আবূদ-দারদা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে বলতে শুনেছিঃ যখন কোন গ্রামে বা বনজঙ্গলে তিনজন লোক একত্রিত হয় এবং জামাআতে নামায আদায় না করে, তখন শয়তান তাদের উপর প্রভুত্ব বিস্তার করে। অতএব (তোমরা) অবশ্যই জামাআতের সাথে নামায আদায় কর। কেননা দলচ্যুত বকরীকে নেকড়ে বাঘে ভক্ষণ করে থাকে। (নাসাঈ)। রাবী আস-সায়েব বলেন, এখানে জামাআত অর্থ জামাআতের সাথে নামায আদায় করা।
+। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ কোন জনপদে বা বনজঙ্গলে তিনজন লোক একত্রে বসবাস করা সত্ত্বেও তারা জামা‘আতে সালাত আদায়ের ব্যবস্থা না করলে তাদের উপর শয়তান আধিপত্য বিস্তার করে। অতএব তোমরা জামা‘আতকে আকঁড়ে ধর। কারণ নেকড়ে (বাঘ) দলচ্যুত বকরীটিকেই খেয়ে থাকে। যায়িদাহ (রহঃ) বলেন, সায়িব (রহঃ) বলেছেন, এখানে জামা‘আত বলতে সালাতের জামা‘আতকেই বোঝানো হয়েছে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Derda'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken işittim: "Köyde ve kırda üç kişi bir arada olur da, namazı cemaatle kıl­mazlarsa şeytan mutlaka onlara galib gelir, (musallat olur ve onları Allah'ın zikrinden alıkoyar). Aman, cemaate sarıl, çünkü kurt, sürüden ayrılan koyunu kapar". Diğer tahric: Nesai, imame; Ahmed b. Hanbel, V, 196; VI, 446
+Ebu Derda'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken işittim: "Köyde ve kırda üç kişi bir arada olur da, namazı cemaatle kıl­mazlarsa şeytan mutlaka onlara galib gelir, (musallat olur ve onları Allah'ın zikrinden alıkoyar). Aman, cemaate sarıl, çünkü kurt, sürüden ayrılan koyunu kapar". Diğer tahric: Nesai, imame; Ahmed b. Hanbel, V, 196; VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
 

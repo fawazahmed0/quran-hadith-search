@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৯৬৯। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার দু’জন স্ত্রী আছে, আর সে তাদের একজনের চেয়ে অপরজনের প্রতি বেশি ঝুঁকে পড়ে, সে কিয়ামতের দিন তার (দেহের) এক পার্শ্ব পতিত অবস্থায় উপস্থিত হবে।
+। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার দু’জন স্ত্রী আছে, আর সে তাদের একজনের চেয়ে অপরজনের প্রতি বেশি ঝুঁকে পড়ে, সে কিয়ামতের দিন তার (দেহের) এক পার্শ্ব পতিত অবস্থায় উপস্থিত হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 9 Hadith 125</td></tr></tbody></table></div>
 

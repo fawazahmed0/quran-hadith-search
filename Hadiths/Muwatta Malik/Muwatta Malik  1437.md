@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৩৭. হারাম ইবন সা’আদ ইবন মুহায়্যিসা (রহঃ) ছইত বর্ণিত, বারা ইবন আযিব (রাঃ)-এর উষ্ট্রী কাহারো বাগানে ঢুকিয়া ফসলের খুব ক্ষতি করে। অতঃপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিলেন, দিনের বেলায় বাগান হেফাজত করার জিম্মাদার বাগানের মালিক, রাত্রিকালে যদি জন্তু বাগানে ঢুকে ও ক্ষতি করে তবে জন্তুর মালিক তাহার ক্ষতি পূরণের জিম্মাদার হইবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1437</td></tr><tr><td>Arabic No</td><td>1437</td></tr><tr><td>Reference</td><td>Book 36 Hadith 39</td></tr></tbody></table></div>
 

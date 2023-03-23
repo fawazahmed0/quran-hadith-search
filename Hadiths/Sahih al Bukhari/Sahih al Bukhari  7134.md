@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। তিনি বলেছেন যে, মাদ্বীনাহর দিকে দাজ্জাল আসবে, সে ফেরেশ্তাদেরকে মাদ্বীনাহ প্রহরারত অবস্থায় দেখতে পাবে। অতএব দাজ্জাল ও প্লেগ এর নিকটবর্তী হবে না ইনশা আল্লাহ্। [১৮৮১] (আধুনিক প্রকাশনী- ৬৬৩৫, ইসলামিক ফাউন্ডেশন- ৬৬৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। তিনি বলেছেন যে, মাদ্বীনাহর দিকে দাজ্জাল আসবে, সে ফেরেশ্তাদেরকে মাদ্বীনাহ প্রহরারত অবস্থায় দেখতে পাবে। অতএব দাজ্জাল ও প্লেগ এর নিকটবর্তী হবে না ইনশা আল্লাহ্। [১৮৮১] (আধুনিক প্রকাশনী- ৬৬৩৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7134</td></tr><tr><td>Arabic No</td><td>7134</td></tr><tr><td>Reference</td><td>Book 92 Hadith 81</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ telah menceritakan kepadaku [Yahya bin Musa] telah menceritakan kepada kami [Yaz
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: மதீனா நகருக்கு தஜ்ஜால் வருவான். அதை வானவர்கள் காவல் காத்துக் கொண்டிருப்பதைக் காண்பான். ஆகவே, அதை தஜ்ஜால் நெருங்கமாட்டான்; அல்லாஹ் நாடினால் கொள்ளைநோயும் அணுகாது. இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 92
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: மதீனா நகருக்கு தஜ்ஜால் வருவான். அதை வானவர்கள் காவல் காத்துக் கொண்டிருப்பதைக் காண்பான். ஆகவே, அதை தஜ்ஜால் நெருங்கமாட்டான்; அல்லாஹ் நாடினால் கொள்ளைநோயும் அணுகாது. இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7134</td></tr><tr><td>Arabic No</td><td>7134</td></tr><tr><td>Reference</td><td>Book 92 Hadith 81</td></tr></tbody></table></div>
 

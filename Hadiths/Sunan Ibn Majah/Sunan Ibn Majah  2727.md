@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৭২৭। মুররা ইবনে শুরাহবীল (রহঃ) থেকে বর্ণিত। তিনি বলেন, উমার ইবনুল খাত্তাব (রাঃ) বললেন, তিনটি বিষয় সম্পর্কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্পষ্টভাবে বর্ণনা করে দিলে তা আমার জন্য দুনিয়া ও তার মধ্যেকার সব কিছুর চেয়ে প্রিয়তর হতো। তা হলোঃ কালালা, সূদ এবং খিলাফত।
+। মুররা ইবনে শুরাহবীল (রহঃ) থেকে বর্ণিত। তিনি বলেন, উমার ইবনুল খাত্তাব (রাঃ) বললেন, তিনটি বিষয় সম্পর্কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্পষ্টভাবে বর্ণনা করে দিলে তা আমার জন্য দুনিয়া ও তার মধ্যেকার সব কিছুর চেয়ে প্রিয়তর হতো। তা হলোঃ কালালা, সূদ এবং খিলাফত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2727</td></tr><tr><td>Arabic No</td><td>2727</td></tr><tr><td>Reference</td><td>Book 23 Hadith 9</td></tr></tbody></table></div>
 

@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya related to me from Malik from Thawr ibn Zayd ad-Dili that Abdullah ibn Abbas was asked about animals slaughtered by the Christian Arabs. He said, "There is no harm in them," but he recited this ayat, "Whoever takes them as friends is from them." (Sura 5 ayat 54)
+Yahya related to me from Malik from Thawr ibn Zayd ad-Dili that Abdullah ibn Abbas was asked about animals slaughtered by the Christian Arabs. He said, "There is no harm in them," but he recited this ayat, "Whoever takes them as friends is from them." (Sura 5 ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 24 Hadith 5</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Yahya related to me from Malik from Thawr ibn Zayd ad-Dili that Abdullah ibn Abb
 
 
 <div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-On demanda Abdallah Ibn Abbas à propos des bêtes égorgées par les chrétiens Arabes»? Il répondit: «II n'y a pas de mal à cela». Puis il récita ce verset: «Celui qui, parmi vous, les prend pour amis, est des leurs» Coran V, 51
+On demanda Abdallah Ibn Abbas à propos des bêtes égorgées par les chrétiens Arabes»? Il répondit: «II n'y a pas de mal à cela». Puis il récita ce verset: «Celui qui, parmi vous, les prend pour amis, est des leurs» Coran V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 24 Hadith 5</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, গ্রামবাসীর পক্ষে শহরবাসীর বিক্রয় আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন। ইবনু ‘আব্বাস (রাঃ)-ও অনুরূপ কথাই বলেছেন। (আধুনিক প্রকাশনীঃ ২০১০, ইসলামিক ফাউন্ডেশনঃ ২০২৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, গ্রামবাসীর পক্ষে শহরবাসীর বিক্রয় আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন। ইবনু ‘আব্বাস (রাঃ)-ও অনুরূপ কথাই বলেছেন। (আধুনিক প্রকাশনীঃ ২০১০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>2159</td></tr><tr><td>Reference</td><td>Book 34 Hadith 110</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada saya ['Abdullah bin Shabbah] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: கிராமத்திலிருந்து (சரக்கு கொண்டு)வருபவருக்காக உள்ளூர்வாசி விற்றுக் கொடுக்கக் கூடாதென அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை செய்தார்கள். இவ்வாறே (இடைத்தரகராக இருப்பது கூடாதென) இப்னு அப்பாஸ் (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: கிராமத்திலிருந்து (சரக்கு கொண்டு)வருபவருக்காக உள்ளூர்வாசி விற்றுக் கொடுக்கக் கூடாதென அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை செய்தார்கள். இவ்வாறே (இடைத்தரகராக இருப்பது கூடாதென) இப்னு அப்பாஸ் (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>2159</td></tr><tr><td>Reference</td><td>Book 34 Hadith 110</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৮৯, আন্তর্জাতিক নাম্বারঃ ২৫৯ ৪৮৯-(৫৩/...) কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম গোঁফ ছোট করতে এবং দাড়ি বড় করে রাখতে আদেশ করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৪৯২, ইসলামিক সেন্টারঃ ৫০৮)
+কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম গোঁফ ছোট করতে এবং দাড়ি বড় করে রাখতে আদেশ করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৪৯২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>601</td></tr><tr><td>Arabic No</td><td>259.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 68</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakannya kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மீசையை ஒட்ட நறுக்குமாறும் தாடியை வளர்க்குமாறும் கட்டளையிட்டார்கள். அத்தியாயம் : 2
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மீசையை ஒட்ட நறுக்குமாறும் தாடியை வளர்க்குமாறும் கட்டளையிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>601</td></tr><tr><td>Arabic No</td><td>259.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 68</td></tr></tbody></table></div>
 

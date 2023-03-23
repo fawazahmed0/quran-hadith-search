@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সানিয়্যাতুল ‘উলয়া (হারামের উত্তর-পূর্বদিকে কাদা নামক স্থান দিয়ে) মক্কা্য় প্রবেশ করতেন এবং সানিয়্যা সুফলা (হারামের দক্ষিণ-পশ্চিম দিকে কুদা নামক স্থান) দিয়ে বের হতেন। (১৫৭৬) (আধুনিক প্রকাশনীঃ ১৪৭১, ইসলামিক ফাউন্ডেশনঃ ১৪৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সানিয়্যাতুল ‘উলয়া (হারামের উত্তর-পূর্বদিকে কাদা নামক স্থান দিয়ে) মক্কা্য় প্রবেশ করতেন এবং সানিয়্যা সুফলা (হারামের দক্ষিণ-পশ্চিম দিকে কুদা নামক স্থান) দিয়ে বের হতেন। (১৫৭৬) (আধুনিক প্রকাশনীঃ ১৪৭১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1575</td></tr><tr><td>Arabic No</td><td>1575</td></tr><tr><td>Reference</td><td>Book 25 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (மதீனாவிலிருந்து புறப்பட்டு மக்காவுக்குள்) மேற்புறக் கணவாய் வழியாக நுழைந்து கீழ்ப்புறக் கணவாய் வழியாக வெளியேறு வார்கள். அத்தியாயம் : 25
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (மதீனாவிலிருந்து புறப்பட்டு மக்காவுக்குள்) மேற்புறக் கணவாய் வழியாக நுழைந்து கீழ்ப்புறக் கணவாய் வழியாக வெளியேறு வார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1575</td></tr><tr><td>Arabic No</td><td>1575</td></tr><tr><td>Reference</td><td>Book 25 Hadith 61</td></tr></tbody></table></div>
 

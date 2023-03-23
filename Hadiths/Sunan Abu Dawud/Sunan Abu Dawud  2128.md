@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন সাব্বাহ্ আল বাযযায ...... আয়েশা (রাঃ) হতে বর্ণনা করেন, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে নির্দেশ দিয়েছেন, আমি যেন কোন মহিলাকে তার স্বামী কর্তৃক কিছু দেওয়ার অনুমতি প্রদান করি।
+। ‘আয়িশাহ্ (রাঃ) সূতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে আদেশ দিলেন, আমি যেন জনৈকা মহিলাকে (স্বামীর পক্ষ থেকে) কিছু প্রদানের আগেই সহবাসের অনুমতি দেই। ইমাম আবূ দাঊদ (রহ.) বলেন, খায়সামাহ (রহ.) ‘আয়িশাহ্ (রাঃ) থেকে হাদীস শুনেননি।[1] দুর্বলঃ যঈফ ইবনু মাজাহ (৪৩৩)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2128</td></tr><tr><td>Arabic No</td><td>2128</td></tr><tr><td>Reference</td><td>Book 12 Hadith 83</td></tr></tbody></table></div>
 

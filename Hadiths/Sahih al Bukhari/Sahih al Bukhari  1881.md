@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মক্কা ও মদিনা ব্যতীত এমন কোন শহর নেই যেখানে দাজ্জাল পদচারণ করবে না। মক্কা এবং মদিনার প্রত্যেকটি প্রবেশ পথেই ফেরেশতাগণ সারিবদ্ধভাবে পাহারায় নিয়োজিত থাকবে। এরপর মদিনা তার অধিবাসীদেরকে নিয়ে তিনবার কেঁপে উঠবে এবং আল্লাহ তা‘আলা সমস্ত কাফির এবং মুনাফিকদেরকে বের করে দিবেন। (৭১২৪, ৭১৩৪, ৭৪৭৩, মুসলিম ৫২/২৪, হাঃ ২৯৪৩) (আধুনিক প্রকাশনীঃ ১৭৪৭, ইসলামিক ফাউন্ডেশনঃ ১৭৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মক্কা ও মদিনা ব্যতীত এমন কোন শহর নেই যেখানে দাজ্জাল পদচারণ করবে না। মক্কা এবং মদিনার প্রত্যেকটি প্রবেশ পথেই ফেরেশতাগণ সারিবদ্ধভাবে পাহারায় নিয়োজিত থাকবে। এরপর মদিনা তার অধিবাসীদেরকে নিয়ে তিনবার কেঁপে উঠবে এবং আল্লাহ তা‘আলা সমস্ত কাফির এবং মুনাফিকদেরকে বের করে দিবেন। (৭১২৪, ৭১৩৪, ৭৪৭৩, মুসলিম ৫২/২৪, হাঃ ২৯৪৩) (আধুনিক প্রকাশনীঃ ১৭৪৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1881</td></tr><tr><td>Arabic No</td><td>1881</td></tr><tr><td>Reference</td><td>Book 29 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மக்காவையும் மதீனாவையும் தவிர தஜ்ஜால் கால்வைக்காத எந்த ஊரும் இராது. மதீனாவின் எந்தவொரு நுழை வாயிலானாலும் அங்கே வானவர்கள் அணிவகுத்து நின்று அதைக் காவல் புரிந்துகொண்டு இருப்பார்கள். பின்னர் மதீனா, தனது குடிமக்களுடன் மூன்று முறை குலுங்கும்; அப்போது ஒவ்வோர் இறைமறுப்பாளனையும் நய வஞ்சகனையும் அல்லாஹ் (மதீனா விலிருந்து) வெளியேற்றிவிடுவான். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 29
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மக்காவையும் மதீனாவையும் தவிர தஜ்ஜால் கால்வைக்காத எந்த ஊரும் இராது. மதீனாவின் எந்தவொரு நுழை வாயிலானாலும் அங்கே வானவர்கள் அணிவகுத்து நின்று அதைக் காவல் புரிந்துகொண்டு இருப்பார்கள். பின்னர் மதீனா, தனது குடிமக்களுடன் மூன்று முறை குலுங்கும்; அப்போது ஒவ்வோர் இறைமறுப்பாளனையும் நய வஞ்சகனையும் அல்லாஹ் (மதீனா விலிருந்து) வெளியேற்றிவிடுவான். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1881</td></tr><tr><td>Arabic No</td><td>1881</td></tr><tr><td>Reference</td><td>Book 29 Hadith 15</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik Resûlullah Sallallahu Aleyhi ve Sellem'İn şöyle buyurduğunu nakletmiştir: "Mekke ve Medine dışında Deccal'in ayak basmadığı hiçbir yer kalmayacak. Deccal'in aşmaya çalıştığı her bir gedikte melekler Medine'yi korumak üzere saf tutacaklar. Sonra Medine'de, orada yaşayanları sarsan üç deprem olacak ve Allah Teala bütün kafir ve münafıkları oradan çıkaracak." Tekrar: 7124, 7134, 7473
+Enes İbn Malik Resûlullah Sallallahu Aleyhi ve Sellem'İn şöyle buyurduğunu nakletmiştir: "Mekke ve Medine dışında Deccal'in ayak basmadığı hiçbir yer kalmayacak. Deccal'in aşmaya çalıştığı her bir gedikte melekler Medine'yi korumak üzere saf tutacaklar. Sonra Medine'de, orada yaşayanları sarsan üç deprem olacak ve Allah Teala bütün kafir ve münafıkları oradan çıkaracak." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1881</td></tr><tr><td>Arabic No</td><td>1881</td></tr><tr><td>Reference</td><td>Book 29 Hadith 15</td></tr></tbody></table></div>
 

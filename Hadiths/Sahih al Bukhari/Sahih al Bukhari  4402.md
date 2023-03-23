@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তোমরা সতর্ক থাক। আজকের এ দিনের মত, এ শহরের মত এবং এ মাসের মতো আল্লাহ তা‘আলা তোমাদের রক্তকে ও তোমাদের সম্পদকে তোমাদের উপর হারাম করেছেন। বল তো, আমি কি আল্লাহর পয়গাম পৌঁছে দিয়েছি। সমবেত সকলে বললেন, হ্যাঁ। তিনি বললেন, হে আল্লাহ! আপনি সাক্ষী থাকুন। এ কথা তিনবার বললেন, (তারপর বললেন), তোমাদের জন্য পরিতাপ অথবা তিনি বললেন, তোমাদের জন্য আফসোস, সতর্ক থেকো, আমার পরে তোমরা কুফরের দিকে ফিরে যেয়ো না যে, একে অন্যের গর্দান মারবে। [১৭৪২] (আধুনিক প্রকাশনীঃ ৪০৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4402</td></tr><tr><td>Arabic No</td><td>4402</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

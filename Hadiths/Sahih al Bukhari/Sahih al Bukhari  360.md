@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি সাক্ষ্য দিচ্ছি যে, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছিঃ যে ব্যক্তি এক কাপড়ে সালাত আদায় করে, সে যেন কাপড়ের দু’ প্রান্ত বিপরীত পাশে রাখে। (৩৫৯) (আধুনিক প্রকাশনীঃ ৩৪৭, ইসলামিক ফাউন্ডেশনঃ ৩৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি সাক্ষ্য দিচ্ছি যে, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছিঃ যে ব্যক্তি এক কাপড়ে সালাত আদায় করে, সে যেন কাপড়ের দু’ প্রান্ত বিপরীত পাশে রাখে। (৩৫৯) (আধুনিক প্রকাশনীঃ ৩৪৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>360</td></tr><tr><td>Arabic No</td><td>360</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “ஒரே ஆடையை அணிந்துகொண்டு எவரேனும் தொழுதால், அதன் இரு ஓரங்களையும் (வலப்புற ஓரத்தை இடது தோளிலும் இடப்புற ஓரத்தை வலது தோளிலுமாக) மாற்றிப் போட்டுக் கொள்ளட்டும்” என்று கூறியதை நான் கேட்டேன் என உறுதி அளிக்கிறேன். அத்தியாயம் : 8
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “ஒரே ஆடையை அணிந்துகொண்டு எவரேனும் தொழுதால், அதன் இரு ஓரங்களையும் (வலப்புற ஓரத்தை இடது தோளிலும் இடப்புற ஓரத்தை வலது தோளிலுமாக) மாற்றிப் போட்டுக் கொள்ளட்டும்” என்று கூறியதை நான் கேட்டேன் என உறுதி அளிக்கிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>360</td></tr><tr><td>Arabic No</td><td>360</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
 

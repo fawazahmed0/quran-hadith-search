@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘জ্বর হয় জাহান্নামের উত্তাপ থেকে, কাজেই তোমরা পানি দিয়ে তা ঠান্ডা কর।’ (৫৭২৩) (আধুনিক প্রকাশনীঃ ৩০২৩, ইসলামিক ফাউন্ডেশনঃ ৩০৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘জ্বর হয় জাহান্নামের উত্তাপ থেকে, কাজেই তোমরা পানি দিয়ে তা ঠান্ডা কর।’ (৫৭২৩) (আধুনিক প্রকাশনীঃ ৩০২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3264</td></tr><tr><td>Arabic No</td><td>3264</td></tr><tr><td>Reference</td><td>Book 59 Hadith 74</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] dari [Yahya] dari ['Ubaidullah] berkata, 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: காய்ச்சல் நரகத்தின் பெருமூச்சால் உண்டாகிறது. ஆகவே, அதைத் தண்ணீ ரால் தணித்துக்கொள்ளுங்கள். இதை இப்னு உமர் (ரலி) அவர் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+நபி (ஸல்) அவர்கள்கூறினார்கள்: காய்ச்சல் நரகத்தின் பெருமூச்சால் உண்டாகிறது. ஆகவே, அதைத் தண்ணீ ரால் தணித்துக்கொள்ளுங்கள். இதை இப்னு உமர் (ரலி) அவர் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3264</td></tr><tr><td>Arabic No</td><td>3264</td></tr><tr><td>Reference</td><td>Book 59 Hadith 74</td></tr></tbody></table></div>
 

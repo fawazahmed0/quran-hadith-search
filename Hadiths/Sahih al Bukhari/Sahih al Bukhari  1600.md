@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَكَانَ ابْنُ عُمَرَ يَحُجُّ كَثِيرًا وَلاَ يَدْخُلُ ইবনু ‘উমার (রাঃ) বহুবার হাজ্জ করেছেন কিন্তু কা‘বা ঘরে প্রবেশ করেননি। ১৬০০. ‘আবদুল্লাহ ইবনু আবূ আওফা (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘উমরাহ করতে গিয়ে বাইতুল্লাহ তাওয়াফ করলেন ও মাকামে ইবরাহীমের পিছনে দু’ রাক‘আত সালাত আদায় করলেন এবং তাঁর সাথে এ সকল সাহাবী ছিলেন যারা তাঁকে লোকদের হতে আড়াল করে ছিলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কা‘বার ভিতরে প্রবেশ করেছিলেন কি-না, এক ব্যক্তি আবূ আওফা (রাঃ)-এর নিকট তা জিজ্ঞেস করলে তিনি বললেন, না। (১৭৯১, ৪১৮৮, ৪২৫৫) (আধুনিক প্রকাশনীঃ ১৪৯৬, ইসলামিক ফাউন্ডেশনঃ ১৫০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَكَانَ ابْنُ عُمَرَ يَحُجُّ كَثِيرًا وَلاَ يَدْخُلُ ইবনু ‘উমার (রাঃ) বহুবার হাজ্জ করেছেন কিন্তু কা‘বা ঘরে প্রবেশ করেননি। ১৬০০. ‘আবদুল্লাহ ইবনু আবূ আওফা (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘উমরাহ করতে গিয়ে বাইতুল্লাহ তাওয়াফ করলেন ও মাকামে ইবরাহীমের পিছনে দু’ রাক‘আত সালাত আদায় করলেন এবং তাঁর সাথে এ সকল সাহাবী ছিলেন যারা তাঁকে লোকদের হতে আড়াল করে ছিলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কা‘বার ভিতরে প্রবেশ করেছিলেন কি-না, এক ব্যক্তি আবূ আওফা (রাঃ)-এর নিকট তা জিজ্ঞেস করলে তিনি বললেন, না। (১৭৯১, ৪১৮৮, ৪২৫৫) (আধুনিক প্রকাশনীঃ ১৪৯৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1600</td></tr><tr><td>Arabic No</td><td>1600</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (‘களா’) உம்ரா செய்தபோது தவாஃப் செய்துவிட்டு மகாமு இப்ராஹீமுக்குப் பின்னால் நின்று இரண்டு ரக்அத்கள் தொழுதார்கள். அவர்களை மக்களிட மிருந்து மறைத்தவாறு ஒருவர் நின்றி ருந்தார். அவரிடம் “அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கஅபாவினுள் சென்றார்களா?” என ஒருவர் கேட்டதற்கு அவர் ‘இல்லை’ எனப் பதிலளித்தார்.32 அத்தியாயம் : 25
+அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (‘களா’) உம்ரா செய்தபோது தவாஃப் செய்துவிட்டு மகாமு இப்ராஹீமுக்குப் பின்னால் நின்று இரண்டு ரக்அத்கள் தொழுதார்கள். அவர்களை மக்களிட மிருந்து மறைத்தவாறு ஒருவர் நின்றி ருந்தார். அவரிடம் “அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கஅபாவினுள் சென்றார்களா?” என ஒருவர் கேட்டதற்கு அவர் ‘இல்லை’ எனப் பதிலளித்தார்.32 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1600</td></tr><tr><td>Arabic No</td><td>1600</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ebû Evfa şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem umre ve tavaf yaptı. Sonra makam-ı ibrahim'in arkasında iki rekat namaz kıldı. Yanıbaşında kimselerin onu görmemesi için perde vazifesi yapan birisi de vardı." Adamın biri gelip bu şahsa Resulullah Sallallahu Aleyhi ve Sellem'in Kabe'ye girip girmediğini sordu. O da, "hayır" diye cevap verdi. Tekrar: 1791, 4188, 4255
+Abdullah İbn Ebû Evfa şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem umre ve tavaf yaptı. Sonra makam-ı ibrahim'in arkasında iki rekat namaz kıldı. Yanıbaşında kimselerin onu görmemesi için perde vazifesi yapan birisi de vardı." Adamın biri gelip bu şahsa Resulullah Sallallahu Aleyhi ve Sellem'in Kabe'ye girip girmediğini sordu. O da, "hayır" diye cevap verdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1600</td></tr><tr><td>Arabic No</td><td>1600</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
 

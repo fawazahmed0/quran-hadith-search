@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮০১। হাসান ইবনু আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রোযাদারের জন্য তোহফা হল তৈল ও লোবান জাতীয় সুগন্ধি। মাওযু, যঈফা (১৬৬০) আবূ ঈসা বলেন, হাদীসটি গারীব, এর সনদ খুবএকটা মজবুত নয়। সাদ ইবনু তারীফ ব্যতীত অন্য কোন সূত্রে এই প্রসঙ্গে আমরা জানি না। সাদকে দুর্বল রাবী বলা হয়েছে। উমাইর ইবনু মামূনকে উমাইর ইবনু মামূমও বলা হয়।
+। হাসান ইবনু আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রোযাদারের জন্য তোহফা হল তৈল ও লোবান জাতীয় সুগন্ধি। মাওযু, যঈফা (১৬৬০) আবূ ঈসা বলেন, হাদীসটি গারীব, এর সনদ খুবএকটা মজবুত নয়। সাদ ইবনু তারীফ ব্যতীত অন্য কোন সূত্রে এই প্রসঙ্গে আমরা জানি না। সাদকে দুর্বল রাবী বলা হয়েছে। উমাইর ইবনু মামূনকে উমাইর ইবনু মামূমও বলা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mawdu</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Mawdu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>801</td></tr><tr><td>Arabic No</td><td>801</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
 

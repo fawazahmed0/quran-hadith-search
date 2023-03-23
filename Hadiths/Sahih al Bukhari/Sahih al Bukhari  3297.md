@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (রাঃ) বললেন, একদা আমি একটি সাপ মারার জন্য তার পিছু ধাওয়া করছিলাম। এমন সময় আবূ লুবাবা (রাঃ) আমাকে ডেকে বললেন, সাপটি মেরো না। তখন আমি বললাম, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাপ মারার জন্য আদেশ দিয়েছেন। তিনি বললেন, এরপরে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে সাপ ঘরে বাস করে যাকে ‘আওয়ামির’ বলা হয় এমন সাপ মারতে নিষেধ করেছেন। (৩৩১১, ৩৩১৩) (ইসলামিক ফাউন্ডেশনঃ ৩০৬৪ মধ্যমাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

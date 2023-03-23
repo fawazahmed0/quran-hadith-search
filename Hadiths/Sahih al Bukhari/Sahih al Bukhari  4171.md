@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ক্বিলাবাহ (রহ.) হতে বর্ণিত যে, সাবিত ইবনু দাহ্হাক (রাঃ) তাকে খবর দিয়েছেন, তিনি গাছের তলায় নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর নিকট বাই‘আত করেছেন। [১৩৬৩; মুসলিম ১/৪৭, হাঃ ১১০] (আধুনিক প্রকাশনীঃ ৩৮৫৬, ইসলামিক ফাউন্ডেশনঃ ৩৮৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ক্বিলাবাহ (রহ.) হতে বর্ণিত যে, সাবিত ইবনু দাহ্হাক (রাঃ) তাকে খবর দিয়েছেন, তিনি গাছের তলায় নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর নিকট বাই‘আত করেছেন। [১৩৬৩; মুসলিম ১/৪৭, হাঃ ১১০] (আধুনিক প্রকাশনীঃ ৩৮৫৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4171</td></tr><tr><td>Arabic No</td><td>4171</td></tr><tr><td>Reference</td><td>Book 64 Hadith 213</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Qilaba:that Thabit bin Ad-Dahhak had informed him that he was one o
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-“அந்த மரத்தின் கீழ் நான் நபி (ஸல்) அவர்களிடம் (பைஅத்துர் ரிள்வான்) உறுதிப் பிரமாணம் செய்து கொடுத்தேன்” என்று ஸாபித் பின் அள்ளஹ்ஹாக் (ரலி) அவர்கள் கூறுகிறார்கள். இதை அபூகிலாபா அப்துல்லாஹ் பின் ஸைத் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 64
+“அந்த மரத்தின் கீழ் நான் நபி (ஸல்) அவர்களிடம் (பைஅத்துர் ரிள்வான்) உறுதிப் பிரமாணம் செய்து கொடுத்தேன்” என்று ஸாபித் பின் அள்ளஹ்ஹாக் (ரலி) அவர்கள் கூறுகிறார்கள். இதை அபூகிலாபா அப்துல்லாஹ் பின் ஸைத் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4171</td></tr><tr><td>Arabic No</td><td>4171</td></tr><tr><td>Reference</td><td>Book 64 Hadith 213</td></tr></tbody></table></div>
 

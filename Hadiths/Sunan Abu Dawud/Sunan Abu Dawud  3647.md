@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবন আলী (রহঃ) .... মুত্তালিব ইবন আবদিল্লাহ ইবন হানতাব (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা যায়দ ইবন ছাবিত (রাঃ) মু'আবিয়া (রাঃ)-এর নিকট উপস্থিত হয়ে একটি হাদীছ সম্পর্কে তাঁকে জিজ্ঞাসা করেন। তখন মুআবিয়া (রাঃ) জনৈক ব্যক্তিকে সে হাদীছটি লিখে দেওয়ার জন্য নির্দেশ দেন। এ দেখে যায়দ (রাঃ) বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের এরূপ নির্দেশ দিয়েছেন যে, আমরা যেন তার কোন হাদীছ লিপিবদ্ধ না করি। আর যা কিছু লেখা হয়েছিল, তিনি তার সবই মুছে দেন।
+। আল-মুত্তালিব ইবনু আব্দুল্লাহ ইবনু হানতাব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা যায়িদ ইবনু সাবিত (রাঃ) মু‘আবিয়াহ (রাঃ)-এর নিকট গেলেন। মু‘আবিয়াহ (রাঃ) তাকে একটি হাদীস সম্পর্কে প্রশ্ন করলেন এবং এক ব্যক্তিকে তা লিখে রাখার আদেশ দিলেন। যায়িদ (রাঃ) তাকে বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে হাদীস না লিখতে আদেশ দিয়েছেন এবং যা লেখা হয়েছিল তাও মুছে দিলেন।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3647</td></tr><tr><td>Arabic No</td><td>3647</td></tr><tr><td>Reference</td><td>Book 26 Hadith 7</td></tr></tbody></table></div>
 

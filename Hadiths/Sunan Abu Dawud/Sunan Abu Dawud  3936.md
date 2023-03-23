@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন মুছান্না (রহঃ) .... কাতাদা (রহঃ) উক্ত সনদের আলোকে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি যৌথ-মালিকানার দাসের (স্বীয় অংশ) আযাদ করবে, তার জন্য কর্তব্য যে, সে তার মাল দিয়ে তার বাকী অংশ আযাদ করে দেবে, যদি মাল থাকে।
+। কাতাদাহ (রহঃ) থেকে তার নিজ সনদে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যৌথ মালিকানাধীন দাস থেকে যে ব্যক্তি তার নিজের অংশ আযাদ করবে, সে সম্পদশালী হলে তার সম্পদ খরচ করে বাকী অংশও যেন আযাদ করে দেয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3936</td></tr><tr><td>Arabic No</td><td>3936</td></tr><tr><td>Reference</td><td>Book 31 Hadith 11</td></tr></tbody></table></div>
 

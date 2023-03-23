@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একজন ইয়াহূদীকে একজন বালিকার বদলে হত্যা করেছেন। সে রূপার গহনার লোভে মেয়েটিকে হত্যা করেছিল।[1] [২৪১৩; মুসলিম ২৮/৩, হাঃ ১৬৭২, আহমাদ ১৩৮৪১] (আধুনিক প্রকাশনী- ৬৪০৬, ইসলামিক ফাউন্ডেশন- ৬৪১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একজন ইয়াহূদীকে একজন বালিকার বদলে হত্যা করেছেন। সে রূপার গহনার লোভে মেয়েটিকে হত্যা করেছিল।[1] [২৪১৩; মুসলিম ২৮/৩, হাঃ ১৬৭২, আহমাদ ১৩৮৪১] (আধুনিক প্রকাশনী- ৬৪০৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6885</td></tr><tr><td>Arabic No</td><td>6885</td></tr><tr><td>Reference</td><td>Book 87 Hadith 24</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: ஒரு சிறுமியை, அவளது வெள்ளி நகைக்காகக் கொலை செய்த (ஆண்) யூதன் ஒருவனைக் கொலை செய்திடு மாறு நபி (ஸல்) அவர்கள் ஆணையிட் டார்கள்.21 அத்தியாயம் : 87
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: ஒரு சிறுமியை, அவளது வெள்ளி நகைக்காகக் கொலை செய்த (ஆண்) யூதன் ஒருவனைக் கொலை செய்திடு மாறு நபி (ஸல்) அவர்கள் ஆணையிட் டார்கள்.21 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6885</td></tr><tr><td>Arabic No</td><td>6885</td></tr><tr><td>Reference</td><td>Book 87 Hadith 24</td></tr></tbody></table></div>
 

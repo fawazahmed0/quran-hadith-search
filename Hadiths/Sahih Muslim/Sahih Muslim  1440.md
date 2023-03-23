@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩২৬, আন্তর্জাতিক নাম্বারঃ ৬৩৬ ১৩২৬-(২১৬/৬৩৬) কুতায়বাহ ইবনু সাঈদ (রহঃ) ..... সালামাহ ইবনুল আকওয়া (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, সূর্য অস্তমিত হয়ে অদৃশ্য হলেই রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাগরিবের সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৩১৩, ইসলামীক সেন্টার ১৩২৫)
+কুতায়বাহ ইবনু সাঈদ (রহঃ) ..... সালামাহ ইবনুল আকওয়া (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, সূর্য অস্তমিত হয়ে অদৃশ্য হলেই রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাগরিবের সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৩১৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சலமா பின் அக்வஃ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், சூரியன் திரையில் (அடிவானில்) மறையும்போது மஃக்ரிப் தொழுவார்கள். அத்தியாயம் : 5
+சலமா பின் அக்வஃ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், சூரியன் திரையில் (அடிவானில்) மறையும்போது மஃக்ரிப் தொழுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবূ যার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ উত্তম আমল হলো আল্লাহ্‌র জন্য ভালবাসা এবং আল্লাহ্‌র জন্য শত্রুতা পোষণ করা।
+। আবূ যার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর সন্তুষ্টির জন্য কাউকে ভালোবাসা এবং আল্লাহর জন্যই বিদ্বেষ পোষণ করা অতি উত্তম কাজ।[1] দুর্বলঃ যঈফাহ হা/ ১৩১০।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4599</td></tr><tr><td>Arabic No</td><td>4599</td></tr><tr><td>Reference</td><td>Book 42 Hadith 4</td></tr></tbody></table></div>
 

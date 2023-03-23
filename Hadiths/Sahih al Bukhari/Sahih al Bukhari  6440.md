@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-অন্য এক সূত্রে আনাস (রাঃ) ‘উবাই ইবনু কা‘ব (রাঃ) থেকে বর্ণনা করেন যে, তিনি বলেছেন, আমরা ধারণা করছিলাম এটা কুরআনেরই অন্তর্গত। অবশেষে (সূরায়ে) তাকাসুর নাযিল হলো। [সূরাহ আত্-তাকাসুর ১০২/১) [মুসলিম ১২/৩৯, হাঃ ১০৪৮] (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন- ৫৯৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+অন্য এক সূত্রে আনাস (রাঃ) ‘উবাই ইবনু কা‘ব (রাঃ) থেকে বর্ণনা করেন যে, তিনি বলেছেন, আমরা ধারণা করছিলাম এটা কুরআনেরই অন্তর্গত। অবশেষে (সূরায়ে) তাকাসুর নাযিল হলো। [সূরাহ আত্-তাকাসুর ১০২/১) [মুসলিম ১২/৩৯, হাঃ ১০৪৮] (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6440</td></tr><tr><td>Arabic No</td><td>6440</td></tr><tr><td>Reference</td><td>Book 81 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Ubayy said (referring to the hadith above), "We considered this as a saying from
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உபை பின் கஅப் (ரலி) அவர்கள் கூறியதாவது: இ(ந்த ஹதீஸான)து குர்ஆனிலுள்ள ஒரு வசனம் என்றே நாங்கள் கருதி வந்தோம்; “செல்வத்தைப் பெருக்கும் ஆசை உங்களைத் திசை திருப்பிவிட்டது” எனும் (102:1ஆவது) வசனம் அருளப் பெறும்வரை.29 அத்தியாயம் : 81
+உபை பின் கஅப் (ரலி) அவர்கள் கூறியதாவது: இ(ந்த ஹதீஸான)து குர்ஆனிலுள்ள ஒரு வசனம் என்றே நாங்கள் கருதி வந்தோம்; “செல்வத்தைப் பெருக்கும் ஆசை உங்களைத் திசை திருப்பிவிட்டது” எனும் (102:1ஆவது) வசனம் அருளப் பெறும்வரை.29 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6440</td></tr><tr><td>Arabic No</td><td>6440</td></tr><tr><td>Reference</td><td>Book 81 Hadith 29</td></tr></tbody></table></div>
 

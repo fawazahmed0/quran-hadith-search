@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মু'আয ইবন আসাদ (রহঃ) ..... হিরমাস ইবন হাবীব (রহঃ), যিনি জংগলে বসবাস করতেন, তাঁর পিতা হতে এবং তিনি তাঁর দাদা হতে বর্ণনা করেছেন যে, একদা আমি একজন করযদার ব্যক্তিকে নিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট উপস্থিত হই। তখন তিনি আমাকে বলেনঃ তুমি তার সাথে সাথে অবস্থান কর। এরপর তিনি আমাকে বলেনঃ হে বনূ তামীমের ভাই! তুমি তোমার কয়েদীর নিকট কি চাচ্ছ?
+। হিরমাস ইবনু হাবীব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও দাদার সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আমার এক ঋণগ্রহীতাকে নিয়ে এলাম। তিনি আমাকে বললেনঃ তুমি তার পিছনে লেগে থাকো। অতঃপর তিনি বললেনঃ হে তামীম গোত্রের সরদার! তোমার কয়েদীকে তুমি কি করতে চাও।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3629</td></tr><tr><td>Arabic No</td><td>3629</td></tr><tr><td>Reference</td><td>Book 25 Hadith 59</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৯. সাঈদ ইবন মুসায়্যাব (রহঃ) হইতে বর্ণিত, উসমান (রাঃ) ইবন আফফান বলিয়াছেন, যে ব্যক্তি নিজের অপ্রাপ্ত বয়স্ক সন্তানকে কোন বস্তু দান করে, যে সন্তান এখনও উহা গ্রহণ করার উপযুক্ত হয় নাই এবং এই দানের কথা প্রকাশ্যে ঘোষণা করিয়া দেয় এবং উহাতে সাক্ষী নিযুক্ত করে তবে ইহা জায়েয হইবে যদিও তাহার অভিভাবক পিতা থাকেন। মালিক (রহঃ) বলেনঃ আমাদের নিয়ম মতে যদি কোন ব্যক্তি অপ্রাপ্ত বয়স্ক সন্তানকে স্বর্ণ কিংবা রৌপ্য দান করে, অতঃপর তাহার সন্তান মারা যায় এবং পিতাই অভিভাবক থাকে তবে ঐ মাল সন্তানের হইবে না বরং পিতারই থাকিবে। হ্যাঁ, যদি পিতা সেই মাল পৃথক করিয়া দিয়া থাকে কিংবা কাহারও নিকট আমানত রাখিয়া থাকে তবে তাহা সন্তানের বলিয়া সাব্যস্ত হইবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1463</td></tr><tr><td>Arabic No</td><td>1463</td></tr><tr><td>Reference</td><td>Book 37 Hadith 9</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... আনাস (রাঃ) হতে এই সূত্রেও পূর্বোক্ত হাদীছটি বর্ণিত হয়েছে। তিনি আরো বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম নামাযের সময় এই কাঠ খন্ডটি ডান হাতে নিয়ে বলতেনঃ তোমরা তোমাদের কাতার সোজা করা অতঃপর তিনি তা বাম হাতে নিয়ে কাতারের বাম দিকের লোকদের বলতেনঃ তোমরা সোজা হও এবং কাতারসমূহ সোজা করে দাঁড়াও।
+। আনাস (রাঃ) থেকে এরূপ সূত্রের উক্ত হাদীস বর্ণিত হয়েছে। তাতে আরো রয়েছেঃ তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে দাঁড়ানোর সময় ঐ কাষ্ঠ খন্ডটি তাঁর ডান হাতে নিয়ে বলতেনঃ তোমরা সোজা হয়ে যাও, তোমাদের কাতারসমূহ বরাবর করে নাও। তারপর সেটি বাম হাতে নিয়ে বলতেনঃ তোমরা সোজা হয়ে যাও, তোমাদের কাতারসমূহ বরাবর করে নাও।[1] দুর্বল : মিশকাত ১০৯।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>670</td></tr><tr><td>Arabic No</td><td>670</td></tr><tr><td>Reference</td><td>Book 2 Hadith 280</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ This tradition has also ben transmitted by Anas through a different chain of tra
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) namaz kılmaya kalktığı vakit sağ eline bir sopa alıp (sağ tarafına) dönerek: "Doğrulunuz, saflarınızı düzeltiniz!" buyururdu. Sonra sopayı sol eline alıp (sol tarafındakilere:) “Doğrulunuz, saflarınızı düzeltiniz!" buyururdu. Diğer tahric: Buharî, fedailu ashabi'n-Nebî, Müslim, salat; Nesaî, imame; Ahmed b. Hanbel III, 254, 268, 286
+Enes (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) namaz kılmaya kalktığı vakit sağ eline bir sopa alıp (sağ tarafına) dönerek: "Doğrulunuz, saflarınızı düzeltiniz!" buyururdu. Sonra sopayı sol eline alıp (sol tarafındakilere:) “Doğrulunuz, saflarınızı düzeltiniz!" buyururdu. Diğer tahric: Buharî, fedailu ashabi'n-Nebî, Müslim, salat; Nesaî, imame; Ahmed b. Hanbel III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>670</td></tr><tr><td>Arabic No</td><td>670</td></tr><tr><td>Reference</td><td>Book 2 Hadith 280</td></tr></tbody></table></div>
 

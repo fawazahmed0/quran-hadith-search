@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯৯৭, আন্তর্জাতিক নাম্বারঃ ২৩৫৩ ৫৯৯৭-(…/...) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) এ সূত্রে খালিদ হতে রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮৯২, ইসলামিক সেন্টার ৫৯২৯)
+(…/...) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) এ সূত্রে খালিদ হতে রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮৯২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6103</td></tr><tr><td>Arabic No</td><td>2353.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 161</td></tr></tbody></table></div>
 

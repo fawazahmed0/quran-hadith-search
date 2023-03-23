@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মুসাফফা (রহঃ) .... নু'আয়ম ইবন রাবী'আ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি উমার ইবন খাত্তাব (রাঃ)-এর কাছে ছিলাম। এরপর তিনি এ হাদীছ বর্ণনা করেন। রাবী মালিক (রহঃ) বর্ণিত হাদীছটি সম্পূর্ণ।
+। নু‘আইম ইবনু রবী‘আহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি উমার ইবনুল খাত্তাব (রাঃ)-এর নিকট উপস্থিত ছিলাম। অতঃপর অনুরূপ হাদীস বর্ণিত। তবে ইমাম মালিক (রহঃ) বর্ণিত হাদীস অধিক পূর্ণাঙ্গ।[1] আমি এটি সহীহ এবং যঈফেও পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4704</td></tr><tr><td>Arabic No</td><td>4704</td></tr><tr><td>Reference</td><td>Book 42 Hadith 109</td></tr></tbody></table></div>
 

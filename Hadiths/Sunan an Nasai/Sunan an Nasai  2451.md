@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আহমদ ইবন সুলায়মান (রহঃ) ... মুআয (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমাকে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইয়ামানে পাঠালেন এবং নির্দেশ দিলেন যেন আমি প্রত্যেক চল্লিশটি গরু থেকে একটি তিন বছর বয়সী গাভী এবং প্রত্যেক ত্রিশটি থেকে একটি দুই বছর বয়সী গরু। আর প্রত্যেক প্রাপ্ত বয়স্ক ব্যক্তি থেকে এক দীনার অথবা তার সমমূল্যের ইয়ামানী কাপড় আদায় করি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>2451</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
 

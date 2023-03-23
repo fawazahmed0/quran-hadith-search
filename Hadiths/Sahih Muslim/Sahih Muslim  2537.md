@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হারমালাহ ইবনু ইয়াহইয়া (রহঃ) ..... ‘আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ “বিলাল রাত থাকতে আযান দেয়। তাই তোমরা ইবনু মাকতুমের আযান না শুনা পর্যন্ত পানাহার করতে থাক।” (ইসলামিক ফাউন্ডেশন ২৪০৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>1092.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 43</td></tr></tbody></table></div>
 

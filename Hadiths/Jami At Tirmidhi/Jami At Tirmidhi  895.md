@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮৯৫। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, সূর্য উঠার আগেই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মুযদালিফা হতে) যাত্রা করেন। — পরবর্তী হাদীসের সহায়তায় এ হাদীসটি সহীহ। উমার (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। ইবনু আব্বাস (রাঃ) বর্ণিত হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। সূর্য উঠা পর্যন্ত জাহিলী যুগের লোকেরা অপেক্ষা করত, তারপর রাওয়ানা হত।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, সূর্য উঠার আগেই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মুযদালিফা হতে) যাত্রা করেন। — পরবর্তী হাদীসের সহায়তায় এ হাদীসটি সহীহ। উমার (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। ইবনু আব্বাস (রাঃ) বর্ণিত হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। সূর্য উঠা পর্যন্ত জাহিলী যুগের লোকেরা অপেক্ষা করত, তারপর রাওয়ানা হত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>895</td></tr><tr><td>Arabic No</td><td>895</td></tr><tr><td>Reference</td><td>Book 9 Hadith 88</td></tr></tbody></table></div>
 

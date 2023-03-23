@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল ওহহাব ইবন জাদ্দা (রহঃ) ..... আবূ উমামা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরূপ বলতে শুনেছিঃ নিশ্চই আল্লাহ্ প্রত্যেক হকদারের জন্য তার হক নির্ধারণ করে দিয়েছেন। কাজেই ওয়ারিছের জন্য কোনরূপ ওসীয়াত করা যাবে না।
+। আবূ উমামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ নিশ্চয়ই আল্লাহ প্রত্যেক হকদারের অংশ নির্দিষ্ট করেছেন। সুতরাং কোনো ওয়ারিসের জন্য ওসিয়াত করা যাবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2870</td></tr><tr><td>Arabic No</td><td>2870</td></tr><tr><td>Reference</td><td>Book 18 Hadith 9</td></tr></tbody></table></div>
 

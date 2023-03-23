@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (কিয়ামতের দিন) জান্নাতবাসীদেরকে বলা হবে, এ জীবন চিরন্তন, মৃত্যু নেই। জাহান্নামের অধিবাসীদেরকে বলা হবে, হে জাহান্নামীরা! এ জীবন চিরন্তন, মৃত্যু নেই। (আধুনিক প্রকাশনী- ৬০৯৪, ইসলামিক ফাউন্ডেশন- ৬১০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (কিয়ামতের দিন) জান্নাতবাসীদেরকে বলা হবে, এ জীবন চিরন্তন, মৃত্যু নেই। জাহান্নামের অধিবাসীদেরকে বলা হবে, হে জাহান্নামীরা! এ জীবন চিরন্তন, মৃত্যু নেই। (আধুনিক প্রকাশনী- ৬০৯৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6545</td></tr><tr><td>Arabic No</td><td>6545</td></tr><tr><td>Reference</td><td>Book 81 Hadith 134</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கவாசிகளிடம், “(இது) நிரந்த ரம்; (இனி) மரணம் இல்லை” என்றும், நரகவாசிகளிடம் “(இது) நிரந்தரம்; (இனி) மரணம் இல்லை” என்றும் சொல்லப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 83
+நபி (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கவாசிகளிடம், “(இது) நிரந்த ரம்; (இனி) மரணம் இல்லை” என்றும், நரகவாசிகளிடம் “(இது) நிரந்தரம்; (இனி) மரணம் இல்லை” என்றும் சொல்லப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6545</td></tr><tr><td>Arabic No</td><td>6545</td></tr><tr><td>Reference</td><td>Book 81 Hadith 134</td></tr></tbody></table></div>
 

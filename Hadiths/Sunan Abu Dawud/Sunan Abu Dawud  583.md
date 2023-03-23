@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু মুআয ..... শোবা (রহঃ) হতে উপরোক্ত হাদীছটি বর্ণিত হয়েছে। তাঁর বর্ণনায় আরও আছেঃ অন্যের ইমামতির স্থানে অনুমতি ব্যতীত যেন ইমামতি না করে। ইমাম আবূ দাউদ (রহঃ) বলেন, ইয়াহ্ইয়া-শোবা হতে অনুরূপভাবে বর্ণনা করেছেন যে, ইমামতির জন্য যোগ্যতম হল কুরআন সম্পর্কে অভিজ্ঞ ব্যক্তি।
+। ইবনু মু‘আয ..... শু’বাহ (রহঃ) হতে অনুরূপ বর্ণনা করেছেন। তাতে রয়েছেঃ কেউ কারোর প্রভাবাধীন এলাকায় (অনুমতি ছাড়া) ইমামতি করবে না।[1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, ইয়াহ্ইয়াহ্ আল-কাত্তান শু’বাহ থেকে অনুরূপ বর্ণনা করেছেন যে, সর্বাধিক অভিজ্ঞ ক্বারীই ইমামতির যোগ্য।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>583</td></tr><tr><td>Arabic No</td><td>583</td></tr><tr><td>Reference</td><td>Book 2 Hadith 193</td></tr></tbody></table></div>
 

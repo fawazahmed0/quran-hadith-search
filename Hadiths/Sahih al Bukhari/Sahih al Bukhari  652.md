@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এক ব্যক্তি রাস্তা দিয়ে চলার সময় রাস্তায় একটি কাঁটাযুক্ত ডাল দেখতে পেয়ে তা সরিয়ে ফেলল। আল্লাহ তা‘আলা তার এ কাজ সাদরে কবুল করে তার গুনাহ মাফ করে দিলেন। (২৪৭২) (আধুনিক প্রকাশনীঃ ৬১৫ ইসলামিক ফাউন্ডেশনঃ ৬২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+অতঃপর আল্লাহর রাসূল বললেনঃ শহীদ পাঁচ প্রকার- ১. প্লেগে মৃত ব্যক্তি ২. কলেরায় মৃত ব্যক্তি ৩. পানিতে নিমজ্জিত ব্যক্তি ৪. চাপা পড়ে মৃত ব্যক্তি এবং ৫. আল্লাহর পথে (জিহাদে) শহীদ। তিনি আরও বলেছেনঃ মানুষ যদি আযান দেয়া এবং প্রথম কাতারে সালাত আদায় করার কী ফাযীলাত তা জানত আর কুরআহর মাধ্যমে ফায়সালা করা ছাড়া সে সুযোগ না পেতো, তাহলে কুরআহর মাধ্যমে হলেও তারা সে সুযোগ গ্রহণ করতো। (৭২০, ২৮২৯, ৫৭৩৩) (আধুনিক প্রকাশনীঃ , ইসলামিক ফাউন্ডেশনঃ ৬২২ দ্বিতীয় অংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>652</td></tr><tr><td>Arabic No</td><td>652</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari [Sumayya] mantan bud
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: Adam'ın biri yolda yürürken, güzergahı üzerinde bir diken dalı buldu. Onu kaldırıp kenara koydu. Hak Teâlâ onun bu amelini hüsnü kabul buyurdu ve günahlarını bağışladı. Tekrar: 2472
+Ebu Hureyre (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: Adam'ın biri yolda yürürken, güzergahı üzerinde bir diken dalı buldu. Onu kaldırıp kenara koydu. Hak Teâlâ onun bu amelini hüsnü kabul buyurdu ve günahlarını bağışladı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>652</td></tr><tr><td>Arabic No</td><td>652</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

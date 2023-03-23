@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ আমি বিদায় হাজ্জে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে নিজ হাতে যারীরা নামের সুগন্ধি লাগিয়ে দিয়েছি, হালাল অবস্থাতেও এবং ইহরাম অবস্থাতেও। [১৫৩৯] (আধুনিক প্রকাশনী- ৫৪৯৮, ইসলামিক ফাউন্ডেশন- ৫৩৯৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ আমি বিদায় হাজ্জে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে নিজ হাতে যারীরা নামের সুগন্ধি লাগিয়ে দিয়েছি, হালাল অবস্থাতেও এবং ইহরাম অবস্থাতেও। [১৫৩৯] (আধুনিক প্রকাশনী- ৫৪৯৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5930</td></tr><tr><td>Arabic No</td><td>5930</td></tr><tr><td>Reference</td><td>Book 77 Hadith 145</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Utsman bin Haitsam] atau [Muhammad] dari [Ibnu J
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘விடைபெறும்’ ஹஜ்ஜுக்காக இஹ்ராம் கட்டியபோதும் இஹ்ராமிலிருந்து விடுபட்டபோதும் நான் என் இரு கைகளால் அவர்களுக்கு (‘தரீரா’ எனும்) வாசனைத் தூளைப் பூசிவிட்டேன். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 77
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘விடைபெறும்’ ஹஜ்ஜுக்காக இஹ்ராம் கட்டியபோதும் இஹ்ராமிலிருந்து விடுபட்டபோதும் நான் என் இரு கைகளால் அவர்களுக்கு (‘தரீரா’ எனும்) வாசனைத் தூளைப் பூசிவிட்டேன். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5930</td></tr><tr><td>Arabic No</td><td>5930</td></tr><tr><td>Reference</td><td>Book 77 Hadith 145</td></tr></tbody></table></div>
 

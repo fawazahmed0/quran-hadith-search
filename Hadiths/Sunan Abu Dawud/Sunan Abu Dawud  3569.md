@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মুহাম্মদ (রহঃ) .... হারাম ইবন মুহায়্যাসা (রহঃ) তাঁর পিতা থেকে বর্ণনা করেছেন। তিনি বলেনঃ একদা বারা ইবন আযিব (রাঃ)-এর উষ্ট্রী জনৈক ব্যক্তির বাগানে প্রবেশ করে তা বিনষ্ট করে দেয়। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ফয়সালা এরূপ করেন যে, দিনের বেলা মালের মালিক তার মালের হিফাযত করবে এবং রাতের বেলা পশুর মালিক তার পশুর রক্ষণাবেক্ষণ করবে।
+। হারাম ইবনু মুহাইয়্যাসা (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। একদা আল-বারাআত ইবনু আযিব (রাঃ)-এর উষ্ট্রী জনৈক ব্যক্তির বাগানে ঢুকে এর ফসল নষ্ট করে দেয়। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফায়সালা দিলেনঃ দিনের বেলায় বাগানের মালিক বাগানের হিফাযাত করবে এবং রাতের বেলায় পশুর মালিক পশুর হিফাযাত করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3569</td></tr><tr><td>Arabic No</td><td>3569</td></tr><tr><td>Reference</td><td>Book 24 Hadith 154</td></tr></tbody></table></div>
 

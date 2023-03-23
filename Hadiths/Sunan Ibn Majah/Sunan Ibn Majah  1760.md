@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৭৬০। আতিয়্যা ইবনু সুফ্ইয়ান ইবনু ‘আবদুল্লাহ্ ইবনু রবীয়া (রহ.) থেকে বর্ণিত। তিনি বলেন, আমাদের যে প্রতিনিধি দলটি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট গিায়ছিল, তারা সাকীফ গোত্রের ইসলাম গ্রহণের বর্ণনা দেয়। রাবী বলেন, তারা তাঁর নিকটে রমযান মাসে উপস্থিত হয়। তিনি মসজিদে তাদের জন্য একটি তাঁবু খাটিয়ে দিয়েছিলেন। তারা ইসলাম গ্রহণ করার পর রমযান মাসের অবশিষ্ট রোযাগুলো রেখেছিল।
+। আতিয়্যা ইবনু সুফ্ইয়ান ইবনু ‘আবদুল্লাহ্ ইবনু রবীয়া (রহ.) থেকে বর্ণিত। তিনি বলেন, আমাদের যে প্রতিনিধি দলটি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট গিায়ছিল, তারা সাকীফ গোত্রের ইসলাম গ্রহণের বর্ণনা দেয়। রাবী বলেন, তারা তাঁর নিকটে রমযান মাসে উপস্থিত হয়। তিনি মসজিদে তাদের জন্য একটি তাঁবু খাটিয়ে দিয়েছিলেন। তারা ইসলাম গ্রহণ করার পর রমযান মাসের অবশিষ্ট রোযাগুলো রেখেছিল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1760</td></tr><tr><td>Arabic No</td><td>1760</td></tr><tr><td>Reference</td><td>Book 7 Hadith 123</td></tr></tbody></table></div>
 

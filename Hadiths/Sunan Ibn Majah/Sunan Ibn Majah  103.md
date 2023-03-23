@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১০৩। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, উমার ইসলাম গ্রহণ করলে জিবরীল (আলাইহিস সালাম) অবতরণ করে বলেন, হে মুহাম্মাদ! উমারের ইসলাম কবূল করার সুসংবাদে ঊর্ধ্ব জগতের বাসিন্দ্বারা আনন্দিত হয়েছে।
+। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, উমার ইসলাম গ্রহণ করলে জিবরীল (আলাইহিস সালাম) অবতরণ করে বলেন, হে মুহাম্মাদ! উমারের ইসলাম কবূল করার সুসংবাদে ঊর্ধ্ব জগতের বাসিন্দ্বারা আনন্দিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>103</td></tr><tr><td>Reference</td><td>Book 0 Hadith 103</td></tr></tbody></table></div>
 

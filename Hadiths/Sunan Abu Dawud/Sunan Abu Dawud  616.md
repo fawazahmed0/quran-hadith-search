@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ তাওবা .... মুগীরা ইবনু শোবা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেনঃ ইমাম যে স্থানে দাঁড়িয়ে ফরয নামায আদায় করেছে, সেখান হতে স্থানান্তরিত না হয়ে সে যেন অন্য নামায না পড়ে। (ইবনু মাজাহ)। ইমাম আবূ দাউদ (রহঃ) বলেন, রাবী আতা আল-খুরাসানীর- মুগীরা ইবনু শোবা (রাঃ) এর সাথে সাক্ষাত হয়নি (অতএব এটা সনদসূত্র কর্তিত ছাদীছ)।
+। মুগীরাহ ইবনু শু’বাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইমাম ফরয সালাত আদায়ের স্থান হতে সরে অন্যত্র সালাত আদায় করবে। [1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, ‘আত্বা আল-খুরাসানী (রাঃ) মুগীরাহ ইবনু শু’বাহ (রহঃ) এর সাক্ষাত পাননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>616</td></tr><tr><td>Arabic No</td><td>616</td></tr><tr><td>Reference</td><td>Book 2 Hadith 226</td></tr></tbody></table></div>
 

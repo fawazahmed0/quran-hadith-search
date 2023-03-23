@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৫৩৭। ইবনু উমার (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ রূহ কণ্ঠাগত না হওয়া (মৃত্যুর পূর্ব মুহূর্ত) পর্যন্ত আল্লাহ তা'আলা বান্দার তওবা কবুল করেন। হাসানঃ ইবনু মাজাহ (হাঃ ৪২৫৩)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। মুহাম্মাদ ইবনু সনদে উক্ত মর্মের একই রকম বর্ণিত হয়েছে।
+। ইবনু উমার (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ রূহ কণ্ঠাগত না হওয়া (মৃত্যুর পূর্ব মুহূর্ত) পর্যন্ত আল্লাহ তা'আলা বান্দার তওবা কবুল করেন। হাসানঃ ইবনু মাজাহ (হাঃ ৪২৫৩)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। মুহাম্মাদ ইবনু সনদে উক্ত মর্মের একই রকম বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3537</td></tr><tr><td>Arabic No</td><td>3537</td></tr><tr><td>Reference</td><td>Book 48 Hadith 168</td></tr></tbody></table></div>
 

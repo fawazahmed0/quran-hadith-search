@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৩৪০, আন্তর্জাতিক নাম্বারঃ ১৪০৯ ৩৩৪০-(৪৪/...) আবূ বকর ইবনু আবূ শায়বাহ, আমর আন্‌ নাকিদ ও যুহায়র ইবনু হারব (রহিমাহুমুল্লাহ) ... উসমান (রাযিঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুহরিম ব্যক্তি বিবাহ করবে না এবং বিবাহের প্রস্তাবও দিবে না। (ইসলামিক ফাউন্ডেশন ৩৩১৫, ইসলামীক সেন্টার ৩৩১৩)
+আবূ বকর ইবনু আবূ শায়বাহ, আমর আন্‌ নাকিদ ও যুহায়র ইবনু হারব (রহিমাহুমুল্লাহ) ... উসমান (রাযিঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুহরিম ব্যক্তি বিবাহ করবে না এবং বিবাহের প্রস্তাবও দিবে না। (ইসলামিক ফাউন্ডেশন ৩৩১৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3449</td></tr><tr><td>Arabic No</td><td>1409.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 52</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah], [Amru An Naqid] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இஹ்ராம் கட்டியவர் மணமுடிக்கவும் கூடாது. பெண் கேட்கவும் கூடாது. இதை உஸ்மான் பின் அஃப்பான் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 16
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இஹ்ராம் கட்டியவர் மணமுடிக்கவும் கூடாது. பெண் கேட்கவும் கூடாது. இதை உஸ்மான் பின் அஃப்பான் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3449</td></tr><tr><td>Arabic No</td><td>1409.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 52</td></tr></tbody></table></div>
 

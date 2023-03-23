@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মুছান্না (রহঃ) ...... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। উকবা ইবন আমির (রাঃ)-এর বোন পদব্রজে হজ্জে যাওয়ার জন্য মানত করেন। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে এরূপ নির্দেশ দেন যে, সে যেন সওয়ারীতে আরোহণ করে এবং মানত ভঙ্গের জন্য যেন হাদী কুরবানী করে।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। উকবাহ ইবনু ‘আমির (রাঃ)-এর বোন পদব্রজে হজে (হজ্জে) যাওয়ার মানত করেছিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে সাওয়ারীতে করে আসার এবং একটি কুরবানী করার নির্দেশ দিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3296</td></tr><tr><td>Arabic No</td><td>3296</td></tr><tr><td>Reference</td><td>Book 22 Hadith 55</td></tr></tbody></table></div>
 

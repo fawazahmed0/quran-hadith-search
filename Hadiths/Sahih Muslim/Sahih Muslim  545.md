@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৩৩, আন্তর্জাতিক নাম্বারঃ ২৩০ ৪৩৩-(৯/২৩০) কুতাইবা ইবনু সা'ঈদ, আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব (রহঃ) ...... আবূ আনাস (রহঃ) থেকে বর্ণিত। তিনি বলেছেনঃ একদিন উসমান একটি উচু স্থানে বসে ওযু করে বললেনঃ আমি কি তোমাদের রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ওযু কিরূপ ছিল তা দেখাব না? এরপর তিনি প্রতিটি অঙ্গ তিনবার করে ধুলেন। কুতাইবাহ আনাস সূত্রে এতটুকু কথা অতিরিক্ত বলেছেন যে, এ সময় তার (উসমানের) কাছে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অনেক সাহাবা উপস্থিত ছিলেন (অর্থাৎ কেউই তার বিরোধিতা করেননি)। (ইসলামিক ফাউন্ডেশনঃ ৪৩৬, ইসলামিক সেন্টারঃ ৪৫২)
+কুতাইবা ইবনু সা'ঈদ, আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব (রহঃ) ...... আবূ আনাস (রহঃ) থেকে বর্ণিত। তিনি বলেছেনঃ একদিন উসমান একটি উচু স্থানে বসে ওযু করে বললেনঃ আমি কি তোমাদের রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ওযু কিরূপ ছিল তা দেখাব না? এরপর তিনি প্রতিটি অঙ্গ তিনবার করে ধুলেন। কুতাইবাহ আনাস সূত্রে এতটুকু কথা অতিরিক্ত বলেছেন যে, এ সময় তার (উসমানের) কাছে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অনেক সাহাবা উপস্থিত ছিলেন (অর্থাৎ কেউই তার বিরোধিতা করেননি)। (ইসলামিক ফাউন্ডেশনঃ ৪৩৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>545</td></tr><tr><td>Arabic No</td><td>230</td></tr><tr><td>Reference</td><td>Book 2 Hadith 12</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaib
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Kuteybe b. Said, Ebu Bekr b. Ebi Şeybe ve Zuheyr b. Harb -lafız Kuteybe ve Ebu Bekir'e aittir - tahdis edip dediler ki: Bize Vekl', Süfyan'dan tahdis etti, o Ebu'n-Nadr'dan, o Enes'ten rivayet ettiğine göre Osman (mescidin yakınındaki) oturmak için ayrılmış yerlerde abdest aldı ve: Size Resulullah (Sallallahu aleyhi ve Sellem)'in nasıl abdest aldığını göstereyim mi, dedikten sonra (abdest azalarını) üçer üçer yıkayarak abdest aldı. Kuteybe rivayetinde şu fazlalığı eklemiştir: Süfyan dedi ki: Ebu'n-Nadr Ebu Enes'ten şöyle dediğini nakletti: Ebu Enes: Yanında da Resulullah (Sallallahu aleyhi ve Sellem)'in ashabından bazı adamlar da vardı, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 9835 539 - 544
+Bize Kuteybe b. Said, Ebu Bekr b. Ebi Şeybe ve Zuheyr b. Harb -lafız Kuteybe ve Ebu Bekir'e aittir - tahdis edip dediler ki: Bize Vekl', Süfyan'dan tahdis etti, o Ebu'n-Nadr'dan, o Enes'ten rivayet ettiğine göre Osman (mescidin yakınındaki) oturmak için ayrılmış yerlerde abdest aldı ve: Size Resulullah (Sallallahu aleyhi ve Sellem)'in nasıl abdest aldığını göstereyim mi, dedikten sonra (abdest azalarını) üçer üçer yıkayarak abdest aldı. Kuteybe rivayetinde şu fazlalığı eklemiştir: Süfyan dedi ki: Ebu'n-Nadr Ebu Enes'ten şöyle dediğini nakletti: Ebu Enes: Yanında da Resulullah (Sallallahu aleyhi ve Sellem)'in ashabından bazı adamlar da vardı, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>545</td></tr><tr><td>Arabic No</td><td>230</td></tr><tr><td>Reference</td><td>Book 2 Hadith 12</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৫৫। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক মুমিনের জন্যই উদ্ধ জগতে দু’টি দরজা আছে। একটি দরজা দিয়ে তার আমল উপরে উঠে যায় এবং অপরটি দিয়ে তার রিযিক নেমে আসে। তারপর সে যখন মারা যায় তখন দরজা দু’টি তার জন্য কাঁদে। এই পর্যায়ে আল্লাহ বলেনঃ “আসমান-যমিনে কেউ তাদের জন্য কাঁদেনি এবং তাদেরকে অবকাশও দেয়া হয়নি" (সূরা আদ-দুখান-২৯)। যঈফ, যঈফা (৪৪৯১) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। আমরা শুধু উপরোক্ত সনদেই এ হাদীস মারফু হিসেবে জেনেছি। মূসা ইবনু উবাইদা ও ইয়াযীদ ইবনু আবান আর-রাকাশী হাদীস শাস্ত্রে দুর্বল।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক মুমিনের জন্যই উদ্ধ জগতে দু’টি দরজা আছে। একটি দরজা দিয়ে তার আমল উপরে উঠে যায় এবং অপরটি দিয়ে তার রিযিক নেমে আসে। তারপর সে যখন মারা যায় তখন দরজা দু’টি তার জন্য কাঁদে। এই পর্যায়ে আল্লাহ বলেনঃ “আসমান-যমিনে কেউ তাদের জন্য কাঁদেনি এবং তাদেরকে অবকাশও দেয়া হয়নি" (সূরা আদ-দুখান-২৯)। যঈফ, যঈফা (৪৪৯১) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। আমরা শুধু উপরোক্ত সনদেই এ হাদীস মারফু হিসেবে জেনেছি। মূসা ইবনু উবাইদা ও ইয়াযীদ ইবনু আবান আর-রাকাশী হাদীস শাস্ত্রে দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3255</td></tr><tr><td>Arabic No</td><td>3255</td></tr><tr><td>Reference</td><td>Book 47 Hadith 307</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik:that the Messenger of Allah (ﷺ) said: "There is no believer except that he has two doors: A door through which his deeds ascend, and a door through which his sustenance descends. So when he dies they weep for him. That is the meaning of the saying of Allah, the Mighty and Sublime: And the heavens and the earth wept not for them, nor were they given respite (44:29)
+Narrated Anas bin Malik:that the Messenger of Allah (ﷺ) said: "There is no believer except that he has two doors: A door through which his deeds ascend, and a door through which his sustenance descends. So when he dies they weep for him. That is the meaning of the saying of Allah, the Mighty and Sublime: And the heavens and the earth wept not for them, nor were they given respite (44:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3255</td></tr><tr><td>Arabic No</td><td>3255</td></tr><tr><td>Reference</td><td>Book 47 Hadith 307</td></tr></tbody></table></div>
 

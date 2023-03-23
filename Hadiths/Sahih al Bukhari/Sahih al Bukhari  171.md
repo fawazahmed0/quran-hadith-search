@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মাথা মুন্ডন করলে আবূ তলহা (রাযি.)-ই প্রথমে তাঁর চুল সংগ্রহ করেন। (১৭০; মুসলিম ১৫/৫৬, হাঃ ১৩০৫, আহমাদ ১২০৯৩) (আধুনিক প্রকাশনীঃ ১৬৭, ইসলামিক ফাউন্ডেশনঃ ১৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মাথা মুন্ডন করলে আবূ তলহা (রাযি.)-ই প্রথমে তাঁর চুল সংগ্রহ করেন। (১৭০; মুসলিম ১৫/৫৬, হাঃ ১৩০৫, আহমাদ ১২০৯৩) (আধুনিক প্রকাশনীঃ ১৬৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 4 Hadith 37</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Abdurrahim] berkata, telah mengaba
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஹஜ்ஜில்) தமது தலைமுடியை மழித்த போது, அபூதல்ஹா (ரலி) அவர்களே முதன் முதலில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் முடிகளில் சிலவற்றை எடுத்து (பத்திரப்படுத்தி)க்கொண்டார்கள். அத்தியாயம் : 4
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஹஜ்ஜில்) தமது தலைமுடியை மழித்த போது, அபூதல்ஹா (ரலி) அவர்களே முதன் முதலில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் முடிகளில் சிலவற்றை எடுத்து (பத்திரப்படுத்தி)க்கொண்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 4 Hadith 37</td></tr></tbody></table></div>
 

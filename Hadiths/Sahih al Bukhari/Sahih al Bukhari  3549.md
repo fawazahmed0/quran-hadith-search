@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর চেহারা ছিল মানুষের মধ্যে[১] সর্বাপেক্ষা সুন্দর এবং তিনি ছিলেন সর্বোত্তম আখলাকের অধিকারী। তিনি বেশি লম্বাও ছিলেন না এবং বেঁটেও ছিলেন না। (মুসলিম ৪৩/২৫ হাঃ ২৩৩৭, আহমাদ ১৮৫৮২) (আধুনিক প্রকাশনীঃ ৩২৮৫, ইসলামিক ফাউন্ডেশনঃ ৩২৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর চেহারা ছিল মানুষের মধ্যে[১] সর্বাপেক্ষা সুন্দর এবং তিনি ছিলেন সর্বোত্তম আখলাকের অধিকারী। তিনি বেশি লম্বাও ছিলেন না এবং বেঁটেও ছিলেন না। (মুসলিম ৪৩/২৫ হাঃ ২৩৩৭, আহমাদ ১৮৫৮২) (আধুনিক প্রকাশনীঃ ৩২৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3549</td></tr><tr><td>Arabic No</td><td>3549</td></tr><tr><td>Reference</td><td>Book 61 Hadith 58</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ahmad bin Sa'id Abu 'Abdullah] telah bercerita kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறிய தாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மக்களிலேயே அழகிய முகம் உடையவர் களாகவும் அழகிய உருவ அமைப்பு உடையவர்களாகவும் இருந்தார்கள். அவர்கள் வெளிப்படையாகத் தெரியும் அள வுக்கு உயரமானவர்களாகவும் இல்லை; குட்டையானவர்களாகவும் இல்லை. அத்தியாயம் : 61
+பராஉ (ரலி) அவர்கள் கூறிய தாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மக்களிலேயே அழகிய முகம் உடையவர் களாகவும் அழகிய உருவ அமைப்பு உடையவர்களாகவும் இருந்தார்கள். அவர்கள் வெளிப்படையாகத் தெரியும் அள வுக்கு உயரமானவர்களாகவும் இல்லை; குட்டையானவர்களாகவும் இல்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3549</td></tr><tr><td>Arabic No</td><td>3549</td></tr><tr><td>Reference</td><td>Book 61 Hadith 58</td></tr></tbody></table></div>
 

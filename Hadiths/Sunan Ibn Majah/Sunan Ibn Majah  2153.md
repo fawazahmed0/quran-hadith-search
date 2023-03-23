@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২১৫৩। উমার ইবনুল খাত্তাব (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমদানী পণ্য সরবরাহকারী ব্যবসায়ী রিযিক প্রাপ্ত হয় এবং মজুতদার অভিশপ্ত।
+। উমার ইবনুল খাত্তাব (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমদানী পণ্য সরবরাহকারী ব্যবসায়ী রিযিক প্রাপ্ত হয় এবং মজুতদার অভিশপ্ত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2153</td></tr><tr><td>Arabic No</td><td>2153</td></tr><tr><td>Reference</td><td>Book 12 Hadith 17</td></tr></tbody></table></div>
 

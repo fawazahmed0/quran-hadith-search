@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন মুহাম্মদ (রহঃ) .... মুসআব ইবন সা’দ (রহঃ) তার পিতা থেকে বর্ণনা করেছেন। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আখিরাতের কাজ ব্যতীত, অন্যান্য কাজের জন্য তাড়াহুড়া না করাই উত্তম।
+। মুস‘আব ইবনু সা‘দ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আখিরাতের আমল ছাড়া পার্থিব ব্যাপারেই তাড়াহুড়া পরিহার করতে হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4810</td></tr><tr><td>Arabic No</td><td>4810</td></tr><tr><td>Reference</td><td>Book 43 Hadith 38</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪৩৩, আন্তর্জাতিক নাম্বারঃ ১৭৪১ ৪৪৩৩-(১৯/১৭৪১) হাসান ইবনু ‘আলী হুলওয়ানী ও আবদ ইবনু হুমায়দ (রহ) ... আবূ হুরাইরাহ্ (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা শত্রুর মুখোমুখি হওয়ার আকাঙ্ক্ষা করো না আর যখন মুখোমুখি হয়ে পড়ে তখন ধৈর্যধারণ করবে। (ইসলামিক ফাউন্ডেশন ৪৩৯১, ইসলামিক সেন্টার ৪৩৯১)
+হাসান ইবনু ‘আলী হুলওয়ানী ও আবদ ইবনু হুমায়দ (রহ) ... আবূ হুরাইরাহ্ (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা শত্রুর মুখোমুখি হওয়ার আকাঙ্ক্ষা করো না আর যখন মুখোমুখি হয়ে পড়ে তখন ধৈর্যধারণ করবে। (ইসলামিক ফাউন্ডেশন ৪৩৯১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4541</td></tr><tr><td>Arabic No</td><td>1741</td></tr><tr><td>Reference</td><td>Book 32 Hadith 22</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Al Hasan bin Ali Al Khulwani] dan [Abd bin Humai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: போர் என்பது சூழ்ச்சியாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 32
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: போர் என்பது சூழ்ச்சியாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4541</td></tr><tr><td>Arabic No</td><td>1741</td></tr><tr><td>Reference</td><td>Book 32 Hadith 22</td></tr></tbody></table></div>
 

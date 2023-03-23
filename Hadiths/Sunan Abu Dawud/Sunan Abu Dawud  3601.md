@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহালুদ ইবন খালফ (রহঃ) .... সুলায়মান ইবন মূসা (রহঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ খিয়ানতকারী পুরুষ ও স্ত্রীর সাক্ষ্য, যিনাকার নর-নারীর সাক্ষ্য এবং স্বীয় ভ্রাতার প্রতি বিদ্বেষপোষণকারী ব্যক্তির সাক্ষ্য গ্রহণীয় নয়।
+। সুলাইমান ইবনু মূসা থেকে আমর ইবনু শু‘আইব (রহঃ)-এর মাধ্যমে তার পিতার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ খিয়ানাতকারী ও খিয়ানাতকারিনী, ব্যভিচারী ও ব্যভিচারীনী এবং কোন মুসলিম ভাইয়ের প্রতি হিংসা পোষণকারীর সাক্ষ্য বৈধ নয়।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3601</td></tr><tr><td>Arabic No</td><td>3601</td></tr><tr><td>Reference</td><td>Book 25 Hadith 31</td></tr></tbody></table></div>
 

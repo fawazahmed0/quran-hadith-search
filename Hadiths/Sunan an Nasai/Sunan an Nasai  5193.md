@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবু বকর ইবন আলী (রহঃ) ... আবূ ইদরিস (রাঃ) থেকে বর্ণিত যে, সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তির হাতে সোনার আংটি দেখে তাঁর হাতের লাঠি দিয়ে তার আঙ্গুলে আঘাত করলেন। ফলে সে তা খুলে ফেলে দিল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5193</td></tr><tr><td>Arabic No</td><td>5193</td></tr><tr><td>Reference</td><td>Book 48 Hadith 154</td></tr></tbody></table></div>
 

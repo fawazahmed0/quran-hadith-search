@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 জাবির (রাঃ) হতে বর্ণিত যে, মুহারিব ও সালাবা গোত্রের বিরুদ্ধে যুদ্ধ করার সময় নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সাহাবীবর্গকে সঙ্গে নিয়ে সালাতুল খাওফ আদায় করেছেন। [৪১২৫] (আধুনিক প্রকাশনীঃ অনুচ্ছেদ. ইসলামিক ফাউন্ডেশনঃ অনুচ্ছেদ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4126</td></tr><tr><td>Arabic No</td><td>4126</td></tr><tr><td>Reference</td><td>Book 64 Hadith 170</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Jabir said that the Prophet (ﷺ) led the people in the Fear Prayer on the day o
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: முஹாரிப் மற்றும் ஸஅலபா போரின்போது203 நபி (ஸல்) அவர்கள் தம் தோழர்களுடன் (அச்ச நேரத் தொழுகையைத்) தொழுதார்கள். அத்தியாயம் : 64
+ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: முஹாரிப் மற்றும் ஸஅலபா போரின்போது203 நபி (ஸல்) அவர்கள் தம் தோழர்களுடன் (அச்ச நேரத் தொழுகையைத்) தொழுதார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4126</td></tr><tr><td>Arabic No</td><td>4126</td></tr><tr><td>Reference</td><td>Book 64 Hadith 170</td></tr></tbody></table></div>
 

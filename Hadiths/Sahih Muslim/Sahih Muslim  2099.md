@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৯৮৪, আন্তর্জাতিক নাম্বারঃ ৯০৩ ১৯৮৪-(.../...) মুহাম্মাদ ইবনুল মুসান্না, ইবনু আবু উমার (রহঃ) ..... ইয়াহইয়া ইবনু সাঈদ (রহঃ) থেকে সুলায়মান ইবনু বিলাল-এর বর্ণিত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ১৯৬৮, ইসলামীক সেন্টার ১৯৭৫)
+মুহাম্মাদ ইবনুল মুসান্না, ইবনু আবু উমার (রহঃ) ..... ইয়াহইয়া ইবনু সাঈদ (রহঃ) থেকে সুলায়মান ইবনু বিলাল-এর বর্ণিত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ১৯৬৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2099</td></tr><tr><td>Arabic No</td><td>903.02</td></tr><tr><td>Reference</td><td>Book 10 Hadith 10</td></tr></tbody></table></div>
 

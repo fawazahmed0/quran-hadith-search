@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবনু উসমান ইবনু হাকীম ও ‘আমর ইবনু ‘আলী (রহ.) ..... ‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সা.) গোসলের পর উযূ করতেন না। সহীহ: তিরমিযী ১০৭, ইবনু মাজাহ ৫৭৯। [দ্রঃ ২৫২]
+। আহমদ ইবনু উসমান ইবনু হাকীম (রহঃ) ও আমর ইবনু আলী (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গোসলের পর উযূ (ওজু/অজু/অযু) করতেন না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>430</td></tr><tr><td>Arabic No</td><td>430</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Ahmad bin Utsman bin Hakim] dia berkata; Telah me
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), gusülden sonra abdesti bozulmadıkça namaz için abdest almazdı. (Ebû Dâvûd, Tahara: 99; Tirmizî, Tahara: 79)
+Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), gusülden sonra abdesti bozulmadıkça namaz için abdest almazdı. (Ebû Dâvûd, Tahara: 99; Tirmizî, Tahara:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>430</td></tr><tr><td>Arabic No</td><td>430</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী ইবনু হুজর (রহ.) ..... যায়দ ইবনু আরকাম (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সা.) বলেছেন: যে লোক গোঁফ ছাটে না সে আমাদের মধ্যে নয়।” সহীহ: তিরমিযী ২৭৬১, ম’জামুস সগীর (১/১০০)।
+। আলী ইবনু হুজর (রহঃ) ... যায়দ ইবনু আরকাম (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যাক্তি গোঁফ না ছাঁটে সে আমাদের অন্তর্ভূক্ত নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Ali bin Hujr] dia berkata; Telah memberitakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyd b. Erkam (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: kısaltmayıp uzatanlar bizim yolumuza uyanlardan değildir.) Edeb: 16; Müsned: 18462
+Zeyd b. Erkam (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: kısaltmayıp uzatanlar bizim yolumuza uyanlardan değildir.) Edeb: 16; Müsned:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
 

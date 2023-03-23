@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক নিজ আমীরের কাছ থেকে অপছন্দনীয় কিছু দেখবে সে যেন তাতে ধৈর্য ধারণ করে। কেননা, যে লোক জামাআত থেকে এক বিঘতও বিচ্ছিন্ন হবে তার মৃত্যু হবে অবশ্যই জাহিলী মৃত্যুর মত। [৭০৫৩; মুসলিম ৩৩/১৩, হাঃ ১৮৪৯, আহমাদ ২৪৮৭] (আধুনিক প্রকাশনী- ৬৫৬৪, ইসলামিক ফাউন্ডেশন- ৬৫৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক নিজ আমীরের কাছ থেকে অপছন্দনীয় কিছু দেখবে সে যেন তাতে ধৈর্য ধারণ করে। কেননা, যে লোক জামাআত থেকে এক বিঘতও বিচ্ছিন্ন হবে তার মৃত্যু হবে অবশ্যই জাহিলী মৃত্যুর মত। [৭০৫৩; মুসলিম ৩৩/১৩, হাঃ ১৮৪৯, আহমাদ ২৪৮৭] (আধুনিক প্রকাশনী- ৬৫৬৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7054</td></tr><tr><td>Arabic No</td><td>7054</td></tr><tr><td>Reference</td><td>Book 92 Hadith 7</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "Whoever notices something which he dislikes done by his ruler, then he should be patient, for whoever becomes separate from the company of the Muslims even for a span and then dies, he will die as those who died in the Pre-lslamic period of Ignorance (as rebellious sinners). (Fath-ul-Bari page 112, Vol. 16)
+Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "Whoever notices something which he dislikes done by his ruler, then he should be patient, for whoever becomes separate from the company of the Muslims even for a span and then dies, he will die as those who died in the Pre-lslamic period of Ignorance (as rebellious sinners). (Fath-ul-Bari page 112, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7054</td></tr><tr><td>Arabic No</td><td>7054</td></tr><tr><td>Reference</td><td>Book 92 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hamm
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: எவர் தம் (ஆட்சித்) தலைவரிட மிருந்து (மார்க்க விஷயத்தில்) தமக்குப் பிடிக்காத (குறை) ஒன்றைக் காண்கிறாரோ அவர் அதைப் பொறுத்துக்கொள்ளட்டும்! ஏனெனில், ஒருவர் (இஸ்லாமியக்) கட்டமைப்பிலிருந்து பிரிந்து, (அதே நிலையில்) இறந்துவிட்டால் அஞ்ஞான கால மரணத்தையே அவர் சந்திப்பார். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 92
+நபி (ஸல்) அவர்கள் கூறினார்கள்: எவர் தம் (ஆட்சித்) தலைவரிட மிருந்து (மார்க்க விஷயத்தில்) தமக்குப் பிடிக்காத (குறை) ஒன்றைக் காண்கிறாரோ அவர் அதைப் பொறுத்துக்கொள்ளட்டும்! ஏனெனில், ஒருவர் (இஸ்லாமியக்) கட்டமைப்பிலிருந்து பிரிந்து, (அதே நிலையில்) இறந்துவிட்டால் அஞ்ஞான கால மரணத்தையே அவர் சந்திப்பார். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7054</td></tr><tr><td>Arabic No</td><td>7054</td></tr><tr><td>Reference</td><td>Book 92 Hadith 7</td></tr></tbody></table></div>
 

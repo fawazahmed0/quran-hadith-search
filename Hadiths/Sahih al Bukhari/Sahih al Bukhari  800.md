@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ أَبُو حُمَيْدٍ رَفَعَ النَّبِيُّ صلى الله عليه وسلم وَاسْتَوَى جَالِسًا حَتَّى يَعُودَ كُلُّ فَقَارٍ مَكَانَهُ. আবূ হুমায়দ (রহ.) বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উঠে এমনভাবে সোজা হয়ে দাঁড়াতেন যে, মেরুদন্ডের হাড় যথাস্থানে ফিরে আসতো। ৮০০. সাবিত (রহ.) হতে বর্ণিত। তিনি বলেন, আনাস ইবনু মালিক (রাযি.) আমাদেরকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সালাতের বর্ণনা দিলেন। অতঃপর তিনি সালাত আদায় করে দেখালেন। তিনি যখন রুকূ‘ হতে মাথা উঠালেন, তখন (এতক্ষণ) দাঁড়িয়ে রইলেন যে, আমরা মনে করলাম, তিনি (সিজদার কথা) ভুলে গেছেন। (৮২১) (আধুনিক প্রকাশনীঃ ৭৫৬, ইসলামিক ফাউন্ডেশনঃ ৭৬৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ أَبُو حُمَيْدٍ رَفَعَ النَّبِيُّ صلى الله عليه وسلم وَاسْتَوَى جَالِسًا حَتَّى يَعُودَ كُلُّ فَقَارٍ مَكَانَهُ. আবূ হুমায়দ (রহ.) বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উঠে এমনভাবে সোজা হয়ে দাঁড়াতেন যে, মেরুদন্ডের হাড় যথাস্থানে ফিরে আসতো। ৮০০. সাবিত (রহ.) হতে বর্ণিত। তিনি বলেন, আনাস ইবনু মালিক (রাযি.) আমাদেরকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সালাতের বর্ণনা দিলেন। অতঃপর তিনি সালাত আদায় করে দেখালেন। তিনি যখন রুকূ‘ হতে মাথা উঠালেন, তখন (এতক্ষণ) দাঁড়িয়ে রইলেন যে, আমরা মনে করলাম, তিনি (সিজদার কথা) ভুলে গেছেন। (৮২১) (আধুনিক প্রকাশনীঃ ৭৫৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>800</td></tr><tr><td>Arabic No</td><td>800</td></tr><tr><td>Reference</td><td>Book 10 Hadith 195</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸாபித் (அல்புனானீ-ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் எங்களுக்கு நபி (ஸல்) அவர்களின் தொழுகை முறையை விவரிக்கும் முகமாக தொழுது காட்டுவார்கள். அவர்கள் ருகூஉவி-ருந்து தலையை உயர்த்தியதும் ‘(தாம் தொழுகை யில் இருக்கிறோம் என்பதையே) அவர்கள் மறந்துவிட்டார்கள்’ என்று நாங்கள் சொல்லும் அளவுக்கு (நீண்ட நேரம் அசையாமல்) நிற்பார்கள். அத்தியாயம் : 10
+ஸாபித் (அல்புனானீ-ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் எங்களுக்கு நபி (ஸல்) அவர்களின் தொழுகை முறையை விவரிக்கும் முகமாக தொழுது காட்டுவார்கள். அவர்கள் ருகூஉவி-ருந்து தலையை உயர்த்தியதும் ‘(தாம் தொழுகை யில் இருக்கிறோம் என்பதையே) அவர்கள் மறந்துவிட்டார்கள்’ என்று நாங்கள் சொல்லும் அளவுக்கு (நீண்ட நேரம் அசையாமல்) நிற்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>800</td></tr><tr><td>Arabic No</td><td>800</td></tr><tr><td>Reference</td><td>Book 10 Hadith 195</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sabit şöyle demiştir: "Enes İbn Mâlik (r.a.) bize Resulullah Sallallahu Aleyhi ve Sellem'in nasıl namaz kıldığını anlatırken şunları söyledi: Resulullah Sallallahu Aleyhi ve Sellem rüku'dan başını kaldırıp doğrulunca o kadar çok kıyamda beklerdi ki secdeye gitmeyi unuttuğunu zannederdik. Tekrar: 821
+Sabit şöyle demiştir: "Enes İbn Mâlik (r.a.) bize Resulullah Sallallahu Aleyhi ve Sellem'in nasıl namaz kıldığını anlatırken şunları söyledi: Resulullah Sallallahu Aleyhi ve Sellem rüku'dan başını kaldırıp doğrulunca o kadar çok kıyamda beklerdi ki secdeye gitmeyi unuttuğunu zannederdik. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>800</td></tr><tr><td>Arabic No</td><td>800</td></tr><tr><td>Reference</td><td>Book 10 Hadith 195</td></tr></tbody></table></div>
 

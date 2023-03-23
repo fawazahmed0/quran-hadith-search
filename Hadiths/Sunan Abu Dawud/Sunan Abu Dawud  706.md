@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কাছীর ইবনু উবায়েদ ..... সাঈদ হতে পূর্ববর্তী হাদীছের সূত্রে ও অর্থে এই হাদীছটি বর্ণিত হয়েছে। তবে তাতে আরও আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সে আমাদের নামায নষ্ট করেছে কাজেই আল্লাহ্ তার চলৎশক্তি রহিত করুন।
+। সাঈদ হতে উক্ত সানাদ ও অর্থে উপরোক্ত হাদীস বর্ণিত হয়েছে। তাতে এও রয়েছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সে আমাদের সালাত নষ্ট করেছে। আল্লাহ তার পা কেটে দিন। [1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, সাঈদ হতে মুসহিরও উক্ত হাদীস বর্ণনা করেছেন। তাতেও রয়েছেঃ সে আমার সালাত নষ্ট করেছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>706</td></tr><tr><td>Arabic No</td><td>706</td></tr><tr><td>Reference</td><td>Book 2 Hadith 316</td></tr></tbody></table></div>
 

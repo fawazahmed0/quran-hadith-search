@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহ্ইয়া ইবন মু‘ঈন (রহঃ) ...... আবদুর হমান ইবন তারিক (রহঃ) তাঁর মাতা হতে বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন ইয়ালার গৃহের নিকট দিয়ে গমন করেন, তখন তিনি বায়তুল্লাহর দিকে মুখ দিয়ে মুখ ফিরিয়ে দু‘আ করেন।
+। আব্দুর রহমান ইবনু তারিক (রহ.) থেকে তার মাতা সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘দ্বারে ই‘য়ালা‘র নিকটস্থ স্থান দিয়ে অতিক্রমকালে বায়তুল্লাহকে সম্মুখে রেখে দু‘আ করেছেন। ‘উবাইদুল্লাহ স্থানটির নাম ভুলে গেছেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2007</td></tr><tr><td>Arabic No</td><td>2007</td></tr><tr><td>Reference</td><td>Book 11 Hadith 287</td></tr></tbody></table></div>
 

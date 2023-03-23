@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০১৩, আন্তর্জাতিক নাম্বারঃ ৫০৪ ১০১৩-(২৫৬/...) ইয়াহইয়া ইবনু ইয়াহইয়া, আমর আন নাকিদ ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... যুহরী (রহঃ) হতে এ সনদে উপরের হাদীস বর্ণিত হয়েছে। তবে এ সূত্রে বলা হয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আরাফাতের ময়দানে সালাতে রত ছিলেন। (ইসলামিক ফাউন্ডেশনঃ ১০০৭, ইসলামিক সেন্টারঃ ১০১৮)
+ইয়াহইয়া ইবনু ইয়াহইয়া, আমর আন নাকিদ ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... যুহরী (রহঃ) হতে এ সনদে উপরের হাদীস বর্ণিত হয়েছে। তবে এ সূত্রে বলা হয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আরাফাতের ময়দানে সালাতে রত ছিলেন। (ইসলামিক ফাউন্ডেশনঃ ১০০৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>504.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 288</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith has been narrated by Ibn 'Uyaina on the authority of al-Zuhri with t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அவற்றில், (அப்போது) நபி (ஸல்) அவர்கள் அரஃபாவில் (மக்களுக்குத்) தொழுவித்துக் கொண்டிருந்தார்கள் என்று இடம்பெற்றுள்ளது. அத்தியாயம் : 4
+மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அவற்றில், (அப்போது) நபி (ஸல்) அவர்கள் அரஃபாவில் (மக்களுக்குத்) தொழுவித்துக் கொண்டிருந்தார்கள் என்று இடம்பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>504.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 288</td></tr></tbody></table></div>
 

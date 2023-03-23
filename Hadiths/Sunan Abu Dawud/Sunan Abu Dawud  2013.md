@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন হাম্বল (রহঃ) ..... ইবন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যোহর, আসর, মাগরিব ও এশার নামায বাতহাতে (অর্থাৎ মুহাসসাবে) আদায় করেন। অতঃপর তিনি সামান্য নিদ্রার পর মক্কায় প্রবেশ করতেন। আর ইবন উমার (রাঃ)-ও এরূপ করতেন। (কারণ ইবন উমার (রাঃ) নবীজীর পদাংক অনুসরণকারী ছিলেন।)।
+। ইবনু উমার (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাতহায় যুহর, ‘আসর, মাগরিব ও ‘ইশার সালাত আদায় করে সামান্য ঘুমাতেন, তারপর মক্কায় প্রবেশ করেন। নাফি‘ বলেন, ইবনু উমার (রাযি.)-ও অনুরূপ করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2013</td></tr><tr><td>Arabic No</td><td>2013</td></tr><tr><td>Reference</td><td>Book 11 Hadith 293</td></tr></tbody></table></div>
 

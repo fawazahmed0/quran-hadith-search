@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন হাম্বল (রহঃ) ..... আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, অনেক কাফেলা (হজ্জের মওসুমে) আমাদের অতিক্রম করছিল আর আমরা ইহরাম অবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ছিলাম। তারা আমাদের সম্মুখে এসে পড়লে আমাদের স্ত্রী লোকেরা মাথায় কাপড় টেনে মুখ ঢাকতেন। আর তারা আমাদের সম্মুখ হতে দুরে সরে গেলে আমরা আমাদের মুখমন্ডল খুলতাম।
+। ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, অনেক কাফেলা আমাদের পাশ দিয়ে অতিক্রম করছিল। তখন আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে ইহরাম অবস্থায় ছিলাম। তারা আমাদের সামনা-সামনি আসলে আমাদের নারীরা নিজ মুখাবরণ মাথা থেকে নামিয়ে নিজ মুখমন্ডল ঢেকে ফেলতেন। অতঃপর তারা অতিক্রম করে চলে গেলে আমরা মুখ খুলতাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>1833</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
 

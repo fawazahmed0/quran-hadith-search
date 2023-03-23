@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবু শায়বা (রহঃ) ..... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা তাঁর একটি চাদর চুরি হয়ে যায়, তিনি চোরের জন্য বদদুয়া করতে শুরু করলে নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম বলেন, তুমি তার জন্য ঐরূপ করে বিষয়টি হালকা কর না (অর্থাৎ তাঁর পাপের বোঝা কমিও না)।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা তার একখানা চাদর চুরি হয়ে যায়। তিনি চোরকে বদ্দু‘আ করতে শুরু করলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তুমি তার পাপকে হালকা করো না। ইমাম আবূ দাঊদ (রহঃ) বলেন, ‘লা তুসাববিখী’ এর অর্থ হচ্ছে, হালকা করো না।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1497</td></tr><tr><td>Arabic No</td><td>1497</td></tr><tr><td>Reference</td><td>Book 8 Hadith 82</td></tr></tbody></table></div>
 

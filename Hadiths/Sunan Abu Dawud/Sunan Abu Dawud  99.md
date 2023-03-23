@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল আলা .... আয়িশা (রাঃ) হতে এই সনদেও নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর পূর্বোক্ত হাদীছের অনুরূপ হাদীছ বর্ণিত হয়েছে।
+। ‘আয়িশাহ্ (রাঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>99</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 1 Hadith 99</td></tr></tbody></table></div>
 

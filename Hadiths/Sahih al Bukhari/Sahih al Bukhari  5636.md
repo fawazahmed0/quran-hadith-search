@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মুল ফাযল (রাঃ) হতে বর্ণিত যে, লোকজন ‘আরাফাহ’র দিনে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সিয়াম পালন সম্পর্কে সন্দেহ করল। তখন আমি তাঁর নিকট একটি পেয়ালায় কিছু দুধ পাঠালাম। তিনি তা পান করলেন। (আধুনিক প্রকাশনী- ৫২২৫, ইসলামিক ফাউন্ডেশন- ৫১২১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মুল ফাযল (রাঃ) হতে বর্ণিত যে, লোকজন ‘আরাফাহ’র দিনে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সিয়াম পালন সম্পর্কে সন্দেহ করল। তখন আমি তাঁর নিকট একটি পেয়ালায় কিছু দুধ পাঠালাম। তিনি তা পান করলেন। (আধুনিক প্রকাশনী- ৫২২৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5636</td></tr><tr><td>Arabic No</td><td>5636</td></tr><tr><td>Reference</td><td>Book 74 Hadith 62</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin Abbas] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்முல் ஃபள்ல் (ரலி) அவர்கள் கூறியாவது: (ஹஜ்ஜின்போது) நபி (ஸல்) அவர்கள் ‘அரஃபா’ (துல்ஹிஜ்ஜா ஒன்பதாம்) நாளில் நோன்பு நோற்றிருந்தார்களா என மக்கள் சந்தேகப்பட்டனர். ஆகவே, அவர்களிடம் பால் கிண்ணம் ஒன்று அனுப்பிவைக்கப் பட்டது. அதை நபி (ஸல்) அவர்கள் பருகினார்கள்.54 அத்தியாயம் : 74
+உம்முல் ஃபள்ல் (ரலி) அவர்கள் கூறியாவது: (ஹஜ்ஜின்போது) நபி (ஸல்) அவர்கள் ‘அரஃபா’ (துல்ஹிஜ்ஜா ஒன்பதாம்) நாளில் நோன்பு நோற்றிருந்தார்களா என மக்கள் சந்தேகப்பட்டனர். ஆகவே, அவர்களிடம் பால் கிண்ணம் ஒன்று அனுப்பிவைக்கப் பட்டது. அதை நபி (ஸல்) அவர்கள் பருகினார்கள்.54 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5636</td></tr><tr><td>Arabic No</td><td>5636</td></tr><tr><td>Reference</td><td>Book 74 Hadith 62</td></tr></tbody></table></div>
 

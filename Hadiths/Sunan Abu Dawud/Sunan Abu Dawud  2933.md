@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন উছমান (রহঃ) ..... মিকদাম ইবন মা'দীকারিব (রাঃ) থেকে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার দু'কাঁধে হাত রেখে বলেন, হে কুদায়ম! তুমি নাজাত পাবে, যদি তুমি আমীর, মুনশী (কেরানী) এবং আরাফা (সমাজপতি) হওয়ার আগে মারা যাও।
+। আল-মিকদাদ ইবনু মা‘দিকারিব (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার কাঁধে হাত রেখে বললেনঃ হে খুদাইম! তুমি যদি মৃত্যু পর্যন্ত শাসক, সচিব এবং সমাজপতি না হও তাহলে তুমি নাজাত পাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2933</td></tr><tr><td>Arabic No</td><td>2933</td></tr><tr><td>Reference</td><td>Book 20 Hadith 6</td></tr></tbody></table></div>
 

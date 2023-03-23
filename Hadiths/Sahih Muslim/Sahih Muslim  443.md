@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৩২, আন্তর্জাতিক নাম্বারঃ ১৭৮ ৩৩২-(২৯১/১৭৮) আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... আবূ যার (রাযিঃ) থেকে বর্ণনা করেন। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে জিজ্ঞেস করেছি, আপনি কি আপনার প্রতিপালককে দেখেছেন? তিনি বললেনঃ তিনি (আল্লাহ) নূর, তা আমি কি রূপে দেখবো? (ইসলামিক ফাউন্ডেশনঃ ৩৪০ ইসলামিক সেন্টারঃ ৩৫১)
+আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... আবূ যার (রাযিঃ) থেকে বর্ণনা করেন। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে জিজ্ঞেস করেছি, আপনি কি আপনার প্রতিপালককে দেখেছেন? তিনি বললেনঃ তিনি (আল্লাহ) নূর, তা আমি কি রূপে দেখবো? (ইসলামিক ফাউন্ডেশনঃ ৩৪০ ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>178.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 348</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Veki', Yezid b. İbrahim'den, o da Katade'den, o da Abdullah b. Şaktk'ten, o da Ebu Zerr'den naklen rivayet etti. Ebu Zerr dedi ki: Resulullah (Sallallahu aleyhi ve Sellem)'e: Rabbini gördün mü, dedim. O: "(O) bir nurdur, onu nasıl görebilirim" buyurdu. Diğer tahric: Tirmizi, 3282; Tuhfetu'l-Eşraf, 11938
+Bize Ebu Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Veki', Yezid b. İbrahim'den, o da Katade'den, o da Abdullah b. Şaktk'ten, o da Ebu Zerr'den naklen rivayet etti. Ebu Zerr dedi ki: Resulullah (Sallallahu aleyhi ve Sellem)'e: Rabbini gördün mü, dedim. O: "(O) bir nurdur, onu nasıl görebilirim" buyurdu. Diğer tahric: Tirmizi, 3282; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>178.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 348</td></tr></tbody></table></div>
 

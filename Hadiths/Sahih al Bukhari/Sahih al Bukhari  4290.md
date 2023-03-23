@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, মক্কা বিজয়ের বছর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মক্কার উঁচু এলাকা ‘কাদা’-এর দিক দিয়ে প্রবেশ করেছেন। আবূ উসামাহ এবং ওহাইব (রহ.) ‘কাদা’-এর দিক দিয়ে প্রবেশ করার বর্ণনায় হাফস্ ইবনু মাইসারাহ (রহ.)-এর অনুসরণ করেছেন। [১৫৭৭] (আধুনিক প্রকাশনীঃ ৩৯৫৩, ইসলামিক ফাউন্ডেশনঃ ৩৯৫৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, মক্কা বিজয়ের বছর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মক্কার উঁচু এলাকা ‘কাদা’-এর দিক দিয়ে প্রবেশ করেছেন। আবূ উসামাহ এবং ওহাইব (রহ.) ‘কাদা’-এর দিক দিয়ে প্রবেশ করার বর্ণনায় হাফস্ ইবনু মাইসারাহ (রহ.)-এর অনুসরণ করেছেন। [১৫৭৭] (আধুনিক প্রকাশনীঃ ৩৯৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 64 Hadith 323</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Haitsam bin Kharijah] Telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்கா வெற்றி ஆண்டில் மக்காவின் மேற்பகுதியிலிருந்த “கதா' எனும் கணவாயின் வழியாக (மக்காவினுள்) நுழைந்தார்கள்.330 இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 64
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்கா வெற்றி ஆண்டில் மக்காவின் மேற்பகுதியிலிருந்த “கதா' எனும் கணவாயின் வழியாக (மக்காவினுள்) நுழைந்தார்கள்.330 இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 64 Hadith 323</td></tr></tbody></table></div>
 

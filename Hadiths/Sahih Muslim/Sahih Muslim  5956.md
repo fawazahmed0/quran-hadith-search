@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৮৫০, আন্তর্জাতিক নাম্বারঃ ২২৮৪ ৫৮৫০-(…/…) 'আমর আন্‌ নাকিদ ও ইবনু আবূ উমার (রহঃ) ..... আবূ যিনাদ (রহঃ) হতে উপরোক্ত সূত্রে হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৭৫৭, ইসলামিক সেন্টার, নেই)
+(…/…) 'আমর আন্‌ নাকিদ ও ইবনু আবূ উমার (রহঃ) ..... আবূ যিনাদ (রহঃ) হতে উপরোক্ত সূত্রে হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৭৫৭, ইসলামিক সেন্টার, নেই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>2284.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৬. মালিক (রহঃ) বলিয়াছেনঃ হুমায়দ ইবন কায়স (রাঃ) এবং সাউর ইবন দীলী (রাঃ) তাহারা উভয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হইতে তাহার নিকট রেওয়ায়ত বর্ণনা করিয়াছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে একবার রৌদ্রে দাঁড়াইয়া থাকিতে দেখিতে পাইলেন। তিনি বলিলেনঃ এই ব্যক্তির কি হইয়াছে? তাহারা বলিলেনঃ এই ব্যক্তি মানত করিয়াছে যে, সে কাহারও সহিত কথা বলিবে না, ছায়ায় দাড়াইবে না, কোথাও বসিবে না এবং সর্বদাই সে রোযা রাখিবে। রাসূলুল্লাহ সাল্লাল্লাহু আলায়হি ওয়াসাল্লাম তখন বলিলেনঃ তাহাকে বলিয়া দাও, সে যেন কথা বলে, ছায়ায় দাঁড়ায় ও বসে, আর যেন রোযা পুরা করিয়া নেয়। মালিক (রহঃ) বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উক্ত ব্যক্তিকে কোন কাফফারার নির্দেশ দিয়াছেন বলিয়া আমি শুনি নাই। তিনি তাহাকে যাহা ইবাদত তাহা পূরণ করা এবং যাহা নাফরমানী তাহা বর্জন করার নির্দেশ দিয়াছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1015</td></tr><tr><td>Arabic No</td><td>1015</td></tr><tr><td>Reference</td><td>Book 22 Hadith 2</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepadaku Yahya dari Malik dari [Humaid bin Qais] dan [Tsaur b
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nafi'den: Abdullah b. Ömer şöyle derdi: Mükateb, yapmış olduğu mükatebe Kitabet, kölenin, efendisi ile anlaşarak azat bedelini ödeyince hür olmak üzere azat bedelini kazanması için serbest bırakılmasıdır. Mükateb, efendisi ile arasında kitabet akdi olan köleye denir. Köle, çalışıp kazanarak azat bedelini efendisine getirdiği zaman Kür olur. Mükateb, kazancına efendisinin sahip oluşu dışında, köle hükümlerine tabidir. anlaşmasından üzerinde bir miktar borç kaldıkça köledir. Amr b. Şuayb -babası- dedesi senediyle merfu olarak gelmiştir. Ebu Davud, Itk, 28/1; İbn Mace, Itk, 19/3; Şeybanî, 857
+Nafi'den: Abdullah b. Ömer şöyle derdi: Mükateb, yapmış olduğu mükatebe Kitabet, kölenin, efendisi ile anlaşarak azat bedelini ödeyince hür olmak üzere azat bedelini kazanması için serbest bırakılmasıdır. Mükateb, efendisi ile arasında kitabet akdi olan köleye denir. Köle, çalışıp kazanarak azat bedelini efendisine getirdiği zaman Kür olur. Mükateb, kazancına efendisinin sahip oluşu dışında, köle hükümlerine tabidir. anlaşmasından üzerinde bir miktar borç kaldıkça köledir. Amr b. Şuayb -babası- dedesi senediyle merfu olarak gelmiştir. Ebu Davud, Itk, 28/1; İbn Mace, Itk, 19/3; Şeybanî
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1015</td></tr><tr><td>Arabic No</td><td>1015</td></tr><tr><td>Reference</td><td>Book 22 Hadith 2</td></tr></tbody></table></div>
 

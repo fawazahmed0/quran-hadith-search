@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৫৯, আন্তর্জাতিক নাম্বারঃ ৪৩২ ৮৫৯-(.../...) ইসহাক, ইবনু খাশরাম ও ইবনু আবূ উমার (রহঃ) ..... ইবনু উয়াইনাহ হতে বর্ণিত। তিনি এ সূত্রেও উপরের হাদীসের অনুরূপ হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৮৫৫, ইসলামিক সেন্টারঃ ৮৬৮)
+ইসহাক, ইবনু খাশরাম ও ইবনু আবূ উমার (রহঃ) ..... ইবনু উয়াইনাহ হতে বর্ণিত। তিনি এ সূত্রেও উপরের হাদীসের অনুরূপ হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৮৫৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>973</td></tr><tr><td>Arabic No</td><td>432.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 135</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি যেন এখনো দেখছি, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর ইহরাম অবস্থায় তাঁর সিঁথিতে খুশবুর ঔজ্জ্বল্য রয়েছে। (১৫৩৮, ৫৯১৮, ৫৯২৩; মুসলিম ১৫/৭, হাঃ ১১৯০, আহমাদ ২৫৮৩৩) (আধুনিক প্রকাশনীঃ ২৬৪, ইসলামিক ফাউন্ডেশনঃ ২৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি যেন এখনো দেখছি, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর ইহরাম অবস্থায় তাঁর সিঁথিতে খুশবুর ঔজ্জ্বল্য রয়েছে। (১৫৩৮, ৫৯১৮, ৫৯২৩; মুসলিম ১৫/৭, হাঃ ১১৯০, আহমাদ ২৫৮৩৩) (আধুনিক প্রকাশনীঃ ২৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 5 Hadith 24</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் தலை வகிட்டில் (அவர்கள் இரவில் பூசியிருந்த) வாசனைத் திரவியத்தின் மினுமினுப்பை இப்போதும் நான் பார்ப்பதைப் போன் றுள்ளது. அப்போது நபி (ஸல்) அவர்கள் ‘இஹ்ராம்’ கட்டியிருந்தார்கள். அத்தியாயம் : 5
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் தலை வகிட்டில் (அவர்கள் இரவில் பூசியிருந்த) வாசனைத் திரவியத்தின் மினுமினுப்பை இப்போதும் நான் பார்ப்பதைப் போன் றுள்ளது. அப்போது நபி (ஸல்) அவர்கள் ‘இஹ்ராம்’ கட்டியிருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 5 Hadith 24</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe r.anha'dan şöyle nakledilmiştir: "Allah Rasulü (Sallallahu aleyhi ve Sellem) ihramlı iken, saçlarının ayrıldığı yere sürülmüş kokunun beyazlığına bakıyordum. Tekrar: 1538, 5918, 1923
+Âişe r.anha'dan şöyle nakledilmiştir: "Allah Rasulü (Sallallahu aleyhi ve Sellem) ihramlı iken, saçlarının ayrıldığı yere sürülmüş kokunun beyazlığına bakıyordum. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 5 Hadith 24</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা মৃতদের গালি দিও না। কারণ, তারা স্বীয় কর্মফল পর্যন্ত পৌঁছে গেছে। [ইমাম বুখারী (রহ.) বলেন] ‘আবদুল্লাহ ইবনু ‘আবদুল কুদ্দুস ও মুহাম্মাদ ইবনু আনাস (রহ.) আ‘মাশ (রহ.) হতে হাদীসটি বর্ণনা করেছেন। ‘আলী ইবনু জা‘দ, ইবনু আর‘আরা ও ইবনু আবূ ‘আদী (রহ.) শু‘বাহ (রহ.) হতে হাদীস বর্ণনায় আদম (রহ.)-এর অনুসরণ করেছেন। (৬৫১৬) (আধুনিক প্রকাশনীঃ ১৩০৩, ইসলামিক ফাউন্ডেশনঃ ১৩১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা মৃতদের গালি দিও না। কারণ, তারা স্বীয় কর্মফল পর্যন্ত পৌঁছে গেছে। [ইমাম বুখারী (রহ.) বলেন] ‘আবদুল্লাহ ইবনু ‘আবদুল কুদ্দুস ও মুহাম্মাদ ইবনু আনাস (রহ.) আ‘মাশ (রহ.) হতে হাদীসটি বর্ণনা করেছেন। ‘আলী ইবনু জা‘দ, ইবনু আর‘আরা ও ইবনু আবূ ‘আদী (রহ.) শু‘বাহ (রহ.) হতে হাদীস বর্ণনায় আদম (রহ.)-এর অনুসরণ করেছেন। (৬৫১৬) (আধুনিক প্রকাশনীঃ ১৩০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 23 Hadith 147</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இறந்தோரை ஏசாதீர்கள். ஏனெனில், அவர்கள் தாம் தேடிக்கொண்டவற்றின் பால் சென்று சேர்ந்துவிட்டார்கள்.33 இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் ஆறு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 23
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இறந்தோரை ஏசாதீர்கள். ஏனெனில், அவர்கள் தாம் தேடிக்கொண்டவற்றின் பால் சென்று சேர்ந்துவிட்டார்கள்.33 இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் ஆறு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 23 Hadith 147</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] d
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha Nebi (Sallallahu Aleyhi ve Sellem)'in şöyle dediğini söylemiştir: "Ölülere sövmeyin. Çünkü onlar yaptığı amellerin neticesine kavuştular. Tekrar: 6516
+Aişe r.anha Nebi (Sallallahu Aleyhi ve Sellem)'in şöyle dediğini söylemiştir: "Ölülere sövmeyin. Çünkü onlar yaptığı amellerin neticesine kavuştular. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 23 Hadith 147</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪০৫০, আন্তর্জাতিক নাম্বারঃ ১৬১৯ ৪০৫০-(.../...) আবদুল মালিক ইবনু শু'আয়ব ইবনু লায়স, যুহায়র ইবনু হারব ও ইবনু নুমায়র (রহঃ) ...... যুহরী (রহঃ) এর সূত্রে উক্ত সানাদে হাদীসটি বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪০১৩, ইসলামিক সেন্টার ৪০১২)
+আবদুল মালিক ইবনু শু'আয়ব ইবনু লায়স, যুহায়র ইবনু হারব ও ইবনু নুমায়র (রহঃ) ...... যুহরী (রহঃ) এর সূত্রে উক্ত সানাদে হাদীসটি বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪০১৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4158</td></tr><tr><td>Arabic No</td><td>1619.02</td></tr><tr><td>Reference</td><td>Book 23 Hadith 19</td></tr></tbody></table></div>
 

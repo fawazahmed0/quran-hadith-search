@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবনু উমার ..... আদ-দারাওয়ার্দী (রহঃ) হতে বর্ণিত তিনি বলেছেন, রবীআ (রহঃ) নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের হাদীছ “ঐ ব্যাক্তির উযূ হয় না যে বিসমিল্লাহ্ বলে না” -এর ব্যাখ্যায় বলেনঃ যে ব্যাক্তি উযূ (ওজু/অজু/অযু) ও গোসলের সময়- নামাযের উযূর বা অপবিত্রতার গোসলের নিয়াত করে না- তার উযূ ও গোসল হয় না।
+। দারাওয়ার্দী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর হাদীসঃ ‘‘যে লোক অযুর সময় আল্লাহর নাম স্মরণ করে না তার অযু হয় না।’’-এর ব্যাখ্যায় রবী‘আহ উল্লেখ করেন, যে লোক অযু ও গোসল করে, অথচ সে অযু দ্বারা সালাতের ও গোসল দ্বারা অপবিত্রতার গোসলের নিয়্যাত না করে, তার অযু ও গোসল (সঠিক) হয় না।[1] সহীহ মাকতূ'।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>102</td></tr><tr><td>Arabic No</td><td>102</td></tr><tr><td>Reference</td><td>Book 1 Hadith 102</td></tr></tbody></table></div>
 

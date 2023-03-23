@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আর-রবী ইবনে নাফি (রহঃ) ..... সাহল ইবনে হানযালিয়া (রাঃ) হতে বর্ণিত। তিনি বলেন, ফজরের নামাযের ইকামত দেয়ার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নামাযের অবস্থায় দুই পাহাড়ের মধ্যস্থিত সুড়ঙ্গ পথের দিকে নজর করেন। ইমাম আবু দাউদ (রহঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে অশ্বারোহী সেনাকে ঐ স্থানে পাহারা দেয়ার জন্য প্রেরণ করেন।
+। সাহল ইবনু হানযালিয়্যাহ (রাঃ) সূত্রে বর্ণিত। একদা ফজর সালাতের ইক্বামাত(ইকামত/একামত) দেয়া হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করতে লাগলেন এবং সালাতের অবস্থায়ই তিনি গিড়ি পথের দিকে তাকাচ্ছিলেন। ইমাম আবূ দাউদ (রহঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গিরিপথ পাহারা দেয়ার জন্য রাতে এক অশ্বারোহীকে সেখানে প্রেরণ করেছিলেন। (সেজন্যই তিনি সেখানে দৃষ্টি ফিরাচ্ছিলেন)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 2 Hadith 527</td></tr></tbody></table></div>
 

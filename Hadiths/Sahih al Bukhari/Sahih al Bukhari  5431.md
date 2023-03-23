@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাল্ওয়া ও মধু ভালবাসতেন। [1] [৪৯১২] (আধুনিক প্রকাশনী- ৫০২৮, ইসলামিক ফাউন্ডেশন- ৪৯২৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাল্ওয়া ও মধু ভালবাসতেন। [1] [৪৯১২] (আধুনিক প্রকাশনী- ৫০২৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5431</td></tr><tr><td>Arabic No</td><td>5431</td></tr><tr><td>Reference</td><td>Book 70 Hadith 59</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq bin Ibrahim Al Hanzhali] dari [Abu Usamah] da
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இனிப்புப் பண்டத்தையும் தேனையும் விரும்பிவந்தார்கள். அத்தியாயம் : 70
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இனிப்புப் பண்டத்தையும் தேனையும் விரும்பிவந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5431</td></tr><tr><td>Arabic No</td><td>5431</td></tr><tr><td>Reference</td><td>Book 70 Hadith 59</td></tr></tbody></table></div>
 

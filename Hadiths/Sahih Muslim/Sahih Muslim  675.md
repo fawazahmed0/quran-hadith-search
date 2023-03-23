@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৬২, আন্তর্জাতিক নাম্বারঃ ২৯১ ৫৬২-(১১০/২৯১) আবূ বাকর ইবনু আবূ শাইবাহ ও মুহাম্মদ ইবনু হাতিম (রহঃ) ..... আসমা (রাযিঃ) থেকে বর্ণিত, একদিন একটি মহিলা নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর কাছে এসে বলল, হে আল্লাহর রাসূল! আমাদের কারো যদি কাপড়ে হারিযের রক্ত লেগে যায় তখন সে কী করবে? তিনি বললেনঃ রক্তের জায়গাটি খুব ভালভাবে রগড়াবে, তারপর ঘষে পানি দিয়ে ভালভাবে ধুয়ে ফেলবে, তারপর ঐ কাপড় পরে সালাত আদায় করতে পারবে। (ইসলামিক ফাউন্ডেশনঃ ৫৬৬, ইসলামিক সেন্টারঃ ৫৮২)
+আবূ বাকর ইবনু আবূ শাইবাহ ও মুহাম্মদ ইবনু হাতিম (রহঃ) ..... আসমা (রাযিঃ) থেকে বর্ণিত, একদিন একটি মহিলা নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর কাছে এসে বলল, হে আল্লাহর রাসূল! আমাদের কারো যদি কাপড়ে হারিযের রক্ত লেগে যায় তখন সে কী করবে? তিনি বললেনঃ রক্তের জায়গাটি খুব ভালভাবে রগড়াবে, তারপর ঘষে পানি দিয়ে ভালভাবে ধুয়ে ফেলবে, তারপর ঐ কাপড় পরে সালাত আদায় করতে পারবে। (ইসলামিক ফাউন্ডেশনঃ ৫৬৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>675</td></tr><tr><td>Arabic No</td><td>291.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 141</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritaka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Kureyb b. Ebu Şeybe de tahdis etti, bize Vek!' tahdis etti, bize Hişam b. Urve tahdis etti. (H) Bana Muhammed b. Hatim -ki lafız onundur- de tahdis etti, bize Yahya b. Said, Hişam b. Urve'den şöyle dediğini tahdis etti: Bana Fatıma, Esma'dan şöyle dediğini tahdis etti: Bir kadın Nebi (Sallallahu aleyhi ve Sellem)'e gelip: Bizden herhangi bir kadının eIbisesine ay hali kanı buIaşırsa onu nasıl yapsın (temizlesin), dedi. Allah ResuIü: "Onu oualar, sonra onu su ile ovalayarak yıkar, sonra üzerine su dökerek yıkar, sonra da onunla namaz kılar" buyurdu. Diğer tahric: Buhari, 227 -buna yakın-, 307 -buna yakın-; Ebu Davud, 361, 362; Tirmizi, 138; Nesai, 292,392; İbn Mace, 629 -buna yakın-; Tuhfetu'l-Eşraf, 15743
+Bize Ebu Kureyb b. Ebu Şeybe de tahdis etti, bize Vek!' tahdis etti, bize Hişam b. Urve tahdis etti. (H) Bana Muhammed b. Hatim -ki lafız onundur- de tahdis etti, bize Yahya b. Said, Hişam b. Urve'den şöyle dediğini tahdis etti: Bana Fatıma, Esma'dan şöyle dediğini tahdis etti: Bir kadın Nebi (Sallallahu aleyhi ve Sellem)'e gelip: Bizden herhangi bir kadının eIbisesine ay hali kanı buIaşırsa onu nasıl yapsın (temizlesin), dedi. Allah ResuIü: "Onu oualar, sonra onu su ile ovalayarak yıkar, sonra üzerine su dökerek yıkar, sonra da onunla namaz kılar" buyurdu. Diğer tahric: Buhari, 227 -buna yakın-, 307 -buna yakın-; Ebu Davud, 361, 362; Tirmizi, 138; Nesai, 292,392; İbn Mace, 629 -buna yakın-; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>675</td></tr><tr><td>Arabic No</td><td>291.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 141</td></tr></tbody></table></div>
 

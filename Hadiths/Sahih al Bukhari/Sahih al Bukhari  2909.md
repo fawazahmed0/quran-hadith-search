@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ উমামাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, এই সব বিজয় এমন সব লোকদের দ্বারা অর্জিত হয়েছিল, যাদের তলোয়ার স্বর্ণ বা রৌপ্য খচিত ছিল না, বরং তাদের তলোয়ার ছিল উটের গর্দানের চামড়া এবং লৌহ কারুকার্য খচিত। (আধুনিক প্রকাশনীঃ ২৬৯৪, ইসলামিক ফাউন্ডেশনঃ ২৭০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ উমামাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, এই সব বিজয় এমন সব লোকদের দ্বারা অর্জিত হয়েছিল, যাদের তলোয়ার স্বর্ণ বা রৌপ্য খচিত ছিল না, বরং তাদের তলোয়ার ছিল উটের গর্দানের চামড়া এবং লৌহ কারুকার্য খচিত। (আধুনিক প্রকাশনীঃ ২৬৯৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2909</td></tr><tr><td>Arabic No</td><td>2909</td></tr><tr><td>Reference</td><td>Book 56 Hadith 122</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஉமாமா (ரலி) அவர்கள் கூறியதாவது: ஒரு சமுதாயத்தார் வெற்றிகள் பலவற்றை ஈட்டியுள்ளனர். அவர்களுடைய வாட்களின் ஆபரணம் பொன்னாகவோ வெள்ளியாகவோ இருக்கவில்லை; அவர் களுடைய (வாட்களின்) ஆபரணங்களெல் லாம் (வாளுறையின் அடிமுனை அல்லது மேல்முனையில் சுற்றிவைக்கப்படும்) ஒட்டகத்தின் கழுத்து நரம்பு (அல்லது பதனிடப்படாத தோல்), ஈயம், இரும்பு ஆகியவைதான். அத்தியாயம் : 56
+அபூஉமாமா (ரலி) அவர்கள் கூறியதாவது: ஒரு சமுதாயத்தார் வெற்றிகள் பலவற்றை ஈட்டியுள்ளனர். அவர்களுடைய வாட்களின் ஆபரணம் பொன்னாகவோ வெள்ளியாகவோ இருக்கவில்லை; அவர் களுடைய (வாட்களின்) ஆபரணங்களெல் லாம் (வாளுறையின் அடிமுனை அல்லது மேல்முனையில் சுற்றிவைக்கப்படும்) ஒட்டகத்தின் கழுத்து நரம்பு (அல்லது பதனிடப்படாத தோல்), ஈயம், இரும்பு ஆகியவைதான். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2909</td></tr><tr><td>Arabic No</td><td>2909</td></tr><tr><td>Reference</td><td>Book 56 Hadith 122</td></tr></tbody></table></div>
 

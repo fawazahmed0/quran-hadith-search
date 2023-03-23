@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) ও যায়দ ইবনু খালিদ (রাঃ) হতে বর্ণিত।, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, বাঁদী যিনায় লিপ্ত হলে তাকে চাবুক লাগাবে। আবার যিনা করলে আবারও চাবুক লাগাবে। তৃতীয়বার বা চতুর্থবার বলেছেন, একগাছি রশির বিনিময়ে হলেও তাকে বিক্রি করে ফেলবে। (২১৫২, ২১৫৪) (আধুনিক প্রকাশনীঃ ২৩৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 49 Hadith 38</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: அடிமைப் பெண் விபசாரம் செய்தால் அவளுக்குச் சாட்டையடி கொடுங்கள். அதன் பிறகும் அவள் விபசாரம் செய்தால் (அப்போதும்) அவளுக்குச் சாட்டையடி(யே) கொடுங்கள். பிறகு மூன்றாவதாகவோ, நான்காவதாகவோ விபசாரம் செய்தால் அவளை ஒரு முடிக்கற்றைக்கேனும் விற்றுவிடுங்கள். இதை அபூஹுரைரா (ரலி) அவர்களும் ஸைத் பின் காலித் (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் : 49
+நபி (ஸல்) அவர்கள் கூறினார்கள்: அடிமைப் பெண் விபசாரம் செய்தால் அவளுக்குச் சாட்டையடி கொடுங்கள். அதன் பிறகும் அவள் விபசாரம் செய்தால் (அப்போதும்) அவளுக்குச் சாட்டையடி(யே) கொடுங்கள். பிறகு மூன்றாவதாகவோ, நான்காவதாகவோ விபசாரம் செய்தால் அவளை ஒரு முடிக்கற்றைக்கேனும் விற்றுவிடுங்கள். இதை அபூஹுரைரா (ரலி) அவர்களும் ஸைத் பின் காலித் (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 49 Hadith 38</td></tr></tbody></table></div>
 

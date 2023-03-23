@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু জাফর .... আয়িশা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম খেতমী মিশ্রিত পানি দ্বারা অপবিত্রতার গোসলে মাথা ধৌত করতেন এবং এটাকেই যথেষ্ট মনে করতেন। অতঃপর মাথায় আর পানি ঢালতেন না।
+। ‘আয়িশাহ্ (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খিত্বমী মিশ্রিত পানি দ্বারা জানাবাতের গোসল করতেন এবং একেই যথেষ্ট মনে করতেন, পুনরায় আর পানি ঢালতেন না। [1] দুর্বল : মিশকাত ৪৪৬।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>256</td></tr><tr><td>Arabic No</td><td>256</td></tr><tr><td>Reference</td><td>Book 1 Hadith 256</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Ja'far bin Ziyad] telah menceritaka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Aişe (radiyallahu anha)'dan rivayet edildiğine göre; "Resulullah (sallallahu aleyhi ve sellem) cünup olduğu halde başını hıtmi (karıştırılmış su) ile yıkar, bununla yetinir ve başına (ayrıca) su dökmezdi." Diğer tahric: Bu hadisi bu lafızlarla sadece Ebu Davud rivayet etrtıiştir. Benzer bir rivayet için bk. Ahmed b. Hanbel, VI, 78
+Hz. Aişe (radiyallahu anha)'dan rivayet edildiğine göre; "Resulullah (sallallahu aleyhi ve sellem) cünup olduğu halde başını hıtmi (karıştırılmış su) ile yıkar, bununla yetinir ve başına (ayrıca) su dökmezdi." Diğer tahric: Bu hadisi bu lafızlarla sadece Ebu Davud rivayet etrtıiştir. Benzer bir rivayet için bk. Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>256</td></tr><tr><td>Arabic No</td><td>256</td></tr><tr><td>Reference</td><td>Book 1 Hadith 256</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বর্ণের একটি আংটি ব্যবহার করতেন। এরপর তা বাদ দেন এবং বলেনঃ আমি আর কক্ষনো সেটা ব্যবহার করব না। লোকেরাও তাদের আংটি খুলে ফেলে দেয়। [৫৮৬৫] (আধুনিক প্রকাশনী- ৫৪৪০, ইসলামিক ফাউন্ডেশন- ৫৩৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বর্ণের একটি আংটি ব্যবহার করতেন। এরপর তা বাদ দেন এবং বলেনঃ আমি আর কক্ষনো সেটা ব্যবহার করব না। লোকেরাও তাদের আংটি খুলে ফেলে দেয়। [৫৮৬৫] (আধুনিক প্রকাশনী- ৫৪৪০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5867</td></tr><tr><td>Arabic No</td><td>5867</td></tr><tr><td>Reference</td><td>Book 77 Hadith 84</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abdull
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பொன் மோதிரம் ஒன்றை அணிந்து கொண்டிருந்தார்கள். பிறகு அதை(க் கழற்றி) எறிந்துவிட்டு, ‘‘நான் இதை இனி ஒருபோதும் அணியமாட்டேன்” என்று சொன்னார்கள். மக்களும் தங்களின் (பொன்) மோதிரங்களை(க் கழற்றி) எறிந்து விட்டார்கள். அத்தியாயம் : 77
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பொன் மோதிரம் ஒன்றை அணிந்து கொண்டிருந்தார்கள். பிறகு அதை(க் கழற்றி) எறிந்துவிட்டு, ‘‘நான் இதை இனி ஒருபோதும் அணியமாட்டேன்” என்று சொன்னார்கள். மக்களும் தங்களின் (பொன்) மோதிரங்களை(க் கழற்றி) எறிந்து விட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5867</td></tr><tr><td>Arabic No</td><td>5867</td></tr><tr><td>Reference</td><td>Book 77 Hadith 84</td></tr></tbody></table></div>
 

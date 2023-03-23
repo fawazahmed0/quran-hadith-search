@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিঙ্গা লাগালেন এবং যে তাঁকে শিঙ্গা লাগিয়েছে, তাকে তিনি মজুরী দিলেন। যদি তা হারাম হতো তবে তিনি তা দিতেন না। (১৮৩৫) (আধুনিক প্রকাশনীঃ ১৯৫৮ , ইসলামিক ফাউন্ডেশনঃ ১৯৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিঙ্গা লাগালেন এবং যে তাঁকে শিঙ্গা লাগিয়েছে, তাকে তিনি মজুরী দিলেন। যদি তা হারাম হতো তবে তিনি তা দিতেন না। (১৮৩৫) (আধুনিক প্রকাশনীঃ ১৯৫৮ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2103</td></tr><tr><td>Arabic No</td><td>2103</td></tr><tr><td>Reference</td><td>Book 34 Hadith 56</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஒருவரிடம்) குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள். குருதி உறிஞ்சி எடுத்தவருக்கு (கூலி) கொடுத்தார்கள். அது தடை செய்யப் பட்டதாக இருந்திருந்தால், அவருக்கு (கூலி) கொடுத்திருக்கமாட்டார்கள். அத்தியாயம் : 34
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஒருவரிடம்) குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள். குருதி உறிஞ்சி எடுத்தவருக்கு (கூலி) கொடுத்தார்கள். அது தடை செய்யப் பட்டதாக இருந்திருந்தால், அவருக்கு (கூலி) கொடுத்திருக்கமாட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2103</td></tr><tr><td>Arabic No</td><td>2103</td></tr><tr><td>Reference</td><td>Book 34 Hadith 56</td></tr></tbody></table></div>
 

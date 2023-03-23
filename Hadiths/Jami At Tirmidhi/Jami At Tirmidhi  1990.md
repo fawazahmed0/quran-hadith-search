@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৯৯০। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, সাহাবীগণ বললেন, হে আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)। আপনি তো আমাদের সাথে কৌতুকও করে থাকেন। তিনি বললেনঃ আমি শুধু সত্য কথাই বলে থাকি (এমনকি কৌতুকেও)। সহীহ, সহীহাহ (১৭২৬), মুখতাসার শামা-ইল (২০২)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, সাহাবীগণ বললেন, হে আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)। আপনি তো আমাদের সাথে কৌতুকও করে থাকেন। তিনি বললেনঃ আমি শুধু সত্য কথাই বলে থাকি (এমনকি কৌতুকেও)। সহীহ, সহীহাহ (১৭২৬), মুখতাসার শামা-ইল (২০২)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 27 Hadith 96</td></tr></tbody></table></div>
 

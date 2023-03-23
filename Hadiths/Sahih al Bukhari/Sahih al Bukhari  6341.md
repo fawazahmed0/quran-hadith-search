@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَقَالَ أَبُو مُوسَى الأَشْعَرِيُّ دَعَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ رَفَعَ يَدَيْهِ، وَرَأَيْتُ بَيَاضَ إِبْطَيْهِ. وَقَالَ ابْنُ عُمَرَ رَفَعَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَدَيْهِ: «اللَّهُمَّ إِنِّي أَبْرَأُ إِلَيْكَ مِمَّا صَنَعَ خَالِدٌ আবূ মূসা (রাঃ) বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’খানা হাত এতটুকু উঠিয়ে দু‘আ করতেন যে, আমি তাঁর বগলের ফর্সা রং দেখতে পেয়েছি। ইবনু ‘উমার(রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’খানা হাত উঠিয়ে দু‘আ করেছেনঃ হে আল্লাহ! খালিদ যা করেছে আমি তা থেকে অসন্তুষ্টি প্রকাশ করছি। ৬৩৪১. অন্য এক সূত্রে আনাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’ হাত এতটুকু তুলে দু‘আ করেছেন যে, আমি তার বগলের শুভ্রতা দেখতে পেয়েছি। [১০৩১] (আধুনিক প্রকাশনী- অনুচ্ছেদ, ইসলামিক ফাউন্ডেশন- অনুচ্ছেদ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6341</td></tr><tr><td>Arabic No</td><td>6341</td></tr><tr><td>Reference</td><td>Book 80 Hadith 38</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Anas, "The Prophet (ﷺ) raised his hands (in invocation) till I saw th
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (மழை வேண்டிப் பிரார்த்தித்தபோது), அவர்களுடைய அக்குள்களின் வெண்மையை நான் காணும் அளவுக்குத் தம் இரு கைகளையும் உயர்த்தினார்கள்.32 அத்தியாயம் : 80
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (மழை வேண்டிப் பிரார்த்தித்தபோது), அவர்களுடைய அக்குள்களின் வெண்மையை நான் காணும் அளவுக்குத் தம் இரு கைகளையும் உயர்த்தினார்கள்.32 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6341</td></tr><tr><td>Arabic No</td><td>6341</td></tr><tr><td>Reference</td><td>Book 80 Hadith 38</td></tr></tbody></table></div>
 

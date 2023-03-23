@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/৪২২০। আবূ যার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি এমন একটি বাক্য বা আয়াত জানি, সকলেই যদি তা গ্রহণ করতো তবে অবশ্যই তাদের জন্য তা যথেষ্ট হতো। তারা বলেন, হে আল্লাহর রাসূল! তা কোন্ আয়াত? তিনি বলেন? তা হলো (অনুবাদ): ‘‘যে কেউ আল্লাহকে ভয় করলে তিনি তার জন্য নিস্কৃতির পথ করে দেন’’ (সূরা তালাকঃ ২)।
+। আবূ যার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি এমন একটি বাক্য বা আয়াত জানি, সকলেই যদি তা গ্রহণ করতো তবে অবশ্যই তাদের জন্য তা যথেষ্ট হতো। তারা বলেন, হে আল্লাহর রাসূল! তা কোন্ আয়াত? তিনি বলেন? তা হলো (অনুবাদ): ‘‘যে কেউ আল্লাহকে ভয় করলে তিনি তার জন্য নিস্কৃতির পথ করে দেন’’ (সূরা তালাকঃ ২)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4220</td></tr><tr><td>Arabic No</td><td>4220</td></tr><tr><td>Reference</td><td>Book 37 Hadith 121</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Abu Dharr that the Messenger of Allah (ﷺ) said:“I know a word – (one of the narrators) ‘Uthman said: “a Verse” – which if all the people followed it, it would suffice them.” They said: “O Messenger of Allah, which Verse?” He said: “And whosoever fears Allah, He will make a way out for him.” [65:2]
+It was narrated from Abu Dharr that the Messenger of Allah (ﷺ) said:“I know a word – (one of the narrators) ‘Uthman said: “a Verse” – which if all the people followed it, it would suffice them.” They said: “O Messenger of Allah, which Verse?” He said: “And whosoever fears Allah, He will make a way out for him.” [65:]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4220</td></tr><tr><td>Arabic No</td><td>4220</td></tr><tr><td>Reference</td><td>Book 37 Hadith 121</td></tr></tbody></table></div>
 

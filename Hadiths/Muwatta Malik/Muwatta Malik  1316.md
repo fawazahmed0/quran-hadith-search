@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ২৮. ইয়াহইয়া ইবন সাঈদ (রহঃ) বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উভয় সাদকে গনীমতের স্বর্ণ কিংবা রৌপ্যের বাসন[1] বিক্রয় করার নির্দেশ দিলেন। তাহারা উভয়ে তিনটি বাসন চার দীনারের বিনিময়ে অথবা রাবী বলিয়াছেন প্রতি চারিটি বাসন তিন দীনারের বিনিময়ে বিক্রয় করিলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলায়হি ওয়া সাল্লাম ইরশাদ করিলেন, তোমরা সুদের ব্যবসা করিয়াছ। তাই তোমরা ইহা ফিরাইয়া দাও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1316</td></tr><tr><td>Arabic No</td><td>1316</td></tr><tr><td>Reference</td><td>Book 31 Hadith 27</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন আবী শুআয়ব (রহঃ) .... উকবা ইবন হারিছ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি এটা উকবা ইবন আমির (রাঃ) থেকে শ্রবণ করেছি। কিন্তু আমি রাবী উবায়দ হতে যা শুনেছি, তা-ই আমার অধিক স্মরণ আছে। এরপর তিনি পূর্বোক্ত হাদীছের অর্থের অনুরূপ হাদীছ বর্ণনা করেন।
+। ইবনু আবূ মুলাইকাহ (রহঃ) সূত্রে বর্ণিত। তিনি উবাইদ ইবনু আবূ মারইয়াম থেকে উকবাহ ইবনুল হারিসের সূত্রে এ হাদীস বর্ণনা করেছেন...। আমি এটি সহীহ এবং যঈফে পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
 

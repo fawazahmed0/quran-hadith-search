@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... ইমরান ইবন হুসায়ন (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোহা গরম করে শরীরে দাগ দিতে নিষেধ করেন। তবুও আমরা দাগ দেওয়ার পর তা আমাদের কোন উপকার আসেনি এবং কোন কাজ হয়নি।
+। ইমরান ইবনু হুসাইন (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোহা গরম করে শরীরে দাগ দিতে বারণ করেছেন। তবুও আমরা লোহা দাগিয়ে চিকিৎসা করেছি; কিন্তু সুস্থ হইনি, সফলকামও হইনি। ইমাম আবূ দাঊদ (রহঃ) বলেন, তিনি (ইমরান) ফিরিশতাদের সালাম শুনতেন। তিনি লোহার দাগ গ্রহণের পর তা আর শুনতে পাননি। তিনি তা ত্যাগ করলে আগের ন্যায় সালাম শুনতে পান।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3865</td></tr><tr><td>Arabic No</td><td>3865</td></tr><tr><td>Reference</td><td>Book 29 Hadith 11</td></tr></tbody></table></div>
 

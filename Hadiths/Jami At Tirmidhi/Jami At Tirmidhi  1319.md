@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৩১৯। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্রয়-বিক্রয় ও তাগাদার ক্ষেত্রে আল্লাহ তা'আলা নমতা পছন্দ করেন। সহীহ, সহীহ (৮৯০৯) জাবির (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটিকে আবূ ঈসা গারীব বলেছেন। উপরোক্ত হাদীসটি আবূ হুরাইরা (রাঃ) হতে সাঈদ আল-মাকবুরীর বরাতে ইবনুস এর সূত্রেও বর্ণিত আছে।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্রয়-বিক্রয় ও তাগাদার ক্ষেত্রে আল্লাহ তা'আলা নমতা পছন্দ করেন। সহীহ, সহীহ (৮৯০৯) জাবির (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটিকে আবূ ঈসা গারীব বলেছেন। উপরোক্ত হাদীসটি আবূ হুরাইরা (রাঃ) হতে সাঈদ আল-মাকবুরীর বরাতে ইবনুস এর সূত্রেও বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1319</td></tr><tr><td>Arabic No</td><td>1319</td></tr><tr><td>Reference</td><td>Book 14 Hadith 123</td></tr></tbody></table></div>
 

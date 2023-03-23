@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাখাল্লাদ ইবন খালিদ (রহঃ) .... ফারওয়া ইবন মুসায়ক (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি বলি ইয়া রাসূলাল্লাহ! আমার নিকট এক খণ্ড যমীন আছে, যা সব সময় (তৃণলতায়) আচ্ছন্ন থাকে এবং এর শিলা খুবই শক্ত। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমি তা পরিত্যাগ কর; কেননা এরূপ নিরস স্থানে বসবাসকারী লোকের ধ্বংস প্রাপ্ত হয়ে থাকে।
+। ফারওয়া ইবনু মুসাইক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! ‘আরদ আবয়ান’ নামে আমাদের একটা জমি আছে, যাতে আমরা শস্য উৎপন্ন করে থাকি, কিন্তু তা খুবই অস্বাস্থ্যকর। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ এ জমিটা ত্যাগ করো, কারণ রোগব্যাধির প্রাদুর্ভূত এলাকার ধ্বংস ডেকে আনে।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3923</td></tr><tr><td>Arabic No</td><td>3923</td></tr><tr><td>Reference</td><td>Book 30 Hadith 20</td></tr></tbody></table></div>
 

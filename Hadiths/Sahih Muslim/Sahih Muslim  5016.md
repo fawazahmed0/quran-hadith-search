@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৯১০, আন্তর্জাতিক নাম্বারঃ ১৯৩৮ ৪৯১০- (.../...) আবূ সাঈদ আল আশাজ্জ ..... আসিম (রহঃ) হতে এ সানাদে উক্ত হাদীসে অনুরূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৪৮৬০, ইসলামিক সেন্টার ৪৮৬১)
+আবূ সাঈদ আল আশাজ্জ ..... আসিম (রহঃ) হতে এ সানাদে উক্ত হাদীসে অনুরূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৪৮৬০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5016</td></tr><tr><td>Arabic No</td><td>1938.05</td></tr><tr><td>Reference</td><td>Book 34 Hadith 45</td></tr></tbody></table></div>
 

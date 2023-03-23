@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সা'ঈদ (রহঃ) ..... রাফি ইবন খাদীজ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি অন্য কোন ব্যক্তির জমিতে তার অনুমতি ছাড়া চাষাবাদ করে, সে ফসলের কিছুই পাবে না। অবশ্য সে তার পারিশ্রমিক পাবে।
+। রাফি‘ ইবনু খাদীজ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি মালিকের অনুমতি ছাড়া তার জমিতে চাষাবাদ করে সে উৎপাদিত ফসলের অংশ পাবে না। তবে সে তার খরচ ফেরত পাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 23 Hadith 78</td></tr></tbody></table></div>
 

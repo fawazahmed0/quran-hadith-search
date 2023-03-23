@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আমর (রহ.) হতে বর্ণিত যে, আমি জাবির ইবনু যায়দকে জিজ্ঞেস করলামঃ লোকে ধারণা করে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গৃহপালিত গাধার গোশত খেতে নিষেধ করেছেন। তিনি বললেনঃ হাকাম ইবনু আমর গিফারীও বসরায় আমাদের কাছে এ কথা বলতেন। কিন্তু জ্ঞান সমৃদ্ধ ইবনু ‘আব্বাস তা অস্বীকার করেছেন। তারপর তিনি এ আয়াতটি তিলাওয়াত করেছেনঃ বল, আমার প্রতি যে ওয়াহী করা হয়েছে তাতে মানুষ যা আহার করে তার কিছুই নিষিদ্ধ পাই না।’’ (সূরাহ আল-আন‘আম ৬/১৪৫)। [১৪৫] (আধুনিক প্রকাশনী- ৫১২১, ইসলামিক ফাউন্ডেশন- ৫০১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমর (রহ.) হতে বর্ণিত যে, আমি জাবির ইবনু যায়দকে জিজ্ঞেস করলামঃ লোকে ধারণা করে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গৃহপালিত গাধার গোশত খেতে নিষেধ করেছেন। তিনি বললেনঃ হাকাম ইবনু আমর গিফারীও বসরায় আমাদের কাছে এ কথা বলতেন। কিন্তু জ্ঞান সমৃদ্ধ ইবনু ‘আব্বাস তা অস্বীকার করেছেন। তারপর তিনি এ আয়াতটি তিলাওয়াত করেছেনঃ বল, আমার প্রতি যে ওয়াহী করা হয়েছে তাতে মানুষ যা আহার করে তার কিছুই নিষিদ্ধ পাই না।’’ (সূরাহ আল-আন‘আম ৬/১৪৫)। [১৪৫] (আধুনিক প্রকাশনী- ৫১২১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5529</td></tr><tr><td>Arabic No</td><td>5529</td></tr><tr><td>Reference</td><td>Book 72 Hadith 54</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Amr:I said to Jabir bin Zaid, "The people claim that Allah's Messenger (ﷺ) forbade the eating of donkey's meat." He said, "Al-Hakam bin 'Amr Al-Ghifari used to say so when he was with us, but Ibn 'Abbas, the great religious learned man, refused to give a final verdict and recited:-- 'Say: I find not in that which has been inspired to me anything forbidden to be eaten by one who wishes to eat it, unless it be carrion, blood poured forth or the flesh of swine...' (6.145)
+Narrated 'Amr:I said to Jabir bin Zaid, "The people claim that Allah's Messenger (ﷺ) forbade the eating of donkey's meat." He said, "Al-Hakam bin 'Amr Al-Ghifari used to say so when he was with us, but Ibn 'Abbas, the great religious learned man, refused to give a final verdict and recited:-- 'Say: I find not in that which has been inspired to me anything forbidden to be eaten by one who wishes to eat it, unless it be carrion, blood poured forth or the flesh of swine
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5529</td></tr><tr><td>Arabic No</td><td>5529</td></tr><tr><td>Reference</td><td>Book 72 Hadith 54</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Amr:I said to Jabir bin Zaid, "The people claim that Allah's Messenger
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan], ['Amru] berkata; aku berkata kepada [Jabir bin Zaid] bahwa orang-orang menganggap Rasulullah shallallahu 'alaihi wasallam telah melarang makan daging keledai jinak, lantas Jabir menjawab; [Hakam bin 'Amru Al Ghifari] juga pernah mengatakan seperti itu di sisi kami ketika berada di Bashrah, akan tetapi sang lautan (ilmu) yaitu [Ibnu Abbas] tidak membenarkan pernyataan itu sambil mengutip ayat "Katakanlah: "Tiadalah Aku peroleh dalam wahyu yang diwahyukan kepadaku, sesuatu yang diharamkan bagi orang yang hendak memakannya QS Al An'am; 145
+Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan], ['Amru] berkata; aku berkata kepada [Jabir bin Zaid] bahwa orang-orang menganggap Rasulullah shallallahu 'alaihi wasallam telah melarang makan daging keledai jinak, lantas Jabir menjawab; [Hakam bin 'Amru Al Ghifari] juga pernah mengatakan seperti itu di sisi kami ketika berada di Bashrah, akan tetapi sang lautan (ilmu) yaitu [Ibnu Abbas] tidak membenarkan pernyataan itu sambil mengutip ayat "Katakanlah: "Tiadalah Aku peroleh dalam wahyu yang diwahyukan kepadaku, sesuatu yang diharamkan bagi orang yang hendak memakannya QS Al An'am;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5529</td></tr><tr><td>Arabic No</td><td>5529</td></tr><tr><td>Reference</td><td>Book 72 Hadith 54</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஜாபிர் பின் ஸைத் (ரஹ்) அவர்களிடம் ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நாட்டுக் கழுதைகளை உண்ணக் கூடாதெனத் தடை செய்திருப்பதாக (மக்கள்) கருதுகிறார்களே” என்று கேட்டேன். அதற்கு அவர்கள், ‘‘ஹ(க்)கம் பின் அம்ர் அல்கிஃபாரீ (ரலி) அவர்கள் பஸ்ராவில் வைத்து எம்மிடம் இதைச் சொல்லிவந்தார்கள். ஆனால், (கல்விக்) கடலான இப்னு அப்பாஸ் (ரலி) அவர்கள் அதை மறுத்து, ‘‘(நபியே! இவர்களிடம்) கூறுவீராக: எனக்கு அருளப்பெற்ற வேத அறிவிப்பில் (வஹீயில்), உண்பவர்களுக்கு எந்த உணவும் தடை செய்யப்பட்டதாக நான் காணவில்லை; செத்த பிராணியையும் சிந்தப்பட்ட இரத்தத்தையும் பன்றி இறைச் சியையும் தவிர. நிச்சயம் இவை அசுத்தமாகும்” எனும் (6:145ஆவது) இறைவசனத்தை ஓதிக்காட்டினார்கள். அத்தியாயம் : 72
+அம்ர் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஜாபிர் பின் ஸைத் (ரஹ்) அவர்களிடம் ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நாட்டுக் கழுதைகளை உண்ணக் கூடாதெனத் தடை செய்திருப்பதாக (மக்கள்) கருதுகிறார்களே” என்று கேட்டேன். அதற்கு அவர்கள், ‘‘ஹ(க்)கம் பின் அம்ர் அல்கிஃபாரீ (ரலி) அவர்கள் பஸ்ராவில் வைத்து எம்மிடம் இதைச் சொல்லிவந்தார்கள். ஆனால், (கல்விக்) கடலான இப்னு அப்பாஸ் (ரலி) அவர்கள் அதை மறுத்து, ‘‘(நபியே! இவர்களிடம்) கூறுவீராக: எனக்கு அருளப்பெற்ற வேத அறிவிப்பில் (வஹீயில்), உண்பவர்களுக்கு எந்த உணவும் தடை செய்யப்பட்டதாக நான் காணவில்லை; செத்த பிராணியையும் சிந்தப்பட்ட இரத்தத்தையும் பன்றி இறைச் சியையும் தவிர. நிச்சயம் இவை அசுத்தமாகும்” எனும் (6:145ஆவது) இறைவசனத்தை ஓதிக்காட்டினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5529</td></tr><tr><td>Arabic No</td><td>5529</td></tr><tr><td>Reference</td><td>Book 72 Hadith 54</td></tr></tbody></table></div>
 

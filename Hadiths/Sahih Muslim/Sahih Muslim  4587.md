@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪৭৯, আন্তর্জাতিক নাম্বারঃ ১৭৬২ ৪৪৭৯-(.../...) ইবনু নুমায়র (রহঃ) এ একই সূত্রে উল্লিখিত হাদীসের অনুরূপ বর্ণনা করেন। কিন্তু তিনি (গনীমাতের সম্পদে) এ কথাটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশন ৪৪৩৫, ইসলামিক সেন্টার ৪৪৩৭)
+ইবনু নুমায়র (রহঃ) এ একই সূত্রে উল্লিখিত হাদীসের অনুরূপ বর্ণনা করেন। কিন্তু তিনি (গনীমাতের সম্পদে) এ কথাটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশন ৪৪৩৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4587</td></tr><tr><td>Arabic No</td><td>1762.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 68</td></tr></tbody></table></div>
 

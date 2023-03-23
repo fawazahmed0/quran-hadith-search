@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ (রহঃ) ..... আস-সাইব ইবন য়াযীদ (রহঃ) তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম দু’আর সময় তাঁর উভয় হাত উত্তোলন করতেন এবং তাঁর দ্বারা মুখমণ্ডল মাসেহ করতেন।
+। আস-সায়িব ইবনু ইয়াযীদ (রহঃ) হতে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু‘আর সময় দু’ হাত উপরে উঠাতেন এবং দু’ হাত দিয়ে স্বীয় মুখমন্ডল মুছতেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 8 Hadith 77</td></tr></tbody></table></div>
 

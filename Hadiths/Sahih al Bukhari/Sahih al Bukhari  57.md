@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(وَقَوْلِهِ تَعَالَى )إِذَا نَصَحُوا للهِ وَرَسُولِهِ( আল্লাহ্ তা‘আলার বাণীঃ ‘যদি আল্লাহ্ ও তাঁর রাসূলের প্রতি আস্থা রাখে।’ (সূরাহ্ আত্-তওবা্ ৯/৯১) ৫৭. জারীর ইবনু ‘আবদুল্লাহ্ আল-বাজালী (রাযি.) হতে বর্ণিত। তিনি বলেছেনঃ আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট বায়‘আত গ্রহণ করেছি সালাত কায়িম করার, যাকাত প্রদান করার এবং সমস্ত মুসলিমের মঙ্গল কামনা করার। (৫২৪, ১৪০১, ২১৫৭, ২৭১৪, ২৭১৫, ৭২০৪; মুসলিম ১/২৩ হাঃ ৫৬, আহমাদ ৩২৮১) (আধুনিক প্রকাশনীঃ ৫৫, ইসলামিক ফাউন্ডেশনঃ ৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وَقَوْلِهِ تَعَالَى )إِذَا نَصَحُوا للهِ وَرَسُولِهِ( আল্লাহ্ তা‘আলার বাণীঃ ‘যদি আল্লাহ্ ও তাঁর রাসূলের প্রতি আস্থা রাখে।’ (সূরাহ্ আত্-তওবা্ ৯/৯১) ৫৭. জারীর ইবনু ‘আবদুল্লাহ্ আল-বাজালী (রাযি.) হতে বর্ণিত। তিনি বলেছেনঃ আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট বায়‘আত গ্রহণ করেছি সালাত কায়িম করার, যাকাত প্রদান করার এবং সমস্ত মুসলিমের মঙ্গল কামনা করার। (৫২৪, ১৪০১, ২১৫৭, ২৭১৪, ২৭১৫, ৭২০৪; মুসলিম ১/২৩ হাঃ ৫৬, আহমাদ ৩২৮১) (আধুনিক প্রকাশনীঃ ৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Arabic No</td><td>57</td></tr><tr><td>Reference</td><td>Book 2 Hadith 50</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், தொழுகையைக் கடைப் பிடிப்பேன்; ஸகாத் வழங்குவேன்; ஒவ் வொரு முஸ்லிமுக்கும் நலம் நாடுவேன் என்று உறுதிமொழி (பைஅத்) அளித்தேன். அத்தியாயம் : 3
+ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், தொழுகையைக் கடைப் பிடிப்பேன்; ஸகாத் வழங்குவேன்; ஒவ் வொரு முஸ்லிமுக்கும் நலம் நாடுவேன் என்று உறுதிமொழி (பைஅத்) அளித்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Arabic No</td><td>57</td></tr><tr><td>Reference</td><td>Book 2 Hadith 50</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cerir bin Abdullah'ın şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'e namaz kılmak, zekat vermek ve her müslümana (karşı) hayırhah olmak üzere biat ettim. Tekrar: 524, 1401, 2714, 2715, 7204
+Cerir bin Abdullah'ın şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'e namaz kılmak, zekat vermek ve her müslümana (karşı) hayırhah olmak üzere biat ettim. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Arabic No</td><td>57</td></tr><tr><td>Reference</td><td>Book 2 Hadith 50</td></tr></tbody></table></div>
 

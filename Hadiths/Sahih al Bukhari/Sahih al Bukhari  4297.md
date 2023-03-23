@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে (মক্কা্য়) দশদিন অবস্থান করেছিলাম। সে সময় আমরা সালাত কসর করতাম।[1] [১০৮১] (আধুনিক প্রকাশনীঃ ৩৯৫৯, ইসলামিক ফাউন্ডেশনঃ ৩৯৬৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে (মক্কা্য়) দশদিন অবস্থান করেছিলাম। সে সময় আমরা সালাত কসর করতাম।[1] [১০৮১] (আধুনিক প্রকাশনীঃ ৩৯৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4297</td></tr><tr><td>Arabic No</td><td>4297</td></tr><tr><td>Reference</td><td>Book 64 Hadith 330</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள், நபி (ஸல்) அவர்களுடன் தொழுகையைக் குறைத்து (கஸ்ர் செய்து) தொழுதவர்களாக (மக்கா நகரில்) பத்து நாட்கள் தங்கினோம்.335 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 64
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள், நபி (ஸல்) அவர்களுடன் தொழுகையைக் குறைத்து (கஸ்ர் செய்து) தொழுதவர்களாக (மக்கா நகரில்) பத்து நாட்கள் தங்கினோம்.335 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4297</td></tr><tr><td>Arabic No</td><td>4297</td></tr><tr><td>Reference</td><td>Book 64 Hadith 330</td></tr></tbody></table></div>
 

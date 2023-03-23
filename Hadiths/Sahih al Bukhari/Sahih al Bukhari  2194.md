@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফলের উপযোগিতা প্রকাশ হওয়ার আগে তা বিক্রি করতে ক্রেতা ও বিক্রেতাকে নিষেধ করেছেন। (১৪৮৬, মুসলিম ২১/১৩, হাঃ ১৫৩৪, আহমাদ ৪৫২৫) (আধুনিক প্রকাশনীঃ ২০৪০, ইসলামিক ফাউন্ডেশনঃ ২০৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফলের উপযোগিতা প্রকাশ হওয়ার আগে তা বিক্রি করতে ক্রেতা ও বিক্রেতাকে নিষেধ করেছেন। (১৪৮৬, মুসলিম ২১/১৩, হাঃ ১৫৩৪, আহমাদ ৪৫২৫) (আধুনিক প্রকাশনীঃ ২০৪০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>2194</td></tr><tr><td>Reference</td><td>Book 34 Hadith 141</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மரத்திலுள்ள கனிகள் பலன் உறுதிப்படும் நிலையை அடையாத வரை அவற்றை விற்பதற்குத் தடை விதித்தார்கள். விற்ப வர், வாங்குபவர் ஆகிய இருவருக்கும் (இவ்வாறு) தடை விதித்தார்கள். அத்தியாயம் : 34
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மரத்திலுள்ள கனிகள் பலன் உறுதிப்படும் நிலையை அடையாத வரை அவற்றை விற்பதற்குத் தடை விதித்தார்கள். விற்ப வர், வாங்குபவர் ஆகிய இருவருக்கும் (இவ்வாறு) தடை விதித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>2194</td></tr><tr><td>Reference</td><td>Book 34 Hadith 141</td></tr></tbody></table></div>
 

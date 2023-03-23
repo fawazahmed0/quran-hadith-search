@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَكَانَ ابْنُ عُمَرَ يَبْدَأُ بِالْعَشَاءِ وَقَالَ أَبُو الدَّرْدَاءِ مِنْ فِقْهِ الْمَرْءِ إِقْبَالُهُ عَلَى حَاجَتِهِ حَتَّى يُقْبِلَ عَلَى صَلاَتِهِ وَقَلْبُهُ فَارِغٌ ইব্‌নু ‘উমার (রাযি.) (সালাতের) পূর্বে রাতের খাবার খেয়ে নিতেন। আবূ দারদা (রাযি.) বলেছেন, জ্ঞানীর পরিচয় হল, প্রথমে নিজের প্রয়োজন মেটানো, যাতে নিশ্চিতভাবে সালাতে মনোনিবেশ করতে পারে। ৬৭১. ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন রাতের খাবার উপস্থিত করা হয়, আর সে সময় সালাতের ইক্বামাত(ইকামত/একামত) হয়ে যায়, তখন প্রথমে খাবার খেয়ে নাও। (৫৪৬৫; মুসলিম ৫/১৬, হাঃ ৫৬০, আহমাদ ২৪২২১) (আধুনিক প্রকাশনীঃ ৬৩১, ইসলামিক ফাউন্ডেশনঃ ৬৩৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَكَانَ ابْنُ عُمَرَ يَبْدَأُ بِالْعَشَاءِ وَقَالَ أَبُو الدَّرْدَاءِ مِنْ فِقْهِ الْمَرْءِ إِقْبَالُهُ عَلَى حَاجَتِهِ حَتَّى يُقْبِلَ عَلَى صَلاَتِهِ وَقَلْبُهُ فَارِغٌ ইব্‌নু ‘উমার (রাযি.) (সালাতের) পূর্বে রাতের খাবার খেয়ে নিতেন। আবূ দারদা (রাযি.) বলেছেন, জ্ঞানীর পরিচয় হল, প্রথমে নিজের প্রয়োজন মেটানো, যাতে নিশ্চিতভাবে সালাতে মনোনিবেশ করতে পারে। ৬৭১. ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন রাতের খাবার উপস্থিত করা হয়, আর সে সময় সালাতের ইক্বামাত(ইকামত/একামত) হয়ে যায়, তখন প্রথমে খাবার খেয়ে নাও। (৫৪৬৫; মুসলিম ৫/১৬, হাঃ ৫৬০, আহমাদ ২৪২২১) (আধুনিক প্রকাশনীঃ ৬৩১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>671</td></tr><tr><td>Arabic No</td><td>671</td></tr><tr><td>Reference</td><td>Book 10 Hadith 65</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இரவு உணவு உங்களுக்குமுன் வைக்கப்பட்டிருக்க, தொழுகைக்கு ‘இகாமத்’ சொல்லப்பட்டுவிட்டால், முத-ல் உணவை உண்ணுங்கள். (பிறகு தொழச் செல்லுங்கள்.) இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இரவு உணவு உங்களுக்குமுன் வைக்கப்பட்டிருக்க, தொழுகைக்கு ‘இகாமத்’ சொல்லப்பட்டுவிட்டால், முத-ல் உணவை உண்ணுங்கள். (பிறகு தொழச் செல்லுங்கள்.) இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>671</td></tr><tr><td>Arabic No</td><td>671</td></tr><tr><td>Reference</td><td>Book 10 Hadith 65</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hişâm İbn Urve, babası Urve İbnü'z-Zübeyr'in şöyle dediğini nakletmiştir: "Aişe (r.anha)'dan duydum, bize Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletti; Akşam yemeği hazır olduğunda namaz için kamet getirilmiş olsa bile önce yemeğinizi yeyin. Tekrar: 5465
+Hişâm İbn Urve, babası Urve İbnü'z-Zübeyr'in şöyle dediğini nakletmiştir: "Aişe (r.anha)'dan duydum, bize Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletti; Akşam yemeği hazır olduğunda namaz için kamet getirilmiş olsa bile önce yemeğinizi yeyin. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>671</td></tr><tr><td>Arabic No</td><td>671</td></tr><tr><td>Reference</td><td>Book 10 Hadith 65</td></tr></tbody></table></div>
 

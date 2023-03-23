@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনুস সারহ (রহঃ) .... জুবায়র ইবন মুত‘ইম (রাঃ) থেকে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন, তোমরা (হে বনী আবদুল মুত্তালিব এবং বনী আবদে মানাফ) কাউকেও কোন সময় এই ঘর (বাতুল্লাহ্) তাওয়াফ করতে এবং দিন রাতের যে কোনো সময় এখানে নামায আদায় করতে নিষেধ করো না।
+। যুবায়র ইবনু মুত্ব‘ইম (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা কাউকে রাত বা দিনের যে কোনো সময়ে এই ঘরের তাওয়াফ করতে ও সালাত আদায় করতে বাঁধা দিবে না। আল-ফাদলের বর্ণনায় রয়েছেঃ এর আদবে মানাফের বংশধর! তোমরা কাউকে বাঁধা দিবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1894</td></tr><tr><td>Arabic No</td><td>1894</td></tr><tr><td>Reference</td><td>Book 11 Hadith 174</td></tr></tbody></table></div>
 

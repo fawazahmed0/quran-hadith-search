@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯০, আন্তর্জাতিক নাম্বারঃ ৫২ ৯০-(৮৬/...) ইয়াহইয়া ইবনু আইয়ুব, কুতাইবাহ ইবনু হুজর (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, ঈমানের উৎস হচ্ছে ইয়ামানবাসীদের মধ্যে, আর কুফরের উৎস হচ্ছে পূর্ব দিকে এবং নম্রতা বকরীওয়ালাদের মধ্যে। আর অহংকার ও রিয়া চিৎকারকারী ঘোড়া ও উট পালকদের মধ্যে। (ইসলামিক ফাউন্ডেশনঃ ৯২, ইসলামিক সেন্টারঃ ৯৪)
+ইয়াহইয়া ইবনু আইয়ুব, কুতাইবাহ ইবনু হুজর (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, ঈমানের উৎস হচ্ছে ইয়ামানবাসীদের মধ্যে, আর কুফরের উৎস হচ্ছে পূর্ব দিকে এবং নম্রতা বকরীওয়ালাদের মধ্যে। আর অহংকার ও রিয়া চিৎকারকারী ঘোড়া ও উট পালকদের মধ্যে। (ইসলামিক ফাউন্ডেশনঃ ৯২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>186</td></tr><tr><td>Arabic No</td><td>52.05</td></tr><tr><td>Reference</td><td>Book 1 Hadith 93</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Yahya b. Eyyub ile Kuteybe ve İbni Hucr, İsmail b. Ca'fer'den rivayet ettiler. İbni Eyyub dedi ki: Bize İsmail rivayet etti. Dediki: Bana el-Alâ', babasından, o da Ebu Hüreyre'den naklen haber verdi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "İman Yemenlidir, küfür doğu tarafındadır. Vakar ise koyun sahiplerindedir. Böbürlenmek ve riyakarlık ise at ve deve sahibi bağırışıp çağıranıardadır. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 13991
+Bize Yahya b. Eyyub ile Kuteybe ve İbni Hucr, İsmail b. Ca'fer'den rivayet ettiler. İbni Eyyub dedi ki: Bize İsmail rivayet etti. Dediki: Bana el-Alâ', babasından, o da Ebu Hüreyre'den naklen haber verdi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "İman Yemenlidir, küfür doğu tarafındadır. Vakar ise koyun sahiplerindedir. Böbürlenmek ve riyakarlık ise at ve deve sahibi bağırışıp çağıranıardadır. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>186</td></tr><tr><td>Arabic No</td><td>52.05</td></tr><tr><td>Reference</td><td>Book 1 Hadith 93</td></tr></tbody></table></div>
 

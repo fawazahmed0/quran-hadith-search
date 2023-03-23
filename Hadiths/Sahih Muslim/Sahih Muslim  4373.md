@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪২৬৫, আন্তর্জাতিক নাম্বারঃ ১৬৭৪ ৪২৬৫-(.../...) 'আমর ইবনু যুররাহ্ (রহঃ) ..... ইবনু জুরায়জ (রহঃ) হতে একই সূত্রে উল্লেখিত হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪২২৬, ইসলামিক সেন্টার ৪২২৬)
+আমর ইবনু যুররাহ্ (রহঃ) ..... ইবনু জুরায়জ (রহঃ) হতে একই সূত্রে উল্লেখিত হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪২২৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4373</td></tr><tr><td>Arabic No</td><td>1674.04</td></tr><tr><td>Reference</td><td>Book 28 Hadith 32</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন উবায়দ (রহঃ) .... উম্মু সালামা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যখন এ আয়াত নাযিল হয়- ‘‘মহিলারা যেন তাদের দেহকে চাদর দিয়ে আবৃত করে।’’ তখন আনসার মহিলারা কালো কাপড়ে শরীর আবৃত করে এমনভাবে বের হত যে, মনে হত তাদের মাথার উপর কাক বসে আছে।
+। উম্মু সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, যখন এ আয়াত অবতীর্ণ হলোঃ ‘‘হে নবী! আপনার স্ত্রী-কন্যাদেরকে এবং অন্যান্য মু‘মিন নারীদেরকে বলুন, তারা যেন নিজেদের চাদরের কিয়দাংশ নিজেদের উপর টেনে দেয়...’’ (সূরা আল-আহযাবঃ ৫৯)। তখন থেকে আনসার মহিলারা তাদের মাথায় এমন চাদর জড়িয়ে বের হতেন, (চাঁদর কালো বর্ণের হওয়ায়) মনে হতো তাতে যেন কাক বসে আছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4101</td></tr><tr><td>Arabic No</td><td>4101</td></tr><tr><td>Reference</td><td>Book 34 Hadith 82</td></tr></tbody></table></div>
 

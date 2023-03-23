@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বদ নযর লাগা সত্য। আর তিনি উলকি অংকন করতে নিষেধ করেছেন। [৫৯৪৪; মুসলিম ৩৯/১৬, হাঃ ২১৮৭, আহমাদ ৮২৫২] (আধুনিক প্রকাশনী- ৫৩২০, ইসলামিক ফাউন্ডেশন- ৫২১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বদ নযর লাগা সত্য। আর তিনি উলকি অংকন করতে নিষেধ করেছেন। [৫৯৪৪; মুসলিম ৩৯/১৬, হাঃ ২১৮৭, আহমাদ ৮২৫২] (আধুনিক প্রকাশনী- ৫৩২০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5740</td></tr><tr><td>Arabic No</td><td>5740</td></tr><tr><td>Reference</td><td>Book 76 Hadith 55</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘கண்ணேறு (ஏற்படுவது) உண்மையே” என்று சொன்னார்கள். மேலும், பச்சைகுத்துவதைத் தடை செய்தார்கள்.71 அத்தியாயம் : 76
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘கண்ணேறு (ஏற்படுவது) உண்மையே” என்று சொன்னார்கள். மேலும், பச்சைகுத்துவதைத் தடை செய்தார்கள்.71 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5740</td></tr><tr><td>Arabic No</td><td>5740</td></tr><tr><td>Reference</td><td>Book 76 Hadith 55</td></tr></tbody></table></div>
 

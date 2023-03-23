@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮৪২। আবদুর রহমান ইবনু আবী উমাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবী ছিলেন; নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মু'আবিয়া (রাযিঃ)-এর জন্য দু'আ করেনঃ “হে আল্লাহ! তুমি তাকে পথপ্রদর্শক ও হেদায়াতপ্রাপ্ত বানাও এবং তার মাধ্যমে (মানুষকে) সৎপথ দেখাও। সহীহঃ মিশকাত (৬২৪৪), সহীহাহ (১৯৬৯)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
+। আবদুর রহমান ইবনু আবী উমাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবী ছিলেন; নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মু'আবিয়া (রাযিঃ)-এর জন্য দু'আ করেনঃ “হে আল্লাহ! তুমি তাকে পথপ্রদর্শক ও হেদায়াতপ্রাপ্ত বানাও এবং তার মাধ্যমে (মানুষকে) সৎপথ দেখাও। সহীহঃ মিশকাত (৬২৩), সহীহাহ (১৯৬৯)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3842</td></tr><tr><td>Arabic No</td><td>3842</td></tr><tr><td>Reference</td><td>Book 49 Hadith 242</td></tr></tbody></table></div>
 

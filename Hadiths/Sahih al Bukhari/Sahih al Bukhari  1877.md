@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছিঃ যে কেউ মাদ্বীনাবাসীর সাথে ষড়যন্ত্র বা প্রতারণা করবে, সে লবণ যেভাবে পানিতে গলে যায়, সেভাবে গলে যাবে। (মুসলিম ১৫/৮৯, হাঃ ১৩৮৭, আহমাদ ১৫৫৮) (আধুনিক প্রকাশনীঃ ১৭৪২, ইসলামিক ফাউন্ডেশনঃ ১৭৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছিঃ যে কেউ মাদ্বীনাবাসীর সাথে ষড়যন্ত্র বা প্রতারণা করবে, সে লবণ যেভাবে পানিতে গলে যায়, সেভাবে গলে যাবে। (মুসলিম ১৫/৮৯, হাঃ ১৩৮৭, আহমাদ ১৫৫৮) (আধুনিক প্রকাশনীঃ ১৭৪২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1877</td></tr><tr><td>Arabic No</td><td>1877</td></tr><tr><td>Reference</td><td>Book 29 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Husain bin Huraits] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மதீனாவாசிகளுக்கு எதிராகச் சூழ்ச்சி செய்யும் எவரும் தண்ணீரில் உப்பு கரைவதைப் போன்று கரைந்து போவார்கள். இதை சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 29
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மதீனாவாசிகளுக்கு எதிராகச் சூழ்ச்சி செய்யும் எவரும் தண்ணீரில் உப்பு கரைவதைப் போன்று கரைந்து போவார்கள். இதை சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1877</td></tr><tr><td>Arabic No</td><td>1877</td></tr><tr><td>Reference</td><td>Book 29 Hadith 11</td></tr></tbody></table></div>
 

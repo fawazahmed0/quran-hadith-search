@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১১৮৭। সাওবান (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ স্বামীর নিকট হতে যেসব নারী কোন বিবেচনাযোগ্য কারণ ছাড়াই তালাক চায় তার জন্য জান্নাতের সুগন্ধও হারাম। — সহীহ, ইবনু মাজাহ (২০৫৫) আবু ঈসা বলেন, এ হাদীসটি হাসান। এটি অন্য একটি সূত্রেও বর্ণিত হয়েছে, কিন্তু মারফুভাবে নয়।
+। সাওবান (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ স্বামীর নিকট হতে যেসব নারী কোন বিবেচনাযোগ্য কারণ ছাড়াই তালাক চায় তার জন্য জান্নাতের সুগন্ধও হারাম। — সহীহ, ইবনু মাজাহ (২০৫৫) আবু ঈসা বলেন, এ হাদীসটি হাসান। এটি অন্য একটি সূত্রেও বর্ণিত হয়েছে, কিন্তু মারফুভাবে নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1187</td></tr><tr><td>Arabic No</td><td>1187</td></tr><tr><td>Reference</td><td>Book 13 Hadith 14</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল গনী (রহঃ) .... শুবা (রহঃ) বলেনঃ আমি রাবী সিমাক (রহঃ) কে 'কুছবা' শব্দের অর্থ জিজ্ঞাসা করি। তখন তিনি বলেনঃ 'কুছবা' শব্দের অর্থ হলো অল্প দুধ, অর্থাৎ মনি বা বীর্য, (যা সহবাসকালে নির্গত হয়)।
+। শূ‘বাহ (রহঃ) বলেন, আমি সিমাককে ‘কুসবাহ’ এর অর্থ বললাম। তিনি বললেন, অল্প দুধ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4424</td></tr><tr><td>Arabic No</td><td>4424</td></tr><tr><td>Reference</td><td>Book 40 Hadith 74</td></tr></tbody></table></div>
 

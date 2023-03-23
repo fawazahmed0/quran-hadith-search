@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯৭১, আন্তর্জাতিক নাম্বারঃ ৯৭২ ৯৭১. মুহাম্মাদ ইবনু ইব্রাহীম ইবনু সুদরান (রহ.) ..... বারা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী (সা.) -এর পশ্চাতে যুহরের সালাত আদায় করতাম। তখন আমরা সূরাহ লুকমান এবং যারিয়াতে কয়েক আয়াতের পর তা থেকে একটি আয়াত শুনতাম। সনদ দুর্বল: সনদে আবু ইসহাক শেষ বয়সে তার স্মৃতিশক্তি লোপ পেয়েছিল; ইবনু মাজাহ ৮৩০, য'ঈফাহ ৪১২০।
+। মুহাম্মদ ইবনু ইবরাহীম ইবনু সুদরান (রহঃ) ... বারা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পেছনে জোহরের সালাত আদায় করতাম। তখন আমরা সূরা লোকমান এবং যারিয়াতের কয়েক আয়াতের পর তা থেকে একটি আয়াত শুনতাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>971</td></tr><tr><td>Arabic No</td><td>971</td></tr><tr><td>Reference</td><td>Book 11 Hadith 96</td></tr></tbody></table></div>
 

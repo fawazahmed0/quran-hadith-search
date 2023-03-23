@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, সূরাহ আল-বাকারার শেষ দিকের আয়াতগুলো যখন অবতীর্ণ হল, তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম দাঁড়ালেন এবং আমাদের সামনে তা পাঠ করলেন। তারপর মদের ব্যবসা নিষিদ্ধ করে দিলেন। [৪৫৯] (আধুনিক প্রকাশনীঃ ৪১৮৩, ইসলামিক ফাউন্ডেশনঃ ৪১৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, সূরাহ আল-বাকারার শেষ দিকের আয়াতগুলো যখন অবতীর্ণ হল, তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম দাঁড়ালেন এবং আমাদের সামনে তা পাঠ করলেন। তারপর মদের ব্যবসা নিষিদ্ধ করে দিলেন। [৪৫৯] (আধুনিক প্রকাশনীঃ ৪১৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4543</td></tr><tr><td>Arabic No</td><td>4543</td></tr><tr><td>Reference</td><td>Book 65 Hadith 66</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Dan [Muhammad bin Yusuf] berkata kepada kami; dari [Sufyan] dari [Manshur] dan [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: அல்பகரா அத்தியாயத்தின் இறுதி வசனங்கள் (2:275-281) அருளப்பெற்றபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எழுந்து நின்று அவற்றை எங்களுக்கு ஓதிக்காட்டினார்கள். பிறகு மதுபான வியாபாரத்தைத் தடை செய்தார்கள்.80 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 65
+ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: அல்பகரா அத்தியாயத்தின் இறுதி வசனங்கள் (2:275-281) அருளப்பெற்றபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எழுந்து நின்று அவற்றை எங்களுக்கு ஓதிக்காட்டினார்கள். பிறகு மதுபான வியாபாரத்தைத் தடை செய்தார்கள்.80 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4543</td></tr><tr><td>Arabic No</td><td>4543</td></tr><tr><td>Reference</td><td>Book 65 Hadith 66</td></tr></tbody></table></div>
 

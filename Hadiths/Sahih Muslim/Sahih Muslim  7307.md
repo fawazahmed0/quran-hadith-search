@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭১৯৯, আন্তর্জাতিক নাম্বারঃ ২৯০৯ ৭১৯৯-(৫৯/...) কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবু হুরাইরাহ্ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ছোট ছোট নলা বিশিষ্ট আবিসিনিয়ার এক লোক আল্লাহ তা’আলার ঘরকে ধ্বংস করবে। (ইসলামিক ফাউন্ডেশন ৭০৪৩, ইসলামিক সেন্টার ৭০৯৯)
+কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবু হুরাইরাহ্ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ছোট ছোট নলা বিশিষ্ট আবিসিনিয়ার এক লোক আল্লাহ তা’আলার ঘরকে ধ্বংস করবে। (ইসলামিক ফাউন্ডেশন ৭০৪৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7307</td></tr><tr><td>Arabic No</td><td>2909.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 73</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அபிசீனியாவைச் சேர்ந்த மெலிந்த கால்கள் உடைய ஒரு மனிதன் வல்லமையும் மாண்பும் மிக்க அல்லாஹ்வின் இல்லத்தை (கஅபாவை இடித்து)ப் பாழாக்குவான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 52
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அபிசீனியாவைச் சேர்ந்த மெலிந்த கால்கள் உடைய ஒரு மனிதன் வல்லமையும் மாண்பும் மிக்க அல்லாஹ்வின் இல்லத்தை (கஅபாவை இடித்து)ப் பாழாக்குவான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7307</td></tr><tr><td>Arabic No</td><td>2909.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 73</td></tr></tbody></table></div>
 

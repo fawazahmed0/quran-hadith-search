@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উসামাহ ইবনু যায়দ (রহ.) হতে বর্ণিত। তিনি বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে এবং হাসান (রাঃ)-কে এক সঙ্গে তুলে নিতেন এবং বলতেন, হে আল্লাহ্! তুমি এদেরকে ভালবাস। কেননা আমিও এদেরকে ভালবাসি। (৩৭৪৭, ৬০০৩) (আধুনিক প্রকাশনীঃ ৩৪৫৬ প্রথমাংশ, ইসলামিক ফাউন্ডেশনঃ ৩৪৬৪ প্রথমাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 62 Hadith 82</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Usama bin Zaid: That the Prophet (ﷺ) used to take him (i.e. Usama) an
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உசாமா பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (சிறுவர்களா யிருந்த) என்னையும் ஹசன் (ரலி) அவர்களையும் கையிலெடுத்து, “இறைவா! இவர்கள் இருவரையும் நான் நேசிக்கிறேன்; நீயும் நேசிப்பாயாக!” என்று பிரார்த்திப் பார்கள். அத்தியாயம் : 62
+உசாமா பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (சிறுவர்களா யிருந்த) என்னையும் ஹசன் (ரலி) அவர்களையும் கையிலெடுத்து, “இறைவா! இவர்கள் இருவரையும் நான் நேசிக்கிறேன்; நீயும் நேசிப்பாயாக!” என்று பிரார்த்திப் பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 62 Hadith 82</td></tr></tbody></table></div>
 

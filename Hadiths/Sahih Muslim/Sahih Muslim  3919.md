@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৮১১, আন্তর্জাতিক নাম্বারঃ ১৫৩৬ ৩৮১১-(৯০/...) মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শ্রমের উপরে বা ফসলের অংশ দিয়ে জমি বর্গা নিতে নিষেধ করেছেন। (ইসলামিক ফাউন্ডেশন ৩৭৭৫, ইসলামিক সেন্টার ৩৭৭৫)
+মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শ্রমের উপরে বা ফসলের অংশ দিয়ে জমি বর্গা নিতে নিষেধ করেছেন। (ইসলামিক ফাউন্ডেশন ৩৭৭৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3919</td></tr><tr><td>Arabic No</td><td>1536.14</td></tr><tr><td>Reference</td><td>Book 21 Hadith 118</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Jabir b. Abdullah (Allah be pleased with them) reported Allah's Messenger (ﷺ) 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நிலத்தை வாடகைக்கு விடுவதை, அல்லது (நிலத்தைக் கொடுத்துப்) பிரதிபலன் பெறுவதைத் தடை செய்தார்கள். அத்தியாயம் : 21
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நிலத்தை வாடகைக்கு விடுவதை, அல்லது (நிலத்தைக் கொடுத்துப்) பிரதிபலன் பெறுவதைத் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3919</td></tr><tr><td>Arabic No</td><td>1536.14</td></tr><tr><td>Reference</td><td>Book 21 Hadith 118</td></tr></tbody></table></div>
 

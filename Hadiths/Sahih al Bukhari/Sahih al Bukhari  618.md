@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফসাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, যখন মুআযযিন সুবহে সাদিকের প্রতীক্ষায় থাকত (ও আযান দিত) এবং ভোর স্পষ্ট হত- জামা‘আত দাঁড়ানোর পূর্বে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সংক্ষেপে দু’রাক‘আত সালাত আদায় করে নিতেন। (১১৭৩, ১১৮১; মুসলিম ৬/১৪, হাঃ ৭২৩) (আধুনিক প্রকাশনীঃ ৫৮৩, ইসলামিক ফাউন্ডেশনঃ ৫৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হাফসাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, যখন মুআযযিন সুবহে সাদিকের প্রতীক্ষায় থাকত (ও আযান দিত) এবং ভোর স্পষ্ট হত- জামা‘আত দাঁড়ানোর পূর্বে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সংক্ষেপে দু’রাক‘আত সালাত আদায় করে নিতেন। (১১৭৩, ১১৮১; মুসলিম ৬/১৪, হাঃ ৭২৩) (আধুনিক প্রকাশনীঃ ৫৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>618</td></tr><tr><td>Arabic No</td><td>618</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவியார்) ஹஃப்ஸா (ரலி) அவர்கள் கூறியதாவது: தொழுகை அறிவிப்பாளர் சுப்ஹு(த் தொழுகை)க்கான அறிவிப்புச் செய்து முடித்து, வைகறை நேரம் வந்துவிட்டால், அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘இகாமத்’ சொல்லப்படுவதற்கு முன்பாகச் சுருக்கமான முறையில் இரண்டு ரக்அத் கள் (சுன்னத்) தொழுவார்கள். அத்தியாயம் : 10
+நபி (ஸல்) அவர்களின் துணைவியார்) ஹஃப்ஸா (ரலி) அவர்கள் கூறியதாவது: தொழுகை அறிவிப்பாளர் சுப்ஹு(த் தொழுகை)க்கான அறிவிப்புச் செய்து முடித்து, வைகறை நேரம் வந்துவிட்டால், அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘இகாமத்’ சொல்லப்படுவதற்கு முன்பாகச் சுருக்கமான முறையில் இரண்டு ரக்அத் கள் (சுன்னத்) தொழுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>618</td></tr><tr><td>Arabic No</td><td>618</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah bin Ömer (r.a.)'den şöyle nakledilmiştir: "Hafsa'nın bana bildirdi­ğine göre gün ağarmaya başladığı sırada müezzin sabah ezanını okumak için hazırlanınca, Nebi Sallallahu Aleyhi ve Sellem sabah namazının farzından önce iki kısa rekat sünnet kılardı. Tekrar: 1173, 1181
+Abdullah bin Ömer (r.a.)'den şöyle nakledilmiştir: "Hafsa'nın bana bildirdi­ğine göre gün ağarmaya başladığı sırada müezzin sabah ezanını okumak için hazırlanınca, Nebi Sallallahu Aleyhi ve Sellem sabah namazının farzından önce iki kısa rekat sünnet kılardı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>618</td></tr><tr><td>Arabic No</td><td>618</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
 

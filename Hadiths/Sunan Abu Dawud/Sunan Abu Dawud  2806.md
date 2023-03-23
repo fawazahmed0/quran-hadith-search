@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... কাতাদা (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি সা‘ঈদ ইবন মুসাঈয়্যাব (রহঃ)-কে জিজ্ঞাসা করেছিলাম যে, আ‘যাব কি? তিনি বলেনঃ যে পশুর কান বা শিং ইত্যাদি অর্ধেকের বেশী কাটা বা ভাঙা এরূপ পশু।
+। কাতাদাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি সাঈদ ইবনুল মুসাইয়্যিব (রহঃ)-কে জিজ্ঞেস করি, আ‘দাব কোন ধরণের পশু? তিনি বলেন, যে পশুর কান বা শিং অর্ধেক বা ততোধিক ভাঙ্গা বা কাটা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
 

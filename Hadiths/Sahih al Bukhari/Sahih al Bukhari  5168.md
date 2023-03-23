@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন কোন বিয়ে করেন, তখন ওয়ালীমা করেন, কিন্তু যাইনাব (রাঃ)-এর বিয়ের সময় যে পরিমাণ ওয়ালীমার ব্যবস্থা করেছিলেন, তা অন্য কারো বেলায় করেননি। সেই ওয়ালীমা ছিল একটি ছাগল দিয়ে। [৪৭৯১](আধুনিক প্রকাশনী- ৪৭৮৭, ইসলামিক ফাউন্ডেশন- ৪৭৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন কোন বিয়ে করেন, তখন ওয়ালীমা করেন, কিন্তু যাইনাব (রাঃ)-এর বিয়ের সময় যে পরিমাণ ওয়ালীমার ব্যবস্থা করেছিলেন, তা অন্য কারো বেলায় করেননি। সেই ওয়ালীমা ছিল একটি ছাগল দিয়ে। [৪৭৯১](আধুনিক প্রকাশনী- ৪৭৮৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5168</td></tr><tr><td>Arabic No</td><td>5168</td></tr><tr><td>Reference</td><td>Book 67 Hadith 103</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஸைனப் (ரலி) அவர்களை மணந்துகொண்டபோது அளித்த (வலீமா) மணவிருந்தைப் போன்று தம் மனைவியரில் வேறெவரை மணந்தபோதும் அளிக்கவில்லை; ஸைனப் (ரலி) அவர்களை மணந்தபோது நபி (ஸல்) அவர்கள் ஓர் ஆட்டை (அறுத்து) மண விருந்தளித்தார்கள். அத்தியாயம் : 67
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஸைனப் (ரலி) அவர்களை மணந்துகொண்டபோது அளித்த (வலீமா) மணவிருந்தைப் போன்று தம் மனைவியரில் வேறெவரை மணந்தபோதும் அளிக்கவில்லை; ஸைனப் (ரலி) அவர்களை மணந்தபோது நபி (ஸல்) அவர்கள் ஓர் ஆட்டை (அறுத்து) மண விருந்தளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5168</td></tr><tr><td>Arabic No</td><td>5168</td></tr><tr><td>Reference</td><td>Book 67 Hadith 103</td></tr></tbody></table></div>
 

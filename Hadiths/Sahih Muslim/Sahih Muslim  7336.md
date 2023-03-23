@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২২৬, আন্তর্জাতিক নাম্বারঃ ১৯২১ ৭২২৬-(…/...) মুহাম্মাদ ইবনুল মুসান্না ও উবাইদুল্লাহ ইবনু সাঈদ (রহঃ) উক্ত সূত্রে অবিকল হাদীস বর্ণনা করেছেন। তবে এতে هَذَا يَهُودِيٌّ وَرَائِي রয়েছে অর্থাৎ- এই আমার পিছনে ইয়াহুদী লুকিয়ে আছে। (ইসলামিক ফাউন্ডেশন ৭০৭২, ইসলামিক সেন্টার ৭১২৬)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7336</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

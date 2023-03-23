@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৭৪৭। উমার উবনুল খাত্তাব (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সাত জায়গায় সালাত পড়া জায়েয নয়ঃ কাবা ঘরের ছাদে, কবরস্থানে, ময়লা ফেলার স্থানে, কসাই খানায়, গোসলখানায়, উটের খোঁয়াড়ে ও রাস্তার মাঝখানে।
+। উমার উবনুল খাত্তাব (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সাত জায়গায় সালাত পড়া জায়েয নয়ঃ কাবা ঘরের ছাদে, কবরস্থানে, ময়লা ফেলার স্থানে, কসাই খানায়, গোসলখানায়, উটের খোঁয়াড়ে ও রাস্তার মাঝখানে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>747</td></tr><tr><td>Arabic No</td><td>747</td></tr><tr><td>Reference</td><td>Book 4 Hadith 13</td></tr></tbody></table></div>
 

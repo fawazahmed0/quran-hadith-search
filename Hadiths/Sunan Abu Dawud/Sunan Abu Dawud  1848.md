@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন হাম্বল (রহঃ) ...... আবূ সাঈদ আল খুদরী (রাঃ) হতে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে জিজ্ঞাসা করা হলঃ মুহরিম ব্যক্তি কী কী হত্যা করতে পারে? তিনি বলেনঃ সাপ, বিচ্ছু, ইঁদুর, পাগলা কুকুর ও হিংস্র প্রাণী। তিনি কাক সম্পর্কে বলেন, উহাকে তাড়িয়ে দিবে, হত্যা করবে না। ["কাক তাড়িয়ে দিবে,হত্যা করবে না।" এ অংশটুকু মুনকার]
+। আবূ সাঈদ আল খুদরী (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করা হলো, মুহরিম ব্যক্তি কোন্ কোন্ প্রাণী হত্যা করতে পারবে। তিনি বললেনঃ সাপ, বিছা, ইঁদুর, খ্যাপা কুকুর, চিল এবং হিংস্র জন্তু। আর কাক তাড়িয়ে দিবে, হত্যা করবে না।[1] দুর্বল, এবং তার কথাঃ ‘‘কাক তাড়িয়ে দিবে, হত্যা করবে না’’ এ অংশটুকু মুনকার। ইরওয়া (১০৩৬), যঈফ সুনান ইবনু মাজাহ (৬৬০), তার বর্ণনায় ‘‘কাক তাড়িয়ে দিবে, হত্যা করবে না।’’ কথাটুকু নেই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>1848</td></tr><tr><td>Reference</td><td>Book 11 Hadith 128</td></tr></tbody></table></div>
 

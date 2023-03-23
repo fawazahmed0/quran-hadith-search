@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৯। ইবনু আবী উমার বর্ণনা করেছেন সুফইয়ান হতে, তিনি যুহরী হতে, তিনি সাঈদ ইবনুল মুসাইয়্যিব হতে তিনি আবু হুরাইরা হতে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ বর্ণনা করেছেন।
+। ইবনু আবী উমার বর্ণনা করেছেন সুফইয়ান হতে, তিনি যুহরী হতে, তিনি সাঈদ ইবনুল মুসাইয়্যিব হতে তিনি আবু হুরাইরা হতে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>329</td></tr><tr><td>Arabic No</td><td>329</td></tr><tr><td>Reference</td><td>Book 2 Hadith 181</td></tr></tbody></table></div>
 

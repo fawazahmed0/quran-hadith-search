@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ বাশশার ..... আয়িশা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাকে চুম্বন করে উযূ (ওজু/অজু/অযু) করেননি। আবূ দাউদ (রহঃ) বলেন, এটি মুরসাল হাদীছ। কারণ ইবরাহীম আত-তাইমী আয়িশা (রাঃ) এর নিকট কিছুই শুনেননি। আবূ দাউদ আরও বলেন, আল-ফিরায়াবী প্রমুখও তা অনুরূপ বর্ণনা করেছে।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে চুমো দিয়েছেন, কিন্তু এ জন্য অযু করেননি। [1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, ফিরয়াবী এবং অন্যরাও হাদীসটি অনুরূপ বর্ণনা করেছেন। ইমাম আবূ দাউদ (রহঃ) আরো বলেন, এটি মুরসাল হাদীস। কারণ ইব্রাহীম আত-তাইমী ‘আয়িশাহ্ (রাঃ) থেকে কিছুই শোনেননি। ইমাম আবূ দাউদ (রহঃ) আরো বলেন, ইব্রাহীম আত-তাইমী চল্লিশ বছরে পদার্পণের আগেই মৃত্যু বরণ করেন। তার কুনিয়াত ছিল আবূ আসমা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>178</td></tr><tr><td>Arabic No</td><td>178</td></tr><tr><td>Reference</td><td>Book 1 Hadith 178</td></tr></tbody></table></div>
 

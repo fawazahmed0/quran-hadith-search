@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনে মুয়ায (রহঃ) .... আবদুল্লাহ ইবনে উমার (রাঃ) বলেন, নামাযের মধ্যে সুন্নাত এই যে, তুমি তোমার বাম পা (তাশাহুদের অবস্থায়) বিছিয়ে দেবে এবং ডান পায়ের পাতা খাড়া রাখবে।
+। ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) বলেন, সালাতের সুন্নাত হলো, (বসার সময়) তোমার বাম পা বিছিয়ে রাখা এবং ডান পা খাড়া করে রাখা।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>959</td></tr><tr><td>Reference</td><td>Book 2 Hadith 570</td></tr></tbody></table></div>
 

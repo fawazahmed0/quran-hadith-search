@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসহাক ইবন ইবরাহীম (রহঃ) ..... আবূ মূসা আশআরী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বয়স্ক মুসলিম, যে কুরআনের হাফিজ এবং সে তার অর্থের মধ্যে কোনরূপ কমবেশী করে না— এরূপ ব্যক্তি এবং ন্যায়-পরায়ণ বাদশার সম্মান করা, মহান আল্লাহ্‌র সম্মানের ন্যায়।
+। আবূ মূসা আল-আশ‘আরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয়ই বৃদ্ধ মুসলিমকে সম্মান করা, কুরআনের ধারক-বাহক ও ন্যায়পরায়ণ শাসকের প্রতি সম্মান দেখানো মহান আল্লাহর প্রতি সম্মান প্রদর্শনের অন্তর্ভুক্ত।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4843</td></tr><tr><td>Arabic No</td><td>4843</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
 

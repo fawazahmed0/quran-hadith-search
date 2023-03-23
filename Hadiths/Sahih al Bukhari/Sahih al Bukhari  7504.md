@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ বলেন, আমার বান্দা আমার সাক্ষাত পছন্দ করলে আমিও তার সাক্ষাত পছন্দ করি। আর সে আমার সাক্ষাত অপছন্দ করলে, আমিও তার সাক্ষাত অপছন্দ করি। (আধুনিক প্রকাশনী- ৬৯৮৫, ইসলামিক ফাউন্ডেশন- ৬৯৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ বলেন, আমার বান্দা আমার সাক্ষাত পছন্দ করলে আমিও তার সাক্ষাত পছন্দ করি। আর সে আমার সাক্ষাত অপছন্দ করলে, আমিও তার সাক্ষাত অপছন্দ করি। (আধুনিক প্রকাশনী- ৬৯৮৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7504</td></tr><tr><td>Arabic No</td><td>7504</td></tr><tr><td>Reference</td><td>Book 97 Hadith 129</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah said, 'If My slaves loves the meeting with Me, I too love the meeting with him; and if he dislikes the meeting with Me, I too dislike the meeting with him.' " (See Hadith No. 514, Vol. 8)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah said, 'If My slaves loves the meeting with Me, I too love the meeting with him; and if he dislikes the meeting with Me, I too dislike the meeting with him.' " (See Hadith No. 514, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7504</td></tr><tr><td>Arabic No</td><td>7504</td></tr><tr><td>Reference</td><td>Book 97 Hadith 129</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah said, 'If My slaves lo
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் கூறுகின்றான்: என் அடியான் என்னைச் சந்திக்க விரும்பி னால் நானும் அவனைச் சந்திக்க விரும்பு கிறேன். அவன் என்னைச் சந்திப்பதை வெறுத்தால் நானும் அவனைச் சந்திப்பதை வெறுக்கிறேன்.146 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் கூறுகின்றான்: என் அடியான் என்னைச் சந்திக்க விரும்பி னால் நானும் அவனைச் சந்திக்க விரும்பு கிறேன். அவன் என்னைச் சந்திப்பதை வெறுத்தால் நானும் அவனைச் சந்திப்பதை வெறுக்கிறேன்.146 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7504</td></tr><tr><td>Arabic No</td><td>7504</td></tr><tr><td>Reference</td><td>Book 97 Hadith 129</td></tr></tbody></table></div>
 

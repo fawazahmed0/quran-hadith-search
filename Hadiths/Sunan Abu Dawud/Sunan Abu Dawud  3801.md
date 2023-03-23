@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আবদিল্লাহ (রহঃ) .... জাবির ইবন আবদিল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বেজী সম্পর্কে জিজ্ঞাসা করি। তিনি বলেনঃ এটা তো শিকার মাত্র। ইহরাম অবস্থায় থাকাকালে কেউ যদি একে শিকার করে, তবে এর বদলে একটি দুম্বা কুরবানী করতে হবে।
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে হায়েনা সম্পর্কে প্রশ্ন করলে তিনি বলেনঃ এটা শিকার করার মতো প্রাণী। ইহরাম অবস্থায় তা শিকার করলে একটি মেষ কুরবানী দিতে হয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3801</td></tr><tr><td>Arabic No</td><td>3801</td></tr><tr><td>Reference</td><td>Book 28 Hadith 66</td></tr></tbody></table></div>
 

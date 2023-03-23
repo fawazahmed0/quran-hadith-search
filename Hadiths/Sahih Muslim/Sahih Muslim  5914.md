@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৮০৭, আন্তর্জাতিক নাম্বারঃ ২২৬৩ ৫৮০৭-(.../...) মুহাম্মাদ ইবনুল মুসান্না ও আহমাদ ইবনু মুনযির (রহঃ) ...... ইয়াহইয়া ইবনু আবূ কাসীর (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৭১৭, ইসলামিক সেন্টার ৫৭৪৯)
+মুহাম্মাদ ইবনুল মুসান্না ও আহমাদ ইবনু মুনযির (রহঃ) ...... ইয়াহইয়া ইবনু আবূ কাসীর (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৭১৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5914</td></tr><tr><td>Arabic No</td><td>2263.08</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
 

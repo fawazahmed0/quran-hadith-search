@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩৬৩, আন্তর্জাতিক নাম্বারঃ ৬৫০ ১৩৬৩-(২৪৯/৬৫০) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জামাআতের সাথে সালাত আদায় করা সালাত একাকী আদায় করা সালাত থেকে সাতাশগুণ অধিক মর্যাদাসম্পন্ন। (ইসলামী ফাউন্ডেশন ১৩৫০, ইসলামীক সেন্টার ১৩৬২)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জামাআতের সাথে সালাত আদায় করা সালাত একাকী আদায় করা সালাত থেকে সাতাশগুণ অধিক মর্যাদাসম্পন্ন। (ইসলামী ফাউন্ডেশন ১৩৫০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1477</td></tr><tr><td>Arabic No</td><td>650.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 310</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya], katanya; aku menyetorkan hapal
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: கூட்டாக (ஜமாஅத்துடன்) தொழுவது, தனியாகத் தொழுவதைவிட இருபத்தேழு மடங்கு அதிகச் சிறப்புடையதாகும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 5
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: கூட்டாக (ஜமாஅத்துடன்) தொழுவது, தனியாகத் தொழுவதைவிட இருபத்தேழு மடங்கு அதிகச் சிறப்புடையதாகும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1477</td></tr><tr><td>Arabic No</td><td>650.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 310</td></tr></tbody></table></div>
 

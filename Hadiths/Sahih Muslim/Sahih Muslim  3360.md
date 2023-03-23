@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩২৫১, আন্তর্জাতিক নাম্বারঃ ১৩৮৬ ৩২৫১-(.../...) ইবনু আবূ উমর (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) এর সূত্রে ও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩২২৬, ইসলামীক সেন্টার ৩২২৩)
+ইবনু আবূ উমর (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) এর সূত্রে ও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩২২৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>1386.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 564</td></tr></tbody></table></div>
 

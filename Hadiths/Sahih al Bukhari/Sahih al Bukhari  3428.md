@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (ইবনু মাস‘ঊদ) (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন এ আয়াত নাযিল হলঃ যারা ঈমান এনেছে এবং তাদের ঈমানকে জুলুমের দ্বারা কলুষিত করেনি- (আল-আন‘আম ৮২)। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীগণ বললেন, আমাদের মধ্যে কোন ব্যক্তি আছে যে, নিজের ঈমানকে জুলুমের দ্বারা কলুষিত করেনি? তখন এ আয়াত নাযিল হয়ঃ আল্লাহর সঙ্গে শরীক করো না। কেননা শির্ক হচ্ছে এক মহা জুলুম- (লুকমান ১৮)। (৩২) (আধুনিক প্রকাশনীঃ ৩১৭৫, ইসলামিক ফাউন্ডেশনঃ ৩১৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (ইবনু মাস‘ঊদ) (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন এ আয়াত নাযিল হলঃ যারা ঈমান এনেছে এবং তাদের ঈমানকে জুলুমের দ্বারা কলুষিত করেনি- (আল-আন‘আম ৮২)। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীগণ বললেন, আমাদের মধ্যে কোন ব্যক্তি আছে যে, নিজের ঈমানকে জুলুমের দ্বারা কলুষিত করেনি? তখন এ আয়াত নাযিল হয়ঃ আল্লাহর সঙ্গে শরীক করো না। কেননা শির্ক হচ্ছে এক মহা জুলুম- (লুকমান ১৮)। (৩২) (আধুনিক প্রকাশনীঃ ৩১৭৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3428</td></tr><tr><td>Arabic No</td><td>3428</td></tr><tr><td>Reference</td><td>Book 60 Hadith 99</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah:When the Verse:-- 'Those who believe and mix not their belief
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah] berkata; "Ketika turun firman Allah Ta'ala yang artinya: ("Orang-orang yang beriman dan tidak mencampur adukkan iman mereka dengan kezhaliman ….") (QS al-An'am ayat 82), para sahabat Nabi shallallahu 'alaihi wasallam berkata; "Siapa diantara kita yang tidak mencampur adukkan imannya dengan kezhaliman?". Maka kemudian Allah Ta'ala menurunkan firman-Nya: ("Janganlah kamu berbuat syirik (menyekutukan Allah), karena sesungguhnya syirik itu benar-benar kezhaliman yang besar"). (QS Luqman ayat 13)
+Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah] berkata; "Ketika turun firman Allah Ta'ala yang artinya: ("Orang-orang yang beriman dan tidak mencampur adukkan iman mereka dengan kezhaliman ….") (QS al-An'am ayat 82), para sahabat Nabi shallallahu 'alaihi wasallam berkata; "Siapa diantara kita yang tidak mencampur adukkan imannya dengan kezhaliman?". Maka kemudian Allah Ta'ala menurunkan firman-Nya: ("Janganlah kamu berbuat syirik (menyekutukan Allah), karena sesungguhnya syirik itu benar-benar kezhaliman yang besar"). (QS Luqman ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3428</td></tr><tr><td>Arabic No</td><td>3428</td></tr><tr><td>Reference</td><td>Book 60 Hadith 99</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: யிஎவர் இறைநம்பிக்கை கொண்டு, தம் இறைநம்பிக்கையில் அநீதியைக் கலந்திட வில்லையோ’ எனும் (6:82) இறைவசனம் அருளப்பட்டபோது நபித்தோழர்கள், ‘‘நம்மில் எவர்தான் தமது இறைநம்பிக்கையுடன் அநீதியைக் கலந்திடவில்லை?” என்று கேட்டார்கள். அப்போது ‘‘(என் அருமை மகனே!) அல்லாஹ்வுக்கு இணைகற்பிக்காதே. இணைகற்பிப்பது மாபெரும் அநீதியாகும்” (என்று லுக்மான் கூறினார்) (31:13) எனும் வசனம் அருளப்பட்டது. அத்தியாயம் : 60
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: யிஎவர் இறைநம்பிக்கை கொண்டு, தம் இறைநம்பிக்கையில் அநீதியைக் கலந்திட வில்லையோ’ எனும் (6:82) இறைவசனம் அருளப்பட்டபோது நபித்தோழர்கள், ‘‘நம்மில் எவர்தான் தமது இறைநம்பிக்கையுடன் அநீதியைக் கலந்திடவில்லை?” என்று கேட்டார்கள். அப்போது ‘‘(என் அருமை மகனே!) அல்லாஹ்வுக்கு இணைகற்பிக்காதே. இணைகற்பிப்பது மாபெரும் அநீதியாகும்” (என்று லுக்மான் கூறினார்) (31:13) எனும் வசனம் அருளப்பட்டது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3428</td></tr><tr><td>Arabic No</td><td>3428</td></tr><tr><td>Reference</td><td>Book 60 Hadith 99</td></tr></tbody></table></div>
 

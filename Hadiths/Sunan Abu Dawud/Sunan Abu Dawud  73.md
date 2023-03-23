@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেছেনঃ কুকুর কোন পাত্র লেহন করলে তা সাতবার ধৌত কর। সপ্তমবার মাটি দ্বারা ঘর্ষণ করতে হবে। -(ঐ)।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। আল্লাহর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, কুকুর কোন পাত্র লেহন করলে তা সাতবার ধুয়ে নিবে। সপ্তমবার মাটি দ্বারা ঘষবে। [1] সহীহ : কিন্তু ‘সপ্তমবারে মাটি দ্বারা’ কথাটি শায। ‘প্রথমবারে মাটি দ্বারা’ কথাটিই প্রাধান্যযোগ্য। ইমাম আবূ দাউদ (রহঃ) বলেন, আবূ সালিহ, আবূ রাযীন প্রমুখ বর্ণনাকারীগণ হাদীসটি আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণনা করেছেন, কিন্তু তারা মাটির কথা উল্লেখ করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>73</td></tr><tr><td>Arabic No</td><td>73</td></tr><tr><td>Reference</td><td>Book 1 Hadith 73</td></tr></tbody></table></div>
 

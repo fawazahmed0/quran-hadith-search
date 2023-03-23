@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ইয়াহ্‌ইয়া (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বকর (রাঃ)-এর ক্রটি সম্পর্কে তাকে অবহিত করতে অস্বীকার করেন। হাদীছের এ অংশ উপরোক্ত ঘটনার অংশ।
+। ইবনু আব্বাস (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে অনুরূপ ঘটনাটি বর্ণিত। তিনি বলেন, তিনি তাকে ভুল-ত্রুটি অবহিত করতে অসম্মতি জানান।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4633</td></tr><tr><td>Arabic No</td><td>4633</td></tr><tr><td>Reference</td><td>Book 42 Hadith 38</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সালাত ছিল তের রাক‘আত অর্থাৎ রাতে। (মুসলিম ৬/২৬, হাঃ ৭৬৪) (আধুনিক প্রকাশনীঃ ১০৬৭, ইসলামিক ফাউন্ডেশনঃ ১০৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সালাত ছিল তের রাক‘আত অর্থাৎ রাতে। (মুসলিম ৬/২৬, হাঃ ৭৬৪) (আধুনিক প্রকাশনীঃ ১০৬৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1138</td></tr><tr><td>Arabic No</td><td>1138</td></tr><tr><td>Reference</td><td>Book 19 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musadad] berkata, telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் இரவுத் தொழுகை பதிமூன்று ரக்அத்களாக இருந்தது. அத்தியாயம் : 19
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் இரவுத் தொழுகை பதிமூன்று ரக்அத்களாக இருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1138</td></tr><tr><td>Arabic No</td><td>1138</td></tr><tr><td>Reference</td><td>Book 19 Hadith 19</td></tr></tbody></table></div>
 

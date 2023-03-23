@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উরওয়াহ ইবনু যুবাইর (রহ.) হতে বর্ণিত, তিনি বলেন, আমি ‘আয়িশাহ্ (রাযি.)-এর জিজ্ঞাসা করলাম। তিনি বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রজব মাসে কখনো ‘উমরাহ আদায় করেননি। (১৭৭৬, মুসলিম ১৫/৩৫, হাঃ ১২৫৫) (আধুনিক প্রকাশনীঃ ১৬৫০. ইসলামিক ফাউন্ডেশনঃ ১৬৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উরওয়াহ ইবনু যুবাইর (রহ.) হতে বর্ণিত, তিনি বলেন, আমি ‘আয়িশাহ্ (রাযি.)-এর জিজ্ঞাসা করলাম। তিনি বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রজব মাসে কখনো ‘উমরাহ আদায় করেননি। (১৭৭৬, মুসলিম ১৫/৩৫, হাঃ ১২৫৫) (আধুনিক প্রকাশনীঃ ১৬৫০. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1777</td></tr><tr><td>Arabic No</td><td>1777</td></tr><tr><td>Reference</td><td>Book 26 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] telah mengabarkan kepada kami [Ibnu 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்களிடம் நான் (நபி (ஸல்) அவர்களின் உம்ரா பற்றிக்) கேட்டேன். அதற்கு அவர்கள், “அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ரஜப் மாதத்தில் உம்ரா செய்யவில்லை” என்றார்கள். அத்தியாயம் : 26
+உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்களிடம் நான் (நபி (ஸல்) அவர்களின் உம்ரா பற்றிக்) கேட்டேன். அதற்கு அவர்கள், “அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ரஜப் மாதத்தில் உம்ரா செய்யவில்லை” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1777</td></tr><tr><td>Arabic No</td><td>1777</td></tr><tr><td>Reference</td><td>Book 26 Hadith 4</td></tr></tbody></table></div>
 

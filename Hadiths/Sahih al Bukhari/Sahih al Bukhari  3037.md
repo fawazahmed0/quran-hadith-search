@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ সা‘ঈদী (রাঃ) হতে বর্ণিত। তাঁকে লোকেরা জিজ্ঞেস করেছিল যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যখম কিভাবে চিকিৎসা করা হয়েছিল? তখন সাহল (রাঃ) বলেন, এখন আর এ ব্যাপারে আমার চেয়ে অধিক জানা কেউ অবশিষ্ট নেই। ‘আলী (রাঃ) তাঁর ঢালে করে পানি বহন করে নিয়ে আনছিলেন, আর ফাতিমাহ (রাঃ) তাঁর মুখমন্ডল হতে রক্ত ধুয়ে দিচ্ছিলেন এবং একটি চাটাই নিয়ে পোড়ানো হয় আর তা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যখমের মধ্যে পুরে দেয়া হয়। (২৪৩) (আধুনিক প্রকাশনীঃ ২৮১০, ইসলামিক ফাউন্ডেশনঃ ২৮২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ সা‘ঈদী (রাঃ) হতে বর্ণিত। তাঁকে লোকেরা জিজ্ঞেস করেছিল যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যখম কিভাবে চিকিৎসা করা হয়েছিল? তখন সাহল (রাঃ) বলেন, এখন আর এ ব্যাপারে আমার চেয়ে অধিক জানা কেউ অবশিষ্ট নেই। ‘আলী (রাঃ) তাঁর ঢালে করে পানি বহন করে নিয়ে আনছিলেন, আর ফাতিমাহ (রাঃ) তাঁর মুখমন্ডল হতে রক্ত ধুয়ে দিচ্ছিলেন এবং একটি চাটাই নিয়ে পোড়ানো হয় আর তা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যখমের মধ্যে পুরে দেয়া হয়। (২৪৩) (আধুনিক প্রকাশনীঃ ২৮১০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 56 Hadith 243</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹாஸிம் சலமா பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு (உஹுத் போரில்) ஏற்பட்ட காயத்திற்கு எதனால் சிகிச்சையளிக்கப்பட்டது?” என்று சஹ்ல் பின் சஅத் (ரலி) அவர்களிடம் மக்கள் கேட்டனர். அதற்கு அவர்கள், ‘‘அதைப் பற்றி என்னைவிட அதிகமாக அறிந்தவர்கள் எவரும் (தற்போது) மக்களில் எஞ்சியிருக்கவில்லை. அலீ (ரலி) அவர்கள் தமது கேடயத்தில் தண்ணீர் கொண்டுவந்தார்கள். ஃபாத்திமா (ரலி) அவர்கள், அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் முகத்திலிருந்து இரத்தத் தைக் கழுவிக்கொண்டிருந்தார்கள். (இறுதி யில் ஈச்சம்) பாய் ஒன்று எடுத்துவரப்பட்டு, கரிக்கப்பட்டது. அதைக் கொண்டு அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் காயத்தில் வைத்து அழுத்தப்பட்டது” என்று சொன்னார்கள். அத்தியாயம் : 56
+அபூஹாஸிம் சலமா பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு (உஹுத் போரில்) ஏற்பட்ட காயத்திற்கு எதனால் சிகிச்சையளிக்கப்பட்டது?” என்று சஹ்ல் பின் சஅத் (ரலி) அவர்களிடம் மக்கள் கேட்டனர். அதற்கு அவர்கள், ‘‘அதைப் பற்றி என்னைவிட அதிகமாக அறிந்தவர்கள் எவரும் (தற்போது) மக்களில் எஞ்சியிருக்கவில்லை. அலீ (ரலி) அவர்கள் தமது கேடயத்தில் தண்ணீர் கொண்டுவந்தார்கள். ஃபாத்திமா (ரலி) அவர்கள், அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் முகத்திலிருந்து இரத்தத் தைக் கழுவிக்கொண்டிருந்தார்கள். (இறுதி யில் ஈச்சம்) பாய் ஒன்று எடுத்துவரப்பட்டு, கரிக்கப்பட்டது. அதைக் கொண்டு அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் காயத்தில் வைத்து அழுத்தப்பட்டது” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 56 Hadith 243</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hazim dedi ki: Sehl İbn Sa'd r.a.'a: Resulullah Sallallahu Aleyhi ve Sellem'in yarasının ne ile tedavi edilip sarıldığı soruldu. O da şöyle dedi: "Bu konuyu benden daha iyi bilen hiç kimse kalmadı. Hz. Ali kalkan ile su taşıyor ve Fatıma da Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in yüzünden akan kanı yıkıyordu. Bu sırada bir hasır parçası yakıldı ve külleri Nebi Sallallahu Aleyhi ve Sellem'in yarasının üzerine bastırıldı." bilgi: Meğazı, Bab, 24
+Ebu Hazim dedi ki: Sehl İbn Sa'd r.a.'a: Resulullah Sallallahu Aleyhi ve Sellem'in yarasının ne ile tedavi edilip sarıldığı soruldu. O da şöyle dedi: "Bu konuyu benden daha iyi bilen hiç kimse kalmadı. Hz. Ali kalkan ile su taşıyor ve Fatıma da Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in yüzünden akan kanı yıkıyordu. Bu sırada bir hasır parçası yakıldı ve külleri Nebi Sallallahu Aleyhi ve Sellem'in yarasının üzerine bastırıldı." bilgi: Meğazı, Bab
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 56 Hadith 243</td></tr></tbody></table></div>
 

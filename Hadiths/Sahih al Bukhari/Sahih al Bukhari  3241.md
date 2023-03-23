@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘ইমরান ইবনু হুসাইন (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘আমি জান্নাতের অধিবাসী সম্পর্কে জ্ঞাত হয়েছি। আমি জানতে পারলাম, জান্নাতে অধিকাংশ অধিবাসী হবে দরিদ্র লোক। জাহান্নামীদের সম্পর্কে জ্ঞাত হয়েছি, আমি জানতে পারলাম, এর বেশির ভাগ অধিবাসী নারী।’ (৫১৯৮, ৬৪৪৯, ৬৫৪৬) (আধুনিক প্রকাশনীঃ ৩০০১, ইসলামিক ফাউন্ডেশনঃ ৩০১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘ইমরান ইবনু হুসাইন (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘আমি জান্নাতের অধিবাসী সম্পর্কে জ্ঞাত হয়েছি। আমি জানতে পারলাম, জান্নাতে অধিকাংশ অধিবাসী হবে দরিদ্র লোক। জাহান্নামীদের সম্পর্কে জ্ঞাত হয়েছি, আমি জানতে পারলাম, এর বেশির ভাগ অধিবাসী নারী।’ (৫১৯৮, ৬৪৪৯, ৬৫৪৬) (আধুনিক প্রকাশনীঃ ৩০০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3241</td></tr><tr><td>Arabic No</td><td>3241</td></tr><tr><td>Reference</td><td>Book 59 Hadith 52</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Salm bin
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நான் (விண்ணுலகப் பயணத்தின்போது) சொர்க்கத்தை எட்டிப் பார்த்தேன். அங்கு குடியிருப்போரில் அதிகமானவர் களாக ஏழைகளைக் கண்டேன். நரகத்தையும் எட்டிப்பார்த்தேன். அதில் குடியிருப்போரில் அதிகமானவர்களாகப் பெண்களைக் கண்டேன். இதை இம்ரான் பின் ஹுஸைன் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நான் (விண்ணுலகப் பயணத்தின்போது) சொர்க்கத்தை எட்டிப் பார்த்தேன். அங்கு குடியிருப்போரில் அதிகமானவர் களாக ஏழைகளைக் கண்டேன். நரகத்தையும் எட்டிப்பார்த்தேன். அதில் குடியிருப்போரில் அதிகமானவர்களாகப் பெண்களைக் கண்டேன். இதை இம்ரான் பின் ஹுஸைன் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3241</td></tr><tr><td>Arabic No</td><td>3241</td></tr><tr><td>Reference</td><td>Book 59 Hadith 52</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Salm bin
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İmran İbn Husayn r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Ben cenneti gördüm ve oradakilerin çoğunun fakirler olduğunu fark ettim. Cehennemi de gördüm ve oradakilerin çoğunun kadınlar olduğunu gördüm." Tekrar: 5198, 6449, 6546
+İmran İbn Husayn r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Ben cenneti gördüm ve oradakilerin çoğunun fakirler olduğunu fark ettim. Cehennemi de gördüm ve oradakilerin çoğunun kadınlar olduğunu gördüm." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3241</td></tr><tr><td>Arabic No</td><td>3241</td></tr><tr><td>Reference</td><td>Book 59 Hadith 52</td></tr></tbody></table></div>
 

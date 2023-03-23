@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কামিল (রহঃ) .... আয়িশা (রাঃ) থেকে বর্ণিত। একদা তিনি আনসার মহিলাদের প্রশংসা করে বলেনঃ যখন সূরা নূরে পর্দার আয়াত নাযিল হয়, তখন তারা তাদের তহবন্দ বা পর্দার কাপড় ছিড়ে চাদর তৈরী করেন।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি আনসার মহিলাদের আলোচনা প্রসঙ্গে তাদের প্রশংসা করেন এবং তাদের সম্পর্কে উত্তম মন্তব্য করেন। তিনি বলেন, সূরা আন-নূর যখন অবতীর্ণ হয়, তখন তারা লুঙ্গি বা এ জাতীয় জামা ছিঁড়ে ওড়না বানিয়ে নেন। [1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 34 Hadith 81</td></tr></tbody></table></div>
 

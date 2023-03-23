@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন বিছানায় যেতেন, তখন মুয়াওব্বিত (সূরা ফালাক ও নাস) পাঠ করতঃ তাঁর দু’ হাতে ফুঁক দিয়ে তা শরীরে মাসহ(মাসেহ) করতেন। [৫০১৭] (আধুনিক প্রকাশনী- ৫৮৭৪, ইসলামিক ফাউন্ডেশন- ৫৭৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন বিছানায় যেতেন, তখন মুয়াওব্বিত (সূরা ফালাক ও নাস) পাঠ করতঃ তাঁর দু’ হাতে ফুঁক দিয়ে তা শরীরে মাসহ(মাসেহ) করতেন। [৫০১৭] (আধুনিক প্রকাশনী- ৫৮৭৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6319</td></tr><tr><td>Arabic No</td><td>6319</td></tr><tr><td>Reference</td><td>Book 80 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் படுக்கைக்குச் சென்றால் இறைப் பாதுகாப்புக் கோரும் (112, 113, 114 ஆகிய மூன்று) அத்தியாயங்களை ஓதி கைகளில் ஊதி அவற்றைத் தமது மேனியில் தடவிக்கொள்வார்கள்.13 அத்தியாயம் : 80
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் படுக்கைக்குச் சென்றால் இறைப் பாதுகாப்புக் கோரும் (112, 113, 114 ஆகிய மூன்று) அத்தியாயங்களை ஓதி கைகளில் ஊதி அவற்றைத் தமது மேனியில் தடவிக்கொள்வார்கள்.13 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6319</td></tr><tr><td>Arabic No</td><td>6319</td></tr><tr><td>Reference</td><td>Book 80 Hadith 16</td></tr></tbody></table></div>
 

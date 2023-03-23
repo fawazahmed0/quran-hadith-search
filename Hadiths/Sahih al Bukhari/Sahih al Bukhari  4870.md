@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قَالَ مُجَاهِدٌ يَسَّرْنَا هَوَّنَّا قِرَاءَتَهُ. মুজাহিদ (রহ.) বলেন, يَسَّرْنَا আমি এর পঠন পদ্ধতি সহজ করে দিয়েছি। ৪৮৭০. ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম فَهَلْ مِنْ مُدَّكِرٍ পড়তেন। [৩৩৪১] (আধুনিক প্রকাশনীঃ ৪৫০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah bin Masud:The Prophet (ﷺ) used to recite: "Fahal-min-Maddak
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dari [Abdullah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bahwasanya beliau membaca ayat: "FAHAL MIN MUDDAKIR." (maka adakah orang yang mau mengambil pelajaran?). (AL Qamar: 15)
+Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dari [Abdullah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bahwasanya beliau membaca ayat: "FAHAL MIN MUDDAKIR." (maka adakah orang yang mau mengambil pelajaran?). (AL Qamar:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Syu'bah] dari [Abu 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: (குர்ஆனின் 54ஆவது அத்தியாயத்தில் இடம்பெற்றுள்ள ‘ஃபஹல் மின்(ம்) முத்தகிர்’ எனும் தொடரைப் பிரபலமான முறைப்படி) ‘ஃஹல் மின்(ம்) முத்தகிர்’ (நல்லுணர்வு பெறுவோர் எவரும் உண்டா?) என்றே நபி (ஸல்) அவர்கள் ஓதிவந்தார்கள். (‘முஸ்தகிர்’ என்றோ, ‘முஸ்ஸகிர்’ என்றோ ஓதவில்லை.) அத்தியாயம் : 65
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: (குர்ஆனின் 54ஆவது அத்தியாயத்தில் இடம்பெற்றுள்ள ‘ஃபஹல் மின்(ம்) முத்தகிர்’ எனும் தொடரைப் பிரபலமான முறைப்படி) ‘ஃஹல் மின்(ம்) முத்தகிர்’ (நல்லுணர்வு பெறுவோர் எவரும் உண்டா?) என்றே நபி (ஸல்) அவர்கள் ஓதிவந்தார்கள். (‘முஸ்தகிர்’ என்றோ, ‘முஸ்ஸகிர்’ என்றோ ஓதவில்லை.) அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
 

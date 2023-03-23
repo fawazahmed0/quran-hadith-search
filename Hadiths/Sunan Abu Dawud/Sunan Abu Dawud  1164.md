@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতাইবা ইবনে সাঈদ (রহঃ) ..... আব্দুল্লাহ ইবনে যায়েদ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইসতিসকার নামায আদায়কালে তাঁর গায়ে কাল ডোরাবিশিষ্ট চাদর ছিল। তিনি এর নীচের দিক উল্টিয়ে উপরের দিকে উঠাবার সময় ভারী বোধ করলেন। তখন তিনি তা উল্টিয়ে নিজ কাধেঁর উপর রাখলেন।
+। ‘আবদুল্লাহ ইবনু যায়িদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বৃষ্টির জন্য দু‘আ করেন। তখন তাঁর শরীরে কালো বর্ণের একটি চাদর জড়ানো ছিল। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চাদরের নীচের অংশকে উল্টিয়ে উপরে উঠানোর সময় ভারী বোধ করায় তিনি তা কাঁধের উপরে রেখেই উল্টিয়ে নেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1164</td></tr><tr><td>Arabic No</td><td>1164</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৫৫, আন্তর্জাতিক নাম্বারঃ ৩৩৮ ৬৫৫-(৭৪/৩৩৮) আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... আবূ সাঈদ আল খুদরী (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কোন পুরুষ অপর পুরুষের লজ্জাস্থানের দিকে তাকাবে না এবং কোন মহিলা অপর মহিলার লজ্জাস্থানের দিকে তাকাবে না; কোন পুরুষ অপর পুরুষের সাথে এক কাপড়ের নীচে (উলঙ্গ অবস্থায়) ঘুমাবে না এবং কোন মহিলা অপর মহিলার সাথে একই কাপড়ের নীচে ঘুমাবে না*।(ইসলামিক ফাউন্ডেশনঃ ৬৫৯, ইসলামিক সেন্টারঃ ৬৭৪) * "কোন পুরুষ অপর পুরুষের সাথে এক কাপড়ের নিচে ঘুমাবে না এবং কোন মহিলা অপর মহিলার সাথে একই কাপড়ের নীচে ঘুমাবে না।" এর দ্বারা উদ্দেশ্য উভয়ের উলঙ্গ অবস্থায় যখন শরীরে কোন প্রকার কাপড় থাকবে না। (নবাবী)
+আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... আবূ সাঈদ আল খুদরী (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কোন পুরুষ অপর পুরুষের লজ্জাস্থানের দিকে তাকাবে না এবং কোন মহিলা অপর মহিলার লজ্জাস্থানের দিকে তাকাবে না; কোন পুরুষ অপর পুরুষের সাথে এক কাপড়ের নীচে (উলঙ্গ অবস্থায়) ঘুমাবে না এবং কোন মহিলা অপর মহিলার সাথে একই কাপড়ের নীচে ঘুমাবে না*।(ইসলামিক ফাউন্ডেশনঃ ৬৫৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>768</td></tr><tr><td>Arabic No</td><td>338.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 90</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekr b. Ebi Şeybe rivayet etti. (Dediki): Bize zeyd b. Hubab, Dahhak b. Osman'dan naklen rivayet etti Demiş ki, Bana Zeyd b. Eslem, Abdurrahman b. Ebu Said el-Hudri'nin babasından rivayet ettiğine göre Resulullah (s.a.v.) şöyle buyurdu: "Erkek erkeğin avretine, kadın kadın'ın avretine bakamaz. Erkek bir diğer erkek ile aynı elbiseye bürünemez, kadın da bir başka kadın ile aynı elbiseye bürünemez. " Diğer tahric: Ebu Davud, 4018; Tirmizi, 2793; İbn Mace, 661; Tuhfetu'l-Eşraf, 4115
+Bize Ebu Bekr b. Ebi Şeybe rivayet etti. (Dediki): Bize zeyd b. Hubab, Dahhak b. Osman'dan naklen rivayet etti Demiş ki, Bana Zeyd b. Eslem, Abdurrahman b. Ebu Said el-Hudri'nin babasından rivayet ettiğine göre Resulullah (s.a.v.) şöyle buyurdu: "Erkek erkeğin avretine, kadın kadın'ın avretine bakamaz. Erkek bir diğer erkek ile aynı elbiseye bürünemez, kadın da bir başka kadın ile aynı elbiseye bürünemez. " Diğer tahric: Ebu Davud, 4018; Tirmizi, 2793; İbn Mace, 661; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>768</td></tr><tr><td>Arabic No</td><td>338.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 90</td></tr></tbody></table></div>
 

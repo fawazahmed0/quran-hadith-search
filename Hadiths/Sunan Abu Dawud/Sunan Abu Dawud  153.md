@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ্ ইবনু মুআয .... আবূ আব্দুর রহমান আস-সুলামী (রহঃ) হতে বর্ণিত। যখন আব্দুর রহমান ইবনু আওফ (রাঃ) বিনাল (রাঃ)-কে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের উযূ (ওজু/অজু/অযু) সম্পর্কে জিজ্ঞাসা করেন, তখন তিনি সেখানে উপস্থিত ছিলেন। জবাবে তিনি (বিলাল) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখনই মলমূত্র ত্যাগের জন্য বের হতেন, তখন আমি তাঁর পানি নিয়ে যেতাম। এ সময় তিনি উযূ করে পাগড়ী ও মোজার উপর মাসেহ্ করতেন।
+। আবূ ‘আবদুর রহমান (রহঃ) সূত্রে বর্ণিত। ‘আবদুর রহমান ইবনু ‘আওফ যখন বিলাল (রাঃ)-কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অযু সম্পর্কে জিজ্ঞাসা করেছিলেন তখন তিনি তাঁর নিকট উপস্থিত ছিলেন। বিলাল (রাঃ) বললেন, তিনি পায়খানা-পেশাবের জন্য বের হতেন। তখন আমি তাঁর জন্য পানি নিয়ে আসতাম। তিনি অযু করতেন এবং পাগড়ী ও মোজার উপর মাসাহ্ করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 1 Hadith 153</td></tr></tbody></table></div>
 

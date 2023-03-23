@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ ابْنُ عُمَرَ إِنَّمَا الْغُسْلُ عَلَى مَنْ تَجِبُ عَلَيْهِ الْجُمُعَةُ. ইবনু ‘উমার (রাযি.) বলেছেন, যাদের উপর জুমু‘আহর সালাত ওয়াজিব, শুধু তাদের গোসল করা প্রয়োজন। ৮৯৪. ‘আবদুল্লাহ্ ইবনু উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, ‘‘যে ব্যক্তি জুমু‘আহর সালাতে আসবে সে যেন গোসল করে।’’ (৮৭৭) (আধুনিক প্রকাশনীঃ ৮৪৩, ইসলামিক ফাউন্ডেশনঃ ৮৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ ابْنُ عُمَرَ إِنَّمَا الْغُسْلُ عَلَى مَنْ تَجِبُ عَلَيْهِ الْجُمُعَةُ. ইবনু ‘উমার (রাযি.) বলেছেন, যাদের উপর জুমু‘আহর সালাত ওয়াজিব, শুধু তাদের গোসল করা প্রয়োজন। ৮৯৪. ‘আবদুল্লাহ্ ইবনু উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, ‘‘যে ব্যক্তি জুমু‘আহর সালাতে আসবে সে যেন গোসল করে।’’ (৮৭৭) (আধুনিক প্রকাশনীঃ ৮৪৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>894</td></tr><tr><td>Arabic No</td><td>894</td></tr><tr><td>Reference</td><td>Book 11 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் யார் ஜுமுஆ தொழு கைக்கு வருவாரோ அவர் குளித்துக் கொள்ளட்டும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 11
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் யார் ஜுமுஆ தொழு கைக்கு வருவாரோ அவர் குளித்துக் கொள்ளட்டும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>894</td></tr><tr><td>Arabic No</td><td>894</td></tr><tr><td>Reference</td><td>Book 11 Hadith 19</td></tr></tbody></table></div>
 

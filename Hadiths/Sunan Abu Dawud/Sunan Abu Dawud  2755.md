@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ওয়ালীদ ইবন ‘উতবায়া (রহঃ) .... আমর ইবন আবাসা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গণীমতের মাল হিসাবে প্রাপ্ত একটা উটকে (সুতরা হিসাবে) সামনে রেখে আমাদের সঙ্গে সালাত আদায় করলেন। অতঃপর তিনি সালাতের সালাম ফিরাবার পর উটের পার্শ্বদেশের একটি পশম নিয়ে বললেনঃ আমার জন্য তোমাদের গণীমতের মাল হতে খুমুস ব্যতীত এই পশম বরাবরও নেওয়া হালাল নয়। আর এই ‘খুমুস’ও অবশেষে তোমাদের কল্যাণের জন্যই ব্যয় হয়।
+। ‘আমর ইবনু ‘আবাসাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (সুতরাহ স্বরূপ) গানীমাতের একটি উটকে সামনে রেখে আমাদের নিয়ে সালাত আদায় করলেন। সালাম ফিরিয়ে তিনি উটের পার্শ্বদেশের একটি পশম নিয়ে বললেনঃ এক পঞ্চমাংশ- ছাড়া তোমাদের গানীমাত থেকে আমার জন্য এতটুকুও বৈধ নয়। আর এই এক-পঞ্চমাংশও তোমাদের কল্যাণে ব্যয় করা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2755</td></tr><tr><td>Arabic No</td><td>2755</td></tr><tr><td>Reference</td><td>Book 15 Hadith 279</td></tr></tbody></table></div>
 

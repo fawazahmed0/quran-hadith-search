@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু ‘আব্বাস হতে বর্ণিত। তিনি বলেন, যখন এ আয়াত ‘‘তোমার নিকট আত্মীয়গণকে সতর্ক কর’’ (আশশু‘আরাঃ ২১৪) অবতীর্ণ হল, তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে গোত্র গোত্র ধরে ডাক দিতে লাগলেন। (১৩৯৪) (আধুনিক প্রকাশনীঃ ৩২৬৩, ইসলামিক ফাউন্ডেশনঃ ৩২৭২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3526</td></tr><tr><td>Arabic No</td><td>3526</td></tr><tr><td>Reference</td><td>Book 61 Hadith 36</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Umar bin Hafsh] telah bercerita kepada kami [bapak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: “(நபியே!) உங்கள் நெருங்கிய உற வினர்களை எச்சரிப்பீராக!” (26:214) எனும் இறைவசனம் அருளப்பெற்றபோது நபி (ஸல்) அவர்கள் குலங்கள் குலங்களாக (பெயர் சொல்லி) அழைக்கலானார்கள். அத்தியாயம் : 61
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: “(நபியே!) உங்கள் நெருங்கிய உற வினர்களை எச்சரிப்பீராக!” (26:214) எனும் இறைவசனம் அருளப்பெற்றபோது நபி (ஸல்) அவர்கள் குலங்கள் குலங்களாக (பெயர் சொல்லி) அழைக்கலானார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3526</td></tr><tr><td>Arabic No</td><td>3526</td></tr><tr><td>Reference</td><td>Book 61 Hadith 36</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২১৫, আন্তর্জাতিক নাম্বারঃ ২৯১৬ ৭২১৫-(.../...) ইসহাক ইবনু মানসূর (রহঃ) ..... উম্মু সালামাহ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭০৫৯,ইসলামিক সেন্টার ৭১১৪)
+ইসহাক ইবনু মানসূর (রহঃ) ..... উম্মু সালামাহ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭০৫৯,ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7323</td></tr><tr><td>Arabic No</td><td>2916.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 89</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাযি.) হতে বর্ণিত। তিনি বলেন, মু‘আয (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে সালাত আদায় করে নিজ গোত্রে ফিরে গিয়ে তাদের ইমামাত করতেন। (৭০০) (আধুনিক প্রকাশনীঃ ৬৬৮, ইসলামিক ফাউন্ডেশনঃ ৬৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাযি.) হতে বর্ণিত। তিনি বলেন, মু‘আয (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে সালাত আদায় করে নিজ গোত্রে ফিরে গিয়ে তাদের ইমামাত করতেন। (৭০০) (আধুনিক প্রকাশনীঃ ৬৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>711</td></tr><tr><td>Arabic No</td><td>711</td></tr><tr><td>Reference</td><td>Book 10 Hadith 106</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Abu An Nu'man] keduanya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: முஆத் (பின் ஜபல்-ர-) அவர்கள் நபி (ஸல்) அவர்களுடன் தொழுவார்கள். பிறகு தம் சமுதாயத்தாரிடம் சென்று (அதே தொழுகையை) அவர்களுக்குத் தலைமை தாங்கித் தொழுவிப்பார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 10
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: முஆத் (பின் ஜபல்-ர-) அவர்கள் நபி (ஸல்) அவர்களுடன் தொழுவார்கள். பிறகு தம் சமுதாயத்தாரிடம் சென்று (அதே தொழுகையை) அவர்களுக்குத் தலைமை தாங்கித் தொழுவிப்பார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>711</td></tr><tr><td>Arabic No</td><td>711</td></tr><tr><td>Reference</td><td>Book 10 Hadith 106</td></tr></tbody></table></div>
 

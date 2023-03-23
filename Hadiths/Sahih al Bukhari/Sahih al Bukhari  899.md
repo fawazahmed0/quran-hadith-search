@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, তোমরা মহিলাদেরকে রাতে (সালাতের জন্য) মসজিদে যাওয়ার অনুমতি দিবে। (৮৬৫ মুসলিম ৪/, হাঃ ৪৪২) (আধুনিক প্রকাশনীঃ ৮৪৬, ইসলামিক ফাউন্ডেশনঃ ৮৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, তোমরা মহিলাদেরকে রাতে (সালাতের জন্য) মসজিদে যাওয়ার অনুমতি দিবে। (৮৬৫ মুসলিম ৪/, হাঃ ৪৪২) (আধুনিক প্রকাশনীঃ ৮৪৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>899</td></tr><tr><td>Arabic No</td><td>899</td></tr><tr><td>Reference</td><td>Book 11 Hadith 23</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இரவில் பள்ளிவாசலுக்குச் செல்ல பெண்களுக்கு அனுமதி அளியுங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 11
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இரவில் பள்ளிவாசலுக்குச் செல்ல பெண்களுக்கு அனுமதி அளியுங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>899</td></tr><tr><td>Arabic No</td><td>899</td></tr><tr><td>Reference</td><td>Book 11 Hadith 23</td></tr></tbody></table></div>
 

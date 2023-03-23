@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ঈদ ইবনু যায়দ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, الْكَمْأَةُ জাতীয় উদ্ভিদ মান্না-এর মতো এবং এর পানি চক্ষুরোগ আরোগ্যকারী। [৪৪৭৮] (আধুনিক প্রকাশনীঃ ৪২৭৮, ইসলামিক ফাউন্ডেশনঃ ৪২৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘ঈদ ইবনু যায়দ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, الْكَمْأَةُ জাতীয় উদ্ভিদ মান্না-এর মতো এবং এর পানি চক্ষুরোগ আরোগ্যকারী। [৪৪৭৮] (আধুনিক প্রকাশনীঃ ৪২৭৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4639</td></tr><tr><td>Arabic No</td><td>4639</td></tr><tr><td>Reference</td><td>Book 65 Hadith 161</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim] Telah menceritakan kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: சமையல் காளான் (தானாக வளர்வதில்) “மன்னு'வின் வகையைச் சேர்ந்ததாகும். அதன் சாறு கண்ணுக்கு நிவாரணமாகும். இதை சயீத் பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.5 அத்தியாயம் : 65
+நபி (ஸல்) அவர்கள் கூறினார்கள்: சமையல் காளான் (தானாக வளர்வதில்) “மன்னு'வின் வகையைச் சேர்ந்ததாகும். அதன் சாறு கண்ணுக்கு நிவாரணமாகும். இதை சயீத் பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.5 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4639</td></tr><tr><td>Arabic No</td><td>4639</td></tr><tr><td>Reference</td><td>Book 65 Hadith 161</td></tr></tbody></table></div>
 

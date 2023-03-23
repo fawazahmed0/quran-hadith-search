@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৩৪৪, আন্তর্জাতিক নাম্বারঃ ১০৬৪ ২৩৪৪-(১৪৬/...) ইবনু নুমায়র (রহঃ) ..... উমারা ইবনুল ক্বা-ক্বা (রহঃ) থেকে বর্ণিত। কিছুটা শাব্দিক পার্থক্য সহকারে এ সূত্রে উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৩২৩, ইসলামীক সেন্টার ২৩২৩)
+ইবনু নুমায়র (রহঃ) ..... উমারা ইবনুল ক্বা-ক্বা (রহঃ) থেকে বর্ণিত। কিছুটা শাব্দিক পার্থক্য সহকারে এ সূত্রে উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৩২৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2454</td></tr><tr><td>Arabic No</td><td>1064.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 191</td></tr></tbody></table></div>
 

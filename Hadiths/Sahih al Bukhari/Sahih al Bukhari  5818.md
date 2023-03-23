@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বুরদাহ (রহঃ) হতে বর্ণিত। তিনি বলেন, ‘আয়িশাহ একবার একখানি কম্বল ও মোটা ইযার নিয়ে আমাদের কাছে আসেন এবং তিনি বললেনঃ এ দু’টি পরা অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর রূহ কবয করা হয়। [৩৭৩] (আধুনিক প্রকাশনী- ৫৩৯১, ইসলামিক ফাউন্ডেশন- ৫২৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বুরদাহ (রহঃ) হতে বর্ণিত। তিনি বলেন, ‘আয়িশাহ একবার একখানি কম্বল ও মোটা ইযার নিয়ে আমাদের কাছে আসেন এবং তিনি বললেনঃ এ দু’টি পরা অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর রূহ কবয করা হয়। [৩৭৩] (আধুনিক প্রকাশনী- ৫৩৯১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5818</td></tr><tr><td>Arabic No</td><td>5818</td></tr><tr><td>Reference</td><td>Book 77 Hadith 35</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'i
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூபுர்தா (ரலி) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்கள் எங்களிடம் (ஒட்டுப்போட்ட) கெட்டியான ஆடை ஒன்றையும் கெட்டியான கீழங்கியொன்றை யும் எடுத்துக்காட்டி, ‘‘இந்த இரண்டையும் அணிந்திருந்த நிலையில்தான் நபி (ஸல்) அவர்களின் உயிர் பிரிந்தது” என்று சொன்னார்கள்.36 அத்தியாயம் : 77
+அபூபுர்தா (ரலி) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்கள் எங்களிடம் (ஒட்டுப்போட்ட) கெட்டியான ஆடை ஒன்றையும் கெட்டியான கீழங்கியொன்றை யும் எடுத்துக்காட்டி, ‘‘இந்த இரண்டையும் அணிந்திருந்த நிலையில்தான் நபி (ஸல்) அவர்களின் உயிர் பிரிந்தது” என்று சொன்னார்கள்.36 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5818</td></tr><tr><td>Arabic No</td><td>5818</td></tr><tr><td>Reference</td><td>Book 77 Hadith 35</td></tr></tbody></table></div>
 

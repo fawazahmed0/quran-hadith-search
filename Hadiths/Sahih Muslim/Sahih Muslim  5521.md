@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+(…) মুহাম্মাদ ইবনুল মুসান্না (রহঃ), ইবনু আবূ আদী ও আবদুল আ'লা (রহঃ) হতে উক্ত সূত্রে রিওয়ায়াত করেছেন। কিন্তু ইবনুল মুসান্না (রহঃ) বলেছেন, এ সূত্রে তিনি অর্থাৎ- আবদুল আ'লা বর্ধিত করে বলেছেন, "রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের তা কর্তন করার নির্দেশ দেননি।" (ইসলামিক ফাউন্ডেশন ৫৩৪২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5521</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

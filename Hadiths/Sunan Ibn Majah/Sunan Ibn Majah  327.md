@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩২৭। আয়িশাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পেশাব করতে গেলেন এবং উমার পানি নিয়ে তাঁর পিছে পিছে গেলেন। তিনি বলেনঃ হে উমার! এটা কী? উমার বলেন, পানি। তিনি বলেনঃ যখনই আমি পেশাব করবো তখনই আমাকে উযূ (ওজু/অজু/অযু) করার নির্দেশ দেয়া হয়নি। আমি তাই করলে তা সুন্নাত (বাধ্যতামূলক) হয়ে যেত।
+। আয়িশাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পেশাব করতে গেলেন এবং উমার পানি নিয়ে তাঁর পিছে পিছে গেলেন। তিনি বলেনঃ হে উমার! এটা কী? উমার বলেন, পানি। তিনি বলেনঃ যখনই আমি পেশাব করবো তখনই আমাকে উযূ (ওজু/অজু/অযু) করার নির্দেশ দেয়া হয়নি। আমি তাই করলে তা সুন্নাত (বাধ্যতামূলক) হয়ে যেত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>327</td></tr><tr><td>Reference</td><td>Book 1 Hadith 61</td></tr></tbody></table></div>
 

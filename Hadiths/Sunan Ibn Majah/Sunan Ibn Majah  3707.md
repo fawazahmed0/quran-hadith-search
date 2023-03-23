@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩৭০৭। আবূ আইউব আল-আনসারী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা জিজ্ঞাসা করলাম, ইয়া রাসূলাল্লাহ! এই সালাম তো বুঝলাম, কিন্তু অনুমতি প্রার্থনা কী? তিনি বলেনঃ আগস্ত্তুক মুখে আল্লাহর গুণগান, মহত্ব ও প্রশংসাবাক্য উচ্চারণ করে বা গলা থাকারি দিয়ে বাড়ির লোকজনের নিকট অনুমতি প্রার্থনা করবে।
+। আবূ আইউব আল-আনসারী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা জিজ্ঞাসা করলাম, ইয়া রাসূলাল্লাহ! এই সালাম তো বুঝলাম, কিন্তু অনুমতি প্রার্থনা কী? তিনি বলেনঃ আগস্ত্তুক মুখে আল্লাহর গুণগান, মহত্ব ও প্রশংসাবাক্য উচ্চারণ করে বা গলা থাকারি দিয়ে বাড়ির লোকজনের নিকট অনুমতি প্রার্থনা করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3707</td></tr><tr><td>Arabic No</td><td>3707</td></tr><tr><td>Reference</td><td>Book 33 Hadith 51</td></tr></tbody></table></div>
 

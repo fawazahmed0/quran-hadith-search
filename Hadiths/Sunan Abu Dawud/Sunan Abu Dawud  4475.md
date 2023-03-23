@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নুফায়লী (রহঃ) .... মুহাম্মদ ইবন ইসহাক (রহঃ) থেকে এরূপ বর্ণিত আছে। কিন্তু সেখানে আইশা (রাঃ)-এর কথা উল্লেখ নেই। রাবী বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু'জন পুরুষ ও একজন স্ত্রীলোকের উপর শাস্তির বিধান জারী করেন, যারা দুর্নাম রটনায় অংশ গ্রহণ করেছিল। এদের মধ্যে ছিলেন হাসসান ইবন ছাবিত এবং মিসতাহ ইবন আছাছা (রাঃ)। নুফায়লী (রহঃ) বলেনঃ লোকেরা যে মহিলার কথা বলতো, তিনি ছিলেন-হামনা বিনত জাহাশ (রাঃ)।
+। মুহাম্মাদ ইবনু ইসহাক (রহঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। তবে তিনি আয়িশাহ (রাঃ)-এর নাম উল্লেখ করেননি। তিনি বলেছেনঃ যারা অশ্লীল কথা রটিয়েছিল, তিনি তাদের মধ্যে দু’ জন পুরুষ ও একজন নারী সম্পর্কে আদেশ দেন। পুরুষ দু’ জন হলোঃ হাসান ইবনু সাবিত ও মিসতাহ ইবনু উসাসাহ। নুফাইলী বলেনঃ তারা বলতেনঃ মহিলাটি হলো হামনা বিনতু জাহশ।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4475</td></tr><tr><td>Arabic No</td><td>4475</td></tr><tr><td>Reference</td><td>Book 40 Hadith 125</td></tr></tbody></table></div>
 

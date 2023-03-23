@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আল ‘আলা (রহঃ) ..... আদী ইবন যায়িদ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদীনার সমস্ত গাছ, বৃক্ষরাজি হিফাযতের বন্দোবস্ত করেন। তার কোন পাতা (ঝরান) হতো না এবং কোন বৃক্ষ কর্তন করাও যেত না। অবশ্য ভারবাহী পশুদের খাদ্যের জন্য যে পরিমাণ প্রয়োজন তা ব্যতীত।
+। ‘আদী ইবনু যায়িদ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদীনার চতুর্দিকে এক এক ‘বারীদ’ সম্মানিত ঘোষণা করেছেন। এখানকার গাছের পাতা পাড়া যাবে না, এবং কাটাও যাবে না। তবে উট যেটুকু খাদ্য হিসেবে বহন করে, তা কাটা যাবে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2036</td></tr><tr><td>Arabic No</td><td>2036</td></tr><tr><td>Reference</td><td>Book 11 Hadith 316</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বর্ণনাকারী বলেন, আমি ইবনু ‘উমার (রাঃ)-কে বলতে শুনেছি যে, সে মহিলা রওয়ানা হতে পারবে না। পরবর্তীতে তাঁকে এ কথাও বলতে শুনেছি যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে অনুমতি দিয়েছেন। (৩৩০) (আধুনিক প্রকাশনীঃ ১৬৩৭. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1760</td></tr><tr><td>Arabic No</td><td>1760</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯২, আন্তর্জাতিক নাম্বারঃ ৩০৭ ৫৯২-(২৬/৩০৭) কুতাইবাহ ইবনু সাঈদ (রহঃ) .... 'আবদুল্লাহ ইবনু আবূ কায়স (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বিতর সম্বন্ধে আয়িশাহ্ (রাযিঃ) কে প্রশ্ন করলাম। তিনি (তৎবিষয়ে) হাদীস বর্ণনা করলেন। আমি জিজ্ঞেস করলাম, তিনি নাপাকির সময় কী করতেন, তিনি কি ঘুমাবার আগে গোসল করতেন, না গোসল করার আগে ঘুমাতেন? তিনি [আয়িশাহ (রাযিঃ)] বললেন, সবই করতেন। কখনো গোসল করে ঘুমাতেন আর কখনো ওযু করে ঘুমিয়ে পড়তেন। আমি বললাম, সমস্ত প্রশংসা সে আল্লাহর যিনি সব কাজেই অবকাশ রেখেছেন। (ইসলামিক ফাউন্ডেশনঃ ৫৯৬, ইসলামিক সেন্টারঃ ৬১২)
+কুতাইবাহ ইবনু সাঈদ (রহঃ) .... 'আবদুল্লাহ ইবনু আবূ কায়স (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বিতর সম্বন্ধে আয়িশাহ্ (রাযিঃ) কে প্রশ্ন করলাম। তিনি (তৎবিষয়ে) হাদীস বর্ণনা করলেন। আমি জিজ্ঞেস করলাম, তিনি নাপাকির সময় কী করতেন, তিনি কি ঘুমাবার আগে গোসল করতেন, না গোসল করার আগে ঘুমাতেন? তিনি [আয়িশাহ (রাযিঃ)] বললেন, সবই করতেন। কখনো গোসল করে ঘুমাতেন আর কখনো ওযু করে ঘুমিয়ে পড়তেন। আমি বললাম, সমস্ত প্রশংসা সে আল্লাহর যিনি সব কাজেই অবকাশ রেখেছেন। (ইসলামিক ফাউন্ডেশনঃ ৫৯৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>705</td></tr><tr><td>Arabic No</td><td>307.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 27</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Qutaibah bin SA"id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Kuteybetü'bnü Saîd rivayet etti. (Dediki): Bize Leys, Muaviyetü'bnü Salih'den, o da Abdullah b. Ebî Kays'tan naklen rivayet etti. Abdullah: Aişe (r.anha)'ya Resulullah (Sallallahu aleyhi ve Sellem)'in vitir namazı hakkında soru sordum deyip, hadisi zikretti. Ben: Peki, cünüplük halinde nasıl yapardı? Uyumadan önce gusleder miydi yoksa gusletmeden önce uyur muydu, dedim. O: Her ikisini de yapardı, bazen gusleder uyurdu, bazen abdest alır uyurdu, dedi. Ben: Bu işte genişlik takdir buyuran Allah'a hamdolsun, dedim. Diğer tahric: Ebu Davud, 1437; Tirmizi, 449 -muhtasar olarak-, 2924
+Bize Kuteybetü'bnü Saîd rivayet etti. (Dediki): Bize Leys, Muaviyetü'bnü Salih'den, o da Abdullah b. Ebî Kays'tan naklen rivayet etti. Abdullah: Aişe (r.anha)'ya Resulullah (Sallallahu aleyhi ve Sellem)'in vitir namazı hakkında soru sordum deyip, hadisi zikretti. Ben: Peki, cünüplük halinde nasıl yapardı? Uyumadan önce gusleder miydi yoksa gusletmeden önce uyur muydu, dedim. O: Her ikisini de yapardı, bazen gusleder uyurdu, bazen abdest alır uyurdu, dedi. Ben: Bu işte genişlik takdir buyuran Allah'a hamdolsun, dedim. Diğer tahric: Ebu Davud, 1437; Tirmizi, 449 -muhtasar olarak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>705</td></tr><tr><td>Arabic No</td><td>307.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 27</td></tr></tbody></table></div>
 

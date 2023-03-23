@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ আইয়ুব আনসারী (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন শৌচাগারে যায়, তখন সে যেন কিবলার দিকে মুখ না করে এবং তার দিকে পিঠও না করে, বরং তোমরা পূর্ব দিক এবং পশ্চিম দিকে ফিরে বসবে (এই নির্দেশ মাদ্বীনার বাসিন্দাদের জন্য)।* (৩৯৪; মুসলিম ২/১৭, হাঃ ২৬৪, আহমাদ ২৩৫৮৩, ২৩৫৯৫) (আধুনিক প্রকাশনীঃ ১৪১, ইসলামিক ফাউন্ডেশনঃ ১৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ আইয়ুব আনসারী (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন শৌচাগারে যায়, তখন সে যেন কিবলার দিকে মুখ না করে এবং তার দিকে পিঠও না করে, বরং তোমরা পূর্ব দিক এবং পশ্চিম দিকে ফিরে বসবে (এই নির্দেশ মাদ্বীনার বাসিন্দাদের জন্য)।* (৩৯৪; মুসলিম ২/১৭, হাঃ ২৬৪, আহমাদ ২৩৫৮৩, ২৩৫৯৫) (আধুনিক প্রকাশনীঃ ১৪১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் மலம் கழிக்கச் சென்றால் அவர் கிப்லாவை முன்னோக்க வேண்டாம்; (அதன் திசையில்) தமது முதுகைக் காட்டி அமரவும் வேண்டாம். (மாறாக) கிழக்கு நோக்கியோ மேற்கு நோக்கியோ திரும்பிக்கொள்ளுங்கள்.9 இதை அபூஅய்யூப் அல்அன்சாரி (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 4
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் மலம் கழிக்கச் சென்றால் அவர் கிப்லாவை முன்னோக்க வேண்டாம்; (அதன் திசையில்) தமது முதுகைக் காட்டி அமரவும் வேண்டாம். (மாறாக) கிழக்கு நோக்கியோ மேற்கு நோக்கியோ திரும்பிக்கொள்ளுங்கள்.9 இதை அபூஅய்யூப் அல்அன்சாரி (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Eyyub el-Ensâri r.a. şöyle demiştir; Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Biriniz tuvaletini yapacağı zaman kıbleye önünü ve arkasını dönmesin. Doğuya veya batıya dönün. Tekrar: 394
+Ebu Eyyub el-Ensâri r.a. şöyle demiştir; Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Biriniz tuvaletini yapacağı zaman kıbleye önünü ve arkasını dönmesin. Doğuya veya batıya dönün. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
 

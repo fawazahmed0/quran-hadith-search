@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/১৯১০। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর এক বিবাহ ভোজের অনুষ্ঠানে উপস্থিত ছিলাম। এতে না গোশত ছিল, না রুটি।
+। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর এক বিবাহ ভোজের অনুষ্ঠানে উপস্থিত ছিলাম। এতে না গোশত ছিল, না রুটি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1910</td></tr><tr><td>Arabic No</td><td>1910</td></tr><tr><td>Reference</td><td>Book 9 Hadith 66</td></tr></tbody></table></div>
 

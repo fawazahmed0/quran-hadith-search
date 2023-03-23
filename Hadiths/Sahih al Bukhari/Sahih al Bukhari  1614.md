@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা্য় উপনীত হয়ে সর্বপ্রথম উযূ করে তাওয়াফ সম্পন্ন করেন। (রাবী) ‘উরওয়াহ (রহ.) বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর এই তাওয়াফটি ‘উমরাহ’র তাওয়াফ ছিল না। (তিনি আরো বলেন) অতঃপর আবূ বকর ও ‘উমার (রাঃ) অনুরূপভাবে হাজ্জ করেছেন। এরপর আমার পিতা যুবাইর (রাঃ)-এর সাথে আমি হাজ্জ করেছি তাতেও দেখেছি যে, সর্বপ্রথম তিনি তাওয়াফ করেছেন। এরপর মুহাজির, আনসার সকল সাহাবা (রাঃ)-কে এরূপ করতে দেখেছি। আমার মা আমাকে জানিয়েছেন যে, তিনি, তাঁর বোন এবং যুবাইর ও অমুক অমুক ব্যক্তি ‘উমরাহ’র ইহরাম বেঁধেছেন, যখন তাঁরা তাওয়াফ সমাধা করেছেন, হালাল হয়ে গেছেন। (১৬১৪=১৬৪১) (১৬১৫=১৬৪২, ১৭৯৬) (আধুনিক প্রকাশনীঃ ১৫০৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1614</td></tr><tr><td>Arabic No</td><td>1614</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ashbagh] dari [Ibnu Wahb] telah mengabarkan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ் ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: “நபி (ஸல்) அவர்கள் மக்கா வந்தவுடன் முதல் வேலையாக அங்கத் தூய்மை (உளூ) செய்து, கஅபாவைச் சுற்றி (தவாஃப்) வந்தார்கள். அது (வெறும்) உம்ராவாக இருக்கவில்லை. பின்னர் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரும் இதைப் போன்றே ஹஜ் செய்தார்கள்” என்று ஆயிஷா (ரலி) அவர்கள் கூறினார்கள். நான் என் தந்தை ஸுபைர் (ரலி) அவர்களுடன் ஹஜ் செய்தேன். அவர்களும் முதல் வேலையாக தவாஃப்தான் செய்தார்கள். பிறகு முஹாஜிர்களும் அன்சாரிகளும் இவ்வாறு செய்ததையே நான் பார்த்தேன். மேலும் என் தாயார் (அஸ்மா), “நானும் என் சகோதரியும் (ஆயிஷா) (கணவர்) ஸுபைரும் இன்னாரும் இன்னாரும் உம்ராவிற்காக இஹ்ராம் கட்டினோம். நாங்கள் ஹஜருல் அஸ்வதைத் தொட்(டு முத்தமிட்)டபின் (‘சயீ’ செய்து முடித்ததும்) இஹ்ராமிலிருந்து விடுபட்டோம்” என்று கூறினார்கள். அத்தியாயம் : 25
+உர்வா பின் அஸ் ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: “நபி (ஸல்) அவர்கள் மக்கா வந்தவுடன் முதல் வேலையாக அங்கத் தூய்மை (உளூ) செய்து, கஅபாவைச் சுற்றி (தவாஃப்) வந்தார்கள். அது (வெறும்) உம்ராவாக இருக்கவில்லை. பின்னர் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரும் இதைப் போன்றே ஹஜ் செய்தார்கள்” என்று ஆயிஷா (ரலி) அவர்கள் கூறினார்கள். நான் என் தந்தை ஸுபைர் (ரலி) அவர்களுடன் ஹஜ் செய்தேன். அவர்களும் முதல் வேலையாக தவாஃப்தான் செய்தார்கள். பிறகு முஹாஜிர்களும் அன்சாரிகளும் இவ்வாறு செய்ததையே நான் பார்த்தேன். மேலும் என் தாயார் (அஸ்மா), “நானும் என் சகோதரியும் (ஆயிஷா) (கணவர்) ஸுபைரும் இன்னாரும் இன்னாரும் உம்ராவிற்காக இஹ்ராம் கட்டினோம். நாங்கள் ஹஜருல் அஸ்வதைத் தொட்(டு முத்தமிட்)டபின் (‘சயீ’ செய்து முடித்ததும்) இஹ்ராமிலிருந்து விடுபட்டோம்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1614</td></tr><tr><td>Arabic No</td><td>1614</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ashbagh] dari [Ibnu Wahb] telah mengabarkan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha) şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem Mekke'ye gelince ilk önce abdest aldı sonra da tavaf etti. Bunları umre olarak saymazdı. (Bunları umre kabul edip ihram'dan çıkmazdı). Daha sonra Ebu Bekir ve Ömer de bu şekilde hac yapmışlardır." Hadisi Hz. Aişe'den rivayet eden Urve: "Daha sonra ben babam Zübeyr ile hac yaptım. O da önce tavaf ederek başladı. Daha sonra Muhacirlerin ve Ensarın da aynı şekilde yaptığını gördüm. Annem Esma bana, kendisinin, kız kardeşi Aişe'nin, falan falan kişilerin umre niyetiyle ihrama girdiklerini, rükne el sürüp (tavaf ve sa'yi tamamladıktan sonra) ihramdan çıktıklarını haber verdi" demiştir. 1614 nolu Hadisin geçtiği diğer yerler : 1641. 1615 nolu Hadisin geçtiği diğer yerler : 1642, 1796
+Aişe (r.anha) şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem Mekke'ye gelince ilk önce abdest aldı sonra da tavaf etti. Bunları umre olarak saymazdı. (Bunları umre kabul edip ihram'dan çıkmazdı). Daha sonra Ebu Bekir ve Ömer de bu şekilde hac yapmışlardır." Hadisi Hz. Aişe'den rivayet eden Urve: "Daha sonra ben babam Zübeyr ile hac yaptım. O da önce tavaf ederek başladı. Daha sonra Muhacirlerin ve Ensarın da aynı şekilde yaptığını gördüm. Annem Esma bana, kendisinin, kız kardeşi Aişe'nin, falan falan kişilerin umre niyetiyle ihrama girdiklerini, rükne el sürüp (tavaf ve sa'yi tamamladıktan sonra) ihramdan çıktıklarını haber verdi" demiştir. 1614 nolu Hadisin geçtiği diğer yerler : 1641. 1615 nolu Hadisin geçtiği diğer yerler :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1614</td></tr><tr><td>Arabic No</td><td>1614</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

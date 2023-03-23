@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যাকারিয়া ইবন ইয়াহ্ইয়া (রহঃ) ... সাঈদ ইবন মুসায়্যিব (রহঃ) বলেন, সাকীফ গোত্রের লোকজন উমর (রাঃ)-এর সংগে এক প্রকারের পানীয় নিয়ে সাক্ষাত করল। তিনি তার কাছে নিতে বললেন। তারপর তিনি যখন তা মুখের কাছে নিলেন, তখন তাঁর কাছে তা খারাপ লাগল। তারপর তিনি পানি মিশিয়ে তার ঝাঁঝ কমিয়ে দিলেন। পরে তিনি বললেনঃ তোমরাও এরূপ করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5706</td></tr><tr><td>Arabic No</td><td>5706</td></tr><tr><td>Reference</td><td>Book 51 Hadith 168</td></tr></tbody></table></div>
 

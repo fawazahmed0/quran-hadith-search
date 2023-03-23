@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। হিলাল ইবনু উমাইয়া নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট তার স্ত্রীর বিরুদ্ধে শারীক ইবনু সাহমা এর সঙ্গে ব্যভিচারে লিপ্ত হবার অভিযোগ করলে নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেন, হয় তুমি প্রমাণ পেশ করবে, নয় তোমার পিঠে দন্ড আপতিত হবে। সে বলল, হে আল্লাহর রাসূল! আমাদের কেউ কি আপন স্ত্রীর উপর অপর কোন পুরুষকে দেখে প্রমাণ সংগ্রহের জন্য ছুটে যাবে? কিন্তু নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) একই কথা বলতে থাকলেন, হয় প্রমাণ পেশ করবে, নয় তোমার পিঠে বেত্রাঘাতের দন্ড আপতিত হবে। তারপর তিনি লি‘আন ...... সংক্রান্ত হাদীস বর্ণনা করলেন। (৪৭৪৭, ৫৩০৭) (আধুনিক প্রকাশনীঃ ২৪৭৭, ইসলামিক ফাউন্ডেশনঃ ২৪৯৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। হিলাল ইবনু উমাইয়া নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট তার স্ত্রীর বিরুদ্ধে শারীক ইবনু সাহমা এর সঙ্গে ব্যভিচারে লিপ্ত হবার অভিযোগ করলে নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেন, হয় তুমি প্রমাণ পেশ করবে, নয় তোমার পিঠে দন্ড আপতিত হবে। সে বলল, হে আল্লাহর রাসূল! আমাদের কেউ কি আপন স্ত্রীর উপর অপর কোন পুরুষকে দেখে প্রমাণ সংগ্রহের জন্য ছুটে যাবে? কিন্তু নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) একই কথা বলতে থাকলেন, হয় প্রমাণ পেশ করবে, নয় তোমার পিঠে বেত্রাঘাতের দন্ড আপতিত হবে। তারপর তিনি লি‘আন ...... সংক্রান্ত হাদীস বর্ণনা করলেন। (৪৭৪৭, ৫৩০৭) (আধুনিক প্রকাশনীঃ ২৪৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2671</td></tr><tr><td>Arabic No</td><td>2671</td></tr><tr><td>Reference</td><td>Book 52 Hadith 33</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:Hilal bin Umaiya accused his wife before the Prophet (ﷺ) of committing illegal sexual intercourse with Sharik bin Sahma.' The Prophet (ﷺ) said, "Produce a proof, or else you would get the legal punishment (by being lashed) on your back." Hilal said, "O Allah's Messenger (ﷺ)! If anyone of us saw another man over his wife, would he go to search for a proof." The Prophet (ﷺ) went on saying, "Produce a proof or else you would get the legal punishment (by being lashed) on your back." The Prophet (ﷺ) then mentioned the narration of Lian (as in the Holy Book). (Surat-al-Nur: 24)
+Narrated Ibn 'Abbas:Hilal bin Umaiya accused his wife before the Prophet (ﷺ) of committing illegal sexual intercourse with Sharik bin Sahma.' The Prophet (ﷺ) said, "Produce a proof, or else you would get the legal punishment (by being lashed) on your back." Hilal said, "O Allah's Messenger (ﷺ)! If anyone of us saw another man over his wife, would he go to search for a proof." The Prophet (ﷺ) went on saying, "Produce a proof or else you would get the legal punishment (by being lashed) on your back." The Prophet (ﷺ) then mentioned the narration of Lian (as in the Holy Book). (Surat-al-Nur:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2671</td></tr><tr><td>Arabic No</td><td>2671</td></tr><tr><td>Reference</td><td>Book 52 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஹிலால் பின் உமய்யா (ரலி) அவர்கள் தம் மனைவியை ஷரீக் பின் சஹ்மாவுடன் இணைத்து விபசாரக் குற்றம் சாட்டினார். நபி (ஸல்) அவர்கள், ‘‘ஆதாரம் கொண்டு வா! இல்லையென்றால் (அவதூறு கூறிய தற்குத் தண்டனையாக) உன் முதுகில் சாட்டையடி தரப்படும்” என்று கூறினார்கள். அதற்கு ஹிலால் (ரலி) அவர்கள், ‘‘அல்லாஹ்வின் தூதரே! எங்களில் ஒருவர், தம் மனைவியின்மேல் ஒரு மனிதரை (தவறான உறவு கொள்ள)ப் பார்த்தாலும் ஆதாரம் தேடிச் செல்ல வேண்டுமா?” என்று கேட்டார்கள். நபி (ஸல்) அவர்கள், ‘‘ஆதாரம் கொண்டுவா! இல்லையென்றால் உன் முதுகில் சாட்டையடி தரப்படும்” என்று மீண்டும் கூறினார்கள். இதையடுத்து சாப அழைப்புப் பிரமாணம் (லிஆன்) தொடர்பான ஹதீஸை இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறினார்கள்.27 அத்தியாயம் : 52
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஹிலால் பின் உமய்யா (ரலி) அவர்கள் தம் மனைவியை ஷரீக் பின் சஹ்மாவுடன் இணைத்து விபசாரக் குற்றம் சாட்டினார். நபி (ஸல்) அவர்கள், ‘‘ஆதாரம் கொண்டு வா! இல்லையென்றால் (அவதூறு கூறிய தற்குத் தண்டனையாக) உன் முதுகில் சாட்டையடி தரப்படும்” என்று கூறினார்கள். அதற்கு ஹிலால் (ரலி) அவர்கள், ‘‘அல்லாஹ்வின் தூதரே! எங்களில் ஒருவர், தம் மனைவியின்மேல் ஒரு மனிதரை (தவறான உறவு கொள்ள)ப் பார்த்தாலும் ஆதாரம் தேடிச் செல்ல வேண்டுமா?” என்று கேட்டார்கள். நபி (ஸல்) அவர்கள், ‘‘ஆதாரம் கொண்டுவா! இல்லையென்றால் உன் முதுகில் சாட்டையடி தரப்படும்” என்று மீண்டும் கூறினார்கள். இதையடுத்து சாப அழைப்புப் பிரமாணம் (லிஆன்) தொடர்பான ஹதீஸை இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறினார்கள்.27 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2671</td></tr><tr><td>Arabic No</td><td>2671</td></tr><tr><td>Reference</td><td>Book 52 Hadith 33</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'dan rivayet edilmiştir: Hilal b. Ümeyye r.a. Nebi (Sallallahu aleyhi ve Sellem)'in huzurunda hanımının Şerik b. Sahma ile zina ettiğini söylemişti. Nebi Sallallahu Aleyhi ve Sellem: "Ya şahit getirirsin, ya da sırtına sopa yersin" buyurdu. Hilal: "Ey Allah'ın Resulü! Bir adam hanımının üzerinde bir erkek gördüğünde hiç gider de şahit arar mı?" dedi. Hz. Nebi yine: "Ya şahit getirirsin, ya da sırtına sopa yersin" buyurdu. İbn Abbas daha sonra lian hadisini zikretti. Tekrar: 4747, 5307
+İbn Abbas r.a.'dan rivayet edilmiştir: Hilal b. Ümeyye r.a. Nebi (Sallallahu aleyhi ve Sellem)'in huzurunda hanımının Şerik b. Sahma ile zina ettiğini söylemişti. Nebi Sallallahu Aleyhi ve Sellem: "Ya şahit getirirsin, ya da sırtına sopa yersin" buyurdu. Hilal: "Ey Allah'ın Resulü! Bir adam hanımının üzerinde bir erkek gördüğünde hiç gider de şahit arar mı?" dedi. Hz. Nebi yine: "Ya şahit getirirsin, ya da sırtına sopa yersin" buyurdu. İbn Abbas daha sonra lian hadisini zikretti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2671</td></tr><tr><td>Arabic No</td><td>2671</td></tr><tr><td>Reference</td><td>Book 52 Hadith 33</td></tr></tbody></table></div>
 

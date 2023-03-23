@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনু হাতিম ইবনু মাইমূন (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমাদের জীবন কতই না ধন্য হবে, যে সময়ে ঈসা ইবনু মারইয়াম (আঃ) কে তোমাদের মাঝে পাঠানো হবে আর তিনি তোমাদের নেতৃত্ব দিবেন। (ইসলামিক ফাউন্ডেশনঃ ২৯০ ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>393</td></tr><tr><td>Arabic No</td><td>155.05</td></tr><tr><td>Reference</td><td>Book 1 Hadith 298</td></tr></tbody></table></div>
 

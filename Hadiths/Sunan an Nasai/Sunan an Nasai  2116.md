@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইবরাহীম ইবনু ইয়াকুব (রহঃ) ... আব্দুর রহমান ইবনু যায়দ (রাঃ) থেকে বর্ণিত যে, রমযান বা শা'বান মাসের সন্দেহযূক্ত দিনে লোকদের উদ্দেশ্য করে বললেনঃ শুন, আমি একবার রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবীদের সাথে বসা ছিলাম। আমি তাদের প্রশ্ন করলে তাঁরা আমার কাছে বর্ণনা করলেন যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা চাঁদ দেখে সাওম (সিয়াম/রোজা/রোযা) পালন কর এবং চাঁদ দেখে সাওম (সিয়াম/রোজা/রোযা) ভঙ্গ কর আর চাঁদ দেখেই কুরবানী কর। তবে হ্যাঁ, (শা'বান মাসের ২৯ তারিখে) যদি আকাশে মেঘাচ্ছন্ন থাকে তবে তোমরা মাসের ৩০ দিন পূর্ন করে নেবে। তবে দু'জন সাক্ষী সাক্ষ্য দিলে তোমরা সাওম পালন করবে এবং ভঙ্গ করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2116</td></tr><tr><td>Arabic No</td><td>2116</td></tr><tr><td>Reference</td><td>Book 22 Hadith 27</td></tr></tbody></table></div>
 

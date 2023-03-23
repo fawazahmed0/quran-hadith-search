@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+শাকিক (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি ‘আবদুল্লাহ্ ও আবূ মূসা (রাঃ)-এর সঙ্গে ছিলাম। তাঁরা বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অবশ্যই কিয়ামতের আগে এমন একটি সময় আসবে যখন সব জায়গায় মূর্খতা ছড়িয়ে পড়বে এবং ইলম উঠিয়ে নেয়া হবে। সে সময় ‘হারজ্’ বর্দ্ধিত হবে। আর ‘হারজ্’ হল (মানুষ) হত্যা। [৭০৬৪, ৭০৬৫, ৭০৬৬] (আধুনিক প্রকাশনী- ৬৫৭১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7062</td></tr><tr><td>Arabic No</td><td>7062</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Ubaid
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளுக்குமுன் ஒரு கால கட்டம் வரும். அப்போது அறியாமை நிலவும்; கல்வி அகற்றப்பட்டுவிடும்; ‘ஹர்ஜ்’ பெருகிவிடும். ‘ஹர்ஜ்’ என்பது கொலையாகும். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்களும் அபூமூசா அல்அஷ் அரீ (ரலி) அவர்களும் அறிவிக்கிறார் கள். அத்தியாயம் : 92
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளுக்குமுன் ஒரு கால கட்டம் வரும். அப்போது அறியாமை நிலவும்; கல்வி அகற்றப்பட்டுவிடும்; ‘ஹர்ஜ்’ பெருகிவிடும். ‘ஹர்ஜ்’ என்பது கொலையாகும். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்களும் அபூமூசா அல்அஷ் அரீ (ரலி) அவர்களும் அறிவிக்கிறார் கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7062</td></tr><tr><td>Arabic No</td><td>7062</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

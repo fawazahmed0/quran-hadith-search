@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... ইবনু বুরায়দা (রহঃ) থেকে তাঁর পিতার সূত্রে বর্ণিত।। হাবাশার বাদশাহ্ নাজ্জাশী রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের খিদমতে এক জোড়া নিকাশ কালো রং-এর মোজা উপঢৌকন পাঠান। অতঃপর তিনি তা পরিধান করেন এবং উযূ (ওজু/অজু/অযু)র সময় তার উপর মাসেহ্ করেন। (তিরমিযী, ইবনু মাজাহ)।
+। ইবনু বুরাইদাহ (রহঃ) হতে তাঁর পিতার সূত্রে বর্ণিত। একদা (আবিসিনিয়ার বাদশাহ) নাজ্জাশী রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে একজোড়া কালো মোজা উপহার পাঠান। তিনি মোজাদ্বয় পরিধান করেন এবং অযুর সময় ওগুলোর উপর মাসাহ্ করেন। [1] হাসান। মুসাদ্দাদ (রহঃ) এটি দালহাম ইবনু সালিহ (রহঃ) সূত্রে বর্ণনা করেছেন। ইমাম আবু দাউদ (রহঃ) বলেন, এ হাদীসটি কেবলমাত্র বাসরাহ্’র বর্ণনাকারীগণই বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>155</td></tr><tr><td>Arabic No</td><td>155</td></tr><tr><td>Reference</td><td>Book 1 Hadith 155</td></tr></tbody></table></div>
 

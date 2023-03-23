@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবীসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে আমরা ‘আযল করতাম। [৫২০৮, ৫২০৯] (আধুনিক প্রকাশনী- ৪৮২৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5207</td></tr><tr><td>Arabic No</td><td>5207</td></tr><tr><td>Reference</td><td>Book 67 Hadith 141</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Jabir:We used to practice coitus interrupt us during the lifetime of Al
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களின் காலத்தில் ‘அஸ்ல்’ (புணர்ச்சி இடைமுறிப்பு) செய்துவந்தோம். அத்தியாயம் : 67
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களின் காலத்தில் ‘அஸ்ல்’ (புணர்ச்சி இடைமுறிப்பு) செய்துவந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5207</td></tr><tr><td>Arabic No</td><td>5207</td></tr><tr><td>Reference</td><td>Book 67 Hadith 141</td></tr></tbody></table></div>
 

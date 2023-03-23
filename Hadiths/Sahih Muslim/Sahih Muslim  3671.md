@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৫৬৩, আন্তর্জাতিক নাম্বারঃ ১৪৭১ ৩৫৬৩-(.../...) হারূন ইবনু আবদুল্লাহ (রহঃ) ..... আবূ যুবায়র (রহঃ) এর সূত্রে ইবনু উমর (রাযিঃ) থেকে পূর্বোক্ত বর্ণনার ন্যায় রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৩৫৩৫, ইসলামীক সেন্টার ৩৫৩৪)
+হারূন ইবনু আবদুল্লাহ (রহঃ) ..... আবূ যুবায়র (রহঃ) এর সূত্রে ইবনু উমর (রাযিঃ) থেকে পূর্বোক্ত বর্ণনার ন্যায় রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৩৫৩৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3671</td></tr><tr><td>Arabic No</td><td>1471.20</td></tr><tr><td>Reference</td><td>Book 18 Hadith 20</td></tr></tbody></table></div>
 

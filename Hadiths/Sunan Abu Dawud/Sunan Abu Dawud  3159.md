@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুর রহীম ইবন মুতাররিফ রুয়াসী আবূ সুফয়ান ও আহমদ ইবন জানাব (রহঃ) .... হুসায়ন ইবন ওয়াহূজ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ তালহা ইবন বারাআ অসুস্থ হয়ে পড়লে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে দেখার জন্য আসেন। তখন তিনি বলেনঃ আমার ধারণা, শীঘ্রই তালহা প্রাণত্যাগ করবে। কাজেই তোমরা আমাকে এ খবর দেবে এবং তার দাফন-কাফনের ব্যাপারে জলদি করবে। কেননা, মুসলিমদের লাশ তাদের পরিবার-পরিজনদের কাছে বেশীক্ষণ রাখা উচিত নয়।
+। আল-হুসাইন ইবনু ওয়াহওয়াজ (রাঃ) সূত্রে বর্ণিত। তালহা ইবনুল বারাআ (রাঃ) অসুস্থ হলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে দেখতে এসে বললেনঃ আমি দেখতে পাচ্ছি তালহার মৃত্যু আসন্ন। কাজেই তোমরা আমাকে তার খবর জানাবে এবং তার দাফন-কাফনের ব্যবস্থা দ্রুত করবে। কেননা কোনো মুসলিমের লাশ তার পরিবারের মধ্যে আটকে রাখা ঠিক নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3159</td></tr><tr><td>Arabic No</td><td>3159</td></tr><tr><td>Reference</td><td>Book 21 Hadith 71</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আর মানুষের মধ্যে সব থেকে নিকৃষ্ট ঐ দু’মুখী ব্যক্তি যে একদলের সঙ্গে এক ভাবে কথা বলে, অপর দলের সঙ্গে আরেকভাবে কথা বলে। (৬০৫৮, ৭১৭৯, মুসলিম ৪৪/৪৮ হাঃ ২৫২৬, আহমাদ ১০৭৯৫) (আধুনিক প্রকাশনীঃ ৩২৩৩, ইসলামিক ফাউন্ডেশনঃ ৩২৪৩ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

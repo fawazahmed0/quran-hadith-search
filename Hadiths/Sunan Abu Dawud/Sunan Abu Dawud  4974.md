@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাউদ (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আংগুরকে 'কারম' বলবে না; কেননা, 'কারম' বলা হয় মুসলিম পুরুষকে; বরং তোমরা বলবেঃ ইনাব বা আংগুরের বাগান।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যেন (আঙ্গুরকে) কারাম না বলে। কারণ মুসলিমই হলো কারাম (সম্ভ্রান্ত)। কিন্তু তোমরা ‘হাদাইকুল আ‘নাব’ (আঙ্গুরের বাগান) বলবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4974</td></tr><tr><td>Arabic No</td><td>4974</td></tr><tr><td>Reference</td><td>Book 43 Hadith 202</td></tr></tbody></table></div>
 

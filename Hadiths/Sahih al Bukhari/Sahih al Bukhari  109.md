@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালামাহ ইবনু আক্ওয়া‘ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, ‘যে ব্যক্তি আমার উপর এমন কথা আরোপ করে যা আমি বলিনি, সে যেন জাহান্নামে তার ঠিকানা বানিয়ে নেয়।’ (আধুনিক প্রকাশনীঃ ১০৭, ইসলামিক ফাউন্ডেশনঃ ১১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালামাহ ইবনু আক্ওয়া‘ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, ‘যে ব্যক্তি আমার উপর এমন কথা আরোপ করে যা আমি বলিনি, সে যেন জাহান্নামে তার ঠিকানা বানিয়ে নেয়।’ (আধুনিক প্রকাশনীঃ ১০৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>109</td></tr><tr><td>Arabic No</td><td>109</td></tr><tr><td>Reference</td><td>Book 3 Hadith 51</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Makki bin Ibrahim] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் கூறாத ஒன்றை நான் கூறியதாக யார் சொல்வாரோ அவர் நரகத்தில் தமது இருப்பிடத்தை அமைத்துக்கொள்ளட்டும். இதை சலமா பின் அல்அக்வஉ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 3
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் கூறாத ஒன்றை நான் கூறியதாக யார் சொல்வாரோ அவர் நரகத்தில் தமது இருப்பிடத்தை அமைத்துக்கொள்ளட்டும். இதை சலமா பின் அல்அக்வஉ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>109</td></tr><tr><td>Arabic No</td><td>109</td></tr><tr><td>Reference</td><td>Book 3 Hadith 51</td></tr></tbody></table></div>
 

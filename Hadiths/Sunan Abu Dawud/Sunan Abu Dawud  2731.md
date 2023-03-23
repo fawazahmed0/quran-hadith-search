@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাঈদ ইবন মানসূর (রহঃ) ...... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি বদর যুদ্ধের দিন আমার সাথীদের জন্য পানি সরবরাহের কাজে নিয়োজিত ছিলাম।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, বদরের যুদ্ধের দিন আমি আমার সাথীদের জন্য পানি সরবরাহ করেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2731</td></tr><tr><td>Arabic No</td><td>2731</td></tr><tr><td>Reference</td><td>Book 15 Hadith 255</td></tr></tbody></table></div>
 

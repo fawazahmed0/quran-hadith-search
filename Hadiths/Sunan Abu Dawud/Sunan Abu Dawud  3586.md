@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ (রহঃ) ..... ইবন শিহাব (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা উমার ইবন খাত্তাব (রাঃ) মিম্বারের উপর বলেন যে, হে জনগণ! রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ফয়সালা সঠিক হতো। কেননা, মহান আল্লাহ্‌ তাঁকে সঠিক জ্ঞান দান করেছিলেন, আর আমাদের মতামত হলো ধারণাভিত্তিক এবং মেহনতের ফল মাত্র।
+। ইবনু শিহাব (রহঃ) সূত্রে বর্ণিত। একদা উমার ইবনুল খাত্তাব (রাঃ) মিম্বারের উপর দাঁড়িয়ে বললেন, হে জনসমাজ! রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যেসব সিদ্ধান্ত দিয়েছেন তা নির্ভুল। কেননা মহান আল্লাহ তাঁকে সঠিক সিদ্ধান্তে পৌঁছিয়ে দিতেন। কিন্তু আমাদের সিদ্ধান্ত হচ্ছে ধারণা ও শ্রমের পর্যায়ভুক্ত।[1] দুর্বল মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3586</td></tr><tr><td>Arabic No</td><td>3586</td></tr><tr><td>Reference</td><td>Book 25 Hadith 16</td></tr></tbody></table></div>
 

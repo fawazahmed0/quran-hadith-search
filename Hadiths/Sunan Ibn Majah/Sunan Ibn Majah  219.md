@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯/২১৯। আবূ যার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ হে আবূ যার! সকালবেলা কুরআনের একটি আয়াত শিক্ষা করা তোমার জন্য একশত রাকআত (নফল) সালাত আদায়ের চেয়ে উত্তম। সকালবেলা জ্ঞানের কিছু অংশ শিক্ষা করা তোমার জন্য এক হাজার রাকআত সালাত আদায়ের চেয়ে উত্তম, তদনুযায়ী কাজ করা হোক বা না হোক।
+। আবূ যার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ হে আবূ যার! সকালবেলা কুরআনের একটি আয়াত শিক্ষা করা তোমার জন্য একশত রাকআত (নফল) সালাত আদায়ের চেয়ে উত্তম। সকালবেলা জ্ঞানের কিছু অংশ শিক্ষা করা তোমার জন্য এক হাজার রাকআত সালাত আদায়ের চেয়ে উত্তম, তদনুযায়ী কাজ করা হোক বা না হোক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>219</td></tr><tr><td>Arabic No</td><td>219</td></tr><tr><td>Reference</td><td>Book 0 Hadith 219</td></tr></tbody></table></div>
 

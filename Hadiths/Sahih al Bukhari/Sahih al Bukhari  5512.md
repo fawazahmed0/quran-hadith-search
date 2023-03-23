@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আসমা বিনত আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ‘আমলে আমরা একটি ঘোড়া নহর করেছি। এরপর তা খেয়েছি। ‘নহর’ কথাটির বর্ণনা এ সঙ্গে হিশামের সূত্র দিয়ে ওয়াকী‘ ও ইবনু ‘উয়াইনাহ এ রকমই বর্ণনা করেছেন। [৫৫১০; মুসলিম ৩৪/৬, হাঃ ১৯৪২, আহমাদ ২৬৯৮৫] (আধুনিক প্রকাশনী- ৫১০৬, ইসলামিক ফাউন্ডেশন- ৫০০৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আসমা বিনত আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ‘আমলে আমরা একটি ঘোড়া নহর করেছি। এরপর তা খেয়েছি। ‘নহর’ কথাটির বর্ণনা এ সঙ্গে হিশামের সূত্র দিয়ে ওয়াকী‘ ও ইবনু ‘উয়াইনাহ এ রকমই বর্ণনা করেছেন। [৫৫১০; মুসলিম ৩৪/৬, হাঃ ১৯৪২, আহমাদ ২৬৯৮৫] (আধুনিক প্রকাশনী- ৫১০৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5512</td></tr><tr><td>Arabic No</td><td>5512</td></tr><tr><td>Reference</td><td>Book 72 Hadith 38</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அஸ்மா பின்த் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடைய காலத்தில் குதிரை யொன்றை (அதன் கழுத்து நரம்புகளை) அறுத்து (‘நஹ்ர்’ செய்து) அதை உண்டோம். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது.36 அத்தியாயம் : 72
+அஸ்மா பின்த் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடைய காலத்தில் குதிரை யொன்றை (அதன் கழுத்து நரம்புகளை) அறுத்து (‘நஹ்ர்’ செய்து) அதை உண்டோம். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது.36 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5512</td></tr><tr><td>Arabic No</td><td>5512</td></tr><tr><td>Reference</td><td>Book 72 Hadith 38</td></tr></tbody></table></div>
 

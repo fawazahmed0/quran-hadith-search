@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১২. মালিক (রহঃ) বলেনঃ তাহার নিকট রেওয়ায়ত পৌছিয়াছে যে, উমর ইবন খাত্তাব (রাঃ) বলিয়াছেনঃ ইয়াতীম পিতৃহারাদের ধন-সম্পত্তি ব্যবসায়ে খাটাও। যাকাত যেন ইহাকে গ্রাস না করিয়া ফেলে।[1]
+রেওয়ায়ত ১২. মালিক (রহঃ) বলেনঃ তাহার নিকট রেওয়ায়ত পৌছিয়াছে যে, উমর ইবন খাত্তাব (রাঃ) বলিয়াছেনঃ ইয়াতীম পিতৃহারাদের ধন-সম্পত্তি ব্যবসায়ে খাটাও। যাকাত যেন ইহাকে গ্রাস না করিয়া ফেলে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>589</td></tr><tr><td>Arabic No</td><td>589</td></tr><tr><td>Reference</td><td>Book 17 Hadith 12</td></tr></tbody></table></div>
 

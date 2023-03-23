@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মালিক (রহঃ) বলেন যে, সুলায়মান ইবন ইয়াসার (রহঃ)-সহ আরো কয়েকজনকে জিজ্ঞাসা করা হইয়াছিল যে, যে ব্যক্তি অপবাদের দায়ে শাস্তিপ্রাপ্ত তাহার সাক্ষ্য গ্রহণযোগ্য হইবে কি? তাহারা বলিলেন, হ্যাঁ যখন সে তওবা করিয়াছে বলিয়া জানা যাইবে। মালিক (রহঃ) বলেন যে, ইমাম জুহরী (রহঃ)-কে ঐরুপ প্রশ্ন করা হইয়াছিল। তিনিও সুলায়মান ইবন ইয়াসারের মতো উত্তর দিয়াছিলেন। মালিক (রহঃ) বলেনঃ আমার মতও অনুরূপ, কেননা আল্লাহ্ তা'আলা বলেন যে, যে ব্যক্তি নেককার স্ত্রীলোকের উপর মিথ্যা অপবাদ দেয় এবং চারজন সাক্ষী হাযির করিতে না পারে তবে তাহাদিগকে আশি দোররা মার, অতঃপর কোন সময় তাহার সাক্ষ্য কবুল করিও না, কেননা, ইহারাই পাপাচারী। হ্যাঁ, পরে যাহারা তওবা করিয়া নেয় এবং সংশোধন হইয়া যায় তবে আল্লাহ নিশ্চয়ই ক্ষমাকারী ও দয়াবান। মালিক (রহঃ) বলেন, এই ব্যাপারে আমাদের নিকট কোন মতভেদ নাই যে, যাহার উপরে অপবাদের শাস্তি হইয়াছে অতঃপর সংশোধন হইয়াছে তাহার সাক্ষ্য গ্রহণ করা যায় এবং আমি যাহা এই ব্যাপারে জানিয়াছি, তাহার মধ্যে ইহাই খুব পছন্দনীয় কথা।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1404</td></tr><tr><td>Arabic No</td><td>1404</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya said from Malik that he heard from Sulayman ibn Yasar and others that when they were asked whether the testimony of a man flogged for a hadd crime was permitted, they said, "Yes, when repentance (tawba) appears from him." Malik related to me that he heard Ibn Shihab being asked about that and he said the like of what Sulayman ibn Yasar said. Malik said, "That is what is done in our community. It is by the word of Allah, the Blessed, the Exalted, 'And those who accuse women who are muhsan, and then do not bring four witnesses, flog them with eighty lashes, and do not accept any testimony of theirs ever. They indeed are evil-doers, save those who turn in tawba after that and make amends. Allah is Forgiving, Merciful.' " (Sura 24 ayat 4)
+Yahya said from Malik that he heard from Sulayman ibn Yasar and others that when they were asked whether the testimony of a man flogged for a hadd crime was permitted, they said, "Yes, when repentance (tawba) appears from him." Malik related to me that he heard Ibn Shihab being asked about that and he said the like of what Sulayman ibn Yasar said. Malik said, "That is what is done in our community. It is by the word of Allah, the Blessed, the Exalted, 'And those who accuse women who are muhsan, and then do not bring four witnesses, flog them with eighty lashes, and do not accept any testimony of theirs ever. They indeed are evil-doers, save those who turn in tawba after that and make amends. Allah is Forgiving, Merciful.' " (Sura 24 ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1404</td></tr><tr><td>Arabic No</td><td>1404</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
 

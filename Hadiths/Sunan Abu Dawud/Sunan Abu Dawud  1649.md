@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইব্‌ন হাম্বল (রহঃ) .... আবুল আহ্‌ওয়াস (রহঃ) থেকে তাঁর পিতা মালিক ইব্‌ন নাদলা (রাঃ) এর সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ হাত তিন প্রকারের- (১) আল্লাহ্‌ তাআলার হাত সবার উপরে, (২) অতঃপর দানকারীর হাত এবং (৩) সর্ব নিম্নের হাত হল ভিক্ষুকের হাত। কাজেই তোমরা তোমাদের উদ্বৃত্ত মাল দান-খয়রাত কর এবং নিজেকে নফসের দাবীর কাছে সমর্পণ কর না।
+। মালিক ইবনু নাদলাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (দানের) হাত তিন প্রকার। (১) আল্লাহর হাত সবার উপরে (২) অতঃপর দানকারীর হাত (৩) এবং ভিক্ষার হাত সবার নীচে। কাজেই প্রয়োজনের অতিরিক্ত সম্পদ দান করো এবং প্রবৃত্তির কাছে অক্ষম হয়ো না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1649</td></tr><tr><td>Arabic No</td><td>1649</td></tr><tr><td>Reference</td><td>Book 9 Hadith 94</td></tr></tbody></table></div>
 

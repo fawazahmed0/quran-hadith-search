@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কোন মহিলা স্বামীর উপার্জন থেকে তার নির্দেশ ব্যতীত দান করে, তবে সে তার অর্ধেক সাওয়াব পাবে। [২০৬৬; মুসলিম ১২/২৬, হাঃ ১০২৬, আহমাদ ৮১৯৫] (আধুনিক প্রকাশনী- ৪৯৬০, ইসলামিক ফাউন্ডেশন- ৪৮৫৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কোন মহিলা স্বামীর উপার্জন থেকে তার নির্দেশ ব্যতীত দান করে, তবে সে তার অর্ধেক সাওয়াব পাবে। [২০৬৬; মুসলিম ১২/২৬, হাঃ ১০২৬, আহমাদ ৮১৯৫] (আধুনিক প্রকাশনী- ৪৯৬০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5360</td></tr><tr><td>Arabic No</td><td>5360</td></tr><tr><td>Reference</td><td>Book 69 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Abdurrazz
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு பெண், தன் கணவனின் சம்பாத்தி யத்திலிருந்து அவனது உத்தரவின்றி (அற வழியில்) செலவிட்டால், அதன் பிரதி பலனில் பாதி அவனுக்கும் கிடைக்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.11 அத்தியாயம் : 69
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு பெண், தன் கணவனின் சம்பாத்தி யத்திலிருந்து அவனது உத்தரவின்றி (அற வழியில்) செலவிட்டால், அதன் பிரதி பலனில் பாதி அவனுக்கும் கிடைக்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.11 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5360</td></tr><tr><td>Arabic No</td><td>5360</td></tr><tr><td>Reference</td><td>Book 69 Hadith 10</td></tr></tbody></table></div>
 

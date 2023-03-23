@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন হাম্বল (রহঃ) ..... যায়দ ইবন আসলাম (রহঃ) থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি উমার ইবনুল খাত্তাব (রাঃ)-কে বলতে শুনেছি, রমল ও কাঁধ খোলা রাখার দ্বারা আল্লাহ্ তা‘আলা ইসলামকে শক্তিশালী করেছেন এবং কাফির ও তাদের কুফরীকে পর্যদুস্ত করেছেন। আর এ কারণেই আমরা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যুগে যা করতাম, তা ত্যাগ করিনি।
+। যায়িদ ইবনু আসলাম (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি ‘উমার ইবনুল খাত্তাব (রাযি.)-কে বলতে শুনেছি, রমল করা এবং কাঁধ খোলা রাখা এখন তেমন গুরুত্ববহ নয়। কেননা মহান আল্লাহ ইসলামকে বিজয়ী ও শক্তিশালী করেছেন এবং কুফর ও কাফির দু‘টোই নির্মূল করেছেন। তথাপি আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সময়ে যে কাজ করেছি তা কখনো বর্জন করবো না।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1887</td></tr><tr><td>Arabic No</td><td>1887</td></tr><tr><td>Reference</td><td>Book 11 Hadith 167</td></tr></tbody></table></div>
 

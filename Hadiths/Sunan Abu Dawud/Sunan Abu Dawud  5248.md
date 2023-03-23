@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসহাক ইবন ইসমাঈল (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন থেকে আমরা সাপের বিরুদ্ধে যুদ্ধ ঘোষণা করেছি, তখন থেকে আমরা সাপ হতে নিরাপদ নই। কাজেই, যে ব্যক্তি ভীত হয়ে তাকে ছেড়ে দেবে, (অর্থাৎ মারবে না); সে আমাদের দলভুক্ত নয়।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যেদিন থেকে সাপের সঙ্গে আমাদের যুদ্ধ শুরু হয়েছে, সেদিন থেকে ঐগুলোর সঙ্গে ‘আমরা শান্তিচুক্তি করিনি। অতএব যে ব্যক্তি ভয়ে সেগুলোকে (হত্যা না করে) ছেড়ে দিবে সে আমাদের অন্তর্ভুক্ত নয়।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5248</td></tr><tr><td>Arabic No</td><td>5248</td></tr><tr><td>Reference</td><td>Book 43 Hadith 476</td></tr></tbody></table></div>
 

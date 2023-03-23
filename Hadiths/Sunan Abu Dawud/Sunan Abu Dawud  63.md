@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল আলা .... উবায়দুল্লাহ ইবনু আব্দুর রহমান উমার (রহঃ) তাঁর পিতার সূত্রে বর্ণনা করেছেন। তিনি বলেছেন, একদা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে জিজ্ঞেস করা হল যে, পানিতে চতুষ্পদ জন্তু হিংস্র প্রাণী পানি পান করার জন্য পূনঃ পূনঃ আগমন করে এবং তা যথেচ্ছা ব্যবহার করে। সে পানির হুকুম কি? তিনি বলেনঃ যখন উক্ত পানি দুই কুল্লার (মটকা) পরিমাণ বেশী হবে, তা অপবিত্র হবে না। (তিরমিযী, নাসাঈ, ইবনু মাজাহ)।
+। ‘আব্দুল্লাহ ইবনু ‘আব্দুল্লাহ ইবনু ‘উমার থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ঐ পানি সম্পর্কে জিজ্ঞেস করা হয়েছিল, যাতে পানি পান করার জন্য বন্য প্রাণী ও হিংস্র জন্তু আসা-যাওয়া করে। তিনি বললেনঃ পানির পরিমাণ দু’ মটকা হলে তা নাপাকী বহন করে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Arabic No</td><td>63</td></tr><tr><td>Reference</td><td>Book 1 Hadith 63</td></tr></tbody></table></div>
 

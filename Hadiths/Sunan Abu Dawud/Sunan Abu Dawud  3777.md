@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন সুলায়মান (রহঃ) .... উমার ইবন আবী সালামা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তুমি আমার নিকটবর্তী হও, বিস্‌মিল্লাহ বল, ডান হাতে খাও এবং নিজের কাছের খাদ্য গ্রহণ কর।
+। উমার ইবনু আবূ সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমার কাছে এসো, আল্লাহর নাম নাও, ডান হাতে খাও এবং তোমার সামনে থেকে খাও।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3777</td></tr><tr><td>Arabic No</td><td>3777</td></tr><tr><td>Reference</td><td>Book 28 Hadith 42</td></tr></tbody></table></div>
 

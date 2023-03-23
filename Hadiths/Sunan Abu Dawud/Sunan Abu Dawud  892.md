@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনে হাম্বল (রহঃ) .... ইবনে উমর (রাঃ) হতে বর্ণিত। এই হাদিসের বর্ণনাক্রম রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পর্যন্ত পৌঁছেছে। তিনি বলেন, বান্দার দুই হাত মুখমণ্ডলের ন্যায় সিজদা করে। যখন তোমাদের কেউ কপাল দ্বারা সিজদা করে, তখন অবশ্যই সে যেন তার দুটি হাতের তালুও জমিনে রাখে এবং যখন সে কপাল উঠাবে, তখন হাতও উঠাবে। (নাসাঈ)।
+। ইবনু ‘উমার (রাঃ) হতে মারফূ‘ভাবে বর্ণিত। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুখমন্ডলের ন্যায় দু’ হাতও সিজদা্ করে। তোমাদের কেউ মুখমন্ডল (কপাল) যমীনে রাখার সময় যেন অবশ্যই তার দু’ হাতের তালু যমীনে রাখে এবং যমীন থেকে মুখমন্ডল উঠানোর সময় যেন দু’ হাতও উঠায়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>892</td></tr><tr><td>Arabic No</td><td>892</td></tr><tr><td>Reference</td><td>Book 2 Hadith 502</td></tr></tbody></table></div>
 

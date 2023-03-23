@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফ্‌স ইবন উমার (রহঃ) ..... যায়দ ইবন আরকাম (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ কোন এক সফরে আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলাম। আমরা একস্থানে অবস্থান করা কালে তিনি বলেনঃ তোমরা তাদের লক্ষ ভাগের এক ভাগ ও নও, যারা হাওয কাওছারের কাছে আসবে। রাবী বলেন, আমি যায়দ ইবন আকরাম (রাঃ)-কে জিজ্ঞাসা করিঃ সেদিন কত লোক আপনারা সেখানে ছিলেন? তিনি বলেনঃ সাতশো বা আটশো লোক।
+। যায়িদ ইবনু আরকাম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে সফরকালে এক জায়গায় যাত্রাবিরতি করলে তিনি বলেনঃ হাওযে কাওসারে যেসব লোক আমার নিকট উপস্থিত হবে, তাদের তুলনায় তোমরা তাদের এক লাখ ভাগের এক ভাগ মাত্র। তিনি (বর্ণনাকারী আবূ হামযাহ) বললেন, আমি (যায়িদ ইবনু আরকামকে) বললাম, আপনারা সেখানে তখন কতজন ছিলেন? তিনি বললেন, সাতশো অথবা আটশো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4746</td></tr><tr><td>Arabic No</td><td>4746</td></tr><tr><td>Reference</td><td>Book 42 Hadith 151</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমরা শত্রুর মুখোমুখী হবার ব্যাপারে ইচ্ছা পোষণ করবে না। আর যখন তোমরা তাদের মুখোমুখী হবে তখন ধৈর্য অবলম্বন করবে। (মুসলিম ৩২/৬ হাঃ ১৭৪১, আহমাদ ১০৭৭৮) (ইসলামিক ফাউন্ডেশনঃ ২৮১২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3026</td></tr><tr><td>Arabic No</td><td>3026</td></tr><tr><td>Reference</td><td>Book 56 Hadith 234</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Abu Huraira: The Prophet (ﷺ) said: "Do not wish to meet the enemy, bu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: எதிரிகளை (போர்க் களத்தில்) சந்திக்க ஆசைப்படாதீர்கள். அவர்களை நீங்கள் (போர்க் களத்தில்) சந்திக்க நேர்ந்தால் (போரின் துன்பங்களைக் கண்டு) நிலைகுலைந்துவிடாமல் பொறுமையாக இருங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 56
+நபி (ஸல்) அவர்கள் கூறினார்கள்: எதிரிகளை (போர்க் களத்தில்) சந்திக்க ஆசைப்படாதீர்கள். அவர்களை நீங்கள் (போர்க் களத்தில்) சந்திக்க நேர்ந்தால் (போரின் துன்பங்களைக் கண்டு) நிலைகுலைந்துவிடாமல் பொறுமையாக இருங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3026</td></tr><tr><td>Arabic No</td><td>3026</td></tr><tr><td>Reference</td><td>Book 56 Hadith 234</td></tr></tbody></table></div>
 

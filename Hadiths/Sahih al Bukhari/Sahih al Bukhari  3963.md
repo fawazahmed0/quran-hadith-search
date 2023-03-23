@@ -41,13 +41,13 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেছেন, বদরের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, আবূ জাহ্ল কী করল, তোমাদের মধ্যে কে তা জেনে আসবে? তখন ইবনু মাস‘উদ (রাঃ) চলে গেলেন এবং তিনি দেখতে পেলেন, ‘আফরার দুই পুত্র তাকে এমনিভাবে পিটিয়েছে যে, সে মুমূর্ষু অবস্থায় পড়ে আছে। তখন তিনি তার দাড়ি ধরে বললেন,তুমি কি আবূ জাহ্ল? উত্তরে সে বলল, সেই লোকটির চেয়ে উত্তম আর কেউ আছে কি যাকে তার গোত্রের লোকেরা হত্যা করল অথবা বলল তোমরা যাকে হত্যা করলে? [1] ইবনু মুসান্না (রহ.).....আনাস ইবনু মালিক (রাঃ) থেকে অনুরূপ একটি রিওয়ায়াত বর্ণিত আছে। [৩৯৬২] (আধুনিক প্রকাশনীঃ ৩৬৭২, ইসলামিক ফাউন্ডেশনঃ ৩৬৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেছেন, বদরের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, আবূ জাহ্ল কী করল, তোমাদের মধ্যে কে তা জেনে আসবে? তখন ইবনু মাস‘উদ (রাঃ) চলে গেলেন এবং তিনি দেখতে পেলেন, ‘আফরার দুই পুত্র তাকে এমনিভাবে পিটিয়েছে যে, সে মুমূর্ষু অবস্থায় পড়ে আছে। তখন তিনি তার দাড়ি ধরে বললেন,তুমি কি আবূ জাহ্ল? উত্তরে সে বলল, সেই লোকটির চেয়ে উত্তম আর কেউ আছে কি যাকে তার গোত্রের লোকেরা হত্যা করল অথবা বলল তোমরা যাকে হত্যা করলে? [1] ইবনু মুসান্না (রহ.).....আনাস ইবনু মালিক (রাঃ) থেকে অনুরূপ একটি রিওয়ায়াত বর্ণিত আছে। [৩৯৬২] (আধুনিক প্রকাশনীঃ ৩৬৭২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3963</td></tr><tr><td>Arabic No</td><td>3963</td></tr><tr><td>Reference</td><td>Book 64 Hadith 15</td></tr></tbody></table></div>
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3963.2</td></tr><tr><td>Arabic No</td><td>3963.2</td></tr><tr><td>Reference</td><td>Book 64 Hadith 16</td></tr></tbody></table></div>
@@ -62,7 +62,7 @@ Narrated Anas:On the day of Badr, the Prophet (ﷺ) said, "Who will go and see w
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik:(as above Hadith 301)
+Narrated Anas bin Malik:(as above Hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3963.2</td></tr><tr><td>Arabic No</td><td>3963.2</td></tr><tr><td>Reference</td><td>Book 64 Hadith 16</td></tr></tbody></table></div>
 
@@ -84,7 +84,7 @@ Telah menceritakan kepadaku [Muhammad bin Al Mutsannaa] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போர் (நடந்த) நாளில், “அபூஜஹ்ல் என்ன ஆனான் என்று பார்த்து வருபவர் யார்?” என்று நபி (ஸல்) அவர்கள் கேட்டார்கள். உடனே இப்னு மஸ்ஊத் (ரலி) அவர்கள் (அவனைப் பார்த்து வரப்) போனார்கள். அவனை அஃப்ராவின் இரு புதல்வர்கள் (முஆத், முஅவ்வித் ஆகிய இருவரும் பலமாகத்) தாக்கிவிடவே அவன் குற்றுயிராகக் கிடக்கக் கண்டார்கள். இப்னு மஸ்ஊத் (ரலி) அவர்கள் அவனது தாடியைப் பிடித்துக்கொண்டு, “அபூஜஹ்லே! நீயா?” என்று கேட்டார்கள். (அப்போது) அவன், “ “தம் (சமுதாயத்து) மக்களாலேயே கொல்லப்பட்டுவிட்ட ஒரு மனிதனுக்கு மேலாக' அல்லது “நீங்களே கொன்றுவிட்ட ஒரு மனிதனுக்கு மேலாக' ஒருவன் உண்டா?” என்று கேட்டான். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 64
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போர் (நடந்த) நாளில், “அபூஜஹ்ல் என்ன ஆனான் என்று பார்த்து வருபவர் யார்?” என்று நபி (ஸல்) அவர்கள் கேட்டார்கள். உடனே இப்னு மஸ்ஊத் (ரலி) அவர்கள் (அவனைப் பார்த்து வரப்) போனார்கள். அவனை அஃப்ராவின் இரு புதல்வர்கள் (முஆத், முஅவ்வித் ஆகிய இருவரும் பலமாகத்) தாக்கிவிடவே அவன் குற்றுயிராகக் கிடக்கக் கண்டார்கள். இப்னு மஸ்ஊத் (ரலி) அவர்கள் அவனது தாடியைப் பிடித்துக்கொண்டு, “அபூஜஹ்லே! நீயா?” என்று கேட்டார்கள். (அப்போது) அவன், “ “தம் (சமுதாயத்து) மக்களாலேயே கொல்லப்பட்டுவிட்ட ஒரு மனிதனுக்கு மேலாக' அல்லது “நீங்களே கொன்றுவிட்ட ஒரு மனிதனுக்கு மேலாக' ஒருவன் உண்டா?” என்று கேட்டான். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3963</td></tr><tr><td>Arabic No</td><td>3963</td></tr><tr><td>Reference</td><td>Book 64 Hadith 15</td></tr></tbody></table></div>
 

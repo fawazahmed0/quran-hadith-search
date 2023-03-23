@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। এর পূর্বে ইব্‌নু উমার (রাঃ) বলতেনঃ সে যেতে পারবে না। তারপর তাঁকে বলতে শুনেছি যে, সে যেতে পারে। কারণ, আল্লাহ্‌র রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) তাদের জন্য (যাওয়ার) অনুমতি দিয়েছিলেন। (১৭৬১ দ্রষ্টব্য) (আ.প্র. ৩১৮ শেষাংশ, ই.ফা. ৩২৩ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>329</td></tr><tr><td>Arabic No</td><td>329</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mu'alla bin Asad] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbâs (r.a.)'dan şöyle nakledilmiştir: "Hayız olan kadının (tavaf etmeden Mekke'den) çıkmasına ruhsat verildi. Tekrar: (etrafı) 1755, 1760
+İbn Abbâs (r.a.)'dan şöyle nakledilmiştir: "Hayız olan kadının (tavaf etmeden Mekke'den) çıkmasına ruhsat verildi. Tekrar: (etrafı)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>329</td></tr><tr><td>Arabic No</td><td>329</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

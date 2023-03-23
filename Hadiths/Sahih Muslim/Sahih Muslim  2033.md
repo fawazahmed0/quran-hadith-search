@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৯১৮, আন্তর্জাতিক নাম্বারঃ ৮৭৯ ১৯১৮-(.../...) মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... মুখাওওয়াল (রহঃ) থেকে একই সানাদ সূত্রে ঈদ ও জুমুআর সালাতের সূরাহ সম্পর্কে সুফইয়ান (রহঃ) এর অনুরূপ বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ১৯০৩, ইসলামীক সেন্টার ১৯১০)
+মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... মুখাওওয়াল (রহঃ) থেকে একই সানাদ সূত্রে ঈদ ও জুমুআর সালাতের সূরাহ সম্পর্কে সুফইয়ান (রহঃ) এর অনুরূপ বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ১৯০৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2033</td></tr><tr><td>Arabic No</td><td>879.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 83</td></tr></tbody></table></div>
 

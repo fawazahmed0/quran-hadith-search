@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বিশর ইবন হিলাল (রহঃ) ..... ইসমাঈল ইবন উমায়্যা (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি নাফে (রহঃ) কে জিজ্ঞাসা করলাম, কোন ব্যক্তি যদি উভয় হাতের আংগুলসমূহ মিলিয়ে (পরষ্পরের মধ্যে প্রবেশ করিয়ে) নামায পড়ে? নাফে (রহঃ) বলেন, ইবন উমার (রাঃ) বলেছেন, ঐরূপ নামায তাদের যাদের উপর আল্লাহর গযব নাযিল হয়।
+। ইসমাঈল ইবনু উমাইয়াহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নাফি‘ (রহঃ) কে এক হাতের আঙ্গুল অপর হাতে প্রবেশ করিয়ে সালাত আদায় সম্পর্কে জিজ্ঞাসা করলে তিনি বলেনঃ ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) বলেছেন, এটা হলো অভিশপ্ত লোকদের সালাত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>993</td></tr><tr><td>Arabic No</td><td>993</td></tr><tr><td>Reference</td><td>Book 2 Hadith 604</td></tr></tbody></table></div>
 

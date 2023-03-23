@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। জিব্রীল (আঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললেন, এই তো খাদীজাহ আপনার জন্য একটি পাত্রে খাবার নিয়ে এসেছেন। বর্ণনাকারী সন্দেহে বলেছেন, অথবা পাত্র নিয়ে এসেছেন, অথবা পানীয় নিয়ে এসেছেন। আপনি তাঁকে তাঁর রবের পক্ষ থেকে সালাম বলুন। আর তাঁকে এমন একটি মোতির তৈরি প্রাসাদের খোশখবর দিন, যেখানে চেঁচামেচি বা কষ্ট থাকবে না। [৩৮২০] (আধুনিক প্রকাশনী- ৬৯৭৮, ইসলামিক ফাউন্ডেশন- ৬৯৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। জিব্রীল (আঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললেন, এই তো খাদীজাহ আপনার জন্য একটি পাত্রে খাবার নিয়ে এসেছেন। বর্ণনাকারী সন্দেহে বলেছেন, অথবা পাত্র নিয়ে এসেছেন, অথবা পানীয় নিয়ে এসেছেন। আপনি তাঁকে তাঁর রবের পক্ষ থেকে সালাম বলুন। আর তাঁকে এমন একটি মোতির তৈরি প্রাসাদের খোশখবর দিন, যেখানে চেঁচামেচি বা কষ্ট থাকবে না। [৩৮২০] (আধুনিক প্রকাশনী- ৬৯৭৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7497</td></tr><tr><td>Arabic No</td><td>7497</td></tr><tr><td>Reference</td><td>Book 97 Hadith 122</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:The Prophet (ﷺ) said that Gabriel said, "Here is Khadija coming to you with a dish of food or a tumbler containing something to drink. Convey to her a greeting from her Lord (Allah) and give her the glad tidings that she will have a palace in Paradise built of Qasab wherein there will be neither any noise nor any fatigue (trouble)." (See Hadith No. 168, Vol. 5)
+Narrated Abu Huraira:The Prophet (ﷺ) said that Gabriel said, "Here is Khadija coming to you with a dish of food or a tumbler containing something to drink. Convey to her a greeting from her Lord (Allah) and give her the glad tidings that she will have a palace in Paradise built of Qasab wherein there will be neither any noise nor any fatigue (trouble)." (See Hadith No. 168, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7497</td></tr><tr><td>Arabic No</td><td>7497</td></tr><tr><td>Reference</td><td>Book 97 Hadith 122</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களிடம் வானவர் ஜிப்ரீல் (அலை) அவர்கள்) “இதோ கதீஜா உங்களி டம் ‘உணவுப் பாத்திரத்தை’ அல்லது ‘பானமுள்ள பாத்திரத்தை’ கொண்டுவந்து கொண்டிருக்கிறார். அவருக்கு அவரு டைய இறைவனிடமிருந்து சலாம் எடுத்துரையுங்கள். கூச்சலோ களைப்போ இல்லாத முத்து மாளிகையொன்று அவருக்கு (சொர்க்கத்தில்) கிடைக்கும் என்று நற்செய்தி அளியுங்கள்” என்று சொன்னார்கள்.139 அத்தியாயம் : 97
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களிடம் வானவர் ஜிப்ரீல் (அலை) அவர்கள்) “இதோ கதீஜா உங்களி டம் ‘உணவுப் பாத்திரத்தை’ அல்லது ‘பானமுள்ள பாத்திரத்தை’ கொண்டுவந்து கொண்டிருக்கிறார். அவருக்கு அவரு டைய இறைவனிடமிருந்து சலாம் எடுத்துரையுங்கள். கூச்சலோ களைப்போ இல்லாத முத்து மாளிகையொன்று அவருக்கு (சொர்க்கத்தில்) கிடைக்கும் என்று நற்செய்தி அளியுங்கள்” என்று சொன்னார்கள்.139 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7497</td></tr><tr><td>Arabic No</td><td>7497</td></tr><tr><td>Reference</td><td>Book 97 Hadith 122</td></tr></tbody></table></div>
 

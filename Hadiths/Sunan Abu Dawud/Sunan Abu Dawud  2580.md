@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহমূদ ইবন খালিদ ..... ইমাম যুহরী (রহঃ) হতে উপরোক্ত হাদীস একই সনদে ও অর্থে বর্ণনা করেছেন।
+। আয-যুহরী (রহঃ) থেকে ‘আব্বাদের সনদ সূত্রে অনুরূপ বর্ণিত হয়েছে। ইমাম আবূ দাঊদ (রাঃ) বলেন, উপরোক্ত হাদীস মা‘মার, শু‘আইব ও উকাইর- আয-যুহরী (রহঃ) একদল জ্ঞানী ব্যক্তির সূত্রে বর্ণনা করেছেন। আমাদের মতো এই সনদ সর্বাধিক সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2580</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 15 Hadith 104</td></tr></tbody></table></div>
 

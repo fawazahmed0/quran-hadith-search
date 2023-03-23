@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইকরামাহ (রহ.) হতে বর্ণিত যে, জামীলা সাবিতের স্ত্রী এরপর উক্ত হাদীসটি উল্লেখ করেন। [৫২৭৩] আধুনিক প্রকাশনী- ৪৮৮৯, ইসলামিক ফাউন্ডেশন- ৪৭৮৪
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইকরামাহ (রহ.) হতে বর্ণিত যে, জামীলা সাবিতের স্ত্রী এরপর উক্ত হাদীসটি উল্লেখ করেন। [৫২৭৩] আধুনিক প্রকাশনী- ৪৮৮৯, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5277</td></tr><tr><td>Arabic No</td><td>5277</td></tr><tr><td>Reference</td><td>Book 68 Hadith 26</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Ikrima:that Jamila... Then he related the whole ,Hadith, (i.e. 199)
+Narrated 'Ikrima:that Jamila... Then he related the whole ,Hadith, (i.e)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5277</td></tr><tr><td>Arabic No</td><td>5277</td></tr><tr><td>Reference</td><td>Book 68 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Ikrima:that Jamila... Then he related the whole ,Hadith, (i.e. 199)
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இக்ரிமா (ரஹ்) அவர்களின் அறிவிப்பில் (அந்தப் பெண்ணின் பெயர்) ஜமீலா என்று மேற்கண்ட ஹதீஸ் தொடங்குகிறது. அத்தியாயம் : 68
+இக்ரிமா (ரஹ்) அவர்களின் அறிவிப்பில் (அந்தப் பெண்ணின் பெயர்) ஜமீலா என்று மேற்கண்ட ஹதீஸ் தொடங்குகிறது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5277</td></tr><tr><td>Arabic No</td><td>5277</td></tr><tr><td>Reference</td><td>Book 68 Hadith 26</td></tr></tbody></table></div>
 

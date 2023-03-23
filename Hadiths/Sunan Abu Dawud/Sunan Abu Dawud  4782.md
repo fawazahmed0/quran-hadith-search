@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ..... আবূ যার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের বলেনঃ যদি তোমদের কেউ দাঁড়িয়ে থাকা অবস্থায় রাগান্বিত হয়, তবে সে যেন বসে পড়ে। যদি এতে রাগ চলে যায়, তবে ভাল; নয়তো সে শুয়ে পড়বে।
+। আবূ যার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কারো যদি দাঁড়ানো অবস্থায় রাগের উদ্রেক হয় তাহলে সে যেন বসে পড়ে। এতে যদি তার রাগ দূর হয় তো ভালো, অন্যথায় সে যেন শুয়ে পড়ে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4782</td></tr><tr><td>Arabic No</td><td>4782</td></tr><tr><td>Reference</td><td>Book 43 Hadith 10</td></tr></tbody></table></div>
 

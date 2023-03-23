@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্ হাসান ইবন আলী ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন, সাইয়্যেবা স্ত্রীলোকের (বিবাহের ব্যাপারে) ওলীর করণীয় কিছুই নাই। তবে (প্রাপ্তবয়স্কা) ইয়াতীম কুমারী মেয়ের (বিবাহের সময় তার) অনুমতি গ্রহণ করতে হবে। আর তার চুপ থাকাই তার অনুমতিস্বরূপ।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিধবা নারীর উপর তার অভিভাবকের কোনো কর্তৃত্ব নাই, আর ইয়াতীম কুমারী মেয়ে থেকে অনুমতি নিতে হবে এবং তার চুপ থাকাই তার সম্মতি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2100</td></tr><tr><td>Arabic No</td><td>2100</td></tr><tr><td>Reference</td><td>Book 12 Hadith 55</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.)'dan rivayet olunduğuna göre, Resulullah (Sallallahu aleyhi ve Sellem) "Dul kadın hakkında velinin söz hakkı yoktur. Buluğa ermemiş yetim kızın da izni alınır. Onun susması, kabul etmesidir." buyurmuştur. Diğer tahric: Nesai, nikah; Ahmed b. Hanbel, I, 261
+İbn Abbas (r.a.)'dan rivayet olunduğuna göre, Resulullah (Sallallahu aleyhi ve Sellem) "Dul kadın hakkında velinin söz hakkı yoktur. Buluğa ermemiş yetim kızın da izni alınır. Onun susması, kabul etmesidir." buyurmuştur. Diğer tahric: Nesai, nikah; Ahmed b. Hanbel, I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2100</td></tr><tr><td>Arabic No</td><td>2100</td></tr><tr><td>Reference</td><td>Book 12 Hadith 55</td></tr></tbody></table></div>
 

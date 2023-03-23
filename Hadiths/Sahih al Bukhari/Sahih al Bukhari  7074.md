@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত যে, এক লোক কতকগুলো তীর নিয়ে মসজিদে এলো। সেগুলোর ফলা খোলা অবস্থায় ছিল। তখন তাকে নির্দেশ দেয়া হল, যেন সে তার তীরের ফলাগুরো ধরে রাখে, যাতে কোন মুসলিমের গায়ে আঘাত না লাগে। [৪৫১] (আধুনিক প্রকাশনী- ৬৫৮১, ইসলামিক ফাউন্ডেশন- ৬৫৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত যে, এক লোক কতকগুলো তীর নিয়ে মসজিদে এলো। সেগুলোর ফলা খোলা অবস্থায় ছিল। তখন তাকে নির্দেশ দেয়া হল, যেন সে তার তীরের ফলাগুরো ধরে রাখে, যাতে কোন মুসলিমের গায়ে আঘাত না লাগে। [৪৫১] (আধুনিক প্রকাশনী- ৬৫৮১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7074</td></tr><tr><td>Arabic No</td><td>7074</td></tr><tr><td>Reference</td><td>Book 92 Hadith 25</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hamm
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் பள்ளிவாசலில் அம்புகள் சிலவற்றை அவற்றின் முனைகள் வெளியே தெரியுமாறு எடுத்துச் சென்றார். நபி (ஸல்) அவர்கள் அவற்றின் முனைகளைப் பிடித்து (மறைத்து)க்கொண்டு எந்த முஸ்லிமையும் கீறிவிடாதபடி செல்லுமாறு அவருக்குக் கட்டளையிட்டார்கள். அத்தியாயம் : 92
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் பள்ளிவாசலில் அம்புகள் சிலவற்றை அவற்றின் முனைகள் வெளியே தெரியுமாறு எடுத்துச் சென்றார். நபி (ஸல்) அவர்கள் அவற்றின் முனைகளைப் பிடித்து (மறைத்து)க்கொண்டு எந்த முஸ்லிமையும் கீறிவிடாதபடி செல்லுமாறு அவருக்குக் கட்டளையிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7074</td></tr><tr><td>Arabic No</td><td>7074</td></tr><tr><td>Reference</td><td>Book 92 Hadith 25</td></tr></tbody></table></div>
 

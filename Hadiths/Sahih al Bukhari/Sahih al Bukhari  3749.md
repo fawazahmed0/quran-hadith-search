@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি হাসানকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্কন্ধের উপর দেখেছি। সে সময় তিনি (রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছিলেন, হে আল্লাহ্! আমি একে ভালবাসি, তুমিও তাকে ভালবাস। (মুসলিম ৪৪/৮ হাঃ ২৪২২, আহমাদ ১৮৫২৭) (আধুনিক প্রকাশনীঃ ৩৪৬৬, ইসলামিক ফাউন্ডেশনঃ ৩৪৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি হাসানকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্কন্ধের উপর দেখেছি। সে সময় তিনি (রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছিলেন, হে আল্লাহ্! আমি একে ভালবাসি, তুমিও তাকে ভালবাস। (মুসলিম ৪৪/৮ হাঃ ২৪২২, আহমাদ ১৮৫২৭) (আধুনিক প্রকাশনীঃ ৩৪৬৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3749</td></tr><tr><td>Arabic No</td><td>3749</td></tr><tr><td>Reference</td><td>Book 62 Hadith 94</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Hajjaj bin Al Minhal] telah bercerita kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறிய தாவது: அலீ (ரலி) அவர்களின் மகன் ஹசன் (ரலி) அவர்கள், நபி (ஸல்) அவர்களின் தோள்மீது அமர்ந்திருக்க, நபி (ஸல்) அவர்கள், “இறைவா! நான் இவரை நேசிக்கிறேன். நீயும் இவரை நேசிப்பாயாக!” என்று பிரார்த்திக்கக் கண்டேன். அத்தியாயம் : 62
+பராஉ (ரலி) அவர்கள் கூறிய தாவது: அலீ (ரலி) அவர்களின் மகன் ஹசன் (ரலி) அவர்கள், நபி (ஸல்) அவர்களின் தோள்மீது அமர்ந்திருக்க, நபி (ஸல்) அவர்கள், “இறைவா! நான் இவரை நேசிக்கிறேன். நீயும் இவரை நேசிப்பாயாக!” என்று பிரார்த்திக்கக் கண்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3749</td></tr><tr><td>Arabic No</td><td>3749</td></tr><tr><td>Reference</td><td>Book 62 Hadith 94</td></tr></tbody></table></div>
 

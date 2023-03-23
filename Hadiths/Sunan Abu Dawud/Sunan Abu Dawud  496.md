@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুহায়ের ইবনু হারব .... দাউদের সূত্রে হাদীছের অনুরূপ বর্ণিত আছে। এই সূত্রে আরও আছেঃ তোমাদের কেউ যখন তার বাঁদীকে-দাসের সাথে বিয়ে দিবে তখন থেকে সে তার (দাসীর) নাভির নিম্নাংশ থেকে হাটুর উপরাংশ পর্যন্ত স্থানের প্রতি দৃষ্টিপাত করবে না।
+। দাঊদ ইবনু সাওয়ার আল-মুযানী (রহঃ) একই সানাদ ও অর্থে উক্ত হাদীস বর্ণনা করেছেন। তাতে অতিরিক্তভাবে একথাও রয়েছেঃ তোমাদের কেউ তার দাসীকে তার দাসের সঙ্গে বিয়ে দিলে (এরপর থেকে) সে তার (দাসীর) নাভির নিচে ও হাঁটুর উপরে তাকাবে না। [1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
 

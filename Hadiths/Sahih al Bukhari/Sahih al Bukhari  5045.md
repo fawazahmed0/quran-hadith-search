@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ক্বাতাদাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আনাস ইবনু মালিক (রাঃ)-কে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এর ‘কিরাআত’ সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম (কোন কোন ক্ষেত্রে শব্দকে) দীর্ঘায়িত করে পাঠ করতেন। [৫০৪৬] (আধুনিক প্রকাশনীঃ ৪৬৭২, ইসলামিক ফাউন্ডেশনঃ ৪৬৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ক্বাতাদাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আনাস ইবনু মালিক (রাঃ)-কে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এর ‘কিরাআত’ সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম (কোন কোন ক্ষেত্রে শব্দকে) দীর্ঘায়িত করে পাঠ করতেন। [৫০৪৬] (আধুনিক প্রকাশনীঃ ৪৬৭২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5045</td></tr><tr><td>Arabic No</td><td>5045</td></tr><tr><td>Reference</td><td>Book 66 Hadith 69</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கத்தாதா (ரஹ்) அவர்கள் கூறியதாவது: நான் அனஸ் பின் மாலிக் (ரலி) அவர்களிடம் நபி (ஸல்) அவர்களின் ஓதுதல்முறை பற்றிக் கேட்டேன் அதற்கு அவர்கள், ‘‘(நீட்டி ஓத வேண்டிய இடங்களில்) நன்றாக நீட்டி ஓதுவது நபி (ஸல்) அவர்களின் வழக்கமாக இருந்தது” என்று பதிலளித்தார்கள். அத்தியாயம் : 66
+கத்தாதா (ரஹ்) அவர்கள் கூறியதாவது: நான் அனஸ் பின் மாலிக் (ரலி) அவர்களிடம் நபி (ஸல்) அவர்களின் ஓதுதல்முறை பற்றிக் கேட்டேன் அதற்கு அவர்கள், ‘‘(நீட்டி ஓத வேண்டிய இடங்களில்) நன்றாக நீட்டி ஓதுவது நபி (ஸல்) அவர்களின் வழக்கமாக இருந்தது” என்று பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5045</td></tr><tr><td>Arabic No</td><td>5045</td></tr><tr><td>Reference</td><td>Book 66 Hadith 69</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Katade'den şöyle dediği rivayet edilmiştir: "Enes İbn Malik'e Nebi Sallallahu Aleyhi ve Sellem'in nasıl Kur'an okuduğunu sordum. 'İyice uzatarak okurdu' diye cevap verdi." Hadisin geçtiği diğer yer: 5046
+Katade'den şöyle dediği rivayet edilmiştir: "Enes İbn Malik'e Nebi Sallallahu Aleyhi ve Sellem'in nasıl Kur'an okuduğunu sordum. 'İyice uzatarak okurdu' diye cevap verdi." Hadisin geçtiği diğer yer:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5045</td></tr><tr><td>Arabic No</td><td>5045</td></tr><tr><td>Reference</td><td>Book 66 Hadith 69</td></tr></tbody></table></div>
 

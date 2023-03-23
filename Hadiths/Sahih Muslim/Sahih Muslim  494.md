@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৮২, আন্তর্জাতিক নাম্বারঃ ২০০ ৩৮২-(৩৪১/২০০) আবূ গাসসান আল মিসমাঈ, মুহাম্মাদ ইবনু আল মুসান্না ও ইবনু বাশশার (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ প্রত্যেক নবীর কাছে তার উম্মতের ক্ষেত্রে প্রয়োগের জন্য একটি দু'আর অনুমতি আছে। প্রত্যেকে আপন উম্মতের কল্যাণের জন্য তা করেছেন। আর আমি আমার দু'আটি কিয়ামত দিবসে আমার উম্মতের শাফা'আতের জন্য অবশিষ্ট রেখে দিয়েছি। (ইসলামিক ফাউন্ডেশনঃ ৩৯০, ইসলামিক সেন্টারঃ ৪০১)
+আবূ গাসসান আল মিসমাঈ, মুহাম্মাদ ইবনু আল মুসান্না ও ইবনু বাশশার (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ প্রত্যেক নবীর কাছে তার উম্মতের ক্ষেত্রে প্রয়োগের জন্য একটি দু'আর অনুমতি আছে। প্রত্যেকে আপন উম্মতের কল্যাণের জন্য তা করেছেন। আর আমি আমার দু'আটি কিয়ামত দিবসে আমার উম্মতের শাফা'আতের জন্য অবশিষ্ট রেখে দিয়েছি। (ইসলামিক ফাউন্ডেশনঃ ৩৯০, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>494</td></tr><tr><td>Arabic No</td><td>200.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 400</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Abu Ghassan al-Misma'i] dan [Muhammad bin al-Mutsan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வோர் இறைத்தூதருக்கும் தம் சமுதாயத்தார் தொடர்பாக ஒரு (சிறப்புப்) பிரார்த்தனை செய்ய உரிமை உண்டு. நான் எனது பிரார்த்தனையை, மறுமை நாளில் என் சமுதாயத்தாருக்காகப் பரிந்துரை செய்ய பத்திரப்படுத்தி வைத்துவிட்டேன். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 1
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வோர் இறைத்தூதருக்கும் தம் சமுதாயத்தார் தொடர்பாக ஒரு (சிறப்புப்) பிரார்த்தனை செய்ய உரிமை உண்டு. நான் எனது பிரார்த்தனையை, மறுமை நாளில் என் சமுதாயத்தாருக்காகப் பரிந்துரை செய்ய பத்திரப்படுத்தி வைத்துவிட்டேன். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>494</td></tr><tr><td>Arabic No</td><td>200.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 400</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepadaku [Abu Ghassan al-Misma'i] dan [Muhammad bin al-Mutsan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Ebu Gassan el-Mismai de tahdis etti. Bize Muhammed b. el-Müsenna ile İbn Beşşar da -ki laflZ Ebu Gassan'a aittir- tahdis ettiler. Hepsi dedi ki: Bize Muaz -İbn Hişam'ı kastediyorlar- tahdis edip dedi ki: Bana babam Katade'den tahdis etti, bize Enes b. Malik'in tahdis ettiğine göre Allah'ın Nebisi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Her bir nebinin ümmetine yaptığı bir duası vardır. Ben ise duam i kıyamet gününde ümmetime şefaat olmak üzere sakladım. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 1376
+Bana Ebu Gassan el-Mismai de tahdis etti. Bize Muhammed b. el-Müsenna ile İbn Beşşar da -ki laflZ Ebu Gassan'a aittir- tahdis ettiler. Hepsi dedi ki: Bize Muaz -İbn Hişam'ı kastediyorlar- tahdis edip dedi ki: Bana babam Katade'den tahdis etti, bize Enes b. Malik'in tahdis ettiğine göre Allah'ın Nebisi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Her bir nebinin ümmetine yaptığı bir duası vardır. Ben ise duam i kıyamet gününde ümmetime şefaat olmak üzere sakladım. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>494</td></tr><tr><td>Arabic No</td><td>200.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 400</td></tr></tbody></table></div>
 

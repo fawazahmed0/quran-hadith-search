@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১৯৭৬। ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। তিনি বলেন, উসামাহ (রাঃ) পা পিছলে ঘরের দরজার চৌকাঠে পড়ে গেলে তার মুখমন্ডল আহত হয়। তখন রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (আমাকে) বলেনঃ তার চেহারা থেকে রক্ত পরিষ্কার করে দাও। আমি তা অপছন্দ করলে তিনি নিজেই তার মুখমন্ডল থেকে রক্ত মুছে পরিষ্কার করে দিলেন, অতঃপর বলেনঃ উসামাহ মেয়ে হলে আমি অবশ্যই তাকে অলঙ্কার ও পোশাকে এতটা সজ্জিত করতাম যেমন বিবাহে পর্যাপ্ত খরচ করা হয়।
+। ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। তিনি বলেন, উসামাহ (রাঃ) পা পিছলে ঘরের দরজার চৌকাঠে পড়ে গেলে তার মুখমন্ডল আহত হয়। তখন রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (আমাকে) বলেনঃ তার চেহারা থেকে রক্ত পরিষ্কার করে দাও। আমি তা অপছন্দ করলে তিনি নিজেই তার মুখমন্ডল থেকে রক্ত মুছে পরিষ্কার করে দিলেন, অতঃপর বলেনঃ উসামাহ মেয়ে হলে আমি অবশ্যই তাকে অলঙ্কার ও পোশাকে এতটা সজ্জিত করতাম যেমন বিবাহে পর্যাপ্ত খরচ করা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1976</td></tr><tr><td>Arabic No</td><td>1976</td></tr><tr><td>Reference</td><td>Book 9 Hadith 132</td></tr></tbody></table></div>
 

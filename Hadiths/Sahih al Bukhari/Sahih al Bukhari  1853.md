@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ফাযল ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, একজন মহিলা বললেন। (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ ১৭৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ফাযল ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, একজন মহিলা বললেন। (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Abbas:A woman from the tribe of Khath'am came in the year (of ,Haj
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ‘கஸ்அம்’ எனும் குலத்தைச் சேர்ந்த ஒரு பெண்மணி (நபி (ஸல்) அவர்களிடம்) விடைபெறும் ஹஜ்ஜின்போது வந்து, “அல்லாஹ்வின் தூதரே! அல்லாஹ் தன் அடியார்கள்மீது விதியாக்கியுள்ள ஹஜ் கடமை முதியவரான என் தந்தைக்கு ஏற்பட்டுள்ளது. அவர் வாகனத்தில் அமர முடியாதவராகவும் இருக்கிறார். நான் அவர் சார்பாக ஹஜ் செய்தால் அது நிறை வேறுமா?’ என்று கேட்டார். நபி (ஸல்) அவர்கள் “ஆம்” என்றார்கள். அத்தியாயம் : 28
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ‘கஸ்அம்’ எனும் குலத்தைச் சேர்ந்த ஒரு பெண்மணி (நபி (ஸல்) அவர்களிடம்) விடைபெறும் ஹஜ்ஜின்போது வந்து, “அல்லாஹ்வின் தூதரே! அல்லாஹ் தன் அடியார்கள்மீது விதியாக்கியுள்ள ஹஜ் கடமை முதியவரான என் தந்தைக்கு ஏற்பட்டுள்ளது. அவர் வாகனத்தில் அமர முடியாதவராகவும் இருக்கிறார். நான் அவர் சார்பாக ஹஜ் செய்தால் அது நிறை வேறுமா?’ என்று கேட்டார். நபி (ஸல்) அவர்கள் “ஆம்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
 

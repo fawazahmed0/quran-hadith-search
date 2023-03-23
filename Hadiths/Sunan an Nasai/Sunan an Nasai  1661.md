@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। হারুন ইবনু আব্দুলাহ (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে একবার দেখলাম যে, তিনি চার জানু হয়ে সালাত আদায় করছেন। আবূ আব্দুর রহমান (নাসাঈ) বলেন, অত্র হাদীস আবূ দাঊদ ছাড়া অন্য কেউ বর্ণনা করেছেন বলে আমার জানা নেই। তিনি অবশ্য নির্ভরযোগ্য কিন্তু আমি অত্র হাদীসকে ভূল ভিন্ন কিছুই মনে করি না। আল্লাহই অধিক জ্ঞাত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1661</td></tr><tr><td>Arabic No</td><td>1661</td></tr><tr><td>Reference</td><td>Book 20 Hadith 64</td></tr></tbody></table></div>
 

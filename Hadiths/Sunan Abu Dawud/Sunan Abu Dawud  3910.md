@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) .... আবদুল্লাহ ইবন মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তিনবার বলেনঃ পাখীর শুভাশুভ নির্ণয় করা শিরক। এ ব্যাপারে যদি কারো মনে সন্দেহের সৃষ্টি হয়, তবে তা মহান আল্লাহ তাঁর প্রতি তাওয়াককুলের কারণে দূর করে দেবেন।
+। আব্দুল্লাহ ইবনু মাস‘ঊদ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোনো বস্তুকে কুলক্ষণ মনে করা শিরক, কোনো বন্তুকে কুলক্ষণ ভাবা শিরক। একথা তিনি তিনবার বললেন। আমাদের কারো মনে কিছু জাগা স্বাভাবিক, কিন্তু আল্লাহর উপর ভরসা করলে তিনি তা দূর করে দিবেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3910</td></tr><tr><td>Arabic No</td><td>3910</td></tr><tr><td>Reference</td><td>Book 30 Hadith 7</td></tr></tbody></table></div>
 

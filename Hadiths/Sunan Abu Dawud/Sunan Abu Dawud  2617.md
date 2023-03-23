@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ্ ইবন আমর আল গায্‌যী (রহঃ) হতে বর্ণিত যে, তিনি শুনেছেন আবূ মুসহারকে উব্‌না সম্পর্কে জিজ্ঞাসা করা হল। তিনি বললেনঃ আমরা জানি যে, সে উব্‌না ফিলিস্তিনে অর্থাৎ সিরিয়ায়।
+। ‘আব্দুল্লাহ ইবনু ‘আমর আল-গাযযী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি শুনেছি আবু মুসহিরকে উবনা নামক জনপদ সম্পর্কে জিজ্ঞেস করা হলে তিনি বললেন, ‘আমরা তো ফিলিস্তীনের ‘ইউবনা’ নামক স্থানকেই ‘উবনা’ বলে জানি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 15 Hadith 141</td></tr></tbody></table></div>
 

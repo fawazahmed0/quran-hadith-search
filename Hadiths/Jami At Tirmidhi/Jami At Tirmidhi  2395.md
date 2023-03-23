@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩৯৫। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছেনঃ তুমি ঈমানদার লোক ব্যতীত অন্য কারো সঙ্গী হয়ো না এবং আল্লাহভীরু মুত্তাকী লোক ছাড়া কেউ যেন তোমার খাদ্য না খায়। হাসান, মিশকাত (৫০১৮)। আবূ ঈসা বলেন, এই হাদীসটি হাসান। আমরা হাদীসটি শুধুমাত্র উপরোক্ত সূত্রেই জেনেছি।
+। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছেনঃ তুমি ঈমানদার লোক ব্যতীত অন্য কারো সঙ্গী হয়ো না এবং আল্লাহভীরু মুত্তাকী লোক ছাড়া কেউ যেন তোমার খাদ্য না খায়। হাসান, মিশকাত (৫০১৮)। আবূ ঈসা বলেন, এই হাদীসটি হাসান। আমরা হাদীসটি শুধুমাত্র উপরোক্ত সূত্রেই জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2395</td></tr><tr><td>Arabic No</td><td>2395</td></tr><tr><td>Reference</td><td>Book 36 Hadith 93</td></tr></tbody></table></div>
 

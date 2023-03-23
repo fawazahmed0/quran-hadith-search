@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২১০। আমির আশ-শাবী (রহঃ) হতে বর্ণিত আছে, তিনি আল্লাহর বাণীঃ “মুহাম্মাদ তোমাদের মধ্যে কোন পুরুষের পিতা নন" (সূরাঃ আল-আহযাব- ৪০) প্রসঙ্গে বলেনঃ এ আয়াতের ভাবার্থ হচ্ছেঃ তোমাদের মাঝে তার কোন ছেলে সন্তান জীবিত থাকবে না। যঈফ, সনদ বিচ্ছিন্ন
+। আমির আশ-শাবী (রহঃ) হতে বর্ণিত আছে, তিনি আল্লাহর বাণীঃ “মুহাম্মাদ তোমাদের মধ্যে কোন পুরুষের পিতা নন" (সূরাঃ আল-আহযাব- ৪০) প্রসঙ্গে বলেনঃ এ আয়াতের ভাবার্থ হচ্ছেঃ তোমাদের মাঝে তার কোন ছেলে সন্তান জীবিত থাকবে না। যঈফ, সনদ বিচ্ছিন্ন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>3210</td></tr><tr><td>Reference</td><td>Book 47 Hadith 262</td></tr></tbody></table></div>
 

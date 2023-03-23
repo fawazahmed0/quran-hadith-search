@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, আমাকে পূবের বাতাস দিয়ে সাহায্য করা হয়েছে, আর আদ জাতিকে পশ্চিমা বাতাস দিয়ে ধ্বংস করা হয়েছে।[1] [১০৩৫] (আধুনিক প্রকাশনীঃ ৩৭৯৯, ইসলামিক ফাউন্ডেশনঃ ৩৮০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, আমাকে পূবের বাতাস দিয়ে সাহায্য করা হয়েছে, আর আদ জাতিকে পশ্চিমা বাতাস দিয়ে ধ্বংস করা হয়েছে।[1] [১০৩৫] (আধুনিক প্রকাশনীঃ ৩৭৯৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4105</td></tr><tr><td>Arabic No</td><td>4105</td></tr><tr><td>Reference</td><td>Book 64 Hadith 149</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் (அகழ்ப் போரின் வெற்றிக்குப் பிறகு) கூறினார்கள்: நான் (“ஸபா' என்னும்) கீழைக் காற்றின் வாயிலாக வெற்றி அளிக்கப்பட்டுள்ளேன்; “ஆத்' சமுகத்தார் (“தபூர்' எனும்) மேலைக் காற்றால் அழிக்கப்பட்டனர். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.178 அத்தியாயம் : 64
+நபி (ஸல்) அவர்கள் (அகழ்ப் போரின் வெற்றிக்குப் பிறகு) கூறினார்கள்: நான் (“ஸபா' என்னும்) கீழைக் காற்றின் வாயிலாக வெற்றி அளிக்கப்பட்டுள்ளேன்; “ஆத்' சமுகத்தார் (“தபூர்' எனும்) மேலைக் காற்றால் அழிக்கப்பட்டனர். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.178 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4105</td></tr><tr><td>Arabic No</td><td>4105</td></tr><tr><td>Reference</td><td>Book 64 Hadith 149</td></tr></tbody></table></div>
 

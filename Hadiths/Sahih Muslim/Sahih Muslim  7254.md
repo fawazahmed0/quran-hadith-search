@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭১৪৬, আন্তর্জাতিক নাম্বারঃ ২৮৮৮ ৭১৪৬-(…/...) হাজ্জাজ ইবনু শাইর (রহঃ) ..... আইয়্যুব (রহঃ) হতে এ সূত্রে আবূ কামিল এর সানাদে হাম্মাদ এর বর্ণিত হাদীসের অবিকল শেষ পর্যন্ত বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৯৯০, ইসলামিক সেন্টার ৭০৪৭)
+(…/...) হাজ্জাজ ইবনু শাইর (রহঃ) ..... আইয়্যুব (রহঃ) হতে এ সূত্রে আবূ কামিল এর সানাদে হাম্মাদ এর বর্ণিত হাদীসের অবিকল শেষ পর্যন্ত বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৯৯০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7254</td></tr><tr><td>Arabic No</td><td>2888.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 20</td></tr></tbody></table></div>
 

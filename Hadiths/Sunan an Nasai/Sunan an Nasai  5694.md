@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যিয়াদ ইবন আইয়্যুব (রহঃ) ... আবদুল মালিক ইবন নাফি' (রহঃ) থেকে বর্ণিত। তিনি বলেন, ইবন উমর (রাঃ) বলেছেনঃ আমি এক ব্যক্তিকে নবীযের পাত্র নিয়ে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট হাযির হতে দেখেছি, তখন তিনি রুকনের নিকট দাঁড়ান অবস্থায় ছিলেন। ঐ ব্যক্তি ঐ পাত্র তাঁর সামনে পেশ করলে, তিনি তা নিজের মুখের নিকট নিতেই তা খুব ঝাঁঝাল মনে হলো। তখন তিনি ঐ ব্যক্তিকে তা ফিরিয়ে দিলেন। এই সময় অন্য এক ব্যক্তি বললোঃ ইয়া রাসূলাল্লাহ্! তা কি হারাম? তিনি বললেনঃ যে ব্যক্তি ঐ পাত্র এনেছিল তাকে ডাক। ঐ ব্যক্তি উপস্থিত হলে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার হাত থেকে ঐ পাত্র নিয়ে নেন এবং পানি আনিয়ে তাতে মিশ্রিত করেন। পরে তিনি বলেনঃ যখন ঐ সকল পাত্রে নবীয ঝাঁঝাল হয়ে যায়, তখন পানি দ্বারা তার তীব্রতা দূর করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5694</td></tr><tr><td>Arabic No</td><td>5694</td></tr><tr><td>Reference</td><td>Book 51 Hadith 156</td></tr></tbody></table></div>
 

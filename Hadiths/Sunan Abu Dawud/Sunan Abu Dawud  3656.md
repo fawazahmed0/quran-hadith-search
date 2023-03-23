@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম ইবন মূসা (রহঃ) ..... মু'আবিয়া (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কাঊকে ধোঁকায় ফেলতে নিষেধ করেছেন।
+। মু‘আবিয়াহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিভ্রান্তিকর প্রশ্ন করতে আমাদের বারণ করেছেন।[1] দুর্বলঃ মিশকাত (২৪৩)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3656</td></tr><tr><td>Arabic No</td><td>3656</td></tr><tr><td>Reference</td><td>Book 26 Hadith 16</td></tr></tbody></table></div>
 

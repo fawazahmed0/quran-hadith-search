@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৬৮৮, আন্তর্জাতিক নাম্বারঃ ৭৬৪ ১৬৮৮-(১৯৪/৭৬৪) আবূ বাকর ইবনু আবূ শায়বাহ, ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ...... 'আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের বেলা তের রাকাআত সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৬৭৩, ইসলামীক সেন্টার ১৬৮০)
+আবূ বাকর ইবনু আবূ শায়বাহ, ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ...... 'আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের বেলা তের রাকাআত সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৬৭৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1803</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 6 Hadith 231</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரவில் பதிமூன்று ரக்அத்கள் தொழுவார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 6
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரவில் பதிமூன்று ரக்அத்கள் தொழுவார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1803</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 6 Hadith 231</td></tr></tbody></table></div>
 

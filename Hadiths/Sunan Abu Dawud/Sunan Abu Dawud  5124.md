@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... মিকদাম ইবন মা'দীকারাব (রাঃ) থেকে বর্ণিত যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কোন ব্যক্তি তার কোন ভাইকে ভালবাসে, তখন সে যেন তাকে বলেঃ আমি তোমাকে ভালবাসি।
+। আল-মিকদাম ইবনু মা‘দীকারিব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তার কোনো মুসলিম ভাইকে ভালবাসে, তার উচিৎ তাকে তাঁর ভালবাসা সম্পর্কে অবহিত করা।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-el-Mikdam b. Ma'dikerib'den (rivayet edildiğine göre) Nebi (s.a.v.) şöyle buyurmuştur: Bir kimse (din) kardeşini sevdiği zaman kendisini sevdiğini ona bildirsin." Tahric edenler: Tirmizî, zühd; Ahmed b. Hanbel, IV, 130
+el-Mikdam b. Ma'dikerib'den (rivayet edildiğine göre) Nebi (s.a.v.) şöyle buyurmuştur: Bir kimse (din) kardeşini sevdiği zaman kendisini sevdiğini ona bildirsin." Tahric edenler: Tirmizî, zühd; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
 

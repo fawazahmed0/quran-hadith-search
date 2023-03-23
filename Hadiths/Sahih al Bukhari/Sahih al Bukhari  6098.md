@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ উত্তম বাণী হলো আল্লাহর কিতাব। আর সবচেয়ে উত্তম পথ প্রদর্শন হলো, মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পথ প্রদর্শন। [৭২৭৭] (আধুনিক প্রকাশনী- ৫৬৫৯, ইসলামিক ফাউন্ডেশন- ৫৫৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ উত্তম বাণী হলো আল্লাহর কিতাব। আর সবচেয়ে উত্তম পথ প্রদর্শন হলো, মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পথ প্রদর্শন। [৭২৭৭] (আধুনিক প্রকাশনী- ৫৬৫৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6098</td></tr><tr><td>Arabic No</td><td>6098</td></tr><tr><td>Reference</td><td>Book 78 Hadith 125</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Sy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-தாரிக் பின் ஷிஹாப் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள், “உரையில் சிறந்தது அல்லாஹ்வின் வேதம் (குர்ஆன்) ஆகும். நடத்தையில் சிறந்தது முஹம்மத் (ஸல்) அவர்களின் நடத்தையாகும்” என்று கூறினார்கள். அத்தியாயம் : 78
+தாரிக் பின் ஷிஹாப் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள், “உரையில் சிறந்தது அல்லாஹ்வின் வேதம் (குர்ஆன்) ஆகும். நடத்தையில் சிறந்தது முஹம்மத் (ஸல்) அவர்களின் நடத்தையாகும்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6098</td></tr><tr><td>Arabic No</td><td>6098</td></tr><tr><td>Reference</td><td>Book 78 Hadith 125</td></tr></tbody></table></div>
 

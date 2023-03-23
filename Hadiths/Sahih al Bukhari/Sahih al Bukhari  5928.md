@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি যে সব সুগন্ধি পেতাম, তার মধ্যে সর্বাপেক্ষা উৎকৃষ্ট সুগন্ধটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর মুহরিম অবস্থায় লাগিয়ে দিতাম। [১৫৩৯; মুসলিম ৩৭/৩৩, হাঃ ২১২৪, আহমাদ ৪৭২৪] (আধুনিক প্রকাশনী- ৫৪৯৬, ইসলামিক ফাউন্ডেশন- ৫৩৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি যে সব সুগন্ধি পেতাম, তার মধ্যে সর্বাপেক্ষা উৎকৃষ্ট সুগন্ধটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর মুহরিম অবস্থায় লাগিয়ে দিতাম। [১৫৩৯; মুসলিম ৩৭/৩৩, হাঃ ২১২৪, আহমাদ ৪৭২৪] (আধুনিক প্রকাশনী- ৫৪৯৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5928</td></tr><tr><td>Arabic No</td><td>5928</td></tr><tr><td>Reference</td><td>Book 77 Hadith 143</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Wuhaib] te
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இஹ்ராம் கட்டியபோது நான் அவர்களுக்கு என்னிட மிருந்ததிலேயே மிக நல்ல வாசனைப் பொருளைப் பூசிவந்தேன்.116 அத்தியாயம் : 77
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இஹ்ராம் கட்டியபோது நான் அவர்களுக்கு என்னிட மிருந்ததிலேயே மிக நல்ல வாசனைப் பொருளைப் பூசிவந்தேன்.116 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5928</td></tr><tr><td>Arabic No</td><td>5928</td></tr><tr><td>Reference</td><td>Book 77 Hadith 143</td></tr></tbody></table></div>
 

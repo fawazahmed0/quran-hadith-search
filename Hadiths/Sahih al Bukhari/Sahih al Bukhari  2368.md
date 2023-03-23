@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ইসমাঈল (আঃ)-এর মা হাজিরা (আ.)-এর উপর আল্লাহ রহম করুন। কেননা, যদি তিনি যামযামকে স্বাভাবিক অবস্থায় ছেড়ে দিতেন অথবা তিনি বলেছেন, যদি তা হতে অঞ্চলে পানি না নিতেন, তা হলে তা একটি প্রবাহিত ঝরণায় পরিণত হত। জুরহাম গোত্র তাঁর নিকট এসে বলল, আপনি কি আমাদেরকে আপনার নিকট অবস্থান করার অনুমতি দিবেন? তিনি (হাজিরা) বললেন, হ্যাঁ। তবে পানির উপর তোমাদের কোন অধিকার থাকবে না। তারা বলল, ঠিক আছে। (৩৩৬২, ৩৩৬৩, ৩৩৬৪, ৩৩৬৫) (আধুনিক প্রকাশনীঃ ২১৯৫, ইসলামিক ফাউন্ডেশনঃ ২২১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ইসমাঈল (আঃ)-এর মা হাজিরা (আ.)-এর উপর আল্লাহ রহম করুন। কেননা, যদি তিনি যামযামকে স্বাভাবিক অবস্থায় ছেড়ে দিতেন অথবা তিনি বলেছেন, যদি তা হতে অঞ্চলে পানি না নিতেন, তা হলে তা একটি প্রবাহিত ঝরণায় পরিণত হত। জুরহাম গোত্র তাঁর নিকট এসে বলল, আপনি কি আমাদেরকে আপনার নিকট অবস্থান করার অনুমতি দিবেন? তিনি (হাজিরা) বললেন, হ্যাঁ। তবে পানির উপর তোমাদের কোন অধিকার থাকবে না। তারা বলল, ঠিক আছে। (৩৩৬২, ৩৩৬৩, ৩৩৬৪, ৩৩৬৫) (আধুনিক প্রকাশনীঃ ২১৯৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2368</td></tr><tr><td>Arabic No</td><td>2368</td></tr><tr><td>Reference</td><td>Book 42 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah mengabarkan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: (நபி) இஸ்மாயீல் (அலை) அவர்களின் தாயாருக்கு (ஹாஜருக்கு) அல்லாஹ் கருணை புரிவானாக! ‘ஸம்ஸம்’ நீரை அவர், (பள்ளம் தோண்டி அணை கட்டாமல்) விட்டுவிட்டிருந்தால் லி (அல்லது நபியவர்கள் இப்படிச் சொன்னார்கள்:) லி தண்ணீரைக் கையால் அள்ளாமல் இருந் திருந்தால் லி அது (நிற்காமல்) ஓடுகின்ற நீரோடையாக இருந்திருக்கும். (பிறகு) யிபனூ ஜுர்ஹும்’ குலத்தார் அங்கு வந்து, ‘‘உங்கள் இடத்தில் நாங்கள் தங்கி வசித்துக்கொள்ள நீங்கள் அனுமதிப் பீர்களா?” என்று (ஹாஜரிடம்) கேட்டார்கள். அதற்கு அவர்கள், ‘‘சரி; (தங்கி வசித்துக்கொள்ளுங்கள்.) ஆனால், (இந்தத்) தண்ணீரில் உங்களுக்கு எந்த உரிமையும் இருக்காது” என்று கூறினார்கள். அதற்கு ஜுர்ஹும் குலத்தார், ‘‘சரி (அவ்வாறே ஒப்புக்கொள்கிறோம்)” என்று கூறினார்கள். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 42
+நபி (ஸல்) அவர்கள்கூறினார்கள்: (நபி) இஸ்மாயீல் (அலை) அவர்களின் தாயாருக்கு (ஹாஜருக்கு) அல்லாஹ் கருணை புரிவானாக! ‘ஸம்ஸம்’ நீரை அவர், (பள்ளம் தோண்டி அணை கட்டாமல்) விட்டுவிட்டிருந்தால் லி (அல்லது நபியவர்கள் இப்படிச் சொன்னார்கள்:) லி தண்ணீரைக் கையால் அள்ளாமல் இருந் திருந்தால் லி அது (நிற்காமல்) ஓடுகின்ற நீரோடையாக இருந்திருக்கும். (பிறகு) யிபனூ ஜுர்ஹும்’ குலத்தார் அங்கு வந்து, ‘‘உங்கள் இடத்தில் நாங்கள் தங்கி வசித்துக்கொள்ள நீங்கள் அனுமதிப் பீர்களா?” என்று (ஹாஜரிடம்) கேட்டார்கள். அதற்கு அவர்கள், ‘‘சரி; (தங்கி வசித்துக்கொள்ளுங்கள்.) ஆனால், (இந்தத்) தண்ணீரில் உங்களுக்கு எந்த உரிமையும் இருக்காது” என்று கூறினார்கள். அதற்கு ஜுர்ஹும் குலத்தார், ‘‘சரி (அவ்வாறே ஒப்புக்கொள்கிறோம்)” என்று கூறினார்கள். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2368</td></tr><tr><td>Arabic No</td><td>2368</td></tr><tr><td>Reference</td><td>Book 42 Hadith 16</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah mengabarkan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'ın naklettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah İsmail'in annesine (Hacer) merhamet etsin. Eğer zemzemi kendi haline bıraksaydı zemzem bir akarsu olacaktı. Cürhümlüler Mekke'ye gelmişler ve Hacer'den, "Burada konaklamamıza izin verir misin?" demişlerdi. Hacer, "Evet, fakat suda mülkiyet hakkınız yoktur" diye cevap verdi. Bunun üzerine Cürhümlüler "evet" diyerek bu şartı kabul etmişlerdir. " Tekrar: 3362, 3363, 3364, 3365
+İbn Abbas r.a.'ın naklettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah İsmail'in annesine (Hacer) merhamet etsin. Eğer zemzemi kendi haline bıraksaydı zemzem bir akarsu olacaktı. Cürhümlüler Mekke'ye gelmişler ve Hacer'den, "Burada konaklamamıza izin verir misin?" demişlerdi. Hacer, "Evet, fakat suda mülkiyet hakkınız yoktur" diye cevap verdi. Bunun üzerine Cürhümlüler "evet" diyerek bu şartı kabul etmişlerdir. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2368</td></tr><tr><td>Arabic No</td><td>2368</td></tr><tr><td>Reference</td><td>Book 42 Hadith 16</td></tr></tbody></table></div>
 

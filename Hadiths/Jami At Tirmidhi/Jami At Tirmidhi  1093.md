@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০৯৩। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, শাওয়াল মাসে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বিয়ে করেছেন এবং বাসর রাতও শাওয়াল মাসেই কাটিয়েছেন। শাওয়াল মাসে আইশা (রাঃ) তার পরিবারের মেয়েদের জন্য বাসর উদযাপনের ইচ্ছা করতেন। – সহীহ, ইবনু মা-জাহ (১৯৯০), মুসলিম এ হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। এটিকে আমরা শুধুমাত্র ইসমাঈল ইবনু উমাইয়্যার সূত্রে যুহরীর বর্ণিত হাদীস হিসেবেই জানি।
+। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, শাওয়াল মাসে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বিয়ে করেছেন এবং বাসর রাতও শাওয়াল মাসেই কাটিয়েছেন। শাওয়াল মাসে আইশা (রাঃ) তার পরিবারের মেয়েদের জন্য বাসর উদযাপনের ইচ্ছা করতেন। – সহীহ, ইবনু মা-জাহ (১৯৯০), মুসলিম এ হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। এটিকে আমরা শুধুমাত্র ইসমাঈল ইবনু উমাইয়্যার সূত্রে যুহরীর বর্ণিত হাদীস হিসেবেই জানি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1093</td></tr><tr><td>Arabic No</td><td>1093</td></tr><tr><td>Reference</td><td>Book 11 Hadith 14</td></tr></tbody></table></div>
 

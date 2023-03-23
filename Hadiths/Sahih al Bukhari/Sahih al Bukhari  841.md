@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময় মুসল্লীগণ ফরজ সালাত শেষ হলে উচ্চস্বরে যিকর করতেন। ইবনু ‘আব্বাস (রাযি.) বলেন, আমি এরূপ শুনে বুঝতাম, মুসল্লীগণ সালাত শেষ করেছেন। (আধুনিক প্রকাশনীঃ৭৯৩, ইসলামিক ফাউন্ডেশনঃ ৮০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময় মুসল্লীগণ ফরজ সালাত শেষ হলে উচ্চস্বরে যিকর করতেন। ইবনু ‘আব্বাস (রাযি.) বলেন, আমি এরূপ শুনে বুঝতাম, মুসল্লীগণ সালাত শেষ করেছেন। (আধুনিক প্রকাশনীঃ৭৯৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>841</td></tr><tr><td>Arabic No</td><td>841</td></tr><tr><td>Reference</td><td>Book 10 Hadith 233</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Nashir] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: மக்கள் கடமையான (ஃபர்ள்) தொழுகையை முடிக்கும்போது சப்தமாக (இறைவனைப் போற்றி) ‘திக்ர்’ செய்யும் நடைமுறை நபி (ஸல்) அவர்களது காலத்தில் இருந்தது. அவ்வாறு மக்கள் கூறக் கேட்டால், அவர்கள் தொழுகையை முடித்துவிட்டார்கள் என்பதை நான் அறிந்துகொள்வேன். அத்தியாயம் : 10
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: மக்கள் கடமையான (ஃபர்ள்) தொழுகையை முடிக்கும்போது சப்தமாக (இறைவனைப் போற்றி) ‘திக்ர்’ செய்யும் நடைமுறை நபி (ஸல்) அவர்களது காலத்தில் இருந்தது. அவ்வாறு மக்கள் கூறக் கேட்டால், அவர்கள் தொழுகையை முடித்துவிட்டார்கள் என்பதை நான் அறிந்துகொள்வேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>841</td></tr><tr><td>Arabic No</td><td>841</td></tr><tr><td>Reference</td><td>Book 10 Hadith 233</td></tr></tbody></table></div>
 

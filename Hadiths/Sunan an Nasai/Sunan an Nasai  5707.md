@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবু বকর ইবন আলী (রহঃ) ... উতবা ইবন ফারকাদ (রহঃ) থেকে বর্ণিত যে, উমর (রাঃ) যে নবীয পান করতেন তা সির্কা বানিয়ে দেওয়া হত। সায়িবের বর্ণিত হাদীস দ্বারা এর বিশুদ্ধতা প্রমাণিত হয়, যা নিম্নরূপঃ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5707</td></tr><tr><td>Arabic No</td><td>5707</td></tr><tr><td>Reference</td><td>Book 51 Hadith 169</td></tr></tbody></table></div>
 

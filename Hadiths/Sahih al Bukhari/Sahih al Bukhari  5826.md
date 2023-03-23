@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ উহুদের দিন আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ডানে ও বামে দু’জন পুরুষ লোককে দেখলাম। তাদের পরনে সাদা পোশাক ছিল। তাদের এর আগেও দেখিনি, আর পরেও দেখিনি। [৪০৫৪] (আধুনিক প্রকাশনী- ৫৪০০, ইসলামিক ফাউন্ডেশন- ৫২৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ উহুদের দিন আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ডানে ও বামে দু’জন পুরুষ লোককে দেখলাম। তাদের পরনে সাদা পোশাক ছিল। তাদের এর আগেও দেখিনি, আর পরেও দেখিনি। [৪০৫৪] (আধুনিক প্রকাশনী- ৫৪০০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5826</td></tr><tr><td>Arabic No</td><td>5826</td></tr><tr><td>Reference</td><td>Book 77 Hadith 43</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போரின்போது நான் நபி (ஸல்) அவர்களின் வலப் பக்கமும் இடப் பக்கமும் வெண்ணிற ஆடைகள் அணிந்த இரு மனிதர்களைப் பார்த்தேன். அதற்கு முன்பும் அவர்களை நான் பார்த்ததில்லை; அதற்குப் பின்பும் அவர்களை நான் பார்க்கவில்லை.47 அத்தியாயம் : 77
+சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போரின்போது நான் நபி (ஸல்) அவர்களின் வலப் பக்கமும் இடப் பக்கமும் வெண்ணிற ஆடைகள் அணிந்த இரு மனிதர்களைப் பார்த்தேன். அதற்கு முன்பும் அவர்களை நான் பார்த்ததில்லை; அதற்குப் பின்பும் அவர்களை நான் பார்க்கவில்லை.47 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5826</td></tr><tr><td>Arabic No</td><td>5826</td></tr><tr><td>Reference</td><td>Book 77 Hadith 43</td></tr></tbody></table></div>
 

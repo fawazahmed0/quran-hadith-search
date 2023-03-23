@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন মুহাম্মাদ (রহঃ) .... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেনঃ সূরা মুযযামমিলের প্রথমাংশ অবতীর্ণ হওয়ার পর সাহাবাগণ রোযার মাসের মত রাত জেগে নামায আদায় করতেন। অতঃপর উক্ত সূরার শেষাংশ অবতীর্ণ হয় এবং সূরা মুযযামমিলের প্রথম ও শেষাংশের অবতীর্ণ হওয়ার মধ্যে সময়ের ব্যবধান ছিল এক বছরের।
+। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, সূরাহ মুযযাম্মিলের প্রথমাংশ অবতীর্ণ হলে মুসলিমরা রমাযান মাসের ন্যায় রাতে দীর্ঘ ক্বিয়াম (সালাত আদায়) করতে লাগলেন। অতঃপর এ সূরাহর শেষাংশ অবতীর্ণ হয়। এ সূরাহর প্রথম ও শেষাংশ অবতীর্ণের মধ্যে এক বছরের ব্যবধান ছিল।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1305</td></tr><tr><td>Arabic No</td><td>1305</td></tr><tr><td>Reference</td><td>Book 5 Hadith 56</td></tr></tbody></table></div>
 

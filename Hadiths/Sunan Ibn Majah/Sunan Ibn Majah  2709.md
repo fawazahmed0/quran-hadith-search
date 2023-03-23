@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৭০৯। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের মৃত্যুর সময়ও তোমাদের মাল থেকে আল্লাহ তা‘আলা এক-তৃতীয়াংশ ওসিয়াত করার অধিকার প্রদান করে তোমাদের নেক আমলের পরিমাণ আরো বাড়ানোর ব্যবস্থা করে দিয়েছেন।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের মৃত্যুর সময়ও তোমাদের মাল থেকে আল্লাহ তা‘আলা এক-তৃতীয়াংশ ওসিয়াত করার অধিকার প্রদান করে তোমাদের নেক আমলের পরিমাণ আরো বাড়ানোর ব্যবস্থা করে দিয়েছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2709</td></tr><tr><td>Arabic No</td><td>2709</td></tr><tr><td>Reference</td><td>Book 22 Hadith 15</td></tr></tbody></table></div>
 

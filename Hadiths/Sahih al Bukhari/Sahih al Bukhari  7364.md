@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জুনদাব ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা কুরআন তিলাওয়াত করতে থাক, যতক্ষণ এর প্রতি তোমাদের হৃদয়ের আকর্ষণ অব্যাহত থাকে। আর যখন তোমাদের মনে বিকর্ষণ দেখা দেয় তখন তাত্থেকে উঠে যাও। আবূ আব্দুল্লাহ্ (বুখারী) (রহ.) বলেন, ‘আবদুর রহমান (রহ.) সাল্লাম থেকে (হাদীসটি) শুনেছেন (সূত্রে) বর্ণিত হয়েছে। [৫০৬০] (আধুনিক প্রকাশনী- ৬৮৫১, ইসলামিক ফাউন্ডেশন- ৬৮৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জুনদাব ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা কুরআন তিলাওয়াত করতে থাক, যতক্ষণ এর প্রতি তোমাদের হৃদয়ের আকর্ষণ অব্যাহত থাকে। আর যখন তোমাদের মনে বিকর্ষণ দেখা দেয় তখন তাত্থেকে উঠে যাও। আবূ আব্দুল্লাহ্ (বুখারী) (রহ.) বলেন, ‘আবদুর রহমান (রহ.) সাল্লাম থেকে (হাদীসটি) শুনেছেন (সূত্রে) বর্ণিত হয়েছে। [৫০৬০] (আধুনিক প্রকাশনী- ৬৮৫১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7364</td></tr><tr><td>Arabic No</td><td>7364</td></tr><tr><td>Reference</td><td>Book 96 Hadith 91</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jundab bin 'Abdullah:Allah's Messenger (ﷺ) said, "Recite (and study) the Qur'an as long as you are in agreement as to its interpretation and meanings, but when you have differences regarding its interpretation and meanings, then you should stop reciting it (for the time being.) (See Hadith No 581, Vol. 6)
+Narrated Jundab bin 'Abdullah:Allah's Messenger (ﷺ) said, "Recite (and study) the Qur'an as long as you are in agreement as to its interpretation and meanings, but when you have differences regarding its interpretation and meanings, then you should stop reciting it (for the time being.) (See Hadith No 581, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7364</td></tr><tr><td>Arabic No</td><td>7364</td></tr><tr><td>Reference</td><td>Book 96 Hadith 91</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] Telah mengabarkan kepada kami [Abdurrahma
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களின் உள்ளங்கள் ஒன்றுபட்டி ருக்கும்வரை குர்ஆனை ஓதுங்கள்! (அதன் கருத்தை அறிவதில்) உங்களிடையே கருத்து வேறுபாடு எழுந்தால் அ(ந்த இடத்)தைவிட்டு எழுந்து (சென்று)விடுங்கள். இதை ஜுன்தப் பின் அப்தில்லாஹ் அல்பஜலீ (ரலி) அவர்கள் அறிவிக் கிறார்கள்.99 அபூஅப்தில்லாஹ் (புகாரீ) கூறுகின்றேன்: இந்த ஹதீஸை அப்துர் ரஹ்மான் பின் மஹ்தீ (ரஹ்) அவர்கள் சல்லாம் பின் முத்தீஉ (ரஹ்) அவர்களிடமிருந்து செவியுற்றார்கள். அத்தியாயம் : 96
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களின் உள்ளங்கள் ஒன்றுபட்டி ருக்கும்வரை குர்ஆனை ஓதுங்கள்! (அதன் கருத்தை அறிவதில்) உங்களிடையே கருத்து வேறுபாடு எழுந்தால் அ(ந்த இடத்)தைவிட்டு எழுந்து (சென்று)விடுங்கள். இதை ஜுன்தப் பின் அப்தில்லாஹ் அல்பஜலீ (ரலி) அவர்கள் அறிவிக் கிறார்கள்.99 அபூஅப்தில்லாஹ் (புகாரீ) கூறுகின்றேன்: இந்த ஹதீஸை அப்துர் ரஹ்மான் பின் மஹ்தீ (ரஹ்) அவர்கள் சல்லாம் பின் முத்தீஉ (ரஹ்) அவர்களிடமிருந்து செவியுற்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7364</td></tr><tr><td>Arabic No</td><td>7364</td></tr><tr><td>Reference</td><td>Book 96 Hadith 91</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন উবায়দ মুহারিবী (রহঃ) ..... আলী ইবন আবী তালিব সূত্রে বর্ণিত। তিনি বলেনঃ তোমরা বেশী দামী কাফন ব্যবহার করবে না। কেননা, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ বেশী দামী কাফন ব্যবহার করবে না। কেননা, তা অতি তাড়াতাড়ি নষ্ট হয়ে যায়।
+। আলী ইবনু তালিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, তোমরা বেশি দামী কাফন ব্যবহার করবে না। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ তোমরা কাফনের জন্য বেশি দামী কাপড় ব্যবহার করো না। কেননা তা শিঘ্রই নষ্ট হয়ে যাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3154</td></tr><tr><td>Arabic No</td><td>3154</td></tr><tr><td>Reference</td><td>Book 21 Hadith 66</td></tr></tbody></table></div>
 

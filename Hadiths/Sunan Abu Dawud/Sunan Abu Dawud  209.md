@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবনু মাসলামা .... আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি মিকদাদকে বললাম … এরপর যুহায়েরের সূত্রে বর্ণিত হাদীছের অনুরূপ অর্থের ছাদীছ বর্ণনা করেন। ইমাম আবূ দাউদ (রহঃ) বলেন, এই হাদীছ আল-মুফাদ্দাল ইবনু ফুদালা, ছাওরী ও ইবনু উয়ায়না- হিশামের সূত্রে, তিনি তাঁর পিতার সূত্রে এবং তিনি আলী (রাঃ) এর সূত্রে বর্ণনা করেন। অনুরূপভাবে এই হাদীছ ইবনু ইসহাক- হিশাম ইবনু উরওয়ার সূত্রে, তিনি তাঁর পিতার সূত্রে, তিনি মিকদাদ (রাঃ) এর সূত্রে এবং তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট থেকে বর্ণনা করেন। (নাসাঈ, ইবনু মাজাহ)। এই বর্ণনা ধারায় (أُنْثَيَيْهِ) বা “অন্ডকোষদ্বয়” শব্দটির উল্লেখ নাই।
+। ‘আলী ইবনু আবূ তালিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি মিক্বদাদ (রাঃ)-কে বললাম, অতঃপর পূর্বোক্ত হাদীসের অনুরূপ। মিক্বদাদ (রাঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সূত্রে অন্য এক বর্ণনায় ‘অন্ডকোষের’ কথা উল্লেখ নেই।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>209</td></tr><tr><td>Arabic No</td><td>209</td></tr><tr><td>Reference</td><td>Book 1 Hadith 209</td></tr></tbody></table></div>
 

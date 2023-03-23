@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হামিদ ইবন ইযাহইয়া (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি শয়নের সময় আল্লাহ্‌র যিকির করে না, কিয়ামতের দিন সে এজন্য আফসোস করবে। আর যে ব্যক্তি কোন স্থানে বসে যদি আল্লাহ্‌র যিকির না করে, তবে সে কিয়ামতের দিন এজন্য লজ্জিত ও অনুতপ্ত হবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি শোয়ার সময় আল্লাহকে স্মরণ করলো না, সে কিয়ামতের দিন বঞ্চিত হবে। আর যে ব্যক্তি কোনো আসনে বসলো অথচ সেখানে সে মহামহিমান্বিত আল্লাহকে স্মরণ করলো না, কিয়ামতের দিন সে বঞ্চিত হবে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5059</td></tr><tr><td>Arabic No</td><td>5059</td></tr><tr><td>Reference</td><td>Book 43 Hadith 287</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৮০০, আন্তর্জাতিক নাম্বারঃ ৮২৩ ১৮০০-(২৮১/...) মুহাম্মদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) .... আবদুল্লাহ ইবনু মাসউদ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শব্দ পাঠ করতেন। (ইসলামী ফাউন্ডেশন ১৭৮৫, ইসলামীক সেন্টার ১৭৯২)
+মুহাম্মদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) .... আবদুল্লাহ ইবনু মাসউদ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম فَهَلْ مِنْ مُدَّكِرٍ শব্দ পাঠ করতেন। (ইসলামী ফাউন্ডেশন ১৭৮৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1915</td></tr><tr><td>Arabic No</td><td>823.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 343</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] -I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (54:32ஆவது வசனத்தின் மூலத்திலுள்ள இத்தொடரை) "ஃபஹல் மின்(ம்) முத்தகிர்" என்றே ஓதினார்கள். இதை அஸ்வத் பின் யஸீத் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 6
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (54:32ஆவது வசனத்தின் மூலத்திலுள்ள இத்தொடரை) "ஃபஹல் மின்(ம்) முத்தகிர்" என்றே ஓதினார்கள். இதை அஸ்வத் பின் யஸீத் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1915</td></tr><tr><td>Arabic No</td><td>823.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 343</td></tr></tbody></table></div>
 

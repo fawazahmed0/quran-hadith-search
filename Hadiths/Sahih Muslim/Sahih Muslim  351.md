@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৪৮, আন্তর্জাতিক নাম্বারঃ ১৩৬ ২৪৮-(২১৭/১৩৬) 'আবদুল্লাহ ইবনু আমির ইবনু যুরারাহ আল হাযরামী (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম থেকে বর্ণনা করেন যে, আল্লাহ তা'আলা বলেছেনঃ আপনার উম্মত সর্বদা এটা কে সৃষ্টি করল। এ ধরনের প্রশ্ন করতে থাকবে। এমনকি এ প্রশ্নও করবে যে, সকল সৃষ্টিই আল্লাহ সৃষ্টি করেছেন, তা হলে আল্লাহকে সৃষ্টি করল কে? (ইসলামিক ফাউন্ডেশনঃ ২৫০, ইসলামিক সেন্টারঃ ২৫৯)
+আবদুল্লাহ ইবনু আমির ইবনু যুরারাহ আল হাযরামী (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম থেকে বর্ণনা করেন যে, আল্লাহ তা'আলা বলেছেনঃ আপনার উম্মত সর্বদা এটা কে সৃষ্টি করল। এ ধরনের প্রশ্ন করতে থাকবে। এমনকি এ প্রশ্নও করবে যে, সকল সৃষ্টিই আল্লাহ সৃষ্টি করেছেন, তা হলে আল্লাহকে সৃষ্টি করল কে? (ইসলামিক ফাউন্ডেশনঃ ২৫০, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>351</td></tr><tr><td>Arabic No</td><td>136.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abdullah bin Amir bin Zurarah al-Hadlrami] telah
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Abdullah b. Amir b. Zürarate'l-Hadramî rivayet etti. Dediki: Bize Muhammed b. Fudayl, Muhtar b. Fulful'den, o da Enes b. Malik'den o da Resulullah (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. Şöyle buyurmuşlar: ''Aziz ve Celil olan Allah buyurdu ki: Senin ümmetin bu nedir, bu nedir deyip duracaklar. Hatta Allah yaratılmışları yarattı. Peki, Allah'ı kim yarattı, diyecekler. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 1580
+Bize Abdullah b. Amir b. Zürarate'l-Hadramî rivayet etti. Dediki: Bize Muhammed b. Fudayl, Muhtar b. Fulful'den, o da Enes b. Malik'den o da Resulullah (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. Şöyle buyurmuşlar: ''Aziz ve Celil olan Allah buyurdu ki: Senin ümmetin bu nedir, bu nedir deyip duracaklar. Hatta Allah yaratılmışları yarattı. Peki, Allah'ı kim yarattı, diyecekler. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>351</td></tr><tr><td>Arabic No</td><td>136.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
 

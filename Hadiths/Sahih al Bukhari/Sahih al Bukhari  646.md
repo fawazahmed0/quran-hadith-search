@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ সা‘ঈদ (রাযি.) হতে বর্ণিত। তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছেন, একাকী সালাত আদায়ের চেয়ে জামা‘আতে সালাত আদায়ের ফাযীলাত পঁচিশ গুণ বেশী। (আধুনিক প্রকাশনীঃ ৬১০, ইসলামিক ফাউন্ডেশনঃ নাই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>646</td></tr><tr><td>Reference</td><td>Book 10 Hadith 43</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தனியாகத் தொழுவதைவிடக் கூட்டாக (ஜமாஅத்தாக)த் தொழுவது இருபத்தைந்து மடங்கு சிறந்ததாகும். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தனியாகத் தொழுவதைவிடக் கூட்டாக (ஜமாஅத்தாக)த் தொழுவது இருபத்தைந்து மடங்கு சிறந்ததாகும். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>646</td></tr><tr><td>Reference</td><td>Book 10 Hadith 43</td></tr></tbody></table></div>
 

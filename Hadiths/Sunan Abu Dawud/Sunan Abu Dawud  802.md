@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবনু আবূ শায়বা ..... আবদুল্লাহ ইবনু আবূ আওফা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম যুহরের নামাযের প্রথম রাকাতে এত দীর্ঘ সময় দড়াতেন যে, কারো (আসার) পদধ্বনি শোনা যেত না।
+। ‘আব্দুল্লাহ ইবনু আবূ ‘আওফা (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহর সালাতের প্রথম রাক‘আতে এত দীর্ঘ সময় দাঁড়িয়ে থাকতেন যে, কারো (আগমনের) পদধ্বনি শোনা যেত না।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>802</td></tr><tr><td>Arabic No</td><td>802</td></tr><tr><td>Reference</td><td>Book 2 Hadith 412</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Ebî Evfa'dan rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) öğle namazının birinci rekatında, ayak sesi duymaz oluncaya kadar kıyamda dururdu. Diğer tahric: Ahmed b. Hanbel, IV, 356
+Abdullah b. Ebî Evfa'dan rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) öğle namazının birinci rekatında, ayak sesi duymaz oluncaya kadar kıyamda dururdu. Diğer tahric: Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>802</td></tr><tr><td>Arabic No</td><td>802</td></tr><tr><td>Reference</td><td>Book 2 Hadith 412</td></tr></tbody></table></div>
 

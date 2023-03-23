@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ (রহঃ) ..... আতা (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ দৈব-দুর্বিপাক ঐ সব ঘটনা, যার ফলে প্রকাশ্য ধ্বংসলীলা অনুষ্ঠিত হয়। যেমন- অতিবৃষ্টি, তুষারপাত, পঙ্গপালের আক্রমণ, প্রলয়ংকরী ঘূর্ণিঝড় বা অগ্নিকান্ড।
+। ‘আতা (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘জায়িহাহ’ বলা হয় এমন প্রাকৃতিক দুর্যোগকে যাতে প্রকাশ্য ক্ষতিসাধন হয়ে থাকে। যেমন অতিবৃষ্টি, তুষারপাত, পঙ্গপালের আক্রমণ, ঝড়, অগ্নিকান্ড ইত্যাদি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3471</td></tr><tr><td>Arabic No</td><td>3471</td></tr><tr><td>Reference</td><td>Book 24 Hadith 56</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইব্‌ন আলা (রহঃ) ..... ওয়ায়েল ইব্‌ন হুজ্‌র (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি নবী রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হই, আর এ সময় আমার মাথার চুল খুবই লম্বা ছিল। তিনি আমাকে দেখে বলেনঃ অশুভ! অমঙ্গলজনক! তিনি বলেনঃ তখন আমি ফিরে আসি এবং চুল কেটে ফেলি। পরদিন আমি যখন তাঁর কাছে আসি, তখন তিনি বলেনঃ আমি তোমার কোন ক্ষতি করিনি, ইহাই উত্তম।
+। ওয়াইল ইবনু হুজর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসতাম। আমার মাথায় লম্বা চুল ছিলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে দেখে বললেনঃ মাছি, মাছি। তিনি বলেন, আমি ফিরে এসে চুল কেটে ফেললাম। পরদিন সকালে আমি তাঁর নিকট গেলে তিনি বললেনঃ আমি তো তোমাকে কষ্ট দেইনি। আর এরূপ (চুল) খুবই চমৎকার![1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4190</td></tr><tr><td>Arabic No</td><td>4190</td></tr><tr><td>Reference</td><td>Book 35 Hadith 32</td></tr></tbody></table></div>
 

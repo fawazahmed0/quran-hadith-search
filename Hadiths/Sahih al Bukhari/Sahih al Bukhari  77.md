@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমূদ ইবনুর-রাবী‘ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমার মনে আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার বালতি থেকে পানি নিয়ে আমার মুখমন্ডলের উপর কুলি করে দিয়েছিলেন, তখন আমি ছিলাম পাঁচ বছরের বালক। (১৮৯, ৮৩৯, ১১৮৫, ৬৩৫৪, ৬৪২২ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ৭৭, ইসলামিক ফাউন্ডেশনঃ ৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মাহমূদ ইবনুর-রাবী‘ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমার মনে আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার বালতি থেকে পানি নিয়ে আমার মুখমন্ডলের উপর কুলি করে দিয়েছিলেন, তখন আমি ছিলাম পাঁচ বছরের বালক। (১৮৯, ৮৩৯, ১১৮৫, ৬৩৫৪, ৬৪২২ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Arabic No</td><td>77</td></tr><tr><td>Reference</td><td>Book 3 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Yusuf] berkata, Telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மஹ்மூத் பின் அர்ரபீஉ (ரலி) அவர்கள் கூறியதாவது: நான் ஐந்து வயது சிறுவனாக இருந்த போது, நபி (ஸல்) அவர்கள் (எங்கள் வீட்டுக் கிணற்றிலிருந்து சேந்திய) ஒரு வாளியிலி ருந்து (தண்ணீரை எடுத்துத் தமது வாயில் வைத்து) என் முகத்தில் ஒரு முறை உமிழ்ந்ததை நான் (இப்போதும்) நினைவில் வைத்திருக்கிறேன். அத்தியாயம் : 3
+மஹ்மூத் பின் அர்ரபீஉ (ரலி) அவர்கள் கூறியதாவது: நான் ஐந்து வயது சிறுவனாக இருந்த போது, நபி (ஸல்) அவர்கள் (எங்கள் வீட்டுக் கிணற்றிலிருந்து சேந்திய) ஒரு வாளியிலி ருந்து (தண்ணீரை எடுத்துத் தமது வாயில் வைத்து) என் முகத்தில் ஒரு முறை உமிழ்ந்ததை நான் (இப்போதும்) நினைவில் வைத்திருக்கிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Arabic No</td><td>77</td></tr><tr><td>Reference</td><td>Book 3 Hadith 19</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepadaku [Muhammad bin Yusuf] berkata, Telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Mahmûd İbnü'r-Rebi' şöyle demiştir: Nebi (sallallahu aleyhi ve sellem)'in ben beş yaşında iken bir kova daki su'dan ağzına alarak yüzüme püskürttüğünü hatırlıyorum. Tekrar: 189, 839, 1185, 6354, 6422
+Mahmûd İbnü'r-Rebi' şöyle demiştir: Nebi (sallallahu aleyhi ve sellem)'in ben beş yaşında iken bir kova daki su'dan ağzına alarak yüzüme püskürttüğünü hatırlıyorum. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Arabic No</td><td>77</td></tr><tr><td>Reference</td><td>Book 3 Hadith 19</td></tr></tbody></table></div>
 

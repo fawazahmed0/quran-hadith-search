@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে (শাসনকর্তা) পাঠালেন এবং তার পশ্চাতে মু‘আয (রাঃ) সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কেও পাঠালেন। [২২৬১] (আধুনিক প্রকাশনী- ৬৬৫৭, ইসলামিক ফাউন্ডেশন- ৬৬৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে (শাসনকর্তা) পাঠালেন এবং তার পশ্চাতে মু‘আয (রাঃ) সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কেও পাঠালেন। [২২৬১] (আধুনিক প্রকাশনী- ৬৬৫৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7156</td></tr><tr><td>Arabic No</td><td>7156</td></tr><tr><td>Reference</td><td>Book 93 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னை (யமன் நாட்டிற்கு நீதி மற்றும் நிர்வாக அதிகாரி யாக) அனுப்பினார்கள். என்னைத் தொடர்ந்து முஆத் (ரலி) அவர்களையும் அனுப்பிவைத்தார்கள்.19 அத்தியாயம் : 93
+அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னை (யமன் நாட்டிற்கு நீதி மற்றும் நிர்வாக அதிகாரி யாக) அனுப்பினார்கள். என்னைத் தொடர்ந்து முஆத் (ரலி) அவர்களையும் அனுப்பிவைத்தார்கள்.19 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7156</td></tr><tr><td>Arabic No</td><td>7156</td></tr><tr><td>Reference</td><td>Book 93 Hadith 20</td></tr></tbody></table></div>
 

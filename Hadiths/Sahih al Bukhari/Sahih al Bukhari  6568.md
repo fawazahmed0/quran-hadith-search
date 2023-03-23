@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তিনি আরও বললেনঃ এক সকাল বা এক বিকাল আল্লাহর পথে চলা দুনিয়া ও তার মাঝের সবকিছুর চেয়ে উত্তম। তোমাদের কারো ধনুক পরিমাণ বা পা রাখার জায়গা পরিমাণ জান্নাতের জায়গা দুনিয়া ও তার মাঝের সবকিছুর চেয়ে উত্তম। জান্নাতের কোন নারী যদি দুনিয়ার প্রতি উঁকি মারে তবে তামাম দুনিয়া আলোকিত ও সুঘ্রাণে পূর্ণ হয়ে যাবে। জান্নাতি নারীর ওড়না দুনিয়া ও তার ভিতরের সব কিছুর চেয়ে উত্তম। [২৭৯২] (আধুনিক প্রকাশনী- ৬১১৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6568</td></tr><tr><td>Arabic No</td><td>6568</td></tr><tr><td>Reference</td><td>Book 81 Hadith 156</td></tr></tbody></table></div>
 

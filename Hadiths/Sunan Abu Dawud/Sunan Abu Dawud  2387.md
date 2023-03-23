@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবন আলী ..... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, জনৈক ব্যক্তি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট রোযা থাকাবস্থায় স্বীয় স্ত্রীর সাথে সহাবস্থান করা সম্পর্কে জিজ্ঞাসা করলে তিনি তাকে এর অনুমতি প্রদান করেন। এরপর অপর এক ব্যক্তি এসে অনুমতি চাইলে তিনি তাঁকে নিষেধ করেন। আর ব্যাপার এই ছিল যে, তিনি যাকে অনুমতি প্রদান করেন সে ছিল বৃদ্ধ, আর যাকে নিষেধ করেন সে ছিল যুবক।
+। আবূ হুরাইরা (রাযি.) সূত্রে বর্ণিত। এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট সওম অবস্থায় স্ত্রীর সাথে একত্রে অবস্থান সম্পর্কে জিজ্ঞেস করলে তিনি তাকে অনুমতি প্রদান করেন। অতঃপর অন্য এক ব্যক্তি এসে অনুরূপ জিজ্ঞেস করলে তিনি তাকে নিষেধ করে দিলেন। বর্ণনাকালী বলেন, তিনি যাকে অনুমতি দিয়েছেন সে ছিলো বৃদ্ধ এবং যাকে নিষেধ করেছেন সে ছিলো যুবক।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2387</td></tr><tr><td>Arabic No</td><td>2387</td></tr><tr><td>Reference</td><td>Book 14 Hadith 75</td></tr></tbody></table></div>
 

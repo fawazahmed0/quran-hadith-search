@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, সমপর্যায়ের ঐ সূরাগুলো সম্পর্কে আমি খুব অবগত আছি, যা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম প্রতি রাক‘আতে জোড়া জোড়া পাঠ করতেন। তারপর ‘আবদুল্লাহ (রাঃ) দাঁড়ালেন এবং ‘আলক্বামাহ (রহ.) তাকে অনুসরণ করলেন। যখন ‘আলক্বামাহ (রহ.) বাড়ি থেকে বেরিয়ে আসলেন তখন আমরা তাকে জিজ্ঞেস করলাম। তিনি বললেন, এগুলো হচ্ছে মোট বিশটি সূরা, ইবনু মাস‘ঊদ (রাঃ)-এর সংকলন মুতাবিক মুফাস্সাল থেকে যার শুরু এবং যার শেষ হচ্ছে الْحَوَامِيْمُ অর্থাৎ ‘হামীম’ ‘আদ্দুখান’ এবং ‘আম্মা ইয়াতাসা আলুন’। [৭৭৫] (আধুনিক প্রকাশনীঃ ৪৬২৫, ইসলামিক ফাউন্ডেশনঃ ৪৬৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, সমপর্যায়ের ঐ সূরাগুলো সম্পর্কে আমি খুব অবগত আছি, যা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম প্রতি রাক‘আতে জোড়া জোড়া পাঠ করতেন। তারপর ‘আবদুল্লাহ (রাঃ) দাঁড়ালেন এবং ‘আলক্বামাহ (রহ.) তাকে অনুসরণ করলেন। যখন ‘আলক্বামাহ (রহ.) বাড়ি থেকে বেরিয়ে আসলেন তখন আমরা তাকে জিজ্ঞেস করলাম। তিনি বললেন, এগুলো হচ্ছে মোট বিশটি সূরা, ইবনু মাস‘ঊদ (রাঃ)-এর সংকলন মুতাবিক মুফাস্সাল থেকে যার শুরু এবং যার শেষ হচ্ছে الْحَوَامِيْمُ অর্থাৎ ‘হামীম’ ‘আদ্দুখান’ এবং ‘আম্মা ইয়াতাসা আলুন’। [৭৭৫] (আধুনিক প্রকাশনীঃ ৪৬২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 66 Hadith 18</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Shaqiq:'Abdullah said, "I learnt An-Naza'ir which the Prophet (ﷺ) used to recite in pairs in each rak'a." Then 'Abdullah got up and Alqama accompanied him to his house, and when Alqama came out, we asked him (about those Suras). He said, "They are twenty Suras that start from the beginning of Al- Mufassal, according to the arrangement done be Ibn Mas'ud, and end with the Suras starting with Ha Mim, e.g. Ha Mim (the Smoke). and "About what they question one another?" (78.1)
+Narrated Shaqiq:'Abdullah said, "I learnt An-Naza'ir which the Prophet (ﷺ) used to recite in pairs in each rak'a." Then 'Abdullah got up and Alqama accompanied him to his house, and when Alqama came out, we asked him (about those Suras). He said, "They are twenty Suras that start from the beginning of Al- Mufassal, according to the arrangement done be Ibn Mas'ud, and end with the Suras starting with Ha Mim, e.g. Ha Mim (the Smoke). and "About what they question one another?
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 66 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூவாயில் ஷகீக் பின் சலமா (ரஹ்) அவர்கள் கூறியதாவது: ‘‘நபி (ஸல்) அவர்கள் தமது தொழுகையில் ஒவ்வொரு ரக்அத்திலும் இரண்டிரண்டாக ஓதிவந்த சரிநிகர் அத்தியாயங்களை நான் கற்றுள்ளேன்” என அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறினார்கள். (இதைக் கூறிய) பிறகு, அப்துல்லாஹ் (ரலி) அவர்கள் எழுந்து (தமது இல்லத்தினுள்) சென்றார்கள். அவர்களுடன் அல்கமா பின் கைஸ் அந்நகஈ (ரஹ்) அவர்களும் உள்ளே சென்றார்கள். (சிறிது நேரம் கழித்து) அல்கமா (ரஹ்) அவர்கள் வெளியே வந்தார்கள். நாங்கள் அவர்களிடம் அது குறித்துக் கேட்டோம். அதற்கு அவர்கள், ‘‘அவை, இப்னு மஸ்ஊத் (ரலி) அவர்கள் (தொகுத்துவைத்துள்ள) குர்ஆன் பிரதியின்படி ஆரம்ப இருபது ‘முஃபஸ்ஸல்’ அத்தியாயங்களாகும். அவற்றின் கடைசி அத்தியாயங்கள் ‘ஹாமீம்’ அத்தியாயங்களாகும். ‘ஹாமீம் அத்துகான்’ மற்றும் ‘அம்ம யத்தசாஅலூன’ ஆகியனவும் அவற்றில் அடங்கும்” என்று சொன்னார்கள்.23 அத்தியாயம் : 66
+அபூவாயில் ஷகீக் பின் சலமா (ரஹ்) அவர்கள் கூறியதாவது: ‘‘நபி (ஸல்) அவர்கள் தமது தொழுகையில் ஒவ்வொரு ரக்அத்திலும் இரண்டிரண்டாக ஓதிவந்த சரிநிகர் அத்தியாயங்களை நான் கற்றுள்ளேன்” என அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறினார்கள். (இதைக் கூறிய) பிறகு, அப்துல்லாஹ் (ரலி) அவர்கள் எழுந்து (தமது இல்லத்தினுள்) சென்றார்கள். அவர்களுடன் அல்கமா பின் கைஸ் அந்நகஈ (ரஹ்) அவர்களும் உள்ளே சென்றார்கள். (சிறிது நேரம் கழித்து) அல்கமா (ரஹ்) அவர்கள் வெளியே வந்தார்கள். நாங்கள் அவர்களிடம் அது குறித்துக் கேட்டோம். அதற்கு அவர்கள், ‘‘அவை, இப்னு மஸ்ஊத் (ரலி) அவர்கள் (தொகுத்துவைத்துள்ள) குர்ஆன் பிரதியின்படி ஆரம்ப இருபது ‘முஃபஸ்ஸல்’ அத்தியாயங்களாகும். அவற்றின் கடைசி அத்தியாயங்கள் ‘ஹாமீம்’ அத்தியாயங்களாகும். ‘ஹாமீம் அத்துகான்’ மற்றும் ‘அம்ம யத்தசாஅலூன’ ஆகியனவும் அவற்றில் அடங்கும்” என்று சொன்னார்கள்.23 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 66 Hadith 18</td></tr></tbody></table></div>
 

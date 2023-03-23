@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... কাবীসা (রহঃ) তাঁর পিতা থেকে বর্ণনা করেন। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরূপ বলতে শুনেছি যে, জ্যোতিষীদের মাটিতে দাগ কেটে যাত্রা শুভ-অশুভ নির্ধারণের কথায় বিশ্বাস করা, ভাল-মন্দ নির্ণয়ের জন্য লটারীর ব্যবস্থা করা, কুফরী রসমরিওয়াজের অন্তর্ভুক্ত।
+। কাতান ইবনু কাবীসাহ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ পাখীর সাহায্যে ভাল-মন্দ নির্ণয় করা, কোনো কিছুকে অশুভ লক্ষণ ভাবা এবং মাটিতে রেখা টেনে শুভ-অশুভ নির্ণয় কুফরী। ‘আত-তারক; হচ্ছে কংকর নিক্ষেপ করে অশুভ লক্ষণ নির্ণয় করা। ‘আল-ইয়াফা’ হচ্ছে মাটিতে দাগ টেনে শুভ-অশুভ নির্ণয় করা।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3907</td></tr><tr><td>Arabic No</td><td>3907</td></tr><tr><td>Reference</td><td>Book 30 Hadith 4</td></tr></tbody></table></div>
 

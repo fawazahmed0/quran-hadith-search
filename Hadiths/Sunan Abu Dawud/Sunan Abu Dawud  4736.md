@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসমাঈল ইবন উমার (রহঃ) ..... আমির ইবন শাহ (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি নাজ্জাশী বাদশার নিকটে উপস্থিত ছিলাম। এ সময় তার এক ছেলে ইনজীলের একটি আয়াত পাঠ করলে, আমার হাসি পায়। তখন বাদশাহ আমাকে বলেনঃ কি ব্যাপার, তুমি আল্লাহ্‌র কালাম শুনে হাসছো?
+। আমির ইবনু শাহর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নাজ্জাসীর নিকট উপস্থিত ছিলাম। তখন তার এক ছেলে ইঞ্জীলের একটি আয়াত পড়লে আমি হাসলাম। তিনি বললেন, তুমি কি মহান আল্লাহর বাণী শুনে হাসছো![1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4736</td></tr><tr><td>Arabic No</td><td>4736</td></tr><tr><td>Reference</td><td>Book 42 Hadith 141</td></tr></tbody></table></div>
 

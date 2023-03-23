@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২৯১, আন্তর্জাতিক নাম্বারঃ ২৭৪৮ ৭২৯১-(.../...) আবূ কামিল (রহঃ) ..... হাম্মদ (রহঃ) হতে এ সূত্রে অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭১৩৩, ইসলামিক সেন্টার ৭১৮৬)
+আবূ কামিল (রহঃ) ..... হাম্মদ (রহঃ) হতে এ সূত্রে অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭১৩৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7401</td></tr><tr><td>Arabic No</td><td>2948.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 162</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন আবদুর রহমান (রহঃ) .... আনাস ইবন মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি নিজের পিতাকে বাদ দিয়ে অন্যকে পিতা বানায় অথবা নিজের মনিবকে বাদ দিয়ে অন্যকে মনিব বানায়, সে ব্যক্তির উপর কিয়ামত পর্যন্ত একাধারে লা'নত বর্ষিত হবে।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি তার পিতার বংশ পরিচয় বাদ দিয়ে অন্য বংশের হওয়ার দাবি করে অথবা নিজের প্রকৃত অভিভাবক পরিবারকে বাদ দিয়ে অন্যের পরিচয়ে নিজেকে পরিচিত করে, তার উপর আল্লাহর পক্ষ থেকে কিয়ামত পর্যন্ত অবিরাম অভিশাপ বর্ষিত হতে থাকবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>5115</td></tr><tr><td>Reference</td><td>Book 43 Hadith 343</td></tr></tbody></table></div>
 

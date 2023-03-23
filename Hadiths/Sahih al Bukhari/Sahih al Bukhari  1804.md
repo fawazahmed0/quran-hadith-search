@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেন, সফর ‘আযাবের অংশ বিশেষ। তা তোমাদের যথাসময় পানাহার ও নিদ্রায় ব্যঘাত ঘটায়। কাজেই সকলেই যেন নিজের প্রয়োজন মিটিয়ে অবিলম্বে আপন পরিজনের কাছে ফিরে যায়। (৩০০১, ৫৪২৯, মুসলিম ৩৩/৫৫, হাঃ ১৯২৭, আহমাদ ৭২২৯) (আধুনিক প্রকাশনীঃ ১৬৭৫. ইসলামিক ফাউন্ডেশনঃ ১৬৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেন, সফর ‘আযাবের অংশ বিশেষ। তা তোমাদের যথাসময় পানাহার ও নিদ্রায় ব্যঘাত ঘটায়। কাজেই সকলেই যেন নিজের প্রয়োজন মিটিয়ে অবিলম্বে আপন পরিজনের কাছে ফিরে যায়। (৩০০১, ৫৪২৯, মুসলিম ৩৩/৫৫, হাঃ ১৯২৭, আহমাদ ৭২২৯) (আধুনিক প্রকাশনীঃ ১৬৭৫. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1804</td></tr><tr><td>Arabic No</td><td>1804</td></tr><tr><td>Reference</td><td>Book 26 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: பயணம் வேதனையில் ஒரு பகுதி யாகும். அது உங்களில் ஒருவரது உணவையும் பானத்தையும் உறக்கத்தை யும் தடுத்துவிடுகிறது. எனவே, ஒருவர் தமது தேவையை முடித்ததும் தம் குடும்பத்தாரிடம் விரைந்து செல்லட்டும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 26
+நபி (ஸல்) அவர்கள் கூறினார்கள்: பயணம் வேதனையில் ஒரு பகுதி யாகும். அது உங்களில் ஒருவரது உணவையும் பானத்தையும் உறக்கத்தை யும் தடுத்துவிடுகிறது. எனவே, ஒருவர் தமது தேவையை முடித்ததும் தம் குடும்பத்தாரிடம் விரைந்து செல்லட்டும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1804</td></tr><tr><td>Arabic No</td><td>1804</td></tr><tr><td>Reference</td><td>Book 26 Hadith 29</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. Nebi Sallallahu Aleyhi ve Sellem'den şunu nakletmiştir: "Yolculuk azab'tan bir parçadır; siz'den birinin yemeğine, içmesine ve uyumasına engel olur. Kişi ihtiyacını görünce ailesine dönmekte acele etsin". Tekrar: 3001, 5429
+Ebu Hureyre r.a. Nebi Sallallahu Aleyhi ve Sellem'den şunu nakletmiştir: "Yolculuk azab'tan bir parçadır; siz'den birinin yemeğine, içmesine ve uyumasına engel olur. Kişi ihtiyacını görünce ailesine dönmekte acele etsin". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1804</td></tr><tr><td>Arabic No</td><td>1804</td></tr><tr><td>Reference</td><td>Book 26 Hadith 29</td></tr></tbody></table></div>
 

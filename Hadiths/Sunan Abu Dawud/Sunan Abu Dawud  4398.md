@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবূ শায়রা (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিন ব্যক্তি হতে কলম উঠিয়ে নেওয়া হয়েছে (অর্থাৎ যাদের ভাল-মন্দ আসল লেখা হয় না)। এরা হলোঃ (১) নিদ্রিত ব্যক্তি- যতক্ষণ না সে জাগরিত হয়। (২) পাগল ব্যক্তি- যতক্ষন না সুস্থ হয় এবং (৩) নাবালক ছেলে মেয়ে- যতক্ষণ না তারা বয়োপ্রাপ্ত হয়।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তিন ধরণের লোকের উপর থেকে কলম উঠিয়ে নেয়া হয়েছেঃ (১) নিদ্রিত ব্যক্তি, যতক্ষণ না জাগ্রত হয়, (২) অসুস্থ (পাগল) ব্যক্তি, যতক্ষণ না আরোগ্য লাভ করে এবং (৩) অপ্রাপ্ত বয়স্ক বালক, যতক্ষণ না বালেগ হয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4398</td></tr><tr><td>Arabic No</td><td>4398</td></tr><tr><td>Reference</td><td>Book 40 Hadith 48</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'dan rivayet edildiğine göre, Rasulullah (s.a.v.) şöyle buyurmuştur: "Üç gruptan kalem kaldırılmıştır: Uyanıncaya kadar uyuyandan, iyileşinceye kadar cinnet getirenden ve büyüyünceye kadar çocuktan" Tahric edenler: İbn Mace. talak; Ahmed b. Hanbel, I, 155, 158, VI, 144
+Aişe (r.anha)'dan rivayet edildiğine göre, Rasulullah (s.a.v.) şöyle buyurmuştur: "Üç gruptan kalem kaldırılmıştır: Uyanıncaya kadar uyuyandan, iyileşinceye kadar cinnet getirenden ve büyüyünceye kadar çocuktan" Tahric edenler: İbn Mace. talak; Ahmed b. Hanbel, I, 155, 158, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4398</td></tr><tr><td>Arabic No</td><td>4398</td></tr><tr><td>Reference</td><td>Book 40 Hadith 48</td></tr></tbody></table></div>
 

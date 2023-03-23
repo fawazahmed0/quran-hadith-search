@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনে হাম্বল (রহঃ) ..... আবু হুরায়রা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন। তিনি বলেন, নামাযে এবং সালামে কোন ক্ষতি নেই। রাবী আহমদ ইবনে হাম্বল বলেন, এর অর্থ এই যে, তুমি কাউকে সালাম প্রদান করলে এবং সে উত্তর না দিলে তোমার কোন ক্ষতি নেই। অপর দিকে ধোঁকা হল এই যে, নামাযী ব্যক্তি কত রাকাত নামায আদায় করেছে তাতে সন্দিহান, এতেও কোন ক্ষতি নেই।
+। আবূ হুরাইরাহ (রাঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সূত্রে বর্ণিত। তিনি বলেনঃ সালাতে এবং সালামে কোন লোকসান নেই। ইমাম আহমাদ (রহঃ) বলেন, আমার মতে এর অর্থ হচ্ছেঃ তুমি কাউকে সালাম প্রদান করলে সে এর জবাব না দিলেও তোমার কোন ক্ষতি বা লোকসান নেই। বরং ধোঁকা বা ক্ষতি হলো, কোন ব্যক্তির সন্দিহান মন নিয়ে সালাত শেষ করা।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>928</td></tr><tr><td>Arabic No</td><td>928</td></tr><tr><td>Reference</td><td>Book 2 Hadith 539</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre (r.a.)'ın rivayetine göre; Nebi (s.a.v.) "Namazda noksanlık yapmak ve selam vermek (caiz) olmaz" buyurmuştur. Ahmed (b. Hanbel) dedi ki: Bana göre (bu hadisin) mânâsı, "Namazda selâm verme sana da selâm verilmesin. Kişi namazını eksik kılar, sonra da namazından şüpheli olarak çıkar" demektir. Diğer tahric: Ahmed b. Hanbel, II, 461
+Ebû Hureyre (r.a.)'ın rivayetine göre; Nebi (s.a.v.) "Namazda noksanlık yapmak ve selam vermek (caiz) olmaz" buyurmuştur. Ahmed (b. Hanbel) dedi ki: Bana göre (bu hadisin) mânâsı, "Namazda selâm verme sana da selâm verilmesin. Kişi namazını eksik kılar, sonra da namazından şüpheli olarak çıkar" demektir. Diğer tahric: Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>928</td></tr><tr><td>Arabic No</td><td>928</td></tr><tr><td>Reference</td><td>Book 2 Hadith 539</td></tr></tbody></table></div>
 

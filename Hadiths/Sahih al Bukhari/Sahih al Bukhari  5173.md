@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَلَمْ يُوَقَّتِ النَّبِيُّ صلى الله عليه وسلم يَوْمًا وَلاَ يَوْمَيْنِ. কেননা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ওয়ালীমার সময় এক বা দু’ দিন ধার্য করেননি ৫১৭৩. ‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কাউকে ওয়ালীমার দাওয়াত করা হলে তা অবশ্যই গ্রহণ করবে। [৫১৭৯; মুসলিম ১৬/১৫, হাঃ ১৪২৯, আহমাদ ৪৯৪৯] (আধুনিক প্রকাশনী- ৪৭৯২, ইসলামিক ফাউন্ডেশন- ৪৭৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَلَمْ يُوَقَّتِ النَّبِيُّ صلى الله عليه وسلم يَوْمًا وَلاَ يَوْمَيْنِ. কেননা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ওয়ালীমার সময় এক বা দু’ দিন ধার্য করেননি ৫১৭৩. ‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কাউকে ওয়ালীমার দাওয়াত করা হলে তা অবশ্যই গ্রহণ করবে। [৫১৭৯; মুসলিম ১৬/১৫, হাঃ ১৪২৯, আহমাদ ৪৯৪৯] (আধুনিক প্রকাশনী- ৪৭৯২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 67 Hadith 108</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bih Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் வலீமா (மண) விருந்துக்கு அழைக்கப்பட்டால் அதை ஏற்றுச் செல்லட்டும்! இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 67
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் வலீமா (மண) விருந்துக்கு அழைக்கப்பட்டால் அதை ஏற்றுச் செல்லட்டும்! இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 67 Hadith 108</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হাজ্জাজ ইবনু মিনহাল (রহ.) বলেন, জারীর ইবনু হাযিম (রহ.) আমাদের হাদীস শুনিয়েছেন হাসান (রহ.) হতে, তিনি বলেন, জুনদাব (রাঃ) এই মসজিদে আমাদের হাদীস শুনিয়েছেন, আর তা আমরা ভুলে যাইনি এবং আমরা এ আশঙ্কাও করিনি যে, জুনদাব (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নামে মিথ্যা বলেছেন। তিনি বলেছেন, এক ব্যক্তির (দেহে) যখম ছিল, সে আত্মহত্যা করল। তখন আল্লাহ্ তা‘আলা বললেন, আমার বান্দা তার প্রাণ নিয়ে আমার সাথে তাড়াহুড়া করল। আমি তার জন্য জান্নাত হারাম করে দিলাম। [1] (৩৪৬৩) (ইসলামিক ফাউন্ডেশনঃ ১২৮০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1363</td></tr><tr><td>Arabic No</td><td>1363</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sabit İbn Dahhak Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Bilerek yalan yere İslam'dan başka bir millet (din) üzerine yemin eden kişi dediği gibi olur. Keskin bir aletle kendisini öldüren kimse de cehennem ateşinde o aletle azap görür. Tekrar; 4171, 4843, 6047, 6105, 6652
+Sabit İbn Dahhak Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Bilerek yalan yere İslam'dan başka bir millet (din) üzerine yemin eden kişi dediği gibi olur. Keskin bir aletle kendisini öldüren kimse de cehennem ateşinde o aletle azap görür. Tekrar;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1363</td></tr><tr><td>Arabic No</td><td>1363</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ২. সাঈদ ইবন মুসায়্যাব (রহঃ) বর্ণনা করেন- জুল-হুলায়ফা নামক স্থানে আসমা বিনত উমাইসের গর্ভে আবূ বকর (রাঃ)-এর পুত্র মুহাম্মদের জন্ম হয়। আবু বকর (রাঃ) তখন আসমাকে গোসল করিয়া ইহরাম বাধিয়া নিতে নির্দেশ দেন।[1]
+রেওয়ায়ত ২. সাঈদ ইবন মুসায়্যাব (রহঃ) বর্ণনা করেন- জুল-হুলায়ফা নামক স্থানে আসমা বিনত উমাইসের গর্ভে আবূ বকর (রাঃ)-এর পুত্র মুহাম্মদের জন্ম হয়। আবু বকর (রাঃ) তখন আসমাকে গোসল করিয়া ইহরাম বাধিয়া নিতে নির্দেশ দেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>706</td></tr><tr><td>Arabic No</td><td>706</td></tr><tr><td>Reference</td><td>Book 20 Hadith 2</td></tr></tbody></table></div>
 

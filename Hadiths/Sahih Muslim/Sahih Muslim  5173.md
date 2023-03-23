@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫০৬৭, আন্তর্জাতিক নাম্বারঃ ১৯৯৫ ৫০৬৭-(৩৬/...) সাঈদ ইবনু আমর আশ'আসী (রহঃ) ..... আয়িশাহ্ (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুব্বা ও মুযাফফাত হতে বারণ করেছেন। (ইসলামিক ফাউন্ডেশন ৫০০৪, ইসলামিক সেন্টার ৫০১৪)
+সাঈদ ইবনু আমর আশ'আসী (রহঃ) ..... আয়িশাহ্ (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুব্বা ও মুযাফফাত হতে বারণ করেছেন। (ইসলামিক ফাউন্ডেশন ৫০০৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>1995.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 47</td></tr></tbody></table></div>
 

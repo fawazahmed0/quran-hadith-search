@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। হারুন ইবনু আব্দুল্লাহ এবং আব্দুর রহমান ইবনু মুহাম্মাদ (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে মাররুজ জাহরান নামক স্থানে কিছু খানা নিয়ে আসা হলে তিনি আবূ বকর (রাঃ) এবং উমর (রাঃ)-কে বললেন, তোমরা দু’জন কাছে এসো এবং খাও। তাঁরা উভয়ে বললেন, আমরা সাওম (রোযা/রোজা/সিয়াম/ছিয়াম) পালন করছি। তখন তিনি বললেন, তোমাদের সাথীদ্বয়ের জন্য হাওদা প্রস্তুত কর এবং তাদেরকে সহযোগিতা কর।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2264</td></tr><tr><td>Arabic No</td><td>2264</td></tr><tr><td>Reference</td><td>Book 22 Hadith 175</td></tr></tbody></table></div>
 

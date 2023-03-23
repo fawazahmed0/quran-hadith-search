@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... আবদুল্লাহ ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন ব্যক্তিকে খাদ্য-শস্য ক্রয়ের পর তা হস্তগত করার আগে ঐ খাদ্য-শস্য বিক্রয় করতে নিষেধ করেছেন, যা সে মেপে বা ওযন করে ক্রয় করেছে।
+। ‘আব্দুল্লাহ ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোনো ব্যক্তিকে নির্দিষ্ট পরিমাপে খাদ্যশস্য কেনার পর তা হস্তগত করার পূর্বে পুনরায় বিক্রি করতে নিষেধ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3495</td></tr><tr><td>Arabic No</td><td>3495</td></tr><tr><td>Reference</td><td>Book 24 Hadith 80</td></tr></tbody></table></div>
 

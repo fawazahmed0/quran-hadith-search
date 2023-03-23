@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩১৬৪, আন্তর্জাতিক নাম্বারঃ ১৩৪১ ৩১৬৪-(.../...) আবূ রবী আয যাহরানী (রহঃ) ..... আমর ইবনু দীনার (রহঃ) থেকে এ সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩১৩৯, ইসলামীক সেন্টার ৩১৩৭)
+আবূ রবী আয যাহরানী (রহঃ) ..... আমর ইবনু দীনার (রহঃ) থেকে এ সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩১৩৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3273</td></tr><tr><td>Arabic No</td><td>1341.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 477</td></tr></tbody></table></div>
 

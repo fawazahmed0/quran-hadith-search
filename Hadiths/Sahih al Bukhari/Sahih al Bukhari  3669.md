@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+এবং আবূ বাকর (রাঃ) লোকেদেরকে সত্য সঠিক পথের সন্ধান দিয়েছেন। হক ও ন্যায়ের পথ নির্দেশ করেছেন, তাদের দায়িত্ব ও কর্তব্য স্মরণ করিয়ে দিয়েছেন। অতঃপর সহাবাগণ এ আয়াত পড়তে পড়তে চলে গেলেনঃ ‘‘মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একজন রাসূল মাত্র। তাঁর পূর্বে বহু রাসূল গত হয়েছেন.....কৃতজ্ঞ বান্দাদের।’’ (আলু ‘ইমরানঃ ১৪৪) (১২৪২) (আধুনিক প্রকাশনীঃ ৩৩৯৫ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৩৪০২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aisha said (in another narration), ("When the Prophet (ﷺ) was on his death-bed) he looked up and said thrice, (Amongst) the Highest Companion (See Qur'an 4.69)' Aisha said, Allah benefited the people by their two speeches. 'Umar frightened the people some of whom were hypocrites whom Allah caused to abandon Islam because of 'Umar's speech. Then Abu Bakr led the people to True Guidance and acquainted them with the right path they were to follow so that they went out reciting:-- "Muhammad is no more than an Apostle and indeed many Apostles have passed away before him.." (3.144)
+Aisha said (in another narration), ("When the Prophet (ﷺ) was on his death-bed) he looked up and said thrice, (Amongst) the Highest Companion (See Qur'an 4.69)' Aisha said, Allah benefited the people by their two speeches. 'Umar frightened the people some of whom were hypocrites whom Allah caused to abandon Islam because of 'Umar's speech. Then Abu Bakr led the people to True Guidance and acquainted them with the right path they were to follow so that they went out reciting:-- "Muhammad is no more than an Apostle and indeed many Apostles have passed away before him
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

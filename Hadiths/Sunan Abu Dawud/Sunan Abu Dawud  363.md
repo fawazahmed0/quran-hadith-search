@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... আদী ইবনু দ্বীনার (রহঃ) থেকে বর্ণিত। উম্মে কায়েস (রাঃ) বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে হায়েযের রক্ত কাপড়ে লাগলে কি করতে হবে তা জিজ্ঞাসা করি তিনি বলেনঃ প্রথমে একখন্ড কাঠ দিয়ে তা খুঁচবে অতঃপর কুলপাতা মিশ্রিত পানি দিয়ে ধৌত করবে।
+। ‘আদী ইবনু দীনার (রহঃ) বলেন, উম্মু ক্বায়িস বিনতু মিহসান (রাঃ)-কে আমি বলতে শুনেছি, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট জিজ্ঞেস করলাম, কাপড়ে হায়িযের রক্ত লেগে গেলে কি করতে হবে? তিনি বললেনঃ কাঠের টুকরা দিয়ে তা (খুঁচে) দূর করে বড়ই পাতা মিশানো পানি দিয়ে ধুয়ে ফেলবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>363</td></tr><tr><td>Arabic No</td><td>363</td></tr><tr><td>Reference</td><td>Book 1 Hadith 363</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmu Kays binti Mihsan şöyle demiştir: "Resulullah (Sallallahu aleyhi ve Sellem)'e elbisede olan hayz kanını(n hükmünü) sordum. "Onu bir çubuk ile kazı, su ve sidr ile yıka','buyurdu. Diğer tahric: Nesai, tahare; hayz; İbn Mace, tahare; Darimî, vudu; Ahmed b. Hanbel, VI, 355, 356
+Ümmu Kays binti Mihsan şöyle demiştir: "Resulullah (Sallallahu aleyhi ve Sellem)'e elbisede olan hayz kanını(n hükmünü) sordum. "Onu bir çubuk ile kazı, su ve sidr ile yıka','buyurdu. Diğer tahric: Nesai, tahare; hayz; İbn Mace, tahare; Darimî, vudu; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>363</td></tr><tr><td>Arabic No</td><td>363</td></tr><tr><td>Reference</td><td>Book 1 Hadith 363</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন মুহাম্মাদ (রহঃ) ..... জাবের ইবন্ সামুরা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট এমন সময় আগমন করেন, যখন লোকেরা নামাযের মধ্যে তাদের হাত উপরের দিক উঠিয়ে ছিল। এতদদর্শনে তিনি বলেনঃ আমি এটা কি দেখেছি? মনে হয় যেন তোমরা তোমাদের হস্তদ্বয়কে ঘোড়ার লেজের মত মশা-মাছি বিতাড়নের জন্য আন্দোলিত করছ? তোমরা নামাযের মধ্যে শান্ত থাকবে। (মুসলিম, নাসাঈ)।
+। জাবির ইবনু সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট আসলেন। এ সময় লোকেরা হাত উত্তোলিত অবস্থায় ছিল। আ‘মাশের বর্ণনায় রয়েছেঃ ‘‘সালাতরত অবস্থায়’’। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ কি ব্যাপার! আমি তোমাদের দুষ্ট ঘোড়ার লেজের ন্যায় হাত উঠানো অবস্থায় দেখছি। তোমরা সালাতে ধীরস্থির থাকো।[1] সহীহ : মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 2 Hadith 611</td></tr></tbody></table></div>
 

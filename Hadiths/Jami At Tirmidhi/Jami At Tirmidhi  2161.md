@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২১৬১। সাইব ইবনু ইয়াযীদ (রাঃ) হতে বর্ণিত, তিনি বলেন, ইয়াযীদ (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে বিদায় হাজ্জ পালন করেন, আমি সে সময় সাত বছরের বালক ছিলাম। আলী ইবনুল মাদীনী ইয়াহইয়া ইবনু সাঈদ আল-কাত্তান (রাহঃ)-এর সূত্রে বলেন, হাদীস শাস্ত্রে মুহাম্মাদ ইবনু ইউসুফ একজন বিশ্বস্ত বর্ণনাকারী। সাইব ইবনু ইয়াযীদ তার নানা ছিলেন। মুহাম্মাদ ইউসুফ বলতেন সাইব ইবনু ইয়াযীদ আমার নিকট হাদীস বর্ণনা করেছেন এবং তিনি আমার নানা হন। সনদ হাসান, মাওকুফ।
+। সাইব ইবনু ইয়াযীদ (রাঃ) হতে বর্ণিত, তিনি বলেন, ইয়াযীদ (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে বিদায় হাজ্জ পালন করেন, আমি সে সময় সাত বছরের বালক ছিলাম। আলী ইবনুল মাদীনী ইয়াহইয়া ইবনু সাঈদ আল-কাত্তান (রাহঃ)-এর সূত্রে বলেন, হাদীস শাস্ত্রে মুহাম্মাদ ইবনু ইউসুফ একজন বিশ্বস্ত বর্ণনাকারী। সাইব ইবনু ইয়াযীদ তার নানা ছিলেন। মুহাম্মাদ ইউসুফ বলতেন সাইব ইবনু ইয়াযীদ আমার নিকট হাদীস বর্ণনা করেছেন এবং তিনি আমার নানা হন। সনদ হাসান, মাওকুফ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2161</td></tr><tr><td>Arabic No</td><td>2161</td></tr><tr><td>Reference</td><td>Book 33 Hadith 4</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Qutaibah]; telah menceritakan kepada kami [Hatim
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sâib b. Yezîd’den rivâyete göre, şöyle demiştir: Yezîd; Nebi (s.a.v.) ile birlikte veda haccında haccetmişti. Ben ise yedi yaşındaydım. Diğer tahric: Buhârî, Hac Tirmizî: Ali b. el Medînî, Yahya b. Saîd el Kattan’dan aktararak şöyle diyor: Bu hadisi rivâyet eden Muhammed b. Yusuf sağlam bir kimsedir. Sâib b. Yezîd onun dedesidir. Muhammed b. Yusuf diyor ki: Anne tarafından dedem olan Sâib b. Yezîd’in bana rivâyet ettiğine göre. (Müslim, Birr ve Sıla: 35)
+Sâib b. Yezîd’den rivâyete göre, şöyle demiştir: Yezîd; Nebi (s.a.v.) ile birlikte veda haccında haccetmişti. Ben ise yedi yaşındaydım. Diğer tahric: Buhârî, Hac Tirmizî: Ali b. el Medînî, Yahya b. Saîd el Kattan’dan aktararak şöyle diyor: Bu hadisi rivâyet eden Muhammed b. Yusuf sağlam bir kimsedir. Sâib b. Yezîd onun dedesidir. Muhammed b. Yusuf diyor ki: Anne tarafından dedem olan Sâib b. Yezîd’in bana rivâyet ettiğine göre. (Müslim, Birr ve Sıla:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2161</td></tr><tr><td>Arabic No</td><td>2161</td></tr><tr><td>Reference</td><td>Book 33 Hadith 4</td></tr></tbody></table></div>
 

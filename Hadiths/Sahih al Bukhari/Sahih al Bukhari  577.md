@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আমার পরিবার-পরিজনের সঙ্গে সাহারী খেতাম। খাওয়ার পরে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে ফজরের সালাত পাওয়ার জন্য আমাকে খুব তাড়াহুড়া করতে হতো। (১৯২০) (আধুনিক প্রকাশনীঃ ৫৪৩, ইসলামিক ফাউন্ডেশনঃ ৫৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আমার পরিবার-পরিজনের সঙ্গে সাহারী খেতাম। খাওয়ার পরে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে ফজরের সালাত পাওয়ার জন্য আমাকে খুব তাড়াহুড়া করতে হতো। (১৯২০) (আধুনিক প্রকাশনীঃ ৫৪৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>577</td></tr><tr><td>Arabic No</td><td>577</td></tr><tr><td>Reference</td><td>Book 9 Hadith 53</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il bin Abu Uwais] dari [Saudaranya] dari [S
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நான் என் குடும்பத்தாருடன் நோன்பு நோற்க (சஹர்) உணவு அருந்திவிட்டு, அல்லாஹ்வின் தூதர் (ஸல்) அவர்களு டன் ஃபஜ்ர் (வைகறைத்) தொழுகையில் கலந்துகொள்வதற்காக அவசர(மாகப் புற)ப்படுவேன். அத்தியாயம் : 9
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நான் என் குடும்பத்தாருடன் நோன்பு நோற்க (சஹர்) உணவு அருந்திவிட்டு, அல்லாஹ்வின் தூதர் (ஸல்) அவர்களு டன் ஃபஜ்ர் (வைகறைத்) தொழுகையில் கலந்துகொள்வதற்காக அவசர(மாகப் புற)ப்படுவேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>577</td></tr><tr><td>Arabic No</td><td>577</td></tr><tr><td>Reference</td><td>Book 9 Hadith 53</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il bin Abu Uwais] dari [Saudaranya] dari [S
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hazim Sehl İbn Sa'd'ın şöyle dediğini işittiğini nakletmiştir: "Ailemle birlikte sahur yapardım. Nebi Sallallahu Aleyhi ve Sellem ile sabah namazını kılmaya yetişmek için acele ederdim. Tekrar: 1920
+Ebu Hazim Sehl İbn Sa'd'ın şöyle dediğini işittiğini nakletmiştir: "Ailemle birlikte sahur yapardım. Nebi Sallallahu Aleyhi ve Sellem ile sabah namazını kılmaya yetişmek için acele ederdim. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>577</td></tr><tr><td>Arabic No</td><td>577</td></tr><tr><td>Reference</td><td>Book 9 Hadith 53</td></tr></tbody></table></div>
 

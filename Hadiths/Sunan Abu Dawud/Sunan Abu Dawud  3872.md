@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি বিষ পান করবে, কিয়ামতের দিন ঐ বিষের পাত্র তাঁর হাতে থাকবে, যা জাহান্নামের আগুনে গরম করা হবে এবং সে তা সেখানে অনাদিকাল পর্যন্ত পান করতে থাকবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি বিষ পান করবে সে নিজ হাতে দোযখের আগুনে বিষ পান করবে এবং চিরকালের জন্য জাহান্নামে প্রবেশ করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3872</td></tr><tr><td>Arabic No</td><td>3872</td></tr><tr><td>Reference</td><td>Book 29 Hadith 18</td></tr></tbody></table></div>
 

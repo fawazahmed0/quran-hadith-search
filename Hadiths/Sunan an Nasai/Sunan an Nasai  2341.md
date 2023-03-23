@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। হারিছ ইবনু মিসকীন (রহঃ) এর সামনে পাঠ করা অবস্থায় শ্রুত হাফসা (রাঃ) এবং আয়িশা (রাঃ) থেকে অনুরূপ হাদীস বর্ণিত আছে, যে ব্যক্তি ফজরের পূর্বে রাত্রে সাওমের নিয়্যত না করে তার সাওম পালন হবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>2341</td></tr><tr><td>Reference</td><td>Book 22 Hadith 252</td></tr></tbody></table></div>
 

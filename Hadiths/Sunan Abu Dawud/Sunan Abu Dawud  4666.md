@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসমাঈল ইবন ইব্‌রাহীম (রহঃ) .... কায়স ইবন আব্বাদ (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি আলী (রাঃ)-কে জিজ্ঞাসা করিঃ আপনি যে (মুআবিয়ার বিরুদ্ধে যুদ্ধের জন্য) বের হচ্ছেন, এ ব্যাপারে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর তরফ থেকে কি কোন নির্দেশ আছে, না আপনি নিজ সিদ্ধান্তে এরূপ করছেন? তিনি বলেনঃ না, এসম্পর্কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে কোন নির্দেশ দেননি, বরং এটা আমার নিজের সিদ্ধান্ত।
+। কায়িস ইবনু উবাইদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি আলী (রাঃ)-কে বললাম, আপনার এ সফলতা কি আপনার প্রতি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নির্দেশ মোতাবেক, না কি আপনার ব্যক্তিগত সিদ্ধান্ত? তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার প্রতি এ রকম কোনো নির্দেশ দেননি, বরং এটা আমার ব্যক্তিগত সিদ্ধান্ত।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4666</td></tr><tr><td>Arabic No</td><td>4666</td></tr><tr><td>Reference</td><td>Book 42 Hadith 71</td></tr></tbody></table></div>
 

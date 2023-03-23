@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন মানসূর (রহঃ) ... ইবন উমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, মক্কা বিজয়ের দিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কাবা শরীফের সিঁড়িতে দাঁড়িয়ে আল্লাহ্ তা'আলার হামদ-সানা বর্ণনা করে বলেনঃ সকল প্রশংসা আল্লাহ পাকের জন্যই, যিনি স্বীয় অঙ্গীকার সত্য করে দেখিয়েছেন এবং স্বীয় বান্দাকে সাহায্য করেছেন এবং একাই শত্রু সৈন্যকে পরাস্ত করেছেন। তোমরা শুনে রাখ, যে ব্যক্তি ইচ্ছাকৃত হত্যা সদৃশ ভুলের দরুন নিহত হয়, যথা বেত্রাঘাত অথবা কাষ্ঠাঘাতে নিহত ব্যক্তি, তার দিয়াত হল একশত উটের কঠিন দিয়াত, যার চল্লিশ উট এমন হবে, যাদের পেটে বাচ্চা থাকবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4799</td></tr><tr><td>Arabic No</td><td>4799</td></tr><tr><td>Reference</td><td>Book 45 Hadith 94</td></tr></tbody></table></div>
 

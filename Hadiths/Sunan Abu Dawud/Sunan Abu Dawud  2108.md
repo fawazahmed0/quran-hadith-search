@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন হাতিম ইবন বাযী' ..... যুহরী (রহঃ) হতে বর্ণিত। তিনি বলেন, নাজ্জাশী উম্মে হাবীবা বিনত আবূ সুফয়িানকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে বিবাহ দেন এবং এই জন্য চার হাজার দিরহাম মাহর ধার্য করেন। এরপর তিনি (নাজ্জাশী) এতদসম্পর্কে একটি পত্র রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে লিখে সবই তাঁকে অবহিত করেন, যা তিনি কবূল করেন।
+। আয-যুহরী (রহ.) সূত্রে বর্ণিত। আন-নাজ্জাশী আবূ সুফিয়ানের-কন্যা উম্মু হাবীবাহ (রাযি.)-কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে বিয়ে দেন এবং এতে মোহর ধার্য করেন চার হাজার দিরহাম। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বিষয়টি লিখিতভাবে অবহিত করলে তিনি তা কবূল করেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2108</td></tr><tr><td>Arabic No</td><td>2108</td></tr><tr><td>Reference</td><td>Book 12 Hadith 63</td></tr></tbody></table></div>
 

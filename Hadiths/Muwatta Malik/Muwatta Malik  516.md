@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Nafi'] dari [Abdullah bin Umar], ba
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Ömer, Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu naklediyor: «Sabah namazını kılmak için güneşin doğmasını, ikindiyi kılmak için de batmasını beklemeyin.» Diğer tahric: Buharı, Mevakîtu's-Salat; Müslim, Salatu'l-Musafırîn; Şafiî, Risale, no: 873
+Abdullah b. Ömer, Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu naklediyor: «Sabah namazını kılmak için güneşin doğmasını, ikindiyi kılmak için de batmasını beklemeyin.» Diğer tahric: Buharı, Mevakîtu's-Salat; Müslim, Salatu'l-Musafırîn; Şafiî, Risale, no:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>516</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
 

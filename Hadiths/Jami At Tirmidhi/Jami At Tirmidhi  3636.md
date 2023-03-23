@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬৩৬। আবূ ইসহাক (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, এক লোক আল-বারাআ (রাযিঃ)-কে প্রশ্ন করেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মুখমণ্ডল কি তলোয়ারের মতো (চকচকে) ছিল? তিনি বলেন, না, বরং চাদের মতো উজ্জ্বল ছিল। সহীহঃ মুখতাসার শামায়িল (৯), বুখারী। আবূ ঈসা বলেনঃ হাদীসটি হাসান।
+। আবূ ইসহাক (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, এক লোক আল-বারাআ (রাযিঃ)-কে প্রশ্ন করেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মুখমণ্ডল কি তলোয়ারের মতো (চকচকে) ছিল? তিনি বলেন, না, বরং চাদের মতো উজ্জ্বল ছিল। সহীহঃ মুখতাসার শামায়িল (৯), বুখারী। আবূ ঈসা বলেনঃ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3636</td></tr><tr><td>Arabic No</td><td>3636</td></tr><tr><td>Reference</td><td>Book 49 Hadith 32</td></tr></tbody></table></div>
 

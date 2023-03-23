@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২০৬। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের ছয় মাস পর্যন্ত এই চর্চা ছিল যে, তিনি ফজরের নামাযের জন্য ফাতিমা (রাঃ)-এর ঘরের সামনে দিয়ে যাওয়ার সময় বলতেনঃ “হে আহলে বাইত! তোমরা নামায কায়িম কর। আল্লাহ তা'আলা ইচ্ছা করেন, তোমাদের নবীর ঘরের লোকদের মধ্য হতে ময়লা দূর করতে এবং তোমাদেরকে সম্পূর্ণরূপে পবিত্র করতে”। যঈফ, প্রাগুক্ত আবূ ঈসা বলেনঃ উল্লেখিত সনদসূত্রে এ হাদীসটি হাসান গারীব। আমরা শুধুমাত্র হাম্মাদ ইবনু সালামার সূত্রেই এ হাদীস জেনেছি। এ অনুচ্ছেদে আবূল হামরাআ, মাকিল ইবনু ইয়াসার ও উম্মু সালামা (রাঃ) হতেও হাদীস বর্ণিত আছে।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের ছয় মাস পর্যন্ত এই চর্চা ছিল যে, তিনি ফজরের নামাযের জন্য ফাতিমা (রাঃ)-এর ঘরের সামনে দিয়ে যাওয়ার সময় বলতেনঃ “হে আহলে বাইত! তোমরা নামায কায়িম কর। আল্লাহ তা'আলা ইচ্ছা করেন, তোমাদের নবীর ঘরের লোকদের মধ্য হতে ময়লা দূর করতে এবং তোমাদেরকে সম্পূর্ণরূপে পবিত্র করতে”। যঈফ, প্রাগুক্ত আবূ ঈসা বলেনঃ উল্লেখিত সনদসূত্রে এ হাদীসটি হাসান গারীব। আমরা শুধুমাত্র হাম্মাদ ইবনু সালামার সূত্রেই এ হাদীস জেনেছি। এ অনুচ্ছেদে আবূল হামরাআ, মাকিল ইবনু ইয়াসার ও উম্মু সালামা (রাঃ) হতেও হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3206</td></tr><tr><td>Arabic No</td><td>3206</td></tr><tr><td>Reference</td><td>Book 47 Hadith 258</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik:"For six months, the Messenger of Allah (ﷺ) would pass by the door of Fatimah when going to the Fajr prayer saying: 'As-Salat O People of the house! Allah only wishes to remove the Rijs from you, O members of the family, and to purify you with thorough purification (33:33)
+Narrated Anas bin Malik:"For six months, the Messenger of Allah (ﷺ) would pass by the door of Fatimah when going to the Fajr prayer saying: 'As-Salat O People of the house! Allah only wishes to remove the Rijs from you, O members of the family, and to purify you with thorough purification (33:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3206</td></tr><tr><td>Arabic No</td><td>3206</td></tr><tr><td>Reference</td><td>Book 47 Hadith 258</td></tr></tbody></table></div>
 

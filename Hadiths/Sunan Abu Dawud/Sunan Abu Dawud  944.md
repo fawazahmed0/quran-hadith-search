@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবনে সাঈদ (রহঃ) ..... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেন, নামাযের মধ্যে (ইমামের ত্রুটি-বিচ্যুতি জ্ঞাতার্থে) পুরুষগণ “সুবহানাল্লাহ” বলবে, এবং স্ত্রীলোকেরা “হাতের উপর হাত মারবে”। এ ধরনের ইশারার দ্বারা ইমাম তার নামাযের ত্রুটি-বিচ্যুতি সম্পর্কে সজাগ হয়ে তা সঠিকভাবে আদায় করবে। ইমাম আবু দাউদ (রহঃ) বলেন, এই হাদিসটি সন্দেহজনক।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, (সালাতে ইমামের কোন ক্রটি হলে) পুরুষরা ‘‘সুবহানাল্লাহ’’ বলবে এবং মহিলারা হাততালি দিবে। কেউ যদি সালাতরত অবস্থায় এরূপ ইশারা করে যদ্দ্বারা নির্দিষ্ট কোন অর্থ বুঝায় তবে সে উক্ত সালাত পুনরায় আদায় করবে। দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, এ হাদীসটি সন্দেহমূলক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>944</td></tr><tr><td>Arabic No</td><td>944</td></tr><tr><td>Reference</td><td>Book 2 Hadith 555</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdullah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre'den; demiştirki: Resûlullah (s.a.v.), -namazı kastederek- şöyle buyurdu: "Sübhânallah demek erkekler içindir, el çırpmak da kadınlar içindir. Kim namazında anlaşılabilecek bir işarette bulunursa, tekrar o'na geri dönsün." (Bununla namazı kastediyor). Ebû Davud dediki: "kim namazda işaret ederse ona dönsün" kısmı bir vehmden ibarettir. Diğer tahric: Dârekutnî, Sünen, II, 83; Beyhakî, es-Siinenu2l-kübrâ, II, 246, 247, 262; VI, 246
+Ebû Hureyre'den; demiştirki: Resûlullah (s.a.v.), -namazı kastederek- şöyle buyurdu: "Sübhânallah demek erkekler içindir, el çırpmak da kadınlar içindir. Kim namazında anlaşılabilecek bir işarette bulunursa, tekrar o'na geri dönsün." (Bununla namazı kastediyor). Ebû Davud dediki: "kim namazda işaret ederse ona dönsün" kısmı bir vehmden ibarettir. Diğer tahric: Dârekutnî, Sünen, II, 83; Beyhakî, es-Siinenu2l-kübrâ, II, 246, 247, 262; VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>944</td></tr><tr><td>Arabic No</td><td>944</td></tr><tr><td>Reference</td><td>Book 2 Hadith 555</td></tr></tbody></table></div>
 

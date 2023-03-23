@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/২১৬। আলী ইবনু আবূ তালিব (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যাক্তি কুরআন তিলাওয়াত করে এবং তা কন্ঠস্থ করে, আল্লাহ তাকে জান্নাতে প্রবেশ করাবেন এবং তাকে তার পরিবারের এমন দশজন লোকের জন্য সুপারিশ করার অনুমতি দিবেন যাদের সকলের জন্য জাহান্নাম অবধারিত হয়ে গেছে।
+। আলী ইবনু আবূ তালিব (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যাক্তি কুরআন তিলাওয়াত করে এবং তা কন্ঠস্থ করে, আল্লাহ তাকে জান্নাতে প্রবেশ করাবেন এবং তাকে তার পরিবারের এমন দশজন লোকের জন্য সুপারিশ করার অনুমতি দিবেন যাদের সকলের জন্য জাহান্নাম অবধারিত হয়ে গেছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>216</td></tr><tr><td>Arabic No</td><td>216</td></tr><tr><td>Reference</td><td>Book 0 Hadith 216</td></tr></tbody></table></div>
 

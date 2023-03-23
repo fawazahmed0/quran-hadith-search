@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। লোকেরা তাদের হাদিয়া পাঠাবার ব্যাপারে ‘আয়িশাহ (রাঃ)-এর জন্য নির্ধারিত দিনের অপেক্ষা করত। এতে তারা রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর সন্তুষ্টি অর্জনের চেষ্টা করত। (২৫৮০, ২৫৮১, ৩৭৭৫, মুসলিম ৪৪/১৩, হাঃ ২৪৪১, ২৪৪২) (আধুনিক প্রকাশনীঃ ২৩৮৭, ইসলামিক ফাউন্ডেশনঃ ২৪০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। লোকেরা তাদের হাদিয়া পাঠাবার ব্যাপারে ‘আয়িশাহ (রাঃ)-এর জন্য নির্ধারিত দিনের অপেক্ষা করত। এতে তারা রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর সন্তুষ্টি অর্জনের চেষ্টা করত। (২৫৮০, ২৫৮১, ৩৭৭৫, মুসলিম ৪৪/১৩, হাঃ ২৪৪১, ২৪৪২) (আধুনিক প্রকাশনীঃ ২৩৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 51 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என் வீட்டில் தங்கும் நாளையே, அவர்களுக்கு தம் அன்பளிப்புகளை வழங்க மக்கள் தேர்ந்தெடுத்துவந்தார்கள். இதன்மூலம் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் அன்பைப் பெறுவதையே அவர்கள் விரும்பினார்கள். அத்தியாயம் : 50
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என் வீட்டில் தங்கும் நாளையே, அவர்களுக்கு தம் அன்பளிப்புகளை வழங்க மக்கள் தேர்ந்தெடுத்துவந்தார்கள். இதன்மூலம் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் அன்பைப் பெறுவதையே அவர்கள் விரும்பினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 51 Hadith 9</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'den rivayet edilmiştir: İnsanlar, Nebi Sallallahu Aleyhi ve Sellem'e hediye vererek O'nun hoşnutluğunu kazanmak için Aişe'nin evinde bulunacağı günü gözlerlerdi. Tekrar. 2580, 2581, 3775
+Aişe (r.anha)'den rivayet edilmiştir: İnsanlar, Nebi Sallallahu Aleyhi ve Sellem'e hediye vererek O'nun hoşnutluğunu kazanmak için Aişe'nin evinde bulunacağı günü gözlerlerdi. Tekrar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 51 Hadith 9</td></tr></tbody></table></div>
 

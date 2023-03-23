@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬১৭, আন্তর্জাতিক নাম্বারঃ ৩২১ ৬১৭-(৪৪/...) মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেছেন, তিনি এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই পাত্র থেকে গোসল করতেন যাতে তিন মুদ বা তার সমপরিমাণ পানি ধরত। (ইসলামিক ফাউন্ডেশনঃ ৬২১, ইসলামিক সেন্টারঃ ৬৩৬)
+মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেছেন, তিনি এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই পাত্র থেকে গোসল করতেন যাতে তিন মুদ বা তার সমপরিমাণ পানি ধরত। (ইসলামিক ফাউন্ডেশনঃ ৬২১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>730</td></tr><tr><td>Arabic No</td><td>321.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 52</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நானும் நபி (ஸல்) அவர்களும் மூன்று முத்து அல்லது அதற்கு நெருக்கமான அளவு கொண்ட பாத்திரத்தில் குளிப்போம். இதை ஹஃப்ஸா பின்த் அப்திர் ரஹ்மான் பின் அபீபக்ர் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 3
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நானும் நபி (ஸல்) அவர்களும் மூன்று முத்து அல்லது அதற்கு நெருக்கமான அளவு கொண்ட பாத்திரத்தில் குளிப்போம். இதை ஹஃப்ஸா பின்த் அப்திர் ரஹ்மான் பின் அபீபக்ர் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>730</td></tr><tr><td>Arabic No</td><td>321.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 52</td></tr></tbody></table></div>
 

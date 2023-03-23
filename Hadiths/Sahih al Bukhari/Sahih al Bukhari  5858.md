@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘ঈসা ইবনু তাহমান (রহঃ) হতে বর্ণিত। একবার আনাস ইবনু মালিক (রাঃ) এমন দু'টো চপ্পল আমাদের কাছে আনলেন যার দু'টো করে ফিতা ছিল। তখন সাবিত বুনানী বললেনঃ এটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চপ্পল ছিল। [৫৮৫৭] (আধুনিক প্রকাশনী- ৫৪৩২, ইসলামিক ফাউন্ডেশন- ৫৩২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘ঈসা ইবনু তাহমান (রহঃ) হতে বর্ণিত। একবার আনাস ইবনু মালিক (রাঃ) এমন দু'টো চপ্পল আমাদের কাছে আনলেন যার দু'টো করে ফিতা ছিল। তখন সাবিত বুনানী বললেনঃ এটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চপ্পল ছিল। [৫৮৫৭] (আধুনিক প্রকাশনী- ৫৪৩২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5858</td></tr><tr><td>Arabic No</td><td>5858</td></tr><tr><td>Reference</td><td>Book 77 Hadith 75</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad] telah mengabarkan kepada kami [Abdullah] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஈசா பின் தஹ்மான் (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் பின் மாலிக் (ரலி) அவர்கள் இரண்டு வார்கள் கொண்ட இரு காலணி களை எங்களுக்குக் காட்டினார்கள். (பின்னர் இது குறித்துக் கூறுகையில்) ஸாபித் அல்புனானீ (ரஹ்) அவர்கள், ‘‘இதுதான் நபி (ஸல்) அவர்களின் காலணியாகும்” என்று சொன்னார்கள்.74 அத்தியாயம் : 77
+ஈசா பின் தஹ்மான் (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் பின் மாலிக் (ரலி) அவர்கள் இரண்டு வார்கள் கொண்ட இரு காலணி களை எங்களுக்குக் காட்டினார்கள். (பின்னர் இது குறித்துக் கூறுகையில்) ஸாபித் அல்புனானீ (ரஹ்) அவர்கள், ‘‘இதுதான் நபி (ஸல்) அவர்களின் காலணியாகும்” என்று சொன்னார்கள்.74 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5858</td></tr><tr><td>Arabic No</td><td>5858</td></tr><tr><td>Reference</td><td>Book 77 Hadith 75</td></tr></tbody></table></div>
 

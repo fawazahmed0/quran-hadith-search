@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু মাসঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন (বিজয়ীর বেশে) মক্কায় প্রবেশ করেন, তখন কা‘বা শরীফের চারপাশে তিনশ’ ষাটটি মূর্তি ছিল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের হাতের লাঠি দিয়ে মূর্তিগুলোকে আঘাত করতে থাকেন আর বলতে থাকেনঃ ‘‘সত্য এসেছে এবং মিথ্যা বিলুপ্ত হয়েছে, (আয়াতের শেষ পর্যন্ত)’’- (বনী ইসরাঈল/ইসরাঃ ৮১)। (৪২৮৭, ৪৭২০) (আধুনিক প্রকাশনীঃ ২২৯৯, ইসলামিক ফাউন্ডেশনঃ ২৩১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু মাসঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন (বিজয়ীর বেশে) মক্কায় প্রবেশ করেন, তখন কা‘বা শরীফের চারপাশে তিনশ’ ষাটটি মূর্তি ছিল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের হাতের লাঠি দিয়ে মূর্তিগুলোকে আঘাত করতে থাকেন আর বলতে থাকেনঃ ‘‘সত্য এসেছে এবং মিথ্যা বিলুপ্ত হয়েছে, (আয়াতের শেষ পর্যন্ত)’’- (বনী ইসরাঈল/ইসরাঃ ৮১)। (৪২৮৭, ৪৭২০) (আধুনিক প্রকাশনীঃ ২২৯৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2478</td></tr><tr><td>Arabic No</td><td>2478</td></tr><tr><td>Reference</td><td>Book 46 Hadith 39</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah bin Mas'ud:The Prophet (ﷺ) entered Mecca and (at that time)
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Ibnu Abi Najih] dari [Mujahid] dari [Abu Ma'mar] dari ['Abdullah bin Mas'ud radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam masuk ke Ka'bah saat yang ketika itu berisi tiga ratus enam puluh patung, lalu Beliau menusuk dan menghancurkannya dengan menggunakan tongkat yang ada di tangan Beliau seraya berkata: "Telah datang kebenaran dan sirnalah kebathilan", QS Al Isra' ayat 81
+Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Ibnu Abi Najih] dari [Mujahid] dari [Abu Ma'mar] dari ['Abdullah bin Mas'ud radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam masuk ke Ka'bah saat yang ketika itu berisi tiga ratus enam puluh patung, lalu Beliau menusuk dan menghancurkannya dengan menggunakan tongkat yang ada di tangan Beliau seraya berkata: "Telah datang kebenaran dan sirnalah kebathilan", QS Al Isra' ayat
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2478</td></tr><tr><td>Arabic No</td><td>2478</td></tr><tr><td>Reference</td><td>Book 46 Hadith 39</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கஅபாவைச் சுற்றிலும் முந்நூற்று அறுபது சிலைகள் இருக்க, மக்கா நகருக்குள் நுழைந்தார்கள். அப்போது அவர்கள், தமது கையிலிருந்த குச்சியால் அவற்றை குத்தி (அடிக்கத் தொடங்கி)னார்கள். ‘‘சத்தியம் வந்துவிட்டது; அசத்தியம் அழிந்துவிட்டது” (குர்ஆன்லி17: 81) எனும் வசனத்தை கூறத் தொடங்கினார்கள்.21 அத்தியாயம் : 46
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கஅபாவைச் சுற்றிலும் முந்நூற்று அறுபது சிலைகள் இருக்க, மக்கா நகருக்குள் நுழைந்தார்கள். அப்போது அவர்கள், தமது கையிலிருந்த குச்சியால் அவற்றை குத்தி (அடிக்கத் தொடங்கி)னார்கள். ‘‘சத்தியம் வந்துவிட்டது; அசத்தியம் அழிந்துவிட்டது” (குர்ஆன்லி17: 81) எனும் வசனத்தை கூறத் தொடங்கினார்கள்.21 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2478</td></tr><tr><td>Arabic No</td><td>2478</td></tr><tr><td>Reference</td><td>Book 46 Hadith 39</td></tr></tbody></table></div>
 

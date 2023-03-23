@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০২। আবু উবাইদা ইবনু মুহাম্মাদ ইবনু আম্মার ইবনু ইয়াসার (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি জাবির ইবনু আবদুল্লাহ (রাঃ)-কে মোজার উপর মাসাহ সম্পর্কে প্রশ্ন করলাম। তিনি বললেন, হে ভাতিজা! এটা সুন্নাত। আমি আবার তাকে পাগড়ীর উপর মাসাহ করা সম্পর্কে প্রশ্ন করলাম। তিনি বললেন, (মাথার) চুল পানি স্পর্শ করাও। —সনদ সহীহ।
+। আবু উবাইদা ইবনু মুহাম্মাদ ইবনু আম্মার ইবনু ইয়াসার (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি জাবির ইবনু আবদুল্লাহ (রাঃ)-কে মোজার উপর মাসাহ সম্পর্কে প্রশ্ন করলাম। তিনি বললেন, হে ভাতিজা! এটা সুন্নাত। আমি আবার তাকে পাগড়ীর উপর মাসাহ করা সম্পর্কে প্রশ্ন করলাম। তিনি বললেন, (মাথার) চুল পানি স্পর্শ করাও। —সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>102</td></tr><tr><td>Arabic No</td><td>102</td></tr><tr><td>Reference</td><td>Book 1 Hadith 102</td></tr></tbody></table></div>
 

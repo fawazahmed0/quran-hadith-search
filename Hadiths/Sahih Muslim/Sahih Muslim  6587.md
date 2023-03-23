@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৪৮১, আন্তর্জাতিক নাম্বারঃ ২৫৮৬ ৬৪৮১-(…/...) ইসহাক আল হান্‌যালী (রহঃ) ..... নুমান ইবনু বাশীর (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৩৫১, ইসলামিক সেন্টার ৬৪০১)
+(…/...) ইসহাক আল হান্‌যালী (রহঃ) ..... নুমান ইবনু বাশীর (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৩৫১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>2586.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 85</td></tr></tbody></table></div>
 

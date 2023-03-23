@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কারো খাদিম খাবার নিয়ে হাযির হলে তাকেও নিজের সাথে বসানো উচিত। তাকে সাথে না বসালেও দু’ এক লোকমা কিংবা দু’ এক গ্রাস তাকে দেয়া উচিত। কেননা, সে এর জন্য পরিশ্রম করেছে। (৫৪৬০) (আধুনিক প্রকাশনীঃ ২৩৭১, ইসলামিক ফাউন্ডেশনঃ ২৩৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কারো খাদিম খাবার নিয়ে হাযির হলে তাকেও নিজের সাথে বসানো উচিত। তাকে সাথে না বসালেও দু’ এক লোকমা কিংবা দু’ এক গ্রাস তাকে দেয়া উচিত। কেননা, সে এর জন্য পরিশ্রম করেছে। (৫৪৬০) (আধুনিক প্রকাশনীঃ ২৩৭১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2557</td></tr><tr><td>Arabic No</td><td>2557</td></tr><tr><td>Reference</td><td>Book 49 Hadith 39</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: உங்களில் ஒருவரிடம் அவருடைய பணியாள் அவரது உணவைக் கொண்டு வந்தால், அவர் அப்பணியாளைத் தம்முடன் (அமரச் செய்து உண்ணட்டும். அவ்வாறு) அமரச்செய்யவில்லையென் றாலும், அவருக்கு யிஒரு கவளம் அல்லது இரு கவளங்கள்’ அல்லது யிஒரு வாய் அல்லது இரு வாய்கள்’ (அந்த உணவி லிருந்து) கொடுக்கட்டும். ஏனெனில், அதைத் தயாரிக்கும் சுமையை அந்தப் பணியாள் ஏற்றுள்ளார். அத்தியாயம் : 49
+நபி (ஸல்) அவர்கள்கூறினார்கள்: உங்களில் ஒருவரிடம் அவருடைய பணியாள் அவரது உணவைக் கொண்டு வந்தால், அவர் அப்பணியாளைத் தம்முடன் (அமரச் செய்து உண்ணட்டும். அவ்வாறு) அமரச்செய்யவில்லையென் றாலும், அவருக்கு யிஒரு கவளம் அல்லது இரு கவளங்கள்’ அல்லது யிஒரு வாய் அல்லது இரு வாய்கள்’ (அந்த உணவி லிருந்து) கொடுக்கட்டும். ஏனெனில், அதைத் தயாரிக்கும் சுமையை அந்தப் பணியாள் ஏற்றுள்ளார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2557</td></tr><tr><td>Arabic No</td><td>2557</td></tr><tr><td>Reference</td><td>Book 49 Hadith 39</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem: "Hizmetçiniz size yemeğinizi getirdiğinde onu sizinle birlikte sofraya oturtmayacaksanız, hiç olmazsa ona bir iki lokma verin. Bu onu memnun eder" buyurmuştur. Tekrar: 5460
+Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem: "Hizmetçiniz size yemeğinizi getirdiğinde onu sizinle birlikte sofraya oturtmayacaksanız, hiç olmazsa ona bir iki lokma verin. Bu onu memnun eder" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2557</td></tr><tr><td>Arabic No</td><td>2557</td></tr><tr><td>Reference</td><td>Book 49 Hadith 39</td></tr></tbody></table></div>
 

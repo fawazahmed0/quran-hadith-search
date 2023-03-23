@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০১১। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, আবদুল কাইস বংশের প্রতিনিধি দলের নেতা আশাজ্জকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের মধ্যে এরূপ দুটি গুণ রয়েছে যা আল্লাহ তা'আলা অধিক পছন্দ করেনঃ সহিষ্ণুতা ও স্থিরতা। সহীহ, ইবনু মা-জাহ (৪১৮৮), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব। আশাজ্জ আল-আসারী (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, আবদুল কাইস বংশের প্রতিনিধি দলের নেতা আশাজ্জকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের মধ্যে এরূপ দুটি গুণ রয়েছে যা আল্লাহ তা'আলা অধিক পছন্দ করেনঃ সহিষ্ণুতা ও স্থিরতা। সহীহ, ইবনু মা-জাহ (৪১৮৮), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব। আশাজ্জ আল-আসারী (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2011</td></tr><tr><td>Arabic No</td><td>2011</td></tr><tr><td>Reference</td><td>Book 27 Hadith 117</td></tr></tbody></table></div>
 

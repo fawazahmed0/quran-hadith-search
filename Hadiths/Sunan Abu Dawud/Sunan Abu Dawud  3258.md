@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... বুরায়দা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি শপথ করে এবং এরূপ বলে যে, (যদি এটা না হয়, তবে) আমি ইসলাম হতে খারিজ হয়ে যাব। যদি সে মিথ্যা ভাবেও এরূপ বলে, তবু ঐরূপ হবে, যেরূপ সে বলেছে। আর যদি সে তার কসমে সত্যবাদী হয়, তবে সে নিরাপদে ইসলামের মাঝে ফিরে আসতে পারবে না।
+। বুরাইদাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি যদি শপথ করে বলেঃ আমি ইসলাম থেকে মুক্ত। সে মিথ্যা বললেও সে যেরূপ বলেছে তদ্রূপই হবে। আর সত্যবাদী হলে তার পক্ষে নিরাপদে ইসলামে ফিরে আসা সম্ভব নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3258</td></tr><tr><td>Arabic No</td><td>3258</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
 

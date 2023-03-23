@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইব্‌রাহীম (রহঃ) ..... সা'ঈদ ইবন মুসায়্যাব (রহঃ) হতে উপরোক্ত হাদীছ সম্পর্কে এরূপ বর্ণিত আছে যে, তাকে ওলীমার প্রথম দিন ডাকা হলে তিনি যান; দ্বিতীয় দিন ডাকা হলেও যান এবং তৃতীয় দিন ডাকা হলে তিনি যান নি। তিনি আহবানকারীকে পাথর মারেন।
+। সাঈদ ইবনুল মুসাইয়্যাব (রহঃ) সূত্রে বর্ণিত। কাতাদাহ উল্লেখিত ঘটনা প্রসঙ্গে বলেন, তৃতীয় দিনে দা‘ওয়াত করা হলো, কিন্তু তিনি তা কবূল করেননি এবং যে লোক তাকে দা‘ওয়াত দিতে এসেছিল তিনি তার দিকে ঢিল ছুড়ে মারেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3746</td></tr><tr><td>Arabic No</td><td>3746</td></tr><tr><td>Reference</td><td>Book 28 Hadith 11</td></tr></tbody></table></div>
 

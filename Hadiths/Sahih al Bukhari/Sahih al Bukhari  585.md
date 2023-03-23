@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাযি.) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যেন সূর্যোদয় ও সূর্যাস্তের সময় সালাত আদায়ের উদ্যোগ না নেয়। (৫৮২) (আধুনিক প্রকাশনীঃ ৫৫০, ইসলামিক ফাউন্ডেশনঃ ৫৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যেন সূর্যোদয় ও সূর্যাস্তের সময় সালাত আদায়ের উদ্যোগ না নেয়। (৫৮২) (আধুনিক প্রকাশনীঃ ৫৫০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>585</td></tr><tr><td>Arabic No</td><td>585</td></tr><tr><td>Reference</td><td>Book 9 Hadith 60</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் (சரியாகச்) சூரியன் உதிக்கும் நேரத்தையும் சூரியன் மறையும் நேரத்தையும் தேர்ந்தெடுத்து தொழ வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 9
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் (சரியாகச்) சூரியன் உதிக்கும் நேரத்தையும் சூரியன் மறையும் நேரத்தையும் தேர்ந்தெடுத்து தொழ வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>585</td></tr><tr><td>Arabic No</td><td>585</td></tr><tr><td>Reference</td><td>Book 9 Hadith 60</td></tr></tbody></table></div>
 

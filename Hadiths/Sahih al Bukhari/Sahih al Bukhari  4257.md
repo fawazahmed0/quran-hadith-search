@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বাইতুল্লাহ এবং সাফা ও মারওয়া-এর মধ্যখানে এ জন্যই সা‘য়ী করেছিলেন, যেন মুশরিকদেরকে তাঁর শৌর্য-বীর্য দেখাতে পারেন। [১৬৪৯] (আধুনিক প্রকাশনীঃ ৩৯২৫, ইসলামিক ফাউন্ডেশনঃ ৩৯২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বাইতুল্লাহ এবং সাফা ও মারওয়া-এর মধ্যখানে এ জন্যই সা‘য়ী করেছিলেন, যেন মুশরিকদেরকে তাঁর শৌর্য-বীর্য দেখাতে পারেন। [১৬৪৯] (আধুনিক প্রকাশনীঃ ৩৯২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4257</td></tr><tr><td>Arabic No</td><td>4257</td></tr><tr><td>Reference</td><td>Book 64 Hadith 291</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad] dari [Sufyan bin Uyainah] dari [Amru] dar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இறையில்ல(ம் கஅபாவைச் சுற்றிவந்த நேர)த்திலும் ஸஃபா- மர்வா இடையேயும் தொங்கோட்டம் ஓடியது, இணைவைப்பாளர்களுக்குத் தமது வலிமையைக் காட்டுவதற்காகத்தான். அத்தியாயம் : 64
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இறையில்ல(ம் கஅபாவைச் சுற்றிவந்த நேர)த்திலும் ஸஃபா- மர்வா இடையேயும் தொங்கோட்டம் ஓடியது, இணைவைப்பாளர்களுக்குத் தமது வலிமையைக் காட்டுவதற்காகத்தான். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4257</td></tr><tr><td>Arabic No</td><td>4257</td></tr><tr><td>Reference</td><td>Book 64 Hadith 291</td></tr></tbody></table></div>
 

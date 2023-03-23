@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২৭০৫। মু‘আবিয়া ইবনে কুররা (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ অন্তিমকালে আল্লাহর কিতাব অনুযায়ী ওসিয়াত করলে, সে তার জীবনে যে যাকাত দেয়নি এটা তার কাফ্ফারাস্বরূপ।
+। মু‘আবিয়া ইবনে কুররা (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ অন্তিমকালে আল্লাহর কিতাব অনুযায়ী ওসিয়াত করলে, সে তার জীবনে যে যাকাত দেয়নি এটা তার কাফ্ফারাস্বরূপ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2705</td></tr><tr><td>Arabic No</td><td>2705</td></tr><tr><td>Reference</td><td>Book 22 Hadith 11</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩০৮২, আন্তর্জাতিক নাম্বারঃ ১৩১৯ ৩০৮২-(৩৫৬/১৩১৯) উসমান ইবনু আবূ শায়বাহ্ (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুরবানীর দিন আয়িশাহ (রাযিঃ) এর পক্ষ থেকে একটি গরু কুরবানী করেন। (ইসলামিক ফাউন্ডেশন ৩০৫৭, ইসলামীক সেন্টার ৩০৫৪)
+উসমান ইবনু আবূ শায়বাহ্ (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুরবানীর দিন আয়িশাহ (রাযিঃ) এর পক্ষ থেকে একটি গরু কুরবানী করেন। (ইসলামিক ফাউন্ডেশন ৩০৫৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3191</td></tr><tr><td>Arabic No</td><td>1319.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 395</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] Telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் "நஹ்ரு"டைய (துல்ஹஜ் பத்தாவது) நாளில் ஆயிஷா (ரலி) அவர்கள் சார்பாக ஒரு மாட்டை அறுத்துப் பலியிட்டார்கள். அத்தியாயம் : 15
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் "நஹ்ரு"டைய (துல்ஹஜ் பத்தாவது) நாளில் ஆயிஷா (ரலி) அவர்கள் சார்பாக ஒரு மாட்டை அறுத்துப் பலியிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3191</td></tr><tr><td>Arabic No</td><td>1319.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 395</td></tr></tbody></table></div>
 

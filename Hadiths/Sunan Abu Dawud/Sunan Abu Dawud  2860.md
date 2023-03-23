@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আবূ হুরাইরাহ থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে পূর্বোক্ত হাদীসে অনুরূপ বর্ণিত। তিনি বলেনঃ রাজা-বাদশার সাথে নিরবিচ্ছিন্ন সম্পর্ক স্থাপনকারী বিপদগ্রস্ত হয়। আর যে বান্দা রাজার সাথে অধিক ঘনিষ্ঠ হয় সে আল্লাহ থেকে ততোই দূরে সরে যেতে থাকে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2860</td></tr><tr><td>Arabic No</td><td>2860</td></tr><tr><td>Reference</td><td>Book 17 Hadith 17</td></tr></tbody></table></div>
 

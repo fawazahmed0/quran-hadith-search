@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন নফল সালাতকে ফজরের দু’রাক‘আত সুন্নাতের চেয়ে অধিক গুরুত্ব প্রদান করতেন না। (মুসলিম ৬/১৪, হাঃ ৭২৪) (আধুনিক প্রকাশনীঃ ১০৯৫, ইসলামিক ফাউন্ডেশনঃ ১১০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন নফল সালাতকে ফজরের দু’রাক‘আত সুন্নাতের চেয়ে অধিক গুরুত্ব প্রদান করতেন না। (মুসলিম ৬/১৪, হাঃ ৭২৪) (আধুনিক প্রকাশনীঃ ১০৯৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1163</td></tr><tr><td>Arabic No</td><td>1163</td></tr><tr><td>Reference</td><td>Book 19 Hadith 42</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Bayan bin 'Amru] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஃபஜ்ருடைய (சுன்னத்) இரண்டு ரக்அத்கள் அளவுக்கு வேறு எந்தக் கூடுதலான தொழுகைக்கும் அதிக முக்கியத்துவம் அளித்ததில்லை. அத்தியாயம் : 19
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஃபஜ்ருடைய (சுன்னத்) இரண்டு ரக்அத்கள் அளவுக்கு வேறு எந்தக் கூடுதலான தொழுகைக்கும் அதிக முக்கியத்துவம் அளித்ததில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1163</td></tr><tr><td>Arabic No</td><td>1163</td></tr><tr><td>Reference</td><td>Book 19 Hadith 42</td></tr></tbody></table></div>
 

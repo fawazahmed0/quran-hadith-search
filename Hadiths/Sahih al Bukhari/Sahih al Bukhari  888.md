@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি মিস্ওয়াক সম্পর্কে তোমাদের যথেষ্ট বলেছি। (আধুনিক প্রকাশনীঃ ৮৩৭ ইসলামিক ফাউন্ডেশনঃ ৮৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি মিস্ওয়াক সম্পর্কে তোমাদের যথেষ্ট বলেছি। (আধুনিক প্রকাশনীঃ ৮৩৭ ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>888</td></tr><tr><td>Arabic No</td><td>888</td></tr><tr><td>Reference</td><td>Book 11 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பல் துலக்குவது பற்றி நான் உங்களிடம் (திரும்பத் திரும்ப) பல முறை வலியுறுத்தி யுள்ளேன். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 11
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பல் துலக்குவது பற்றி நான் உங்களிடம் (திரும்பத் திரும்ப) பல முறை வலியுறுத்தி யுள்ளேன். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>888</td></tr><tr><td>Arabic No</td><td>888</td></tr><tr><td>Reference</td><td>Book 11 Hadith 13</td></tr></tbody></table></div>
 

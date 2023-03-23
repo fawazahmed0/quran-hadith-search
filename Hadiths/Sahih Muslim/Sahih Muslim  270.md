@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৭১, আন্তর্জাতিক নাম্বারঃ ৯৩ ১৭১-(১৫২/...) আবূ আইয়ুব আল গাইলামী, সুলাইমান ইবনু আবদুল্লাহ ও হাজ্জাজ ইবনু শাইর (রহঃ) ... জাবির ইবনু আবদুল্লাহ (রাযিঃ) বলেন যে, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে বলতে শুনেছি, যে ব্যক্তি আল্লাহর সাথে কাউকেও শারীক না করে আল্লাহর সামনে উপস্থিত হবে সে জান্নাতে প্রবেশ করবে। আর যে ব্যক্তি তার সম্মুখে উপস্থিত হবে এমন অবস্থায় যে, সে আল্লাহর সাথে শারীক স্থির করে, তাহলে সে জাহান্নামে প্রবেশ করবে। (ইসলামিক ফাউন্ডেশনঃ ১৭২, ইসলামিক সেন্টারঃ ১৭৮)
+আবূ আইয়ুব আল গাইলামী, সুলাইমান ইবনু আবদুল্লাহ ও হাজ্জাজ ইবনু শাইর (রহঃ) ... জাবির ইবনু আবদুল্লাহ (রাযিঃ) বলেন যে, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে বলতে শুনেছি, যে ব্যক্তি আল্লাহর সাথে কাউকেও শারীক না করে আল্লাহর সামনে উপস্থিত হবে সে জান্নাতে প্রবেশ করবে। আর যে ব্যক্তি তার সম্মুখে উপস্থিত হবে এমন অবস্থায় যে, সে আল্লাহর সাথে শারীক স্থির করে, তাহলে সে জাহান্নামে প্রবেশ করবে। (ইসলামিক ফাউন্ডেশনঃ ১৭২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>270</td></tr><tr><td>Arabic No</td><td>93.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepadaku [Abu Ayyub al-Ghailani Sulaiman bin Abdullah] da
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana (2/14a) Ebu Eyyub el-Ğaylami, Süleyman b. Ubeydullah ve Haccac b. eş-Şair de tahdis edip dediler ki: Bize Abdulmelik b. Amr tahdis etti. Bize Kurra, Ebu'z-Zubeyr'den tahdis etti. Bize Cabir b. Abdullah tahdis etti: Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim: "Kim Allah'ın huzuruna ona hiçbir şeyi ortak koşmaksızın çıkarsa cennete girer. Kim de onun huzuruna ortak koşarak çıkarsa cehenneme girer." Ebu Eyyub dedi ki: Ebu'z-Zubeyr (bize tahdis etti, demeyip) Cabir'den diye rivayet etti. Yalnız Müslim rivayet etmiştir; Tuhfetu'!-Eşraf, 2900
+Bana (2/14a) Ebu Eyyub el-Ğaylami, Süleyman b. Ubeydullah ve Haccac b. eş-Şair de tahdis edip dediler ki: Bize Abdulmelik b. Amr tahdis etti. Bize Kurra, Ebu'z-Zubeyr'den tahdis etti. Bize Cabir b. Abdullah tahdis etti: Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim: "Kim Allah'ın huzuruna ona hiçbir şeyi ortak koşmaksızın çıkarsa cennete girer. Kim de onun huzuruna ortak koşarak çıkarsa cehenneme girer." Ebu Eyyub dedi ki: Ebu'z-Zubeyr (bize tahdis etti, demeyip) Cabir'den diye rivayet etti. Yalnız Müslim rivayet etmiştir; Tuhfetu'!-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>270</td></tr><tr><td>Arabic No</td><td>93.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
 

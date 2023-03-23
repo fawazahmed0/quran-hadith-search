@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) ও ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তাঁরা উভয়ে বলেন, যাঁর নিকট কুরবানীর পশু নেই তিনি ব্যতীত অন্য কারও জন্য আইয়্যামে তাশরীকে সওম পালন করার অনুমতি দেয়া হয়নি। (আধুনিক প্রকাশনীঃ ১৮৫৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1997</td></tr><tr><td>Arabic No</td><td>1997</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி), இப்னு உமர் (ரலி) ஆகியோர் கூறியதாவது: குர்பானிப் பிராணி கிடைக்காதவர் தவிர மற்றவர்கள் ‘தஷ்ரீக்' உடைய நாட் களில் நோன்பு நோற்க அனுமதிக்கப்பட வில்லை. அத்தியாயம் : 30
+ஆயிஷா (ரலி), இப்னு உமர் (ரலி) ஆகியோர் கூறியதாவது: குர்பானிப் பிராணி கிடைக்காதவர் தவிர மற்றவர்கள் ‘தஷ்ரீக்' உடைய நாட் களில் நோன்பு நோற்க அனுமதிக்கப்பட வில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1997</td></tr><tr><td>Arabic No</td><td>1997</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

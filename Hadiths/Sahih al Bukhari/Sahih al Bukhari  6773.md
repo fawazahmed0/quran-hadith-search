@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদ পানের জন্য গাছের ডাল এবং জুতা দ্বারা মেরেছেন। আর আবূ বাকর (রাঃ) চল্লিশ চাবুক লাগিয়েছেন। [৬৭৭৬; মুসলিম ২৯/৮, হাঃ ১৭০৬, আহমাদ ১২৮০৫] (আধুনিক প্রকাশনী- ৬৩০৪, ইসলামিক ফাউন্ডেশন- ৬৩১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদ পানের জন্য গাছের ডাল এবং জুতা দ্বারা মেরেছেন। আর আবূ বাকর (রাঃ) চল্লিশ চাবুক লাগিয়েছেন। [৬৭৭৬; মুসলিম ২৯/৮, হাঃ ১৭০৬, আহমাদ ১২৮০৫] (আধুনিক প্রকাশনী- ৬৩০৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6773</td></tr><tr><td>Arabic No</td><td>6773</td></tr><tr><td>Reference</td><td>Book 86 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: மது அருந்திய குற்றத்திற்குத் தண்டனையாகப் பேரீச்சமட்டையாலும் காலணியாலும் அடித்திடுமாறு நபி (ஸல்) அவர்கள் உத்தரவிட்டார்கள். அபூபக்ர் (ரலி) அவர்கள் (தமது ஆட்சிக் காலத்தில்) நாற்பது சாட்டையடிகள் வழங்க உத்தரவிட்டார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 86
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: மது அருந்திய குற்றத்திற்குத் தண்டனையாகப் பேரீச்சமட்டையாலும் காலணியாலும் அடித்திடுமாறு நபி (ஸல்) அவர்கள் உத்தரவிட்டார்கள். அபூபக்ர் (ரலி) அவர்கள் (தமது ஆட்சிக் காலத்தில்) நாற்பது சாட்டையடிகள் வழங்க உத்தரவிட்டார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6773</td></tr><tr><td>Arabic No</td><td>6773</td></tr><tr><td>Reference</td><td>Book 86 Hadith 2</td></tr></tbody></table></div>
 

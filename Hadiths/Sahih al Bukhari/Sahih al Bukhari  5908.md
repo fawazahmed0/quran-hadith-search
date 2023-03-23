@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ও আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর দু’ পা ছিল গোশতপূর্ণ। চেহারা ছিল সুন্দর। আমি তাঁর পরে তাঁর মত কাউকে দেখিনি। [৫৯০৭] (আধুনিক প্রকাশনী- ৫৪৭৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5908</td></tr><tr><td>Arabic No</td><td>5908</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku ['Amru bin Ali] telah menceritakan kepada kami [Mu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி), அல்லது அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பருத்த பாதங்களை உடையவர்களாகவும் அழகிய முகம் கொண்டவர்களாகவும் இருந்தார்கள். அவர்களுக்குப் பிறகு அவர்களைப் போல் (வேறெவரையும்) நான் பார்க்கவில்லை. அத்தியாயம் : 77
+அனஸ் பின் மாலிக் (ரலி), அல்லது அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பருத்த பாதங்களை உடையவர்களாகவும் அழகிய முகம் கொண்டவர்களாகவும் இருந்தார்கள். அவர்களுக்குப் பிறகு அவர்களைப் போல் (வேறெவரையும்) நான் பார்க்கவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5908</td></tr><tr><td>Arabic No</td><td>5908</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

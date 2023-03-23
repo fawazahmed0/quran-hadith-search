@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আবদুর রহমান ও ইবনুল মুসাইয়াব (রহ.) বলেন, আবূ হুরাইরাহ তাদেরকে (রাঃ) বলেছেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সহাবাদেরকে হাবাশা-এর বাদশাহ নাজাশীর মৃত্যু খবর সেদিন শুনালেন, যেদিন তিনি মারা গিয়েছিলেন এবং বলেছিলেন, তোমরা তোমাদের (দ্বীনী) ভাই এর জন্য মাগফিরাত চাও। (১২৪৫) (আধুনিক প্রকাশনীঃ ৩৫৯৩ প্রথমাংশ, ইসলামিক ফাউন্ডেশনঃ ৩৫৯৮ প্রথমাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3880</td></tr><tr><td>Arabic No</td><td>3880</td></tr><tr><td>Reference</td><td>Book 63 Hadith 105</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அபிசீனியாவின் அதிபர் நஜாஷீ அவர்கள் இறந்துவிட்ட செய்தியை அவர் இறந்த நாளன்றே எங்களுக்கு அறிவித்தார்கள். மேலும், “உங்கள் சகோதரருக்காகப் பாவமன்னிப்புக் கோருங்கள்” என்று சொன்னார்கள். அத்தியாயம் : 63
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அபிசீனியாவின் அதிபர் நஜாஷீ அவர்கள் இறந்துவிட்ட செய்தியை அவர் இறந்த நாளன்றே எங்களுக்கு அறிவித்தார்கள். மேலும், “உங்கள் சகோதரருக்காகப் பாவமன்னிப்புக் கோருங்கள்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3880</td></tr><tr><td>Arabic No</td><td>3880</td></tr><tr><td>Reference</td><td>Book 63 Hadith 105</td></tr></tbody></table></div>
 

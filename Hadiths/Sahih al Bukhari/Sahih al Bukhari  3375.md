@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আল্লাহ লূত (আঃ)-কে মাফ করুন। তিনি একটি মজবুত খুঁটির আশ্রয় চেয়েছিলেন। (৩৩৭২) (আধুনিক প্রকাশনীঃ ৩১২৫, ইসলামিক ফাউন্ডেশনঃ ৩১৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আল্লাহ লূত (আঃ)-কে মাফ করুন। তিনি একটি মজবুত খুঁটির আশ্রয় চেয়েছিলেন। (৩৩৭২) (আধুনিক প্রকাশনীঃ ৩১২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3375</td></tr><tr><td>Arabic No</td><td>3375</td></tr><tr><td>Reference</td><td>Book 60 Hadith 49</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'ai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: லூத் (அலை) அவர்களை அல்லாஹ் மன்னிப்பானாக! அவர்கள் பலமான ஓர் ஆதரவாளனிடமே புகலிடம் தேடுபவர் களாயிருந்தார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.51 அத்தியாயம் : 60
+நபி (ஸல்) அவர்கள் கூறினார்கள்: லூத் (அலை) அவர்களை அல்லாஹ் மன்னிப்பானாக! அவர்கள் பலமான ஓர் ஆதரவாளனிடமே புகலிடம் தேடுபவர் களாயிருந்தார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.51 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3375</td></tr><tr><td>Arabic No</td><td>3375</td></tr><tr><td>Reference</td><td>Book 60 Hadith 49</td></tr></tbody></table></div>
 

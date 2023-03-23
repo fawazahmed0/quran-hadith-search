@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে ফরজ সালাত ব্যতীত তাঁর সওয়ারী হতেই ইঙ্গিতে রাতের সালাত আদায় করতেন সওয়ারী যে দিকেই ফিরুক না কেন। আর তিনি বাহনের উপরেই বিতর আদায় করতেন। (৯৯৯) (আধুনিক প্রকাশনীঃ ৯৪১, ইসলামিক ফাউন্ডেশনঃ ৯৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে ফরজ সালাত ব্যতীত তাঁর সওয়ারী হতেই ইঙ্গিতে রাতের সালাত আদায় করতেন সওয়ারী যে দিকেই ফিরুক না কেন। আর তিনি বাহনের উপরেই বিতর আদায় করতেন। (৯৯৯) (আধুনিক প্রকাশনীঃ ৯৪১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பயணத்தில் தமது வாகனத்தின் மீது அமர்ந்தவாறு வாகனம் செல்லும் திசையில் சைகை செய்து இரவுத் தொழுகையைத் தொழுவார்கள்; ஆனால், கடமையான தொழுகைகளைத் தவிர! மேலும், தமது வாகனத்தின் மீது அமர்ந்தே வித்ர் தொழுவார்கள்.6 அத்தியாயம் : 14
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பயணத்தில் தமது வாகனத்தின் மீது அமர்ந்தவாறு வாகனம் செல்லும் திசையில் சைகை செய்து இரவுத் தொழுகையைத் தொழுவார்கள்; ஆனால், கடமையான தொழுகைகளைத் தவிர! மேலும், தமது வாகனத்தின் மீது அமர்ந்தே வித்ர் தொழுவார்கள்.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
 

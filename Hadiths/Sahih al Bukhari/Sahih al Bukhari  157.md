@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ ‘নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক উযূতে একবার করে ধুয়েছেন। (আধুনিক প্রকাশনীঃ ১৫৪, ইসলামিক ফাউন্ডেশনঃ ১৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ ‘নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক উযূতে একবার করে ধুয়েছেন। (আধুনিক প্রকাশনীঃ ১৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>157</td></tr><tr><td>Arabic No</td><td>157</td></tr><tr><td>Reference</td><td>Book 4 Hadith 23</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஒவ்வோர் உறுப்பையும்) தலா ஒரு முறை கழுவி அங்கத் தூய்மை செய்தார்கள்.14 அத்தியாயம் : 4
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஒவ்வோர் உறுப்பையும்) தலா ஒரு முறை கழுவி அங்கத் தூய்மை செய்தார்கள்.14 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>157</td></tr><tr><td>Arabic No</td><td>157</td></tr><tr><td>Reference</td><td>Book 4 Hadith 23</td></tr></tbody></table></div>
 

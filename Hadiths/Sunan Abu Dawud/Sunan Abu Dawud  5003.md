@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন বাশশার (রহঃ) ..... আবদুল্লাহ ইবন সায়েব ইবন ইয়াযীদ (রহঃ) তার পিতা হতে, তিনি তার দাদা থেকে বর্ণনা করেন। তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতো শোনেনঃ তোমাদের কেউ যেন তার ভাইয়ের কোন জিনিস ঠাট্টাচ্ছলে না নেয়। সুলায়মান (রহঃ) বলেনঃ জেনে-শুনে যেন না নেয়। আর যে তার ভাইয়ের লাঠি চেয়ে নেয়, সে যেন তা ফিরিয়ে দেয়।
+। আব্দুল্লাহ ইবনুস সায়িব ইবনু ইয়াযীদ (রহঃ) তার পিতা থেকে তার দাদার সূত্রে বর্ণনা করেন। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ তোমাদের কেউ যেন তার ভাইয়ের কোনো জিনিস না নেয়, খেলাচ্ছলেই হোক কিংবা বাস্তবিকই হোক। আর কেউ তার কোনো ভাইয়ের লাঠি নিয়ে থাকলে তা যেন ফিরিয়ে দেয়।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5003</td></tr><tr><td>Arabic No</td><td>5003</td></tr><tr><td>Reference</td><td>Book 43 Hadith 231</td></tr></tbody></table></div>
 

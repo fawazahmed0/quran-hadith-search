@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা'ঈদ (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তরমুজ ফল তাজা খেজুরের সাথে খেতেন এবং বলতেনঃ আমি এর গরমকে ওর ঠান্ডার দ্বারা এবং এর ঠান্ডাকে ওর গরমের দ্বারা বিদূরিত করি।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাজা খেজুর দিয়ে তরমুজ খেতেন। তিনি বলতেনঃ এর ঠান্ডা ওটার গরম কমাবে এবং এর গরম ওটির ঠান্ডা কমিয়ে দিবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3836</td></tr><tr><td>Arabic No</td><td>3836</td></tr><tr><td>Reference</td><td>Book 28 Hadith 101</td></tr></tbody></table></div>
 

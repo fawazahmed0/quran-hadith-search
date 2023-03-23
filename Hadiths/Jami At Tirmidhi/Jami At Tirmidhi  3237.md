@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৩৭। আসমা বিনতু ইয়াযীদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এ আয়াত পাঠ করতে শুনেছিঃ “হে আমার বান্দাগণ! তোমরা যারা নিজেদের উপর যুলুম করেছ, আল্লাহ্ তা'আলার রহমত হতে নিরাশ হয়ো না। নিশ্চয় আল্লাহ তা'আলা সকল গুনাহ মাফ করে দিবেন" (সূরাঃ আয-যুমার- ৫৩)। তিনি (এ ব্যাপারে) কারো ভয় করেন না। সনদ দুর্বল আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব। আমরা হাওশাবের সূত্রে শুধুমাত্র সাবিত হতেই এ হাদীসটি জানতে পেরেছি। তিনি আরও বলেন, শাহর ইবনু হাওশাব উম্মু সালমা আনসারিয়া হতে হাদীস বর্ণনা করেন। উম্মু সালামা আন-সারিয়ার নাম আসমা বিনতু ইয়ামীদ।
+। আসমা বিনতু ইয়াযীদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এ আয়াত পাঠ করতে শুনেছিঃ “হে আমার বান্দাগণ! তোমরা যারা নিজেদের উপর যুলুম করেছ, আল্লাহ্ তা'আলার রহমত হতে নিরাশ হয়ো না। নিশ্চয় আল্লাহ তা'আলা সকল গুনাহ মাফ করে দিবেন" (সূরাঃ আয-যুমার- ৫৩)। তিনি (এ ব্যাপারে) কারো ভয় করেন না। সনদ দুর্বল আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব। আমরা হাওশাবের সূত্রে শুধুমাত্র সাবিত হতেই এ হাদীসটি জানতে পেরেছি। তিনি আরও বলেন, শাহর ইবনু হাওশাব উম্মু সালমা আনসারিয়া হতে হাদীস বর্ণনা করেন। উম্মু সালামা আন-সারিয়ার নাম আসমা বিনতু ইয়ামীদ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3237</td></tr><tr><td>Arabic No</td><td>3237</td></tr><tr><td>Reference</td><td>Book 47 Hadith 289</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Asma bint Yazid:"I heard the Messenger of Allah (ﷺ) reciting: 'Say: "O My slaves who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins and I do not mind (referring to 39:53)
+Narrated Asma bint Yazid:"I heard the Messenger of Allah (ﷺ) reciting: 'Say: "O My slaves who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins and I do not mind (referring to 39:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3237</td></tr><tr><td>Arabic No</td><td>3237</td></tr><tr><td>Reference</td><td>Book 47 Hadith 289</td></tr></tbody></table></div>
 

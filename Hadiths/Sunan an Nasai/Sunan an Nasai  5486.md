@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবন কুদামা (রহঃ) ... উম্মে সালামা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন তাঁর ঘর থেকে বের হতেন, তখন তিনি বলতেনঃ বিসমিল্লাহ্, হে আমার রব! আমি আপনার নিকট আশ্রয় প্রার্থনা করছি, পদস্খলিত হওয়া থেকে, রাস্তা ভুলে যাওয়া থেকে, অত্যাচার করা হতে, অত্যাচারিত হওয়া থেকে, মূর্খতাসুলভ আচরণ থেকে এবং কারও মূর্খতাসুলভ আচরণের শিকার হওয়া থেকে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5486</td></tr><tr><td>Arabic No</td><td>5486</td></tr><tr><td>Reference</td><td>Book 50 Hadith 59</td></tr></tbody></table></div>
 

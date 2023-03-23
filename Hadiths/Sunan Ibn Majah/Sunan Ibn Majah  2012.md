@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২০১২। আসমা বিনতে ইয়াযীদ ইবনুস সাকান (রাঃ) থেকে বর্ণিত। তিনি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছেনঃ তোমরা গোপনে তোমাদের সন্তানদের হত্যা করো না। সেই সত্তার শপথ যাঁর হাতে আমার প্রাণ! দুধপানের মেয়াদে স্ত্রীর সাথে সহবাস করলে আরোহীকে ঘোড়া তার পিঠ থেকে ভূলুন্ঠিত করে।
+। আসমা বিনতে ইয়াযীদ ইবনুস সাকান (রাঃ) থেকে বর্ণিত। তিনি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছেনঃ তোমরা গোপনে তোমাদের সন্তানদের হত্যা করো না। সেই সত্তার শপথ যাঁর হাতে আমার প্রাণ! দুধপানের মেয়াদে স্ত্রীর সাথে সহবাস করলে আরোহীকে ঘোড়া তার পিঠ থেকে ভূলুন্ঠিত করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2012</td></tr><tr><td>Arabic No</td><td>2012</td></tr><tr><td>Reference</td><td>Book 9 Hadith 168</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ (রহঃ) ..... ইবরাহীম (রহঃ) হতে বর্ণিত। তিনি বলেন, নিশ্চই উসমান (রাঃ) চার রাক‘আত নামায (মিনাতে) আদায় করেন। কেননা তিনি এটাকে স্বীয় জন্মস্থান হিসাবে পরিগণিত করেন।
+। ইবরাহীম সূত্রে বর্ণিত। তিনি বলেন, ‘উসমান (রাযি.) সালাত চার রাক‘আত পড়েছেন। কারণ তিনি সেখানে স্থায়ীভাবে অবস্থান বানিয়েছিলেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1962</td></tr><tr><td>Arabic No</td><td>1962</td></tr><tr><td>Reference</td><td>Book 11 Hadith 242</td></tr></tbody></table></div>
 

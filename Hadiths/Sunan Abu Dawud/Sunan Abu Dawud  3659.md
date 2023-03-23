@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুহায়র ইবন হারব (রহঃ) ...... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আমার নিকট হতে শ্রবণ কর এবং লেকেরা তোমাদের নিকট হতে শ্রবণ করবে। আর যারা তোমাদের নিকট হতে শ্রবণ করবে তাদের নিকট হতে অন্য লোকেরা শ্রবণ করবে।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা ভালভাবে জ্ঞানের কথা শুনে রাখো। কেননা লোকেরা তোমাদের কাছ থেকে তা শুনবে। অতঃপর তোমাদের কাছ থেকে যারা শুনবে তাদের কাছ থেকেও পরবর্তীরা শুনবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3659</td></tr><tr><td>Arabic No</td><td>3659</td></tr><tr><td>Reference</td><td>Book 26 Hadith 19</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০৬৯। কাতাদাহ (রহঃ) হতে বর্ণিত, তিনি বলেনঃ আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ আমি তিনটি অথবা ৫টি অথবা ৭টি ছত্রাক নিয়ে এর রস বের করলাম, তারপর রস টুকু বোতলে রেখে দিলাম, তারপর উহাদ্বারা আমার এক দাসীর চোখে সুরমা লাগালে তার চোখ ভাল হয়ে গেল। সনদ দুর্বল, মাওকুফ
+। কাতাদাহ (রহঃ) হতে বর্ণিত, তিনি বলেনঃ আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ আমি তিনটি অথবা ৫টি অথবা ৭টি ছত্রাক নিয়ে এর রস বের করলাম, তারপর রস টুকু বোতলে রেখে দিলাম, তারপর উহাদ্বারা আমার এক দাসীর চোখে সুরমা লাগালে তার চোখ ভাল হয়ে গেল। সনদ দুর্বল, মাওকুফ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2069</td></tr><tr><td>Arabic No</td><td>2069</td></tr><tr><td>Reference</td><td>Book 28 Hadith 34</td></tr></tbody></table></div>
 

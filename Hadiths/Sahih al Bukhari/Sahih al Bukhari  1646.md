@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আমরা জাবির ইবনু ‘আবদুল্লাহ (রাঃ)-কে উক্ত বিষয়ে জিজ্ঞেস করলাম। তখন তিনি বললেন, সাফা ও মারওয়ার সা‘ঈ করার পূর্বে কারো পক্ষে স্ত্রী সহবাস মোটেই বৈধ হবে না। (৩৯৬) (আধুনিক প্রকাশনীঃ ১৫৩৪ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ১৫৪০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1646</td></tr><tr><td>Arabic No</td><td>1646</td></tr><tr><td>Reference</td><td>Book 25 Hadith 127</td></tr></tbody></table></div>
 

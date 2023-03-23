@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সুওয়ায়দ (রহঃ) ... আবু উসমান (রহঃ), ইনি আবু উসমান নাহদী নন, বলেন, উম্মুল ফযল আনাস ইবন মালিক (রাঃ)-এর নিকট লোক পাঠিয়ে জিজ্ঞেস করলেন যে, মাটির কলসের নবীয পান করা কেমন? তিনি তার পুত্র নাযর সম্পর্কে বর্ণনা করলেন যে, সে মাটির পাত্রে নবীয বানাত। ভোরে নবীয ভেজাত আর তা সন্ধ্যায় পান করত (অর্থাৎ তা হালাল, অন্যথায় তার ঘরে এটা করা হতো না)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5743</td></tr><tr><td>Arabic No</td><td>5743</td></tr><tr><td>Reference</td><td>Book 51 Hadith 205</td></tr></tbody></table></div>
 

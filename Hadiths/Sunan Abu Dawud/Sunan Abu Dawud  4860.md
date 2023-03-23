@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ইয়াহইয়া (রহঃ) ..... আবদুল্লাহ্‌ ইবন মাসঊদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার সাহাবীদের মধ্য থেকে কেউ কেউ যেন আমার কাছে অন্যের বিরুদ্ধে কোন অভিযোগ না করে। কেননা, আমি পসন্দ করি যে, যখন আমি তোমাদের থেকে প্রস্থান করি, তখন যেন আমার অন্তর পরিষ্কার থাকে (অর্থাৎ কারো প্রতি আমার অন্তরে যেন ঘৃণা না জন্মে।)
+। আব্দুল্লাহ ইবনু মাসঊদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমরা সাহাবীগণের কেউ যেন অপর সাহাবী সম্পর্কে আমার নিকট কোনো অভিযোগ না করে। কারণ আমি তোমাদের নিকট প্রশান্ত অন্তরে আসতে পছন্দ করি।[1] দুর্বলঃ মিশকাত হা/ ৪৮৫২।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4860</td></tr><tr><td>Arabic No</td><td>4860</td></tr><tr><td>Reference</td><td>Book 43 Hadith 88</td></tr></tbody></table></div>
 

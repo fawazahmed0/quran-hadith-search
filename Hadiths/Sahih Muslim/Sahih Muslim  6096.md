@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯৯০, আন্তর্জাতিক নাম্বারঃ ২৩৫১ ৫৯৯০-(১১৭/২৩৫১) ইসহাক ইবনু ইবরাহীম ও হারূন ইবনু আবদুল্লাহ (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত যে, মক্কায় রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তের বছর ছিলেন এবং তেষট্টি বছর বয়সে তিনি ইন্তিকাল করেন। (ইসলামিক ফাউন্ডেশন ৫৮৮৬, ইসলামিক সেন্টার ৫৯২২)
+ইসহাক ইবনু ইবরাহীম ও হারূন ইবনু আবদুল্লাহ (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত যে, মাক্কায় রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তের বছর ছিলেন এবং তেষট্টি বছর বয়সে তিনি ইন্তিকাল করেন। (ইসলামিক ফাউন্ডেশন ৫৮৮৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6096</td></tr><tr><td>Arabic No</td><td>2351.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 154</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Harun bin 'Abdillah] dar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மக்காவில் பதிமூன்று ஆண்டுகள் வாழ்ந்தார்கள். தமது அறுபத்து மூன்றாம் வயதில் இறந்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 43
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மக்காவில் பதிமூன்று ஆண்டுகள் வாழ்ந்தார்கள். தமது அறுபத்து மூன்றாம் வயதில் இறந்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6096</td></tr><tr><td>Arabic No</td><td>2351.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 154</td></tr></tbody></table></div>
 

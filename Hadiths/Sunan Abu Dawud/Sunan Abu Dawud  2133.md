@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবুল ওয়ালদি আত্ তায়ালিসী ...... আবূ হুরায়রা (রাঃ) হতে বর্ণনা করেছেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যার দু‘জন স্ত্রী আছে আর সে তার মধ্যে একজনের প্রতি অধিক ঝুঁকে পড়ে, সে ব্যক্তি কিয়ামতের দিন অর্ধাঙ্গ অবস্থায় আসবে।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি দুই‘জন স্ত্রী থাকা অবস্থায় তাদের একজনের প্রতি ঝুঁকে পড়লো, কিয়ামতের দিন সে পঙ্গু অবস্থায় উপস্থিত হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 12 Hadith 88</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi], telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Huveyre (r.a.) Peygamber (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir. "Kim'in iki karısı olurda (bunlardan sadece) birine meyl ederse, kıyamet günü bir tarafı (yere) sarkık olarak gelir." Diğer tahric: Tirmizî, nikah; Ahmed b. Hanbel, II, 295, 347, 471
+Ebu Huveyre (r.a.) Peygamber (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir. "Kim'in iki karısı olurda (bunlardan sadece) birine meyl ederse, kıyamet günü bir tarafı (yere) sarkık olarak gelir." Diğer tahric: Tirmizî, nikah; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 12 Hadith 88</td></tr></tbody></table></div>
 

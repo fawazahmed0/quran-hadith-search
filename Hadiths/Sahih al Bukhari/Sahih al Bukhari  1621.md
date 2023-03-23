@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে কা‘বা ঘর তাওয়াফ করতে দেখতে পেলেন এ অবস্থায় যে, চাবুকের ফিতা বা অন্য কিছু দিয়ে (তাকে টেনে নেয়া হচ্ছে)। তখন তিনি তা বিছিন্ন করে দিলেন। (১৬২০) (আধুনিক প্রকাশনীঃ ১৫১৪, ইসলামিক ফাউন্ডেশনঃ ১৫২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে কা‘বা ঘর তাওয়াফ করতে দেখতে পেলেন এ অবস্থায় যে, চাবুকের ফিতা বা অন্য কিছু দিয়ে (তাকে টেনে নেয়া হচ্ছে)। তখন তিনি তা বিছিন্ন করে দিলেন। (১৬২০) (আধুনিক প্রকাশনীঃ ১৫১৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>1621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 106</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari wa [Ibnu Juraij] dari [Sulaiman
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் (கையில்) கயிரையோ வேறொரு பொருளையோ கட்டிக்கொண்டு ‘தவாஃப்’ செய்வதை நபி (ஸல்) அவர்கள் கண்டார்கள். உடனே அதைத் துண்டித் தார்கள். அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் (கையில்) கயிரையோ வேறொரு பொருளையோ கட்டிக்கொண்டு ‘தவாஃப்’ செய்வதை நபி (ஸல்) அவர்கள் கண்டார்கள். உடனே அதைத் துண்டித் தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>1621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 106</td></tr></tbody></table></div>
 

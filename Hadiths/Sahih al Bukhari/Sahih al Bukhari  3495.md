@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আর মানব সমাজ খণির মত। জাহিলী যুগের উত্তম ব্যক্তি ইসলাম গ্রহণের পরও উত্তম যদি তারা দ্বীনী ইল্ম অর্জন করে। তোমরা নেতৃত্ব ও শাসনের ব্যাপারে ঐ লোককেই সবচেয়ে উত্তম পাবে যে এর প্রতি অনাসক্ত, যে পর্যন্ত না সে তা গ্রহণ করে। (৩৪৯৩, মুসলিম ৩৩/১ হাঃ ১৮১৮, আহমাদ ৯১৪৩) (আধুনিক প্রকাশনীঃ ৩২৩৪, ইসলামিক ফাউন্ডেশনঃ ৩২৪৪ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3495</td></tr><tr><td>Arabic No</td><td>3495</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

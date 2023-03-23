@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সাঈদ (রহঃ) ....... উমার ইবন খাত্তাব (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কাদরীয়া সম্প্রদায়ের সাথে উঠা-বসা করবে না এবং তাদের সাথে প্রথমে কথা-বার্তা বলবে না।
+। উমার ইবনুল খাত্তাব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যারা তাকদীরে বিশ্বাস করে না তোমরা তদের সঙ্গে ওঠা বসা করবে না এবং তোমাদেরকে সম্বোধন করার আগে তাদেরকে সম্বোধন করবে না।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4720</td></tr><tr><td>Arabic No</td><td>4720</td></tr><tr><td>Reference</td><td>Book 42 Hadith 125</td></tr></tbody></table></div>
 

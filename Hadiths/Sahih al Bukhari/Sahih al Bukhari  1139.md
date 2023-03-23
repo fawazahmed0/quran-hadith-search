@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাসরূক (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ‘আয়িশাহ্ (রাযি.)-কে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর রাতের সালাত সম্পর্কে জিজ্ঞেস করলে তিনি বললেন, ফজরের দু’ রাক‘আত (সুন্নাত) বাদে সাত বা নয় কিংবা এগার রাক‘আত। (মুসলিম ৬/১৭, হাঃ ৭৩৮) (আধুনিক প্রকাশনীঃ ১০৬৮, ইসলামিক ফাউন্ডেশনঃ ১০৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মাসরূক (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ‘আয়িশাহ্ (রাযি.)-কে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর রাতের সালাত সম্পর্কে জিজ্ঞেস করলে তিনি বললেন, ফজরের দু’ রাক‘আত (সুন্নাত) বাদে সাত বা নয় কিংবা এগার রাক‘আত। (মুসলিম ৬/১৭, হাঃ ৭৩৮) (আধুনিক প্রকাশনীঃ ১০৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1139</td></tr><tr><td>Arabic No</td><td>1139</td></tr><tr><td>Reference</td><td>Book 19 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] berkata, telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மஸ்ரூக் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஆயிஷா (ரலி) அவர்களிடம் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் இரவுத் தொழுகை பற்றி கேட்டேன். அதற்கு அவர்கள் “ஃபஜ்ருடைய இரண்டு ரக்அத் (சுன்னத்) தவிர ஏழு ரக்அத்கள், (சில சமயம்) ஒன்பது ரக்அத்கள், (சில சமயம்) பதினொன்று ரக்அத்கள் (தொழுவார்கள்)” என்று பதிலளித்தார்கள். அத்தியாயம் : 19
+மஸ்ரூக் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஆயிஷா (ரலி) அவர்களிடம் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் இரவுத் தொழுகை பற்றி கேட்டேன். அதற்கு அவர்கள் “ஃபஜ்ருடைய இரண்டு ரக்அத் (சுன்னத்) தவிர ஏழு ரக்அத்கள், (சில சமயம்) ஒன்பது ரக்அத்கள், (சில சமயம்) பதினொன்று ரக்அத்கள் (தொழுவார்கள்)” என்று பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1139</td></tr><tr><td>Arabic No</td><td>1139</td></tr><tr><td>Reference</td><td>Book 19 Hadith 20</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবনু আবূ শায়বা ..... আল-বারাআ ইবনু আযেব (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে উটের আস্তাবলে নামায পড়া সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেনঃ তোমরা উটের আস্তাবলে নামায পড়বে না। কেননা তা শয়তানের আড্ডা স্থান। অতঃপর তাকে বকরী বাঁধার স্থানে নামায পড়া সম্পর্কে জিজ্ঞাসা করা হলে তিনি বলেনঃ তোমরা সেখানে নামায পড়তে পার; কেননা তা বরকতময় স্থান। (তিরমিযী, ইবনু মাজাহ)।
+। আল-বারাআ ইবনু ‘আযিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে উটের আস্তাবলে সালাত আদায় করা সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেনঃ তোমরা উটের আস্তাবলে সালাত আদায় করবে না। কারণ তা শয়তানের আড্ডাখানা। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বকরীর খোঁয়াড়ে সালাত আদায় করা সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেনঃ সেখানে সালাত আদায় করতে পার। কারণ তা বরকতময় প্রাণী (বা স্থান)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>493</td></tr><tr><td>Arabic No</td><td>493</td></tr><tr><td>Reference</td><td>Book 2 Hadith 103</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bera b. Azib (r.a.) demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem)'e deve yataklarında namaz kılmanın hükmü soruldu. Nebî (Sallallahu aleyhi ve Sellem): "Deve yataklarında namaz kılmayınız. Çünkü develer şeytanlardandır" buyurdu. Koyun ağıllarında namaz kılmanın hükmü sorulunca da: "Oralarda kılınız, çünkü onlar berekettir" karşılığını verdi. Diğer tahric: Müslim, hayz; Ebu Davud, tahare; Ahmed b. Hanbel, IV, 150, 288, 352, V; 57, 92, 93, 98, 106
+Bera b. Azib (r.a.) demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem)'e deve yataklarında namaz kılmanın hükmü soruldu. Nebî (Sallallahu aleyhi ve Sellem): "Deve yataklarında namaz kılmayınız. Çünkü develer şeytanlardandır" buyurdu. Koyun ağıllarında namaz kılmanın hükmü sorulunca da: "Oralarda kılınız, çünkü onlar berekettir" karşılığını verdi. Diğer tahric: Müslim, hayz; Ebu Davud, tahare; Ahmed b. Hanbel, IV, 150, 288, 352, V;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>493</td></tr><tr><td>Arabic No</td><td>493</td></tr><tr><td>Reference</td><td>Book 2 Hadith 103</td></tr></tbody></table></div>
 

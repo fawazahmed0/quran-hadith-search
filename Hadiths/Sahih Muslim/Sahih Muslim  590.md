@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭৮, আন্তর্জাতিক নাম্বারঃ ২৫৩ ৪৭৮-(৪৩/২৫৩) আবূ কুরায়ব মুহাম্মাদ ইবনুল 'আলা (রহঃ) ..... মিকদাম এর পিতা শুরায়হ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আয়িশাহ (রাযিঃ) কে জিজ্ঞেস করলাম যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার ঘরে ঢুকে সর্বপ্রথম কোন কাজটি করতেন? তিনি বললেন, সর্বপ্রথম মিসওয়াক করতেন। (ইসলামিক ফাউন্ডেশনঃ ৪৮১, ইসলামিক সেন্টারঃ ৪৯৭)
+আবূ কুরায়ব মুহাম্মাদ ইবনুল 'আলা (রহঃ) ..... মিকদাম এর পিতা শুরায়হ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আয়িশাহ (রাযিঃ) কে জিজ্ঞেস করলাম যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার ঘরে ঢুকে সর্বপ্রথম কোন কাজটি করতেন? তিনি বললেন, সর্বপ্রথম মিসওয়াক করতেন। (ইসলামিক ফাউন্ডেশনঃ ৪৮১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>590</td></tr><tr><td>Arabic No</td><td>253.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 57</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-Ala'] telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஷுரைஹ் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஆயிஷா (ரலி) அவர்களிடம், நபி (ஸல்) அவர்கள் வீட்டுக்குள் நுழைந்ததும் அவர்கள் செய்யும் முதல் வேலை எது? என்று கேட்டேன். அதற்கு ஆயிஷா (ரலி) அவர்கள், பல் துலக்குவது என்று பதிலளித்தார்கள். அத்தியாயம் : 2
+ஷுரைஹ் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஆயிஷா (ரலி) அவர்களிடம், நபி (ஸல்) அவர்கள் வீட்டுக்குள் நுழைந்ததும் அவர்கள் செய்யும் முதல் வேலை எது? என்று கேட்டேன். அதற்கு ஆயிஷா (ரலி) அவர்கள், பல் துலக்குவது என்று பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>590</td></tr><tr><td>Arabic No</td><td>253.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 57</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-Ala'] telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Kureyb b. Ala tahdis etti. Bize İbn Bişr, Mis'ar'den tahdis etti. O Mikdad b. Şureyh'den, o babasından şöyle dediğini nakletti: Aişe'ye: Nebi (Sallallahu aleyhi ve Sellem) evine girdiği zaman ilk olarak ne yapardı, diye sordum. O: Misvak kullanırdı, dedi. Diğer tahric: Ebu Davud, 51; Nesai, 8; İbn Mace, 290; Tuhfetu'l-Eşraf, 16144
+Bize Ebu Kureyb b. Ala tahdis etti. Bize İbn Bişr, Mis'ar'den tahdis etti. O Mikdad b. Şureyh'den, o babasından şöyle dediğini nakletti: Aişe'ye: Nebi (Sallallahu aleyhi ve Sellem) evine girdiği zaman ilk olarak ne yapardı, diye sordum. O: Misvak kullanırdı, dedi. Diğer tahric: Ebu Davud, 51; Nesai, 8; İbn Mace, 290; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>590</td></tr><tr><td>Arabic No</td><td>253.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 57</td></tr></tbody></table></div>
 

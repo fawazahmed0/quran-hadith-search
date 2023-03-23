@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুসায়ন ইবন মু‘আয ইবন খুলায়ফ (রহঃ) .... আদী ইবন হাতীম (রাঃ) থেকে বর্ণিত। একদা তিনি বলেনঃ ইয়া রাসূলাল্লাহ্! আমাদের কেউ যদি শিকারের প্রতি তীর নিক্ষেপ করে তা অনুসন্ধান করতে থাকে এবং দু'তিন দিন পর তা মৃত অবস্থায় পায়, আর তীরও ঐ জন্তুর শরীরে বিদ্ধ থাকে, তখন সে ব্যক্তি তা ভক্ষণ করতে পারবে? তিনি বলেনঃ হ্যাঁ, যদি সে চায়। অথবা তিনি বলেনঃ সে তা খেতে পারবে, যদি সে ইচ্ছা করে।
+। ‘আদী ইবনু হাতিম (রাঃ) সূত্রে বর্ণিত। তিনি বললেন, হে আল্লাহর রাসূল! আমাদের কেউ যদি শিকারের প্রতি তীর নিক্ষেপ করে, অতঃপর দুই বা তিন দিন নিখোঁজ থাকার পর মৃত অবস্থায় শিকারটি পায় এবং তার শরীরে তীরবিদ্ধ থাকে। সে কি তা খাবে? তিনি বললেনঃ হ্যাঁ, সে ইচ্ছা হলে খেতে পারে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2853</td></tr><tr><td>Arabic No</td><td>2853</td></tr><tr><td>Reference</td><td>Book 17 Hadith 10</td></tr></tbody></table></div>
 

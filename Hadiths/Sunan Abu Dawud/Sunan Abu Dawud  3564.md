@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... সাফওয়ান (রাঃ)-এর বংশধরদের কেউ বর্ণনা করেছেন। তিনি বলেছেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ধার হিসাবে লৌহবর্ম গ্রহণ করেন। এরপর পূর্বোক্ত হাদীছের অর্থে হাদীছ বর্ণিত হয়েছে।
+। সাফওয়ানের পরিবারের লোকদের সূত্রে বর্ণিত। তারা বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ধার হিসেবে ... অতঃপর উপরের হাদীসের অনুরূপ বর্ণিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 24 Hadith 149</td></tr></tbody></table></div>
 

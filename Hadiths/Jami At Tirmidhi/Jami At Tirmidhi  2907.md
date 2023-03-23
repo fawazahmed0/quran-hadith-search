@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯০৭। উসমান ইবনু আফফান (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সে লোকই তোমাদের মধ্যে শ্রেষ্ঠ যে কুরআন শিক্ষা করে এবং অন্যকে তা শিক্ষা দেয়। সহীহঃ ইবনু মা-জাহ (২১১), বুখারী। 'আবদুর রাহমান বলেন, এ হাদীসই আমাকে এ স্থানে বসিয়ে রেখেছে। তিনি উসমান (রাযিঃ)-এর যুগ হতে হাজ্জাজ ইবনু ইউসুফের যুগ পর্যন্ত কুরআন শিক্ষা দিয়েছেন। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। উসমান ইবনু আফফান (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সে লোকই তোমাদের মধ্যে শ্রেষ্ঠ যে কুরআন শিক্ষা করে এবং অন্যকে তা শিক্ষা দেয়। সহীহঃ ইবনু মা-জাহ (২১১), বুখারী। 'আবদুর রাহমান বলেন, এ হাদীসই আমাকে এ স্থানে বসিয়ে রেখেছে। তিনি উসমান (রাযিঃ)-এর যুগ হতে হাজ্জাজ ইবনু ইউসুফের যুগ পর্যন্ত কুরআন শিক্ষা দিয়েছেন। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2907</td></tr><tr><td>Arabic No</td><td>2907</td></tr><tr><td>Reference</td><td>Book 45 Hadith 33</td></tr></tbody></table></div>
 

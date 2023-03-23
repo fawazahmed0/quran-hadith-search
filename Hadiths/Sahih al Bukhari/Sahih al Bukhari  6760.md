@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ওয়ালা হল ঐ ব্যক্তির জন্য যে রৌপ্য (মূল্য) প্রদান করে। আর সে নিয়ামতের অধিকারী হয়। [৪৫৬] (আধুনিক প্রকাশনী- ৬২৯২, ইসলামিক ফাউন্ডেশন- ৬৩০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ওয়ালা হল ঐ ব্যক্তির জন্য যে রৌপ্য (মূল্য) প্রদান করে। আর সে নিয়ামতের অধিকারী হয়। [৪৫৬] (আধুনিক প্রকাশনী- ৬২৯২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6760</td></tr><tr><td>Arabic No</td><td>6760</td></tr><tr><td>Reference</td><td>Book 85 Hadith 37</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibnu Salam] telah mengabarkan kepada kami [Waki'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளியை(க் கிரயமாக)க் கொடுத்து (விலைக்கு வாங்கி, விடுதலை எனும்) பேருபகாரம் செய்தவருக்கே (அடிமைக்கு) வாரிசாகும் உரிமை உண்டு. இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 86
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளியை(க் கிரயமாக)க் கொடுத்து (விலைக்கு வாங்கி, விடுதலை எனும்) பேருபகாரம் செய்தவருக்கே (அடிமைக்கு) வாரிசாகும் உரிமை உண்டு. இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6760</td></tr><tr><td>Arabic No</td><td>6760</td></tr><tr><td>Reference</td><td>Book 85 Hadith 37</td></tr></tbody></table></div>
 

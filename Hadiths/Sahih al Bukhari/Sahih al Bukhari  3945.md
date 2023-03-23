@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত, তিনি বলেন, এরাই তো সেই আহলে কিতাব যারা ভাগাভাগি করে ফেলেছে, কোন কোন বিষয়ের উপর ঈমান এনেছে আর কোন কোন বিষয়কে অস্বীকার করেছে। রাবী আল্লাহর এ বাণী বুঝাতে চেয়েছেন-‘‘যারা কুরআনকে খন্ড খন্ড করেছে’’ (সূরাহ আল-হিজরঃ ৯১) (৪৭০৫, ৪৭০৬) (আধুনিক প্রকাশনীঃ ৩৬৫৪, ইসলামিক ফাউন্ডেশনঃ ৩৬৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত, তিনি বলেন, এরাই তো সেই আহলে কিতাব যারা ভাগাভাগি করে ফেলেছে, কোন কোন বিষয়ের উপর ঈমান এনেছে আর কোন কোন বিষয়কে অস্বীকার করেছে। রাবী আল্লাহর এ বাণী বুঝাতে চেয়েছেন-‘‘যারা কুরআনকে খন্ড খন্ড করেছে’’ (সূরাহ আল-হিজরঃ ৯১) (৪৭০৫, ৪৭০৬) (আধুনিক প্রকাশনীঃ ৩৬৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3945</td></tr><tr><td>Arabic No</td><td>3945</td></tr><tr><td>Reference</td><td>Book 63 Hadith 169</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:They, the people of the Scriptures, divided this Scripture into parts, believing in some portions of it and disbelieving the others. (See 15:91)
+Narrated Ibn 'Abbas:They, the people of the Scriptures, divided this Scripture into parts, believing in some portions of it and disbelieving the others. (See 15:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3945</td></tr><tr><td>Arabic No</td><td>3945</td></tr><tr><td>Reference</td><td>Book 63 Hadith 169</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ibn 'Abbas:They, the people of the Scriptures, divided this Scripture i
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Ziyad bin Ayyub] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Bisyir] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] radliallahu 'anhuma, ia berkata; "Mereka adalah Ahlul Kitab yang telah memilah-milih (aturan Allah). Sebagian mereka mengimani sebagian dan sebagian lagi mereka mengingkarinya." Ini adalah maksud firman Allah "(yaitu) orang-orang yang telah menjadikan al Qur'an terbagi-bagi." QS Al Hijr; 91
+Telah menceritakan kepadaku [Ziyad bin Ayyub] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Bisyir] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] radliallahu 'anhuma, ia berkata; "Mereka adalah Ahlul Kitab yang telah memilah-milih (aturan Allah). Sebagian mereka mengimani sebagian dan sebagian lagi mereka mengingkarinya." Ini adalah maksud firman Allah "(yaitu) orang-orang yang telah menjadikan al Qur'an terbagi-bagi." QS Al Hijr;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3945</td></tr><tr><td>Arabic No</td><td>3945</td></tr><tr><td>Reference</td><td>Book 63 Hadith 169</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ziyad bin Ayyub] telah menceritakan kepada kami [Hu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அந்த வேதக்காரர்கள் (எத்தகையவர்கள் எனில், குர்ஆன் எனும்) அதனைப் பல பகுதிகளாகப் பிரித்துக்கொண்டார்கள். அதில் சிலவற்றை நம்பி ஏற்று, சிலவற்றை ஏற்க மறுத்துவிட்டார்கள். அத்தியாயம் : 63
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அந்த வேதக்காரர்கள் (எத்தகையவர்கள் எனில், குர்ஆன் எனும்) அதனைப் பல பகுதிகளாகப் பிரித்துக்கொண்டார்கள். அதில் சிலவற்றை நம்பி ஏற்று, சிலவற்றை ஏற்க மறுத்துவிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3945</td></tr><tr><td>Arabic No</td><td>3945</td></tr><tr><td>Reference</td><td>Book 63 Hadith 169</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৪৮৮, আন্তর্জাতিক নাম্বারঃ ২৫৯০ ৬৪৮৮-(৭১/২৫৯০) উমাইয়াহ ইবনু বিস্‌তাম আল আইশী (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা’আলা দুনিয়াতে যে বান্দার দোষ-ত্রুটি লুকিয়ে রেখেছেন, কিয়ামত দিবসেও তার দোষ-ত্রুটি ঢেকে রাখবেন। (ইসলামিক ফাউন্ডেশন ৬৩৫৮, ইসলামিক সেন্টার ৬৪০৮)
+উমাইয়াহ ইবনু বিস্‌তাম আল আইশী (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা’আলা দুনিয়াতে যে বান্দার দোষ-ত্রুটি লুকিয়ে রেখেছেন, কিয়ামত দিবসেও তার দোষ-ত্রুটি ঢেকে রাখবেন। (ইসলামিক ফাউন্ডেশন ৬৩৫৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6594</td></tr><tr><td>Arabic No</td><td>2590.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 92</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Umayyah bin Bistham Al 'Aisyi]; Telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஓர் அடியார் மற்றோர் அடியாரின் குறையை இவ்வுலகில் மறைத்தால், அவருடைய குறையை அல்லாஹ் மறுமை நாளில் மறைக்காமல் இருப்பதில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 45
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஓர் அடியார் மற்றோர் அடியாரின் குறையை இவ்வுலகில் மறைத்தால், அவருடைய குறையை அல்லாஹ் மறுமை நாளில் மறைக்காமல் இருப்பதில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6594</td></tr><tr><td>Arabic No</td><td>2590.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 92</td></tr></tbody></table></div>
 

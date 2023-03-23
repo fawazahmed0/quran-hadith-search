@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জন্য আমি একটি চাদর কাল রঙে রাঙিয়ে দেই, তিনি তা পরিধান করেন। পরে ঘামে ভিজে তা থেকে পশমের গন্ধ বের হওয়ায়, তিনি তা ফেলে দেন। রাবী বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট খুশবু খুবই প্রিয় ছিল।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য একটা কালো চাদর রং করে দিলাম। তিনি তা পরিধান করলেন। তিনি ঘামের কারণে পশমের দুর্গন্ধ পেয়ে তা খুলে ফেললেন। বর্ণনাকারী বলেন, আমার ধারণা (উর্ধতন বর্ণনাকারী) বলেছেন, সুগন্ধি তাঁর খুবই প্রিয় ছিলো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4074</td></tr><tr><td>Arabic No</td><td>4074</td></tr><tr><td>Reference</td><td>Book 34 Hadith 55</td></tr></tbody></table></div>
 

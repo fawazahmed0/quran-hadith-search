@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইবন মুহাম্মদ (রহঃ) ...... আবদুল্লাহ্‌ ইবন মাসঊদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা তিনি আশআছ ইবন কায়স (রাঃ)-এর নিকট কয়েকটি গোলাম বিক্রি করেন। এরপর পূর্বোক্ত হাদীছের অর্থে- হাদীছ বর্ণিত হয়েছে। তবে হাদীছের বর্ণনায় শব্দের মধ্যে কিছু কমবেশী আছে।
+। আল-কাসিম ইবনু ‘আব্দুর রাহমান (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। ‘আব্দুল্লাহ ইবনু মাস‘ঊদ (রাঃ) আশ‘আস ইবনু কায়িস (রাঃ)-এর কাছে কিছু গোলাম বিক্রি করেন। অতঃপর হাদীসের বাকী অংশ উপরের হাদীসের অনুরূপ। তবে এতে কিছু কম-বেশী আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3512</td></tr><tr><td>Arabic No</td><td>3512</td></tr><tr><td>Reference</td><td>Book 24 Hadith 97</td></tr></tbody></table></div>
 

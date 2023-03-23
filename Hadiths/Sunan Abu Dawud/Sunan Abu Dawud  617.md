@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনু ইউনুস ..... আবদুল্লাহ্ ইবনু আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেনঃ যখন ইমাম নামাযের শেষ পর্যায়ে তাশাহুদের পরিমাণ সময় বসার পর তার উযূ (ওজু/অজু/অযু) নষ্ট হবে। তিনি কোন কথা (সালাম) বলার পূর্বে– এমতাবস্থায় নামায আদায় হয়ে যাবে এবং মোক্তাদীদের নামাযও পূর্ণ হয়ে যাবে- যারা ইমামের সাথে পুরা নামায পেয়েছে। (তিরমিযী)।
+। ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাতের শেষ পর্যায়ে (শেষ বৈঠকে) বসে কোনরূপ কথা বলার (সালাম ফিরানোর) পূর্বেই যদি ইমামের অযু নষ্ট হয়ে যায়, তাহলে ইমামের সালাত পূর্ণ হয়ে যাবে এবং তার পেছনে সালাত আদায়কারীদেরও সালাত পূর্ণ হয়ে যাবে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>617</td></tr><tr><td>Arabic No</td><td>617</td></tr><tr><td>Reference</td><td>Book 2 Hadith 227</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Amr'dan rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "İmam namazı kılar ve (teşehhüd miktarı) oturur da selamdan önce abdesti bozuluverirse, namazı tamamdır. Arkasında (cemaat olarak) bulunan kimsenin de namazı tamdır." Diğer tahric: Tirmizî, salat; Darimî, vudu'; Ahmed, VI, 272
+Abdullah b. Amr'dan rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "İmam namazı kılar ve (teşehhüd miktarı) oturur da selamdan önce abdesti bozuluverirse, namazı tamamdır. Arkasında (cemaat olarak) bulunan kimsenin de namazı tamdır." Diğer tahric: Tirmizî, salat; Darimî, vudu'; Ahmed, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>617</td></tr><tr><td>Arabic No</td><td>617</td></tr><tr><td>Reference</td><td>Book 2 Hadith 227</td></tr></tbody></table></div>
 

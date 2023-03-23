@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩১৩৬। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। এক ব্যক্তি মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়ে বললো, আমার উপর একটি উট কোরবানী করা অপরিহার্য এবং তা ক্রয়ের সামর্থ্যও আমার আছে কিন্তু তা পাওয়া যাচ্ছে না বিধায় আমি ক্রয় করতে পারছি না। মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে সাতটি ছাগল ক্রয় করে তা যবেহ করার নির্দেশ দেন।
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। এক ব্যক্তি মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়ে বললো, আমার উপর একটি উট কোরবানী করা অপরিহার্য এবং তা ক্রয়ের সামর্থ্যও আমার আছে কিন্তু তা পাওয়া যাচ্ছে না বিধায় আমি ক্রয় করতে পারছি না। মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে সাতটি ছাগল ক্রয় করে তা যবেহ করার নির্দেশ দেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3136</td></tr><tr><td>Arabic No</td><td>3136</td></tr><tr><td>Reference</td><td>Book 26 Hadith 17</td></tr></tbody></table></div>
 

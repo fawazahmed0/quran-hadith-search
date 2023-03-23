@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২, আন্তর্জাতিক নাম্বারঃ ২ (২/...) যুহায়র ইবনু হারব (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণনা করেন যে, তিনি বলেন, তোমাদের কাছে অধিক সংখ্যক হাদীস বর্ণনা করা থেকে যা আমাকে বিরত রাখে তা হলো, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যে ব্যক্তি স্বেচ্ছায় আমার প্রতি মিথ্যারোপ করে, সে যেন নিজের বাসস্থান জাহান্নামে নির্ধারণ করে নেয়।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3</td></tr><tr><td>Reference</td><td>Book 0 Hadith 3</td></tr></tbody></table></div>
 

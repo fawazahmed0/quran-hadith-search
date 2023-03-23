@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+কুতায়বা (রহঃ) ... আবু সাঈদ খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ তাবুকের বৎসর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকদের উদ্দেশে খুৎবা দিচ্ছিলেন, তখন তিনি তাঁর সওয়ারীতে হেলান দিয়ে বসে ছিলেন। তিনি বললেনঃ আমি কি তোমাদেরকে উত্তম ও অধম ব্যক্তির সংবাদ দেব না? লোকের মধ্যে সে ব্যক্তি উত্তম, যে ব্যক্তি আমৃত্যু আল্লাহর রাস্তায় কাজ করে, ঘোড়ার পৃষ্ঠে আরোহণ করে অথবা তার উটের পৃষ্ঠে থেকে অথবা পদব্রজে। আর অধম সে ব্যক্তি, যে ব্যক্তি গুনাহর কাজ করে, আল্লাহর কিতাব তিলাওয়াত করে, কিন্তু মন্দ থেকে বিরত থাকে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3106</td></tr><tr><td>Arabic No</td><td>3106</td></tr><tr><td>Reference</td><td>Book 25 Hadith 22</td></tr></tbody></table></div>
 

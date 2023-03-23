@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিলাল (রাযি.) রাত থাকতে আযান দিয়ে থাকেন। কাজেই তোমরা (সাহরী) পানাহার করতে থাক; যতক্ষণ না ইবনু উম্মে মাক্তূম (রাযি.) আযান দেন।* (৬১৭) (আধুনিক প্রকাশনীঃ ৫৮৫, ইসলামিক ফাউন্ডেশনঃ ৫৯৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিলাল (রাযি.) রাত থাকতে আযান দিয়ে থাকেন। কাজেই তোমরা (সাহরী) পানাহার করতে থাক; যতক্ষণ না ইবনু উম্মে মাক্তূম (রাযি.) আযান দেন।* (৬১৭) (আধুনিক প্রকাশনীঃ ৫৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>620</td></tr><tr><td>Arabic No</td><td>620</td></tr><tr><td>Reference</td><td>Book 10 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: “(ரமளானில்) பிலால் (பின்)இரவில் தொழுகை அறிவிப்புச் செய்வார். எனவே, இப்னு உம்மி மக்(த்)தூம் (ஃபஜ் ருக்கு) பாங்கு சொல்லும்வரை (சஹர் உணவு) உண்ணுங்கள்; பருகுங்கள்” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 10
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: “(ரமளானில்) பிலால் (பின்)இரவில் தொழுகை அறிவிப்புச் செய்வார். எனவே, இப்னு உம்மி மக்(த்)தூம் (ஃபஜ் ருக்கு) பாங்கு சொல்லும்வரை (சஹர் உணவு) உண்ணுங்கள்; பருகுங்கள்” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>620</td></tr><tr><td>Arabic No</td><td>620</td></tr><tr><td>Reference</td><td>Book 10 Hadith 18</td></tr></tbody></table></div>
 

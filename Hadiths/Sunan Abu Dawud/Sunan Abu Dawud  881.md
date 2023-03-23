@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আব্দুর রহমান ইবনে আবু লায়লা (রহঃ) তাঁর পিতা হতে বর্ণনা করেন। তিনি বলেন, একদা আমি রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পাশে দাঁড়িয়ে নফল নামায আদায় করছিলাম এসময় আমি তাঁকে “আউযু বিল্লাহি মিনান্নার ওয়াইলুন লি-আহলিন নার” বলতে শুনেছি। (ইবনে মাজাহ)।
+। ‘আবদুর রহমান ইবনু আবূ লায়লাহ (রাঃ) হতে তাঁর পিতা সূত্রে বর্ণিত। তিনি বলেনঃ একদা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পাশে দাঁড়িয়ে নফল সালাত পড়ছিলাম। তখন আমি তাঁকে এ দু‘আ পড়তে শুনেছিঃ ‘‘আ‘উযুবিল্লাহি মিনান্নার ওয়া ওয়াইলুল লি-আহলিন্নার।’’[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>881</td></tr><tr><td>Arabic No</td><td>881</td></tr><tr><td>Reference</td><td>Book 2 Hadith 491</td></tr></tbody></table></div>
 

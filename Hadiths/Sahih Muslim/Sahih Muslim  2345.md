@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২৩৫, আন্তর্জাতিক নাম্বারঃ ১০১৪ ২২৩৫-(.../...) আবূ ত্বাহির (রহঃ) .... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ...... উপরের হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২২১৪, ইসলামীক সেন্টার ২২১৫)
+আবূ ত্বাহির (রহঃ) .... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ...... উপরের হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২২১৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2345</td></tr><tr><td>Arabic No</td><td>1014.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 82</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:This hadith has been transmitted through another chain the same as the narration of Ya'qub from Suhail (# 2212)
+Narrated Abu Huraira:This hadith has been transmitted through another chain the same as the narration of Ya'qub from Suhail
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2345</td></tr><tr><td>Arabic No</td><td>1014.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 82</td></tr></tbody></table></div>
 

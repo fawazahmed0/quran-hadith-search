@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু‘আ করেছেনঃ হে আল্লাহ্! তুমি তাদের পরিমাপে সা‘-এ এবং মুদ্দে বারাকাত দান কর। [২১৩০] (আধুনিক প্রকাশনী- ৬২৪৭, ইসলামিক ফাউন্ডেশন- ৬২৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু‘আ করেছেনঃ হে আল্লাহ্! তুমি তাদের পরিমাপে সা‘-এ এবং মুদ্দে বারাকাত দান কর। [২১৩০] (আধুনিক প্রকাশনী- ৬২৪৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6714</td></tr><tr><td>Arabic No</td><td>6714</td></tr><tr><td>Reference</td><td>Book 84 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இறைவா! (மதீனாவாசிகளான) இவர்களுக்கு இவர்களின் அளவை களான ‘ஸாஉ’ மற்றும் ‘முத்’ ஆகியவற்றில் வளம் சேர்ப்பாயாக” என்று பிரார்த்தித்தார்கள்.10 அத்தியாயம் : 86
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இறைவா! (மதீனாவாசிகளான) இவர்களுக்கு இவர்களின் அளவை களான ‘ஸாஉ’ மற்றும் ‘முத்’ ஆகியவற்றில் வளம் சேர்ப்பாயாக” என்று பிரார்த்தித்தார்கள்.10 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6714</td></tr><tr><td>Arabic No</td><td>6714</td></tr><tr><td>Reference</td><td>Book 84 Hadith 7</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সুওয়ায়দ (রহঃ) ... রুকাইয়া বিনতে আমর ইবন সাঈদ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি আবদুল্লাহ ইবন উমর (রাঃ)-এর নিকট প্রতিপালিত হই। তাঁর জন্য কিশমিশ ভেজানাে হতো। তিনি তা পরবর্তী দিন পান করতেন। পরে কিসমিশ শুকিয়ে নেয়া হতো এবং তার সাথে অন্য কিসমিশ মিশিয়ে তাতে পানি ঢালা হতো। পরের দিন তিনি তা পান করতেন। তারপরের দিন তা ফেলে দিতেন। তারা আবু মাসঊদ উকবা ইন আমর এর বর্ণিত হাদীস দ্বারাও দলীল দিয়ে থাকেন, যা নিম্নরূপঃ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5702</td></tr><tr><td>Arabic No</td><td>5702</td></tr><tr><td>Reference</td><td>Book 51 Hadith 164</td></tr></tbody></table></div>
 

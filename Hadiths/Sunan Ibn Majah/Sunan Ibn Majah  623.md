@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৬২৩। উম্মু সালামাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক মহিলা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট সমাধান জানতে চেয়ে বলেন, আমার অনবরত রক্তস্রাব হয়, আমি কখনো পবিত্র হই না। আমি কি সালাত ছেড়ে দিবো? তিনি বলেনঃ না, বরং তুমি তোমার হায়িযের মেয়াদে সালাত ত্যাগ করো। আবূ বাকর (রহঃ)-এর রিওয়ায়াতে আছেঃ প্রতি মাসে হায়েযের সমপরিমাণ মেয়াদ নির্ধারণ করো, অতঃপর গোসল করে কাপড়ের পট্টি বেঁধে সালাত পড়ো।
+। উম্মু সালামাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক মহিলা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট সমাধান জানতে চেয়ে বলেন, আমার অনবরত রক্তস্রাব হয়, আমি কখনো পবিত্র হই না। আমি কি সালাত ছেড়ে দিবো? তিনি বলেনঃ না, বরং তুমি তোমার হায়িযের মেয়াদে সালাত ত্যাগ করো। আবূ বাকর (রহঃ)-এর রিওয়ায়াতে আছেঃ প্রতি মাসে হায়েযের সমপরিমাণ মেয়াদ নির্ধারণ করো, অতঃপর গোসল করে কাপড়ের পট্টি বেঁধে সালাত পড়ো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>623</td></tr><tr><td>Arabic No</td><td>623</td></tr><tr><td>Reference</td><td>Book 1 Hadith 357</td></tr></tbody></table></div>
 

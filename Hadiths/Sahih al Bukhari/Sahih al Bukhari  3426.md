@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন যে, আমার ও অন্যান্য মানুষের দৃষ্টান্ত হলো এমন যেমন কোন এক ব্যক্তি আগুন জ্বালাল এবং তাতে পতঙ্গ এবং পোকামাকড় ঝাঁকে ঝাঁকে পড়তে লাগল। (৬৪৮৩, মুসলিম ৪৩/৬ হাঃ ২২৮৪, আহমাদ ৮১২৩) (ইসলামিক ফাউন্ডেশনঃ ৩১৮৩ প্রথমাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3426</td></tr><tr><td>Arabic No</td><td>3426</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'ai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எனது நிலையும் மக்களின் நிலையும் ஒரு மனிதரின் நிலையை ஒத்திருக்கிறது. அவர் தீயை மூட்டிவிட, விட்டில் பூச்சிகளும் இதரப் பூச்சிகளும் அந்த நெருப்பில் விழுகின்றன.106 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 60
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எனது நிலையும் மக்களின் நிலையும் ஒரு மனிதரின் நிலையை ஒத்திருக்கிறது. அவர் தீயை மூட்டிவிட, விட்டில் பூச்சிகளும் இதரப் பூச்சிகளும் அந்த நெருப்பில் விழுகின்றன.106 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3426</td></tr><tr><td>Arabic No</td><td>3426</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

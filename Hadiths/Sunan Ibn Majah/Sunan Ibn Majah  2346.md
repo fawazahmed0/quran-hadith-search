@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৩৪৬। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। দু’ ব্যক্তি একটি বিক্রীত পণ্য নিয়ে জগড়া করছিল। তাদের একজনের নিকটও কোন প্রমাণ ছিলোন না। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে নির্দেশ দেন যে, লটারীতে তাদের দু’জনের মধ্যে যার নাম উঠবে সে শপথ করে পণ্য নিবে, তাতে তারা সন্তুষ্ট হতে পারুক বা না পারুক।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। দু’ ব্যক্তি একটি বিক্রীত পণ্য নিয়ে জগড়া করছিল। তাদের একজনের নিকটও কোন প্রমাণ ছিলোন না। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে নির্দেশ দেন যে, লটারীতে তাদের দু’জনের মধ্যে যার নাম উঠবে সে শপথ করে পণ্য নিবে, তাতে তারা সন্তুষ্ট হতে পারুক বা না পারুক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2346</td></tr><tr><td>Arabic No</td><td>2346</td></tr><tr><td>Reference</td><td>Book 13 Hadith 39</td></tr></tbody></table></div>
 

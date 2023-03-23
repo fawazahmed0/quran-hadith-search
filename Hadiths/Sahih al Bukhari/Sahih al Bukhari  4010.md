@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু শিহাব (রহ.) হতে বর্ণিত যে, তিনি বলেছেন, আমি বানী সালিম গোত্রের হুসাইন ইবনু মুহাম্মাদ (রহ.)-কে ইতবান ইবনু মালিক থেকে মাহমুদ ইবনু রাবী এর বর্ণিত হাদীসের ব্যাপারে জিজ্ঞেস করলে তিনি তার সত্যায়ন করলেন। [৪২৪] (আধুনিক প্রকাশনীঃ ৩৭১৩, ইসলামিক ফাউন্ডেশনঃ ৩৭১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু শিহাব (রহ.) হতে বর্ণিত যে, তিনি বলেছেন, আমি বানী সালিম গোত্রের হুসাইন ইবনু মুহাম্মাদ (রহ.)-কে ইতবান ইবনু মালিক থেকে মাহমুদ ইবনু রাবী এর বর্ণিত হাদীসের ব্যাপারে জিজ্ঞেস করলে তিনি তার সত্যায়ন করলেন। [৪২৪] (আধুনিক প্রকাশনীঃ ৩৭১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4010</td></tr><tr><td>Arabic No</td><td>4010</td></tr><tr><td>Reference</td><td>Book 64 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn Shihab:I asked Al-Husain bin Muhammad who was one of the sons of Sa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு ஷிஹாப் (அஸ்ஸுஹ்ரீ -ரஹ்) அவர்கள் கூறியதாவது: பனூ சாலிம் குலத்தில் ஒருவரும் அவர்களில் சிறப்புக்குரியவருமான ஹுஸைன் பின் முஹம்மத் (ரலி) அவர்களிடம் இத்பான் பின் மாலிக் (ரலி) அவர்கள் குறித்து மஹ்மூத் பின் அர்ரபீஉ (ரலி) அவர்கள் அறிவித்த ஹதீஸைப் பற்றி நான் கேட்டபோது, அதை அவர்கள் உறுதிப்படுத்தினார்கள்.51 அத்தியாயம் : 64
+இப்னு ஷிஹாப் (அஸ்ஸுஹ்ரீ -ரஹ்) அவர்கள் கூறியதாவது: பனூ சாலிம் குலத்தில் ஒருவரும் அவர்களில் சிறப்புக்குரியவருமான ஹுஸைன் பின் முஹம்மத் (ரலி) அவர்களிடம் இத்பான் பின் மாலிக் (ரலி) அவர்கள் குறித்து மஹ்மூத் பின் அர்ரபீஉ (ரலி) அவர்கள் அறிவித்த ஹதீஸைப் பற்றி நான் கேட்டபோது, அதை அவர்கள் உறுதிப்படுத்தினார்கள்.51 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4010</td></tr><tr><td>Arabic No</td><td>4010</td></tr><tr><td>Reference</td><td>Book 64 Hadith 61</td></tr></tbody></table></div>
 

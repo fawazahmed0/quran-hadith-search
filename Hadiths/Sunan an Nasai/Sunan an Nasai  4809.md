@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবন আবদুল্লাহ ইবন ইয়াযীদ (রহঃ) ... ইবন আব্বাস (রাঃ) বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুকাতাব দাসের দিয়াত এরূপ সাব্যস্ত করেছেন যে, তার যতটুকু পরিমাণ মুক্ত হয়েছে, ততটুকুতে স্বাধীন ব্যক্তির দিয়াত প্রদান করতে হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4809</td></tr><tr><td>Arabic No</td><td>4809</td></tr><tr><td>Reference</td><td>Book 45 Hadith 104</td></tr></tbody></table></div>
 

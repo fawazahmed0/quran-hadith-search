@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন সালেহ (রহঃ) .... জাবের (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরকালিন সময়ে মক্কাতে সূর্যাস্তের পর “সারিফ” নামক স্থানে পৌঁছেই মাগরিব ও ইশার নামায একত্রে আদায় করেন। (নাসাঈ)।
+। জাবির (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাক্কাতে অবস্থানকালে সূর্য ঢুবে গেলে ‘সারিফ’ নামক স্থানে উভয় সালাতকে (মাগরিব ও ‘ইশা) একত্রে আদায় করেছেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1215</td></tr><tr><td>Arabic No</td><td>1215</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
 

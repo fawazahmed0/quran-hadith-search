@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ জাফর .... আদী ইবনু ছাবেত (রহঃ) তার পিতা ও দাদার সূত্রে এবং তিনি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের নিকট থেকে ইস্তেহাযাগ্রস্ত মহিলাদের ব্যাপারে বর্ণনা করেছেন যে, তাঁর হায়েযের জন্য নির্ধারিত দিন সমূহে নামায ত্যাগ করবে, অতঃপর পবিত্রতার জন্য গোসল করে নামায আদায় করবে। এরপর প্রত্যেক নামাযের জন্য কেবলমাত্র উযূ (ওজু/অজু/অযু) করতে হবে। ইমাম আবূ দাউদ (রহঃ) বলেন, উছমান তাঁর বর্ণনায় রোযা ও নামায সম্পর্কেও উল্লেখ করেছেন।
+। ‘আদী ইবনু সাবিত হতে তার পিতা থেকে তার দাদার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুস্তাহাযা সম্পর্কে বলেছেনঃ হায়িযের দিনগুলোতে সে সালাত ত্যাগ করবে, তারপর গোসল করে সালাত আদায় করবে এবং প্রত্যেক সালাতের জন্য অযু করবে। [1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, ‘উসমান তার বর্ণনায় বলেন, সে সিয়াম পালন ও সালাত আদায় করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>297</td></tr><tr><td>Arabic No</td><td>297</td></tr><tr><td>Reference</td><td>Book 1 Hadith 297</td></tr></tbody></table></div>
 

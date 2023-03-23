@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন যে, ইবরাহীম (আঃ) যখন رَبِّ أَرِنِيْ كَيْفَ تُحْيِي الْمَوْتَى قَالَ أَوَلَمْ تُؤْمِنْ قَالَ بَلَى وَلَكِنْ لِيَطْمَئِنَّ قَلْبِيْ -হে আমার প্রতিপালক! তুমি আমাকে দেখাও কেমন করে তুমি মৃতকে জীবিত কর? তখন ইবরাহীম (আঃ)-এর তুলনায় সন্দেহ করার ব্যাপারে আমিই অগ্রসর ছিলাম। [৩৩৭২] (আধুনিক প্রকাশনীঃ ৪১৭৭, ইসলামিক ফাউন্ডেশনঃ ৪১৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন যে, ইবরাহীম (আঃ) যখন رَبِّ أَرِنِيْ كَيْفَ تُحْيِي الْمَوْتَى قَالَ أَوَلَمْ تُؤْمِنْ قَالَ بَلَى وَلَكِنْ لِيَطْمَئِنَّ قَلْبِيْ -হে আমার প্রতিপালক! তুমি আমাকে দেখাও কেমন করে তুমি মৃতকে জীবিত কর? তখন ইবরাহীম (আঃ)-এর তুলনায় সন্দেহ করার ব্যাপারে আমিই অগ্রসর ছিলাম। [৩৩৭২] (আধুনিক প্রকাশনীঃ ৪১৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4537</td></tr><tr><td>Arabic No</td><td>4537</td></tr><tr><td>Reference</td><td>Book 65 Hadith 60</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "We have more right to be in doubt than Abraham when he said, 'My Lord! Show me how You give life to the dead.' He said, 'Do you not believe?' He said, 'Yes (I believe) but to be stronger in Faith.' "(2.260)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "We have more right to be in doubt than Abraham when he said, 'My Lord! Show me how You give life to the dead.' He said, 'Do you not believe?' He said, 'Yes (I believe) but to be stronger in Faith
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4537</td></tr><tr><td>Arabic No</td><td>4537</td></tr><tr><td>Reference</td><td>Book 65 Hadith 60</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Shalih] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (இறந்துபோனவற்றுக்கு அல்லாஹ் எப்படி உயிரூட்டுகிறான் என்ற சந்தேகம் இறைத்தூதர்களுக்கு வருவதாயிருந்தால் இறைத்தூதர்) இப்ராஹீம் (அலை) அவர் களைவிடவும் நாமே சந்தேகம் கொள்ள அதிகத் தகுதியுடையவர்கள் ஆவோம். (ஆகவே, சந்தேகப்பட்டு அவர்கள் அப்படிக் கேட்கவில்லை.) ஏனெனில், “என் இறைவா! மரித்தவர் களை நீ எப்படி உயிர்ப்பிக்கின்றாய் என்பதை எனக்குக் காட்டுவாயாக!” என்று அன்னார் கேட்டார்கள். இறைவன்,”நீர் நம்பிக்கை கொள்ளவில்லையா?” என்று கேட்டான். அதற்கு அவர்கள், “அவ்வாறன்று (நம்பியிருக்கிறேன்)! ஆயினும், என் உள்ளம் நிம்மதியடைவதற் காகவே கேட்கிறேன்” என்று பதிலளித் தார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.76 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 65
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (இறந்துபோனவற்றுக்கு அல்லாஹ் எப்படி உயிரூட்டுகிறான் என்ற சந்தேகம் இறைத்தூதர்களுக்கு வருவதாயிருந்தால் இறைத்தூதர்) இப்ராஹீம் (அலை) அவர் களைவிடவும் நாமே சந்தேகம் கொள்ள அதிகத் தகுதியுடையவர்கள் ஆவோம். (ஆகவே, சந்தேகப்பட்டு அவர்கள் அப்படிக் கேட்கவில்லை.) ஏனெனில், “என் இறைவா! மரித்தவர் களை நீ எப்படி உயிர்ப்பிக்கின்றாய் என்பதை எனக்குக் காட்டுவாயாக!” என்று அன்னார் கேட்டார்கள். இறைவன்,”நீர் நம்பிக்கை கொள்ளவில்லையா?” என்று கேட்டான். அதற்கு அவர்கள், “அவ்வாறன்று (நம்பியிருக்கிறேன்)! ஆயினும், என் உள்ளம் நிம்மதியடைவதற் காகவே கேட்கிறேன்” என்று பதிலளித் தார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.76 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4537</td></tr><tr><td>Arabic No</td><td>4537</td></tr><tr><td>Reference</td><td>Book 65 Hadith 60</td></tr></tbody></table></div>
 

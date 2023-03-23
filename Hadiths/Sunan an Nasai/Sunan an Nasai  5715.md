@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন আবদুল আ'লা (রহঃ) ... সুওয়ায়দ ইবন গাফালা (রহঃ) থেকে বর্ণিত। তিনি বলেন, উমর ইবনুল খাত্তাব (রাঃ) তাঁর কোন কর্মচারির নিকট লিখলেনঃ মুসলিমদেরকে এমন দ্রাক্ষারস পান করতে দিবে, যার দুই-তৃতীয়াংশ জ্বলে নিঃশেষ হয়ে গেছে, আর এক অংশ অবশিষ্ট রয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5715</td></tr><tr><td>Arabic No</td><td>5715</td></tr><tr><td>Reference</td><td>Book 51 Hadith 177</td></tr></tbody></table></div>
 

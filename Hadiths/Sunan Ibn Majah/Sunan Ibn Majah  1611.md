@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১৬১১। আসমা বিনত উমাইস (রাঃ) থেকে বর্ণিত। তিনি বলেন, জা‘ফর (রাঃ) শহীদ হওয়ার সংবাদ পৌঁছার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের পরিবারের নিকট এসে বলেনঃ জা‘ফরের পরিবার তাদের মৃতের কারণে ব্যস্ত রয়েছে। অতএব তোমরা তাদের জন্য খাদ্য তৈরি করো। ‘আবদুল্লাহ্ (রাঃ) বলেন, এটা সুন্নাত হিসাবে পরিগণিত হয়। তবে তা আলোচনার বিষয়ে পরিণত হলে বর্জন করা হয়।
+। আসমা বিনত উমাইস (রাঃ) থেকে বর্ণিত। তিনি বলেন, জা‘ফর (রাঃ) শহীদ হওয়ার সংবাদ পৌঁছার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের পরিবারের নিকট এসে বলেনঃ জা‘ফরের পরিবার তাদের মৃতের কারণে ব্যস্ত রয়েছে। অতএব তোমরা তাদের জন্য খাদ্য তৈরি করো। ‘আবদুল্লাহ্ (রাঃ) বলেন, এটা সুন্নাত হিসাবে পরিগণিত হয়। তবে তা আলোচনার বিষয়ে পরিণত হলে বর্জন করা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1611</td></tr><tr><td>Arabic No</td><td>1611</td></tr><tr><td>Reference</td><td>Book 6 Hadith 179</td></tr></tbody></table></div>
 

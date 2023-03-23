@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, কিয়ামতের দিন সূর্য ও চন্দ্র দু’টিকেই গুটিয়ে নেয়া হবে। (আধুনিক প্রকাশনীঃ ২৯৫৯, ইসলামিক ফাউন্ডেশনঃ ২৯৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, কিয়ামতের দিন সূর্য ও চন্দ্র দু’টিকেই গুটিয়ে নেয়া হবে। (আধুনিক প্রকাশনীঃ ২৯৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 59 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami ['Abdul 'Aziz
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: மறுமை நாளில் சூரியனும் சந்திரனும் சுருட்டப்பட்டு (ஒளியிழந்து)விடும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+நபி (ஸல்) அவர்கள்கூறினார்கள்: மறுமை நாளில் சூரியனும் சந்திரனும் சுருட்டப்பட்டு (ஒளியிழந்து)விடும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 59 Hadith 11</td></tr></tbody></table></div>
 

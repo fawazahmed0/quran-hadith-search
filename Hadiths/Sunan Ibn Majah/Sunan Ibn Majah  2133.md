@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২১৩৩। জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) থেকে বর্ণিত। এক মহিলা রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললো, আমার মা মারা গেছেন। তিনি রোযা রাখার মান্নত করেছিলেন। কিন্তু তিনি তার রোযার মান্নত পূর্ণ করার আগেই মারা গেলেন। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তার পক্ষ থেকে ওলী (ওয়ারিস) যেন রোযা রাখে।
+। জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) থেকে বর্ণিত। এক মহিলা রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললো, আমার মা মারা গেছেন। তিনি রোযা রাখার মান্নত করেছিলেন। কিন্তু তিনি তার রোযার মান্নত পূর্ণ করার আগেই মারা গেলেন। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তার পক্ষ থেকে ওলী (ওয়ারিস) যেন রোযা রাখে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 11 Hadith 44</td></tr></tbody></table></div>
 

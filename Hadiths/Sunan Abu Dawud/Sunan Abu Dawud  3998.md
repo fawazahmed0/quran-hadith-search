@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবূ শায়বা (রহঃ) .... আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি হাদীছে বর্ণনা করেন, যাতে جِبْرِيلَ ও وَمِيكَالَ তিনি বলেনঃ جِبْرَائِلَ وَمِيكَائِلَ এতে কয়েকটি কিরাত আছে।
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি হাদীসে বর্ণনা করেনঃ جِبْرِيلَ وَمِيكَالَ। তিনি বলেনঃ جِبْرَائِلُ وَمِيكَائِلُ এতে কয়েক ধরণের কিরাআত আছে।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3998</td></tr><tr><td>Arabic No</td><td>3998</td></tr><tr><td>Reference</td><td>Book 32 Hadith 30</td></tr></tbody></table></div>
 

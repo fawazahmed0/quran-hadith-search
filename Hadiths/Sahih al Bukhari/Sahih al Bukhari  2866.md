@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) গদিহীন ঘোড়ার পিঠে আরোহণ করে লোকদের সম্মুখে হাজির হলেন; তাঁর কাঁধে ছিল তলোয়ার। (২৬২৭) (আধুনিক প্রকাশনীঃ ২৬৫৬, ইসলামিক ফাউন্ডেশনঃ ২৬৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) গদিহীন ঘোড়ার পিঠে আরোহণ করে লোকদের সম্মুখে হাজির হলেন; তাঁর কাঁধে ছিল তলোয়ার। (২৬২৭) (আধুনিক প্রকাশনীঃ ২৬৫৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2866</td></tr><tr><td>Arabic No</td><td>2866</td></tr><tr><td>Reference</td><td>Book 56 Hadith 82</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Amru bin 'Aun] telah bercerita kepada kami [Hammad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சேணம் பூட்டப் படாத, திறந்தமேனி கொண்ட ஒரு குதிரையின் மீது அமர்ந்து, கழுத்தில் வாளொன்று தொங்கிக்கொண்டிருக்க, மதீனாவாசிகளை நோக்கி வந்தார்கள்.38 அத்தியாயம் : 56
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சேணம் பூட்டப் படாத, திறந்தமேனி கொண்ட ஒரு குதிரையின் மீது அமர்ந்து, கழுத்தில் வாளொன்று தொங்கிக்கொண்டிருக்க, மதீனாவாசிகளை நோக்கி வந்தார்கள்.38 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2866</td></tr><tr><td>Arabic No</td><td>2866</td></tr><tr><td>Reference</td><td>Book 56 Hadith 82</td></tr></tbody></table></div>
 

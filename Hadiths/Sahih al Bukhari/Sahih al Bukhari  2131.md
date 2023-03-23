@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, যারা অনুমানে (না মেপে) খাদ্য ক্রয় করে নিজের স্থানে পৌঁছানোর আগেই তা বিক্রি করত, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময়ে আমি দেখেছি যে, তাদেরকে মারা হতো। (২১২৩) (আধুনিক প্রকাশনীঃ ১৯৮৩ , ইসলামিক ফাউন্ডেশনঃ ১৯৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, যারা অনুমানে (না মেপে) খাদ্য ক্রয় করে নিজের স্থানে পৌঁছানোর আগেই তা বিক্রি করত, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময়ে আমি দেখেছি যে, তাদেরকে মারা হতো। (২১২৩) (আধুনিক প্রকাশনীঃ ১৯৮৩ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2131</td></tr><tr><td>Arabic No</td><td>2131</td></tr><tr><td>Reference</td><td>Book 34 Hadith 83</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் மக்கள் குத்துமதிப்பாக உணவுப் பொருட்களை விலைக்கு வாங்கிக்கொண்டிருந்தபோது, அவற்றைத் தம் இருப்பிடங்களுக்குக் கொண்டுபோய்ச் சேர்க்காமல் அதே இடத்தில் விற்றதற்காக அடிக்கப்பட்டதை நான் பார்த்துள்ளேன். அத்தியாயம் : 34
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் மக்கள் குத்துமதிப்பாக உணவுப் பொருட்களை விலைக்கு வாங்கிக்கொண்டிருந்தபோது, அவற்றைத் தம் இருப்பிடங்களுக்குக் கொண்டுபோய்ச் சேர்க்காமல் அதே இடத்தில் விற்றதற்காக அடிக்கப்பட்டதை நான் பார்த்துள்ளேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2131</td></tr><tr><td>Arabic No</td><td>2131</td></tr><tr><td>Reference</td><td>Book 34 Hadith 83</td></tr></tbody></table></div>
 

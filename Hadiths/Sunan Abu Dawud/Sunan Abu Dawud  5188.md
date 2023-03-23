@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহ্‌ইয়া ইবন আইউব (রহঃ) ..... আবদুল হারিছ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদিন আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সংগে একটা প্রাচীর ঘেরা অঙ্গণে প্রবেশ করি। তিনি আমাকে বলেনঃ দরজা বন্ধ করে রাখ। এসময় এক ব্যক্তি দরজায় করাঘাত করলে, আমি জিজ্ঞাসা করিঃ কে? এরপর পূর্ববর্তী হাদীছের অনুরূপ বর্ণিত হয়েছে।
+। নাফি‘ ইবনু আব্দুর হারিস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে বের হয়ে এক বাগানে প্রবেশ করলাম। তিনি আমাকে বললেনঃ দরজা বন্ধ করে রাখো। পরে দরজায় আঘাত করা হলে আমি বললাম, কে? অতঃপর বাকি অংশ আবূ মূসা (রাঃ) বর্ণিত হাদীসের অনুরূপ। ইমাম আবূ দাঊদ (রহঃ) বলেন, অর্থাৎ আবূ মূসা আল-আশ‘আরী (রাঃ)-এর হাদীস। তাতে রয়েছেঃ সে দরজা খটখট করলো।[1] সনদ হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5188</td></tr><tr><td>Arabic No</td><td>5188</td></tr><tr><td>Reference</td><td>Book 43 Hadith 416</td></tr></tbody></table></div>
 

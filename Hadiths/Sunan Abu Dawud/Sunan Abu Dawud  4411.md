@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ (রহঃ) ..... আবদুর রহমান ইবন মুহায়রীয (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি ফুযালা ইবন উবায়দুল্লাহ (রহঃ)-কে, চোরের হাত কেটে তার গলায় ঝুলানো সম্পর্কে জিজ্ঞাসা করলে, তিনি বলেনঃ একবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট একজন চোরকে হাযির করা হলে, তার হাত কাটা যায়। এরপর তিনি তার কর্তিত হাত চোরের গালায় ঝুলিয়ে দিতে বলেন।
+। আব্দুর রাহমান ইবনু মুহাইরিম (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা ফাদালাহ ইবনু উবাইদ (রাঃ)-কে বললাম, চোরের কাটা হাত গর্দানের সঙ্গে বেঁধে দেয়া কি সুন্নাত? তিনি বললেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এক চোরকে নিয়ে আসা হলে তার হাত কাটা হয় এবং তাঁর নির্দেশমত তা গর্দানের সঙ্গে বেঁধে দেয়া হয়।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 40 Hadith 61</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। সুফিয়ান সাওরী (রহঃ)-এর সূত্রে বর্ণিত। একদা তাকে দাযী (দুষ্কৃতকারীদের শরাব) সম্পর্কে প্রশ্ন করা হলে তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার উম্মাতের একদল লোক অবশ্যই মদ পান করবে এবং তারা এর ভিন্নতর নামকরণ করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3689</td></tr><tr><td>Arabic No</td><td>3689</td></tr><tr><td>Reference</td><td>Book 27 Hadith 21</td></tr></tbody></table></div>
 

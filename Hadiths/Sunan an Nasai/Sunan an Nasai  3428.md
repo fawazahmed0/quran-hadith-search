@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন রাফে' (রহঃ) ... মুআত্তিব (রহঃ) বনী নওফলের ক্রীতদাস আবু হাসান (রহঃ) থেকে বর্ণিত। তিনি বলেন, ইবন আব্বাস (রাঃ)-কে ক্রীতদাস সম্পর্কে প্রশ্ন করা হলো যে, সে তার স্ত্রীকে দুই তালাক দিয়েছে। এরপর তাদের উভয়কে মুক্ত করা হয়েছে। সে কি তাকে আবার বিবাহ করতে পারবে? তিনি বললেনঃ হ্যাঁ। বলা হলো কিরূপে? তিনি বললেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ ফয়সালা দিয়াছেন। আবদুর রাযযাক (রহঃ) বলেন, ইবন মুবারক মা’মার (রহঃ)-কে বলেনঃ এই আবু হাসান কে? সে তো নিজের উপর বড় পাথর তুলে নিল, অর্থাৎ এ বর্ণনা যদি সঠিক না হয়, তাহলে অসংখ্য অবৈধ বিবাহের পাপের বোঝা তার উপর বর্তবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3428</td></tr><tr><td>Arabic No</td><td>3428</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
 

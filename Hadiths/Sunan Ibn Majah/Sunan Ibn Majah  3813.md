@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮/৩৮১৩। আবূ দারদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ তুমি অবশ্যই ‘‘সুবহানাল্লাহি ওয়াল হামদু লিল্লাহি ওয়ালা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার’’ পড়তে থাকো। কারণ তা গুনাহসমূহ ঝরিয়ে দেয়, যেমন গাছ তার পাতা ঝরিয়ে দেয়।
+। আবূ দারদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ তুমি অবশ্যই ‘‘সুবহানাল্লাহি ওয়াল হামদু লিল্লাহি ওয়ালা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার’’ পড়তে থাকো। কারণ তা গুনাহসমূহ ঝরিয়ে দেয়, যেমন গাছ তার পাতা ঝরিয়ে দেয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3813</td></tr><tr><td>Arabic No</td><td>3813</td></tr><tr><td>Reference</td><td>Book 33 Hadith 157</td></tr></tbody></table></div>
 

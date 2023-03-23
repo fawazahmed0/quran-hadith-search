@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। মুহাম্মাদ ইবনু মানসুর (রহঃ) ... আবূ মা'মার (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা একদা আলী (রাঃ)-এর নিকট ছিলাম। এমন সময় তার কাছ দিয়ে একটি জানাজা গেলে তারা (আলী (রাঃ) এর কাছে উপবিষ্ট লোকজন) দাঁড়িয়ে গেলেন। তখন আলী (রাঃ) বললেন, একি? তারা বললেন, আবূ মুসা (রাঃ)-এর নির্দেশ। তখন তিনি বললেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ইয়াহুদী মহিলার জানাজার জন্য তিনি দাঁড়িয়ে ছিলেন। এরপর আর তা করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1923</td></tr><tr><td>Arabic No</td><td>1923</td></tr><tr><td>Reference</td><td>Book 21 Hadith 106</td></tr></tbody></table></div>
 

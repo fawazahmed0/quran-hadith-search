@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু কুদামা ..... ইবনু জুরাইজ থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন আমি আলী (রাঃ)-কে নামাযে নাভির উপরে ডান হাত দিয়ে বাম হাতের কব্জি ধরে রাখতে দেখেছি। ইমাম আবূ দাউদ (রহঃ) বলেন, সাঈদ ইবনু জুবাইর থেকে “নাভির উপরে” বর্ণিত আছে। আর আবূ মিজলায বলেছেন, “নাভির নীচে”। আবূ হুরায়রা (রাঃ) থেকেও অনুরূপ বর্ণিত আছে, কিন্তু তা তেমন শক্তিশালী নয়।
+। ইবনু জুরাইজ হতে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি ‘আলী (রাঃ)-কে সালাত আদায়কালে নাভীর উপরে ডান হাত দ্বারা বাম হাতের কব্জি ধরে রাখতে দেখেছি।[1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, সাঈদ ইবনু জুবাইর সূত্রে ‘নাভীর উপরে’ কথাটি বর্ণিত আছে। আর আবূ মিজলায বলেছেন, ‘নাভীর নীচে’। আবূ হুরাইরাহ্ (রাঃ) সূত্রেও অনুরূপ বর্ণিত আছে। কিন্তু সেটি শক্তিশালী নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>757</td></tr><tr><td>Arabic No</td><td>757</td></tr><tr><td>Reference</td><td>Book 2 Hadith 367</td></tr></tbody></table></div>
 

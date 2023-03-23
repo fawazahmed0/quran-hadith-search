@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন আল্লাহ্ কোন কাওমের উপর আযাব অবতীর্ণ করেন তখন সেখানে বসবাসরত সকলের উপরই সেই আযাব পতিত হয়। অবশ্য পরে প্রত্যেককে তার ‘আমল অনুযায়ী উঠানো হবে।[1] [মুসলিম ৫১/১৯, হাঃ ২৮৭৯, আহমাদ ৪৯৮৫] (আধুনিক প্রকাশনী- ৬৬০৯, ইসলামিক ফাউন্ডেশন- ৬৬২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন আল্লাহ্ কোন কাওমের উপর আযাব অবতীর্ণ করেন তখন সেখানে বসবাসরত সকলের উপরই সেই আযাব পতিত হয়। অবশ্য পরে প্রত্যেককে তার ‘আমল অনুযায়ী উঠানো হবে।[1] [মুসলিম ৫১/১৯, হাঃ ২৮৭৯, আহমাদ ৪৯৮৫] (আধুনিক প্রকাশনী- ৬৬০৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7108</td></tr><tr><td>Arabic No</td><td>7108</td></tr><tr><td>Reference</td><td>Book 92 Hadith 55</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Utsman], Telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு சமுதாயத்தின் மீது அல்லாஹ் வேதனையை இறக்கும்போது அதிலுள்ளவர்கள் அனைவரையும் அந்த வேதனை தாக்கும். பிறகு அவர்கள் தம் செயல்களுக்கு ஏற்ப (மறுமையில்) எழுப்பப்படுவார்கள்.38 இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 92
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு சமுதாயத்தின் மீது அல்லாஹ் வேதனையை இறக்கும்போது அதிலுள்ளவர்கள் அனைவரையும் அந்த வேதனை தாக்கும். பிறகு அவர்கள் தம் செயல்களுக்கு ஏற்ப (மறுமையில்) எழுப்பப்படுவார்கள்.38 இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7108</td></tr><tr><td>Arabic No</td><td>7108</td></tr><tr><td>Reference</td><td>Book 92 Hadith 55</td></tr></tbody></table></div>
 

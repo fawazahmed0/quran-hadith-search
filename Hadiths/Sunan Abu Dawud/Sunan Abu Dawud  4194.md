@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইব্‌ন ইসমাঈল (রহঃ) ..... ইব্‌ন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘কায্‌’ঈ’ থেকে নিষেধ করেছেন। আর তা হলো- বাচ্চাদের মস্তক মুণ্ডনের পর সেখানে কিছু চুলের গোছা অবশিষ্ট রাখা।
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কাযা‘আ করতে নিষেধ করেছেন। তা হলো, শিশুদের মাথা কামিয়ে তাতে কিছু চুল অবশিষ্ট রাখা।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4194</td></tr><tr><td>Arabic No</td><td>4194</td></tr><tr><td>Reference</td><td>Book 35 Hadith 36</td></tr></tbody></table></div>
 

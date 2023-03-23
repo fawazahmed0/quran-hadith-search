@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইবন মুহাম্মদ নুফায়লী (রহঃ) .... উকবা ইবন আমির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, যাকাতের মালের নিদিষ্ট পরিমাণের চাইতে অধিক গ্রহণকারী ব্যক্তি জান্নাতে প্রবেশ করবে না।
+। ‘উকবাহ ইবনু ‘আমির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ খাজনা আদায়কারীরা জান্নাতে প্রবেশ করতে পারবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2937</td></tr><tr><td>Arabic No</td><td>2937</td></tr><tr><td>Reference</td><td>Book 20 Hadith 10</td></tr></tbody></table></div>
 

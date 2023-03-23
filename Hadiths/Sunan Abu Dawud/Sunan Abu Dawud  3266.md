@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন আলী (রহঃ) ..... আসিম ইবন লাকীত (রাঃ) থেকে বর্ণিত। একদা লাকীত ইবন আসিম (রাঃ) একটা দলের প্রতিনিধি হিসাবে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট গমন করেন। লাকীত বলেনঃ অতঃপর আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট হাযির হই। তখন তিনি একটি হাদীছ বর্ণনা করেন, যাতে এ উক্তিটি ছিল যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কসম তোমার মাবুদের।
+। আসিম ইবনু লাক্বীত (রাঃ) সূত্রে বর্ণিত। একদা লাক্বীত্ব ইবনু আসিম (রাঃ) একটি দলের প্রতিনিধি হয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে সাক্ষাৎ করতে রওয়ানা হলেন। লাক্বীত্ব (রাঃ) বলেন, ‘আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর দরবারে উপস্থিত হলাম। অতঃপর তিনি এ হাদীস বর্ণনা করেন। যাতে রয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘‘লা‘আমরু ইলাহিকা।’’
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3266</td></tr><tr><td>Arabic No</td><td>3266</td></tr><tr><td>Reference</td><td>Book 22 Hadith 25</td></tr></tbody></table></div>
 

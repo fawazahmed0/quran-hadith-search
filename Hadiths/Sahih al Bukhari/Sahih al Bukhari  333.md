@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৩৩। আবদুল্লাহ ইব্‌নু শাদ্দাদ (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ আমি আমার খালা নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-এর স্ত্রী মাইমূনা (রাঃ) হতে শুনেছি যে, তিনি হায়েয অবস্থায় সালাত আদায় করতেন না; তখন তিনি আল্লাহ্‌র রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) এর সালাতের সিজদার জায়গায় সোজাসুজি শুয়ে থাকতেন। নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) তার চাটাইয়ে সালাত আদায় করতেন। সিজদা করার সময় তাঁর কাপড়ের অংশ আমার (মাইমূনাহ্‌র) শরীর স্পর্শ করতো। (৩৭৯, ৩৮১, ৫১৭, ৫১৮ দ্রষ্টব্য) (আ.প্র. ৩২১, ই.ফা. ৩২৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। আবদুল্লাহ ইব্‌নু শাদ্দাদ (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ আমি আমার খালা নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-এর স্ত্রী মাইমূনা (রাঃ) হতে শুনেছি যে, তিনি হায়েয অবস্থায় সালাত আদায় করতেন না; তখন তিনি আল্লাহ্‌র রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) এর সালাতের সিজদার জায়গায় সোজাসুজি শুয়ে থাকতেন। নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) তার চাটাইয়ে সালাত আদায় করতেন। সিজদা করার সময় তাঁর কাপড়ের অংশ আমার (মাইমূনাহ্‌র) শরীর স্পর্শ করতো। (৩৭৯, ৩৮১, ৫১৭, ৫১৮ দ্রষ্টব্য) (আ.প্র. ৩২১, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Hasan bin Mudrik] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவி யார் மைமூனா (ரலி) அவர்கள் கூறியதாவது: எனக்கு மாதவிடாய் ஏற்பட்டு நான் தொழாமல் இருந்தபோது, அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழும் இடத்திற்கு அருகில் படுத்திருப்பேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (பேரீச்சங் கீற்றினால் வேயப் பட்ட) தமது தொழுகை விரிப்பில் தொழுது கொண்டிருப்பார்கள். அவர்கள் சிரவணக்கம் (சஜ்தா) செய்யும்போது, அவர்கள் அணிந்திருந்த ஆடையின் ஒரு பகுதி என்மீது படும். இதை அப்துல்லாஹ் பின் ஷத்தாத் (ரஹ்) அவர்கள், தம் தாயின் சகோதரியான மைமூனா (ரலி) அவர்களிடமிருந்து அறிவிக்கிறார்கள். அத்தியாயம் : 6
+நபி (ஸல்) அவர்களின் துணைவி யார் மைமூனா (ரலி) அவர்கள் கூறியதாவது: எனக்கு மாதவிடாய் ஏற்பட்டு நான் தொழாமல் இருந்தபோது, அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழும் இடத்திற்கு அருகில் படுத்திருப்பேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (பேரீச்சங் கீற்றினால் வேயப் பட்ட) தமது தொழுகை விரிப்பில் தொழுது கொண்டிருப்பார்கள். அவர்கள் சிரவணக்கம் (சஜ்தா) செய்யும்போது, அவர்கள் அணிந்திருந்த ஆடையின் ஒரு பகுதி என்மீது படும். இதை அப்துல்லாஹ் பின் ஷத்தாத் (ரஹ்) அவர்கள், தம் தாயின் சகோதரியான மைமூனா (ரலி) அவர்களிடமிருந்து அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Hasan bin Mudrik] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Şeddâd'dan şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem)'in hanımı teyzem Meymûne (r.anha)'dan kendisinin hayız olduğunu, bu yüzden namaz kılmadığını, Nebi Sallallahu Aleyhi ve Sellem'in secdeye gittiği yerin kenarında yattığını ve seccade üzerinde namaz kılan Allah Resûlü (Sallallahu Aleyhi ve Sellem)'in elbisesinin bir tarafının kendisine değdiğini işittim. Tekrar; 379, 381, 517, 518
+Abdullah İbn Şeddâd'dan şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem)'in hanımı teyzem Meymûne (r.anha)'dan kendisinin hayız olduğunu, bu yüzden namaz kılmadığını, Nebi Sallallahu Aleyhi ve Sellem'in secdeye gittiği yerin kenarında yattığını ve seccade üzerinde namaz kılan Allah Resûlü (Sallallahu Aleyhi ve Sellem)'in elbisesinin bir tarafının kendisine değdiğini işittim. Tekrar;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
 

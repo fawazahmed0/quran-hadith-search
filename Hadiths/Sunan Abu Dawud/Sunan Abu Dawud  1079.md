@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... আমর ইবনে শুয়াইব (রহঃ) থেকে পর্যায়ক্রমে তারঁ পিতা ও দাদার সূত্রে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে বেচা-কেনা করতে, হারানো জিনিস খোঁজ করতে এবং কবিতা পাঠ করতে নিষেধ করেছেন এবং জুমার দিন নামাযের পূর্বে গোলাকার হয়ে বসতেও নিষেধ করেছেন। (নাসাঈ, ইবনে মাজাহ, তিরমিজী)
+। ‘আমর ইবনু শু‘আইব (রহঃ) হতে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে বেচা-কেনা করতে, হারানো বস্তু তালাশ করতে এবং কবিতা আবৃত্তি করতে নিষেধ করেছেন। আরো নিষেধ করেছেন জুমু‘আহর দিন সালাতের পূর্বে মসজিদে গোল হয়ে বসতে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 2 Hadith 690</td></tr></tbody></table></div>
 

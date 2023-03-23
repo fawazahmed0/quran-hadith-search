@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قَالَهُ ابْنُ عُمَرَ عَنْ النَّبِيِّ صلى الله عليه وسلم ইবনু ‘উমার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এ সম্পর্কিত হাদীস বর্ণনা করেছেন। ১৫৫৭. জাবির (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আলী (রাঃ)-কে ইহরাম বহাল রাখার আদেশ দিলেন, এরপর জাবির (রাঃ) সুরাকাহ (রাঃ)-এর উক্তি বর্ণনা করেন। মুহাম্মাদ ইবনু বকর (রহ.) ইবনু জুরাইজ (রহ.) হতে অতিরিক্ত বর্ণনা করেন; নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আলী (রাঃ)-কে বললেনঃ হে ‘আলী! তুমি কোন্ প্রকার ইহরাম বেঁধেছ? ‘আলী (রাঃ) বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর ইহরামের অনুরূপ। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তাহলে কুরবানীর পশু প্রেরণ কর এবং ইহরাম অবস্থায় যেভাবে আছ সেভাবেই থাক। (১৫৬৮, ১৫৭০, ১৬৫১, ১৭৮৫, ২৫০৬, ৪৩৫২, ৭২৩০, ৭৩৬৭) (আধুনিক প্রকাশনীঃ ১৪৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1557</td></tr><tr><td>Arabic No</td><td>1557</td></tr><tr><td>Reference</td><td>Book 25 Hadith 43</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] dari [Ibnu Juraij], ['Ath
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அதாஉ (ரஹ்) அவர்கள் கூறியதாவது: அலீ (ரலி) அவர்களிடம் (ஹஜ்ஜுக்கும் உம்ராவிற்கும் சேர்த்து) அவர்கள் கட்டியிருந்த இஹ்ராமிலேயே நீடிக்கும்படி நபி (ஸல்) அவர்கள் கட்டளையிட்டார்கள் என ஜாபிர் (ரலி) அவர்கள் கூறினார்கள். மேலும், இது தொடர்பாக (‘இது உங்களுக்கு மட்டுமா, அல்லது அனைவருக்கும் பொதுவானதா?’ என) சுராக்கா (ரலி) அவர்கள் (கேட்க, “எப்போதைக்கும் உரியதே; அனைவருக்கும் பொதுவானதே” என நபி (ஸல்) அவர்கள் பதிலளித்த அந்தச்) செய்தியையும் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அவற்றில் முஹம்மத் பின் பக்ர் (ரஹ்) அவர்களது அறிவிப்பில், நபி (ஸல்) அவர்கள் அலீ (ரலி) அவர்களிடம், “நீர் இப்போது இருப்பதைப் போன்றே, இஹ்ராமிலேயே நீடித்து (ஹஜ்ஜையும் உம்ராவையும் முடித்தபின்) குர்பானி கொடுப்பீராக!” என்று கூறியதாகக் கூடுதல் தகவல் காணப்படுகிறது. அத்தியாயம் : 25
+அதாஉ (ரஹ்) அவர்கள் கூறியதாவது: அலீ (ரலி) அவர்களிடம் (ஹஜ்ஜுக்கும் உம்ராவிற்கும் சேர்த்து) அவர்கள் கட்டியிருந்த இஹ்ராமிலேயே நீடிக்கும்படி நபி (ஸல்) அவர்கள் கட்டளையிட்டார்கள் என ஜாபிர் (ரலி) அவர்கள் கூறினார்கள். மேலும், இது தொடர்பாக (‘இது உங்களுக்கு மட்டுமா, அல்லது அனைவருக்கும் பொதுவானதா?’ என) சுராக்கா (ரலி) அவர்கள் (கேட்க, “எப்போதைக்கும் உரியதே; அனைவருக்கும் பொதுவானதே” என நபி (ஸல்) அவர்கள் பதிலளித்த அந்தச்) செய்தியையும் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அவற்றில் முஹம்மத் பின் பக்ர் (ரஹ்) அவர்களது அறிவிப்பில், நபி (ஸல்) அவர்கள் அலீ (ரலி) அவர்களிடம், “நீர் இப்போது இருப்பதைப் போன்றே, இஹ்ராமிலேயே நீடித்து (ஹஜ்ஜையும் உம்ராவையும் முடித்தபின்) குர்பானி கொடுப்பீராக!” என்று கூறியதாகக் கூடுதல் தகவல் காணப்படுகிறது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1557</td></tr><tr><td>Arabic No</td><td>1557</td></tr><tr><td>Reference</td><td>Book 25 Hadith 43</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] dari [Ibnu Juraij], ['Ath
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir'den nakledildiğine göre, Nebi Sallallahu Aleyhi ve Sellem Ali (r.a.)'e ihramlı olarak kalmasını emretmiştir. Cabir burada, Süraka'nın sözüne de yer vermiştir. Tekrar: 1568, 1570, 1651, 1785, 2506, 4352, 7230, 7367
+Cabir'den nakledildiğine göre, Nebi Sallallahu Aleyhi ve Sellem Ali (r.a.)'e ihramlı olarak kalmasını emretmiştir. Cabir burada, Süraka'nın sözüne de yer vermiştir. Tekrar: 1568, 1570, 1651
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1557</td></tr><tr><td>Arabic No</td><td>1557</td></tr><tr><td>Reference</td><td>Book 25 Hadith 43</td></tr></tbody></table></div>
 

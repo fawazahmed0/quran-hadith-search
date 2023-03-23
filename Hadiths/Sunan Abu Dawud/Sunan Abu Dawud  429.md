@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু আব্দুর রহমান ..... আবূদ-দারদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি পাঁচটি জিনিস ঈমানের সাথে সস্পাদন করবে সে জান্নাতে প্রবেশ করবে। যে ব্যক্তি পাঁচ ওয়াক্ত নামায তার উযূ (ওজু/অজু/অযু) ও রুকু-সিজদা সহকারে এবং ওয়াক্ত মত আদায় করবে, রমযানের রোযা রাখবে, সামর্থ থাকলে বাইতুল্লাহর হজ্জ করবে, মনকে পবিত্র করার উদ্দেশ্যে যাকাত দিবে এবং আমানত আদায় করবে। লোকেরা বলল, হে আবূদ-দারদা! আমানত আদায়ের অর্থ কি? তিনি বলেন, নাপাকীর গোসল।
+। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ঈমানের সাথে পাঁচটি কাজ করবে সে জান্নাতে প্রবেশ করবে। (১) যে ব্যক্তি উত্তমরূপে অযু ও রুকু' সিজদা্ সহকারে নির্ধারিত সময়ে পাঁচ ওয়াক্ত সালাত আদায় করবে, (২) রমাযান মাসের সিয়াম পালন করবে, (৩) পথ খরচের সার্মথ্য থাকলে হজ করবে, (৪) সন্তুষ্ট চিত্তে যাকাত আদায় করবে, এবং (৫) আমানত আদায় করবে। লোকেরা বলল, হে আবূ দারদা! আমানত আদায়ের অর্থ কি? তিনি বলেন, জুনুবী হলে গোসল করা।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>429</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 2 Hadith 39</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Abdurrahman Al Anbari] telah mencer
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu'd-Derda (r.a.)'dan demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Beş (haslet) var ki, her kim onları (bilerek ve) inanarak yaparsa, cennete girer: (Bu hasletlerin sahipleri) Abdestlerine, rükularına, secdelerine, ve vakitlerine riayet ederek beş vakit namaza devam eden, Ramazanda oruç tutan, gücü yeterse Kabe'yi hacceden gönlü razı olarak zekat veren ve emanete riayet edenlerdir." (İşitenler): Ya Eba'd-Derda "Emanete riayet nedir?" dediler. Cünüplükten dolayı yıkanmak, dedi. Diğer tahric: Ahmed b. Hanbel, 1, 46; II, 362; V, 367
+Ebu'd-Derda (r.a.)'dan demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Beş (haslet) var ki, her kim onları (bilerek ve) inanarak yaparsa, cennete girer: (Bu hasletlerin sahipleri) Abdestlerine, rükularına, secdelerine, ve vakitlerine riayet ederek beş vakit namaza devam eden, Ramazanda oruç tutan, gücü yeterse Kabe'yi hacceden gönlü razı olarak zekat veren ve emanete riayet edenlerdir." (İşitenler): Ya Eba'd-Derda "Emanete riayet nedir?" dediler. Cünüplükten dolayı yıkanmak, dedi. Diğer tahric: Ahmed b. Hanbel, 1, 46; II, 362; V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>429</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 2 Hadith 39</td></tr></tbody></table></div>
 

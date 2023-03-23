@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইবন মাসলামা (রহঃ) ..... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি মদীনাতে দশ বছর যাবত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমত করি। এ সময় আমি বালক ছিলাম এবং আমার সব কাজ তাঁর ইচ্ছা মাফিক হতো না। কিন্তু তিনি কোন দিন আমার উপর বিরক্ত হয়ে উহ বলেন নি এবং এরূপও কোন দিন বলেন নিঃ তুমি একাজ কেন করলে বা তুমি একাজ কেন করনি?
+। আনাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, মদীনায় আমি দশ বছর যাবত নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর খিদমত করেছি। তখন আমি বালক ছিলাম। সব কাজ আমার মালিক যেভাবে করাতে চেয়েছেন সেভাবে করতে পারিনি। সেজন্য তিনি আমার প্রতি কখনো মনঃক্ষুন্নতা প্রকাশ করেননি এবং কখনো আমাকে বলেননি, তুমি এটা কেন করলে অথবা এটা কেন করলে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4774</td></tr><tr><td>Arabic No</td><td>4774</td></tr><tr><td>Reference</td><td>Book 43 Hadith 2</td></tr></tbody></table></div>
 

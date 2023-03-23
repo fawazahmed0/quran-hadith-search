@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪৬৭। ইবনু উমার (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ভোর হওয়ার পূর্বেই বিতর আদায় করে নিবে। সহীহ। ইরওয়া— (২/১৫৪), সহীহ আবু দাউদ- (১২৯০)। আবু ঈসা বলেন হাদীসটি হাসান সহীহ।
+। ইবনু উমার (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ভোর হওয়ার পূর্বেই বিতর আদায় করে নিবে। সহীহ। ইরওয়া— (২/১৫৪), সহীহ আবু দাউদ- (১২৯০)। আবু ঈসা বলেন হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>467</td></tr><tr><td>Arabic No</td><td>467</td></tr><tr><td>Reference</td><td>Book 3 Hadith 15</td></tr></tbody></table></div>
 

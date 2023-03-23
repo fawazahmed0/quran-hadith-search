@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আহমদ ইবন সুলায়মান (রহঃ) ... আবু যর (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি মসজিদে প্রবেশ করে দেখলাম, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানে রয়েছেন। আমি এসে তাঁর নিকট গিয়ে বসলাম। তিনি বললেনঃ হে আবু যর! তুমি জিন্ন শয়তান এবং মানুষ শয়তানদের থেকে আল্লাহর নিকট আশ্রয় প্রার্থনা করবে। আমি বললামঃ মানুষের মধ্যেও কি শয়তান হয়? তিনি বললেনঃ হ্যাঁ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5507</td></tr><tr><td>Arabic No</td><td>5507</td></tr><tr><td>Reference</td><td>Book 50 Hadith 80</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন আমর (রহঃ) ...... উকবা ইবন আমের (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াদসাল্লামকে বলি যে, সূরা হজ্জের মধ্যে দুটি সিজদা আছে? তিনি বলেনঃ হ্যাঁ। যে এই দুটি সিজদা আদায় করে না সে যেন এই সূরা তিলাওয়াত না করে। (তিরমিযী)।
+। ‘উক্ববাহ ইবনু ‘আমির (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করি, হে আল্লাহর রসূল! সূরাহ হাজ্জে কি দু’টি সিজদা্ রয়েছে? তিনি বলেন, হ্যাঁ। যে ব্যক্তি এ দু’টি সিজদা্ আদায় করবে না সে যেন তা তিলাওয়াত না করে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1402</td></tr><tr><td>Arabic No</td><td>1402</td></tr><tr><td>Reference</td><td>Book 7 Hadith 2</td></tr></tbody></table></div>
 

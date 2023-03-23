@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসামাহ ইবনু যায়দ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে এবং হাসান (রাঃ)-কে এক সঙ্গে কোলে তুলে নিয়ে বলতেন, হে আল্লাহ্! আমি এদের দু’জনকে ভালবাসি, আপনিও এদেরকে ভালবাসুন। (৩৭৩৫) (আধুনিক প্রকাশনীঃ ৩৪৬৪, ইসলামিক ফাউন্ডেশনঃ ৩৪৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উসামাহ ইবনু যায়দ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে এবং হাসান (রাঃ)-কে এক সঙ্গে কোলে তুলে নিয়ে বলতেন, হে আল্লাহ্! আমি এদের দু’জনকে ভালবাসি, আপনিও এদেরকে ভালবাসুন। (৩৭৩৫) (আধুনিক প্রকাশনীঃ ৩৪৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3747</td></tr><tr><td>Arabic No</td><td>3747</td></tr><tr><td>Reference</td><td>Book 62 Hadith 92</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Al Mu'tamir]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உசாமா பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (சிறுவர்களாயிருந்த) என்னையும் ஹசன் (ரலி) அவர்களையும் (கையில்) எடுத்து, “இறைவா! நான் இவ்விருவரையும் நேசிக்கிறேன். நீயும் இவ்விருவரையும் நேசிப்பாயாக” என்று கூறினார்கள்.129 அத்தியாயம் : 62
+உசாமா பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (சிறுவர்களாயிருந்த) என்னையும் ஹசன் (ரலி) அவர்களையும் (கையில்) எடுத்து, “இறைவா! நான் இவ்விருவரையும் நேசிக்கிறேன். நீயும் இவ்விருவரையும் நேசிப்பாயாக” என்று கூறினார்கள்.129 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3747</td></tr><tr><td>Arabic No</td><td>3747</td></tr><tr><td>Reference</td><td>Book 62 Hadith 92</td></tr></tbody></table></div>
 

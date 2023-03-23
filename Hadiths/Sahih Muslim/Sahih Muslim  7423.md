@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৩১৩, আন্তর্জাতিক নাম্বারঃ ২৯৫৯ ৭৩১৩-(…/...) আবু বকর ইবনু ইসহাক (রহঃ) ..... ‘আলা ইবনু আবদুর রহমান (রহঃ) থেকে এ সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭১৫৪, ইসলামিক সেন্টার ৭২০৭)
+(…/...) আবু বকর ইবনু ইসহাক (রহঃ) ..... ‘আলা ইবনু আবদুর রহমান (রহঃ) থেকে এ সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭১৫৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7423</td></tr><tr><td>Arabic No</td><td>2959.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 7</td></tr></tbody></table></div>
 

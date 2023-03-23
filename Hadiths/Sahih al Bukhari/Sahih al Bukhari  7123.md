@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আবূ ‘আবদুল্লাহ্ (রহ.) বলেন, আমার মনে হয় তিনি হাদীসটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকেই বর্ণনা করেছেন। তিনি বলেনঃ দাজ্জালের ডান চোখ কানা হবে, যেন তা ফোলা আঙ্গুরের ন্যায়। [৩০৫৭] (আধুনিক প্রকাশনী- ৬৬২৪, ইসলামিক ফাউন্ডেশন- ৬৬৩৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আবূ ‘আবদুল্লাহ্ (রহ.) বলেন, আমার মনে হয় তিনি হাদীসটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকেই বর্ণনা করেছেন। তিনি বলেনঃ দাজ্জালের ডান চোখ কানা হবে, যেন তা ফোলা আঙ্গুরের ন্যায়। [৩০৫৭] (আধুনিক প্রকাশনী- ৬৬২৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7123</td></tr><tr><td>Arabic No</td><td>7123</td></tr><tr><td>Reference</td><td>Book 92 Hadith 70</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள், “(தஜ்ஜால்) (ஒரே குலையில்) துருத்திக் கொண்டிருக்கும் திராட்சையைப் போன்று வலக் கண் குருடானவனாக இருப்பான்” என்று சொன்னார்கள். இதை அவர்கள் நபி (ஸல்) அவர்களிட மிருந்து கேட்டுச் சொன்னதாகவே நான் கருதுகின்றேன்.58 அத்தியாயம் : 92
+நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள், “(தஜ்ஜால்) (ஒரே குலையில்) துருத்திக் கொண்டிருக்கும் திராட்சையைப் போன்று வலக் கண் குருடானவனாக இருப்பான்” என்று சொன்னார்கள். இதை அவர்கள் நபி (ஸல்) அவர்களிட மிருந்து கேட்டுச் சொன்னதாகவே நான் கருதுகின்றேன்.58 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7123</td></tr><tr><td>Arabic No</td><td>7123</td></tr><tr><td>Reference</td><td>Book 92 Hadith 70</td></tr></tbody></table></div>
 

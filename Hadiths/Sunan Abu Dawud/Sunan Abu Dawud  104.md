@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... আবূ হুরায়রা (রাঃ) থেকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উপরোক্ত হাদীছের অনুরূপ বর্ণিত আছে তবে এই বর্ণনায় আরো আছে যে, উপরোক্ত কথা দুই অথবা তিনবার বলেছেন। এ সূত্রে আবূ রযীনের নাম উল্লেখ নাই।
+। আবূ হুরাইরাহ্ (রাঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণিত আছে। তবে তাতে দুই অথবা তিনবার করে হাত ধোয়ার কথা উল্লেখ আছে এবং এর সানাদে আবূ রযীন নামক পূর্ববর্তী একজন বর্ণনাকারীর নাম উল্লেখ নেই।[1] সহীহ; তিনবার হাত ধোয়াই হচ্ছে অধিকাংশের মত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>104</td></tr><tr><td>Arabic No</td><td>104</td></tr><tr><td>Reference</td><td>Book 1 Hadith 104</td></tr></tbody></table></div>
 

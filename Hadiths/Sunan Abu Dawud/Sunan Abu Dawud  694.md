@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবনু মাসলামা আল-কানবী .... ইবনু আব্বাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা ঘুমন্ত ব্যক্তি ও আলাপে রত ব্যক্তিদের সামনে রেখে নামায পড় না।
+। ‘আব্দুল্লাহ ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা ঘুমন্ত ও বাক্যালাপকারী লোকদের সামনে রেখে সালাত আদায় করো না।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>694</td></tr><tr><td>Arabic No</td><td>694</td></tr><tr><td>Reference</td><td>Book 2 Hadith 304</td></tr></tbody></table></div>
 

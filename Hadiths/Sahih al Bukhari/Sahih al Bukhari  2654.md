@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) একদা তিনবার বললেন, আমি কি তোমাদেরকে সবচেয়ে বড় কবীরা গুনাহগুলো সম্পর্কে অবহিত করব না? সকলে বললেন, হে আল্লাহর রাসূল! অবশ্যই বলুন। তিনি বললেন, আল্লাহর সঙ্গে শির্ক করা এবং পিতা-মাতার অবাধ্য হওয়া। তিনি হেলান দিয়ে বসেছিলেন; এবার সোজা হয়ে বসলেন এবং বললেন, শুনে রাখ! মিথ্যা সাক্ষ্য দেয়া, এ কথাটি তিনি বার বার বলতে থাকলেন। এমনকি আমরা বলতে লাগলাম, আর যদি তিনি না বলতেন। (৫৯৭৬-৬২৭৩-৬২৭৪-৬৯১৯) (মুসলিম ১/৩৮ হাঃ ৮৭, আহমাদ ১২৩৩৮) (আধুনিক প্রকাশনীঃ ২৪৬২, ইসলামিক ফাউন্ডেশনঃ ২৪৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) একদা তিনবার বললেন, আমি কি তোমাদেরকে সবচেয়ে বড় কবীরা গুনাহগুলো সম্পর্কে অবহিত করব না? সকলে বললেন, হে আল্লাহর রাসূল! অবশ্যই বলুন। তিনি বললেন, আল্লাহর সঙ্গে শির্ক করা এবং পিতা-মাতার অবাধ্য হওয়া। তিনি হেলান দিয়ে বসেছিলেন; এবার সোজা হয়ে বসলেন এবং বললেন, শুনে রাখ! মিথ্যা সাক্ষ্য দেয়া, এ কথাটি তিনি বার বার বলতে থাকলেন। এমনকি আমরা বলতে লাগলাম, আর যদি তিনি না বলতেন। (৫৯৭৬-৬২৭৩-৬২৭৪-৬৯১৯) (মুসলিম ১/৩৮ হাঃ ৮৭, আহমাদ ১২৩৩৮) (আধুনিক প্রকাশনীঃ ২৪৬২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 52 Hadith 18</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Bakra:The Prophet (ﷺ) said thrice, "Should I inform you out the greatest of the great sins?" They said, "Yes, O Allah's Messenger (ﷺ)!" He said, "To join others in worship with Allah and to be undutiful to one's parents." The Prophet (ﷺ) then sat up after he had been reclining (on a pillow) and said, "And I warn you against giving a false witness, and he kept on saying that warning till we thought he would not stop. (See Hadith No. 7, Vol. 8)
+Narrated Abu Bakra:The Prophet (ﷺ) said thrice, "Should I inform you out the greatest of the great sins?" They said, "Yes, O Allah's Messenger (ﷺ)!" He said, "To join others in worship with Allah and to be undutiful to one's parents." The Prophet (ﷺ) then sat up after he had been reclining (on a pillow) and said, "And I warn you against giving a false witness, and he kept on saying that warning till we thought he would not stop. (See Hadith No. 7, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 52 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyir
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூபக்ரா (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) ‘‘பெரும் பாவங்களிலேயே மிகப் பெரும் பாவங்களை நான் உங்களுக்கு அறிவிக்கட்டுமா?” என்று நபி (ஸல்) அவர்கள் (மூன்றுமுறை) கேட்டார்கள். மக்கள், ‘‘ஆம், அல்லாஹ்வின் தூதரே! (அறிவியுங்கள்)” என்று சொன்னார் கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘அல்லாஹ்வுக்கு இணைகற்பிப்பதும், பெற்றோரைப் புண்படுத்துவதும்(தான் அவை)” என்று கூறிவிட்டு, சாய்ந்து கொண்டிருந்த அவர்கள் எழுந்து அமர்ந்து, ‘‘அறிந்துகொள்ளுங்கள்: பொய் சாட்சியமும் (மிகப் பெரும் பாவம்)தான்” என்று கூறினார்கள். யிநிறுத்திக்கொள்ளக் கூடாதா’ என்று நாங்கள் சொல்கின்ற அளவுக்கு அதை (இறுதியாகச் சொன்னதை) திரும்பத் திரும்பக் கூறிக்கொண்டே இருந்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 52
+அபூபக்ரா (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) ‘‘பெரும் பாவங்களிலேயே மிகப் பெரும் பாவங்களை நான் உங்களுக்கு அறிவிக்கட்டுமா?” என்று நபி (ஸல்) அவர்கள் (மூன்றுமுறை) கேட்டார்கள். மக்கள், ‘‘ஆம், அல்லாஹ்வின் தூதரே! (அறிவியுங்கள்)” என்று சொன்னார் கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘அல்லாஹ்வுக்கு இணைகற்பிப்பதும், பெற்றோரைப் புண்படுத்துவதும்(தான் அவை)” என்று கூறிவிட்டு, சாய்ந்து கொண்டிருந்த அவர்கள் எழுந்து அமர்ந்து, ‘‘அறிந்துகொள்ளுங்கள்: பொய் சாட்சியமும் (மிகப் பெரும் பாவம்)தான்” என்று கூறினார்கள். யிநிறுத்திக்கொள்ளக் கூடாதா’ என்று நாங்கள் சொல்கின்ற அளவுக்கு அதை (இறுதியாகச் சொன்னதை) திரும்பத் திரும்பக் கூறிக்கொண்டே இருந்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 52 Hadith 18</td></tr></tbody></table></div>
 

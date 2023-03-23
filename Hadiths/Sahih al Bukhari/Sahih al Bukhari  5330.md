@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَكَيْفَ يُرَاجِعُ الْمَرْأَةَ إِذَا طَلَّقَهَا وَاحِدَةً أَوْ ثِنْتَيْنِ. এবং এক বা দু’তালাকের পর স্ত্রীকে ফিরিয়ে আনার নিয়ম সম্পর্কিত। ৫৩৩০. হাসান (রহ.) হতে বর্ণিত। তিনি বলেনঃ মা‘কাল তার বোনকে বিয়ে দিয়েছিল, অতঃপর তার স্বামী তাকে এক তালাক,দেয়। [৪৫২৯] আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন- ৪৮৩১
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَكَيْفَ يُرَاجِعُ الْمَرْأَةَ إِذَا طَلَّقَهَا وَاحِدَةً أَوْ ثِنْتَيْنِ. এবং এক বা দু’তালাকের পর স্ত্রীকে ফিরিয়ে আনার নিয়ম সম্পর্কিত। ৫৩৩০. হাসান (রহ.) হতে বর্ণিত। তিনি বলেনঃ মা‘কাল তার বোনকে বিয়ে দিয়েছিল, অতঃপর তার স্বামী তাকে এক তালাক,দেয়। [৪৫২৯] আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5330</td></tr><tr><td>Arabic No</td><td>5330</td></tr><tr><td>Reference</td><td>Book 68 Hadith 75</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad] Telah mengabarkan kepada kami [Abdul Wahh
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹசன் அல்பளி (ரஹ்) அவர்கள் கூறியதாவது: மஅகில் பின் யசார் (ரலி) அவர்கள் தம் சகோதரியை (ஒருவருக்கு) மணமுடித் துக் கொடுத்தார்கள். பிறகு அவரை அவருடைய கணவர் ஒரு தலாக் சொல்லிவிட்டார்.88 அத்தியாயம் : 68
+ஹசன் அல்பளி (ரஹ்) அவர்கள் கூறியதாவது: மஅகில் பின் யசார் (ரலி) அவர்கள் தம் சகோதரியை (ஒருவருக்கு) மணமுடித் துக் கொடுத்தார்கள். பிறகு அவரை அவருடைய கணவர் ஒரு தலாக் சொல்லிவிட்டார்.88 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5330</td></tr><tr><td>Arabic No</td><td>5330</td></tr><tr><td>Reference</td><td>Book 68 Hadith 75</td></tr></tbody></table></div>
 

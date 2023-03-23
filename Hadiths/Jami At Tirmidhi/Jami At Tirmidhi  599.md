@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৯৯। অপর একটি সূত্রেও আসিম (রাঃ) হতে এ হাদীসটি বর্ণিত হয়েছে। এটি হাসান হাদীস। ইসহাক ইবনু ইবরাহীম বলেন, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লামের দিনের বেলার নফল নামায সম্পর্কে এ হাদীসটি সর্বাধিক সহীহ। ইবনুল মুবারাক এ হাদীসটিকে যঈফ বলতেন। আমার মতে তার এ হাদীসটিকে যঈফ বলার কারণ এই যে, আল্লাহ তা'আলাই বেশি ভাল জানেন, কেবল উল্লেখিত সূত্রেই হাদীসটি বর্ণিত হয়েছে। কিন্তু হাদীস বিশারদদের মতে আসিম ইবনু যামরা নির্ভরযোগ্য রাবী। সুফিয়ান সাওরী বলেন, আমাদের কাছে হারিসের হাদীসের তুলনায় আসিমের হাদীস বেশি উত্তম।
+। অপর একটি সূত্রেও আসিম (রাঃ) হতে এ হাদীসটি বর্ণিত হয়েছে। এটি হাসান হাদীস। ইসহাক ইবনু ইবরাহীম বলেন, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লামের দিনের বেলার নফল নামায সম্পর্কে এ হাদীসটি সর্বাধিক সহীহ। ইবনুল মুবারাক এ হাদীসটিকে যঈফ বলতেন। আমার মতে তার এ হাদীসটিকে যঈফ বলার কারণ এই যে, আল্লাহ তা'আলাই বেশি ভাল জানেন, কেবল উল্লেখিত সূত্রেই হাদীসটি বর্ণিত হয়েছে। কিন্তু হাদীস বিশারদদের মতে আসিম ইবনু যামরা নির্ভরযোগ্য রাবী। সুফিয়ান সাওরী বলেন, আমাদের কাছে হারিসের হাদীসের তুলনায় আসিমের হাদীস বেশি উত্তম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 6 Hadith 56</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Another chain) from Ali :from the Prophet similarly (no. 598)
+(Another chain) from Ali :from the Prophet similarly (no)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 6 Hadith 56</td></tr></tbody></table></div>
 

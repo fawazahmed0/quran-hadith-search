@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইব্‌ন ইউনুস (রহঃ) .... আদী ইব্‌ন আদী (রহঃ) থেকে এরূপ বর্ণিত হয়েছে, যেরূপ উরস (রাঃ) থেকে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ হাদীছ বর্ণনা প্রসঙ্গে বলেনঃ যে ব্যক্তি গুনাহের কাজ দেখে খারাপ মনে করবে, সে যেন তা দেখলো না।
+। আদী ইবনু আদী (রহঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে উপরে বর্ণিত হাদীসের সমার্থবোধক হাদীস বর্ণিত। তাতে রয়েছেঃ যে ব্যক্তি অন্যায়ের স্থানে উপস্থিত হয়েও তা অপছন্দ করলো, সে অনুপস্থিতিতের মতোই।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4346</td></tr><tr><td>Arabic No</td><td>4346</td></tr><tr><td>Reference</td><td>Book 39 Hadith 56</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইসহাক ইবনু মানসূর (রহঃ) ... আওস ইবনু আওস (রাঃ) সুত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, তোমাদের সকল দিনের মধ্যে পরমোৎকৃষ্ট দিন হল জুমু'আর দিন, সে দিন আদম (আলাইহিস সালাম) কে সৃষ্টি করা হয়েছিল, সে দিনই তাঁর ওফাত হয়, সে দিনই দ্বিতীয় বার শিঙ্গায় ফুঁ দেওয়া হবে এবং সে দিনই কিয়ামত অনুষ্ঠিত হবে। অতএব, তোমরা আমার উপর বেশি বেশি দরুদ পড়। কেননা, তোমাদের দরুদ আমার কাছে পেশ করা হয়। তারা বললেন, ইয়া রাসুলাল্লাহ! কিভাবে আমাদের দরুদ আপনার কাছে পেশ করা হবে। যেহেতু আপনি (এক সময়) ওফাত পেয়ে যাবেন অর্থাৎ তারা বললেন, আপনার দেহ মাটির সাথে মিশে যাবে। তিনি বললেন, নিশ্চয়ই আল্লাহ তা’আলা যমীনের জন্য নবীগণের দেহ গ্রাস করা হারাম করে দিয়েছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1374</td></tr><tr><td>Arabic No</td><td>1374</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
 

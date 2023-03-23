@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবনু সাঈদ .... ইবনু আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের উপর বিস্‌মিল্লাহির রাহমানির রাহীম নাযিল না হওয়া পর্যন্ত কোন সূরার শুরু চিহ্নিত করতে পারতেন না। হাদীছের এই পাঠ ইবনুস সারহ্‌-এর।
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উপর বিসমিল্লা-হির রহমা-নির রহীম অবতীর্ণ না হওয়া পর্যন্ত তিনি কোন সূরার শুরুর দিক চি‎‎হ্নিত করতে পারতেন না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 2 Hadith 398</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৮২৯, আন্তর্জাতিক নাম্বারঃ ১৫৪৭ ৩৮২৯-(১০৮/...) ‘আলী ইবনু হুজর (রহঃ) ..... ইবনু উমার (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাফি (রহঃ) আমাদেরকে আমাদের জমি হতে ফায়দা হাসিল করা হতে বাধা দান করেছেন। (ইসলামিক ফাউন্ডেশন ৩৭৯৩, ইসলামিক সেন্টার ৩৭৯৩)
+‘আলী ইবনু হুজর (রহঃ) ..... ইবনু উমার (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাফি (রহঃ) আমাদেরকে আমাদের জমি হতে ফায়দা হাসিল করা হতে বাধা দান করেছেন। (ইসলামিক ফাউন্ডেশন ৩৭৯৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3937</td></tr><tr><td>Arabic No</td><td>1547.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 136</td></tr></tbody></table></div>
 

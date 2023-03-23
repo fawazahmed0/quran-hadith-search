@@ -16,21 +16,21 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنَا مَنْصُورٌ، عَنْ هِلاَلِ بْنِ يِسَافٍ، عَنْ أَبِي يَحْيَى، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يُصَلِّي جَالِسًا فَقُلْتُ حُدِّثْتُ أَنَّكَ قُلْتَ ‏"‏ إِنَّ صَلاَةَ الْقَاعِدِ عَلَى النِّصْفِ مِنْ صَلاَةِ الْقَائِمِ ‏"‏ ‏.‏ وَأَنْتَ تُصَلِّي قَاعِدًا ‏.‏ قَالَ ‏"‏ أَجَلْ وَلَكِنِّي لَسْتُ كَأَحَدٍ مِنْكُمْ ‏"‏ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا عبيد الله بن سعيد، قال حدثنا يحيى، عن سفيان، قال حدثنا منصور، عن هلال بن يساف، عن ابي يحيى، عن عبد الله بن عمرو، قال رايت النبي صلى الله عليه وسلم يصلي جالسا فقلت حدثت انك قلت " ان صلاة القاعد على النصف من صلاة القايم " . وانت تصلي قاعدا . قال " اجل ولكني لست كاحد منكم
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। উবায়দুল্লাহ ইবনু সাঈদ (রহঃ) ... আব্দুল্লাহ ইবনু আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি একবার রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বসা অবস্থায় দেখলাম। আমি বললাম, আমার কাছে বর্ণনা করা হয়েছে যে, আপনি বলেছেনঃ বসে বসে সালাত আদায়কারীর সওয়াব দাঁড়িয়ে দাঁড়িয়ে সালাত আদায়কারীর অর্ধেক। অথচ আপনি বসে বসে সালাত আদায় করছেন? তিনি বললেন, নিশ্চয়ই; কিন্তু আমি তোমাদের কারো মত নই। (আমি বসে বসে সালাত আদায় করলেও আমাকে পুর্ণ সওয়াব দেয়া হয়)।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Abdullah bin 'Amr said:"I saw the Prophet (ﷺ) praying sitting down and I said: 'I was told that you said that the prayer of one who is sitting down is worth half of the prayer of the one who is standing up.' He said: 'Yes indeed, but I am not like any one of you
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ It was narrated that 'Abdullah bin 'Amr said:"I saw the Prophet (ﷺ) praying si
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami ['Ubaidullah bin Sa'id] dia berkata; telah menceritakan kepada kami [Yahya] dari [Sufyan] dia berkata; telah menceritakan kepada kami [Manshur] dari [Hilal bin Yasaf] dari [Abu Yahya] dari ['Abdullah bin 'Amru] dia berkata; "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam shalat sambil duduk, maka aku berkata kepada beliau; 'Aku pernah mendapatkan hadits dari engkau, bahwa engkau bersabda: "Shalat orang sambil duduk (mendapatkan) setengah (pahala) dari shalat yang dilakukan sambil berdiri. Dan engkau shalat sambil duduk." Beliau shallallahu 'alaihi wasallam menjawab: 'Ya, tetapi aku tidak seperti salah satu dari kalian
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengabarkan kepada kami ['Ubaidullah bin Sa'id] dia berkata; telah menceri
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengabarkan kepada kami ['Ubaidullah bin Sa'id] dia berkata; telah menceri
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو رضی اللہ عنہم کہتے ہیں کہ میں نے نبی اکرم صلی اللہ علیہ وسلم کو بیٹھ کر نماز پڑھتے دیکھا تو میں نے عرض کیا کہ مجھ سے بیان کیا گیا ہے کہ آپ صلی اللہ علیہ وسلم نے فرمایا ہے کہ بیٹھ کر پڑھنے والے کی نماز کھڑے ہو کر پڑھنے والے کی نماز کے آدھی ہوتی ہے، اور آپ خود بیٹھ کر پڑھ رہے ہیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: ہاں لیکن میں تم لوگوں کی طرح نہیں ہوں ۱؎۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 20 Hadith 62</td></tr></tbody></table></div>

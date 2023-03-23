@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবন বাককার (রহঃ) .... উম্মু আলা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একদা আমি অসুস্থ হয়ে পড়লে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার সেবা-শুশ্রূষা করতে এসে বলেনঃ হে উম্মু আলা! তুমি সুসংবাদ গ্রহণ কর। কেননা, মুসলিমদের অসুখের দ্বারা আল্লাহ্‌ তাদের গুনাহ তেমনি দূর করে দেন, যেমনি অগ্নি সোনা-রুপার মরিচা দূর করে দেয়।
+। উম্মুল আলা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি অসুস্থ হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে দেখতে আসলেন। তিনি বললেনঃ হে আলার মা! সুসংবাদ গ্রহণ করো, আগুন যেভাবে সোনা-রূপার ময়লা দূর করে দেয় তদ্রুপ মহান আল্লাহ কোনো মুসলিমের রোগের দ্বারা তার গুনাহসমূহ দূর করে দেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3092</td></tr><tr><td>Arabic No</td><td>3092</td></tr><tr><td>Reference</td><td>Book 21 Hadith 4</td></tr></tbody></table></div>
 

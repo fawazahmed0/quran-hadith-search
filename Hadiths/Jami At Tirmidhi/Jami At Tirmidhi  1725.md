@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭২৫। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে কাসী (সূতা ও রেশম মিশ্ৰিত কাপড়) ও হলুদ রং-এর জামা পরতে বারণ করেছেন। সহীহ, ইবনু মা-জাহ (৩৬০২), মুসলিম, ৩৬৭৬ নং হাদীসে আরও পরিপূর্ণ বর্ণনা আসবে। আবূ ঈসা বলেন, আনাস ও আবদুল্লাহ ইবনু আমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আলী (রাঃ) হতে বর্ণিত হাদীসটি হাসান সহীহ।
+। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে কাসী (সূতা ও রেশম মিশ্ৰিত কাপড়) ও হলুদ রং-এর জামা পরতে বারণ করেছেন। সহীহ, ইবনু মা-জাহ (৩৬০২), মুসলিম, ৩৬৭৬ নং হাদীসে আরও পরিপূর্ণ বর্ণনা আসবে। আবূ ঈসা বলেন, আনাস ও আবদুল্লাহ ইবনু আমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আলী (রাঃ) হতে বর্ণিত হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1725</td></tr><tr><td>Arabic No</td><td>1725</td></tr><tr><td>Reference</td><td>Book 24 Hadith 6</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (ফজরের সুন্নাত) সালাত আদায় করার পর আমি জেগে থাকলে, তিনি আমার সাথে কথাবার্তা বলতেন, নতুবা সালাতের সময় হওয়া সম্পর্কে অবগত করানো পর্যন্ত শুয়ে থাকতেন। (১১১৮) (আধুনিক প্রকাশনীঃ ১০৮৭, ইসলামিক ফাউন্ডেশনঃ ১০৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (ফজরের সুন্নাত) সালাত আদায় করার পর আমি জেগে থাকলে, তিনি আমার সাথে কথাবার্তা বলতেন, নতুবা সালাতের সময় হওয়া সম্পর্কে অবগত করানো পর্যন্ত শুয়ে থাকতেন। (১১১৮) (আধুনিক প্রকাশনীঃ ১০৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1161</td></tr><tr><td>Arabic No</td><td>1161</td></tr><tr><td>Reference</td><td>Book 19 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Bisyir bin Al Hakam] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஃபஜ்ருடைய சுன்னத்) தொழுததும் நான் விழித்திருந் தால் என்னுடன் பேசிக்கொண்டிருப் பார்கள். இல்லாவிடில் (ஃபஜ்ர்) தொழு கைக்கு அழைக்கப்படும்வரை படுத்து ஓய்வெடுப்பார்கள். அத்தியாயம் : 19
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஃபஜ்ருடைய சுன்னத்) தொழுததும் நான் விழித்திருந் தால் என்னுடன் பேசிக்கொண்டிருப் பார்கள். இல்லாவிடில் (ஃபஜ்ர்) தொழு கைக்கு அழைக்கப்படும்வரை படுத்து ஓய்வெடுப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1161</td></tr><tr><td>Arabic No</td><td>1161</td></tr><tr><td>Reference</td><td>Book 19 Hadith 40</td></tr></tbody></table></div>
 

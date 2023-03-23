@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮৫৪। আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মাথায় উস্কুখুস্কু চুল ও দেহে ধূলিমলিন দু’খানা পুরাতন কাপড় পরিহিত এরূপ অনেক ব্যক্তি রয়েছে যার প্রতি লোকেরা দৃষ্টিপাত করে না। অথচ সে আল্লাহর নামে শপথ করে ওয়াদা করলে তিনি তা সত্যে পরিণত করেন। আল-বারাআ ইবনু মালিক তাদের দলভুক্ত। সহীহঃ মিশকাত (৬২৪৮), তাখরাজুল মুশকিলাহ (১২৫)। আবূ ঈসা বলেন, হাদীসটি এ সনদে হাসান সহীহ।
+। আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মাথায় উস্কুখুস্কু চুল ও দেহে ধূলিমলিন দু’খানা পুরাতন কাপড় পরিহিত এরূপ অনেক ব্যক্তি রয়েছে যার প্রতি লোকেরা দৃষ্টিপাত করে না। অথচ সে আল্লাহর নামে শপথ করে ওয়াদা করলে তিনি তা সত্যে পরিণত করেন। আল-বারাআ ইবনু মালিক তাদের দলভুক্ত। সহীহঃ মিশকাত (৬২৩৯), তাখরাজুল মুশকিলাহ (১২৫)। আবূ ঈসা বলেন, হাদীসটি এ সনদে হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3854</td></tr><tr><td>Arabic No</td><td>3854</td></tr><tr><td>Reference</td><td>Book 49 Hadith 254</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আর তা হলো এইঃ ‘উরওয়াহ বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, ঘোড়ার কপালের কেশদামে বরকত ও কল্যাণ আছে ক্বিয়ামাত (কিয়ামত) অবধি। রাবী বলেন, আমি তার গৃহে সত্তরটি ঘোড়া দেখেছি। সুফ্ইয়ান (রহ.) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য যে বকরীটি কেনা হয়েছিল তা ছিল কুরবানীর জন্য। (২৮৫০) (আধুনিক প্রকাশনীঃ ৩৩৭১ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৩৩৭৮ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কাসিম (রহঃ) হতে বর্ণিত যে, ইবনু ‘আব্বাস (রাঃ) ‘আয়িশাহ (রাঃ)-এর নিকট যাওয়ার জন্য অনুমতি চাইলেন। পরবর্তী অংশ উক্ত হাদীসের অনুরূপ। এতে نِسْيًا مَّنْسِيًّا (স্মৃতি থেকে বিস্মৃত হয়ে যেতাম) অংশটি নেই। [৩৭৭১] (আধুনিক প্রকাশনীঃ ৪৩৯৩, ইসলামিক ফাউন্ডেশনঃ ৪৩৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কাসিম (রহঃ) হতে বর্ণিত যে, ইবনু ‘আব্বাস (রাঃ) ‘আয়িশাহ (রাঃ)-এর নিকট যাওয়ার জন্য অনুমতি চাইলেন। পরবর্তী অংশ উক্ত হাদীসের অনুরূপ। এতে نِسْيًا مَّنْسِيًّا (স্মৃতি থেকে বিস্মৃত হয়ে যেতাম) অংশটি নেই। [৩৭৭১] (আধুনিক প্রকাশনীঃ ৪৩৯৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4754</td></tr><tr><td>Arabic No</td><td>4754</td></tr><tr><td>Reference</td><td>Book 65 Hadith 276</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Al-Qasim:Ibn 'Abbas asked 'Aisha's permission to enter. Al-Qasim then n
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-காசிம் பின் முஹம்மத் பின் அபீபக்ர் அஸ்ஸித்தீக் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள் ஆயிஷா (ரலி) அவர்களிடம் வர அனுமதி கேட்டார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் காசிம் பின் முஹம்மத் (ரஹ்) அவர்கள் தமது அறிவிப்பில், ‘மறக்கப்பட்டுவிட்டவளாக’ என்பதைக் கூறவில்லை. அத்தியாயம் : 65
+காசிம் பின் முஹம்மத் பின் அபீபக்ர் அஸ்ஸித்தீக் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள் ஆயிஷா (ரலி) அவர்களிடம் வர அனுமதி கேட்டார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் காசிம் பின் முஹம்மத் (ரஹ்) அவர்கள் தமது அறிவிப்பில், ‘மறக்கப்பட்டுவிட்டவளாக’ என்பதைக் கூறவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4754</td></tr><tr><td>Arabic No</td><td>4754</td></tr><tr><td>Reference</td><td>Book 65 Hadith 276</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated Al-Qasim:Ibn 'Abbas asked 'Aisha's permission to enter. Al-Qasim then n
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbnu Avn, el-Kaasım'dan tahdîs etti de: İbn Abbâs radıyallahü anhüma Âişe'nin huzuruna girmek için izin istedi, deyip yukarıdaki hadîsin benzerini söyledi, fakat "Nisyen mensiyyen" kısmını zikretmedi. Allah'ın Şu Kavli: siz îmân eden kimselerseniz böyle birşeye hayâtta bulunduğunuz müddetçe bir daha dönmenizi size haram kılıyor”(Âyet: 17)
+İbnu Avn, el-Kaasım'dan tahdîs etti de: İbn Abbâs radıyallahü anhüma Âişe'nin huzuruna girmek için izin istedi, deyip yukarıdaki hadîsin benzerini söyledi, fakat "Nisyen mensiyyen" kısmını zikretmedi. Allah'ın Şu Kavli: siz îmân eden kimselerseniz böyle birşeye hayâtta bulunduğunuz müddetçe bir daha dönmenizi size haram kılıyor”(Âyet:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4754</td></tr><tr><td>Arabic No</td><td>4754</td></tr><tr><td>Reference</td><td>Book 65 Hadith 276</td></tr></tbody></table></div>
 

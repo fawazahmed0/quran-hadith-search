@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি যে, ফজরের পর সূর্য উদিত হয়ে (একটু) উপরে না উঠা পর্যন্ত এবং ‘আসরের পর সূর্য অস্তমিত না হওয়া পর্যন্ত কোন সালাত নেই। (১১৮৮, ১১৯৭, ১৮৬৪, ১৯৯২, ১৯৯৫; মুসলিম ৬/৫১, হাঃ ৮২৭, আহমাদ ১১০৪০) (আধুনিক প্রকাশনীঃ ৫৫১, ইসলামিক ফাউন্ডেশনঃ ৫৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি যে, ফজরের পর সূর্য উদিত হয়ে (একটু) উপরে না উঠা পর্যন্ত এবং ‘আসরের পর সূর্য অস্তমিত না হওয়া পর্যন্ত কোন সালাত নেই। (১১৮৮, ১১৯৭, ১৮৬৪, ১৯৯২, ১৯৯৫; মুসলিম ৬/৫১, হাঃ ৮২৭, আহমাদ ১১০৪০) (আধুনিক প্রকাশনীঃ ৫৫১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>586</td></tr><tr><td>Arabic No</td><td>586</td></tr><tr><td>Reference</td><td>Book 9 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah mence
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சுப்ஹு தொழுகைக்குப் பின்னா-ருந்து சூரியன் (முழுமையாக) உதிக்கும் வரை எந்தத் தொழுகையும் இல்லை. அஸ்ர் தொழுகைக்குப் பின்னா-ருந்து சூரியன் (முழுமையாக) மறையும்வரை எந்தத் தொழுகையும் இல்லை. இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 9
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சுப்ஹு தொழுகைக்குப் பின்னா-ருந்து சூரியன் (முழுமையாக) உதிக்கும் வரை எந்தத் தொழுகையும் இல்லை. அஸ்ர் தொழுகைக்குப் பின்னா-ருந்து சூரியன் (முழுமையாக) மறையும்வரை எந்தத் தொழுகையும் இல்லை. இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>586</td></tr><tr><td>Arabic No</td><td>586</td></tr><tr><td>Reference</td><td>Book 9 Hadith 61</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah mence
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Saîd el-Hudrî (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini işittiğini nakletmiştir: "Güneş yükselinceye kadar sabah namazından sonra namaz kılınmaz! Güneş batıncaya kadar da, ikindi namazından sonra namazı kılınmaz! Tekrar: 1188, 1197, 1864, 1993, 1995
+Ebu Saîd el-Hudrî (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini işittiğini nakletmiştir: "Güneş yükselinceye kadar sabah namazından sonra namaz kılınmaz! Güneş batıncaya kadar da, ikindi namazından sonra namazı kılınmaz! Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>586</td></tr><tr><td>Arabic No</td><td>586</td></tr><tr><td>Reference</td><td>Book 9 Hadith 61</td></tr></tbody></table></div>
 

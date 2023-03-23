@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন উছমান (রহঃ) ...... সামুরা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে সালামের জবাব দেয়ার জন্য, পারষ্পরিক সৌহার্দ্য ও সম্প্রীতি স্থাপনের জন্য একে অন্যকে সালাম বিনিময়ের নির্দেশ দিয়েছেন। (ইবন মাজা)।
+। সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে আদেশ করেছেন ইমামের সালামের জবাব দিতে, পরস্পরকে ভালোবাসতে এবং একে অন্যকে সালাম দিতে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1001</td></tr><tr><td>Arabic No</td><td>1001</td></tr><tr><td>Reference</td><td>Book 2 Hadith 612</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Utsman Abu Al Jamahir] telah mencer
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Semure'den; demiştir ki: Nebi (s.a.v.) bize imam'ın selâmına karşılık vermemizi, birbirimizi sevmemizi ve biri birimize selâm vermemizi emretti. Diğer tahric: Hâkim, el-Müstedrek, 1, 270
+Semure'den; demiştir ki: Nebi (s.a.v.) bize imam'ın selâmına karşılık vermemizi, birbirimizi sevmemizi ve biri birimize selâm vermemizi emretti. Diğer tahric: Hâkim, el-Müstedrek
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1001</td></tr><tr><td>Arabic No</td><td>1001</td></tr><tr><td>Reference</td><td>Book 2 Hadith 612</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৬৬৪। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যাক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে বললো, আমি নাপাকির গোসল করে ফজরের সালাত পড়লাম। তারপর সকাল হলে আমি দেখতে পেলাম যে, নখ পরিমাণ স্থানে পানি পৌঁছায়নি, রাসুলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমি স্থানটুকু তোমার হাত দিয়ে মাসহ (মাসেহ) করলেই তোমার জন্য তা যথেষ্ট হতো।
+। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যাক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে বললো, আমি নাপাকির গোসল করে ফজরের সালাত পড়লাম। তারপর সকাল হলে আমি দেখতে পেলাম যে, নখ পরিমাণ স্থানে পানি পৌঁছায়নি, রাসুলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমি স্থানটুকু তোমার হাত দিয়ে মাসহ(মাসেহ)্ করলেই তোমার জন্য তা যথেষ্ট হতো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>664</td></tr><tr><td>Arabic No</td><td>664</td></tr><tr><td>Reference</td><td>Book 1 Hadith 398</td></tr></tbody></table></div>
 

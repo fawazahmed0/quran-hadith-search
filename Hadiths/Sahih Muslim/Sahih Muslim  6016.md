@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯১০, আন্তর্জাতিক নাম্বারঃ ২৩০৯ ৫৯১০-(…/২৩০৯) আনাস (রাযিঃ) বলেন, আল্লাহর শপথ আমি নয় বছর তার সেবায় ছিলাম, কিন্তু আমার জানা নেই, কোন কাজ আমি করেছি সে ব্যাপারে বলেননি এরূপ কেন করলে কিংবা কোন কাজ করিনি, সে ব্যাপারে বলেননি, কেন অমুক অমুক কাজ করলে না? (ইসলামিক ফাউন্ডেশন ৫৮০৯, ইসলামিক সেন্টার, নেই)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6016</td></tr><tr><td>Arabic No</td><td>2309.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 74</td></tr></tbody></table></div>
 

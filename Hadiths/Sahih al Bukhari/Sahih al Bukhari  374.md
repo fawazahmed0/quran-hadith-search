@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। ‘আয়িশাহ (রাযি.)-এর নিকট একটা বিচিত্র রঙের পাতলা পর্দার কাপড় ছিল। তিনি তা ঘরের এক দিকে পর্দা হিসেবে ব্যবহার করছিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমার সামনে থেকে তোমার এই পর্দা সরিয়ে নাও। কারণ সালাত আদায়ের সময় এর ছবিগুলো আমার সামনে ভেসে ওঠে। (৫৯৫৯ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ৩৬১, ইসলামিক ফাউন্ডেশনঃ ৩৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। ‘আয়িশাহ (রাযি.)-এর নিকট একটা বিচিত্র রঙের পাতলা পর্দার কাপড় ছিল। তিনি তা ঘরের এক দিকে পর্দা হিসেবে ব্যবহার করছিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমার সামনে থেকে তোমার এই পর্দা সরিয়ে নাও। কারণ সালাত আদায়ের সময় এর ছবিগুলো আমার সামনে ভেসে ওঠে। (৫৯৫৯ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ৩৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>374</td></tr><tr><td>Arabic No</td><td>374</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar 'Abdullah bin 'Amru] berkata, telah m
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்களிடம் உருவச் சித்திரங்கள் பொறித்த பல வண்ண திரைச் சீலை ஒன்று இருந்தது. அதைக் கொண்டு வீட்டின் ஒரு பகுதி(யிலிருந்த அல மாரி)யை அவர்கள் மறைத்திருந்தார்கள். (அதை நோக்கித் தொழுத) நபி (ஸல்) அவர்கள், “உன்னுடைய இந்தத் திரைச் சீலையை நம்மிடமிருந்து அகற்றிவிடு! ஏனெனில், இதிலுள்ள உருவப்படங்கள் என் தொழுகையில் குறுக்கிட்டுக் கொண்டே இருக்கின்றன” என்று சொன்னார்கள்.18 அத்தியாயம் : 8
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்களிடம் உருவச் சித்திரங்கள் பொறித்த பல வண்ண திரைச் சீலை ஒன்று இருந்தது. அதைக் கொண்டு வீட்டின் ஒரு பகுதி(யிலிருந்த அல மாரி)யை அவர்கள் மறைத்திருந்தார்கள். (அதை நோக்கித் தொழுத) நபி (ஸல்) அவர்கள், “உன்னுடைய இந்தத் திரைச் சீலையை நம்மிடமிருந்து அகற்றிவிடு! ஏனெனில், இதிலுள்ள உருவப்படங்கள் என் தொழுகையில் குறுக்கிட்டுக் கொண்டே இருக்கின்றன” என்று சொன்னார்கள்.18 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>374</td></tr><tr><td>Arabic No</td><td>374</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Ma'mar 'Abdullah bin 'Amru] berkata, telah m
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes'ten şöyle nakledilmiştir: "Aişe (r.anha)'nın yünden yapılmış rengarenk ince bir perdesi vardı. Onunla evin bir tarafını örterdi. Bir gün Nebi (Sallallahu aleyhi ve Sellem) Şu perdeni gözümüzün önünden kaldır! Zira üzerindeki şekiller, namaz kılarken gözüme takılıyor' dedi. Tekrar: 5959
+Enes'ten şöyle nakledilmiştir: "Aişe (r.anha)'nın yünden yapılmış rengarenk ince bir perdesi vardı. Onunla evin bir tarafını örterdi. Bir gün Nebi (Sallallahu aleyhi ve Sellem) Şu perdeni gözümüzün önünden kaldır! Zira üzerindeki şekiller, namaz kılarken gözüme takılıyor' dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>374</td></tr><tr><td>Arabic No</td><td>374</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
 

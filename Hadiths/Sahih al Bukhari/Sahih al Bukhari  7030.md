@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+পরে হাফসাহ (রাঃ) বললেন যে, তিনি তা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে বর্ণনা করেছেন। আর তিনি বলেছেনঃ ‘আবদুল্লাহ্ নেক্‌কার লোক। (তিনি আরও বলেছেন) যদি সে রাতে অধিক করে সালাত আদায় করত। যুহরী (রহ.) বলেন, এরপর থেকে ‘আবদুল্লাহ্ (ইবনু ‘উমার) (রাঃ) রাতে অধিক করে সালাত আদায় করতে লাগলেন। [১১২২] (আধুনিক প্রকাশনী- ৬৫৪৩ শেষাংশ, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7030</td></tr><tr><td>Arabic No</td><td>7030</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

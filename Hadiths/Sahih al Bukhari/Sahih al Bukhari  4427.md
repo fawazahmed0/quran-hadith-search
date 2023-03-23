@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সায়েব (ইবনু ইয়াযীদ) (রাঃ) হতে বর্ণিত, আমার মনে পড়ে যে, সানিয়্যাতুল বিদায়ে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে স্বাগত জানাতে মদিনার ছেলেদের সঙ্গে গিয়েছিলাম, যখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাবূক যুদ্ধ থেকে ফিরছিলেন। [৩০৮৩] (আধুনিক প্রকাশনীঃ ৪০৭৯, ইসলামিক ফাউন্ডেশনঃ ৪০৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সায়েব (ইবনু ইয়াযীদ) (রাঃ) হতে বর্ণিত, আমার মনে পড়ে যে, সানিয়্যাতুল বিদায়ে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে স্বাগত জানাতে মদিনার ছেলেদের সঙ্গে গিয়েছিলাম, যখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাবূক যুদ্ধ থেকে ফিরছিলেন। [৩০৮৩] (আধুনিক প্রকাশনীঃ ৪০৭৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4427</td></tr><tr><td>Arabic No</td><td>4427</td></tr><tr><td>Reference</td><td>Book 64 Hadith 449</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தபூக் போரிலிருந்து வந்தபோது, அவர்களை வழியிலேயே சந்தித்து வரவேற்க சிறுவர்களுடன் சேர்ந்து நான் “வதா' மலைக் குன்றுக்குச் சென்றதை (இப்போது) நினைவுகூர்கின்றேன்.470 அத்தியாயம் : 64
+சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தபூக் போரிலிருந்து வந்தபோது, அவர்களை வழியிலேயே சந்தித்து வரவேற்க சிறுவர்களுடன் சேர்ந்து நான் “வதா' மலைக் குன்றுக்குச் சென்றதை (இப்போது) நினைவுகூர்கின்றேன்.470 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4427</td></tr><tr><td>Arabic No</td><td>4427</td></tr><tr><td>Reference</td><td>Book 64 Hadith 449</td></tr></tbody></table></div>
 

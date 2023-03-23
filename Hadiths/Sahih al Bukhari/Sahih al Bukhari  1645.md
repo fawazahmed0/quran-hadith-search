@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমর ইবনু দ্বীনার (রহ.) হতে বর্ণিত। তিনি বলেন, আমরা ইবনু ‘উমার (রাঃ)-এর নিকট জিজ্ঞেস করলাম, কোন ব্যক্তি ‘উমরাহ করতে গিয়ে শুধু বাইতুল্লাহর তাওয়াফ করে, আর সাফা ও মারওয়া সা‘ঈ না করে, তার পক্ষে কি স্ত্রী সহবাস বৈধ হবে? তখন তিনি বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মক্কা্য়) উপনীত হয়ে বাইতুল্লাহর তাওয়াফ সাত চক্করে সমাধা করে মাকামে ইবরাহীমের পিছনে দু’ রাক‘আত সালাত আদায় করলেন, এরপরে সাত চক্করে সাফা ও মারওয়া সা‘য়ী করলেন। [এতটুকু বলে ইবনু ‘উমার (রাঃ) বলেন] ‘‘তোমাদের জন্য রাসূলুল্লাহর মধ্যে রয়েছে উত্তম আদর্শ’’- (আল-আহযাবঃ ২১)। (৩৯৫) (আধুনিক প্রকাশনীঃ ১৫৩৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1645</td></tr><tr><td>Arabic No</td><td>1645</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: நாங்கள் இப்னு உமர் (ரலி) அவர்களி டம், “ஒருவர் உம்ரா செய்வதற்காக இறையில்லம் கஅபாவைச் சுற்றி (தவாஃப்) வந்துவிட்டார்: ஸஃபா-மர்வாவுக்கிடையே ‘சயீ’ செய்யவில்லை. இந்நிலையில் அவர் தம் மனைவியுடன் தாம்பத்திய உறவு கொள்ளலாமா? (அதாவது இஹ்ராமிலி ருந்து விடுபடலாமா?)” எனக் கேட்டோம். அதற்கு “நபி (ஸல்) அவர்கள் (மக்காவுக்கு) வந்தபோது இறையில்லம் கஅபாவை ஏழு முறை சுற்றிவந்தார்கள்: பிறகு மகாமு இப்ராஹீமுக்குப் பின்னால் இரு ரக்அத்கள் தொழுதார்கள்: பிறகு ஸஃபா-மர்வாவுக்கிடையே ஏழு முறை சயீ செய்தார்கள்; அல்லாஹ்வின் தூதரிடம் உங்களுக்கு அழகிய முன்மாதிரி உள்ளது!’ என இப்னு உமர் (ரலி) அவர்கள் கூறினார்கள். இது பற்றி ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்களிடம் கேட்டோம். அதற்கு அவர்கள், “ஸஃபா-மர்வாவுக்கிடையே ‘சயீ’ செய்யாமல் மனைவியிடம் நெருங்கவே (தாம்பத்திய உறவு கொள்ளவே) கூடாது” என்றார்கள். அத்தியாயம் : 25
+அம்ர் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: நாங்கள் இப்னு உமர் (ரலி) அவர்களி டம், “ஒருவர் உம்ரா செய்வதற்காக இறையில்லம் கஅபாவைச் சுற்றி (தவாஃப்) வந்துவிட்டார்: ஸஃபா-மர்வாவுக்கிடையே ‘சயீ’ செய்யவில்லை. இந்நிலையில் அவர் தம் மனைவியுடன் தாம்பத்திய உறவு கொள்ளலாமா? (அதாவது இஹ்ராமிலி ருந்து விடுபடலாமா?)” எனக் கேட்டோம். அதற்கு “நபி (ஸல்) அவர்கள் (மக்காவுக்கு) வந்தபோது இறையில்லம் கஅபாவை ஏழு முறை சுற்றிவந்தார்கள்: பிறகு மகாமு இப்ராஹீமுக்குப் பின்னால் இரு ரக்அத்கள் தொழுதார்கள்: பிறகு ஸஃபா-மர்வாவுக்கிடையே ஏழு முறை சயீ செய்தார்கள்; அல்லாஹ்வின் தூதரிடம் உங்களுக்கு அழகிய முன்மாதிரி உள்ளது!’ என இப்னு உமர் (ரலி) அவர்கள் கூறினார்கள். இது பற்றி ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்களிடம் கேட்டோம். அதற்கு அவர்கள், “ஸஃபா-மர்வாவுக்கிடையே ‘சயீ’ செய்யாமல் மனைவியிடம் நெருங்கவே (தாம்பத்திய உறவு கொள்ளவே) கூடாது” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1645</td></tr><tr><td>Arabic No</td><td>1645</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr İbn Dînar şöyle demiştir: "İbn Ömer'e, umre niyeti ile Kabe'yi tavaf edip, Safa ile Merve arasında sa'y etmeyen kimsenin, hanımı ile cinsel ilişkide bulunabilmesi konusunu sorduk. Bize şöyle cevap verdi: "Nebi Sallallahu Aleyhi ve Sellem Mekke'ye geldi, Kabe'yi yedi kez tavaf etti, makam-ı İbrahim'de iki rekat namaz kıldı. Sonra Safa ile Merve arasında yedi kez sa'y etti. "Andolsun ki Resûlullah'ta sizin için güzel bir örnek vardır."[Ahzab 21]
+Amr İbn Dînar şöyle demiştir: "İbn Ömer'e, umre niyeti ile Kabe'yi tavaf edip, Safa ile Merve arasında sa'y etmeyen kimsenin, hanımı ile cinsel ilişkide bulunabilmesi konusunu sorduk. Bize şöyle cevap verdi: "Nebi Sallallahu Aleyhi ve Sellem Mekke'ye geldi, Kabe'yi yedi kez tavaf etti, makam-ı İbrahim'de iki rekat namaz kıldı. Sonra Safa ile Merve arasında yedi kez sa'y etti. "Andolsun ki Resûlullah'ta sizin için güzel bir örnek vardır."[Ahzab]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1645</td></tr><tr><td>Arabic No</td><td>1645</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

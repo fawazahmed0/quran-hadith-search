@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, যেসব বিষয়ে কেউ নিজেকে জড়িয়ে ফেলার পরে তার ধ্বংস থেকে নিজেকে রক্ষা করার উপায় থাকে না, সেগুলোর একটি হচ্ছে হালাল ছাড়া হারাম রক্ত প্রবাহিত করা (অর্থাৎ অন্যায় ভাবে কাউকে হত্যা করা)। [৬৮৬২] (আধুনিক প্রকাশনী- ৬৩৮৫, ইসলামিক ফাউন্ডেশন- ৬৩৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, যেসব বিষয়ে কেউ নিজেকে জড়িয়ে ফেলার পরে তার ধ্বংস থেকে নিজেকে রক্ষা করার উপায় থাকে না, সেগুলোর একটি হচ্ছে হালাল ছাড়া হারাম রক্ত প্রবাহিত করা (অর্থাৎ অন্যায় ভাবে কাউকে হত্যা করা)। [৬৮৬২] (আধুনিক প্রকাশনী- ৬৩৮৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6863</td></tr><tr><td>Arabic No</td><td>6863</td></tr><tr><td>Reference</td><td>Book 87 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ahmad bin Ya'qub] telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: புனிதமிக்கதாகக் கருதப்படும் (மனித) உயிரை (மார்க்க ரீதியான) அனுமதியின்றி கொலை செய்வதானது, விழுந்தால் வெளிவர முடியாத நாசப்படுகுழிகளில் ஒன்றாகும். இதை சயீத் பின் அம்ர் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 87
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: புனிதமிக்கதாகக் கருதப்படும் (மனித) உயிரை (மார்க்க ரீதியான) அனுமதியின்றி கொலை செய்வதானது, விழுந்தால் வெளிவர முடியாத நாசப்படுகுழிகளில் ஒன்றாகும். இதை சயீத் பின் அம்ர் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6863</td></tr><tr><td>Arabic No</td><td>6863</td></tr><tr><td>Reference</td><td>Book 87 Hadith 3</td></tr></tbody></table></div>
 

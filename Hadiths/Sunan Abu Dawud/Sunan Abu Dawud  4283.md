@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইব্‌ন আবূ শায়বা (রহঃ) .... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি আকাশের একটি দিনও অবশিষ্ট থাকে, তবুও মহান আল্লাহ্‌ আমার আহ্‌লে-বায়ত থেকে এমন এক ব্যক্তিকে সৃষ্টি করবেন, যিনি পৃথিবীকে ইনসাফ দ্বারা পূর্ণ করবেন, যেমন তা জুল্‌ম ও অত্যাচারে পরিপূর্ণ ছিল।
+। আলী (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি দুনিয়ার একদিনও অবশিষ্ট থাকে তবুও আল্লাহ আমার পরিজন থেকে অবশ্যই এক ব্যক্তিকে পাঠাবেন। তখনকার দুনিয়া যেরূপে অত্যাচারে ভরে যাবে, সে সেরূপেই তা ন্যায়-ইনসাফে ভরে দিবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4283</td></tr><tr><td>Arabic No</td><td>4283</td></tr><tr><td>Reference</td><td>Book 38 Hadith 5</td></tr></tbody></table></div>
 

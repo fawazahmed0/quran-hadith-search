@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যাকে কোন ইলম বা জ্ঞান সম্পর্কে জিজ্ঞাসা করা হয়, আর সে জানা সত্ত্বেও তা না বলে, কিয়ামতের দিন আল্লাহ্‌ তার মুখে আগুনের লাগাম পরিয়ে দেবেন।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি জানা ইলম সম্পর্কে জিজ্ঞাসিত হয়ে তা গোপন করলো, কিয়ামতের দিন মহান আল্লাহ তাকে আগুনের লাগাম পরিয়ে দিবেন।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3658</td></tr><tr><td>Arabic No</td><td>3658</td></tr><tr><td>Reference</td><td>Book 26 Hadith 18</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre(r.a)'den rivayet olunduğuna göre, Rasulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Bir kimse kendisinden sorulan bir meseleyi gizler de cevap vermezse, Allah, kıyamet gününde ona ateşten bir gem vurur." Diğer tahric: Tirmizî, ilim; İbn Mace, mukaddime; Ahmed b. Hanbel, II, 263, 305, 344, 353, 495
+Ebu Hureyre(r.a)'den rivayet olunduğuna göre, Rasulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Bir kimse kendisinden sorulan bir meseleyi gizler de cevap vermezse, Allah, kıyamet gününde ona ateşten bir gem vurur." Diğer tahric: Tirmizî, ilim; İbn Mace, mukaddime; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3658</td></tr><tr><td>Arabic No</td><td>3658</td></tr><tr><td>Reference</td><td>Book 26 Hadith 18</td></tr></tbody></table></div>
 

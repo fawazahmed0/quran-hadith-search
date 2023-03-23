@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন মিসকীন (রহঃ) ... আলকামা ইবন কায়স (রহঃ) থেকে বর্ণিত যে, ইবন মাসউদ (রাঃ) বলেন, যদি কেউ ইচ্ছা করে, আমি তার সাথে এ ব্যাপারে মুবাহালা করতে পারি যে, (وَأُولَاتُ الْأَحْمَالِ أَجَلُهُنَّ أَنْ يَضَعْنَ حَمْلَهُنَّ) অর্থঃ আর গর্ভবতী নারীদের ইদ্দতকাল সন্তান প্রসব পর্যন্ত- এ আয়াতটি যে স্ত্রীর স্বামী মারা গেছে তার ইদ্দত সম্পর্কে। এ আয়াতঃ তোমাদের মধ্যে যারা স্ত্রী রেখে মারা যায়, তাদের স্ত্রীগণ চারমাস দশদিন অপেক্ষায় থাকবে - এরপর নাযিল হয়। যে গৰ্ভবতী স্ত্রীর স্বামী মারা যায়, তার সন্তান ভূমিষ্ট হলে তার ইদ্দত শেষ হয়ে যাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3522</td></tr><tr><td>Arabic No</td><td>3522</td></tr><tr><td>Reference</td><td>Book 27 Hadith 134</td></tr></tbody></table></div>
 

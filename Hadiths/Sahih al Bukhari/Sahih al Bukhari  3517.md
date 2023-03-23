@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কিয়ামত সংঘটিত হবে না যে পর্যন্ত কাহ্তান গোত্র হতে এমন এক ব্যক্তির আগমন না হবে যে মানুষ জাতিকে তার লাঠির সাহায্যে পরিচালিত করবে। (৭১১৭, মুসলিম ৫২/১৮ হাঃ ২৯১০) (আধুনিক প্রকাশনীঃ ৩২৫৫, ইসলামিক ফাউন্ডেশনঃ ৩২৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কিয়ামত সংঘটিত হবে না যে পর্যন্ত কাহ্তান গোত্র হতে এমন এক ব্যক্তির আগমন না হবে যে মানুষ জাতিকে তার লাঠির সাহায্যে পরিচালিত করবে। (৭১১৭, মুসলিম ৫২/১৮ হাঃ ২৯১০) (আধুনিক প্রকাশনীঃ ৩২৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3517</td></tr><tr><td>Arabic No</td><td>3517</td></tr><tr><td>Reference</td><td>Book 61 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata telah bercerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: கஹ்த்தான் குலத்திலிருந்து ஒரு மனிதர் தோன்றி, தமது கைத்தடியால் மக்களை வழிநடத்தாத வரை யுக முடிவு நாள் வராது.32 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 61
+நபி (ஸல்) அவர்கள் கூறினார்கள்: கஹ்த்தான் குலத்திலிருந்து ஒரு மனிதர் தோன்றி, தமது கைத்தடியால் மக்களை வழிநடத்தாத வரை யுக முடிவு நாள் வராது.32 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3517</td></tr><tr><td>Arabic No</td><td>3517</td></tr><tr><td>Reference</td><td>Book 61 Hadith 27</td></tr></tbody></table></div>
 

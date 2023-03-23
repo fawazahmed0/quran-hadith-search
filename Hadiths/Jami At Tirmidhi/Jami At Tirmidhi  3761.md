@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৬১। আবূ হুরাইরা (রাযিঃ) হতে বর্ণিত আছে যে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল-আব্বাস হলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর চাচা। আর চাচা হল পিতৃ সমতুল্য। সহীহঃ সহীহাহ (৮০৬),সহীহ আবূ দাউদ (১৪৩৫), ইরওয়া (৩/৩৪৮-৩৫০)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব। এ হাদীস আমরা শুধু আবূয যিনাদের বর্ণনার পরিপ্রেক্ষিতে উপর্যুক্তভাবে অবগত হয়েছি।
+। আবূ হুরাইরা (রাযিঃ) হতে বর্ণিত আছে যে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল-আব্বাস হলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর চাচা। আর চাচা হল পিতৃ সমতুল্য। সহীহঃ সহীহাহ (৮০৬),সহীহ আবূ দাউদ (১৪৩৫), ইরওয়া (৩/৩৪৮-৩৫০)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব। এ হাদীস আমরা শুধু আবূয যিনাদের বর্ণনার পরিপ্রেক্ষিতে উপর্যুক্তভাবে অবগত হয়েছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3761</td></tr><tr><td>Arabic No</td><td>3761</td></tr><tr><td>Reference</td><td>Book 49 Hadith 160</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Ibrahim Ad Dauraqi] telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.)’in şöyle söylediği aktarılmıştır: Abbâs, Rasûlullah (s.a.v.)’in amcasıdır. Kişinin amcası babası yerindedir veya babasının bir eşidir. Diğer tahric: Müsned: Zekat; Ebû Dâvûd, Zekat Tirmizî: Bu hadis hasen sahih garibtir. Ebû’z Zinad’ın rivâyeti olarak bu şekliyle bilmekteyiz. BENZER HADİSLER: 3758 – 3760
+Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.)’in şöyle söylediği aktarılmıştır: Abbâs, Rasûlullah (s.a.v.)’in amcasıdır. Kişinin amcası babası yerindedir veya babasının bir eşidir. Diğer tahric: Müsned: Zekat; Ebû Dâvûd, Zekat Tirmizî: Bu hadis hasen sahih garibtir. Ebû’z Zinad’ın rivâyeti olarak bu şekliyle bilmekteyiz. BENZER HADİSLER: 3758 –
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3761</td></tr><tr><td>Arabic No</td><td>3761</td></tr><tr><td>Reference</td><td>Book 49 Hadith 160</td></tr></tbody></table></div>
 

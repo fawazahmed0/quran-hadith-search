@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পাঁচ উকিয়ার কম সম্পদের উপর যাকাত (ফারয) নেই এবং পাঁচটি উটের কমের উপর যাকাত নেই। পাঁচ ওয়াসাক [1] এর কম উৎপন্ন দ্রব্যের উপর যাকাত নেই। (১৪৪৭, ১৪৫৯, ১৪৮৪, মুসলিম ১২/১, হাঃ ৯৭৯, আহমাদ ১১২৫৩) (আধুনিক প্রকাশনীঃ ১৩১৪, ইসলামিক ফাউন্ডেশনঃ ১৩২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পাঁচ উকিয়ার কম সম্পদের উপর যাকাত (ফারয) নেই এবং পাঁচটি উটের কমের উপর যাকাত নেই। পাঁচ ওয়াসাক [1] এর কম উৎপন্ন দ্রব্যের উপর যাকাত নেই। (১৪৪৭, ১৪৫৯, ১৪৮৪, মুসলিম ১২/১, হাঃ ৯৭৯, আহমাদ ১১২৫৩) (আধুনিক প্রকাশনীঃ ১৩১৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1405</td></tr><tr><td>Arabic No</td><td>1405</td></tr><tr><td>Reference</td><td>Book 24 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Yazid] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) கூறினார்கள்: (வெள்ளியில்) ஐந்து ‘ஊக்கியா’வுக்குக் குறைந்ததில் ஸகாத் இல்லை. ஐந்து ஒட்டகங்களுக்குக் குறைவாக இருந்தால் அவற்றில் ஸகாத் இல்லை. ஐந்து ‘வஸ்க்’ குக் குறைவான (தானியத்)தில் ஸகாத் இல்லை.2 இதை அபூசயீத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 24
+அல்லாஹ்வின் தூதர் (ஸல்) கூறினார்கள்: (வெள்ளியில்) ஐந்து ‘ஊக்கியா’வுக்குக் குறைந்ததில் ஸகாத் இல்லை. ஐந்து ஒட்டகங்களுக்குக் குறைவாக இருந்தால் அவற்றில் ஸகாத் இல்லை. ஐந்து ‘வஸ்க்’ குக் குறைவான (தானியத்)தில் ஸகாத் இல்லை.2 இதை அபூசயீத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1405</td></tr><tr><td>Arabic No</td><td>1405</td></tr><tr><td>Reference</td><td>Book 24 Hadith 10</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ishaq bin Yazid] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Said'den rivayet edildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Beş ukıyyeden daha az (gümüş için) zekat gerekmez. En az üç yaşındaki beş deve'den daha azı için zekat gerekmez. Beş vesk (zirai) mahsül'den daha azı için zekat gerekmez. Tekrar: 1447, 1459, 1484
+Ebu Said'den rivayet edildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Beş ukıyyeden daha az (gümüş için) zekat gerekmez. En az üç yaşındaki beş deve'den daha azı için zekat gerekmez. Beş vesk (zirai) mahsül'den daha azı için zekat gerekmez. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1405</td></tr><tr><td>Arabic No</td><td>1405</td></tr><tr><td>Reference</td><td>Book 24 Hadith 10</td></tr></tbody></table></div>
 

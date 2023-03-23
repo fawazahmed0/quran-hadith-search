@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২০২০। ‘আবদুল্লাহ্ (রাঃ) থেকে বর্ণিত। তিনি বলেন, সহবাসমুক্ত পবিত্র অবস্থায় (তুহরে) তালাক প্রদান হচ্ছে যথার্থ নিয়মের (সুন্নাত) তালাক।
+। ‘আবদুল্লাহ্ (রাঃ) থেকে বর্ণিত। তিনি বলেন, সহবাসমুক্ত পবিত্র অবস্থায় (তুহরে) তালাক প্রদান হচ্ছে যথার্থ নিয়মের (সুন্নাত) তালাক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 10 Hadith 5</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আওযায়ী ... ‘আতা (রহ.) হতে বর্ণনা করেন, তিনি বলেন, আমি ইবায়দ ইবনু উমায়র লাইসী (রাঃ)-এর সঙ্গে ‘আয়িশাহ (রাঃ) এর সাথে সাক্ষাৎ করলাম। তারপর তাঁকে হিজরাত সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেন, এখন হিজরাতের কোন প্রয়োজন নেই। অতীতে মু’মিনদের কেউ তার দ্বীনের জন্য তার প্রতি ফিতনার ভয়ে আল্লাহ্ ও তাঁর রাসূলের দিকে হিজরাত করতেন আর আজ আল্লাহ্ ইসলামকে বিজয়ী করেছেন। এখন কোন মু’মিন তার রবের ইবাদত যেখানে ইচ্ছা করতে পারে। তবে এখন আছে জিহাদ ও নিয়্যাত। (৩০৮০) (আধুনিক প্রকাশনীঃ ৩৬১২/৩৬১৩, ইসলামিক ফাউন্ডেশনঃ ৩৬১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আওযায়ী ... ‘আতা (রহ.) হতে বর্ণনা করেন, তিনি বলেন, আমি ইবায়দ ইবনু উমায়র লাইসী (রাঃ)-এর সঙ্গে ‘আয়িশাহ (রাঃ) এর সাথে সাক্ষাৎ করলাম। তারপর তাঁকে হিজরাত সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেন, এখন হিজরাতের কোন প্রয়োজন নেই। অতীতে মু’মিনদের কেউ তার দ্বীনের জন্য তার প্রতি ফিতনার ভয়ে আল্লাহ্ ও তাঁর রাসূলের দিকে হিজরাত করতেন আর আজ আল্লাহ্ ইসলামকে বিজয়ী করেছেন। এখন কোন মু’মিন তার রবের ইবাদত যেখানে ইচ্ছা করতে পারে। তবে এখন আছে জিহাদ ও নিয়্যাত। (৩০৮০) (আধুনিক প্রকাশনীঃ ৩৬১২/৩৬১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 63 Hadith 125</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Ata bin Abi Rabah:'Ubaid bin 'Umar Al-Laithi and I visited Aisha and asked her about the Hijra (i.e. migration), and she said, "Today there is no (Hijrah) emigration. A believer used to run away with his religion to Allah and His Apostle lest he should be put to trial because of his religion. Today Allah has made Islam triumphant, and today a believer can worship his Lord wherever he likes. But the deeds that are still rewardable (in place of emigration) are Jihad and good intentions." (See Hadith No. 42 Vol. 4)
+Narrated 'Ata bin Abi Rabah:'Ubaid bin 'Umar Al-Laithi and I visited Aisha and asked her about the Hijra (i.e. migration), and she said, "Today there is no (Hijrah) emigration. A believer used to run away with his religion to Allah and His Apostle lest he should be put to trial because of his religion. Today Allah has made Islam triumphant, and today a believer can worship his Lord wherever he likes. But the deeds that are still rewardable (in place of emigration) are Jihad and good intentions." (See Hadith No. 42 Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 63 Hadith 125</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Berkata [Yahya bin Hamzah], dan telah menceritakan kepadaku [Al Auza'i] dari ['A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அதாஉ பின் அபீரபாஹ் (ரஹ்) அவர்கள் கூறியதாவது: நான் உபைத் பின் உமைர் அல்லைஸீ (ரஹ்) அவர்களுடன் ஆயிஷா (ரலி) அவர்களைச் சந்தித்தேன். (அப்போது ஆயிஷா (ரலி) அவர்கள் “ஸபீர்' எனும் மலைக்கருகில் தங்கியிருந்தார்கள்.)148 அவர்களிடம் ஹிஜ்ரத்தைப் பற்றிக் கேட்டோம். அதற்கு அவர்கள், “இன்று (மக்கா வெற்றி கொள்ளப்பட்டுவிட்ட பிறகு) ஹிஜ்ரத் கிடையாது. இறைநம்பிக்கை யாளர்கள் (தம் மார்க்கத்தைப் பின்பற்ற முடியாதவாறு) தாம் சோதிக்கப்பட்டு விடுவோமோ என்று அஞ்சி தமது மார்க்கத்துடன் அல்லாஹ்வையும் அவனுடைய தூதரையும் (திருப்தியுறச் செய்வதைக்) குறிக்கோளாகக் கொண்டு (தம் தாய் நாட்டைத் துறந்து ஒரு காலத்தில்) ஓடிவந்தார்கள். ஆனால், இன்றோ அல்லாஹ் இஸ்லாத்தை ஓங்கச் செய்துவிட்டான். இன்று இறைநம்பிக்கையாளர், தாம் விரும்பிய இடத்தில் தம் இறைவனை வழிபடலாம். ஆயினும் (“ஹிஜ்ரத்'தான் இனி இல்லையே தவிர) ஜிஹாத் (எனும் அறப்போர்) புரிவதும் (அதற்காகவும் பிற நற்செயல்களுக்காகவும்) நாட்டம் கொள்வதும் (இன்றும்) உண்டு” என்று பதிலளித்தார்கள்.149 அத்தியாயம் : 63
+அதாஉ பின் அபீரபாஹ் (ரஹ்) அவர்கள் கூறியதாவது: நான் உபைத் பின் உமைர் அல்லைஸீ (ரஹ்) அவர்களுடன் ஆயிஷா (ரலி) அவர்களைச் சந்தித்தேன். (அப்போது ஆயிஷா (ரலி) அவர்கள் “ஸபீர்' எனும் மலைக்கருகில் தங்கியிருந்தார்கள்.)148 அவர்களிடம் ஹிஜ்ரத்தைப் பற்றிக் கேட்டோம். அதற்கு அவர்கள், “இன்று (மக்கா வெற்றி கொள்ளப்பட்டுவிட்ட பிறகு) ஹிஜ்ரத் கிடையாது. இறைநம்பிக்கை யாளர்கள் (தம் மார்க்கத்தைப் பின்பற்ற முடியாதவாறு) தாம் சோதிக்கப்பட்டு விடுவோமோ என்று அஞ்சி தமது மார்க்கத்துடன் அல்லாஹ்வையும் அவனுடைய தூதரையும் (திருப்தியுறச் செய்வதைக்) குறிக்கோளாகக் கொண்டு (தம் தாய் நாட்டைத் துறந்து ஒரு காலத்தில்) ஓடிவந்தார்கள். ஆனால், இன்றோ அல்லாஹ் இஸ்லாத்தை ஓங்கச் செய்துவிட்டான். இன்று இறைநம்பிக்கையாளர், தாம் விரும்பிய இடத்தில் தம் இறைவனை வழிபடலாம். ஆயினும் (“ஹிஜ்ரத்'தான் இனி இல்லையே தவிர) ஜிஹாத் (எனும் அறப்போர்) புரிவதும் (அதற்காகவும் பிற நற்செயல்களுக்காகவும்) நாட்டம் கொள்வதும் (இன்றும்) உண்டு” என்று பதிலளித்தார்கள்.149 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 63 Hadith 125</td></tr></tbody></table></div>
 

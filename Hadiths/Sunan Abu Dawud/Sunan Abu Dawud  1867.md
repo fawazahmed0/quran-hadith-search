@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন আবূ শায়বা (রহঃ) ..... ইবন উমার (রাঃ) হতে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদীনা হতে (মক্কার উদ্দেশ্যে) রওনাকালে যুল-হুলায়ফার নিকট যে বৃক্ষ আছে সেখান দিয়ে আসতেন এবং ফেরার পথে মু‘আররাসের রাস্তায় (যেখানে যুল-হুলায়ফার মসজিদ অবস্থিত) প্রবেশ করতেন।
+। ইবনু্ ‘উমার (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল-হুলাইফার বৃক্ষের পথ দিয়ে মক্কা থেকে বের হতেন এবং যুল-হুলাইফার মু‘আররাসের (মসজিদের) পথে প্রবেশ করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1867</td></tr><tr><td>Arabic No</td><td>1867</td></tr><tr><td>Reference</td><td>Book 11 Hadith 147</td></tr></tbody></table></div>
 

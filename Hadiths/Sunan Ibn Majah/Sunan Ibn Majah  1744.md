@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/১৭৪৪। মুহাম্মাদ ইবনু ইবরাহীম (রহ.) থেকে বর্ণিত। উসামাহ ইবনু যায়দ (রাঃ) হারাম মাসসমূহে রোযা রাখতেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেন, তুমি শাওয়াল মাসে রোযা রাখো। অতঃপর তিনি হারাম মাসসমূহের রোযা রাখা ছেড়ে দেন এবং আমরণ শাওয়াল মাসে রোযা রাখেন।
+। মুহাম্মাদ ইবনু ইবরাহীম (রহ.) থেকে বর্ণিত। উসামাহ ইবনু যায়দ (রাঃ) হারাম মাসসমূহে রোযা রাখতেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেন, তুমি শাওয়াল মাসে রোযা রাখো। অতঃপর তিনি হারাম মাসসমূহের রোযা রাখা ছেড়ে দেন এবং আমরণ শাওয়াল মাসে রোযা রাখেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1744</td></tr><tr><td>Arabic No</td><td>1744</td></tr><tr><td>Reference</td><td>Book 7 Hadith 107</td></tr></tbody></table></div>
 

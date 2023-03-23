@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন মুহাম্মদ ..... আল্-ইরবায ইবন সারিয়া (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে রামাযানের মাসে সাহরীর সময় আহবান করেন, এবং বলেন, কল্যাণময় সকালের খাবারের দিকে (সাহরীর দিকে) সত্তর আগমন করো।
+। আল-‘ইরবাদ ইবনু সারিয়াহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে রমাযানের সাহারীর সময় ডাকলেন এবং বললেনঃ বরকতময় সকালের খাবারের দিকে এসো![1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2344</td></tr><tr><td>Arabic No</td><td>2344</td></tr><tr><td>Reference</td><td>Book 14 Hadith 32</td></tr></tbody></table></div>
 

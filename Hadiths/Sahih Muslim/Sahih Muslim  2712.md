@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৬০২, আন্তর্জাতিক নাম্বারঃ ১১৫৩ ২৬০২-(.../...) কুতায়বাহ ইবনু সাঈদ (রহঃ) ..... সুহায়ল (রহঃ) থেকে এ সূত্রেও উপরের হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৫৭৯, ইসলামীক সেন্টার ২৫৭৮)
+কুতায়বাহ ইবনু সাঈদ (রহঃ) ..... সুহায়ল (রহঃ) থেকে এ সূত্রেও উপরের হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৫৭৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2712</td></tr><tr><td>Arabic No</td><td>1153.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 218</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... উসামা ইবন আখদারী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একবার একটি প্রতিনিধি দল রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে আসে, যার মধ্যে এক ব্যক্তির নাম ছিল, আসরাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমার নাম কি? সে ব্যক্তি বলেঃ আমার নাম হলো আসরাম। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ বরং তুমি হলে, যার'আ।
+। উসামাহ ইবনু আখদারী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আগত প্রতিনিধি দলের সঙ্গে এক লোকের নাম ছিলো আসরাম (কর্কশ)। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রশ্ন করলেন, তোমার নাম কি? তিনি বলরেন, আমি আসরাম। তিনি বললেনঃ না, এ নাম ঠিক নয়, বরং তুমি যুর‘আহ (শস্যদানা)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4954</td></tr><tr><td>Arabic No</td><td>4954</td></tr><tr><td>Reference</td><td>Book 43 Hadith 182</td></tr></tbody></table></div>
 

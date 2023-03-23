@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মিসকীন (রহঃ) .... সুফিয়ান (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ যে ব্যক্তি এরূপ মনে করবে যে, আলী (রাঃ) আবূ বকর ও উমার (রাঃ) অপেক্ষা খিলাফতের জন্য অধিক উপযুক্ত ছিলেন; তবে সে ব্যক্তি আবূ বকর (রাঃ), উমার (রাঃ) এবং সমস্ত আনসার ও মুহাজিরদের ক্রটি চিহ্নিত করবে। (কেননা আবূ বকর (রাঃ) মুহাজির ও আনসারদের সর্ব সম্মতিক্রমে খলীফা নির্বাচিত হয়েছিলেন)। তিনি আরো বলেনঃ যার এরূপ ধারণা পোষণ করবে, তাদের আমল (আল্লাহর নিকট পৌছাবে) যাবে বলে আমার মনে হয় না।
+। সুফিয়ান সাওরী (রহঃ) বলেন, যে ব্যক্তি ধারণা করে যে, আলী (রাঃ) তাদের দু’ জনের তুলনায় খিলাফাতের অধিক হকদার ছিলেন, সে আবূ বাকর (রাঃ), উমার (রাঃ), মুহাজিরগণ ও আনসারগণের ভুল নির্দেশ করলো। আর যে ব্যক্তি এরূপ মত পোষণ করে, তার কোনো আমল আকাশে উঠবে বলে আমি মনে করি না।[1] সনদ সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4630</td></tr><tr><td>Arabic No</td><td>4630</td></tr><tr><td>Reference</td><td>Book 42 Hadith 35</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, কেউ যদি রাতে সূরাহ বাকারার শেষ দু’টি আয়াত পাঠ করে, সেটাই তার জন্য যথেষ্ট। [৪০০৮] (আধুনিক প্রকাশনীঃ ৪৬৩৭, ইসলামিক ফাউন্ডেশনঃ ৪৬৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, কেউ যদি রাতে সূরাহ বাকারার শেষ দু’টি আয়াত পাঠ করে, সেটাই তার জন্য যথেষ্ট। [৪০০৮] (আধুনিক প্রকাশনীঃ ৪৬৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5009</td></tr><tr><td>Arabic No</td><td>5009</td></tr><tr><td>Reference</td><td>Book 66 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Mas'ud: The Prophet (ﷺ) said, "If somebody recited the last two V
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: யார் ‘அல்பகரா’ எனும் (2ஆவது) அத்தியாயத்தின் இறுதி இரு வசனங்களை (285, 286) இரவில் ஓதுகிறாரோ அவருக்கு அந்த இரண்டுமே போதும்!34 இதை அபூமஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 66
+நபி (ஸல்) அவர்கள் கூறினார்கள்: யார் ‘அல்பகரா’ எனும் (2ஆவது) அத்தியாயத்தின் இறுதி இரு வசனங்களை (285, 286) இரவில் ஓதுகிறாரோ அவருக்கு அந்த இரண்டுமே போதும்!34 இதை அபூமஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5009</td></tr><tr><td>Arabic No</td><td>5009</td></tr><tr><td>Reference</td><td>Book 66 Hadith 31</td></tr></tbody></table></div>
 

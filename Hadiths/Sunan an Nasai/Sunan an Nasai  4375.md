@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হারূন ইবন আবদুল্লাহ (রহঃ) ... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে পশুর কানের একদিক কাটা বা কানের গোড়ার দিক থেকে কাটা অথবা যার কান ফাটা বা যার কানে ছিদ্র আছে কিংবা যে পশু কানা, তা দ্বারা কুরবানী করা যাবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 43 Hadith 15</td></tr></tbody></table></div>
 

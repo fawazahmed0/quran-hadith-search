@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৪৭১, আন্তর্জাতিক নাম্বারঃ ২৫৭৯ ৬৪৭১-(৫৭/২৫৭৯) মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, অবশ্যই যুলম কিয়ামত দিবসে ঘোরতর অন্ধকারে পরিণত হবে। (ইসলামিক ফাউন্ডেশন ৬৩৪১, ইসলামিক সেন্টার ৬৩৯১)
+মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, অবশ্যই যুলম কিয়ামত দিবসে ঘোরতর অন্ধকারে পরিণত হবে। (ইসলামিক ফাউন্ডেশন ৬৩৪১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6577</td></tr><tr><td>Arabic No</td><td>2579</td></tr><tr><td>Reference</td><td>Book 45 Hadith 75</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அநீதி, மறுமை நாளில் பல இருள்களாகக் காட்சி தரும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 45
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அநீதி, மறுமை நாளில் பல இருள்களாகக் காட்சி தரும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6577</td></tr><tr><td>Arabic No</td><td>2579</td></tr><tr><td>Reference</td><td>Book 45 Hadith 75</td></tr></tbody></table></div>
 

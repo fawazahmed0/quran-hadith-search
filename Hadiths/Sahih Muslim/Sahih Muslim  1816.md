@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৭০১, আন্তর্জাতিক নাম্বারঃ ৭৭৩ ১৭০১-(.../...) ইসমাঈল ইবনু খলীল ও সুওয়াইদ ইবনু সাঈদ (রহঃ) ... আ'মাশ (রহঃ) থেকে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৬৮৬, ইসলামীক সেন্টার ১৬৯৩)
+ইসমাঈল ইবনু খলীল ও সুওয়াইদ ইবনু সাঈদ (রহঃ) ... আ'মাশ (রহঃ) থেকে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৬৮৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1816</td></tr><tr><td>Arabic No</td><td>773.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 244</td></tr></tbody></table></div>
 

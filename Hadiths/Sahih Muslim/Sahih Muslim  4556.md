@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪৪৮, আন্তর্জাতিক নাম্বারঃ ১৭৪৮ ৪৪৪৮-(৩৩/১৭৪৮) কুতাইবাহ্ ইবনু সাঈদ (রহঃ) ..... মুসআব ইবনু সা'দ (রহঃ) তার পিতা থেকে বর্ণনা করেন যে, আমার পিতা যুদ্ধলব্ধ সম্পদের এক পঞ্চমাংশ হতে কিছু বস্তু নিয়ে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এসে বলেন, এটি আমাকে উপটৌকন প্রদান করুন। তিনি অস্বীকার করেন। তখন আল্লাহ তা'আলা এ আয়াত নাযিল করেনঃ "তারা আপনার কাছে যুদ্ধলব্ধ দ্রব্য সম্ভার সম্বন্ধে জিজ্ঞেস করে, আপনি বলে দিন, যুদ্ধলব্ধ দ্রব্য সম্ভার আল্লাহ ও রসূলের" আয়াতটি শেষ পর্যন্ত নাযিল হলো। (ইসলামিক ফাউন্ডেশন ৪৪০৬, ইসলামিক সেন্টার ৪৪০৬)
+কুতাইবাহ্ ইবনু সাঈদ (রহঃ) ..... মুসআব ইবনু সা'দ (রহঃ) তার পিতা থেকে বর্ণনা করেন যে, আমার পিতা যুদ্ধলব্ধ সম্পদের এক পঞ্চমাংশ হতে কিছু বস্তু নিয়ে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এসে বলেন, এটি আমাকে উপটৌকন প্রদান করুন। তিনি অস্বীকার করেন। তখন আল্লাহ তা'আলা এ আয়াত নাযিল করেনঃ "তারা আপনার কাছে যুদ্ধলব্ধ দ্রব্য সম্ভার সম্বন্ধে জিজ্ঞেস করে, আপনি বলে দিন, যুদ্ধলব্ধ দ্রব্য সম্ভার আল্লাহ ও রসূলের" আয়াতটি শেষ পর্যন্ত নাযিল হলো। (ইসলামিক ফাউন্ডেশন ৪৪০৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>1748.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 37</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-A hadith has been narrated by Mus'ab b. Sa'd who heard it from his father as saying:My father took a sword from Khums and brought it to the Prophet (ﷺ) and said: Grant it to me. He refused. At this Allah revealed (the Qur'anic verse):" They ask thee concerning the spoils of war. Say: The spoils of war are for Allah and the Apostle" (viii. 1)
+A hadith has been narrated by Mus'ab b. Sa'd who heard it from his father as saying:My father took a sword from Khums and brought it to the Prophet (ﷺ) and said: Grant it to me. He refused. At this Allah revealed (the Qur'anic verse):" They ask thee concerning the spoils of war. Say: The spoils of war are for Allah and the Apostle" (viii)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>1748.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 37</td></tr></tbody></table></div>
 
@@ -56,7 +56,7 @@ A hadith has been narrated by Mus'ab b. Sa'd who heard it from his father as say
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Simak] dari [Mush'ab bin Sa'd] dari [ayahnya] dia berkata, "Ayahku, Sa'd, pernah mengambil pedang dari seperlima bagian ghanimah, lalu dia membawanya ke hadapan Nabi shallallahu 'alaihi wasallam. Ayahku berkata, "Berikanlah pedang ini kepadaku." Namun Rasulullah enggan, maka Allah Azza Wa Jalla menurunkan ayat: "Mereka menanyakan kepadamu tentang (pembagian) harta rampasan perang. Katakanlah, 'Harta rampasan perang kepunyaan Allah dan Rasul) ' (Qs. Al Anfaal: 1)
+Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Simak] dari [Mush'ab bin Sa'd] dari [ayahnya] dia berkata, "Ayahku, Sa'd, pernah mengambil pedang dari seperlima bagian ghanimah, lalu dia membawanya ke hadapan Nabi shallallahu 'alaihi wasallam. Ayahku berkata, "Berikanlah pedang ini kepadaku." Namun Rasulullah enggan, maka Allah Azza Wa Jalla menurunkan ayat: "Mereka menanyakan kepadamu tentang (pembagian) harta rampasan perang. Katakanlah, 'Harta rampasan perang kepunyaan Allah dan Rasul) ' (Qs. Al Anfaal:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>1748.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 37</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஸ்அப் பின் சஅத் (ரஹ்) அவர்கள் கூறியதாவது: என் தந்தை (சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள்), "குமுஸ்" (ஐந்திலொரு பங்கு) நிதியிலிருந்து ஒரு வாளை எடுத்துக் கொண்டு நபி (ஸல்) அவர்களிடம் சென்று, "இதை எனக்கு அன்பளிப்பாகத் தாருங்கள்" என்று கேட்டார்கள். அப்போதுதான் வல்லமையும் மாண்பும்மிக்க அல்லாஹ், "(நபியே!) போர்க்களத்தில் எதிரிகளிடமிருந்து கைப்பற்றப்படும் செல்வங்கள் குறித்து அவர்கள் உம்மிடம் வினவுகின்றனர். அந்தச் செல்வங்கள் (பற்றி முடிவு செய்யும் அதிகாரம்) அல்லாஹ்வுக்கும் இத் தூதருக்கும் உரியது" என்று கூறுவீராக!" (8:1) எனும் வசனத்தை அருளினான். அத்தியாயம் : 32
+முஸ்அப் பின் சஅத் (ரஹ்) அவர்கள் கூறியதாவது: என் தந்தை (சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள்), "குமுஸ்" (ஐந்திலொரு பங்கு) நிதியிலிருந்து ஒரு வாளை எடுத்துக் கொண்டு நபி (ஸல்) அவர்களிடம் சென்று, "இதை எனக்கு அன்பளிப்பாகத் தாருங்கள்" என்று கேட்டார்கள். அப்போதுதான் வல்லமையும் மாண்பும்மிக்க அல்லாஹ், "(நபியே!) போர்க்களத்தில் எதிரிகளிடமிருந்து கைப்பற்றப்படும் செல்வங்கள் குறித்து அவர்கள் உம்மிடம் வினவுகின்றனர். அந்தச் செல்வங்கள் (பற்றி முடிவு செய்யும் அதிகாரம்) அல்லாஹ்வுக்கும் இத் தூதருக்கும் உரியது" என்று கூறுவீராக!" (8:1) எனும் வசனத்தை அருளினான். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>1748.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 37</td></tr></tbody></table></div>
 

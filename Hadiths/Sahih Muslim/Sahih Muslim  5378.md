@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫২৭৩, আন্তর্জাতিক নাম্বারঃ ২০৬২ ৫২৭৩-(.../...) কুতাইবাহ্ (রহঃ) ..... আবূ হুরাইরাহ্ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে তাদের সবার হাদীসের হুবহু বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৫২০৫, ইসলামিক সেন্টার ৫২১৭)
+কুতাইবাহ্ (রহঃ) ..... আবূ হুরাইরাহ্ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে তাদের সবার হাদীসের হুবহু বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৫২০৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5378</td></tr><tr><td>Arabic No</td><td>2062.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 252</td></tr></tbody></table></div>
 

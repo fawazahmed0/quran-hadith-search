@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬৭১, আন্তর্জাতিক নাম্বারঃ ১৮৪৪ ৪৬৭১-(…/…) আবূ বকর ইবনু আবূ শাইবাহ, ইবনু নুমায়র, আবূ সাঈদ আশাজ্জ ও আবূ কুরায়ব (রহঃ) ...... আ'মাশ (রহঃ) হতে উক্ত সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬২৫, ইসলামিক সেন্টার ৪৬২৬)
+(…/…) আবূ বকর ইবনু আবূ শাইবাহ, ইবনু নুমায়র, আবূ সাঈদ আশাজ্জ ও আবূ কুরায়ব (রহঃ) ...... আ'মাশ (রহঃ) হতে উক্ত সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬২৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4777</td></tr><tr><td>Arabic No</td><td>1844.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 75</td></tr></tbody></table></div>
 

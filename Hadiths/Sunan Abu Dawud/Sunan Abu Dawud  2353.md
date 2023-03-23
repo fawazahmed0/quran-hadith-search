@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ওয়াহব ইবন বাকিয়্যা ..... আবূ হুরায়রা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন। তিনি বলেছেনঃ দীন ততদিন বিজয়ী থাকবে, যতদিন লোকেরা জলদি ইফতার করবে। কেননা, ইয়াহুদী ও নাসারারা ইফতার অধিক বিলম্বে করে।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ দীন বিজয়ী থাকবে যতদিন লোকেরা অবিলম্বে ইফতার করবে। কেননা ইয়াহূদী ও খৃস্টানরা বিলম্বে ইফতার করে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2353</td></tr><tr><td>Arabic No</td><td>2353</td></tr><tr><td>Reference</td><td>Book 14 Hadith 41</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪২৩৭, আন্তর্জাতিক নাম্বারঃ ১৬৬৯ ৪২৩৭-(.../...) 'আমর আন নাকিদ ও মুহাম্মাদ ইবনু মুসান্না (রহঃ) ..... সাহল ইবনু আবূ হাসমাহ্ (রাযিঃ) থেকে তাদের অনুরূপ হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪১৯৮, ইসলামিক সেন্টার ৪১৯৮)
+আমর আন নাকিদ ও মুহাম্মাদ ইবনু মুসান্না (রহঃ) ..... সাহল ইবনু আবূ হাসমাহ্ (রাযিঃ) থেকে তাদের অনুরূপ হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪১৯৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4345</td></tr><tr><td>Arabic No</td><td>1669.04</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
 

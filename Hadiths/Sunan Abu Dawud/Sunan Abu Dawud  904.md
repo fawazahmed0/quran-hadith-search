@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুর রহমান ইবনে মুহাম্মাদ (রহঃ) ..... মুতাররিফ (রহঃ) থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, একদা আমি রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এমতাবস্থায় নামায আদায় করতে দেখি যে, তাঁর বক্ষ মোবারক হতে ক্রন্দন ধ্বনি শ্রুত হচ্ছিল। (নাসাঈ, তিরমিযী)।
+। মুত্বাররিফ (রহঃ) হতে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি দেখেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করছিলেন এবং এ সময় তাঁর বুক থেকে যাঁতা পেষার আওয়াজের ন্যায় কান্নার আওয়াজ হচ্ছিল।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>904</td></tr><tr><td>Arabic No</td><td>904</td></tr><tr><td>Reference</td><td>Book 2 Hadith 514</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdurrahman bin Muhammad bin Salam] telah mencer
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Mutarrıf'ın babası (Abdullah b. Şıhhîr)dan demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem)'i ağlamaktan dolayı göğsünde değirmen sesi gibi bîr sesle namaz kılarken gördüm. Diğer tahric: Buharî, bed'ul-halk; Nesaî, sehv; Ahmed b. Hanbel, IV, 25, 26
+Mutarrıf'ın babası (Abdullah b. Şıhhîr)dan demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem)'i ağlamaktan dolayı göğsünde değirmen sesi gibi bîr sesle namaz kılarken gördüm. Diğer tahric: Buharî, bed'ul-halk; Nesaî, sehv; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>904</td></tr><tr><td>Arabic No</td><td>904</td></tr><tr><td>Reference</td><td>Book 2 Hadith 514</td></tr></tbody></table></div>
 

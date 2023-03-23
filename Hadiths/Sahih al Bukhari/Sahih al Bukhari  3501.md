@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, এ বিষয় (খিলাফত ও শাসন ক্ষমতা) সর্বদাই কুরাইশদের হাতে থাকবে, যতদিন তাদের দু’জন লোকও বেঁচে থাকবে। (৭১৪০, মুসলিম ৩৩/১ হাঃ ১৮২০, আহমাদ ২০৯৭৬) (আধুনিক প্রকাশনীঃ ৩২৪০, ইসলামিক ফাউন্ডেশনঃ ৩২৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, এ বিষয় (খিলাফত ও শাসন ক্ষমতা) সর্বদাই কুরাইশদের হাতে থাকবে, যতদিন তাদের দু’জন লোকও বেঁচে থাকবে। (৭১৪০, মুসলিম ৩৩/১ হাঃ ১৮২০, আহমাদ ২০৯৭৬) (আধুনিক প্রকাশনীঃ ৩২৪০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3501</td></tr><tr><td>Arabic No</td><td>3501</td></tr><tr><td>Reference</td><td>Book 61 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami ['Ashim b
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இந்த ஆட்சியதிகாரம் குறைஷியரிடம் தான் இருக்கும்; அவர்களில் இருவர் எஞ்சியிருக்கும்வரை. இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 61
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இந்த ஆட்சியதிகாரம் குறைஷியரிடம் தான் இருக்கும்; அவர்களில் இருவர் எஞ்சியிருக்கும்வரை. இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3501</td></tr><tr><td>Arabic No</td><td>3501</td></tr><tr><td>Reference</td><td>Book 61 Hadith 11</td></tr></tbody></table></div>
 

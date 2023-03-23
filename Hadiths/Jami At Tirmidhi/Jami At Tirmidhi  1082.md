@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০৮২। সামুরা (রাঃ) হতে বর্ণিত আছে, (বিয়ে না করে) চিরকুমার থাকতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বারণ করেছেন। যাইদ ইবনু আখযাম (রাহঃ)-এর বর্ণিত হাদীসে আরো আছেঃ এ আয়াতটি কাতাদাহ (রাহঃ) পাঠ করেনঃ “আমরা আরো অনেক রাসূলকেই তোমার পূর্বে প্রেরণ করেছি এবং তাদেরকে স্ত্রী ও সন্তান দিয়েছি” -(সূরাঃ রা'দঃ ৩৮) — সহীহ, পূর্বের হাদীসের সহায়তায়
+। সামুরা (রাঃ) হতে বর্ণিত আছে, (বিয়ে না করে) চিরকুমার থাকতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বারণ করেছেন। যাইদ ইবনু আখযাম (রাহঃ)-এর বর্ণিত হাদীসে আরো আছেঃ এ আয়াতটি কাতাদাহ (রাহঃ) পাঠ করেনঃ “আমরা আরো অনেক রাসূলকেই তোমার পূর্বে প্রেরণ করেছি এবং তাদেরকে স্ত্রী ও সন্তান দিয়েছি” -(সূরাঃ রা'দঃ ৩৮) — সহীহ, পূর্বের হাদীসের সহায়তায়
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1082</td></tr><tr><td>Arabic No</td><td>1082</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
 

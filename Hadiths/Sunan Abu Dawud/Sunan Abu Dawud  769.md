@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-কানবী ..... মালেক থেকে বর্ণিত। তিনি বলেন, ফরয অথবা নফল নামাযের প্রথমে মাঝে বা শেষে যে কোন সময়ে দু’আ পাঠ করা যায়।
+। মালিক (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ফরয ও নফল যে কোন সালাতেই সালাতের প্রথমে, মাঝে বা শেষ দিকের যে কোন সময়ে দু‘আ পড়া যায়।[1] সহীহ মাক্বতূ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 2 Hadith 379</td></tr></tbody></table></div>
 

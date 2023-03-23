@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭০৭। ইবনু উমর (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জীবদ্দশাতেই আমরা আবূ বাকর, উমার ও উসমান (রাযিঃ)-কে গণ্যমান্য লোক বলতাম। সহীহঃ মিশকাত (৬০৮৫), বুখারী (৩৬৯৮)। আবূ ঈসা বলেন, উপর্যুক্ত সনদে এ হাদীসটি হাসান সহীহ গারীব। এ হাদীস উবাইদুল্লাহ ইবনু উমারের বর্ণনার পরিপ্রেক্ষিতে গারীব গণ্য হয়েছে। উক্ত হাদীস ইবনু উমর (রাযিঃ) হতে অন্যসূত্রেও বর্ণিত আছে।
+। ইবনু উমর (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জীবদ্দশাতেই আমরা আবূ বাকর, উমার ও উসমান (রাযিঃ)-কে গণ্যমান্য লোক বলতাম। সহীহঃ মিশকাত (৬০৭৬), বুখারী (৩৬৯৭)। আবূ ঈসা বলেন, উপর্যুক্ত সনদে এ হাদীসটি হাসান সহীহ গারীব। এ হাদীস উবাইদুল্লাহ ইবনু উমারের বর্ণনার পরিপ্রেক্ষিতে গারীব গণ্য হয়েছে। উক্ত হাদীস ইবনু উমর (রাযিঃ) হতে অন্যসূত্রেও বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3707</td></tr><tr><td>Arabic No</td><td>3707</td></tr><tr><td>Reference</td><td>Book 49 Hadith 103</td></tr></tbody></table></div>
 

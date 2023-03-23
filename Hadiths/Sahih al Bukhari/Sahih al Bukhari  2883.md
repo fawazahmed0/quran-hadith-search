@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রুবাইয়ি‘ বিনতু মু‘আব্বিয (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আমরা নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর সঙ্গে যুদ্ধে শরীক হয়ে লোকেদের পানি পান করাতাম ও তাদের পরিচর্যা করতাম এবং আহত ও নিহত লোকদের মদিনা্য় ফেরত পাঠাতাম।’ (২৮৮২) (আধুনিক প্রকাশনীঃ ২৬৭১, ইসলামিক ফাউন্ডেশনঃ ২৬২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+রুবাইয়ি‘ বিনতু মু‘আব্বিয (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আমরা নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর সঙ্গে যুদ্ধে শরীক হয়ে লোকেদের পানি পান করাতাম ও তাদের পরিচর্যা করতাম এবং আহত ও নিহত লোকদের মদিনা্য় ফেরত পাঠাতাম।’ (২৮৮২) (আধুনিক প্রকাশনীঃ ২৬৭১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2883</td></tr><tr><td>Arabic No</td><td>2883</td></tr><tr><td>Reference</td><td>Book 56 Hadith 98</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Bisyir bin A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ருபய்யிஉ பின்த் முஅவ்வித் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் அறப்போரில் கலந்துகொள்வோம்; அப்போது (போரில் காயமுற்ற) மக்களுக்கு நீர்புகட்டுவோம்; அவர்களுக்குப் பணிவிடைகள் செய்வோம்; கொல்லப்பட்டவர்களையும் காயமுற்றவர்களையும் மதீனாவுக்குத் திரும்பக் கொண்டுவருவோம். அத்தியாயம் : 56
+ருபய்யிஉ பின்த் முஅவ்வித் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் அறப்போரில் கலந்துகொள்வோம்; அப்போது (போரில் காயமுற்ற) மக்களுக்கு நீர்புகட்டுவோம்; அவர்களுக்குப் பணிவிடைகள் செய்வோம்; கொல்லப்பட்டவர்களையும் காயமுற்றவர்களையும் மதீனாவுக்குத் திரும்பக் கொண்டுவருவோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2883</td></tr><tr><td>Arabic No</td><td>2883</td></tr><tr><td>Reference</td><td>Book 56 Hadith 98</td></tr></tbody></table></div>
 

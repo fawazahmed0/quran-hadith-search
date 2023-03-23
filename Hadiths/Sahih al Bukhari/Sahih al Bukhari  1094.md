@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সওয়ার অবস্থায় কিবলাহ ছাড়া অন্য দিকে মুখ করে নফল সালাত আদায় করেছেন। (৪০০) (আধুনিক প্রকাশনীঃ ১০২৭, ইসলামিক ফাউন্ডেশনঃ ১০৩২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সওয়ার অবস্থায় কিবলাহ ছাড়া অন্য দিকে মুখ করে নফল সালাত আদায় করেছেন। (৪০০) (আধুনিক প্রকাশনীঃ ১০২৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1094</td></tr><tr><td>Arabic No</td><td>1094</td></tr><tr><td>Reference</td><td>Book 18 Hadith 14</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வாகனத்தில் செல்லும்போது, ‘கிப்லா’ அல்லாத திசை நோக்கி கூடுதலான தொழுகைகளைத் தொழுதிருக்கிறார்கள். அத்தியாயம் : 18
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வாகனத்தில் செல்லும்போது, ‘கிப்லா’ அல்லாத திசை நோக்கி கூடுதலான தொழுகைகளைத் தொழுதிருக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1094</td></tr><tr><td>Arabic No</td><td>1094</td></tr><tr><td>Reference</td><td>Book 18 Hadith 14</td></tr></tbody></table></div>
 

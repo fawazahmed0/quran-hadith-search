@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন আহমদ .... ই’য়ালা (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণনা করেছেন। ইমাম আবূ দাউদ (রহঃ) বলেনঃ প্রথম হাদীছটিই স্বয়ং সম্পূর্ণ।
+। সাফওয়ান ইবনু ইয়া‘লা (রহঃ) তাঁর পিতার সূত্রে এ হাদীস নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, প্রথম বর্ণনাটি পূর্ণাঙ্গ।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4013</td></tr><tr><td>Arabic No</td><td>4013</td></tr><tr><td>Reference</td><td>Book 33 Hadith 5</td></tr></tbody></table></div>
 

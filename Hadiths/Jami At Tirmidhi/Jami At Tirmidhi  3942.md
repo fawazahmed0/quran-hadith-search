@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৯৪২। জাবির (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, লোকেরা বলল, হে আল্লাহর রাসূল! সাকীফ সম্প্রদায়ের তীরগুলো আমাদেরকে ছিন্নভিন্ন করেছে। সুতরাং আপনি তাদের বদদু'আ করুন! তিনি বললেনঃ হে আল্লাহ! সাকীফ সম্প্রদায়কে হিদায়াত দান করুন। যঈফ, মিশকাত (৫৯৯৫) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ গারীব।
+। জাবির (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, লোকেরা বলল, হে আল্লাহর রাসূল! সাকীফ সম্প্রদায়ের তীরগুলো আমাদেরকে ছিন্নভিন্ন করেছে। সুতরাং আপনি তাদের বদদু'আ করুন! তিনি বললেনঃ হে আল্লাহ! সাকীফ সম্প্রদায়কে হিদায়াত দান করুন। যঈফ, মিশকাত (৫৯৮৬) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3942</td></tr><tr><td>Arabic No</td><td>3942</td></tr><tr><td>Reference</td><td>Book 49 Hadith 342</td></tr></tbody></table></div>
 

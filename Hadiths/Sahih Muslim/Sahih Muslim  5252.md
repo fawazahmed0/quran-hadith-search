@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫১৪৭, আন্তর্জাতিক নাম্বারঃ ২০১২ ৫১৪৭-(…/...) আহমাদ ইবনু উসমান নাওফালী (রহঃ) ...... ইবনু জুরায়জ (রহঃ) আতা ও আমর ইবনু দীনার (রহঃ) হতে রাওহ্ (রহঃ) এর সানাদের হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫০৮২, ইসলামিক সেন্টার ৫০৯২)
+(…/...) আহমাদ ইবনু উসমান নাওফালী (রহঃ) ...... ইবনু জুরায়জ (রহঃ) আতা ও আমর ইবনু দীনার (রহঃ) হতে রাওহ্ (রহঃ) এর সানাদের হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫০৮২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5252</td></tr><tr><td>Arabic No</td><td>2012.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 126</td></tr></tbody></table></div>
 

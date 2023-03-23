@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, কুরআনের আয়াতঃ ‘‘যে অভাবমুক্ত সে যেন নিবৃত্ত থাকে এবং যে অভাবগ্রস্ত সে যেন সঙ্গত পরিমাণে ভোগ করে’’- (আন-নিসা ৬)। ইয়াতীমের ঐ অভিভাবক সম্পর্কে অবতীর্ণ হয়, যে তার তত্ত্বাবধান করে ও তার সম্পত্তির পরিচর্যা করে, সে যদি অভাবগ্রস্ত হয়, তবে তা হতে নিয়মমাফিক খেতে পারবে। (২৭৬৫, ৪৫৭৫, মুসলিম ৫৪ অধ্যায়ের প্রথমে হাঃ ৩০১৯) (আধুনিক প্রকাশনীঃ ২০৫৫, ইসলামিক ফাউন্ডেশনঃ ২০৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, কুরআনের আয়াতঃ ‘‘যে অভাবমুক্ত সে যেন নিবৃত্ত থাকে এবং যে অভাবগ্রস্ত সে যেন সঙ্গত পরিমাণে ভোগ করে’’- (আন-নিসা ৬)। ইয়াতীমের ঐ অভিভাবক সম্পর্কে অবতীর্ণ হয়, যে তার তত্ত্বাবধান করে ও তার সম্পত্তির পরিচর্যা করে, সে যদি অভাবগ্রস্ত হয়, তবে তা হতে নিয়মমাফিক খেতে পারবে। (২৭৬৫, ৪৫৭৫, মুসলিম ৫৪ অধ্যায়ের প্রথমে হাঃ ৩০১৯) (আধুনিক প্রকাশনীঃ ২০৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2212</td></tr><tr><td>Arabic No</td><td>2212</td></tr><tr><td>Reference</td><td>Book 34 Hadith 158</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada saya [Ishaq] telah menceritakan kepada kami [Ibnu Numa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ‘‘(அநாதைகளைப் பராமரிப்போரில்) செல்வராக இருப்பவர், (அவர்களின் செல்வத்தைத் தொடாமல்) நாணயமாக நடந்துகொள்ளட்டும்; ஏழையாக இருப்பவர் நியாயமாக உண்ணட்டும்” (4:6) என்ற இறைவசனம், அநாதைகளை நிர்வகித்து, அவர்களின் செல்வத்தைப் பராமரிக்கும் காப்பாளர்கள் தொடர்பாக அருளப்பட்டது. காப்பாளர் ஏழையாக இருந்தால் (வழக்கப் படி) நியாயமான முறையில் (தம் உழைப் பிற்குக் கூலியாக) அநாதைகளின் பொருளை உண்ணலாம். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 34
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ‘‘(அநாதைகளைப் பராமரிப்போரில்) செல்வராக இருப்பவர், (அவர்களின் செல்வத்தைத் தொடாமல்) நாணயமாக நடந்துகொள்ளட்டும்; ஏழையாக இருப்பவர் நியாயமாக உண்ணட்டும்” (4:6) என்ற இறைவசனம், அநாதைகளை நிர்வகித்து, அவர்களின் செல்வத்தைப் பராமரிக்கும் காப்பாளர்கள் தொடர்பாக அருளப்பட்டது. காப்பாளர் ஏழையாக இருந்தால் (வழக்கப் படி) நியாயமான முறையில் (தம் உழைப் பிற்குக் கூலியாக) அநாதைகளின் பொருளை உண்ணலாம். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2212</td></tr><tr><td>Arabic No</td><td>2212</td></tr><tr><td>Reference</td><td>Book 34 Hadith 158</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada saya [Ishaq] telah menceritakan kepada kami [Ibnu Numa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha şöyle demiştir: "Zengin olan (veli) iffetli olmaya çalışsın, yoksul oları da örfe göre yesin" [Nisa 6] ayeti yetimi gözeten ve malını idare eden veli hakkında nazil olmuştur. Veli eğer fakirse, örfe uygun olarak yetimin malından yiyecektir. Tekrar: 2765,4575
+Aişe r.anha şöyle demiştir: "Zengin olan (veli) iffetli olmaya çalışsın, yoksul oları da örfe göre yesin" [Nisa 6] ayeti yetimi gözeten ve malını idare eden veli hakkında nazil olmuştur. Veli eğer fakirse, örfe uygun olarak yetimin malından yiyecektir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2212</td></tr><tr><td>Arabic No</td><td>2212</td></tr><tr><td>Reference</td><td>Book 34 Hadith 158</td></tr></tbody></table></div>
 

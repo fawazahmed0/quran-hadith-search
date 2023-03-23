@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইয়াহইয়াহ ইবনু কাসীর আল-আনবারী (রহঃ) বলেন, কুররাহ ইবনু খালিদ (রহঃ) আমাদেরকে বলতেন, হে যুবক সমাজ! তোমরা হাসান বাসরী (রহঃ) সম্পর্কে এরূপ ধারণা করো না যে, তিনি তাকদীর বিরোধী ছিলেন। কারণ তার অভিমত ছিলো সুন্নাত মোতাবেক ও সঠিক।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4623</td></tr><tr><td>Arabic No</td><td>4623</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, চামড়ার ঢাল বা সাধারণ ঢাল যার প্রতিটির মূল্য আছে, এর চেয়ে কম চুরি করলে [রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যামানায়] হাত কাটা হত না। [৬৭৯৩, ৬৭৯৪] (আধুনিক প্রকাশনী- ৬৩২৪, ইসলামিক ফাউন্ডেশন- ৬৩৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, চামড়ার ঢাল বা সাধারণ ঢাল যার প্রতিটির মূল্য আছে, এর চেয়ে কম চুরি করলে [রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যামানায়] হাত কাটা হত না। [৬৭৯৩, ৬৭৯৪] (আধুনিক প্রকাশনী- ৬৩২৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6793</td></tr><tr><td>Arabic No</td><td>6793</td></tr><tr><td>Reference</td><td>Book 86 Hadith 22</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepadaku
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களது காலத்தில்) ‘தோல் கேடயம்’ அல்லது ‘தோல் கவசத்தை’விடத் தாழ்ந்த பொருளுக்காகத் திருடனின் கரம் துண்டிக்கப்பட்டிருக்க வில்லை. இவை ஒவ்வொன்றும் விலை மதிப்புள்ளதாகும். இந்த ஹதீஸ் வேறு இரு அறிவிப் பாளர்தொடர்களில் முர்சலாக (நபித்தோழர் விடுபட்ட ஹதீஸாக) வந்துள்ளது. அத்தியாயம் : 86
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களது காலத்தில்) ‘தோல் கேடயம்’ அல்லது ‘தோல் கவசத்தை’விடத் தாழ்ந்த பொருளுக்காகத் திருடனின் கரம் துண்டிக்கப்பட்டிருக்க வில்லை. இவை ஒவ்வொன்றும் விலை மதிப்புள்ளதாகும். இந்த ஹதீஸ் வேறு இரு அறிவிப் பாளர்தொடர்களில் முர்சலாக (நபித்தோழர் விடுபட்ட ஹதீஸாக) வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6793</td></tr><tr><td>Arabic No</td><td>6793</td></tr><tr><td>Reference</td><td>Book 86 Hadith 22</td></tr></tbody></table></div>
 

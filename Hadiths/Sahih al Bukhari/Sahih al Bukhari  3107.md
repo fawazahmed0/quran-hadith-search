@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘ঈসা ইবনু তাহমান (রহ.) হতে বর্ণিত। তিনি বলেন, আনাস (রাঃ) দু’টি পশমবিহীন পুরনো চপ্পল বের করলেন, যাতে দু’টি ফিতা লাগানো ছিল। সাবিত বুনানী (রহ.) পরে আনাস (রাঃ) হতে এরূপ বর্ণনা করেছেন যে, এ দু’টি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পাদুকা ছিল। (৫৮৫৭, ৫৮৫৮) (আধুনিক প্রকাশনীঃ ২৮৭৪, ইসলামিক ফাউন্ডেশনঃ ২৮৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘ঈসা ইবনু তাহমান (রহ.) হতে বর্ণিত। তিনি বলেন, আনাস (রাঃ) দু’টি পশমবিহীন পুরনো চপ্পল বের করলেন, যাতে দু’টি ফিতা লাগানো ছিল। সাবিত বুনানী (রহ.) পরে আনাস (রাঃ) হতে এরূপ বর্ণনা করেছেন যে, এ দু’টি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পাদুকা ছিল। (৫৮৫৭, ৫৮৫৮) (আধুনিক প্রকাশনীঃ ২৮৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3107</td></tr><tr><td>Arabic No</td><td>3107</td></tr><tr><td>Reference</td><td>Book 57 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [M
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஈசா பின் தஹ்மான் (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் எங்களிடம் இரண்டு தோல்வார்கள் கொண்ட, (அணிந்து) நைந்துபோன இரு காலணிகளைக் காட்டினார்கள். பின்னர், ஸாபித் அல்புனானீ (ரஹ்) அவர்கள், ‘‘அவ்விரண் டும் நபி (ஸல்) அவர்களின் காலணிகள்” என்று அனஸ் (ரலி) அவர்களிடமிருந்து எனக்கு அறிவித்தார்கள். அத்தியாயம் : 57
+ஈசா பின் தஹ்மான் (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் எங்களிடம் இரண்டு தோல்வார்கள் கொண்ட, (அணிந்து) நைந்துபோன இரு காலணிகளைக் காட்டினார்கள். பின்னர், ஸாபித் அல்புனானீ (ரஹ்) அவர்கள், ‘‘அவ்விரண் டும் நபி (ஸல்) அவர்களின் காலணிகள்” என்று அனஸ் (ரலி) அவர்களிடமிருந்து எனக்கு அறிவித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3107</td></tr><tr><td>Arabic No</td><td>3107</td></tr><tr><td>Reference</td><td>Book 57 Hadith 16</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [M
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İsa İbn Tahman'ın şöyle dediği nakledilmiştir: "Enes İbn Malik r.a. bir defasında bize eski püskü, iyice yıpranmış bir çift sandalet çıkarıp göstermişti. Daha sonra Sabit el-Bunani, Enes'ten naklederek söz konusu pabuçların Resulullah Sallallahu Aleyhi ve Sellem'e ait olduğunu bana söyledi." Tekrar: 5857, 5858
+İsa İbn Tahman'ın şöyle dediği nakledilmiştir: "Enes İbn Malik r.a. bir defasında bize eski püskü, iyice yıpranmış bir çift sandalet çıkarıp göstermişti. Daha sonra Sabit el-Bunani, Enes'ten naklederek söz konusu pabuçların Resulullah Sallallahu Aleyhi ve Sellem'e ait olduğunu bana söyledi." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3107</td></tr><tr><td>Arabic No</td><td>3107</td></tr><tr><td>Reference</td><td>Book 57 Hadith 16</td></tr></tbody></table></div>
 

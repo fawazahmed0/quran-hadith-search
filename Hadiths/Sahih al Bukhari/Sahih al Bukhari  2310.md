@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, এক মহিলা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে বলল, হে আল্লাহর রাসূল! আমি আপনার প্রতি আমাকে হেবা করে দিয়েছি। তখন এক ব্যক্তি বলল, হে আল্লাহর রাসূল! একে আমার সঙ্গে বিয়ে দিয়ে দিন। তিনি বললেন, কুরআনের যে অংশটুকু তোমার মুখস্থ রয়েছে তার বিনিময়ে আমি এর সঙ্গে বিয়ে দিলাম। (৫০২৯, ৫০৩০, ৫০৮৭, ৫১২১, ৫১২৬, ৫১৩২, ৫১৩৫, ৫১৪১, ৫১৪৯, ৫১৫০, ৫৮৭১, ৭৪১৭) (আধুনিক প্রকাশনীঃ ২১৪৪, ইসলামিক ফাউন্ডেশনঃ ২১৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, এক মহিলা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে বলল, হে আল্লাহর রাসূল! আমি আপনার প্রতি আমাকে হেবা করে দিয়েছি। তখন এক ব্যক্তি বলল, হে আল্লাহর রাসূল! একে আমার সঙ্গে বিয়ে দিয়ে দিন। তিনি বললেন, কুরআনের যে অংশটুকু তোমার মুখস্থ রয়েছে তার বিনিময়ে আমি এর সঙ্গে বিয়ে দিলাম। (৫০২৯, ৫০৩০, ৫০৮৭, ৫১২১, ৫১২৬, ৫১৩২, ৫১৩৫, ৫১৪১, ৫১৪৯, ৫১৫০, ৫৮৭১, ৭৪১৭) (আধুনিক প্রকাশনীঃ ২১৪৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2310</td></tr><tr><td>Arabic No</td><td>2310</td></tr><tr><td>Reference</td><td>Book 40 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: ஒரு பெண்மணி அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் வந்து, ‘‘அல்லாஹ்வின் தூதரே! என்னை உங்களுக்கு அன்பளிப்பாக வழங்கிவிட்டேன் (மணக்கொடை இல்லாமல் என்னை மணந்துகொள்ளுங்கள்)” என்றார். அங்கிருந்த ஒரு மனிதர் ‘‘இவரை எனக்கு மணமுடித்துவையுங்கள்!” என்று கேட்டார். ‘‘உம்மிடமிருக்கும் குர்ஆன் அத்தியாயங்களுக்காக உமக்கு இவரை நாம் மணமுடித்துவைத்தோம்” என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 40
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: ஒரு பெண்மணி அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் வந்து, ‘‘அல்லாஹ்வின் தூதரே! என்னை உங்களுக்கு அன்பளிப்பாக வழங்கிவிட்டேன் (மணக்கொடை இல்லாமல் என்னை மணந்துகொள்ளுங்கள்)” என்றார். அங்கிருந்த ஒரு மனிதர் ‘‘இவரை எனக்கு மணமுடித்துவையுங்கள்!” என்று கேட்டார். ‘‘உம்மிடமிருக்கும் குர்ஆன் அத்தியாயங்களுக்காக உமக்கு இவரை நாம் மணமுடித்துவைத்தோம்” என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2310</td></tr><tr><td>Arabic No</td><td>2310</td></tr><tr><td>Reference</td><td>Book 40 Hadith 10</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sehl İbn Sa'd şöyle demiştir: Bir kadın Resulullah Sallallahu Aleyhi ve Sellem'e gelerek, "Ey Allah'ın Resulü! Kendimi sana hibe ettim" dedi. Orada bulunan bir sahabı de Nebi Sallallahu Aleyhi ve Sellem'e, "Onu bana nikahlayınız" dedi. Nebiimiz Sallallahu Aleyhi ve Sellem, "Kur'an'dan bildiğin şeyleri ona öğretmen karşılığında onu sana nikahladık" buyurdu. Tekrar: 5029, 5030, 5087, 5121, 5126, 5132, 5135,5141, 5149, 5150, 5871, 7470
+Sehl İbn Sa'd şöyle demiştir: Bir kadın Resulullah Sallallahu Aleyhi ve Sellem'e gelerek, "Ey Allah'ın Resulü! Kendimi sana hibe ettim" dedi. Orada bulunan bir sahabı de Nebi Sallallahu Aleyhi ve Sellem'e, "Onu bana nikahlayınız" dedi. Nebiimiz Sallallahu Aleyhi ve Sellem, "Kur'an'dan bildiğin şeyleri ona öğretmen karşılığında onu sana nikahladık" buyurdu. Tekrar: 5029, 5030, 5087, 5121, 5126, 5132, 513
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2310</td></tr><tr><td>Arabic No</td><td>2310</td></tr><tr><td>Reference</td><td>Book 40 Hadith 10</td></tr></tbody></table></div>
 

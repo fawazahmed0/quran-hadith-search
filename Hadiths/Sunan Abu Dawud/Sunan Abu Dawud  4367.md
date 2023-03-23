@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসা ইবন ইসমাইল (রহঃ) ..... আনাস ইবন মালিক (রাঃ) উপরোক্ত হাদিস বর্ণনা প্রসঙ্গে বলেনঃ আমি তাদের একজনকে দেখেছিলাম যে, পিপাসার কারণে নিজের মুখ দিয়ে মাটি খুঁড়ছিল। এ অবস্থায় তারা মারা যায়।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি এ হাদীস প্রসঙ্গে বলেন, বিপরীত দিক থেকে তাদের হাত-পা কর্তন করা হয়। হাদীসের প্রথমাংশে তিনি বলেন, তারা উট ছিনতাই করে এবং ইসলাম ধর্ম ত্যাগ করে। আনাস (রাঃ) বলেন, আমি তাদের একজনকে পিপাসার যন্ত্রণায় মুখ দিয়ে কামড়াতে দেখেছি। অবশেষে তারা মারা যায়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4367</td></tr><tr><td>Arabic No</td><td>4367</td></tr><tr><td>Reference</td><td>Book 40 Hadith 17</td></tr></tbody></table></div>
 

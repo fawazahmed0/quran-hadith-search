@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৫২০। আবদুর রাহমান ইবনু আবূ বাকরা (রহঃ) হতে তার বাবার সুত্রে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঈদের নামাযের (পর) খুৎবা প্রদান করলেন। তারপর মিম্বার হতে নেমে দুটি মেষ আনতে বললেন। তারপর এ দু'টোকে তিনি যবেহ করলেন। সহীহ, মুসলিম (৫/১০৮) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। আবদুর রাহমান ইবনু আবূ বাকরা (রহঃ) হতে তার বাবার সুত্রে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঈদের নামাযের (পর) খুৎবা প্রদান করলেন। তারপর মিম্বার হতে নেমে দুটি মেষ আনতে বললেন। তারপর এ দু'টোকে তিনি যবেহ করলেন। সহীহ, মুসলিম (৫/১০৮) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 19 Hadith 32</td></tr></tbody></table></div>
 

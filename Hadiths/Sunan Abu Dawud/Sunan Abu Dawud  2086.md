@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ইয়াহ্ইয়া ..... উম্মে হাবীবা (রাঃ) হতে বর্ণিত। তিনি ইবন জাহশের (উবায়দুল্লাহর) স্ত্রী ছিলেন। তিনি মৃত্যুবরণ করেন এবং এই সময় হা্বশাতে যাঁরা হিজরত করেন, তিনি তাঁদের সাথে ছিলেন। তখন হা্বশার বাদশাহ্ নাজ্জাশী তাঁকে তাঁদের নিকট থাকাবস্থায় রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে বিবাহ দেন।
+। উম্মু হাবীবাহ (রাযি.) সূত্রে বর্ণিত। তিনি (‘উবাইদুল্লাহ) ইবনু জাহশের স্ত্রী ছিলেন। স্বামী মারা গেলে তিনি হিজরাতকারীদের সাথে হাবশায় হিজরাত করেন। অতঃপর হাবশার বাদশা নাজ্জাশী রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে তাকে বিয়ে দেন। তিনি (অভিভাবক ছাড়া) তাদের কাছেই অবস্থান করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2086</td></tr><tr><td>Arabic No</td><td>2086</td></tr><tr><td>Reference</td><td>Book 12 Hadith 41</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৮. মালিক (রহঃ)-কে এমন এক ব্যক্তি সম্পর্কে প্রশ্ন করা হইল, যে ব্যক্তি ভুলবশত কুলি করে নাই অথবা নাক পরিষ্কার করে নাই, এই অবস্থায় সে নামায পড়িয়াছে। উত্তরে তিনি বলিলেনঃ সে লোকের পক্ষে নামায পুনরায় পড়িতে হইবে না। সে পরে অন্য নামায পড়িতে ইচ্ছা করিলে তবে কুলি করিয়া লইবে এবং নাক পরিষ্কার করিবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Arabic No</td><td>36</td></tr><tr><td>Reference</td><td>Book 2 Hadith 5</td></tr></tbody></table></div>
 

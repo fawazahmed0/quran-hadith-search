@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২০২১। ‘আবদুল্লাহ্ (রাঃ) থেকে বর্ণিত। তিনি সুন্নাত (যথার্থ নিয়মের) তালাক সম্পর্কে বলেন, স্বামী স্ত্রীকে তার (সহবাসমুক্ত) প্রতি তুহরে এক তালাক দিবে এবং সে তৃতীয় তুহরে পৌঁছলে তাকে শেষ তালাক দিবে। এরপর সে এক হায়েয কাল ইদ্দাত পালন করবে।
+। ‘আবদুল্লাহ্ (রাঃ) থেকে বর্ণিত। তিনি সুন্নাত (যথার্থ নিয়মের) তালাক সম্পর্কে বলেন, স্বামী স্ত্রীকে তার (সহবাসমুক্ত) প্রতি তুহরে এক তালাক দিবে এবং সে তৃতীয় তুহরে পৌঁছলে তাকে শেষ তালাক দিবে। এরপর সে এক হায়েয কাল ইদ্দাত পালন করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2021</td></tr><tr><td>Arabic No</td><td>2021</td></tr><tr><td>Reference</td><td>Book 10 Hadith 6</td></tr></tbody></table></div>
 

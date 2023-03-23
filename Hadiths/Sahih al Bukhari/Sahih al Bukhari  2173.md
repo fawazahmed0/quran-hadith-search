@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2173</td></tr><tr><td>Arabic No</td><td>2173</td></tr><tr><td>Reference</td><td>Book 34 Hadith 123</td></tr></tbody></table></div>
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyd İbn Sabit (r.a.) şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem, miktarının tahmin yoluyla belirlendiği araya satışına izin verdi. Tekrar: 2184, 2188, 2192, 2380
+Zeyd İbn Sabit (r.a.) şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem, miktarının tahmin yoluyla belirlendiği araya satışına izin verdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2173</td></tr><tr><td>Arabic No</td><td>2173</td></tr><tr><td>Reference</td><td>Book 34 Hadith 123</td></tr></tbody></table></div>
 

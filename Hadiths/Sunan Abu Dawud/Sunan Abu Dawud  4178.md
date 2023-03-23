@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুহাইর ইবন হারব (রহঃ) .... আবু মুসা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্‌ সে ব্যাক্তির সালাত কবুল করেন না, যার দেহে জাফরান রঙের কিছু থাকে।
+। আর-রবী‘ ইবনু আনাস (রহঃ) থেকে তার দু’ জন দাদা ও নানার সূত্রে বর্ণিত। তারা বলেন, আমরা আবূ মূসা (রাঃ)-কে বলতে শুনেছি. রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার শরীরে সামান্য পরিমাণও জাফরান থাকে, আল্লাহ তার সালাত কবূল করেন না। ইমাম আবূ দাঊদ (রহঃ) বলেন, তার দু’ দাদা বা নানার নাম হলো যায়িদ ও যিয়াদ।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4178</td></tr><tr><td>Arabic No</td><td>4178</td></tr><tr><td>Reference</td><td>Book 35 Hadith 20</td></tr></tbody></table></div>
 

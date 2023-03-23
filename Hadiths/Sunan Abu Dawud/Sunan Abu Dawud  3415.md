@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ...... জাবির ইবন আবদিল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আবদুল্লাহ্‌ ইবন রাওয়াহা (রাঃ) খায়বরে প্রাপ্ত খেজুরের অনুমান করেন চল্লিশ হাযার ওসক। এর পর তিনি যখন সেখানকার ইয়াহূদীদের ইখতিয়ার দেন, তখন তারা বিশ হাযার ওসক পরিমাণ দিতে সম্মত হয় এবং খেজুর তাদের অধিকারে নিয়ে নেয়।
+। জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ইবনু রাওয়াহা (রাঃ) খায়বারের বাগানে ফলের পরিমাণ অনুমানে নির্ধারণ করেন চল্লিশ হাজার ওয়াসক। এরপর তিনি সেখানকার ইয়াহুদীদের ইখতিয়ার দিলে তারা বিশ হাজার ওয়াসক দিতে রাজি হয় এবং ফল তাদের অধিকারে নিয়ে নেয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3415</td></tr><tr><td>Arabic No</td><td>3415</td></tr><tr><td>Reference</td><td>Book 23 Hadith 90</td></tr></tbody></table></div>
 

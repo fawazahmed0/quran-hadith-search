@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০৭৮। যাইদ ইবনু আরকাম (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফুসফুসের প্রদাহে যাইতুন ও ওয়ারসের (ওষধি বিশেষ) প্রশংসা করতেন। কাতাদা (রাহঃ) বলেন, দেহের যে দিক আক্রান্ত, এ ঔষধ চামচ দিয়ে মুখের সেদিক দিয়ে ঢালতে হবে। যঈফ, ইবনু মাজাহ (৩৪৬৭) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবূ আবদুল্লাহর নাম মাইমূন, তিনি বসরার মুহাদ্দিস।
+। যাইদ ইবনু আরকাম (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফুসফুসের প্রদাহে যাইতুন ও ওয়ারসের (ওষধি বিশেষ) প্রশংসা করতেন। কাতাদা (রাহঃ) বলেন, দেহের যে দিক আক্রান্ত, এ ঔষধ চামচ দিয়ে মুখের সেদিক দিয়ে ঢালতে হবে। যঈফ, ইবনু মাজাহ (৩৪৬৭) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবূ আবদুল্লাহর নাম মাইমূন, তিনি বসরার মুহাদ্দিস।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2078</td></tr><tr><td>Arabic No</td><td>2078</td></tr><tr><td>Reference</td><td>Book 28 Hadith 43</td></tr></tbody></table></div>
 

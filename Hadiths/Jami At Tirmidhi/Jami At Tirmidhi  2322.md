@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩২২। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ দুনিয়া ও তার মাঝের সকলকিছুই অভিশপ্ত, কিন্তু আল্লাহ্ তা'আলার যিকির ও তার সাথে সংগতিপূর্ণ অন্যান্য আমল, আলিম ও ইলম অন্বেষণকারী এর ব্যতিক্রম। হাসান, ইবনু মা-জাহ (৪১১২)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গরীব।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ দুনিয়া ও তার মাঝের সকলকিছুই অভিশপ্ত, কিন্তু আল্লাহ্ তা'আলার যিকির ও তার সাথে সংগতিপূর্ণ অন্যান্য আমল, আলিম ও ইলম অন্বেষণকারী এর ব্যতিক্রম। হাসান, ইবনু মা-জাহ (৪১১২)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গরীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2322</td></tr><tr><td>Arabic No</td><td>2322</td></tr><tr><td>Reference</td><td>Book 36 Hadith 19</td></tr></tbody></table></div>
 

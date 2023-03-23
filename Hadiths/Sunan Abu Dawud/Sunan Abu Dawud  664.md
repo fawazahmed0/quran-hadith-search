@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ ইবনুস সারী .... বারাআ ইবনু আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম নামাযের কাতারের এক প্রান্ত হতে অপর প্রান্তে গিয়ে আমাদের পায়ের গোড়ালি ও বক্ষসমূহ হাতের দ্বারা সোজা করে দিতেন এবং বলতেনঃ তোমাদের কাতার বাঁকা করো না। যদি এরূপ কর তবে তোমাদের মধ্যে মতানৈক্য সৃষ্টি হবে। আরো বলতেনঃ মহান আল্লাহ্ এবং তাঁর ফেরেশতাগণ প্রথম কাতারসমূহের উপর রহমত বর্ষণ করে থাকেন। (নাসাঈ)।
+। আল-বারাআ ইবনু ‘আযিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কাতারের এক প্রান্ত থেকে আরেক প্রান্তে গিয়ে আমাদের বুক ও কাঁধ সোজা করে দিতেন, আর বলতেনঃ তোমরা কাতারে বাঁকা হয়ে দাঁড়িও না। অন্যথায় তোমাদের অন্তরে বৈপরিত্য সৃষ্টি হবে। তিনি আরো বলতেনঃ নিশ্চয় প্রথম কাতারসমূহের প্রতি মহান আল্লাহ রহমত বর্ষণ করেন এবং তাঁর মালায়িকাহ্ (ফিরিশতাগণ) দু‘আ করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>664</td></tr><tr><td>Arabic No</td><td>664</td></tr><tr><td>Reference</td><td>Book 2 Hadith 274</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Hannad bin As-Sariy] dan [Abu 'Ashim bin Jawwas 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-el-Bera b. Azib (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) bir ucdan bir uc'a safların arasına girer, göğüslerimize ve omuzlarımıza dokunarak (bizi doğrultur) ve; "Eğri büğrü olmayınız ki kalbleriniz arasında ihtilaf olmasın, şüphesiz Allah ile melekler ilk saflara rahmet ve istiğfar ederler" buyurdu. Diğer tahric: Nesaî, imame; ezan; îbn Mace, ikame; Ahmed b. Hanbel, IV, 269, 284, 285, 296, 297
+el-Bera b. Azib (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) bir ucdan bir uc'a safların arasına girer, göğüslerimize ve omuzlarımıza dokunarak (bizi doğrultur) ve; "Eğri büğrü olmayınız ki kalbleriniz arasında ihtilaf olmasın, şüphesiz Allah ile melekler ilk saflara rahmet ve istiğfar ederler" buyurdu. Diğer tahric: Nesaî, imame; ezan; îbn Mace, ikame; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>664</td></tr><tr><td>Arabic No</td><td>664</td></tr><tr><td>Reference</td><td>Book 2 Hadith 274</td></tr></tbody></table></div>
 

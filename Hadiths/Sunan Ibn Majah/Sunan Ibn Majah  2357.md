@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৩৫৭। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুআয ইবনে জাবাল (রাঃ) কে তার পাওনাদারদের থেকে নিষ্কৃতি দেন, তারপর তাকে ইয়ামানের শাসক নিয়োগ করেন। মুআয (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার মাল দ্বারা আমাকে ঋণমুক্ত করেন, অতঃপর আমাকে শাসক নিয়োগ করেন।
+। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুআয ইবনে জাবাল (রাঃ) কে তার পাওনাদারদের থেকে নিষ্কৃতি দেন, তারপর তাকে ইয়ামানের শাসক নিয়োগ করেন। মুআয (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার মাল দ্বারা আমাকে ঋণমুক্ত করেন, অতঃপর আমাকে শাসক নিয়োগ করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2357</td></tr><tr><td>Arabic No</td><td>2357</td></tr><tr><td>Reference</td><td>Book 13 Hadith 50</td></tr></tbody></table></div>
 

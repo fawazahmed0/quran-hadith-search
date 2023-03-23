@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইব্‌ন সাঈদ (রহঃ) .... আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লামের যুগে (الماعون) (দৈনন্দিন ব্যবহারের জিনিস) বলতে বালতি ও রান্নার সরঞ্জামকে গণ্য করতাম।
+। ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে ‘মাঊন’ গণ্য করতাম বালতি, হাঁড়ি-পাতিল ইত্যাদি ছোট-খাটো বস্তু ধারে আদান-প্রদান করাকে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>1657</td></tr><tr><td>Reference</td><td>Book 9 Hadith 102</td></tr></tbody></table></div>
 

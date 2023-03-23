@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৬৪৮, আন্তর্জাতিক নাম্বারঃ ১৪৯৫ ৩৬৪৮-(.../...) ইসহাক ইবনু ইবরাহীম ও আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... আ'মাশ (রহঃ) হতে এ একই সানাদে অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৩৬১৪, ইসলামিক সেন্টার ৩৬১৪)
+ইসহাক ইবনু ইবরাহীম ও আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... আ'মাশ (রহঃ) হতে এ একই সানাদে অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৩৬১৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3756</td></tr><tr><td>Arabic No</td><td>1495.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 14</td></tr></tbody></table></div>
 

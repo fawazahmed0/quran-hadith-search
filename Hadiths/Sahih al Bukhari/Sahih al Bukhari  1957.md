@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ লোকেরা যতদিন শীঘ্র ইফতার করবে [1], ততদিন তারা কল্যাণের উপর থাকবে। (মুসলিম ১৩/৯, হাঃ ১০৯৮, আহমাদ ২২৮২৮) (আধুনিক প্রকাশনীঃ ১৮১৮, ইসলামিক ফাউন্ডেশনঃ ১৮৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ লোকেরা যতদিন শীঘ্র ইফতার করবে [1], ততদিন তারা কল্যাণের উপর থাকবে। (মুসলিম ১৩/৯, হাঃ ১০৯৮, আহমাদ ২২৮২৮) (আধুনিক প্রকাশনীঃ ১৮১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 30 Hadith 64</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bion Yusuf] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நோன்பு துறப்பதை விரைவுபடுத்தும் வரை மக்கள் நன்மையில் நிலைத்திருப் பார்கள். இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 30
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நோன்பு துறப்பதை விரைவுபடுத்தும் வரை மக்கள் நன்மையில் நிலைத்திருப் பார்கள். இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 30 Hadith 64</td></tr></tbody></table></div>
 

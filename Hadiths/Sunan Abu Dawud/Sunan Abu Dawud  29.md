@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ ইবনু উমার .... আবদুল্লাহ্ ইবনু সারজিস (রাঃ) হতে বর্ণিত। তিনি বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম গর্তের মধ্যে পেশাব করতে নিষেধ করেছেন রাবী বলেন, লোকজন কাতাদা (রহঃ)-কে জিজ্ঞেস করেন, গর্তে গেশাব করা নিষেধ কেন? রাবী বলেনঃ এরূপ প্রবাদ আছে যে- জ্বীনেরা (সাধারনতঃ) গর্তে বসবাস করে থাকে-(নাসাঈ)
+। ‘আব্দুল্লাহ ইবনু সারজিস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আল্লাহর রসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গর্তে পেশাব করতে নিষেধ করেছেন। লোকজন কাতাদাকে জিজ্ঞেস করল, গর্তে পেশাব করা কেন অপছন্দনীয়? তিনি বললেনঃ বলা হয়, এতে জিনেরা বসবাস করে।[1] দুর্বল : আল-জামি'উস সাগীর ৬৩২৪, ৬০০৩, ইরওয়াউল গালীল ৫৫।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 1 Hadith 29</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নযর ইবন আলী (রহঃ) ..... আবদুল্লাহ্‌ ইবন হাবাশী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কুল গাছ কাটবে, আল্লাহ্‌ তাকে অধোমুখে জাহান্নামে নিক্ষেপ করবেন।
+। ‘আব্দুল্লাহ ইবনু হুবশী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কুল গাছ কাটবে, আল্লাহ তাকে মাথা উপুড় করে জাহান্নামে ফেলবেন। ইমাম আবূ দাঊদ (রহঃ)-কে এ হাদীসের তাৎপর্য সম্পর্কে প্রশ্ন করা হলে তিনি বলেন, এটি খুবই সংক্ষিপ্ত। অর্থাৎ খোলা ময়দানের কুল গাছ, যার ছায়ায় পথচারী ও চতুস্পদ প্রাণী আশ্রয় নিয়ে থাকে তা কোনো ব্যক্তি নিজ মালিকানাহীন, অপ্রয়োজনে ও অন্যায়ভাবে কেটে ফেললে আল্লাহ তাকে উপুড় করে জাহান্নামে নিক্ষেপ করবেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5239</td></tr><tr><td>Arabic No</td><td>5239</td></tr><tr><td>Reference</td><td>Book 43 Hadith 467</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, চারটি স্বভাব যার মধ্যে থাকে, সে মুনাফিক অথবা যার মধ্যে এ চারটি স্বভাবের কোন একটা থাকে, তার মধ্যেও মুনাফিকীর একটি স্বভাব থাকে, যে পর্যন্ত না সে তা পরিত্যাগ করে। (১) সে যখন কথা বলে মিথ্যা বলে (২) যখন ওয়াদা করে ভঙ্গ করে (৩) যখন চুক্তি করে তা লঙ্ঘন করে (৪) যখন ঝগড়া করে অশ্লীল বাক্যালাপ করে। (৩৪) (আধুনিক প্রকাশনীঃ ২২৮০, ইসলামিক ফাউন্ডেশনঃ ২২৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, চারটি স্বভাব যার মধ্যে থাকে, সে মুনাফিক অথবা যার মধ্যে এ চারটি স্বভাবের কোন একটা থাকে, তার মধ্যেও মুনাফিকীর একটি স্বভাব থাকে, যে পর্যন্ত না সে তা পরিত্যাগ করে। (১) সে যখন কথা বলে মিথ্যা বলে (২) যখন ওয়াদা করে ভঙ্গ করে (৩) যখন চুক্তি করে তা লঙ্ঘন করে (৪) যখন ঝগড়া করে অশ্লীল বাক্যালাপ করে। (৩৪) (আধুনিক প্রকাশনীঃ ২২৮০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2459</td></tr><tr><td>Arabic No</td><td>2459</td></tr><tr><td>Reference</td><td>Book 46 Hadith 20</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) said, "Whoever has (the following) four characters will be a hypocrite, and whoever has one of the following four characteristics will have one characteristic of hypocrisy until he gives it up. These are: (1 ) Whenever he talks, he tells a lie; (2) whenever he makes a promise, he breaks it; (3) whenever he makes a covenant he proves treacherous; (4) and whenever he quarrels, he behaves impudently in an evil insulting manner." (See Hadith No. 33 Vol. 1)
+Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) said, "Whoever has (the following) four characters will be a hypocrite, and whoever has one of the following four characteristics will have one characteristic of hypocrisy until he gives it up. These are: (1 ) Whenever he talks, he tells a lie; (2) whenever he makes a promise, he breaks it; (3) whenever he makes a covenant he proves treacherous; (4) and whenever he quarrels, he behaves impudently in an evil insulting manner." (See Hadith No. 33 Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2459</td></tr><tr><td>Arabic No</td><td>2459</td></tr><tr><td>Reference</td><td>Book 46 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Bisyir bin Khalid] telah mengabarkan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நான்கு குணங்கள் யாரிடம் உள்ளனவோ அவர் நயவஞ்சகர் ஆவார். அல்லது அந்த நான்கு குணங்களில் ஒரு குணம் அவரிடம் குடிகொண்டிருந்தாலும் அவர் அதை விட்டுவிடும்வரை நயவஞ்சகத்தின் ஒரு குணம் அவரிடம் குடியிருக்கும். (அந்த நான்கு குணங்களாவன:) அவன் பேசும்போது பொய் பேசுவான்; வாக்க ளித்தால் மாறுசெய்வான்; ஒப்பந்தம் செய்தால் மோசடி செய்வான்; வழக்காடினால் நேர்மை தவறி நடந்துகொள்வான் (அவமதிப்பான்). இதை அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 46
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நான்கு குணங்கள் யாரிடம் உள்ளனவோ அவர் நயவஞ்சகர் ஆவார். அல்லது அந்த நான்கு குணங்களில் ஒரு குணம் அவரிடம் குடிகொண்டிருந்தாலும் அவர் அதை விட்டுவிடும்வரை நயவஞ்சகத்தின் ஒரு குணம் அவரிடம் குடியிருக்கும். (அந்த நான்கு குணங்களாவன:) அவன் பேசும்போது பொய் பேசுவான்; வாக்க ளித்தால் மாறுசெய்வான்; ஒப்பந்தம் செய்தால் மோசடி செய்வான்; வழக்காடினால் நேர்மை தவறி நடந்துகொள்வான் (அவமதிப்பான்). இதை அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2459</td></tr><tr><td>Arabic No</td><td>2459</td></tr><tr><td>Reference</td><td>Book 46 Hadith 20</td></tr></tbody></table></div>
 

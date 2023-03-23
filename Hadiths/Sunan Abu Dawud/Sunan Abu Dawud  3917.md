@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাইল (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন একটি কথা শোনেন, যা তাঁর কাছে ভাল মনে হয়। তখন তিনি বলেনঃ আমরা তোমার মুখ হতে তোমর ‘ফাল’ জানতে পেরেছি, (অর্থাৎ তোমর কথার মধ্যেই মঙ্গল নিহিত আছে)
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর একটি শব্দ শুনতে পেলেন। যা তাঁর নিকট আকর্ষণীয় মনে হলো। তিনি বললেনঃ তোমার মুখ থেকে নিঃসৃত তোমার ফা‘ল গ্রহণ করলাম। [1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3917</td></tr><tr><td>Arabic No</td><td>3917</td></tr><tr><td>Reference</td><td>Book 30 Hadith 14</td></tr></tbody></table></div>
 

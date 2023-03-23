@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। নাফি' (রহঃ) বলেন, আমি বাহনে ইবনু উমার (রাঃ)-এর পিছনে বসা ছিলাম। তিনি এক রাখালকে অতিক্রম করলেন যে বাদ্যযন্ত্র বাজাচ্ছিল ... অতঃপর পূর্বোক্ত হাদীসের অনুরূপ।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4925</td></tr><tr><td>Arabic No</td><td>4925</td></tr><tr><td>Reference</td><td>Book 43 Hadith 153</td></tr></tbody></table></div>
 

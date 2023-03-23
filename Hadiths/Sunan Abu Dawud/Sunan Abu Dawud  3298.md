@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইকরিমাহ (রহঃ) সূত্রে বর্ণিত। উকবাহ ইবনু ‘আমির (রাঃ)-এর বোন ... অতঃপর হিশামের হাদীসের সামর্থবোধক হাদীস বর্ণিত। বর্ণনাকারী কুরবানীর উল্লেখ করেননি। এতে আরো রয়েছেঃ তোমার বোনকে হুকুম করো সে যেন বাহনে চড়ে যায়। আবূ দাঊদ (রহঃ) বলেন, খালিদ (রহঃ) এ হাদীস ইকরিমাহ সূত্রে হিশামের হাদীসের অনুরূপ অর্থে বর্ণনা করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3298</td></tr><tr><td>Arabic No</td><td>3298</td></tr><tr><td>Reference</td><td>Book 22 Hadith 57</td></tr></tbody></table></div>
 

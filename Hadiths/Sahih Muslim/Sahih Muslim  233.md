@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩৬, আন্তর্জাতিক নাম্বারঃ ৭২ ১৩৬-(.../...) মুহাম্মদ ইবনু সালামাহ্ আল মুরাদী এবং 'আমূর ইবনু সাওওয়াদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, আল্লাহ তা'আলা আকাশ থেকে কোন বারাকাত (বৃষ্টি) অবতীর্ণ করলে একদল লোক সকালে তা অস্বীকার করে, বৃষ্টিপাত করান আল্লাহ তা'আলা আর তারা বলতে থাকে যে, অমুক অমুক নক্ষত্র। মুরাদীর হাদীসে 'অমুক অমুক নক্ষত্রের কারণে' কথার উল্লেখ রয়েছে। (ইসলামিক ফাউন্ডেশনঃ ১৩৭, ইসলামিক সেন্টারঃ ১৪১)
+মুহাম্মদ ইবনু সালামাহ্ আল মুরাদী এবং 'আমূর ইবনু সাওওয়াদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, আল্লাহ তা'আলা আকাশ থেকে কোন বারাকাত (বৃষ্টি) অবতীর্ণ করলে একদল লোক সকালে তা অস্বীকার করে, বৃষ্টিপাত করান আল্লাহ তা'আলা আর তারা বলতে থাকে যে, অমুক অমুক নক্ষত্র। মুরাদীর হাদীসে 'অমুক অমুক নক্ষত্রের কারণে' কথার উল্লেখ রয়েছে। (ইসলামিক ফাউন্ডেশনঃ ১৩৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>233</td></tr><tr><td>Arabic No</td><td>72.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 139</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepadaku [Muhammad bin Salamah al-Muradi] telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Muhammedi b. Selemete'l-Muıadî rivayet etti. (Dediki): Bize Abdullah b. Vehb, Amru'bnü'l-Haris'den rivayet etti. H.Bana Amr b. Sevvad da rivayet etti. (Dedi ki): Bize Abdullah b. Vehb haber verdi. (Dedi ki): Bize Amrubnü'I-Haris haber verdi ki, Ebu Hureyre'nin azatlısı Ebu Yunus, Ebu Hureyre'den tahdis ederek Rasulullah (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletti: ''Allah sema'dan ne kadar bereket indirdi ise, mutlaka insanlardan bir kesim onu inkar edenler olarak sabahı etmişlerdir. Allah yağmuru indirir, kendileri şu şu yıldız (sebebiyle yağmur yağdı) derler." el-Mudidi'nin rivayetinde ise: "Şu şu yıldız ile (yağmur yağdı)" şeklindedir. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 15472
+Bana Muhammedi b. Selemete'l-Muıadî rivayet etti. (Dediki): Bize Abdullah b. Vehb, Amru'bnü'l-Haris'den rivayet etti. H.Bana Amr b. Sevvad da rivayet etti. (Dedi ki): Bize Abdullah b. Vehb haber verdi. (Dedi ki): Bize Amrubnü'I-Haris haber verdi ki, Ebu Hureyre'nin azatlısı Ebu Yunus, Ebu Hureyre'den tahdis ederek Rasulullah (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletti: ''Allah sema'dan ne kadar bereket indirdi ise, mutlaka insanlardan bir kesim onu inkar edenler olarak sabahı etmişlerdir. Allah yağmuru indirir, kendileri şu şu yıldız (sebebiyle yağmur yağdı) derler." el-Mudidi'nin rivayetinde ise: "Şu şu yıldız ile (yağmur yağdı)" şeklindedir. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>233</td></tr><tr><td>Arabic No</td><td>72.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 139</td></tr></tbody></table></div>
 

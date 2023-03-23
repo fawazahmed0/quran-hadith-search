@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২৯৭, আন্তর্জাতিক নাম্বারঃ ২৯৫১ ৭২৯৭-(…/...) মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... আনাস (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭১৩৯, ইসলামিক সেন্টার ৭১৯১)
+(…/...) মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... আনাস (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭১৩৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7407</td></tr><tr><td>Arabic No</td><td>2951.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 168</td></tr></tbody></table></div>
 

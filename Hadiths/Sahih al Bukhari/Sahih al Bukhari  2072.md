@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মিকদাম (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, নিজ হাতে উপার্জিত খাদ্যের চেয়ে উত্তম খাদ্য কখনো কেউ খায় না। আল্লাহর নবী দাঊদ (আঃ) নিজ হাতে উপার্জন করে খেতেন। (আধুনিক প্রকাশনীঃ ১৯২৭ , ইসলামিক ফাউন্ডেশনঃ ১৯৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মিকদাম (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, নিজ হাতে উপার্জিত খাদ্যের চেয়ে উত্তম খাদ্য কখনো কেউ খায় না। আল্লাহর নবী দাঊদ (আঃ) নিজ হাতে উপার্জন করে খেতেন। (আধুনিক প্রকাশনীঃ ১৯২৭ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2072</td></tr><tr><td>Arabic No</td><td>2072</td></tr><tr><td>Reference</td><td>Book 34 Hadith 25</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் கைத்தொழில் செய்து உண்பதைவிடச் சிறந்த உணவை ஒரு போதும் உண்ண முடியாது. இறைத்தூதர் தாவூத் (அலை) அவர்கள் கைத்தொழில் செய்து உண்பவர்களாகவே இருந்தார்கள். இதை மிக்தாம் பின் மஅதீகரிப் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் கைத்தொழில் செய்து உண்பதைவிடச் சிறந்த உணவை ஒரு போதும் உண்ண முடியாது. இறைத்தூதர் தாவூத் (அலை) அவர்கள் கைத்தொழில் செய்து உண்பவர்களாகவே இருந்தார்கள். இதை மிக்தாம் பின் மஅதீகரிப் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2072</td></tr><tr><td>Arabic No</td><td>2072</td></tr><tr><td>Reference</td><td>Book 34 Hadith 25</td></tr></tbody></table></div>
 

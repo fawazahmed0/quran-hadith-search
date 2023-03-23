@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯১২, আন্তর্জাতিক নাম্বারঃ ৪৫৭ ৯১২-(১৬৬/...) আবূ বাকর ইবনু আবূ শাইবাহ ও যুহায়র ইবনু হারব (রহঃ) ..... কুতবাহ ইবনু মালিক (রাযিঃ) থেকে বর্ণিত। তিনি ফজরের সালাতে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম-কে "ওয়ান নাখলা বা-সিকা-তিন লাহা- তাল-উন নাযীদ” অর্থাৎ- "লম্বমান খর্জুর বৃক্ষ যাতে আছে গুচ্ছ গুচ্ছ খর্জুর"- (সূরাহ কাফ ৫০ঃ ১০) পাঠ করতে শুনেছেন। (ইসলামিক ফাউন্ডেশনঃ ৯০৭, ইসলামিক সেন্টারঃ ৯১৯)
+আবূ বাকর ইবনু আবূ শাইবাহ ও যুহায়র ইবনু হারব (রহঃ) ..... কুতবাহ ইবনু মালিক (রাযিঃ) থেকে বর্ণিত। তিনি ফজরের সালাতে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম-কে "ওয়ান নাখলা বা-সিকা-তিন লাহা- তাল-উন নাযীদ” অর্থাৎ- "লম্বমান খর্জুর বৃক্ষ যাতে আছে গুচ্ছ গুচ্ছ খর্জুর"- (সূরাহ কাফ ৫০ঃ ১০) পাঠ করতে শুনেছেন। (ইসলামিক ফাউন্ডেশনঃ ৯০৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1025</td></tr><tr><td>Arabic No</td><td>457.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 187</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Qutba b. Malik reported that he had heard the Messenger of Allah (ﷺ) reciting in the morning prayer this:" And the tall palm trees having flower spikes piled one above another" (Al-Qur'an 50:10)
+Qutba b. Malik reported that he had heard the Messenger of Allah (ﷺ) reciting in the morning prayer this:" And the tall palm trees having flower spikes piled one above another" (Al-Qur'an 50:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1025</td></tr><tr><td>Arabic No</td><td>457.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 187</td></tr></tbody></table></div>
 

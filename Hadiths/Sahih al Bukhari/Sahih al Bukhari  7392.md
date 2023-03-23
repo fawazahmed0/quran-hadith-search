@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-قَالَ ابْنُ عَبَّاسٍ: ذُو الْجَلاَلِ الْعَظَمَةِ الْبَرُّ اللَّطِيفُ ইবনু ‘আব্বাস (রাঃ) বলেনঃ ذُو الْجَلاَلِ -এর অর্থ মহানত্বের মালিক, الْبَرُّ এর অর্থ দয়ালু। ৭৩৯২. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ তা‘আলার নিরানব্বইটি এক কম একশ’টি নাম আছে।[1] যে ব্যক্তি এগুলো মুখস্থ করে রাখবে সে জান্নাতে প্রবেশ করবে। أَحْصَيْنَاهُ -এর অর্থ حَفِظْنَاهُ অর্থাৎ আমরা একে মুখস্থ করলাম। [২৭৩৬] (আধুনিক প্রকাশনী- ৬৮৭৬, ইসলামিক ফাউন্ডেশন- ৬৮৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قَالَ ابْنُ عَبَّاسٍ: ذُو الْجَلاَلِ الْعَظَمَةِ الْبَرُّ اللَّطِيفُ ইবনু ‘আব্বাস (রাঃ) বলেনঃ ذُو الْجَلاَلِ -এর অর্থ মহানত্বের মালিক, الْبَرُّ এর অর্থ দয়ালু। ৭৩৯২. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ তা‘আলার নিরানব্বইটি এক কম একশ’টি নাম আছে।[1] যে ব্যক্তি এগুলো মুখস্থ করে রাখবে সে জান্নাতে প্রবেশ করবে। أَحْصَيْنَاهُ -এর অর্থ حَفِظْنَاهُ অর্থাৎ আমরা একে মুখস্থ করলাম। [২৭৩৬] (আধুনিক প্রকাশনী- ৬৮৭৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7392</td></tr><tr><td>Arabic No</td><td>7392</td></tr><tr><td>Reference</td><td>Book 97 Hadith 21</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah has ninety-nine Names,
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abuz Zinad] dari [Al A'raj] dari [Abu Hurairah] Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah mempunyai sembilan puluh sembilan nama, seratus kurang satu, siapa yang meng-ihsha'nya, maka ia masuk surga." Dan makna meng-ihsha' adalah menjaga sebagaimana firman Allah: 'Ahshainaa (Kami menjaganya) ' (Qs. Yasin: 12)
+Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abuz Zinad] dari [Al A'raj] dari [Abu Hurairah] Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah mempunyai sembilan puluh sembilan nama, seratus kurang satu, siapa yang meng-ihsha'nya, maka ia masuk surga." Dan makna meng-ihsha' adalah menjaga sebagaimana firman Allah: 'Ahshainaa (Kami menjaganya) ' (Qs. Yasin:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7392</td></tr><tr><td>Arabic No</td><td>7392</td></tr><tr><td>Reference</td><td>Book 97 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நிச்சயமாக அல்லாஹ்விற்கு தொண் ணூற்று ஒன்பது -நூற்றுக்கு ஒன்று குறைவான- பெயர்கள் உள்ளன. அவற்றை (நம்பிக்கை கொண்டு) மனனமிட்டவர் சொர்க்கத்தில் நுழைவார்.27 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். (இந்த ஹதீஸின் மூலத்திலுள்ள) ‘அஹ்ஸா’ எனும் சொல்லுக்கு ‘மனனமிடல்’ என்பது பொருள். அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நிச்சயமாக அல்லாஹ்விற்கு தொண் ணூற்று ஒன்பது -நூற்றுக்கு ஒன்று குறைவான- பெயர்கள் உள்ளன. அவற்றை (நம்பிக்கை கொண்டு) மனனமிட்டவர் சொர்க்கத்தில் நுழைவார்.27 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். (இந்த ஹதீஸின் மூலத்திலுள்ள) ‘அஹ்ஸா’ எனும் சொல்லுக்கு ‘மனனமிடல்’ என்பது பொருள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7392</td></tr><tr><td>Arabic No</td><td>7392</td></tr><tr><td>Reference</td><td>Book 97 Hadith 21</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। হাম্মাদ (রহঃ) বলেন, আমি আইয়ূবকে বলতে শুনেছি, দু’ ধরণের লোক হাসান বাসরী (রহঃ)-এর উপর মিথ্যা অপবাদ দিচ্ছে। এক. তাকদীর অস্বীকারকারীরা, তাদের এরূপ মিথ্যা বলার কারণ হলো তাদের ধারণা, এরূপ প্রচারের মাধ্যমে সাধারণ মানুষকে সন্দেহের মধ্যে ফেলা যাবে। দুই. যারা তার ব্যাপারে অন্তরে শত্রুতা ও হিংসা রাখে। তারা বলে, তিনি কি এই এই বলেননি?[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4622</td></tr><tr><td>Arabic No</td><td>4622</td></tr><tr><td>Reference</td><td>Book 42 Hadith 27</td></tr></tbody></table></div>
 

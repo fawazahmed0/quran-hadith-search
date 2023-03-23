@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১২৮৩। আবূ আইয়ূব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ মা ও তার সন্তানদের পরস্পর হতে যে ব্যক্তি পৃথক করে ফেলবে, আল্লাহ্ তা'আলা ঐ ব্যক্তি ও তার প্রিয়জনকে পরস্পর হতে কিয়ামতের দিন পৃথক করে দিবেন। হাসান, মিশকাত (৩৩৬১) এ হাদীসটিকে আবূ ঈসা হাসান গারীব বলেছেন।
+। আবূ আইয়ূব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ মা ও তার সন্তানদের পরস্পর হতে যে ব্যক্তি পৃথক করে ফেলবে, আল্লাহ্ তা'আলা ঐ ব্যক্তি ও তার প্রিয়জনকে পরস্পর হতে কিয়ামতের দিন পৃথক করে দিবেন। হাসান, মিশকাত (৩৩৬১) এ হাদীসটিকে আবূ ঈসা হাসান গারীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1283</td></tr><tr><td>Arabic No</td><td>1283</td></tr><tr><td>Reference</td><td>Book 14 Hadith 85</td></tr></tbody></table></div>
 

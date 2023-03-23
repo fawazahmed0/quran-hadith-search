@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল আযীয ইবন ইয়াহ্‌ইয়া (রহঃ) .... আবদুল্লাহ ইবন জা'ফর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেতেনঃ কোন নবীর জন্য এরূপ বলা উচিত নয় যে আমি ইউনুস ইবন মাত্তা (আঃ) থেকে উত্তম।
+। আব্দুল্লাহ ইবনু জা‘ফার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ কোনো নবীর এ কথা বলা উচিত নয় যে, আমি ইউনুস ইবনু মাত্তার (আঃ)-এর চেয়ে উত্তম।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4670</td></tr><tr><td>Arabic No</td><td>4670</td></tr><tr><td>Reference</td><td>Book 42 Hadith 75</td></tr></tbody></table></div>
 

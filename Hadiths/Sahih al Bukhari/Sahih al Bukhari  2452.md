@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাঈদ ইবনু যায়দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, যে ব্যক্তি কারো জমির অংশ জুলুম করে কেড়ে নেয়, কিয়ামতের দিন এর সাত তবক জমিন তার গলায় লটকিয়ে দেয়া হবে। (৩১৯৮) (আধুনিক প্রকাশনীঃ ২২৭৩, ইসলামিক ফাউন্ডেশনঃ ২২৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাঈদ ইবনু যায়দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, যে ব্যক্তি কারো জমির অংশ জুলুম করে কেড়ে নেয়, কিয়ামতের দিন এর সাত তবক জমিন তার গলায় লটকিয়ে দেয়া হবে। (৩১৯৮) (আধুনিক প্রকাশনীঃ ২২৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2452</td></tr><tr><td>Arabic No</td><td>2452</td></tr><tr><td>Reference</td><td>Book 46 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எவர் பிறரது நிலத்தில் ஒரு பகுதியை அநியாயமாகக் கைப்பற்றுகிறாரோ, அவரது கழுத்தில் (மறுமை நாளில்) அந்த நிலத்தி(ன் மேற்பகுதியி)லிருந்து ஏழு பூமிகள்வரை (செல்லும் பகுதி) மாலையாக மாட்டப்படும். இதை சயீத் பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 46
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எவர் பிறரது நிலத்தில் ஒரு பகுதியை அநியாயமாகக் கைப்பற்றுகிறாரோ, அவரது கழுத்தில் (மறுமை நாளில்) அந்த நிலத்தி(ன் மேற்பகுதியி)லிருந்து ஏழு பூமிகள்வரை (செல்லும் பகுதி) மாலையாக மாட்டப்படும். இதை சயீத் பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2452</td></tr><tr><td>Arabic No</td><td>2452</td></tr><tr><td>Reference</td><td>Book 46 Hadith 13</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Said İbn Yezıd r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem'i şöyle buyururken işittim: "Her kim bir arsaya haksız yere el koyarsa boynuna o tarlanın yedi katı takılır. " Tekrar: 3198
+Said İbn Yezıd r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem'i şöyle buyururken işittim: "Her kim bir arsaya haksız yere el koyarsa boynuna o tarlanın yedi katı takılır. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2452</td></tr><tr><td>Arabic No</td><td>2452</td></tr><tr><td>Reference</td><td>Book 46 Hadith 13</td></tr></tbody></table></div>
 

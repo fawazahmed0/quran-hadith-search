@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) ...... ইসহাক ইবন আবদিল্লাহ ইবন আবী তালহা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে পোকা ধরা খেজুর পেশ করা হয়। এরপর পূর্বোক্ত হাদীছের অনুরূপ হাদীছ বর্ণিত হয়েছে।
+। ইসহাক ইবনু আব্দুল্লাহ ইবনু আবূ তালহা (রহঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট পোকায় ধরা খেজুর দেয়া হলো। বাকী অংশ পূর্ববর্তী হাদীসের অনুরূপ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3833</td></tr><tr><td>Arabic No</td><td>3833</td></tr><tr><td>Reference</td><td>Book 28 Hadith 98</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abdullah ibn AbuTalhah: The Prophet (ﷺ) was brought some dates which contained worms. He then mentioned the rest of the tradition to the same effect as the previous (No 3823)
+Narrated Abdullah ibn AbuTalhah: The Prophet (ﷺ) was brought some dates which contained worms. He then mentioned the rest of the tradition to the same effect as the previous (No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3833</td></tr><tr><td>Arabic No</td><td>3833</td></tr><tr><td>Reference</td><td>Book 28 Hadith 98</td></tr></tbody></table></div>
 

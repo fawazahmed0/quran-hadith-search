@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। মুহাম্মাদ ইবনু আব্দুল্লাহ (রহঃ) ... আবূ হুরায়রা (রাঃ) সুত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, যে ব্যক্তি দৈনিক বার রাকআত (সুন্নাতে মুওয়াক্কাদার) সালাত আদায় করবে, ফরয সালাত ব্যতীত, আল্লাহ তা'আলা তার জন্য জান্নাতে একটি ঘর বানাবেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1811</td></tr><tr><td>Arabic No</td><td>1811</td></tr><tr><td>Reference</td><td>Book 20 Hadith 214</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, উহূদের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমার উদ্দেশে তাঁর পিতা-মাতাকে এক সঙ্গে উল্লেখ করেছেন। [৩৭২৫] (আধুনিক প্রকাশনীঃ ৩৭৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4056</td></tr><tr><td>Arabic No</td><td>4056</td></tr><tr><td>Reference</td><td>Book 64 Hadith 102</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போரின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், எனக்காகத் தம் தாயையும் தந்தையையும் ஒன்றுசேர்த்து, (“என் தந்தையும் என் தாயும் உங்களுக்கு அர்ப்பணமாகட்டும்” என்று) கூறி (போர் புரிய உற்சாகமூட்டி)னார்கள்.123 அத்தியாயம் : 64
+சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போரின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், எனக்காகத் தம் தாயையும் தந்தையையும் ஒன்றுசேர்த்து, (“என் தந்தையும் என் தாயும் உங்களுக்கு அர்ப்பணமாகட்டும்” என்று) கூறி (போர் புரிய உற்சாகமூட்டி)னார்கள்.123 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4056</td></tr><tr><td>Arabic No</td><td>4056</td></tr><tr><td>Reference</td><td>Book 64 Hadith 102</td></tr></tbody></table></div>
 

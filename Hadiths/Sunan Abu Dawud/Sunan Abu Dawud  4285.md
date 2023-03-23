@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহ্‌ল ইব্‌ন তাম্মাম (রহঃ) .... আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মাহদী আমার বংশোদ্ভুত হবে, যার ললাট প্রশস্ত ও নাক উঁচু হবে। যিনি পৃথিবীকে আদ্‌ল-ইনসাফ দ্বারা এরূপ পূর্ণ করবেন, যেরূপ তা অন্যায়-অবিচারে পূর্ণ ছিল। তিনি সাত বছর রাজত্ব করবেন।
+। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত আছে। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার বংশ থেকে মাহদীর আবির্ভাব হবে, সে হবে প্রশস্ত ললাট ও উন্নত নাকবিশিষ্ট। তখনকার দুনিয়া যেরূপে যুলুমে ভরে যাবে, সে তার বিপরীতে তা ইনসাফে ভরে দিবে, আর সে সাত বছর রাজত্ব করবে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4285</td></tr><tr><td>Arabic No</td><td>4285</td></tr><tr><td>Reference</td><td>Book 38 Hadith 7</td></tr></tbody></table></div>
 

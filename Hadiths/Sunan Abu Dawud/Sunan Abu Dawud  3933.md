@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবুল ওয়ালীদ তিয়ালিসী (রহঃ) .... আবুল ওয়ালীদ (রাঃ) তার পিতা থেকে বর্ণনা করেন যে, একদা জনৈক ব্যক্তি কোন ক্রীতদাসকে তাঁর অংশের আযাদ ঘোষণা করেন। এরপর সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এ সম্পর্কে অবহিত করলে তিনি বলেনঃ আল্লাহর কোন শরীক নেই। ইবন কাছীর (রহঃ) তাঁর বর্ণিত হাদীছে অতিরিক্ত বর্ণনা করে বলেন, তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সে দাসকে পূর্ণরূপে আযাদ করে দেওয়ার অনুমতি দেন।
+। আবুল ওয়ালীদ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। এক ব্যক্তি যৌথ মালিকানাধীন কৃতদাসে তার অংশ মুক্ত করলো। অতঃপর এ সংবাদ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট পৌঁছলে তিনি বলেনঃ আল্লাহর কোনো শরীক নেই। ইবনু কাসীর (রহঃ)-এর বর্ণনায় আরো রয়েছেঃ অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে মুক্ত করার অনুমতি দিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3933</td></tr><tr><td>Arabic No</td><td>3933</td></tr><tr><td>Reference</td><td>Book 31 Hadith 8</td></tr></tbody></table></div>
 

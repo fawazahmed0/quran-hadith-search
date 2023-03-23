@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন আবূ হাওরী (রহঃ) .... জাবির (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে পূর্বোক্ত হাদীছের অনুরূপ অর্থে হাদীছ বর্ণনা করেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ লায়ছ ইবন সা'দ (রহঃ) যুহরী (রহঃ) হতে, তিনি আবূ সালামা (রহঃ) হতে, তিনি জাবির (রাঃ) থেকে অনুরূপ হাদীছ বর্ণনা করেছেন।
+। জাবির (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে উপরের হাদীসের অনুরূপ অর্থের হাদীস বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3552</td></tr><tr><td>Arabic No</td><td>3552</td></tr><tr><td>Reference</td><td>Book 24 Hadith 137</td></tr></tbody></table></div>
 

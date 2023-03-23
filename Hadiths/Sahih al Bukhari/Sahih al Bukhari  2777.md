@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, ‘উমার (রাঃ) তাঁর ওয়াক্ফে এই শর্তারোপ করেন যে, মুতাওয়াল্লী তা থেকে নিজে খেতে পারবে এবং বন্ধু-বান্ধবকেও খাওয়াতে পারবে, তবে সম্পদ জমা করতে পারবে না। (২৩১৩) (আধুনিক প্রকাশনীঃ ২৫৭৩, ইসলামিক ফাউন্ডেশনঃ ২৫৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, ‘উমার (রাঃ) তাঁর ওয়াক্ফে এই শর্তারোপ করেন যে, মুতাওয়াল্লী তা থেকে নিজে খেতে পারবে এবং বন্ধু-বান্ধবকেও খাওয়াতে পারবে, তবে সম্পদ জমা করতে পারবে না। (২৩১৩) (আধুনিক প্রকাশনীঃ ২৫৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2777</td></tr><tr><td>Arabic No</td><td>2777</td></tr><tr><td>Reference</td><td>Book 55 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Ha
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: உமர் (ரலி) அவர்கள் வக்ஃப் செய்தபோது, அதை நிர்வாகம் செய்பவர் அதிலிருந்து உண்ணலாம் என்றும் அவர் தம் நண்பருக்கு (அதிலிருந்து) பணத்தை விரயம் செய்யாமல் உண்ணக் கொடுக்கலாம் என்றும் நிபந்தனையிட்டார்கள்.29 அத்தியாயம் : 55
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: உமர் (ரலி) அவர்கள் வக்ஃப் செய்தபோது, அதை நிர்வாகம் செய்பவர் அதிலிருந்து உண்ணலாம் என்றும் அவர் தம் நண்பருக்கு (அதிலிருந்து) பணத்தை விரயம் செய்யாமல் உண்ணக் கொடுக்கலாம் என்றும் நிபந்தனையிட்டார்கள்.29 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2777</td></tr><tr><td>Arabic No</td><td>2777</td></tr><tr><td>Reference</td><td>Book 55 Hadith 40</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... ইকরামা (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি হাজ্জাজ ইবন ‘আমর আনসারী (রাঃ)-কে বলতে শুনেছি, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ যদি কেউ শত্রুর কারণে বা চলনশক্তি রহিত হওয়ার কারণে (ইহরামের পর হজ্জ বা উমরা করতে) অক্ষম হয়, তবে তার জন্য হালাল হওয়া বৈধ। তবে তাকে পরবর্তী বছর হজ্জ করতে হবে। রাবী ইকরামা বলেন, অতঃপর আমি এ সম্পর্কে ইবন আব্বাস (রাঃ) ও আবূ হুরায়রা (রাঃ)-কে জিজ্ঞাসা করলে তাঁরা উভয়ে এর সত্যতা স্বীকার করেন।
+। ‘ইকরিমাহ (রহ.) সূত্রে বর্ণিত। তিনি বলেন, আমি হাজ্জাজ ইবনু ‘আমর আল-আনসারী (রাযি.)-কে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কারো চলার পথে পা ভেঙ্গে যায় বা খোঁড়া হয়ে যায় তবে সে ইহরাম খুলতে পারবে। অবশ্য পরবর্তীতে বছরে তাকে হজ (হজ্জ) করতে হবে। ‘ইকরিমাহ (রহ.) বলেন, পরে এ বিষয়ে আমি ইবনু ‘আব্বাস ও আবূ হুরাইরাহ (রাযি.)-কে জিজ্ঞেস করলে তারা বললেন, (হাজ্জাজ) সত্যিই বলেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 11 Hadith 142</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু শারীক (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গিরগিটি মেরে ফেলার নির্দেশ দিয়েছেন এবং তিনি বলেছেন, ওটা ইবরাহীম (আঃ) যে অগ্নিকুন্ডে নিক্ষিপ্ত হয়েছিলেন তাতে এ গিরগিটি ফুঁ দিয়েছিল। (৩৩০৭) (আধুনিক প্রকাশনীঃ ৩১১০, ইসলামিক ফাউন্ডেশনঃ ৩১১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু শারীক (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গিরগিটি মেরে ফেলার নির্দেশ দিয়েছেন এবং তিনি বলেছেন, ওটা ইবরাহীম (আঃ) যে অগ্নিকুন্ডে নিক্ষিপ্ত হয়েছিলেন তাতে এ গিরগিটি ফুঁ দিয়েছিল। (৩৩০৭) (আধুনিক প্রকাশনীঃ ৩১১০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3359</td></tr><tr><td>Arabic No</td><td>3359</td></tr><tr><td>Reference</td><td>Book 60 Hadith 34</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Ubaidullah bin Musa] atau [Ibnu Salam] dari dia, t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு ஷரீக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பல்லியைக் கொல்லும்படி உத்தரவிட்டார் கள். மேலும் அவர்கள், ‘‘அது இப்ராஹீம் (அலைலி அவர்கள் தீக் குண்டத்தில் எறியப்பட்டபோது நெருப்பை) அவர்களுக் கெதிராக ஊதிவிட்டுக்கொண்டிருந்தது” என்றும் சொன்னார்கள். அத்தியாயம் : 60
+உம்மு ஷரீக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பல்லியைக் கொல்லும்படி உத்தரவிட்டார் கள். மேலும் அவர்கள், ‘‘அது இப்ராஹீம் (அலைலி அவர்கள் தீக் குண்டத்தில் எறியப்பட்டபோது நெருப்பை) அவர்களுக் கெதிராக ஊதிவிட்டுக்கொண்டிருந்தது” என்றும் சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3359</td></tr><tr><td>Arabic No</td><td>3359</td></tr><tr><td>Reference</td><td>Book 60 Hadith 34</td></tr></tbody></table></div>
 

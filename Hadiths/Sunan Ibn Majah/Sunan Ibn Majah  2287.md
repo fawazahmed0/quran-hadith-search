@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২২৮৭। আস-সাইব (রাঃ) থেকে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলেন, জাহিলী যুগে আপনি আমার অংশীদার ছিলেন এবং সর্বোত্তম অংশীদার ছিলেন। না আপনি কখনো আমার প্রতিদ্বন্দ্বী হয়েছেন আর না আমার সাথে বিবাদ করেছেন।
+। আস-সাইব (রাঃ) থেকে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলেন, জাহিলী যুগে আপনি আমার অংশীদার ছিলেন এবং সর্বোত্তম অংশীদার ছিলেন। না আপনি কখনো আমার প্রতিদ্বন্দ্বী হয়েছেন আর না আমার সাথে বিবাদ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2287</td></tr><tr><td>Arabic No</td><td>2287</td></tr><tr><td>Reference</td><td>Book 12 Hadith 151</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ত্বলহা (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন কোন সম্প্রদায়ের উপর বিজয় লাভ করতেন, তখন তিনি তাদের বাহির অঙ্গণে তিন রাত্রি অবস্থান করতেন। মু‘আয, ‘আবদুল আ‘লা ও আবূ ত্বলহা (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হাদীস বর্ণনায় রাওহা ইবনে ‘উবাদাহ (রহ.)-এর অনুসরণ করেছেন। (৩৯৭৬) (আধুনিক প্রকাশনীঃ ২৮৩৫, ইসলামিক ফাউন্ডেশনঃ ২৮৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ত্বলহা (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন কোন সম্প্রদায়ের উপর বিজয় লাভ করতেন, তখন তিনি তাদের বাহির অঙ্গণে তিন রাত্রি অবস্থান করতেন। মু‘আয, ‘আবদুল আ‘লা ও আবূ ত্বলহা (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হাদীস বর্ণনায় রাওহা ইবনে ‘উবাদাহ (রহ.)-এর অনুসরণ করেছেন। (৩৯৭৬) (আধুনিক প্রকাশনীঃ ২৮৩৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 56 Hadith 270</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah Telah bercerita kepada kami [Muhammad bin 'Abdur Rahim] telah bercerita ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூதல்ஹா ஸைத் பின் சஹ்ல் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு சமுதாயத் தாரை வெற்றிகொண்டால் (அவர்களின்) திறந்த வெளிப்பகுதியில் மூன்று நாட்கள் தங்குவார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 56
+அபூதல்ஹா ஸைத் பின் சஹ்ல் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு சமுதாயத் தாரை வெற்றிகொண்டால் (அவர்களின்) திறந்த வெளிப்பகுதியில் மூன்று நாட்கள் தங்குவார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 56 Hadith 270</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah Telah bercerita kepada kami [Muhammad bin 'Abdur Rahim] telah bercerita ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik r.a. Ebu Talha r.a. yoluyla Resulullah Sallallahu Aleyhi ve Sellem'in bir düşmanı mağlup edince onlara ait topraklarda üç gece geçirdiğini nakletmiştir. Tekrar: 3976
+Enes İbn Malik r.a. Ebu Talha r.a. yoluyla Resulullah Sallallahu Aleyhi ve Sellem'in bir düşmanı mağlup edince onlara ait topraklarda üç gece geçirdiğini nakletmiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 56 Hadith 270</td></tr></tbody></table></div>
 

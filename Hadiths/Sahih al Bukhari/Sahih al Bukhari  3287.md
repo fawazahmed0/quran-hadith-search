@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলকামাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি সিরিয়ায় গেলাম, লোকেরা বলল, ইনি আবূ দারদা (রাঃ)। তিনি জিজ্ঞেস করলেন, ‘তোমাদের মধ্যে কি সে ব্যক্তি আছে, যাকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মৌখিক দু‘আয় আল্লাহ্ শয়তান হতে রক্ষা করেছেন?’ মুগীরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, সেই ব্যক্তি যাঁকে আল্লাহ তাঁর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মৌখিক দু‘আয় শয়তান হতে রক্ষা করেছেন, তিনি হলেন, আম্মার (রাঃ)। (৩৭৪২, ৩৭৪৩, ৩৭৬১, ৪৯৪৩, ৪৯৪৪, ৬২৭৮) (আধুনিক প্রকাশনীঃ ৩০৪৫, ইসলামিক ফাউন্ডেশনঃ ৩০৫৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলকামাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি সিরিয়ায় গেলাম, লোকেরা বলল, ইনি আবূ দারদা (রাঃ)। তিনি জিজ্ঞেস করলেন, ‘তোমাদের মধ্যে কি সে ব্যক্তি আছে, যাকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মৌখিক দু‘আয় আল্লাহ্ শয়তান হতে রক্ষা করেছেন?’ মুগীরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, সেই ব্যক্তি যাঁকে আল্লাহ তাঁর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মৌখিক দু‘আয় শয়তান হতে রক্ষা করেছেন, তিনি হলেন, আম্মার (রাঃ)। (৩৭৪২, ৩৭৪৩, ৩৭৬১, ৪৯৪৩, ৪৯৪৪, ৬২৭৮) (আধুনিক প্রকাশনীঃ ৩০৪৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3287</td></tr><tr><td>Arabic No</td><td>3287</td></tr><tr><td>Reference</td><td>Book 59 Hadith 96</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Alqama:I went to Sham (and asked. "Who is here?"), The people said, "Ab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்கமா பின் கைஸ் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஷாம் (சிரியா) நாட்டிற்குச் சென்றேன். அங்கிருந்த மக்கள், ‘‘அபுத் தர்தா (ரலி) அவர்கள் (இங்கு) வந்து, ‘அல்லாஹ் தன் தூதர் (ஸல்) அவர்களின் நாவால் ஷைத்தானிடமிருந்து எவரைக் காப்பாற்றினானோ அவர் உங்களிடையே இருக்கின்றாரா?› என்று கேட்டார்” எனச் சொன்னார்கள். முஃகீரா பின் மிக்ஸம் (ரஹ்) அவர்கள், ‘‘அல்லாஹ் தன் தூதர் (ஸல்) அவர்களின் நாவால் ஷைத்தானிடமிருந்து எவரைக் காப்பாற்றினானோ அவர்” என்று அபுத் தர்தா (ரலி) அவர்கள் குறிப்பிட்டது அம்மார் பின் யாசிர் (ரலி) அவர்களைத் தான்” என்று கூறினார்கள்.90 அத்தியாயம் : 59
+அல்கமா பின் கைஸ் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஷாம் (சிரியா) நாட்டிற்குச் சென்றேன். அங்கிருந்த மக்கள், ‘‘அபுத் தர்தா (ரலி) அவர்கள் (இங்கு) வந்து, ‘அல்லாஹ் தன் தூதர் (ஸல்) அவர்களின் நாவால் ஷைத்தானிடமிருந்து எவரைக் காப்பாற்றினானோ அவர் உங்களிடையே இருக்கின்றாரா?› என்று கேட்டார்” எனச் சொன்னார்கள். முஃகீரா பின் மிக்ஸம் (ரஹ்) அவர்கள், ‘‘அல்லாஹ் தன் தூதர் (ஸல்) அவர்களின் நாவால் ஷைத்தானிடமிருந்து எவரைக் காப்பாற்றினானோ அவர்” என்று அபுத் தர்தா (ரலி) அவர்கள் குறிப்பிட்டது அம்மார் பின் யாசிர் (ரலி) அவர்களைத் தான்” என்று கூறினார்கள்.90 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3287</td></tr><tr><td>Arabic No</td><td>3287</td></tr><tr><td>Reference</td><td>Book 59 Hadith 96</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated Alqama:I went to Sham (and asked. "Who is here?"), The people said, "Ab
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Alkame anlatıyor: "Şam'a gelmiştim. Mescidde iken birisi geldi. Onun kim olduğunu sorduğumda: Ebü'd-Derda diye cevap verdiler. Ebü'd-Derda bana: İçinizde Allah tarafından şeytandan korunduğu Resulullah Sallallahu Aleyhi ve Sellem'in diliyle bildirilen zat yok mu? dedi." Ravilerden Muğire ed-Dabbı'nin naklettiğine göre ayrıca Ammar'ı kasdederek: "O, Allah tarafından korunduğu Resulullahlın Sallallahu Aleyhi ve Sellem diliyle bildirilen kişidir" demiştir. Tekrar: 6223, 6226
+Alkame anlatıyor: "Şam'a gelmiştim. Mescidde iken birisi geldi. Onun kim olduğunu sorduğumda: Ebü'd-Derda diye cevap verdiler. Ebü'd-Derda bana: İçinizde Allah tarafından şeytandan korunduğu Resulullah Sallallahu Aleyhi ve Sellem'in diliyle bildirilen zat yok mu? dedi." Ravilerden Muğire ed-Dabbı'nin naklettiğine göre ayrıca Ammar'ı kasdederek: "O, Allah tarafından korunduğu Resulullahlın Sallallahu Aleyhi ve Sellem diliyle bildirilen kişidir" demiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3287</td></tr><tr><td>Arabic No</td><td>3287</td></tr><tr><td>Reference</td><td>Book 59 Hadith 96</td></tr></tbody></table></div>
 

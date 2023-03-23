@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ঈসা (রহঃ) .... ইবন আসকা’ (রাঃ) থেকে বর্ণিত। তিনি বলেন, একাদ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুহাজির সুফফাদের নিকট আসেন। তখন এক ব্যাক্তি তাকে জিজ্ঞাসা করেনঃ কুরআন মাজীদের সবচাইতে মর্যাদাপূর্ণ আয়াত কোনটি? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَىُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ (অর্থাৎ আয়তুল কুরসীর মর্যাদা অধিক)।
+। ইবনুল আসকা (রাঃ)-এর মুক্তদাস থেকে ইবনুল আসকা‘র সূত্রে বর্ণিত। তিনি ইবনুল আসকা‘কে বলতে শুনেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুহাজিরদের আঙ্গিনায় তাদের নিকট অসলেন। তখন এক ব্যক্তি তাঁকে প্রশ্ন করলো, কুরআনের কোন্ আয়াতটি সর্বাধিক মর্যাদাপূর্ণ? তিনি বলেনঃ (اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ) আয়াতুল কুরসী।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4003</td></tr><tr><td>Arabic No</td><td>4003</td></tr><tr><td>Reference</td><td>Book 32 Hadith 35</td></tr></tbody></table></div>
 

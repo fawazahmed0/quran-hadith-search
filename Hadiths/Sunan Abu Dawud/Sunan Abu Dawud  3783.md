@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন হাসসান (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট রুটির তৈরী ছারীদ এবং হায়সে তৈরী ছারীদ সব চাইতে প্রিয় খাবার ছিল। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ হাদীছটি দুর্বল।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পছন্দের খাবার ছিলো তরকারীর ঝোলে ভিজানো রুটি ও খুরমা এবং মাখন ও আটার সংমিশ্রণে তৈরী রুটি। ইমাম আবূ দাঊদ (রহঃ) বলেন, হাদীসটি যঈফ।[1] দুর্বলঃ যঈফাহ (১৭৫৮), মিশকাত (৪২২০)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3783</td></tr><tr><td>Arabic No</td><td>3783</td></tr><tr><td>Reference</td><td>Book 28 Hadith 48</td></tr></tbody></table></div>
 

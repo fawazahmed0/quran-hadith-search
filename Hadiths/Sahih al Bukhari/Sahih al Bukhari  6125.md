@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা নম্র হও এবং কঠোর হয়ো না। শান্তি দান কর, বিদ্বেষ সৃষ্টি করো না। (আধুনিক প্রকাশনী- ৫৬৮৪, ইসলামিক ফাউন্ডেশন- ৫৫৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা নম্র হও এবং কঠোর হয়ো না। শান্তি দান কর, বিদ্বেষ সৃষ্টি করো না। (আধুনিক প্রকাশনী- ৫৬৮৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6125</td></tr><tr><td>Arabic No</td><td>6125</td></tr><tr><td>Reference</td><td>Book 78 Hadith 152</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (மார்க்க விஷயங்களில்) எளிதாக நடந்துகொள்ளுங்கள்; (மக்களைச்) சிரமப்படுத்தாதீர்கள். ஆறுதலாக நடந்துகொள்ளுங்கள்; வெறுப்பேற்றிவிடாதீர்கள். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.142 அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (மார்க்க விஷயங்களில்) எளிதாக நடந்துகொள்ளுங்கள்; (மக்களைச்) சிரமப்படுத்தாதீர்கள். ஆறுதலாக நடந்துகொள்ளுங்கள்; வெறுப்பேற்றிவிடாதீர்கள். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.142 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6125</td></tr><tr><td>Arabic No</td><td>6125</td></tr><tr><td>Reference</td><td>Book 78 Hadith 152</td></tr></tbody></table></div>
 

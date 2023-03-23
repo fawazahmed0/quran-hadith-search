@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩৯৪। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, চাটুকারদের মুখে ধুলাবালি নিক্ষেপ করার জন্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে নির্দেশ দিয়েছেন। সহীহ, দেখুন পূর্বের হাদীস। আবূ ঈসা বলেন, এ হাদীসটি আবূ হুরাইরা (রাঃ)-এর রিওয়ায়াত হিসাবে গারীব।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, চাটুকারদের মুখে ধুলাবালি নিক্ষেপ করার জন্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে নির্দেশ দিয়েছেন। সহীহ, দেখুন পূর্বের হাদীস। আবূ ঈসা বলেন, এ হাদীসটি আবূ হুরাইরা (রাঃ)-এর রিওয়ায়াত হিসাবে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2394</td></tr><tr><td>Arabic No</td><td>2394</td></tr><tr><td>Reference</td><td>Book 36 Hadith 92</td></tr></tbody></table></div>
 
@@ -60,6 +60,6 @@ Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: “Rasûlullah (s.
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-۴- ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں حکم دیا کہ ہم بے جا تعریف کرنے والوں کے منہ میں مٹی ڈال دیں۔ امام ترمذی کہتے ہیں: یہ حدیث ابوہریرہ رضی الله عنہ کی روایت سے غریب ہے۔
+ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں حکم دیا کہ ہم بے جا تعریف کرنے والوں کے منہ میں مٹی ڈال دیں۔ امام ترمذی کہتے ہیں: یہ حدیث ابوہریرہ رضی الله عنہ کی روایت سے غریب ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2394</td></tr><tr><td>Arabic No</td><td>2394</td></tr><tr><td>Reference</td><td>Book 36 Hadith 92</td></tr></tbody></table></div>

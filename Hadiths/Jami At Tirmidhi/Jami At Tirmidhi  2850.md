@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮৫০। জাবির ইবনু সামুরাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে শতাধিক বৈঠকে ছিলাম। সে সব বৈঠকে তার সাহাবীগণ কবিতা আবৃত্তি করতেন এবং জাহিলিয়াত যুগের বিভিন্ন বিষয় আলোচনা করতেন। তিনি সেগুলো চুপ করে শুনতেন এবং কখনো কখনো মুচকি হাসতেন। সহীহঃ মুখতাসার শামা-য়িল (২১১) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। এ হাদীসটি সিমাকের সূত্রে যুহাইরও বর্ণনা করেছেন।
+। জাবির ইবনু সামুরাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে শতাধিক বৈঠকে ছিলাম। সে সব বৈঠকে তার সাহাবীগণ কবিতা আবৃত্তি করতেন এবং জাহিলিয়াত যুগের বিভিন্ন বিষয় আলোচনা করতেন। তিনি সেগুলো চুপ করে শুনতেন এবং কখনো কখনো মুচকি হাসতেন। সহীহঃ মুখতাসার শামা-য়িল (২১১) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। এ হাদীসটি সিমাকের সূত্রে যুহাইরও বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2850</td></tr><tr><td>Arabic No</td><td>2850</td></tr><tr><td>Reference</td><td>Book 43 Hadith 125</td></tr></tbody></table></div>
 

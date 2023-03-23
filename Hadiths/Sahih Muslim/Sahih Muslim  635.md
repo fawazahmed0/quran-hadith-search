@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫২৩, আন্তর্জাতিক নাম্বারঃ ২৭৪ ৫২৩-(.../...) মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... মুগীরাহ (রাযিঃ) থেকে তার পিতা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশনঃ ৫২৬, ইসলামিক সেন্টারঃ ৫৪২)
+মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... মুগীরাহ (রাযিঃ) থেকে তার পিতা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশনঃ ৫২৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>635</td></tr><tr><td>Arabic No</td><td>274.10</td></tr><tr><td>Reference</td><td>Book 2 Hadith 102</td></tr></tbody></table></div>
 

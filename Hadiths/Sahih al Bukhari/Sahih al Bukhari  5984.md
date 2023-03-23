@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুবায়র ইবনু মুত‘ইম (রাঃ) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ আত্মীয়তার সম্পর্ক ছিন্নকারী জান্নাতে প্রবেশ করবে না। [মুসলিম ৪৫/৬, হাঃ ২৫৫৬, আহমাদ ১৬৭৩২] (আধুনিক প্রকাশনী- ৫৫৪৯, ইসলামিক ফাউন্ডেশন- ৫৪৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যুবায়র ইবনু মুত‘ইম (রাঃ) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ আত্মীয়তার সম্পর্ক ছিন্নকারী জান্নাতে প্রবেশ করবে না। [মুসলিম ৪৫/৬, হাঃ ২৫৫৬, আহমাদ ১৬৭৩২] (আধুনিক প্রকাশনী- ৫৫৪৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5984</td></tr><tr><td>Arabic No</td><td>5984</td></tr><tr><td>Reference</td><td>Book 78 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உறவை முறித்து வாழ்பவன் சொர்க்கத்தில் நுழையமாட்டான். இதை ஜுபைர் பின் முத்இம் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.16 அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உறவை முறித்து வாழ்பவன் சொர்க்கத்தில் நுழையமாட்டான். இதை ஜுபைர் பின் முத்இம் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5984</td></tr><tr><td>Arabic No</td><td>5984</td></tr><tr><td>Reference</td><td>Book 78 Hadith 15</td></tr></tbody></table></div>
 

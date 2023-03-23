@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আর-রাবী ইবন সুলায়মান (রহঃ) ..... আয়েশা (রাঃ) হতে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে বলেন, তোমার বায়তুল্লাহ্ ও সাফা -মারওয়ার (একবার) তাওয়াফ তোমার হজ্জের সময় ও উমরার জন্য যথেষ্ট। ইমাম শাফি‘ঈ (রহঃ) বলেন, সুফইয়ান কোনো সময় আতা হতে, তিনি আয়েশা (রাঃ) হতে এবং কোন সময় কেবল আতা হতে বর্ণনা করতেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আয়েশা (রাঃ)-কে এরূপ বলেন।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেছেনঃ বায়তুল্লাহ এবং সাফা-মারওয়ার মাঝে তোমার তাওয়াফ তোমার হজ (হজ্জ) ও ‘উমরার জন্য যথেষ্ট। ইমাম শাফিঈ (রহ.) বলেনঃ সুফিয়ান কখনো ‘আতা (রহ.) থেকে ‘আয়িশাহ্ (রাঃ) সূত্রে, আবার কখনো ‘আতা (রহ.) থেকে বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আয়িশাহ্ (রাঃ)-কে এরূপ বলেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1897</td></tr><tr><td>Arabic No</td><td>1897</td></tr><tr><td>Reference</td><td>Book 11 Hadith 177</td></tr></tbody></table></div>
 

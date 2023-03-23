@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘দ ইবনু আবূ ওয়াক্কাস (রাঃ) হতে বর্ণিত, তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আবদুল্লাহ ইবনু সালাম (রাঃ) ছাড়া যমীনে বিচরণশীল কারো ব্যাপারে এ কথাটি বলতে শুনিনি যে, ‘নিশ্চয়ই তিনি জান্নাতবাসী’। সা‘দ (রাঃ) বলেন, তাঁরই ব্যাপারে সূরাহ আহকাফের এ আয়াত নাযিল হয়েছেঃ ‘‘এ ব্যাপারে বনী ইসরাঈলের মধ্য থেকেও একজন সাক্ষ্য দান করেছে। (উক্ত হাদীসের শুরুতে উল্লেখিত সানাদে ইমাম বুখারীর উস্তাজ) ‘আবদুল্লাহ বিন ইউসুফ (সন্দেহ পোষণ করে) বলেন যে, বর্ণনাকারী মালিক উল্লেখিত আয়াতটি নিজের তরফ হতে এখানে বৃদ্ধি করে বলেছেন নাকি এ হাদীসের সানাদের সাথেই সম্পৃক্ত তা জানি না। (মুসলিম ৪৪/৩৩, হাঃ নং ২৪৮৩) (আধুনিক প্রকাশনীঃ ৩৫৩০, ইসলামিক ফাউন্ডেশনঃ ৩৫৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘দ ইবনু আবূ ওয়াক্কাস (রাঃ) হতে বর্ণিত, তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আবদুল্লাহ ইবনু সালাম (রাঃ) ছাড়া যমীনে বিচরণশীল কারো ব্যাপারে এ কথাটি বলতে শুনিনি যে, ‘নিশ্চয়ই তিনি জান্নাতবাসী’। সা‘দ (রাঃ) বলেন, তাঁরই ব্যাপারে সূরাহ আহকাফের এ আয়াত নাযিল হয়েছেঃ ‘‘এ ব্যাপারে বনী ইসরাঈলের মধ্য থেকেও একজন সাক্ষ্য দান করেছে। (উক্ত হাদীসের শুরুতে উল্লেখিত সানাদে ইমাম বুখারীর উস্তাজ) ‘আবদুল্লাহ বিন ইউসুফ (সন্দেহ পোষণ করে) বলেন যে, বর্ণনাকারী মালিক উল্লেখিত আয়াতটি নিজের তরফ হতে এখানে বৃদ্ধি করে বলেছেন নাকি এ হাদীসের সানাদের সাথেই সম্পৃক্ত তা জানি না। (মুসলিম ৪৪/৩৩, হাঃ নং ২৪৮৩) (আধুনিক প্রকাশনীঃ ৩৫৩০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3812</td></tr><tr><td>Arabic No</td><td>3812</td></tr><tr><td>Reference</td><td>Book 63 Hadith 37</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Sa'd bin Abi Waqqas:I have never heard the Prophet (ﷺ) saying about anybody walking on the earth that he is from the people of Paradise except 'Abdullah bin Salam. The following Verse was revealed concerning him: "And a witness from the children of Israel testifies that this Qur'an is true" (46.10)
+Narrated Sa'd bin Abi Waqqas:I have never heard the Prophet (ﷺ) saying about anybody walking on the earth that he is from the people of Paradise except 'Abdullah bin Salam. The following Verse was revealed concerning him: "And a witness from the children of Israel testifies that this Qur'an is true
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3812</td></tr><tr><td>Arabic No</td><td>3812</td></tr><tr><td>Reference</td><td>Book 63 Hadith 37</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Yusuf] berkata, aku mendengar [Malik]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பூமியின் மீது நடந்து செல்லும் எவரையும், “இவர் சொர்க்கவாசி” என்று சொல்லி நான் கேட்டதில்லை; அப்துல்லாஹ் பின் சலாம் (ரலி) அவர்களைத் தவிர. அப்துல்லாஹ் பின் சலாம் (ரலி) அவர்களைக் குறித்தே, “மேலும், இஸ்ரவேலர்களிலிருந்து சாட்சியம் சொல்பவர் ஒருவர் இதுபோன்ற வேதத்திற்குச் சாட்சியம் கூறியுள்ளார். அவர் நம்பிக்கையும் கொண்டிருந்தார்” எனும் (46:10) இறைவசனம் அருளப்பெற்றது. அறிவிப்பாளர் அப்துல்லாஹ் பின் யூசுஃப் (ரஹ்) அவர்கள் கூறுகிறார்கள்: (இதை அறிவித்த இமாம்) மாலிக் (ரஹ்) அவர்கள் இந்த இறைவசனம் அருளப்பெற்ற காரணத்தை (தாமாகவே) சொன்னார்களா; அல்லது இந்த ஹதீஸிலேயே (இந்த இறைவசனம்) இடம் பெற்றிருக்கிறதா என்பது எனக்குத் தெரியாது. அத்தியாயம் : 63
+சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பூமியின் மீது நடந்து செல்லும் எவரையும், “இவர் சொர்க்கவாசி” என்று சொல்லி நான் கேட்டதில்லை; அப்துல்லாஹ் பின் சலாம் (ரலி) அவர்களைத் தவிர. அப்துல்லாஹ் பின் சலாம் (ரலி) அவர்களைக் குறித்தே, “மேலும், இஸ்ரவேலர்களிலிருந்து சாட்சியம் சொல்பவர் ஒருவர் இதுபோன்ற வேதத்திற்குச் சாட்சியம் கூறியுள்ளார். அவர் நம்பிக்கையும் கொண்டிருந்தார்” எனும் (46:10) இறைவசனம் அருளப்பெற்றது. அறிவிப்பாளர் அப்துல்லாஹ் பின் யூசுஃப் (ரஹ்) அவர்கள் கூறுகிறார்கள்: (இதை அறிவித்த இமாம்) மாலிக் (ரஹ்) அவர்கள் இந்த இறைவசனம் அருளப்பெற்ற காரணத்தை (தாமாகவே) சொன்னார்களா; அல்லது இந்த ஹதீஸிலேயே (இந்த இறைவசனம்) இடம் பெற்றிருக்கிறதா என்பது எனக்குத் தெரியாது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3812</td></tr><tr><td>Arabic No</td><td>3812</td></tr><tr><td>Reference</td><td>Book 63 Hadith 37</td></tr></tbody></table></div>
 

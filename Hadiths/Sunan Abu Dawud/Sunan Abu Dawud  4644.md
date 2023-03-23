@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবূ শায়বা (রহঃ) .... আমাশ (রহঃ) বলেনঃ আমি হাজ্জাজকে মিম্বর থেকে এরূপ বলতে শুনেছি যে, আজমী লোকেরা কাঁটার মত। আল্লাহ্‌র শপথ! যদি আমি কাঠকে কাঠের উপর আঘাত করি, তবে তাকে এ ভাবে নাস্তানাবুদ করে দেব, যেমন গত কাল চলে গেছে
+। আ‘মাশ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি হাজ্জাজকে মিম্বারে দাঁড়িয়ে বলতে শুনেছি, এসব অনারব আযাদকৃত গোলামদের বংশধর হত্যা ও টুকরা টুকরা করে দেয়ার যোগ্য। আল্লাহর কসম! আমি যদি চরম আঘাত হানি তাহলে তাদেরকে গতকালের মতো নিশ্চিহ্ন করে দিবো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4644</td></tr><tr><td>Arabic No</td><td>4644</td></tr><tr><td>Reference</td><td>Book 42 Hadith 49</td></tr></tbody></table></div>
 

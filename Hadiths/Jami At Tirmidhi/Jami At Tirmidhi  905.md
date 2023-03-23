@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯০৫। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, কোন এক সফরে আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে ছিলাম। এমতাবস্থায় কুরবানীর ঈদ আসলে আমরা একটি গরুতে সাতজন এবং একটি উটে দশজন করে শরীক হই। — সহীহ, ইবনু মা-জাহ (৩১৩১) এই হাদীসটিকে আবু ঈসা হাসান গারীব বলেছেন। এটি হুসাইন ইবনু ওয়াকিদ (রহঃ) বর্ণিত হাদীস।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, কোন এক সফরে আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে ছিলাম। এমতাবস্থায় কুরবানীর ঈদ আসলে আমরা একটি গরুতে সাতজন এবং একটি উটে দশজন করে শরীক হই। — সহীহ, ইবনু মা-জাহ (৩১৩১) এই হাদীসটিকে আবু ঈসা হাসান গারীব বলেছেন। এটি হুসাইন ইবনু ওয়াকিদ (রহঃ) বর্ণিত হাদীস।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>905</td></tr><tr><td>Arabic No</td><td>905</td></tr><tr><td>Reference</td><td>Book 9 Hadith 98</td></tr></tbody></table></div>
 

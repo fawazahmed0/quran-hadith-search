@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের মধ্যে কেউ জুমু‘আহর সালাতে আসলে সে যেন গোসল করে। (৮৯৪, ৯১৯ মুসলিম ৭/৭, হাঃ ৮৪৪, ৪৫৫৩) (আধুনিক প্রকাশনীঃ৮২৬, ইসলামিক ফাউন্ডেশনঃ ৮৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের মধ্যে কেউ জুমু‘আহর সালাতে আসলে সে যেন গোসল করে। (৮৯৪, ৯১৯ মুসলিম ৭/৭, হাঃ ৮৪৪, ৪৫৫৩) (আধুনিক প্রকাশনীঃ৮২৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>877</td></tr><tr><td>Arabic No</td><td>877</td></tr><tr><td>Reference</td><td>Book 11 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் ஜுமுஆவுக்கு வரும்போது குளித்துக்கொள்ளட்டும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 11
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் ஜுமுஆவுக்கு வரும்போது குளித்துக்கொள்ளட்டும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>877</td></tr><tr><td>Arabic No</td><td>877</td></tr><tr><td>Reference</td><td>Book 11 Hadith 2</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer (Radiyallahu Anh) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: İçinizden kim Cum'a namazına gelirse boy abdesti alsınl. Tekrar; 894 ve 919
+Abdullah İbn Ömer (Radiyallahu Anh) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: İçinizden kim Cum'a namazına gelirse boy abdesti alsınl. Tekrar; 894 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>877</td></tr><tr><td>Arabic No</td><td>877</td></tr><tr><td>Reference</td><td>Book 11 Hadith 2</td></tr></tbody></table></div>
 

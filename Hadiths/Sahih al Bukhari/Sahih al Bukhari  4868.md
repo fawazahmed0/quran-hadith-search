@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, চন্দ্র দু’ খন্ডে খন্ডিত হয়েছিল। [৩৬৩৭] (আধুনিক প্রকাশনীঃ ৪৫০১, ইসলামিক ফাউন্ডেশনঃ ৪৫০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, চন্দ্র দু’ খন্ডে খন্ডিত হয়েছিল। [৩৬৩৭] (আধুনিক প্রকাশনীঃ ৪৫০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4868</td></tr><tr><td>Arabic No</td><td>4868</td></tr><tr><td>Reference</td><td>Book 65 Hadith 389</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (பின் மாலிக் -ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களது காலத்தில்) சந்திரன் இரண்டு துண்டுகளாகப் பிளந்தது. அத்தியாயம் : 65
+அனஸ் (பின் மாலிக் -ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களது காலத்தில்) சந்திரன் இரண்டு துண்டுகளாகப் பிளந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4868</td></tr><tr><td>Arabic No</td><td>4868</td></tr><tr><td>Reference</td><td>Book 65 Hadith 389</td></tr></tbody></table></div>
 

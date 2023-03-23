@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ‘আমির (রহঃ) ..... আমর ইবন শু'আয়ব (রহঃ) তাঁর পিতা হতে এবং তিনি তাঁর দাদা সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেছেন।
+। ‘আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতার ও তার দাদার সূত্রে নবী থেকে উপরের হাদীসের অনুরূপ বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2908</td></tr><tr><td>Arabic No</td><td>2908</td></tr><tr><td>Reference</td><td>Book 19 Hadith 24</td></tr></tbody></table></div>
 

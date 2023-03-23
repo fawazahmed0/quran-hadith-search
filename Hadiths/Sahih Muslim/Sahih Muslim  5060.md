@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৯৫৪, আন্তর্জাতিক নাম্বারঃ ১৯৫৭ ৪৯৫৪-(.../...) মুহাম্মাদ ইবনু জাফার ও আবদুর রহমান ইবনু মাহদী উভয়ে শু'বাহ হতে উল্লেখিত ধারাবাহিকতায় উপরের হাদীসের অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন, নেই, ইসলামিক সেন্টার ৪৯০৪)
+মুহাম্মাদ ইবনু জাফার ও আবদুর রহমান ইবনু মাহদী উভয়ে শু'বাহ হতে উল্লেখিত ধারাবাহিকতায় উপরের হাদীসের অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন, নেই, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5060</td></tr><tr><td>Arabic No</td><td>1957.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 89</td></tr></tbody></table></div>
 

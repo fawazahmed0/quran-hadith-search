@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হাসান .... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ তোমাদের কেউ যেন নামায আদায়ের সময় তার জুতা ডান অথবা বামদিকে না রাখে। অবশ্য তার বামদিকে যদি কোন লোক না থাকে তবে সেখানে রাখতে পারে। তবে জুতাদ্বয় স্বীয় পদদ্বয়ের মধ্যবর্তী স্থানে রাখাই বাঞ্চনীয়।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যেন সালাত আদায়কালে জুতা খুলে তার ডান পাশে ও বাম পাশে না রাখে। কারণ তা অন্যের ডান পাশে হবে। অবশ্য বাম পাশে কেউ না থাকলে (রাখতে পারবে)। তবে জুতাজোড়া উভয় পায়ের মধ্যখানে রাখাই শ্রেয়।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>654</td></tr><tr><td>Arabic No</td><td>654</td></tr><tr><td>Reference</td><td>Book 2 Hadith 264</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Al-Hasan bin Ali] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Sizden bîriniz namaz kılmak istediği zaman ayakkabılarını sağına veya soluna koymasın. Çünkü onun solu başka bir kimsenin sağı olur. Ancak solunda hiç bir kimsenin bulunmaması hali müstesna (o zaman soluna koyabilir). (Şayet solunda da birisi varsa o zaman onları) ayaklarının arasına koysun. Diğer tahric: el-Hakim, el-Müstedrek, I, 259; el-Beyhakî, es-Sünenu'I-kübra, II, 432
+Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Sizden bîriniz namaz kılmak istediği zaman ayakkabılarını sağına veya soluna koymasın. Çünkü onun solu başka bir kimsenin sağı olur. Ancak solunda hiç bir kimsenin bulunmaması hali müstesna (o zaman soluna koyabilir). (Şayet solunda da birisi varsa o zaman onları) ayaklarının arasına koysun. Diğer tahric: el-Hakim, el-Müstedrek, I, 259; el-Beyhakî, es-Sünenu'I-kübra, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>654</td></tr><tr><td>Arabic No</td><td>654</td></tr><tr><td>Reference</td><td>Book 2 Hadith 264</td></tr></tbody></table></div>
 

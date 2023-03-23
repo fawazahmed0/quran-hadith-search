@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ مَا أَدْرَكْتُمْ فَصَلُّوا وَمَا فَاتَكُمْ فَأَتِمُّوا قَالَهُ أَبُو قَتَادَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم. তিনি বলেন, তোমরা ইমামের সাথে যতটুকু সালাত পাও তা আদায় করবে, আর তোমাদের যা ছুটে যায় তা (ইমামের সালাম ফিরানোর পর) পুরা করে নিবে। আবু ক্বাতাদাহ্ (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এ কথা বর্ণনা করেছেন। ৬৩৬. আবূ হুরাইরাহ্ (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, যখন তোমরা ইক্বামাত(ইকামত/একামত) শুনতে পাবে, তখন সালাতের দিকে চলে আসবে, তোমাদের উচিত স্থিরতা ও গাম্ভীর্য অবলম্বন করা। তাড়াহুড়া করবে না। ইমামের সাথে যতটুকু পাও তা আদায় করবে, আর যা ছুটে যায় তা পূর্ণ করবে। (৯০৮; মুসলিম ৫/২৯, হাঃ ৬০৪, আহমাদ ২২৭১২) (আধুনিক প্রকাশনীঃ ৬০০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>636</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 10 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (கூட்டுத் தொழுகைக்காக) ‘இகாமத்’ சொல்வதை நீங்கள் செவியுற்றால் தொழுகைக்கு(ச் சாதாரணமாக) நடந்தே செல்லுங்கள். அப்போது நிதானத்தையும் கண்ணியத்தையும் கடைப்பிடியுங்கள். (அவசரப்பட்டு) ஓடிச் செல்லாதீர்கள். (இமாமுடன்) உங்களுக்குக் கிடைத்த (ரக்அத்)தைத் தொழுங்கள்; உங்களுக்குத் தவறிப்போனதை (பின்னர்) நிறைவு செய்யுங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 10
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (கூட்டுத் தொழுகைக்காக) ‘இகாமத்’ சொல்வதை நீங்கள் செவியுற்றால் தொழுகைக்கு(ச் சாதாரணமாக) நடந்தே செல்லுங்கள். அப்போது நிதானத்தையும் கண்ணியத்தையும் கடைப்பிடியுங்கள். (அவசரப்பட்டு) ஓடிச் செல்லாதீர்கள். (இமாமுடன்) உங்களுக்குக் கிடைத்த (ரக்அத்)தைத் தொழுங்கள்; உங்களுக்குத் தவறிப்போனதை (பின்னர்) நிறைவு செய்யுங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>636</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 10 Hadith 33</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Kameti duyduğunuz vakit namaz'a gidiniz! Giderken vakur biçimde yürüyünüz. Acele etmeyiniz! Yetiştiğiniz kadarını kılınız, yetişemediklerinizi ise sonra tamamlayınız! Tekrar: 908
+Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Kameti duyduğunuz vakit namaz'a gidiniz! Giderken vakur biçimde yürüyünüz. Acele etmeyiniz! Yetiştiğiniz kadarını kılınız, yetişemediklerinizi ise sonra tamamlayınız! Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>636</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 10 Hadith 33</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ (রহঃ) .... আবদুল্লাহ ইবন আমর ইবন আস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্রেতা-বিক্রেতা বিচ্ছিন্ন না হওয়া পর্যন্ত তাদের উক্ত ব্যাপারে ইখতিয়ার থাকবে। তবে যদি কোন শর্ত সাপেক্ষে ক্রয়-বিক্রয় হয়ে থাকে, তবে ক্রেতা-বিক্রেতা বিচ্ছিন্ন হওয়ার পরও নির্দিষ্ট সময় পর্যন্ত ইখতিয়ার থাকবে। ক্রেতা বা বিক্রেতার এরূপ করা উচিত হবে না যে, বিক্রীত বস্তু ফেরত দিতে হবে এ ভয়ে একজন অপরজন থেকে বিচ্ছিন্ন হয়ে দ্রুত চলে যাবে।
+। ‘আব্দুল্লাহ ইবনু আমর ইবনুল আস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ পরস্পর বিচ্ছিন্ন হওয়ার পর্ব পর্যন্ত ক্রেতা-বিক্রেতা উভয়ের জন্য (ক্রয়-বিক্রয় প্রত্যাখ্যানের) অবকাশ থাকে, তবে পরবর্তীতেও এ অবকাশ বহাল রাখলে ভিন্ন কথা। আর ক্রেতা বা বিক্রেতার একজন অপরজন থেকে (বিক্রয় প্রত্যাখ্যান হওয়ার আশংকায়) দ্রুত পৃথক হওয়া উচিত নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>3456</td></tr><tr><td>Reference</td><td>Book 24 Hadith 41</td></tr></tbody></table></div>
 

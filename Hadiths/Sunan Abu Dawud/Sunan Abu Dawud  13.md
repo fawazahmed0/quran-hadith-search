@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু বাশশার .... জাবের ইবনু আবদুল্লাহ্ (রাঃ) হতে বর্ণিত তিনি বলেছেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কিবলার দিকে মুখ করে পেশাব করতে নিষেধ করেছেন। অথচ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ইন্তেকালের এক বছর পূর্বে আমি তাকে কিবলার দিকে মুখ করে পেশাব করতে দেখেছি। (তিরমিযী, ইবনু মাজাহ)।
+। জাবির ইবনু ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আল্লাহর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কিবলামুখী হয়ে পেশাব করতে নিষেধ করেছেন। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর ইন্তিকালের এক বছর পূর্বে কিবলামুখী হয়ে পেশাব-পায়খানা করতে দেখেছি।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাস‘ঊদ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন লোকের মৃত্যুর কারণে কখনো সূর্যগ্রহণ বা চন্দ্রগ্রহণ হয় না। তবে তা আল্লাহর নিদর্শনসমূহের মধ্যে দু’টি নিদর্শন। তাই তোমরা যখন সূর্যগ্রহণ বা চন্দ্রগ্রহণ হতে দেখবে, তখন দাঁড়িয়ে যাবে এবং সালাত আদায় করবে। (১০৫৭, ৩২০৪; মুসলিম ১০/৫, হাঃ ৯১১, আহমাদ ১৭১০) (আধুনিক প্রকাশনীঃ ৯৭৮, ইসলামিক ফাউন্ডেশনঃ ৯৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাস‘ঊদ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন লোকের মৃত্যুর কারণে কখনো সূর্যগ্রহণ বা চন্দ্রগ্রহণ হয় না। তবে তা আল্লাহর নিদর্শনসমূহের মধ্যে দু’টি নিদর্শন। তাই তোমরা যখন সূর্যগ্রহণ বা চন্দ্রগ্রহণ হতে দেখবে, তখন দাঁড়িয়ে যাবে এবং সালাত আদায় করবে। (১০৫৭, ৩২০৪; মুসলিম ১০/৫, হাঃ ৯১১, আহমাদ ১৭১০) (আধুনিক প্রকাশনীঃ ৯৭৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1041</td></tr><tr><td>Arabic No</td><td>1041</td></tr><tr><td>Reference</td><td>Book 16 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Syihab bin 'Abbad] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மனிதர்களில் யாருடைய இறப்புக்காக வும் சூரிய கிரகணமோ சந்திர கிரகணமோ ஏற்படுவதில்லை. ஆயினும், அவை அல்லாஹ்வின் சான்றுகளில் இரு சான்று களாகும். எனவே, அவற்றை நீங்கள் கண் டால் எழுந்து, (இறையைத்) தொழுங்கள். இதை அபூமஸ்ஊத் (உக்பா பின் அம்ர் - ர-) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 16
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மனிதர்களில் யாருடைய இறப்புக்காக வும் சூரிய கிரகணமோ சந்திர கிரகணமோ ஏற்படுவதில்லை. ஆயினும், அவை அல்லாஹ்வின் சான்றுகளில் இரு சான்று களாகும். எனவே, அவற்றை நீங்கள் கண் டால் எழுந்து, (இறையைத்) தொழுங்கள். இதை அபூமஸ்ஊத் (உக்பா பின் அம்ர் - ர-) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1041</td></tr><tr><td>Arabic No</td><td>1041</td></tr><tr><td>Reference</td><td>Book 16 Hadith 2</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Syihab bin 'Abbad] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Kays, Ebu Mes'ud'dan bizzat duyduğunu ifade ederek şöyle demiştir: "Ebu Mes'ud, Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletti: "Güneş ve ay asla hiç kimsenin ölümü dolayısıyla tutulmaz. Bu tutulmalar Allah'ın birer ayetidir. Güneşin ve ay'ın tutulduğunu görürseniz kalkın ve namaz kılın! Tekrar: 1057, 3204
+Kays, Ebu Mes'ud'dan bizzat duyduğunu ifade ederek şöyle demiştir: "Ebu Mes'ud, Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletti: "Güneş ve ay asla hiç kimsenin ölümü dolayısıyla tutulmaz. Bu tutulmalar Allah'ın birer ayetidir. Güneşin ve ay'ın tutulduğunu görürseniz kalkın ve namaz kılın! Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1041</td></tr><tr><td>Arabic No</td><td>1041</td></tr><tr><td>Reference</td><td>Book 16 Hadith 2</td></tr></tbody></table></div>
 

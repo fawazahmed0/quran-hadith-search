@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৫০১। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন শরীক অপর শরীকের আগে ক্রয় করলে সেই ক্ষেত্রে শুফ‘আর দাবি করা যাবে না এবং নাবালেগ ও অনুপস্থিত ব্যক্তির অনুকূলে শুফ‘আর দাবি বর্তায় না।
+। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন শরীক অপর শরীকের আগে ক্রয় করলে সেই ক্ষেত্রে শুফ‘আর দাবি করা যাবে না এবং নাবালেগ ও অনুপস্থিত ব্যক্তির অনুকূলে শুফ‘আর দাবি বর্তায় না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2501</td></tr><tr><td>Arabic No</td><td>2501</td></tr><tr><td>Reference</td><td>Book 17 Hadith 11</td></tr></tbody></table></div>
 

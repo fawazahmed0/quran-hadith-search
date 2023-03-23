@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিকেলের খাবার পরিবেশন করা হলে মাগরিবের সালাতের পূর্বে তা খেয়ে নিবে খাওয়া রেখে সালাতে তাড়াহুড়া করবে না। (৫৪৬৩; মুসলিম ৫/১৬, হাঃ ৫৫৭) (আধুনিক প্রকাশনীঃ ৬৩২, ইসলামিক ফাউন্ডেশনঃ ৬৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিকেলের খাবার পরিবেশন করা হলে মাগরিবের সালাতের পূর্বে তা খেয়ে নিবে খাওয়া রেখে সালাতে তাড়াহুড়া করবে না। (৫৪৬৩; মুসলিম ৫/১৬, হাঃ ৫৫৭) (আধুনিক প্রকাশনীঃ ৬৩২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 10 Hadith 66</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் மஃக்ரிப் தொழுகை தொழுவ தற்குமுன் உங்களுக்கு முன்னால் உணவு வைக்கப்படுமானால் முத-ல் உணவை உண்ணுங்கள். உங்களது உணவை விடுத்து (தொழுகைக்காக) நீங்கள் அவசரப்பட வேண்டாம். இதை அனஸ் பின் மா-க் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் மஃக்ரிப் தொழுகை தொழுவ தற்குமுன் உங்களுக்கு முன்னால் உணவு வைக்கப்படுமானால் முத-ல் உணவை உண்ணுங்கள். உங்களது உணவை விடுத்து (தொழுகைக்காக) நீங்கள் அவசரப்பட வேண்டாம். இதை அனஸ் பின் மா-க் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 10 Hadith 66</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik, Resûlullah Sallallahu Aleyhi ve Sellem'im şöyle buyurduğunu nakletmiştir: "Akşam yemeğiniz hazırlanıp size takdim edildiği zaman akşam na mazını kılmadan önce yemeğinizi yeyin. Yemeğinizi aceleye getirip ihtiyacınızı gidermeden kalkmayın. Tekrar: 5463
+Enes İbn Malik, Resûlullah Sallallahu Aleyhi ve Sellem'im şöyle buyurduğunu nakletmiştir: "Akşam yemeğiniz hazırlanıp size takdim edildiği zaman akşam na mazını kılmadan önce yemeğinizi yeyin. Yemeğinizi aceleye getirip ihtiyacınızı gidermeden kalkmayın. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 10 Hadith 66</td></tr></tbody></table></div>
 

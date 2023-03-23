@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: আয় আল্লাহ্! আখিরাতের জীবনই সত্যিকারের জীবন। কাজেই আপনি আনসার আর মুহাজিরদের কল্যাণ করুন। [২৮৩৪] (আধুনিক প্রকাশনী- ৫৯৬৫, ইসলামিক ফাউন্ডেশন- ৫৯৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: আয় আল্লাহ্! আখিরাতের জীবনই সত্যিকারের জীবন। কাজেই আপনি আনসার আর মুহাজিরদের কল্যাণ করুন। [২৮৩৪] (আধুনিক প্রকাশনী- ৫৯৬৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6413</td></tr><tr><td>Arabic No</td><td>6413</td></tr><tr><td>Reference</td><td>Book 81 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: (அகழ்ப் போருக்காக அகழ் தோண் டிக்கொண்டிருந்தபோது) நபி (ஸல்) அவர்கள், “இறைவா!மறுமை வாழ்வேவாழ்வாகும்.ஆகவே, (அதற்காக உழைக்கும்அன்சாரிகளையும் முஹாஜிர்களையும்செம்மைப்படுத்துவாயாக!” என்று (பாடியபடி) சொன்னார்கள்.3 அத்தியாயம் : 81
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: (அகழ்ப் போருக்காக அகழ் தோண் டிக்கொண்டிருந்தபோது) நபி (ஸல்) அவர்கள், “இறைவா!மறுமை வாழ்வேவாழ்வாகும்.ஆகவே, (அதற்காக உழைக்கும்அன்சாரிகளையும் முஹாஜிர்களையும்செம்மைப்படுத்துவாயாக!” என்று (பாடியபடி) சொன்னார்கள்.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6413</td></tr><tr><td>Arabic No</td><td>6413</td></tr><tr><td>Reference</td><td>Book 81 Hadith 2</td></tr></tbody></table></div>
 

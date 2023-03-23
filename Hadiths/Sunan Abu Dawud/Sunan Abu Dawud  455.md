@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল আলা ..... আয়িশা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম পাড়ায় পাড়ায় মসজিদ নির্মাণের নির্দেশ দেন এবং তা পবিত্র, সুগন্ধিযুক্ত ও পরিস্কার-পরিচ্ছন্ন রাখারও নির্দেশ দেন। (ইবনু মাজাহ, তিরমিযী)।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পাড়ায় পাড়ায় মাসজিদ নির্মাণ করার এবং তা পরিচ্ছন্ন ও সুগন্ধিময় রাখার নির্দেশ দিয়েছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>455</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 2 Hadith 65</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha) şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) mahallelerde (veya evlerde) mescidler yapılmasını oraların temiz tutulmasını ve güzel kokular sürülmesini emretti. Diğer tahric: Tirmizi, Cum'a; ibn Mace, Mesacid; Ahmed b. Hanbel, IV 279
+Aişe (r.anha) şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) mahallelerde (veya evlerde) mescidler yapılmasını oraların temiz tutulmasını ve güzel kokular sürülmesini emretti. Diğer tahric: Tirmizi, Cum'a; ibn Mace, Mesacid; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>455</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 2 Hadith 65</td></tr></tbody></table></div>
 

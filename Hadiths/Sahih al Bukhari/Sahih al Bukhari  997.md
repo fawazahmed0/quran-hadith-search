@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (রাতে) সালাত আদায় করতেন, তখন আমি তাঁর বিছানায় আড়াআড়িভাবে ঘুমিয়ে থাকতাম। অতঃপর তিনি যখন বিতর পড়ার ইচ্ছা করতেন, তখন আমাকে জাগিয়ে দিতেন এবং আমিও বিতর আদায় করে নিতাম। (৩৮২) (আধুনিক প্রকাশনীঃ ৯৩৮, ইসলামিক ফাউন্ডেশনঃ ৯৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (রাতে) সালাত আদায় করতেন, তখন আমি তাঁর বিছানায় আড়াআড়িভাবে ঘুমিয়ে থাকতাম। অতঃপর তিনি যখন বিতর পড়ার ইচ্ছা করতেন, তখন আমাকে জাগিয়ে দিতেন এবং আমিও বিতর আদায় করে নিতাম। (৩৮২) (আধুনিক প্রকাশনীঃ ৯৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>997</td></tr><tr><td>Arabic No</td><td>997</td></tr><tr><td>Reference</td><td>Book 14 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களின் விரிப்பில் குறுக்கே உறங்கிக்கொண்டிருக்க, நபி (ஸல்) அவர்கள் (இரவுத் தொழுகை) தொழுதுகொண்டிருப்பார்கள். அவர்கள் வித்ர் தொழுகை தொழ எண்ணும்போது என்னைத் துயிலெழுப்புவார்கள். உடனே நானும் (எழுந்து) வித்ர் தொழுவேன்.4 அத்தியாயம் : 14
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களின் விரிப்பில் குறுக்கே உறங்கிக்கொண்டிருக்க, நபி (ஸல்) அவர்கள் (இரவுத் தொழுகை) தொழுதுகொண்டிருப்பார்கள். அவர்கள் வித்ர் தொழுகை தொழ எண்ணும்போது என்னைத் துயிலெழுப்புவார்கள். உடனே நானும் (எழுந்து) வித்ர் தொழுவேன்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>997</td></tr><tr><td>Arabic No</td><td>997</td></tr><tr><td>Reference</td><td>Book 14 Hadith 8</td></tr></tbody></table></div>
 

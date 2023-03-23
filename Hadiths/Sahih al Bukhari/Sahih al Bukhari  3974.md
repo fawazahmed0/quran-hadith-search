@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হিশামের পিতা (‘উরওয়াহ) (রহ.) হতে বর্ণিত যে, যুবায়র (রাঃ)-এর তরবারি রৌপ্যের কারুকার্য মন্ডিত ছিল। হিশাম (রহ.) বলেন, ‘উরওয়াহ (রহ.)-এর তরবারিটিও রৌপ্যের কারুকার্য মন্ডিত ছিল। (আধুনিক প্রকাশনীঃ ৩৬৮২, ইসলামিক ফাউন্ডেশনঃ ৩৬৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হিশামের পিতা (‘উরওয়াহ) (রহ.) হতে বর্ণিত যে, যুবায়র (রাঃ)-এর তরবারি রৌপ্যের কারুকার্য মন্ডিত ছিল। হিশাম (রহ.) বলেন, ‘উরওয়াহ (রহ.)-এর তরবারিটিও রৌপ্যের কারুকার্য মন্ডিত ছিল। (আধুনিক প্রকাশনীঃ ৩৬৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3974</td></tr><tr><td>Arabic No</td><td>3974</td></tr><tr><td>Reference</td><td>Book 64 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Hisham:That his father said, "The sword of Az-Zubair was decorated with
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா (ரஹ்) அவர்கள் கூறியதாவது: (என் தந்தை) ஸுபைர் (ரலி) அவர்களின் வாள் வெள்ளியால் வேலைப்பாடு செய்யப்பட்டிருந்தது. அறிவிப்பாளர் ஹிஷாம் பின் உர்வா (ரஹ்) அவர்கள் கூறினார்கள்: (என் தந்தை) உர்வா (ரஹ்) அவர்களின் வாள் வெள்ளியால் வேலைப்பாடு செய்யப்பட்டிருந்தது. அத்தியாயம் : 64
+உர்வா (ரஹ்) அவர்கள் கூறியதாவது: (என் தந்தை) ஸுபைர் (ரலி) அவர்களின் வாள் வெள்ளியால் வேலைப்பாடு செய்யப்பட்டிருந்தது. அறிவிப்பாளர் ஹிஷாம் பின் உர்வா (ரஹ்) அவர்கள் கூறினார்கள்: (என் தந்தை) உர்வா (ரஹ்) அவர்களின் வாள் வெள்ளியால் வேலைப்பாடு செய்யப்பட்டிருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3974</td></tr><tr><td>Arabic No</td><td>3974</td></tr><tr><td>Reference</td><td>Book 64 Hadith 27</td></tr></tbody></table></div>
 

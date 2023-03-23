@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮/৩৯৭৪। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর স্ত্রী উম্মু হাবীবা (রাঃ) থেকে বর্ণিত। নবী রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সৎ কাজের আদেশ, অসৎ কাজের নিষেধ এবং মহান আল্লাহর যিনিক ব্যতীত মানুষের প্রতিটি কথা তার জন্য ক্ষতির কারণ হবে।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর স্ত্রী উম্মু হাবীবা (রাঃ) থেকে বর্ণিত। নবী রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সৎ কাজের আদেশ, অসৎ কাজের নিষেধ এবং মহান আল্লাহর যিনিক ব্যতীত মানুষের প্রতিটি কথা তার জন্য ক্ষতির কারণ হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3974</td></tr><tr><td>Arabic No</td><td>3974</td></tr><tr><td>Reference</td><td>Book 36 Hadith 49</td></tr></tbody></table></div>
 

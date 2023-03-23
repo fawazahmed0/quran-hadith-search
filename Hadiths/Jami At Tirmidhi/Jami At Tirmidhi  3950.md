@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৯৫০। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সেই সত্তার কসম, যার হাতে মুহাম্মাদের জীবন! গিফার, আসলাম ও মুযাইনাহ গোত্র এবং যারা জুহাইনাহ গোত্রীয় এবং মুযাইনাহ গোত্রীয়, তারা কিয়ামতের দিন আল্লাহ তা'আলার কাছে অবশ্যই আসাদ, তাঈ ও গাতাফান গোত্রের তুলনায় ভাল বিবেচিত হবে। সহীহঃ সহীহাহ (৩২১২), বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সেই সত্তার কসম, যার হাতে মুহাম্মাদের জীবন! গিফার, আসলাম ও মুযাইনাহ গোত্র এবং যারা জুহাইনাহ গোত্রীয় এবং মুযাইনাহ গোত্রীয়, তারা কিয়ামতের দিন আল্লাহ তা'আলার কাছে অবশ্যই আসাদ, তাঈ ও গাতাফান গোত্রের তুলনায় ভাল বিবেচিত হবে। সহীহঃ সহীহাহ (৩২১২), বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 49 Hadith 350</td></tr></tbody></table></div>
 

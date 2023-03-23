@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মশকের মুখ থেকে পানি পান করতে নিষেধ করেছেন। [২৪৬৩] (আধুনিক প্রকাশনী- ৫২১৭, ইসলামিক ফাউন্ডেশন- ৫১১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মশকের মুখ থেকে পানি পান করতে নিষেধ করেছেন। [২৪৬৩] (আধুনিক প্রকাশনী- ৫২১৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5628</td></tr><tr><td>Arabic No</td><td>5628</td></tr><tr><td>Reference</td><td>Book 74 Hadith 54</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'i
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தண்ணீர் தோல் பையின் வாய்ப் பகுதியிலிருந்து (தண்ணீர்) அருந்த வேண்டாமெனத் தடை விதித்தார்கள். அத்தியாயம் : 74
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தண்ணீர் தோல் பையின் வாய்ப் பகுதியிலிருந்து (தண்ணீர்) அருந்த வேண்டாமெனத் தடை விதித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5628</td></tr><tr><td>Arabic No</td><td>5628</td></tr><tr><td>Reference</td><td>Book 74 Hadith 54</td></tr></tbody></table></div>
 

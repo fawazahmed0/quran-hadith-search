@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, একদা আমি আমার খালা মায়মুনা (রাযি.)-এর ঘরে রাত কাটালাম। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘ইশার সালাত আদায় করে আসলেন এবং চার রাক‘আত সালাত আদায় করে শুয়ে পড়লেন। কিছুক্ষণ পর উঠে সালাতে দাঁড়ালেন। তখন আমিও তাঁর বামপাশে দাঁড়ালাম। তিনি আমাকে তাঁর ডানপাশে নিয়ে নিলেন এবং পাঁচ রাক‘আত সালাত আদায় করলেন। অতঃপর আরও দু’রাক‘আত সালাত আদায় করে নিদ্রা গেলেন। এমনকি আমি তাঁর নাক ডাকার শব্দ শুনতে পেলাম। তারপর তিনি (ফজরের) সালাতের জন্য বের হলেন। (১১৭) (আধুনিক প্রকাশনীঃ ৬৫৫, ইসলামিক ফাউন্ডেশনঃ ৬৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, একদা আমি আমার খালা মায়মুনা (রাযি.)-এর ঘরে রাত কাটালাম। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘ইশার সালাত আদায় করে আসলেন এবং চার রাক‘আত সালাত আদায় করে শুয়ে পড়লেন। কিছুক্ষণ পর উঠে সালাতে দাঁড়ালেন। তখন আমিও তাঁর বামপাশে দাঁড়ালাম। তিনি আমাকে তাঁর ডানপাশে নিয়ে নিলেন এবং পাঁচ রাক‘আত সালাত আদায় করলেন। অতঃপর আরও দু’রাক‘আত সালাত আদায় করে নিদ্রা গেলেন। এমনকি আমি তাঁর নাক ডাকার শব্দ শুনতে পেলাম। তারপর তিনি (ফজরের) সালাতের জন্য বের হলেন। (১১৭) (আধুনিক প্রকাশনীঃ ৬৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>697</td></tr><tr><td>Arabic No</td><td>697</td></tr><tr><td>Reference</td><td>Book 10 Hadith 92</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் என் சிறிய தாயார் மைமூனா (ரலி) அவர்களின் வீட்டில் ஓர் இரவில் தங்கினேன். (அன்றிரவு) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (பள்ளிவாச-ல்) இஷா தொழுகை தொழுதுவிட்டு (வீட்டிற்கு) வந்து நான்கு ரக்அத்கள் தொழுதார்கள். பிறகு உறங்கினார்கள். பின்னர் எழுந்து (இரவுத் தொழுகைக்காக அங்கத் தூய்மை செய்துவிட்டு) நின்றார்கள். நான் சென்று (அவர்களுடன்) அவர்களுக்கு இடப் பக்கத்தில் நின்று கொண்டேன். அவர்கள் என்னைத் தமக்கு வலப் பக்கத்தில் நிறுத்திவிட்டு ஐந்து ரக்அத்கள் தொழுதார்கள். பின்னர் இரண்டு ரக்அத்கள் தொழுதார்கள். பிறகு அவர்களது குறட்டைச் சப்தத்தை நான் கேட்குமளவுக்கு உறங்கினார்கள். பின்னர் (சுப்ஹு) தொழுகைக்குப் புறப்பட்டுச் சென்றார்கள்33 அத்தியாயம் : 10
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் என் சிறிய தாயார் மைமூனா (ரலி) அவர்களின் வீட்டில் ஓர் இரவில் தங்கினேன். (அன்றிரவு) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (பள்ளிவாச-ல்) இஷா தொழுகை தொழுதுவிட்டு (வீட்டிற்கு) வந்து நான்கு ரக்அத்கள் தொழுதார்கள். பிறகு உறங்கினார்கள். பின்னர் எழுந்து (இரவுத் தொழுகைக்காக அங்கத் தூய்மை செய்துவிட்டு) நின்றார்கள். நான் சென்று (அவர்களுடன்) அவர்களுக்கு இடப் பக்கத்தில் நின்று கொண்டேன். அவர்கள் என்னைத் தமக்கு வலப் பக்கத்தில் நிறுத்திவிட்டு ஐந்து ரக்அத்கள் தொழுதார்கள். பின்னர் இரண்டு ரக்அத்கள் தொழுதார்கள். பிறகு அவர்களது குறட்டைச் சப்தத்தை நான் கேட்குமளவுக்கு உறங்கினார்கள். பின்னர் (சுப்ஹு) தொழுகைக்குப் புறப்பட்டுச் சென்றார்கள்33 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>697</td></tr><tr><td>Arabic No</td><td>697</td></tr><tr><td>Reference</td><td>Book 10 Hadith 92</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: "Bir gece teyzem Meymûne'nin yanında kalmıştım. O gece Resûlullah Sallallahu Aleyhi ve Sellem yatsı namazını kıldırdıktan sonra mescitten evine dönüp dört rek'at daha namaz kılmıştı. Sonra yatıp biraz uyudu ve bir süre sonra uyandı. Abdest alıp namaz kılmaya başladı. Ben de onunla birlikte kalktım ve sol tarafına geçip namazda kendisine uydum. Bunun üzerine beni tutup sağ tarafına geçirdi. Bu şekilde beş rekat namaz kıldı ve ardından iki rekat daha kılıp yattı. Uykuya daldığında horlamasını bile işitmiştim. Sonra kalktı ve namazı kıldırmak üzere mescide geçti. Tekrar: 117
+İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: "Bir gece teyzem Meymûne'nin yanında kalmıştım. O gece Resûlullah Sallallahu Aleyhi ve Sellem yatsı namazını kıldırdıktan sonra mescitten evine dönüp dört rek'at daha namaz kılmıştı. Sonra yatıp biraz uyudu ve bir süre sonra uyandı. Abdest alıp namaz kılmaya başladı. Ben de onunla birlikte kalktım ve sol tarafına geçip namazda kendisine uydum. Bunun üzerine beni tutup sağ tarafına geçirdi. Bu şekilde beş rekat namaz kıldı ve ardından iki rekat daha kılıp yattı. Uykuya daldığında horlamasını bile işitmiştim. Sonra kalktı ve namazı kıldırmak üzere mescide geçti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>697</td></tr><tr><td>Arabic No</td><td>697</td></tr><tr><td>Reference</td><td>Book 10 Hadith 92</td></tr></tbody></table></div>
 

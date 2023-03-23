@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জুনদব (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ তোমাদের পূর্বেই আমি হাউযে পৌঁছব। [মুসলিম ৪৩/৯, হাঃ ২২৮৯, আহমাদ ১৮৮৩২] (আধুনিক প্রকাশনী- ৬১৩০, ইসলামিক ফাউন্ডেশন- ৬১৩৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জুনদব (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ তোমাদের পূর্বেই আমি হাউযে পৌঁছব। [মুসলিম ৪৩/৯, হাঃ ২২৮৯, আহমাদ ১৮৮৩২] (আধুনিক প্রকাশনী- ৬১৩০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6589</td></tr><tr><td>Arabic No</td><td>6589</td></tr><tr><td>Reference</td><td>Book 81 Hadith 177</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Jundab:I heard the Prophet, saying, "I am your predecessor at the Lake-
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நான் உங்களுக்கு முன்பே (‘அல் கவ்ஸர்’) தடாகத்திற்குச் சென்று (நீர் புகட்டக்) காத்திருப்பேன்.156 இதை ஜுன்தப் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 81
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நான் உங்களுக்கு முன்பே (‘அல் கவ்ஸர்’) தடாகத்திற்குச் சென்று (நீர் புகட்டக்) காத்திருப்பேன்.156 இதை ஜுன்தப் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6589</td></tr><tr><td>Arabic No</td><td>6589</td></tr><tr><td>Reference</td><td>Book 81 Hadith 177</td></tr></tbody></table></div>
 

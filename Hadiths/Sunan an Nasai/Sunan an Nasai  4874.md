@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইসহাক ইবন ইবরাহীম (রহঃ) ... নু'মান ইবন বাশীর (রাঃ) থেকে বর্ণিত। কয়েকজন কালায়ী গোত্রের লোক তার নিকট এসে বললোঃ কতিপয় তাঁতী আমাদের মালপত্র চুরি করেছে। তিনি কয়েকদিন তাদেরকে বন্দি করে রেখে ছেড়ে দেন। কালায়ী লোকেরা তাঁর নিকট এসে বললোঃ আপনি ঐ সকল লোককে কোন প্রকার শাস্তি বা পরীক্ষা না করে ছেড়ে দিলেন? নুমান (রাঃ) বললেনঃ তোমরা কী চাও? তোমরা চাইলে আমি তাদের মারব। তারপর যদি তোমাদের মাল তাদের নিকট পাওয়া যায়, তবে তোমরা ভাল, আর তা না হলে, আমি তোমাদের পিঠ থেকে তার প্রতিশোকরধ নেব! তারা বললোঃ এটা কি আপনার আদেশ? তিনি বললেনঃ এটা আল্লাহ্ এবং তাঁর রাসূল এর হুকুম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4874</td></tr><tr><td>Arabic No</td><td>4874</td></tr><tr><td>Reference</td><td>Book 46 Hadith 5</td></tr></tbody></table></div>
 

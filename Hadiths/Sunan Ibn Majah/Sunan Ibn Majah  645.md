@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৬৪৫। উম্মু সালামাহ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই মসজিদের বারান্দায় প্রবেশ করে উচ্ছঃস্বরে ঘোষণা করেন যে, নাপাক ব্যাক্তি ও হায়েযগ্রস্তা নারীর মসজিদে প্রবেশ করা হালাল নয়।
+। উম্মু সালামাহ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই মসজিদের বারান্দায় প্রবেশ করে উচ্ছঃস্বরে ঘোষণা করেন যে, নাপাক ব্যাক্তি ও হায়েযগ্রস্তা নারীর মসজিদে প্রবেশ করা হালাল নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>645</td></tr><tr><td>Arabic No</td><td>645</td></tr><tr><td>Reference</td><td>Book 1 Hadith 379</td></tr></tbody></table></div>
 

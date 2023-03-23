@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহঃ) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ (রাঃ) কুরবানী করার জায়গায় কুরবানী করতেন। উবাইদুল্লাহ বলেনঃ অর্থাৎ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কুরবানী করার জায়গায়। [৯৮২] (আধুনিক প্রকাশনী- ৫১৪৪, ইসলামিক ফাউন্ডেশন- ৫০৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহঃ) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ (রাঃ) কুরবানী করার জায়গায় কুরবানী করতেন। উবাইদুল্লাহ বলেনঃ অর্থাৎ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কুরবানী করার জায়গায়। [৯৮২] (আধুনিক প্রকাশনী- ৫১৪৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5551</td></tr><tr><td>Arabic No</td><td>5551</td></tr><tr><td>Reference</td><td>Book 73 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] telah mencer
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அந்த அறுக்குமிடத்திலேயே, அதாவது நபி (ஸல்) அவர்கள் அறுத்த இடத்திலேயே தமது குர்பானி பிராணி களை அறுத்துவந்தார்கள். அத்தியாயம் : 73
+நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அந்த அறுக்குமிடத்திலேயே, அதாவது நபி (ஸல்) அவர்கள் அறுத்த இடத்திலேயே தமது குர்பானி பிராணி களை அறுத்துவந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5551</td></tr><tr><td>Arabic No</td><td>5551</td></tr><tr><td>Reference</td><td>Book 73 Hadith 7</td></tr></tbody></table></div>
 

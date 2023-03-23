@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী ইব্‌নুল হাসান (রহঃ) .... ছা'লাবা ইব্‌ন আবদুল্লাহ্‌ অথবা (রাবীর সন্দেহ) আবদুল্লাহ্‌ ইব্‌ন ছা'লাবা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম হতে বর্ণনা করেছেন। অপর পক্ষে মুহাম্মাদ ইব্‌ন ইয়াহ্‌ইয়া আন-নিশাপুরী ... আবদুল্লাহ্‌ ইব্‌ন ছালাবা ইব্‌ন সাগীর তাঁর পিতার সূত্রে বর্ণনা করেছেন। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম দাঁড়িয়ে ভাষণ দেওয়ার সময় প্রত্যেক ব্যক্তির জন্য এক সা' খেজুর অথবা এক সা' পরিমান বার্লি সদ্‌কায়ে ফিতর হিসাবে দেয়ার নির্দেশ দেন। রাবী আলী ইব্‌ন হাসানের হাদীছে আরও আছেঃ براوقمح ( উভয় শব্দের অর্থ অভিন্ন)। অতঃপর উভয় রাবী (আলী ইব্‌ন হাসান ও মুহাম্মাদ ইব্‌ন ইয়াহ্‌ইয়া) এক হয়ে বর্ণনা করেছেনঃ ছোট, বড়, স্বাধীন ও ক্রীতদাস সকলের পক্ষ হতে (সদকায়ে ফিতর) আদায় করতে হবে।
+। সা‘লাবাহ ইবনু সু‘আইর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে ভাষণ দানকালে নির্দেশ দিলেন, ফিতরাহ মাথাপিছু এক সা’ যব। ‘আলী ইবনুল হাসান তার বর্ণনায় বলেন, অথবা প্রতি দুইজনে এক সা‘ গম। অতঃপর উভয়ের বর্ণনা একই রকম, ‘প্রত্যেক ছোট, বড়, স্বাধীন এবং গোলামের পক্ষ হতে আদায় করতে হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>1620</td></tr><tr><td>Reference</td><td>Book 9 Hadith 65</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada Kami [Ali bin Al Hasan Ad Darabijirdi], telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Sa'lebe b. Suayr, babasından rivayet ettiğine göre babası şöyle demiştir: Resûlullah (s.a.v.) ayakta hutbe okudu da fıtır sadakasının her şahıs için bir sâ' hurma veya bir sâ' arpa verilmesini emretti. Ali b. Hasan, hadisinde "veya iki kişi için bir sâ buğday" (sözünü) ilâve etti. Sonra (Ali b. Hasan ile Muhammed b. Yahya) "her küçük ve büyük, hür ve köle için... (verilmesini emretti)" sözünde ittifak ettiler. Bu hadis’i şunlar da tahric etti: Dârekutnî, es-Sünen, II, 148; Hâkim, el-Müstedrek, III, 279
+Abdullah b. Sa'lebe b. Suayr, babasından rivayet ettiğine göre babası şöyle demiştir: Resûlullah (s.a.v.) ayakta hutbe okudu da fıtır sadakasının her şahıs için bir sâ' hurma veya bir sâ' arpa verilmesini emretti. Ali b. Hasan, hadisinde "veya iki kişi için bir sâ buğday" (sözünü) ilâve etti. Sonra (Ali b. Hasan ile Muhammed b. Yahya) "her küçük ve büyük, hür ve köle için... (verilmesini emretti)" sözünde ittifak ettiler. Bu hadis’i şunlar da tahric etti: Dârekutnî, es-Sünen, II, 148; Hâkim, el-Müstedrek, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>1620</td></tr><tr><td>Reference</td><td>Book 9 Hadith 65</td></tr></tbody></table></div>
 

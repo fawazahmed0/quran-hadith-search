@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ তার ভাইকে কাফির বললে, তাদের দু’জনের একজনের উপর তা বর্তাবে। [মুসলিম১/২৬, হাঃ ৬০, আহমাদ ৫২৫৯] (আধুনিক প্রকাশনী- ৫৬৬৫, ইসলামিক ফাউন্ডেশন- ৫৫৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ তার ভাইকে কাফির বললে, তাদের দু’জনের একজনের উপর তা বর্তাবে। [মুসলিম১/২৬, হাঃ ৬০, আহমাদ ৫২৫৯] (আধুনিক প্রকাশনী- ৫৬৬৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6104</td></tr><tr><td>Arabic No</td><td>6104</td></tr><tr><td>Reference</td><td>Book 78 Hadith 131</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ismail] katanya; telah menceritakan kepadaku [Ma
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எந்த மனிதர் தம் (முஸ்லிம்) சகோதர ரைப் பார்த்து ‘காஃபிரே!’ (இறைமறுப் பாளனே!) என்று அழைக்கிறாரோ நிச்சயம் அவ்விருவரில் ஒருவர் அச்சொல்லுக்கு உரியவராகத் திரும்புவார். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எந்த மனிதர் தம் (முஸ்லிம்) சகோதர ரைப் பார்த்து ‘காஃபிரே!’ (இறைமறுப் பாளனே!) என்று அழைக்கிறாரோ நிச்சயம் அவ்விருவரில் ஒருவர் அச்சொல்லுக்கு உரியவராகத் திரும்புவார். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6104</td></tr><tr><td>Arabic No</td><td>6104</td></tr><tr><td>Reference</td><td>Book 78 Hadith 131</td></tr></tbody></table></div>
 

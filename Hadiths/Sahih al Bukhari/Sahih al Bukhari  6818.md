@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিছানা যার সন্তান তার আর যেনাকারীর জন্য পাথর। [৬৭৫০] (আধুনিক প্রকাশনী- ৬৩৪৮, ইসলামিক ফাউন্ডেশন- ৬৩৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিছানা যার সন্তান তার আর যেনাকারীর জন্য পাথর। [৬৭৫০] (আধুনিক প্রকাশনী- ৬৩৪৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6818</td></tr><tr><td>Arabic No</td><td>6818</td></tr><tr><td>Reference</td><td>Book 86 Hadith 46</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு தாய் எவருடைய அதிகாரத்தில் இருந்தபோது குழந்தை பெற்றெடுத் தாளோ அவருக்கே குழந்தை உரியது. விபசாரம் புரிந்தவனுக்கு இழப்பு (தண்டனை)தான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.35 அத்தியாயம் : 86
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு தாய் எவருடைய அதிகாரத்தில் இருந்தபோது குழந்தை பெற்றெடுத் தாளோ அவருக்கே குழந்தை உரியது. விபசாரம் புரிந்தவனுக்கு இழப்பு (தண்டனை)தான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.35 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6818</td></tr><tr><td>Arabic No</td><td>6818</td></tr><tr><td>Reference</td><td>Book 86 Hadith 46</td></tr></tbody></table></div>
 

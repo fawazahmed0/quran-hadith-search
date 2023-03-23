@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২২৮, আন্তর্জাতিক নাম্বারঃ ১৯২১ ৭২২৮-(৮১/...) হারমালাহ ইবনু ইয়াহইয়া (রহঃ) ..... ‘আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ইয়াহুদী সম্প্রদায় তোমাদের সঙ্গে লড়াইয়ে লিপ্ত হবে। তারপর তোমরা তাদের উপর জয়ী হবে। এমনকি পাথর বলে উঠবে, 'হে মুসলিম! এই তো ইয়াহুদী আমার পিছনে আছে, তুমি তাকে হত্যা কর।' (ইসলামিক ফাউন্ডেশন ৭০৭৪, ইসলামিক সেন্টার ৭১২৮)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7338</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

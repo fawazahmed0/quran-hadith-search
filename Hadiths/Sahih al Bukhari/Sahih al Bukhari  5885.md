@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঐ সব পুরুষকে লা’নত করেছেন যারা নারীর বেশ ধরে এবং ঐসব নারীকে যারা পুরুষের বেশ ধরে। (আধুনিক প্রকাশনী- ৫৪৫৭, ইসলামিক ফাউন্ডেশন- ৫৩৫৩) ‘আমরও এরকমই বর্ণনা করেছেন। আমাদের কাছে শু‘য়বা এ সংবাদ দিয়েছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5885</td></tr><tr><td>Arabic No</td><td>5885</td></tr><tr><td>Reference</td><td>Book 77 Hadith 102</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஆண்களில் பெண்களைப் போன்று ஒப்பனை செய்துகொள்பவர்களையும், பெண்களில் ஆண்களைப் போன்று ஒப்பனை செய்துகொள்பவர்களையும் சபித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 77
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஆண்களில் பெண்களைப் போன்று ஒப்பனை செய்துகொள்பவர்களையும், பெண்களில் ஆண்களைப் போன்று ஒப்பனை செய்துகொள்பவர்களையும் சபித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5885</td></tr><tr><td>Arabic No</td><td>5885</td></tr><tr><td>Reference</td><td>Book 77 Hadith 102</td></tr></tbody></table></div>
 

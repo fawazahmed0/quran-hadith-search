@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا এ আয়াতটি দু‘আ সম্পর্কে অবতীর্ণ হয়েছে। [৬৩২৭, ৭৫২৬] (আধুনিক প্রকাশনীঃ ৪৩৬২, ইসলামিক ফাউন্ডেশনঃ ৪৩৬৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا এ আয়াতটি দু‘আ সম্পর্কে অবতীর্ণ হয়েছে। [৬৩২৭, ৭৫২৬] (আধুনিক প্রকাশনীঃ ৪৩৬২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4723</td></tr><tr><td>Arabic No</td><td>4723</td></tr><tr><td>Reference</td><td>Book 65 Hadith 245</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Thalq bin Ghannam] Telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: “இந்த (17:110ஆவது) வசனம், பிரார்த்தனை (துஆ எனும் வேண்டுதல்) தொடர்பாக அருளப்பெற்றது” என ஆயிஷா (ரலி) அவர்கள் கூறினார்கள்.19 அத்தியாயம் : 65
+உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: “இந்த (17:110ஆவது) வசனம், பிரார்த்தனை (துஆ எனும் வேண்டுதல்) தொடர்பாக அருளப்பெற்றது” என ஆயிஷா (ரலி) அவர்கள் கூறினார்கள்.19 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4723</td></tr><tr><td>Arabic No</td><td>4723</td></tr><tr><td>Reference</td><td>Book 65 Hadith 245</td></tr></tbody></table></div>
 

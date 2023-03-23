@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বুরদাহ (রহ.)-এর পিতা ‘আবদুল্লাহ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তীর নিয়ে আমাদের মাসজিদ অথবা বাজার দিয়ে চলে সে যেন তার ফলা হাত দিয়ে ধরে রাখে, যাতে করে তার হাতে কোন মুসলিম আঘাতপ্রাপ্ত না হয়। (৭০৭৫) (আধুনিক প্রকাশনীঃ ৪৩৩, ইসলামিক ফাউন্ডেশনঃ ৪৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বুরদাহ (রহ.)-এর পিতা ‘আবদুল্লাহ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তীর নিয়ে আমাদের মাসজিদ অথবা বাজার দিয়ে চলে সে যেন তার ফলা হাত দিয়ে ধরে রাখে, যাতে করে তার হাতে কোন মুসলিম আঘাতপ্রাপ্ত না হয়। (৭০৭৫) (আধুনিক প্রকাশনীঃ ৪৩৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>452</td></tr><tr><td>Arabic No</td><td>452</td></tr><tr><td>Reference</td><td>Book 8 Hadith 101</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நம்முடைய பள்ளிவாசல்களிலோ அல்லது கடைவீதிகளிலோ அம்புடன் நடந்து செல்பவர், தமது கையால் அதன் முனையைப் பிடித்து (மறைத்து)க் கொள்ளட்டும்; எந்த முஸ்-மையும் அவர் காயப்படுத்திவிட வேண்டாம்.. இதை அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 8
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நம்முடைய பள்ளிவாசல்களிலோ அல்லது கடைவீதிகளிலோ அம்புடன் நடந்து செல்பவர், தமது கையால் அதன் முனையைப் பிடித்து (மறைத்து)க் கொள்ளட்டும்; எந்த முஸ்-மையும் அவர் காயப்படுத்திவிட வேண்டாம்.. இதை அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>452</td></tr><tr><td>Arabic No</td><td>452</td></tr><tr><td>Reference</td><td>Book 8 Hadith 101</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Bürde babasından Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Camimizin veya pazarımızın bîr bölümünden okla geçen herkes, ok'unun ucuna sahip olsun! Okun ucunu tutmayarak bir müslüman'ı yaralamasın! Tekrar: 7075
+Ebu Bürde babasından Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Camimizin veya pazarımızın bîr bölümünden okla geçen herkes, ok'unun ucuna sahip olsun! Okun ucunu tutmayarak bir müslüman'ı yaralamasın! Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>452</td></tr><tr><td>Arabic No</td><td>452</td></tr><tr><td>Reference</td><td>Book 8 Hadith 101</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন সালিহ সাঈদ ..... ইবনুল মুসাইয়াব (রহঃ) হতে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর একজন সাহাবী উমার ইবনুল খাত্তাব (রাঃ) এর নিকট উপস্থিত হয়ে সাক্ষ্য দেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর মৃত্যুকালীন রোগে আক্রান্ত থাকা অবস্থায় হজ্জের পূর্বে উমরা করা নিষধ করতে শুনেছি।
+। সাঈদ ইবনুল মুসাইয়্যাব (রহ.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর এক সাহাবী ‘উমার ইবনুল খাত্তাব (রাযি.)-এর কাছে উপস্থিত হয়ে সাক্ষ্য দেন যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর মৃত্যুশয্যায় হজের (হজ্জের) পূর্বে ‘উমরা করতে নিষেধ করতে শুনেছেন।[1] দুর্বলঃ যঈফ আল-জামি্‘উস সাগীর (৬০৫১)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 11 Hadith 73</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সব ধরনের অবণ্টিত স্থাবর সম্পত্তির ক্ষেত্রে শুফ‘আহর ফায়সালা দিয়েছেন। এরপর সীমানা নির্ধারণ করে পথ আলাদা করে নেয়া হলে শুফ‘আর অধিকার থাকে না। (২২১৩) (আধুনিক প্রকাশনীঃ ২৩১৭, ইসলামিক ফাউন্ডেশনঃ ২৩৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সব ধরনের অবণ্টিত স্থাবর সম্পত্তির ক্ষেত্রে শুফ‘আহর ফায়সালা দিয়েছেন। এরপর সীমানা নির্ধারণ করে পথ আলাদা করে নেয়া হলে শুফ‘আর অধিকার থাকে না। (২২১৩) (আধুনিক প্রকাশনীঃ ২৩১৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2496</td></tr><tr><td>Arabic No</td><td>2496</td></tr><tr><td>Reference</td><td>Book 47 Hadith 14</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada saya [Musaddad] telah menceritakan kepada kami ['Abdul
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: பங்கிடப்படாத (சொத்துகள்) ஒவ்வொன் றிலும் (பங்காளிக்கு) விலைகோள் உரிமையுண்டு என்று நபி (ஸல்) அவர்கள் தீர்ப்பளித்தார்கள். எல்லைகள் வகுக்கப் பட்டு, பாதைகள் பிரிக்கப்பட்டுவிட்டால் விலைகோள் உரிமை கிடையாது. அத்தியாயம் : 47
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: பங்கிடப்படாத (சொத்துகள்) ஒவ்வொன் றிலும் (பங்காளிக்கு) விலைகோள் உரிமையுண்டு என்று நபி (ஸல்) அவர்கள் தீர்ப்பளித்தார்கள். எல்லைகள் வகுக்கப் பட்டு, பாதைகள் பிரிக்கப்பட்டுவிட்டால் விலைகோள் உரிமை கிடையாது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2496</td></tr><tr><td>Arabic No</td><td>2496</td></tr><tr><td>Reference</td><td>Book 47 Hadith 14</td></tr></tbody></table></div>
 

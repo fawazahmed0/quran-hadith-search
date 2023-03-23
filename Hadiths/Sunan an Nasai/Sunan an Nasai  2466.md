@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবনু মানসূর (রহঃ) ও মাহমুদ ইবন গায়লান (রহঃ) ... আবদুল্লাহ ইবন হিলাল সাকাফী (রাঃ) থেকে বর্ণিত। তিনি বলেন। এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এসে বলল, আপনার তিরোধানের পরে শীঘ্রই আমাকে যাকাতের উট এবং বকরীর জন্য হত্যা করা হবে, (যাকাতের ব্যাপারে আপনার জীবদ্দশায়ই যখন এত কড়াকড়ি, না জানি আপনার তিরোধানের পর কত কড়াকড়ি করা হয়) রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, যদি সেগুলো গরীব মুহাজিরদের মাঝে দান করে দেওয়া না হত, তাহলে সেগুলো আমি গ্রহণই করতাম না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2466</td></tr><tr><td>Arabic No</td><td>2466</td></tr><tr><td>Reference</td><td>Book 23 Hadith 32</td></tr></tbody></table></div>
 

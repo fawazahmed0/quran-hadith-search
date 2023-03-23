@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা .... রুবাই বিনতে মুআব্বিয ইবনু আফরা (রাঃ) হতে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাঁর সম্মুখে উযূ (ওজু/অজু/অযু) করেন। তখন তিনি চুলের উপরিভাগ হতে সমস্ত মাথা মাসেহ্ করেন- কপালের অগ্রভাগ হতে শুরু করে সমস্ত মস্তক- যেখানে চুল আছে- তা স্থিতাবস্তায় রেখে মাসেহ্ করেন।
+। রুবাই' বিনতু মু‘আব্বিয ইবনু ‘আফরা (রাঃ) সূত্রে বর্ণিত। একদা তাঁর সম্মুখে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অযু করলেন। তিনি (অযুতে) চুলের উপরিভাগ থেকে শুরু করে প্রত্যেক পাশে নীচের দিকে চুলের ভাজ অনুযায়ী এবং চুলকে তার স্বাভাবিক অবস্থায় রেখে পুরো মাথা মাসাহ্ করলেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>128</td></tr><tr><td>Arabic No</td><td>128</td></tr><tr><td>Reference</td><td>Book 1 Hadith 128</td></tr></tbody></table></div>
 

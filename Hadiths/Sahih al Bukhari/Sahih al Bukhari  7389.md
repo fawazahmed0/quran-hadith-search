@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জিব্রীল আমাকে ডাক দিয়ে বললেন, আল্লাহ্ আপনার কওমের লোকেদের কথা শুনেছেন এবং তারা আপনাকে যে জবাব দিয়েছে তাও তিনি শুনেছেন।[1] [৩২৩১] (আধুনিক প্রকাশনী- ৬৮৭৩, ইসলামিক ফাউন্ডেশন- ৬৮৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জিব্রীল আমাকে ডাক দিয়ে বললেন, আল্লাহ্ আপনার কওমের লোকেদের কথা শুনেছেন এবং তারা আপনাকে যে জবাব দিয়েছে তাও তিনি শুনেছেন।[1] [৩২৩১] (আধুনিক প্রকাশনী- ৬৮৭৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7389</td></tr><tr><td>Arabic No</td><td>7389</td></tr><tr><td>Reference</td><td>Book 97 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (வானவர்) ஜிப்ரீல் (அலை) அவர்கள் என்னை அழைத்து, “(நபியே!) உங்கள் சமுதாயத்தாரின் சொல்லையும் அவர்கள் உங்களுக்கு அளித்த பதிலையும் அல்லாஹ் செவியுற்றான்” என்று சொன்னார்கள். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.24 அத்தியாயம் : 97
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (வானவர்) ஜிப்ரீல் (அலை) அவர்கள் என்னை அழைத்து, “(நபியே!) உங்கள் சமுதாயத்தாரின் சொல்லையும் அவர்கள் உங்களுக்கு அளித்த பதிலையும் அல்லாஹ் செவியுற்றான்” என்று சொன்னார்கள். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.24 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7389</td></tr><tr><td>Arabic No</td><td>7389</td></tr><tr><td>Reference</td><td>Book 97 Hadith 18</td></tr></tbody></table></div>
 

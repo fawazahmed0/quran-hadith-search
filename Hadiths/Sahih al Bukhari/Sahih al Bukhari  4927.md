@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-سُوْرَةُ الْقِيَامَةِ সূরাহ (৭৫) : আল-ক্বিয়ামাহ وَقَالَ ابْنُ عَبَّاسٍ (لِيَفْجُرَ أَمَامَهُ) سَوْفَ أَتُوْبُ سَوْفَ أَعْمَلُ (لَاوَزَرَ) لَا حِصْنَ سُدًى هَمَلًا. ইবনু ‘আব্বাস (রাঃ) বলেন, , لِيَفْجُرَ أَمَامَهُ শীঘ্রই তওবাহ করব, শীঘ্রই ‘আমল করব। لَاوَزَرَ কোন আশ্রয়স্থল নেই, سُدًى নিরর্থক ও উদ্দেশ্যহীন। ৪৯২৭. ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর প্রতি যখন ওয়াহী অবতীর্ণ করা হত, তখন তিনি দ্রুত তাঁর জিহ্বা নাড়তেন। রাবী সুফ্ইয়ান বলেন, এভাবে করার পেছনে তাঁর উদ্দেশ্য ছিল ওয়াহী মুখস্থ করা। তারপর আল্লাহ্ অবতীর্ণ করলেনঃ তাড়াতাড়ি ওয়াহী আয়ত্ত করার জন্য তুমি তোমার জিহ্বা সঞ্চালন করবে না। [৫] (আধুনিক প্রকাশনীঃ ৪৫৫৮, ইসলামিক ফাউন্ডেশনঃ ৪৫৬২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سُوْرَةُ الْقِيَامَةِ সূরাহ (৭৫) : আল-ক্বিয়ামাহ وَقَالَ ابْنُ عَبَّاسٍ (لِيَفْجُرَ أَمَامَهُ) سَوْفَ أَتُوْبُ سَوْفَ أَعْمَلُ (لَاوَزَرَ) لَا حِصْنَ سُدًى هَمَلًا. ইবনু ‘আব্বাস (রাঃ) বলেন, , لِيَفْجُرَ أَمَامَهُ শীঘ্রই তওবাহ করব, শীঘ্রই ‘আমল করব। لَاوَزَرَ কোন আশ্রয়স্থল নেই, سُدًى নিরর্থক ও উদ্দেশ্যহীন। ৪৯২৭. ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর প্রতি যখন ওয়াহী অবতীর্ণ করা হত, তখন তিনি দ্রুত তাঁর জিহ্বা নাড়তেন। রাবী সুফ্ইয়ান বলেন, এভাবে করার পেছনে তাঁর উদ্দেশ্য ছিল ওয়াহী মুখস্থ করা। তারপর আল্লাহ্ অবতীর্ণ করলেনঃ তাড়াতাড়ি ওয়াহী আয়ত্ত করার জন্য তুমি তোমার জিহ্বা সঞ্চালন করবে না। [৫] (আধুনিক প্রকাশনীঃ ৪৫৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 65 Hadith 447</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:The Prophet (ﷺ) used to move his tongue when the divine Inspiration was being revealed to him. (Sufyan, a subnarrator, demonstrated (how the Prophet (ﷺ) used to move his lips) and added. "In order to memorize it." So Allah revealed: "Move not your tongue concerning (the Qur'an) to make haste therewith." (75.16)
+Narrated Ibn 'Abbas:The Prophet (ﷺ) used to move his tongue when the divine Inspiration was being revealed to him. (Sufyan, a subnarrator, demonstrated (how the Prophet (ﷺ) used to move his lips) and added. "In order to memorize it." So Allah revealed: "Move not your tongue concerning (the Qur'an) to make haste therewith
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 65 Hadith 447</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: தம்மீது ‘வஹீ’ (வேத அறிவிப்பு) அருளப்பெறும்போது, நபி (ஸல்) அவர்கள் (தாம் இதை எங்கே மறந்துவிடப் போகிறோமோ என்ற அச்சத்தால் வேக வேகமாக ஓதி,) தமது நாவை அசைப்பவர் களாக இருந்தார்கள். -அருளப்பெறும் வேத வசனங்களை நினைவில் நிறுத்திக்கொள்ள வேண்டும் என்ற எண்ணத்தில்தான் நபி (ஸல்) அவர்கள் இவ்வாறு தம் நாவை அசைத்து ஓதினார்கள் என சுஃப்யான் பின் உயைனா (ரஹ்) அவர்கள் கூறினார்கள்- அப்போது, ‘‘(நபியே!) இந்த வஹீயை (வேத அறிவிப்பை) அவசர அவசரமாக மனனம் செய்வதற்காக உமது நாவை அசைக்காதீர்” எனும் (75:16ஆவது) வசனத்தை அல்லாஹ் அருளினான்.2 அத்தியாயம் : 65
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: தம்மீது ‘வஹீ’ (வேத அறிவிப்பு) அருளப்பெறும்போது, நபி (ஸல்) அவர்கள் (தாம் இதை எங்கே மறந்துவிடப் போகிறோமோ என்ற அச்சத்தால் வேக வேகமாக ஓதி,) தமது நாவை அசைப்பவர் களாக இருந்தார்கள். -அருளப்பெறும் வேத வசனங்களை நினைவில் நிறுத்திக்கொள்ள வேண்டும் என்ற எண்ணத்தில்தான் நபி (ஸல்) அவர்கள் இவ்வாறு தம் நாவை அசைத்து ஓதினார்கள் என சுஃப்யான் பின் உயைனா (ரஹ்) அவர்கள் கூறினார்கள்- அப்போது, ‘‘(நபியே!) இந்த வஹீயை (வேத அறிவிப்பை) அவசர அவசரமாக மனனம் செய்வதற்காக உமது நாவை அசைக்காதீர்” எனும் (75:16ஆவது) வசனத்தை அல்லாஹ் அருளினான்.2 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 65 Hadith 447</td></tr></tbody></table></div>
 

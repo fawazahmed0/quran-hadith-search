@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৭৮৫। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, আনসারদের বসতি মসজিদে নববী থেকে দূরে ছিল। তারা মসজিদের কাছাকাছি বসতি স্থানান্তরিত করতে চাইলে এ আয়াত নাযিল হয় (অনুবাদ) আমি লিখে রাখি যা তারা অগ্রে পাঠায় এবং যা তারা পিছনে রেখে যায় (সূরাহ ইয়াসীনঃ ১২)। রাবী বলেন, তখন তারা তাদের অবস্থানে বহাল থাকেন।
+। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, আনসারদের বসতি মসজিদে নববী থেকে দূরে ছিল। তারা মসজিদের কাছাকাছি বসতি স্থানান্তরিত করতে চাইলে এ আয়াত নাযিল হয় (অনুবাদ) আমি লিখে রাখি যা তারা অগ্রে পাঠায় এবং যা তারা পিছনে রেখে যায় (সূরাহ ইয়াসীনঃ ১২)। রাবী বলেন, তখন তারা তাদের অবস্থানে বহাল থাকেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>785</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
 

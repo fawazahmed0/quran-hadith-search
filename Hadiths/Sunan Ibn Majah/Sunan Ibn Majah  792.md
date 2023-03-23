@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৭৯২। আবদুল্লাহ ইবনু উম্মু মাকতূম (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বললাম, আমি বৃদ্ধ ও অন্ধ, আমার বসতিও দূরে এবং আমার সাহায্যকারী কোন পরিচালকও নেই। সুতরাং আপনি কি (আমাকে জামাআতে হাযির না হওয়ার ব্যাপারে) অবকাশ (অনুমতি) দিবেন? তিনি বলেনঃ তুমি কি আযান শুনতে পাও? আমি বললাম, হ্যাঁ। তিনি বলেনঃ আমি তোমার জন্য অবকাশ পাচ্ছি না।
+। আবদুল্লাহ ইবনু উম্মু মাকতূম (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বললাম, আমি বৃদ্ধ ও অন্ধ, আমার বসতিও দূরে এবং আমার সাহায্যকারী কোন পরিচালকও নেই। সুতরাং আপনি কি (আমাকে জামাআতে হাযির না হওয়ার ব্যাপারে) অবকাশ (অনুমতি) দিবেন? তিনি বলেনঃ তুমি কি আযান শুনতে পাও? আমি বললাম, হ্যাঁ। তিনি বলেনঃ আমি তোমার জন্য অবকাশ পাচ্ছি না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>792</td></tr><tr><td>Arabic No</td><td>792</td></tr><tr><td>Reference</td><td>Book 4 Hadith 58</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceri
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Abdullah) bin Ümmi Mektum (r.a.)'den rivayet edildiğine güre şöyle demiştir : Ben, Nebi (Sallallahu Aleyhi ve Sellem)'e dedim ki: Ben yaşlı, a'ma, evi (mescidden) uzak bir kimseyim. Bana yardım edip mescide götürecek yedekçim de yoktur. (Cemaata gelmemem için) Bir ruhsat bulur musun? Nebi (Sallallahu Aleyhi ve Sellem) : -Sen ezan (sesini) işitiyor musun?» diye sordu. Ben: Evet, dedim. O: «Ben senin için bir ruhsat bulamam.» buyurdu." EBU DAVUD HADİSLERİ VE AÇIKLAMA: 552 — 553
+(Abdullah) bin Ümmi Mektum (r.a.)'den rivayet edildiğine güre şöyle demiştir : Ben, Nebi (Sallallahu Aleyhi ve Sellem)'e dedim ki: Ben yaşlı, a'ma, evi (mescidden) uzak bir kimseyim. Bana yardım edip mescide götürecek yedekçim de yoktur. (Cemaata gelmemem için) Bir ruhsat bulur musun? Nebi (Sallallahu Aleyhi ve Sellem) : -Sen ezan (sesini) işitiyor musun?» diye sordu. Ben: Evet, dedim. O: «Ben senin için bir ruhsat bulamam.» buyurdu." EBU DAVUD HADİSLERİ VE AÇIKLAMA: 552 —
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>792</td></tr><tr><td>Arabic No</td><td>792</td></tr><tr><td>Reference</td><td>Book 4 Hadith 58</td></tr></tbody></table></div>
 

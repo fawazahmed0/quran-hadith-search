@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ ইবন মুআয (রহঃ) .... রিবঈ (রহঃ) আমের গোত্রের জনৈক ব্যক্তি থেকে বর্ণনা করেছেন যে, সে নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট প্রবেশের জন্য অনুমতি চায়। এরপর পুর্বোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে। এরপর সে বলে; আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কথা শুনে বলিঃ আসসালামু আলায়কুম! আমি কি ভেতরে প্রবেশ করবো?
+। বনী আমিরের এক ব্যক্তির সূত্রে বর্ণিত। সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট অনুমতি চাইলো... অতঃপর পূর্বোক্ত হাদীসের অনুরূপ। বর্ণনাকারী বলেন, আমি তাঁর কাছ থেকে শুনে বললাম, ‘আসসালামু আলাইকুম আসতে পারি কি? আমি এটি সহীহ এবং যঈফে পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5179</td></tr><tr><td>Arabic No</td><td>5179</td></tr><tr><td>Reference</td><td>Book 43 Hadith 407</td></tr></tbody></table></div>
 

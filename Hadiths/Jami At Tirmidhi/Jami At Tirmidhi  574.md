@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৭৪। অপর একটি সূত্রে আবু হুরাইরার নিকট হতেও এ হাদীসটি বর্ণিত হয়েছে। এ হাদীসর সনদে চারজন তাবিঈ রয়েছেন তারা পরস্পরের নিকট হতে বর্ণনা করেছেন। বেশির ভাগ বিদ্বান এ হাদীসের উপর আমল করেছেন তাদের মতে উল্লেখিত সূরা দুটিতে সিজদা আছে।
+। অপর একটি সূত্রে আবু হুরাইরার নিকট হতেও এ হাদীসটি বর্ণিত হয়েছে। এ হাদীসর সনদে চারজন তাবিঈ রয়েছেন তারা পরস্পরের নিকট হতে বর্ণনা করেছেন। বেশির ভাগ বিদ্বান এ হাদীসের উপর আমল করেছেন তাদের মতে উল্লেখিত সূরা দুটিতে সিজদা আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>574</td></tr><tr><td>Arabic No</td><td>574</td></tr><tr><td>Reference</td><td>Book 6 Hadith 31</td></tr></tbody></table></div>
 

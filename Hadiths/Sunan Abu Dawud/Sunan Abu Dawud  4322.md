@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ঈসা ইব্‌ন মুহাম্মাদ (রহঃ) .... আবূ উমামা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণনা করেছেন। আর সালাত আদায়ের কথা এভাবেই উল্লেখ করেছেন।
+। আবূ উমামাহ (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে উপরে বর্ণিত হাদীসের সমার্থবোধক হাদীস বর্ণনা করেন। আর অনুরূপ অর্থে সালাতের উল্লেখ করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4322</td></tr><tr><td>Arabic No</td><td>4322</td></tr><tr><td>Reference</td><td>Book 39 Hadith 32</td></tr></tbody></table></div>
 

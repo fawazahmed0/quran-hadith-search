@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আনাস (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর উভয় হাত উঠিয়েছিলেন, এমন কি আমরা তাঁর বগলের শুভ্রতা দেখতে পেয়েছি। (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ ৯৭৩ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 15 Hadith 25</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ The narrator Anas added that the Prophet (ﷺ) raised his hands (during the invo
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுடைய அக்குள் களின் வெண்மையை நான் பார்க்குமள வுக்கு (மழைவேண்டிப் பிரார்த்திக்கும் போது) அவர்கள் தம் கைகளை உயர்த்தினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 15
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுடைய அக்குள் களின் வெண்மையை நான் பார்க்குமள வுக்கு (மழைவேண்டிப் பிரார்த்திக்கும் போது) அவர்கள் தம் கைகளை உயர்த்தினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 15 Hadith 25</td></tr></tbody></table></div>
 

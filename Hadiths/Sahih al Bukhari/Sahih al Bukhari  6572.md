@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করলেন, আপনি আবূ তালিবের কোন উপকার করতে পেরেছেন কি? [৩৮৮৩] (আধুনিক প্রকাশনী- ৬১১৭, ইসলামিক ফাউন্ডেশন- ৬১২৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করলেন, আপনি আবূ তালিবের কোন উপকার করতে পেরেছেন কি? [৩৮৮৩] (আধুনিক প্রকাশনী- ৬১১৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6572</td></tr><tr><td>Arabic No</td><td>6572</td></tr><tr><td>Reference</td><td>Book 81 Hadith 160</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Abbas:that he said to the Prophet (ﷺ) "Did you benefit Abu Talib wit
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்பாஸ் (பின் அப்தில் முத்தலிப் - ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம், “அபூதாலிப் அவர்களுக்கு ஏதேனும் நீங்கள் (பிரதி) உபகாரம் செய்தீர்களா?” என்று கேட்டேன்.145 அத்தியாயம் : 81
+அப்பாஸ் (பின் அப்தில் முத்தலிப் - ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம், “அபூதாலிப் அவர்களுக்கு ஏதேனும் நீங்கள் (பிரதி) உபகாரம் செய்தீர்களா?” என்று கேட்டேன்.145 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6572</td></tr><tr><td>Arabic No</td><td>6572</td></tr><tr><td>Reference</td><td>Book 81 Hadith 160</td></tr></tbody></table></div>
 

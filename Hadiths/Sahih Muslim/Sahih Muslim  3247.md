@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩১৩৮, আন্তর্জাতিক নাম্বারঃ ১৩৩৩ ৩১৩৮-(.../...) মুহাম্মাদ ইবনু আমর ইবনু জাবালাহ ও আবদ ইবনু হুমায়দ (রহঃ) ..... ইবনু জুরায়জ (রহঃ) থেকে এ সানাদে ইবনু বাকর এর হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩১১৩, ইসলামীক সেন্টার ৩১১০)
+মুহাম্মাদ ইবনু আমর ইবনু জাবালাহ ও আবদ ইবনু হুমায়দ (রহঃ) ..... ইবনু জুরায়জ (রহঃ) থেকে এ সানাদে ইবনু বাকর এর হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩১১৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3247</td></tr><tr><td>Arabic No</td><td>1333.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 451</td></tr></tbody></table></div>
 

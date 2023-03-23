@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যুহায়র ইবনু হারব (রহঃ) ..... সামুরাহ ইবনু জুনদুব (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিলালের আযান যেন তোমাদেরকে ধোকায় না ফেলে এবং এ শুভ্র রেখা ও যা স্তম্ভের ন্যায় দেখা যায়, যতক্ষণ না তা বিস্তৃত উদ্ভাসিত হবে। (ইসলামিক ফাউন্ডেশন ২৪১২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2545</td></tr><tr><td>Arabic No</td><td>1094.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 51</td></tr></tbody></table></div>
 

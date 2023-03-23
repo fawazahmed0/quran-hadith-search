@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত। একদা তিনি জিজ্ঞাসা করেনঃ ইয়া রাসূলাল্লাহ! আমার সব সখীদের কুনিয়াত আছে। তখন তিনি বলেনঃ তুমিও তোমার (বোনের) ছেলে আবদুল্লাহ ইবন যুবায়র (রাঃ)-এর নামের সাথে কুনিয়াত রাখ। অর্থাৎ তুমি তোমার কুনিয়াত রাখ উম্মু আবদুল্লাহ।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বললেন, হে আল্লাহর রাসূল! আমার প্রত্যেক বান্ধবীর ডাকনাম রয়েছে। আপনি আমার একটি ডাকনাম ঠিক করে দিন। তিনি বললেনঃ তুমি তোমার (বোনের) ছেলে আব্দুল্লাহর নামানুসারে উপনাম গ্রহণ করো। মুসাদ্দাদ (রহঃ) বলেন, যুবায়র (রাঃ)-এর পুত্র আব্দুল্লাহ। বর্ণনাকারী বলেন, তিনি উম্মু আব্দুল্লাহ উপনাম গ্রহণ করলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4970</td></tr><tr><td>Arabic No</td><td>4970</td></tr><tr><td>Reference</td><td>Book 43 Hadith 198</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২১২। আনাস (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, (অনুবাদ) “তুমি (নবী) নিজের মনে সে কথা লুকিয়ে রেখেছিলে, যা আল্লাহ তা'আলা প্রকাশ করবেন”— (সূরা আহযাব ৩৭), এ আয়াত তখন অবতীর্ণ হয় যাইদ (রাযিঃ) যখন যাইনাব বিনতু জাহশ (রাযিঃ) প্রসঙ্গে অভিযোগ করতে এলেন। তিনি যাইনাবকে ত্বালাক দেয়ার ইচ্ছা ব্যক্ত করেন এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট অনুমতি চান। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ “তোমার স্ত্রীকে স্বীয় বিবাহধীনে রাখ এবং আল্লাহ তা'আলাকে ভয় কর”— (সূরা আহ্যাব ৩৭)। সহীহঃ বুখারী (৭৪২০) আবূ ঈসা বলেন, এ হাদীসটি সহীহ।
+। আনাস (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, (অনুবাদ) “তুমি (নবী) নিজের মনে সে কথা লুকিয়ে রেখেছিলে, যা আল্লাহ তা'আলা প্রকাশ করবেন”— (সূরা আহযাব ৩৭), এ আয়াত তখন অবতীর্ণ হয় যাইদ (রাযিঃ) যখন যাইনাব বিনতু জাহশ (রাযিঃ) প্রসঙ্গে অভিযোগ করতে এলেন। তিনি যাইনাবকে ত্বালাক দেয়ার ইচ্ছা ব্যক্ত করেন এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট অনুমতি চান। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ “তোমার স্ত্রীকে স্বীয় বিবাহধীনে রাখ এবং আল্লাহ তা'আলাকে ভয় কর”— (সূরা আহ্যাব ৩৭)। সহীহঃ বুখারী (৭৪২০) আবূ ঈসা বলেন, এ হাদীসটি সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3212</td></tr><tr><td>Arabic No</td><td>3212</td></tr><tr><td>Reference</td><td>Book 47 Hadith 264</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:"When this Ayah was revealed: 'But you did hide in yourself that which Allah will make manifest... (33:37)' about Zainab bint Jahsh, Zaid had come to the Prophet (ﷺ) complaining, and he wanted to divorce her, so he consulted with the Prophet (ﷺ). The Prophet (ﷺ) said: 'Keep your wife to yourself, and have Taqwa of Allah (33:37)
+Narrated Anas:"When this Ayah was revealed: 'But you did hide in yourself that which Allah will make manifest... (33:37)' about Zainab bint Jahsh, Zaid had come to the Prophet (ﷺ) complaining, and he wanted to divorce her, so he consulted with the Prophet (ﷺ). The Prophet (ﷺ) said: 'Keep your wife to yourself, and have Taqwa of Allah (33:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3212</td></tr><tr><td>Arabic No</td><td>3212</td></tr><tr><td>Reference</td><td>Book 47 Hadith 264</td></tr></tbody></table></div>
 

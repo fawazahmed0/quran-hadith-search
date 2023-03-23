@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... ইকরামা (রহঃ) থেকে উম্মুহাতুল মুমিনীদের কোন একজনের (সন্তবতঃ মায়মূনা) সূত্রে বর্ণিত তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম যখন তাঁর ঋতুবতী স্ত্রীদের সাথে একত্রে থাকার ইচ্ছা করতেন, তখন তাঁর লজ্জাস্থান অতিরিক্ত কাপড় দিয়ে আবৃত করে রাখতেন।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কোন এক স্ত্রী সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর ঋতুবতী স্ত্রীর সাথে কিছু করতে চাইলে স্ত্রীর লজ্জাস্থানের উপর কাপড় রেখে তারপর করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 1 Hadith 272</td></tr></tbody></table></div>
 

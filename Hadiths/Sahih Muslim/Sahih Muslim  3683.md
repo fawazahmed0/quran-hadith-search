@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৫৭৫, আন্তর্জাতিক নাম্বারঃ ১৪৭৬ ৩৫৭৫-(.../...) হাসান ইবনু ঈসা (রহঃ) ..... আসিম (রহঃ) এর সূত্রে পূর্বোক্ত সানাদে অনুরূপ রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৩৫৪৬, ইসলামীক সেন্টার ৩৫৪৬)
+হাসান ইবনু ঈসা (রহঃ) ..... আসিম (রহঃ) এর সূত্রে পূর্বোক্ত সানাদে অনুরূপ রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৩৫৪৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3683</td></tr><tr><td>Arabic No</td><td>1476.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 32</td></tr></tbody></table></div>
 

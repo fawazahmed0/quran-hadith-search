@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৭৫৪। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ তাঁর রাস্তায় জিহাদকারীর যিম্মাদার। হয় তিনি তাকে তার ক্ষমা ও রহমতে ধন্য করে উঠিয়ে নিবেন অথবা তাকে সওয়াব ও গনীমাতসহ ফিরিয়ে আনবেন। আল্লাহর রাস্তায় জিহাদকারী সেই ব্যক্তির ন্যায় যে অক্লান্তভাবে (দিনভর) রোযা রাখে এবং (রাতভর) নামায পড়ে জিহা থেকে ফিরে না আসা পর্যন্ত।
+। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ তাঁর রাস্তায় জিহাদকারীর যিম্মাদার। হয় তিনি তাকে তার ক্ষমা ও রহমতে ধন্য করে উঠিয়ে নিবেন অথবা তাকে সওয়াব ও গনীমাতসহ ফিরিয়ে আনবেন। আল্লাহর রাস্তায় জিহাদকারী সেই ব্যক্তির ন্যায় যে অক্লান্তভাবে (দিনভর) রোযা রাখে এবং (রাতভর) নামায পড়ে জিহা থেকে ফিরে না আসা পর্যন্ত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2754</td></tr><tr><td>Arabic No</td><td>2754</td></tr><tr><td>Reference</td><td>Book 24 Hadith 2</td></tr></tbody></table></div>
 

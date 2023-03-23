@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬৫৩। জারীর ইবনু আবদুল্লাহ আল-বাজালী (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি মু'আবিয়াহ ইবনু আবী সুফইয়ান (রাযিঃ)-কে খুতবাহ দানকালে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তেষট্টি বছর বয়সে মৃত্যুবরণ করেন এবং আবূ বাকর ও উমর (রাযিঃ)-ও। আর এখন আমার বয়সও তেষট্টি বছর। সহীহঃ মুখতাসার শামায়িল (৩১৮), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। জারীর ইবনু আবদুল্লাহ আল-বাজালী (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি মু'আবিয়াহ ইবনু আবী সুফইয়ান (রাযিঃ)-কে খুতবাহ দানকালে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তেষট্টি বছর বয়সে মৃত্যুবরণ করেন এবং আবূ বাকর ও উমর (রাযিঃ)-ও। আর এখন আমার বয়সও তেষট্টি বছর। সহীহঃ মুখতাসার শামায়িল (৩১৮), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3653</td></tr><tr><td>Arabic No</td><td>3653</td></tr><tr><td>Reference</td><td>Book 49 Hadith 49</td></tr></tbody></table></div>
 

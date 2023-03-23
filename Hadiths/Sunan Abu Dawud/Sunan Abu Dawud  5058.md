@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী ইবন মুসলিম (রহঃ) .... ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন শয়ন করতেন, তখন নীচের দু'আটি পড়তেনঃ সমস্ত প্রশংসা আল্লাহর জন্য, যিনি আমাকে সব বিপদ থেকে রক্ষা করেন। আমাকে আশ্রয় দেন, খাওয়ান এবং পান করান। আপনি আমার উপর সব চাইতে বড় ইহসান করেছেন; আপনি আমাকে অনেক কিছু দান করেছেন। সমস্ত প্রশংসা আল্লাহ্‌র জন্য সর্বাবস্থায়। হে আল্লাহ্‌! আপনি সব কিছুর প্রতিপালনকারী, সব কিছুর মালিক এবং সব কিছুর ইলাহ। আমি আপনার কাছে জাহান্নাম থেকে পানাহ চাই।
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন রাতে শোয়ার জন্য যেতেন তখন বলতেনঃ সকল প্রশংসা ও কৃতজ্ঞতা মহান আল্লাহর জন্য, যিনি আমার প্রতি অসীম দয়াবান এবং আমাকে দান করলেন। সুতরাং সর্বাবস্থায় আল্লাহর প্রশংসা ও কৃতজ্ঞতা। হে আল্লাহ! প্রত্যেক বস্তুর রব ও অধিকারী এবং প্রত্যেক জিনিসের ইলাহ! আমি আপনার নিকট জাহান্নামের শাস্তি থেকে আশ্রয় চাই।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5058</td></tr><tr><td>Arabic No</td><td>5058</td></tr><tr><td>Reference</td><td>Book 43 Hadith 286</td></tr></tbody></table></div>
 

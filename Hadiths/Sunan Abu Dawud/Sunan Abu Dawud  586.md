@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আন-নুফায়লী ....... আমর ইবনু সালামা (রাঃ) হতে এই হাদীছটি বর্ণিত আছে। তিনি বলেন, আমি আমার সম্প্রদায়ের ইমামতি করতাম একটি চাঁদর পরিধাণ করে। যা ফাটা ও তালিযুক্ত ছিল। এমতাবস্থায় যখন আমি সিজদায় যেতাম তখন আমার পশ্চাৎদেশ অনাবৃত হয়ে যেত।
+। ‘আমর ইবনু সালামাহ্ (রাঃ) থেকে একই হাদীসে বর্ণিত আছে, আমি একটি তালিযুক্ত চাদর গায়ে দিয়ে তাদের ইমামিত করতাম। চাদরটি ছেঁড়া থাকায় সিজদায় গমনকালে আমার নিতম্ব উন্মুক্ত হয়ে যেত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>586</td></tr><tr><td>Arabic No</td><td>586</td></tr><tr><td>Reference</td><td>Book 2 Hadith 196</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ This tradition has also been transmitted through a different chain by ‘Amr b. 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr b. Seleme'den yine aynı hadis rivayet edilmiş, (ancak o, bu rivayette, ilave olarak) şunları da söylemiştir: "Ben yamalı veya yırtık bir elbise ile onlara imamlık yapıyordum. Secde ettiğim zaman makatım (elbisenin yırtığından dışarı) çıkıyordu. Diğer tahric: Ahmed b. Hanbel, V, 286
+Amr b. Seleme'den yine aynı hadis rivayet edilmiş, (ancak o, bu rivayette, ilave olarak) şunları da söylemiştir: "Ben yamalı veya yırtık bir elbise ile onlara imamlık yapıyordum. Secde ettiğim zaman makatım (elbisenin yırtığından dışarı) çıkıyordu. Diğer tahric: Ahmed b. Hanbel, V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>586</td></tr><tr><td>Arabic No</td><td>586</td></tr><tr><td>Reference</td><td>Book 2 Hadith 196</td></tr></tbody></table></div>
 

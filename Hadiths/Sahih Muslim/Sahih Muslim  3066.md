@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৯৫৬, আন্তর্জাতিক নাম্বারঃ ১২৬৯ ২৯৫৬-(২৪৭/১২৬৯) আবূ তাহির (রহঃ) ..... আবূ তুফায়ল আল বাকরী (রহঃ) ইবনু আব্বাস (রাযিঃ) কে বলতে শুনেছেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দুই রুকনে ইয়ামানী ব্যতীত কখনও অন্য কিছু স্পর্শ করতে দেখিনি। (ইসলামিক ফাউন্ডেশন ২৯৩২, ইসলামীক সেন্টার ২৯৩১)
+আবূ তাহির (রহঃ) ..... আবূ তুফায়ল আল বাকরী (রহঃ) ইবনু আব্বাস (রাযিঃ) কে বলতে শুনেছেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দুই রুকনে ইয়ামানী ব্যতীত কখনও অন্য কিছু স্পর্শ করতে দেখিনি। (ইসলামিক ফাউন্ডেশন ২৯৩২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>1269</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஹஜருல் அஸ்வத், ருக்னுல் யமானீ ஆகிய) இவ்விரு யமனிய மூலைகளைத் தவிர (கஅபாவின்) வேறெந்த இடத்தையும் தொட்டு முத்தமிட்டதை நான் கண்டதில்லை. அத்தியாயம் : 15
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஹஜருல் அஸ்வத், ருக்னுல் யமானீ ஆகிய) இவ்விரு யமனிய மூலைகளைத் தவிர (கஅபாவின்) வேறெந்த இடத்தையும் தொட்டு முத்தமிட்டதை நான் கண்டதில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>1269</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
 

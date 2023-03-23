@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ لَه مَا بَيْنَ أَيْدِيْنَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذٰلِكَ). (জিবরীল বললঃ) আমি আপনার রবের আদেশ ব্যতিরেকে আসতে পারি না। (সূরাহ মারইয়াম ১৯/৬৪) ৪৭৩১. ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম একবার জিবরীলকে বললেন, আপনি আমার সাথে যতবার সাক্ষাৎ করেন, তার চেয়ে অধিক সাক্ষাৎ করতে আপনাকে কিসে বাধা দেয়?[1] তখন এ আয়াত অবতীর্ণ হল, ‘‘আমরা আপনার প্রতিপালকের আদেশ ছাড়া অবতরণ করি না, যা আমাদের সম্মুখে ও পশ্চাতে আছে সবই তাঁরই।’’ [৩২১৮] (আধুনিক প্রকাশনীঃ ৪৩৭০, ইসলামিক ফাউন্ডেশনঃ ৪৩৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ لَه مَا بَيْنَ أَيْدِيْنَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذٰلِكَ). (জিবরীল বললঃ) আমি আপনার রবের আদেশ ব্যতিরেকে আসতে পারি না। (সূরাহ মারইয়াম ১৯/৬৪) ৪৭৩১. ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম একবার জিবরীলকে বললেন, আপনি আমার সাথে যতবার সাক্ষাৎ করেন, তার চেয়ে অধিক সাক্ষাৎ করতে আপনাকে কিসে বাধা দেয়?[1] তখন এ আয়াত অবতীর্ণ হল, ‘‘আমরা আপনার প্রতিপালকের আদেশ ছাড়া অবতরণ করি না, যা আমাদের সম্মুখে ও পশ্চাতে আছে সবই তাঁরই।’’ [৩২১৮] (আধুনিক প্রকাশনীঃ ৪৩৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4731</td></tr><tr><td>Arabic No</td><td>4731</td></tr><tr><td>Reference</td><td>Book 65 Hadith 253</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:The Prophet (ﷺ) said to Gabriel, "What prevents you from visiting us more often than you visit us now?" So there was revealed:-- 'And we (angels) descend not but by the command of your Lord. To Him belongs what is before us and what is behind us...'(19.64)
+Narrated Ibn 'Abbas:The Prophet (ﷺ) said to Gabriel, "What prevents you from visiting us more often than you visit us now?" So there was revealed:-- 'And we (angels) descend not but by the command of your Lord. To Him belongs what is before us and what is behind us
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4731</td></tr><tr><td>Arabic No</td><td>4731</td></tr><tr><td>Reference</td><td>Book 65 Hadith 253</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said to Gabriel, "What prevents you from v
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami ['Umar bin Dzar] dia berkata; Aku mendengar [ayahku] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bertanya kepada Jibril 'Alaihissalam: "Mengapa engkau tidak sering lagi mengunjungiku sebagaimana biasanya?" Lalu turunlah ayat: Dan tidaklah kami (Jibril) turun, kecuali dengan perintah Tuhanmu. kepunyaan-Nyalah apa-apa yang ada di hadapan kita, dan apa-apa yang ada di belakang kita. (Maryam: 64)
+Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami ['Umar bin Dzar] dia berkata; Aku mendengar [ayahku] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bertanya kepada Jibril 'Alaihissalam: "Mengapa engkau tidak sering lagi mengunjungiku sebagaimana biasanya?" Lalu turunlah ayat: Dan tidaklah kami (Jibril) turun, kecuali dengan perintah Tuhanmu. kepunyaan-Nyalah apa-apa yang ada di hadapan kita, dan apa-apa yang ada di belakang kita. (Maryam:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4731</td></tr><tr><td>Arabic No</td><td>4731</td></tr><tr><td>Reference</td><td>Book 65 Hadith 253</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami ['Uma
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (வானவர்) ஜிப்ரீல் (அலை) அவர்களிடம், ‘‘நீங்கள் இப்போது என்னைச் சந்திப்பதைவிட அதிகமாகச் சந்திக்கத் தடையாக இருப்பதென்ன?” என்று கேட்டார்கள்.2 அப்போதுதான் ‘‘(நபியே!) உங்கள் இறைவனின் உத்தரவுப்படியே தவிர நாங்கள் இறங்குவதில்லை. எங்களுக்கு முன்னிருப்பவையும், பின்னிருப்பவையும், இரண்டுக்குமிடையே இருப்பவையும் அவனுக்கே உரியவையாகும். (இதில் எதையும்) உங்கள் இறைவன் மறப்பவன் அல்லன்” எனும் (19:64ஆவது) இறைவசனம் அருளப்பெற்றது. அத்தியாயம் : 65
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (வானவர்) ஜிப்ரீல் (அலை) அவர்களிடம், ‘‘நீங்கள் இப்போது என்னைச் சந்திப்பதைவிட அதிகமாகச் சந்திக்கத் தடையாக இருப்பதென்ன?” என்று கேட்டார்கள்.2 அப்போதுதான் ‘‘(நபியே!) உங்கள் இறைவனின் உத்தரவுப்படியே தவிர நாங்கள் இறங்குவதில்லை. எங்களுக்கு முன்னிருப்பவையும், பின்னிருப்பவையும், இரண்டுக்குமிடையே இருப்பவையும் அவனுக்கே உரியவையாகும். (இதில் எதையும்) உங்கள் இறைவன் மறப்பவன் அல்லன்” எனும் (19:64ஆவது) இறைவசனம் அருளப்பெற்றது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4731</td></tr><tr><td>Arabic No</td><td>4731</td></tr><tr><td>Reference</td><td>Book 65 Hadith 253</td></tr></tbody></table></div>
 

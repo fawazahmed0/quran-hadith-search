@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৬৪, আন্তর্জাতিক নাম্বারঃ ৯০ ১৬৪-(১৪৬/৯০) কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... 'আবদুল্লাহ ইবনু আমর ইবনুল আস (রাযিঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ পিতা-মাতাকে গালি দেয়া কাবীরাহ গুনাহ। সাহাবা কিরাম প্রশ্ন করলেন, হে আল্লাহর রাসূল! কেউ কি তার পিতা-মাতাকে গালি দিতে পারে? তিনি বললেন, হ্যাঁ। কোন ব্যক্তি অন্যের পিতাকে গালি দেয় প্রত্যুত্তরে সেও তার পিতাকে গালি দেয়। কেউ বা অন্যের মাকে গালি দেয় জবাবে সেও তার মাকে গালি দেয়। (ইসলামিক ফাউন্ডেশনঃ ১৬৫, ইসলামিক সেন্টারঃ ১৭১)
+কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... 'আবদুল্লাহ ইবনু আমর ইবনুল আস (রাযিঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ পিতা-মাতাকে গালি দেয়া কাবীরাহ গুনাহ। সাহাবা কিরাম প্রশ্ন করলেন, হে আল্লাহর রাসূল! কেউ কি তার পিতা-মাতাকে গালি দিতে পারে? তিনি বললেন, হ্যাঁ। কোন ব্যক্তি অন্যের পিতাকে গালি দেয় প্রত্যুত্তরে সেও তার পিতাকে গালি দেয়। কেউ বা অন্যের মাকে গালি দেয় জবাবে সেও তার মাকে গালি দেয়। (ইসলামিক ফাউন্ডেশনঃ ১৬৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>263</td></tr><tr><td>Arabic No</td><td>90.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 169</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அம்ர் பின் அல்ஆஸ் (ரலி) அவர்கள் கூறியதாவது: "ஒரு மனிதர் தம் தாய் தந்தையரை ஏசுவது பெரும் பாவங்களில் உள்ளதாகும்" என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். அப்போது "அல்லாஹ்வின் தூதரே! ஒரு மனிதர் தம் தாய் தந்தையரையே ஏசுவாரா?" என்று கேட்கப்பட்டது. அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், "ஆம். ஒருவர் இன்னொருவரின் தந்தையை ஏசுவார். உடனே (பதிலுக்கு) அவர் இவருடைய தந்தையை ஏசுவார். ஒருவர் இன்னொருவரின் தாயை ஏசுவார். உடனே (பதிலுக்கு) அவர் இவருடைய தாயை ஏசுவார். (ஆக, தம் பெற்றோர் ஏசப்படுவதற்கு இவரே காரணமாகிவிடுகிறார்)" என்று கூறினார்கள். - மேற்கண்ட ஹதீஸ் மேலும் நான்கு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 1
+அப்துல்லாஹ் பின் அம்ர் பின் அல்ஆஸ் (ரலி) அவர்கள் கூறியதாவது: "ஒரு மனிதர் தம் தாய் தந்தையரை ஏசுவது பெரும் பாவங்களில் உள்ளதாகும்" என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். அப்போது "அல்லாஹ்வின் தூதரே! ஒரு மனிதர் தம் தாய் தந்தையரையே ஏசுவாரா?" என்று கேட்கப்பட்டது. அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், "ஆம். ஒருவர் இன்னொருவரின் தந்தையை ஏசுவார். உடனே (பதிலுக்கு) அவர் இவருடைய தந்தையை ஏசுவார். ஒருவர் இன்னொருவரின் தாயை ஏசுவார். உடனே (பதிலுக்கு) அவர் இவருடைய தாயை ஏசுவார். (ஆக, தம் பெற்றோர் ஏசப்படுவதற்கு இவரே காரணமாகிவிடுகிறார்)" என்று கூறினார்கள். - மேற்கண்ட ஹதீஸ் மேலும் நான்கு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>263</td></tr><tr><td>Arabic No</td><td>90.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 169</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Kuteybetü'bnü Said rivayet etti. (Dediki) Bize Leys İbnü'l-Hâd'dan, o da Sa'd b. İbrahim'den, o da Humeyd b. Abdirrahnıan'dan, o da Abdullah b. Amr b. As'dan rivayetine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kişinin anne babasına sövmesi büyük günahlardandır. " Ashab: Ey Allah'ın Resulü, hiç kimse anne babasına söver mi, dediler. O: "Evet, başka bir adamın babasına söver, o da onun babasına söver. Annesine söver, o da onun annesine söver" buyurdu. Diğer tahric: Buhari, 5628; Ebu Davud, 5142 -benzeri-; Tirmizi, 1902; Tuhfetu'l-Eşraf, 8618
+Bize Kuteybetü'bnü Said rivayet etti. (Dediki) Bize Leys İbnü'l-Hâd'dan, o da Sa'd b. İbrahim'den, o da Humeyd b. Abdirrahnıan'dan, o da Abdullah b. Amr b. As'dan rivayetine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kişinin anne babasına sövmesi büyük günahlardandır. " Ashab: Ey Allah'ın Resulü, hiç kimse anne babasına söver mi, dediler. O: "Evet, başka bir adamın babasına söver, o da onun babasına söver. Annesine söver, o da onun annesine söver" buyurdu. Diğer tahric: Buhari, 5628; Ebu Davud, 5142 -benzeri-; Tirmizi, 1902; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>263</td></tr><tr><td>Arabic No</td><td>90.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 169</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন যে, যখন তোমাদের কেউ জামরাতুল-আকাবাতে কংকর নিক্ষেপ সম্পন্ন করে, তখন তার জন্য স্ত্রীসহবাস ব্যতীত আর সবই হালাল হয়ে যায়।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি ‘জামরায় আকাবায়’ কংকর নিক্ষেপ করার পর স্ত্রী সহবাস ছাড়া তার জন্য সবই হালাল হয়ে যায়। ইমাম আবূ দাঊদ (রহ.) বলেন, হাদীসটি যঈফ। কারণ যুহরীর সাথে হাজ্জাজের সাক্ষাৎ হয়নি এবং তার থেকে তিনি হাদীসও শুনেননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1978</td></tr><tr><td>Arabic No</td><td>1978</td></tr><tr><td>Reference</td><td>Book 11 Hadith 258</td></tr></tbody></table></div>
 

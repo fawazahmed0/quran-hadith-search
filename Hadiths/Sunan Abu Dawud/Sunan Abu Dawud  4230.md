@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী ইব্‌ন সাহ্‌ল (রহঃ) .... আলী ইব্‌ন সাহ্‌ল ইব্‌ন যুবায়র (রহঃ) বলেনঃ একদা তার একটি আযাদকৃত দাসী তার এক শিশু কন্যাকে কোলে নিয়ে উমার ইব্‌ন খাত্তাব (রাঃ) এর নিকট যায়, যার দু’পায়ে মল (নূপুর) ছিল। তখন উমার (রাঃ) তা কেটে ফেলে দেন এবং বলেনঃ আমি রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামসাহকে বলতে শুনেছি যে, প্রত্যেক ঘন্টার সাথে শয়তান থাকে।
+। আলী ইবনু সাহল ইবনু যুবায়র (রহঃ) বলেন, একদা তাদের এক মুক্তদাসী যুবায়র (রাঃ)-এর কন্যাকে নিয়ে উমার ইবনুল খাত্তাব (রাঃ)-এর নিকট এলো। তার (কন্যার) পায়ে নুপুর ছিলো। উমার (রাঃ) তা কেটে ফেলে দিয়ে বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ প্রতিটি ঘণ্টা ধ্বনির সাথে একটি শয়তান থাকে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4230</td></tr><tr><td>Arabic No</td><td>4230</td></tr><tr><td>Reference</td><td>Book 36 Hadith 17</td></tr></tbody></table></div>
 

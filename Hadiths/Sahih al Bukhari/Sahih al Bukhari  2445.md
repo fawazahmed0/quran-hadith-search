@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারা ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে সাতটি বিষয়ে নির্দেশ দিয়েছেন এবং সাতটি বিষয়ে নিষেধ করেছেন। তারপর তিনি উল্লেখ করলেন, অসুস্থদের খোঁজখবর নেয়া, জানাযায় পিছে পিছে যাওয়া, হাঁচির জবাবে ইয়ারহামুকাল্লাহ্ বলা, সালামের উত্তর দেয়া, অত্যাচারিতকে সাহায্য করা, আহবানকারীর প্রতি সাড়া দেয়া, কসমকারীকে দায়িত্ব মুক্ত করা। (১২৩৯) (আধুনিক প্রকাশনীঃ ২২৬৬, ইসলামিক ফাউন্ডেশনঃ ২২৮৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারা ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে সাতটি বিষয়ে নির্দেশ দিয়েছেন এবং সাতটি বিষয়ে নিষেধ করেছেন। তারপর তিনি উল্লেখ করলেন, অসুস্থদের খোঁজখবর নেয়া, জানাযায় পিছে পিছে যাওয়া, হাঁচির জবাবে ইয়ারহামুকাল্লাহ্ বলা, সালামের উত্তর দেয়া, অত্যাচারিতকে সাহায্য করা, আহবানকারীর প্রতি সাড়া দেয়া, কসমকারীকে দায়িত্ব মুক্ত করা। (১২৩৯) (আধুনিক প্রকাশনীঃ ২২৬৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 46 Hadith 6</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Muawiya bin Suwaid:I heard Al-Bara' bin 'Azib saying, "The Prophet (ﷺ) orders us to do seven things and prohibited us from doing seven other things." Then Al-Bara' mentioned the following:-- (1) To pay a visit to the sick (inquiring about his health), (2) to follow funeral processions, (3) to say to a sneezer, "May Allah be merciful to you" (if he says, "Praise be to Allah!"), (4) to return greetings, (5) to help the oppressed, (6) to accept invitations, (7) to help others to fulfill their oaths. (See Hadith No. 753, Vol. 7)
+Narrated Muawiya bin Suwaid:I heard Al-Bara' bin 'Azib saying, "The Prophet (ﷺ) orders us to do seven things and prohibited us from doing seven other things." Then Al-Bara' mentioned the following:-- (1) To pay a visit to the sick (inquiring about his health), (2) to follow funeral processions, (3) to say to a sneezer, "May Allah be merciful to you" (if he says, "Praise be to Allah!"), (4) to return greetings, (5) to help the oppressed, (6) to accept invitations, (7) to help others to fulfill their oaths. (See Hadith No. 753, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 46 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin Ar Rabi'] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஏழு செயல்களைச் செய்யும்படி எங்களுக்குக் கட்டளை யிட்டார்கள்; ஏழு செயல்களிலிருந்து எங்களைத் தடுத்தார்கள். (கட்டளையிடப்பட்ட) அவையாவன: 1. நோயாளிகளை நலம் விசாரிப்பது. 2. ஜனாஸாவைப் பின்தொடர்ந்து செல்வது. 3. தும்மியவருக்கு அவர், ‘அல்ஹம்து லில்லாஹ்’ (‘அல்லாஹ்வுக்கே எல்லாப் புகழும்’) என்று சொன்னால், யியர்ஹமுக்கல்லாஹ்’ (அல்லாஹ் உமக்குக் கருணை புரிவானாக!) என்று பதிலளிப்பது. 4. சலாமுக்கு (முகமனுக்கு) பதிலுரைப்பது.5. அநீதியிழைக்கப்பட்டவருக்கு உதவுவது. 6. விருந்துக்காக அழைப்பவரின் அழைப்பை ஏற்றுக்கொள்வது. 7. சத்தியம் செய்தவரின் சத்தியத்தை நிறைவேற்ற உதவுவது.2 அத்தியாயம் : 46
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஏழு செயல்களைச் செய்யும்படி எங்களுக்குக் கட்டளை யிட்டார்கள்; ஏழு செயல்களிலிருந்து எங்களைத் தடுத்தார்கள். (கட்டளையிடப்பட்ட) அவையாவன: 1. நோயாளிகளை நலம் விசாரிப்பது. 2. ஜனாஸாவைப் பின்தொடர்ந்து செல்வது. 3. தும்மியவருக்கு அவர், ‘அல்ஹம்து லில்லாஹ்’ (‘அல்லாஹ்வுக்கே எல்லாப் புகழும்’) என்று சொன்னால், யியர்ஹமுக்கல்லாஹ்’ (அல்லாஹ் உமக்குக் கருணை புரிவானாக!) என்று பதிலளிப்பது. 4. சலாமுக்கு (முகமனுக்கு) பதிலுரைப்பது.5. அநீதியிழைக்கப்பட்டவருக்கு உதவுவது. 6. விருந்துக்காக அழைப்பவரின் அழைப்பை ஏற்றுக்கொள்வது. 7. சத்தியம் செய்தவரின் சத்தியத்தை நிறைவேற்ற உதவுவது.2 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 46 Hadith 6</td></tr></tbody></table></div>
 

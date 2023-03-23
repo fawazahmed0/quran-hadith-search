@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াযীদ .... মায়মূনা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাঁর ঋতুবতী স্ত্রীরদের কারো সাথে একত্রে মেলামেশা করতেন এমতাবস্থায়- যখন তাদের (স্ত্রীদের) উভয় রান বা অর্ধভাগ পর্যন্ত আবৃত থাকে। (বুখারী, মুসলিম, নাসাঈ)।
+। মায়মূনাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর স্ত্রীদের মধ্যকার কোন হায়িযা স্ত্রীর সাথে মেলামেশা করতেন এরূপ অবস্থায় যে, স্ত্রীর উভয় রানের মাঝামাঝি অথবা হাঁটু পর্যন্ত ইযারে আবৃত থাকত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>267</td></tr><tr><td>Arabic No</td><td>267</td></tr><tr><td>Reference</td><td>Book 1 Hadith 267</td></tr></tbody></table></div>
 

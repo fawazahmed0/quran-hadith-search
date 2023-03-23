@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন, স্ত্রী তার স্বামীর ঘর হতে কাউকে কিছু সদাকাহ করলে (স্ত্রী এর সওয়াব পাবে)। (১৪২৫) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ নাই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1439</td></tr><tr><td>Arabic No</td><td>1439</td></tr><tr><td>Reference</td><td>Book 24 Hadith 42</td></tr></tbody></table></div>

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৪১৫, আন্তর্জাতিক নাম্বারঃ ১৪৩২ ৩৪১৫-(১০৯/...) মুহাম্মাদ ইবনু রাফি’, ‘আবদ ইবনু হুমায়দ ও আল আ'রাজ (রহিমাহুমুল্লাহ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, নিকৃষ্ট খাদ্য হলো ওয়ালীমার খাদ্য। মালিক এর হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ৩৩৮৮, ইসলামীক সেন্টার ৩৩৮৭)
+ইবনু আবূ উমর (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) এর সূত্রে অনুরূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৩৮৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3523</td></tr><tr><td>Arabic No</td><td>1432.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 126</td></tr></tbody></table></div>
 

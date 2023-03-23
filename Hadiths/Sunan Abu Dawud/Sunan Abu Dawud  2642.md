@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ ... আনাস ইবন মালিক (রাঃ) হতে উক্ত মর্মে হাদীসটি বর্ণিত হয়েছে।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি মুশরিকদের বিরুদ্ধে যুদ্ধ করতে আদিষ্ট হয়েছি... বাকী অংশ উপরের হাদীসের অনুরূপ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2642</td></tr><tr><td>Arabic No</td><td>2642</td></tr><tr><td>Reference</td><td>Book 15 Hadith 166</td></tr></tbody></table></div>
 

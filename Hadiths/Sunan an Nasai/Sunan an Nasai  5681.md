@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সুওয়ায়দ ইবন না (রহঃ) ... কারীমা বিনত হাম্মাম বলেন, আমি উম্মুল মু'মিনীন আয়েশা (রাঃ)-কে বলতে শুনেছি যে, তোমাদেরকে কদুর খোল, মাটির পাত্র এবং তৈলাক্ত পাত্র হতে নিষেধ করা হয়েছে। এরপর তিনি নারীদের দিকে মুখ ফিরিয়ে বললেনঃ যদি সবুজ মাটির পাত্র হতেও মাদকতা আসতে দেখ, তবে তাতেও পান করবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5681</td></tr><tr><td>Arabic No</td><td>5681</td></tr><tr><td>Reference</td><td>Book 51 Hadith 143</td></tr></tbody></table></div>
 

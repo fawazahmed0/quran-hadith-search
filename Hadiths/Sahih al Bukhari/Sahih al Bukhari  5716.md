@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এসে বলল যে, আমার ভাইয়ের পেট খারাপ হয়েছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তাকে মধু পান করাও। সে তাকে মধু সেবন করাল। এরপর বলল, আমি তাকে মধু পান করিয়েছি কিন্তু অসুখ আরো বাড়ছে। তিনি বললেনঃ আল্লাহ সত্য বলেছেন, কিন্তু তোমার ভাইয়ের পেট তা মিথ্যা প্রতিপন্ন করতে চায়। নযর (রহ.) শু‘বাহ থেকে এরকমই বর্ণনা করেছেন। [৫৬৮৪] (আধুনিক প্রকাশনী- ৫২৯৮, ইসলামিক ফাউন্ডেশন- ৫১৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এসে বলল যে, আমার ভাইয়ের পেট খারাপ হয়েছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তাকে মধু পান করাও। সে তাকে মধু সেবন করাল। এরপর বলল, আমি তাকে মধু পান করিয়েছি কিন্তু অসুখ আরো বাড়ছে। তিনি বললেনঃ আল্লাহ সত্য বলেছেন, কিন্তু তোমার ভাইয়ের পেট তা মিথ্যা প্রতিপন্ন করতে চায়। নযর (রহ.) শু‘বাহ থেকে এরকমই বর্ণনা করেছেন। [৫৬৮৪] (আধুনিক প্রকাশনী- ৫২৯৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5716</td></tr><tr><td>Arabic No</td><td>5716</td></tr><tr><td>Reference</td><td>Book 76 Hadith 33</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Sa'id:A man came to the prophet and said, 'My brother has got loose motions. The Prophet (ﷺ) said, Let him drink honey." The man again (came) and said, 'I made him drink (honey) but that made him worse.' The Prophet (ﷺ) said, 'Allah has said the Truth, and the 'Abdomen of your brother has told a lie." (See Hadith No. 88)
+Narrated Abu Sa'id:A man came to the prophet and said, 'My brother has got loose motions. The Prophet (ﷺ) said, Let him drink honey." The man again (came) and said, 'I made him drink (honey) but that made him worse.' The Prophet (ﷺ) said, 'Allah has said the Truth, and the 'Abdomen of your brother has told a lie." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5716</td></tr><tr><td>Arabic No</td><td>5716</td></tr><tr><td>Reference</td><td>Book 76 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் ஒரு மனிதர் வந்து, ‘‘என் சகோதரருக்குத் தொடர்ந்து வயிற்றுப்போக்கு இருந்துவருகிறது” என்று சொன்னார். நபி (ஸல்) அவர்கள், ‘‘அவருக்குத் தேன் ஊட்டுங்கள்” என்று சொன்னார்கள். அவ்வாறே அவரும் தம் சகோதரருக்குத் தேன் ஊட்டினார். பிறகு அவர் வந்து, ‘‘என் சகோதரருக்குத் தேன் ஊட்டினேன்; ஆனால், அது அவருக்கு வயிற்றுப்போக்கை அதிகமாக்கவே செய்தது” எனக் கூறினார். நபி (ஸல்) அவர்கள், அல்லாஹ் உண்மை சொன்னான். உன் சகோதரரின் வயிறுதான் பொய் பேசியது” என்று பதில் சொன்னார்கள்.45 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 76
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் ஒரு மனிதர் வந்து, ‘‘என் சகோதரருக்குத் தொடர்ந்து வயிற்றுப்போக்கு இருந்துவருகிறது” என்று சொன்னார். நபி (ஸல்) அவர்கள், ‘‘அவருக்குத் தேன் ஊட்டுங்கள்” என்று சொன்னார்கள். அவ்வாறே அவரும் தம் சகோதரருக்குத் தேன் ஊட்டினார். பிறகு அவர் வந்து, ‘‘என் சகோதரருக்குத் தேன் ஊட்டினேன்; ஆனால், அது அவருக்கு வயிற்றுப்போக்கை அதிகமாக்கவே செய்தது” எனக் கூறினார். நபி (ஸல்) அவர்கள், அல்லாஹ் உண்மை சொன்னான். உன் சகோதரரின் வயிறுதான் பொய் பேசியது” என்று பதில் சொன்னார்கள்.45 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5716</td></tr><tr><td>Arabic No</td><td>5716</td></tr><tr><td>Reference</td><td>Book 76 Hadith 33</td></tr></tbody></table></div>
 

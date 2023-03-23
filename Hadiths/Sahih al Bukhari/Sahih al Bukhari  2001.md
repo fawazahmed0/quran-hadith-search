@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রথমে ‘আশূরার দিনে সওম পালনের নির্দেশ দিয়েছিলেন, পরে যখন রমাযানের সওম ফরজ করা হলো তখন যার ইচ্ছা (‘আশূরার) সওম পালন করত আর যার ইচ্ছা করত না। (১৫৯২) (আধুনিক প্রকাশনীঃ ১৮৬০, ইসলামিক ফাউন্ডেশনঃ ১৮৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রথমে ‘আশূরার দিনে সওম পালনের নির্দেশ দিয়েছিলেন, পরে যখন রমাযানের সওম ফরজ করা হলো তখন যার ইচ্ছা (‘আশূরার) সওম পালন করত আর যার ইচ্ছা করত না। (১৫৯২) (আধুনিক প্রকাশনীঃ ১৮৬০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2001</td></tr><tr><td>Arabic No</td><td>2001</td></tr><tr><td>Reference</td><td>Book 30 Hadith 106</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஆஷூரா நாளில் நோன்பு நோற்குமாறு கட்டளையிட்டிருந்தார்கள். ரமளான் நோன்பு கடமையாக்கப்பட்டதும் விரும்பிய வர் (ஆஷூரா தினத்தில்) நோன்பு நோற்றார்; விரும்பாதவர் விட்டுவிட்டார். அத்தியாயம் : 30
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஆஷூரா நாளில் நோன்பு நோற்குமாறு கட்டளையிட்டிருந்தார்கள். ரமளான் நோன்பு கடமையாக்கப்பட்டதும் விரும்பிய வர் (ஆஷூரா தினத்தில்) நோன்பு நோற்றார்; விரும்பாதவர் விட்டுவிட்டார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2001</td></tr><tr><td>Arabic No</td><td>2001</td></tr><tr><td>Reference</td><td>Book 30 Hadith 106</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনুল মুছান্না (রহঃ) ..... আল-মুত্তালিব (রাঃ) থেকে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ নফল নামায দুই দুই রাকাত এবং তুমি প্রতি দুই রাকাতের পর তাশাহহুদ পড়বে, অতপর নিজের বিপদাপদ ও দারিদ্রের কথা প্রকাশ করে দুই হাত তুলে দু’আ করবেঃ আল্লাহুম্মা, আল্লাহুম্মা - ইত্যাদি। যে ব্যক্তি এরূপ করবে না তার নামায ত্রুটিপূর্ণ। (নাসাঈ, ইবন মাজা) ইমাম আবু দাউদ (রহঃ)-কে রাতের নফল নামায দুই রাকাত করে আদায় সম্পর্কে জিজ্ঞাসা করা হলে তিনি বলেন, তুমি ইচ্ছা করলে দুই বা চার রাকাত করেও আদায় করতে পার।
+। আল-মুত্তালিব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সালাত দু’ রাক‘আত দু’ রাক‘আত করে আদায় করতে হয়। প্রত্যেক দু’ রাক‘আতে তোমার তাশাহহুদ পড়তে হবে। অতঃপর তুমি তোমার বিপদাপদ ও দারিদ্রের কথা দু’ হাত উঠিয়ে দু‘আ করবে, হে আল্লাহ! হে আল্লাহ! যে ব্যক্তি এরূপ করে না তার আচরণ হবে ক্রটিপূর্ণ।[1] ইমাম আবূ দাউদ (রহঃ)-কে রাতে দু’ রাক‘আত করে সালাত সম্বন্ধে জিজ্ঞেস করা হলে তিনি বলেন, তুমি ইচ্ছা করলে দু’ রাক‘আত আদায় করতে পারো, আবার ইচ্ছে হলে চার রাক‘আত করেও আদায় করতে পারো। দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1296</td></tr><tr><td>Arabic No</td><td>1296</td></tr><tr><td>Reference</td><td>Book 5 Hadith 47</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-el-Muttalib (b. Rabia)'dan rivayet edildiğine göre, Nebi (s.a.v.) şöyle buyurmuştur: "Namaz ikişer ikişerdir. Her iki rekatta bir tehiyyat okur. ilahî duygularla kendinden geçer, aczini ortaya koyarsın el kaldırıp dua eder ve "ey Allah'ım, ey Allahım!" dersin. Kim (namazda) böyle yapmazsa o (namaz) noksandır." Ebû Davud'a gece namazının ikişer (rekat) olmasından (maksa­dın ne olduğu) soruldu da; "İstersen ikişer, istersen dörd(er) (kılar­sın)" diye cevab verdi. Diğer tahric: Tirmizî, salât, İbn Mâce, ikâme; Ahmed b. Hanbel, I, 211; IV, 167
+el-Muttalib (b. Rabia)'dan rivayet edildiğine göre, Nebi (s.a.v.) şöyle buyurmuştur: "Namaz ikişer ikişerdir. Her iki rekatta bir tehiyyat okur. ilahî duygularla kendinden geçer, aczini ortaya koyarsın el kaldırıp dua eder ve "ey Allah'ım, ey Allahım!" dersin. Kim (namazda) böyle yapmazsa o (namaz) noksandır." Ebû Davud'a gece namazının ikişer (rekat) olmasından (maksa­dın ne olduğu) soruldu da; "İstersen ikişer, istersen dörd(er) (kılar­sın)" diye cevab verdi. Diğer tahric: Tirmizî, salât, İbn Mâce, ikâme; Ahmed b. Hanbel, I, 211; IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1296</td></tr><tr><td>Arabic No</td><td>1296</td></tr><tr><td>Reference</td><td>Book 5 Hadith 47</td></tr></tbody></table></div>
 

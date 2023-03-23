@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৭৬, আন্তর্জাতিক নাম্বারঃ ১৯৮ ৩৭৬-(৩৩৫/...) যুহায়র ইবনু হারব ও আবদ ইবনু হুমায়দ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ প্রত্যেক নবীর জন্য একটি বিশেষ দু'আ আছে। (কিন্তু তারা সে দু'আর প্রয়োগ দুনিয়াতেই করে ফেলেছেন।) আমার বিশেষ দু'আটি কিয়ামত দিবসে আমার উম্মতের শাফা'আতের জন্য গোপনে সংরক্ষিত রাখব বলে ইচ্ছা করেছি ইনশা-আল্লা-হ। (ইসলামিক ফাউন্ডেশনঃ ৩৮৪, ইসলামিক সেন্টারঃ ৩৯৫)
+যুহায়র ইবনু হারব ও আবদ ইবনু হুমায়দ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ প্রত্যেক নবীর জন্য একটি বিশেষ দু'আ আছে। (কিন্তু তারা সে দু'আর প্রয়োগ দুনিয়াতেই করে ফেলেছেন।) আমার বিশেষ দু'আটি কিয়ামত দিবসে আমার উম্মতের শাফা'আতের জন্য গোপনে সংরক্ষিত রাখব বলে ইচ্ছা করেছি ইনশা-আল্লা-হ। (ইসলামিক ফাউন্ডেশনঃ ৩৮৪, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>488</td></tr><tr><td>Arabic No</td><td>198.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 394</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Abd bin Humaid], [Zuhair]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Zuheyr b. Harb ile Abd b. Hümeyd de rivayet ettiler. Züheyr dedi ki: Bize Yakub b. İbrahim rivayet etti. (Dedi ki): Bize İbni Şihab'ın kardeşi oğlu amcasından rivayet etti. (Demiş ki): Bana Ebu Selemete'bni Abdirrahman Ebu Hureyre'nin şöyle dediğini haber verdi Resulullah (Sallallahu Aleyhi ve Sellem) "Şüphesiz her bir nebinin bir (kabul edilen) duası olmuştur. Ben de -inşallah- bu duamı kıyamet gününde ümmetim için yapacağım dua olarak saklamak istedim" dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 15253
+Bana Zuheyr b. Harb ile Abd b. Hümeyd de rivayet ettiler. Züheyr dedi ki: Bize Yakub b. İbrahim rivayet etti. (Dedi ki): Bize İbni Şihab'ın kardeşi oğlu amcasından rivayet etti. (Demiş ki): Bana Ebu Selemete'bni Abdirrahman Ebu Hureyre'nin şöyle dediğini haber verdi Resulullah (Sallallahu Aleyhi ve Sellem) "Şüphesiz her bir nebinin bir (kabul edilen) duası olmuştur. Ben de -inşallah- bu duamı kıyamet gününde ümmetim için yapacağım dua olarak saklamak istedim" dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>488</td></tr><tr><td>Arabic No</td><td>198.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 394</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাম করতেন, তখন তিনবার সালাম দিতেন এবং যখন কথা বলতেন তখন তিনবার তার পুনরাবৃত্তি করতেন। [৯৪] (আধুনিক প্রকাশনী- ৫৮০২, ইসলামিক ফাউন্ডেশন- ৫৬৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাম করতেন, তখন তিনবার সালাম দিতেন এবং যখন কথা বলতেন তখন তিনবার তার পুনরাবৃত্তি করতেন। [৯৪] (আধুনিক প্রকাশনী- ৫৮০২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6244</td></tr><tr><td>Arabic No</td><td>6244</td></tr><tr><td>Reference</td><td>Book 79 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Abdush Sha
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (சபையோருக்கு, அல்லது அயலார் வீட்டுக்குள் நுழைய அனுமதி கேட்டு) சலாம் கூறினால் மூன்று முறை சலாம் கூறுவார்கள். ஏதாவது ஒரு வார்த்தை பேசினால் (மக்கள் நன்கு விளங்கிக்கொள்வதற்காக) அதை மூன்று முறை திரும்பச் சொல்வார்கள்.20 அத்தியாயம் : 79
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (சபையோருக்கு, அல்லது அயலார் வீட்டுக்குள் நுழைய அனுமதி கேட்டு) சலாம் கூறினால் மூன்று முறை சலாம் கூறுவார்கள். ஏதாவது ஒரு வார்த்தை பேசினால் (மக்கள் நன்கு விளங்கிக்கொள்வதற்காக) அதை மூன்று முறை திரும்பச் சொல்வார்கள்.20 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6244</td></tr><tr><td>Arabic No</td><td>6244</td></tr><tr><td>Reference</td><td>Book 79 Hadith 18</td></tr></tbody></table></div>
 

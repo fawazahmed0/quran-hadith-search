@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করেছেনঃ যারা শোকে গন্ডে চপেটাঘাত করে, জামার বক্ষ ছিন্ন করে ও জাহিলী যুগের মত চিৎকার দেয়, তারা আমাদের দলভুক্ত নয়। (১২৯৪) (আধুনিক প্রকাশনীঃ ১২১৩, ইসলামিক ফাউন্ডেশনঃ ১২২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করেছেনঃ যারা শোকে গন্ডে চপেটাঘাত করে, জামার বক্ষ ছিন্ন করে ও জাহিলী যুগের মত চিৎকার দেয়, তারা আমাদের দলভুক্ত নয়। (১২৯৪) (আধুনিক প্রকাশনীঃ ১২১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1298</td></tr><tr><td>Arabic No</td><td>1298</td></tr><tr><td>Reference</td><td>Book 23 Hadith 56</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: (துன்பத்தின்போது) கன்னங்களில் அறைந்துகொள்பவரும், சட்டைப் பைகளைக் கிழித்துக்கொள்பவரும், அறியாமைக் கால வழக்கப்படி புலம்பு கின்றவரும் நம்மைச் சார்ந்தவர் அல்லர். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 23
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: (துன்பத்தின்போது) கன்னங்களில் அறைந்துகொள்பவரும், சட்டைப் பைகளைக் கிழித்துக்கொள்பவரும், அறியாமைக் கால வழக்கப்படி புலம்பு கின்றவரும் நம்மைச் சார்ந்தவர் அல்லர். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1298</td></tr><tr><td>Arabic No</td><td>1298</td></tr><tr><td>Reference</td><td>Book 23 Hadith 56</td></tr></tbody></table></div>
 

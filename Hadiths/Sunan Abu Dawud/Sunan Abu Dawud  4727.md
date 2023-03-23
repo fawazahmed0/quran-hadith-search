@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাফ্‌স (রহঃ) ..... জাবির ইবন আবদুল্লাহ্‌ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাকে আরশবাহী একজন ফেরেশতা সম্পর্কে কিছু বর্ণনা দেয়ার অনুমতি প্রদান করা হয়েছে। তা এরূপঃ তার কানের নীচের অংশ থেকে কাঁধের দূরত্ব হলো, সাত শো বছরের রাস্তা
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ যে সকল ফিরিশতা আরশ বহন করেন, তাদের একজনের সঙ্গে আলাপ করার জন্য আমাকে অনুমতি দেয়া হয়েছিল। তার কানের লতি থেকে কাঁধ পর্যন্ত স্থানের দূরত্ব হলো সাতশ বছরের দূরত্বের সমান।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4727</td></tr><tr><td>Arabic No</td><td>4727</td></tr><tr><td>Reference</td><td>Book 42 Hadith 132</td></tr></tbody></table></div>
 

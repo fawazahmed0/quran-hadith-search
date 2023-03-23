@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাজ্জাজ (রহঃ) ..... মুহাম্মাদ ইবন মুসলিম যুহরী (রহঃ) উপরোক্ত সনদ ও অর্থে হাদীছ বর্ণনা করেছেন। তিনি বলেনঃ সালামের পূর্বে দুটি সিজদা দিয়ে পরে সালাম ফিরাবে।
+। মুহাম্মাদ ইবনু মুসলিম আয-যুহরী (রহঃ) উপরোক্ত সানাদ ও অর্থে হাদীসটি বর্ণনা করেছেন। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, সে যেন সালাম ফিরানোর আগে দু‘টি সিজদা্ আদায় করে, অতঃপর সালাম ফিরায়।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>1032</td></tr><tr><td>Reference</td><td>Book 2 Hadith 643</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ক্রীতদাসের অভিভাবকত্ব বিক্রি করতে এবং তা দান করতে নিষেধ করেছেন। (৬৭৫৬) (আধুনিক প্রকাশনীঃ ২৩৫১, ইসলামিক ফাউন্ডেশনঃ ২৩৬৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ক্রীতদাসের অভিভাবকত্ব বিক্রি করতে এবং তা দান করতে নিষেধ করেছেন। (৬৭৫৬) (আধুনিক প্রকাশনীঃ ২৩৫১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2535</td></tr><tr><td>Arabic No</td><td>2535</td></tr><tr><td>Reference</td><td>Book 49 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Sy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், (முன்னாள்) அடிமைக்கு வாரிசாகின்ற உரிமையை விற்பதையும் (அன்பளிப்பாக) வழங்குவதையும் தடை செய்தார்கள். அத்தியாயம் : 49
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், (முன்னாள்) அடிமைக்கு வாரிசாகின்ற உரிமையை விற்பதையும் (அன்பளிப்பாக) வழங்குவதையும் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2535</td></tr><tr><td>Arabic No</td><td>2535</td></tr><tr><td>Reference</td><td>Book 49 Hadith 19</td></tr></tbody></table></div>
 

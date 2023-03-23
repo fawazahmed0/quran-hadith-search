@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উকবা ইবনু মুকাররাম ..... আসিম ইবনু লাকীত ইবনু সাবুরা হতে তাঁর পিতার সূত্রে বর্ণিত। একদা বনী মুনতাফিকের প্রতিনিধি-দল আয়িশা (রাঃ) এর খিদমতে উপস্থিত হয়। অতঃপর রাবী পূর্ববর্তী হাদীছের অনুরূপ বর্ণনা করেন। রাবী আরো বলেন, আমরা কিছুক্ষণ অপেক্ষা করার পর নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম মন্থর গতিতে সেখানে এসে উপস্থিত হন। এস্থলে বর্ণনাকারী خَزِيرَةٍ শব্দের পরিবর্তে عَصِيدَةٍ শব্দ উল্লেখ করেছেন।
+। ‘আসিম ইবনু লাক্বীত্ব ইবনু সাবরাহ হতে তার পিতার সূত্রে বর্ণিত, যিনি বনু মুনতাফিক্ব গোত্রের সর্দার ছিলেন। একদা তিনি ‘আয়িশাহ্ (রাঃ)-এর নিকট আসলেন। অতঃপর বর্ণনাকারী (ইবনু জুরায়জ) পূর্বোক্ত হাদীসের সমার্থবোধক হাদীস বর্ণনা করেন। বর্ণনাকারী (বৃদ্ধি করে) বলেন, কিছুক্ষণ অপেক্ষার পরই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানে মন্থর গতিতে আসলেন। উক্ত বর্ণনায় ‘খাযিরাহ’ শব্দের স্থলে ‘আসীদাহ’ শব্দ উল্লেখ রয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>143</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
 

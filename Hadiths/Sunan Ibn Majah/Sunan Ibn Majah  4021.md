@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৪০২১। বারাআ ইবনে আযেব (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘‘আল্লাহ তাদের অভিসম্পাত করেন এবং অভিশাপকারীরাও তাদের অভিসম্পাত করে’’ (সূরা বাকারঃ ১৫৯)। রাবী বলেন, জীব-জানোয়ারের অভিশাপের কথা বুঝানো হয়েছে।
+। বারাআ ইবনে আযেব (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘‘আল্লাহ তাদের অভিসম্পাত করেন এবং অভিশাপকারীরাও তাদের অভিসম্পাত করে’’ (সূরা বাকারঃ ১৫৯)। রাবী বলেন, জীব-জানোয়ারের অভিশাপের কথা বুঝানো হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4021</td></tr><tr><td>Arabic No</td><td>4021</td></tr><tr><td>Reference</td><td>Book 36 Hadith 96</td></tr></tbody></table></div>
 

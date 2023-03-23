@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবদুল্লাহ্ ইবনুস সায়েব (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে দু' রুকনের মাঝখানে বলতে শুনেছিঃ ‘‘হে আমাদের প্রতিপালক! আমাদেরকে দুনিয়ার কল্যাণ ও আখিরাতের কল্যাণ দান করো এবং জাহান্নামের শাস্তি হতে রক্ষা করো।
+। ‘আব্দুল্লাহ ইবনুস সাঈদ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দুই রুকনের মাঝখানে বলতে শুনেছি ‘‘হে আমাদের রব! আমাদেরকে দুনিয়ার কল্যাণ দিন, আখিরাতের কল্যাণ দিন এবং জাহান্নামের ‘আযাব থেকে রক্ষা করুন’’ (সূরা আল-বাকারাহঃ ২০১)।[1] হাসান
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1892</td></tr><tr><td>Arabic No</td><td>1892</td></tr><tr><td>Reference</td><td>Book 11 Hadith 172</td></tr></tbody></table></div>
 

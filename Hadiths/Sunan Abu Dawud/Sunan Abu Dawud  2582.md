@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন মুসান্না .... কাতাদা (রহঃ) হতে বর্ণিত। তিনি বলেন, ঘোড়াকে পেছন থেকে তাড়া দেয়া আর পার্শ্বে খোঁচা দেয়া দৌড় প্রতিযোগিতায় নিষিদ্ধ।
+। কাতাদাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ঘোড়দৌড় প্রতিযোগিতায় ঘোড়াকে তাড়া দেয়া ও পার্শ্বে খোঁচা মারা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2582</td></tr><tr><td>Arabic No</td><td>2582</td></tr><tr><td>Reference</td><td>Book 15 Hadith 106</td></tr></tbody></table></div>
 

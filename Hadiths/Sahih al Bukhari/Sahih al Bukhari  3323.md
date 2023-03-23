@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। ‘রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুকুর মেরে ফেলতে আদেশ করেছেন।’ (মুসলিম ২২/১০ হাঃ ১৫৭০, আহমাদ ৫৯৩২) (আধুনিক প্রকাশনীঃ ৩০৭৭, ইসলামিক ফাউন্ডেশনঃ ৩০৮৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। ‘রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুকুর মেরে ফেলতে আদেশ করেছেন।’ (মুসলিম ২২/১০ হাঃ ১৫৭০, আহমাদ ৫৯৩২) (আধুনিক প্রকাশনীঃ ৩০৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3323</td></tr><tr><td>Arabic No</td><td>3323</td></tr><tr><td>Reference</td><td>Book 59 Hadith 129</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தொல்லை தரும்) நாய்களைக் கொல்லும் படி உத்தரவிட்டார்கள். அத்தியாயம் : 59
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தொல்லை தரும்) நாய்களைக் கொல்லும் படி உத்தரவிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3323</td></tr><tr><td>Arabic No</td><td>3323</td></tr><tr><td>Reference</td><td>Book 59 Hadith 129</td></tr></tbody></table></div>
 

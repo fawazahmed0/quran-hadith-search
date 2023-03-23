@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বাহ (রহ.)…. আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ (সা.) আমাদের জন্যে গোঁফ ছাঁটা, নখ কাটা, নাভীর নিচের লোম চেছে ফেলা ও বগলের লোম উপড়ে ফেলার সময় নির্ধারণ করে দিয়েছেন যে, আমরা যেন এ কাজগুলো চল্লিশ দিনের বেশি সময় পর্যন্ত ফেলে না রাখি। রাবী বলেন, আরেকবার তিনি রাতের কথাও বলেছেন। সহীহ: মুসলিম ২৫৮, আবূ দাউদ ৪২০০, তিরমিযী ২৭৫৯, ইবনু মাজাহ ২৯০, ২৯৫।
+। কুতায়বা (রহঃ) ... আনাস ইবনু মালিক (রাঃ) বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন আমাদের জন্য গোঁফ ছাঁটা, নখ কাটা, নাভীর নিম্নভাগের লোম চেঁছে ফেলার ও বগলের পশম উপড়ে ফেলার মেয়াদ নির্দিষ্ট করে দিয়েছেন যে, আমরা যেন এ কাজগুলো চল্লিশ দিনের বেশী সময় পর্যন্ত ফেলে না রাখি। রাবী বলেন, আরেকবার চল্লিশ রাতের কথাও বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>14</td></tr><tr><td>Arabic No</td><td>14</td></tr><tr><td>Reference</td><td>Book 1 Hadith 14</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Qutaibah] dia berkata; telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Mâlik (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem): kısaltma, tırnakları kesme, etek ve koltuk tıraşı olmayı; kırk günden fazla uzatmamayı bize emretmiştir.) Başka bir seferinde ise kırk geceden fazla bir süre demiştir. Tahara: 16; Tirmizî, Edeb: 15
+Enes b. Mâlik (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem): kısaltma, tırnakları kesme, etek ve koltuk tıraşı olmayı; kırk günden fazla uzatmamayı bize emretmiştir.) Başka bir seferinde ise kırk geceden fazla bir süre demiştir. Tahara: 16; Tirmizî, Edeb:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>14</td></tr><tr><td>Arabic No</td><td>14</td></tr><tr><td>Reference</td><td>Book 1 Hadith 14</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বুরদা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ আল্লাহর নির্দিষ্ট হদসমূহের কোন হদ ছাড়া অন্য ক্ষেত্রে দশ বেত্রাঘাতের বেশি দন্ড দেয়া যাবে না। [৬৮৪৯, ৬৮৫০; মুসলিম ২৯/৯, হাঃ ১৭০৮, আহমাদ ১৬৪৮৬] (আধুনিক প্রকাশনী- ৬৩৭১, ইসলামিক ফাউন্ডেশন- ৬৩৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বুরদা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ আল্লাহর নির্দিষ্ট হদসমূহের কোন হদ ছাড়া অন্য ক্ষেত্রে দশ বেত্রাঘাতের বেশি দন্ড দেয়া যাবে না। [৬৮৪৯, ৬৮৫০; মুসলিম ২৯/৯, হাঃ ১৭০৮, আহমাদ ১৬৪৮৬] (আধুনিক প্রকাশনী- ৬৩৭১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6848</td></tr><tr><td>Arabic No</td><td>6848</td></tr><tr><td>Reference</td><td>Book 86 Hadith 70</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூபுர்தா (ரலி) அவர்கள் கூறியதாவது: “அல்லாஹ் விதியாக்கியுள்ள (குற்ற வியல்) தண்டனைகளில் ஒன்றில் தவிர வேறு எதற்காகவும் பத்து சாட்டையடி களுக்குமேல் வழங்கப்படலாகாது” என்று நபி (ஸல்) அவர்கள் கூறுவார்கள். அத்தியாயம் : 86
+அபூபுர்தா (ரலி) அவர்கள் கூறியதாவது: “அல்லாஹ் விதியாக்கியுள்ள (குற்ற வியல்) தண்டனைகளில் ஒன்றில் தவிர வேறு எதற்காகவும் பத்து சாட்டையடி களுக்குமேல் வழங்கப்படலாகாது” என்று நபி (ஸல்) அவர்கள் கூறுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6848</td></tr><tr><td>Arabic No</td><td>6848</td></tr><tr><td>Reference</td><td>Book 86 Hadith 70</td></tr></tbody></table></div>
 

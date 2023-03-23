@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ও আবূ বকর ইবন শায়বা (রহঃ) ..... আবদুল্লাহ্‌ ইবন আমর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রহমকারীদের উপর রাহমান অর্থাৎ আল্লাহ্‌ রহম করেন। তোমরা যমীনবাসীদের উপর রহম কর, তাহলে আসমানের অধিপতি আল্লাহ্‌ তোমাদের উপর রহম করবেন।
+। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ দয়াশীলদের উপর করুণাময় আল্লাহ দয়া করেন। তোমরা দুনিয়াবাসীকে দয়া করো, তাহলে যিনি আসমানে আছেন তিনি তোমাদেরকে দয়া করবেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4941</td></tr><tr><td>Arabic No</td><td>4941</td></tr><tr><td>Reference</td><td>Book 43 Hadith 169</td></tr></tbody></table></div>
 

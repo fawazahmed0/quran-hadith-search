@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ক্বাতাদাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাতের ইকামাত হলে আমাকে না দেখা পর্যন্ত তোমরা দাঁড়াবে না। ধীরস্থিরতার প্রতি লক্ষ্য রাখা তোমাদের জন্য একান্ত কর্তব্য। ‘আলী ইবনু মুবারক (রহ.) হাদীস বর্ণনায় শায়বান (রহ.)-এর অনুসরণ করেছেন। (৬৩৭) (আধুনিক প্রকাশনীঃ ৬০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>638</td></tr><tr><td>Arabic No</td><td>638</td></tr><tr><td>Reference</td><td>Book 10 Hadith 35</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொழுகைக்கு ‘இகாமத்’ சொல்லப் பட்டால், என்னை நீங்கள் பார்க்காத வரை எழ(வோ செல்லவோ) வேண்டாம்; நிதானத்தைக் கடைப்பிடியுங்கள். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் இந்த ஹதீஸ் வந்துள்ளது. அத்தியாயம் : 10
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொழுகைக்கு ‘இகாமத்’ சொல்லப் பட்டால், என்னை நீங்கள் பார்க்காத வரை எழ(வோ செல்லவோ) வேண்டாம்; நிதானத்தைக் கடைப்பிடியுங்கள். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் இந்த ஹதீஸ் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>638</td></tr><tr><td>Arabic No</td><td>638</td></tr><tr><td>Reference</td><td>Book 10 Hadith 35</td></tr></tbody></table></div>
 

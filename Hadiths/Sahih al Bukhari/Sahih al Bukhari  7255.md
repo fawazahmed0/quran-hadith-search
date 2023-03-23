@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক উম্মাতে একজন বিশ্বস্ত লোক থাকে আর এ উম্মাতের বিশ্বস্ত লোক হল আবূ ‘উবাইদাহ ইবনুল জাররাহ্ (রাঃ)। [৩৭৪৪] (আধুনিক প্রকাশনী- ৬৭৪৮, ইসলামিক ফাউন্ডেশন- ৬৭৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক উম্মাতে একজন বিশ্বস্ত লোক থাকে আর এ উম্মাতের বিশ্বস্ত লোক হল আবূ ‘উবাইদাহ ইবনুল জাররাহ্ (রাঃ)। [৩৭৪৪] (আধুনিক প্রকাশনী- ৬৭৪৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7255</td></tr><tr><td>Arabic No</td><td>7255</td></tr><tr><td>Reference</td><td>Book 95 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வொரு சமுதாயத்தாருக்கும் (அவர்களின்) நம்பிக்கைக்குப் பாத்திரமானவர் ஒருவர் உண்டு. (எனது) இந்தச் சமுதாயத்தாரின் நம்பிக்கைக்குரியவர் அபூஉபைதா ஆவார். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.13 அத்தியாயம் : 95
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வொரு சமுதாயத்தாருக்கும் (அவர்களின்) நம்பிக்கைக்குப் பாத்திரமானவர் ஒருவர் உண்டு. (எனது) இந்தச் சமுதாயத்தாரின் நம்பிக்கைக்குரியவர் அபூஉபைதா ஆவார். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.13 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7255</td></tr><tr><td>Arabic No</td><td>7255</td></tr><tr><td>Reference</td><td>Book 95 Hadith 10</td></tr></tbody></table></div>
 

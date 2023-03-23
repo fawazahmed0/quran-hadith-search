@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সামুরাহ ইবনু জুনদাব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পশ্চাতে আমি এমন এক স্ত্রীলোকের জানাযার সালাত আদায় করেছিলাম, যে নিফাস* অবস্থায় মারা গিয়েছিলেন। তিনি তার (স্ত্রীলোকটির) মাঝ বরাবর দাঁড়িয়েছিলেন। (৩৩২) (আধুনিক প্রকাশনীঃ ১২৪৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Arabic No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 23 Hadith 87</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Imran bin Maisarah] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சமுரா பின் ஜுன்தப் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுக்குப் பின்னால் நின்று, மகப்பேறு உதிரப்போக்கில் இறந்துபோன பெண்ணுக்கு ஜனாஸா தொழுகை தொழுதிருக்கிறேன். அப்போது நபி (ஸல்) அவர்கள் பிரேதத்தின் நடுப் பகுதிக்கு நேராக நின்றிருந்தார்கள். அத்தியாயம் : 23
+சமுரா பின் ஜுன்தப் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுக்குப் பின்னால் நின்று, மகப்பேறு உதிரப்போக்கில் இறந்துபோன பெண்ணுக்கு ஜனாஸா தொழுகை தொழுதிருக்கிறேன். அப்போது நபி (ஸல்) அவர்கள் பிரேதத்தின் நடுப் பகுதிக்கு நேராக நின்றிருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Arabic No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 23 Hadith 87</td></tr></tbody></table></div>
 

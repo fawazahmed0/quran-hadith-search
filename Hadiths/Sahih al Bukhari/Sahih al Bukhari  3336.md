@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, সমস্ত রূহ সেনাবাহিনীর মত একত্রিত ছিল। সেখানে তাদের যে সমস্ত রূহের পরস্পর পরিচয় ছিল, এখানেও তাদের মধ্যে পরস্পর পরিচিতি থাকবে। আর সেখানে যাদের মধ্যে পরস্পর পরিচয় হয়নি, এখানেও তাদের মধ্যে পরস্পর মতভেদ ও মতবিরোধ থাকবে। ইয়াহইয়া ইবনু আইয়ুব (রহ.) বলেছেন, ইয়াহইয়া ইবনু সা‘ঈদ (রহ.) আমাকে এভাবে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ২০০১ পরিচ্ছেদ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 60 Hadith 11</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Aishah (ra):I heard the Prophet (ﷺ), "Souls are like recruited troops
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: உயிர்கள் பல்வேறு வகைப்பட்டவை ஆகும். அவற்றில் ஒன்றுக்கொன்று (குணத்தால்) ஒத்துப்போகின்றவை பரஸ்பரம் பழகுகின்றன. ஒன்றுக்கொன்று (குணத்தால்) வேறுபட்டிருப்பவை பரஸ்பரம் முரண்பட்டு (விலகி) நிற்கின்றன. இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.9 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 60
+நபி (ஸல்) அவர்கள்கூறினார்கள்: உயிர்கள் பல்வேறு வகைப்பட்டவை ஆகும். அவற்றில் ஒன்றுக்கொன்று (குணத்தால்) ஒத்துப்போகின்றவை பரஸ்பரம் பழகுகின்றன. ஒன்றுக்கொன்று (குணத்தால்) வேறுபட்டிருப்பவை பரஸ்பரம் முரண்பட்டு (விலகி) நிற்கின்றன. இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.9 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 60 Hadith 11</td></tr></tbody></table></div>
 

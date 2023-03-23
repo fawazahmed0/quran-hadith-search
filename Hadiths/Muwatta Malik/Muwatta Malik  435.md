@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya related to me from Malik from Damra ibn Said al-Mazini from Ubaydullah ibn Abdullah ibn Utba ibn Masud that Umar ibn al-Khattab asked Abu Waqid al-Laythi what the Messenger of Allah, may Allah bless him and grant him peace, used to recite in the prayers of Adha and Fitr. He said, "He used to recite Qaf (Sura 50) and al-lnshiqaq (Sura84)
+Yahya related to me from Malik from Damra ibn Said al-Mazini from Ubaydullah ibn Abdullah ibn Utba ibn Masud that Umar ibn al-Khattab asked Abu Waqid al-Laythi what the Messenger of Allah, may Allah bless him and grant him peace, used to recite in the prayers of Adha and Fitr. He said, "He used to recite Qaf (Sura 50) and al-lnshiqaq (Sura)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>435</td></tr><tr><td>Arabic No</td><td>435</td></tr><tr><td>Reference</td><td>Book 10 Hadith 8</td></tr></tbody></table></div>
 

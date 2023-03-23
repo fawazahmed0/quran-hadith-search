@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আবূ ত্বলহা (রাঃ)-এর পেছনে একই সওয়ারীতে উপবিষ্ট ছিলাম। তখন লোকেরা হজ্জ ও ‘উমরাহ পালনের জন্য লাববায়ক ধ্বনি তুলছিল। (১০৮৯) (আধুনিক প্রকাশনীঃ ২৭৬৫, ইসলামিক ফাউন্ডেশনঃ ২৭৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আবূ ত্বলহা (রাঃ)-এর পেছনে একই সওয়ারীতে উপবিষ্ট ছিলাম। তখন লোকেরা হজ্জ ও ‘উমরাহ পালনের জন্য লাববায়ক ধ্বনি তুলছিল। (১০৮৯) (আধুনিক প্রকাশনীঃ ২৭৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2986</td></tr><tr><td>Arabic No</td><td>2986</td></tr><tr><td>Reference</td><td>Book 56 Hadith 195</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami ['A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் அபூதல்ஹா (ரலி) அவர்களின் (வாகனத்தில் அவர்களுக்குப்) பின்னால் அமர்ந்திருந்தேன். அப்போது மக்கள் ஹஜ், உம்ரா ஆகிய இரண்டுக்குமே உரக்க யிதல்பியா’ கூறிக்கொண்டிருந் தார்கள். அத்தியாயம் : 56
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் அபூதல்ஹா (ரலி) அவர்களின் (வாகனத்தில் அவர்களுக்குப்) பின்னால் அமர்ந்திருந்தேன். அப்போது மக்கள் ஹஜ், உம்ரா ஆகிய இரண்டுக்குமே உரக்க யிதல்பியா’ கூறிக்கொண்டிருந் தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2986</td></tr><tr><td>Arabic No</td><td>2986</td></tr><tr><td>Reference</td><td>Book 56 Hadith 195</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন আওফ (রহঃ) .... আবূ মালিক আশ'আরী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কোন ব্যক্তি তার ঘরে প্রবেশ করে, তখন সে যেন বলেঃ ইয়া আল্লাহ্‌! আমি আপনার কাছে ঘরে প্রবেশ ও ঘর থেকে বের হওয়ার সময় কল্যাণ প্রার্থনা করছি। আমি আল্লাহ্‌র নাম নিয়ে ঘরে প্রবেশ করছি এবং আল্লাহ্‌র নাম নিয়ে ঘর থেকে বের হচ্ছি। আমি আল্লাহ্‌র উপর, যিনি আমাদের রব তাঁর ভরসা করছি। এরপর সে যেন তার পরিবার-পরিজনদের উপর সালাম করে।
+। আবূ মালিক আল-আশ‘আরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কেউ নিজ ঘরে প্রবেশ কররে তখন সে যেন বলেঃ (অর্থ) ‘‘হে আল্লাহ! আমি আপনার নিকট আগমন ও প্রস্থানের কল্যাণ চাই। আপনার নামে আমি প্রবেশ করি ও বের হই এবং আমাদের রব আল্লাহর উপর ভরসা করি।’’ অতঃপর সে যেন তার পরিবারের লোকদের সালাম দেয়।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5096</td></tr><tr><td>Arabic No</td><td>5096</td></tr><tr><td>Reference</td><td>Book 43 Hadith 324</td></tr></tbody></table></div>
 

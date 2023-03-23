@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন আমাদেরকে নিয়ে কোন যুদ্ধে যেতেন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2944</td></tr><tr><td>Arabic No</td><td>2944</td></tr><tr><td>Reference</td><td>Book 56 Hadith 156</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Anas:as Hadith No. 193 above
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எங்களுடன் அறப்போருக்குச் சென்றால்.... (என்று ஹதீஸ் தொடங்குகிறது)86 அத்தியாயம் : 56
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எங்களுடன் அறப்போருக்குச் சென்றால்.... (என்று ஹதீஸ் தொடங்குகிறது)86 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2944</td></tr><tr><td>Arabic No</td><td>2944</td></tr><tr><td>Reference</td><td>Book 56 Hadith 156</td></tr></tbody></table></div>
 

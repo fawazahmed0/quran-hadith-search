@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭৮৭, আন্তর্জাতিক নাম্বারঃ ১৮৯০ ৪৭৮৭-(.../...) আবূ বকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও আবূ কুরায়ব (রহঃ) ..... আবূয যিনাদ (রহঃ) হতে উক্ত সানাদে অনুরূপ বর্ণিত হয়েছে। ইসলামিক ফাউন্ডেশন ৪৭৪০, ইসলামিক সেন্টার ৪৭৪১
+আবূ বকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও আবূ কুরায়ব (রহঃ) ..... আবূয যিনাদ (রহঃ) হতে উক্ত সানাদে অনুরূপ বর্ণিত হয়েছে। ইসলামিক ফাউন্ডেশন ৪৭৪০, ইসলামিক সেন্টার
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>1890.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 189</td></tr></tbody></table></div>
 

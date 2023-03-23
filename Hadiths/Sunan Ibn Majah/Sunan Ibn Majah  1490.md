@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/১৪৯০। মালিক ইবনু হুবায়রা আশ্-শামী (রাঃ) থেকে বর্ণিত, তিনি সাহাবী ছিলেন। মারসাদ (রহঃ) বলেন, কোন জানাযা উপস্থিত হলে এবং লোকসংখ্যা কম হলে, তিনি তাদের তিন সারিতে কাতারবন্দী করে সালাত পড়তেন। তিনি আরো বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন মৃতের জানাযায় মুসলিমদের তিন সারি লোক হলেই তা (জান্নাত) অবধারিত করে।
+। মালিক ইবনু হুবায়রা আশ্-শামী (রাঃ) থেকে বর্ণিত, তিনি সাহাবী ছিলেন। মারসাদ (রহঃ) বলেন, কোন জানাযা উপস্থিত হলে এবং লোকসংখ্যা কম হলে, তিনি তাদের তিন সারিতে কাতারবন্দী করে সালাত পড়তেন। তিনি আরো বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন মৃতের জানাযায় মুসলিমদের তিন সারি লোক হলেই তা (জান্নাত) অবধারিত করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 6 Hadith 58</td></tr></tbody></table></div>
 

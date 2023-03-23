@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) বর্ণনা করেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আল্লাহর শপথ! আমি প্রতিদিন আল্লাহর কাছে সত্তরবারেরও অধিক ইস্তিগফার ও তওবা করে থাকি। (আধুনিক প্রকাশনী- ৫৮৬২, ইসলামিক ফাউন্ডেশন- ৫৭৫৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) বর্ণনা করেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আল্লাহর শপথ! আমি প্রতিদিন আল্লাহর কাছে সত্তরবারেরও অধিক ইস্তিগফার ও তওবা করে থাকি। (আধুনিক প্রকাশনী- ৫৮৬২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6307</td></tr><tr><td>Arabic No</td><td>6307</td></tr><tr><td>Reference</td><td>Book 80 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: “அல்லாஹ்வின் மீதாணையாக! நான் ஒருநாளில் எழுபது தடவைக்குமேல் ‘அஸ்தஃக்ஃபிருல்லாஹ வ அதூபு இலைஹி’ என்று கூறுகிறேன் என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறக் கேட்டுள்ளேன். (பொருள்: நான் அல்லாஹ்விடம் பாவமன்னிப்புக் கோரி அவன் பக்கமே திரும்புகிறேன்.)3 அத்தியாயம் : 80
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: “அல்லாஹ்வின் மீதாணையாக! நான் ஒருநாளில் எழுபது தடவைக்குமேல் ‘அஸ்தஃக்ஃபிருல்லாஹ வ அதூபு இலைஹி’ என்று கூறுகிறேன் என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறக் கேட்டுள்ளேன். (பொருள்: நான் அல்லாஹ்விடம் பாவமன்னிப்புக் கோரி அவன் பக்கமே திரும்புகிறேன்.)3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6307</td></tr><tr><td>Arabic No</td><td>6307</td></tr><tr><td>Reference</td><td>Book 80 Hadith 4</td></tr></tbody></table></div>
 

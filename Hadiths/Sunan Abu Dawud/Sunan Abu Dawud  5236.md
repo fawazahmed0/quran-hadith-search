@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবূ শায়বা (রহঃ) ..... আ'মাশ (রহঃ) এরূপই বর্ণনা করেছেনঃ তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার পাশ দিয়ে যান, যখন আমরা আমাদের একটা পুরাতম ঘর ঠিক করছিলাম। তখন তিনি জিজ্ঞাসা করেনঃ এটা কি? আমরা বলিঃ এটা আমাদের একটা পুরাতন ঘর, যা আমরা ঠিক করছি। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমার ধারণা মতে মৃত্যু এর চাইতেও দ্রুত আগমনকারী! (কাজেই অনর্থক কাজে সময় ব্যয় করে লাভ কী?)
+। আল-আ‘মাশ (রহঃ) এ সনদে উল্লেখিত হাদীস বর্ণনা করেন। তাতে রয়েছেঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার পাশ দিয়ে যাচ্ছিলেন। ‘আমরা তখন আমাদের জীর্ণশীর্ণ ঘরটি মেরামত করছিলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এটা কি হচ্ছে? ‘আমরা বললাম, আমাদের এ জীর্ণশীর্ণ কুঁড়ে ঘরটি মেরামত করছি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমি তো দেখছি এ জীর্ণ ঘরের চাইতেও নির্দেশ দ্রুত ধাবমান।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5236</td></tr><tr><td>Arabic No</td><td>5236</td></tr><tr><td>Reference</td><td>Book 43 Hadith 464</td></tr></tbody></table></div>
 

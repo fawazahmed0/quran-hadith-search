@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানাবাতের গোসল করার সময় প্রথমে হাত ধুয়ে নিতেন। (২৪৮) (আধুনিক প্রকাশনীঃ ২৫৫, ইসলামিক ফাউন্ডেশনঃ ২৬০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানাবাতের গোসল করার সময় প্রথমে হাত ধুয়ে নিতেন। (২৪৮) (আধুনিক প্রকাশনীঃ ২৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>262</td></tr><tr><td>Arabic No</td><td>262</td></tr><tr><td>Reference</td><td>Book 5 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பெருந்துடக்கிற்காகக் குளிக்கும்போது (முத-ல்) கைகளைக் கழுவிக்கொள் வார்கள். அத்தியாயம் : 5
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பெருந்துடக்கிற்காகக் குளிக்கும்போது (முத-ல்) கைகளைக் கழுவிக்கொள் வார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>262</td></tr><tr><td>Arabic No</td><td>262</td></tr><tr><td>Reference</td><td>Book 5 Hadith 15</td></tr></tbody></table></div>
 

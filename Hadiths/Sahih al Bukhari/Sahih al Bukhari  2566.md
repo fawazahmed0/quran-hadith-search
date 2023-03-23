@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, হে মুসলিম নারীগণ! কোন মহিলা প্রতিবেশিনী যেন অপর মহিলা প্রতিবেশিনীর হাদিয়া তুচ্ছ মনে না করে, এমনকি তা ছাগলের সামান্য গোশ্তযুক্ত হাড় হলেও। (৬০১৭, মুসলিম ১২/২৯ হাঃ ১০৩০, আহমাদ ৮০৭২) (আধুনিক প্রকাশনীঃ ২৩৭৯, ইসলামিক ফাউন্ডেশনঃ ২৩৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, হে মুসলিম নারীগণ! কোন মহিলা প্রতিবেশিনী যেন অপর মহিলা প্রতিবেশিনীর হাদিয়া তুচ্ছ মনে না করে, এমনকি তা ছাগলের সামান্য গোশ্তযুক্ত হাড় হলেও। (৬০১৭, মুসলিম ১২/২৯ হাঃ ১০৩০, আহমাদ ৮০৭২) (আধুনিক প্রকাশনীঃ ২৩৭৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2566</td></tr><tr><td>Arabic No</td><td>2566</td></tr><tr><td>Reference</td><td>Book 51 Hadith 1</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ashim bin 'Ali] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: முஸ்லிம் பெண்களே! ஓர் அண்டை வீட்டுக்காரி, மற்றோர் அண்டை வீட்டுக் காரிக்கு ஓர் ஆட்டின் கால் குளம்பை (அன்பளிப்பாக) அளித்தாலும் அதை அவள் அற்பமாகக் கருத வேண்டாம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 50
+நபி (ஸல்) அவர்கள்கூறினார்கள்: முஸ்லிம் பெண்களே! ஓர் அண்டை வீட்டுக்காரி, மற்றோர் அண்டை வீட்டுக் காரிக்கு ஓர் ஆட்டின் கால் குளம்பை (அன்பளிப்பாக) அளித்தாலும் அதை அவள் அற்பமாகக் கருத வேண்டாம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2566</td></tr><tr><td>Arabic No</td><td>2566</td></tr><tr><td>Reference</td><td>Book 51 Hadith 1</td></tr></tbody></table></div>
 

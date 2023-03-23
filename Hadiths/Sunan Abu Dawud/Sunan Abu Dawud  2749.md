@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উবায়দুল্লাহ্ ইবন ‘উমার (রহঃ) ..... হাবীব ইবন মাসলামা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘খুমুস’ নেওয়ার পর ‘রুব‘উ’ বা এক-চতুর্থাংশ অতিরিক্ত (পুরস্কার) হিসাবে প্রদান করতেন। আর তিনি যুদ্ধ থেকে ফেরার পর, ‘খুমুস’ গ্রহণের পর (মালে-গণীমতের) এক- তৃতীয়াংশ পুরস্কার হিসেবে প্রদান করতেন।
+। হাবীব ইবনু মাসলামাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক-পঞ্চমাংশ বের করার পর অবশিষ্ট মালের এক-তৃতীয়াংশ অতিরিক্ত হিসেবে দান করতেন এবং যুদ্ধ থেকে ফেরার পর এক-পঞ্চমাংশ পৃথক রেখে তাদেরকে অবশিষ্ট মালের এক-তৃতীয়াংশ দান করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2749</td></tr><tr><td>Arabic No</td><td>2749</td></tr><tr><td>Reference</td><td>Book 15 Hadith 273</td></tr></tbody></table></div>
 

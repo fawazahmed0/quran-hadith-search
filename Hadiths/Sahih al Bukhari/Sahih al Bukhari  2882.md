@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রুবাইয়ি‘ বিনতু মআব্বিয (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আমরা (যুদ্ধের ময়দানে) নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর সঙ্গে থেকে লোকেদের পানি পান করাতাম, আহতদের পরিচর্যা করতাম এবং নিহতদের মদিনা্য় পাঠাতাম।’ (২৮৮৩, ৫৬৭৯) (আধুনিক প্রকাশনীঃ ২৬৭০, ইসলামিক ফাউন্ডেশনঃ ২৬৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+রুবাইয়ি‘ বিনতু মআব্বিয (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আমরা (যুদ্ধের ময়দানে) নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর সঙ্গে থেকে লোকেদের পানি পান করাতাম, আহতদের পরিচর্যা করতাম এবং নিহতদের মদিনা্য় পাঠাতাম।’ (২৮৮৩, ৫৬৭৯) (আধুনিক প্রকাশনীঃ ২৬৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2882</td></tr><tr><td>Arabic No</td><td>2882</td></tr><tr><td>Reference</td><td>Book 56 Hadith 97</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Bi
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ருபய்யிஉ பின்த் முஅவ்வித் (ரலி) அவர்கள் கூறியதாவது: (பெண்களாகிய) நாங்கள் நபி (ஸல்) அவர்களுடன் (அறப்போரில் கலந்து கொண்டு) இருந்தோம். (அறப்போரில்) காயமுற்றவர்களுக்கு நீர் புகட்டியும் மருந்திட்டும்வந்தோம். கொல்லப்பட்டவர் களை (போர்க்களத்திலிருந்து) மதீனாவிற்கு எடுத்துச் சென்று கொண்டும் இருந் தோம். அத்தியாயம் : 56
+ருபய்யிஉ பின்த் முஅவ்வித் (ரலி) அவர்கள் கூறியதாவது: (பெண்களாகிய) நாங்கள் நபி (ஸல்) அவர்களுடன் (அறப்போரில் கலந்து கொண்டு) இருந்தோம். (அறப்போரில்) காயமுற்றவர்களுக்கு நீர் புகட்டியும் மருந்திட்டும்வந்தோம். கொல்லப்பட்டவர் களை (போர்க்களத்திலிருந்து) மதீனாவிற்கு எடுத்துச் சென்று கொண்டும் இருந் தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2882</td></tr><tr><td>Arabic No</td><td>2882</td></tr><tr><td>Reference</td><td>Book 56 Hadith 97</td></tr></tbody></table></div>
 

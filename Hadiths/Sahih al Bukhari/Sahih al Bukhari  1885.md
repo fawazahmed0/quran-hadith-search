@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে আল্লাহ! মক্কাতে তুমি যে বরকত দান করেছ, মদিনাতে এর দ্বিগুণ বরকত দাও। ‘উসমান বিন ‘উমার উক্ত হাদীস ইউনুস থেকে বর্ণনার ক্ষেত্রে জারীরের অনুসরণ করেছেন। (মুসলিম ১৫/৮৫, হাঃ ১৩৬৯, আহমাদ ১২৪৫৫) (আধুনিক প্রকাশনীঃ ১৭৫০, ইসলামিক ফাউন্ডেশনঃ ১৭৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে আল্লাহ! মক্কাতে তুমি যে বরকত দান করেছ, মদিনাতে এর দ্বিগুণ বরকত দাও। ‘উসমান বিন ‘উমার উক্ত হাদীস ইউনুস থেকে বর্ণনার ক্ষেত্রে জারীরের অনুসরণ করেছেন। (মুসলিম ১৫/৮৫, হাঃ ১৩৬৯, আহমাদ ১২৪৫৫) (আধুনিক প্রকাশনীঃ ১৭৫০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 29 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Bab. Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “இறைவா! மக்காவில் நீ ஏற்படுத்திய வளத்தை (பரக்கத்) போன்று இரு மடங்கை மதீனா வில் ஏற்படுத்துவாயாக!” என்று பிரார்த்தித் தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 29
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “இறைவா! மக்காவில் நீ ஏற்படுத்திய வளத்தை (பரக்கத்) போன்று இரு மடங்கை மதீனா வில் ஏற்படுத்துவாயாக!” என்று பிரார்த்தித் தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 29 Hadith 19</td></tr></tbody></table></div>
 

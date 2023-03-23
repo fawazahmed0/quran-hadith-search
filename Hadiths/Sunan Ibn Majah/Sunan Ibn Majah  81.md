@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/৮১। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন বান্দাহ চারটি বিষয়ের উপর ঈমান না আনা পর্যন্ত মুমিন হবে না। একমাত্র আল্লাহ্‌র উপর ঈমান আনবে, যাঁর কোন শারীক নেই, নিশ্চয় আমি আল্লাহ্‌র রাসূল, মৃত্যুর পর পুনরুত্থান এবং তাকদীরের ভালোমন্দে।
+। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন বান্দাহ চারটি বিষয়ের উপর ঈমান না আনা পর্যন্ত মুমিন হবে না। একমাত্র আল্লাহ্‌র উপর ঈমান আনবে, যাঁর কোন শারীক নেই, নিশ্চয় আমি আল্লাহ্‌র রাসূল, মৃত্যুর পর পুনরুত্থান এবং তাকদীরের ভালোমন্দে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Arabic No</td><td>81</td></tr><tr><td>Reference</td><td>Book 0 Hadith 81</td></tr></tbody></table></div>
 

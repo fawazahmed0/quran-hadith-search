@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০৬৪। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ আবূ জাহল রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলল, আমরা তো তোমাকে মিথ্যাবাদী বলি না, বরং তুমি যে জিনিস নিয়ে এসেছ তাকেই আমরা মিথ্যা মনে করি। এ প্রসঙ্গে আল্লাহ তা'আলা অবতীর্ণ করেনঃ “কিন্তু তারা তো তোমাকে মিথ্যাবাদী বলে না, বরং যালিমরা আল্লাহ তা'আলার আয়াতসমূহকে অস্বীকার করে..." (সূরাঃ আল-আনআম- ৩৩) সনদ দুর্বল ইসহাক ইবনু মানসূর-আবদুর রহমান ইবনু মাহদী হতে তিনি সুফিয়ান হতে তিনি আবূ ইসহাক-এর সূত্রে নাজিয়া (রাহঃ) হতে বর্ণিত আছে, তিনি বলেন, আবূ জাহল রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলল.... এরপর এরকমই বর্ণনা করেন। তবে এই সনদে আলী (রাঃ)-এর উল্লেখ নেই এবং এটাই বেশি সহীহ। পূর্বের হাদীসের ন্যায় এটিও দুর্বল
+। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ আবূ জাহল রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলল, আমরা তো তোমাকে মিথ্যাবাদী বলি না, বরং তুমি যে জিনিস নিয়ে এসেছ তাকেই আমরা মিথ্যা মনে করি। এ প্রসঙ্গে আল্লাহ তা'আলা অবতীর্ণ করেনঃ “কিন্তু তারা তো তোমাকে মিথ্যাবাদী বলে না, বরং যালিমরা আল্লাহ তা'আলার আয়াতসমূহকে অস্বীকার করে..." (সূরাঃ আল-আনআম- ৩৩) সনদ দুর্বল ইসহাক ইবনু মানসূর-আবদুর রহমান ইবনু মাহদী হতে তিনি সুফিয়ান হতে তিনি আবূ ইসহাক-এর সূত্রে নাজিয়া (রাহঃ) হতে বর্ণিত আছে, তিনি বলেন, আবূ জাহল রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলল.... এরপর এরকমই বর্ণনা করেন। তবে এই সনদে আলী (রাঃ)-এর উল্লেখ নেই এবং এটাই বেশি সহীহ। পূর্বের হাদীসের ন্যায় এটিও দুর্বল
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 47 Hadith 116</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Ali:"Abu Jahl said to the Prophet (ﷺ): 'We do not deny you, but we deny what you came with.' So Allah Most High revealed: It is not you that they deny but is Allah's Ayat which the wrong-doers reject (6:33)
+Narrated 'Ali:"Abu Jahl said to the Prophet (ﷺ): 'We do not deny you, but we deny what you came with.' So Allah Most High revealed: It is not you that they deny but is Allah's Ayat which the wrong-doers reject (6:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 47 Hadith 116</td></tr></tbody></table></div>
 

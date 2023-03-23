@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪৬৮, আন্তর্জাতিক নাম্বারঃ ১৭৫৭ ৪৪৬৮-(.../...) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... যুহরী (রহঃ) হতে উল্লিখিত হাদীস একই সূত্রে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৪২৪, ইসলামিক সেন্টার ৪৪২৬)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... যুহরী (রহঃ) হতে উল্লিখিত হাদীস একই সূত্রে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৪২৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4576</td></tr><tr><td>Arabic No</td><td>1757.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 57</td></tr></tbody></table></div>
 

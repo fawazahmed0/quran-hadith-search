@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুবায়ব (রহ) ... জাবির (রাযিঃ) বলেন যে এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর সামনে উপস্থিত হয়ে জিজ্ঞেস করল- ইয়া রাসূলাল্লাহ! ওয়াজিবকারী (অবশ্যম্ভাবী) দু'টাে বিষয় কি? তিনি বললেন, আল্লাহর সাথে কোন কিছু শারীক না করে যে ব্যক্তি মারা যাবে সে জান্নাতে প্রবেশ করবে। আর যে ব্যক্তি আল্লাহর সাথে কোন কিছু শারীক করা অবস্থায় মারা যাবে সে জাহান্নামে যাবে। (ইসলামিক ফাউন্ডেশনঃ ১৭১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>269</td></tr><tr><td>Arabic No</td><td>93.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம் வந்து, "(சொர்க்கத்தையும் நரகத்தையும்) கட்டாயமாகத் தேடித் தருகின்ற இரண்டு விஷயங்கள் என்னென்ன?" என்று கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், "யார் அல்லாஹ்வுக்கு எதையும் இணைவைக்காமல் இறந்துவிடுகிறாரோ அவர் (நிச்சயமாகச்) சொர்க்கம் செல்வார். யார் அல்லாஹ்வுக்கு இணைவைத்தவராக இறந்துவிடுகிறாரோ அவர் (நிச்சயமாக) நரகம் செல்வார்" என்று பதிலளித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 1
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம் வந்து, "(சொர்க்கத்தையும் நரகத்தையும்) கட்டாயமாகத் தேடித் தருகின்ற இரண்டு விஷயங்கள் என்னென்ன?" என்று கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், "யார் அல்லாஹ்வுக்கு எதையும் இணைவைக்காமல் இறந்துவிடுகிறாரோ அவர் (நிச்சயமாகச்) சொர்க்கம் செல்வார். யார் அல்லாஹ்வுக்கு இணைவைத்தவராக இறந்துவிடுகிறாரோ அவர் (நிச்சயமாக) நரகம் செல்வார்" என்று பதிலளித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>269</td></tr><tr><td>Arabic No</td><td>93.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekr b. Ebi Şeybe ve Ebu Kureyb tahdis edip dediler ki: Bize Ebu Muaviye, A'meş'ten tahdis etti. O Ebu Süfyan'dan, o Cabir'den şöyle dediğini nakletti: Bir adam Nebi (Sallallahu aleyhi ve Sellem)'e gelerek: Ey Allah'ın Resulü, gerektirici iki şey nedir, dedi. Allah Resulü (Sallallahu aleyhi ve Sellem): "Kim Allah'a hiçbir şeyi ortak koşmaksızın ölürse cennete girer. Kim de Allah'a bir şeyi ortak koşarak ölürse cehenneme girer." Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 2320
+Bize Ebu Bekr b. Ebi Şeybe ve Ebu Kureyb tahdis edip dediler ki: Bize Ebu Muaviye, A'meş'ten tahdis etti. O Ebu Süfyan'dan, o Cabir'den şöyle dediğini nakletti: Bir adam Nebi (Sallallahu aleyhi ve Sellem)'e gelerek: Ey Allah'ın Resulü, gerektirici iki şey nedir, dedi. Allah Resulü (Sallallahu aleyhi ve Sellem): "Kim Allah'a hiçbir şeyi ortak koşmaksızın ölürse cennete girer. Kim de Allah'a bir şeyi ortak koşarak ölürse cehenneme girer." Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>269</td></tr><tr><td>Arabic No</td><td>93.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
 

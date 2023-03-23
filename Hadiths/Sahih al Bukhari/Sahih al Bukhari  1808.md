@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহ.) হতে বর্ণিত যে, ‘আবদুল্লাহ (রাঃ)-এর কোন এক ছেলে তাঁর পিতাকে বললেন, যদি আপনি এ বছর বাড়িতে অবস্থান করতেন (তাহলে আপনার জন্য কতই না কল্যাণকর হত)! (১৬৩৯) (আধুনিক প্রকাশনীঃ ১৬৭৯. ইসলামিক ফাউন্ডেশনঃ ১৬৮৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহ.) হতে বর্ণিত যে, ‘আবদুল্লাহ (রাঃ)-এর কোন এক ছেলে তাঁর পিতাকে বললেন, যদি আপনি এ বছর বাড়িতে অবস্থান করতেন (তাহলে আপনার জন্য কতই না কল্যাণকর হত)! (১৬৩৯) (আধুনিক প্রকাশনীঃ ১৬৭৯. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1808</td></tr><tr><td>Arabic No</td><td>1808</td></tr><tr><td>Reference</td><td>Book 27 Hadith 3</td></tr></tbody></table></div>
 

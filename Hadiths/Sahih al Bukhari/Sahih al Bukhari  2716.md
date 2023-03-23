@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, কেউ তাবীর করা খেজুর গাছ বিক্রি করলে তার ফল হবে বিক্রেতার, যদি ক্রেতা শর্তারোপ না করে। (২২০৩) (আধুনিক প্রকাশনীঃ ২৫১৭, ইসলামিক ফাউন্ডেশনঃ ২৫৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, কেউ তাবীর করা খেজুর গাছ বিক্রি করলে তার ফল হবে বিক্রেতার, যদি ক্রেতা শর্তারোপ না করে। (২২০৩) (আধুনিক প্রকাশনীঃ ২৫১৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2716</td></tr><tr><td>Arabic No</td><td>2716</td></tr><tr><td>Reference</td><td>Book 54 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் மகரந்தச் சேர்க்கை செய்யப்பட்ட ஒரு பேரீச்ச மரத்தை விற்கிறாரோ அவருக்கே அதன் கனிகள் உரியவை யாகும்; வாங்கியவர் (கனிகள் தமக்கே சேர வேண்டுமென்று) நிபந்தனையிட்டி ருந்தால் தவிர.3 இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 54
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் மகரந்தச் சேர்க்கை செய்யப்பட்ட ஒரு பேரீச்ச மரத்தை விற்கிறாரோ அவருக்கே அதன் கனிகள் உரியவை யாகும்; வாங்கியவர் (கனிகள் தமக்கே சேர வேண்டுமென்று) நிபந்தனையிட்டி ருந்தால் தவிர.3 இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2716</td></tr><tr><td>Arabic No</td><td>2716</td></tr><tr><td>Reference</td><td>Book 54 Hadith 5</td></tr></tbody></table></div>
 

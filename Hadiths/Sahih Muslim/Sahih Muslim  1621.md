@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... 'আবদুল্লাহ ইবনু উমার (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, কোন সফরে দ্রুত চলতে হলে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাগরিব এবং ইশার সালাত একসাথে আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৪৯১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
 

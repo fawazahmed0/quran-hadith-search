@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯২৫। জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাজ্জের মৌসুমে নিজেকে বিভিন্ন গোত্রের সামনে পেশ করে বলতেনঃ এমন কোন লোক নেই কি যে আমাকে তার সম্প্রদায়ের নিকট নিয়ে যেতে পারে? কেননা কুরাইশগণ আমাকে আমার প্রভুর বাণী প্রচার করতে বাধা দিচ্ছে। সহীহঃ ইবনু মা-জাহ (২০১)। আবূ ঈসা বলেন, এ হাদীসটি গারীব সহীহ।
+। জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাজ্জের মৌসুমে নিজেকে বিভিন্ন গোত্রের সামনে পেশ করে বলতেনঃ এমন কোন লোক নেই কি যে আমাকে তার সম্প্রদায়ের নিকট নিয়ে যেতে পারে? কেননা কুরাইশগণ আমাকে আমার প্রভুর বাণী প্রচার করতে বাধা দিচ্ছে। সহীহঃ ইবনু মা-জাহ (২০১)। আবূ ঈসা বলেন, এ হাদীসটি গারীব সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2925</td></tr><tr><td>Arabic No</td><td>2925</td></tr><tr><td>Reference</td><td>Book 45 Hadith 51</td></tr></tbody></table></div>
 

@@ -41,14 +41,14 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3562</td></tr><tr><td>Arabic No</td><td>3562</td></tr><tr><td>Reference</td><td>Book 61 Hadith 71</td></tr></tbody></table></div>
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গৃহবাসিনী পর্দানশীন কুমারীদের চেয়েও বেশি লজ্জাশীল ছিলেন। মুহাম্মাদ (রহ.)....শু’বাহ (রহ.) হতে একই রূপ রিওয়ায়াত বর্ণিত হয়েছে। যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন কিছু অপছন্দ করতেন তা চেহারায় বুঝা যেত। (৬১০২, ৬১১৯, মুসলিম ৪৩/১৬ হাঃ ২৩২০, আহমাদ ১১৭৪৮) (আধুনিক প্রকাশনীঃ ৩২৯৮, ৩২৯৯ ইসলামিক ফাউন্ডেশনঃ ৩৩০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3562.2</td></tr><tr><td>Arabic No</td><td>3562.2</td></tr><tr><td>Reference</td><td>Book 61 Hadith 72</td></tr></tbody></table></div>
 
@@ -90,7 +90,7 @@ Narrated Shuba:A similar Hadith (i e. No. 762) with this addition: And if he (i.
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் திரைக்குள் இருக்கும் கன்னிப் பெண்ணைவிடவும் அதிக வெட்கமுடையவர்களாயிருந்தார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் இரு தொடர்களில் ஷ‚அபா (ரஹ்) அவர்கள் இதைப் போன்றே அறிவித்துவிட்டு, “நபியவர்களுக்கு ஏதேனும் ஒன்று பிடிக்கவில்லையானால், அது அவர்களின் முகத்தில் தெரிந்துவிடும்” என்று (கூடுதலாக) அறிவித்துள்ளார்கள், அத்தியாயம் : 61
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் திரைக்குள் இருக்கும் கன்னிப் பெண்ணைவிடவும் அதிக வெட்கமுடையவர்களாயிருந்தார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் இரு தொடர்களில் ஷ‚அபா (ரஹ்) அவர்கள் இதைப் போன்றே அறிவித்துவிட்டு, “நபியவர்களுக்கு ஏதேனும் ஒன்று பிடிக்கவில்லையானால், அது அவர்களின் முகத்தில் தெரிந்துவிடும்” என்று (கூடுதலாக) அறிவித்துள்ளார்கள், அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3562.2</td></tr><tr><td>Arabic No</td><td>3562.2</td></tr><tr><td>Reference</td><td>Book 61 Hadith 72</td></tr></tbody></table></div>
 

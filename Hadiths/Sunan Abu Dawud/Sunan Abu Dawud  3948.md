@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... ইবন ছালাব (রহঃ) তাঁর পিতা থেকে বর্ণনা করেন যে, একদা কোন এক ব্যক্তি যৌথ-মালিকানাধীন গোলামের (স্বীয় অংশ) আযাদ করে দিলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর নিকট হতে বাকী অংশের মুক্তিপণ আদায় করেন নি।
+। ইবনুত তালিব্বা (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। এক ব্যক্তি শরীকানা গোলামের নিজের অংশ মুক্ত করলো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে অবশিষ্ট অংশ মুক্ত করতে বাধ্য করেননি।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3948</td></tr><tr><td>Arabic No</td><td>3948</td></tr><tr><td>Reference</td><td>Book 31 Hadith 23</td></tr></tbody></table></div>
 

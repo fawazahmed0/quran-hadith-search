@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত যে, কিছু সংখ্যক লোক বলল, হে আল্লাহর রাসূল! বহু লোক আমাদের কাছে গোশত নিয়ে আসে আমরা জানি না, তারা বিসমিল্লাহ পড়ে যবহ করেছিল কিনা? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তোমরা এর উপর আল্লাহর নাম লও এবং তা খাও (ওয়াসওয়াসার শিকার হয়ো না)। (৫৫০৭, ৭৩৯৮) (আধুনিক প্রকাশনীঃ ১৯১৪ , ইসলামিক ফাউন্ডেশনঃ ১৯২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত যে, কিছু সংখ্যক লোক বলল, হে আল্লাহর রাসূল! বহু লোক আমাদের কাছে গোশত নিয়ে আসে আমরা জানি না, তারা বিসমিল্লাহ পড়ে যবহ করেছিল কিনা? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তোমরা এর উপর আল্লাহর নাম লও এবং তা খাও (ওয়াসওয়াসার শিকার হয়ো না)। (৫৫০৭, ৭৩৯৮) (আধুনিক প্রকাশনীঃ ১৯১৪ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2057</td></tr><tr><td>Arabic No</td><td>2057</td></tr><tr><td>Reference</td><td>Book 34 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada saya [Ahmad bin Al Miqdam Al 'Ijliy] telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதரே! ஒரு கூட்டத் தார் எங்களிடம் இறைச்சியைக் கொண்டு வருகின்றனர். அதன் மீது (அதனை அறுக்கும்போது) அல்லாஹ்வின் பெயர் கூறினார்களா, இல்லையா என்பது எங்களுக்குத் தெரியவில்லை” என்று சிலர் நபி (ஸல்) அவர்களிடம் கேட்டனர். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘நீங்கள் அல்லாஹ்வின் பெயர் கூறி அதை உண்ணுங்கள்” என்றார்கள். அத்தியாயம் : 34
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதரே! ஒரு கூட்டத் தார் எங்களிடம் இறைச்சியைக் கொண்டு வருகின்றனர். அதன் மீது (அதனை அறுக்கும்போது) அல்லாஹ்வின் பெயர் கூறினார்களா, இல்லையா என்பது எங்களுக்குத் தெரியவில்லை” என்று சிலர் நபி (ஸல்) அவர்களிடம் கேட்டனர். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘நீங்கள் அல்லாஹ்வின் பெயர் கூறி அதை உண்ணுங்கள்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2057</td></tr><tr><td>Arabic No</td><td>2057</td></tr><tr><td>Reference</td><td>Book 34 Hadith 11</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada saya [Ahmad bin Al Miqdam Al 'Ijliy] telah menceritaka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha şöyle dedi: Bir topluluk: "Ey Allah'ın Resulü! Bazıları bize et getiriyorlar. Biz, hayvanları keserken besmele çekip çekmediklerini bilmiyoruz. (Bu etleri yiyelim mi?)" diye sordular. Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Bu etler üzerine besmele çekip yiyin." Tekrar: 5507, 7398
+Aişe r.anha şöyle dedi: Bir topluluk: "Ey Allah'ın Resulü! Bazıları bize et getiriyorlar. Biz, hayvanları keserken besmele çekip çekmediklerini bilmiyoruz. (Bu etleri yiyelim mi?)" diye sordular. Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Bu etler üzerine besmele çekip yiyin." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2057</td></tr><tr><td>Arabic No</td><td>2057</td></tr><tr><td>Reference</td><td>Book 34 Hadith 11</td></tr></tbody></table></div>
 

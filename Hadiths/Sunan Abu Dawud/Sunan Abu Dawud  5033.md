@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... আবূ হুরায়রা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। তিনি বলেনঃ তোমাদের মধ্যে কেউ যখন হাঁচি দেয়, তখন সে যেন বলেঃ আল-হামদু লিল্লাহে আলা কুল্লি হালিন অর্থাৎ সর্বাবস্থায় আল্লাহ্‌র প্রশংসা। আর তার সাথী যেন এরূপ বলেঃ ইয়ারহামু কুমুল্লাহু অর্থাৎ তোমাদের উপর রহম করুন। এরপর হাঁচি দাতা যেন বলেঃ ইয়াহদী কুমুল্লাহু ওয়া ইউসলেহু বালাকুম অর্থাৎ আল্লাহ তোমাদের হিদায়াত দান করুন এবং তোমাদের মন্দকে ভাল করে দিন
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কেউ হাঁচি দেয় তাহলে সে বলবেঃ আলহামদু লিল্লাহি আলা কুল্লি হাল (সর্বাবস্তায় সমস্ত প্রশংসা আল্লাহর জন্য। আর তার ভাই অথবা সাথী বলবেঃ ইয়ারহামুকাল্লাহ।’ আর হাঁচিদাতা বলবেঃ ইয়াহদীকুমুল্লাহু ওয়া ইউসলিহু বালাকুম (আল্লাহ তোমাদের সঠিক পথ দেখান এবং তোমাদের সংশোধন করুন)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5033</td></tr><tr><td>Arabic No</td><td>5033</td></tr><tr><td>Reference</td><td>Book 43 Hadith 261</td></tr></tbody></table></div>
 

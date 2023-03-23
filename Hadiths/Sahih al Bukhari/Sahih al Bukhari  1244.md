@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত, তিনি বলেন, (উহুদ যুদ্ধে) আমার পিতা আবদুল্লাহ্ (রাঃ) শহীদ হয়ে গেলে আমি তাঁর মুখমন্ডল হতে কাপড় সরিয়ে ক্রন্দন করতে লাগলাম। লোকজন আমাকে নিষেধ করতে লাগল। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে নিষেধ করেননি। আমার ফুফী ফাতিমাহ (রাঃ)ও ক্রন্দন করতে লাগলেন। এতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তুমি কাঁদ বা না-ই কাঁদ (উভয় সমান) তোমরা তাকে তুলে নেয়া পর্যন্ত ফেরেশ্তাগণ তাঁদের ডানা দিয়ে ছায়া বিস্তার করে রেখেছেন। ইবনু জুরাইজ (রহ.) মুহাম্মাদ ইবনু মুন্কাদির (রহ.) সূত্রে জাবির (রাঃ) হতে হাদীস বর্ণনায় শু‘বা (রাঃ)-এর অনুসরণ করেছেন। (১২৯৩, ২৮১৬, ৪০৮০) (আধুনিক প্রকাশনীঃ ১১৬৪, ইসলামিক ফাউন্ডেশনঃ ১১৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত, তিনি বলেন, (উহুদ যুদ্ধে) আমার পিতা আবদুল্লাহ্ (রাঃ) শহীদ হয়ে গেলে আমি তাঁর মুখমন্ডল হতে কাপড় সরিয়ে ক্রন্দন করতে লাগলাম। লোকজন আমাকে নিষেধ করতে লাগল। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে নিষেধ করেননি। আমার ফুফী ফাতিমাহ (রাঃ)ও ক্রন্দন করতে লাগলেন। এতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তুমি কাঁদ বা না-ই কাঁদ (উভয় সমান) তোমরা তাকে তুলে নেয়া পর্যন্ত ফেরেশ্তাগণ তাঁদের ডানা দিয়ে ছায়া বিস্তার করে রেখেছেন। ইবনু জুরাইজ (রহ.) মুহাম্মাদ ইবনু মুন্কাদির (রহ.) সূত্রে জাবির (রাঃ) হতে হাদীস বর্ণনায় শু‘বা (রাঃ)-এর অনুসরণ করেছেন। (১২৯৩, ২৮১৬, ৪০৮০) (আধুনিক প্রকাশনীঃ ১১৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1244</td></tr><tr><td>Arabic No</td><td>1244</td></tr><tr><td>Reference</td><td>Book 23 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: என் தந்தை (உஹுத் போரில்) கொல்லப்பட்டுக் கிடந்தபோது, நான் அழுது கொண்டே அவரது முகத்தின் மீதிருந்த துணியை அகற்றலானேன். அப்போது (அங்கிருந்தவர்கள்) என்னைத் தடுத்தார் கள். ஆனால், நபி (ஸல்) அவர்கள் என்னைத் தடுக்கவில்லை. பிறகு எனது மாமி ஃபாத்திமா (ரலி) அவர்களும் அழ ஆரம்பித்துவிட்டார்கள். அப்போது, “நீங்கள் அழுதாலும் அழாவிட்டாலும் நீங்கள் அவரைத் தூக்கும்வரை வானவர்கள் அவருக்குத் தங்களின் இறக்கைகளால் தொடர்ந்து நிழல் கொடுத்துக்கொண்டிருக்கிறார்கள்” என நபி (ஸல்) அவர்கள் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 23
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: என் தந்தை (உஹுத் போரில்) கொல்லப்பட்டுக் கிடந்தபோது, நான் அழுது கொண்டே அவரது முகத்தின் மீதிருந்த துணியை அகற்றலானேன். அப்போது (அங்கிருந்தவர்கள்) என்னைத் தடுத்தார் கள். ஆனால், நபி (ஸல்) அவர்கள் என்னைத் தடுக்கவில்லை. பிறகு எனது மாமி ஃபாத்திமா (ரலி) அவர்களும் அழ ஆரம்பித்துவிட்டார்கள். அப்போது, “நீங்கள் அழுதாலும் அழாவிட்டாலும் நீங்கள் அவரைத் தூக்கும்வரை வானவர்கள் அவருக்குத் தங்களின் இறக்கைகளால் தொடர்ந்து நிழல் கொடுத்துக்கொண்டிருக்கிறார்கள்” என நபி (ஸல்) அவர்கள் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1244</td></tr><tr><td>Arabic No</td><td>1244</td></tr><tr><td>Reference</td><td>Book 23 Hadith 7</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir (r.a.) şöyle demiştir: Babam (Uhud savaşında) öldürüldüğünde ben onun yüzünü açıp ağlıyordum, Müslümanlar benim böyle yapmamı engelledikleri halde, Nebi Sallallahu Aleyhi ve Sellem beni engellemiyordu. Halam Fatima ağlıyordu. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Ağlasan da ağlamasan da siz cenazeyi kaldrıncaya kadar melekler onu kanatlarıyla gölgeliyorlar. Tekrar: 1293, 2816, 4080
+Cabir (r.a.) şöyle demiştir: Babam (Uhud savaşında) öldürüldüğünde ben onun yüzünü açıp ağlıyordum, Müslümanlar benim böyle yapmamı engelledikleri halde, Nebi Sallallahu Aleyhi ve Sellem beni engellemiyordu. Halam Fatima ağlıyordu. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Ağlasan da ağlamasan da siz cenazeyi kaldrıncaya kadar melekler onu kanatlarıyla gölgeliyorlar. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1244</td></tr><tr><td>Arabic No</td><td>1244</td></tr><tr><td>Reference</td><td>Book 23 Hadith 7</td></tr></tbody></table></div>
 

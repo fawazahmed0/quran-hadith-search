@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু আতিয়্যাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, জানাযার পশ্চাদানুগমণ করতে আমাদের নিষেধ করা হয়েছে, তবে আমাদের উপর কড়াকড়ি আরোপ করা হয়নি। (৩১৩) (আধুনিক প্রকাশনীঃ ১১৯৬, ইসলামিক ফাউন্ডেশনঃ ১২০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু আতিয়্যাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, জানাযার পশ্চাদানুগমণ করতে আমাদের নিষেধ করা হয়েছে, তবে আমাদের উপর কড়াকড়ি আরোপ করা হয়নি। (৩১৩) (আধুনিক প্রকাশনীঃ ১১৯৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1278</td></tr><tr><td>Arabic No</td><td>1278</td></tr><tr><td>Reference</td><td>Book 23 Hadith 39</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah bin 'Uqbah] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு அ(த்)திய்யா (ரலி) அவர்கள் கூறியதாவது: பிரேதத்தைப் பின்தொடர்ந்து செல்லக் கூடாது என (பெண்களாகிய) நாங்கள் (நபி (ஸல்) அவர்களால்) தடுக் கப்பட்டிருந்தோம்; ஆனால், வன்மை யாக நாங்கள் தடுக்கப்படவில்லை.14 அத்தியாயம் : 23
+உம்மு அ(த்)திய்யா (ரலி) அவர்கள் கூறியதாவது: பிரேதத்தைப் பின்தொடர்ந்து செல்லக் கூடாது என (பெண்களாகிய) நாங்கள் (நபி (ஸல்) அவர்களால்) தடுக் கப்பட்டிருந்தோம்; ஆனால், வன்மை யாக நாங்கள் தடுக்கப்படவில்லை.14 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1278</td></tr><tr><td>Arabic No</td><td>1278</td></tr><tr><td>Reference</td><td>Book 23 Hadith 39</td></tr></tbody></table></div>
 

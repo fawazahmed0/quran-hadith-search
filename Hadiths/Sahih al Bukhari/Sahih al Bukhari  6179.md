@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সাবধান! তোমাদের কেউ যেন এমন না বলে যে, আমার হৃদয় খবীস হয়ে গেছে। তবে এ কথা বলতে পারে যে, আমার হৃদয় কলুষিত হয়ে গেছে। [মুসলিম ৪০/৪০, হাঃ ২২৫০, আহমাদ ২৪২৯৮] (আধুনিক প্রকাশনী- ৫৭৩৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6179</td></tr><tr><td>Arabic No</td><td>6179</td></tr><tr><td>Reference</td><td>Book 78 Hadith 203</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் (மனக் குழப்பத்திலிருக்கும்) யாரும் (‘என் மனம் அசுத்தமாகிவிட்டது’ எனும் பொருள் பொதிந்த) ‘கபுஸத் நஃப்ஸீ’ எனும் சொல்லைக் கூற வேண்டாம். மாறாக, (‘என் மனம் கனத்துவிட்டது’ எனும் பொருள் கொண்ட) ‘லகிசத் நஃப்ஸீ’ எனும் சொல்லையே கூறட்டும்.202 இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் (மனக் குழப்பத்திலிருக்கும்) யாரும் (‘என் மனம் அசுத்தமாகிவிட்டது’ எனும் பொருள் பொதிந்த) ‘கபுஸத் நஃப்ஸீ’ எனும் சொல்லைக் கூற வேண்டாம். மாறாக, (‘என் மனம் கனத்துவிட்டது’ எனும் பொருள் கொண்ட) ‘லகிசத் நஃப்ஸீ’ எனும் சொல்லையே கூறட்டும்.202 இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6179</td></tr><tr><td>Arabic No</td><td>6179</td></tr><tr><td>Reference</td><td>Book 78 Hadith 203</td></tr></tbody></table></div>
 

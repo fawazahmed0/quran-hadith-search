@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম (রহঃ) ..... ইবন জাবের (রহঃ) থেকে এই সনদেও উপরোক্ত হাদিসের অনুরূপ বর্ণিত হয়েছে। তবে অপর এক বর্ণনায় উল্লেখ আছে যে, তিনি সেদিন পশ্চিমাকাশের সাদা বর্ণ তিরোহিত হওয়ার সময় বাহন হতে অবতরণ করে মাগরিব ও ইশার নামায একত্রে আদায় করেন।
+। নাফি‘ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, যখন লালিমা দূরীভূত হবার সময় হলো, তখন তিনি (বাহন থেকে) নেমে উভয় সালাতকে (মাগরিব ও ‘ইশা) একত্রে আদায় করলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1213</td></tr><tr><td>Arabic No</td><td>1213</td></tr><tr><td>Reference</td><td>Book 4 Hadith 16</td></tr></tbody></table></div>
 

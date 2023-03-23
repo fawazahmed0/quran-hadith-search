@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... আবূ সা'ঈদ খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে রসুন এবং পেয়াজ সম্পর্কে আলোচনা হয়। সাহাবীগণ বলেনঃ ইয়া রাসূলাল্লাহ! এ দুটির মধ্যে রসুনে তেজ বা ঝাঁঝ বেশী, আপনি কি একে হারাম মনে করেন? তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা তা খাবে, কিন্তু যে ব্যক্তি তা খাবে, এর দুর্গন্ধ দূর না হওয়া পর্যন্ত সে যেন মসজিদে না আসে।
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে পিয়াজ-রসুন সম্পর্কে কথা উঠলো। বলা হলো, হে আল্লাহর রাসূল! এর মধ্যে রসুনের গন্ধটাই খুব বেশী। আপনি কি এটা হারাম করেন? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা তা খেতে পারো। তোমাদের মধ্যে যে ব্যক্তি তা খায় সে যেন মুখের গন্ধ দূর না হওয়া পর্যন্ত অবশ্যই এ মসজিদের নিকটে না আসে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3823</td></tr><tr><td>Arabic No</td><td>3823</td></tr><tr><td>Reference</td><td>Book 28 Hadith 88</td></tr></tbody></table></div>
 

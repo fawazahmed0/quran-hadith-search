@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু বাক্‌কার .... ইবনু মাসউদ (রাঃ) থেকে বর্ণিত। তিনি ডান হাতের উপর বাম হাত রেখে নামায পড়ছিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা দেখতে পেয়ে তাঁর বাম হাতের উপর ডান হাত রেখে দেন। (নাসাঈ, ইবনু মাজাহ)।
+। ইবনু মাসঊদ (রাঃ) সূত্রে বর্ণিত। একদা তিনি ডান হাতের উপর বাম হাত রেখে সালাত আদায় করলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা দেখতে পেয়ে তাঁর বাম হাতের উপর ডান হাতকে রাখেন। [1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>755</td></tr><tr><td>Arabic No</td><td>755</td></tr><tr><td>Reference</td><td>Book 2 Hadith 365</td></tr></tbody></table></div>
 

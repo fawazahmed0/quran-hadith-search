@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭০৫। আয়িশাহ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে উসমান! আল্লাহ তা'আলা হয়ত তোমাকে একটি জামা পরিধান করাবেন (খিলাফত দান করবেন)। তোমার হতে লোকেরা তা খুলে নিতে চাইলে তুমি তাদের দাবিতে তা ত্যাগ করবে না। সহীহঃ মিশকাত (৬০৭৭), ইবনু মাজাহ (১১২)। এ হাদীসে দীর্ঘ ঘটনা আছে। আবূ ঈসা বলেন, হাদীসটি হাসান গারীব।
+। আয়িশাহ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে উসমান! আল্লাহ তা'আলা হয়ত তোমাকে একটি জামা পরিধান করাবেন (খিলাফত দান করবেন)। তোমার হতে লোকেরা তা খুলে নিতে চাইলে তুমি তাদের দাবিতে তা ত্যাগ করবে না। সহীহঃ ইবনু মাজাহ (১১২)। এ হাদীসে দীর্ঘ ঘটনা আছে। আবূ ঈসা বলেন, হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3705</td></tr><tr><td>Arabic No</td><td>3705</td></tr><tr><td>Reference</td><td>Book 49 Hadith 101</td></tr></tbody></table></div>
 

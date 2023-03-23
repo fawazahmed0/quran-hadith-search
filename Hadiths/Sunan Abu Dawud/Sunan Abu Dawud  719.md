@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল-আলা ..... আবূ সাঈদ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেনঃ কোন নামাযীর সম্মুখ দিয়ে যাওয়ার কারণে নামাযের কোন ক্ষতি হয় না, তবে তোমরা সাধ্যানুযায়ী এরূপ করতে বাধা দেবে। কেননা (নামাযীর সামনে দিয়ে) গমনকারী একটা শয়তান।
+। আবূ সাঈদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাতের সামনে দিয়ে কোন কিছু অতিক্রম করলে সালাত ভঙ্গ হয় না। তবে সাধ্যানুযায়ী তোমরা এরূপ করতে বাধা দিবে। কারণ সে তো একটা শয়তান।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>719</td></tr><tr><td>Arabic No</td><td>719</td></tr><tr><td>Reference</td><td>Book 2 Hadith 329</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Saîd el-Hudrî (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Namazı (önden geçen) hiçbir şey bozamaz. (Bununla beraber, yine de siz) gücünüz yettiğince (önünüzden geçene) mani olmaya çalışınız. Çünkü o şeytandan başka bir şey değildir." Diğer tahric: Buharî, salat; bed'u'l-halk; Müslim, salat; selam; Ebu Davud, salat; Nesaî, kasame ; İbn Mace, ikame; Darimî, salat; Muvatta', sefer; istizan; Ahmed b. Hanbel IH, 39, 44, 49, 57, 63
+Ebu Saîd el-Hudrî (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Namazı (önden geçen) hiçbir şey bozamaz. (Bununla beraber, yine de siz) gücünüz yettiğince (önünüzden geçene) mani olmaya çalışınız. Çünkü o şeytandan başka bir şey değildir." Diğer tahric: Buharî, salat; bed'u'l-halk; Müslim, salat; selam; Ebu Davud, salat; Nesaî, kasame ; İbn Mace, ikame; Darimî, salat; Muvatta', sefer; istizan; Ahmed b. Hanbel IH
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>719</td></tr><tr><td>Arabic No</td><td>719</td></tr><tr><td>Reference</td><td>Book 2 Hadith 329</td></tr></tbody></table></div>
 

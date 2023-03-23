@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রং ধরার আগে ফল বিক্রি করতে নিষেধ করেছেন। বর্ণনাকারী বলেন, حَتَّى تَحْمَارَّ এর অর্থ লালচে হওয়া। (২১৯৫, ২১৯৭, ২১৯৮, ২২০৮) (আধুনিক প্রকাশনীঃ ১৩৯২, ইসলামিক ফাউন্ডেশনঃ ১৩৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রং ধরার আগে ফল বিক্রি করতে নিষেধ করেছেন। বর্ণনাকারী বলেন, حَتَّى تَحْمَارَّ এর অর্থ লালচে হওয়া। (২১৯৫, ২১৯৭, ২১৯৮, ২২০৮) (আধুনিক প্রকাশনীঃ ১৩৯২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 24 Hadith 88</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari [Humaid] dari [Anas 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (மரத்திலுள்ள) பழங்கள் பக்குவம் அடையாத வரை -அதாவது சிவக்காத வரை- அவற்றை விற்பதற்கு நபி (ஸல்) அவர்கள் தடை விதித்தார்கள். அத்தியாயம் : 24
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (மரத்திலுள்ள) பழங்கள் பக்குவம் அடையாத வரை -அதாவது சிவக்காத வரை- அவற்றை விற்பதற்கு நபி (ஸல்) அவர்கள் தடை விதித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 24 Hadith 88</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari [Humaid] dari [Anas 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik r.a. şöyle anlatir: "Resulullah Sallallahu Aleyhi ve Sellem serpilip büyüyene ve kızarana kadar meyvelerin satımını yasaklamıştır. Tekrar: 2195, 2197, 2198, 2208
+Enes İbn Malik r.a. şöyle anlatir: "Resulullah Sallallahu Aleyhi ve Sellem serpilip büyüyene ve kızarana kadar meyvelerin satımını yasaklamıştır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 24 Hadith 88</td></tr></tbody></table></div>
 

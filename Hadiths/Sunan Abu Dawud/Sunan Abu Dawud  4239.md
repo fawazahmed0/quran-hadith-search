@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুমায়দ ইব্‌ন মাস’আদা (রহঃ) .... মুয়াবিয়া বিন আবূ সুফিয়ান (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চিতা-বাঘের চামড়ার উপর বসতে এবং সোনার অলংকার ব্যবহার করতে নিষেধ করেছেন; তবে অল্প পরিমাণ সোনা মহিলারা ব্যবহার করতে পারে। (গর্ব ও অহংকার প্রকাশের জন্য হলে, তা মহিলাদের জন্যও ব্যবহার করা জাইয নয়।)
+। মুআবিয়াহ ইবনু আবূ সুফিয়ান (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চিতাবাঘের চামড়ার গদিতে বসতে এবং স্বর্ণের জিনিস পরিধান করতে নিষেধ করেছেন। তবে সামান্য পরিমাণ ব্যবহারে দোষ নেই। ইমাম আবূ দাঊদ (রহঃ) বলেন, আবূ কিলাবাহ (রহঃ) মু‘আবিয়াহ (রাঃ)-এর সাক্ষাৎ পাননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4239</td></tr><tr><td>Arabic No</td><td>4239</td></tr><tr><td>Reference</td><td>Book 36 Hadith 26</td></tr></tbody></table></div>
 

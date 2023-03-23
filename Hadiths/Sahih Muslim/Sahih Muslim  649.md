@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩৬, আন্তর্জাতিক নাম্বারঃ ২৭৯ ৫৩৬-(.../...) মুহাম্মাদ ইবনুল সাব্বাহ (রহঃ) ..... আ'মাশ (রহঃ) হতে এ সূত্রে অবিকল বর্ণিত আছে; তবে পাত্রের বস্তু ফেলার কথাটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশনঃ ৫৪০, ইসলামিক সেন্টারঃ ৫৫৬)
+মুহাম্মাদ ইবনুল সাব্বাহ (রহঃ) ..... আ'মাশ (রহঃ) হতে এ সূত্রে অবিকল বর্ণিত আছে; তবে পাত্রের বস্তু ফেলার কথাটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশনঃ ৫৪০, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>279.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 115</td></tr></tbody></table></div>
 

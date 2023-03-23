@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, প্রত্যেক নবীরই হাওয়ারী ছিলেন। আর আমার হাওয়ারী হলেন যুবায়র (রাঃ)। (২৮৪৬) (আধুনিক প্রকাশনীঃ ৩৪৪২, ইসলামিক ফাউন্ডেশনঃ ৩৪৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, প্রত্যেক নবীরই হাওয়ারী ছিলেন। আর আমার হাওয়ারী হলেন যুবায়র (রাঃ)। (২৮৪৬) (আধুনিক প্রকাশনীঃ ৩৪৪২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 62 Hadith 67</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Malik bin Isma'il] telah bercerita kepada kami ['Ab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வோர் இறைத்தூதருக்கும் ஒரு பிரத்யேக உதவியாளர் (ஹவாரிய்யு) உண்டு. என் பிரத்யேக உதவியாளர் ஸுபைர் பின் அல்அவ்வாம் ஆவார்.95 இதை ஜாபிர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.96 அத்தியாயம் : 62
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வோர் இறைத்தூதருக்கும் ஒரு பிரத்யேக உதவியாளர் (ஹவாரிய்யு) உண்டு. என் பிரத்யேக உதவியாளர் ஸுபைர் பின் அல்அவ்வாம் ஆவார்.95 இதை ஜாபிர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.96 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 62 Hadith 67</td></tr></tbody></table></div>
 

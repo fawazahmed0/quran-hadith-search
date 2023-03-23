@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৪৯৬। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিং বিশিষ্ট ও মোটাতাজা (শক্তিশালী) একটি মেষ কুরবানী করেছেন। এর চেহারা, পা ও চোখ ছিল মিটমিটে কালো। সহীহ, ইবনু মা-জাহ (৩১২৮) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ্ গারীব বলেছেন। আমরা শুধু হাফস ইবনু গিয়াসের সূত্রেই তা জেনেছি।
+। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিং বিশিষ্ট ও মোটাতাজা (শক্তিশালী) একটি মেষ কুরবানী করেছেন। এর চেহারা, পা ও চোখ ছিল মিটমিটে কালো। সহীহ, ইবনু মা-জাহ (৩১২৮) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ্ গারীব বলেছেন। আমরা শুধু হাফস ইবনু গিয়াসের সূত্রেই তা জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1496</td></tr><tr><td>Arabic No</td><td>1496</td></tr><tr><td>Reference</td><td>Book 19 Hadith 4</td></tr></tbody></table></div>
 

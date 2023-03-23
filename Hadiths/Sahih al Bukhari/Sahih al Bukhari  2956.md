@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আর এ সনদেই বর্ণিত হয়েছে যে, (রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন,) যে ব্যক্তি আমার আনুগত্য করল, সে ব্যক্তি আল্লাহ তাআলারই আনুগত্য করল আর যে ব্যক্তি আমার নাফরমানী করল, সে ব্যক্তি আল্লাহ তাআলারই নাফরমানী করল। আর যে ব্যক্তি আমীরের আনুগত্য করল, সে ব্যক্তি আমারই আনুগত্য করল আর যে ব্যক্তি আমীরের নাফরমানী করল সে ব্যক্তি আমারই নাফরমানী করল। ইমাম তো ঢাল স্বরূপ। তাঁর নেতৃত্বে যুদ্ধ এবং তাঁরই মাধ্যমে নিরাপত্তা অর্জন করা হয়। অতঃপর যদি সে আল্লাহর তাকওয়ার নির্দেশ দেয় এবং সুবিচার প্রতিষ্ঠা করে, তবে তার জন্য এর পুরস্কার রয়েছে আর যদি সে এর বিপরীত করে তবে এর মন্দ পরিণাম তার উপরই বর্তাবে। (৭১৩৭) (আধুনিক প্রকাশনীঃ ২৭৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2956</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'ai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘நாம்தான் (காலத்தால்) பிந்தியவர்கள்; (மறுமையில் தகுதியால்) முந்தியவர்கள்” என்று கூற நான் கேட்டேன்.92 அத்தியாயம் : 56
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘நாம்தான் (காலத்தால்) பிந்தியவர்கள்; (மறுமையில் தகுதியால்) முந்தியவர்கள்” என்று கூற நான் கேட்டேன்.92 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2956</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

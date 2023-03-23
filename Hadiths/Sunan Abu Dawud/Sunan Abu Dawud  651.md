@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... বাকর ইবনু আবদুল্লাহ্ (রহঃ) উপরোক্ত হাদীছটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন এবং তিনি এই হাদীছের উভয় স্থানে ‘কাযার’ (নাপাক) শব্দের পরিবর্তে “খাবাছ” (নাপাক) শব্দের উল্লেখ করেছেন।
+। বাকর ইবনু ‘আব্দুল্লাহ (রহঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে উপরোক্ত হাদীস বর্ণিত আছে। তাতে (কাযার তথা নাপাকি শব্দের পরিবর্তে) দু’ জায়াগাতে ‘খুবসুন’ শব্দ ব্যবহৃত হয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>651</td></tr><tr><td>Arabic No</td><td>651</td></tr><tr><td>Reference</td><td>Book 2 Hadith 261</td></tr></tbody></table></div>
 

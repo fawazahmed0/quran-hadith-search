@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক মাসের মত তাঁর স্ত্রীদের সাথে ঈলা করলেন। ঊনত্রিশ দিন অতিবাহিত হওয়ার পর সকালে বা সন্ধ্যায় তিনি তাঁদের নিকট গমন করলেন। তাঁকে জিজ্ঞেস করা হল, আপনি তো এক মাস পর্যন্ত না আসার শপথ করেছিলেন? তিনি বললেন, মাস ঊনত্রিশ দিনেও হয়ে থাকে। (৫২০২) (আধুনিক প্রকাশনীঃ ১৭৭৫, ইসলামিক ফাউন্ডেশনঃ ১৭৮৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক মাসের মত তাঁর স্ত্রীদের সাথে ঈলা করলেন। ঊনত্রিশ দিন অতিবাহিত হওয়ার পর সকালে বা সন্ধ্যায় তিনি তাঁদের নিকট গমন করলেন। তাঁকে জিজ্ঞেস করা হল, আপনি তো এক মাস পর্যন্ত না আসার শপথ করেছিলেন? তিনি বললেন, মাস ঊনত্রিশ দিনেও হয়ে থাকে। (৫২০২) (আধুনিক প্রকাশনীঃ ১৭৭৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1910</td></tr><tr><td>Arabic No</td><td>1910</td></tr><tr><td>Reference</td><td>Book 30 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Yahya biun 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘ஒரு மாதம் தம் துணைவியருடன் சேர்வதில்லை' என்று சத்தியம் செய்திருந்தார்கள்; இருபத் தொன்பது நாட்கள் முடிந்ததும் அன்று ‘காலையில்' அல்லது ‘மாலையில்' (இல்லம்) திரும்பினார்கள். அவர்களிடம் ‘‘நீங்கள் ஒரு மாதம் (வீட்டிற்கு) வரமாட்டேன் என்று சத்தியம் செய்திருந்தீர்களே!” என்று கேட்கப்பட்டது. அதற்கு அவர்கள், ‘‘ ஒரு மாதம் என்பது இருபத்தொன்பது நாட்களாகவும் இருக்கலாம்” என்றார்கள். அத்தியாயம் : 30
+உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘ஒரு மாதம் தம் துணைவியருடன் சேர்வதில்லை' என்று சத்தியம் செய்திருந்தார்கள்; இருபத் தொன்பது நாட்கள் முடிந்ததும் அன்று ‘காலையில்' அல்லது ‘மாலையில்' (இல்லம்) திரும்பினார்கள். அவர்களிடம் ‘‘நீங்கள் ஒரு மாதம் (வீட்டிற்கு) வரமாட்டேன் என்று சத்தியம் செய்திருந்தீர்களே!” என்று கேட்கப்பட்டது. அதற்கு அவர்கள், ‘‘ ஒரு மாதம் என்பது இருபத்தொன்பது நாட்களாகவும் இருக்கலாம்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1910</td></tr><tr><td>Arabic No</td><td>1910</td></tr><tr><td>Reference</td><td>Book 30 Hadith 20</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Yahya biun 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Seleme r.anha'dan nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem bir defasında eşlerine bir ay boyunca yaklaşmayacağına dair yemin etmişti (ila yapmıştır.). Yirmi dokuz gün geçtikten sonra eşlerine yaklaşınca kendisine: "Fakat bir ay boyunca eşlerinize yaklaşmamaya yemin etmiştiniz!" denince şöyle bu­yurdu: "Ay yirmi dokuz gündür !" Tekrar: 5202
+Ümmü Seleme r.anha'dan nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem bir defasında eşlerine bir ay boyunca yaklaşmayacağına dair yemin etmişti (ila yapmıştır.). Yirmi dokuz gün geçtikten sonra eşlerine yaklaşınca kendisine: "Fakat bir ay boyunca eşlerinize yaklaşmamaya yemin etmiştiniz!" denince şöyle bu­yurdu: "Ay yirmi dokuz gündür !" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1910</td></tr><tr><td>Arabic No</td><td>1910</td></tr><tr><td>Reference</td><td>Book 30 Hadith 20</td></tr></tbody></table></div>
 

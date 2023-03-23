@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৬১২। আয়িশাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যদি তোমাদের কেউ ঘুম থেকে জেগে উঠে ভিজা দেখতে পায় কিন্তু স্বপ্নদোষের কথা তার মনে না পড়ে তাহলে সে গোসল করবে। অপরদিকে তার স্বপ্নদোষের কথা স্মরণ হলে, কিন্তু ভিজা দেখতে না পেলে তার উপর গোসল ওয়াজিব নয়।
+। আয়িশাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যদি তোমাদের কেউ ঘুম থেকে জেগে উঠে ভিজা দেখতে পায় কিন্তু স্বপ্নদোষের কথা তার মনে না পড়ে তাহলে সে গোসল করবে। অপরদিকে তার স্বপ্নদোষের কথা স্মরণ হলে, কিন্তু ভিজা দেখতে না পেলে তার উপর গোসল ওয়াজিব নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>612</td></tr><tr><td>Arabic No</td><td>612</td></tr><tr><td>Reference</td><td>Book 1 Hadith 346</td></tr></tbody></table></div>
 

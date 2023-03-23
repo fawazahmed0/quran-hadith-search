@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসামাহ ইবনু যায়দ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিম কাফেরের উত্তরাধিকারী হয় না আর কাফিরও মুসলিমের উত্তরাধিকারী হয় না। [১৫৮৮; মুসলিম পর্ব ২৩/হাঃ ১৬১৪, আহমাদ ২১৮০৬] (আধুনিক প্রকাশনী- ৬২৯৬, ইসলামিক ফাউন্ডেশন- ৬৩০৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উসামাহ ইবনু যায়দ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিম কাফেরের উত্তরাধিকারী হয় না আর কাফিরও মুসলিমের উত্তরাধিকারী হয় না। [১৫৮৮; মুসলিম পর্ব ২৩/হাঃ ১৬১৪, আহমাদ ২১৮০৬] (আধুনিক প্রকাশনী- ৬২৯৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6764</td></tr><tr><td>Arabic No</td><td>6764</td></tr><tr><td>Reference</td><td>Book 85 Hadith 41</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Ibnu Syihab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு முஸ்லிம் இறைமறுப்பாளருக்கு வாரிசாகமாட்டார். ஓர் இறைமறுப்பாளர் முஸ்லிமுக்கு வாரிசாகமாட்டார். இதை உசாமா பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.53 அத்தியாயம் : 86
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு முஸ்லிம் இறைமறுப்பாளருக்கு வாரிசாகமாட்டார். ஓர் இறைமறுப்பாளர் முஸ்லிமுக்கு வாரிசாகமாட்டார். இதை உசாமா பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.53 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6764</td></tr><tr><td>Arabic No</td><td>6764</td></tr><tr><td>Reference</td><td>Book 85 Hadith 41</td></tr></tbody></table></div>
 

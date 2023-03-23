@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সুওয়ায়দ (রহঃ) ... আবদুল মালিক ইবন তুফায়ল জাযারী (রহঃ) বলেন, উমর ইবন আবদুল আযীয (রহঃ) আমাদের নিকট ফরমান পাঠান যে, তোমরা জ্বালানো দ্রাক্ষারস পান করবে না, যতক্ষণ না তার দুই-তৃতীয়াংশ চলে যায় এবং এক-তৃতীয়াংশ অবশিষ্ট থাকে। আর প্রত্যেক মাদকদ্রব্যই হারাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5600</td></tr><tr><td>Arabic No</td><td>5600</td></tr><tr><td>Reference</td><td>Book 51 Hadith 62</td></tr></tbody></table></div>
 

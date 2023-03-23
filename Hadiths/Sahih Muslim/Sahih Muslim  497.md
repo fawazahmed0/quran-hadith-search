@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৮৫, আন্তর্জাতিক নাম্বারঃ ২০০ ৩৮৫-(৩৪৪/...) মুহাম্মাদ ইবনু আবদুল আ'লা (রহঃ) ..... আনাস (রাযিঃ) থেকে কাতাদাহ এর অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৩৯১, ইসলামিক সেন্টারঃ ৪০৪)
+মুহাম্মাদ ইবনু আবদুল আ'লা (রহঃ) ..... আনাস (রাযিঃ) থেকে কাতাদাহ এর অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৩৯১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>497</td></tr><tr><td>Arabic No</td><td>200.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 403</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Muhammad b. 'Abd al-A'la reported it to me:Mu'tamir narrated to us on the author
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப் பாளர்தொடர் வழியாகவும் வந்துள்ளது. இதை அனஸ் (ரலி) அவர்களிடமிருந்து கத்தாதா (ரஹ்) அவர்கள் அறிவித்துள்ளார்கள். அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப் பாளர்தொடர் வழியாகவும் வந்துள்ளது. இதை அனஸ் (ரலி) அவர்களிடமிருந்து கத்தாதா (ரஹ்) அவர்கள் அறிவித்துள்ளார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>497</td></tr><tr><td>Arabic No</td><td>200.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 403</td></tr></tbody></table></div>
 

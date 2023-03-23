@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রোগে সংক্রমণ নেই; শুভ-অশুভ আলামত বলে কিছু নেই। পেঁচায় অশুভ আলামত নেই এবং সফর মাসে অকল্যাণ নেই। [৫৭০৭] (আধুনিক প্রকাশনী- ৫৩৩৭, ইসলামিক ফাউন্ডেশন- ৫২৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রোগে সংক্রমণ নেই; শুভ-অশুভ আলামত বলে কিছু নেই। পেঁচায় অশুভ আলামত নেই এবং সফর মাসে অকল্যাণ নেই। [৫৭০৭] (আধুনিক প্রকাশনী- ৫৩৩৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5757</td></tr><tr><td>Arabic No</td><td>5757</td></tr><tr><td>Reference</td><td>Book 76 Hadith 72</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Hakam] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: தொற்றுநோய் கிடையாது. பறவை சகுனம் ஏதும் கிடையாது. ஆந்தை சகுனம் ஏதும் கிடையாது. ‘ஸஃபர்’ மாதம் பீடை என்பதும் கிடையாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.84 அத்தியாயம் : 76
+நபி (ஸல்) அவர்கள் கூறினார்கள்: தொற்றுநோய் கிடையாது. பறவை சகுனம் ஏதும் கிடையாது. ஆந்தை சகுனம் ஏதும் கிடையாது. ‘ஸஃபர்’ மாதம் பீடை என்பதும் கிடையாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.84 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5757</td></tr><tr><td>Arabic No</td><td>5757</td></tr><tr><td>Reference</td><td>Book 76 Hadith 72</td></tr></tbody></table></div>
 

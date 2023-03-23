@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭৯২। আবদুল্লাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন নারী অন্য নারীর সাথে (বস্ত্রহীন অবস্থায়) শরীর মিলিয়ে শোবে না। কেননা সে তার স্বামীর নিকট অপর নারীর শরীরের বর্ণনা দিবে এবং মনে হবে সে যেন তাকে চাক্ষুস দেখছে। সহীহঃ সহীহ আবী দাউদ (১৮৬৬), বুখারী। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবদুল্লাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন নারী অন্য নারীর সাথে (বস্ত্রহীন অবস্থায়) শরীর মিলিয়ে শোবে না। কেননা সে তার স্বামীর নিকট অপর নারীর শরীরের বর্ণনা দিবে এবং মনে হবে সে যেন তাকে চাক্ষুস দেখছে। সহীহঃ সহীহ আবী দাউদ (১৮৬৬), বুখারী। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2792</td></tr><tr><td>Arabic No</td><td>2792</td></tr><tr><td>Reference</td><td>Book 43 Hadith 65</td></tr></tbody></table></div>
 

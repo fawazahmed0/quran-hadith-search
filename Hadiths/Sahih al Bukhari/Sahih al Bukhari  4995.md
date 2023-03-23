@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মদিনায় আসার পূর্বে আমি سَبِّحْ اسْمَ رَبِّكَ সূরাটি শিখেছি। (আধুনিক প্রকাশনীঃ ৪৬২৪, ইসলামিক ফাউন্ডেশনঃ ৪৬২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মদিনায় আসার পূর্বে আমি سَبِّحْ اسْمَ رَبِّكَ সূরাটি শিখেছি। (আধুনিক প্রকাশনীঃ ৪৬২৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4995</td></tr><tr><td>Arabic No</td><td>4995</td></tr><tr><td>Reference</td><td>Book 66 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Walid] Telah menceritakan kepada kami [Syu'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறியதாவது: நான், ‘சப்பிஹிஸ்ம ரப்பிக்கல் அஃலா’ எனும் (87ஆவது) அத்தியாயத்தை நபி (ஸல்) அவர்கள் (மதீனாவிற்கு) வருவதற்கு முன்பே கற்றுக்கொண்டேன்.22 அத்தியாயம் : 66
+பராஉ (ரலி) அவர்கள் கூறியதாவது: நான், ‘சப்பிஹிஸ்ம ரப்பிக்கல் அஃலா’ எனும் (87ஆவது) அத்தியாயத்தை நபி (ஸல்) அவர்கள் (மதீனாவிற்கு) வருவதற்கு முன்பே கற்றுக்கொண்டேன்.22 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4995</td></tr><tr><td>Arabic No</td><td>4995</td></tr><tr><td>Reference</td><td>Book 66 Hadith 17</td></tr></tbody></table></div>
 

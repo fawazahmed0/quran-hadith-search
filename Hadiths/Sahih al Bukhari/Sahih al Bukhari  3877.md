@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত, তিনি বলেন, যখন নাজাশীর মৃত্যু হল তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, আজ একজন সৎ ব্যক্তি মারা গেছেন। উঠো, এবং তোমাদের ভাই আসহামার জন্য জানাযার সালাত আদায় কর। (১৩১৭) (আধুনিক প্রকাশনীঃ ৩৫৯০, ইসলামিক ফাউন্ডেশনঃ ৩৫৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত, তিনি বলেন, যখন নাজাশীর মৃত্যু হল তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, আজ একজন সৎ ব্যক্তি মারা গেছেন। উঠো, এবং তোমাদের ভাই আসহামার জন্য জানাযার সালাত আদায় কর। (১৩১৭) (আধুনিক প্রকাশনীঃ ৩৫৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3877</td></tr><tr><td>Arabic No</td><td>3877</td></tr><tr><td>Reference</td><td>Book 63 Hadith 102</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu ar Rabi'] telah menceritakan kepada kami [Ib
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: (மன்னர்) நஜாஷீ இறந்தபோது நபி (ஸல்) அவர்கள், “இன்று (ஒரு) நல்ல மனிதர் இறந்துவிட்டார். ஆகவே, எழுந்து நின்று உங்கள் சகோதரர் “அஸ்ஹமா'வுக்காக (ஃகாயிப் ஜனாஸா தொழுகை) தொழுங் கள்” என்று சொன்னார்கள்.124 அத்தியாயம் : 63
+ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: (மன்னர்) நஜாஷீ இறந்தபோது நபி (ஸல்) அவர்கள், “இன்று (ஒரு) நல்ல மனிதர் இறந்துவிட்டார். ஆகவே, எழுந்து நின்று உங்கள் சகோதரர் “அஸ்ஹமா'வுக்காக (ஃகாயிப் ஜனாஸா தொழுகை) தொழுங் கள்” என்று சொன்னார்கள்.124 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3877</td></tr><tr><td>Arabic No</td><td>3877</td></tr><tr><td>Reference</td><td>Book 63 Hadith 102</td></tr></tbody></table></div>
 

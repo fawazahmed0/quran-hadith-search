@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইবন জাররাহ (রহঃ) ..... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কোন ব্যক্তি কিছু পেয়ে তার কথা উল্লেখ করে তখন সে যেন তার শোকর আদায় করলো। আর যদি সে তা গোপন রাখে, তবে সে যেন তার না-শোকরী করলো।
+। জাবির (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি অনুদান পেয়ে দানকারীর প্রশংসা করলো সে তার প্রতি কৃতজ্ঞতা প্রকাশ করলো আর যে ব্যক্তি অনুদান গোপন করলো সে তার প্রতি অকৃতজ্ঞতা দেখালো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>4814</td></tr><tr><td>Reference</td><td>Book 43 Hadith 42</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যোহর, ‘আসর, মাগরিব ও ‘ইশার সালাত আদায় করে উপত্যকায় কিছুক্ষণ শুয়ে থাকেন। অতঃপর সওয়ারীতে আরোহণ করে বাইতুল্লাহর দিকে এসে তিনি বাইতুল্লাহর তাওয়াফ করেন। লায়স (রহ.)...আনাস ইবনু মালিক (রাঃ)-এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এ হাদীস বর্ণনায় ‘আমর ইবনু হারিস (রহ.)-এর অনুসরণ করেছেন। (১৭৬৪) (আধুনিক প্রকাশনীঃ ১৬৩৪. ইসলামিক ফাউন্ডেশনঃ ১৬৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যোহর, ‘আসর, মাগরিব ও ‘ইশার সালাত আদায় করে উপত্যকায় কিছুক্ষণ শুয়ে থাকেন। অতঃপর সওয়ারীতে আরোহণ করে বাইতুল্লাহর দিকে এসে তিনি বাইতুল্লাহর তাওয়াফ করেন। লায়স (রহ.)...আনাস ইবনু মালিক (রাঃ)-এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এ হাদীস বর্ণনায় ‘আমর ইবনু হারিস (রহ.)-এর অনুসরণ করেছেন। (১৭৬৪) (আধুনিক প্রকাশনীঃ ১৬৩৪. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1756</td></tr><tr><td>Arabic No</td><td>1756</td></tr><tr><td>Reference</td><td>Book 25 Hadith 234</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ashbagh bin Al Faraj] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஹஜ்ஜில் மினாவில் கல்லெறிந்தபின்) லுஹ்ர், அஸ்ர், மஃக்ரிப், இஷா ஆகிய தொழுகைகளை ‘அல்முஹஸ்ஸப்’ எனுமிடத்தில் தொழுது விட்டு, பின்னர் சிறிது நேரம் உறங்கினார் கள். பின்பு வாகனத்தில் ஏறி இறையில்லம் கஅபாவிற்குச் சென்று அதை (இறுதியாக) தவாஃப் செய்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 25
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஹஜ்ஜில் மினாவில் கல்லெறிந்தபின்) லுஹ்ர், அஸ்ர், மஃக்ரிப், இஷா ஆகிய தொழுகைகளை ‘அல்முஹஸ்ஸப்’ எனுமிடத்தில் தொழுது விட்டு, பின்னர் சிறிது நேரம் உறங்கினார் கள். பின்பு வாகனத்தில் ஏறி இறையில்லம் கஅபாவிற்குச் சென்று அதை (இறுதியாக) தவாஃப் செய்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1756</td></tr><tr><td>Arabic No</td><td>1756</td></tr><tr><td>Reference</td><td>Book 25 Hadith 234</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ashbagh bin Al Faraj] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem öğle, ikindi, akşam ve yatsıyı kıldı. Sonra Muhassab'da bir süre uyudu. Ardından Kabe'ye gitmek üzere bineğine bindi ve Kabe'yi tavaf etti. Tekrar: 1764
+Enes b. Malik r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem öğle, ikindi, akşam ve yatsıyı kıldı. Sonra Muhassab'da bir süre uyudu. Ardından Kabe'ye gitmek üzere bineğine bindi ve Kabe'yi tavaf etti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1756</td></tr><tr><td>Arabic No</td><td>1756</td></tr><tr><td>Reference</td><td>Book 25 Hadith 234</td></tr></tbody></table></div>
 

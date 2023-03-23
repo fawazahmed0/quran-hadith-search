@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-কানবী (রহঃ) .... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তি রাত্রিতে নিয়মিত নামায আদায় করে থাকে সে যদি কোন রাত্রিতে নিদ্রাচ্ছন্ন হওয়ার কারণে নামায আদায়ে ব্যর্থ হয় তবুও আল্লাহ তাআলা তার আমলনামায় উক্ত নামায আদায়ের অনুরূপ ছাওয়াব প্রদান করবেন এবং তার ঐ নিদ্রা সদকাস্বরূপ হবে। (নাসাঈ)।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী ‘আয়িশাহ্ (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি রাতে তাহাজ্জুদের সালাত আদায়ের ইচ্ছা করা সত্ত্বেও ঘুম তাকে পরাভূত করে দিলো, তার আমলনামায় রাতে সালাত আদায়ের সওয়াবই লিখা হবে। তার জন্য ঘুম সাদাকা হিসেবে গণ্য হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 5 Hadith 65</td></tr></tbody></table></div>
 

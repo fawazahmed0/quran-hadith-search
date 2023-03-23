@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৮৭, আন্তর্জাতিক নাম্বারঃ ৩০৫ ৫৮৭-(২২/...) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন নাপাক থাকতেন তখন কিছু খেতে অথবা ঘুমানোর ইচ্ছা করলে ওযু করে নিতেন যেমন, সালাতের ওযু করতেন। (ইসলামিক ফাউন্ডেশনঃ ৫৯১, ইসলামিক সেন্টারঃ ৬০৭)
+আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন নাপাক থাকতেন তখন কিছু খেতে অথবা ঘুমানোর ইচ্ছা করলে ওযু করে নিতেন যেমন, সালাতের ওযু করতেন। (ইসলামিক ফাউন্ডেশনঃ ৫৯১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>700</td></tr><tr><td>Arabic No</td><td>305.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekr b. Ebi Şeybe rivayet etti. (Dediki): Bize Uleyye ile Vekî' ve Gunder, Şu'be'den, o da Hakem'den, o da İbrahim'den o da Esved'den, o da Aişe'den naklen rivayet etti. Şöyle demiş: Resulullah (Sallallahu aleyhi ve Sellem) cünüp olup, bir şeyler yemek yahut uyumak isterse namaz abdesti gibi abdest alırdı. Diğer tahric: Ebu Davud, 224; Nesai, 255; İbn Mace, 591, 467
+Bize Ebu Bekr b. Ebi Şeybe rivayet etti. (Dediki): Bize Uleyye ile Vekî' ve Gunder, Şu'be'den, o da Hakem'den, o da İbrahim'den o da Esved'den, o da Aişe'den naklen rivayet etti. Şöyle demiş: Resulullah (Sallallahu aleyhi ve Sellem) cünüp olup, bir şeyler yemek yahut uyumak isterse namaz abdesti gibi abdest alırdı. Diğer tahric: Ebu Davud, 224; Nesai, 255; İbn Mace
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>700</td></tr><tr><td>Arabic No</td><td>305.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
 

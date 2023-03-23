@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইমরান ইবন মূসা (রহঃ) .... আবদুল্লাহ ইবন মুগাফফাল (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কুকুর অন্যান্য প্রজাতির মত একটি প্রজাতি না হতো, তাহলে আমি সেগুলো হত্যার নির্দেশ দিতাম। তোমরা তাদের মধ্যকার কালো কুকুরকে হত্যা করবে। যে সকল লোক তাদের কৃষিকর্ম ও শিকার করা কিংবা পশু পাহারা ব্যতীত অন্য উদ্দেশ্যে কুকুর পালন করে, তাদের আমল হতে প্রতিদিন এক কীরাত সওয়াব কমে যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4280</td></tr><tr><td>Arabic No</td><td>4280</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
 

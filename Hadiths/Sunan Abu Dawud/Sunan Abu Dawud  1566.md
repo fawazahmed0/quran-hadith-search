@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাফওয়ান ইব্‌ন সালেহ্‌ (রহঃ) ..... উমার ইব্‌ন ইয়ালা থেকে এই সূত্রেও আংটি সম্পর্কিত পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। সুফিয়ানকে জিজ্ঞাসা করা হল, কিভাবে এর যাকাত দিতে হবে? তিনি বলেন, যাকাতের অন্যান্য মালের সাথে যোগ করে।
+। ‘উমার ইবনু ই‘য়ালা (রহঃ) হতে এ সূত্রেও আংটি সম্পর্কিত পূর্বানুরূপ হাদীস বর্ণিত হয়েছে। সুফয়ানকে জিজ্ঞাসা করা হলো, এর যাকাত কিভাবে দিবে? তিনি বলেন, যাকাতের অন্যান্য মালের সাথে যোগ করে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1566</td></tr><tr><td>Arabic No</td><td>1566</td></tr><tr><td>Reference</td><td>Book 9 Hadith 11</td></tr></tbody></table></div>
 

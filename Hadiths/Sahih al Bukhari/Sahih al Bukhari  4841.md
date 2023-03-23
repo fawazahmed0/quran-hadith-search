@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু মুগাফফাল মুযানী (রাঃ) (যিনি সন্ধির সময় উপস্থিত ছিলেন) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম দুই আঙ্গুলের মাঝে কাঁকর নিয়ে নিক্ষেপ করতে নিষেধ করেছেন। [৫৪৭৯, ৬২২০] (আধুনিক প্রকাশনীঃ ৪৪৭৫, ইসলামিক ফাউন্ডেশনঃ ৪৪৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু মুগাফফাল মুযানী (রাঃ) (যিনি সন্ধির সময় উপস্থিত ছিলেন) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম দুই আঙ্গুলের মাঝে কাঁকর নিয়ে নিক্ষেপ করতে নিষেধ করেছেন। [৫৪৭৯, ৬২২০] (আধুনিক প্রকাশনীঃ ৪৪৭৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 65 Hadith 362</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அந்த மரத்தின்கீழ் நடைபெற்ற (‘பைஅத்துர் ரிள்வான்’ எனும்) சத்தியப் பிரமாணத்தில் கலந்துகொண்டவர்களில் ஒருவரான அப்துல்லாஹ்பின் முகஃப்பல் அல்முஸ்னீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பொடிக்கற்களை இரு விரல்களால் எறிந்து விளையாடும்) ‘கத்ஃப்’ எனும் கல் சுண்டு விளையாட்டிற்குத் தடை விதித்தார்கள்.10 அத்தியாயம் : 65
+அந்த மரத்தின்கீழ் நடைபெற்ற (‘பைஅத்துர் ரிள்வான்’ எனும்) சத்தியப் பிரமாணத்தில் கலந்துகொண்டவர்களில் ஒருவரான அப்துல்லாஹ்பின் முகஃப்பல் அல்முஸ்னீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பொடிக்கற்களை இரு விரல்களால் எறிந்து விளையாடும்) ‘கத்ஃப்’ எனும் கல் சுண்டு விளையாட்டிற்குத் தடை விதித்தார்கள்.10 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 65 Hadith 362</td></tr></tbody></table></div>
 

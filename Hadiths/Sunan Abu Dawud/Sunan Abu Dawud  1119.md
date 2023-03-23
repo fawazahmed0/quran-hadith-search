@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ ইবনুস্‌ সারী (রহঃ) ..... ইবনে উমর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি: যদি মসজিদে কোন ব্যক্তি তন্দ্রাচ্ছন্ন হয়, তবে সে যেন স্বীয় স্থান ত্যাগ করে অন্যত্র সরে বসে। (তিরমিজি)
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ মসজিদের মধ্যে তোমাদের কারো তন্দ্রা এলে সে যেন তার স্থান পরিবর্তন করে অন্যত্র বসে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1119</td></tr><tr><td>Arabic No</td><td>1119</td></tr><tr><td>Reference</td><td>Book 2 Hadith 730</td></tr></tbody></table></div>
 

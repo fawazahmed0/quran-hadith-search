@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৫০৪ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, মুসলিমদের প্রত্যেক আযাদ, গোলাম পুরুষ ও নারীর পক্ষ হতে সদাকাতুল ফিত্র হিসেবে খেজুর অথবা যব-এর এক সা‘ পরিমাণ[1] আদায় করা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফরজ করেছেন। (১৫০৩) (আধুনিক প্রকাশনীঃ ১৪০৭, ইসলামিক ফাউন্ডেশনঃ ১৪১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, মুসলিমদের প্রত্যেক আযাদ, গোলাম পুরুষ ও নারীর পক্ষ হতে সদাকাতুল ফিত্র হিসেবে খেজুর অথবা যব-এর এক সা‘ পরিমাণ[1] আদায় করা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফরজ করেছেন। (১৫০৩) (আধুনিক প্রকাশনীঃ ১৪০৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1504</td></tr><tr><td>Arabic No</td><td>1504</td></tr><tr><td>Reference</td><td>Book 24 Hadith 104</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: முஸ்லிம்களில் சுதந்திரமானவர், அடிமை, ஆண், பெண் ஆகிய அனை வருக்காகவும் ஒரு ‘ஸாஉ’ அளவு பேரீச்சம் பழம் அல்லது ஒரு ‘ஸாஉ’ அளவு தீட்டாத (வாற்)கோதுமையை நோன்புப் பெருநாள் தர்மமாக (ஏழைகளுக்கு வழங்க வேண்டும் என்று) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நிர்ணயித்தார்கள். அத்தியாயம் : 24
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: முஸ்லிம்களில் சுதந்திரமானவர், அடிமை, ஆண், பெண் ஆகிய அனை வருக்காகவும் ஒரு ‘ஸாஉ’ அளவு பேரீச்சம் பழம் அல்லது ஒரு ‘ஸாஉ’ அளவு தீட்டாத (வாற்)கோதுமையை நோன்புப் பெருநாள் தர்மமாக (ஏழைகளுக்கு வழங்க வேண்டும் என்று) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நிர்ணயித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1504</td></tr><tr><td>Arabic No</td><td>1504</td></tr><tr><td>Reference</td><td>Book 24 Hadith 104</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২২৭, আন্তর্জাতিক নাম্বারঃ ১৯২১ ৭২২৭-(৮০/...) আবু বকর ইবনু আবী শাইবাহ্ (রহঃ) ..... ‘আবদুল্লাহ ইবনু উমার থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা এবং ইয়াহুদী সম্প্রদায় পরস্পর যুদ্ধে লিপ্ত হবে। অবশেষে পাথর বলবে, হে মুসলিম! এই যে আমার পিছনে ইয়াহুদী লুকিয়ে আছে, এসো তুমি তাকে হত্যা কর। (ইসলামিক ফাউন্ডেশন ৭০৭৩, ইসলামিক সেন্টার ৭১২৭)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7337</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন, ‘‘কেউ শরীকী ক্রীতদাস হতে নিজের ভাগ বা অংশ (রাবীর দ্বিধা) মুক্ত করে দিলে .......’’। (২৪৯২) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ নেই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2526</td></tr><tr><td>Arabic No</td><td>2526</td></tr><tr><td>Reference</td><td>Book 49 Hadith 10</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Abu Huraira:That the Prophet (ﷺ) said, "Whoever frees his portion of 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: எவர் ஓர் அடிமையிலுள்ள (தமது) பங்கை விடுதலை செய்துவிட்டாரோ அவர்... (என்று ஹதீஸ் தொடங்கி அடுத்த ஹதீஸில் உள்ள தகவல்கள் இடம் பெறு கின்றன.) இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 49
+நபி (ஸல்) அவர்கள்கூறினார்கள்: எவர் ஓர் அடிமையிலுள்ள (தமது) பங்கை விடுதலை செய்துவிட்டாரோ அவர்... (என்று ஹதீஸ் தொடங்கி அடுத்த ஹதீஸில் உள்ள தகவல்கள் இடம் பெறு கின்றன.) இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2526</td></tr><tr><td>Arabic No</td><td>2526</td></tr><tr><td>Reference</td><td>Book 49 Hadith 10</td></tr></tbody></table></div>
 

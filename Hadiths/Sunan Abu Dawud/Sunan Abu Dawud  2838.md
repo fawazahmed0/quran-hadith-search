@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন মুছান্না (রহঃ) ...... সামুরা ইবন জুনদুব (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক শিশু তার ‘আকীকার বিনিময়ে (আল্লাহর নিকট) বন্ধকস্বরূপ থাকে। কাজেই সপ্তম দিনে তার পক্ষ হতে কুরবানী করবে এবং তার মাথা মুন্ডন করে নাম রাখবে। আবূ দাঊদ (রহঃ) বলেনঃ يُسَمَّى শব্দটি অধিক সঠিক। এভাবেই সালাম ইবন আবূ মূতী' কাতাদা (রহঃ) এর মাধ্যমে এবং আয়াস ইবন যাগফাল ও আশআছ (রহঃ) হাসান থেকে বর্ণনা করেছেন।
+। সামুরাহ ইবনু জুনদুব (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ প্রত্যেক শিশু তার আক্বীকাহর বিনিময়ে বন্ধক থাকে। তার জন্মের সপ্তম দিনে আক্বীকাহ করতে হয়, মাথার চুল ফেলতে হয় এবং নাম রাখতে হয়। আবূ দাঊদ বলেন, ‘ইউদমা’ শব্দের পরিবর্তে ‘ইউসাম্মা’ শব্দটি অধিক সঠিক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2838</td></tr><tr><td>Arabic No</td><td>2838</td></tr><tr><td>Reference</td><td>Book 16 Hadith 51</td></tr></tbody></table></div>
 

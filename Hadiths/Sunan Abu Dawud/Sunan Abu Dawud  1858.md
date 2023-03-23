@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনুল মুছান্না ও নাসর ইবন আলী (রহঃ) .... কা‘ব ইবন উজরা (রাঃ) হতে বর্ণিত। হুদায়বিয়ার সন্ধির সময় রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর পাশ দিয়ে গমণ করেন ... পূর্বোক্ত হাদীসের অনুরূপ। তিনি তাঁকে জিজ্ঞাসা করেনঃ তোমার সাথে কি সাদকা দেয়ার মত পশু আছে? সে বললো না। তিনি বললেন, তুমি তিনদিন রোযা রাখ, অথবা ছয়জর মিসকিনকে তিন সা' খেজুর দান কর, প্রতি দুইজন মিসকিন যেন এক সা' খেজুর পায়।
+। কা‘ব ইবনু ‘উজরাহ (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হুদায়বিয়ার সময় তার পাশ দিয়ে অতিক্রম করলেন। অতঃপর বর্ণনাকারী পূর্বের ঘটনা বর্ণনা করেন। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞেস করলেনঃ তোমার সাথে কুরবানীর পশু আছে কি? তিনি বললেন, না। তিনি বললেনঃ তাহলে তিন দিন সওম পালন করো অথবা তিন সা‘ খেজুর ছয়জন মিসকীনকে বিতরণ করো, যেন প্রত্যেক দু‘জন মিসকীন এক সা‘ করে পায়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1858</td></tr><tr><td>Arabic No</td><td>1858</td></tr><tr><td>Reference</td><td>Book 11 Hadith 138</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পূর্ববর্তী নবীদের (নবীদের) নাসীহাত থেকে মানুষ যা লাভ করেছে তার একটা হলো, যদি তুমি লজ্জাই না কর, তবে যা ইচ্ছে তাই কর। [৩৪৮৩] (আধুনিক প্রকাশনী- ৫৬৮০, ইসলামিক ফাউন্ডেশন- ৫৫৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পূর্ববর্তী নবীদের (নবীদের) নাসীহাত থেকে মানুষ যা লাভ করেছে তার একটা হলো, যদি তুমি লজ্জাই না কর, তবে যা ইচ্ছে তাই কর। [৩৪৮৩] (আধুনিক প্রকাশনী- ৫৬৮০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6120</td></tr><tr><td>Arabic No</td><td>6120</td></tr><tr><td>Reference</td><td>Book 78 Hadith 147</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Mas'ud:The Prophet (ﷺ) said, 'One of the sayings of the early Prophets which the people have got is: If you don't feel ashamed (from Haya': pious shyness from committing religeous indiscretions) do whatever you like." (See Hadith No 690, 691, Vol 4)
+Narrated Abu Mas'ud:The Prophet (ﷺ) said, 'One of the sayings of the early Prophets which the people have got is: If you don't feel ashamed (from Haya': pious shyness from committing religeous indiscretions) do whatever you like." (See Hadith No 690, 691, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6120</td></tr><tr><td>Arabic No</td><td>6120</td></tr><tr><td>Reference</td><td>Book 78 Hadith 147</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: மக்கள் முந்தைய இறைத்தூதர்களின் (முது)மொழிகளிலிருந்து அடைந்து கொண்ட ஒன்றுதான், “உனக்கு நாணம் இல்லையேல் நாடியதைச் செய்துகொள்” என்பதும். இதை அபூமஸ்ஊத் உக்பா பின் ஆமிர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.135 அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: மக்கள் முந்தைய இறைத்தூதர்களின் (முது)மொழிகளிலிருந்து அடைந்து கொண்ட ஒன்றுதான், “உனக்கு நாணம் இல்லையேல் நாடியதைச் செய்துகொள்” என்பதும். இதை அபூமஸ்ஊத் உக்பா பின் ஆமிர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.135 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6120</td></tr><tr><td>Arabic No</td><td>6120</td></tr><tr><td>Reference</td><td>Book 78 Hadith 147</td></tr></tbody></table></div>
 

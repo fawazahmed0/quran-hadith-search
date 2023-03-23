@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হারূন ইবনু সাঈদ আল আয়লী (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ "যখন কোন ব্যক্তি তার আল্লাহর হাক (হক) অথবা তার উটের সদাকাহ (যাকাত) আদায় করবেন না ..." অবশিষ্ট বর্ণনা সুহায়ল থেকে তার পিতার সূত্রে বর্ণিত হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন, ২১৬৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>987.05</td></tr><tr><td>Reference</td><td>Book 12 Hadith 32</td></tr></tbody></table></div>
 

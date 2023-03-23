@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু কাছীর .... আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ আযান ও ইকামতের মধ্যবর্তী সময়ে কৃত দুআ কখনই প্রত্যাখ্যাত হয়না। (তিরমিযী, নাসাঈ)।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আযান ও ইক্বামাত(ইকামত/একামত)ের মধ্যবর্তী সময়ের দু‘আ কখনো প্রত্যাখ্যাত হয় না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>521</td></tr><tr><td>Arabic No</td><td>521</td></tr><tr><td>Reference</td><td>Book 2 Hadith 131</td></tr></tbody></table></div>
 

@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya related to me from Malik from Nafi from Abdullah ibn Umar that when he found one of his family playing dice he beat him and destroyed the dice. Yahya said that he heard Malik say, "There is no good in chess, and he disapproved of it." Yahya said, "I heard him disapprove of playing it and other worthless games. He recited this ayat, 'What is there after the truth except going the wrong way.' " (Sura l0 ayat 32)
+Yahya related to me from Malik from Nafi from Abdullah ibn Umar that when he found one of his family playing dice he beat him and destroyed the dice. Yahya said that he heard Malik say, "There is no good in chess, and he disapproved of it." Yahya said, "I heard him disapprove of playing it and other worthless games. He recited this ayat, 'What is there after the truth except going the wrong way.' " (Sura l0 ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>1755</td></tr><tr><td>Reference</td><td>Book 52 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Yahya related to me from Malik from Nafi from Abdullah ibn Umar that when he fou
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku dari Malik dari [Nafi'] dari [Abdullah bin Umar] bahwa jika dia mendapati salah seorang keluarganya bermain dadu, maka dia memukulnya dan memecahkan dadu tersebut. Yahya berkata; "Aku mendengar Malik berkata; 'Tidak ada kebaikan dalam dadu', dia membencinya, dan aku juga mendengar bahwa dia membenci permainan dadu atau yang lainnya yang termasuk hal yang batil, lalu dia membaca ayat ini: '(Maka tidak ada sesudah kebenaran itu, melainkan kesesatan) ' (Qs. Yunus; 32)
+Telah menceritakan kepadaku dari Malik dari [Nafi'] dari [Abdullah bin Umar] bahwa jika dia mendapati salah seorang keluarganya bermain dadu, maka dia memukulnya dan memecahkan dadu tersebut. Yahya berkata; "Aku mendengar Malik berkata; 'Tidak ada kebaikan dalam dadu', dia membencinya, dan aku juga mendengar bahwa dia membenci permainan dadu atau yang lainnya yang termasuk hal yang batil, lalu dia membaca ayat ini: '(Maka tidak ada sesudah kebenaran itu, melainkan kesesatan) ' (Qs. Yunus;)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>1755</td></tr><tr><td>Reference</td><td>Book 52 Hadith 7</td></tr></tbody></table></div>
 

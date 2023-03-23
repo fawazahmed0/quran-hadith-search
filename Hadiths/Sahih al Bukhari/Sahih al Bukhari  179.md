@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যায়দ ইবনু খালিদ (রাযি.) হতে বর্ণিত। তিনি ‘উসমান ইবনু ‘আফফান (রাযি.)-কে জিজ্ঞেস করলেনঃ ‘কেউ যদি স্ত্রী সহবাস করে, কিন্তু মনী (বীর্য) বের না হয় (তবে তার হুকুম কী)? ‘উসমান (রাযি.) বললেনঃ ‘সে সালাতের ন্যায় উযূ করে নেবে এবং তার লজ্জাস্থান ধুয়ে ফেলবে। উসমান (রাযি.) বলেন, আমি এ কথা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে শুনেছি। (যায়দ বলেন) তারপর আমি এ সম্পর্কে ‘আলী (রাযি.), যুবায়র (রাযি.), তালহা (রাযি.) ও উবাই ইবনু কা’ব (রাযি.)-কে জিজ্ঞেস করেছি। তাঁরা আমাকে এ নির্দেশই দিয়েছেন।(১) (২৯২; মুসলিম ৩/২১, হাঃ ৩৪৭, আহমাদ ৪৫৮) (আধুনিক প্রকাশনীঃ ১৭৪, ইসলামিক ফাউন্ডেশনঃ ১৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যায়দ ইবনু খালিদ (রাযি.) হতে বর্ণিত। তিনি ‘উসমান ইবনু ‘আফফান (রাযি.)-কে জিজ্ঞেস করলেনঃ ‘কেউ যদি স্ত্রী সহবাস করে, কিন্তু মনী (বীর্য) বের না হয় (তবে তার হুকুম কী)? ‘উসমান (রাযি.) বললেনঃ ‘সে সালাতের ন্যায় উযূ করে নেবে এবং তার লজ্জাস্থান ধুয়ে ফেলবে। উসমান (রাযি.) বলেন, আমি এ কথা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে শুনেছি। (যায়দ বলেন) তারপর আমি এ সম্পর্কে ‘আলী (রাযি.), যুবায়র (রাযি.), তালহা (রাযি.) ও উবাই ইবনু কা’ব (রাযি.)-কে জিজ্ঞেস করেছি। তাঁরা আমাকে এ নির্দেশই দিয়েছেন।(১) (২৯২; মুসলিম ৩/২১, হাঃ ৩৪৭, আহমাদ ৪৫৮) (আধুনিক প্রকাশনীঃ ১৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>179</td></tr><tr><td>Arabic No</td><td>179</td></tr><tr><td>Reference</td><td>Book 4 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'd bin Hafsh] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸைத் பின் காலித் (ரலி) அவர்கள் கூறியதாவது: நான் உஸ்மான் பின் அஃப்பான் (ரலி) அவர்களிடம் “ஒருவர் (தம் மனைவி யுடன்) தாம்பத்திய உறவு மேற்கொண்டார். ஆனால், விந்து வெளியாகவில்லை (இந்நிலையில் அவர்மீது குளியல் கடமையாகுமா, என்ன) சொல்லுங்கள்?” என்று கேட்டேன். அதற்கு அவர்கள் “அவர் தமது ஆண் குறியைக் கழுவிவிட்டுத் தொழுகைக்குச் செய்வதைப் போன்று அங்கத் தூய்மை (உளூ) செய்துகொள்ள வேண்டும். இதை நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து செவியுற்றுள்ளேன்” என்று கூறினார்கள். மேலும், இது பற்றி அலீ (ரலி), ஸுபைர் (ரலி), தல்ஹா (ரலி), உபை பின் கஅப் (ரலி) ஆகியோரைக் கேட்டபோது, இவ்வாறே அவர் செய்ய வேண்டுமென அவர்கள் அனை வரும் வலியுறுத்தினர்.21 அத்தியாயம் : 4
+ஸைத் பின் காலித் (ரலி) அவர்கள் கூறியதாவது: நான் உஸ்மான் பின் அஃப்பான் (ரலி) அவர்களிடம் “ஒருவர் (தம் மனைவி யுடன்) தாம்பத்திய உறவு மேற்கொண்டார். ஆனால், விந்து வெளியாகவில்லை (இந்நிலையில் அவர்மீது குளியல் கடமையாகுமா, என்ன) சொல்லுங்கள்?” என்று கேட்டேன். அதற்கு அவர்கள் “அவர் தமது ஆண் குறியைக் கழுவிவிட்டுத் தொழுகைக்குச் செய்வதைப் போன்று அங்கத் தூய்மை (உளூ) செய்துகொள்ள வேண்டும். இதை நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து செவியுற்றுள்ளேன்” என்று கூறினார்கள். மேலும், இது பற்றி அலீ (ரலி), ஸுபைர் (ரலி), தல்ஹா (ரலி), உபை பின் கஅப் (ரலி) ஆகியோரைக் கேட்டபோது, இவ்வாறே அவர் செய்ய வேண்டுமென அவர்கள் அனை வரும் வலியுறுத்தினர்.21 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>179</td></tr><tr><td>Arabic No</td><td>179</td></tr><tr><td>Reference</td><td>Book 4 Hadith 45</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sa'd bin Hafsh] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyd İbn Hâlid r.a. şöyle demiştir: Osman İbn Affan r.a.'a: "Kişi eşiyle ilişkide bulunduğunda kendisinden meni gelmezse (ne olur)?" diye sordum. Osman şöyle dedi: "Namaz abdesti gibi abdest alır, ayrıca cinsel organını yıkar". Hz. Osman "Bunu Resulullah (Sallallahu aleyhi ve Sellem)'den duydum" dedi. Bunu Ali, Zübeyr, Talha ve Ubey İbn Kâ'b'a r.a.'a sordum onlar da böyle (aynı şeyi) söylediler. Tekrar: 292
+Zeyd İbn Hâlid r.a. şöyle demiştir: Osman İbn Affan r.a.'a: "Kişi eşiyle ilişkide bulunduğunda kendisinden meni gelmezse (ne olur)?" diye sordum. Osman şöyle dedi: "Namaz abdesti gibi abdest alır, ayrıca cinsel organını yıkar". Hz. Osman "Bunu Resulullah (Sallallahu aleyhi ve Sellem)'den duydum" dedi. Bunu Ali, Zübeyr, Talha ve Ubey İbn Kâ'b'a r.a.'a sordum onlar da böyle (aynı şeyi) söylediler. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>179</td></tr><tr><td>Arabic No</td><td>179</td></tr><tr><td>Reference</td><td>Book 4 Hadith 45</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু কাছীর ..... মুজাহিদ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আয়িশা (রাঃ) বলেছেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বিবিদের মাত্র একখানি করে পরিধেয় বস্ত্র ছিল। হায়েযের সময় তাই (আমাদের) পরিধানে থাকত। অতঃপর তাতে যদি রক্তের দাগ দেখা যেত, তখন আমরা মুখের একটু থুথু দিয়ে তা ঘষে রক্তের দাগ উঠিয়ে ফেলতাম।
+। মুজাহিদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আয়িশাহ্ (রাঃ) বলেন, আমাদের কারও নিকট শুধু একটি কাপড় থাকত। ঋতুস্রাব অবস্থায় সেটাই তাঁর পরনে থাকত। কাপড়ে রক্ত লেগে গেলে তিনি মুখের লালা দ্বারা ভিজিয়ে তা ঘষে নিতেন।[1] সহীহ : বুখারী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২০২৪। আমের আশ-শাবী (রহ.) থেকে বর্ণিত। তিনি বলেন, আমি ফাতেমাহ বিনতে কায়েস (রাঃ)-কে বললাম, আপনার তালাকের ঘটনাটি আমাকে বলুন। তিনি বলেন, আমার স্বামী ইয়ামনে থাকা অবস্থায় আমাকে তিন তালাক দেয়। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এটাকে জায়েয গণ্য করেন।
+। আমের আশ-শাবী (রহ.) থেকে বর্ণিত। তিনি বলেন, আমি ফাতেমাহ বিনতে কায়েস (রাঃ)-কে বললাম, আপনার তালাকের ঘটনাটি আমাকে বলুন। তিনি বলেন, আমার স্বামী ইয়ামনে থাকা অবস্থায় আমাকে তিন তালাক দেয়। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এটাকে জায়েয গণ্য করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2024</td></tr><tr><td>Arabic No</td><td>2024</td></tr><tr><td>Reference</td><td>Book 10 Hadith 9</td></tr></tbody></table></div>
 

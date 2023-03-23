@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৮২, আন্তর্জাতিক নাম্বারঃ ৮৮৩ ৮৮২. মুহাম্মাদ ইবনু রাফি (রহ.) ..... ‘আবদুল জাব্বার ইবনু ওয়ায়িল (রহ.) সূত্রে তার পিতা ওয়ায়িল (রাঃ) হতে বর্ণিত। তিনি নবী (সা.)-কে দেখেছেন, যখন তিনি সালাত শুরু করতেন তখন তিনি তাঁর উভয় হাত উঠাতেন। তখন বৃদ্ধাঙ্গুলিদ্বয় তাঁর দু'কানের লতি বরাবর হতো। সনদ দুর্বল: সনদে আবদুল জাব্বার এবং তার পিতা ও ওয়ায়িল ইবনু হুজুর-এর মাঝে ইনকিতা (বিচ্ছিন্নতা) রয়েছে; আবূ দাউদ ৭৩৭, মুসনাদে আহমাদ ১৮৮৬৯, য'ঈফ আবু দাউদ ১২২।
+। মুহাম্মদ ইবনু রাফি (রহঃ) ... ওয়াইল (রাঃ) থেকে বর্ণিত যে, তিনি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে দেখেছেন, যখন তিনি সালাত আরম্ভ করতেন তখন তিনি তাঁর উভয় হাত উঠাতেন। তখন তাঁর বৃদ্ধাঙ্গুলীদ্বয় তাঁর দু'কানের নিম্নভাগ ছোয় ছোয় অবস্থা হত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>882</td></tr><tr><td>Arabic No</td><td>882</td></tr><tr><td>Reference</td><td>Book 11 Hadith 7</td></tr></tbody></table></div>
 

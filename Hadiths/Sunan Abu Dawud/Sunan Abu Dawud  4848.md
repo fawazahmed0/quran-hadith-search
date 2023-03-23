@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী ইবন বাহর (রহঃ) .... শারীদ ইবন সুওয়াদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার পাশ দিয়ে যাওয়ার সময় আমাকে এমন অবস্থায় উপবিষ্ট দেখেন যে, আমি আমার বাম-হাত পিঠের দিকে রেখে নিতম্বের উপর ভর দিয়ে বসে আছি। তখন তিনি বলেনঃ তুমি তাদের মত বসেছ, যাদের উপর মহান আল্লাহ্‌ অসন্তুষ্ট।
+। আমর ইবনুস শারীদ (রহঃ) থেকে তার পিতা শারীদ ইবনু সুওয়াইদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার পাশ দিয়ে যাচ্ছিলেন। তখন আমি আমার বাম হাত পিঠে নিয়ে তার পাতার উপর বসেছিলাম। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেন, তুমি কি তাদের মতো বসছো, যারা অভিশপ্ত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
 

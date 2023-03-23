@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, মিথ্যা কসম পণ্য চালু করে দেয় বটে, কিন্তু বরকত নিশ্চিহ্ন করে দেয়। (মুসলিম ২২/২৭, হাঃ ১৬০৬, আহমাদ ২২৬০১) (আধুনিক প্রকাশনীঃ ১৯৪২ , ইসলামিক ফাউন্ডেশনঃ ১৯৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি, মিথ্যা কসম পণ্য চালু করে দেয় বটে, কিন্তু বরকত নিশ্চিহ্ন করে দেয়। (মুসলিম ২২/২৭, হাঃ ১৬০৬, আহমাদ ২২৬০১) (আধুনিক প্রকাশনীঃ ১৯৪২ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2087</td></tr><tr><td>Arabic No</td><td>2087</td></tr><tr><td>Reference</td><td>Book 34 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (பொய்) சத்தியம் செய்வது, பொருளை விலைபோகச் செய்யும்; வளத்தை அழித்துவிடும்.18 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (பொய்) சத்தியம் செய்வது, பொருளை விலைபோகச் செய்யும்; வளத்தை அழித்துவிடும்.18 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2087</td></tr><tr><td>Arabic No</td><td>2087</td></tr><tr><td>Reference</td><td>Book 34 Hadith 40</td></tr></tbody></table></div>
 

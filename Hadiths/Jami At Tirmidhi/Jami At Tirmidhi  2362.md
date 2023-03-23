@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩৬২। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আগামীদিনের জন্য কোন কিছু সঞ্চয় করে রাখতেন না। সহীহ, মুখতাসার শাখাইল (৩০৪), তা’লীকুর রাগীব (২/৪২)। আবূ ঈসা বলেন, এ হাদীসটি গারীব। এ হাদীসটি জাফর ইবনু সুলাইমান হতে সাবিতের সূত্রে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে মুরসাল' হিসাবেও বর্ণিত হয়েছে।
+। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আগামীদিনের জন্য কোন কিছু সঞ্চয় করে রাখতেন না। সহীহ, মুখতাসার শাখাইল (৩০৪), তা’লীকুর রাগীব (২/৪২)। আবূ ঈসা বলেন, এ হাদীসটি গারীব। এ হাদীসটি জাফর ইবনু সুলাইমান হতে সাবিতের সূত্রে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে মুরসাল' হিসাবেও বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 36 Hadith 59</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। মক্কা বিজয়ের বছর তিনি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে মক্কা্য় এ কথা বলতে শুনেছেন যে, আল্লাহ এবং তাঁর রাসূল মদের ক্রয়-বিক্রয় হারাম করে দিয়েছেন।[1] [২২৩৬] (আধুনিক প্রকাশনীঃ ৩৯৫৮, ইসলামিক ফাউন্ডেশনঃ ৩৯৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। মক্কা বিজয়ের বছর তিনি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে মক্কা্য় এ কথা বলতে শুনেছেন যে, আল্লাহ এবং তাঁর রাসূল মদের ক্রয়-বিক্রয় হারাম করে দিয়েছেন।[1] [২২৩৬] (আধুনিক প্রকাশনীঃ ৩৯৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4296</td></tr><tr><td>Arabic No</td><td>4296</td></tr><tr><td>Reference</td><td>Book 64 Hadith 329</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Al Lai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: மக்கா வெற்றி ஆண்டில் நபி (ஸல்) அவர்கள் மக்காவில் தங்கியிருந்தபோது, “அல்லாஹ்வும் அவனுடைய தூதரும் மது வியாபாரத்தைத் தடை செய்து விட்டார்கள்” என்று அவர்கள் சொல்ல நான் கேட்டிருக்கிறேன். அத்தியாயம் : 64
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: மக்கா வெற்றி ஆண்டில் நபி (ஸல்) அவர்கள் மக்காவில் தங்கியிருந்தபோது, “அல்லாஹ்வும் அவனுடைய தூதரும் மது வியாபாரத்தைத் தடை செய்து விட்டார்கள்” என்று அவர்கள் சொல்ல நான் கேட்டிருக்கிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4296</td></tr><tr><td>Arabic No</td><td>4296</td></tr><tr><td>Reference</td><td>Book 64 Hadith 329</td></tr></tbody></table></div>
 

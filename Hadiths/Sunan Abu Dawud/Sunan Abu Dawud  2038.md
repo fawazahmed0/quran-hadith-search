@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন আবূ শায়বা (রহঃ) ...... তাওয়ামার আযাদকৃত গোলাম সালিহ হতে, তিনি সা'দের মনিব হতে বর্ণনা করেছেন। একদা সা'দ (রাঃ) মদীনার গোলামদের মধ্য হতে কোন একজনকে মদীনার বৃক্ষরাজি কাটতে দেখে তার সমস্ত সম্পদ ও কাপড়চোপড় ছিনিয়ে নেন। অতঃপর তিনি তাদের উদ্দেশ্যে বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে শ্রবণ করেছি যে, তিনি মদীনার বৃক্ষরাজি কাটতে নিষেধ করেছেন। আর তিনি আরো বলেন, যদি কেউ এখন থেকে কিছু কর্তন করে, তবে ঐ ব্যক্তির সম্পদ ও কাপড়চোপড় সহ পাকড়াও করবে।
+। সা‘দ (রাযি.) এর মুক্তদাস সূত্রে বর্ণিত। সা‘দ (রাযি.) মদীনার কতিপয় গোলামকে মদীনার গাছপালা কাটতে দেকে তাদের মালপত্র কেড়ে নিলেন এবং তাদের মনিবদের বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মদীনার গাছপালা কাটতে নিষেধ করতে শুনেছি। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আরো বলেছেনঃ কেউ এখানকার কিছু কাটলে তার মালপত্র সেই পাবে যে তা কেড়ে নিবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2038</td></tr><tr><td>Arabic No</td><td>2038</td></tr><tr><td>Reference</td><td>Book 11 Hadith 318</td></tr></tbody></table></div>
 

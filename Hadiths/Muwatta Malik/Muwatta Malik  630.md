@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১. আবদুল্লাহ ইবনে উমর (রাঃ) হইতে বর্ণিত- রাসুলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রোযার উল্লেখ করিয়া বলিয়াছেনঃ তোমরা চাঁদ না দেখা পর্যন্ত রোযা রাখিও না। আর চাঁদ না দেখিয়া রোযা খুলিও না। যদি তোমাদের উপর (আকাশ) মেঘাচ্ছন্ন হয়, তবে রোযা খোলার জন্য অন্য দিন হিসাব করিয়া নিও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>630</td></tr><tr><td>Arabic No</td><td>630</td></tr><tr><td>Reference</td><td>Book 18 Hadith 1</td></tr></tbody></table></div>
 

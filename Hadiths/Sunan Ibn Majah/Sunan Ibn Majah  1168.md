@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১১৬৮। খারিজা ইবনু হুজাফা আল-আদাবী (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট বের হয়ে এসে বলেনঃ নিশ্চয় আল্লাহ একটি সালাত (নামায/নামাজ) দ্বারা তোমাদের সাহায্য করছেন। এটা তোমাদের জন্য অনেক লাল উটের চেয়েও উত্তম। তা হলো বিতরের সালাত। আল্লাহ তোমাদের জন্য এটা এশা ও ফজরের মধ্যবর্তী সময়ে পড়ার জন্য নির্ধারণ করেছেন।
+। খারিজা ইবনু হুজাফা আল-আদাবী (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট বের হয়ে এসে বলেনঃ নিশ্চয় আল্লাহ একটি সালাত (নামায/নামাজ) দ্বারা তোমাদের সাহায্য করছেন। এটা তোমাদের জন্য অনেক লাল উটের চেয়েও উত্তম। তা হলো বিতরের সালাত। আল্লাহ তোমাদের জন্য এটা এশা ও ফজরের মধ্যবর্তী সময়ে পড়ার জন্য নির্ধারণ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1168</td></tr><tr><td>Arabic No</td><td>1168</td></tr><tr><td>Reference</td><td>Book 5 Hadith 366</td></tr></tbody></table></div>
 

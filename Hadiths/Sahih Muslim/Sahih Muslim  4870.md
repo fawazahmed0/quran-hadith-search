@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭৬৪, আন্তর্জাতিক নাম্বারঃ ১৮৭৮ ৪৭৬৪-(…/...) কুতাইবাহ ইবনু সাঈদ, যুহায়র ইবনু হারব ও আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... সুহায়ল (রাযিঃ) থেকে এ সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৭১৭, ইসলামিক সেন্টার ৪৭১৮)
+(…/...) কুতাইবাহ ইবনু সাঈদ, যুহায়র ইবনু হারব ও আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... সুহায়ল (রাযিঃ) থেকে এ সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৭১৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>1878.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 166</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৫৯০। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন বান্দা সততার সাথে “লা-ইলা-হা ইল্লাল্লাহ" বললে তার জন্য আকাশের দ্বারগুলো খোলা হয়। ফলে উক্ত কালিমাহ আরশে আজীম পর্যন্ত পৌছে যায়, যতক্ষণ সে কবীরাহ গুনাহ ত্যাগ করে”। হাসানঃ মিশকাত, তাহকীক সানী (২৩১৪), তা’লীকুর রাগীব (২/২৩৮)। আবূ ঈসা বলেন, উপর্যুক্ত সনদে এ হাদীসটি হাসান গারীব।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন বান্দা সততার সাথে “লা-ইলা-হা ইল্লাল্লাহ" বললে তার জন্য আকাশের দ্বারগুলো খোলা হয়। ফলে উক্ত কালিমাহ আরশে আজীম পর্যন্ত পৌছে যায়, যতক্ষণ সে কবীরাহ গুনাহ ত্যাগ করে”। হাসানঃ মিশকাত, তাহকীক সানী (২৩১৪), তা’লীকুর রাগীব (২/২৩৮)। আবূ ঈসা বলেন, উপর্যুক্ত সনদে এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3590</td></tr><tr><td>Arabic No</td><td>3590</td></tr><tr><td>Reference</td><td>Book 48 Hadith 221</td></tr></tbody></table></div>
 

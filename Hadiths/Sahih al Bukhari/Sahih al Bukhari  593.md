@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে দিনই ‘আসরের পর আমার নিকট আসতেন সে দিনই দু’রাক‘আত সালাত আদায় করতেন। (৫৯০) (আধুনিক প্রকাশনীঃ ৫৫৮, ইসলামিক ফাউন্ডেশনঃ ৫৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে দিনই ‘আসরের পর আমার নিকট আসতেন সে দিনই দু’রাক‘আত সালাত আদায় করতেন। (৫৯০) (আধুনিক প্রকাশনীঃ ৫৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>593</td></tr><tr><td>Arabic No</td><td>593</td></tr><tr><td>Reference</td><td>Book 9 Hadith 68</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] berkata, telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அஸ்ர் தொழு கைக்குப்பின் எந்த நாளில் என்னிடம் (என் வீட்டிற்கு) வந்தாலும் அவர்கள் இரண்டு ரக்அத்கள் தொழாமல் இருந்த தில்லை.28 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 9
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அஸ்ர் தொழு கைக்குப்பின் எந்த நாளில் என்னிடம் (என் வீட்டிற்கு) வந்தாலும் அவர்கள் இரண்டு ரக்அத்கள் தொழாமல் இருந்த தில்லை.28 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>593</td></tr><tr><td>Arabic No</td><td>593</td></tr><tr><td>Reference</td><td>Book 9 Hadith 68</td></tr></tbody></table></div>
 

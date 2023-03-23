@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভোর পর্যন্ত যী-তুয়ায় রাত যাপন করেন, অতঃপর মক্কায় প্রবেশ করেন। (রাবী নাফি‘ বলেন) ইবনু ‘উমার (রাঃ)-ও এরূপ করতেন। (১৫৫৩) (আধুনিক প্রকাশনীঃ ১৪৭০, ইসলামিক ফাউন্ডেশনঃ ১৪৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভোর পর্যন্ত যী-তুয়ায় রাত যাপন করেন, অতঃপর মক্কায় প্রবেশ করেন। (রাবী নাফি‘ বলেন) ইবনু ‘উমার (রাঃ)-ও এরূপ করতেন। (১৫৫৩) (আধুনিক প্রকাশনীঃ ১৪৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1574</td></tr><tr><td>Arabic No</td><td>1574</td></tr><tr><td>Reference</td><td>Book 25 Hadith 60</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada sayai [Musaddad] telah menceritakan kepada kami [Yahya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ‘தூத்துவா’ எனுமிடத்தில் இரவில் தங்கிவிட்டுக் காலையில் மக்காவில் நுழைந்தார்கள். இப்னு உமர் (ரலி) அவர்களும் அவ்வாறே செய்துவந்தார்கள் என நாஃபிஉ (ரஹ்) அவர்கள் கூறுகிறார்கள். அத்தியாயம் : 25
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ‘தூத்துவா’ எனுமிடத்தில் இரவில் தங்கிவிட்டுக் காலையில் மக்காவில் நுழைந்தார்கள். இப்னு உமர் (ரலி) அவர்களும் அவ்வாறே செய்துவந்தார்கள் என நாஃபிஉ (ரஹ்) அவர்கள் கூறுகிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1574</td></tr><tr><td>Arabic No</td><td>1574</td></tr><tr><td>Reference</td><td>Book 25 Hadith 60</td></tr></tbody></table></div>
 

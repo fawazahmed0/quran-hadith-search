@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুযাইফাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন রাতে সালাতের জন্য উঠতেন তখন দাঁত মেজে মুখ পরিষ্কার করে নিতেন। (২৪৫) (আধুনিক প্রকাশনীঃ ৮৩৮, ইসলামিক ফাউন্ডেশনঃ ৮৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হুযাইফাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন রাতে সালাতের জন্য উঠতেন তখন দাঁত মেজে মুখ পরিষ্কার করে নিতেন। (২৪৫) (আধুনিক প্রকাশনীঃ ৮৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>889</td></tr><tr><td>Reference</td><td>Book 11 Hadith 14</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹுதைஃபா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரவில் (தொழுகைக்காக) எழும்போது, (பல் துலக்கும் குச்சியால்) தமது வாயைத் தேய்ப்பார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 11
+ஹுதைஃபா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரவில் (தொழுகைக்காக) எழும்போது, (பல் துலக்கும் குச்சியால்) தமது வாயைத் தேய்ப்பார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>889</td></tr><tr><td>Reference</td><td>Book 11 Hadith 14</td></tr></tbody></table></div>
 

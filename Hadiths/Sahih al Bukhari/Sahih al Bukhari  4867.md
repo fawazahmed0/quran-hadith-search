@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, মক্কা্বাসীরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে একটি নিদর্শন দেখাতে বলল। তখন তিনি তাদেরকে চাঁদ খন্ডিত করে দেখালেন। [৩৬৩৭] (আধুনিক প্রকাশনীঃ ৪৫০০, ইসলামিক ফাউন্ডেশনঃ ৪৫০৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, মক্কা্বাসীরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে একটি নিদর্শন দেখাতে বলল। তখন তিনি তাদেরকে চাঁদ খন্ডিত করে দেখালেন। [৩৬৩৭] (আধুনিক প্রকাশনীঃ ৪৫০০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4867</td></tr><tr><td>Arabic No</td><td>4867</td></tr><tr><td>Reference</td><td>Book 65 Hadith 388</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: மக்காவாசிகள் (நபி (ஸல்) அவர்களி டம்) ஓர் அற்புதச் சான்றைக் காட்டும்படி கேட்டார்கள். எனவே, சந்திரன் (இரண்டாகப்) பிளவுண்ட நிகழ்ச்சியை (தம் உண்மைக்குச் சான்றாக) அவர்களுக்கு நபி (ஸல்) அவர்கள் காட்டினார்கள்.4 அத்தியாயம் : 65
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: மக்காவாசிகள் (நபி (ஸல்) அவர்களி டம்) ஓர் அற்புதச் சான்றைக் காட்டும்படி கேட்டார்கள். எனவே, சந்திரன் (இரண்டாகப்) பிளவுண்ட நிகழ்ச்சியை (தம் உண்மைக்குச் சான்றாக) அவர்களுக்கு நபி (ஸல்) அவர்கள் காட்டினார்கள்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4867</td></tr><tr><td>Arabic No</td><td>4867</td></tr><tr><td>Reference</td><td>Book 65 Hadith 388</td></tr></tbody></table></div>
 

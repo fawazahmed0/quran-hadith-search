@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১২৯৩। আবূ তালহা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, হে আল্লাহর রাসূল! আমি কিছু মদ কিনেছি আমার অধীনস্ত কয়েকটি ইয়াতীমের জন্য। তিনি বলেনঃ তা ঢেলে ফেলে দাও এবং পাত্রগুলো ভেঙ্গে ফেল। হাসান, মিশকাত তাহকীক ছানী (৩৬৫৯) জাবির, আইশা, আবু সাইদ, ইবনু মাসউদ ইবনু উমার ও আনাস(রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আৰূ ঈসা বলেন, সাওরী আবূ তালহার এ হাদীসটি সুদী হতে, তিনি ইয়াহইয়া ইবনু আব্বাস হতে আনাস (রাঃ)-এর সূত্রে বর্ণনা করেছেন। এই পরবর্তী সূত্রটি প্রথম সূত্রের চেয়ে অধিক সহীহ।
+। আবূ তালহা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, হে আল্লাহর রাসূল! আমি কিছু মদ কিনেছি আমার অধীনস্ত কয়েকটি ইয়াতীমের জন্য। তিনি বলেনঃ তা ঢেলে ফেলে দাও এবং পাত্রগুলো ভেঙ্গে ফেল। হাসান, মিশকাত তাহকীক ছানী (৩৬৫৯) জাবির, আইশা, আবু সাইদ, ইবনু মাসউদ ইবনু উমার ও আনাস(রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আৰূ ঈসা বলেন, সাওরী আবূ তালহার এ হাদীসটি সুদী হতে, তিনি ইয়াহইয়া ইবনু আব্বাস হতে আনাস (রাঃ)-এর সূত্রে বর্ণনা করেছেন। এই পরবর্তী সূত্রটি প্রথম সূত্রের চেয়ে অধিক সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1293</td></tr><tr><td>Arabic No</td><td>1293</td></tr><tr><td>Reference</td><td>Book 14 Hadith 95</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas: From Abu Talhah that he said: "O Prophet of Allah! I had purchased some wine for the orphans under my care. He said: 'Spill out the wine, and break the jugs.'" [He said:] There are narrations on this topic from Jabir, 'Aishah, Abu Sa'eed, Ibn Mas'ud, Ibn 'Umar, and Anas. [Abu 'Eisa said:] The Hadith of Abu Talhah, Ath-Thawri reported this Hadith from As-Suddi, from Yahya bin 'Abbad, from Anas: "That Abu Talhah was with him" and this is more correct than the narration of Al-laith (no. 1293)
+Narrated Anas: From Abu Talhah that he said: "O Prophet of Allah! I had purchased some wine for the orphans under my care. He said: 'Spill out the wine, and break the jugs.'" [He said:] There are narrations on this topic from Jabir, 'Aishah, Abu Sa'eed, Ibn Mas'ud, Ibn 'Umar, and Anas. [Abu 'Eisa said:] The Hadith of Abu Talhah, Ath-Thawri reported this Hadith from As-Suddi, from Yahya bin 'Abbad, from Anas: "That Abu Talhah was with him" and this is more correct than the narration of Al-laith (no)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1293</td></tr><tr><td>Arabic No</td><td>1293</td></tr><tr><td>Reference</td><td>Book 14 Hadith 95</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু শাদ্দাদ ইবনু হাদ লায়সী (রহ.) হতে বর্ণিত। তিনি বলেন, আমি রিফা‘আ ইবনু রাফি‘ আনসারী (রাঃ)-কে দেখেছি, তিনি বদর যুদ্ধে শরীক হয়েছিলেন। (আধুনিক প্রকাশনীঃ ৩৭১৬, ইসলামিক ফাউন্ডেশনঃ ৩৭২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু শাদ্দাদ ইবনু হাদ লায়সী (রহ.) হতে বর্ণিত। তিনি বলেন, আমি রিফা‘আ ইবনু রাফি‘ আনসারী (রাঃ)-কে দেখেছি, তিনি বাদর যুদ্ধে শরীক হয়েছিলেন। (আধুনিক প্রকাশনীঃ ৩৭১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4014</td></tr><tr><td>Arabic No</td><td>4014</td></tr><tr><td>Reference</td><td>Book 64 Hadith 64</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Abdullah bin Shaddad bin Al-Had Al-Laithi:I saw Rifa'a bin Rafi' Al-An
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் ஷத்தாத் பின் அல்ஹாத் அல்லைஸீ (ரஹ்) அவர்கள் கூறியதாவது: நான் பத்ரில் கலந்துகொண்டவரான ரிஃபாஆ பின் ராஃபிஉ அல்அன்சாரீ (ரலி) அவர்களைப் பார்த்தேன்...53 அத்தியாயம் : 64
+அப்துல்லாஹ் பின் ஷத்தாத் பின் அல்ஹாத் அல்லைஸீ (ரஹ்) அவர்கள் கூறியதாவது: நான் பத்ரில் கலந்துகொண்டவரான ரிஃபாஆ பின் ராஃபிஉ அல்அன்சாரீ (ரலி) அவர்களைப் பார்த்தேன்...53 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4014</td></tr><tr><td>Arabic No</td><td>4014</td></tr><tr><td>Reference</td><td>Book 64 Hadith 64</td></tr></tbody></table></div>
 

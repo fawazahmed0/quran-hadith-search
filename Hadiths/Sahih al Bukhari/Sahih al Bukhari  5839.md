@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুবায়র ও ‘আবদুর রহমান (রাঃ)-কে তাদের চর্মরোগের কারণে রেশমী কাপড় পরিধান করার অনুমতি প্রদান করেছিলেন। [২৯১৯] (আধুনিক প্রকাশনী- ৫৪১৩, ইসলামিক ফাউন্ডেশন- ৫৩০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুবায়র ও ‘আবদুর রহমান (রাঃ)-কে তাদের চর্মরোগের কারণে রেশমী কাপড় পরিধান করার অনুমতি প্রদান করেছিলেন। [২৯১৯] (আধুনিক প্রকাশনী- ৫৪১৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5839</td></tr><tr><td>Arabic No</td><td>5839</td></tr><tr><td>Reference</td><td>Book 77 Hadith 56</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Waki'] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஸுபைர் பின் அல்அவ்வாம் (ரலி) அவர்களுக்கும் அப்துர் ரஹ்மான் பின் அவ்ஃப் (ரலி) அவர்களுக்கும் ஏற்பட்டிருந்த சொறிசிரங்கின் காரணத்தால் பட்டாடை அணிந்துகொள்ள அவர்கள் இருவருக்கும் நபி (ஸல்) அவர்கள் அனுமதியளித்தார்கள்.55 அத்தியாயம் : 77
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஸுபைர் பின் அல்அவ்வாம் (ரலி) அவர்களுக்கும் அப்துர் ரஹ்மான் பின் அவ்ஃப் (ரலி) அவர்களுக்கும் ஏற்பட்டிருந்த சொறிசிரங்கின் காரணத்தால் பட்டாடை அணிந்துகொள்ள அவர்கள் இருவருக்கும் நபி (ஸல்) அவர்கள் அனுமதியளித்தார்கள்.55 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5839</td></tr><tr><td>Arabic No</td><td>5839</td></tr><tr><td>Reference</td><td>Book 77 Hadith 56</td></tr></tbody></table></div>
 

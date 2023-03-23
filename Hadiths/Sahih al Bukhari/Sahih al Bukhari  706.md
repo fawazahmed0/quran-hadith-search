@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত সংক্ষেপে এবং পূর্ণভাবে আদায় করতেন। (৮৬৮; মুসলিম ৪/৩৭ হাঃ ৪৬৯, আহমাদ ১১৯৯০) (আধুনিক প্রকাশনীঃ ৬৬৪, ইসলামিক ফাউন্ডেশনঃ ৬৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত সংক্ষেপে এবং পূর্ণভাবে আদায় করতেন। (৮৬৮; মুসলিম ৪/৩৭ হাঃ ৪৬৯, আহমাদ ১১৯৯০) (আধুনিক প্রকাশনীঃ ৬৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>706</td></tr><tr><td>Arabic No</td><td>706</td></tr><tr><td>Reference</td><td>Book 10 Hadith 101</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தொழுகையைச் சுருக்கமாகவும் (எந்த ஒன்றும் விடுபடா மல்) நிறைவாகவும் தொழுவிப்பவர்களாக இருந்தார்கள். அத்தியாயம் : 10
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தொழுகையைச் சுருக்கமாகவும் (எந்த ஒன்றும் விடுபடா மல்) நிறைவாகவும் தொழுவிப்பவர்களாக இருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>706</td></tr><tr><td>Arabic No</td><td>706</td></tr><tr><td>Reference</td><td>Book 10 Hadith 101</td></tr></tbody></table></div>
 

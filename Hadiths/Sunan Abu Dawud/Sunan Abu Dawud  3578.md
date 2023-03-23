@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) ...... আনাস ইবন মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপ বলতে শুনেছিঃ যে ব্যক্তি চাকরী চাইবে এবং তা পাওয়ার জন্য লোক দিয়ে সুপারিশ করাবে, সে ব্যক্তি নিজেই নিজের যিম্মাদার হবে। পক্ষান্তরে যে ব্যক্তি চাকরী চাইবে না এবং তার জন্য কাউকে দিয়ে সুপারিশও করাবে না। আল্লাহ্‌ তার সাহায্যের জন্য একজন ফেরেশতা পাঠান।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি বিচারকের পদ চায় এবং এজন্য সাহায্য প্রার্থনা করে, তাকে তার নিজের উপর ছেড়ে দেয়া হয়। আর যে ব্যক্তি বিচারক পদের জন্য লালায়িত হন এবং তা পাওয়ার জন্য কারো সাহায্য প্রার্থনা করে না, তাহলে আল্লাহ তাকে সঠিক সিদ্ধান্তে পৌঁছার ব্যাপারে একজন ফিরিশতা পাঠিয়ে সাহায্য করেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3578</td></tr><tr><td>Arabic No</td><td>3578</td></tr><tr><td>Reference</td><td>Book 25 Hadith 8</td></tr></tbody></table></div>
 

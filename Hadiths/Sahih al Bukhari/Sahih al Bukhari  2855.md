@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল (রাঃ) হতে বর্ণিত। তিনি বলেন, আমাদের বাগানে নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর একটি ঘোড়া থাকত, যাকে লুহাইফ বলা হত। আর কেউ কেউ বলেছেন ‘‘লুখাইফ’’। (আধুনিক প্রকাশনীঃ ২৬৪৫, ইসলামিক ফাউন্ডেশনঃ ২৬৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল (রাঃ) হতে বর্ণিত। তিনি বলেন, আমাদের বাগানে নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর একটি ঘোড়া থাকত, যাকে লুহাইফ বলা হত। আর কেউ কেউ বলেছেন ‘‘লুখাইফ’’। (আধুনিক প্রকাশনীঃ ২৬৪৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>2855</td></tr><tr><td>Reference</td><td>Book 56 Hadith 71</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Ali bin 'Abdullah bin Ja'far] telah bercerita kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் அஸ்ஸாஇதீ (ரலி) அவர்கள் கூறியதாவது: எங்கள் தோட்டத்தில் நபி (ஸல்) அவர்களுக்கு (சொந்தமான) யிலுஹைஃப்’ எனப்படும் குதிரையொன்று இருந்தது. அபூஅப்தில்லாஹ் (புகாரீ) கூறுகிறேன்: அவர்களில் சிலர் அதன் பெயர் யிலுஃகைஃப்’ என்று கூறுகிறார்கள். அத்தியாயம் : 56
+சஹ்ல் பின் சஅத் அஸ்ஸாஇதீ (ரலி) அவர்கள் கூறியதாவது: எங்கள் தோட்டத்தில் நபி (ஸல்) அவர்களுக்கு (சொந்தமான) யிலுஹைஃப்’ எனப்படும் குதிரையொன்று இருந்தது. அபூஅப்தில்லாஹ் (புகாரீ) கூறுகிறேன்: அவர்களில் சிலர் அதன் பெயர் யிலுஃகைஃப்’ என்று கூறுகிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>2855</td></tr><tr><td>Reference</td><td>Book 56 Hadith 71</td></tr></tbody></table></div>
 

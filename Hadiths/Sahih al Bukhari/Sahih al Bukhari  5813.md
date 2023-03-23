@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘হিবারা’ (ইয়ামনী চাদর) পরতে অধিক পছন্দ করতেন। [৫৮১২; মুসলিম ৩৭/৫, হাঃ ২০৭৯, আহমাদ ১৪১১০] (আধুনিক প্রকাশনী- ৫৩৮৮, ইসলামিক ফাউন্ডেশন- ৫২৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘হিবারা’ (ইয়ামনী চাদর) পরতে অধিক পছন্দ করতেন। [৫৮১২; মুসলিম ৩৭/৫, হাঃ ২০৭৯, আহমাদ ১৪১১০] (আধুনিক প্রকাশনী- ৫৩৮৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5813</td></tr><tr><td>Arabic No</td><td>5813</td></tr><tr><td>Reference</td><td>Book 77 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Abdullah bin Abu Al Aswad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அணிவதற்கு (பருத்தியாலான) யமன் நாட்டுச் சால்வையே நபி (ஸல்) அவர்களுக்கு மிகவும் பிரியமான ஆடையாக இருந்தது. அத்தியாயம் : 77
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அணிவதற்கு (பருத்தியாலான) யமன் நாட்டுச் சால்வையே நபி (ஸல்) அவர்களுக்கு மிகவும் பிரியமான ஆடையாக இருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5813</td></tr><tr><td>Arabic No</td><td>5813</td></tr><tr><td>Reference</td><td>Book 77 Hadith 31</td></tr></tbody></table></div>
 

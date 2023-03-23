@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহ.) হতে বর্ণিত। তিনি বলেন, প্রচন্ড এক শীতের রাতে ইবনু ‘উমার (রাযি.) যাজনান নামক স্থানে আযান দিলেন। অতঃপর তিনি ঘোষণা করলেনঃ তোমরা আবাস স্থলেই সালাত আদায় করে নাও। পরে তিনি আমাদের জানালেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরের অবস্থায় বৃষ্টি অথবা তীব্র শীতের রাতে মুয়ায্যিনকে আযান দিতে বললেন এবং সাথে সাথে এ কথাও ঘোষণা করতে বললেন যে, তোমরা নিজ বাসস্থলে সালাত আদায় কর। (৬৬৬; মুসলিম ৬/৩, হাঃ ৬৯৭, আহমাদ ৪৫৮০) (আধুনিক প্রকাশনীঃ ৫৯৬, ইসলামিক ফাউন্ডেশনঃ ৬০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহ.) হতে বর্ণিত। তিনি বলেন, প্রচন্ড এক শীতের রাতে ইবনু ‘উমার (রাযি.) যাজনান নামক স্থানে আযান দিলেন। অতঃপর তিনি ঘোষণা করলেনঃ তোমরা আবাস স্থলেই সালাত আদায় করে নাও। পরে তিনি আমাদের জানালেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরের অবস্থায় বৃষ্টি অথবা তীব্র শীতের রাতে মুয়ায্যিনকে আযান দিতে বললেন এবং সাথে সাথে এ কথাও ঘোষণা করতে বললেন যে, তোমরা নিজ বাসস্থলে সালাত আদায় কর। (৬৬৬; মুসলিম ৬/৩, হাঃ ৬৯৭, আহমাদ ৪৫৮০) (আধুনিক প্রকাশনীঃ ৫৯৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>632</td></tr><tr><td>Reference</td><td>Book 10 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah mengabarkan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள் (மக்காவை அடுத்துள்ள) ‘ளஜ்னான்’ எனும் இடத்தில் குளிரான ஓர் இரவில் பாங்கு சொன்னார்கள். பிறகு “உங்கள் இருப் பிடங்களிலேயே தொழுதுகொள்ளுங்கள்” (‘ஸல்லூ ஃபீ ரிஹா-க்கும்’) என்று அறிவித்தார்கள். மேலும், பயணத்தின்போது குளிரான அல்லது மழை பொழியும் இரவில் தொழுகை அறிவிப்பாளர் பாங்கு சொல்லும்போது பாங்கின் இறுதியில், “உங்கள் இருப்பிடங்களிலேயே தொழுதுகொள்ளுங்கள்” (அலா! ஸல்லூ ஃபீ ரிஹா-க்கும்) என்று அறிவிக்குமாறு தொழுகை அறிவிப்பாளரை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பணிப்பார்கள்” எனவும் இப்னு உமர் (ரலி) அவர்கள் எங்களிடம் தெரிவித்தார்கள். அத்தியாயம் : 10
+நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள் (மக்காவை அடுத்துள்ள) ‘ளஜ்னான்’ எனும் இடத்தில் குளிரான ஓர் இரவில் பாங்கு சொன்னார்கள். பிறகு “உங்கள் இருப் பிடங்களிலேயே தொழுதுகொள்ளுங்கள்” (‘ஸல்லூ ஃபீ ரிஹா-க்கும்’) என்று அறிவித்தார்கள். மேலும், பயணத்தின்போது குளிரான அல்லது மழை பொழியும் இரவில் தொழுகை அறிவிப்பாளர் பாங்கு சொல்லும்போது பாங்கின் இறுதியில், “உங்கள் இருப்பிடங்களிலேயே தொழுதுகொள்ளுங்கள்” (அலா! ஸல்லூ ஃபீ ரிஹா-க்கும்) என்று அறிவிக்குமாறு தொழுகை அறிவிப்பாளரை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பணிப்பார்கள்” எனவும் இப்னு உமர் (ரலி) அவர்கள் எங்களிடம் தெரிவித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>632</td></tr><tr><td>Reference</td><td>Book 10 Hadith 29</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah mengabarkan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nâfi"den şöyle nakledilmiştir: "İbn Ömer Dacnan'da soğuk bir gecede ezan okudu. Sonra 'Bulunduğunuz yerde namaz kılın' diye seslendi. Sonra Nebi Sallallahu Aleyhi ve Sellem'in müezzine ezan okumasını ve peşi sıra şöyle demesini emrettiğini bildirdi: Seferde iken, soğuk ve yağışlı gecelerde, bulunduğunuz yerde namaz kılın. Tekrar: 666
+Nâfi"den şöyle nakledilmiştir: "İbn Ömer Dacnan'da soğuk bir gecede ezan okudu. Sonra 'Bulunduğunuz yerde namaz kılın' diye seslendi. Sonra Nebi Sallallahu Aleyhi ve Sellem'in müezzine ezan okumasını ve peşi sıra şöyle demesini emrettiğini bildirdi: Seferde iken, soğuk ve yağışlı gecelerde, bulunduğunuz yerde namaz kılın. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>632</td></tr><tr><td>Reference</td><td>Book 10 Hadith 29</td></tr></tbody></table></div>
 

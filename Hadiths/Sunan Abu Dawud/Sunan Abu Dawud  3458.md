@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন হাতিম (রহঃ) ..... ইয়াহইয়া ইবন আয়্যূব (রহঃ) বলেন, আবূ বারযা (রাঃ) যখন কারো সঙ্গে ক্রয়-বিক্রয় করতেন, তখন তিনি তাকে ইখতিয়ার দিয়ে বলতেনঃ তুমিও আমাকে ইখতিয়ার প্রদান কর। এরপর তিনি বলতেনঃ আমি আবূ হুরায়রা (রাঃ)-কে এরূপ বলতে শুনেছি যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্রেতা-বিক্রেতা রাফি হওয়ার আগে পৃথক হওয়া উচিত নয়।
+। ইয়াহইয়াহ ইবনু আইয়ূব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আবূ যুর‘আহ (রহঃ) কারো নিকট কিছু বিক্রি করলে তাকে অবকাশ দিতেন। বর্ণনাকারী বলেন, অতঃপর তিনিও বলতেন, আমাকেও অবকাশ দিবে। তিনি বলতেন, আমি আবূ হুরাইরাহ (রাঃ)-কে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্রেতা ও বিক্রেতা উভয়ে যেন পরস্পরের সম্মতি ছাড়া একে অপরের কাছ থেকে বিচ্ছিন্ন না হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3458</td></tr><tr><td>Arabic No</td><td>3458</td></tr><tr><td>Reference</td><td>Book 24 Hadith 43</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেছেন, আমরা ফড়িংয়ের একটি দল দেখতে পাই। ইহরামধারী এক ব্যক্তি তার চাবুক দিয়ে সেগুলো মারতে থাকে। জনৈক ব্যক্তি তাকে বলে, এটা ভাল কাজ নয়। অতঃপর এ সম্পর্কে নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট জানতে চাওয়া হলে তিনি বলেন, এটা তো সামুদ্রিক শিকারের অর্ন্তভূক্ত।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমরা ফড়িংয়ের একটি বিরাট দলের মধ্যে পৌঁছলে জনৈক মুহরিম ব্যক্তি তার চাবুক দিয়ে সেগুলোকে মারতে লাগলো। কেউ বললো, মুহরিমের জন্য এরূপ করা উচিত নয়। অতঃপর তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তা অবহিত করালে তিনি বলেনঃ এটা হচ্ছে সামুদ্রিক শিকার।[1] খুবই দুর্বলঃ ইরওয়া (১০৩১)। (বর্ণনাকারী বলেন), আমি ইমাম আবূ দাঊদকে বলতে শুনেছি, আবুল মুহাযযিম হাদীস বর্ণনায় দুর্বল। তার বর্ণিত হাদীসদ্বয় সন্দেহযুক্ত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1854</td></tr><tr><td>Arabic No</td><td>1854</td></tr><tr><td>Reference</td><td>Book 11 Hadith 134</td></tr></tbody></table></div>
 

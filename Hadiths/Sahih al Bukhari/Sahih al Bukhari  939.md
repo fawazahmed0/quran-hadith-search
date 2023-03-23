@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাযি.) হতে এ হাদীস বর্ণিত, তিনি আরো বলেছেন, জুমু‘আহ (সালাতের) পরই আমরা কায়লূলাহ (দুপুরের শয়ন ও হাল্কা নিদ্রা) এবং দুপুরের আহার্য গ্রহণ করতাম। (৯৩৮; মুসলিম ৭/৯, হাঃ ৮৫৯) (আধুনিক প্রকাশনীঃ ৮৮৬, ইসলামিক ফাউন্ডেশনঃ ৮৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাযি.) হতে এ হাদীস বর্ণিত, তিনি আরো বলেছেন, জুমু‘আহ (সালাতের) পরই আমরা কায়লূলাহ (দুপুরের শয়ন ও হাল্কা নিদ্রা) এবং দুপুরের আহার্য গ্রহণ করতাম। (৯৩৮; মুসলিম ৭/৯, হাঃ ৮৫৯) (আধুনিক প্রকাশনীঃ ৮৮৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 11 Hadith 63</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] berkata, telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: ஜுமுஆ தொழுகைக்குப் பிறகுதான் நாங்கள் காலை உணவு அருந்துவோம்; மதிய ஓய்வு மேற்கொள்வோம். அத்தியாயம் : 11
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: ஜுமுஆ தொழுகைக்குப் பிறகுதான் நாங்கள் காலை உணவு அருந்துவோம்; மதிய ஓய்வு மேற்கொள்வோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 11 Hadith 63</td></tr></tbody></table></div>
 

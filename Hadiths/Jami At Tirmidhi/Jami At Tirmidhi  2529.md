@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫২৯। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতের একশত স্তর (ধাপ) রয়েছে। প্রত্যেক দু স্তরের মাঝখানে রয়েছে একশত বছরের ব্যবধান। সহীহঃ সহীহাহ (৯২২), মিশকাত (৫৬৩২)। আবূ ঈসা বলেন, এই হাদীসটি হাসান গারীব।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতের একশত স্তর (ধাপ) রয়েছে। প্রত্যেক দু স্তরের মাঝখানে রয়েছে একশত বছরের ব্যবধান। সহীহঃ সহীহাহ (৯২২), মিশকাত (৫৬৩২)। আবূ ঈসা বলেন, এই হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2529</td></tr><tr><td>Arabic No</td><td>2529</td></tr><tr><td>Reference</td><td>Book 38 Hadith 7</td></tr></tbody></table></div>
 

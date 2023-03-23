@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইব্‌ন সাঈদ (রহঃ) ...... ইব্‌নুল ফিরাসী (রাঃ) হতে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লামকে বলেন, ইয়া রাসূলাল্লাহ্‌! আমি কি (লোকের নিকট) সাওয়াল করব? নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম বলেনঃ না। আর একান্তই যদি তোমাকে কিছু প্রার্থনা করতে হয় তবে অবশ্যই উত্তম লোকদের নিকট চাইবে। (নাসাঈ)।
+। ইবনুল ফিরাসী (রাঃ) সূত্রে বর্ণিত। একদা তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললেন, হে আল্লাহর রসূল! আমি কি লোকদের কাছে কিছু চাইতে পারি? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ না। যদি তোমাকে চাইতেই হয় তাহলে নেককার লোকদের কাছে চাও।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1646</td></tr><tr><td>Arabic No</td><td>1646</td></tr><tr><td>Reference</td><td>Book 9 Hadith 91</td></tr></tbody></table></div>
 

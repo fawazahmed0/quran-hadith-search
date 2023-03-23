@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... আবদুল্লাহ্‌ ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পায়খানা থেকে ফিরে আসার পর তাঁর সামনে খাবার পেশ করা হয়। তাঁরা (সাহাবীরা) জিজ্ঞাসা করেনঃ আমরা কি আপনার জন্য উযূর পানি আনব না? তখন তিনি বলেনঃ আমাকে তো সালাত আদায়ের সময় উযূ করার জন্য নির্দেশ দেওয়া হয়েছে।
+। আব্দুল্লাহ ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম টয়লেট থেকে বেরিয়ে এলে তাঁর সামনে খাবার উপস্থিত করা হলো। সাহাবীগণ বললেন, আপনার জন্য উযুর পানি নিয়ে আনবো কি? তিনি বললেনঃ আমাকে তো সালাতের জন্য উযু করার আদেশ দেয়া হয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3760</td></tr><tr><td>Arabic No</td><td>3760</td></tr><tr><td>Reference</td><td>Book 28 Hadith 25</td></tr></tbody></table></div>
 

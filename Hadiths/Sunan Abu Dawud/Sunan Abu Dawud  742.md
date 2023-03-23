@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-কানবী ..... নাফে (রহঃ) হতে বর্ণিত। তিনি বলেন, আবদুল্লাহ্ ইবনু উমার (রাঃ) নামায আরম্ভের প্রাক্কালে স্বীয় হস্তদ্বয় কাঁধ পর্যন্ত উত্তোলন করলেন। তিনি রুকূ হতে মাথা উঠাবার সময় হস্তদ্বয়কে একটু কম উপরে উঠাতেন। ইমাম আবূ দাউদ (রহঃ) বলেন, আমার জানামতে রাবী মালিক ব্যতীত আর কেউ হস্ত কম উত্তোলনের কথা উল্লেখ করেননি।
+। নাফি' (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আব্দুল্লাহ ইবনু ‘উমার (রাঃ) সালাত আরম্ভের সময় নিজের দু’ হাত কাঁধ পর্যন্ত উঠাতেন এবং রুকূ হতে মাথা উঠাবার সময় দু’ হাত একটু কম উপরে উঠাতেন।[1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, আমার জানা মতে বর্ণনাকারী মালিক ছাড়া কেউ হাত কম উঠানোর কথা উল্লে­খ করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>742</td></tr><tr><td>Arabic No</td><td>742</td></tr><tr><td>Reference</td><td>Book 2 Hadith 352</td></tr></tbody></table></div>
 

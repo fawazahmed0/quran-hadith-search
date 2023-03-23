@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সাঈদ (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরূপ বর্ণনা করতে শোনেন যে, শহরবাসীদের উপর গ্রামবাসীদের সাক্ষ্য দেওয়া বৈধ নয়।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ শহরে বসবাসকারী লোকের জন্য জঙ্গলে, গ্রামে বা মরুভূমিতে বসবাসকারী লোকের সাক্ষ্য গ্রহণযোগ্য নয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3602</td></tr><tr><td>Arabic No</td><td>3602</td></tr><tr><td>Reference</td><td>Book 25 Hadith 32</td></tr></tbody></table></div>
 

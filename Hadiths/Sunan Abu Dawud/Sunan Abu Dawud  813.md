@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল ..... হিশাম ইবনু উরওয়া হতে বর্ণিত। তিনি বলেন, আমার পিতা মাগরিবের নামাযে তোমাদের মত সূরা আল-আদিয়াত এবং এর সম পরিমাণের দীর্ঘ সূরা পাঠ করতেন। ইমাম আবূ দাউদ (রহঃ) বলেন, এই হাদীছ দ্বারা প্রতীয়মান হয় যে, মাগরিবের নামাযে দীর্ঘ সূরা পাঠ রহিত (মানসূখ) হয়েছে। ইমাম আবূ দাউদ (রহঃ) আরও বলেন, এই অভিমতই বিশুদ্ধ বা সহীহ।
+। হিশাম ইবনু ‘উরওয়াহ সূত্রে বর্ণিত। তিনি বলেন, আমার পিতা মাগরিবের সালাতে তোমাদের মতই সূরাহ আল ‘আদিয়াত ও অনুরূপ দীর্ঘ সূরাহ পড়তেন। ইমাম আবূ দাউদ (রহঃ) বলেন, এ হাদীস প্রমাণ করে, মাগরিব সালাতে দীর্ঘ সূরাহ পাঠ রহিত হয়ে গেছে। আর এটাই সহীহ।[1] সহীহ মাক্বতূ'।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 2 Hadith 423</td></tr></tbody></table></div>
 

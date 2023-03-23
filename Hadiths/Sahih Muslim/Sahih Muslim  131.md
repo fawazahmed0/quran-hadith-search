@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+–(৩৮/...) আবূ বাকর ইবনু আবূ শাইবাহ ও যুহায়র ইবনু হারব (রহঃ) ..... আবূ মালিক (রহঃ) এর সূত্রে তার পিতা তারিক (রাযিঃ) থেকে বর্ণনা করেন যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে বলতে শুনেছেন, যে ব্যক্তি আল্লাহ তা'আলাকে এক বলে স্বীকার করে ..... অতঃপর তিনি উল্লিখিত হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৩৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>131</td></tr><tr><td>Arabic No</td><td>23.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 38</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Abu Malik narrated on the authority of his father that he heard the Apostle (ﷺ
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் தாரிக் பின் அஷ்யம் (ரலி) அவர்களிடமிருந்தே வேறு இரு அறிவிப்பாளர் தொடர்கள் வழியாகவும் வந்துள்ளது. அதில் "யார் ஓரிறைக் கொள்கையை ஏற்று..." என்று ஹதீஸ் ஆரம்பிக்கிறது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் தாரிக் பின் அஷ்யம் (ரலி) அவர்களிடமிருந்தே வேறு இரு அறிவிப்பாளர் தொடர்கள் வழியாகவும் வந்துள்ளது. அதில் "யார் ஓரிறைக் கொள்கையை ஏற்று..." என்று ஹதீஸ் ஆரம்பிக்கிறது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>131</td></tr><tr><td>Arabic No</td><td>23.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 38</td></tr></tbody></table></div>
 

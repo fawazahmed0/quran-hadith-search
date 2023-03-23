@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২০৮, আন্তর্জাতিক নাম্বারঃ ২৯১৩ ৭২০৮-(.../...) ইবনুল মুসান্না (রহঃ) ..... জুরাইরী (রহঃ) হতে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭০৫২, ইসলামিক সেন্টার ৭১০৭[ক)
+ইবনুল মুসান্না (রহঃ) ..... জুরাইরী (রহঃ) হতে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭০৫২, ইসলামিক সেন্টার ৭১০৭[ক)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7316</td></tr><tr><td>Arabic No</td><td>2913.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 82</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাফ্‌স (রহঃ) .... ইয়ায ইবন হিমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্‌ তা'আলা আমার উপর ওয়াহী করেছেন যে, তোমরা পরস্পর বিনয় প্রদর্শন করবে। যাতে কেউ কারো উপর বাড়াবাড়ি ও গৌরব প্রকাশ না করে।
+। ইয়ায ইবনু হিমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহান আল্লাহ আমার নিকট (এ মর্মে) ওয়াহী পাঠিয়েছেন যে, তোমরা বিনয়ী হও, যতক্ষণ না একে অপরের উপর যুলম করে এবং অহংকার করে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4895</td></tr><tr><td>Arabic No</td><td>4895</td></tr><tr><td>Reference</td><td>Book 43 Hadith 123</td></tr></tbody></table></div>
 

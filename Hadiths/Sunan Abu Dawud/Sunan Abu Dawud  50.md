@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু ঈসা .... আয়োশা (রাঃ) হতে বর্ণিত। তিনি বলেছেন, একদা রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম মেস্ওয়াক করছিলেন। এ সময় তাঁর নিকট এমন-দুইজন লোক ছিল যাদের একজন অন্যজন হতে (বয়সে বা সম্মানে) বড় ছিল। এসময় তাঁর নিকট মেস্ওয়াকের ফযীলত সম্পর্কে আল্লাহ্ ওহী নাযিল করেন, বড় জনকে মেস্ওয়াক প্রদান করুন।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিসওয়াক করছিলেন। তখন তাঁর নিকট এমন দু’ ব্যক্তি ছিল যাদের একজন অপরজনের অপেক্ষা বয়োজ্যেষ্ঠ। এমন সময় তাঁর নিকট মিসওয়াক করার ফাযীলাত সম্পর্কে ওয়াহী নাযিল হলোঃ দু’জনের মধ্যে যে বড় তাকে মিসওয়াক দিন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Arabic No</td><td>50</td></tr><tr><td>Reference</td><td>Book 1 Hadith 50</td></tr></tbody></table></div>
 

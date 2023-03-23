@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রোগের সংক্রমণ ও শুভ-অশুভ বলতে কিছু নেই। শুভ আলামতই আমার নিকট পছন্দনীয়, আর তা হল উত্তম বাক্য। [৫৭৭৬] (আধুনিক প্রকাশনী- ৫৩৩৬, ইসলামিক ফাউন্ডেশন- ৫২৩২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রোগের সংক্রমণ ও শুভ-অশুভ বলতে কিছু নেই। শুভ আলামতই আমার নিকট পছন্দনীয়, আর তা হল উত্তম বাক্য। [৫৭৭৬] (আধুনিক প্রকাশনী- ৫৩৩৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5756</td></tr><tr><td>Arabic No</td><td>5756</td></tr><tr><td>Reference</td><td>Book 76 Hadith 71</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: தொற்றுநோய் கிடையாது. பறவை சகுனம் ஏதும் கிடையாது. நற்குறி எனக்கு மகிழ்ச்சியுண்டாக்கும். நல்ல (மங்கலமான) சொல்தான் அது. இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 76
+நபி (ஸல்) அவர்கள் கூறினார்கள்: தொற்றுநோய் கிடையாது. பறவை சகுனம் ஏதும் கிடையாது. நற்குறி எனக்கு மகிழ்ச்சியுண்டாக்கும். நல்ல (மங்கலமான) சொல்தான் அது. இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5756</td></tr><tr><td>Arabic No</td><td>5756</td></tr><tr><td>Reference</td><td>Book 76 Hadith 71</td></tr></tbody></table></div>
 

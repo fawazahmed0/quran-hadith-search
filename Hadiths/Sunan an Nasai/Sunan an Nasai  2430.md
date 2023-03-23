@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন আব্দুল আ'লা (রহঃ) ... আব্দুল মালিক (রহঃ)-এর পিতা থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আইয়ামে বীযের এই তিন দিন সওম পালন করার নির্দেশ দিতেন এবং বলতেন যে, এই তিন দিনের সাওম সারা মাসের সাওম পালন করার সমতুল্য।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2430</td></tr><tr><td>Arabic No</td><td>2430</td></tr><tr><td>Reference</td><td>Book 22 Hadith 341</td></tr></tbody></table></div>
 

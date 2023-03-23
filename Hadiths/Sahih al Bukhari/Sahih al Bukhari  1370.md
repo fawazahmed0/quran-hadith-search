@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (বদরে নিহত) গর্তবাসীদের দিকে ঝুঁকে দেখে বললেনঃ ‘‘তোমাদের সাথে তোমাদের রব যে ওয়াদা করেছিলেন, তা তোমরা বাস্তবে পেয়েছো তো?’’- (আল-আ‘রাফ (৭) : ৪৪)। তখন তাঁকে বলা হল, আপনি মৃতদের ডেকে কথা বলছেন? (ওরা কি শুনতে পায়?) তিনি বললেনঃ ‘‘তোমরা তাদের চেয়ে অধিক শুনতে পাও না, তবে তারা জবাব দিতে পারছে না’’। [1] (৩৯৮০, ৪০২৬) (আধুনিক প্রকাশনীঃ ১২৭৯, ইসলামিক ফাউন্ডেশনঃ ১২৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (বদরে নিহত) গর্তবাসীদের দিকে ঝুঁকে দেখে বললেনঃ ‘‘তোমাদের সাথে তোমাদের রব যে ওয়াদা করেছিলেন, তা তোমরা বাস্তবে পেয়েছো তো?’’- (আল-আ‘রাফ (৭) : ৪৪)। তখন তাঁকে বলা হল, আপনি মৃতদের ডেকে কথা বলছেন? (ওরা কি শুনতে পায়?) তিনি বললেনঃ ‘‘তোমরা তাদের চেয়ে অধিক শুনতে পাও না, তবে তারা জবাব দিতে পারছে না’’। [1] (৩৯৮০, ৪০২৬) (আধুনিক প্রকাশনীঃ ১২৭৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1370</td></tr><tr><td>Arabic No</td><td>1370</td></tr><tr><td>Reference</td><td>Book 23 Hadith 122</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (பத்ர் போரில் கொல்லப்பட்ட எதிரி களின் உடல்கள் ஒரு பாழுங்கிணற்றில் போடப்பட்டிருந்தன. அந்தக்) கிணற்றில் கிடந்தவர்களைப் பார்த்த நபி (ஸல்) அவர்கள், “உங்கள் இறைவன் உண்மை யாகவே வாக்களித்தவற்றை நீங்கள் அடைந்துகொண்டீர்களா?” எனக் கேட்டார்கள். “இறந்துவிட்டவர்களை அழைக்கின் றீர்களே?” என அவர்களிடம் கேட்கப் பட்டது. அதற்கு “அவர்களைவிட நீங்கள் அதிகம் செவியுறுபவர்களல்லர்; ஆயினும், அவர்கள் பதிலளிக்கமாட் டார்கள்” என நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 23
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (பத்ர் போரில் கொல்லப்பட்ட எதிரி களின் உடல்கள் ஒரு பாழுங்கிணற்றில் போடப்பட்டிருந்தன. அந்தக்) கிணற்றில் கிடந்தவர்களைப் பார்த்த நபி (ஸல்) அவர்கள், “உங்கள் இறைவன் உண்மை யாகவே வாக்களித்தவற்றை நீங்கள் அடைந்துகொண்டீர்களா?” எனக் கேட்டார்கள். “இறந்துவிட்டவர்களை அழைக்கின் றீர்களே?” என அவர்களிடம் கேட்கப் பட்டது. அதற்கு “அவர்களைவிட நீங்கள் அதிகம் செவியுறுபவர்களல்லர்; ஆயினும், அவர்கள் பதிலளிக்கமாட் டார்கள்” என நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1370</td></tr><tr><td>Arabic No</td><td>1370</td></tr><tr><td>Reference</td><td>Book 23 Hadith 122</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem Bedir'de çukura atılan müşriklerin cesetlerine bakarak şöyle buyurdu; "Rabbiniz'in size vaad ettiğini hak olarak buldunuz değil mi?" Nebi Sallallahu Aleyhi ve Sellem'e: "Ölülere mî hitap ediyorsun?" diye soruldu. O, Sallallahu Aleyhi ve Sellem: "Onlar şu anda beni sizlerden daha iyi işitiyorlar. Ancak cevap veremiyorlar. buyurdu. Tekrar: 3980, 4026
+İbn Ömer r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem Bedir'de çukura atılan müşriklerin cesetlerine bakarak şöyle buyurdu; "Rabbiniz'in size vaad ettiğini hak olarak buldunuz değil mi?" Nebi Sallallahu Aleyhi ve Sellem'e: "Ölülere mî hitap ediyorsun?" diye soruldu. O, Sallallahu Aleyhi ve Sellem: "Onlar şu anda beni sizlerden daha iyi işitiyorlar. Ancak cevap veremiyorlar. buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1370</td></tr><tr><td>Arabic No</td><td>1370</td></tr><tr><td>Reference</td><td>Book 23 Hadith 122</td></tr></tbody></table></div>
 

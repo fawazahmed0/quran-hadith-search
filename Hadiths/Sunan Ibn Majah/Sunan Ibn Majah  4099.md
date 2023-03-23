@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৪০৯৯। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামত সংঘটিত হবে না, যাবত না তোমরা ক্ষুদ্র চোখ ও চ্যাপ্টা মুখাবয়ব বিশিষ্ট এমন এক জাতির বিরুদ্ধে যুদ্ধ করবে, যাদের চোখ হবে ফড়িং-এর চোখের মত। তাদের চেহারাগুলো হবে রক্তিমাভ। তারা পশমী জুতা পরিধান করবে এবং আত্মরক্ষার্থে চামড়ার ঢাল ব্যবহার করবে। তারা তাদের ঘোড়াগুলো খেজুর গাছের সাথে বেঁধে রাখবে।
+। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামত সংঘটিত হবে না, যাবত না তোমরা ক্ষুদ্র চোখ ও চ্যাপ্টা মুখাবয়ব বিশিষ্ট এমন এক জাতির বিরুদ্ধে যুদ্ধ করবে, যাদের চোখ হবে ফড়িং-এর চোখের মত। তাদের চেহারাগুলো হবে রক্তিমাভ। তারা পশমী জুতা পরিধান করবে এবং আত্মরক্ষার্থে চামড়ার ঢাল ব্যবহার করবে। তারা তাদের ঘোড়াগুলো খেজুর গাছের সাথে বেঁধে রাখবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4099</td></tr><tr><td>Arabic No</td><td>4099</td></tr><tr><td>Reference</td><td>Book 36 Hadith 175</td></tr></tbody></table></div>
 

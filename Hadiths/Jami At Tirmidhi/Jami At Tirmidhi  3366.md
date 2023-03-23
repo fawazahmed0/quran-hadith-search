@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৩৬৬। আয়িশাহ (রাযিঃ) হতে বর্ণিত আছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চাঁদের দিকে তাকিয়ে বললেনঃ হে ‘আয়িশাহ আল্লাহ তা'আলার নিকট এর ক্ষতি হতে আশ্রয় প্রার্থনা কর। কেননা এটাই হল গাসিক (অন্ধকার) যখন তা গাঢ় হয়। হাসান সহীহঃ সহীহ হাদীস সিরিজ (হাঃ ৩৭২), মিশকাত (হাঃ ২৪৭৫)। আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
+। আয়িশাহ (রাযিঃ) হতে বর্ণিত আছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চাঁদের দিকে তাকিয়ে বললেনঃ হে ‘আয়িশাহ আল্লাহ তা'আলার নিকট এর ক্ষতি হতে আশ্রয় প্রার্থনা কর। কেননা এটাই হল গাসিক (অন্ধকার) যখন তা গাঢ় হয়। হাসান সহীহঃ সহীহ হাদীস সিরিজ (হাঃ ৩৭২), মিশকাত (হাঃ ২৪৭৫)। আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>3366</td></tr><tr><td>Reference</td><td>Book 47 Hadith 418</td></tr></tbody></table></div>
 

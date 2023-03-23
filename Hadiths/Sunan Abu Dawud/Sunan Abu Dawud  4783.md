@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ওয়াহাব ইবন বাকীরা (রহঃ) .... বাকর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ যার (রাঃ)-কে উক্ত হাদীছসহ প্রেরণ করেন। ইমাম আবূ দাউদ (রহঃ) বলেনঃ দু'টি হাদীছের মধ্যে এটি অধিক সহীহ।
+। বকর (রহঃ) সূত্রে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ যার (রাঃ)-কে পাঠালেন ... অতঃপর উপরোক্ত হাদীস। ইমাম আবূ দাঊদ (রহঃ) বলেন, দু’টি হাদীসের মধ্যে এটি অধিক সহীহ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 43 Hadith 11</td></tr></tbody></table></div>
 

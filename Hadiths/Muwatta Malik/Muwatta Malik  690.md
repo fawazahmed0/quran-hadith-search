@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১. নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিণী আয়েশা (রাঃ) হইতে বর্ণিত-তিনি বলিয়াছেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লা ইতিকাফে থাকা অবস্থায় তাহার শির আমার দিকে ঝুঁকাইয়া দিতেন, আমি তাহার চুল চিরুনি দিয়া আঁচড়াইয়া দিতাম। আর তিনি হাজতে-ইনসানী (পায়খানা-প্রস্রাবের আবশ্যক) ব্যতীত গৃহে প্রবেশ করিতেন না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>690</td></tr><tr><td>Reference</td><td>Book 19 Hadith 1</td></tr></tbody></table></div>
 

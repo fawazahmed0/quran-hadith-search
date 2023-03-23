@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন আলী (রহঃ) .... আনাস (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণনা করেছেন। তিনি বলেনঃ তাদের পরিচয় হলো তারা হবে মস্তকমুণ্ডনকারী এবং চুল পরিষ্কারকারী। আর তোমরা যখন তাদের দেখবে, তখন অবশ্যই তাদের কতল করবে।
+। আনাস (রাঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। তিনি বলেন, তাদের আলামত হচ্ছে, তারা মাথা মুড়ানো ও টাকপড়া হবে। অতঃপর তোমরা তাদেরকে দেখলে হত্যা করবে। ইমাম আবূ দাঊদ (রহঃ) বলেন, আত-তাসবীদ অর্থ হলো চুল উপড়ে ফেলা।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4766</td></tr><tr><td>Arabic No</td><td>4766</td></tr><tr><td>Reference</td><td>Book 42 Hadith 171</td></tr></tbody></table></div>
 

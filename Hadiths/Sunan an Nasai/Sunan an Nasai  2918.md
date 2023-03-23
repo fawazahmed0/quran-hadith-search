@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন আলী (রহঃ) ... মুহাম্মদ ইবন আবদুল্লাহ্ ইবন সায়িব (রহঃ) তাঁর পিতার সূত্রে বর্ণনা করেন যে, তিনি ইবন আব্বাস (রাঃ)-কে নিয়ে হাজরে আসওয়াদের সাথে মিলিত স্তম্ভের পাশের তৃতীয় অংশে, যে স্থানটি দরজার নিকটবর্তী সেখানে দাঁড় করালেন। তখন ইবন আব্বাস (রাঃ) বললেনঃ আপনি কি সংবাদ পাননি যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই স্থানে সালাত আদায় করেছেন? তিনি বললেনঃ হ্যাঁ। তারপর তিনি এগিয়ে গিয়ে সেখানে সালাত আদায় করলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2918</td></tr><tr><td>Arabic No</td><td>2918</td></tr><tr><td>Reference</td><td>Book 24 Hadith 301</td></tr></tbody></table></div>
 

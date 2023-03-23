@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, এক সফরে আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলাম। আমরা যখন মদিনা্য় উপস্থিত হলাম, তখন তিনি আমাকে বললেন, ‘মসজিদে প্রবেশ কর এবং দু’ রাক‘আত সালাত আদায় কর।’ (৪৪৩) (আধুনিক প্রকাশনীঃ ২৮৫৫, ইসলামিক ফাউন্ডেশনঃ ২৮৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, এক সফরে আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলাম। আমরা যখন মদিনা্য় উপস্থিত হলাম, তখন তিনি আমাকে বললেন, ‘মসজিদে প্রবেশ কর এবং দু’ রাক‘আত সালাত আদায় কর।’ (৪৪৩) (আধুনিক প্রকাশনীঃ ২৮৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3087</td></tr><tr><td>Arabic No</td><td>3087</td></tr><tr><td>Reference</td><td>Book 56 Hadith 291</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுடன் ஒரு பயணத்தில் இருந்தேன். நாங்கள் (பயணம் முடிந்து) மதீனாவிற்குத் திரும்பி வந்தபோது நபி (ஸல்) அவர்கள் என்னிடம், ‘‘பள்ளிவாசலில் நுழைந்து இரண்டு ரக்அத்கள் தொழுவீராக!” என்று கூறினார்கள்.203 அத்தியாயம் : 56
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுடன் ஒரு பயணத்தில் இருந்தேன். நாங்கள் (பயணம் முடிந்து) மதீனாவிற்குத் திரும்பி வந்தபோது நபி (ஸல்) அவர்கள் என்னிடம், ‘‘பள்ளிவாசலில் நுழைந்து இரண்டு ரக்அத்கள் தொழுவீராக!” என்று கூறினார்கள்.203 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3087</td></tr><tr><td>Arabic No</td><td>3087</td></tr><tr><td>Reference</td><td>Book 56 Hadith 291</td></tr></tbody></table></div>
 

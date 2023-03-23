@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালিমের পিতা ‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর বৃষ্টির জন্য দু‘আরত অবস্থায় আমি তাঁর পবিত্র চেহারার দিকে তাকালাম এবং কবির এ কবিতাটি আমার মনে পড়লো। আর তাঁর (মিম্বার হতে) নামতে না নামতেই প্রবলবেগে মীযাব* হতে পানি প্রবাহিত হতে দেখলাম। তিনি শুভ্র, তাঁর চেহারার অসীলাহ দিয়ে বৃষ্টি প্রার্থনা করা হতো। তিনি ইয়াতীমদের খাবার পরিবেশনকারী আর বিধবাদের তত্ত্বাবধায়ক। (আধুনিক প্রকাশনীঃ ৯৪৯ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৯৫৪) আর এটা হলো আবূ তালিবের বাণী (কবিতা)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1008</td></tr><tr><td>Arabic No</td><td>1008</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিমকে গালি দেয়া ফাসিকী এবং তাকে হত্যা করা কুফুরী। শু‘বাহ (রহ.) সূত্রে গুনদারও এ রকম বর্ণনা করেছেন। (আধুনিক প্রকাশনী- ৫৬০৯, ইসলামিক ফাউন্ডেশন- ৫৫০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিমকে গালি দেয়া ফাসিকী এবং তাকে হত্যা করা কুফুরী। শু‘বাহ (রহ.) সূত্রে গুনদারও এ রকম বর্ণনা করেছেন। (আধুনিক প্রকাশনী- ৫৬০৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6044</td></tr><tr><td>Arabic No</td><td>6044</td></tr><tr><td>Reference</td><td>Book 78 Hadith 74</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: ஒரு முஸ்லிமை ஏசுவது பாவமாகும். அவனுடன் போரிடுவது (அல்லது கொலை செய்வது), இறைமறுப்பு (போன்ற பாவச்செயல்) ஆகும்” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது.58 அத்தியாயம் : 78
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: ஒரு முஸ்லிமை ஏசுவது பாவமாகும். அவனுடன் போரிடுவது (அல்லது கொலை செய்வது), இறைமறுப்பு (போன்ற பாவச்செயல்) ஆகும்” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது.58 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6044</td></tr><tr><td>Arabic No</td><td>6044</td></tr><tr><td>Reference</td><td>Book 78 Hadith 74</td></tr></tbody></table></div>
 

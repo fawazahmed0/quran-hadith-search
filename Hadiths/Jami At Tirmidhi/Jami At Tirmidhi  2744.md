@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭৪৪। উমার ইবনু ইসহাক ইবনু আবূ তালহা (রহঃ)-এর নানা বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিনবার পর্যন্ত হাঁচির উত্তর দাও। এরপরও সে যদি হাঁচি দেয় তবে তুমি চাইলে তার উত্তর দিতেও পার নাও দিতে পার। যঈফ, যঈফা (৪৮৩০) আবূ ঈসা বলেন, এ হাদীসটি গারীব এবং এর সনদসূত্র অপরিচিত।
+। উমার ইবনু ইসহাক ইবনু আবূ তালহা (রহঃ)-এর নানা বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিনবার পর্যন্ত হাঁচির উত্তর দাও। এরপরও সে যদি হাঁচি দেয় তবে তুমি চাইলে তার উত্তর দিতেও পার নাও দিতে পার। যঈফ, যঈফা (৪৮৩০) আবূ ঈসা বলেন, এ হাদীসটি গারীব এবং এর সনদসূত্র অপরিচিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2744</td></tr><tr><td>Arabic No</td><td>2744</td></tr><tr><td>Reference</td><td>Book 43 Hadith 14</td></tr></tbody></table></div>
 

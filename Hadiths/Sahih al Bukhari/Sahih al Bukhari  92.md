@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাযি.) হতে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে কয়েকটি অপছন্দনীয় বিষয় সম্পর্কে জিজ্ঞেস করা হল। প্রশ্নের সংখ্যা অধিক হয়ে যাওয়ায় তখন তিনি রেগে গিয়ে লোকদেরকে বললেনঃ ‘তোমরা আমার নিকট যা ইচ্ছা প্রশ্ন কর।’ জনৈক ব্যক্তি বলল, ‘আমার পিতা কে?’ তিনি বললেনঃ ‘তোমার পিতা হুযাফাহ।’ আর এক ব্যক্তি দাঁড়িয়ে বলল, ‘হে আল্লাহর রাসূল! আমার পিতা কে?’ তিনি বললেনঃ ‘তোমার পিতা হল শায়বার দাস সালিম।’ তখন ‘উমার (রাযি.) আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর চেহারার অবস্থা দেখে বললেনঃ ‘হে আল্লাহর রাসূল! আমরা মহিমান্বিত আল্লাহর নিকট তওবা করছি।’ (৭২৯১; মুসলিম ৪৩/৩৭ হাঃ ২৩৬০) (আধুনিক প্রকাশনীঃ ৯২, ইসলামিক ফাউন্ডেশনঃ ৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাযি.) হতে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে কয়েকটি অপছন্দনীয় বিষয় সম্পর্কে জিজ্ঞেস করা হল। প্রশ্নের সংখ্যা অধিক হয়ে যাওয়ায় তখন তিনি রেগে গিয়ে লোকদেরকে বললেনঃ ‘তোমরা আমার নিকট যা ইচ্ছা প্রশ্ন কর।’ জনৈক ব্যক্তি বলল, ‘আমার পিতা কে?’ তিনি বললেনঃ ‘তোমার পিতা হুযাফাহ।’ আর এক ব্যক্তি দাঁড়িয়ে বলল, ‘হে আল্লাহর রাসূল! আমার পিতা কে?’ তিনি বললেনঃ ‘তোমার পিতা হল শায়বার দাস সালিম।’ তখন ‘উমার (রাযি.) আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর চেহারার অবস্থা দেখে বললেনঃ ‘হে আল্লাহর রাসূল! আমরা মহিমান্বিত আল্লাহর নিকট তওবা করছি।’ (৭২৯১; মুসলিম ৪৩/৩৭ হাঃ ২৩৬০) (আধুনিক প্রকাশনীঃ ৯২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 3 Hadith 34</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] berkata, Telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) நபி (ஸல்) அவர்களுக்குப் பிடிக்காத சில விஷயங்கள் பற்றி அவர்களிடம் கேட்கப்பட்டது. இவ்வாறு அவர்களிடம் அதிகமாகக் கேள்விகள் கேட்கப்பட்டபோது அவர்கள் கோபப்பட்டார்கள். பின்னர் மக்களிடம் “நீங்கள் நாடிய எதைப் பற்றி வேண்டுமானாலும் என்னிடம் கேளுங்கள்” என்று கூறினார்கள். அப்போது ஒரு மனிதர், “என் தந்தை யார்?” என்று கேட்டார். நபி (ஸல்) அவர்கள் “ஹுதாஃபாதான் உன் தந்தை” என்று பதிலளித்தார்கள். உடனே மற்றொருவர் எழுந்து “என் தந்தை யார், அல்லாஹ்வின் தூதரே?’ என்று கேட்க, “உம்முடைய தந்தை ஷைபா என்பவரிடம் அடிமையாயிருந்த ‘சாலிம்’ தான்” என்றார்கள். (இம்மாதிரியான கேள்விகளால்) நபி (ஸல்) அவர்களின் முகத்தில் தென்பட்ட (கோபத்)தைக் கண்ட உமர் (ரலி) அவர்கள், “அல்லாஹ்வின் தூதரே! நாங்கள் மெய் யாகவே வல்லமையும் மாண்பும் மிக்க அல்லாஹ்விடம் பாவமன்னிப்புக் கோருகி றோம்” என்றார்கள். அத்தியாயம் : 3
+அபூமூசா (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) நபி (ஸல்) அவர்களுக்குப் பிடிக்காத சில விஷயங்கள் பற்றி அவர்களிடம் கேட்கப்பட்டது. இவ்வாறு அவர்களிடம் அதிகமாகக் கேள்விகள் கேட்கப்பட்டபோது அவர்கள் கோபப்பட்டார்கள். பின்னர் மக்களிடம் “நீங்கள் நாடிய எதைப் பற்றி வேண்டுமானாலும் என்னிடம் கேளுங்கள்” என்று கூறினார்கள். அப்போது ஒரு மனிதர், “என் தந்தை யார்?” என்று கேட்டார். நபி (ஸல்) அவர்கள் “ஹுதாஃபாதான் உன் தந்தை” என்று பதிலளித்தார்கள். உடனே மற்றொருவர் எழுந்து “என் தந்தை யார், அல்லாஹ்வின் தூதரே?’ என்று கேட்க, “உம்முடைய தந்தை ஷைபா என்பவரிடம் அடிமையாயிருந்த ‘சாலிம்’ தான்” என்றார்கள். (இம்மாதிரியான கேள்விகளால்) நபி (ஸல்) அவர்களின் முகத்தில் தென்பட்ட (கோபத்)தைக் கண்ட உமர் (ரலி) அவர்கள், “அல்லாஹ்வின் தூதரே! நாங்கள் மெய் யாகவே வல்லமையும் மாண்பும் மிக்க அல்லாஹ்விடம் பாவமன்னிப்புக் கோருகி றோம்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 3 Hadith 34</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] berkata, Telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Musa şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'e hoşuna gitmeyecek şeyler soruldu. Ona sorulan sorular çoğaldıkça öfkesi arttı ve "Bana istediğinizi sorun" buyurdu. Bunun üzerine bir adam: "Benim babam kimdir?" diye sordu. Nebi (Sallallahu aleyhi ve Sellem) "Baban Huzafe'dir" dedi. Başka bir adam kalkarak "Benim babam kimdir ey Allah'ın Resulü?" diye sordu. Nebi (Sallallahu aleyhi ve Sellem): "Senin baban Şeybe'nin azatlısı Sâlim'dir" buyurdu. Hz. Ömer, Nebi (Sallallahu aleyhi ve Sellem)'in yüzünde kızgınlığın belirtisini görünce şöyle dedi: "Ey Allah'ın Resulü biz Allah'a (c.c.) tevbe ediyoruz. Tekrar: 7291
+Ebû Musa şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'e hoşuna gitmeyecek şeyler soruldu. Ona sorulan sorular çoğaldıkça öfkesi arttı ve "Bana istediğinizi sorun" buyurdu. Bunun üzerine bir adam: "Benim babam kimdir?" diye sordu. Nebi (Sallallahu aleyhi ve Sellem) "Baban Huzafe'dir" dedi. Başka bir adam kalkarak "Benim babam kimdir ey Allah'ın Resulü?" diye sordu. Nebi (Sallallahu aleyhi ve Sellem): "Senin baban Şeybe'nin azatlısı Sâlim'dir" buyurdu. Hz. Ömer, Nebi (Sallallahu aleyhi ve Sellem)'in yüzünde kızgınlığın belirtisini görünce şöyle dedi: "Ey Allah'ın Resulü biz Allah'a (c.c.) tevbe ediyoruz. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 3 Hadith 34</td></tr></tbody></table></div>
 

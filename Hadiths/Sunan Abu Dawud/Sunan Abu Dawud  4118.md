@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম ইবন মূসা (রহঃ) .... উম্মু সালামা (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে উপরোক্ত হাদিছের অনুরূপ বর্ণনা করেছেন। ইমাম আবূ দাউদ (রহঃ) বলেনঃ ইবন ইসহাক এবং আইউব ইবন মূসা (রহঃ) নাফি’ (রহঃ) থেকে, তিনি সাফিয়্যা (রাঃ) থেকে বর্ণনা করেছেন।
+। উম্মু সালামাহ (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে পূর্বোক্ত হাদীস বর্ণিত। ইমাম আবূ দাঊদ (রহঃ) বলেন, অপর সনদে নাফি থেকে সাফিয়্যাহ (রাঃ) সূত্রে বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4118</td></tr><tr><td>Arabic No</td><td>4118</td></tr><tr><td>Reference</td><td>Book 34 Hadith 99</td></tr></tbody></table></div>
 

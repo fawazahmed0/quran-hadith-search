@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৪৭৬। বিলাল ইবনু ইয়াহ্ইয়া (রহঃ) থেকে বর্ণিত। হুযাইফা (রাঃ)-এর উপস্থিতিতে কেউ মারা গেলে তিনি বলতেন, তার (মৃত্যু) সম্পর্কে তোমরা কাউকে খবর দিয়ো না। কেননা আমি তার জন্য বিলাপের আশঙ্কা করছি। আমি আমার এই দু’ কানে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বিলাপ করতে নিষেধ করতে শুনেছি।
+। বিলাল ইবনু ইয়াহ্ইয়া (রহঃ) থেকে বর্ণিত। হুযাইফা (রাঃ)-এর উপস্থিতিতে কেউ মারা গেলে তিনি বলতেন, তার (মৃত্যু) সম্পর্কে তোমরা কাউকে খবর দিয়ো না। কেননা আমি তার জন্য বিলাপের আশঙ্কা করছি। আমি আমার এই দু’ কানে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বিলাপ করতে নিষেধ করতে শুনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1476</td></tr><tr><td>Arabic No</td><td>1476</td></tr><tr><td>Reference</td><td>Book 6 Hadith 44</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Amru bin Rafi'] berkata, telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bilal bin Yahya (r.a)'aen; şöyle demiştir: Huzeyfe (bin el Yeman) (r.a.), bir cenazesi olduğu zaman şöyle derdi: Ölümünü kimseye ilan etmeyiniz. Bunun nai olmasından cidden korkarım. Ben şu iki kulağımla Resulullah (Sallallahu Aleyhi ve Sellem) den işittim. Nai'den nehiy etti." Diğer tahric: Tirmizi, cenaiz 3/304 (986, "hasen sahih") ve Ahmed (8393)
+Bilal bin Yahya (r.a)'aen; şöyle demiştir: Huzeyfe (bin el Yeman) (r.a.), bir cenazesi olduğu zaman şöyle derdi: Ölümünü kimseye ilan etmeyiniz. Bunun nai olmasından cidden korkarım. Ben şu iki kulağımla Resulullah (Sallallahu Aleyhi ve Sellem) den işittim. Nai'den nehiy etti." Diğer tahric: Tirmizi, cenaiz 3/304 (986, "hasen sahih") ve Ahmed
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1476</td></tr><tr><td>Arabic No</td><td>1476</td></tr><tr><td>Reference</td><td>Book 6 Hadith 44</td></tr></tbody></table></div>
 

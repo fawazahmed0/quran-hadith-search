@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্ত্রী সাওদা (রাঃ) হতে বর্ণিত। তিনি বলেন, একবার আমাদের একটি বকরী মরে গেল। আমরা এর চামড়া দাবাগাত (পাকা) করে নিলাম। এরপর থেকে তাতে সর্বদাই আমরা নবীয (খুরমা-খেজুর ভিজানো শরবত) প্রস্তুত করতাম। শেষ পর্যন্ত ওটা পুরাতন হয়ে গেল। (আধুনিক প্রকাশনী- ৬২১৯৯, ইসলামিক ফাউন্ডেশন- ৬২২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্ত্রী সাওদা (রাঃ) হতে বর্ণিত। তিনি বলেন, একবার আমাদের একটি বকরী মরে গেল। আমরা এর চামড়া দাবাগাত (পাকা) করে নিলাম। এরপর থেকে তাতে সর্বদাই আমরা নবীয (খুরমা-খেজুর ভিজানো শরবত) প্রস্তুত করতাম। শেষ পর্যন্ত ওটা পুরাতন হয়ে গেল। (আধুনিক প্রকাশনী- ৬২১৯৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6686</td></tr><tr><td>Arabic No</td><td>6686</td></tr><tr><td>Reference</td><td>Book 83 Hadith 63</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepadaku
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவியார் சவ்தா (ரலி) அவர்கள் கூறியதாவது: எங்களுக்குரிய ஆடு ஒன்று இறந்து விட்டது. அதன் தோலை நாங்கள் பதனிட்டோம். பிறகு அதில் நாங்கள் பழரசத்தை ஊற்றி வைத்துவந்தோம். இறுதியில் அது (இற்றுப்போன) துருத்தியாக மாறிவிட்டது. அத்தியாயம் : 83
+நபி (ஸல்) அவர்களின் துணைவியார் சவ்தா (ரலி) அவர்கள் கூறியதாவது: எங்களுக்குரிய ஆடு ஒன்று இறந்து விட்டது. அதன் தோலை நாங்கள் பதனிட்டோம். பிறகு அதில் நாங்கள் பழரசத்தை ஊற்றி வைத்துவந்தோம். இறுதியில் அது (இற்றுப்போன) துருத்தியாக மாறிவிட்டது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6686</td></tr><tr><td>Arabic No</td><td>6686</td></tr><tr><td>Reference</td><td>Book 83 Hadith 63</td></tr></tbody></table></div>
 

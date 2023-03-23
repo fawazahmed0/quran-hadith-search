@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২১৩১। ইবনু উমার (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক দান করার পর তা আবার ফিরিয়ে নেয় সে কুকুর সমতুল্য, যে পেট ভরে খাওয়ার পর বমি করে, আবার ফিরে এসে তা খায়। সহীহ, ইরওয়া (৬/৩৬), বুখারী, মুসলিম সংক্ষিপ্ত ভাবে। আবূ ঈসা বলেন, ইবনু আব্বাস ও আবদুল্লাহ ইবনু আমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
+। ইবনু উমার (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক দান করার পর তা আবার ফিরিয়ে নেয় সে কুকুর সমতুল্য, যে পেট ভরে খাওয়ার পর বমি করে, আবার ফিরে এসে তা খায়। সহীহ, ইরওয়া (৬/৩৬), বুখারী, মুসলিম সংক্ষিপ্ত ভাবে। আবূ ঈসা বলেন, ইবনু আব্বাস ও আবদুল্লাহ ইবনু আমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2131</td></tr><tr><td>Arabic No</td><td>2131</td></tr><tr><td>Reference</td><td>Book 31 Hadith 8</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৬২৩। আল-আব্বাস ইবনু আবদিল মুত্তালিব (রাযিঃ) হতে বর্ণিত আছে যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ সেই ব্যক্তি ঈমানের স্বাদ লাভ করেছে, যে ব্যক্তি আল্লাহ তা'আলাকে প্রতিপালক হিসেবে, ইসলামকে দ্বীন হিসেবে এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে নবী হিসেবে খুশী মনে মেনে নিয়েছে। সহীহঃ মুসলিম (১/৪৬) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আল-আব্বাস ইবনু আবদিল মুত্তালিব (রাযিঃ) হতে বর্ণিত আছে যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ সেই ব্যক্তি ঈমানের স্বাদ লাভ করেছে, যে ব্যক্তি আল্লাহ তা'আলাকে প্রতিপালক হিসেবে, ইসলামকে দ্বীন হিসেবে এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে নবী হিসেবে খুশী মনে মেনে নিয়েছে। সহীহঃ মুসলিম (১/৪৬) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2623</td></tr><tr><td>Arabic No</td><td>2623</td></tr><tr><td>Reference</td><td>Book 40 Hadith 18</td></tr></tbody></table></div>
 

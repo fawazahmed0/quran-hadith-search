@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, ‘উমার (রাঃ) একবার বললেন, হে আল্লাহর রাসূল! আমি জাহেলিয়্যাতের যুগে মানত করেছিলাম যে, মসজিদে হারামে এক রাত ইতি’কাফ করব। তিনি বললেনঃ তুমি তোমার মানত পূর্ণ কর। [২০৩২] (আধুনিক প্রকাশনী- ৬২৩০, ইসলামিক ফাউন্ডেশন- ৬২৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, ‘উমার (রাঃ) একবার বললেন, হে আল্লাহর রাসূল! আমি জাহেলিয়্যাতের যুগে মানত করেছিলাম যে, মসজিদে হারামে এক রাত ইতি’কাফ করব। তিনি বললেনঃ তুমি তোমার মানত পূর্ণ কর। [২০৩২] (আধুনিক প্রকাশনী- ৬২৩০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6697</td></tr><tr><td>Arabic No</td><td>6697</td></tr><tr><td>Reference</td><td>Book 83 Hadith 74</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Muqatil Abul Hasan] telah mengabark
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (என் தந்தை) உமர் (ரலி) அவர்கள், “அல்லாஹ்வின் தூதரே! மஸ்ஜிதுல் ஹராம் (புனிதப்) பள்ளிவாசலில் ஓர் இரவு ‘இஃதிகாஃப்’ இருப்பதாக அறியாமைக் காலத்தில் நான் நேர்ந்துகொண்டேன். (இப்போது அதை நிறைவேற்ற வேண்டுமா?)” என்று கேட்டார்கள். அதற்கு நபி (ஸல்) அவர்கள் “உங்களது நேர்த்திக்கடனை நிறைவேற்றுங்கள்” என்று சொன்னார்கள்.97 அத்தியாயம் : 83
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (என் தந்தை) உமர் (ரலி) அவர்கள், “அல்லாஹ்வின் தூதரே! மஸ்ஜிதுல் ஹராம் (புனிதப்) பள்ளிவாசலில் ஓர் இரவு ‘இஃதிகாஃப்’ இருப்பதாக அறியாமைக் காலத்தில் நான் நேர்ந்துகொண்டேன். (இப்போது அதை நிறைவேற்ற வேண்டுமா?)” என்று கேட்டார்கள். அதற்கு நபி (ஸல்) அவர்கள் “உங்களது நேர்த்திக்கடனை நிறைவேற்றுங்கள்” என்று சொன்னார்கள்.97 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6697</td></tr><tr><td>Arabic No</td><td>6697</td></tr><tr><td>Reference</td><td>Book 83 Hadith 74</td></tr></tbody></table></div>
 

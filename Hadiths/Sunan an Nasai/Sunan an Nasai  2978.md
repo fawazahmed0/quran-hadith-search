@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন মানসূর (রহঃ) ... যুহরী (রহঃ) থেকে বর্ণিত। তিনি বলেন, লোকেরা ইবন উমর (রাঃ)-কে জিজ্ঞাসা করলোঃ আপনি কি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সাফা ও মারওয়ার মধ্যস্থলে রমল করতে দেখেছেন? তিনি বলেনঃ রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছিলেন একদল লোকের মধ্যে তারা সকলেই রমল করেন, আমি তাদের সকলকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর রমলের অনুকরণেই রমল করতে দেখেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2978</td></tr><tr><td>Arabic No</td><td>2978</td></tr><tr><td>Reference</td><td>Book 24 Hadith 361</td></tr></tbody></table></div>
 

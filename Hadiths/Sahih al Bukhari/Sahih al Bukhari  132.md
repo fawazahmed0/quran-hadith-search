@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী ইবনু আবূ তালিব (রাযি.) হতে বর্ণিত। তিনি বলেন, আমার অধিক পরিমাণে ‘মযী’ বের হত। তাই এ ব্যাপারে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে জিজ্ঞেস করার জন্য মিকদাদকে বললাম। তিনি তাঁকে জিজ্ঞেস করলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ ‘এতে কেবল উযূ করতে হয়।’ (১৭৮,২৬৯; মুসলিম ৩/৪, হাঃ ৩০৩, আহমাদ ৬০৬, ১০০৯, ১০৩৫) (আধুনিক প্রকাশনীঃ ১২৯, ইসলামিক ফাউন্ডেশনঃ ১৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী ইবনু আবূ তালিব (রাযি.) হতে বর্ণিত। তিনি বলেন, আমার অধিক পরিমাণে ‘মযী’ বের হত। তাই এ ব্যাপারে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে জিজ্ঞেস করার জন্য মিকদাদকে বললাম। তিনি তাঁকে জিজ্ঞেস করলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ ‘এতে কেবল উযূ করতে হয়।’ (১৭৮,২৬৯; মুসলিম ৩/৪, হাঃ ৩০৩, আহমাদ ৬০৬, ১০০৯, ১০৩৫) (আধুনিক প্রকাশনীঃ ১২৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>132</td></tr><tr><td>Arabic No</td><td>132</td></tr><tr><td>Reference</td><td>Book 3 Hadith 74</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Ali:I used to get the emotional urethral discharge frequently so I requested Al-Miqdad to ask the Prophet (ﷺ) about it. Al-Miqdad asked him and he replied, "One has to perform ablution (after it)." (See Hadith No. 269)
+Narrated 'Ali:I used to get the emotional urethral discharge frequently so I requested Al-Miqdad to ask the Prophet (ﷺ) about it. Al-Miqdad asked him and he replied, "One has to perform ablution (after it)." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>132</td></tr><tr><td>Arabic No</td><td>132</td></tr><tr><td>Reference</td><td>Book 3 Hadith 74</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: பாலுணர்வு கிளர்ச்சி நீர் (‘மதீ’) அதிக மாக வெளிப்படும் ஆடவனாக நான் இருந்தேன். (இது பற்றிக் கேட்க வெட்கப் பட்டு) மிக்தாத் (ரலி) அவர்களை நபி (ஸல்) அவர்களிடம் கேட்குமாறு பணித்தேன். அவர் அதுபற்றி நபியவர்களிடம் கேட்டார். “அதற்காக அங்கத் தூய்மை (உளூ) செய்வதுதான் கடமை (குளிக்க வேண்டிய கட்டாயமில்லை)” என்று நபி (ஸல்) அவர்கள் பதிலளித்தார்கள். அத்தியாயம் : 4
+அலீ (ரலி) அவர்கள் கூறியதாவது: பாலுணர்வு கிளர்ச்சி நீர் (‘மதீ’) அதிக மாக வெளிப்படும் ஆடவனாக நான் இருந்தேன். (இது பற்றிக் கேட்க வெட்கப் பட்டு) மிக்தாத் (ரலி) அவர்களை நபி (ஸல்) அவர்களிடம் கேட்குமாறு பணித்தேன். அவர் அதுபற்றி நபியவர்களிடம் கேட்டார். “அதற்காக அங்கத் தூய்மை (உளூ) செய்வதுதான் கடமை (குளிக்க வேண்டிய கட்டாயமில்லை)” என்று நபி (ஸல்) அவர்கள் பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>132</td></tr><tr><td>Arabic No</td><td>132</td></tr><tr><td>Reference</td><td>Book 3 Hadith 74</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ali r.a. şöyle demiştir: "Ben kendisinden çokça mezi gelen bir kimseydim. Mikdad'dan bunu Nebi Sallallahu Aleyhi ve Sellem'e sormasını istedim. Mikdad bunu Nebi (Sallallahu aleyhi ve Sellem)'e sordu, o da şöyle dedi: "Bundan dolayı abdest vardır. Tekrar yerler: 178, 269
+Ali r.a. şöyle demiştir: "Ben kendisinden çokça mezi gelen bir kimseydim. Mikdad'dan bunu Nebi Sallallahu Aleyhi ve Sellem'e sormasını istedim. Mikdad bunu Nebi (Sallallahu aleyhi ve Sellem)'e sordu, o da şöyle dedi: "Bundan dolayı abdest vardır. Tekrar yerler:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>132</td></tr><tr><td>Arabic No</td><td>132</td></tr><tr><td>Reference</td><td>Book 3 Hadith 74</td></tr></tbody></table></div>
 

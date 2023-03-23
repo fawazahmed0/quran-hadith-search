@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুহায়র ইবন হারব ও নাসর ইবন আলী ..... আয়েশা (রাঃ) হতে বর্ণিত। একদা তিনি তাঁর দু‘জন দাস-দাসীকে আযাদ করার ইচ্ছা করেন, যারা পরস্পরে বিবাহিত ছিল। রাবী (কাসিম) বলেন, তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এতদসম্পর্কে জিজ্ঞাসা করলে, তিনি তাঁকে প্রথমে দাস (পুরুষ) কে ও পরে দাসীকে আযাদ করার নির্দেশ দেন। (কারণ প্রথমে দাসীকে মুক্ত করা হলে দাসের সাথে তার বিবাহে বিচ্ছেদ ঘটানোর অধিকার সে হয়ত প্রয়োগ করতে পারে। কিন্তু পুরুষকে মুক্ত করলে এ আশংকা থাকে না)।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি এমন দু‘জন দাস-দাসীকে আযাদ করার ইচ্ছা করলেন, যে দাসীর স্বামী আছে। কাসিম বলেন, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এ বিষয়ে জিজ্ঞেস করলে তিনি নারীর পূর্বে পুরুষটিকে আযাদ করার নির্দেশ দেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2237</td></tr><tr><td>Arabic No</td><td>2237</td></tr><tr><td>Reference</td><td>Book 13 Hadith 63</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু আতিয়্যাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কন্যার মাথার চুল বেনী পাকিয়ে দিয়েছিলাম, অর্থাৎ তিনটি বেনী। ওয়াকী‘ (রহ.) বলেন, সুফিয়ান (রহ.) বলেছেন, মাথার সামনে একটি বেনী এবং দু’ পাশে দু’টি বেনী। (১৬৭) (আধুনিক প্রকাশনীঃ ১১৮০, ইসলামিক ফাউন্ডেশনঃ ১১৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু আতিয়্যাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কন্যার মাথার চুল বেনী পাকিয়ে দিয়েছিলাম, অর্থাৎ তিনটি বেনী। ওয়াকী‘ (রহ.) বলেন, সুফিয়ান (রহ.) বলেছেন, মাথার সামনে একটি বেনী এবং দু’ পাশে দু’টি বেনী। (১৬৭) (আধুনিক প্রকাশনীঃ ১১৮০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1262</td></tr><tr><td>Arabic No</td><td>1262</td></tr><tr><td>Reference</td><td>Book 23 Hadith 23</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு அ(த்)திய்யா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களின் மகளின் முடியை மூன்று சடைகளாகப் பின்னினோம். “மூன்று சடைகள் என்பது முன் நெற்றிப்பகுதியில் ஒன்றும் தலையின் இரு ஓரங்களில் இரண்டும் ஆகும்” என சுஃப்யான் அஸ்ஸவ்ரீ (ரஹ்) அவர்கள் குறிப்பிட்டுள்ளார்கள். அத்தியாயம் : 23
+உம்மு அ(த்)திய்யா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களின் மகளின் முடியை மூன்று சடைகளாகப் பின்னினோம். “மூன்று சடைகள் என்பது முன் நெற்றிப்பகுதியில் ஒன்றும் தலையின் இரு ஓரங்களில் இரண்டும் ஆகும்” என சுஃப்யான் அஸ்ஸவ்ரீ (ரஹ்) அவர்கள் குறிப்பிட்டுள்ளார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1262</td></tr><tr><td>Arabic No</td><td>1262</td></tr><tr><td>Reference</td><td>Book 23 Hadith 23</td></tr></tbody></table></div>
 

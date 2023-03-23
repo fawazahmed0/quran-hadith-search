@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মুতাওয়াক্কিল (রহঃ) ..... আল হাজ্জাজ ইবন ‘আমর (রাঃ) থেকে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যে ব্যক্তি শত্রুর কারণে বা চলণশক্তি রহিত হওয়ার ফলে অথবা রোগের কারণে (ইহরামের পর হজ্জ করতে অসমর্থ হয়) .... পূর্বোক্ত হাদীসের অনুরূপ।
+। আল-হাজ্জাজ ইবনু ‘আমর (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কারো পা ভেঙ্গে গেলে অথবা খোঁড়া হয়ে গেলে অথবা ব্যাধিগ্রস্ত হলে ... অতঃপর পূর্ববর্তী হাদীসের অর্থানুযায়ী বর্ণিত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Narrated al-Hajjaj ibn Amr: The Prophet (ﷺ) said: If anyone breaks (a leg) or 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Haccâc b. Amr'dan, Nebi (S.A.V.)'in; “Kim(in bir tarafı) kırılır, veya ayağı sakatlanır veya hastalanırsa..." buyurduğu rivayet edilmiş (ve Ma'mer bir önceki (1862.) hadisin) manasını nakletmiştir. (Râvi) Seleme b. Şebîb, (Abdurrezzak'ın); "Enbeenâ Ma'mer" bize Ma'mer haber verdi" tabirini kullandığını söyledi. Şunlar da rivayet etti: Tirmizî, hac; Nesâî, menâsik; İbn Mâce, menâsik; Dârimî menâsik; Ahmed b. Hanbel, III, 450
+Haccâc b. Amr'dan, Nebi (S.A.V.)'in; “Kim(in bir tarafı) kırılır, veya ayağı sakatlanır veya hastalanırsa..." buyurduğu rivayet edilmiş (ve Ma'mer bir önceki (1862.) hadisin) manasını nakletmiştir. (Râvi) Seleme b. Şebîb, (Abdurrezzak'ın); "Enbeenâ Ma'mer" bize Ma'mer haber verdi" tabirini kullandığını söyledi. Şunlar da rivayet etti: Tirmizî, hac; Nesâî, menâsik; İbn Mâce, menâsik; Dârimî menâsik; Ahmed b. Hanbel, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
 

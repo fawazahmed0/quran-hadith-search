@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন বাশশার (রহঃ) .... আমের ইবন আব্দুল্লাহ ইবনুয্ যুবায়র (রাঃ) থেকে তাঁর পিতার সূত্রে উপরোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে। তিনি বলেনঃ তাঁর চোখ ইশারা থেকে অগ্রসর হত না। হাজ্জাজ (রহঃ) কর্তৃক বর্ণিত হাদীছ পরিপূর্ণ। (নাসাঈ)।
+। ‘আমির ইবনু ‘আবদুল্লাহ ইবনুয যুবাইর (রহঃ) তার পিতার সূত্রে এ হাদীসটি বর্ণনা করে বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর দৃষ্টি (শাহাদাত আঙুলের) ইশারাকে অতিক্রম করতো না। আর হাজ্জাজ বর্ণিত হাদীসটি অধিক পরিপূর্ণ।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>990</td></tr><tr><td>Arabic No</td><td>990</td></tr><tr><td>Reference</td><td>Book 2 Hadith 601</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muhammed b. Beşşâr, Yahya'dan, Yahya İbn Aclân'dan, İbn Aclân, Âmir b. Abdullah b. ez-Zübeyr*den o da babasından bir önceki (989.) hadisi rivayet etmişlerdir. Yahya bu (rivayetinde) İbnu'z-Zübeyr'in: "Resûlullah'ın gözü işaretinden ayrılmazdı" dediğini de söyler. Ancak Haccâc'ın (bundan önceki) hadisi, (Yahya'nın bu hadisinden) daha tamdır. Diğer tahric: Nesâî, sehv; Ahmed b. Hanbel, IV, 3, 60
+Muhammed b. Beşşâr, Yahya'dan, Yahya İbn Aclân'dan, İbn Aclân, Âmir b. Abdullah b. ez-Zübeyr*den o da babasından bir önceki (989.) hadisi rivayet etmişlerdir. Yahya bu (rivayetinde) İbnu'z-Zübeyr'in: "Resûlullah'ın gözü işaretinden ayrılmazdı" dediğini de söyler. Ancak Haccâc'ın (bundan önceki) hadisi, (Yahya'nın bu hadisinden) daha tamdır. Diğer tahric: Nesâî, sehv; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>990</td></tr><tr><td>Arabic No</td><td>990</td></tr><tr><td>Reference</td><td>Book 2 Hadith 601</td></tr></tbody></table></div>
 

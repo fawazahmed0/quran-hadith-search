@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমরা সাতটি অঙ্গের দ্বারা সিজদা্ করতে এবং চুল ও কাপড় না গুটাতে নির্দেশিত হয়েছি। (৮০৯) (আধুনিক প্রকাশনীঃ ৭৬৫, ইসলামিক ফাউন্ডেশনঃ ৭৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমরা সাতটি অঙ্গের দ্বারা সিজদা্ করতে এবং চুল ও কাপড় না গুটাতে নির্দেশিত হয়েছি। (৮০৯) (আধুনিক প্রকাশনীঃ ৭৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>810</td></tr><tr><td>Arabic No</td><td>810</td></tr><tr><td>Reference</td><td>Book 10 Hadith 205</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஏழு உறுப்புக்கள் (தரையில்) படுமாறு சஜ்தா செய்யும்படி நாம் கட்டளையிடப் பட்டுள்ளோம்; ஆடையையோ முடி யையோ (தரையில் படாதவாறு) பிடிக்கக் கூடாதெனவும் நாம் கட்டளையிடப் பட்டுள்ளோம். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஏழு உறுப்புக்கள் (தரையில்) படுமாறு சஜ்தா செய்யும்படி நாம் கட்டளையிடப் பட்டுள்ளோம்; ஆடையையோ முடி யையோ (தரையில் படாதவாறு) பிடிக்கக் கூடாதெனவும் நாம் கட்டளையிடப் பட்டுள்ளோம். இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>810</td></tr><tr><td>Arabic No</td><td>810</td></tr><tr><td>Reference</td><td>Book 10 Hadith 205</td></tr></tbody></table></div>
 

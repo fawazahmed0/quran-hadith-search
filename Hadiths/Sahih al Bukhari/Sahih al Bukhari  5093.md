@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ স্ত্রী, বাড়িঘর এবং ঘোড়ায় অশুভ আছে। [২০৯৯] (আধুনিক প্রকাশনী- ৪৭২০, ইসলামিক ফাউন্ডেশন- ৪৭২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ স্ত্রী, বাড়িঘর এবং ঘোড়ায় অশুভ আছে। [২০৯৯] (আধুনিক প্রকাশনী- ৪৭২০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 67 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] ia berkata; Telah menceritakan kepadaku
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அபசகுனம் என்பது (எதிலாவது இருக்க முடியும் என்றால்) பெண், வீடு, குதிரை ஆகிய மூன்று விஷயங்களில்தான் (இருக்க முடியும்). இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.29 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 67
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அபசகுனம் என்பது (எதிலாவது இருக்க முடியும் என்றால்) பெண், வீடு, குதிரை ஆகிய மூன்று விஷயங்களில்தான் (இருக்க முடியும்). இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.29 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 67 Hadith 31</td></tr></tbody></table></div>
 

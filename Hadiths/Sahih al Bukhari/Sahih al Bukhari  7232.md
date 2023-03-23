@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু’টি বিষয় ব্যতীত হিংসা করা যাবে না। এক ব্যক্তি, যাকে আল্লাহ্ কুরআন দান করেছেন সে তা দিন রাত তিলাওয়াত করে। কেউ বলল, একে যা দেয়া হয়েছে, যদি আমাকেও তা দেয়া হত, তবে সে যেমন করছে, আমিও তেমন করতাম। আর এক ব্যক্তি যাকে আল্লাহ্ মাল দিয়েছেন, সে তা যথোচিতভাবে খরচ করে। কেউ বলল, তাকে যা দেয়া হয়েছে তা যদি আমাকে দেয়া হত, তাহলে আমি অবশ্যই তাই করতাম, সে যা করে। [৫০২৬] (আধুনিক প্রকাশনী- ৬৭২৫, ইসলামিক ফাউন্ডেশন- ৬৭৩৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু’টি বিষয় ব্যতীত হিংসা করা যাবে না। এক ব্যক্তি, যাকে আল্লাহ্ কুরআন দান করেছেন সে তা দিন রাত তিলাওয়াত করে। কেউ বলল, একে যা দেয়া হয়েছে, যদি আমাকেও তা দেয়া হত, তবে সে যেমন করছে, আমিও তেমন করতাম। আর এক ব্যক্তি যাকে আল্লাহ্ মাল দিয়েছেন, সে তা যথোচিতভাবে খরচ করে। কেউ বলল, তাকে যা দেয়া হয়েছে তা যদি আমাকে দেয়া হত, তাহলে আমি অবশ্যই তাই করতাম, সে যা করে। [৫০২৬] (আধুনিক প্রকাশনী- ৬৭২৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7232</td></tr><tr><td>Arabic No</td><td>7232</td></tr><tr><td>Reference</td><td>Book 94 Hadith 7</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Not to wish to be the like except of two men. A man whom Allah has given the (knowledge of the) Qur'an and he recites it during the hours of night and day and the one who wishes says: If I were given the same as this (man) has been given, I would do what he does, and a man whom Allah has given wealth and he spends it in the just and right way, in which case the one who wishes says, 'If I were given the same as he has been given, I would do what he does.' " (See Hadith 5025 and 5026)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Not to wish to be the like except of two men. A man whom Allah has given the (knowledge of the) Qur'an and he recites it during the hours of night and day and the one who wishes says: If I were given the same as this (man) has been given, I would do what he does, and a man whom Allah has given wealth and he spends it in the just and right way, in which case the one who wishes says, 'If I were given the same as he has been given, I would do what he does.' " (See Hadith 5025 and)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7232</td></tr><tr><td>Arabic No</td><td>7232</td></tr><tr><td>Reference</td><td>Book 94 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ustman bin Abu Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இரண்டு விஷயங்களைத் தவிர வேறெதற்காகவும் பொறாமைப்படலாகாது: 1. ஒரு மனிதருக்கு அல்லாஹ் குர்ஆனின் அறிவை வழங்கினான். அவர் அதைக் காலையும் மாலையும் ஓதிவருகிறார். (இதைக் கண்ட) மற்றொருவர், “இவருக்குக் கொடுக்கப்பட்டதைப் போன்று எனக்கும் கொடுக்கப்பட்டிருந்தால் இவர் செய்வதைப் போன்று நானும் செய்திருப்பேன்” என்று (ஆதங்கத்துடன்) சொல்கிறார். 2. மற்றொரு மனிதருக்கு அல்லாஹ் செல்வத்தை வழங்கினான். அவர் அதை உரிய வழியில் செலவிடுகிறார். (இதைக் காணும்) மற்றொருவர், “இவருக்குக் கொடுக்கப்பட்டதைப் போன்று எனக்கும் கொடுக்கப்பட்டிருந்தால் இவர் செய்வ தைப் போன்று நானும் செய்திருப்பேன்” என்று (ஆதங்கத்துடன்) சொல்கிறார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.9 -ஜரீர் பின் அப்தில் ஹமீத் (ரஹ்) அவர்களிடமிருந்து இந்த ஹதீஸை குதைபா (ரஹ்) அவர்களும் அறிவித்துள்ளார்கள். அத்தியாயம் : 94
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இரண்டு விஷயங்களைத் தவிர வேறெதற்காகவும் பொறாமைப்படலாகாது: 1. ஒரு மனிதருக்கு அல்லாஹ் குர்ஆனின் அறிவை வழங்கினான். அவர் அதைக் காலையும் மாலையும் ஓதிவருகிறார். (இதைக் கண்ட) மற்றொருவர், “இவருக்குக் கொடுக்கப்பட்டதைப் போன்று எனக்கும் கொடுக்கப்பட்டிருந்தால் இவர் செய்வதைப் போன்று நானும் செய்திருப்பேன்” என்று (ஆதங்கத்துடன்) சொல்கிறார். 2. மற்றொரு மனிதருக்கு அல்லாஹ் செல்வத்தை வழங்கினான். அவர் அதை உரிய வழியில் செலவிடுகிறார். (இதைக் காணும்) மற்றொருவர், “இவருக்குக் கொடுக்கப்பட்டதைப் போன்று எனக்கும் கொடுக்கப்பட்டிருந்தால் இவர் செய்வ தைப் போன்று நானும் செய்திருப்பேன்” என்று (ஆதங்கத்துடன்) சொல்கிறார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.9 -ஜரீர் பின் அப்தில் ஹமீத் (ரஹ்) அவர்களிடமிருந்து இந்த ஹதீஸை குதைபா (ரஹ்) அவர்களும் அறிவித்துள்ளார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7232</td></tr><tr><td>Arabic No</td><td>7232</td></tr><tr><td>Reference</td><td>Book 94 Hadith 7</td></tr></tbody></table></div>
 

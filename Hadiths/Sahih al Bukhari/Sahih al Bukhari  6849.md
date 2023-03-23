@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুর রহমান ইবনু জাবির (রহ.) হতে বর্ণিত। তিনি এমন একজন থেকে বর্ণনা করেছেন যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন যে, আল্লাহর নির্দিষ্ট হদসমূহের কোন হদ ছাড়া অন্য ক্ষেত্রে দশ প্রহারের অধিক কোন শাস্তি নেই। [৬৮৪৮] (আধুনিক প্রকাশনী- ৬৩৭২, ইসলামিক ফাউন্ডেশন- ৬৩৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুর রহমান ইবনু জাবির (রহ.) হতে বর্ণিত। তিনি এমন একজন থেকে বর্ণনা করেছেন যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন যে, আল্লাহর নির্দিষ্ট হদসমূহের কোন হদ ছাড়া অন্য ক্ষেত্রে দশ প্রহারের অধিক কোন শাস্তি নেই। [৬৮৪৮] (আধুনিক প্রকাশনী- ৬৩৭২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6849</td></tr><tr><td>Arabic No</td><td>6849</td></tr><tr><td>Reference</td><td>Book 86 Hadith 71</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [F
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துர் ரஹ்மான் பின் ஜாபிர் (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடமிருந்து செவி யுற்ற (நபித்தோழர்) ஒருவர் கூறினார்: “அல்லாஹ் விதியாக்கியுள்ள (குற்ற வியல்) தண்டனைகளில் ஒன்றில் தவிர வேறு எந்த (சாதாரண) குற்றத்திற்காகவும் பத்து அடிகளுக்கு மேலான தண்டனை கிடையாது” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 86
+அப்துர் ரஹ்மான் பின் ஜாபிர் (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடமிருந்து செவி யுற்ற (நபித்தோழர்) ஒருவர் கூறினார்: “அல்லாஹ் விதியாக்கியுள்ள (குற்ற வியல்) தண்டனைகளில் ஒன்றில் தவிர வேறு எந்த (சாதாரண) குற்றத்திற்காகவும் பத்து அடிகளுக்கு மேலான தண்டனை கிடையாது” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6849</td></tr><tr><td>Arabic No</td><td>6849</td></tr><tr><td>Reference</td><td>Book 86 Hadith 71</td></tr></tbody></table></div>
 

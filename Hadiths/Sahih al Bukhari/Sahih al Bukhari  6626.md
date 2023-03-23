@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আপন পরিবারের ব্যাপারে কসম করে এর উপর অটল থাকে সে মস্ত বড় পাপী, তার কাফ্ফারা তাকে গুনাহ থেকে মুক্ত করবে না। [৬৬২৫; মুসলিম ২৭/৬, হাঃ ১৬৫৫] (আধুনিক প্রকাশনী- ৬১৬৪, ইসলামিক ফাউন্ডেশন- ৬১৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আপন পরিবারের ব্যাপারে কসম করে এর উপর অটল থাকে সে মস্ত বড় পাপী, তার কাফ্ফারা তাকে গুনাহ থেকে মুক্ত করবে না। [৬৬২৫; মুসলিম ২৭/৬, হাঃ ১৬৫৫] (আধুনিক প্রকাশনী- ৬১৬৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6626</td></tr><tr><td>Arabic No</td><td>6626</td></tr><tr><td>Reference</td><td>Book 83 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq yaitu bin Ibrahim] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் தம் குடும்பத்தார் (துன்புறும் வகையில் அவர்கள்) தொடர்பாகத் தாம் செய்த சத்தியத்தில் பிடிவாதமாக இருப்பது, அவர் செய்யும் பெரும் பாவமாகும். (ஆகவே,) அவர் (சத்தியத்தை முறித்து) நன்மை செய்யட்டும்! -அதாவது பரிகாரம் செய்யட்டும்! இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 83
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் தம் குடும்பத்தார் (துன்புறும் வகையில் அவர்கள்) தொடர்பாகத் தாம் செய்த சத்தியத்தில் பிடிவாதமாக இருப்பது, அவர் செய்யும் பெரும் பாவமாகும். (ஆகவே,) அவர் (சத்தியத்தை முறித்து) நன்மை செய்யட்டும்! -அதாவது பரிகாரம் செய்யட்டும்! இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6626</td></tr><tr><td>Arabic No</td><td>6626</td></tr><tr><td>Reference</td><td>Book 83 Hadith 6</td></tr></tbody></table></div>
 

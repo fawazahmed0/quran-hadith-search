@@ -41,14 +41,14 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6908</td></tr><tr><td>Arabic No</td><td>6908</td></tr><tr><td>Reference</td><td>Book 87 Hadith 45</td></tr></tbody></table></div>
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু মাসলামাহ (রাঃ) বললেন, আমি সাক্ষ্য দিচ্ছি যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ ফায়সালা প্রদান করেছেন। [৬৯০৬] (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন- ৬৪৩৯) ৬৯০৮ মিম. মুহাম্মাদ ইবনু ‘আবদুল্লাহ্ (রহ.) ‘উমার (রাঃ) হতে বর্ণিত যে, তিনি সাহাবীগণের সঙ্গে গর্ভপাত ঘটানোর বিষয়ে এরূপ পরামর্শ করেছেন। [৬৯০৫; মুসলিম ২৮/১১, হাঃ ১৬৮২, আহমাদ ১৮১৬১] (আধুনিক প্রকাশনী- ৬৪২৮, ইসলামিক ফাউন্ডেশন- ৬৪৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6908.2</td></tr><tr><td>Arabic No</td><td>6908.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 46</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Urwa:I heard Al-Maghira bin Shu'ba narrating that 'Umar had consulted them about the case of abortion (similarly as narrated in No. 42)
+Narrated 'Urwa:I heard Al-Maghira bin Shu'ba narrating that 'Umar had consulted them about the case of abortion (similarly as narrated in No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6908.2</td></tr><tr><td>Arabic No</td><td>6908.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 46</td></tr></tbody></table></div>
 

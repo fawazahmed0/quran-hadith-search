@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মদিনা এখান হতে ওখান পর্যন্ত হারাম (রূপে গণ্য)। সুতরাং তার গাছ কাটা যাবে না এবং এখানে কোন ধরনের অঘটন (বিদ‘আত, অত্যাচার ইত্যাদি) ঘটানো যাবে না। যদি কেউ এখানে কোন অঘটন ঘটায় তাহলে তার প্রতি আল্লাহ্‌র এবং ফেরেশতাদের ও সকল মানুষের লা’নত (অভিশাপ)। (৭৩০৬, মুসলিম ১৫/৮৫, হাঃ ১৩৬৬) (আধুনিক প্রকাশনীঃ ১৭৩২, ইসলামিক ফাউন্ডেশনঃ ১৭৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মদিনা এখান হতে ওখান পর্যন্ত হারাম (রূপে গণ্য)। সুতরাং তার গাছ কাটা যাবে না এবং এখানে কোন ধরনের অঘটন (বিদ‘আত, অত্যাচার ইত্যাদি) ঘটানো যাবে না। যদি কেউ এখানে কোন অঘটন ঘটায় তাহলে তার প্রতি আল্লাহ্‌র এবং ফেরেশতাদের ও সকল মানুষের লা’নত (অভিশাপ)। (৭৩০৬, মুসলিম ১৫/৮৫, হাঃ ১৩৬৬) (আধুনিক প্রকাশনীঃ ১৭৩২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1867</td></tr><tr><td>Arabic No</td><td>1867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 1</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:The Prophet (ﷺ) said, "Medina is a sanctuary from that place to that. Its trees should not be cut and no heresy should be innovated nor any sin should be committed in it, and whoever innovates in it an heresy or commits sins (bad deeds), then he will incur the curse of Allah, the angels, and all the people." (See Hadith No. 409, Vol 9)
+Narrated Anas:The Prophet (ﷺ) said, "Medina is a sanctuary from that place to that. Its trees should not be cut and no heresy should be innovated nor any sin should be committed in it, and whoever innovates in it an heresy or commits sins (bad deeds), then he will incur the curse of Allah, the angels, and all the people." (See Hadith No. 409, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1867</td></tr><tr><td>Arabic No</td><td>1867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 1</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [T
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மதீனா நகரம் இங்கிருந்து இதுவரை புனிதமானதாகும்!2 இங்குள்ள மரங்கள் வெட்டப்படக் கூடாது; இங்கே (மார்க்கத் தில் இல்லாத) புதிய செயல் எதுவும் உருவாக்கப்படக் கூடாது. யார் (மார்க்கத் தில் இல்லாத) புதிய (செயல் அல்லது கொள்கை) ஒன்றை உருவாக்குகிறாரோ அவர்மீது அல்லாஹ்வின் சாபமும் வானவர்கள் மற்றும் மக்கள் அனைவரின் சாபமும் ஏற்படும். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 29
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மதீனா நகரம் இங்கிருந்து இதுவரை புனிதமானதாகும்!2 இங்குள்ள மரங்கள் வெட்டப்படக் கூடாது; இங்கே (மார்க்கத் தில் இல்லாத) புதிய செயல் எதுவும் உருவாக்கப்படக் கூடாது. யார் (மார்க்கத் தில் இல்லாத) புதிய (செயல் அல்லது கொள்கை) ஒன்றை உருவாக்குகிறாரோ அவர்மீது அல்லாஹ்வின் சாபமும் வானவர்கள் மற்றும் மக்கள் அனைவரின் சாபமும் ஏற்படும். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1867</td></tr><tr><td>Arabic No</td><td>1867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 1</td></tr></tbody></table></div>
 

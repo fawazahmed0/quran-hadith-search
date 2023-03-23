@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হাসান ইবন ইসমাঈল ইবন সুলায়মান (রহঃ) ... আবূ মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, একবার কাবার নিকট রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পিপাসার্ত হন। তিনি পানি চাইলে লোক মশক হতে নবীয দিল। তিনি তার গন্ধ শুঁকে তা অপছন্দ করলেন এবং বললেনঃ আমার নিকট যমযমের পানির পাত্র আনা হোক। তিনি তাতে যমযমের পানি যিশিয়ে তা পান করলেন। তখন এক ব্যক্তি জিজ্ঞাসা করলোঃ ইয়া রাসূলাল্লাহ্! তা কি হারাম? তিনি বললেনঃ না। এই বর্ণনাটি দুর্বল। ইয়াহইয়া ইবন ইয়ামান রাবীর বর্ণনা গ্রহণযােগ্য নয়। তার স্মরণশক্তি দুর্বল হয়ে গিয়েছিল। তিনি প্রায়ই ভুল করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5703</td></tr><tr><td>Arabic No</td><td>5703</td></tr><tr><td>Reference</td><td>Book 51 Hadith 165</td></tr></tbody></table></div>
 

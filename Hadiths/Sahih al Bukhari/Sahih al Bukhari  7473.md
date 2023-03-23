@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দাজ্জাল মাদ্বীনাহর দিকে আসবে, তখন সে দেখতে পাবে ফেরেশতাগণ মাদ্বীনাহকে পাহারা দিয়ে রেখেছে। কাজেই দাজ্জাল ও প্লেগ মাদ্বীনাহর নিকটেও আসতে পারবে না ইনশাআল্লাহ্। [১৮৮১] (আধুনিক প্রকাশনী- ৬৯৫৫, ইসলামিক ফাউন্ডেশন- ৬৯৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দাজ্জাল মাদ্বীনাহর দিকে আসবে, তখন সে দেখতে পাবে ফেরেশতাগণ মাদ্বীনাহকে পাহারা দিয়ে রেখেছে। কাজেই দাজ্জাল ও প্লেগ মাদ্বীনাহর নিকটেও আসতে পারবে না ইনশাআল্লাহ্। [১৮৮১] (আধুনিক প্রকাশনী- ৬৯৫৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7473</td></tr><tr><td>Arabic No</td><td>7473</td></tr><tr><td>Reference</td><td>Book 97 Hadith 99</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Abu 'Isa] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மதீனாவிற்கு தஜ்ஜால் வருவான். வானவர்கள் மதீனாவைக் காவல் காத்துக்கொண்டிருப்பதைக் காண்பான். ஆகவே, தஜ்ஜாலும் கொள்ளைநோயும் அல்லாஹ் நாடினால் மதீனாவை நெருங்க முடியாது. இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.115 அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மதீனாவிற்கு தஜ்ஜால் வருவான். வானவர்கள் மதீனாவைக் காவல் காத்துக்கொண்டிருப்பதைக் காண்பான். ஆகவே, தஜ்ஜாலும் கொள்ளைநோயும் அல்லாஹ் நாடினால் மதீனாவை நெருங்க முடியாது. இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.115 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7473</td></tr><tr><td>Arabic No</td><td>7473</td></tr><tr><td>Reference</td><td>Book 97 Hadith 99</td></tr></tbody></table></div>
 

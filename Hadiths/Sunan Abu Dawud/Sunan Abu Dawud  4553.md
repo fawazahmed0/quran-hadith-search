@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মুছান্না (রহঃ) ...... উছমান ইবন আফফান ও যায়দ ইবন ছাবিত (রাঃ) থেকে বর্ণিত। তাঁরা অনিচ্ছাকৃত হত্যার দিয়াত সম্পর্কে বলেনঃ চল্লিশটি জাযা'আ, ত্রিশটি হিককা ও ত্রিশটি বিনতে লাবুন - দিয়াতস্বরূপ দিতে হবে। তাঁরা ভুলবশত হত্যার দিয়াত সম্পর্কে বলেনঃ ত্রিশটি হিককা, ত্রিশটি বিনতে লাবুন, বিশটি বনূ লাবুন (উট) এবং বিশটি বিনতে মাখায উট আদায় করতে হবে।
+। আব্দুল্লাহ ইবনু মাস‘ঊদ (রাঃ) বলেন, ইচ্ছাকৃত হত্যার সদৃশ (কতলে শিবহে আমদ)-এর দিয়াত হলোঃ পঁচিশটি চতুর্থ বছরে পদার্পণকারী উষ্ট্রী, পঁচিশটি পঞ্চম বছরে পদার্পণকারী উষ্ট্রী, পঁচিশটি তৃতীয় বছরে পদার্পণকারী উষ্ট্রী ও পঁচিশটি দ্বিতীয় বছরে পদার্পণকারী উষ্ট্রী।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4553</td></tr><tr><td>Arabic No</td><td>4553</td></tr><tr><td>Reference</td><td>Book 41 Hadith 60</td></tr></tbody></table></div>
 

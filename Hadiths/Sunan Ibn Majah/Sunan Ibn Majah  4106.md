@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৪১০৬। আসওয়াদ ইবনে ইয়াযীদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আবদুল্লাহ (রাঃ) বলেছেন, আমি তোমাদের নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ যার চিন্তার কেন্দ্রবিন্দু হবে আখেরাত, তার পার্থিব চিন্তার জন্য আল্লাহই যথেষ্ট হয়ে যান। আর যে ব্যক্তি দুনিয়ার চিন্তায় মোহগ্রস্ত থাকে তার যে কোন উপত্যকায় বা প্রান্তরে ধ্বংস হয়ে যাওয়াতে আল্লাহর কোন পরোয়া নাই।
+। আসওয়াদ ইবনে ইয়াযীদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আবদুল্লাহ (রাঃ) বলেছেন, আমি তোমাদের নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ যার চিন্তার কেন্দ্রবিন্দু হবে আখেরাত, তার পার্থিব চিন্তার জন্য আল্লাহই যথেষ্ট হয়ে যান। আর যে ব্যক্তি দুনিয়ার চিন্তায় মোহগ্রস্ত থাকে তার যে কোন উপত্যকায় বা প্রান্তরে ধ্বংস হয়ে যাওয়াতে আল্লাহর কোন পরোয়া নাই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4106</td></tr><tr><td>Arabic No</td><td>4106</td></tr><tr><td>Reference</td><td>Book 37 Hadith 7</td></tr></tbody></table></div>
 

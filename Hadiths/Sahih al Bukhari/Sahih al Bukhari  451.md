@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ এক ব্যক্তি তীর সাথে করে মসজিদে নাববী অতিক্রম করছিল। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ এর ফলাগুলো হাত দিয়ে ধরে রাখ। (৭০৭৩, ৭০৭৪; মুসলিম ৪৫/৩৪, হাঃ ২৬১৪, আহমাদ ১৪৩১৪) (আধুনিক প্রকাশনীঃ ৪৩২, ইসলামিক ফাউন্ডেশনঃ ৪৩৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ এক ব্যক্তি তীর সাথে করে মসজিদে নাববী অতিক্রম করছিল। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ এর ফলাগুলো হাত দিয়ে ধরে রাখ। (৭০৭৩, ৭০৭৪; মুসলিম ৪৫/৩৪, হাঃ ২৬১৪, আহমাদ ১৪৩১৪) (আধুনিক প্রকাশনীঃ ৪৩২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>451</td></tr><tr><td>Arabic No</td><td>451</td></tr><tr><td>Reference</td><td>Book 8 Hadith 100</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: (மஸ்ஜிதுந் நபவீ) பள்ளிவாசலில் ஒருவர் அம்புகளுடன் நடந்து சென்றார். அப்போது அவரிடம் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “அவற்றின் முனை களைப் பிடித்து (மறைத்து)க்கொள்” என்று சொன்னார்கள்.48 அத்தியாயம் : 8
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: (மஸ்ஜிதுந் நபவீ) பள்ளிவாசலில் ஒருவர் அம்புகளுடன் நடந்து சென்றார். அப்போது அவரிடம் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “அவற்றின் முனை களைப் பிடித்து (மறைத்து)க்கொள்” என்று சொன்னார்கள்.48 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>451</td></tr><tr><td>Arabic No</td><td>451</td></tr><tr><td>Reference</td><td>Book 8 Hadith 100</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Süfyan'dan şöyle nakledilmiştir: Amr'a Câbir İbn Abdullah'ın: "Bir adam Mescid-i Nebevî'ye geldi, yanında oklar taşıyordu. Allah Resulü Sallallahu Aleyhi ve Sellem ok'un ucundaki demir kısma sahip ol !' buyurdu" dediğini işitip işitmediğini sordum. Tekrar: 7073, 7074
+Süfyan'dan şöyle nakledilmiştir: Amr'a Câbir İbn Abdullah'ın: "Bir adam Mescid-i Nebevî'ye geldi, yanında oklar taşıyordu. Allah Resulü Sallallahu Aleyhi ve Sellem ok'un ucundaki demir kısma sahip ol !' buyurdu" dediğini işitip işitmediğini sordum. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>451</td></tr><tr><td>Arabic No</td><td>451</td></tr><tr><td>Reference</td><td>Book 8 Hadith 100</td></tr></tbody></table></div>
 

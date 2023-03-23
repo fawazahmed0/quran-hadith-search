@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ তাওবা .... আবূ উমামা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ যে ব্যক্তি উযূ (ওজু/অজু/অযু) করে ফরয নামায আদায়ের উদ্দেশ্যে মসজিদে যায়, সে ইহরামধারী হাজ্জীর অনুরূপ ছওয়াব প্রাপ্ত হবে। অপর পক্ষে যে ব্যক্তি কেবলমাত্র চাশতের নামায আদায়ের জন্য মসজিদে যায় সে উমরাহকারীর ন্যায় ছওয়াব প্রাপ্ত হবে। যে ব্যক্তি এক ওয়াক্ত নামায আদায়ের পর হতে পরের ওয়াক্ত নামায আদায় করাকালীন সময়ের মধ্যে কোনরূপ বেহুদা কাজ ও কথাবার্তায় লিপ্ত না হয়, তার আমলনামা সপ্তাকাশে লিপিবদ্ধ হবে, অর্থাৎ সে উচ্চমর্যাদার অধিকারী হবে।
+। আবূ উমামাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ফরয সালাতের জন্য অযু করে নিজ ঘর থেকে বের হবে, সে একজন ইহরামধারী হাজ্জীর সমান সাওয়াব পাবে। আর যে ব্যক্তি চাশতের সালাত আদায় করার জন্য বের হবে, সে একজন ‘উমরাহকারীর সমান সাওয়াব পাবে। আর যে ব্যক্তি এক ওয়াক্ত সালাত আদায়ের পর থেকে আরেক ওয়াক্ত সালাত আদায়ের মধ্যবর্তী সময়ে কোন বাজে কথা বা কাজ করবে না, তাকে ইল্লি­ন-এ লিপিবদ্ধ করা হবে (অর্থাৎ তার মর্যাদা সুউচ্চ হবে)।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>558</td></tr><tr><td>Arabic No</td><td>558</td></tr><tr><td>Reference</td><td>Book 2 Hadith 168</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Taubah] telah menceritakan kepada kami [Al-H
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Umame (r.a.)'den rivayet edilmiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur; "Evinden abdest alarak farz bir namaz'a çıkan kişinin sevabı, ihrama girip hac edenin sevabı gibidir. Bir kimse kuşluk namazı için bulunduğu yerden çıkar da bu çıkışındaki yorulmanın sebebi yalnız kuşluk namazı olursa o kişinin sevabı Umre yapanın sevabı gibidir. Aralarında boş ve batıl söz olmaksızın bir namaz'ın peşinden kılınan bir namaz illiyînde yazılır." Diğer tahric: Ebu Davud, tatavvu'; Ahmed b. Hanbel, V, 264, 268
+Ebu Umame (r.a.)'den rivayet edilmiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur; "Evinden abdest alarak farz bir namaz'a çıkan kişinin sevabı, ihrama girip hac edenin sevabı gibidir. Bir kimse kuşluk namazı için bulunduğu yerden çıkar da bu çıkışındaki yorulmanın sebebi yalnız kuşluk namazı olursa o kişinin sevabı Umre yapanın sevabı gibidir. Aralarında boş ve batıl söz olmaksızın bir namaz'ın peşinden kılınan bir namaz illiyînde yazılır." Diğer tahric: Ebu Davud, tatavvu'; Ahmed b. Hanbel, V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>558</td></tr><tr><td>Arabic No</td><td>558</td></tr><tr><td>Reference</td><td>Book 2 Hadith 168</td></tr></tbody></table></div>
 

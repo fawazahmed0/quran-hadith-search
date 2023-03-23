@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ নু‘আয়ম .... ইবনু মাওহাবের সূত্রে বর্ণনা করেছেন যে, উম্মু সালামাহ তাকে (ইবনু মাওহাবকে) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর লাল রং এর চুল দেখিয়েছেন। [৫৮৯৬] (আধুনিক প্রকাশনী- ৫৪৬৯, ইসলামিক ফাউন্ডেশন- ৫৩৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ নু‘আয়ম .... ইবনু মাওহাবের সূত্রে বর্ণনা করেছেন যে, উম্মু সালামাহ তাকে (ইবনু মাওহাবকে) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর লাল রং এর চুল দেখিয়েছেন। [৫৮৯৬] (আধুনিক প্রকাশনী- ৫৪৬৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5898</td></tr><tr><td>Arabic No</td><td>5898</td></tr><tr><td>Reference</td><td>Book 77 Hadith 115</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உஸ்மான் பின் அப்தில்லாஹ் பின் மவ்ஹப் (ரஹ்) அவர்கள் கூறியதாவது: உம்மு சலமா (ரலி) அவர்கள் நபி (ஸல்) அவர்களின் சிவப்பான முடியை எனக்குக் காட்டினார்கள்.100 அத்தியாயம் : 77
+உஸ்மான் பின் அப்தில்லாஹ் பின் மவ்ஹப் (ரஹ்) அவர்கள் கூறியதாவது: உம்மு சலமா (ரலி) அவர்கள் நபி (ஸல்) அவர்களின் சிவப்பான முடியை எனக்குக் காட்டினார்கள்.100 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5898</td></tr><tr><td>Arabic No</td><td>5898</td></tr><tr><td>Reference</td><td>Book 77 Hadith 115</td></tr></tbody></table></div>
 

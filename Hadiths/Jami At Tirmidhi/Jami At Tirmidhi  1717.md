@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭১৭। জাবির ইবনু আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমার ফুফু উহুদের যুদ্ধে আমার বাবার মৃতদেহ নিজেদের কবরস্থানে দাফনের উদ্দেশ্যে আনেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের ঘোষক ঘোষণা করলেন, “শহীদদেরকে তাদের নিহত হওয়ার জায়গায় ফিরিয়ে আন"। সহীহ, ইবনু মা-জাহ (২৫১৬) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। নুবাইহ নির্ভরযোগ্য বর্ণনাকারী।
+। জাবির ইবনু আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমার ফুফু উহুদের যুদ্ধে আমার বাবার মৃতদেহ নিজেদের কবরস্থানে দাফনের উদ্দেশ্যে আনেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের ঘোষক ঘোষণা করলেন, “শহীদদেরকে তাদের নিহত হওয়ার জায়গায় ফিরিয়ে আন"। সহীহ, ইবনু মা-জাহ (২৫১৬) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। নুবাইহ নির্ভরযোগ্য বর্ণনাকারী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1717</td></tr><tr><td>Arabic No</td><td>1717</td></tr><tr><td>Reference</td><td>Book 23 Hadith 51</td></tr></tbody></table></div>
 

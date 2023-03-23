@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮০৮। আলী ইবনু আবূ তালিব (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সোনার আংটি, কাসসী (রেশমী) কাপড়, রেশমী জীনপোষ (গদি) এবং যবের তৈরি মদ নিষিদ্ধ করেছেন। আবূল আহওয়াস (রাহঃ) বলেন, জি'আহ হল মিসরে যব হতে তৈরি করা এক প্রকার মদ। হাদীসের বক্তব্য সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আলী ইবনু আবূ তালিব (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সোনার আংটি, কাসসী (রেশমী) কাপড়, রেশমী জীনপোষ (গদি) এবং যবের তৈরি মদ নিষিদ্ধ করেছেন। আবূল আহওয়াস (রাহঃ) বলেন, জি'আহ হল মিসরে যব হতে তৈরি করা এক প্রকার মদ। হাদীসের বক্তব্য সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Matn</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Matn</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2808</td></tr><tr><td>Arabic No</td><td>2808</td></tr><tr><td>Reference</td><td>Book 43 Hadith 81</td></tr></tbody></table></div>
 

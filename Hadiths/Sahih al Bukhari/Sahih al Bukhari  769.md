@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে ‘ইশার সালাতে وَالتِّينِ وَالزَّيْتُونِ পড়তে শুনেছি। আমি তাঁর চেয়ে কারো সুন্দর কন্ঠ অথবা কিরাআত শুনিনি। (৭৬৭) (আধুনিক প্রকাশনীঃ ৭২৫, ইসলামিক ফাউন্ডেশনঃ ৭৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে ‘ইশার সালাতে وَالتِّينِ وَالزَّيْتُونِ পড়তে শুনেছি। আমি তাঁর চেয়ে কারো সুন্দর কন্ঠ অথবা কিরাআত শুনিনি। (৭৬৭) (আধুনিক প্রকাশনীঃ ৭২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 10 Hadith 163</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khallad bin Yahya] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இஷா தொழுகையில் (95ஆவது அத்தியாயமான) ‘வத்தீனி வஸ்ஸைத்தூனி’யை ஓதக் கேட்டுள்ளேன். நபி (ஸல்) அவர்களைவிட ‘அழகிய குர-ல்’ அல்லது ‘அழகிய ஓதல் முறையில்’ வேறெவரும் ஓத நான் கேட்டதில்லை. அத்தியாயம் : 10
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இஷா தொழுகையில் (95ஆவது அத்தியாயமான) ‘வத்தீனி வஸ்ஸைத்தூனி’யை ஓதக் கேட்டுள்ளேன். நபி (ஸல்) அவர்களைவிட ‘அழகிய குர-ல்’ அல்லது ‘அழகிய ஓதல் முறையில்’ வேறெவரும் ஓத நான் கேட்டதில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 10 Hadith 163</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মৃত্যু হয় তখন তাঁর বয়স হয়েছিল তেষট্টি বছর। ইবনু শিহাব বলেন, সা‘ঈদ ইবনুল মুসায়্যিব এভাবেই আমার কাছে বর্ণনা করেন। (৪৪৬৬, মুসলিম ৪৩/৩২ হাঃ ২৩৪৯) (আধুনিক প্রকাশনীঃ ৩২৭২, ইসলামিক ফাউন্ডেশনঃ ৩২৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মৃত্যু হয় তখন তাঁর বয়স হয়েছিল তেষট্টি বছর। ইবনু শিহাব বলেন, সা‘ঈদ ইবনুল মুসায়্যিব এভাবেই আমার কাছে বর্ণনা করেন। (৪৪৬৬, মুসলিম ৪৩/৩২ হাঃ ২৩৪৯) (আধুনিক প্রকাশনীঃ ৩২৭২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3536</td></tr><tr><td>Arabic No</td><td>3536</td></tr><tr><td>Reference</td><td>Book 61 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Yusuf] telah bercerita kepada kami [A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம் அறுபத்து மூன்றாம் வயதில் இறந்தார்கள். “சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்கள் இதே போன்ற ஹதீஸை எனக்கு அறிவித்தார்கள்” என்று இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறுகிறார்கள். அத்தியாயம் : 61
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம் அறுபத்து மூன்றாம் வயதில் இறந்தார்கள். “சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்கள் இதே போன்ற ஹதீஸை எனக்கு அறிவித்தார்கள்” என்று இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறுகிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3536</td></tr><tr><td>Arabic No</td><td>3536</td></tr><tr><td>Reference</td><td>Book 61 Hadith 45</td></tr></tbody></table></div>
 

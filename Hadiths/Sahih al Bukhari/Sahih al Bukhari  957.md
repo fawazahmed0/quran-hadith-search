@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘ঈদুল আযহা ও ‘ঈদুল ফিত্রের দিন সালাত আদায় করতেন। আর সালাতের পরে খুৎবাহ দিতেন। (৯৬৩; মুসলিম ৮/১, হাঃ ৮৮৮ আহমাদ ৪৬০২) (আধুনিক প্রকাশনীঃ ৯০৩, ইসলামিক ফাউন্ডেশনঃ ৯০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘ঈদুল আযহা ও ‘ঈদুল ফিত্রের দিন সালাত আদায় করতেন। আর সালাতের পরে খুৎবাহ দিতেন। (৯৬৩; মুসলিম ৮/১, হাঃ ৮৮৮ আহমাদ ৪৬০২) (আধুনিক প্রকাশনীঃ ৯০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>957</td></tr><tr><td>Arabic No</td><td>957</td></tr><tr><td>Reference</td><td>Book 13 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஹஜ்ஜுப் பெருநாளிலும் நோன்புப் பெருநாளிலும் (முத-ல்) தொழுவார்கள். தொழுகையை முடித்தபிறகே உரை (குத்பா) நிகழ்த்துவார்கள். அத்தியாயம் : 13
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஹஜ்ஜுப் பெருநாளிலும் நோன்புப் பெருநாளிலும் (முத-ல்) தொழுவார்கள். தொழுகையை முடித்தபிறகே உரை (குத்பா) நிகழ்த்துவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>957</td></tr><tr><td>Arabic No</td><td>957</td></tr><tr><td>Reference</td><td>Book 13 Hadith 9</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer (r.a.)'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem Kurban ve Ramazan bayramı namazlarını kıldırır ve namazdan sonra cemaate hitap ederdi. Tekrar: 963
+Abdullah İbn Ömer (r.a.)'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem Kurban ve Ramazan bayramı namazlarını kıldırır ve namazdan sonra cemaate hitap ederdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>957</td></tr><tr><td>Arabic No</td><td>957</td></tr><tr><td>Reference</td><td>Book 13 Hadith 9</td></tr></tbody></table></div>
 

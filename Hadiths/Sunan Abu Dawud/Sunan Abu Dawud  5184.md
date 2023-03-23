@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইবন মাসলামা (রহঃ) .... রাবীআ ইবন আবূ আবদুর রহমান এবং অন্যান্য আলিমদের পক্ষ হতে এ হাদীছে বর্ণিত হয়েছে যে, তখন উমার (রাঃ) আবূ মূসা (রাঃ)-কে বলেনঃ আমি তোমার কোনরূপ দোষারূপ করছি না, বরং আমি ভয় করছি যে, লোকেরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উপর কথাবার্তা বলছে! (অর্থাৎ তারা হাদীছ বর্ণনার ক্ষেত্রে সতর্কতা পরিহার করছে।)
+। রাবী‘আহ ইবনু আবূ আব্দুর রাহমান (রহঃ) এবং তাদের একাধিক আলিমের সূত্রে এ ঘটনাটি বর্ণিত। উমার (রাঃ) আবূ মূসা (রাঃ)-কে বলেন, জেনে রাখুন! আমি আপনাকে অপবাদ দিচ্ছি না। কিন্তু আমি ভয় করছি যে, মানুষ হয় তো দায়িত্বহীনভাবে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর হাদীস বর্ণনা করবে।[1]’ সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 43 Hadith 412</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ ও ইবনু আবূ আওফা (রাঃ) হতে বর্ণিত। তাঁরা বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গাধার গোশত খেতে নিষেধ করেছেন। [৩১৫৫, ৪২২১, ৪২২২] (আধুনিক প্রকাশনী- ৫১১৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5525</td></tr><tr><td>Arabic No</td><td>5525</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்களும் இப்னு அபீஅவ்ஃபா (ரலி) அவர்களும் கூறியதாவது: நபி (ஸல்) அவர்கள் (நாட்டுக்) கழுதைகளின் இறைச்சியை உண்ண வேண்டாமெனத் தடை செய்தார்கள்.44 அத்தியாயம் : 72
+பராஉ (ரலி) அவர்களும் இப்னு அபீஅவ்ஃபா (ரலி) அவர்களும் கூறியதாவது: நபி (ஸல்) அவர்கள் (நாட்டுக்) கழுதைகளின் இறைச்சியை உண்ண வேண்டாமெனத் தடை செய்தார்கள்.44 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5525</td></tr><tr><td>Arabic No</td><td>5525</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

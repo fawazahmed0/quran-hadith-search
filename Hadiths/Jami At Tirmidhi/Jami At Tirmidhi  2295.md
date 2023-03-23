@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২২৯৫। যাইদ ইবনু খালিদ আল-জুহানী (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি কি উত্তম সাক্ষী সম্পর্কে তোমাদেরকে অবহিত করবো না? তলব (আহবান) করার পূর্বেই যে ব্যক্তি স্বেচ্ছায় সাক্ষ্য দেয় সে হলো উত্তম সাক্ষী। সহীহ, মুসলিম।
+। যাইদ ইবনু খালিদ আল-জুহানী (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি কি উত্তম সাক্ষী সম্পর্কে তোমাদেরকে অবহিত করবো না? তলব (আহবান) করার পূর্বেই যে ব্যক্তি স্বেচ্ছায় সাক্ষ্য দেয় সে হলো উত্তম সাক্ষী। সহীহ, মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2295</td></tr><tr><td>Arabic No</td><td>2295</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আলী ইবন হাসান লানী (রহঃ) ... আবু যর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি প্রতি মাসে তিন দিন সাওম পালন করল সে যেন সারা বছর সাওম পালন করল। অতঃপর তিনি বললেন, আল্লাহ তা'আলা কুরআনে সত্যই বলেছেন, যে ব্যক্তি একটি ভাল কাজ করবে: তাকে তার দশ গুণ সওয়াব দেওয়া হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2409</td></tr><tr><td>Arabic No</td><td>2409</td></tr><tr><td>Reference</td><td>Book 22 Hadith 320</td></tr></tbody></table></div>
 
@@ -44,7 +44,7 @@ It was narrated that Abu Dharr said:"The Messenger of Allah said: 'Whoever fasts
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Ali bin Al Hasan Al Laniy] di Kufah, dari ['Abdurrahim bin Sulaiman] dari ['Ashim Al Ahwal] dari [Abu 'Utsman] dari [Abu Dzarr] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berpuasa tiga hari setiap bulan, sungguh ia -sama dengan- telah berpuasa Dahr seluruhnya." Kemudian ia berkata; 'Maha benar Allah -terhadap apa yang ada- di dalam kitab-Nya, Barangsiapa membawa amal yang baik, baginya (pahala) sepuluh kali lipat amalnya.' (Qs. Al An'am 6: 160)
+Telah mengabarkan kepada kami ['Ali bin Al Hasan Al Laniy] di Kufah, dari ['Abdurrahim bin Sulaiman] dari ['Ashim Al Ahwal] dari [Abu 'Utsman] dari [Abu Dzarr] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berpuasa tiga hari setiap bulan, sungguh ia -sama dengan- telah berpuasa Dahr seluruhnya." Kemudian ia berkata; 'Maha benar Allah -terhadap apa yang ada- di dalam kitab-Nya, Barangsiapa membawa amal yang baik, baginya (pahala) sepuluh kali lipat amalnya.' (Qs. Al An'am 6:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2409</td></tr><tr><td>Arabic No</td><td>2409</td></tr><tr><td>Reference</td><td>Book 22 Hadith 320</td></tr></tbody></table></div>
 

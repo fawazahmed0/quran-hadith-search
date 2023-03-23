@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘আশূরার দিনে কেউ ইচ্ছা করলে সওম পালন করতে পারে। (১৮৯২) (আধুনিক প্রকাশনীঃ ১৮৫৯, ইসলামিক ফাউন্ডেশনঃ ১৮৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘আশূরার দিনে কেউ ইচ্ছা করলে সওম পালন করতে পারে। (১৮৯২) (আধুনিক প্রকাশনীঃ ১৮৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2000</td></tr><tr><td>Arabic No</td><td>2000</td></tr><tr><td>Reference</td><td>Book 30 Hadith 105</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari ['Umar bin Muhammad] dari [Sali
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: ஆஷூரா நாளில் விரும்பினால் நோன்பு நோற்கலாம்! இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 30
+நபி (ஸல்) அவர்கள்கூறினார்கள்: ஆஷூரா நாளில் விரும்பினால் நோன்பு நோற்கலாம்! இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2000</td></tr><tr><td>Arabic No</td><td>2000</td></tr><tr><td>Reference</td><td>Book 30 Hadith 105</td></tr></tbody></table></div>
 

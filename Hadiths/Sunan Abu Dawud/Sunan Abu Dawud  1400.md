@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন মারযূক (রহঃ) ..... আবু হুরায়রা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম হতে বর্ণনা করেছেনঃ কুরআনের ত্রিশটি আয়াত বিশিষ্ট সূরা তাবারাকাল্লাযী (অর্থাৎ সূরা আল-মুলক) তিলাওয়াতকারীর জন্য সুপারিশ করবে। এমনকি তাকে মাফ করে দেয়া হবে (অর্থাৎ যে ব্যক্তি সূরা তাবারাকাল্লাযী তিলাওয়াত করবে, এটা তার জন্য সুপারিশকারী হবে। (তিরমিযী, নাসাঈ, ইবন মাজা)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কুরআনে তিরিশ আয়াতবিশিষ্ট একটি সূরাহ রয়েছে। সূরাহটি তার পাঠকের জন্য সুপারিশ করবে, শেষ পর্যন্ত তাকে ক্ষমা করে দেয়া হবে। সূরাহটি হচ্ছে ‘তাবারকাল্লাযী বিয়াদিহিল মুলক।’[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1400</td></tr><tr><td>Arabic No</td><td>1400</td></tr><tr><td>Reference</td><td>Book 6 Hadith 30</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated AbuHurayrah: The Prophet (ﷺ) said: A surah of the Qur'an containing thirty verses will intercede its reader till he will be forgiven. That is: "Blessed is He in Whose Hand is the sovereignty" (Surah 67)
+Narrated AbuHurayrah: The Prophet (ﷺ) said: A surah of the Qur'an containing thirty verses will intercede its reader till he will be forgiven. That is: "Blessed is He in Whose Hand is the sovereignty" (Surah)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1400</td></tr><tr><td>Arabic No</td><td>1400</td></tr><tr><td>Reference</td><td>Book 6 Hadith 30</td></tr></tbody></table></div>
 

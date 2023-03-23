@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন আমর (রহঃ) ..... আবূ উমামা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কোন ব্যক্তি তার ভাইয়ের জন্য সুপারিশ করে, পরে সে ব্যক্তি সুপারিশের জন্য তাকে কোন হাদিয়া দেয় এবং সুপারিশকারী তা গ্রহণও করে; এমতাবস্থায় হাদিয়া গ্রহণকারী যেন সুদের একটি বড় দরযার মধ্যে প্রবেশ করলো।
+। আবূ উমামাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোনো ব্যক্তি তার কোনো ভাইয়ের জন্য কোনো বিষয়ে সুপারিশ করার কারণে যদি সে তাকে কিছু উপহার দেয় এবং সে তা গ্রহণ করে তাহলে সে সুদের একটি বড় দরজা দিয়ে প্রবেশ করলো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3541</td></tr><tr><td>Arabic No</td><td>3541</td></tr><tr><td>Reference</td><td>Book 24 Hadith 126</td></tr></tbody></table></div>
 

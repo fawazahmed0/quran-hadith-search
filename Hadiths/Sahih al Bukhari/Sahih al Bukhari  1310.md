@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, তোমাদের কেউ যখন কোন জানাযা যেতে দেখবে, যদি সে তার সহযাত্রী না হয় তাহলে সে ততক্ষণ দাঁড়িয়ে থাকবে, যতক্ষণ না তা চলে যায় অথবা নামিয়ে না রাখা হয়। (১৩০৯, মুসলিম ১১/২৪, হাঃ ৯৫৯, আহমাদ ১১১৯৫) (আধুনিক প্রকাশনীঃ ১২২৪, ইসলামিক ফাউন্ডেশনঃ ১২৩২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, তোমাদের কেউ যখন কোন জানাযা যেতে দেখবে, যদি সে তার সহযাত্রী না হয় তাহলে সে ততক্ষণ দাঁড়িয়ে থাকবে, যতক্ষণ না তা চলে যায় অথবা নামিয়ে না রাখা হয়। (১৩০৯, মুসলিম ১১/২৪, হাঃ ৯৫৯, আহমাদ ১১১৯৫) (আধুনিক প্রকাশনীঃ ১২২৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>1310</td></tr><tr><td>Reference</td><td>Book 23 Hadith 68</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim] yakni putra Ibrahim telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: நீங்கள் பிரேதத்தைக் கண்டால் எழுந்து நில்லுங்கள். அதைப் பின் தொடர்ந்து செல்பவர், (அது கீழே) வைக்கப்படும்வரை உட்கார வேண்டாம். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 23
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: நீங்கள் பிரேதத்தைக் கண்டால் எழுந்து நில்லுங்கள். அதைப் பின் தொடர்ந்து செல்பவர், (அது கீழே) வைக்கப்படும்வரை உட்கார வேண்டாம். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>1310</td></tr><tr><td>Reference</td><td>Book 23 Hadith 68</td></tr></tbody></table></div>
 

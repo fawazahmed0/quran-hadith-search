@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মুল মু‘মিনীন ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, হে আল্লাহর রাসূল! জিহাদকে আমরা সর্বোত্তম ‘আমল মনে করি। কাজেই আমরা কি জিহাদ করবো না? তিনি বললেনঃ না, বরং তোমাদের জন্য সর্বোত্তম জিহাদ হল, হাজ্জে মাবরূর। (১৮৬১, ২৭৮৪, ২৮৭৫, ২৮৭৬) (আধুনিক প্রকাশনীঃ ১৪২১, ইসলামিক ফাউন্ডেশনঃ ১৪২৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মুল মু‘মিনীন ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, হে আল্লাহর রাসূল! জিহাদকে আমরা সর্বোত্তম ‘আমল মনে করি। কাজেই আমরা কি জিহাদ করবো না? তিনি বললেনঃ না, বরং তোমাদের জন্য সর্বোত্তম জিহাদ হল, হাজ্জে মাবরূর। (১৮৬১, ২৭৮৪, ২৮৭৫, ২৮৭৬) (আধুনিক প্রকাশনীঃ ১৪২১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 25 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdurrahman bin Al Mubarak] telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் (நபி (ஸல்) அவர்களிடம்), “அல்லாஹ்வின் தூதரே! அல்லாஹ்வின் பாதையில் போர் புரிவதையே (பெண்களா கிய) நாங்கள் சிறந்த செயலாகக் கருது கிறோம்; எனவே, நாங்களும் அறப்போர் புரியலாமா?” என்று கேட்டேன். அதற்கு நபி (ஸல்) அவர்கள் “(அவ்வாறு) இல்லை. எனினும், (பெண்களுக்குச்) சிறந்த அறப்போர், பாவச் செயல் எதுவும் கலவாத (ஒப்புக்கொள்ளப்பட்ட) ஹஜ்தான்” என்றார்கள். அத்தியாயம் : 25
+இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் (நபி (ஸல்) அவர்களிடம்), “அல்லாஹ்வின் தூதரே! அல்லாஹ்வின் பாதையில் போர் புரிவதையே (பெண்களா கிய) நாங்கள் சிறந்த செயலாகக் கருது கிறோம்; எனவே, நாங்களும் அறப்போர் புரியலாமா?” என்று கேட்டேன். அதற்கு நபி (ஸல்) அவர்கள் “(அவ்வாறு) இல்லை. எனினும், (பெண்களுக்குச்) சிறந்த அறப்போர், பாவச் செயல் எதுவும் கலவாத (ஒப்புக்கொள்ளப்பட்ட) ஹஜ்தான்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 25 Hadith 8</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdurrahman bin Al Mubarak] telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muminlerin annesi Aişe r.anha şöyle demiştir: "Ey Allah'ın Resulü! Biliyoruz ki en faziletli amel cihad'dır. Peki biz cihad edemeyecek miyiz?" Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem), "Hayır, [siz kadınlar için] en faziletli cihad hacc-ı mebrur (kabul olunmuş hac) dır" buyurmuştur. Tekrar: 1861, 2784, 2875, 2876
+Muminlerin annesi Aişe r.anha şöyle demiştir: "Ey Allah'ın Resulü! Biliyoruz ki en faziletli amel cihad'dır. Peki biz cihad edemeyecek miyiz?" Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem), "Hayır, [siz kadınlar için] en faziletli cihad hacc-ı mebrur (kabul olunmuş hac) dır" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 25 Hadith 8</td></tr></tbody></table></div>
 

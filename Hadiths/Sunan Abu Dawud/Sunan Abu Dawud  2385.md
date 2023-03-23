@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন ইউনুস ও ঈসা ইবন হাম্মদ ..... জাবির ইবন আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, উমার ইবনুল খাত্তাব (রাঃ) বলেন, একদা রোযা থাকাবস্থায় আমি আমার স্ত্রীর সাথে আনন্দ-ফুর্তি করাকালে তাকে চুম্বন করি। এরপর আমি বলি, ইয়া রাসূলাল্লাহ্! আজ আমি একটি গুরুতর কাজ করে ফেলেছি, রোযাবস্থায় আমি আমার স্ত্রীকে চুম্বন করেছি। তিনি বলেন, তুমি কি রোযা থাকাবস্থায় কুলি করো না? ঈসা ইবন হাম্মাদ তার হাদীসে বলেন, আমি বলি এতে তো কোন দোষ নেই।
+। জাবির ইবনু আব্দুল্লাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, উমার ইবনুল খাত্তাব (রাযি.) বলেন, একদা আমি কামোদ্দিপ্ত হয়ে সওম অবস্থায় স্ত্রীকে চুমু দিলাম। এরপর আমি বললাম, হে আল্লাহর রাসূল! আমি আজ এক গুরুতর কাজ করে ফেলেছি, আমি সওম অবস্থায় স্ত্রীকে চুমু দিয়েছি। তিনি বললেন, তুমি পানি দিয়ে কুলি করলে কি হতো? ঈসা ইবনু হাম্মাদের বর্ণনায় রয়েছেঃ আমি (উমার) বললাম, তাতে কোনো ক্ষতি হতো না। আমি বলিঃ তাতে অসুবিধা নেই।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2385</td></tr><tr><td>Arabic No</td><td>2385</td></tr><tr><td>Reference</td><td>Book 14 Hadith 73</td></tr></tbody></table></div>
 

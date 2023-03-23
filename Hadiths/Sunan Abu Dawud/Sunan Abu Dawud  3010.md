@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রাবী ইবন সুলায়মান মুআয্‌যিন (রহঃ) .... সাহল ইবন আবী হাছমা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বর যুদ্ধে প্রাপ্ত সমস্ত মালামাল দু'ভাগে বিভক্ত করেন। যার একাংশ তিনি তাঁর নিজের প্রয়োজন পূরণের জন্য গ্রহণ করেন এবং বাকী অংশটি আঠার ভাগে বিভক্ত করে মুসলিমদের মাঝে বন্টন করে দেন।
+। সাহল ইবনু আবূ হাসমা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বার এলাকা দু’ ভাগ করলেন। তিনি অর্ধেকটা পরিস্থিতি মোকাবিলা ও নিজ প্রয়োজন পূরণে রাখলেন এবং বাকি অর্ধেক মুসলিমদের মধ্যে বণ্টন করলেন। তিনি তাদের মধ্যে এটা আঠারোটি অংশে ভাগ করলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3010</td></tr><tr><td>Arabic No</td><td>3010</td></tr><tr><td>Reference</td><td>Book 20 Hadith 83</td></tr></tbody></table></div>
 

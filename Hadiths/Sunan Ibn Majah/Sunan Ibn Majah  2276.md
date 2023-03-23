@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/২২৭৬। উমার ইবনুল খাত্তাব (রাঃ) থেকে বর্ণিত। তিনি বলেন, সবশেষে সুদের আয়াত নাযিল হয়। কিন্তু আমাদেরকে বিস্তারিত ব্যাখ্যাদানের আগেই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইনতিকাল করেন। অতএব সূদ এবং (সূদের) সন্দেহ সৃষ্টিকারী জিনিস পরিহার করো।
+। উমার ইবনুল খাত্তাব (রাঃ) থেকে বর্ণিত। তিনি বলেন, সবশেষে সুদের আয়াত নাযিল হয়। কিন্তু আমাদেরকে বিস্তারিত ব্যাখ্যাদানের আগেই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইনতিকাল করেন। অতএব সূদ এবং (সূদের) সন্দেহ সৃষ্টিকারী জিনিস পরিহার করো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2276</td></tr><tr><td>Arabic No</td><td>2276</td></tr><tr><td>Reference</td><td>Book 12 Hadith 140</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মাসজিদুল হারাম ব্যতীত আমার এ মসজিদে সালাত আদায় করা অপরাপর মসজিদে এক হাজার সালাতের চেয়ে উত্তম। (মুসলিম ১৫/৯৩, হাঃ ১৩৯৪, আহমাদ ৭৭৩৭) (আধুনিক প্রকাশনীঃ ১১১৩, ইসলামিক ফাউন্ডেশনঃ ১১১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মাসজিদুল হারাম ব্যতীত আমার এ মসজিদে সালাত আদায় করা অপরাপর মসজিদে এক হাজার সালাতের চেয়ে উত্তম। (মুসলিম ১৫/৯৩, হাঃ ১৩৯৪, আহমাদ ৭৭৩৭) (আধুনিক প্রকাশনীঃ ১১১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1190</td></tr><tr><td>Arabic No</td><td>1190</td></tr><tr><td>Reference</td><td>Book 20 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: எனது இந்த (மஸ்ஜிதுந் நபவீ) பள்ளிவாசலில் தொழுவதானது, ஏனைய பள்ளிவாசல்களில் தொழும் ஆயிரம் தொழுகைகளைவிடச் சிறந்ததாகும். ஆனால், (மக்காவிலுள்ள) மஸ்ஜிதுல் ஹராம் பள்ளிவாசலைத் தவிர. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 20
+நபி (ஸல்) அவர்கள் கூறினார்கள்: எனது இந்த (மஸ்ஜிதுந் நபவீ) பள்ளிவாசலில் தொழுவதானது, ஏனைய பள்ளிவாசல்களில் தொழும் ஆயிரம் தொழுகைகளைவிடச் சிறந்ததாகும். ஆனால், (மக்காவிலுள்ள) மஸ்ஜிதுல் ஹராம் பள்ளிவாசலைத் தவிர. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1190</td></tr><tr><td>Arabic No</td><td>1190</td></tr><tr><td>Reference</td><td>Book 20 Hadith 3</td></tr></tbody></table></div>
 

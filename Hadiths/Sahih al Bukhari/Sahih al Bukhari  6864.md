@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সবার আগে মানুষের মাঝে যে বিষয়ের ফায়সালা করা হবে তা হলো হত্যা। [৬৫৩৩] (আধুনিক প্রকাশনী- ৬৩৮৬, ইসলামিক ফাউন্ডেশন- ৬৩৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সবার আগে মানুষের মাঝে যে বিষয়ের ফায়সালা করা হবে তা হলো হত্যা। [৬৫৩৩] (আধুনিক প্রকাশনী- ৬৩৮৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6864</td></tr><tr><td>Arabic No</td><td>6864</td></tr><tr><td>Reference</td><td>Book 87 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Al A'masy] dari [Abu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (மறுமை நாளில் மனித உரிமைகள் தொடர்பான வழக்குகளில்) முதன்முதலாக மனிதர்களிடையே வழங்கப்படும் தீர்ப்பு, கொலைகள் தொடர்பானதாகத்தான் இருக்கும். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 87
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (மறுமை நாளில் மனித உரிமைகள் தொடர்பான வழக்குகளில்) முதன்முதலாக மனிதர்களிடையே வழங்கப்படும் தீர்ப்பு, கொலைகள் தொடர்பானதாகத்தான் இருக்கும். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6864</td></tr><tr><td>Arabic No</td><td>6864</td></tr><tr><td>Reference</td><td>Book 87 Hadith 4</td></tr></tbody></table></div>
 

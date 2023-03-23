@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আল্ সাব্বাহ্ ..... আওয়াযী (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আবদুল্লাহ্ ইবন বুসর বর্ণিত হাদীসটি গোপন রাখতে চেষ্টা করতাম, কিন্তু এতদসত্ত্বেও আমি দেখতে পাই যে, তা অর্থাৎ শনিবারে রোযা না রাখার হাদীসটি বেশ প্রসার লাভ করেছে। ইমাম আবূ দাঊদ (রহঃ) বলেন, মালিক ইবন আনাস (রহঃ) বলেছেন, এ হাদীসটি মিথ্যা হাদীস।
+। আল-আওযাঈ (রহ.) সূত্রে বর্ণিত। তিনি বলেন, শনিবারের সওম সম্পর্কিত ইবনু বুসর বর্ণিত হাদীসটি আমি গোপন রেখেছিলাম। কিন্তু আমি দেখলাম যে, তা ব্যাপকভাবে প্রসার পেয়েছে। ইমাম আবূ দাঊদ (রহ.) বলেন, ইমাম মালিক (রহ.) বলেছেন, এ হাদীসটি মিথ্যা।[1] সহীহ মাকতূ‘।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 14 Hadith 112</td></tr></tbody></table></div>
 

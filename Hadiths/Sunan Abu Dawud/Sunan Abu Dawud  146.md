@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবনু মুহাম্মাদ ..... ছাওবান (রাঃ) হতে বর্ণিত। একদা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম শত্রুদের মোকাবেলার জন্য একদল সৈন্য পাঠান। তারা ঠান্ডায় আক্রান্ত হয়। অতঃপর তারা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের নিকট ফিরে এলে তিনি তাদেরকে পাগড়ী ও মোজার উপর মাসেহ্ করার অনুমতি প্রদান করেন।
+। সাওবান (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি ছোট সেনাদল প্রেরণ করলেন। তারা (যাত্রা পথে) ঠান্ডায় আক্রান্ত হয়। অতঃপর তারা যখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট ফিরে আসলেন তখন তিনি তাদেরকে পাগড়ী ও মোজার উপর মাসাহ্ করার নির্দেশ দিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
 

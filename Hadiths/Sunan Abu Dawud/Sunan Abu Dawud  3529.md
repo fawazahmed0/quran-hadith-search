@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ ইবন উমার (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষের সন্তান তার উৎপাদিত ফসলের মত, বরং তা উত্তম উপার্জন। অতএব, তোমরা তাদের উপার্জন হতে ভক্ষণ করবে।
+। ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তির সন্তান তার উপার্জনের অন্তর্ভুক্ত বরং তার সর্বোত্তম উপার্জন। সুতরাং তোমরা তাদের সম্পদ থেকে ভোগ করতে পারো।[1] ইমাম আবূ দাঊদ (রহঃ) বলেন, হাম্মাদ ইবনু আবূ সুলায়মানের বর্ণনায় রয়েছেঃ তোমরা মুখাপেক্ষী হয়ে পড়লে খাবে। এ কথাটুকু প্রত্যাখ্যাত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3529</td></tr><tr><td>Arabic No</td><td>3529</td></tr><tr><td>Reference</td><td>Book 24 Hadith 114</td></tr></tbody></table></div>
 

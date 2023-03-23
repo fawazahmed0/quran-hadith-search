@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আদী ইবনু হাতিম (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি (প্রশিক্ষণপ্রাপ্ত কুকুর সম্পর্কে) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে প্রশ্ন করলে তিনি বলেনঃ তুমি যখন তোমার প্রশিক্ষণপ্রাপ্ত কুকুর শিকার ধরতে ছেড়ে দাও, তখন সে হত্যা করলে তা তুমি খেতে পার। আর সে তার অংশবিশেষ খেয়ে ফেললে তুমি তা খাবে না। কারণ সে তা নিজের জন্যই শিকার করেছে। আমি বললামঃ কখনো কখনো আমি আমার কুকুর (শিকারে) পাঠিয়ে দেই, অতঃপর তার সঙ্গে অন্য এক কুকুরও দেখতে পাই (এমতাবস্থায় শিকারকৃত প্রাণীর কী হুকুম)? তিনি বললেনঃ তবে খেও না। কারণ তুমি বিসমিল্লাহ্ বলেছ কেবল তোমার কুকুরের বেলায়, অন্য কুকুরের বেলায় বিসমিল্লাহ্ বলনি। (২০৫৪, ৫৪৭৫, ৫৪৭৬, ৫৪৭৭, ৫৪৮৩ হতে ৫৪৮৭,৭৩৯৭ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ১৭০, ইসলামিক ফাউন্ডেশনঃ ১৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আদী ইবনু হাতিম (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি (প্রশিক্ষণপ্রাপ্ত কুকুর সম্পর্কে) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে প্রশ্ন করলে তিনি বলেনঃ তুমি যখন তোমার প্রশিক্ষণপ্রাপ্ত কুকুর শিকার ধরতে ছেড়ে দাও, তখন সে হত্যা করলে তা তুমি খেতে পার। আর সে তার অংশবিশেষ খেয়ে ফেললে তুমি তা খাবে না। কারণ সে তা নিজের জন্যই শিকার করেছে। আমি বললামঃ কখনো কখনো আমি আমার কুকুর (শিকারে) পাঠিয়ে দেই, অতঃপর তার সঙ্গে অন্য এক কুকুরও দেখতে পাই (এমতাবস্থায় শিকারকৃত প্রাণীর কী হুকুম)? তিনি বললেনঃ তবে খেও না। কারণ তুমি বিসমিল্লাহ্ বলেছ কেবল তোমার কুকুরের বেলায়, অন্য কুকুরের বেলায় বিসমিল্লাহ্ বলনি। (২০৫৪, ৫৪৭৫, ৫৪৭৬, ৫৪৭৭, ৫৪৮৩ হতে ৫৪৮৭,৭৩৯৭ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ১৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>175</td></tr><tr><td>Arabic No</td><td>175</td></tr><tr><td>Reference</td><td>Book 4 Hadith 41</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அதீ பின் ஹாத்திம் (ரலி) அவர்கள் கூறியாவது: (நாய் மூலம் வேட்டையாடுவதைப் பற்றி) நான் நபி (ஸல்) அவர்களிடம் கேட்டேன். அதற்கு அவர்கள் “வேட்டைக்காகப் பயிற்சி அளிக்கப்பட்ட நாயை நீங்கள் அனுப்பிவைத்து, அது (பிராணிகளைக் கவ்விக்) கொன்றுவிட்டாலும் அதை நீங்கள் உண்ணலாம். (அந்தப் பிராணியை) நாய் தின்றிருக்குமானால் அதை நீங்கள் உண்ணாதீர்கள். ஏனெனில், அது (அப்பிராணியை) தனக்காகவே (கவ்வி) வைத்துக் கொண்டுள்ளது” என்று கூறினார்கள். நான், “எனது நாயை வேட்டையாட அனுப்புகிறேன்; அதனுடன் மற்றொரு நாயையும் காண்கிறேன் (இவ்விரண்டில் பிராணியைப் பிடித்தது எது என்று எனக்குத் தெரியாது. இந்நிலையில் என்ன செய்வது)?” என்று கேட்டேன். நபி (ஸல்) அவர்கள், “நீங்கள் உங்கள் நாயைத்தான் அல்லாஹ்வின் பெயர் (பிஸ்மில்லாஹ்) கூறி அனுப்பினீர்களே தவிர, மற்றொரு நாயை அல்லாஹ்வின் பெயர் கூறி அனுப்பவில்லை; எனவே, (அதை) உண்ணாதீர்கள்” என்று சொன்னார்கள்.18 அத்தியாயம் : 4
+அதீ பின் ஹாத்திம் (ரலி) அவர்கள் கூறியாவது: (நாய் மூலம் வேட்டையாடுவதைப் பற்றி) நான் நபி (ஸல்) அவர்களிடம் கேட்டேன். அதற்கு அவர்கள் “வேட்டைக்காகப் பயிற்சி அளிக்கப்பட்ட நாயை நீங்கள் அனுப்பிவைத்து, அது (பிராணிகளைக் கவ்விக்) கொன்றுவிட்டாலும் அதை நீங்கள் உண்ணலாம். (அந்தப் பிராணியை) நாய் தின்றிருக்குமானால் அதை நீங்கள் உண்ணாதீர்கள். ஏனெனில், அது (அப்பிராணியை) தனக்காகவே (கவ்வி) வைத்துக் கொண்டுள்ளது” என்று கூறினார்கள். நான், “எனது நாயை வேட்டையாட அனுப்புகிறேன்; அதனுடன் மற்றொரு நாயையும் காண்கிறேன் (இவ்விரண்டில் பிராணியைப் பிடித்தது எது என்று எனக்குத் தெரியாது. இந்நிலையில் என்ன செய்வது)?” என்று கேட்டேன். நபி (ஸல்) அவர்கள், “நீங்கள் உங்கள் நாயைத்தான் அல்லாஹ்வின் பெயர் (பிஸ்மில்லாஹ்) கூறி அனுப்பினீர்களே தவிர, மற்றொரு நாயை அல்லாஹ்வின் பெயர் கூறி அனுப்பவில்லை; எனவே, (அதை) உண்ணாதீர்கள்” என்று சொன்னார்கள்.18 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>175</td></tr><tr><td>Arabic No</td><td>175</td></tr><tr><td>Reference</td><td>Book 4 Hadith 41</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Adiy İbn Hatim r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'e soru sordum o da bana şöyle cevap verdi: (Av için) eğitilmiş köpeğini ava gönderirsen ve köpek avı öldürürse o avı ye. Şayet köpek o avdan yerse sen yeme, çünkü (bu durumda) köpek, avı kendisi için tutmuştur". Ben şöyle dedim: "Ben köpeğimi gönderdiğimde yanında başka bir köpek daha bulursam (ne yapayım)?" Nebi (Sallallahu aleyhi ve Sellem): O avı yeme. Çünkü sen yalnızca kendi köpeğin için (onu gönderirken) besmele çektin, başka bir köpek için besmele çekmedin. Tekrar: 2054, 5475, 5476, 5477, 5483, 5484, 5485, 5486, 5487, 7397
+Adiy İbn Hatim r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'e soru sordum o da bana şöyle cevap verdi: (Av için) eğitilmiş köpeğini ava gönderirsen ve köpek avı öldürürse o avı ye. Şayet köpek o avdan yerse sen yeme, çünkü (bu durumda) köpek, avı kendisi için tutmuştur". Ben şöyle dedim: "Ben köpeğimi gönderdiğimde yanında başka bir köpek daha bulursam (ne yapayım)?" Nebi (Sallallahu aleyhi ve Sellem): O avı yeme. Çünkü sen yalnızca kendi köpeğin için (onu gönderirken) besmele çektin, başka bir köpek için besmele çekmedin. Tekrar: 2054, 5475, 5476, 5477, 5483
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>175</td></tr><tr><td>Arabic No</td><td>175</td></tr><tr><td>Reference</td><td>Book 4 Hadith 41</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭১৩। জাবির (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কেউ কিছু লিখলে (শুকানোর জন্য) তার ওপর যেন কিছু ধুলা ছিটিয়ে দেয়। কেননা তা লক্ষ্য পূরণে পরিপূরক। যঈফ, মিশকাত (৫৬৫৭), যঈফা (১৭৩৮) আবূ ঈসা বলেন, এ হাদীসটি মুনকার। আমরা শুধুমাত্র উপরোক্ত সূত্রেই আবু্য যুবাইর হতে এ হাদীস জেনেছি। আমার মতে হামযা হলেন আমর আন-নাসীবীর পুত্র এবং তিনি হাদীস শাস্ত্রে দুর্বল।
+। জাবির (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কেউ কিছু লিখলে (শুকানোর জন্য) তার ওপর যেন কিছু ধুলা ছিটিয়ে দেয়। কেননা তা লক্ষ্য পূরণে পরিপূরক। যঈফ, মিশকাত (৫৬৫৭), যঈফা (১৭৩৮) আবূ ঈসা বলেন, এ হাদীসটি মুনকার। আমরা শুধুমাত্র উপরোক্ত সূত্রেই আবু্য যুবাইর হতে এ হাদীস জেনেছি। আমার মতে হামযা হলেন আমর আন-নাসীবীর পুত্র এবং তিনি হাদীস শাস্ত্রে দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2713</td></tr><tr><td>Arabic No</td><td>2713</td></tr><tr><td>Reference</td><td>Book 42 Hadith 26</td></tr></tbody></table></div>
 

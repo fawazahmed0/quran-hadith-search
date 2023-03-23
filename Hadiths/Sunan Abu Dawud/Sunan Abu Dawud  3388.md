@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ (রহঃ) ...... আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি, আম্মার এবং সা'দ (রাঃ) বদরের যুদ্ধে প্রাপ্ত সম্পদে শরীক হই। তিনি আরো বলেনঃ এরপর সা'দ দু'জন বন্দী নিয়ে আসেন এবং আমি ও আম্মার (রাঃ) কিছুই আনি নি।
+। ‘আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি, ‘আম্মার ও সা‘দ (রাঃ) এ মর্মে চুক্তি করি যে, ‘আমরা বদরের যুদ্ধে যা পাবো, তাতে ‘আমরা সমান অংশীদার হবো। তিনি বলেন, সা‘দ দু’জন দুশমনকে বন্দী করে আনলেন কিন্তু আমি ও ‘আম্মার কিছুই লাভ করতে পারিনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
 

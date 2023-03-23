@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৩. হাসান ইবন আবিল-হাসান বসরী ও মুহাম্মদ ইবন শিরন (রহঃ) হইতে বর্ণিত, এক ব্যক্তি মৃত্যুর সময় তাহার ছয়জন ক্রীতদাসকে আযাদ করিল রাসূলুল্লাহ সাল্লাল্লাহু আলায়হি ওয়া সাল্লামের যুগে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাহাদের মধ্যে (নির্বাচনের উদ্দেশ্যে) লটারির ব্যবস্থা করিলেন এবং (লটারির মাধ্যমে) সেই ক্রীতদাসদের মধ্য হইতে এক-তৃতীয়াংশ (অর্থাৎ দুইজন) আযাদ করা হইল। মালিক (রহঃ) বলেনঃ আমার নিকট এই মর্মে রেওয়ায়ত পৌছিয়াছে যে, সেই ব্যক্তির নিকট ক্রীতদাস হাড়া জন্য মাল ছিল না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1465</td></tr><tr><td>Arabic No</td><td>1465</td></tr><tr><td>Reference</td><td>Book 38 Hadith 2</td></tr></tbody></table></div>
 

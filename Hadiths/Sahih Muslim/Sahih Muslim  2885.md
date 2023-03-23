@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৭৭৫, আন্তর্জাতিক নাম্বারঃ ১২০২ ২৭৭৫-(৮৭/১২০২) আবূ বাকর ইবনু আবূ শায়বাহ, যুহায়র ইবনু হারব ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম অবস্থায় শিঙ্গা লাগিয়ে ছিলেন। (ইসলামিক ফাউন্ডেশন ২৭৫২, ইসলামীক সেন্টার ২৭৫০)
+আবূ বাকর ইবনু আবূ শায়বাহ, যুহায়র ইবনু হারব ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম অবস্থায় শিঙ্গা লাগিয়ে ছিলেন। (ইসলামিক ফাউন্ডেশন ২৭৫২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2885</td></tr><tr><td>Arabic No</td><td>1202</td></tr><tr><td>Reference</td><td>Book 15 Hadith 95</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் "இஹ்ராம்" கட்டியிருந்த நிலையில் (தமக்கேற்பட்டிருந்த ஒற்றைத் தலைவலியின் காரணத்தால்) குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள். இந்த ஹதீஸ் ஆறு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 15
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் "இஹ்ராம்" கட்டியிருந்த நிலையில் (தமக்கேற்பட்டிருந்த ஒற்றைத் தலைவலியின் காரணத்தால்) குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள். இந்த ஹதீஸ் ஆறு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2885</td></tr><tr><td>Arabic No</td><td>1202</td></tr><tr><td>Reference</td><td>Book 15 Hadith 95</td></tr></tbody></table></div>
 

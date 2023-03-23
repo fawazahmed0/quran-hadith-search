@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন আমর (রহঃ) .... সুরাকা ইবন মালিক ইবন জু'শুম মুদলাজী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের খুতবা দেয়ার সময় বলেনঃ তোমাদের মাঝে সে ব্যক্তি উত্তম, যে তার কাওমের উপর জুলুম হতে দেয় না, যতক্ষণ সে গুনাহে লিপ্ত না হয়।
+। সুরাকাহ ইবনু মালিক ইবনু জু‘শাম আল-মুদলিজী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের উদ্দেশ্যে ভাষণ দেয়ার সময় বলেনঃ যে ব্যক্তি পাপাচারে লিপ্ত না হয়ে তার গোত্রের উপর নির্যাতন হওয়া প্রতিরোধ করে সে-ই তোমাদের মধ্যে সর্বোত্তম। ইমাম আবূ দাঊদ (রহঃ) বলেন, আইয়ূব ইবনু সুয়াইদ দুর্বল বর্ণনাকারী।[1] দুর্বলঃ মিশকাত হা/ ৪৯০৬।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5120</td></tr><tr><td>Arabic No</td><td>5120</td></tr><tr><td>Reference</td><td>Book 43 Hadith 348</td></tr></tbody></table></div>
 

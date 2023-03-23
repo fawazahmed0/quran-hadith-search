@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাফর ইবনু মূসাফির .... নাফে (রহঃ) থেকে ইবনু উমার (রাঃ) এর সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম পায়খানা হতে বের হওয়ার পর জামাল কূপের, নিকট এক ব্যক্তি সাক্ষাত হয় সে তাকে সালাম করলে তিনি সলামের জবাব দেননি। অতঃপর তিনি একটি প্রাচীরের নিকট গিয়ে তার উপর হাত রাখেন এবং স্বীয় মুখমন্ডল ও হাত মাসেহ্ করেন। অতঃপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ঐ ব্যক্তির সালামের জবাব দেন।
+। ইবনু ‘উমার রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পায়খানা থেকে ফেরার পথে জামাল নামক কূপের নিকট এক ব্যক্তির সাথে তাঁর সাক্ষাত হয়। লোকটি তাঁকে সালাম দিল। কিন্তু রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার জবাব দিলেন না। তিনি একটি দেয়াল পর্যন্ত এসে দেয়ালে হাত রাখলেন, তারপর মুখমন্ডল ও হাত মাসাহ্ করে লোকটির সালামের জবাব দিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>331</td></tr><tr><td>Arabic No</td><td>331</td></tr><tr><td>Reference</td><td>Book 1 Hadith 331</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ja'far bin Musafir] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nafi' İbn Ömer (r.a.)'ın şöyle dediğini rivayet etmiştir: Resulullah (Sallallahu aleyhi ve Sellem) def-i hacetten gelmişti ki, Bi’r-i Cemel'in yanında bir adam (Ebu Cuheym) kendisi ile karşılaşıp selam verdi. Resulullah (Sallallahu aleyhi ve Sellem) hemen selamını almadı. Ancak duvara yönelip de, elini üzerine koyup yüzünü ve ellerini meshettikten sonra o zatın selamını aldı. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; Ahmed b. Hanbel IV, 169
+Nafi' İbn Ömer (r.a.)'ın şöyle dediğini rivayet etmiştir: Resulullah (Sallallahu aleyhi ve Sellem) def-i hacetten gelmişti ki, Bi’r-i Cemel'in yanında bir adam (Ebu Cuheym) kendisi ile karşılaşıp selam verdi. Resulullah (Sallallahu aleyhi ve Sellem) hemen selamını almadı. Ancak duvara yönelip de, elini üzerine koyup yüzünü ve ellerini meshettikten sonra o zatın selamını aldı. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; Ahmed b. Hanbel IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>331</td></tr><tr><td>Arabic No</td><td>331</td></tr><tr><td>Reference</td><td>Book 1 Hadith 331</td></tr></tbody></table></div>
 

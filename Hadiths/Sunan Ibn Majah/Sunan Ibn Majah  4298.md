@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/৪২৯৮। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দুর্ভাগা হতভাগা ব্যতীত কেউ জাহান্নামে যাবে না। জিজ্ঞেস করা হলো, হে আল্লাহর রাসূল! হতভাগা কে? তিনি বলেনঃ যে ব্যক্তি আল্লাহর আনুগত্যমূলক কাজ করেনি এবং তাঁর অবাধ্যাচারিতা ত্যাগ করেনি।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দুর্ভাগা হতভাগা ব্যতীত কেউ জাহান্নামে যাবে না। জিজ্ঞেস করা হলো, হে আল্লাহর রাসূল! হতভাগা কে? তিনি বলেনঃ যে ব্যক্তি আল্লাহর আনুগত্যমূলক কাজ করেনি এবং তাঁর অবাধ্যাচারিতা ত্যাগ করেনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4298</td></tr><tr><td>Arabic No</td><td>4298</td></tr><tr><td>Reference</td><td>Book 37 Hadith 199</td></tr></tbody></table></div>
 

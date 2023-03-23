@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১০৩১। আবদুল্লাহ ইবনু আবদুর রহমান থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট আসেন এবং আমাদেরকে সাথে নিয়ে আবদুল আশহাল গোত্রের মসজিদে সালাত পড়েন। সিজদা করাকালে আমি তাঁকে তাঁর উভয় হাত তাঁর কাপড়ের উপর রাখতে দেখেছি।
+। আবদুল্লাহ ইবনু আবদুর রহমান থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট আসেন এবং আমাদেরকে সাথে নিয়ে আবদুল আশহাল গোত্রের মসজিদে সালাত পড়েন। সিজদা করাকালে আমি তাঁকে তাঁর উভয় হাত তাঁর কাপড়ের উপর রাখতে দেখেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1031</td></tr><tr><td>Arabic No</td><td>1031</td></tr><tr><td>Reference</td><td>Book 5 Hadith 229</td></tr></tbody></table></div>
 

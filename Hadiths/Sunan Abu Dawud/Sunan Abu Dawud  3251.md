@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আলা (রহঃ) ... সা'দ ইবন উবায়দা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা ইবন উমার (রাঃ) জনৈক ব্যক্তিকে কা'বার নামে কসম করতে শুনে তাকে বলেন যে, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি আল্লাহ্‌ ব্যতীত অন্যের নামে কসম খেল, সে যেন (আল্লাহ্‌র সঙ্গে) শরীক করলো।
+। সাঈদ ইবনু আবূ উবাইদাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আব্দুল্লাহ ইবনু ‘উমার (রাঃ) এক ব্যক্তিকে এভাবে শপথ করতে শুনলেনঃ ‘‘না! এ কা‘বার শপথ।’’ তখন ইবনু ‘উমার (রাঃ) তাকে বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি আল্লাহ ছাড়া অন্য কিছুর নামে শপথ করে সে শির্ক করলো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3251</td></tr><tr><td>Arabic No</td><td>3251</td></tr><tr><td>Reference</td><td>Book 22 Hadith 10</td></tr></tbody></table></div>
 

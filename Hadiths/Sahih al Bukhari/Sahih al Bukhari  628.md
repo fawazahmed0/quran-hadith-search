@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মালিক ইবনু হুয়াইরিস (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আমার গোত্রের কয়েকজন লোকের সঙ্গে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এলাম এবং আমরা তাঁর নিকট বিশ রাত অবস্থান করলাম। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অত্যন্ত দয়ালু ও বন্ধু বৎসল ছিলেন। তিনি যখন আমাদের মধ্যে নিজ পরিজনের নিকট ফিরে যাওয়ার আগ্রহ লক্ষ্য করলেন, তখন তিনি আমাদের বললেনঃ তোমরা পরিজনের নিকট ফিরে যাও এবং তাদের মধ্যে বসবাস কর, আর তাদের দ্বীন শিক্ষা দিবে এবং সালাত আদায় করবে। যখন সালাত উপস্থিত হয়, তখন তোমাদের কেউ আযান দিবে এবং তোমাদের মধ্যে যে ব্যক্তি বয়সে বড় সে ইমামত করবে। (৬৩০, ৬৩১, ৬৫৮, ৬৮৫, ৮১৯, ২৮৪৮, ৬০০৮, ৭২৪৬; মুসলিম ৫/৫৩, হাঃ ৬৭৪, আহমাদ ১৫৫৯৮) (আধুনিক প্রকাশনীঃ ৫৯২, ইসলামিক ফাউন্ডেশনঃ ৬০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মালিক ইবনু হুয়াইরিস (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আমার গোত্রের কয়েকজন লোকের সঙ্গে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এলাম এবং আমরা তাঁর নিকট বিশ রাত অবস্থান করলাম। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অত্যন্ত দয়ালু ও বন্ধু বৎসল ছিলেন। তিনি যখন আমাদের মধ্যে নিজ পরিজনের নিকট ফিরে যাওয়ার আগ্রহ লক্ষ্য করলেন, তখন তিনি আমাদের বললেনঃ তোমরা পরিজনের নিকট ফিরে যাও এবং তাদের মধ্যে বসবাস কর, আর তাদের দ্বীন শিক্ষা দিবে এবং সালাত আদায় করবে। যখন সালাত উপস্থিত হয়, তখন তোমাদের কেউ আযান দিবে এবং তোমাদের মধ্যে যে ব্যক্তি বয়সে বড় সে ইমামত করবে। (৬৩০, ৬৩১, ৬৫৮, ৬৮৫, ৮১৯, ২৮৪৮, ৬০০৮, ৭২৪৬; মুসলিম ৫/৫৩, হাঃ ৬৭৪, আহমাদ ১৫৫৯৮) (আধুনিক প্রকাশনীঃ ৫৯২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>628</td></tr><tr><td>Arabic No</td><td>628</td></tr><tr><td>Reference</td><td>Book 10 Hadith 25</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'allaa bin Asad] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மா-க் பின் அல்ஹுவைரிஸ் (ரலி) அவர்கள் கூறியதாவது: நான் எங்கள் (பனூ லைஸ்) கூட்டத்தார் சிலருடன் (தபூக் போர் ஆயத்தம் நடந்துகொண்டிருக்கையில்) நபி (ஸல்) அவர்களிடம் வந்தேன். நாங்கள் அவர்களிடம் இருபது நாட்கள் தங்கினோம். -நபி (ஸல்) அவர்கள் இரக்க குணமுடையவ ராகவும் மென்மையானவராகவும் இருந் தார்கள்.- (பிறகு) எங்கள் குடும்பத்தாரிடம் நாங்கள் (திரும்பிச்) செல்ல ஆசைப்படு வதைக் கண்டபோது நபியவர்கள், “நீங்கள் (உங்கள் குடும்பத்தாரிடம்) திரும்பிச் சென்று அவர்களிடையே (தங்கி) இருங் கள்; அவர்களுக்குக் கற்றுக் கொடுங்கள்; (என்னை எவ்வாறு தொழக் கண்டீர்களோ அவ்வாறே) நீங்கள் தொழுங்கள்; தொழுகை நேரம் வந்ததும் உங்களுக்காக உங்களில் ஒருவர் பாங்கு சொல்லட்டும்; உங்களில் (வயதில்) பெரியவர் தலைமை தாங்கித் தொழுவிக்கட்டும்” என்று கூறினார்கள். அத்தியாயம் : 10
+மா-க் பின் அல்ஹுவைரிஸ் (ரலி) அவர்கள் கூறியதாவது: நான் எங்கள் (பனூ லைஸ்) கூட்டத்தார் சிலருடன் (தபூக் போர் ஆயத்தம் நடந்துகொண்டிருக்கையில்) நபி (ஸல்) அவர்களிடம் வந்தேன். நாங்கள் அவர்களிடம் இருபது நாட்கள் தங்கினோம். -நபி (ஸல்) அவர்கள் இரக்க குணமுடையவ ராகவும் மென்மையானவராகவும் இருந் தார்கள்.- (பிறகு) எங்கள் குடும்பத்தாரிடம் நாங்கள் (திரும்பிச்) செல்ல ஆசைப்படு வதைக் கண்டபோது நபியவர்கள், “நீங்கள் (உங்கள் குடும்பத்தாரிடம்) திரும்பிச் சென்று அவர்களிடையே (தங்கி) இருங் கள்; அவர்களுக்குக் கற்றுக் கொடுங்கள்; (என்னை எவ்வாறு தொழக் கண்டீர்களோ அவ்வாறே) நீங்கள் தொழுங்கள்; தொழுகை நேரம் வந்ததும் உங்களுக்காக உங்களில் ஒருவர் பாங்கு சொல்லட்டும்; உங்களில் (வயதில்) பெரியவர் தலைமை தாங்கித் தொழுவிக்கட்டும்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>628</td></tr><tr><td>Arabic No</td><td>628</td></tr><tr><td>Reference</td><td>Book 10 Hadith 25</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mu'allaa bin Asad] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Malik İbn-i Huveyris'ten şöyle nakledilmiştir: Kabilemden bir grup insanla birlikte Nebi Sallallahu Aleyhi ve Sellem'in yanına geldim.Yirmi gün yanında kaldım. Çok merhametli ve yumuşak kalpli biriydi. Ailelerimize olan özlemimizi fark edince bize: 'Geri dönün, onların yanında olun, onlara dinlerini öğretin ve namaz kılın. Namaz vakti girince biriniz ezan okusun, en büyüğünüz de namaz kıldırsın' buyur­du. Tekrar: 630, 631, 658, 685, 819, 2848, 6008, 7246
+Malik İbn-i Huveyris'ten şöyle nakledilmiştir: Kabilemden bir grup insanla birlikte Nebi Sallallahu Aleyhi ve Sellem'in yanına geldim.Yirmi gün yanında kaldım. Çok merhametli ve yumuşak kalpli biriydi. Ailelerimize olan özlemimizi fark edince bize: 'Geri dönün, onların yanında olun, onlara dinlerini öğretin ve namaz kılın. Namaz vakti girince biriniz ezan okusun, en büyüğünüz de namaz kıldırsın' buyur­du. Tekrar: 630, 631, 6
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>628</td></tr><tr><td>Arabic No</td><td>628</td></tr><tr><td>Reference</td><td>Book 10 Hadith 25</td></tr></tbody></table></div>
 

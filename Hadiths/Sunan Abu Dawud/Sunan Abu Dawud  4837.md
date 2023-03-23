@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল আযীয ইবন ইয়াহইয়া (রহঃ) ..... আবদুল্লাহ ইবন সালাম (রাঃ) তাঁর পিতা হতে বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন কথাবার্তা বলার জন্য বসতেন, তখন অধিকাংশ সময় তিনি আমাদের দিকে দৃষ্টিপাত করতেন।
+। ইউসুফ ইবনু আব্দুল্লাহ ইবনু সালাম (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আলাপকালে প্রায়ই চোখ তুলে আকাশের দিকে তাকাতেন।[1] দুর্বলঃ যঈফাহ হা/ ১৭৬৮।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4837</td></tr><tr><td>Arabic No</td><td>4837</td></tr><tr><td>Reference</td><td>Book 43 Hadith 65</td></tr></tbody></table></div>
 

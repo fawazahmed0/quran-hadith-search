@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মাখরামা (রহঃ) .... আবূ হুরায়রা (রাঃ) সূত্রে নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেনঃ ঈমানের দাবী এই যে, কাউকে ধোঁকা দিয়ে হত্যা করা যাবে না। কাজেই, কোন মু‘মিন কাউকে ধোঁকা দিয়ে মারবে না।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ঈমানের দাবী হলো, কাউকে ধোঁকা দিয়ে হত্যা না করা। কাজেই কোনো মু‘মিন গুপ্তহত্যা করবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>2769</td></tr><tr><td>Reference</td><td>Book 15 Hadith 293</td></tr></tbody></table></div>
 

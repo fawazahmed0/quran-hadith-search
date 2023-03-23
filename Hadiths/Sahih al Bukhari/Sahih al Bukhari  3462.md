@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ইয়াহূদী ও নাসারারা (দাড়ি-চুলে) রং লাগায় না। অতএব তোমরা তাদের বিপরীত কাজ কর। (৫৮৯৯, মুসলিম ৩৭/২৫ হাঃ ২১০৩, আহমাদ ৭২৭৮) (আধুনিক প্রকাশনীঃ ৩২০৪, ইসলামিক ফাউন্ডেশনঃ ৩২১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ইয়াহূদী ও নাসারারা (দাড়ি-চুলে) রং লাগায় না। অতএব তোমরা তাদের বিপরীত কাজ কর। (৫৮৯৯, মুসলিম ৩৭/২৫ হাঃ ২১০৩, আহমাদ ৭২৭৮) (আধুনিক প্রকাশনীঃ ৩২০৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 60 Hadith 129</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah bercerit
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யூதர்களும் கிறித்தவர்களும் (தம் தாடிகளுக்கும் தலைமுடிக்கும்) சாயமிட்டுக் கொள்வதில்லை. ஆகவே, நீங்கள் (அவற்றுக்குக் கறுப்பு அல்லாத சாயமிட்டு) அவர்களுக்கு மாறு செய்யுங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 60
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யூதர்களும் கிறித்தவர்களும் (தம் தாடிகளுக்கும் தலைமுடிக்கும்) சாயமிட்டுக் கொள்வதில்லை. ஆகவே, நீங்கள் (அவற்றுக்குக் கறுப்பு அல்லாத சாயமிட்டு) அவர்களுக்கு மாறு செய்யுங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 60 Hadith 129</td></tr></tbody></table></div>
 

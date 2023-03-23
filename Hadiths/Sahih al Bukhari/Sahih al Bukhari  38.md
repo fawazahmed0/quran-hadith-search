@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ঈমানসহ পুণ্যের আশায় রমাযানের সিয়াম ব্রত পালন করে, তার পূর্বের গুনাহ ক্ষমা করে দেয়া হয়। (৩৫) (আধুনিক প্রকাশনীঃ ৩৭, ইসলামিক ফাউন্ডেশনঃ ৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ঈমানসহ পুণ্যের আশায় রমাযানের সিয়াম ব্রত পালন করে, তার পূর্বের গুনাহ ক্ষমা করে দেয়া হয়। (৩৫) (আধুনিক প্রকাশনীঃ ৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் இறைநம்பிக்கையோடும் நன் மையை எதிர்பார்த்தும் ரமளான் மாதத்தில் நோன்பு நோற்கிறாரோ அவரது முந்தைய பாவங்கள் மன்னிக்கப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 2
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் இறைநம்பிக்கையோடும் நன் மையை எதிர்பார்த்தும் ரமளான் மாதத்தில் நோன்பு நோற்கிறாரோ அவரது முந்தைய பாவங்கள் மன்னிக்கப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 31</td></tr></tbody></table></div>
 

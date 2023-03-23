@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 জারীর ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত, তিনি বলেন, আমি ইসলাম গ্রহণ করার পর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর গৃহে প্রবেশ করতে কোনদিন আমাকে বাধা প্রদান করেননি এবং যখনই আমাকে দেখেছেন, মুচকি হাসি দিয়েছেন। (৩০৩৫) (আধুনিক প্রকাশনীঃ ৩৫৪০ প্রথমাংশ, ইসলামিক ফাউন্ডেশনঃ ৩৫৪৬ প্রথমাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3822</td></tr><tr><td>Arabic No</td><td>3822</td></tr><tr><td>Reference</td><td>Book 63 Hadith 47</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ishaq Al Wasithiy] telah bercerita kepada kami [Kha
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நான் இஸ்லாத்தை ஏற்றதிலிருந்து (நான் சந்திக்க அனுமதி கேட்ட எந்தச் சமயத்திலும்) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என்னைத் தடுத்ததில்லை; சிரித்த முகத்துடன் தவிர அவர்கள் என்னைக் கண்டதில்லை. இதை கைஸ் பின் அபீஹாஸிம் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 63
+ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நான் இஸ்லாத்தை ஏற்றதிலிருந்து (நான் சந்திக்க அனுமதி கேட்ட எந்தச் சமயத்திலும்) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என்னைத் தடுத்ததில்லை; சிரித்த முகத்துடன் தவிர அவர்கள் என்னைக் கண்டதில்லை. இதை கைஸ் பின் அபீஹாஸிம் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3822</td></tr><tr><td>Arabic No</td><td>3822</td></tr><tr><td>Reference</td><td>Book 63 Hadith 47</td></tr></tbody></table></div>
 

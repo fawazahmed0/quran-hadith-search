@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৪১৫। মাসলামা ইবনু আমর হতে বর্ণিত, তিনি বলেনঃ উমাইর ইবনু হাণী প্রত্যেকদিন এক হাজার রাকাআত নামায আদায় করতেন এবং এক লক্ষবার তাসবীহ পাঠ করতেন। সনদ দুর্বল, বিচ্ছিন্ন
+। মাসলামা ইবনু আমর হতে বর্ণিত, তিনি বলেনঃ উমাইর ইবনু হাণী প্রত্যেকদিন এক হাজার রাকাআত নামায আদায় করতেন এবং এক লক্ষবার তাসবীহ পাঠ করতেন। সনদ দুর্বল, বিচ্ছিন্ন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3415</td></tr><tr><td>Arabic No</td><td>3415</td></tr><tr><td>Reference</td><td>Book 48 Hadith 46</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) সূত্রে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, কিসরা ধ্বংস হবে, অতঃপর আর কিসরা হবে না। আর কায়সার অবশ্যই ধ্বংস হবে, অতঃপর আর কায়সার হবে না এবং এটা নিশ্চিত যে, তাদের ধনভান্ডার আল্লাহর পথে বণ্টিত হবে। (মুসলিম ৫২/১৮ হাঃ ২৯১৮, আহমাদ ৭২৭২) (৩১২০, ৩৬১৮, ৬৬৩০) (ইসলামিক ফাউন্ডেশনঃ ২৮১৩ প্রথমাংশ)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আর তিনি যুদ্ধকে কৌশল নামে অভিহিত করেন। (৩০২৯) (আধুনিক প্রকাশনীঃ ২৮০৩, ইসলামিক ফাউন্ডেশনঃ ২৮১৩ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

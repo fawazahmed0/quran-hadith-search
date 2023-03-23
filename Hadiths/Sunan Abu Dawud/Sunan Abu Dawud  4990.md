@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... বাহায ইবন হাকীম (রহঃ) তার পিতা থেকে বর্ণনা করেন। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি মানুষকে নিছক হাসাবার উদ্দেশ্যে মিথ্যা বলে, তার পরিণাম খুবই খারাপ! তার পরিণাম খুবই খারাপ
+। বাহয ইবনু হাকীম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার পিতা তার পিতার সূত্রে আমাকে হাদীস বর্ণনা করেন যে, তিনি বলেছেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ মানুষকে হাসানোর জন্য যে ব্যক্তি মিথ্যা বলে তার জন্য ধ্বংস, তার জন্য ধ্বংস, তার জন্য ধ্বংস।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4990</td></tr><tr><td>Arabic No</td><td>4990</td></tr><tr><td>Reference</td><td>Book 43 Hadith 218</td></tr></tbody></table></div>
 

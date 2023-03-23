@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম মাথা মাসিহ করলেন এবং দুই কানের ভেতরে ও বাহিরে মসিহ করলেন। -হাসান সহীহ। ইবনু মাজাহ– (৪৩৯)। এ অনুচ্ছেদে রুবাই’র সূত্রে বর্ণিত হাদীসও রয়েছে। আবু ঈসা বলেনঃ ইবনু আব্বাস (রাঃ)-এর হাদীস হাসান সহীহ। বেশিরভাগ বিদ্বান কানের ভেতর ও বাহিরে মাসিহ করার পক্ষে মত দিয়েছেন।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম মাথা মাসিহ করলেন এবং দুই কানের ভেতরে ও বাহিরে মসিহ করলেন। -হাসান সহীহ। ইবনু মাজাহ– (৪৩৯)। এ অনুচ্ছেদে রুবাই’র সূত্রে বর্ণিত হাদীসও রয়েছে। আবু ঈসা বলেনঃ ইবনু আব্বাস (রাঃ)-এর হাদীস হাসান সহীহ। বেশিরভাগ বিদ্বান কানের ভেতর ও বাহিরে মাসিহ করার পক্ষে মত দিয়েছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Arabic No</td><td>36</td></tr><tr><td>Reference</td><td>Book 1 Hadith 36</td></tr></tbody></table></div>
 

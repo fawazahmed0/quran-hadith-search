@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনে মুহাম্মাদ (রহঃ) ..... আনাস ইবনে মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নামাযের মধ্যে বিশেষ প্রয়োজনে ইশারা করতেন। (যেমন কেউ সালাম করলে তিনি মাথার ইশরায় তার জবাব দিতেন। অবশ্য তা নফল নামায আদায়ের সময় করতেন)।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতরত অবস্থায় ইশারা করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>943</td></tr><tr><td>Arabic No</td><td>943</td></tr><tr><td>Reference</td><td>Book 2 Hadith 554</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad bin Syubawaih al Marwazi] dan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Mâlik'den; Nebi (s.a.v.)'in (bazan) namazda işaret ettiği rivayet olunmuştur. Diğer tahric: Dârekutnî, Sünen, II, 84
+Enes b. Mâlik'den; Nebi (s.a.v.)'in (bazan) namazda işaret ettiği rivayet olunmuştur. Diğer tahric: Dârekutnî, Sünen, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>943</td></tr><tr><td>Arabic No</td><td>943</td></tr><tr><td>Reference</td><td>Book 2 Hadith 554</td></tr></tbody></table></div>
 

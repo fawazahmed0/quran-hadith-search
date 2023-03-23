@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইব্‌রাহীম (রহঃ) ..... আবদুর রহমান (রাঃ) তাঁর পিতা হতে বর্ণনা করেন। তিনি বলেনঃ তিনি উসমান ইবন আবিল আসের জানাযায় শরীক ছিলেন। আমরা তার জানাযা নিয়ে আস্তে আস্তে যাচ্ছিলাম। এ সময় আবূ বকরা (রাঃ) আমাদের সাথে যোগ দেন। তিনি আমাদের আস্তে আস্তে চলতে দেখে লাঠি উঁচিয়ে বলেনঃ তোমরা তো দেখেছ, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে জানাযা (লাশ) নিয়ে দ্রুত গমন করেছি।
+। উয়াইনাহ ইবনু ‘আব্দুর রাহমান (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি (পিতা) উসমান ইবনু আবুল আস (রাঃ)-এর লাশের সঙ্গে ছিলেন। তিনি বলেন, ‘আমরা ধীরে ধীরে হাঁটছিলাম। এমন সময় আবূ বাকরাহ (রাঃ) আমাদের সাথে মিলিত হলেন। তিনি তার চাবুক উঠিয়ে বললেন, তোমরা তো দেখেছো যে, ‘আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে (লাশ নিয়ে) দ্রুত চলেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3182</td></tr><tr><td>Arabic No</td><td>3182</td></tr><tr><td>Reference</td><td>Book 21 Hadith 94</td></tr></tbody></table></div>
 

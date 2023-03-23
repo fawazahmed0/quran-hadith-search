@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাইল (রহঃ) .... সা’দ ইবন মালিক (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ বলতেনঃ মৃত ব্যক্তির প্রেতাত্মার কোন অস্তিত্ব নেই, কোন রোগ ছোঁয়াচে নয় এবং (কাজ কর্মে) শুভাশুভের কিছু নেই। অবশ্য শুভাশুভ যদি কোন জিনিসের মধ্যে থাকে, তবে তার অস্তিত্ব তিনটি জিনিসের মধ্যে আছে। যথাঃ ঘোড়া, স্ত্রী লোক এবং ঘর-বাড়ীতে।
+। সা‘দ ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ পেঁচা অশুভ নয়, ছোঁয়াচে রোগ নেই এবং কোনো জিনিস অশুভ হওয়া ভিত্তিহীন। যদি কোনো কিছুর মধ্যে অশুভ কিছু থাকতো, তাহলে ঘোড়া, নারী ও বাড়ী এই তিন জিনিসের মধ্যে থাকতো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3921</td></tr><tr><td>Arabic No</td><td>3921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 18</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উম্মু সালামাহ (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জেগে উঠলেন এবং বলতে লাগলেন, সুবাহানাল্লাহ, আজ কী অফুরন্ত ধনভান্ডার অবতীর্ণ করা হয়েছে এবং তারই সঙ্গে অগণিত ফিতনা-ফাসাদ নাযিল করা হয়েছে। (১১৫) (আধুনিক প্রকাশনীঃ ৩৩৩৩, ইসলামিক ফাউন্ডেশনঃ ৩৩৪০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3599</td></tr><tr><td>Arabic No</td><td>3599</td></tr><tr><td>Reference</td><td>Book 61 Hadith 107</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Um Salama:The Prophet (ﷺ) woke up and said, "Glorified be Allah: What great (h
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: (ஒருநாள்) நபி (ஸல்) அவர்கள் (தூக்கத்திலிருந்து) விழித்தெழுந்து, “சுப்ஹானல்லாஹ்” (அல்லாஹ் தூயவன்!) எவ்வளவு பெரும் கருவூலங்களெல்லாம் (வானிலிருந்து பூமிக்கு) இறக்கியருளப்பட்டிருக்கின்றன! எவ்வளவு பெரிய குழப்பங்கள் எல்லாம் (பூமிக்கு) அனுப்பப்பட்டிருக்கின்றன!” என்று சொன் னார்கள்.118 அத்தியாயம் : 61
+உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: (ஒருநாள்) நபி (ஸல்) அவர்கள் (தூக்கத்திலிருந்து) விழித்தெழுந்து, “சுப்ஹானல்லாஹ்” (அல்லாஹ் தூயவன்!) எவ்வளவு பெரும் கருவூலங்களெல்லாம் (வானிலிருந்து பூமிக்கு) இறக்கியருளப்பட்டிருக்கின்றன! எவ்வளவு பெரிய குழப்பங்கள் எல்லாம் (பூமிக்கு) அனுப்பப்பட்டிருக்கின்றன!” என்று சொன் னார்கள்.118 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3599</td></tr><tr><td>Arabic No</td><td>3599</td></tr><tr><td>Reference</td><td>Book 61 Hadith 107</td></tr></tbody></table></div>
 

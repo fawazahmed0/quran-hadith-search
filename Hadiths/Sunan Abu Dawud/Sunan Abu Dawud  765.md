@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... নাফে ইবনু জুবায়ের থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে নফল নামায আদায়কালে বলতে শুনেছি ... পূর্বোক্ত হাদীছের অনুরূপ। (ইবনু মাজাহ)।
+। নাফি‘ ইবনু জুবায়ির (রহঃ) হতে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে নফল সালাত আদায়কালে বলতে শুনেছি ..... পূর্বোক্ত হাদীসের অনুরূপ। [1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>765</td></tr><tr><td>Arabic No</td><td>765</td></tr><tr><td>Reference</td><td>Book 2 Hadith 375</td></tr></tbody></table></div>
 

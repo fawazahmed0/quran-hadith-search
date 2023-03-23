@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৩১৫, আন্তর্জাতিক নাম্বারঃ ১০৫৩ ২৩১৫-(.../...) আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) এর সূত্রেও অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন, ২২৯৩, ইসলামীক সেন্টার ২২৯৪)
+আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) এর সূত্রেও অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন, ২২৯৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>1053.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 162</td></tr></tbody></table></div>
 

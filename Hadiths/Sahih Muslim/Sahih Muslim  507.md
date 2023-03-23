@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯৫, আন্তর্জাতিক নাম্বারঃ ২০৭ ৩৯৫-(৩৫৪/...) মুহাম্মাদ ইবনু আবদুল আ'লা (রহঃ) ..... যুহায়র ইবনু আমর ও কাবীসাহ ইবনু মুখারিক (রাযিঃ) থেকে উল্লেখিত হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৪০১, ইসলামিক সেন্টারঃ ৪১৪)
+মুহাম্মাদ ইবনু আবদুল আ'লা (রহঃ) ..... যুহায়র ইবনু আমর ও কাবীসাহ ইবনু মুখারিক (রাযিঃ) থেকে উল্লেখিত হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৪০১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>507</td></tr><tr><td>Arabic No</td><td>207.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 413</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith is narrated from the Messenger of Allah (ﷺ) by another chain of na
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் இரு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மேலும் இரு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>507</td></tr><tr><td>Arabic No</td><td>207.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 413</td></tr></tbody></table></div>
 

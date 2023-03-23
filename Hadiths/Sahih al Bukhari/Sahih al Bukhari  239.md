@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+এ সনদেই তিনি বলেনঃ তোমাদের কেউ যেন স্থির- যা প্রবাহিত নয় এমন পানিতে কখনো পেশাব না করে। (সম্ভবত) পরে সে আবার তাতে গোসল করবে। (আধুনিক প্রকাশনীঃ ২৩২, ইসলামিক ফাউন্ডেশনঃ ২৩৮ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Masih dari jalur periwayatan yang sama dengan hadits sebelumnya dari [Abu Hurair
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஓடாமல் தேங்கி நிற்கும் தண்ணீரில் உங்களில் யாரும் சிறுநீர் கழிக்கவும் வேண்டாம்; பின்னர் அதில் குளிக்கவும் வேண்டாம். மேற்கண்ட இரு ஹதீஸ்களையும் அபூஹுரைரா (ரலி) அவர்கள் அறிவிக் கிறார்கள். அத்தியாயம் : 4
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஓடாமல் தேங்கி நிற்கும் தண்ணீரில் உங்களில் யாரும் சிறுநீர் கழிக்கவும் வேண்டாம்; பின்னர் அதில் குளிக்கவும் வேண்டாம். மேற்கண்ட இரு ஹதீஸ்களையும் அபூஹுரைரா (ரலி) அவர்கள் அறிவிக் கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
 

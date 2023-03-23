@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৭৩, আন্তর্জাতিক নাম্বারঃ ২৭৪ ২৭৩. মুহাম্মাদ ইবনু মানসূর (রহ.) ... মানবূয (রাঃ)-এর মা হতে বর্ণিত। মায়মূনাহ্ (রাঃ) বলেছেন, রাসূলুল্লাহ (সা.) স্বীয় মাথা মুবারক আমাদের কারো কোলো রেখে কুরআন তিলাওয়াত করতেন অথচ তিনি তখন ঋতুবতী থাকতেন। আর আমাদের কেউ ঋতুবতী অবস্থায় মসজিদে চাটাই বিছিয়ে দিতেন। হাসান: মুসনাদে আহমাদ ২৬৮৫৩, ইওয়াউল গালীল (১/২১৩)।
+। মুহাম্মদ ইবনু মানসুর ... মানবুয (রহঃ) এর মা* থেকে বর্ণিত। মায়মুনা (রাঃ) বলেছেনঃ রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজ মাথা আমাদের কারো কোলে রেখে কোরআন তিলাওয়াত করতেন অথচ (যার কোলে মাথা রাখতেন) তিনি তখন ঋতুমতী। আর আমাদের কেউ ঋতুবতী অবস্থায় মসজিদে চাটাই বিছিয়ে দিতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>273</td></tr><tr><td>Arabic No</td><td>273</td></tr><tr><td>Reference</td><td>Book 1 Hadith 274</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Manshur] dari [Sufyan] dari [Manbudz
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Meymune (r.anha)’dan rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v), bizler hayızlı olduğumuz halde bize yaslanıp Kur’an okurdu. Yine bizler hayızlı olduğumuz halde mescide seccade sererdik. (Ebû Davud, Tahara: 104; Müslim, Hayz: 3)
+Meymune (r.anha)’dan rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v), bizler hayızlı olduğumuz halde bize yaslanıp Kur’an okurdu. Yine bizler hayızlı olduğumuz halde mescide seccade sererdik. (Ebû Davud, Tahara: 104; Müslim, Hayz:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>273</td></tr><tr><td>Arabic No</td><td>273</td></tr><tr><td>Reference</td><td>Book 1 Hadith 274</td></tr></tbody></table></div>
 

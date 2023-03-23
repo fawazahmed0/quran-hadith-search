@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩১৯। মাক্বিল ইবনু আবূ মাক্বিল আল-আসা’দী (রাঃ) থেকে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাহচর্য লাভ করেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে দু ক্বিবলা (কিবলা/কেবলা)হর দিকে মুখ করে পায়খানা অথবা পেশাব করতে নিষেধ করেছেন।
+। মাক্বিল ইবনু আবূ মাক্বিল আল-আসা’দী (রাঃ) থেকে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাহচর্য লাভ করেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে দু ক্বিবলা (কিবলা/কেবলা)হর দিকে মুখ করে পায়খানা অথবা পেশাব করতে নিষেধ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>319</td></tr><tr><td>Arabic No</td><td>319</td></tr><tr><td>Reference</td><td>Book 1 Hadith 53</td></tr></tbody></table></div>
 

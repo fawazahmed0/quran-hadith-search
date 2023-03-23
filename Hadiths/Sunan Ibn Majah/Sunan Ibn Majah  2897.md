@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৮৯৭। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ পাথেয় ও বাহন অর্থাৎ আল্লাহ তা‘আলার বাণীঃ ‘‘যার সেখানে যাওয়ার সামর্থ্য আছে’’ (সূরা আল ইমরানঃ ৯৭) (এর তাৎপর্য এটাই)।
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ পাথেয় ও বাহন অর্থাৎ আল্লাহ তা‘আলার বাণীঃ ‘‘যার সেখানে যাওয়ার সামর্থ্য আছে’’ (সূরা আল ইমরানঃ ৯৭) (এর তাৎপর্য এটাই)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2897</td></tr><tr><td>Arabic No</td><td>2897</td></tr><tr><td>Reference</td><td>Book 25 Hadith 16</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Ibn ‘Abbas that the Messenger of Allah (ﷺ) said:“Provision and a mount,” meaning, about Allah’s saying: “Whoever can bear the way.” [3:97]
+It was narrated from Ibn ‘Abbas that the Messenger of Allah (ﷺ) said:“Provision and a mount,” meaning, about Allah’s saying: “Whoever can bear the way.” [3:]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2897</td></tr><tr><td>Arabic No</td><td>2897</td></tr><tr><td>Reference</td><td>Book 25 Hadith 16</td></tr></tbody></table></div>
 

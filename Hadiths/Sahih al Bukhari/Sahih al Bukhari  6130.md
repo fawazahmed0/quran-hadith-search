@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনেই আমি পুতুল বানিয়ে খেলতাম। আমার বান্ধবীরাও আমার সাথে খেলা করত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘরে প্রবেশ করলে তারা দৌড়ে পালাত। তখন তিনি তাদের ডেকে আমার কাছে পাঠিয়ে দিতেন এবং তারা আমার সঙ্গে খেলত। [মুসলিম৪৪/১৩, হাঃ ২৪৪০, আহমাদ ২৬০২০] (আধুনিক প্রকাশনী- ৫৬৯০, ইসলামিক ফাউন্ডেশন- ৫৫৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনেই আমি পুতুল বানিয়ে খেলতাম। আমার বান্ধবীরাও আমার সাথে খেলা করত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘরে প্রবেশ করলে তারা দৌড়ে পালাত। তখন তিনি তাদের ডেকে আমার কাছে পাঠিয়ে দিতেন এবং তারা আমার সঙ্গে খেলত। [মুসলিম৪৪/১৩, হাঃ ২৪৪০, আহমাদ ২৬০২০] (আধুনিক প্রকাশনী- ৫৬৯০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6130</td></tr><tr><td>Arabic No</td><td>6130</td></tr><tr><td>Reference</td><td>Book 78 Hadith 157</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aisha:I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger (ﷺ) used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for 'Aisha at that time, as she was a little girl, not yet reached the age of puberty.) (Fath-ul-Bari page 143, Vol.13)
+Narrated 'Aisha:I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger (ﷺ) used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for 'Aisha at that time, as she was a little girl, not yet reached the age of puberty.) (Fath-ul-Bari page 143, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6130</td></tr><tr><td>Arabic No</td><td>6130</td></tr><tr><td>Reference</td><td>Book 78 Hadith 157</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Abu Mu'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் (சிறுமியாக இருந்தபோது) நபி (ஸல்) அவர்களுக்கு அருகில் பொம்மைகள் வைத்து விளையாடுவேன். எனக்குச் சில தோழியர் இருந்தனர். அவர்கள் என்னுடன் விளையாடிக்கொண்டிருப்பார்கள். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் வீட்டுக்குள் நுழைந்தால் அவர்களைக் கண்டதும் தோழியர் (பயந்துகொண்டு) திரைக்குள் ஒளிந்துகொள்வார்கள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என் தோழியரை என்னிடம் அனுப்பிவைப்பார்கள். தோழிகள் என்னுடன் (சேர்ந்து) விளையாடுவார்கள். அத்தியாயம் : 78
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் (சிறுமியாக இருந்தபோது) நபி (ஸல்) அவர்களுக்கு அருகில் பொம்மைகள் வைத்து விளையாடுவேன். எனக்குச் சில தோழியர் இருந்தனர். அவர்கள் என்னுடன் விளையாடிக்கொண்டிருப்பார்கள். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் வீட்டுக்குள் நுழைந்தால் அவர்களைக் கண்டதும் தோழியர் (பயந்துகொண்டு) திரைக்குள் ஒளிந்துகொள்வார்கள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என் தோழியரை என்னிடம் அனுப்பிவைப்பார்கள். தோழிகள் என்னுடன் (சேர்ந்து) விளையாடுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6130</td></tr><tr><td>Arabic No</td><td>6130</td></tr><tr><td>Reference</td><td>Book 78 Hadith 157</td></tr></tbody></table></div>
 

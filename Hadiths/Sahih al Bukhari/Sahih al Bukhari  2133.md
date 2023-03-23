@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, খাদ্য ক্রয় করে কেউ যেন তা হাতে আসার পূর্বে বিক্রি না করে। (২১২৪) (আধুনিক প্রকাশনীঃ ১৯৮৫ , ইসলামিক ফাউন্ডেশনঃ ২০০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, খাদ্য ক্রয় করে কেউ যেন তা হাতে আসার পূর্বে বিক্রি না করে। (২১২৪) (আধুনিক প্রকাশনীঃ ১৯৮৫ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 34 Hadith 85</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada saya [Abu Al Walid] telah menceritakan kepada kami [Sy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உணவுப் பொருளை விலைக்கு வாங்கிய ஒருவர், அது தமது கைக்கு வந்து சேர்வதற்குமுன் (மற்றவருக்கு) விற்க வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உணவுப் பொருளை விலைக்கு வாங்கிய ஒருவர், அது தமது கைக்கு வந்து சேர்வதற்குமுன் (மற்றவருக்கு) விற்க வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 34 Hadith 85</td></tr></tbody></table></div>
 

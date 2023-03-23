@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত, তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে আমি বলতে শুনেছি যে, এক মুসলিমের প্রতি অপর মুসলিমের হক্ পাঁচটিঃ ১. সালামের জওয়াব দেয়া, ২. অসুস্থ ব্যক্তির খোঁজ-খবর নেয়া, ৩. জানাযার পশ্চাদানুসরণ করা, ৪. দা’ওয়াত কবূল করা এবং ৫. হাঁচিদাতাকে খুশী করা (আল-হামদু লিল্লাহর জবাবে ইয়ারহামুকাল্লাহ বলা)। আবদুর রাযযাক (রহ.) ‘আমর ইবনু আবূ সালামাহ (রহ.)-এর অনুসরণ করেছেন। আবদুর রাযযাক (রহ.) বলেন, আমাকে মা‘মার (রহ.)-এরূপ অবহিত করেছেন এবং এ হাদীস সালামাহ (রহ.) ‘উকাইল (রহ.) হতে রিওয়ায়াত করেছেন। (মুসলিম ৩৯/৩, হাঃ ২১৬২, আহমাদ ৮৪০৫) (আধুনিক প্রকাশনীঃ ১১৬১, ইসলামিক ফাউন্ডেশনঃ ১১৬৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত, তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে আমি বলতে শুনেছি যে, এক মুসলিমের প্রতি অপর মুসলিমের হক্ পাঁচটিঃ ১. সালামের জওয়াব দেয়া, ২. অসুস্থ ব্যক্তির খোঁজ-খবর নেয়া, ৩. জানাযার পশ্চাদানুসরণ করা, ৪. দা’ওয়াত কবূল করা এবং ৫. হাঁচিদাতাকে খুশী করা (আল-হামদু লিল্লাহর জবাবে ইয়ারহামুকাল্লাহ বলা)। আবদুর রাযযাক (রহ.) ‘আমর ইবনু আবূ সালামাহ (রহ.)-এর অনুসরণ করেছেন। আবদুর রাযযাক (রহ.) বলেন, আমাকে মা‘মার (রহ.)-এরূপ অবহিত করেছেন এবং এ হাদীস সালামাহ (রহ.) ‘উকাইল (রহ.) হতে রিওয়ায়াত করেছেন। (মুসলিম ৩৯/৩, হাঃ ২১৬২, আহমাদ ৮৪০৫) (আধুনিক প্রকাশনীঃ ১১৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1240</td></tr><tr><td>Arabic No</td><td>1240</td></tr><tr><td>Reference</td><td>Book 23 Hadith 4</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "The rights of a Muslim on the Muslims are five: to respond to the salaam, visiting the sick, to follow the funeral processions, to accept an invitation, and to reply to those who sneeze. (see Hadith 1239)
+Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "The rights of a Muslim on the Muslims are five: to respond to the salaam, visiting the sick, to follow the funeral processions, to accept an invitation, and to reply to those who sneeze. (see Hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1240</td></tr><tr><td>Arabic No</td><td>1240</td></tr><tr><td>Reference</td><td>Book 23 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad] telah menceritakan kepada kami ['Amru 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு முஸ்லிம் மற்றொரு முஸ்லிமுக் குச் செய்ய வேண்டிய கடமைகள் ஐந்து. அவை: சலாமுக்குப் பதிலுரைப் பது, நோயாளியை நலம் விசாரிப்பது, ஜனாஸாவைப் பின்தொடர்வது, விருந்தழைப்பை ஏற்றுக்கொள்வது, தும்முபவருக்கு மறுமொழி கூறுவது ஆகியவையாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 23
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு முஸ்லிம் மற்றொரு முஸ்லிமுக் குச் செய்ய வேண்டிய கடமைகள் ஐந்து. அவை: சலாமுக்குப் பதிலுரைப் பது, நோயாளியை நலம் விசாரிப்பது, ஜனாஸாவைப் பின்தொடர்வது, விருந்தழைப்பை ஏற்றுக்கொள்வது, தும்முபவருக்கு மறுமொழி கூறுவது ஆகியவையாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1240</td></tr><tr><td>Arabic No</td><td>1240</td></tr><tr><td>Reference</td><td>Book 23 Hadith 4</td></tr></tbody></table></div>
 

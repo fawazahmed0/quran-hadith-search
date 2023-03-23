@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৪৬৩। তাঊস (রহঃ) থেকে বর্ণিত। মুআয ইবনে জাবাল (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যুগে এবং আবূ বাকর (রাঃ), উমার (রাঃ) ও উসমান (রাঃ) এর যুগে এক-তৃতীয়াংশ ও এক-চতুর্থাংশ ফসল প্রদানের শর্তে জমি বর্গা দিতেন এবং তোমার এই কালেও তিনি তাই করছেন।
+। তাঊস (রহঃ) থেকে বর্ণিত। মুআয ইবনে জাবাল (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যুগে এবং আবূ বাকর (রাঃ), উমার (রাঃ) ও উসমান (রাঃ) এর যুগে এক-তৃতীয়াংশ ও এক-চতুর্থাংশ ফসল প্রদানের শর্তে জমি বর্গা দিতেন এবং তোমার এই কালেও তিনি তাই করছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2463</td></tr><tr><td>Arabic No</td><td>2463</td></tr><tr><td>Reference</td><td>Book 16 Hadith 28</td></tr></tbody></table></div>
 

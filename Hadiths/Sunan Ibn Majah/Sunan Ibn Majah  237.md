@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৩৭। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয় কতক লোক আছে, যারা কল্যাণের চাবিকাঠি এবং অকল্যাণের দ্বার রুদ্ধকারী। পক্ষান্তরে এমন কতক লোকও আছে যারা অকল্যাণের দ্বার উন্মোচনকারী এবং কল্যাণের পথ রুদ্ধকারী। সেই লোকের জন্য সুসংবাদ যার দু হাতে আল্লাহ কল্যাণের চাবি রেখেছেন এবং সেই লোকের জন্য ধ্বংস যার দু হাতে আল্লাহ অকল্যাণের চাবি রেখেছেন।
+। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয় কতক লোক আছে, যারা কল্যাণের চাবিকাঠি এবং অকল্যাণের দ্বার রুদ্ধকারী। পক্ষান্তরে এমন কতক লোকও আছে যারা অকল্যাণের দ্বার উন্মোচনকারী এবং কল্যাণের পথ রুদ্ধকারী। সেই লোকের জন্য সুসংবাদ যার দু হাতে আল্লাহ কল্যাণের চাবি রেখেছেন এবং সেই লোকের জন্য ধ্বংস যার দু হাতে আল্লাহ অকল্যাণের চাবি রেখেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>237</td></tr><tr><td>Arabic No</td><td>237</td></tr><tr><td>Reference</td><td>Book 0 Hadith 237</td></tr></tbody></table></div>
 

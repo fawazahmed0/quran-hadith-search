@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আশূরার দিনকে ইয়াহূদীগণ ‘ঈদ (উৎসবের দিন) মনে করত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (সাহাবীগণকে) বললেনঃ তোমরাও এ দিনের সওম পালন কর। (৩৯৪২, মুসলিম ১৩/১৯, হাঃ ১১৩১, আহমাদ ১৯৬৮৯) (আধুনিক প্রকাশনীঃ ১৮৬৪, ইসলামিক ফাউন্ডেশনঃ ১৮৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আশূরার দিনকে ইয়াহূদীগণ ‘ঈদ (উৎসবের দিন) মনে করত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (সাহাবীগণকে) বললেনঃ তোমরাও এ দিনের সওম পালন কর। (৩৯৪২, মুসলিম ১৩/১৯, হাঃ ১১৩১, আহমাদ ১৯৬৮৯) (আধুনিক প্রকাশনীঃ ১৮৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2005</td></tr><tr><td>Arabic No</td><td>2005</td></tr><tr><td>Reference</td><td>Book 30 Hadith 110</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா (ரலி) அவர்கள் கூறியதாவது: ஆஷூரா நாளை யூதர்கள் பெரு நாளாகக் கருதிவந்தனர். நபி (ஸல்) அவர்கள், ‘‘அந்நாளில் நீங்களும் நோன்பு வையுங்கள்” என்று (முஸ்லிம்களிடம்) கூறினார்கள். அத்தியாயம் : 30
+அபூமூசா (ரலி) அவர்கள் கூறியதாவது: ஆஷூரா நாளை யூதர்கள் பெரு நாளாகக் கருதிவந்தனர். நபி (ஸல்) அவர்கள், ‘‘அந்நாளில் நீங்களும் நோன்பு வையுங்கள்” என்று (முஸ்லிம்களிடம்) கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2005</td></tr><tr><td>Arabic No</td><td>2005</td></tr><tr><td>Reference</td><td>Book 30 Hadith 110</td></tr></tbody></table></div>
 

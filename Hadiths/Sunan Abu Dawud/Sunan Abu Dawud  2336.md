@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল ..... উম্মে সালামা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন বছর-ই রামাযানের নিকটবর্তী শা‘বান মাস ব্যতীত অন্য কোন মাস পূর্ণ রোযা রাখতেন না।
+। উম্মু সালামাহ (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শা‘বান মাস ছাড়া বছরের পূর্ণ একটি মাস কখনো সওম রাখতেন না। তিনি সওম অব্যাহত রেখে শা‘বানকে রমাযানের সাথে মিলাতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2336</td></tr><tr><td>Arabic No</td><td>2336</td></tr><tr><td>Reference</td><td>Book 14 Hadith 24</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২৮৯৪। ইবনে উমার (রাঃ) থেকে বর্ণিত। উমার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উমরা আদায় করার অনুমতি চাইলে তিনি তাকে অনুমতি দেন এবং বলেনঃ ‘‘হে আমার ছোট ভাই! তোমার দোয়ার মধ্যে আমাদেরও শরীক করবে, আমাদের ভুলে যেও না’’।
+। ইবনে উমার (রাঃ) থেকে বর্ণিত। উমার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উমরা আদায় করার অনুমতি চাইলে তিনি তাকে অনুমতি দেন এবং বলেনঃ ‘‘হে আমার ছোট ভাই! তোমার দোয়ার মধ্যে আমাদেরও শরীক করবে, আমাদের ভুলে যেও না’’।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2894</td></tr><tr><td>Arabic No</td><td>2894</td></tr><tr><td>Reference</td><td>Book 25 Hadith 13</td></tr></tbody></table></div>
 

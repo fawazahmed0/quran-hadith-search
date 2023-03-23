@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরায়রাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি অবশ্যই নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সালাতের ন্যায় সালাত আদায় করব। আবূ হুরাইরাহ্ (রাযি.) যুহর, ‘ইশা ও ফজরের সালাতের শেষ রাক‘আতেঃسَمِعَ اللهُ لِمَنْ حَمِدَهُ ’ বলার পর কুনূত পড়তেন। এতে তিনি মু’মিনগণের জন্য দু‘আ করতেন এবং কাফিরদের প্রতি অভিসম্পাত করতেন। (৮০৪, ১০০৬,২৯৩২, ৩৩৮৬, ৪৫৬০, ৪৫৯৮, ৬২০০, ৬৩৯৩, ৬৯৪০) (আধুনিক প্রকাশনীঃ৭৫৩ , ইসলামিক ফাউন্ডেশনঃ ৭৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরায়রাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি অবশ্যই নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সালাতের ন্যায় সালাত আদায় করব। আবূ হুরাইরাহ্ (রাযি.) যুহর, ‘ইশা ও ফজরের সালাতের শেষ রাক‘আতেঃسَمِعَ اللهُ لِمَنْ حَمِدَهُ ’ বলার পর কুনূত পড়তেন। এতে তিনি মু’মিনগণের জন্য দু‘আ করতেন এবং কাফিরদের প্রতি অভিসম্পাত করতেন। (৮০৪, ১০০৬,২৯৩২, ৩৩৮৬, ৪৫৬০, ৪৫৯৮, ৬২০০, ৬৩৯৩, ৬৯৪০) (আধুনিক প্রকাশনীঃ৭৫৩ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>797</td></tr><tr><td>Arabic No</td><td>797</td></tr><tr><td>Reference</td><td>Book 10 Hadith 192</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Bab. Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசலமா பின் அப்திர் ரஹ்மான் பின் அவ்ஃப் (ரஹ்) அவர்கள் கூறியதாவது: அபூஹுரைரா (ரலி) அவர்கள், “கிட்டத்தட்ட நபி (ஸல்) அவர்கள் தொழு வித்ததைப் போன்றே உங்களுக்கு நான் தொழுவிக்கிறேன்” என்று கூறினார்கள். அபூஹுரைரா (ரலி) அவர்கள் லுஹ்ர், இஷா, சுப்ஹு ஆகிய தொழுகைகளின் இறுதி ரக்அத்தில் (ருகூஉவி-ருந்து எழுந்து) ‘சமிஅல்லாஹு -மன் ஹமிதஹ்’ (அல்லாஹ் தன்னைப் புகழ்வோரின் புகழுரையை ஏற்றுக்கொள்கிறான்) என்று கூறியபிறகு, ‘குனூத்’ (சோதனை காலப் பிரார்த்தனை) ஓதுவார்கள். அதில் இறைநம்பிக்கையாளர்களுக்கு ஆதரவாகவும் (கொடுஞ்செயல் புரிந்த குறைஷி) இறைமறுப்பாளர்களைச் சபித்தும் பிரார்த்திப்பார்கள். அத்தியாயம் : 10
+அபூசலமா பின் அப்திர் ரஹ்மான் பின் அவ்ஃப் (ரஹ்) அவர்கள் கூறியதாவது: அபூஹுரைரா (ரலி) அவர்கள், “கிட்டத்தட்ட நபி (ஸல்) அவர்கள் தொழு வித்ததைப் போன்றே உங்களுக்கு நான் தொழுவிக்கிறேன்” என்று கூறினார்கள். அபூஹுரைரா (ரலி) அவர்கள் லுஹ்ர், இஷா, சுப்ஹு ஆகிய தொழுகைகளின் இறுதி ரக்அத்தில் (ருகூஉவி-ருந்து எழுந்து) ‘சமிஅல்லாஹு -மன் ஹமிதஹ்’ (அல்லாஹ் தன்னைப் புகழ்வோரின் புகழுரையை ஏற்றுக்கொள்கிறான்) என்று கூறியபிறகு, ‘குனூத்’ (சோதனை காலப் பிரார்த்தனை) ஓதுவார்கள். அதில் இறைநம்பிக்கையாளர்களுக்கு ஆதரவாகவும் (கொடுஞ்செயல் புரிந்த குறைஷி) இறைமறுப்பாளர்களைச் சபித்தும் பிரார்த்திப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>797</td></tr><tr><td>Arabic No</td><td>797</td></tr><tr><td>Reference</td><td>Book 10 Hadith 192</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Bab. Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceri
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Seleme'den nakledilmiştir: Ebu Hureyre (r.a.): "Ben sizlere Resûlullah Sallallahu Aleyhi ve Sellem'in kıldırdığı namazların tıpkısını göstereceğim" demiş ve öğle, yatsı ve sabah namazlarının son rekatlarında (Semi'allahu limen hamideh) dedikten sonra kunût okumuştu. Bu duada mu'minler için hayırlar diliyor kâfirlere la'net ediyordu. Tekrar: 804, 1006, 2932, 3281, 4560, 4598, 6200, 6393 ve 6940
+Ebu Seleme'den nakledilmiştir: Ebu Hureyre (r.a.): "Ben sizlere Resûlullah Sallallahu Aleyhi ve Sellem'in kıldırdığı namazların tıpkısını göstereceğim" demiş ve öğle, yatsı ve sabah namazlarının son rekatlarında (Semi'allahu limen hamideh) dedikten sonra kunût okumuştu. Bu duada mu'minler için hayırlar diliyor kâfirlere la'net ediyordu. Tekrar: 804, 1006, 2932, 3281, 4560, 4598, 6200, 6393 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>797</td></tr><tr><td>Arabic No</td><td>797</td></tr><tr><td>Reference</td><td>Book 10 Hadith 192</td></tr></tbody></table></div>
 

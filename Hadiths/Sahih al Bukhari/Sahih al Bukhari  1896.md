@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জান্নাতে রাইয়্যান নামক একটি দরজা আছে। এ দরজা দিয়ে কিয়ামতের দিন সওম পালনকারীরাই প্রবেশ করবে। তাদের ব্যতীত আর কেউ এ দরজা দিয়ে প্রবেশ করতে পারবে না। ঘোষণা দেয়া হবে, সওম পালনকারীরা কোথায়? তখন তারা দাঁড়াবে। তারা ব্যতীত আর কেউ এ দরজা দিয়ে প্রবেশ করবে না। তাদের প্রবেশের পরই দরজা বন্ধ করে দেয়া হবে। যাতে করে এ দরজাটি দিয়ে আর কেউ প্রবেশ না করে। (৩২৫৭, মুসলিম ১৩/৩, হাঃ ১১৫২) (আধুনিক প্রকাশনীঃ ১৭৬১, ইসলামিক ফাউন্ডেশনঃ ১৭ ৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জান্নাতে রাইয়্যান নামক একটি দরজা আছে। এ দরজা দিয়ে কিয়ামতের দিন সওম পালনকারীরাই প্রবেশ করবে। তাদের ব্যতীত আর কেউ এ দরজা দিয়ে প্রবেশ করতে পারবে না। ঘোষণা দেয়া হবে, সওম পালনকারীরা কোথায়? তখন তারা দাঁড়াবে। তারা ব্যতীত আর কেউ এ দরজা দিয়ে প্রবেশ করবে না। তাদের প্রবেশের পরই দরজা বন্ধ করে দেয়া হবে। যাতে করে এ দরজাটি দিয়ে আর কেউ প্রবেশ না করে। (৩২৫৭, মুসলিম ১৩/৩, হাঃ ১১৫২) (আধুনিক প্রকাশনীঃ ১৭৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1896</td></tr><tr><td>Arabic No</td><td>1896</td></tr><tr><td>Reference</td><td>Book 30 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khalid bin Mukhallad] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கத்தில் ‘ரய்யான்' எனப்படும் ஒரு நுழைவாயில் இருக்கிறது. மறுமை நாளில், அதன் வழியாக நோன்பாளிகளே நுழைவார்கள்; அவர்களைத் தவிர வேறு யாரும் அதன் வழியாக நுழையமாட்டார் கள். நோன்பாளிகள் எங்கே?' என்று கேட்கப்படும்; உடனே அவர்கள் எழுவார் கள்; அவர்களைத் தவிர வேறு யாரும் அதன் வழியாக நுழையமாட்டார்கள்; அவர்கள் நுழைந்ததும் அவ்வாசல் அடைக்கப்பட்டுவிடும்; அதன் வழியாக வேறு யாரும் நுழையமாட்டார்கள்.4 இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 30
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கத்தில் ‘ரய்யான்' எனப்படும் ஒரு நுழைவாயில் இருக்கிறது. மறுமை நாளில், அதன் வழியாக நோன்பாளிகளே நுழைவார்கள்; அவர்களைத் தவிர வேறு யாரும் அதன் வழியாக நுழையமாட்டார் கள். நோன்பாளிகள் எங்கே?' என்று கேட்கப்படும்; உடனே அவர்கள் எழுவார் கள்; அவர்களைத் தவிர வேறு யாரும் அதன் வழியாக நுழையமாட்டார்கள்; அவர்கள் நுழைந்ததும் அவ்வாசல் அடைக்கப்பட்டுவிடும்; அதன் வழியாக வேறு யாரும் நுழையமாட்டார்கள்.4 இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1896</td></tr><tr><td>Arabic No</td><td>1896</td></tr><tr><td>Reference</td><td>Book 30 Hadith 6</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Khalid bin Mukhallad] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sehl (r.a) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Cennette Reyyan adında bir kapı vardır. Kıyamet gününde bu kapıdan sadece oruç tutanlar girecektir; onlardan başka hiç kimse bu kapıdan geçemeyecektir, O gün: "Oruç tutanlar nerede?" diye sorulacak. Oruçlular da ayağa kalkacak ve bu kapıdan geçip cennete girecek. Onlar girdikten sonra bu kapı kapanacak ve hiç kimse bir daha bu kapıdan giremeyecek." Tekrar: 3257
+Sehl (r.a) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Cennette Reyyan adında bir kapı vardır. Kıyamet gününde bu kapıdan sadece oruç tutanlar girecektir; onlardan başka hiç kimse bu kapıdan geçemeyecektir, O gün: "Oruç tutanlar nerede?" diye sorulacak. Oruçlular da ayağa kalkacak ve bu kapıdan geçip cennete girecek. Onlar girdikten sonra bu kapı kapanacak ve hiç kimse bir daha bu kapıdan giremeyecek." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1896</td></tr><tr><td>Arabic No</td><td>1896</td></tr><tr><td>Reference</td><td>Book 30 Hadith 6</td></tr></tbody></table></div>
 

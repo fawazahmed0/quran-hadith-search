@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৪৯. আবদুর রহমান ইবন হারমলা আসলামী (রহঃ) বলেনঃ আমি সাঈদ ইবন মুসায়্যাব (রহঃ)-কে দেখিয়াছি নকসীরের কারণে তাহার নাক হইতে রক্ত প্রবাহিত হইতেছিল, এমনকি তাহার নাক হইতে প্রবাহিত রক্তের দ্বারা তাহার আঙুল রঞ্জিত হইয়া গেল। অতঃপর তিনি নামায পড়িলেন অথচ ওযু করিলেন না।[1]
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Hasan</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
 

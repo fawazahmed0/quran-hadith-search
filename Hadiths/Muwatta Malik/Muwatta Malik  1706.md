@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৩৫. মালিক (রহঃ)-এর কাছে কেহ জিজ্ঞাসা করিল, যদি কোন স্ত্রীলোক গায়রে মাহরম পুরুষের সাথে (অর্থাৎ যাহার সহিত বিবাহ বন্ধনে আবদ্ধ হওয়া শরীয়তসম্মত, তাহার সাথে) কিংবা স্বয়ং তাহার গোলামের সাথে খাবার খায়, তবে কি উহা জায়েয আছে? অতঃপর তিনি (ইমাম মালিক) উত্তর দিলেন, হ্যাঁ, হ্যাঁ, যদি প্রচলিত প্রথানুযায়ী হয় এবং সেখানে অপরাপর মানুষও থাকে তবে কোন অসুবিধা নাই। মহিলা কখনও তাহার স্বামীর সাথে খায় এবং কখনও বা সেই সমস্ত লোকের সাথেও খায়, যাহাদেরকে তাহার স্বামী খাওয়ায়, আবার কখনও স্বীয় ভ্রাতার সহিত খায়। তবে স্ত্রীলোকের জন্য গায়রে মাহরমের সহিত নির্জনে থাকা মকরূহ (তাহরীমা)।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>1706</td></tr><tr><td>Reference</td><td>Book 49 Hadith 36</td></tr></tbody></table></div>
 

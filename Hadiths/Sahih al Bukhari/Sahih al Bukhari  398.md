@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কা‘বায় প্রবেশ করেন, তখন তার সকল দিকে দু‘আ করেছেন, সালাত আদায় না করেই বেরিয়ে এসেছেন এবং বের হবার পর কা‘বার সামনে দু’রাক‘আত সালাত আদায় করেছেন, এবং বলেছেন, এটাই ক্বিবলা (কিবলা/কেবলা)হ। (১৬০১, ৩৩৫১, ৩৩৫২, ৪২২৮; মুসলিম ১৫/৬৮ হাঃ ১৩৩০, আহমাদ ২১৮১৩) (আধুনিক প্রকাশনীঃ ৩৮৩, ইসলামিক ফাউন্ডেশনঃ ৩৮৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কা‘বায় প্রবেশ করেন, তখন তার সকল দিকে দু‘আ করেছেন, সালাত আদায় না করেই বেরিয়ে এসেছেন এবং বের হবার পর কা‘বার সামনে দু’রাক‘আত সালাত আদায় করেছেন, এবং বলেছেন, এটাই ক্বিবলা (কিবলা/কেবলা)হ। (১৬০১, ৩৩৫১, ৩৩৫২, ৪২২৮; মুসলিম ১৫/৬৮ হাঃ ১৩৩০, আহমাদ ২১৮১৩) (আধুনিক প্রকাশনীঃ ৩৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>398</td></tr><tr><td>Arabic No</td><td>398</td></tr><tr><td>Reference</td><td>Book 8 Hadith 49</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Nashr] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (மக்கா வெற்றி கொள்ளப்பட்ட நாளில்) நபி (ஸல்) அவர்கள் இறையில்லம் கஅபாவிற்குள் நுழைந்ததும் அதன் அனைத்துத் திசைகளிலும் பிரார்த்தனை புரிந்தார்கள். (கஅபாவிற்குள்) தொழாமலேயே அதி-ருந்து வெளியேறிவிட்டார்கள். வெளியே வந்ததும் கஅபாவிற்கு முன்னே (நின்று) இரண்டு ரக்அத்கள் தொழுதுவிட்டு, “இது தான் கிப்லா (தொழும் திசை)” என்று சொன்னார்கள்.26 அத்தியாயம் : 8
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (மக்கா வெற்றி கொள்ளப்பட்ட நாளில்) நபி (ஸல்) அவர்கள் இறையில்லம் கஅபாவிற்குள் நுழைந்ததும் அதன் அனைத்துத் திசைகளிலும் பிரார்த்தனை புரிந்தார்கள். (கஅபாவிற்குள்) தொழாமலேயே அதி-ருந்து வெளியேறிவிட்டார்கள். வெளியே வந்ததும் கஅபாவிற்கு முன்னே (நின்று) இரண்டு ரக்அத்கள் தொழுதுவிட்டு, “இது தான் கிப்லா (தொழும் திசை)” என்று சொன்னார்கள்.26 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>398</td></tr><tr><td>Arabic No</td><td>398</td></tr><tr><td>Reference</td><td>Book 8 Hadith 49</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ishaq bin Nashr] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Atâ, İbn Abbâs'ın şöyle dediğini nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem Ka'be'ye girince her tarafında dua ederdi. Sonra namaz kılmadan oradan çıkardı. Çıktıktan sonra Ka'be'nin ön tarafında iki rek'at namaz kılardı. Bu, onun kıblesiydi. Tekrar: 1601, 3351, 3352, 4288
+Atâ, İbn Abbâs'ın şöyle dediğini nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem Ka'be'ye girince her tarafında dua ederdi. Sonra namaz kılmadan oradan çıkardı. Çıktıktan sonra Ka'be'nin ön tarafında iki rek'at namaz kılardı. Bu, onun kıblesiydi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>398</td></tr><tr><td>Arabic No</td><td>398</td></tr><tr><td>Reference</td><td>Book 8 Hadith 49</td></tr></tbody></table></div>
 

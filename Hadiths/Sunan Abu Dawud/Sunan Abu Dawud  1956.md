@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল ওয়াহহাব ইবন আবদুর রহীম ..... রাফে' ইবন আমর আল মাযানী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে মিনাতে লোকদের উদ্দেশ্যে খুতবা প্রদান করতে দেখেছি; দ্বি-প্রহরের নিকটবর্তী সময়ে তাঁর সাদা বেশি কালো কম মিশ্রিত রং এর খচ্চরের উপর উপবিষ্ট হয়ে। আর এ সময় আলী (রাঃ) তাঁর ব্যাখ্যা করে শোনাচ্ছেন। তখন লোকদের কিছু দন্ডায়মান এবং কিছু বসা অবস্থায় ছিল।
+। রাফী ইবনু ‘আমর আল-মুযানী (রাযি.) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মিনাতে দ্বি-প্রহরে শাহবা নামক খচ্চরে উপবিষ্ট হয়ে লোকদের উদ্দেশ্যে ভাষণ দিতে দেখেছি। এ সময় আলী (রাযি.) তাঁর ভাষণের পুনরাবৃত্তি করে শুনাচ্ছিলেন। তখন লোকদের কেউ দাঁড়ানো এবং কেউ বসা অবস্থায় ছিলো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1956</td></tr><tr><td>Arabic No</td><td>1956</td></tr><tr><td>Reference</td><td>Book 11 Hadith 236</td></tr></tbody></table></div>
 

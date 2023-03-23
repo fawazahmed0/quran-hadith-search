@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯৬৯, আন্তর্জাতিক নাম্বারঃ ১৫৯১ ৩৯৬৯-(.../...) আবূ বকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... সাঈদ ইবনু ইয়াযীদ (রহঃ) হতে উক্ত রূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৯৩২, ইসলামিক সেন্টার ৩৯৩১)
+আবূ বকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... সাঈদ ইবনু ইয়াযীদ (রহঃ) হতে উক্ত রূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৯৩২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>1591.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 116</td></tr></tbody></table></div>
 

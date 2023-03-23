@@ -41,14 +41,14 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3756</td></tr><tr><td>Arabic No</td><td>3756</td></tr><tr><td>Reference</td><td>Book 62 Hadith 101</td></tr></tbody></table></div>
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে তাঁর বুকে জড়িয়ে ধরলেন এবং বললেন, হে আল্লাহ্, তাকে হিকমত শিক্ষা দিন। (আধুনিক প্রকাশনীঃ ৩৪৭৩, ইসলামিক ফাউন্ডেশনঃ ৩৪৮১) ‘আবদুল ওয়ারিস (রহ.) হতে বর্ণিত। তিনি বলেন, [নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম] এ কথাটিও বলেছিলেন, হে আল্লাহ্! তাকে কিতাবের জ্ঞান দান করুন। মূসা (রাঃ)....খালিদ (রহ.) হতে একইভাবে বর্ণনা করেছেন। ইমাম বুখারী (রহ.) বলেন الْحِكْمَةُ অর্থ নবুওয়াতের বিষয় ছাড়া অন্যান্য বিষয়ে সঠিক সিদ্ধান্তে পৌঁছা। (৭৫) (আধুনিক প্রকাশনীঃ ৩৪৭৪, ইসলামিক ফাউন্ডেশনঃ ৩৪৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3756.2</td></tr><tr><td>Arabic No</td><td>3756.2</td></tr><tr><td>Reference</td><td>Book 62 Hadith 102</td></tr></tbody></table></div>
 
@@ -90,7 +90,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami ['Abdu Warits
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: என்னை நபி (ஸல்) அவர்கள் தம் நெஞ்சோடணைத்து, “இறைவா! இவருக்கு ஞானத்தைக் கற்றுத்தருவாயாக!” எனப் பிராத்தித்தார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அவற்றில் ஒன்றில், “இறைவா! இவருக்கு (உன்) வேதத்தைக் கற்றுத்தருவாயாக!” என்று நபி (ஸல்) அவர்கள் பிரார்த்தித்தார்கள் என வந்துள்ளது.139 மேலும், “ஞானம்' (ஹிக்மத்) என்பதற்கு, “நபித்துவம்' அல்லாத விஷயங்களில் சரியான கருத்தை அறிந்துகொள்வது என்று பொருள். அத்தியாயம் : 62
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: என்னை நபி (ஸல்) அவர்கள் தம் நெஞ்சோடணைத்து, “இறைவா! இவருக்கு ஞானத்தைக் கற்றுத்தருவாயாக!” எனப் பிராத்தித்தார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அவற்றில் ஒன்றில், “இறைவா! இவருக்கு (உன்) வேதத்தைக் கற்றுத்தருவாயாக!” என்று நபி (ஸல்) அவர்கள் பிரார்த்தித்தார்கள் என வந்துள்ளது.139 மேலும், “ஞானம்' (ஹிக்மத்) என்பதற்கு, “நபித்துவம்' அல்லாத விஷயங்களில் சரியான கருத்தை அறிந்துகொள்வது என்று பொருள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3756.2</td></tr><tr><td>Arabic No</td><td>3756.2</td></tr><tr><td>Reference</td><td>Book 62 Hadith 102</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ ...... আল আদ্দা ইবন খালিদ ইবন হাওযা (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি আরাফাতের দিন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে একটি উটের উপর উপবিষ্ট অবস্থায় লোকদের উদ্দেশ্যে খুতবা দিতে দেখেছি, যা আল রিকাবীন নামক স্থানে ছিল।
+। খালিদ ইবনু ‘আদ্দাআ ইবনু হাওযাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আরাফার দিন একটি উটের পিঠে সওয়ার হয়ে তার দুই পাদানীতে পা রেখে দাঁড়িয়ে লোকদের উদ্দেশ্যে ভাষণ দিতে দেখেছি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1917</td></tr><tr><td>Arabic No</td><td>1917</td></tr><tr><td>Reference</td><td>Book 11 Hadith 197</td></tr></tbody></table></div>
 

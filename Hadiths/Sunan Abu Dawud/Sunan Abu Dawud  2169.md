@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুস সালাম ইবন মুতাহহার .... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, যদি কেউ তার স্ত্রীর সাথে হায়েযের রক্ত প্রবাহকালীন সময়ে সংগম করে তবে তাকে এক দীনার এবং রক্ত না থাকাকালীন সময়ে সংগম করে তবে অর্ধ দীনার সাদকা প্রদান করতে হবে।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, যদি কেউ হায়িয অবস্থায় স্ত্রীসহবাস করে তবে তাকে এক দীনার এবং যদি রক্তস্রাব না থাকাকালীন সময়ে সহবাস করে তবে অর্ধ দীনার সাদাকাহ করবে।[1] সহীহ মাওকূফ। এটি গত হয়েছে হা/২৬৫।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2169</td></tr><tr><td>Arabic No</td><td>2169</td></tr><tr><td>Reference</td><td>Book 12 Hadith 124</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdus Salam bin Muthahhar], telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-îbn Abbas (r.a.)'dan; demiştir ki: (Bir kimse hanımına hayız) kamnın ilk (görüldüğü) zaman(lar)ında yaklaşacak olursa, bir dinar; kan kesildiğinde (kadın daha yıkanmadan) yaklaşacak olursa, yarım dinar sadaka verir. Şunlarda rivayet etti: Nesâi, tahare, hayz; İbn Mâce, tahare; Ahmed b. Hanbel, I, 230, 237, 245, 272, 286, 306, 312, 339, 363. Açıklaması için bk. 265 no'lu hadis (I, 472)
+îbn Abbas (r.a.)'dan; demiştir ki: (Bir kimse hanımına hayız) kamnın ilk (görüldüğü) zaman(lar)ında yaklaşacak olursa, bir dinar; kan kesildiğinde (kadın daha yıkanmadan) yaklaşacak olursa, yarım dinar sadaka verir. Şunlarda rivayet etti: Nesâi, tahare, hayz; İbn Mâce, tahare; Ahmed b. Hanbel, I, 230, 237, 245, 272, 286, 306, 312, 339, 363. Açıklaması için bk. 265 no'lu hadis (I)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2169</td></tr><tr><td>Arabic No</td><td>2169</td></tr><tr><td>Reference</td><td>Book 12 Hadith 124</td></tr></tbody></table></div>
 

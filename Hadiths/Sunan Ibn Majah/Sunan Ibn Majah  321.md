@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫/৩২১। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত, তিনি বলেনঃ আবূ সাঈদ খুদরী -কে বলতে শুনেছেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে দাঁড়িয়ে পানীয় পান করতে এবং ক্বিবলা (কিবলা/কেবলা)মুখী হয়ে পেশাব করতে নিষেধ করেছেন।
+। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত, তিনি বলেনঃ আবূ সাঈদ খুদরী -কে বলতে শুনেছেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে দাঁড়িয়ে পানীয় পান করতে এবং ক্বিবলা (কিবলা/কেবলা)মুখী হয়ে পেশাব করতে নিষেধ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 1 Hadith 55</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সালামাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আয়িশাহ (রাঃ) ও ইবনু ‘আব্বাস (রাঃ) বলেছেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মক্কা্য় দশ বছর অবস্থান করেন। এ সময় তাঁর প্রতি কুরআন অবতীর্ণ হয়েছে এবং মদিনা্তেও দশ বছর (তাঁর প্রতি কুরআন অবতীর্ণ হয়েছে)। [৩৮৫১, ৪৪৬৪] (আধুনিক প্রকাশনীঃ ৪৬০৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4978</td></tr><tr><td>Arabic No</td><td>4978</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Syaiban] dari [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்களும் இப்னு அப்பாஸ் (ரலி) அவர்களும் கூறியதாவது: நபி (ஸல்) அவர்கள் தம்மீது குர்ஆன் அருளப்பெற்றுக்கொண்டிருந்த நிலையில் (தம் பிறந்தகமான) மக்காவில் பத்தாண்டுகள் தங்கி இருந்தார்கள். (ஹிஜ்ரத்திற்குப் பின்) மதீனாவில் பத்தாண்டுகள் தங்கியிருந்தார்கள்.2 அத்தியாயம் : 66
+ஆயிஷா (ரலி) அவர்களும் இப்னு அப்பாஸ் (ரலி) அவர்களும் கூறியதாவது: நபி (ஸல்) அவர்கள் தம்மீது குர்ஆன் அருளப்பெற்றுக்கொண்டிருந்த நிலையில் (தம் பிறந்தகமான) மக்காவில் பத்தாண்டுகள் தங்கி இருந்தார்கள். (ஹிஜ்ரத்திற்குப் பின்) மதீனாவில் பத்தாண்டுகள் தங்கியிருந்தார்கள்.2 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4978</td></tr><tr><td>Arabic No</td><td>4978</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

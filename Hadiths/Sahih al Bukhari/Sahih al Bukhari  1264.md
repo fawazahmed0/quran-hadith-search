@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে তিনটি ইয়ামানী সাহুলী সাদা সূতী বস্ত্র দ্বারা কাফন দেয়া হয়েছিল। তার মধ্যে কামীস এবং পাগড়ী ছিল না। (১২৭১, ১২৭২, ১২৭৩, ১২৮৭, মুসলিম ১১/১৩, হাঃ ৯৪১, আহমাদ ২৬০০৮) (আধুনিক প্রকাশনীঃ ১১৮২, ইসলামিক ফাউন্ডেশনঃ ১১৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে তিনটি ইয়ামানী সাহুলী সাদা সূতী বস্ত্র দ্বারা কাফন দেয়া হয়েছিল। তার মধ্যে কামীস এবং পাগড়ী ছিল না। (১২৭১, ১২৭২, ১২৭৩, ১২৮৭, মুসলিম ১১/১৩, হাঃ ৯৪১, আহমাদ ২৬০০৮) (আধুনিক প্রকাশনীঃ ১১৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1264</td></tr><tr><td>Arabic No</td><td>1264</td></tr><tr><td>Reference</td><td>Book 23 Hadith 25</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், யமன் தேசத்தின் பருத்தியாலான வெண் ணிறமுள்ள மூன்று துணிகளால் கஃபன் இடப்பட்டார்கள். அம்மூன்றில் மேலங் கியோ தலைப்பாகையோ இருக்கவில்லை. அத்தியாயம் : 23
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், யமன் தேசத்தின் பருத்தியாலான வெண் ணிறமுள்ள மூன்று துணிகளால் கஃபன் இடப்பட்டார்கள். அம்மூன்றில் மேலங் கியோ தலைப்பாகையோ இருக்கவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1264</td></tr><tr><td>Arabic No</td><td>1264</td></tr><tr><td>Reference</td><td>Book 23 Hadith 25</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem, pamuk'tan, sehuliyye denilen üç parça beyaz Yemen bezi içinde kefenlendi. Bunların içinde gömlek (kamîs) ve sarık yoktu. Tekrarı: 1271, 1272, 1273, 1287
+Aişe r.anha şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem, pamuk'tan, sehuliyye denilen üç parça beyaz Yemen bezi içinde kefenlendi. Bunların içinde gömlek (kamîs) ve sarık yoktu. Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1264</td></tr><tr><td>Arabic No</td><td>1264</td></tr><tr><td>Reference</td><td>Book 23 Hadith 25</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, তুফাইল ইবনু ‘আমর দাওসী ও তাঁর সঙ্গীরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বলল, ‘হে আল্লাহর রাসূল! দাওস গোত্রের লোকেরা (ইসলাম গ্রহণে) অবাধ্যতা করেছে ও অস্বীকার করেছে। আপনি তাদের বিরুদ্ধে দু‘আ করুন।’ অতঃপর বলা হলো, দাওস গোত্র ধ্বংস হোক। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, ‘হে আল্লাহ! আপনি দাওস গোত্রকে হিদায়াত করুন এবং তাদেরকে ইসলামে নিয়ে আসুন।’ (৪৩৯২, ৬৩৯৭) (মুসলিম ৪৪/৪৭ হাঃ ২৫২৪, আহমাদ ৭৩১৯) (আধুনিক প্রকাশনীঃ ২৭২২, ইসলামিক ফাউন্ডেশনঃ ২৭৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, তুফাইল ইবনু ‘আমর দাওসী ও তাঁর সঙ্গীরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বলল, ‘হে আল্লাহর রাসূল! দাওস গোত্রের লোকেরা (ইসলাম গ্রহণে) অবাধ্যতা করেছে ও অস্বীকার করেছে। আপনি তাদের বিরুদ্ধে দু‘আ করুন।’ অতঃপর বলা হলো, দাওস গোত্র ধ্বংস হোক। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, ‘হে আল্লাহ! আপনি দাওস গোত্রকে হিদায়াত করুন এবং তাদেরকে ইসলামে নিয়ে আসুন।’ (৪৩৯২, ৬৩৯৭) (মুসলিম ৪৪/৪৭ হাঃ ২৫২৪, আহমাদ ৭৩১৯) (আধুনিক প্রকাশনীঃ ২৭২২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2937</td></tr><tr><td>Arabic No</td><td>2937</td></tr><tr><td>Reference</td><td>Book 56 Hadith 150</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'ai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: துûஃபல் பின் அம்ர் அத்தவ்ஸீ (ரலி) அவர்களும் அவர்களுடைய தோழர்களும் நபி (ஸல்) அவர்களிடம் வந்து, ‘‘அல்லாஹ்வின் தூதரே! (எங்கள்) யிதவ்ஸ்’ குலத்தார் மாறுசெய்து (இஸ்லாத்தை ஏற்க மறுத்து)விட்டார்கள். அவர்களுக்கெதிராகப் பிரார்த்தியுங்கள்” என்று கேட்டுக் கொண் டனர். அப்போது, ‘‘தவ்ஸ் குலத்தார் அழியட் டும்” என்று கூறப்பட்டது. நபி (ஸல்) அவர்கள், ‘‘இறைவா! தவ்ஸ் குலத்தாரை நல்வழியில் செலுத்துவாயாக! அவர்களை (இஸ்லாத்திற்குக்) கொண்டுவருவாயாக!” என்று பிரார்த்தித்தார்கள். அத்தியாயம் : 56
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: துûஃபல் பின் அம்ர் அத்தவ்ஸீ (ரலி) அவர்களும் அவர்களுடைய தோழர்களும் நபி (ஸல்) அவர்களிடம் வந்து, ‘‘அல்லாஹ்வின் தூதரே! (எங்கள்) யிதவ்ஸ்’ குலத்தார் மாறுசெய்து (இஸ்லாத்தை ஏற்க மறுத்து)விட்டார்கள். அவர்களுக்கெதிராகப் பிரார்த்தியுங்கள்” என்று கேட்டுக் கொண் டனர். அப்போது, ‘‘தவ்ஸ் குலத்தார் அழியட் டும்” என்று கூறப்பட்டது. நபி (ஸல்) அவர்கள், ‘‘இறைவா! தவ்ஸ் குலத்தாரை நல்வழியில் செலுத்துவாயாக! அவர்களை (இஸ்லாத்திற்குக்) கொண்டுவருவாயாக!” என்று பிரார்த்தித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2937</td></tr><tr><td>Arabic No</td><td>2937</td></tr><tr><td>Reference</td><td>Book 56 Hadith 150</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'ai
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. anlatıyor: Devs kabilesinden Tufey! İbn Amr ile arkadaşları Resulullah Sallallahu Aleyhi ve Sellem'e gelerek: "Ey Allah'ın Resulü, Devs kabilesi iyice azgınlaştı; isyankar bir tutum içindeler ve İslam'ı kabul etmeye yanaşmıyorlar! Onlara beddua etsenize!" dediler. Bunun üzerine orada bulunanlar: "Devs'in işi pek yaman, artık kurtuluşları yok; helak olacaklar!" dediler. Fakat Resulullah Sallallahu Aleyhi ve Sellem şöyle dua etti: "Allahım, Devs kabilesini hidayete erdir. Allahım, onları Müslümanlar olarak bize getir!" Tekrar: 4392, 6397
+Ebu Hureyre r.a. anlatıyor: Devs kabilesinden Tufey! İbn Amr ile arkadaşları Resulullah Sallallahu Aleyhi ve Sellem'e gelerek: "Ey Allah'ın Resulü, Devs kabilesi iyice azgınlaştı; isyankar bir tutum içindeler ve İslam'ı kabul etmeye yanaşmıyorlar! Onlara beddua etsenize!" dediler. Bunun üzerine orada bulunanlar: "Devs'in işi pek yaman, artık kurtuluşları yok; helak olacaklar!" dediler. Fakat Resulullah Sallallahu Aleyhi ve Sellem şöyle dua etti: "Allahım, Devs kabilesini hidayete erdir. Allahım, onları Müslümanlar olarak bize getir!" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2937</td></tr><tr><td>Arabic No</td><td>2937</td></tr><tr><td>Reference</td><td>Book 56 Hadith 150</td></tr></tbody></table></div>
 

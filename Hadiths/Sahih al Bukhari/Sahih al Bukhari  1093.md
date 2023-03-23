@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আমির (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি, তাঁর সওয়ারী যে দিকেই ফিরেছে, তিনি সে দিকেই সালাত আদায় করেছেন। (১০৯৭, ১১০৪; মুসলিম ৬/৪, হাঃ ৭০১) (আধুনিক প্রকাশনীঃ ১০২৬, ইসলামিক ফাউন্ডেশনঃ ১০৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমির (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি, তাঁর সওয়ারী যে দিকেই ফিরেছে, তিনি সে দিকেই সালাত আদায় করেছেন। (১০৯৭, ১১০৪; মুসলিম ৬/৪, হাঃ ৭০১) (আধুনিক প্রকাশনীঃ ১০২৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1093</td></tr><tr><td>Arabic No</td><td>1093</td></tr><tr><td>Reference</td><td>Book 18 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆமிர் பின் ரபீஆ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது ஒட்டக ஊர்தியில் அமர்ந்து, அது செல்லும் திசை நோக்கி (கூடுதலான தொழுகைகளை) தொழுவதை நான் பார்த்திருக்கிறேன். அத்தியாயம் : 18
+ஆமிர் பின் ரபீஆ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது ஒட்டக ஊர்தியில் அமர்ந்து, அது செல்லும் திசை நோக்கி (கூடுதலான தொழுகைகளை) தொழுவதை நான் பார்த்திருக்கிறேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1093</td></tr><tr><td>Arabic No</td><td>1093</td></tr><tr><td>Reference</td><td>Book 18 Hadith 13</td></tr></tbody></table></div>
 

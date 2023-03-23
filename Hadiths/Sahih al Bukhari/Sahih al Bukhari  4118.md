@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, বনূ গান্ম গোত্রের গলিতে জিবরীল বাহিনীর গমনে উত্থিত ধূলারাশি এখনো দেখতে পাচ্ছি, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যখন বানু কুরাইযার দিকে যাচ্ছিলেন। [৩২১৪] (আধুনিক প্রকাশনীঃ ৩৮১২, ইসলামিক ফাউন্ডেশনঃ ৩৮১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, বনূ গান্ম গোত্রের গলিতে জিবরীল বাহিনীর গমনে উত্থিত ধূলারাশি এখনো দেখতে পাচ্ছি, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যখন বানু কুরাইযার দিকে যাচ্ছিলেন। [৩২১৪] (আধুনিক প্রকাশনীঃ ৩৮১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4118</td></tr><tr><td>Arabic No</td><td>4118</td></tr><tr><td>Reference</td><td>Book 64 Hadith 162</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Jarir bin 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறிய தாவது: (கஸ்ரஜ் குலத்தைச் சேர்ந்த) பனூ ஃகன்ம் கிளையாரின் குறுகலான வீதியில் நபி (ஸல்) அவர்கள் “பனூ குறைழா' குலத்தாரை நோக்கிச் சென்றபோது (வானவர்) ஜிப்ரீல் (அலை) அவர்கள் தமது படை பரிவாரங்களுடன் கம்பீரமாக பவனிவந்ததால் கிளம்பிய புழுதியை (இப்போதுகூட) நான் பார்ப்பதைப் போன்றுள்ளது.191 அத்தியாயம் : 64
+அனஸ் (ரலி) அவர்கள் கூறிய தாவது: (கஸ்ரஜ் குலத்தைச் சேர்ந்த) பனூ ஃகன்ம் கிளையாரின் குறுகலான வீதியில் நபி (ஸல்) அவர்கள் “பனூ குறைழா' குலத்தாரை நோக்கிச் சென்றபோது (வானவர்) ஜிப்ரீல் (அலை) அவர்கள் தமது படை பரிவாரங்களுடன் கம்பீரமாக பவனிவந்ததால் கிளம்பிய புழுதியை (இப்போதுகூட) நான் பார்ப்பதைப் போன்றுள்ளது.191 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4118</td></tr><tr><td>Arabic No</td><td>4118</td></tr><tr><td>Reference</td><td>Book 64 Hadith 162</td></tr></tbody></table></div>
 

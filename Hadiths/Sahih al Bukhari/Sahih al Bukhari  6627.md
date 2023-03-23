@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার একটি বাহিনী পাঠালেন যার আমীর নিযুক্ত করলেন উসামাহ ইবনু যায়দকে। কতক লোক তাঁর নেতৃত্ব সম্পর্কে সমালোচনা করল। তখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে বললেনঃ তোমরা তাঁর নেতৃত্ব নিয়ে সমালোচনা কর, তবে ইতোপূর্বে তাঁর পিতার নেতৃত্ব সম্পর্কেও তোমরা সমালোচনা করেছিলে। আল্লাহর কসম! সে অবশ্যই নেতৃত্বের যোগ্য ছিল। আর মানুষের মাঝে সে আমার সর্বাপেক্ষা প্রিয় ছিল। তারপরে অবশ্যই এ উসামাহ সকল মানুষ অপেক্ষা আমার কাছে প্রিয়। [৩৭৩০] (আধুনিক প্রকাশনী- ৬১৬৫, ইসলামিক ফাউন্ডেশন- ৬১৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার একটি বাহিনী পাঠালেন যার আমীর নিযুক্ত করলেন উসামাহ ইবনু যায়দকে। কতক লোক তাঁর নেতৃত্ব সম্পর্কে সমালোচনা করল। তখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে বললেনঃ তোমরা তাঁর নেতৃত্ব নিয়ে সমালোচনা কর, তবে ইতোপূর্বে তাঁর পিতার নেতৃত্ব সম্পর্কেও তোমরা সমালোচনা করেছিলে। আল্লাহর কসম! সে অবশ্যই নেতৃত্বের যোগ্য ছিল। আর মানুষের মাঝে সে আমার সর্বাপেক্ষা প্রিয় ছিল। তারপরে অবশ্যই এ উসামাহ সকল মানুষ অপেক্ষা আমার কাছে প্রিয়। [৩৭৩০] (আধুনিক প্রকাশনী- ৬১৬৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6627</td></tr><tr><td>Arabic No</td><td>6627</td></tr><tr><td>Reference</td><td>Book 83 Hadith 7</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Umar:Allah's Messenger (ﷺ) sent an army detachment and made Usama bin Zaid its commander. Some people criticized (spoke badly of) Usama's leadership. So Allah's Messenger (ﷺ) got up saying, "If you people are criticizing Usama's leadership, you have already criticized the leadership of his father before. But Waaimullah (i.e., By Allah), he (i.e. Zaid) deserved the leadership, and he was one of the most beloved persons to me; and now this (his son Usama) is one of the dearest persons to me after him." (See Hadith No. 765, Vol. 5)
+Narrated Ibn 'Umar:Allah's Messenger (ﷺ) sent an army detachment and made Usama bin Zaid its commander. Some people criticized (spoke badly of) Usama's leadership. So Allah's Messenger (ﷺ) got up saying, "If you people are criticizing Usama's leadership, you have already criticized the leadership of his father before. But Waaimullah (i.e., By Allah), he (i.e. Zaid) deserved the leadership, and he was one of the most beloved persons to me; and now this (his son Usama) is one of the dearest persons to me after him." (See Hadith No. 765, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6627</td></tr><tr><td>Arabic No</td><td>6627</td></tr><tr><td>Reference</td><td>Book 83 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'd] dari [Isma'il bin Ja'far] dar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், உசாமா பின் ஸைத் (ரலி) அவர்களைத் தளபதியாக்கி ஒரு படைப் பிரிவை அனுப்பினார்கள். மக்களில் சிலர் உசாமா அவர்களின் தலைமையைக் குறை கூறினர். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எழுந்து, “(இப்போது) இவரது தலைமையை நீங்கள் குறை கூறுகிறீர்கள் என்றால், (இது ஒன்றும் புதிதல்ல!) இதற்கு முன்பு (மூத்தா போரின் போது) இவருடைய தந்தையின் (ஸைத் அவர்களின்) தலைமையையும்தான் நீங்கள் குறை கூறிக்கொண்டிருந்தீர்கள். வ அய்முல்லாஹி (அல்லாஹ்வின் மீதாணையாக!) அவர் (ஸைத்) தலைமைப் பொறுப்புக்குத் தகுதியுடையவராகவே இருந்தார். மேலும், அவர் மக்களிலேயே எனக்கு மிகவும் விருப்பமானவராகவும் இருந்தார். மக்களிலேயே (அவருடைய புதல்வரான) இவர் (உசாமா) என் அன்புக்குரியவர் ஆவார்” என்று சொன்னார்கள்.8 அத்தியாயம் : 83
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், உசாமா பின் ஸைத் (ரலி) அவர்களைத் தளபதியாக்கி ஒரு படைப் பிரிவை அனுப்பினார்கள். மக்களில் சிலர் உசாமா அவர்களின் தலைமையைக் குறை கூறினர். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எழுந்து, “(இப்போது) இவரது தலைமையை நீங்கள் குறை கூறுகிறீர்கள் என்றால், (இது ஒன்றும் புதிதல்ல!) இதற்கு முன்பு (மூத்தா போரின் போது) இவருடைய தந்தையின் (ஸைத் அவர்களின்) தலைமையையும்தான் நீங்கள் குறை கூறிக்கொண்டிருந்தீர்கள். வ அய்முல்லாஹி (அல்லாஹ்வின் மீதாணையாக!) அவர் (ஸைத்) தலைமைப் பொறுப்புக்குத் தகுதியுடையவராகவே இருந்தார். மேலும், அவர் மக்களிலேயே எனக்கு மிகவும் விருப்பமானவராகவும் இருந்தார். மக்களிலேயே (அவருடைய புதல்வரான) இவர் (உசாமா) என் அன்புக்குரியவர் ஆவார்” என்று சொன்னார்கள்.8 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6627</td></tr><tr><td>Arabic No</td><td>6627</td></tr><tr><td>Reference</td><td>Book 83 Hadith 7</td></tr></tbody></table></div>
 

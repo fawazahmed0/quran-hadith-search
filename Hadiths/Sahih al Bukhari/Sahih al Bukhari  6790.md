@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ এক দ্বীনারের চার ভাগের এক ভাগ চুরি করলে হাত কাটা হবে। [৬৭৮৯] (আধুনিক প্রকাশনী- ৬৩২১, ইসলামিক ফাউন্ডেশন- ৬৩৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ এক দ্বীনারের চার ভাগের এক ভাগ চুরি করলে হাত কাটা হবে। [৬৭৮৯] (আধুনিক প্রকাশনী- ৬৩২১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6790</td></tr><tr><td>Arabic No</td><td>6790</td></tr><tr><td>Reference</td><td>Book 86 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il bin Abi Uwais] dari [Ibnu Wahb] dari [Yu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: கால் தீனாரை (பொற்காசு) திருடிய வரின் கை வெட்டப்படும். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 86
+நபி (ஸல்) அவர்கள் கூறினார்கள்: கால் தீனாரை (பொற்காசு) திருடிய வரின் கை வெட்டப்படும். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6790</td></tr><tr><td>Arabic No</td><td>6790</td></tr><tr><td>Reference</td><td>Book 86 Hadith 19</td></tr></tbody></table></div>
 

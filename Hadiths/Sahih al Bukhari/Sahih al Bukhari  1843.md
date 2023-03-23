@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আরাফার ময়দানে আমাদেরকে লক্ষ্য করে তাঁর ভাষণে বললেনঃ (মুহরিম অবস্থায়) যার লুঙ্গি নেই সে যেন পায়জামা পরিধান করে এবং যার জুতা নেই সে যেন মোজা পরিধান করে। (১৭৪০) (আধুনিক প্রকাশনীঃ ১৭১১, ইসলামিক ফাউন্ডেশনঃ ১৭২১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আরাফার ময়দানে আমাদেরকে লক্ষ্য করে তাঁর ভাষণে বললেনঃ (মুহরিম অবস্থায়) যার লুঙ্গি নেই সে যেন পায়জামা পরিধান করে এবং যার জুতা নেই সে যেন মোজা পরিধান করে। (১৭৪০) (আধুনিক প্রকাশনীঃ ১৭১১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) delivered a sermon at 'Arafat and said, "W
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அரஃபாவில் எங்களுக்கு உரை நிகழ்த்தினார்கள். அப்போது அவர்கள், “யாருக்குக் கீழங்கி கிடைக்க வில்லையோ அவர் முழுக்கால் சட்டை களை அணியட்டும்! யாருக்குக் காலணி கள் கிடைக்கவில்லையோ அவர் காலுறை களை அணியட்டும்!” என்றார்கள். அத்தியாயம் : 28
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அரஃபாவில் எங்களுக்கு உரை நிகழ்த்தினார்கள். அப்போது அவர்கள், “யாருக்குக் கீழங்கி கிடைக்க வில்லையோ அவர் முழுக்கால் சட்டை களை அணியட்டும்! யாருக்குக் காலணி கள் கிடைக்கவில்லையோ அவர் காலுறை களை அணியட்டும்!” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৪১২৬। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, তোমরা মিসকীনদের মহববত করবে। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে তাঁর দোয়ায় বলতে শুনেছিঃ ‘‘হে আল্লাহ! তুমি আমাকে মিসকীনরূপে জীবিত রাখো, মিসকীনরূপে মৃত্যুদান করো এবং মিসকীনদের দলভুক্ত করে হাশরের ময়দানে উত্থিত করো ’’।
+। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, তোমরা মিসকীনদের মহববত করবে। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে তাঁর দোয়ায় বলতে শুনেছিঃ ‘‘হে আল্লাহ! তুমি আমাকে মিসকীনরূপে জীবিত রাখো, মিসকীনরূপে মৃত্যুদান করো এবং মিসকীনদের দলভুক্ত করে হাশরের ময়দানে উত্থিত করো ’’।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4126</td></tr><tr><td>Arabic No</td><td>4126</td></tr><tr><td>Reference</td><td>Book 37 Hadith 27</td></tr></tbody></table></div>
 

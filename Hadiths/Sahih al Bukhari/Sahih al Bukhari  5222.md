@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আসমা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আল্লাহর চেয়ে অধিক আত্মমর্যাদাবোধ আর কারো নেই। (আধুনিক প্রকাশনী- ৪৮৩৯, ইসলামিক ফাউন্ডেশন- ৪৮৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আসমা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আল্লাহর চেয়ে অধিক আত্মমর্যাদাবোধ আর কারো নেই। (আধুনিক প্রকাশনী- ৪৮৩৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5222</td></tr><tr><td>Arabic No</td><td>5222</td></tr><tr><td>Reference</td><td>Book 67 Hadith 155</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். அல்லாஹ்வைவிட அதிக ரோஷமுடையவர் யாருமில்லை. இதை அஸ்மா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 67
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். அல்லாஹ்வைவிட அதிக ரோஷமுடையவர் யாருமில்லை. இதை அஸ்மா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5222</td></tr><tr><td>Arabic No</td><td>5222</td></tr><tr><td>Reference</td><td>Book 67 Hadith 155</td></tr></tbody></table></div>
 

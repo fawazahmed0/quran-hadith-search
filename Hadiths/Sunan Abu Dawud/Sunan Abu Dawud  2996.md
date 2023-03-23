@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আনাস ইবন মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ সাফিয়্যা প্রথমে দাহিয়া-কালবীর অংশে পড়েন। পরে তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অংশভুক্ত হন।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, সাফিয়্যাহ (রাঃ) প্রথমে দিহয়া আল-কালবীর (রাঃ) অংশে ছিলেন। অতঃপর তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অধীনে আসেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2996</td></tr><tr><td>Arabic No</td><td>2996</td></tr><tr><td>Reference</td><td>Book 20 Hadith 69</td></tr></tbody></table></div>
 

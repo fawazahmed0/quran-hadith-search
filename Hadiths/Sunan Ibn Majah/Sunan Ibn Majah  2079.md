@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২০৭৯। ইবনু ‘উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্রীতদাসীর তালাক হচ্ছে দু’বার এবং তার ইদ্দাত দু’ হায়েযকাল।
+। ইবনু ‘উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্রীতদাসীর তালাক হচ্ছে দু’বার এবং তার ইদ্দাত দু’ হায়েযকাল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2079</td></tr><tr><td>Arabic No</td><td>2079</td></tr><tr><td>Reference</td><td>Book 10 Hadith 64</td></tr></tbody></table></div>
 

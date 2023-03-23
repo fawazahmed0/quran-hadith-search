@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন খালিদ (রহঃ) ..... আওফ ইবন মালিক আশজায়ী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ নেতা, উপ-নেতা বা দাম্ভিক ধোঁকাবাজ লোক ছাড়া আর কেউ-ই কিসসা-কাহিনী বর্ণনা করে না।
+। আউফ ইবনু মালিক আশজাঈ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ শাসক, তার অধিনস্ত ব্যক্তি বা কোনো অহংকারী ব্যতীত আর কেউই কিসসা বর্ণনা করে না।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3665</td></tr><tr><td>Arabic No</td><td>3665</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
 

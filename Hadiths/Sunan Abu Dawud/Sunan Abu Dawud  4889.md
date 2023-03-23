@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাঈদ ইবন আমর হিমসী (রহঃ) .... আবূ উমামা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হাকিম (বিচারক) যখন অনুমানের অনুসারী হবে (এবং শরীআতের বিধানের তোয়াক্কা করে না), এমতাবস্থায় সে লোকদের ধ্বংস করে ফেলবে।
+। জুবাইর ইবনু নুফাইর, কাসির ইবনু মুররাহ, আমর ইবনু আসওয়াদ, আল-মিকদাম ইবনু মা'দীকারীব ও আবূ উমামা (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, শাসক জনগণকে অপরাধী সন্দেহ করলে তাদেরকে দুর্নীতিগ্রস্ত করে ফেলবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
 

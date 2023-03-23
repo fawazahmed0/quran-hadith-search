@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কোন আহলে কিতাব তোমাদের সালাম দেয়, তখন তোমরা বলবে ওয়া আলাইকুম (তোমাদের উপরও)। [২৯৬২; মুসলিম ৩৯/৪, হাঃ ২১৬৩, আহমাদ ১১৯৪৮] (আধুনিক প্রকাশনী- ৫৮১৬, ইসলামিক ফাউন্ডেশন- ৫৭১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কোন আহলে কিতাব তোমাদের সালাম দেয়, তখন তোমরা বলবে ওয়া আলাইকুম (তোমাদের উপরও)। [২৯৬২; মুসলিম ৩৯/৪, হাঃ ২১৬৩, আহমাদ ১১৯৪৮] (আধুনিক প্রকাশনী- ৫৮১৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6258</td></tr><tr><td>Arabic No</td><td>6258</td></tr><tr><td>Reference</td><td>Book 79 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: வேதக்காரர்கள் உங்களுக்கு சலாம் சொன்னால் ‘வ அலைக்கும்’ (அவ்வாறே உங்களுக்கு நேரட்டும்) என்று (பதில்) கூறுங்கள். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 79
+நபி (ஸல்) அவர்கள் கூறினார்கள்: வேதக்காரர்கள் உங்களுக்கு சலாம் சொன்னால் ‘வ அலைக்கும்’ (அவ்வாறே உங்களுக்கு நேரட்டும்) என்று (பதில்) கூறுங்கள். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6258</td></tr><tr><td>Arabic No</td><td>6258</td></tr><tr><td>Reference</td><td>Book 79 Hadith 32</td></tr></tbody></table></div>
 

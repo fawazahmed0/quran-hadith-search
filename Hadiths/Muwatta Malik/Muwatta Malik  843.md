@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১৪৫. আবূ জাফর কারী (রহঃ) বর্ণনা করেন- আবদুল্লাহ ইবন আইয়াশ ইবন আবি রবী'আ মাখযূমী দুইটি উটের কুরবানী করিয়াছিলেন। ইহার মধ্যে একটি বুখতী ধরনের উষ্ট্রীও ছিল।[1]
+রেওয়ায়ত ১৪৫. আবূ জাফর কারী (রহঃ) বর্ণনা করেন- আবদুল্লাহ ইবন আইয়াশ ইবন আবি রবী'আ মাখযূমী দুইটি উটের কুরবানী করিয়াছিলেন। ইহার মধ্যে একটি বুখতী ধরনের উষ্ট্রীও ছিল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 20 Hadith 139</td></tr></tbody></table></div>
 

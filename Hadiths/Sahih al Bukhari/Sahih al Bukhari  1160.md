@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের দু’রাক‘আত সালাত আদায় করার পর ডান কাতে শয়ন করতেন। (৬২৬; মুসলিম ৬/১৭, হাঃ ৭৩৬, আহমাদ ২৫১৫৬) (আধুনিক প্রকাশনীঃ ১০৮৬, ইসলামিক ফাউন্ডেশনঃ ১০৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের দু’রাক‘আত সালাত আদায় করার পর ডান কাতে শয়ন করতেন। (৬২৬; মুসলিম ৬/১৭, হাঃ ৭৩৬, আহমাদ ২৫১৫৬) (আধুনিক প্রকাশনীঃ ১০৮৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1160</td></tr><tr><td>Arabic No</td><td>1160</td></tr><tr><td>Reference</td><td>Book 19 Hadith 39</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yazid] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ஃபஜ்ருடைய (சுன்னத்) இரண்டு ரக்அத் தொழுததும் வலப் புறம் சாய்ந்து படுத்துக்கொள்வார்கள். அத்தியாயம் : 19
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ஃபஜ்ருடைய (சுன்னத்) இரண்டு ரக்அத் தொழுததும் வலப் புறம் சாய்ந்து படுத்துக்கொள்வார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1160</td></tr><tr><td>Arabic No</td><td>1160</td></tr><tr><td>Reference</td><td>Book 19 Hadith 39</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮৩৪। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে তার সম্মুখে আমার কাপড় (চাদরখানা) বিছিয়ে দিলাম। তারপর কাপড়খানা তুলে জড়ো করে তিনি আমার বুকের উপর রাখলেন। এরপর হতে আমি আর কোন কিছুই ভুলিনি। সনদ হাসান সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান এবং উপর্যুক্ত সূত্রে গারীব।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে তার সম্মুখে আমার কাপড় (চাদরখানা) বিছিয়ে দিলাম। তারপর কাপড়খানা তুলে জড়ো করে তিনি আমার বুকের উপর রাখলেন। এরপর হতে আমি আর কোন কিছুই ভুলিনি। সনদ হাসান সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান এবং উপর্যুক্ত সূত্রে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3834</td></tr><tr><td>Arabic No</td><td>3834</td></tr><tr><td>Reference</td><td>Book 49 Hadith 234</td></tr></tbody></table></div>
 

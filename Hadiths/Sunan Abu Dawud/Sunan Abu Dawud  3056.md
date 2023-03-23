@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমূদ ইবন খালিদ (রহঃ) .... মু'আবিয়া (রাঃ) আবূ তাওবার সনদে যে হাদীছ বর্ণনা করেছেন, তাতেও এ ঘটনা বিধৃত হয়েছে। তিনি তাঁর বর্ণিত হাদীছে এরূপ ব্যক্ত করেছেনঃ যখন আমি তাঁকে বলি, আমার নিকট এবং আপনার নিকট এত পরিমাণ মাল নেই, যা দিয়ে দেনা পরিশোধ করা যায়, তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চুপ করে থাকেন। ব্যাপারটি আমার নিকট খুবই অসহনীয় ছিল (কেননা, আমার মনে হচ্ছিল, তিনি আমার কথায় কর্ণপাত করেননি)।
+। মু‘আবিয়া (রাঃ) থেকে আবূ তওবার সূত্রে অনুরূপ হাদীস বর্ণিত। এতে রয়েছেঃ বিলাল বললেন, ঋণ পরিশোধের সামর্থ্য আপনারও নেই আমারও নেই। আমার এ কথা শুনে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নীরব রইলেন। এ অবস্থাটা আমার কাছে কঠিন মনে হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3056</td></tr><tr><td>Arabic No</td><td>3056</td></tr><tr><td>Reference</td><td>Book 20 Hadith 129</td></tr></tbody></table></div>
 

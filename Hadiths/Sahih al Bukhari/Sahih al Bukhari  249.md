@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাইমূনাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসুল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের উযূর ন্যায় উযূ করলেন, পা দুটো ব্যতীত এবং তাঁর লজ্জাস্থান ও যে যে স্থানে নোংরা লেগেছে তা ধুয়ে নিলেন। অতঃপর নিজের উপর পানি ঢেলে দেন। অতঃপর সেখান হতে সরে গিয়ে পা দু’টো ধুয়ে নেন। এই ছিল তাঁর জানাবাতের গোসল। (২৫৭, ২৫৯, ২৬০, ২৬৬, ২৭৪, ২৭৬, ২৮১; মুসলিম ৩/৯, হাঃ ৩১৭, আহমাদ ২৬৮৬১) (আধুনিক প্রকাশনীঃ ২৪২, ইসলামিক ফাউন্ডেশনঃ ২৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মাইমূনাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসুল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের উযূর ন্যায় উযূ করলেন, পা দুটো ব্যতীত এবং তাঁর লজ্জাস্থান ও যে যে স্থানে নোংরা লেগেছে তা ধুয়ে নিলেন। অতঃপর নিজের উপর পানি ঢেলে দেন। অতঃপর সেখান হতে সরে গিয়ে পা দু’টো ধুয়ে নেন। এই ছিল তাঁর জানাবাতের গোসল। (২৫৭, ২৫৯, ২৬০, ২৬৬, ২৭৪, ২৭৬, ২৮১; মুসলিম ৩/৯, হাঃ ৩১৭, আহমাদ ২৬৮৬১) (আধুনিক প্রকাশনীঃ ২৪২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>249</td></tr><tr><td>Arabic No</td><td>249</td></tr><tr><td>Reference</td><td>Book 5 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவி யார் மைமூனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பெருந்துடக்கிற் காகக் குளிக்கும்போது) தம்மிரு கால்களை விட்டுவிட்டு (ஏனைய உறுப்புகளுக்கு) தொழுகைக்காக அங்கத் தூய்மை செய்வதைப் போன்று அங்கத் தூய்மை செய்வார்கள். மேலும், தமது மர்ம உறுப்பையும் உட-ல் பட்ட அசிங்கத்தையும் கழுவுவார்கள். பிறகு தம் (உடல்)மீது தண்ணீர் ஊற்றுவார்கள். பிறகு சற்று நகர்ந்து நின்று, தம் கால்களைக் கழுவுவார்கள். இதுவே பெருந்துடக்கிற்காக நபி (ஸல்) அவர்கள் குளிக்கும் முறையாகும். அத்தியாயம் : 5
+நபி (ஸல்) அவர்களின் துணைவி யார் மைமூனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பெருந்துடக்கிற் காகக் குளிக்கும்போது) தம்மிரு கால்களை விட்டுவிட்டு (ஏனைய உறுப்புகளுக்கு) தொழுகைக்காக அங்கத் தூய்மை செய்வதைப் போன்று அங்கத் தூய்மை செய்வார்கள். மேலும், தமது மர்ம உறுப்பையும் உட-ல் பட்ட அசிங்கத்தையும் கழுவுவார்கள். பிறகு தம் (உடல்)மீது தண்ணீர் ஊற்றுவார்கள். பிறகு சற்று நகர்ந்து நின்று, தம் கால்களைக் கழுவுவார்கள். இதுவே பெருந்துடக்கிற்காக நபி (ஸல்) அவர்கள் குளிக்கும் முறையாகும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>249</td></tr><tr><td>Arabic No</td><td>249</td></tr><tr><td>Reference</td><td>Book 5 Hadith 2</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nebi s.a.v.'in (muhterem) eşi Meymûne validemizden şöyle nakledilmiştir: "Rasulullah Sallallahu aleyhi ve Sellem namaz için abdest alır gibi abdest aldı. Ama ayaklarını yıkamadı. Avret mahallini ve bu bölgede kalmış olabilen meni kalıntılarını yıkadı. Sonra üzerine su döktü. Daha sonra gusül abdesti aldığı yer'den biraz kenara çekilerek ayaklarını yıkadı. İşte Nebi (Sallallahu aleyhi ve Sellem) cünüplükten dolayı bu şekilde ğusül abdesti alırdı. Tekrar: 257, 259, 260, 265, 266, 274, 276, 271
+Nebi s.a.v.'in (muhterem) eşi Meymûne validemizden şöyle nakledilmiştir: "Rasulullah Sallallahu aleyhi ve Sellem namaz için abdest alır gibi abdest aldı. Ama ayaklarını yıkamadı. Avret mahallini ve bu bölgede kalmış olabilen meni kalıntılarını yıkadı. Sonra üzerine su döktü. Daha sonra gusül abdesti aldığı yer'den biraz kenara çekilerek ayaklarını yıkadı. İşte Nebi (Sallallahu aleyhi ve Sellem) cünüplükten dolayı bu şekilde ğusül abdesti alırdı. Tekrar: 257, 259
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>249</td></tr><tr><td>Arabic No</td><td>249</td></tr><tr><td>Reference</td><td>Book 5 Hadith 2</td></tr></tbody></table></div>
 

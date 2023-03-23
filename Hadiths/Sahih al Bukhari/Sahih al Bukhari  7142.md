@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি তোমাদের উপর এমন কোন হাবশী দাসকেও শাসক নিযুক্ত করা হয়, যার মাথাটি কিশমিশের মত তবুও তার কথা শোন ও তার আনুগত্য কর। [৬৯৩] (আধুনিক প্রকাশনী- ৬৬৪৩, ইসলামিক ফাউন্ডেশন- ৬৬৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি তোমাদের উপর এমন কোন হাবশী দাসকেও শাসক নিযুক্ত করা হয়, যার মাথাটি কিশমিশের মত তবুও তার কথা শোন ও তার আনুগত্য কর। [৬৯৩] (আধুনিক প্রকাশনী- ৬৬৪৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7142</td></tr><tr><td>Arabic No</td><td>7142</td></tr><tr><td>Reference</td><td>Book 93 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உலர்ந்த திராட்சை போன்ற (சுருங்கிய) தலையுடைய அபிசீனிய (கறுப்புநிற) அடிமையொருவர் உங்களுக்குத் தலைவராக ஆக்கப்பட்டாலும் (அவரது சொல்லைக்) கேளுங்கள்; (அவருக்குக்) கீழ்ப்படியுங்கள். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.9 அத்தியாயம் : 93
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உலர்ந்த திராட்சை போன்ற (சுருங்கிய) தலையுடைய அபிசீனிய (கறுப்புநிற) அடிமையொருவர் உங்களுக்குத் தலைவராக ஆக்கப்பட்டாலும் (அவரது சொல்லைக்) கேளுங்கள்; (அவருக்குக்) கீழ்ப்படியுங்கள். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.9 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7142</td></tr><tr><td>Arabic No</td><td>7142</td></tr><tr><td>Reference</td><td>Book 93 Hadith 6</td></tr></tbody></table></div>
 

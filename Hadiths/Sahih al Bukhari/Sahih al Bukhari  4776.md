@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন এ আয়াতটি অবতীর্ণ হল (আল্লাহর বাণী) : যারা ঈমান এনেছে এবং তাদের ঈমানকে জুলুম দ্বারা কলুষিত করেনি। এটি রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সাহাবীদের উপর খুবই কঠিন মনে হল। তখন তাঁরা বললেন, আমাদের মধ্যে এমন কে আছে যে, তারা তাদের ঈমানকে জুলুম দ্বারা কলুষিত করেনি? রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, এ আয়াত দ্বারা এ অর্থ বুঝানো হয়নি। তোমরা কি লুকমানের কথা শুননি যা তিনি তাঁর পুত্রকে বলেছিলেন? إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيْمٌ নিশ্চয় শির্ক হচ্ছে বড় জুলুম। [৩২] (আধুনিক প্রকাশনীঃ ৪৪১২, ইসলামিক ফাউন্ডেশনঃ ৪৪১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন এ আয়াতটি অবতীর্ণ হল (আল্লাহর বাণী) : যারা ঈমান এনেছে এবং তাদের ঈমানকে জুলুম দ্বারা কলুষিত করেনি। এটি রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সাহাবীদের উপর খুবই কঠিন মনে হল। তখন তাঁরা বললেন, আমাদের মধ্যে এমন কে আছে যে, তারা তাদের ঈমানকে জুলুম দ্বারা কলুষিত করেনি? রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, এ আয়াত দ্বারা এ অর্থ বুঝানো হয়নি। তোমরা কি লুকমানের কথা শুননি যা তিনি তাঁর পুত্রকে বলেছিলেন? إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيْمٌ নিশ্চয় শির্ক হচ্ছে বড় জুলুম। [৩২] (আধুনিক প্রকাশনীঃ ৪৪১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4776</td></tr><tr><td>Arabic No</td><td>4776</td></tr><tr><td>Reference</td><td>Book 65 Hadith 298</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah:When there was revealed: 'It is those who believe and confuse not their beliefs with wrong.' (6.82) It was very hard for the companions of Allah's Messenger (ﷺ), so they said, "Which of us has not confused his belief with wrong?" Allah's Messenger (ﷺ) said, "The Verse does not mean this. Don't you hear Luqman's statement to his son: 'Verily! Joining others in worship, with Allah is a great wrong indeed.' (31.13)
+Narrated 'Abdullah:When there was revealed: 'It is those who believe and confuse not their beliefs with wrong.' (6.82) It was very hard for the companions of Allah's Messenger (ﷺ), so they said, "Which of us has not confused his belief with wrong?" Allah's Messenger (ﷺ) said, "The Verse does not mean this. Don't you hear Luqman's statement to his son: 'Verily! Joining others in worship, with Allah is a great wrong indeed
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4776</td></tr><tr><td>Arabic No</td><td>4776</td></tr><tr><td>Reference</td><td>Book 65 Hadith 298</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah:When there was revealed: 'It is those who believe and confuse
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim] dari [Al Qamah] dari [Abdullah radliallahu 'anhu] dia berkata; Tatkala turun ayat: Orang-orang yang beriman dan tidak mencampuradukkan iman mereka dengan kezaliman…. (Al An'am: 82). Maka hal itu terasa berat bagi para sahabat Rasulullah shallallahu 'alaihi wasallam, mereka berkata; Siapakah di antara kami yang tidak pernah mencampuri keimanannya dengan kezhaliman? Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukan itu maksudnya, bukankah kalian pernah mendengar perkataan Lukman kepada anaknya Sesungguhnya kesyirikan itu adalah kezhaliman yang besar?. (Luqman: 13)
+Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim] dari [Al Qamah] dari [Abdullah radliallahu 'anhu] dia berkata; Tatkala turun ayat: Orang-orang yang beriman dan tidak mencampuradukkan iman mereka dengan kezaliman…. (Al An'am: 82). Maka hal itu terasa berat bagi para sahabat Rasulullah shallallahu 'alaihi wasallam, mereka berkata; Siapakah di antara kami yang tidak pernah mencampuri keimanannya dengan kezhaliman? Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukan itu maksudnya, bukankah kalian pernah mendengar perkataan Lukman kepada anaknya Sesungguhnya kesyirikan itu adalah kezhaliman yang besar?. (Luqman:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4776</td></tr><tr><td>Arabic No</td><td>4776</td></tr><tr><td>Reference</td><td>Book 65 Hadith 298</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: ‘‘எவர் இறைநம்பிக்கை கொண்டு (பின்னர்) தமது இறைநம்பிக்கையுடன் அநீதியைக் கலந்திடவில்லையோ” எனும் (6:82ஆவது) இறைவசனம் அருளப்பெற்றபோது, அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் தோழர்களுக்கு அது கடினமாகத் தெரிந்தது. ஆகவே, அவர்கள், ‘‘எங்களில் எவர்தான் தமது இறைநம்பிக்கையுடன் அநீதியைக் கலந்துவிடாமல் (கலப்பற்ற இறைநம்பிக்கை மிக்கவராய்) இருக்கிறார்?” என்று கேட்டார்கள். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘அது அப்படியல்ல; (அறிஞர்) லுக்மான் அவர்கள் தம் புதல்வரிடம் ‘‘இணைகற்பிப்பது மாபெரும் அநீதியாகும்” என்று சொல்லியிருப்பதை (குர்ஆன் வாயிலாக) நீர் கேட்கவில்லையா?”என்று சொன்னார்கள்.2 அத்தியாயம் : 65
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: ‘‘எவர் இறைநம்பிக்கை கொண்டு (பின்னர்) தமது இறைநம்பிக்கையுடன் அநீதியைக் கலந்திடவில்லையோ” எனும் (6:82ஆவது) இறைவசனம் அருளப்பெற்றபோது, அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் தோழர்களுக்கு அது கடினமாகத் தெரிந்தது. ஆகவே, அவர்கள், ‘‘எங்களில் எவர்தான் தமது இறைநம்பிக்கையுடன் அநீதியைக் கலந்துவிடாமல் (கலப்பற்ற இறைநம்பிக்கை மிக்கவராய்) இருக்கிறார்?” என்று கேட்டார்கள். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘அது அப்படியல்ல; (அறிஞர்) லுக்மான் அவர்கள் தம் புதல்வரிடம் ‘‘இணைகற்பிப்பது மாபெரும் அநீதியாகும்” என்று சொல்லியிருப்பதை (குர்ஆன் வாயிலாக) நீர் கேட்கவில்லையா?”என்று சொன்னார்கள்.2 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4776</td></tr><tr><td>Arabic No</td><td>4776</td></tr><tr><td>Reference</td><td>Book 65 Hadith 298</td></tr></tbody></table></div>
 

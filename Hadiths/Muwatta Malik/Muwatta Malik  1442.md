@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৪২. আবু গাতফান (রহঃ) হইতে বর্ণিত, উমর (রাঃ) বলিয়াছেন, যে ব্যক্তি আত্মীয়তা রক্ষার জন্য অথবা দানস্বরূপ হেবা করে সে ঐ হেবা আর ফিরাইয়া আনিতে পারিবে না। আর যদি কোন বিনিময়ের আশায় হেবা করে তবে তাহা ফিরাইতে পারিবে যখন তাহাদের সাথে মনোমালিন্য হয়। মালিক (রহঃ) বলেনঃ ইহা আমাদের নিকট সর্বসম্মত বিষয় যে, যদি কেহ কোন জিনিস বিনিময়ের আশায় হেবা করে আর ঐ জিনিসের কোন ক্ষতি হয় তবে যাহাকে দিয়াছে তাহার গ্রহণ করার দিন যে দাম ছিল তাহা তাহাকে আদায় করিতে হইবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1442</td></tr><tr><td>Arabic No</td><td>1442</td></tr><tr><td>Reference</td><td>Book 36 Hadith 44</td></tr></tbody></table></div>
 

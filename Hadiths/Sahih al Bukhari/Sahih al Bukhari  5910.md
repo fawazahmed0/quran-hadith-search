@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর দু’ পা ও হাতের দু’ কব্জা গোশতবহুল ছিল। [৫৯০৭] (আধুনিক প্রকাশনী- ৫৪৭৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5910</td></tr><tr><td>Arabic No</td><td>5910</td></tr><tr><td>Reference</td><td>Book 77 Hadith 126</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Anas:The Prophet (ﷺ) had big feet and hands
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் உறுதியான பாதங்களும் (உறுதியான) உள்ளங்கைகளும் உடையவர்களாக இருந்தார்கள். அத்தியாயம் : 77
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் உறுதியான பாதங்களும் (உறுதியான) உள்ளங்கைகளும் உடையவர்களாக இருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5910</td></tr><tr><td>Arabic No</td><td>5910</td></tr><tr><td>Reference</td><td>Book 77 Hadith 126</td></tr></tbody></table></div>
 

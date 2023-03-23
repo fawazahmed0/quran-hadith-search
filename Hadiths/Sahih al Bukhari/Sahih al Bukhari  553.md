@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মালীহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, এক যুদ্ধে আমরা বুরাইদা (রাযি.)-এর সঙ্গে ছিলাম। দিনটি ছিলো মেঘলা। তাই বুরাইদাহ (রাযি.) বলেন, শীঘ্র ‘আসরের সালাত আদায় করে নাও। কারণ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ‘আসরের সালাত ছেড়ে দেয় তার ‘আমল বিনষ্ট হয়ে যায়। (৫৯৪) (আধুনিক প্রকাশনীঃ ৫২০, ইসলামিক ফাউন্ডেশনঃ ৫২৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মালীহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, এক যুদ্ধে আমরা বুরাইদা (রাযি.)-এর সঙ্গে ছিলাম। দিনটি ছিলো মেঘলা। তাই বুরাইদাহ (রাযি.) বলেন, শীঘ্র ‘আসরের সালাত আদায় করে নাও। কারণ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ‘আসরের সালাত ছেড়ে দেয় তার ‘আমল বিনষ্ট হয়ে যায়। (৫৯৪) (আধুনিক প্রকাশনীঃ ৫২০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>553</td></tr><tr><td>Arabic No</td><td>553</td></tr><tr><td>Reference</td><td>Book 9 Hadith 30</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபுல்மலீஹ் (ஆமிர் பின் உசாமா-ரஹ்) அவர்கள் கூறியதாவது: மேகமூட்டம் இருந்த ஒரு நாளில் புரைதா பின் அல்ஹசீப் (ரலி) அவர்களு டன் ஒரு போரில் நாங்கள் இருந்தோம். அப்போது அவர்கள், “அஸ்ர் தொழு கையை விரைவாக (அதன் ஆரம்ப நேரத்தில்) நிறைவேற்றுங்கள். ஏனெனில் நபி (ஸல்) அவர்கள், ‘யார் அஸ்ர் தொழுகையை விட்டுவிடுகிறாரோ அவருடைய நற்செயல்கள் அழிந்து விட்டன’ என்று கூறியுள்ளார்கள்” என்றார்கள். அத்தியாயம் : 9
+அபுல்மலீஹ் (ஆமிர் பின் உசாமா-ரஹ்) அவர்கள் கூறியதாவது: மேகமூட்டம் இருந்த ஒரு நாளில் புரைதா பின் அல்ஹசீப் (ரலி) அவர்களு டன் ஒரு போரில் நாங்கள் இருந்தோம். அப்போது அவர்கள், “அஸ்ர் தொழு கையை விரைவாக (அதன் ஆரம்ப நேரத்தில்) நிறைவேற்றுங்கள். ஏனெனில் நபி (ஸல்) அவர்கள், ‘யார் அஸ்ர் தொழுகையை விட்டுவிடுகிறாரோ அவருடைய நற்செயல்கள் அழிந்து விட்டன’ என்று கூறியுள்ளார்கள்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>553</td></tr><tr><td>Arabic No</td><td>553</td></tr><tr><td>Reference</td><td>Book 9 Hadith 30</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Melîh'ten şöyle nakledilmiştir: "Bulutlu bir günde bir gazvede Büreyde ile beraberdik. Bize: 'İkindi namazını erken kılın!' diye talimat verdi. Sonra Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletti: Kim ikindi namazını terk ederse, ameli boşa gider. Tekrar: 594
+Ebu Melîh'ten şöyle nakledilmiştir: "Bulutlu bir günde bir gazvede Büreyde ile beraberdik. Bize: 'İkindi namazını erken kılın!' diye talimat verdi. Sonra Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletti: Kim ikindi namazını terk ederse, ameli boşa gider. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>553</td></tr><tr><td>Arabic No</td><td>553</td></tr><tr><td>Reference</td><td>Book 9 Hadith 30</td></tr></tbody></table></div>
 

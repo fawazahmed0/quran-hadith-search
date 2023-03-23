@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+কুতায়বাহ ইবনু সাঈদ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এ (প্রচণ্ডতা) গরম জাহান্নামের উত্তাপ ছড়িয়ে পড়া থেকেই উৎপন্ন হয়ে থাকে। সুতরাং তোমরা (যুহরের) সালাত দেরী করে (গরম কমে গেলে) আদায় কর। (ইসলামী ফাউন্ডেশন ১২৭২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1398</td></tr><tr><td>Arabic No</td><td>615.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 232</td></tr></tbody></table></div>
 

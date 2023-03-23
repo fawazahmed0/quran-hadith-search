@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইবন মাসলামা (রহঃ) ..... আবূ মূসা আশ'আরী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি শতরঞ্চ বা দাবা/পাশা খেলে, সে আল্লাহ্‌ ও তার রাসূলের নাফরমানী করে।
+। আবূ মূসা আল-আশ‘আরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি পাশা খেললো সে আল্লাহ ও তাঁর রাসূলের নাফরমানী করলো।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4938</td></tr><tr><td>Arabic No</td><td>4938</td></tr><tr><td>Reference</td><td>Book 43 Hadith 166</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Musa b
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Musa el-Eşârî'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) (şöyle) buyurmuştur: "Tavla oynayan kimse Allah'a ve Rasûlüne karşı gelmiş demektir." Tahric edenler: İbn Mace, edeb; Muvatta, rü'ya; Ahmed İbn Hanbel, IV, 394, 397. 400
+Ebu Musa el-Eşârî'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) (şöyle) buyurmuştur: "Tavla oynayan kimse Allah'a ve Rasûlüne karşı gelmiş demektir." Tahric edenler: İbn Mace, edeb; Muvatta, rü'ya; Ahmed İbn Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4938</td></tr><tr><td>Arabic No</td><td>4938</td></tr><tr><td>Reference</td><td>Book 43 Hadith 166</td></tr></tbody></table></div>
 

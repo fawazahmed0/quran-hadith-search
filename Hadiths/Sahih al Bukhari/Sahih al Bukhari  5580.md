@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন আমাদের উপর মদ হারাম হল, তখন আমরা মদিনায় আঙ্গুর থেকে তৈরী মদ খুব কম পেতাম। সাধারণভাবে আমাদের মদ ছিল কাঁচা ও পাকা খেজুর থেকে প্রস্তুত। [২৪৬৪] (আধুনিক প্রকাশনী- ৫১৭১, ইসলামিক ফাউন্ডেশন- ৫০৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন আমাদের উপর মদ হারাম হল, তখন আমরা মদিনায় আঙ্গুর থেকে তৈরী মদ খুব কম পেতাম। সাধারণভাবে আমাদের মদ ছিল কাঁচা ও পাকা খেজুর থেকে প্রস্তুত। [২৪৬৪] (আধুনিক প্রকাশনী- ৫১৭১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5580</td></tr><tr><td>Arabic No</td><td>5580</td></tr><tr><td>Reference</td><td>Book 74 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: மது எங்களுக்குத் தடை செய்யப் பட்டது. அது தடை செய்யப்பட்டபோது மதீனாவில் திராட்சையால் தயாரிக்கப்படும் மது சிறிதளவே எங்களுக்குக் கிடைத்து வந்தது. எங்கள் மதுபானங்களில் பெரும்பலானவை நன்கு கனியாத நிறம் மாறிய பேரீச்சங்காய்களாலும் பேரீச்சங் கனிகளாலும் ஆனவையாகும். அத்தியாயம் : 74
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: மது எங்களுக்குத் தடை செய்யப் பட்டது. அது தடை செய்யப்பட்டபோது மதீனாவில் திராட்சையால் தயாரிக்கப்படும் மது சிறிதளவே எங்களுக்குக் கிடைத்து வந்தது. எங்கள் மதுபானங்களில் பெரும்பலானவை நன்கு கனியாத நிறம் மாறிய பேரீச்சங்காய்களாலும் பேரீச்சங் கனிகளாலும் ஆனவையாகும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5580</td></tr><tr><td>Arabic No</td><td>5580</td></tr><tr><td>Reference</td><td>Book 74 Hadith 6</td></tr></tbody></table></div>
 

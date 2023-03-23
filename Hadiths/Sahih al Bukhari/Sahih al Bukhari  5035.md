@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ঈদ ইবনু যুবায়র (রাঃ) বলেন, যে সকল সূরাকে তোমরা মুফাসসাল [1] বলো, তা হচ্ছে মুহ্কাম। [2] রাবী বলেন, ইবনু ‘আব্বাস (রাঃ) বলেছেন, যখন আল্লাহর রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ইন্তিকাল করেন, তখন আমার বয়স দশ বছর এবং আমি ঐ বয়সেই মুহ্কাম আয়াতসমূহ শিখে নিয়েছিলাম। [৫০৩৬] (আধুনিক প্রকাশনীঃ ৪৬৬১, ইসলামিক ফাউন্ডেশনঃ ৪৬৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘ঈদ ইবনু যুবায়র (রাঃ) বলেন, যে সকল সূরাকে তোমরা মুফাসসাল [1] বলো, তা হচ্ছে মুহ্কাম। [2] রাবী বলেন, ইবনু ‘আব্বাস (রাঃ) বলেছেন, যখন আল্লাহর রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ইন্তিকাল করেন, তখন আমার বয়স দশ বছর এবং আমি ঐ বয়সেই মুহ্কাম আয়াতসমূহ শিখে নিয়েছিলাম। [৫০৩৬] (আধুনিক প্রকাশনীঃ ৪৬৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5035</td></tr><tr><td>Arabic No</td><td>5035</td></tr><tr><td>Reference</td><td>Book 66 Hadith 58</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Musa bin Isma'il] Telah menceritakan kepada kami [A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: நீங்கள் ‘அல்முஃபஸ்ஸல்’ என்று கூறிவரும் அத்தியாயங்களே ‘அல்முஹ்கம்’ ஆகும். இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறுகிறார்கள்: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இறக்கும்போது நான் பத்து வயதுடைய (சிறு)வனாக இருந்தேன். அப்போது நான் ‘அல்முஹ்கம்’ அத்தியாயங்களை ஓதிமுடித்திருந்தேன்.49 அத்தியாயம் : 66
+சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: நீங்கள் ‘அல்முஃபஸ்ஸல்’ என்று கூறிவரும் அத்தியாயங்களே ‘அல்முஹ்கம்’ ஆகும். இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறுகிறார்கள்: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இறக்கும்போது நான் பத்து வயதுடைய (சிறு)வனாக இருந்தேன். அப்போது நான் ‘அல்முஹ்கம்’ அத்தியாயங்களை ஓதிமுடித்திருந்தேன்.49 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5035</td></tr><tr><td>Arabic No</td><td>5035</td></tr><tr><td>Reference</td><td>Book 66 Hadith 58</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepadaku [Musa bin Isma'il] Telah menceritakan kepada kami [A
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Said İbn Cübeyr'den şöyle söylediği rivayet edilmiştir: "Sizin mufassal dediğiniz sureler elbette muhkemdir. İbn Abbas şöyle demiştir: Allah Resıılü Sallallahu Aleyhi ve Sellem vefat ettiği zaman ben on yaşında idim. O vakit muhkem (sureleri) okumuştum." Hadisin geçtiği diğer yer: 5036
+Said İbn Cübeyr'den şöyle söylediği rivayet edilmiştir: "Sizin mufassal dediğiniz sureler elbette muhkemdir. İbn Abbas şöyle demiştir: Allah Resıılü Sallallahu Aleyhi ve Sellem vefat ettiği zaman ben on yaşında idim. O vakit muhkem (sureleri) okumuştum." Hadisin geçtiği diğer yer:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5035</td></tr><tr><td>Arabic No</td><td>5035</td></tr><tr><td>Reference</td><td>Book 66 Hadith 58</td></tr></tbody></table></div>
 

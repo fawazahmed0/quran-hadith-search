@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৭৪৭, আন্তর্জাতিক নাম্বারঃ ২২৪২ ৫৭৪৭-(…/…) হারূন ইবনু আবদুল্লাহ ও আবদুল্লাহ ইবনু জাফার (রহঃ) ... ইবনু উমার (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এ রকম বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৬৫৯, ইসলামিক সেন্টার ৫৬৮৯)
+(…/…) হারূন ইবনু আবদুল্লাহ ও আবদুল্লাহ ইবনু জাফার (রহঃ) ... ইবনু উমার (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এ রকম বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৬৫৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5854</td></tr><tr><td>Arabic No</td><td>2242.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 205</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইবরাহীম ইবনু ইয়াকুব (রহঃ) ... আবূ মিজলায (রাঃ) থেকে বর্ণিত যে, আবূ মুসা (রাঃ) একবার মক্কা এবং মদীনার মাঝামাঝি স্থানে অবস্থান করেছিলেন। তিনি সেখানে দু’রাকআত ইশার সালাত আদায় করলেন। তারপর দাঁড়ালেন এবং একটি রাকআত দ্বারা বেজোড় করে দিলেন, তাতে সূরা নিসার একশটি আয়াত তিলাওয়াত করলেন। তারপর বললেন, আমি যেখানে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর পদদ্বয় রাখতেন সেখানে আমার পদদ্বয় রাখতে এবং রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যা যা তিলাওয়াত করতেন তা তিলাওয়াত করতে কোন ত্রুটি করিনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
 

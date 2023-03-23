@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কেউ (সালাতে) ‘আমীন’ বলে, আর আসমানে মালাইকাহ্ ‘আমীন’ বলেন এবং উভয়ের ‘আমীন’ একই সময় হলে, তার পূর্ববর্তী সমস্ত পাপ ক্ষমা করে দেয়া হয়।* (আধুনিক প্রকাশনীঃ ৭৩৭, ইসলামিক ফাউন্ডেশনঃ ৭৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কেউ (সালাতে) ‘আমীন’ বলে, আর আসমানে মালাইকাহ্ ‘আমীন’ বলেন এবং উভয়ের ‘আমীন’ একই সময় হলে, তার পূর্ববর্তী সমস্ত পাপ ক্ষমা করে দেয়া হয়।* (আধুনিক প্রকাশনীঃ ৭৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>781</td></tr><tr><td>Arabic No</td><td>781</td></tr><tr><td>Reference</td><td>Book 10 Hadith 176</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் ‘ஆமீன்’ என்று கூற, விண்ணுலகில் வானவர்களும் ‘ஆமீன்’ கூற, இரு சாராரின் ஆமீன் கூறலும் ஒரே நேரத்தில் அமைந்துவிட்டால், அவர் அதற்குமுன் செய்த பாவங்கள் மன்னிக்கப் பட்டுவிடும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் ‘ஆமீன்’ என்று கூற, விண்ணுலகில் வானவர்களும் ‘ஆமீன்’ கூற, இரு சாராரின் ஆமீன் கூறலும் ஒரே நேரத்தில் அமைந்துவிட்டால், அவர் அதற்குமுன் செய்த பாவங்கள் மன்னிக்கப் பட்டுவிடும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>781</td></tr><tr><td>Arabic No</td><td>781</td></tr><tr><td>Reference</td><td>Book 10 Hadith 176</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৯৬২, আন্তর্জাতিক নাম্বারঃ ২৭৯৮ ৬৯৬২-(…/...) আবু সাঈদ আল আশাজ্জ, ওয়াকী (রহঃ) এর সূত্রে আ'মাশ (রহঃ) হতে এ সানাদে অবিকল হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৬৮১১, ইসলামিক সেন্টার ৬৮৬৬)
+(…/...) আবু সাঈদ আল আশাজ্জ, ওয়াকী (রহঃ) এর সূত্রে আ'মাশ (রহঃ) হতে এ সানাদে অবিকল হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৬৮১১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7069</td></tr><tr><td>Arabic No</td><td>2798.04</td></tr><tr><td>Reference</td><td>Book 52 Hadith 25</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সাঈদ খুদরী (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুযাবানা ও মুহাকালা বারণ করেছেন। মুযাবানার অর্থ- শুকনো খেজুরের বিনিময়ে গাছের মাথায় অবস্থিত তাজা খেজুর ক্রয় করা। (মুসলিম ২১/১৭, হাঃ ১৫৪৬, আহমাদ ১১৫৭৭) (আধুনিক প্রকাশনীঃ ২০৩৩, ইসলামিক ফাউন্ডেশনঃ ২০৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সাঈদ খুদরী (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুযাবানা ও মুহাকালা বারণ করেছেন। মুযাবানার অর্থ- শুকনো খেজুরের বিনিময়ে গাছের মাথায় অবস্থিত তাজা খেজুর ক্রয় করা। (মুসলিম ২১/১৭, হাঃ ১৫৪৬, আহমাদ ১১৫৭৭) (আধুনিক প্রকাশনীঃ ২০৩৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2186</td></tr><tr><td>Arabic No</td><td>2186</td></tr><tr><td>Reference</td><td>Book 34 Hadith 133</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் யிமுஸாபனா, முஹாகலா’ ஆகிய வியாபாரங்களைத் தடை செய்தார்கள். யிமுஸாபனா’ என்பது பேரீச்ச மரங்களின் உச்சியிலுள்ள பேரீச்சம்பழங்களை (கொய்யப்பட்ட) உலர்ந்த பேரீச்சம்பழங் களுக்கு (பண்டமாற்று முறையில்) விற்பதாகும். அத்தியாயம் : 34
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் யிமுஸாபனா, முஹாகலா’ ஆகிய வியாபாரங்களைத் தடை செய்தார்கள். யிமுஸாபனா’ என்பது பேரீச்ச மரங்களின் உச்சியிலுள்ள பேரீச்சம்பழங்களை (கொய்யப்பட்ட) உலர்ந்த பேரீச்சம்பழங் களுக்கு (பண்டமாற்று முறையில்) விற்பதாகும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2186</td></tr><tr><td>Arabic No</td><td>2186</td></tr><tr><td>Reference</td><td>Book 34 Hadith 133</td></tr></tbody></table></div>
 

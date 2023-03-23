@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ওয়ালীদ ইবন উতয়াবা দিমাশকী (রহঃ) ...... ওয়ালীদ ইবন মুসলিম (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি ইবন মুবারকের নিকট উপরোক্ত হাদীছটি বর্ণনা করে বললাম, ইবন আবূ ফারওয়াহ নাফে' হতে অনুরূপ হাদীছ বর্ণনা করেছেন। তিনি বললেনঃ তুমি যাদের নাম উল্লেখ করেছ, তারা কেউ-ই মালিক ইবন আনাসের সমান বিশ্বস্ত নয়।
+। ওয়ালীদ ইবনু মুসলিম (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি ইবনুল মুবারকের নিকট উপরোক্ত হাদীস বর্ণনা করি। আমি বলি, আমাদের কাছে ইবনু আবূ ফারওয়াহ নাফি থেকে হাদীসটি এভাবে বর্ণনা করেছেন। ইবনুল মুবারক বললেন, তুমি যার যার নাম উল্লেখ করেছো তারা কোনো দিক দিয়েই মালিক ইবনু আনাসের সমকক্ষ নন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2742</td></tr><tr><td>Arabic No</td><td>2742</td></tr><tr><td>Reference</td><td>Book 15 Hadith 266</td></tr></tbody></table></div>
 

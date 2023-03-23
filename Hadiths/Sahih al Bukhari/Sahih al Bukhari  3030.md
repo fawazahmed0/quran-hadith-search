@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘যুদ্ধ হচ্ছে কৌশল।’ (মুসলিম ৩২/৫ হাঃ ১৭৩৯, আহমাদ ১৪১৮১) (আধুনিক প্রকাশনীঃ ২৮০৫, ইসলামিক ফাউন্ডেশনঃ ২৮১৫৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘যুদ্ধ হচ্ছে কৌশল।’ (মুসলিম ৩২/৫ হাঃ ১৭৩৯, আহমাদ ১৪১৮১) (আধুনিক প্রকাশনীঃ ২৮০৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>3030</td></tr><tr><td>Reference</td><td>Book 56 Hadith 237</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Shodaqqoh bin Al Fadlol] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: போர் என்பது சூழ்ச்சியாகும். இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 56
+நபி (ஸல்) அவர்கள் கூறினார்கள்: போர் என்பது சூழ்ச்சியாகும். இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>3030</td></tr><tr><td>Reference</td><td>Book 56 Hadith 237</td></tr></tbody></table></div>
 

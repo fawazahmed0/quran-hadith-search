@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাইওয়া ইব্‌ন শুরায়হ (রহঃ) .... আবদুল্লাহ্‌ ইব্‌ন বুস্‌র (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কুস্‌তুন্‌তুনিয়া শহর বিজয় এবং ভয়াবহ ফিতনা বের হওয়ার মধ্যে ছয় বছরের ব্যবধান থাকবে এবং সপ্তম বছরে দাজ্জাল বের হবে।
+। আব্দুল্লাহ ইবনু বুসর (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মহাযুদ্ধ এবং (কন্সটান্টিনোপল) শহর বিজয়ের মধ্যে ছয় বছরের ব্যবধান হবে। আর সপ্তম বছরে মাসীহ দাজ্জাল আবির্ভূত হবে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4296</td></tr><tr><td>Arabic No</td><td>4296</td></tr><tr><td>Reference</td><td>Book 39 Hadith 6</td></tr></tbody></table></div>
 

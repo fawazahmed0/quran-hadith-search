@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৪১১৭। আবূ উমামা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ লোকেদের মধ্যে সর্বাপেক্ষা ঈর্ষণীয় হলো সেই মুমিন ব্যক্তি যার অবস্থা খুবই হালকা (স্বল্প সম্পদ ও ক্ষুদ্র পরিবার) এবং যে নামাযে মনোযোগী, মানুষের মাঝে অখ্যাত, তার কোন গুরুত্ব দেয়া হয় না,আর নূন্যতম প্রয়োজন মাফিক তার রিযিক এবং তাতেই ধৈর্য ধারণকারী। অচিরেই তার মৃত্যু হয়, তার পরিত্যক্ত সম্পদও কম এবং তার জন্য বিলাপকারীর সংখ্যাও কম।
+। আবূ উমামা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ লোকেদের মধ্যে সর্বাপেক্ষা ঈর্ষণীয় হলো সেই মুমিন ব্যক্তি যার অবস্থা খুবই হালকা (স্বল্প সম্পদ ও ক্ষুদ্র পরিবার) এবং যে নামাযে মনোযোগী, মানুষের মাঝে অখ্যাত, তার কোন গুরুত্ব দেয়া হয় না,আর নূন্যতম প্রয়োজন মাফিক তার রিযিক এবং তাতেই ধৈর্য ধারণকারী। অচিরেই তার মৃত্যু হয়, তার পরিত্যক্ত সম্পদও কম এবং তার জন্য বিলাপকারীর সংখ্যাও কম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4117</td></tr><tr><td>Arabic No</td><td>4117</td></tr><tr><td>Reference</td><td>Book 37 Hadith 18</td></tr></tbody></table></div>
 

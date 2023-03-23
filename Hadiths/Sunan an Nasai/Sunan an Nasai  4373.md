@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ দাউদ (রহঃ) ... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের আদেশ করেছেন, আমরা যেন (কুরবানী পশুর) চোখ ও কান ভালরূপে দেখে নিই। আর আমরা যেন এমন পশু দ্বারা কুববানী না করি যা কানা, যার কানের একদিক কাটা, যার কানের গোড়া কাটা এবং যার কান ফাঁড়া এবং যার কানে ছিদ্র আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4373</td></tr><tr><td>Arabic No</td><td>4373</td></tr><tr><td>Reference</td><td>Book 43 Hadith 13</td></tr></tbody></table></div>
 

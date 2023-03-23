@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২২০৯। হুযাইফা ইবনুল ইয়ামান (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যতক্ষণ না নিকৃষ্ট লোকের পুত্র নিকৃষ্টরা পৃথিবীতে ভাগ্যবান হবে, ততক্ষন পর্যন্ত কিয়ামত সংঘটিত হবে না। সহীহ, মিশকাত তাহকীক ছানী (৫৩৬৫)। আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমরা এ হাদীসটি শুধুমাত্র আমর ইবনু আবূ আমরের সূত্রেই জেনেছি।
+। হুযাইফা ইবনুল ইয়ামান (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যতক্ষণ না নিকৃষ্ট লোকের পুত্র নিকৃষ্টরা পৃথিবীতে ভাগ্যবান হবে, ততক্ষন পর্যন্ত কিয়ামত সংঘটিত হবে না। সহীহ, মিশকাত তাহকীক ছানী (২৩৬৫)। আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমরা এ হাদীসটি শুধুমাত্র আমর ইবনু আবূ আমরের সূত্রেই জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2209</td></tr><tr><td>Arabic No</td><td>2209</td></tr><tr><td>Reference</td><td>Book 33 Hadith 52</td></tr></tbody></table></div>
 

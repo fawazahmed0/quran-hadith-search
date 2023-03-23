@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সওমে বেসাল হতে নিষেধ করলেন। লোকেরা বললো, আপনি যে সওমে বেসাল পালন করেন! তিনি বললেন: আমি তোমাদের মত নই, আমাকে পানাহার করানো হয়। (১৯২২) (আধুনিক প্রকাশনীঃ ১৮২৩ ইসলামিক ফাউন্ডেশনঃ ১৮৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সওমে বেসাল হতে নিষেধ করলেন। লোকেরা বললো, আপনি যে সওমে বেসাল পালন করেন! তিনি বললেন: আমি তোমাদের মত নই, আমাকে পানাহার করানো হয়। (১৯২২) (আধুনিক প্রকাশনীঃ ১৮২৩ ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1962</td></tr><tr><td>Arabic No</td><td>1962</td></tr><tr><td>Reference</td><td>Book 30 Hadith 69</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொடர்நோன்பைத் தடுத்தார்கள். மக்கள், ‘‘நீங்கள் தொடர்நோன்பு நோற்கிறீர்களே?” என்று கேட்டனர். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘நான் உங்களைப் போன்றவன் அல்லன்; நிச்சயமாக எனக்கு உணவும் பானமும் வழங்கப்படுகின்றன” என்றார்கள். அத்தியாயம் : 30
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொடர்நோன்பைத் தடுத்தார்கள். மக்கள், ‘‘நீங்கள் தொடர்நோன்பு நோற்கிறீர்களே?” என்று கேட்டனர். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘நான் உங்களைப் போன்றவன் அல்லன்; நிச்சயமாக எனக்கு உணவும் பானமும் வழங்கப்படுகின்றன” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1962</td></tr><tr><td>Arabic No</td><td>1962</td></tr><tr><td>Reference</td><td>Book 30 Hadith 69</td></tr></tbody></table></div>
 

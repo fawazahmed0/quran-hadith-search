@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু‘আ করতেনঃ হে আল্লাহ্! মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পরিবারবর্গকে জীবিকা দান কর। [মুসলিম ১২/৪৩, হাঃ ১০৫৫, আহমাদ ১০২৪১] (আধুনিক প্রকাশনী- ৬০১০, ইসলামিক ফাউন্ডেশন- ৬০১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু‘আ করতেনঃ হে আল্লাহ্! মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পরিবারবর্গকে জীবিকা দান কর। [মুসলিম ১২/৪৩, হাঃ ১০৫৫, আহমাদ ১০২৪১] (আধুনিক প্রকাশনী- ৬০১০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6460</td></tr><tr><td>Arabic No</td><td>6460</td></tr><tr><td>Reference</td><td>Book 81 Hadith 49</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: “அல்லாஹ்வே! முஹம்மதின் குடும்பத் தாருக்கு(ப் பசிக்கு) உணவு வழங்குவாயாக!” என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பிரார்த்தித்தார்கள். அத்தியாயம் : 81
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: “அல்லாஹ்வே! முஹம்மதின் குடும்பத் தாருக்கு(ப் பசிக்கு) உணவு வழங்குவாயாக!” என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பிரார்த்தித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6460</td></tr><tr><td>Arabic No</td><td>6460</td></tr><tr><td>Reference</td><td>Book 81 Hadith 49</td></tr></tbody></table></div>
 

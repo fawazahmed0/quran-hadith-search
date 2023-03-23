@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) ..... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমরা উহুদ যুদ্ধের শহীদদের লাশ অন্যত্র নিয়ে যাচ্ছিলাম দাফনের জন্য। এ সময় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ঘোষক এসে বলেনঃ তিনি তোমাদের এ নির্দেশ দিয়েছেন যে, তোমরা শহীদদের লাশ তাদের শাহাদতের স্থানে দাফন করবে। তখন আমরা তাদের লাশ সেখানে দাফন করি।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আমরা উহুদের শহীদদের দাফনের জন্য অন্যত্র নিয়ে যাচ্ছিলাম। এমন সময় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঘোষক এসে ঘোষণা করলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তোমাদেরকে নির্দেশ দিয়েছেন, শহীদদের লাশ যেন তাদের নিহত হওয়ার স্থানে দাফন করা হয়। সুতরাং ‘আমরা তাদের লাশ (পূর্বের স্থানে) ফিরিয়ে আনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3165</td></tr><tr><td>Arabic No</td><td>3165</td></tr><tr><td>Reference</td><td>Book 21 Hadith 77</td></tr></tbody></table></div>
 

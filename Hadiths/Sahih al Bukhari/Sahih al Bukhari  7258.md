@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) ও যায়দ ইবনু খালিদ (রাঃ) বর্ণনা করেন যে, দু’ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট একটি মুকাদ্দামা নিয়ে আসল। [২৩১৪, ২৩১৫] (আধুনিক প্রকাশনী- ৬৭৫১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7258</td></tr><tr><td>Arabic No</td><td>7258</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Huraira and Zaid bin Khalid:Two men sued each other before the Prop
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உபைதுல்லாஹ் பின் அப்தில்லாஹ் பின் உத்பா (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் இரண்டு பேர் ஒரு வழக்கைக் கொண்டுவந்ததாக அபூஹுரைரா (ரலி) அவர்களும் ஸைத் பின் காலித் (ரலி) அவர்களும் என்னிடம் தெரிவித்தார்கள்.16 அத்தியாயம் : 95
+உபைதுல்லாஹ் பின் அப்தில்லாஹ் பின் உத்பா (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் இரண்டு பேர் ஒரு வழக்கைக் கொண்டுவந்ததாக அபூஹுரைரா (ரலி) அவர்களும் ஸைத் பின் காலித் (ரலி) அவர்களும் என்னிடம் தெரிவித்தார்கள்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7258</td></tr><tr><td>Arabic No</td><td>7258</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

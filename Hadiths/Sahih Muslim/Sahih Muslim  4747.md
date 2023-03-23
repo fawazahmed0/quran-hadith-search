@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যুহায়র ইবনু হারব (রহঃ) ..... আবূ যিনাদ (রহঃ) হতে উক্ত সানাদে এ হাদীস বর্ণনা করেছেন। তবে তিনি "যে ব্যক্তি আমীরের অবাধ্যতা করলো সে আমারই অবাধ্যতা করলো" অংশটুকু উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশন ৪৫৯৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4747</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

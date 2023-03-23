@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, এক জুমু‘আহর দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খুৎবাহ দেয়ার সময় এক ব্যক্তি প্রবেশ করলে তিনি তাকে জিজ্ঞেস করলেন, সালাত আদায় করেছ কি? সে বলল, না; তিনি বললেনঃ উঠ, দু’ রাক‘আত সালাত আদায় কর। (৯৩০) (আধুনিক প্রকাশনীঃ ৮৭৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 11 Hadith 55</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வெள்ளிக்கிழமை அன்று உரையாற்றிக்கொண்டிருக்கையில் ஒரு மனிதர் (பள்ளிவாசலுக்கு) உள்ளே வந்(து தொழாமல் அமர்ந்)தார். உடனே நபி (ஸல்) அவர்கள் (அவரிடம்), “நீர் தொழுது விட்டீரா?” என்று கேட்டார்கள். அதற்கு அவர், ‘இல்லை’ என்றார். “(எழுந்து) இரண்டு ரக்அத்கள் (சுருக்கமாகத்) தொழுவீராக!” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 11
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வெள்ளிக்கிழமை அன்று உரையாற்றிக்கொண்டிருக்கையில் ஒரு மனிதர் (பள்ளிவாசலுக்கு) உள்ளே வந்(து தொழாமல் அமர்ந்)தார். உடனே நபி (ஸல்) அவர்கள் (அவரிடம்), “நீர் தொழுது விட்டீரா?” என்று கேட்டார்கள். அதற்கு அவர், ‘இல்லை’ என்றார். “(எழுந்து) இரண்டு ரக்அத்கள் (சுருக்கமாகத்) தொழுவீராக!” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 11 Hadith 55</td></tr></tbody></table></div>
 

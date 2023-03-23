@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আর আমি ও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই (পাত্র থেকে পানি নিয়ে) গোসল করতাম। [২৫০] আধুনিক প্রকাশনী- ৫৫২৩, ইসলামিক ফাউন্ডেশন- ৫৪১৮
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আর আমি ও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই (পাত্র থেকে পানি নিয়ে) গোসল করতাম। [২৫০] আধুনিক প্রকাশনী- ৫৫২৩, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>5956</td></tr><tr><td>Reference</td><td>Book 77 Hadith 172</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Aisha added:The Prophet (ﷺ) and I used to take a bath from one container (of w
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேலும், ஆயிஷா (ரலி) அவர்கள் கூறியதாவது:) நானும் நபி (ஸல்) அவர்களும் ஒரே பாத்திரத்திலிருந்து (அள்ளி, ஒன்றாகக்) குளித்துவந்தோம். அத்தியாயம் : 77
+மேலும், ஆயிஷா (ரலி) அவர்கள் கூறியதாவது:) நானும் நபி (ஸல்) அவர்களும் ஒரே பாத்திரத்திலிருந்து (அள்ளி, ஒன்றாகக்) குளித்துவந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>5956</td></tr><tr><td>Reference</td><td>Book 77 Hadith 172</td></tr></tbody></table></div>
 

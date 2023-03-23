@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু শিহাব বলেন, জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে যিনি শুনেছেন, তিনি আমাকে বলেছেন যে, যারা তাকে জানাযা পড়ার জায়গায় নিয়ে রজম করেছিলেন আমি তাদের মধ্যে ছিলাম। ইউনুস, মা‘মার ও ইবনু জুরায়জ (রহ.) জাবির (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রজমের ব্যাপারে এ হাদীসটি বর্ণনা করেছেন। [৫২৭০] (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন- ৬৬৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু শিহাব বলেন, জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে যিনি শুনেছেন, তিনি আমাকে বলেছেন যে, যারা তাকে জানাযা পড়ার জায়গায় নিয়ে রজম করেছিলেন আমি তাদের মধ্যে ছিলাম। ইউনুস, মা‘মার ও ইবনু জুরায়জ (রহ.) জাবির (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রজমের ব্যাপারে এ হাদীসটি বর্ণনা করেছেন। [৫২৭০] (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>7168</td></tr><tr><td>Reference</td><td>Book 93 Hadith 32</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(continued from above) Narrated Jabir bin Abdullah:I was one of those who stoned him at the Musalla in Al-Madina (See Hadith 5272)
+(continued from above) Narrated Jabir bin Abdullah:I was one of those who stoned him at the Musalla in Al-Madina (See Hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>7168</td></tr><tr><td>Reference</td><td>Book 93 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: (மதீனாவில் பெருநாள்) தொழுகைத் திடலில் வைத்து அவருக்குக் கல்லெறி தண்டனை வழங்கியவர்களில் நானும் ஒருவனாவேன்.30 கல்லெறி தண்டனை தொடர்பான இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 93
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: (மதீனாவில் பெருநாள்) தொழுகைத் திடலில் வைத்து அவருக்குக் கல்லெறி தண்டனை வழங்கியவர்களில் நானும் ஒருவனாவேன்.30 கல்லெறி தண்டனை தொடர்பான இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>7168</td></tr><tr><td>Reference</td><td>Book 93 Hadith 32</td></tr></tbody></table></div>
 

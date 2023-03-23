@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কেউ দীর্ঘদিন প্রবাসে কাটিয়ে রাতে আকস্মিকভাবে তার ঘরে যেন প্রবেশ না করে। [৪৪৭] আধুনিক প্রকাশনী- ৪৮৬১, ইসলামিক ফাউন্ডেশন- ৪৮৬৪
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কেউ দীর্ঘদিন প্রবাসে কাটিয়ে রাতে আকস্মিকভাবে তার ঘরে যেন প্রবেশ না করে। [৪৪৭] আধুনিক প্রকাশনী- ৪৮৬১, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>5244</td></tr><tr><td>Reference</td><td>Book 67 Hadith 177</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Muqatil] Telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் நீண்ட நாட்கள் கழித்து ஊர் திரும்பினால் இரவு நேரத்தில் திடீரெனத் தம் வீட்டாரிடம் செல்ல வேண்டாம்.172 இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 67
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் நீண்ட நாட்கள் கழித்து ஊர் திரும்பினால் இரவு நேரத்தில் திடீரெனத் தம் வீட்டாரிடம் செல்ல வேண்டாம்.172 இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>5244</td></tr><tr><td>Reference</td><td>Book 67 Hadith 177</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হিশাম ইব্‌ন আম্মার (রাঃ) ..... ইব্‌ন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তি নিয়মিত ইস্তিগ্‌ফার পাঠ করে, আল্লাহ তাআলা তাকে সর্ব প্রকার বিপদাপদ হতে মুক্ত করবেন, এবং সব রকম দুশ্চিন্তা হতে রক্ষা করবেন এবং তার জন্য এমন স্থান হতে রিযিকের ব্যবস্থা করবেন, যা সে কল্পনাও করতে পারেন না। (নাসাঈ, ইব্‌ন মাজা)।
+। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহু সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি নিয়মিত ইসতিগফার পড়লে আল্লাহ তাকে প্রত্যেক বিপদ হতে মুক্তির ব্যবস্থা করবেন, সকল দুশ্চিন্তা হতে মুক্ত করবেন এবং তাকে এমন উৎস থেকে রিযিক্ব দিবেন যা সে কল্পনাও করতে পারবে না।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1518</td></tr><tr><td>Arabic No</td><td>1518</td></tr><tr><td>Reference</td><td>Book 8 Hadith 103</td></tr></tbody></table></div>
 

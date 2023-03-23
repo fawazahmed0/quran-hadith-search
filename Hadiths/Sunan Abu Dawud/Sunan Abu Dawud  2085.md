@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কুৃদামা ..... আবূ মূসা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন যে, ওলী ব্যতীত কোন বিবাহই হতে পারে না। ইমাম আবূ দাঊদ (রহঃ) বলেন, হাদীসের সনদ হল, ইউনুস আবূ বুরদা থেকে এবং ইসরাঈল আবূ ইসহাক থেকে, তিনি আবূ বুরদা থেকে।
+। আবূ মূসা (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অভিভাবক ছাড়া কোনো বিয়েই হতে পারে না। ইমাম আবূ দাঊদ (রহ.) বলেন, হাদীসটির সনদ হলোঃ ইউনুস আবূ বুরদাহ থেকে, আর ইসরাঈল আবূ ইসহাক থেকে আবূ বুরদাহ সূত্রে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2085</td></tr><tr><td>Arabic No</td><td>2085</td></tr><tr><td>Reference</td><td>Book 12 Hadith 40</td></tr></tbody></table></div>
 

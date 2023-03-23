@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম (রহঃ) .... হাসান (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ কোন আযাদ ব্যক্তিকে গোলামের পরিবর্তে হত্যা করা যাবে না।
+। আর হাসান (রহঃ) বলেন, দাস হত্যার অপরাধে স্বাধীন ব্যক্তিকে হত্যা করা যাবে না।[1] সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4518</td></tr><tr><td>Arabic No</td><td>4518</td></tr><tr><td>Reference</td><td>Book 41 Hadith 25</td></tr></tbody></table></div>
 

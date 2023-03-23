@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমুদ ইবনু খালিদ ..... আবূ আমর আল্-আওযাঈ (রহঃ) বলেছেন, আসরের নামাযের সর্বশেষ সময় হল যখন সূর্যের হলুদ রং জমীনে প্রতিভাত হতে দেখা যায় (এরপর মাকরূহ সময় শুরু হয়)।
+। আবূ ‘আমর আল-আওযাঈ (রহঃ) বলেন, ‘আসরের সালাতে বিলম্ব করার অর্থ হচ্ছে, সূর্যের হলুদ রং জমিনে প্রতিভাত হতে দেখা (পর্যন্ত বিলম্ব করা)।[1] দুর্বল মাক্বতূ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
 

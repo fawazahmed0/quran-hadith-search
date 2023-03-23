@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম (রহঃ) ..... ইবন আব্বাস (রাঃ) হতে আবদুল কায়স গোত্রের প্রতিনিধিদের সম্পর্কে এরূপ বর্ণিত আছে যে, তারা জিজ্ঞাসা করেছিলঃ হে আল্লাহর নবী! আমরা কোন কোন পাত্রে পান করবো? তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ চামড়ার তৈরী মশক দ্বারা পান করবে, যার মুখ বাঁধা যায়।
+। ইবনু আব্বাস (রাঃ) সূত্রে আব্দুল কায়িস গোত্রের প্রতিনিধিদের ঘটনা প্রসঙ্গে বর্ণিত। তারা বললো, হে আল্লাহর নবী! আমরা কিসে করে পান করবো? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের উচিত মুখ বন্ধ করে রাখা চামড়ার মশক ব্যবহার করা।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3694</td></tr><tr><td>Arabic No</td><td>3694</td></tr><tr><td>Reference</td><td>Book 27 Hadith 26</td></tr></tbody></table></div>
 

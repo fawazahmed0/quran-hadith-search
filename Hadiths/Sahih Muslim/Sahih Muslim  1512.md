@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩৯৮, আন্তর্জাতিক নাম্বারঃ ৬৪৯ ১৩৯৮-(.../...) মুহাম্মাদ ইবনু রাফি (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৩৮৪, ইসলামীক সেন্টার ১৩৯৬)
+মুহাম্মাদ ইবনু রাফি (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৩৮৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1512</td></tr><tr><td>Arabic No</td><td>649.12</td></tr><tr><td>Reference</td><td>Book 5 Hadith 345</td></tr></tbody></table></div>
 

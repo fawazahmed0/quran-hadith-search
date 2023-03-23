@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ ইবন সারী (রহঃ) .... ইবন উমার (রাঃ) থেকে বর্ণিত। একদা তিনি তাঁর ইয়ামনের কয়েকজন সফর সঙ্গীর বিছানা দেখেন যে, তা চমাড়ার তৈরী। তখন তিনি বলেনঃ যারা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবীদের ন্যায় সফর সঙ্গী দেখতে চায়, তারা যেন এদের প্রতি দৃষ্টিপাত করে।
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। তিনি ইয়ামেনের এক দল সাথীকে দেখতে পেলেন, যাদের সওয়ারীর গদিগুলো ছিলো চামড়ার তৈরী। তিনি বলেন, কেউ যদি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীদের সাদৃশ্য দেখতে চাও, তবে যেন এদেরকে দেখে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4144</td></tr><tr><td>Arabic No</td><td>4144</td></tr><tr><td>Reference</td><td>Book 34 Hadith 125</td></tr></tbody></table></div>
 

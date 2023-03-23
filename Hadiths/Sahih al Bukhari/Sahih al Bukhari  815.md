@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাতটি অঙ্গের সাহায্যে সিজদা্ করতে এবং সালাতের মধ্যে চুল একত্র না করতে এবং কাপড় টেনে না ধরতে নির্দেশ প্রাপ্ত হয়েছিলেন। (৮০৯) (আধুনিক প্রকাশনীঃ ৭৭০, ইসলামিক ফাউন্ডেশনঃ ৭৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাতটি অঙ্গের সাহায্যে সিজদা্ করতে এবং সালাতের মধ্যে চুল একত্র না করতে এবং কাপড় টেনে না ধরতে নির্দেশ প্রাপ্ত হয়েছিলেন। (৮০৯) (আধুনিক প্রকাশনীঃ ৭৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 10 Hadith 210</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஏழு உறுப்புகள் (தரையில்) படுமாறு சஜ்தா செய்யும்படி நபி (ஸல்) அவர்கள் கட்டளையிடப்பட்டார்கள்; தமது ஆடையோ முடியோ (தரையில் படாத வாறு) பிடிக்கக் கூடாதெனவும் கட்டளை யிடப்பட்டார்கள். அத்தியாயம் : 10
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஏழு உறுப்புகள் (தரையில்) படுமாறு சஜ்தா செய்யும்படி நபி (ஸல்) அவர்கள் கட்டளையிடப்பட்டார்கள்; தமது ஆடையோ முடியோ (தரையில் படாத வாறு) பிடிக்கக் கூடாதெனவும் கட்டளை யிடப்பட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 10 Hadith 210</td></tr></tbody></table></div>
 

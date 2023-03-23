@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন আবূ শায়বা (রহঃ) ..... ইবন উমার (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে আল কা‘নবী বর্ণিত উপরোক্ত হাদীসের অর্থে হাদীস বর্ণনা করেছেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কত রাক'আত নামায আদায় করেন, তা তাঁকে জিজ্ঞাসা করতে আমি ভুলে গিয়েছিলাম।
+। ইবনু উমার (রাযি.) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে আল-কা‘নবীর বর্ণিত হাদীসের অর্থের অনুরূপ হাদীস বর্ণনা করেন। তিনি এও বলেন যে, আমি বিলাল (রাযি.)-কে জিজ্ঞেস করতে ভুলে গেছি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কত রাক‘আত সালাত আদায় করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>2025</td></tr><tr><td>Reference</td><td>Book 11 Hadith 305</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনু আবূ শুরায়হ (সুরায়জ) আর-রাযী ..... আবূ উবায়েদ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আতা ইবনু ইয়াযীদকে দাঁড়িয়ে নামায পড়তে দেখি। আমি তাঁর সামনে দিয়ে অতিক্রমকালে তিনি আমাকে বাধা দিয়ে বলেন, আবূ সাঈদ আল-খুদ্‌রী (রাঃ) আমার নিকট বর্ণনা করেছেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেছেন, তোমাদের মধ্যে যে নামাযী এরূপ ক্ষমতা রাখে যে, সে তার ও কিবলার মাঝখান দিয়ে কোন ব্যক্তিকে যেতে দেবে না- তবে সে যেন তাই করে।
+। সুলাইমান ইবনু মালিকের দ্বাররক্ষী আবূ ‘উবায়িদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি ‘আত্বা ইবনু ইয়াযীদ আল-লাইসীকে দাঁড়িয়ে সালাত আদায় করতে দেখি। অতঃপর আমি তার সামনে দিয়ে যেতে উদ্যত হলে তিনি আমাকে বাধা দিয়ে বললেন, আবূ সাঈদ আল-খুদরী (রাঃ) আমার নিকট বর্ণনা করেছেন, রাসূলুল্লাহ বলেছেনঃ তোমাদের মধ্যকার কেউ তার ও কিবলার মধ্যবর্তী স্থান দিয়ে চলাচলে কাউকে বিরত রাখতে সক্ষম হলে সে যেন তাই করে।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>699</td></tr><tr><td>Arabic No</td><td>699</td></tr><tr><td>Reference</td><td>Book 2 Hadith 309</td></tr></tbody></table></div>
 

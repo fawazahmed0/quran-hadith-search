@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ইসহাক তাবি-ঈ (রহ.) হতে বর্ণিত। তিনি বলেন, বারাআ (রহ.)-কে জিজ্ঞেস করা হল, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর চেহারা মুবারক কি তলোয়ারের মত ছিল? তিনি বললেন না, বরং চাঁদের ন্যায় ছিল। (আধুনিক প্রকাশনীঃ ৩২৮৮, ইসলামিক ফাউন্ডেশনঃ ৩২৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ইসহাক তাবি-ঈ (রহ.) হতে বর্ণিত। তিনি বলেন, বারাআ (রহ.)-কে জিজ্ঞেস করা হল, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর চেহারা মুবারক কি তলোয়ারের মত ছিল? তিনি বললেন না, বরং চাঁদের ন্যায় ছিল। (আধুনিক প্রকাশনীঃ ৩২৮৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3552</td></tr><tr><td>Arabic No</td><td>3552</td></tr><tr><td>Reference</td><td>Book 61 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu 'Is-haq:Al-Bara' was asked, "Was the face of the Prophet (as bright
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஇஸ்ஹாக் (ரஹ்) அவர்கள் கூறியதாவது: “நபி (ஸல்) அவர்களுடைய முகம் வாளைப் போன்று (நீளமாக) இருந்ததா?” என்று பராஉ (ரலி) அவர்களிடம் கேட்கப்பட்டது. அதற்கு அவர்கள், “இல்லை; ஆயினும், அவர்களின் முகம் சந்திரனைப் போன்று (வட்டமாக) இருந்தது” என்று பதிலளித்தார்கள். அத்தியாயம் : 61
+அபூஇஸ்ஹாக் (ரஹ்) அவர்கள் கூறியதாவது: “நபி (ஸல்) அவர்களுடைய முகம் வாளைப் போன்று (நீளமாக) இருந்ததா?” என்று பராஉ (ரலி) அவர்களிடம் கேட்கப்பட்டது. அதற்கு அவர்கள், “இல்லை; ஆயினும், அவர்களின் முகம் சந்திரனைப் போன்று (வட்டமாக) இருந்தது” என்று பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3552</td></tr><tr><td>Arabic No</td><td>3552</td></tr><tr><td>Reference</td><td>Book 61 Hadith 61</td></tr></tbody></table></div>
 

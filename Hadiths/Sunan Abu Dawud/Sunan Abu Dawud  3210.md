@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন সাব্বাহ (রহঃ) .... আবূ মারহাব (রাঃ) থেকে বর্ণিত। আবদুর রহমান ইবন আওফ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কবরে অবতরণ করেছিলেন। রাবী মারহাব বলেনঃ আমি এখনও তাঁদের চারজনকে দেখছি, অর্থাৎ আলী (রাঃ), ফযল ইবন আব্বাস (রাঃ), উসামা (রাঃ) এবং আবদুর রহমান ইবন আওফ (রাঃ)-কে।
+। আবূ মারহাব (রহঃ) সূত্রে বর্ণিত। ‘আব্দুর রাহমান ইবনু আওফ (রাঃ)-ও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কবরে নেমেছিলেন। আমি যেন তাদের চারজনকে এখনো প্রত্যক্ষ করছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>3210</td></tr><tr><td>Reference</td><td>Book 21 Hadith 122</td></tr></tbody></table></div>
 

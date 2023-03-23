@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন আলী (রহঃ) ... আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, সুন্নত তালাক হলো স্ত্রীকে সহবাস ব্যতীত পাক অবস্থায় এক তালাক দেওয়া।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3395</td></tr><tr><td>Arabic No</td><td>3395</td></tr><tr><td>Reference</td><td>Book 27 Hadith 7</td></tr></tbody></table></div>
 

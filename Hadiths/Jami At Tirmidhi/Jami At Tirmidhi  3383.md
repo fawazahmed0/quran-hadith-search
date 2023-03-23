@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৩৮৩। জাবির ইবনু আবদুল্লাহ (রাযিঃ) বলেন, রাসূলুল্লাহঃ-কে আমি বলতে শুনেছিঃ “লা-ইলা-হা ইল্লাল্লাহ" অতি উত্তম যিকর এবং "আলহামদু লিল্লাহ" অধিক উত্তম দুআ। হাসানঃ ইবনু মাজাহ (হাঃ ৩৮০০)। আবূ ঈসা বলেন, হাদীসটি হাসান গারীব। এ হাদীসটি আমরা শুধু মূসা ইবনু ইবরাহীমের সূত্রে অবগত হয়েছি। আলী ইবনুল মাদীনী প্রমুখ মূসা ইবনু ইবরাহিম হতে হাদীসটি রিওয়য়াত করেছেন।
+। জাবির ইবনু আবদুল্লাহ (রাযিঃ) বলেন, রাসূলুল্লাহঃ-কে আমি বলতে শুনেছিঃ “লা-ইলা-হা ইল্লাল্লাহ" অতি উত্তম যিকর এবং "আলহামদু লিল্লাহ" অধিক উত্তম দুআ। হাসানঃ ইবনু মাজাহ (হাঃ ৩৮০০)। আবূ ঈসা বলেন, হাদীসটি হাসান গারীব। এ হাদীসটি আমরা শুধু মূসা ইবনু ইবরাহীমের সূত্রে অবগত হয়েছি। আলী ইবনুল মাদীনী প্রমুখ মূসা ইবনু ইবরাহিম হতে হাদীসটি রিওয়য়াত করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3383</td></tr><tr><td>Arabic No</td><td>3383</td></tr><tr><td>Reference</td><td>Book 48 Hadith 14</td></tr></tbody></table></div>
 

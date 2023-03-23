@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২১১৩। ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, কোন কোন লোক তার পরিবার পরিজনের আহারের জন্য সহজেই পর্যাপ্ত ব্যয় করতে পারতো এবং কোন কোন লোক একান্ত কষ্টেই তার পরিজনদের জন্য অপর্যাপ্ত ব্যয় করতো। তখন এ আয়াত নাযিল হয় (অনুবাদ) ‘‘মধ্যম ধরনের, যা তোমরা তোমাদের পরিজনদের আহার করিয়ে থাকো’’ (সূরা মাইদাঃ ৮৯)।
+। ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, কোন কোন লোক তার পরিবার পরিজনের আহারের জন্য সহজেই পর্যাপ্ত ব্যয় করতে পারতো এবং কোন কোন লোক একান্ত কষ্টেই তার পরিজনদের জন্য অপর্যাপ্ত ব্যয় করতো। তখন এ আয়াত নাযিল হয় (অনুবাদ) ‘‘মধ্যম ধরনের, যা তোমরা তোমাদের পরিজনদের আহার করিয়ে থাকো’’ (সূরা মাইদাঃ ৮৯)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2113</td></tr><tr><td>Arabic No</td><td>2113</td></tr><tr><td>Reference</td><td>Book 11 Hadith 24</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Ibn 'Abbas said:"A man would give his family food that was abundant and another would give his family food that was barely sufficient, then the following was revealed: 'With the Awsat of that with which you feed your families...’”(2)
+It was narrated that Ibn 'Abbas said:"A man would give his family food that was abundant and another would give his family food that was barely sufficient, then the following was revealed: 'With the Awsat of that with which you feed your families...’”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2113</td></tr><tr><td>Arabic No</td><td>2113</td></tr><tr><td>Reference</td><td>Book 11 Hadith 24</td></tr></tbody></table></div>
 
@@ -44,7 +44,7 @@ It was narrated that Ibn 'Abbas said:"A man would give his family food that was 
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami ['Abdurrahman bin Mahdi] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Sulaiman bin Abul Mughirah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, "Seorang lelaki memberi makanan pokok pada keluarganya dengan berlebihan, dan ada juga yang memberi makanan pokok pada keluarganya dengan kekurangan, lalu turunlah ayat: ' Yaitu dari makanan yang biasa kamu berikan kepada keluargamu'." (QS. Al Maidah; 89)
+Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami ['Abdurrahman bin Mahdi] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Sulaiman bin Abul Mughirah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, "Seorang lelaki memberi makanan pokok pada keluarganya dengan berlebihan, dan ada juga yang memberi makanan pokok pada keluarganya dengan kekurangan, lalu turunlah ayat: ' Yaitu dari makanan yang biasa kamu berikan kepada keluargamu'." (QS. Al Maidah;)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2113</td></tr><tr><td>Arabic No</td><td>2113</td></tr><tr><td>Reference</td><td>Book 11 Hadith 24</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৬৮৪। সাদ ইবনে উবাদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি জিজ্ঞাসা করলাম, ইয়া রাসূলাল্লাহ! কোন্ প্রকারের দান সর্বোত্তম? তিনি বলেনঃ পানি পান করানো।
+। সাদ ইবনে উবাদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি জিজ্ঞাসা করলাম, ইয়া রাসূলাল্লাহ! কোন্ প্রকারের দান সর্বোত্তম? তিনি বলেনঃ পানি পান করানো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3684</td></tr><tr><td>Arabic No</td><td>3684</td></tr><tr><td>Reference</td><td>Book 33 Hadith 28</td></tr></tbody></table></div>
 

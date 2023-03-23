@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, যাইনাব (রাঃ)-এর নাম ছিল ‘বাররাহ’ (নেককার)। তখন বলা হল যে, এর দ্বারা তিনি নিজের পবিত্রতা প্রকাশ করছেন। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর নাম রাখলেনঃ ‘যাইনাব’। [মুসলিম ৩৮/৩, হাঃ ২১৪১] (আধুনিক প্রকাশনী- ৫৭৫১, ইসলামিক ফাউন্ডেশন- ৫৬৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, যাইনাব (রাঃ)-এর নাম ছিল ‘বাররাহ’ (নেককার)। তখন বলা হল যে, এর দ্বারা তিনি নিজের পবিত্রতা প্রকাশ করছেন। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর নাম রাখলেনঃ ‘যাইনাব’। [মুসলিম ৩৮/৩, হাঃ ২১৪১] (আধুনিক প্রকাশনী- ৫৭৫১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6192</td></tr><tr><td>Arabic No</td><td>6192</td></tr><tr><td>Reference</td><td>Book 78 Hadith 216</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Shadaqah bin Al Fadl] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஸைனப் (ரலி) அவர்களுக்கு (முதலில்) ‘பர்ரா’ (நல்லவள்) என்ற பெயர் இருந்தது. அப்போது “அவர் தம்மைத் தாமே பரிசுத்தப்படுத்திக்கொள்கிறார்” என்று (மக்களால்) சொல்லப்பட்டது. ஆகவே, அவருக்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘ஸைனப்’ என்று பெயர் சூட்டினார்கள்.217 அத்தியாயம் : 78
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஸைனப் (ரலி) அவர்களுக்கு (முதலில்) ‘பர்ரா’ (நல்லவள்) என்ற பெயர் இருந்தது. அப்போது “அவர் தம்மைத் தாமே பரிசுத்தப்படுத்திக்கொள்கிறார்” என்று (மக்களால்) சொல்லப்பட்டது. ஆகவே, அவருக்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘ஸைனப்’ என்று பெயர் சூட்டினார்கள்.217 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6192</td></tr><tr><td>Arabic No</td><td>6192</td></tr><tr><td>Reference</td><td>Book 78 Hadith 216</td></tr></tbody></table></div>
 

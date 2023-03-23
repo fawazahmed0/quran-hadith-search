@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৪৩২০। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জাহান্নামের আগুন হাজার বছর ধরে উত্তপ্ত করার পর তা সাদা রং ধারণ করে আবার তা হাজার বছর ধরে উতপ্ত করার পর লাল রং ধারণ করে। আবার হাজার বছর ধরে উত্তপ্ত করার পর তা কালো বর্ণ ধারণ করে। এখন তা গভীর অন্ধকার রাতের মতো অন্ধকার অবস্থায় আছে।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জাহান্নামের আগুন হাজার বছর ধরে উত্তপ্ত করার পর তা সাদা রং ধারণ করে আবার তা হাজার বছর ধরে উতপ্ত করার পর লাল রং ধারণ করে। আবার হাজার বছর ধরে উত্তপ্ত করার পর তা কালো বর্ণ ধারণ করে। এখন তা গভীর অন্ধকার রাতের মতো অন্ধকার অবস্থায় আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4320</td></tr><tr><td>Arabic No</td><td>4320</td></tr><tr><td>Reference</td><td>Book 37 Hadith 221</td></tr></tbody></table></div>
 

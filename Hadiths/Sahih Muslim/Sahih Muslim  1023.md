@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯১০, আন্তর্জাতিক নাম্বারঃ ৪৫৬ ৯১০-(১৬৪/৪৫৬) যুহায়র ইবনু হারব, আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... 'আমর ইবনু হুরায়স (রাযিঃ) থেকে বর্ণিত। তিনি ফজরের সালাতে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম-কে "ওয়াল লাইলি ইযা- 'আস'আসা' অর্থাৎ- "শপথ রাতের যখন সে চলে যেতে থাকে"- (সূরাহ আত তাকবীর ৮১ঃ ১৭) পাঠ করতে শুনেছেন। (ইসলামিক ফাউন্ডেশনঃ ৯০৫, ইসলামিক সেন্টারঃ ৯১৭)
+যুহায়র ইবনু হারব, আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... 'আমর ইবনু হুরায়স (রাযিঃ) থেকে বর্ণিত। তিনি ফজরের সালাতে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম-কে "ওয়াল লাইলি ইযা- 'আস'আসা' অর্থাৎ- "শপথ রাতের যখন সে চলে যেতে থাকে"- (সূরাহ আত তাকবীর ৮১ঃ ১৭) পাঠ করতে শুনেছেন। (ইসলামিক ফাউন্ডেশনঃ ৯০৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1023</td></tr><tr><td>Arabic No</td><td>456</td></tr><tr><td>Reference</td><td>Book 4 Hadith 185</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr b. Huwairith reported:I heard the Messenger of Allah (ﷺ) recite in the morning prayer" Wa'l-lail-i-idhd 'As'asa" (ixxxi. 17)
+Amr b. Huwairith reported:I heard the Messenger of Allah (ﷺ) recite in the morning prayer" Wa'l-lail-i-idhd 'As'asa" (ixxxi)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1023</td></tr><tr><td>Arabic No</td><td>456</td></tr><tr><td>Reference</td><td>Book 4 Hadith 185</td></tr></tbody></table></div>
 

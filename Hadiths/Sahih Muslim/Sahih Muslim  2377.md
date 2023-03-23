@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২৬৭, আন্তর্জাতিক নাম্বারঃ ১০২৯ ২২৬৭-(.../...) ইবনু নুমায়র (রহঃ) ..... আসমা (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন ..... পূর্বোক্ত হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২২৪৬, ইসলামীক সেন্টার ২২৪৭)
+ইবনু নুমায়র (রহঃ) ..... আসমা (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন ..... পূর্বোক্ত হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২২৪৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>1029.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
 

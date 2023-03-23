@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩২৯। আবদুল্লাহ ইবনু বুস্‌র (রাঃ) হতে বর্ণিত আছে, কোন এক গ্রাম্য লোক প্রশ্ন করল, হে আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) মানুষের মধ্যে শ্রেষ্ঠ কে? তিনি বললেনঃ যে দীর্ঘ জীবন লাভ করেছে এবং তার কর্মকাণ্ড সুন্দর হয়েছে। সহীহ, সহীহাহ (১৮৩৬), মিশকাত, তাহকীক ছানী (৫২৮৫), আর রাওয (৯২৬)। আবূ হুরাইরা ও জাবির (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান এবং এই সনদে গরীব।
+। আবদুল্লাহ ইবনু বুস্‌র (রাঃ) হতে বর্ণিত আছে, কোন এক গ্রাম্য লোক প্রশ্ন করল, হে আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) মানুষের মধ্যে শ্রেষ্ঠ কে? তিনি বললেনঃ যে দীর্ঘ জীবন লাভ করেছে এবং তার কর্মকাণ্ড সুন্দর হয়েছে। সহীহ, সহীহাহ (১৮৩৬), মিশকাত, তাহকীক ছানী (৫২৮৫), আর রাওয (৯২৬)। আবূ হুরাইরা ও জাবির (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান এবং এই সনদে গরীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2329</td></tr><tr><td>Arabic No</td><td>2329</td></tr><tr><td>Reference</td><td>Book 36 Hadith 26</td></tr></tbody></table></div>
 

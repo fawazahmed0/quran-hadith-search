@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাইমূনাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছোট চাটাইয়ের উপর সালাত আদায় করতেন। (৩৩৩) (আধুনিক প্রকাশনীঃ ৩৬৮, ইসলামিক ফাউন্ডেশনঃ ৩৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মাইমূনাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছোট চাটাইয়ের উপর সালাত আদায় করতেন। (৩৩৩) (আধুনিক প্রকাশনীঃ ৩৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>381</td></tr><tr><td>Arabic No</td><td>381</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மைமூனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பேரீச்சங் கீற்றினால் வேயப்பட்ட) தொழுகை விரிப்பின் மீது தொழுதுவந்தார்கள். அத்தியாயம் : 8
+மைமூனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பேரீச்சங் கீற்றினால் வேயப்பட்ட) தொழுகை விரிப்பின் மீது தொழுதுவந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>381</td></tr><tr><td>Arabic No</td><td>381</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯৯২, আন্তর্জাতিক নাম্বারঃ ৪৯৫ ৯৯২-(২৩৫/৪৯৫) কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... 'আবদুল্লাহ ইবনু মালিক ইবনু বুহাইনাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম সালাত আদায় করার সময় দু’হাত (পাজর থেকে) এমনভাবে ফাঁকা রাখতেন যে, তার বগলের শুভ্রতা প্রকাশ হয়ে পড়ত। (ইসলামিক ফাউন্ডেশনঃ ৯৮৬, ইসলামিক সেন্টারঃ ৯৯৭)
+কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... 'আবদুল্লাহ ইবনু মালিক ইবনু বুহাইনাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম সালাত আদায় করার সময় দু’হাত (পাজর থেকে) এমনভাবে ফাঁকা রাখতেন যে, তার বগলের শুভ্রতা প্রকাশ হয়ে পড়ত। (ইসলামিক ফাউন্ডেশনঃ ৯৮৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1105</td></tr><tr><td>Arabic No</td><td>495.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 267</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Abdullah b. Malik ibn Bujainah reported:When the Prophet (ﷺ) prostrated, lie s
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழும்போது தம்மிரு அக்குள்களின் வெண்மை தென்படும் அளவுக்கு இரு கைகளையும் விரித்துவைப்பார்கள். அத்தியாயம் : 4
+அப்துல்லாஹ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழும்போது தம்மிரு அக்குள்களின் வெண்மை தென்படும் அளவுக்கு இரு கைகளையும் விரித்துவைப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1105</td></tr><tr><td>Arabic No</td><td>495.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 267</td></tr></tbody></table></div>
 

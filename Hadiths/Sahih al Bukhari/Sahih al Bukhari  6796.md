@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঢাল চুরির ব্যাপারে হাত কেটেছেন, যার মূল্য ছিল তিন দিরহাম। [৬৭৯৬, ৬৭৯৮] (আধুনিক প্রকাশনী- ৬৩২৬, ইসলামিক ফাউন্ডেশন- ৬৩৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঢাল চুরির ব্যাপারে হাত কেটেছেন, যার মূল্য ছিল তিন দিরহাম। [৬৭৯৬, ৬৭৯৮] (আধুনিক প্রকাশনী- ৬৩২৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6796</td></tr><tr><td>Arabic No</td><td>6796</td></tr><tr><td>Reference</td><td>Book 86 Hadith 25</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மூன்று திர்ஹங் கள் (வெள்ளிக் காசுகள்) விலைமதிப் புள்ள தோல் கேடயத்திற்காக (அதைத் திருடியவரின் கரத்தை)த் துண்டித்தார்கள். அத்தியாயம் : 86
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மூன்று திர்ஹங் கள் (வெள்ளிக் காசுகள்) விலைமதிப் புள்ள தோல் கேடயத்திற்காக (அதைத் திருடியவரின் கரத்தை)த் துண்டித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6796</td></tr><tr><td>Arabic No</td><td>6796</td></tr><tr><td>Reference</td><td>Book 86 Hadith 25</td></tr></tbody></table></div>
 

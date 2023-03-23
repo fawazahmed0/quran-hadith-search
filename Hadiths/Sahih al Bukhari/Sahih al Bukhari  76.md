@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি সাবালক হবার নিকটবর্তী বয়সে একদা একটি গাধীর উপর আরোহিত অবস্থায় এলাম। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তখন মিনায় সালাত আদায় করছিলেন তার সামনে কোন দেয়াল না রেখেই। তখন আমি কোন এক কাতারের সামনে দিয়ে অতিক্রম করলাম এবং গাধীটিকে বিচরণের জন্য ছেড়ে দিলাম। আমি কাতারের ভেতর ঢুকে পড়লাম কিন্তু এতে কেউ আমাকে নিষেধ করেননি। (৪৯৩, ৮৬১, ১৮৫৭, ৪৪১২; মুসলিম ৪/৪৭ হাঃ ৫০৪, আহমাদ ১৮৯১) (আধুনিক প্রকাশনীঃ ৭৬, ইসলামিক ফাউন্ডেশনঃ ৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি সাবালক হবার নিকটবর্তী বয়সে একদা একটি গাধীর উপর আরোহিত অবস্থায় এলাম। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তখন মিনায় সালাত আদায় করছিলেন তার সামনে কোন দেয়াল না রেখেই। তখন আমি কোন এক কাতারের সামনে দিয়ে অতিক্রম করলাম এবং গাধীটিকে বিচরণের জন্য ছেড়ে দিলাম। আমি কাতারের ভেতর ঢুকে পড়লাম কিন্তু এতে কেউ আমাকে নিষেধ করেননি। (৪৯৩, ৮৬১, ১৮৫৭, ৪৪১২; মুসলিম ৪/৪৭ হাঃ ৫০৪, আহমাদ ১৮৯১) (আধুনিক প্রকাশনীঃ ৭৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Arabic No</td><td>76</td></tr><tr><td>Reference</td><td>Book 3 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il bin Abu Uwais] berkata, Telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், (‘விடைபெறும்’ ஹஜ்ஜின்போது) ‘மினா’வில் சுவர் (போன்ற தடுப்பு) எதை யும் முன்னோக்காதவர்களாக (திறந்த வெளியில் மக்களுக்கு)த் தொழுவித்துக் கொண்டிருந்தார்கள். அப்போது நான் பெட்டைக் கழுதையொன்றில் பயணித்தபடி அவர்களை நோக்கிச் சென்றேன். -அந்நாளில் நான் பருவ வயதை நெருங்கிக் கொண்டிருந்தேன்.- (தொழுது கொண்டிருந்தவர்களின்) வரிசையில் ஒரு பகுதிக்கு முன்னால் நான் கடந்து சென்று, கழுதையை மேய விட்டுவிட்டு, (தொழுவோரின்) வரிசையில் நானும் நின்றுகொண்டேன். அ(வ்வாறு நான் தொழுகை வரிசையைக் கடந்துசென்ற)தற்காக என்மீது ஆட்சேபம் தெரிவிக்கப்படவில்லை. அத்தியாயம் : 3
+அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், (‘விடைபெறும்’ ஹஜ்ஜின்போது) ‘மினா’வில் சுவர் (போன்ற தடுப்பு) எதை யும் முன்னோக்காதவர்களாக (திறந்த வெளியில் மக்களுக்கு)த் தொழுவித்துக் கொண்டிருந்தார்கள். அப்போது நான் பெட்டைக் கழுதையொன்றில் பயணித்தபடி அவர்களை நோக்கிச் சென்றேன். -அந்நாளில் நான் பருவ வயதை நெருங்கிக் கொண்டிருந்தேன்.- (தொழுது கொண்டிருந்தவர்களின்) வரிசையில் ஒரு பகுதிக்கு முன்னால் நான் கடந்து சென்று, கழுதையை மேய விட்டுவிட்டு, (தொழுவோரின்) வரிசையில் நானும் நின்றுகொண்டேன். அ(வ்வாறு நான் தொழுகை வரிசையைக் கடந்துசென்ற)தற்காக என்மீது ஆட்சேபம் தெரிவிக்கப்படவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Arabic No</td><td>76</td></tr><tr><td>Reference</td><td>Book 3 Hadith 18</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il bin Abu Uwais] berkata, Telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Abbas şöyle demiştir: "İhtilama (buluğ çağına) yaklaştığım bir dönemde, Nebi (Sallallahu Aleyhi ve Sellem) Mina'da bir duvara doğru yönelmediği halde (yani önüne sütre almaksızın) namaz kıldırırken dişi bir eşek üzerinde gelerek safın bir bölümünün önünden geçtim. Eşeği otlaması için salarak saf’a girdim. Benim bu davranışım yadırganmadı". Tekrar: 493, 861, 1857, 4412
+Abdullah İbn Abbas şöyle demiştir: "İhtilama (buluğ çağına) yaklaştığım bir dönemde, Nebi (Sallallahu Aleyhi ve Sellem) Mina'da bir duvara doğru yönelmediği halde (yani önüne sütre almaksızın) namaz kıldırırken dişi bir eşek üzerinde gelerek safın bir bölümünün önünden geçtim. Eşeği otlaması için salarak saf’a girdim. Benim bu davranışım yadırganmadı". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Arabic No</td><td>76</td></tr><tr><td>Reference</td><td>Book 3 Hadith 18</td></tr></tbody></table></div>
 

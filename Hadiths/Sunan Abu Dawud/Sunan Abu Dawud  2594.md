@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুয়াম্মিল ইবন ফাযল আল হাররানী .... আবূ দারদা (রাঃ) বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছি, তোমরা অক্ষম, বৃদ্ধ ও নারীদেরকে তালাশ করে আমার নিকট উপস্থিত কর। (আমি তাদেরকে সাহায্য দিয়ে উপকৃত হই।) জেনে রেখো যে, নিঃসন্দেহে তোমাদের অক্ষম ও অচলদের বরকতেই তোমাদের প্রতি রিযক ও সাহায্য পৌঁছে থাকে বা তোমাদেরকে খাদ্য ও সাহায্য প্রদান করা হয়ে থাকে।
+। জুবায়র ইবনু নুফাইল আল-হাদরামী (রহঃ) সূত্রে বর্ণিত। তিনি আবূ দারদা (রাঃ)-কে বলতে শুনেছেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ তোমরা দুর্বল লোকদের খোঁজ করে আমার কাছে নিয়ে এসো। কেননা তোমরা তোমাদের মধ্যকার দুর্বল লোকদের ওয়াসিলায় রিযিক এবং সাহায্য প্রাপ্ত হয়ে থাকো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>2594</td></tr><tr><td>Reference</td><td>Book 15 Hadith 118</td></tr></tbody></table></div>
 

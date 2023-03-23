@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবন রাফি (রহঃ) ... মু'আয (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে ইয়ামেনে পাঠালেন এবং নির্দেশ দিলেন যেন তাদের প্রত্যেক প্রাপ্ত বয়স্ক ব্যক্তি থেকে এক দীনার করে আদায় করেন। অথবা তার সমমূল্যের ইয়ামানী চাদর আদায় করেন। আর গরুর যাকাত হিসেবে প্রত্যেক ত্ৰিশে একটি দুই বছর বয়সী বৃষ বা গাভী এবং প্রত্যেক চল্লিশে একটি তিন বছর বয়সী গাভী আদায় করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2450</td></tr><tr><td>Arabic No</td><td>2450</td></tr><tr><td>Reference</td><td>Book 23 Hadith 16</td></tr></tbody></table></div>
 

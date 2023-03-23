@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আনসারদের প্রতি ভালবাসা ঈমানেরই নিদর্শন এবং তাঁদের প্রতি হিংসা-বিদ্বেষ রাখা মুনাফিকীর নিদর্শন। (১৭) (আধুনিক প্রকাশনীঃ ৩৫০২, ইসলামিক ফাউন্ডেশনঃ ৩৫১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আনসারদের প্রতি ভালবাসা ঈমানেরই নিদর্শন এবং তাঁদের প্রতি হিংসা-বিদ্বেষ রাখা মুনাফিকীর নিদর্শন। (১৭) (আধুনিক প্রকাশনীঃ ৩৫০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>3784</td></tr><tr><td>Reference</td><td>Book 63 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muslim bin Ibrahim] telah bercerita kepada kami [Sy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இறைநம்பிக்கையின் அடையாளம் அன்சாரிகளை நேசிப்பதாகும்; நயவஞ்சகத் தின் அடையாளம் அன்சாரிகளை வெறுப்பதாகும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.11 அத்தியாயம் : 63
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இறைநம்பிக்கையின் அடையாளம் அன்சாரிகளை நேசிப்பதாகும்; நயவஞ்சகத் தின் அடையாளம் அன்சாரிகளை வெறுப்பதாகும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.11 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>3784</td></tr><tr><td>Reference</td><td>Book 63 Hadith 9</td></tr></tbody></table></div>
 

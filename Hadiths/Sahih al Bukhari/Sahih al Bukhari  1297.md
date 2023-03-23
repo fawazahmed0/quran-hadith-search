@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন: যারা শোকে গন্ডে চপেটাঘাত করে, জামার বক্ষ ছিন্ন করে ও জাহিলী যুগের মত চিৎকার দেয়, তারা আমাদের দলভুক্ত নয়। (১২৯৪) (আধুনিক প্রকাশনীঃ ১২১২, ইসলামিক ফাউন্ডেশনঃ ১২১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন: যারা শোকে গন্ডে চপেটাঘাত করে, জামার বক্ষ ছিন্ন করে ও জাহিলী যুগের মত চিৎকার দেয়, তারা আমাদের দলভুক্ত নয়। (১২৯৪) (আধুনিক প্রকাশনীঃ ১২১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 23 Hadith 55</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: (துக்கத்தால்) கன்னங்களில் அறைந்துகொள்பவரும் சட்டைப்பைகளைக் கிழித்துக்கொள்பவரும் அறியாமைக்கால வழக்கப்படி புலம்புகின்றவரும் நம்மைச் சார்ந்தவர்கள் அல்லர். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 23
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: (துக்கத்தால்) கன்னங்களில் அறைந்துகொள்பவரும் சட்டைப்பைகளைக் கிழித்துக்கொள்பவரும் அறியாமைக்கால வழக்கப்படி புலம்புகின்றவரும் நம்மைச் சார்ந்தவர்கள் அல்லர். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 23 Hadith 55</td></tr></tbody></table></div>
 

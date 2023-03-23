@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৩৫৫। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ আমরা কবরের আযাব প্রসঙ্গে সংশয়ে ছিলাম। সেই প্রেক্ষাপটে সূরা আলহাকুমুত-তাকাসুর অবতীর্ণ হয়। সনদ দুর্বল আবূ কুরাইব কখনো আমর ইবনু আবূ কাইস হতে তিনি ইবনু আবী লাইলা হতে তিনি আল-মিনহাল হতে তিনি এভাবে বর্ণনা করেছেন। আমর ইবনু আবূ কাইস হলেন আর-রায়ী এবং আমর ইবনু আবূ কাইস আল-মালাঈ হলেন কূফার বাসিন্দা। আবূ ঈসা বলেনঃ এ হাদীসটি গারীব।
+। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ আমরা কবরের আযাব প্রসঙ্গে সংশয়ে ছিলাম। সেই প্রেক্ষাপটে সূরা আলহাকুমুত-তাকাসুর অবতীর্ণ হয়। সনদ দুর্বল আবূ কুরাইব কখনো আমর ইবনু আবূ কাইস হতে তিনি ইবনু আবী লাইলা হতে তিনি আল-মিনহাল হতে তিনি এভাবে বর্ণনা করেছেন। আমর ইবনু আবূ কাইস হলেন আর-রায়ী এবং আমর ইবনু আবূ কাইস আল-মালাঈ হলেন কূফার বাসিন্দা। আবূ ঈসা বলেনঃ এ হাদীসটি গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3355</td></tr><tr><td>Arabic No</td><td>3355</td></tr><tr><td>Reference</td><td>Book 47 Hadith 407</td></tr></tbody></table></div>
 

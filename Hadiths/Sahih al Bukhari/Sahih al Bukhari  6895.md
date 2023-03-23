@@ -41,13 +41,13 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ রক্তপণের ব্যাপারে) এটি এবং ওটি সমান। অর্থাৎ কনিষ্ঠাঙ্গুলি ও বৃদ্ধাঙ্গুলি। (আধুনিক প্রকাশনী- ৬৪০১৫, ইসলামিক ফাউন্ডেশন- ৬৪২৮) মুহাম্মাদ ইবনু বাশশার (রহ.) ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ঐরূপই বলতে শুনেছি। (আধুনিক প্রকাশনী- ৬৪১৬, ইসলামিক ফাউন্ডেশন- ৬৪২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ রক্তপণের ব্যাপারে) এটি এবং ওটি সমান। অর্থাৎ কনিষ্ঠাঙ্গুলি ও বৃদ্ধাঙ্গুলি। (আধুনিক প্রকাশনী- ৬৪০১৫, ইসলামিক ফাউন্ডেশন- ৬৪২৮) মুহাম্মাদ ইবনু বাশশার (রহ.) ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ঐরূপই বলতে শুনেছি। (আধুনিক প্রকাশনী- ৬৪১৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895</td></tr><tr><td>Arabic No</td><td>6895</td></tr><tr><td>Reference</td><td>Book 87 Hadith 33</td></tr></tbody></table></div>
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 34</td></tr></tbody></table></div>
@@ -62,7 +62,7 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "This and this are the same." He mea
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:I heard the Prophet (saying the same as above Hadith 34)
+Narrated Ibn 'Abbas:I heard the Prophet (saying the same as above Hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895.2</td></tr><tr><td>Arabic No</td><td>6895.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 34</td></tr></tbody></table></div>
 
@@ -84,7 +84,7 @@ Telah menceritakan kepada kami [Adam] dari [Syu'bah] dari [Qatadah] dari [Ikrima
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இதோ இந்த சுண்டு விரலும் கட்டை விரலும் (இழப்பீட்டில்) சமமானவையே. இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இதைப் போன்றே நபி (ஸல்) அவர்களிடம் தாம் செவியுற்றதாக இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவித்துள்ள ஒரு ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடரில் வந்துள்ளது. அத்தியாயம் : 87
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இதோ இந்த சுண்டு விரலும் கட்டை விரலும் (இழப்பீட்டில்) சமமானவையே. இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இதைப் போன்றே நபி (ஸல்) அவர்களிடம் தாம் செவியுற்றதாக இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவித்துள்ள ஒரு ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடரில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895</td></tr><tr><td>Arabic No</td><td>6895</td></tr><tr><td>Reference</td><td>Book 87 Hadith 33</td></tr></tbody></table></div>
 

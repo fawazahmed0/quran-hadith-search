@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনে মালিক (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাদ্বীনায় যোহরের সালাত চার রাক‘আত আদায় করেন এবং যুল-হুলাইফায় পৌঁছে আসরের সালাত দু’ রাক‘আত আদায় করেন। রাবী বলেন, আমার ধারণা যে, তিনি ভোর পর্যন্ত সেখানে রাত যাপন করেন। (১০৮৯) (আধুনিক প্রকাশনীঃ ১৪৪৫, ইসলামিক ফাউন্ডেশনঃ ১৪৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনে মালিক (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাদ্বীনায় যোহরের সালাত চার রাক‘আত আদায় করেন এবং যুল-হুলাইফায় পৌঁছে আসরের সালাত দু’ রাক‘আত আদায় করেন। রাবী বলেন, আমার ধারণা যে, তিনি ভোর পর্যন্ত সেখানে রাত যাপন করেন। (১০৮৯) (আধুনিক প্রকাশনীঃ ১৪৪৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1547</td></tr><tr><td>Arabic No</td><td>1547</td></tr><tr><td>Reference</td><td>Book 25 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami ['Abdul
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மதீனாவில் நான்கு ரக்அத்கள் லுஹ்ர் தொழுதார்கள். பிறகு ‘துல்ஹுலைஃபா’வில் இரண்டு ரக்அத்கள் (கஸ்ராக) அஸ்ர் தொழுதார்கள். அவர்கள் அங்கேயே விடியும்வரை தங்கினார்கள் என்றே எண்ணுகிறேன்.9 அத்தியாயம் : 25
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மதீனாவில் நான்கு ரக்அத்கள் லுஹ்ர் தொழுதார்கள். பிறகு ‘துல்ஹுலைஃபா’வில் இரண்டு ரக்அத்கள் (கஸ்ராக) அஸ்ர் தொழுதார்கள். அவர்கள் அங்கேயே விடியும்வரை தங்கினார்கள் என்றே எண்ணுகிறேன்.9 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1547</td></tr><tr><td>Arabic No</td><td>1547</td></tr><tr><td>Reference</td><td>Book 25 Hadith 33</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি দেখেছি, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল-হুলাইফা নামক স্থানে তাঁর বাহনের উপর আরোহণ করেন, বাহনটি সোজা হয়ে দাঁড়াতেই তিনি তালবিয়া উচ্চারণ করতে থাকেন। (১৬৬, মুসলিম ১৫/৫, হাঃ ১১৮৭) (আধুনিক প্রকাশনীঃ ১৪১৭, ইসলামিক ফাউন্ডেশনঃ ১৪২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি দেখেছি, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল-হুলাইফা নামক স্থানে তাঁর বাহনের উপর আরোহণ করেন, বাহনটি সোজা হয়ে দাঁড়াতেই তিনি তালবিয়া উচ্চারণ করতে থাকেন। (১৬৬, মুসলিম ১৫/৫, হাঃ ১১৮৭) (আধুনিক প্রকাশনীঃ ১৪১৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1514</td></tr><tr><td>Arabic No</td><td>1514</td></tr><tr><td>Reference</td><td>Book 25 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin 'Isa] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘துல்ஹுலைஃபா’வில் தமது ஒட்டக ஊர்தியில் ஏறினார்கள். அவர்களை ஏற்றிக்கொண்டு வாகனம் சரியாக நின்றபோது ‘இஹ்ராம்’ கட்டி ‘தல்பியா’ கூறியதை நான் பார்த்தேன். அத்தியாயம் : 25
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘துல்ஹுலைஃபா’வில் தமது ஒட்டக ஊர்தியில் ஏறினார்கள். அவர்களை ஏற்றிக்கொண்டு வாகனம் சரியாக நின்றபோது ‘இஹ்ராம்’ கட்டி ‘தல்பியா’ கூறியதை நான் பார்த்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1514</td></tr><tr><td>Arabic No</td><td>1514</td></tr><tr><td>Reference</td><td>Book 25 Hadith 2</td></tr></tbody></table></div>
 

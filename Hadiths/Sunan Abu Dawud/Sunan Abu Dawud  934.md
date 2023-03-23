@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবনে আলী (রহঃ) ..... আবু হুরায়রা (রাঃ) এর চাচাত ভাই আবু আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম “গাইরিল মাগদুবি আলাইহিম ওয়ালাদ্দল্লীন” পাঠের পর এমন জোরে ‘আমীন’ বলতেন যে প্রথম কাতারে তাঁর নিকটবর্তী লোকেরা এই শব্দ শুনতে পেত। (ইবনে মাজাহ)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (সালাত আদায়কালে সূরাহ ফাতিহার শেষে) যখন ‘‘গাইরিল মাগদূবি ‘আলাইহিম ওয়ালাদ্দোয়াল্লীন’’ পড়তেন তখন এমন জোরে ‘‘আমীন’’ বলতেন যে, প্রথম কাতারে তাঁর নিকটবর্তী লোকেরা তাঁর এ ‘‘আমীন’’ বলা শুনতে পেতো।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>934</td></tr><tr><td>Arabic No</td><td>934</td></tr><tr><td>Reference</td><td>Book 2 Hadith 545</td></tr></tbody></table></div>
 

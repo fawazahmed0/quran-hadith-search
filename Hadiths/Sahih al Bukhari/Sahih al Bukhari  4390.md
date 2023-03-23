@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, ইয়ামানবাসীরা তোমাদের কাছে এসেছে। তাঁরা অন্তরের দিক থেকে অত্যন্ত কোমল। আর মনের দিক থেকে অত্যন্ত দয়ার্দ্র। ফিকহ্ হল ইয়ামানীদের আর হিকমাত হল ইয়ামানীদের। [৩৩০১] (আধুনিক প্রকাশনীঃ ৪০৪১, ইসলামিক ফাউন্ডেশনঃ ৪০৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, ইয়ামানবাসীরা তোমাদের কাছে এসেছে। তাঁরা অন্তরের দিক থেকে অত্যন্ত কোমল। আর মনের দিক থেকে অত্যন্ত দয়ার্দ্র। ফিকহ্ হল ইয়ামানীদের আর হিকমাত হল ইয়ামানীদের। [৩৩০১] (আধুনিক প্রকাশনীঃ ৪০৪১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 64 Hadith 413</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: யமன்வாசிகள் உங்களிடம் வந்துள் ளனர். அவர்கள் இளகிய மனம் படைத்தவர்கள். மென்மையான இதயம் உடையவர்கள். மார்க்க ஞானம் யமன் நாட்டைச் சேர்ந்ததாகும்; விவேகமும் யமன் நாட்டைச் சேர்ந்ததாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 64
+நபி (ஸல்) அவர்கள் கூறினார்கள்: யமன்வாசிகள் உங்களிடம் வந்துள் ளனர். அவர்கள் இளகிய மனம் படைத்தவர்கள். மென்மையான இதயம் உடையவர்கள். மார்க்க ஞானம் யமன் நாட்டைச் சேர்ந்ததாகும்; விவேகமும் யமன் நாட்டைச் சேர்ந்ததாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 64 Hadith 413</td></tr></tbody></table></div>
 

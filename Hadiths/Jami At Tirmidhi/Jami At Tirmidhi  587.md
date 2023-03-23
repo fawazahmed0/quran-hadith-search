@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৮৭। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহু ওয়াসাল্লাম নামাযরত অবস্থায় ডানে-বাঁয়ে তাকাতেন কিন্তু পিছনের দিকে ঘাড় ফেরাতেন না। —সহীহ। মিশকাত— (৯৯৮)। আবু ঈসা বলেনঃ হাদীসটি গারীব, ওয়াকী (রহঃ) তার বর্ণনায় আল-ফাযল ইবনু মূসার বর্ণনার সাথে মতপার্থক্য করেছেন।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহু ওয়াসাল্লাম নামাযরত অবস্থায় ডানে-বাঁয়ে তাকাতেন কিন্তু পিছনের দিকে ঘাড় ফেরাতেন না। —সহীহ। মিশকাত— (৯৯৮)। আবু ঈসা বলেনঃ হাদীসটি গারীব, ওয়াকী (রহঃ) তার বর্ণনায় আল-ফাযল ইবনু মূসার বর্ণনার সাথে মতপার্থক্য করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>587</td></tr><tr><td>Arabic No</td><td>587</td></tr><tr><td>Reference</td><td>Book 6 Hadith 44</td></tr></tbody></table></div>
 

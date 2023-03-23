@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৯৬৭। আবদুল্লাহ ইবনে আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এমন এক ফিতনার উদ্ভব হবে, যা সমগ্র আরবকে গ্রাস করবে। এই ফিতনায় নিহত ব্যক্তিরা হবে জাহান্নামী। তখন জিহবা হবে তরবারির চেয়েও মারাত্মক।
+। আবদুল্লাহ ইবনে আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এমন এক ফিতনার উদ্ভব হবে, যা সমগ্র আরবকে গ্রাস করবে। এই ফিতনায় নিহত ব্যক্তিরা হবে জাহান্নামী। তখন জিহবা হবে তরবারির চেয়েও মারাত্মক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3967</td></tr><tr><td>Arabic No</td><td>3967</td></tr><tr><td>Reference</td><td>Book 36 Hadith 42</td></tr></tbody></table></div>
 

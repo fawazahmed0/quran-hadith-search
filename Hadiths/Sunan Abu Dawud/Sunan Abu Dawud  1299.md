@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবু তাওবা আর-রাবী (রহঃ) .... উরওয়া (রহঃ) হতে বর্ণিত। তিনি বলেনঃ জনৈক আনসার আমার নিকট বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জাফর (রাঃ) এর নিকট এই হাদীছটি বর্ণনা করেন। অতঃপর উপরোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে। রাবী আরো বলেনঃ প্রথম রাকাতের দ্বিতীয় সিজদা সম্পর্কে রাবী মাহদী ইবন মায়মূন হতে যেরূপ উক্ত হয়েছেন, তদ্রূপ এই স্থানেও বর্ণিত হয়েছে।
+। ‘উরওয়াহ ইবনু রুওয়াইম (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, জনৈক আনসারী (রাঃ) আমাকে বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জা‘ফারকে উপরোক্ত হাদীসটি বলেছেন। অতঃপর উপরোক্ত বর্ণনাকারীদের অনুরূপ। বর্ণনাকারী বলেন, তিনি প্রথম রাক‘আতের দ্বিতীয় সিজদায় তাই বলেছেন, যেরূপ মাহদী ইবনু মাইমূনের হাদীসে রয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1299</td></tr><tr><td>Arabic No</td><td>1299</td></tr><tr><td>Reference</td><td>Book 5 Hadith 50</td></tr></tbody></table></div>
 

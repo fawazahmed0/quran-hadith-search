@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ্‌ ইবনু মুআয .... নু’মান ইবনু বশীর (রাঃ) বলেন, আমরা যখন নামাযে দন্ডায়মান হতাম তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আমাদের কাতারসমূহ সোজা করে দিতেন। অতঃপর আমরা কাতার সোজা করে দাঁড়ালে তাকবীর (তাহরীমা) বলতেন।
+। সিমাক সূত্রে বর্ণিত। তিনি বলেন, আমি নু’মান ইবনু বশীর (রাঃ)-কে বলতে শুনেছি, আমরা সালাতের জন্য দাঁড়ালে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের কাতারসমূহ সোজা করে দিতেন। অতঃপর আমরা সমান্তরালভাবে দাঁড়িয়ে গেলে তিনি তাকবীর বলতেন।[1] সহীহ : অনুরূপ মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>665</td></tr><tr><td>Reference</td><td>Book 2 Hadith 275</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nu'man b. Beşîr'den; demiştir ki: "Nebi (Sallallahu aleyhi ve Sellem) biz namaza kalkınca saflarımızı düzeltirdi. Biz (saflarımızda iyice) düzelince de tekbir alırdı." Diğer tahric: Müslim, salat; Tirmizî, mevakît; Ahmed b. Hanbel, IV, 270, 272, 276
+Nu'man b. Beşîr'den; demiştir ki: "Nebi (Sallallahu aleyhi ve Sellem) biz namaza kalkınca saflarımızı düzeltirdi. Biz (saflarımızda iyice) düzelince de tekbir alırdı." Diğer tahric: Müslim, salat; Tirmizî, mevakît; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>665</td></tr><tr><td>Reference</td><td>Book 2 Hadith 275</td></tr></tbody></table></div>
 

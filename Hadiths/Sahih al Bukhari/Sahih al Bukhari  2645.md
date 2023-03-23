@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) হামযাহর মেয়ে সম্পর্কে বলেছেন, সে আমার জন্য হালাল নয়। কেননা বংশ কারণে যা হারাম হয়, দুধ পানের সম্পর্কের কারণেও তা হারাম হয়, আর সে আমার দুধ ভাইয়ের মেয়ে। (৫১০০) (মুসলিম ১৭/৩, হাঃ ১৪৪৭, আহমাদ ১৯৫২) (আধুনিক প্রকাশনীঃ ২৪৫৩, ইসলামিক ফাউন্ডেশনঃ ২৪৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) হামযাহর মেয়ে সম্পর্কে বলেছেন, সে আমার জন্য হালাল নয়। কেননা বংশ কারণে যা হারাম হয়, দুধ পানের সম্পর্কের কারণেও তা হারাম হয়, আর সে আমার দুধ ভাইয়ের মেয়ে। (৫১০০) (মুসলিম ১৭/৩, হাঃ ১৪৪৭, আহমাদ ১৯৫২) (আধুনিক প্রকাশনীঃ ২৪৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2645</td></tr><tr><td>Arabic No</td><td>2645</td></tr><tr><td>Reference</td><td>Book 52 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ஹம்ஸா (ரலி) அவர்களின் மகள் தொடர்பாக, ‘‘அவரை மணப்பது எனக்கு அனுமதிக்கப்பட்டதன்று. (ஏனெனில்) இரத்த உறவால் எவையெல் லாம் தடை செய்யப்படுமோ அவை யெல்லாம் (செவிலித் தாயிடம்) பால் குடிப்பதாலும் தடை செய்யப்படும். அவள் என் பால்குடிச் சகோதரரின் (ஹம்ஸாவின்) மகள் ஆவாள்” என்று கூறினார்கள்.7 அத்தியாயம் : 52
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ஹம்ஸா (ரலி) அவர்களின் மகள் தொடர்பாக, ‘‘அவரை மணப்பது எனக்கு அனுமதிக்கப்பட்டதன்று. (ஏனெனில்) இரத்த உறவால் எவையெல் லாம் தடை செய்யப்படுமோ அவை யெல்லாம் (செவிலித் தாயிடம்) பால் குடிப்பதாலும் தடை செய்யப்படும். அவள் என் பால்குடிச் சகோதரரின் (ஹம்ஸாவின்) மகள் ஆவாள்” என்று கூறினார்கள்.7 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2645</td></tr><tr><td>Arabic No</td><td>2645</td></tr><tr><td>Reference</td><td>Book 52 Hadith 9</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Abbas'tan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem Hamza'nın kızı hakkında: "O, bana helal değildir, Nesepten haram olan süt emmeden de haram olur. O, benim süt kardeşimin kızıdır" buyurdu. Tekrar 5100
+Abdullah b. Abbas'tan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem Hamza'nın kızı hakkında: "O, bana helal değildir, Nesepten haram olan süt emmeden de haram olur. O, benim süt kardeşimin kızıdır" buyurdu. Tekrar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2645</td></tr><tr><td>Arabic No</td><td>2645</td></tr><tr><td>Reference</td><td>Book 52 Hadith 9</td></tr></tbody></table></div>
 

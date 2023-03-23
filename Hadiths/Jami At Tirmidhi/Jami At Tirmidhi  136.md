@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৩৬। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, যে ব্যক্তি তার স্ত্রীর সাথে হায়িয চলাকালীন সময়ে সহবাস করে তার সম্পর্কে নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম বলেছেনঃ “সে অর্ধ দীনার সাদকা করবে”। —সহীহ। এই শব্দে “এক দীনার বা অর্ধ দীনার" সহীহ আবু দাউদ (২৫৬), ইবনু মাজাহ– (৬৪০)। হাদীসে বর্ণিত অর্ধ দীনার এই শব্দে হাদীসটি য’ঈফ, য’ঈফ আবু দাউদ– (৪২)।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, যে ব্যক্তি তার স্ত্রীর সাথে হায়িয চলাকালীন সময়ে সহবাস করে তার সম্পর্কে নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম বলেছেনঃ “সে অর্ধ দীনার সাদকা করবে”। —সহীহ। এই শব্দে “এক দীনার বা অর্ধ দীনার" সহীহ আবু দাউদ (২৫৬), ইবনু মাজাহ– (৬৪০)। হাদীসে বর্ণিত অর্ধ দীনার এই শব্দে হাদীসটি য’ঈফ, য’ঈফ আবু দাউদ– (৪২)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>136</td></tr><tr><td>Arabic No</td><td>136</td></tr><tr><td>Reference</td><td>Book 1 Hadith 136</td></tr></tbody></table></div>
 

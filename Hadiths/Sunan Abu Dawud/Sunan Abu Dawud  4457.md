@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন কুসায়ত (রহঃ) .... বারা ইবন আযিব (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি আমার চাচার সাথে সাক্ষাৎ করি, যার হাতে একটি পতাকা ছিল। তখন আমি তাকে জিজ্ঞাসা করিঃ আপনি কোথায় যাচ্ছেন? তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে এমন এক ব্যক্তির কাছে পাঠাচ্ছেন, যে তার সৎ-মাকে বিয়ে করেছে। তিনি আমাকে তার শিরশ্ছেদ করতে এবং তার ধন-সম্পদ নিয়ে নিতে নির্দেশ দিয়েছেন।
+। ইয়াযীদ ইবনু বারাআ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি আমার চাচার সঙ্গে সাক্ষাৎ করি। তখন তার সঙ্গে একটি ঝান্ডা ছিলো। আমি তাকে বলি, কোথায় যাচ্ছেন? তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে এক ব্যক্তির নিকট পাঠিয়েছেন, যে তার পিতার স্ত্রীকে (সৎ মাকে) বিয়ে করেছে। তিনি আমাকে আদেশ দিয়েছেন তাকে হত্যা করতে এবং তার সম্পদ নিয়ে আসতে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4457</td></tr><tr><td>Arabic No</td><td>4457</td></tr><tr><td>Reference</td><td>Book 40 Hadith 107</td></tr></tbody></table></div>
 

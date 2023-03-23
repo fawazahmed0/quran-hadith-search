@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২২৮। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কোন লোককে কোন মতবাদের দিকে ডেকেছে, তাকে কিয়ামতের দিন থামানো হবে, সে মাত্র এক ব্যক্তিকে সেদিকে ডেকে থাকলেও। তাকে তার আহবানের পরিণতি ভোগ না করিয়ে রেহাই দেয়া হবে না। তারপর তিনি আল্লাহ্ তা'আলার কিতাবের এই আয়াত পাঠ করেনঃ “এই লোকদের একটু থামাও, এদের নিকট কিছু প্রশ্ন করার আছে। তোমাদের কি হল, তোমরা এখন পরস্পরের সাহায্যে এগিয়ে আস না কেন?" (সূরাঃ আস-সাফফাত- ২৪-২৫) যঈফ, তা’লীকুর রাগীব (১/৫০) যিলালুল জুন্নাহ (১১২) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কোন লোককে কোন মতবাদের দিকে ডেকেছে, তাকে কিয়ামতের দিন থামানো হবে, সে মাত্র এক ব্যক্তিকে সেদিকে ডেকে থাকলেও। তাকে তার আহবানের পরিণতি ভোগ না করিয়ে রেহাই দেয়া হবে না। তারপর তিনি আল্লাহ্ তা'আলার কিতাবের এই আয়াত পাঠ করেনঃ “এই লোকদের একটু থামাও, এদের নিকট কিছু প্রশ্ন করার আছে। তোমাদের কি হল, তোমরা এখন পরস্পরের সাহায্যে এগিয়ে আস না কেন?" (সূরাঃ আস-সাফফাত- ২৪-২৫) যঈফ, তা’লীকুর রাগীব (১/৫০) যিলালুল জুন্নাহ (১১২) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3228</td></tr><tr><td>Arabic No</td><td>3228</td></tr><tr><td>Reference</td><td>Book 47 Hadith 280</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik:that the Messenger of Allah (ﷺ) said: "No caller invites to anything except that he is detained along with, on the Day of Resurrection, without parting from it, even if a man invites another man." Then he recited the saying of Allah, the Mighty and Sublime: 'But stop them, verily they are to be questioned. What is the matter with you? Why do you not help one another (37:24 & 25)
+Narrated Anas bin Malik:that the Messenger of Allah (ﷺ) said: "No caller invites to anything except that he is detained along with, on the Day of Resurrection, without parting from it, even if a man invites another man." Then he recited the saying of Allah, the Mighty and Sublime: 'But stop them, verily they are to be questioned. What is the matter with you? Why do you not help one another (37:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3228</td></tr><tr><td>Arabic No</td><td>3228</td></tr><tr><td>Reference</td><td>Book 47 Hadith 280</td></tr></tbody></table></div>
 

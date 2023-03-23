@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya related to me from Malik that he had heard that Abu Hurayra used to say, when morning came after it had rained on the people, "We have been rained upon by the rain of Allah's opening," and would then recite the ayat, "Whatever Allah opens to man of His mercy no-one can withhold, and whatever He withholds no-one can send forward after Him. " (Sura 35 ayat 2)
+Yahya related to me from Malik that he had heard that Abu Hurayra used to say, when morning came after it had rained on the people, "We have been rained upon by the rain of Allah's opening," and would then recite the ayat, "Whatever Allah opens to man of His mercy no-one can withhold, and whatever He withholds no-one can send forward after Him. " (Sura 35 ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>454</td></tr><tr><td>Arabic No</td><td>454</td></tr><tr><td>Reference</td><td>Book 13 Hadith 6</td></tr></tbody></table></div>
 

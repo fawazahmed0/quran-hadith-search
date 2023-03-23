@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন মুহাম্মদ (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কেউ কোন পশুর সাথে সঙ্গম করে, তবে তাকে হত্যা করবে এবং সে পশুকেও তার সাথে হত্যা করবে। রাবী বলেন, আমি ইবন আব্বাস (রাঃ)-কে জিজ্ঞাসা করিঃ পশুর অপরাধ কি? তিনি বলেনঃ আমার মনে হয়, তিনি সে পশুর গোশত খাওয়া ভাল মনে করেননি, যার সাথে কেউ এরূপ কুকর্ম করে।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি পশুর সঙ্গে সঙ্গম করলে তাকে এবং পশুটিকেও তার সঙ্গে হত্যা করো। তিনি (ইকরিমাহ) বলেন, আমি তাকে (ইবনু আব্বাসকে) বললাম, পশুটির অন্যায় কি? তিনি বলেন, আমার মতে যে পশুর সঙ্গে সঙ্গম করা হয়েছে নিশ্চয়ই তিনি তার গোশত খাওয়া অপছন্দ করেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, এটি তেমন শক্তিশালী হাদীস নয়।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4464</td></tr><tr><td>Arabic No</td><td>4464</td></tr><tr><td>Reference</td><td>Book 40 Hadith 114</td></tr></tbody></table></div>
 

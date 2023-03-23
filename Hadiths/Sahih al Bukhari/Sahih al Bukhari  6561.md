@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নু‘মান ইবনু বাশীর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, কিয়ামতের দিন ঐ ব্যক্তির সর্বাপেক্ষা লঘু ‘আযাব হবে, যার দু’পায়ের তলায় রাখা হবে জ্বলন্ত অঙ্গার, তাতে তার মগয ফুটতে থাকবে। [৬৫৬২; মুসলিম ১/৯১, হাঃ ২১৩, আহমাদ ১৮৪৪১] (আধুনিক প্রকাশনী- ৬১০৭, ইসলামিক ফাউন্ডেশন- ৬১১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নু‘মান ইবনু বাশীর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, কিয়ামতের দিন ঐ ব্যক্তির সর্বাপেক্ষা লঘু ‘আযাব হবে, যার দু’পায়ের তলায় রাখা হবে জ্বলন্ত অঙ্গার, তাতে তার মগয ফুটতে থাকবে। [৬৫৬২; মুসলিম ১/৯১, হাঃ ২১৩, আহমাদ ১৮৪৪১] (আধুনিক প্রকাশনী- ৬১০৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6561</td></tr><tr><td>Arabic No</td><td>6561</td></tr><tr><td>Reference</td><td>Book 81 Hadith 150</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated An-Nu'man:I heard the Prophet (ﷺ) saying, "The person who will have t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளில் நரகவாசிகளிலேயே மிகவும் இலேசாக வேதனை செய்யப் படுபவர் ஒரு மனிதராவார். அவருடைய உள்ளங்கால்களின் நடுவில் (நரக) நெருப்புக் கங்கு வைக்கப்படும். அதனால் அவரது மூளை கொதிக்கும். இதை நுஅமான் பின் பஷீர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 81
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளில் நரகவாசிகளிலேயே மிகவும் இலேசாக வேதனை செய்யப் படுபவர் ஒரு மனிதராவார். அவருடைய உள்ளங்கால்களின் நடுவில் (நரக) நெருப்புக் கங்கு வைக்கப்படும். அதனால் அவரது மூளை கொதிக்கும். இதை நுஅமான் பின் பஷீர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6561</td></tr><tr><td>Arabic No</td><td>6561</td></tr><tr><td>Reference</td><td>Book 81 Hadith 150</td></tr></tbody></table></div>
 

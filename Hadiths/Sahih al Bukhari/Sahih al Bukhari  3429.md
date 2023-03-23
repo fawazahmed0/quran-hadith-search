@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (ইবনু মাস‘ঊদ) (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন এ আয়াতে কারীমা নাযিল হলঃ যারা ঈমান এনেছে এবং তাদের ঈমানকে জুলুমের দ্বারা কলুষিত করেনি। তখন তা মুসলিমদের পক্ষে কঠিন হয়ে গেল। তারা আরয করলেন, হে আল্লাহর রাসূল! আমাদের মধ্যে কোন ব্যক্তি আছে যে নিজের উপর য়ুল্ম করেনি? তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, এখানে অর্থ তা নয় বরং এখানে জুলুমের অর্থ হলো শির্ক। তোমরা কি কুরআনে শুননি লুকমান তাঁর ছেলেকে নাসীহাত দেয়ার সময় কী বলেছিলেন? তিনি বলেছিলেন, ‘‘হে আমার বৎস! তুমি আল্লাহর সঙ্গে শির্ক করো না। কেননা, নিশ্চয়ই শির্ক এক মহা জুলুম। (৩২) (আধুনিক প্রকাশনীঃ ৩১৭৬, ইসলামিক ফাউন্ডেশনঃ ৩১৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (ইবনু মাস‘ঊদ) (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন এ আয়াতে কারীমা নাযিল হলঃ যারা ঈমান এনেছে এবং তাদের ঈমানকে জুলুমের দ্বারা কলুষিত করেনি। তখন তা মুসলিমদের পক্ষে কঠিন হয়ে গেল। তারা আরয করলেন, হে আল্লাহর রাসূল! আমাদের মধ্যে কোন ব্যক্তি আছে যে নিজের উপর য়ুল্ম করেনি? তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, এখানে অর্থ তা নয় বরং এখানে জুলুমের অর্থ হলো শির্ক। তোমরা কি কুরআনে শুননি লুকমান তাঁর ছেলেকে নাসীহাত দেয়ার সময় কী বলেছিলেন? তিনি বলেছিলেন, ‘‘হে আমার বৎস! তুমি আল্লাহর সঙ্গে শির্ক করো না। কেননা, নিশ্চয়ই শির্ক এক মহা জুলুম। (৩২) (আধুনিক প্রকাশনীঃ ৩১৭৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3429</td></tr><tr><td>Arabic No</td><td>3429</td></tr><tr><td>Reference</td><td>Book 60 Hadith 100</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah:When the Verse:-- 'Those who believe and mix not their belief with wrong.' was revealed, the Muslims felt it very hard on them and said, "O Allah's Messenger (ﷺ)! Who amongst us does not do wrong to himself?" He replied, "The Verse does not mean this. But that (wrong) means to associate others in worship to Allah: Don't you listen to what Luqman said to his son when he was advising him," O my son! Join not others in worship with Allah. Verily joining others in worship with Allah is a great wrong indeed." (31.13)
+Narrated 'Abdullah:When the Verse:-- 'Those who believe and mix not their belief with wrong.' was revealed, the Muslims felt it very hard on them and said, "O Allah's Messenger (ﷺ)! Who amongst us does not do wrong to himself?" He replied, "The Verse does not mean this. But that (wrong) means to associate others in worship to Allah: Don't you listen to what Luqman said to his son when he was advising him," O my son! Join not others in worship with Allah. Verily joining others in worship with Allah is a great wrong indeed
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3429</td></tr><tr><td>Arabic No</td><td>3429</td></tr><tr><td>Reference</td><td>Book 60 Hadith 100</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah:When the Verse:-- 'Those who believe and mix not their belief
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah bercerita kepadaku [Ishaq] telah mengabarkan kepada kami ['Isa bin Yunus] telah bercerita kepada kami [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah] berkata; "Ketika turun firman Allah Ta'ala yang artinya: ("Orang-orang yang beriman dan tidak mencampur adukkan iman mereka dengan kezhaliman ….") (QS al-An'am ayat 82), membuat kaum muslimin menjadi ragu lalu mereka berkata: "Wahai Rasulullah shallallahu 'alaihi wasallam, adakah orang di antara kami yang tidak menzhalimi dirinya?". Maka beliau berkata: "Bukan itu maksudnya. Sesungguhnya yang dimaksud dengan kezhaliman pada ayat itu adalah syirik. Apakah kalian belum pernah mendengar apa yang diucapkan Luqman kepada anaknya saat dia memberi pelajaran: ("Wahai anakku, Janganlah kamu berbuat syirik (menyekutukan Allah), karena sesungguhnya syirik itu benar-benar kezhaliman yang besar"). (QS Luqman ayat 13)
+Telah bercerita kepadaku [Ishaq] telah mengabarkan kepada kami ['Isa bin Yunus] telah bercerita kepada kami [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah] berkata; "Ketika turun firman Allah Ta'ala yang artinya: ("Orang-orang yang beriman dan tidak mencampur adukkan iman mereka dengan kezhaliman ….") (QS al-An'am ayat 82), membuat kaum muslimin menjadi ragu lalu mereka berkata: "Wahai Rasulullah shallallahu 'alaihi wasallam, adakah orang di antara kami yang tidak menzhalimi dirinya?". Maka beliau berkata: "Bukan itu maksudnya. Sesungguhnya yang dimaksud dengan kezhaliman pada ayat itu adalah syirik. Apakah kalian belum pernah mendengar apa yang diucapkan Luqman kepada anaknya saat dia memberi pelajaran: ("Wahai anakku, Janganlah kamu berbuat syirik (menyekutukan Allah), karena sesungguhnya syirik itu benar-benar kezhaliman yang besar"). (QS Luqman ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3429</td></tr><tr><td>Arabic No</td><td>3429</td></tr><tr><td>Reference</td><td>Book 60 Hadith 100</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Ishaq] telah mengabarkan kepada kami ['Isa bin Yunus] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: யிஎவர் இறைநம்பிக்கை கொண்டு (பின்னர்) தமது இறைநம்பிக்கையுடன் அநீதியைக் கலந்திடவில்லையோ’ என்னும் (6:82) வசனம் அருளப்பட்டபோது, அது முஸ்லிம்களுக்கு மிகவும் கடினமான தாகத் தென்பட்டது. ஆகவே, அவர்கள், ‘‘அல்லாஹ்வின் தூதரே! எங்களில் தமக் குத்தாமே அநீதியிழைத்துக்கொள்ளாதவர் யார்?” என்று கேட்டனர். அதற்கு நபி (ஸல்) அவர்கள், ‘‘(இந்த வசனம் குறிப்பிடுவது) அதுவல்ல. அது இணைவைப்பையே குறிக்கிறது. யிஎன் அருமை மகனே! அல்லாஹ்வுக்கு இணை கற்பிக்காதே. நிச்சயமாக, இணைகற்பிப்பது மாபெரும் அநீதியாகும்’ என்று (அறிஞர்) லுக்மான், தம் மகனுக்கு அறிவுரை கூறுவதை (குர்ஆன் எடுத்துரைக்கின்றதே, (31:13) அதை) நீங்கள் கேட்கவில்லையா?” என்று சொன்னார்கள்.110 அத்தியாயம் : 60
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: யிஎவர் இறைநம்பிக்கை கொண்டு (பின்னர்) தமது இறைநம்பிக்கையுடன் அநீதியைக் கலந்திடவில்லையோ’ என்னும் (6:82) வசனம் அருளப்பட்டபோது, அது முஸ்லிம்களுக்கு மிகவும் கடினமான தாகத் தென்பட்டது. ஆகவே, அவர்கள், ‘‘அல்லாஹ்வின் தூதரே! எங்களில் தமக் குத்தாமே அநீதியிழைத்துக்கொள்ளாதவர் யார்?” என்று கேட்டனர். அதற்கு நபி (ஸல்) அவர்கள், ‘‘(இந்த வசனம் குறிப்பிடுவது) அதுவல்ல. அது இணைவைப்பையே குறிக்கிறது. யிஎன் அருமை மகனே! அல்லாஹ்வுக்கு இணை கற்பிக்காதே. நிச்சயமாக, இணைகற்பிப்பது மாபெரும் அநீதியாகும்’ என்று (அறிஞர்) லுக்மான், தம் மகனுக்கு அறிவுரை கூறுவதை (குர்ஆன் எடுத்துரைக்கின்றதே, (31:13) அதை) நீங்கள் கேட்கவில்லையா?” என்று சொன்னார்கள்.110 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3429</td></tr><tr><td>Arabic No</td><td>3429</td></tr><tr><td>Reference</td><td>Book 60 Hadith 100</td></tr></tbody></table></div>
 

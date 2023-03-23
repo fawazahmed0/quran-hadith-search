@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারুন ইবন আবদিল্লাহ (রহঃ) .... ইউনুস ইবন আবদিল্লাহ ইবন সালাম (রহঃ) থেকে অনু্রূপ হাদীছ বর্ণিত হয়েছে।
+। ইউসুফ ইবনু ‘আব্দুল্লাহ ইবনু সালাম (রাঃ) থেকে এ সনদে উপরের হাদীসের অনুরূপ বর্ণিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3260</td></tr><tr><td>Arabic No</td><td>3260</td></tr><tr><td>Reference</td><td>Book 22 Hadith 19</td></tr></tbody></table></div>
 

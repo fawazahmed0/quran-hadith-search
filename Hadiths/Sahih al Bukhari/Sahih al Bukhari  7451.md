@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, এক ইয়াহূদী বিদ্বান রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বলল, হে মুহাম্মাদ! আল্লাহ্ কিয়ামতের দিন আসমানকে একে আঙ্গুলের ওপর, পৃথিবীকে এক আঙ্গুলের ওপর, পর্বতরাজিকে এক আঙ্গুলের ওপর, বৃক্ষলতা ও নদী-নালাকে এক আঙ্গুলের ওপর এবং সকল সৃষ্টিকে এক আঙ্গুলের ওপর রেখে দেবেন। এবং নিজ হাতে ইশারা দিয়ে বলবেন, সম্রাট একমাত্র আমিই। এতে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাসলেন এবং বললেনঃ তারা আল্লাহর যথাযোগ্য মর্যাদা উপলব্ধি করেনি- (সূরাহ আন‘আম ৬/৯১)। [৪৮১১] (আধুনিক প্রকাশনী- ৬৯৩৩, ইসলামিক ফাউন্ডেশন- ৬৯৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, এক ইয়াহূদী বিদ্বান রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বলল, হে মুহাম্মাদ! আল্লাহ্ কিয়ামতের দিন আসমানকে একে আঙ্গুলের ওপর, পৃথিবীকে এক আঙ্গুলের ওপর, পর্বতরাজিকে এক আঙ্গুলের ওপর, বৃক্ষলতা ও নদী-নালাকে এক আঙ্গুলের ওপর এবং সকল সৃষ্টিকে এক আঙ্গুলের ওপর রেখে দেবেন। এবং নিজ হাতে ইশারা দিয়ে বলবেন, সম্রাট একমাত্র আমিই। এতে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাসলেন এবং বললেনঃ তারা আল্লাহর যথাযোগ্য মর্যাদা উপলব্ধি করেনি- (সূরাহ আন‘আম ৬/৯১)। [৪৮১১] (আধুনিক প্রকাশনী- ৬৯৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7451</td></tr><tr><td>Arabic No</td><td>7451</td></tr><tr><td>Reference</td><td>Book 97 Hadith 77</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah:A Jewish Rabbi came to Allah's Messenger (ﷺ) and said, "O Muhammad! Allah will put the Heavens on one finger and the earth on one finger, and the trees and the rivers on one finger, and the rest of the creation on one finger, and then will say, pointing out with His Hand, 'I am the King.' "On that Allah's Apostle smiled and said, "No just estimate have they made of Allah such as due to Him. (39.67)
+Narrated 'Abdullah:A Jewish Rabbi came to Allah's Messenger (ﷺ) and said, "O Muhammad! Allah will put the Heavens on one finger and the earth on one finger, and the trees and the rivers on one finger, and the rest of the creation on one finger, and then will say, pointing out with His Hand, 'I am the King.' "On that Allah's Apostle smiled and said, "No just estimate have they made of Allah such as due to Him
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7451</td></tr><tr><td>Arabic No</td><td>7451</td></tr><tr><td>Reference</td><td>Book 97 Hadith 77</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah:A Jewish Rabbi came to Allah's Messenger (ﷺ) and said, "O M
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Abu 'Awanah] dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] berkata, "Seorang biarawan yahudi menemui Rasulullah Shallallahu'alaihiwasallam dan berkata: "Wahai Muhammad, sesungguhnya Allah meletakkan langit diatas satu jari, seluruh bumi diatas satu jari, semua gunung diatas satu jari, pohon dan sungai diatas satu jari, dan semua makhluk diatas satu jari, kemudian Allah berfirman seraya menunjukan jarinya, 'Akulah Sang raja'." Maka Rasulullah Shallallahu'alaihiwasallam tertawa dan membacakan kutipan ayat: '(Dan mereka tidak menghormati Allah dengan penghormatan yang semestinya) ' (QS. Azzumar: 67)
+Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Abu 'Awanah] dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] berkata, "Seorang biarawan yahudi menemui Rasulullah Shallallahu'alaihiwasallam dan berkata: "Wahai Muhammad, sesungguhnya Allah meletakkan langit diatas satu jari, seluruh bumi diatas satu jari, semua gunung diatas satu jari, pohon dan sungai diatas satu jari, dan semua makhluk diatas satu jari, kemudian Allah berfirman seraya menunjukan jarinya, 'Akulah Sang raja'." Maka Rasulullah Shallallahu'alaihiwasallam tertawa dan membacakan kutipan ayat: '(Dan mereka tidak menghormati Allah dengan penghormatan yang semestinya) ' (QS. Azzumar:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7451</td></tr><tr><td>Arabic No</td><td>7451</td></tr><tr><td>Reference</td><td>Book 97 Hadith 77</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Abu 'Awana
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: யூதப் பாதிரியார் ஒருவர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் வந்து, “முஹம்மதே! மறுமை நாளில் அல்லாஹ் வானத்தை ஒரு விரலிலும் பூமியை ஒரு விரலிலும் மலைகளை ஒரு விரலிலும் மரம் மற்றும் நதிகளை ஒரு விரலிலும் இதர படைப்புகள் அனைத்தையும் ஒரு விரலிலும் (நிறுத்தி) வைத்துக்கொண்டு தனது கரத்தால் (சைகை செய்தவாறு) ‘நானே அரசன்’ எனக் கூறுவான்” என்று சொன்னார். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் சிரித்துவிட்டு, “அவர்கள் (யூதர்கள்) அல்லாஹ்வை எப்படி மதிக்க வேண்டுமோ அப்படி மதிக்கவில்லை” எனும் (6:91ஆவது) வசனத்தைக் கூறினார்கள்.91 அத்தியாயம் : 97
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: யூதப் பாதிரியார் ஒருவர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் வந்து, “முஹம்மதே! மறுமை நாளில் அல்லாஹ் வானத்தை ஒரு விரலிலும் பூமியை ஒரு விரலிலும் மலைகளை ஒரு விரலிலும் மரம் மற்றும் நதிகளை ஒரு விரலிலும் இதர படைப்புகள் அனைத்தையும் ஒரு விரலிலும் (நிறுத்தி) வைத்துக்கொண்டு தனது கரத்தால் (சைகை செய்தவாறு) ‘நானே அரசன்’ எனக் கூறுவான்” என்று சொன்னார். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் சிரித்துவிட்டு, “அவர்கள் (யூதர்கள்) அல்லாஹ்வை எப்படி மதிக்க வேண்டுமோ அப்படி மதிக்கவில்லை” எனும் (6:91ஆவது) வசனத்தைக் கூறினார்கள்.91 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7451</td></tr><tr><td>Arabic No</td><td>7451</td></tr><tr><td>Reference</td><td>Book 97 Hadith 77</td></tr></tbody></table></div>
 

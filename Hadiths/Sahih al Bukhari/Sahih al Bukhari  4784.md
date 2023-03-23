@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যায়দ ইবনু সাবিত (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা যখন সহীফা থেকে কুরআন লিপিবদ্ধ করছিলাম তখন সূরা আহযাবের একটি আয়াত পেলাম না, যা রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে তিলাওয়াত করতে শুনেছি। শেষে সেটি খুযায়মা আনসারী ছাড়া অন্য কারও কাছে পেলাম না; যার সাক্ষ্য রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম দু’জন পুরুষ সাক্ষীর সমান গণ্য করেছেন। (আয়াতটি হল ৩৩ঃ২৩) مِنَ الْمُؤْمِنِيْنَ رِجَالٌ صَدَقُوْا مَا عَاهَدُوا اللهَ عَلَيْهِ [২৮০৭](আধুনিক প্রকাশনীঃ ৪৪২০, ইসলামিক ফাউন্ডেশনঃ ৪৪২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যায়দ ইবনু সাবিত (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা যখন সহীফা থেকে কুরআন লিপিবদ্ধ করছিলাম তখন সূরা আহযাবের একটি আয়াত পেলাম না, যা রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে তিলাওয়াত করতে শুনেছি। শেষে সেটি খুযায়মা আনসারী ছাড়া অন্য কারও কাছে পেলাম না; যার সাক্ষ্য রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম দু’জন পুরুষ সাক্ষীর সমান গণ্য করেছেন। (আয়াতটি হল ৩৩ঃ২৩) مِنَ الْمُؤْمِنِيْنَ رِجَالٌ صَدَقُوْا مَا عَاهَدُوا اللهَ عَلَيْهِ [২৮০৭](আধুনিক প্রকাশনীঃ ৪৪২০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4784</td></tr><tr><td>Arabic No</td><td>4784</td></tr><tr><td>Reference</td><td>Book 65 Hadith 306</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Zaid bin Thabit:When we collected the fragramentary manuscripts of the 
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; Telah mengabarkan kepadaku [Kharijah bin Zaid bin Tsabit] bahwa [Zaid bin Tsabit] berkata; Tatkala kami mencatat ayat-ayat Al Qur'an dari beberapa Mushaf, aku kehilangan satu ayat dari surat Al Ahzab yang aku sering mendengar Rasulullah shallallahu 'alaihi wasallam membacanya. Aku tidak menemukannya dari siapapun kecuali hanya dari Khuzaimah Al Anshari, orang yang kesaksiannya dianggap oleh Rasulullah shallallahu 'alaihi wasallam sebanding dengan kesaksian dua orang laki-laki. Yaitu ayat: Di antara orang-orang mukmin itu terdapat orang-orang yang menepati apa yang telah mereka janjikan kepada Allah, (Al Ahzab: 23)
+Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; Telah mengabarkan kepadaku [Kharijah bin Zaid bin Tsabit] bahwa [Zaid bin Tsabit] berkata; Tatkala kami mencatat ayat-ayat Al Qur'an dari beberapa Mushaf, aku kehilangan satu ayat dari surat Al Ahzab yang aku sering mendengar Rasulullah shallallahu 'alaihi wasallam membacanya. Aku tidak menemukannya dari siapapun kecuali hanya dari Khuzaimah Al Anshari, orang yang kesaksiannya dianggap oleh Rasulullah shallallahu 'alaihi wasallam sebanding dengan kesaksian dua orang laki-laki. Yaitu ayat: Di antara orang-orang mukmin itu terdapat orang-orang yang menepati apa yang telah mereka janjikan kepada Allah, (Al Ahzab:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4784</td></tr><tr><td>Arabic No</td><td>4784</td></tr><tr><td>Reference</td><td>Book 65 Hadith 306</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸைத் பின் ஸாபித் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (உஸ்மான் (ரலி) அவர்களின் ஆட்சிக் காலத்தில்,) குர்ஆனுக்குப் பிரதிகள் எடுத்தபோது ‘அல்அஹ்ஸாப்’ எனும் (33ஆவது) அத்தியாயத்தின் ஒரு வசனத்தை நான் காணவில்லை. அதை நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஓதக் கேட்டிருந்தேன். குஸைமா அல்அன்சாரீ (ரலி) அவர்களிடம் தவிர வேறு யாரிடமும் அது எனக்குக் கிடைக்கவில்லை. இந்த குஸைமாவின் சாட்சியத்தைத் தான் (ஒருமுறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரண்டு பேரின் சாட்சியத்திற்குச் சமமானதாக ஆக்கினார்கள்.5 (அந்த வசனம் இதுதான்:) ‘‘இறை நம்பிக்கையாளர்களில் சிலர் உள்ளனர். அவர்கள் அல்லாஹ்விடம் தாம் அளித்த வாக்குறுதியில் உண்மையாக நடந்துகொண்டார்கள்.” (33:23)6 அத்தியாயம் : 65
+ஸைத் பின் ஸாபித் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (உஸ்மான் (ரலி) அவர்களின் ஆட்சிக் காலத்தில்,) குர்ஆனுக்குப் பிரதிகள் எடுத்தபோது ‘அல்அஹ்ஸாப்’ எனும் (33ஆவது) அத்தியாயத்தின் ஒரு வசனத்தை நான் காணவில்லை. அதை நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஓதக் கேட்டிருந்தேன். குஸைமா அல்அன்சாரீ (ரலி) அவர்களிடம் தவிர வேறு யாரிடமும் அது எனக்குக் கிடைக்கவில்லை. இந்த குஸைமாவின் சாட்சியத்தைத் தான் (ஒருமுறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரண்டு பேரின் சாட்சியத்திற்குச் சமமானதாக ஆக்கினார்கள்.5 (அந்த வசனம் இதுதான்:) ‘‘இறை நம்பிக்கையாளர்களில் சிலர் உள்ளனர். அவர்கள் அல்லாஹ்விடம் தாம் அளித்த வாக்குறுதியில் உண்மையாக நடந்துகொண்டார்கள்.” (33:23)6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4784</td></tr><tr><td>Arabic No</td><td>4784</td></tr><tr><td>Reference</td><td>Book 65 Hadith 306</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫২৯৮, আন্তর্জাতিক নাম্বারঃ ২০৬৮ ৫২৯৮-(.../...) হারূন ইবনু মা’রূফ (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে উপরোক্ত সনদে অবিকল বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৫২৩১, ইসলামিক সেন্টার ৫২৪৪)
+হারূন ইবনু মা’রূফ (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে উপরোক্ত সনদে অবিকল বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৫২৩১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5405</td></tr><tr><td>Arabic No</td><td>2068.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 20</td></tr></tbody></table></div>
 

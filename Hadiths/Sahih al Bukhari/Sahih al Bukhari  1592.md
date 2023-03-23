@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, রমাযানের সওম ফরজ হওয়ার পূর্বে মুসলিমগণ ‘আশূরার সওম পালন করতেন। সে দিনই কা‘বা ঘর (গিলাফে) আবৃত করা হতো। অতঃপর আল্লাহ যখন রমাযানের সওম ফরজ করলেন, তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ ‘আশূরার সওম যার ইচ্ছা সে পালন করবে আর যার ইচ্ছা সে ছেড়ে দিবে। (১৮৯৩, ২০০১, ২০০২, ৩৮৩১, ৪৫০২, ৪৫০৪) (আধুনিক প্রকাশনীঃ ১৪৮৮, ইসলামিক ফাউন্ডেশনঃ ১৪৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, রমাযানের সওম ফরজ হওয়ার পূর্বে মুসলিমগণ ‘আশূরার সওম পালন করতেন। সে দিনই কা‘বা ঘর (গিলাফে) আবৃত করা হতো। অতঃপর আল্লাহ যখন রমাযানের সওম ফরজ করলেন, তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ ‘আশূরার সওম যার ইচ্ছা সে পালন করবে আর যার ইচ্ছা সে ছেড়ে দিবে। (১৮৯৩, ২০০১, ২০০২, ৩৮৩১, ৪৫০২, ৪৫০৪) (আধুনিক প্রকাশনীঃ ১৪৮৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1592</td></tr><tr><td>Arabic No</td><td>1592</td></tr><tr><td>Reference</td><td>Book 25 Hadith 78</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ரமளான் நோன்பு கடமையாக்கப்படு வதற்கு முன்னால் மக்கள் ஆஷூரா (முஹர்ரம் பத்தாம் நாளில்) நோன்பு நோற்றுவந்தார்கள். அதுதான் கஅபாவுக் குப் புதிய திரைச்சீலை போர்த்தப்படும் நாளாக இருந்தது. அல்லாஹ் ரமளான் நோன்பைக் கடமையாக்கியபோது, “யார் ஆஷூரா நோன்பு நோற்க விரும்பு கிறாரோ அவர் அதை நோற்றுக்கொள்ளட்டும்! யார் அதை விட்டுவிட விரும்பு கிறாரோ அவர் அதை விட்டுவிடட்டும்!” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 25
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ரமளான் நோன்பு கடமையாக்கப்படு வதற்கு முன்னால் மக்கள் ஆஷூரா (முஹர்ரம் பத்தாம் நாளில்) நோன்பு நோற்றுவந்தார்கள். அதுதான் கஅபாவுக் குப் புதிய திரைச்சீலை போர்த்தப்படும் நாளாக இருந்தது. அல்லாஹ் ரமளான் நோன்பைக் கடமையாக்கியபோது, “யார் ஆஷூரா நோன்பு நோற்க விரும்பு கிறாரோ அவர் அதை நோற்றுக்கொள்ளட்டும்! யார் அதை விட்டுவிட விரும்பு கிறாரோ அவர் அதை விட்டுவிடட்டும்!” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1592</td></tr><tr><td>Arabic No</td><td>1592</td></tr><tr><td>Reference</td><td>Book 25 Hadith 78</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha) şöyle anlatır: "Müslümanlar, Ramazan orucu farz kılınmadan önce aşure günü oruç tutardı. O gün Kabe'ye örtü örtülürdü. Allah Teala Ramazan orucunu farz kılınca Resul-i Ekrem Sallallahu Aleyhi ve Sellem, "Aşure orucunu artık dileyen tutsun dileyen de tutmasın" buyurmuştur." Tekrar: 1893, 2001, 2002, 4502, 4504
+Aişe (r.anha) şöyle anlatır: "Müslümanlar, Ramazan orucu farz kılınmadan önce aşure günü oruç tutardı. O gün Kabe'ye örtü örtülürdü. Allah Teala Ramazan orucunu farz kılınca Resul-i Ekrem Sallallahu Aleyhi ve Sellem, "Aşure orucunu artık dileyen tutsun dileyen de tutmasın" buyurmuştur." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1592</td></tr><tr><td>Arabic No</td><td>1592</td></tr><tr><td>Reference</td><td>Book 25 Hadith 78</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ (রহঃ) ..... আবদুল্লাহ্‌ ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কেউ কোন বস্তু দান করে তা আবার ফেরত নেয়, তবে তার উদাহরণ এরূপ যে, কোন কুকুর যেন বমি করে তা আবার ভক্ষণ করে। যদি কোন ব্যক্তি তার দানকৃত কোন বস্তু ফেরত নিতে ইচ্ছা করে, তখন দান-গ্রহীতা ব্যক্তি তাকে এর কারণ সম্পর্কে জিজ্ঞাসা করবে। যদি বিশেষ কোন কারণে দানকারী তা ফেরত চাইতে বাধ্য হয়, তখন তাকে তা ফেরত দেবে।
+। ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তির নিজের দান করা বস্তু ফেরত নেয় সে এমন কুকুরের মতো, যে বমি করে পুনরায় তা ভক্ষণ করে। দাতা দানকৃত বস্তু ফেরত চাইলে গ্রহীতা খতিয়ে দেখবে এবং জেনে নিবে, সে কি জন্য তার দানকৃত বস্তু ফেরত চাইছে। কারণ জানা গেলে তা ফেরত দিবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3540</td></tr><tr><td>Arabic No</td><td>3540</td></tr><tr><td>Reference</td><td>Book 24 Hadith 125</td></tr></tbody></table></div>
 

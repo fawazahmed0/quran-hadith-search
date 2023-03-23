@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৪৯০, আন্তর্জাতিক নাম্বারঃ ১১১১ ২৪৯০-(.../...) আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) থেকে এ সানাদে ইবনু উয়ায়নার অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ২৪৬৭, ইসলামীক সেন্টার ২৪৬৬)
+আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) থেকে এ সানাদে ইবনু উয়ায়নার অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ২৪৬৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2600</td></tr><tr><td>Arabic No</td><td>1111.06</td></tr><tr><td>Reference</td><td>Book 13 Hadith 106</td></tr></tbody></table></div>
 

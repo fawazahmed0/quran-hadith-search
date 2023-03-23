@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/১১০৮। আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তাকে জিজ্ঞেস করা হলো, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি দাঁড়িয়ে খুতবাহ দিতেন, না বসে? তিনি বলেন, তুমি কি এ আয়াত পাঠ করোনি: এবং তারা তোমাকে রেখে গেল দাঁড়ানো অবস্থায় (সূরাহ জুমুআহ: ১১)?
+। আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তাকে জিজ্ঞেস করা হলো, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি দাঁড়িয়ে খুতবাহ দিতেন, না বসে? তিনি বলেন, তুমি কি এ আয়াত পাঠ করোনি: এবং তারা তোমাকে রেখে গেল দাঁড়ানো অবস্থায় (সূরাহ জুমুআহ: ১১)?
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1108</td></tr><tr><td>Arabic No</td><td>1108</td></tr><tr><td>Reference</td><td>Book 5 Hadith 306</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘Alqamah narrated that ‘Abdullah was asked whether the Prophet (ﷺ) used to deliver the sermon standing or sitting. He said:“Have you not read the Verse: ‘...and leave you (Muhammad) standing (while delivering the Friday sermon?” [62:11)
+‘Alqamah narrated that ‘Abdullah was asked whether the Prophet (ﷺ) used to deliver the sermon standing or sitting. He said:“Have you not read the Verse: ‘...and leave you (Muhammad) standing (while delivering the Friday sermon?” [62:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1108</td></tr><tr><td>Arabic No</td><td>1108</td></tr><tr><td>Reference</td><td>Book 5 Hadith 306</td></tr></tbody></table></div>
 

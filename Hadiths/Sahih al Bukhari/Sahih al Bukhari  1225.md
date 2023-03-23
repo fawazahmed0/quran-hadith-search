@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু বুহাইনাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের দু’রাক‘আত আদায় করে দাঁড়িয়ে গেলেন। দু‘রাক‘আতের পর তিনি বসলেন না। সালাত শেষ হয়ে গেলে তিনি দু’টি সিজদা্ করলেন এবং অতঃপর সালাম ফিরালেন। (৮২৯) (আধুনিক প্রকাশনীঃ ১১৪৫, ইসলামিক ফাউন্ডেশনঃ ১১৫২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু বুহাইনাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের দু’রাক‘আত আদায় করে দাঁড়িয়ে গেলেন। দু‘রাক‘আতের পর তিনি বসলেন না। সালাত শেষ হয়ে গেলে তিনি দু’টি সিজদা্ করলেন এবং অতঃপর সালাম ফিরালেন। (৮২৯) (আধুনিক প্রকাশনীঃ ১১৪৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1225</td></tr><tr><td>Arabic No</td><td>1225</td></tr><tr><td>Reference</td><td>Book 22 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் இப்னு புஹைனா (ரலி) அவர்கள் கூறியதாவது: லுஹ்ர் தொழுவித்த நபி (ஸல்) அவர்கள் இரண்டாவது ரக்அத்தில் அமராமல் எழுந்துவிட்டார்கள். தொழுகையை முடிக்கும்போது (மறதிக்காக) இரண்டு சஜ்தா செய்தார்கள். அதன்பின் சலாம் கொடுத்தார்கள்.3 அத்தியாயம் : 22
+அப்துல்லாஹ் இப்னு புஹைனா (ரலி) அவர்கள் கூறியதாவது: லுஹ்ர் தொழுவித்த நபி (ஸல்) அவர்கள் இரண்டாவது ரக்அத்தில் அமராமல் எழுந்துவிட்டார்கள். தொழுகையை முடிக்கும்போது (மறதிக்காக) இரண்டு சஜ்தா செய்தார்கள். அதன்பின் சலாம் கொடுத்தார்கள்.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1225</td></tr><tr><td>Arabic No</td><td>1225</td></tr><tr><td>Reference</td><td>Book 22 Hadith 2</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৯১৬। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার তিনটি মেয়ে অথবা তিনটি বোন আছে, অথবা দুটি মেয়ে অথবা দুটি বোন আছে, সে তাদের প্রতি ভাল ব্যবহার করলে এবং তাদের (অধিকার) সম্পর্কে আল্লাহ্ তা'আলাকে ভয় করলে তার জন্য জান্নাত নির্ধারিত আছে। বর্ণিত শব্দে হাদীসটি যঈফ, সাহীহা (২৯৪) আবূ ঈসা বলেছেন, এ হাদীসটি গারীব।
+। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার তিনটি মেয়ে অথবা তিনটি বোন আছে, অথবা দুটি মেয়ে অথবা দুটি বোন আছে, সে তাদের প্রতি ভাল ব্যবহার করলে এবং তাদের (অধিকার) সম্পর্কে আল্লাহ্ তা'আলাকে ভয় করলে তার জন্য জান্নাত নির্ধারিত আছে। বর্ণিত শব্দে হাদীসটি যঈফ, সাহীহা (২৯৪) আবূ ঈসা বলেছেন, এ হাদীসটি গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 27 Hadith 22</td></tr></tbody></table></div>
 

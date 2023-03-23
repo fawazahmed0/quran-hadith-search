@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রাজাআ ইবনুল-মুরাজ্জা .... উছমান ইবনু আবূল আস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাঁকে তায়েফের ঐ স্থানে মসজিদ নির্মাণের নির্দেশ দান করেন, যেখানে মুর্তি পূজারীদের মূর্তিঘর ছিল। (ইবনু মাজাহ)।
+। ‘উসমান ইবনু আবূল ‘আস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে তায়িফের ঐ স্থানে মাসজিদ নির্মাণের নির্দেশ দিলেন যেখানে মুশরিকদের মূর্তিসমূহ স্থাপিত ছিল।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>450</td></tr><tr><td>Arabic No</td><td>450</td></tr><tr><td>Reference</td><td>Book 2 Hadith 60</td></tr></tbody></table></div>
 

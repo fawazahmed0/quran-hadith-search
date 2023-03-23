@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قَالَهُ ابْنُ بُحَيْنَةَ عَنْ النَّبِيِّ صلى الله عليه وسلم. ইবনু বুহাইনাহ এ সম্পর্কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। ৫৬৯৫. ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরামের অবস্থায় শিঙ্গা লাগিয়েছেন। [১৮৩৫] (আধুনিক প্রকাশনী- ৫২৮৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5695</td></tr><tr><td>Arabic No</td><td>5695</td></tr><tr><td>Reference</td><td>Book 76 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ‘இஹ்ராம்’ கட்டியிருந்த நிலையில் குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள்.18 அத்தியாயம் : 76
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ‘இஹ்ராம்’ கட்டியிருந்த நிலையில் குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள்.18 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5695</td></tr><tr><td>Arabic No</td><td>5695</td></tr><tr><td>Reference</td><td>Book 76 Hadith 17</td></tr></tbody></table></div>
 

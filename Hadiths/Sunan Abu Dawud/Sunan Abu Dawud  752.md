@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুসায়ন আব্দুর রহমান ..... বারাআ আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে তাকবীরে তাহরীমা বলার সময় তার হস্তদ্বয় উত্তোলন করতে দেখেছি। অতঃপর তিনি নামাযের শেষ পর্যন্ত আর কখনও স্বীয় হস্তদ্বয় (একবারের অধিক) উত্তোলন করেননি। ইমাম আবূ দাউদ (রহঃ) বলেন, এই হাদীছ সহীহ নয়।
+। বারাআ ইবনু ‘আযিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাকবীরে তাহরীমা বলার সময় তাঁর দু’ হাত উঠাতে দেখেছি। অতঃপর সালাত শেষ করা পর্যন্ত তিনি দু’ হাত আর উত্তোলন করেননি।[1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, এই হাদীসটি সহীহ নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>752</td></tr><tr><td>Arabic No</td><td>752</td></tr><tr><td>Reference</td><td>Book 2 Hadith 362</td></tr></tbody></table></div>
 

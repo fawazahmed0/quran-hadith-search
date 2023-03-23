@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪৯৮। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ভালভাবে ওযু করে জুমু'আর নামায আদায় করতে আসে, ইমামের নিকটবর্তী হয়ে মনোযোগ সহকারে নীরবে খুতবা শুনে, তার এ জুমুআ হতে ঐ জুমুআ পর্যন্ত এবং আরো তিন দিনের গুনাহ ক্ষমা করে দেওয়া হবে। যে ব্যক্তি কাকর-বালি ইত্যাদি নাড়াচাড়া করল সে বাজে কাজ করল। —সহীহ। ইবনু মাজাহ– (১০৯০), মুসলিম। আবু ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
+। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ভালভাবে ওযু করে জুমু'আর নামায আদায় করতে আসে, ইমামের নিকটবর্তী হয়ে মনোযোগ সহকারে নীরবে খুতবা শুনে, তার এ জুমুআ হতে ঐ জুমুআ পর্যন্ত এবং আরো তিন দিনের গুনাহ ক্ষমা করে দেওয়া হবে। যে ব্যক্তি কাকর-বালি ইত্যাদি নাড়াচাড়া করল সে বাজে কাজ করল। —সহীহ। ইবনু মাজাহ– (১০৯০), মুসলিম। আবু ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>498</td></tr><tr><td>Arabic No</td><td>498</td></tr><tr><td>Reference</td><td>Book 4 Hadith 11</td></tr></tbody></table></div>
 

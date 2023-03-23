@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু ‘আতিয়্যাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, নুসায়বা নাম্নী আনসারী মহিলার জন্য একটি বকরী (সদাকাহ স্বরূপ) পাঠানো হলো। তিনি বকরীর কিছু অংশ ‘আয়িশাহ্ (রাযি.) -কে (হাদিয়া[1] স্বরূপ) পাঠিয়ে দিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের কাছে (আহার্য) কিছু আছে কি? ‘আয়িশাহ্ (রাযি.) বললেন, নুসায়বা কর্তৃক প্রেরিত সেই বকরীর গোশত ব্যতীত আর কিছুই নেই। তখন তিনি বললেনঃ তাই নিয়ে এসো, কেননা বকরীর (সদাকাহ) যথাস্থানে পৌঁছে গেছে (সদাকাহ গ্রহীতার নিকট)। (১৪৯৪, ২৫৭৯, মুসলিম ১২/৫২, হাঃ ১০৭৬, আহমাদ ২৭৩৭০) (আধুনিক প্রকাশনীঃ ১৩৫২, ইসলামিক ফাউন্ডেশনঃ ১৩৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু ‘আতিয়্যাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, নুসায়বা নাম্নী আনসারী মহিলার জন্য একটি বকরী (সদাকাহ স্বরূপ) পাঠানো হলো। তিনি বকরীর কিছু অংশ ‘আয়িশাহ্ (রাযি.) -কে (হাদিয়া[1] স্বরূপ) পাঠিয়ে দিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের কাছে (আহার্য) কিছু আছে কি? ‘আয়িশাহ্ (রাযি.) বললেন, নুসায়বা কর্তৃক প্রেরিত সেই বকরীর গোশত ব্যতীত আর কিছুই নেই। তখন তিনি বললেনঃ তাই নিয়ে এসো, কেননা বকরীর (সদাকাহ) যথাস্থানে পৌঁছে গেছে (সদাকাহ গ্রহীতার নিকট)। (১৪৯৪, ২৫৭৯, মুসলিম ১২/৫২, হাঃ ১০৭৬, আহমাদ ২৭৩৭০) (আধুনিক প্রকাশনীঃ ১৩৫২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1446</td></tr><tr><td>Arabic No</td><td>1446</td></tr><tr><td>Reference</td><td>Book 24 Hadith 49</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹஃப்ஸா பின்த் சீரீன் (ரஹ்) அவர்கள் கூறியதாவது: (உம்மு அத்திய்யா) நுசைபா அல் அன்சாரியா (ரலி) அவர்களுக்கு ஓர் ஆடு (தர்மமாக) அனுப்பிவைக்கப்பட்டது. அவர் அதில் சிறிதளவு (இறைச்சியை) ஆயிஷா (ரலி) அவர்களுக்கு அனுப்பிவைத்தார். நபி (ஸல்) அவர்கள் (ஆயிஷாவிடம்), “உங்களிடம் (உண்பதற்கு) ஏதும் உள்ளதா?” எனக் கேட்டார்கள். ஆயிஷா (ரலி) அவர்கள், “நுசைபா அனுப்பிவைத்த இந்த ஆட்டைத் தவிர வேறெதுவும் இல்லை” என்று கூறினார்கள். அதற்கு நபி (ஸல்) அவர்கள், “அதைக் கொண்டுவா! அது தனது இடத்தை (அன்பளிப்பின் தகுதியை) அடைந்துவிட்டது‘“ என்று கூறினார்கள்.9 அத்தியாயம் : 24
+ஹஃப்ஸா பின்த் சீரீன் (ரஹ்) அவர்கள் கூறியதாவது: (உம்மு அத்திய்யா) நுசைபா அல் அன்சாரியா (ரலி) அவர்களுக்கு ஓர் ஆடு (தர்மமாக) அனுப்பிவைக்கப்பட்டது. அவர் அதில் சிறிதளவு (இறைச்சியை) ஆயிஷா (ரலி) அவர்களுக்கு அனுப்பிவைத்தார். நபி (ஸல்) அவர்கள் (ஆயிஷாவிடம்), “உங்களிடம் (உண்பதற்கு) ஏதும் உள்ளதா?” எனக் கேட்டார்கள். ஆயிஷா (ரலி) அவர்கள், “நுசைபா அனுப்பிவைத்த இந்த ஆட்டைத் தவிர வேறெதுவும் இல்லை” என்று கூறினார்கள். அதற்கு நபி (ஸல்) அவர்கள், “அதைக் கொண்டுவா! அது தனது இடத்தை (அன்பளிப்பின் தகுதியை) அடைந்துவிட்டது‘“ என்று கூறினார்கள்.9 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1446</td></tr><tr><td>Arabic No</td><td>1446</td></tr><tr><td>Reference</td><td>Book 24 Hadith 49</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Atiyye şöyle anlatır: Nuseybe el-Ensariyye'ye zekat malından bir koyun verilmişti. O da bir kısmını Aişe'ye gönderdi. Bir müddet sonra eve gelen Resulullah Sallallahu Aleyhi ve Sellem, "Yanınızda yiyecek bir şey var mı?" diye sordu. Aişe, "Nüseybe'nin bu koyundan gönderdiğinin dışında bir şey yok" diye cevap verdi. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, "Getir onu, o artık yerine ulaşmış" buyurdu. Tekrar: 1494, 2579
+Ümmü Atiyye şöyle anlatır: Nuseybe el-Ensariyye'ye zekat malından bir koyun verilmişti. O da bir kısmını Aişe'ye gönderdi. Bir müddet sonra eve gelen Resulullah Sallallahu Aleyhi ve Sellem, "Yanınızda yiyecek bir şey var mı?" diye sordu. Aişe, "Nüseybe'nin bu koyundan gönderdiğinin dışında bir şey yok" diye cevap verdi. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, "Getir onu, o artık yerine ulaşmış" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1446</td></tr><tr><td>Arabic No</td><td>1446</td></tr><tr><td>Reference</td><td>Book 24 Hadith 49</td></tr></tbody></table></div>
 

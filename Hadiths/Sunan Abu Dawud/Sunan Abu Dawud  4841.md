@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যে খুতবা বা বক্তৃতার মধ্যে তাশাহুদ (অর্থাৎ আশহাদু আন লা-ইলাহা ইল্লাল্লাহু ওয়া আশহাদু আন্না মুহাম্মাদার রাসূলাল্লাহ) নাই, তা কর্তিত হাতের মত অর্থাৎ অসম্পূর্ণ।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে বক্তৃতায় আল্লাহর একত্ব ও রিসালাতের সাক্ষ্য থাকে না তা পঙ্গু হাতের ন্যায়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 43 Hadith 69</td></tr></tbody></table></div>
 

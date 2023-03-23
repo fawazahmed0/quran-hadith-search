@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন আবদুল্লাহ্ (রহঃ) ..... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উম্মে সালামাকে কুরবানীর দিনে প্রেরণ করেন। অতঃপর তিনি সূর্যোদয়ের পূর্বে কংকর নিক্ষেপ করেন এবং পরে বায়তুল্লায় উপস্থিত হয়ে অতিরিক্ত তাওয়াফ করেন। আর সেই দিনটি ছিল এমন দিন, যেদিন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নির্ধারিত দিন ছিল, তাঁর সাথে অবস্থান করার।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুরবানীর রাতেই উম্মু সালামাহ (রাযি.)-কে মিনায় প্রেরণ করেন এবং তিনি ফজরের পূর্বেই কংকর নিক্ষেপ করেন। অতঃপর তিনি (বায়তুল্লাহ) যিয়ারাতে গিয়ে ‘তাওয়াফে ইফাদা’ সম্পন্ন করেন। ‘আয়িশাহ্ (রাঃ) বলেন, ঐ দিনটি ছিলো এমন দিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যেদিন তার কাছে অবস্থান করবেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1942</td></tr><tr><td>Arabic No</td><td>1942</td></tr><tr><td>Reference</td><td>Book 11 Hadith 222</td></tr></tbody></table></div>
 

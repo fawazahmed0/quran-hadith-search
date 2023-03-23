@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯৬৩, আন্তর্জাতিক নাম্বারঃ ২৩৩৮ ৫৯৬৩-(৯৬/...) ইয়াহইয়া ইবনু ইয়াহইয়া ও আবূ কুরায়ব (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চুল তার দু’ কানের অর্ধেক পর্যন্ত ঝুলানো ছিল। (ইসলামিক ফাউন্ডেশন ৫৮৬০, ইসলামিক সেন্টার ৫৮৯৬)
+ইয়াহইয়া ইবনু ইয়াহইয়া ও আবূ কুরায়ব (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চুল তার দু’ কানের অর্ধেক পর্যন্ত ঝুলানো ছিল। (ইসলামিক ফাউন্ডেশন ৫৮৬০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6069</td></tr><tr><td>Arabic No</td><td>2338.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 127</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Kuraib] keduanya berka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது தலைமுடி (சில வேளைகளில்) இரு காது மடல்களின் பாதிவரை இருந்தது. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 43
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது தலைமுடி (சில வேளைகளில்) இரு காது மடல்களின் பாதிவரை இருந்தது. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6069</td></tr><tr><td>Arabic No</td><td>2338.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 127</td></tr></tbody></table></div>
 

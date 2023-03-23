@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৭২০, আন্তর্জাতিক নাম্বারঃ ২৬৮৫ ৬৭২০-(…/...) ইসহাক ইবনু ইবরাহীম আল হানযালী (রহঃ) ..... মুতাররিফ (রহঃ) এর সূত্রে আবসার (রহঃ) এর বর্ণিত হাদীসের অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৫৮৩, ইসলামিক সেন্টার ৬৬৩৬)
+(…/...) ইসহাক ইবনু ইবরাহীম আল হানযালী (রহঃ) ..... মুতাররিফ (রহঃ) এর সূত্রে আবসার (রহঃ) এর বর্ণিত হাদীসের অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৫৮৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6827</td></tr><tr><td>Arabic No</td><td>2685.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 23</td></tr></tbody></table></div>
 

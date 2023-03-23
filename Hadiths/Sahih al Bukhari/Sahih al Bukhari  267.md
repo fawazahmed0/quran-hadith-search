@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু মুনতাশির (রহ.) তাঁর পিতা হতে বর্ণিত। তিনি বলেনঃ আমি ‘আয়িশাহ (রাযি.)-এর নিকট [‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.)]-এর উক্তিটি উল্লেখ করলাম। তিনি বললেনঃ আল্লাহ্ আবূ ‘আবদুর রহমানকে রহম করুন। আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে সুগন্ধি লাগাতাম, তারপর তিনি তাঁর স্ত্রীদের সঙ্গে মিলিত হতেন। তারপর ভোরবেলায় এমন অবস্থায় ইহরাম বাঁধতেন যে, তাঁর দেহ হতে খুশবু ছড়িয়ে পড়তো। (২৭০; মুসলিম ১৫/৭, হাঃ ১১৯২) (আধুনিক প্রকাশনীঃ ২৬০, ইসলামিক ফাউন্ডেশনঃ ২৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুহাম্মাদ ইবনু মুনতাশির (রহ.) তাঁর পিতা হতে বর্ণিত। তিনি বলেনঃ আমি ‘আয়িশাহ (রাযি.)-এর নিকট [‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.)]-এর উক্তিটি উল্লেখ করলাম। তিনি বললেনঃ আল্লাহ্ আবূ ‘আবদুর রহমানকে রহম করুন। আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে সুগন্ধি লাগাতাম, তারপর তিনি তাঁর স্ত্রীদের সঙ্গে মিলিত হতেন। তারপর ভোরবেলায় এমন অবস্থায় ইহরাম বাঁধতেন যে, তাঁর দেহ হতে খুশবু ছড়িয়ে পড়তো। (২৭০; মুসলিম ১৫/৭, হাঃ ১১৯২) (আধুনিক প্রকাশনীঃ ২৬০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>267</td></tr><tr><td>Arabic No</td><td>267</td></tr><tr><td>Reference</td><td>Book 5 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஹம்மத் பின் முன்தஷிர் (ரஹ்) அவர்கள் கூறியதாவது: அ(ப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள், “நான் வாசனைத் திரவியங் களைப் பயன்படுத்திக் காலையில் ‘இஹ்ராம்’ கட்டியவனாக இருக்க விரும்ப வில்லை” எனக் கூறிய)து பற்றி ஆயிஷா (ரலி) அவர்களிடம் நான் குறிப்பிட்டேன். அப்போது ஆயிஷா (ரலி) அவர்கள், “அபூஅப்திர் ரஹ்மானுக்கு அல்லாஹ் கருணை புரிவானாக! நான் நபி (ஸல்) அவர்களுக்கு வாசனைத் திரவியங்களைப் பூசுவேன். அவர்கள் தம் துணைவியரிடம் (தாம்பத்திய உறவு கொண்டு)விட்டு வருவார்கள். பிறகு காலையில் நறுமணம் கமழக் கமழ ‘இஹ்ராம்’ கட்டியிருப்பார்கள்” என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 5
+முஹம்மத் பின் முன்தஷிர் (ரஹ்) அவர்கள் கூறியதாவது: அ(ப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள், “நான் வாசனைத் திரவியங் களைப் பயன்படுத்திக் காலையில் ‘இஹ்ராம்’ கட்டியவனாக இருக்க விரும்ப வில்லை” எனக் கூறிய)து பற்றி ஆயிஷா (ரலி) அவர்களிடம் நான் குறிப்பிட்டேன். அப்போது ஆயிஷா (ரலி) அவர்கள், “அபூஅப்திர் ரஹ்மானுக்கு அல்லாஹ் கருணை புரிவானாக! நான் நபி (ஸல்) அவர்களுக்கு வாசனைத் திரவியங்களைப் பூசுவேன். அவர்கள் தம் துணைவியரிடம் (தாம்பத்திய உறவு கொண்டு)விட்டு வருவார்கள். பிறகு காலையில் நறுமணம் கமழக் கமழ ‘இஹ்ராம்’ கட்டியிருப்பார்கள்” என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>267</td></tr><tr><td>Arabic No</td><td>267</td></tr><tr><td>Reference</td><td>Book 5 Hadith 20</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbrahim İbn Muhammed İbn Münteşir babasının şöyle dediğini nakletmiştir: "Ben bu konuyu Hz. Aişe'ye sordum. Bana şöyle cevap verdi: Allah Abdurrahman'ın babasına merhametîyle muamele etsin! Halbuki ben Neni (Sallallahu aleyhi ve Sellem)'e koku sürerdim. Sonra o, diğer hanımlarını dolaşırdı. Sabah olunca kendisinden güzel koku yayıldığı halde ihrama girerdi. Tekrar: 270
+İbrahim İbn Muhammed İbn Münteşir babasının şöyle dediğini nakletmiştir: "Ben bu konuyu Hz. Aişe'ye sordum. Bana şöyle cevap verdi: Allah Abdurrahman'ın babasına merhametîyle muamele etsin! Halbuki ben Neni (Sallallahu aleyhi ve Sellem)'e koku sürerdim. Sonra o, diğer hanımlarını dolaşırdı. Sabah olunca kendisinden güzel koku yayıldığı halde ihrama girerdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>267</td></tr><tr><td>Arabic No</td><td>267</td></tr><tr><td>Reference</td><td>Book 5 Hadith 20</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২৩৩, আন্তর্জাতিক নাম্বারঃ ১৫৭ ৭২৩৩-(…/...) মুহাম্মাদ ইবনু রফি (রহঃ) .... আবু হুরাইরাহ (রাযিঃ) এর সানদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল হাদীস বর্ণনা করেছেন। তবে এতে يُبْعَثএর স্থলে يَنْبَعِثَ বর্ণিত রয়েছে। (ইসলামিক ফাউন্ডেশন ৭০৭৯, ইসলামিক সেন্টার ৭১৩৩)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7343</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮৪৩। আলী ইবনু আবী তালিব (রাযিঃ) হতে বর্ণিত। তিনি বলেন, হে রাসূলাল্লাহ। আপনার পরে যদি আমার কোন ছেলে হয়, তাহলে তার নাম মুহাম্মাদ এবং আপনার ডাকনামে তার ডাকনাম রাখতে পারি কি? তিনি বললেনঃ হ্যাঁ। তিনি (আলী) বলেন, এর দ্বারা আমাকে অনুমতি দেয়া হল। সহীহঃ মুখতাসার তুফাতুল ওয়াদুদ, মিশকাত তাহকীক সানী (৪৭৭২)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আলী ইবনু আবী তালিব (রাযিঃ) হতে বর্ণিত। তিনি বলেন, হে রাসূলাল্লাহ। আপনার পরে যদি আমার কোন ছেলে হয়, তাহলে তার নাম মুহাম্মাদ এবং আপনার ডাকনামে তার ডাকনাম রাখতে পারি কি? তিনি বললেনঃ হ্যাঁ। তিনি (আলী) বলেন, এর দ্বারা আমাকে অনুমতি দেয়া হল। সহীহঃ মুখতাসার তুফাতুল ওয়াদুদ, মিশকাত তাহকীক সানী (৪৭৭২)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2843</td></tr><tr><td>Arabic No</td><td>2843</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
 

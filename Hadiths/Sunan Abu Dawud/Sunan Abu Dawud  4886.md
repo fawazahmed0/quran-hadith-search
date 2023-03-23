@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। কাতাদাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, তোমাদের কেউ কি আবূ দায়গাম বা আবূ দামদাম এর অনুরূপ থেকে অপারগ? তিনি প্রত্যেক দিনের শুরুতে বলতেন, হে আল্লাহ! আমি আমার মান-সম্মানকে তোমার বান্দাদের জন্য সাদাকাহ করলাম।[1] সহীহ মাকতূ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4886</td></tr><tr><td>Arabic No</td><td>4886</td></tr><tr><td>Reference</td><td>Book 43 Hadith 114</td></tr></tbody></table></div>
 

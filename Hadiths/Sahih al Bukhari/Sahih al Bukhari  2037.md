@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে তাঁর এক মুস্তাহাযা সহধর্মিণী ই‘তিকাফ করেন। তিনি লাল ও হলুদ রংয়ের স্রাব নির্গত হতে দেখতে পেতেন। অনেক সময় আমরা তাঁর নীচে একটি গামলা রেখে দিতাম আর তিনি তার উপর সালাত আদায় করতেন। (২০৯) (আধুনিক প্রকাশনীঃ ১৮৯৪, ইসলামিক ফাউন্ডেশনঃ ১৯০৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে তাঁর এক মুস্তাহাযা সহধর্মিণী ই‘তিকাফ করেন। তিনি লাল ও হলুদ রংয়ের স্রাব নির্গত হতে দেখতে পেতেন। অনেক সময় আমরা তাঁর নীচে একটি গামলা রেখে দিতাম আর তিনি তার উপর সালাত আদায় করতেন। (২০৯) (আধুনিক প্রকাশনীঃ ১৮৯৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2037</td></tr><tr><td>Arabic No</td><td>2037</td></tr><tr><td>Reference</td><td>Book 33 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Yazid 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களுடன், தொடர் உதிரப்போக்கு உடைய ஒருவர் இஃதிகாஃப் இருந்தார். (உதிரத்தின்) சிவப்பு நிறத்தையும் மஞ்சள் நிறத்தையும் அவர் காண்பார். சிலவேளை அவருக்கு அடியில் நாங்கள் ஒரு தட்டை வைப்போம். அவர் தொழுவார். அத்தியாயம் : 33
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களுடன், தொடர் உதிரப்போக்கு உடைய ஒருவர் இஃதிகாஃப் இருந்தார். (உதிரத்தின்) சிவப்பு நிறத்தையும் மஞ்சள் நிறத்தையும் அவர் காண்பார். சிலவேளை அவருக்கு அடியில் நாங்கள் ஒரு தட்டை வைப்போம். அவர் தொழுவார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2037</td></tr><tr><td>Arabic No</td><td>2037</td></tr><tr><td>Reference</td><td>Book 33 Hadith 12</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমুদ .... মিকদাদ ইবনু মাদীকারাব (রাঃ) হতে বর্ণিত। তিনি বলেছেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে উযূ (ওজু/অজু/অযু) করতে দেখেছি। উযূ করতে করতে যখন মাথা মাসেহ্ পর্যন্ত পৌছান, তখন তিনি এভাবে মাথা মাসেহ্ করেন যে, উভয় হাতের তালু মাথার সামনের অংশে স্থাপন করে তা ক্রমান্বয়ে মাথায় পশ্চাদভাগ পর্যন্ত নেন। অতঃপর তিনি পেছনের দিক হতে সামনের দিকে তা শুরুর স্থানে ফিরিয়ে আনেন। (ঐ)।
+। মিকদাম ইবনু মা‘দীকারিব (রাঃ) সূত্রে বর্ণিত। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে অযু করতে দেখেছি। অযু করতে করতে যখন তিনি মাথা মাসাহ্ পর্যন্ত পৌঁছলেন, তখন তাঁর উভয় হাতের তালু মাথার সামনের অংশে রেখে পেছনের দিকে নিয়ে গেলেন। এমনকি তাঁর উভয় হাত ঘাড় পর্যন্ত পৌঁছে গেল। অতঃপর তিনি উভয় হাত ঐ স্থানে ফিরিয়ে আনলেন, যেখান থেকে মাসাহ্ শুরু করেছিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>122</td></tr><tr><td>Arabic No</td><td>122</td></tr><tr><td>Reference</td><td>Book 1 Hadith 122</td></tr></tbody></table></div>
 

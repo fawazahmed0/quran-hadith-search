@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল (রাযি.) হতে বর্ণিত। তিনি বলেন, আমাদের মধ্যে বসবাসকারিণী জনৈকা মহিলা একটি ছোট নহরের পাশে ক্ষেতে বীটের চাষ করতেন। জুমু‘আহর দিনে সে বীটের মূল তুলে এনে রান্নার জন্য ডেগে চড়াতেন এবং এর উপর এক মুঠো যবের আটা দিয়ে রান্না করতেন। তখন এ বীট মূলই এর গোশ্ত (গোশতের বিকল্প) হয়ে যেত। আমরা জুমু‘আহর সালাত হতে ফিরে এসে তাঁকে সালাম দিতাম। তিনি তখন খাদ্য আমাদের সামনে রাখতেন এবং আমরা তা খেতাম। আমরা সে খাদ্যের আশায় জুমু‘আর দিন উদগ্রীব থাকতাম। (৯৩৯, ৯৪১, ২৩৪৯, ৫৪০৩, ৬২৪৮, ৬২৭৯) (আধুনিক প্রকাশনীঃ ৮৮৫, ইসলামিক ফাউন্ডেশনঃ ৮৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল (রাযি.) হতে বর্ণিত। তিনি বলেন, আমাদের মধ্যে বসবাসকারিণী জনৈকা মহিলা একটি ছোট নহরের পাশে ক্ষেতে বীটের চাষ করতেন। জুমু‘আহর দিনে সে বীটের মূল তুলে এনে রান্নার জন্য ডেগে চড়াতেন এবং এর উপর এক মুঠো যবের আটা দিয়ে রান্না করতেন। তখন এ বীট মূলই এর গোশ্ত (গোশতের বিকল্প) হয়ে যেত। আমরা জুমু‘আহর সালাত হতে ফিরে এসে তাঁকে সালাম দিতাম। তিনি তখন খাদ্য আমাদের সামনে রাখতেন এবং আমরা তা খেতাম। আমরা সে খাদ্যের আশায় জুমু‘আর দিন উদগ্রীব থাকতাম। (৯৩৯, ৯৪১, ২৩৪৯, ৫৪০৩, ৬২৪৮, ৬২৭৯) (আধুনিক প্রকাশনীঃ ৮৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 62</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: (மதீனாவில்) எங்களிடையே (வயது முதிர்ந்த) பெண்மணி ஒருவர் இருந்தார். அவர் தமது தோட்டத்தின் வாய்க்கால் வரப்பில் தண்டுக் கீரைச் செடியை பயிர் செய்வார். வெள்ளிக்கிழமை வந்துவிட்டால் அவர் அந்தக் கீரையின் தண்டுகளைப் பிடுங்கி வந்து ஒரு பாத்திரத்தில் போடுவார். அதில் ஒரு கையளவு வாற்கோதுமையை போட்டுக் கடைவார். அந்தக் கீரைத் தண்டு தான் அந்த உணவில் இறைச்சி போன்று அமையும். நாங்கள் ஜுமுஆ தொழுகை தொழுது விட்டுத் திரும்பி வந்து அவருக்கு ‘சலாம்’ சொல்வோம். அந்த உணவை அவர் எங்களுக்குப் பரிமாறுவார். அதை நாங்கள் ருசித்துச் சாப்பிடுவோம். அவரது அந்த உணவுக்காக நாங்கள் வெள்ளிக் கிழமையை (அது எப்போது வருமென) எதிர்பார்த்துக்கொண்டிருப்போம். அத்தியாயம் : 11
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: (மதீனாவில்) எங்களிடையே (வயது முதிர்ந்த) பெண்மணி ஒருவர் இருந்தார். அவர் தமது தோட்டத்தின் வாய்க்கால் வரப்பில் தண்டுக் கீரைச் செடியை பயிர் செய்வார். வெள்ளிக்கிழமை வந்துவிட்டால் அவர் அந்தக் கீரையின் தண்டுகளைப் பிடுங்கி வந்து ஒரு பாத்திரத்தில் போடுவார். அதில் ஒரு கையளவு வாற்கோதுமையை போட்டுக் கடைவார். அந்தக் கீரைத் தண்டு தான் அந்த உணவில் இறைச்சி போன்று அமையும். நாங்கள் ஜுமுஆ தொழுகை தொழுது விட்டுத் திரும்பி வந்து அவருக்கு ‘சலாம்’ சொல்வோம். அந்த உணவை அவர் எங்களுக்குப் பரிமாறுவார். அதை நாங்கள் ருசித்துச் சாப்பிடுவோம். அவரது அந்த உணவுக்காக நாங்கள் வெள்ளிக் கிழமையை (அது எப்போது வருமென) எதிர்பார்த்துக்கொண்டிருப்போம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 62</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah menceritaka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sehl bin Sa'd şöyle demiştir: "Bizim aramızda bir kadın vardı. Küçük bir dere kenarında ziraatle meşgul olur ve pazı yetiştirirdi. Cuma günleri olduğunda pazıları ayıklar ve saplarını yapraklarından ayırarak bir tencereye atardı. Sonra üzerine bir tutam arpa atıp pişirirdi. Dilim dilim yaparak yemeğe kattığı saplar bize yemeğin eti gibi gelirdi. İşte biz Cum'a namazını kıldıktan sonra ona gider ve selam verirdik. O da hazırlamış olduğu yemeği bize ikram ederdi. Biz, keşke Cuma günü gelse de onun yemeğini yesek, diye temenni ederdik. Tekrarr: 939, 941, 2349, 5403, 6248 ve 6279
+Sehl bin Sa'd şöyle demiştir: "Bizim aramızda bir kadın vardı. Küçük bir dere kenarında ziraatle meşgul olur ve pazı yetiştirirdi. Cuma günleri olduğunda pazıları ayıklar ve saplarını yapraklarından ayırarak bir tencereye atardı. Sonra üzerine bir tutam arpa atıp pişirirdi. Dilim dilim yaparak yemeğe kattığı saplar bize yemeğin eti gibi gelirdi. İşte biz Cum'a namazını kıldıktan sonra ona gider ve selam verirdik. O da hazırlamış olduğu yemeği bize ikram ederdi. Biz, keşke Cuma günü gelse de onun yemeğini yesek, diye temenni ederdik. Tekrarr: 939, 941, 2349, 5403, 6248 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 62</td></tr></tbody></table></div>
 

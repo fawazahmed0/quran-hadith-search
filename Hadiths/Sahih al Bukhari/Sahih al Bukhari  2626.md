@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, ‘উমরাহ বৈধ। ‘আতা (রহ.) বলেন, জাবির (রাঃ) আমাকে নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) হতে একই রকম হাদীস শুনিয়েছেন। (মুসলিম ২৪/৪ হাঃ ১৬২৫, ১৬২৬, আহমাদ ৮৫৭৫) (আধুনিক প্রকাশনীঃ ২৪৩৪, ইসলামিক ফাউন্ডেশনঃ ২৪৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, ‘উমরাহ বৈধ। ‘আতা (রহ.) বলেন, জাবির (রাঃ) আমাকে নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) হতে একই রকম হাদীস শুনিয়েছেন। (মুসলিম ২৪/৪ হাঃ ১৬২৫, ১৬২৬, আহমাদ ৮৫৭৫) (আধুনিক প্রকাশনীঃ ২৪৩৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2626</td></tr><tr><td>Arabic No</td><td>2626</td></tr><tr><td>Reference</td><td>Book 51 Hadith 58</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள். ஆயுட்கால அன்பளிப்பு (உம்றா) செல்லும்.29 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். ‘‘ஜாபிர் (ரலி) அவர்களும் இதே போன்று நபி (ஸல்) அவர்களிடமிருந்து எனக்கு அறிவித்தார்கள்” என்று அதாஉ (ரஹ்) அவர்கள் கூறுகிறார்கள். அத்தியாயம் : 51
+நபி (ஸல்) அவர்கள் கூறினார்கள். ஆயுட்கால அன்பளிப்பு (உம்றா) செல்லும்.29 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். ‘‘ஜாபிர் (ரலி) அவர்களும் இதே போன்று நபி (ஸல்) அவர்களிடமிருந்து எனக்கு அறிவித்தார்கள்” என்று அதாஉ (ரஹ்) அவர்கள் கூறுகிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2626</td></tr><tr><td>Arabic No</td><td>2626</td></tr><tr><td>Reference</td><td>Book 51 Hadith 58</td></tr></tbody></table></div>
 

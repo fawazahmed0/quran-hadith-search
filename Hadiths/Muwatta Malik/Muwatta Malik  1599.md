@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ২. আবু হুরায়রা (রাঃ) বলেন, যখন কেহ বাগান হইতে প্রথম ফল আনিত তখন তাহা প্রথমত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর খিদমতে লইয়া আসিত। তিনি উহা লইয়া বলিতেন, হে আল্লাহ, আমাদের ফলে বরকত দান করুন। আমাদের শহরে বরকত দান করুন। হে আল্লাহ্! আপনার বান্দা আপনার বন্ধু ও নবী ইবরাহীম (আঃ) মক্কার জন্য দু'আ করিয়াছিলেন। আমি আপনার নিকট মদীনার জন্য দুআ করিতেছি। আমি আপনার বান্দা ও নবী যেরূপ ইবরাহীম (আঃ) মক্কার জন্য দু'আ করিয়াছিলেন আমি তদ্রুপ মদীনার জন্য দুআ করিতেছি। দু'আর শেষে তিনি সকলের চাইতে ছোট যে ছেলেকে তথায় পাইতেন তাহাকে ডাকিয়া উহা তাহাকে দিয়া দিতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1599</td></tr><tr><td>Arabic No</td><td>1599</td></tr><tr><td>Reference</td><td>Book 45 Hadith 2</td></tr></tbody></table></div>
 

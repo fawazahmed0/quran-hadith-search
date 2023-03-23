@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২৭১, আন্তর্জাতিক নাম্বারঃ ১০৩১ ২২৭১-(.../...) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন ..... উবায়দুল্লাহর বর্ণিত হাদীসের অনুরূপ। সেখানে এ কথা রয়েছে যে ব্যক্তি মাসজিদ থেকে বের হয়ে পুনরায় এখানে ফিরে না আসা পর্যন্ত তার অন্তর মসজিদের সাথে লেগে থাকে। (ইসলামিক ফাউন্ডেশন ২২৫০, ইসলামীক সেন্টার ২২৫১)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2381</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

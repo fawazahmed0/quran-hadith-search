@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল (রাঃ) হতে বর্ণিত যে, মসজিদে নববীর কিবলার দিকের দেয়াল ও মিম্বরের মাঝে মাত্র একটা বকরী যাতায়াতের জায়গা ছিল। [৪৯৬] (আধুনিক প্রকাশনী- ৬৮২২, ইসলামিক ফাউন্ডেশন- ৬৮৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল (রাঃ) হতে বর্ণিত যে, মসজিদে নববীর কিবলার দিকের দেয়াল ও মিম্বরের মাঝে মাত্র একটা বকরী যাতায়াতের জায়গা ছিল। [৪৯৬] (আধুনিক প্রকাশনী- ৬৮২২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7334</td></tr><tr><td>Arabic No</td><td>7334</td></tr><tr><td>Reference</td><td>Book 96 Hadith 63</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Sahl:The distance between the pulpit and the wall of the mosque on the 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: (மஸ்ஜிதுந் நபவீ) பள்ளிவாசலின் கிப்லா திசையிலுள்ள சுவருக்கும் சொற்பொழிவு மேடை (மிம்பரு)க்கும் இடையே ஆடு ஒன்று புகுந்து செல்லும் அளவிற்கு இடைவெளி இருந்தது.63 அத்தியாயம் : 96
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: (மஸ்ஜிதுந் நபவீ) பள்ளிவாசலின் கிப்லா திசையிலுள்ள சுவருக்கும் சொற்பொழிவு மேடை (மிம்பரு)க்கும் இடையே ஆடு ஒன்று புகுந்து செல்லும் அளவிற்கு இடைவெளி இருந்தது.63 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7334</td></tr><tr><td>Arabic No</td><td>7334</td></tr><tr><td>Reference</td><td>Book 96 Hadith 63</td></tr></tbody></table></div>
 

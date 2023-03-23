@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন সারহ (রহঃ) .... সাহল ইবন মুআয (রহঃ) তার পিতা থেকে বর্ণনা করেন। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ক্রোধকে সম্বরণ করে, অথচ সে কাজ করতে সে সক্ষম; (তার এ সবরের কারণে) কিয়ামতের দিন আল্লাহ্‌ তাকে সকলের সামনে ডেকে বলবেনঃ তুমি যে হুরকে চাও, পছন্দ করে নিয়ে যাও। ইমাম আবূ দাউদ (রহঃ) বলেনঃ আবূ মারহুমের নাম হলো, আবদুর রহমান ইবন মায়মূন।
+। সাহল ইবনু মু‘আয (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তার রাগ প্রয়োগে ক্ষমতা থাকার সত্ত্বেও সংযত থাকে, কিয়ামতের দিন আল্লাহ তাকে সকল সৃষ্টিকূলের মধ্যে থেকে ডেকে নিবেন এবং তাকে হুরদের মধ্য থেকে তার পছন্দমত যে কোনো একজনকে বেছে নেয়ার স্বাধীনতা দিবেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4777</td></tr><tr><td>Arabic No</td><td>4777</td></tr><tr><td>Reference</td><td>Book 43 Hadith 5</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৬৪, আন্তর্জাতিক নাম্বারঃ ১৯৩ ৩৬৪-(৩২৩/...) মুহাম্মাদ ইবনু আল মুসান্না ও মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেন, কিয়ামতের দিন মুমিনগণ (হাশরের ময়দানে) একত্রিত হবে। বর্ণনাকারী বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এখানে يُلْهَمُونَ (এ অবস্থাকে তারা খুব সঙ্কটময় মনে করবে) শব্দ ব্যবহার করেছেন। তারপর বর্ণনাকার পূর্বোল্লিখিত আবূ আওয়ানার হাদীসের অনুরূপ বর্ণনা করেন। তবে এ হাদীসে বলা হয়েছে যে, এরপর আমি চতুর্থবার এসে বলব, হে প্ৰভু! আর কেউ অবশিষ্ট নেই, কেবল তারাই আছে যাদেরকে কুরআন আটকে রেখেছে। (ইসলামিক ফাউন্ডেশনঃ ৩৭২, ইসলামিক সেন্টারঃ ৩৮৩)
+মুহাম্মাদ ইবনু আল মুসান্না ও মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেন, কিয়ামতের দিন মুমিনগণ (হাশরের ময়দানে) একত্রিত হবে। বর্ণনাকারী বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এখানে يُلْهَمُونَ (এ অবস্থাকে তারা খুব সঙ্কটময় মনে করবে) শব্দ ব্যবহার করেছেন। তারপর বর্ণনাকার পূর্বোল্লিখিত আবূ আওয়ানার হাদীসের অনুরূপ বর্ণনা করেন। তবে এ হাদীসে বলা হয়েছে যে, এরপর আমি চতুর্থবার এসে বলব, হে প্ৰভু! আর কেউ অবশিষ্ট নেই, কেবল তারাই আছে যাদেরকে কুরআন আটকে রেখেছে। (ইসলামিক ফাউন্ডেশনঃ ৩৭২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>476</td></tr><tr><td>Arabic No</td><td>193.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 382</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Anas reported:The Messenger of Allah (ﷺ) said: The believers would gather on t
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. Müsenna ile Muhammed b. Beşşar da tahdis edip dediler ki: Bize İbn Ebi Adiy, Said' den tahdis etti. O Katade'den, o Enes'ten şöyle dediğini nakletti: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kıyamet gününde müminler toplanacaklar ve bu işe çokça önem verecekler. -Yahut bu kendilerine ilham edilecek-" deyip, hadisi bundan önceki Ebu Avane hadisi gibi zikretti ve hadiste şunları söyledi: "Sonra dördüncü defa ona gelirim -yahut ona dördüncü defa dönerim-. Rabbim (cehennemde) Kur'an'ın alıkoyduğundan başkası kalmadı, derim. " Diğer tahric: Buhari, 4476; İbn Mace, 4312 -uzunca-; Tuhfetu'l-Eşraf, 1171
+Bize Muhammed b. Müsenna ile Muhammed b. Beşşar da tahdis edip dediler ki: Bize İbn Ebi Adiy, Said' den tahdis etti. O Katade'den, o Enes'ten şöyle dediğini nakletti: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kıyamet gününde müminler toplanacaklar ve bu işe çokça önem verecekler. -Yahut bu kendilerine ilham edilecek-" deyip, hadisi bundan önceki Ebu Avane hadisi gibi zikretti ve hadiste şunları söyledi: "Sonra dördüncü defa ona gelirim -yahut ona dördüncü defa dönerim-. Rabbim (cehennemde) Kur'an'ın alıkoyduğundan başkası kalmadı, derim. " Diğer tahric: Buhari, 4476; İbn Mace, 4312 -uzunca-; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>476</td></tr><tr><td>Arabic No</td><td>193.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 382</td></tr></tbody></table></div>
 

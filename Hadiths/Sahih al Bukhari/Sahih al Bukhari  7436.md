@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জারীর ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা পুর্ণিমার রাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের কাছে বের হয়ে আসলেন। অতঃপর তিনি বললেনঃ শীঘ্রই তোমরা তোমাদের রববকে কিয়ামতের দিন দেখতে পাবে, যেমন এ চাঁদটিকে তোমরা দেখছ এবং একে দেখতে তোমাদের অসুবিধে হচ্ছে না। [৫৫৪] (আধুনিক প্রকাশনী- ৬৯১৯, ইসলামিক ফাউন্ডেশন- ৬৯৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জারীর ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা পুর্ণিমার রাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের কাছে বের হয়ে আসলেন। অতঃপর তিনি বললেনঃ শীঘ্রই তোমরা তোমাদের রববকে কিয়ামতের দিন দেখতে পাবে, যেমন এ চাঁদটিকে তোমরা দেখছ এবং একে দেখতে তোমাদের অসুবিধে হচ্ছে না। [৫৫৪] (আধুনিক প্রকাশনী- ৬৯১৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7436</td></tr><tr><td>Arabic No</td><td>7436</td></tr><tr><td>Reference</td><td>Book 97 Hadith 63</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdah bin Abdullah] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு பௌர்ணமி இரவில் புறப்பட்டு எங்களிடம் வந்து, “நீங்கள் இந்த முழு நிலாவை நெருக்கடியின்றி காண்பதைப் போன்றே உங்கள் இறைவனை மறுமை நாளில் காண்பீர்கள்” என்று சொன்னார்கள். அத்தியாயம் : 97
+ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு பௌர்ணமி இரவில் புறப்பட்டு எங்களிடம் வந்து, “நீங்கள் இந்த முழு நிலாவை நெருக்கடியின்றி காண்பதைப் போன்றே உங்கள் இறைவனை மறுமை நாளில் காண்பீர்கள்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7436</td></tr><tr><td>Arabic No</td><td>7436</td></tr><tr><td>Reference</td><td>Book 97 Hadith 63</td></tr></tbody></table></div>
 

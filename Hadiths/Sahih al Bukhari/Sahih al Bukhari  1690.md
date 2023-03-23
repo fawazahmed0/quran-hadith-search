@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে কুরবানীর উট হাঁকিয়ে নিতে দেখে বললেন, এর উপর সওয়ার হয়ে যাও। সে বলল, এ তো কুরবানীর উট। তিনি বললেন, এর উপর সওয়ার হয়ে যাও। লোকটি বলল, এ তো কুরবানীর উট। তিনি বললেন, এর উপর সওয়ার হয়ে যাও। এ কথাটি তিনি তিনবার বললেন। (২৭৫৪, ৬১৫৯, মুসলিম ১৫/৬৫, হাঃ ১২২৩, আহমাদ ১২০৪০) (আধুনিক প্রকাশনীঃ ১৫৭৪, ইসলামিক ফাউন্ডেশনঃ ১৫৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে কুরবানীর উট হাঁকিয়ে নিতে দেখে বললেন, এর উপর সওয়ার হয়ে যাও। সে বলল, এ তো কুরবানীর উট। তিনি বললেন, এর উপর সওয়ার হয়ে যাও। লোকটি বলল, এ তো কুরবানীর উট। তিনি বললেন, এর উপর সওয়ার হয়ে যাও। এ কথাটি তিনি তিনবার বললেন। (২৭৫৪, ৬১৫৯, মুসলিম ১৫/৬৫, হাঃ ১২২৩, আহমাদ ১২০৪০) (আধুনিক প্রকাশনীঃ ১৫৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1690</td></tr><tr><td>Arabic No</td><td>1690</td></tr><tr><td>Reference</td><td>Book 25 Hadith 169</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் குர்பானி ஒட்டகத்தை இழுத்துக்கொண்டு (நடந்து) செல்வதைப் பார்த்த நபி (ஸல்) அவர்கள், “அதில் ஏறிக்கொள்ளும்!” என்றார்கள். அதற்கு அவர், “இது குர்பானி ஒட்டகமாயிற்றே?” என்றார். “(பரவாயில்லை அதில்) ஏறிக் கொள்ளும்!” என்றார்கள். மீண்டும் அவர் “இது குர்பானி ஒட்டகமாயிற்றே!” என்றார். அப்போதும் “(பரவாயில்லை) அதில் ஏறிக்கொள்ளும்!” என மூன்றாம் முறையும் கூறினார்கள். அத்தியாயம் : 25
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் குர்பானி ஒட்டகத்தை இழுத்துக்கொண்டு (நடந்து) செல்வதைப் பார்த்த நபி (ஸல்) அவர்கள், “அதில் ஏறிக்கொள்ளும்!” என்றார்கள். அதற்கு அவர், “இது குர்பானி ஒட்டகமாயிற்றே?” என்றார். “(பரவாயில்லை அதில்) ஏறிக் கொள்ளும்!” என்றார்கள். மீண்டும் அவர் “இது குர்பானி ஒட்டகமாயிற்றே!” என்றார். அப்போதும் “(பரவாயில்லை) அதில் ஏறிக்கொள்ளும்!” என மூன்றாம் முறையும் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1690</td></tr><tr><td>Arabic No</td><td>1690</td></tr><tr><td>Reference</td><td>Book 25 Hadith 169</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes'in şöyle dediği rivayet edilmiştir: "Resulullah kurbanlık deve götüren bir kimse gördü. Ona, "Bin ona" buyur­du. Adam, "O kurbanlık devedir" dedi. Hz.Nebi: "Bin ona" buyurdu. Adam yine, "O kurbanlık devedir" dedi. Resulullah üçündü kez, "Bin şu deveye!" buyurdu. Tekrarı : 2754, 6159
+Enes'in şöyle dediği rivayet edilmiştir: "Resulullah kurbanlık deve götüren bir kimse gördü. Ona, "Bin ona" buyur­du. Adam, "O kurbanlık devedir" dedi. Hz.Nebi: "Bin ona" buyurdu. Adam yine, "O kurbanlık devedir" dedi. Resulullah üçündü kez, "Bin şu deveye!" buyurdu. Tekrarı :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1690</td></tr><tr><td>Arabic No</td><td>1690</td></tr><tr><td>Reference</td><td>Book 25 Hadith 169</td></tr></tbody></table></div>
 

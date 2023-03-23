@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আমর ইবনু মায়মূন আউদী (রহ.) হতে বর্ণিত। শিক্ষক যেমন ছাত্রদের লেখা শিক্ষা দেন, সা‘দ (রাঃ) তেমনি তাঁর সন্তানদের এ বাক্যগুলো শিক্ষা দিতেন এবং বলতেন, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) সালাতের পর এগুলো থেকে পানাহ চাইতেন, ‘হে আল্লাহ্! আমি ভীরুতা, অতি বার্ধক্য, দুনিয়ার ফিতনা ও কবরের শাস্তি থেকে আপনার নিকট পানাহ চাই।’ রাবী বলেন, আমি মুস‘আব (রাঃ)-এর নিকট হাদীসটি বর্ণনা করলে তিনি এটির সত্যতা স্বীকার করেন। (৬৩৬৫, ৬৩৭০, ৬৩৭৪, ৬৩৯০) (আধুনিক প্রকাশনীঃ ২৬১২, ইসলামিক ফাউন্ডেশনঃ ২৬২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমর ইবনু মায়মূন আউদী (রহ.) হতে বর্ণিত। শিক্ষক যেমন ছাত্রদের লেখা শিক্ষা দেন, সা‘দ (রাঃ) তেমনি তাঁর সন্তানদের এ বাক্যগুলো শিক্ষা দিতেন এবং বলতেন, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) সালাতের পর এগুলো থেকে পানাহ চাইতেন, ‘হে আল্লাহ্! আমি ভীরুতা, অতি বার্ধক্য, দুনিয়ার ফিতনা ও কবরের শাস্তি থেকে আপনার নিকট পানাহ চাই।’ রাবী বলেন, আমি মুস‘আব (রাঃ)-এর নিকট হাদীসটি বর্ণনা করলে তিনি এটির সত্যতা স্বীকার করেন। (৬৩৬৫, ৬৩৭০, ৬৩৭৪, ৬৩৯০) (আধুনিক প্রকাশনীঃ ২৬১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2822</td></tr><tr><td>Arabic No</td><td>2822</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Abu 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் மைமூன் அல் அவ்தீ (ரஹ்) அவர்கள் கூறியதாவது: ஆசிரியர் சிறுவர்களுக்கு எழுத்தைக் கற்பிப்பதைப் போன்று, சஅத் பின் அபீ வக்காஸ் (ரலி) அவர்கள் தம் மக்களுக்குப் பின்வரும் (பிரார்த்தனை) வாசகங்களைக் கற்றுக்கொடுத்துவந்தார்கள்; மேலும், அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுகைக்குப்பின்னால் இவற்றைச் சொல்லி பாதுகாப்புக் கோரிவந்தார்கள் என்றும் கூறுவார்கள்: அல்லாஹும்ம இன்னீ அஊது பிக்க மினல் —ýப்னி, வஅஊது பிக்க அன் உரத்த இலா அர்தலில் உமுரி, வ அஊது பிக்க மின் ஃபித்னத்தித் துன்யா, வ அஊது பிக்க மின் அதாபில் கப்ரி. (பொருள்: இறைவா! நான் கோழைத்தனத்திலிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்; தள்ளாத வயதில் தள்ளப்படுவதிலிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்; உலகின் சோதனைகளிலிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்; புதைகுழியின் வேதனை’லிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்.) இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. இரண்டாவது தொடரின் அறிவிப்பாளர்களில் ஒருவரான அப்துல் மலிக் பின் உமைர் (ரஹ்) அவர்கள் கூறுகிறார்கள்: இந்த ஹதீஸை நான் முஸ்அப் பின் சஅத் (ரஹ்) அவர்களிடம் அறிவித்தேன். இது உண்மையானதுதான் என அவர்கள் உறுதிப்படுத்தினார்கள். அத்தியாயம் : 56
+அம்ர் பின் மைமூன் அல் அவ்தீ (ரஹ்) அவர்கள் கூறியதாவது: ஆசிரியர் சிறுவர்களுக்கு எழுத்தைக் கற்பிப்பதைப் போன்று, சஅத் பின் அபீ வக்காஸ் (ரலி) அவர்கள் தம் மக்களுக்குப் பின்வரும் (பிரார்த்தனை) வாசகங்களைக் கற்றுக்கொடுத்துவந்தார்கள்; மேலும், அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுகைக்குப்பின்னால் இவற்றைச் சொல்லி பாதுகாப்புக் கோரிவந்தார்கள் என்றும் கூறுவார்கள்: அல்லாஹும்ம இன்னீ அஊது பிக்க மினல் —ýப்னி, வஅஊது பிக்க அன் உரத்த இலா அர்தலில் உமுரி, வ அஊது பிக்க மின் ஃபித்னத்தித் துன்யா, வ அஊது பிக்க மின் அதாபில் கப்ரி. (பொருள்: இறைவா! நான் கோழைத்தனத்திலிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்; தள்ளாத வயதில் தள்ளப்படுவதிலிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்; உலகின் சோதனைகளிலிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்; புதைகுழியின் வேதனை’லிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்.) இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. இரண்டாவது தொடரின் அறிவிப்பாளர்களில் ஒருவரான அப்துல் மலிக் பின் உமைர் (ரஹ்) அவர்கள் கூறுகிறார்கள்: இந்த ஹதீஸை நான் முஸ்அப் பின் சஅத் (ரஹ்) அவர்களிடம் அறிவித்தேன். இது உண்மையானதுதான் என அவர்கள் உறுதிப்படுத்தினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2822</td></tr><tr><td>Arabic No</td><td>2822</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Abu 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr İbn Meymun el-Evdi anlatıyor: "Sa'd, oğullarına şu sözleri bir öğretmenin öğrencisine okuma - yazmayı öğretmesi gibi öğretiyor ve Resulullah Sallallahu Aleyhi ve Sellem'in namazdan sonra bu şekilde Allah'a sığındığını söylüyordu: "Allahım, korkaklıktan sana sığınırım. Erzel-i ömürden (yani Hayatın en kötü ve çekilmez olduğu yaşlılıktan) sana sığınırım. Allahım, dünyanın fitne ve sınamasından ve kabir azabından da sana sığınırım." Ben bunu Mus'ab'a anlattım ve doğru olduğunu söyledi. " Tekrar: 6365, 6370, 6374, 6390
+Amr İbn Meymun el-Evdi anlatıyor: "Sa'd, oğullarına şu sözleri bir öğretmenin öğrencisine okuma - yazmayı öğretmesi gibi öğretiyor ve Resulullah Sallallahu Aleyhi ve Sellem'in namazdan sonra bu şekilde Allah'a sığındığını söylüyordu: "Allahım, korkaklıktan sana sığınırım. Erzel-i ömürden (yani Hayatın en kötü ve çekilmez olduğu yaşlılıktan) sana sığınırım. Allahım, dünyanın fitne ve sınamasından ve kabir azabından da sana sığınırım." Ben bunu Mus'ab'a anlattım ve doğru olduğunu söyledi. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2822</td></tr><tr><td>Arabic No</td><td>2822</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
 

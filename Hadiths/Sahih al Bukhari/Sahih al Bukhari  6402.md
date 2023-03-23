@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী ইবনু ‘আবদুল্লাহ (রহ.) আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী বলেছেন, যখন ক্বারী ‘আমীন’ বলবে তখন তোমরাও আমীন বলবে। কারণ এ সময় ফেরেশতা আমীন বলে থাকেন। সুতরাং যার আমীন বলা ফেরেশতার আমীন বলার সঙ্গে মিলে যাবে, তার পূর্বের সব গুনাহক্ষমা করে দেয়া হবে। [৭৮০] (আধুনিক প্রকাশনী- ৫৯৫৪, ইসলামিক ফাউন্ডেশন- ৫৮৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী ইবনু ‘আবদুল্লাহ (রহ.) আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী বলেছেন, যখন ক্বারী ‘আমীন’ বলবে তখন তোমরাও আমীন বলবে। কারণ এ সময় ফেরেশতা আমীন বলে থাকেন। সুতরাং যার আমীন বলা ফেরেশতার আমীন বলার সঙ্গে মিলে যাবে, তার পূর্বের সব গুনাহক্ষমা করে দেয়া হবে। [৭৮০] (আধুনিক প্রকাশনী- ৫৯৫৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6402</td></tr><tr><td>Arabic No</td><td>6402</td></tr><tr><td>Reference</td><td>Book 80 Hadith 97</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இமாம் ‘ஆமீன்’ கூறும்போது நீங்களும் ‘ஆமீன்’ கூறுங்கள். ஏனெனில், வானவர்களும் ஆமீன் கூறுகின்றனர். யார் கூறும் ஆமீன் வானவர்கள் கூறும் ஆமீனுடன் ஒத்திருக்கிறதோ அவரு டைய முன்சென்ற பாவங்கள் மன்னிக் கப்படுகின்றன. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.84 அத்தியாயம் : 80
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இமாம் ‘ஆமீன்’ கூறும்போது நீங்களும் ‘ஆமீன்’ கூறுங்கள். ஏனெனில், வானவர்களும் ஆமீன் கூறுகின்றனர். யார் கூறும் ஆமீன் வானவர்கள் கூறும் ஆமீனுடன் ஒத்திருக்கிறதோ அவரு டைய முன்சென்ற பாவங்கள் மன்னிக் கப்படுகின்றன. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.84 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6402</td></tr><tr><td>Arabic No</td><td>6402</td></tr><tr><td>Reference</td><td>Book 80 Hadith 97</td></tr></tbody></table></div>
 

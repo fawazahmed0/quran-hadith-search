@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হুসায়ন ইবন হুরায়স (রহঃ) ... আনাস (রাঃ) বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কন্যা যয়নাবের পরিধানে ডোরাদার রেশমী কামিজ দেখেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5296</td></tr><tr><td>Arabic No</td><td>5296</td></tr><tr><td>Reference</td><td>Book 48 Hadith 257</td></tr></tbody></table></div>
 

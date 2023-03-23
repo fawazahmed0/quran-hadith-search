@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন ওহাব (রহঃ) ... ইমরান ইবন হুসায়ন (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ মান্নত দুই প্রকার। যেই মান্নত আল্লাহর আনুগত্যের জন্য করা হয়, তা আল্লাহর জন্য। আর তা পূর্ণ করতে হবে। আর আল্লাহর নাফরমানীতে যে মান্নত করা হয়, তা শয়তানের জন্য, আর তা পূর্ণ করার প্রয়োজন নেই। আর মান্নতের কাফফারা তা-ই, যা কসমের কাফফারা হয়ে থাকে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3845</td></tr><tr><td>Arabic No</td><td>3845</td></tr><tr><td>Reference</td><td>Book 35 Hadith 85</td></tr></tbody></table></div>
 

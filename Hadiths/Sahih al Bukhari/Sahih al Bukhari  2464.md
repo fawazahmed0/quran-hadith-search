@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, একদিন আমি আবূ তালহার বাড়িতে লোকজনকে শরাব পান করাচ্ছিলাম। সে সময় লোকেরা ফাযীখ শরাব ব্যবহার করতেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে আদেশ করলেন, যেন সে এ মর্মে ঘোষণা দেয় যে, সাবধান! শরাব এখন হতে হারাম করে দেয়া হয়েছে। আবূ তালহা (রাঃ) আমাকে বললেন, বাইরে যাও এবং সমস্ত শরাব ঢেলে দাও। আমি বাইরে গেলাম এবং সমস্ত শরাব রাস্তায় ঢেলে দিলাম। আনাস (রাঃ) বলেন, সে দিন মাদ্বীনার অলিগলিতে শরাবের প্লাবন বয়ে গিয়েছিল। তখন কেউ কেউ বলল, একদল লোক নিহত হয়েছে, অথচ তাদের পেটে শরাব ছিল। তখন এ আয়াত নাযিল হলঃ ‘‘যারা ঈমান আনে ও সৎকর্ম করে, তারা পূর্বে যা কিছু পানাহার করেছে তার জন্য তাদের কোন গুনাহ হবে না’’- (আল-মা-য়িদাহ ৯৩)। (৪৬১৭, ৪৬২০, ৫৫৮০, ৫৫৮২, ৫৫৮৩, ৫৫৮৪, ৫৬০০, ৫৬২২, ৭২৫৩) (আধুনিক প্রকাশনীঃ ২২৮৫, ইসলামিক ফাউন্ডেশনঃ ২৩০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, একদিন আমি আবূ তালহার বাড়িতে লোকজনকে শরাব পান করাচ্ছিলাম। সে সময় লোকেরা ফাযীখ শরাব ব্যবহার করতেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে আদেশ করলেন, যেন সে এ মর্মে ঘোষণা দেয় যে, সাবধান! শরাব এখন হতে হারাম করে দেয়া হয়েছে। আবূ তালহা (রাঃ) আমাকে বললেন, বাইরে যাও এবং সমস্ত শরাব ঢেলে দাও। আমি বাইরে গেলাম এবং সমস্ত শরাব রাস্তায় ঢেলে দিলাম। আনাস (রাঃ) বলেন, সে দিন মাদ্বীনার অলিগলিতে শরাবের প্লাবন বয়ে গিয়েছিল। তখন কেউ কেউ বলল, একদল লোক নিহত হয়েছে, অথচ তাদের পেটে শরাব ছিল। তখন এ আয়াত নাযিল হলঃ ‘‘যারা ঈমান আনে ও সৎকর্ম করে, তারা পূর্বে যা কিছু পানাহার করেছে তার জন্য তাদের কোন গুনাহ হবে না’’- (আল-মা-য়িদাহ ৯৩)। (৪৬১৭, ৪৬২০, ৫৫৮০, ৫৫৮২, ৫৫৮৩, ৫৫৮৪, ৫৬০০, ৫৬২২, ৭২৫৩) (আধুনিক প্রকাশনীঃ ২২৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>2464</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:I was the butler of the people in the house of Abu Talha, and in those days drinks were prepared from dates. Allah's Messenger (ﷺ) ordered somebody to announce that alcoholic drinks had been prohibited. Abu Talha ordered me to go out and spill the wine. I went out and spilled it, and it flowed in the streets of Medina. Some people said, "Some people were killed and wine was still in their stomachs." On that the Divine revelation came:-- "On those who believe And do good deeds There is no blame For what they ate (in the past)." (5.93)
+Narrated Anas:I was the butler of the people in the house of Abu Talha, and in those days drinks were prepared from dates. Allah's Messenger (ﷺ) ordered somebody to announce that alcoholic drinks had been prohibited. Abu Talha ordered me to go out and spill the wine. I went out and spilled it, and it flowed in the streets of Medina. Some people said, "Some people were killed and wine was still in their stomachs." On that the Divine revelation came:-- "On those who believe And do good deeds There is no blame For what they ate (in the past)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>2464</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Abdur Rahim Abu Yahya] telah menga
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் அபூதல்ஹா (ரலி) அவர்கள் வீட்டில் மக்களுக்கு மது பரிமாறுபவனாக இருந்தேன்.10 அந்த நாட்களில் பேரீச்சம் பழ மதுவையே அவர்கள் குடித்துவந்தனர். (மதுவைத் தடை செய்யும் இறைவசனம் அருளப்பட்டவுடன்,) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பொது அறிவிப்புச் செய்பவரை அழைத்து, ‘‘(மக்களே!) மது தடை செய்யப்பட்டுவிட்டது” என்று அறிவிக்கும்படி கட்டளையிட்டார்கள். அபூதல்ஹா (ரலி) அவர்கள் என்னிடம், ‘‘வெளியே சென்று இதை ஊற்றிவிடு” என்று கூறினார்கள். நான் வெளியே சென்று அதை (சாலையில்) ஊற்றிவிட்டேன். மதீனா நகரின் தெருக்களில் அது ஓடியது. மக்களில் சிலர், ‘‘மது தங்கள் வயிறுகளில் இருக்கும் நிலையில் பல பேர் கொல்லப் பட்டிருக்கிறார்களே! (அவர்களின் நிலை என்ன?)” என்று கேட்டார்கள். அப்போதுதான், ‘‘யார் இறைநம்பிக்கை கொண்டு நற்செயல்கள் புரிந்தார்களோ அவர்கள் (தடை செய்யப்பட்டதை முன்பு) உட்கொண்டதால் அவர்கள்மீது எந்தக் குற்றமும் இல்லை” (5:93) எனும் குர்ஆன் வசனம் அருளப்பட்டது.11 அத்தியாயம் : 46
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் அபூதல்ஹா (ரலி) அவர்கள் வீட்டில் மக்களுக்கு மது பரிமாறுபவனாக இருந்தேன்.10 அந்த நாட்களில் பேரீச்சம் பழ மதுவையே அவர்கள் குடித்துவந்தனர். (மதுவைத் தடை செய்யும் இறைவசனம் அருளப்பட்டவுடன்,) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பொது அறிவிப்புச் செய்பவரை அழைத்து, ‘‘(மக்களே!) மது தடை செய்யப்பட்டுவிட்டது” என்று அறிவிக்கும்படி கட்டளையிட்டார்கள். அபூதல்ஹா (ரலி) அவர்கள் என்னிடம், ‘‘வெளியே சென்று இதை ஊற்றிவிடு” என்று கூறினார்கள். நான் வெளியே சென்று அதை (சாலையில்) ஊற்றிவிட்டேன். மதீனா நகரின் தெருக்களில் அது ஓடியது. மக்களில் சிலர், ‘‘மது தங்கள் வயிறுகளில் இருக்கும் நிலையில் பல பேர் கொல்லப் பட்டிருக்கிறார்களே! (அவர்களின் நிலை என்ன?)” என்று கேட்டார்கள். அப்போதுதான், ‘‘யார் இறைநம்பிக்கை கொண்டு நற்செயல்கள் புரிந்தார்களோ அவர்கள் (தடை செய்யப்பட்டதை முன்பு) உட்கொண்டதால் அவர்கள்மீது எந்தக் குற்றமும் இல்லை” (5:93) எனும் குர்ஆன் வசனம் அருளப்பட்டது.11 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>2464</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Abdur Rahim Abu Yahya] telah menga
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a.'den rivayet edilmiştir: Ebu Talha'nın evinde sakilik yapıyordum. O gün onların şarabı, hurma koruğu şarabıydı. Allah Resulü'nün emri üzerine tellal: "İyi biliniz ki şarap haram kılındı" diye seslendi. Ebu Talha (bana): "Çık ve bu şarabı dök" dedi. Ben de çıkıp döktüm. O gün, Medine sokaklarında şarap selleri aktı. İçimizden bazı kimseler: "İyi ama kimilerimiz karınlarında şarap dolu iken öldürüldü" dediler. Bunun üzerine Allah: "İman eden ve iyi iş yapanlara ... tattıklarından dolayı günah yoktur"[Maide 93] ayetini indirdi. Tekrar: 4617,4620,5580,5572,5583,5584,5600,5622, 7253
+Enes r.a.'den rivayet edilmiştir: Ebu Talha'nın evinde sakilik yapıyordum. O gün onların şarabı, hurma koruğu şarabıydı. Allah Resulü'nün emri üzerine tellal: "İyi biliniz ki şarap haram kılındı" diye seslendi. Ebu Talha (bana): "Çık ve bu şarabı dök" dedi. Ben de çıkıp döktüm. O gün, Medine sokaklarında şarap selleri aktı. İçimizden bazı kimseler: "İyi ama kimilerimiz karınlarında şarap dolu iken öldürüldü" dediler. Bunun üzerine Allah: "İman eden ve iyi iş yapanlara ... tattıklarından dolayı günah yoktur"[Maide 93] ayetini indirdi. Tekrar: 4617,4620,5580,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>2464</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
 

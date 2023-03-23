@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিমদের মধ্যে পরস্পর সন্ধি করা জাইয। ইমাম আহমদ এতটুকু অতিরিক্ত বর্ণনা করেছেন যে, কিন্তু এরূপ সন্ধি যা হালালকে হারাম করে এবং হারামকে হালাল করে--তা বৈধ নয়। রাবী সুলায়মান ইবন দাঊদ (রহঃ) এরূপ অতিরিক্ত বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিমদের উচিত দীনের ব্যাপারে সন্ধির শর্তের উপর স্থির থাকা।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিম সমাজে পরস্পরের মধ্যে সন্ধি স্থাপন বৈধ। ইমাম আহমাদের বর্ণানয় রয়েছেঃ তবে এমন সন্ধি বৈধ নয় যা হালালকে হারাম এবং হারামকে হালাল করে। সুলাইমান ইবনু দাঊদের বর্ণনায় রয়েছেঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মুসলিমরা নিজেদের (চুক্তিপত্রের) শর্তসমূহ পালন করতে বাধ্য।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
 

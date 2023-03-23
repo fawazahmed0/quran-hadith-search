@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৬৮০। আবদুল্লাহ ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তিনজন ইয়াতীমের ভরণপোষণ করে, সে ঐ ব্যক্তি সমতুল্য যে রাতভর ইবাদতরত থাকে, দিনভর রোযা রাখে এবং সকাল-সন্ধ্যা আল্লাহর রাস্তায় সশস্ত্র জিহাদ করে। জান্নাতে আমি ও সেই ব্যক্তি এই দু’ বোনের মত দু’ ভাইরূপে বসবাস করবো, (এই ব’লে) তিনি তর্জনি ও মধ্যমা আঙ্গুল একত্র করে দেখান।
+। আবদুল্লাহ ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তিনজন ইয়াতীমের ভরণপোষণ করে, সে ঐ ব্যক্তি সমতুল্য যে রাতভর ইবাদতরত থাকে, দিনভর রোযা রাখে এবং সকাল-সন্ধ্যা আল্লাহর রাস্তায় সশস্ত্র জিহাদ করে। জান্নাতে আমি ও সেই ব্যক্তি এই দু’ বোনের মত দু’ ভাইরূপে বসবাস করবো, (এই ব’লে) তিনি তর্জনি ও মধ্যমা আঙ্গুল একত্র করে দেখান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3680</td></tr><tr><td>Arabic No</td><td>3680</td></tr><tr><td>Reference</td><td>Book 33 Hadith 24</td></tr></tbody></table></div>
 

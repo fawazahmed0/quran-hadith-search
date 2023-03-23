@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৩০৭, আন্তর্জাতিক নাম্বারঃ ১৬৯০ ৪৩০৭-(.../...) 'আমর আন্‌ নাকিদ (রহঃ) ..... মানসূর (রহঃ) হতে উক্ত সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪২৬৮, ইসলামিক সেন্টার ৪২৬৮)
+আমর আন্‌ নাকিদ (রহঃ) ..... মানসূর (রহঃ) হতে উক্ত সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪২৬৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4415</td></tr><tr><td>Arabic No</td><td>1690.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 18</td></tr></tbody></table></div>
 

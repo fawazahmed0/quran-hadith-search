@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩০৬১, আন্তর্জাতিক নাম্বারঃ ১৩১১ ৩০৬১-(.../...) আবূ বকর ইবনু আবূ শায়বাহ, আবূ রবী' আয যাহরানী ও আবূ কামিল (রহঃ) ... হিশাম (রহঃ) থেকে এ সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৩০৩৬, ইসলামীক সেন্টার ৩০৩৩)
+আবূ বকর ইবনু আবূ শায়বাহ, আবূ রবী' আয যাহরানী ও আবূ কামিল (রহঃ) ... হিশাম (রহঃ) থেকে এ সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৩০৩৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>1311.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 374</td></tr></tbody></table></div>
 

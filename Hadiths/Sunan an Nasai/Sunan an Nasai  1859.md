@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আলী ইবনু হুজর (রহঃ) ... সালামা ইবনু আযরাক (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি আবূ হুরায়রা (রাঃ)-কে বলতে শুনেছিঃ রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পরিবারবর্গ থেকে এক ব্যক্তি মৃত্যুবরণ করলে মহিলাগণ একত্রিত হয়ে তার জন্য অশ্রু বর্ষণ করতে শুরু করল। উমর (রাঃ) তাদের নিষেধ করতে এবং সরিয়ে দিতে উদ্যত হলে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, হে উমর, তাদের ছেড়ে দাও। কেননা চক্ষু অশ্রু বিসর্জনকারী, হৃদয় ব্যথাতুর আর বিয়োগ ও নিকটবর্তী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1859</td></tr><tr><td>Arabic No</td><td>1859</td></tr><tr><td>Reference</td><td>Book 21 Hadith 42</td></tr></tbody></table></div>
 

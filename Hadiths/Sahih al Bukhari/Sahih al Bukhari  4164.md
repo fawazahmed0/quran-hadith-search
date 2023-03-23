@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাইয়্যাব (রহ.) হতে বর্ণিত। গাছের তলে যাঁরা বাই‘আত নিয়েছিলেন তিনি ছিলেন তাঁদের একজন। (তিনি বলেন) পরের বছর আমরা আবার সে গাছের কাছে গেলে আমরা গাছটিকে চিনতে পারলাম না। এ ব্যাপারে আমাদেরকে ভ্রান্তিতে নিপতিত করা হয়েছে। [৪১৬২] (আধুনিক প্রকাশনীঃ ৩৮৪৯, ইসলামিক ফাউন্ডেশনঃ ৩৮৫২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুসাইয়্যাব (রহ.) হতে বর্ণিত। গাছের তলে যাঁরা বাই‘আত নিয়েছিলেন তিনি ছিলেন তাঁদের একজন। (তিনি বলেন) পরের বছর আমরা আবার সে গাছের কাছে গেলে আমরা গাছটিকে চিনতে পারলাম না। এ ব্যাপারে আমাদেরকে ভ্রান্তিতে নিপতিত করা হয়েছে। [৪১৬২] (আধুনিক প্রকাশনীঃ ৩৮৪৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4164</td></tr><tr><td>Arabic No</td><td>4164</td></tr><tr><td>Reference</td><td>Book 64 Hadith 206</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Sa'id bin Al-Musaiyab:That his father was amongst those who had given t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அந்த மரத்தின் கீழ் (பைஅத்துர் ரிள்வான்) உறுதிப் பிரமாணம் செய்தவர் களில் ஒருவரான முசய்யப் பின் ஹஸ்ன் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் மறு ஆண்டு அந்த இடத்திற்குத் திரும்பவும் சென்றோம். அப்போது அந்த இடம் (அடையாளம் காண முடியாதவாறு) எங்களுக்குக் குழம்பிவிட்டது. அத்தியாயம் : 64
+அந்த மரத்தின் கீழ் (பைஅத்துர் ரிள்வான்) உறுதிப் பிரமாணம் செய்தவர் களில் ஒருவரான முசய்யப் பின் ஹஸ்ன் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் மறு ஆண்டு அந்த இடத்திற்குத் திரும்பவும் சென்றோம். அப்போது அந்த இடம் (அடையாளம் காண முடியாதவாறு) எங்களுக்குக் குழம்பிவிட்டது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4164</td></tr><tr><td>Arabic No</td><td>4164</td></tr><tr><td>Reference</td><td>Book 64 Hadith 206</td></tr></tbody></table></div>
 

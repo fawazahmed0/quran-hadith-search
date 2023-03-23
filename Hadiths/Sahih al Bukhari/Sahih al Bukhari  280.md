@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮০। উম্মু হানী বিনতু আবূ তালিব (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ আমি মক্কা বিজয়ের বছর আল্লাহর রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) এর নিকট গিয়ে তাঁকে গোসলরত অবস্থায় দেখলাম, ফাতিমাহ (রাঃ) তাঁকে পর্দা করে রেখেছিলেন। আল্লাহর রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) জিজ্ঞেস করলেন ইনি কে? আমি বললামঃ আমি উম্মু হানী।
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। উম্মু হানী বিনতু আবূ তালিব (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ আমি মক্কা বিজয়ের বছর আল্লাহর রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) এর নিকট গিয়ে তাঁকে গোসলরত অবস্থায় দেখলাম, ফাতিমাহ (রাঃ) তাঁকে পর্দা করে রেখেছিলেন। আল্লাহর রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) জিজ্ঞেস করলেন ইনি কে? আমি বললামঃ আমি উম্মু হানী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>280</td></tr><tr><td>Arabic No</td><td>280</td></tr><tr><td>Reference</td><td>Book 5 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab] dari [Malik] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு ஹானீ பின்த் அபீதா-ப் (ரலி) அவர்கள் கூறியதாவது: மக்கா வெற்றி கொள்ளப்பட்ட ஆண்டில் (ஒரு நாள்) நான் அல்லாஹ் வின் தூதர் (ஸல்) அவர்களிடம் சென்றேன். நபி (ஸல்) அவர்களை, (அவர் களுடைய புதல்வி) ஃபாத்திமா திரையிட்டு மறைத்துக்கொண்டிருக்க, அவர்கள் குளித்துக்கொண்டிருப்பதைக் கண்டேன். (அவர்களுக்கு நான் சலாம் சொன்னேன்.) அப்போது அவர்கள் “யார் இவர்?” எனக் கேட்டார்கள். “நான் (அபூதா-பின் புதல்வி) உம்மூ ஹானீ” என்று பதிலளித் தேன். அத்தியாயம் : 5
+உம்மு ஹானீ பின்த் அபீதா-ப் (ரலி) அவர்கள் கூறியதாவது: மக்கா வெற்றி கொள்ளப்பட்ட ஆண்டில் (ஒரு நாள்) நான் அல்லாஹ் வின் தூதர் (ஸல்) அவர்களிடம் சென்றேன். நபி (ஸல்) அவர்களை, (அவர் களுடைய புதல்வி) ஃபாத்திமா திரையிட்டு மறைத்துக்கொண்டிருக்க, அவர்கள் குளித்துக்கொண்டிருப்பதைக் கண்டேன். (அவர்களுக்கு நான் சலாம் சொன்னேன்.) அப்போது அவர்கள் “யார் இவர்?” எனக் கேட்டார்கள். “நான் (அபூதா-பின் புதல்வி) உம்மூ ஹானீ” என்று பதிலளித் தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>280</td></tr><tr><td>Arabic No</td><td>280</td></tr><tr><td>Reference</td><td>Book 5 Hadith 32</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab] dari [Malik] 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Tâlib'in kızı Ümmü Hânî r.a.'den şöyle nakledilmiştir: "Mekke'nin fethedildiği yıl, Allah Resûlü (Sallallahu aleyhi ve Sellem)'in yanına gittim. Vardığımda Fatima ona bir perde çekmiş o da gusül abdesti alıyordu. Bu sırada "gelen kim?" diye sordu. Ben de, "Benim, Ümmü Hâni" diye cevap verdim. Tekrar: 357, 3171, 6158
+Ebu Tâlib'in kızı Ümmü Hânî r.a.'den şöyle nakledilmiştir: "Mekke'nin fethedildiği yıl, Allah Resûlü (Sallallahu aleyhi ve Sellem)'in yanına gittim. Vardığımda Fatima ona bir perde çekmiş o da gusül abdesti alıyordu. Bu sırada "gelen kim?" diye sordu. Ben de, "Benim, Ümmü Hâni" diye cevap verdim. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>280</td></tr><tr><td>Arabic No</td><td>280</td></tr><tr><td>Reference</td><td>Book 5 Hadith 32</td></tr></tbody></table></div>
 

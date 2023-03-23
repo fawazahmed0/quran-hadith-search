@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল্লাহ ইবন মাসলামা ও সাহল ইবন সালেহ (রহঃ) .... আমর ইবন শুআয়ব (রহঃ) থেকে পর্যায়ক্রমে তাঁর পিতা ও দাদা আব্দুল্লাহ (রাঃ) এর সুত্রে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইস্তিস্কার নামাজের সময় বলতেনঃ ইয়া আল্লাহ্‌! তুমি তোমার বান্দা ও পশু পক্ষীদের জন্য বৃষ্টি বর্ষণ কর। তোমার রহমত বিস্তৃত কর এবং তোমার মৃত ভূমিকে (শুষ্ক জমিনকে) জীবিত (সুজলা সুফলা উর্বর) করে দাও। এটা মালিক বর্ণিত হাদিসের মতন (মূল পাঠ)।
+। ‘আমর ইবনু শু‘আইব (রহঃ) তার পিতা হতে তার দাদা সূত্রে বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বৃষ্টির জন্য দু‘আ করার সময় বলতেনঃ হে আল্লাহ! আপনি আপনার বান্দাদের ও প্রাণীদেরকে পানি দান করুন, আপনার রহমত বিস্তৃত করুন এবং আপনার মৃত শহরকে (শুস্ক ভূমিকে) জীবিত করুন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1176</td></tr><tr><td>Arabic No</td><td>1176</td></tr><tr><td>Reference</td><td>Book 3 Hadith 16</td></tr></tbody></table></div>
 

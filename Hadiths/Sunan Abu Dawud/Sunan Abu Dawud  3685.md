@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শরাব পান করতে, জুয়া খেলতে, ঢোল বা তবলা বাজাতে এবং ঘরের তৈরী শরাব পান করতে নিষেধ করেছেন। আর বলেছেনঃ প্রত্যেক নেশা সৃষ্টিকারী বস্তুই হারাম।
+। আব্দুল্লাহ ইবনু আমর (রাঃ)-এর সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদ পান, জুয়া খেলা, কুবাহ ও গুবায়রা নিষিদ্ধ ঘোষণা করেছেন। তিনি বলেছেনঃ নেশা সৃষ্টিকারী প্রতিটি বস্তুই হারাম।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3685</td></tr><tr><td>Arabic No</td><td>3685</td></tr><tr><td>Reference</td><td>Book 27 Hadith 17</td></tr></tbody></table></div>
 

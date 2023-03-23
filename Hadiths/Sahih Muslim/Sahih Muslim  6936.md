@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৮২৯, আন্তর্জাতিক নাম্বারঃ ২৭৩৫ ৬৮২৯-(৯২/...) আবু তাহির (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেছেন, বান্দার দু’আ সর্বদা গৃহীত হয় যদি না সে অন্যায় কাজ অথবা আত্মীয়তার সম্পর্কচ্ছেদ করার জন্য দুআ করে এবং (দুআয়) তাড়াহুড়া না করে। জিজ্ঞেস করা হলো, হে আল্লাহর রসূল! (দু’আয়) তাড়াহুড়া করা কি? তিনি বললেন, সে বলতে থাকে, আমি দুআ তো করেছি, আমি দুআ তো করেছি; কিন্তু আমি দেখতে পেলাম না যে, তিনি আমার দু’আ কবুল করেছেন। তখন সে ক্লান্ত হয়ে পড়ে, আর দু’আ করা পরিত্যাগ করে। (ইসলামিক ফাউন্ডেশন ৬৬৮৫, ইসলামিক সেন্টার ৬৭৪০)
+আবু তাহির (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেছেন, বান্দার দু’আ সর্বদা গৃহীত হয় যদি না সে অন্যায় কাজ অথবা আত্মীয়তার সম্পর্কচ্ছেদ করার জন্য দুআ করে এবং (দুআয়) তাড়াহুড়া না করে। জিজ্ঞেস করা হলো, হে আল্লাহর রসূল! (দু’আয়) তাড়াহুড়া করা কি? তিনি বললেন, সে বলতে থাকে, আমি দুআ তো করেছি, আমি দুআ তো করেছি; কিন্তু আমি দেখতে পেলাম না যে, তিনি আমার দু’আ কবুল করেছেন। তখন সে ক্লান্ত হয়ে পড়ে, আর দু’আ করা পরিত্যাগ করে। (ইসলামিক ফাউন্ডেশন ৬৬৮৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6936</td></tr><tr><td>Arabic No</td><td>2735.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 127</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepadaku [Abu Ath Thahir] telah mengabarkan kepada kami [Ibnu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Ebû't-Tahir rivayet etti. (Dedikî): Bize İbni Vehb haber verdi. (Dedikî): Bana Muaviye (bu zat İbni Salih'dir.) Rabîa b. Yezid'den, o da Ebû İdris El-Havlanî'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen haber verdiki: Şöyle buyurmuşlar : «Kul günah veya kat'ı rahim duasında bulunmadıkça, acele etmedikçe duası kabul edilir durur.» — Ya Resûlallah! Acele etmek nedir? demişler. «Dua ettim de kabul edildiğini görmedim der ve o anda vaz geçerek duayı bırakır.» buyurmuşlar. Diğer tahric: Buhari, deavat; Tirmizî, deavât; Ebu Davud, vitr; ibn Mace, dua; Muvatta', kur'an; Ahmed b. Hanbel, II, 487
+Bana Ebû't-Tahir rivayet etti. (Dedikî): Bize İbni Vehb haber verdi. (Dedikî): Bana Muaviye (bu zat İbni Salih'dir.) Rabîa b. Yezid'den, o da Ebû İdris El-Havlanî'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen haber verdiki: Şöyle buyurmuşlar : «Kul günah veya kat'ı rahim duasında bulunmadıkça, acele etmedikçe duası kabul edilir durur.» — Ya Resûlallah! Acele etmek nedir? demişler. «Dua ettim de kabul edildiğini görmedim der ve o anda vaz geçerek duayı bırakır.» buyurmuşlar. Diğer tahric: Buhari, deavat; Tirmizî, deavât; Ebu Davud, vitr; ibn Mace, dua; Muvatta', kur'an; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6936</td></tr><tr><td>Arabic No</td><td>2735.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 127</td></tr></tbody></table></div>
 

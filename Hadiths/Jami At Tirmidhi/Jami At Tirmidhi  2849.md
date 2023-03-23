@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮৪৯। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আরব কবিদের মধ্যে সর্বোত্তম ও সত্য কথা বলেছেন লাবীদ। তা হল এই “শুনে রেখ আল্লাহ ব্যতীত সব কিছুই বাতিল"। ‘অসদাকু” অধিক সত্য এই শব্দে হাদীসটি সহীহঃ মুখতাসার শামায়িল (২০৭), ফিকহুস সীরাহ (২৭), মুসলিম। আবূ ঈসা বলেনঃ হাদীসটি হাসান সহীহ। সাওরী ও অন্যান্য বর্ণনাকারীগণ হাদীসটি আবদুল মালিক ইবনু উমাইর-এর সূত্রে বর্ণনা করেছেন।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আরব কবিদের মধ্যে সর্বোত্তম ও সত্য কথা বলেছেন লাবীদ। তা হল এই “শুনে রেখ আল্লাহ ব্যতীত সব কিছুই বাতিল"। ‘অসদাকু” অধিক সত্য এই শব্দে হাদীসটি সহীহঃ মুখতাসার শামায়িল (২০৭), ফিকহুস সীরাহ (২৭), মুসলিম। আবূ ঈসা বলেনঃ হাদীসটি হাসান সহীহ। সাওরী ও অন্যান্য বর্ণনাকারীগণ হাদীসটি আবদুল মালিক ইবনু উমাইর-এর সূত্রে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>2849</td></tr><tr><td>Reference</td><td>Book 43 Hadith 124</td></tr></tbody></table></div>
 

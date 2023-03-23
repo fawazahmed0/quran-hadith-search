@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৬৬৩। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাপাকির গোসল করলেন, তারপর দেখতে পেলেন যে, তাঁর শরীরের সামান্য অংশে পানি পৌঁছায়নি। তিনি এক আজলা পানি আনিয়ে তা সেই স্থানে প্রবাহিত করলেন। ইসহাক (রহঃ)-এর বর্ণনায় আছে: তিনি তাঁর পশম ভিজালেন।
+। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাপাকির গোসল করলেন, তারপর দেখতে পেলেন যে, তাঁর শরীরের সামান্য অংশে পানি পৌঁছায়নি। তিনি এক আজলা পানি আনিয়ে তা সেই স্থানে প্রবাহিত করলেন। ইসহাক (রহঃ)-এর বর্ণনায় আছে: তিনি তাঁর পশম ভিজালেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>663</td></tr><tr><td>Arabic No</td><td>663</td></tr><tr><td>Reference</td><td>Book 1 Hadith 397</td></tr></tbody></table></div>
 

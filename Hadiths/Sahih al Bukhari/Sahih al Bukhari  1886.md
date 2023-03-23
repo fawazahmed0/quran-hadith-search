@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফর হতে ফিরে আসার পথে যখন মদিনার প্রাচীরগুলোর দিকে তাকাতেন, তখন তিনি মদিনার প্রতি ভালবাসার কারণে তাঁর উটকে দ্রুত চালাতেন আর তিনি অন্য কোন জন্তুর উপর থাকলে তাকেও দ্রুত চালিত করতেন। (১৮০২) (আধুনিক প্রকাশনীঃ ১৭৫১, ইসলামিক ফাউন্ডেশনঃ ১৭৬২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফর হতে ফিরে আসার পথে যখন মদিনার প্রাচীরগুলোর দিকে তাকাতেন, তখন তিনি মদিনার প্রতি ভালবাসার কারণে তাঁর উটকে দ্রুত চালাতেন আর তিনি অন্য কোন জন্তুর উপর থাকলে তাকেও দ্রুত চালিত করতেন। (১৮০২) (আধুনিক প্রকাশনীঃ ১৭৫১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1886</td></tr><tr><td>Arabic No</td><td>1886</td></tr><tr><td>Reference</td><td>Book 29 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Isma'i
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பயணத்திலிருந்து ஊர் திரும்பும்போது மதீனாவி(ல் உள்ள வீடுகளி)ன் சுவர்களைக் கண்டதும் தமது ஊர்தி ஒட்டகத்தை விரைவாகச் செலுத்து வார்கள். அவர்கள் பிராணியின்மீது அமர்ந்திருந்தால், மதீனாமீது கொண்ட அன்பால் அதை முடுக்கிவிடுவார்கள். அத்தியாயம் : 29
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பயணத்திலிருந்து ஊர் திரும்பும்போது மதீனாவி(ல் உள்ள வீடுகளி)ன் சுவர்களைக் கண்டதும் தமது ஊர்தி ஒட்டகத்தை விரைவாகச் செலுத்து வார்கள். அவர்கள் பிராணியின்மீது அமர்ந்திருந்தால், மதீனாமீது கொண்ட அன்பால் அதை முடுக்கிவிடுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1886</td></tr><tr><td>Arabic No</td><td>1886</td></tr><tr><td>Reference</td><td>Book 29 Hadith 20</td></tr></tbody></table></div>
 

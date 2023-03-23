@@ -62,7 +62,7 @@ Telah menceritakan kepadaku Yahya dari Malik dari [Abdullah bin Dinar] dari [Abd
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Ömer anlatıyor: Halk sabah namazında Kuba mescidinde iken biri gelerek: «— Bu gece Resulullah Sallallahu Aleyhi ve Sellem'e bir ayet gelmiş, bundan sonra Ka*be'ye dönmesi emredilmiş, siz de oraya yönelin dedi. O sırada Şam'a (Kudüs'e) yönelmişlerdir. Bunun üzerine hemen yönlerini Kabe'ye doğru döndüler. Diğer tahric: Buharî, Salat; Müslim, Mesacid; Şafiî, Risale, no: 365
+Abdullah b. Ömer anlatıyor: Halk sabah namazında Kuba mescidinde iken biri gelerek: «— Bu gece Resulullah Sallallahu Aleyhi ve Sellem'e bir ayet gelmiş, bundan sonra Ka*be'ye dönmesi emredilmiş, siz de oraya yönelin dedi. O sırada Şam'a (Kudüs'e) yönelmişlerdir. Bunun üzerine hemen yönlerini Kabe'ye doğru döndüler. Diğer tahric: Buharî, Salat; Müslim, Mesacid; Şafiî, Risale, no:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>460</td></tr><tr><td>Arabic No</td><td>460</td></tr><tr><td>Reference</td><td>Book 14 Hadith 6</td></tr></tbody></table></div>
 

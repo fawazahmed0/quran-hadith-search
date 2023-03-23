@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-এবং মহান আল্লাহর বাণীঃ وَقَوْلِهِ : (خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا وَصَلِّ عَلَيْهِمْ إِنَّ صَلاَتَكَ سَكَنٌ لَهُمْ) ‘‘তাদের সম্পদ হতে সদাকাহ গ্রহণ করবেন, এর দ্বারা তাদেরকে পবিত্র ও পরিশোধিত করবেন। আপনি তাদের জন্য দু‘আ করবেন, আপনার দু‘আ তাদের জন্য চিত্ত স্বস্তিকর।’’ (আত্-তওবাঃ ১০৩) ১৪৯৭. ‘আবদুল্লাহ ইবনু আবূ আওফা (রাঃ) হতে বর্ণিত। তিনি বলেন, লোকজন যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট নিজেদের সদাকাহ নিয়ে উপস্থিত হতো তখন তিনি বললেনঃ আল্লাহ! অমুকের প্রতি রহমত বর্ষণ করুন। একদা আমার পিতা সদাকাহ নিয়ে হাযির হলে তিনি বললেনঃ হে আল্লাহ! আবূ আওফা’র বংশধরের প্রতি রহমত বর্ষণ করুন। (৪১৬৬, ৬৩৩২, ৬৩৫৯, মুসলিম ১২/৫৪, হাঃ ১০৭৮, আহমাদ ১৯১৩৩) (আধুনিক প্রকাশনীঃ ১৪০১, ইসলামিক ফাউন্ডেশনঃ ১৪০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+এবং মহান আল্লাহর বাণীঃ وَقَوْلِهِ : (خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا وَصَلِّ عَلَيْهِمْ إِنَّ صَلاَتَكَ سَكَنٌ لَهُمْ) ‘‘তাদের সম্পদ হতে সদাকাহ গ্রহণ করবেন, এর দ্বারা তাদেরকে পবিত্র ও পরিশোধিত করবেন। আপনি তাদের জন্য দু‘আ করবেন, আপনার দু‘আ তাদের জন্য চিত্ত স্বস্তিকর।’’ (আত্-তওবাঃ ১০৩) ১৪৯৭. ‘আবদুল্লাহ ইবনু আবূ আওফা (রাঃ) হতে বর্ণিত। তিনি বলেন, লোকজন যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট নিজেদের সদাকাহ নিয়ে উপস্থিত হতো তখন তিনি বললেনঃ আল্লাহ! অমুকের প্রতি রহমত বর্ষণ করুন। একদা আমার পিতা সদাকাহ নিয়ে হাযির হলে তিনি বললেনঃ হে আল্লাহ! আবূ আওফা’র বংশধরের প্রতি রহমত বর্ষণ করুন। (৪১৬৬, ৬৩৩২, ৬৩৫৯, মুসলিম ১২/৫৪, হাঃ ১০৭৮, আহমাদ ১৯১৩৩) (আধুনিক প্রকাশনীঃ ১৪০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1497</td></tr><tr><td>Arabic No</td><td>1497</td></tr><tr><td>Reference</td><td>Book 24 Hadith 97</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் யாரேனும் ஒரு கூட்டத்தார் தமது ஸகாத் பொருட் களைக் கொண்டுவந்தால், “இறைவா! இன்னாரின் குடும்பத்தாருக்கு நீ அருள் புரிவாயாக!” என்று பிரார்த்திப்பவராக நபியவர்கள் இருந்தார்கள். என் தந்தை (அபூஅவ்ஃபா) தமது ஸகாத்தைக் கொண்டுவந்தார். அப்போது “இறைவா! அபூஅவ்ஃபாவின் குடும்பத்தார்க்கு அருள் புரிவாயாக” என நபி (ஸல்) அவர்கள் பிரார்த்தித்தார்கள். அத்தியாயம் : 24
+அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் யாரேனும் ஒரு கூட்டத்தார் தமது ஸகாத் பொருட் களைக் கொண்டுவந்தால், “இறைவா! இன்னாரின் குடும்பத்தாருக்கு நீ அருள் புரிவாயாக!” என்று பிரார்த்திப்பவராக நபியவர்கள் இருந்தார்கள். என் தந்தை (அபூஅவ்ஃபா) தமது ஸகாத்தைக் கொண்டுவந்தார். அப்போது “இறைவா! அபூஅவ்ஃபாவின் குடும்பத்தார்க்கு அருள் புரிவாயாக” என நபி (ஸல்) அவர்கள் பிரார்த்தித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1497</td></tr><tr><td>Arabic No</td><td>1497</td></tr><tr><td>Reference</td><td>Book 24 Hadith 97</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ebi Evfa şöyle anlatır: "Resulullah (Sallallahu Aleyhi ve Sellem) birileri zekatlarını getirdiği zaman onlara, "Allah'ım! Falan’ın ailesine merhamet et!" derdi. Babam zekatını getirdiği zaman ona, "Allahım! Ebu Evfa ailesine salat (merhamet) et" diye dua etti. Tekrarı: 4166, 6232, 6359
+Abdullah İbn Ebi Evfa şöyle anlatır: "Resulullah (Sallallahu Aleyhi ve Sellem) birileri zekatlarını getirdiği zaman onlara, "Allah'ım! Falan’ın ailesine merhamet et!" derdi. Babam zekatını getirdiği zaman ona, "Allahım! Ebu Evfa ailesine salat (merhamet) et" diye dua etti. Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1497</td></tr><tr><td>Arabic No</td><td>1497</td></tr><tr><td>Reference</td><td>Book 24 Hadith 97</td></tr></tbody></table></div>
 

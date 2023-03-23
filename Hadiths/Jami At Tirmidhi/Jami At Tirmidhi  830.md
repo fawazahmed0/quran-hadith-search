@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮৩০। যাইদ ইবনু সাবিত (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে তিনি ইহরামের উদ্দেশ্যে (সেলাই করা) পোশাক খুলতে ও গোসল করতে দেখেছেন। — সহীহ তা’লীকাতুল জিয়াদ, মিশকাত তাহকীক ছানী, আল হাজ্জ্বল কাবীর (২৫৪৭) এই হাদীসটিকে আবু ঈসা হাসান গারীব বলেছেন। ইহরাম বাধার পূর্বে গোসল করাকে একদল আলিম মুস্তাহাব বলেছেন। এই মত ইমাম শাফিঈর।
+। যাইদ ইবনু সাবিত (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে তিনি ইহরামের উদ্দেশ্যে (সেলাই করা) পোশাক খুলতে ও গোসল করতে দেখেছেন। — সহীহ তা’লীকাতুল জিয়াদ, মিশকাত তাহকীক ছানী, আল হাজ্জ্বল কাবীর (২৫৪৭) এই হাদীসটিকে আবু ঈসা হাসান গারীব বলেছেন। ইহরাম বাধার পূর্বে গোসল করাকে একদল আলিম মুস্তাহাব বলেছেন। এই মত ইমাম শাফিঈর।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>830</td></tr><tr><td>Arabic No</td><td>830</td></tr><tr><td>Reference</td><td>Book 9 Hadith 23</td></tr></tbody></table></div>
 

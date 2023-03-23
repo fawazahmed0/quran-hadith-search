@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক লোককে দেখতে পেলেন। লোকটি একটি দড়ি অথবা অন্য কিছুর সাহায্যে কা‘বা তাওয়াফ করছে। তিনি দড়িটি কেটে দিলেন। [১৬২০] (আধুনিক প্রকাশনী- ৬২৩৫, ইসলামিক ফাউন্ডেশন- ৬২৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক লোককে দেখতে পেলেন। লোকটি একটি দড়ি অথবা অন্য কিছুর সাহায্যে কা‘বা তাওয়াফ করছে। তিনি দড়িটি কেটে দিলেন। [১৬২০] (আধুনিক প্রকাশনী- ৬২৩৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6702</td></tr><tr><td>Arabic No</td><td>6702</td></tr><tr><td>Reference</td><td>Book 83 Hadith 79</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Sulaiman Al
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் (ஒட்டகத்தின்) ‘மூக்கணாங் கயிறை’ அல்லது ‘வேறொரு பொருளைத்’ தமது கையில் கட்டிக்கொண்டு (புனித) கஅபாவைச் சுற்றிக்கொண்டிருந்ததை நபி (ஸல்) அவர்கள் பார்த்தார்கள். உடனே அதைத் துண்டித்துவிட்டார்கள்.102 அத்தியாயம் : 83
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் (ஒட்டகத்தின்) ‘மூக்கணாங் கயிறை’ அல்லது ‘வேறொரு பொருளைத்’ தமது கையில் கட்டிக்கொண்டு (புனித) கஅபாவைச் சுற்றிக்கொண்டிருந்ததை நபி (ஸல்) அவர்கள் பார்த்தார்கள். உடனே அதைத் துண்டித்துவிட்டார்கள்.102 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6702</td></tr><tr><td>Arabic No</td><td>6702</td></tr><tr><td>Reference</td><td>Book 83 Hadith 79</td></tr></tbody></table></div>
 

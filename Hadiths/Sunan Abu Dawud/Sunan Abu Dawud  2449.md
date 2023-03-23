@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাসীর .... ইবন মিলহান আল-কায়সী তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে আইয়ামে বীয্ অর্থাৎ চন্দ্র মাসের তেরো, চৌদ্দ ও পনের তারিখে রোযা রাখার নির্দেশ দিতেন। তিনি (ইবন মিলহান) বলেন, তিনি বলেছেনঃ এ রোযাগুলোর মর্যাদা (ফযীলত) সারা বছর রোযা রাখার সমতুল্য।
+। ইবনু মিলহান আল-কায়সী (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আইয়ামে বীয অর্থাৎ চাঁদের ১৩, ১৪ ও ১৫ তারিখে সওম পালনে আমাদেরকে নির্দেশ দিয়েছেন। বর্ণনাকারী বলেন, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এগুলো সারা বছর সওম রাখার সমতুল্য।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2449</td></tr><tr><td>Arabic No</td><td>2449</td></tr><tr><td>Reference</td><td>Book 14 Hadith 137</td></tr></tbody></table></div>
 

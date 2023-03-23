@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫১৩। আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের চেয়ে কম সম্পদশালী মানুষদের প্রতি (পার্থিব ব্যাপারে) দৃষ্টি দিও, তোমাদের চেয়ে ধনশালী মানুষদের দিকে নয়। এতে করে তোমাদেরকে আল্লাহ তা'আলার দেয়া নি’আমাতসমূহ নগণ্য মনে হবে না। সহীহঃ ইবনু মা-জাহ (৪১৪২), মুসলিম। আবূ ঈসা বলেন, এই হাদীসটি সহীহ।
+। আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের চেয়ে কম সম্পদশালী মানুষদের প্রতি (পার্থিব ব্যাপারে) দৃষ্টি দিও, তোমাদের চেয়ে ধনশালী মানুষদের দিকে নয়। এতে করে তোমাদেরকে আল্লাহ তা'আলার দেয়া নি’আমাতসমূহ নগণ্য মনে হবে না। সহীহঃ ইবনু মা-জাহ (৪১৪২), মুসলিম। আবূ ঈসা বলেন, এই হাদীসটি সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2513</td></tr><tr><td>Arabic No</td><td>2513</td></tr><tr><td>Reference</td><td>Book 37 Hadith 99</td></tr></tbody></table></div>
 

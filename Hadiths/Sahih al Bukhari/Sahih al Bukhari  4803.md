@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ যার গিফারী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম কে আল্লাহর বাণীঃ وَالشَّمْسُ تَجْرِيْ لِمُسْتَقَرٍّ لَّهَا সম্পর্কে জিজ্ঞেস করলাম। তিনি বলেছেন, সূর্যের গন্তব্যস্থল আরশের নিচে। [৩১৯৯] (আধুনিক প্রকাশনীঃ ৪৪৩৯, ইসলামিক ফাউন্ডেশনঃ ৪৪৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ যার গিফারী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম কে আল্লাহর বাণীঃ وَالشَّمْسُ تَجْرِيْ لِمُسْتَقَرٍّ لَّهَا সম্পর্কে জিজ্ঞেস করলাম। তিনি বলেছেন, সূর্যের গন্তব্যস্থল আরশের নিচে। [৩১৯৯] (আধুনিক প্রকাশনীঃ ৪৪৩৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4803</td></tr><tr><td>Arabic No</td><td>4803</td></tr><tr><td>Reference</td><td>Book 65 Hadith 325</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Abu Dharr:I asked the Prophet (ﷺ) about the Statement of Allah:-- 'An
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Waki'] Telah menceritakan kepada kami [Al A'masy] dari [Ibrahim At Taimi] dari [Bapaknya] dari [Abu Dzar] dia berkata; Aku bertanya kepada Nabi shallallahu 'alaihi wasallam tentang firman Allah Ta'ala: "dan matahari berjalan ditempat peredarannya." Beliau bersabda: "Tempat peredarannya berada dibawah Arsy." (Yasiin: 38)
+Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Waki'] Telah menceritakan kepada kami [Al A'masy] dari [Ibrahim At Taimi] dari [Bapaknya] dari [Abu Dzar] dia berkata; Aku bertanya kepada Nabi shallallahu 'alaihi wasallam tentang firman Allah Ta'ala: "dan matahari berjalan ditempat peredarannya." Beliau bersabda: "Tempat peredarannya berada dibawah Arsy." (Yasiin:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4803</td></tr><tr><td>Arabic No</td><td>4803</td></tr><tr><td>Reference</td><td>Book 65 Hadith 325</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Waki
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூதர் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம், ‘‘சூரியன், தான் நிலைகொள்ளும் இடத்தை நோக்கிச் சென்றுகொண்டிருக்கிறது” எனும் (36:38 ஆவது) வசனம் தொடர்பாகக் கேட்டேன். நபி (ஸல்) அவர்கள், ‘‘அது நிலைகொள்ளுமிடம் இறைவனின் அரியணைக்குக் கீழே உள்ளது” என்று கூறினார்கள்.3 அத்தியாயம் : 65
+அபூதர் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம், ‘‘சூரியன், தான் நிலைகொள்ளும் இடத்தை நோக்கிச் சென்றுகொண்டிருக்கிறது” எனும் (36:38 ஆவது) வசனம் தொடர்பாகக் கேட்டேன். நபி (ஸல்) அவர்கள், ‘‘அது நிலைகொள்ளுமிடம் இறைவனின் அரியணைக்குக் கீழே உள்ளது” என்று கூறினார்கள்.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4803</td></tr><tr><td>Arabic No</td><td>4803</td></tr><tr><td>Reference</td><td>Book 65 Hadith 325</td></tr></tbody></table></div>
 

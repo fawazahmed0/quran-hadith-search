@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কাসীর ইবন উবায়দ ..... ইবন উমার (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন যে, আল্লাহ্ তা‘আলার নিকট নিকৃষ্টতম হালাল বস্তু হল তালাক।
+। ইবনু উমার (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহান আল্লাহর নিকট সবচেয়ে ঘৃণিত হালাল হচ্ছে তালাক।[1] দুর্বলঃ যঈফ সুনান ইবনু মাজাহ (৪৪১/২০১৮), ইরওয়া (২০৪০), মিশকাত (৩২৮০)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2178</td></tr><tr><td>Arabic No</td><td>2178</td></tr><tr><td>Reference</td><td>Book 13 Hadith 4</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Katsir bin 'Ubaid], telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer (r.a.)'den rivayet olunduğuna göre, Nebi (s.a.v.) şöyle buyurmuştur: "Helâl(ler)in yüce Allah'a en sevimsiz olanı talaktır" Diğer tahric: İbn Mace, talak (2018); Beyhakî, es-Sünenü'l-kübra, VII, 322; Hakim, Müstedrek, II, 196
+İbn Ömer (r.a.)'den rivayet olunduğuna göre, Nebi (s.a.v.) şöyle buyurmuştur: "Helâl(ler)in yüce Allah'a en sevimsiz olanı talaktır" Diğer tahric: İbn Mace, talak (2018); Beyhakî, es-Sünenü'l-kübra, VII, 322; Hakim, Müstedrek, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2178</td></tr><tr><td>Arabic No</td><td>2178</td></tr><tr><td>Reference</td><td>Book 13 Hadith 4</td></tr></tbody></table></div>
 

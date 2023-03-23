@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... ইব্‌ন মাসউদ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তি দারিদ্র্য পীড়িত হয়ে তা মানুষের নিকট প্রকাশ করে, আল্লাহ্‌ তার দারিদ্র্য দূর করেন না। অপরপক্ষে যে ব্যক্তি তা আল্লাহর্‌ কাছে পেশ করে আল্লাহ্‌ তাকে অমুখাপেক্ষী করেন, হয় দ্রুত মৃত্যুর মাধ্যমে অথবা সম্পদশালী করার মাধ্যমে। (তিরমিযী, আহমাদ)।
+। ইবনু মাসউদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি দুর্ভিক্ষে পড়ে মানুষের দুয়ারে দুয়াতে চেয়ে বেড়ায়, তার ক্ষুধা কখনো বন্ধ হবে না। আর যে আল্লাহর স্মরণাপন্ন হয়েছে শিঘ্রই মহান আল্লাহ তাকে অমুখাপেক্ষী করবেন, হয়ত দ্রুত মৃত্যুর দ্বারা অথবা সম্পদশালী বানিয়ে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1645</td></tr><tr><td>Arabic No</td><td>1645</td></tr><tr><td>Reference</td><td>Book 9 Hadith 90</td></tr></tbody></table></div>
 

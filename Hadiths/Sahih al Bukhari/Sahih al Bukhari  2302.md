@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী ও আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে খায়বারের কর্মচারী নিয়োগ করলেন। সে বেশ কিছু উন্নতমানের খেজুর তাঁর নিকটে নিয়ে আসল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, খায়বারের সব খেজুরই কি এরকম? সে বলল, ‘আমরা দু’ সা’র বদলে এর এক সা‘ নিয়ে থাকি কিংবা তিন সা‘র বদলে দু’ সা‘ নিয়ে থাকি। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, এরূপ কর না। মিশ্রিত খেজুর দিরহাম নিয়ে বিক্রি কর। তারপর এ দিরহাম দিয়েই উন্নতমানের খেজুর ক্রয় কর। ওজনে বিক্রয়যোগ্য বস্তুসমূহের ব্যাপারেও তিনি একই কথা বলেছেন। (২২০১, ২২০২) (আধুনিক প্রকাশনীঃ ২১৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>2302</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Sa'id Al-Khudri and Abu Huraira:Allah's Messenger (ﷺ) employed someone as a governor at Khaibar. When the man came to Medina, he brought with him dates called Janib. The Prophet (ﷺ) asked him, "Are all the dates of Khaibar of this kind?" The man replied, "(No), we exchange two Sa's of bad dates for one Sa of this kind of dates (i.e. Janib), or exchange three Sa's for two." On that, the Prophet (ﷺ) said, "Don't do so, as it is a kind of usury (Riba) but sell the dates of inferior quality for money, and then buy Janib with the money". The Prophet said the same thing about dates sold by weight. (See Hadith No. 506)
+Narrated Abu Sa'id Al-Khudri and Abu Huraira:Allah's Messenger (ﷺ) employed someone as a governor at Khaibar. When the man came to Medina, he brought with him dates called Janib. The Prophet (ﷺ) asked him, "Are all the dates of Khaibar of this kind?" The man replied, "(No), we exchange two Sa's of bad dates for one Sa of this kind of dates (i.e. Janib), or exchange three Sa's for two." On that, the Prophet (ﷺ) said, "Don't do so, as it is a kind of usury (Riba) but sell the dates of inferior quality for money, and then buy Janib with the money". The Prophet said the same thing about dates sold by weight. (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>2302</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி), அபூசயீத் அல்குத்ரீ (ரலி) ஆகியோர் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கைபர் பகுதிக்கு ஒரு மனிதரை அதிகாரியாக நியமித்தார்கள். அவர் (அங்கு சென்றுவிட்டு) உயர் ரகப் பேரீச்சம் பழங்களை மக்களிடம் கொண்டுவந்தார். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘கைபரில் உள்ள எல்லாப் பேரீச்சம் பழங்களும் இப்படித்தான் (உயர்ரக மானவையாக) இருக்குமா?” என்று கேட்டார்கள். அதற்கு அவர், ‘‘இரண்டு ‘ஸாஉ’கள் சாதாரண வகைப் பேரீச்சம்பழங்களைக் கொடுத்து இதில் ஒரு ‘ஸாஉ’வையும், மூன்று ‘ஸாஉ’கள் சாதாரண வகைப் பேரீச்சம் பழங்களைக் கொடுத்து இதில் இரண்டு ‘ஸாஉ’களையும் நாங்கள் வாங்குவோம்” எனக் கூறினார். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘அவ்வாறு செய்யாதீர்! சாதாரண வகைப் பேரீச்சம்பழங்களை வெள்ளிக் காசுகளுக்கு விற்றுவிட்டு, அந்தக் காசுகளுக்குப் பதிலாக உயர்ந்த பேரீச்சம்பழங்களை வாங்குவீராக!” என்றார்கள். நிறுத்தலளவையிலும் இதைப் போன்றே நபி (ஸல்) அவர்கள் கூறினார்கள்.4 அத்தியாயம் : 40
+அபூஹுரைரா (ரலி), அபூசயீத் அல்குத்ரீ (ரலி) ஆகியோர் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கைபர் பகுதிக்கு ஒரு மனிதரை அதிகாரியாக நியமித்தார்கள். அவர் (அங்கு சென்றுவிட்டு) உயர் ரகப் பேரீச்சம் பழங்களை மக்களிடம் கொண்டுவந்தார். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘கைபரில் உள்ள எல்லாப் பேரீச்சம் பழங்களும் இப்படித்தான் (உயர்ரக மானவையாக) இருக்குமா?” என்று கேட்டார்கள். அதற்கு அவர், ‘‘இரண்டு ‘ஸாஉ’கள் சாதாரண வகைப் பேரீச்சம்பழங்களைக் கொடுத்து இதில் ஒரு ‘ஸாஉ’வையும், மூன்று ‘ஸாஉ’கள் சாதாரண வகைப் பேரீச்சம் பழங்களைக் கொடுத்து இதில் இரண்டு ‘ஸாஉ’களையும் நாங்கள் வாங்குவோம்” எனக் கூறினார். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘அவ்வாறு செய்யாதீர்! சாதாரண வகைப் பேரீச்சம்பழங்களை வெள்ளிக் காசுகளுக்கு விற்றுவிட்டு, அந்தக் காசுகளுக்குப் பதிலாக உயர்ந்த பேரீச்சம்பழங்களை வாங்குவீராக!” என்றார்கள். நிறுத்தலளவையிலும் இதைப் போன்றே நபி (ஸல்) அவர்கள் கூறினார்கள்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>2302</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

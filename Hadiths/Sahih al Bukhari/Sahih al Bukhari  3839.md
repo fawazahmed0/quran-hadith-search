@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইকরিমাহ (রহ.) বলেন, আল্লাহর বাণীঃ كَأْسًا دِهَاقًا (আন-নাবাঃ ৩৪) এর তাফসীর প্রসঙ্গে বলেন, একের পর এক শরাবে পূর্ণ পেয়ালা। (আধুনিক প্রকাশনীঃ ৩৫৫৪ প্রথমাংশ, ইসলামিক ফাউন্ডেশনঃ ৩৫৫৯ প্রথমাংশ)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) বলেন, আমার পিতা ‘আব্বাস (রাঃ)-কে ইসলামের পূর্ব যুগে বলতে শুনেছি, আমাদেরকে পাত্র ভর্তি শরাব একের পর এক পান করাও। (আধুনিক প্রকাশনীঃ ৩৫৫৪, ইসলামিক ফাউন্ডেশনঃ ৩৫৫৯ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3839</td></tr><tr><td>Arabic No</td><td>3839</td></tr><tr><td>Reference</td><td>Book 63 Hadith 64</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq bin Ibrahim] berkata, aku berkata kepada [Abu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர் களின் முன்னாள் அடிமையான) இக்ரிமா (ரஹ்) அவர்கள் கூறியதாவது: திருக்குர்ஆனில் (78:34ல்) இடம் பெற்றுள்ள “கஃஸன் திஹாக்கன்' (நிரம் பிய கிண்ணமும்) என்பதற்கு “(தீரத் தீரத்) தொடர்ந்து நிரம்பிக்கொண்டிருக்கக்கூடிய கிண்ணமும் (சொர்க்கத்தில் உண்டு)' என்பது பொருளாகும். அத்தியாயம் : 63
+இப்னு அப்பாஸ் (ரலி) அவர் களின் முன்னாள் அடிமையான) இக்ரிமா (ரஹ்) அவர்கள் கூறியதாவது: திருக்குர்ஆனில் (78:34ல்) இடம் பெற்றுள்ள “கஃஸன் திஹாக்கன்' (நிரம் பிய கிண்ணமும்) என்பதற்கு “(தீரத் தீரத்) தொடர்ந்து நிரம்பிக்கொண்டிருக்கக்கூடிய கிண்ணமும் (சொர்க்கத்தில் உண்டு)' என்பது பொருளாகும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3839</td></tr><tr><td>Arabic No</td><td>3839</td></tr><tr><td>Reference</td><td>Book 63 Hadith 64</td></tr></tbody></table></div>
 

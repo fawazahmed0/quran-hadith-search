@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হাসান ইবন আলী (রহঃ) ..... সামুরা ইবন জুনদুব (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন। তিনি বলেনঃ যে ব্যক্তি বিনা ওযরে জুমুআর নামায ত্যাগ করে, সে যেন এক দ্বীনার সদকা করে। যদি তার পক্ষে এক দ্বীনার (স্বর্ণমুদ্রা) সদকা করা সম্ভব না হয়, তবে যেন অর্ধ-দ্বীনার সদ্কা করে (নাসাঈ)। ইমাম আবু দাউদ (রহ) বলেন, খালিদ ইবন কায়েস (রহঃ) ও ভিন্ন সনদে এই হাদীছটি এইরূপে বর্ণনা করেছেন।
+। সামুরাহ ইবনু জুনদুব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি কোনরূপ ওজর ছাড়াই জুমু‘আহর সালাত বর্জন করে সে যেন এক দীনার সাদাকা করে। এতে সক্ষম না হলে যেন অর্ধ দীনার সাদাকা করে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1053</td></tr><tr><td>Arabic No</td><td>1053</td></tr><tr><td>Reference</td><td>Book 2 Hadith 664</td></tr></tbody></table></div>
 

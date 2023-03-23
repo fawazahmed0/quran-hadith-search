@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪২৪, আন্তর্জাতিক নাম্বারঃ ১৭৩৫ ৪৪২৪-(১১/...) হারমালাহ্ ইবনু ইয়াহইয়া (রহঃ) ..... 'আবদুল্লাহ ইবনু উমার (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি যে, প্রত্যেক প্রতারণাকারীর জন্য কিয়ামত দিবসে একটি পতাকা থাকবে। (ইসলামিক ফাউন্ডেশন ৪৩৮২, ইসলামিক সেন্টার ৪৩৮২)
+হারমালাহ্ ইবনু ইয়াহইয়া (রহঃ) ..... 'আবদুল্লাহ ইবনু উমার (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি যে, প্রত্যেক প্রতারণাকারীর জন্য কিয়ামত দিবসে একটি পতাকা থাকবে। (ইসলামিক ফাউন্ডেশন ৪৩৮২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4532</td></tr><tr><td>Arabic No</td><td>1735.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 13</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மோசடி செய்பவன் ஒவ்வொருவனுக்கும் மறுமை நாளில் ஒரு (அடையாளக்) கொடி இருக்கும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 32
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மோசடி செய்பவன் ஒவ்வொருவனுக்கும் மறுமை நாளில் ஒரு (அடையாளக்) கொடி இருக்கும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4532</td></tr><tr><td>Arabic No</td><td>1735.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 13</td></tr></tbody></table></div>
 

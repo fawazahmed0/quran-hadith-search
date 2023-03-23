@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সানান ওয়াসিতী (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত যে, যখন পারসিকদের নবী ইনতিকাল করেন, তখন ইবলিস তাদের অগ্নিপূজায় লাগিয়ে দেয় (অর্থাৎ গুমরাহ করে ফেলে)।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, যখন পারস্যের অধিবাসীদের নবী মারা যান তখন ইবলীস তাদেরকে অগ্নিপূজায় লিপ্ত করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3042</td></tr><tr><td>Arabic No</td><td>3042</td></tr><tr><td>Reference</td><td>Book 20 Hadith 115</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১৬৪। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ওয়াইল হচ্ছে জাহান্নামের একটি ময়দানের নাম। এটা এতই গভীর যে, এর তলদেশে পৌছা পর্যন্ত কাফির ব্যক্তি চল্লিশ বছর ধরে নীচের দিকে পড়তে থাকবে। যঈফ, তা’লীকুর রাগীব (৪/২২৯) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। আমরা শুধু ইবনু লাহীআর সূত্রেই এটি মারফু হিসেবে জেনেছি।
+। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ওয়াইল হচ্ছে জাহান্নামের একটি ময়দানের নাম। এটা এতই গভীর যে, এর তলদেশে পৌছা পর্যন্ত কাফির ব্যক্তি চল্লিশ বছর ধরে নীচের দিকে পড়তে থাকবে। যঈফ, তা’লীকুর রাগীব (৪/২২৯) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। আমরা শুধু ইবনু লাহীআর সূত্রেই এটি মারফু হিসেবে জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3164</td></tr><tr><td>Arabic No</td><td>3164</td></tr><tr><td>Reference</td><td>Book 47 Hadith 216</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আলী ইবন হুজর (রহঃ) ... সাঈদ ইবন মুসায়্যাব (রহঃ) থেকে বর্ণিত। তিনি বলেন, যে ব্যাক্তি কুরবানী করার ইচ্ছা করে আর দশ দিন আরম্ভ হয়ে যায়, সে যেন তখন আর চুল ও নখ না কাটে। রাবী বলেন, এ বিষয়টি ইকরামার নিকট উল্লেখ করলে তিনি বললেন, তাহলে কি স্ত্রী এবং সুগন্ধিও ত্যাগ করতে হবে?
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4363</td></tr><tr><td>Arabic No</td><td>4363</td></tr><tr><td>Reference</td><td>Book 43 Hadith 3</td></tr></tbody></table></div>
 

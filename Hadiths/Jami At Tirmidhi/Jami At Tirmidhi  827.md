@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮২৭। আবু বাকর সিদ্দীক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে প্রশ্ন করা হল, কোন প্রকার হাজ্জ সবচেয়ে উত্তম? তিনি বলেনঃ চিৎকার করা (উচ্চস্বরে তালবিয়া পাঠ) ও রক্ত প্রবাহিত করা (কুরবানী দেওয়া)। - সহীহ, ইবনু মা-জাহ (২৯২৪)
+। আবু বাকর সিদ্দীক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে প্রশ্ন করা হল, কোন প্রকার হাজ্জ সবচেয়ে উত্তম? তিনি বলেনঃ চিৎকার করা (উচ্চস্বরে তালবিয়া পাঠ) ও রক্ত প্রবাহিত করা (কুরবানী দেওয়া)। - সহীহ, ইবনু মা-জাহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 9 Hadith 20</td></tr></tbody></table></div>
 

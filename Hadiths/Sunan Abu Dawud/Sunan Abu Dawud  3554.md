@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাজ্জাজ ইবন আবূ ইয়া'কূব (রহঃ) ..... ইবন শিহাব (রহঃ) পূর্বোক্ত হাদীছের সনদে ও অর্থে হাদীছ বর্ণনা করেছেন। ইমাম আবূ দাউদ (রহঃ) বলেনঃ আকীল (রহঃ) ইবন শিহাব (রহঃ) হতে এবং ইয়াযীদ ইবন আবী হাবীব (রহঃ) ইবন শিহাব (রহঃ) থেকে অনুরূপ বর্ণনা করেছেন।
+। ইবনু শিহাব তার সনদ পরম্পরায় উপরের হাদীস অনুরূপ হাদীস বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3554</td></tr><tr><td>Arabic No</td><td>3554</td></tr><tr><td>Reference</td><td>Book 24 Hadith 139</td></tr></tbody></table></div>
 

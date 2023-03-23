@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ... নাফি (রহঃ) থেকে বর্ণিত। কোন সফরে আবদুল্লাহ ইবনু উমর (রাযিঃ) কে দ্রুত পথ চলতে হলে সূর্যাস্তের পর পশ্চিম আকাশের লালিমা অদৃশ্য হওয়ার পর তিনি মাগরিব এবং ইশার সালাত একত্র করে আদায় করতেন। এ ব্যাপারে তিনি বলতেনঃ সফরে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে যখন দ্রুত চলতে হত তখন তিনি মাগরিব এবং ইশার সালাত একসাথে আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৪৯২ ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1622</td></tr><tr><td>Arabic No</td><td>703.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 53</td></tr></tbody></table></div>
 

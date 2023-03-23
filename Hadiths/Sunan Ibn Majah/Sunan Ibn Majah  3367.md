@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৩৬৭। সালমান আল-ফারসী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট ঘি, পনির ও বন্য গাধা সম্পর্কে জিজ্ঞেস করা হলো। তিনি বলেনঃ আল্লাহ তাঁর কিতাবে যেসব জিনিস হালাল করেছেন তা হালাল এবং আল্লাহ তা‘আলা তাঁর কিতাবে যেসব জিনিস হারাম করেছেন তা হারাম। আর যেসব জিনিস সম্পর্কে তিনি নীরব থেকেছেন তা তিনি ক্ষমা করেছেন।
+। সালমান আল-ফারসী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট ঘি, পনির ও বন্য গাধা সম্পর্কে জিজ্ঞেস করা হলো। তিনি বলেনঃ আল্লাহ তাঁর কিতাবে যেসব জিনিস হালাল করেছেন তা হালাল এবং আল্লাহ তা‘আলা তাঁর কিতাবে যেসব জিনিস হারাম করেছেন তা হারাম। আর যেসব জিনিস সম্পর্কে তিনি নীরব থেকেছেন তা তিনি ক্ষমা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3367</td></tr><tr><td>Arabic No</td><td>3367</td></tr><tr><td>Reference</td><td>Book 29 Hadith 117</td></tr></tbody></table></div>
 

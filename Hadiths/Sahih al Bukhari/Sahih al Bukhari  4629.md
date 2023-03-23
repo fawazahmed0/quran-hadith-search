@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু মাস‘উদ (রাঃ) বলেন, যখন وَلَمْ يَلْبِسُوْآ إِيْمَانَهُمْ بِظُلْمٍ আয়াত অবতীর্ণ হল, তখন তাঁর সহাবাগণ বললেন, ‘‘জুলুম করেনি আমাদের মধ্যে এমন কোন্ ব্যক্তি আছে?’’ এরপর অবতীর্ণ হল إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيْمٌ -‘‘নিশ্চয় শির্ক মহা জুলুম’’- (সূরাহ লুক্বমান ৩১/১৩)। [৩২] (আধুনিক প্রকাশনীঃ ৪২৬৮, ইসলামিক ফাউন্ডেশনঃ ৪২৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু মাস‘উদ (রাঃ) বলেন, যখন وَلَمْ يَلْبِسُوْآ إِيْمَانَهُمْ بِظُلْمٍ আয়াত অবতীর্ণ হল, তখন তাঁর সহাবাগণ বললেন, ‘‘জুলুম করেনি আমাদের মধ্যে এমন কোন্ ব্যক্তি আছে?’’ এরপর অবতীর্ণ হল إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيْمٌ -‘‘নিশ্চয় শির্ক মহা জুলুম’’- (সূরাহ লুক্বমান ৩১/১৩)। [৩২] (আধুনিক প্রকাশনীঃ ৪২৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4629</td></tr><tr><td>Arabic No</td><td>4629</td></tr><tr><td>Reference</td><td>Book 65 Hadith 151</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah:When:"...and confuse not their belief with wrong." (6.82) was revealed, the Prophet's companions said, "Which of us has not done wrong?" Then there was revealed:-- "Verily joining others in worship with Allah is a tremendous wrong indeed." (31.13)
+Narrated 'Abdullah:When:"...and confuse not their belief with wrong." (6.82) was revealed, the Prophet's companions said, "Which of us has not done wrong?" Then there was revealed:-- "Verily joining others in worship with Allah is a tremendous wrong indeed
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4629</td></tr><tr><td>Arabic No</td><td>4629</td></tr><tr><td>Reference</td><td>Book 65 Hadith 151</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: “எவர் இறைநம்பிக்கை கொண்டு பிறகு தமது இறைநம்பிக்கையுடன் அநீதியைக் கலக்கவில்லையோ அவர்களுக்கு உண்மையில் அமைதி உண்டு. மேலும், அவர்களே நல்வழி பெற்றவர்கள் ஆவர்” எனும் (6:82ஆவது) வசனம் அருளப்பெற்றபோது நபித்தோழர்கள், “எங்களில் எவர்தான் (தமக்குத் தாமே) அநீதியிழைக்கவில்லை?” என்று கேட்டனர். அப்போது, “இணைவைப்புத்தான் மாபெரும் அநீதியாகும்” எனும் (31:13ஆவது) இறைவசனம் அருளப்பெற்றது.8 அத்தியாயம் : 65
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: “எவர் இறைநம்பிக்கை கொண்டு பிறகு தமது இறைநம்பிக்கையுடன் அநீதியைக் கலக்கவில்லையோ அவர்களுக்கு உண்மையில் அமைதி உண்டு. மேலும், அவர்களே நல்வழி பெற்றவர்கள் ஆவர்” எனும் (6:82ஆவது) வசனம் அருளப்பெற்றபோது நபித்தோழர்கள், “எங்களில் எவர்தான் (தமக்குத் தாமே) அநீதியிழைக்கவில்லை?” என்று கேட்டனர். அப்போது, “இணைவைப்புத்தான் மாபெரும் அநீதியாகும்” எனும் (31:13ஆவது) இறைவசனம் அருளப்பெற்றது.8 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4629</td></tr><tr><td>Arabic No</td><td>4629</td></tr><tr><td>Reference</td><td>Book 65 Hadith 151</td></tr></tbody></table></div>
 

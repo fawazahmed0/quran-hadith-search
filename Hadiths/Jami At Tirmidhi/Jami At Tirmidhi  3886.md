@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮৮৬। আমর ইবনুল ‘আস (রাযিঃ) হতে বর্ণিত আছে যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললেন, আপনার নিকট সর্বাধিক প্রিয় কোন ব্যক্তি? তিনি বললেনঃ আয়িশাহ। তিনি আবার প্রশ্ন করলেন, পুরুষদের মাঝে কে? তিনি বললেনঃ তার পিতা। সহীহঃ বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান এবং ইসমাঈল-কাইস হতে এই সনদে বর্ণিত হাদীস হিসেবে গারীব।
+। আমর ইবনুল ‘আস (রাযিঃ) হতে বর্ণিত আছে যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললেন, আপনার নিকট সর্বাধিক প্রিয় কোন ব্যক্তি? তিনি বললেনঃ আয়িশাহ। তিনি আবার প্রশ্ন করলেন, পুরুষদের মাঝে কে? তিনি বললেনঃ তার পিতা। সহীহঃ বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান এবং ইসমাঈল-কাইস হতে এই সনদে বর্ণিত হাদীস হিসেবে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3886</td></tr><tr><td>Arabic No</td><td>3886</td></tr><tr><td>Reference</td><td>Book 49 Hadith 286</td></tr></tbody></table></div>
 

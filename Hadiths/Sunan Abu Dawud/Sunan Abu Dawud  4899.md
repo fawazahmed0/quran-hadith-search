@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুহায়র ইবন হারব (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কোন সাথী মারা যাবে, তখন তোমরা তার নিন্দাবাদ করবে না এবং তার দোষ-ক্রটি প্রকাশ করবে না।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কোনো সঙ্গী মারা গেলে তাকে ছেড়ে দাও এবং তার সম্পর্কে কটুক্তি করো না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4899</td></tr><tr><td>Arabic No</td><td>4899</td></tr><tr><td>Reference</td><td>Book 43 Hadith 127</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Zuhair bin Harb] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe (r.anhâ)'dan (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: "(Kendisiyle sohbet ettiğiniz mu'min) bir arkadaşınız vefat ettiği zaman onu bırakınız. Hakkında kötü sözler söylemeyiniz." Tahric edenler: Buhari, cenâiz. rikâk, fedâilü, sâhabinnebiyy; Müslim. Fedâilussahabe; ; Tirmizî Birr; menâkıb; Nesâî. cenâiz, kasâme:; Darimî, siyer; Ahmed b. Hanbel, 1-300-111-11,54, IV-252, IV-I80
+Âişe (r.anhâ)'dan (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: "(Kendisiyle sohbet ettiğiniz mu'min) bir arkadaşınız vefat ettiği zaman onu bırakınız. Hakkında kötü sözler söylemeyiniz." Tahric edenler: Buhari, cenâiz. rikâk, fedâilü, sâhabinnebiyy; Müslim. Fedâilussahabe; ; Tirmizî Birr; menâkıb; Nesâî. cenâiz, kasâme:; Darimî, siyer; Ahmed b. Hanbel, 1-300-111-11,54, IV-252, IV-I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4899</td></tr><tr><td>Arabic No</td><td>4899</td></tr><tr><td>Reference</td><td>Book 43 Hadith 127</td></tr></tbody></table></div>
 

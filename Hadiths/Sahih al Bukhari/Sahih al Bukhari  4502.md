@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রমাযানের সওমের (আয়াত অবতীর্ণ হওয়ার) পূর্বে আশুরার সওম পালন করা হত। এরপর যখন রমাযানের (সম্পর্কিত বিধান) অবতীর্ণ হল, তখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, যে ইচ্ছা করে (আশুরার) সওম পালন করবে, আর যে চায় সে সওম পালন করবে না। [১৫৯২] (আধুনিক প্রকাশনীঃ ৪১৪৪, ইসলামিক ফাউন্ডেশনঃ ৪১৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রমাযানের সওমের (আয়াত অবতীর্ণ হওয়ার) পূর্বে আশুরার সওম পালন করা হত। এরপর যখন রমাযানের (সম্পর্কিত বিধান) অবতীর্ণ হল, তখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, যে ইচ্ছা করে (আশুরার) সওম পালন করবে, আর যে চায় সে সওম পালন করবে না। [১৫৯২] (আধুনিক প্রকাশনীঃ ৪১৪৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4502</td></tr><tr><td>Arabic No</td><td>4502</td></tr><tr><td>Reference</td><td>Book 65 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ரமளானு(டைய நோன்பு)க்கு முன்பு “ஆஷூரா' (முஹர்ரம் பத்தாம்) நாளன்று நோன்பு நோற்கப்பட்டுவந்தது. ரமளான் (நோன்பு) கடமையானபோது விரும்பியவர் ஆஷூரா நாளன்று நோன்பு நோற்றனர்; (விட்டுவிட) விரும்பியவர் அதை விட்டு விட்டனர்.39 அத்தியாயம் : 65
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ரமளானு(டைய நோன்பு)க்கு முன்பு “ஆஷூரா' (முஹர்ரம் பத்தாம்) நாளன்று நோன்பு நோற்கப்பட்டுவந்தது. ரமளான் (நோன்பு) கடமையானபோது விரும்பியவர் ஆஷூரா நாளன்று நோன்பு நோற்றனர்; (விட்டுவிட) விரும்பியவர் அதை விட்டு விட்டனர்.39 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4502</td></tr><tr><td>Arabic No</td><td>4502</td></tr><tr><td>Reference</td><td>Book 65 Hadith 29</td></tr></tbody></table></div>
 

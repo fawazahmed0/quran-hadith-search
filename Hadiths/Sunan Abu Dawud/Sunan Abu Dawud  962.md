@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ ইবনু স সারী (রহঃ) .... ইবরাহীম (রহঃ) থেকে বর্ণিত। তিনি বলেন, মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নামাযে বাম পা বিছিয়ে বসতেন। ফলে তাঁর পায়ের পাতার উপরের দিক কালো হয়ে গিয়েছিল।
+। ইবরাহীম (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে (তাশাহহুদে বসার সময়) তাঁর বাম পা বিছিয়ে দিতেন। ফলে তাঁর পায়ের পাতার উপরিভাগ কালো হয়ে গিয়েছিল।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 2 Hadith 573</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২১৯৬। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গবাদি পশুর গর্ভস্থ বাচ্চা প্রসবের পূর্বে, পশুর স্তনের দুধ পরিমাণ না করে, পলাতক গোলাম, গানীমাতের মাল বণ্টনের পূর্বে, দান-খয়রাত হস্তগত করার পূর্বে এবং ডুবুরীর বাজির ভিত্তিতে ক্রয়-বিক্রয় করতে নিষেধ করেছেন।
+। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গবাদি পশুর গর্ভস্থ বাচ্চা প্রসবের পূর্বে, পশুর স্তনের দুধ পরিমাণ না করে, পলাতক গোলাম, গানীমাতের মাল বণ্টনের পূর্বে, দান-খয়রাত হস্তগত করার পূর্বে এবং ডুবুরীর বাজির ভিত্তিতে ক্রয়-বিক্রয় করতে নিষেধ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2196</td></tr><tr><td>Arabic No</td><td>2196</td></tr><tr><td>Reference</td><td>Book 12 Hadith 60</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Hisyam bin Ammar] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Said-i Hudri (r.a.)'den; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem); doğuruncaya kadar büyük baş ve küçük baş hayvanların karnındaki cenin'in, sağılıp ölçülünceye kadar bunların memelerindeki süt'ün, kaçmış iken köle'nin, taksim edilinceye kadar ganimet hissesinin, teslim alınıncaya kadar sadakaların ve dalgıcın çıkaracağı av'ın satın alınmasını yasaklamıştır. AÇIKLAMA VE TAHRİC BİLGİSİ 2197
+Ebu Said-i Hudri (r.a.)'den; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem); doğuruncaya kadar büyük baş ve küçük baş hayvanların karnındaki cenin'in, sağılıp ölçülünceye kadar bunların memelerindeki süt'ün, kaçmış iken köle'nin, taksim edilinceye kadar ganimet hissesinin, teslim alınıncaya kadar sadakaların ve dalgıcın çıkaracağı av'ın satın alınmasını yasaklamıştır. AÇIKLAMA VE TAHRİC BİLGİSİ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2196</td></tr><tr><td>Arabic No</td><td>2196</td></tr><tr><td>Reference</td><td>Book 12 Hadith 60</td></tr></tbody></table></div>
 

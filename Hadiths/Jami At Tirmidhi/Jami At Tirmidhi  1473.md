@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৪৭৩। আবূদ দারদা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, মুজাসসামা' খাওয়াকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন। যে পশুকে চাদমারির নিশানা বানিয়ে তীর ছুড়ে হত্যা করা হয় তাকে মুজাসসামা' বলে। সহীহ, সহীহা (২৩৯১) আবূ হুরাইরা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূদ দারদা (রাঃ) হতে বর্ণিত হাদীসটিকে আবূ ঈসা গারীব বলেছেন।
+। আবূদ দারদা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, মুজাসসামা' খাওয়াকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন। যে পশুকে চাদমারির নিশানা বানিয়ে তীর ছুড়ে হত্যা করা হয় তাকে মুজাসসামা' বলে। সহীহ, সহীহা (২৩৯১) আবূ হুরাইরা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূদ দারদা (রাঃ) হতে বর্ণিত হাদীসটিকে আবূ ঈসা গারীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>1473</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
 

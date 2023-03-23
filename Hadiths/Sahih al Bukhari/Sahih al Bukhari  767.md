@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আদী (ইবন সাবিত) (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি বারাআ (রাযি.) হতে শুনেছি যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক সফরে ‘ইশা সালাতের প্রথম দু‘ রাক‘আতের এক রাক‘আতে সূরাহ্ التِّينِ وَالزَّيْتُونِপাঠ করেন। (৭৬৯, ৪৯৫২, ৭৫৪৬; মুসলিম ৪/৩৫ হাঃ ৪৬৪, আহমাদ ১৮৭১০) (আধুনিক প্রকাশনীঃ ৭২৩, ইসলামিক ফাউন্ডেশনঃ ৭৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আদী (ইবন সাবিত) (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি বারাআ (রাযি.) হতে শুনেছি যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক সফরে ‘ইশা সালাতের প্রথম দু‘ রাক‘আতের এক রাক‘আতে সূরাহ্ التِّينِ وَالزَّيْتُونِপাঠ করেন। (৭৬৯, ৪৯৫২, ৭৫৪৬; মুসলিম ৪/৩৫ হাঃ ৪৬৪, আহমাদ ১৮৭১০) (আধুনিক প্রকাশনীঃ ৭২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>767</td></tr><tr><td>Arabic No</td><td>767</td></tr><tr><td>Reference</td><td>Book 10 Hadith 161</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara:The Prophet (ﷺ) was on a journey and recited in one of the first two rak'at of the 'Isha' prayer "Wa t-teeni wa z-zaitun." (95)
+Narrated Al-Bara:The Prophet (ﷺ) was on a journey and recited in one of the first two rak'at of the 'Isha' prayer "Wa t-teeni wa z-zaitun
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>767</td></tr><tr><td>Arabic No</td><td>767</td></tr><tr><td>Reference</td><td>Book 10 Hadith 161</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு பயணத்தில் இருந்தார்கள். அப்போது இஷா தொழுகையின் இரண்டு ரக்அத்களில் ஒன்றில் (95ஆவது அத்தியாயமான) ‘வத்தீனி வஸ்ஸைத்தூனி’யை ஓதினார்கள். அத்தியாயம் : 10
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு பயணத்தில் இருந்தார்கள். அப்போது இஷா தொழுகையின் இரண்டு ரக்அத்களில் ஒன்றில் (95ஆவது அத்தியாயமான) ‘வத்தீனி வஸ்ஸைத்தூனி’யை ஓதினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>767</td></tr><tr><td>Arabic No</td><td>767</td></tr><tr><td>Reference</td><td>Book 10 Hadith 161</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইব্‌ন হাম্বল (রহঃ) ..... শাক্‌ল্‌ ইব্‌ন হুমায়েদ (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা আমি রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহে ওয়াসাল্লামের খিদমতে আবেদন করি যে, আমাকে দু’আ শিক্ষা দেন। তখন তিনি বলেনঃ তুমি বল, ইয়া আল্লাহ! আমি কর্ণের অপকর্ম হতে, চোখের দুষ্টামি হতে, যবানের ধৃষ্টতা হতে, কলবের অপসৃষ্টি হতে, বীর্যের অপব্যবহার হতে রক্ষা পাওয়ার জন্য তোমার আশ্রয় প্রার্থনা করছি। (তিরমিযী, নাসাঈ)।
+। আবূ আহমাদ শাকাল ইবনু হুমাইদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রসূল! আমাকে একটি দু‘আ শিক্ষা দিন। তিনি বললেনঃ তুমি বলোঃ ‘‘হে আল্লাহ! আমি আপনার কাছে কানের অশ্লীল শ্রবণ, চোখের কুদৃষ্টি, জিহ্বার কুবাক্য, অন্তরের কপটতা ও কামনার অনিষ্টতা হতে আশ্রয় চাই।’’[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1551</td></tr><tr><td>Arabic No</td><td>1551</td></tr><tr><td>Reference</td><td>Book 8 Hadith 136</td></tr></tbody></table></div>
 

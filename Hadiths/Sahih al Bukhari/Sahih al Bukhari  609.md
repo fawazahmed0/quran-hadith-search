@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ عُمَرُ بْنُ عَبْدِ الْعَزِيزِ أَذِّنْ أَذَانًا سَمْحًا وَإِلاَّ فَاعْتَزِلْنَا. ‘উমার ইবনু ‘আবদুল ‘আযীয (রহ.) (মুআযযিনকে) বলতেন, স্বাভাবিক কন্ঠে সাদাসিধাভাবে আযান দাও, নতুবা এ পদ ছেড়ে দাও। ৬০৯. ‘আবদুল্লাহ্ ইবনু ‘আবদুর রহমান আনসারী মাযিনী (রহ.) হতে বর্ণিত তাকে তার পিতা সংবাদ দিয়েছেন যে, আবূ সা‘ঈদ খুদরী (রাযি.) তাঁকে বললেন, আমি দেখছি তুমি বক্রী চরানো এবং বন-জঙ্গলকে ভালোবাস। তাই তুমি যখন বক্রী নিয়ে থাক, বা বন-জঙ্গলে থাক এবং সালাতের জন্য আযান দাও, তখন উচ্চকন্ঠে আযান দাও। কেননা, জিন্, ইনসান বা যে কোন বস্তুই যতদূর পর্যন্ত মুয়ায্যিনের আওয়ায শুনবে, সে কিয়ামতের দিন তার পক্ষে সাক্ষ্য দিবে। আবূ সায়ীদ (রাযি.) বলেন, একথা আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট শুনেছি। (৩২৯৬, ৭৫৪৮) (আধুনিক প্রকাশনীঃ ৫৭৪, ইসলামিক ফাউন্ডেশনঃ ৫৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ عُمَرُ بْنُ عَبْدِ الْعَزِيزِ أَذِّنْ أَذَانًا سَمْحًا وَإِلاَّ فَاعْتَزِلْنَا. ‘উমার ইবনু ‘আবদুল ‘আযীয (রহ.) (মুআযযিনকে) বলতেন, স্বাভাবিক কন্ঠে সাদাসিধাভাবে আযান দাও, নতুবা এ পদ ছেড়ে দাও। ৬০৯. ‘আবদুল্লাহ্ ইবনু ‘আবদুর রহমান আনসারী মাযিনী (রহ.) হতে বর্ণিত তাকে তার পিতা সংবাদ দিয়েছেন যে, আবূ সা‘ঈদ খুদরী (রাযি.) তাঁকে বললেন, আমি দেখছি তুমি বক্রী চরানো এবং বন-জঙ্গলকে ভালোবাস। তাই তুমি যখন বক্রী নিয়ে থাক, বা বন-জঙ্গলে থাক এবং সালাতের জন্য আযান দাও, তখন উচ্চকন্ঠে আযান দাও। কেননা, জিন্, ইনসান বা যে কোন বস্তুই যতদূর পর্যন্ত মুয়ায্যিনের আওয়ায শুনবে, সে কিয়ামতের দিন তার পক্ষে সাক্ষ্য দিবে। আবূ সায়ীদ (রাযি.) বলেন, একথা আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট শুনেছি। (৩২৯৬, ৭৫৪৮) (আধুনিক প্রকাশনীঃ ৫৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 10 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அப்திர் ரஹ்மான் பின் அபீஸஅஸஆ அல் அன்சாரி (ரஹ்) அவர்கள் கூறியதாவது: என்னிடம் அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள், “ஆட்டையும் பாலைவனத்தை யும் விரும்புகின்றவராக உங்களை நான் காண்கிறேன். எனவே, நீங்கள் ‘ஆட்டை மேய்த்துக்கொண்டோ’ அல்லது ‘பாலை வனத்திலோ’ இருக்க, (தொழுகை நேரம் வந்து) நீங்கள் தொழுகை அறிவிப்புச் செய்தால், உங்கள் குரலை உயர்த்தி அறிவியுங்கள். ஏனெனில், தொழுகை அறிவிப்புச் செய்பவரின் குரல் ஒ-க்கும் தொலைவுவரை ஜின்களும் மனிதர்களும் பிற பொருள்களும் அதைக் கேட்டு (தொழுகை) அ(றிவிப்புச் செய்த)வருக்காக மறுமை நாளில் சாட்சியம் சொல்கின்றன” என்று கூறிவிட்டு, “இதை நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து செவியுற்றேன்” என்று சொன்னார்கள். அத்தியாயம் : 10
+அப்துல்லாஹ் பின் அப்திர் ரஹ்மான் பின் அபீஸஅஸஆ அல் அன்சாரி (ரஹ்) அவர்கள் கூறியதாவது: என்னிடம் அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள், “ஆட்டையும் பாலைவனத்தை யும் விரும்புகின்றவராக உங்களை நான் காண்கிறேன். எனவே, நீங்கள் ‘ஆட்டை மேய்த்துக்கொண்டோ’ அல்லது ‘பாலை வனத்திலோ’ இருக்க, (தொழுகை நேரம் வந்து) நீங்கள் தொழுகை அறிவிப்புச் செய்தால், உங்கள் குரலை உயர்த்தி அறிவியுங்கள். ஏனெனில், தொழுகை அறிவிப்புச் செய்பவரின் குரல் ஒ-க்கும் தொலைவுவரை ஜின்களும் மனிதர்களும் பிற பொருள்களும் அதைக் கேட்டு (தொழுகை) அ(றிவிப்புச் செய்த)வருக்காக மறுமை நாளில் சாட்சியம் சொல்கின்றன” என்று கூறிவிட்டு, “இதை நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து செவியுற்றேன்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 10 Hadith 7</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdurrahman bin Abdullah bin Abdirrahman bin Ebî Sa'sa'a el-Ensarî el-Mazini babasından, Ebu Saîd el-Hudri'nin ona şöyle haber verdiğini nakletmiştir: "Senin koyunları ve çöl'ü sevdiğini biliyorum. Koyunlarının yanında olduğun zaman veya çölde bulunduğun an, namaz için ezan okuyup da ünlenirken, yüksek sesle oku! Çünkü müezzinin sesini duyan bütün cinler, insanlar ve her şey kıyamet günü onun için şahitlik edecektir." Ebu Saîd "Bu sözü Rasulullah Sallallahu Aleyhi ve Sellem'den işittim" demiştir. Tekrar: 3296, 7548
+Abdurrahman bin Abdullah bin Abdirrahman bin Ebî Sa'sa'a el-Ensarî el-Mazini babasından, Ebu Saîd el-Hudri'nin ona şöyle haber verdiğini nakletmiştir: "Senin koyunları ve çöl'ü sevdiğini biliyorum. Koyunlarının yanında olduğun zaman veya çölde bulunduğun an, namaz için ezan okuyup da ünlenirken, yüksek sesle oku! Çünkü müezzinin sesini duyan bütün cinler, insanlar ve her şey kıyamet günü onun için şahitlik edecektir." Ebu Saîd "Bu sözü Rasulullah Sallallahu Aleyhi ve Sellem'den işittim" demiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 10 Hadith 7</td></tr></tbody></table></div>
 

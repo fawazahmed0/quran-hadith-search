@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ জুহায়ফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি ‘আলী (রাঃ)-কে জিজ্ঞেস করলাম, যা কুরআনে নেই এমন কিছু আপনাদের নিকট আছে কি? একবার তিনি বলেছেন, যা মানুষের নিকট নেই.....তখন তিনি বললেন, ঐ সত্তার কসম! যিনি খাদ্যশস্য অঙ্কুরিত করেন এবং প্রাণ সৃষ্টি করেন! কুরআনে যা কিছু আছে তা ছাড়া আমাদের নিকট অন্য কিছু নেই। তবে এমন জ্ঞান যা আল্লাহর কিতাব বুঝবার জন্য কোন ব্যক্তিকে দেয়া হয় এবং এ কাগজের টুকরায় যা রয়েছে। আমি জিজ্ঞেস করলাম, কাগজের টুকরায় কী রয়েছে? তিনি বললেন, রক্তপণ ও মুক্তিপণের বিধান। আর (এ নীতি) কোন কাফেরের বদলে কোন মুসলিমকে হত্যা করা হবে না।[1] [১১১] (আধুনিক প্রকাশনী- ৬৪২৪, ইসলামিক ফাউন্ডেশন- ৬৪৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ জুহায়ফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি ‘আলী (রাঃ)-কে জিজ্ঞেস করলাম, যা কুরআনে নেই এমন কিছু আপনাদের নিকট আছে কি? একবার তিনি বলেছেন, যা মানুষের নিকট নেই.....তখন তিনি বললেন, ঐ সত্তার কসম! যিনি খাদ্যশস্য অঙ্কুরিত করেন এবং প্রাণ সৃষ্টি করেন! কুরআনে যা কিছু আছে তা ছাড়া আমাদের নিকট অন্য কিছু নেই। তবে এমন জ্ঞান যা আল্লাহর কিতাব বুঝবার জন্য কোন ব্যক্তিকে দেয়া হয় এবং এ কাগজের টুকরায় যা রয়েছে। আমি জিজ্ঞেস করলাম, কাগজের টুকরায় কী রয়েছে? তিনি বললেন, রক্তপণ ও মুক্তিপণের বিধান। আর (এ নীতি) কোন কাফেরের বদলে কোন মুসলিমকে হত্যা করা হবে না।[1] [১১১] (আধুনিক প্রকাশনী- ৬৪২৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6903</td></tr><tr><td>Arabic No</td><td>6903</td></tr><tr><td>Reference</td><td>Book 87 Hadith 42</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ash-Shu'bi:I heard Abu Juhaifa saying, "I asked 'Ali 'Have you got any Divine literature apart from the Qur'an?' (Once he said...apart from what the people have?) 'Ali replied, 'By Him Who made the grain split (germinate) and created the soul, we have nothing except what is in the Qur'an and the ability (gift) of understanding Allah's Book which He may endow a man with and we have what is written in this paper.' I asked, 'What is written in this paper?' He replied, 'Al-'Aql (the regulation of Diya), about the ransom of captives, and the Judgment that a Muslim should not be killed in Qisas (equality in punishment) for killing a disbeliever." (See Hadith No. 283,Vol. 4)
+Narrated Ash-Shu'bi:I heard Abu Juhaifa saying, "I asked 'Ali 'Have you got any Divine literature apart from the Qur'an?' (Once he said...apart from what the people have?) 'Ali replied, 'By Him Who made the grain split (germinate) and created the soul, we have nothing except what is in the Qur'an and the ability (gift) of understanding Allah's Book which He may endow a man with and we have what is written in this paper.' I asked, 'What is written in this paper?' He replied, 'Al-'Aql (the regulation of Diya), about the ransom of captives, and the Judgment that a Muslim should not be killed in Qisas (equality in punishment) for killing a disbeliever." (See Hadith No. 283,Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6903</td></tr><tr><td>Arabic No</td><td>6903</td></tr><tr><td>Reference</td><td>Book 87 Hadith 42</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Shadaqah bin Al Fadhl] Telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஜுஹைஃபா (ரலி) அவர்கள் கூறியதாவது: நான் அலீ (ரலி) அவர்களிடம் (நபி (ஸல் அவர்களின் குடும்பத்தாராகிய) உங்களிடம் குர்ஆனில் இல்லாத ஏதேனும் (செய்தி) உள்ளதா?” என்று கேட்டேன். -அறிவிப்பாளர் சுஃப்யான் பின் உயைனா (ரஹ்) அவர்கள் சில வேளைகளில் “மக்களிடம் இல்லாத ஏதேனும் ஒன்று உங்களிடம் உள்ளதா?” என்று அபூஜுஹைஃபா (ரலி) அவர்கள் கேட்டார்கள் என அறிவித்துள்ளார்கள்.- அதற்கு அலீ (ரலி) அவர்கள், “வித்துக்களைப் பிளந்தவனும் உயிரி னங்களை உருவாக்கியவனுமான அல்லாஹ்வின் மீது சத்தியமாக! குர்ஆனில் இருப்பதைத் தவிர வேறெதுவும் (நபியின் குடும்பத்தாராகிய) எங்களிடம் இல்லை; இறைவேதத்தில் ஒரு மனிதருக்கு வழங்கப்படும் விளக்கத்தையும் இந்த ஏட்டில் உள்ளவற்றையும் தவிர” என்று கூறினார்கள். நான், “இந்த ஏட்டில் என்ன இருக்கிறது?” என்று கேட்டேன். அதற்கு அவர்கள், “இழப்பீடு (தொடர்பான விளக்கங்கள்), போர்க் கைதியை விடுவித்தல், இறைமறுப்பாளனுக்காக ஒரு முஸ்லிம் கொல்லப்படக் கூடாது ஆகிய விஷயங்கள் இதில் உள்ளன” என்றார்கள்.47 அத்தியாயம் : 87
+அபூஜுஹைஃபா (ரலி) அவர்கள் கூறியதாவது: நான் அலீ (ரலி) அவர்களிடம் (நபி (ஸல் அவர்களின் குடும்பத்தாராகிய) உங்களிடம் குர்ஆனில் இல்லாத ஏதேனும் (செய்தி) உள்ளதா?” என்று கேட்டேன். -அறிவிப்பாளர் சுஃப்யான் பின் உயைனா (ரஹ்) அவர்கள் சில வேளைகளில் “மக்களிடம் இல்லாத ஏதேனும் ஒன்று உங்களிடம் உள்ளதா?” என்று அபூஜுஹைஃபா (ரலி) அவர்கள் கேட்டார்கள் என அறிவித்துள்ளார்கள்.- அதற்கு அலீ (ரலி) அவர்கள், “வித்துக்களைப் பிளந்தவனும் உயிரி னங்களை உருவாக்கியவனுமான அல்லாஹ்வின் மீது சத்தியமாக! குர்ஆனில் இருப்பதைத் தவிர வேறெதுவும் (நபியின் குடும்பத்தாராகிய) எங்களிடம் இல்லை; இறைவேதத்தில் ஒரு மனிதருக்கு வழங்கப்படும் விளக்கத்தையும் இந்த ஏட்டில் உள்ளவற்றையும் தவிர” என்று கூறினார்கள். நான், “இந்த ஏட்டில் என்ன இருக்கிறது?” என்று கேட்டேன். அதற்கு அவர்கள், “இழப்பீடு (தொடர்பான விளக்கங்கள்), போர்க் கைதியை விடுவித்தல், இறைமறுப்பாளனுக்காக ஒரு முஸ்லிம் கொல்லப்படக் கூடாது ஆகிய விஷயங்கள் இதில் உள்ளன” என்றார்கள்.47 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6903</td></tr><tr><td>Arabic No</td><td>6903</td></tr><tr><td>Reference</td><td>Book 87 Hadith 42</td></tr></tbody></table></div>
 

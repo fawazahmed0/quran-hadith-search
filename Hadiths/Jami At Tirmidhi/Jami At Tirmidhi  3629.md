@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬২৯। আবূ যাইদ ইবনু আখত্বাব (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার হাতখানা আমার চেহারায় মর্দন করেন এবং আমার জন্য দু'আ করেন। বর্ণনাকারী আযরাহ (রাহঃ) বলেন, ঐ লোকটি (দু'আর বারাকাতে) একশত বিশ বছর জীবিত ছিলেন অথচ তার মাথার মাত্র কয়েকটি চুল সাদা হয়েছিল। সহীহঃ তা’লীকাতুল হাসসান (৭১২৮)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। আবূ যাইদের নাম 'আমর ইবনু আখতাব।
+। আবূ যাইদ ইবনু আখত্বাব (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার হাতখানা আমার চেহারায় মর্দন করেন এবং আমার জন্য দু'আ করেন। বর্ণনাকারী আযরাহ (রাহঃ) বলেন, ঐ লোকটি (দু'আর বারাকাতে) একশত বিশ বছর জীবিত ছিলেন অথচ তার মাথার মাত্র কয়েকটি চুল সাদা হয়েছিল। সহীহঃ তা’লীকাতুল হাসসান (৭১২৮)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। আবূ যাইদের নাম 'আমর ইবনু আখতাব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3629</td></tr><tr><td>Arabic No</td><td>3629</td></tr><tr><td>Reference</td><td>Book 49 Hadith 25</td></tr></tbody></table></div>
 

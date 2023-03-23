@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬০। আবু উমামা (রাঃ) হতে বর্ণনা আছে, রাসূলুল্লাহ সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম বলেছেনঃ তিন ব্যক্তির নামায তাদের কান ডিঙ্গায় না (কবুল হয় না)। পলায়নকারী দাস যে পর্যন্ত তার মালিকের নিকটে ফিরে না আসে; যে মহিলা তার স্বামীর বিরাগ নিয়ে রাত কাটায় এবং যে ইমামকে তার সম্প্রদায়ের লোকেরা পছন্দ করে না। -হাসান। মিশকাত- (১১২২)। আবু ঈসা বলেনঃ এ সূত্রে হাদীসটি হাসান গারীব। আবু গালিবের নাম হাযাওয়ার।
+। আবু উমামা (রাঃ) হতে বর্ণনা আছে, রাসূলুল্লাহ সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম বলেছেনঃ তিন ব্যক্তির নামায তাদের কান ডিঙ্গায় না (কবুল হয় না)। পলায়নকারী দাস যে পর্যন্ত তার মালিকের নিকটে ফিরে না আসে; যে মহিলা তার স্বামীর বিরাগ নিয়ে রাত কাটায় এবং যে ইমামকে তার সম্প্রদায়ের লোকেরা পছন্দ করে না। -হাসান। মিশকাত- (১১২২)। আবু ঈসা বলেনঃ এ সূত্রে হাদীসটি হাসান গারীব। আবু গালিবের নাম হাযাওয়ার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>360</td></tr><tr><td>Arabic No</td><td>360</td></tr><tr><td>Reference</td><td>Book 2 Hadith 212</td></tr></tbody></table></div>
 

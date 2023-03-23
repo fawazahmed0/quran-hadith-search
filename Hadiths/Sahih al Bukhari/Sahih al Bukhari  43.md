@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার তাঁর নিকট আসেন, তাঁর নিকট তখন এক মহিলা ছিলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম র্ জিজ্ঞেস করলেনঃ ‘ইনি কে?’ ‘আয়িশাহ (রাযি.) উত্তর দিলেন, অমুক মহিলা, এ বলে তিনি তাঁর সালাতের উল্লেখ করলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ ‘থাম, তোমরা যতটুকু সামর্থ্য রাখ, ততটুকুই তোমাদের করা উচিত। আল্লাহর শপথ! আল্লাহ্ তা‘আলা ততক্ষণ পর্যন্ত (সওয়াব দিতে) বিরত হন না, যতক্ষণ না তোমরা নিজেরা পরিশ্রান্ত হয়ে পড়। আল্লাহর নিকট অধিক পছন্দনীয় আমল সেটাই, যা আমলকারী নিয়মিত করে থাকে। (১১৫১; মুসলিম ২/৩১ হাঃ ৭৮৫, আহমাদ ২৪৯৯) (আধুনিক প্রকাশনীঃ ৪১, ইসলামিক ফাউন্ডেশনঃ ৪১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার তাঁর নিকট আসেন, তাঁর নিকট তখন এক মহিলা ছিলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম র্ জিজ্ঞেস করলেনঃ ‘ইনি কে?’ ‘আয়িশাহ (রাযি.) উত্তর দিলেন, অমুক মহিলা, এ বলে তিনি তাঁর সালাতের উল্লেখ করলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ ‘থাম, তোমরা যতটুকু সামর্থ্য রাখ, ততটুকুই তোমাদের করা উচিত। আল্লাহর শপথ! আল্লাহ্ তা‘আলা ততক্ষণ পর্যন্ত (সওয়াব দিতে) বিরত হন না, যতক্ষণ না তোমরা নিজেরা পরিশ্রান্ত হয়ে পড়। আল্লাহর নিকট অধিক পছন্দনীয় আমল সেটাই, যা আমলকারী নিয়মিত করে থাকে। (১১৫১; মুসলিম ২/৩১ হাঃ ৭৮৫, আহমাদ ২৪৯৯) (আধুনিক প্রকাশনীঃ ৪১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>43</td></tr><tr><td>Arabic No</td><td>43</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: என்னிடத்தில் ஒரு பெண்மணி அமர்ந்திருக்கும்போது நபி (ஸல்) அவர்கள் (வீட்டுக்கு) வந்தார்கள். “யார் இவர்?” என்று கேட்டார்கள். நான் “இவர் இன்னவர்?” என்று கூறிவிட்டு, அவரது தொழுகையைப் பற்றி (சிலாகித்து)க் கூறினேன். அப்போது நபி (ஸல்) அவர்கள், “போதும் நிறுத்து! (வழிபாடுகளில்) உங்களால் முடிந்தவற்றைச் செய்துவாருங்கள். அல்லாஹ்வின் மீதாணையாக! நீங்கள் சலிப்படையாத வரை அல்லாஹ் சலிப்படையமாட்டான். மேலும், மார்க்கத்தின் நல்லறங்களில் அல்லாஹ்வுக்கு மிகவும் விருப்பமானவை, ஒருவர் நிரந்தரமாகச் செய்யும் நற்செயல்கள்தான்” என்று கூறினார்கள். அத்தியாயம் : 2
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: என்னிடத்தில் ஒரு பெண்மணி அமர்ந்திருக்கும்போது நபி (ஸல்) அவர்கள் (வீட்டுக்கு) வந்தார்கள். “யார் இவர்?” என்று கேட்டார்கள். நான் “இவர் இன்னவர்?” என்று கூறிவிட்டு, அவரது தொழுகையைப் பற்றி (சிலாகித்து)க் கூறினேன். அப்போது நபி (ஸல்) அவர்கள், “போதும் நிறுத்து! (வழிபாடுகளில்) உங்களால் முடிந்தவற்றைச் செய்துவாருங்கள். அல்லாஹ்வின் மீதாணையாக! நீங்கள் சலிப்படையாத வரை அல்லாஹ் சலிப்படையமாட்டான். மேலும், மார்க்கத்தின் நல்லறங்களில் அல்லாஹ்வுக்கு மிகவும் விருப்பமானவை, ஒருவர் நிரந்தரமாகச் செய்யும் நற்செயல்கள்தான்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>43</td></tr><tr><td>Arabic No</td><td>43</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceri
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe r.anha'den rivayet edildiğine göre bir gün onun yanında bir kadın otururken Nebi Sallallahu Aleyhi ve Sellem yanlarına girerek sordu: Bu hanım kimdir? Hz. Âişe şöyle cevap verdi: Falancadır, o şöyle şöyle namaz kılan bir kadındır. (Hz. Âişe, kadının kıldığı namazları Nebi Sallallahu Aleyhi ve Sellem'e anlatmaya başladı.) Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Dur bakalım, bunları saymayı bırak! Gücünüzün yettiği amelleri yapın. Allah'a andolsun ki siz usanmadıkça Allah usanmaz". Resulullah'in en çok sevdiği din (amel), sahibinin devam ettiği (amel) idi. Tekrar: 1151
+Âişe r.anha'den rivayet edildiğine göre bir gün onun yanında bir kadın otururken Nebi Sallallahu Aleyhi ve Sellem yanlarına girerek sordu: Bu hanım kimdir? Hz. Âişe şöyle cevap verdi: Falancadır, o şöyle şöyle namaz kılan bir kadındır. (Hz. Âişe, kadının kıldığı namazları Nebi Sallallahu Aleyhi ve Sellem'e anlatmaya başladı.) Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Dur bakalım, bunları saymayı bırak! Gücünüzün yettiği amelleri yapın. Allah'a andolsun ki siz usanmadıkça Allah usanmaz". Resulullah'in en çok sevdiği din (amel), sahibinin devam ettiği (amel) idi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>43</td></tr><tr><td>Arabic No</td><td>43</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
 

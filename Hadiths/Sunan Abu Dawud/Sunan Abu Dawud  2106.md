@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন উবায়দ ..... আবূ আল-আজফা আস সুলামী (রহঃ) হতে বর্ণিত। তিনি বলেন, উমার (রাঃ) খুতবা প্রদানের সময় বলেন, তোমরা (স্ত্রীদের) মাহর নির্ধারণের ব্যাপারে বাড়াবাড়ি করবে না। যদি তা দুনিয়াতে সম্মানের বস্তু হত অথবা আল্লাহর নিকট তাকওয়ার বস্তু হত, তবে তা পাওয়ার যোগ্যতম ব্যক্তি হতেন নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর স্ত্রীদের এবং তাঁর কোন কন্যাদের জন্য বারো উকীয়ার অধিক পরিমাণ মাহর ধার্য করেননি।
+। আবুল আজফা আস্-সুলামী (রহ.) সূত্রে বর্ণিত। তিনি বলেন, একদা উমার (রাযি.) আমাদের উদ্দেশ্যে ভাষণে বলেন, সাবধান! তোমরা নারীদের মোহর নির্ধারণে সীমালঙ্ঘন করো না। কারণ যদি তা দুনিয়ার মর্যাদার বস্তু হতো এবং আল্লাহর নিকট পরহেযগারীর বস্তু হতো, তবে তোমাদের চেয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতেন এর যোগ্যতম ব্যক্তি। অথচ তিনি তাঁর স্ত্রীদের কারো মোহর এবং তাঁর কন্যাদের কারো মোহর বারো ঊকিয়ার অধিক ধার্য করেননি।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2106</td></tr><tr><td>Arabic No</td><td>2106</td></tr><tr><td>Reference</td><td>Book 12 Hadith 61</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Ubaid], telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebü'L-Acfâ es-Sülemî'den; demiştir ki: Ömer (r.a.) bize bir hutbe irâd ederek (şöyle) dedi: "Dikkat ediniz, kadınların mehrinde aşırı gitmeyiniz. Zira mehirleri çoğaltmak dünyada kendisiyle övünülecek birşey veya Allah katında bir takva olsaydı, ona Peygamber (s.a.v.) sizden daha lâyık idi. Oysa ne Resûlullah (s.a.v.) kadınlarından birine on iki okkadan (fazla) mehir verdi ne de kızlarından birine on iki okkadan fazla mehir verildi." Diğer tahric: Tirmizi, nikah, Nesai, nikah, İbni Mace, nikah (1887), Darimi, nikah, Ahmed b. Hanbel, I, 41, 48
+Ebü'L-Acfâ es-Sülemî'den; demiştir ki: Ömer (r.a.) bize bir hutbe irâd ederek (şöyle) dedi: "Dikkat ediniz, kadınların mehrinde aşırı gitmeyiniz. Zira mehirleri çoğaltmak dünyada kendisiyle övünülecek birşey veya Allah katında bir takva olsaydı, ona Peygamber (s.a.v.) sizden daha lâyık idi. Oysa ne Resûlullah (s.a.v.) kadınlarından birine on iki okkadan (fazla) mehir verdi ne de kızlarından birine on iki okkadan fazla mehir verildi." Diğer tahric: Tirmizi, nikah, Nesai, nikah, İbni Mace, nikah (1887), Darimi, nikah, Ahmed b. Hanbel, I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2106</td></tr><tr><td>Arabic No</td><td>2106</td></tr><tr><td>Reference</td><td>Book 12 Hadith 61</td></tr></tbody></table></div>
 

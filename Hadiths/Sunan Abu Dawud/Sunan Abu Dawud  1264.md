@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্বাস আল আনবারী এবং যিয়াদ ইবন ইয়াহিয়া (রহঃ) ...... আবু বাকরা (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে ফজরের নামাযে যাই। এই সময় তিনি কোন ব্যাক্তির পাশ দিয়ে যাওয়ার সময় তাঁকে নামাযের জন্য আহবান করতেন অথবা তাঁর পা দিয়ে স্পর্শ করতেন (সাধারণত ফজরের সুন্নাত নামায আদায়ের পর যারা আরামের জন্য ক্ষণিক শয়ন করত, তিনি তাদেরকে এইরূপে ডাকতেন)।
+। মুসলিম ইবনু আবূ বাকরাহ (রাঃ) হতে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে ফজরের সালাতের জন্য বের হলাম। তিনি কারোর নিকট দিয়ে যাওয়ার সময় তাকে সালাতের জন্য আহবান করতেন অথবা তাঁর পা দিয়ে তাকে নাড়া দিতেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1264</td></tr><tr><td>Arabic No</td><td>1264</td></tr><tr><td>Reference</td><td>Book 5 Hadith 15</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abbas Al 'Anbari] dan [Ziyad bin Yahya] keduanya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Bekre (r.a.)'den; demiştir ki: Nebi (s.a.v.) ile sabah namazı için (evden) çıkmıştım. Uğradığı her adamı ya namaza çağırıyordu veya (uyandırmak için) onu ayağıyla kımıldatıyordu. Ziyad dediki: (Bu hadisi Ebu Mekin) "Bize Ebu Fudayl haber verdi" diye tahdis siğasıyla nakletti. Diğer tahric: Beyhakî, es-Sünenü'l-kübrâ, III, 46
+Ebû Bekre (r.a.)'den; demiştir ki: Nebi (s.a.v.) ile sabah namazı için (evden) çıkmıştım. Uğradığı her adamı ya namaza çağırıyordu veya (uyandırmak için) onu ayağıyla kımıldatıyordu. Ziyad dediki: (Bu hadisi Ebu Mekin) "Bize Ebu Fudayl haber verdi" diye tahdis siğasıyla nakletti. Diğer tahric: Beyhakî, es-Sünenü'l-kübrâ, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1264</td></tr><tr><td>Arabic No</td><td>1264</td></tr><tr><td>Reference</td><td>Book 5 Hadith 15</td></tr></tbody></table></div>
 

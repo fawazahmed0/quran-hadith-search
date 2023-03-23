@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আবদুর রাহমান ইবনু আওফ (রাঃ) ও যুবায়র (রাঃ)-কে তাদের শরীরে চুলকানি থাকায় রেশমী জামা পরিধান করতে অনুমতি দিয়েছিলেন। (২৯২০, ২৯২১, ২৯২২, ৫৮৩৯) (মুসলিম ৩৭/৩ হাঃ ২০৭৬, আহমাদ ১২৮৬৩) (আধুনিক প্রকাশনীঃ ২৭০৪, ইসলামিক ফাউন্ডেশনঃ ২৭১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আবদুর রাহমান ইবনু আওফ (রাঃ) ও যুবায়র (রাঃ)-কে তাদের শরীরে চুলকানি থাকায় রেশমী জামা পরিধান করতে অনুমতি দিয়েছিলেন। (২৯২০, ২৯২১, ২৯২২, ৫৮৩৯) (মুসলিম ৩৭/৩ হাঃ ২০৭৬, আহমাদ ১২৮৬৩) (আধুনিক প্রকাশনীঃ ২৭০৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2919</td></tr><tr><td>Arabic No</td><td>2919</td></tr><tr><td>Reference</td><td>Book 56 Hadith 132</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ahmad bin Al Miqdam] telah bercerita kepada kami [K
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அப்துர் ரஹ்மான் பின் அவ்ஃப் (ரலி), ஸுபைர் (ரலி) ஆகியோருக்குச் சொறி சிரங்கு இருந்த காரணத்தால் அவர்களுக்கு (மட்டும்) பட்டாடை அணிந்துகொள்ள நபி (ஸல்) அவர்கள் அனுமதி கொடுத்தார்கள். அத்தியாயம் : 56
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அப்துர் ரஹ்மான் பின் அவ்ஃப் (ரலி), ஸுபைர் (ரலி) ஆகியோருக்குச் சொறி சிரங்கு இருந்த காரணத்தால் அவர்களுக்கு (மட்டும்) பட்டாடை அணிந்துகொள்ள நபி (ஸல்) அவர்கள் அனுமதி கொடுத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2919</td></tr><tr><td>Arabic No</td><td>2919</td></tr><tr><td>Reference</td><td>Book 56 Hadith 132</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৭১, আন্তর্জাতিক নাম্বারঃ ২৯৭ ৫৭১-(৬/২৯৭) ইয়াহইয়া ইবনু আল মুসান্না (রহঃ) ..... আয়িশাহ (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন ইতিকাফ করতেন তখন আমার দিকে তার মাথা ঝুঁকিয়ে দিতেন। আমি তা আঁচড়ে দিতাম। (ইতিকাফ কালে) তিনি ঘরে প্রবেশ করতেন না প্রাকৃতিক প্রয়োজন (যেমন প্রস্রাব পায়খানা) ছাড়া। (ইসলামিক ফাউন্ডেশনঃ ৫৭৫, ইসলামিক সেন্টারঃ ৫৯১)
+ইয়াহইয়া ইবনু আল মুসান্না (রহঃ) ..... আয়িশাহ (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন ইতিকাফ করতেন তখন আমার দিকে তার মাথা ঝুঁকিয়ে দিতেন। আমি তা আঁচড়ে দিতাম। (ইতিকাফ কালে) তিনি ঘরে প্রবেশ করতেন না প্রাকৃতিক প্রয়োজন (যেমন প্রস্রাব পায়খানা) ছাড়া। (ইসলামিক ফাউন্ডেশনঃ ৫৭৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>684</td></tr><tr><td>Arabic No</td><td>297.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; bacakan di hadapan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பள்ளிவாசலில் இஃதிகாஃப் இருந்துகொண்டிருக்கும் போது (அருகிலிருக்கும் வீட்டிலிருந்த) என் பக்கம் தலையை நீட்டுவார்கள். நான் அவர்களுக்குத் தலை வாரிவிடுவேன். இயற்கைத் தேவைக்காக மட்டுமே வீட்டுக்குள் நுழைவார்கள். அத்தியாயம் : 3
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பள்ளிவாசலில் இஃதிகாஃப் இருந்துகொண்டிருக்கும் போது (அருகிலிருக்கும் வீட்டிலிருந்த) என் பக்கம் தலையை நீட்டுவார்கள். நான் அவர்களுக்குத் தலை வாரிவிடுவேன். இயற்கைத் தேவைக்காக மட்டுமே வீட்டுக்குள் நுழைவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>684</td></tr><tr><td>Arabic No</td><td>297.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; bacakan di hadapan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Yahya b. Malik tahdis edip dedi ki: Malik'e, İbn Şihab'dan diye okudu. O Urve'den, o Amre'den, o Aişe'den şöyle dediğini nakletti: Resulullah (Sallallahu aleyhi ve Sellem) itikafa girdiği zaman başını bana doğru yaklaştırır, ben de saçlarını tarardım. Eve de insanın bir ihtiyacı dışında bir sebeple girmezdi. Diğer tahric: Ebu Davud, 2467, 2468
+Bize Yahya b. Malik tahdis edip dedi ki: Malik'e, İbn Şihab'dan diye okudu. O Urve'den, o Amre'den, o Aişe'den şöyle dediğini nakletti: Resulullah (Sallallahu aleyhi ve Sellem) itikafa girdiği zaman başını bana doğru yaklaştırır, ben de saçlarını tarardım. Eve de insanın bir ihtiyacı dışında bir sebeple girmezdi. Diğer tahric: Ebu Davud
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>684</td></tr><tr><td>Arabic No</td><td>297.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
 

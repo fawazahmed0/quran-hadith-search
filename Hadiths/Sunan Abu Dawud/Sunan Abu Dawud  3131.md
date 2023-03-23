@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... জনৈক বায়'আত গ্রহণকারী মহিলা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের কাছ থেকে যে সব ব্যাপারে অংগীকার গ্রহণ করেন, তার মাঝে উত্তম ব্যাপার এ ছিল যে, আমরা তাঁর নাফরমানী করব না, আমাদের চেহারা নখ দিয়ে আঁচড়ে ক্ষত-বিক্ষত করব না, ধ্বংসের আহবান করব না, জামার বক্ষদেশ ফেঁড়ে ফেলব না এবং মাথার চুল অবিন্যস্ত করব না।
+। আসীদ ইবনু আবূ আসীদ (রহঃ) সূত্রে বর্ণিত। তিনি বাই‘আত গ্রহণকারী জনৈক মহিলার সূত্রে বর্ণনা করেন যে, তিনি বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের কাছ থেকে যেসব সৎকাজের বাই‘আত গ্রহণ করেছিলেন তাতে এটাও ছিলোঃ ‘আমরা তাঁর অবাধ্য হবো না, মুখমন্ডল ক্ষতবিক্ষত করবো না, বুক চাপড়াবো না, ধ্বংসের আহবান করবো না, কাপড়-চোপড় ফাঁড়বো না এবং চুল এলোমেলো করবো না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3131</td></tr><tr><td>Arabic No</td><td>3131</td></tr><tr><td>Reference</td><td>Book 21 Hadith 43</td></tr></tbody></table></div>
 

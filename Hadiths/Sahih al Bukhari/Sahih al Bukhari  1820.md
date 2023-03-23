@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি এ ঘরের (বাইতুল্লাহর) হাজ্জ আদায় করল, অশ্লীলতায় জড়িত হল না এবং আল্লাহর অবাধ্যতা করল না, সে মায়ের পেট হতে সদ্য প্রসূত শিশুর ন্যায় (হাজ্জ হতে) প্রত্যাবর্তন করল। (১৫২১) (আধুনিক প্রকাশনীঃ ১৬৯০. ইসলামিক ফাউন্ডেশনঃ ১৭০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি এ ঘরের (বাইতুল্লাহর) হাজ্জ আদায় করল, অশ্লীলতায় জড়িত হল না এবং আল্লাহর অবাধ্যতা করল না, সে মায়ের পেট হতে সদ্য প্রসূত শিশুর ন্যায় (হাজ্জ হতে) প্রত্যাবর্তন করল। (১৫২১) (আধুনিক প্রকাশনীঃ ১৬৯০. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1820</td></tr><tr><td>Arabic No</td><td>1820</td></tr><tr><td>Reference</td><td>Book 27 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: யார் தாம்பத்திய உறவு கொள்ளாமலும் எந்தப் பாவமும் செய்யாமலும் இந்த ஆலயத்தை ஹஜ் செய்கிறாரோ அவர் அன்று பிறந்த பாலகனைப் போன்று திரும்புகிறார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 27
+நபி (ஸல்) அவர்கள் கூறினார்கள்: யார் தாம்பத்திய உறவு கொள்ளாமலும் எந்தப் பாவமும் செய்யாமலும் இந்த ஆலயத்தை ஹஜ் செய்கிறாரோ அவர் அன்று பிறந்த பாலகனைப் போன்று திரும்புகிறார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1820</td></tr><tr><td>Arabic No</td><td>1820</td></tr><tr><td>Reference</td><td>Book 27 Hadith 15</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন যে, ফেরেশতামন্ডলী মেঘমালার আড়ালে অবতরণ করেন এবং আকাশের ফায়সালাসমূহ আলোচনা করেন। তখন শয়তানেরা তা চুরি করে শোনার চেষ্টা করে এবং তার কিছু শোনেও ফেলে। অতঃপর তারা সেটা গণকের নিকট পৌঁছে দেয় এবং তারা তার সেই শোনা কথার সঙ্গে নিজেদের আরো শত মিথ্যা মিলিয়ে বলে থাকে। (৩২৮৮, ৫৭৬২, ৬২১৩, ৭৫৬১) (আধুনিক প্রকাশনীঃ ২৯৭০, ই. ফা ২৯৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন যে, ফেরেশতামন্ডলী মেঘমালার আড়ালে অবতরণ করেন এবং আকাশের ফায়সালাসমূহ আলোচনা করেন। তখন শয়তানেরা তা চুরি করে শোনার চেষ্টা করে এবং তার কিছু শোনেও ফেলে। অতঃপর তারা সেটা গণকের নিকট পৌঁছে দেয় এবং তারা তার সেই শোনা কথার সঙ্গে নিজেদের আরো শত মিথ্যা মিলিয়ে বলে থাকে। (৩২৮৮, ৫৭৬২, ৬২১৩, ৭৫৬১) (আধুনিক প্রকাশনীঃ ২৯৭০, ই. ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>3210</td></tr><tr><td>Reference</td><td>Book 59 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami Muhammad telah bercerita kepada kami [Ibnu Abi Marya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வானவர்கள் மேகத்தில் இறங்கி, விண்ணில் தீர்மானிக்கப்பட்ட விஷயங்கள் குறித்துப் பேசிக்கொள்கிறார்கள். ஷைத்தான்கள் திருட்டுத்தனமாக (ஒளிந் திருந்து) அவற்றை ஒட்டுக்கேட்டு, சோதிடர்களுக்கு அவற்றை (உள்ளுதிப்பாக) அறிவித்துவிடுகின்றன. சோதிடர்கள் அதனுடன் (அந்த உண்மையுடன்) நூறு பொய்களைத் தம் தரப்பிலிருந்து புனைந்து (சேர்த்துக்) கூறுவார்கள்.23 இதை நபி (ஸல்) அவர்களின் துணைவியாரான ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வானவர்கள் மேகத்தில் இறங்கி, விண்ணில் தீர்மானிக்கப்பட்ட விஷயங்கள் குறித்துப் பேசிக்கொள்கிறார்கள். ஷைத்தான்கள் திருட்டுத்தனமாக (ஒளிந் திருந்து) அவற்றை ஒட்டுக்கேட்டு, சோதிடர்களுக்கு அவற்றை (உள்ளுதிப்பாக) அறிவித்துவிடுகின்றன. சோதிடர்கள் அதனுடன் (அந்த உண்மையுடன்) நூறு பொய்களைத் தம் தரப்பிலிருந்து புனைந்து (சேர்த்துக்) கூறுவார்கள்.23 இதை நபி (ஸல்) அவர்களின் துணைவியாரான ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>3210</td></tr><tr><td>Reference</td><td>Book 59 Hadith 21</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami Muhammad telah bercerita kepada kami [Ibnu Abi Marya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (radiyallahu anha)’dan nakledilmiştir: "Resulullah (Sallallahu Aleyhi ve Sellem)’in şunları söylediğini işittim: "Melekler bulut içerisinde inerler ve gökte olacağı yazılan hususları konuşurlar. Şeytanlar da bu konuşulanları duymak için sinsi sinsi hareket ederler. Kimisi duyar ve duyduklarını kahinlere fısıldar. Bu sırada da söylediklerine kendi uydurdukları yüz yalan daha katarlar. " Tekrarı: 3288, 5762, 6213, 7561
+Aişe (radiyallahu anha)’dan nakledilmiştir: "Resulullah (Sallallahu Aleyhi ve Sellem)’in şunları söylediğini işittim: "Melekler bulut içerisinde inerler ve gökte olacağı yazılan hususları konuşurlar. Şeytanlar da bu konuşulanları duymak için sinsi sinsi hareket ederler. Kimisi duyar ve duyduklarını kahinlere fısıldar. Bu sırada da söylediklerine kendi uydurdukları yüz yalan daha katarlar. " Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>3210</td></tr><tr><td>Reference</td><td>Book 59 Hadith 21</td></tr></tbody></table></div>
 

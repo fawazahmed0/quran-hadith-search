@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০০১। নাফি ইবনু জুবাইর ইবনু মুতঈম (রাঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, তিনি (যুবাইর) বলেন, তোমরা বলে থাক আমার মধ্যে অহংকার রয়েছে। অথচ আমি গাধায় আরোহণ করি, চাদর পরিধান এবং ছাগলের দুধ দোহন করি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে এ কাজগুলো করে তার মধ্যে সামান্যতম অহংকারও নেই। সনদ সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ্ গরীব।
+। নাফি ইবনু জুবাইর ইবনু মুতঈম (রাঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, তিনি (যুবাইর) বলেন, তোমরা বলে থাক আমার মধ্যে অহংকার রয়েছে। অথচ আমি গাধায় আরোহণ করি, চাদর পরিধান এবং ছাগলের দুধ দোহন করি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে এ কাজগুলো করে তার মধ্যে সামান্যতম অহংকারও নেই। সনদ সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ্ গরীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2001</td></tr><tr><td>Arabic No</td><td>2001</td></tr><tr><td>Reference</td><td>Book 27 Hadith 107</td></tr></tbody></table></div>
 

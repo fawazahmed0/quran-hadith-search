@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৫৭, আন্তর্জাতিক নাম্বারঃ ৮৫ ১৫৭-(১৪০/...) উসমান ইবনু আবূ শাইবাহ্ (রহঃ) ... 'আবদুল্লাহ (রাযিঃ) থেকে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, সঠিক সময়ে সালাত আদায় করা এবং পিতা-মাতার প্রতি সদ্ব্যবহার করা আমলসমূহের মধ্যে বা আমলের মধ্যে সর্বোত্তম আমল। (ইসলামিক ফাউন্ডেশনঃ ১৫৮, ইসলামিক সেন্টারঃ ১৬৪)
+উসমান ইবনু আবূ শাইবাহ্ (রহঃ) ... 'আবদুল্লাহ (রাযিঃ) থেকে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, সঠিক সময়ে সালাত আদায় করা এবং পিতা-মাতার প্রতি সদ্ব্যবহার করা আমলসমূহের মধ্যে বা আমলের মধ্যে সর্বোত্তম আমল। (ইসলামিক ফাউন্ডেশনঃ ১৫৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>256</td></tr><tr><td>Arabic No</td><td>85.05</td></tr><tr><td>Reference</td><td>Book 1 Hadith 162</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: "நற்செயல்களில்" அல்லது "நற்செயலில்" சிறந்தது உரிய நேரத்தில் தொழுகையை நிறைவேற்றுவதும் தாய் தந்தையருக்கு நன்மை புரிவதுமாகும் இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 1
+நபி (ஸல்) அவர்கள் கூறினார்கள்: "நற்செயல்களில்" அல்லது "நற்செயலில்" சிறந்தது உரிய நேரத்தில் தொழுகையை நிறைவேற்றுவதும் தாய் தந்தையருக்கு நன்மை புரிவதுமாகும் இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>256</td></tr><tr><td>Arabic No</td><td>85.05</td></tr><tr><td>Reference</td><td>Book 1 Hadith 162</td></tr></tbody></table></div>
 

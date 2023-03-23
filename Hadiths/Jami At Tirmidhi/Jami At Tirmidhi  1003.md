@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০০৩। আবু মূসা আশআরী (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি মারা যাওয়ার পর তার জন্য ক্ৰন্দনকারীরা যখন কঁদে আর বলে, হায় আমাদের পাহাড় হে আমাদের নেতা বা অনুরূপ কোন কথা, তখন দুইজন ফিরিশতা ঐ মৃত ব্যক্তির জন্য নিয়োগ করা হয়। তারা তার বুকে ঘুষি মারে আর বলতে থাকে, তুমি কি এরূপ ছিলে? – হাসান, ইবনু মা-জাহ (১৫৯৪) এই হাদীসটিকে আবু ঈসা হাসান গরীব বলেছেন।
+। আবু মূসা আশআরী (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি মারা যাওয়ার পর তার জন্য ক্ৰন্দনকারীরা যখন কঁদে আর বলে, হায় আমাদের পাহাড় হে আমাদের নেতা বা অনুরূপ কোন কথা, তখন দুইজন ফিরিশতা ঐ মৃত ব্যক্তির জন্য নিয়োগ করা হয়। তারা তার বুকে ঘুষি মারে আর বলতে থাকে, তুমি কি এরূপ ছিলে? – হাসান, ইবনু মা-জাহ (১৫৯৪) এই হাদীসটিকে আবু ঈসা হাসান গরীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1003</td></tr><tr><td>Arabic No</td><td>1003</td></tr><tr><td>Reference</td><td>Book 10 Hadith 39</td></tr></tbody></table></div>
 

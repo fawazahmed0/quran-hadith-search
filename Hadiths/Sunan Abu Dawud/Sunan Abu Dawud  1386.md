@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ ইবন মুআয (রহঃ) ..... মুআবিয়া ইবন আবু সুফিয়ান (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম হতে শবে কদর সম্পর্কে বর্ণনা করেছেন। তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেনঃ রমযানের ২৭ তারিখ হল লাইলাতুল কদর।
+। মু‘আবিয়াহ ইবনু আবূ সুফিয়ান রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লাইলাতুল ক্বদর সম্পর্কে বলেছেনঃ লাইলাতুল ক্বদর সাতাইশের রাতে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1386</td></tr><tr><td>Arabic No</td><td>1386</td></tr><tr><td>Reference</td><td>Book 6 Hadith 16</td></tr></tbody></table></div>
 

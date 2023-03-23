@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন মহিলার সাথে কোন মাহরাম পুরুষ না থাকলে, সে যেন তিন দিনের সফর না করে। আহমাদ (রহ.)....ইবনু ‘উমার (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হাদীস বর্ণনায় ‘উবাইদুল্লাহ্ (রহ.)-এর অনুসরণ করেছেন। (১০৮৬) (আধুনিক প্রকাশনীঃ ১০২১, ইসলামিক ফাউন্ডেশনঃ ১০২৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন মহিলার সাথে কোন মাহরাম পুরুষ না থাকলে, সে যেন তিন দিনের সফর না করে। আহমাদ (রহ.)....ইবনু ‘উমার (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হাদীস বর্ণনায় ‘উবাইদুল্লাহ্ (রহ.)-এর অনুসরণ করেছেন। (১০৮৬) (আধুনিক প্রকাশনীঃ ১০২১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1087</td></tr><tr><td>Arabic No</td><td>1087</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: எந்தப் பெண்ணும் மணம் முடிக்கத் தகாத நெருங்கிய ஆண் உறவினர் உடன் இல்லாமல் (தனியாக) மூன்று நாட்களுக் கான பயணம் மேற்கொள்ள வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக் கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 18
+நபி (ஸல்) அவர்கள் கூறினார்கள்: எந்தப் பெண்ணும் மணம் முடிக்கத் தகாத நெருங்கிய ஆண் உறவினர் உடன் இல்லாமல் (தனியாக) மூன்று நாட்களுக் கான பயணம் மேற்கொள்ள வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக் கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1087</td></tr><tr><td>Arabic No</td><td>1087</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
 

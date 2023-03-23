@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ হে আল্লাহ! নিশ্চয়ই আমি আপনার কাছে আশ্রয় চাই- দুশ্চিন্তা, পেরেশানী, অক্ষমতা, অলসতা, কাপুরুষতা, কৃপণতা, ঋণভার ও মানুষের প্রভাবাধীন হওয়া থেকে। (আধুনিক প্রকাশনী-৫৯২৩, ইসলামিক ফাউন্ডেশন- ৫৮১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ হে আল্লাহ! নিশ্চয়ই আমি আপনার কাছে আশ্রয় চাই- দুশ্চিন্তা, পেরেশানী, অক্ষমতা, অলসতা, কাপুরুষতা, কৃপণতা, ঋণভার ও মানুষের প্রভাবাধীন হওয়া থেকে। (আধুনিক প্রকাশনী-৫৯২৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6369</td></tr><tr><td>Arabic No</td><td>6369</td></tr><tr><td>Reference</td><td>Book 80 Hadith 66</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik:The Prophet (ﷺ) used to say, "O Allah! I seek refuge with You from worry and grief, from incapacity and laziness, from cowardice and miserliness, from being heavily in debt and from being overpowered by (other) men." (See Hadith No. 374)
+Narrated Anas bin Malik:The Prophet (ﷺ) used to say, "O Allah! I seek refuge with You from worry and grief, from incapacity and laziness, from cowardice and miserliness, from being heavily in debt and from being overpowered by (other) men." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6369</td></tr><tr><td>Arabic No</td><td>6369</td></tr><tr><td>Reference</td><td>Book 80 Hadith 66</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் “அல்லாஹும்ம இன்னீ அஊது பிக்க மினல் ஹம்மி, வல்ஹஸனி, வல்அஜ்ஸி, வல்கஸலி, வல்ஜுப்னி, வல்புக்லி, வளலஇத் தைனி, வ ஃகலபத்திர் ரிஜால்” எனப் பிரார்த்தித்துவந்தார்கள். (பொருள்: இறைவா! கவலையிலிருந்தும் துக்கத்திலிருந்தும் இயலாமையிலிருந்தும் சோம்பலிலிருந்தும் கோழைத்தனத்திலிருந்தும் கருமித்தனத்திலிருந்தும் கடன் சுமையிலிருந்தும் மனிதர்களின் அடக்குமுறைகளிலிருந்தும் உன்னிடம் நான் பாதுகாப்புக் கோருகிறேன்.) அத்தியாயம் : 80
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் “அல்லாஹும்ம இன்னீ அஊது பிக்க மினல் ஹம்மி, வல்ஹஸனி, வல்அஜ்ஸி, வல்கஸலி, வல்ஜுப்னி, வல்புக்லி, வளலஇத் தைனி, வ ஃகலபத்திர் ரிஜால்” எனப் பிரார்த்தித்துவந்தார்கள். (பொருள்: இறைவா! கவலையிலிருந்தும் துக்கத்திலிருந்தும் இயலாமையிலிருந்தும் சோம்பலிலிருந்தும் கோழைத்தனத்திலிருந்தும் கருமித்தனத்திலிருந்தும் கடன் சுமையிலிருந்தும் மனிதர்களின் அடக்குமுறைகளிலிருந்தும் உன்னிடம் நான் பாதுகாப்புக் கோருகிறேன்.) அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6369</td></tr><tr><td>Arabic No</td><td>6369</td></tr><tr><td>Reference</td><td>Book 80 Hadith 66</td></tr></tbody></table></div>
 

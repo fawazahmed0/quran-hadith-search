@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন, যে ব্যক্তি শিকারী কুকুর কিংবা পশু রক্ষাকারী কুকুর ছাড়া অন্য কোন কুকুর পোষে, সে ব্যক্তির সাওয়াব থেকে প্রতিদিন দু’ কীরাত পরিমাণ কমে যায়। [৫৪৮০] (আধুনিক প্রকাশনী- ৫০৭৬, ইসলামিক ফাউন্ডেশন- ৪৯৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন, যে ব্যক্তি শিকারী কুকুর কিংবা পশু রক্ষাকারী কুকুর ছাড়া অন্য কোন কুকুর পোষে, সে ব্যক্তির সাওয়াব থেকে প্রতিদিন দু’ কীরাত পরিমাণ কমে যায়। [৫৪৮০] (আধুনিক প্রকাশনী- ৫০৭৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5481</td></tr><tr><td>Arabic No</td><td>5481</td></tr><tr><td>Reference</td><td>Book 72 Hadith 7</td></tr></tbody></table></div>
 

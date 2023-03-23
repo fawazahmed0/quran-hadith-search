@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, ফিতনা বিপর্যয়) এদিক থেকে আসবে। তিনি পূর্ব দিকে ইশারা করলেন। [৩১০৪] আধুনিক প্রকাশনী- ৪৯০৬, ইসলামিক ফাউন্ডেশন- ৪৮০১
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, ফিতনা বিপর্যয়) এদিক থেকে আসবে। তিনি পূর্ব দিকে ইশারা করলেন। [৩১০৪] আধুনিক প্রকাশনী- ৪৯০৬, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5296</td></tr><tr><td>Arabic No</td><td>5296</td></tr><tr><td>Reference</td><td>Book 68 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah] Telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கிழக்குத் திசையை நோக்கி சைகை செய்து, ‘‘இங்கிருந்துதான் குழப்பம் தோன்றும்” என்று சொல்லக் கேட்டேன்.64 அத்தியாயம் : 68
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கிழக்குத் திசையை நோக்கி சைகை செய்து, ‘‘இங்கிருந்துதான் குழப்பம் தோன்றும்” என்று சொல்லக் கேட்டேன்.64 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5296</td></tr><tr><td>Arabic No</td><td>5296</td></tr><tr><td>Reference</td><td>Book 68 Hadith 45</td></tr></tbody></table></div>
 

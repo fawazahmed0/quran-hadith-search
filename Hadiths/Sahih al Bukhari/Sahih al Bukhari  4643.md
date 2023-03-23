@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু যুবায়র (রাঃ) বলেছেন, خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ আয়াতটি আল্লাহ তা‘আলা মানুষের চরিত্র সম্পর্কেই অবতীর্ণ করেছেন। [৪৬৪৪] (আধুনিক প্রকাশনীঃ ৪২৮২, ইসলামিক ফাউন্ডেশনঃ ৪২৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু যুবায়র (রাঃ) বলেছেন, خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ আয়াতটি আল্লাহ তা‘আলা মানুষের চরিত্র সম্পর্কেই অবতীর্ণ করেছেন। [৪৬৪৪] (আধুনিক প্রকাশনীঃ ৪২৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Abdullah bin AzZubair:(The Verse) "Hold to forgiveness; command what i
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அஸ்ஸுபைர் (ரலி) அவர்கள் கூறியதாவது: “(நபியே!) மன்னிக்கும் போக்கை மேற்கொள்வீராக! மேலும், நன்மை புரியுமாறு ஏவுவீராக!” எனும் (7:199ஆவது) வசனத்தை, மக்களின் நற்குணங்களில் ஒன்றாகவே அல்லாஹ் அருளினான். அத்தியாயம் : 65
+அப்துல்லாஹ் பின் அஸ்ஸுபைர் (ரலி) அவர்கள் கூறியதாவது: “(நபியே!) மன்னிக்கும் போக்கை மேற்கொள்வீராக! மேலும், நன்மை புரியுமாறு ஏவுவீராக!” எனும் (7:199ஆவது) வசனத்தை, மக்களின் நற்குணங்களில் ஒன்றாகவே அல்லாஹ் அருளினான். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated 'Abdullah bin AzZubair:(The Verse) "Hold to forgiveness; command what i
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbnü'z-Zübeyr'den şöyle dediği rivayet edilmiştir: "Sen af yolunu tut, iyiliği em ret" ayeti ancak insanların ahlakı konusunda inmiştir. Hadisin geçtiği diğer yer: 4644
+Abdullah İbnü'z-Zübeyr'den şöyle dediği rivayet edilmiştir: "Sen af yolunu tut, iyiliği em ret" ayeti ancak insanların ahlakı konusunda inmiştir. Hadisin geçtiği diğer yer:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
 

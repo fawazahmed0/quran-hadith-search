@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন জাররা (রহঃ) .... মুজাহিদ (রহঃ) থেকে বর্ণিত। তিনি বলেন, উমরা বা সারা জীবনের জন্য দেওয়ার অর্থ হলো, যেমন কোন ব্যক্তি কাউকে বলে যে, যতদিন তুমি জীবিত থাকবে, এটি তোমার। যখন কেউ এরূপ বলে, তখন ঐ বস্তু তার হয়ে যায় এবং পরে তার ওয়ারিছদের হয়ে যায়। আর রোকবার অর্থ হলো, কোন ব্যক্তি কাউকে কিছু দিয়ে বলে যে, যদি আমার পরে তোমার মুত্যু হয়, তবে এ জিনিস তোমার; অন্যথায় আমি তা ফিরিয়ে নেব।
+। মুজাহিদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, জীবনস্বত্ব হলোঃ কোনো ব্যক্তি কাউকে বললো, যতদিন তুমি বেঁচে থাকবে এটা তোমার। দাতা এরূপ বললে এটা গ্রহীতার হয়ে যাবে এবং তার মৃত্যুর পর তার ওয়ারিসরা এর স্বতাধিকার হবে। আর রুকবা হলোঃ কোনো ব্যক্তির এরূপ বলা, যদি আমি আগে মারা যাই তবে এটা তোমার; আর যদি তুমি আগে মারা যাও তবে এটা আমার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3560</td></tr><tr><td>Arabic No</td><td>3560</td></tr><tr><td>Reference</td><td>Book 24 Hadith 145</td></tr></tbody></table></div>
 

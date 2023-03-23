@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৬৪৮। সাহল ইবনু সা’দ আস-সাঈদী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা'আলার রাস্তায় একটি সকালের ব্যয় পৃথিবী এবং এর মধ্যকার সবকিছু হতে উত্তম। জান্নাতের এক চাবুক পরিমাণ জায়গা পৃথিবী এবং এর মধ্যকার সবকিছু হতে উত্তম। সহীহ, ইবনু মা-জাহ (২৭৫৬), নাসা-ঈ আবূ ঈসা বলেন, আবূ হুরাইরা, ইবনু আব্বাস, আবূ আইয়ূব ও আনাস (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদিসটি হাসান সহীহ।
+। সাহল ইবনু সা’দ আস-সাঈদী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা'আলার রাস্তায় একটি সকালের ব্যয় পৃথিবী এবং এর মধ্যকার সবকিছু হতে উত্তম। জান্নাতের এক চাবুক পরিমাণ জায়গা পৃথিবী এবং এর মধ্যকার সবকিছু হতে উত্তম। সহীহ, ইবনু মা-জাহ (২৭৫৬), নাসা-ঈ আবূ ঈসা বলেন, আবূ হুরাইরা, ইবনু আব্বাস, আবূ আইয়ূব ও আনাস (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদিসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1648</td></tr><tr><td>Arabic No</td><td>1648</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
 

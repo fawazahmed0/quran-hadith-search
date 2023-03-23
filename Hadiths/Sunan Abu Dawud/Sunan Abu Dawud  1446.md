@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... মুহাম্মাদ ইবন সীরীন (রহঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লামের সাথে ফজরের নামায আদায়কারী জনৈক সাহাবী আমাকে বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দ্বিতীয় রাকাতের রুকূ হতে দাঁড়ানোর পর কিছুক্ষণ অপেক্ষা করতেন। (নাসাঈ)।
+। মুহাম্মাদ ইবনু সীরীন (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে ফজরের সালাত আদায়কারী এক সাহাবী আমাকে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দ্বিতীয় রাক‘আতে (রুকূ‘) হতে মাথা উঠিয়ে কিছুক্ষণ দাঁড়িয়ে থেকেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1446</td></tr><tr><td>Arabic No</td><td>1446</td></tr><tr><td>Reference</td><td>Book 8 Hadith 31</td></tr></tbody></table></div>
 

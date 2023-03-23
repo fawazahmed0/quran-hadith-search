@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইব্‌ন মাসলামা (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামত ততক্ষণ সংঘটিত হবে না, যতক্ষণ না ত্রিশ জন দাজ্জালের আবির্ভাব হবে। তারা সবাই মনে করবে যে, সে আল্লাহ্‌ তা’আলার রাসূল।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিরিশ সংখ্যক দাজ্জাল আবির্ভূত না হওয়া পর্যন্ত কিয়ামত সংঘটিত হবে না। তাদের প্রত্যেকেই নিজেকে আল্লাহর রাসূল বলে দাবী করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4333</td></tr><tr><td>Arabic No</td><td>4333</td></tr><tr><td>Reference</td><td>Book 39 Hadith 43</td></tr></tbody></table></div>
 

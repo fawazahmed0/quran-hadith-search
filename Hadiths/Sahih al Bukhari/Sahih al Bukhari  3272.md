@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আর তোমরা সূর্যোদয়ের সময়কে এবং সূর্যাস্তের সময়কে তোমাদের সালাতের জন্য নির্ধারিত করো না। কেননা তা শয়তানের দু’ শিং-এর মাঝখান দিয়ে উদিত হয়। বর্ণনাকারী বলেন, হিশাম (রহ.) ‘শয়তান’ বলেছেন না ‘আশ-শয়তান’ বলেছেন তা আমি জানি না। (মুসলিম ৬/৫১ হাঃ ৮২৯, আহমাদ ৪৬১২) (আধুনিক প্রকাশনীঃ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৩০৪১ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

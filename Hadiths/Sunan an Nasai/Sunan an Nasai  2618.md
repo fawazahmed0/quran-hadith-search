@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন আলী (রহঃ) ... সাঈদ ইবন মুসায়্যাব (রহঃ) থেকে বর্ণিত যে, একদা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আত্যাব ইবন উসায়ীদ (রাঃ)-কে আঙ্গুরের পরিমাপ করে শুকনা আঙ্গুর (কিশমিশ) দ্বারা তার যাকাত আদায় করতে বললেন, যেরূপ খেজুরের যাকাত শুকনা খেজুর দ্বারা আদায় করা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2618</td></tr><tr><td>Arabic No</td><td>2618</td></tr><tr><td>Reference</td><td>Book 23 Hadith 184</td></tr></tbody></table></div>
 

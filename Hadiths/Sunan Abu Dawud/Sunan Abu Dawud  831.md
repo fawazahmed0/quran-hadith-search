@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনু সালেহ্ ..... সাহল ইবনু সা’দ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একদিন আমরা কিরাআত পাঠ করাকালীন নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম উপস্থিত হয়ে বলেনঃ আলহামুদুলিল্লাহ! আল্লাহর কিতাব একই এবং তোমাদের কেউ লাল, কেউ সাদা এবং কেউ কাল রঙের। তোমরা ঐ সম্প্রদায়ের আবির্ভাবের পূর্বে কিরাআত পাঠ কর যারা কুরআনকে তীরের ন্যায় দৃঢ় করবে। তারা কুরআন পাঠের (বিনিময় দুনিয়াতে পেতে) তাড়াহুড়া করবে এবং (আখিরাতের) অপেক্ষা করবে না।
+। সাহল ইবনু সা‘দ আস-সাঈদী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদিন আমরা কিরাআত করছিলাম এমন সময় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উপস্থিত হয়ে বললেন, আলহামদুলিল্লাহ! আল্লাহর কিতাব একটাই। আর তোমাদের কেউ লাল, কেউ বা সাদা এবং কেউ বা কালো রঙের। তোমরা ঐ সম্প্রদায়ের আবির্ভাবের পূর্বে (কুরআন) পড় যারা কুরআনকে তীরের ন্যায় দৃঢ় করবে। তারা কুরআন পাঠে তাড়াহুড়া করবে, অপেক্ষা করবে না (অর্থাৎ আখিরাতের অপেক্ষা না করে এর বিনিময় দুনিয়াতেই পেতে চাইবে)।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>831</td></tr><tr><td>Arabic No</td><td>831</td></tr><tr><td>Reference</td><td>Book 2 Hadith 441</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sehl b. Sa'd es-Saidî (r.a.)'den; demiştir ki: Bir gün biz Kur'an-i Kerim okurken Nebi (Sallallahu aleyhi ve Sellem) yanımıza çıkageldi (ve bizi bu halde görünce); "Allah'a hamdolsun, her ne kadar sizin içinizde kırmızısı, beyazı ve siyahı bulunuyorsa da, Allah'ın Kitabı birdir. Onu ok gibi dosdoğru okuyup (fakat) ecrini dünyada alacak ve ahirete bırakmayacak kavimler gelmeden o'nu (işte böyle) okuyunuz" buyurdu. Diğer tahric: Ahmed b. Hanbel, III, 146, 153, 357, 397; V, 338
+Sehl b. Sa'd es-Saidî (r.a.)'den; demiştir ki: Bir gün biz Kur'an-i Kerim okurken Nebi (Sallallahu aleyhi ve Sellem) yanımıza çıkageldi (ve bizi bu halde görünce); "Allah'a hamdolsun, her ne kadar sizin içinizde kırmızısı, beyazı ve siyahı bulunuyorsa da, Allah'ın Kitabı birdir. Onu ok gibi dosdoğru okuyup (fakat) ecrini dünyada alacak ve ahirete bırakmayacak kavimler gelmeden o'nu (işte böyle) okuyunuz" buyurdu. Diğer tahric: Ahmed b. Hanbel, III, 146, 153, 357, 397; V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>831</td></tr><tr><td>Arabic No</td><td>831</td></tr><tr><td>Reference</td><td>Book 2 Hadith 441</td></tr></tbody></table></div>
 

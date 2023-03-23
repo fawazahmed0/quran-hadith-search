@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১১। আয়িশা (রাঃ) থেকে বর্ণিতঃ উম্মুল-মুমিনীনের একজন ইস্তিহাযা অবস্থায় ইতিকাফ করেছিলেন। (৩০৯) (আ.প্র. ৩০০, ই.ফা. ৩০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। আয়িশা (রাঃ) থেকে বর্ণিতঃ উম্মুল-মুমিনীনের একজন ইস্তিহাযা অবস্থায় ইতিকাফ করেছিলেন। (৩০৯) (আ.প্র. ৩০০, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>311</td></tr><tr><td>Arabic No</td><td>311</td></tr><tr><td>Reference</td><td>Book 6 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: இறைநம்பிக்கையாளர்களின் அன்னை யரில் (நபியவர்களின் துணைவியரில்) ஒருவர் உயர் இரத்தப்போக்கு உடையவ ராய் இருக்கும் நிலையில் ‘இஃதிகாஃப்’ இருந்தார். அத்தியாயம் : 6
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: இறைநம்பிக்கையாளர்களின் அன்னை யரில் (நபியவர்களின் துணைவியரில்) ஒருவர் உயர் இரத்தப்போக்கு உடையவ ராய் இருக்கும் நிலையில் ‘இஃதிகாஃப்’ இருந்தார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>311</td></tr><tr><td>Arabic No</td><td>311</td></tr><tr><td>Reference</td><td>Book 6 Hadith 16</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১২০৬, আন্তর্জাতিক নাম্বারঃ ১২০৭ ১২০৬. ইসহাক ইবনু ইবরাহীম (রহ.) ..... 'আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, (একবার) আমি দরজা খুলতে চাইলাম। তখন রাসূলুল্লাহ (সা.) - নফল সালাত আদায় করছিলেন আর দরজা ছিল কিবলার দিকে। তখন তিনি বাম দিকে অথবা ডান দিকে কয়েক কদম হেঁটে গিয়ে দরজা খুলে দিলেন এবং পুনরায় সালাতের স্থানে ফিরে আসলেন। হাসান: আবু দাউদ ২২৯, তিরমিযী ৬০১, ৬০৬; ইওয়াউল গালীল ৩৮৬।
+। ইসহাক ইবনু ইবরাহীম (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, (একবার) আমি দরজা খুলতে চাইলাম। তখন রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নফল সালাত আদায় করছিলেন আর দরজা ছিল কিবলার দিকে। তখন তিনি বাম দিকে অথবা কয়েক কদম হেঁটে গিয়ে দরজা খুলে দিলেন এবং পুনরায় সালাতের স্থানে ফিরে আসলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1206</td></tr><tr><td>Arabic No</td><td>1206</td></tr><tr><td>Reference</td><td>Book 13 Hadith 28</td></tr></tbody></table></div>
 

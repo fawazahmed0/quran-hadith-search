@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯৭৬। আবু সাঈদ খুদরী (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের মাঝে অন্তিম সময়ের ব্যক্তিদের উদ্দেশ্যে "লা ইলাহা ইল্লাল্লাহ" পাঠ করে শুনাও। — সহীহ, ইবনু মা-জাহ (১৪৪৪, ১৪৪৫), মুসলিম আবূ হুরায়রা, উম্মু সালামা, আইশ, জাবির ও তালহা ইবনু উবাইদুল্লাহ (রাঃ)-এর স্ত্রী সু’দা আল-মুরিয়্যা (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। আবু সাঈদ (রাঃ) হতে বর্ণিত হাদীসটিকে আবু ঈসা হাসান গারীব সহীহ বলেছেন।
+। আবু সাঈদ খুদরী (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের মাঝে অন্তিম সময়ের ব্যক্তিদের উদ্দেশ্যে "লা ইলাহা ইল্লাল্লাহ" পাঠ করে শুনাও। — সহীহ, ইবনু মা-জাহ (১৪৪৪, ১৪৪৫), মুসলিম আবূ হুরায়রা, উম্মু সালামা, আইশ, জাবির ও তালহা ইবনু উবাইদুল্লাহ (রাঃ)-এর স্ত্রী সু’দা আল-মুরিয়্যা (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। আবু সাঈদ (রাঃ) হতে বর্ণিত হাদীসটিকে আবু ঈসা হাসান গারীব সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>976</td></tr><tr><td>Arabic No</td><td>976</td></tr><tr><td>Reference</td><td>Book 10 Hadith 12</td></tr></tbody></table></div>
 

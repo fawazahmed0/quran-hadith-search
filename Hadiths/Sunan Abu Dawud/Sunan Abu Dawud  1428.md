@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন মুহাম্মাদ (রহঃ) ..... মুহাম্মাদ (রহঃ) থেকে তাঁর কোন কোন বন্ধুর সূত্রে বর্ণিত। উবাই ইবন কাব (রাঃ) রমযানে তাদের ইমামতি করতেন এবং এর শেষার্দ্ধে দুআ কুনূত পাঠ করতেন।
+। মুহাম্মাদ (রহঃ) হতে তার এক সাথীর সূত্রে বর্ণিত। উবাই ইবনু কা‘ব (রাঃ) রমাযানে তাদের ইমামতি করেছেন এবং রমাযানের শেষদিকে কুনূত পড়েছেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1428</td></tr><tr><td>Arabic No</td><td>1428</td></tr><tr><td>Reference</td><td>Book 8 Hadith 13</td></tr></tbody></table></div>
 

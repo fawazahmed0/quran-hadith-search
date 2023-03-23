@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, জনৈক ব্যবসায়ী লোকদের ঋণ দিত। কোন অভাবগ্রস্তকে দেখলে সে তার কর্মচারীদের বলত, তাকে ক্ষমা করে দাও, হয়তো আল্লাহ তা‘আলা আমাদের ক্ষমা করে দিবেন। এর ফলে আল্লাহ তা‘আলা তাকে ক্ষমা করে দেন। (৩৪৮০, মুসলিম ২২/৬, হাঃ ১৫৬২, আহমাদ ৭৫৮২) (আধুনিক প্রকাশনীঃ ১৯৩৩ , ইসলামিক ফাউন্ডেশনঃ ১৯৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, জনৈক ব্যবসায়ী লোকদের ঋণ দিত। কোন অভাবগ্রস্তকে দেখলে সে তার কর্মচারীদের বলত, তাকে ক্ষমা করে দাও, হয়তো আল্লাহ তা‘আলা আমাদের ক্ষমা করে দিবেন। এর ফলে আল্লাহ তা‘আলা তাকে ক্ষমা করে দেন। (৩৪৮০, মুসলিম ২২/৬, হাঃ ১৫৬২, আহমাদ ৭৫৮২) (আধুনিক প্রকাশনীঃ ১৯৩৩ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2078</td></tr><tr><td>Arabic No</td><td>2078</td></tr><tr><td>Reference</td><td>Book 34 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (முற்காலத்தில்) மக்களுக்குக் கடன் கொடுக்கக்கூடிய ஒரு வியாபாரி இருந்தார். கடனைத் திருப்பிச் செலுத்தச் சிரமப்படுபவரை அவர் கண்டால், தம் பணியாளர்களிடம், ‘‘இவரது கடனைத் தள்ளுபடி செய்யுங்கள்; அல்லாஹ் நம் தவறுகளைத் தள்ளுபடி செய்யக்கூடும்” என்று கூறுவார். அல்லாஹ்வும் அவருடைய தவறுகளைத் தள்ளுபடி செய்தான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (முற்காலத்தில்) மக்களுக்குக் கடன் கொடுக்கக்கூடிய ஒரு வியாபாரி இருந்தார். கடனைத் திருப்பிச் செலுத்தச் சிரமப்படுபவரை அவர் கண்டால், தம் பணியாளர்களிடம், ‘‘இவரது கடனைத் தள்ளுபடி செய்யுங்கள்; அல்லாஹ் நம் தவறுகளைத் தள்ளுபடி செய்யக்கூடும்” என்று கூறுவார். அல்லாஹ்வும் அவருடைய தவறுகளைத் தள்ளுபடி செய்தான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2078</td></tr><tr><td>Arabic No</td><td>2078</td></tr><tr><td>Reference</td><td>Book 34 Hadith 31</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a., Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "(Eski zamanlarda) insanlara borç veren bir tacir vardı. Alacaklı olduğu kişiler içinde ödeme zorluğu içinde olan biri bulunduğunda hizmetçilerine: "Ondan olan alacağımızdan almayıp, vazgeçin. Ola ki Allah da bizim günahlarımızdan vazgeçer derdi." Allah onun günahlarından vazgeçti." Tekrar: 3480
+Ebu Hureyre r.a., Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "(Eski zamanlarda) insanlara borç veren bir tacir vardı. Alacaklı olduğu kişiler içinde ödeme zorluğu içinde olan biri bulunduğunda hizmetçilerine: "Ondan olan alacağımızdan almayıp, vazgeçin. Ola ki Allah da bizim günahlarımızdan vazgeçer derdi." Allah onun günahlarından vazgeçti." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2078</td></tr><tr><td>Arabic No</td><td>2078</td></tr><tr><td>Reference</td><td>Book 34 Hadith 31</td></tr></tbody></table></div>
 

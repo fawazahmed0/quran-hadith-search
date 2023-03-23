@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। তিনি বলেছেনঃ যতক্ষণ আল্লাহর নাফরমানীর নির্দেশ দেয়া না হয়, ততক্ষণ পছন্দনীয় ও অপছন্দনীয় সকল বিষয়ে প্রত্যেক মুসলিমের জন্য তার মান্যতা ও আনুগত্য করা কর্তব্য। যখন নাফরমানীর নির্দেশ দেয়া হয়, তখন আর কোন মান্যতা ও আনুগত্য নেই। [২৯৫৫; মুসলিম ৩৩/৮, হাঃ ১৮৩৯] (আধুনিক প্রকাশনী- ৬৬৪৫, ইসলামিক ফাউন্ডেশন- ৬৬৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। তিনি বলেছেনঃ যতক্ষণ আল্লাহর নাফরমানীর নির্দেশ দেয়া না হয়, ততক্ষণ পছন্দনীয় ও অপছন্দনীয় সকল বিষয়ে প্রত্যেক মুসলিমের জন্য তার মান্যতা ও আনুগত্য করা কর্তব্য। যখন নাফরমানীর নির্দেশ দেয়া হয়, তখন আর কোন মান্যতা ও আনুগত্য নেই। [২৯৫৫; মুসলিম ৩৩/৮, হাঃ ১৮৩৯] (আধুনিক প্রকাশনী- ৬৬৪৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7144</td></tr><tr><td>Arabic No</td><td>7144</td></tr><tr><td>Reference</td><td>Book 93 Hadith 8</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah:The Prophet (ﷺ) said, "A Muslim has to listen to and obey (the order of his ruler) whether he likes it or not, as long as his orders involve not one in disobedience (to Allah), but if an act of disobedience (to Allah) is imposed one should not listen to it or obey it. (See Hadith No. 203, Vol. 4)
+Narrated 'Abdullah:The Prophet (ﷺ) said, "A Muslim has to listen to and obey (the order of his ruler) whether he likes it or not, as long as his orders involve not one in disobedience (to Allah), but if an act of disobedience (to Allah) is imposed one should not listen to it or obey it. (See Hadith No. 203, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7144</td></tr><tr><td>Arabic No</td><td>7144</td></tr><tr><td>Reference</td><td>Book 93 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (இறைவனுக்கு) மாறு செய்யும்படி கட்டளையிடப்படாத வரை, ஒரு முஸ்லிம் தமக்கு விருப்பமான விஷயத்திலும் விருப்பமில்லாத விஷயத்திலும் (தலைமையின் கட்டளையைச்) செவி யேற்பதும் (அதற்குக்) கீழ்ப்படிவதும் கடமையாகும். (இறைவனுக்கு) மாறு செய்யும்படி கட்டளையிடப்பட்டால் (அதைச்) செவியேற்பதோ (அதற்குக்) கட்டுப்படுவதோ கூடாது. இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்11 அத்தியாயம் : 93
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (இறைவனுக்கு) மாறு செய்யும்படி கட்டளையிடப்படாத வரை, ஒரு முஸ்லிம் தமக்கு விருப்பமான விஷயத்திலும் விருப்பமில்லாத விஷயத்திலும் (தலைமையின் கட்டளையைச்) செவி யேற்பதும் (அதற்குக்) கீழ்ப்படிவதும் கடமையாகும். (இறைவனுக்கு) மாறு செய்யும்படி கட்டளையிடப்பட்டால் (அதைச்) செவியேற்பதோ (அதற்குக்) கட்டுப்படுவதோ கூடாது. இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்11 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7144</td></tr><tr><td>Arabic No</td><td>7144</td></tr><tr><td>Reference</td><td>Book 93 Hadith 8</td></tr></tbody></table></div>
 

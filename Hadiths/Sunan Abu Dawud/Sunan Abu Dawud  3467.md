@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) ..... ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ জনৈক ব্যক্তি অপর এক ব্যক্তির বিশেষ একটি গাছের ফলের উপর অগ্রিম বিক্রি নির্ধারণ করে। ঘটনা-ক্রমে সে বছর সে গাছে কোন ফল ধরেনি। তখন তারা উভয়ে ব্যাপারটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট পেশ করে। তখন তিনি বলেনঃ তুমি কিসের বিনিময়ে তার মাল গ্রহণ করছো? তুমি তার মাল ফিরিয়ে দাও। এরপর তিনি বলেনঃ তোমরা বিশেষ কোন গাছের ফল ততক্ষণ অগ্রিম বিক্রি করবে না, যতক্ষণ না তা পরিপক্ব হয়।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। এক ব্যক্তি আরেক ব্যক্তির একটি গাছের খেজুর অগ্রিম কিনলো। কিন্তু ঐ বছর কোনো ফল ধরলো না। তারা উভয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে বিষয়টি উপস্থাপন করলে তিনি বললেনঃ তুমি কিসের বিনিময়ে তার মাল (নিজের জন্য) বৈধ মনে করলে? তার মাল তাকে ফেরত দাও। অতঃপর তিনি বললেনঃ গাছের খেজুর পরিপক্ক না হওয়া পর্যন্ত তোমরা তার অগ্রিম ক্রয়-বিক্রয় করবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3467</td></tr><tr><td>Arabic No</td><td>3467</td></tr><tr><td>Reference</td><td>Book 24 Hadith 52</td></tr></tbody></table></div>
 

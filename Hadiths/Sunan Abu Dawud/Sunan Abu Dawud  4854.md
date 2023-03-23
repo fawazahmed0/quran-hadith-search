@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্‌রাহীম ইবন মূসা (রহঃ) ..... আবূ দারদা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন বসতেন, তখন আমরাও তাঁর পাশে বসতাম। আর তিনি নিজের স্থানে ফিরে আসার উদ্দেশ্যে যখন দাঁড়াতেন, তখন তিনি সেখানে তাঁর জুতা বা অন্য কোন জিনিস, যা তাঁর কাছে থাকতো, সেখানে রেখে যেতেন। যাতে তাঁর সাহাবীগণ বুঝতে পারতেন যে, তিনি আবার ফিরে আসবেন; ফলে তাঁরা সেখানে অবস্থান করতেন।
+। কা‘ব আল-ইয়াদী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা আবূ দারদা (রাঃ)-এর সাক্ষাতে যেতাম। আবূ দারদা (রাঃ) বলেন, যখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোথাও বসতেন এবং আমরাও তাঁর চারপাশে বসতাম। অতঃপর তিনি বৈঠক থেকে উঠে গেলে এবং পুনরায় প্রত্যাবর্তনের ইচ্ছা থাকলে তাঁর জুতা জোড়া বা অন্য কিছু রেখে যেতেন। এর দ্বারা তাঁর সাহাবীগণ তাঁর ফিরে আসার ইচ্ছা জানতে পারতেন এবং বৈঠকে বসে অপেক্ষায় থাকতেন।[1] দুর্বলঃ মিশকাত হা/ ৪৭০২।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4854</td></tr><tr><td>Arabic No</td><td>4854</td></tr><tr><td>Reference</td><td>Book 43 Hadith 82</td></tr></tbody></table></div>
 

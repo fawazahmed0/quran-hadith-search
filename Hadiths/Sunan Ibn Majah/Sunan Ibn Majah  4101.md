@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৪১০১। আবূ খাল্লাদ (রাঃ) থেকে বর্ণিত। তিনি সাহাবী ছিলেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমরা এমন লোক দেখতে পাবে যাকে দুনিয়াতে যুহদ দান করা হয়েছে এবং স্বল্পভাষী করা হয়েছে, তখন তোমরা তার নৈকট্য ও সাহচর্য অবলম্বন করবে। কারণ তাকে প্রজ্ঞা দান করা হয়েছে।
+। আবূ খাল্লাদ (রাঃ) থেকে বর্ণিত। তিনি সাহাবী ছিলেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমরা এমন লোক দেখতে পাবে যাকে দুনিয়াতে যুহদ দান করা হয়েছে এবং স্বল্পভাষী করা হয়েছে, তখন তোমরা তার নৈকট্য ও সাহচর্য অবলম্বন করবে। কারণ তাকে প্রজ্ঞা দান করা হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4101</td></tr><tr><td>Arabic No</td><td>4101</td></tr><tr><td>Reference</td><td>Book 37 Hadith 2</td></tr></tbody></table></div>
 

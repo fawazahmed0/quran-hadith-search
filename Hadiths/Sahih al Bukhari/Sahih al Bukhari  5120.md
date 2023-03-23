@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাবিত আল বুনানী (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-এর কাছে ছিলাম। তখন তাঁর কাছে তাঁর কন্যাও ছিলেন। আনাস (রাঃ) বললেন, একজন মহিলা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে নিজেকে সমর্পণ করতে এসে বলল, হে আল্লাহর রাসূল! আপনার কি আমার প্রয়োজন আছে? এ কথা শুনে আনাস (রাঃ)-এর কন্যা বললেন, সেই মহিলা কতই না নির্লজ্জ, ছিঃ লজ্জার কথা। আনাস (রাঃ) বললেন, সে মহিলা তোমার চেয়ে উত্তম, সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহচর্য পেতে অনুরাগী হয়েছিল। এ কারণেই সে নিজেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে পেশ করেছে। [৬১২৩](আধুনিক প্রকাশনী- ৪৭৪৩, ইসলামিক ফাউন্ডেশন- ৪৭৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাবিত আল বুনানী (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-এর কাছে ছিলাম। তখন তাঁর কাছে তাঁর কন্যাও ছিলেন। আনাস (রাঃ) বললেন, একজন মহিলা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে নিজেকে সমর্পণ করতে এসে বলল, হে আল্লাহর রাসূল! আপনার কি আমার প্রয়োজন আছে? এ কথা শুনে আনাস (রাঃ)-এর কন্যা বললেন, সেই মহিলা কতই না নির্লজ্জ, ছিঃ লজ্জার কথা। আনাস (রাঃ) বললেন, সে মহিলা তোমার চেয়ে উত্তম, সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহচর্য পেতে অনুরাগী হয়েছিল। এ কারণেই সে নিজেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে পেশ করেছে। [৬১২৩](আধুনিক প্রকাশনী- ৪৭৪৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5120</td></tr><tr><td>Arabic No</td><td>5120</td></tr><tr><td>Reference</td><td>Book 67 Hadith 56</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸாபித் அல்புனானீ (ரஹ்) அவர்கள் கூறியதாவது: நான் அனஸ் (ரலி) அவர்கள் அருகில் இருந்தேன். அன்னாருடன் அவர்களுடைய புதல்வியார் ஒருவரும் இருந்தார். (அப்போது) அனஸ் (ரலி) அவர்கள், அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் தன்னை மணந்துகொள்ளுமாறு கோரியபடி ஒரு பெண் வந்து, ‘‘அல்லாஹ்வின் தூதரே! (மணமுடித்துக்கொள்ள) நான் தங்களுக்கு அவசியமா?” எனக் கேட்டார் என்று கூறினார்கள். அப்போது அனஸ் (ரலி) அவர்களு டைய புதல்வி, ‘‘என்ன வெட்கங்கெட்டத் தனம்! என்ன அநாகரிகம்! என்ன அநாகரிகம்!!” என்று சொன்னார். அனஸ் (ரலி) அவர்கள், ‘‘அந்தப் பெண்மணி உன்னைவிடச் சிறந்தவர்; அந்தப் பெண் நபியவர்களை (மணந்துகொள்ள) ஆசைப் பட்டார். ஆகவே, தன்னை மணந்து கொள்ளுமாறு கோரினார்” என்று கூறினார்கள். அத்தியாயம் : 67
+ஸாபித் அல்புனானீ (ரஹ்) அவர்கள் கூறியதாவது: நான் அனஸ் (ரலி) அவர்கள் அருகில் இருந்தேன். அன்னாருடன் அவர்களுடைய புதல்வியார் ஒருவரும் இருந்தார். (அப்போது) அனஸ் (ரலி) அவர்கள், அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் தன்னை மணந்துகொள்ளுமாறு கோரியபடி ஒரு பெண் வந்து, ‘‘அல்லாஹ்வின் தூதரே! (மணமுடித்துக்கொள்ள) நான் தங்களுக்கு அவசியமா?” எனக் கேட்டார் என்று கூறினார்கள். அப்போது அனஸ் (ரலி) அவர்களு டைய புதல்வி, ‘‘என்ன வெட்கங்கெட்டத் தனம்! என்ன அநாகரிகம்! என்ன அநாகரிகம்!!” என்று சொன்னார். அனஸ் (ரலி) அவர்கள், ‘‘அந்தப் பெண்மணி உன்னைவிடச் சிறந்தவர்; அந்தப் பெண் நபியவர்களை (மணந்துகொள்ள) ஆசைப் பட்டார். ஆகவே, தன்னை மணந்து கொள்ளுமாறு கோரினார்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5120</td></tr><tr><td>Arabic No</td><td>5120</td></tr><tr><td>Reference</td><td>Book 67 Hadith 56</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sabit el-Bunanı'den, dedi ki: "Enes'in huzurunda idim. Yanında da bir kızı vardı. Enes dedi ki: Bir kadın Rasulullah Sallallahu Aleyhi ve Sellem'in huzuruna gelerek kendisi ile evlenme teklifinde bulunup: Ey Allah'ın Rasulü, bana bir ihtiyacın var mı, dedi. Bunun üzerine Enes'in kızı: Hayası ne kadar da azmış. Bu ne kötü bir iş, deyince, Enes: O senden hayırlı idi. Nebi Sallallahu Aleyhi ve Sellem'e zevce olmayı arzu ettiğinden kendisi ile evlenme teklifinde bulunmuştu, dedi. Tekrar: 6123
+Sabit el-Bunanı'den, dedi ki: "Enes'in huzurunda idim. Yanında da bir kızı vardı. Enes dedi ki: Bir kadın Rasulullah Sallallahu Aleyhi ve Sellem'in huzuruna gelerek kendisi ile evlenme teklifinde bulunup: Ey Allah'ın Rasulü, bana bir ihtiyacın var mı, dedi. Bunun üzerine Enes'in kızı: Hayası ne kadar da azmış. Bu ne kötü bir iş, deyince, Enes: O senden hayırlı idi. Nebi Sallallahu Aleyhi ve Sellem'e zevce olmayı arzu ettiğinden kendisi ile evlenme teklifinde bulunmuştu, dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5120</td></tr><tr><td>Arabic No</td><td>5120</td></tr><tr><td>Reference</td><td>Book 67 Hadith 56</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৫৫৯। আবূ বাকর (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ক্ষমা প্রার্থনা করেছে (গুনাহ হতে) সে গুনাহর উপর অটল থাকেনি, যদিও সে প্রতিদিন সত্তরবার গুনাহ করে থাকে। যঈফ, মিশকাত (২৩৪০), যঈফ আবূ দাউদ (২৬৭) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। আমরা শুধু আবূ নুসাইরার সূত্রেই হাদীসটি জেনেছি। এ হাদীসের সনদসূত্র তেমন মজবুত নয়।
+। আবূ বাকর (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ক্ষমা প্রার্থনা করেছে (গুনাহ হতে) সে গুনাহর উপর অটল থাকেনি, যদিও সে প্রতিদিন সত্তরবার গুনাহ করে থাকে। যঈফ, মিশকাত (২৩৪০), যঈফ আবূ দাউদ (২৬৭) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। আমরা শুধু আবূ নুসাইরার সূত্রেই হাদীসটি জেনেছি। এ হাদীসের সনদসূত্র তেমন মজবুত নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3559</td></tr><tr><td>Arabic No</td><td>3559</td></tr><tr><td>Reference</td><td>Book 48 Hadith 190</td></tr></tbody></table></div>
 

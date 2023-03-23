@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যিয়াদ ইবন আইউব (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত। একটি বালিকা তাঁর নিকট উপস্থিত হয়ে বললোঃ আমার পিতা আমাকে তার ভাতিজার নিকট বিবাহ দিয়েছে। আমার দ্বারা তার নীচুতা দূর করে মর্যাদা বৃদ্ধির জন্য এবং আমি তা অপছন্দ করি। তিনি বলেনঃ তুমি রাসূলুল্লাহু সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আগমন পর্যন্ত এখানে বস। পরে রাসূলুল্লাহু সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আগমন করলে সে তাঁকে বিষয়টি জানালো। তিনি তার পিতার নিকট লোক পাঠিয়ে তাকে ডেকে আনলেন এবং ঐ বালিকার অনুমতির উপর বিষয়টি ছেড়ে দিলেন। বালিকাটি বললোঃ ইয়া রাসূলাল্লাহ্! আমার পিতা যা করেছেন, তাতে আমি অনুমতি দিলাম। কিন্তু নারী সমাজকে ইহা জানিয়ে দিতে চাই যে, বিবাহের ব্যাপারে তাদের অধিকার রয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3269</td></tr><tr><td>Arabic No</td><td>3269</td></tr><tr><td>Reference</td><td>Book 26 Hadith 74</td></tr></tbody></table></div>
 

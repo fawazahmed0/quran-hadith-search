@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮০৯। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ রান্না করা ব্যতীত রসুন খাওয়া ঠিক নয়। যঈফ, প্রাগুক্ত আবূ ঈসা বলেছেন, এ হাদীসের সনদ খুব একটা মজবুত নয়। আলী (রাঃ)-এর বিবৃতি হিসেবেও হাদীসটি বর্ণিত হয়েছে। শারীকের এ হাদীসটি মুরসাল হিসেবেও বর্ণিত হয়েছে। মুহাম্মাদ বলেছেন, আল-জাররাহ ইবনু মালীহ সত্যবাদী এবং আল-জাররাহ ইবনুয যাহহাক হাদীস শাস্ত্রে গ্রহণযোগ্য ব্যক্তি।
+। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ রান্না করা ব্যতীত রসুন খাওয়া ঠিক নয়। যঈফ, প্রাগুক্ত আবূ ঈসা বলেছেন, এ হাদীসের সনদ খুব একটা মজবুত নয়। আলী (রাঃ)-এর বিবৃতি হিসেবেও হাদীসটি বর্ণিত হয়েছে। শারীকের এ হাদীসটি মুরসাল হিসেবেও বর্ণিত হয়েছে। মুহাম্মাদ বলেছেন, আল-জাররাহ ইবনু মালীহ সত্যবাদী এবং আল-জাররাহ ইবনুয যাহহাক হাদীস শাস্ত্রে গ্রহণযোগ্য ব্যক্তি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1809</td></tr><tr><td>Arabic No</td><td>1809</td></tr><tr><td>Reference</td><td>Book 25 Hadith 23</td></tr></tbody></table></div>
 

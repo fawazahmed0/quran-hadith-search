@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমুদ ইবন খালিদ (রহঃ) ..... ওয়াছিলা ইবন আসকা (রাঃ) থেকে বর্ণিত। তিনি তার পিতাকে এরূপ বর্ণনা করতে শুনেছেন। একদা তিনি বলেনঃ ইয়া রাসূলুল্লাহ! 'আসাবিয়া' কী? তখন তিনি বলেনঃ তা হলো, তুমি যদি তোমার কাওমকে জুলুম করার জন্য সাহায্য কর।
+। ওয়াসিলাহ ইবনুল আসকা’ (রাঃ)-এর কন্যা সূত্রে বর্ণিত। তিনি তার পিতাকে বলতে শুনেছেন. আমি বললাম, হে আল্লাহর রাসূল! আসাবিয়্যাত (পক্ষপাতিত্ব) কি? তিনি বললেনঃ তুমি তোমার কওমকে অত্যাচার করার জন্য সহযোগিতা করলে।[1] দুর্বলঃ গায়াতুল মারাম হা/ ৩০৫।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5119</td></tr><tr><td>Arabic No</td><td>5119</td></tr><tr><td>Reference</td><td>Book 43 Hadith 347</td></tr></tbody></table></div>
 

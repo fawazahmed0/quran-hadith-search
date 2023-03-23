@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, পাঁচটি বিষয় ঘটে গেছেঃ ধ্বংস, রূম, পাকড়াও, চন্দ্র ও ধোঁয়া। [১০০৭] (আধুনিক প্রকাশনীঃ ৪৪৬১, ইসলামিক ফাউন্ডেশনঃ ৪৪৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, পাঁচটি বিষয় ঘটে গেছেঃ ধ্বংস, রূম, পাকড়াও, চন্দ্র ও ধোঁয়া। [১০০৭] (আধুনিক প্রকাশনীঃ ৪৪৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4825</td></tr><tr><td>Arabic No</td><td>4825</td></tr><tr><td>Reference</td><td>Book 65 Hadith 347</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] da
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: (மறுமை நாளின் அடையாளங்களில்) ஐந்து அடையாளங்கள் நடந்து (முடிந்து) விட்டன. ஒன்று, (பத்ர் போரில் எதிரிகளுக்குக் கிடைத்த) தண்டனை. இரண்டாவது, (கிழக்கு) ரோமர்கள் (பாரசீகர்களால் தோற்கடிக்கப்பட்டு மீண்டும் வெற்றி கண்டது). மூன்றாவது, இறைவனின் தண்டனைப் பிடி. நான்காவது, சந்திரன் பிளந்தது. ஐந்தாவது, புகை.6 அத்தியாயம் : 65
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: (மறுமை நாளின் அடையாளங்களில்) ஐந்து அடையாளங்கள் நடந்து (முடிந்து) விட்டன. ஒன்று, (பத்ர் போரில் எதிரிகளுக்குக் கிடைத்த) தண்டனை. இரண்டாவது, (கிழக்கு) ரோமர்கள் (பாரசீகர்களால் தோற்கடிக்கப்பட்டு மீண்டும் வெற்றி கண்டது). மூன்றாவது, இறைவனின் தண்டனைப் பிடி. நான்காவது, சந்திரன் பிளந்தது. ஐந்தாவது, புகை.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4825</td></tr><tr><td>Arabic No</td><td>4825</td></tr><tr><td>Reference</td><td>Book 65 Hadith 347</td></tr></tbody></table></div>
 

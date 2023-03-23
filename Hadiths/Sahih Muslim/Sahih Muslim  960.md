@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ গাসসান আল মিসমাঈ (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ রুকু’-সিজদা ঠিকভাবে আদায় করো। আল্লাহর শপথ! তোমরা যখনই রুকু’-সিজদা করো, আমি আমার পিছন থেকে তোমাদের দেখতে পাই। সাঈদের বর্ণনায় আছেঃ যখন তোমরা রুকু ও সিজদা করো। (ইসলামিক ফাউন্ডেশনঃ ৮৪২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>960</td></tr><tr><td>Arabic No</td><td>425.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 122</td></tr></tbody></table></div>
 

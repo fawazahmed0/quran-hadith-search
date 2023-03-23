@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চুল (কখনও) কাঁধ পর্যন্ত লম্বা হতো। [৫৯০৩] (আধুনিক প্রকাশনী- ৫৪৭৫, ইসলামিক ফাউন্ডেশন- ৫৩৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চুল (কখনও) কাঁধ পর্যন্ত লম্বা হতো। [৫৯০৩] (আধুনিক প্রকাশনী- ৫৪৭৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5904</td></tr><tr><td>Arabic No</td><td>5904</td></tr><tr><td>Reference</td><td>Book 77 Hadith 121</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் (தலை)முடி அவர்களின் தோள்களைத் தொட்டுக் கொண்டிருந்தது. அத்தியாயம் : 77
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் (தலை)முடி அவர்களின் தோள்களைத் தொட்டுக் கொண்டிருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5904</td></tr><tr><td>Arabic No</td><td>5904</td></tr><tr><td>Reference</td><td>Book 77 Hadith 121</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... আবূ কারীমা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক মুসলিমের উপর এক রাতের জন্য মেহমানের হক আছে, যে ব্যক্তি তা বিনষ্ট করবে, তা তার জন্য দেনা স্বরূপ হবে। ইচ্ছা করলে তা আদায় করবে, আর ইচ্ছা না থাকলে বর্জন করবে।
+। আবূ কারীম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এক রাত মেহমানদারী করা মুসলিমের কর্তব্য। যার আঙ্গিনায় মেহমান নামে, একদিন মেহমানদারী করা তার উপর ঋণ পরিশোধের সমান। সে ইচ্ছা করলে তার এ ঋণ ত্যাগ পরিশোধ করবে বা ত্যাগ করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3750</td></tr><tr><td>Arabic No</td><td>3750</td></tr><tr><td>Reference</td><td>Book 28 Hadith 15</td></tr></tbody></table></div>
 

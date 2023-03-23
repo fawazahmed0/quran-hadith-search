@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আমর ইবনু মাইমূন (রাঃ) হতে বর্ণিত, তিনি বলেন, আমি জাহিলীয়্যাতের যুগে দেখেছি, একটি বানরী ব্যাভিচার করার কারণে অনেকগুলো বানর একত্র হয়ে প্রস্তর নিক্ষেপে তাকে হত্যা করল। আমিও তাদের সাথে প্রস্তর নিক্ষেপ করলাম। (আধুনিক প্রকাশনীঃ ৩৫৬২, ইসলামিক ফাউন্ডেশনঃ ৩৫৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমর ইবনু মাইমূন (রাঃ) হতে বর্ণিত, তিনি বলেন, আমি জাহিলীয়্যাতের যুগে দেখেছি, একটি বানরী ব্যাভিচার করার কারণে অনেকগুলো বানর একত্র হয়ে প্রস্তর নিক্ষেপে তাকে হত্যা করল। আমিও তাদের সাথে প্রস্তর নিক্ষেপ করলাম। (আধুনিক প্রকাশনীঃ ৩৫৬২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3849</td></tr><tr><td>Arabic No</td><td>3849</td></tr><tr><td>Reference</td><td>Book 63 Hadith 74</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Nu'aim bin Hammad] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் மைமூன் (ரஹ்)85 அவர்கள் கூறியதாவது: அறியாமைக் காலத்தில் விபசாரம் புரிந்த பெண்குரங்கொன்றைக் குரங்குகள் பல சூழ்ந்துகொண்டு கல்லெறிந்து தண்டிப்பதை நான் கண்டேன். நானும் அவற்றுடன் சேர்ந்துகொண்டு அதன் மீது கல்லெறிந்தேன். அத்தியாயம் : 63
+அம்ர் பின் மைமூன் (ரஹ்)85 அவர்கள் கூறியதாவது: அறியாமைக் காலத்தில் விபசாரம் புரிந்த பெண்குரங்கொன்றைக் குரங்குகள் பல சூழ்ந்துகொண்டு கல்லெறிந்து தண்டிப்பதை நான் கண்டேன். நானும் அவற்றுடன் சேர்ந்துகொண்டு அதன் மீது கல்லெறிந்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3849</td></tr><tr><td>Arabic No</td><td>3849</td></tr><tr><td>Reference</td><td>Book 63 Hadith 74</td></tr></tbody></table></div>
 

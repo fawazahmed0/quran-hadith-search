@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Yazid bin Ziyad] dari [Abdullah bin
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Rafi, Ebu Hureyre'ye namaz vakitlerini sordu. O da «Sana söyleyeyim: Öğle namazını, gölgen boyunca olduğunda, ikindiyi, gölgen boyunun iki misli olduğunda, akşamı güneş batınca, yatsıyı akşamla gecenin üçte biri arasında, sabah namazını da henüz karanlıkken kıl» dedi. Bu Hadis Sadece Muvatta da var. Ebu Hanife'ye göre, ikindinin vakti, gölge boyun iki misli olunca başlar. Şeybanî, 1
+Abdullah b. Rafi, Ebu Hureyre'ye namaz vakitlerini sordu. O da «Sana söyleyeyim: Öğle namazını, gölgen boyunca olduğunda, ikindiyi, gölgen boyunun iki misli olduğunda, akşamı güneş batınca, yatsıyı akşamla gecenin üçte biri arasında, sabah namazını da henüz karanlıkken kıl» dedi. Bu Hadis Sadece Muvatta da var. Ebu Hanife'ye göre, ikindinin vakti, gölge boyun iki misli olunca başlar. Şeybanî
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Arabic No</td><td>9</td></tr><tr><td>Reference</td><td>Book 1 Hadith 9</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফ্‌স ইবন উমার (রহঃ) ..... আবূ সাফওয়ান ইবন উমায়র (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদ্‌মতে তাঁর মদীনায় হিজরতের আগে হাযির হয়েছিলাম। এরপর তিনি উপরোক্ত হাদীছ বর্ণনা করেন, যাতে বিনিময় গ্রহণের বদলে মাপের কথা উল্লেখ নেই।
+। আবূ সাফওয়ান ইবনু উমাইর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি মক্কায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলাম তখনও তিনি (মদীনায়) হিজরাত করেননি। এরপর হাদীসের বাকী অংশ উপরোক্ত হাদীসের অনুরূপ। কিন্তু এই বর্ণনায়ঃ ‘‘পারিশ্রমিকের বিনিময়ে’’ কথাটি উল্লেখ নেই। ইমাম আবূ দাঊদ (রহঃ) বলেন, কায়িসও সুফিয়ানের অনুরূপ বর্ণনা করেছেন। তবে সুফিয়ানের বর্ণনা সঠিক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3337</td></tr><tr><td>Arabic No</td><td>3337</td></tr><tr><td>Reference</td><td>Book 23 Hadith 12</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+এবং তিনি ই‘তিকাফরত অবস্থায় মাসজিদ হতে তাঁর মাথা বের করে দিতেন, আমি ঋতুমতী অবস্থায় তা ধুয়ে দিতাম। (২৯৫) (আধুনিক প্রকাশনীঃ ১৮৮৮, ইসলামিক ফাউন্ডেশনঃ ১৯০০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2030</td></tr><tr><td>Arabic No</td><td>2030</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: எனக்கு மாதவிடாய் ஏற்பட்டிருந்தபோது நபி (ஸல்) அவர்கள் என்னைக் கட்டி அணைப்பார்கள். அத்தியாயம் : 33
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: எனக்கு மாதவிடாய் ஏற்பட்டிருந்தபோது நபி (ஸல்) அவர்கள் என்னைக் கட்டி அணைப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2030</td></tr><tr><td>Arabic No</td><td>2030</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

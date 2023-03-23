@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম খাইবারের যুদ্ধের দিন (গৃহপালিত) গাধার গোশত খেতে নিষেধ করেছেন এবং ঘোড়ার গোশত খেতে অনুমতি দিয়েছেন। [৫৫২০-৫৫২৪; মুসলিম ৩৪/৬, হাঃ ১৯৪১, আহমাদ ১৪৮৯৬] (আধুনিক প্রকাশনীঃ ৩৮৯৮, ইসলামিক ফাউন্ডেশনঃ ৩৯০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম খাইবারের যুদ্ধের দিন (গৃহপালিত) গাধার গোশত খেতে নিষেধ করেছেন এবং ঘোড়ার গোশত খেতে অনুমতি দিয়েছেন। [৫৫২০-৫৫২৪; মুসলিম ৩৪/৬, হাঃ ১৯৪১, আহমাদ ১৪৮৯৬] (আধুনিক প্রকাশনীঃ ৩৮৯৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>4219</td></tr><tr><td>Reference</td><td>Book 64 Hadith 259</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Jabir bin 'Abdullah:On the day of Khaibar, Allah's Messenger (ﷺ) forb
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கைபர் போரின்போது (நாட்டுக்) கழுதை களின் இறைச்சியை உண்ண வேண்டாம் எனத் தடை விதித்தார்கள். குதிரைகளை (அவற்றின் இறைச்சியை உண்ணலாமென) அவர்கள் அனுமதித்தார்கள். அத்தியாயம் : 64
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கைபர் போரின்போது (நாட்டுக்) கழுதை களின் இறைச்சியை உண்ண வேண்டாம் எனத் தடை விதித்தார்கள். குதிரைகளை (அவற்றின் இறைச்சியை உண்ணலாமென) அவர்கள் அனுமதித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>4219</td></tr><tr><td>Reference</td><td>Book 64 Hadith 259</td></tr></tbody></table></div>
 

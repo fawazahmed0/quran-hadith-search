@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুর রহমান ইবন খালিদ (রহঃ) ..... মালিক ইবন মিগওয়াল (রহঃ) এই হাদিসটি বর্ণনা প্রসঙ্গে মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিম্নোক্ত কথা উল্লেখ করেছেনঃ নিশ্চয়ই ঐ ব্যক্তি আল্লাহ্‌র নিকট “ইসম আজমের” দ্বারা (মহান নামের দ্বারা) চেয়েছে। (তিরমিযী, ইবন মাজা, নাসাঈ )।
+। মালিক ইবনু মিগওয়াল (রহঃ) এ হাদীস বর্ণনা করতে গিয়ে বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি আল্লাহর ইসমে আযম দ্বারাই প্রার্থনা করেছো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1494</td></tr><tr><td>Arabic No</td><td>1494</td></tr><tr><td>Reference</td><td>Book 8 Hadith 79</td></tr></tbody></table></div>
 

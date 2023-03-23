@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন ‘আলা (রহঃ) ...... আবদুল্লাহ্ ইবন আবূ আওফা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি জিজ্ঞাসা করলাম, আপনারা কি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যামানায় খুমুস (মালে গণীমতের এক-পঞ্চমাংশ) বন্টন করতেন? তিনি বলেনঃ খায়বরের যুদ্ধের দিন আমরা যে খাদ্য-শস্য পাই, প্রত্যেক ব্যক্তি এসে তা থেকে তার প্রয়োজন মত খাদ্যশস্য নিয়ে ফিরে যায়।
+। ‘আব্দুল্লাহ ইবনু আবূ ‘আওফা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি জিজ্ঞেস করলাম, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে কি আপনারা খাদ্যদ্রব্য থেকেও এক-পঞ্চমাংশ বের করতেন? এক সাহাবী বললেন, খায়বারের যুদ্ধের দিন ‘আমরা খাদ্যদ্রব্য পাই। লোকজন এসে তাদের প্রয়োজন মতো খাদ্যদ্রব্য উঠিয়ে নিয়ে চলে যেতো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2704</td></tr><tr><td>Arabic No</td><td>2704</td></tr><tr><td>Reference</td><td>Book 15 Hadith 228</td></tr></tbody></table></div>
 

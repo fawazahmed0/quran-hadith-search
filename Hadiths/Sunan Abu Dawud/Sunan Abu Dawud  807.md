@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু ঈসা .... ইবনু উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের নামাযে তিলাওয়াতের সিজদা পাঠ করে দন্ডায়মান হন, অতঃপর তিনি রুকূ করেন। আমরা তাকে সূরা “তানযীল আস-সিজদা” পাঠ করতে দেখেছি। ইবনু ঈসা, বলেন, এই হাদীছ কেউই উমাইয়্যা হতে বর্ণনা করেন নি, বরং মু'তামির হতে বর্ণিত হয়েছে।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহর সালাতে (তিলাওয়াতে সিজদা্ পাঠ করে) সিজদা্ দিয়ে দাঁড়ালেন, তারপর রুকু‘ করলেন। আমরা তাঁকে সূরাহ ‘‘তানযীল আস-সিজদা্’’ পাঠ করতে দেখেছি। ইবনু ঈসা বলেন, মু‘তামির ছাড়া কেউই এ হাদীস উমাইয়্যাহ হতে বর্ণনা করেননি।[1] দুর্বল : মিশকাত ১০৩১।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>807</td></tr><tr><td>Arabic No</td><td>807</td></tr><tr><td>Reference</td><td>Book 2 Hadith 417</td></tr></tbody></table></div>
 

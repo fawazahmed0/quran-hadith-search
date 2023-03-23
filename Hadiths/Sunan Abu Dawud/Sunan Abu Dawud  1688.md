@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইব্‌ন সাওয়ার আল-মিস্‌রী (রহঃ) .... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তাকে এমন স্ত্রীলোক সম্পর্কে জিজ্ঞাস করা হল, যে তার স্বামীর ঘর হতে দান করে। তিনি বলেন, না, তবে তার নিজের ভরণ-পোষণের অংশ থেকে দান করতে পারে। এর ছাওয়াব উভয়েই প্রাপ্ত হবে। আর স্ত্রীর জন্য তার স্বামীর মাল হতে তার অনুমতি ব্যতীত খরচ করা বৈধ নয়।
+। আবূ হুরাইরাহ (রাঃ) হতে এমন নারী সম্পর্কে বর্ণিত, যিনি তার স্বামীর ঘর থেকে দান করে থাকেন। তিনি বলেছেন, (দান করা) বৈধ নয়, তবে স্বামী তাকে যা খোরাকী দিয়েছে, তা থেকে করতে পারবে, আর এতে ঊভয়েই সওয়াব পাবে। স্বামীর বিনা অনুমতিতে তার সম্পদ থেকে স্ত্রীর দান-খয়রাত করা বৈধ নয়।[1] সহীহ মাওকুফ। ইমাম আবূ দাউদ (রহঃ) বলেন, এ হাদীস হাম্মাদের হাদীসকে দুর্বল করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1688</td></tr><tr><td>Arabic No</td><td>1688</td></tr><tr><td>Reference</td><td>Book 9 Hadith 133</td></tr></tbody></table></div>
 

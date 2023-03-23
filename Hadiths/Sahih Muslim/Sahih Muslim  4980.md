@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৮৭৪, আন্তর্জাতিক নাম্বারঃ ১৯২৯ ৪৮৭৪-(.../...) মুহাম্মাদ ইবনু ওয়ালীদ (রহঃ) ..... আদী ইবনু হাতিম (রাযিঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণিত। (ইসলামিক ফাউন্ডেশন ৪৮২৭, ইসলামিক সেন্টার ৪৮২৮)
+মুহাম্মাদ ইবনু ওয়ালীদ (রহঃ) ..... আদী ইবনু হাতিম (রাযিঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণিত। (ইসলামিক ফাউন্ডেশন ৪৮২৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4980</td></tr><tr><td>Arabic No</td><td>1929.09</td></tr><tr><td>Reference</td><td>Book 34 Hadith 9</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১. বনী যামরার জনৈক ব্যক্তি তাহার পিতা হইতে বর্ণনা করেন-রাসূলুল্লাহ সাল্লাল্লাহু আলায়হি ওয়াসাল্লামের নিকট আকীকা সম্পর্কে জিজ্ঞাসা করা হইলে তিনি বলিয়াছিলেন, আমি উকুক[1] (পিতা মাতার অবাধ্যতা) পছন্দ করি না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই নামটি পছন্দ করিলেন না। তিনি আরো বলিয়াছিলেনঃ কাহারো সন্তান হইলে সে যদি কিছু কুরবানী করিতে চায় তবে তাহা করিতে পারে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1067</td></tr><tr><td>Arabic No</td><td>1067</td></tr><tr><td>Reference</td><td>Book 26 Hadith 1</td></tr></tbody></table></div>
 

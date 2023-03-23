@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মু‘আয (রাঃ)-কে ইয়ামানে পাঠান এবং তাকে বলেন, মাযলুমের ফরিয়াদকে ভয় করবে। কেননা, তার ফরিয়াদ এবং আল্লাহর মাঝে কোন পর্দা থাকে না। (১৩৯৫) (আধুনিক প্রকাশনীঃ ২২৬৯, ইসলামিক ফাউন্ডেশনঃ ২২৮৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মু‘আয (রাঃ)-কে ইয়ামানে পাঠান এবং তাকে বলেন, মাযলুমের ফরিয়াদকে ভয় করবে। কেননা, তার ফরিয়াদ এবং আল্লাহর মাঝে কোন পর্দা থাকে না। (১৩৯৫) (আধুনিক প্রকাশনীঃ ২২৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2448</td></tr><tr><td>Arabic No</td><td>2448</td></tr><tr><td>Reference</td><td>Book 46 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் முஆத் பின் ஜபல் (ரலி) அவர்களை யமன் நாட்டுக்கு அனுப்பிவைத்தார்கள். அப்போது ‘‘அநீதி யிழைக்கப்பட்டவரின் சாபத்திற்கு அஞ்சுங் கள். ஏனெனில், அதற்கும் அல்லாஹ் வுக்கும் இடையே எந்தத் திரையும் இல்லை” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 46
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் முஆத் பின் ஜபல் (ரலி) அவர்களை யமன் நாட்டுக்கு அனுப்பிவைத்தார்கள். அப்போது ‘‘அநீதி யிழைக்கப்பட்டவரின் சாபத்திற்கு அஞ்சுங் கள். ஏனெனில், அதற்கும் அல்லாஹ் வுக்கும் இடையே எந்தத் திரையும் இல்லை” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2448</td></tr><tr><td>Arabic No</td><td>2448</td></tr><tr><td>Reference</td><td>Book 46 Hadith 9</td></tr></tbody></table></div>
 

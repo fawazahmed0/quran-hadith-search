@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ তোমরা তোমাদের পিতা থেকে মুখ ফিরিয়ে নিও না (অর্থাৎ অস্বীকার করো না)। কারণ যে লোক নিজের পিতা থেকে মুখ ফিরিয়ে নেয় (অর্থাৎ পিতাকে অস্বীকার করে) তা কুফরী। [মুসলিম ১/২৭, হাঃ ৬২, আহমাদ ১৮০১৫] (আধুনিক প্রকাশনী-৬২৯৯ , ইসলামিক ফাউন্ডেশন- ৬৩১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ তোমরা তোমাদের পিতা থেকে মুখ ফিরিয়ে নিও না (অর্থাৎ অস্বীকার করো না)। কারণ যে লোক নিজের পিতা থেকে মুখ ফিরিয়ে নেয় (অর্থাৎ পিতাকে অস্বীকার করে) তা কুফরী। [মুসলিম ১/২৭, হাঃ ৬২, আহমাদ ১৮০১৫] (আধুনিক প্রকাশনী-৬২৯৯ , ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6768</td></tr><tr><td>Arabic No</td><td>6768</td></tr><tr><td>Reference</td><td>Book 85 Hadith 44</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ashbagh bin Al Faraj] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் தந்தையரை நீங்கள் வெறுக்காதீர்கள். யார் தம் தந்தையை வெறுத்து (வேறு யாரோ ஒருவரை தம் தந்தை என்று கூறி)விடுகிறாரோ அவர் நன்றி கொன்றவராவார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.57 அத்தியாயம் : 86
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் தந்தையரை நீங்கள் வெறுக்காதீர்கள். யார் தம் தந்தையை வெறுத்து (வேறு யாரோ ஒருவரை தம் தந்தை என்று கூறி)விடுகிறாரோ அவர் நன்றி கொன்றவராவார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.57 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6768</td></tr><tr><td>Arabic No</td><td>6768</td></tr><tr><td>Reference</td><td>Book 85 Hadith 44</td></tr></tbody></table></div>
 

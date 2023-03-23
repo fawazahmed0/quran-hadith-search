@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৫৭৮, আন্তর্জাতিক নাম্বারঃ ২৬২৩ ৬৫৭৮-(…/...) ইয়াহইয়া ইবনু ইয়াহইয়া, আহমাদ ইবনু উসমান ইবনু হাকীম (রহঃ) ..... সুহায়ল (রহঃ) হতে এ সূত্রে হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৪৪৫, ইসলামিক সেন্টার ৬৪৯৬)
+(…/...) ইয়াহইয়া ইবনু ইয়াহইয়া, আহমাদ ইবনু উসমান ইবনু হাকীম (রহঃ) ..... সুহায়ল (রহঃ) হতে এ সূত্রে হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৪৪৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6684</td></tr><tr><td>Arabic No</td><td>2623.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 181</td></tr></tbody></table></div>
 

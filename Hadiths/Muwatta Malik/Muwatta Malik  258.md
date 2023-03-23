@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৫. আসলাম (রহঃ) হইতে বর্ণিত, উমর ইবন খাত্তাব (রাঃ) রাত্রে যতক্ষণ আল্লাহ তাওফীক দিতেন নামায পড়িতেন। অতঃপর যখন প্রত্যুষের সময় হইত তিনি ঘরের লোকজনকে জাগাইয়া দিতেন। তাহাদের উদ্দেশ্যে বলিতেন, আস-সালাত, আস-সালাত (নামায, নামায)। অতঃপর কুরআন মজীদের এই আয়াতটি তিলাওয়াত করিতেনঃ (وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا لَا نَسْأَلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ وَالْعَاقِبَةُ لِلتَّقْوَىٰ) এবং তোমার পরিবারবর্গকে সালাতের আদেশ দাও ও উহাতে অবিচলিত থাক, আমি তোমার নিকট কোন জীবনোপকরণ চাহি না; আমিই তোমাকে জীবনোপকরণ দেই এবং শুভ পরিণাম তো মুত্তাকীদের জন্য। (সূরা ত্ব-হাঃ ১৩২)
+রেওয়ায়ত ৫. আসলাম (রহঃ) হইতে বর্ণিত, উমর ইবন খাত্তাব (রাঃ) রাত্রে যতক্ষণ আল্লাহ তাওফীক দিতেন নামায পড়িতেন। অতঃপর যখন প্রত্যুষের সময় হইত তিনি ঘরের লোকজনকে জাগাইয়া দিতেন। তাহাদের উদ্দেশ্যে বলিতেন, আস-সালাত, আস-সালাত (নামায, নামায)। অতঃপর কুরআন মজীদের এই আয়াতটি তিলাওয়াত করিতেনঃ (وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا لَا نَسْأَلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ وَالْعَاقِبَةُ لِلتَّقْوَىٰ) এবং তোমার পরিবারবর্গকে সালাতের আদেশ দাও ও উহাতে অবিচলিত থাক, আমি তোমার নিকট কোন জীবনোপকরণ চাহি না; আমিই তোমাকে জীবনোপকরণ দেই এবং শুভ পরিণাম তো মুত্তাকীদের জন্য। (সূরা ত্ব-হাঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 7 Hadith 5</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya related to me from Malik from Zayd ibn Aslam from his father that Umar ibn al-Khattab used to pray as much as Allah willed in the night until at the end of the night he would wake his family for the prayer. He used to say to them, "The prayer, the prayer." Then he would recite the ayat, "Enjoin prayer on your family and be constant in it. We do not ask you for your provision. We provide for you. And the end result is for taqwa." (Sura 20 ayat 132)
+Yahya related to me from Malik from Zayd ibn Aslam from his father that Umar ibn al-Khattab used to pray as much as Allah willed in the night until at the end of the night he would wake his family for the prayer. He used to say to them, "The prayer, the prayer." Then he would recite the ayat, "Enjoin prayer on your family and be constant in it. We do not ask you for your provision. We provide for you. And the end result is for taqwa." (Sura 20 ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 7 Hadith 5</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Yahya related to me from Malik from Zayd ibn Aslam from his father that Umar ibn
 
 
 <div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aslam a rapporté que Omar Ibn Al-Khattab faisait une prière nocturne, ce que Allah voulut. Vers la fin de la nuit, il réveillait sa famille en leur disant: «la prière! la prièrel», puis il récitait: «Ordonne la prière à ta famille et persévère toi-même dans la prière. Nous ne te réclamons aucun bien; c'est nous qui te donnons le nécessaire. La fin heureuse sera pour ceux qui craignent Allah». (Coran XX, 132)
+Aslam a rapporté que Omar Ibn Al-Khattab faisait une prière nocturne, ce que Allah voulut. Vers la fin de la nuit, il réveillait sa famille en leur disant: «la prière! la prièrel», puis il récitait: «Ordonne la prière à ta famille et persévère toi-même dans la prière. Nous ne te réclamons aucun bien; c'est nous qui te donnons le nécessaire. La fin heureuse sera pour ceux qui craignent Allah». (Coran XX)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 7 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Aslam a rapporté que Omar Ibn Al-Khattab faisait une prière nocturne, ce que A
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku dari Malik dari [Zaid bin Aslam] dari [Bapaknya] bahwa [Umar bin Khatthab] shalat malam dalam jumlah yang banyak, hingga ketika menjelang akhir malam dia membangunkan keluarganya untuk shalat. Dia berkata kepada mereka; "ASHSHALAAH ASHSHALAAH (shalatlah kalian, shalatlah kalian) ." Setelah itu ia membaca ayat; '(Dan perintahkanlah kepada keluargamu mendirikan shalat dan Bersabarlah kamu dalam mengerjakannya. Kami tidak meminta rezki kepadamu, kamilah yang memberi rezki kepadamu. dan akibat (yang baik) itu adalah bagi orang yang bertakwa) ' (Qs. Thaahaa: 132)
+Telah menceritakan kepadaku dari Malik dari [Zaid bin Aslam] dari [Bapaknya] bahwa [Umar bin Khatthab] shalat malam dalam jumlah yang banyak, hingga ketika menjelang akhir malam dia membangunkan keluarganya untuk shalat. Dia berkata kepada mereka; "ASHSHALAAH ASHSHALAAH (shalatlah kalian, shalatlah kalian) ." Setelah itu ia membaca ayat; '(Dan perintahkanlah kepada keluargamu mendirikan shalat dan Bersabarlah kamu dalam mengerjakannya. Kami tidak meminta rezki kepadamu, kamilah yang memberi rezki kepadamu. dan akibat (yang baik) itu adalah bagi orang yang bertakwa) ' (Qs. Thaahaa:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 7 Hadith 5</td></tr></tbody></table></div>
 

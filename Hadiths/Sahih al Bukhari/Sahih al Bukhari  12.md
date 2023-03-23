@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘আমর (রাঃ) হতে বর্ণিত। জনৈক ব্যক্তি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে জিজ্ঞেস করল, ইসলামের কোন্ জিনিসটি উত্তম? তিনি বললেন, তুমি খাদ্য খাওয়াবে ও চেনা অচেনা সকলকে সালাম দিবে। (২৮, ৬২৩৬; মুসলিম ১/১৪ হাঃ ৪২, আহমাদ ৬৭৬৫) (আধুনিক প্রকাশনীঃ ১১, ইসলামিক ফাউন্ডেশনঃ ১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘আমর (রাঃ) হতে বর্ণিত। জনৈক ব্যক্তি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে জিজ্ঞেস করল, ইসলামের কোন্ জিনিসটি উত্তম? তিনি বললেন, তুমি খাদ্য খাওয়াবে ও চেনা অচেনা সকলকে সালাম দিবে। (২৮, ৬২৩৬; মুসলিম ১/১৪ হাঃ ৪২, আহমাদ ৬৭৬৫) (আধুনিক প্রকাশনীঃ ১১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Arabic No</td><td>12</td></tr><tr><td>Reference</td><td>Book 2 Hadith 5</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin 'Amr: A man asked the Prophet (ﷺ) , "What sort of deeds or (what qualities of) Islam are good?" The Prophet (ﷺ) replied, 'To feed (the poor) and greet those whom you know and those whom you do not Know (See Hadith No. 27)
+Narrated 'Abdullah bin 'Amr: A man asked the Prophet (ﷺ) , "What sort of deeds or (what qualities of) Islam are good?" The Prophet (ﷺ) replied, 'To feed (the poor) and greet those whom you know and those whom you do not Know (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Arabic No</td><td>12</td></tr><tr><td>Reference</td><td>Book 2 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin Khalid] berkata, Telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், “இஸ்லாமி(யப் பண்புகளி)ல் சிறந்தது எது?” எனக் கேட்டார். அதற்கு நபி (ஸல்) அவர்கள் “(பசித்தோருக்கு) நீங்கள் உணவளிப்பதும், நீங்கள் அறிந்தவருக்கும் அறியாதவருக்கும் சலாம் (முகமன்) கூறுவதும் ஆகும்” என்று பதிலளித்தார்கள்.14 அத்தியாயம் : 2
+அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், “இஸ்லாமி(யப் பண்புகளி)ல் சிறந்தது எது?” எனக் கேட்டார். அதற்கு நபி (ஸல்) அவர்கள் “(பசித்தோருக்கு) நீங்கள் உணவளிப்பதும், நீங்கள் அறிந்தவருக்கும் அறியாதவருக்கும் சலாம் (முகமன்) கூறுவதும் ஆகும்” என்று பதிலளித்தார்கள்.14 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Arabic No</td><td>12</td></tr><tr><td>Reference</td><td>Book 2 Hadith 5</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Amru bin Khalid] berkata, Telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Amr'dan radiyallahu anh'dan rivayet edildiğine göre bir adam Nebi (sallallahu aleyhi ve sellem)'e : "İslâm'ın hangi ameli daha faziletlidir?" diye sordu.Nebi sallallahu aleyhi ve sellem şöyle cevap verdi: "Yemek yedirmen, tanıdığın ve tanımadığın herkese selâm vermendir. Tekrarı: 28, 6236
+Abdullah b. Amr'dan radiyallahu anh'dan rivayet edildiğine göre bir adam Nebi (sallallahu aleyhi ve sellem)'e : "İslâm'ın hangi ameli daha faziletlidir?" diye sordu.Nebi sallallahu aleyhi ve sellem şöyle cevap verdi: "Yemek yedirmen, tanıdığın ve tanımadığın herkese selâm vermendir. Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Arabic No</td><td>12</td></tr><tr><td>Reference</td><td>Book 2 Hadith 5</td></tr></tbody></table></div>
 

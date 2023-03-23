@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২১, আন্তর্জাতিক নাম্বারঃ ১৬ ২১-(২১/...) উবাইদুল্লাহ ইবনু মু'আয (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে বর্ণনা করেন। রাসূলুল্লাহ বলেছেন, পাঁচটি বিষয়ের উপর ইসলামের ভিত্তি প্রতিষ্ঠিত, আল্লাহ ছাড়া প্রকৃত কোন ইলাহ নেই, আর মুহাম্মাদসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার বান্দা ও রাসূল- এ কথার সাক্ষ্য প্রদান করা, সালাত কায়িম করা, যাকাত দেয়া, বাইতুল্লাহর হজ্জ করা ও রমাযানের সিয়াম পালন করা। (ইসলামিক ফাউন্ডেশনঃ ২১, ইসলামিক সেন্টারঃ ২১)
+উবাইদুল্লাহ ইবনু মু'আয (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে বর্ণনা করেন। রাসূলুল্লাহ বলেছেন, পাঁচটি বিষয়ের উপর ইসলামের ভিত্তি প্রতিষ্ঠিত, আল্লাহ ছাড়া প্রকৃত কোন ইলাহ নেই, আর মুহাম্মাদসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার বান্দা ও রাসূল- এ কথার সাক্ষ্য প্রদান করা, সালাত কায়িম করা, যাকাত দেয়া, বাইতুল্লাহর হজ্জ করা ও রমাযানের সিয়াম পালন করা। (ইসলামিক ফাউন্ডেশনঃ ২১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>113</td></tr><tr><td>Arabic No</td><td>16.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 21</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ubeydullah b. Muaz tahdis etti, bana babam tahdis etti. Bize Asım -ki o ibn Muhammed b. Zeyd b. Abdullah b. Ömer'dir- babasından şöyle dediğini tahdis etti: Abdullah dedi ki: Resulullah (sallallahu aleyhi ve sellem) şöyle buyurdu: "İslam beş temel üzerine bina edilmiştir: Allah'tan başka ilah olmadığına ve Muhammed'in onun kulu ve Rasulü olduğuna şahôdet etmek, namazı dosdoğru kılmak, zekatı vermek, Beyti haccetmek ve ramazan orucunu tutmak (üzerine). " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 7429
+Bize Ubeydullah b. Muaz tahdis etti, bana babam tahdis etti. Bize Asım -ki o ibn Muhammed b. Zeyd b. Abdullah b. Ömer'dir- babasından şöyle dediğini tahdis etti: Abdullah dedi ki: Resulullah (sallallahu aleyhi ve sellem) şöyle buyurdu: "İslam beş temel üzerine bina edilmiştir: Allah'tan başka ilah olmadığına ve Muhammed'in onun kulu ve Rasulü olduğuna şahôdet etmek, namazı dosdoğru kılmak, zekatı vermek, Beyti haccetmek ve ramazan orucunu tutmak (üzerine). " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>113</td></tr><tr><td>Arabic No</td><td>16.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 21</td></tr></tbody></table></div>
 

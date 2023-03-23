@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ক্বিয়ামাত (কিয়ামত) সংঘটিত হবে না যতক্ষণ না কাহতান গোত্র থেকে এমন এক লোক বের হবে, যে মানুষকে লাঠি দিয়ে তাড়িয়ে দেবে। [৩৪১৭] (আধুনিক প্রকাশনী- ৬৬১৮, ইসলামিক ফাউন্ডেশন- ৬৬৩২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ক্বিয়ামাত (কিয়ামত) সংঘটিত হবে না যতক্ষণ না কাহতান গোত্র থেকে এমন এক লোক বের হবে, যে মানুষকে লাঠি দিয়ে তাড়িয়ে দেবে। [৩৪১৭] (আধুনিক প্রকাশনী- ৬৬১৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7117</td></tr><tr><td>Arabic No</td><td>7117</td></tr><tr><td>Reference</td><td>Book 92 Hadith 64</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdul Aziz bin Abdullah], telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ‘கஹ்தான்’ குலத்திலிருந்து ஒரு மனிதர் தோன்றி, தமது கைத்தடியால் மக்களை ஓட்டிச்செல்லாத வரை மறுமை நாள் வராது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.47 அத்தியாயம் : 92
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ‘கஹ்தான்’ குலத்திலிருந்து ஒரு மனிதர் தோன்றி, தமது கைத்தடியால் மக்களை ஓட்டிச்செல்லாத வரை மறுமை நாள் வராது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.47 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7117</td></tr><tr><td>Arabic No</td><td>7117</td></tr><tr><td>Reference</td><td>Book 92 Hadith 64</td></tr></tbody></table></div>
 

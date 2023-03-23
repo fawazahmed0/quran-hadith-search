@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাস‘ঊদ আনসারী (রাযি.) থেকে বর্ণিত, তিনি বলেন, একদা জনৈক ব্যক্তি বলল, ‘হে আল্লাহর রাসূল! আমি সালাতে (জামা‘আতে) শামিল হতে পারি না। কারণ অমুক ব্যক্তি আমাদের নিয়ে খুব দীর্ঘ সালাত আদায় করেন। [আবূ মাস‘ঊদ (রাযি.) বলেন,] আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে কোন নাসীহাতের মাজলিসে সেদিনের তুলনায় অধিক রাগান্বিত হতে দেখিনি। (রাগত স্বরে) তিনি বললেনঃ হে লোক সকল! তোমরা মানুষের মধ্যে বিরক্তির সৃষ্টি কর। অতএব যে লোকদের নিয়ে সালাত আদায় করবে সে যেন সংক্ষেপ করে। কারণ তাদের মধ্যে রোগী, দুর্বল ও কর্মব্যস্ত লোকও থাকে। (৭০২, ৭০৪, ৬১১০, ৭১৫৯) (আধুনিক প্রকাশনীঃ ৯০, ইসলামিক ফাউন্ডেশনঃ ৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাস‘ঊদ আনসারী (রাযি.) থেকে বর্ণিত, তিনি বলেন, একদা জনৈক ব্যক্তি বলল, ‘হে আল্লাহর রাসূল! আমি সালাতে (জামা‘আতে) শামিল হতে পারি না। কারণ অমুক ব্যক্তি আমাদের নিয়ে খুব দীর্ঘ সালাত আদায় করেন। [আবূ মাস‘ঊদ (রাযি.) বলেন,] আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে কোন নাসীহাতের মাজলিসে সেদিনের তুলনায় অধিক রাগান্বিত হতে দেখিনি। (রাগত স্বরে) তিনি বললেনঃ হে লোক সকল! তোমরা মানুষের মধ্যে বিরক্তির সৃষ্টি কর। অতএব যে লোকদের নিয়ে সালাত আদায় করবে সে যেন সংক্ষেপ করে। কারণ তাদের মধ্যে রোগী, দুর্বল ও কর্মব্যস্ত লোকও থাকে। (৭০২, ৭০৪, ৬১১০, ৭১৫৯) (আধুনিক প্রকাশনীঃ ৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Arabic No</td><td>90</td></tr><tr><td>Reference</td><td>Book 3 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமஸ்ஊத் (உக்பா பின் அம்ர்) அல்அன்சாரி (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் (நபி (ஸல்) அவர்களிடம்), “அல்லாஹ்வின் தூதரே! இன்ன மனிதர் (இமாமாக நின்று தொழுகை நடத்தும் போது) தொழுகையை எங்களுக்கு நீட்டிக்கொண்டே போவதால் என்னால் பெரும்பாலும் (கூட்டுத்) தொழுகையை அடைந்துகொள்ள முடிவதில்லை” என்று கூறினார். (இதைக் கேட்ட நபி (ஸல்) அவர்கள் உரையாற்றலானார்கள்.) முன் எப்போதும் நான் கண்டிராத அளவுக்குக் கடும் கோபத்தை அன்றைய உரையில் நான் நபி (ஸல்) அவர்களிடம் கண்டேன். (அவ்வுரையில்) “மக்களே! நீங்கள் வெறுப்பூட்டுபவர்களாகவே உள்ளீர்கள். யார் மக்களுக்குத் தொழுகை நடத்தினா லும் அவர் சுருக்கமா(கவே தொழுவி)க் கட்டும். ஏனெனில், (தொழவந்த) மக்களில் நோயாளிகள், பலவீனமானவர்கள், (பல்வேறு) அலுவல் உடையோர் இருப்பார்கள்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 3
+அபூமஸ்ஊத் (உக்பா பின் அம்ர்) அல்அன்சாரி (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் (நபி (ஸல்) அவர்களிடம்), “அல்லாஹ்வின் தூதரே! இன்ன மனிதர் (இமாமாக நின்று தொழுகை நடத்தும் போது) தொழுகையை எங்களுக்கு நீட்டிக்கொண்டே போவதால் என்னால் பெரும்பாலும் (கூட்டுத்) தொழுகையை அடைந்துகொள்ள முடிவதில்லை” என்று கூறினார். (இதைக் கேட்ட நபி (ஸல்) அவர்கள் உரையாற்றலானார்கள்.) முன் எப்போதும் நான் கண்டிராத அளவுக்குக் கடும் கோபத்தை அன்றைய உரையில் நான் நபி (ஸல்) அவர்களிடம் கண்டேன். (அவ்வுரையில்) “மக்களே! நீங்கள் வெறுப்பூட்டுபவர்களாகவே உள்ளீர்கள். யார் மக்களுக்குத் தொழுகை நடத்தினா லும் அவர் சுருக்கமா(கவே தொழுவி)க் கட்டும். ஏனெனில், (தொழவந்த) மக்களில் நோயாளிகள், பலவீனமானவர்கள், (பல்வேறு) அலுவல் உடையோர் இருப்பார்கள்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Arabic No</td><td>90</td></tr><tr><td>Reference</td><td>Book 3 Hadith 32</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Mes'ud el-Ensarî şöyle demiştir: Bir adam Nebimize: Ey Allah'ın Resulü! Falanca bize namaz kıldırırken namazı uzattığından neredeyse cemaatle namaza yaklaşmıyorum (arasıra terk ediyorum)"demişti. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) o gün verdiği vaaz sırasındaki öfkeli halinden daha öfkeli olarak görmedim. şöyle buyurdu: "Ey insanlar! Sizler nefret ettiriyorsunuz, insanlara namaz kıldıran kişi (namazı) hafif tutsun. Çünkü namaz kılanların (cemaatin) içinde hasta, zayıf ve ihtiyaç sahibi olanlar vardır. Tekrar: 702, 704, 6110, 7159
+Ebu Mes'ud el-Ensarî şöyle demiştir: Bir adam Nebimize: Ey Allah'ın Resulü! Falanca bize namaz kıldırırken namazı uzattığından neredeyse cemaatle namaza yaklaşmıyorum (arasıra terk ediyorum)"demişti. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) o gün verdiği vaaz sırasındaki öfkeli halinden daha öfkeli olarak görmedim. şöyle buyurdu: "Ey insanlar! Sizler nefret ettiriyorsunuz, insanlara namaz kıldıran kişi (namazı) hafif tutsun. Çünkü namaz kılanların (cemaatin) içinde hasta, zayıf ve ihtiyaç sahibi olanlar vardır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Arabic No</td><td>90</td></tr><tr><td>Reference</td><td>Book 3 Hadith 32</td></tr></tbody></table></div>
 

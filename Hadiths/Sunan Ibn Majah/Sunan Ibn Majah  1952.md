@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৯৫২। কায়েস ইবনুল হারিস (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি ইসলাম গ্রহণ করলাম এবং তখন আমার আটজন স্ত্রী ছিল। আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়ে বিষয়টি তাঁকে জানালাম। তিনি বলেনঃ তাদের মধ্যে তোমার পছন্দমত চারজনকে রেখে দাও।
+। কায়েস ইবনুল হারিস (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি ইসলাম গ্রহণ করলাম এবং তখন আমার আটজন স্ত্রী ছিল। আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়ে বিষয়টি তাঁকে জানালাম। তিনি বলেনঃ তাদের মধ্যে তোমার পছন্দমত চারজনকে রেখে দাও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 9 Hadith 108</td></tr></tbody></table></div>
 

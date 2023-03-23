@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩১৮৪। আবুল ‘উশারা (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! কণ্ঠনালী ও বুকের উপরিভাগের মাঝখান ছাড়া কি যবেহ হয় না? তিনি বলেনঃ তুমি যদি তার উরুতে বর্শা ঢুকিয়ে দিতে পারো তবে তা তোমার জন্য যথেষ্ট হবে।
+। আবুল ‘উশারা (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! কণ্ঠনালী ও বুকের উপরিভাগের মাঝখান ছাড়া কি যবেহ হয় না? তিনি বলেনঃ তুমি যদি তার উরুতে বর্শা ঢুকিয়ে দিতে পারো তবে তা তোমার জন্য যথেষ্ট হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3184</td></tr><tr><td>Arabic No</td><td>3184</td></tr><tr><td>Reference</td><td>Book 27 Hadith 23</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebü'l-Uşerâ'nın bahası (r.a.)'dan: Şöyle demiştir: Ben: Yâ Resûlallah, hayvanın şer'î kesimi, ancak boğazda veya lebbe (yâni boynun göğüse en yakın yerin)de (değil mi)dir? dedim. Resul i Ekrem (Sallallahu Aleyhi ve Sellem); «Hayvanın uyluğundan da vursan sana yeter» buyurdu. Diğer tahric: Tirmizî, sayd; Ebu Davud, Dehaya; Nesaî, dahaya; Dârimî, edahi; Ahmed b. Hanbel, IV-334
+Ebü'l-Uşerâ'nın bahası (r.a.)'dan: Şöyle demiştir: Ben: Yâ Resûlallah, hayvanın şer'î kesimi, ancak boğazda veya lebbe (yâni boynun göğüse en yakın yerin)de (değil mi)dir? dedim. Resul i Ekrem (Sallallahu Aleyhi ve Sellem); «Hayvanın uyluğundan da vursan sana yeter» buyurdu. Diğer tahric: Tirmizî, sayd; Ebu Davud, Dehaya; Nesaî, dahaya; Dârimî, edahi; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3184</td></tr><tr><td>Arabic No</td><td>3184</td></tr><tr><td>Reference</td><td>Book 27 Hadith 23</td></tr></tbody></table></div>
 

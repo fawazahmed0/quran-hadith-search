@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইয়াকূব ইবন ইবরাহীম (রহঃ) ... আবুল উশারা (রহঃ) তার পিতা থেকে বর্ণনা করেন, তিনি বলেছেনঃ আমি বললাম, ইয়া রাসূলাল্লাহ্! গলা এবং লাব্বার মধ্য ব্যতীত কি যবেহ হয় না? তিনি বললেনঃ যদি তুমি তার উরুতেও আঘাত কর, তবে তা-ই তোমার জন্য যথেষ্ট।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4408</td></tr><tr><td>Arabic No</td><td>4408</td></tr><tr><td>Reference</td><td>Book 43 Hadith 48</td></tr></tbody></table></div>
 

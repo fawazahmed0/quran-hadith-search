@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবনু ইব্রাহীম ..... আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ তোমরা কাতারের মধ্যে পরস্পর মিলে মিশে দাঁড়াও। এক কাতার অপর কাতারের নিকটে কর এবং কাঁধে কাঁধ মিলিয়ে দাঁড়াও। যার হাতে আমার জীবন, তাঁর শপথ! আমি শয়তানকে নামাযের কাতারের মধ্যে বকরীর ন্যায় প্রবেশ করতে দেখেছি। (নাসাঈ)।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা (সালাতের) কাতারসমূহে মিলে মিশে দাঁড়াবে। এক কাতারকে অপর কাতারের নিকটে রাখবে। পরস্পর কাঁধে কাঁধ মিলিয়ে দাঁড়াবে। ঐ সত্তার শপথ, যার হাতে আমার জীবন! আমি চাক্ষুস দেখতে পাচ্ছি, কাতারের খালি (ফাঁকা) জায়গাতে শয়তান যেন একটি বকরীর বাচ্চা ন্যায় প্রবেশ করছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>667</td></tr><tr><td>Arabic No</td><td>667</td></tr><tr><td>Reference</td><td>Book 2 Hadith 277</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik'den rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Saflarınızı sıklaştırınız. Ve safları birbirine yaklaştırınız. Boyunlarınız bir hizada olmasın. Nefsim elinde olan (Allah) a yemin ederim ki, şeytanların siyah ve küçük koyunlar gibi saf aralıklarına girdiklerini görüyorum.” Diğer tahric: Nesaî, imame; Ahmed b. Hanbel, III, 260; IV, 297; V, 262
+Enes b. Malik'den rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Saflarınızı sıklaştırınız. Ve safları birbirine yaklaştırınız. Boyunlarınız bir hizada olmasın. Nefsim elinde olan (Allah) a yemin ederim ki, şeytanların siyah ve küçük koyunlar gibi saf aralıklarına girdiklerini görüyorum.” Diğer tahric: Nesaî, imame; Ahmed b. Hanbel, III, 260; IV, 297; V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>667</td></tr><tr><td>Arabic No</td><td>667</td></tr><tr><td>Reference</td><td>Book 2 Hadith 277</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসা ইবন ইসমাইল (রহঃ) ...... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একদা এক ব্যক্তি রাতে নামায আদায় করাকালে উচ্চস্বরে কিরআত পাঠ করে। অতঃপর সকালে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম বলেনঃ আল্লাহ ঐ ব্যক্তির উপর রহম করুন। সে আমাকে গতরাতে কয়েকটি আয়াত স্মরণ করিয়ে দিয়েছে যা আমি ভুলতে বসেছিলাম। (বুখারী, মুসলিম, নাসাঈ)। রাবী আবু দাউদ (রহঃ) বলেন, তা ছিল সূরা আল ইমরান এই আয়াতটিঃ (وَكَأَيِّنْ مِنْ نَبِيٍّ)...।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। এক রাতে জনৈক ব্যক্তি সালাতে দাঁড়িয়ে উচ্চস্বরে ক্বিরাআত পাঠ করেন। অতঃপর ভোর হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আল্লাহ অমুকের প্রতি দয়া করুন। আজ রাতে সে আমাকে কতিপয় আয়াত স্মরণ করিয়ে দিয়েছে যা আমি বাদ দিয়েছিলাম। ইমাম আবূ দাউদ (রহঃ) বলেন, হারূন আন-নাহবী হাম্মাদ ইবনু সালামাহ হতে বর্ণনা করেন যে, তা ছিলো সূরাহ আল ‘ইমরানের এ আয়াতটিঃ ‘‘ওয়াকাআইয়্যিম মিন নাবিয়্যীন।’’[1] সহীহ : বুখারী ও মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1331</td></tr><tr><td>Arabic No</td><td>1331</td></tr><tr><td>Reference</td><td>Book 5 Hadith 82</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aishah: A man got up at night and recited the Qur'an in a loud voice. When the dawn came, the Messenger of Allah (ﷺ) said: May Allah have mercy on so-and-so who reminded me many verses that I had nearly forgotten. Abu Dawud said: Harun al-Nahwi transmitted from Hammad b. Salamah the Quranic verse of Surah Al-'Imran: "How many of the prophet fought (in Allah's way)" (3:146)
+Narrated 'Aishah: A man got up at night and recited the Qur'an in a loud voice. When the dawn came, the Messenger of Allah (ﷺ) said: May Allah have mercy on so-and-so who reminded me many verses that I had nearly forgotten. Abu Dawud said: Harun al-Nahwi transmitted from Hammad b. Salamah the Quranic verse of Surah Al-'Imran: "How many of the prophet fought (in Allah's way)" (3:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1331</td></tr><tr><td>Arabic No</td><td>1331</td></tr><tr><td>Reference</td><td>Book 5 Hadith 82</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe (r.anhâ)'dan rivayet edildiğine göre; Bir kimse geceleyin sesini yükselterek Kur'ân okumuş, sabah olunca Resûlullah (s.a.v.); "Allah falan kimseye rahmet etsin. Bana bu gece ne kadar âyet hatırlattı. Ben onları gerçekten unutmuştum" buyurmuş. Ebu Davud dedi ki: Bu hadisi Harun en-Nahvi de Hammad b. Seleme'den (şu şekilde) rivayet etti: "(Allah falan kimseye rahmet et­sin bana); Âl-i İmrân Sûresi'nde bulunan bazı kelimeleri yani (Âl-i İmrân (3), 146) âyetini hatırlattı. Diğer tahric: Buhârî, şehâdât, fedâilu'l-Kur'ân; Muslim, musâfirîn; Ahmed b. Hanbel,VI, 62
+Âişe (r.anhâ)'dan rivayet edildiğine göre; Bir kimse geceleyin sesini yükselterek Kur'ân okumuş, sabah olunca Resûlullah (s.a.v.); "Allah falan kimseye rahmet etsin. Bana bu gece ne kadar âyet hatırlattı. Ben onları gerçekten unutmuştum" buyurmuş. Ebu Davud dedi ki: Bu hadisi Harun en-Nahvi de Hammad b. Seleme'den (şu şekilde) rivayet etti: "(Allah falan kimseye rahmet et­sin bana); Âl-i İmrân Sûresi'nde bulunan bazı kelimeleri yani (Âl-i İmrân (3), 146) âyetini hatırlattı. Diğer tahric: Buhârî, şehâdât, fedâilu'l-Kur'ân; Muslim, musâfirîn; Ahmed b. Hanbel,VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1331</td></tr><tr><td>Arabic No</td><td>1331</td></tr><tr><td>Reference</td><td>Book 5 Hadith 82</td></tr></tbody></table></div>
 

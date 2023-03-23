@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন বাশশার (রহঃ) ..... ইবন আবূ মুজালিদ (রাঃ) হাদীছ বর্ণনা প্রসঙ্গে বলেন যে, আমরা এমন লোকদের সাথে অগ্রিম বিক্রি করতাম, যাদের কাছে এ ধরনের ফল থাকতো না।
+। ‘আব্দুল্লাহ ইবনু মুজালিদ (রহঃ) অথবা ইবনু আবুল মুজালিদ (রহঃ) সূত্রে এ হাদীস বর্ণিত। তিনি (ইবনু আবূ আওফা) বলেন, এমন লোকদের কাছ থেকে অগ্রিম ক্রয় করতাম যাদের কাছে এগুলো বর্তমান থাকতো না। ইমাম আবূ দাঊদ (রহঃ) বলেন, সঠিক হলো ইবনু আবুল মুজালিদ নামটি। শু‘বাহ তার বর্ণনায় ভুল করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3465</td></tr><tr><td>Arabic No</td><td>3465</td></tr><tr><td>Reference</td><td>Book 24 Hadith 50</td></tr></tbody></table></div>
 

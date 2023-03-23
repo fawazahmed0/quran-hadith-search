@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মানী (রহঃ) ...... আবদুল্লাহ্‌ ইবন যুবাইর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ ফয়সালা দিয়েছেন যে, (বিচারের সময়) বাদী-বিবাদী উভয়েই কাযীর সামনে বসা থাকবে।
+। আব্দুল্লাহ ইবনুয যুবায়র (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিদ্ধান্ত দিয়েছেন যে, বাদী-বিবাদী উভয়ে বিচারকের সামনে বসবে। সনদ দুর্বলঃ মিশকাত (৩৭৮৬)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3588</td></tr><tr><td>Arabic No</td><td>3588</td></tr><tr><td>Reference</td><td>Book 25 Hadith 18</td></tr></tbody></table></div>
 

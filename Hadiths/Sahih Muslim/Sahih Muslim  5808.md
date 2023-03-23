@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৭০১, আন্তর্জাতিক নাম্বারঃ ২২২৫ ৫৭০১-(.../...) হারূন ইবনু আবদুল্লাহ (রহঃ) ... শু’বাহ্ (রহঃ) উপরোল্লিখিত সূত্রে একই হাদীস বর্ণন করেছেন। কিন্তু তিনি (এটা সত্য) শব্দটি বলেননি। (ইসলামিক ফাউন্ডেশন ৫৬১৪, ইসলামিক সেন্টার ৫৬৪৩)
+হারূন ইবনু আবদুল্লাহ (রহঃ) ... শু’বাহ্ (রহঃ) উপরোল্লিখিত সূত্রে একই হাদীস বর্ণন করেছেন। কিন্তু তিনি (এটা সত্য) শব্দটি বলেননি। (ইসলামিক ফাউন্ডেশন ৫৬১৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5808</td></tr><tr><td>Arabic No</td><td>2225.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 160</td></tr></tbody></table></div>
 

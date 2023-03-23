@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আবূ উসামাহ (রহঃ) থেকে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। এতে রয়েছেঃ তারা আমার সৌভাগ্য কামনা করলেন। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমাকে আনসার মহিলাদের নিকট সোপর্দ করলেন। তারা আমার মাথা ধৌত করলেন এবং আমাকে পরিপাটি করলেন। পূর্বাহ্নে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উপস্থিত হওয়া পর্যন্ত কেউই আমার নিকট আসেনি। অতএব তারা আমাকে তাঁর নিকট সোপর্দ করলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4934</td></tr><tr><td>Arabic No</td><td>4934</td></tr><tr><td>Reference</td><td>Book 43 Hadith 162</td></tr></tbody></table></div>
 

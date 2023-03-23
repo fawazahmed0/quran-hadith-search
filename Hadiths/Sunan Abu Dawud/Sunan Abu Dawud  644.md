@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু ঈসা ... ইবনু জুরায়েজ হতে বর্ণিত। তিনি বলেন, আমি আতা (রহঃ)-কে অধিকাংশ সময় লম্বা বস্ত্র পরিধান করে নামায পড়তে দেখেছি। ইমাম আবূ দাউদ (রহঃ) বলেন, আসাল (রহঃ) ঐ হাদীছটি . আতা হতে, তিনি আবূ হুরায়রা (রাঃ) হতে বর্ণনা করেছেন। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লম্বা কাপড় পারিধান করে নামায পড়তে নিষেধ করেছেন।
+। ইবনু জুরায়িজ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি ‘আত্বা (রহঃ)-কে অধিকাংশ সময় কাপড় ঝুলিয়ে সালাত আদায় করতে দেখেছি। ইমাম আবূ দাউদ (রহঃ) বলেন, ‘আত্বা (রহঃ)-এর এরূপ আচরণ আবূ হুরাইরাহ্ (রাঃ)-এর হাদীসকে দূর্বল করে দেয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>644</td></tr><tr><td>Arabic No</td><td>644</td></tr><tr><td>Reference</td><td>Book 2 Hadith 254</td></tr></tbody></table></div>
 

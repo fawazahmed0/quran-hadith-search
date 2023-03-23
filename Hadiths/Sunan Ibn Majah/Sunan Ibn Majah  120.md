@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭/১২০। আব্বাদ ইবনু আবদুল্লাহ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আলী বলেছেনঃ আমি আল্লাহ্‌র বান্দা এবং তাঁর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ভাই। আমি পরম সত্যবাদী। আমার পরে কেবল মিথ্যাবাদীই এই (খেতাব) দাবি করবে। আমি লোকেদের সাত বছর পূর্বেই সালাত আদায় করেছি।
+। আব্বাদ ইবনু আবদুল্লাহ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আলী বলেছেনঃ আমি আল্লাহ্‌র বান্দা এবং তাঁর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ভাই। আমি পরম সত্যবাদী। আমার পরে কেবল মিথ্যাবাদীই এই (খেতাব) দাবি করবে। আমি লোকেদের সাত বছর পূর্বেই সালাত আদায় করেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Batil</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Batil</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>120</td></tr><tr><td>Arabic No</td><td>120</td></tr><tr><td>Reference</td><td>Book 0 Hadith 120</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুগীরাহ ইবনু শু‘বাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, আমার উম্মাতের মধ্যে সব সময় এমন একটি দল থাকবে, যারা আল্লাহর হুকুম আসা পর্যন্ত অন্যান্য লোকের বিরুদ্ধে জয়ী থাকবে। [৩৬৪০] (আধুনিক প্রকাশনী- ৬৯৪১, ইসলামিক ফাউন্ডেশন- ৬৯৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুগীরাহ ইবনু শু‘বাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, আমার উম্মাতের মধ্যে সব সময় এমন একটি দল থাকবে, যারা আল্লাহর হুকুম আসা পর্যন্ত অন্যান্য লোকের বিরুদ্ধে জয়ী থাকবে। [৩৬৪০] (আধুনিক প্রকাশনী- ৬৯৪১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7459</td></tr><tr><td>Arabic No</td><td>7459</td></tr><tr><td>Reference</td><td>Book 97 Hadith 85</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Mughira bin Shu'ba:I heard the Prophet (ﷺ) saying, "Some people from my followers will continue to be victorious over others till Allah's Order (The Hour) is established." (See Hadith No. 414)
+Narrated Al-Mughira bin Shu'ba:I heard the Prophet (ﷺ) saying, "Some people from my followers will continue to be victorious over others till Allah's Order (The Hour) is established." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7459</td></tr><tr><td>Arabic No</td><td>7459</td></tr><tr><td>Reference</td><td>Book 97 Hadith 85</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Syihab bin Ibad] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் கட்டளை(யான மறுமை நாள்) வரும்வரை என் சமுதாயத்தாரில் ஒரு குழுவினர், (உண்மையை எதிர்க்கும்) மக்கள்மீது மேலாண்மை கொண்டவர்களாகவே இருந்துகொண்டிருப்பார்கள். இதை முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.99 அத்தியாயம் : 97
+நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் கட்டளை(யான மறுமை நாள்) வரும்வரை என் சமுதாயத்தாரில் ஒரு குழுவினர், (உண்மையை எதிர்க்கும்) மக்கள்மீது மேலாண்மை கொண்டவர்களாகவே இருந்துகொண்டிருப்பார்கள். இதை முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.99 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7459</td></tr><tr><td>Arabic No</td><td>7459</td></tr><tr><td>Reference</td><td>Book 97 Hadith 85</td></tr></tbody></table></div>
 

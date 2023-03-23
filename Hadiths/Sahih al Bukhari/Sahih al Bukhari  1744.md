@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, তিনি তাকে অনুমতি দিলেন। (উপরোক্ত হাদীসের ন্যায় তবে এ হাদীসে পূর্বোক্ত হাদীসের শব্দرَخَّصَ -এর স্থলেأَذِنَ শব্দের উল্লেখ করা হয়েছে)। (১৬৩৪) (ইসলামিক ফাউন্ডেশনঃ ১৬৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, তিনি তাকে অনুমতি দিলেন। (উপরোক্ত হাদীসের ন্যায় তবে এ হাদীসে পূর্বোক্ত হাদীসের শব্দرَخَّصَ -এর স্থলেأَذِنَ শব্দের উল্লেখ করা হয়েছে)। (১৬৩৪) (ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1744</td></tr><tr><td>Arabic No</td><td>1744</td></tr><tr><td>Reference</td><td>Book 25 Hadith 222</td></tr></tbody></table></div>
 

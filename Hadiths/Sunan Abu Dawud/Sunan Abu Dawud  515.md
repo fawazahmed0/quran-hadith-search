@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফস ইবনু উমার .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ মুআযযিনের আযানের ধ্বনি যতদূর পৌছাবে তাকে ততদুর ক্ষমা করা হবে। তার জন্য কিয়ামতের দিন সমস্ত তাজা ও শুষ্ক বস্তু সাক্ষী দেবে এবং যে ব্যক্তি আযান শুনার পর জামাআতে নামায আদায়ের উদ্দেশ্যে মসজিদে হাযির হবে, সে ব্যক্তি পঁচিশ গুণ অধিক ছওয়াবের অধিকারী হবে এবং দুই নামাযের মধ্যবর্তী সময়ে কৃত যাবতীয় (সগীরাহ) গুনাহগুলি ক্ষমা করা হবে। (নাসাঈ, ইবনু মাজাহ, মুসলিম)।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুয়াজ্জিনের কণ্ঠস্বর যতদূর পর্যন্ত যায় তাকে ততদূর ক্ষমা করে দেয়া হয়। তাজা ও শুষ্ক প্রতিটি জিনিসই (কিয়ামতের দিন) তার জন্য সাক্ষী হয়ে যাবে। আর কেউ জামাআতে হাজির হলে তার জন্য পঁচিশ ওয়াক্ত সালাতের সাওয়াব লিখা হয় এবং এক সালাত থেকে আরেক সালাতের মধ্যবর্তী সময়ের গুনাহ ক্ষমা করে দেয়া হয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>515</td></tr><tr><td>Arabic No</td><td>515</td></tr><tr><td>Reference</td><td>Book 2 Hadith 125</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Hafsh bin Umar An-Namari] telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebiyy-i Ekrem (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Müezzin sesinin (ulaştığı yer) miktarınca mağfirete erişir, kuru ve yaş (ne varsa) ona şahitlik eder. (Cemaatle) namaz kılan kimseye de yirmi beş namaz (sevabı) yazılır ve ondan (cemaatle kıldığı) iki namaz arasındaki (küçük günahlar) affedilir" Diğer tahric: Buhari, ezan; Nesai, ezan; İbn Mace, ezan; Ahmed b. Hanbel.II, 136, 266, 411, 429, 458, 461; IV, 284
+Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebiyy-i Ekrem (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Müezzin sesinin (ulaştığı yer) miktarınca mağfirete erişir, kuru ve yaş (ne varsa) ona şahitlik eder. (Cemaatle) namaz kılan kimseye de yirmi beş namaz (sevabı) yazılır ve ondan (cemaatle kıldığı) iki namaz arasındaki (küçük günahlar) affedilir" Diğer tahric: Buhari, ezan; Nesai, ezan; İbn Mace, ezan; Ahmed b. Hanbel.II, 136, 266, 411, 429, 458, 461; IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>515</td></tr><tr><td>Arabic No</td><td>515</td></tr><tr><td>Reference</td><td>Book 2 Hadith 125</td></tr></tbody></table></div>
 

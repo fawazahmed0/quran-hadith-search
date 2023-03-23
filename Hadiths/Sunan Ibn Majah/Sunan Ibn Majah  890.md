@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৮৯০। ইবনু মাসঊদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের যে কেউ রুকূতে গিয়ে যেন তার রুকূতে সুবহানা রব্বিয়াল আযীম তিনবার বলে। সে তাই করলে তার রুকূ পূর্ণ হল। তোমাদের যে কেউ তার সিজদায় গিয়ে যেন সুবহানা রব্বিয়াল আলা তিনবার বলে। সে তাই করলে তার সিজদা পূর্ণ হল। আর এটা হল তার ন্যূনতম সংখ্যা।
+। ইবনু মাসঊদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের যে কেউ রুকূতে গিয়ে যেন তার রুকূতে সুবহানা রব্বিয়াল আযীম তিনবার বলে। সে তাই করলে তার রুকূ পূর্ণ হল। তোমাদের যে কেউ তার সিজদায় গিয়ে যেন সুবহানা রব্বিয়াল আলা তিনবার বলে। সে তাই করলে তার সিজদা পূর্ণ হল। আর এটা হল তার ন্যূনতম সংখ্যা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>890</td></tr><tr><td>Arabic No</td><td>890</td></tr><tr><td>Reference</td><td>Book 5 Hadith 88</td></tr></tbody></table></div>
 

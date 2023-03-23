@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। উম্মু মুবাশশির (রাঃ) বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট প্রবেশ করলাম। অতঃপর তিনি মাখলাদ ইবনু খালিদের হাদীসের অর্থানুরূপ বর্ণনা করেন জাবির (রাঃ)-এর হাদীসের মতই। বর্ণনাকারী বলেন, বিশর ইবনুল বারাআ ইবনু মা‘রূর (রাঃ) মারা গেলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইয়াহুদী মহিলাকে ডেকে এনে প্রশ্ন করেনঃ তুমি যা করেছো তা করতে কিসে তোমাকে প্ররোচিত করেছে? অতঃপর জাবির (রাঃ) বর্ণিত হাদীসের অনুরূপ। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সম্পর্কে নির্দেশ দিলে পরে তাকে হত্যা করা হয়। বর্ণনাকারী এখানে রক্তমোক্ষণের কথা উল্লেখ করেননি।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4514</td></tr><tr><td>Arabic No</td><td>4514</td></tr><tr><td>Reference</td><td>Book 41 Hadith 21</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আর-রাবী ইবনে নাফি (রহঃ) .... আবু ইসহাক (রহঃ) হতে বর্ণিত। তিনি বলেন, একদা বারাআ ইবনে আযিব (রাঃ) আমাদের নিকট সিজদার নিয়ম পদ্ধতি বর্ণনা করার সময় তাঁর হাত দুটি মাটিতে রাখেন এবং হাঁটুর উপর ভর করে পাছা উপরের দিকে উঠান, অতঃপর বলেন, রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ সিজদা সিজদা করতেন। (নাসাঈ)।
+। আবূ ইসহাক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা বারাআ ইবনু ‘আযিব (রাঃ) আমাদের কাছে সাজদার পদ্ধতি বর্ণনা করতে গিয়ে তাঁর দু’ হাত মাটিতে রাখেন এবং হাঁটুর উপর ভর করে (সিজদাতে) পাছা উঁচু করে রাখেন, অতঃপর বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এভাবে সিজদা্ করতেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>896</td></tr><tr><td>Arabic No</td><td>896</td></tr><tr><td>Reference</td><td>Book 2 Hadith 506</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ar Rabi'ah' bin Nafi' Abu Taubah] telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebü İshak dedi ki: el-Bera b. Azib bize (secdeyi) öğretti. Ellerini (yere) koydu, dizlerinin üzerine çöktü, arkasını yukarı dikti ve; "işte Resulullah (Sallallahu aleyhi ve Sellem) böyle secde ederdi" dedi. Diğer tahric: Nesaî, tatbîk; Ahmed b. Hanbel, IV, 303
+Ebü İshak dedi ki: el-Bera b. Azib bize (secdeyi) öğretti. Ellerini (yere) koydu, dizlerinin üzerine çöktü, arkasını yukarı dikti ve; "işte Resulullah (Sallallahu aleyhi ve Sellem) böyle secde ederdi" dedi. Diğer tahric: Nesaî, tatbîk; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>896</td></tr><tr><td>Arabic No</td><td>896</td></tr><tr><td>Reference</td><td>Book 2 Hadith 506</td></tr></tbody></table></div>
 

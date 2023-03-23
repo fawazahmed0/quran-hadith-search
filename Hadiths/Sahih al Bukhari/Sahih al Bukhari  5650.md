@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের সাতটি জিনিসের নির্দেশ দিয়েছেন এবং সাতটি বিষয়ে নিষেধ করেছেন। তিনি আমাদের নিষেধ করেছেনঃ সোনার আংটি, মোটা ও পাতলা এবং কারুকার্য খচিত রেশমী কাপড় ব্যবহার করতে এবং কাস্সী ও মীসারাহ [1] কাপড় ব্যবহার করতে। আর তিনি আমাদের আদেশ করেছেনঃ আমরা যেন জানাযার পশ্চাতে যাই, পীড়িতের সেবা করি এবং সালামের প্রসার ঘটাই। [১২৩৯] (আধুনিক প্রকাশনী- ৫২৩৮, ইসলামিক ফাউন্ডেশন- ৫১৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের সাতটি জিনিসের নির্দেশ দিয়েছেন এবং সাতটি বিষয়ে নিষেধ করেছেন। তিনি আমাদের নিষেধ করেছেনঃ সোনার আংটি, মোটা ও পাতলা এবং কারুকার্য খচিত রেশমী কাপড় ব্যবহার করতে এবং কাস্সী ও মীসারাহ [1] কাপড় ব্যবহার করতে। আর তিনি আমাদের আদেশ করেছেনঃ আমরা যেন জানাযার পশ্চাতে যাই, পীড়িতের সেবা করি এবং সালামের প্রসার ঘটাই। [১২৩৯] (আধুনিক প্রকাশনী- ৫২৩৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5650</td></tr><tr><td>Arabic No</td><td>5650</td></tr><tr><td>Reference</td><td>Book 75 Hadith 10</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara bin Azib:Allah's Messenger (ﷺ) ordered us to do seven things and forbade us to do seven other things. He forbade us to wear gold rings, silk, Dibaj, Istabriq, Qissy, and Maithara; and ordered us to accompany funeral processions, visit the sick and greet everybody. (See Hadith No. 104)
+Narrated Al-Bara bin Azib:Allah's Messenger (ﷺ) ordered us to do seven things and forbade us to do seven other things. He forbade us to wear gold rings, silk, Dibaj, Istabriq, Qissy, and Maithara; and ordered us to accompany funeral processions, visit the sick and greet everybody. (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5650</td></tr><tr><td>Arabic No</td><td>5650</td></tr><tr><td>Reference</td><td>Book 75 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எங்களுக்கு ஏழு விஷயங்களைக் (கடைப்பிடிக்கும்படி) கட்டளையிட்டு ஏழு விஷயங்களைத் தடை செய்தார்கள்: (ஆண்கள்) தங்க மோதிரம், சாதாரணப் பட்டு, அலங்காரப் பட்டு, தடித்த பட்டு ஆகியவற்றை அணிய வேண்டாமென்றும், பட்டு கலந்த (எகிப்திய) பஞ்சாடை, மென்பட்டுத் திண்டு (மீஸரா) ஆகிய வற்றைப் பயன்படுத்த வேண்டாமென்றும் எங்களுக்குத் தடை விதித்தார்கள். ஜனாஸாக்களைப் பின்தொடர்ந்து செல்லல், நோயாளியை நலம் விசாரித் தல், சலாமைப் பரப்புதல் ஆகியவற்றை எங்களுக்குக் கட்டளையிட்டார்கள்.8 அத்தியாயம் : 75
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எங்களுக்கு ஏழு விஷயங்களைக் (கடைப்பிடிக்கும்படி) கட்டளையிட்டு ஏழு விஷயங்களைத் தடை செய்தார்கள்: (ஆண்கள்) தங்க மோதிரம், சாதாரணப் பட்டு, அலங்காரப் பட்டு, தடித்த பட்டு ஆகியவற்றை அணிய வேண்டாமென்றும், பட்டு கலந்த (எகிப்திய) பஞ்சாடை, மென்பட்டுத் திண்டு (மீஸரா) ஆகிய வற்றைப் பயன்படுத்த வேண்டாமென்றும் எங்களுக்குத் தடை விதித்தார்கள். ஜனாஸாக்களைப் பின்தொடர்ந்து செல்லல், நோயாளியை நலம் விசாரித் தல், சலாமைப் பரப்புதல் ஆகியவற்றை எங்களுக்குக் கட்டளையிட்டார்கள்.8 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5650</td></tr><tr><td>Arabic No</td><td>5650</td></tr><tr><td>Reference</td><td>Book 75 Hadith 10</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০৯৫। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, সাফিয়্যা বিনতু হুয়াইকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিয়ে করে ওয়ালীমা অনুষ্ঠান করেন ছাতু ও খেজুর দিয়ে। — সহীহ, ইবনু মা-জাহ (১৯০৯), বুখারী, মুসলিম এ হাদীসটিকে আবু ঈসা হাসান গারীব বলেছেন।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, সাফিয়্যা বিনতু হুয়াইকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিয়ে করে ওয়ালীমা অনুষ্ঠান করেন ছাতু ও খেজুর দিয়ে। — সহীহ, ইবনু মা-জাহ (১৯০৯), বুখারী, মুসলিম এ হাদীসটিকে আবু ঈসা হাসান গারীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1095</td></tr><tr><td>Arabic No</td><td>1095</td></tr><tr><td>Reference</td><td>Book 11 Hadith 16</td></tr></tbody></table></div>
 

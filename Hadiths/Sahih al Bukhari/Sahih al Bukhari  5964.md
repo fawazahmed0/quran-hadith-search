@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসামাহ ইবনু যায়দ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (একবার) গাধার পিঠে চড়েন। পিঠের উপরে ফাদাকের তৈরী মোটা গদি ছিল। উসামাহকে তিনি তাঁর পশ্চাতে উপবিষ্ট করেন। (আধুনিক প্রকাশনী- ৫৫৩১, ইসলামিক ফাউন্ডেশন- ৫৪২৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উসামাহ ইবনু যায়দ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (একবার) গাধার পিঠে চড়েন। পিঠের উপরে ফাদাকের তৈরী মোটা গদি ছিল। উসামাহকে তিনি তাঁর পশ্চাতে উপবিষ্ট করেন। (আধুনিক প্রকাশনী- ৫৫৩১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5964</td></tr><tr><td>Arabic No</td><td>5964</td></tr><tr><td>Reference</td><td>Book 77 Hadith 180</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Abu Sh
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உஸாமா பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், கழுதை வாகனத்தில் சேணம் விரித்து, அதன் மீது ‘ஃபதக்’ நகர முரட்டுத் துணி விரித்து அதன் மீது அமர்ந்து பயணம் செய்தார்கள். தமக்குப் பின்னால் என்னை அமர்த்திக்கொண்டார்கள்.140 அத்தியாயம் : 77
+உஸாமா பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், கழுதை வாகனத்தில் சேணம் விரித்து, அதன் மீது ‘ஃபதக்’ நகர முரட்டுத் துணி விரித்து அதன் மீது அமர்ந்து பயணம் செய்தார்கள். தமக்குப் பின்னால் என்னை அமர்த்திக்கொண்டார்கள்.140 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5964</td></tr><tr><td>Arabic No</td><td>5964</td></tr><tr><td>Reference</td><td>Book 77 Hadith 180</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল আযীয ইব্‌নুস সারী (রহঃ) ..... আত্তাব ইব্‌ন উসায়েদ (রহঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম অনুমানে অঙ্গুরের পরিমাণ নির্ধারণের নির্দেশ দিয়েছেন, যেভাবে অনুমানে খেজুরের পরিমাণ নির্ধারণ করা হয় এবং শুকনা আঙ্গুর (কিস্‌মিস্‌) যাকাত হিসাবে গ্রহণ করবে, যেরূপ খেজুরের যাকাতস্বরূপ শুকনা খেজুর গ্রহণ করা হয়। (তিরমিযী, ইব্‌ন মাজা)।
+। আত্তাব ইবনু আসীদ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আঙ্গুরের পরিমাণ নির্ধারণ করতে নির্দেশ দিয়েছেন, যেমন খেজুরের পরিমাণ নির্ধারণ হয় এবং আঙ্গুরের যাকাত গ্রহণ করবে কিশমিশ দ্বারা, যেমন পাকা খেজুরের যাকাত শুকনা খেজুর দ্বারা নেয়া হয়।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
 

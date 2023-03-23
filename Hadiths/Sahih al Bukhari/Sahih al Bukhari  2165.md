@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমাদের কেউ কারো ক্রয়-বিক্রয়ের উপর যেন ক্রয়-বিক্রয় না করে এবং তোমরা পণ্য ক্রয় করো না তা বাজারে হাজির না করা পর্যন্ত। (২১৩৯) (আধুনিক প্রকাশনীঃ ২০১৬, ইসলামিক ফাউন্ডেশনঃ ২০৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমাদের কেউ কারো ক্রয়-বিক্রয়ের উপর যেন ক্রয়-বিক্রয় না করে এবং তোমরা পণ্য ক্রয় করো না তা বাজারে হাজির না করা পর্যন্ত। (২১৩৯) (আধুনিক প্রকাশনীঃ ২০১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2165</td></tr><tr><td>Arabic No</td><td>2165</td></tr><tr><td>Reference</td><td>Book 34 Hadith 116</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் வணிகம் செய்து கொண்டிருக்கும்போது, மற்றவர் குறுக்கிட்டு வணிகம் செய்யலாகாது; மேலும், விற்பனைப் பொருட்கள் சந்தைக்கு கொண்டுவந்து இறக்கப்படுவதற்குமுன் (இடையிலேயே) வாங்காதீர்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் வணிகம் செய்து கொண்டிருக்கும்போது, மற்றவர் குறுக்கிட்டு வணிகம் செய்யலாகாது; மேலும், விற்பனைப் பொருட்கள் சந்தைக்கு கொண்டுவந்து இறக்கப்படுவதற்குமுன் (இடையிலேயே) வாங்காதீர்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2165</td></tr><tr><td>Arabic No</td><td>2165</td></tr><tr><td>Reference</td><td>Book 34 Hadith 116</td></tr></tbody></table></div>
 

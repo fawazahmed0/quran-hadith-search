@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩২৩৪। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বার যুদ্ধের দিন শিকারী দাঁতযুক্ত যে কোন হিংস্র জন্তু এবং নখরযুক্ত যে কোন শিকারী পাখি আহার করতে নিষেধ করেছেন।
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বার যুদ্ধের দিন শিকারী দাঁতযুক্ত যে কোন হিংস্র জন্তু এবং নখরযুক্ত যে কোন শিকারী পাখি আহার করতে নিষেধ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3234</td></tr><tr><td>Arabic No</td><td>3234</td></tr><tr><td>Reference</td><td>Book 28 Hadith 35</td></tr></tbody></table></div>
 

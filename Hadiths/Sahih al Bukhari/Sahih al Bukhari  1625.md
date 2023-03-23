@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা্য় উপনীত হয়ে সাত চক্করে তাওয়াফ করে সাফা ও মারওয়া সা‘ঈ করেন, এরপর (প্রথম) তাওয়াফের পরে ‘আরাফাহ হতে ফিরে আসার পূর্ব পর্যন্ত বাইতুল্লাহর নিকটবর্তী হননি। (তাওয়াফ করেননি)। (১৫৪৫) (আধুনিক প্রকাশনীঃ ১৫১৭, ইসলামিক ফাউন্ডেশনঃ ১৫২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা্য় উপনীত হয়ে সাত চক্করে তাওয়াফ করে সাফা ও মারওয়া সা‘ঈ করেন, এরপর (প্রথম) তাওয়াফের পরে ‘আরাফাহ হতে ফিরে আসার পূর্ব পর্যন্ত বাইতুল্লাহর নিকটবর্তী হননি। (তাওয়াফ করেননি)। (১৫৪৫) (আধুনিক প্রকাশনীঃ ১৫১৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1625</td></tr><tr><td>Arabic No</td><td>1625</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Abu Bakar] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஹஜ்ஜுக்காக) மக்காவுக்கு வந்தபோது தவாஃப் (குதூம்) செய்தார்கள்; ஸஃபா- மர்வாவிற்கு இடையில் ஓடினார்கள். இந்த தவாஃபிற்குப் பின்னால் அரஃபாவிலிருந்து திரும்பும்வரை நபியவர்கள் கஅபாவிற்குச் செல்லவில்லை.36 அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (ஹஜ்ஜுக்காக) மக்காவுக்கு வந்தபோது தவாஃப் (குதூம்) செய்தார்கள்; ஸஃபா- மர்வாவிற்கு இடையில் ஓடினார்கள். இந்த தவாஃபிற்குப் பின்னால் அரஃபாவிலிருந்து திரும்பும்வரை நபியவர்கள் கஅபாவிற்குச் செல்லவில்லை.36 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1625</td></tr><tr><td>Arabic No</td><td>1625</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
 

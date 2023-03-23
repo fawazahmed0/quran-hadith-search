@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী ইবন মুসলিম ..... আমর হতে হাদীস বর্ণনা করতে গিয়ে বলেন, তিনি বলেছেন, আমি আবূ ওয়ায়েল হতে চমৎকার হাদীস শুনেছি। এটুকু বলার পর তিনি উপরোক্ত হাদীসের মর্মে হাদীস বর্ণনা করলেন।
+। ‘আমর ইবনু মুররাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি আবূ ওয়াইলের নিকট এমন একটি হাদীস শুনেছি, যা আমাকে হতবাক করেছে ... অতঃপর বাকী অংশ উপরের হাদীসের অনুরূপ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2518</td></tr><tr><td>Arabic No</td><td>2518</td></tr><tr><td>Reference</td><td>Book 15 Hadith 42</td></tr></tbody></table></div>
 

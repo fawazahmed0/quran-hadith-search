@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন আল মুসান্না (রহঃ) ..... আলী (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন। তিনি বলেছেন, সেখানকার (মদীনার) সবুজ বৃক্ষ যেন কেউ কর্তন না করে এবং এর কোন প্রাণী যেন শিকার না করে। আর কেউ যেন সেখানে পড়ে থাকা বস্তু (লুকতা) গ্রহণ না করে, অবশ্য যে ব্যক্তি তা ঘোষনা করে লোকদেরকে জানাবে তার কথা আলাদা। আর হত্যার উদ্দেশ্যে সেখানে তরবারি নিয়ে যাওয়া কোন ব্যক্তির জন্য উচিত নয়। আর সেখানকার কোন বৃক্ষরাজি কর্তন করাও উচিত নয়, অবশ্য উটের খাদ্য হিসাবে যা ব্যবহৃত হয় তার ব্যাপার আলাদা।
+। ‘আলী (রাযি.) থেকে পূর্বোক্ত হাদীসের ঘটনা প্রসংগে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (মদীনার) সবুজ ঘাস কাটা যাবে না, শিকার তাড়ানো যাবে না এবং পড়ে থাকা বস্তু উঠানো যাবে না। তবে ঘোষক ঘোষণার উদ্দেশ্যে তা তুলতে পারবে। কেউ সেখানে যুদ্ধের উদ্দেশ্যে কোনো হাতিয়ার নিয়ে যেতে পারবে না এবং সেখানকার কোনো বৃক্ষও কাটা যাবে না, তবে কেউ তার উটের খাদ্য সংগ্রহ করলে তা ভিন্ন কথা।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>2035</td></tr><tr><td>Reference</td><td>Book 11 Hadith 315</td></tr></tbody></table></div>
 

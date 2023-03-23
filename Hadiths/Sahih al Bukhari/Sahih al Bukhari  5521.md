@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-فِيهِ عَنْ سَلَمَةَ عَنْ النَّبِيِّ صلى الله عليه وسلم. এ ব্যাপারে সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে সালামাহ (রাঃ) বর্ণিত হাদীস আছে। ৫৫২১. ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, খাইবারের দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গৃহপালিত গাধার গোশত খেতে নিষেধ করেছেন। [৮৫৩] (আধুনিক প্রকাশনী- ৫১১৫, ইসলামিক ফাউন্ডেশন- ৫০১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فِيهِ عَنْ سَلَمَةَ عَنْ النَّبِيِّ صلى الله عليه وسلم. এ ব্যাপারে সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে সালামাহ (রাঃ) বর্ণিত হাদীস আছে। ৫৫২১. ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, খাইবারের দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গৃহপালিত গাধার গোশত খেতে নিষেধ করেছেন। [৮৫৩] (আধুনিক প্রকাশনী- ৫১১৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5521</td></tr><tr><td>Arabic No</td><td>5521</td></tr><tr><td>Reference</td><td>Book 72 Hadith 47</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Shadaqah] berkata, telah mengabarkan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கைபர் போரின் போது நாட்டுக் கழுதைகளின் இறைச் சியை உண்ணக் கூடாதெனத் தடை விதித்தார்கள்.41 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 72
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கைபர் போரின் போது நாட்டுக் கழுதைகளின் இறைச் சியை உண்ணக் கூடாதெனத் தடை விதித்தார்கள்.41 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5521</td></tr><tr><td>Arabic No</td><td>5521</td></tr><tr><td>Reference</td><td>Book 72 Hadith 47</td></tr></tbody></table></div>
 

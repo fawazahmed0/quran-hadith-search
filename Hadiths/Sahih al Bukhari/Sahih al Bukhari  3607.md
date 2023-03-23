@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুযাইফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার সঙ্গীরা কল্যাণ বিষয়ে জানতে চেয়েছেন আর আমি জানতে চেয়েছি অকল্যাণ সম্পর্কে। (৩৬০৬) (আধুনিক প্রকাশনীঃ ৩৩৩৯, ইসলামিক ফাউন্ডেশনঃ ৩৩৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হুযাইফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার সঙ্গীরা কল্যাণ বিষয়ে জানতে চেয়েছেন আর আমি জানতে চেয়েছি অকল্যাণ সম্পর্কে। (৩৬০৬) (আধুনিক প্রকাশনীঃ ৩৩৩৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3607</td></tr><tr><td>Arabic No</td><td>3607</td></tr><tr><td>Reference</td><td>Book 61 Hadith 114</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Hudhaifa:My companions learned (something about) good (through asking t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: என் தோழர்கள் (நன்மை தரும் செயல் களைப் பற்றி அதிகமாகக் கேள்விகள் கேட்டு நபி (ஸல்) அவர்களிடமிருந்து) நன்மையைக் கற்றுக்கொண்டார்கள். நான் (தவிர்ந்துகொள்ள வேண்டும் என்ற ஆர்வத்தில் நபி (ஸல்) அவர்களிடம் திரும்பத் திரும்பக் கேட்டு இனி வரவிருக்கும்) தீமையைப் பற்றித் தெரிந்து கொண்டேன். அத்தியாயம் : 61
+ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: என் தோழர்கள் (நன்மை தரும் செயல் களைப் பற்றி அதிகமாகக் கேள்விகள் கேட்டு நபி (ஸல்) அவர்களிடமிருந்து) நன்மையைக் கற்றுக்கொண்டார்கள். நான் (தவிர்ந்துகொள்ள வேண்டும் என்ற ஆர்வத்தில் நபி (ஸல்) அவர்களிடம் திரும்பத் திரும்பக் கேட்டு இனி வரவிருக்கும்) தீமையைப் பற்றித் தெரிந்து கொண்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3607</td></tr><tr><td>Arabic No</td><td>3607</td></tr><tr><td>Reference</td><td>Book 61 Hadith 114</td></tr></tbody></table></div>
 

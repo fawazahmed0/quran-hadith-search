@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে তাহনীক করার জন্য এক শিশুকে আনা হল, শিশুটি তার কোলে পেশাব করে দিল, তিনি তখন এতে পানি ঢেলে দিলেন। [২২২] (আধুনিক প্রকাশনী- ৫০৬৩, ইসলামিক ফাউন্ডেশন- ৪৯৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে তাহনীক করার জন্য এক শিশুকে আনা হল, শিশুটি তার কোলে পেশাব করে দিল, তিনি তখন এতে পানি ঢেলে দিলেন। [২২২] (আধুনিক প্রকাশনী- ৫০৬৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5468</td></tr><tr><td>Arabic No</td><td>5468</td></tr><tr><td>Reference</td><td>Book 71 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம், அவர்கள் இனிப்புப் பொருளை மென்று வாயிலிடு வதற்காக ஆண் குழந்தை ஒன்று கொண்டு வரப்பட்டது. அது அவர்கள்மீது சிறுநீர் கழித்துவிட்டது. (சிறுநீர் கழித்த) இடத்தில் நபி (ஸல்) அவர்கள் தண்ணீர் ஊற்றும்படி செய்தார்கள்.3 அத்தியாயம் : 71
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம், அவர்கள் இனிப்புப் பொருளை மென்று வாயிலிடு வதற்காக ஆண் குழந்தை ஒன்று கொண்டு வரப்பட்டது. அது அவர்கள்மீது சிறுநீர் கழித்துவிட்டது. (சிறுநீர் கழித்த) இடத்தில் நபி (ஸல்) அவர்கள் தண்ணீர் ஊற்றும்படி செய்தார்கள்.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5468</td></tr><tr><td>Arabic No</td><td>5468</td></tr><tr><td>Reference</td><td>Book 71 Hadith 2</td></tr></tbody></table></div>
 

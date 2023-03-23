@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/০০. পেশাবের উপর পানি গড়ানো। আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেনঃ একদা জনৈক বেদুঈন এসে মসজিদের এক পাশে পেশাব করে দিল। তা দেখে লোকজন তাকে ধমক দিতে লাগল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের নিষেধ করলেন। সে তার পেশাব করা শেষ করলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর আদেশে এর উপর এক বালতি পানি ঢেলে দেয়া হল। (আধুনিক প্রকাশনীঃ ২১৫, ইসলামিক ফাউন্ডেশনঃ ২২১) ২২২. উম্মুল মু’মিনীন মা ‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট একটি ছেলে শিশুকে আনা হল। শিশুটি তাঁর কাপড়ে পেশাব করে দিল। তিনি পানি আনালেন এবং এর উপর ঢেলে দিলেন। (৫৪৬৮, ৬০০২, ৬৩৫৫ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ২১৬, ইসলামিক ফাউন্ডেশনঃ ২২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بَابُ يُهَرِيقُ الْمَاءَ عَلَى الْبَوْلِ ৪/০০. পেশাবের উপর পানি গড়ানো। حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ قَالَ وَحَدَّثَنَا سُلَيْمَانُ عَنْ يَحْيَى بْنِ سَعِيدٍ قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ قَالَ جَاءَ أَعْرَابِيٌّ فَبَالَ فِي طَائِفَةِ الْمَسْجِدِ فَزَجَرَهُ النَّاسُ فَنَهَاهُمْ النَّبِيُّ صلى الله عليه وسلم فَلَمَّا قَضَى بَوْلَهُ أَمَرَ النَّبِيُّ صلى الله عليه وسلم بِذَنُوبٍ مِنْ مَاءٍ فَأُهْرِيقَ عَلَيْهِ. আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেনঃ একদা জনৈক বেদুঈন এসে মসজিদের এক পাশে পেশাব করে দিল। তা দেখে লোকজন তাকে ধমক দিতে লাগল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের নিষেধ করলেন। সে তার পেশাব করা শেষ করলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর আদেশে এর উপর এক বালতি পানি ঢেলে দেয়া হল। (আধুনিক প্রকাশনীঃ ২১৫, ইসলামিক ফাউন্ডেশনঃ ২২১) ২২২. উম্মুল মু’মিনীন মা ‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট একটি ছেলে শিশুকে আনা হল। শিশুটি তাঁর কাপড়ে পেশাব করে দিল। তিনি পানি আনালেন এবং এর উপর ঢেলে দিলেন। (৫৪৬৮, ৬০০২, ৬৩৫৫ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ২১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>222</td></tr><tr><td>Arabic No</td><td>222</td></tr><tr><td>Reference</td><td>Book 4 Hadith 88</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ஒரு ஆண் குழந்தை கொண்டு வரப்பட்டது. அக்குழந்தை, அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் ஆடையில் சிறுநீர் கழித்துவிட்டது. அப்போது (சிறிது) தண்ணீர் கொண்டுவரச் சொல்லி. அதை சிறுநீர் பட்ட இடத்தில் ஊற்றினார்கள். அத்தியாயம் : 4
+இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ஒரு ஆண் குழந்தை கொண்டு வரப்பட்டது. அக்குழந்தை, அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் ஆடையில் சிறுநீர் கழித்துவிட்டது. அப்போது (சிறிது) தண்ணீர் கொண்டுவரச் சொல்லி. அதை சிறுநீர் பட்ட இடத்தில் ஊற்றினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>222</td></tr><tr><td>Arabic No</td><td>222</td></tr><tr><td>Reference</td><td>Book 4 Hadith 88</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Mu'minlerin annesi Âişe r.anha'nın şöyle dediği rivayet edilmiştir: Resulullah (Sallallahu aleyhi ve Sellem)'e bir erkek çocuk getirildi. Çocuk, onun (Sallallahu aleyhi ve Sellem) üzerine idrarını yaptı. Bunun üzerine Hz. Nebi su istedi, çocuğun idrarını yaptığı yere döktü. Tekrar: 5468, 6002, 6355
+Mu'minlerin annesi Âişe r.anha'nın şöyle dediği rivayet edilmiştir: Resulullah (Sallallahu aleyhi ve Sellem)'e bir erkek çocuk getirildi. Çocuk, onun (Sallallahu aleyhi ve Sellem) üzerine idrarını yaptı. Bunun üzerine Hz. Nebi su istedi, çocuğun idrarını yaptığı yere döktü. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>222</td></tr><tr><td>Arabic No</td><td>222</td></tr><tr><td>Reference</td><td>Book 4 Hadith 88</td></tr></tbody></table></div>
 

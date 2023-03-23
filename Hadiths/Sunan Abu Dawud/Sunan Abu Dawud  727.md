@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হাসান ইবনু আলী ..... আসেম থেকে এই সূত্রে উপরোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে। রাবী বলেন, অতঃপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম স্বীয় ডান হাত দ্বারা বাম হাতের কব্জি ও এর জোরে আকড়িয়ে ধরেন। রাবী বলেন, অতঃপর আমি কিছুদিন পর সেখানে গিয়ে দেখতে পাই যে, সাহাবায়ে কিরাম অত্যধিক শীতের কারণে শরীর আবৃত করে রেখেছেন। এবং তাদের হাতগুলো স্ব-স্ব কাপড়ের মধ্যে নড়াচড়া করছে।
+। ‘আসিম হতে এই সূত্রে অনুরূপ হাদীস বর্ণিত হয়েছে। বর্ণনাকারী বলেন, অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের ডান হাত দিয়ে বাম হাতের কব্জি ও জোড়া আঁকড়ে ধরেন। বর্ণনাকারী বলেন, অতঃপর আমি কয়েক দিন পর সেখানে গিয়ে দেখলাম, সাহাবীগণ প্রচন্ড শীতের দরুণ শরীর আবৃত করে রেখেছেন। এ সময় তাঁদের হাতগুলো নিজ নিজ কাপড়ের নীচে নড়াচড়া করছিল (রফ‘উল ইয়াদাইনের কারণে)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>727</td></tr><tr><td>Arabic No</td><td>727</td></tr><tr><td>Reference</td><td>Book 2 Hadith 337</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ The above tradition has been transmitted by ‘Asim b. Kulaib through a differen
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bir önceki (726 nolu) hadis) aynı senedle, mana olarak (bir de) Hasen b. Ali Ebu'l-Velid, Zaide ve Asim b. Küleyb vasıtasıyla rivayet edilmiştir. (Ancak) bu rivayette (farklı olarak Zaide şunları) söyledi: "Sağ elini sol elinin üstüne, kolun ve bileğin üstüne (gelecek şekilde) koydu." Yine bu rivayette (farklı olarak şöyle) dedi: Bu hadiseden sonra çok soğuk bir günde yine namaz kılmak üzere (bu cemaatin) yanlarına geldim, cemaatin üzerlerinde kat kat elbiseler vardı. Elleri elbiselerin altında hareket ediyordu. Diğer tahric: Müslim, salat; Tirmizî, salat: Nesaî, sehv, iftitah; tatbik; İbn Mace, ikame; Darimî, salat ; Ahmed b. Hanbel, II, 3; V, 424
+Bir önceki (726 nolu) hadis) aynı senedle, mana olarak (bir de) Hasen b. Ali Ebu'l-Velid, Zaide ve Asim b. Küleyb vasıtasıyla rivayet edilmiştir. (Ancak) bu rivayette (farklı olarak Zaide şunları) söyledi: "Sağ elini sol elinin üstüne, kolun ve bileğin üstüne (gelecek şekilde) koydu." Yine bu rivayette (farklı olarak şöyle) dedi: Bu hadiseden sonra çok soğuk bir günde yine namaz kılmak üzere (bu cemaatin) yanlarına geldim, cemaatin üzerlerinde kat kat elbiseler vardı. Elleri elbiselerin altında hareket ediyordu. Diğer tahric: Müslim, salat; Tirmizî, salat: Nesaî, sehv, iftitah; tatbik; İbn Mace, ikame; Darimî, salat ; Ahmed b. Hanbel, II, 3; V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>727</td></tr><tr><td>Arabic No</td><td>727</td></tr><tr><td>Reference</td><td>Book 2 Hadith 337</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ইসমাঈলের মায়ের প্রতি আল্লাহর রহম করুন। যদি তিনি তাড়াহুড়া না করতেন, তবে যমযম একটি প্রবহমান ঝরণায় পরিণত হত। (২৩৬৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনসারী (রহ.) ইবনু জুরাইজ (রহ.) সূত্রে বলেন যে, কাসীর ইবনু কাসীর বলেছেন যে, আমি ও ‘উসমান ইবনু আবূ সুলাইমান (রহ.) সা‘ঈদ ইবনু জুবাইর (রহ.)-এর নিকট উপবিষ্ট ছিলাম। তিনি বললেন, ইবনু ‘আব্বাস (রাঃ) আমাকে এরূপ বলেননি বরং তিনি বলেছেন, ইবরাহীম (আঃ), ইসমাঈল (আঃ) এবং তাঁর মাকে নিয়ে আসলেন। মা তখন তাঁকে দুধ পান করাতেন এবং তাঁর সঙ্গে একটি মশক ছিল। এ অংশটি মারফুরূপে বর্ণনা করেননি। (২৩৬৮) (আধুনিক প্রকাশনীঃ ৩১১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3362</td></tr><tr><td>Arabic No</td><td>3362</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

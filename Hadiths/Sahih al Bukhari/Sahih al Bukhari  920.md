@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ أَنَسٌ بَيْنَا النَّبِيُّ صلى الله عليه وسلم يَخْطُبُ قَائِمًا. আনাস (রাযি.) বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে খুতবাহ দিতেন। ৯২০. ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে খুৎবাহ দিতেন। অতঃপর বসতেন এবং পুনরায় দাঁড়াতেন। যেমন তোমরা এখন করে থাক। (৯২৮ মুসলিম ৭/১০, হাঃ ৮৬১, আহমাদ ৫৭৩০) (আধুনিক প্রকাশনীঃ ৮৬৭, ইসলামিক ফাউন্ডেশনঃ ৮৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ أَنَسٌ بَيْنَا النَّبِيُّ صلى الله عليه وسلم يَخْطُبُ قَائِمًا. আনাস (রাযি.) বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে খুতবাহ দিতেন। ৯২০. ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে খুৎবাহ দিতেন। অতঃপর বসতেন এবং পুনরায় দাঁড়াতেন। যেমন তোমরা এখন করে থাক। (৯২৮ মুসলিম ৭/১০, হাঃ ৮৬১, আহমাদ ৫৭৩০) (আধুনিক প্রকাশনীঃ ৮৬৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>920</td></tr><tr><td>Arabic No</td><td>920</td></tr><tr><td>Reference</td><td>Book 11 Hadith 44</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin 'Umar Al Qawariri] berkata, tela
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நீங்கள் இப்போது செய்துவருவதைப் போன்றே, நபி (ஸல்) அவர்கள் நின்று கொண்டு உரை நிகழ்த்திவிட்டுப் பிறகு உட்கார்ந்துவிட்டு (மீண்டும்) எழுவார்கள். அத்தியாயம் : 11
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நீங்கள் இப்போது செய்துவருவதைப் போன்றே, நபி (ஸல்) அவர்கள் நின்று கொண்டு உரை நிகழ்த்திவிட்டுப் பிறகு உட்கார்ந்துவிட்டு (மீண்டும்) எழுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>920</td></tr><tr><td>Arabic No</td><td>920</td></tr><tr><td>Reference</td><td>Book 11 Hadith 44</td></tr></tbody></table></div>
 

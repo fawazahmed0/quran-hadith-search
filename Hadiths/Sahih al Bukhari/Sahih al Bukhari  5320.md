@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মিসওয়ার ইবনু মাখরামাহ (রাঃ) হতে বর্ণিত যে, সুবায়‘আ আসলামীয়া তার স্বামীর মৃত্যুর কয়েকদিন পর সন্তান প্রসব করে। এরপর সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বিয়ে করার অনুমতি প্রার্থনা করে, তিনি তাকে অনুমতি দেন। তখন সে বিয়ে করে। আধুনিক প্রকাশনী- ৪৯৩০, ইসলামিক ফাউন্ডেশন- ৪৮২৫
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মিসওয়ার ইবনু মাখরামাহ (রাঃ) হতে বর্ণিত যে, সুবায়‘আ আসলামীয়া তার স্বামীর মৃত্যুর কয়েকদিন পর সন্তান প্রসব করে। এরপর সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বিয়ে করার অনুমতি প্রার্থনা করে, তিনি তাকে অনুমতি দেন। তখন সে বিয়ে করে। আধুনিক প্রকাশনী- ৪৯৩০, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5320</td></tr><tr><td>Arabic No</td><td>5320</td></tr><tr><td>Reference</td><td>Book 68 Hadith 69</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Qaza'ah] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மிஸ்வர் பின் மக்ரமா (ரலி) அவர்கள் கூறியதாவது: தம் கணவர் இறந்த சில நாட்களுக்குப்பின் சுபைஆ அல்அஸ்லமிய்யா (ரலி) அவர்கள் பிரசவித்தார்கள். பிறகு நபி (ஸல்) அவர்களிடம் சென்று (மறு)மணம் புரிந்துகொள்ள அனுமதி கோரினார்கள். அப்போது நபி (ஸல்) அவர்கள் அவருக்கு அனுமதி அளித்ததையடுத்து அவர் (ஒருவரை) மணந்துகொண்டார். அத்தியாயம் : 68
+மிஸ்வர் பின் மக்ரமா (ரலி) அவர்கள் கூறியதாவது: தம் கணவர் இறந்த சில நாட்களுக்குப்பின் சுபைஆ அல்அஸ்லமிய்யா (ரலி) அவர்கள் பிரசவித்தார்கள். பிறகு நபி (ஸல்) அவர்களிடம் சென்று (மறு)மணம் புரிந்துகொள்ள அனுமதி கோரினார்கள். அப்போது நபி (ஸல்) அவர்கள் அவருக்கு அனுமதி அளித்ததையடுத்து அவர் (ஒருவரை) மணந்துகொண்டார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5320</td></tr><tr><td>Arabic No</td><td>5320</td></tr><tr><td>Reference</td><td>Book 68 Hadith 69</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ‘আমি তোমাদের দানও করি না এবং তোমাদের বঞ্চিতও করি না। আমি তো মাত্র বণ্টনকারী, যেভাবে নির্দেশিত হই, সেভাবে ব্যয় করি।’ (আধুনিক প্রকাশনীঃ ২৮৮৩, ইসলামিক ফাউন্ডেশনঃ ২৮৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ‘আমি তোমাদের দানও করি না এবং তোমাদের বঞ্চিতও করি না। আমি তো মাত্র বণ্টনকারী, যেভাবে নির্দেশিত হই, সেভাবে ব্যয় করি।’ (আধুনিক প্রকাশনীঃ ২৮৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3117</td></tr><tr><td>Arabic No</td><td>3117</td></tr><tr><td>Reference</td><td>Book 57 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Sinan] telah bercerita kepada kami [Fu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் (எதையும்) உங்களுக்குக் கொடுப்பதுமில்லை; (எதையும்) உங்களுக் குக் கொடுக்காமல் தடுத்து நிறுத்திக் கொள்வதுமில்லை. நான் பங்கிடுபவன்தான். எங்கு கொடுக்கும்படி (அல்லாஹ்வால்) எனக்குக் கட்டளையிடப்படுகிறதோ அங்கு கொடுக்கின்றேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 57
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் (எதையும்) உங்களுக்குக் கொடுப்பதுமில்லை; (எதையும்) உங்களுக் குக் கொடுக்காமல் தடுத்து நிறுத்திக் கொள்வதுமில்லை. நான் பங்கிடுபவன்தான். எங்கு கொடுக்கும்படி (அல்லாஹ்வால்) எனக்குக் கட்டளையிடப்படுகிறதோ அங்கு கொடுக்கின்றேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3117</td></tr><tr><td>Arabic No</td><td>3117</td></tr><tr><td>Reference</td><td>Book 57 Hadith 26</td></tr></tbody></table></div>
 

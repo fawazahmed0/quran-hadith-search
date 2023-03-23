@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৬৯, আন্তর্জাতিক নাম্বারঃ ৯২ ১৬৯-(১৫০/৯২) মুহাম্মাদ ইবনু আবদুল্লাহ ইবনু নুমায়র (রহঃ) ..... 'আবদুল্লাহ ইবনু মাসউদ (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, অন্য বর্ণনায় রাসূল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে বলতে শুনেছি। যে ব্যক্তি আল্লাহর সাথে কোন কিছুকে শারীক করে মারা যাবে সে জাহান্নামে প্রবেশ করবে। আমি বলি, যে ব্যক্তি আল্লাহর সাথে অন্য কাউকে শারীক না করা অবস্থায় মারা যায় সে জান্নাতে প্রবেশ করবে। (ইসলামিক ফাউন্ডেশনঃ ১৭০, ইসলামিক সেন্টারঃ ১৭৬)
+মুহাম্মাদ ইবনু আবদুল্লাহ ইবনু নুমায়র (রহঃ) ..... 'আবদুল্লাহ ইবনু মাসউদ (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, অন্য বর্ণনায় রাসূল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে বলতে শুনেছি। যে ব্যক্তি আল্লাহর সাথে কোন কিছুকে শারীক করে মারা যাবে সে জাহান্নামে প্রবেশ করবে। আমি বলি, যে ব্যক্তি আল্লাহর সাথে অন্য কাউকে শারীক না করা অবস্থায় মারা যায় সে জান্নাতে প্রবেশ করবে। (ইসলামিক ফাউন্ডেশনঃ ১৭০, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>268</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 174</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. Abdullah b. Numeyr tahdis etti. Bize babam ve Veki' A'meş'den tahdis etti. O Şakik'den, o Abdullah'tan -Veki' rivayetinde Abdullah'ın-: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu, dedi (diye rivayet etti). İbn Numeyr de (Abdullah): Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim (diye naklettiğini) söyledi: "Kim Allah'a bir şeyi ortak koşarak ölürse, cehennem'e girer." (Abdullah dedi ki): Ben de derim ki: Kim Allah'a hiçbir şeyi ortak koşmaksızın ölürse cennete girer. Diğer tahric: Buhari, 1181,4227, 6305; Tuhfetu'I-Eşraf, 9255
+Bize Muhammed b. Abdullah b. Numeyr tahdis etti. Bize babam ve Veki' A'meş'den tahdis etti. O Şakik'den, o Abdullah'tan -Veki' rivayetinde Abdullah'ın-: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu, dedi (diye rivayet etti). İbn Numeyr de (Abdullah): Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim (diye naklettiğini) söyledi: "Kim Allah'a bir şeyi ortak koşarak ölürse, cehennem'e girer." (Abdullah dedi ki): Ben de derim ki: Kim Allah'a hiçbir şeyi ortak koşmaksızın ölürse cennete girer. Diğer tahric: Buhari, 1181,4227, 6305; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>268</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 174</td></tr></tbody></table></div>
 

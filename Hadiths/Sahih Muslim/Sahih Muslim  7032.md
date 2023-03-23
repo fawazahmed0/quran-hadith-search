@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৯২৫, আন্তর্জাতিক নাম্বারঃ ২৭৭৬ ৬৯২৫-(…/...) যুহায়র ইবনু হারব ও আবু বকর ইবনু নাফি (রহঃ) ...... শু'বাহ হতে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৭৭৫, ইসলামিক সেন্টার ৬৮৩০)
+(…/...) যুহায়র ইবনু হারব ও আবু বকর ইবনু নাফি (রহঃ) ...... শু'বাহ হতে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৭৭৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7032</td></tr><tr><td>Arabic No</td><td>2776.02</td></tr><tr><td>Reference</td><td>Book 51 Hadith 9</td></tr></tbody></table></div>
 

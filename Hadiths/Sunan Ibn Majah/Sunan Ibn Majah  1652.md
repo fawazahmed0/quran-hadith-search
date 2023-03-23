@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৬৫২। ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক বেদুইন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে বললো, আমি আজ রাতে (সন্ধ্যায়) নতুন চাঁদ দেখেছি। তিনি বলেনঃ তুমি কি সাক্ষ্য দাও যে, ‘‘আল্লাহ্ ব্যতীত কোন ইলাহ নেই এবং মুহাম্মাদ আল্লাহর রাসূল’’? সে বললো, হ্যাঁ। তিনি বলেনঃ হে বিলাল! ওঠো এবং লোকেদের মধ্যে ঘোষণা দাও যে, তারা যেন আগামীকাল থেকে রোযা রাখে।
+। ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক বেদুইন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে বললো, আমি আজ রাতে (সন্ধ্যায়) নতুন চাঁদ দেখেছি। তিনি বলেনঃ তুমি কি সাক্ষ্য দাও যে, ‘‘আল্লাহ্ ব্যতীত কোন ইলাহ নেই এবং মুহাম্মাদ আল্লাহর রাসূল’’? সে বললো, হ্যাঁ। তিনি বলেনঃ হে বিলাল! ওঠো এবং লোকেদের মধ্যে ঘোষণা দাও যে, তারা যেন আগামীকাল থেকে রোযা রাখে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 7 Hadith 15</td></tr></tbody></table></div>
 

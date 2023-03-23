@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফ্‌স ইবন উমার (রহঃ) ..... আবদুল্লাহ ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে যোদ্ধা-বাহিনী তৈরীর জন্য নির্দেশ দেন। এ সময় উট শেষ হয়ে গেলে তিনি তাকে সাদাকার উট আসার শর্তে উট গ্রহণের জন্য নির্দেশ দেন। তখন তিনি দু'টি উট প্রদানের শর্তে সৈন্যদের জন্য একটি উট গ্রহণ করতে থাকেন।
+। ‘আব্দুল্লাহ ইবনু আমর ইবনুল আস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে একটি অভিযানের জন্য সৈন্য প্রস্তুত করার নির্দেশ দিলেন। সৈন্য প্রস্তুতে উটের অভাব দেখা দিলো। তিনি তাকে যাকাতের উট প্রাপ্তি সাপেক্ষে উট ধার নিতে বললেন। তদনুযায়ী তিনি যাকাতের উট প্রাপ্তি সাপেক্ষে দু’ দু’টি উটের বিনিময়ে এক একটি উট গ্রহণ করলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3357</td></tr><tr><td>Arabic No</td><td>3357</td></tr><tr><td>Reference</td><td>Book 23 Hadith 32</td></tr></tbody></table></div>
 

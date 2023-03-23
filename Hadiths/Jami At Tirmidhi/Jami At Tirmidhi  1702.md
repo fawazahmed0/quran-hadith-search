@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭০২। আবূদ দারদা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ আমাকে খোজ কর তোমাদের মধ্যে যারা নিঃস্ব-দুর্বল তাদের মাঝে। কেননা তোমরা রিযিক এবং সাহায্য-সহযোগিতাপ্রাপ্ত হয়ে থাক অসহায়-দুর্বল লোকদের ওয়াসিলায়। সহীহ্, সহীহা (৭৭৯), সহীহ্ আবূ দাউদ (২৩৩৫), তা’লীকুর রাগীব (১/২৪) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। আবূদ দারদা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ আমাকে খোজ কর তোমাদের মধ্যে যারা নিঃস্ব-দুর্বল তাদের মাঝে। কেননা তোমরা রিযিক এবং সাহায্য-সহযোগিতাপ্রাপ্ত হয়ে থাক অসহায়-দুর্বল লোকদের ওয়াসিলায়। সহীহ্, সহীহা (৭৭৯), সহীহ্ আবূ দাউদ (২৩৩৫), তা’লীকুর রাগীব (১/২৪) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 23 Hadith 33</td></tr></tbody></table></div>
 

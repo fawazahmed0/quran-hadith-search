@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কা‘ব ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি বললাম, ‘হে আল্লাহর রাসূল! আমি আমার তাওবা হিসেবে আমি আমার যাবতীয় মাল আল্লাহ্ ও আল্লাহর রাসূলের উদ্দেশে সদাকাহ করে মুক্ত হতে চাই। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেন, কিছু মাল নিজের জন্য রেখে দাও, তা তোমার জন্য উত্তম। আমি বললাম, ‘তাহলে আমি আমার খায়বারের অংশটি নিজের জন্য রেখে দিলাম।’ (২৯৪৭, ২৯৪৮, ২৯৪৯, ২৯৫০, ৩০৮৮, ৩৫৫৬, ৩৮৮৯, ৩৯৫১, ৪৪১৮, ৪৬৭৩, ৪৬৭৬, ৪৬৭৭, ৪৬৭৮, ৬২৫৫, ৬৬৯০,৭২২৫) (আধুনিক প্রকাশনীঃ ২৫৫৫, ইসলামিক ফাউন্ডেশনঃ ২৫৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কা‘ব ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি বললাম, ‘হে আল্লাহর রাসূল! আমি আমার তাওবা হিসেবে আমি আমার যাবতীয় মাল আল্লাহ্ ও আল্লাহর রাসূলের উদ্দেশে সদাকাহ করে মুক্ত হতে চাই। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেন, কিছু মাল নিজের জন্য রেখে দাও, তা তোমার জন্য উত্তম। আমি বললাম, ‘তাহলে আমি আমার খায়বারের অংশটি নিজের জন্য রেখে দিলাম।’ (২৯৪৭, ২৯৪৮, ২৯৪৯, ২৯৫০, ৩০৮৮, ৩৫৫৬, ৩৮৮৯, ৩৯৫১, ৪৪১৮, ৪৬৭৩, ৪৬৭৬, ৪৬৭৭, ৪৬৭৮, ৬২৫৫, ৬৬৯০,৭২২৫) (আধুনিক প্রকাশনীঃ ২৫৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>2757</td></tr><tr><td>Reference</td><td>Book 55 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al L
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கஅப் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நான், ‘‘அல்லாஹ்வின் தூதரே! (நான் தபூக் போரில் கலந்துகொள்ளாமல் பின் வாங்கியதற்குப்) பாவமீட்பு பெறும் ஓர் அம்சமாக, என் செல்வத்தி(ன் உரிமையி)லிருந்து நான் விலகிக்கொண்டு அதை அல்லாஹ்வுக்காகவும் அல்லாஹ்வின் தூதருக்காகவும் தர்மமாக வழங்க விரும்பு கிறேன்” என்று கூறினேன். அதற்கு நபி (ஸல்) அவர்கள், ‘‘உமது செல்வத்தில் ஒரு பகுதியை உமக்காக வைத்துக்கொள்வீராக! அது உமக்கு நல்லது” என்று கூறினார்கள். நான், ‘‘கைபரில் கிடைத்த எனது பங்கை (எனக் காக) வைத்துக்கொள்கிறேன்” என்று கூறினேன். அத்தியாயம் : 55
+கஅப் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நான், ‘‘அல்லாஹ்வின் தூதரே! (நான் தபூக் போரில் கலந்துகொள்ளாமல் பின் வாங்கியதற்குப்) பாவமீட்பு பெறும் ஓர் அம்சமாக, என் செல்வத்தி(ன் உரிமையி)லிருந்து நான் விலகிக்கொண்டு அதை அல்லாஹ்வுக்காகவும் அல்லாஹ்வின் தூதருக்காகவும் தர்மமாக வழங்க விரும்பு கிறேன்” என்று கூறினேன். அதற்கு நபி (ஸல்) அவர்கள், ‘‘உமது செல்வத்தில் ஒரு பகுதியை உமக்காக வைத்துக்கொள்வீராக! அது உமக்கு நல்லது” என்று கூறினார்கள். நான், ‘‘கைபரில் கிடைத்த எனது பங்கை (எனக் காக) வைத்துக்கொள்கிறேன்” என்று கூறினேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>2757</td></tr><tr><td>Reference</td><td>Book 55 Hadith 20</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al L
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ka'b İbn Malik r.a.'den nakledilmiştir: Ka'b İbn Malik "Ey Allah'ın Resulü! Ben tövbe ettiğimin göstergesi olarak, Allah ve Resulü'ne sadaka olarak bütün malımdan sıyrılıyorum" demişti. Nebi Sallallahu aleyhi ve sellem: "Malının birazını elinde tut. Bu senin için daha iyidir" buyurdu. Bunun üzerine Ka'b "O zaman Hayber'deki payımı elimde tutuyorum" dedi. Tekrar: 2947, 2948, 2949, 2950, 3088, 3556, 3889, 3951, 4418, 4673, 4676, 4677, 4678, 6255, 6690,7225
+Ka'b İbn Malik r.a.'den nakledilmiştir: Ka'b İbn Malik "Ey Allah'ın Resulü! Ben tövbe ettiğimin göstergesi olarak, Allah ve Resulü'ne sadaka olarak bütün malımdan sıyrılıyorum" demişti. Nebi Sallallahu aleyhi ve sellem: "Malının birazını elinde tut. Bu senin için daha iyidir" buyurdu. Bunun üzerine Ka'b "O zaman Hayber'deki payımı elimde tutuyorum" dedi. Tekrar: 2947, 2948, 2949, 2950, 3088, 3556, 3889, 3951, 4418, 4673, 46
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>2757</td></tr><tr><td>Reference</td><td>Book 55 Hadith 20</td></tr></tbody></table></div>
 

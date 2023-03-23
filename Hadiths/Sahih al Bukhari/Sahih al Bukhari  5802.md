@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুসাদ্দাদ (রহ.) আমাকে বলেছেন যে, মু‘তামির বলেন, আমি আমার পিতাকে বলতে শুনেছি যে, তিনি আনাস (রাঃ) এর (মাথার) উপর হলুদ রেশমী টুপি দেখেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5802</td></tr><tr><td>Arabic No</td><td>5802</td></tr><tr><td>Reference</td><td>Book 77 Hadith 20</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Mu'tamir:I heard my father saying, "I saw Anas wearing a yellow hooded 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சுலைமான் பின் தர்கான் அத்- தைமீ (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள்மீது முக்காடுள்ள மேலங்கி (புர்னுஸ்) ஒன்றை நான் கண்டேன். அது மஞ்சள் நிறத்தில் கம்பளி கலந்த பட்டால் ஆனதாக இருந்தது. அத்தியாயம் : 77
+சுலைமான் பின் தர்கான் அத்- தைமீ (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள்மீது முக்காடுள்ள மேலங்கி (புர்னுஸ்) ஒன்றை நான் கண்டேன். அது மஞ்சள் நிறத்தில் கம்பளி கலந்த பட்டால் ஆனதாக இருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5802</td></tr><tr><td>Arabic No</td><td>5802</td></tr><tr><td>Reference</td><td>Book 77 Hadith 20</td></tr></tbody></table></div>
 

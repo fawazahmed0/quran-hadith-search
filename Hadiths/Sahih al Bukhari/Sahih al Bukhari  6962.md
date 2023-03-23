@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ প্রয়োজনের বেশি ঘাস উৎপাদনে বাধা দেয়ার জন্য প্রয়োজনের বেশি পানি সরবরাহে বাধা দেয়া যাবে না।[1] [২৩৫৩] (আধুনিক প্রকাশনী- ৬৪৭৮, ইসলামিক ফাউন্ডেশন- ৬৪৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ প্রয়োজনের বেশি ঘাস উৎপাদনে বাধা দেয়ার জন্য প্রয়োজনের বেশি পানি সরবরাহে বাধা দেয়া যাবে না।[1] [২৩৫৩] (আধুনিক প্রকাশনী- ৬৪৭৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6962</td></tr><tr><td>Arabic No</td><td>6962</td></tr><tr><td>Reference</td><td>Book 90 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (தேவைக்குமேல்) எஞ்சியுள்ள தண்ணீரைத் தடுக்கலாகாது. (அவ்வாறு தடுத்தால், அதைச் சுற்றியுள்ள) புற் பூண்டுகளை (மேய விடாமல் கால்நடை களை)த் தடுத்ததாகிவிடும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.15 அத்தியாயம் : 90
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (தேவைக்குமேல்) எஞ்சியுள்ள தண்ணீரைத் தடுக்கலாகாது. (அவ்வாறு தடுத்தால், அதைச் சுற்றியுள்ள) புற் பூண்டுகளை (மேய விடாமல் கால்நடை களை)த் தடுத்ததாகிவிடும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.15 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6962</td></tr><tr><td>Arabic No</td><td>6962</td></tr><tr><td>Reference</td><td>Book 90 Hadith 9</td></tr></tbody></table></div>
 

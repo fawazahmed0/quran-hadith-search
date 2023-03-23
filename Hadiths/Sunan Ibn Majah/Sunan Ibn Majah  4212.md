@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৪২১২। উম্মুল মুমিনীন আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সৎকর্ম ও আত্মীয়তার সম্পর্ক বজায় রাখার সওয়াব দ্রুত পাওয়া যায় এবং দুরাচার ও আত্মীয়তার সম্পর্ক ছিন্ন করার শাস্তি দ্রুত কার্যকর হয়।
+। উম্মুল মুমিনীন আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সৎকর্ম ও আত্মীয়তার সম্পর্ক বজায় রাখার সওয়াব দ্রুত পাওয়া যায় এবং দুরাচার ও আত্মীয়তার সম্পর্ক ছিন্ন করার শাস্তি দ্রুত কার্যকর হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4212</td></tr><tr><td>Arabic No</td><td>4212</td></tr><tr><td>Reference</td><td>Book 37 Hadith 113</td></tr></tbody></table></div>
 

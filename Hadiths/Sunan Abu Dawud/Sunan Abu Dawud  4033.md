@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবনে আওন (রঃ) .... আবু বুরদা (রহঃ) থেকে বর্ণিত। তিনি বলেন যে একদা আমার পিতা আমাকে সম্বোধন করে বলেনঃ হে আমার প্রিয় পুত্র! যদি তুমি আমাদের সে সময় দেখতে, যখন আমরা রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে বৃষ্টির মধ্যে অবস্থান করতাম, তবে তোমার মনে হত যে আমাদের শরীর থেকে বকরীর গন্ধ বের হচ্ছে।
+। আবূ বুরদাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার পিতা বলেন, হে বৎস! তুমি যদি দেখতে, একদা আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে বৃষ্টিতে ভিজে এমন হলাম যে, আমাদের শরীর থেকে ভেড়ার গন্ধ বের হচ্ছিল। ইমাম আবূ দাঊদ (রহঃ) বলেন, অর্থাৎ পশমী পোশাক (এর কারণে)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4033</td></tr><tr><td>Arabic No</td><td>4033</td></tr><tr><td>Reference</td><td>Book 34 Hadith 14</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারুন ইবন যায়দ (রহঃ) ..... আমর ইবন শু'আয়ব (রহঃ) তার পিতা হতে এবং তিনি তার দাদা থেকে বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভুলবশতঃ হত্যার জন্য একশো উট প্রদানের নির্দেশ দিয়েছেন; যার ত্রিশটি হবে এক বছর বয়সের, ত্রিশটি দু'বছর বয়সের, ত্রিশটি তিন বছর বয়সের এবং বাকী দশটি দু-তিন বছরের বয়সের হতে হবে।
+। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা এবং দাদার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিদ্ধান্ত দিয়েছেন, ভুলবশত হত্যার দিয়াত হবে একশো উট। এর মধ্যে ত্রিশটি হবে দ্বিতীয় বছরের পদার্পণকারী উষ্ট্রী, ত্রিশটি তৃতীয় বছরের পদার্পণকারী উষ্ট্রী, ত্রিশটি চতুর্থ বছরের পদার্পণকারী উষ্ট্রী এবং দশটি তৃতীয় বছরের পদার্পণকারী উট।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4541</td></tr><tr><td>Arabic No</td><td>4541</td></tr><tr><td>Reference</td><td>Book 41 Hadith 48</td></tr></tbody></table></div>
 

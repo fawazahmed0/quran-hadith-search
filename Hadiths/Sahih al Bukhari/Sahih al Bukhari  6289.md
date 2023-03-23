@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার কাছে একটি বিষয় গোপনে বলেছিলেন। আমি তাঁর পরেও কাউকে তা জানাইনি। এটা সম্পর্কে উম্মু সুলায়ম আমাকে জিজ্ঞেস করেছিলেন। কিন্তু আমি তাঁকেও বলিনি। [মুসলিম ৪৪/৩২, হাঃ ২৪৮২, আহমাদ ১৩২৯২] (আধুনিক প্রকাশনী- ৫৮৪৫, ইসলামিক ফাউন্ডেশন- ৫৭৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার কাছে একটি বিষয় গোপনে বলেছিলেন। আমি তাঁর পরেও কাউকে তা জানাইনি। এটা সম্পর্কে উম্মু সুলায়ম আমাকে জিজ্ঞেস করেছিলেন। কিন্তু আমি তাঁকেও বলিনি। [মুসলিম ৪৪/৩২, হাঃ ২৪৮২, আহমাদ ১৩২৯২] (আধুনিক প্রকাশনী- ৫৮৪৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6289</td></tr><tr><td>Arabic No</td><td>6289</td></tr><tr><td>Reference</td><td>Book 79 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Shabah] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: என்னிடம் நபி (ஸல்) அவர்கள் ஓர் இரகசியம் சொன்னார்கள். அவர்களுடைய இறப்புக்குப் பிறகும்கூட ஒருவரிடமும் அதை நான் தெரிவிக்கவில்லை. என்னிடம் (என் தாயார்) உம்மு சுலைம் (ரலி) அவர்கள் அது குறித்துக் கேட்டார்கள். அதை நான் அவருக்கும் தெரிவிக்கவில்லை. அத்தியாயம் : 79
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: என்னிடம் நபி (ஸல்) அவர்கள் ஓர் இரகசியம் சொன்னார்கள். அவர்களுடைய இறப்புக்குப் பிறகும்கூட ஒருவரிடமும் அதை நான் தெரிவிக்கவில்லை. என்னிடம் (என் தாயார்) உம்மு சுலைம் (ரலி) அவர்கள் அது குறித்துக் கேட்டார்கள். அதை நான் அவருக்கும் தெரிவிக்கவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6289</td></tr><tr><td>Arabic No</td><td>6289</td></tr><tr><td>Reference</td><td>Book 79 Hadith 61</td></tr></tbody></table></div>
 

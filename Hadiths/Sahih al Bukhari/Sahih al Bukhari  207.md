@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَأَكَلَ أَبُو بَكْرٍ وَعُمَرُ وَعُثْمَانُ رَضِيَ اللهُ عَنْهُمْ فَلَمْ يَتَوَضَّئُوا. আবূ বাকর, ‘উমার ও ‘উসমান (রাযি.) গোশত খেয়ে উযূ করেননি। ২০৭. ‘আবদুল্লাহ ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ একদা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বকরীর কাঁধের গোশত খেলেন। অতঃপর সালাত আদায় করলেন; কিন্তু উযূ করলেন না। (৫৪০৪, ৫৪০৫; মুসলিম ৩/২৪, হাঃ ৩৫৪, আহমাদ ১৯৯৪, ১৯৮৮) (আধুনিক প্রকাশনীঃ ২০১, ইসলামিক ফাউন্ডেশনঃ ২০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَأَكَلَ أَبُو بَكْرٍ وَعُمَرُ وَعُثْمَانُ رَضِيَ اللهُ عَنْهُمْ فَلَمْ يَتَوَضَّئُوا. আবূ বাকর, ‘উমার ও ‘উসমান (রাযি.) গোশত খেয়ে উযূ করেননি। ২০৭. ‘আবদুল্লাহ ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ একদা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বকরীর কাঁধের গোশত খেলেন। অতঃপর সালাত আদায় করলেন; কিন্তু উযূ করলেন না। (৫৪০৪, ৫৪০৫; মুসলিম ৩/২৪, হাঃ ৩৫৪, আহমাদ ১৯৯৪, ১৯৮৮) (আধুনিক প্রকাশনীঃ ২০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>207</td></tr><tr><td>Arabic No</td><td>207</td></tr><tr><td>Reference</td><td>Book 4 Hadith 73</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (சமைக்கப்பட்ட) ஓர் ஆட்டின் சப்பையைச் சாப்பிட்டபின் தொழுதார்கள்; ஆனால், (புதிதாக) அங்கத் தூய்மை செய்யவில்லை. அத்தியாயம் : 4
+அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (சமைக்கப்பட்ட) ஓர் ஆட்டின் சப்பையைச் சாப்பிட்டபின் தொழுதார்கள்; ஆனால், (புதிதாக) அங்கத் தூய்மை செய்யவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>207</td></tr><tr><td>Arabic No</td><td>207</td></tr><tr><td>Reference</td><td>Book 4 Hadith 73</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Abbas'tan rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) bir koyun'un küreğinden yedi, sonra abdest almaksızın namaz kıldı. Tekrar: 5404, 5405
+Abdullah İbn Abbas'tan rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) bir koyun'un küreğinden yedi, sonra abdest almaksızın namaz kıldı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>207</td></tr><tr><td>Arabic No</td><td>207</td></tr><tr><td>Reference</td><td>Book 4 Hadith 73</td></tr></tbody></table></div>
 

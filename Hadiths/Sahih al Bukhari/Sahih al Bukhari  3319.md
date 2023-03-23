@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, নবীগণের মধ্যে কোন এক নবী একটি গাছের নীচে অবতরণ করেন। অতঃপর তাঁকে একটি পিঁপড়ায় কামড় দেয়। তিনি তাঁর আসবাবপত্রের ব্যাপারে আদেশ দেন। এগুলো গাছের নীচ থেকে সরিয়ে ফেলা হয়। অতঃপর তিনি নির্দেশ দিলে পিঁপড়ার বাসা আগুন দিতে জ্বালিয়ে দেয়া হল। তখন আল্লাহ তাঁর প্রতি ওয়াহী নাযিল করলেন, ‘তুমি একটি মাত্র পিঁপড়াকে শাস্তি দিলে না কেন?’ (৩০১৯) (আধুনিক প্রকাশনীঃ ৩০৭৩, ইসলামিক ফাউন্ডেশনঃ ৩০৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, নবীগণের মধ্যে কোন এক নবী একটি গাছের নীচে অবতরণ করেন। অতঃপর তাঁকে একটি পিঁপড়ায় কামড় দেয়। তিনি তাঁর আসবাবপত্রের ব্যাপারে আদেশ দেন। এগুলো গাছের নীচ থেকে সরিয়ে ফেলা হয়। অতঃপর তিনি নির্দেশ দিলে পিঁপড়ার বাসা আগুন দিতে জ্বালিয়ে দেয়া হল। তখন আল্লাহ তাঁর প্রতি ওয়াহী নাযিল করলেন, ‘তুমি একটি মাত্র পিঁপড়াকে শাস্তি দিলে না কেন?’ (৩০১৯) (আধুনিক প্রকাশনীঃ ৩০৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3319</td></tr><tr><td>Arabic No</td><td>3319</td></tr><tr><td>Reference</td><td>Book 59 Hadith 125</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Once while a prophet amongst the prophets was taking a rest underneath a tree, an ant bit him. He, therefore, ordered that his luggage be taken away from underneath that tree and then ordered that the dwelling place of the ants should be set on fire. Allah sent him a revelation:-- "Wouldn't it have been sufficient to burn a single ant? (that bit you): (See Page 162, chapter No. 153)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Once while a prophet amongst the prophets was taking a rest underneath a tree, an ant bit him. He, therefore, ordered that his luggage be taken away from underneath that tree and then ordered that the dwelling place of the ants should be set on fire. Allah sent him a revelation:-- "Wouldn't it have been sufficient to burn a single ant? (that bit you): (See Page 162, chapter No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3319</td></tr><tr><td>Arabic No</td><td>3319</td></tr><tr><td>Reference</td><td>Book 59 Hadith 125</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Isma'il bin Abi Uwais] berkata, telah bercerita kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இறைத்தூதர்களில் ஒருவர் ஒரு (பயணத்தில்) மரத்தின் கீழே தங்கினார். அவரை எறும்பு ஒன்று கடித்துவிட்டது. உடனே அவர் தமது (பயண) மூட்டை முடிச்சுகளை அப்புறப்படுத்தும்படி உத்தர விட்டார். அவ்வாறே அவை மரத்தின் கீழிருந்து அப்புறப்படுத்தப்பட்டன. பிறகு எறும்புப் புற்றை எரிக்கும்படி உத்தர விட்டார். அவ்வாறே அது தீயிட்டு எரிக்கப்பட்டது. அப்போது அல்லாஹ் அவருக்கு, ‘‘உங்களைக் கடித்தது ஒரேயோர் எறும்பல் லவா? (அதற்காக ஓர் எறும்புக் கூட்டத் தையே எரிக்கலாமா?)” என்று யிவஹீ’ அறிவித்(து அவரைக் கண்டித்)தான்.119 அத்தியாயம் : 59
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இறைத்தூதர்களில் ஒருவர் ஒரு (பயணத்தில்) மரத்தின் கீழே தங்கினார். அவரை எறும்பு ஒன்று கடித்துவிட்டது. உடனே அவர் தமது (பயண) மூட்டை முடிச்சுகளை அப்புறப்படுத்தும்படி உத்தர விட்டார். அவ்வாறே அவை மரத்தின் கீழிருந்து அப்புறப்படுத்தப்பட்டன. பிறகு எறும்புப் புற்றை எரிக்கும்படி உத்தர விட்டார். அவ்வாறே அது தீயிட்டு எரிக்கப்பட்டது. அப்போது அல்லாஹ் அவருக்கு, ‘‘உங்களைக் கடித்தது ஒரேயோர் எறும்பல் லவா? (அதற்காக ஓர் எறும்புக் கூட்டத் தையே எரிக்கலாமா?)” என்று யிவஹீ’ அறிவித்(து அவரைக் கண்டித்)தான்.119 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3319</td></tr><tr><td>Arabic No</td><td>3319</td></tr><tr><td>Reference</td><td>Book 59 Hadith 125</td></tr></tbody></table></div>
 

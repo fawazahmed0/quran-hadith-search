@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কাতাদাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহর ও ‘আসরের প্রথম দু’ রাক‘আতে সূরাহ্ আল-ফাতিহার সাথে আর একটি করে সূরাহ্ পড়তেন। আর কখনো কখনো কোন আয়াত আমাদের শুনিয়ে পড়তেন। (৭৫৯) (আধুনিক প্রকাশনীঃ ৭১৮, ইসলামিক ফাউন্ডেশনঃ ৭২৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ কাতাদাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহর ও ‘আসরের প্রথম দু’ রাক‘আতে সূরাহ্ আল-ফাতিহার সাথে আর একটি করে সূরাহ্ পড়তেন। আর কখনো কখনো কোন আয়াত আমাদের শুনিয়ে পড়তেন। (৭৫৯) (আধুনিক প্রকাশনীঃ ৭১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 10 Hadith 156</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Makki bin Ibrahim] dari [Hisyam] dari [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூகத்தாதா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் லுஹ்ர் மற்றும் அஸ்ர் தொழுகைகளின் முதல் இரண்டு ரக்அத்களில் அல்ஃபாத்திஹா அத்தி யாயத்தையும் (அவ்விரு ரக்அத்கள் ஒவ்வொன்றிலும்) மற்றோர் அத்தியாத் தையும் ஓதுவார்கள். சில சமயங்களில் சில வசனங்களை நாங்கள் கேட்கும் அளவுக்கு (சப்தமாக) ஓதுவார்கள். அத்தியாயம் : 10
+அபூகத்தாதா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் லுஹ்ர் மற்றும் அஸ்ர் தொழுகைகளின் முதல் இரண்டு ரக்அத்களில் அல்ஃபாத்திஹா அத்தி யாயத்தையும் (அவ்விரு ரக்அத்கள் ஒவ்வொன்றிலும்) மற்றோர் அத்தியாத் தையும் ஓதுவார்கள். சில சமயங்களில் சில வசனங்களை நாங்கள் கேட்கும் அளவுக்கு (சப்தமாக) ஓதுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 10 Hadith 156</td></tr></tbody></table></div>
 

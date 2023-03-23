@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, প্রত্যেক নবীকে তাঁর যুগের প্রয়োজন মুতাবিক কিছু মুজিযা দান করা হয়েছে, যা দেখে লোকেরা তাঁর প্রতি ঈমান এনেছে। আমাকে যে মুজিযা দেয়া হয়েছে তা হচ্ছে, ওয়াহী- যা আল্লাহ্ আমার প্রতি অবতীর্ণ করেছেন। কাজেই আমি আশা করি, কিয়ামতের দিন তাদের অনুসারীদের অনুপাতে আমার অনুসারীদের সংখ্যা অনেক অধিক হবে। [৭২৭৪; মুসলিম ১/৭০, হাঃ ১৫২, আহমাদ ৮৪৯৯] (আধুনিক প্রকাশনীঃ ৪৬১১, ইসলামিক ফাউন্ডেশনঃ ৪৬১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, প্রত্যেক নবীকে তাঁর যুগের প্রয়োজন মুতাবিক কিছু মুজিযা দান করা হয়েছে, যা দেখে লোকেরা তাঁর প্রতি ঈমান এনেছে। আমাকে যে মুজিযা দেয়া হয়েছে তা হচ্ছে, ওয়াহী- যা আল্লাহ্ আমার প্রতি অবতীর্ণ করেছেন। কাজেই আমি আশা করি, কিয়ামতের দিন তাদের অনুসারীদের অনুপাতে আমার অনুসারীদের সংখ্যা অনেক অধিক হবে। [৭২৭৪; মুসলিম ১/৭০, হাঃ ১৫২, আহমাদ ৮৪৯৯] (আধুনিক প্রকাশনীঃ ৪৬১১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4981</td></tr><tr><td>Arabic No</td><td>4981</td></tr><tr><td>Reference</td><td>Book 66 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வோர் இறைத்தூதருக்கும் சில அற்புதங்கள் வழங்கப்பட்டே இருந்தன. அவற்றைக் காணும் மக்கள் நம்பித்தான் ஆக வேண்டிய நிலை இருந்தது. எனக்கு வழங்கப்பெற்ற அற்புதமெல்லாம், அல்லாஹ் எனக்கு அருளிய வேதஅறிவிப்பு (வஹீ)தான். ஆகவே, நபிமார்களிலேயே மறுமை நாளில், பின்பற்றுவோர் அதிகம் உள்ள நபியாக நான் இருக்க வேண்டும் என எதிர்பார்க்கிறேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 66
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒவ்வோர் இறைத்தூதருக்கும் சில அற்புதங்கள் வழங்கப்பட்டே இருந்தன. அவற்றைக் காணும் மக்கள் நம்பித்தான் ஆக வேண்டிய நிலை இருந்தது. எனக்கு வழங்கப்பெற்ற அற்புதமெல்லாம், அல்லாஹ் எனக்கு அருளிய வேதஅறிவிப்பு (வஹீ)தான். ஆகவே, நபிமார்களிலேயே மறுமை நாளில், பின்பற்றுவோர் அதிகம் உள்ள நபியாக நான் இருக்க வேண்டும் என எதிர்பார்க்கிறேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4981</td></tr><tr><td>Arabic No</td><td>4981</td></tr><tr><td>Reference</td><td>Book 66 Hadith 3</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet edilmiştir: "Bütün Nebilere, insanların onların benzerine iman ettiği bir takım mu'cizeler verilmiştir. Bana verilen mu'cize ise, Allah'ın bana ilka ettiği vahiydir. Bu nedenle, kıyamet günü Nebiler arasında kendisine uyanların en çok olduğu Nebi olmayı umuyorum. " Hadisin geçtiği diğer yer: 7274
+Ebu Hureyre'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet edilmiştir: "Bütün Nebilere, insanların onların benzerine iman ettiği bir takım mu'cizeler verilmiştir. Bana verilen mu'cize ise, Allah'ın bana ilka ettiği vahiydir. Bu nedenle, kıyamet günü Nebiler arasında kendisine uyanların en çok olduğu Nebi olmayı umuyorum. " Hadisin geçtiği diğer yer:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4981</td></tr><tr><td>Arabic No</td><td>4981</td></tr><tr><td>Reference</td><td>Book 66 Hadith 3</td></tr></tbody></table></div>
 

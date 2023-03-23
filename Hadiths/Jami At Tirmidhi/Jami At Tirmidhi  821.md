@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮২১। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে আমি উমরা ও হাজ্জ উভয়ের একত্রে ইহরাম বেঁধে লাব্বায়িক বলতে শুনেছি। — সহীহ, ইবনু মা-জাহ (২৯৬৮, ২৯৬৯) উমার ও ইমরান ইবনু হুসাইন (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। আনাস (রাঃ) হতে বর্ণিত হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। এই হাদীস অনুযায়ী কতিপয় আলিম আমল করেছেন। এই মতকে পছন্দ করেছেন কুফাবাসী ফকীহগণ ও অপরাপর আলিম।
+। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে আমি উমরা ও হাজ্জ উভয়ের একত্রে ইহরাম বেঁধে লাব্বায়িক বলতে শুনেছি। — সহীহ, ইবনু মা-জাহ (২৯৬৮, ২৯৬৯) উমার ও ইমরান ইবনু হুসাইন (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। আনাস (রাঃ) হতে বর্ণিত হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। এই হাদীস অনুযায়ী কতিপয় আলিম আমল করেছেন। এই মতকে পছন্দ করেছেন কুফাবাসী ফকীহগণ ও অপরাপর আলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>821</td></tr><tr><td>Arabic No</td><td>821</td></tr><tr><td>Reference</td><td>Book 9 Hadith 14</td></tr></tbody></table></div>
 

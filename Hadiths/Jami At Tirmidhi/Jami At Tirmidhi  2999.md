@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯৯৯। সা'দ ইবনু আবী ওয়াক্কাস (রাযিঃ) হতে বর্ণিত, তিনি বলেন, “আসো, আমরা ডাকি আমাদের পুত্রগণকে ও তোমাদের পুত্রগণকে, আমাদের নারীগণকে ও তোমাদের নারীগণকে, আমাদের নিজেদেরকে ও তোমাদের নিজেদেরকে....." (সূরা আ-লি ইমরান ৬১) আয়াত অবতীর্ণ হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আলী, ফাতিমা ও হাসান-হুসাইন (রাযিঃ)-কে ডাকলেন এবং বললেনঃ হে আল্লাহ! এরাই আমার পরিজন। সনদ সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব সহীহ।
+। সা'দ ইবনু আবী ওয়াক্কাস (রাযিঃ) হতে বর্ণিত, তিনি বলেন, “আসো, আমরা ডাকি আমাদের পুত্রগণকে ও তোমাদের পুত্রগণকে, আমাদের নারীগণকে ও তোমাদের নারীগণকে, আমাদের নিজেদেরকে ও তোমাদের নিজেদেরকে....." (সূরা আ-লি ইমরান ৬১) আয়াত অবতীর্ণ হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আলী, ফাতিমা ও হাসান-হুসাইন (রাযিঃ)-কে ডাকলেন এবং বললেনঃ হে আল্লাহ! এরাই আমার পরিজন। সনদ সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2999</td></tr><tr><td>Arabic No</td><td>2999</td></tr><tr><td>Reference</td><td>Book 47 Hadith 51</td></tr></tbody></table></div>
 

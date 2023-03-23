@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সালামা ..... নাফে' (রহঃ) হতে বর্ণিত। তিনি বলেন, ইবন উমার (রাঃ) যখন মিনা হতে প্রত্যার্তন করতেন, তখন তিনি বাত্‌হাতে (অর্থাৎ মুহাসসাবে) সামান্য নিদ্রা যেতেন। অতঃপর তিনি মক্কায় প্রবেশ করতেন। এতে তিনি ধারণা করেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ করতেন।
+। নাফি‘ (রহ.) সূত্রে বর্ণিত। ইবনু উমার (রাযি.) ‘বাত্‌হাতে’ (মুহাস্‌সাবে) সামান্য নিদ্রা যেতেন এবং পরে মক্কায় প্রবেশ করতেন। তিনি বলতেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপই করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2012</td></tr><tr><td>Arabic No</td><td>2012</td></tr><tr><td>Reference</td><td>Book 11 Hadith 292</td></tr></tbody></table></div>
 

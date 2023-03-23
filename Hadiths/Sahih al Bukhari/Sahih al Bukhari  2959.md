@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু যায়দ (রাঃ) হতে বর্ণিত। তিনি বলেন, হার্রা নামক যুদ্ধের সময়ে তাঁর নিকট এক ব্যক্তি এসে বললো, ‘ইবনু হানযালা (রাঃ) মানুষের নিকট থেকে মৃত্যুর উপর বায়‘আত গ্রহণ করছেন। তিনি বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পর আমি তো কারো নিকট এমন বায়‘আত করব না। (৪১৬৭) (মুসলিম ৩৩/১৮ হাঃ ১৮৬১) (আধুনিক প্রকাশনীঃ ২৭৪০, ইসলামিক ফাউন্ডেশনঃ ২৭৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু যায়দ (রাঃ) হতে বর্ণিত। তিনি বলেন, হার্রা নামক যুদ্ধের সময়ে তাঁর নিকট এক ব্যক্তি এসে বললো, ‘ইবনু হানযালা (রাঃ) মানুষের নিকট থেকে মৃত্যুর উপর বায়‘আত গ্রহণ করছেন। তিনি বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পর আমি তো কারো নিকট এমন বায়‘আত করব না। (৪১৬৭) (মুসলিম ৩৩/১৮ হাঃ ১৮৬১) (আধুনিক প্রকাশনীঃ ২৭৪০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2959</td></tr><tr><td>Arabic No</td><td>2959</td></tr><tr><td>Reference</td><td>Book 56 Hadith 170</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Wuha
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: ‘அல்ஹர்ரா’ போரின்போது என்னிடம் ஒருவர் வந்து, ‘‘அப்துல்லாஹ் பின் ஹன்ழலா (ரலி) அவர்கள், மக்களிடம் மரணத்தைச் சந்திக்க தயாராயிருக்கும்படி உறுதிமொழி வாங்குகிறார்கள்” என்று கூறினார். அதற்கு நான், ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு (ஹுதைபியாவில் அளித்த உறுதிமொழிக்கு)ப் பின்னர் வேறெவரிடமும் இதற்காக நான் உறுதிமொழியளிக்கமாட்டேன்”என்று கூறினேன்.94 அத்தியாயம் : 56
+அப்துல்லாஹ் பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: ‘அல்ஹர்ரா’ போரின்போது என்னிடம் ஒருவர் வந்து, ‘‘அப்துல்லாஹ் பின் ஹன்ழலா (ரலி) அவர்கள், மக்களிடம் மரணத்தைச் சந்திக்க தயாராயிருக்கும்படி உறுதிமொழி வாங்குகிறார்கள்” என்று கூறினார். அதற்கு நான், ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு (ஹுதைபியாவில் அளித்த உறுதிமொழிக்கு)ப் பின்னர் வேறெவரிடமும் இதற்காக நான் உறுதிமொழியளிக்கமாட்டேன்”என்று கூறினேன்.94 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2959</td></tr><tr><td>Arabic No</td><td>2959</td></tr><tr><td>Reference</td><td>Book 56 Hadith 170</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Wuha
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Zeyd ile ilgili olarak şöyle bir rivayet nakledilmiştir: "Harre olayları sırasında birisi Abdullah İbn Zeyd'e gelerek: "Abdullah İbn Hanzala insanlardan ölümüne bey'at alıyor" deyince Abdullah İbn Zeyd şöyle dedi: "Ben Resul-i Ekrem Sallallahu Aleyhi ve Sellem'den sonra başka hiçbir kimseye bu şekilde bey'at etmem!" Tekrar: 4167
+Abdullah İbn Zeyd ile ilgili olarak şöyle bir rivayet nakledilmiştir: "Harre olayları sırasında birisi Abdullah İbn Zeyd'e gelerek: "Abdullah İbn Hanzala insanlardan ölümüne bey'at alıyor" deyince Abdullah İbn Zeyd şöyle dedi: "Ben Resul-i Ekrem Sallallahu Aleyhi ve Sellem'den sonra başka hiçbir kimseye bu şekilde bey'at etmem!" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2959</td></tr><tr><td>Arabic No</td><td>2959</td></tr><tr><td>Reference</td><td>Book 56 Hadith 170</td></tr></tbody></table></div>
 

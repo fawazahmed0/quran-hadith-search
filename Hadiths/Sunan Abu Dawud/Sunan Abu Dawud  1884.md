@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সালামা (রহঃ) .... ইবন আব্বাস (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর সাহাবীগণ জি‘ইররানা নামক স্থান হতে উমরার ইহরাম বাঁধেন এবং দ্রুতপদে বায়তুল্লাহর তাওয়াফ সম্পন্ন করেন। আর এ সময় তাঁরা নিজেদের চাদর ডান বগলের নিচ কাঁধের উপর পেঁচিয়ে রাখেন।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর সাহাবীগণ আল-জিই‘ররানা নামক স্থান থেকে ‘উমরার ইহরাম বাঁধেন এবং তাঁরা বায়তুল্লাহ তাওয়াফের সময় রমল করেন (দ্রুত পদে হাটেন)। এসময় তাঁরা নিজেদের চাদর বগলের নীচে নিয়ে বাম কাঁধের উপর রেখে দেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 164</td></tr></tbody></table></div>
 

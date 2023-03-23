@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জুনদুব ইবনু সুফিয়ান (রাঃ) হতে বর্ণিত। কোন এক যুদ্ধে আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর একটি আঙ্গুল রক্তাক্ত হলে তিনি বলেছিলেনঃ তুমি একটি আঙ্গুল ছাড়া কিছু নও; তুমি রক্তাক্ত হয়েছ আল্লাহরই পথে। (৬১৪৬) (মুসলিম ৩২/৩৯ হাঃ ১৭৯৬, আহমাদ ১৮৮৩০) (আধুনিক প্রকাশনীঃ ২৫৯৩, ইসলামিক ফাউন্ডেশনঃ ২৬০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জুনদুব ইবনু সুফিয়ান (রাঃ) হতে বর্ণিত। কোন এক যুদ্ধে আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর একটি আঙ্গুল রক্তাক্ত হলে তিনি বলেছিলেনঃ তুমি একটি আঙ্গুল ছাড়া কিছু নও; তুমি রক্তাক্ত হয়েছ আল্লাহরই পথে। (৬১৪৬) (মুসলিম ৩২/৩৯ হাঃ ১৭৯৬, আহমাদ ১৮৮৩০) (আধুনিক প্রকাশনীঃ ২৫৯৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2802</td></tr><tr><td>Arabic No</td><td>2802</td></tr><tr><td>Reference</td><td>Book 56 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Abu 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜுன்தப் பின் சுஃப்யான் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் போர் ஒன்றில் பங்கு கொண்டபோது, அவர்களது (கால்) விரலில் (காயம் ஏற்பட்டு) இரத்தம் சொட்டிக்கொண்டி ருந்தது. அப்போது அவர்கள், ‘‘நீ இரத்தம் சொட்டுகின்றஒரு விரல்தானே?நீ பட்டதெல்லாம்இறைவழியில் தானே!” என்று கூறினார்கள். அத்தியாயம் : 56
+ஜுன்தப் பின் சுஃப்யான் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் போர் ஒன்றில் பங்கு கொண்டபோது, அவர்களது (கால்) விரலில் (காயம் ஏற்பட்டு) இரத்தம் சொட்டிக்கொண்டி ருந்தது. அப்போது அவர்கள், ‘‘நீ இரத்தம் சொட்டுகின்றஒரு விரல்தானே?நீ பட்டதெல்லாம்இறைவழியில் தானே!” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2802</td></tr><tr><td>Arabic No</td><td>2802</td></tr><tr><td>Reference</td><td>Book 56 Hadith 19</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Abu 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cündeb İbn Süfyan r.a.'dan nakledilmiştir: Bir savaşta Nebi Sallallahu Aleyhi ve Sellem'in parmağı yaralanmıştı da: "Sen kanayan bir parmak değil misin? Karşılaştığım bu musibet Allah uğrunadır" demişti. Tekrar 6146
+Cündeb İbn Süfyan r.a.'dan nakledilmiştir: Bir savaşta Nebi Sallallahu Aleyhi ve Sellem'in parmağı yaralanmıştı da: "Sen kanayan bir parmak değil misin? Karşılaştığım bu musibet Allah uğrunadır" demişti. Tekrar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2802</td></tr><tr><td>Arabic No</td><td>2802</td></tr><tr><td>Reference</td><td>Book 56 Hadith 19</td></tr></tbody></table></div>
 

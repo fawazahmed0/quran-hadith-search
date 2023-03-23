@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৭৩১, আন্তর্জাতিক নাম্বারঃ ২৬৮৮ ৬৭৩১-(.../...) মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... আনাস (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৫৯৪, ইসলামিক সেন্টার ৬৬৪৬)
+মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... আনাস (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৫৯৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6838</td></tr><tr><td>Arabic No</td><td>2688.04</td></tr><tr><td>Reference</td><td>Book 48 Hadith 34</td></tr></tbody></table></div>
 

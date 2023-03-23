@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬১, আন্তর্জাতিক নাম্বারঃ ৩৬ ৬১-(.../...) আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) থেকে উক্ত সূত্রে এ হাদীসটি বর্ণনা করেছেন। তবে তার বর্ণনায় আছে, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম জনৈক আনসারীর পাশ দিয়ে যাচ্ছিলেন; সে আনসারী তার ভাইকে লজ্জার ব্যাপারে নাসীহাত করছিলেন। ইসলামিক ফাউন্ডেশনঃ ৬২, ইসলামিক সেন্টারঃ ৬৩
+আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) থেকে উক্ত সূত্রে এ হাদীসটি বর্ণনা করেছেন। তবে তার বর্ণনায় আছে, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম জনৈক আনসারীর পাশ দিয়ে যাচ্ছিলেন; সে আনসারী তার ভাইকে লজ্জার ব্যাপারে নাসীহাত করছিলেন। ইসলামিক ফাউন্ডেশনঃ ৬২, ইসলামিক সেন্টারঃ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>155</td></tr><tr><td>Arabic No</td><td>36.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 62</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Zuhri has narrated this hadith with the addition of these words:He (the Holy Pro
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Abd b. Humeyd tahdis etti. Bize Abdurrezzak haber verdi, bize Ma'mer, ez-Zühri'den bu isnat ile haber verip şöyle dedi: ... Kardeşine öğüt veren Ensar'dan bir adamın yanından geçti... Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf, 6954
+Bize Abd b. Humeyd tahdis etti. Bize Abdurrezzak haber verdi, bize Ma'mer, ez-Zühri'den bu isnat ile haber verip şöyle dedi: ... Kardeşine öğüt veren Ensar'dan bir adamın yanından geçti... Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>155</td></tr><tr><td>Arabic No</td><td>36.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 62</td></tr></tbody></table></div>
 

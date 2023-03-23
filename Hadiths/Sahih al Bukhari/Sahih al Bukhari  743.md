@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম , আবূ বাকর (রাযি.) এবং ‘উমার (রাযি.) الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ দিয়ে সালাত শুরু করতেন। (মুসলিম ৪/১৩, হাঃ ৩৯৯) (আধুনিক প্রকাশনীঃ ৬৯৯, ইসলামিক ফাউন্ডেশনঃ ৭০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম , আবূ বাকর (রাযি.) এবং ‘উমার (রাযি.) الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ দিয়ে সালাত শুরু করতেন। (মুসলিম ৪/১৩, হাঃ ৩৯৯) (আধুনিক প্রকাশনীঃ ৬৯৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>743</td></tr><tr><td>Reference</td><td>Book 10 Hadith 137</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரும் ‘அல்ஹம்து லில்லாஹி ரப்பில் ஆலமீன்...’ என ஓதியே தொழுகையை ஆரம்பிப்பார்கள்.39 அத்தியாயம் : 10
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரும் ‘அல்ஹம்து லில்லாஹி ரப்பில் ஆலமீன்...’ என ஓதியே தொழுகையை ஆரம்பிப்பார்கள்.39 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>743</td></tr><tr><td>Reference</td><td>Book 10 Hadith 137</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... আনাস ইবন মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ উহুদ যুদ্ধের শহীদদের গোসল দেওয়া হয়নি এবং রক্তমাখা কাপড়সহ দাফন করা হয়, আর তাদের উপর জানাযার নামাযও পড়া হয়নি।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। উহুদ যুদ্ধের শহীদদেরকে গোসল দেয়া হয়নি। তাদেরকে রক্তরঞ্জিত দেহেই দাফন করা হয় এবং তাদের উপর জানাযা পড়া হয়নি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 21 Hadith 47</td></tr></tbody></table></div>
 

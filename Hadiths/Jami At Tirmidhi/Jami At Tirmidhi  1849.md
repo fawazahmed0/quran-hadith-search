@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮৪৯। আবূ তালুত (রহঃ) হতে বর্ণিত আছে, তিনি বলেছেন, আমি আনাস ইবনু মালিক (রাঃ)-এর নিকটে গেলাম। তিনি তখন কদুর তরকারী খাচ্ছিলেন আর বলছিলেন, হে কদু গাছ, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তোমাকে পছন্দ করতেন বলেই আমি তোমাকে পছন্দ করি। সনদ দুর্বল এ অনুচ্ছেদে হাকীম ইবনু জাবির (রাঃ) হতে তার পিতার সূত্রে হাদীস বর্ণিত আছে। আবূ ঈসা বলেছেন, উল্লেখিত সনদসূত্রে এ হাদীসটি গারীব।
+। আবূ তালুত (রহঃ) হতে বর্ণিত আছে, তিনি বলেছেন, আমি আনাস ইবনু মালিক (রাঃ)-এর নিকটে গেলাম। তিনি তখন কদুর তরকারী খাচ্ছিলেন আর বলছিলেন, হে কদু গাছ, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তোমাকে পছন্দ করতেন বলেই আমি তোমাকে পছন্দ করি। সনদ দুর্বল এ অনুচ্ছেদে হাকীম ইবনু জাবির (রাঃ) হতে তার পিতার সূত্রে হাদীস বর্ণিত আছে। আবূ ঈসা বলেছেন, উল্লেখিত সনদসূত্রে এ হাদীসটি গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1849</td></tr><tr><td>Arabic No</td><td>1849</td></tr><tr><td>Reference</td><td>Book 25 Hadith 65</td></tr></tbody></table></div>
 

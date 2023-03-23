@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে সব সম্পত্তির ভাগ-বাঁটোয়ারা হয়নি, তাতে শুফ্‘আহ এর ফায়সালা দিয়েছেন। যখন সীমানা নির্ধারিত হয়ে যায় এবং রাস্তাও পৃথক হয়ে যায়, তখন শুফ্‘আহ এর অধিকার থাকে না। (২২১৩) (আধুনিক প্রকাশনীঃ ২০৯৭, ইসলামিক ফাউন্ডেশনঃ ২১১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে সব সম্পত্তির ভাগ-বাঁটোয়ারা হয়নি, তাতে শুফ্‘আহ এর ফায়সালা দিয়েছেন। যখন সীমানা নির্ধারিত হয়ে যায় এবং রাস্তাও পৃথক হয়ে যায়, তখন শুফ্‘আহ এর অধিকার থাকে না। (২২১৩) (আধুনিক প্রকাশনীঃ ২০৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2257</td></tr><tr><td>Arabic No</td><td>2257</td></tr><tr><td>Reference</td><td>Book 36 Hadith 1</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada saya [Musaddad] telah menceritakan kepada kami ['Abdul
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் ™ப்தில்லாஹ் (ரலி) ™வர்கள் கூறியதாவது: ‘‘விலைக்கோள் உரிமை என்பது, பிரிக்கப்படாத ஒவ்வொரு சொத்திலும்தான் உள்ளது. எல்லைகள் வகுக்கப்பட்டுப் பாதைகள் உருவாக்கப்பட்டுவிட்டால், விலைக்கோள் உரிமை கிடையாது” என நபி (ஸல்) ™வர்கள் தீர்ப்பளித்தார்கள்.2 அத்தியாயம் : 36
+ஜாபிர் பின் ™ப்தில்லாஹ் (ரலி) ™வர்கள் கூறியதாவது: ‘‘விலைக்கோள் உரிமை என்பது, பிரிக்கப்படாத ஒவ்வொரு சொத்திலும்தான் உள்ளது. எல்லைகள் வகுக்கப்பட்டுப் பாதைகள் உருவாக்கப்பட்டுவிட்டால், விலைக்கோள் உரிமை கிடையாது” என நபி (ஸல்) ™வர்கள் தீர்ப்பளித்தார்கள்.2 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2257</td></tr><tr><td>Arabic No</td><td>2257</td></tr><tr><td>Reference</td><td>Book 36 Hadith 1</td></tr></tbody></table></div>
 

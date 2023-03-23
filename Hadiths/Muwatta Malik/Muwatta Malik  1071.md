@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৫. মুহাম্মদ ইবন ইবরাহীম হারিস তায়মী (রহঃ) বর্ণনা করেন-পিতার নিকট শুনিয়াছি, আকীকা করা তাহার খুবই প্রিয় ছিল, তাহা একটি পাখিও হউক না কেন।[1]
+রেওয়ায়ত ৫. মুহাম্মদ ইবন ইবরাহীম হারিস তায়মী (রহঃ) বর্ণনা করেন-পিতার নিকট শুনিয়াছি, আকীকা করা তাহার খুবই প্রিয় ছিল, তাহা একটি পাখিও হউক না কেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1071</td></tr><tr><td>Arabic No</td><td>1071</td></tr><tr><td>Reference</td><td>Book 26 Hadith 5</td></tr></tbody></table></div>
 

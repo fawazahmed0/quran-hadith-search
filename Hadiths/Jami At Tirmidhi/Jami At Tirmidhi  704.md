@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭০৪। উপরোক্ত হাদীসের ন্যায় বর্ণনা করেছেন হান্নাদ ওয়াকী হতে, তিনি হিশাম হতে। তাতে আছে “পঞ্চাশ আয়াত পাঠের সমপরিমাণ"। হুযাইফা (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। আবু ঈসা যাইদ ইবনু সাবিত (রাঃ) হতে বর্ণিত হাদীসটিকে হাসান সহীহ বলেছেন। এরকম মতই ইমাম, শাফিঈ, আহমাদ ও ইসহাকের। বিলম্ব করে সাহরী খাওয়াকে তারা মুস্তাহাব বলেছেন।
+। উপরোক্ত হাদীসের ন্যায় বর্ণনা করেছেন হান্নাদ ওয়াকী হতে, তিনি হিশাম হতে। তাতে আছে “পঞ্চাশ আয়াত পাঠের সমপরিমাণ"। হুযাইফা (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। আবু ঈসা যাইদ ইবনু সাবিত (রাঃ) হতে বর্ণিত হাদীসটিকে হাসান সহীহ বলেছেন। এরকম মতই ইমাম, শাফিঈ, আহমাদ ও ইসহাকের। বিলম্ব করে সাহরী খাওয়াকে তারা মুস্তাহাব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>704</td></tr><tr><td>Arabic No</td><td>704</td></tr><tr><td>Reference</td><td>Book 8 Hadith 23</td></tr></tbody></table></div>
 

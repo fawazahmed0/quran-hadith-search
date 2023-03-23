@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পানিতে ডুবে, কলেরায়, প্লেগে এবং ভূমিধসে বা চাপা পড়ে মৃত ব্যক্তিরা শহীদ। (৬৫৩) (আধুনিক প্রকাশনীঃ ৬৭৭, ইসলামিক ফাউন্ডেশনঃ ৬৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যদি লোকেরা জানত যে, আওয়াল ওয়াক্তে সালাত আদায়ের কী ফাযীলাত, তাহলে তারা এর জন্য প্রতিযোগিতা করে আগেভাগে আসার চেষ্টা করতো। আর ‘ইশা ও ফজরের জামা‘আতের কী ফাযীলাত যদি তারা জানত তাহলে হামাগুড়ি দিয়ে হলেও তাতে উপস্থিত হতো। এবং সামনের কাতারের কী ফাযীলাত তা যদি জানত, তাহলে এর জন্য তারা কুরআ ব্যবহার করতো। (৬১৫) (আধুনিক প্রকাশনীঃ ৬৭৭ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৬৮৫ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

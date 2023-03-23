@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যিয়াদ ইবনু জুবাইর (রহ.) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি এসে (‘আবদুল্লাহ) ইবনু ‘উমার (রাঃ)-কে বলল যে, এক ব্যক্তি কোন এক দিনের সওম পালন করার মানৎ করেছে, আমার মনে হয় সে সোমবারের কথা বলেছিল। ঘটনাক্রমে ঐ দিন ঈদের দিন পড়ে যায়। ইবনু ‘উমার (রাঃ) বললেন, আল্লাহ তা‘আলা মানৎ পুরা করার নির্দেশ দিয়েছেন আর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই (ঈদের) দিনে সওম পালন করতে নিষেধ করেছেন। (৬৭০৫, ৬৭০৬, মুসলিম ১৩/২২, হাঃ ১১৩৯) (আধুনিক প্রকাশনীঃ ১৮৫৪, ইসলামিক ফাউন্ডেশনঃ ১৮৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যিয়াদ ইবনু জুবাইর (রহ.) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি এসে (‘আবদুল্লাহ) ইবনু ‘উমার (রাঃ)-কে বলল যে, এক ব্যক্তি কোন এক দিনের সওম পালন করার মানৎ করেছে, আমার মনে হয় সে সোমবারের কথা বলেছিল। ঘটনাক্রমে ঐ দিন ঈদের দিন পড়ে যায়। ইবনু ‘উমার (রাঃ) বললেন, আল্লাহ তা‘আলা মানৎ পুরা করার নির্দেশ দিয়েছেন আর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই (ঈদের) দিনে সওম পালন করতে নিষেধ করেছেন। (৬৭০৫, ৬৭০৬, মুসলিম ১৩/২২, হাঃ ১১৩৯) (আধুনিক প্রকাশনীঃ ১৮৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1994</td></tr><tr><td>Arabic No</td><td>1994</td></tr><tr><td>Reference</td><td>Book 30 Hadith 100</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸியாத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ஒரு மனிதர் இப்னு உமர் (ரலி) அவர்களிடம் வந்து, ‘‘ஒருவர் ஒருநாள் நோன்பு நோற்க நேர்ச்சை செய்திருந்தார்லி அந்த மனிதர் ‘‘(அவர்) திங்கட்கிழமை யன்று (நோன்பு நோற்க நேர்ச்சை செய்திருந்தார்)” என்று கூறியதாக நான் நினைக்கிறேன்லி அவர் குறிப்பிட்ட அந்த நாள் பெருநாளாக அமைந்துவிட்டது” என்று சொன்னார். அதற்கு இப்னு உமர் (ரலி) அவர்கள், ‘‘நேர்ச்சையை நிறைவேற்றுமாறு அல்லாஹ் கட்டளையிடுகின்றான்; நபி (ஸல்) அவர்கள் இந்த(ப் பெருநாள்) தினத் தில் நோன்பு நோற்பதைத் தடை செய்திருக்கிறார்கள்” என்று கூறினார்கள்.53 அத்தியாயம் : 30
+ஸியாத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ஒரு மனிதர் இப்னு உமர் (ரலி) அவர்களிடம் வந்து, ‘‘ஒருவர் ஒருநாள் நோன்பு நோற்க நேர்ச்சை செய்திருந்தார்லி அந்த மனிதர் ‘‘(அவர்) திங்கட்கிழமை யன்று (நோன்பு நோற்க நேர்ச்சை செய்திருந்தார்)” என்று கூறியதாக நான் நினைக்கிறேன்லி அவர் குறிப்பிட்ட அந்த நாள் பெருநாளாக அமைந்துவிட்டது” என்று சொன்னார். அதற்கு இப்னு உமர் (ரலி) அவர்கள், ‘‘நேர்ச்சையை நிறைவேற்றுமாறு அல்லாஹ் கட்டளையிடுகின்றான்; நபி (ஸல்) அவர்கள் இந்த(ப் பெருநாள்) தினத் தில் நோன்பு நோற்பதைத் தடை செய்திருக்கிறார்கள்” என்று கூறினார்கள்.53 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1994</td></tr><tr><td>Arabic No</td><td>1994</td></tr><tr><td>Reference</td><td>Book 30 Hadith 100</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ziyad İbn Cübeyr şöyle demiştir: Bir adam İbn Ömer'e gelerek şöyle dedi: Bir kimse örneğin Pazartesi günü oruç tutmayı adadı. Bu gün de bayrama denk geldi. Bu durumda ne olur? İbn Ömer şöyle dedi: Allah adağı yerine getirmeyi emretmiştir, Nebi Sallallahu Aleyhi ve Sellem de bugün oruç tutmayı yasaklamıştır. Tekrar: 6705, 6706
+Ziyad İbn Cübeyr şöyle demiştir: Bir adam İbn Ömer'e gelerek şöyle dedi: Bir kimse örneğin Pazartesi günü oruç tutmayı adadı. Bu gün de bayrama denk geldi. Bu durumda ne olur? İbn Ömer şöyle dedi: Allah adağı yerine getirmeyi emretmiştir, Nebi Sallallahu Aleyhi ve Sellem de bugün oruç tutmayı yasaklamıştır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1994</td></tr><tr><td>Arabic No</td><td>1994</td></tr><tr><td>Reference</td><td>Book 30 Hadith 100</td></tr></tbody></table></div>
 

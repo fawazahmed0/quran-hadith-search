@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَكَانَ ابْنُ عُمَرَ لاَ يَشُقُّ مِنْ الْجِلاَلِ إِلاَّ مَوْضِعَ السَّنَامِ وَإِذَا نَحَرَهَا نَزَعَ جِلاَلَهَا مَخَافَةَ أَنْ يُفْسِدَهَا الدَّمُ ثُمَّ يَتَصَدَّقُ بِهَا ইবনু ‘উমার (রাঃ) শুধু কুঁজের স্থানের ঝুল ফেড়ে দিতেন। আর তা নহর করার সময় নষ্ট করে দেয়ার আশঙ্কায় ঝুলটি খুলে নিতেন এবং পরে তা সদাকাহ করে দিতেন। ১৭০৭. ‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে যবেহকৃত কুরবানীর উটের পৃষ্ঠের আবরণ এবং তার চামড়া সদাকাহ করে দেয়ার নির্দেশ দিয়েছেন। (১৭১৬, ১৭১৬, ১৭১৭, ১৭১৮, ২২৯৯) (আধুনিক প্রকাশনীঃ ১৫৮৯, ইসলামিক ফাউন্ডেশনঃ ১৫৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَكَانَ ابْنُ عُمَرَ لاَ يَشُقُّ مِنْ الْجِلاَلِ إِلاَّ مَوْضِعَ السَّنَامِ وَإِذَا نَحَرَهَا نَزَعَ جِلاَلَهَا مَخَافَةَ أَنْ يُفْسِدَهَا الدَّمُ ثُمَّ يَتَصَدَّقُ بِهَا ইবনু ‘উমার (রাঃ) শুধু কুঁজের স্থানের ঝুল ফেড়ে দিতেন। আর তা নহর করার সময় নষ্ট করে দেয়ার আশঙ্কায় ঝুলটি খুলে নিতেন এবং পরে তা সদাকাহ করে দিতেন। ১৭০৭. ‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে যবেহকৃত কুরবানীর উটের পৃষ্ঠের আবরণ এবং তার চামড়া সদাকাহ করে দেয়ার নির্দেশ দিয়েছেন। (১৭১৬, ১৭১৬, ১৭১৭, ১৭১৮, ২২৯৯) (আধুনিক প্রকাশনীঃ ১৫৮৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1707</td></tr><tr><td>Arabic No</td><td>1707</td></tr><tr><td>Reference</td><td>Book 25 Hadith 185</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: நான் அறுக்கும் குர்பானி பிராணியின் சேணத்தையும் அதன் தோலையும் தர்மம் செய்துவிட வேண்டுமென நபி (ஸல்) அவர்கள் எனக்குக் கட்டளையிட்டார்கள். அத்தியாயம் : 25
+அலீ (ரலி) அவர்கள் கூறியதாவது: நான் அறுக்கும் குர்பானி பிராணியின் சேணத்தையும் அதன் தோலையும் தர்மம் செய்துவிட வேண்டுமென நபி (ஸல்) அவர்கள் எனக்குக் கட்டளையிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1707</td></tr><tr><td>Arabic No</td><td>1707</td></tr><tr><td>Reference</td><td>Book 25 Hadith 185</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ali radiyallahu anh şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem kestiğim hedy hayvanının üzerinde bulunan heybeyi ve hayvan'ın derisini tasadduk etmemi emretti. Tekrar: 1716,1717,1718, 2299
+Ali radiyallahu anh şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem kestiğim hedy hayvanının üzerinde bulunan heybeyi ve hayvan'ın derisini tasadduk etmemi emretti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1707</td></tr><tr><td>Arabic No</td><td>1707</td></tr><tr><td>Reference</td><td>Book 25 Hadith 185</td></tr></tbody></table></div>
 

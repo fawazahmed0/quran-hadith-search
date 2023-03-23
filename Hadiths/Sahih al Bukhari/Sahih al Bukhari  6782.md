@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, ব্যভিচারী যখন ব্যভিচার করে, তখন সে মু’মিন থাকে না। এবং চোর যখন চুরি করে তখন সে মু’মিন থাকে না।[1] [৬৮০৯] (আধুনিক প্রকাশনী- ৬৩১৩, ইসলামিক ফাউন্ডেশন- ৬৩২৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, ব্যভিচারী যখন ব্যভিচার করে, তখন সে মু’মিন থাকে না। এবং চোর যখন চুরি করে তখন সে মু’মিন থাকে না।[1] [৬৮০৯] (আধুনিক প্রকাশনী- ৬৩১৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6782</td></tr><tr><td>Arabic No</td><td>6782</td></tr><tr><td>Reference</td><td>Book 86 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Amru bin Ali] telah menceritakan kepada kami [Abdul
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: விபசாரம் புரிகின்றவன் விபசாரம் புரிகின்றபோது இறைநம்பிக்கையாளனாக இருந்துகொண்டு அதைச் செய்யமாட்டான். திருடன் திருடும்போது இறைநம்பிக்கை யாளனாக இருந்துகொண்டு திருடமாட்டான்.7 இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 86
+நபி (ஸல்) அவர்கள் கூறினார்கள்: விபசாரம் புரிகின்றவன் விபசாரம் புரிகின்றபோது இறைநம்பிக்கையாளனாக இருந்துகொண்டு அதைச் செய்யமாட்டான். திருடன் திருடும்போது இறைநம்பிக்கை யாளனாக இருந்துகொண்டு திருடமாட்டான்.7 இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6782</td></tr><tr><td>Arabic No</td><td>6782</td></tr><tr><td>Reference</td><td>Book 86 Hadith 11</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল মালিক ইবনু শুআয়ব ..... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম যখন নামাযের জন্য তাকবীরে তাহ্‌রীমা বলতেন, তখন স্বীয় উভয় হাত কাঁধ পর্যন্ত উত্তোলন করতেন। অতঃপর রুকূতে গমনকালে এবং রুকূ হতে সোজা হবার সময়ও দুই হাত কাঁধ পর্যন্ত উঠাতেন এবং দুই রাকাতের পর যখন দন্ডায়মান হতেন, তখনও হাত উত্তোলন করতেন।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের জন্য তাকবীরে তাহরীমা বলার সময় নিজের দু’ হাত কাঁধ পর্যন্ত উঠাতেন। এমনিভাবে রুকু‘তে গমনকালে, রুকু‘ হতে সোজা হওয়ার সময় এবং দু’ রাক‘আত শেষে (তৃতীয় রাক‘আতের জন্য) দাঁড়ানোর সময়ও দু’ হাত কাঁধ পর্যন্ত উঠাতেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>738</td></tr><tr><td>Arabic No</td><td>738</td></tr><tr><td>Reference</td><td>Book 2 Hadith 348</td></tr></tbody></table></div>
 

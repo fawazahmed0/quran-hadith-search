@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫/২২৪। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত, তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জ্ঞান অর্জন করা প্রত্যেক মুসলিমের উপর ফারয। অপাত্রে জ্ঞান দানকারী শুকরের গলায় মণিমুক্তা ও সোনার হার পরানো ব্যাক্তির সমতুল্য।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত, তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জ্ঞান অর্জন করা প্রত্যেক মুসলিমের উপর ফারয। অপাত্রে জ্ঞান দানকারী শুকরের গলায় মণিমুক্তা ও সোনার হার পরানো ব্যাক্তির সমতুল্য।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>224</td></tr><tr><td>Arabic No</td><td>224</td></tr><tr><td>Reference</td><td>Book 0 Hadith 224</td></tr></tbody></table></div>
 

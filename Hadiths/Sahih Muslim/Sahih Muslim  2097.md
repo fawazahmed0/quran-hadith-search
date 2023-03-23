@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ গাসসান আল মিসমাঈ ও মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... আয়িশাহ (বাযিঃ) থেকে বণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (সূর্য গ্রহণের সময়) ছয় রুকূ’ ও চার সিজদা সহকারে দু' রাকাআত সালাত আদায় করেছেন। (ইসলামী ফাউন্ডেশন ১৯৬৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2097</td></tr><tr><td>Arabic No</td><td>901.07</td></tr><tr><td>Reference</td><td>Book 10 Hadith 8</td></tr></tbody></table></div>
 

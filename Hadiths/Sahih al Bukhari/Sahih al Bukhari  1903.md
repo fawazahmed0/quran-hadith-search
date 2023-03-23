@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি মিথ্যা বলা ও সে অনুযায়ী আমল বর্জন করেনি, তার এ পানাহার পরিত্যাগ করায় আল্লাহর কোন প্রয়োজন নেই। (৬০৫৭) (আধুনিক প্রকাশনীঃ ১৭৬৮, ইসলামিক ফাউন্ডেশনঃ ১৭৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি মিথ্যা বলা ও সে অনুযায়ী আমল বর্জন করেনি, তার এ পানাহার পরিত্যাগ করায় আল্লাহর কোন প্রয়োজন নেই। (৬০৫৭) (আধুনিক প্রকাশনীঃ ১৭৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1903</td></tr><tr><td>Arabic No</td><td>1903</td></tr><tr><td>Reference</td><td>Book 30 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் (நோன்பு நோற்றுக்கொண்டு) பொய்யான பேச்சையும் அதன்படி செயல்படுவதையும் கைவிடவில்லையோ அவர் (வெறுமனே) தமது உணவையும் பானத்தையும் கைவிடுவதில் அல்லாஹ் வுக்கு எந்தத் தேவையுமில்லை.8 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 30
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் (நோன்பு நோற்றுக்கொண்டு) பொய்யான பேச்சையும் அதன்படி செயல்படுவதையும் கைவிடவில்லையோ அவர் (வெறுமனே) தமது உணவையும் பானத்தையும் கைவிடுவதில் அல்லாஹ் வுக்கு எந்தத் தேவையுமில்லை.8 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1903</td></tr><tr><td>Arabic No</td><td>1903</td></tr><tr><td>Reference</td><td>Book 30 Hadith 13</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... জাবির ইবন আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি মজলিসে বসে, সে আমানতদার। তবে তিন সময় তা প্রকাশ করা যায়। তা হলোঃ (১) যেখানে না-হকভাবে রক্ত প্রবাহিত হওয়ার সম্ভাবনা থাকে, (২) বিনা কারণে আহত হওয়ার ভয় থাকে, এবং (৩) যেখানে অকারণে কারো সম্পদ লুন্ঠিত হওয়ার আশংকা থাকে। (অর্থাৎ এরূপ কারণ ঘটলে তা প্রকাশে দোষ নেই; বরং এতে মুসলিমের জান-মাল রক্ষা পায়।)
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সকল মাজলিস আমানতস্বরূপ, তবে তিনটি মাজলিস ব্যতীত। (১) অবৈধভাবে হত্যা করার উদ্দেশ্যে অনুষ্ঠিত মাজলিস অথবা (২) যেনার মাজলিস অথবা (৩) অন্যায়ভাবে সম্পদ আত্মসাত করার মাজলিস।[1] দুর্বলঃ যঈফাহ হা/ ১৯০৯।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4869</td></tr><tr><td>Arabic No</td><td>4869</td></tr><tr><td>Reference</td><td>Book 43 Hadith 97</td></tr></tbody></table></div>
 

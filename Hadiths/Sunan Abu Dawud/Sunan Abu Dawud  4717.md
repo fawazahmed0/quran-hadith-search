@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্‌রাহীম ইবন মূসা (রহঃ) ..... আমির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জীবন্ত প্রথিত কন্যা এবং তার মা- উভয়ই জাহান্নামী।
+। আমির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে মহিলা তার কন্যা সন্তানকে জীবন্ত কবরস্থ করেছে এবং যে কন্যা সন্তানকে জীবন্ত প্রোথিত করা হয়েছে তারা উভয়ে জাহান্নামী।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4717</td></tr><tr><td>Arabic No</td><td>4717</td></tr><tr><td>Reference</td><td>Book 42 Hadith 122</td></tr></tbody></table></div>
 

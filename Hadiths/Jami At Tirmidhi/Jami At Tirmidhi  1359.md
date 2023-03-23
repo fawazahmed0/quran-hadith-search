@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৩৫৯। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের একজন স্ত্রী তাকে একটি বাটিতে কিছু খাবার পাঠান। আইশা (রাঃ) নিজের হাত দিয়ে বাটিতে আঘাত করে খাবারগুলো ফেলে দেন এবং বাটিও ভেঙ্গে যায়। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ খাদ্যের জন্য খাবার এবং বাটির জন্য একটি বাটি প্রদান করতে হবে। সহীহ, ইবনু মা-জাহ (২৩৩৪) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের একজন স্ত্রী তাকে একটি বাটিতে কিছু খাবার পাঠান। আইশা (রাঃ) নিজের হাত দিয়ে বাটিতে আঘাত করে খাবারগুলো ফেলে দেন এবং বাটিও ভেঙ্গে যায়। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ খাদ্যের জন্য খাবার এবং বাটির জন্য একটি বাটি প্রদান করতে হবে। সহীহ, ইবনু মা-জাহ (২৩৩৪) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1359</td></tr><tr><td>Arabic No</td><td>1359</td></tr><tr><td>Reference</td><td>Book 15 Hadith 39</td></tr></tbody></table></div>
 

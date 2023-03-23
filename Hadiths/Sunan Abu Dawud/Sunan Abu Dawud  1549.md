@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইব্‌নুল্‌ মুতাওয়াক্‌কিল (রহঃ) ..... আনাস্‌ ইব্‌ন মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম এরূপে দু’আ করতেনঃ ইয়া আল্লাহ! আমি তোমার নিকট এমন নামায (আদায়) হতে তোমার আশ্রয় কামনা করি, যা কোন উপকারে আসে না। তিনি এতদ্ব্যতীত অন্য দু’আও করতেন।
+। আবুল মু‘তামির (রহঃ) বলেন, আমার ধারণা আনাস ইবনু মালিক (রাঃ) আমাদেরকে এ হাদীস বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ ‘‘হে আল্লাহ! আমি আপনার নিকট আশ্রয় চাই এমন সালাত হতে যা উপকার দেয় না।’’ এছাড়া অন্য দু‘আও উল্লেখ করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1549</td></tr><tr><td>Arabic No</td><td>1549</td></tr><tr><td>Reference</td><td>Book 8 Hadith 134</td></tr></tbody></table></div>
 

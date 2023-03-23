@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (নবুওয়াতের পূর্বে) কুরাইশদের সাথে কা‘বার (মেরামতের) জন্যে পাথর তুলে দিচ্ছিলেন। তাঁর পরিধানে ছিল লুঙ্গি। তাঁর চাচা ‘আব্বাস (রাযি.) তাঁকে বললেনঃ ভাতিজা! তুমি লুঙ্গি খুলে কাঁধে পাথরের নীচে রাখলে ভাল হ’ত। জাবির (রাযি.) বলেনঃ তিনি লুঙ্গি খুলে কাঁধে রাখলেন এবং তৎক্ষণাৎ বেহুঁশ হয়ে পড়লেন। এরপর তাঁকে আর কখনো নগ্ন অবস্থায় দেখা যায়নি। (১৫৮২, ৩৮২৯; মুসলিম ৩/১৯, হাঃ ৩৪০) (আধুনিক প্রকাশনীঃ ৩৫১, ইসলামিক ফাউন্ডেশনঃ ৩৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (নবুওয়াতের পূর্বে) কুরাইশদের সাথে কা‘বার (মেরামতের) জন্যে পাথর তুলে দিচ্ছিলেন। তাঁর পরিধানে ছিল লুঙ্গি। তাঁর চাচা ‘আব্বাস (রাযি.) তাঁকে বললেনঃ ভাতিজা! তুমি লুঙ্গি খুলে কাঁধে পাথরের নীচে রাখলে ভাল হ’ত। জাবির (রাযি.) বলেনঃ তিনি লুঙ্গি খুলে কাঁধে রাখলেন এবং তৎক্ষণাৎ বেহুঁশ হয়ে পড়লেন। এরপর তাঁকে আর কখনো নগ্ন অবস্থায় দেখা যায়নি। (১৫৮২, ৩৮২৯; মুসলিম ৩/১৯, হাঃ ৩৪০) (আধুনিক প্রকাশনীঃ ৩৫১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>364</td></tr><tr><td>Arabic No</td><td>364</td></tr><tr><td>Reference</td><td>Book 8 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mathar bin Al Fadlal] berkata, telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: (நபியவர்களின் காலத்தில் குறைஷி யரால் இறையில்லம் கஅபா புதுப்பித்துக் கட்டப்பட்டபோது) அவர்களுடன் (சிறுவராயிருந்த) அல்லாஹ்வின் தூதர் (ஸல்) அவர்களும் கஅபாவிற்காகக் கற் களை(ச் சுமந்து) எடுத்து வந்துகொண்டி ருந்தார்கள். அப்போது நபியவர்கள்மீது கீழங்கி (மட்டுமே) இருந்தது. அவர்களு டைய பெரிய தந்தை அப்பாஸ் அவர்கள் (சிறுவராயிருந்த) நபி (ஸல்) அவர்களிடம், “என் சகோதரரின் மகனே! நீங்கள் உங்கள் கீழங்கியை அவிழ்த்துத் தோள்மீது (வைத்துள்ள) கல்லுக்குக் கீழே வைத்து (கற்களைச் சுமந்து)கொண்டு வரலாமே!” என்று கூறினார்கள். அவ்வாறே நபி (ஸல்) அவர்களும் தமது கீழங்கியை அவிழ்த்துத் தம் தோள்கள்மீது வைத்தார்கள். உடனே மூர்ச்சையடைந்து கீழே விழுந்துவிட்டார்கள். அதற்குப்பின் நபி (ஸல்) அவர்கள் (ஒருபோதும்) பிறந்த மேனியுடன் காணப்பட்டதில்லை. அத்தியாயம் : 8
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: (நபியவர்களின் காலத்தில் குறைஷி யரால் இறையில்லம் கஅபா புதுப்பித்துக் கட்டப்பட்டபோது) அவர்களுடன் (சிறுவராயிருந்த) அல்லாஹ்வின் தூதர் (ஸல்) அவர்களும் கஅபாவிற்காகக் கற் களை(ச் சுமந்து) எடுத்து வந்துகொண்டி ருந்தார்கள். அப்போது நபியவர்கள்மீது கீழங்கி (மட்டுமே) இருந்தது. அவர்களு டைய பெரிய தந்தை அப்பாஸ் அவர்கள் (சிறுவராயிருந்த) நபி (ஸல்) அவர்களிடம், “என் சகோதரரின் மகனே! நீங்கள் உங்கள் கீழங்கியை அவிழ்த்துத் தோள்மீது (வைத்துள்ள) கல்லுக்குக் கீழே வைத்து (கற்களைச் சுமந்து)கொண்டு வரலாமே!” என்று கூறினார்கள். அவ்வாறே நபி (ஸல்) அவர்களும் தமது கீழங்கியை அவிழ்த்துத் தம் தோள்கள்மீது வைத்தார்கள். உடனே மூர்ச்சையடைந்து கீழே விழுந்துவிட்டார்கள். அதற்குப்பின் நபி (ஸல்) அவர்கள் (ஒருபோதும்) பிறந்த மேனியுடன் காணப்பட்டதில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>364</td></tr><tr><td>Arabic No</td><td>364</td></tr><tr><td>Reference</td><td>Book 8 Hadith 16</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mathar bin Al Fadlal] berkata, telah menceritaka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr İbn Dinar'dan şöyle nakledilmiştir: Câbir İbn Abdullah'ı şunları anlatırken dinledim: "Nebi (Sallallahu aleyhi ve Sellem) kavmi ile birlikte Ka'be'nin inşası İçin taş taşıyordu. Üzerinde izarı vardı. Amcası Abbâs, Yeğenim! Taşların zarar vermesini önlemek için izarını çözüp omzuna koysan' dedi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) izarını çözüp omzuna koydu. Birden baygın şekilde yere düştü. O günden itibaren hiç çıplak görülmedi. (Hz, Pey­gamber kavmi ile birlikte Kabe'nin İnşası İçin taş taşıyordu.) Nübüvvetten önce Kureyş'liler Kabe'yi bina ederken, Allah Resulü (Sallallahu aleyhi ve Sellem) onlarla birlikte taş taşımıştır. Tekrar: 1582, 3829
+Amr İbn Dinar'dan şöyle nakledilmiştir: Câbir İbn Abdullah'ı şunları anlatırken dinledim: "Nebi (Sallallahu aleyhi ve Sellem) kavmi ile birlikte Ka'be'nin inşası İçin taş taşıyordu. Üzerinde izarı vardı. Amcası Abbâs, Yeğenim! Taşların zarar vermesini önlemek için izarını çözüp omzuna koysan' dedi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) izarını çözüp omzuna koydu. Birden baygın şekilde yere düştü. O günden itibaren hiç çıplak görülmedi. (Hz, Pey­gamber kavmi ile birlikte Kabe'nin İnşası İçin taş taşıyordu.) Nübüvvetten önce Kureyş'liler Kabe'yi bina ederken, Allah Resulü (Sallallahu aleyhi ve Sellem) onlarla birlikte taş taşımıştır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>364</td></tr><tr><td>Arabic No</td><td>364</td></tr><tr><td>Reference</td><td>Book 8 Hadith 16</td></tr></tbody></table></div>
 

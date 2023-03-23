@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১. আবু সাঈদ খুদরী (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেনঃ পাঁচটির কম উটে যাকাত ওয়াজিব হয় না। পাঁচ উকিয়া হইতে কম রৌপ্য এবং পাঁচ অছক হইতে কম পরিমাণ শস্যেও যাকাত (উশর) ফরয হয় না।[1]
+রেওয়ায়ত ১. আবু সাঈদ খুদরী (রাঃ) বর্ণনা করেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেনঃ পাঁচটির কম উটে যাকাত ওয়াজিব হয় না। পাঁচ উকিয়া হইতে কম রৌপ্য এবং পাঁচ অছক হইতে কম পরিমাণ শস্যেও যাকাত (উশর) ফরয হয় না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>578</td></tr><tr><td>Arabic No</td><td>578</td></tr><tr><td>Reference</td><td>Book 17 Hadith 1</td></tr></tbody></table></div>
 

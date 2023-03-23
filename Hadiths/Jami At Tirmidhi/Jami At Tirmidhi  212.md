@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২১২। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আযান ও ইকামাতের মধ্যবর্তী সময়ের দু'আ ফেরত দেয়া হয় না। —সহীহ, মিশকাত— (৬৭১), ইরওয়া— (২৪৪), সহীহ আবু দাউদ- (৫৩৪)। আবু ঈসা বলেনঃ আনাসের হাদীসটি হাসান সহীহ। ইবনু ইসহাকও তার সনদ পরম্পরায় আনাস (রাঃ) হতে হাদীসটি বর্ণনা করেছেন।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আযান ও ইকামাতের মধ্যবর্তী সময়ের দু'আ ফেরত দেয়া হয় না। —সহীহ, মিশকাত— (৬৭১), ইরওয়া— (২৪৪), সহীহ আবু দাউদ- (৫৩৪)। আবু ঈসা বলেনঃ আনাসের হাদীসটি হাসান সহীহ। ইবনু ইসহাকও তার সনদ পরম্পরায় আনাস (রাঃ) হতে হাদীসটি বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>212</td></tr><tr><td>Arabic No</td><td>212</td></tr><tr><td>Reference</td><td>Book 2 Hadith 64</td></tr></tbody></table></div>
 

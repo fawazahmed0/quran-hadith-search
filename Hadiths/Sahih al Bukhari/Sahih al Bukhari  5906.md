@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর হাত গোশতে পূর্ণ ছিল। তাঁর পরে আমি কোন লোককে এমন দেখিনি। আর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চুল ছিল মাঝারি রকমের, অধিক কোঁকড়ানোও না, অধিক সোজাও না। [৫৯০৫] (আধুনিক প্রকাশনী- ৫৪৭৭, ইসলামিক ফাউন্ডেশন- ৫৩৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর হাত গোশতে পূর্ণ ছিল। তাঁর পরে আমি কোন লোককে এমন দেখিনি। আর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চুল ছিল মাঝারি রকমের, অধিক কোঁকড়ানোও না, অধিক সোজাও না। [৫৯০৫] (আধুনিক প্রকাশনী- ৫৪৭৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5906</td></tr><tr><td>Arabic No</td><td>5906</td></tr><tr><td>Reference</td><td>Book 77 Hadith 123</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Jarir] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பருத்த கைகள் உடையவர்களாக இருந்தார்கள். அவர்களுக்குப்பின் அவர்களைப்போல் (வேறு யாரையும்) நான் பார்க்கவில்லை. நபி (ஸல்) அவர்களின் (தலை)முடி அலையலை யானதாக இருந்தது. படிந்ததாகவும் இல்லை; சுருள் முடியாகவும் இல்லை. அத்தியாயம் : 77
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பருத்த கைகள் உடையவர்களாக இருந்தார்கள். அவர்களுக்குப்பின் அவர்களைப்போல் (வேறு யாரையும்) நான் பார்க்கவில்லை. நபி (ஸல்) அவர்களின் (தலை)முடி அலையலை யானதாக இருந்தது. படிந்ததாகவும் இல்லை; சுருள் முடியாகவும் இல்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5906</td></tr><tr><td>Arabic No</td><td>5906</td></tr><tr><td>Reference</td><td>Book 77 Hadith 123</td></tr></tbody></table></div>
 

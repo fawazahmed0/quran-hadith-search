@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭৪৮, আন্তর্জাতিক নাম্বারঃ ১৮৭৪ ৪৭৪৮-(১০০/১৮৭৪) উবাইদুল্লাহ ইবনু মুআয (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বারাকাত রয়েছে ঘোড়ার কপালে। (ইসলামিক ফাউন্ডেশন ৪৭০১, ইসলামিক সেন্টার ৪৭০২)
+উবাইদুল্লাহ ইবনু মুআয (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বারাকাত রয়েছে ঘোড়ার কপালে। (ইসলামিক ফাউন্ডেশন ৪৭০১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4854</td></tr><tr><td>Arabic No</td><td>1874.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 150</td></tr></tbody></table></div>
 

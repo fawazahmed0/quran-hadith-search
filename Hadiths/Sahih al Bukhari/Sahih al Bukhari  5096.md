@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসামাহ ইবনু যায়দ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, পুরুষের জন্য স্ত্রীজাতি অপেক্ষা অধিক ক্ষতিকর কোন ফিতনা আমি রেখে গেলাম না। [মুসলিম ২৬/হাঃ ২৭৪০, আহমাদ ২১৮০৫] (আধুনিক প্রকাশনী- ৪৭২৩, ইসলামিক ফাউন্ডেশন- ৪৭২৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উসামাহ ইবনু যায়দ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, পুরুষের জন্য স্ত্রীজাতি অপেক্ষা অধিক ক্ষতিকর কোন ফিতনা আমি রেখে গেলাম না। [মুসলিম ২৬/হাঃ ২৭৪০, আহমাদ ২১৮০৫] (আধুনিক প্রকাশনী- ৪৭২৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5096</td></tr><tr><td>Arabic No</td><td>5096</td></tr><tr><td>Reference</td><td>Book 67 Hadith 34</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (பெண்களைத் திருப்திப்படுத்துவ தற்காக எதையும் செய்யத் துணிகின்ற) ஆண்களுக்கு (அந்த)ப் பெண்களைவிட அதிகமாக இடரளிக்கும் (வேறு) எந்தச் சோதனையையும் என(து வாழ்நாளு)க்குப் பிறகு நான் விட்டுச்செல்லவில்லை. இதை உசாமா பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 67
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (பெண்களைத் திருப்திப்படுத்துவ தற்காக எதையும் செய்யத் துணிகின்ற) ஆண்களுக்கு (அந்த)ப் பெண்களைவிட அதிகமாக இடரளிக்கும் (வேறு) எந்தச் சோதனையையும் என(து வாழ்நாளு)க்குப் பிறகு நான் விட்டுச்செல்லவில்லை. இதை உசாமா பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5096</td></tr><tr><td>Arabic No</td><td>5096</td></tr><tr><td>Reference</td><td>Book 67 Hadith 34</td></tr></tbody></table></div>
 

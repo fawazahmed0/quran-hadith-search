@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উরওয়াহ (রহ.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করতেন, আর ‘আয়িশাহ (রাযি.) তাঁর ও ক্বিবলা (কিবলা/কেবলা)হর মাঝখানে তাঁদের বিছানায় যাতে তারা ঘুমাতেন আড়াআড়ি ভাবে শুয়ে থাকতেন। (৩৮২) (আধুনিক প্রকাশনীঃ ৩৭১, ইসলামিক ফাউন্ডেশনঃ ৩৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উরওয়াহ (রহ.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করতেন, আর ‘আয়িশাহ (রাযি.) তাঁর ও ক্বিবলা (কিবলা/কেবলা)হর মাঝখানে তাঁদের বিছানায় যাতে তারা ঘুমাতেন আড়াআড়ি ভাবে শুয়ে থাকতেন। (৩৮২) (আধুনিক প্রকাশনীঃ ৩৭১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>384</td></tr><tr><td>Reference</td><td>Book 8 Hadith 36</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், தாமும் (தம் துணைவியாரும் என் சிற்றன்னையுமான) ஆயிஷா (ரலி) அவர்களும் உறங்கும் படுக்கை விரிப்பில் (இரவில்) தொழுவார்கள். அப்போது ஆயிஷா (ரலி) அவர்கள் நபி (ஸல்) அவர்களுக்கும் (அவர்கள் சஜ்தா செய்யும்) ‘கிப்லா’ திசைக்கும் இடையே குறுக்கே படுத்திருப்பார்கள். அத்தியாயம் : 8
+உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், தாமும் (தம் துணைவியாரும் என் சிற்றன்னையுமான) ஆயிஷா (ரலி) அவர்களும் உறங்கும் படுக்கை விரிப்பில் (இரவில்) தொழுவார்கள். அப்போது ஆயிஷா (ரலி) அவர்கள் நபி (ஸல்) அவர்களுக்கும் (அவர்கள் சஜ்தா செய்யும்) ‘கிப்லா’ திசைக்கும் இடையே குறுக்கே படுத்திருப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>384</td></tr><tr><td>Reference</td><td>Book 8 Hadith 36</td></tr></tbody></table></div>
 

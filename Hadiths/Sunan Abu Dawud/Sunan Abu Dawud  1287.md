@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন সালামা (রহঃ) ..... সাহল ইবন মুআয (রহঃ) থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কোন ব্যক্তি ফজরের নামাযের পর ভালো কাজে লিপ্ত থেকে সূর্য একটু উপরে উঠার পর দুই রাকাত নামায আদায় করে, তবে তার সমস্ত গুনাহ মার্জিত হবে। যদিও এর পরিমাণ সাগরের ফেনার চাইতেও অধিক হয়।
+। সাহল ইবনু মু‘আয ইবনু আনাস আল-জুহানী (রহঃ) হতে তার পিতার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোন ব্যক্তি ফজরের সালাত আদায় শেষে চাশতের সালাত আদায় পর্যন্ত তার জায়গাতে বসে থাকলে এবং এ সময়ে উত্তম কথা ছাড়া অন্য কিছু না বললে তার সমস্ত গুনাহ ক্ষমা করা হয়। যদিও গুনাহের পরিমাণ সমুদ্রের ফেনারাশির চেয়ে অধিক হয়।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1287</td></tr><tr><td>Arabic No</td><td>1287</td></tr><tr><td>Reference</td><td>Book 5 Hadith 38</td></tr></tbody></table></div>
 

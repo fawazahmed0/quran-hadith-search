@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩২৭২। আবুল ইয়ামান (রাঃ) বলেন, আমার দাদী থেকে হুযাইল গোত্রের নুবাইশা আল-খায়ের (রাঃ) এর সূত্রে বর্ণিত। তিনি বলেন, নুবাইশা আমাদের নিকট এলেন। আমরা তখন আমাদের একটি পাত্রে আহার করছিলাম। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কোন পাত্রে আহার করার পর তা চেটে খেয়ে পরিষ্কার করে, তার জন্য ঐ পাত্র ক্ষমা প্রার্থনা করে।
+। আবুল ইয়ামান (রাঃ) বলেন, আমার দাদী থেকে হুযাইল গোত্রের নুবাইশা আল-খায়ের (রাঃ) এর সূত্রে বর্ণিত। তিনি বলেন, নুবাইশা আমাদের নিকট এলেন। আমরা তখন আমাদের একটি পাত্রে আহার করছিলাম। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কোন পাত্রে আহার করার পর তা চেটে খেয়ে পরিষ্কার করে, তার জন্য ঐ পাত্র ক্ষমা প্রার্থনা করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬৭৮। আলী (রাঃ) হতে বর্ণিত আছে, আব্বাস (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এক বছর পূর্ণ হওয়ার পূর্বে যাকাত আদায় প্রসঙ্গে প্রশ্ন করেন। তিনি তাকে এর অনুমতি দিয়েছেন। — হাসান, ইবনু মা-জাহ (১৭৯৫)
+। আলী (রাঃ) হতে বর্ণিত আছে, আব্বাস (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এক বছর পূর্ণ হওয়ার পূর্বে যাকাত আদায় প্রসঙ্গে প্রশ্ন করেন। তিনি তাকে এর অনুমতি দিয়েছেন। — হাসান, ইবনু মা-জাহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>678</td></tr><tr><td>Arabic No</td><td>678</td></tr><tr><td>Reference</td><td>Book 7 Hadith 62</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৬৬, আন্তর্জাতিক নাম্বারঃ ৯১ ১৬৬-(১৪৭/৯১) মুহাম্মাদ ইবনু আল মুসান্না, মুহাম্মাদ ইবনু বাশশার ও ইবরাহীম ইবনু দীনার (রহঃ) ..... 'আবদুল্লাহ ইবনু মাসউদ (রাযিঃ) বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যার অন্তরে অণুপরিমাণ অহংকার থাকবে সে জান্নাতে প্রবেশ করবে না। এক ব্যক্তি জিজ্ঞেস করলো, মানুষ চায় যে, তার পোশাক সুন্দর হোক, তার জুতা সুন্দর হোক, এ-ও কি অহঙ্কার? রাসূল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বললেনঃ আল্লাহ সুন্দর, তিনি সুন্দরকে ভালোবাসেন। প্রকৃতপক্ষে অহংকার হচ্ছে দম্ভভরে সত্য ও ন্যায় অস্বীকার করা এবং মানুষকে ঘৃণা করা*। (ইসলামিক ফাউন্ডেশনঃ ১৬৭, ইসলামিক সেন্টারঃ ১৭৩) * কেউ যদি সুন্দর পোশাক পরিধান করে, আর সুন্দর জুতা পরিধান করে এটা শারীআত সম্মত তা অহঙ্কারের অন্তর্ভুক্ত হবে না।
+মুহাম্মাদ ইবনু আল মুসান্না, মুহাম্মাদ ইবনু বাশশার ও ইবরাহীম ইবনু দীনার (রহঃ) ..... 'আবদুল্লাহ ইবনু মাসউদ (রাযিঃ) বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যার অন্তরে অণুপরিমাণ অহংকার থাকবে সে জান্নাতে প্রবেশ করবে না। এক ব্যক্তি জিজ্ঞেস করলো, মানুষ চায় যে, তার পোশাক সুন্দর হোক, তার জুতা সুন্দর হোক, এ-ও কি অহঙ্কার? রাসূল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বললেনঃ আল্লাহ সুন্দর, তিনি সুন্দরকে ভালোবাসেন। প্রকৃতপক্ষে অহংকার হচ্ছে দম্ভভরে সত্য ও ন্যায় অস্বীকার করা এবং মানুষকে ঘৃণা করা*। (ইসলামিক ফাউন্ডেশনঃ ১৬৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>265</td></tr><tr><td>Arabic No</td><td>91.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Muhammad bin 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் "யாருடைய உள்ளத்தில் அணுவளவு தற்பெருமை இருக்கிறதோ அவர் சொர்க்கத்தில் நுழையமாட்டார்" என்று கூறினார்கள். அப்போது ஒரு மனிதர், "தமது ஆடை அழகாக இருக்க வேண்டும்; தமது காலணி அழகாக இருக்க வேண்டும் என ஒருவர் விரும்புகிறார். (இதுவும் தற்பெருமையில் சேருமா?)" என்று கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், "அல்லாஹ் அழகானவன்; அழகையே அவன் விரும்புகின்றான். தற்பெருமை என்பது (ஆணவத்தோடு) உண்மையை மறுப்பதும், மக்களைக் கேவலமாக மதிப்பதும்தான்" என்று கூறினார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 1
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் "யாருடைய உள்ளத்தில் அணுவளவு தற்பெருமை இருக்கிறதோ அவர் சொர்க்கத்தில் நுழையமாட்டார்" என்று கூறினார்கள். அப்போது ஒரு மனிதர், "தமது ஆடை அழகாக இருக்க வேண்டும்; தமது காலணி அழகாக இருக்க வேண்டும் என ஒருவர் விரும்புகிறார். (இதுவும் தற்பெருமையில் சேருமா?)" என்று கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், "அல்லாஹ் அழகானவன்; அழகையே அவன் விரும்புகின்றான். தற்பெருமை என்பது (ஆணவத்தோடு) உண்மையை மறுப்பதும், மக்களைக் கேவலமாக மதிப்பதும்தான்" என்று கூறினார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>265</td></tr><tr><td>Arabic No</td><td>91.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Muhammad bin 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. el-Müsenna, Muhammed b. Beşşar ve İbrahim b. Dinar -birlikte- Yahya b. Hammad'dan tahdis etti. İbnu'l-Müsenna dedi ki: Bana Yahya b. Hammad tahdis etti. Bize Şu'be, Eban b. Tağlib'den haber verdi. O Fudayl el-Fukayml'den, o İbrahim en-Nehal'den, o Alkame'den, o Abdullah b. Mes'ud'dan, o Nebi (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletti: "Kalbinde zerre ağırlığınca kibir bulunan bir kimse cennete girmez. " Bir adam: Kişi elbisesinin güzel, ayakkabısının güzel olmasını sever(se) durumu nedir, dedi. Allah Resulü (Sallallahu aleyhi ve Sellem): "Şüphesiz Allah güzeldir, güzeli sever. Kibir ise hakkı kabul etmemek ve insanları küçümsemektir" buyurdu. Diğer tahric: Tirmizi, 1999; Tuhfetu'l-Eşraf, 9444
+Bize Muhammed b. el-Müsenna, Muhammed b. Beşşar ve İbrahim b. Dinar -birlikte- Yahya b. Hammad'dan tahdis etti. İbnu'l-Müsenna dedi ki: Bana Yahya b. Hammad tahdis etti. Bize Şu'be, Eban b. Tağlib'den haber verdi. O Fudayl el-Fukayml'den, o İbrahim en-Nehal'den, o Alkame'den, o Abdullah b. Mes'ud'dan, o Nebi (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletti: "Kalbinde zerre ağırlığınca kibir bulunan bir kimse cennete girmez. " Bir adam: Kişi elbisesinin güzel, ayakkabısının güzel olmasını sever(se) durumu nedir, dedi. Allah Resulü (Sallallahu aleyhi ve Sellem): "Şüphesiz Allah güzeldir, güzeli sever. Kibir ise hakkı kabul etmemek ve insanları küçümsemektir" buyurdu. Diğer tahric: Tirmizi, 1999; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>265</td></tr><tr><td>Arabic No</td><td>91.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
 

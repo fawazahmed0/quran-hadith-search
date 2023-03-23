@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রোগের সংক্রমণ বলতে কিছু নেই, অশুভ কেবল ঘোড়া,নারী ও ঘর এ তিন জিনিসের মধ্যেই রয়েছে। [২০৯০] (আধুনিক প্রকাশনী- ৫৩৫০, ইসলামিক ফাউন্ডেশন- ৫২৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রোগের সংক্রমণ বলতে কিছু নেই, অশুভ কেবল ঘোড়া,নারী ও ঘর এ তিন জিনিসের মধ্যেই রয়েছে। [২০৯০] (আধুনিক প্রকাশনী- ৫৩৫০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5772</td></tr><tr><td>Arabic No</td><td>5772</td></tr><tr><td>Reference</td><td>Book 76 Hadith 86</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritaka kepada kami [Sa'id bin 'Ufair] dia berkata; telah menceritaka 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொற்றுநோய் கிடையாது; பறவை சகுனம் கிடையாது; சகுனம் பார்ப்பது (இருக்க முடியுமென்றால்) மூன்று விஷயங்களில்தான். குதிரையிலும் மனைவியிலும் வீட்டிலும்தான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.99 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 76
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொற்றுநோய் கிடையாது; பறவை சகுனம் கிடையாது; சகுனம் பார்ப்பது (இருக்க முடியுமென்றால்) மூன்று விஷயங்களில்தான். குதிரையிலும் மனைவியிலும் வீட்டிலும்தான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.99 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5772</td></tr><tr><td>Arabic No</td><td>5772</td></tr><tr><td>Reference</td><td>Book 76 Hadith 86</td></tr></tbody></table></div>
 

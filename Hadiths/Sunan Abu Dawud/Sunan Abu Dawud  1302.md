@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন ইউনুস (রহঃ) ..... সাঈদ ইবন যুবায়ের (রহঃ) হতে এই সনদে নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উপরোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে।
+। সাঈদ ইবনু জুবাইর (রাঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সূত্রে এ হাদীসের ভাবার্থ মুরসাল হিসেবে বর্ণিত হয়েছে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1302</td></tr><tr><td>Arabic No</td><td>1302</td></tr><tr><td>Reference</td><td>Book 5 Hadith 53</td></tr></tbody></table></div>
 

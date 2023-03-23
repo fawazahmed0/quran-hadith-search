@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাফীয়াকে আযাদ করলেন এবং এই আযাদীকে তার বিয়ের মাহর ধার্য করলেন। (আধুনিক প্রকাশনী- ৪৭১৩, ইসলামিক ফাউন্ডেশন- ৪৭১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাফীয়াকে আযাদ করলেন এবং এই আযাদীকে তার বিয়ের মাহর ধার্য করলেন। (আধুনিক প্রকাশনী- ৪৭১৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5086</td></tr><tr><td>Arabic No</td><td>5086</td></tr><tr><td>Reference</td><td>Book 67 Hadith 24</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது. (கைபர் போர்க் கைதியான) ஸஃபிய்யாவை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் விடுதலை செய்தார்கள். மேலும், அவர்களை விடுதலை செய்ததையே மணக்கொடையாக ஆக்கி (தாமே அவர்களை மணந்து)கொண்டார்கள்.22 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 67
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது. (கைபர் போர்க் கைதியான) ஸஃபிய்யாவை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் விடுதலை செய்தார்கள். மேலும், அவர்களை விடுதலை செய்ததையே மணக்கொடையாக ஆக்கி (தாமே அவர்களை மணந்து)கொண்டார்கள்.22 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5086</td></tr><tr><td>Arabic No</td><td>5086</td></tr><tr><td>Reference</td><td>Book 67 Hadith 24</td></tr></tbody></table></div>
 

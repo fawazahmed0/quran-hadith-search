@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫/২৮০২। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শহীদ ব্যক্তি নিহত হওয়ার সময় কোন কষ্টই অনুভব করে না, শুধু এতটুকু যে, তোমাদের কাউকে পিঁপড়ায় দংশন করলে সে যতটকু ব্যথা অনুভব করে।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শহীদ ব্যক্তি নিহত হওয়ার সময় কোন কষ্টই অনুভব করে না, শুধু এতটুকু যে, তোমাদের কাউকে পিঁপড়ায় দংশন করলে সে যতটকু ব্যথা অনুভব করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2802</td></tr><tr><td>Arabic No</td><td>2802</td></tr><tr><td>Reference</td><td>Book 24 Hadith 50</td></tr></tbody></table></div>
 

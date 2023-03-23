@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন বাশশার (রহঃ) ..... আয়েশা বিতন সা‘দ আবূ ওয়াক্কাস (রাঃ) হতে বর্ণিত। তিনি বলেন, সা‘দ (রাঃ) বলেছেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন (হজ্জের উদ্দেশে) আল ফুরা‘আ নামক স্থানের দিকে যেতেন তখন সাওারির পিঠে চড়া মাত্রই তালবিয়া পড়তেন। তিনি যখন উহুদের পথে রওয়ানা হতেন, তখন আল বায়দা পর্বতে উঠার সময় তালবিয়া পড়তেন।
+। সা‘দ ইবনু আবূ ওয়াক্কাস (রাযি.) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন আল-ফুর‘আ নামক স্থানের দিকে যেতেন তখন সওয়ারীর পিঠে চড়া মাত্রই তালবিয়া পড়তেন। তিনি যখন উহুদের পথে রওয়ানা হতেন, তখন আল-বায়দা পর্বতে উঠার সময় তালবিয়া পড়তেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1775</td></tr><tr><td>Arabic No</td><td>1775</td></tr><tr><td>Reference</td><td>Book 11 Hadith 55</td></tr></tbody></table></div>
 

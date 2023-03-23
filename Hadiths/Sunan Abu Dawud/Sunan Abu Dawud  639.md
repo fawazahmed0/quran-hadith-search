@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্-কানবী ..... মুহাম্মাদ ইবনু কুনফুয থেকে তাঁর মাতার সূত্রে বর্ণিত। তিনি উম্মে সালামা (রাঃ)-কে প্রশ্ন করেন যে, স্ত্রী লোকেরা কি কি বস্ত্র পরিধাণ করে নামায পড়বে? তিনি বলেন, ওড়না এবং জামা পরিধান করে, যা দ্বারা পায়ের পাতাও ঢেকে যায়। (মুওয়াত্তা ইমাম মালেক)।
+। মুহাম্মাদ ইবনু যায়িদ ইবনু কুনফুয হতে তার মাতার সূত্রে বর্ণিত। তার মাতা উম্মু সালামাহ (রাঃ)-কে জিজ্ঞেস করলেন, মহিলারা কয়টি কাপড় পরে সালাত আদায় করবে? তিনি বললেন, একটি ওড়না এবং একটি জামা পরেই সালাত আদায় করতে পারবে। তবে জামাটি এরূপ লম্বা হবে যা দিয়ে পায়ের উপরিভাগ ঢেকে যাবে।[1] দুর্বল মাওকূফ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>639</td></tr><tr><td>Arabic No</td><td>639</td></tr><tr><td>Reference</td><td>Book 2 Hadith 249</td></tr></tbody></table></div>
 

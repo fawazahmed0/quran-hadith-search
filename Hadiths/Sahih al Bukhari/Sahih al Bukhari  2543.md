@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে তিনটি কথা শোনার পর হতে বনী তামীম গোত্রকে আমি ভালবেসে আসছি। আমি তাঁকে বলতে শুনেছি, দাজ্জালের মুকাবিলায় আমার উম্মতের মধ্যে এরাই হবে অধিকতর কঠোর। আবূ হুরাইরাহ্ (রাঃ) বলেন, একবার তাদের পক্ষ হতে সদকার মাল আসল। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, এ যে আমার কাওমের সাদাকা। ‘আয়িশাহ (রাযি.)-এর হাতে তাদের এক বন্দিনী ছিল। তা দেখে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, একে মুক্ত করে দাও। কেননা, সে ইসমাঈলের বংশধর। (৪৩৬৬) (আধুনিক প্রকাশনীঃ ২৩৫৮, ইসলামিক ফাউন্ডেশনঃ ২৩৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে তিনটি কথা শোনার পর হতে বনী তামীম গোত্রকে আমি ভালবেসে আসছি। আমি তাঁকে বলতে শুনেছি, দাজ্জালের মুকাবিলায় আমার উম্মতের মধ্যে এরাই হবে অধিকতর কঠোর। আবূ হুরাইরাহ্ (রাঃ) বলেন, একবার তাদের পক্ষ হতে সদকার মাল আসল। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, এ যে আমার কাওমের সাদাকা। ‘আয়িশাহ (রাযি.)-এর হাতে তাদের এক বন্দিনী ছিল। তা দেখে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, একে মুক্ত করে দাও। কেননা, সে ইসমাঈলের বংশধর। (৪৩৬৬) (আধুনিক প্রকাশনীঃ ২৩৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2543</td></tr><tr><td>Arabic No</td><td>2543</td></tr><tr><td>Reference</td><td>Book 49 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் யிபனூ தமீம்’ குலத்தார் பற்றிக் கூறிய மூன்று விஷயங்களைக் கேட்டதிலிருந்து நான் அவர்களை எப்போதும் நேசிக்க லானேன். (ஒருமுறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘அவர்கள் (பனூ தமீம் குலத்தார்) என் சமுதாயத்தாரிலேயே அதிகக் கடுமையுடன் (மகா பொய்யன்) தஜ்ஜாலை எதிர்த்துப் போராடுவார்கள்” என்று கூறினார்கள். (ஒருமுறை) பனூ தமீம் குலத்தாரின் தர்மப் பொருள்கள் வந்தபோது அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள், ‘‘இவை எங்கள் இனத்தாரின் தர்மப் பொருள்கள்” என்று கூறினார்கள். (ஒருமுறை) ஆயிஷா (ரலி) அவர்களிடம் பனூதமீம் குலத்தாரின் பெண் போர்க் கைதி ஒருவர் இருந்தார். நபி (ஸல்) அவர்கள் ஆயிஷா (ரலி) அவர்களிடம், ‘‘நீ இந்தப் பெண்ணை விடுதலை செய்துவிடு. ஏனெனில், இவள் இஸ்மாயீல் (அலை) அவர்களின் சந்ததிகளில் ஒருத்தி” என்று கூறினார்கள்.23 இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 49
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் யிபனூ தமீம்’ குலத்தார் பற்றிக் கூறிய மூன்று விஷயங்களைக் கேட்டதிலிருந்து நான் அவர்களை எப்போதும் நேசிக்க லானேன். (ஒருமுறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘அவர்கள் (பனூ தமீம் குலத்தார்) என் சமுதாயத்தாரிலேயே அதிகக் கடுமையுடன் (மகா பொய்யன்) தஜ்ஜாலை எதிர்த்துப் போராடுவார்கள்” என்று கூறினார்கள். (ஒருமுறை) பனூ தமீம் குலத்தாரின் தர்மப் பொருள்கள் வந்தபோது அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள், ‘‘இவை எங்கள் இனத்தாரின் தர்மப் பொருள்கள்” என்று கூறினார்கள். (ஒருமுறை) ஆயிஷா (ரலி) அவர்களிடம் பனூதமீம் குலத்தாரின் பெண் போர்க் கைதி ஒருவர் இருந்தார். நபி (ஸல்) அவர்கள் ஆயிஷா (ரலி) அவர்களிடம், ‘‘நீ இந்தப் பெண்ணை விடுதலை செய்துவிடு. ஏனெனில், இவள் இஸ்மாயீல் (அலை) அவர்களின் சந்ததிகளில் ஒருத்தி” என்று கூறினார்கள்.23 இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2543</td></tr><tr><td>Arabic No</td><td>2543</td></tr><tr><td>Reference</td><td>Book 49 Hadith 26</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem'den şu üç şeyi duydum duyalı Temim-oğullarına karşı ayrı bir sevgim oluştu. Onlar hakkında: "Onlar ümmetim içinde Deccal'e karşı en çok direnecek olanlardır" buyurmuştu. Yine bir gün onların zekatları gelmişti de Nebi Sallallahu Aleyhi ve Sellem "Bunlar kavmimizin zekatlarıdır" buyurdu. Yine onlardan bir kadın esir düşmüş ve Aişe r.anha'nın cariyesi olmuştu da, Nebi Sallallahu Aleyhi ve Sellem "Bunu azad ediver. Çünkü 0, İsmail soyundandır" buyurmuştu. Tekrar: 4366
+Ebu Hureyre'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem'den şu üç şeyi duydum duyalı Temim-oğullarına karşı ayrı bir sevgim oluştu. Onlar hakkında: "Onlar ümmetim içinde Deccal'e karşı en çok direnecek olanlardır" buyurmuştu. Yine bir gün onların zekatları gelmişti de Nebi Sallallahu Aleyhi ve Sellem "Bunlar kavmimizin zekatlarıdır" buyurdu. Yine onlardan bir kadın esir düşmüş ve Aişe r.anha'nın cariyesi olmuştu da, Nebi Sallallahu Aleyhi ve Sellem "Bunu azad ediver. Çünkü 0, İsmail soyundandır" buyurmuştu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2543</td></tr><tr><td>Arabic No</td><td>2543</td></tr><tr><td>Reference</td><td>Book 49 Hadith 26</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯৫৯। আনাস (রাযিঃ) হতে বর্ণিত আছে যে, উমার ইবনুল খাত্তাব (রাযিঃ) বললেন, হে আল্লাহর রাসূল! আমরা যদি মাকামে ইবরাহীমের পেছনে নামায আদায় করতাম (তাহলে ভালো হত)। এ প্রসঙ্গেই অবতীর্ণ হয়ঃ “তোমরা মাকামে ইবরাহীমকে (ইবরাহীমের দাড়াবার স্থানকে) নামাযের জায়গা হিসেবে গ্রহণ কর”— (সূরা আল-বাকারাহ ১২৫)। সহীহঃ বুখারী (৪৪৮৩), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আনাস (রাযিঃ) হতে বর্ণিত আছে যে, উমার ইবনুল খাত্তাব (রাযিঃ) বললেন, হে আল্লাহর রাসূল! আমরা যদি মাকামে ইবরাহীমের পেছনে নামায আদায় করতাম (তাহলে ভালো হত)। এ প্রসঙ্গেই অবতীর্ণ হয়ঃ “তোমরা মাকামে ইবরাহীমকে (ইবরাহীমের দাড়াবার স্থানকে) নামাযের জায়গা হিসেবে গ্রহণ কর”— (সূরা আল-বাকারাহ ১২৫)। সহীহঃ বুখারী (৪৪৮৩), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2959</td></tr><tr><td>Arabic No</td><td>2959</td></tr><tr><td>Reference</td><td>Book 47 Hadith 11</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:that 'Umar bin Al-Khattab said: "O Messenger of Allah (ﷺ)! I wish that we could perform Salat behind the Maqam: So the following was revealed: And take you the Maqam of Ibrahim as a place of Salat. (2:125)
+Narrated Anas:that 'Umar bin Al-Khattab said: "O Messenger of Allah (ﷺ)! I wish that we could perform Salat behind the Maqam: So the following was revealed: And take you the Maqam of Ibrahim as a place of Salat. (2:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2959</td></tr><tr><td>Arabic No</td><td>2959</td></tr><tr><td>Reference</td><td>Book 47 Hadith 11</td></tr></tbody></table></div>
 

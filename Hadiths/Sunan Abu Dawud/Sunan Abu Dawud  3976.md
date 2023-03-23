@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবূ শায়বা (রহঃ) .... আনাস ইবন মালিক (রাঃ) থেকে বর্ণিত, তিনি বলেনঃ রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ আয়াতঃ وَالْعَيْنُ بِالْعَيْنِ পাঠ করতেন।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ আয়াত (এভাবে) পড়তেনঃ وَالْعَيْنُ بِالْعَيْنِ।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3976</td></tr><tr><td>Arabic No</td><td>3976</td></tr><tr><td>Reference</td><td>Book 32 Hadith 8</td></tr></tbody></table></div>
 
@@ -44,7 +44,7 @@ Narrated Anas ibn Malik: The Messenger of Allah (ﷺ) read the verse: "eye for e
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Muhammad bin Al 'Ala] mereka berkata; telah menceritakan kepada kami [Abdullah bin Al Mubarak] telah menceritakan kepada kami [Yunus bin Yazid] dari [Abu Ali bin Yazid] dari [Az Zuhri] dari [Anas bin Malik] ia berkata, "Rasulullah shallallahu 'alaihi wasallam membaca ayat: '(... dan mata dengan mata) ' (Qs. Al Maidah: 45)
+Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Muhammad bin Al 'Ala] mereka berkata; telah menceritakan kepada kami [Abdullah bin Al Mubarak] telah menceritakan kepada kami [Yunus bin Yazid] dari [Abu Ali bin Yazid] dari [Az Zuhri] dari [Anas bin Malik] ia berkata, "Rasulullah shallallahu 'alaihi wasallam membaca ayat: '(... dan mata dengan mata) ' (Qs. Al Maidah:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3976</td></tr><tr><td>Arabic No</td><td>3976</td></tr><tr><td>Reference</td><td>Book 32 Hadith 8</td></tr></tbody></table></div>
 

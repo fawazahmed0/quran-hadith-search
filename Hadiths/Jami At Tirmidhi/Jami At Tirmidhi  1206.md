@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১২০৬। ইবনু মাসউদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -সূদখোর, সূদ দাতা সূদের সাক্ষীদ্বয় ও সূদের (চুক্তি বা হিসাব) লেখককে অভিসম্পাত করেছেন। — সহীহ, ইবনু মা-জাহ (২২৭৭) উমার, আলী, জাবির ও আবু জুহাইফা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবু ঈসা বলেন, আব্দুল্লাহ (রাঃ) হতে বর্ণিত হাদীসটি হাসান সহীহ।
+। ইবনু মাসউদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -সূদখোর, সূদ দাতা সূদের সাক্ষীদ্বয় ও সূদের (চুক্তি বা হিসাব) লেখককে অভিসম্পাত করেছেন। — সহীহ, ইবনু মা-জাহ (২২৭৭) উমার, আলী, জাবির ও আবু জুহাইফা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবু ঈসা বলেন, আব্দুল্লাহ (রাঃ) হতে বর্ণিত হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1206</td></tr><tr><td>Arabic No</td><td>1206</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
 

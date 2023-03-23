@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Hisyam bin Urwah] dari [Bapaknya] b
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Ömer'den: Hazret-i Peygamber bir gazveden, hacdan veya bir umreden dönerken her yüksek yerden geçerken üç defa tekbir getirirdi. Sonra da: «Tek olan Allah'tan başka ilah yoktur. Onun hiç bir şekilde ortağı da yoktur. Mülk onundur, hamd da ona mahsustur. O her şeye kadirdir. Dönenler, tövbe edenler, ibadet ve secde edenler, rabbimize hamdedenler, Allah vaadinde sadıktır. Kuluna yardım eder, Allah düşmanı grupları o tek başına hezimete uğratır,» diye dua ederdi. Buhârî, Umre, 26/12; Müslim, Hacc, 15/428. Ayrıca bkz. Şeybanî, 515
+Abdullah b. Ömer'den: Hazret-i Peygamber bir gazveden, hacdan veya bir umreden dönerken her yüksek yerden geçerken üç defa tekbir getirirdi. Sonra da: «Tek olan Allah'tan başka ilah yoktur. Onun hiç bir şekilde ortağı da yoktur. Mülk onundur, hamd da ona mahsustur. O her şeye kadirdir. Dönenler, tövbe edenler, ibadet ve secde edenler, rabbimize hamdedenler, Allah vaadinde sadıktır. Kuluna yardım eder, Allah düşmanı grupları o tek başına hezimete uğratır,» diye dua ederdi. Buhârî, Umre, 26/12; Müslim, Hacc, 15/428. Ayrıca bkz. Şeybanî
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>508</td></tr><tr><td>Arabic No</td><td>508</td></tr><tr><td>Reference</td><td>Book 15 Hadith 39</td></tr></tbody></table></div>
 

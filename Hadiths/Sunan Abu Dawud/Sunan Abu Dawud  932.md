@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনে কাসীর (রহঃ) .... ওয়াইল ইবনে হুজর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম “ওয়ালাদ্দল্লীন” পাঠ করার পর জোরে “আমীন” বলতেন। (তিরমিযী, ইবনে মাজাহ)।
+। ওয়াইল ইবনু হুজর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, (সালাত আদায়কালে সূরাহ ফাতিহার শেষে) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন ‘‘ওয়ালাদ্দোয়াল্লীন’’ পড়তেন তখন তিনি সশব্দে আমীন বলতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>932</td></tr><tr><td>Arabic No</td><td>932</td></tr><tr><td>Reference</td><td>Book 2 Hadith 543</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Vail b. Hucr'den; Resûlullah (s.a.v.) [ğayril mağdubi aleyhim ve leddaaaalliin] (âyetini) okuduğu zaman, sesini yükseltir ve "âmin" derdi. Diğer tahric: Buhârî, ezan, Tirmizî, mevâkîtü's-salât; Müslim, salât; Muvattâ, nida; Ahmed b. Hanbel, IV, 315, 316, 318
+Vail b. Hucr'den; Resûlullah (s.a.v.) [ğayril mağdubi aleyhim ve leddaaaalliin] (âyetini) okuduğu zaman, sesini yükseltir ve "âmin" derdi. Diğer tahric: Buhârî, ezan, Tirmizî, mevâkîtü's-salât; Müslim, salât; Muvattâ, nida; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>932</td></tr><tr><td>Arabic No</td><td>932</td></tr><tr><td>Reference</td><td>Book 2 Hadith 543</td></tr></tbody></table></div>
 

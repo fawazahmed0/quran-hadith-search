@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫২৯। আহমাদ বিন মানী ... ইয়াযীদ বিন আবু যিয়াদ থেকে অনুরূপ সনদে হাদিস বর্ণনা করেছেন। ইমাম আবু ঈসা (রহঃ) বলেন, বারা'আ এর হাদিসটি হাসান। এবং হুশায়ম এর রেওয়ায়াত ইসমাইল বিন ইবরাহীম আত-তায়মী এর রেওয়ায়াতের চেয়ে উত্তম। ইসমাইল বিন ইবরাহীম আত-তায়মী হাদিস শাস্ত্রে দুর্বল।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>529</td></tr><tr><td>Arabic No</td><td>529</td></tr><tr><td>Reference</td><td>Book 4 Hadith 42</td></tr></tbody></table></div>
 

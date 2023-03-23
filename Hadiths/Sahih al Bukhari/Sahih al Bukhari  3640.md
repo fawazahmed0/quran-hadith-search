@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুগীরাহ ইবনু শু‘বাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আমার উম্মাতের একটি দল সর্বদা বিজয়ী থাকবে। এমনকি যখন ক্বিয়ামাত (কিয়ামত) আসবে তখনও তারা বিজয়ী থাকবে। (৭৩১১, ৭৪৫৯, মুসলিম ৩৩/৫৩, হাঃ ১৯২১ (আধুনিক প্রকাশনীঃ ৩৩৬৯, ইসলামিক ফাউন্ডেশনঃ ৩৩৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুগীরাহ ইবনু শু‘বাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আমার উম্মাতের একটি দল সর্বদা বিজয়ী থাকবে। এমনকি যখন ক্বিয়ামাত (কিয়ামত) আসবে তখনও তারা বিজয়ী থাকবে। (৭৩১১, ৭৪৫৯, মুসলিম ৩৩/৫৩, হাঃ ১৯২১ (আধুনিক প্রকাশনীঃ ৩৩৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3640</td></tr><tr><td>Arabic No</td><td>3640</td></tr><tr><td>Reference</td><td>Book 61 Hadith 144</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abdullah bin Abu Al Aswad] telah bercerita kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: என் சமுதாயத்தாரில் ஒரு குழுவினர் அல்லாஹ்வின் ஆணை (இறுதி நாள்) தம்மிடம் வரும்வரை (சத்தியப் பாதையில் சோதனைகளை) வென்று நிலைத்திருப் பார்கள். (இறுதி நாள் வரும்) அந்த நேரத்திலும் அவர்கள் மேலோங்கியவர் களாகவே இருப்பார்கள். இதை முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 61
+நபி (ஸல்) அவர்கள் கூறினார்கள்: என் சமுதாயத்தாரில் ஒரு குழுவினர் அல்லாஹ்வின் ஆணை (இறுதி நாள்) தம்மிடம் வரும்வரை (சத்தியப் பாதையில் சோதனைகளை) வென்று நிலைத்திருப் பார்கள். (இறுதி நாள் வரும்) அந்த நேரத்திலும் அவர்கள் மேலோங்கியவர் களாகவே இருப்பார்கள். இதை முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3640</td></tr><tr><td>Arabic No</td><td>3640</td></tr><tr><td>Reference</td><td>Book 61 Hadith 144</td></tr></tbody></table></div>
 

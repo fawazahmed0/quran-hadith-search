@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালমান ফারিসী (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি জুমু‘আহর দিন গোসল করে এবং যথাসাধ্য ভালরূপে পবিত্রতা অর্জন করে ও নিজের তেল হতে ব্যবহার করে বা নিজ ঘরের সুগন্ধি ব্যবহার করে, অতঃপর বের হয় এবং দু’ জন লোকের মাঝে ফাঁক না করে, অতঃপর তার নির্ধারিত সালাত আদায় করে এবং ইমামের খুৎবা দেয়ার সময় চুপ থাকে, তা হলে তার সে জুমু‘আহ হতে আরেক জুমু‘আহ পর্যন্ত সময়ের যাবতীয় গুনাহ মাফ করে দেয়া হয়। (৯১০) (আধুনিক প্রকাশনীঃ ৮৩২ ইসলামিক ফাউন্ডেশনঃ ৮৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালমান ফারিসী (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি জুমু‘আহর দিন গোসল করে এবং যথাসাধ্য ভালরূপে পবিত্রতা অর্জন করে ও নিজের তেল হতে ব্যবহার করে বা নিজ ঘরের সুগন্ধি ব্যবহার করে, অতঃপর বের হয় এবং দু’ জন লোকের মাঝে ফাঁক না করে, অতঃপর তার নির্ধারিত সালাত আদায় করে এবং ইমামের খুৎবা দেয়ার সময় চুপ থাকে, তা হলে তার সে জুমু‘আহ হতে আরেক জুমু‘আহ পর্যন্ত সময়ের যাবতীয় গুনাহ মাফ করে দেয়া হয়। (৯১০) (আধুনিক প্রকাশনীঃ ৮৩২ ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>883</td></tr><tr><td>Arabic No</td><td>883</td></tr><tr><td>Reference</td><td>Book 11 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளிக்கிழமை அன்று ஒருவர் குளிக்கிறார்; தம்மால் இயன்றவரை தூய்மைப்படுத்திக்கொள்கிறார்; தம்மிட முள்ள எண்ணெயைத் தேய்த்துக் கொள்கிறார். அல்லது தமது வீட்டிலுள்ள நறுமணத்தைத் தடவிக்கொள்கிறார்; பிறகு (பள்ளிவாசலுக்குப்) புறப்பட்டு வந்து (சேர்ந்து உட்கார்ந்திருக்கும்) இருவரைப் பிரிக்காமல் தமக்கு எழுதப்பட்டுள்ளதைத் தொழுகிறார்; பிறகு இமாம் உரையாற்றத் தொடங்கியதும் அமைதியாக அதைச் செவியுறுகிறார் எனில், அந்த ஜுமுஆவுக்கும் அடுத்த ஜுமுஆவுக்கும் இடையில் ஏற்படும் பாவங்கள் அவருக்கு மன்னிக் கப்படாமல் இருப்பதில்லை. இதை சல்மான் அல்ஃபார்சீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 11
+நபி (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளிக்கிழமை அன்று ஒருவர் குளிக்கிறார்; தம்மால் இயன்றவரை தூய்மைப்படுத்திக்கொள்கிறார்; தம்மிட முள்ள எண்ணெயைத் தேய்த்துக் கொள்கிறார். அல்லது தமது வீட்டிலுள்ள நறுமணத்தைத் தடவிக்கொள்கிறார்; பிறகு (பள்ளிவாசலுக்குப்) புறப்பட்டு வந்து (சேர்ந்து உட்கார்ந்திருக்கும்) இருவரைப் பிரிக்காமல் தமக்கு எழுதப்பட்டுள்ளதைத் தொழுகிறார்; பிறகு இமாம் உரையாற்றத் தொடங்கியதும் அமைதியாக அதைச் செவியுறுகிறார் எனில், அந்த ஜுமுஆவுக்கும் அடுத்த ஜுமுஆவுக்கும் இடையில் ஏற்படும் பாவங்கள் அவருக்கு மன்னிக் கப்படாமல் இருப்பதில்லை. இதை சல்மான் அல்ஃபார்சீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>883</td></tr><tr><td>Arabic No</td><td>883</td></tr><tr><td>Reference</td><td>Book 11 Hadith 8</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Selmân-ı Fârisî (Radiyallahu Anh) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Cum'a günü boy abdesti alıp mümkün olduğu kadar vücudunu iyice temizlemeye çalışan, ardından saçlarını yağlayan veya evinde bulunan güzel kokudan vücuduna süren ve daha sonra evinden çıkıp mescid'e gelerek safları yarmadan kendisine takdir edilen namazı kılan ve imam'ın okuduğu hutbeyi hiç sesini çıkarmadan kimseyle konuşmadan can kulağı ile dinleyen herkesin bu Cum'a ile diğer Cuma arasındaki günahları bağışlanır. Tekrar: 910
+Selmân-ı Fârisî (Radiyallahu Anh) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Cum'a günü boy abdesti alıp mümkün olduğu kadar vücudunu iyice temizlemeye çalışan, ardından saçlarını yağlayan veya evinde bulunan güzel kokudan vücuduna süren ve daha sonra evinden çıkıp mescid'e gelerek safları yarmadan kendisine takdir edilen namazı kılan ve imam'ın okuduğu hutbeyi hiç sesini çıkarmadan kimseyle konuşmadan can kulağı ile dinleyen herkesin bu Cum'a ile diğer Cuma arasındaki günahları bağışlanır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>883</td></tr><tr><td>Arabic No</td><td>883</td></tr><tr><td>Reference</td><td>Book 11 Hadith 8</td></tr></tbody></table></div>
 

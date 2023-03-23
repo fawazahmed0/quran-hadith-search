@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল-হুলাইফার বাত্হা নামক উপত্যকায় উট বসিয়ে সালাত আদায় করেন। (রাবী নাফি‘ বলেন) ইবনু ‘উমার (রাঃ)-ও তাই করতেন। (৪৮৪, মুসলিম ১৫/৩৭, হাঃ ১২৫৭, আহমাদ ৪৮৪৩) (আধুনিক প্রকাশনীঃ ১৪৩২, ইসলামিক ফাউন্ডেশনঃ ১৪৩৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল-হুলাইফার বাত্হা নামক উপত্যকায় উট বসিয়ে সালাত আদায় করেন। (রাবী নাফি‘ বলেন) ইবনু ‘উমার (রাঃ)-ও তাই করতেন। (৪৮৪, মুসলিম ১৫/৩৭, হাঃ ১২৫৭, আহমাদ ৪৮৪৩) (আধুনিক প্রকাশনীঃ ১৪৩২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1532</td></tr><tr><td>Arabic No</td><td>1532</td></tr><tr><td>Reference</td><td>Book 25 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Bab. Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘துல்ஹுலைஃபா’வில் கற்கள் நிறைந்த இடத்தில் (அல்பத்ஹா) தமது ஒட்டகத்தை அமர வைத்து, அங்கேயே (இரண்டு ரக்அத்கள்) தொழுதார்கள். இப்னு உமர் (ரலி), இவ்வாறே செய் வார்கள் என நாஃபிஉ (ரஹ்) அவர்கள் கூறினார்கள். அத்தியாயம் : 25
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘துல்ஹுலைஃபா’வில் கற்கள் நிறைந்த இடத்தில் (அல்பத்ஹா) தமது ஒட்டகத்தை அமர வைத்து, அங்கேயே (இரண்டு ரக்அத்கள்) தொழுதார்கள். இப்னு உமர் (ரலி), இவ்வாறே செய் வார்கள் என நாஃபிஉ (ரஹ்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1532</td></tr><tr><td>Arabic No</td><td>1532</td></tr><tr><td>Reference</td><td>Book 25 Hadith 20</td></tr></tbody></table></div>
 

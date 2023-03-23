@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত।তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অশালীন, লা‘নতকারী ও গালিদাতা ছিলেন না। তিনি কাউকে তিরস্কার করার সময় শুধু এটুকু বলতেনঃ তার কী হলো? তার কপাল ধূলিমলিন হোক। [৬০৩১] (আধুনিক প্রকাশনী- ৫৬১১, ইসলামিক ফাউন্ডেশন- ৫৫০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত।তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অশালীন, লা‘নতকারী ও গালিদাতা ছিলেন না। তিনি কাউকে তিরস্কার করার সময় শুধু এটুকু বলতেনঃ তার কী হলো? তার কপাল ধূলিমলিন হোক। [৬০৩১] (আধুনিক প্রকাশনী- ৫৬১১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6046</td></tr><tr><td>Arabic No</td><td>6046</td></tr><tr><td>Reference</td><td>Book 78 Hadith 76</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Sinan] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: கெட்ட வார்த்தைகள் பேசுபவராகவோ சாபமிடுபவராகவோ ஏசுபவராகவோ அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இருக்கவில்லை. (ஒருவரைக்) கண்டிக்கும் போதுகூட “அவருக்கென்ன நேர்ந்தது? அவருடைய நெற்றி மண்ணில் படட்டும்” என்றே கூறுவார்கள்.59 அத்தியாயம் : 78
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: கெட்ட வார்த்தைகள் பேசுபவராகவோ சாபமிடுபவராகவோ ஏசுபவராகவோ அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இருக்கவில்லை. (ஒருவரைக்) கண்டிக்கும் போதுகூட “அவருக்கென்ன நேர்ந்தது? அவருடைய நெற்றி மண்ணில் படட்டும்” என்றே கூறுவார்கள்.59 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6046</td></tr><tr><td>Arabic No</td><td>6046</td></tr><tr><td>Reference</td><td>Book 78 Hadith 76</td></tr></tbody></table></div>
 

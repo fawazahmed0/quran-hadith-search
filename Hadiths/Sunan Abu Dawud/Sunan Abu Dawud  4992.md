@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফস ইবন উমার (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষের গুনাহের জন্য এটাই যথেষ্ট যে, সে যা শোনে, তা-ই অন্যের কাছে বলে বেড়ায়। ইমাম আবূ দাউদ (রহঃ) বলেনঃ হাফস ইবন উমার (রহঃ) আবূ হুরায়রা (রহঃ)-এর নাম উল্লেখ করেননি।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তির মিথ্যাবাদী সাব্যস্ত হওয়ার জন্য এতটুকুই যথেষ্ট যে, সে কোনো কথা শোনামাত্রই (যাচাই না করে) বলে বেড়ায়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4992</td></tr><tr><td>Arabic No</td><td>4992</td></tr><tr><td>Reference</td><td>Book 43 Hadith 220</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৩, আন্তর্জাতিক নাম্বারঃ ২১ ৩৩-(৩৩/২১) আবূ তাহির ও হারমালাহ ইবনু ইয়াহইয়া ও আহমাদ ইবনু ঈসা (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, "আল্লাহ ছাড়া প্রকৃত কোন ইলাহ নেই- এ কথার স্বীকৃতি না দেয়া পর্যন্ত লোকদের বিরুদ্ধে যুদ্ধ করতে আমি আদিষ্ট হয়েছি। সুতরাং যে কেউ "আল্লাহ ছাড়া প্রকৃত কোন ইলাহ নেই স্বীকার করবে সে আমা হতে তার জান মালের নিরাপত্তা লাভ করবে; তবে শারীআত সম্মত কারণ ব্যতীত। আর তার হিসাব-নিকাশ আল্লাহর কাছে। (ইসলামিক ফাউন্ডেশনঃ ৩৩, ইসলামিক সেন্টারঃ ৩৩)
+আবূ তাহির ও হারমালাহ ইবনু ইয়াহইয়া ও আহমাদ ইবনু ঈসা (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, "আল্লাহ ছাড়া প্রকৃত কোন ইলাহ নেই- এ কথার স্বীকৃতি না দেয়া পর্যন্ত লোকদের বিরুদ্ধে যুদ্ধ করতে আমি আদিষ্ট হয়েছি। সুতরাং যে কেউ "আল্লাহ ছাড়া প্রকৃত কোন ইলাহ নেই স্বীকার করবে সে আমা হতে তার জান মালের নিরাপত্তা লাভ করবে; তবে শারীআত সম্মত কারণ ব্যতীত। আর তার হিসাব-নিকাশ আল্লাহর কাছে। (ইসলামিক ফাউন্ডেশনঃ ৩৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>125</td></tr><tr><td>Arabic No</td><td>21.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 33</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepadaku [Abu ath-Thahir] dan [Harmalah bin Yahya] serta 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu't-Tahir, Harmele b. Yahya ve Ahmed b. İsa tahdis edip, Ahmed haddesena derken, diğer ikisi ahberena diyerek İbn Vehb'den şöyle dediğini nakletti: Bana Yunus, İbn Şihab'dan şöyle dediğini haber verdi: Bana Said b. Müseyyeb'in tahdis ettiğine göre Ebu Hureyre kendisine RasuluIlah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: "Ben insanlarla Ia ilahe illallah deyinceye kadar savaşmakla emrolundum. La ilahe illallah diyen bana karşı malını ve canını -onun hakkı ile olması müstesna- korumuş olur, hesabını görmek de Allah'a aittir. " Diğer tahric: Nesai, 3090; Tuhfetu'l-Eşraf, 13344
+Bize Ebu't-Tahir, Harmele b. Yahya ve Ahmed b. İsa tahdis edip, Ahmed haddesena derken, diğer ikisi ahberena diyerek İbn Vehb'den şöyle dediğini nakletti: Bana Yunus, İbn Şihab'dan şöyle dediğini haber verdi: Bana Said b. Müseyyeb'in tahdis ettiğine göre Ebu Hureyre kendisine RasuluIlah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: "Ben insanlarla Ia ilahe illallah deyinceye kadar savaşmakla emrolundum. La ilahe illallah diyen bana karşı malını ve canını -onun hakkı ile olması müstesna- korumuş olur, hesabını görmek de Allah'a aittir. " Diğer tahric: Nesai, 3090; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>125</td></tr><tr><td>Arabic No</td><td>21.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 33</td></tr></tbody></table></div>
 

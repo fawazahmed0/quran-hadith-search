@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুর রহমান ইবন মুরাবক ‘আয়শী (রহঃ) ..... ইবন ‘আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জাহিলী যুগের লোকদের জন্য (মক্কার কাফির), যা বদরের যুদ্ধের দিন বন্দী হয়েছিল, তাদের প্রত্যেকের জন্য চারশত দিরহাম মুক্তিপণ নির্ধারণ করেন।
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বদরের মুশরিক যুদ্ধবন্দীদের জন্য মুক্তিপণ নির্ধারণ করেন চারশো (দিরহাম)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2691</td></tr><tr><td>Arabic No</td><td>2691</td></tr><tr><td>Reference</td><td>Book 15 Hadith 215</td></tr></tbody></table></div>
 

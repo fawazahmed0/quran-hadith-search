@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ)-এর আযাদকৃত গোলাম নাফি‘ (রহ.) হতে বর্ণিত যে, তাবীরকৃত খেজুর গাছ ফলের উল্লেখ ব্যতীত বিক্রি করলে যে তাবীর[1] করেছে সে ফলের মালিক হবে। তেমনি গোলাম ও জমির ফসলও মালিকেরই থাকবে। রাবী নাফি‘ (রহ.) এই তিনটিরই উল্লেখ করেছেন। (২২০৪, ২২০৬, ২৩৭৯, ২৭১৬) (আধুনিক প্রকাশনীঃ কিতাবুল বুয়ু‘ অনুচ্ছেদ ৯০, ইসলামিক ফাউন্ডেশনঃ অনুচ্ছেদ ১৩৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ)-এর আযাদকৃত গোলাম নাফি‘ (রহ.) হতে বর্ণিত যে, তাবীরকৃত খেজুর গাছ ফলের উল্লেখ ব্যতীত বিক্রি করলে যে তাবীর[1] করেছে সে ফলের মালিক হবে। তেমনি গোলাম ও জমির ফসলও মালিকেরই থাকবে। রাবী নাফি‘ (রহ.) এই তিনটিরই উল্লেখ করেছেন। (২২০৪, ২২০৬, ২৩৭৯, ২৭১৬) (আধুনিক প্রকাশনীঃ কিতাবুল বুয়ু‘ অনুচ্ছেদ ৯০, ইসলামিক ফাউন্ডেশনঃ অনুচ্ছেদ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2203</td></tr><tr><td>Arabic No</td><td>2203</td></tr><tr><td>Reference</td><td>Book 34 Hadith 149</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah berkata, Abu 'Abdullah; Dan berkata, kepadaku [Ibrahim] telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்களின் முன்னாள் அடிமையான நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: மரகந்தச் சேர்க்கை செய்யப்பட்ட எந்த பேரீச்ச மரமாவது அதன் கனிகள் (யாருக்குச் சேரும் என்பது) பற்றிப் பேசப் படாமல் விற்கப்படுமானால், அவை மகரந்தச் சேர்க்கை (செய்து விற்பனை) செய்தவருக்கே உரியவையாகும். (செல்வம் வைத்துள்ள) அடிமையும் பயிர் செய்யப் பட்ட நிலமும் அவ்வாறுதான். இந்த மூன்றையும் நாஃபிஉ (ரஹ்) அவர்கள் தம்மிடம் குறிப்பிட்டுச் சொன்ன தாக இப்னு ஜுரைஜ் (ரஹ்) அவர்கள் கூறுகிறார்கள். அத்தியாயம் : 34
+இப்னு உமர் (ரலி) அவர்களின் முன்னாள் அடிமையான நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: மரகந்தச் சேர்க்கை செய்யப்பட்ட எந்த பேரீச்ச மரமாவது அதன் கனிகள் (யாருக்குச் சேரும் என்பது) பற்றிப் பேசப் படாமல் விற்கப்படுமானால், அவை மகரந்தச் சேர்க்கை (செய்து விற்பனை) செய்தவருக்கே உரியவையாகும். (செல்வம் வைத்துள்ள) அடிமையும் பயிர் செய்யப் பட்ட நிலமும் அவ்வாறுதான். இந்த மூன்றையும் நாஃபிஉ (ரஹ்) அவர்கள் தம்மிடம் குறிப்பிட்டுச் சொன்ன தாக இப்னு ஜுரைஜ் (ரஹ்) அவர்கள் கூறுகிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2203</td></tr><tr><td>Arabic No</td><td>2203</td></tr><tr><td>Reference</td><td>Book 34 Hadith 149</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah berkata, Abu 'Abdullah; Dan berkata, kepadaku [Ibrahim] telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer'in r.a. azatlı kölesi Nafi' şöyle demiştir: "Döllenmiş olan hurma ağacı satıldığı zaman, meyvenin de satıma dahil olduğu söylenmemiş ise meyveler, ağacın döllenmesini sağlayan kimseye ait olur. Malı bulunan kölenin ve ekini bulunan tarlanın satılması da böyledir." Nafi' İbn Cüreyc'e bu üç hususu belirtmiştir. Tekrar: 2204, 2206, 2379, 2716
+İbn Ömer'in r.a. azatlı kölesi Nafi' şöyle demiştir: "Döllenmiş olan hurma ağacı satıldığı zaman, meyvenin de satıma dahil olduğu söylenmemiş ise meyveler, ağacın döllenmesini sağlayan kimseye ait olur. Malı bulunan kölenin ve ekini bulunan tarlanın satılması da böyledir." Nafi' İbn Cüreyc'e bu üç hususu belirtmiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2203</td></tr><tr><td>Arabic No</td><td>2203</td></tr><tr><td>Reference</td><td>Book 34 Hadith 149</td></tr></tbody></table></div>
 

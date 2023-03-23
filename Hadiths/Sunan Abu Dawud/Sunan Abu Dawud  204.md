@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ ..... শাকীক থেকে বর্ণিত। আবদুল্লাহ্ (রাঃ) বলেছেনঃ খালি পায়ে রাস্তা পদদলিত করা সত্বেও আমরা উযূ (ওজু/অজু/অযু) করতাম না এবং আমাদের চুল ও কাপড় নামাযের মধ্যে গুটিয়ে রাখতাম না।
+। শাকীক সূত্রে বর্ণিত। তিনি বলেন, ‘আব্দুল্লাহ (রাঃ) বলেছেনঃ রাস্তার ধুলা-ময়লার উপর দিয়ে অতিক্রম করা সত্তেও আমরা অযু করতাম না এবং আমরা (সালাতের মধ্যে নিজেদের) চুল ও কাপড়-চোপড়ও সামলাতাম না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>204</td></tr><tr><td>Arabic No</td><td>204</td></tr><tr><td>Reference</td><td>Book 1 Hadith 204</td></tr></tbody></table></div>
 

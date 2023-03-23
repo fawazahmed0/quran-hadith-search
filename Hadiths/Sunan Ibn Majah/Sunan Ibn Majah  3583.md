@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৩৫৮৩। আয়েশা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নারীদের পরিধেয় বস্ত্রের আঁচল সম্পর্কে বলেনঃ তা এক বিঘত পরিমাণ (গোড়ালির উপরে থাকবে)। আয়েশা (রাঃ) বললেন, তাহলে তো তাদের পায়ের জঙঘা অনাবৃত হয়ে যাবে। তিনি বলেনঃ তবে এক হাত পরিমাণ (নিচের দিকে) লম্বা হবে।
+। আয়েশা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নারীদের পরিধেয় বস্ত্রের আঁচল সম্পর্কে বলেনঃ তা এক বিঘত পরিমাণ (গোড়ালির উপরে থাকবে)। আয়েশা (রাঃ) বললেন, তাহলে তো তাদের পায়ের জঙঘা অনাবৃত হয়ে যাবে। তিনি বলেনঃ তবে এক হাত পরিমাণ (নিচের দিকে) লম্বা হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3583</td></tr><tr><td>Arabic No</td><td>3583</td></tr><tr><td>Reference</td><td>Book 32 Hadith 34</td></tr></tbody></table></div>
 

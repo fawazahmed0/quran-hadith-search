@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮১৮। ইবনু উমর (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সাত পাকস্থলী ভর্তি করে কাফির খাদ্যদ্রব্য গ্রহণ করে, আর একটিমাত্র পাকস্থলী ভর্তি করে মুমিন খাদ্যদ্রব্য গ্রহণ করে। সহীহ, ইবনু মা-জাহ (৩২৫৭), নাসা-ঈ এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। আবূ হুরাইরা, আবূ সাঈদ, আবূ বাসরাহ আল-গিফারী, আবূ মূসা, জাহজাহ আল-গিফারী, মাইমূনা ও আবদুল্লাহ ইবনু আমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীসটি বর্ণিত আছে।
+। ইবনু উমর (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সাত পাকস্থলী ভর্তি করে কাফির খাদ্যদ্রব্য গ্রহণ করে, আর একটিমাত্র পাকস্থলী ভর্তি করে মুমিন খাদ্যদ্রব্য গ্রহণ করে। সহীহ, ইবনু মা-জাহ (৩২৫৭), নাসা-ঈ এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। আবূ হুরাইরা, আবূ সাঈদ, আবূ বাসরাহ আল-গিফারী, আবূ মূসা, জাহজাহ আল-গিফারী, মাইমূনা ও আবদুল্লাহ ইবনু আমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীসটি বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1818</td></tr><tr><td>Arabic No</td><td>1818</td></tr><tr><td>Reference</td><td>Book 25 Hadith 32</td></tr></tbody></table></div>
 

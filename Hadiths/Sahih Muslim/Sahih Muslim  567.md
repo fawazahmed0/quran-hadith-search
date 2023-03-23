@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৫৫, আন্তর্জাতিক নাম্বারঃ ২৪০ ৪৫৫-(.../...) হারমালাহ ইবনু ইয়াহইয়া, ইবনু ওয়াহব, হাইওয়াহ মুহাম্মাদ ইবনু আবদুর রহমান এর মাধ্যমে শাদ্দাদ ইবনুল হাদ এর আযাদকৃত গোলাম আবূ আবদুল্লাহ থেকে বর্ণনা করেছেন যে, একদিন তিনি আয়িশাহ (রাযিঃ) এর নিকট গেলেন। এতটুকু বর্ণনা করার পর তিনি আয়িশাহ (রাযিঃ) এর উদ্ধৃতি দিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে পূর্ব বর্ণিত হাদীসের অনুরূপ হাদীস বর্ণনা করলেন। (ইসলামিক ফাউন্ডেশনঃ ৪৫৮, ইসলামিক সেন্টারঃ ৪৭৪)
+হারমালাহ ইবনু ইয়াহইয়া, ইবনু ওয়াহব, হাইওয়াহ মুহাম্মাদ ইবনু আবদুর রহমান এর মাধ্যমে শাদ্দাদ ইবনুল হাদ এর আযাদকৃত গোলাম আবূ আবদুল্লাহ থেকে বর্ণনা করেছেন যে, একদিন তিনি আয়িশাহ (রাযিঃ) এর নিকট গেলেন। এতটুকু বর্ণনা করার পর তিনি আয়িশাহ (রাযিঃ) এর উদ্ধৃতি দিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে পূর্ব বর্ণিত হাদীসের অনুরূপ হাদীস বর্ণনা করলেন। (ইসলামিক ফাউন্ডেশনঃ ৪৫৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>240.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 34</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Harun bin Sa'id al-Aili] dan [Abu ath-Thahir] se
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Harmeletü'bnü Yahya da rivayet etti (Dediki): Bize İbni Vehb rivayet etti: (Dediki): Bana Hayve haber verdi (Dediki): Bana Muhammed b.Abdurrahman haber verdi, ona da Şeddad b. Had'ın azadlısı Ebu AbdiIIah rivayet etmişki; kendisi Aişe'nin yanına girmiş ve ondan naklen Nebi (Sallallahu Aleyhi ve Sellem)'in; yukarıdaki gibi bir hadis söylediğini rivayet etmiş. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 16092
+Bana Harmeletü'bnü Yahya da rivayet etti (Dediki): Bize İbni Vehb rivayet etti: (Dediki): Bana Hayve haber verdi (Dediki): Bana Muhammed b.Abdurrahman haber verdi, ona da Şeddad b. Had'ın azadlısı Ebu AbdiIIah rivayet etmişki; kendisi Aişe'nin yanına girmiş ve ondan naklen Nebi (Sallallahu Aleyhi ve Sellem)'in; yukarıdaki gibi bir hadis söylediğini rivayet etmiş. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>240.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 34</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ সায়াদী (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাছে কিছু পানীয় দ্রব্য আনা হল। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা হতে কিছুটা পান করলেন। তাঁর সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ডান দিকে বসা ছিল একটি বালক, আর বাম দিকে ছিলেন বয়োজ্যেষ্ঠরা। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বালকটিকে বললেন, এ বয়োজ্যেষ্ঠদেরকে দেয়ার জন্য তুমি আমাকে অনুমতি দিবে কি? তখন বালকটি বলল, না, হে আল্লাহর রাসূল! আল্লাহর কসম! আমি আপনার কাছ হতে প্রাপ্য আমার অংশে কাউকে অগ্রাধিকার দিব না। রাবী বলেন, তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পানির পেয়ালাটা তার হাতে ঠেলে দিলেন। (২৩৫১) (আধুনিক প্রকাশনীঃ ২২৭২, ইসলামিক ফাউন্ডেশনঃ ২২৮৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ সায়াদী (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাছে কিছু পানীয় দ্রব্য আনা হল। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা হতে কিছুটা পান করলেন। তাঁর সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ডান দিকে বসা ছিল একটি বালক, আর বাম দিকে ছিলেন বয়োজ্যেষ্ঠরা। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বালকটিকে বললেন, এ বয়োজ্যেষ্ঠদেরকে দেয়ার জন্য তুমি আমাকে অনুমতি দিবে কি? তখন বালকটি বলল, না, হে আল্লাহর রাসূল! আল্লাহর কসম! আমি আপনার কাছ হতে প্রাপ্য আমার অংশে কাউকে অগ্রাধিকার দিব না। রাবী বলেন, তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পানির পেয়ালাটা তার হাতে ঠেলে দিলেন। (২৩৫১) (আধুনিক প্রকাশনীঃ ২২৭২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>2451</td></tr><tr><td>Reference</td><td>Book 46 Hadith 12</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Sahl bin Sa'd As-Sa'idi:A drink (milk mixed with water) was brought to Allah's Messenger (ﷺ) who drank some of it. A boy was sitting to his right, and some old men to his left. Allah's Messenger (ﷺ) said to the boy, "Do you allow me to give the rest of the drink to these people?" The boy said, "O Allah's Messenger (ﷺ)! I will not give preference to anyone over me to drink the rest of it from which you have drunk." Allah's Messenger (ﷺ) then handed the bowl (of drink) to the boy. (See Hadith No. 541)
+Narrated Sahl bin Sa'd As-Sa'idi:A drink (milk mixed with water) was brought to Allah's Messenger (ﷺ) who drank some of it. A boy was sitting to his right, and some old men to his left. Allah's Messenger (ﷺ) said to the boy, "Do you allow me to give the rest of the drink to these people?" The boy said, "O Allah's Messenger (ﷺ)! I will not give preference to anyone over me to drink the rest of it from which you have drunk." Allah's Messenger (ﷺ) then handed the bowl (of drink) to the boy. (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>2451</td></tr><tr><td>Reference</td><td>Book 46 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ஒரு பானம் கொண்டு வரப்பட்டது. அதிலிருந்து அவர்கள் அருந்தினார்கள். அப்போது அவர்களின் வலப் பக்கம் ஒரு சிறுவரும் இடப் பக்கம் வயது முதிர்ந்தவர்களும் இருந்தனர். நபி (ஸல்) அவர்கள் அந்தச் சிறுவரிடம், ‘‘(இந்தப் பானத்தை) இவர்களிடம் (வயது முதிர்ந்த வர்களிடம்) கொடுக்க நீ எனக்கு அனுமதி தருவாயா?” என்று கேட்டார்கள். அந்தச் சிறுவர், ‘‘மாட்டேன், இறைவன் மீதாணையாக! அல்லாஹ்வின் தூதரே! தங்களிடமிருந்து (எனக்குக் கிடைக்கக் கூடிய) என் பங்கை எவருக்கும் நான் விட்டுக்கொடுக்கமாட்டேன்” என்று கூறினார். எனவே, அல்லாஹ்வின் தூதர் அச்சிறுவரின் கரத்தில் அந்தப் பானத்தை வைத்தார்கள்.5 அத்தியாயம் : 46
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ஒரு பானம் கொண்டு வரப்பட்டது. அதிலிருந்து அவர்கள் அருந்தினார்கள். அப்போது அவர்களின் வலப் பக்கம் ஒரு சிறுவரும் இடப் பக்கம் வயது முதிர்ந்தவர்களும் இருந்தனர். நபி (ஸல்) அவர்கள் அந்தச் சிறுவரிடம், ‘‘(இந்தப் பானத்தை) இவர்களிடம் (வயது முதிர்ந்த வர்களிடம்) கொடுக்க நீ எனக்கு அனுமதி தருவாயா?” என்று கேட்டார்கள். அந்தச் சிறுவர், ‘‘மாட்டேன், இறைவன் மீதாணையாக! அல்லாஹ்வின் தூதரே! தங்களிடமிருந்து (எனக்குக் கிடைக்கக் கூடிய) என் பங்கை எவருக்கும் நான் விட்டுக்கொடுக்கமாட்டேன்” என்று கூறினார். எனவே, அல்லாஹ்வின் தூதர் அச்சிறுவரின் கரத்தில் அந்தப் பானத்தை வைத்தார்கள்.5 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>2451</td></tr><tr><td>Reference</td><td>Book 46 Hadith 12</td></tr></tbody></table></div>
 

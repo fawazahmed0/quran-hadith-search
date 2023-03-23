@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ .... ইয়াস ইবন সালামা তাঁর পিতা সালামা ইবনুল আকওয়া (রাঃ) হতে বর্ণনা করেন। তিনি বলেন, আমরা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যামানায় আবূ বাকরের নেতৃত্বে যুদ্ধ করেছি। তখন আমাদের যুদ্ধ-সংকেত ছিল (রাতের অন্ধকারে) ‘‘আমিত আমিত’’ শব্দ (অর্থাৎ হে সাহায্যদাতা, শত্রুর মৃত্যু ঘটাও)।
+। ইয়্যাস ইবনু সালামাহ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি (সালামাহ) বলেন, ‘আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে আবূ বাকর (রাঃ)-এর সেনাপতিত্বে যুদ্ধ করেছিলাম। সে সময় আমাদের সাংকেতিক ডাক ছিলো ‘আমিত, আমিত।’
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 15 Hadith 120</td></tr></tbody></table></div>
 

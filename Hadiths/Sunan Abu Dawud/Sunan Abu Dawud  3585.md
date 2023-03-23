@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম ইবন মূসা (রহঃ) ...... আবদুল্লাহ্‌ ইবন রাফি (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি উম্মু সালামা (রাঃ)-এর নিকট হতে শ্রবণ করেছি, যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন যে, দু'ব্যক্তি মীরাছ এবং পুরাতন জিনিসের ব্যাপারে মামলা নিয়ে হাযির হয়। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমি তোমাদের এ মোকদ্দমায় আমার ইচ্ছানুযায়ী ফয়সালা দেব, যার সম্পর্কে আমার উপর কোন হুকুম নাযিল হয়নি।
+। ‘আব্দুল্লাহ ইবনু রাফি‘ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি উম্মু সালামাহ (রাঃ)-কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে এ হাদীস বর্ণনা করতে শুনেছি। তিনি (আব্দুল্লাহ) বলেন, দু’ জন লোক তাদের মীরাস ও কিছু পুরানো আসবাব নিয়ে ঝগড়ায় লিপ্ত হয়। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেনঃ আমি তোমাদের বিবাদের মীমাংসা করবো আমার নিজের সিদ্ধান্ত মোতাবেক, যে বিষয়ে আমার উপর কিছু অবতীর্ণ হয়নি।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3585</td></tr><tr><td>Arabic No</td><td>3585</td></tr><tr><td>Reference</td><td>Book 25 Hadith 15</td></tr></tbody></table></div>
 

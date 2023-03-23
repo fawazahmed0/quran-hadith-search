@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মুছান্না (রহঃ) .... আবূ কাতাদা (রাঃ) উপরোক্ত হাদীছের সনদে, অনুরূপ হাদীছ বর্ণনা প্রসঙ্গে বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তার গোলামকে খাসী করবে, আমরাও তাকে খাসী করে ছাড়বো। এরপর রাবী শো'বা ও হাম্মাদের হাদীসের অনুরূপ বর্ণিত হয়েছে। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ আবূ দাঊদ তায়ালিসী (রহঃ) এ হাদীছ হিশাম থেকে, মা'আযের হাদীছের অনুরূপ বর্ণনা করেছেন।
+। কাতাদাহ (রহঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তার গোলামকে নিবীর্য করবে (অন্ডকোষ কাটবে) আমরাও তাকে নিবীর্য করবো। অতঃপর হাদীসের বাকি অংশ শু‘বাহ ও হাম্মাদের হাদীসের মতই।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4516</td></tr><tr><td>Arabic No</td><td>4516</td></tr><tr><td>Reference</td><td>Book 41 Hadith 23</td></tr></tbody></table></div>
 

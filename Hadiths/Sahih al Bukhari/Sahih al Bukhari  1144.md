@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্‌ ইব্‌নু মাস‘ঊদ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে এক ব্যক্তির ব্যাপারে আলোচনা করা হল- সকাল বেলা পর্যন্ত সে ঘুমিয়েই কাটিয়েছে, সালাতের জন্য জাগ্রত হয়নি, তখন তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ) ইরশাদ করলেনঃ শয়তান তার কানে পেশাব করে দিয়েছে। (৩২৭০; মুসলিম ৬/২৮, হাঃ ৭৭৪) (আধুনিক প্রকাশনীঃ ১০৭৩, ইসলামিক ফাউন্ডেশনঃ ১০৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্‌ ইব্‌নু মাস‘ঊদ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে এক ব্যক্তির ব্যাপারে আলোচনা করা হল- সকাল বেলা পর্যন্ত সে ঘুমিয়েই কাটিয়েছে, সালাতের জন্য জাগ্রত হয়নি, তখন তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ) ইরশাদ করলেনঃ শয়তান তার কানে পেশাব করে দিয়েছে। (৩২৭০; মুসলিম ৬/২৮, হাঃ ৭৭৪) (আধুনিক প্রকাশনীঃ ১০৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1144</td></tr><tr><td>Arabic No</td><td>1144</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம். ஒரு மனிதர் பொழுது விடியும்வரை தொழுகைக்கு எழாமல் உறங்கிக்கொண்டேயிருப்பது பற்றிக் கூறப்பட்டது. அப்போது நபி (ஸல்) அவர்கள், “அவரது காதில் ஷைத்தான் சிறுநீர் கழித்துவிட்டான்” என்று கூறினார்கள்.14 அத்தியாயம் : 19
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம். ஒரு மனிதர் பொழுது விடியும்வரை தொழுகைக்கு எழாமல் உறங்கிக்கொண்டேயிருப்பது பற்றிக் கூறப்பட்டது. அப்போது நபி (ஸல்) அவர்கள், “அவரது காதில் ஷைத்தான் சிறுநீர் கழித்துவிட்டான்” என்று கூறினார்கள்.14 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1144</td></tr><tr><td>Arabic No</td><td>1144</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah radıyallahu anh şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem'in yanında bir adamdan bahsedildi ve "Sabaha kadar uyudu, namaza kalkmadı" denildi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: "Şeytan onun kulağına işedi" buyurdu. Tekrar: 3270
+Abdullah radıyallahu anh şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem'in yanında bir adamdan bahsedildi ve "Sabaha kadar uyudu, namaza kalkmadı" denildi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: "Şeytan onun kulağına işedi" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1144</td></tr><tr><td>Arabic No</td><td>1144</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
 

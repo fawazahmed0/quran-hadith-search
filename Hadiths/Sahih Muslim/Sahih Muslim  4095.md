@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯৮৭, আন্তর্জাতিক নাম্বারঃ ১৫৯৯ ৩৯৮৭-(.../...) আবূ বকর ইবনু আবূ শাইবাহ ও ইসহাক ইবনু ইব্রাহীম (রহঃ) ...... যাকারীয়্যা (রহঃ) এর সূত্রে উক্ত সানাদে এরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৯৫০, ইসলামিক সেন্টার ৩৯৪৯)
+আবূ বকর ইবনু আবূ শাইবাহ ও ইসহাক ইবনু ইব্রাহীম (রহঃ) ...... যাকারীয়্যা (রহঃ) এর সূত্রে উক্ত সানাদে এরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৯৫০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4095</td></tr><tr><td>Arabic No</td><td>1599.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 134</td></tr></tbody></table></div>
 

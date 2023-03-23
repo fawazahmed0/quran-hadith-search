@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯২৬। কুতাইবা কাযায়া ইবনু সুয়াইদ আল-বাহিলী হতে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ হাদীস বর্ণনা করেছেন। – সহীহ, দেখুন পূর্বের হাদীস আবু ঈসা বলেন, হাদিসটি মুহাম্মাদ ইবনুল মুনকাদিরের বরাতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে মুরসাল রূপেও বর্ণিত আছে। এই বিষয়ে বিশেষজ্ঞ আলিমগণ একমত যে, যদি নাবালেগ শিশু হাজ্জ আদায় করে তাহলে আবার বালেগ হওয়ার পর (হাজ্জ ফরয হলে) তাকে হাজ্জ আদায় করতে হবে। ফরয হাজ্জের জন্য শিশুকালের হাজ্জ যথেষ্ট হবে না। অনুরূপভাবে হাজ্জ করার পর যদি কোন দাস আযাদ হয় তাহলে হাজের সামর্থ্য হলে আবার তাকে হাজ্জ আদায় করতে হবে। তার ফরয হজ্জের জন্য দাস অবস্থার হাজ যথেষ্ট হবে না। এই মত সুফিয়ান সাওরী, শাফিঈ, আহমাদ ও ইসহাকের।
+। কুতাইবা কাযায়া ইবনু সুয়াইদ আল-বাহিলী হতে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ হাদীস বর্ণনা করেছেন। – সহীহ, দেখুন পূর্বের হাদীস আবু ঈসা বলেন, হাদিসটি মুহাম্মাদ ইবনুল মুনকাদিরের বরাতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে মুরসাল রূপেও বর্ণিত আছে। এই বিষয়ে বিশেষজ্ঞ আলিমগণ একমত যে, যদি নাবালেগ শিশু হাজ্জ আদায় করে তাহলে আবার বালেগ হওয়ার পর (হাজ্জ ফরয হলে) তাকে হাজ্জ আদায় করতে হবে। ফরয হাজ্জের জন্য শিশুকালের হাজ্জ যথেষ্ট হবে না। অনুরূপভাবে হাজ্জ করার পর যদি কোন দাস আযাদ হয় তাহলে হাজের সামর্থ্য হলে আবার তাকে হাজ্জ আদায় করতে হবে। তার ফরয হজ্জের জন্য দাস অবস্থার হাজ যথেষ্ট হবে না। এই মত সুফিয়ান সাওরী, শাফিঈ, আহমাদ ও ইসহাকের।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>926</td></tr><tr><td>Arabic No</td><td>926</td></tr><tr><td>Reference</td><td>Book 9 Hadith 119</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Another chain) from Jabir bin Abdullah:From the Prophet, with similar (Hadith of Muhammad bin Tarif no. 924)
+(Another chain) from Jabir bin Abdullah:From the Prophet, with similar (Hadith of Muhammad bin Tarif no)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>926</td></tr><tr><td>Arabic No</td><td>926</td></tr><tr><td>Reference</td><td>Book 9 Hadith 119</td></tr></tbody></table></div>
 

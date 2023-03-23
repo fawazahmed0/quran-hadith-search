@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চেয়ে বেশী রোগ যন্ত্রণা ভোগকারী অন্য কাকেও দেখিনি।[1] [মুসলিম ৪৫/১৪, হাঃ ২৫৭০, আহমাদ ২৫৪৫৩] (আধুনিক প্রকাশনী- ৫২৩৪, ইসলামিক ফাউন্ডেশন- ৫১৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চেয়ে বেশী রোগ যন্ত্রণা ভোগকারী অন্য কাকেও দেখিনি।[1] [মুসলিম ৪৫/১৪, হাঃ ২৫৭০, আহমাদ ২৫৪৫৩] (আধুনিক প্রকাশনী- ৫২৩৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5646</td></tr><tr><td>Arabic No</td><td>5646</td></tr><tr><td>Reference</td><td>Book 75 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களைவிடக் கடுமையாக நோய்வாய்ப்பட்ட வேறெவரையும் நான் கண்டதில்லை. இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 75
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களைவிடக் கடுமையாக நோய்வாய்ப்பட்ட வேறெவரையும் நான் கண்டதில்லை. இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5646</td></tr><tr><td>Arabic No</td><td>5646</td></tr><tr><td>Reference</td><td>Book 75 Hadith 6</td></tr></tbody></table></div>
 

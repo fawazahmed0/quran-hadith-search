@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৫১৬, আন্তর্জাতিক নাম্বারঃ ১৪৬০ ৩৫১৬-(.../...) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... 'আবদুর রহমান ইবনু হুমায়দ (রহঃ) সূত্রে এ সানাদে অনুরূপ হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৩৪৮৯, ইসলামীক সেন্টার ৩৪৮৮)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... 'আবদুর রহমান ইবনু হুমায়দ (রহঃ) সূত্রে এ সানাদে অনুরূপ হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৩৪৮৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3624</td></tr><tr><td>Arabic No</td><td>1460.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 57</td></tr></tbody></table></div>
 

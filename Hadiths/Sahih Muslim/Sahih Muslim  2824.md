@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৭১৪, আন্তর্জাতিক নাম্বারঃ ১১৮৯ ২৭১৪-(৩১/১১৮৯) মুহাম্মাদ ইবনু আব্বাস (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ইহরাম বাঁধার সময় এবং (হাজ্জ (হজ্জ/হজ) সমাপনান্তে) ইহরামমুক্ত হবার পর বায়তুল্লাহ ত্বওয়াফের পূর্বেও আমি তাকে সুগন্ধি মেখে দিয়েছি। (ইসলামিক ফাউন্ডেশন ২৬৯১, ইসলামীক সেন্টার ২৬৯০)
+মুহাম্মাদ ইবনু আব্বাস (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ইহরাম বাঁধার সময় এবং (হাজ্জ (হজ্জ/হজ) সমাপনান্তে) ইহরামমুক্ত হবার পর বায়তুল্লাহ ত্বওয়াফের পূর্বেও আমি তাকে সুগন্ধি মেখে দিয়েছি। (ইসলামিক ফাউন্ডেশন ২৬৯১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2824</td></tr><tr><td>Arabic No</td><td>1189.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 34</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin Abbad] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் துல்ஹுலைஃபாவில் தமது வாகன ஒட்டகத்தில் ஏறி அமர்ந்து, அது நிலைக்கு வந்தபோது "தல்பியா" கூறியதை நான் பார்த்தேன். அத்தியாயம் : 15
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் துல்ஹுலைஃபாவில் தமது வாகன ஒட்டகத்தில் ஏறி அமர்ந்து, அது நிலைக்கு வந்தபோது "தல்பியா" கூறியதை நான் பார்த்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2824</td></tr><tr><td>Arabic No</td><td>1189.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 34</td></tr></tbody></table></div>
 

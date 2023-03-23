@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ দাস-দাসীর পরিত্যক্ত সম্পদের মালিক হবে যে তাকে আযাদ করবে। [২১৫৬] (আধুনিক প্রকাশনী- ৬২৮৪, ইসলামিক ফাউন্ডেশন- ৬২৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ দাস-দাসীর পরিত্যক্ত সম্পদের মালিক হবে যে তাকে আযাদ করবে। [২১৫৬] (আধুনিক প্রকাশনী- ৬২৮৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6752</td></tr><tr><td>Arabic No</td><td>6752</td></tr><tr><td>Reference</td><td>Book 85 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il bin Abdullah] mengatakan; telah mencerit
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (அடிமையாயிருந்த ஒருவருக்கு) வாரிசாகும் தகுதி (அவரை) விடுதலை செய்தவருக்கே உண்டு. இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 86
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (அடிமையாயிருந்த ஒருவருக்கு) வாரிசாகும் தகுதி (அவரை) விடுதலை செய்தவருக்கே உண்டு. இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6752</td></tr><tr><td>Arabic No</td><td>6752</td></tr><tr><td>Reference</td><td>Book 85 Hadith 29</td></tr></tbody></table></div>
 

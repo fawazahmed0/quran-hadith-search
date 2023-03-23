@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তিকে ফতোয়া দেয়া হয় ...। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তিকে অজ্ঞতা প্রসূত ফতোয়া দেয়া হয় তার পাপ ফাতাওয়াদানকারীর উপর বর্তাবে। সুলাইমানের বর্ণনায় রয়েছেঃ যে ব্যক্তি তার ভাইকে ক্ষতিকর পরামর্শ দেয়, অথচ সে জানে যে, কল্যাণ তার বিপরীতে রয়েছে তাহলে সে তার ভাইয়ের সাথে বিশ্বাসঘাতকাত করলো।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3657</td></tr><tr><td>Arabic No</td><td>3657</td></tr><tr><td>Reference</td><td>Book 26 Hadith 17</td></tr></tbody></table></div>
 

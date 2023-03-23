@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আবদুল মালিক (রহঃ) ..... বারা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এরূপ বর্ণনা করেছেন। রাবী সুফিয়ান (রহঃ) বলেনঃ দু'জন রাবীর একজন বলেছেনঃ যে 'যখন তুমি পবিত্র অবস্থায় তোমার বিছানায় ঘুমাতে যাবে।' আর অপর রাবী বলেছেনঃ শোবার আগে তুমি সালাত আদায়ের ন্যায় উযূ করবে।
+। আল-বারাআ (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে উপরোক্ত হাদীস বর্ণিত। সুফিয়ান (রহঃ) বলেন, একজন বর্ণনাকারী বলেন, ‘তুমি পবিত্র হয়ে যখন তোমার বিছানায় আসো।’ অপর বর্ণনাকারী বলেন, ‘তুমি তোমার সালাতের উযুর মতো উযু করো।’ এভাবে হাদীসের বাকী বর্ণনা মু‘তামির বর্ণিত হাদীসের অর্থানুরূপ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5048</td></tr><tr><td>Arabic No</td><td>5048</td></tr><tr><td>Reference</td><td>Book 43 Hadith 276</td></tr></tbody></table></div>
 

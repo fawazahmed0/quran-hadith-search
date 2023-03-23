@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬০৩৮, আন্তর্জাতিক নাম্বারঃ ১৫১ ৬০৩৮-(১৫৩/...) যুহায়র ইবনু হারব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ আল্লাহ লুত (আঃ) কে মাফ করে দিন, তিনি শক্ত-কঠিন খুঁটির আশ্রয় প্রার্থনা করেছিলেন। (ইসলামিক ফাউন্ডেশন ৫৯৩১, ইসলামিক সেন্টার ৫৯৬৯)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6144</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

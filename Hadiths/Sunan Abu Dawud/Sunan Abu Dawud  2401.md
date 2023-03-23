@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাসীর ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, যদি কোন ব্যক্তি রামাযান মাসে রোগাক্রান্ত হয় এবং সে ঐ অসুখ হতে সুস্থ না হয়ে মৃত্যুবরণ করে তবে তার পক্ষ হতে (ফিদিয়া প্রদান করত) মিসকীনদের খাওয়াতে হবে তবে তার উপর এর কাযা থাকবে না। আর যদি মৃত ব্যক্তি কোন মানত করে থাকে, তবে তা তার উত্তরাধিকারীগণ তার পক্ষ হতে পূর্ণ করবে।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, যদি কোনো ব্যক্তি রমাযান মাসে অসুস্থ হয়ে রমাযান মাস শেষ হওয়া পর্যন্ত সুস্থ না হয় এবং এ অবস্থায়ই মারা যায় তাহলে তার পক্ষ থেকে মিসকীনকে আহার করাতে হবে। আর তার উপর মানতের সওম থাকলে তার পক্ষ থেকে অভিভাবক তার কাযা আদায় করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2401</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 14 Hadith 89</td></tr></tbody></table></div>
 

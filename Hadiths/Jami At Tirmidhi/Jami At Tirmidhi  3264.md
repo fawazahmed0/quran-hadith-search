@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৬৪। আনাস (রাযিঃ) হতে বর্ণিত আছে, একদা আশিজন কাফির ফজরের সময় তান'ঈম পাহাড় হতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তার সাহাবীগণকে হত্যা করার উদ্দেশে নেমে আসে। তারা সকলেই গ্রেপ্তার হয়। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে ছেড়ে দিলেন। তখন আল্লাহ তা'আলা এ আয়াত অবতীর্ণ করেন (অনুবাদ) “তিনি সেই সত্তা যিনি (মক্কা উপত্যকায় তাদের উপর তোমাদেরকে বিজয়ী করার পর) তাদের হাত তোমাদের হতে এবং তোমাদের হাত তাদের হতে নিবারিত করেছেন। তোমরা যা কিছু কর আল্লাহ তা'আলা তা দেখেন”- (সূরা ফাত্হ ২৪)। সহীহঃ সহীহ আবূ দাউদ (২৪০৮), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আনাস (রাযিঃ) হতে বর্ণিত আছে, একদা আশিজন কাফির ফজরের সময় তান'ঈম পাহাড় হতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তার সাহাবীগণকে হত্যা করার উদ্দেশে নেমে আসে। তারা সকলেই গ্রেপ্তার হয়। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে ছেড়ে দিলেন। তখন আল্লাহ তা'আলা এ আয়াত অবতীর্ণ করেন (অনুবাদ) “তিনি সেই সত্তা যিনি (মক্কা উপত্যকায় তাদের উপর তোমাদেরকে বিজয়ী করার পর) তাদের হাত তোমাদের হতে এবং তোমাদের হাত তাদের হতে নিবারিত করেছেন। তোমরা যা কিছু কর আল্লাহ তা'আলা তা দেখেন”- (সূরা ফাত্হ ২৪)। সহীহঃ সহীহ আবূ দাউদ (২৪০৮), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3264</td></tr><tr><td>Arabic No</td><td>3264</td></tr><tr><td>Reference</td><td>Book 47 Hadith 316</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:that eighty people swooped down from the mountain of At-Tan'im to kill the Messenger of Allah (ﷺ) during Salat As-Subh, but he captured them and (later) let them go. So Allah revealed the Ayah: And it is He Who has withheld their hands from you and your hands from them (48:24)
+Narrated Anas:that eighty people swooped down from the mountain of At-Tan'im to kill the Messenger of Allah (ﷺ) during Salat As-Subh, but he captured them and (later) let them go. So Allah revealed the Ayah: And it is He Who has withheld their hands from you and your hands from them (48:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3264</td></tr><tr><td>Arabic No</td><td>3264</td></tr><tr><td>Reference</td><td>Book 47 Hadith 316</td></tr></tbody></table></div>
 

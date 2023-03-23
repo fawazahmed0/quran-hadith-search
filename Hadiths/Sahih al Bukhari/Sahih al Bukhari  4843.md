@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাবিত ইবনু দাহহাক (রাঃ) হতে বর্ণিত। তিনিও বৃক্ষতলে বায়আতকারী সাহাবীদের অন্তর্ভুক্ত ছিলেন। [১৩৬৩] (আধুনিক প্রকাশনীঃ ৪৪৭৬, ইসলামিক ফাউন্ডেশনঃ ৪৪৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাবিত ইবনু দাহহাক (রাঃ) হতে বর্ণিত। তিনিও বৃক্ষতলে বায়আতকারী সাহাবীদের অন্তর্ভুক্ত ছিলেন। [১৩৬৩] (আধুনিক প্রকাশনীঃ ৪৪৭৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4843</td></tr><tr><td>Arabic No</td><td>4843</td></tr><tr><td>Reference</td><td>Book 65 Hadith 364</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Al Walid] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூகிலாபா அப்துல்லாஹ் பின் ஸைத் (ரஹ்) அவர்கள் கூறியதாவது: அந்த மரத்(தின்கீழ் சத்தியப் பிரமாணம் செய்)தவர்களில் ஒருவரான ஸாபித் பின் அள்ளஹ்ஹாக் (ரலி) அவர்கள் (கூறினார்கள்:)12 அத்தியாயம் : 65
+அபூகிலாபா அப்துல்லாஹ் பின் ஸைத் (ரஹ்) அவர்கள் கூறியதாவது: அந்த மரத்(தின்கீழ் சத்தியப் பிரமாணம் செய்)தவர்களில் ஒருவரான ஸாபித் பின் அள்ளஹ்ஹாக் (ரலி) அவர்கள் (கூறினார்கள்:)12 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4843</td></tr><tr><td>Arabic No</td><td>4843</td></tr><tr><td>Reference</td><td>Book 65 Hadith 364</td></tr></tbody></table></div>
 

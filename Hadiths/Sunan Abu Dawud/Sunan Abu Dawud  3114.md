@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন আলী (রহঃ) ..... আবূ সাঈদ খুদরী (রহঃ) থেকে বর্ণিত। যখন তাঁর মৃত্যুর সময় উপস্থিত হয়, তখন তিনি নতুন বস্ত্র চেয়ে নিয়ে তা পরিধান করেন এবং বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরূপ বলতে শুনেছি যে, মৃত ব্যক্তিকে ঐ কাপড়ে (কবর হতে) উঠানো হবে, যে কাপড়ে সে মারা যায়।
+। আবূ সাঈদ আল-খুদঈ (রাঃ) সূত্রে বর্ণিত। তার মৃত্যুর সময় ঘনিয়ে এলে তিনি নতুন কাপড় নিয়ে ডাকলেন এবং তা পরিধান করে বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ কোনো ব্যক্তি যে কাপড় পরিধান করে মারা যাবে, কিয়ামতের দিন তাকে ঐ কাপড়েই উঠানো হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, বিলাল (রাযি.)-কে আযানের শব্দ দু’ দু’বার এবং قَدْقَامَتِ الصَّلاَةُ ব্যতীত ইক্বামাত(ইকামত/একামত)ের শব্দগুলো বেজোড় করে বলার নির্দেশ দেয়া হয়েছিল। (৬০৩) (আধুনিক প্রকাশনীঃ ৫৭০, ইসলামিক ফাউন্ডেশনঃ ৫৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, বিলাল (রাযি.)-কে আযানের শব্দ দু’ দু’বার এবং قَدْقَامَتِ الصَّلاَةُ ব্যতীত ইক্বামাত(ইকামত/একামত)ের শব্দগুলো বেজোড় করে বলার নির্দেশ দেয়া হয়েছিল। (৬০৩) (আধুনিক প্রকাশনীঃ ৫৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: தொழுகை அறிவிப்பின் வாசகங்களை இரட்டையாகவும் ‘இகாமத்’தின் வாசகங்களை -‘கத் காமத்திஸ் ஸலாத்’ (தொழுகை தொடங்கிவிட்டது) எனும் வாசகத்தைத் தவிர- ஒற்றைப்படையாகவும் கூறும்படி பிலால் (ரலி) அவர்களுக்குக் கட்டளையிடப்பட்டது.3 அத்தியாயம் : 10
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: தொழுகை அறிவிப்பின் வாசகங்களை இரட்டையாகவும் ‘இகாமத்’தின் வாசகங்களை -‘கத் காமத்திஸ் ஸலாத்’ (தொழுகை தொடங்கிவிட்டது) எனும் வாசகத்தைத் தவிர- ஒற்றைப்படையாகவும் கூறும்படி பிலால் (ரலி) அவர்களுக்குக் கட்டளையிடப்பட்டது.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
 

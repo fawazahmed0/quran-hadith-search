@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৫৫৭। উবাই ইবনু ইমারাহ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার বাড়িতে উভয় ক্বিবলা (কিবলা/কেবলা)র দিকে মুখ করে সালাত আদায় করেছেন। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলেন, আমি কি মোজাদ্বয়ের উপর মাসহ(মাসেহ) করব? তিনি বলেনঃ হ্যাঁ। রাবী বলেন, এক দিন? তিনি বলেনঃ দু' দিন। রাবী বলেন, তাহলে তিন দিন? এভাবে তিনি সাত (দিন) পর্যন্ত পৌঁছেন। তিনি তাকে বলেনঃ যত দিন তোমার ইচ্ছা হয়।
+। উবাই ইবনু ইমারাহ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার বাড়িতে উভয় ক্বিবলা (কিবলা/কেবলা)র দিকে মুখ করে সালাত আদায় করেছেন। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলেন, আমি কি মোজাদ্বয়ের উপর মাসহ(মাসেহ) করব? তিনি বলেনঃ হ্যাঁ। রাবী বলেন, এক দিন? তিনি বলেনঃ দু' দিন। রাবী বলেন, তাহলে তিন দিন? এভাবে তিনি সাত (দিন) পর্যন্ত পৌঁছেন। তিনি তাকে বলেনঃ যত দিন তোমার ইচ্ছা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>557</td></tr><tr><td>Arabic No</td><td>557</td></tr><tr><td>Reference</td><td>Book 1 Hadith 291</td></tr></tbody></table></div>
 

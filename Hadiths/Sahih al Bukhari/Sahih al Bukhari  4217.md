@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম খাইবার যুদ্ধের দিন গৃহপালিত গাধার গোশত খেতে নিষেধ করেছেন। [৮৫৩] (আধুনিক প্রকাশনীঃ ৩৮৯৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4217</td></tr><tr><td>Arabic No</td><td>4217</td></tr><tr><td>Reference</td><td>Book 64 Hadith 257</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Umar:On the day of Khaibar, Allah's Messenger (ﷺ) forbade the ea
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கைபர் போரின்போது நாட்டுக் கழுதைகளின் இறைச்சியை (உண்ண வேண்டாமென)த் தடை செய்தார்கள். அத்தியாயம் : 64
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கைபர் போரின்போது நாட்டுக் கழுதைகளின் இறைச்சியை (உண்ண வேண்டாமென)த் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4217</td></tr><tr><td>Arabic No</td><td>4217</td></tr><tr><td>Reference</td><td>Book 64 Hadith 257</td></tr></tbody></table></div>
 

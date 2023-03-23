@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন আবূ শায়রা (রহঃ) .... হাম্মাদ (রহঃ) হতে পূর্বোক্ত হাদীসের অর্থে হাদীস বর্ণিত হয়েছে। উসমান বলেন, ঊভয় নামাযের জন্য তিনি একবার ইকামতের নির্দেশ দেন। আর তিনি প্রথম নামাযের জন্য আযান দেওয়ার নির্দেশ দেননি। আর উক্ত নামাযদ্বয় আদায়ের পর কোন তাসবীহ্ও পাঠ করেননি। রাবী মুহাম্মদ (রহঃ) বলেন, উক্ত নামাযদ্বয় মাগরিব ও এশার জন্য কোন আযান দেয়া হয়নি।
+। আহমাদ ইবনু হাম্বাল (রহ.)-এর সনদ দ্বারা আয যুহরী (রহ.) থেকে হাম্মাদ সূত্রে পূর্বোক্ত হাদীসের সমার্থক হাদীস বর্ণিত। বর্ণনাকারী ‘উসমান ইবনু ‘উমার বলেছেন, প্রত্যেক সালাতের জন্য এক ইকামাত দিয়ে এবং প্রথম সালাতে আযান দেয়া হয়নি। আর এ উভয় সালাতের কোনোটির পরে অন্য কোনো সালাত আদায় করেননি। মাখলাদ (রহ.) বলেন, উভয় সালাতের কোনোটির জন্য আযান দেননি।[1] সহীহঃ তার এ কথাটি বাদেঃ ‘‘আযান দেয়া হয়নি...।’’ এটাই সঠিক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1928</td></tr><tr><td>Arabic No</td><td>1928</td></tr><tr><td>Reference</td><td>Book 11 Hadith 208</td></tr></tbody></table></div>
 

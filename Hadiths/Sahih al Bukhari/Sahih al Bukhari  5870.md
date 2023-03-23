@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, আল্লাহর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আংটি ছিল রৌপ্যের। আর তার নাগিনাটিও ছিল রৌপ্যের। ইয়াহ্ইয়া ইবনু আইউব, হুমায়দ, আনাস (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকেও বর্ণনা করেছেন। [৬৫; মুসলিম ৩৭/১১, হাঃ ২০৯২] (আধুনিক প্রকাশনী- ৫৪৪৩, ইসলামিক ফাউন্ডেশন- ৫৩৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, আল্লাহর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আংটি ছিল রৌপ্যের। আর তার নাগিনাটিও ছিল রৌপ্যের। ইয়াহ্ইয়া ইবনু আইউব, হুমায়দ, আনাস (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকেও বর্ণনা করেছেন। [৬৫; মুসলিম ৩৭/১১, হাঃ ২০৯২] (আধুনিক প্রকাশনী- ৫৪৪৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5870</td></tr><tr><td>Arabic No</td><td>5870</td></tr><tr><td>Reference</td><td>Book 77 Hadith 87</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Mu'tamir] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் மோதிரம் வெள்ளியால் ஆனதாக இருந்தது. அதன் (கல் பதிக்கும்) குமிழும் வெள்ளியில் ஆனதாகவே இருந்தது. இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 77
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் மோதிரம் வெள்ளியால் ஆனதாக இருந்தது. அதன் (கல் பதிக்கும்) குமிழும் வெள்ளியில் ஆனதாகவே இருந்தது. இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5870</td></tr><tr><td>Arabic No</td><td>5870</td></tr><tr><td>Reference</td><td>Book 77 Hadith 87</td></tr></tbody></table></div>
 

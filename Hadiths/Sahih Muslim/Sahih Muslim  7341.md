@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২৩১, আন্তর্জাতিক নাম্বারঃ ২৯২৩ ৭২৩১-(…/...) ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... সিমাক (রহঃ) হতে এ সূত্রে অবিকল বর্ণনা করেছেন। সিমাক (রহঃ) বলেন, আমি আমার ভাইকে বলতে শুনেছি। তিনি বলেন, জাবির (রাযিঃ) বলেছেন, তোমরা তাদের থেকে সতর্ক থাকবে। (ইসলামিক ফাউন্ডেশন ৭০৭৭, ইসলামিক সেন্টার ৭১৩১)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7341</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

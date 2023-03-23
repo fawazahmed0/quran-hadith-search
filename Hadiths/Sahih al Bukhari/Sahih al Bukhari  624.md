@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু মুগাফফাল মুযানী (রাযি.) হতে বর্ণিত। রাসূলুল্লাহ বলেছেনঃ প্রত্যেক আযান ও ইক্বামাত(ইকামত/একামত)ের মধ্যে সালাত রয়েছে। একথা তিনি তিনবার বললেন, (তারপর বলেন) যে চায় তার জন্য। (৬২৭; মুসলিম ৬/৫৬, হাঃ ৮৩৮, আহমাদ ১৬৭৯০) (আধুনিক প্রকাশনীঃ ৫৮৮, ইসলামিক ফাউন্ডেশনঃ ৫৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু মুগাফফাল মুযানী (রাযি.) হতে বর্ণিত। রাসূলুল্লাহ বলেছেনঃ প্রত্যেক আযান ও ইক্বামাত(ইকামত/একামত)ের মধ্যে সালাত রয়েছে। একথা তিনি তিনবার বললেন, (তারপর বলেন) যে চায় তার জন্য। (৬২৭; মুসলিম ৬/৫৬, হাঃ ৮৩৮, আহমাদ ১৬৭৯০) (আধুনিক প্রকাশনীঃ ৫৮৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 10 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq Al Washithi] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் முஃகஃப்பல் அல்முஸனீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “(பாங்கு, இகாமத் ஆகிய) இரு தொழுகை அறிவிப்புகள் ஒவ்வொன்றுக்கும் இடை யில் ஒரு (கூடுதல்) தொழுகை உண்டு” என மூன்று முறை கூறிவிட்டு, “விரும்பிய வருக்கு (அதைத் தொழுதுகொள்ள உரிமை உண்டு)” என்று கூறினார்கள். அத்தியாயம் : 10
+அப்துல்லாஹ் பின் முஃகஃப்பல் அல்முஸனீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “(பாங்கு, இகாமத் ஆகிய) இரு தொழுகை அறிவிப்புகள் ஒவ்வொன்றுக்கும் இடை யில் ஒரு (கூடுதல்) தொழுகை உண்டு” என மூன்று முறை கூறிவிட்டு, “விரும்பிய வருக்கு (அதைத் தொழுதுகொள்ள உரிமை உண்டு)” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 10 Hadith 21</td></tr></tbody></table></div>
 

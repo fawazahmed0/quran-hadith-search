@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর যুগে ঈদের দিন এক সা‘ পরিমাণ খাদ্য সাদাকাতুল ফিতর হিসেবে আদায় করতাম। আবূ সা‘ঈদ (রাঃ) বলেন, আমাদের খাদ্যদ্রব্য ছিল যব, কিসমিস, পনির ও খেজুর। (১৫০৫) (আধুনিক প্রকাশনীঃ ১৪১৩, ইসলামিক ফাউন্ডেশনঃ ১৪১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর যুগে ঈদের দিন এক সা‘ পরিমাণ খাদ্য সাদাকাতুল ফিতর হিসেবে আদায় করতাম। আবূ সা‘ঈদ (রাঃ) বলেন, আমাদের খাদ্যদ্রব্য ছিল যব, কিসমিস, পনির ও খেজুর। (১৫০৫) (আধুনিক প্রকাশনীঃ ১৪১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 24 Hadith 110</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadhalah] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் காலத்தில் பெருநாள் அன்று ஒரு ஸாஉ உணவுப் பொருளை (ஸதக்கத்துல் ஃபித்ர்) தர்மமாகக் கொடுத்துவந்தோம். அக்காலத்தில் தொலி நீக்கப்படாத கோதுமையும் உலர்ந்த திராட்சையும் பாலாடைக் கட்டியும் பேரீச்சம் பழமும்தான் எங்களின் உணவாக இருந்தன. அத்தியாயம் : 24
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் காலத்தில் பெருநாள் அன்று ஒரு ஸாஉ உணவுப் பொருளை (ஸதக்கத்துல் ஃபித்ர்) தர்மமாகக் கொடுத்துவந்தோம். அக்காலத்தில் தொலி நீக்கப்படாத கோதுமையும் உலர்ந்த திராட்சையும் பாலாடைக் கட்டியும் பேரீச்சம் பழமும்தான் எங்களின் உணவாக இருந்தன. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 24 Hadith 110</td></tr></tbody></table></div>
 

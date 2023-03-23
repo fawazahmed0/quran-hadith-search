@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ক্বায়স (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ত্বলহা (রাঃ)-এর হাত অবশ দেখেছি। উহূদের দিন তিনি এ হাত নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর প্রতিরক্ষায় লাগিয়েছিলেন। [৩৭২৪] (আধুনিক প্রকাশনীঃ ৩৭৬০, ইসলামিক ফাউন্ডেশনঃ ৩৭৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ক্বায়স (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ত্বলহা (রাঃ)-এর হাত অবশ দেখেছি। উহূদের দিন তিনি এ হাত নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর প্রতিরক্ষায় লাগিয়েছিলেন। [৩৭২৪] (আধুনিক প্রকাশনীঃ ৩৭৬০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>4063</td></tr><tr><td>Reference</td><td>Book 64 Hadith 108</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Qais:I saw Talha's paralyzed hand with which he had protected the Proph
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கைஸ் பின் அபீஹாஸிம் (ரஹ்) அவர்கள் கூறியதாவது: நான் தல்ஹா பின் உபைதில்லாஹ் (ரலி) அவர்களின் செயலிழந்துபோன கையைப் பார்த்தேன். உஹுத் நாளில் அந்தக் கையால் நபி (ஸல்) அவர்களை அன்னார் காத்த(போது எதிரிகளால் வெட்டப்பட்ட)ôர்கள்.127 அத்தியாயம் : 64
+கைஸ் பின் அபீஹாஸிம் (ரஹ்) அவர்கள் கூறியதாவது: நான் தல்ஹா பின் உபைதில்லாஹ் (ரலி) அவர்களின் செயலிழந்துபோன கையைப் பார்த்தேன். உஹுத் நாளில் அந்தக் கையால் நபி (ஸல்) அவர்களை அன்னார் காத்த(போது எதிரிகளால் வெட்டப்பட்ட)ôர்கள்.127 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>4063</td></tr><tr><td>Reference</td><td>Book 64 Hadith 108</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবী শায়বা (রহঃ) ..... বারা ইবন আযিব (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সংগে জনৈক আনসার সাহাবীর জানাযার নামায পড়ার জন্য গমন করি। আমরা কবরের নিকট পৌছে দেখতে পাই যে, তখনও কবর খোঁড়া শেষ হয়নি। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানে কিব্‌লার দিকে মুখ করে বসে পড়েন এবং আমরাও তাঁর সঙ্গে বসে পড়ি।
+। আল-বারা‘আ ইবনু আযিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে আনসারদের এক ব্যক্তির জানাযা পড়ার জন্য বের হলাম। ‘আমরা সেখানে পৌঁছে দেখি, তখনো কবর খনন শেষ হয়নি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কিবলাহমুখী হয়ে বসলেন। ‘আমরাও তাঁর সাথে বসে গেলাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3212</td></tr><tr><td>Arabic No</td><td>3212</td></tr><tr><td>Reference</td><td>Book 21 Hadith 124</td></tr></tbody></table></div>
 

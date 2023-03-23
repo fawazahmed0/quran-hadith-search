@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-এরপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আল্লাহর কসম! তোমাদের মাঝে কেউ আপন পরিজন সম্পর্কে শপথ করে এবং সে এর কাফ্ফারা আদায় করার পরিবর্তে- যা আল্লাহ ফরয করেছেন- শপথে অনড় থাকে, তাহলে সে আল্লাহর নিকট গুনাহগার হবে। [৬৬২৬; মুসলিম ২৭/৬, হাঃ ১৬৫৫, আহমাদ ৮২১৫] (আধুনিক প্রকাশনী- ৬১৬৩, ইসলামিক ফাউন্ডেশন- র৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+এরপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আল্লাহর কসম! তোমাদের মাঝে কেউ আপন পরিজন সম্পর্কে শপথ করে এবং সে এর কাফ্ফারা আদায় করার পরিবর্তে- যা আল্লাহ ফরয করেছেন- শপথে অনড় থাকে, তাহলে সে আল্লাহর নিকট গুনাহগার হবে। [৬৬২৬; মুসলিম ২৭/৬, হাঃ ১৬৫৫, আহমাদ ৮২১৫] (আধুনিক প্রকাশনী- ৬১৬৩, ইসলামিক ফাউন্ডেশন- র)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6625</td></tr><tr><td>Arabic No</td><td>6625</td></tr><tr><td>Reference</td><td>Book 83 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Dan (masih dari jalur periwayatan yang sama dengan hadits sebelumnya -dari [Abu 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேலும், அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் மீதாணையாக! உங்களில் ஒருவர் தம் குடும்பத்தார் (துன்புறும் வகையில் அவர்கள்) தொடர்பாகத் தாம் செய்த சத்தியத்தில் பிடிவாதமாக இருப்பது, (அந்தச் சத்தியத்தை முறித்துவிட்டு) அதற்காக அவர்மீது அல்லாஹ் கடமையாக்கியுள்ள பரிகாரத்தைச் செய்வதைவிடப் பெரும் பாவமாகும்.6 அத்தியாயம் : 83
+மேலும், அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் மீதாணையாக! உங்களில் ஒருவர் தம் குடும்பத்தார் (துன்புறும் வகையில் அவர்கள்) தொடர்பாகத் தாம் செய்த சத்தியத்தில் பிடிவாதமாக இருப்பது, (அந்தச் சத்தியத்தை முறித்துவிட்டு) அதற்காக அவர்மீது அல்லாஹ் கடமையாக்கியுள்ள பரிகாரத்தைச் செய்வதைவிடப் பெரும் பாவமாகும்.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6625</td></tr><tr><td>Arabic No</td><td>6625</td></tr><tr><td>Reference</td><td>Book 83 Hadith 5</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Dan (masih dari jalur periwayatan yang sama dengan hadits sebelumnya -dari [Abu 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: Allah'ın gerekli gördüğü kefareti vermek yerine aileniz hakkındaki yemininizde ısrarlı olursanız Allah katında günahkar olursunuz. " Tekrar: 6626
+Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: Allah'ın gerekli gördüğü kefareti vermek yerine aileniz hakkındaki yemininizde ısrarlı olursanız Allah katında günahkar olursunuz. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6625</td></tr><tr><td>Arabic No</td><td>6625</td></tr><tr><td>Reference</td><td>Book 83 Hadith 5</td></tr></tbody></table></div>
 

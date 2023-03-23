@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু আতিয়্যাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাই‘আত গ্রহণকালে আমাদের কাছ হতে এ অঙ্গীকার নিয়েছিলেন যে, আমরা (কোন মৃতের জন্য) বিলাপ করব না। ....আমাদের মধ্য হতে পাঁচজন মহিলা উম্মু সুলাইম, উম্মুল ‘আলা, আবূ সাব্রাহর কন্যা মু‘আযের স্ত্রী, আরো দু’জন মহিলা বা মু‘আযের স্ত্রী ও আরেকজন মহিলা ব্যতীত কোন নারীই সে ওয়াদা রক্ষা করেনি। (৪৮৯২, ৭২১৫, মুসলিম ১১/১০, হাঃ ৯৩৬, আহমাদ ২৭৩৭৭) (আধুনিক প্রকাশনীঃ ১২২১, ইসলামিক ফাউন্ডেশনঃ ১২২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু আতিয়্যাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাই‘আত গ্রহণকালে আমাদের কাছ হতে এ অঙ্গীকার নিয়েছিলেন যে, আমরা (কোন মৃতের জন্য) বিলাপ করব না। ....আমাদের মধ্য হতে পাঁচজন মহিলা উম্মু সুলাইম, উম্মুল ‘আলা, আবূ সাব্রাহর কন্যা মু‘আযের স্ত্রী, আরো দু’জন মহিলা বা মু‘আযের স্ত্রী ও আরেকজন মহিলা ব্যতীত কোন নারীই সে ওয়াদা রক্ষা করেনি। (৪৮৯২, ৭২১৫, মুসলিম ১১/১০, হাঃ ৯৩৬, আহমাদ ২৭৩৭৭) (আধুনিক প্রকাশনীঃ ১২২১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1306</td></tr><tr><td>Arabic No</td><td>1306</td></tr><tr><td>Reference</td><td>Book 23 Hadith 64</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு அ(த்)திய்யா (ரலி) அவர்கள் கூறியதாவது: ஒப்பாரிவைக்கக் கூடாது என்று நபி (ஸல்) அவர்கள் எங்களிடம் உறுதி மொழி வாங்கினார்கள். எனினும். இந்த உறுதிமொழியை எங்களில் ஐந்து பெண் களைத் தவிர வேறு யாரும் நிறை வேற்றவில்லை. அப்பெண்கள் உம்மு சுலைம் (ரலி), உம்முல் அலா (ரலி), ‘முஆத் (ரலி) அவர்களின் மனைவியான அபூஸப்ராவின் மகள் மேலும் இரண்டு பெண்கள்’ அல்லது ‘அபூஸப்ராவின் மகள், முஆத் (ரலி) உடைய மனைவி, இன்னும் ஒரு பெண்’ ஆகியோர் ஆவர். (அறிவிப்பாளர்களில் ஒருவர் இவ்வாறு ஐயப்பாட்டுடன் அறிவிக்கிறார்.) அத்தியாயம் : 23
+உம்மு அ(த்)திய்யா (ரலி) அவர்கள் கூறியதாவது: ஒப்பாரிவைக்கக் கூடாது என்று நபி (ஸல்) அவர்கள் எங்களிடம் உறுதி மொழி வாங்கினார்கள். எனினும். இந்த உறுதிமொழியை எங்களில் ஐந்து பெண் களைத் தவிர வேறு யாரும் நிறை வேற்றவில்லை. அப்பெண்கள் உம்மு சுலைம் (ரலி), உம்முல் அலா (ரலி), ‘முஆத் (ரலி) அவர்களின் மனைவியான அபூஸப்ராவின் மகள் மேலும் இரண்டு பெண்கள்’ அல்லது ‘அபூஸப்ராவின் மகள், முஆத் (ரலி) உடைய மனைவி, இன்னும் ஒரு பெண்’ ஆகியோர் ஆவர். (அறிவிப்பாளர்களில் ஒருவர் இவ்வாறு ஐயப்பாட்டுடன் அறிவிக்கிறார்.) அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1306</td></tr><tr><td>Arabic No</td><td>1306</td></tr><tr><td>Reference</td><td>Book 23 Hadith 64</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Atiyye r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bey'at sırasında bizden ölünün arkasından feryat etmeyeceğimize dair söz aldı. Bu söze içimizden şu beş kişiden başkası uymadı: Ümmü Süleym, Ümmü Ala, Ebu Sebre'nin hanımı, Muaz'ın hanımı ve başka iki kadın (yahut Ebu Sebre'nin hanımı, Muaz'ın hanımı ve diğer bir kadın). Tekrar: 4892, 7215
+Ümmü Atiyye r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bey'at sırasında bizden ölünün arkasından feryat etmeyeceğimize dair söz aldı. Bu söze içimizden şu beş kişiden başkası uymadı: Ümmü Süleym, Ümmü Ala, Ebu Sebre'nin hanımı, Muaz'ın hanımı ve başka iki kadın (yahut Ebu Sebre'nin hanımı, Muaz'ın hanımı ve diğer bir kadın). Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1306</td></tr><tr><td>Arabic No</td><td>1306</td></tr><tr><td>Reference</td><td>Book 23 Hadith 64</td></tr></tbody></table></div>
 

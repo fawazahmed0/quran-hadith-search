@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, সূরাহ্ স-দ এর সিজদা্ অত্যাবশ্যক সিজদা্সমূহের মধ্যে গণ্য নয়। তবে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে আমি তা তিলাওয়াতের পর সিজদা্ করতে দেখেছি। (৩৪২২) (আধুনিক প্রকাশনীঃ ১০০৩, ইসলামিক ফাউন্ডেশনঃ ১০০৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, সূরাহ্ স-দ এর সিজদা্ অত্যাবশ্যক সিজদা্সমূহের মধ্যে গণ্য নয়। তবে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে আমি তা তিলাওয়াতের পর সিজদা্ করতে দেখেছি। (৩৪২২) (আধুনিক প্রকাশনীঃ ১০০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1069</td></tr><tr><td>Arabic No</td><td>1069</td></tr><tr><td>Reference</td><td>Book 17 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Abu an-Nu'man] keduanya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ‘ஸாத்’ அத்தியாயத்தில் உள்ள (24ஆவது) வசனம் கட்டாயமாக (ஓதலுக் கான) சஜ்தா செய்ய வேண்டிய வசனங் களில் ஒன்றல்ல. ஆயினும், நபி (ஸல்) அவர்கள் (ஸாத் அத்தியாயத்தின்) அந்த (வசனம் வரும்) இடத்தில் சஜ்தா செய்வதை நான் பார்த்திருக்கிறேன்.4 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 17
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ‘ஸாத்’ அத்தியாயத்தில் உள்ள (24ஆவது) வசனம் கட்டாயமாக (ஓதலுக் கான) சஜ்தா செய்ய வேண்டிய வசனங் களில் ஒன்றல்ல. ஆயினும், நபி (ஸல்) அவர்கள் (ஸாத் அத்தியாயத்தின்) அந்த (வசனம் வரும்) இடத்தில் சஜ்தா செய்வதை நான் பார்த்திருக்கிறேன்.4 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1069</td></tr><tr><td>Arabic No</td><td>1069</td></tr><tr><td>Reference</td><td>Book 17 Hadith 3</td></tr></tbody></table></div>
 

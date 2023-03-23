@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪০০, আন্তর্জাতিক নাম্বারঃ ২০৯ ৪০০-(৩৫৯/...) মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... আব্বাস ইবনু আবদুল মুত্তালিব (রাযিঃ) থেকে এবং আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... সুফইয়ান (রহঃ) থেকে ঐ সনদে পূর্ব বর্ণিত আবূ আওয়ানাহ এর হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৪০৫, ইসলামিক সেন্টারঃ ৪১৯)
+মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... আব্বাস ইবনু আবদুল মুত্তালিব (রাযিঃ) থেকে এবং আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... সুফইয়ান (রহঃ) থেকে ঐ সনদে পূর্ব বর্ণিত আবূ আওয়ানাহ এর হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৪০৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>512</td></tr><tr><td>Arabic No</td><td>209.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 418</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith is narrated from the Apostle (ﷺ) like one narrated by Abu 'Uwana o
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் இரு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மேலும் இரு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>512</td></tr><tr><td>Arabic No</td><td>209.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 418</td></tr></tbody></table></div>
 

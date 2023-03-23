@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৬. মালিক (রহঃ) হইতে যিয়াদ (রহঃ) বর্ণনা করেন- তিনি কিন্তু আহলে ইলমকে দেখিয়াছেন, তাহারা রমযানের শেষ দশ দিন যখন ইতিকাফ করিতেন তখন মুসলিমদের সহিত ঈদুল ফিতরে হাজির না হওয়া পর্যন্ত তাহাদের পরিজনের নিকট ফিরিতেন না। মালিক (রহঃ) বলেন, জ্ঞান ও গুণের অধিকারী আমার পূর্ববর্তী মনীষিগণের নিকট হইতে আমার নিকট ইহা পৌছিয়াছে যে, যখন তাহারা ইতিকাফ করিতেন তখন অনুরূপ করিতেন। এই ব্যাপারে আমি যাহা শুনিয়াছি তন্মধ্যে ইহাই আমার নিকট পছন্দনীয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>694</td></tr><tr><td>Arabic No</td><td>694</td></tr><tr><td>Reference</td><td>Book 19 Hadith 5</td></tr></tbody></table></div>
 

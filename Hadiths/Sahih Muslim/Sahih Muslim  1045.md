@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯৩২, আন্তর্জাতিক নাম্বারঃ ৪৬৬ ৯৩২-(.../...) আবূ বকর ইবনু শাইবাহ, ইবনু নুমায়র ও ইবনু আবূ 'আমর (রহঃ) ..... ইসমাঈল (রহঃ) এর সূত্রে উপরের সনদে হুশায়ম এর হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৯২৭, ইসলামিক সেন্টারঃ ৯৩৯)
+আবূ বকর ইবনু শাইবাহ, ইবনু নুমায়র ও ইবনু আবূ 'আমর (রহঃ) ..... ইসমাঈল (রহঃ) এর সূত্রে উপরের সনদে হুশায়ম এর হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৯২৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1045</td></tr><tr><td>Arabic No</td><td>466.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 207</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন আবূ শায়রা (রহঃ) .... নুবায়হ ইবন ওয়াহব (রহঃ) হতে পূর্বোক্ত হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে।
+। নাফি‘ (রহ.) থেকে নুবাইহ্ ইবনু ওয়াহাব (রহ.) সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত।[1] আমি এটি সহীহ এবং যঈফে পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1839</td></tr><tr><td>Arabic No</td><td>1839</td></tr><tr><td>Reference</td><td>Book 11 Hadith 119</td></tr></tbody></table></div>
 

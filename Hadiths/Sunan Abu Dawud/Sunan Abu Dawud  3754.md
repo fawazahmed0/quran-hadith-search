@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারুন .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রতিযোগিতা করে, গর্ব প্রকাশের জন্য, খাদ্য খাওয়াতে নিষেধ করেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ যারীর (রহঃ) থেকে অধিকাংশ বর্ণনাকারী ইবন আব্বাস (রাঃ)-কে এ বর্ণনায় উল্লেখ করেননি। তবে হারুন নাহবী (রহঃ) এ হাদীছে ইবনে আব্বাস (রাঃ)-এর উল্লেখ করেছেন। আর রাবী হাম্মাদ ইবন যায়দ (রহঃ) ও ইবন আব্বাস (রাঃ)-এর কথা উল্লেখ করেননি।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’ প্রতিদ্বন্দ্বি অহংকারীর খাদ্য গ্রহণ করতে নিষেধ করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3754</td></tr><tr><td>Arabic No</td><td>3754</td></tr><tr><td>Reference</td><td>Book 28 Hadith 19</td></tr></tbody></table></div>
 

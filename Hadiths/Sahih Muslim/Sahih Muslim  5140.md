@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫০৩৪, আন্তর্জাতিক নাম্বারঃ ১৯৮৩ ৫০৩৪-(১১/১৯৮৩) ইয়াহইয়া ইবনু ইয়াহইয়া ‘আবদুর রহমান ইবনু মাহদী ও যুহায়র ইবনু হারব (রহঃ) ... আনাস (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে মদ দিয়ে সিরকা তৈরি করা সম্পর্কে প্রশ্ন করা হলে তিনি বললেন, না। (ইসলামিক ফাউন্ডেশন ৪৯৭৬, ইসলামিক সেন্টার ৪৯৮৪)
+ইয়াহইয়া ইবনু ইয়াহইয়া ‘আবদুর রহমান ইবনু মাহদী ও যুহায়র ইবনু হারব (রহঃ) ... আনাস (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে মদ দিয়ে সিরকা তৈরি করা সম্পর্কে প্রশ্ন করা হলে তিনি বললেন, না। (ইসলামিক ফাউন্ডেশন ৪৯৭৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5140</td></tr><tr><td>Arabic No</td><td>1983</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் மதுவை (சமையல்) காடியாக மாற்றுவதைப் பற்றிக் கேட்கப்பட்டது. அதற்கு நபி (ஸல்) அவர்கள் "இல்லை (மாற்றக் கூடாது)" என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 36
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் மதுவை (சமையல்) காடியாக மாற்றுவதைப் பற்றிக் கேட்கப்பட்டது. அதற்கு நபி (ஸல்) அவர்கள் "இல்லை (மாற்றக் கூடாது)" என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5140</td></tr><tr><td>Arabic No</td><td>1983</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আনসারদেরকে বাহরাইনে কিছু জায়গীর দিতে চাইলেন। তারা বলল, আমাদের মুহাজির ভাইদেরও আমাদের মতো জায়গীর না দেয়া পর্যন্ত আমাদের জন্য জায়গীর দিবেন না। তিনি বলেন, আমার পরে শীঘ্রই তোমরা দেখবে, তোমাদের উপর অন্যদেরকে প্রাধান্য দেয়া হচ্ছে। তখন তোমরা সবর করবে, যে পর্যন্ত না তোমরা আমার সঙ্গে মিলিত হও। (২৩৮৮, ৩১৬৩, ৩৭৯৪) (আধুনিক প্রকাশনীঃ ২২০৩, ইসলামিক ফাউন্ডেশনঃ ২২২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আনসারদেরকে বাহরাইনে কিছু জায়গীর দিতে চাইলেন। তারা বলল, আমাদের মুহাজির ভাইদেরও আমাদের মতো জায়গীর না দেয়া পর্যন্ত আমাদের জন্য জায়গীর দিবেন না। তিনি বলেন, আমার পরে শীঘ্রই তোমরা দেখবে, তোমাদের উপর অন্যদেরকে প্রাধান্য দেয়া হচ্ছে। তখন তোমরা সবর করবে, যে পর্যন্ত না তোমরা আমার সঙ্গে মিলিত হও। (২৩৮৮, ৩১৬৩, ৩৭৯৪) (আধুনিক প্রকাশনীঃ ২২০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பஹ்ரைனுடைய தரிசு நிலங்களை (அன்சாரிகளுக்கு) வருவாய் மானியமாகத் தர விரும்பினார் கள்.15 அதற்கு அன்சாரிகள், ‘‘(அல்லாஹ் வின் தூதரே!) நீங்கள் எங்களுக்கு வருவாய் மானியம் வழங்குவதைப் போன்றே எங்கள் முஹாஜிர் சகோதரர் களுக்கும் வருவாய் மானியம் வழங்காத வரை (நாங்கள் அவற்றை ஏற்றுக்கொள்ள மாட்டோம்)” என்று கூறினர். அதற்கு நபி (ஸல்) அவர்கள், ‘‘(அன் சாரிகளே!) எனக்குப்பின் (சிறிது காலத்திற் குள்ளாகவே ஆட்சியதிகாரத்தில்) உங்களைவிடப் பிறருக்கு முன்னுரிமை தரப்படுவதை நீங்கள் பார்ப்பீர்கள். ஆகவே, என்னை (மறுமையில்) நீங்கள் சந்திக்கும் (காலம்)வரை பொறுமையைக் கடைப்பிடியுங்கள்” என்று சொன்னார் கள். அத்தியாயம் : 42
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பஹ்ரைனுடைய தரிசு நிலங்களை (அன்சாரிகளுக்கு) வருவாய் மானியமாகத் தர விரும்பினார் கள்.15 அதற்கு அன்சாரிகள், ‘‘(அல்லாஹ் வின் தூதரே!) நீங்கள் எங்களுக்கு வருவாய் மானியம் வழங்குவதைப் போன்றே எங்கள் முஹாஜிர் சகோதரர் களுக்கும் வருவாய் மானியம் வழங்காத வரை (நாங்கள் அவற்றை ஏற்றுக்கொள்ள மாட்டோம்)” என்று கூறினர். அதற்கு நபி (ஸல்) அவர்கள், ‘‘(அன் சாரிகளே!) எனக்குப்பின் (சிறிது காலத்திற் குள்ளாகவே ஆட்சியதிகாரத்தில்) உங்களைவிடப் பிறருக்கு முன்னுரிமை தரப்படுவதை நீங்கள் பார்ப்பீர்கள். ஆகவே, என்னை (மறுமையில்) நீங்கள் சந்திக்கும் (காலம்)வரை பொறுமையைக் கடைப்பிடியுங்கள்” என்று சொன்னார் கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya İbn Said, "Enes'i şöyle söylerken işittim" demiştir: Resulullah Sallallahu Aleyhi ve Sellem Bahreyn'in bir kısmını ensarlılara tahsis (ikta') etmek istedi. Bunun üzerine ensarlı müslümanlar, "Bize verdiğin gibi muhacir kardeşlerimize de vermen şartıyla (kabul ederiz)" dediler. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Ben aranızdan ayrıldıktan sonra, insanların ene’ye (bencillik’e) düştüğünü göreceksiniz. Bu durumda bana kavuşana kadar sabredin" buyurmuştur. Tekrar: 2377, 3163, 3793
+Yahya İbn Said, "Enes'i şöyle söylerken işittim" demiştir: Resulullah Sallallahu Aleyhi ve Sellem Bahreyn'in bir kısmını ensarlılara tahsis (ikta') etmek istedi. Bunun üzerine ensarlı müslümanlar, "Bize verdiğin gibi muhacir kardeşlerimize de vermen şartıyla (kabul ederiz)" dediler. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Ben aranızdan ayrıldıktan sonra, insanların ene’ye (bencillik’e) düştüğünü göreceksiniz. Bu durumda bana kavuşana kadar sabredin" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
 

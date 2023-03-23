@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬৬৮, আন্তর্জাতিক নাম্বারঃ ১৮৪২ ৪৬৬৮-(.../...) আবূ বাকর ইবনু আবূ শাইবাহ এবং আবদুল্লাহ ইবনু বাররাদ আশ'আরী (রহঃ) ..... হাসান ইবনু ফুরাত (রহঃ) সূত্রে উপরোক্ত বর্ণিত হাদীসের অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৬২২, ইসলামিক সেন্টার ৪৬২৩)
+আবূ বাকর ইবনু আবূ শাইবাহ এবং আবদুল্লাহ ইবনু বাররাদ আশ'আরী (রহঃ) ..... হাসান ইবনু ফুরাত (রহঃ) সূত্রে উপরোক্ত বর্ণিত হাদীসের অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৬২২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4774</td></tr><tr><td>Arabic No</td><td>1842.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 72</td></tr></tbody></table></div>
 

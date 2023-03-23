@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু সাহল .... জাবের (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের দুইটি কাজের সর্বশেষ কাজ এই ছিল যে, তিনি রান্না করা খাদ্য আহারের পর উযূ (ওজু/অজু/অযু) করা পরিত্যাগ করেন।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর দু’টি কাজের (অর্থাৎ আগুনে পাকানো খাবার খেয়ে অযু করা বা না করার) মধ্যকার সর্বশেষ কাজ ছিল আগুনে পাকানো খাদ্য খাওয়ার পর অযু না করা। [1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>192</td></tr><tr><td>Arabic No</td><td>192</td></tr><tr><td>Reference</td><td>Book 1 Hadith 192</td></tr></tbody></table></div>
 

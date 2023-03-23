@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯৯২, আন্তর্জাতিক নাম্বারঃ ৯৯৩ ৯৯২. ফাযল ইবনু সাহল (রহ.) ..... ইবনু উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ (সা.)-এর বিশ বার লক্ষ্য করেছি যে, তিনি মাগরিবের পরের দু' রাক'আতে এবং ফজরের আগে (সুন্নাত) দু' রাক'আতে (১০৯. সূরাহ আল কাফিরূন) “কুল ইয়া- আইয়ুহাল কাফিরূন” এবং (১১২. সূরা আল ইখলাস) “কুল হুওয়াল্ল-হু আহাদ” তিলাওয়াত করেছেন। সহীহ: তিরমিযী ৭১৪, ইবনু মাজাহ ১১৪৯, মুসনাদে আহমাদ ৫৭৪২।
+। ফযল ইবনু সাহল (রহঃ) ... ইবনু উমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর প্রতি বিশ বার লক্ষ্য করেছি যে, তিনি মাগরিবের পর দু'রাকআতে এবং ফজরের পূর্বের (সূন্নত) দু’রাকআতে, 'কূল ইয়া আইয়্যুহাল কাফিরুন' এবং 'কুল হুয়াল্লাহু আহাদ' পাঠ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>992</td></tr><tr><td>Arabic No</td><td>992</td></tr><tr><td>Reference</td><td>Book 11 Hadith 117</td></tr></tbody></table></div>
 

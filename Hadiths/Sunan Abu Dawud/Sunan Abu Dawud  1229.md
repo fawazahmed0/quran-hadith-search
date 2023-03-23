@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসা ইবন ইবরাহীম ও ইবরাহীম ইবন মুসা (রহঃ) ..... ইমরান ইবন হুসায়ন (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে যুদ্ধে শরীক হই এবং মক্কা বিজয়ের দিনও তাঁর সাথে ছিলাম। ঐ সময় তিনি আঠার দিন মক্কায় অবস্থানকালে (চার রাকাতের স্থলে) দুই রাকাত নামায পড়েন এবং বলেনঃ হে শহরবাসী! তোমরা চার রাকাত আদায় কর। কেননা আমি মুসাফিরদের অন্তর্গত। (তিরমিযি)
+। ‘ইমরান ইবনু হুসাইন (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে যুদ্ধে অংশগ্রহণ করেছি এবং মাক্কাহ বিজয়ের দিনেও তাঁর সাথে ছিলাম। তিনি মাক্কায় আঠার দিন অবস্থান করেন। এ সময় তিনি (ফারয) সালাত দু’ রাক্‘আত আদায় করেন এবং বলেনঃ হে শহরবাসী! তোমরা চার রাক‘আত সালাত আদায় করবে। কেননা আমরা মুসাফির সম্প্রদায় (তাই চার রাক‘আতের স্থলে দু’ রাকআত আদায় করেছি)।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1229</td></tr><tr><td>Arabic No</td><td>1229</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
 

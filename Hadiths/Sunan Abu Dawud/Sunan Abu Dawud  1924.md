@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন হাম্বল (রহঃ) .... উসামা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উষ্ট্রের পশ্চাতে সাওয়ার ছিলাম (যখন তিনি আরাফাত হতে রওনা হন।)। অতঃপর যখন সূর্য অস্ত যায়, তখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরাফাত হতে মুযদালিফায় রওনা হন।
+। উসামাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বাহনের পেছনে ছিলাম। যখন সূর্য অস্ত গেলো তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আরাফাত থেকে রওয়ানা হলেন।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1924</td></tr><tr><td>Arabic No</td><td>1924</td></tr><tr><td>Reference</td><td>Book 11 Hadith 204</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Usâme (r.a.)'den; demiştir ki: Ben (Arafat'tan Müzdelife'ye gidilirken) Nebi (S.A.V.)'in terkisinde idim. (O gün Peygamber Efendimiz) güneş batınca (Arafat'tan Müzdelife'ye) hareket etti. Şunlarda tahric etti: Buhârî, vudû, hac; Müslim, hac; Nesâî, menâsik; Muvatta, hac; Ahmed b. Hanbel, II, 125
+Usâme (r.a.)'den; demiştir ki: Ben (Arafat'tan Müzdelife'ye gidilirken) Nebi (S.A.V.)'in terkisinde idim. (O gün Peygamber Efendimiz) güneş batınca (Arafat'tan Müzdelife'ye) hareket etti. Şunlarda tahric etti: Buhârî, vudû, hac; Müslim, hac; Nesâî, menâsik; Muvatta, hac; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1924</td></tr><tr><td>Arabic No</td><td>1924</td></tr><tr><td>Reference</td><td>Book 11 Hadith 204</td></tr></tbody></table></div>
 

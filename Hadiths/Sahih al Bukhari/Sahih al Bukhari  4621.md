@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এমন একটি খুতবা দিলেন যেমনটি আমি আর কখনো শুনিনি। তিনি বলেছেন, ‘‘আমি যা জানি তা যদি তোমরা জানতে তবে তোমরা হাসতে খুব কমই এবং অধিক অধিক করে কাঁদতে’’। তিনি বলেন, সহাবায়ে কিরাম (রাঃ) নিজ নিজ চেহারা আবৃত করে গুনগুন করে কাঁদতে শুরু করলেন, এরপর এক ব্যক্তি (‘আবদুল্লাহ ইবনু হুযাইফাহ বা অন্য কেউ) বলল, আমার পিতা কে? রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, ‘‘অমুক’’। তখন এই আয়াত অবতীর্ণ হলএই হাদীসটি শু’বাহ থেকে নযর এবং রাওহ ইবনু ‘উবাদাহ বর্ণনা করেছেন। [৯৩; মুসলিম ৪৩/৩৭, হাঃ ২৩৫৯] (আধুনিক প্রকাশনীঃ ৪২৬০, ইসলামিক ফাউন্ডেশনঃ ৪২৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এমন একটি খুতবা দিলেন যেমনটি আমি আর কখনো শুনিনি। তিনি বলেছেন, ‘‘আমি যা জানি তা যদি তোমরা জানতে তবে তোমরা হাসতে খুব কমই এবং অধিক অধিক করে কাঁদতে’’। তিনি বলেন, সহাবায়ে কিরাম (রাঃ) নিজ নিজ চেহারা আবৃত করে গুনগুন করে কাঁদতে শুরু করলেন, এরপর এক ব্যক্তি (‘আবদুল্লাহ ইবনু হুযাইফাহ বা অন্য কেউ) বলল, আমার পিতা কে? রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, ‘‘অমুক’’। তখন এই আয়াত অবতীর্ণ হল لَا تَسْأَلُوْا عَنْ أَشْيَآءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُمْ এই হাদীসটি শু’বাহ থেকে নযর এবং রাওহ ইবনু ‘উবাদাহ বর্ণনা করেছেন। [৯৩; মুসলিম ৪৩/৩৭, হাঃ ২৩৫৯] (আধুনিক প্রকাশনীঃ ৪২৬০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4621</td></tr><tr><td>Arabic No</td><td>4621</td></tr><tr><td>Reference</td><td>Book 65 Hadith 143</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:The Prophet (ﷺ) delivered a sermon the like of which I had never heard before. He said, "If you but knew what I know then you would have laughed little and wept much." On hearing that, the companions of the Prophet (ﷺ) covered their faces and the sound of their weeping was heard. A man said, "Who is my father?" The Prophet (ﷺ) said, "So-and-so." So this Verse was revealed: "Ask not about things which, if made plain to you, may cause you trouble." (5.101)
+Narrated Anas:The Prophet (ﷺ) delivered a sermon the like of which I had never heard before. He said, "If you but knew what I know then you would have laughed little and wept much." On hearing that, the companions of the Prophet (ﷺ) covered their faces and the sound of their weeping was heard. A man said, "Who is my father?" The Prophet (ﷺ) said, "So-and-so." So this Verse was revealed: "Ask not about things which, if made plain to you, may cause you trouble
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4621</td></tr><tr><td>Arabic No</td><td>4621</td></tr><tr><td>Reference</td><td>Book 65 Hadith 143</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mundzir bin Al Walid bin 'Abdur Rahman Al Jarudi
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஒருநாள்) ஓர் உரை நிகழ்த்தினார்கள். அதைப் போன்ற ஓர் உரையை நான் (என் வாழ்நாளில்) ஒருபோதும் கேட்டதில்லை. (அதில்) அவர்கள், “நான் அறிகின்றவற்றை நீங்கள் அறிந்தால், நீங்கள் குறைவாகச் சிரிப்பீர்கள்; அதிகமாக அழுவீர்கள்” என்று குறிப்பிட்டார்கள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடைய தோழர்கள் தம் முகங்களை மூடிக்கொண்டு சப்தமிட்டு அழுதார்கள். அப்போது ஒரு மனிதர், “என் தந்தை யார்?' என்று கேட்டார். நபி (ஸல்) அவர்கள், “இன்னார்' என்று சொன்னார்கள். அப்போதுதான், “இறைநம்பிக்கைகொண்டவர்களே! சில விஷயங்களைப் பற்றி (துருவித்துருவிக்) கேட்காதீர்கள். (ஏனெனில்,) அவை உங்களிடம் வெளிப்படுத்தப்பட்டால் அவை உங்களுக்கு மனவருத்தத்தை ஏற்படுத்தும்” எனும் இந்த (5:101ஆவது) இறைவசனம் அருளப்பெற்றது. இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 65
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஒருநாள்) ஓர் உரை நிகழ்த்தினார்கள். அதைப் போன்ற ஓர் உரையை நான் (என் வாழ்நாளில்) ஒருபோதும் கேட்டதில்லை. (அதில்) அவர்கள், “நான் அறிகின்றவற்றை நீங்கள் அறிந்தால், நீங்கள் குறைவாகச் சிரிப்பீர்கள்; அதிகமாக அழுவீர்கள்” என்று குறிப்பிட்டார்கள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடைய தோழர்கள் தம் முகங்களை மூடிக்கொண்டு சப்தமிட்டு அழுதார்கள். அப்போது ஒரு மனிதர், “என் தந்தை யார்?' என்று கேட்டார். நபி (ஸல்) அவர்கள், “இன்னார்' என்று சொன்னார்கள். அப்போதுதான், “இறைநம்பிக்கைகொண்டவர்களே! சில விஷயங்களைப் பற்றி (துருவித்துருவிக்) கேட்காதீர்கள். (ஏனெனில்,) அவை உங்களிடம் வெளிப்படுத்தப்பட்டால் அவை உங்களுக்கு மனவருத்தத்தை ஏற்படுத்தும்” எனும் இந்த (5:101ஆவது) இறைவசனம் அருளப்பெற்றது. இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4621</td></tr><tr><td>Arabic No</td><td>4621</td></tr><tr><td>Reference</td><td>Book 65 Hadith 143</td></tr></tbody></table></div>
 

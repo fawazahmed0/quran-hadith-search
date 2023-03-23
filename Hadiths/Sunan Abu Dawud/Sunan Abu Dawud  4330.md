@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইব্‌ন সাঈদ (রহঃ) .... ইব্‌ন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আল্লাহ্‌র শপথ! আমার এ ব্যাপারে কোন সন্দেহ নেই যে, মাসীহ দাজ্জাল হলো-ইব্‌ন সাইয়াদ।
+। নাফি (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ইবনু উমার (রাঃ) বলতেন, ইবনু সাইয়্যাদই যে মাসিহ দাজ্জাল এতে আমার কোনো সন্দেহ নেই।[1] সনদ সহীহ মাওকুফ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>4330</td></tr><tr><td>Reference</td><td>Book 39 Hadith 40</td></tr></tbody></table></div>
 

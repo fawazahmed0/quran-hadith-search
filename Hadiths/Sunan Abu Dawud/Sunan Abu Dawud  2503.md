@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন উসমান ..... আবূ উমামা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন। তিনি ইরশাদ করেছেনঃ যে ব্যক্তি যুদ্ধের ক্ষমতা থাকা সত্ত্বেও যুদ্ধ করল না অথবা কোন গাযীকে যুদ্ধাস্ত্র দিয়ে সাহায্য করল না বা গাযীর অনুপস্থিতিতে তার পরিবারের কোন উপকার করল না, তাকে আল্লাহ্ তা‘আলা কোন আকস্মিক দুর্ঘটনা দ্বারা ধ্বংশ করবেন। ‘‘কিয়ামতের পূর্বে" কথাটি আবদুল্লাহ্ ইবন আব্‌দ রাব্বিহি তার বর্ণনায় অতিরিক্ত বলেছেন।
+। আবূ উমামাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে নিজে জিহাদ করেনি বা কোনো মুজাহিদকে জিহাদের সরঞ্জামের ব্যবস্থা করে দেয়নি অথবা মুজাহিদ পরিবারের উপকারও করেনি, আল্লাহ কিয়ামতের পূর্বে তাকে কঠিন বিপদে ফেলবেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2503</td></tr><tr><td>Arabic No</td><td>2503</td></tr><tr><td>Reference</td><td>Book 15 Hadith 27</td></tr></tbody></table></div>
 

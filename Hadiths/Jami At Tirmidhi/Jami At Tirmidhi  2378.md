@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩৭৮। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষ তার বন্ধুর ধ্যান-ধারণার অনুসারী হয়ে থাকে। সুতরাং তোমাদের সকলেরই খেয়াল রাখা উচিত সে কার সাথে বন্ধুত্ব স্থাপন করছে। হাসান, সহীহাহ (৯২৭), মিশকাত (৫০১৯)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষ তার বন্ধুর ধ্যান-ধারণার অনুসারী হয়ে থাকে। সুতরাং তোমাদের সকলেরই খেয়াল রাখা উচিত সে কার সাথে বন্ধুত্ব স্থাপন করছে। হাসান, সহীহাহ (৯২৭), মিশকাত (৫০১৯)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2378</td></tr><tr><td>Arabic No</td><td>2378</td></tr><tr><td>Reference</td><td>Book 36 Hadith 75</td></tr></tbody></table></div>
 

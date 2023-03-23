@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ মুযানী (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেছেনঃ মাগরিবের সালাতের আগে তোমরা সালাত আদায় করবে। তবে তৃতীয়বারে তিনি বললেনঃ লোকেরা এটাকে সুন্নাত হিসেবে গ্রহণ করুক- এটা অপছন্দ করার কারণে তিনি তৃতীয়বারে বললেন- যার ইচ্ছে সে আদায় করবে। [১১৮৩] (আধুনিক প্রকাশনী- ৬৮৫০, ইসলামিক ফাউন্ডেশন- ৬৮৬২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবদুল্লাহ মুযানী (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেছেনঃ মাগরিবের সালাতের আগে তোমরা সালাত আদায় করবে। তবে তৃতীয়বারে তিনি বললেনঃ লোকেরা এটাকে সুন্নাত হিসেবে গ্রহণ করুক- এটা অপছন্দ করার কারণে তিনি তৃতীয়বারে বললেন- যার ইচ্ছে সে আদায় করবে। [১১৮৩] (আধুনিক প্রকাশনী- ৬৮৫০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7368</td></tr><tr><td>Arabic No</td><td>7368</td></tr><tr><td>Reference</td><td>Book 96 Hadith 95</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah Al Muzam:The Prophet (ﷺ) said, "Perform (an optional) prayer before Maghrib prayer." (He repeated it thrice) and the third time he said, "Whoever wants to offer it can do so," lest the people should take it as a Sunna (tradition). (See Hadith No. 277, Vol. 2)
+Narrated 'Abdullah Al Muzam:The Prophet (ﷺ) said, "Perform (an optional) prayer before Maghrib prayer." (He repeated it thrice) and the third time he said, "Whoever wants to offer it can do so," lest the people should take it as a Sunna (tradition). (See Hadith No. 277, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7368</td></tr><tr><td>Arabic No</td><td>7368</td></tr><tr><td>Reference</td><td>Book 96 Hadith 95</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் முகஃப்பல் அல்முஸனீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “மஃக்ரிப் தொழுகைக்கு முன்பாக (இரு ரக்அத்கள்) தொழுங்கள்” என்று சொன்னார்கள். மூன்றாம் முறையாகச் சொல்லும்போது, அதை மக்கள், (கட்டாயம் பின்பற்றப்பட வேண்டிய) நபிவழியாக எடுத்துக்கொள் வார்கள் என்று அஞ்சி, “இது விரும்பு வோருக்குத்தான்” என்று சொன் னார்கள்.104 அத்தியாயம் : 96
+அப்துல்லாஹ் பின் முகஃப்பல் அல்முஸனீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “மஃக்ரிப் தொழுகைக்கு முன்பாக (இரு ரக்அத்கள்) தொழுங்கள்” என்று சொன்னார்கள். மூன்றாம் முறையாகச் சொல்லும்போது, அதை மக்கள், (கட்டாயம் பின்பற்றப்பட வேண்டிய) நபிவழியாக எடுத்துக்கொள் வார்கள் என்று அஞ்சி, “இது விரும்பு வோருக்குத்தான்” என்று சொன் னார்கள்.104 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7368</td></tr><tr><td>Arabic No</td><td>7368</td></tr><tr><td>Reference</td><td>Book 96 Hadith 95</td></tr></tbody></table></div>
 

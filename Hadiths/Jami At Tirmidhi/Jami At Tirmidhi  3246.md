@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৪৬। আবূ সাঈদ ও আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ একজন ঘোষক (জান্নাতের মধ্যে) ঘোষণা দিবে, এখন হতে তোমরা জীবিত থাকবে, আর কখনো মরবে না। তোমরা সুস্থ থাকবে, কখনো অসুস্থ হবে না। তোমরা যুবক থাকবে, কখনো বৃদ্ধ হবে না। তোমরা অফুরন্ত ভোগবিলাসের ভিতর থাকবে, অভাব-অনটন কখনো তোমাদের স্পর্শ করবে না। এটাই আল্লাহ তা'আলার নিম্নোক্ত বাণীর তাৎপর্যঃ “তোমরা পার্থিব জীবনে যেসব কাজ করেছ তার বিনিময়ে এ জান্নাতের উত্তরাধিকারী হলে”— (সূরা যুখরুফ ৭২)। সহীহঃ মুসলিম (৮/১৪৮)। আবূ ঈসা বলেন, ইবনুল মুবারাক প্রমুখ সুফইয়ান সাওরীর সূত্রে এ হাদীস বর্ণনা করেছেন, কিন্তু মারফুরূপে নয়।
+। আবূ সাঈদ ও আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ একজন ঘোষক (জান্নাতের মধ্যে) ঘোষণা দিবে, এখন হতে তোমরা জীবিত থাকবে, আর কখনো মরবে না। তোমরা সুস্থ থাকবে, কখনো অসুস্থ হবে না। তোমরা যুবক থাকবে, কখনো বৃদ্ধ হবে না। তোমরা অফুরন্ত ভোগবিলাসের ভিতর থাকবে, অভাব-অনটন কখনো তোমাদের স্পর্শ করবে না। এটাই আল্লাহ তা'আলার নিম্নোক্ত বাণীর তাৎপর্যঃ “তোমরা পার্থিব জীবনে যেসব কাজ করেছ তার বিনিময়ে এ জান্নাতের উত্তরাধিকারী হলে”— (সূরা যুখরুফ ৭২)। সহীহঃ মুসলিম (৮/১৪৮)। আবূ ঈসা বলেন, ইবনুল মুবারাক প্রমুখ সুফইয়ান সাওরীর সূত্রে এ হাদীস বর্ণনা করেছেন, কিন্তু মারফুরূপে নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3246</td></tr><tr><td>Arabic No</td><td>3246</td></tr><tr><td>Reference</td><td>Book 47 Hadith 298</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Hurairah:that the Prophet (ﷺ) said: "A caller will call out: 'You shall have life and never die; you shall be healthy and never be ill; you shall be young and never grow old; you shall live in favor and never suffer difficult circumstances.' That is the saying of Allah Most High: This is Paradise, which you have been made to inherit because of your deeds that you used to do (43:72)
+Narrated Abu Hurairah:that the Prophet (ﷺ) said: "A caller will call out: 'You shall have life and never die; you shall be healthy and never be ill; you shall be young and never grow old; you shall live in favor and never suffer difficult circumstances.' That is the saying of Allah Most High: This is Paradise, which you have been made to inherit because of your deeds that you used to do (43:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3246</td></tr><tr><td>Arabic No</td><td>3246</td></tr><tr><td>Reference</td><td>Book 47 Hadith 298</td></tr></tbody></table></div>
 

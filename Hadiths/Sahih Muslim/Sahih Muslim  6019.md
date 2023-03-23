@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯১৩, আন্তর্জাতিক নাম্বারঃ ২৩১১ ৫৯১৩-(.../...) আবূ কুরায়ব ও মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... মুহাম্মাদ ইবনু মুনকাদিরের সানাদে জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে হুবহু রিওয়ায়াত করেন। (ইসলামিক ফাউন্ডেশন ৫৮১২, ইসলামিক সেন্টার ৫৮৪৭)
+আবূ কুরায়ব ও মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... মুহাম্মাদ ইবনু মুনকাদিরের সানাদে জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে হুবহু রিওয়ায়াত করেন। (ইসলামিক ফাউন্ডেশন ৫৮১২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6019</td></tr><tr><td>Arabic No</td><td>2311.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 77</td></tr></tbody></table></div>
 

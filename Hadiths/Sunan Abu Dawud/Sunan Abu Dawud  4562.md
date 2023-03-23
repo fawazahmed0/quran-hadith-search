@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুদাইবা ইবন খালিদ (রহঃ) .... আমর ইবন শু'আয়ব (রহঃ) তার পিতা থেকে এবং তিনি তার দাদা থেকে বর্ণনা করেছেন যে, একদা নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর ভাষণে বলেনঃ আংগুলের জন্য দিয়াত হলো, দশ-দশটি উট। এ সময় তিনি তাঁর পিঠ কা'বা ঘরের সাথে ঠেশ দিয়ে রাখেন।
+। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা এবং দাদার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কা‘বার সঙ্গে পিঠ লাগিয়ে ভাষণদানকালে বলেন, আঙ্গুলগুলো দশটি দশটি করে (উট দিয়াত পাবে)।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4562</td></tr><tr><td>Arabic No</td><td>4562</td></tr><tr><td>Reference</td><td>Book 41 Hadith 69</td></tr></tbody></table></div>
 

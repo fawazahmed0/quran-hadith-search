@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯৮২, আন্তর্জাতিক নাম্বারঃ ১৫৯৬ ৩৯৮২-(১০৩/...) যুহায়র ইবনু হারব ও মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... উসামাহ ইবনু যায়দ (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নগদ বিক্রয়ের ক্ষেত্রে সুদ হয় না। (ইসলামিক ফাউন্ডেশন ৩৯৪৫, ইসলামিক সেন্টার ৩৯৪৪)
+যুহায়র ইবনু হারব ও মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... উসামাহ ইবনু যায়দ (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নগদ বিক্রয়ের ক্ষেত্রে সুদ হয় না। (ইসলামিক ফাউন্ডেশন ৩৯৪৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>1596.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 129</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உடனுக்குடன் நிகழ்ந்த (நாணயமாற்று வணிகத்)தில் வட்டி கிடையாது. இதை உசாமா பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 22
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உடனுக்குடன் நிகழ்ந்த (நாணயமாற்று வணிகத்)தில் வட்டி கிடையாது. இதை உசாமா பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>1596.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 129</td></tr></tbody></table></div>
 

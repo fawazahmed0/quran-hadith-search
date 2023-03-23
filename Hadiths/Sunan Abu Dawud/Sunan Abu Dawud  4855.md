@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন সাববাহ (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যারা কোন মজলিসে বসার পর, আল্লাহর যিকির ব্যতীত সেখান থেকে চলে যায়, তারা যেন মৃত গাধার মত উঠে গেল। কিয়ামতের দিন তাদের এ বৈঠক আফসোসের কারণ হবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো কওমের লোকেরা কোনো সমাবেশে একত্রিত হওয়ার পর চলে যাবার সময় তাতে আল্লাহকে স্মরণ না করেই চলে গেলে তা যেন গাধার শবদেহ। তা তাদের জন্য পরিতাপের কারণ হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4855</td></tr><tr><td>Arabic No</td><td>4855</td></tr><tr><td>Reference</td><td>Book 43 Hadith 83</td></tr></tbody></table></div>
 

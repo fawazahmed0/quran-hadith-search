@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম .... রুবাই বিনত মুআব্বিয (রাঃ) হতে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম উযূ (ওজু/অজু/অযু) করেন এবং তাঁর আংগুলি দুই কানের ছিদ্রে প্রবেশ করান। (ইবনু মাজাহ)।
+। রুবাই' বিনতু মু‘আব্বিয (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অযু করলেন এবং উভয় কানের ছিদ্রে তাঁর হাতের দু’ আঙ্গুল প্রবেশ করালেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>131</td></tr><tr><td>Arabic No</td><td>131</td></tr><tr><td>Reference</td><td>Book 1 Hadith 131</td></tr></tbody></table></div>
 

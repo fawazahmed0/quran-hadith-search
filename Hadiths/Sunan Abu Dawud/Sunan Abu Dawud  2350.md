@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল ‘আলা ইবন হাম্মাদ ...... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ তোমাদের কেউ যখন ফজরের আযান শ্রবণ করে, আর এ সময় তার হাতে খাদ্যের পাত্র থাকে, সে যেন আযানের কারণে খাদ্য গ্রহণ বন্ধ না করে যতক্ষণ না সে তদ্বারা স্বীয় প্রয়োজন পূর্ণ না করে ।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কেউ ফজরের আযান শুনতে পায় অথচ খাবারের পাত্র তার হাতে থাকে, সে যেন তা রেখে না দেয় যতক্ষণ না তার প্রয়োজন পূরন হয়।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2350</td></tr><tr><td>Arabic No</td><td>2350</td></tr><tr><td>Reference</td><td>Book 14 Hadith 38</td></tr></tbody></table></div>
 

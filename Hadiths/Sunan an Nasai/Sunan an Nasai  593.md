@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯৩, আন্তর্জাতিক নাম্বারঃ ৫৯৪ ৫৯৩. মুআম্মাল ইবনু ইহাব (রহ.) ..... জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, সূর্য ডুবে গেল এবং রাসূলুল্লাহ (সা.) তখন মক্কাতেই অবস্থান করছিলেন। তারপর ‘সারিফ' নামক জায়গায় তিনি (মাগরিব ও ‘ইশা) দু' সালাত একসাথে আদায় করলেন। সনদ দুর্বল: সনদে আবূয যুবায়র মুসলিম ইবনু তাদারাস তিনি একজন মুদাল্লিস বর্ণনাকারী। শায়খ আলবানী তাকে য'ঈফ বলেছেন।
+। মুয়াম্মাল ইবনু ইহাব (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, সুর্য অস্তমিত হল এবং রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তখন মক্কাতেই ছিলেন। তারপর ‘সারিফ’ নামক স্থানে তিনি (মাগরিব ও ঈশা) দুই সালাত একত্রে আদায় করলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>593</td></tr><tr><td>Arabic No</td><td>593</td></tr><tr><td>Reference</td><td>Book 6 Hadith 100</td></tr></tbody></table></div>
 

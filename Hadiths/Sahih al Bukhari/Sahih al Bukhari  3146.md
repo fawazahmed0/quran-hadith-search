@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘আমি কুরায়শদের দেই তাদের মনোস্তুষ্টির জন্য। কেননা তারা জাহিলিয়্যাতের নিকটবর্তী।’ (৩১৪৭, ৩৫২৮, ৩৭৭৮, ৩৭৯৩, ৪৩৩১, ৪৩৩২, ৪৩৩৩, ৪৩৩৪, ৪৩৩৭, ৫৮৬০, ৬৭৬২, ৭৪৪১) (মুসলিম ১২/৪৬ হাঃ ১০৫৯, আহমাদ ১৩৯১০) (আধুনিক প্রকাশনীঃ ২৯১১, ইসলামিক ফাউন্ডেশনঃ ২৯২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘আমি কুরায়শদের দেই তাদের মনোস্তুষ্টির জন্য। কেননা তারা জাহিলিয়্যাতের নিকটবর্তী।’ (৩১৪৭, ৩৫২৮, ৩৭৭৮, ৩৭৯৩, ৪৩৩১, ৪৩৩২, ৪৩৩৩, ৪৩৩৪, ৪৩৩৭, ৫৮৬০, ৬৭৬২, ৭৪৪১) (মুসলিম ১২/৪৬ হাঃ ১০৫৯, আহমাদ ১৩৯১০) (আধুনিক প্রকাশনীঃ ২৯১১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3146</td></tr><tr><td>Arabic No</td><td>3146</td></tr><tr><td>Reference</td><td>Book 57 Hadith 54</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நான் குறைஷியருடன் நேசத்தை ஏற்படுத்திக்கொள்வதற்காக அவர்களுக்குக் கொடுக்கிறேன். ஏனெனில், அவர்கள் அறியாமைக் காலக் கொள்கையை விட்டு விட்டு (இப்போதுதான்) புதிதாக இஸ்லாத் தில் இணைந்துள்ளனர். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 57
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நான் குறைஷியருடன் நேசத்தை ஏற்படுத்திக்கொள்வதற்காக அவர்களுக்குக் கொடுக்கிறேன். ஏனெனில், அவர்கள் அறியாமைக் காலக் கொள்கையை விட்டு விட்டு (இப்போதுதான்) புதிதாக இஸ்லாத் தில் இணைந்துள்ளனர். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3146</td></tr><tr><td>Arabic No</td><td>3146</td></tr><tr><td>Reference</td><td>Book 57 Hadith 54</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik r.a., Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Ben kalplerini ısındırmak için Kureyş'e böyle mal veriyorum. Çünkü onlar cahiliyyeden yeni çıktılar. " Tekrar: 3528, 3778, 3793, 4331-4334, 4337, 5860, 6762, 7441
+Enes İbn Malik r.a., Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Ben kalplerini ısındırmak için Kureyş'e böyle mal veriyorum. Çünkü onlar cahiliyyeden yeni çıktılar. " Tekrar: 3528, 3778, 3793, 433
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3146</td></tr><tr><td>Arabic No</td><td>3146</td></tr><tr><td>Reference</td><td>Book 57 Hadith 54</td></tr></tbody></table></div>
 

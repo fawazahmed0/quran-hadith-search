@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহ.) হতে বর্ণিত। তিনি বলেনঃ আমি ইবনু ‘উমার (রাযি.)-কে তাঁর উটের দিকে সালাত আদায় করতে দেখেছি। আর ইবনু ‘উমার (রাযি.) বলেছেনঃ আমি দেখেছি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন করতেন। (৫০৭) (আধুনিক প্রকাশনীঃ ৪১২, ইসলামিক ফাউন্ডেশনঃ ৪১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহ.) হতে বর্ণিত। তিনি বলেনঃ আমি ইবনু ‘উমার (রাযি.)-কে তাঁর উটের দিকে সালাত আদায় করতে দেখেছি। আর ইবনু ‘উমার (রাযি.) বলেছেনঃ আমি দেখেছি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন করতেন। (৫০৭) (আধুনিক প্রকাশনীঃ ৪১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>430</td></tr><tr><td>Arabic No</td><td>430</td></tr><tr><td>Reference</td><td>Book 8 Hadith 80</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Shadaqah bin Al Fadll] berkata, telah mengabarka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள் தமது ஒட்டகத்தை (தடுப்பாக வைத்து அதை) நோக்கித் தொழுதுவிட்டு, “நபி (ஸல்) அவர்கள் இவ்வாறு செய்வதை நான் பார்த்திருக்கிறேன்” என்று கூறினார்கள். அத்தியாயம் : 8
+நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள் தமது ஒட்டகத்தை (தடுப்பாக வைத்து அதை) நோக்கித் தொழுதுவிட்டு, “நபி (ஸல்) அவர்கள் இவ்வாறு செய்வதை நான் பார்த்திருக்கிறேன்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>430</td></tr><tr><td>Arabic No</td><td>430</td></tr><tr><td>Reference</td><td>Book 8 Hadith 80</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Shadaqah bin Al Fadll] berkata, telah mengabarka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nâfi'den şöyle dediği nakledilmiştir: "İbn Ömer'i devesine doğru na­maz kılarken gördüm. Onun da Nebi Sallallahu Aleyhi ve Sellem'in de bu şekilde namaz kıldığını gördüğünü söyledi. Tekrar: 507
+Nâfi'den şöyle dediği nakledilmiştir: "İbn Ömer'i devesine doğru na­maz kılarken gördüm. Onun da Nebi Sallallahu Aleyhi ve Sellem'in de bu şekilde namaz kıldığını gördüğünü söyledi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>430</td></tr><tr><td>Arabic No</td><td>430</td></tr><tr><td>Reference</td><td>Book 8 Hadith 80</td></tr></tbody></table></div>
 

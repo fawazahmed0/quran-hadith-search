@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৯৭৪, আন্তর্জাতিক নাম্বারঃ ১২৭৮ ২৯৭৪-(২৬৪/১২৭৮) আবূ বাকর ইবনু আবূ শায়বাহ্ (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আনসারগণ সাফা-মারওয়ার মাঝে তওয়াফকে খারাপ কাজ মনে করত। অতএব এই সঙ্গে নিম্নোক্ত আয়াত নাযিল হয়ঃ "সাফা-মারওয়াহ আল্লাহর নিদর্শনসমূহের অন্যতম। অতএব যে কোন ব্যক্তি বায়তুল্লাহর হজ্জ অথবা উমরাহ পালন করে এতদুভয়ের মাঝে ত্বওয়াফ (তাওয়াফ/তওয়াফ) করলে, তার কোন দোষ নেই ..... ” (ইসলামিক ফাউন্ডেশন ২৯৫০, ইসলামীক সেন্টার ২৯৪৮)
+আবূ বাকর ইবনু আবূ শায়বাহ্ (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আনসারগণ সাফা-মারওয়ার মাঝে তওয়াফকে খারাপ কাজ মনে করত। অতএব এই সঙ্গে নিম্নোক্ত আয়াত নাযিল হয়ঃ "সাফা-মারওয়াহ আল্লাহর নিদর্শনসমূহের অন্যতম। অতএব যে কোন ব্যক্তি বায়তুল্লাহর হজ্জ অথবা উমরাহ পালন করে এতদুভয়ের মাঝে ত্বওয়াফ (তাওয়াফ/তওয়াফ) করলে, তার কোন দোষ নেই ..... ” (ইসলামিক ফাউন্ডেশন ২৯৫০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>1278</td></tr><tr><td>Reference</td><td>Book 15 Hadith 290</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebû Bekir b. Ebi Şeybe rivayet etti. (Dediki): Bize Ebû Muâviye, Asımdan, o da Enes'den naklen rivayet etti. Enes (Radiyallahu anh) şöyle demiş: «Ensâr Safa ile Merve arasında sa'y yapmaktan çekinirdi. Nihayet: (Şüphesiz ki Safa ile Merve, Allah'ın şeârindendir. İmdi her kim beyti hacceder yahut Umre yaparsa, onların arasında sa'y yapmasında bir beis yoktur.) âyet-i kerîmesi nazil oldu.» [Bakara 158]
+Bize Ebû Bekir b. Ebi Şeybe rivayet etti. (Dediki): Bize Ebû Muâviye, Asımdan, o da Enes'den naklen rivayet etti. Enes (Radiyallahu anh) şöyle demiş: «Ensâr Safa ile Merve arasında sa'y yapmaktan çekinirdi. Nihayet: (Şüphesiz ki Safa ile Merve, Allah'ın şeârindendir. İmdi her kim beyti hacceder yahut Umre yaparsa, onların arasında sa'y yapmasında bir beis yoktur.) âyet-i kerîmesi nazil oldu.» [Bakara]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>1278</td></tr><tr><td>Reference</td><td>Book 15 Hadith 290</td></tr></tbody></table></div>
 

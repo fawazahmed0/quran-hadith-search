@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বকর ইবন আবূ শায়বা (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি জ্যোর্তিবিজ্ঞান সম্পর্কে কিছু জ্ঞান লাভ করে, সে যেন যাদু বিদ্যার কিছু শিক্ষা লাভ করে। আর সে ব্যক্তি তা যত বেশী চর্চা করবে, ততই তার যাদু বিদ্যার চর্চা হবে।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি জ্যোতিষীর জ্ঞান শিক্ষা করলো সে যাদু বিদ্যার একটা শাখা শিক্ষা করলো। তা যতো বৃদ্ধি পাবে যাদুবিদ্যাও ততো বাড়বে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3905</td></tr><tr><td>Arabic No</td><td>3905</td></tr><tr><td>Reference</td><td>Book 30 Hadith 2</td></tr></tbody></table></div>
 

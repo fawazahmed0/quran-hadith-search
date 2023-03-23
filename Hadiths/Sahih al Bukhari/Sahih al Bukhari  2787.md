@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে বলতে শুনেছি, আল্লাহর পথের মুজাহিদ, অবশ্য আল্লাহ্ই অধিক জ্ঞাত কে তাঁর পথে জিহাদ করছে, সর্বদা সিয়াম পালনকারী ও সালাত আদায়কারীর মত। আল্লাহ্ তা‘আলা তাঁর পথে জিহাদকারীর জন্য এই দায়িত্ব নিয়েছেন, যদি তাকে মৃত্যু দেন তবে তাকে জান্নাতে প্রবেশ করাবেন অথবা পুরস্কার বা গানীমতসহ নিরাপদে ফিরিয়ে আনবেন। (৩৬) (আধুনিক প্রকাশনীঃ ২৫৮১, ইসলামিক ফাউন্ডেশনঃ ২৫৯৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-কে বলতে শুনেছি, আল্লাহর পথের মুজাহিদ, অবশ্য আল্লাহ্ই অধিক জ্ঞাত কে তাঁর পথে জিহাদ করছে, সর্বদা সিয়াম পালনকারী ও সালাত আদায়কারীর মত। আল্লাহ্ তা‘আলা তাঁর পথে জিহাদকারীর জন্য এই দায়িত্ব নিয়েছেন, যদি তাকে মৃত্যু দেন তবে তাকে জান্নাতে প্রবেশ করাবেন অথবা পুরস্কার বা গানীমতসহ নিরাপদে ফিরিয়ে আনবেন। (৩৬) (আধুনিক প্রকাশনীঃ ২৫৮১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2787</td></tr><tr><td>Arabic No</td><td>2787</td></tr><tr><td>Reference</td><td>Book 56 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'ai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இறைவழியில் போராடுபவரின் நிலை யானது, லிஉண்மையாகப் போராடுபவர் யார் என்பது அல்லாஹ்வுக்கே தெரியும்லி (அல்லாஹ்வைத்) தொழுதும், (அவனுக்காக) நோன்பு நோற்றும்வருபவரின் நிலையைப் போன்றதாகும். அல்லாஹ், தன் பாதையில் போராடுபவரின் உயிர்த் தியாகத்தை ஏற்று, அவரைச் சொர்க்கத்தில் அனுமதிக்கப் பொறுப்பேற்றுக்கொண்டுள்ளான். அல்லது நன்மையுடனோ போர்ச் செல்வத்துடனோ அவரைத் திரும்பவைக்கப் பொறுப்பேற்றுக் கொண்டுள்ளான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 56
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இறைவழியில் போராடுபவரின் நிலை யானது, லிஉண்மையாகப் போராடுபவர் யார் என்பது அல்லாஹ்வுக்கே தெரியும்லி (அல்லாஹ்வைத்) தொழுதும், (அவனுக்காக) நோன்பு நோற்றும்வருபவரின் நிலையைப் போன்றதாகும். அல்லாஹ், தன் பாதையில் போராடுபவரின் உயிர்த் தியாகத்தை ஏற்று, அவரைச் சொர்க்கத்தில் அனுமதிக்கப் பொறுப்பேற்றுக்கொண்டுள்ளான். அல்லது நன்மையுடனோ போர்ச் செல்வத்துடனோ அவரைத் திரும்பவைக்கப் பொறுப்பேற்றுக் கொண்டுள்ளான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2787</td></tr><tr><td>Arabic No</td><td>2787</td></tr><tr><td>Reference</td><td>Book 56 Hadith 6</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'ai
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den nakledilmiştir: Nebi'i Sallallahu Aleyhi ve Sellem şöyle buyururken işittim: "Allah yolunda cihad eden -ki Allah yolunda cihad edenin kim olduğunu en iyi O bilir- aralıksız oruç tutan ve namaz kılan gibidir. Allah, kendisi uğruna cihad edene, canını alıp cennetine koymayı veya sevapla ya da ganimetle sapasağlam geri dönmeyi garanti etmiştir." Tekrar: 6494
+Ebu Hureyre r.a.'den nakledilmiştir: Nebi'i Sallallahu Aleyhi ve Sellem şöyle buyururken işittim: "Allah yolunda cihad eden -ki Allah yolunda cihad edenin kim olduğunu en iyi O bilir- aralıksız oruç tutan ve namaz kılan gibidir. Allah, kendisi uğruna cihad edene, canını alıp cennetine koymayı veya sevapla ya da ganimetle sapasağlam geri dönmeyi garanti etmiştir." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2787</td></tr><tr><td>Arabic No</td><td>2787</td></tr><tr><td>Reference</td><td>Book 56 Hadith 6</td></tr></tbody></table></div>
 

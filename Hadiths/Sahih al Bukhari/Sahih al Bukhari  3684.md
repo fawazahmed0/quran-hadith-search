@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, যেদিন ‘উমার (রাঃ) ইসলাম গ্রহণ করেন, সেদিন হতে আমরা অত্যন্ত মর্যাদাশীল হয়ে আসছি। (৩৮৬৩) (আধুনিক প্রকাশনীঃ ৩৪০৯, ইসলামিক ফাউন্ডেশনঃ ৩৪১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবদুল্লাহ্ ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, যেদিন ‘উমার (রাঃ) ইসলাম গ্রহণ করেন, সেদিন হতে আমরা অত্যন্ত মর্যাদাশীল হয়ে আসছি। (৩৮৬৩) (আধুনিক প্রকাশনীঃ ৩৪০৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3684</td></tr><tr><td>Arabic No</td><td>3684</td></tr><tr><td>Reference</td><td>Book 62 Hadith 34</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: உமர் (ரலி) அவர்கள் இஸ்லாத்தை ஏற்ற நேரத்திலிருந்து நாங்கள் வலிமையும் கண்ணியமும் உடையவர்களாகத் திகழலானோம். இதை கைஸ் பின் அபீஹாஸிம் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 62
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: உமர் (ரலி) அவர்கள் இஸ்லாத்தை ஏற்ற நேரத்திலிருந்து நாங்கள் வலிமையும் கண்ணியமும் உடையவர்களாகத் திகழலானோம். இதை கைஸ் பின் அபீஹாஸிம் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3684</td></tr><tr><td>Arabic No</td><td>3684</td></tr><tr><td>Reference</td><td>Book 62 Hadith 34</td></tr></tbody></table></div>
 

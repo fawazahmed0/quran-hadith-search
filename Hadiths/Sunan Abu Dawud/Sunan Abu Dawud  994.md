@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন যায়েদ (রহঃ) ..... ইবন উমার (রাঃ) হতে বর্ণিত। তিনি এক ব্যক্তিকে নামাযের মধ্যে বাম হাতের উপর ভর করে বসতে দেখেন। রাবী হারূন ইবন যায়েদের বর্ণনায় আছেঃ তিনি তাঁকে বাম দিকের নিতম্বে ভর দিয়ে বসা দেখেন। অতঃপর উভয় রাবীর সম্মিলিত বর্ণনা অনুযায়ী তিনি বলেনঃ তুমি এভাবে বস না। কারণ এভাবে শাস্তিযোগ্য ব্যক্তিরাই বসে থাকে।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি এক ব্যক্তিকে সালাতে বসা অবস্থায় তার বাম হাতের উপর ভর করে থাকতে দেখলেন। হারুন ইবনু যায়িদ বর্ণনা করেন, সে বাম পাশে পড়ে আছে। হাদীসের বাকী অংশ তারা উভয়ে একইরূপ বর্ণনা করেছেন। (তা হলো) ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) লোকটিকে বললেন, এভাবে বসবে না। কারণ যাদেরকে শাস্তি দেয়া হবে তারাই এভাবে বসে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>994</td></tr><tr><td>Arabic No</td><td>994</td></tr><tr><td>Reference</td><td>Book 2 Hadith 605</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Harun bin Zaid bin Abu Az Zarqa'] telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn-i Ömer'den rivayet edildiğine göre "namazda otururken sol eli üzerine dayanan -Hârûn b. Zeyd, "sol yanına düşen" der-bir adam görüp kendisine: Bu şekilde oturma, çünkü azab edilecek olanlar böyle oturur, dedi. Diğer tahric: Ahmed b. Hanbel, II, 116
+İbn-i Ömer'den rivayet edildiğine göre "namazda otururken sol eli üzerine dayanan -Hârûn b. Zeyd, "sol yanına düşen" der-bir adam görüp kendisine: Bu şekilde oturma, çünkü azab edilecek olanlar böyle oturur, dedi. Diğer tahric: Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>994</td></tr><tr><td>Arabic No</td><td>994</td></tr><tr><td>Reference</td><td>Book 2 Hadith 605</td></tr></tbody></table></div>
 

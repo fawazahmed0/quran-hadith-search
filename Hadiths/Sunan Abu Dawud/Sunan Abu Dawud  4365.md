@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইব্‌ন ইসমাঈল (রহঃ) .... আবূ আইউব তার সনদে এরূপ বর্ণনা করেছেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূঁচ গরম করার নির্দেশ দেন, যা তাদের চোখে ঢুকিয়ে দেওয়া হয় এবং তাদের হাত-পা কেটে ফেলা হয় এবং তাদের সম্পূর্ণরূপে হত্যা করা হয়নি। (কারণ তারা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর রাখালকে এভাবে শাস্তি দিয়ে হত্যা করেছিল।)
+। আইয়ূব (রহঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। বর্ণনাকারী বলেন, তাঁর (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আদেশে লৌহ শলাকা উত্তপ্ত করা হয়, তাদের চোখে ফুঁড়ে দেয়া হয়, হাত-পা কেটে দেয়া হয় এবং তাদের রক্তপ্রবাহ বন্ধ করেননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4365</td></tr><tr><td>Arabic No</td><td>4365</td></tr><tr><td>Reference</td><td>Book 40 Hadith 15</td></tr></tbody></table></div>
 

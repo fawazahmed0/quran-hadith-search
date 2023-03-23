@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, বনী ইসরাঈলকে আদেশ দেয়া হয়েছিল, ‘‘তোমরা দরজা দিয়ে অবনত মস্তকে প্রবেশ কর আর মুখে বল, ‘হিত্তাতুন’ (অর্থাৎ হে আল্লাহ! আমাদের গুনাহ ক্ষমা করে দাও।)’’ (আল-বাকারাহঃ ৫৮) কিন্তু তারা এ শব্দটি পরিবর্তন করে ফেলল এবং প্রবেশ দ্বারে যেন নতজানু হতে না হয় সে জন্য তারা নিজ নিজ নিতম্বের ওপর ভর দিয়ে শহরে প্রবেশ করল আর মুখে বলল, ‘হাববাতুন্ ফী শা‘আরাতিন’’ (অর্থাৎ হে আল্লাহ্! আমাদেরকে যবের দানা দাও।) (৪৪৭৯, ৪৬৪১) (আধুনিক প্রকাশনীঃ ৩১৫২, ইসলামিক ফাউন্ডেশনঃ ৩১৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, বনী ইসরাঈলকে আদেশ দেয়া হয়েছিল, ‘‘তোমরা দরজা দিয়ে অবনত মস্তকে প্রবেশ কর আর মুখে বল, ‘হিত্তাতুন’ (অর্থাৎ হে আল্লাহ! আমাদের গুনাহ ক্ষমা করে দাও।)’’ (আল-বাকারাহঃ ৫৮) কিন্তু তারা এ শব্দটি পরিবর্তন করে ফেলল এবং প্রবেশ দ্বারে যেন নতজানু হতে না হয় সে জন্য তারা নিজ নিজ নিতম্বের ওপর ভর দিয়ে শহরে প্রবেশ করল আর মুখে বলল, ‘হাববাতুন্ ফী শা‘আরাতিন’’ (অর্থাৎ হে আল্লাহ্! আমাদেরকে যবের দানা দাও।) (৪৪৭৯, ৪৬৪১) (আধুনিক প্রকাশনীঃ ৩১৫২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 60 Hadith 76</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Ishaq bin Nashr] telah bercerita kepada kami ['Abdur R
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இஸ்ரவேலர்களுக்கு, ‘‘(ஊருக்குள் நுழையும்போது) அதன் வாசலில், சிரம் தாழ்த்தியவாறும் யிஹித்தத்துன்’ (யிபாவமன்னிப்புக் கோருகிறோம்’) என்று சொல்லியவாறும் நுழையுங்கள்” என்று கட்டளையிடப்பட்டது. ஆனால், அவர்கள் (யிஹித்தத்துன்’ என்னும் சொல்லை யிஹின்தத்துன்’லிகோதுமை என்று) மாற்றி விட்டார்கள்; தங்கள் புட்டங்களால் தவழ்ந்தபடி (ஊருக்குள்) நுழைந்தார்கள்; மேலும், தீட்டப்படாத ஒரு கோதுமைக்குள் ஒரு தானிய வித்து என்று சொன்னார் கள்.82 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 60
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இஸ்ரவேலர்களுக்கு, ‘‘(ஊருக்குள் நுழையும்போது) அதன் வாசலில், சிரம் தாழ்த்தியவாறும் யிஹித்தத்துன்’ (யிபாவமன்னிப்புக் கோருகிறோம்’) என்று சொல்லியவாறும் நுழையுங்கள்” என்று கட்டளையிடப்பட்டது. ஆனால், அவர்கள் (யிஹித்தத்துன்’ என்னும் சொல்லை யிஹின்தத்துன்’லிகோதுமை என்று) மாற்றி விட்டார்கள்; தங்கள் புட்டங்களால் தவழ்ந்தபடி (ஊருக்குள்) நுழைந்தார்கள்; மேலும், தீட்டப்படாத ஒரு கோதுமைக்குள் ஒரு தானிய வித்து என்று சொன்னார் கள்.82 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 60 Hadith 76</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepadaku [Ishaq bin Nashr] telah bercerita kepada kami ['Abdur R
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "İsrailoğullarına: 'Kapıdan içeriye secde ederek girin ve hıtta deyin' denildi. Onlar ise sözü değiştirdiler ve arkalarını dönerek girdiler. habbe (Bir arpa içinde bir buğday olsun), dediler. " Tekrar: 4479, 4641
+Ebu Hureyre r.a dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "İsrailoğullarına: 'Kapıdan içeriye secde ederek girin ve hıtta deyin' denildi. Onlar ise sözü değiştirdiler ve arkalarını dönerek girdiler. habbe (Bir arpa içinde bir buğday olsun), dediler. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 60 Hadith 76</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, একবার আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিব্রাঈল (আঃ)-কে জিজ্ঞেস করলেন, আপনি আমার কাছে যতবার আসেন তার চেয়ে অধিক আমার সঙ্গে সাক্ষাৎ করেন না কেন? রাবী বলেন, তখন এ আয়াত অবতীর্ণ হয়ঃ ‘‘(জিবরাঈল বলল:) আমি আপনার রবের আদেশ ব্যতিরেকে আসতে পারি না। তাঁরই আয়ত্বে রয়েছে যা কিছু আমাদের সামনে আছে, যা আমাদের পশ্চাতে আছে এবং যা কিছু এর মধ্যস্থলে আছে’’- (মারইয়াম ৬৪)। (৪৭৩১, ৭৪৫৫) (আধুনিক প্রকাশনীঃ ২৯৭৮, ইসলামিক ফাউন্ডেশনঃ ২৯৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, একবার আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিব্রাঈল (আঃ)-কে জিজ্ঞেস করলেন, আপনি আমার কাছে যতবার আসেন তার চেয়ে অধিক আমার সঙ্গে সাক্ষাৎ করেন না কেন? রাবী বলেন, তখন এ আয়াত অবতীর্ণ হয়ঃ ‘‘(জিবরাঈল বলল:) আমি আপনার রবের আদেশ ব্যতিরেকে আসতে পারি না। তাঁরই আয়ত্বে রয়েছে যা কিছু আমাদের সামনে আছে, যা আমাদের পশ্চাতে আছে এবং যা কিছু এর মধ্যস্থলে আছে’’- (মারইয়াম ৬৪)। (৪৭৩১, ৭৪৫৫) (আধুনিক প্রকাশনীঃ ২৯৭৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3218</td></tr><tr><td>Arabic No</td><td>3218</td></tr><tr><td>Reference</td><td>Book 59 Hadith 29</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) asked Gabriel, "Why don't you visit us more often than you do?" Then the following Holy Verse was revealed (in this respect):-- "And we (angels) descend not but by the order of your Lord. To Him belong what is before us and what is behind us, and what is between those two and your Lord was never forgetful." (19.64)
+Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) asked Gabriel, "Why don't you visit us more often than you do?" Then the following Holy Verse was revealed (in this respect):-- "And we (angels) descend not but by the order of your Lord. To Him belong what is before us and what is behind us, and what is between those two and your Lord was never forgetful
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3218</td></tr><tr><td>Arabic No</td><td>3218</td></tr><tr><td>Reference</td><td>Book 59 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) asked Gabriel, "Why don't you visit 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (வானவர்) ஜிப்ரீல் (அலை) அவர்களிடம், ‘‘தாங்கள் (இப்போது) எம்மைச் சந்தித்துக் கொண்டிருப்பதைவிட அதிகமாக (அடிக்கடி) சந்திக்கமாட்டீர்களா?” என்று (ஆர்வமுடன்) கேட்டார்கள். அப்போது, ‘‘(நபியே!) நாம் உங்கள் இறைவனின் உத்தரவின்றி இறங்கு வதில்லை. எமக்கு முன்னிருப்பவையும் எமக்குப் பின்னால் இருப்பவையும் அவனுக்கே உரியவை” (19:64) எனும் இறைவசனம் அருளப்பட்டது.29 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 59
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (வானவர்) ஜிப்ரீல் (அலை) அவர்களிடம், ‘‘தாங்கள் (இப்போது) எம்மைச் சந்தித்துக் கொண்டிருப்பதைவிட அதிகமாக (அடிக்கடி) சந்திக்கமாட்டீர்களா?” என்று (ஆர்வமுடன்) கேட்டார்கள். அப்போது, ‘‘(நபியே!) நாம் உங்கள் இறைவனின் உத்தரவின்றி இறங்கு வதில்லை. எமக்கு முன்னிருப்பவையும் எமக்குப் பின்னால் இருப்பவையும் அவனுக்கே உரியவை” (19:64) எனும் இறைவசனம் அருளப்பட்டது.29 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3218</td></tr><tr><td>Arabic No</td><td>3218</td></tr><tr><td>Reference</td><td>Book 59 Hadith 29</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) asked Gabriel, "Why don't you visit 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Abbas r.a.'dan nakledildiğine göre Resulullah Sallallahu Aleyhi ve Sellem Cebrail'e: "Bizi daha sık ziyaret etseniz keşke?" dedi ve bu talep üzerine "Rabbinin emri olmadıkça biz (meleklerden olan elçiler) inmeyiz. Geçmişimizi, geleceğimizi ve ikisinin arasındakileri bilmek O'na mahsustur. "[Meryem, 64] ayeti nazil oldu." Tekrar: 4731, 7455
+Abdullah İbn Abbas r.a.'dan nakledildiğine göre Resulullah Sallallahu Aleyhi ve Sellem Cebrail'e: "Bizi daha sık ziyaret etseniz keşke?" dedi ve bu talep üzerine "Rabbinin emri olmadıkça biz (meleklerden olan elçiler) inmeyiz. Geçmişimizi, geleceğimizi ve ikisinin arasındakileri bilmek O'na mahsustur. "[Meryem, 64] ayeti nazil oldu." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3218</td></tr><tr><td>Arabic No</td><td>3218</td></tr><tr><td>Reference</td><td>Book 59 Hadith 29</td></tr></tbody></table></div>
 

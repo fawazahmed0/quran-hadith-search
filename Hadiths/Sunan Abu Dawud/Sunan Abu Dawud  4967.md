@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ও আবূ বকর (রহঃ) ..... মুহাম্মদ ইবন হানাফীয়া (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আলী (রাঃ) বলেছেনঃ একদা আমি জিজ্ঞাসা করিঃ ইয়া রাসূলাল্লাহ! আপনার ইন্তিকালের পর যদি আমার ঔরসে কোন সন্তান জন্ম নেয়, তবে আমি তার নাম ও কুনিয়াত আপনার নাম ও কুনিয়াতের অনুরূপ রাখতে পারবো কি। তিনি বলেনঃ হ্যাঁ। রাবী আবূ বকর (রহঃ) তার বর্ণনায়ঃ 'আমি জিজ্ঞাসা করি' নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে, আলী (রাঃ)-এর এ উক্তিটির উল্লেখ নেই।
+। মুহাম্মাদ ইবনুল হানাফিয়া (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আলী (রাঃ) বলেছেন, আমি বললাম, হে আল্লাহর রাসূল! আপনার ইন্তিকালের পরে আমার যদি কোনো পুত্র সন্তান জন্মগ্রহণ করে তাহলে আমি কি তার নাম ও উপনাম আপনার নাম ও উপনামে রাখবো? তিনি বললেন, হ্যাঁ। বর্ণনাকারী আবূ বাকর (রাঃ)-এর বর্ণনায় ‘আমি বললাম’ কথাটি নেই, রয়েছে ‘আলী (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4967</td></tr><tr><td>Arabic No</td><td>4967</td></tr><tr><td>Reference</td><td>Book 43 Hadith 195</td></tr></tbody></table></div>
 

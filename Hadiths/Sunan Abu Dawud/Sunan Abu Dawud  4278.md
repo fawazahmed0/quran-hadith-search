@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইব্‌ন আবূ শায়বা (রহঃ) .... আবূ মূসা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার এ উম্মতের উপর আল্লাহ্‌র রহমত আছে। আখিরাতে তারা (স্থায়ী) আযাব ভোগ করবে না। বরং তাদের কাফ্‌ফারা এভাবে হবে যে, দুনিয়াতে তাদের শাস্তি হবে-ফিতনা, ভূমিকম্প এবং হত্যা।
+। আবূ মূসা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার এ উম্মত দয়াপ্রাপ্ত, পরকালে এদের কোনো শাস্তি হবে না, আর ইহকালে তাদের শাস্তি হলো ফিত্বনাসমূহ, ভূমিকম্প ও যুদ্ধ বিগ্রহ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4278</td></tr><tr><td>Arabic No</td><td>4278</td></tr><tr><td>Reference</td><td>Book 37 Hadith 39</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একাধারে (এত অধিক) সওম পালন করতেন যে, আমরা বলাবলি করতাম, তিনি আর সওম পরিত্যাগ করবেন না। (আবার কখনো এত বেশি) সওম পালন না করা অবস্থায় একাধারে কাটাতেন যে, আমরা বলাবলি করতাম, তিনি আর (নফল) সওম পালন করবেন না। আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে রমাযান ব্যতীত কোন পুরা মাসের সওম পালন করতে দেখিনি এবং শা‘বান মাসের চেয়ে কোন মাসে অধিক (নফল) সওম পালন করতে দেখিনি। (১৯৭০, ৬৪৬৫, মুসলিম ১৩/৩৩, হাঃ ১১৫৬, আহমাদ ২৫১৫৫) (আধুনিক প্রকাশনীঃ১৮৩০, ইসলামিক ফাউন্ডেশনঃ১৮৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একাধারে (এত অধিক) সওম পালন করতেন যে, আমরা বলাবলি করতাম, তিনি আর সওম পরিত্যাগ করবেন না। (আবার কখনো এত বেশি) সওম পালন না করা অবস্থায় একাধারে কাটাতেন যে, আমরা বলাবলি করতাম, তিনি আর (নফল) সওম পালন করবেন না। আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে রমাযান ব্যতীত কোন পুরা মাসের সওম পালন করতে দেখিনি এবং শা‘বান মাসের চেয়ে কোন মাসে অধিক (নফল) সওম পালন করতে দেখিনি। (১৯৭০, ৬৪৬৫, মুসলিম ১৩/৩৩, হাঃ ১১৫৬, আহমাদ ২৫১৫৫) (আধুনিক প্রকাশনীঃ১৮৩০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 30 Hadith 76</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (இனி) நோன்பை விடவே மாட்டார்கள் என்று நாங்கள் கூறுமளவுக்கு அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் நோன்பு நோற்பார்கள்; (இனி) நோன்பு நோற்கவே மாட்டார்கள் என்று நாங்கள் கூறுமளவுக்கு நோன்பை விட்டுவிடுவார்கள். ரமளானைத் தவிர வேறெந்த மாதத்திலும் மாதம் முழுவதும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நோன்பு நோற்றதை நான் பார்த்ததில்லை; ஷஅபான் மாதத்தில் தவிர (வேறெந்த மாதத்திலும்) அதிகமாக அவர்கள் நோன்பு நோற்றதையும் நான் பார்த்ததில்லை. அத்தியாயம் : 30
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (இனி) நோன்பை விடவே மாட்டார்கள் என்று நாங்கள் கூறுமளவுக்கு அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் நோன்பு நோற்பார்கள்; (இனி) நோன்பு நோற்கவே மாட்டார்கள் என்று நாங்கள் கூறுமளவுக்கு நோன்பை விட்டுவிடுவார்கள். ரமளானைத் தவிர வேறெந்த மாதத்திலும் மாதம் முழுவதும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நோன்பு நோற்றதை நான் பார்த்ததில்லை; ஷஅபான் மாதத்தில் தவிர (வேறெந்த மாதத்திலும்) அதிகமாக அவர்கள் நோன்பு நோற்றதையும் நான் பார்த்ததில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 30 Hadith 76</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem öyle oruç tutardı ki "artık oruçsuz zaman geçirmeyecek" derdik. Bazen de öyle bırakırdı ki "bir daha oruç tutmayacak" derdik. Resulullah'ın Ramazan ayı dışında tüm ayı oruçlu geçirdiğini görmedim. Şa'ban ayından daha çok oruç tuttuğunu da görmedim. Tektar: 1970, 6465
+Aişe r.anha şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem öyle oruç tutardı ki "artık oruçsuz zaman geçirmeyecek" derdik. Bazen de öyle bırakırdı ki "bir daha oruç tutmayacak" derdik. Resulullah'ın Ramazan ayı dışında tüm ayı oruçlu geçirdiğini görmedim. Şa'ban ayından daha çok oruç tuttuğunu da görmedim. Tektar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 30 Hadith 76</td></tr></tbody></table></div>
 

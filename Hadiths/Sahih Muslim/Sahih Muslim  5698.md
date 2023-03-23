@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫৯১, আন্তর্জাতিক নাম্বারঃ ২১৮৪ ৫৫৯১-(…/...) ইসহাক ইবনু ইবরাহীম ও ইবনু আবূ উমর (রহঃ) ..... আল্ আ'মাশ (রহঃ) এর সানাদে উপরোল্লিখিত সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৫১০, ইসলামিক সেন্টার ৫৫৩৫)
+(…/...) ইসহাক ইবনু ইবরাহীম ও ইবনু আবূ উমর (রহঃ) ..... আল্ আ'মাশ (রহঃ) এর সানাদে উপরোল্লিখিত সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৫১০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5698</td></tr><tr><td>Arabic No</td><td>2184.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 52</td></tr></tbody></table></div>
 

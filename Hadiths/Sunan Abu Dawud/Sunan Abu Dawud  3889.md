@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ (রহঃ) .... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মন্ত্র তো কেবল বদ-নজর বিষধর জন্তুর দংশন ও রক্ত প্রবাহের জন্য উপকারী।
+। আনাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেবল বদনযর লাগা বা বিষাক্ত প্রাণীর দংশন বা রক্ত বইতে থাকলে ঝাড়ফুঁক দেয়া চলে। বর্ণনাকারী আল-আব্বাস (রহঃ) বদনযরের উল্লেখ করেননি। তবে সুলাইমান ইবনু দাঊদ তা উল্লেখ করেছেন।[1] দুর্বলঃ মিশকাত (৪৫৫৭)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3889</td></tr><tr><td>Arabic No</td><td>3889</td></tr><tr><td>Reference</td><td>Book 29 Hadith 35</td></tr></tbody></table></div>
 

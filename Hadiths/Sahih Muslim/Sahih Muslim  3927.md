@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৮১৯, আন্তর্জাতিক নাম্বারঃ ১৫৩৬ ৩৮১৯-(৯৮/...) হাজ্জাজ ইবনু শাইর (রহঃ) ... আ'মাশ (রহঃ) এর সূত্রে উপরোক্ত হাদীস বর্ণনা করেন। অবশ্য তিনি বলেছেন যে, সে যেন তা চাষ করে অথবা অন্য লোককে চাষ করতে দেয়। (ইসলামিক ফাউন্ডেশন ৩৭৮৩, ইসলামিক সেন্টার ৩৭৮৩)
+হাজ্জাজ ইবনু শাইর (রহঃ) ... আ'মাশ (রহঃ) এর সূত্রে উপরোক্ত হাদীস বর্ণনা করেন। অবশ্য তিনি বলেছেন যে, সে যেন তা চাষ করে অথবা অন্য লোককে চাষ করতে দেয়। (ইসলামিক ফাউন্ডেশন ৩৭৮৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3927</td></tr><tr><td>Arabic No</td><td>1536.22</td></tr><tr><td>Reference</td><td>Book 21 Hadith 126</td></tr></tbody></table></div>
 

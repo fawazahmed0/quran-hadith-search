@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩০৪১। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, যখন তোমরা জামরায় কংকর নিক্ষেপ করলে, তখন তোমাদের জন্য স্ত্রীসংগ ব্যতীত সবকিছু হালাল হয়ে গেলো। এক ব্যক্তি তাকে জিজ্ঞেস করেন, হে ইবনে আব্বাস! সুগন্ধিও? তিনি বলেন, এ বিষয়ে আমার বক্তব্য এই যে, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে নিজ মাথায় কস্ত্তরী মাখতে দেখেছি (কংকর নিক্ষেপের পরে)। তা সুগন্ধি কি নয়?
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, যখন তোমরা জামরায় কংকর নিক্ষেপ করলে, তখন তোমাদের জন্য স্ত্রীসংগ ব্যতীত সবকিছু হালাল হয়ে গেলো। এক ব্যক্তি তাকে জিজ্ঞেস করেন, হে ইবনে আব্বাস! সুগন্ধিও? তিনি বলেন, এ বিষয়ে আমার বক্তব্য এই যে, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে নিজ মাথায় কস্ত্তরী মাখতে দেখেছি (কংকর নিক্ষেপের পরে)। তা সুগন্ধি কি নয়?
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3041</td></tr><tr><td>Arabic No</td><td>3041</td></tr><tr><td>Reference</td><td>Book 25 Hadith 160</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ali bin Muhammad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.)’dan rivâyete göre, şöyle demiştir: Cemreler taşlandıktan sonra kadınlarla cinsel ilişki dışında her şey helaldir. “Güzel kokuda helâl midir?” diye soruldu. O da şöyle karşılık verdi: “Rasûlullah (Sallallau Aleyhi ve Sellem)’i misk kokusunu süründüğünü gördüm. Acaba o koku sayılır mı?” Diğer tahric edenler: Nesai, Menasik-i Hac; Müsned-i Hanbel: 1986
+İbn Abbas (r.a.)’dan rivâyete göre, şöyle demiştir: Cemreler taşlandıktan sonra kadınlarla cinsel ilişki dışında her şey helaldir. “Güzel kokuda helâl midir?” diye soruldu. O da şöyle karşılık verdi: “Rasûlullah (Sallallau Aleyhi ve Sellem)’i misk kokusunu süründüğünü gördüm. Acaba o koku sayılır mı?” Diğer tahric edenler: Nesai, Menasik-i Hac; Müsned-i Hanbel:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3041</td></tr><tr><td>Arabic No</td><td>3041</td></tr><tr><td>Reference</td><td>Book 25 Hadith 160</td></tr></tbody></table></div>
 

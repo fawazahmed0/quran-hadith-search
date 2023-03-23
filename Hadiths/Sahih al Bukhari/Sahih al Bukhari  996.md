@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের সকল অংশে (অর্থাৎ বিভিন্ন রাতে বিভিন্ন সময়ে) বিতর আদায় করতেন আর (জীবনের) শেষ দিকে সাহরির সময় তিনি বিতর আদায় করতেন। (মুসলিম ৬/১৭, হাঃ ৭৪৫ আহমাদ ২৪২৪৩, ২৪৮১৩) (আধুনিক প্রকাশনীঃ ৯৩৭, ইসলামিক ফাউন্ডেশনঃ ৯৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের সকল অংশে (অর্থাৎ বিভিন্ন রাতে বিভিন্ন সময়ে) বিতর আদায় করতেন আর (জীবনের) শেষ দিকে সাহরির সময় তিনি বিতর আদায় করতেন। (মুসলিম ৬/১৭, হাঃ ৭৪৫ আহমাদ ২৪২৪৩, ২৪৮১৩) (আধুনিক প্রকাশনীঃ ৯৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>996</td></tr><tr><td>Arabic No</td><td>996</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: இரவின் எல்லாப் பகுதியிலும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் வித்ர் தொழுகை தொழுதிருக்கிறார்கள். (பல சமயம்) அவர்களின் வித்ர் தொழுகை சஹர் நேரத்தில் முடியும். அத்தியாயம் : 14
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: இரவின் எல்லாப் பகுதியிலும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் வித்ர் தொழுகை தொழுதிருக்கிறார்கள். (பல சமயம்) அவர்களின் வித்ர் தொழுகை சஹர் நேரத்தில் முடியும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>996</td></tr><tr><td>Arabic No</td><td>996</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
 

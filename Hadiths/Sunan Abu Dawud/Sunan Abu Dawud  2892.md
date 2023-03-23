@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন সারহ (রহঃ) ..... জাবির ইবন ‘আবদিল্লাহ্ (রাঃ) থেকে বর্ণিত। সা‘দ ইবন রাবী' এর স্ত্রী বলেন, ইয়া রাসূলাল্লাহ! সা‘দ মারা গিয়েছে এবং এ দু‘টি মেয়ে রেখে গিয়েছে। অতঃপর পূর্বোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে। আবূ দাঊদ (রহঃ) বলেনঃ এ হাদীছটি সহীহ।
+। জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। সা‘দ ইবনুল রবী‘ (রাঃ)-এর স্ত্রী বলেন, হে আল্লাহর রাসূল! সা‘দ (রাঃ) দুনিয়া থেকে বিদায় নিয়েছেন এবং দু’টি কন্যা সন্তান রেখে গেছেন। অতঃপর হাদীসের বাকী অংশ উপরের হাদীসের অনুরূপ। আবূ দাঊদ (রহঃ) বলেন, এ হাদীসটি অধিক সঠিক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2892</td></tr><tr><td>Arabic No</td><td>2892</td></tr><tr><td>Reference</td><td>Book 19 Hadith 8</td></tr></tbody></table></div>
 

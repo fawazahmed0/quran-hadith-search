@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুআম্মাল ইব্‌ন ফযল (রহঃ) .... হাস্‌সান ইব্‌ন আতিয়া (রহঃ) থেকে হাদীছ বর্ণনা করেছেন। সেখানে এতটুকু অতিরিক্ত বর্ণিত হয়েছে যে, সে সময় মুসলিম সৈন্যগণ দ্রুত তাদের অস্ত্র-শস্ত্রে সজ্জিত হয়ে যুদ্ধে লিপ্ত হবে। তখন আল্লাহ্‌ তাদেরকে শহীদ হওয়ার কারণে সম্মানিত করবেন। ওয়ালীদ (রহঃ) .... জুবায়র ও মিখবার (রাঃ) থেকে। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন।
+। হাস্‌সান ইবনু আতিয়্যাহ (রহঃ) সূত্রে এই সনদে উপরোক্ত হাদীস বর্ণিত হয়েছে। তাতে আরো আছেঃ মুসলিমরা রাগের সাথে তাদের যুদ্ধাস্ত্রের দিকে ধাবিত হবে এবং যুদ্ধে লিপ্ত হবে। আল্লাহ তাদেরকে শহিদী মৃত্যু দিয়ে সম্মানিত করবেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4293</td></tr><tr><td>Arabic No</td><td>4293</td></tr><tr><td>Reference</td><td>Book 39 Hadith 3</td></tr></tbody></table></div>
 

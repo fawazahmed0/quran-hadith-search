@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+রাবী বলেন, আমাকে যায়দ ইবনু সাবিত (রাঃ) বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অনুমান করে আরায়া এর অনুমতি দিয়েছেন। (২১৮৪, ২১৮৮, ২১৯২, ২৩৮০) (আধুনিক প্রকাশনীঃ ২০২৩ , ইসলামিক ফাউন্ডেশনঃ ২০৩৮ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2172</td></tr><tr><td>Arabic No</td><td>2172</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் யிமுஸாபனா’ எனும் வியாபாரத்தைத் தடை செய்தார்கள். யிமுஸாபனா’ என்பது, மரத்திலுள்ள பேரீச்சம் பழத்தை முகத்தலளவையில் (அளக்கப்பட்ட உலர்ந்த பேரீச்சம் பழத்திற்கு) விற்கும்போது, ‘அது அதிகமாக இருந்தால் அது என்னைச் சேர்ந்தது; அது குறைந்தாலும் என்னைச் சேர்ந்தது’ என்று கூறி விற்பதாகும். அத்தியாயம் : 34
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் யிமுஸாபனா’ எனும் வியாபாரத்தைத் தடை செய்தார்கள். யிமுஸாபனா’ என்பது, மரத்திலுள்ள பேரீச்சம் பழத்தை முகத்தலளவையில் (அளக்கப்பட்ட உலர்ந்த பேரீச்சம் பழத்திற்கு) விற்கும்போது, ‘அது அதிகமாக இருந்தால் அது என்னைச் சேர்ந்தது; அது குறைந்தாலும் என்னைச் சேர்ந்தது’ என்று கூறி விற்பதாகும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2172</td></tr><tr><td>Arabic No</td><td>2172</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

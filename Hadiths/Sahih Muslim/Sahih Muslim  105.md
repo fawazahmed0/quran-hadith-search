@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩, আন্তর্জাতিক নাম্বারঃ ১৩ ১৩-(১৩/...) মুহাম্মাদ ইবনু হাতিম ও আবদুর রহমান ইবনু বিশ্বর (রহঃ) ..... আবূ আইয়ূব (রাযিঃ) হতে এবং তিনি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম হতে উপরের হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ১৩, ইসলামিক সেন্টারঃ ১৩)
+মুহাম্মাদ ইবনু হাতিম ও আবদুর রহমান ইবনু বিশ্বর (রহঃ) ..... আবূ আইয়ূব (রাযিঃ) হতে এবং তিনি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম হতে উপরের হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ১৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>105</td></tr><tr><td>Arabic No</td><td>13.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith is transmitted by Muhammad b. Hatim on the authority of Abu Ayyub An
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் நான்கு அறிவிப்பாளர்தொடர்கள் வழியாகவும் அறிவிக்கப்பட்டுள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மேலும் நான்கு அறிவிப்பாளர்தொடர்கள் வழியாகவும் அறிவிக்கப்பட்டுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>105</td></tr><tr><td>Arabic No</td><td>13.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
 

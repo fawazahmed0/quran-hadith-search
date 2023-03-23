@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৪০৪। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমির গোত্রের দুই ব্যক্তিকে মুসলিমদের মত একই রকম দিয়াত প্রদান করেছেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে তাদের নিরাপত্তা-চুক্তি ছিল। - সনদ দুর্বল আবূ ঈসা বলেন, এ হাদীসটি গারীব। শুধুমাত্র উল্লেখিত সনদ সূত্রেই আমরা এ হাদীসটি জেনেছি। আবূ সা’দ আল-বাক্কালের নাম সাঈদ, পিতা আল-মারযুবান
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমির গোত্রের দুই ব্যক্তিকে মুসলিমদের মত একই রকম দিয়াত প্রদান করেছেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে তাদের নিরাপত্তা-চুক্তি ছিল। - সনদ দুর্বল আবূ ঈসা বলেন, এ হাদীসটি গারীব। শুধুমাত্র উল্লেখিত সনদ সূত্রেই আমরা এ হাদীসটি জেনেছি। আবূ সা’দ আল-বাক্কালের নাম সাঈদ, পিতা আল-মারযুবান
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1404</td></tr><tr><td>Arabic No</td><td>1404</td></tr><tr><td>Reference</td><td>Book 16 Hadith 20</td></tr></tbody></table></div>
 

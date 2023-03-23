@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কোন লোক যদি নিজ স্ত্রীকে নিজ বিছানায় আসতে ডাকে আর সে অস্বীকার করে এবং সে ব্যক্তি স্ত্রীর উপর দুঃখ নিয়ে রাত্রি যাপন করে, তাহলে ফেরেশ্তাগণ এমন স্ত্রীর উপর সকাল পর্যন্ত লা‘নত দিতে থাকে। শুবা, আবূ হামযাহ, ইবনু দাউদ ও আবূ মু‘আবিয়াহ (রহ.) আ‘মাশ (রহ.) হতে হাদীস বর্ণনায় আবূ আওয়ানাহ (রহ.)-এর অনুসরণ করেছেন। (৫১৯৩, ৫১৯৪) (মুসলিম ১৯ হাঃ ১৪৩৬, আহমাদ ৯৬৭৭) (আধুনিক প্রকাশনীঃ ২৯৯৭, ইসলামিক ফাউন্ডেশনঃ ৩০০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কোন লোক যদি নিজ স্ত্রীকে নিজ বিছানায় আসতে ডাকে আর সে অস্বীকার করে এবং সে ব্যক্তি স্ত্রীর উপর দুঃখ নিয়ে রাত্রি যাপন করে, তাহলে ফেরেশ্তাগণ এমন স্ত্রীর উপর সকাল পর্যন্ত লা‘নত দিতে থাকে। শুবা, আবূ হামযাহ, ইবনু দাউদ ও আবূ মু‘আবিয়াহ (রহ.) আ‘মাশ (রহ.) হতে হাদীস বর্ণনায় আবূ আওয়ানাহ (রহ.)-এর অনুসরণ করেছেন। (৫১৯৩, ৫১৯৪) (মুসলিম ১৯ হাঃ ১৪৩৬, আহমাদ ৯৬৭৭) (আধুনিক প্রকাশনীঃ ২৯৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3237</td></tr><tr><td>Arabic No</td><td>3237</td></tr><tr><td>Reference</td><td>Book 59 Hadith 48</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If a husband calls his wife 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் தம் மனைவியைப் படுக்கைக்கு அழைத்து, அவள் (அவருக்கு உடன்பட) மறுத்துவிட, அதனால் அவள் மீது கோபம் கொண்டவராக அவர் இரவைக் கழித்தாரென்றால் அவளை, விடியும்வரை வானவர்கள் சபித்துக் கொண்டேயிருக்கின்றனர். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் ஐந்து அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 59
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் தம் மனைவியைப் படுக்கைக்கு அழைத்து, அவள் (அவருக்கு உடன்பட) மறுத்துவிட, அதனால் அவள் மீது கோபம் கொண்டவராக அவர் இரவைக் கழித்தாரென்றால் அவளை, விடியும்வரை வானவர்கள் சபித்துக் கொண்டேயிருக்கின்றனர். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் ஐந்து அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3237</td></tr><tr><td>Arabic No</td><td>3237</td></tr><tr><td>Reference</td><td>Book 59 Hadith 48</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If a husband calls his wife 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den nakledildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Bir kimse karısını yatağına çağırdığı halde kadın buna yanaşmazsa ve kocası da bu yüzden ona kızgın olarak yatarsa, melekler sabaha kadar o kadına la'net ederler. " Tekrar: 5193, 5194
+Ebu Hureyre r.a.'den nakledildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Bir kimse karısını yatağına çağırdığı halde kadın buna yanaşmazsa ve kocası da bu yüzden ona kızgın olarak yatarsa, melekler sabaha kadar o kadına la'net ederler. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3237</td></tr><tr><td>Arabic No</td><td>3237</td></tr><tr><td>Reference</td><td>Book 59 Hadith 48</td></tr></tbody></table></div>
 

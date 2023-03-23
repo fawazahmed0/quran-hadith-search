@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উকবাহ ইবনু সুহবান (রহ.) বলেন, আমি ‘আবদুল্লাহ্ ইবনু মুগাফফাল মুযানী (রাঃ)-কে গোসলখানায় প্রস্রাব করা সম্পর্কে বর্ণনা করতে শুনেছি। (আধুনিক প্রকাশনীঃ ৪৪৭৫, ইসলামিক ফাউন্ডেশনঃ ৪৪৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উকবাহ ইবনু সুহবান (রহ.) বলেন, আমি ‘আবদুল্লাহ্ ইবনু মুগাফফাল মুযানী (রাঃ)-কে গোসলখানায় প্রস্রাব করা সম্পর্কে বর্ণনা করতে শুনেছি। (আধুনিক প্রকাশনীঃ ৪৪৭৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 65 Hadith 363</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Abdullah bin Al-Mughaffal Al-Muzani also said:"The Prophet (ﷺ) also forbade ur
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உக்பா பின் ஸுஹ்பான் (ரஹ்) அவர்கள் கூறியதாவது: குளியலறையில் சிறுநீர் கழிப்பது தொடர்பாக அப்துல்லாஹ் பின் முகஃப்பல் (ரலி) அவர்கள் கூற நான் கேட்டேன். (நபி (ஸல்) அவர்கள் அதற்குத் தடை விதித்ததாக அன்னார் தெரிவித்தார்கள்.)11 அத்தியாயம் : 65
+உக்பா பின் ஸுஹ்பான் (ரஹ்) அவர்கள் கூறியதாவது: குளியலறையில் சிறுநீர் கழிப்பது தொடர்பாக அப்துல்லாஹ் பின் முகஃப்பல் (ரலி) அவர்கள் கூற நான் கேட்டேன். (நபி (ஸல்) அவர்கள் அதற்குத் தடை விதித்ததாக அன்னார் தெரிவித்தார்கள்.)11 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 65 Hadith 363</td></tr></tbody></table></div>
 

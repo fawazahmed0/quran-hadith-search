@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হাসান ইবনে আলী (রাঃ) ..... ইবনে উমর (রাঃ) হতে বর্ণিত। তিনি বলেন, জুমার ফরয নামায আদায়ের পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘরে ফিরে দুই রাকাত নামায পড়তেন। (নাসাঈ, ইবনে মাজা, তিরমিযী)
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমু‘আহর (ফারয) সালাত আদায়ের পর ঘরে ফিরে দু’ রাক‘আত সালাত আদায় করতেন।[1] সহীহ : মুসলিম। বুখারী অর্থগতভাবে। এটি গত হয়েছে হাদীস ১১২৭ নং।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1132</td></tr><tr><td>Arabic No</td><td>1132</td></tr><tr><td>Reference</td><td>Book 2 Hadith 743</td></tr></tbody></table></div>
 

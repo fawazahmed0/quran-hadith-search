@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন সারহা (রহঃ) .... ইবন শিহাব (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বরের মাল হতে (যা গনীমত হিসাবে পান) এক-পঞ্চমাংশ আলাদা করে নেন। এরপর বাকী সমস্ত মালামাল যুদ্ধে অংশগ্রহণকারী সকলের মাঝে এবং হুদায়বিয়ার যুদ্ধে অংশগ্রহণকারী ঐ সমস্ত ব্যক্তির মাঝে বণ্টন করে দেন, যারা এ যুদ্ধে অনুপস্থিত ছিল।
+। ইবনু শিহাব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বারের ধন-সম্পদ থেকে এক-পঞ্চমাংশ পৃথক করেন। অতঃপর অবশিষ্ট মালামাল সেখানে উপস্থিত যোদ্ধাদের মাঝে এবং হুদায়বিয়ায় ঐ সব লোকদের মধ্যে বণ্টন করলেন যারা (খায়বারে) অনুপস্থিত ছিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3019</td></tr><tr><td>Arabic No</td><td>3019</td></tr><tr><td>Reference</td><td>Book 20 Hadith 92</td></tr></tbody></table></div>
 

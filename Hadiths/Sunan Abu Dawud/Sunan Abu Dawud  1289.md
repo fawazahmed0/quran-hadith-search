@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-দাউদ ইবন রাশীদ (রহঃ) .... নুআয়ম ইবন হাম্মার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ আল্লাহ রব্বুল আলামীন বলেনঃ হে বনী আদম! তোমরা দিনের প্রথমাংশে চার রাকাত নামায আদায় না করে আমাকে দিনের শেষ ভাগ পর্যন্ত তোমাদের ভালোবাসা হতে বঞ্চিত রেখ না। (তিরমিযী)
+। নু‘আইম ইবনু হাম্মার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ মহান পরাক্রমশালী আল্লাহ বলেছেন, হে আদম সন্তান! তোমার দিনের পূর্বাহ্নের মধ্যে চার রাক‘আত সালাত হতে আমাকে ত্যাগ করো না, তাহলে আমি আখিরাতে তোমার জন্য যথেষ্ট হবো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1289</td></tr><tr><td>Arabic No</td><td>1289</td></tr><tr><td>Reference</td><td>Book 5 Hadith 40</td></tr></tbody></table></div>
 

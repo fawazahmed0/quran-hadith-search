@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু কুদামা .... নাফে হতে বর্ণিত। তিনি বলেন, উমার ইবনুল খাত্তাব (রাঃ) বলেছেন … পূর্বোক্ত হাদীছের অনুরূপ এবং এটাই সঠিক।
+। নাফি’ (রহঃ) বলেন, ‘উমার ইবনুল খাত্তাব (রাঃ) বলেছেন ... অতঃপর পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেন। এটাই অধিকতর সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>463</td></tr><tr><td>Arabic No</td><td>463</td></tr><tr><td>Reference</td><td>Book 2 Hadith 73</td></tr></tbody></table></div>
 

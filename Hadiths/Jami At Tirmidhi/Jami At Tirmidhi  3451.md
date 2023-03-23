@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৪৫১। ত্বালহা ইবনু উবাইদুল্লাহ (রাযিঃ) হতে বর্ণিত আছে, নতুন চাঁদ দেখার পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ “হে আল্লাহ আমাদের জন্য চাদটিকে বারাকাতময় (নিরাপদ), ঈমান, নিরাপত্তা ও শান্তির বাহন করে উদিত করো! হে নতুন চাঁদ। আল্লাহ তা'আলা আমারও প্রভু, তোমারও প্রভু। সহীহঃ সহীহাহ (হাঃ ১৮১৬), আল-কালিমুত তাইয়্যিব (১৬১/১১৪)। আবূ ঈসা বলেন, হাদীসটি হাসান গারীব।
+। ত্বালহা ইবনু উবাইদুল্লাহ (রাযিঃ) হতে বর্ণিত আছে, নতুন চাঁদ দেখার পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ “হে আল্লাহ আমাদের জন্য চাদটিকে বারাকাতময় (নিরাপদ), ঈমান, নিরাপত্তা ও শান্তির বাহন করে উদিত করো! হে নতুন চাঁদ। আল্লাহ তা'আলা আমারও প্রভু, তোমারও প্রভু। সহীহঃ সহীহাহ (হাঃ ১৮১৬), আল-কালিমুত তাইয়্যিব (১৬১/১১৪)। আবূ ঈসা বলেন, হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3451</td></tr><tr><td>Arabic No</td><td>3451</td></tr><tr><td>Reference</td><td>Book 48 Hadith 82</td></tr></tbody></table></div>
 

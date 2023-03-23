@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জনৈক লোক তার দুটি চাদর পরিধান করে অহংকারের সাথে চলাফেরা করছিল। আপন ব্যক্তিত্বকে সে ভাল মনে করছিল। অকস্মাৎ আল্লাহ তাকে জমিনে ধসে দিলেন। কিয়ামত অবধি সে মাটির জমিনে ধসতে থাকবে। (ইসলামিক ফাউন্ডেশন ৫২৯২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5467</td></tr><tr><td>Arabic No</td><td>2088.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 82</td></tr></tbody></table></div>
 

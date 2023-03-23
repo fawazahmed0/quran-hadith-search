@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘আমর (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময় যখন সূর্যগ্রহণ হলো, তখন ‘আস্-সালাতু জামি‘আতুন’ বলে (সালাতে সমবেত হবার জন্য) আহবান জানানো হল। (১০৫১; মুসলিম ১০/৪, হাঃ ৯১০, আহমাদ ৭০৬৭) (আধুনিক প্রকাশনীঃ ৯৮২, ইসলামিক ফাউন্ডেশনঃ ৯৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘আমর (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময় যখন সূর্যগ্রহণ হলো, তখন ‘আস্-সালাতু জামি‘আতুন’ বলে (সালাতে সমবেত হবার জন্য) আহবান জানানো হল। (১০৫১; মুসলিম ১০/৪, হাঃ ৯১০, আহমাদ ৭০৬৭) (আধুনিক প্রকাশনীঃ ৯৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1045</td></tr><tr><td>Arabic No</td><td>1045</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] berkata, telah mengabarkan kepada kami [Y
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் காலத்தில் சூரிய கிரகணம் ஏற்பட்டபோது, ‘அஸ்ஸலாத்து ஜாமிஆ’ (தொழுகை நடைபெறுகிறது) என்று அழைப்பு விடுக்கப்பட்டது. அத்தியாயம் : 16
+அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் காலத்தில் சூரிய கிரகணம் ஏற்பட்டபோது, ‘அஸ்ஸலாத்து ஜாமிஆ’ (தொழுகை நடைபெறுகிறது) என்று அழைப்பு விடுக்கப்பட்டது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1045</td></tr><tr><td>Arabic No</td><td>1045</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাযি.) সূত্রে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সিজদা্, রুকূ‘ এবং দু’ সিজদার মধ্যে বসা প্রায় সমান (সময়ের) হতো। (৭৯২) (আধুনিক প্রকাশনীঃ ৭৭৪, ইসলামিক ফাউন্ডেশনঃ ৭৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাযি.) সূত্রে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সিজদা্, রুকূ‘ এবং দু’ সিজদার মধ্যে বসা প্রায় সমান (সময়ের) হতো। (৭৯২) (আধুনিক প্রকাশনীঃ ৭৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>820</td></tr><tr><td>Arabic No</td><td>820</td></tr><tr><td>Reference</td><td>Book 10 Hadith 214</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Abdurrahim] berkata, telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களது ருகூஉ, சஜ்தா, இரு சஜ்தாக்களுக்கு இடையில் அவர்கள் அமர்வது ஆகியன ஏறக்குறைய ஒரே (கால) அளவில் அமைந்திருந்தன. அத்தியாயம் : 10
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களது ருகூஉ, சஜ்தா, இரு சஜ்தாக்களுக்கு இடையில் அவர்கள் அமர்வது ஆகியன ஏறக்குறைய ஒரே (கால) அளவில் அமைந்திருந்தன. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>820</td></tr><tr><td>Arabic No</td><td>820</td></tr><tr><td>Reference</td><td>Book 10 Hadith 214</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... ইবন উমায়র (রাঃ) হতে উপরোক্ত হাদীছের অনুরুপ বর্ণিত হয়েছে। রাবী আরো বলেনঃ এরপর তারা আমার লজ্জাস্থান উলঙ্গ করে দেখে যে, সেখানে কোন পশম গজায়নি। ফলে তারা আমাকে হত্যা না করে বন্দী করে রাখে।
+। আব্দুল মালিক ইবনু উমাইর (রহঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। আতিয়্যাহ (রাঃ) বলেন, তারা (মুসলিমরা) আমার নাভীর নীচ অনাবৃত করে দেখলো যে, চুল উঠেনি। সুতরাং তারা আমাকে বন্দীদের অন্তর্ভুক্ত করলো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4405</td></tr><tr><td>Arabic No</td><td>4405</td></tr><tr><td>Reference</td><td>Book 40 Hadith 55</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
@@ -62,7 +62,7 @@
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bab "Kim hac günlerine kadar umre ile faydalanmak isterse kolayına gelen bir kurban kesmesi gerekir. Kurban kesmeyen kimse, hac günlerinde üç, memleketine döndüğü zaman yedi olmak üzere oruç tutar ki hepsi tam on gündür. Bu söylenenler, ailesi Mescid-i Haram civarında oturmayanlar içindir."[Bakara, 196]
+Bab "Kim hac günlerine kadar umre ile faydalanmak isterse kolayına gelen bir kurban kesmesi gerekir. Kurban kesmeyen kimse, hac günlerinde üç, memleketine döndüğü zaman yedi olmak üzere oruç tutar ki hepsi tam on gündür. Bu söylenenler, ailesi Mescid-i Haram civarında oturmayanlar içindir."[Bakara]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

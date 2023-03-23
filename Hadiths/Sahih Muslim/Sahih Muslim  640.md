@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫২৭, আন্তর্জাতিক নাম্বারঃ ২৭৬ ৫২৭-(.../...) ইসহাক (রহঃ) ..... হাকাম (রহঃ) হতে একই সূত্রে অবিকল হাদীস বর্ণিত আছে। (ইসলামিক ফাউন্ডেশনঃ ৫৩১, ইসলামিক সেন্টারঃ ৫৪৭)
+ইসহাক (রহঃ) ..... হাকাম (রহঃ) হতে একই সূত্রে অবিকল হাদীস বর্ণিত আছে। (ইসলামিক ফাউন্ডেশনঃ ৫৩১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>276.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন ‘আবদিল্লাহ্ (রহঃ) .... ইবন ‘আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঐ সমস্ত পশুর গোশত ভক্ষণ করতে নিষেধ করেছেন, যাকে আরবের লোকেরা নিজেদের মাঝে গৌরব ও অহংকার প্রকাশের নিমিত্ত হত্যা করে থাকে। আবূ দাঊদ (রহঃ) বলেনঃ গুনদর এই রিওয়ায়াতটি ইবন ‘আব্বাস (রাঃ) এর উপর ‘মাউকুফ হিসাবে বর্ণনা করেছেন। আবূ দাঊদ (রহঃ) আরো বলেনঃ আবূ রায়হানার আসল নাম হলো ‘আবদুল্লাহ্ ইবন মাত্তার।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঐসব যবাহকৃত পশুর গোশত খেতে নিষেধ করেছেন যেগুলো আরবের লোকেরা নিজেদের অহংকার প্রকাশার্থে যবাহ করে। আবূ দাঊদ (রহঃ) বলেন, অধস্তন বর্ণনাকারী গুনদার এটি ইবনু ‘আব্বাস (রাঃ)-এর উক্তি হিসাবে বর্ণনা করেছেন। আবূ দাঊদ (রহঃ) বলেন, আবূ রাইহানার নাম ‘আব্দুল্লাহ ইবনু মাতার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2820</td></tr><tr><td>Arabic No</td><td>2820</td></tr><tr><td>Reference</td><td>Book 16 Hadith 33</td></tr></tbody></table></div>
 

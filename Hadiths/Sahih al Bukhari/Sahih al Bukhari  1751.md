@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-بَاب مَنْ رَمَى جَمْرَةَ الْعَقَبَةِ وَلَمْ يَقِفْ ২৫/১৩৯. অধ্যায় : জামরায়ে ‘আকাবায় কংকর নিক্ষেপ করে অপেক্ষা না করা। قَالَهُ ابْنُ عُمَرَ عَنْ النَّبِيِّ صلى الله عليه وسلم নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) হতে ইবনু ‘উমার (রাঃ) এ কথা বর্ণনা করেন। ১৭৫১. ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, তিনি প্রথম জামরায় সাতটি কঙ্কর নিক্ষেপ করতেন এবং প্রতিটি কঙ্কর নিক্ষেপের সাথে তাকবীর বলতেন। তারপর সামনে অগ্রসর হয়ে সমতল ভূমিতে এসে কিবলামুখী হয়ে দীর্ঘক্ষণ দাঁড়াতেন এবং উভয় হাত তুলে দু‘আ করতেন। অতঃপর মধ্যবর্তী জামরায় কঙ্কর মারতেন এবং একটু বাঁ দিকে চলে সমতল ভূমিতে এসে কিবলামুখী দাঁড়িয়ে উভয় হাত উঠিয়ে দু‘আ করতেন এবং দীর্ঘক্ষণ দাঁড়িয়ে থাকতেন। এরপর বাতন ওয়াদী হতে জামরায়ে ‘আকাবায় কঙ্কর মারতেন। এর কাছে তিনি বিলম্ব না করে ফিরে আসতেন এবং বলতেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে এরূপ করতে দেখেছি। (১৭৫২, ১৭৫৩) (আধুনিক প্রকাশনীঃ ১৬২৯. ইসলামিক ফাউন্ডেশনঃ ১৬৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بَاب مَنْ رَمَى جَمْرَةَ الْعَقَبَةِ وَلَمْ يَقِفْ ২৫/১৩৯. অধ্যায় : জামরায়ে ‘আকাবায় কংকর নিক্ষেপ করে অপেক্ষা না করা। قَالَهُ ابْنُ عُمَرَ عَنْ النَّبِيِّ صلى الله عليه وسلم নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) হতে ইবনু ‘উমার (রাঃ) এ কথা বর্ণনা করেন। ১৭৫১. ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, তিনি প্রথম জামরায় সাতটি কঙ্কর নিক্ষেপ করতেন এবং প্রতিটি কঙ্কর নিক্ষেপের সাথে তাকবীর বলতেন। তারপর সামনে অগ্রসর হয়ে সমতল ভূমিতে এসে কিবলামুখী হয়ে দীর্ঘক্ষণ দাঁড়াতেন এবং উভয় হাত তুলে দু‘আ করতেন। অতঃপর মধ্যবর্তী জামরায় কঙ্কর মারতেন এবং একটু বাঁ দিকে চলে সমতল ভূমিতে এসে কিবলামুখী দাঁড়িয়ে উভয় হাত উঠিয়ে দু‘আ করতেন এবং দীর্ঘক্ষণ দাঁড়িয়ে থাকতেন। এরপর বাতন ওয়াদী হতে জামরায়ে ‘আকাবায় কঙ্কর মারতেন। এর কাছে তিনি বিলম্ব না করে ফিরে আসতেন এবং বলতেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে এরূপ করতে দেখেছি। (১৭৫২, ১৭৫৩) (আধুনিক প্রকাশনীঃ ১৬২৯. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1751</td></tr><tr><td>Arabic No</td><td>1751</td></tr><tr><td>Reference</td><td>Book 25 Hadith 229</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சாலிம் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள் முதல் ஜம்ராவில் ஏழு கற்களை எறிவார்கள். ஒவ்வொன்றையும் எறிந்ததும் தக்பீர் கூறுவார்கள். பிறகு முன்னேறி சமதளப் பகுதிக்கு வந்து கிப்லாவை முன்னோக்கி நிற்பார்கள். தம் கைகளை உயர்த்தி, நீண்ட நேரம் நின்று பிரார்த்திப்பார்கள். பின்பு இரண்டாவது ஜம்ராவில் கல்லெறிவார்கள். பிறகு இடது பக்கமாக நகர்ந்து, சமதளப் பகுதிக்குப் போய், கிப்லாவை முன்னோக்கி, நீண்ட நேரம் நின்று, கைகளை உயர்த்திப் பிரார்த்திப்பார் கள். பின்பு ‘பத்னுல் வாதி’ பள்ளத்திலிருந்து கடைசி ஜம்ராவில் கல்லெறிவார்கள்; ஆனால், அங்கு நிற்கமாட்டார்கள். பிறகு திரும்பிவிடுவார்கள். “இவ்வாறுதான் நபி (ஸல்) அவர்கள் செய்ய நான் பார்த்திருக்கிறேன்” எனக் கூறுவார்கள். அத்தியாயம் : 25
+சாலிம் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள் முதல் ஜம்ராவில் ஏழு கற்களை எறிவார்கள். ஒவ்வொன்றையும் எறிந்ததும் தக்பீர் கூறுவார்கள். பிறகு முன்னேறி சமதளப் பகுதிக்கு வந்து கிப்லாவை முன்னோக்கி நிற்பார்கள். தம் கைகளை உயர்த்தி, நீண்ட நேரம் நின்று பிரார்த்திப்பார்கள். பின்பு இரண்டாவது ஜம்ராவில் கல்லெறிவார்கள். பிறகு இடது பக்கமாக நகர்ந்து, சமதளப் பகுதிக்குப் போய், கிப்லாவை முன்னோக்கி, நீண்ட நேரம் நின்று, கைகளை உயர்த்திப் பிரார்த்திப்பார் கள். பின்பு ‘பத்னுல் வாதி’ பள்ளத்திலிருந்து கடைசி ஜம்ராவில் கல்லெறிவார்கள்; ஆனால், அங்கு நிற்கமாட்டார்கள். பிறகு திரும்பிவிடுவார்கள். “இவ்வாறுதான் நபி (ஸல்) அவர்கள் செய்ய நான் பார்த்திருக்கிறேன்” எனக் கூறுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1751</td></tr><tr><td>Arabic No</td><td>1751</td></tr><tr><td>Reference</td><td>Book 25 Hadith 229</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a. küçük şeytanı taşladığında yedi taş atar, her birinin ardından tekbir getirirdi. Sonra ilerler ve vadi'nin alt yanına iner, orada kıbleye dönerek uzunca durur, dua eder ve ellerini kaldırırdı. Sonra orta şeytanı taşlardı. Sonra sola döner, vadinin alt yanına iner, kıbleye döner, uzunca durarak dua eder, ellerini kaldırırdı. Sonra büyük şeytana vadinin altından taş atar, onun yanında durmazdı. Sonra da "Nebi Sallallahu Aleyhi ve Sellem'in böyle yaptığını gördüm" diyerek giderdi. Tekrar: 1752, 1753
+İbn Ömer r.a. küçük şeytanı taşladığında yedi taş atar, her birinin ardından tekbir getirirdi. Sonra ilerler ve vadi'nin alt yanına iner, orada kıbleye dönerek uzunca durur, dua eder ve ellerini kaldırırdı. Sonra orta şeytanı taşlardı. Sonra sola döner, vadinin alt yanına iner, kıbleye döner, uzunca durarak dua eder, ellerini kaldırırdı. Sonra büyük şeytana vadinin altından taş atar, onun yanında durmazdı. Sonra da "Nebi Sallallahu Aleyhi ve Sellem'in böyle yaptığını gördüm" diyerek giderdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1751</td></tr><tr><td>Arabic No</td><td>1751</td></tr><tr><td>Reference</td><td>Book 25 Hadith 229</td></tr></tbody></table></div>
 

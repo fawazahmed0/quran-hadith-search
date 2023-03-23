@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি একবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কা‘বা’র আঙ্গিনায় দু’ হাঁটু খাড়া করে দু’ হাত দিয়ে তা বেড় দিয়ে এভাবে উপবিষ্ট অবস্থায় পেয়েছি। (আধুনিক প্রকাশনী- ৫৮৩০, ইসলামিক ফাউন্ডেশন- ৫৭২৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি একবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কা‘বা’র আঙ্গিনায় দু’ হাঁটু খাড়া করে দু’ হাত দিয়ে তা বেড় দিয়ে এভাবে উপবিষ্ট অবস্থায় পেয়েছি। (আধুনিক প্রকাশনী- ৫৮৩০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6272</td></tr><tr><td>Arabic No</td><td>6272</td></tr><tr><td>Reference</td><td>Book 79 Hadith 46</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Abu Ghalib] telah mengabarkan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (இறையில்லம்) கஅபாவின் முற்றத்தில் தமது கையை (முழங்காலில்) கட்டிக்கொண்டு குத்துக்காலிட்டு இவ்வாறு அமர்ந்திருந்ததைக் கண்டேன். அத்தியாயம் : 79
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (இறையில்லம்) கஅபாவின் முற்றத்தில் தமது கையை (முழங்காலில்) கட்டிக்கொண்டு குத்துக்காலிட்டு இவ்வாறு அமர்ந்திருந்ததைக் கண்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6272</td></tr><tr><td>Arabic No</td><td>6272</td></tr><tr><td>Reference</td><td>Book 79 Hadith 46</td></tr></tbody></table></div>
 

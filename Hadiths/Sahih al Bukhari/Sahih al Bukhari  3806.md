@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু আমর (রাঃ) হতে বর্ণিত, তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, কুরআন পাঠ শিখ চার জনের নিকট হতেঃ ইবনু মাসউদ, আবূ হুযাইফার আযাদকৃত গোলাম সালিম, উবাই (ইবনু কা‘ব) ও মু‘আয ইবনু জাবাল (রাঃ) থেকে। (৩৭৫৮)(আধুনিক প্রকাশনীঃ ৩৫২৪, ইসলামিক ফাউন্ডেশনঃ ৩৫৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু আমর (রাঃ) হতে বর্ণিত, তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, কুরআন পাঠ শিখ চার জনের নিকট হতেঃ ইবনু মাসউদ, আবূ হুযাইফার আযাদকৃত গোলাম সালিম, উবাই (ইবনু কা‘ব) ও মু‘আয ইবনু জাবাল (রাঃ) থেকে। (৩৭৫৮)(আধুনিক প্রকাশনীঃ ৩৫২৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3806</td></tr><tr><td>Arabic No</td><td>3806</td></tr><tr><td>Reference</td><td>Book 63 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Gh
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இப்னு மஸ்ஊத், அபூஹுதைஃபாவின் முன்னாள் அடிமையான சாலிம், உபை பின் கஅப் மற்றும் முஆத் பின் —பல் ஆகிய நான்கு பேரிடமிருந்து குர்ஆனை ஓதக் கற்றுக்கொள்ளுங்கள். இதை அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.40 அத்தியாயம் : 63
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இப்னு மஸ்ஊத், அபூஹுதைஃபாவின் முன்னாள் அடிமையான சாலிம், உபை பின் கஅப் மற்றும் முஆத் பின் —பல் ஆகிய நான்கு பேரிடமிருந்து குர்ஆனை ஓதக் கற்றுக்கொள்ளுங்கள். இதை அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.40 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3806</td></tr><tr><td>Arabic No</td><td>3806</td></tr><tr><td>Reference</td><td>Book 63 Hadith 31</td></tr></tbody></table></div>
 

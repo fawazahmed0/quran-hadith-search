@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১৫. আবু হুরায়রা (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুম'আ দিবসের উল্লেখ করলেন, (সেই প্রসঙ্গে) তিনি বলিয়াছেনঃ এই দিবসে এমন এক মুহূর্ত রহিয়াছে কোন মুসলিম বান্দা নামাযে দণ্ডায়মান অবস্থায়, সেই মুহূর্তটির সদ্ব্যবহার করিলে তখন যদি সে আল্লাহ তা'আলা হইতে কোন বস্তুর সওয়াল করে, তবে আল্লাহ তাহাকে সেই বস্তু প্রদান করবেন। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বীয় হস্ত দ্বারা ইঙ্গিত করিলেন সেই সময়টির স্বল্পতা বুঝাইবার জন্য।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>238</td></tr><tr><td>Arabic No</td><td>238</td></tr><tr><td>Reference</td><td>Book 5 Hadith 14</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepadaku Yahya dari Malik dari [Abu Az Zinad] dari [Al A'raj]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem Cuma gününün faziletini anlatarak buyurdular ki: «Cuma günü öyle bir an var ki müslüman bir kimse o vakitte namaz kılar, Allah'tan bir şey isterse Allah mutlaka istediği şeyi ona verir.» Resul-i Ekrem eliyle o vaktin kısa bir süre olduğuna işaret etti. Diğer tahric: Buharî, Cum'a, 11/37; Müslim, Cum'a, 7/13
+Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem Cuma gününün faziletini anlatarak buyurdular ki: «Cuma günü öyle bir an var ki müslüman bir kimse o vakitte namaz kılar, Allah'tan bir şey isterse Allah mutlaka istediği şeyi ona verir.» Resul-i Ekrem eliyle o vaktin kısa bir süre olduğuna işaret etti. Diğer tahric: Buharî, Cum'a, 11/37; Müslim, Cum'a
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>238</td></tr><tr><td>Arabic No</td><td>238</td></tr><tr><td>Reference</td><td>Book 5 Hadith 14</td></tr></tbody></table></div>
 

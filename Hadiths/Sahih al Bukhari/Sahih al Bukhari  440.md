@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ أَبُو قِلاَبَةَ عَنْ أَنَسِ بْنِ مَالِكٍ قَدِمَ رَهْطٌ مِنْ عُكْلٍ عَلَى النَّبِيِّ صلى الله عليه وسلم فَكَانُوا فِي الصُّفَّةِ وَقَالَ عَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرٍ الصِّدِّيقِ كَانَ أَصْحَابُ الصُّفَّةِ الْفُقَرَاءَ. আবূ কিলাবাহ (রহ.) আনাস ইব্ন মালিক (রাযি.) হতে বর্ণনা করেনঃ ‘উক্ল গোত্রের কতিপয় ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট আসলেন এবং সুফ্ফায় অবস্থান করলেন। ‘আবদুর রহমান ইব্ন আবূ বাকর (রাযি.) বলেনঃ সুফ্ফাবাসীগণ ছিলেন দরিদ্র। ৪৪০. ‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি মসজিদে নববীতে ঘুমাতেন। তিনি ছিলেন অবিবাহিত যুবক। তাঁর কোন পরিবার-পরিজন ছিল না। (১১২১, ১১৫৬, ৩৭৩৮, ৩৭৪০, ৩৭৪১, ৭০১৫, ৭০১৬, ৭০২৮, ৭০২৯, ৭০৩০, ৭০৩১) (আধুনিক প্রকাশনীঃ৪২১ , ইসলামিক ফাউন্ডেশনঃ ৪২৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ أَبُو قِلاَبَةَ عَنْ أَنَسِ بْنِ مَالِكٍ قَدِمَ رَهْطٌ مِنْ عُكْلٍ عَلَى النَّبِيِّ صلى الله عليه وسلم فَكَانُوا فِي الصُّفَّةِ وَقَالَ عَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرٍ الصِّدِّيقِ كَانَ أَصْحَابُ الصُّفَّةِ الْفُقَرَاءَ. আবূ কিলাবাহ (রহ.) আনাস ইব্ন মালিক (রাযি.) হতে বর্ণনা করেনঃ ‘উক্ল গোত্রের কতিপয় ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট আসলেন এবং সুফ্ফায় অবস্থান করলেন। ‘আবদুর রহমান ইব্ন আবূ বাকর (রাযি.) বলেনঃ সুফ্ফাবাসীগণ ছিলেন দরিদ্র। ৪৪০. ‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি মসজিদে নববীতে ঘুমাতেন। তিনি ছিলেন অবিবাহিত যুবক। তাঁর কোন পরিবার-পরিজন ছিল না। (১১২১, ১১৫৬, ৩৭৩৮, ৩৭৪০, ৩৭৪১, ৭০১৫, ৭০১৬, ৭০২৮, ৭০২৯, ৭০৩০, ৭০৩১) (আধুনিক প্রকাশনীঃ৪২১ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>440</td></tr><tr><td>Arabic No</td><td>440</td></tr><tr><td>Reference</td><td>Book 8 Hadith 89</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: மணமாகாத, குடும்பமில்லாத இளைஞ னாக நான் இருந்தபோது, நபி (ஸல்) அவர் களின் பள்ளிவாசலில் (தங்கி) உறங்கிக் கொண்டிருந்தேன். இதை நாஃபிஉ (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 8
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: மணமாகாத, குடும்பமில்லாத இளைஞ னாக நான் இருந்தபோது, நபி (ஸல்) அவர் களின் பள்ளிவாசலில் (தங்கி) உறங்கிக் கொண்டிருந்தேன். இதை நாஃபிஉ (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>440</td></tr><tr><td>Arabic No</td><td>440</td></tr><tr><td>Reference</td><td>Book 8 Hadith 89</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah'tan nakledildiğine göre o, ailesi yokken bekar olduğu gençlik yıllarında Mescid-i Nebevî'de uyurmuş. Tekrar: 1121, 1156, 3738, 3740, 7015, 7028 ve 7030
+Abdullah'tan nakledildiğine göre o, ailesi yokken bekar olduğu gençlik yıllarında Mescid-i Nebevî'de uyurmuş. Tekrar: 1121, 1156, 3738, 3740, 7015, 7028 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>440</td></tr><tr><td>Arabic No</td><td>440</td></tr><tr><td>Reference</td><td>Book 8 Hadith 89</td></tr></tbody></table></div>
 

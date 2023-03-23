@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯০৪, আন্তর্জাতিক নাম্বারঃ ৪৫৩ ৯০৪-(.../...) কুতাইবাহ ইবনু সাঈদ ও ইসহাক ইবনু ইবরাহীম (রহঃ) আবদুল মালিক ইবনু উমায়র (রাযিঃ) এর সূত্রে এ সনদে উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮৯৯, ইসলামিক সেন্টারঃ ৯১১)
+কুতাইবাহ ইবনু সাঈদ ও ইসহাক ইবনু ইবরাহীম (রহঃ) আবদুল মালিক ইবনু উমায়র (রাযিঃ) এর সূত্রে এ সনদে উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮৯৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>453.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 179</td></tr></tbody></table></div>
 

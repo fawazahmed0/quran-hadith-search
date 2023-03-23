@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল ..... ইবন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিয়মিতভাবে ঘোড়দৌড়ের ব্যবস্থা করতেন এবং সর্বশেষ পঞ্চম বর্ষে পদার্পণকারী ঘোড়াসমূহকে প্রতিযোগিতার জন্য অগ্রাধিকার দিতেন।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘোড়াদৌড়ের প্রতিযোগিতা করাতেন এবং পাঁচ বছর বয়সে পদার্পণকারী ঘোড়ার জন্য দূরত্ব নির্দিষ্ট করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2577</td></tr><tr><td>Arabic No</td><td>2577</td></tr><tr><td>Reference</td><td>Book 15 Hadith 101</td></tr></tbody></table></div>
 

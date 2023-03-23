@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন আব্দুর রহীম (রহঃ) ..... আমর ইবনুল আস (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম তাঁকে কুরআনের মধ্যে পনেরটি সিজদা আছে বলে শিক্ষা দিয়েছেন। এর তিনটি মুফাসসালের মধ্যে (সূরা নাজম, ইনশিকাক ও আলাক), সূরা হজ্জের মধ্যে দুটি (তবে হানাফী মাযহাব অনুযায়ী একটি)। (ইবন মাজা)। ইমাম আবু দাউদ (রহঃ) বলেনঃ আবু দারদা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম হতে এগারটি সিজদার বিষয় উল্লেখ করেছেন। তবে এর সনদ সুবিধাজনক নয়।
+। ‘আমর ইবনুল ‘আস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে কুরআনের মধ্যে পনেরটি সিজদা্ পাঠ করিয়েছেন। তন্মধ্যে সূরাহ মুফাসসলে তিনটি এবং সূরাহ হাজ্জের মধ্যে দু’টি।[1] ইমাম আবূ দাউদ (রহঃ) বলেন, আবূ দারদা (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন যে, সিজদা্ এগারটি। তবে এ বর্ণনার সানাদ দুর্বল। দুর্বল : মিশকাত (১০২৯)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1401</td></tr><tr><td>Arabic No</td><td>1401</td></tr><tr><td>Reference</td><td>Book 7 Hadith 1</td></tr></tbody></table></div>
 

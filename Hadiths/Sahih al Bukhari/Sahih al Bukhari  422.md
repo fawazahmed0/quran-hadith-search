@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মসজিদে পেলাম আর তাঁর সঙ্গে ছিলেন কয়েকজন সাহাবী। আমি দাঁড়িয়ে গেলাম। তিনি আমাকে বললেনঃ তোমাকে কি আবূ তালহা পাঠিয়েছেন? আমি বললামঃ জী হাঁ। তিনি বললেনঃ খাবার জন্য? আমি বললামঃ জী, হাঁ। তখন তাঁর আশেপাশে যাঁরা ছিলেন, তিনি তাঁদেরকে বললেনঃ উঠ। অতঃপর তিনি চলতে শুরু করলেন। (রাবী বলেন) আর আমি তাঁদের সামনে সামনে অগ্রসর হলাম। (৩৫৭৮, ৫৩৮১, ৫৪৫০, ৬৬৮৮) (আধুনিক প্রকাশনীঃ ৪০৪, ইসলামিক ফাউন্ডেশনঃ ৪১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মসজিদে পেলাম আর তাঁর সঙ্গে ছিলেন কয়েকজন সাহাবী। আমি দাঁড়িয়ে গেলাম। তিনি আমাকে বললেনঃ তোমাকে কি আবূ তালহা পাঠিয়েছেন? আমি বললামঃ জী হাঁ। তিনি বললেনঃ খাবার জন্য? আমি বললামঃ জী, হাঁ। তখন তাঁর আশেপাশে যাঁরা ছিলেন, তিনি তাঁদেরকে বললেনঃ উঠ। অতঃপর তিনি চলতে শুরু করলেন। (রাবী বলেন) আর আমি তাঁদের সামনে সামনে অগ্রসর হলাম। (৩৫৭৮, ৫৩৮১, ৫৪৫০, ৬৬৮৮) (আধুনিক প্রকাশনীঃ ৪০৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>422</td></tr><tr><td>Arabic No</td><td>422</td></tr><tr><td>Reference</td><td>Book 8 Hadith 72</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களைப் பள்ளிவாச-ல் கண்டேன். அவர்களுடன் மக்கள் சிலரும் இருந்தனர். (அவர்களுக்கு முன்னால் சென்று) நான் நின்றேன். அப்போது அவர்கள் என்னிடம், “உன்னை அபூதல்ஹா அனுப்பினாரா?” என்று கேட்டார்கள். நான் ‘ஆம்’ என்றேன். “உணவு அருந்துவதற்காகவா?” என்று கேட்டார்கள். நான் ‘ஆம்’ என்றேன். அப்போது நபி (ஸல்) அவர்கள் தம்முடன் இருந்தவர்களிடம், “எழுந்திருங்கள்” என்று சொல்-விட்டு நடந்தார்கள். நான் அவர்கள் அனைவருக்கும் முன்னால் நடந்தேன். அத்தியாயம் : 8
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களைப் பள்ளிவாச-ல் கண்டேன். அவர்களுடன் மக்கள் சிலரும் இருந்தனர். (அவர்களுக்கு முன்னால் சென்று) நான் நின்றேன். அப்போது அவர்கள் என்னிடம், “உன்னை அபூதல்ஹா அனுப்பினாரா?” என்று கேட்டார்கள். நான் ‘ஆம்’ என்றேன். “உணவு அருந்துவதற்காகவா?” என்று கேட்டார்கள். நான் ‘ஆம்’ என்றேன். அப்போது நபி (ஸல்) அவர்கள் தம்முடன் இருந்தவர்களிடம், “எழுந்திருங்கள்” என்று சொல்-விட்டு நடந்தார்கள். நான் அவர்கள் அனைவருக்கும் முன்னால் நடந்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>422</td></tr><tr><td>Arabic No</td><td>422</td></tr><tr><td>Reference</td><td>Book 8 Hadith 72</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İshak İbn Abdullah Enes İbn Mâlik'ten şöyle işittiğini nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem'i insanlarla birlikte camide otururken buldum. Bana: 'Seni Ebu Talha mı gönderdi?' diye sordu. Ben: 'Evet' deyince, Yemeğe davet etmen için mi?' diye sordu. Ben yine: 'Evet' dedim. Bunun üzerine beraberindekilere: 'Kalkın gidelim' dedi. Cemaat yürümeye başladı. Ben de önlerinde yürüdüm. Tekrar: 3528, 5381, 545, 6688
+İshak İbn Abdullah Enes İbn Mâlik'ten şöyle işittiğini nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem'i insanlarla birlikte camide otururken buldum. Bana: 'Seni Ebu Talha mı gönderdi?' diye sordu. Ben: 'Evet' deyince, Yemeğe davet etmen için mi?' diye sordu. Ben yine: 'Evet' dedim. Bunun üzerine beraberindekilere: 'Kalkın gidelim' dedi. Cemaat yürümeye başladı. Ben de önlerinde yürüdüm. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>422</td></tr><tr><td>Arabic No</td><td>422</td></tr><tr><td>Reference</td><td>Book 8 Hadith 72</td></tr></tbody></table></div>
 

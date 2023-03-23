@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। উমাইয়্যাহ ইবনু খালিদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, খালিদ আল-কাসরী গভর্ণর হয়ে সা‘-কে দ্বিগুণ করলেন। তাতে এক সা‘ ষোল রতলের সমান হয়। আবূ দাঊদ (রহঃ) বলেন, মুহাম্মাদ ইবনু মুহাম্মাদ খাল্লাদকে নিগ্রোরা বন্দী করে হত্যা করে। তিনি তার হাতের ইশরায় বলেন, এভাবে। আবূ দাঊদ (রহঃ) তার হাত প্রসারিত করেন এবং দু’ হাতের তালু মাটির দিকে উপুর করে বলেন, আমি তাকে স্বপ্নে দেখে জিজ্ঞেস করলাম, আল্লাহ আপনার সাথে কেমন ব্যবহার করেছেন? তিনি বলেন, আল্লাহ আমাকে জান্নাতে প্রবেশ করেছেন। আমি বললাম, তাহলে আপনার বন্দী অবস্থা আপনার অনিষ্ট করতে পারেনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3281</td></tr><tr><td>Arabic No</td><td>3281</td></tr><tr><td>Reference</td><td>Book 22 Hadith 40</td></tr></tbody></table></div>
 

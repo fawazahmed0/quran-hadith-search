@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, তারা (সহাবাগণ) জিজ্ঞেস করলেন, হে আল্লাহর রাসূল! ইসলামে কোন্ জিনিসটি উত্তম? তিনি বললেনঃ যার জিহবা ও হাত হতে মুসলিমগণ নিরাপদ থাকে। (মুসলিম ১/১৪ হাঃ ৪২, আহমাদ ৬৭৬৫) (আধুনিক প্রকাশনীঃ ১০, ইসলামিক ফাউন্ডেশনঃ ১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, তারা (সহাবাগণ) জিজ্ঞেস করলেন, হে আল্লাহর রাসূল! ইসলামে কোন্ জিনিসটি উত্তম? তিনি বললেনঃ যার জিহবা ও হাত হতে মুসলিমগণ নিরাপদ থাকে। (মুসলিম ১/১৪ হাঃ ৪২, আহমাদ ৬৭৬৫) (আধুনিক প্রকাশনীঃ ১০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Arabic No</td><td>11</td></tr><tr><td>Reference</td><td>Book 2 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin Yahya bin Sa'id Al Qurasyi] dia berkat
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா (அப்துல்லாஹ் பின் கைஸ்-ரலி) அவர்கள் கூறியதாவது: மக்கள், “அல்லாஹ்வின் தூதரே! இஸ்லாத்தில் சிறந்தது எது?” என்று கேட்டார்கள். அதற்கு நபி (ஸல்) அவர்கள், “எவரது நாவிலிருந்தும் கரத்திலிருந் தும் பிற முஸ்லிம்கள் பாதுகாப்புப் பெற்றிருக்கிறார்களோ அவரே (சிறந்தவர்; அவரது இஸ்லாமே சிறந்தது)” என்று பதிலளித்தார்கள்.13 அத்தியாயம் : 2
+அபூமூசா (அப்துல்லாஹ் பின் கைஸ்-ரலி) அவர்கள் கூறியதாவது: மக்கள், “அல்லாஹ்வின் தூதரே! இஸ்லாத்தில் சிறந்தது எது?” என்று கேட்டார்கள். அதற்கு நபி (ஸல்) அவர்கள், “எவரது நாவிலிருந்தும் கரத்திலிருந் தும் பிற முஸ்லிம்கள் பாதுகாப்புப் பெற்றிருக்கிறார்களோ அவரே (சிறந்தவர்; அவரது இஸ்லாமே சிறந்தது)” என்று பதிலளித்தார்கள்.13 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Arabic No</td><td>11</td></tr><tr><td>Reference</td><td>Book 2 Hadith 4</td></tr></tbody></table></div>
 

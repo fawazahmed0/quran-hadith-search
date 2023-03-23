@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উকবাহ ইবনু হারিস (রাঃ) বলেন, একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আসরের সালাত আদায় পূর্বক দ্রুত গিয়ে নিজ ঘরে প্রবেশ করলেন। [৮৫১] (আধুনিক প্রকাশনী- ৫৮৩৩, ইসলামিক ফাউন্ডেশন- ৫৭২৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উকবাহ ইবনু হারিস (রাঃ) বলেন, একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আসরের সালাত আদায় পূর্বক দ্রুত গিয়ে নিজ ঘরে প্রবেশ করলেন। [৮৫১] (আধুনিক প্রকাশনী- ৫৮৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6275</td></tr><tr><td>Arabic No</td><td>6275</td></tr><tr><td>Reference</td><td>Book 79 Hadith 49</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Umar bin Sa'id] dari [Ibnu Abu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உக்பா பின் அல்ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அஸ்ர் தொழுகையைத் தொழுவித்துவிட்டு உடனே (வழக்கத்திற்கு மாறாக) விரைவாகச் சென்று வீட்டுக்குள் நுழைந்தார்கள்.57 அத்தியாயம் : 79
+உக்பா பின் அல்ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அஸ்ர் தொழுகையைத் தொழுவித்துவிட்டு உடனே (வழக்கத்திற்கு மாறாக) விரைவாகச் சென்று வீட்டுக்குள் நுழைந்தார்கள்.57 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6275</td></tr><tr><td>Arabic No</td><td>6275</td></tr><tr><td>Reference</td><td>Book 79 Hadith 49</td></tr></tbody></table></div>
 

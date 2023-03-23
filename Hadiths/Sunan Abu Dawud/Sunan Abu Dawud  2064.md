@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবন মুহাম্মদ ..... হিশাম ইবন উরওয়া (রহঃ) তাঁর পিতা হাজ্জাজ ইবন হাজ্জাজ (রহঃ) হতে, তিনি তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, একদা আমি বলি, ইয়া রাসূলাল্লাহ্! আমার উপর দুগ্ধ পানের জন্য হক (দেয়) কি? তিনি বলেন, আল-গুর্‌রা অর্থাৎ দাস অথবা দাসী (দিতে হবে)।
+। হাজ্জাজ ইবনু হাজ্জাজ (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি বলি, হে আল্লাহর রাসূল! আমার দুধের হক কিভাবে পূর্ণরূপে আদায় হতে পারে? তিনি বললেনঃ একটি দাস বা দাসী প্রদানের দ্বারা।[1] দুর্বলঃ মিশকাত (৩১৭৪), যঈফ সুনান আত-তিরমিযী (১৯৬/১১৬৯), যঈফ সুনান নাসায়ী (২১৩/৩৩২৯)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2064</td></tr><tr><td>Arabic No</td><td>2064</td></tr><tr><td>Reference</td><td>Book 12 Hadith 19</td></tr></tbody></table></div>
 

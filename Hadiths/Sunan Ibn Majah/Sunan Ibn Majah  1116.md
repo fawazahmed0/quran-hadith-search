@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১১১৬। মুআয ইবনু আনাস (রহ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি জুমুআহর দিন লোকের ঘাড় ডিঙ্গিয়ে সামনে অগ্রসর হয়েছে, (কিয়ামতের দিন) তাকে জাহান্নামের পুল বানানো হবে।
+। মুআয ইবনু আনাস (রহ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি জুমুআহর দিন লোকের ঘাড় ডিঙ্গিয়ে সামনে অগ্রসর হয়েছে, (কিয়ামতের দিন) তাকে জাহান্নামের পুল বানানো হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1116</td></tr><tr><td>Arabic No</td><td>1116</td></tr><tr><td>Reference</td><td>Book 5 Hadith 314</td></tr></tbody></table></div>
 

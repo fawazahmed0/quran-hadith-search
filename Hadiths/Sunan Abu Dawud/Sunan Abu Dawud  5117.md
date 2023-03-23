@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নুফায়লী (রহঃ) ..... আবদুল্লাহ ইবন মাসউদ (রাঃ) তার পিতা থেকে বর্ণনা করেছেনঃ যে ব্যক্তি অন্যায়ভাবে তার কাওমের প্রতি পক্ষপাতিত্ব করে তার উদাহরণ এরূপ যে, যেমন কারও উট গর্তে পড়ে গেছে, আর সে তার লেজ ধরে টানছে। (অর্থাৎ সে উটকে উদ্ধার করা যেমন সম্ভব নয়, ঐরূপ ব্যক্তিকে জাহান্নাম থেকে বাঁচানোও কঠিন।)
+। আব্দুল্লাহ ইবনু মাস‘ঊদ (রাঃ) বলেন, যে ব্যক্তি তার কওমের লোকদেরকে অন্যায়ভাবে সাহায্য করে, সে ঐ উটের মত, যেটিকে গর্তে পড়ার পর তার লেজ ধরে টানা হচ্ছে।[1] সহীহ মাওকূফ ও মারফূভাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5117</td></tr><tr><td>Arabic No</td><td>5117</td></tr><tr><td>Reference</td><td>Book 43 Hadith 345</td></tr></tbody></table></div>
 

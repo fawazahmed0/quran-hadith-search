@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন আলী (রহঃ) ..... আলী ইবন আবূ তালিব (রাঃ) থেকে বর্ণিত। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ হাসান ইবন আলী (রাঃ) এ হাদীছকে মারফূ বলেছেন। তিনি বলেন যখন কোন দল কোথাও যায়, তখন তাদের একজন সালাম দিলেই যথেষ্ট হবে। আর বসা লোকদের মধ্য থেকে একজন সালামের জবাব দিলেই যথেষ্ট; (সকলের সালাম দেয়া বা সালামের দেয়া জরুরী নয়।)
+। আলী ইবনু আবূ-তালিব (রাঃ) সূত্রে বর্ণিত। ইমাম আবূ দাঊদ (রহঃ) বলেন, হাসান ইবনু আলী (রাঃ) এটি মারফুভাবে বর্ণনা করেছেন। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেন, পদ অতিক্রমকালে দলের একজন যদি সালাম দেয় তাহলে তা সকলের জন্য যথেষ্ট। এমনিভাবে উপবিষ্টদের একজন তার উত্তর দিলে তা সকলের জন্য যথেষ্ট।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5210</td></tr><tr><td>Arabic No</td><td>5210</td></tr><tr><td>Reference</td><td>Book 43 Hadith 438</td></tr></tbody></table></div>
 

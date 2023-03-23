@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল ...... আবূ কাতাদা (রাঃ) পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেছেন। এরপর তিনি অতিরিক্ত বর্ণনা করে বলেন, ইয়া রাসূলাল্লাহ্! সোমবার ও বৃহস্পতিবার রোযা রাখা সম্পর্কে আপনার অভিমত কী? তিনি বলেন, এ দিন (সোমবার) আমি জন্মগ্রহণ করেছি এবং এ দিন আমার উপর কুরআন সর্বপ্রথম নাযিল হয়।
+। আবূ কাতাদাহ (রহ.) থেকে এই সনদে পূর্বোক্ত হাদীস বর্ণিত। তাতে অতিরিক্ত রয়েছেঃ তিনি জিজ্ঞেস করলেন, হে আল্লাহর রাসূল! সোমবার ও বৃহস্পতিবার সওম পালনের ব্যাপারে আপনার কি অভিমত? তিনি বললেনঃ ঐ দিন আমি জন্মগ্রহণ করেছি এবং ঐ দিনই আমার উপর কুরআন অবতীর্ণ হয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>2426</td></tr><tr><td>Reference</td><td>Book 14 Hadith 114</td></tr></tbody></table></div>
 

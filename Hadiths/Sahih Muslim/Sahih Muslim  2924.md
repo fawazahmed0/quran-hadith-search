@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৮১৪, আন্তর্জাতিক নাম্বারঃ ১২১১ ২৮১৪-(.../...) আবদ ইবনু হুমায়দ (রহঃ) ..... কাসিম ইবনু মুহাম্মাদ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আয়িশাহ (রাযিঃ) হাজ্জ (হজ্জ/হজ) করার জন্য এসেছিলেন। (ইসলামিক ফাউন্ডেশন ২৭৯১, ইসলামীক সেন্টার ২৭৮৯)
+আবদ ইবনু হুমায়দ (রহঃ) ..... কাসিম ইবনু মুহাম্মাদ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আয়িশাহ (রাযিঃ) হাজ্জ (হজ্জ/হজ) করার জন্য এসেছিলেন। (ইসলামিক ফাউন্ডেশন ২৭৯১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2924</td></tr><tr><td>Arabic No</td><td>1211.15</td></tr><tr><td>Reference</td><td>Book 15 Hadith 133</td></tr></tbody></table></div>
 

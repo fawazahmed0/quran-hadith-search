@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াযীদ ইবন খালিদ ইবন মাওহাব রামলী (রহঃ) .... হারিছ ইবন নওফলের আযাদকৃত গোলাম আম্মার (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ তিনি উম্মু কুলছূম (রাঃ) এবং তাঁর পুত্রের জানাযায় শরীক ছিলেন। তখন পুত্রের জানাযা (লাশ) ইমামের নিকটবর্তী রাখা হয় (এবং মহিলার লাশ দূরে)। রাবী বলেনঃ ব্যাপারটি আমার কাছে প্রিয় মনে হয়নি। এ সময় লোকদের মাঝে ইবন আব্বাস (রাঃ), আবূ সাঈদ খুদরী (রাঃ), আবূ কাতাদা (রাঃ) ও আবূ হুরায়রা (রাঃ) উপস্থিত ছিলেন। তাঁরা বলেনঃ এটাই সুন্নাত তরীকা।
+। আল-হারিস ইবনু নাওফালের মুক্তদাস ‘আম্মার (রাঃ) সূত্রে বর্ণিত। তিনি উম্মু কুলসুম (রাঃ) ও তার পুত্রের জানাযায় উপস্থিত ছিলেন। ছেলেকে ইমামের নিকট রাখা হলে আমি প্রতিবাদ করলাম। উপস্থিত লোকদের মধ্যে ইবনু আব্বাস, আবূ সাঈদ আল-খুদরী, আবূ কাতাদাহ ও আবূ হুরাইরাহ (রাঃ)-ও ছিলেন। তারা বললেন, এটাই সুন্নাত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 21 Hadith 105</td></tr></tbody></table></div>
 

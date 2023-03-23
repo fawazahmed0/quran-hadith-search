@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মুহাম্মদ ইবন ছাবিত (রহঃ) .... ‘আবদুল্লাহ্ ইবন বুরায়দা (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি আবূ বুরায়দা (রাঃ)-কে বলতে শুনেছি যে, জাহিলিয়াতের যুগে যখন আমাদের কারও পুত্র সন্তান জন্ম নিত, তখন বকরী যবাহ করা হতো এবং ঐ পশুর রক্ত সে সন্তানের মাথায় লাগানো হত। অতঃপর আল্লাহ্ যখন দীন-ইসলাম প্রেরণ করেন, তখন আমরা বকরী যবাহ্ করতাম, সন্তানেরা মাথা মুন্ডন করতাম এবং তাতে জাফরান লাগিয়ে দিতাম।
+। বুরাইদাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, জাহিলী যুগে আমাদের কারো সন্তান জন্মগ্রহণ করলে সে একটি বকরী যবাহ করতো এবং শিশুর মাথায় ঐ পশুর রক্ত মেখে দিতো। অতঃপর আল্লাহ যখন দীনে ইসলাম আনলেন, ‘আমরা বকরী যবাহ করতাম, শিশুর মাথা মুন্ডন করতাম এবং তাতে যা‘ফরান মাখতাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2843</td></tr><tr><td>Arabic No</td><td>2843</td></tr><tr><td>Reference</td><td>Book 16 Hadith 56</td></tr></tbody></table></div>
 

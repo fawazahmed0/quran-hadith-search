@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালিম (রহ.) তাঁর পিতা থেকে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। তিনি বলেছেনঃ যখন তোমরা ঘুমাবে তখন তোমাদের ঘরে আগুন রেখে ঘুমাবে না। [মুসলিম ৩৬/১২, হাঃ ২০১৫, আহমাদ ৪৫১৫] (আধুনিক প্রকাশনী- ৫৮৪৯, ইসলামিক ফাউন্ডেশন- ৫৭৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালিম (রহ.) তাঁর পিতা থেকে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। তিনি বলেছেনঃ যখন তোমরা ঘুমাবে তখন তোমাদের ঘরে আগুন রেখে ঘুমাবে না। [মুসলিম ৩৬/১২, হাঃ ২০১৫, আহমাদ ৪৫১৫] (আধুনিক প্রকাশনী- ৫৮৪৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Ibnu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் உறங்கச் செல்லும்போது உங்கள் வீட்டிலுள்ள நெருப்பை (அணைக்காமல்) விட்டுவிடாதீர்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 79
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் உறங்கச் செல்லும்போது உங்கள் வீட்டிலுள்ள நெருப்பை (அணைக்காமல்) விட்டுவிடாதீர்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
 

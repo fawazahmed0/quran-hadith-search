@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের ব্যক্তিগত বিষয়ের কোন প্রতিশোধ গ্রহণ করেননি, যে পর্যন্ত না আল্লাহর অলঙ্ঘনীয় সীমা অতিক্রম করা হয়। এমন হলে তিনি আল্লাহর জন্য প্রতিশোধ গ্রহণ করতেন। [৩৫৬০] (আধুনিক প্রকাশনী- ৬৩৭৬, ইসলামিক ফাউন্ডেশন- ৬৩৮৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের ব্যক্তিগত বিষয়ের কোন প্রতিশোধ গ্রহণ করেননি, যে পর্যন্ত না আল্লাহর অলঙ্ঘনীয় সীমা অতিক্রম করা হয়। এমন হলে তিনি আল্লাহর জন্য প্রতিশোধ গ্রহণ করতেন। [৩৫৬০] (আধুনিক প্রকাশনী- ৬৩৭৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6853</td></tr><tr><td>Arabic No</td><td>6853</td></tr><tr><td>Reference</td><td>Book 86 Hadith 75</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdan] Telah mengabarkan kepada kami [Abdullah] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமக்கிழைக்கப்பட்ட (கொடுமை களில்) எதற்காகவும் தமக்கென ஒரு போதும் எவரையும் பழிவாங்கியதில்லை; அல்லாஹ்வின் புனித(ச் சட்ட)ங்கள் சீர்குலைக்கப்பட்டு, (அதற்காக) அல்லாஹ்வின் சார்பாகப் பழிவாங்க வேண்டுமென்று இருந்தால் தவிர!66 அத்தியாயம் : 86
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமக்கிழைக்கப்பட்ட (கொடுமை களில்) எதற்காகவும் தமக்கென ஒரு போதும் எவரையும் பழிவாங்கியதில்லை; அல்லாஹ்வின் புனித(ச் சட்ட)ங்கள் சீர்குலைக்கப்பட்டு, (அதற்காக) அல்லாஹ்வின் சார்பாகப் பழிவாங்க வேண்டுமென்று இருந்தால் தவிர!66 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6853</td></tr><tr><td>Arabic No</td><td>6853</td></tr><tr><td>Reference</td><td>Book 86 Hadith 75</td></tr></tbody></table></div>
 

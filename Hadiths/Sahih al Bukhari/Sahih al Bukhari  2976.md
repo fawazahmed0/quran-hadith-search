@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি যুবাইর (রাঃ)-কে বলেছিলেন, এখানেই কি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আপনাকে পতাকা গাড়ার নির্দেশ দিয়েছিলেন? (৪২৮০) (আধুনিক প্রকাশনীঃ ২৭৫৫, ইসলামিক ফাউন্ডেশনঃ ২৭৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি যুবাইর (রাঃ)-কে বলেছিলেন, এখানেই কি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আপনাকে পতাকা গাড়ার নির্দেশ দিয়েছিলেন? (৪২৮০) (আধুনিক প্রকাশনীঃ ২৭৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2976</td></tr><tr><td>Arabic No</td><td>2976</td></tr><tr><td>Reference</td><td>Book 56 Hadith 185</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Al 'Alaa'] telah bercerita kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ஸுபைர் பின் அல்அவ்வாம் (ரலி) அவர்களிடம் அப்பாஸ் (ரலி) அவர்கள் (ஹஜூன் எனுமிடத்தைச் சுட்டிக்காட்டி), ‘‘நபி (ஸல்) அவர்கள் (மக்கா வெற்றியின் போது) உங்களை இங்குதான் கொடியை நடச்சொன்னார்கள்” என்று கூறினார்கள். அத்தியாயம் : 56
+நாஃபிஉ பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ஸுபைர் பின் அல்அவ்வாம் (ரலி) அவர்களிடம் அப்பாஸ் (ரலி) அவர்கள் (ஹஜூன் எனுமிடத்தைச் சுட்டிக்காட்டி), ‘‘நபி (ஸல்) அவர்கள் (மக்கா வெற்றியின் போது) உங்களை இங்குதான் கொடியை நடச்சொன்னார்கள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2976</td></tr><tr><td>Arabic No</td><td>2976</td></tr><tr><td>Reference</td><td>Book 56 Hadith 185</td></tr></tbody></table></div>
 

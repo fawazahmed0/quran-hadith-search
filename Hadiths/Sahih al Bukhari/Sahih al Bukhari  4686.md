@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(الرِّفْدُ الْمَرْفُوْدُ) الْعَوْنُ الْمُعِيْنُ رَفَدْتُهُ أَعَنْتُهُ (تَرْكَنُوْا) تَمِيْلُوْا (فَلَوْلَاكَانَ) فَهَلَّا كَانَ (أُتْرِفُوْا) أُهْلِكُوْا وَقَالَ ابْنُ عَبَّاسٍ (زَفِيْرٌوَشَهِيْقٌ) شَدِيْدٌ وَصَوْتٌ ضَعِيْفٌ. الرِّفْدُ الْمَرْفُوْدُ অর্থাৎ সাহায্য, যে সাহায্য করা হয় (বলা হয়) رَفَدْتُهُ আমি তাকে সাহায্য করলাম। تَرْكَنُوْا ঝুঁকে পড়। فَلَوْلَا كَانَ কেন হয়নি। أُتْرِفُوْا তাদের ধ্বংস করে দেয়া হল। ইবনু ‘আব্বাস (রাঃ) বলেন, زَفِيْرٌ وَشَهِيْقٌ বিকট শব্দ এবং ক্ষীণ শব্দ। ৪৬৮৬. আবূ মূসা আশ‘আরী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ তা‘আলা যালিমদের ঢিল দিয়ে থাকেন। অবশেষে যখন তাকে ধরেন, তখন আর ছাড়েন না। (বর্ণনাকারী বলেন) এরপর তিনি [নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম] এ আয়াত পাঠ করেন- ‘‘আর এরকমই বটে আপনার রবের পাকড়াও, যখন তিনি কোন জনপদবাসীকে পাকড়াও করেন তাদের জুলুমের দরুন। নিঃসন্দেহে তাঁর পাকড়াও বড় যন্ত্রণাদায়ক, অত্যন্ত কঠিন’’- (সূরাহ হূদ ১১/১০২)।(আধুনিক প্রকাশনীঃ ৪৩২৫, ইসলামিক ফাউন্ডেশনঃ ৪৩২৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(الرِّفْدُ الْمَرْفُوْدُ) الْعَوْنُ الْمُعِيْنُ رَفَدْتُهُ أَعَنْتُهُ (تَرْكَنُوْا) تَمِيْلُوْا (فَلَوْلَاكَانَ) فَهَلَّا كَانَ (أُتْرِفُوْا) أُهْلِكُوْا وَقَالَ ابْنُ عَبَّاسٍ (زَفِيْرٌوَشَهِيْقٌ) شَدِيْدٌ وَصَوْتٌ ضَعِيْفٌ. الرِّفْدُ الْمَرْفُوْدُ অর্থাৎ সাহায্য, যে সাহায্য করা হয় (বলা হয়) رَفَدْتُهُ আমি তাকে সাহায্য করলাম। تَرْكَنُوْا ঝুঁকে পড়। فَلَوْلَا كَانَ কেন হয়নি। أُتْرِفُوْا তাদের ধ্বংস করে দেয়া হল। ইবনু ‘আব্বাস (রাঃ) বলেন, زَفِيْرٌ وَشَهِيْقٌ বিকট শব্দ এবং ক্ষীণ শব্দ। ৪৬৮৬. আবূ মূসা আশ‘আরী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ তা‘আলা যালিমদের ঢিল দিয়ে থাকেন। অবশেষে যখন তাকে ধরেন, তখন আর ছাড়েন না। (বর্ণনাকারী বলেন) এরপর তিনি [নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম] এ আয়াত পাঠ করেন- ‘‘আর এরকমই বটে আপনার রবের পাকড়াও, যখন তিনি কোন জনপদবাসীকে পাকড়াও করেন তাদের জুলুমের দরুন। নিঃসন্দেহে তাঁর পাকড়াও বড় যন্ত্রণাদায়ক, অত্যন্ত কঠিন’’- (সূরাহ হূদ ১১/১০২)।(আধুনিক প্রকাশনীঃ ৪৩২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4686</td></tr><tr><td>Arabic No</td><td>4686</td></tr><tr><td>Reference</td><td>Book 65 Hadith 208</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Musa:Allah's Messenger (ﷺ) said, "Allah gives respite to the oppressor, but when He takes him over, He never releases him." Then he recited:-- "Such is the seizure of your Lord when He seizes (population of) towns in the midst of their wrong: Painful indeed, and severe is His seizure.' (11.102)
+Narrated Abu Musa:Allah's Messenger (ﷺ) said, "Allah gives respite to the oppressor, but when He takes him over, He never releases him." Then he recited:-- "Such is the seizure of your Lord when He seizes (population of) towns in the midst of their wrong: Painful indeed, and severe is His seizure
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4686</td></tr><tr><td>Arabic No</td><td>4686</td></tr><tr><td>Reference</td><td>Book 65 Hadith 208</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Abu Musa:Allah's Messenger (ﷺ) said, "Allah gives respite to the oppr
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Shadaqah bin Al Fadll] Telah mengabarkan kepada kami [Abu Mu'awiyah] Telah menceritakan kepada kami [Buraid bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah Subhanahu wa Ta 'ala akan menangguhkan siksaan bagi orang yang berbuat zhalim. Dan apabila Allah telah menghukumnya, maka Dia tidak akan pernah melepaskannya." Kemudian Rasulullah membaca ayat yang berbunyi: 'Begitulah adzab Tuhanmu, apabila Dia mengadzab penduduk negeri-negeri yang berbuat zhalim. Sesungguhnya adzab-Nya itu sangat pedih dan keras.' (Qs. Huud (11): 102
+Telah menceritakan kepada kami [Shadaqah bin Al Fadll] Telah mengabarkan kepada kami [Abu Mu'awiyah] Telah menceritakan kepada kami [Buraid bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah Subhanahu wa Ta 'ala akan menangguhkan siksaan bagi orang yang berbuat zhalim. Dan apabila Allah telah menghukumnya, maka Dia tidak akan pernah melepaskannya." Kemudian Rasulullah membaca ayat yang berbunyi: 'Begitulah adzab Tuhanmu, apabila Dia mengadzab penduduk negeri-negeri yang berbuat zhalim. Sesungguhnya adzab-Nya itu sangat pedih dan keras.' (Qs. Huud (11):
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4686</td></tr><tr><td>Arabic No</td><td>4686</td></tr><tr><td>Reference</td><td>Book 65 Hadith 208</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Shadaqah bin Al Fadll] Telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “அல்லாஹ் அநீதியாளனுக்கு விட்டுக்கொடுத்து அவகாசமளிப்பான். இறுதியில் அவனைப் பிடித்துவிட்டால் அவனை விடவேமாட்டான்” என்று கூறிவிட்டு, பிறகு,”அநீதி இழைக்கும் ஊர்(க்காரர்)களை உம் இறைவன் தண்டிக்கும்போது அவனது பிடி இப்படித்தானிருக்கும். நிச்சயமாக அவனது பிடி வேதனை மிக்கதும் மிகக் கடுமையானதும் ஆகும்” எனும் (11:102ஆவது) இறைவசனத்தை ஓதினார்கள். அத்தியாயம் : 65
+அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “அல்லாஹ் அநீதியாளனுக்கு விட்டுக்கொடுத்து அவகாசமளிப்பான். இறுதியில் அவனைப் பிடித்துவிட்டால் அவனை விடவேமாட்டான்” என்று கூறிவிட்டு, பிறகு,”அநீதி இழைக்கும் ஊர்(க்காரர்)களை உம் இறைவன் தண்டிக்கும்போது அவனது பிடி இப்படித்தானிருக்கும். நிச்சயமாக அவனது பிடி வேதனை மிக்கதும் மிகக் கடுமையானதும் ஆகும்” எனும் (11:102ஆவது) இறைவசனத்தை ஓதினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4686</td></tr><tr><td>Arabic No</td><td>4686</td></tr><tr><td>Reference</td><td>Book 65 Hadith 208</td></tr></tbody></table></div>
 

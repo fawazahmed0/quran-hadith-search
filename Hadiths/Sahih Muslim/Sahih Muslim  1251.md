@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১১৩৮, আন্তর্জাতিক নাম্বারঃ ৫৬৩ ১১৩৮-(৭১/৫৬৩) মুহাম্মাদ ইবনু রাফি' ও 'আবদ ইবনু হুমায়দ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি এসব গাছ অর্থাৎ- উদ্ভিদ খাবে সে যেন আমাদের মসজিদের নিকটেও না আসে এবং রসুনের গন্ধ দ্বারা আমাদেরকে কষ্ট না দেয়। (ইসলামী ফাউন্ডেশন ১১৩১, ইসলামীক সেন্টার ১১৪০)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1251</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

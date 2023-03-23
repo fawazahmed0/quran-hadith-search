@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১২৮৯। আমর ইবনু শুআইব (রহঃ) হতে পর্যায়ক্রমে তার পিতা ও দাদার সূত্রে বর্ণিত আছে, গাছের বোটায় ঝুলন্ত ফল প্রসঙ্গে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে প্রশ্ন করা হলে তিনি বলেনঃ যদি কোন লোক নিরুপায় হয়ে তা খায় কিন্তু পুটুলি বেঁধে না নিয়ে যায় তবে তার কোন অন্যায় হবে না। হাসান, ইরওয়া (২৪১৩) আবূ ঈসা এ হাদীসটিকে হাসান বলেছেন।
+। আমর ইবনু শুআইব (রহঃ) হতে পর্যায়ক্রমে তার পিতা ও দাদার সূত্রে বর্ণিত আছে, গাছের বোটায় ঝুলন্ত ফল প্রসঙ্গে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে প্রশ্ন করা হলে তিনি বলেনঃ যদি কোন লোক নিরুপায় হয়ে তা খায় কিন্তু পুটুলি বেঁধে না নিয়ে যায় তবে তার কোন অন্যায় হবে না। হাসান, ইরওয়া (২৪১৩) আবূ ঈসা এ হাদীসটিকে হাসান বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1289</td></tr><tr><td>Arabic No</td><td>1289</td></tr><tr><td>Reference</td><td>Book 14 Hadith 91</td></tr></tbody></table></div>
 

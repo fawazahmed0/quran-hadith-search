@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্বিয়ামাত (কিয়ামত) সংঘটিত হবে না, যতক্ষণ না এমন দু’টি দল পরস্পর লড়াই করবে, যাদের দাবী হবে অভিন্ন।[1] [৮৫] (আধুনিক প্রকাশনী- ৬৪৫৪, ইসলামিক ফাউন্ডেশন- ৬৪৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্বিয়ামাত (কিয়ামত) সংঘটিত হবে না, যতক্ষণ না এমন দু’টি দল পরস্পর লড়াই করবে, যাদের দাবী হবে অভিন্ন।[1] [৮৫] (আধুনিক প্রকাশনী- ৬৪৫৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6935</td></tr><tr><td>Arabic No</td><td>6935</td></tr><tr><td>Reference</td><td>Book 88 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Sufyan] tel
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரே வாதத்தை முன்வைக்கும் இரு குழுவினர் தம்மிடையே போரிட்டுக் கொள்ளாத வரை யுக முடிவுநாள் வராது.20 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.21 அத்தியாயம் : 88
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரே வாதத்தை முன்வைக்கும் இரு குழுவினர் தம்மிடையே போரிட்டுக் கொள்ளாத வரை யுக முடிவுநாள் வராது.20 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.21 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6935</td></tr><tr><td>Arabic No</td><td>6935</td></tr><tr><td>Reference</td><td>Book 88 Hadith 17</td></tr></tbody></table></div>
 

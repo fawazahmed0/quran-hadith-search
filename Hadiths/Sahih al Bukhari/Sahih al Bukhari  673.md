@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কারো সামনে রাতের খাবার এসে পড়ে, অপরদিকে সালাতের ইক্বামাত(ইকামত/একামত) হয়ে যায়। তখন পূর্বে খাবার খেয়ে নিবে। খাওয়া রেখে সালাতে তাড়াহুড়া করবে না। [নাফি‘ (রহ.) বলেন] ইবনু ‘উমার (রাযি.)-এর জন্য খাবার পরিবেশন করা হত, সে সময় সালাতের ইক্বামাত(ইকামত/একামত) দেয়া হত, তিনি খাবার শেষ না করে সালাতে আসতেন না। অথচ তিনি ইমামের কিরাআত শুনতে পেতেন। (৬৭৪, ৫৪৬৪) (আধুনিক প্রকাশনীঃ৬৩৩ , ইসলামিক ফাউন্ডেশনঃ ৬৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কারো সামনে রাতের খাবার এসে পড়ে, অপরদিকে সালাতের ইক্বামাত(ইকামত/একামত) হয়ে যায়। তখন পূর্বে খাবার খেয়ে নিবে। খাওয়া রেখে সালাতে তাড়াহুড়া করবে না। [নাফি‘ (রহ.) বলেন] ইবনু ‘উমার (রাযি.)-এর জন্য খাবার পরিবেশন করা হত, সে সময় সালাতের ইক্বামাত(ইকামত/একামত) দেয়া হত, তিনি খাবার শেষ না করে সালাতে আসতেন না। অথচ তিনি ইমামের কিরাআত শুনতে পেতেন। (৬৭৪, ৫৪৬৪) (আধুনিক প্রকাশনীঃ৬৩৩ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 10 Hadith 67</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ubaid bin Isma'il] dari [Abu Usamah] dari ['Uba
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவருக்குமுன் இரவு உணவு வைக்கப்பட்டிருக்க, தொழுகைக்கு ‘இகாமத்’ சொல்லப்பட்டுவிட்டால், முத-ல் உணவை உண்ணுங்கள். அதை (உண்டு) முடிக்கும்வரை (தொழுகைக்காக) அவர் அவசரப்பட வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். நாஃபிஉ (ரஹ்) அவர்கள் கூறு கிறார்கள்: இப்னு உமர் (ரலி) அவர்களுக்கு முன்னால் உணவு வைக்கப்பட்டிருக்கை யில் தொழுகைக்கு இகாமத் சொல்லப்படும். அவர்கள் (சாப்பிட்டு) முடிக்காத வரை தொழுகைக்குச் செல்லமாட்டார்கள். அப்போது இமாம் ஓதுவதைக் கேட்டபடியே (சாப்பிட்டுக்கொண்டு) இருப்பார்கள். அத்தியாயம் : 10
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவருக்குமுன் இரவு உணவு வைக்கப்பட்டிருக்க, தொழுகைக்கு ‘இகாமத்’ சொல்லப்பட்டுவிட்டால், முத-ல் உணவை உண்ணுங்கள். அதை (உண்டு) முடிக்கும்வரை (தொழுகைக்காக) அவர் அவசரப்பட வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். நாஃபிஉ (ரஹ்) அவர்கள் கூறு கிறார்கள்: இப்னு உமர் (ரலி) அவர்களுக்கு முன்னால் உணவு வைக்கப்பட்டிருக்கை யில் தொழுகைக்கு இகாமத் சொல்லப்படும். அவர்கள் (சாப்பிட்டு) முடிக்காத வரை தொழுகைக்குச் செல்லமாட்டார்கள். அப்போது இமாம் ஓதுவதைக் கேட்டபடியே (சாப்பிட்டுக்கொண்டு) இருப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 10 Hadith 67</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ubaid bin Isma'il] dari [Abu Usamah] dari ['Uba
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nâfi'in Abdullah İbn Ömer (r.a.)'den naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Siz'den birinin akşam yemeği hazırlanıp önüne konduğu zaman namaz için kamet getirilmiş olsa bile önce yemeğini yesin. Yemeğini bitirinceye kadar da acele etmesin." Zaten Abdullah İbn Ömer (r.a.) de yemeği önüne konduğu zaman, namaz için kamet getirilmiş olsa bile önce yemeğini yerdi. Yemeğini bitirinceye kadar -cemaate namaz kıldıran imamın okuduğu sureleri duysa da- namaza başlamazdı. Tekrar: 674 ve 5464
+Nâfi'in Abdullah İbn Ömer (r.a.)'den naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Siz'den birinin akşam yemeği hazırlanıp önüne konduğu zaman namaz için kamet getirilmiş olsa bile önce yemeğini yesin. Yemeğini bitirinceye kadar da acele etmesin." Zaten Abdullah İbn Ömer (r.a.) de yemeği önüne konduğu zaman, namaz için kamet getirilmiş olsa bile önce yemeğini yerdi. Yemeğini bitirinceye kadar -cemaate namaz kıldıran imamın okuduğu sureleri duysa da- namaza başlamazdı. Tekrar: 674 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 10 Hadith 67</td></tr></tbody></table></div>
 

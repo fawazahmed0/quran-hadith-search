@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাঈদ ইবনু মানসুর ..... আয়িশা (রাঃ) হতে বর্ণিত তিনি বলেছেন, নিশ্চয়ই রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেছেনঃ তোমাদের কেউ যখন পায়খানায় গমন করে, তখন সে যেন তার সাথে তিনটি পাথর (কুলুখ) নিয়ে যায়, যা দ্বারা সে পবিত্রতা অর্জন করবে এবং এটাই তার জন্য যথেষ্ট। (নাসাঈ, আহমদ, দারাকূতনী)।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কেউ পায়খানায় গেলে যেন তিনটি পাথর সাথে নিয়ে যায় এবং ওগুলো দ্বারা পবিত্রতা অর্জন করে। কারণ তার জন্য তাই যথেষ্ট।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 1 Hadith 40</td></tr></tbody></table></div>
 

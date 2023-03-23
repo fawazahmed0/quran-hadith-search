@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নবী সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রমাযানের শেষ দশক ই‘তিকাফ করতেন। তাঁর ওফাত পর্যন্ত এই নিয়মই ছিল। এরপর তাঁর সহধর্মিণীগণও (সে দিনগুলোতে) ই‘তিকাফ করতেন। (২০৩৩, ২০৩৪, ২০৪১, ২০৪৫, মুসলিম ১৪/১, হাঃ ১১৭২, আহমাদ ২৬০১১) (আধুনিক প্রকাশনীঃ ১৮৮৪, ইসলামিক ফাউন্ডেশনঃ ১৮৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নবী সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রমাযানের শেষ দশক ই‘তিকাফ করতেন। তাঁর ওফাত পর্যন্ত এই নিয়মই ছিল। এরপর তাঁর সহধর্মিণীগণও (সে দিনগুলোতে) ই‘তিকাফ করতেন। (২০৩৩, ২০৩৪, ২০৪১, ২০৪৫, মুসলিম ১৪/১, হাঃ ১১৭২, আহমাদ ২৬০১১) (আধুনিক প্রকাশনীঃ ১৮৮৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2026</td></tr><tr><td>Arabic No</td><td>2026</td></tr><tr><td>Reference</td><td>Book 33 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இறக்கும்வரை ரமளானின் இறுதிப் பத்து நாட்களில் இஃதிகாஃப் இருந்துவந்தார்கள்; அவர்களுக்குப்பின் அவர்களின் துணைவியர் இஃதிகாஃப் இருந்தனர். அத்தியாயம் : 33
+நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இறக்கும்வரை ரமளானின் இறுதிப் பத்து நாட்களில் இஃதிகாஃப் இருந்துவந்தார்கள்; அவர்களுக்குப்பின் அவர்களின் துணைவியர் இஃதிகாஃப் இருந்தனர். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2026</td></tr><tr><td>Arabic No</td><td>2026</td></tr><tr><td>Reference</td><td>Book 33 Hadith 2</td></tr></tbody></table></div>
 

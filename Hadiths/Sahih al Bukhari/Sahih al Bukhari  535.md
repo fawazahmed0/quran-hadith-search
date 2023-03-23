@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ যার (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর মুআয্যিন যুহরের আযান দিলে তিনি বললেনঃ ঠান্ডা হতে দাও, ঠান্ডা হতে দাও। অথবা তিনি বললেন, অপেক্ষা কর, অপেক্ষা কর। তিনি আরও বলেন, গরমের প্রচন্ডতা জাহান্নামের নিঃশ্বাসের ফলেই সৃষ্টি হয়। কাজেই গরম যখন বেড়ে যায় তখন গরম কমলেই সালাত আদায় করবে। এমনকি (বিলম্ব করতে করতে বেলা এতটুকু গড়িয়ে গিয়েছিল যে) আমরা টিলাগুলোর ছায়া দেখতে পেলাম। (৫৩৯, ৬২৯, ৩২৫৮; মুসলিম ৫/৩২, হাঃ ৬১৬, আহমাদ ২১৪৩৪) (আধুনিক প্রকাশনীঃ ৫০৩, ইসলামিক ফাউন্ডেশনঃ ৫০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ যার (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর মুআয্যিন যুহরের আযান দিলে তিনি বললেনঃ ঠান্ডা হতে দাও, ঠান্ডা হতে দাও। অথবা তিনি বললেন, অপেক্ষা কর, অপেক্ষা কর। তিনি আরও বলেন, গরমের প্রচন্ডতা জাহান্নামের নিঃশ্বাসের ফলেই সৃষ্টি হয়। কাজেই গরম যখন বেড়ে যায় তখন গরম কমলেই সালাত আদায় করবে। এমনকি (বিলম্ব করতে করতে বেলা এতটুকু গড়িয়ে গিয়েছিল যে) আমরা টিলাগুলোর ছায়া দেখতে পেলাম। (৫৩৯, ৬২৯, ৩২৫৮; মুসলিম ৫/৩২, হাঃ ৬১৬, আহমাদ ২১৪৩৪) (আধুনিক প্রকাশনীঃ ৫০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>535</td></tr><tr><td>Arabic No</td><td>535</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூதர் (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை நாங்கள் பயணத்தில் இருந்தோம். அப்போது) நபி (ஸல்) அவர்களின் தொழுகை அறிவிப்பாளர் (முஅத்தின் பிலால் (ரலி) அவர்கள்) லுஹ்ர் தொழுகைக்கு ‘பாங்கு’ சொல்ல முற்பட்டார். அப்போது நபி (ஸல்) அவர்கள், ‘வெப்பம் தணியட்டும்; வெப்பம் தணியட் டும்’ அல்லது ‘பொறுப்பீராக; பொறுப்பீராக’ என்று கூறிவிட்டு, “கடுமையான வெப்பம் நரக நெருப்பின் பெருமூச்சால் உண்டா கிறது. வெப்பம் கடுமையாகும்போது (லுஹ்ர்) தொழுகையை வெப்பம் தணிந்தபின் தொழுங்கள்” என்று கூறினார்கள். (எனவே நாங்கள் லுஹ்ர் தொழுகையைத் தாமதப்படுத்தினோம்). எந்த அளவுக்கென்றால் மணல் மேடுகளிலிருந்து நிழல் படிவதை நாங்கள் பார்த்தோம். அத்தியாயம் : 9
+அபூதர் (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை நாங்கள் பயணத்தில் இருந்தோம். அப்போது) நபி (ஸல்) அவர்களின் தொழுகை அறிவிப்பாளர் (முஅத்தின் பிலால் (ரலி) அவர்கள்) லுஹ்ர் தொழுகைக்கு ‘பாங்கு’ சொல்ல முற்பட்டார். அப்போது நபி (ஸல்) அவர்கள், ‘வெப்பம் தணியட்டும்; வெப்பம் தணியட் டும்’ அல்லது ‘பொறுப்பீராக; பொறுப்பீராக’ என்று கூறிவிட்டு, “கடுமையான வெப்பம் நரக நெருப்பின் பெருமூச்சால் உண்டா கிறது. வெப்பம் கடுமையாகும்போது (லுஹ்ர்) தொழுகையை வெப்பம் தணிந்தபின் தொழுங்கள்” என்று கூறினார்கள். (எனவே நாங்கள் லுஹ்ர் தொழுகையைத் தாமதப்படுத்தினோம்). எந்த அளவுக்கென்றால் மணல் மேடுகளிலிருந்து நிழல் படிவதை நாங்கள் பார்த்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>535</td></tr><tr><td>Arabic No</td><td>535</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Zer' (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem'in müezzini öğle ezanını okumaya başladı. Resulullah Sallallahu Aleyhi ve Sellem: 'Serin vakte bırak! Serin vakte bırak!1 veya Bekle!, bekle!' diye seslendi. Sonra da şöyle buyurdu: "Havanın aşırı derecede sıcak olması, cehennem ateşinin kaynamasından ileri gelir. O halde, hava aşırı derecede sıcak olunca, namaz'ı serin vakte erteleyin! Ebu Zer şöyle demiştir: Tepelerin gölgesini görünceye kadar namazı ertelerdik. Tekrar: 539, 629, 3258
+Ebu Zer' (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem'in müezzini öğle ezanını okumaya başladı. Resulullah Sallallahu Aleyhi ve Sellem: 'Serin vakte bırak! Serin vakte bırak!1 veya Bekle!, bekle!' diye seslendi. Sonra da şöyle buyurdu: "Havanın aşırı derecede sıcak olması, cehennem ateşinin kaynamasından ileri gelir. O halde, hava aşırı derecede sıcak olunca, namaz'ı serin vakte erteleyin! Ebu Zer şöyle demiştir: Tepelerin gölgesini görünceye kadar namazı ertelerdik. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>535</td></tr><tr><td>Arabic No</td><td>535</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নুফায়লী (রহঃ) ..... মুজাহিদ (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ উম্মু হানী (রাঃ) বলেছেনঃ নবী রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কায় আসেন, এ সময় তাঁর চুল চার-ভাগে বাঁধা ছিল।
+। মুহাজিদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, উম্মু হানী (রাঃ) বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মক্কা হয়ে আগমন করেন, তখন তাঁর মাথার চুলে চারটি গুচ্ছ ছিলো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4191</td></tr><tr><td>Arabic No</td><td>4191</td></tr><tr><td>Reference</td><td>Book 35 Hadith 33</td></tr></tbody></table></div>
 

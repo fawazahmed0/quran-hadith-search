@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুশরিকদেরকে নিজ শক্তি প্রদর্শনের উদ্দেশে বাইতুল্লাহর তাওয়াফে ও সাফা ও মারওয়ার মধ্যেকার সা‘ঈতে দ্রুত চলেছিলেন। (৪২৫৭, মুসলিম ১৫/৩৯, হাঃ ১২৬৬) (আধুনিক প্রকাশনীঃ ১৫৩৭, ইসলামিক ফাউন্ডেশনঃ ১৫৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুশরিকদেরকে নিজ শক্তি প্রদর্শনের উদ্দেশে বাইতুল্লাহর তাওয়াফে ও সাফা ও মারওয়ার মধ্যেকার সা‘ঈতে দ্রুত চলেছিলেন। (৪২৫৭, মুসলিম ১৫/৩৯, হাঃ ১২৬৬) (আধুনিক প্রকাশনীঃ ১৫৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1649</td></tr><tr><td>Arabic No</td><td>1649</td></tr><tr><td>Reference</td><td>Book 25 Hadith 130</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இறையில்லம் கஅபாவையும் ஸஃபா மற்றும் மர்வாவையும் சுற்றி வரும்போது தொங்கோட்டம் ஓடியது, இணைவைப்பாளர் களுக்குத் தமது பலத்தைக் காட்டுவதற்காகத்தான். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இறையில்லம் கஅபாவையும் ஸஃபா மற்றும் மர்வாவையும் சுற்றி வரும்போது தொங்கோட்டம் ஓடியது, இணைவைப்பாளர் களுக்குத் தமது பலத்தைக் காட்டுவதற்காகத்தான். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1649</td></tr><tr><td>Arabic No</td><td>1649</td></tr><tr><td>Reference</td><td>Book 25 Hadith 130</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem sadece, müşriklere gücünü göstermek için Kabe'yi tavaf ederken ve Safa ile Merve arasında say ederken koşmuştur." Tekrar: 4257
+İbn Abbas r.a. şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem sadece, müşriklere gücünü göstermek için Kabe'yi tavaf ederken ve Safa ile Merve arasında say ederken koşmuştur." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1649</td></tr><tr><td>Arabic No</td><td>1649</td></tr><tr><td>Reference</td><td>Book 25 Hadith 130</td></tr></tbody></table></div>
 

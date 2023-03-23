@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি অন্তরে কুরআন গেঁথে (মুখস্থ) রাখে তার দৃষ্টান্ত হচ্ছে ঐ মালিকের ন্যায়, যে উট বেঁধে রাখে। যদি সে উট বেঁধে রাখে, তবে সে উট তার নিয়ন্ত্রণে থাকে, কিন্তু যদি সে বাঁধন খুলে দেয়, তবে তা নিয়ন্ত্রণের বাইরে চলে যায়। [মুসলিম ৬/৩৩, হাঃ ৭৮৯, আহমাদ ৪৬৬৫] (আধুনিক প্রকাশনীঃ ৪৬৫৭, ইসলামিক ফাউন্ডেশনঃ ৪৬৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি অন্তরে কুরআন গেঁথে (মুখস্থ) রাখে তার দৃষ্টান্ত হচ্ছে ঐ মালিকের ন্যায়, যে উট বেঁধে রাখে। যদি সে উট বেঁধে রাখে, তবে সে উট তার নিয়ন্ত্রণে থাকে, কিন্তু যদি সে বাঁধন খুলে দেয়, তবে তা নিয়ন্ত্রণের বাইরে চলে যায়। [মুসলিম ৬/৩৩, হাঃ ৭৮৯, আহমাদ ৪৬৬৫] (আধুনিক প্রকাশনীঃ ৪৬৫৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5031</td></tr><tr><td>Arabic No</td><td>5031</td></tr><tr><td>Reference</td><td>Book 66 Hadith 53</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abudllah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனை(ப் பார்த்தோ மனப்பாட மாகவோ) ஓதுகின்றவரின் நிலையெல்லாம், கயிற்றால் கட்டிவைக்கப்பட்டுள்ள ஓர் ஒட்டகத்தின் உரிமையாளரின் நிலையை ஒத்திருக்கிறது. அதை அவர் கண்காணித்துவந்தால் தம்மிடமே அதை அவர் தக்கவைத்துக்கொள்ளலாம். அதை அவிழ்த்துவிட்டுவிட்டாலோ அது ஓடிப்போய்விடும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 66
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனை(ப் பார்த்தோ மனப்பாட மாகவோ) ஓதுகின்றவரின் நிலையெல்லாம், கயிற்றால் கட்டிவைக்கப்பட்டுள்ள ஓர் ஒட்டகத்தின் உரிமையாளரின் நிலையை ஒத்திருக்கிறது. அதை அவர் கண்காணித்துவந்தால் தம்மிடமே அதை அவர் தக்கவைத்துக்கொள்ளலாம். அதை அவிழ்த்துவிட்டுவிட்டாலோ அது ஓடிப்போய்விடும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5031</td></tr><tr><td>Arabic No</td><td>5031</td></tr><tr><td>Reference</td><td>Book 66 Hadith 53</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abudllah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer radiyallahu anh'den Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet edilmiştir: "Kur'an'ı ezbere bilen kimsenin durumu, bağlı develeri olan kimseye benzer. Eğer o kimse develerini bağlı tutarsa, onlan kontrol eder, yok eğer serbest bırakırsa onlar dağılır. " Hadisin geçtiği diğer yer: 5039
+İbn Ömer radiyallahu anh'den Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet edilmiştir: "Kur'an'ı ezbere bilen kimsenin durumu, bağlı develeri olan kimseye benzer. Eğer o kimse develerini bağlı tutarsa, onlan kontrol eder, yok eğer serbest bırakırsa onlar dağılır. " Hadisin geçtiği diğer yer:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5031</td></tr><tr><td>Arabic No</td><td>5031</td></tr><tr><td>Reference</td><td>Book 66 Hadith 53</td></tr></tbody></table></div>
 

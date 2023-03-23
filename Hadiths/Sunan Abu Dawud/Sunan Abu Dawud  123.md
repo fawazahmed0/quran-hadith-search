@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমুদ ইবনু খালিদ .... আল-ওয়ালীদ থেকে এই সূত্রে উপরোক্ত হাদছের অনুরূপ বর্ণিত আছে। মিকদাদ (রাঃ) বলেন, কানের বহির্ভাগ ও ভেতরাংশ মাসেহ্ করেন। হিশামের বর্ণনায় আরো আছেঃ তিনি কানের ফুটায় নিজের আঙ্গুলসমূহ প্রবেশ করান।
+। মাহমূদ ইবনু খালিদ ও হিশাম ইবনু খালিদ (রহঃ) সূত্রে সমার্থবোধক হাদীস বর্ণিত আছে। একই সানাদে ওয়ালীদও বর্ণনা করেছেন। তিনি বলেছেন, তিনি উভয় কানের বাহির ও ভিতরের অংশ মাসাহ্ করেছেন। হিশাম তার বর্ণনায় আরো বলেছেন, তিনি দু’ কানের ছিদ্রে স্বীয় আঙ্গুল ঢুকিয়েছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>123</td></tr><tr><td>Arabic No</td><td>123</td></tr><tr><td>Reference</td><td>Book 1 Hadith 123</td></tr></tbody></table></div>
 

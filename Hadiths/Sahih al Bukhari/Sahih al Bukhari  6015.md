@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জিবরীল (আঃ) সর্বদা আমাকে প্রতিবেশীর ব্যাপারেঅসীয়ত করে থাকেন। এমনকি আমার ধারণা হয় যে, শীঘ্রই তিনি প্রতিবেশীকে ওয়ারিস করে দিবেন। [মুসলিম ৪৫/৪২, হাঃ ২৬২৫, আহমাদ ২৬০৭২] (আধুনিক প্রকাশনী- ৫৫৮১, ইসলামিক ফাউন্ডেশন- ৫৪৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জিবরীল (আঃ) সর্বদা আমাকে প্রতিবেশীর ব্যাপারেঅসীয়ত করে থাকেন। এমনকি আমার ধারণা হয় যে, শীঘ্রই তিনি প্রতিবেশীকে ওয়ারিস করে দিবেন। [মুসলিম ৪৫/৪২, হাঃ ২৬২৫, আহমাদ ২৬০৭২] (আধুনিক প্রকাশনী- ৫৫৮১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6015</td></tr><tr><td>Arabic No</td><td>6015</td></tr><tr><td>Reference</td><td>Book 78 Hadith 46</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Minhal] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அண்டை வீட்டார் குறித்து என்னிடம் (வானவர்) ஜிப்ரீல் (அவ்வப்போது) அறிவுறுத்திக் கொண்டேயிருந்தார். எந்த அளவுக்கென்றால், (எங்கே) அண்டை வீட்டாரை எனக்கு வாரிசாக்கிவிடுவாரோ என்றுகூட நான் எண்ணினேன். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அண்டை வீட்டார் குறித்து என்னிடம் (வானவர்) ஜிப்ரீல் (அவ்வப்போது) அறிவுறுத்திக் கொண்டேயிருந்தார். எந்த அளவுக்கென்றால், (எங்கே) அண்டை வீட்டாரை எனக்கு வாரிசாக்கிவிடுவாரோ என்றுகூட நான் எண்ணினேன். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6015</td></tr><tr><td>Arabic No</td><td>6015</td></tr><tr><td>Reference</td><td>Book 78 Hadith 46</td></tr></tbody></table></div>
 

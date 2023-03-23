@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭০৬। সামুরা ইবনু জুনদাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদেরকে যেন সাহরী খাওয়া হতে বিরত না রাখে বিলালের আযান এবং দিগন্তবৃত্তে প্রকাশিত ভোরের আলো (সুবহে কাযিব), দিগন্তবৃত্তে উদ্ভাসিত বিস্তৃত আলো (সুবহি সাদিক) ব্যতীত। — সহীহ, সহীহ আবু দাউদ (২০৩১), মুসলিম আবু ঈসা এ হাদীসটিকে হাসান সহীহ বলেছেন।
+। সামুরা ইবনু জুনদাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদেরকে যেন সাহরী খাওয়া হতে বিরত না রাখে বিলালের আযান এবং দিগন্তবৃত্তে প্রকাশিত ভোরের আলো (সুবহে কাযিব), দিগন্তবৃত্তে উদ্ভাসিত বিস্তৃত আলো (সুবহি সাদিক) ব্যতীত। — সহীহ, সহীহ আবু দাউদ (২০৩১), মুসলিম আবু ঈসা এ হাদীসটিকে হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>706</td></tr><tr><td>Arabic No</td><td>706</td></tr><tr><td>Reference</td><td>Book 8 Hadith 25</td></tr></tbody></table></div>
 

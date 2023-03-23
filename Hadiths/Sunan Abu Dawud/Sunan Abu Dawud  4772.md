@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন আবদুল্লাহ্‌ (রহঃ) ..... সাঈদ ইবন যায়দ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তার ধন-সম্পদ রক্ষা করতে গিয়ে মারা যাবে, সে শহীদ। আর যে ব্যক্তি নিজের সন্তান-সন্ততি বা নিজের জীবন অথবা দীনের হিফাজত করতে গিয়ে নিহত হবে, সেও শহীদ।
+। সাঈদ ইবনু যায়িদ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি তার সম্পদ রক্ষা করতে গিয়ে নিহত হলে সে শহীদ। একইভাবে কেউ তার পরিবার-পরিজন ও জীবন অথবা ধর্ম রক্ষা করতে গিয়ে নিহত হলে সেও শহীদ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4772</td></tr><tr><td>Arabic No</td><td>4772</td></tr><tr><td>Reference</td><td>Book 42 Hadith 177</td></tr></tbody></table></div>
 

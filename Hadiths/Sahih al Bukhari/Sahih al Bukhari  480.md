@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আসিম ইবনু ‘আলী (রহ.) হতে বর্ণিত। ‘আসিম ইবনু মুহাম্মাদ (রহ.) বলেনঃ আমি এ হাদীস আমার পিতা হতে শুনেছিলাম, কিন্তু আমি তা স্মরণ রাখতে পারিনি। পরে এ হাদীসটি আমাকে ঠিকভাবে বর্ণনা করেন ওয়াকিদ (রহ.) তাঁর পিতা হতে। তিনি বলেনঃ আমার পিতাকে বলতে শুনেছি যে, ‘আবদুল্লাহ ইবনু ‘আমর (রাযি.) বলেছেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ হে ‘আবদুল্লাহ ইবনু ‘আমর! যখন তুমি নিকৃষ্ট লোকদের সাথে অবস্থান করবে, তখন তোমার কী অবস্থা হবে? (৪৭৯) (আধুনিক প্রকাশনীঃ ৪৫৮ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৪৬৪ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>480</td></tr><tr><td>Arabic No</td><td>480</td></tr><tr><td>Reference</td><td>Book 8 Hadith 127</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hamid bin 'Umar] dari [Bisyr] telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: (அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தம் கைவிரல்களைக் கோத்துக்காட்டி) “அப்துல்லாஹ் பின் அம்ரே! மக்களில் மிகவும் மட்டமானவர்களுடன் இப்படி நீர் (சேர்ந்து) வாழ நேர்ந்தால், உமது நிலை எப்படியிருக்கும்?” என்று கேட்டார்கள். அத்தியாயம் : 8
+அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: (அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தம் கைவிரல்களைக் கோத்துக்காட்டி) “அப்துல்லாஹ் பின் அம்ரே! மக்களில் மிகவும் மட்டமானவர்களுடன் இப்படி நீர் (சேர்ந்து) வாழ நேர்ந்தால், உமது நிலை எப்படியிருக்கும்?” என்று கேட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>480</td></tr><tr><td>Arabic No</td><td>480</td></tr><tr><td>Reference</td><td>Book 8 Hadith 127</td></tr></tbody></table></div>
 

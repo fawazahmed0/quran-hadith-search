@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল ..... আবদুল্লাহ্ ইবন আবূ কায়স বলেন, আমি আয়েশা (রাঃ)-কে বলতে শুনেছি, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শা‘বান মাস ব্যতীত অন্য কোন মাসের দিন উত্তমভাবে মুখস্থ রাখতেন না। এরপর রামাযানের চাঁদ দেখে রোযা শুরু করতেন। যদি (উনত্রিশে শাবান) আকাশ মেঘাচ্ছন্ন থাকত তবে তিনি ত্রিশ দিন পূর্ণ করতেন। এরপর রোযা রাখতেন।
+। আব্দুল্লাহ ইবনু আবূ কায়িস (রহ.) সূত্রে বর্ণিত। তিনি বলেন, আমি ‘আয়িশাহ্ (রাঃ)-কে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শা‘বান মাসের হিসাব এতো গুরুত্ব সহকারে রাখতেন যে, অন্য কোনো মাসের হিসাব ততোটা গুরুত্ব দিয়ে রাখতেন না। অতঃপর তিনি রমাযানের চাঁগদ দেখেই সওম পালন করতেন। আর আকাশ মেঘাচ্ছন্ন থাকলে তিনি শা‘বান মাস ত্রিশ দিন পূর্ণ করতেন। এরপর সওম রাখতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2325</td></tr><tr><td>Arabic No</td><td>2325</td></tr><tr><td>Reference</td><td>Book 14 Hadith 13</td></tr></tbody></table></div>
 

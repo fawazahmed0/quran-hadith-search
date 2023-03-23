@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৪৩৯, আন্তর্জাতিক নাম্বারঃ ৩০২৬ ৭৪৩৯-(২৩/৩০২৬) আবু বকর ইবনু আবু শাইবাহ, মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... বারা (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আনসারী লোকেরা হজ্জ সমাপ্তি শেষে বাড়ী ফেরার পর দরজা দিয়ে প্রবেশ না করে পেছন দিক থেকে ঘরে প্রবেশ করত। অতঃপর এক আনসারী সহাবা দরজা দিয়ে প্রবেশ করলে এ ব্যাপারে তাকে কিছু (ভাল-মন্দ) বলা হলে "পেছন দিক দিয়ে তোমাদের বাড়ীতে ঢুকাতে কোন সাওয়াব নেই" (সুরাহ্ আল বাকারাহ ২ঃ ১৮৯) এ আয়াতটি অবতীর্ণ হলো। (ইসলামিক ফাউন্ডেশন ৭২৬৮, ইসলামিক সেন্টার ৭৩২৩)
+আবু বকর ইবনু আবু শাইবাহ, মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... বারা (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আনসারী লোকেরা হজ্জ সমাপ্তি শেষে বাড়ী ফেরার পর দরজা দিয়ে প্রবেশ না করে পেছন দিক থেকে ঘরে প্রবেশ করত। অতঃপর এক আনসারী সহাবা দরজা দিয়ে প্রবেশ করলে এ ব্যাপারে তাকে কিছু (ভাল-মন্দ) বলা হলে "পেছন দিক দিয়ে তোমাদের বাড়ীতে ঢুকাতে কোন সাওয়াব নেই" (সুরাহ্ আল বাকারাহ ২ঃ ১৮৯) এ আয়াতটি অবতীর্ণ হলো। (ইসলামিক ফাউন্ডেশন ৭২৬৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7549</td></tr><tr><td>Arabic No</td><td>3026</td></tr><tr><td>Reference</td><td>Book 56 Hadith 27</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bara' reported:When the Ansar performed the Pilgrimage, they did not enter their houses but from behind. A person from the Ansar came and he began to enter from his door but it was said to him (why he was doing something in contravention to the common practice of coming to the houses from behind). Then this verse was revealed." Piety is not that you come to the doors from behind" (ii. 189)
+Bara' reported:When the Ansar performed the Pilgrimage, they did not enter their houses but from behind. A person from the Ansar came and he began to enter from his door but it was said to him (why he was doing something in contravention to the common practice of coming to the houses from behind). Then this verse was revealed." Piety is not that you come to the doors from behind" (ii)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7549</td></tr><tr><td>Arabic No</td><td>3026</td></tr><tr><td>Reference</td><td>Book 56 Hadith 27</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ D'après Al-Barâ' (que Dieu l'agrée), Quand les 'Ansâr accomplissaient le gra
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: (அறியாமைக் காலத்தில்) அன்சாரிகள் "ஹஜ்" செய்(ய "இஹ்ராம்" கட்டி முடித்)துவிட்டு, மீண்டும் (வீட்டுக்கு) வருவதானால், வீடுகளில் அதன் (முன்பக்க வாசல் வழியாக நுழையாமல்) பின்பக்க வாசல் வழியேதான் நுழைவார்கள்.இந்நிலையில் அன்சாரிகளில் ஒருவர் தமது (வீட்டின்) முன்வாசல் வழியாகவே நுழைந்துவிட்டார். இது குறித்து அவரிடம் (ஆட்சேபணை) கூறப்பட்டது. அப்போதுதான், "நீங்கள் வீடுகளுக்குள் அவற்றின் பின்புற வழியாக வருவது புண்ணியமன்று" (2:189) எனும் இறைவசனத்தொடர் அருளப்பெற்றது. இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 54
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: (அறியாமைக் காலத்தில்) அன்சாரிகள் "ஹஜ்" செய்(ய "இஹ்ராம்" கட்டி முடித்)துவிட்டு, மீண்டும் (வீட்டுக்கு) வருவதானால், வீடுகளில் அதன் (முன்பக்க வாசல் வழியாக நுழையாமல்) பின்பக்க வாசல் வழியேதான் நுழைவார்கள்.இந்நிலையில் அன்சாரிகளில் ஒருவர் தமது (வீட்டின்) முன்வாசல் வழியாகவே நுழைந்துவிட்டார். இது குறித்து அவரிடம் (ஆட்சேபணை) கூறப்பட்டது. அப்போதுதான், "நீங்கள் வீடுகளுக்குள் அவற்றின் பின்புற வழியாக வருவது புண்ணியமன்று" (2:189) எனும் இறைவசனத்தொடர் அருளப்பெற்றது. இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7549</td></tr><tr><td>Arabic No</td><td>3026</td></tr><tr><td>Reference</td><td>Book 56 Hadith 27</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ D'après Al-Barâ' (que Dieu l'agrée), Quand les 'Ansâr accomplissaient le gra
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Gunder, Şu'be'den rivayet etti. H. Bize Muhammed b. Müsennâ ile İbni Beşşâr da rivayet ettiler. Lâfız İbni Müsennâ'nındır. (Dedilerki): Bize Muhammed b. Ca'fer, Şu"be'den, O da Ebû İshak'dan naklen rivayet etti. (Demişki): Ben Berâ'ı şunu söylerken işittim: Ensâr haccedip döndükten sonra evlere ancak arka taraflarından girerlerdi. Sonra ensardan bir adam gelerek kapısından girdi ve kendisine bu hususta lâf söylendi. Bunun üzerine şu âyet-i kerîme indi: «Evlere arka taraflarından gelmeniz ibâdet değildir.» [Bakara 189]
+Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Gunder, Şu'be'den rivayet etti. H. Bize Muhammed b. Müsennâ ile İbni Beşşâr da rivayet ettiler. Lâfız İbni Müsennâ'nındır. (Dedilerki): Bize Muhammed b. Ca'fer, Şu"be'den, O da Ebû İshak'dan naklen rivayet etti. (Demişki): Ben Berâ'ı şunu söylerken işittim: Ensâr haccedip döndükten sonra evlere ancak arka taraflarından girerlerdi. Sonra ensardan bir adam gelerek kapısından girdi ve kendisine bu hususta lâf söylendi. Bunun üzerine şu âyet-i kerîme indi: «Evlere arka taraflarından gelmeniz ibâdet değildir.» [Bakara]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7549</td></tr><tr><td>Arabic No</td><td>3026</td></tr><tr><td>Reference</td><td>Book 56 Hadith 27</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেন, তোমরা ভয়ানক বিপদ, দুর্ভাগ্যের অতল তল, মন্দ পরিণতি এবং শত্রুর আনন্দ থেকে আল্লাহর কাছে আশ্রয় চাও। [৬৩৪৭] (আধুনিক প্রকাশনী- ৬১৫৫, ইসলামিক ফাউন্ডেশন- ৬১৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেন, তোমরা ভয়ানক বিপদ, দুর্ভাগ্যের অতল তল, মন্দ পরিণতি এবং শত্রুর আনন্দ থেকে আল্লাহর কাছে আশ্রয় চাও। [৬৩৪৭] (আধুনিক প্রকাশনী- ৬১৫৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6616</td></tr><tr><td>Arabic No</td><td>6616</td></tr><tr><td>Reference</td><td>Book 82 Hadith 22</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் அல்லாஹ்விடம் தாங்கமுடியாத சோதனை, அழிவில் வீழ்வது, விதியின் கேடு, எதிரிகளால் ஏற்படும் மன உளைச்சல் ஆகியவற்றிலிருந்து பாதுகாப்புக் கோருங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.26 அத்தியாயம் : 82
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் அல்லாஹ்விடம் தாங்கமுடியாத சோதனை, அழிவில் வீழ்வது, விதியின் கேடு, எதிரிகளால் ஏற்படும் மன உளைச்சல் ஆகியவற்றிலிருந்து பாதுகாப்புக் கோருங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.26 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6616</td></tr><tr><td>Arabic No</td><td>6616</td></tr><tr><td>Reference</td><td>Book 82 Hadith 22</td></tr></tbody></table></div>
 

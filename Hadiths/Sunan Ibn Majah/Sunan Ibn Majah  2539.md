@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২৫৩৯। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কুরআনের একটি আয়াতও অস্বীকার করে তাকে হত্যা করা বৈধ হয়ে যায়। আর যে ব্যক্তি বলে, ‘‘আল্লাহ ছাড়া কোন ইলাহ নাই, তিনি এক, তাঁর কোন শরীক নাই এবং মুহাম্মাদ তাঁর বান্দা ও রাসূল,’’ তার উপর হদ্দ কার্যকর করার কোন পথ থাকে না। কিন্তু সে হদ্দযোগ্য অপরাধ করলে তা তার উপর কার্যকর হবে।
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কুরআনের একটি আয়াতও অস্বীকার করে তাকে হত্যা করা বৈধ হয়ে যায়। আর যে ব্যক্তি বলে, ‘‘আল্লাহ ছাড়া কোন ইলাহ নাই, তিনি এক, তাঁর কোন শরীক নাই এবং মুহাম্মাদ তাঁর বান্দা ও রাসূল,’’ তার উপর হদ্দ কার্যকর করার কোন পথ থাকে না। কিন্তু সে হদ্দযোগ্য অপরাধ করলে তা তার উপর কার্যকর হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2539</td></tr><tr><td>Arabic No</td><td>2539</td></tr><tr><td>Reference</td><td>Book 20 Hadith 7</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৬৫৪। আয়িশাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার নিকট প্রবেশ করলেন। তার মুক্তদাসী পর্দার আড়ালে চলে গেল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞেস করেন: তার কি হায়েয হয়েছে (বালেগ হয়েছে)? আয়িশাহ বলেন, হ্যাঁ। তিনি তাঁর পাগড়ীর একাংশ ছিঁড়ে তাকে দিয়ে বলেনঃ এটা দিয়ে তোমার মাথা ঢেকে নাও।
+। আয়িশাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার নিকট প্রবেশ করলেন। তার মুক্তদাসী পর্দার আড়ালে চলে গেল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞেস করেন: তার কি হায়েয হয়েছে (বালেগ হয়েছে)? আয়িশাহ বলেন, হ্যাঁ। তিনি তাঁর পাগড়ীর একাংশ ছিঁড়ে তাকে দিয়ে বলেনঃ এটা দিয়ে তোমার মাথা ঢেকে নাও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>654</td></tr><tr><td>Arabic No</td><td>654</td></tr><tr><td>Reference</td><td>Book 1 Hadith 388</td></tr></tbody></table></div>
 

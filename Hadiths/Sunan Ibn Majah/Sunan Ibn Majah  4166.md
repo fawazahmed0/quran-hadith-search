@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৪১৬৬। আমর ইবনুল আস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আদম সন্তানের অন্তরের প্রতিটি ময়দানে অনেক পথ রয়েছে। যে ব্যক্তি তার অন্তরের প্রতিটি ময়দানের সকল পথ অনুসরণ করে, আল্লাহ তাকে যে কোন ময়দানে ধ্বংস করতে পরোয়া করেন না। আর যে ব্যক্তি আল্লাহর উপর ভরসা করে, সে সর্বপ্রকার পথ থেকে মুক্তি পায়।
+। আমর ইবনুল আস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আদম সন্তানের অন্তরের প্রতিটি ময়দানে অনেক পথ রয়েছে। যে ব্যক্তি তার অন্তরের প্রতিটি ময়দানের সকল পথ অনুসরণ করে, আল্লাহ তাকে যে কোন ময়দানে ধ্বংস করতে পরোয়া করেন না। আর যে ব্যক্তি আল্লাহর উপর ভরসা করে, সে সর্বপ্রকার পথ থেকে মুক্তি পায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4166</td></tr><tr><td>Arabic No</td><td>4166</td></tr><tr><td>Reference</td><td>Book 37 Hadith 67</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালিম (রহ.) তাঁর পিতার নিকট হতে বর্ণনা করেন, তিনি বলেন, জিবরীল (আঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ওয়াদা দিয়েছিলেন। আমরা ঐ ঘরে প্রবেশ করি না, যে ঘরে ছবি এবং কুকুর থাকে। (৫৯৬০) (আধুনিক প্রকাশনীঃ ২৯৮৭, ইসলামিক ফাউন্ডেশনঃ ২৯৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালিম (রহ.) তাঁর পিতার নিকট হতে বর্ণনা করেন, তিনি বলেন, জিবরীল (আঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ওয়াদা দিয়েছিলেন। আমরা ঐ ঘরে প্রবেশ করি না, যে ঘরে ছবি এবং কুকুর থাকে। (৫৯৬০) (আধুনিক প্রকাশনীঃ ২৯৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3227</td></tr><tr><td>Arabic No</td><td>3227</td></tr><tr><td>Reference</td><td>Book 59 Hadith 38</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Salim's father:Once Gabriel promised the Prophet (that he would visit h
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: (வானவர்) ஜிப்ரீல் (அலை) அவர்கள் நபி (ஸல்) அவர்களிடம் (தாம் வருவதாக) வாக்களித்திருந்தார்கள். (ஆனால், வர வில்லை. நபி (ஸல்) அவர்கள் ஜிப்ரீல் (அலை) அவர்களிடம் அது பற்றிக் கேட்டபோது) ‘‘உருவப் படமுள்ள வீட்டி லும் நாய் உள்ள வீட்டிலும் (வானவர் களாகிய) நாங்கள் நுழைவதில்லை” என்று சொன்னார்கள். அத்தியாயம் : 59
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: (வானவர்) ஜிப்ரீல் (அலை) அவர்கள் நபி (ஸல்) அவர்களிடம் (தாம் வருவதாக) வாக்களித்திருந்தார்கள். (ஆனால், வர வில்லை. நபி (ஸல்) அவர்கள் ஜிப்ரீல் (அலை) அவர்களிடம் அது பற்றிக் கேட்டபோது) ‘‘உருவப் படமுள்ள வீட்டி லும் நாய் உள்ள வீட்டிலும் (வானவர் களாகிய) நாங்கள் நுழைவதில்லை” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3227</td></tr><tr><td>Arabic No</td><td>3227</td></tr><tr><td>Reference</td><td>Book 59 Hadith 38</td></tr></tbody></table></div>
 

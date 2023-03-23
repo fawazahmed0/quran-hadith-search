@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু আতিয়্যাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মেয়ে [যায়নাব (রাযি.)]-কে গোসল করানোর সময় তাঁদের বলেছিলেনঃ তোমরা তার ডান দিক হতে এবং উযূর অঙ্গ হতে আরম্ভ কর। (১২৫৩ হতে ১২৬৩ পর্যন্ত) (আধুনিক প্রকাশনীঃ ১৬৩, ইসলামিক ফাউন্ডেশনঃ ১৬৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু আতিয়্যাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মেয়ে [যায়নাব (রাযি.)]-কে গোসল করানোর সময় তাঁদের বলেছিলেনঃ তোমরা তার ডান দিক হতে এবং উযূর অঙ্গ হতে আরম্ভ কর। (১২৫৩ হতে ১২৬৩ পর্যন্ত) (আধুনিক প্রকাশনীঃ ১৬৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 4 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு அத்திய்யா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம் மக(ள் ஸைனப் (ரலி) இறந்தபோது அவர்க)ளை நீராட்டுவது குறித்துப் பெண்களிடம் கூறுகையில், “அவருடைய வலப் பக்கத்தி லிருந்தும், அங்கத் தூய்மை செய்ய வேண்டிய உறுப்புக்களிலிருந்தும் (கழுவ) ஆரம்பியுங்கள்” என்று சொன்னார்கள். அத்தியாயம் : 4
+உம்மு அத்திய்யா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம் மக(ள் ஸைனப் (ரலி) இறந்தபோது அவர்க)ளை நீராட்டுவது குறித்துப் பெண்களிடம் கூறுகையில், “அவருடைய வலப் பக்கத்தி லிருந்தும், அங்கத் தூய்மை செய்ய வேண்டிய உறுப்புக்களிலிருந்தும் (கழுவ) ஆரம்பியுங்கள்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 4 Hadith 33</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Atıyye r.anha şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) (vefat eden) kızının yıkanması sırasında kadınlara şöyle buyurdu: "Sağ tarafından ve abdest azalarından başlayın. Tekrar: 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263
+Ümmü Atıyye r.anha şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) (vefat eden) kızının yıkanması sırasında kadınlara şöyle buyurdu: "Sağ tarafından ve abdest azalarından başlayın. Tekrar: 1253, 1254, 1255, 1256, 1257, 1258
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 4 Hadith 33</td></tr></tbody></table></div>
 

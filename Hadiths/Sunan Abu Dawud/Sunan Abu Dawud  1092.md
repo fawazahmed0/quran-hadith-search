@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবনে সুলায়মান ..... ইবনে উমর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুইটি খুতবা দিতেন। তিনি প্রথমে মিম্বরের উপর উঠে বসতেন এবং মুয়াযযিনের আযান শেষ না হওয়া পর্যন্ত এভাবেই বসে থাকতেন। অতঃপর তিনি দাঁড়িয়ে খুতবা দিতেন এবং মাঝখানে কোন কথাবার্তা না বলে কিছুক্ষণ বসে থাকার পর দ্বিতীয় খুতবা দিতেন।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমু‘আহতে দু‘টি খুত্ববাহ প্রদান করতেন। প্রথমে তিনি মিম্বারে উঠে মুয়াযযিন আযান শেষ না করা পর্যন্ত বসে থাকতেন, অতঃপর উঠে দাঁড়িয়ে (প্রথম) খুত্ববাহ দিতেন, তারপর বসতেন এবং কোন কথা না বলে আবার দাঁড়াতেন এবং (দ্বিতীয়) খুত্ববাহ দিতেন।[1] সহীহ : বুখারী ও মুসলিম সংক্ষেপে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 2 Hadith 703</td></tr></tbody></table></div>
 

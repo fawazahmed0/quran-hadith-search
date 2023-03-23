@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জা’ফর ইবন মুসাফির (রহঃ) .... ইবন আবূ ফুদায়ক (রাঃ) হিশাম ইবন সা’আদ (রাঃ) থেকে উপরোক্ত হাদীছের সনদে অনুরূপ হাদীছ বর্ণনা করেছেন।
+। হিশাম ইবনু সা‘দ (রহঃ) থেকে তার সনদে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4007</td></tr><tr><td>Arabic No</td><td>4007</td></tr><tr><td>Reference</td><td>Book 32 Hadith 39</td></tr></tbody></table></div>
 

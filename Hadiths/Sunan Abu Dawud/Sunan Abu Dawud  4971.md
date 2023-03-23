@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাযওয়া ইবন শুরায়হ (রহঃ) ..... সুফিয়ান ইবন উসায়দ হাযরামী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ বড় চুরী এই যে, তুমি তোমার ভাইয়ের সাথে এমন ভাবে কথা বললে, যা সে সত্য মনে করে, অথচ তুমি তা মিথ্যা হিসাবে বলছো। (অর্থাৎ ইশারা-ইংগিতে এমন কিছু বলা উচিত নয়, যা শ্রোতা সত্য মনে করে, আর বক্তার উদ্দেশ্য অন্য কিছু।)
+। সুফিয়ান ইবনু আসীদ আল-হাদরামী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, সবচেয়ে বড় বিশ্বাসঘাতকতা হলো, তুমি তোমার কোনো ভাইকে কোনো কথা বলেছো এবং সে তোমার কথা সত্য বলে বিশ্বাস করে নিয়েছে, অথচ তুমি যা বলেছো তা ছিলো মিথ্যা।[1] দুর্বলঃ যঈফাহ হা/ ১২৫১।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4971</td></tr><tr><td>Arabic No</td><td>4971</td></tr><tr><td>Reference</td><td>Book 43 Hadith 199</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল মিনহাল .... আব্দুর রহমান ইবনু আবযা থেকে তাঁর পিতার সূত্রে এবং তিনি আম্মার ইবনু ইয়াসির (রাঃ) এর সূত্রে বর্ণনা করেছেন। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের নিকট তায়াম্মুমের ব্যাপারে জিজ্ঞাসা করি। তিনি আমাকে নির্দেশ দেন যে, মাটিতে একবার হাত মেরে হাত ও মুখমন্ডল মাসেহ্ করবে।
+। ‘আম্মার ইবনু ইয়াসির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তায়াম্মুম সম্পর্কে জিজ্ঞেস করলে তিনি আমাকে মুখমন্ডল এবং উভয় হাতের জন্য (মাটিতে) একবার হাত মারার নির্দেশ দেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>327</td></tr><tr><td>Reference</td><td>Book 1 Hadith 327</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Minhal] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ammar bin Yasir'in şöyle dediği rivayet edilmiştir: "Resulullah (Sallallahu aleyhi ve Sellem)'e teyemmümü sordum. Bana hem yüz, hem de eller için bir defa vurmamı emretti." Diğer tahric: Ahmed b. Hanbel, IV, 263, 265
+Ammar bin Yasir'in şöyle dediği rivayet edilmiştir: "Resulullah (Sallallahu aleyhi ve Sellem)'e teyemmümü sordum. Bana hem yüz, hem de eller için bir defa vurmamı emretti." Diğer tahric: Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>327</td></tr><tr><td>Reference</td><td>Book 1 Hadith 327</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মূতা যুদ্ধের অবস্থা বর্ণনায়) বললেনঃ যায়দ (রাঃ) পতাকা বহন করেছে অতঃপর শহীদ হয়েছে। অতঃপর জা’ফর (রাঃ) (পতাকা) হাতে নিয়েছে, সেও শহীদ হয়। অতঃপর ‘আবদুল্লাহ্ ইবনু রাওয়াহা (রাঃ) (পতাকা) ধারণ করে এবং সেও শহীদ হয়। এ খবর বলছিলেন এবং আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর দু’ চোখ দিয়ে অশ্রু প্রবাহিত হচ্ছিল। অতঃপর খালিদ ইবনু ওয়ালিদ (রাঃ) পরামর্শ ছাড়াই (পতাকা) হাতে তুলে নেন এবং তাঁর দ্বারাই বিজয় লাভ হয়। (২৭৯৮, ৩০৬৩, ৩৬৩০, ৩৭৫৭, ৪২৬২) (আধুনিক প্রকাশনীঃ ১১৬৬, ইসলামিক ফাউন্ডেশনঃ ১১৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1246</td></tr><tr><td>Arabic No</td><td>1246</td></tr><tr><td>Reference</td><td>Book 23 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abd
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: “(மூத்தா போரில்) ஸைத் (ரலி) கொடியைப் பற்றியிருந்தார். அவர் கொல்லப் பட்டார். பிறகு அதை ஜஅஃபர் (ரலி) பற்றினார். அவரும் கொல்லப்பட்டார். பிறகு அதை அப்துல்லாஹ் பின் ரவாஹா (ரலி) பற்றினார். பிறகு அவரும் கொல் லப்பட்டார்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அப்போது அவர்களின் கண்களிலிருந்து கண்ணீர் வழிந்தது. “பிறகு, (ஏற்கெனவே) நியமிக்கப்படா திருந்த காலித் பின் வலீத் (ரலி) அக் கொடியைப் பற்றினார். அவருக்கே வெற்றி கிடைத்தது” என்றும் நபியவர்கள் கூறினார்கள்.6 அத்தியாயம் : 23
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: “(மூத்தா போரில்) ஸைத் (ரலி) கொடியைப் பற்றியிருந்தார். அவர் கொல்லப் பட்டார். பிறகு அதை ஜஅஃபர் (ரலி) பற்றினார். அவரும் கொல்லப்பட்டார். பிறகு அதை அப்துல்லாஹ் பின் ரவாஹா (ரலி) பற்றினார். பிறகு அவரும் கொல் லப்பட்டார்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அப்போது அவர்களின் கண்களிலிருந்து கண்ணீர் வழிந்தது. “பிறகு, (ஏற்கெனவே) நியமிக்கப்படா திருந்த காலித் பின் வலீத் (ரலி) அக் கொடியைப் பற்றினார். அவருக்கே வெற்றி கிடைத்தது” என்றும் நபியவர்கள் கூறினார்கள்.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1246</td></tr><tr><td>Arabic No</td><td>1246</td></tr><tr><td>Reference</td><td>Book 23 Hadith 9</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abd
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söyledi: "Sancağı Zeyd aldı. Zeyd şehid edildi. Sonra sancağı Ca'fer aldı, o da şehid edildi. Sonra onu Abdullah İbn Revaha aldı, o da şehid edildi. -Bu sırada Resulullah'ın gözlerinden yaşlar boşalıyordu- (Resulullah devam ederek şöyle dedi:) Sonra sancağı emir olmaksızın Halid İbnu'l-Velid aldı, sonra Allah onun önünü açtı. Tekrar: 2798, 3063, 3630, 3757, 6242
+Enes İbn Malik (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söyledi: "Sancağı Zeyd aldı. Zeyd şehid edildi. Sonra sancağı Ca'fer aldı, o da şehid edildi. Sonra onu Abdullah İbn Revaha aldı, o da şehid edildi. -Bu sırada Resulullah'ın gözlerinden yaşlar boşalıyordu- (Resulullah devam ederek şöyle dedi:) Sonra sancağı emir olmaksızın Halid İbnu'l-Velid aldı, sonra Allah onun önünü açtı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1246</td></tr><tr><td>Arabic No</td><td>1246</td></tr><tr><td>Reference</td><td>Book 23 Hadith 9</td></tr></tbody></table></div>
 

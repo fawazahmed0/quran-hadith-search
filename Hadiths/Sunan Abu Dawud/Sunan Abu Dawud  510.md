@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু বাশশার ..... ইবনু উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের সময়ে আযানের শব্দ দুবার করে এবং ইকামতের শব্দ একবার করে বলা হত। কিন্তু ইকামতের মধ্যে ‘কাদ্ কামাতিস্-সলাহ্’ শব্দটি দু’বার বলা হত। আমরা মুয়াযযিনের ইকামত শুনে উযূ (ওজু/অজু/অযু) করতে যেতাম অতঃপর নামায আদায় করতে যেতাম। (নাসাঈ)।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে আযানের শব্দগুলো দু’বার করে এবং ইক্বামাত(ইকামত/একামত)ের শব্দগুলো একবার করে বলা হত। তবে ‘‘ক্বাদ ক্বামাতিস সালাতু’’ বাক্যটি দু’বার বলা হত। আমরা ইক্বামাত(ইকামত/একামত) শুনলেই অযু করে সালাত আদায় করতে আসতাম। শু’বাহ (রহঃ) বলেন, আমি আবূ জা‘ফর থেকে কেবলমাত্র এ হাদীসটিই শুনেছি।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>510</td></tr><tr><td>Arabic No</td><td>510</td></tr><tr><td>Reference</td><td>Book 2 Hadith 120</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer (r.a.)'den, demiştir ki: "Resulullah (Sallallahu aleyhi ve Sellem) zamanında ezan ikişer ikişer, ikamet ise, birer birer okunurdu. Fakat (müezzin) iki kere, kad kaameti's-salah, Kad kaameti's-salah derdi. Biz ikameti duyunca abdest alır, sonra camiye giderdik." Şu'be der ki; Ebu Cafer'den, bu hadisten başka (bir hadis) işitmedim. Diğer tahric: Nesai, ezan; bk. Buharî, ezan; İbn Mace, ezan; Darimî, salat; Ahmed b. Hanbel II, 87; V, 232, 246
+İbn Ömer (r.a.)'den, demiştir ki: "Resulullah (Sallallahu aleyhi ve Sellem) zamanında ezan ikişer ikişer, ikamet ise, birer birer okunurdu. Fakat (müezzin) iki kere, kad kaameti's-salah, Kad kaameti's-salah derdi. Biz ikameti duyunca abdest alır, sonra camiye giderdik." Şu'be der ki; Ebu Cafer'den, bu hadisten başka (bir hadis) işitmedim. Diğer tahric: Nesai, ezan; bk. Buharî, ezan; İbn Mace, ezan; Darimî, salat; Ahmed b. Hanbel II, 87; V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>510</td></tr><tr><td>Arabic No</td><td>510</td></tr><tr><td>Reference</td><td>Book 2 Hadith 120</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর হাত পূর্ণ, রাতদিন খরচ করলেও তাতে কমতি আসে না। তিনি আরো বলেছেনঃ তোমরা কি দেখেছ? আসমান যমীন সৃষ্টি করার পর থেকে তিনি যে কত খরচ করেছেন, তা সত্ত্বেও তাঁর হাতে যা আছে, তাতে এতটুকু কমেনি। এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তখন তাঁর আরশ পানির উপর ছিল। তাঁর অন্য হাতে আছে দাঁড়িপাল্লা, যা কখনও তিনি নিচে নামান আবার কখনও উপরে উঠান। [৪৬৮৪] (আধুনিক প্রকাশনী- ৬৮৯৫, ইসলামিক ফাউন্ডেশন- ৬৯০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর হাত পূর্ণ, রাতদিন খরচ করলেও তাতে কমতি আসে না। তিনি আরো বলেছেনঃ তোমরা কি দেখেছ? আসমান যমীন সৃষ্টি করার পর থেকে তিনি যে কত খরচ করেছেন, তা সত্ত্বেও তাঁর হাতে যা আছে, তাতে এতটুকু কমেনি। এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তখন তাঁর আরশ পানির উপর ছিল। তাঁর অন্য তাতে আছে দাঁড়িপাল্লা, যা কখনও তিনি নিচে নামান আবার কখনও উপরে উঠান। [৪৬৮৪] (আধুনিক প্রকাশনী- ৬৮৯৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7411</td></tr><tr><td>Arabic No</td><td>7411</td></tr><tr><td>Reference</td><td>Book 97 Hadith 40</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah's Hand is full, and (its fullness) is not affected by the continuous spending, day and night." He also said, "Do you see what He has spent since He created the Heavens and the Earth? Yet all that has not decreased what is in His Hand." He also said, "His Throne is over the water and in His other Hand is the balance (of Justice) and He raises and lowers (whomever He will)." (See Hadith No. 206, Vol. 6)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah's Hand is full, and (its fullness) is not affected by the continuous spending, day and night." He also said, "Do you see what He has spent since He created the Heavens and the Earth? Yet all that has not decreased what is in His Hand." He also said, "His Throne is over the water and in His other Hand is the balance (of Justice) and He raises and lowers (whomever He will)." (See Hadith No. 206, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7411</td></tr><tr><td>Arabic No</td><td>7411</td></tr><tr><td>Reference</td><td>Book 97 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் கரம் நிரம்பியுள்ளது; வாரிவழங்குவதால் அது வற்றிப்போய் விடுவதில்லை. இரவும் பகலும் (மழை மேகத்தைப்போல் அது தன் அருள் மழையைப்) பொழிந்துகொண்டேயிருக்கிறது. வானங்களையும் பூமியையும் அவன் படைத்தது முதல் அவன் வழங்கியவை அவனது கரத்திலுள்ள (செல்வத்)தை வற்றச் செய்துவிடவில்லை என்பதைப் பார்த்தீர்களா?. (வானங்களையும் பூமியையும் படைப்பதற்கு முன்னர்) அவனுடைய அரியணை (அர்ஷ்), நீரின் மீது இருந்தது. அவனது இன்னொரு கரத்தில் தராசு உள்ளது. அவனே (அதைத்) தாழ்த்துகின்றான்; அவனே உயர்த்துகின்றான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.49 அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் கரம் நிரம்பியுள்ளது; வாரிவழங்குவதால் அது வற்றிப்போய் விடுவதில்லை. இரவும் பகலும் (மழை மேகத்தைப்போல் அது தன் அருள் மழையைப்) பொழிந்துகொண்டேயிருக்கிறது. வானங்களையும் பூமியையும் அவன் படைத்தது முதல் அவன் வழங்கியவை அவனது கரத்திலுள்ள (செல்வத்)தை வற்றச் செய்துவிடவில்லை என்பதைப் பார்த்தீர்களா?. (வானங்களையும் பூமியையும் படைப்பதற்கு முன்னர்) அவனுடைய அரியணை (அர்ஷ்), நீரின் மீது இருந்தது. அவனது இன்னொரு கரத்தில் தராசு உள்ளது. அவனே (அதைத்) தாழ்த்துகின்றான்; அவனே உயர்த்துகின்றான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.49 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7411</td></tr><tr><td>Arabic No</td><td>7411</td></tr><tr><td>Reference</td><td>Book 97 Hadith 40</td></tr></tbody></table></div>
 

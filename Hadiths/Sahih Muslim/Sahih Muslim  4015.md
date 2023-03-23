@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯০৭, আন্তর্জাতিক নাম্বারঃ ১৫৬৯ ৩৯০৭-(৪২/১৫৬৯) সালামাহ্ ইবনু শাবীব (রহঃ) ..... আবূ যুবায়র (রহঃ) হতে বর্ণিত। তিনি বলেনঃ আমি জাবির (রাযিঃ) এর নিকট কুকুর ও বিড়ালের মূল্য সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ ব্যাপারে সাবধান করে দিয়েছেন। (ইসলামিক ফাউন্ডেশন ৩৮৭০, ইসলামিক সেন্টার ৩৮৬৯)
+সালামাহ্ ইবনু শাবীব (রহঃ) ..... আবূ যুবায়র (রহঃ) হতে বর্ণিত। তিনি বলেনঃ আমি জাবির (রাযিঃ) এর নিকট কুকুর ও বিড়ালের মূল্য সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ ব্যাপারে সাবধান করে দিয়েছেন। (ইসলামিক ফাউন্ডেশন ৩৮৭০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>1569</td></tr><tr><td>Reference</td><td>Book 22 Hadith 54</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபுஸ்ஸுபைர் முஹம்மத் பின் முஸ்லிம் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஜாபிர் (ரலி) அவர்களிடம் நாய் மற்றும் பூனை விற்ற காசைப் பற்றிக் கேட்டேன். அதற்கு அவர்கள் "நபி (ஸல்) அவர்கள் அவற்றைக் கண்டித்தார்கள்" என விடையளித்தார்கள். அத்தியாயம் : 22
+அபுஸ்ஸுபைர் முஹம்மத் பின் முஸ்லிம் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஜாபிர் (ரலி) அவர்களிடம் நாய் மற்றும் பூனை விற்ற காசைப் பற்றிக் கேட்டேன். அதற்கு அவர்கள் "நபி (ஸல்) அவர்கள் அவற்றைக் கண்டித்தார்கள்" என விடையளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>1569</td></tr><tr><td>Reference</td><td>Book 22 Hadith 54</td></tr></tbody></table></div>
 

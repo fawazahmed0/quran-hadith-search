@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯২৯। বুরাইদা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট এক মহিলা এসে বলল, আমার মা মৃত্যুবরণ করেছেন, কিন্তু তিনি হাজ্জ আদায় করেননি। তার পক্ষে কি আমি হাজ আদায় করব? তিনি বললেনঃ হ্যাঁ, তার পক্ষে তুমি হজ্জ আদায় কর। — সহীহ, সহীহ আবূ দাউদ (২৫৬১), মুসলিম এই হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন।
+। বুরাইদা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট এক মহিলা এসে বলল, আমার মা মৃত্যুবরণ করেছেন, কিন্তু তিনি হাজ্জ আদায় করেননি। তার পক্ষে কি আমি হাজ আদায় করব? তিনি বললেনঃ হ্যাঁ, তার পক্ষে তুমি হজ্জ আদায় কর। — সহীহ, সহীহ আবূ দাউদ (২৫৬১), মুসলিম এই হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>929</td></tr><tr><td>Arabic No</td><td>929</td></tr><tr><td>Reference</td><td>Book 9 Hadith 122</td></tr></tbody></table></div>
 

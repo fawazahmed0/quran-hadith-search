@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২৮৭, আন্তর্জাতিক নাম্বারঃ ১০৪০ ২২৮৭-(.../...) আমর আন নাকিদ (রহঃ) ..... মা'মার (রহঃ) যুহরীর ভাই এর সূত্রেও উপরের হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। তবে এ সূত্রে “টুকরা" শব্দটির উল্লেখ নেই। (ইসলামিক ফাউন্ডেশন ২২৬৫, ইসলামীক সেন্টার ২২৬৬)
+আমর আন নাকিদ (রহঃ) ..... মা'মার (রহঃ) যুহরীর ভাই এর সূত্রেও উপরের হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। তবে এ সূত্রে “টুকরা" শব্দটির উল্লেখ নেই। (ইসলামিক ফাউন্ডেশন ২২৬৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2397</td></tr><tr><td>Arabic No</td><td>1040.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 134</td></tr></tbody></table></div>
 

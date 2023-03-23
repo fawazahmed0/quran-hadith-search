@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল্লাহ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। একদা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক আনসারীর পাশ দিয়ে অতিক্রম করছিলেন। তিনি তাঁর ভাইকে তখন (অধিক) লজ্জা ত্যাগের জন্য নাসীহাত করছিলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ ওকে ছেড়ে দাও। কারণ লজ্জা ঈমানের অঙ্গ। (৬১১৮; মুসলিম ১/১২ হাঃ ৩৬, আহমাদ ৪৫৫৪) (আধুনিক প্রকাশনীঃ ২৩, ইসলামিক ফাউন্ডেশনঃ ২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আব্দুল্লাহ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। একদা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক আনসারীর পাশ দিয়ে অতিক্রম করছিলেন। তিনি তাঁর ভাইকে তখন (অধিক) লজ্জা ত্যাগের জন্য নাসীহাত করছিলেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ ওকে ছেড়ে দাও। কারণ লজ্জা ঈমানের অঙ্গ। (৬১১৮; মুসলিম ১/১২ হাঃ ৩৬, আহমাদ ৪৫৫৪) (আধুনিক প্রকাশনীঃ ২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 2 Hadith 17</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah (bin 'Umar): Once Allah's Messenger (ﷺ) passed by an Ansari (man) who was admonishing his brother regarding Haya'. On that Allah's Messenger (ﷺ) said, "Leave him as Haya' is a part of faith." (See Hadith 9)
+Narrated 'Abdullah (bin 'Umar): Once Allah's Messenger (ﷺ) passed by an Ansari (man) who was admonishing his brother regarding Haya'. On that Allah's Messenger (ﷺ) said, "Leave him as Haya' is a part of faith." (See Hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 2 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] berkata, telah mengabarkan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அன்சாரிகளில் ஒருவரைக் கடந்து சென் றார்கள். வெட்கப்படுவது தொடர்பாக(க் கண்டித்து) தம் சகோதரருக்கு அவர் அறிவுரை கூறிக்கொண்டிருந்தார். (இதைக் கண்ட) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் “அவரை(க் கண்டிக்காதீர்கள்;) விட்டுவிடுங்கள். ஏனெனில், நாணமும் இறைநம்பிக்கையின் ஓர் அம்சமே” என்று கூறினார்கள். அத்தியாயம் : 2
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அன்சாரிகளில் ஒருவரைக் கடந்து சென் றார்கள். வெட்கப்படுவது தொடர்பாக(க் கண்டித்து) தம் சகோதரருக்கு அவர் அறிவுரை கூறிக்கொண்டிருந்தார். (இதைக் கண்ட) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் “அவரை(க் கண்டிக்காதீர்கள்;) விட்டுவிடுங்கள். ஏனெனில், நாணமும் இறைநம்பிக்கையின் ஓர் அம்சமே” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 2 Hadith 17</td></tr></tbody></table></div>
 

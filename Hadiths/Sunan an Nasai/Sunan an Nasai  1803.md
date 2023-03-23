@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আহমদ ইবনু সুলায়মান (রহঃ) ... উম্মে হাবীবা (রাঃ) থেকে বর্ণিত। তিনি বলেন, যে ব্যক্তি দিবা-রাত্রে বার রাকআত (সূন্নাতে মুওয়াক্কাদার) সালাত আদায় করবে ফরয সালাত ব্যতীত, তার জন্য জান্নাতে একটি ঘর বানানো হবে। চার রাকআত জোহরের ফরয সালাতের পূর্বে, দু'রাকআত ফরযের পরে, দু'রাকআত আসরের ফরয সালাতের পুর্বে, দু'রাকআত মাগরিবের ফরয সালাতের পরে এবং দু'রাকআত ফজরের ফরয সালাতের পুর্বে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1803</td></tr><tr><td>Arabic No</td><td>1803</td></tr><tr><td>Reference</td><td>Book 20 Hadith 206</td></tr></tbody></table></div>
 

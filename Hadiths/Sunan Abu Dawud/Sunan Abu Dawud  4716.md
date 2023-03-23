@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন আলী (রহঃ) ..... হাজ্জাজ ইবন মিনহাল (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি হাম্মাদ ইবন সালামা (রাঃ)-কে "প্রত্যেক মানব শিশু ফিতরাতের উপর জন্মগ্রহণ করে" এ হাদীছের ব্যাখ্যায় বলতে শুনিঃ যখন আল্লাহ্‌ তাদের থেকে, তার মাতা-পিতার ঔরসে থাকাবস্থায় অংগীকার গ্রহণ করেন, তখন তিনি বলেনঃ আমি কি তোমাদের রব নই? তারা বলেছিলঃ হ্যাঁ, অবশ্যই আপনি আমাদের রব।
+। হাজ্জাজ ইবনুল মিনহাল (রহঃ) বলেন, আমি হাম্মাদ ইবনু সালাম (রাঃ)-কে ‘‘প্রত্যেক সন্তান ফিতরাতের (সত্য ধর্মের) উপর জন্মগ্রহণ করে’’- এ হাদীসের ব্যাখ্যায় বলতে শুনেছিঃ এটা আমাদের নিকট সেই ওয়াদা যা পিতার মেরুদন্ডে অবস্থানকালে আল্লাহ তাদের কাছ থেকে ওয়াদা গ্রহণকালে বলেছিলেনঃ আমি কি তোমাদের রব নই? তারা বলেছিল, হ্যাঁ।[1] সনদ সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4716</td></tr><tr><td>Arabic No</td><td>4716</td></tr><tr><td>Reference</td><td>Book 42 Hadith 121</td></tr></tbody></table></div>
 
@@ -44,7 +44,7 @@ Explaining the tradition “Every child is a born on Islam”, Hammad b. Salamah
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al hasan bin Ali] berkata, telah menceritakan kepada kami [Hajjaj Ibnul Minhal] ia berkata; Aku mendengar [Hammad bin Salamah] mentafsirkan hadits, 'Setiap bayi dilahirkan dalam keadaan fitrah', ia berkata, "Menurut kami, ini adalah perjanjian yang Allah ambil saat mereka masih berada di tulang sulbi bapak-bapak mereka. Yaitu saat Allah berfirman: '(Bukankah Aku Tuhanmu, mereka menjawab, "Betul, (Engkau Tuhan kami)." -Qs. Al A'raf: 172
+Telah menceritakan kepada kami [Al hasan bin Ali] berkata, telah menceritakan kepada kami [Hajjaj Ibnul Minhal] ia berkata; Aku mendengar [Hammad bin Salamah] mentafsirkan hadits, 'Setiap bayi dilahirkan dalam keadaan fitrah', ia berkata, "Menurut kami, ini adalah perjanjian yang Allah ambil saat mereka masih berada di tulang sulbi bapak-bapak mereka. Yaitu saat Allah berfirman: '(Bukankah Aku Tuhanmu, mereka menjawab, "Betul, (Engkau Tuhan kami)." -Qs. Al A'raf:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4716</td></tr><tr><td>Arabic No</td><td>4716</td></tr><tr><td>Reference</td><td>Book 42 Hadith 121</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Al hasan bin Ali] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Haccac b. el-Minhâl (şöyle) demiştir: Ben Hammad b. Seleme'yi: "Her çocuk fıtrat üzere doğar" hadisini [4714 numaralı hadisi] açıklarken işittim. (Hammad bu hadisi açıklarken şöyle) dedi: Bize göre (bu fıtrat) Allah'ın (Âdemoğullarından) daha onlar babalarının bellerinde iken (İslam üzere yaşayacaklarına dair) aldığı sözdür. (İşte o) zaman (Yüce Allah onlara:) "Ben sizin Rabbiniz değil miyim?" dedi (onlar da) "Evet Rabbimizsin" dediler.[A'raf 172]
+Haccac b. el-Minhâl (şöyle) demiştir: Ben Hammad b. Seleme'yi: "Her çocuk fıtrat üzere doğar" hadisini [4714 numaralı hadisi] açıklarken işittim. (Hammad bu hadisi açıklarken şöyle) dedi: Bize göre (bu fıtrat) Allah'ın (Âdemoğullarından) daha onlar babalarının bellerinde iken (İslam üzere yaşayacaklarına dair) aldığı sözdür. (İşte o) zaman (Yüce Allah onlara:) "Ben sizin Rabbiniz değil miyim?" dedi (onlar da) "Evet Rabbimizsin" dediler.[A'raf]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4716</td></tr><tr><td>Arabic No</td><td>4716</td></tr><tr><td>Reference</td><td>Book 42 Hadith 121</td></tr></tbody></table></div>
 

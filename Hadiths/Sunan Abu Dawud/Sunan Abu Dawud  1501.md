@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... হুমায়সাহ বিনতে য়াসির (রহঃ) য়ুসায়রাহ (রাঃ) হতে বর্ণনা করেছেন। তিনি তাঁকে এই মর্মে খবর দিয়েছেন যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইয়ে ওয়াসাল্লাম তাঁদেরকে (মহিলা) তাকবীর (আল্লাহু আকবর), তাকদীস (সুবহানাল্লাহ) ও তাহলীল (লা ইলাহা ইল্লাল্লাহ) এর শব্দগুলিকে হিফাজত ও গণনার জন্য নির্দেশ দিয়েছেন এবং তিনি এসব আঙ্গুলের গিরার দ্বারা গণনা করতে বলেছেন। কেননা কিয়ামতের দিন আঙ্গুলসমূহকে এ ব্যাপারে জিজ্ঞাসা করা হবে এবং তারা এর স্বীকৃতি প্রদান করবে (সাক্ষ্য দিবে)। (তিরমিযী)।
+। ইউসায়রাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে নির্দেশ দিয়েছেনঃ তোমরা তাকবীর, তাকদীস এবং তাহলীল এগুলো খুব ভালভাবে স্মরণে রাখবে এবং এগুলোকে আঙ্গুলে গুনে রাখবে। কেননা আঙ্গুলগুলোকে জিজ্ঞাসা করা হবে এবং এগুলোও সেদিন (কিয়ামতের দিন) কথা বলবে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 8 Hadith 86</td></tr></tbody></table></div>
 

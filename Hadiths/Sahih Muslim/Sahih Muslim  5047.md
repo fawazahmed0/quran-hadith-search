@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৯৪১, আন্তর্জাতিক নাম্বারঃ ১৯৫২ ৪৯৪১-(.../...) মুহাম্মাদ ইবনু মুসান্না ও ইবনু বাশশার (রহঃ) আবূ ইয়াকুব (রহঃ) হতে এ সানাদে হাদীস বর্ণনা করেছেন। তিনি বলেছেন, সাতটি যুদ্ধ। (ইসলামিক ফাউন্ডেশন ৪৮৯০, ইসলামিক সেন্টার ৪৮৯১)
+মুহাম্মাদ ইবনু মুসান্না ও ইবনু বাশশার (রহঃ) আবূ ইয়াকুব (রহঃ) হতে এ সানাদে হাদীস বর্ণনা করেছেন। তিনি বলেছেন, সাতটি যুদ্ধ। (ইসলামিক ফাউন্ডেশন ৪৮৯০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5047</td></tr><tr><td>Arabic No</td><td>1952.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 76</td></tr></tbody></table></div>
 

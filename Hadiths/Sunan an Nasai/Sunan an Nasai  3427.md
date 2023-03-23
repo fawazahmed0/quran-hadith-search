@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমার আলী (রহঃ) ... উমর ইবন মুআত্তিব (রহঃ) বলেন, বনী মওফলের গোলাম আবু হাসান তাকে সংবাদ দিয়েছেন, তিনি বলেছেনঃ আমি এবং আমার স্ত্রী উভয়ে ছিলাম ক্রীতদাস, এমতাবস্থায় আমি তাকে দুই তালাক দিলাম। এরপর আমরা উভয়ে মুক্ত হলাম। আমি ইবন আব্বাস (রাঃ)-কে এ ব্যাপারে জিজ্ঞাসা করলাম। তিনি বললেন, যদি তুমি তাকে ফিরিয়ে নাও, তবে সে তোমার নিকট এক তালাকের উপর থাকবে। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ ফয়সালা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3427</td></tr><tr><td>Arabic No</td><td>3427</td></tr><tr><td>Reference</td><td>Book 27 Hadith 39</td></tr></tbody></table></div>
 

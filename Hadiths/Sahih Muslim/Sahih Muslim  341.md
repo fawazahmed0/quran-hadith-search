@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৩৯, আন্তর্জাতিক নাম্বারঃ ১৩২ ২৩৯-(২১০/...) মুহাম্মদ ইবনু বাশশার, মুহাম্মদ ইবনু আমর ইবনু জাবালাহ ইবনু আবূ রওওয়াদ ও আবূ বাকর ইবনু ইসহাক (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ২৪১, ইসলামিক সেন্টারঃ ২৪৯)
+মুহাম্মদ ইবনু বাশশার, মুহাম্মদ ইবনু আমর ইবনু জাবালাহ ইবনু আবূ রওওয়াদ ও আবূ বাকর ইবনু ইসহাক (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ২৪১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>132.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 248</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ The same hadith has been transmitted by Muhammad b. 'Amr, Abu Baker b. Ishaq, Ab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>132.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 248</td></tr></tbody></table></div>
 

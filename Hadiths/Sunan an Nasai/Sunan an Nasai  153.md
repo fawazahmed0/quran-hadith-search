@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসহাক ইবনু ইব্রাহীম (রহ.) ..... ‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি মিকদাদকে বললাম, আপনি নবী (সা.) -কে প্রশ্ন করুন যে, যদি কোন ব্যক্তি স্বীয় স্ত্রীর সাথে আমোদ করে এবং তদ্দরুন তার মযী নির্গত হয় অথচ সে সহবাস করেনি, তাহলে সে কি করবে? কেননা তার কন্যা আমার সহধর্মিণী হওয়ায় আমি জিজ্ঞেস করতে লজ্জাবোধ করি। তিনি তাকে জিজ্ঞেস করলে তিনি (সা.) বলেন, সে ব্যক্তি তার লজ্জাস্থান ধৌত করবে এবং সালাতের উযূর ন্যায় উযূ করবে। সহীহ: আবূ দাউদ ২০৭, ইবনু মাজাহ ৫০৫, মুসনাদে আহমাদ ১০০৯।
+। ইসহাক ইবনু ইবরাহীম (রহঃ) ... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি মিকদাদকে বললাম, আপনি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে জিজ্ঞাসা করুন যে, যদি কোন ব্যাক্তি স্বীয় স্ত্রীর সাথে আমোদ করে এবং তদ্দরুন তার মযী নির্গত হয় অথচ সে সহবাস করেনি, তাহলে সে কি করবে? কেননা তার কন্যা আমার সহধর্মিনী হওয়ায় আমি জিজ্ঞাসা করতে লজ্জাবোধ করি। তিনি তাঁকে জিজ্ঞাসা করলে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সে ব্যাক্তি তার লজ্জাস্থান ধৌত করবে এবং সালাত (নামায/নামাজ)-এর উযূর ন্যায় উযূ (ওজু/অজু/অযু) করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 1 Hadith 154</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dia berkata; Telah mengabarkan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ali (radıyallahü anh)’den rivâyete göre, şöyle demiştir: (radıyallahü anh)’e; bir kimse cinsel ilişkide bulunmaksızın hanımıyla oynaşır ve bu durumda kendisinden mezi gelirse ne yapmalıdır?) dedi. Bu soruyu Peygamber (sallallahü aleyhi ve sellem)’e sor, kızı benim nikahlım olması dolayısıyla utanıp soramıyorum dedim. O da sordu. Rasûlüllah (sallallahü aleyhi ve sellem)’de şöyle buyurdu: organını yıkar, namaz abdesti gibi abdest alır.) (Tirmizî, Tahara: 82; Buhârî, Gusül: 13)
+Ali (radıyallahü anh)’den rivâyete göre, şöyle demiştir: (radıyallahü anh)’e; bir kimse cinsel ilişkide bulunmaksızın hanımıyla oynaşır ve bu durumda kendisinden mezi gelirse ne yapmalıdır?) dedi. Bu soruyu Peygamber (sallallahü aleyhi ve sellem)’e sor, kızı benim nikahlım olması dolayısıyla utanıp soramıyorum dedim. O da sordu. Rasûlüllah (sallallahü aleyhi ve sellem)’de şöyle buyurdu: organını yıkar, namaz abdesti gibi abdest alır.) (Tirmizî, Tahara: 82; Buhârî, Gusül:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 1 Hadith 154</td></tr></tbody></table></div>
 

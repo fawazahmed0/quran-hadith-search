@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭/৪০০৯। জারীর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন জাতির মধ্যে প্রকাশ্যে পাপাচার হতে থাকে এবং তাদের প্রভাবশালী ব্যক্তিরা ক্ষমতা থাকা সত্বেও তাদের পাপাচারীদের বাধা দেয় না, তখন আল্লাহ তা‘আলা তাদের উপর ব্যাপকভাবে শাস্তি পাঠান।
+। জারীর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন জাতির মধ্যে প্রকাশ্যে পাপাচার হতে থাকে এবং তাদের প্রভাবশালী ব্যক্তিরা ক্ষমতা থাকা সত্বেও তাদের পাপাচারীদের বাধা দেয় না, তখন আল্লাহ তা‘আলা তাদের উপর ব্যাপকভাবে শাস্তি পাঠান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 36 Hadith 84</td></tr></tbody></table></div>
 

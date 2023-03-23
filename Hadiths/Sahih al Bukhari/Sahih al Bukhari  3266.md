@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়া‘লা (রহ.) এর পিতা হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মিম্বারে তিলাওয়াত করতে শুনেছেন, ‘‘আর তারা ডাকবে, হে মালিক।’’ (যুখরুফ : ৭৭) (৩২৩০) (আধুনিক প্রকাশনীঃ ৩০২৫, ইসলামিক ফাউন্ডেশনঃ ৩০৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইয়া‘লা (রহ.) এর পিতা হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মিম্বারে তিলাওয়াত করতে শুনেছেন, ‘‘আর তারা ডাকবে, হে মালিক।’’ (যুখরুফ : ৭৭) (৩২৩০) (আধুনিক প্রকাশনীঃ ৩০২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3266</td></tr><tr><td>Arabic No</td><td>3266</td></tr><tr><td>Reference</td><td>Book 59 Hadith 76</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-யஅலா பின் உமய்யா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சொற்பொழிவு மேடைமீது நின்றுகொண்டு, ‘‘(குற்றவாளிகள் நரகத்தின் காவலரை நோக்கி) யியா மாலிக்’ (யிமாலிக்கே!›) என்று அழைப்பார்கள்” (43:77) எனும் இறைவசனத்தை ஓதுவதை நான் கேட்டிருக்கிறேன்.68 அத்தியாயம் : 59
+யஅலா பின் உமய்யா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சொற்பொழிவு மேடைமீது நின்றுகொண்டு, ‘‘(குற்றவாளிகள் நரகத்தின் காவலரை நோக்கி) யியா மாலிக்’ (யிமாலிக்கே!›) என்று அழைப்பார்கள்” (43:77) எனும் இறைவசனத்தை ஓதுவதை நான் கேட்டிருக்கிறேன்.68 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3266</td></tr><tr><td>Arabic No</td><td>3266</td></tr><tr><td>Reference</td><td>Book 59 Hadith 76</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepadaku Malik dari [Yahya bin Sa'id] dari [Sa'id bin Musayya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Saîd b. Müseyyeb'den: Resulullah Sallallahu Aleyhi ve Sellem, Medine'ye hicret ettikten sonra altı ay kadar namazı Beytü'l-Makdis'e (Kudüs'e) doğru dönerek kıldı. Daha sonra Bedir harbinden iki ay kadar ön­ce kıble Ka'beye çevrildi. et-Temhîd'de denir ki: Muvatta'da mürseldir. el-Bera' hadisiyle manaca müsned gelmiştir. Buharî, Salat; Müslim, Mesacid; Şafiî, Risale, no: 366
+Saîd b. Müseyyeb'den: Resulullah Sallallahu Aleyhi ve Sellem, Medine'ye hicret ettikten sonra altı ay kadar namazı Beytü'l-Makdis'e (Kudüs'e) doğru dönerek kıldı. Daha sonra Bedir harbinden iki ay kadar ön­ce kıble Ka'beye çevrildi. et-Temhîd'de denir ki: Muvatta'da mürseldir. el-Bera' hadisiyle manaca müsned gelmiştir. Buharî, Salat; Müslim, Mesacid; Şafiî, Risale, no:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>461</td></tr><tr><td>Arabic No</td><td>461</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু যায়দ আনসারী (রাঃ) হতে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মসজিদে চিত হয়ে শুয়ে থাকতে দেখেছি, তখন তাঁর এক পা অন্য পায়ের উপর রাখা ছিল। [৪৭৫] (আধুনিক প্রকাশনী- ৫৮৪৩, ইসলামিক ফাউন্ডেশন- ৫৭৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু যায়দ আনসারী (রাঃ) হতে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মসজিদে চিত হয়ে শুয়ে থাকতে দেখেছি, তখন তাঁর এক পা অন্য পায়ের উপর রাখা ছিল। [৪৭৫] (আধুনিক প্রকাশনী- ৫৮৪৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6287</td></tr><tr><td>Arabic No</td><td>6287</td></tr><tr><td>Reference</td><td>Book 79 Hadith 59</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் ஸைத் அல் அன்சாரி (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பள்ளிவாசலில் கால்மீது கால் வைத்து மல்லாந்து படுத்திருக்கக் கண்டேன்.67 அத்தியாயம் : 79
+அப்துல்லாஹ் பின் ஸைத் அல் அன்சாரி (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பள்ளிவாசலில் கால்மீது கால் வைத்து மல்லாந்து படுத்திருக்கக் கண்டேன்.67 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6287</td></tr><tr><td>Arabic No</td><td>6287</td></tr><tr><td>Reference</td><td>Book 79 Hadith 59</td></tr></tbody></table></div>
 

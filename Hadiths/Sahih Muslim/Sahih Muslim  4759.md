@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬৫৩, আন্তর্জাতিক নাম্বারঃ ১৮৩৮ ৪৬৫৩-(.../...) ইবনু বাশশার (রহঃ) ..... শু'বাহ্ (রহঃ) হতে বর্ণিত রিওয়ায়াতে হাবশী গোলাম’ শব্দটি আছে। (ইসলামিক ফাউন্ডেশন ৪৬০৭, ইসলামিক সেন্টার ৪৬০৯)
+ইবনু বাশশার (রহঃ) ..... শু'বাহ্ (রহঃ) হতে বর্ণিত রিওয়ায়াতে হাবশী গোলাম’ শব্দটি আছে। (ইসলামিক ফাউন্ডেশন ৪৬০৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4759</td></tr><tr><td>Arabic No</td><td>1838.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 57</td></tr></tbody></table></div>
 

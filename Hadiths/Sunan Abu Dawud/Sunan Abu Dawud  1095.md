@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবু কামিল (রাঃ) ..... জাবির ইবনে সামুরা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে দাঁড়িয়ে খুতবা দিতে দেখেছি। তিনি প্রথম খুতবা দেয়ার পর ক্ষণিকের জন্য বসতেন এবং ঐ সময় কোন কথা বলতেননা ... অবশিষ্ট বর্ণনা পূর্ববৎ।
+। জাবির ইবনু সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে দাঁড়িয়ে খুত্ববাহ দিতে দেখেছি। তিন (দু’ খুত্ববাহর মাঝে) কিছুক্ষণ বসতেন কিন্তু কোন কথা বলতেন না। অতঃপর উপরোক্ত হাদীসের অনুরূপ।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1095</td></tr><tr><td>Arabic No</td><td>1095</td></tr><tr><td>Reference</td><td>Book 2 Hadith 706</td></tr></tbody></table></div>
 

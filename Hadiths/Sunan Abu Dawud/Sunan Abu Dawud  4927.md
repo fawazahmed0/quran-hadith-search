@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। সাল্লাম ইবনু মিসকীন (রহঃ) এক শাইখের সূত্রে বর্ণনা করেন যিনি আবূ ওয়াইল (রহঃ)-এর সঙ্গে এক বৌ-ভাত অনুষ্ঠানে উপস্থিত ছিলেন। তখন লোকেরা খেলাধূলা ও আনন্দ আর সঙ্গীতে মত্ত হলো। আবূ ওয়াইল (রহঃ) তার হাত দিয়ে নিজ হাঁটুদ্বয় পেঁচিয়ে ধরে বললেন, আমি আব্দুল্লাহ (রাঃ)-কে বলতে শুনেছি, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ নিশ্চয়ই সঙ্গীত অন্তরে কপটতা সৃষ্টি করে।[1] দুর্বলঃ মিশকাত হা/ ৪৮১০, যঈফাহ হা/ ২৪৩০।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 43 Hadith 155</td></tr></tbody></table></div>
 

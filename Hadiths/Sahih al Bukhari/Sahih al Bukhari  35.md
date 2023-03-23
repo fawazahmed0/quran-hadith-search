@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাযি.) হতে বর্ণিত তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করেনঃ যে ব্যক্তি ঈমানের সঙ্গে নেকির আশায় কদরের রাতে ইবাদতের মধ্যে রাত্রি জাগবে, তার পূর্বের গুনাহ্ ক্ষমা করে দেয়া হবে। (৩৭, ৩৮, ১৯০১, ২০০৮, ২০০৯, ২০১৪; মুসলিম ২/২৫ হাঃ ৭৬০) (আধুনিক প্রকাশনীঃ ৩৪, ইসলামিক ফাউন্ডেশনঃ ৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাযি.) হতে বর্ণিত তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করেনঃ যে ব্যক্তি ঈমানের সঙ্গে নেকির আশায় কদরের রাতে ইবাদতের মধ্যে রাত্রি জাগবে, তার পূর্বের গুনাহ্ ক্ষমা করে দেয়া হবে। (৩৭, ৩৮, ১৯০১, ২০০৮, ২০০৯, ২০১৪; মুসলিম ২/২৫ হাঃ ৭৬০) (আধুনিক প্রকাশনীঃ ৩৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Arabic No</td><td>35</td></tr><tr><td>Reference</td><td>Book 2 Hadith 28</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் இறைநம்பிக்கையோடும் நன் மையை எதிர்பார்த்தும் மகத்துவமிக்க (லைலத்துல் கத்ர்) இரவில் நின்று வழிபடு கிறாரோ அவரது முந்தைய பாவங்கள் மன்னிக்கப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 2
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் இறைநம்பிக்கையோடும் நன் மையை எதிர்பார்த்தும் மகத்துவமிக்க (லைலத்துல் கத்ர்) இரவில் நின்று வழிபடு கிறாரோ அவரது முந்தைய பாவங்கள் மன்னிக்கப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Arabic No</td><td>35</td></tr><tr><td>Reference</td><td>Book 2 Hadith 28</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Kim inanarak ve sevabını yalnızca Allah'tan umarak Kadir gecesini ihya ederse geçmiş günahlerı bağışlanır. Tekrar: 37, 38, 1901, 2008, 2009, 2014
+Ebu Hureyre r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Kim inanarak ve sevabını yalnızca Allah'tan umarak Kadir gecesini ihya ederse geçmiş günahlerı bağışlanır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Arabic No</td><td>35</td></tr><tr><td>Reference</td><td>Book 2 Hadith 28</td></tr></tbody></table></div>
 

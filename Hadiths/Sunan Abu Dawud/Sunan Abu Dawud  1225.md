@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আনাস ইবন মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরকালিন সময়ে তাঁর বাহনের (উটের) মুখ কিবলার দিকে থাকা অবস্থায় নফল নামাযের নিয়াত করতেন, অতঃপর জন্তুযান যেদিকে মোড় নিত তিনি সেদিকে ফিরেই নামায পড়তেন।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে নফল সালাত আদায়ের ইচ্ছা করলে স্বীয় উষ্ট্রীকে কিবলামুখী করে নিয়ে তাকবীর বলতেন। অতঃপর সওয়ারীর মুখ যেদিকেই হতো সেদিকে ফিরেই সালাত আদায় করতেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1225</td></tr><tr><td>Arabic No</td><td>1225</td></tr><tr><td>Reference</td><td>Book 4 Hadith 28</td></tr></tbody></table></div>
 

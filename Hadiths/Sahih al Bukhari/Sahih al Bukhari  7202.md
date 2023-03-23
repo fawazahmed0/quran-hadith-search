@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা যখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে তাঁর কথা শোনার ও তাঁকে মান্য করার জন্য বায়‘আত নিতাম তখন তিনি আমাদের বলতেনঃ যতটা তোমরা করতে সক্ষম হও। [মুসলিম ৩৩/২২, হাঃ ১৮৬৭] (আধুনিক প্রকাশনী- ৬৬৯৬, ইসলামিক ফাউন্ডেশন- ৬৭০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা যখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে তাঁর কথা শোনার ও তাঁকে মান্য করার জন্য বায়‘আত নিতাম তখন তিনি আমাদের বলতেনঃ যতটা তোমরা করতে সক্ষম হও। [মুসলিম ৩৩/২২, হাঃ ১৮৬৭] (আধুনিক প্রকাশনী- ৬৬৯৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7202</td></tr><tr><td>Arabic No</td><td>7202</td></tr><tr><td>Reference</td><td>Book 93 Hadith 62</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் (அவர்களின் கட்டளை களைச்) செவியேற்றுக் கீழ்ப்படிந்து நடப்போம் என உறுதிமொழி (பைஅத்) அளிக்கும்போது அவர்கள், “உங்களால் முடிந்த விஷயங்களில்” என்று சொல்வது வழக்கம். அத்தியாயம் : 93
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் (அவர்களின் கட்டளை களைச்) செவியேற்றுக் கீழ்ப்படிந்து நடப்போம் என உறுதிமொழி (பைஅத்) அளிக்கும்போது அவர்கள், “உங்களால் முடிந்த விஷயங்களில்” என்று சொல்வது வழக்கம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7202</td></tr><tr><td>Arabic No</td><td>7202</td></tr><tr><td>Reference</td><td>Book 93 Hadith 62</td></tr></tbody></table></div>
 

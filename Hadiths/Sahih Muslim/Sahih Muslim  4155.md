@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪০৪৭, আন্তর্জাতিক নাম্বারঃ ১৬১৮ ৪০৪৭-(.../...) আবূ কুরায়ব (রহঃ) ...... বারা (রাযিঃ) থেকে অনুরূপ বর্ণনা করেন। তবে অতিরিক্ত এ কথাটি বলেন যে, 'সর্বশেষ অবতীর্ণ পূর্ণাঙ্গ সূরা'। (ইসলামিক ফাউন্ডেশন ৪০১০, ইসলামিক সেন্টার ৪০০৯)
+আবূ কুরায়ব (রহঃ) ...... বারা (রাযিঃ) থেকে অনুরূপ বর্ণনা করেন। তবে অতিরিক্ত এ কথাটি বলেন যে, 'সর্বশেষ অবতীর্ণ পূর্ণাঙ্গ সূরা'। (ইসলামিক ফাউন্ডেশন ৪০১০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4155</td></tr><tr><td>Arabic No</td><td>1618.04</td></tr><tr><td>Reference</td><td>Book 23 Hadith 16</td></tr></tbody></table></div>
 

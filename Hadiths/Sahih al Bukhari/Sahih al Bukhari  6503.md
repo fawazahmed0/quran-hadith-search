@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাকে পাঠানো হয়েছে কিয়ামতের সঙ্গে এভাবে। এ বলে তিনি তাঁর দু’ আঙ্গুল দ্বারা ইশারা করে সে দুটোকে প্রসারিত করলেন। [1] [৪৯৩৬] (আধুনিক প্রকাশনী- ৬০৫৩, ইসলামিক ফাউন্ডেশন- ৬০৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাকে পাঠানো হয়েছে কিয়ামতের সঙ্গে এভাবে। এ বলে তিনি তাঁর দু’ আঙ্গুল দ্বারা ইশারা করে সে দুটোকে প্রসারিত করলেন। [1] [৪৯৩৬] (আধুনিক প্রকাশনী- ৬০৫৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6503</td></tr><tr><td>Arabic No</td><td>6503</td></tr><tr><td>Reference</td><td>Book 81 Hadith 92</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Said bin Abi maryam] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “நானும் மறுமை நாளும் இப்படி அனுப்பப்பட்டுள்ளோம்” என்று கூறி, தம் இரு விரல்களையும் (சுட்டுவிரல், நடுவிரல் இரண்டையும்) நீட்டியவாறு சைகை செய்தார்கள்.92 அத்தியாயம் : 82
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “நானும் மறுமை நாளும் இப்படி அனுப்பப்பட்டுள்ளோம்” என்று கூறி, தம் இரு விரல்களையும் (சுட்டுவிரல், நடுவிரல் இரண்டையும்) நீட்டியவாறு சைகை செய்தார்கள்.92 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6503</td></tr><tr><td>Arabic No</td><td>6503</td></tr><tr><td>Reference</td><td>Book 81 Hadith 92</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কামিল (রহঃ) .... আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন স্ত্রীলোকের জন্য তার স্বামীর বিনা অনুমতিতে তার মাল হতে কাউকে কিছু দেওয়া জাইয নয়।
+। ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ স্বামীর বিনা অনুমতিতে কোনো স্ত্রীর পক্ষে (তার মাল থেকে) কিছু দান করা জায়িয নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3547</td></tr><tr><td>Arabic No</td><td>3547</td></tr><tr><td>Reference</td><td>Book 24 Hadith 132</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Khali
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr b. Şu'ayb'ın babası vasıtasıyla Abdullah b. Amr (r.a)'den rivayet ettiğine göre; Rasûlullah (s.a.v.) şöyle buyurmuştur: "Bir kadın'ın, kocasının izni olmadan bağışta bulunması caiz değildir." Diğer tahric: Nesai, zekat, umra; İbn Mace, hibat; Ahmed b. Hanbel, II, 179, 184, 207
+Amr b. Şu'ayb'ın babası vasıtasıyla Abdullah b. Amr (r.a)'den rivayet ettiğine göre; Rasûlullah (s.a.v.) şöyle buyurmuştur: "Bir kadın'ın, kocasının izni olmadan bağışta bulunması caiz değildir." Diğer tahric: Nesai, zekat, umra; İbn Mace, hibat; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3547</td></tr><tr><td>Arabic No</td><td>3547</td></tr><tr><td>Reference</td><td>Book 24 Hadith 132</td></tr></tbody></table></div>
 

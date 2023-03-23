@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১. রাফি ইবন খাদীজ (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শস্যক্ষেত্র কেরায়া দিতে নিষেধ করিয়াছেন। হানযালা বলেন, আমি রাফি'র নিকট জিজ্ঞাসা করিলাম যদি স্বর্ণ বা চাঁদির পরিবর্তে লওয়া হয়? তিনি বলিলেন, কোন ক্ষতি নাই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1390</td></tr><tr><td>Arabic No</td><td>1390</td></tr><tr><td>Reference</td><td>Book 34 Hadith 1</td></tr></tbody></table></div>
 

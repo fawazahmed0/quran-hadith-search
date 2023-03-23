@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুমায়দা ইবন মাস'আদা (রহঃ) .... উয়ায়না উপরিউক্ত হাদীছ বর্ণনা প্রসঙ্গে বলেন, উক্ত জানাযা ছিল আবদুর রহমান ইবন সামুরার। রাবী বলেনঃ আবূ বাকরা (রাঃ) দ্রুত তাঁর খচ্চর হাঁকিয়ে আসেন এবং লাঠির ইশারায় লাশ দ্রুত বহন করতে বলেন।
+। উয়াইনাহ (রহঃ) থেকে উপরের হাদীসের অনুরূপ বর্ণিত। তবে এতে রয়েছেঃ এটি ছিলো ‘আব্দুর রাহমান ইবনু সামুরাহ (রাঃ)-এর জানাযার ঘটনা। আবূ বাকরাহ (রাঃ) দ্রুত তার খচ্চর হাঁকালেন এবং (দ্রুত চলতে) তার চাবুক দিয়ে ইশারা করলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3183</td></tr><tr><td>Arabic No</td><td>3183</td></tr><tr><td>Reference</td><td>Book 21 Hadith 95</td></tr></tbody></table></div>
 

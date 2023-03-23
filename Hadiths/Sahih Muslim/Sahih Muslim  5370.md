@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইয়াহইয়া ইবনু ইয়াহইয়া আবূ বাকর ইবনু আবূ শাইবাহ, আবূ কুরায়ব ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... জাবির (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একজনের খাদ্য দু'জনের জন্য পর্যাপ্ত এবং দুজনের খাদ্য চারজনের জন্য যথেষ্ট। (ইসলামিক ফাউন্ডেশন ৫১৯৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5370</td></tr><tr><td>Arabic No</td><td>2059.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 244</td></tr></tbody></table></div>
 

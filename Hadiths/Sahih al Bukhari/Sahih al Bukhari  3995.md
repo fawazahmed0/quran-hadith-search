@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, বদরের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, এই তো জিবরীল (আঃ) সমর সাজে সজ্জিত হয়ে অশ্বের মস্তক হস্তে ধারণ করে আছেন। [৪০৪১] (আধুনিক প্রকাশনীঃ ৩৬৯৯, ইসলামিক ফাউন্ডেশনঃ ৩৭০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, বদরের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, এই তো জিবরীল (আঃ) সমর সাজে সজ্জিত হয়ে অশ্বের মস্তক হস্তে ধারণ করে আছেন। [৪০৪১] (আধুনিক প্রকাশনীঃ ৩৬৯৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3995</td></tr><tr><td>Arabic No</td><td>3995</td></tr><tr><td>Reference</td><td>Book 64 Hadith 46</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ibrahim binMusa] telah mengabarkan kepada kami ['Ab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போரின்போது நபி (ஸல்) அவர்கள், “இதோ ஜிப்ரீல்! போர்த் தளவாடங்களுடன் தமது குதிரையின் தலையை (அதன் கடிவாளத்தை)ப் பிடித்துக்கொண்டிருக்கிறார்” என்று கூறினார்கள். அத்தியாயம் : 64
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போரின்போது நபி (ஸல்) அவர்கள், “இதோ ஜிப்ரீல்! போர்த் தளவாடங்களுடன் தமது குதிரையின் தலையை (அதன் கடிவாளத்தை)ப் பிடித்துக்கொண்டிருக்கிறார்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3995</td></tr><tr><td>Arabic No</td><td>3995</td></tr><tr><td>Reference</td><td>Book 64 Hadith 46</td></tr></tbody></table></div>
 

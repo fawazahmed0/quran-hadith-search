@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ ও ইবন সারহ (রহঃ) ...... কা'ব ইবন মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি বলি, ইয়া রাসূলাল্লাহ! আমার ইচ্ছা এই যে, আমি আমার সমস্ত মাল হতে মুখ ফিরিয়ে নেই এবং তা আল্লাহ্‌ এবং তাঁর রাসূলের জন্য সাদাকা করে দেই। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি তোমার জন্য কিছু মাল রেখে দাও, এটাই তোমার জন্য উত্তম। তিনি বলেন, তখন আমি এরূপ বলিঃ আমি আমার জন্য খায়বর যুদ্ধে প্রাপ্ত অংশটি রাখছি।
+। কা‘ব ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! আমার তওবা কবূল হওয়ায় আমি আমার সম্পদ থেকে মুখ ফিরিয়ে নিবো এবং তা আল্লাহ ও তাঁর রাসূলের জন্য দান করে দিবো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমার সম্পদের কিছু অংশে নিজের জন্য রেখে দেয়াই তোমার জন্য উত্তম হবে। কা‘ব (রাঃ) বলেন, আমি বললাম, খায়বারে প্রাপ্ত আমার অংশ নিজের জন্য রেখে দিলাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3317</td></tr><tr><td>Arabic No</td><td>3317</td></tr><tr><td>Reference</td><td>Book 22 Hadith 76</td></tr></tbody></table></div>
 

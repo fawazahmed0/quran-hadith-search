@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুর রহমান ইবনু সামুরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে ‘আবদুর রহমান ইবনু সামুরাহ! তুমি নেতৃত্ব চেয়ো না। কারণ, চাওয়ার পর যদি নেতৃত্ব পাও তবে এর দিকে তোমাকে সোপর্দ করে দেয়া হবে। আর যদি না চেয়ে তা পাও তবে তোমাকে এ বিষয়ে সাহায্য করা হবে। কোন কিছুর ব্যাপারে যদি শপথ কর আর তা ছাড়া অন্য কিছুর ভিতর কল্যাণ দেখতে পাও, তবে নিজ শপথের কাফ্ফারা আদায় করে তাত্থেকে উত্তমটি গ্রহণ কর। [৬৭২২, ৭১৪৬, ৭১৪৭; মুসলিম ২৭/৩, হাঃ ১৬৫২, আহমাদ ২০৬৪২] (আধুনিক প্রকাশনী- ৬১৬১, ইসলামিক ফাউন্ডেশন- ৬১৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুর রহমান ইবনু সামুরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে ‘আবদুর রহমান ইবনু সামুরাহ! তুমি নেতৃত্ব চেয়ো না। কারণ, চাওয়ার পর যদি নেতৃত্ব পাও তবে এর দিকে তোমাকে সোপর্দ করে দেয়া হবে। আর যদি না চেয়ে তা পাও তবে তোমাকে এ বিষয়ে সাহায্য করা হবে। কোন কিছুর ব্যাপারে যদি শপথ কর আর তা ছাড়া অন্য কিছুর ভিতর কল্যাণ দেখতে পাও, তবে নিজ শপথের কাফ্ফারা আদায় করে তাত্থেকে উত্তমটি গ্রহণ কর। [৬৭২২, ৭১৪৬, ৭১৪৭; মুসলিম ২৭/৩, হাঃ ১৬৫২, আহমাদ ২০৬৪২] (আধুনিক প্রকাশনী- ৬১৬১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6622</td></tr><tr><td>Arabic No</td><td>6622</td></tr><tr><td>Reference</td><td>Book 83 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'man Muhammad bin Fadhl] telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துர் ரஹ்மான் பின் சமுரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (என்னிடம்), “அப்துர் ரஹ்மான் பின் சமுராவே! ஆட்சிப் பொறுப்பை நீராக (ஆசைப்பட்டு)க் கேட்காதீர்! ஏனெனில், (நீர்) கேட்டதால் அது உமக்கு அளிக்கப்பட்டால் அதோடு நீர் (தனிமையில்) விடப்படுவீர். (இறைவனின் உதவி கிட்டாது.) கேட்காமல் அது உமக்கு அளிக்கப்பட்டால் அது தொடர்பாக உமக்கு (இறைவனின்) உதவி அளிக்கப்படும். நீர் ஒரு சத்தியம் செய்து, அது அல்லாத வேறொன்றை அதைவிடச் சிறந்ததாக நீர் கருதினால் உமது சத்தியத்(தை முறித்துவிட்டு, முறித்த)துக்கான பரிகாரத்தைச் செய்துவிடுவீராக!. சிறந்தது எதுவோ அதைச் செயல்படுத்துவீராக!” என்று சொன்னார்கள்.3 அத்தியாயம் : 83
+அப்துர் ரஹ்மான் பின் சமுரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (என்னிடம்), “அப்துர் ரஹ்மான் பின் சமுராவே! ஆட்சிப் பொறுப்பை நீராக (ஆசைப்பட்டு)க் கேட்காதீர்! ஏனெனில், (நீர்) கேட்டதால் அது உமக்கு அளிக்கப்பட்டால் அதோடு நீர் (தனிமையில்) விடப்படுவீர். (இறைவனின் உதவி கிட்டாது.) கேட்காமல் அது உமக்கு அளிக்கப்பட்டால் அது தொடர்பாக உமக்கு (இறைவனின்) உதவி அளிக்கப்படும். நீர் ஒரு சத்தியம் செய்து, அது அல்லாத வேறொன்றை அதைவிடச் சிறந்ததாக நீர் கருதினால் உமது சத்தியத்(தை முறித்துவிட்டு, முறித்த)துக்கான பரிகாரத்தைச் செய்துவிடுவீராக!. சிறந்தது எதுவோ அதைச் செயல்படுத்துவீராக!” என்று சொன்னார்கள்.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6622</td></tr><tr><td>Arabic No</td><td>6622</td></tr><tr><td>Reference</td><td>Book 83 Hadith 2</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Nu'man Muhammad bin Fadhl] telah menceritaka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdurrahman İbn Semure Nebi Sallallahu Aleyhi ve Sellem'in kendisine şöyle dediğini rivayet etmiştir: "Ey Abdurrahman İbn Semure, idareciliği isteme. Eğer sen isteyerek idareciliğe getirilirsen yalnız kalırsın. Ancak istemediğin halde bu iş sana verilirse o zaman sana yardım edilir. Bir konuda yemin edersen ve yemin ettiğin dışinda bir şeyin daha hayırlı olduğunu görürsen yemin kefaretini ver ve hayırlı olanı yap." Tekrar: 6722,7146, 7147
+Abdurrahman İbn Semure Nebi Sallallahu Aleyhi ve Sellem'in kendisine şöyle dediğini rivayet etmiştir: "Ey Abdurrahman İbn Semure, idareciliği isteme. Eğer sen isteyerek idareciliğe getirilirsen yalnız kalırsın. Ancak istemediğin halde bu iş sana verilirse o zaman sana yardım edilir. Bir konuda yemin edersen ve yemin ettiğin dışinda bir şeyin daha hayırlı olduğunu görürsen yemin kefaretini ver ve hayırlı olanı yap." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6622</td></tr><tr><td>Arabic No</td><td>6622</td></tr><tr><td>Reference</td><td>Book 83 Hadith 2</td></tr></tbody></table></div>
 

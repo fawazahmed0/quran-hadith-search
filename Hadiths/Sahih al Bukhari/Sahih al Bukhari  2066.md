@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, যখন কোন মহিলা তার স্বামীর উপার্জন হতে তার অনুমতি ছাড়াই ব্যয় করবে, তখন তার জন্য অর্ধেক সাওয়াব রয়েছে। (৫১৯২, ৫১৯৫, ৫৩৬০) (আধুনিক প্রকাশনীঃ ১৯২১ , ইসলামিক ফাউন্ডেশনঃ ১৯৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, যখন কোন মহিলা তার স্বামীর উপার্জন হতে তার অনুমতি ছাড়াই ব্যয় করবে, তখন তার জন্য অর্ধেক সাওয়াব রয়েছে। (৫১৯২, ৫১৯৫, ৫৩৬০) (আধুনিক প্রকাশনীঃ ১৯২১ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2066</td></tr><tr><td>Arabic No</td><td>2066</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada saya [Yahya bin Ja'far] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: ஒரு பெண், தன் கணவனின் கட்டளை யின்றி அவனது சம்பாத்தியத்திலிருந்து (அறவழியில்) செலவு செய்தால் (சம்பாதித்த) அவனுக்கு நற்பலனில் பாதி உண்டு. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+நபி (ஸல்) அவர்கள்கூறினார்கள்: ஒரு பெண், தன் கணவனின் கட்டளை யின்றி அவனது சம்பாத்தியத்திலிருந்து (அறவழியில்) செலவு செய்தால் (சம்பாதித்த) அவனுக்கு நற்பலனில் பாதி உண்டு. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2066</td></tr><tr><td>Arabic No</td><td>2066</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada saya [Yahya bin Ja'far] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hemmam, Ebu Hureyre aracılığıyla NebiSallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Kadın, kocasının kazancından (Allah yolunda) kocasının emri olmaksızın infak ederse, bunun ecrinin yarısını alır.” Tekrar: 5192, 5195, 5360
+Hemmam, Ebu Hureyre aracılığıyla NebiSallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Kadın, kocasının kazancından (Allah yolunda) kocasının emri olmaksızın infak ederse, bunun ecrinin yarısını alır.” Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2066</td></tr><tr><td>Arabic No</td><td>2066</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
 

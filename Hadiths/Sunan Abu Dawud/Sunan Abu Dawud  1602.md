@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আর-রবী ইব্‌ন সুলায়মান (রহঃ) ..... আমর ইব্‌ন শুআইব (রহঃ) থেকে পর্যায়ক্রমে তাঁর পিতা ও পিতামহের সূত্রে বর্ণিত। ফাহ্‌ম গোত্রের একটি শাখা ... মুগীরার বর্ণিত হাদীসের অনুরূপ। প্রত্যেক দশ মশকের জন্য যাকাত এক মশক। অতঃপর রাবী বলেন, ঐ দুইটি উপত্যকার মালিক ছিলেন তারা।
+। ‘আমর ইবনু শু‘আইব (রহঃ) হতে পর্যায়ক্রমে তার পিতা ও তার দাদার সুত্রে বর্ণিত। ফাহম গোত্রের উপগোত্র...অতঃপর মুগীরাহর হাদীসের অনুরূপ। তিনি বলেন, (মধুর যাকাত) দ‏শ মশকে এক মশক দেয়া ওয়াজিব। তিনি আরো বলেন, সমভূমি দু‘টি তাদের মালিকানায় ছিল।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1602</td></tr><tr><td>Arabic No</td><td>1602</td></tr><tr><td>Reference</td><td>Book 9 Hadith 47</td></tr></tbody></table></div>
 

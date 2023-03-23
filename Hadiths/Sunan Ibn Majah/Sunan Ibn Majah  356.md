@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৫৬। আয়িশাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পায়খানা করে তাঁর পশ্চাঁদদ্বার তিনবার ধৌত করতেন। ইবনু উমার বলেন, আমরাও তাই করেছি এবং এটাকে নিরাময় ও পবিত্রতার উপায় হিসেবে পেয়েছি। ৩/৩৫৬ (১) আবূল হাসান ইবনু সালামাহ, আবূ হাতিম ও ইব্রাহীম ইবনু সুলাইমান আল-ওয়াসিতী, আবূ নুআয়ম, শারীক (রহঃ) থেকে এ সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে।
+। আয়িশাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পায়খানা করে তাঁর পশ্চাঁদদ্বার তিনবার ধৌত করতেন। ইবনু উমার বলেন, আমরাও তাই করেছি এবং এটাকে নিরাময় ও পবিত্রতার উপায় হিসেবে পেয়েছি। ৩/৩৫৬ (১) আবূল হাসান ইবনু সালামাহ, আবূ হাতিম ও ইব্রাহীম ইবনু সুলাইমান আল-ওয়াসিতী, আবূ নুআয়ম, শারীক (রহঃ) থেকে এ সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>356</td></tr><tr><td>Arabic No</td><td>356</td></tr><tr><td>Reference</td><td>Book 1 Hadith 90</td></tr></tbody></table></div>
 

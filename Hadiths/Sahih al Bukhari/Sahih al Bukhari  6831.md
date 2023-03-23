@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু শিহাব (রহ.) বলেন, আমাকে ‘উরওয়াহ ইবনু যুবায়র (র.) বলেছেন যে, ‘উমার ইবনু খাত্তাব (রাঃ) নির্বাসিত করতেন। অতঃপর সব সময় এ সুন্নাত চালু আছে। (আধুনিক প্রকাশনী- ৬৩৫৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6831</td></tr><tr><td>Arabic No</td><td>6831</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

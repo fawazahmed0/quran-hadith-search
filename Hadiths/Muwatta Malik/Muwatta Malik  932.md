@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Hisyam bin Urwah] dari [Bapaknya] d
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir b. Abdullah el-Ensarî (radıyallahü anh)'den: Resûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: «Herhangi bir kişiye ve çocuklarına bir Umra hibe edilirse, bu o kişinin olur. Bu Umra, hiç bir zaman hibe eden kişiye geri dönmez. Çünkü hibe edenin hibesi, miras hükümlerinin geçerli olduğu bir hibedir.» Müslim, Hibât, 24/4, no: 20; Şeybanî, 811
+Cabir b. Abdullah el-Ensarî (radıyallahü anh)'den: Resûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: «Herhangi bir kişiye ve çocuklarına bir Umra hibe edilirse, bu o kişinin olur. Bu Umra, hiç bir zaman hibe eden kişiye geri dönmez. Çünkü hibe edenin hibesi, miras hükümlerinin geçerli olduğu bir hibedir.» Müslim, Hibât, 24/4, no: 20; Şeybanî
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>932</td></tr><tr><td>Arabic No</td><td>932</td></tr><tr><td>Reference</td><td>Book 20 Hadith 5</td></tr></tbody></table></div>
 

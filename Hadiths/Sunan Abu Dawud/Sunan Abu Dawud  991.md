@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯৯১। আবদুল্লাহ ইবন মুহাম্মদ (রহঃ) .... মালিক ইবন নুমায়ের খুযায়ী (রহঃ) তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, আমি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে তাঁর ডান হাত ডান পায়ের রানের উপর রাখতে দেখেছি এবং এ সময় তিনি তাঁর শাহাদাত আংগুলি অর্ধনমিত অবস্থায় উচিয়ে রাখেন। (ইবন মাজা, নাসাঈ)।
+। মালিক ইবনু নুমাইর আল-খুযাঈ (রহঃ) তার পিতা হতে বর্ণনা করে যে, তিনি বলেছেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে সালাতে তাঁর ডান হাত ডান উরুর উপর রেখে শাহাদাত আঙুল অর্ধনমিত অবস্থায় উচিয়ে রাখতে দেখেছি। [1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 2 Hadith 602</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Mâlik b.Numeyr el-Huzâî babası Numeyr'den; demiştir ki: Resûlullah (s.a.v.)'i sağ kolunu sağ uyluğunun üzerine koymuş ve işaret parmağını kaldırmış bir vaziyette gördüm. Ancak parmağını birazcık bükmüştü. Diğer tahric: Nesâî, sehv; Ahmed b. Hanbel, III, 471
+Mâlik b.Numeyr el-Huzâî babası Numeyr'den; demiştir ki: Resûlullah (s.a.v.)'i sağ kolunu sağ uyluğunun üzerine koymuş ve işaret parmağını kaldırmış bir vaziyette gördüm. Ancak parmağını birazcık bükmüştü. Diğer tahric: Nesâî, sehv; Ahmed b. Hanbel, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 2 Hadith 602</td></tr></tbody></table></div>
 

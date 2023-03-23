@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৪৭৮, আন্তর্জাতিক নাম্বারঃ ২১৩০ ৫৪৭৮-(.../২১৩০) আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... হিশাম (রহঃ) সানাদে উপরোল্লিখিত হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪০০, ইসলামিক সেন্টার ৫৪২২)
+আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... হিশাম (রহঃ) সানাদে উপরোল্লিখিত হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪০০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5585</td></tr><tr><td>Arabic No</td><td>2130.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 193</td></tr></tbody></table></div>
 

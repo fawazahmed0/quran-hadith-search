@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৯৩৮। গাইলান ইবনু জারীর (রহঃ) বলেন, আনাস ইবনু মালিক (রাযিঃ)-কে আমি বলতে শুনেছি, আমরা আযদ গোত্রভুক্ত না হলে উত্তম মানুষই হতাম না। সনদ সহীহঃ মাওকুফ। আবূ ঈসা বলেন, এ হাদীসটি হাসান, সহীহ গারীব।
+। গাইলান ইবনু জারীর (রহঃ) বলেন, আনাস ইবনু মালিক (রাযিঃ)-কে আমি বলতে শুনেছি, আমরা আযদ গোত্রভুক্ত না হলে উত্তম মানুষই হতাম না। সনদ সহীহঃ মাওকুফ। আবূ ঈসা বলেন, এ হাদীসটি হাসান, সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3938</td></tr><tr><td>Arabic No</td><td>3938</td></tr><tr><td>Reference</td><td>Book 49 Hadith 338</td></tr></tbody></table></div>
 

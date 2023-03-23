@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬১৩০, আন্তর্জাতিক নাম্বারঃ ২৪১২ ৬১৩০- (.../...) কুতাইবাহ ইবনু সা’ঈদ ইবনু রুমহ ও ইবনুল মুসান্না (রহঃ) …. ইহাইয়া ইবনু সা’ঈদ (রাযিঃ) এর সূত্রে এ সানাদেই রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬০১৮, ইসলামিক সেন্টার ৬০৫৬)
+কুতাইবাহ ইবনু সা’ঈদ ইবনু রুমহ ও ইবনুল মুসান্না (রহঃ) …. ইহাইয়া ইবনু সা’ঈদ (রাযিঃ) এর সূত্রে এ সানাদেই রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬০১৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6236</td></tr><tr><td>Arabic No</td><td>2412.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 66</td></tr></tbody></table></div>
 

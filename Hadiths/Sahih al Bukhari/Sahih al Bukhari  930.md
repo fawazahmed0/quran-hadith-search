@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, (কোন এক) জুমু‘আহর দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকদের সামনে খুৎবাহ দিচ্ছিলেন। এ সময় এক ব্যক্তি আসলে তিনি তাকে জিজ্ঞেস করলেন, হে অমুক! তুমি কি সালাত আদায় করেছ? সে বলল, না; তিনি বললেন, উঠ, সালাত আদায় করে নাও।* (৯৩১, ১১৬৬; মুসলিম ৭/১৪, হাঃ ৮৭৫, আহমাদ ১৪৯১২) (আধুনিক প্রকাশনীঃ ৮৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>930</td></tr><tr><td>Arabic No</td><td>930</td></tr><tr><td>Reference</td><td>Book 11 Hadith 54</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வெள்ளிக்கிழமை அன்று மக்களுக்கு உரையாற்றிக்கொண்டி ருக்கையில் ஒரு மனிதர் வந்(து தொழாமல் அமர்ந்)தார். அப்போது நபி (ஸல்) அவர்கள், “இன்னாரே! தொழுதுவிட்டீரா?” என்று கேட்டார்கள். அதற்கு அவர், ‘இல்லை’ என்றார். “எழுந்து, (இரண்டு ரக்அத்கள்) தொழுவீராக!” என்று நபி (ஸல்) அவர்கள் சொன்னார்கள்.12 அத்தியாயம் : 11
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வெள்ளிக்கிழமை அன்று மக்களுக்கு உரையாற்றிக்கொண்டி ருக்கையில் ஒரு மனிதர் வந்(து தொழாமல் அமர்ந்)தார். அப்போது நபி (ஸல்) அவர்கள், “இன்னாரே! தொழுதுவிட்டீரா?” என்று கேட்டார்கள். அதற்கு அவர், ‘இல்லை’ என்றார். “எழுந்து, (இரண்டு ரக்அத்கள்) தொழுவீராக!” என்று நபி (ஸல்) அவர்கள் சொன்னார்கள்.12 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>930</td></tr><tr><td>Arabic No</td><td>930</td></tr><tr><td>Reference</td><td>Book 11 Hadith 54</td></tr></tbody></table></div>
 

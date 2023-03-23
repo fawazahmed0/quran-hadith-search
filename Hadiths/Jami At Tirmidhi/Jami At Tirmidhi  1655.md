@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৬৫৫। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ তা'আলা তিন প্রকারের মানুষকে সাহায্য করা নিজের কর্তব্য হিসাবে নির্ধারণ করেছেন। আল্লাহ্ তা'আলার পথে জিহাদকারী, মুকাতাব গোলাম- যে চুক্তির অর্থ পরিশোধের ইচ্ছা করে এবং বিবাহে আগ্রহী লোক- যে বিয়ের মাধ্যমে পবিত্র জীবন যাপন করতে চায়। হাসান, ইবনু মা-জাহ (২৫১৮) এ হাদীসটিকে আবূ ঈসা হাসান বলেছেন।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ তা'আলা তিন প্রকারের মানুষকে সাহায্য করা নিজের কর্তব্য হিসাবে নির্ধারণ করেছেন। আল্লাহ্ তা'আলার পথে জিহাদকারী, মুকাতাব গোলাম- যে চুক্তির অর্থ পরিশোধের ইচ্ছা করে এবং বিবাহে আগ্রহী লোক- যে বিয়ের মাধ্যমে পবিত্র জীবন যাপন করতে চায়। হাসান, ইবনু মা-জাহ (২৫১৮) এ হাদীসটিকে আবূ ঈসা হাসান বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1655</td></tr><tr><td>Arabic No</td><td>1655</td></tr><tr><td>Reference</td><td>Book 22 Hadith 38</td></tr></tbody></table></div>
 

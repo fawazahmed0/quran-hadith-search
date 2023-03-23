@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উসমান ইবনু আফফান (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের মধ্যে সবচেয়ে উত্তম তারা, যারা নিজেরা কুরআন শিখে এবং অন্যকে শিক্ষা দেয়। [৫০২৭] (আধুনিক প্রকাশনীঃ ৪৬৫৪, ইসলামিক ফাউন্ডেশনঃ ৪৬৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উসমান ইবনু আফফান (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের মধ্যে সবচেয়ে উত্তম তারা, যারা নিজেরা কুরআন শিখে এবং অন্যকে শিক্ষা দেয়। [৫০২৭] (আধুনিক প্রকাশনীঃ ৪৬৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5028</td></tr><tr><td>Arabic No</td><td>5028</td></tr><tr><td>Reference</td><td>Book 66 Hadith 50</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனைத் தாமும் கற்றுப் பிறருக்கும் அதைக் கற்றுக்கொடுத்தவரே உங்களில் சிறந்தவர். இதை உஸ்மான் பின் அஃப்பான் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 66
+நபி (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனைத் தாமும் கற்றுப் பிறருக்கும் அதைக் கற்றுக்கொடுத்தவரே உங்களில் சிறந்தவர். இதை உஸ்மான் பின் அஃப்பான் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5028</td></tr><tr><td>Arabic No</td><td>5028</td></tr><tr><td>Reference</td><td>Book 66 Hadith 50</td></tr></tbody></table></div>
 

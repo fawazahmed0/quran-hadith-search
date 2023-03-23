@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কায়স ইবনু উবাদ (রহ.) হতে বর্ণিত। তিনি বলেন, ‘আলী (রাঃ) বলেছেনঃ ‘‘এরা দু’টি বিবদমান পক্ষ, তারা তাদের প্রতিপালক সম্পর্কে বিতর্ক করে’’- (সূরাহ হাজ্জ ২২/১৯) আয়াতটি আমাদের সম্পর্কেই অবতীর্ণ হয়েছে। [৩৯৬৫] (আধুনিক প্রকাশনীঃ ৩৬৭৫, ইসলামিক ফাউন্ডেশনঃ ৩৬৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কায়স ইবনু উবাদ (রহ.) হতে বর্ণিত। তিনি বলেন, ‘আলী (রাঃ) বলেছেনঃ ‘‘এরা দু’টি বিবদমান পক্ষ, তারা তাদের প্রতিপালক সম্পর্কে বিতর্ক করে’’- (সূরাহ হাজ্জ ২২/১৯) আয়াতটি আমাদের সম্পর্কেই অবতীর্ণ হয়েছে। [৩৯৬৫] (আধুনিক প্রকাশনীঃ ৩৬৭৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3967</td></tr><tr><td>Arabic No</td><td>3967</td></tr><tr><td>Reference</td><td>Book 64 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Ibrahim Ash Shawwaf] telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறிய தாவது: “இவர்கள் தம் இறைவனின் (மார்க்க) விஷயத்தில் சண்டையிட்டுக்கொண்ட இரு பிரிவினர் ஆவர்” எனும் இந்த (22:19) இறைவசனம் எங்கள் தொடர்பாகவே அருளப்பட்டது. அத்தியாயம் : 64
+அலீ (ரலி) அவர்கள் கூறிய தாவது: “இவர்கள் தம் இறைவனின் (மார்க்க) விஷயத்தில் சண்டையிட்டுக்கொண்ட இரு பிரிவினர் ஆவர்” எனும் இந்த (22:19) இறைவசனம் எங்கள் தொடர்பாகவே அருளப்பட்டது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3967</td></tr><tr><td>Arabic No</td><td>3967</td></tr><tr><td>Reference</td><td>Book 64 Hadith 20</td></tr></tbody></table></div>
 

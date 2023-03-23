@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মালীহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, এক মেঘলা দিনে আমরা বুরাইদা (রাযি.)-এর সঙ্গে ছিলাম। তিনি বললেন, শীঘ্র সালাত আদায় করে নাও। কেননা, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ‘আসরের সালাত ছেড়ে দেয় তার সমস্ত ‘আমল বিনষ্ট হয়ে যায়। (৫৫৩) (আধুনিক প্রকাশনীঃ ৫৫৯, ইসলামিক ফাউন্ডেশনঃ ৫৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মালীহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, এক মেঘলা দিনে আমরা বুরাইদা (রাযি.)-এর সঙ্গে ছিলাম। তিনি বললেন, শীঘ্র সালাত আদায় করে নাও। কেননা, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ‘আসরের সালাত ছেড়ে দেয় তার সমস্ত ‘আমল বিনষ্ট হয়ে যায়। (৫৫৩) (আধুনিক প্রকাশনীঃ ৫৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>594</td></tr><tr><td>Arabic No</td><td>594</td></tr><tr><td>Reference</td><td>Book 9 Hadith 69</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn Abu Malih [??]:I was with Buraida on a cloudy day and he said, "Offer the 'Asr prayer earlier as the Prophet (ﷺ) said, 'Whoever leaves the 'Asr prayer will have all his (good) deeds annulled." (See Hadith No. 527 and 528)
+Narrated Ibn Abu Malih [??]:I was with Buraida on a cloudy day and he said, "Offer the 'Asr prayer earlier as the Prophet (ﷺ) said, 'Whoever leaves the 'Asr prayer will have all his (good) deeds annulled." (See Hadith No. 527 and)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>594</td></tr><tr><td>Arabic No</td><td>594</td></tr><tr><td>Reference</td><td>Book 9 Hadith 69</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபுல்மலீஹ் (ஆமிர் பின் உசாமா- ரஹ்) அவர்கள் கூறியதாவது: மேகமூட்டம் இருந்த ஒரு நாளில் புரைதா பின் அல்ஹஸீப் (ரலி) அவர்களுடன் (ஒரு போரில்) நாங்கள் இருந்தோம். அப்போது அவர்கள், “அஸ்ர் தொழுகையை விரைவாக (அதன் ஆரம்ப நேரத்திலேயே) நிறைவேற்றுங்கள். ஏனெனில், நபி (ஸல்) அவர்கள் ‘யார் அஸ்ர் தொழுகையை விட்டுவிடுகிறாரோ அவருடைய நற்செயல்கள் அழிந்துவிட்டன’ என்று கூறியுள்ளார்கள்” என்றார்கள். அத்தியாயம் : 9
+அபுல்மலீஹ் (ஆமிர் பின் உசாமா- ரஹ்) அவர்கள் கூறியதாவது: மேகமூட்டம் இருந்த ஒரு நாளில் புரைதா பின் அல்ஹஸீப் (ரலி) அவர்களுடன் (ஒரு போரில்) நாங்கள் இருந்தோம். அப்போது அவர்கள், “அஸ்ர் தொழுகையை விரைவாக (அதன் ஆரம்ப நேரத்திலேயே) நிறைவேற்றுங்கள். ஏனெனில், நபி (ஸல்) அவர்கள் ‘யார் அஸ்ர் தொழுகையை விட்டுவிடுகிறாரோ அவருடைய நற்செயல்கள் அழிந்துவிட்டன’ என்று கூறியுள்ளார்கள்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>594</td></tr><tr><td>Arabic No</td><td>594</td></tr><tr><td>Reference</td><td>Book 9 Hadith 69</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ তা‘আলা ইয়াহূদীদের ধ্বংস করুন। কেননা তারা তাদের নবীদের (নবীদের) কবরকে মাসজিদ বানিয়ে নিয়েছে। (মুসলিম ৫/৩, হাঃ ৫৩০, আহমাদ ৭৮৩১) (আধুনিক প্রকাশনীঃ ৪১৮, ইসলামিক ফাউন্ডেশনঃ ৪২৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আল্লাহ তা‘আলা ইয়াহূদীদের ধ্বংস করুন। কেননা তারা তাদের নবীদের (নবীদের) কবরকে মাসজিদ বানিয়ে নিয়েছে। (মুসলিম ৫/৩, হাঃ ৫৩০, আহমাদ ৭৮৩১) (আধুনিক প্রকাশনীঃ ৪১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 8 Hadith 86</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: “அல்லாஹ் யூதர்களைத் தனது கருணையி-ருந்து அப்புறப்படுத்துவானாக! தம் இறைத்தூதர்களின் மண்ணறைகளை அவர்கள் வழிபாட்டுத் தலங்களாக ஆக்கிக் கொண்டார்கள்” என அல்லாஹ்வின் தூதர் அவர்கள் கூறினார்கள். அத்தியாயம் : 8
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: “அல்லாஹ் யூதர்களைத் தனது கருணையி-ருந்து அப்புறப்படுத்துவானாக! தம் இறைத்தூதர்களின் மண்ணறைகளை அவர்கள் வழிபாட்டுத் தலங்களாக ஆக்கிக் கொண்டார்கள்” என அல்லாஹ்வின் தூதர் அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 8 Hadith 86</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নুফায়লী (রহঃ) ..... মুজাহিদ (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ উমার (রাঃ) অনিচ্ছাকৃত হত্যার দিয়াত ত্রিশটি হিককা, ত্রিশটি জাযা'আ এবং চল্লিশটি উট যাদের বয়স ছয় থেকে নয় বছরের মধ্যে আদায় করার নির্দেশ দেন।
+। মুজাহিদ (রহঃ) সূত্রে বর্ণিত। ইচ্ছাকৃত হত্যার সদৃশ-এর দিয়াত সম্পর্কে উমার (রাঃ) সিদ্ধান্ত দিয়েছেন, ত্রিশটি চতুর্থ বছরে পদার্পণকারী উষ্ট্রী, ত্রিশটি পঞ্চম বছরে পদার্পণকারী উষ্ট্রী এবং চল্লিশটি এমন গর্ভবর্তী উষ্ট্রী যার বয়স ছয় থেকে নয় এর মধ্যে রয়েছে।[1] সনদ দুর্বল মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4550</td></tr><tr><td>Arabic No</td><td>4550</td></tr><tr><td>Reference</td><td>Book 41 Hadith 57</td></tr></tbody></table></div>
 

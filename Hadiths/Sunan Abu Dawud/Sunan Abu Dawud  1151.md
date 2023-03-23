@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... আব্দুল্লাহ ইবনু আমর ইবনুল আস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ঈদুল ফিতরের প্রথম রাকাতে সাত তাকবীর এবং দ্বিতীয় রাকাতে পাঁচ তাকবীর এবং উভয় রাকাতে তাকবীরের পরেই কিরাআত পড়তে হয়।
+। ‘আবদুল্লাহ ইবনু ‘আমর ইবনুল ‘আস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ঈদুল ফিত্বরের সালাতের তাকবীর হচ্ছে প্রথম রাক‘আতে সাতটি এবং দ্বিতীয় রাক‘আতে পাঁচটি এবং উভয় রাক‘আতেই তাকবীরের পর ক্বিরাআত পড়তে হবে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1151</td></tr><tr><td>Arabic No</td><td>1151</td></tr><tr><td>Reference</td><td>Book 2 Hadith 762</td></tr></tbody></table></div>
 

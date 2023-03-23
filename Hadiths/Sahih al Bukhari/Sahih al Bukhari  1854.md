@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণনা করেন যে, বিদায় হজ্জের বছর খাস‘আম গোত্রের একজন মহিলা এসে বললেন, হে আল্লাহর রাসূল! আল্লাহর তরফ হতে বান্দার উপর যে হাজ্জ ফরজ হয়েছে তা আমার বৃদ্ধ পিতার উপর এমন সময় ফরজ হয়েছে যখন তিনি সওয়ারীর উপর ঠিকভাবে বসে থাকতে সক্ষম নন। আমি তার পক্ষ হতে হাজ্জ আদায় করলে তার হাজ্জ আদায় হবে কি? তিনি বললেনঃ হাঁ (নিশ্চয়ই আদায় হবে)। (১৫১৩, মুসলিম ১৫/৭১, হাঃ ১৩৩৫, আহমাদ ১৮২২) (আধুনিক প্রকাশনীঃ ১৭২০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1854</td></tr><tr><td>Arabic No</td><td>1854</td></tr><tr><td>Reference</td><td>Book 28 Hadith 34</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Ibnu Syihab
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle dedi: Cüheyne kabilesinden bir kadın Nebi Sallallahu Aleyhi ve Sellem'e gelerek şöyle dedi: "Annem haccetmeyi adadı, ancak hac yapamadan öldü. Ben onun yerine hac yapayım mı?" Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Evet onun yerine hac yap. Annenin borcu olsaydı onu öder miydin? Allah'a olan borcunuzu da ödeyin. Allah borcu ödenmeye en layık olandır". Tekrar: 6699, 7315
+İbn Abbas r.a. şöyle dedi: Cüheyne kabilesinden bir kadın Nebi Sallallahu Aleyhi ve Sellem'e gelerek şöyle dedi: "Annem haccetmeyi adadı, ancak hac yapamadan öldü. Ben onun yerine hac yapayım mı?" Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Evet onun yerine hac yap. Annenin borcu olsaydı onu öder miydin? Allah'a olan borcunuzu da ödeyin. Allah borcu ödenmeye en layık olandır". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1854</td></tr><tr><td>Arabic No</td><td>1854</td></tr><tr><td>Reference</td><td>Book 28 Hadith 34</td></tr></tbody></table></div>
 

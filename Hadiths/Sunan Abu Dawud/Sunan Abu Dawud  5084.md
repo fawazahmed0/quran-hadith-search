@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইমাম আবূ দাঊদ (রহঃ) বলেন, এ সনদে আরো বর্ণিত হয়েছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কেউ ভোরে উপনীত হলে যেন বলেঃ ‘‘আমরা ভোরে উপনীত হলাম এবং জগতসমূহের রব আল্লাহর রাজ্যও ভোরে উপনীত হলো। হে আল্লাহ! আমি আজকের দিনের কল্যাণ, বিজয়, সাহায্য, আলো, বরকত ও হিদায়াত কামনা করছি। আর আজকের দিনের অমঙ্গল ও তার পরের অমঙ্গল থেকে তোমার নিকট আশ্রয় চাইছি।’’ যখন সন্ধ্যায় উপনীত হবে তখনও তাই বলবে।[1] দুর্বলঃ যঈফাহ হা/ ৫৬০৬।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5084</td></tr><tr><td>Arabic No</td><td>5084</td></tr><tr><td>Reference</td><td>Book 43 Hadith 312</td></tr></tbody></table></div>
 

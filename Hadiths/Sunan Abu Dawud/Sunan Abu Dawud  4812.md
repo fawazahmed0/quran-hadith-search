@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একবার মুহাজির সাহাবীরা বলেঃ ইয়া রাসূলাল্লাহ! আনসাররা তো সব ছওয়ারের অধিকারী হলো? তিনি বলেনঃ না, যতক্ষণ তোমরা তাদের জন্য দু’আ করবে এবং তাদের প্রশংসা করবে, (ততক্ষণ তোমরাও ছওয়াব পাবে।)
+। আনাস (রাঃ) সূত্রে বর্ণিত। একদা মুহাজিরগণ বললেন, হে আল্লাহর রাসূল! আনসারগণ তো সব নেকী নিলেন। তিনি বললেনঃ না, যতক্ষণ তোমরা আল্লাহর নিকট তাদের জন্য দু‘আ করবে ও তাদের প্রশংসা করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4812</td></tr><tr><td>Arabic No</td><td>4812</td></tr><tr><td>Reference</td><td>Book 43 Hadith 40</td></tr></tbody></table></div>
 

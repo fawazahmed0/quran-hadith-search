@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... উছমান ইবনু আবূল আস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের নিকট বললাম, আমাকে আমার গোত্রের ইমাম নিযুক্ত করুন। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাকে তাদের ইমাম নিযুক্ত করা হল। তুমি দুর্বল ব্যক্তিদের প্রতি অবশ্যই খেয়াল রাখবে এবং এমন এক ব্যক্তি কে মুআযযিন নিযুক্ত করবে, যে আযানের কোনরূপ বিনিময় গ্রহণ করবে না। (নাসাঈ, তিরমিযী, মুসলিম, ইবনু মাজাহ)।
+। ‘উসমান ইবনু আবূল ‘আস (রাঃ) সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললেন, হে আল্লাহর রসূল! আমাকে আমার সম্প্রদায়ের ইমাম নিয়োগ করুন। তিনি বলেনঃ যাও, তোমাকে তাদের ইমাম নিযুক্ত করা হলো। তবে দূর্বল মুক্তাদীদের প্রতি খেয়াল রাখবে এবং এমন একজন মুয়াজ্জিন নিয়োগ করবে যে তার আযানের বিনিময়ে পারিশ্রমিক গ্রহণ করবে না।[1] সহীহ : মুসলিম, মুয়াজ্জিন নিয়োগের কথাটি বাদে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>531</td></tr><tr><td>Arabic No</td><td>531</td></tr><tr><td>Reference</td><td>Book 2 Hadith 141</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Osman b. Ebi'l-As'ın haber verdiğine göre kendisi; Ya Resulallah (Sallallahu aleyhi ve Sellem) beni kavmime imam yap deyince, Resulullah (Sallallahu aleyhi ve Sellem): "Sen onların imamısın. (Namazını kıldırırken) en zayıf olanlarını göz önünde bulundur ve ezanına ücret almayan bir müezzin edin" buyurmuştur. Diğer tahric: Müslim, salat; Tirmİzi, salat; Nesai, ezan; İbn Mace, ezan; Ahnıed b. Hanbel, IV, 217
+Osman b. Ebi'l-As'ın haber verdiğine göre kendisi; Ya Resulallah (Sallallahu aleyhi ve Sellem) beni kavmime imam yap deyince, Resulullah (Sallallahu aleyhi ve Sellem): "Sen onların imamısın. (Namazını kıldırırken) en zayıf olanlarını göz önünde bulundur ve ezanına ücret almayan bir müezzin edin" buyurmuştur. Diğer tahric: Müslim, salat; Tirmİzi, salat; Nesai, ezan; İbn Mace, ezan; Ahnıed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>531</td></tr><tr><td>Arabic No</td><td>531</td></tr><tr><td>Reference</td><td>Book 2 Hadith 141</td></tr></tbody></table></div>
 

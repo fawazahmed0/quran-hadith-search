@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... ইবন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেকবার তাওয়াফের সময় হাজরে আসওয়াদ ও রুকনে ইয়ামানী চুম্বন করতেন। রাবী বলেন, আবদুল্লাহ্ ইবন উমার (রাঃ)-ও এরূপ করতেন।
+। ইবনু ‘উমার (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক তাওয়াফে রুকনে ইয়ামেনী ও হাজরে আসওয়াদে চুমু খাওয়া পরিত্যাগ করেননি। তিনি (নাফী‘) বলেন, তাই ইবনু ‘উমার (রাযি.) এরূপ করতেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1876</td></tr><tr><td>Arabic No</td><td>1876</td></tr><tr><td>Reference</td><td>Book 11 Hadith 156</td></tr></tbody></table></div>
 

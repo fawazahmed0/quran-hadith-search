@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যাকারিয়া ইবন ইয়াহইয়া (রহঃ) ... সাঈদ ইব্‌ন মুসায়্যিব (রহঃ) থেকে বর্ণিত যে, উমর (রাঃ) রবীআ ইবন উমাইয়্যাকে শরাব পান করার দরুন খায়বরে নির্বাসন দিয়েছিলেন। পরে সে রোমের বাদশাহ হিরাকলের নিকট চলে যায় এবং খৃস্টধর্ম গ্রহণ করে। তা শুনে উমর (রাঃ) বললেনঃ এরপর আমি আর কোন মুসলিমকে নির্বাসন দেব না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5676</td></tr><tr><td>Arabic No</td><td>5676</td></tr><tr><td>Reference</td><td>Book 51 Hadith 138</td></tr></tbody></table></div>
 

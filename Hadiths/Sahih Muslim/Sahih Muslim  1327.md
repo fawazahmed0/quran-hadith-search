@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ "আল্ল-হুম্মা ইন্নী আউযুবিকা মিন আযা-বিল কবরি ওয়া আযা-বিন না-রি ওয়া ফিতনাতিল মাহইয়া- ওয়াল মামা-তি ওয়া শাররিল মাসীহিদ দাজ্জা-ল" (অর্থাৎ- হে আল্লাহ! আমি তোমার কাছে কবরের ও জাহান্নামের আযাব থেকে জীবন ও মৃত্যুর ফিতনা থেকে এবং মাসীহ দাজ্জালের অনিষ্টতা থেকে আশ্রয় চাই)। (ইসলামী ফাউন্ডেশন ১২০৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1327</td></tr><tr><td>Arabic No</td><td>588.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 165</td></tr></tbody></table></div>
 

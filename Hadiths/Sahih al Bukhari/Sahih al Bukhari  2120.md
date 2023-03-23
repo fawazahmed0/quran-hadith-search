@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক সময় বাজারে ছিলেন। তখন এক ব্যক্তি বললেন, এই আবুল কাসিম! নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার দিকে তাকালে তিনি বললেন, আমি তো তাকে ডেকেছি। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তোমরা আমার নামে নাম রাখ কিন্তু আমার কুনিয়াতে কুনিয়াত রেখ না। [1] (২১২১, ৩৫৩৭, মুসলিম ৩৮/১, হাঃ ২১৩১, আহমাদ ১২১৩১) (আধুনিক প্রকাশনীঃ ১৯৭৩ , ইসলামিক ফাউন্ডেশনঃ ১৯৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক সময় বাজারে ছিলেন। তখন এক ব্যক্তি বললেন, এই আবুল কাসিম! নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার দিকে তাকালে তিনি বললেন, আমি তো তাকে ডেকেছি। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তোমরা আমার নামে নাম রাখ কিন্তু আমার কুনিয়াতে কুনিয়াত রেখ না। [1] (২১২১, ৩৫৩৭, মুসলিম ৩৮/১, হাঃ ২১৩১, আহমাদ ১২১৩১) (আধুনিক প্রকাশনীঃ ১৯৭৩ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 34 Hadith 73</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik:While the Prophet (ﷺ) was in the market, somebody, called, "O Abul-Qasim." The Prophet (ﷺ) turned to him. The man said, "I have called to this (i.e. another man)." The Prophet (ﷺ) said, "Name yourselves by my name but not by my Kunya (name)." (In Arabic world it is the custom to call the man as the father of his eldest son, e.g. Abul-Qasim.) (See Hadith No. 737, Vol. 4)
+Narrated Anas bin Malik:While the Prophet (ﷺ) was in the market, somebody, called, "O Abul-Qasim." The Prophet (ﷺ) turned to him. The man said, "I have called to this (i.e. another man)." The Prophet (ﷺ) said, "Name yourselves by my name but not by my Kunya (name)." (In Arabic world it is the custom to call the man as the father of his eldest son, e.g. Abul-Qasim.) (See Hadith No. 737, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 34 Hadith 73</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) நபி (ஸல்) அவர்கள் கடைவீதியில் இருந்தார்கள். அப்போது ஒரு மனிதர் ‘‘அபுல்காசிமே! (காஸிமின் தந்தையே!)” என்று கூறினார். நபி (ஸல்) அவர்கள் அவர் பக்கம் திரும்பினார்கள். அவர் (வேறொருவரைச் சுட்டிக்காட்டி) ‘‘நான் இவரைத்தான் அழைத்தேன். (தங்களை அழைக்கவில்லை)” என்றார். அப்போது நபி (ஸல்) அவர்கள், ‘‘எனது (முஹம்மத் எனும்) பெயரை நீங்கள் சூட்டிக்கொள்ளுங்கள். எனது (அபுல்காசிம் எனும்) குறிப்புப் பெயரைச் சூட்டிக்கொள்ளாதீர்கள்!” என்றார்கள். அத்தியாயம் : 34
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (ஒரு முறை) நபி (ஸல்) அவர்கள் கடைவீதியில் இருந்தார்கள். அப்போது ஒரு மனிதர் ‘‘அபுல்காசிமே! (காஸிமின் தந்தையே!)” என்று கூறினார். நபி (ஸல்) அவர்கள் அவர் பக்கம் திரும்பினார்கள். அவர் (வேறொருவரைச் சுட்டிக்காட்டி) ‘‘நான் இவரைத்தான் அழைத்தேன். (தங்களை அழைக்கவில்லை)” என்றார். அப்போது நபி (ஸல்) அவர்கள், ‘‘எனது (முஹம்மத் எனும்) பெயரை நீங்கள் சூட்டிக்கொள்ளுங்கள். எனது (அபுல்காசிம் எனும்) குறிப்புப் பெயரைச் சூட்டிக்கொள்ளாதீர்கள்!” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 34 Hadith 73</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem pazardaydı. Bir adam "Ey Ebu'l-Kasım!" diye seslendi. Nebi Sallallahu Aleyhi ve Sellem ona dönüp baktı. Adam: "ben şu kişiye seslenmiştim" deyince Nebi Sallallahu Aleyhi ve Sellem: "Benim adımı koyun, ancak benim künyemi vermeyin" buyurdu. Tekrar: 2121, 2537
+Enes İbn Malik r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem pazardaydı. Bir adam "Ey Ebu'l-Kasım!" diye seslendi. Nebi Sallallahu Aleyhi ve Sellem ona dönüp baktı. Adam: "ben şu kişiye seslenmiştim" deyince Nebi Sallallahu Aleyhi ve Sellem: "Benim adımı koyun, ancak benim künyemi vermeyin" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 34 Hadith 73</td></tr></tbody></table></div>
 

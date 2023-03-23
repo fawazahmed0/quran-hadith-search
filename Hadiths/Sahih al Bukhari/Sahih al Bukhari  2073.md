@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) সূত্রে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন যে, আল্লাহর নবী দাঊদ (আঃ) নিজের হাতের উপার্জন হতেই খেতেন। (৩৪১৭, ৩৭১৩) (আধুনিক প্রকাশনীঃ ১৯২৮, ইসলামিক ফাউন্ডেশনঃ ১৯৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) সূত্রে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন যে, আল্লাহর নবী দাঊদ (আঃ) নিজের হাতের উপার্জন হতেই খেতেন। (৩৪১৭, ৩৭১৩) (আধুনিক প্রকাশনীঃ ১৯২৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2073</td></tr><tr><td>Arabic No</td><td>2073</td></tr><tr><td>Reference</td><td>Book 34 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நபி தாபூத் (அலை) அவர்கள் கைத் தொழில் செய்தே உண்பவர்களாக இருந் தார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நபி தாபூத் (அலை) அவர்கள் கைத் தொழில் செய்தே உண்பவர்களாக இருந் தார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2073</td></tr><tr><td>Arabic No</td><td>2073</td></tr><tr><td>Reference</td><td>Book 34 Hadith 26</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a., Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Davud Nebi A.S. kendi el emeğinden başkasını yemezdi". Tekrar: 3417, 4713
+Ebu Hureyre r.a., Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Davud Nebi A.S. kendi el emeğinden başkasını yemezdi". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2073</td></tr><tr><td>Arabic No</td><td>2073</td></tr><tr><td>Reference</td><td>Book 34 Hadith 26</td></tr></tbody></table></div>
 

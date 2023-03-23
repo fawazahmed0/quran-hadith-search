@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তোমাদের নিকট এমন যুগ আসবে যখন তোমাদের পরিবার-পরিজনরা ধন-সম্পদের অধিকারী হবার চাইতেও আমার সাক্ষাৎ পাওয়া তার নিকট অত্যন্ত প্রিয় বলে গণ্য হবে। (মুসলিম ৪৩/২৯ হাঃ ২৩৬৪, আহমাদ ৮১৪৭) (আধুনিক প্রকাশনীঃ ৩৩২৩, ইসলামিক ফাউন্ডেশনঃ ৩৩৩১ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3587</td></tr><tr><td>Arabic No</td><td>3587</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

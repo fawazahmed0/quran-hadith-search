@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+রাফি‘ ইবনু খাদীজ (রাঃ) ‘আবদুল্লাহ ইবনু ‘উমারকে বলেছেন যে, বাদর যুদ্ধে অংশগ্রহণকারী তার দু’ চাচা তাকে জানিয়েছেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আবাদযোগ্য ভূমি ভাড়া দিতে নিষেধ করেছেন। (বর্ণনাকারী বলেন) আমি সালিমকে জিজ্ঞেস করলাম, আপনি তো এমন জমি ভাড়া দিয়ে থাকেন? তিনি বললেন, হ্যাঁ। রাফি‘ তো নিজের প্রতি বাড়াবাড়ি করেছেন। [২৩৩৯, ২৩৪৭] (আধুনিক প্রকাশনীঃ ৩৭১৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4012</td></tr><tr><td>Arabic No</td><td>4012</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

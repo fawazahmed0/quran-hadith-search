@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উমাইয়াহ যামরী (রাযি.) হতে বর্ণিত। তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে উভয় মোজার উপর মাসেহ করতে দেখেছেন। হার্ব ও আবান (রহ.) ইয়াহ্ইয়া (রহ.) হতে অনুরূপ বর্ণনা করেছেন। (২০৫ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ১৯৮, ইসলামিক ফাউন্ডেশনঃ ২০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উমাইয়াহ যামরী (রাযি.) হতে বর্ণিত। তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে উভয় মোজার উপর মাসেহ করতে দেখেছেন। হার্ব ও আবান (রহ.) ইয়াহ্ইয়া (রহ.) হতে অনুরূপ বর্ণনা করেছেন। (২০৫ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ১৯৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>204</td></tr><tr><td>Arabic No</td><td>204</td></tr><tr><td>Reference</td><td>Book 4 Hadith 70</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் உமய்யா அள்ளம்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (உளூ செய்யும் போது) தம் காலுறைகள்மீது (ஈரக் கையால்) தடவிக்கொண்டதை நான் பார்த்தேன். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 4
+அம்ர் பின் உமய்யா அள்ளம்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (உளூ செய்யும் போது) தம் காலுறைகள்மீது (ஈரக் கையால்) தடவிக்கொண்டதை நான் பார்த்தேன். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>204</td></tr><tr><td>Arabic No</td><td>204</td></tr><tr><td>Reference</td><td>Book 4 Hadith 70</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ca'fer İbn Amr İbn Ümeyye ed-Damrî babasının Nebi (Sallallahu aleyhi ve Sellem)'i mestleri üzerine meshederken gördüğünü rivayet etmiştir. Tekrar: 205
+Ca'fer İbn Amr İbn Ümeyye ed-Damrî babasının Nebi (Sallallahu aleyhi ve Sellem)'i mestleri üzerine meshederken gördüğünü rivayet etmiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>204</td></tr><tr><td>Arabic No</td><td>204</td></tr><tr><td>Reference</td><td>Book 4 Hadith 70</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন হাম্বল (রহঃ) ..... জাবির ইবন আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম বাঁধেন। এরপর ইবন উমার (রাঃ) বর্ণিত হাদীসের অনুরূপ তালবিয়ার উল্লেখ করেছেন। জাবির (রাঃ) আরো বলেন, লোকেরা তালবিয়ার মধ্যে ‘‘যাল মা‘আরিজ’’ ইত্যাদি শব্দ বলত এবং নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাতে কিছু বলতেন না।
+। জাবির ইবনু আব্দুল্লাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম বাঁধলেন। অতঃপর বর্ণনাকারী ইবনু উমার বর্ণিত হাদীসের তালবিয়ার উল্লেখ করেন। বর্ণনাকারী বলেন, লোকেরা তালবিয়াতে ‘যাল-মা‘আরিজ’ ইত্যাদি বাক্য বলতো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা শুনতেন, অথচ তিনি তাদেরকে কিছুই বলতেন না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 11 Hadith 93</td></tr></tbody></table></div>
 

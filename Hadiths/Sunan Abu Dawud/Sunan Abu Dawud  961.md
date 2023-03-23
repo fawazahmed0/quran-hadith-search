@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-কানবী (রহঃ) ..... ইয়াহইয়া ইবনে সাঈদ (রহঃ) থেকে বর্ণিত। আল-কাসিম ইবনে মুহাম্মাদ (রহঃ) তাদেরকে তাশাহুদে বসার নিয়ম দেখিয়েছেন। অতঃপর তিনি পূর্বোক্ত হাদিসের অনুরূপ বর্ণনা করেছেন।
+। ইয়াহইয়া ইবনু সাঈদ (রহঃ) সূত্রে বর্ণিত আল-কাসিম ইবনু মুহাম্মদ তাদেরকে তাশাহহুদে বসার নিয়ম দেখান ... অতঃপর হাদীসটি বর্ণনা করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>961</td></tr><tr><td>Arabic No</td><td>961</td></tr><tr><td>Reference</td><td>Book 2 Hadith 572</td></tr></tbody></table></div>
 

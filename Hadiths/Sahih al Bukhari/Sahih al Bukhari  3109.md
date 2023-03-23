@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পেয়ালা ভেঙ্গে যায়। তখন তিনি ভাঙ্গা জায়গায় রূপার পাত দিয়ে জোড়া লাগান। আসিম (রহ.) বলেন, আমি সে পেয়ালাটি দেখেছি এবং তাতে আমি পান করেছি। (৫৬৩৮) (আধুনিক প্রকাশনীঃ ২৮৭৬, ইসলামিক ফাউন্ডেশনঃ ২৮৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পেয়ালা ভেঙ্গে যায়। তখন তিনি ভাঙ্গা জায়গায় রূপার পাত দিয়ে জোড়া লাগান। আসিম (রহ.) বলেন, আমি সে পেয়ালাটি দেখেছি এবং তাতে আমি পান করেছি। (৫৬৩৮) (আধুনিক প্রকাশনীঃ ২৮৭৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3109</td></tr><tr><td>Arabic No</td><td>3109</td></tr><tr><td>Reference</td><td>Book 57 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdan] dari [Abu Hamzah] dari ['Ashim] dari [Ibnu 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் (மரத்தாலான) குவளை உடைந்துவிட்டது. (உடைந்து போய்) ஓட்டை (ஏற்பட்ட) பகுதியை நபி (ஸல்) அவர்கள் ஒரு வெள்ளிச் சங்கிலியால் அடைத்துவிட்டார்கள். அறிவிப்பாளர் ஆஸிம் (ரஹ்) அவர்கள், ‘‘நான் அந்தக் குவளையைக் கண்டேன். அதில் தண்ணீர் குடித்தேன்” என்று கூறுகிறார்கள். அத்தியாயம் : 57
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் (மரத்தாலான) குவளை உடைந்துவிட்டது. (உடைந்து போய்) ஓட்டை (ஏற்பட்ட) பகுதியை நபி (ஸல்) அவர்கள் ஒரு வெள்ளிச் சங்கிலியால் அடைத்துவிட்டார்கள். அறிவிப்பாளர் ஆஸிம் (ரஹ்) அவர்கள், ‘‘நான் அந்தக் குவளையைக் கண்டேன். அதில் தண்ணீர் குடித்தேன்” என்று கூறுகிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3109</td></tr><tr><td>Arabic No</td><td>3109</td></tr><tr><td>Reference</td><td>Book 57 Hadith 18</td></tr></tbody></table></div>
 

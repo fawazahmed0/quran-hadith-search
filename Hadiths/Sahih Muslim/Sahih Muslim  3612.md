@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৫০৪, আন্তর্জাতিক নাম্বারঃ ১৪৫৬ ৩৫০৪-(.../...) ইয়াহইয়া ইবনু হাবীব (রহঃ) ..... কাতাদাহ্ (রহঃ) থেকে উক্ত সানাদে অনুরূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৪৭৭, ইসলামীক সেন্টার ৩৪৭৬)
+ইয়াহইয়া ইবনু হাবীব (রহঃ) ..... কাতাদাহ্ (রহঃ) থেকে উক্ত সানাদে অনুরূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৪৭৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3612</td></tr><tr><td>Arabic No</td><td>1456.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 45</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮৮৭। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, পানীয় দ্রব্যের মধ্যে ফুঁ দিতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন। একজন বলল, পানির পাত্রে ময়লা দেখতে পেলে? তিনি বলেনঃ তা ঢেলে ফেলে দাও। লোকটি বলল, আমি এক নিঃশ্বাসে তৃপ্ত হতে পারি না। তিনি বললেনঃ পাত্রটিকে নিঃশ্বাসের সময় তোমার মুখ হতে সরিয়ে রাখ। হাসান, সহীহাহ (৩৮৫) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত আছে, পানীয় দ্রব্যের মধ্যে ফুঁ দিতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন। একজন বলল, পানির পাত্রে ময়লা দেখতে পেলে? তিনি বলেনঃ তা ঢেলে ফেলে দাও। লোকটি বলল, আমি এক নিঃশ্বাসে তৃপ্ত হতে পারি না। তিনি বললেনঃ পাত্রটিকে নিঃশ্বাসের সময় তোমার মুখ হতে সরিয়ে রাখ। হাসান, সহীহাহ (৩৮৫) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1887</td></tr><tr><td>Arabic No</td><td>1887</td></tr><tr><td>Reference</td><td>Book 26 Hadith 28</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা্ বিজয়ের বছর কাদা-র পথে (মক্কা্য়) প্রবেশ করেন এবং বের হন কুদা-র পথে যা মক্কার উঁচু স্থানে অবস্থিত। (১৫৭৭) (আধুনিক প্রকাশনীঃ ১৪৭৪, ইসলামিক ফাউন্ডেশনঃ ১৪৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা্ বিজয়ের বছর কাদা-র পথে (মক্কা্য়) প্রবেশ করেন এবং বের হন কুদা-র পথে যা মক্কার উঁচু স্থানে অবস্থিত। (১৫৭৭) (আধুনিক প্রকাশনীঃ ১৪৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1578</td></tr><tr><td>Arabic No</td><td>1578</td></tr><tr><td>Reference</td><td>Book 25 Hadith 64</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mahmud bin Ghoylan Al Marwaziy] telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: மக்கா வெற்றியின்போது நபி (ஸல்) அவர்கள் ‘கதாஉ’ (எனும் கணவாய்) வழியாக மக்காவில் நுழைந்து மக்காவின் மேற்பகுதியிலுள்ள ‘குதா’ (எனும் கணவாய்) வழியாக வெளியேறினார்கள். அத்தியாயம் : 25
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: மக்கா வெற்றியின்போது நபி (ஸல்) அவர்கள் ‘கதாஉ’ (எனும் கணவாய்) வழியாக மக்காவில் நுழைந்து மக்காவின் மேற்பகுதியிலுள்ள ‘குதா’ (எனும் கணவாய்) வழியாக வெளியேறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1578</td></tr><tr><td>Arabic No</td><td>1578</td></tr><tr><td>Reference</td><td>Book 25 Hadith 64</td></tr></tbody></table></div>
 

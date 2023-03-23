@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, কোন এক আনসারীর জন্য এক মহিলাকে বিয়ের কনে হিসাবে সাজালে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, হে ‘আয়িশাহ! এতে আনন্দ ফূর্তির ব্যবস্থা করনি? আনসারগণ এ সব আনন্দ-ফূর্তি পছন্দ করে। (আধুনিক প্রকাশনী- ৪৭৮২, ইসলামিক ফাউন্ডেশন- ৪৭৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, কোন এক আনসারীর জন্য এক মহিলাকে বিয়ের কনে হিসাবে সাজালে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, হে ‘আয়িশাহ! এতে আনন্দ ফূর্তির ব্যবস্থা করনি? আনসারগণ এ সব আনন্দ-ফূর্তি পছন্দ করে। (আধুনিক প্রকাশনী- ৪৭৮২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5162</td></tr><tr><td>Arabic No</td><td>5162</td></tr><tr><td>Reference</td><td>Book 67 Hadith 97</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Fadllu bin Ya'qub] Telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் ஒரு பெண்ணை அன்சாரிகளில் ஒருவ(ருக்கு மணமுடித்து வைத்து அவளை அவ)ரிடம் அனுப்பிவைத்தேன். அப்போது நபி (ஸல்) அவர்கள், ‘‘ஆயிஷாவே! உங்களுடன் பாடல் (பாடும் சிறுமியர்) இல்லையா? ஏனெனில், அன்சாரிகளுக்குப் பாடலென்றால் மிகவும் பிடிக்குமே!” என்றார்கள்.102 அத்தியாயம் : 67
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் ஒரு பெண்ணை அன்சாரிகளில் ஒருவ(ருக்கு மணமுடித்து வைத்து அவளை அவ)ரிடம் அனுப்பிவைத்தேன். அப்போது நபி (ஸல்) அவர்கள், ‘‘ஆயிஷாவே! உங்களுடன் பாடல் (பாடும் சிறுமியர்) இல்லையா? ஏனெனில், அன்சாரிகளுக்குப் பாடலென்றால் மிகவும் பிடிக்குமே!” என்றார்கள்.102 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5162</td></tr><tr><td>Arabic No</td><td>5162</td></tr><tr><td>Reference</td><td>Book 67 Hadith 97</td></tr></tbody></table></div>
 

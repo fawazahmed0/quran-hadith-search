@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি ও ইয়াতীমের দেখাশুনাকারী জান্নাতে এভাবে (একত্রে) থাকব। এ কথা বলার সময় তিনি তর্জনী ও মধ্যমা আঙ্গুলদ্বয় মিলিয়ে ইঙ্গিত করে দেখালেন। ([৫৩০৪] আধুনিক প্রকাশনী- ৫৫৭০, ইসলামিক ফাউন্ডেশন- ৫৪৬৬
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি ও ইয়াতীমের দেখাশুনাকারী জান্নাতে এভাবে (একত্রে) থাকব। এ কথা বলার সময় তিনি তর্জনী ও মধ্যমা আঙ্গুলদ্বয় মিলিয়ে ইঙ্গিত করে দেখালেন। ([৫৩০৪] আধুনিক প্রকাশনী- ৫৫৭০, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6005</td></tr><tr><td>Arabic No</td><td>6005</td></tr><tr><td>Reference</td><td>Book 78 Hadith 36</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Abdul Wahab] dia berkata; telah men
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: ‘நானும் அநாதையின் காப்பாளரும் சொர்க்கத்தில் இப்படி இருப்போம்’ என்று கூறியவாறு நபி (ஸல்) அவர்கள் தம் சுட்டுவிரலாலும் நடுவிரலாலும் (சற்றே இடைவெளி விட்டு) சைகை செய்தார்கள்.29 அத்தியாயம் : 78
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: ‘நானும் அநாதையின் காப்பாளரும் சொர்க்கத்தில் இப்படி இருப்போம்’ என்று கூறியவாறு நபி (ஸல்) அவர்கள் தம் சுட்டுவிரலாலும் நடுவிரலாலும் (சற்றே இடைவெளி விட்டு) சைகை செய்தார்கள்.29 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6005</td></tr><tr><td>Arabic No</td><td>6005</td></tr><tr><td>Reference</td><td>Book 78 Hadith 36</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-এ মর্মে আল্লাহ্ তা’আলার বাণীঃ ‘‘নিশ্চয় আমি আপনার প্রতি সেরূপ ওয়াহী প্রেরণ করেছি যেরূপ নূহ ও তাঁর পরবর্তী নবীদের (নবীদের) প্রতি ওয়াহী প্রেরণ করেছিলাম।’’ (সূরাহ্ আন-নিসা ৪/১৬৩) ১. ‘আলক্বামাহ ইবনু ওয়াক্কাস আল-লায়সী (রহ.) হতে বর্ণিত। আমি ‘উমার ইবনুল খাত্তাব (রাঃ)-কে মিম্বারের উপর দাঁড়িয়ে বলতে শুনেছিঃ আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ কাজ (এর প্রাপ্য হবে) নিয়্যাত অনুযায়ী। আর মানুষ তার নিয়্যাত অনুযায়ী প্রতিফল পাবে। তাই যার হিজরাত হবে ইহকাল লাভের অথবা কোন মহিলাকে বিবাহ করার উদ্দেশে- তবে তার হিজরাত সে উদ্দেশেই হবে, যে জন্যে, সে হিজরাত করেছে।] (৫৪, ২৫২৯, ৩৮৯৮, ৫০৭০, ৬৬৮৯, ৬৯৫৩; মুসলিম ২৩/৪৫ হাঃ ১৯০৭, আহমাদ ১৬৮) ( আধুনিক প্রকাশনী- ১, ইসলামিক ফাউন্ডেশন ১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَوْلُ اللهِ جَلَّ ذِكْرُهُ (إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَى نُوحٍ وَالنَّبِيِّينَ مِنْ بَعْدِ­­هِ) এ মর্মে আল্লাহ্ তা’আলার বাণীঃ ‘‘নিশ্চয় আমি আপনার প্রতি সেরূপ ওয়াহী প্রেরণ করেছি যেরূপ নূহ ও তাঁর পরবর্তী নবীদের (নবীদের) প্রতি ওয়াহী প্রেরণ করেছিলাম।’’ (সূরাহ্ আন-নিসা ৪/১৬৩) ১. ‘আলক্বামাহ ইবনু ওয়াক্কাস আল-লায়সী (রহ.) হতে বর্ণিত। আমি ‘উমার ইবনুল খাত্তাব (রাঃ)-কে মিম্বারের উপর দাঁড়িয়ে বলতে শুনেছিঃ আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ কাজ (এর প্রাপ্য হবে) নিয়্যাত অনুযায়ী। আর মানুষ তার নিয়্যাত অনুযায়ী প্রতিফল পাবে। তাই যার হিজরাত হবে ইহকাল লাভের অথবা কোন মহিলাকে বিবাহ করার উদ্দেশে- তবে তার হিজরাত সে উদ্দেশেই হবে, যে জন্যে, সে হিজরাত করেছে।] (৫৪, ২৫২৯, ৩৮৯৮, ৫০৭০, ৬৬৮৯, ৬৯৫৩; মুসলিম ২৩/৪৫ হাঃ ১৯০৭, আহমাদ ১৬৮) ( আধুনিক প্রকাশনী- ১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1</td></tr><tr><td>Arabic No</td><td>1</td></tr><tr><td>Reference</td><td>Book 1 Hadith 1</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Humaidi Abdullah bin Az Zubair] dia berkata, 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எண்ணத்தைப் பொறுத்தே செயல் கள் அமைகின்றன. ஒவ்வொரு மனித ருக்கும் அவர் எண்ணியதுதான் கிடைக் கிறது. ஆகவே, எவரது ‘ஹிஜ்ரத்’ (புலம் பெயர்தல்) அவர் அடைய விரும்பும் உலக (ஆதாய)த்தை, அல்லது அவர் மணக்க விரும்பும் பெண்ணை நோக்கமாகக் கொண்டுள்ளதோ, அவரது ஹிஜ்ரத்(தின் பலனும்) அதுவாகவே இருக்கும்.4 இதை உமர் பின் அல்கத்தாப் (ரலி) அவர்கள் சொற்பொழிவு மேடை (மிம்பர்) மீதிருந்தவாறு அறிவித்தார்கள். அத்தியாயம் : 1
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எண்ணத்தைப் பொறுத்தே செயல் கள் அமைகின்றன. ஒவ்வொரு மனித ருக்கும் அவர் எண்ணியதுதான் கிடைக் கிறது. ஆகவே, எவரது ‘ஹிஜ்ரத்’ (புலம் பெயர்தல்) அவர் அடைய விரும்பும் உலக (ஆதாய)த்தை, அல்லது அவர் மணக்க விரும்பும் பெண்ணை நோக்கமாகக் கொண்டுள்ளதோ, அவரது ஹிஜ்ரத்(தின் பலனும்) அதுவாகவே இருக்கும்.4 இதை உமர் பின் அல்கத்தாப் (ரலி) அவர்கள் சொற்பொழிவு மேடை (மிம்பர்) மீதிருந்தவாறு அறிவித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1</td></tr><tr><td>Arabic No</td><td>1</td></tr><tr><td>Reference</td><td>Book 1 Hadith 1</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Humaidi Abdullah bin Az Zubair] dia berkata, 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Alkame b. Vakkâs el-Leysî'den: O şöyle demiştir: Ömer İbnu'l-Hattâb'ın minberde şöyle dediğini duydum: Allah Resulü (Sallallahu Aleyhi ve Sellem)’in şunları söylediğini duydum: "Ameller niyetlere göredir ve herkes için niyet ettiğinin karşılığı vardır. Kimin hicreti elde edeceği dünyalığa veya evleneceği bir kadına ise hicreti, hicret ettiği şeyedir. Tekrar: 54, 2529, 3898, 5070, 6689, 6953. Diğer Tahric:: Müslim, imare; Ebu Davud Talak; Tirmizî, cihad; Nesâî, tahare, talak, eymân; İbn Mace, zühd; Ahmed b. Hanbel, I, 25, 43
+Alkame b. Vakkâs el-Leysî'den: O şöyle demiştir: Ömer İbnu'l-Hattâb'ın minberde şöyle dediğini duydum: Allah Resulü (Sallallahu Aleyhi ve Sellem)’in şunları söylediğini duydum: "Ameller niyetlere göredir ve herkes için niyet ettiğinin karşılığı vardır. Kimin hicreti elde edeceği dünyalığa veya evleneceği bir kadına ise hicreti, hicret ettiği şeyedir. Tekrar: 54, 2529, 3898, 5070, 6689, 6953. Diğer Tahric:: Müslim, imare; Ebu Davud Talak; Tirmizî, cihad; Nesâî, tahare, talak, eymân; İbn Mace, zühd; Ahmed b. Hanbel, I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1</td></tr><tr><td>Arabic No</td><td>1</td></tr><tr><td>Reference</td><td>Book 1 Hadith 1</td></tr></tbody></table></div>
 

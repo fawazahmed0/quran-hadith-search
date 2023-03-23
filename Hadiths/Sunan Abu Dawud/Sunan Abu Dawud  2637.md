@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন উবায়দ ...... কা‘ব ইবন মালিক (রাঃ) হতে তাঁর পুত্র আবদুর রহমান বর্ণনা করেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোনো দিকে যুদ্ধে যাওয়ার ইচ্ছা পোষণ করলে তা অপরের নিকট গোপন রাখতেন আর বলতেন, যুদ্ধ একটি কৌশল মাত্র।
+। কা‘ব ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোনো দিকে যুদ্ধে যাওয়ার প্রস্তুতি নিলে তা অন্যদের থেকে গোপন রাখতেন। তিনি বলতেনঃ যুদ্ধ একটি ধোঁকা বা কৌশল মাত্র।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2637</td></tr><tr><td>Arabic No</td><td>2637</td></tr><tr><td>Reference</td><td>Book 15 Hadith 161</td></tr></tbody></table></div>
 

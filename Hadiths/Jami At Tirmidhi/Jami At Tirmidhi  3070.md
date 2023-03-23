@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০৭০। আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ যে সহীফার (ক্ষুদ্র পুস্তিকা) উপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের মোহরাংকিত রয়েছে তার দেখা যাকে আনন্দ দেয় সে যেন এ আয়াতগুলো পাঠ করেঃ “বল! এসো, পড়ে শুনাই তোমাদের জন্য রব যা হারাম করেছেন তা। এভাবে আল্লাহ তা'আলা তোমাদেরকে নির্দেশ দিলেন যেন তোমরা সর্তক হও" (সূরা আল-আনআম- ১৫১-১৫৩)। সনদ দুর্বল আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব।
+। আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ যে সহীফার (ক্ষুদ্র পুস্তিকা) উপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের মোহরাংকিত রয়েছে তার দেখা যাকে আনন্দ দেয় সে যেন এ আয়াতগুলো পাঠ করেঃ “বল! এসো, পড়ে শুনাই তোমাদের জন্য রব যা হারাম করেছেন তা। এভাবে আল্লাহ তা'আলা তোমাদেরকে নির্দেশ দিলেন যেন তোমরা সর্তক হও" (সূরা আল-আনআম- ১৫১-১৫৩)। সনদ দুর্বল আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 47 Hadith 122</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin Mas'ud:"Whoever wishes to look at the Sahifah which Muhammad (ﷺ) placed his seal upon, then let him look at these Ayat, 'Say: Come, I will recite what your Lord has prohibited you from... up to His saying "That you may have Taqwa (6:151-153)
+Narrated 'Abdullah bin Mas'ud:"Whoever wishes to look at the Sahifah which Muhammad (ﷺ) placed his seal upon, then let him look at these Ayat, 'Say: Come, I will recite what your Lord has prohibited you from... up to His saying "That you may have Taqwa (6:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 47 Hadith 122</td></tr></tbody></table></div>
 

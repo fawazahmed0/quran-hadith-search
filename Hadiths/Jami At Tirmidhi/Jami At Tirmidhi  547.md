@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৪৭। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম মক্কার উদ্দেশ্যে মদীনা হতে বের হলেন। এ সময় সারা বিশ্বের প্রতিপালক ছাড়া আর কারো ভয় তার ছিল না। তিনি (চার রাকাআত ফরযের স্থলে) দুই রাকাআত আদায় করেছেন। —সহীহ। ইরওয়া- (৩/৬)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম মক্কার উদ্দেশ্যে মাদীনা হতে বের হলেন। এ সময় সারা বিশ্বের প্রতিপালক ছাড়া আর কারো ভয় তার ছিল না। তিনি (চার রাকাআত ফরযের স্থলে) দুই রাকাআত আদায় করেছেন। —সহীহ। ইরওয়া- (৩/৬)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 6 Hadith 4</td></tr></tbody></table></div>
 

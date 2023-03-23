@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তিনি বললেন, তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) প্রথম বার আমাকে বলেছিলেন, জিবরীল (আঃ) প্রতি বছর একবার আমার সঙ্গে কুরআন পাঠ করতেন, এ বছর দু’বার পড়ে শুনিয়েছেন। আমার মনে হয় আমার বিদায় বেলা উপস্থিত এবং অতঃপর আমার পরিবারের মধ্যে তুমিই সর্বপ্রথম আমার সঙ্গে মিলিত হবে। তা শুনে আমি কেঁদে দিলাম। অতঃপর বলেছিলেন, তুমি কি এতে সন্তুষ্ট নও যে, জান্নাতবাসী নারীদের অথবা মু’মিন নারীদের তুমি সরদার হবে। এ কথা শুনে আমি হেসেছিলাম। (আধুনিক প্রকাশনীঃ ৩৩৫৪, ইসলামিক ফাউন্ডেশনঃ ৩৩৬১ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3623</td></tr><tr><td>Arabic No</td><td>3623</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

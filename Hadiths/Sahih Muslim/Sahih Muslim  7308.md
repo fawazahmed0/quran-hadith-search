@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২০০, আন্তর্জাতিক নাম্বারঃ ২৯১০ ৭২০০-(৬০/২৯১০) কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কিয়ামত সংঘটিত হবে না যতক্ষণ না কাহতান গোত্র হতে এক লোকের আগমন ঘটবে, যে লোকেদেরকে লাঠি দিয়ে তাড়িয়ে নিয়ে যাবে। (ইসলামিক ফাউন্ডেশন ৭০৪৪, ইসলামিক সেন্টার ৭১০০)
+কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কিয়ামত সংঘটিত হবে না যতক্ষণ না কাহতান গোত্র হতে এক লোকের আগমন ঘটবে, যে লোকেদেরকে লাঠি দিয়ে তাড়িয়ে নিয়ে যাবে। (ইসলামিক ফাউন্ডেশন ৭০৪৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7308</td></tr><tr><td>Arabic No</td><td>2910</td></tr><tr><td>Reference</td><td>Book 54 Hadith 74</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Abu Huraira reported Allah's Messengar (ﷺ) as saying:The Last Hour would not c
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: "கஹ்தான்" குலத்திலிருந்து ஒரு மனிதர் தோன்றி, தமது கைத்தடியால் மக்களை வழி நடத்தாத வரை யுக முடிவு நாள் வராது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 52
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: "கஹ்தான்" குலத்திலிருந்து ஒரு மனிதர் தோன்றி, தமது கைத்தடியால் மக்களை வழி நடத்தாத வரை யுக முடிவு நாள் வராது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7308</td></tr><tr><td>Arabic No</td><td>2910</td></tr><tr><td>Reference</td><td>Book 54 Hadith 74</td></tr></tbody></table></div>
 

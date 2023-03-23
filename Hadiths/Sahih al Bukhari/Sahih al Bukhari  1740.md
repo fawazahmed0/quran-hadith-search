@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেছেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে ‘আরাফাত ময়দানে খুত্বা দিতে শুনেছি। (১৮৪১, ১৮৪৩, ৫৮০৪, ৫৮৫৩) (আধুনিক প্রকাশনীঃ ১৬২০. ইসলামিক ফাউন্ডেশনঃ ১৬২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেছেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে ‘আরাফাত ময়দানে খুত্বা দিতে শুনেছি। (১৮৪১, ১৮৪৩, ৫৮০৪, ৫৮৫৩) (আধুনিক প্রকাশনীঃ ১৬২০. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1740</td></tr><tr><td>Arabic No</td><td>1740</td></tr><tr><td>Reference</td><td>Book 25 Hadith 218</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. Hz. Nebi'i Arafatta hutbe okurken işittiğini söylemiştir. Hadisin geçtiği diğer yerler: 1812, 1841, 1843, 5804, 5853
+İbn Abbas r.a. Hz. Nebi'i Arafatta hutbe okurken işittiğini söylemiştir. Hadisin geçtiği diğer yerler:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1740</td></tr><tr><td>Arabic No</td><td>1740</td></tr><tr><td>Reference</td><td>Book 25 Hadith 218</td></tr></tbody></table></div>
 

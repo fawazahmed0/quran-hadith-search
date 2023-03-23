@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২১৩, আন্তর্জাতিক নাম্বারঃ ১০০২ ২২১৩-(.../...) মুহাম্মাদ ইবনু বাশশার, আবূ বকর ইবনু নাফি ও আবূ কুরায়ব (রহঃ) ..... শুবাহ্ (রহঃ) থেকে এ সূত্রে উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২১৯২, ইসলামীক সেন্টার ২১৯৪)
+মুহাম্মাদ ইবনু বাশশার, আবূ বকর ইবনু নাফি ও আবূ কুরায়ব (রহঃ) ..... শুবাহ্ (রহঃ) থেকে এ সূত্রে উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২১৯২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>1002.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 60</td></tr></tbody></table></div>
 

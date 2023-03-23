@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনী নাযীরের খেজুর বাগান জ্বালিয়ে দিয়েছিলেন। (২৩২৬) (আধুনিক প্রকাশনীঃ ২৭৯৯, ইসলামিক ফাউন্ডেশনঃ ২৮০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনী নাযীরের খেজুর বাগান জ্বালিয়ে দিয়েছিলেন। (২৩২৬) (আধুনিক প্রকাশনীঃ ২৭৯৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 56 Hadith 230</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பனூ நளீர் குலத்தாரின் பேரீச்ச மரங்களைத் தீயிட்டுக் கொளுத்தினார்கள்.134 அத்தியாயம் : 56
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பனூ நளீர் குலத்தாரின் பேரீச்ச மரங்களைத் தீயிட்டுக் கொளுத்தினார்கள்.134 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 56 Hadith 230</td></tr></tbody></table></div>
 

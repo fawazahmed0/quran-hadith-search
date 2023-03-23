@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইব্‌ন আলী (রহঃ) .... আব্দুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম-এর নিকট এটা পছন্দনীয় ছিল যে, তিনি তিন বার দুআ পাঠ করতেন এবং তিন বার ইস্তেগফার পাঠ করতেন। (নাসাঈ)।
+। ‘আবদুল্লাহ ইবনু মাসউদ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তিনবার দু‘আ পাঠ করা এবং তিনবার ক্ষমা চাওয়া পছন্দ করতেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1524</td></tr><tr><td>Arabic No</td><td>1524</td></tr><tr><td>Reference</td><td>Book 8 Hadith 109</td></tr></tbody></table></div>
 

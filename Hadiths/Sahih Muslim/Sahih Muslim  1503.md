@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩৮৯, আন্তর্জাতিক নাম্বারঃ ৬৬০ ১৩৮৯-(.../...) মুহাম্মাদ ইবনুল মুসান্না, যুহায়র ইবনু হারব (রহঃ) ..... শু'বাহ (রহঃ) থেকে একই সানাদে হাদীসটি বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৩৭৫, ইসলামীক সেন্টার ১৩৮৮)
+মুহাম্মাদ ইবনুল মুসান্না, যুহায়র ইবনু হারব (রহঃ) ..... শু'বাহ (রহঃ) থেকে একই সানাদে হাদীসটি বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৩৭৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1503</td></tr><tr><td>Arabic No</td><td>660.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 336</td></tr></tbody></table></div>
 

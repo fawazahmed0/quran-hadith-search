@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন যে, নিশ্চয় বান্দা পরিণাম চিন্তা ব্যতিরেকেই এমন কথা বলে যে কথার কারণে সে ঢুকে যাবে জাহান্নামের এমন গভীরে যার দূরত্ব পূর্ব (পশ্চিম) এর দূরত্বের চেয়েও বেশি।[1] [৬৪৭৮; মুসলিম ৫৩/৬, হাঃ ২৯৮৮] (আধুনিক প্রকাশনী- ৬০২৭, ইসলামিক ফাউন্ডেশন- ৬০৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন যে, নিশ্চয় বান্দা পরিণাম চিন্তা ব্যতিরেকেই এমন কথা বলে যে কথার কারণে সে ঢুকে যাবে জাহান্নামের এমন গভীরে যার দূরত্ব পূর্ব (পশ্চিম) এর দূরত্বের চেয়েও বেশি।[1] [৬৪৭৮; মুসলিম ৫৩/৬, হাঃ ২৯৮৮] (আধুনিক প্রকাশনী- ৬০২৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6477</td></tr><tr><td>Arabic No</td><td>6477</td></tr><tr><td>Reference</td><td>Book 81 Hadith 66</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ibrahim bin Hamzah] telah menceritakan kepadaku [Ib
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஓர் அடியார் பின்விளைவைப் பற்றி யோசிக்காமல் ஒன்றைப் பேசிவிடுகிறார். அதன் காரணமாக அவர் (இரு) கிழக்குத் திசைகளுக்கிடையே உள்ள தொலை வைவிட அதிகமான தூரத்தில் நரகத்தில் விழுகிறார்.65 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 81
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஓர் அடியார் பின்விளைவைப் பற்றி யோசிக்காமல் ஒன்றைப் பேசிவிடுகிறார். அதன் காரணமாக அவர் (இரு) கிழக்குத் திசைகளுக்கிடையே உள்ள தொலை வைவிட அதிகமான தூரத்தில் நரகத்தில் விழுகிறார்.65 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6477</td></tr><tr><td>Arabic No</td><td>6477</td></tr><tr><td>Reference</td><td>Book 81 Hadith 66</td></tr></tbody></table></div>
 

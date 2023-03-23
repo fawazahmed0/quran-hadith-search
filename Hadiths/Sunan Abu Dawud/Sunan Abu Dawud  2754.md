@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ (রহঃ) ..... ‘আসিম ইবন কুলাইব (রহঃ) পূর্বোক্ত হাদীছের সনদ ও অর্থের অনুরূপ হাদীছ বর্ণনা করেছেন।
+। উল্লেখিত হাদীস ‘আসিম ইবনু কুলাইব (রাঃ) থেকে একই সনদে একই অর্থে বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2754</td></tr><tr><td>Arabic No</td><td>2754</td></tr><tr><td>Reference</td><td>Book 15 Hadith 278</td></tr></tbody></table></div>
 

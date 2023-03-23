@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫২২৯, আন্তর্জাতিক নাম্বারঃ ২০৪৫ ৫২২৯-(…/...) উবাইদুল্লাহ ইবনু মুআয মুহাম্মাদ ইবনু বাশশার শুবাহ্ (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীসটি বর্ণনা করেছেন। তবে তাদের হাদীসে (অনুমতি সম্পর্কে) শুবাহ (রহঃ) এর কথা এবং জাবালাহ্ (রহঃ) এর এ কথা নেই যে, তখন মানুষ অনাহারে পতিত হয়েছিল। (ইসলামিক ফাউন্ডেশন ৫১৬১, ইসলামিক সেন্টার ৫১৭৩)
+(…/...) উবাইদুল্লাহ ইবনু মুআয মুহাম্মাদ ইবনু বাশশার শুবাহ্ (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীসটি বর্ণনা করেছেন। তবে তাদের হাদীসে (অনুমতি সম্পর্কে) শুবাহ (রহঃ) এর কথা এবং জাবালাহ্ (রহঃ) এর এ কথা নেই যে, তখন মানুষ অনাহারে পতিত হয়েছিল। (ইসলামিক ফাউন্ডেশন ৫১৬১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5334</td></tr><tr><td>Arabic No</td><td>2045.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 208</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith has been reported on the authority of Shu'ba with the same chain of 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் குத்துக் காலிட்டு அமர்ந்து பேரீச்சம் பழத்தை உண்பதை நான் கண்டேன். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 36
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் குத்துக் காலிட்டு அமர்ந்து பேரீச்சம் பழத்தை உண்பதை நான் கண்டேன். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5334</td></tr><tr><td>Arabic No</td><td>2045.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 208</td></tr></tbody></table></div>
 

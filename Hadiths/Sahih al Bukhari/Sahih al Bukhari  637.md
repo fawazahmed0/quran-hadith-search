@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ক্বাতাদাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাতের ইক্বামাত(ইকামত/একামত) হলে আমাকে না দেখা পর্যন্ত তোমরা দাঁড়াবে না। (৬৩৮, ৯০৯; মুসলিম ৫/২৯, হাঃ ৬০৪, আহমাদ ২২৭১২) (আধুনিক প্রকাশনীঃ ৬০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>637</td></tr><tr><td>Arabic No</td><td>637</td></tr><tr><td>Reference</td><td>Book 10 Hadith 34</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொழுகைக்காக ‘இகாமத்’ சொல்லப் பட்டால், என்னை நீங்கள் பார்க்காத வரை எழுந்திருக்க வேண்டாம்.12 “இதை அபூகத்தாதா (ரலி) அவர்களிடமிருந்து அப்துல்லாஹ் பின் அபீகத்தாதா (ரஹ்) அவர்கள் அறிவித்ததாக யஹ்யா பின் அபீகஸீர் (ரஹ்) அவர்கள் எனக்கு எழுதிய கடிதத்தில் குறிப்பிட்டிருந்தார்கள்” என ஹிஷாம் அத்துஸ்துவாயி (ரஹ்) அவர்கள் கூறினார்கள். அத்தியாயம் : 10
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொழுகைக்காக ‘இகாமத்’ சொல்லப் பட்டால், என்னை நீங்கள் பார்க்காத வரை எழுந்திருக்க வேண்டாம்.12 “இதை அபூகத்தாதா (ரலி) அவர்களிடமிருந்து அப்துல்லாஹ் பின் அபீகத்தாதா (ரஹ்) அவர்கள் அறிவித்ததாக யஹ்யா பின் அபீகஸீர் (ரஹ்) அவர்கள் எனக்கு எழுதிய கடிதத்தில் குறிப்பிட்டிருந்தார்கள்” என ஹிஷாம் அத்துஸ்துவாயி (ரஹ்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>637</td></tr><tr><td>Arabic No</td><td>637</td></tr><tr><td>Reference</td><td>Book 10 Hadith 34</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ebî Katade babası kanalıyla Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: 'Kamet getirildiği zaman hemen ayağa kalkmayın, benim ayağa kalktığımı görünce kalkınız. Tekrar: 638, 909
+Abdullah İbn Ebî Katade babası kanalıyla Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: 'Kamet getirildiği zaman hemen ayağa kalkmayın, benim ayağa kalktığımı görünce kalkınız. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>637</td></tr><tr><td>Arabic No</td><td>637</td></tr><tr><td>Reference</td><td>Book 10 Hadith 34</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাসীর (রহঃ) ..... নাজিয়া আল আসলামী (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সাথে কুরবানীর পশু প্রেরণ করেন এবং বলেন, যদি এগুলোর মধ্যে কোনটি অচল হয়ে পড়ে তবে তা যবেহ করবে। এরপর এর গলায় পরিহিতা জুতা রক্তে রঞ্জিত করবে, এরপর তা মানুষের খাওয়ার জন্য রেখে যাবে।
+। নাজিয়াতুল আসলামী (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে তার কুরবানীর পশুর সাথে (মক্কা থেকে) প্রেরণের সময় বলেছেনঃ এগুলোর কোনোটি অচল হয়ে পড়লে তা যাবাহ করে সেটির গলায় বাঁধানো জুতা রক্তের মধ্যে ফেলে দিবে এবং মুসাফিরদের আহারের জন্য রেখে দিবে।[1] সহীহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1762</td></tr><tr><td>Arabic No</td><td>1762</td></tr><tr><td>Reference</td><td>Book 11 Hadith 42</td></tr></tbody></table></div>
 

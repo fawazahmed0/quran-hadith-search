@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৫৯ আবূ সা‘ঈদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, সালাত ঠান্ডা হলে, পরে আদায় করবে। কেননা গরমের ভীষণতা জাহান্নামের উত্তাপ হতে হয়।’ (৫৩৮) (আধুনিক প্রকাশনীঃ ৩০১৮, ইসলামিক ফাউন্ডেশনঃ ৩০২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, সালাত ঠান্ডা হলে, পরে আদায় করবে। কেননা গরমের ভীষণতা জাহান্নামের উত্তাপ হতে হয়।’ (৫৩৮) (আধুনিক প্রকাশনীঃ ৩০১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3259</td></tr><tr><td>Arabic No</td><td>3259</td></tr><tr><td>Reference</td><td>Book 59 Hadith 69</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: தொழுகையை வெப்பம் தணிந்தபின் தொழுங்கள். ஏனெனில், கடுமையான வெப்பம், நரக நெருப்பின் பெருமூச்சால் உண்டாகிறது.64 இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+நபி (ஸல்) அவர்கள் கூறினார்கள்: தொழுகையை வெப்பம் தணிந்தபின் தொழுங்கள். ஏனெனில், கடுமையான வெப்பம், நரக நெருப்பின் பெருமூச்சால் உண்டாகிறது.64 இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3259</td></tr><tr><td>Arabic No</td><td>3259</td></tr><tr><td>Reference</td><td>Book 59 Hadith 69</td></tr></tbody></table></div>
 

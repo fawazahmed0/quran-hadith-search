@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ২৬. আবদুল্লাহ ইবন উমর (রাঃ) বলেনঃ উল্লেখিত তিনটি কথা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হইতে শুনিয়াছি। আর আমাকে সংবাদ দেওয়া হইয়াছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেনঃ ইয়ামনবাসী ইয়ালামলাম হইতে ইহরাম বাঁধিবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>729</td></tr><tr><td>Arabic No</td><td>729</td></tr><tr><td>Reference</td><td>Book 20 Hadith 25</td></tr></tbody></table></div>
 

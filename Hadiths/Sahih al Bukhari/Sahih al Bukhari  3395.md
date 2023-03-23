@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিরাজের রাতের কথাও উল্লেখ করেছেন এবং বলেছেন মূসা (আঃ) বাদামী রং বিশিষ্ট দীর্ঘদেহী ছিলেন। যেন তিনি শানু‘আহ গোত্রের লোকদের মত। তিনি আরো বলেছেন যে, ‘ঈসা (আঃ) ছিলেন মধ্যমদেহী, কোঁকড়ানো চুলওয়ালা ব্যক্তি। আর তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ) জাহান্নামের দারোগা মালিক এবং দাজ্জালের কথাও উল্লেখ করেছেন। (৩২৩৯) (আধুনিক প্রকাশনীঃ ৩১৪৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3395</td></tr><tr><td>Arabic No</td><td>3395</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

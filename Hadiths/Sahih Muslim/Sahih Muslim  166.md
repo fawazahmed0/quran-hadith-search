@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭০, আন্তর্জাতিক নাম্বারঃ ৪৩ ৭০-(৬৮/...) মুহাম্মাদ ইবনু আল মুসান্না ও ইবনু বাশ্শার (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, তিনটি গুণ যার মধ্যে বিদ্যমান সে ঈমানের প্রকৃত স্বাদ পায়। (১) যে কেবলমাত্র আল্লাহর সন্তুষ্টি লাভের উদ্দেশে কাউকে ভালবাসে, (২) যার কাছে আল্লাহ ও তার রাসূল অন্য সব কিছু থেকে অধিক প্রিয় (৩) এবং যাকে আল্লাহ কুফুর থেকে মুক্তি দিয়েছেন; তারপর সে কুফরের দিকে ফিরে যাওয়ার তুলনায় আগুনে নিক্ষিপ্ত হওয়াকে অধিক পছন্দ করে। (ইসলামিক ফাউন্ডেশনঃ ৭২, ইসলামিক সেন্টারঃ ৭৪)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>166</td></tr><tr><td>Arabic No</td><td>43.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 73</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எவரிடம் மூன்று தன்மைகள் உள்ளனவோ அவர் இறைநம்பிக்கையின் சுவையை உணர்ந்து கொள்வார். 1. ஒருவர் மற்றொருவரை அல்லாஹ்வுக்காகவே நேசித்துக்கொண்டிருப்பது. 2. அல்லாஹ்வும் அவனுடைய தூதரும் ஒருவருக்கு மற்றெதையும் விட நேசத்திற்குரியோராவது. 3. இறைமறுப்பிலிருந்து அல்லாஹ் தம்மைக் காப்பாற்றிய பின் மீண்டும் அதற்குத் திரும்புவதை விட நெருப்பில் வீசப்படுவதையே அவர் விரும்புவது. இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. - அனஸ் (ரலி) அவர்கள் வழியாக மற்றோர் அறிவிப்பாளர்தொடரிலும் மேற்கண்ட ஹதீஸ் வந்துள்ளது. அதில் "மீண்டும் யூதராகவோ கிறிஸ்தவராகவோ தாம் மாறுவதைவிட (நெருப்பில் வீசப்படுவதை அவர் விரும்புவது)" என்று (சிறு மாற்றத்துடன்) ஹதீஸ் இடம்பெற்றுள்ளது. அத்தியாயம் : 1
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எவரிடம் மூன்று தன்மைகள் உள்ளனவோ அவர் இறைநம்பிக்கையின் சுவையை உணர்ந்து கொள்வார். 1. ஒருவர் மற்றொருவரை அல்லாஹ்வுக்காகவே நேசித்துக்கொண்டிருப்பது. 2. அல்லாஹ்வும் அவனுடைய தூதரும் ஒருவருக்கு மற்றெதையும் விட நேசத்திற்குரியோராவது. 3. இறைமறுப்பிலிருந்து அல்லாஹ் தம்மைக் காப்பாற்றிய பின் மீண்டும் அதற்குத் திரும்புவதை விட நெருப்பில் வீசப்படுவதையே அவர் விரும்புவது. இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. - அனஸ் (ரலி) அவர்கள் வழியாக மற்றோர் அறிவிப்பாளர்தொடரிலும் மேற்கண்ட ஹதீஸ் வந்துள்ளது. அதில் "மீண்டும் யூதராகவோ கிறிஸ்தவராகவோ தாம் மாறுவதைவிட (நெருப்பில் வீசப்படுவதை அவர் விரும்புவது)" என்று (சிறு மாற்றத்துடன்) ஹதீஸ் இடம்பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>166</td></tr><tr><td>Arabic No</td><td>43.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 73</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. el-Müsenna ve İbn Beşşar tahdis edip dediler ki: Bize Muhammed b. Ca'fer rivayet eyledi. (Dediki): Bize Şu'be rivayet etti. Dediki: Katade tahdis edip, Enes'ten şöyle dediğini nakletti: Rastılullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Üç haslet vardır ki, kimde bulunurIarsa imanın tadını bulur. Sevdiği kimseyi ancak Allah için seven, Allah ve Rasulünü onların dışındaki her şeyden daha çok seven, ateşe atılmayı Allah'ın kendisini küfürden kurtarmasından sonra tekrar ona geri dönmekten daha çok seven" Diğer tahric: Buhari, 21, 6041; Nesai, 5003; İbn Mace, 4033; Tuhfetu'l-Eşraf, 1255
+Bize Muhammed b. el-Müsenna ve İbn Beşşar tahdis edip dediler ki: Bize Muhammed b. Ca'fer rivayet eyledi. (Dediki): Bize Şu'be rivayet etti. Dediki: Katade tahdis edip, Enes'ten şöyle dediğini nakletti: Rastılullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Üç haslet vardır ki, kimde bulunurIarsa imanın tadını bulur. Sevdiği kimseyi ancak Allah için seven, Allah ve Rasulünü onların dışındaki her şeyden daha çok seven, ateşe atılmayı Allah'ın kendisini küfürden kurtarmasından sonra tekrar ona geri dönmekten daha çok seven" Diğer tahric: Buhari, 21, 6041; Nesai, 5003; İbn Mace, 4033; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>166</td></tr><tr><td>Arabic No</td><td>43.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 73</td></tr></tbody></table></div>
 

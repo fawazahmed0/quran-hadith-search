@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক সুন্দর আওয়াজে কুরআন পড়ে না, সে আমাদের নয়। আবূ হুরাইরাহ (রাঃ) ব্যতীত অন্যরা يَجْهَرُ بِهِ ‘উচ্চস্বরে কুরআন পড়ে না’ কথাটুকু বৃদ্ধি করেছেন। (আধুনিক প্রকাশনী- ৭০০৮, ইসলামিক ফাউন্ডেশন- ৭০১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক সুন্দর আওয়াজে কুরআন পড়ে না, সে আমাদের নয়। আবূ হুরাইরাহ (রাঃ) ব্যতীত অন্যরা يَجْهَرُ بِهِ ‘উচ্চস্বরে কুরআন পড়ে না’ কথাটুকু বৃদ্ধি করেছেন। (আধুনিক প্রকাশনী- ৭০০৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7527</td></tr><tr><td>Arabic No</td><td>7527</td></tr><tr><td>Reference</td><td>Book 97 Hadith 152</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Abu 'Ashi
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனை (முறைப்படி) இராகத்துடன் (இனிய குரலில்) ஓதாதவர் நம்மைச் சார்ந்தவர் அல்லர். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். மற்றோர் அறிவிப்பில், ‘இராகமிட்டு உரத்த குரலில் ஓதாதவர்’ எனக் கூடுதலாக வந்துள்ளது. அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனை (முறைப்படி) இராகத்துடன் (இனிய குரலில்) ஓதாதவர் நம்மைச் சார்ந்தவர் அல்லர். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். மற்றோர் அறிவிப்பில், ‘இராகமிட்டு உரத்த குரலில் ஓதாதவர்’ எனக் கூடுதலாக வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7527</td></tr><tr><td>Arabic No</td><td>7527</td></tr><tr><td>Reference</td><td>Book 97 Hadith 152</td></tr></tbody></table></div>
 

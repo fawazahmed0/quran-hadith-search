@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে চাঁদ দু’ খন্ড হয়েছিল। (৩৬৩৮) (আধুনিক প্রকাশনীঃ ৩৫৮৩, ইসলামিক ফাউন্ডেশনঃ ৩৫৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে চাঁদ দু’ খন্ড হয়েছিল। (৩৬৩৮) (আধুনিক প্রকাশনীঃ ৩৫৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3870</td></tr><tr><td>Arabic No</td><td>3870</td></tr><tr><td>Reference</td><td>Book 63 Hadith 95</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Utsman bin Shalih] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் சந்திரன் (இரு துண்டு களாகப்) பிளவுபட்டது.112 அத்தியாயம் : 63
+அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் சந்திரன் (இரு துண்டு களாகப்) பிளவுபட்டது.112 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3870</td></tr><tr><td>Arabic No</td><td>3870</td></tr><tr><td>Reference</td><td>Book 63 Hadith 95</td></tr></tbody></table></div>
 

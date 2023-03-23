@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১৯৬। আনাস ইবনু মালিক (রাযিঃ) কর্তৃক বর্ণিত আছে, “তাদের দেহপাশ বিছানা হতে আলগা হয়ে যায়..."— (সূরা সিজদা্ ১৬) আয়াতটি আতামার (ইশার) নামাযের জন্য অপেক্ষা করার ফায়ীলাত প্রসঙ্গে অবতীর্ণ হয়েছে। সহীহঃ তা’লীকুর রাগীব (১/১৬০) আবূ ঈসা বলেন, এ হাদীসটি হাসান, সহীহ গারীব। আমরা শুধু উল্লেখিত সনদেই এ হাদীস জেনেছি।
+। আনাস ইবনু মালিক (রাযিঃ) কর্তৃক বর্ণিত আছে, “তাদের দেহপাশ বিছানা হতে আলগা হয়ে যায়..."— (সূরা সিজদা্ ১৬) আয়াতটি আতামার (ইশার) নামাযের জন্য অপেক্ষা করার ফায়ীলাত প্রসঙ্গে অবতীর্ণ হয়েছে। সহীহঃ তা’লীকুর রাগীব (১/১৬০) আবূ ঈসা বলেন, এ হাদীসটি হাসান, সহীহ গারীব। আমরা শুধু উল্লেখিত সনদেই এ হাদীস জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3196</td></tr><tr><td>Arabic No</td><td>3196</td></tr><tr><td>Reference</td><td>Book 47 Hadith 248</td></tr></tbody></table></div>
 

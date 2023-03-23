@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবূ বাদ্দাহ্ ইবন আদী (রহঃ) তাঁর পিতা হতে বর্ণনা করেছেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উটের রাখালদের জন্য একদিন (১০ যিলহজ্জ) কংকর নিক্ষেপ করাকে ‘রুখসাত’ হিসাবে সাব্যস্ত করেন এবং ১১ যিল-হজ্জ তা নিক্ষেপ করতে নিষেধ, (বরং এর পরিবর্তী দু'দিন ১২ ও ১৩ তারিখে তা সম্পন্ন করার জন্য নির্দেশ দেন)।
+। আবুল বাদ্দাহ ইবনু ‘আদী (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উটের রাখালদেরকে একদিন বাদ দিয়ে একদিন (অর্থাৎ ১১ ও ১২ তারিখ) কংকর মারার বিশেষ অনুমতি দিয়েছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1976</td></tr><tr><td>Arabic No</td><td>1976</td></tr><tr><td>Reference</td><td>Book 11 Hadith 256</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন হাম্বল (রহঃ) ..... আবদুল্লাহ ইবন হাবশী আল খাছাআমী (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একদা নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লামকে উত্তম আমল সম্পর্কে জিজ্ঞাসা করা হলে তিনি বলেনঃ উত্তম আমল হল দীর্ঘক্ষণ দাঁড়িয়ে থেকে নামায আদায় করা। (মুসলিম)।
+। ‘আবদুল্লাহ ইবনু হুবশী আল-খাস‘আমী (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সবচেয়ে উত্তম আমল সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেন, দীর্ঘক্ষণ দাঁড়িয়ে সালাত আদায় করা।[1] সহীহ : এ শব্দে : কোন সালাত?।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1325</td></tr><tr><td>Arabic No</td><td>1325</td></tr><tr><td>Reference</td><td>Book 5 Hadith 76</td></tr></tbody></table></div>
 

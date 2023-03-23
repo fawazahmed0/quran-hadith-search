@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৫৫১, আন্তর্জাতিক নাম্বারঃ ৭১৯ ১৫৫১-(.../...) ইসহাক ইবনু ইবরাহীম ও ইবনু বাশশার (রহঃ) ..... আবূ কাতাদাহ (রাযিঃ) থেকে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৫৩৬, ইসলামীক সেন্টার ১৫৪৩)
+ইসহাক ইবনু ইবরাহীম ও ইবনু বাশশার (রহঃ) ..... আবূ কাতাদাহ (রাযিঃ) থেকে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৫৩৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1666</td></tr><tr><td>Arabic No</td><td>719.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 96</td></tr></tbody></table></div>
 

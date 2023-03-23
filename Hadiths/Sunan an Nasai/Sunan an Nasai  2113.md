@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। মুসা ইবনু আব্দুর রহমান (রহঃ) ... ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে একজন বেদুঈন এসে বললেন যে, আমি রাত্রে চাঁদ দেখেছি, তখন রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন যে, তুমি কি সাক্ষ্য দেও যে, আল্লাহ তা'আলা ছাড়া অন্য কোন মাবুদ নেই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহর বান্দা এবং রাসুল? সে বললো, হ্যাঁ। তখন তিনি বললেনঃ হে বেলাল! তুমি লোকদের সামনে ঘোযণা করে দাও যে তারা যেন সাওম (সিয়াম/রোজা/রোযা) পালন করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2113</td></tr><tr><td>Arabic No</td><td>2113</td></tr><tr><td>Reference</td><td>Book 22 Hadith 24</td></tr></tbody></table></div>
 

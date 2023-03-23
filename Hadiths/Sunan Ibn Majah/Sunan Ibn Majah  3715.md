@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৭১৫। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ হাঁচি দিলে যেন বলে, আলহামদু লিল্লাহ (সমস্ত প্রশংসা আল্লাহর)। তার আশেপাশে উপস্থিত ব্যক্তিগণ যেন বলে, ইয়ারহামুকাল্লাহ (আল্লাহ তোমায় অনুগ্রহ করুন)। প্রতি উত্তরে হাঁচিদাতা যেন বলে, ইয়াহদীকুমুল্লাহু ওয়া ইউসলিহু বালাকুম (আল্লাহ তোমাদের সৎপথ প্রদর্শন করুন এবং তোমাদের অবস্থার সংশোধন করুন)।
+। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ হাঁচি দিলে যেন বলে, আলহামদু লিল্লাহ (সমস্ত প্রশংসা আল্লাহর)। তার আশেপাশে উপস্থিত ব্যক্তিগণ যেন বলে, ইয়ারহামুকাল্লাহ (আল্লাহ তোমায় অনুগ্রহ করুন)। প্রতি উত্তরে হাঁচিদাতা যেন বলে, ইয়াহদীকুমুল্লাহু ওয়া ইউসলিহু বালাকুম (আল্লাহ তোমাদের সৎপথ প্রদর্শন করুন এবং তোমাদের অবস্থার সংশোধন করুন)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3715</td></tr><tr><td>Arabic No</td><td>3715</td></tr><tr><td>Reference</td><td>Book 33 Hadith 59</td></tr></tbody></table></div>
 

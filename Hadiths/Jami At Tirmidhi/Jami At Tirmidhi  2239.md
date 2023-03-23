@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২২৩৯। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন কনস্টান্টিনোপল বিজয় সংঘটিত হবে কিয়ামতের কাছাকাছি সময়ে। সনদ সহীহ, মাওকুফ। মাহমূদ বলেন, এ হাদীসটি গারীব। কনস্টান্টিনোপল রোম সাম্রাজ্যের (বর্তমান তুরস্কের) একটি প্রসিদ্ধ শহর। দাজ্জালের আবির্ভাবকালে এটা বিজিত হবে। এটা অবশ্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের কিছু সাহাবীদের যামানায় (আমীর মুআবিয়ার রাজত্বকালে) বিজিত হয়েছে।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন কনস্টান্টিনোপল বিজয় সংঘটিত হবে কিয়ামতের কাছাকাছি সময়ে। সনদ সহীহ, মাওকুফ। মাহমূদ বলেন, এ হাদীসটি গারীব। কনস্টান্টিনোপল রোম সাম্রাজ্যের (বর্তমান তুরস্কের) একটি প্রসিদ্ধ শহর। দাজ্জালের আবির্ভাবকালে এটা বিজিত হবে। এটা অবশ্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের কিছু সাহাবীদের যামানায় (আমীর মুআবিয়ার রাজত্বকালে) বিজিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 33 Hadith 82</td></tr></tbody></table></div>
 

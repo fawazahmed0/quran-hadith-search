@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ফাঁস লাগিয়ে আত্মহত্যা করবে, সে জাহান্নামে (অনুরূপভাব) নিজেকে ফাঁস লাগাতে থাকবে আর যে ব্যক্তি বর্শার আঘাতে আত্মহত্যা করবে, সে জাহান্নামে (অনুরূপভাবে) বর্শা বিদ্ধ হতে থাকবে। (৫৭৭৮, মুসলিম ১/৪৭, হাঃ ১১৩) (আধুনিক প্রকাশনীঃ ১২৭৪, ইসলামিক ফাউন্ডেশনঃ ১২৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ফাঁস লাগিয়ে আত্মহত্যা করবে, সে জাহান্নামে (অনুরূপভাব) নিজেকে ফাঁস লাগাতে থাকবে আর যে ব্যক্তি বর্শার আঘাতে আত্মহত্যা করবে, সে জাহান্নামে (অনুরূপভাবে) বর্শা বিদ্ধ হতে থাকবে। (৫৭৭৮, মুসলিম ১/৪৭, হাঃ ১১৩) (আধুনিক প্রকাশনীঃ ১২৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1365</td></tr><tr><td>Arabic No</td><td>1365</td></tr><tr><td>Reference</td><td>Book 23 Hadith 117</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu AL Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: “யார் தமது கழுத்தை நெரித்துத் தற்கொலை செய்துகொள்கிறாரோ அவர் நரகத்திலும் தமது கழுத்தை நெரித்துக் கொண்டிருப்பார். யார் தம்மைத் தாமே (ஆயுதத்தால்) தாக்கித் தற்கொலை செய்துகொள்கிறாரோ அவர் நரகத்தி லும் தம்மை ஆயுதத்தால் தாக்கிக் கொண்டிருப்பார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 23
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: “யார் தமது கழுத்தை நெரித்துத் தற்கொலை செய்துகொள்கிறாரோ அவர் நரகத்திலும் தமது கழுத்தை நெரித்துக் கொண்டிருப்பார். யார் தம்மைத் தாமே (ஆயுதத்தால்) தாக்கித் தற்கொலை செய்துகொள்கிறாரோ அவர் நரகத்தி லும் தம்மை ஆயுதத்தால் தாக்கிக் கொண்டிருப்பார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1365</td></tr><tr><td>Arabic No</td><td>1365</td></tr><tr><td>Reference</td><td>Book 23 Hadith 117</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu AL Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a., Nebi Sallallahu Aleyhi ve Sellem şunu rivayet etmiştir: "(Bu dünyada) kendini boğan, ateşte de kendini boğacak. Dünyada kendini yaralayan, ateşte de yaralayacak. Tekrar: 5778
+Ebu Hureyre r.a., Nebi Sallallahu Aleyhi ve Sellem şunu rivayet etmiştir: "(Bu dünyada) kendini boğan, ateşte de kendini boğacak. Dünyada kendini yaralayan, ateşte de yaralayacak. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1365</td></tr><tr><td>Arabic No</td><td>1365</td></tr><tr><td>Reference</td><td>Book 23 Hadith 117</td></tr></tbody></table></div>
 

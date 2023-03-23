@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২১৫, আন্তর্জাতিক নাম্বারঃ ২১৬ ২১৫. মুহাম্মাদ ইবনুল মুসান্না (রহ.) ..... ফাত্বিমাহ্ বিনতু আবূ হুবায়শ (রাঃ) হতে বর্ণিত। তাঁর ইস্তিহাযাহ্ হলে রাসূলুল্লাহ (সা.) তাকে বললেন, যখন হায়যের রক্ত হয় তা কালো রক্ত যা চেনা যায়, তখন তুমি সালাত থেকে বিরত থাকবে, আর যখন অন্য রক্ত হয় তখন উযূ করে নিবে। কেননা তা একটি শিরার রক্ত মাত্র। সহীহ: আবূ দাউদ ২৮১, সহীহ আবূ দাউদ ২৮৪, ২৮৫; ইওয়াউল গালীল ২০৪।
+। মুহাম্মদ ইবনু মুসান্না (রহঃ) ... ফাতেমা বিনতে আবূ হুবায়শ (রাঃ) থেকে বর্ণিত। তাঁর ইস্তিহাযা হলে রাসুলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে বললেনঃ যখন হায়যের রক্ত হয়, যা কাল রক্ত, চেনা যায়, তখন তুমি সালাত (নামায/নামাজ) থেকে বিরত থাকবে, আর যখন অন্য রক্ত হয় তখন উযূ (ওজু/অজু/অযু) করে নিবে। কেননা তা একটি শিরামাত্র (যা হতে রক্ত নির্গত হয়)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>215</td></tr><tr><td>Arabic No</td><td>215</td></tr><tr><td>Reference</td><td>Book 1 Hadith 216</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Fatıma binti ebi Hubeyş (r.anha)’dan rivâyete göre, şöyle demiştir: Hayız olmuştum. Rasûlullah (s.a.v) buyurdular ki: “Kan hayız kanı olursa rengi siyahımsı olur ve böyle bilinir. Böyle bir durumda namazı bırak. Başka (renkte) kan olursa abdest al çünkü o damardan gelen kandır.” (İbn Mâce, Tahara: 115; Buhârî, Hayz: 21)
+Fatıma binti ebi Hubeyş (r.anha)’dan rivâyete göre, şöyle demiştir: Hayız olmuştum. Rasûlullah (s.a.v) buyurdular ki: “Kan hayız kanı olursa rengi siyahımsı olur ve böyle bilinir. Böyle bir durumda namazı bırak. Başka (renkte) kan olursa abdest al çünkü o damardan gelen kandır.” (İbn Mâce, Tahara: 115; Buhârî, Hayz:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>215</td></tr><tr><td>Arabic No</td><td>215</td></tr><tr><td>Reference</td><td>Book 1 Hadith 216</td></tr></tbody></table></div>
 

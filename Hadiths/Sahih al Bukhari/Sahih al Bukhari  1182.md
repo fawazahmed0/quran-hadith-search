@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের পূর্বে চার রাক‘আত এবং (ফজরের পূর্বে) দু’রাক‘আত সালাত ছাড়তেন না। ইবনু আবূ আদী ও ‘আমর (রহ.) শু‘বাহ (রহ.) হতে হাদীস বর্ণনায় ইয়াহ্ইয়া (রহ.)-এর অনুসরণ করেছেন। (মুসলিম ৬/১৩, হাঃ ৭৩০) (আধুনিক প্রকাশনীঃ ১১০৬, ইসলামিক ফাউন্ডেশনঃ ১১১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের পূর্বে চার রাক‘আত এবং (ফজরের পূর্বে) দু’রাক‘আত সালাত ছাড়তেন না। ইবনু আবূ আদী ও ‘আমর (রহ.) শু‘বাহ (রহ.) হতে হাদীস বর্ণনায় ইয়াহ্ইয়া (রহ.)-এর অনুসরণ করেছেন। (মুসলিম ৬/১৩, হাঃ ৭৩০) (আধুনিক প্রকাশনীঃ ১১০৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1182</td></tr><tr><td>Arabic No</td><td>1182</td></tr><tr><td>Reference</td><td>Book 19 Hadith 59</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் லுஹ்ர் தொழுகைக்குமுன் நான்கு ரக்அத்களும் சுப்ஹு தொழுகைக்குமுன் இரண்டு ரக்அத்களும் தொழாமல் இருந்ததில்லை. இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 19
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் லுஹ்ர் தொழுகைக்குமுன் நான்கு ரக்அத்களும் சுப்ஹு தொழுகைக்குமுன் இரண்டு ரக்அத்களும் தொழாமல் இருந்ததில்லை. இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1182</td></tr><tr><td>Arabic No</td><td>1182</td></tr><tr><td>Reference</td><td>Book 19 Hadith 59</td></tr></tbody></table></div>
 

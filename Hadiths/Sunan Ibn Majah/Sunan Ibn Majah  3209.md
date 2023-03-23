@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩২০৯। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমাদেরকে অগ্নি উপাসকদের কুকুর ও পাখির ধৃত শিকার খেতে নিষেধ করা হয়েছে।
+। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমাদেরকে অগ্নি উপাসকদের কুকুর ও পাখির ধৃত শিকার খেতে নিষেধ করা হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3209</td></tr><tr><td>Arabic No</td><td>3209</td></tr><tr><td>Reference</td><td>Book 28 Hadith 10</td></tr></tbody></table></div>
 

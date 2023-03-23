@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬৮৮। আনাস (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মি'রাজের রাতে আমি জান্নাতে প্রবেশ করে তাতে একখানা সোনার বালাখানা প্রত্যক্ষ করলাম। আমি প্রশ্ন করলাম, এ বালাখানা কার? ফেরেশতারা বললেন, কুরাইশের এক যুবকের। আমি ধারণা করলাম, আমিই সেই যুবক। আমি প্রশ্ন করলামঃ কে সেই যুবক? ফেরেশতারা বললেন, "উমার ইবনুল খাত্তাব। সহীহঃ সহীহাহ (১৪০৫, ১৪২৩), বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আনাস (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মি'রাজের রাতে আমি জান্নাতে প্রবেশ করে তাতে একখানা সোনার বালাখানা প্রত্যক্ষ করলাম। আমি প্রশ্ন করলাম, এ বালাখানা কার? ফেরেশতারা বললেন, কুরাইশের এক যুবকের। আমি ধারণা করলাম, আমিই সেই যুবক। আমি প্রশ্ন করলামঃ কে সেই যুবক? ফেরেশতারা বললেন, "উমার ইবনুল খাত্তাব। সহীহঃ সহীহাহ (১৪০৫, ১৪২৩), বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3688</td></tr><tr><td>Arabic No</td><td>3688</td></tr><tr><td>Reference</td><td>Book 49 Hadith 84</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আকীক উপত্যকায় অবস্থানকালে আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছিঃ আজ রাতে আমার প্রতিপালকের পক্ষ হতে একজন আগন্তুক আমার নিকট এসে বললেন, আপনি এই বরকতময় উপত্যকায় সালাত আদায় করুন এবং বলুন, (আমার এ ইহরাম) হাজ্জের সাথে ‘উমরাহ’রও। (২৩৩৭, ৭৩৪৩) (আধুনিক প্রকাশনীঃ ১৪৩৪, ইসলামিক ফাউন্ডেশনঃ ১৪৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আকীক উপত্যকায় অবস্থানকালে আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছিঃ আজ রাতে আমার প্রতিপালকের পক্ষ হতে একজন আগন্তুক আমার নিকট এসে বললেন, আপনি এই বরকতময় উপত্যকায় সালাত আদায় করুন এবং বলুন, (আমার এ ইহরাম) হাজ্জের সাথে ‘উমরাহ’রও। (২৩৩৭, ৭৩৪৩) (আধুনিক প্রকাশনীঃ ১৪৩৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1534</td></tr><tr><td>Arabic No</td><td>1534</td></tr><tr><td>Reference</td><td>Book 25 Hadith 22</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Al 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘அல்அகீக்’ பள்ளத்தாக்கில் இருந்தபோது, “என் இறைவனிடமிருந்து ஒரு (வான)வர் இன்றிரவும் என்னிடம் வந்தார். அவர், ‘இந்த வளமிக்க பள்ளத்தாக்கில் தொழுங் கள்; ஹஜ்ஜுடன் உம்ரா என்று கூறுங்கள்’ என்றார்” எனக் கூறியதை நான் கேட்டேன்.5 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 25
+உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘அல்அகீக்’ பள்ளத்தாக்கில் இருந்தபோது, “என் இறைவனிடமிருந்து ஒரு (வான)வர் இன்றிரவும் என்னிடம் வந்தார். அவர், ‘இந்த வளமிக்க பள்ளத்தாக்கில் தொழுங் கள்; ஹஜ்ஜுடன் உம்ரா என்று கூறுங்கள்’ என்றார்” எனக் கூறியதை நான் கேட்டேன்.5 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1534</td></tr><tr><td>Arabic No</td><td>1534</td></tr><tr><td>Reference</td><td>Book 25 Hadith 22</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Al 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'den nakledildiğine göre kendisi Hz. Ömer'i şöyle söylerken işitmiştir: "Ben Nebi Sallallahu Aleyhi ve Sellem'i Akîk vadisinde iken, "Bu gece bana Rabbim'den bir elçi (Cibril) gelerek: 'Bu mubarek vadide namaz kıl ve umre ile beraber hac yapmaya niyet et' (kıran haca) di" buyurduğunu işittim." Tekrar: 2337, 7343
+İbn Abbas r.a.'den nakledildiğine göre kendisi Hz. Ömer'i şöyle söylerken işitmiştir: "Ben Nebi Sallallahu Aleyhi ve Sellem'i Akîk vadisinde iken, "Bu gece bana Rabbim'den bir elçi (Cibril) gelerek: 'Bu mubarek vadide namaz kıl ve umre ile beraber hac yapmaya niyet et' (kıran haca) di" buyurduğunu işittim." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1534</td></tr><tr><td>Arabic No</td><td>1534</td></tr><tr><td>Reference</td><td>Book 25 Hadith 22</td></tr></tbody></table></div>
 

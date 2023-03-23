@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিমের উপর তার ঘোড়া ও গোলামের কোন যাকাত নেই। (১৪৬৪, মুসলিম ১২/২, হাঃ ৯৮২, আহমাদ ৭২৯৯) (আধুনিক প্রকাশনীঃ ১৩৬৯, ইসলামিক ফাউন্ডেশনঃ ১৩৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিমের উপর তার ঘোড়া ও গোলামের কোন যাকাত নেই। (১৪৬৪, মুসলিম ১২/২, হাঃ ৯৮২, আহমাদ ৭২৯৯) (আধুনিক প্রকাশনীঃ ১৩৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1463</td></tr><tr><td>Arabic No</td><td>1463</td></tr><tr><td>Reference</td><td>Book 24 Hadith 65</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (குதிரைகளையும் அடிமைகளையும் பெற்றிருக்கும்) ஒரு முஸ்லிம் தம் குதிரை களுக்காகவும் அடிமைகளுக்காகவும் ஸகாத் கொடுக்க வேண்டியதில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 24
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (குதிரைகளையும் அடிமைகளையும் பெற்றிருக்கும்) ஒரு முஸ்லிம் தம் குதிரை களுக்காகவும் அடிமைகளுக்காகவும் ஸகாத் கொடுக்க வேண்டியதில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1463</td></tr><tr><td>Arabic No</td><td>1463</td></tr><tr><td>Reference</td><td>Book 24 Hadith 65</td></tr></tbody></table></div>
 

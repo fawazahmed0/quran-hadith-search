@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুআম্মাল ইবনু ইহাব .... উম্মে সালামা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আমাকে মাগরিবের নামাযের আযানের পর পড়ার জন্য নিম্নোক্ত দু’আ শিক্ষা দিয়েছেনঃ “আল্লাহুম্মা ইন্না হাযা ইকবালু লায়লিকা ও ইদবারু নাহারিকা ওয়া আসওয়াতু দুআইকা ফাগফিরলী। (তিরমিযী)।
+। উম্মু সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে শিক্ষা দিয়েছেন আমি যেন মাগরিবের আযানের সময় এ দু‘আ পাঠ করিঃ আল্লাহুম্মা ইন্না হাযা ইক্ববালু লাইলিকা ওয়া ইদবারু নাহারিকা ওয়া আসওয়াতু দু‘আয়িকা ফাগফিরলী। অর্থঃ ‘হে আল্লাহ! এটা হচ্ছে আপনার রাত আসার সময়, আপনার দিন বিদায়ের মুহূর্ত এবং আপনাকে আহবানকারীর ডাক শোনার সময়। অতএব আপনি আমাকে ক্ষমা করুন।’[1] দুর্বল : মিশকাত ৬৬৯।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>530</td></tr><tr><td>Arabic No</td><td>530</td></tr><tr><td>Reference</td><td>Book 2 Hadith 140</td></tr></tbody></table></div>
 

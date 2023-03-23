@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান .... ইবনু উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, হয় রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন অথবা উমার (রাঃ) বলেছেনঃ তোমাদের কারো যখন দুঁটি বস্ত্র থাকবে- তখন তা পরিধাণ করে নামায আদায় করবে। অপরপক্ষে যদি একটি বস্ত্র থাকে, তবে তা কোমরে বেঁধে নামায আদায় করবে এবং ইহুদিদের মত যেন পরিধান না করে।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন অথবা ‘উমার (রাঃ) বলেছেন, তোমাদের কারো নিকট দু’টি কাপড় থাকলে সে যেন ঐগুলি পরেই সালাত আদায় করে। আর একটি মাত্র কাপড় থাকলে সে যেন তা কোমরে বেঁধে নেয় এবং ইয়াহূদীদের ন্যায় দু’ কাঁধে ঝুলিয়ে না রাখে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>635</td></tr><tr><td>Arabic No</td><td>635</td></tr><tr><td>Reference</td><td>Book 2 Hadith 245</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer (r.a.) Resûl-i Ekrem (Sallallahu aleyhi ve Sellem)'in yahutta Ömer( r.a.)'in (şöyle) dediğini haber vermiştir: "Birinizin iki elbisesi bulunursa, namazı onlarla kılsın. Yok eğer bir elbisesi varsa onu beline bağlasın (eteklik yapsın), onu yahudiler gibi (eller de içeride kalacak şekilde) bürünmesin." Benzer Tahric için bak: Buharî, saiat; Ebû Davûd, salat; Ahmed b. Hanbel, II, 328
+İbn Ömer (r.a.) Resûl-i Ekrem (Sallallahu aleyhi ve Sellem)'in yahutta Ömer( r.a.)'in (şöyle) dediğini haber vermiştir: "Birinizin iki elbisesi bulunursa, namazı onlarla kılsın. Yok eğer bir elbisesi varsa onu beline bağlasın (eteklik yapsın), onu yahudiler gibi (eller de içeride kalacak şekilde) bürünmesin." Benzer Tahric için bak: Buharî, saiat; Ebû Davûd, salat; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>635</td></tr><tr><td>Arabic No</td><td>635</td></tr><tr><td>Reference</td><td>Book 2 Hadith 245</td></tr></tbody></table></div>
 

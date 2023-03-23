@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৪১২। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জন্য রাতের বেলা তিনটি পাত্র রাখতাম এবং তিনটিই ঢেকে রাখতাম। একটি তাঁর পবিত্রতা অর্জনের জন্য, একটি তাঁর মিসওয়াকের জন্য একটি তাঁর পান করার জন্য।
+। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জন্য রাতের বেলা তিনটি পাত্র রাখতাম এবং তিনটিই ঢেকে রাখতাম। একটি তাঁর পবিত্রতা অর্জনের জন্য, একটি তাঁর মিসওয়াকের জন্য একটি তাঁর পান করার জন্য।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3412</td></tr><tr><td>Arabic No</td><td>3412</td></tr><tr><td>Reference</td><td>Book 30 Hadith 42</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সবচেয়ে কঠিন কবীরা গুনাহ্ হচ্ছে আল্লাহর সাথে শরীক করা, পিতা-মাতার অবাধ্য হওয়া ও মিথ্যা সাক্ষ্য দেয়া। মিথ্যা সাক্ষ্য কথাটি তিনবার বললেন। অথবা বলেছেন; মিথ্যা বক্তব্য। কথাটি বারবার বলতে থাকলেন, এমন কি আমরা আকাঙ্ক্ষা করতে লাগলাম, হায় যদি তিনি নীরব হয়ে যেতেন। [২৬৫৪] (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন- ৬৪৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বাকরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সবচেয়ে কঠিন কবীরা গুনাহ্ হচ্ছে আল্লাহর সাথে শরীক করা, পিতা-মাতার অবাধ্য হওয়া ও মিথ্যা সাক্ষ্য দেয়া। মিথ্যা সাক্ষ্য কথাটি তিনবার বললেন। অথবা বলেছেন; মিথ্যা বক্তব্য। কথাটি বারবার বলতে থাকলেন, এমন কি আমরা আকাঙ্ক্ষা করতে লাগলাম, হায় যদি তিনি নীরব হয়ে যেতেন। [২৬৫৪] (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6919</td></tr><tr><td>Arabic No</td><td>6919</td></tr><tr><td>Reference</td><td>Book 88 Hadith 2</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Bakra:The Prophet. said, "The biggest of the great sins are: To join others in worship with Allah, to be undutiful to one's parents, and to give a false witness." He repeated it thrice, or said, "....a false statement," and kept on repeating that warning till we wished he would stop saying it. (See Hadith No.7, Vol. 8)
+Narrated Abu Bakra:The Prophet. said, "The biggest of the great sins are: To join others in worship with Allah, to be undutiful to one's parents, and to give a false witness." He repeated it thrice, or said, "....a false statement," and kept on repeating that warning till we wished he would stop saying it. (See Hadith No.7, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6919</td></tr><tr><td>Arabic No</td><td>6919</td></tr><tr><td>Reference</td><td>Book 88 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyr 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூபக்ரா (ரலி) அவர்கள் கூறியதாவது: “அல்லாஹ்வுக்கு இணைகற்பிப்பது, பெற்றோரைப் புண்படுத்துவது, பொய் சாட்சியம் கூறுவது, பொய் சாட்சியம் கூறுவது (மூன்று முறை), பொய் சாட்சியம் கூறுவது, அல்லது ‘பொய் பேசுவது’ ஆகியவை பெரும்பாவங்களிலேயே மிகப்பெரும் பாவங்களாகும்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். ‘பொய் சாட்சி’ என்பதை நபி (ஸல்) அவர்கள் திரும்பத்திரும்பத் சொல்லிக் கொண்டேயிருந்தார்கள். (இதைக் கண்ட) நாங்கள் “அவர்கள் நிறுத்திக்கொள்ளலாமே!” என்று கூறி னோம்.4 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 88
+அபூபக்ரா (ரலி) அவர்கள் கூறியதாவது: “அல்லாஹ்வுக்கு இணைகற்பிப்பது, பெற்றோரைப் புண்படுத்துவது, பொய் சாட்சியம் கூறுவது, பொய் சாட்சியம் கூறுவது (மூன்று முறை), பொய் சாட்சியம் கூறுவது, அல்லது ‘பொய் பேசுவது’ ஆகியவை பெரும்பாவங்களிலேயே மிகப்பெரும் பாவங்களாகும்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். ‘பொய் சாட்சி’ என்பதை நபி (ஸல்) அவர்கள் திரும்பத்திரும்பத் சொல்லிக் கொண்டேயிருந்தார்கள். (இதைக் கண்ட) நாங்கள் “அவர்கள் நிறுத்திக்கொள்ளலாமே!” என்று கூறி னோம்.4 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6919</td></tr><tr><td>Arabic No</td><td>6919</td></tr><tr><td>Reference</td><td>Book 88 Hadith 2</td></tr></tbody></table></div>
 

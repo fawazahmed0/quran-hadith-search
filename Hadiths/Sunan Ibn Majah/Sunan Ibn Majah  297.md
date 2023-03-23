@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৯৭। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জ্বীন ও মানুষের গোপন অঙ্গের মাঝখানের পর্দা হল পায়খানায় প্রবেশকালে তার বিসমিল্লাহ বলা।
+। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জ্বীন ও মানুষের গোপন অঙ্গের মাঝখানের পর্দা হল পায়খানায় প্রবেশকালে তার বিসমিল্লাহ বলা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>297</td></tr><tr><td>Arabic No</td><td>297</td></tr><tr><td>Reference</td><td>Book 1 Hadith 31</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+(…) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... জারীর ইবনু আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নম্রতা থেকে বঞ্চিত ব্যক্তি যাবতীয় কল্যাণ থেকে বঞ্চিত। কিংবা বলেছেন, যে ব্যক্তি নম্রতা থেকে বঞ্চিত হবে সে কল্যাণ থেকে বঞ্চিত থাকবে। (ইসলামিক ফাউন্ডেশন ৬৩৬৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6600</td></tr><tr><td>Arabic No</td><td>2592.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 98</td></tr></tbody></table></div>
 

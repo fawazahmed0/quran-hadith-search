@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬৩, আন্তর্জাতিক নাম্বারঃ ২৪২ ৪৬৩-(৩০/...) যুহায়র ইবনু হারব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ধ্বংস ঐ গোড়ালিগুলোর জন্যে, যে সব স্থানে পানি পৌছেনি; যেগুলোর ঠিকানা হবে জাহান্নাম। (ইসলামিক ফাউন্ডেশনঃ ৪৬৬, ইসলামিক সেন্টারঃ ৪৮২)
+যুহায়র ইবনু হারব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ধ্বংস ঐ গোড়ালিগুলোর জন্যে, যে সব স্থানে পানি পৌছেনি; যেগুলোর ঠিকানা হবে জাহান্নাম। (ইসলামিক ফাউন্ডেশনঃ ৪৬৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>242.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 42</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ja
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (உளூவில் சரியாகக் கழுவப்படாத) குதிகாலகளுக்கு நரக வேதனைதான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 2
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (உளூவில் சரியாகக் கழுவப்படாத) குதிகாலகளுக்கு நரக வேதனைதான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>242.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 42</td></tr></tbody></table></div>
 

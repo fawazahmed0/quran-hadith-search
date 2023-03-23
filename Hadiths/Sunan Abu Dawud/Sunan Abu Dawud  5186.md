@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুআম্মাল ইবন ফযল (রহঃ) ..... আবদুল্লাহ্‌ ইবন বুসর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখনই কোন কাওমের দরজায় আসতেন, তখন তিনি সে দরজার দিকে মুখ করে দাঁড়াতেন না, বরং তিনি দরজার ডান অথবা বাম দিকে সরে দাঁড়াতেন এবং বলতেনঃ আসসালামু আলায়কুম! আসসালামু আলায়কুম! আর তিনি এরূপ এ জন্য করতেন যে, সে সময় দরজায় কোন পর্দার ব্যবস্থা ছিল না।
+। আব্দুল্লাহ ইবনু বুসর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোনো কওমের দরবারে এলে সরাসরি দরজায় মুখ করে দাঁড়াতেন না, বরং দরজার ডান অথবা বাম পাশে সরে দাঁড়িয়ে বলতেনঃ ‘‘আসসালামু আলাইকুম, আসসালামু আলাইকুম।’ কারণ, সে যুগে দরজায় পর্দা টানানো থাকতো না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 43 Hadith 414</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবনু দাউদ এবং আব্দুল মালিক ইবনু ওয়াহাব থেকে ইবনু ওয়াহব এর সূত্রে পূর্বোক্ত হাদীছের অনুরূপ বর্ণিত আছে। তিনি (আম্মার) বলেন, একদা মুসলিমগণ তায়াম্মুমের উদ্দেশ্যে তাদের হাত মাটির উপর মারেন, তাঁরা মাটি আকড়ে ধরেন নাই। অতঃপর তিনি পূর্বোক্ত হাদীছের অনুরূপ বর্ণনা করেন এবং এই হাদীছে বগল পর্যন্ত হাত মাসেহ্ করা সম্পর্কে উল্লেখ নাই। ইবনুল লায়ছ বলেন, তারা দুই হাতের কনুইয়ের উপরিভাগ পর্যন্ত মাসেহ্ করেন।
+। ইবনু ওয়াহাব থেকে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। তাতে আরো রয়েছেঃ মুসলিমরা দাঁড়ানো অবস্থায় মাটিতে হাত মারলেন এবং হাতে মাটি নিলেন না। তারপর একই রকম বর্ণনা করেছেন। কিন্তু তিনি কাঁধ ও বগলের কথা উল্লেখ করেননি। ইবনু লাইস বলেন, সাহাবীগণ কনুইয়ের উপর পর্যন্ত মাসাহ্ করেছেন।[1] [গবেষণা অসম্পূর্ণ]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>319</td></tr><tr><td>Arabic No</td><td>319</td></tr><tr><td>Reference</td><td>Book 1 Hadith 319</td></tr></tbody></table></div>
 

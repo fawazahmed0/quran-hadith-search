@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৩৫৯, আন্তর্জাতিক নাম্বারঃ ১৪১৫ ৩৩৫৯-(৬০/...) মুহাম্মাদ ইবনু রাফি (রহঃ) ..... ইবনু উমর (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ "ইসলামে শিগার নেই"। (ইসলামিক ফাউন্ডেশন ৩৩৩৩, ইসলামীক সেন্টার ৩৩৩২)
+মুহাম্মাদ ইবনু রাফি (রহঃ) ..... ইবনু উমর (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ "ইসলামে শিগার নেই"। (ইসলামিক ফাউন্ডেশন ৩৩৩৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3468</td></tr><tr><td>Arabic No</td><td>1415.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 70</td></tr></tbody></table></div>
 

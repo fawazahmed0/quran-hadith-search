@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু মাস‘ঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন নারী যেন তার দেখা অন্য নারীর দেহের বর্ণনা নিজ স্বামীর নিকট এমনভাবে না দেয়, যেন সে তাকে (ঐ নারীকে) দেখতে পাচ্ছে। [৫২৪০](আধুনিক প্রকাশনী- ৪৮৫৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 67 Hadith 174</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] Telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு பெண் இன்னொரு பெண்ணை (வெற்றுமேனியோடு) கட்டித் தழுவிட வேண்டாம். பின்னர் அவளைப் பற்றி இவள் தன் கணவனிடம், அவளை அவன் நேரில் பார்ப்பதைப் போன்று வர்ணனை செய்ய வேண்டாம். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.170 அத்தியாயம் : 67
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு பெண் இன்னொரு பெண்ணை (வெற்றுமேனியோடு) கட்டித் தழுவிட வேண்டாம். பின்னர் அவளைப் பற்றி இவள் தன் கணவனிடம், அவளை அவன் நேரில் பார்ப்பதைப் போன்று வர்ணனை செய்ய வேண்டாம். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.170 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 67 Hadith 174</td></tr></tbody></table></div>
 

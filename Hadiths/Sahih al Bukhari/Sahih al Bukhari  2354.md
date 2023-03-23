@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, অতিরিক্ত ঘাসে বাধা সৃষ্টির উদ্দেশে অতিরিক্ত পানি রুখে রাখবে না। (২৩৫৩, মুসলিম ২২/৮, হাঃ ১৫৬৬) (আধুনিক প্রকাশনীঃ ২১৮৩, ইসলামিক ফাউন্ডেশনঃ ২২০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, অতিরিক্ত ঘাসে বাধা সৃষ্টির উদ্দেশে অতিরিক্ত পানি রুখে রাখবে না। (২৩৫৩, মুসলিম ২২/৮, হাঃ ১৫৬৬) (আধুনিক প্রকাশনীঃ ২১৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2354</td></tr><tr><td>Arabic No</td><td>2354</td></tr><tr><td>Reference</td><td>Book 42 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (தேவைக்குமேல்) எஞ்சியுள்ள தண்ணீரைத் தடுக்காதீர்கள். (அவ்வாறு தடுத்தால், அப்பகுதியில்) தேவைக்குமேல் உள்ள புற்பூண்டுகளைத் தடுத்தவராக நீங்கள் ஆகிவிடுவீர்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 42
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (தேவைக்குமேல்) எஞ்சியுள்ள தண்ணீரைத் தடுக்காதீர்கள். (அவ்வாறு தடுத்தால், அப்பகுதியில்) தேவைக்குமேல் உள்ள புற்பூண்டுகளைத் தடுத்தவராக நீங்கள் ஆகிவிடுவீர்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2354</td></tr><tr><td>Arabic No</td><td>2354</td></tr><tr><td>Reference</td><td>Book 42 Hadith 4</td></tr></tbody></table></div>
 

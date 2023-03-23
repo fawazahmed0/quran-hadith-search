@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللهِ الصُّمُّ الْبُكْمُ الَّذِيْنَ لَا يَعْقِلُوْنَ সম্পর্কে তিনি বলেছেন যে, তারা হচ্ছে বানী আবদুদ্দার গোষ্ঠীর একটি দল। (আধুনিক প্রকাশনীঃ ৪২৮৫, ইসলামিক ফাউন্ডেশনঃ ৪২৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللهِ الصُّمُّ الْبُكْمُ الَّذِيْنَ لَا يَعْقِلُوْنَ সম্পর্কে তিনি বলেছেন যে, তারা হচ্ছে বানী আবদুদ্দার গোষ্ঠীর একটি দল। (আধুনিক প্রকাশনীঃ ৪২৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4646</td></tr><tr><td>Arabic No</td><td>4646</td></tr><tr><td>Reference</td><td>Book 65 Hadith 168</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஜாஹித் பின் ஜப்ர் (ரஹ்) அவர்கள் கூறியதாவது: உயிரினங்களிலேயே அல்லாஹ்விடம் மோசமானவர்கள், (உண்மையை) விளங்கிக்கொள்ளாத செவிடரும் ஊமையரும்தான் எனும் (8:22ஆவது) இறைவசனம் குறித்து இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறுகையில், “பனூ அப்தித் தார் குலத்தைச் சேர்ந்த சிலர்தான் அவர்கள்” என்று சொன்னார்கள்.2 அத்தியாயம் : 65
+முஜாஹித் பின் ஜப்ர் (ரஹ்) அவர்கள் கூறியதாவது: உயிரினங்களிலேயே அல்லாஹ்விடம் மோசமானவர்கள், (உண்மையை) விளங்கிக்கொள்ளாத செவிடரும் ஊமையரும்தான் எனும் (8:22ஆவது) இறைவசனம் குறித்து இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறுகையில், “பனூ அப்தித் தார் குலத்தைச் சேர்ந்த சிலர்தான் அவர்கள்” என்று சொன்னார்கள்.2 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4646</td></tr><tr><td>Arabic No</td><td>4646</td></tr><tr><td>Reference</td><td>Book 65 Hadith 168</td></tr></tbody></table></div>
 

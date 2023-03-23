@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮১৩, আন্তর্জাতিক নাম্বারঃ ৪১২ ৮১৩-(৮৩/...) আবূ রাবী' আয যাহরানী, আবূ বকর ইবনু আবূ শাইবাহ ও ইবনু নুমায়র (রহঃ) ..... হিশাম ইবনু উরওয়াহ্ (রহঃ) হতে উপরোল্লেখিত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮১০, ইসলামিক সেন্টারঃ ৮২২)
+আবূ রাবী' আয যাহরানী, আবূ বকর ইবনু আবূ শাইবাহ ও ইবনু নুমায়র (রহঃ) ..... হিশাম ইবনু উরওয়াহ্ (রহঃ) হতে উপরোল্লেখিত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮১০, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>927</td></tr><tr><td>Arabic No</td><td>412.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 89</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith is narrated with the same chain of transmitters by Hisham b. 'Urwa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 4
+மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>927</td></tr><tr><td>Arabic No</td><td>412.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 89</td></tr></tbody></table></div>
 

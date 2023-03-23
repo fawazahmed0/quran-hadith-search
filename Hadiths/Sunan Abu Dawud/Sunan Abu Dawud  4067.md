@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন উছমান (রহঃ) .... হিশাম ইবন গায (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আবদুল্লাহ (রাঃ) যে চাদর পরে ছিলেন, তা অধিক লাল বা সম্পূর্ণ গোলাপী রংয়ের ছিল না; বরং তা এ দুয়ের মাঝামাঝি রংয়ের।
+। হিশাম ইবনুল গায (রহঃ) বলেন, পূর্বের হাদীসেالْمُضَرَّجَةُ বলতে এমন রঙ বুঝানো হয়েছে যা গাঢ় লাল নয় এবং ফিকে লালও নয়।[1] সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4067</td></tr><tr><td>Arabic No</td><td>4067</td></tr><tr><td>Reference</td><td>Book 34 Hadith 48</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৮৪৮, আন্তর্জাতিক নাম্বারঃ ৮৪৯ ১৮৪৮-(৯/৮৪৯) মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন প্রত্যেক মুসলিমদের ওপর আল্লাহর অধিকার এই যে, সে প্রতি সাতদিন অন্তর গোসল করবে, মাথা ও দেহ ধৌত করবে। (ইসলামী ফাউন্ডেশন ১৮৩৩, ইসলামীক সেন্টার ১৮৪০)
+মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন প্রত্যেক মুসলিমদের ওপর আল্লাহর অধিকার এই যে, সে প্রতি সাতদিন অন্তর গোসল করবে, মাথা ও দেহ ধৌত করবে। (ইসলামী ফাউন্ডেশন ১৮৩৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1963</td></tr><tr><td>Arabic No</td><td>849</td></tr><tr><td>Reference</td><td>Book 7 Hadith 13</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஏழு நாட்களுக்கு ஒரு முறை (வெள்ளிக்கிழமை அன்று) தம் தலையையும் மேனியையும் கழுவிக் குளிப்பது, ஒவ்வொரு முஸ்லிமும் அல்லாஹ்விற்காகச் செய்ய வேண்டிய கடமையாகும்.- இதை அபூஹுரைரா (ரலி) அறிவிக்கிறார்கள். அத்தியாயம் : 7
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஏழு நாட்களுக்கு ஒரு முறை (வெள்ளிக்கிழமை அன்று) தம் தலையையும் மேனியையும் கழுவிக் குளிப்பது, ஒவ்வொரு முஸ்லிமும் அல்லாஹ்விற்காகச் செய்ய வேண்டிய கடமையாகும்.- இதை அபூஹுரைரா (ரலி) அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1963</td></tr><tr><td>Arabic No</td><td>849</td></tr><tr><td>Reference</td><td>Book 7 Hadith 13</td></tr></tbody></table></div>
 

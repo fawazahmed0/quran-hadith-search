@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৪৮৪, আন্তর্জাতিক নাম্বারঃ ২৫৮৬ ৬৪৮৪-(…/...) ইবনু নুমায়র (রহঃ) ..... নুমান ইবনু বাশীর (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৩৫৪, ইসলামিক সেন্টার ৬৪০৪)
+(…/...) ইবনু নুমায়র (রহঃ) ..... নুমান ইবনু বাশীর (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৩৫৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6590</td></tr><tr><td>Arabic No</td><td>2586.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 88</td></tr></tbody></table></div>
 

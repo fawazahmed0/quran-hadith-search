@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৩৩৮। আনাস (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার হিসাব নেয়া হবে সে তো আযাবপ্রাপ্ত হবে। হাসান সহীহ। আবূ ঈসা বলেন, এ হাদীসটি গারীব। আমরা শুধু কাতাদাহ্ হতে আনাস (রাযিঃ)-এর বরাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এই সূত্রে হাদীসটি অবগত হয়েছি।
+। আনাস (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার হিসাব নেয়া হবে সে তো আযাবপ্রাপ্ত হবে। হাসান সহীহ। আবূ ঈসা বলেন, এ হাদীসটি গারীব। আমরা শুধু কাতাদাহ্ হতে আনাস (রাযিঃ)-এর বরাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এই সূত্রে হাদীসটি অবগত হয়েছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3338</td></tr><tr><td>Arabic No</td><td>3338</td></tr><tr><td>Reference</td><td>Book 47 Hadith 390</td></tr></tbody></table></div>
 

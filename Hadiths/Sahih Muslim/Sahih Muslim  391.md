@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৮২, আন্তর্জাতিক নাম্বারঃ ১৫৫ ২৮২-(২৪৩/...) কুতাইবাহ ইবনু সাঈদ (রাযিঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আল্লাহর কসম ঈসা ইবনু মারইয়াম (আঃ) অবশ্যই ন্যায়পরায়ণ প্রশাসকরূপে আসবেন এবং ক্রুশ চূর্ণ করবেন, শুকর হত্যা করবেন, জিযয়াহ্ তথা কর রহিত করবেন। মোটা তাজা উটগুলো বন্ধনমুক্ত করে দেয়া হবে কিন্তু তা নেয়ার জন্য কেউ চেষ্টা করবে না। পরস্পর শত্রুতা, হিংসা-বিদ্বেষ থাকবে না এবং সম্পদ গ্রহণের জন্য মানুষকে ডাকা হবে কিন্তু তা কেউ গ্রহণ করবে না। (ইসলামিক ফাউন্ডেশনঃ ২৮৮ ইসলামিক সেন্টারঃ ২৯৯)
+কুতাইবাহ ইবনু সাঈদ (রাযিঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আল্লাহর কসম ঈসা ইবনু মারইয়াম (আঃ) অবশ্যই ন্যায়পরায়ণ প্রশাসকরূপে আসবেন এবং ক্রুশ চূর্ণ করবেন, শুকর হত্যা করবেন, জিযয়াহ্ তথা কর রহিত করবেন। মোটা তাজা উটগুলো বন্ধনমুক্ত করে দেয়া হবে কিন্তু তা নেয়ার জন্য কেউ চেষ্টা করবে না। পরস্পর শক্রতা, হিংসা-বিদ্বেষ থাকবে না এবং সম্পদ গ্রহণের জন্য মানুষকে ডাকা হবে কিন্তু তা কেউ গ্রহণ করবে না। (ইসলামিক ফাউন্ডেশনঃ ২৮৮ ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>391</td></tr><tr><td>Arabic No</td><td>155.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 296</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepadakam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் மீதாணையாக! (உலக அழிவுக்கு முன்) மர்யமின் மைந்தர் (ஈசா, உங்களிடையே) நேர்மையாகத் தீர்ப்பளிக்கும் நீதிபதியாக இறங்கவிருக்கிறார். அவர் சிலுவையை உடைப்பார்; பன்றியைக் கொல்வார்; ஜிஸ்யா (எனும் காப்பு)வரியை வாங்க மறுப்பார்; அப்போது (உயர்ந்த செல்வமான) ஒட்டகங்கள் அப்படியே விடப்படும். அவற்றை யாரும் தேடி அலையமாட்டார்கள். (அந்த நேரத்தில் மக்களிடையே) பகைமையும் வெறுப்பும் போட்டி பொறாமையும் அகன்றுவிடும். செல்வங்களைப் பெற்றுக்கொள்ளுமாறு மக்கள் அழைக்கப்படுவார்கள். ஆனால், அதை யாரும் ஏற்கமாட்டார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 1
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் மீதாணையாக! (உலக அழிவுக்கு முன்) மர்யமின் மைந்தர் (ஈசா, உங்களிடையே) நேர்மையாகத் தீர்ப்பளிக்கும் நீதிபதியாக இறங்கவிருக்கிறார். அவர் சிலுவையை உடைப்பார்; பன்றியைக் கொல்வார்; ஜிஸ்யா (எனும் காப்பு)வரியை வாங்க மறுப்பார்; அப்போது (உயர்ந்த செல்வமான) ஒட்டகங்கள் அப்படியே விடப்படும். அவற்றை யாரும் தேடி அலையமாட்டார்கள். (அந்த நேரத்தில் மக்களிடையே) பகைமையும் வெறுப்பும் போட்டி பொறாமையும் அகன்றுவிடும். செல்வங்களைப் பெற்றுக்கொள்ளுமாறு மக்கள் அழைக்கப்படுவார்கள். ஆனால், அதை யாரும் ஏற்கமாட்டார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>391</td></tr><tr><td>Arabic No</td><td>155.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 296</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepadakam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Kuteybetü'bnü Said rivayet etti. (Dedi ki): Bize Leys, Said b. Ebî Said'den, o da Atâ' b. Minâ'dan, o da Ebu Hureyre'den naklen onun şöyle dediğini rivayet eyledi: Resulullâh (Sallallahu Aleyhi ve Sellem) : ''Allah'a yemin ederim ki, Meryem oğlu adaletli bir hakem olarak inecek. Andolsun haç'ı kıracak, domuzu öldürecek, cizyeyi kaldıracaktır. Andolsun genç dişi develer başıboş bırakılacak, onlara rağbet edilmeyecek, onlar önemsenmeyecektir. Düşmanlıklar, buğzlaşmalar ve kıskançlıklar kaybolup gidecektir. Andolsun insanlar mala (almaları için) çağrılacaklar fakat kimse onu kabul etmeyecektir. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 14208
+Bize Kuteybetü'bnü Said rivayet etti. (Dedi ki): Bize Leys, Said b. Ebî Said'den, o da Atâ' b. Minâ'dan, o da Ebu Hureyre'den naklen onun şöyle dediğini rivayet eyledi: Resulullâh (Sallallahu Aleyhi ve Sellem) : ''Allah'a yemin ederim ki, Meryem oğlu adaletli bir hakem olarak inecek. Andolsun haç'ı kıracak, domuzu öldürecek, cizyeyi kaldıracaktır. Andolsun genç dişi develer başıboş bırakılacak, onlara rağbet edilmeyecek, onlar önemsenmeyecektir. Düşmanlıklar, buğzlaşmalar ve kıskançlıklar kaybolup gidecektir. Andolsun insanlar mala (almaları için) çağrılacaklar fakat kimse onu kabul etmeyecektir. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>391</td></tr><tr><td>Arabic No</td><td>155.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 296</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুজাহিদ (রহ.) হতে বর্ণিত যে, এক ব্যক্তি ইবনু ‘উমার (রাযি.)-এর নিকট এলেন, এবং বললেনঃ ইনি হলেন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম , তিনি কা‘বা ঘরে প্রবেশ করেছেন। ইবনু ‘উমার বলেনঃ আমি সেদিকে এগিয়ে গেলাম এবং দেখলাম যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কা’বা হতে বেরিয়ে পড়েছেন। আমি বিলাল (রাযি.)-কে দুই কপাটের মাঝখানে দাঁড়ানো দেখে জিজ্ঞেস করলাম, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি কা‘বা ঘরের অভ্যন্তরে সালাত আদায় করেছেন? তিনি জবাব দিলেন, হাঁ, কা‘বায় প্রবেশ করার সময় তোমার বাঁ দিকের দুই স্তম্ভের মাঝখানে দু’ রাক‘আত সালাত আদায় করেছেন। অতঃপর তিনি বের হলেন এবং কা‘বার সামনে দু’রাক‘আত সালাত আদায় করলেন। (৪৬৮, ৫০৪, ৫০৫, ৫০৬, ১১৬৭, ১৫৯৮, ১৫৯৯, ২৯৮৮, ৪২৮৯, ৪৪০০) (আধুনিক প্রকাশনীঃ ,৩৮২ ইসলামিক ফাউন্ডেশনঃ ৩৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুজাহিদ (রহ.) হতে বর্ণিত যে, এক ব্যক্তি ইবনু ‘উমার (রাযি.)-এর নিকট এলেন, এবং বললেনঃ ইনি হলেন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম , তিনি কা‘বা ঘরে প্রবেশ করেছেন। ইবনু ‘উমার বলেনঃ আমি সেদিকে এগিয়ে গেলাম এবং দেখলাম যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কা’বা হতে বেরিয়ে পড়েছেন। আমি বিলাল (রাযি.)-কে দুই কপাটের মাঝখানে দাঁড়ানো দেখে জিজ্ঞেস করলাম, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি কা‘বা ঘরের অভ্যন্তরে সালাত আদায় করেছেন? তিনি জবাব দিলেন, হাঁ, কা‘বায় প্রবেশ করার সময় তোমার বাঁ দিকের দুই স্তম্ভের মাঝখানে দু’ রাক‘আত সালাত আদায় করেছেন। অতঃপর তিনি বের হলেন এবং কা‘বার সামনে দু’রাক‘আত সালাত আদায় করলেন। (৪৬৮, ৫০৪, ৫০৫, ৫০৬, ১১৬৭, ১৫৯৮, ১৫৯৯, ২৯৮৮, ৪২৮৯, ৪৪০০) (আধুনিক প্রকাশনীঃ ,৩৮২ ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>397</td></tr><tr><td>Arabic No</td><td>397</td></tr><tr><td>Reference</td><td>Book 8 Hadith 48</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஜாஹித் பின் ஜப்ர் (ரஹ்) அவர்கள் கூறியதாவது: (மக்கா வெற்றி நாளில்) இப்னு உமர் (ரலி) அவர்களிடம், “இதோ அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் கஅபாவிற் குள் நுழைந்துவிட்டார்கள்” என்று சொல்லப்பட்டது. (பிறகு நடந்ததை) இப்னு உமர் (ரலி) அவர்கள் கூறுகிறார்கள்: நபி (ஸல்) அவர்கள் (கஅபாவிற்குள் ளிருந்து) வெளியே வந்துகொண்டிருந்த போது நான் அங்கு சென்றேன். அப்போது பிலால் (ரலி) அவர்கள் கதவின் இரு நிலைக்கால்களுக்கிடையே நின்றுகொண்டி ருப்பதைக் கண்டேன். உடனே நான் பிலால் (ரலி) அவர்களிடம், “கஅபாவிற் குள் நபி (ஸல்) அவர்கள் தொழுதார்களா?” என்று கேட்டேன். அதற்கு அவர்கள், “ஆம்; நீங்கள் கஅபாவிற்குள் நுழையும்போது இடப் பக்கமிருக்கின்ற இரு தூண்களுக்கு மத்தியில் இரண்டு ரக்அத்கள் தொழுதார் கள்; பிறகு வெளியே வந்து கஅபாவின் கதவை முன்னோக்கியபடி இரண்டு ரக்அத்கள் தொழுதார்கள்” என்றார்கள். அத்தியாயம் : 8
+முஜாஹித் பின் ஜப்ர் (ரஹ்) அவர்கள் கூறியதாவது: (மக்கா வெற்றி நாளில்) இப்னு உமர் (ரலி) அவர்களிடம், “இதோ அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் கஅபாவிற் குள் நுழைந்துவிட்டார்கள்” என்று சொல்லப்பட்டது. (பிறகு நடந்ததை) இப்னு உமர் (ரலி) அவர்கள் கூறுகிறார்கள்: நபி (ஸல்) அவர்கள் (கஅபாவிற்குள் ளிருந்து) வெளியே வந்துகொண்டிருந்த போது நான் அங்கு சென்றேன். அப்போது பிலால் (ரலி) அவர்கள் கதவின் இரு நிலைக்கால்களுக்கிடையே நின்றுகொண்டி ருப்பதைக் கண்டேன். உடனே நான் பிலால் (ரலி) அவர்களிடம், “கஅபாவிற் குள் நபி (ஸல்) அவர்கள் தொழுதார்களா?” என்று கேட்டேன். அதற்கு அவர்கள், “ஆம்; நீங்கள் கஅபாவிற்குள் நுழையும்போது இடப் பக்கமிருக்கின்ற இரு தூண்களுக்கு மத்தியில் இரண்டு ரக்அத்கள் தொழுதார் கள்; பிறகு வெளியே வந்து கஅபாவின் கதவை முன்னோக்கியபடி இரண்டு ரக்அத்கள் தொழுதார்கள்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>397</td></tr><tr><td>Arabic No</td><td>397</td></tr><tr><td>Reference</td><td>Book 8 Hadith 48</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Süleyman Mücahid'den şöyle işittiğini nakletmektedir: "İbn Ömer'e gelip 'İşte Allah'ın Nebi'i Ka'be'ye girdi (ve tavaf namazını orada kıldı) dediler. O da şöyle karşılık verdi: 'Ben vardığım zaman, Allah Resulü Sallallahu Aleyhi ve Sellem Ka'be'den çıkmıştı. Kapı aralığında Bilal ile karşılaştım. Ona 'Nebi Sallallahu Aleyhi ve Sellem Ka'be'de namaz kıldı mı?' diye sordum. O da şöyle cevap verdi: Evet, içeri girerken sol tarafında bulunan iki sütunun arasında iki rek'at namaz kıldı. Sonra dışarı çıkıp Ka'be'ye yönelerek iki rekat namaz kıldı. Tekrar: 468, 504, 505, 506, 1167, 1598, 1599, 2988, 4289, 4400
+İbn Süleyman Mücahid'den şöyle işittiğini nakletmektedir: "İbn Ömer'e gelip 'İşte Allah'ın Nebi'i Ka'be'ye girdi (ve tavaf namazını orada kıldı) dediler. O da şöyle karşılık verdi: 'Ben vardığım zaman, Allah Resulü Sallallahu Aleyhi ve Sellem Ka'be'den çıkmıştı. Kapı aralığında Bilal ile karşılaştım. Ona 'Nebi Sallallahu Aleyhi ve Sellem Ka'be'de namaz kıldı mı?' diye sordum. O da şöyle cevap verdi: Evet, içeri girerken sol tarafında bulunan iki sütunun arasında iki rek'at namaz kıldı. Sonra dışarı çıkıp Ka'be'ye yönelerek iki rekat namaz kıldı. Tekrar: 468, 504, 505, 506, 1167
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>397</td></tr><tr><td>Arabic No</td><td>397</td></tr><tr><td>Reference</td><td>Book 8 Hadith 48</td></tr></tbody></table></div>
 

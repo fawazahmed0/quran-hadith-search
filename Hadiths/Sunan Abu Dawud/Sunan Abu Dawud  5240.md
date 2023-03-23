@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাখনাদ ইবন খালিদ (রহঃ) ..... উরওয়া ইবন যুবায়র (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে উক্ত হাদীছটি মারফূ হিসাবে বর্ণনা করেছেন।
+। উরওয়াহ ইবনুয যুবায়র (রহঃ) সূত্রে বর্ণিত। তিনি হাদীসের সনদ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পর্যন্ত উন্নীত করে পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেছেন।[1] আমি এটি সহীহ এবং যঈফে পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5240</td></tr><tr><td>Arabic No</td><td>5240</td></tr><tr><td>Reference</td><td>Book 43 Hadith 468</td></tr></tbody></table></div>
 

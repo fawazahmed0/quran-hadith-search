@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৭১৩, আন্তর্জাতিক নাম্বারঃ ১১৮৮ ২৭১৩-(৩০/১১৮৮) হারমালাহ ইবনু ইয়াহইয়া ও আহমাদ ইবনু ঈসা (রহিমাহমাল্লাহ) ..... আবদুল্লাহ ইবনু উমার (রাযিঃ) বলেন, হাজ্জের অনুষ্ঠানাদি শুরু করার প্রারম্ভে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল হুলায়ফায় রাত যাপন করেন এবং এখানকার মসজিদে সালাত (সালাত/নামাজ/নামায) আদায় করেন। (ইসলামিক ফাউন্ডেশন ২৬৯০, ইসলামীক সেন্টার ২৬৮৯)
+হারমালাহ ইবনু ইয়াহইয়া ও আহমাদ ইবনু ঈসা (রহিমাহমাল্লাহ) ..... আবদুল্লাহ ইবনু উমার (রাযিঃ) বলেন, হাজ্জের অনুষ্ঠানাদি শুরু করার প্রারম্ভে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল হুলায়ফায় রাত যাপন করেন এবং এখানকার মসজিদে সালাত (সালাত/নামাজ/নামায) আদায় করেন। (ইসলামিক ফাউন্ডেশন ২৬৯০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2823</td></tr><tr><td>Arabic No</td><td>1188</td></tr><tr><td>Reference</td><td>Book 15 Hadith 33</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepadaku [Harmalah bin Yahya] dan [Ahmad bin Isa] -Ahmad 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது ஒட்டகம் நிலைக்கு வந்து பயணத்திற்குத் தயாரான போது "தல்பியா" கூறினார்கள். அத்தியாயம் : 15
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது ஒட்டகம் நிலைக்கு வந்து பயணத்திற்குத் தயாரான போது "தல்பியா" கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2823</td></tr><tr><td>Arabic No</td><td>1188</td></tr><tr><td>Reference</td><td>Book 15 Hadith 33</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন আল্ সারহ ...... আমর ইবন শু‘আয়ব (রহঃ) তাঁর পিতা হতে, তিনি তাঁর দাদা হতে, তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে পূর্বোক্ত হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন। তবে রাবী ইবন আল্ সারহ অতিরিক্ত বর্ণনা করেছেন যে, কেবল আল্লাহ্ তা‘আলার ইবাদত সংক্রান্ত মান্নত ছাড়া অপর কোন মান্নতই হয় না।
+। আমর ইবনু শু‘আইব (রহ.) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, অতঃপর পূর্বোক্ত হাদীসের অনুরূপ। এতে আরো রয়েছেঃ মহান আল্লাহ সন্তুষ্টির জন্য যে মান্নত করা হয় কেবল তাই পূরণ করতে হয়।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>2192</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
 

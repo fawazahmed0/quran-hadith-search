@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮৯৬। যুহরী (রহঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে প্রশ্ন করা হল, কোন প্রকার পানীয় দ্রব্য বেশি ভাল? তিনি বললেনঃ ঠাণ্ডা মিষ্টি শরবত। সহীহ, দেখুন পূর্বের হাদীস আবূ ঈসা বলেন, এ হাদীসটি আবদুর রাযযাক (রাহঃ) মামার হতে, তিনি যুহরী হতে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সূত্রে একইভাবে মুরসালরূপে বর্ণনা করেছেন। এটি ইবনু উয়াইনার রিওয়ায়াতের চাইতে অনেক বেশি সহীহ।
+। যুহরী (রহঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে প্রশ্ন করা হল, কোন প্রকার পানীয় দ্রব্য বেশি ভাল? তিনি বললেনঃ ঠাণ্ডা মিষ্টি শরবত। সহীহ, দেখুন পূর্বের হাদীস আবূ ঈসা বলেন, এ হাদীসটি আবদুর রাযযাক (রাহঃ) মামার হতে, তিনি যুহরী হতে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সূত্রে একইভাবে মুরসালরূপে বর্ণনা করেছেন। এটি ইবনু উয়াইনার রিওয়ায়াতের চাইতে অনেক বেশি সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1896</td></tr><tr><td>Arabic No</td><td>1896</td></tr><tr><td>Reference</td><td>Book 26 Hadith 37</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Az-Zuhri: "The Prophet (ﷺ) was asked: 'Which drink is the best ?' He said: 'The sweet, cool drink." [Abu 'Eisa said:] This is how 'Abdur-Razzaq reported it from Ma'mar, from Az-Zuhri, from the Prophet (ﷺ) in Mursal form. This is more correct that the narration of Ibn 'Uyainah (no. 1895)
+Narrated Az-Zuhri: "The Prophet (ﷺ) was asked: 'Which drink is the best ?' He said: 'The sweet, cool drink." [Abu 'Eisa said:] This is how 'Abdur-Razzaq reported it from Ma'mar, from Az-Zuhri, from the Prophet (ﷺ) in Mursal form. This is more correct that the narration of Ibn 'Uyainah (no)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1896</td></tr><tr><td>Arabic No</td><td>1896</td></tr><tr><td>Reference</td><td>Book 26 Hadith 37</td></tr></tbody></table></div>
 

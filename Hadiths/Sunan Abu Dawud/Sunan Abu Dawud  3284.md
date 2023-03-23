@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। এক ব্যক্তি একটি কালো দাসী নিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বললো, হে আল্লাহর রাসূল! আমাকে একটি মু‘মিন দাসী আযাদ করতে হবে। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) দাসীটিকে জিজ্ঞেস করলেনঃ আল্লাহ কোথায়? সে তার হাতের আঙ্গুল আসমানের দিকে ইশারা করলো। তিনি তাকে পুনরায় জিজ্ঞেস করলেনঃ আমি কে? সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও আকাশের দিকে ইশারা করে বললো, আপনি আল্লাহর রাসূল। তিনি বলেনঃ তুমি তাকে আযাদ করে দাও, কেননা সে মু‘মিন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3284</td></tr><tr><td>Arabic No</td><td>3284</td></tr><tr><td>Reference</td><td>Book 22 Hadith 43</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3820</td></tr><tr><td>Arabic No</td><td>3820</td></tr><tr><td>Reference</td><td>Book 63 Hadith 45</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Abu Huraira: Gabriel came to the Prophet (ﷺ) and said, "O Allah's Mes
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) நபி (ஸல்) அவர்களிடம் (வானவர்) ஜிப்ரீல் (அலை) அவர்கள் வந்தார்கள். “அல்லாஹ்வின் தூதரே! இதோ, கதீஜா தம்முடன் ஒரு பாத்திரத்தில் “குழம்பு' அல்லது “உணவு' அல்லது”பானம்' எடுத்துக்கொண்டு உங்களை நோக்கி வந்துகொண்டிருக்கிறார். அவர் உங்களிடம் வந்தவுடன் அவருக்கு அவருடைய இறைவனின் தரப்பிலிருந்தும் என் தரப்பிலிருந்தும் சலாம் கூறி அவருக்குச் சொர்க்கத்தில் கூச்சல் குழப்பமோ களைப்போ காண முடியாத, முத்து மாளிகை ஒன்று தரப்படவிருப்பதாக நற்செய்தி சொல்லுங்கள்” என்று சொன்னார்கள். அத்தியாயம் : 63
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) நபி (ஸல்) அவர்களிடம் (வானவர்) ஜிப்ரீல் (அலை) அவர்கள் வந்தார்கள். “அல்லாஹ்வின் தூதரே! இதோ, கதீஜா தம்முடன் ஒரு பாத்திரத்தில் “குழம்பு' அல்லது “உணவு' அல்லது”பானம்' எடுத்துக்கொண்டு உங்களை நோக்கி வந்துகொண்டிருக்கிறார். அவர் உங்களிடம் வந்தவுடன் அவருக்கு அவருடைய இறைவனின் தரப்பிலிருந்தும் என் தரப்பிலிருந்தும் சலாம் கூறி அவருக்குச் சொர்க்கத்தில் கூச்சல் குழப்பமோ களைப்போ காண முடியாத, முத்து மாளிகை ஒன்று தரப்படவிருப்பதாக நற்செய்தி சொல்லுங்கள்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3820</td></tr><tr><td>Arabic No</td><td>3820</td></tr><tr><td>Reference</td><td>Book 63 Hadith 45</td></tr></tbody></table></div>
 

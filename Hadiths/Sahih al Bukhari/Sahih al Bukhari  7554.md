@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, আল্লাহ্ সমস্ত সৃষ্টিকে সৃষ্টি করার আগে একটি লেখা লিখে রেখেছেন। তা হলো ‘‘আমার গযবের উপর আমার রহমত অগ্রগামী হয়েছে’’, এটি তাঁরই নিকটে আরশের ওপর লেখা আছে। [৩১৯৪] (আধুনিক প্রকাশনী- ৭০৩৩, ইসলামিক ফাউন্ডেশন- ৭০৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, আল্লাহ্ সমস্ত সৃষ্টিকে সৃষ্টি করার আগে একটি লেখা লিখে রেখেছেন। তা হলো ‘‘আমার গযবের উপর আমার রহমত অগ্রগামী হয়েছে’’, এটি তাঁরই নিকটে আরশের ওপর লেখা আছে। [৩১৯৪] (আধুনিক প্রকাশনী- ৭০৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7554</td></tr><tr><td>Arabic No</td><td>7554</td></tr><tr><td>Reference</td><td>Book 97 Hadith 179</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Hurairah (ra):I heard Allah's Messenger (ﷺ) saying: "Before Allah created the creations, He wrote a Book (wherein He has written): "My Mercy has preceded my Anger.' And that is written with Him over the Throne." (see Hadith 3194)
+Narrated Abu Hurairah (ra):I heard Allah's Messenger (ﷺ) saying: "Before Allah created the creations, He wrote a Book (wherein He has written): "My Mercy has preceded my Anger.' And that is written with Him over the Throne." (see Hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7554</td></tr><tr><td>Arabic No</td><td>7554</td></tr><tr><td>Reference</td><td>Book 97 Hadith 179</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Abu Ghalib] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் படைப்புகளைப் படைப்ப தற்கு முன்பாக தனக்குத்தானே விதி யொன்றை எழுதிக்கொண்டான். ‘என் கருணை என் கோபத்தை முந்திவிட்டது’ என்பதுதான் அந்த விதி. அது அவனிட முள்ள அரியணைக்கு மேலேயே எழுதப்பட்டுள்ளது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் படைப்புகளைப் படைப்ப தற்கு முன்பாக தனக்குத்தானே விதி யொன்றை எழுதிக்கொண்டான். ‘என் கருணை என் கோபத்தை முந்திவிட்டது’ என்பதுதான் அந்த விதி. அது அவனிட முள்ள அரியணைக்கு மேலேயே எழுதப்பட்டுள்ளது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7554</td></tr><tr><td>Arabic No</td><td>7554</td></tr><tr><td>Reference</td><td>Book 97 Hadith 179</td></tr></tbody></table></div>
 

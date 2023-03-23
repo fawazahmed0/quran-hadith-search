@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩২১, আন্তর্জাতিক নাম্বারঃ ২০৭৫ ৫৩২১-(.../...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... ইয়াযীদ ইবনু আবূ হাবীব (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীসটি বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৫২৫৪, ইসলামিক সেন্টার ৫২৬৭)
+মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... ইয়াযীদ ইবনু আবূ হাবীব (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীসটি বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৫২৫৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5428</td></tr><tr><td>Arabic No</td><td>2075.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 43</td></tr></tbody></table></div>
 

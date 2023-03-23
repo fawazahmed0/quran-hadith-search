@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মুল ‘মুমিনীন ‘আয়িশাহ (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ক্বিবলা (কিবলা/কেবলা)হর দিকের দেয়ালে নাকের শ্লেষ্মা, থুথু কিংবা কফ দেখলেন এবং তা পরিষ্কার করলেন। (আধুনিক প্রকাশনীঃ ৩৯২, ইসলামিক ফাউন্ডেশনঃ ৩৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মুল ‘মুমিনীন ‘আয়িশাহ (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ক্বিবলা (কিবলা/কেবলা)হর দিকের দেয়ালে নাকের শ্লেষ্মা, থুথু কিংবা কফ দেখলেন এবং তা পরিষ্কার করলেন। (আধুনিক প্রকাশনীঃ ৩৯২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>407</td></tr><tr><td>Arabic No</td><td>407</td></tr><tr><td>Reference</td><td>Book 8 Hadith 59</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (பள்ளிவாச-ன்) கிப்லா திசையிலுள்ள சுவரில் ‘மூக்குச்சளியை’ அல்லது ‘எச் சிலை’ அல்லது ‘காறல் சளியை’க் கண்டார் கள். உடனே அதைச் சுரண்டி (தூய்மைப் படுத்தி)விட்டார்கள். அத்தியாயம் : 8
+இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (பள்ளிவாச-ன்) கிப்லா திசையிலுள்ள சுவரில் ‘மூக்குச்சளியை’ அல்லது ‘எச் சிலை’ அல்லது ‘காறல் சளியை’க் கண்டார் கள். உடனே அதைச் சுரண்டி (தூய்மைப் படுத்தி)விட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>407</td></tr><tr><td>Arabic No</td><td>407</td></tr><tr><td>Reference</td><td>Book 8 Hadith 59</td></tr></tbody></table></div>
 

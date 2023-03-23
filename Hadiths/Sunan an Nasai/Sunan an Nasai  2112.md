@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। মুহাম্মাদ ইবনু আবদুল আযীয (রহঃ) ... ইবনু আব্বাস (রাঃ) থেকে বর্ণিত যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এক বেদুঈন এসে বললো যে, আমি চাঁদ দেখেছি, তখন রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন যে, তুমি কি সাক্ষ্য দাও যে, আল্লাহ ছাড়া অন্য কোন মা’বুদ নাই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার বান্দা এবং রাসুল? সে বললো, হ্যাঁ। তখন রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘোষণা দিলেন যে, তোমরা সবাই সাওম (সিয়াম/রোজা/রোযা) পালন কর।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2112</td></tr><tr><td>Arabic No</td><td>2112</td></tr><tr><td>Reference</td><td>Book 22 Hadith 23</td></tr></tbody></table></div>
 

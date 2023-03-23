@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহর, ‘আসর, মাগরিব ও ‘ইশার সালাত আদায়ের পর মুহাস্সাবে কিছুক্ষণ শুয়ে থাকেন, পরে সওয়ার হয়ে বাইতুল্লাহর দিকে গেলেন এবং বাইতুল্লাহর তাওয়াফ করলেন। (১৭৫৬) (আধুনিক প্রকাশনীঃ ১৬৪০. ইসলামিক ফাউন্ডেশনঃ ১৬৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহর, ‘আসর, মাগরিব ও ‘ইশার সালাত আদায়ের পর মুহাস্সাবে কিছুক্ষণ শুয়ে থাকেন, পরে সওয়ার হয়ে বাইতুল্লাহর দিকে গেলেন এবং বাইতুল্লাহর তাওয়াফ করলেন। (১৭৫৬) (আধুনিক প্রকাশনীঃ ১৬৪০. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1764</td></tr><tr><td>Arabic No</td><td>1764</td></tr><tr><td>Reference</td><td>Book 25 Hadith 240</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdul Muta'al bin Tholib] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (நஃப்ருடைய நாளில்) லுஹ்ர், அஸ்ர், மஃக்ரிப், இஷா ஆகிய தொழுகைகளை அல்முஹஸ்ஸ பில் நிறைவேற்றிவிட்டு சிறிது நேரம் உறங்கினார்கள். பிறகு வாகனத்தில் ஏறி, இறையில்லம் கஅபாவை தவாஃப் செய்தார்கள். அத்தியாயம் : 25
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (நஃப்ருடைய நாளில்) லுஹ்ர், அஸ்ர், மஃக்ரிப், இஷா ஆகிய தொழுகைகளை அல்முஹஸ்ஸ பில் நிறைவேற்றிவிட்டு சிறிது நேரம் உறங்கினார்கள். பிறகு வாகனத்தில் ஏறி, இறையில்லம் கஅபாவை தவாஃப் செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1764</td></tr><tr><td>Arabic No</td><td>1764</td></tr><tr><td>Reference</td><td>Book 25 Hadith 240</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে চুলে আঠালো বস্তু লাগিয়ে ইহরাম বেঁধে তালবিয়া পাঠ করতে শুনেছি। (১৫৪৯, ৫৯১৪, ৫৯১৫, মুসলিম ১৫/৩, হাঃ ১১৮৪) (আধুনিক প্রকাশনীঃ ১৪৩৯, ইসলামিক ফাউন্ডেশনঃ ১৪৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে চুলে আঠালো বস্তু লাগিয়ে ইহরাম বেঁধে তালবিয়া পাঠ করতে শুনেছি। (১৫৪৯, ৫৯১৪, ৫৯১৫, মুসলিম ১৫/৩, হাঃ ১১৮৪) (আধুনিক প্রকাশনীঃ ১৪৩৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1540</td></tr><tr><td>Arabic No</td><td>1540</td></tr><tr><td>Reference</td><td>Book 25 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ashbagh] telah mengabarkan kepada kami [Ibnu Wah
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது தலைமுடியில் களிம்பு தடவி படிய வைத்திருந்த நிலையில் ‘தல்பியா’ கூறியதைச் செவியுற்றேன். அத்தியாயம் : 25
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது தலைமுடியில் களிம்பு தடவி படிய வைத்திருந்த நிலையில் ‘தல்பியா’ கூறியதைச் செவியுற்றேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1540</td></tr><tr><td>Arabic No</td><td>1540</td></tr><tr><td>Reference</td><td>Book 25 Hadith 27</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ashbagh] telah mengabarkan kepada kami [Ibnu Wah
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Salim, babasının şöyle dediğini nakletmiştir: "Ben Resûlullah Sallallahu Aleyhi ve Sellem'i dağılmaması için saçlarına yapışkan bir madde sürmüş halde telbiye getirirken işittim." Tekrar: 1549, 5914, 5915
+Salim, babasının şöyle dediğini nakletmiştir: "Ben Resûlullah Sallallahu Aleyhi ve Sellem'i dağılmaması için saçlarına yapışkan bir madde sürmüş halde telbiye getirirken işittim." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1540</td></tr><tr><td>Arabic No</td><td>1540</td></tr><tr><td>Reference</td><td>Book 25 Hadith 27</td></tr></tbody></table></div>
 

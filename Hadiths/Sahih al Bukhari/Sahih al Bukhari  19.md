@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সেদিন দূরে নয়, যেদিন মুসলিমের উত্তম সম্পদ হবে কয়েকটি বকরী, যা নিয়ে সে পাহাড়ের চূড়ায় অথবা বৃষ্টিপাতের স্থানে চলে যাবে। ফিতনা হতে সে তার ধর্ম সহকারে পলায়ন করবে। (৩৩০০, ৩৬০০, ৬৪৯৫, ৭০৮৮) (১৮, ইসলামিক ফাউন্ডেশনঃ ১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সেদিন দূরে নয়, যেদিন মুসলিমের উত্তম সম্পদ হবে কয়েকটি বকরী, যা নিয়ে সে পাহাড়ের চূড়ায় অথবা বৃষ্টিপাতের স্থানে চলে যাবে। ফিতনা হতে সে তার ধর্ম সহকারে পলায়ন করবে। (৩৩০০, ৩৬০০, ৬৪৯৫, ৭০৮৮) (১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>19</td></tr><tr><td>Arabic No</td><td>19</td></tr><tr><td>Reference</td><td>Book 2 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abdurr
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு முஸ்லிமின் செல்வங்களிலேயே ஆடுதான் சிறந்த செல்வமாக இருக்கும் நிலை தோன்றக்கூடும். அவர் குழப்பங் களிலிருந்து தமது மார்க்க (விசுவாச)த் தைக் காத்துக்கொள்ள அந்த ஆட்டை ஓட்டிக்கொண்டு மலைகளின் உச்சிக்கும் மழை பொழியும் (கனவாய், பள்ளத்தாக்கு போன்ற) இடங்களுக்கும் சென்றுவிடுவார். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 2
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு முஸ்லிமின் செல்வங்களிலேயே ஆடுதான் சிறந்த செல்வமாக இருக்கும் நிலை தோன்றக்கூடும். அவர் குழப்பங் களிலிருந்து தமது மார்க்க (விசுவாச)த் தைக் காத்துக்கொள்ள அந்த ஆட்டை ஓட்டிக்கொண்டு மலைகளின் உச்சிக்கும் மழை பொழியும் (கனவாய், பள்ளத்தாக்கு போன்ற) இடங்களுக்கும் சென்றுவிடுவார். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>19</td></tr><tr><td>Arabic No</td><td>19</td></tr><tr><td>Reference</td><td>Book 2 Hadith 12</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abdurr
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: "Müslümanın en hayırlı malının koyun olması yakındır. Dağ başlarında ve yağmur suyunun biriktiği yerlerde (vadi ortalarında) onları gezdirir de bu sayede dinini fitnelerden korumuş olur Tekrar: 3300, 3600, 6495, 7088
+Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: "Müslümanın en hayırlı malının koyun olması yakındır. Dağ başlarında ve yağmur suyunun biriktiği yerlerde (vadi ortalarında) onları gezdirir de bu sayede dinini fitnelerden korumuş olur Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>19</td></tr><tr><td>Arabic No</td><td>19</td></tr><tr><td>Reference</td><td>Book 2 Hadith 12</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হামিদ ইবন ইয়াহইয়া .... সিনান ইবন সালামা ইবন মুহাব্বাক আল্ হুযালী (রহঃ) তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তির আরোহণের জন্য কোন বাহন থাকবে, বা তাকে নিরাপদে গন্তব্যস্থানে পৌঁছে দিবে, সে ব্যক্তির উচিত রামাযানের রোযা (কাযা না করে) আদায় করা, যেখানেই তা পাবে। (অর্থাৎ সফরের মধ্যে যেখানেই রামাযান মাস এসে পড়ে সেখানে সক্ষম ব্যক্তির জন্য রোযা রাখা উত্তম, যদিও কাযা করা জায়িয)।
+। সিনান ইবনু সালামাহ ইবনুল মুহাব্বাক আল-হুযালী (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তির কাছে এমন বাহন আছে যা তাকে পর্যাপ্ত আহারের স্থানে পৌঁছে দিবে, তার উচিত রমাযানের সওম পালন করা যেখানেই সে (রমাযান মাস) পাবে।[1] দুর্বলঃ যঈফ আল জামি‘উস সাগীর (৫৮১০), মিশকাত (২০২৬)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 14 Hadith 98</td></tr></tbody></table></div>
 

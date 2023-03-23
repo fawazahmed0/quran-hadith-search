@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ‘ইমরান (রহ.) হতে বর্ণিত। তিনি বলেন, কোন এক জুমু‘আহর দিনে আনাস (রাঃ) লোকজনের দিকে তাকিয়ে দেখলেন তাদের (মাথায়) তায়ালিসাহ[1] চাদর। তখন তিনি বললেন, এ মুহূর্তে এদেরকে খাইবারের ইয়াহূদীদের মতো দেখাচ্ছে। (আধুনিক প্রকাশনীঃ ৩৮৮৭, ইসলামিক ফাউন্ডেশনঃ ৩৮৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ‘ইমরান (রহ.) হতে বর্ণিত। তিনি বলেন, কোন এক জুমু‘আহর দিনে আনাস (রাঃ) লোকজনের দিকে তাকিয়ে দেখলেন তাদের (মাথায়) তায়ালিসাহ[1] চাদর। তখন তিনি বললেন, এ মুহূর্তে এদেরকে খাইবারের ইয়াহূদীদের মতো দেখাচ্ছে। (আধুনিক প্রকাশনীঃ ৩৮৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4208</td></tr><tr><td>Arabic No</td><td>4208</td></tr><tr><td>Reference</td><td>Book 64 Hadith 248</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu 'Imran:Anas looked at the people wearing Tailsans (i.e. a special k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஇம்ரான் (அப்துல் மலிக் பின் ஹபீப் அல்ஜவ்னீ-ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் (ஒருமுறை) வெள்ளிக்கிழமை அன்று (பஸ்ராவில் இருந்த ஒரு பள்ளிவாசலில்) மக்களை நோட்டமிட்டார்கள். அப்போது (அவர்களின் தலையில்) “தைலசான்' எனும் ஒரு வகை சால்வையைக் கண்டார்கள்.267 உடனே, “இப்போது இவர்கள் கைபர் யூதர்களைப் போல உள்ளனர்” என்று கூறினார்கள். அத்தியாயம் : 64
+அபூஇம்ரான் (அப்துல் மலிக் பின் ஹபீப் அல்ஜவ்னீ-ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் (ஒருமுறை) வெள்ளிக்கிழமை அன்று (பஸ்ராவில் இருந்த ஒரு பள்ளிவாசலில்) மக்களை நோட்டமிட்டார்கள். அப்போது (அவர்களின் தலையில்) “தைலசான்' எனும் ஒரு வகை சால்வையைக் கண்டார்கள்.267 உடனே, “இப்போது இவர்கள் கைபர் யூதர்களைப் போல உள்ளனர்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4208</td></tr><tr><td>Arabic No</td><td>4208</td></tr><tr><td>Reference</td><td>Book 64 Hadith 248</td></tr></tbody></table></div>
 

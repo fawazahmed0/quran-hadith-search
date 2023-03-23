@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে সফরে যেতাম। সায়িম ব্যক্তি গায়ের সায়িমকে (যে সওম পালন করছে না) এবং গায়ের সায়িম ব্যক্তি সায়িমকে দোষারোপ করত না। (মুসলিম ১৩/১৫, হাঃ ১১১৮) (আধুনিক প্রকাশনীঃ ১৮০৭, ইসলামিক ফাউন্ডেশনঃ ১৮২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে সফরে যেতাম। সায়িম ব্যক্তি গায়ের সায়িমকে (যে সওম পালন করছে না) এবং গায়ের সায়িম ব্যক্তি সায়িমকে দোষারোপ করত না। (মুসলিম ১৩/১৫, হাঃ ১১১৮) (আধুনিক প্রকাশনীঃ ১৮০৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1947</td></tr><tr><td>Arabic No</td><td>1947</td></tr><tr><td>Reference</td><td>Book 30 Hadith 54</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Humai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் பயணத்தில் செல்வோம். அப்போது நோன்பு நோற்காதவரை நோன்பு நோற்ற வரோ, நோன்பு நோற்றவரை நோன்பு நோற்காதவரோ குறைசொன்னதில்லை. அத்தியாயம் : 30
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் பயணத்தில் செல்வோம். அப்போது நோன்பு நோற்காதவரை நோன்பு நோற்ற வரோ, நோன்பு நோற்றவரை நோன்பு நோற்காதவரோ குறைசொன்னதில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1947</td></tr><tr><td>Arabic No</td><td>1947</td></tr><tr><td>Reference</td><td>Book 30 Hadith 54</td></tr></tbody></table></div>
 

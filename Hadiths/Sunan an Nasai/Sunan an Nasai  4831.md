@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মাহমূদ ইবন খালিদ (রহঃ) ... আমর ইবন শু'আয়ব (রহঃ) তাঁর পিতার মাধ্যমে তাঁর দাদা থেকে অনুরূপ বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 45 Hadith 126</td></tr></tbody></table></div>
 

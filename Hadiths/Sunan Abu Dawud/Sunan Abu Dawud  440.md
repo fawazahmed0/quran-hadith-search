@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ .... আবূ কাতাদা (রাঃ) রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের নিকট থেকে … পূর্ববর্তী হাদীছের অনুরূপ। রাবী বলেন, সূর্য কিছু উপরে উঠার পর সকলে উযূ (ওজু/অজু/অযু) করে নামায আদায় করেন। (বুখারী, নাসাঈ)।
+। ‘আব্দুল্লাহ ইবনু আবূ ক্বাতাদাহ্ তার পিতার মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ অর্থবোধক হাদীস বর্ণনা করেন। তাতে রয়েছেঃ সূর্য উপরে উঠার পর তিনি অযু করে লোকদের নিয়ে সালাত আদায় করলেন।[1] সহীহ : অনুরূপ বুখারী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>440</td></tr><tr><td>Arabic No</td><td>440</td></tr><tr><td>Reference</td><td>Book 2 Hadith 50</td></tr></tbody></table></div>
 

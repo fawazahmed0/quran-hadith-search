@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫০০৯, আন্তর্জাতিক নাম্বারঃ ১৯৭৭ ৫০০৯-(.../...) হাজ্জাজ ইবনু শাইর (রহঃ) ..... বুরাইদাহ (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি তোমাদের বারণ করেছিলাম .....। তারপর রাবী আবূ সিনানের হাদীসের অবিকল অর্থ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৯৫৩, ইসলামিক সেন্টার ৪৯৫৯)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>977.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 82</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, বিলাল (রাযি.) রাত থাকতে আযান দিয়ে থাকেন। কাজেই, ইবনু উম্মু মাকতূম (রাযি.) যতক্ষণ আযান না দেয়, ততক্ষণ তোমরা (সাহারী) পানাহার করতে পার। (৬২২=১৯১৯) (৬২৩=৬১৭) (মুসলিম ১৩/৮, হাঃ ১০৯২, আহমাদ ২৪২২৩) (আধুনিক প্রকাশনীঃ ৫৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>622</td></tr><tr><td>Arabic No</td><td>622</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] berkata, telah mengabarkan kepada kami [A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (ரமளானில்) பிலால் (பின்)இரவிலேயே பாங்கு சொல்வார். எனவே, இப்னு உம்மி மக்(த்)தூம் (ஃபஜ்ருக்காக) தொழுகை அறிவிப்பு செய்யும்வரை நீங்கள் (சஹர் உணவு) உண்ணுங்கள்; பருகுங்கள். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இது இரு அறிவிப் பாளர்தொடர்களில் வந்துள்ளது. இப்னு உமர் (ரலி) அவர்கள் வழியாக வும் இது அறிவிக்கப்பட்டுள்ளது. அத்தியாயம் : 10
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (ரமளானில்) பிலால் (பின்)இரவிலேயே பாங்கு சொல்வார். எனவே, இப்னு உம்மி மக்(த்)தூம் (ஃபஜ்ருக்காக) தொழுகை அறிவிப்பு செய்யும்வரை நீங்கள் (சஹர் உணவு) உண்ணுங்கள்; பருகுங்கள். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இது இரு அறிவிப் பாளர்தொடர்களில் வந்துள்ளது. இப்னு உமர் (ரலி) அவர்கள் வழியாக வும் இது அறிவிக்கப்பட்டுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>622</td></tr><tr><td>Arabic No</td><td>622</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ishaq] berkata, telah mengabarkan kepada kami [A
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha), Nâfi' ve İbn Ömer'den Nebi demiştir.'in bu şekilde buyurduğu nakledilmiştir. Diğer bir senedle Abdullah İbn Ömer Kasım İbn Muhammed'den o da Hz. Âişe'den Allah Resûlü Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Bilal, geceleyin ezan okur. O vakit, yiyip için. ibn Ummi Mektûm ezan okuyunce İse yeme içmeye son verin. Tekrar: 1919
+Aişe (r.anha), Nâfi' ve İbn Ömer'den Nebi demiştir.'in bu şekilde buyurduğu nakledilmiştir. Diğer bir senedle Abdullah İbn Ömer Kasım İbn Muhammed'den o da Hz. Âişe'den Allah Resûlü Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Bilal, geceleyin ezan okur. O vakit, yiyip için. ibn Ummi Mektûm ezan okuyunce İse yeme içmeye son verin. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>622</td></tr><tr><td>Arabic No</td><td>622</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

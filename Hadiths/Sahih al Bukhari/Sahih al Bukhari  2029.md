@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নবী সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে থাকাবস্থায় আমার দিকে মাথা বাড়িয়ে দিতেন আর আমি তা আঁচড়িয়ে দিতাম এবং তিনি যখন ই‘তিকাফে থাকতেন তখন (প্রাকৃতিক) প্রয়োজন ব্যতীত ঘরে প্রবেশ করতেন না। (২০৩৩, ২০৩৪, ২০৪১, ২০৪৫) (আধুনিক প্রকাশনীঃ ১৮৮৭, ইসলামিক ফাউন্ডেশনঃ ১৮৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নবী সহধর্মিণী ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে থাকাবস্থায় আমার দিকে মাথা বাড়িয়ে দিতেন আর আমি তা আঁচড়িয়ে দিতাম এবং তিনি যখন ই‘তিকাফে থাকতেন তখন (প্রাকৃতিক) প্রয়োজন ব্যতীত ঘরে প্রবেশ করতেন না। (২০৩৩, ২০৩৪, ২০৪১, ২০৪৫) (আধুনিক প্রকাশনীঃ ১৮৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2029</td></tr><tr><td>Arabic No</td><td>2029</td></tr><tr><td>Reference</td><td>Book 33 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Laits]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பள்ளிவாசலில் இருந்துகொண்டு தமது தலையை (வீட்டிலுள்ள) என்னிடம் நீட்டுவார்கள்; நான் அதை வாரிவிடுவேன். இஃதிகாஃப் இருக்கும்போது (அவசியத்) தேவைக்காகத் தவிர (வேறு காரணங் களுக்காக) வீட்டிற்குள் வரமாட்டார்கள்.2 அத்தியாயம் : 33
+நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பள்ளிவாசலில் இருந்துகொண்டு தமது தலையை (வீட்டிலுள்ள) என்னிடம் நீட்டுவார்கள்; நான் அதை வாரிவிடுவேன். இஃதிகாஃப் இருக்கும்போது (அவசியத்) தேவைக்காகத் தவிர (வேறு காரணங் களுக்காக) வீட்டிற்குள் வரமாட்டார்கள்.2 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2029</td></tr><tr><td>Arabic No</td><td>2029</td></tr><tr><td>Reference</td><td>Book 33 Hadith 5</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Laits]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nebi Sallallahu Aleyhi ve Sellem’in eşi Aişe radiyallahu anha şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem itikafta iken mescid'de olduğu halde başını eve doğru uzatır, ben de onun saçlarını tarardım. İtikaflı olduğunda bir ihtiyaç olmadıkça eve girmezdi. Tekrar: 2033, 2034, 2041, 2045
+Nebi Sallallahu Aleyhi ve Sellem’in eşi Aişe radiyallahu anha şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem itikafta iken mescid'de olduğu halde başını eve doğru uzatır, ben de onun saçlarını tarardım. İtikaflı olduğunda bir ihtiyaç olmadıkça eve girmezdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2029</td></tr><tr><td>Arabic No</td><td>2029</td></tr><tr><td>Reference</td><td>Book 33 Hadith 5</td></tr></tbody></table></div>
 

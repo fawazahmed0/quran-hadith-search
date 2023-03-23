@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৬৫৯। আব্দুল জাব্বার ইবনু ওয়াইল (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি দেখলাম যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে এক বালতি পানি আনা হল। তিনি তা থেকে কুলি করলেন এবং তাতে কস্তুরীসম বা কস্তুরীর চেয়েও সুঘ্রাণযুক্ত তাঁর মুখের লালা নিক্ষেপ করলেন এবং নাকের ময়লা বালতির বাইরে ঝেড়ে ফেললেন।
+। আব্দুল জাব্বার ইবনু ওয়াইল (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি দেখলাম যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে এক বালতি পানি আনা হল। তিনি তা থেকে কুলি করলেন এবং তাতে কস্তুরীসম বা কস্তুরীর চেয়েও সুঘ্রাণযুক্ত তাঁর মুখের লালা নিক্ষেপ করলেন এবং নাকের ময়লা বালতির বাইরে ঝেড়ে ফেললেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>659</td></tr><tr><td>Arabic No</td><td>659</td></tr><tr><td>Reference</td><td>Book 1 Hadith 393</td></tr></tbody></table></div>
 

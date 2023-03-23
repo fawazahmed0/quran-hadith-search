@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৪১, আন্তর্জাতিক নাম্বারঃ ৩৩৩ ৬৪১-(.../...) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... জারীর (রাযিঃ) থেকে বর্ণিত। ফাতিমা বিনতু আবূ হুবায়শ ইবনু আবদুল মুত্তালিব ইবনু আসাদ যিনি আমাদের বংশের একজন মহিলা ছিলেন- রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এলেন। আর হাম্মাদ ইবনু যায়দ এর হাদীসে একটা অক্ষর অতিরিক্ত ছিল, আমরা তা উল্লেখ করিনি। (ইসলামিক ফাউন্ডেশনঃ ৬৪৫, ইসলামিক সেন্টারঃ ৬৬০)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... জারীর (রাযিঃ) থেকে বর্ণিত। ফাতিমা বিনতু আবূ হুবায়শ ইবনু আবদুল মুত্তালিব ইবনু আসাদ যিনি আমাদের বংশের একজন মহিলা ছিলেন- রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এলেন। আর হাম্মাদ ইবনু যায়দ এর হাদীসে একটা অক্ষর অতিরিক্ত ছিল, আমরা তা উল্লেখ করিনি। (ইসলামিক ফাউন্ডেশনঃ ৬৪৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>754</td></tr><tr><td>Arabic No</td><td>333.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 76</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ The hadith narrated by Waki' and with its chain of narrators has been transmitte
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Yahya b. Yahya rivayet etti (Dediki): Bize Abdülaziz b. Muhammed ile Ebu Muaviye haber verdiler. H. Bize Kuteybe ibni Saîd de rivayet etti (Dediki): Bize Cerîr rivayet eyledi H. Bize İbni Nümeyr dahî rivayet etti. (Dediki): Bize babam rivayet etti H. Bize Halef b. Hişam da rivayet etti. (Dediki): Bize Hamnıad b. Zeyd rivayet etti. Bunların hepsi Hişam b. Urve'den, Veki'in hadisi ve isnadı gibi rivayette bulunmuşlardır. Kuteybe'nin Cerîr'den naklen rivayet ettiği hadisde: «Fatıma binti Ebî Hubeyş b. Abdilmuttalip b. Esed geldi. O bizden bir kadındır» sözleri vardır. Hammad b. Zeyd hadisinde ise ziyade bir söz vardır, biz onu terk ettik. Diğer tahric: Cerir, İbn Numeyr ve Abdulaziz'in rivayetlerini Müslim yalnız başına rivayet etmiştir Halef b. Hişam'ın rivayetini Nesai, 214, 362; İbn Mace, 621 Ebu Muaviye'nin rivayetini Buhari, 228; Tirmizi, 125; Nesai, 212, 257 de rivayet etmişlerdir. 751 - 752
+Bize Yahya b. Yahya rivayet etti (Dediki): Bize Abdülaziz b. Muhammed ile Ebu Muaviye haber verdiler. H. Bize Kuteybe ibni Saîd de rivayet etti (Dediki): Bize Cerîr rivayet eyledi H. Bize İbni Nümeyr dahî rivayet etti. (Dediki): Bize babam rivayet etti H. Bize Halef b. Hişam da rivayet etti. (Dediki): Bize Hamnıad b. Zeyd rivayet etti. Bunların hepsi Hişam b. Urve'den, Veki'in hadisi ve isnadı gibi rivayette bulunmuşlardır. Kuteybe'nin Cerîr'den naklen rivayet ettiği hadisde: «Fatıma binti Ebî Hubeyş b. Abdilmuttalip b. Esed geldi. O bizden bir kadındır» sözleri vardır. Hammad b. Zeyd hadisinde ise ziyade bir söz vardır, biz onu terk ettik. Diğer tahric: Cerir, İbn Numeyr ve Abdulaziz'in rivayetlerini Müslim yalnız başına rivayet etmiştir Halef b. Hişam'ın rivayetini Nesai, 214, 362; İbn Mace, 621 Ebu Muaviye'nin rivayetini Buhari, 228; Tirmizi, 125; Nesai, 212, 257 de rivayet etmişlerdir
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>754</td></tr><tr><td>Arabic No</td><td>333.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 76</td></tr></tbody></table></div>
 

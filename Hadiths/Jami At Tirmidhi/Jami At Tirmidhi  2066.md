@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০৬৬। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আজওয়া হচ্ছে জান্নাতের খেজুরবিশেষ এবং এর মধ্যে বিষের প্রতিষেধক রয়েছে। ছত্রাক হলো মান নামক আসমানী খাবারের অন্তর্ভুক্ত এবং এর পানি চক্ষুরোগের প্রতিষেধক। হাসান সহীহ, মিশকাত, তাহকীক ছানী (৪২৩৫)। আবূ ঈসা বলেন, সাঈদ ইবনু যাইদ, আবূ সাঈদ ও জাবির (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান গারীব।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আজওয়া হচ্ছে জান্নাতের খেজুরবিশেষ এবং এর মধ্যে বিষের প্রতিষেধক রয়েছে। ছত্রাক হলো মান নামক আসমানী খাবারের অন্তর্ভুক্ত এবং এর পানি চক্ষুরোগের প্রতিষেধক। হাসান সহীহ, মিশকাত, তাহকীক ছানী (৪২৩৫)। আবূ ঈসা বলেন, সাঈদ ইবনু যাইদ, আবূ সাঈদ ও জাবির (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2066</td></tr><tr><td>Arabic No</td><td>2066</td></tr><tr><td>Reference</td><td>Book 28 Hadith 31</td></tr></tbody></table></div>
 

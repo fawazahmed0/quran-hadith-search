@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কামিল (রহঃ) .... আবূ কিলাবা (রহঃ) উপরোক্ত হাদীছের সনদে ও অর্থে হাদীছ বর্ণনা করেছেন, তবে তাতে এর উল্লেখ নেই যে তিনি তাকে খুবই ভর্ৎসনা করেন।
+। আবূ কিলাবাহ (রহঃ) সূত্রে সনদসহ উপরোক্ত হাদীসের সমার্থক হাদীস বর্ণিত। তবে "তিনি তাকে কঠোর ভাষায় ধমকালেন" এ বাক্য উল্লেখ করেননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3959</td></tr><tr><td>Arabic No</td><td>3959</td></tr><tr><td>Reference</td><td>Book 31 Hadith 34</td></tr></tbody></table></div>
 

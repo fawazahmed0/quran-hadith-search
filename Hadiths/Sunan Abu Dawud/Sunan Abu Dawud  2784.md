@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ কা‘নবী (রহঃ) ..... আতা ইবন ইয়াসার (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীছ বর্ণিত হয়েছে। তবে এতে এতটুকু বর্ণিত আছে যে, ‘‘বন্টনের মজুরী’’ গ্রহণের ব্যাপারটি এরূপ যে, যখন কোন ব্যক্তিকে (বন্টনের জন্য) নিয়োগ করা হয়, তখন সে প্রত্যেক অংশ হতে নিজের জন্য কিছু রেখে দেয়।
+। ‘আতা ইবনু ইয়াসার (রাঃ) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে অনুরূপ হাদীস বর্ণনা করেন। তিনি বলেনঃ এমনও লোক রয়েছে, যারা জনসাধারণের বণ্টনকারী নিযুক্ত হয়ে এ ভাগ থেকে কিছু এবং ঐ ভাগ থেকে কিছু আত্মসাৎ করে থাকে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2784</td></tr><tr><td>Arabic No</td><td>2784</td></tr><tr><td>Reference</td><td>Book 15 Hadith 308</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনে হাম্বল (রাঃ) ..... জাবের ইবনে আব্দুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, সুলাইক (রাঃ) মসজিদে আগমন করেন। অতঃপর পূর্বোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে। এই বর্ণনায় আরো আছে যে, অতঃপর নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুসল্লীদের লক্ষ্য করে বলেন: ইমামের খুতবা দেয়ার সময় যদি তোমাদের কেউ মসজিদে আসে, তবে সে যেন সংক্ষিপ্তভাবে দুই রাকাত নামায আদায় করে নেয়। (নাসাঈ, মুসলিম)
+। ত্বালহা (রহঃ) সূত্রে বর্ণিত। তিনি জাবির ইবনু ‘আবদুল্লাহ (রাঃ)-কে বলতে শুনেছেন, সুলাইক আল-গাতাফানী (রাঃ) মসজিদে এলেন। অতঃপর পূর্বোক্ত হাদীসের অনুরূপ। তবে এতে রয়েছেঃ অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকদের দিকে ঘুরে বললেনঃ তোমাদের কেউ ইমামের খুত্ববাহ চলাবস্থায় এলে সে যেন সংক্ষেপে দু’ রাক‘আত সালাত আদায় করে নেয়।[1] সহীহ : মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>1117</td></tr><tr><td>Reference</td><td>Book 2 Hadith 728</td></tr></tbody></table></div>
 

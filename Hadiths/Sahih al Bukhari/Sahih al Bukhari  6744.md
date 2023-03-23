@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, সর্বশেষ অবতীর্ণ আয়াত হল সূরা নিসার শেষ আয়াতঃ (يَسْتَفْتُونَكَ قُلْ اللهُ يُفْتِيكُمْ فِي الْكَلاَلَةِ)। [৪৩৬৪] (আধুনিক প্রকাশনী- ৬২৭৬, ইসলামিক ফাউন্ডেশন- ৬২৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, সর্বশেষ অবতীর্ণ আয়াত হল সূরা নিসার শেষ আয়াতঃ (يَسْتَفْتُونَكَ قُلْ اللهُ يُفْتِيكُمْ فِي الْكَلاَلَةِ)। [৪৩৬৪] (আধুনিক প্রকাশনী- ৬২৭৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6744</td></tr><tr><td>Arabic No</td><td>6744</td></tr><tr><td>Reference</td><td>Book 85 Hadith 21</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara:The last Qur'anic Verse that was revealed (to the Prophet) was the final Verse of Surat-an-Nisa, i.e., 'They ask you for a legal verdict Say: Allah directs (thus) About those who leave No descendants or ascendants as heirs....' (4.176)
+Narrated Al-Bara:The last Qur'anic Verse that was revealed (to the Prophet) was the final Verse of Surat-an-Nisa, i.e., 'They ask you for a legal verdict Say: Allah directs (thus) About those who leave No descendants or ascendants as heirs
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6744</td></tr><tr><td>Arabic No</td><td>6744</td></tr><tr><td>Reference</td><td>Book 85 Hadith 21</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Al-Bara:The last Qur'anic Verse that was revealed (to the Prophet) was 
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Israil] dari [Abu Ishaq] dari [Al Barra'] radliallahu 'anhu mengatakan; 'akhir ayat yang diturunkan adalah penutupan surat An Naisa'; 'Mereka memintamu fatwa tentang kalalah, katakanlah bahwa Allah memfatwakan kepada kalian….(QS. Annisa' 176)
+Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Israil] dari [Abu Ishaq] dari [Al Barra'] radliallahu 'anhu mengatakan; 'akhir ayat yang diturunkan adalah penutupan surat An Naisa'; 'Mereka memintamu fatwa tentang kalalah, katakanlah bahwa Allah memfatwakan kepada kalian….(QS. Annisa)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6744</td></tr><tr><td>Arabic No</td><td>6744</td></tr><tr><td>Reference</td><td>Book 85 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Israil] dari [Abu Ish
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களுக்கு) இறுதியாக அருளப்பெற்ற (பாகப் பிரிவினை தொடர்பான) வசனம், ‘அந்நிசா’ அத்தியாயத்தின் இறுதி வசனமான “(நபியே!) ‘கலாலா’ குறித்து உம்மிடம் அவர்கள் தீர்ப்புக் கேட்கிறார்கள்” என்று தொடங்கும் வசனமாகும்.30 அத்தியாயம் : 86
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களுக்கு) இறுதியாக அருளப்பெற்ற (பாகப் பிரிவினை தொடர்பான) வசனம், ‘அந்நிசா’ அத்தியாயத்தின் இறுதி வசனமான “(நபியே!) ‘கலாலா’ குறித்து உம்மிடம் அவர்கள் தீர்ப்புக் கேட்கிறார்கள்” என்று தொடங்கும் வசனமாகும்.30 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6744</td></tr><tr><td>Arabic No</td><td>6744</td></tr><tr><td>Reference</td><td>Book 85 Hadith 21</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১৮. আবু হুরায়রা (রাঃ) হইতে বর্ণিত, তিনি বলিলেনঃ সপ্তাহে দুইবার অর্থাৎ বৃহস্পতিবার ও সোমবার বান্দাদের আমল লেখা হইয়া থাকে। তখন প্রত্যেক মু'মিন বান্দাকে ক্ষমা করা হইয়া থাকে ঐ ব্যক্তি ব্যতীত, যে স্বীয় ভ্রাতার সহিত শত্রুতা পোষণ করে। বলা হয়, এই উভয়কে তাহাদের আপস না হওয়া পর্যন্ত ত্যাগ কর (ক্ষমা করিও না)।
+রেওয়ায়ত ১৮. আবু হুরায়রা (রাঃ) হইতে বর্ণিত, তিনি বলিলেনঃ সপ্তাহে দুইবার অর্থাৎ বৃহস্পতিবার ও সোমবার বান্দাদের আমল লেখা হইয়া থাকে। তখন প্রত্যেক মু'মিন বান্দাকে ক্ষমা করা হইয়া থাকে ঐ ব্যক্তি ব্যতীত, যে স্বীয় ভ্রাতার সহিত শক্রতা পোষণ করে। বলা হয়, এই উভয়কে তাহাদের আপস না হওয়া পর্যন্ত ত্যাগ কর (ক্ষমা করিও না)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1650</td></tr><tr><td>Arabic No</td><td>1650</td></tr><tr><td>Reference</td><td>Book 47 Hadith 18</td></tr></tbody></table></div>
 

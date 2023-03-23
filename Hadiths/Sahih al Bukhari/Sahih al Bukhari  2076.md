@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ এমন ব্যক্তির প্রতি রহমত বর্ষণ করেন যে নম্রতার সাথে ক্রয়-বিক্রয় করে ও পাওনা ফিরিয়ে চায়। (আধুনিক প্রকাশনীঃ ১৯৩১ , ইসলামিক ফাউন্ডেশনঃ ১৯৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ এমন ব্যক্তির প্রতি রহমত বর্ষণ করেন যে নম্রতার সাথে ক্রয়-বিক্রয় করে ও পাওনা ফিরিয়ে চায়। (আধুনিক প্রকাশনীঃ ১৯৩১ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2076</td></tr><tr><td>Arabic No</td><td>2076</td></tr><tr><td>Reference</td><td>Book 34 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Ayyasy] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வாங்கும்போதும் விற்கும்போதும் உரிமையை நிறைவேற்றக் கோரும்போதும் பெருந்தன்மையாக நடந்துகொள்ளும் மனிதருக்கு அல்லாஹ் அருள் புரிவானாக! இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வாங்கும்போதும் விற்கும்போதும் உரிமையை நிறைவேற்றக் கோரும்போதும் பெருந்தன்மையாக நடந்துகொள்ளும் மனிதருக்கு அல்லாஹ் அருள் புரிவானாக! இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2076</td></tr><tr><td>Arabic No</td><td>2076</td></tr><tr><td>Reference</td><td>Book 34 Hadith 29</td></tr></tbody></table></div>
 

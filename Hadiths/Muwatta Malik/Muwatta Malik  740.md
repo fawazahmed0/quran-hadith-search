@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৩৮. নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিণী আয়েশা (রাঃ) বলেনঃ (হাজ্জাতুল বিদা) বিদায় হজ্জের সময় আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহিত রওয়ানা হইলাম। আমাদের মধ্যে কেহ কেহ শুধু উমরার, আর কেহ কেহ উমরা ও হজ্জ উভয়ের, আর কেউ শুধু হজ্জের ইহরাম বাধিয়াছিলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজে বাধিয়াছিলেন শুধু হজ্জের ইহরাম। সুতরাং যাহারা শুধু উমরার ইহরাম বাধিয়াছিলেন তাহারা উমরা করিয়াই ইহরাম খুলিয়া ফেলিয়াছেন। আর যাহারা হজ্জ ও উমরা উভয়ের বা শুধু হজ্জের ইহরাম বাধিয়াছিলেন তাহারা দশ তারিখ পর্যন্ত আর ইহরাম খুলেন নাই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>740</td></tr><tr><td>Arabic No</td><td>740</td></tr><tr><td>Reference</td><td>Book 20 Hadith 36</td></tr></tbody></table></div>
 

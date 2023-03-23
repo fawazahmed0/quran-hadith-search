@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সফর হলো ‘আযাবের একটা টুকরা, যা তোমাদের সফরকারীকে নিদ্রা ও আহার থেকে বিরত রাখে। তাই তোমাদের কারো প্রয়োজন পূরণ হয়ে গেলে সে যেন শীঘ্র তার পরিবারের কাছে ফিরে আসে। [১৮০৪] (আধুনিক প্রকাশনী- ৫০২৬, ইসলামিক ফাউন্ডেশন- ৪৯২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সফর হলো ‘আযাবের একটা টুকরা, যা তোমাদের সফরকারীকে নিদ্রা ও আহার থেকে বিরত রাখে। তাই তোমাদের কারো প্রয়োজন পূরণ হয়ে গেলে সে যেন শীঘ্র তার পরিবারের কাছে ফিরে আসে। [১৮০৪] (আধুনিক প্রকাশনী- ৫০২৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5429</td></tr><tr><td>Arabic No</td><td>5429</td></tr><tr><td>Reference</td><td>Book 70 Hadith 57</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata; telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: பயணம், வேதனையின் ஒரு பகுதியாகும். உங்கள் தூக்கத்தையும் உணவையும் அது தடுத்துவிடுகிறது. ஆகவே, பயணி தாம் நாடிச்சென்ற நோக்கத்தை முடித்துக்கொண்டுவிட்டால், உடனே தம் வீட்டாரை நோக்கி விரைந்து வரட்டும்! இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.51 அத்தியாயம் : 70
+நபி (ஸல்) அவர்கள் கூறினார்கள்: பயணம், வேதனையின் ஒரு பகுதியாகும். உங்கள் தூக்கத்தையும் உணவையும் அது தடுத்துவிடுகிறது. ஆகவே, பயணி தாம் நாடிச்சென்ற நோக்கத்தை முடித்துக்கொண்டுவிட்டால், உடனே தம் வீட்டாரை நோக்கி விரைந்து வரட்டும்! இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.51 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5429</td></tr><tr><td>Arabic No</td><td>5429</td></tr><tr><td>Reference</td><td>Book 70 Hadith 57</td></tr></tbody></table></div>
 

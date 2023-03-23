@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মালিক ইবন আবদিল ওয়াহিদ মাসমাঈ (রহঃ) .... মুআয ইবন জাবাল (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তির সর্বশেষ কালিমা (কথা) হবে, লা-ইলাহা ইল্লাল্লাহু, সে জান্নাতে প্রবেশ করবে।
+। মু‘আয ইবনু জাবাল (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার সর্বশেষ বাক্য হবে ‘‘লা ইলাহা ইল্লাল্লাহু’’, সে জান্নাতে প্রবেশ করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>3116</td></tr><tr><td>Reference</td><td>Book 21 Hadith 28</td></tr></tbody></table></div>
 

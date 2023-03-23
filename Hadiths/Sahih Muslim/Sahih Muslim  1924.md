@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৮০৯, আন্তর্জাতিক নাম্বারঃ ৮২৮ ১৮০৯-(২৮৯/৮২৮) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ যেন সূর্যোদয়কালে এবং সূর্যাস্তের সময় সালাত আদায় করার সংকল্প না করে। (ইসলামী ফাউন্ডেশন ১৭৯৪, ইসলামীক সেন্টার ১৮০১)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ যেন সূর্যোদয়কালে এবং সূর্যাস্তের সময় সালাত আদায় করার সংকল্প না করে। (ইসলামী ফাউন্ডেশন ১৭৯৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1924</td></tr><tr><td>Arabic No</td><td>828.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 352</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் (சரியாகச்) சூரியன் உதிக்கும் நேரத்தையும் சூரியன் மறையும் நேரத்தையும் தேர்ந்தெடுத்துத் தொழ வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 6
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் (சரியாகச்) சூரியன் உதிக்கும் நேரத்தையும் சூரியன் மறையும் நேரத்தையும் தேர்ந்தெடுத்துத் தொழ வேண்டாம். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1924</td></tr><tr><td>Arabic No</td><td>828.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 352</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফল ব্যবহারযোগ্য না হওয়া পর্যন্ত তা বিক্রি করতে নিষেধ করেছেন। (২১৮৯, ২১৯৬, ২৩৮১) (আধুনিক প্রকাশনীঃ ১৩৯১, ইসলামিক ফাউন্ডেশনঃ ১৩৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফল ব্যবহারযোগ্য না হওয়া পর্যন্ত তা বিক্রি করতে নিষেধ করেছেন। (২১৮৯, ২১৯৬, ২৩৮১) (আধুনিক প্রকাশনীঃ ১৩৯১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1487</td></tr><tr><td>Arabic No</td><td>1487</td></tr><tr><td>Reference</td><td>Book 24 Hadith 87</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada s
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: பலன் உறுதிப்படுவதற்கு முன்னால் (மரத்திலுள்ள) கனிகளை விற்பதை நபி (ஸல்) அவர்கள் தடை செய்தார்கள். அத்தியாயம் : 24
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: பலன் உறுதிப்படுவதற்கு முன்னால் (மரத்திலுள்ள) கனிகளை விற்பதை நபி (ஸல்) அவர்கள் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1487</td></tr><tr><td>Arabic No</td><td>1487</td></tr><tr><td>Reference</td><td>Book 24 Hadith 87</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada s
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir Ibn Abdullah r.a., "Resulullah Sallallahu Aleyhi ve Sellem iyi olduğu ortaya çıkmayan meyvelerin satılmasını yasaklamıştır" demiştir. Tekrar: 2189, 2196, 2381
+Cabir Ibn Abdullah r.a., "Resulullah Sallallahu Aleyhi ve Sellem iyi olduğu ortaya çıkmayan meyvelerin satılmasını yasaklamıştır" demiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1487</td></tr><tr><td>Arabic No</td><td>1487</td></tr><tr><td>Reference</td><td>Book 24 Hadith 87</td></tr></tbody></table></div>
 

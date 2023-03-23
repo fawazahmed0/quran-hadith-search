@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ঈসা ইব্‌ন মুহাম্মদ (রহঃ) .... আবু সুকায়না নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর একজন সাহাবী থেকে বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যতদিন হাবশের জনগণ তোমাদের সাথে কোনরূপ ঝগড়ায় লিপ্ত না হয়, ততদিন তোমরা তাদের সাথে ঝগড়া করবে না এবং তুর্কীর জনগণ যতদিন তোমাদের সাথে গোলযোগ না করে, তোমরাও করবে না।
+। আবূ সুবাইনাহ নামক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে জনৈক সাহাবী থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে বর্ণিত। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেনঃ তোমরা হাবাশীদের থেকে বিরত থাকো, যে পর্যন্ত তারা তোমাদের থেকে বিরত থাকে এবং তুর্কিদেরও ত্যাগ করো যত পর্যন্ত তারা তোমাদের ত্যাগ করে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4302</td></tr><tr><td>Arabic No</td><td>4302</td></tr><tr><td>Reference</td><td>Book 39 Hadith 12</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ঈমানদার শস্যক্ষেতের নরম ডগার মত। জোরে বাতাস বইলেই তার পাতা ঝুঁকে পড়ে। বাতাস শান্ত হলে, আবার সোজা হয়ে যায়। ঈমানদারদেরকে বালা-মুসিবত দিয়ে এভাবেই ঝুঁকিয়ে রাখা হয়। আর কাফেরের দৃষ্টান্ত দেবদারু গাছ, যা একেবারেই কঠিন ও সোজা হয়। ফলে আল্লাহ্ যখন চান সেটিকে মূলসহ উপড়ে ফেলেন। [৫৬৪৪] (আধুনিক প্রকাশনী- ৬৯৪৮, ইসলামিক ফাউন্ডেশন- ৬৯৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ঈমানদার শস্যক্ষেতের নরম ডগার মত। জোরে বাতাস বইলেই তার পাতা ঝুঁকে পড়ে। বাতাস শান্ত হলে, আবার সোজা হয়ে যায়। ঈমানদারদেরকে বালা-মুসিবত দিয়ে এভাবেই ঝুঁকিয়ে রাখা হয়। আর কাফেরের দৃষ্টান্ত দেবদারু গাছ, যা একেবারেই কঠিন ও সোজা হয়। ফলে আল্লাহ্ যখন চান সেটিকে মূলসহ উপড়ে ফেলেন। [৫৬৪৪] (আধুনিক প্রকাশনী- ৬৯৪৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7466</td></tr><tr><td>Arabic No</td><td>7466</td></tr><tr><td>Reference</td><td>Book 97 Hadith 92</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The example of a believer is that of a fresh green plant the leaves of which move in whatever direction the wind forces them to move and when the wind becomes still, it stand straight. Such is the similitude of the believer: He is disturbed by calamities (but is like the fresh plant he regains his normal state soon). And the example of a disbeliever is that of a pine tree (which remains) hard and straight till Allah cuts it down when He will." (See Hadith No. 546 and 547, Vol. 7)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The example of a believer is that of a fresh green plant the leaves of which move in whatever direction the wind forces them to move and when the wind becomes still, it stand straight. Such is the similitude of the believer: He is disturbed by calamities (but is like the fresh plant he regains his normal state soon). And the example of a disbeliever is that of a pine tree (which remains) hard and straight till Allah cuts it down when He will." (See Hadith No. 546 and 547, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7466</td></tr><tr><td>Arabic No</td><td>7466</td></tr><tr><td>Reference</td><td>Book 97 Hadith 92</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Sinan] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஓர் இறைநம்பிக்கையாளரின் நிலையானது, நாணல் போன்றதாகும். காற்றடிக்கும் திசையில் அதன் இலை சாயும். காற்று (அடிப்பது) நின்றுவிட்டால் நேராக நிற்கும். இவ்வாறுதான் இறைநம்பிக் கையாளரும் சோதனைகளின்போது அலைக்கழிக்கப்படுகிறார். (எனினும், அவர் பொறுமை காப்பார்.) இறைமறுப்பாளனின் நிலையானது உறுதியாக நிமிர்ந்து நிற்கும் தேவதாரு மரத்தைப் போன்றதாகும். தான் நாடும்போது அதை அல்லாஹ் (ஒரேயடியாக) உடைத்து (சாய்த்து) விடுகின்றான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.108 அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஓர் இறைநம்பிக்கையாளரின் நிலையானது, நாணல் போன்றதாகும். காற்றடிக்கும் திசையில் அதன் இலை சாயும். காற்று (அடிப்பது) நின்றுவிட்டால் நேராக நிற்கும். இவ்வாறுதான் இறைநம்பிக் கையாளரும் சோதனைகளின்போது அலைக்கழிக்கப்படுகிறார். (எனினும், அவர் பொறுமை காப்பார்.) இறைமறுப்பாளனின் நிலையானது உறுதியாக நிமிர்ந்து நிற்கும் தேவதாரு மரத்தைப் போன்றதாகும். தான் நாடும்போது அதை அல்லாஹ் (ஒரேயடியாக) உடைத்து (சாய்த்து) விடுகின்றான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.108 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7466</td></tr><tr><td>Arabic No</td><td>7466</td></tr><tr><td>Reference</td><td>Book 97 Hadith 92</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, এক রাতে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘ইশার সালাত আদায় করতে বিলম্ব করলেন। এ হলো ব্যাপকভাবে ইসলাম প্রসারের পূর্বের কথা। (সালাতের জন্য) তিনি বেরিয়ে আসেননি, এমন কি ‘উমার (রাযি.) বললেন, মহিলা ও শিশুরা ঘুমিয়ে পড়েছে। অতঃপর তিনি বেরিয়ে এলেন এবং মসজিদের লোকদের লক্ষ্য করে বললেনঃ ‘‘তোমরা ব্যতীত যমীনের অধিবাসীদের কেউ ‘ইশার সালাতের জন্য অপেক্ষায় নেই।’’ (৫৬৯, ৮৬২, ৮৬৪; মুসলিম ৫/৩৯, হাঃ ৬৩৮, আহমাদ ২৫৬৮৮) (আধুনিক প্রকাশনীঃ ৫৩৩, ইসলামিক ফাউন্ডেশনঃ ৫৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, এক রাতে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘ইশার সালাত আদায় করতে বিলম্ব করলেন। এ হলো ব্যাপকভাবে ইসলাম প্রসারের পূর্বের কথা। (সালাতের জন্য) তিনি বেরিয়ে আসেননি, এমন কি ‘উমার (রাযি.) বললেন, মহিলা ও শিশুরা ঘুমিয়ে পড়েছে। অতঃপর তিনি বেরিয়ে এলেন এবং মসজিদের লোকদের লক্ষ্য করে বললেনঃ ‘‘তোমরা ব্যতীত যমীনের অধিবাসীদের কেউ ‘ইশার সালাতের জন্য অপেক্ষায় নেই।’’ (৫৬৯, ৮৬২, ৮৬৪; মুসলিম ৫/৩৯, হাঃ ৬৩৮, আহমাদ ২৫৬৮৮) (আধুনিক প্রকাশনীঃ ৫৩৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>566</td></tr><tr><td>Arabic No</td><td>566</td></tr><tr><td>Reference</td><td>Book 9 Hadith 43</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: இஸ்லாம் (மதீனாவுக்கு வெளியே) பரவுவதற்கு முன்னர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு (நாள்) இரவு இஷாவைத் தாமதப்படுத்தினார்கள். உமர் (ரலி) அவர்கள்,“(தங்களை எதிர்பார்த்துக் காத்திருந்து) பெண்களும் சிறுவர்களும் உறங்கிவிட்டனர்” எனத் தெரிவிக்கும் வரை நபி (ஸல்) அவர்கள் (தமது இல்லத் தி-ருந்து தொழுகை நடத்த) வெளியே வரவில்லை. பிறகு வெளியே வந்து பள்ளிவாசலில் உள்ளவர்களை நோக்கி, “(தற்போது) பூமி யிலுள்ளவர்களில் உங்களைத் தவிர வேறு யாரும் இதை எதிர்பார்த்துக் காத்திருக்க வில்லை” என்று கூறினார்கள். அத்தியாயம் : 9
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: இஸ்லாம் (மதீனாவுக்கு வெளியே) பரவுவதற்கு முன்னர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு (நாள்) இரவு இஷாவைத் தாமதப்படுத்தினார்கள். உமர் (ரலி) அவர்கள்,“(தங்களை எதிர்பார்த்துக் காத்திருந்து) பெண்களும் சிறுவர்களும் உறங்கிவிட்டனர்” எனத் தெரிவிக்கும் வரை நபி (ஸல்) அவர்கள் (தமது இல்லத் தி-ருந்து தொழுகை நடத்த) வெளியே வரவில்லை. பிறகு வெளியே வந்து பள்ளிவாசலில் உள்ளவர்களை நோக்கி, “(தற்போது) பூமி யிலுள்ளவர்களில் உங்களைத் தவிர வேறு யாரும் இதை எதிர்பார்த்துக் காத்திருக்க வில்லை” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>566</td></tr><tr><td>Arabic No</td><td>566</td></tr><tr><td>Reference</td><td>Book 9 Hadith 43</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Urve Aişe r.anha'nın kendisine şöyle haber verdiğini nakletmiştir: "Bir gece Nebi Sallallahu Aleyhi ve Sellem yatsı namazını geciktirdi. Bu olay İslâm'ın henüz yayılmadığı bir dönemde vuku bulmuştu. Ömer (r.a.), 'Kadınlar ve çocuklar uyuyakaldı' deyinceye kadar Allah Resulü Sallallahu Aleyhi ve Sellem namaz kılmaya gelmedi. Sonra mescid'e gelip cemaat'e, Yeryüzünde sizin dışınızda kimse bu namazı beklemiyor' dedi. Tekrar: 569, 862, 864
+Urve Aişe r.anha'nın kendisine şöyle haber verdiğini nakletmiştir: "Bir gece Nebi Sallallahu Aleyhi ve Sellem yatsı namazını geciktirdi. Bu olay İslâm'ın henüz yayılmadığı bir dönemde vuku bulmuştu. Ömer (r.a.), 'Kadınlar ve çocuklar uyuyakaldı' deyinceye kadar Allah Resulü Sallallahu Aleyhi ve Sellem namaz kılmaya gelmedi. Sonra mescid'e gelip cemaat'e, Yeryüzünde sizin dışınızda kimse bu namazı beklemiyor' dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>566</td></tr><tr><td>Arabic No</td><td>566</td></tr><tr><td>Reference</td><td>Book 9 Hadith 43</td></tr></tbody></table></div>
 

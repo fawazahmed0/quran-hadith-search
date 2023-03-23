@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৩২৫। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি বিচারের দায়িত্ব গ্রহণ করল অথবা জনগণের বিচারক হিসেবে যে লোককে নিয়োগ করা হল তাকে যেন ছুরি ছাড়াই যবেহ করা হল। সহীহ, ইবনু মা-জাহ (২৩০৮) এ হাদীসটিকে আবূ ঈসা উল্লেখিত সনদসূত্রে হাসান গারীব বলেছেন। এ হাদীসটি আবূ হুরাইরা (রাঃ) হতে আরো একটি সূত্রে বর্ণিত হয়েছে।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি বিচারের দায়িত্ব গ্রহণ করল অথবা জনগণের বিচারক হিসেবে যে লোককে নিয়োগ করা হল তাকে যেন ছুরি ছাড়াই যবেহ করা হল। সহীহ, ইবনু মা-জাহ (২৩০৮) এ হাদীসটিকে আবূ ঈসা উল্লেখিত সনদসূত্রে হাসান গারীব বলেছেন। এ হাদীসটি আবূ হুরাইরা (রাঃ) হতে আরো একটি সূত্রে বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1325</td></tr><tr><td>Arabic No</td><td>1325</td></tr><tr><td>Reference</td><td>Book 15 Hadith 5</td></tr></tbody></table></div>
 

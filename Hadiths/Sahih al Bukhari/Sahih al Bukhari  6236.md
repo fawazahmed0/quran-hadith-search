@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘আমর (রাঃ) হতে বর্ণিত। এক লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করলঃ ইসলামের কোন কাজ উত্তম? তিনি বললেনঃ তুমি ক্ষুধার্তকে অন্ন দেবে, আর সালাম দিবে যাকে তুমি চেন আর যাকে চেন না। [১২] (আধুনিক প্রকাশনী- ৫৭৯৪, ইসলামিক ফাউন্ডেশন- ৫৬৮৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘আমর (রাঃ) হতে বর্ণিত। এক লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করলঃ ইসলামের কোন কাজ উত্তম? তিনি বললেনঃ তুমি ক্ষুধার্তকে অন্ন দেবে, আর সালাম দিবে যাকে তুমি চেন আর যাকে চেন না। [১২] (আধুনিক প্রকাশনী- ৫৭৯৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6236</td></tr><tr><td>Arabic No</td><td>6236</td></tr><tr><td>Reference</td><td>Book 79 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், “இஸ்லாமி(யப் பண்புகளி)ல் மிகவும் சிறந்தது எது?” என்று கேட்டார். நபி (ஸல்) அவர்கள், “(பசித்தவருக்கு) உணவ ளிப்பதும், உமக்கு அறிமுகமானவருக் கும் உமக்கு அறிமுகமற்றவருக்கும் முகமன் (சலாம்) சொல்வதும் ஆகும்” என்று பதிலளித்தார்கள்.12 அத்தியாயம் : 79
+அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், “இஸ்லாமி(யப் பண்புகளி)ல் மிகவும் சிறந்தது எது?” என்று கேட்டார். நபி (ஸல்) அவர்கள், “(பசித்தவருக்கு) உணவ ளிப்பதும், உமக்கு அறிமுகமானவருக் கும் உமக்கு அறிமுகமற்றவருக்கும் முகமன் (சலாம்) சொல்வதும் ஆகும்” என்று பதிலளித்தார்கள்.12 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6236</td></tr><tr><td>Arabic No</td><td>6236</td></tr><tr><td>Reference</td><td>Book 79 Hadith 10</td></tr></tbody></table></div>
 

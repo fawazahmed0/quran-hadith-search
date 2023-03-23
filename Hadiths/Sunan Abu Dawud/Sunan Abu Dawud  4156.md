@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন সাববাহ (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা বিজয়ের দিন, যখন তিনি ‘বাতহা’ নামক স্থানে অবস্থান করছিলেন, তখন উমার ইবন খাত্তাব (রাঃ)-কে এমর্মে নির্দেশ দেন যে, তুমি কা’বা ঘরে যাও এবং সেখানে যত ছবি আছে, তা সব মুছে ফেল। আর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানে ততক্ষণ প্রবেশ করেননি, যতক্ষণ না সেখানকার সব ছবি নিশ্চিহ্ন করে ফেলা হয়।
+। জাবির (রাঃ) সূত্রে বর্ণিত। মক্কা বিজয়ের সময় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আল-বাতহা’ নামক স্থানে দাঁড়িয়ে উমার ইবনুল খাত্তাব (রাঃ)-কে আদেশ দিলেন যেন তিনি কা‘বার ভিতরে গিয়ে এর মধ্যে বিদ্যমান সব ছবি মিটিয়ে দেন। অতঃপর সব ছবি মিটিয়ে দেয়ার পূর্ব পর্যন্ত নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভিতরে প্রবেশ করেননি।[1] সনদ হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>4156</td></tr><tr><td>Reference</td><td>Book 34 Hadith 137</td></tr></tbody></table></div>
 

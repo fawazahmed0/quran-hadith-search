@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে সে ব্যক্তি সম্পর্কে জিজ্ঞেস করা হল, যে মাথা কামানোর আগে কুরবানী অথবা অনুরূপ কোন কাজ করেছে। তিনি বললেনঃ এতে কোন দোষ নেই, এতে কোন দোষ নেই। (৮৪) (আধুনিক প্রকাশনীঃ ১৬০৩. ইসলামিক ফাউন্ডেশনঃ ১৬১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে সে ব্যক্তি সম্পর্কে জিজ্ঞেস করা হল, যে মাথা কামানোর আগে কুরবানী অথবা অনুরূপ কোন কাজ করেছে। তিনি বললেনঃ এতে কোন দোষ নেই, এতে কোন দোষ নেই। (৮৪) (আধুনিক প্রকাশনীঃ ১৬০৩. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1721</td></tr><tr><td>Arabic No</td><td>1721</td></tr><tr><td>Reference</td><td>Book 25 Hadith 199</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Hawsyab] telah mencer
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் (ஹஜ்ஜின் போது), குர்பானி கொடுப்பதற்குமுன் தலைமுடியை மழித்துவிடுதல் மற்றும் அது போன்றவற்றைப் பற்றி வினவப்பட்டது. அதற்கு நபி (ஸல்) அவர்கள் “குற்ற மில்லை! குற்றமில்லை” என்றார்கள். அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் (ஹஜ்ஜின் போது), குர்பானி கொடுப்பதற்குமுன் தலைமுடியை மழித்துவிடுதல் மற்றும் அது போன்றவற்றைப் பற்றி வினவப்பட்டது. அதற்கு நபி (ஸல்) அவர்கள் “குற்ற மில்லை! குற்றமில்லை” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1721</td></tr><tr><td>Arabic No</td><td>1721</td></tr><tr><td>Reference</td><td>Book 25 Hadith 199</td></tr></tbody></table></div>
 

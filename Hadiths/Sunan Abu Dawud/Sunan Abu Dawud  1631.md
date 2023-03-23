@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইব্‌ন আবু শায়বা (রহঃ) .... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেনঃ ঐ ব্যক্তি মিস্‌কীন নয়, যাকে তুমি একটি এবং দুটি খেজুর, কিংবা এক বা দুই লোক্‌মা খাদ্য দান কর। বরং প্রকৃত মিস্‌কীন তারাই, যারা (অভাবী হওয়া সত্বেও) মানুষের নিকট চায় না, যার ফলে মানুষেরা তাদের অভাব সম্পর্কে অবহিতও হতে পারে না যে, তাদের দান-খয়রাত করবে। (বুখারী, মুসলিম, নাসাঈ)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি একটি বা দু‘টি খেজুর অথবা এক বা দুই লোকমা খাবারের জন্য ঘুরে বেড়ায় সে প্রকৃত মিসকীন নয়। বরং প্রকৃত মিসকীন ঐ ব্যক্তি যে লোকদের নিকট চায় না এবং তারাও তার অবস্থা অবহিত নয় যে, তাকে কিছু দান করবে।[1] সহীহ : বুখারী ও মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1631</td></tr><tr><td>Arabic No</td><td>1631</td></tr><tr><td>Reference</td><td>Book 9 Hadith 76</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Abu Hurairah reported Messenger of Allah (May peace be upon him) as saying :The 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) şöyle buyurdu: "Miskin, bir iki hurma veya bir-iki lokma ile geri çevrilen (dilenci) değildir. (Asıl) Miskin, insanlardan bir şey istemeyen ve onlar tarafından hali bilinmediği için kendisine (bir şey) verilmeyen kimsedir." Diğer tahric: Buhari, zekât; Müslim, zekât; Nesaî, zekât; Ahmed b. Hanbel, I, 384, 446; II, 260, 316, 445, 506
+Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) şöyle buyurdu: "Miskin, bir iki hurma veya bir-iki lokma ile geri çevrilen (dilenci) değildir. (Asıl) Miskin, insanlardan bir şey istemeyen ve onlar tarafından hali bilinmediği için kendisine (bir şey) verilmeyen kimsedir." Diğer tahric: Buhari, zekât; Müslim, zekât; Nesaî, zekât; Ahmed b. Hanbel, I, 384, 446; II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1631</td></tr><tr><td>Arabic No</td><td>1631</td></tr><tr><td>Reference</td><td>Book 9 Hadith 76</td></tr></tbody></table></div>
 

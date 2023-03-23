@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মুশরিকদের শিশু সন্তানদের সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেনঃ আল্লাহ্ তাদের সৃষ্টি লগ্নেই তাদের ভবিষ্যৎ ‘আমল সম্পর্কে সম্যক জ্ঞাত। (৬৫৯৭, মুসলিম ৪৬/৬, হাঃ ২৬৬০, আহমাদ ১৮৪৫) (আধুনিক প্রকাশনীঃ ১২৯২, ইসলামিক ফাউন্ডেশনঃ ১৩০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মুশরিকদের শিশু সন্তানদের সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেনঃ আল্লাহ্ তাদের সৃষ্টি লগ্নেই তাদের ভবিষ্যৎ ‘আমল সম্পর্কে সম্যক জ্ঞাত। (৬৫৯৭, মুসলিম ৪৬/৬, হাঃ ২৬৬০, আহমাদ ১৮৪৫) (আধুনিক প্রকাশনীঃ ১২৯২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1383</td></tr><tr><td>Arabic No</td><td>1383</td></tr><tr><td>Reference</td><td>Book 23 Hadith 135</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hibban bin Musa] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: இணைவைப்பாளர்களின் குழந்தைகள் (இறந்துவிட்டால் அவர்களின் முடிவு யாது? என்பது) பற்றி அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் வினவப்பட்டது. அதற்கு அவர்கள், “அவர்களை அல்லாஹ் படைத்தபோதே, அவர்கள் (உயிருடன் வாழ்ந்தால்) எவ்வாறு செயல்பட்டிருப்பார்கள் என்பதை நன்கறிவான்” எனக் கூறினார்கள். அத்தியாயம் : 23
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: இணைவைப்பாளர்களின் குழந்தைகள் (இறந்துவிட்டால் அவர்களின் முடிவு யாது? என்பது) பற்றி அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் வினவப்பட்டது. அதற்கு அவர்கள், “அவர்களை அல்லாஹ் படைத்தபோதே, அவர்கள் (உயிருடன் வாழ்ந்தால்) எவ்வாறு செயல்பட்டிருப்பார்கள் என்பதை நன்கறிவான்” எனக் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1383</td></tr><tr><td>Arabic No</td><td>1383</td></tr><tr><td>Reference</td><td>Book 23 Hadith 135</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hibban bin Musa] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem'e müşriklerin çocukları hakkında soru soruldu. O Sallallahu Aleyhi ve Sellem: "Allah onları yarattığında onların ne işleyeceklerini en iyi bilir" buyurdu. Tekrar: 6597
+İbn Abbas r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem'e müşriklerin çocukları hakkında soru soruldu. O Sallallahu Aleyhi ve Sellem: "Allah onları yarattığında onların ne işleyeceklerini en iyi bilir" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1383</td></tr><tr><td>Arabic No</td><td>1383</td></tr><tr><td>Reference</td><td>Book 23 Hadith 135</td></tr></tbody></table></div>
 

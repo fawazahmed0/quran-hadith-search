@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-কানবী ..... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যে ব্যক্তি এই মসজিদে নববীতে প্রবেশের পর এর মধ্যে শ্লেষ্মা অথবা কফ ফেলবে- সে যেন তা মাটির মধ্যে দাফন করে দেয়। যদি এরূপ করা সন্তব না হয়, তবে সে যেন তার কাপড়ে থুথু ফেলে, অতঃপর তা বাইরে নিয়ে যায়।
+। আবূ হুরাইরাহ্ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি এই মসজিদে প্রবেশের পর তার মধ্যে থু থু অথবা কফ্ ফেলবে, সে যেন মাটি খুঁড়ে তা চাপা দিয়ে দেয়। এরূপ না করতে পারলে যেন নিজ কাপড়ে থু থু ফেলে এবং ঐ কাপড়সহ বাইরে চলে যায়।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>477</td></tr><tr><td>Arabic No</td><td>477</td></tr><tr><td>Reference</td><td>Book 2 Hadith 87</td></tr></tbody></table></div>
 

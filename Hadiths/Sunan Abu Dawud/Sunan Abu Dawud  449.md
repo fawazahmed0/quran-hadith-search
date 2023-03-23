@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু আবদুল্লাহ্ আল-খূযাঈ .... আনাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ লোকেরা মসজিদে পরস্পরের মধ্যে (নির্মাণ ও কারুকার্য নিয়ে) গর্ব না করা পর্যন্ত কিয়ামত কায়েম হবে না। (নাসাঈ, ইবনু মাজাহ)।
+। আনাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ লোকেরা মাসজিদ নিয়ে পরস্পর গৌরব ও অহঙ্কারে মেতে না উঠা পর্যন্ত ক্বিয়ামাত (কিয়ামত) সংঘটিত হবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>449</td></tr><tr><td>Arabic No</td><td>449</td></tr><tr><td>Reference</td><td>Book 2 Hadith 59</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Abdullah Al Khuza'i] telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik (r.a.), Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: "İnsanlar, mescidleriyle öğününceye kadar kıyamet kopmaz." Diğer tahric: Nesai, mesacid; İbn Mace, mesacid; Darimi, salat; Ahmed b. Hanbel, III 134, 145, 152, 230, 283
+Enes b. Malik (r.a.), Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: "İnsanlar, mescidleriyle öğününceye kadar kıyamet kopmaz." Diğer tahric: Nesai, mesacid; İbn Mace, mesacid; Darimi, salat; Ahmed b. Hanbel, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>449</td></tr><tr><td>Arabic No</td><td>449</td></tr><tr><td>Reference</td><td>Book 2 Hadith 59</td></tr></tbody></table></div>
 

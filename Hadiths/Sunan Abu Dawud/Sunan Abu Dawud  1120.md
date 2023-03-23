@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবনে ইবরাহীম (রহঃ) ...... আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন আমি রাসূলু্ল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মিম্বর হতে নামতে দেখলাম। এ সময় এক ব্যক্তি নিজের প্রয়োজনে তাঁর সামনে গিয়ে দাঁড়ান। তখন তিনি তার প্রয়োজন পূরণের পর নামায আদায় করেন। (তিরমিযী, নাসাঈ, ইবনে মাজা)
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি দেখেছি যে, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খুত্ববাহ শেষে মিম্বার হতে অবতরণ করার পর এক ব্যক্তি নিজ প্রয়োজনে তাঁর সামনে এসে হাজির হলো। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) লোকটির প্রয়োজন পূরণ না হওয়া পর্যন্ত তার সাথেই দাঁড়িয়ে থাকতেন অতঃপর সালাতে দাঁড়ালেন।[1] ইমাম আবূ দাঊদ (রহঃ) বলেন, সাবিত সূত্রে হাদীসটি পরিচিত নয়। এটি জরীর ইবনু হাযিমের একক বর্ণনা। দুর্বল : সহীহ হচ্ছে হাদীস নং ২০১।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1120</td></tr><tr><td>Arabic No</td><td>1120</td></tr><tr><td>Reference</td><td>Book 2 Hadith 731</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] dari [Jarir yaitu Ibnu Hazim
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) minberden inerken bir adam kendisine ihtiyacını arz edib haceti bitinceye kadar Efendimizin onunla birlikte ayakta durduğunu sonra (öne) geçip namazı kıldırdığını) gördüm. Ebû Dâvud dediki, hadis Sabit'ten ma'ruf değildir. Bu Cerir b. Hazim'in tek kaldığı rivayetlerdendir. Diğer tahric: Tirmizî, cum'a, Nesaî, cuma, îbn Mâce, (benzeri) ikame; Beyhakî, es-Sünenü'l-kebir, I, 120
+Enes (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) minberden inerken bir adam kendisine ihtiyacını arz edib haceti bitinceye kadar Efendimizin onunla birlikte ayakta durduğunu sonra (öne) geçip namazı kıldırdığını) gördüm. Ebû Dâvud dediki, hadis Sabit'ten ma'ruf değildir. Bu Cerir b. Hazim'in tek kaldığı rivayetlerdendir. Diğer tahric: Tirmizî, cum'a, Nesaî, cuma, îbn Mâce, (benzeri) ikame; Beyhakî, es-Sünenü'l-kebir, I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1120</td></tr><tr><td>Arabic No</td><td>1120</td></tr><tr><td>Reference</td><td>Book 2 Hadith 731</td></tr></tbody></table></div>
 

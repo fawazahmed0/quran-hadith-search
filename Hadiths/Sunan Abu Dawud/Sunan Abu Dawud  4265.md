@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইব্‌ন উবায়দ (রহঃ) .... আবদুল্লাহ্‌ ইব্‌ন আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অচিরেই এমন এক ফিতনা-ফ্যসাদ প্রকাশ পাবে, যা গোটা আরবকে ঘিরে ফেলবে। আর এ সময় যারা নিহত হবে, তারা জাহান্নামী। এ সময় মুখ খোলা (বেহুদা কথাবার্তা বলা), তরবারির আঘাতের চাইতেও নিকৃষ্ট হবে।
+। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয়ই অচিরে এরূপ ফিতনা সৃষ্টি হবে, যা সমস্ত আরবকে ধ্বংসের মুখে ঠেলে দিবে। সেই ফিতনায় নিহতরা জাহান্নামী হবে। জিহ্বার ব্যবহার তখন তরবারির আঘাতের চাইতেও মারাত্মক হবে। দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4265</td></tr><tr><td>Arabic No</td><td>4265</td></tr><tr><td>Reference</td><td>Book 37 Hadith 26</td></tr></tbody></table></div>
 

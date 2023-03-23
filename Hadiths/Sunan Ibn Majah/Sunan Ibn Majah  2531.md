@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৫৩১। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আযাদকৃত দাসী মায়মূনা বিনতে সা'দ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট জারজ সন্তান আযাদ করা সম্পর্কে জিজ্ঞেস করা হলো। তিনি বলেনঃ আমি যে জুতাজোড়া পরে জিহাদ করি তা, আমা কর্তৃক জারজ সন্তান আযাদ করার তুলনায় অধিক উত্তম।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আযাদকৃত দাসী মায়মূনা বিনতে সা'দ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট জারজ সন্তান আযাদ করা সম্পর্কে জিজ্ঞেস করা হলো। তিনি বলেনঃ আমি যে জুতাজোড়া পরে জিহাদ করি তা, আমা কর্তৃক জারজ সন্তান আযাদ করার তুলনায় অধিক উত্তম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2531</td></tr><tr><td>Arabic No</td><td>2531</td></tr><tr><td>Reference</td><td>Book 19 Hadith 20</td></tr></tbody></table></div>
 

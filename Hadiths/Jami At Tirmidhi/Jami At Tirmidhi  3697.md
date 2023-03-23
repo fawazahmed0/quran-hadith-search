@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬৯৭। আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর, উমার ও উসমান (রাযিঃ)-সহ উহুদ পাহাড়ে আরোহণ করেন। তাদেরকে নিয়ে পাহাড় কেঁপে উঠে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (পদাঘাত করে) বললেনঃ হে উহুদ শান্ত হও। তোমার উপরে একজন নবী, একজন সিদ্দীক (পরম সত্যবাদী) ও দু'জন শহীদ রয়েছেন। সহীহঃ সহীহাহ (৮৭৫), বুখারী। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর, উমার ও উসমান (রাযিঃ)-সহ উহুদ পাহাড়ে আরোহণ করেন। তাদেরকে নিয়ে পাহাড় কেঁপে উঠে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (পদাঘাত করে) বললেনঃ হে উহুদ শান্ত হও। তোমার উপরে একজন নবী, একজন সিদ্দীক (পরম সত্যবাদী) ও দু'জন শহীদ রয়েছেন। সহীহঃ সহীহাহ (৮৭৫), বুখারী। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3697</td></tr><tr><td>Arabic No</td><td>3697</td></tr><tr><td>Reference</td><td>Book 49 Hadith 93</td></tr></tbody></table></div>
 

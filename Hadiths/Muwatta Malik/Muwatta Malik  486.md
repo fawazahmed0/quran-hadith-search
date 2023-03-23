@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১৭. আবু সাঈদ খুদরী (রাঃ) হইতে বর্ণিত- তিনি এক ব্যক্তিকে, ‘কুল হুয়াল্লাহু আহাদ’ পাঠ করিতে শুনিলেন। সে বারবার উহা পাঠ করিতেছিল। ফজরে যখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খেদমতে হাযির হইলেন, তখন তাহার নিকট এই বিষয় উল্লেখ করিলেন- (আবু সাইদ খুদরী) এই সূরা (পাঠ করা)-কে সাধারণ আমল মনে করিতেছিলেন। (ইহা শুনিয়া) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিলেনঃ আমার প্রাণ যাহার হাতে তাহার শপথ, নিশ্চয় এই সূরাটি কুরআনের এক-তৃতীয়াংশের সমান মর্যাদা রাখে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>486</td></tr><tr><td>Arabic No</td><td>486</td></tr><tr><td>Reference</td><td>Book 15 Hadith 17</td></tr></tbody></table></div>
 

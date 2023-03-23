@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবদুল আ'লা ইবন ওয়াসিল ইবন আবদুল আলা (রহঃ) ... জাবির ইবন আবদুল্লাহ্ (রাঃ) বলেন, এক আনসারী ঘোষণা করেছিল তার মৃত্যুর পর তার দাস মুক্ত। সে ব্যক্তি ছিল অভাবগ্রস্ত এবং ঋণগ্রস্ত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঐ দাসকে আটশত দিরহামে বিক্রি করে ঐ টাকা তাকে দিয়ে বললেনঃ তুমি এর দ্বারা তোমার ঋণ পরিশোধ কর এবং তোমার পোষ্যদের জন্য ব্যয় কর।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5418</td></tr><tr><td>Arabic No</td><td>5418</td></tr><tr><td>Reference</td><td>Book 49 Hadith 40</td></tr></tbody></table></div>
 

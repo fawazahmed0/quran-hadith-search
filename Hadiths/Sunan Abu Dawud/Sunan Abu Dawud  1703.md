@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইব্‌ন ইসমাঈল (রহঃ) .... সালামা ইব্‌ন কুহাইল (রহঃ) থেকে এই সূত্রে পূর্বোক্ত হাদীসের অনুরূপ অর্থের হাদীস বর্ণিত হয়েছে। এর ঘোষণা দেওয়া সম্পর্কে তিনি বলেনঃ তা দুই অথবা তিন বছর। তিনি আরও বলেন, এর পরিমাণ, থলি ও মুখ বাধার রশি চিনে রাখ। এতে আরো আছে, যদি এর মালিক এসে যায় এবং এর সংখা ও থলি চিনতে পারে তবে তাকে তা প্রত্যার্পণ কর।
+। সালামাহ ইবনু কুহাইল (রাঃ) সূত্রে এ সানাদে পূর্বোক্ত হাদীসের অনুরূপ অর্থের হাদীস বর্ণিত। তিনি ঘোষণা সম্পর্কে বলেন, দুই অথবা তিন বছর। আর তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেনঃ (দীনারের) পরিমাণ, থলে এবং থলের বাঁধন চিনে রাখো। যদি এর মালিক আসে এবং এর সংখ্যা ও থলে চিনতে পারে তাহলে তাকে তা দিয়ে দিবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1703</td></tr><tr><td>Arabic No</td><td>1703</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
 

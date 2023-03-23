@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৬৪০। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। যে ব্যাক্তি তার ঋতুবতী স্ত্রীর সাথে সঙ্গম করলো, তার সম্পর্কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সে এক দ্বীনার বা অর্ধ দ্বীনার দান-খয়রাত করবে।
+। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। যে ব্যাক্তি তার ঋতুবতী স্ত্রীর সাথে সঙ্গম করলো, তার সম্পর্কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সে এক দ্বীনার বা অর্ধ দ্বীনার দান-খয়রাত করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>640</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
 

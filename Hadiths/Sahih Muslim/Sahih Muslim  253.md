@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৫৪, আন্তর্জাতিক নাম্বারঃ ৮৫ ১৫৪-(১৩৮/...) মুহাম্মাদ ইবনু আবি উমার আল মাক্কী (রহঃ) ..... 'আবদুল্লাহ ইরনু মাসউদ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি জিজ্ঞেস করলাম, হে আল্লাহর নবী! কোন আমল জান্নাতের অধিক নিকটবর্তী করে? তিনি বললেন, সঠিক ওয়াক্তে সালাত আদায় করা। আমি জিজ্ঞেস করলাম, আর কোনটি, হে আল্লাহর নবী? তিনি বললেন, মাতা-পিতার সঙ্গে সদ্ব্যবহার করা। আমি জিজ্ঞেস করলাম, আর কোনটি, হে আল্লাহর নবী? তিনি বললেন, আল্লাহর পথে জিহাদ করা। (ইসলামিক ফাউন্ডেশনঃ ১৫৫, ইসলামিক সেন্টারঃ ১৬১)
+মুহাম্মাদ ইবনু আবি উমার আল মাক্কী (রহঃ) ..... 'আবদুল্লাহ ইরনু মাসউদ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি জিজ্ঞেস করলাম, হে আল্লাহর নবী! কোন আমল জান্নাতের অধিক নিকটবর্তী করে? তিনি বললেন, সঠিক ওয়াক্তে সালাত আদায় করা। আমি জিজ্ঞেস করলাম, আর কোনটি, হে আল্লাহর নবী? তিনি বললেন, মাতা-পিতার সঙ্গে সদ্ব্যবহার করা। আমি জিজ্ঞেস করলাম, আর কোনটি, হে আল্লাহর নবী? তিনি বললেন, আল্লাহর পথে জিহাদ করা। (ইসলামিক ফাউন্ডেশনঃ ১৫৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>253</td></tr><tr><td>Arabic No</td><td>85.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 159</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Muhammad bin Abu Umar al-Makki] telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. Ebî Ömer el-Mekki rivayet etti. (Dedi ki): Bize Mervân el-Fezân rivayet etti. (Dediki): Bize Ebu Ya'fur, el-Velid b. el-Ayzâr'dan, o da Ebu Amr Şeybânî'den, o da Abdullah b. Mes'ud'dan naklen rivayet etti. Şöyle demiş: Ey Allah'ın Nebisi hangi amel cennete daha yakın(laştırıcı)dır dedim. O: "Vakitlerinde kılınan namazdır" buyurdu. Ben: Başka hangisidir ey Allah'ın Nebisi, dedim. O: ''Anne babaya iyiliktir" buyurdu. Ben: Başka hangisidir ey Allah'ın Nebisi, dedim. O: ''Allah yolunda cihaddır" buyurdu.595 Diğer tahric: Buhari, 504, 2630, 5625, 7096; Tirmizi, 173; Nesai, 609, 610; Tuhfetu'l-Eşraf, 9232
+Bize Muhammed b. Ebî Ömer el-Mekki rivayet etti. (Dedi ki): Bize Mervân el-Fezân rivayet etti. (Dediki): Bize Ebu Ya'fur, el-Velid b. el-Ayzâr'dan, o da Ebu Amr Şeybânî'den, o da Abdullah b. Mes'ud'dan naklen rivayet etti. Şöyle demiş: Ey Allah'ın Nebisi hangi amel cennete daha yakın(laştırıcı)dır dedim. O: "Vakitlerinde kılınan namazdır" buyurdu. Ben: Başka hangisidir ey Allah'ın Nebisi, dedim. O: ''Anne babaya iyiliktir" buyurdu. Ben: Başka hangisidir ey Allah'ın Nebisi, dedim. O: ''Allah yolunda cihaddır" buyurdu.595 Diğer tahric: Buhari, 504, 2630, 5625, 7096; Tirmizi, 173; Nesai, 609, 610; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>253</td></tr><tr><td>Arabic No</td><td>85.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 159</td></tr></tbody></table></div>
 

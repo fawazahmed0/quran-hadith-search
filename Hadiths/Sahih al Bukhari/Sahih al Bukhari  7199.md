@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যেখানেই থাকি না কেন সত্যের উপর দৃঢ় থাকব কিংবা বলেছিলেন, সত্য কথা বলব এবং আল্লাহর কাজে কোন নিন্দুকের নিন্দার ভয় করব না। [৭০৫৬] (আধুনিক প্রকাশনী- ৬৬৯৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7199</td></tr><tr><td>Arabic No</td><td>7199</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Ubada bin As-Samit:We gave the oath of allegiance to Allah's Messenger (ﷺ) that we would listen to and obey him both at the time when we were active and at the time when we were tired and that we would not fight against the ruler or disobey him, and would stand firm for the truth or say the truth wherever we might be, and in the Way of Allah we would not be afraid of the blame of the blamers. (See Hadith No. 178 and 320)
+Narrated 'Ubada bin As-Samit:We gave the oath of allegiance to Allah's Messenger (ﷺ) that we would listen to and obey him both at the time when we were active and at the time when we were tired and that we would not fight against the ruler or disobey him, and would stand firm for the truth or say the truth wherever we might be, and in the Way of Allah we would not be afraid of the blame of the blamers. (See Hadith No. 178 and)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7199</td></tr><tr><td>Arabic No</td><td>7199</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

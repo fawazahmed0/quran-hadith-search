@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৭৪২। ওয়াসিলা ইবনুল আসকা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ নারীগণ বিশেষ তিন শ্রেণীর লোকের ওয়ারিস হতে পারে। (১) তার আযাদকৃত দাস-দাসীর, (২) পরিত্যক্ত শিশুর যাকে সে কুড়িয়ে পেয়েছে এবং (৩) সেই সন্তানের যার সম্পর্কে সে স্বামীর সাথে লি‘আন (অভিশাপযুক্ত শপথ) করেছে। মুহাম্মাদ ইবনে ইয়াযীদ (রহঃ) বলেন, এ হাদীস হিশাম ছাড়া অন্য কেউ রিওয়ায়াত করেননি।
+। ওয়াসিলা ইবনুল আসকা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ নারীগণ বিশেষ তিন শ্রেণীর লোকের ওয়ারিস হতে পারে। (১) তার আযাদকৃত দাস-দাসীর, (২) পরিত্যক্ত শিশুর যাকে সে কুড়িয়ে পেয়েছে এবং (৩) সেই সন্তানের যার সম্পর্কে সে স্বামীর সাথে লি‘আন (অভিশাপযুক্ত শপথ) করেছে। মুহাম্মাদ ইবনে ইয়াযীদ (রহঃ) বলেন, এ হাদীস হিশাম ছাড়া অন্য কেউ রিওয়ায়াত করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2742</td></tr><tr><td>Arabic No</td><td>2742</td></tr><tr><td>Reference</td><td>Book 23 Hadith 24</td></tr></tbody></table></div>
 

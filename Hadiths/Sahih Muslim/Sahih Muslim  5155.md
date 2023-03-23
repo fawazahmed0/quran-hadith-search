@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫০৪৯, আন্তর্জাতিক নাম্বারঃ ১৯৮৮ ৫০৪৯-(…/...) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... ইয়াহইয়া ইবনু আবূ কাসীর (রহঃ) হতে উল্লেখিত সূত্রে হুবহু বর্ণিত রয়েছে। (ইসলামিক ফাউন্ডেশন ৪৯৯০, ইসলামিক সেন্টার ৪৯৯৯)
+(…/...) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... ইয়াহইয়া ইবনু আবূ কাসীর (রহঃ) হতে উল্লেখিত সূত্রে হুবহু বর্ণিত রয়েছে। (ইসলামিক ফাউন্ডেশন ৪৯৯০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5155</td></tr><tr><td>Arabic No</td><td>1988.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 29</td></tr></tbody></table></div>
 

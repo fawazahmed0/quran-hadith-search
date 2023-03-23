@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন বাশশার (রহঃ) ..... সাঈদ ইবনুল মুস্যায়্যাব (রহঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কর্তৃক মায়মূনা (রাঃ)-কে ইহরাম অবস্থায় বিয়ে হওয়ার বিষয়ে ইবন আব্বাস (রাঃ) সন্দেহে পড়েছেন।
+। সাঈদ ইবনুল মুসাইয়্যাব (রহ.) সূত্রে বর্ণিত। তিনি বলেন, ইহরাম অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে মায়মূনাহ (রাযি.)-এর বিয়ে হওয়ার বিষয়ে ইবনু ‘আব্বাস (রাযি.) সন্দেহে পড়েছেন।[1] সহীহ মাকতূ।’
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1845</td></tr><tr><td>Arabic No</td><td>1845</td></tr><tr><td>Reference</td><td>Book 11 Hadith 125</td></tr></tbody></table></div>
 

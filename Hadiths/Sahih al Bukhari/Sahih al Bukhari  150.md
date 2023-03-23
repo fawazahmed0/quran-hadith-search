@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন প্রকৃতির ডাকে সাড়া দিতে বের হতেন তখন আমি ও অপর একটি ছেলে পানির পাত্র নিয়ে আসতাম। অর্থাৎ তিনি তা দিয়ে শৌচকার্য সারতেন। (১৫১, ১৫২, ২১৭, ৫০০; মুসলিম ২/২১, হাঃ ২৭০, আহমাদ ১৩৭১৯, ১৩১০৮) (আধুনিক প্রকাশনীঃ ১৪৭, ইসলামিক ফাউন্ডেশনঃ ১৫২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন প্রকৃতির ডাকে সাড়া দিতে বের হতেন তখন আমি ও অপর একটি ছেলে পানির পাত্র নিয়ে আসতাম। অর্থাৎ তিনি তা দিয়ে শৌচকার্য সারতেন। (১৫১, ১৫২, ২১৭, ৫০০; মুসলিম ২/২১, হাঃ ২৭০, আহমাদ ১৩৭১৯, ১৩১০৮) (আধুনিক প্রকাশনীঃ ১৪৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 4 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid Hisyam bin 'Abdul Malik] berkata, t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இயற்கைக் கடனை நிறைவேற்ற (வீட்டை விட்டுப்) புறப்பட்டால், நானும் இன்னொரு சிறுவரும் தண்ணீர் நிரம்பிய சிறிய தோல் பாத்திரம் ஒன்றை எங்களுடன் எடுத்துக்கொண்டு செல்வோம். (இதன் அறிவிப்பாளர்களில் ஒருவரான அபுல்வலீத் ஹிஷாம் பின் அப்தில் மலிக் (ரஹ்) அவர்கள் கூறுகிறார்கள்:) “அந்தத் தண்ணீரால் நபி (ஸல்) அவர்கள் துப்புரவு செய்துகொள்வதற்காக (எடுத்துச் சென்றோம்)” என்ற கருத்தில்தான் அனஸ் (ரலி) அவர்கள் இவ்வாறு கூறினார்கள். அத்தியாயம் : 4
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இயற்கைக் கடனை நிறைவேற்ற (வீட்டை விட்டுப்) புறப்பட்டால், நானும் இன்னொரு சிறுவரும் தண்ணீர் நிரம்பிய சிறிய தோல் பாத்திரம் ஒன்றை எங்களுடன் எடுத்துக்கொண்டு செல்வோம். (இதன் அறிவிப்பாளர்களில் ஒருவரான அபுல்வலீத் ஹிஷாம் பின் அப்தில் மலிக் (ரஹ்) அவர்கள் கூறுகிறார்கள்:) “அந்தத் தண்ணீரால் நபி (ஸல்) அவர்கள் துப்புரவு செய்துகொள்வதற்காக (எடுத்துச் சென்றோம்)” என்ற கருத்தில்தான் அனஸ் (ரலி) அவர்கள் இவ்வாறு கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 4 Hadith 16</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Walid Hisyam bin 'Abdul Malik] berkata, t
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Mâlik r.a. şöyle demiştir: "Nebi Sallallahu aleyhi ve sellem tuvalet ihtiyacını görmek üzere çıkınca ben ve benimle birlikte bir çocuk -tuvalet temizliği için- yanımızda bir su kırbası götürürdük. Tekrar: 151, 152, 217, 500
+Enes İbn Mâlik r.a. şöyle demiştir: "Nebi Sallallahu aleyhi ve sellem tuvalet ihtiyacını görmek üzere çıkınca ben ve benimle birlikte bir çocuk -tuvalet temizliği için- yanımızda bir su kırbası götürürdük. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 4 Hadith 16</td></tr></tbody></table></div>
 

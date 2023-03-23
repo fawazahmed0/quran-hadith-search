@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ২৩. উমারা ইবন সাইয়্যাদ (রহঃ) সাঈদ ইবন মুসায়্যাব (রহঃ)-কে বলিতে শুনিয়াছেনঃ ‘বাকিয়াতুস সালিহাত’ (যাহা কুরআনে উল্লেখ করা হইয়াছে) সম্পর্কে বলিয়াছেনঃ হইতেছে বাকিয়াতুস সালিহাত।
+রেওয়ায়ত ২৩. উমারা ইবন সাইয়্যাদ (রহঃ) সাঈদ ইবন মুসায়্যাব (রহঃ)-কে বলিতে শুনিয়াছেনঃ ‘বাকিয়াতুস সালিহাত’ (যাহা কুরআনে উল্লেখ করা হইয়াছে) সম্পর্কে বলিয়াছেনঃ (اللَّهُ أَكْبَرُ وَسُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَهَ إِلاَّ اللَّهُ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ) হইতেছে বাকিয়াতুস সালিহাত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>492</td></tr><tr><td>Arabic No</td><td>492</td></tr><tr><td>Reference</td><td>Book 15 Hadith 23</td></tr></tbody></table></div>
 

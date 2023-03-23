@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ হে মুসলিম মহিলাগণ! কোন প্রতিবেশী মহিলা যেন তার অপর প্রতিবেশী মহিলাকে (হাদিয়া ফেরত দিয়ে) হেয় প্রতিপন্ন না করে। তা ছাগলের পায়ের ক্ষুরই হোক না কেন। [২৫৬৬] (আধুনিক প্রকাশনী- ৫৫৮৩, ইসলামিক ফাউন্ডেশন- ৫৪৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ হে মুসলিম মহিলাগণ! কোন প্রতিবেশী মহিলা যেন তার অপর প্রতিবেশী মহিলাকে (হাদিয়া ফেরত দিয়ে) হেয় প্রতিপন্ন না করে। তা ছাগলের পায়ের ক্ষুরই হোক না কেন। [২৫৬৬] (আধুনিক প্রকাশনী- ৫৫৮৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6017</td></tr><tr><td>Arabic No</td><td>6017</td></tr><tr><td>Reference</td><td>Book 78 Hadith 48</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: “முஸ்லிம் பெண்களே! (உங்களில்) எந்தப் பெண்ணும் தன் அண்டை வீட்டுக்காரிக்கு ஓர் ஆட்டின் கால்குளம்பை (அன்பளிப்பாக) அளித்தாலும் அதை அற்பமாகக் கருத வேண்டாம்” என்று நபி (ஸல்) அவர்கள் கூறுவார்கள்.36 அத்தியாயம் : 78
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: “முஸ்லிம் பெண்களே! (உங்களில்) எந்தப் பெண்ணும் தன் அண்டை வீட்டுக்காரிக்கு ஓர் ஆட்டின் கால்குளம்பை (அன்பளிப்பாக) அளித்தாலும் அதை அற்பமாகக் கருத வேண்டாம்” என்று நபி (ஸல்) அவர்கள் கூறுவார்கள்.36 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6017</td></tr><tr><td>Arabic No</td><td>6017</td></tr><tr><td>Reference</td><td>Book 78 Hadith 48</td></tr></tbody></table></div>
 

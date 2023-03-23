@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ওয়াইল (রহ.) হতে বর্ণিত। তিনি বলেন, কা‘বার সামনে আমি শাইবাহর সাথে কুরসীতে বসলাম। তখন তিনি বললেন, ‘উমার (রাঃ) এখানে বসেই বলেছিলেন, আমি কা‘বা ঘরে রক্ষিত সোনা ও রূপা বণ্টন করে দেয়ার ইচ্ছা করেছি। (শাইবাহ বলেন) আমি বললাম, আপনার উভয় সঙ্গী [আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও আবূ বাকর (রাঃ)] তো এরূপ করেননি। তিনি বললেন, তাঁরা এমন দু’ ব্যক্তিত্ব যাঁদের অনুসরণ আমি করব। (৭২৭৫) (আধুনিক প্রকাশনীঃ ১৪৯০, ইসলামিক ফাউন্ডেশনঃ ১৪৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ওয়াইল (রহ.) হতে বর্ণিত। তিনি বলেন, কা‘বার সামনে আমি শাইবাহর সাথে কুরসীতে বসলাম। তখন তিনি বললেন, ‘উমার (রাঃ) এখানে বসেই বলেছিলেন, আমি কা‘বা ঘরে রক্ষিত সোনা ও রূপা বণ্টন করে দেয়ার ইচ্ছা করেছি। (শাইবাহ বলেন) আমি বললাম, আপনার উভয় সঙ্গী [আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও আবূ বাকর (রাঃ)] তো এরূপ করেননি। তিনি বললেন, তাঁরা এমন দু’ ব্যক্তিত্ব যাঁদের অনুসরণ আমি করব। (৭২৭৫) (আধুনিক প্রকাশনীঃ ১৪৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1594</td></tr><tr><td>Arabic No</td><td>1594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 80</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூவாயில் ஷகீக் பின் சலமா (ரஹ்) அவர்கள் கூறியதாவது: நான் ஷைபா பின் உஸ்மான் பின் அபீதல்ஹா (ரலி) அவர்களுடன் கஅபா வில் நாற்காலியில் அமர்ந்திருந்தேன். அப்போது ஷைபா (ரலி) அவர்கள், “இந்த இடத்தில் உமர் (ரலி) அவர்கள் அமர்ந் திருந்தார்கள். அப்போது ‘இந்த கஅபாவில் உள்ள பொன்னையும் வெள்ளியையும் பங்குவைக்காமல் விடுவதில்லை எனத் தீர்மானித்துவிட்டேன்’ என்றார்கள். அப்போது நான் அவர்களிடம் ‘தங்களுடைய தோழர்கள் (நபி (ஸல்), அபூபக்ர் (ரலி) ஆகிய) இருவரும் அவ்வாறு செய்யவில்லையே?’ எனக் கூறினேன். அதற்கு ‘அந்த இருவரும்தான் நான் பின்பற்றுவதற்கு ஏற்ற மனிதர்கள்’ என உமர் (ரலி) அவர்கள் சொன்னார்கள்” என்றார்கள்.27 அத்தியாயம் : 25
+அபூவாயில் ஷகீக் பின் சலமா (ரஹ்) அவர்கள் கூறியதாவது: நான் ஷைபா பின் உஸ்மான் பின் அபீதல்ஹா (ரலி) அவர்களுடன் கஅபா வில் நாற்காலியில் அமர்ந்திருந்தேன். அப்போது ஷைபா (ரலி) அவர்கள், “இந்த இடத்தில் உமர் (ரலி) அவர்கள் அமர்ந் திருந்தார்கள். அப்போது ‘இந்த கஅபாவில் உள்ள பொன்னையும் வெள்ளியையும் பங்குவைக்காமல் விடுவதில்லை எனத் தீர்மானித்துவிட்டேன்’ என்றார்கள். அப்போது நான் அவர்களிடம் ‘தங்களுடைய தோழர்கள் (நபி (ஸல்), அபூபக்ர் (ரலி) ஆகிய) இருவரும் அவ்வாறு செய்யவில்லையே?’ எனக் கூறினேன். அதற்கு ‘அந்த இருவரும்தான் நான் பின்பற்றுவதற்கு ஏற்ற மனிதர்கள்’ என உமர் (ரலி) அவர்கள் சொன்னார்கள்” என்றார்கள்.27 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1594</td></tr><tr><td>Arabic No</td><td>1594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 80</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Vail şöyle anlatır: Şeybe İle birlikte Kabe'de bir oturakta oturuyorduk. Şeybe bana, "Burada Ömer r.a. de oturmuş ve şöyle demişti: "Düşündüm ki, Kabe'nin içinde ne kadar altın ve gümüş varsa hepsini fakirlere dağıtayım." Ben de ona, "Bunu Hz. Nebi ve Ebu Bekir yapmadılar" dedim. Bunun üzerine Ömer r.a., "Onlar, örnek alınacak kimselerdir" diye cevap verdi." Tekrar; 7275
+Ebu Vail şöyle anlatır: Şeybe İle birlikte Kabe'de bir oturakta oturuyorduk. Şeybe bana, "Burada Ömer r.a. de oturmuş ve şöyle demişti: "Düşündüm ki, Kabe'nin içinde ne kadar altın ve gümüş varsa hepsini fakirlere dağıtayım." Ben de ona, "Bunu Hz. Nebi ve Ebu Bekir yapmadılar" dedim. Bunun üzerine Ömer r.a., "Onlar, örnek alınacak kimselerdir" diye cevap verdi." Tekrar;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1594</td></tr><tr><td>Arabic No</td><td>1594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 80</td></tr></tbody></table></div>
 

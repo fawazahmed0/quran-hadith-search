@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... জাবির ইবন আবদিল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কোন ব্যক্তি কোন মালদার গোলাম বিক্রি করে, তবে সে গোলামের মালের মালিক হবে বিক্রেতা। তবে ক্রেতা যদি ক্রয়ের সময় গোলামের মালসহ খরিদ করার শর্তারোপ করে, তবে তা স্বতন্ত্র ব্যাপার।
+। জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি এমন গোলাম বিক্রয় করে যার কিছু মাল আছে, তাহলে ঐ মাল বিক্রেতা পাবে। কিন্তু ক্রেতা যদি নিজের জন্য শর্ত করে তাহলে ভিন্ন কথা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3435</td></tr><tr><td>Arabic No</td><td>3435</td></tr><tr><td>Reference</td><td>Book 24 Hadith 20</td></tr></tbody></table></div>
 

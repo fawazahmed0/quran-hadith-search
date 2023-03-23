@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২২৮৮ . আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ধনী ব্যক্তির পক্ষ হতে ঋণ পরিশোধে গড়িমসি করা জুলুম। যাকে (তার পাওনার জন্য) ধনীর হাওয়ালা করা হয়, সে যেন তা মেনে নেয়। (২২৮৭) (আধুনিক প্রকাশনীঃ ২১২৬, ইসলামিক ফাউন্ডেশনঃ ২১৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ধনী ব্যক্তির পক্ষ হতে ঋণ পরিশোধে গড়িমসি করা জুলুম। যাকে (তার পাওনার জন্য) ধনীর হাওয়ালা করা হয়, সে যেন তা মেনে নেয়। (২২৮৭) (আধুনিক প্রকাশনীঃ ২১২৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2288</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 38 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: செல்வந்தர் (தாம் வாங்கிய கடனைத் திருப்பிச் செலுத்தாமல் தவணை கேட்டு) இழுத்தடிப்பது அநியாயமாகும். உங்களில் ஒருவரது கடன் ஒரு செல்வந்தர்மீது மாற்றிவிடப்பட்டால் அவர் ஒப்புக் கொள்ளட்டும்! இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 38
+நபி (ஸல்) அவர்கள்கூறினார்கள்: செல்வந்தர் (தாம் வாங்கிய கடனைத் திருப்பிச் செலுத்தாமல் தவணை கேட்டு) இழுத்தடிப்பது அநியாயமாகும். உங்களில் ஒருவரது கடன் ஒரு செல்வந்தர்மீது மாற்றிவிடப்பட்டால் அவர் ஒப்புக் கொள்ளட்டும்! இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2288</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 38 Hadith 2</td></tr></tbody></table></div>
 

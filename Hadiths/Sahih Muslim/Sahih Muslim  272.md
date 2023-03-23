@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৭৩, আন্তর্জাতিক নাম্বারঃ ৯৪ ১৭৩-(১৫৩/৯৪) মুহাম্মাদ ইবনু আল মুসান্না ও ইবনু বাশ্শার (রহঃ) ..... আবূ যার (রাযিঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, জিবরীল (আঃ) আমার নিকট এসে সুসংবাদ দিলেন যে, আপনার উম্মতের যে কেউ শিরক না করে মারা যাবে সে জান্নাতে প্রবেশ করবে। আমি (আবূ যার) বললাম, যদিও সে ব্যভিচার করে এবং যদিও সে চুরি করে। তিনি বললেন, যদিও ব্যভিচার করে ও চুরি করে। (ইসলামিক ফাউন্ডেশনঃ ১৭৪, ইসলামিক সেন্টারঃ ১৮০)
+মুহাম্মাদ ইবনু আল মুসান্না ও ইবনু বাশ্শার (রহঃ) ..... আবূ যার (রাযিঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, জিবরীল (আঃ) আমার নিকট এসে সুসংবাদ দিলেন যে, আপনার উম্মতের যে কেউ শিরক না করে মারা যাবে সে জান্নাতে প্রবেশ করবে। আমি (আবূ যার) বললাম, যদিও সে ব্যভিচার করে এবং যদিও সে চুরি করে। তিনি বললেন, যদিও ব্যভিচার করে ও চুরি করে। (ইসলামিক ফাউন্ডেশনঃ ১৭৪, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>94.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 178</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. el-Müsenna ve İbn Beşşar tahdis etti. İbnu'l-Müsenna dedi ki: Bize Muhammed b. Cafer tahdis etti. Bize Şube, Vasıl el-Ahdeb'den tahdis etti. O el-Ma'rur b. Suveyd'den şöyle dediğini nakletti: Ebu Zerr'i, Nebi (Sallallahu aleyhi ve Sellem)'den şöyle buyurdu diye tahdis ederken dinledim: "Cebrail (aleyhisselam) bana geldi ve ümmetimden Allah'a hiçbir şeyi ortak koşmaksızın ölen bir kimse cennete girer diye müjde verdi. Ben: ''Zina da etse, hırsızlık da etse de mi dedim. O: Zina da etse, hırsızlık da etse dedi. " Diğer tahric: Buhari, 1180, 7lH9 -muhlasar olarak-; Tuhfetu'l-Eşraf, 11982
+Bize Muhammed b. el-Müsenna ve İbn Beşşar tahdis etti. İbnu'l-Müsenna dedi ki: Bize Muhammed b. Cafer tahdis etti. Bize Şube, Vasıl el-Ahdeb'den tahdis etti. O el-Ma'rur b. Suveyd'den şöyle dediğini nakletti: Ebu Zerr'i, Nebi (Sallallahu aleyhi ve Sellem)'den şöyle buyurdu diye tahdis ederken dinledim: "Cebrail (aleyhisselam) bana geldi ve ümmetimden Allah'a hiçbir şeyi ortak koşmaksızın ölen bir kimse cennete girer diye müjde verdi. Ben: ''Zina da etse, hırsızlık da etse de mi dedim. O: Zina da etse, hırsızlık da etse dedi. " Diğer tahric: Buhari, 1180, 7lH9 -muhlasar olarak-; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>94.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 178</td></tr></tbody></table></div>
 

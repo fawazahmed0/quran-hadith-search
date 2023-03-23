@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, উকায, মাজান্না এবং যুল-মাজায নামক স্থানে জাহিলী যুগে বাজার ছিল। মুসলিমগণ সেখানে হাজ্জ মওসুমে ব্যবসা করতে যাওয়া দূষণীয় মনে করত। তাই অবতীর্ণ হলঃ ‘‘তোমাদের পালনকর্তার অনুগ্রহ অন্বেষণ করায় তোমাদের কোন পাপ নেই’’- (সূরাহ আল-বাকারাহ ২/১৯৮)। [১৭৭০] (আধুনিক প্রকাশনীঃ ৪১৬১, ইসলামিক ফাউন্ডেশনঃ ৪১৬২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, উকায, মাজান্না এবং যুল-মাজায নামক স্থানে জাহিলী যুগে বাজার ছিল। মুসলিমগণ সেখানে হাজ্জ মওসুমে ব্যবসা করতে যাওয়া দূষণীয় মনে করত। তাই অবতীর্ণ হলঃ ‘‘তোমাদের পালনকর্তার অনুগ্রহ অন্বেষণ করায় তোমাদের কোন পাপ নেই’’- (সূরাহ আল-বাকারাহ ২/১৯৮)। [১৭৭০] (আধুনিক প্রকাশনীঃ ৪১৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4519</td></tr><tr><td>Arabic No</td><td>4519</td></tr><tr><td>Reference</td><td>Book 65 Hadith 44</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:'Ukaz, Mijanna and Dhul-Majaz were markets during the Pre-islamic Period. They (i.e. Muslims) considered it a sin to trade there during the Hajj time (i.e. season), so this Verse was revealed:-- "There is no harm for you if you seek of the Bounty of your Lord during the Hajj season." (2.198)
+Narrated Ibn 'Abbas:'Ukaz, Mijanna and Dhul-Majaz were markets during the Pre-islamic Period. They (i.e. Muslims) considered it a sin to trade there during the Hajj time (i.e. season), so this Verse was revealed:-- "There is no harm for you if you seek of the Bounty of your Lord during the Hajj season
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4519</td></tr><tr><td>Arabic No</td><td>4519</td></tr><tr><td>Reference</td><td>Book 65 Hadith 44</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad] dia berkata; Telah mengabarkan kepadaku [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: உகாழ், மஜன்னா, மற்றும் ஃதுல் மஜாஸ் ஆகியன அறியாமைக் காலத்துச் சந்தைகளாக இருந்தன. (இஸ்லாம் வந்த பிறகு) மக்கள் ஹஜ்ஜுப் பருவத்தில் (அங்கு) வியாபாரம் செய்வதைப் பாவச்செயலாகக் கருதினர். ஆகவே, ஹஜ் பருவத்தில், “உங்கள் இறைவனின் அருளை (வியாபாரத்தின் மூலம்) தேடிக் கொள்வது உங்கள்மீது குற்றமாகாது” எனும் (2:198 ஆவது) வசனத் தொடர் அருளப்பட்டது.55 அத்தியாயம் : 65
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: உகாழ், மஜன்னா, மற்றும் ஃதுல் மஜாஸ் ஆகியன அறியாமைக் காலத்துச் சந்தைகளாக இருந்தன. (இஸ்லாம் வந்த பிறகு) மக்கள் ஹஜ்ஜுப் பருவத்தில் (அங்கு) வியாபாரம் செய்வதைப் பாவச்செயலாகக் கருதினர். ஆகவே, ஹஜ் பருவத்தில், “உங்கள் இறைவனின் அருளை (வியாபாரத்தின் மூலம்) தேடிக் கொள்வது உங்கள்மீது குற்றமாகாது” எனும் (2:198 ஆவது) வசனத் தொடர் அருளப்பட்டது.55 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4519</td></tr><tr><td>Arabic No</td><td>4519</td></tr><tr><td>Reference</td><td>Book 65 Hadith 44</td></tr></tbody></table></div>
 

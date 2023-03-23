@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, উম্মুল ফায্ল (রাযি.) তাঁকে ( وَالْمُرْسَلاَتِ عُرْفًا) সুরাটি তিলাওয়াত করতে শুনে বললেন, বেটা! তুমি এ সূরাহ্ তিলাওয়াত করে আমাকে স্মরণ করিয়ে দিলে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মাগরিবের সালাতে এ সূরাহ্টি পড়তে শেষবারের মত শুনেছিলাম। (৪৪২৯; মুসলিম ৪/৩৫, হাঃ ৪৬২, আহমাদ ২৬৯৪০) (আধুনিক প্রকাশনীঃ ৭১৯, ইসলামিক ফাউন্ডেশনঃ ৭২৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, উম্মুল ফায্ল (রাযি.) তাঁকে ( وَالْمُرْسَلاَتِ عُرْفًا) সুরাটি তিলাওয়াত করতে শুনে বললেন, বেটা! তুমি এ সূরাহ্ তিলাওয়াত করে আমাকে স্মরণ করিয়ে দিলে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মাগরিবের সালাতে এ সূরাহ্টি পড়তে শেষবারের মত শুনেছিলাম। (৪৪২৯; মুসলিম ৪/৩৫, হাঃ ৪৬২, আহমাদ ২৬৯৪০) (আধুনিক প্রকাশনীঃ ৭১৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>763</td></tr><tr><td>Arabic No</td><td>763</td></tr><tr><td>Reference</td><td>Book 10 Hadith 157</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் ‘வல்முர்சலாத்தி உர்ஃபன்’ எனும் (குர்ஆனின் 77ஆவது) அத்தியாயத்தை ஓதுவதை (என் தாயார்) உம்முல் ஃபள்ல் (ரலி) அவர்கள் செவியுற்றார்கள். அப் போது அவர்கள், “என்னருமை மகனே! அல்லாஹ்வின் மீதாணையாக! நீ இந்த அத்தியாயத்தை ஓதி எனக்கு (ஒன்றை) நினைவுபடுத்திவிட்டாய். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மஃக்ரிப் தொழுகை யில் இ(ந்த அத்தியாயத்)தை ஓதக் கேட்டதே நான் இறுதியாக அவர்களிட மிருந்து செவியுற்றதாகும்” என்று கூறினார்கள். அத்தியாயம் : 10
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் ‘வல்முர்சலாத்தி உர்ஃபன்’ எனும் (குர்ஆனின் 77ஆவது) அத்தியாயத்தை ஓதுவதை (என் தாயார்) உம்முல் ஃபள்ல் (ரலி) அவர்கள் செவியுற்றார்கள். அப் போது அவர்கள், “என்னருமை மகனே! அல்லாஹ்வின் மீதாணையாக! நீ இந்த அத்தியாயத்தை ஓதி எனக்கு (ஒன்றை) நினைவுபடுத்திவிட்டாய். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மஃக்ரிப் தொழுகை யில் இ(ந்த அத்தியாயத்)தை ஓதக் கேட்டதே நான் இறுதியாக அவர்களிட மிருந்து செவியுற்றதாகும்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>763</td></tr><tr><td>Arabic No</td><td>763</td></tr><tr><td>Reference</td><td>Book 10 Hadith 157</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Abbas (r.a.)'ın naklettiğine göre: Ümmü'l-Fadl birgün İbn Abbas'ı Mürselat sûresini okurken işitmiş ve şöyle demiştir: "Evlâdım, Allah'a yemin ederim ki sen bu sureyi okuyunca bana Resûlullah Sallallahu Aleyhi ve Sellem'i hatırlattın. Benim O'ndan işittiğim son sûre buydu. Mürselât sûresini akşam namazında okumuştu. Tekrar: 4429
+Abdullah İbn Abbas (r.a.)'ın naklettiğine göre: Ümmü'l-Fadl birgün İbn Abbas'ı Mürselat sûresini okurken işitmiş ve şöyle demiştir: "Evlâdım, Allah'a yemin ederim ki sen bu sureyi okuyunca bana Resûlullah Sallallahu Aleyhi ve Sellem'i hatırlattın. Benim O'ndan işittiğim son sûre buydu. Mürselât sûresini akşam namazında okumuştu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>763</td></tr><tr><td>Arabic No</td><td>763</td></tr><tr><td>Reference</td><td>Book 10 Hadith 157</td></tr></tbody></table></div>
 

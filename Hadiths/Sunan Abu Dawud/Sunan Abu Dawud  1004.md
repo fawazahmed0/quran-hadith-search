@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন হাম্বল (রহঃ) ..... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালামের সময় ‘হযফ’ (অর্থাৎ স্বরকে অহেতুক দীর্ঘায়িত না করা) কে সুন্নাত বলেছেন। (তিরমিযী)
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাম সংক্ষিপ্ত করাকে সুন্নাত বলেছেন। ঈসা (রহঃ) বলেন, ইবনুল মুবারক (রহঃ) আমাকে এ হাদীস নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বাণীরূপে বর্ণনা করতে নিষেধ করেছেন।[1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, আমি আবূ উমাইর ঈসা ইবনু ইউনুস ইল-ফাখূরী আর-রামলী (রহঃ)-কে বলতে শুনেছি, আল-ফিরয়াবী মাক্কাহ হতে প্রত্যাবর্তনের পর এটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বক্তব্য হিসাবে বর্ণনা করা ত্যাগ করেছেন এবং বলেছেন, ইমাম আহমাদ ইবনু হা্ম্বাল (রহঃ) তাকে এ হাদীস নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বাণী হিসাবে বর্ণনা করতে নিষেধ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1004</td></tr><tr><td>Arabic No</td><td>1004</td></tr><tr><td>Reference</td><td>Book 2 Hadith 615</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] telah menceritaka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) şöyle buyurmuştur: "Selâmı uzatmamak sünnettir." Diğer tahric: Tirmizî, salât; Ahmed b. Hanbel, II, 532
+Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) şöyle buyurmuştur: "Selâmı uzatmamak sünnettir." Diğer tahric: Tirmizî, salât; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1004</td></tr><tr><td>Arabic No</td><td>1004</td></tr><tr><td>Reference</td><td>Book 2 Hadith 615</td></tr></tbody></table></div>
 

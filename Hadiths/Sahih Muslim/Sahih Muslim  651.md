@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩৮, আন্তর্জাতিক নাম্বারঃ ২৭৯ ৫৩৮-(৯১/...) যুহায়র ইবনু হারব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমাদের কারো পাত্রে যখন কুকুরে মুখ লাগিয়ে পান করবে তখন (সে পাত্র পবিত্র করার পদ্ধতি হল) সাতবার তা ধুয়ে ফেলা। তবে প্রথমবার মাটি দিয়ে ঘষে পরিষ্কার করতে হবে। (ইসলামিক ফাউন্ডেশনঃ ৫৪২, ইসলামিক সেন্টারঃ ৫৫৮)
+যুহায়র ইবনু হারব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমাদের কারো পাত্রে যখন কুকুরে মুখ লাগিয়ে পান করবে তখন (সে পাত্র পবিত্র করার পদ্ধতি হল) সাতবার তা ধুয়ে ফেলা। তবে প্রথমবার মাটি দিয়ে ঘষে পরিষ্কার করতে হবে। (ইসলামিক ফাউন্ডেশনঃ ৫৪২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>651</td></tr><tr><td>Arabic No</td><td>279.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 117</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Züheyr b. Harb da rivayet etti. (Dedi ki): Bize îsmail b. İbrahim, Hişam b. Hassan'dan, o da Muhammed b. Sîrîn'den o da Ebu Hureyre'den naklen rivayet etti. Şöyle demiş. Resulullah (Sallallahu Aleyhi ve Sellem): "Köpek birinizin kabına dilini sokup yalayacak olursa, o kabın temizlenmesi birincileri toprak ile olmak üzere yedi defa onu yıkamasıdır" buyurdu. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 14510
+Bize Züheyr b. Harb da rivayet etti. (Dedi ki): Bize îsmail b. İbrahim, Hişam b. Hassan'dan, o da Muhammed b. Sîrîn'den o da Ebu Hureyre'den naklen rivayet etti. Şöyle demiş. Resulullah (Sallallahu Aleyhi ve Sellem): "Köpek birinizin kabına dilini sokup yalayacak olursa, o kabın temizlenmesi birincileri toprak ile olmak üzere yedi defa onu yıkamasıdır" buyurdu. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>651</td></tr><tr><td>Arabic No</td><td>279.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 117</td></tr></tbody></table></div>
 

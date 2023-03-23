@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যায়দ ইবনু সাবিত (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সামনে সূরাহ্ ওয়ান্ নাজ্ম তিলাওয়াত করলাম। এতে তিনি সিজদা্ করেননি। (১০৭২) (আধুনিক প্রকাশনীঃ ১০০৭, ইসলামিক ফাউন্ডেশনঃ ১০১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যায়দ ইবনু সাবিত (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সামনে সূরাহ্ ওয়ান্ নাজ্ম তিলাওয়াত করলাম। এতে তিনি সিজদা্ করেননি। (১০৭২) (আধুনিক প্রকাশনীঃ ১০০৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1073</td></tr><tr><td>Arabic No</td><td>1073</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸைத் பின் ஸாபித் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் ‘அந் நஜ்ம்’ எனும் (53ஆவது) அத்தியாயத்தை ஓதிக்காட்டினேன். அப்போது அவர்கள் சஜ்தா செய்யவில்லை.7 அத்தியாயம் : 17
+ஸைத் பின் ஸாபித் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் ‘அந் நஜ்ம்’ எனும் (53ஆவது) அத்தியாயத்தை ஓதிக்காட்டினேன். அப்போது அவர்கள் சஜ்தா செய்யவில்லை.7 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1073</td></tr><tr><td>Arabic No</td><td>1073</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
 

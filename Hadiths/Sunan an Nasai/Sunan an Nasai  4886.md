@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হারিস ইবন মিসকীন (রহঃ) ... আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দণ্ডনীয় অপরাধসমূহ (বিচারকের নিকট আসার পূর্বে নিজেদের মধ্যে ক্ষমা করে দেবে। কেননা কোন বিচার আমার নিকট এলে শাস্তি অবধারিত হয়।)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4886</td></tr><tr><td>Arabic No</td><td>4886</td></tr><tr><td>Reference</td><td>Book 46 Hadith 17</td></tr></tbody></table></div>
 

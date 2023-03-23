@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/১১৪৬। আয়িশাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উযূ (ওজু/অজু/অযু) করার পর দু রাকআত সালাত (নামায/নামাজ) আদায় করতেন, তারপর (ফারয) সালাত পড়ার জন্য চলে যেতেন।
+। আয়িশাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উযূ (ওজু/অজু/অযু) করার পর দু রাকআত সালাত (নামায/নামাজ) আদায় করতেন, তারপর (ফারয) সালাত পড়ার জন্য চলে যেতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1146</td></tr><tr><td>Arabic No</td><td>1146</td></tr><tr><td>Reference</td><td>Book 5 Hadith 344</td></tr></tbody></table></div>
 

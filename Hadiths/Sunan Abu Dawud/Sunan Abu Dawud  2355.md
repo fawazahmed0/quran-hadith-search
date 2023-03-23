@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... সালমান ইবন আমের (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ যখন তোমাদের কেউ রোযা রাখে, তখন সে যেন খেজুর দ্বারা ইফতার করে। আর সে যদি খেজুর না পায়, তবে সে যেন পানি দ্বারা ইফতার করে, কেননা পানি পবিত্র।
+। সালমান ইবনু ‘আমির (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেই সওম রাখলে যেন খেজুর দিয়ে ইফতার করে। খেজুর না পেলে পানি দিয়ে ইফতার করবে। কেননা পানি পবিত্রকারী।[1] দুর্বলঃ যঈফ সুনান আত-তিরমিযী (১০১/৬৬১, ১১০/৬৯৯), যঈফ সুনান ইবনু মাজাহ (৩৭৪), ইরওয়া (৯২২)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৪৭৮। আসমা বিনতু ইয়াযীদ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা'আলার মহান নাম (ইসমে আযম) এই দুই আয়াতের মাঝে নিহিত আছে (অনুবাদ) “আর তোমাদের মা’বুদ একমাত্র আল্লাহ। তিনি ছাড়া অন্য কোন মা'বূদ নেই। তিনি দয়াময়, অতি দয়ালু”(সূরা বাক্কারাহ ১৬৩)। আর সূরা আ-লি ইমরানের প্রারম্ভিক আয়াত (অনুবাদ) “আলিফ-লাম-মীম। তিনিই আল্লাহ, তিনি ছাড়া অন্য কোন মা’বুদ নেই। তিনি চিরঞ্জীব ও চিরস্থায়ী”- (সূরা আ-লি ইমরান ১-২)। হাসানঃ ইবনু মাজাহ (হাঃ ৩৮৫৫)। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ।
+। আসমা বিনতু ইয়াযীদ (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা'আলার মহান নাম (ইসমে আযম) এই দুই আয়াতের মাঝে নিহিত আছে (অনুবাদ) “আর তোমাদের মা’বুদ একমাত্র আল্লাহ। তিনি ছাড়া অন্য কোন মা'বূদ নেই। তিনি দয়াময়, অতি দয়ালু”(সূরা বাক্কারাহ ১৬৩)। আর সূরা আ-লি ইমরানের প্রারম্ভিক আয়াত (অনুবাদ) “আলিফ-লাম-মীম। তিনিই আল্লাহ, তিনি ছাড়া অন্য কোন মা’বুদ নেই। তিনি চিরঞ্জীব ও চিরস্থায়ী”- (সূরা আ-লি ইমরান ১-২)। হাসানঃ ইবনু মাজাহ (হাঃ ৩৮৫৫)। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3478</td></tr><tr><td>Arabic No</td><td>3478</td></tr><tr><td>Reference</td><td>Book 48 Hadith 109</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ali bin Khasyram] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Esma binti Yezîd (r.anha)’dan rivâyete göre, Nebi (s.a.v) buyurdular ki: “Allah’ın, ismi Azam denilen en büyük ismi şu iki ayet içersindedir: “İlahınız tek bir ilahtır. O’ndan başka gerçek ilah yoktur, ancak O vardır. O dünyada herkese merhamet eden ahirette ise sadece mu’minlere merhamet edendir.” (Bakara: 163) “Elif lam mim, Allah kendisinden başka gerçek ilah olmayan tek Allah’tır. O daima diri ve ölümsüz olup tüm varlıkların tek yöneteni ve gözetenidir.” (Âl-i imrân: 1-2)
+Esma binti Yezîd (r.anha)’dan rivâyete göre, Nebi (s.a.v) buyurdular ki: “Allah’ın, ismi Azam denilen en büyük ismi şu iki ayet içersindedir: “İlahınız tek bir ilahtır. O’ndan başka gerçek ilah yoktur, ancak O vardır. O dünyada herkese merhamet eden ahirette ise sadece mu’minlere merhamet edendir.” (Bakara: 163) “Elif lam mim, Allah kendisinden başka gerçek ilah olmayan tek Allah’tır. O daima diri ve ölümsüz olup tüm varlıkların tek yöneteni ve gözetenidir.” (Âl-i imrân:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3478</td></tr><tr><td>Arabic No</td><td>3478</td></tr><tr><td>Reference</td><td>Book 48 Hadith 109</td></tr></tbody></table></div>
 

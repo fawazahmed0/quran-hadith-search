@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ঈসা ও মুসাদ্দাদ (রহঃ) ..... ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কেউ কসম করার পর ইনশা আল্লাহ্‌ বলে, সে ইচ্ছা করলে তা পূর্ণ করতে পারে, আর চাইলে পরিত্যাগও করতে পারে। এমতাবস্থায় সে কসম ভংগকারী বলে বিবেচিত হবে না।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ শপথ করে ইনশাআল্লাহ বললে সে ইচ্ছা করলে শপথ পূর্ণও করতে পারে আবার নাও করতে পারে, এতে কোনো দোষের কিছু নেই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3262</td></tr><tr><td>Arabic No</td><td>3262</td></tr><tr><td>Reference</td><td>Book 22 Hadith 21</td></tr></tbody></table></div>
 

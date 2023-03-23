@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৪১, আন্তর্জাতিক নাম্বারঃ ৩৮৮ ৭৪১-(.../...) আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... আমাশ হতে এ সনদে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৭৩৯, ইসলামিক সেন্টারঃ নেই)
+আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... আমাশ হতে এ সনদে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৭৩৯, ইসলামিক সেন্টারঃ নেই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>388.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
 

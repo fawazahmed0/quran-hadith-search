@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন সাব্বাহ (রহঃ) .... ওয়াহাব (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি জাবির (রাঃ)-কে জিজ্ঞাসা করেছিলাম যে, তারা (মুসলিমরা) কি মক্কা বিজয়ের দিন গনীমতের মাল পেয়েছিল? তিনি বলেনঃ না।
+। ওয়াহব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি জাবির (রাঃ)-কে জিজ্ঞেস করলাম, তারা মক্কা বিজয়ের দিন কোনো গানীমাত লাভ করেছিলেন কি? তিনি বললেন, না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3023</td></tr><tr><td>Arabic No</td><td>3023</td></tr><tr><td>Reference</td><td>Book 20 Hadith 96</td></tr></tbody></table></div>
 

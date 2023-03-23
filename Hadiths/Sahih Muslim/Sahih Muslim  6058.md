@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯৫২, আন্তর্জাতিক নাম্বারঃ ২৩৩৩ ৫৯৫২-(৮৬/২৩৩৩) আবূ কুরায়ব মুহাম্মাদ ইবনু 'আলা (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, শীতের দিনে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উপর ওয়াহী অবতীর্ণ হত আর তার কপাল বেয়ে ঘাম পড়তো। (ইসলামিক ফাউন্ডেশন ৫৮৫০, ইসলামিক সেন্টার ৫৮৮৫)
+আবূ কুরায়ব মুহাম্মাদ ইবনু 'আলা (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, শীতের দিনে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উপর ওয়াহী অবতীর্ণ হত আর তার কপাল বেয়ে ঘাম পড়তো। (ইসলামিক ফাউন্ডেশন ৫৮৫০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6058</td></tr><tr><td>Arabic No</td><td>2333.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 116</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Kuraib Muhammad Al A'laa]; Telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்குக் குளிரான காலை நேரங்களிலும் வேத அறிவிப்பு (வஹீ) அருளப்படும். பிறகு (அவர்களை விட்டு அந்நிலை விலகும்போது) அவர்களது நெற்றியிலிருந்து வியர்வைத் துளிகள் வழியும். அத்தியாயம் : 43
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்குக் குளிரான காலை நேரங்களிலும் வேத அறிவிப்பு (வஹீ) அருளப்படும். பிறகு (அவர்களை விட்டு அந்நிலை விலகும்போது) அவர்களது நெற்றியிலிருந்து வியர்வைத் துளிகள் வழியும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6058</td></tr><tr><td>Arabic No</td><td>2333.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 116</td></tr></tbody></table></div>
 

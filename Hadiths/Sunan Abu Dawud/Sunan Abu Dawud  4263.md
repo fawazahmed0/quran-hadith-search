@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্‌রাহীম ইব্‌ন হাসান (রহঃ) ..... মিকদাদ ইব্‌ন আসওয়াদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আল্লাহ্‌র শপথ! অবশ্যি আমি রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম–কে বলতে শুনেছি যে, ঐ ব্যক্তি নেক্‌কার, যে ফিতনা থেকে দূরে থাকে; ঐ ব্যক্তি নেক্‌কার, যে ফিতনা থেকে দূরে থাকে, ঐ ব্যক্তি সৌভাগ্যবান যে ফিতনা থেকে দূরে থাকে। আর যে ব্যক্তি ফিতনাগ্রস্ত হওয়ার পর সবর করবে, সে খুবই ভাগ্যবান।
+। আল-মিকদাম ইবনুল আসওয়াদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আল্লাহর কসম! আমি নিশ্চয়ই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি ফিতনা থেকে দূরে থাকবে, সেই সৌভাগ্যবান; যে লোক ফিতনা থেকে দূরে থাকবে সেই সৌভাগ্যবান; যে ফিতনা থেকে দূরে থাকবে সেই সৌভাগ্যবান। আর যে ব্যক্তি ফিতনায় পড়ে ধৈর্য ধারণ করবে, তার জন্য কতই না মঙ্গল![1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4263</td></tr><tr><td>Arabic No</td><td>4263</td></tr><tr><td>Reference</td><td>Book 37 Hadith 24</td></tr></tbody></table></div>
 

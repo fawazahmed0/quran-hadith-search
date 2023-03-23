@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪৯৫। ইউনুস যুহরী হতে এই হাদীস বর্ণনা করেছেন। আবু ঈসা বলেনঃ আমি মুহাম্মাদ বুখারীকে এই হাদীস প্রসঙ্গে প্রশ্ন করলাম, তিনি বললেন, সালিম তার পিতা থেকে হাদীসটি বর্ণনা করেছেন।
+। ইউনুস যুহরী হতে এই হাদীস বর্ণনা করেছেন। আবু ঈসা বলেনঃ আমি মুহাম্মাদ বুখারীকে এই হাদীস প্রসঙ্গে প্রশ্ন করলাম, তিনি বললেন, সালিম তার পিতা থেকে হাদীসটি বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>495</td></tr><tr><td>Arabic No</td><td>495</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
 

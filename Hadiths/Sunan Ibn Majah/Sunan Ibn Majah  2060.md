@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২০৬০। ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। যয়নব (রা) রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রদত্ত উপঢৌকন তাঁকে ফেরত দেয়ার কারণে তিনি ঈলা করেছিলেন। ‘আয়িশাহ্ (রাঃ) বলেছিলেন, যয়নব তো আপনাকে অপমান করেছে! এতে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অসন্তুষ্ট হন এবং তাদের সংস্পর্শে না আসার শপথ (ঈলা) করেন।
+। ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। যয়নব (রা) রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রদত্ত উপঢৌকন তাঁকে ফেরত দেয়ার কারণে তিনি ঈলা করেছিলেন। ‘আয়িশাহ্ (রাঃ) বলেছিলেন, যয়নব তো আপনাকে অপমান করেছে! এতে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অসন্তুষ্ট হন এবং তাদের সংস্পর্শে না আসার শপথ (ঈলা) করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2060</td></tr><tr><td>Arabic No</td><td>2060</td></tr><tr><td>Reference</td><td>Book 10 Hadith 45</td></tr></tbody></table></div>
 

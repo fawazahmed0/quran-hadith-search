@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মু‘আইকিব (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সে ব্যক্তি সম্পর্কে বলেছেন, যে সিজদার স্থান হতে মাটি সমান করে। তিনি বলেন, যদি তোমার একান্তই করতে হয়, তবে একবার। (মুসলিম ৫/১২, হাঃ ৫৪৬, আহমাদ ১৫৫০৯) (আধুনিক প্রকাশনীঃ ১১২৮, ইসলামিক ফাউন্ডেশনঃ ১১৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মু‘আইকিব (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সে ব্যক্তি সম্পর্কে বলেছেন, যে সিজদার স্থান হতে মাটি সমান করে। তিনি বলেন, যদি তোমার একান্তই করতে হয়, তবে একবার। (মুসলিম ৫/১২, হাঃ ৫৪৬, আহমাদ ১৫৫০৯) (আধুনিক প্রকাশনীঃ ১১২৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1207</td></tr><tr><td>Arabic No</td><td>1207</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Syai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஐகீப் பின் அபீஃபாத்திமா (ரலி) அவர்கள் கூறியதாவது: சஜ்தா செய்யும்போது மண்ணைச் சமப்படுத்திக்கொண்டிருந்த மனிதரை நோக்கி “நீர் இவ்வாறு செய்வதென்றால் ஒரு தடவை மட்டும் செய்வீராக” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 21
+முஐகீப் பின் அபீஃபாத்திமா (ரலி) அவர்கள் கூறியதாவது: சஜ்தா செய்யும்போது மண்ணைச் சமப்படுத்திக்கொண்டிருந்த மனிதரை நோக்கி “நீர் இவ்வாறு செய்வதென்றால் ஒரு தடவை மட்டும் செய்வீராக” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1207</td></tr><tr><td>Arabic No</td><td>1207</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
 

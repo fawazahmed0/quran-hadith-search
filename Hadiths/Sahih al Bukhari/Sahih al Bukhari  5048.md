@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে লক্ষ্য করে বললেন, হে আবূ মূসা! তোমাকে দাঊদ (আঃ)-এর সুমধুর কন্ঠ দান করা হয়েছে। [মুসলিম ৬/৩৪, হাঃ ৭৯৩, আহমাদ ২৩০৩০] (আধুনিক প্রকাশনীঃ ৪৬৭৫, ইসলামিক ফাউন্ডেশনঃ ৪৬৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে লক্ষ্য করে বললেন, হে আবূ মূসা! তোমাকে দাঊদ (আঃ)-এর সুমধুর কন্ঠ দান করা হয়েছে। [মুসলিম ৬/৩৪, হাঃ ৭৯৩, আহমাদ ২৩০৩০] (আধুনিক প্রকাশনীঃ ৪৬৭৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5048</td></tr><tr><td>Arabic No</td><td>5048</td></tr><tr><td>Reference</td><td>Book 66 Hadith 72</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammd bin Khalaf Abu Bakr] Telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (நான் இனிய குரலில் குர்ஆன் ஓதுவதைப் பாராட்டி), ‘‘அபூமூசா! (இறைத்தூதர்) தாவூத் (அலை) அவர்களுக்கு வழங்கப்பட்டிருந்த (சங்கீதம் போன்ற) இனிய குரல் உங்களுக்கும் வழங்கப்பட்டுள்ளது” என என்னிடம் கூறினார்கள். அத்தியாயம் : 66
+அபூமூசா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (நான் இனிய குரலில் குர்ஆன் ஓதுவதைப் பாராட்டி), ‘‘அபூமூசா! (இறைத்தூதர்) தாவூத் (அலை) அவர்களுக்கு வழங்கப்பட்டிருந்த (சங்கீதம் போன்ற) இனிய குரல் உங்களுக்கும் வழங்கப்பட்டுள்ளது” என என்னிடம் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5048</td></tr><tr><td>Arabic No</td><td>5048</td></tr><tr><td>Reference</td><td>Book 66 Hadith 72</td></tr></tbody></table></div>
 

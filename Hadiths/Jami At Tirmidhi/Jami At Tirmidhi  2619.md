@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৬১৯। আমাশ (রহঃ) হতেও উপরোক্ত সনদে একই রকম হাদীস বর্ণিত আছে। এতে রাসূলুল্লাহ বলেছেনঃ বান্দাহ ও শিরকের মধ্যে অথবা বান্দাহ্ ও কুফরীর মধ্যে পার্থক্য হল নামায ত্যাগ করা। সহীহঃ দেখুন পূর্বের হাদীস আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবূ সুফইয়ানের নাম তালহা ইবনু নাফি।
+। আমাশ (রহঃ) হতেও উপরোক্ত সনদে একই রকম হাদীস বর্ণিত আছে। এতে রাসূলুল্লাহ বলেছেনঃ বান্দাহ ও শিরকের মধ্যে অথবা বান্দাহ্ ও কুফরীর মধ্যে পার্থক্য হল নামায ত্যাগ করা। সহীহঃ দেখুন পূর্বের হাদীস আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবূ সুফইয়ানের নাম তালহা ইবনু নাফি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2619</td></tr><tr><td>Arabic No</td><td>2619</td></tr><tr><td>Reference</td><td>Book 40 Hadith 14</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ ইয়াহূদী যদি তোমাদের সালাম করে তবে তাদের কেউ অবশ্যই বলবেঃ আসসামু আলাইকা। তখন তোমরা উত্তরে বলবে ‘ওয়াআলাইকা’। [৬৯২৮; মুসলিম ৩৯/৪, হাঃ ২১৬৪, আহমাদ ৪৬৯৮] (আধুনিক প্রকাশনী- ৫৮১৫, ইসলামিক ফাউন্ডেশন- ৫৭১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ ইয়াহূদী যদি তোমাদের সালাম করে তবে তাদের কেউ অবশ্যই বলবেঃ আসসামু আলাইকা। তখন তোমরা উত্তরে বলবে ‘ওয়াআলাইকা’। [৬৯২৮; মুসলিম ৩৯/৪, হাঃ ২১৬৪, আহমাদ ৪৬৯৮] (আধুনিক প্রকাশনী- ৫৮১৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6257</td></tr><tr><td>Arabic No</td><td>6257</td></tr><tr><td>Reference</td><td>Book 79 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யூதர்கள் உங்களுக்கு சலாம் சொன் னால் அவர்களில் சிலர் ‘அஸ்ஸாமு அலைக்க’ (உங்களுக்கு மரணம் உண்டா கட்டும்) என்றே கூறுவர். ஆகவே, (அவர்களுக்குப் பதிலாக) ‘வ அலைக்க’ (அவ்வாறே உனக்கு உண்டாகட்டும்) என்று சொல். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 79
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யூதர்கள் உங்களுக்கு சலாம் சொன் னால் அவர்களில் சிலர் ‘அஸ்ஸாமு அலைக்க’ (உங்களுக்கு மரணம் உண்டா கட்டும்) என்றே கூறுவர். ஆகவே, (அவர்களுக்குப் பதிலாக) ‘வ அலைக்க’ (அவ்வாறே உனக்கு உண்டாகட்டும்) என்று சொல். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6257</td></tr><tr><td>Arabic No</td><td>6257</td></tr><tr><td>Reference</td><td>Book 79 Hadith 31</td></tr></tbody></table></div>
 

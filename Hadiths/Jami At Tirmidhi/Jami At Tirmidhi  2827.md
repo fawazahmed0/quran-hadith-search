@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮২৭। আবূ জুহাইফা (রাযিঃ) হতে বর্ণিত, তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি এবং হাসান ইবনু আলী (রাযিঃ) ছিলেন তার মতোই (অবয়ব সম্পন্ন)। সহীহঃ বুখারী ও মুসলিম আবূ ঈসা বলেন, একাধিক বর্ণনাকার ইসমাঈল ইবনু আবূ খালিদের সূত্রে একই রকম বর্ণনা করেছেন। জাবির (রাযিঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ জুহাইফাহ (রাযিঃ)-এর নাম ওয়াহব আস-সুওয়াঈ।
+। আবূ জুহাইফা (রাযিঃ) হতে বর্ণিত, তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি এবং হাসান ইবনু আলী (রাযিঃ) ছিলেন তার মতোই (অবয়ব সম্পন্ন)। সহীহঃ বুখারী ও মুসলিম আবূ ঈসা বলেন, একাধিক বর্ণনাকার ইসমাঈল ইবনু আবূ খালিদের সূত্রে একই রকম বর্ণনা করেছেন। জাবির (রাযিঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ জুহাইফাহ (রাযিঃ)-এর নাম ওয়াহব আস-সুওয়াঈ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2827</td></tr><tr><td>Arabic No</td><td>2827</td></tr><tr><td>Reference</td><td>Book 43 Hadith 101</td></tr></tbody></table></div>
 

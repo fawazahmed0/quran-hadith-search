@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৫০২, আন্তর্জাতিক নাম্বারঃ ৭০০ ১৫০২-(৩৮/...) ঈসা ইবনু হাম্মদ আল মিসরী (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সওয়ারীর উপর বসেই বিতর সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৪৮৭, ইসলামীক সেন্টার ১৪৯৫)
+ঈসা ইবনু হাম্মদ আল মিসরী (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সওয়ারীর উপর বসেই বিতর সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৪৮৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1617</td></tr><tr><td>Arabic No</td><td>700.08</td></tr><tr><td>Reference</td><td>Book 6 Hadith 48</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepadaku [Isa bin Hammad Al Mishri] telah mengabarkan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது வாகனத்தின் மீதமர்ந்து வித்ர் தொழுவார்கள். இதை அப்துல்லாஹ் பின் தீனார் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 6
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது வாகனத்தின் மீதமர்ந்து வித்ர் தொழுவார்கள். இதை அப்துல்லாஹ் பின் தீனார் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1617</td></tr><tr><td>Arabic No</td><td>700.08</td></tr><tr><td>Reference</td><td>Book 6 Hadith 48</td></tr></tbody></table></div>
 

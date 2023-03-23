@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম ইবন হামযা (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত যে, এ আয়াতঃ যে ব্যক্তি আল্লাহ্‌র হুকুম অনুযায়ী ফয়সালা করবে না, সে তো কাফির, যালিম এবং ফাসিক। এ তিনটি আয়াত বিশেষ রূপে বনূ কুরায়যা এবং বনূ নযীরের ইয়াহূদীদের সম্পর্কে নাযিল হয়।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। মহান আল্লাহর বাণীঃ যারা আল্লাহর অবতীর্ণ বিধান মোতাবেক বিচার ফায়সালা করে না, তারা কাফির... তারাই ফাসিক’’ (সূরা মায়িদাহঃ ৪৫-৪৭) পর্যন্ত। ইবনু আব্বাস (রাঃ) বলেনঃ এ তিনটি আয়াত ইয়াহুদীদের সম্পর্কে, বিশেষ করে বনু কুরাইযাহ ও বনূ নাযীর গোত্রকে লক্ষ্য করে অবতীর্ণ হয়েছে।[1] সনদ হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3576</td></tr><tr><td>Arabic No</td><td>3576</td></tr><tr><td>Reference</td><td>Book 25 Hadith 6</td></tr></tbody></table></div>
 

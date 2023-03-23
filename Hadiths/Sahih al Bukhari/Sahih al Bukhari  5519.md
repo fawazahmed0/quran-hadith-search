@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আসমা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যুগে আমরা একটি ঘোড়া নহর করলাম এবং সেটি খেলাম। [৫৫১০] (আধুনিক প্রকাশনী- ৫১১৩, ইসলামিক ফাউন্ডেশন- ৫০০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আসমা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যুগে আমরা একটি ঘোড়া নহর করলাম এবং সেটি খেলাম। [৫৫১০] (আধুনিক প্রকাশনী- ৫১১৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5519</td></tr><tr><td>Arabic No</td><td>5519</td></tr><tr><td>Reference</td><td>Book 72 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Humaidi] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அஸ்மா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் நாங்கள் குதிரை யொன்றை அறுத்து உண்டோம்.38 இதை ஃபாத்திமா பின்த் முன்திர் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 72
+அஸ்மா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் நாங்கள் குதிரை யொன்றை அறுத்து உண்டோம்.38 இதை ஃபாத்திமா பின்த் முன்திர் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5519</td></tr><tr><td>Arabic No</td><td>5519</td></tr><tr><td>Reference</td><td>Book 72 Hadith 45</td></tr></tbody></table></div>
 

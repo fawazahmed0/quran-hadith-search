@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) ‘উরওয়াহ (রাযি.)-কে বলেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করতেন আর তিনি [‘আয়িশাহ (রাযি.)] আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর ক্বিবলা (কিবলা/কেবলা)হর মধ্যে পারিবারিক বিছানার উপর জানাযার মত আড়াআড়িভাবে শুয়ে থাকতেন। (৩৮২) (আধুনিক প্রকাশনীঃ ৩৭০, ইসলামিক ফাউন্ডেশনঃ ৩৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) ‘উরওয়াহ (রাযি.)-কে বলেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করতেন আর তিনি [‘আয়িশাহ (রাযি.)] আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর ক্বিবলা (কিবলা/কেবলা)হর মধ্যে পারিবারিক বিছানার উপর জানাযার মত আড়াআড়িভাবে শুয়ে থাকতেন। (৩৮২) (আধুনিক প্রকাশনীঃ ৩৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>383</td></tr><tr><td>Arabic No</td><td>383</td></tr><tr><td>Reference</td><td>Book 8 Hadith 35</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (நான் படுத்திருக்கும்) எனது படுக்கை விரிப்பில் தொழுவார்கள். அப்போது அவர்களுக்கும் கிப்லாவுக்கும் இடையே ‘ஜனாஸா’வைப் போன்று குறுக்கே நான் படுத்திருப்பேன். அத்தியாயம் : 8
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (நான் படுத்திருக்கும்) எனது படுக்கை விரிப்பில் தொழுவார்கள். அப்போது அவர்களுக்கும் கிப்லாவுக்கும் இடையே ‘ஜனாஸா’வைப் போன்று குறுக்கே நான் படுத்திருப்பேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>383</td></tr><tr><td>Arabic No</td><td>383</td></tr><tr><td>Reference</td><td>Book 8 Hadith 35</td></tr></tbody></table></div>
 

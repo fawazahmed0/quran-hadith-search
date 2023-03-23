@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪৫৩, আন্তর্জাতিক নাম্বারঃ ১৭৪৯ ৪৪৫৩-(.../...) যুহায়র ইবনু হারব (রহঃ) ..... উবাইদুল্লাহ (রাযিঃ) থেকে উল্লিখিত হাদীসের অনুরূপ সানাদে হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৪১১, ইসলামিক সেন্টার ৪৪১১)
+যুহায়র ইবনু হারব (রহঃ) ..... উবাইদুল্লাহ (রাযিঃ) থেকে উল্লিখিত হাদীসের অনুরূপ সানাদে হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৪১১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4561</td></tr><tr><td>Arabic No</td><td>1749.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 42</td></tr></tbody></table></div>
 

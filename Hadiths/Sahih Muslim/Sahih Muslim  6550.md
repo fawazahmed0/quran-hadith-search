@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৪৪৪, আন্তর্জাতিক নাম্বারঃ ২৫৬৭ ৬৪৪৪-(…/...) শায়খ আবু আহমাদ (রহঃ) ..... হাম্মাদ বিন সালামাহ্ এ সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন, নেই, ইসলামিক সেন্টার, নেই)
+(…/...) শায়খ আবু আহমাদ (রহঃ) ..... হাম্মাদ বিন সালামাহ্ এ সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন, নেই, ইসলামিক সেন্টার, নেই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6550</td></tr><tr><td>Arabic No</td><td>2567.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 48</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯৬৮, আন্তর্জাতিক নাম্বারঃ ৪৮০ ৯৬৮-(.../...) কুতাইবাহ (রহঃ) ..... আলী (রাযিঃ) হতে উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। এ সূত্রে ‘সাজদায় কুরআন পাঠ করা নিষেধ' এ কথার উল্লেখ নেই। (ইসলামিক ফাউন্ডেশনঃ ৯৬৩, ইসলামিক সেন্টারঃ ৯৭৪)
+কুতাইবাহ (রহঃ) ..... আলী (রাযিঃ) হতে উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। এ সূত্রে ‘সাজদায় কুরআন পাঠ করা নিষেধ' এ কথার উল্লেখ নেই। (ইসলামিক ফাউন্ডেশনঃ ৯৬৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1081</td></tr><tr><td>Arabic No</td><td>480.06</td></tr><tr><td>Reference</td><td>Book 4 Hadith 243</td></tr></tbody></table></div>
 

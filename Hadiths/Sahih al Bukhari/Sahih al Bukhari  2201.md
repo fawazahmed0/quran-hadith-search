@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সাঈদ খুদরী (রাঃ) ও আবু হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে খায়বারে তহসীলদার নিযুক্ত করেন। সে জানীব নামক (উত্তম) খেজুর নিয়ে উপস্থিত হলে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞেস করলেন, খায়বারের সব খেজুর কি এ রকমের? সে বলল, না, আল্লাহর কসম, হে আল্লাহর রাসূল! এরূপ নয়, বরং আমরা দু’ সা’ এর পরিবর্তে এ ধরনের এক সা’ খেজুর নিয়ে থাকি এবং তিন সা’ এর পরিবর্তে এক দু’ সা’। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, এরূপ করবে না। বরং মিশ্রিত খেজুর দিরহামের বিনিময়ে বিক্রি করে দিরহাম দিয়ে জানীব খেজুর ক্রয় করবে। (২২০১=২৩০২, ৪২৪৪, ৪২৪৬, ৭৩৫০) (২২০২=২৩০৩, ৪২৪৫, ৪২৪৭, ৭৩৫১, মুসলিম ২২/১৮, হাঃ ১৫৯৩) (আধুনিক প্রকাশনীঃ ২০৪৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2201</td></tr><tr><td>Arabic No</td><td>2201</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari ['Abdul Majid bin Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி), அபூஹுரைரா (ரலி) ஆகியோர் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு மனிதரை யிகைபர்’ பகுதிக்கு அதிகாரியாக நியமித்தார்கள். அவர் (சென்றுவிட்டு கைபரிலிருந்து) உயர்ரகப் பேரீச்சம் பழங்களை அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் கொண்டுவந்தார். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘கைபரில் உள்ள பேரீச்சம் பழங்கள் அனைத்துமே இப்படித்தான் (உயர் ரகமானவையாக) இருக்குமா?” என்று கேட்டார்கள். அதற்கு அவர், ‘‘அல்லாஹ்வின் மீதாணையாக! இல்லை; அல்லாஹ்வின் தூதரே! மட்டமான பேரீச்சம்பழத்தில் இரண்டு ‘ஸாஉ’களுக்குப் பதிலாக இந்தத் தரமான பேரீச்சம் பழத்தில் ஒரு ‘ஸாஉ’வையும், மட்டமான பேரீச்சம்பழத்தில் மூன்று ‘ஸாஉ’களுக்குப் பதிலாக இந்தப் பேரீச்சம்பழத்தில் இரண்டு ‘ஸாஉ’களையும் நாங்கள் வாங்குவோம்” எனக் கூறினார். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘இவ்வாறு செய்யாதீர்! மட்ட மான பேரீச்சம்பழத்தை வெள்ளிக் காசுகளுக்கு விற்றுவிட்டு அந்தக் காசுகளுக்குப் பதிலாகத் தரமான பேரீச்சம்பழத்தை வாங்குவீராக!” எனக் கூறினார்கள்.72 அத்தியாயம் : 34
+அபூசயீத் அல்குத்ரீ (ரலி), அபூஹுரைரா (ரலி) ஆகியோர் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு மனிதரை யிகைபர்’ பகுதிக்கு அதிகாரியாக நியமித்தார்கள். அவர் (சென்றுவிட்டு கைபரிலிருந்து) உயர்ரகப் பேரீச்சம் பழங்களை அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் கொண்டுவந்தார். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘கைபரில் உள்ள பேரீச்சம் பழங்கள் அனைத்துமே இப்படித்தான் (உயர் ரகமானவையாக) இருக்குமா?” என்று கேட்டார்கள். அதற்கு அவர், ‘‘அல்லாஹ்வின் மீதாணையாக! இல்லை; அல்லாஹ்வின் தூதரே! மட்டமான பேரீச்சம்பழத்தில் இரண்டு ‘ஸாஉ’களுக்குப் பதிலாக இந்தத் தரமான பேரீச்சம் பழத்தில் ஒரு ‘ஸாஉ’வையும், மட்டமான பேரீச்சம்பழத்தில் மூன்று ‘ஸாஉ’களுக்குப் பதிலாக இந்தப் பேரீச்சம்பழத்தில் இரண்டு ‘ஸாஉ’களையும் நாங்கள் வாங்குவோம்” எனக் கூறினார். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘இவ்வாறு செய்யாதீர்! மட்ட மான பேரீச்சம்பழத்தை வெள்ளிக் காசுகளுக்கு விற்றுவிட்டு அந்தக் காசுகளுக்குப் பதிலாகத் தரமான பேரீச்சம்பழத்தை வாங்குவீராக!” எனக் கூறினார்கள்.72 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2201</td></tr><tr><td>Arabic No</td><td>2201</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari ['Abdul Majid bin Su
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu. Said el-Hudri ve Ebu Hureyre'nin (r.a.) naklettiğine göre, Nebi Sallallahu Aleyhi ve Sellem bir sahabiyi Hayber vergilerini toplamak için görevlendirmişti. O, Hayber'den, cenıb adı verilen iyi cins hurmalar getirdi. Efendimiz Sallallahu Aleyhi ve Sellem ona, "Hayber'in bütün hurmaları böyle midir?" diye sordu. Adam, "Vallahi, hayır, Ey Allah'ın Resulü! Bunu, diğer hurmalardan iki sa' verip bir sa', üç sa' verip iki sa' almak suretiyle elde ettik" diye cevap verdi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Böyle yapma. Önce elindeki hurmaları para karşılığında sat. Daha sonra da (bu dirhemler/e) cenib denilen hurmaları satın al" buyurdu. 2201 Tekrarları: 2302, 4246, 7350. 2202 Tekrarları: 2303, 4245, 4247 ve 7351
+Ebu. Said el-Hudri ve Ebu Hureyre'nin (r.a.) naklettiğine göre, Nebi Sallallahu Aleyhi ve Sellem bir sahabiyi Hayber vergilerini toplamak için görevlendirmişti. O, Hayber'den, cenıb adı verilen iyi cins hurmalar getirdi. Efendimiz Sallallahu Aleyhi ve Sellem ona, "Hayber'in bütün hurmaları böyle midir?" diye sordu. Adam, "Vallahi, hayır, Ey Allah'ın Resulü! Bunu, diğer hurmalardan iki sa' verip bir sa', üç sa' verip iki sa' almak suretiyle elde ettik" diye cevap verdi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Böyle yapma. Önce elindeki hurmaları para karşılığında sat. Daha sonra da (bu dirhemler/e) cenib denilen hurmaları satın al" buyurdu. 2201 Tekrarları: 2302, 4246, 7350. 2202 Tekrarları: 2303, 4245, 4247 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2201</td></tr><tr><td>Arabic No</td><td>2201</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

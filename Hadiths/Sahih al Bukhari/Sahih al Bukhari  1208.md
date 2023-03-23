@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, প্রচন্ড গরমের মধ্যে আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে সালাত আদায় করতাম। আমাদের কেউ মাটিতে তার চেহারা (কপাল) স্থির রাখতে সক্ষম না হলে সে তার কাপড় বিছিয়ে তার উপর সিজদা্ করত। (৩৮৫) (আধুনিক প্রকাশনীঃ ১১২৯, ইসলামিক ফাউন্ডেশনঃ ১১৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, প্রচন্ড গরমের মধ্যে আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে সালাত আদায় করতাম। আমাদের কেউ মাটিতে তার চেহারা (কপাল) স্থির রাখতে সক্ষম না হলে সে তার কাপড় বিছিয়ে তার উপর সিজদা্ করত। (৩৮৫) (আধুনিক প্রকাশনীঃ ১১২৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1208</td></tr><tr><td>Arabic No</td><td>1208</td></tr><tr><td>Reference</td><td>Book 21 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyir
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: கடுமையான வெப்பத்தில் நாங்கள் நபி (ஸல்) அவர்களுடன் தொழுதிருக்கி றோம். எங்களில் ஒருவருக்குத் தமது முகத்தைத் தரையில் வைக்க இயலாத போது, தமது ஆடையை விரித்து அதில் சஜ்தா செய்வார். அத்தியாயம் : 21
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: கடுமையான வெப்பத்தில் நாங்கள் நபி (ஸல்) அவர்களுடன் தொழுதிருக்கி றோம். எங்களில் ஒருவருக்குத் தமது முகத்தைத் தரையில் வைக்க இயலாத போது, தமது ஆடையை விரித்து அதில் சஜ்தா செய்வார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1208</td></tr><tr><td>Arabic No</td><td>1208</td></tr><tr><td>Reference</td><td>Book 21 Hadith 12</td></tr></tbody></table></div>
 

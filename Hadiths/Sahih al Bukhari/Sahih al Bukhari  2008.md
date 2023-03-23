@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে রমাযান সম্পর্কে বলতে শুনেছি, যে ব্যক্তি রমাযানে ঈমানের সাথে সওয়াব লাভের আশায় কিয়ামে রমাযান অর্থাৎ তারাবীহর সালাত আদায় করবে তার পূর্ববর্তী গোনাহসমূহ মাফ করে দেয়া হবে। (৩৫) (আধুনিক প্রকাশনীঃ ১৮৬৭, ইসলামিক ফাউন্ডেশনঃ ১৮৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে রমাযান সম্পর্কে বলতে শুনেছি, যে ব্যক্তি রমাযানে ঈমানের সাথে সওয়াব লাভের আশায় কিয়ামে রমাযান অর্থাৎ তারাবীহর সালাত আদায় করবে তার পূর্ববর্তী গোনাহসমূহ মাফ করে দেয়া হবে। (৩৫) (আধুনিক প্রকাশনীঃ ১৮৬৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 31 Hadith 1</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ரமளான் பற்றிக் கூறினார்கள்: யார் ரமளானில் நம்பிக்கையுடனும் நன்மையை எதிர்பார்த்தும் நின்று வழிபடு கிறாரோ அவர் (அதற்கு)முன் செய்த பாவங்கள் மன்னிக்கப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 31
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ரமளான் பற்றிக் கூறினார்கள்: யார் ரமளானில் நம்பிக்கையுடனும் நன்மையை எதிர்பார்த்தும் நின்று வழிபடு கிறாரோ அவர் (அதற்கு)முன் செய்த பாவங்கள் மன்னிக்கப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 31 Hadith 1</td></tr></tbody></table></div>
 

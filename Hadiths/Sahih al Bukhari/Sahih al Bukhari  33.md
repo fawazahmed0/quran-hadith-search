@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাযি.) থেকে বর্ণনা করেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মুনাফিকের চিহ্ন তিনটিঃ ১. যখন কথা বলে মিথ্যা বলে; ২. যখন অঙ্গীকার করে ভঙ্গ করে এবং ৩. আমানত রাখা হলে খিয়ানাত করে। (২৬৮২,২৭৪৯,৬০৯৫; মুসলিম ১/২৫ হাঃ ৫৯, আহমাদ ৯১৬২) (আধুনিক প্রকাশনীঃ ৩২, ইসলামিক ফাউন্ডেশনঃ ৩২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাযি.) থেকে বর্ণনা করেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মুনাফিকের চিহ্ন তিনটিঃ ১. যখন কথা বলে মিথ্যা বলে; ২. যখন অঙ্গীকার করে ভঙ্গ করে এবং ৩. আমানত রাখা হলে খিয়ানাত করে। (২৬৮২,২৭৪৯,৬০৯৫; মুসলিম ১/২৫ হাঃ ৫৯, আহমাদ ৯১৬২) (আধুনিক প্রকাশনীঃ ৩২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>33</td></tr><tr><td>Arabic No</td><td>33</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman Abu ar Rabi'] berkata, telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நயவஞ்சகனின் அடையாளங்கள் மூன்றாகும். அவன் பேசும்போது பொய் பேசுவான்; வாக்களித்தால் அதற்கு மாறு செய்வான்; அவனிடம் நம்பி (ஏதேனு மொன்றை) ஒப்படைத்தால் (அதில்) மோசடி செய்வான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 2
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நயவஞ்சகனின் அடையாளங்கள் மூன்றாகும். அவன் பேசும்போது பொய் பேசுவான்; வாக்களித்தால் அதற்கு மாறு செய்வான்; அவனிடம் நம்பி (ஏதேனு மொன்றை) ஒப்படைத்தால் (அதில்) மோசடி செய்வான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>33</td></tr><tr><td>Arabic No</td><td>33</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
 

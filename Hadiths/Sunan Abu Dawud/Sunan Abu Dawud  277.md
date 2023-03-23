@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াকুব ইবনু ইব্রাহীম .... নাফে (রহঃ) থেকে বর্ণিত … লাইছের সনদে বর্ণিত হাদীছের অনুরূপ। মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ “সে (হায়েযের) সমপরিমাণ সময় নামায ত্যাগ করবে। তারপর থেকে নামাযের ওয়াক্ত উপস্থিত হলে সে গোসল করবে, অতঃপর একটি কাপড়ের সাহায্যে পট্টি বাঁধবে, অতঃপর নামায পড়বে”।
+। নাফি' লাইসের বর্ণিত (২৭৫নং) হাদীসের সূত্র ও অর্থানুরূপ হাদীস বর্ণনা করে বলেন, সে যেন হায়িযের সময়সীমার (দিনগুলোতে) সালাত বর্জন করে। এরপর থেকে সালাতের সময় উপস্থিত হলে সে যেন গোসল করে এবং পট্টি বেঁধে সালাত আদায় করে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>277</td></tr><tr><td>Arabic No</td><td>277</td></tr><tr><td>Reference</td><td>Book 1 Hadith 277</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যিয়াদ ইবনু ইলাকা (রহ.) হতে বর্ণিত। তিনি বলেন, আমি জারীর (রাঃ)-কে বলতে শুনেছি যে, আমি নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট বায়‘আত গ্রহণ করলাম। তিনি আমার উপর প্রত্যেক মুসলিমের জন্য কল্যাণ কামনার শর্তারোপ করলেন। (৫৭) (আধুনিক প্রকাশনীঃ ২৫১৫, ইসলামিক ফাউন্ডেশনঃ ২৫২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যিয়াদ ইবনু ইলাকা (রহ.) হতে বর্ণিত। তিনি বলেন, আমি জারীর (রাঃ)-কে বলতে শুনেছি যে, আমি নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট বায়‘আত গ্রহণ করলাম। তিনি আমার উপর প্রত্যেক মুসলিমের জন্য কল্যাণ কামনার শর্তারোপ করলেন। (৫৭) (আধুনিক প্রকাশনীঃ ২৫১৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2714</td></tr><tr><td>Arabic No</td><td>2714</td></tr><tr><td>Reference</td><td>Book 54 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Sufyan] da
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜரீர் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் விசுவாசப் பிரமாணம் செய்தேன். அப்போது அவர்கள், இறைவனுக்குக் கீழ்ப்படிந்து வாழும் (முஸ்லிமான) ஒவ்வொருவருக்கும் நான் நலம் நாட வேண்டுமென்றும் எனக்கு நிபந்தனை விதித்தார்கள். அத்தியாயம் : 54
+ஜரீர் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் விசுவாசப் பிரமாணம் செய்தேன். அப்போது அவர்கள், இறைவனுக்குக் கீழ்ப்படிந்து வாழும் (முஸ்லிமான) ஒவ்வொருவருக்கும் நான் நலம் நாட வேண்டுமென்றும் எனக்கு நிபந்தனை விதித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2714</td></tr><tr><td>Arabic No</td><td>2714</td></tr><tr><td>Reference</td><td>Book 54 Hadith 3</td></tr></tbody></table></div>
 

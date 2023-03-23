@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আমর ইবনু মায়মূন (রহ.) হতে বর্ণিত। তিনি বলেন, ‘উমার (রাঃ) বলেছেন, আমি আমার পরবর্তী খালীফাকে ওসীয়াত করেছি, প্রথম যুগের মুহাজিরদের হাক আদায় করার জন্য এবং আমি পরবর্তী খালীফাকে আনসারদের ব্যাপারে ওসীয়াত করছি, যারা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামএর হিজরাতের পূর্বে এ নগরীতে বসবাস করতেন এবং ঈমান এনেছিলেন যেন তিনি তাদের পুণ্যবানদের সৎকর্মকে গ্রহণ করেন এবং দোষ-ত্রুটিকে ক্ষমা করে দেন। [১৩৯২] (আধুনিক প্রকাশনীঃ ৪৫২০, ইসলামিক ফাউন্ডেশনঃ ৪৫২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমর ইবনু মায়মূন (রহ.) হতে বর্ণিত। তিনি বলেন, ‘উমার (রাঃ) বলেছেন, আমি আমার পরবর্তী খালীফাকে ওসীয়াত করেছি, প্রথম যুগের মুহাজিরদের হাক আদায় করার জন্য এবং আমি পরবর্তী খালীফাকে আনসারদের ব্যাপারে ওসীয়াত করছি, যারা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামএর হিজরাতের পূর্বে এ নগরীতে বসবাস করতেন এবং ঈমান এনেছিলেন যেন তিনি তাদের পুণ্যবানদের সৎকর্মকে গ্রহণ করেন এবং দোষ-ত্রুটিকে ক্ষমা করে দেন। [১৩৯২] (আধুনিক প্রকাশনীঃ ৪৫২০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4888</td></tr><tr><td>Arabic No</td><td>4888</td></tr><tr><td>Reference</td><td>Book 65 Hadith 408</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] Telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் மைமூன் (ரஹ்) அவர்கள் கூறியதாவது: (‘அபூலுஃலுஆ ஃபைரோஸ்’ என்பவனால் கத்தியால் குத்தப்பட்ட பிறகு) உமர் (ரலி) அவர்கள், ‘‘(இஸ்லாத்தில்) முன்னவர்களான முஹாஜிர்களின் உரிமைகளை அறிந்து (அவர்களின் கண்ணியத்தைக் காத்துக்)கொள்ள வேண்டும் என்று (எனக்குப் பின்னர் வரவிருக்கும்) ‘கலீஃபா’வுக்கு நான் இறுதி அறிவுரை கூறுகிறேன். மேலும், நபி (ஸல்) அவர்கள் (மற்றும் நபித்தோழர்கள்) ‘ஹிஜ்ரத்’ செய்து வருவதற்கு முன்பே ஹிஜ்ரத் நாட்டை (மதீனாவை) தம் இருப்பிடமாகக் கொண்டு இறைநம்பிக்கையை (உறுதியாகப்) பற்றிக்கொண்ட அன்சாரிகளில் நன்மை புரிபவரிடமிருந்து (அவரது நன்மையை) ஏற்று, அவர்களில் தவறிழைப்பவரை மன்னிக்க வேண்டும் என்று நான் அந்த கலீஃபாவுக்கு அறிவுரை கூறுகிறேன்” என்றார்கள்.7 அத்தியாயம் : 65
+அம்ர் பின் மைமூன் (ரஹ்) அவர்கள் கூறியதாவது: (‘அபூலுஃலுஆ ஃபைரோஸ்’ என்பவனால் கத்தியால் குத்தப்பட்ட பிறகு) உமர் (ரலி) அவர்கள், ‘‘(இஸ்லாத்தில்) முன்னவர்களான முஹாஜிர்களின் உரிமைகளை அறிந்து (அவர்களின் கண்ணியத்தைக் காத்துக்)கொள்ள வேண்டும் என்று (எனக்குப் பின்னர் வரவிருக்கும்) ‘கலீஃபா’வுக்கு நான் இறுதி அறிவுரை கூறுகிறேன். மேலும், நபி (ஸல்) அவர்கள் (மற்றும் நபித்தோழர்கள்) ‘ஹிஜ்ரத்’ செய்து வருவதற்கு முன்பே ஹிஜ்ரத் நாட்டை (மதீனாவை) தம் இருப்பிடமாகக் கொண்டு இறைநம்பிக்கையை (உறுதியாகப்) பற்றிக்கொண்ட அன்சாரிகளில் நன்மை புரிபவரிடமிருந்து (அவரது நன்மையை) ஏற்று, அவர்களில் தவறிழைப்பவரை மன்னிக்க வேண்டும் என்று நான் அந்த கலீஃபாவுக்கு அறிவுரை கூறுகிறேன்” என்றார்கள்.7 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4888</td></tr><tr><td>Arabic No</td><td>4888</td></tr><tr><td>Reference</td><td>Book 65 Hadith 408</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] Telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr İbn Meymun'dan rivayet edildiğine göre, Hz. Ömer şöyle demiştir: Benden sonraki halifeye ilk muhacirlerin haklarını tanımasını, Nebi Sallallahu Aleyhi ve Sellem'in Medıne'ye hicret etmesinden önce burayı yurt edinip imanı gönüllerine yerleştirmiş olan ensardan iyi kimselerin iyiliklerini kabul etmesini ve kötü işlere bulaşanları da hoş görmesini tavsiye ediyorum. Fethu'l-Bari Açıklaması: Ayette geçen .......tebevveu lafzı hem "vatan edindiler," hem de "buraya yerleştiler" şeklinde açıklanmıştır. İlk açıklamaya göre bu fiilin anlamı sadece ensara aittir. Diğer açıklamaya göre ise bu fiilin ifade ettiği anlam, hem ensarı, hem de ilk muhacirleri kapsar. Burada İmam Buharı, Hz. Ömer'in suikaste maruz kaldıktan sonra söylediği sözlerden bir kısmını zikretti. Bu rivayetin açıklaması Kitabu fezaili's-sahabe'de geçmişti. (Hadis no: 3800)
+Amr İbn Meymun'dan rivayet edildiğine göre, Hz. Ömer şöyle demiştir: Benden sonraki halifeye ilk muhacirlerin haklarını tanımasını, Nebi Sallallahu Aleyhi ve Sellem'in Medıne'ye hicret etmesinden önce burayı yurt edinip imanı gönüllerine yerleştirmiş olan ensardan iyi kimselerin iyiliklerini kabul etmesini ve kötü işlere bulaşanları da hoş görmesini tavsiye ediyorum. Fethu'l-Bari Açıklaması: Ayette geçen .......tebevveu lafzı hem "vatan edindiler," hem de "buraya yerleştiler" şeklinde açıklanmıştır. İlk açıklamaya göre bu fiilin anlamı sadece ensara aittir. Diğer açıklamaya göre ise bu fiilin ifade ettiği anlam, hem ensarı, hem de ilk muhacirleri kapsar. Burada İmam Buharı, Hz. Ömer'in suikaste maruz kaldıktan sonra söylediği sözlerden bir kısmını zikretti. Bu rivayetin açıklaması Kitabu fezaili's-sahabe'de geçmişti. (Hadis no:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4888</td></tr><tr><td>Arabic No</td><td>4888</td></tr><tr><td>Reference</td><td>Book 65 Hadith 408</td></tr></tbody></table></div>
 

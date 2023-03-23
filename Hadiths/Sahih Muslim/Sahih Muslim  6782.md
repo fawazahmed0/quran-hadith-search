@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৬৭৫, আন্তর্জাতিক নাম্বারঃ ২৬৬৯ ৬৬৭৫-(…/...) সাঈদ ইবনু আবূ মারইয়াম (রহঃ) ..... যায়দ ইবনু আসলাম (রহঃ) হতে আমাদের কিছু সংখ্যক সহাবা (রাযিঃ) এ সূত্রে তার হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৫৩৯, ইসলামিক সেন্টার ৬৫৯২)
+(…/...) সাঈদ ইবনু আবূ মারইয়াম (রহঃ) ..... যায়দ ইবনু আসলাম (রহঃ) হতে আমাদের কিছু সংখ্যক সহাবা (রাযিঃ) এ সূত্রে তার হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৫৩৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6782</td></tr><tr><td>Arabic No</td><td>2669.02</td></tr><tr><td>Reference</td><td>Book 47 Hadith 8</td></tr></tbody></table></div>
 

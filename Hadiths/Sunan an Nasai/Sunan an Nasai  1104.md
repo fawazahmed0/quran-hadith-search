@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১১০৪, আন্তর্জাতিক নাম্বারঃ ১১০৫ ১১০৪. ‘আলী ইবনু হুজুর আল মারওয়াযী (রহ.) ..... আবু ইসহাক (রহ.) হতে বর্ণিত। তিনি বলেন, বারা (রাঃ) আমাদেরকে সিজদার নিয়ম বর্ণনা করতে যেয়ে তাঁর দু’হাত মাটিতে স্থাপন করলেন এবং তাঁর নিতম্ব উঠিয়ে রাখলেন এবং বললেন, আমি রাসূলুল্লাহ (সা.) -কে এরূপ করতে দেখেছি। সনদ দর্বলঃ কারণ সনদে 'শারীক নামক বর্ণনাকারীর স্মৃতিশক্তি দুর্বল; আবু দাউদ ৮৯৬ মুসনাদে আহমাদ ১৮৭২৩, সহীহ ইবনু খুযায়মাহ ৬৪৬, য'ঈফ আবু দাউদ ১৫৯।
+। আলী ইবনু হুজর মারওয়াযী (রহঃ) ... আবূ ইসহাক (রহঃ) থেকে বর্ণিত। তিনি বলেন, বারা (রাঃ) আমাদেরকে সিজদার নিয়ম বর্ণনা করতে গিয়ে তাঁর হাতদ্বয় মাটিতে স্থাপন করলেন এবং নিতম্ব উঠিয়ে রাখলেন এবং বললেন, আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে এরূপ করতে দেখেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1104</td></tr><tr><td>Arabic No</td><td>1104</td></tr><tr><td>Reference</td><td>Book 12 Hadith 76</td></tr></tbody></table></div>
 

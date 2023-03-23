@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬৪২। আবদুল্লাহ ইবনুল হারিস ইবনু জাযয়ি (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শুধুমাত্র মুচকি হাসিই দিতেন। সহীহঃ মুখতাসার শামায়িল (১৯৫), মিশকাত অনুরূপ। আবূ ঈসা বলেন, এ হাদীসটি সহীহ গারীব। এ হাদীস আমরা লাইস ইবনু সা'দের বর্ণনার পরিপ্রেক্ষিতে শুধুমাত্র উপর্যুক্ত সনদেই অবগত হয়েছি।
+। আবদুল্লাহ ইবনুল হারিস ইবনু জাযয়ি (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শুধুমাত্র মুচকি হাসিই দিতেন। সহীহঃ মুখতাসার শামায়িল (১৯৫), মিশকাত অনুরূপ। আবূ ঈসা বলেন, এ হাদীসটি সহীহ গারীব। এ হাদীস আমরা লাইস ইবনু সা'দের বর্ণনার পরিপ্রেক্ষিতে শুধুমাত্র উপর্যুক্ত সনদেই অবগত হয়েছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 49 Hadith 38</td></tr></tbody></table></div>
 

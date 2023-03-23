@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+নাসর ইবনু ‘আলী আল জাহযামী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, পাঁচ ওয়াক্ত সালাত এবং এক জুমুআহ থেকে আরেক জুমুআহ উভয়ের মধ্যবর্তী সময়ের জন্যে কাফফারাহ স্বরূপ। (ইসলামিক ফাউন্ডেশনঃ ৪৪২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>551</td></tr><tr><td>Arabic No</td><td>233.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 18</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Nashr bin Ali al-Jahdlami] telah mengabarkan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஐவேளைத் தொழுகைகள், ஒரு ஜுமுஆவிலிருந்து மறு ஜுமுஆ ஆகியன அவற்றுக்கிடையே ஏற்படும் (சிறு) பாவங்களுக்குப் பரிகாரங்களாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 2
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஐவேளைத் தொழுகைகள், ஒரு ஜுமுஆவிலிருந்து மறு ஜுமுஆ ஆகியன அவற்றுக்கிடையே ஏற்படும் (சிறு) பாவங்களுக்குப் பரிகாரங்களாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>551</td></tr><tr><td>Arabic No</td><td>233.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 18</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepadaku [Nashr bin Ali al-Jahdlami] telah mengabarkan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Nasr b. Aliy el-Cehdamî rivayet etti. (Dediki): Bize Abdil â'la haber verdi. Dediki: Bize Hişâm Muhammed'den, o da Ebu Hureyre'den, o da Nebi (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletli: "Beş vakit namaz, bir sonraki cumaya kadar Cuma namazı aralanndaki (günah)/ar için kefarettir. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 14534
+Bana Nasr b. Aliy el-Cehdamî rivayet etti. (Dediki): Bize Abdil â'la haber verdi. Dediki: Bize Hişâm Muhammed'den, o da Ebu Hureyre'den, o da Nebi (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletli: "Beş vakit namaz, bir sonraki cumaya kadar Cuma namazı aralanndaki (günah)/ar için kefarettir. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>551</td></tr><tr><td>Arabic No</td><td>233.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 18</td></tr></tbody></table></div>
 

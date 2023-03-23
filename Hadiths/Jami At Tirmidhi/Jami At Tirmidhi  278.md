@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭৮। অপর এক বর্ণনায় আছে আমির ইবনু সা’দ এ হাদীসটি মুরসাল হিসাবে বর্ণনা করেছেন। (হাসান) পূর্বের হাদীসের কারণে। এ বর্ণনা সূত্রটি ওহাইবের বর্ণনার চেয়ে বেশি সহীহ। মনীষীগণ এ হাদীস অনুযায়ী আমল করা পছন্দ করেছেন।
+। অপর এক বর্ণনায় আছে আমির ইবনু সা’দ এ হাদীসটি মুরসাল হিসাবে বর্ণনা করেছেন। (হাসান) পূর্বের হাদীসের কারণে। এ বর্ণনা সূত্রটি ওহাইবের বর্ণনার চেয়ে বেশি সহীহ। মনীষীগণ এ হাদীস অনুযায়ী আমল করা পছন্দ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>278</td></tr><tr><td>Arabic No</td><td>278</td></tr><tr><td>Reference</td><td>Book 2 Hadith 130</td></tr></tbody></table></div>
 

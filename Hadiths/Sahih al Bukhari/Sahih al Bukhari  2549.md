@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কত ভাগ্যবান সে যে উত্তমরূপে আপন প্রতিপালকের ইবাদত করে এবং নিজ মনিবের হিতাকাঙ্ক্ষী হয়। (আধুনিক প্রকাশনীঃ ২৩৬৪, ইসলামিক ফাউন্ডেশনঃ ২৩৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কত ভাগ্যবান সে যে উত্তমরূপে আপন প্রতিপালকের ইবাদত করে এবং নিজ মনিবের হিতাকাঙ্ক্ষী হয়। (আধুনিক প্রকাশনীঃ ২৩৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>2549</td></tr><tr><td>Reference</td><td>Book 49 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: உங்களில் ஒருவரின் அடிமை, தம் இறைவனை நன்முறையில் வழிபட்டு, தம் எசமானுக்கு விசுவாசமாக நடந்து கொண்டால், அவரே நல்லவர் ஆவார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவித்துள்ளார்கள். அத்தியாயம் : 49
+நபி (ஸல்) அவர்கள்கூறினார்கள்: உங்களில் ஒருவரின் அடிமை, தம் இறைவனை நன்முறையில் வழிபட்டு, தம் எசமானுக்கு விசுவாசமாக நடந்து கொண்டால், அவரே நல்லவர் ஆவார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவித்துள்ளார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>2549</td></tr><tr><td>Reference</td><td>Book 49 Hadith 32</td></tr></tbody></table></div>
 

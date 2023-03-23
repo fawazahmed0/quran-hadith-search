@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আরোহী পদচারীকে, পদচারী উপবিষ্টকে এবং অল্প সংখ্যক অধিক সংখ্যককে সালাম দিবে। [৬২৩১] (আধুনিক প্রকাশনী- ৫৭৯১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6232</td></tr><tr><td>Arabic No</td><td>6232</td></tr><tr><td>Reference</td><td>Book 79 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Salam] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வாகனத்தில் செல்பவர் நடந்து செல்பவருக்கும், நடந்து செல்பவர் அமர்ந்திருப்பவருக்கும், சிறு குழுவினர் பெருங்குழுவினருக்கும் (முதலில்) முகமன் (சலாம்) சொல்லட்டும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 79
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வாகனத்தில் செல்பவர் நடந்து செல்பவருக்கும், நடந்து செல்பவர் அமர்ந்திருப்பவருக்கும், சிறு குழுவினர் பெருங்குழுவினருக்கும் (முதலில்) முகமன் (சலாம்) சொல்லட்டும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6232</td></tr><tr><td>Arabic No</td><td>6232</td></tr><tr><td>Reference</td><td>Book 79 Hadith 6</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন সারহ (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি অন্যের দিলকে (সৎপথ) থেকে ফিরাবার উদ্দেশ্য ভাল ভাল কথা শিক্ষা করে। কিয়ামতের দিন আল্লাহ্‌ তার ফরয ও নফল কোন আমলই কবূল করবেন না।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি মানুষের অন্তরকে আকৃষ্ট করার জন্য চিন্তাকর্ষক কথাবার্তা শিখে, আল্লাহ কিয়ামতের দিন তার কোনো তওবা ও ফিদইয়া (অথবা ফরয ও নফল ইবাদাত) গ্রহণ করবেন না।[1] দুর্বলঃ মিশকাত হা/ ৪৮০২।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5006</td></tr><tr><td>Arabic No</td><td>5006</td></tr><tr><td>Reference</td><td>Book 43 Hadith 234</td></tr></tbody></table></div>
 

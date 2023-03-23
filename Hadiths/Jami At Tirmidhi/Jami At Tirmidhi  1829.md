@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮২৯। উম্মু সালামা (রাঃ) হতে বর্ণিত আছে, তিনি (ছাগলের) পাজরের ভুনা গোশত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সামনে রাখলেন। তিনি তা হতে খেলেন, তারপর নামাযে দাড়িয়ে গেলেন কিন্তু (আবার) ওযু করেননি। সহীহ, মুখতাসার শামা-ইল (১৩৮) আবদুল্লাহ ইবনুল হারিস, মুগীরা ও আবূ রাফি (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটিকে আবূ ঈসা হাসান সহীহ এবং এই সনদসূত্রে গারীব বলেছেন।
+। উম্মু সালামা (রাঃ) হতে বর্ণিত আছে, তিনি (ছাগলের) পাজরের ভুনা গোশত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সামনে রাখলেন। তিনি তা হতে খেলেন, তারপর নামাযে দাড়িয়ে গেলেন কিন্তু (আবার) ওযু করেননি। সহীহ, মুখতাসার শামা-ইল (১৩৮) আবদুল্লাহ ইবনুল হারিস, মুগীরা ও আবূ রাফি (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটিকে আবূ ঈসা হাসান সহীহ এবং এই সনদসূত্রে গারীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1829</td></tr><tr><td>Arabic No</td><td>1829</td></tr><tr><td>Reference</td><td>Book 25 Hadith 45</td></tr></tbody></table></div>
 

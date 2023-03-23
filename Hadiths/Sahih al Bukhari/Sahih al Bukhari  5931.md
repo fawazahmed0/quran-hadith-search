@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (ইবনু মাস‘ঊদ) (রাঃ) হতে বর্ণিত। আল্লাহর অভিশাপ বর্ষিত হোক সে সব নারীদের উপর যারা শরীরে উল্কি অঙ্কণ করে এবং যারা অঙ্কণ করায়, আর সে সব নারীদর উপর যারা চুল, ভ্রূ তুলে ফেলে এবং সে সব নারীদের উপর যারা সৌন্দর্যের জন্যে সম্মুখের দাঁত কেটে সরু করে, দাঁতের মধ্যে ফাঁক তৈরি করে, যা আল্লার সৃষ্টির মধ্যে পরিবর্তন আনে। রাবী বলেনঃ আমি কেন তার উপর অভিশাপ করব না, যাকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অভিশাপ করেছেন? আর আল্লাহর কিতাবে আছেঃ রাসূল তোমাদেরকে যা দেয় তা গ্রহণ কর।’’ (সূরাহ আল-হাশর (৫৯ঃ৭) [৪৮৮৬] (আধুনিক প্রকাশনী- ৫৪৯৯, ইসলামিক ফাউন্ডেশন- ৫৩৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (ইবনু মাস‘ঊদ) (রাঃ) হতে বর্ণিত। আল্লাহর অভিশাপ বর্ষিত হোক সে সব নারীদের উপর যারা শরীরে উল্কি অঙ্কণ করে এবং যারা অঙ্কণ করায়, আর সে সব নারীদর উপর যারা চুল, ভ্রূ তুলে ফেলে এবং সে সব নারীদের উপর যারা সৌন্দর্যের জন্যে সম্মুখের দাঁত কেটে সরু করে, দাঁতের মধ্যে ফাঁক তৈরি করে, যা আল্লার সৃষ্টির মধ্যে পরিবর্তন আনে। রাবী বলেনঃ আমি কেন তার উপর অভিশাপ করব না, যাকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অভিশাপ করেছেন? আর আল্লাহর কিতাবে আছেঃ রাসূল তোমাদেরকে যা দেয় তা গ্রহণ কর।’’ (সূরাহ আল-হাশর (৫৯ঃ৭) [৪৮৮৬] (আধুনিক প্রকাশনী- ৫৪৯৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5931</td></tr><tr><td>Arabic No</td><td>5931</td></tr><tr><td>Reference</td><td>Book 77 Hadith 146</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah:Allah has cursed those women who practise tattooing and those who get themselves tattooed, and those who remove their face hairs, and those who create a space between their teeth artificially to look beautiful, and such women as change the features created by Allah. Why then should I not curse those whom the Prophet (ﷺ) has cursed? And that is in Allah's Book. i.e. His Saying: 'And what the Apostle gives you take it and what he forbids you abstain (from it).' (59.7)
+Narrated 'Abdullah:Allah has cursed those women who practise tattooing and those who get themselves tattooed, and those who remove their face hairs, and those who create a space between their teeth artificially to look beautiful, and such women as change the features created by Allah. Why then should I not curse those whom the Prophet (ﷺ) has cursed? And that is in Allah's Book. i.e. His Saying: 'And what the Apostle gives you take it and what he forbids you abstain (from it)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5931</td></tr><tr><td>Arabic No</td><td>5931</td></tr><tr><td>Reference</td><td>Book 77 Hadith 146</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah:Allah has cursed those women who practise tattooing and those
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Alqamah], [Abdullah] mengatakan; "Allah melaknat orang yang mentato dan orang yang meminta ditato, orang yang mencukur habis alis dan merenggangkan gigi untuk kecantikan dengan merubah ciptaan Allah Ta'ala, kenapa saya tidak melaknat orang yang dilaknat Nabi shallallahu 'alaihi wasallam sementara dalam kitabullah telah termaktub Dan sesuatu yang datang dari rasul, maka ambillah (QS Al Hasyr; 7)
+Telah menceritakan kepada kami [Utsman] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Alqamah], [Abdullah] mengatakan; "Allah melaknat orang yang mentato dan orang yang meminta ditato, orang yang mencukur habis alis dan merenggangkan gigi untuk kecantikan dengan merubah ciptaan Allah Ta'ala, kenapa saya tidak melaknat orang yang dilaknat Nabi shallallahu 'alaihi wasallam sementara dalam kitabullah telah termaktub Dan sesuatu yang datang dari rasul, maka ambillah (QS Al Hasyr;)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5931</td></tr><tr><td>Arabic No</td><td>5931</td></tr><tr><td>Reference</td><td>Book 77 Hadith 146</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Utsman] telah menceritakan kepada kami [Jarir] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: பச்சை குத்திவிடும் பெண்கள், பச்சை குத்திக்கொள்ளும் பெண்கள், முகத்தில் முளைத்திருக்கும் முடிகளை அகற்றக் கேட்டுக்கொள்ளும் பெண்கள், அழகிற்காக அரத்தால் தேய்த்துப் பல்வரிசையைப் பிரித்துக்கொள்ளும் பெண்கள், (மொத்தத்தில்) இறைவன் அளித்த உருவத்தை மாற்றிக்கொள்ள முயலும் பெண்கள்மீது அல்லாஹ்வின் சாபம் உண்டாகட்டும்! நபி (ஸல்) அவர்கள் யாரைச் சபித்தார்களோ அவர்களை நான் ஏன் சபிக்கக் கூடாது? அல்லாஹ்வின் வேதத்திலும் அது உள்ளதே! ‘‘இறைத்தூதர் எதை உங்களுக்குக் கொடுத்தாரோ அதை எடுத்துக்கொள்ளுங்கள். அவர் எதிóருந்து உங்களைத் தடுத்தாரோ அதிலிருந்து விலகியிருங்கள்” என்பதே அந்த (59:7ஆவது) வசனம்.120 அத்தியாயம் : 77
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: பச்சை குத்திவிடும் பெண்கள், பச்சை குத்திக்கொள்ளும் பெண்கள், முகத்தில் முளைத்திருக்கும் முடிகளை அகற்றக் கேட்டுக்கொள்ளும் பெண்கள், அழகிற்காக அரத்தால் தேய்த்துப் பல்வரிசையைப் பிரித்துக்கொள்ளும் பெண்கள், (மொத்தத்தில்) இறைவன் அளித்த உருவத்தை மாற்றிக்கொள்ள முயலும் பெண்கள்மீது அல்லாஹ்வின் சாபம் உண்டாகட்டும்! நபி (ஸல்) அவர்கள் யாரைச் சபித்தார்களோ அவர்களை நான் ஏன் சபிக்கக் கூடாது? அல்லாஹ்வின் வேதத்திலும் அது உள்ளதே! ‘‘இறைத்தூதர் எதை உங்களுக்குக் கொடுத்தாரோ அதை எடுத்துக்கொள்ளுங்கள். அவர் எதிóருந்து உங்களைத் தடுத்தாரோ அதிலிருந்து விலகியிருங்கள்” என்பதே அந்த (59:7ஆவது) வசனம்.120 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5931</td></tr><tr><td>Arabic No</td><td>5931</td></tr><tr><td>Reference</td><td>Book 77 Hadith 146</td></tr></tbody></table></div>
 

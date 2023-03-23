@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। রাসূলূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি সকালে উপনীত হয়ে বলেঃ ‘‘হে আল্লাহ! নিশ্চয়ই আমি সকালে উপনীত হয়েছি আমি আপনাকে সাক্ষী রাখছি এবং সাক্ষী রাখছি আপনার আরশ বহনকারীগণকে, আপনার ফিরিশতাগণকে এবং আপনার সৃষ্টিকুলকে যে, আপনি একমাত্র আল্লাহ, আপনি ছাড়া কোনো ইলাহ নেই, আপনি একক, আপনার কোনো শরীক নেই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আপনার বান্দা ও রাসূল’’ তাহলে তার ঐ দিনের কৃত সমস্ত গুনাহ ক্ষমা হবে। আর সে যদি সন্ধ্যায় উপনীত হয়ে ঐ বাক্যসমূহ বলে তাহলে ঐ রাতে কৃত তার সমস্ত গুনাহ ক্ষমা হবে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5078</td></tr><tr><td>Arabic No</td><td>5078</td></tr><tr><td>Reference</td><td>Book 43 Hadith 306</td></tr></tbody></table></div>
 

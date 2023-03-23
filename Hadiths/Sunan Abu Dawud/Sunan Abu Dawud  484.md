@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবনু সাঈদ ...... আবূ সাঈদ (রাঃ) হতে বর্ণিত। তিনি বলেন, ওয়াসিলা ইবনুল আস্‌কা (রাঃ)-কে আমি দামিশকের মসজিদে চাটাইয়ের উপর থুথু ফেলতে দেখি অতঃপর তিনি তাঁর পা দ্বারা তা মুছে ফেলেন। তাকে এ সম্পর্কে জিজ্ঞাসা করা হলে তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে এরূপ করতে দেখেছি।
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি দেখলাম, ওয়াসিলাহ ইবনু আসক্বা' (রাঃ) দামিশক্বের মসজিদে চাটাইয়ের উপর থু থু নিক্ষেপ করে পরে তা পা দিয়ে মুছে ফেলেন। তাকে এরূপ করার কারণ জিজ্ঞেস করা হলে তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপই করতে দেখেছি। [1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>484</td></tr><tr><td>Reference</td><td>Book 2 Hadith 94</td></tr></tbody></table></div>
 

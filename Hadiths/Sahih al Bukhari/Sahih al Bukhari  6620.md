@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি খন্দকের যুদ্ধের দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি, তিনি আমাদের সাথে মাটি বহন করেছেন এবং বলেছেনঃ আল্লাহর কসম! তিনি যদি আমাদেরকে পথ না দেখাতেন তবে আমরা পথ পেতাম না। সওমও পালন করতাম না, আর সালাতও আদায় করতাম না। কাজেই আমাদের উপর প্রশান্তি অবতীর্ণ করুন। আর যদি আমরা শত্রুর মুকাবিলা করি তবে আমাদেরকে সুদৃঢ় রাখুন। আর মুশরিকরা আমাদের উপর বিদ্রোহী হয়েছে। তারাই আমাদেরকে ফিতনায় (যুদ্ধে) ফেলতে চেয়েছে, যা আমরা চাইনি। [২৮৩৬] (আধুনিক প্রকাশনী- ৬১৫৯, ইসলামিক ফাউন্ডেশন- ৬১৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি খন্দকের যুদ্ধের দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখেছি, তিনি আমাদের সাথে মাটি বহন করেছেন এবং বলেছেনঃ আল্লাহর কসম! তিনি যদি আমাদেরকে পথ না দেখাতেন তবে আমরা পথ পেতাম না। সওমও পালন করতাম না, আর সালাতও আদায় করতাম না। কাজেই আমাদের উপর প্রশান্তি অবতীর্ণ করুন। আর যদি আমরা শত্রুর মুকাবিলা করি তবে আমাদেরকে সুদৃঢ় রাখুন। আর মুশরিকরা আমাদের উপর বিদ্রোহী হয়েছে। তারাই আমাদেরকে ফিতনায় (যুদ্ধে) ফেলতে চেয়েছে, যা আমরা চাইনি। [২৮৩৬] (আধুনিক প্রকাশনী- ৬১৫৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6620</td></tr><tr><td>Arabic No</td><td>6620</td></tr><tr><td>Reference</td><td>Book 82 Hadith 26</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara' bin 'Azib:I saw the Prophet (ﷺ) on the Day of (the battle of) Al-Khandaq, carrying earth with us and saying, "By Allah, without Allah we would not have been guided, neither would we have fasted, nor would we have prayed. O Allah! Send down Sakina (calmness) upon us and make our feet firm when we meet (the enemy). The pagans have rebelled against us, but if they want to put us in affliction (i.e., fight us) we refuse (to flee)." (See Hadith No. 430, Vol. 5)
+Narrated Al-Bara' bin 'Azib:I saw the Prophet (ﷺ) on the Day of (the battle of) Al-Khandaq, carrying earth with us and saying, "By Allah, without Allah we would not have been guided, neither would we have fasted, nor would we have prayed. O Allah! Send down Sakina (calmness) upon us and make our feet firm when we meet (the enemy). The pagans have rebelled against us, but if they want to put us in affliction (i.e., fight us) we refuse (to flee)." (See Hadith No. 430, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6620</td></tr><tr><td>Arabic No</td><td>6620</td></tr><tr><td>Reference</td><td>Book 82 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'man] telah memberitakan kepada kami [Jari
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: அகழ்ப் போரின்போது நபி (ஸல்) அவர்கள் எங்களுடன் மண்ணைச் சுமந்து எடுத்துச் சென்றுகொண்டிருப்பதை நான் கண்டேன். அப்போது அவர்கள் (இவ்வாறு பாடியவண்ணம்) கூறிக்கொண்டிருந்தார்கள்: இறை ஆணை!இறைவன் (மட்டும்)இல்லாவிட்டால்நாங்கள்நல்வழி அடைந்திருக்கமாட்டோம்!நோன்பு நோற்றிருக்கமாட்டோம்!தொழுதும் இருக்கமாட்டோம்! எனவே,எங்கள்மீதுபொழிவாயாக அமைதியை!(எதிரிகளை)நாங்கள் சந்திக்கும்போதுபாதங்களைஉறுதிப்படுத்துவாயாக! இணைவைப்பாளர்கள்எங்களுக்குஅநீதியிழைத்துவிட்டனர்எங்களைச்சோதனையில் ஆழ்த்தஇவர்கள்விரும்பினாலும்இடம் தரமாட்டோம்.30 அத்தியாயம் : 82
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: அகழ்ப் போரின்போது நபி (ஸல்) அவர்கள் எங்களுடன் மண்ணைச் சுமந்து எடுத்துச் சென்றுகொண்டிருப்பதை நான் கண்டேன். அப்போது அவர்கள் (இவ்வாறு பாடியவண்ணம்) கூறிக்கொண்டிருந்தார்கள்: இறை ஆணை!இறைவன் (மட்டும்)இல்லாவிட்டால்நாங்கள்நல்வழி அடைந்திருக்கமாட்டோம்!நோன்பு நோற்றிருக்கமாட்டோம்!தொழுதும் இருக்கமாட்டோம்! எனவே,எங்கள்மீதுபொழிவாயாக அமைதியை!(எதிரிகளை)நாங்கள் சந்திக்கும்போதுபாதங்களைஉறுதிப்படுத்துவாயாக! இணைவைப்பாளர்கள்எங்களுக்குஅநீதியிழைத்துவிட்டனர்எங்களைச்சோதனையில் ஆழ்த்தஇவர்கள்விரும்பினாலும்இடம் தரமாட்டோம்.30 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6620</td></tr><tr><td>Arabic No</td><td>6620</td></tr><tr><td>Reference</td><td>Book 82 Hadith 26</td></tr></tbody></table></div>
 

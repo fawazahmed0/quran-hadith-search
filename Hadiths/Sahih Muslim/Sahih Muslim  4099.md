@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৯৯১, আন্তর্জাতিক নাম্বারঃ ৭১৫ ৩৯৯১-(.../...) আলী ইবনু খাশরাম (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) থেকে ইবনু নুমায়রের হাদীসের মতই বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৯৫৪, ইসলামিক সেন্টার ৩৯৫৩)
+আলী ইবনু খাশরাম (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) থেকে ইবনু নুমায়রের হাদীসের মতই বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৯৫৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4099</td></tr><tr><td>Arabic No</td><td>715.14</td></tr><tr><td>Reference</td><td>Book 22 Hadith 138</td></tr></tbody></table></div>
 

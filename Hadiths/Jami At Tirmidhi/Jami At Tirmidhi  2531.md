@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫৩১। উবাদাহ ইবনুস সামিত (রাযিঃ) হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতে একশতটি স্তর রয়েছে। প্রতি দুই স্তরের মাঝে আসমান-যমীনের সমান ব্যবধান বর্তমান। ফিরদাউস হচ্ছে সবচেয়ে উঁচু স্তরের জান্নাত, সেখান থেকেই জান্নাতের চারটি ঝর্ণা প্রবাহিত হয় এবং এর উপরেই (আল্লাহ তা'আলার) আরশ স্থাপিত। তোমরা আল্লাহ তা'আলার নিকট প্রার্থনা করার সময় ফিরদাউসের প্রার্থনা করবে। সহীহঃ প্রাগুক্ত। যাইদ ইবনু আসলাম (রাহঃ) হতে এই সূত্রেও উপরের হাদীসের সমার্থবোধক হাদীস বর্ণিত আছে।
+। উবাদাহ ইবনুস সামিত (রাযিঃ) হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতে একশতটি স্তর রয়েছে। প্রতি দুই স্তরের মাঝে আসমান-যমীনের সমান ব্যবধান বর্তমান। ফিরদাউস হচ্ছে সবচেয়ে উঁচু স্তরের জান্নাত, সেখান থেকেই জান্নাতের চারটি ঝর্ণা প্রবাহিত হয় এবং এর উপরেই (আল্লাহ তা'আলার) আরশ স্থাপিত। তোমরা আল্লাহ তা'আলার নিকট প্রার্থনা করার সময় ফিরদাউসের প্রার্থনা করবে। সহীহঃ প্রাগুক্ত। যাইদ ইবনু আসলাম (রাহঃ) হতে এই সূত্রেও উপরের হাদীসের সমার্থবোধক হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2531</td></tr><tr><td>Arabic No</td><td>2531</td></tr><tr><td>Reference</td><td>Book 38 Hadith 9</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdullah bin Abdurrahman] telah mengkhabarkan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ubâde b. Sâmit (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Cennet’te yüz derece vardır; Her iki derece arasındaki mesafe gökle yeryüzü arası kadardır. Firdevs derece olarak en üstünü olup Cennetin dört ırmağı buradan fışkırır. Arş’ta bunun üstünde bulunur. Allah’tan Cennet istediğinizde Firdevsi isteyiniz.” Ahmed b. Menî’ Yezîd b. Harun vasıtasıyla Hemmam’dan ve Zeyd b. Eslem’den bir benzerini rivâyet etmiştir. Diğer tahric: Müsned: 21627
+Ubâde b. Sâmit (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Cennet’te yüz derece vardır; Her iki derece arasındaki mesafe gökle yeryüzü arası kadardır. Firdevs derece olarak en üstünü olup Cennetin dört ırmağı buradan fışkırır. Arş’ta bunun üstünde bulunur. Allah’tan Cennet istediğinizde Firdevsi isteyiniz.” Ahmed b. Menî’ Yezîd b. Harun vasıtasıyla Hemmam’dan ve Zeyd b. Eslem’den bir benzerini rivâyet etmiştir. Diğer tahric: Müsned:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2531</td></tr><tr><td>Arabic No</td><td>2531</td></tr><tr><td>Reference</td><td>Book 38 Hadith 9</td></tr></tbody></table></div>
 

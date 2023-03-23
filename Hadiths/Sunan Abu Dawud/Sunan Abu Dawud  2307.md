@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন আবূ শায়বা ও মুহাম্মদ ইবন ‘আলা ...... আবদুল্লাহ্ ইবন মাসঊদ (রাঃ) হতে বর্ণিত। তিনি বলেন, যে ব্যক্তি লি‘আন (পরস্পর অভিসম্পাত) করতে চায়, আমি তার সাথে তা করতে প্রস্তুত। আল্লাহ শপথ! সূরা নিসা, যা তালাকের সূরা হিসাবেও পরিচিত, (স্বামীর মৃত্যুর পর স্ত্রীর ইদ্দত সীমা) "চার মাস দশ দিন" এ আয়াত অবতীর্ণ হওয়ার পর নাযিল হয়।
+। আব্দুল্লাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, যে ব্যক্তি লি‘আন করতে চায় আমি তার সাথে তা করতে প্রস্তুত আছি। আমি দৃঢ়ভাবে বলতে পারি যে, সূরা আন-নিসা যা তালাকের সূরা হিসেবেও পরিচিত, ‘‘চার মাস দশ দিন’’ সম্পর্কিত আয়াত অবতীর্ণ হওয়ার পরেই অবতীর্ণ হয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2307</td></tr><tr><td>Arabic No</td><td>2307</td></tr><tr><td>Reference</td><td>Book 13 Hadith 133</td></tr></tbody></table></div>
 

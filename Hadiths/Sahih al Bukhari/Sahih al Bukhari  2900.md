@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ উসাইদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বাদারের দিন বলেছেন, আমরা যখন কুরাইশদের বিপক্ষে সারিবদ্ধ হয়েছিলাম এবং কুরাইশরা আমাদের বিপক্ষে সারিবদ্ধ হয়েছিল, তখন নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমাদের বললেন, যখন তারা তোমাদের নিকটবর্তী হবে, তখন তোমরা তীর চালনা করবে। আবূ আব্দুল্লাহ (রহ.) বলেন, أَكْثَبُوكُمْ এর অর্থ যখন অধিক সংখ্যক সমবেত হয়। (৩৯৮৪, ৩৯৮৫) (আধুনিক প্রকাশনীঃ ২৬৮৬, ইসলামিক ফাউন্ডেশনঃ ২৬৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ উসাইদ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বাদারের দিন বলেছেন, আমরা যখন কুরাইশদের বিপক্ষে সারিবদ্ধ হয়েছিলাম এবং কুরাইশরা আমাদের বিপক্ষে সারিবদ্ধ হয়েছিল, তখন নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমাদের বললেন, যখন তারা তোমাদের নিকটবর্তী হবে, তখন তোমরা তীর চালনা করবে। আবূ আব্দুল্লাহ (রহ.) বলেন, أَكْثَبُوكُمْ এর অর্থ যখন অধিক সংখ্যক সমবেত হয়। (৩৯৮৪, ৩৯৮৫) (আধুনিক প্রকাশনীঃ ২৬৮৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 56 Hadith 114</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami ['Abdur Rah
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஉசைத் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போரின்போது நாங்கள் குறைஷியருக்கெதிராகவும் குறைஷியர் எங்களுக் கெதிராகவும் (போர் வியூகம் அமைத்து) அணிவகுத்து நின்றபோது நபி (ஸல்) அவர்கள், ‘‘(குறைஷியர்) உங்களை நெருங்கினால் நீங்கள் அம்புகளைப் பயன்படுத்துங்கள்” என்று கூறினார்கள். அத்தியாயம் : 56
+அபூஉசைத் (ரலி) அவர்கள் கூறியதாவது: பத்ர் போரின்போது நாங்கள் குறைஷியருக்கெதிராகவும் குறைஷியர் எங்களுக் கெதிராகவும் (போர் வியூகம் அமைத்து) அணிவகுத்து நின்றபோது நபி (ஸல்) அவர்கள், ‘‘(குறைஷியர்) உங்களை நெருங்கினால் நீங்கள் அம்புகளைப் பயன்படுத்துங்கள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 56 Hadith 114</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami ['Abdur Rah
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Useyd babasının şöyle dediğini nakletmiştir: "Resul-i Ekrem Sallallahu Aleyhi ve Sellem Bedir savaşında Kureyş müşriklerine karşı savaş konumu aldığımızda bize şu talimatı verdi: "Size yaklaşıp menzile girdiklerinde onların üzerine ok yağdırın!" Tekrar: 3984, 3985
+Ebu Useyd babasının şöyle dediğini nakletmiştir: "Resul-i Ekrem Sallallahu Aleyhi ve Sellem Bedir savaşında Kureyş müşriklerine karşı savaş konumu aldığımızda bize şu talimatı verdi: "Size yaklaşıp menzile girdiklerinde onların üzerine ok yağdırın!" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 56 Hadith 114</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইব্‌ন আলী (রহঃ) .... জনৈক ব্যক্তি আম্মার ইব্‌ন ইয়াসির (রাঃ) থেকে এরূপ বর্ণা করেছেন। তবে প্রথম বর্ণনাটি সম্পূর্ণ। ইব্‌ন জুবায়জ (রহঃ) বলেনঃ আমি আমর ইব্‌ন ইয়াহ্‌ইয়া (রহঃ)-কে জিজ্ঞাসা করিঃ লোকেরা কি তখন ইহরাম অবস্থায় ছিল? তিনি বলেনঃ না, বরং সব লোকেরা তখন মুকীম ছিল।
+। আম্মার ইবনু ইয়াসির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি কুসম রঙ ব্যবহার করেছিলাম... অতঃপর পূর্বোক্ত হাদীসের অনুরূপ ঘটনা। তবে প্রথম সূত্রের ঘটনা পূর্ণাঙ্গ। বর্ণনাকারী বলেন, আমি উমার ইবনুল আতা (রহঃ)-কে বললাম, লোকজন কি ইহরাম অবস্থায় ছিলো? তিনি বলেন, না। ইহরামহীন ছিলো।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4177</td></tr><tr><td>Arabic No</td><td>4177</td></tr><tr><td>Reference</td><td>Book 35 Hadith 19</td></tr></tbody></table></div>
 

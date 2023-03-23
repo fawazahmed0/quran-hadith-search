@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩৪৩৭। আবু খিযামা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞাসা করা হলো, যে সকল ঔষধ দ্বারা আমরা চিকিৎসা করি, যে ঝাড়ফুঁক করি এবং যে সকল প্রতিরোধমূলক বা সতর্কতামূলক ব্যবস্থা গ্রহণ করি, সে সম্পর্কে আপনার মত কী? সেগুলো কি আল্লাহ নির্ধারিত তাকদীর কিছুমাত্র রদ করতে পারে? তিনি বলেনঃ সেগুলোও তাকদীরের অন্তর্ভুক্ত।
+। আবু খিযামা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞাসা করা হলো, যে সকল ঔষধ দ্বারা আমরা চিকিৎসা করি, যে ঝাড়ফুঁক করি এবং যে সকল প্রতিরোধমূলক বা সতর্কতামূলক ব্যবস্থা গ্রহণ করি, সে সম্পর্কে আপনার মত কী? সেগুলো কি আল্লাহ নির্ধারিত তাকদীর কিছুমাত্র রদ করতে পারে? তিনি বলেনঃ সেগুলোও তাকদীরের অন্তর্ভুক্ত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3437</td></tr><tr><td>Arabic No</td><td>3437</td></tr><tr><td>Reference</td><td>Book 31 Hadith 2</td></tr></tbody></table></div>
 

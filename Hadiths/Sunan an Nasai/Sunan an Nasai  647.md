@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৪৭, আন্তর্জাতিক নাম্বারঃ ৬৪৮ ৬৪৭. সুওয়াইদ ইবনু নাসর (রহ.) ..... আবূ মাহযূরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ (সা.) -এর মুয়াযযিন ছিলাম। আমি ফজরের প্রথম আযানে “হাইয়্যা আলাল ফালা-হ”, এর পরে বলতাম “আস্সলা-তু খয়রুম্ মিনান নাওম, আস্সলা-তু খয়রুম্ মিনান নাওম; আল্ল-হু আকবার, আল-হু আকবার; লা- ইলা-হা ইল্লাল্ল-হ”। সহীহ: সহীহ আবু দাউদ ৫১৬।
+। সুওয়ায়দ ইবনু নাসর (রহঃ) ... আবূ মাহয়ূবা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মুয়াযযিন ছিলাম। আাম ফজরের প্রথম আযানে- حَىَّ عَلَى الْفَلاَحِ এর পরে বলতামঃ الصَّلاَةُ خَيْرٌ مِنَ النَّوْمِ الصَّلاَةُ خَيْرٌ مِنَ النَّوْمِ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ لاَ إِلَهَ إِلاَّ اللَّهُ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>647</td></tr><tr><td>Arabic No</td><td>647</td></tr><tr><td>Reference</td><td>Book 7 Hadith 22</td></tr></tbody></table></div>
 

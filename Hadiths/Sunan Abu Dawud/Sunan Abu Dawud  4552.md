@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ (রহঃ) ..... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ অনিচ্ছাকৃত হত্যার দিয়াত চারভাগে আদায় করতে হবে; যথা- পঁচিশটি হিককা, পঁচিশটি জাযা'আ, পঁচিশটি বিনতে লাবুন এবং পঁচিশটি বিনতে মাখায আদায় করতে হবে।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 41 Hadith 59</td></tr></tbody></table></div>
 

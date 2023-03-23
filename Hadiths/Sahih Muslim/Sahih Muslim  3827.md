@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৭১৯, আন্তর্জাতিক নাম্বারঃ ১৫২২ ৩৭১৯-(.../...) আবূ বাকর ইবনু আবূ শাইবাহ ও আমর আন নাকিদ (রহঃ) ..... জাবির (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৬৮৫, ইসলামিক সেন্টার ৩৬৮৫)
+আবূ বাকর ইবনু আবূ শাইবাহ ও আমর আন নাকিদ (রহঃ) ..... জাবির (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৬৮৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3827</td></tr><tr><td>Arabic No</td><td>1522.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 27</td></tr></tbody></table></div>
 

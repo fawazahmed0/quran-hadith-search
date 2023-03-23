@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৬৯৪। বুরাইদাহ আল-আসলামী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে এক যুদ্ধে যোগদান করেছিলাম। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা মেঘাচ্ছন্ন দিনে তাড়াতাড়ি (প্রথম ওয়াক্তে) সালাত আদায় করবে। কারণ যার আসরের সালাত ছুটে যায় তার আমল বিনষ্ট হয়ে যায়।
+। বুরাইদাহ আল-আসলামী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে এক যুদ্ধে যোগদান করেছিলাম। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা মেঘাচ্ছন্ন দিনে তাড়াতাড়ি (প্রথম ওয়াক্তে) সালাত আদায় করবে। কারণ যার আসরের সালাত ছুটে যায় তার আমল বিনষ্ট হয়ে যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>694</td></tr><tr><td>Arabic No</td><td>694</td></tr><tr><td>Reference</td><td>Book 2 Hadith 28</td></tr></tbody></table></div>
 

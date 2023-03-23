@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যুহায়র ইবনু হারব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, সংক্রমণ, পেঁচা ও কু-ধারণা (বিশ্বাসের বৈধতা) নেই; আর আমি ভাল 'ফাল' পছন্দ করি। (ইসলামিক ফাউন্ডেশন ৫৬০৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5803</td></tr><tr><td>Arabic No</td><td>2223.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 155</td></tr></tbody></table></div>
 

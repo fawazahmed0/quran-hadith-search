@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, চন্দ্র বিদীর্ণ হল। এ সময় আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলাম। তা দু’টুকরো হয়ে গেল। তখন তিনি আমাদের বললেন, তোমরা সাক্ষী থাক, তোমরা সাক্ষী থাক। [৩৬৩৬] (আধুনিক প্রকাশনীঃ ৪৪৯৮, ইসলামিক ফাউন্ডেশনঃ ৪৫০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, চন্দ্র বিদীর্ণ হল। এ সময় আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলাম। তা দু’টুকরো হয়ে গেল। তখন তিনি আমাদের বললেন, তোমরা সাক্ষী থাক, তোমরা সাক্ষী থাক। [৩৬৩৬] (আধুনিক প্রকাশনীঃ ৪৪৯৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4865</td></tr><tr><td>Arabic No</td><td>4865</td></tr><tr><td>Reference</td><td>Book 65 Hadith 386</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி ஸல்) அவர்களுடன் (மினாவில்) இருந்துகொண்டிருந்தபோது சந்திரன் பிளவுபட்டு இரண்டு துண்டுகளாக மாறிற்று. அப்போது நபி (ஸல்) அவர்கள் எங்களிடம், ‘‘நீங்கள் சாட்சியாக இருங்கள். நீங்கள் சாட்சியாக இருங்கள்” என்று (இரு முறை) கூறினார்கள். அத்தியாயம் : 65
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி ஸல்) அவர்களுடன் (மினாவில்) இருந்துகொண்டிருந்தபோது சந்திரன் பிளவுபட்டு இரண்டு துண்டுகளாக மாறிற்று. அப்போது நபி (ஸல்) அவர்கள் எங்களிடம், ‘‘நீங்கள் சாட்சியாக இருங்கள். நீங்கள் சாட்சியாக இருங்கள்” என்று (இரு முறை) கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4865</td></tr><tr><td>Arabic No</td><td>4865</td></tr><tr><td>Reference</td><td>Book 65 Hadith 386</td></tr></tbody></table></div>
 

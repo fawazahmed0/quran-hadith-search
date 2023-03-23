@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৪০২। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা উযূ (ওজু/অজু/অযু) করার সময় তোমাদের ডান থেকে শুরু করবে। ২/২০৪ (১) আবূল হাসান ইবনু সালামাহ, আবূ হাতিম ইয়াহ্ইয়া, ইবনু সালিহ ও ইবনু নুফায়ল প্রমুখ যুহায়র (রহঃ) থেকে উপরোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা উযূ (ওজু/অজু/অযু) করার সময় তোমাদের ডান থেকে শুরু করবে। ২/২০৪ (১) আবূল হাসান ইবনু সালামাহ, আবূ হাতিম ইয়াহ্ইয়া, ইবনু সালিহ ও ইবনু নুফায়ল প্রমুখ যুহায়র (রহঃ) থেকে উপরোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402</td></tr><tr><td>Arabic No</td><td>402</td></tr><tr><td>Reference</td><td>Book 1 Hadith 136</td></tr></tbody></table></div>
 

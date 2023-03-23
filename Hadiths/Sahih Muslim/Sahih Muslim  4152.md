@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪০৪৪, আন্তর্জাতিক নাম্বারঃ ১৬১৮ ৪০৪৪-(১০/১৬১৮) আলী ইবনু খাশরাম (রহঃ) .... বারা (রাযিঃ) হতে বর্ণিত। তিনি বলেন, কুরআনের সর্বশেষ যে আয়াত নাযিল হয় তা হলো يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلاَلَةِ‏ তারা আপনার কাছে জানতে চায়, আপনি বলুন, আল্লাহ তা'আলা কালালার ব্যাপারে সমাধান দিচ্ছেন। (ইসলামিক ফাউন্ডেশন ৪০০৭, ইসলামিক সেন্টার ৪০০৬)
+আলী ইবনু খাশরাম (রহঃ) .... বারা (রাযিঃ) হতে বর্ণিত। তিনি বলেন, কুরআনের সর্বশেষ যে আয়াত নাযিল হয় তা হলো يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلاَلَةِ‏ তারা আপনার কাছে জানতে চায়, আপনি বলুন, আল্লাহ তা'আলা কালালার ব্যাপারে সমাধান দিচ্ছেন। (ইসলামিক ফাউন্ডেশন ৪০০৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4152</td></tr><tr><td>Arabic No</td><td>1618.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 13</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Al-Bara' (Allah be pleased with him) reported that the last verse revealed in the Holy Qur'an is:" They ask thee for a religious verdict; say: Allah gives you a religious verdict about Kalala (the person who has neither parents nor children)" (iv 177)
+Al-Bara' (Allah be pleased with him) reported that the last verse revealed in the Holy Qur'an is:" They ask thee for a religious verdict; say: Allah gives you a religious verdict about Kalala (the person who has neither parents nor children)" (iv)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4152</td></tr><tr><td>Arabic No</td><td>1618.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 13</td></tr></tbody></table></div>
 
@@ -56,7 +56,7 @@ D'après Al-Barâ' (que Dieu l'agrée), Le dernier verset révélé est : Ils te
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Waki'] dari [Ibnu Abu Khalid] dari [Abu Ishaq] dari [Al Barra'] dia berkata, "Ayat Al Qur'an yang terakhir diturunkan adalah 'YASTAFTUUNAKA QULILLAHU YUFTIIKUM FIL KALAALAH (Mereka meminta fatwa kepadamu (tentang kalalah). Katakanlah: "Allah memberi fatwa kepadamu tentang kalalah…) ' (Qs. An Nisaa: 176)
+Telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Waki'] dari [Ibnu Abu Khalid] dari [Abu Ishaq] dari [Al Barra'] dia berkata, "Ayat Al Qur'an yang terakhir diturunkan adalah 'YASTAFTUUNAKA QULILLAHU YUFTIIKUM FIL KALAALAH (Mereka meminta fatwa kepadamu (tentang kalalah). Katakanlah: "Allah memberi fatwa kepadamu tentang kalalah…) ' (Qs. An Nisaa:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4152</td></tr><tr><td>Arabic No</td><td>1618.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 13</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: குர்ஆனில் இறுதியாக அருளப்பெற்ற வசனம் "(நபியே!) உம்மிடம் ("கலாலா" குறித்து) அவர்கள் மார்க்கத் தீர்ப்புக் கேட்கின்றனர்" (4:176) என்று தொடங்கும் வசனமாகும். அத்தியாயம் : 23
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: குர்ஆனில் இறுதியாக அருளப்பெற்ற வசனம் "(நபியே!) உம்மிடம் ("கலாலா" குறித்து) அவர்கள் மார்க்கத் தீர்ப்புக் கேட்கின்றனர்" (4:176) என்று தொடங்கும் வசனமாகும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4152</td></tr><tr><td>Arabic No</td><td>1618.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 13</td></tr></tbody></table></div>
 

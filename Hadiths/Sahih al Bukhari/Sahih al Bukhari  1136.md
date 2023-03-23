@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুযাইফাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের বেলা যখন তাহাজ্জুদ সালাতের জন্য উঠতেন তখন মিস্ওয়াক দ্বারা তাঁর মুখ পরিষ্কার করে নিতেন। (২৪৫) (আধুনিক প্রকাশনীঃ ১০৬৫, ইসলামিক ফাউন্ডেশনঃ ১০৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হুযাইফাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের বেলা যখন তাহাজ্জুদ সালাতের জন্য উঠতেন তখন মিস্ওয়াক দ্বারা তাঁর মুখ পরিষ্কার করে নিতেন। (২৪৫) (আধুনিক প্রকাশনীঃ ১০৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1136</td></tr><tr><td>Arabic No</td><td>1136</td></tr><tr><td>Reference</td><td>Book 19 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரவில் ‘தஹஜ் ஜுத்’ தொழுவதற்காக எழும்போது, பல் துலக்கு(ம் குச்சியால் தமது வாயைச் சுத்தம் செய்)வார்கள்.10 அத்தியாயம் : 19
+ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரவில் ‘தஹஜ் ஜுத்’ தொழுவதற்காக எழும்போது, பல் துலக்கு(ம் குச்சியால் தமது வாயைச் சுத்தம் செய்)வார்கள்.10 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1136</td></tr><tr><td>Arabic No</td><td>1136</td></tr><tr><td>Reference</td><td>Book 19 Hadith 17</td></tr></tbody></table></div>
 

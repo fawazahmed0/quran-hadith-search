@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ... শু’বা (রহঃ) হতে বর্ণিত। তিনি বলেনঃ সুফয়ান আমার চাইতে অধিক স্মরণশক্তির অধিকারী ছিলেন।
+। শু‘বাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, সুফিয়ানের স্মরণশক্তি আমার স্মরণশক্তির চেয়ে অধিক মজবুত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3339</td></tr><tr><td>Arabic No</td><td>3339</td></tr><tr><td>Reference</td><td>Book 23 Hadith 14</td></tr></tbody></table></div>
 

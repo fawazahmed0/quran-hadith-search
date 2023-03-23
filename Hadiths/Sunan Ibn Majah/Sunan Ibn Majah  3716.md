@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৭১৬। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন কোন ব্যক্তির সাথে সাক্ষাত করতেন এবং কথা বলতেন, তখন সে মুখ ফিরিয়ে না নেয়া পর্যন্ত তিনি তাঁর মুখ ফিরিয়ে নিতেন না এবং যখন কারো সাথে মুসাফাহা করতেন, তখন সে তার হাত সরিয়ে না নেয়া পর্যন্ত তিনি তার থেকে নিজের হাত সরিয়ে নিতেননা। তাঁর সাথে উপবিষ্ট লোকেদের দিকে পা ছড়িয়ে দিতে তাঁকে কখনো বসতে দেখা যায়নি।
+। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন কোন ব্যক্তির সাথে সাক্ষাত করতেন এবং কথা বলতেন, তখন সে মুখ ফিরিয়ে না নেয়া পর্যন্ত তিনি তাঁর মুখ ফিরিয়ে নিতেন না এবং যখন কারো সাথে মুসাফাহা করতেন, তখন সে তার হাত সরিয়ে না নেয়া পর্যন্ত তিনি তার থেকে নিজের হাত সরিয়ে নিতেননা। তাঁর সাথে উপবিষ্ট লোকেদের দিকে পা ছড়িয়ে দিতে তাঁকে কখনো বসতে দেখা যায়নি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3716</td></tr><tr><td>Arabic No</td><td>3716</td></tr><tr><td>Reference</td><td>Book 33 Hadith 60</td></tr></tbody></table></div>
 

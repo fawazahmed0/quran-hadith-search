@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, আল্লাহর রাস্তায় একটি সকাল কিংবা একটি বিকাল অতিবাহিত করা দুনিয়া ও তাতে যা কিছু আছে, তার চেয়ে উত্তম। (২৭৯৬, ৬৫৬৮) (মুসলিম ৩৩/৩০ হাঃ ১৮৮০, আহমাদ ১২৩৫২) (আধুনিক প্রকাশনীঃ ২৫৮৫, ইসলামিক ফাউন্ডেশনঃ ২৫৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, আল্লাহর রাস্তায় একটি সকাল কিংবা একটি বিকাল অতিবাহিত করা দুনিয়া ও তাতে যা কিছু আছে, তার চেয়ে উত্তম। (২৭৯৬, ৬৫৬৮) (মুসলিম ৩৩/৩০ হাঃ ১৮৮০, আহমাদ ১২৩৫২) (আধুনিক প্রকাশনীঃ ২৫৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2792</td></tr><tr><td>Arabic No</td><td>2792</td></tr><tr><td>Reference</td><td>Book 56 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Mu'allaa bin Asad] telah bercerita kepada kami [Wuh
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: இறைவழியில் காலை நேரத்தில் சிறிது நேரம், அல்லது ஒரு மாலை நேரத்தில் சிறிது நேரம் (போர் புரியச்) செல்வது உலகத்தையும் அதிலுள்ள பொருட்களையும் விடச் சிறந்ததாகும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 56
+நபி (ஸல்) அவர்கள்கூறினார்கள்: இறைவழியில் காலை நேரத்தில் சிறிது நேரம், அல்லது ஒரு மாலை நேரத்தில் சிறிது நேரம் (போர் புரியச்) செல்வது உலகத்தையும் அதிலுள்ள பொருட்களையும் விடச் சிறந்ததாகும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2792</td></tr><tr><td>Arabic No</td><td>2792</td></tr><tr><td>Reference</td><td>Book 56 Hadith 10</td></tr></tbody></table></div>
 

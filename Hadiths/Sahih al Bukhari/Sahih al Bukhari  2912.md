@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আমর ইবনু হারিস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) কিছুই রেখে যাননি, কেবল তাঁর অস্ত্র, একটি সাদা খচ্চর ও এক টুকরো জমি, যা সদাকাহ করে গিয়েছিলেন। (২৭৩৯) (আধুনিক প্রকাশনীঃ ২৬৯৭, ইসলামিক ফাউন্ডেশনঃ ২৭০৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমর ইবনু হারিস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) কিছুই রেখে যাননি, কেবল তাঁর অস্ত্র, একটি সাদা খচ্চর ও এক টুকরো জমি, যা সদাকাহ করে গিয়েছিলেন। (২৭৩৯) (আধুনিক প্রকাশনীঃ ২৬৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2912</td></tr><tr><td>Arabic No</td><td>2912</td></tr><tr><td>Reference</td><td>Book 56 Hadith 125</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Amru bi 'Abbas] telah bercerita kepada kami ['Andu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் அல்ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இறக்கும்போது தமது ஆயுதத்தையும், வெள்ளை நிறக் கோவேறுக் கழுதையையும், கைபரில் அவர்களுக்கிருந்த ஒரு நிலத்தையும் தவிர. வேறெதையும் அவர்கள் விட்டுச்செல்லவில்லை; அந்த நிலத்தையும் அவர்கள் தர்மமாக ஆக்கிவிட்டிருந்தார்கள்.64 அத்தியாயம் : 56
+அம்ர் பின் அல்ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இறக்கும்போது தமது ஆயுதத்தையும், வெள்ளை நிறக் கோவேறுக் கழுதையையும், கைபரில் அவர்களுக்கிருந்த ஒரு நிலத்தையும் தவிர. வேறெதையும் அவர்கள் விட்டுச்செல்லவில்லை; அந்த நிலத்தையும் அவர்கள் தர்மமாக ஆக்கிவிட்டிருந்தார்கள்.64 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2912</td></tr><tr><td>Arabic No</td><td>2912</td></tr><tr><td>Reference</td><td>Book 56 Hadith 125</td></tr></tbody></table></div>
 

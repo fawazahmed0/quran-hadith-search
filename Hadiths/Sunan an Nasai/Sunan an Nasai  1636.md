@@ -16,21 +16,21 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، وَإِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالاَ حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ أَبِي قَالَ، سَمِعْتُ أَنَسًا، يَقُولُ أَخْبَرَنِي بَعْضُ، أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم لَيْلَةَ أُسْرِيَ بِهِ مَرَّ عَلَى مُوسَى عَلَيْهِ السَّلاَمُ وَهُوَ يُصَلِّي فِي قَبْرِهِ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا يحيى بن حبيب بن عربي، واسماعيل بن مسعود، قالا حدثنا معتمر، قال سمعت ابي قال، سمعت انسا، يقول اخبرني بعض، اصحاب النبي صلى الله عليه وسلم ان النبي صلى الله عليه وسلم ليلة اسري به مر على موسى عليه السلام وهو يصلي في قبره
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইয়াইয়া ইবনু হাবীব ও ইসমাঈল ইবনু মাসউদ (রহঃ) ... মু'তামিরের পিতা থেকে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ) কে বলতে শুনেছি যে, আমাকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কোন কোন সাহাবী সংবাদ দিয়েছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মি'রাজের রাত্রে মুসা (আলাইহিস সালাম) এর কাছে গিয়েছিলেন। তখন তিনি নিজ কবরে সালাত আদায় করছিলেন।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mu'tamir said:"I heard my father say: I heard Anas say: 'One of the companions of the Prophet (ﷺ) told me that on the Night Journey, the Prophet (ﷺ) passed by Musa, peace be upon him, and he was praying in his grave
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ Mu'tamir said:"I heard my father say: I heard Anas say: 'One of the companions o
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Yahya bin Habib bin 'Arabi] dan [Isma'il bin Mas'ud], mereka berdua berkata; telah menceritakan kepada kami [Mu'tamir] dia berkata; Aku mendengar [bapakku] berkata; Aku mendengar [Anas] berkata; telah mengabarkan kepadaku [sebagian sahabat] Nabi shallallahu 'alaihi wasallam bahwa ketika Nabi shallallahu 'alaihi wasallam diisra'kan beliau melewati Musa? laihis Salam, dan dia sedang shalat di kuburannya
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengabarkan kepada kami [Yahya bin Habib bin 'Arabi] dan [Isma'il bin Mas'
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengabarkan kepada kami [Yahya bin Habib bin 'Arabi] dan [Isma'il bin Mas'
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معتمر بن سلیمان کہتے ہیں کہ میں نے اپنے والد کو سنا وہ کہہ رہے تھے کہ میں نے انس رضی اللہ عنہ کو کہتے سنا ہے کہ مجھے نبی اکرم صلی اللہ علیہ وسلم کے بعض اصحاب نے بتایا کہ نبی اکرم صلی اللہ علیہ وسلم معراج کی رات میں موسیٰ علیہ السلام پر سے گزرے، اور وہ اپنی قبر میں نماز پڑھ رہے تھے۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>

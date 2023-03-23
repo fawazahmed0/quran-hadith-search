@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু মুআয .... জাবের ইবনু ইয়াযীদ (রহঃ) থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি মিনাতে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের সাথে ফজরের নামায আদায় করি ... হাদীছের অবশিষ্টাংশ পূর্বোক্ত হাদীছের অনুরূপ।
+। জাবির ইবনু ইয়াযীদ (রহঃ) তার পিতা থেকে বর্ণনা করেন। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে মিনাতে ফজরের সালাত আদায় করলাম ...... পূর্বোক্ত হাদীসের সমার্থক।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>576</td></tr><tr><td>Arabic No</td><td>576</td></tr><tr><td>Reference</td><td>Book 2 Hadith 186</td></tr></tbody></table></div>
 

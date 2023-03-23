@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন বাশশার (রহঃ) .... সাঈদ (রহঃ) হতে পূর্ববর্তী হাদীসের অনুরূপ বর্ণিত হয়েছে। ইবন বাশশার ইয়াহহিয়া ইবন সাঈদ হতে বর্ণিত হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন।
+। সাঈদ (রহঃ) হতে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। ইবনু বাশশারও ইয়াহইয়া ইবনু সাঈদের অনুরূপ বলেছেন। তিনি আরো বলেন, তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমাদেরকে শুনিয়ে সালাম ফিরাতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 5 Hadith 96</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৬৪৯, আন্তর্জাতিক নাম্বারঃ ২৬৫৮ ৬৬৪৯-(.../...) আবু বকর ইবনু আবু শাইবাহ, ‘আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) হতে এ সূত্রে হুবহু হাদীস বর্ণনা করেছেন। মা'মার (রহঃ) বলেন, যেমন চতুষ্পদ প্রাণী চতুষ্পদ বাচ্চা জন্ম দিতে হয় এবং তিনি (পূর্ণাঙ্গ) শব্দটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশন ৬৫১৫, ইসলামিক সেন্টার ৬৫৬৬)
+হাজিব ইবনু ওয়ালীদ (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ প্রতিটি নবজাতক স্বভাবজাত ইসলাম নিয়ে জন্মলাভ করে। অতঃপর তার বাবা-মা তাকে ইয়াহুদী বানিয়ে দেয়, খ্ৰীষ্টান বানিয়ে দেয় এবং আগুনপূজারী বানিয়ে দেয়, যেমন চতুষ্পদ প্রাণী পূর্ণাঙ্গ চতুষ্পদ বাচ্চা জন্ম দেয় তোমরা কি তাতে কোন অঙ্গ কর্তিত বাচ্চা উপলব্ধি করছ? তারপর আবু হুরাইরাহ (রাযিঃ) বললেন, ইচ্ছা করলে তোমরা এ আয়াতটি পাঠ করতে পার, “আল্লাহর ফিতরাতে যার উপর তিনি মানুষ সৃষ্টি করেছেন। আল্লাহর সৃষ্টির কোন পরিবর্তন নেই*- (সূরা আর রূম ৩০ঃ ৩০)। (ইসলামিক ফাউন্ডেশন ৬৫১৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6756</td></tr><tr><td>Arabic No</td><td>2658.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 34</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-There is none born but is created to his true nature (Islam). It is his parents who make him a Jew or a Christian or a Magian quite as beasts produce their young with their limbs perfect. Do you see anything deficient in them? Then he quoted the Qur'an., The nature made by Allah in which He has created men there is no altering of Allah's creation; that is the right religion" (ar-Rum:30)
+There is none born but is created to his true nature (Islam). It is his parents who make him a Jew or a Christian or a Magian quite as beasts produce their young with their limbs perfect. Do you see anything deficient in them? Then he quoted the Qur'an., The nature made by Allah in which He has created men there is no altering of Allah's creation; that is the right religion" (ar-Rum:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6756</td></tr><tr><td>Arabic No</td><td>2658.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 34</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ There is none born but is created to his true nature (Islam). It is his parents 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Hâcib b. Velid rivayet etti. (Dediki): Bize Muhammed b. Harb Zubeydî'den, o da Zührî'den naklen rivayet etti. (Demişki): Bana Saîd b. Müseyyeh, Ebû Hureyre'den naklen haber verdiki, şöyle diyormuş; Resûlullah (Sallallahu Aleyhi ve Sellem): «Hiç bir doğan çocuk yoktur ki, fıtrat üzere doğmuş olmasın. Sonra onu annesi, babası yahûdileştirir; hıristiyanlaştınr ve mecûsîleştirirler. Tıpkı bir hayvanın dertop bir hayvan doğurduğu gibi. Bu hayvanda hiç bir kesik aza hissediyor musunuz?» buyurdular. Sonra Ebû Hureyre: İsterseniz şu âyeti okuyun! dedi. «O fıtrata ki, Allah insanları onun üzerine yaratmıştır. Allah'ın halkettiğini değiştirmek yoktur.» [Rum 30]
+Bize Hâcib b. Velid rivayet etti. (Dediki): Bize Muhammed b. Harb Zubeydî'den, o da Zührî'den naklen rivayet etti. (Demişki): Bana Saîd b. Müseyyeh, Ebû Hureyre'den naklen haber verdiki, şöyle diyormuş; Resûlullah (Sallallahu Aleyhi ve Sellem): «Hiç bir doğan çocuk yoktur ki, fıtrat üzere doğmuş olmasın. Sonra onu annesi, babası yahûdileştirir; hıristiyanlaştınr ve mecûsîleştirirler. Tıpkı bir hayvanın dertop bir hayvan doğurduğu gibi. Bu hayvanda hiç bir kesik aza hissediyor musunuz?» buyurdular. Sonra Ebû Hureyre: İsterseniz şu âyeti okuyun! dedi. «O fıtrata ki, Allah insanları onun üzerine yaratmıştır. Allah'ın halkettiğini değiştirmek yoktur.» [Rum]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6756</td></tr><tr><td>Arabic No</td><td>2658.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 34</td></tr></tbody></table></div>
 

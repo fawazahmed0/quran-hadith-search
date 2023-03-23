@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন ইয়াহ্ইয়া (রহঃ) ..... আবু হুরায়রা (রাঃ) হতে যুল-য়াদাইনের হাদীছে বর্ণিত ঘটনার ন্যায় বর্ণিত হয়েছে। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিজদায় সাহূ করেননি যতক্ষণ না আল্লাহ তাআলা তাঁকে নিশ্চিত করে দেন (দুই রাকাত না পড়ার ব্যাপারে)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে অনুরূপ ঘটনা বর্ণিত হয়েছে। আবূ হুরাইরাহ (রাঃ) বলেন, মহান আল্লাহ তাঁকে (দু’ রাক‘আত সালাত ভুল বশতঃ ছেড়ে দেয়ার বিষয়টি) নিশ্চিত না করা পর্যন্ত তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) দু‘টি সাহু সিজদা্ করেননি।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1012</td></tr><tr><td>Arabic No</td><td>1012</td></tr><tr><td>Reference</td><td>Book 2 Hadith 623</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন আলী (রহঃ) ... ইবন আব্বাস (রাঃ) এ আয়াত (إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَى) সম্বন্ধে বলেন, যার তত্ত্বাবধানে ইয়াতীম ছিল, এই আয়াত অবতীর্ণ হওয়ার পর সে ইয়াতীমের খাদ্য, তার পানীয় তার হাঁড়ি-পাতিল সব পৃথক করে দেয়। এটা মুসলিমদের জন্য কঠিন হয়ে পড়লো। তখন আল্লাহ তা'আলা নাযিল করলেনঃ (وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ فِي الدِّينِ) অর্থঃ যদি তাদের সাথে মিশ্রিত কর (সম্মিলিত রান্নাবান্না ইত্যাদি...) তবে তারা তো তোমাদের দীনী ভাই-ই। ইয়াতীমের মাল তাদের মালের সাথে মিশ্রিত করার অনুমতি দিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3670</td></tr><tr><td>Arabic No</td><td>3670</td></tr><tr><td>Reference</td><td>Book 30 Hadith 60</td></tr></tbody></table></div>
 

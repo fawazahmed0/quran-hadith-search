@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন কোন মজলিসে যাবে, তখন সালাম করবে। আর সে যখন উঠে আসবে, তখনও সালাম করবে। কেননা, প্রথমবার সালাম করা, দ্বিতীয় বার সালাম করার চাইতে অধিক জরুরী নয়। (অর্থাৎ উভয় সালামই জরুরী।)
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ মাজলিসে উপস্থিত হলে যেন সালাম দেয় এবং মাজলিস থেকে বিদায়ের সময়ও যেন সালাম দেয়। প্রথম সালাম শেষ সালামের চেয়ে বেশী জরূরী নয়।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5208</td></tr><tr><td>Arabic No</td><td>5208</td></tr><tr><td>Reference</td><td>Book 43 Hadith 436</td></tr></tbody></table></div>
 

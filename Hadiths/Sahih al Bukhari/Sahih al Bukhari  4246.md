@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘ঈদ (রহ.) থেকে বর্ণনা করেন যে, আবূ সা‘ঈদ ও আবূ হুরাইরাহ (রাঃ) তাঁকে বললেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আনসারদের বানী আদী গোত্রের এক ব্যক্তিকে খাইবার পাঠিছিলেন এবং তাঁকে সেখানকার অধিবাসীদের প্রশাসক নিযুক্ত করেছিলেন। অন্য সনদে আবদুল মাজীদ-আবূ সালিহ সাম্মান (রহ.)-আবূ হুরাইরাহ ও আবূ সা‘ঈদ (রাঃ) থেকে এভাবেই বর্ণনা করেছেন। [২২০১, ২২০২] (আধুনিক প্রকাশনীঃ ৩৯১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4246</td></tr><tr><td>Arabic No</td><td>4246</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Abu Sa'id and Abu Huraira said:"The Prophet (ﷺ) made the brother of Bani Adi f
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் (ரலி) அவர்களும் அபூஹுரைரா (ரலி) அவர்களும் கூறியதாவது: அன்சாரிகளில் பனூ அதீ குடும்பத்தை சேர்ந்த (சவாத் பின் ஃகஸிய்யா எனப்படும்) ஒருவரை கைபருக்கு அதிகாரியாக்கி நபி (ஸல்) அவர்கள் அனுப்பி வைத்தார்கள். இதே ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 64
+அபூசயீத் (ரலி) அவர்களும் அபூஹுரைரா (ரலி) அவர்களும் கூறியதாவது: அன்சாரிகளில் பனூ அதீ குடும்பத்தை சேர்ந்த (சவாத் பின் ஃகஸிய்யா எனப்படும்) ஒருவரை கைபருக்கு அதிகாரியாக்கி நபி (ஸல்) அவர்கள் அனுப்பி வைத்தார்கள். இதே ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4246</td></tr><tr><td>Arabic No</td><td>4246</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

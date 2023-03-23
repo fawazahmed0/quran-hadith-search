@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবন আবদুল্লাহ ইবন ইয়াযীদ আল-মুকরী ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের অর্থাৎ আবদুল মুত্তালিব গোত্রের সন্তানদেরকে গাধায় সওয়ার করিয়ে প্রেরণ করেন। আর আমাদের উরুদেশে মৃদু আঘাত করতে করতে বলেন, হে আমার আদরের সন্তানরা! তোমরা জামরা-ই-আকাবায় সূর্যোদয়ের আগে কংকর নিক্ষেপ করবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 24 Hadith 447</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক লোককে অন্য লোকের প্রশংসা করতে শুনলেন এবং সে প্রশংসায় বাড়াবাড়ি করল। তখন তিনি বললেনঃ তোমরা তো লোকটিকে মেরে ফেললে, কিংবা বললেনঃ লোকটির মেরুদন্ড ভেঙ্গে দিলে। [২৬৬৩] (আধুনিক প্রকাশনী- ৫৬২৫, ইসলামিক ফাউন্ডেশন- ৫৫২১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক লোককে অন্য লোকের প্রশংসা করতে শুনলেন এবং সে প্রশংসায় বাড়াবাড়ি করল। তখন তিনি বললেনঃ তোমরা তো লোকটিকে মেরে ফেললে, কিংবা বললেনঃ লোকটির মেরুদন্ড ভেঙ্গে দিলে। [২৬৬৩] (আধুনিক প্রকাশনী- ৫৬২৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6060</td></tr><tr><td>Arabic No</td><td>6060</td></tr><tr><td>Reference</td><td>Book 78 Hadith 90</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Shabbah] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ஒரு மனிதர் இன்னொரு மனிதரை அளவு கடந்து புகழ்ந்து கொண்டிருப்பதைச் செவியுற்றார்கள். அப்போது அவர்கள், “அந்த மனிதரின் முதுகை ‘அழித்துவிட்டீர்கள்’ அல்லது ‘ஒடித்துவிட்டீர்கள்’ ‘‘ என்று (கடிந்து) கூறினார்கள்.77 அத்தியாயம் : 78
+அபூமூசா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ஒரு மனிதர் இன்னொரு மனிதரை அளவு கடந்து புகழ்ந்து கொண்டிருப்பதைச் செவியுற்றார்கள். அப்போது அவர்கள், “அந்த மனிதரின் முதுகை ‘அழித்துவிட்டீர்கள்’ அல்லது ‘ஒடித்துவிட்டீர்கள்’ ‘‘ என்று (கடிந்து) கூறினார்கள்.77 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6060</td></tr><tr><td>Arabic No</td><td>6060</td></tr><tr><td>Reference</td><td>Book 78 Hadith 90</td></tr></tbody></table></div>
 

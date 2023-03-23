@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে যবহ করা, মাথা কামান ও কঙ্কর মারা এবং (এ কাজগুলো) আগে-পিছে করা সম্পর্কে জিজ্ঞাসা করা হলে তিনি বললেনঃ কোন দোষ নেই। (৮৪) (আধুনিক প্রকাশনীঃ ১৬১৫. ইসলামিক ফাউন্ডেশনঃ ১৬২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে যবহ করা, মাথা কামান ও কঙ্কর মারা এবং (এ কাজগুলো) আগে-পিছে করা সম্পর্কে জিজ্ঞাসা করা হলে তিনি বললেনঃ কোন দোষ নেই। (৮৪) (আধুনিক প্রকাশনীঃ ১৬১৫. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1734</td></tr><tr><td>Arabic No</td><td>1734</td></tr><tr><td>Reference</td><td>Book 25 Hadith 212</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் (துல்ஹஜ் பத்தாம் நாள் செய்ய வேண்டிய) குர்பானி கொடுப்பது, தலையை மழிப்பது, கல்லெறி வது ஆகியவற்றை முன் பின்னாகச் செய்வது குறித்து வினவப்பட்டது. நபி (ஸல்) அவர்கள், “குற்றமில்லை” எனக் கூறினார்கள். அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் (துல்ஹஜ் பத்தாம் நாள் செய்ய வேண்டிய) குர்பானி கொடுப்பது, தலையை மழிப்பது, கல்லெறி வது ஆகியவற்றை முன் பின்னாகச் செய்வது குறித்து வினவப்பட்டது. நபி (ஸல்) அவர்கள், “குற்றமில்லை” எனக் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1734</td></tr><tr><td>Arabic No</td><td>1734</td></tr><tr><td>Reference</td><td>Book 25 Hadith 212</td></tr></tbody></table></div>
 

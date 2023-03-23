@@ -62,7 +62,7 @@ Telah menceritakan kepadaku Malik dari [Hisyam bin 'Urwah] dari [Bapaknya] Bahwa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Rasûlüllah'ın (sallallahü aleyhi ve sellem) hanımı Hazret-i Aişe'den: Eğer Ramazanda oruç tutamazsam, kalan orucumun kazasını ertesi sene Şa'ban ayında tutabilirdim. Buhârî, Savm, 30/40; Müslim, Sıyâm, 13/151
+Rasûlüllah'ın (sallallahü aleyhi ve sellem) hanımı Hazret-i Aişe'den: Eğer Ramazanda oruç tutamazsam, kalan orucumun kazasını ertesi sene Şa'ban ayında tutabilirdim. Buhârî, Savm, 30/40; Müslim, Sıyâm
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1394</td></tr><tr><td>Arabic No</td><td>1394</td></tr><tr><td>Reference</td><td>Book 34 Hadith 5</td></tr></tbody></table></div>
 

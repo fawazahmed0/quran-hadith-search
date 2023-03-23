@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ঈসা ইন হিলাল হিমসী (রহঃ) ... আবু উমামা বাহিলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যক্তি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এসে বললোঃ ঐ ব্যক্তি সম্বন্ধে আপনি কি বলেন, যে ব্যক্তি সম্পদ এবং সুনামের জন্য জিহাদ করে, তার জন্য কি রয়েছে? রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন তার জন্য কিছুই নেই। তিনি তা তিনবার বললেন। রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন, তার জন্য কিছুই নেই। তারপর তিনি বললেনঃ আল্লাহ তাআলা খালেস আমল ব্যতীত, যা দ্বারা আল্লাহর সন্তুষ্টি ছাড়া আর কিছুই উদ্দেশ্য না হয়, আর কিছুই কবুল করেন না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3140</td></tr><tr><td>Arabic No</td><td>3140</td></tr><tr><td>Reference</td><td>Book 25 Hadith 56</td></tr></tbody></table></div>
 

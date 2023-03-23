@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবনু ইউনুস .... হুমায়েদ আল-হিময়ারী হতে বর্ণিত। তিনি আব্দুর রহমানের পুত্র। তিনি বলেছেন, আমি এমন এক ব্যক্তির সাথে সাক্ষাত করেছি, যিনি আবূ হুরায়রা (রাঃ) এর মত নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের সাথী ছিলেন। তিনি বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম প্রত্যহ চুল আঁচড়াতে এবং গোসলখানায় পেশাব করতে নিষেধ করেছেন – (নাসাঈ)
+। হুমাইদ ইবনু ‘আবদুর রহমান আল-হিময়ারী সূত্রে বর্ণিত। তিনি বলেনঃ আমার সাথে এমন এক ব্যক্তির সাক্ষাৎ হয়, যিনি আবূ হুরাইরাহ (রাঃ) এর মতই নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহচর্যে ছিলেন। তিনি বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রতিদিন চুল আঁচড়াতে অথবা গোসলখানায় পেশাব করতে নিষেধ করেছেন।[1] সহীহ: মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
 

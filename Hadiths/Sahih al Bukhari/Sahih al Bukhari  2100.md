@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَكَرِهَ عِمْرَانُ بْنُ حُصَيْنٍ بَيْعَهُ فِي الْفِتْنَةِ ইমরান ইবনু হুসাইন (রাঃ) ফিতনার সময় অস্ত্র বিক্রয়কে অপছন্দ করতেন। ২১০০. আবূ কাতাদাহ (রাঃ) হতে বর্ণিত। তিনি বললেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে হুনাইনের যুদ্ধে গমন করেছিলাম। তখন তিনি আমাকে একটি বর্ম দিয়েছিলেন। আমি সেটি বিক্রয় করে তার মূল্য দ্বারা বণূ সালিমা গোত্রের এলাকায় একটি বাগান ক্রয় করি। এ ছিল ইসলাম গ্রহণের পর আমার প্রথম স্থাবর সম্পত্তি অর্জন। (৩১৪২, ৩৪২১, ৩৩২, ৭১৭০) (আধুনিক প্রকাশনীঃ ১৯৫৫ , ইসলামিক ফাউন্ডেশনঃ ১৯৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَكَرِهَ عِمْرَانُ بْنُ حُصَيْنٍ بَيْعَهُ فِي الْفِتْنَةِ ইমরান ইবনু হুসাইন (রাঃ) ফিতনার সময় অস্ত্র বিক্রয়কে অপছন্দ করতেন। ২১০০. আবূ কাতাদাহ (রাঃ) হতে বর্ণিত। তিনি বললেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে হুনাইনের যুদ্ধে গমন করেছিলাম। তখন তিনি আমাকে একটি বর্ম দিয়েছিলেন। আমি সেটি বিক্রয় করে তার মূল্য দ্বারা বণূ সালিমা গোত্রের এলাকায় একটি বাগান ক্রয় করি। এ ছিল ইসলাম গ্রহণের পর আমার প্রথম স্থাবর সম্পত্তি অর্জন। (৩১৪২, ৩৪২১, ৩৩২, ৭১৭০) (আধুনিক প্রকাশনীঃ ১৯৫৫ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2100</td></tr><tr><td>Arabic No</td><td>2100</td></tr><tr><td>Reference</td><td>Book 34 Hadith 53</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Yahya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூகத்தாதா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் ஹுனைன் போரின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் புறப்பட்டோம். (போரில் எதிரியிடமிருந்து நான் கைப்பற்றிய) கவசம் ஒன்றை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என்னிடம் கொடுத்தார்கள். நான் அந்தக் கவசத்தை விற்று, அதைக் கொண்டு பனூ சலிமா குலத்தார் வசிக்கும் பகுதியில் ஒரு பேரீச்சந்தோட்டத்தை விலைக்கு வாங்கி னேன். அதுதான், நான் இஸ்லாத்திற்கு வந்தபின் வாங்கிய முதல் சொத்தாகும்.25 அத்தியாயம் : 34
+அபூகத்தாதா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் ஹுனைன் போரின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் புறப்பட்டோம். (போரில் எதிரியிடமிருந்து நான் கைப்பற்றிய) கவசம் ஒன்றை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என்னிடம் கொடுத்தார்கள். நான் அந்தக் கவசத்தை விற்று, அதைக் கொண்டு பனூ சலிமா குலத்தார் வசிக்கும் பகுதியில் ஒரு பேரீச்சந்தோட்டத்தை விலைக்கு வாங்கி னேன். அதுதான், நான் இஸ்லாத்திற்கு வந்தபின் வாங்கிய முதல் சொத்தாகும்.25 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2100</td></tr><tr><td>Arabic No</td><td>2100</td></tr><tr><td>Reference</td><td>Book 34 Hadith 53</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Yahya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Katade r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem ile birlikte Huneyn savaşına çıktık. Ben zırhımı sattım, bununla Seleme oğulları diyarında bir bahçe satın aldım. Bu, Müslüman olduktan sonra elde ettiğim ilk mal idi. Tekrar: 3142, 4321, 4322, 7170
+Ebu Katade r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem ile birlikte Huneyn savaşına çıktık. Ben zırhımı sattım, bununla Seleme oğulları diyarında bir bahçe satın aldım. Bu, Müslüman olduktan sonra elde ettiğim ilk mal idi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2100</td></tr><tr><td>Arabic No</td><td>2100</td></tr><tr><td>Reference</td><td>Book 34 Hadith 53</td></tr></tbody></table></div>
 

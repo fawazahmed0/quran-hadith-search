@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৪০২। আয়িশাহ (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রতি রাতে যখন বিছানায় যেতেন, সে সময় “কুল হুওয়াল্লাহু আহাদ”, “কুল আউযূ বিরব্বিল ফালাক" ও "কুল আউযূ বিরব্বিন নাস" (সূরা তিনটি) পাঠ করে হাত যথাসম্ভব সারা শরীরে মলতেন। তিনি মাথা, চেহারা ও দেহের সম্মুখের অংশ হতে আরম্ভ করতেন। তিনি তিনবার এরূপ করতেন। সহীহঃ বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব সহীহ।
+। আয়িশাহ (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রতি রাতে যখন বিছানায় যেতেন, সে সময় “কুল হুওয়াল্লাহু আহাদ”, “কুল আউযূ বিরব্বিল ফালাক" ও "কুল আউযূ বিরব্বিন নাস" (সূরা তিনটি) পাঠ করে হাত যথাসম্ভব সারা শরীরে মলতেন। তিনি মাথা, চেহারা ও দেহের সম্মুখের অংশ হতে আরম্ভ করতেন। তিনি তিনবার এরূপ করতেন। সহীহঃ বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3402</td></tr><tr><td>Arabic No</td><td>3402</td></tr><tr><td>Reference</td><td>Book 48 Hadith 33</td></tr></tbody></table></div>
 

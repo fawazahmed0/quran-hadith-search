@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৫৮, আন্তর্জাতিক নাম্বারঃ ১৯১ ৩৫৮-(৩১৭/...) আবূ বকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... জাবির (রাযিঃ) থেকে বর্ণনা করেন যে, তিনি দুই কানে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে ইরশাদ করতে শুনেছেনঃ আল্লাহ তা'আলা কতিপয় লোককে জাহান্নাম থেকে বের করে জান্নাতে প্রবেশ করাবেন। (ইসলামিক ফাউন্ডেশনঃ ৩৬৬, ইসলামিক সেন্টারঃ ৩৭৭)
+আবূ বকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... জাবির (রাযিঃ) থেকে বর্ণনা করেন যে, তিনি দুই কানে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে ইরশাদ করতে শুনেছেনঃ আল্লাহ তা'আলা কতিপয় লোককে জাহান্নাম থেকে বের করে জান্নাতে প্রবেশ করাবেন। (ইসলামিক ফাউন্ডেশনঃ ৩৬৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>470</td></tr><tr><td>Arabic No</td><td>191.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 376</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: "மக்களில் சிலரை அல்லாஹ் நரகத்திலிருந்து வெளியேற்றி,சொர்க்கத்திற்குள் அனுப்புவான்" என்று நபி (ஸல்) அவர்கள் கூறியதை நான் என் காதுபடக்கேட்டேன். அத்தியாயம் : 1
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: "மக்களில் சிலரை அல்லாஹ் நரகத்திலிருந்து வெளியேற்றி,சொர்க்கத்திற்குள் அனுப்புவான்" என்று நபி (ஸல்) அவர்கள் கூறியதை நான் என் காதுபடக்கேட்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>470</td></tr><tr><td>Arabic No</td><td>191.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 376</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekr b. Ebi Şeybe tahdis etti. Bize Süfyan b. Uyeyne, Amr'dan tahdis etti. O Cabir'den, o Nebi (Sallallahu aleyhi ve Sellem)'den: "Şüphesiz Allah cehennem ateşinden birtakım insanları çıkartacak ve onları cennete koyacaktır" buyurduğunu kulaklarıyla dinlediğini söylerken işitti. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 2545
+Bize Ebu Bekr b. Ebi Şeybe tahdis etti. Bize Süfyan b. Uyeyne, Amr'dan tahdis etti. O Cabir'den, o Nebi (Sallallahu aleyhi ve Sellem)'den: "Şüphesiz Allah cehennem ateşinden birtakım insanları çıkartacak ve onları cennete koyacaktır" buyurduğunu kulaklarıyla dinlediğini söylerken işitti. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>470</td></tr><tr><td>Arabic No</td><td>191.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 376</td></tr></tbody></table></div>
 

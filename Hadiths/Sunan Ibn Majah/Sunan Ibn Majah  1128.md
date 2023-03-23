@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/১১২৮। সামুরা ইবনু জুনদুব (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি স্বেচ্ছায় জুমুআহর সালাত (নামায/নামাজ) ত্যাগ করলো, সে যেন এক দ্বীনার দান-খয়রাত করে। যদি সে তা না পায়, তাহলে যেন অর্ধ দ্বীনার দান-খয়রাত করে।
+। সামুরা ইবনু জুনদুব (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি স্বেচ্ছায় জুমুআহর সালাত (নামায/নামাজ) ত্যাগ করলো, সে যেন এক দ্বীনার দান-খয়রাত করে। যদি সে তা না পায়, তাহলে যেন অর্ধ দ্বীনার দান-খয়রাত করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1128</td></tr><tr><td>Arabic No</td><td>1128</td></tr><tr><td>Reference</td><td>Book 5 Hadith 326</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, পাঁচ প্রকারের ক্ষতিকারক প্রাণী যাদেরকে কেউ ইহরাম অবস্থায়ও যদি মেরে ফেলে, তাহলে তার কোন গুনাহ নেই। এগুলো হল বিচ্ছু, ইঁদুর, পাগলা কুকুর, কাক এবং চিল। (১৮২৬) (আধুনিক প্রকাশনীঃ ৩০৬৯, ইসলামিক ফাউন্ডেশনঃ ৩০৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, পাঁচ প্রকারের ক্ষতিকারক প্রাণী যাদেরকে কেউ ইহরাম অবস্থায়ও যদি মেরে ফেলে, তাহলে তার কোন গুনাহ নেই। এগুলো হল বিচ্ছু, ইঁদুর, পাগলা কুকুর, কাক এবং চিল। (১৮২৬) (আধুনিক প্রকাশনীঃ ৩০৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3315</td></tr><tr><td>Arabic No</td><td>3315</td></tr><tr><td>Reference</td><td>Book 59 Hadith 121</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Maslamah] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஐந்து வகை உயிரினங்கள் உள்ளன. அவற்றை (ஹஜ் அல்லது உம்ராவுக்காக) யிஇஹ்ராம்’ கட்டிய ஒருவர் கொன்றுவிட் டாலும் அவர்மீது குற்றமேதும் இல்லை. தேள், எலி, வெறிநாய், (நீர்க்) காகம், பருந்து ஆகியவைதான் அவை. இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.115 அத்தியாயம் : 59
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஐந்து வகை உயிரினங்கள் உள்ளன. அவற்றை (ஹஜ் அல்லது உம்ராவுக்காக) யிஇஹ்ராம்’ கட்டிய ஒருவர் கொன்றுவிட் டாலும் அவர்மீது குற்றமேதும் இல்லை. தேள், எலி, வெறிநாய், (நீர்க்) காகம், பருந்து ஆகியவைதான் அவை. இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.115 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3315</td></tr><tr><td>Arabic No</td><td>3315</td></tr><tr><td>Reference</td><td>Book 59 Hadith 121</td></tr></tbody></table></div>
 

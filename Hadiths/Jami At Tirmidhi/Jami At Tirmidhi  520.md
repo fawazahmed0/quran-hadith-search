@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫২০। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমুআর দিন ফজরের নামাযে তানযীলুস সিজদা এবং হাল আতা 'আলাল ইনসান সূরা দুটি পাঠ করতেন। —সহীহ। ইবনু মাজাহ– (৮২১), মুসলিম। এ অনুচ্ছেদে সা’দ, ইবনু মাসউদ ও আবু হুরাইরা (রাঃ) হতেও হাদীস বর্ণিত আছে। আবু ঈসা বলেনঃ ইবনু আব্বাসের হাদীসটি হাসান সহীহ। সুফিয়ান সাওরী ও অন্যরা এ হাদীসটি মুখাওয়ালের সূত্রে বর্ণনা করেছেন।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমুআর দিন ফজরের নামাযে তানযীলুস সিজদা এবং হাল আতা 'আলাল ইনসান সূরা দুটি পাঠ করতেন। —সহীহ। ইবনু মাজাহ– (৮২১), মুসলিম। এ অনুচ্ছেদে সা’দ, ইবনু মাসউদ ও আবু হুরাইরা (রাঃ) হতেও হাদীস বর্ণিত আছে। আবু ঈসা বলেনঃ ইবনু আব্বাসের হাদীসটি হাসান সহীহ। সুফিয়ান সাওরী ও অন্যরা এ হাদীসটি মুখাওয়ালের সূত্রে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>520</td></tr><tr><td>Arabic No</td><td>520</td></tr><tr><td>Reference</td><td>Book 4 Hadith 33</td></tr></tbody></table></div>
 

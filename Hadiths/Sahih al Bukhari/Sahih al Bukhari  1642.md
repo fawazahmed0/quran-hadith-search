@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমার মা আমাকে বলেছেন যে, তিনি তাঁর বোন [‘আয়িশাহ (রাযি.)] ও (আমার পিতা) যুবাইর (রাঃ) এবং অমুক অমুক ‘উমরাহ’র নিয়্যাতে ইহরাম বাঁধেন। এরপর তাওয়াফ (ও সা‘য়ী) শেষে হালাল হয়ে যান। (১৬১৫, মুসলিম ১৫/২৯, হাঃ ১২৩৫) (আধুনিক প্রকাশনীঃ ১৫৩১, ইসলামিক ফাউন্ডেশনঃ ১৫৩৭ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1642</td></tr><tr><td>Arabic No</td><td>1642</td></tr><tr><td>Reference</td><td>Book 25 Hadith 124</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: என் தாயார் (அஸ்மா), அவருடைய சகோதரி (ஆயிஷா), (என் தந்தை) ஸுபைர் (ரலி) மற்றும் இன்னார் இன்னாரெல்லாம் உம்ராவுக்காக இஹ்ராம் கட்டினார்கள். (கஅபாவை தவாஃப் செய்து) ஹஜருல் அஸ்வதைத் தொட்(டு முத்தமிட்)டதும் இஹ்ராமிலிருந்து விடுபட்டார்கள். இதை என் தாயார் எனக்கு அறிவித்தார்கள். அத்தியாயம் : 25
+உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: என் தாயார் (அஸ்மா), அவருடைய சகோதரி (ஆயிஷா), (என் தந்தை) ஸுபைர் (ரலி) மற்றும் இன்னார் இன்னாரெல்லாம் உம்ராவுக்காக இஹ்ராம் கட்டினார்கள். (கஅபாவை தவாஃப் செய்து) ஹஜருல் அஸ்வதைத் தொட்(டு முத்தமிட்)டதும் இஹ்ராமிலிருந்து விடுபட்டார்கள். இதை என் தாயார் எனக்கு அறிவித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1642</td></tr><tr><td>Arabic No</td><td>1642</td></tr><tr><td>Reference</td><td>Book 25 Hadith 124</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল .... জাবির (রাঃ) হতে বর্ণিত যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খোলা তরবারি দেয়া নেয়া নিষেধ করেছেন। (অর্থাৎ খোলা তরবারি দেখলেই ভয়ের সঞ্চার হয়। কাউকেই প্রহারের ভয় দেখানো নিষিদ্ধ। সে জন্য উন্মুক্ত তরবারি দেয়া-নেয়াও নিষিদ্ধ।)
+। জাবির (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খোলা তরবারি আদান-প্রদান করতে নিষেধ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2588</td></tr><tr><td>Arabic No</td><td>2588</td></tr><tr><td>Reference</td><td>Book 15 Hadith 112</td></tr></tbody></table></div>
 

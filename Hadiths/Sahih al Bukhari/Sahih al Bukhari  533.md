@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ ও ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন গরমের প্রচন্ডতা বৃদ্ধি পায়, তখন গরম কমলে সালাত আদায় করবে। কেননা, গরমের প্রচন্ডতা জাহান্নামের নিঃশ্বাসের অংশ। (৫৩৬) (আধুনিক প্রকাশনীঃ ৫০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ayyub bin Sulaiman bin Bilal] berkata, telah men
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வெப்பம் கடுமையாகும்போது, வெப்பம் தணியும்வரை (லுஹ்ர்) தொழுகையைத் தாமதப்படுத்துங்கள். ஏனெனில், கடுமை யான வெப்பம் நரக நெருப்பின் பெருமூச் சால் உண்டாகிறது.5 இதை அபூஹுரைரா (ரலி) அவர்களும் அப்துல்லாஹ் பின் உமர் (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் : 9
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வெப்பம் கடுமையாகும்போது, வெப்பம் தணியும்வரை (லுஹ்ர்) தொழுகையைத் தாமதப்படுத்துங்கள். ஏனெனில், கடுமை யான வெப்பம் நரக நெருப்பின் பெருமூச் சால் உண்டாகிறது.5 இதை அபூஹுரைரா (ரலி) அவர்களும் அப்துல்லாஹ் பின் உமர் (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ayyub bin Sulaiman bin Bilal] berkata, telah men
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre ile Abdullah İbn Ömer'in kölesi Nâfi', İbn Ömer'e Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini nakletmişlerdir: "Aşırı derecede sıcak olunca, (öğle namazını) serinlikte kılın. Çünkü havanın aşırı derecede sıcak olması, cehennemin kaynamasından ileri gelir. Tekrar: 536
+Ebu Hureyre ile Abdullah İbn Ömer'in kölesi Nâfi', İbn Ömer'e Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini nakletmişlerdir: "Aşırı derecede sıcak olunca, (öğle namazını) serinlikte kılın. Çünkü havanın aşırı derecede sıcak olması, cehennemin kaynamasından ileri gelir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

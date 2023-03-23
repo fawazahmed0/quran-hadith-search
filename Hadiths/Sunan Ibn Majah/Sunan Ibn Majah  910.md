@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৯১০। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যাক্তিকে জিজ্ঞেস করলেনঃ তুমি সালাতে কী পড়ো? সে বললো, আমি তাশাহ্হুদ পড়ার পর আল্লাহ্‌র নিকটে জান্নাত প্রার্থনা করি এবং জাহান্নাম থেকে আশ্রয় চাই। তবে আল্লাহ্‌র শপথ! আপনার ও মুআযের নীরব দুআ কতই না উত্তম। তিনি বলেনঃ আমরা নীরবে জান্নাতের পরিবেশ লাভের দুআ করি।
+। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যাক্তিকে জিজ্ঞেস করলেনঃ তুমি সালাতে কী পড়ো? সে বললো, আমি তাশাহ্হুদ পড়ার পর আল্লাহ্‌র নিকটে জান্নাত প্রার্থনা করি এবং জাহান্নাম থেকে আশ্রয় চাই। তবে আল্লাহ্‌র শপথ! আপনার ও মুআযের নীরব দুআ কতই না উত্তম। তিনি বলেনঃ আমরা নীরবে জান্নাতের পরিবেশ লাভের দুআ করি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>910</td></tr><tr><td>Arabic No</td><td>910</td></tr><tr><td>Reference</td><td>Book 5 Hadith 108</td></tr></tbody></table></div>
 

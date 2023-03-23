@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৭২৫, আন্তর্জাতিক নাম্বারঃ ১১৯০ ২৭২৫-(.../...) আহমাদ ইবনু ইউনুস (রহিমাহুমাল্লাহ) ... আয়িশাহ্ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি যেন দেখতে পাচ্ছি...ওয়াকী (রহঃ) এর হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২৭০২, ইসলামীক সেন্টার ২৭০১)
+আহমাদ ইবনু ইউনুস (রহিমাহুমাল্লাহ) ... আয়িশাহ্ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি যেন দেখতে পাচ্ছি...ওয়াকী (রহঃ) এর হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২৭০২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2835</td></tr><tr><td>Arabic No</td><td>1190.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 45</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ A'isha (Allah be pleased with her) reported:I still seem to see; the rest of the
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ("இஹ்ராம்" கட்டி) "தல்பியா" கூறியபோது, அவர்களது தலை வகிட்டில் நறுமணப்பொருள் ஒளிர்ந்ததை இப்போதும் நான் பார்ப்பதைப் போன்றுள்ளது.- இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 15
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ("இஹ்ராம்" கட்டி) "தல்பியா" கூறியபோது, அவர்களது தலை வகிட்டில் நறுமணப்பொருள் ஒளிர்ந்ததை இப்போதும் நான் பார்ப்பதைப் போன்றுள்ளது.- இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2835</td></tr><tr><td>Arabic No</td><td>1190.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 45</td></tr></tbody></table></div>
 

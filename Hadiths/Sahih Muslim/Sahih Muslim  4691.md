@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৫৮৫, আন্তর্জাতিক নাম্বারঃ ১৮১২ ৪৫৮৫-(.../...) 'আমর আন্‌ নাকিদ (রহঃ) ..... হিশাম ইবনু হাসসান (রহঃ)-ও এ সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৫৪০, ইসলামিক সেন্টার ৪৫৪৩)
+আমর আন্‌ নাকিদ (রহঃ) ..... হিশাম ইবনু হাসসান (রহঃ)-ও এ সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৫৪০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4691</td></tr><tr><td>Arabic No</td><td>1812.08</td></tr><tr><td>Reference</td><td>Book 32 Hadith 173</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ A similar tradition has been narrated on the authority of Hisham b. Hassan throu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸின் ஒரு பகுதி மட்டும் யஸீத் பின் ஹுர்முஸ் (ரஹ்) அவர்களிடமிருந்தே மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில் முழுத் தகவல்களுடன் ஹதீஸ் இடம்பெறவில்லை. அத்தியாயம் : 32
+மேற்கண்ட ஹதீஸின் ஒரு பகுதி மட்டும் யஸீத் பின் ஹுர்முஸ் (ரஹ்) அவர்களிடமிருந்தே மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில் முழுத் தகவல்களுடன் ஹதீஸ் இடம்பெறவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4691</td></tr><tr><td>Arabic No</td><td>1812.08</td></tr><tr><td>Reference</td><td>Book 32 Hadith 173</td></tr></tbody></table></div>
 

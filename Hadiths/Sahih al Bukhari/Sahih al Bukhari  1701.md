@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুরবানীর জন্য বকরী পাঠালেন। (১৭৯৬) (আধুনিক প্রকাশনীঃ ১৫৮৩, ইসলামিক ফাউন্ডেশনঃ ১৫৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুরবানীর জন্য বকরী পাঠালেন। (১৭৯৬) (আধুনিক প্রকাশনীঃ ১৫৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1701</td></tr><tr><td>Arabic No</td><td>1701</td></tr><tr><td>Reference</td><td>Book 25 Hadith 179</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Al A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு முறை ஆட்டை குர்பானி கொடுத்தார்கள். அத்தியாயம் : 25
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு முறை ஆட்டை குர்பானி கொடுத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1701</td></tr><tr><td>Arabic No</td><td>1701</td></tr><tr><td>Reference</td><td>Book 25 Hadith 179</td></tr></tbody></table></div>
 

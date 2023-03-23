@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উমার ইবনু খাত্তাব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, নিয়্যতের ওপরেই কাজের ফলাফল নির্ভর করে এবং প্রত্যেক ব্যক্তি তার নিয়্যত অনুযায়ী প্রতিফল পাবে। কাজেই যার হিজরাত আল্লাহ্ এবং তাঁর রাসূলের সন্তুষ্টির জন্য, তার হিজরাত আল্লাহ্ এবং তাঁর রাসূলের জন্যই। আর যার হিজরাত পার্থিব লাভের জন্য অথবা কোন মহিলাকে বিয়ে করার জন্য, তার হিজরাতের ফল সেটাই, যে উদ্দেশে সে হিজরাত করেছে। [১] (আধুনিক প্রকাশনীঃ ৪৬৯৭, ইসলামিক ফাউন্ডেশনঃ ৪৭০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উমার ইবনু খাত্তাব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, নিয়্যতের ওপরেই কাজের ফলাফল নির্ভর করে এবং প্রত্যেক ব্যক্তি তার নিয়্যত অনুযায়ী প্রতিফল পাবে। কাজেই যার হিজরাত আল্লাহ্ এবং তাঁর রাসূলের সন্তুষ্টির জন্য, তার হিজরাত আল্লাহ্ এবং তাঁর রাসূলের জন্যই। আর যার হিজরাত পার্থিব লাভের জন্য অথবা কোন মহিলাকে বিয়ে করার জন্য, তার হিজরাতের ফল সেটাই, যে উদ্দেশে সে হিজরাত করেছে। [১] (আধুনিক প্রকাশনীঃ ৪৬৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5070</td></tr><tr><td>Arabic No</td><td>5070</td></tr><tr><td>Reference</td><td>Book 67 Hadith 8</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Umar bin Al-Khattab:The Prophet (ﷺ) said, "The rewards (of deeds) are according to the intention, and everybody will get the reward for what he has intended. So whoever emigrated for Allah's and His Apostle's sake, his emigration was for Allah and His Apostle; and whoever emigrated for worldly benefits, or to marry a woman, then his emigration was for the thing for what he emigrated for." (1)
+Narrated 'Umar bin Al-Khattab:The Prophet (ﷺ) said, "The rewards (of deeds) are according to the intention, and everybody will get the reward for what he has intended. So whoever emigrated for Allah's and His Apostle's sake, his emigration was for Allah and His Apostle; and whoever emigrated for worldly benefits, or to marry a woman, then his emigration was for the thing for what he emigrated for
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5070</td></tr><tr><td>Arabic No</td><td>5070</td></tr><tr><td>Reference</td><td>Book 67 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Qaza'ah] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: எண்ணத்தைப் பொறுத்தே செயல் அமைகின்றது; ஒவ்வொரு மனிதருக்கும் அவர் எண்ணியதுதான் கிடைக்கிறது. எனவே, எவரது ஹிஜ்ரத் (புலம் பெயர்தல்) அல்லாஹ்வையும் அவனுடைய தூதரையும் (திருப்திப்படுத்துவதை) நோக்கமாகக் கொண்டு அமைகிறதோ, அவரது ஹிஜ்ரத்(தின் பலனும் அவ்வாறே) அல்லாஹ்விடமும் அவனுடைய தூதரிடமும் அமையும். எவரது ஹிஜ்ரத் அவர் அடைய விரும்பும் உலக (ஆதாய)த்தை, அல்லது அவர் மணக்க விரும்பும் பெண்ணை நோக்கமாகக் கொண்டுள்ளதோ, அவரது ஹிஜ்ரத்(தின் பலனும்) அதுவாகத்தான் இருக்கும். இதை உமர் பின் அல்கத்தாப் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.9 அத்தியாயம் : 67
+நபி (ஸல்) அவர்கள் கூறினார்கள்: எண்ணத்தைப் பொறுத்தே செயல் அமைகின்றது; ஒவ்வொரு மனிதருக்கும் அவர் எண்ணியதுதான் கிடைக்கிறது. எனவே, எவரது ஹிஜ்ரத் (புலம் பெயர்தல்) அல்லாஹ்வையும் அவனுடைய தூதரையும் (திருப்திப்படுத்துவதை) நோக்கமாகக் கொண்டு அமைகிறதோ, அவரது ஹிஜ்ரத்(தின் பலனும் அவ்வாறே) அல்லாஹ்விடமும் அவனுடைய தூதரிடமும் அமையும். எவரது ஹிஜ்ரத் அவர் அடைய விரும்பும் உலக (ஆதாய)த்தை, அல்லது அவர் மணக்க விரும்பும் பெண்ணை நோக்கமாகக் கொண்டுள்ளதோ, அவரது ஹிஜ்ரத்(தின் பலனும்) அதுவாகத்தான் இருக்கும். இதை உமர் பின் அல்கத்தாப் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.9 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5070</td></tr><tr><td>Arabic No</td><td>5070</td></tr><tr><td>Reference</td><td>Book 67 Hadith 8</td></tr></tbody></table></div>
 

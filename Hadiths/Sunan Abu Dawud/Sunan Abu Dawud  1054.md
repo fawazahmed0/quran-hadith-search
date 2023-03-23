@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন সুলায়মান (রহঃ) ..... কুদামা ইবন ওয়াবারাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তির বিনা কারণে জুমুআর নামায পরিত্যক্ত হবে, সে যেন এক দিরহাম বা অর্ধ দিরহাম অথবা এক সা’ গম, বা অর্ধ-সা’ গম আল্লাহর ওয়াস্তে সদকা করে। (নাসাঈ, ইবন মাজা)। ইমাম আবু দাউদ (রহঃ) বলেন, সাঈদ ইবন বাশীর এরূপ বর্ণনা করেছেন। তবে তিনি সা’ এর পরিবর্তে এক মুদ্দ অথবা অর্ধ মুদ্দ শব্দ উল্লেখ করেছেন (এক মুদ্দ ¼ সা’)।
+। কুদামাহ ইবনু ওয়াবরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তির বিনা কারণে জুমু‘আহ কাযা হলে সে যেন এক দিরহাম অথবা অর্ধ দিরহাম অথবা এক সা‘ অথবা অর্ধ সা‘ গম সাদাকা করে।[1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, সাঈদ ইবনু বাশীর হতেও এরূপ বর্ণিত হয়েছে এবং তাতে ‘এক মুদ্দ বা অর্ধ মুদ্দ’ উল্লেখ রয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1054</td></tr><tr><td>Arabic No</td><td>1054</td></tr><tr><td>Reference</td><td>Book 2 Hadith 665</td></tr></tbody></table></div>
 

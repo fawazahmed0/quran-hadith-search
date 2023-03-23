@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘ইকরিমা (রহ.) হতে বর্ণিত যে, তাওয়াফে যিয়ারাহর পর ঋতু এসেছে এমন মহিলা সম্পর্কে মদিনা্বাসী ইবনু ‘আব্বাস (রাঃ)-কে জিজ্ঞেস করলেন। তিনি তাদের বললেন, সে রওয়ানা হয়ে যাবে। তারা বললেন, আমরা আপনার কথা গ্রহণ করব না এবং যায়দের কথাও বর্জন করব না। তিনি বললেন, তোমরা মদিনা্য় ফিরে গিয়ে জিজ্ঞেস করে নেবে। তাঁরা মদিনা্য় এসে জিজ্ঞেস করলেন যাঁদের কাছে তাঁরা জিজ্ঞেস করেছিলেন তাঁদের মধ্যে উম্মে সুলাইম (রাঃ)-ও ছিলেন। তিনি তাঁদের সাফিয়্যা (উম্মুল মু’মিনীন) (রাঃ)-এর ঘটনাটি বর্ণনা করলেন। হাদীসটি খালিদ ও কাতাদাহ (রহ.) ‘ইকরিমা (রহ.) হতে বর্ণনা করেন। (আধুনিক প্রকাশনীঃ ১৬৩৬. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1758</td></tr><tr><td>Arabic No</td><td>1758</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Ikrima:The people of Medina asked Ibn 'Abbas about a woman who got her menses after performing Tawafal- Ifada. He said, "She could depart (from Mecca)." They said, "We will not act on your verdict and ignore the verdict of Zaid." Ibn 'Abbas said, "When you reach Medina, inquire about it." So, when they reached Medina they asked (about that). One of those whom they asked was Um Sulaim. She told them the narration of Safiya (812)
+Narrated 'Ikrima:The people of Medina asked Ibn 'Abbas about a woman who got her menses after performing Tawafal- Ifada. He said, "She could depart (from Mecca)." They said, "We will not act on your verdict and ignore the verdict of Zaid." Ibn 'Abbas said, "When you reach Medina, inquire about it." So, when they reached Medina they asked (about that). One of those whom they asked was Um Sulaim. She told them the narration of Safiya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1758</td></tr><tr><td>Arabic No</td><td>1758</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இக்ரிமா (ரஹ்) அவர்கள் கூறியதாவது: மதீனாவாசிகள் இப்னு அப்பாஸ் (ரலி) அவர்களிடம், “ஒரு பெண் (ஹஜ்ஜில் இஃபாளா) தவாஃப் செய்தபிறகு அவளுக்கு மாதவிடாய் ஏற்பட்டுவிட்டால் என்ன செய்வது?” எனக் கேட்டனர். அதற்கு அவர்கள், “அவள் (தவாஃபுல் வதா செய்யாமல்) போய்விட வேண்டி யதுதான்” என்றார்கள். அப்போது மக்கள், “உங்கள் கூற்றை எடுத்துக்கொண்டு, ஸைத் பின் ஸாபித் (ரலி) அவர்களின் கூற்றை விட்டுவிட நாங்கள் தயாரில்லை” என்றனர். அதற்கு இப்னு அப்பாஸ் (ரலி) அவர்கள், “அப்படியாயின் நீங்கள் மதீனா சென்றதும் அங்கு(ள்ளோரிடம்) கேட்டுப்பாருங்கள்” என்றார்கள். மக்கள் மதீனா சென்றதும் இது பற்றிக் கேட்டார்கள். அவர்கள் (விளக்கம்) கேட்டவர்களில் உம்மு சுலைம் (ரலி) அவர்களும் ஒருவராவார்கள். அப்போது உம்மு சுலைம் (ரலி) அவர்கள், ஸஃபிய்யா (ரலி) அவர்களின் நிகழ்ச்சியைக் குறிப்பிட்டார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 25
+இக்ரிமா (ரஹ்) அவர்கள் கூறியதாவது: மதீனாவாசிகள் இப்னு அப்பாஸ் (ரலி) அவர்களிடம், “ஒரு பெண் (ஹஜ்ஜில் இஃபாளா) தவாஃப் செய்தபிறகு அவளுக்கு மாதவிடாய் ஏற்பட்டுவிட்டால் என்ன செய்வது?” எனக் கேட்டனர். அதற்கு அவர்கள், “அவள் (தவாஃபுல் வதா செய்யாமல்) போய்விட வேண்டி யதுதான்” என்றார்கள். அப்போது மக்கள், “உங்கள் கூற்றை எடுத்துக்கொண்டு, ஸைத் பின் ஸாபித் (ரலி) அவர்களின் கூற்றை விட்டுவிட நாங்கள் தயாரில்லை” என்றனர். அதற்கு இப்னு அப்பாஸ் (ரலி) அவர்கள், “அப்படியாயின் நீங்கள் மதீனா சென்றதும் அங்கு(ள்ளோரிடம்) கேட்டுப்பாருங்கள்” என்றார்கள். மக்கள் மதீனா சென்றதும் இது பற்றிக் கேட்டார்கள். அவர்கள் (விளக்கம்) கேட்டவர்களில் உம்மு சுலைம் (ரலி) அவர்களும் ஒருவராவார்கள். அப்போது உம்மு சுலைம் (ரலி) அவர்கள், ஸஃபிய்யா (ரலி) அவர்களின் நிகழ்ச்சியைக் குறிப்பிட்டார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1758</td></tr><tr><td>Arabic No</td><td>1758</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আমি দুনিয়া ও আখিরাতে ‘ঈসা ইবনু মারিয়ামের ঘনিষ্ঠতম। নবীগণ একে অন্যের বৈমাত্রিয় ভাই। তাঁদের মা ভিন্ন ভিন্ন কিন্তু দ্বীন হল এক। (৩৪৪২) (আধুনিক প্রকাশনীঃ ৩১৮৮, ইসলামিক ফাউন্ডেশনঃ ৩১৯৭) ইব্রাহীম ইবনু তাহমান (রহ.)....আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3443</td></tr><tr><td>Arabic No</td><td>3443</td></tr><tr><td>Reference</td><td>Book 60 Hadith 113</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Sinan] telah bercerita kepada kami [Fu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் மர்யமின் மைந்தர் ஈசா (அலை) அவர்களுக்கு உலகிலும் மறுமையிலும் மக்களிலேயே மிகவும் நெருக்கமானவன் ஆவேன். இறைத்தூதர்கள் ஒரே தந்தை யின் பிள்ளைகள் ஆவர். அவர்களின் தாய்மார்கள் பலர் ஆவர். அவர்களுடைய மார்க்கம் ஒன்றே. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 60
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் மர்யமின் மைந்தர் ஈசா (அலை) அவர்களுக்கு உலகிலும் மறுமையிலும் மக்களிலேயே மிகவும் நெருக்கமானவன் ஆவேன். இறைத்தூதர்கள் ஒரே தந்தை யின் பிள்ளைகள் ஆவர். அவர்களின் தாய்மார்கள் பலர் ஆவர். அவர்களுடைய மார்க்கம் ஒன்றே. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3443</td></tr><tr><td>Arabic No</td><td>3443</td></tr><tr><td>Reference</td><td>Book 60 Hadith 113</td></tr></tbody></table></div>
 

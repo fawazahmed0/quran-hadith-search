@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَوْلِهِ تَعَالٰى: (لَوْ أَنَّ لِي بِكُمْ قُوَّةً) আল্লাহর বাণীঃ তোমাদেরকে দমন করার ক্ষমতা আমার যদি থাকত! (সূরাহ হূদ ১১/৮০) ৭২৩৮. কাসিম ইবনু মুহাম্মাদ (রহ.) হতে বর্ণিত। তিনি বলেন, ইবনু ‘আব্বাস (রাঃ) দু’জন লি‘আনকারীর বিষয়ে বর্ণনা করলেন। তখন ‘আবদুল্লাহ্ ইবনু শাদ্দাদ বললেন, এটা কি সেই স্ত্রীলোক যার সম্পর্কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছিলেন, বিনা প্রমাণে যদি কোন মহিলাকে রজম (প্রস্তরাঘাতে মৃত্যুদন্ড দান) করতাম? তিনি বললেন, না, সে মহিলাটি প্রকাশ্যে অশ্লীল কাজ করেছিল। [৫৩১০] (আধুনিক প্রকাশনী- ৬৭৩১, ইসলামিক ফাউন্ডেশন- ৬৭৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَوْلِهِ تَعَالٰى: (لَوْ أَنَّ لِي بِكُمْ قُوَّةً) আল্লাহর বাণীঃ তোমাদেরকে দমন করার ক্ষমতা আমার যদি থাকত! (সূরাহ হূদ ১১/৮০) ৭২৩৮. কাসিম ইবনু মুহাম্মাদ (রহ.) হতে বর্ণিত। তিনি বলেন, ইবনু ‘আব্বাস (রাঃ) দু’জন লি‘আনকারীর বিষয়ে বর্ণনা করলেন। তখন ‘আবদুল্লাহ্ ইবনু শাদ্দাদ বললেন, এটা কি সেই স্ত্রীলোক যার সম্পর্কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছিলেন, বিনা প্রমাণে যদি কোন মহিলাকে রজম (প্রস্তরাঘাতে মৃত্যুদন্ড দান) করতাম? তিনি বললেন, না, সে মহিলাটি প্রকাশ্যে অশ্লীল কাজ করেছিল। [৫৩১০] (আধুনিক প্রকাশনী- ৬৭৩১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7238</td></tr><tr><td>Arabic No</td><td>7238</td></tr><tr><td>Reference</td><td>Book 94 Hadith 13</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Qasim bin Muhammad:Ibn 'Abbas mentioned the case of a couple on whom the judgment of Lian has been passed. 'Abdullah bin Shaddad said, "Was that the lady in whose case the Prophet (ﷺ) said, "If I were to stone a lady to death without a proof (against her)?' "Ibn 'Abbas said, "No! That was concerned with a woman who though being a Muslim used to arouse suspicion by her outright misbehavior." (See Hadith No. 230, Vol.7)
+Narrated Al-Qasim bin Muhammad:Ibn 'Abbas mentioned the case of a couple on whom the judgment of Lian has been passed. 'Abdullah bin Shaddad said, "Was that the lady in whose case the Prophet (ﷺ) said, "If I were to stone a lady to death without a proof (against her)?' "Ibn 'Abbas said, "No! That was concerned with a woman who though being a Muslim used to arouse suspicion by her outright misbehavior." (See Hadith No. 230, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7238</td></tr><tr><td>Arabic No</td><td>7238</td></tr><tr><td>Reference</td><td>Book 94 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-காசிம் பின் முஹம்மத் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள் சாப அழைப்புப் பிரமாணம் (‘லிஆன்’) செய்த ஒரு தம்பதியரைக் பற்றிக் குறிப்பிட்டார் கள். உடனே அப்துல்லாஹ் பின் ஷத்தாத் (ரஹ்) அவர்கள், “நான் சாட்சி இல்லாமலேயே ஒரு பெண்ணுக்குக் கல்லெறி தண்டனை அளிப்பவனா யிருந்தால் (இவளுக்கு அளித்திருப் பேன்)” என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறியது இந்தப் பெண் குறித்தா? என்று கேட்டார்கள். அதற்கு இப்னு அப்பாஸ் (ரலி) அவர்கள், “இல்லை; அவள் வெளிப்படையாகவே தவறு செய்துவந்தவள்” என்று கூறினார்கள்.16 அத்தியாயம் : 94
+காசிம் பின் முஹம்மத் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள் சாப அழைப்புப் பிரமாணம் (‘லிஆன்’) செய்த ஒரு தம்பதியரைக் பற்றிக் குறிப்பிட்டார் கள். உடனே அப்துல்லாஹ் பின் ஷத்தாத் (ரஹ்) அவர்கள், “நான் சாட்சி இல்லாமலேயே ஒரு பெண்ணுக்குக் கல்லெறி தண்டனை அளிப்பவனா யிருந்தால் (இவளுக்கு அளித்திருப் பேன்)” என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறியது இந்தப் பெண் குறித்தா? என்று கேட்டார்கள். அதற்கு இப்னு அப்பாஸ் (ரலி) அவர்கள், “இல்லை; அவள் வெளிப்படையாகவே தவறு செய்துவந்தவள்” என்று கூறினார்கள்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7238</td></tr><tr><td>Arabic No</td><td>7238</td></tr><tr><td>Reference</td><td>Book 94 Hadith 13</td></tr></tbody></table></div>
 

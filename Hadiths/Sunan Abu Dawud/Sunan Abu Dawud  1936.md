@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন যে, আমি আরাফাতের এ স্থানে অবস্থান করেছি, আর আরাফাতের সবই অবস্থান স্থল। আর আমি মুযদালিফার এ স্থানে অবস্থান করেছি, আর এর সবই অবস্থান স্থল। আর আমি মিনার এ স্থানে কুরবানী করেছি, কাজেই এর সবই কুরবানীর স্থান। আর তোমরা তোমাদের পশুকে এ স্থানে কুরবানী করবে।
+। জাবির (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি আরাফার এ স্থানে অবস্থান করেছি। কিন্তু পুরো আরাফাই অবস্থানের স্থান। আর আমি মুযদালিফার এ স্থানে অবস্থান করেছি। তবে মুযদালিফার পুরো এলাকাটিই অবস্থান স্থল। আমি মিনার এ স্থানে কুরবানী করেছি। মিনার পুরো এলাকাই কুরবানীর স্থান। কাজেই তোমরা তোমাদের নিজ নিজ অবস্থানে কুরবানী করো।[1] সহীহ। এটি গত হয়েছে (হা/১৯০৭ ও)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1936</td></tr><tr><td>Arabic No</td><td>1936</td></tr><tr><td>Reference</td><td>Book 11 Hadith 216</td></tr></tbody></table></div>
 

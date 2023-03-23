@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৫৩৬, আন্তর্জাতিক নাম্বারঃ ২৬০৮ ৬৫৩৬-(…/...) আবু বকর ইবনু আবু শাইবাহ, আবু কুরায়ব ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আ'মাশ (রহঃ) হতে এ সূত্রে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৪০৪, ইসলামিক সেন্টার ৬৪৫৫)
+(…/...) আবু বকর ইবনু আবু শাইবাহ, আবু কুরায়ব ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আ'মাশ (রহঃ) হতে এ সূত্রে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৪০৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6642</td></tr><tr><td>Arabic No</td><td>2608.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 139</td></tr></tbody></table></div>
 

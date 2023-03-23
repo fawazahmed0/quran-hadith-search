@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪৪৮। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, এক রাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুরআনের একটি আয়াত পাঠ করেই রাত কাটিয়ে দিলেন। —সনদ সহীহ। আবু ঈসা বলেনঃ এ হাদীসটি উপরোক্ত সূত্রে হাসান গারীব।
+। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, এক রাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুরআনের একটি আয়াত পাঠ করেই রাত কাটিয়ে দিলেন। —সনদ সহীহ। আবু ঈসা বলেনঃ এ হাদীসটি উপরোক্ত সূত্রে হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>448</td></tr><tr><td>Arabic No</td><td>448</td></tr><tr><td>Reference</td><td>Book 2 Hadith 301</td></tr></tbody></table></div>
 

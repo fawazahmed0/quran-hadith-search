@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৪৮, আন্তর্জাতিক নাম্বারঃ ৮২ ১৪৮-(১৩৪/৮২) ইয়াহইয়া ইবনু ইয়াহইয়া আত তামীমী এবং উসমান ইবনু আবূ শাইবাহ (রহঃ) ... জাবির (রাযিঃ) বলেন যে, আমি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে বলতে শুনেছি, বান্দা এবং শিরক ও কুফরের মধ্যে পার্থক্য হচ্ছে সালাত ছেড়ে দেয়া। (ইসলামিক ফাউন্ডেশনঃ ১৪৯, ইসলামিক সেন্টারঃ ১৫৪)
+ইয়াহইয়া ইবনু ইয়াহইয়া আত তামীমী এবং উসমান ইবনু আবূ শাইবাহ (রহঃ) ... জাবির (রাযিঃ) বলেন যে, আমি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে বলতে শুনেছি, বান্দা এবং শিরক ও কুফরের মধ্যে পার্থক্য হচ্ছে সালাত ছেড়ে দেয়া। (ইসলামিক ফাউন্ডেশনঃ ১৪৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>246</td></tr><tr><td>Arabic No</td><td>82.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 153</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] dan [Utsman bin Abu S
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Yahya b. Yahya et-Temîmi ile Osman b. Ebî Şeybe ikisi de Cerir'den rivayet ettiler. Yahya dediki: Bize Cerir, A'meş'den o da Ebu Sufyan' dan naklen haber verdi. Demişki: Cabir’i şöyle derken işittim : Nebi (Sallallahu aleyhi ve Sellem)'i: "Muhakkak kişi ile şirk ve küfür arasında namazın terki vardır" buyururken dinledim. Diğer tahric: Tirmizi, 2618; Tuhfetu'l-Eşraf, 2303
+Bize Yahya b. Yahya et-Temîmi ile Osman b. Ebî Şeybe ikisi de Cerir'den rivayet ettiler. Yahya dediki: Bize Cerir, A'meş'den o da Ebu Sufyan' dan naklen haber verdi. Demişki: Cabir’i şöyle derken işittim : Nebi (Sallallahu aleyhi ve Sellem)'i: "Muhakkak kişi ile şirk ve küfür arasında namazın terki vardır" buyururken dinledim. Diğer tahric: Tirmizi, 2618; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>246</td></tr><tr><td>Arabic No</td><td>82.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 153</td></tr></tbody></table></div>
 

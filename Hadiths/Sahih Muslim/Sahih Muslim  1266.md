@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১১৫৩, আন্তর্জাতিক নাম্বারঃ ৩৮৯ ১১৫৩-(.../...) 'আমর আন নাকিদ ও যুহায়র ইবনু হারব, কুতায়বাহ ইবনু সাঈদ ও মুহাম্মাদ ইবনু রুমূহ (রহঃ) ..... যুহরী (রহঃ) থেকে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১১৪৬, ইসলামীক সেন্টার ১১৫৫)
+আমর আন নাকিদ ও যুহায়র ইবনু হারব, কুতায়বাহ ইবনু সাঈদ ও মুহাম্মাদ ইবনু রুমূহ (রহঃ) ..... যুহরী (রহঃ) থেকে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১১৪৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1266</td></tr><tr><td>Arabic No</td><td>389.07</td></tr><tr><td>Reference</td><td>Book 5 Hadith 104</td></tr></tbody></table></div>
 

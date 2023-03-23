@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪৩২, আন্তর্জাতিক নাম্বারঃ ১৭৪০ ৪৪৩২-(১৮/১৭৪০) মুহাম্মাদ ইবনু আবদুর রহমান ইবনু সাহম (রহঃ) ..... আবূ হুরাইরাহ্ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যুদ্ধ কুটকৌশলেরই নাম। (ইসলামিক ফাউন্ডেশন ৪৩৯০, ইসলামিক সেন্টার ৪৩৯০)
+মুহাম্মাদ ইবনু আবদুর রহমান ইবনু সাহম (রহঃ) ..... আবূ হুরাইরাহ্ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যুদ্ধ কুটকৌশলেরই নাম। (ইসলামিক ফাউন্ডেশন ৪৩৯০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4540</td></tr><tr><td>Arabic No</td><td>1740</td></tr><tr><td>Reference</td><td>Book 32 Hadith 21</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Muhammad bin Abdurrahman bin Sahm] telah men
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: போர் என்பது சூழ்ச்சியாகும். இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 32
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: போர் என்பது சூழ்ச்சியாகும். இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4540</td></tr><tr><td>Arabic No</td><td>1740</td></tr><tr><td>Reference</td><td>Book 32 Hadith 21</td></tr></tbody></table></div>
 

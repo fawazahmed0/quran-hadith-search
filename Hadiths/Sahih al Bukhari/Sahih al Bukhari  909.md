@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ক্বাতাদাহ্ (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ তোমরা আমাকে না দেখা পর্যন্ত সালাতে দাঁড়াবে না। তোমাদের জন্য ধীর-স্থির থাকা অত্যাবশ্যক। (৬৩৭) (আধুনিক প্রকাশনীঃ ৮৫৬, ইসলামিক ফাউন্ডেশনঃ ৮৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ক্বাতাদাহ্ (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ তোমরা আমাকে না দেখা পর্যন্ত সালাতে দাঁড়াবে না। তোমাদের জন্য ধীর-স্থির থাকা অত্যাবশ্যক। (৬৩৭) (আধুনিক প্রকাশনীঃ ৮৫৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>909</td></tr><tr><td>Reference</td><td>Book 11 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin 'Ali] berkata, telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (தொழுகைக்கு ‘இகாமத்’ சொல்லப்பட்டு விட்டால் அவசரப்படாதீர்கள்.) என்னை நீங்கள் காணாதவரை எழாதீர்கள்; நிதானத்தைக் கடைப்பிடியுங்கள். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 11
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (தொழுகைக்கு ‘இகாமத்’ சொல்லப்பட்டு விட்டால் அவசரப்படாதீர்கள்.) என்னை நீங்கள் காணாதவரை எழாதீர்கள்; நிதானத்தைக் கடைப்பிடியுங்கள். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>909</td></tr><tr><td>Reference</td><td>Book 11 Hadith 33</td></tr></tbody></table></div>
 

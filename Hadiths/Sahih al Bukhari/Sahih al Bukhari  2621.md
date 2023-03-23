@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, দান করার পর যে তা ফিরিয়ে নেয়, সে ঐ লোকের মত, যে বমি করে তা আবার খায়। (২৫৮৯) (আধুনিক প্রকাশনীঃ ২৪২৯, ইসলামিক ফাউন্ডেশনঃ ২৪৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, দান করার পর যে তা ফিরিয়ে নেয়, সে ঐ লোকের মত, যে বমি করে তা আবার খায়। (২৫৮৯) (আধুনিক প্রকাশনীঃ ২৪২৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2621</td></tr><tr><td>Arabic No</td><td>2621</td></tr><tr><td>Reference</td><td>Book 51 Hadith 53</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: தன் அன்பளிப்பைத் திரும்பப் பெற்றுக்கொள்பவன் தன் வாந்தியைத் தானே திரும்ப உண்பவனைப் போன்றவன் ஆவான்.27 இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 51
+நபி (ஸல்) அவர்கள்கூறினார்கள்: தன் அன்பளிப்பைத் திரும்பப் பெற்றுக்கொள்பவன் தன் வாந்தியைத் தானே திரும்ப உண்பவனைப் போன்றவன் ஆவான்.27 இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2621</td></tr><tr><td>Arabic No</td><td>2621</td></tr><tr><td>Reference</td><td>Book 51 Hadith 53</td></tr></tbody></table></div>
 

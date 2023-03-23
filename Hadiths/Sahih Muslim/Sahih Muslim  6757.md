@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৬৫০, আন্তর্জাতিক নাম্বারঃ ২৬৫৮ ৬৬৫০-(…/...) আবূ তাহির ও আহমাদ ইবনু ঈসা (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রতিটি বাচ্চা স্বভাবজাত ইসলামের উপর জন্মলাভ করে। তারপর তিনি বলেছেন, তোমরা পাঠ করঃ "আল্লাহর ফিতরাত যার উপর তিনি মানুষ সৃষ্টি করেছেন। আল্লাহর সৃষ্টিতে কোন পরিবর্তন নেই। এ-ই সুপ্রতিষ্ঠিত দীন"- (সূরা আর রূম ৩০ঃ ৩০)। (ইসলামিক ফাউন্ডেশন ৬৫১৬, ইসলামিক সেন্টার ৬৫৬৭)
+আবু বকর ইবনু আবু শাইবাহ, ‘আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) হতে এ সূত্রে হুবহু হাদীস বর্ণনা করেছেন। মা'মার (রহঃ) বলেন, যেমন চতুষ্পদ প্রাণী চতুষ্পদ বাচ্চা জন্ম দিতে হয় এবং তিনি جَمْعَاءَ (পূর্ণাঙ্গ) শব্দটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশন ৬৫১৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6757</td></tr><tr><td>Arabic No</td><td>2658.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 35</td></tr></tbody></table></div>
 
@@ -56,7 +56,7 @@ This hadith has been narrated on the authority of Zuhri with the same chain of t
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Abu Ath Thahir] dan [Ahmad bin 'Isa] mereka berdua berkata; telah menceritakan kepada kami [lbnu Wahb] telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] bahwasanya [Abu Salamah bin 'Abdurrahman] mengabarkan kepadanya bahwasanya [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Seorang bayi tidak dilahirkan (ke dunia ini) melainkan ia berada dalam kesucian (fitrah). Lalu dia berkata; Bacalah oleh kalian firman Allah yang berbunyi: '…tetaplah atas fitrah Allah yang telah menciptakan manusia menurut fitrahnya itu. Tidak ada perubahan atas fitrah Allah itulah agama yang lurus.' (QS. Ar Ruum (30): 30
+Telah menceritakan kepadaku [Abu Ath Thahir] dan [Ahmad bin 'Isa] mereka berdua berkata; telah menceritakan kepada kami [lbnu Wahb] telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] bahwasanya [Abu Salamah bin 'Abdurrahman] mengabarkan kepadanya bahwasanya [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Seorang bayi tidak dilahirkan (ke dunia ini) melainkan ia berada dalam kesucian (fitrah). Lalu dia berkata; Bacalah oleh kalian firman Allah yang berbunyi: '…tetaplah atas fitrah Allah yang telah menciptakan manusia menurut fitrahnya itu. Tidak ada perubahan atas fitrah Allah itulah agama yang lurus.' (QS. Ar Ruum (30):
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6757</td></tr><tr><td>Arabic No</td><td>2658.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 35</td></tr></tbody></table></div>
 

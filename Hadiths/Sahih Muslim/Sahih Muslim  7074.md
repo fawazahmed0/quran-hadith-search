@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৯৬৭, আন্তর্জাতিক নাম্বারঃ ২৮০১ ৬৯৬৭-(.../২৮০১) উবাইদুল্লাহ ইবনু মুআয (রহঃ) ..... ইবনু উমর (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৮১৭, ইসলামিক সেন্টার ৬৮৭১)
+উবাইদুল্লাহ ইবনু মুআয (রহঃ) ..... ইবনু উমর (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৮১৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7074</td></tr><tr><td>Arabic No</td><td>2801.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 30</td></tr></tbody></table></div>
 

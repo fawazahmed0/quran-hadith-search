@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম খাইবার যুদ্ধের দিন মহিলাদের মুত‘আহ[1] করা থেকে এবং গৃহপালিত গাধার গোশত খেতে নিষেধ করেছেন। [৫১১৫, ৫৫২৩, ৬৯৬১; মুসলিম ১৬/২, হাঃ ১৪০৭](আধুনিক প্রকাশনীঃ ৩৮৯৫, ইসলামিক ফাউন্ডেশনঃ ৩৮৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম খাইবার যুদ্ধের দিন মহিলাদের মুত‘আহ[1] করা থেকে এবং গৃহপালিত গাধার গোশত খেতে নিষেধ করেছেন। [৫১১৫, ৫৫২৩, ৬৯৬১; মুসলিম ১৬/২, হাঃ ১৪০৭](আধুনিক প্রকাশনীঃ ৩৮৯৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4216</td></tr><tr><td>Arabic No</td><td>4216</td></tr><tr><td>Reference</td><td>Book 64 Hadith 256</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Ali bin Abi Talib:On the day of Khaibar, Allah's Messenger (ﷺ) forba
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ பின் அபீதாலிப் (ரலி) அவர்கள் கூறியதாவது: கைபர் போரின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “முத்ஆ' (தவணை முறை) திருமணம் செய்ய வேண்டாம் எனவும், நாட்டுக் கழுதைகளை உண்ண வேண்டாம் எனவும் தடை விதித்தார்கள்.275 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 64
+அலீ பின் அபீதாலிப் (ரலி) அவர்கள் கூறியதாவது: கைபர் போரின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “முத்ஆ' (தவணை முறை) திருமணம் செய்ய வேண்டாம் எனவும், நாட்டுக் கழுதைகளை உண்ண வேண்டாம் எனவும் தடை விதித்தார்கள்.275 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4216</td></tr><tr><td>Arabic No</td><td>4216</td></tr><tr><td>Reference</td><td>Book 64 Hadith 256</td></tr></tbody></table></div>
 

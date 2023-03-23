@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-তিনি [সা‘ঈদ ইবনু যুবায়র] আরও বলেনঃ তাদের নিয়ম ছিল যে, সাবালক না হওয়া পর্যন্ত তারা খাত্না করতেন না। [৬২৯৯] (আধুনিক প্রকাশনী- ৫৮৫৬, ইসলামিক ফাউন্ডেশন- ৫৭৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তিনি [সা‘ঈদ ইবনু যুবায়র] আরও বলেনঃ তাদের নিয়ম ছিল যে, সাবালক না হওয়া পর্যন্ত তারা খাত্না করতেন না। [৬২৯৯] (আধুনিক প্রকাশনী- ৫৮৫৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6299</td></tr><tr><td>Arabic No</td><td>6299</td></tr><tr><td>Reference</td><td>Book 79 Hadith 71</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Abdurrahim] telah mengabarkan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்களிடம், “நபி (ஸல்) அவர்கள் (உயிர்) கைப்பற்றப் பட்டபோது தாங்கள் எவ்வாறிருந்தீர்கள்?” என்று வினவப்பட்டது. அதற்கு அவர்கள், “நான் அப்போது விருத்த சேதனம் செய்தவனாயிருந்தேன்” என்று பதிலளித்தார்கள். இதன் அறிவிப்பாளர்களில் ஒருவர் கூறுகிறார்: பருவ வயதை நெருங்கிய பிறகே (அன்றைய) மக்கள் விருத்தசேதனம் செய்வது வழக்கம். அத்தியாயம் : 79
+சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்களிடம், “நபி (ஸல்) அவர்கள் (உயிர்) கைப்பற்றப் பட்டபோது தாங்கள் எவ்வாறிருந்தீர்கள்?” என்று வினவப்பட்டது. அதற்கு அவர்கள், “நான் அப்போது விருத்த சேதனம் செய்தவனாயிருந்தேன்” என்று பதிலளித்தார்கள். இதன் அறிவிப்பாளர்களில் ஒருவர் கூறுகிறார்: பருவ வயதை நெருங்கிய பிறகே (அன்றைய) மக்கள் விருத்தசேதனம் செய்வது வழக்கம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6299</td></tr><tr><td>Arabic No</td><td>6299</td></tr><tr><td>Reference</td><td>Book 79 Hadith 71</td></tr></tbody></table></div>
 

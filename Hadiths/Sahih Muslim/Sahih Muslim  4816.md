@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭১০, আন্তর্জাতিক নাম্বারঃ ১৮৫৭ ৪৭১০-(.../...) ইবনু মুসান্না ও ইসহাক ইবনু ইবরাহীম (রহঃ) ...... শুবাহ্ (রহঃ) এর সূত্রে উক্ত সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬৬৩, ইসলামিক সেন্টার ৪৬৬৫)
+ইবনু মুসান্না ও ইসহাক ইবনু ইবরাহীম (রহঃ) ...... শুবাহ্ (রহঃ) এর সূত্রে উক্ত সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬৬৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>1857.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 113</td></tr></tbody></table></div>
 

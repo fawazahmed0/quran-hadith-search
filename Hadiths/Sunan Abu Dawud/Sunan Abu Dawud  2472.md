@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবন মুহাম্মদ আন-নুফায়লী .... আয়েশা (রাঃ) হতে বর্ণিত। রাবী আন-নুফায়লী বলেন, তিনি (আয়েশা) বলেছেন, নবী করীমসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ই‘তিকাফে থাকাবস্থায় রোগীর নিকট গমন করতেন। এরপর তিনি যেরূপে থাকতেন, সেরূপে গমন করতেন এবং তার (রোগীর) নিকট দণ্ডায়মান না হয়ে, তার সম্পর্কে খোঁজ খবর নিতেন। (রাবী) ইবন ঈসা বলেন, তিনি (আয়েশা) বলেছেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ই‘তিকাফ অবস্থায় রোগীর পরিচর্যা করেছিলেন (তবে তিনি প্রসাব-পায়খানার প্রয়োজনে বের হয়েছিলেন)।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ই‘তিকাফরত অবস্থায় রোগীর কাছে যেতেন এবং তাকে দেখেই চলে যেতেন, সেখানে (অবস্থান করে) তাকে কিছু জিজ্ঞেস করতেন না। ইবনু ঈসা (রহ.)-এর বর্ণনায় রয়েছেঃ ‘আয়িশাহ্ (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ই‘তিকাফ অবস্থায় রোগী দেখতে যেতেন।[1] দুর্বলঃ মিশকাত (২১০৫)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 14 Hadith 160</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ঈসা (রহঃ) ..... আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণিত। একদা তিনি একটা ছাগল যবাহ করে বলেনঃ তোমরা কি আমার ইয়াহূদী প্রতিবেশীদের কাছে এর কিছু পাঠিয়েছ? কেননা, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ জিবরীল (আঃ) আমাকে সব সময় প্রতিবেশীর হক আদায় করার জন্য নির্দেশ দিতেন। এতে আমার মনে হতে থাকে যে, হয়তো তিনি তাকে মীরাছ দেয়ার নির্দেশ দেবেন।
+। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। তিনি একটি বকরী যবাহ করলেন। তিনি বললেন, তোমরা কি আমার প্রতিবেশী ইয়াহুদীকে উপঢৌকন দিয়েছ? কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ জিবরীল (আঃ) অবিরত আমাকে প্রতিবেশীর হক সম্বন্ধে গুরুত্ব দিচ্ছিলেন। এমন কি আমার ধারণা হলো, তিনি হয় তো প্রতিবেশীকে উত্তরাধিকারী বানিয়ে দিবেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5152</td></tr><tr><td>Arabic No</td><td>5152</td></tr><tr><td>Reference</td><td>Book 43 Hadith 380</td></tr></tbody></table></div>
 

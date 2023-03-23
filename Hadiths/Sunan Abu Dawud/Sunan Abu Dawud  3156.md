@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... উবাদা ইবন সামিত (রাঃ) সূত্রে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেনঃ উত্তম কাফন হলো হুল্লা অর্থাৎ চাদর এবং তহবন্দ এবং উত্তম কুরবানীর পশু হলো শিংওয়ালা দুম্বা।
+। উবাদাহ ইবনুস সামিত (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ উত্তম কাফন হচ্ছে হুল্লা এবং কুরবানীর জন্য উত্তম পশু হচ্ছে শিংওয়ালা দুম্বা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3156</td></tr><tr><td>Arabic No</td><td>3156</td></tr><tr><td>Reference</td><td>Book 21 Hadith 68</td></tr></tbody></table></div>
 

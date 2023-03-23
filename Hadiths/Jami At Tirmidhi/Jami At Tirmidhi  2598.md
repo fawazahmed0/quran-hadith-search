@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫৯৮। আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তির অন্তরে অনু পরিমাণ ঈমানও রয়েছে সে ব্যক্তিকেও জাহান্নাম থেকে মুক্তি দেয়া হবে। আবূ সাঈদ (রাযিঃ) বলেন, কারো এ ব্যাপারে সন্দেহ হলে সে এ আয়াতটি তিলাওয়াত করুকঃ “আল্লাহ তা'আলা অণু পরিমাণও যুলুম করেন না”— (সূরা নিসাঃ ৪০)। সহীহঃ বুখারী ও মুসলিম আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তির অন্তরে অনু পরিমাণ ঈমানও রয়েছে সে ব্যক্তিকেও জাহান্নাম থেকে মুক্তি দেয়া হবে। আবূ সাঈদ (রাযিঃ) বলেন, কারো এ ব্যাপারে সন্দেহ হলে সে এ আয়াতটি তিলাওয়াত করুকঃ “আল্লাহ তা'আলা অণু পরিমাণও যুলুম করেন না”— (সূরা নিসাঃ ৪০)। সহীহঃ বুখারী ও মুসলিম আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2598</td></tr><tr><td>Arabic No</td><td>2598</td></tr><tr><td>Reference</td><td>Book 39 Hadith 26</td></tr></tbody></table></div>
 

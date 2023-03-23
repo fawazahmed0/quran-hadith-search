@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/১১৭৬। মুত্তালিব ইবনু আবদুল্লাহ (রহঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যক্তি ইবনু উমার (রাঃ) কে জিজ্ঞেস করলো, আমি কিভাবে বিতর পড়বো? তিনি বলেন, তুমি এক রাকআত বিতর পড়বে। সে বললো, আমি আশংকা করি যে, লোকেরা আমাকে শিকড় কাটা বলবে। তিনি বলেন, আল্লাহ্‌র সুন্নাত ও তাঁর রাসূলেও। তিনি মনে করেন, এটাই আল্লাহ ও তাঁর রাসূলের সুন্নাত।
+। মুত্তালিব ইবনু আবদুল্লাহ (রহঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যক্তি ইবনু উমার (রাঃ) কে জিজ্ঞেস করলো, আমি কিভাবে বিতর পড়বো? তিনি বলেন, তুমি এক রাকআত বিতর পড়বে। সে বললো, আমি আশংকা করি যে, লোকেরা আমাকে শিকড় কাটা বলবে। তিনি বলেন, আল্লাহ্‌র সুন্নাত ও তাঁর রাসূলেও। তিনি মনে করেন, এটাই আল্লাহ ও তাঁর রাসূলের সুন্নাত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1176</td></tr><tr><td>Arabic No</td><td>1176</td></tr><tr><td>Reference</td><td>Book 5 Hadith 374</td></tr></tbody></table></div>
 

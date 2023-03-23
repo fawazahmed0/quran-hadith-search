@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সাওর ইবরাহীম ইবন খালিদ সূত্রে মিলিত সনদে .... সুলায়মান ইবন ‘আমর ইবন আল আহওয়াস তাঁর মাতা হতে বর্ণনা করেছেন। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে জুমরায়ে আকাবাতে বাহনের উপর সাওয়ার অবস্থায় কংকর নিক্ষেপ করতে দেখেছি। এ সময় আমি তাঁর অংগুলির ফাঁকে কংকর দেখেছি যা তিনি নিক্ষেপ করছিলেন এবং লোকেরাও নিক্ষেপ করছিল।
+। সুলাইমান ইবনু ‘আমর ইবনুল আহওয়াস (রহ.) থেকে তার মাতার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জামরাতে আকাবার নিকট বাহনে সওয়ার অবস্থায় দেখেছি এবং দেখেছি তাঁর আঙ্গুলের ফাঁকে কংকর রয়েছে। তিনি নিক্ষেপ করলে লোকেরাও নিক্ষেপ করলো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1967</td></tr><tr><td>Arabic No</td><td>1967</td></tr><tr><td>Reference</td><td>Book 11 Hadith 247</td></tr></tbody></table></div>
 

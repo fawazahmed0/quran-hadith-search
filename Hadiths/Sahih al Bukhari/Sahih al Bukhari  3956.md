@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, বদরের দিন আমাকে ও ইবনু ‘উমারকে অপ্রাপ্ত বয়স্ক গণ্য করা হয়েছিল, এ যুদ্ধে মুহাজিরদের সংখ্যা ছিল ষাটের বেশী এবং আনসারদের সংখ্যা ছিল দুশ’ চল্লিশেরও অধিক। [1] [৩৯৫৫] (আধুনিক প্রকাশনীঃ ৩৬৬৫, ইসলামিক ফাউন্ডেশনঃ ৩৬৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, বদরের দিন আমাকে ও ইবনু ‘উমারকে অপ্রাপ্ত বয়স্ক গণ্য করা হয়েছিল, এ যুদ্ধে মুহাজিরদের সংখ্যা ছিল ষাটের বেশী এবং আনসারদের সংখ্যা ছিল দুশ’ চল্লিশেরও অধিক। [1] [৩৯৫৫] (আধুনিক প্রকাশনীঃ ৩৬৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3956</td></tr><tr><td>Arabic No</td><td>3956</td></tr><tr><td>Reference</td><td>Book 64 Hadith 8</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara:I and Ibn 'Umar were considered too young (to take part) in the battle of Badr, and the number of the Emigrant warriors were over sixty (men) and the Ansar were over 249
+Narrated Al-Bara:I and Ibn 'Umar were considered too young (to take part) in the battle of Badr, and the number of the Emigrant warriors were over sixty (men) and the Ansar were over
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3956</td></tr><tr><td>Arabic No</td><td>3956</td></tr><tr><td>Reference</td><td>Book 64 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நானும் இப்னு உமர் (ரலி) அவர்களும் பத்ர் போரின்போது சிறுவர்களாகக் கருதப் பட்டோம். பத்ர் போரில் அறுபதுக்கும் சற்றுக் கூடுதலான முஹாஜிர்களும் இரு நூற்று நாற்பதுக்கும் சற்றுக் கூடுதலான அன்சாரிகளும் இருந்தனர்.8 அத்தியாயம் : 64
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நானும் இப்னு உமர் (ரலி) அவர்களும் பத்ர் போரின்போது சிறுவர்களாகக் கருதப் பட்டோம். பத்ர் போரில் அறுபதுக்கும் சற்றுக் கூடுதலான முஹாஜிர்களும் இரு நூற்று நாற்பதுக்கும் சற்றுக் கூடுதலான அன்சாரிகளும் இருந்தனர்.8 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3956</td></tr><tr><td>Arabic No</td><td>3956</td></tr><tr><td>Reference</td><td>Book 64 Hadith 8</td></tr></tbody></table></div>
 

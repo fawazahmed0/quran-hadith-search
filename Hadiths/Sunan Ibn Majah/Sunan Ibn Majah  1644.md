@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/১৬৪৪। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রমযান মাস শুরু হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের নিকট এ মাস সমুপস্থিত। এতে রয়েছে এমন এক রাত, যা হাজার মাস অপেক্ষা উত্তম। এ থেকে যে ব্যক্তি বঞ্চিত হলো সে সমস্ত কল্যাণ থেকেই বঞ্চিত হলো। কেবল বঞ্চিত ব্যক্তিরাই তা থেকে বঞ্চিত হয়।
+। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রমযান মাস শুরু হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের নিকট এ মাস সমুপস্থিত। এতে রয়েছে এমন এক রাত, যা হাজার মাস অপেক্ষা উত্তম। এ থেকে যে ব্যক্তি বঞ্চিত হলো সে সমস্ত কল্যাণ থেকেই বঞ্চিত হলো। কেবল বঞ্চিত ব্যক্তিরাই তা থেকে বঞ্চিত হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1644</td></tr><tr><td>Arabic No</td><td>1644</td></tr><tr><td>Reference</td><td>Book 7 Hadith 7</td></tr></tbody></table></div>
 

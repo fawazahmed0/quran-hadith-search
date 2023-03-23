@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০১৩। আবূদ দারদা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তিকে নমনীয়তার অংশ দেয়া হয়েছে তাকে কল্যাণের অংশ দেয়া হয়েছে। নমনীয়তার অংশ হতে যে ব্যক্তিকে বঞ্চিত করা হয়েছে তাকে কল্যাণের অংশ হতে বঞ্চিত করা হয়েছে। সহীহ, সহীহাহ (৫১৫, ৮৭৪)। আবূ ঈসা বলেন, আইশ, জারীর ইবনু আবদুল্লাহ ও আবূ হুরাইরা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান সহীহ।
+। আবূদ দারদা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তিকে নমনীয়তার অংশ দেয়া হয়েছে তাকে কল্যাণের অংশ দেয়া হয়েছে। নমনীয়তার অংশ হতে যে ব্যক্তিকে বঞ্চিত করা হয়েছে তাকে কল্যাণের অংশ হতে বঞ্চিত করা হয়েছে। সহীহ, সহীহাহ (৫১৫, ৮৭৪)। আবূ ঈসা বলেন, আইশ, জারীর ইবনু আবদুল্লাহ ও আবূ হুরাইরা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2013</td></tr><tr><td>Arabic No</td><td>2013</td></tr><tr><td>Reference</td><td>Book 27 Hadith 119</td></tr></tbody></table></div>
 

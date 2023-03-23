@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ....... আবদুল্লাহ (রাঃ) তাঁর পিতা থেকে বর্ণনা করেন। তিনি বলেছেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিশেষ কোন প্রয়োজন ব্যতীত মুসলিমদের চলিত মুদ্রা ভেঙে ফেলতে নিষেধ করেছেন। তবে কোন প্রয়োজন হলে তা ভাঙলে ক্ষতি নেই।
+। আলকামাহ ইবনু ‘আব্দুল্লাহ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুসলিমদের মধ্যে প্রচলিত মুদ্রা বিশেষ কোনো ত্রুটি ছাড়া ভাঙ্গতে নিষেধ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3449</td></tr><tr><td>Arabic No</td><td>3449</td></tr><tr><td>Reference</td><td>Book 24 Hadith 34</td></tr></tbody></table></div>
 

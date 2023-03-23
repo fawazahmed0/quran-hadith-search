@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত যে, মায়মূনা (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণনা করেছেন।
+। ইবনু আব্বাস (রাঃ) থেকে মাইমূনাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে হাদীস বর্ণনা করেছেন তা ইবনুল মুসাইয়্যাব বর্ণিত যুহরীর হাদীসের অনুরূপ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3843</td></tr><tr><td>Arabic No</td><td>3843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 108</td></tr></tbody></table></div>
 

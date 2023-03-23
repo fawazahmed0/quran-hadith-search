@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ তা‘আলা যখন (সৃষ্টির) কাজ সম্পন্ন করলেন, তখন তাঁর নিকট তাঁর আরশের ওপর লিখে দিলেন, ‘‘আমার রহমত আমার ক্রোধকে ছাড়িয়ে গেছে।’’ [৩১৯৪] (আধুনিক প্রকাশনী- ৬৯৩৫, ইসলামিক ফাউন্ডেশন- ৬৯৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ তা‘আলা যখন (সৃষ্টির) কাজ সম্পন্ন করলেন, তখন তাঁর নিকট তাঁর আরশের ওপর লিখে দিলেন, ‘‘আমার রহমত আমার ক্রোধকে ছাড়িয়ে গেছে।’’ [৩১৯৪] (আধুনিক প্রকাশনী- ৬৯৩৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7453</td></tr><tr><td>Arabic No</td><td>7453</td></tr><tr><td>Reference</td><td>Book 97 Hadith 79</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் படைப்புகளை படைத்த போது தன்னிடமுள்ள அரியணையின் (அர்ஷின்) மேலே ‘என் கருணை என் கோபத்தை முந்திவிட்டது’ என்று தன்னிடம் எழுதி வைத்துக் கொண்டான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.93 அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் படைப்புகளை படைத்த போது தன்னிடமுள்ள அரியணையின் (அர்ஷின்) மேலே ‘என் கருணை என் கோபத்தை முந்திவிட்டது’ என்று தன்னிடம் எழுதி வைத்துக் கொண்டான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.93 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7453</td></tr><tr><td>Arabic No</td><td>7453</td></tr><tr><td>Reference</td><td>Book 97 Hadith 79</td></tr></tbody></table></div>
 

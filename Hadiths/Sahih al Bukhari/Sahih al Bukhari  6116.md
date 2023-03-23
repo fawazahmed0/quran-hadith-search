@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ হতে বর্ণিত যে, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট বললঃ আপনি আমাকে অসিয়ত করুন। তিনি বললেনঃ তুমি রাগ করো না। লোকটি কয়েকবার তা বললেন,নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক বারেই বললেনঃ রাগ করো না। আধুনিক প্রকাশনী- ৫৬৭৬, ইসলামিক ফাউন্ডেশন- ৫৫৭৩
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ হতে বর্ণিত যে, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট বললঃ আপনি আমাকে অসিয়ত করুন। তিনি বললেনঃ তুমি রাগ করো না। লোকটি কয়েকবার তা বললেন,নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক বারেই বললেনঃ রাগ করো না। আধুনিক প্রকাশনী- ৫৬৭৬, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6116</td></tr><tr><td>Arabic No</td><td>6116</td></tr><tr><td>Reference</td><td>Book 78 Hadith 143</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Yahya bin Yusuf] telah mengabarkan kepada kami [Abu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், “எனக்கு அறிவுரை கூறுங்கள்” என்றார். நபி (ஸல்) அவர்கள், “கோபத்தைக் கைவிடு” என்று (அறிவுரை) கூறினார்கள். அவர் (“அறிவுரை கூறுங்கள்” எனப்) பலமுறை கேட்டபோதும் நபி (ஸல்) அவர்கள் “கோபத்தைக் கைவிடு” என்றே சொன்னார்கள்.131 அத்தியாயம் : 78
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், “எனக்கு அறிவுரை கூறுங்கள்” என்றார். நபி (ஸல்) அவர்கள், “கோபத்தைக் கைவிடு” என்று (அறிவுரை) கூறினார்கள். அவர் (“அறிவுரை கூறுங்கள்” எனப்) பலமுறை கேட்டபோதும் நபி (ஸல்) அவர்கள் “கோபத்தைக் கைவிடு” என்றே சொன்னார்கள்.131 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6116</td></tr><tr><td>Arabic No</td><td>6116</td></tr><tr><td>Reference</td><td>Book 78 Hadith 143</td></tr></tbody></table></div>
 

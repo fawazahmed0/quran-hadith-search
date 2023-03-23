@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রহ.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (তাঁর শরীরের সঙ্গে) আমাকে জড়িয়ে ধরলেন এবং বললেনঃ হে আল্লাহ্! তাকে কিতাবের ইলম দাও।[1] [৭৫] (আধুনিক প্রকাশনী- ৬৭৬২, ইসলামিক ফাউন্ডেশন- ৬৭৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রহ.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (তাঁর শরীরের সঙ্গে) আমাকে জড়িয়ে ধরলেন এবং বললেনঃ হে আল্লাহ্! তাকে কিতাবের ইলম দাও।[1] [৭৫] (আধুনিক প্রকাশনী- ৬৭৬২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7270</td></tr><tr><td>Arabic No</td><td>7270</td></tr><tr><td>Reference</td><td>Book 96 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னைத் தம்முடன் அணைத்துக்கொண்டு, “இறைவா! இவருக்கு வேதத்தைக் கற்றுக் கொடுப்பாயாக” என்று சொன்னார்கள்.4 அத்தியாயம் : 96
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னைத் தம்முடன் அணைத்துக்கொண்டு, “இறைவா! இவருக்கு வேதத்தைக் கற்றுக் கொடுப்பாயாக” என்று சொன்னார்கள்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7270</td></tr><tr><td>Arabic No</td><td>7270</td></tr><tr><td>Reference</td><td>Book 96 Hadith 3</td></tr></tbody></table></div>
 

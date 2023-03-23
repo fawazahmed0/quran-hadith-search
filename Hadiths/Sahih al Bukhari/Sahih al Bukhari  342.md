@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৪২। আবদুর রহমান (রাঃ) থেকে বর্ণিতঃ তিনি বলেন, আমি ‘উমর (রাঃ)-এর নিকট উপস্থিত ছিলাম, ‘আম্মার (রাঃ) তাঁকে বললেন, .... এরপর রাবী পূর্বের হাদীসটি বর্ণনা করেন। (৩৩৮) (আ.প্র. নাই, ই.ফা. ৩৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। আবদুর রহমান (রাঃ) থেকে বর্ণিতঃ তিনি বলেন, আমি ‘উমর (রাঃ)-এর নিকট উপস্থিত ছিলাম, ‘আম্মার (রাঃ) তাঁকে বললেন, .... এরপর রাবী পূর্বের হাদীসটি বর্ণনা করেন। (৩৩৮) (আ.প্র. নাই, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>342</td></tr><tr><td>Arabic No</td><td>342</td></tr><tr><td>Reference</td><td>Book 7 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Ammar:As above
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 7
+மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>342</td></tr><tr><td>Arabic No</td><td>342</td></tr><tr><td>Reference</td><td>Book 7 Hadith 9</td></tr></tbody></table></div>
 

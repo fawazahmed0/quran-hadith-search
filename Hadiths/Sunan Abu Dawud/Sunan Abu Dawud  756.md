@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু মাহবূব ..... আবূ জুহাইফা (রাঃ) থেকে বর্ণিত। আলী (রাঃ) বলেন, নামাযে রত অবস্থায় নাভির নীচে বাম হাতের তালুর উপর ডান হাতের তালু রাখা সুন্নাতের অন্তর্ভুক্ত।
+। আবূ জুহাইফাহ্ (রাঃ) সূত্রে বর্ণিত। ‘আলী (রাঃ) বলেছেন, সালাত আদায়কালে বাম হাতের তালুর উপর ডান হাতের তালু নাভীর নীচে রাখা সুন্নাত।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>756</td></tr><tr><td>Arabic No</td><td>756</td></tr><tr><td>Reference</td><td>Book 2 Hadith 366</td></tr></tbody></table></div>
 

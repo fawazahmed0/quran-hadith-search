@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন আবূ শায়বা ..... আনাস ইবন মালিক (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা কাফিরদের সাথে যুদ্ধে রওনা দেয়ার সময় আল্লাহ্ তা‘আলার নাম নিয়ে তাঁর সত্তার সাহায্য কামনা করে রাসূলুল্লাহর মিল্লাতে অটল আস্থা রেখে যুদ্ধে অবতীর্ণ হবে। অসহায় অকর্মা বৃদ্ধকে হত্যা করবে না, নিরপরাধ নাবালক শিশু-কিশোর এবং অবলা নারীদেরকে হত্যা করবে না এবং গণীমতের মাল আত্মসাৎ করবে না। যুদ্ধলব্ধ গণীমতের মাল একস্থানে জড় করে নিও এবং পরস্পরের সমঝোতার ভিত্তিতে ও সৎ ব্যাবহারের মাধ্যমে অন্যের কল্যাণ সাধন করবে। নিশ্চই আল্লাহ্ তা‘আলা সদ্ব্যব্যবহারকারীদের পছন্দ করেন।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা যুদ্ধ করার সময় আল্লাহর নাম নিবে, আল্লাহর উপর ভরসা করবে এবং আল্লাহর রাসূলের মিল্লাতের উপর অটল থাকবে। অতি বৃদ্ধ, শিশু-কিশোর ও নারীদের হত্যা করবে না এবং গানীমাতের মাল আত্মসাৎ করবে না। তোমাদের গানীমাত একত্রে জড়ো করবে, নিজেদের অবস্থার সংশোধন করবে এবং সৎ কাজ করবে। নিশ্চয়ই আল্লাহ সৎকর্মশীলদের ভালোবাসেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2614</td></tr><tr><td>Arabic No</td><td>2614</td></tr><tr><td>Reference</td><td>Book 15 Hadith 138</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik (r.a.)'den demiştir ki: Rasûlullah (s.a.v.) şöyle buyurmuştur: "Allah'ın ismiyle Allah için ve Allah Resulünün dininde (sebat ederek) savaşa çıkınız, aciz kalmış ihtiyarları, buluğ çağına ermemiş çocukları ve kadınları öldürmeyin, ganimete ihanet etmeyin ganimetlerinizi toplayınız, (halinizi) düzeltiniz, ihsan ile muamele ediniz. Çünkü Allah ihsan edenleri sever."[Bakara 195]
+Enes b. Malik (r.a.)'den demiştir ki: Rasûlullah (s.a.v.) şöyle buyurmuştur: "Allah'ın ismiyle Allah için ve Allah Resulünün dininde (sebat ederek) savaşa çıkınız, aciz kalmış ihtiyarları, buluğ çağına ermemiş çocukları ve kadınları öldürmeyin, ganimete ihanet etmeyin ganimetlerinizi toplayınız, (halinizi) düzeltiniz, ihsan ile muamele ediniz. Çünkü Allah ihsan edenleri sever."[Bakara]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2614</td></tr><tr><td>Arabic No</td><td>2614</td></tr><tr><td>Reference</td><td>Book 15 Hadith 138</td></tr></tbody></table></div>
 

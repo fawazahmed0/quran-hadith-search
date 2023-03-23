@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু হাতেম .... আওস ইবনু আওস আছ-ছাকাফী (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে বলতে শুনেছিঃ যে ব্যক্তি জুমুআর দিন গোসল করাবে (জুমুআর নামাযের পূর্বে স্ত্রী সহবাস করে তাকেও গোসল করাবে) এবং নিজেও গোসল করবে অথবা সুগন্ধিযুক্ত দ্রব্যাদি দ্বারা ভালরূপে গোসল করবে, অতঃপর সকাল-সকাল মসজিদে গিয়ে ইমামের নিকটবর্তী স্থানে বসে খুতবা শুনবে এবং যাবতীয় প্রয়োজনীয় ক্রিয়াকর্ম হতে বিরত থাকবে তার মসজিদে যাওয়ার প্রতিটি পদক্ষেপ সুন্নাত হিসাবে পরিগণিত হবে। তার প্রতিটি পদক্ষেপ এক বছরের দিনের রোযা এবং রাতে দাঁড়িয়ে তাহাজ্জ্বুদের নামায আদায়ের ছওয়াবের সমতুল্য হবে।
+। আওস ইবনু আওস আস-সাক্বা্ফী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি জুমুআর দিন গোসল করবে এবং (স্ত্রীকেও) গোসল করাবে, প্রত্যুষে ঘুম থেকে জাগবে এবং জাগাবে, জুমুআর জন্য বাহনে চড়ে নয় বরং পায়ে হেঁটে মসজিদে যাবে এবং কোনরূপ অনর্থক কথা না বলে ইমামের নিকটে বসে খুতবা শুনবে, তার (মসজিদে যাওয়ার) প্রতিটি পদক্ষেপ সুন্নাত হিসেবে গণ্য হবে এবং প্রতিটি পদক্ষেপের বিনিময়ে সে এক বছর যাবত সিয়াম পালন ও রাতভর সালাত আদায়ের (সমান) সাওয়াব পাবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>345</td></tr><tr><td>Arabic No</td><td>345</td></tr><tr><td>Reference</td><td>Book 1 Hadith 345</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Hatim Al-Jarjara'i Hubbi] telah men
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Evs bin Evs es-Sekafi, Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken işittim demiştir: "Her kim cuma günü (başını ve vücudunun geri kalan kısmını) yıkar ve gusleder erkenden yola çıkıp (hutbenin evveline) yetişir (bir şeye) binmeyip yürür, imamın yakınına oturarak abesle iştigal etmeyip (konuşmadan) hutbeyi dinlerse onun için attığı her adıma bir senelik oruç ve namazının ecri vardır." Diğer tahric: Nesai, cuma; İbn Mace, ikame; Tirmizi, cuma; Ahmed b. Hanbel, III, 209; IV, 8, 9, 10
+Evs bin Evs es-Sekafi, Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken işittim demiştir: "Her kim cuma günü (başını ve vücudunun geri kalan kısmını) yıkar ve gusleder erkenden yola çıkıp (hutbenin evveline) yetişir (bir şeye) binmeyip yürür, imamın yakınına oturarak abesle iştigal etmeyip (konuşmadan) hutbeyi dinlerse onun için attığı her adıma bir senelik oruç ve namazının ecri vardır." Diğer tahric: Nesai, cuma; İbn Mace, ikame; Tirmizi, cuma; Ahmed b. Hanbel, III, 209; IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>345</td></tr><tr><td>Arabic No</td><td>345</td></tr><tr><td>Reference</td><td>Book 1 Hadith 345</td></tr></tbody></table></div>
 

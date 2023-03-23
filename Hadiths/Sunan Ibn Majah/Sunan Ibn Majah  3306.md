@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩৩০৬। আবূ দারদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে যখনই গোশত খাওয়ার দাওয়াত দেয়া হয়েছে তখনই তিনি তাতে সাড়া দিয়েছেন এবং যখনই তাকে গোশত উপঢৌকন দেয়া হয়েছে, তিনি তা কবুল করেছেন।
+। আবূ দারদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে যখনই গোশত খাওয়ার দাওয়াত দেয়া হয়েছে তখনই তিনি তাতে সাড়া দিয়েছেন এবং যখনই তাকে গোশত উপঢৌকন দেয়া হয়েছে, তিনি তা কবুল করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3306</td></tr><tr><td>Arabic No</td><td>3306</td></tr><tr><td>Reference</td><td>Book 29 Hadith 56</td></tr></tbody></table></div>
 

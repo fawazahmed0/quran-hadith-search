@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জারীর ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে (সৃষ্টির প্রতি) দয়া করে না, (আল্লাহর পক্ষ থেকে) তার প্রতি দয়া করা হয় না। [৭৩৭৬; মুসলিম ৪৩/১৫, হাঃ ২৩১৯] (আধুনিক প্রকাশনী- ৫৫৭৯, ইসলামিক ফাউন্ডেশন- ৫৪৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জারীর ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে (সৃষ্টির প্রতি) দয়া করে না, (আল্লাহর পক্ষ থেকে) তার প্রতি দয়া করা হয় না। [৭৩৭৬; মুসলিম ৪৩/১৫, হাঃ ২৩১৯] (আধুনিক প্রকাশনী- ৫৫৭৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6013</td></tr><tr><td>Arabic No</td><td>6013</td></tr><tr><td>Reference</td><td>Book 78 Hadith 44</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin Hafsh] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (படைப்பினங்கள்மீது) கருணை காட்டாதவர் (படைத்தவனால்) கருணை காட்டப்படமாட்டார். இதை ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (படைப்பினங்கள்மீது) கருணை காட்டாதவர் (படைத்தவனால்) கருணை காட்டப்படமாட்டார். இதை ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6013</td></tr><tr><td>Arabic No</td><td>6013</td></tr><tr><td>Reference</td><td>Book 78 Hadith 44</td></tr></tbody></table></div>
 

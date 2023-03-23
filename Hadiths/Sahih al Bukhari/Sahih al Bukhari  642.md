@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, সালাতের ইক্বামাত(ইকামত/একামত) হয়ে গেছে তখনও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদের এক পাশে এক ব্যক্তির সাথে একান্তে কথা বলছিলেন, অবশেষে যখন লোকদের ঘুম আসছিল তখন তিনি সালাতে দাঁড়ালেন।* (৬৪৩, ৬২৯২; মুসলিম ৩/৩৩, হাঃ ৩৭৬) (আধুনিক প্রকাশনীঃ ৬০৬, ইসলামিক ফাউন্ডেশনঃ ৬১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, সালাতের ইক্বামাত(ইকামত/একামত) হয়ে গেছে তখনও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদের এক পাশে এক ব্যক্তির সাথে একান্তে কথা বলছিলেন, অবশেষে যখন লোকদের ঘুম আসছিল তখন তিনি সালাতে দাঁড়ালেন।* (৬৪৩, ৬২৯২; মুসলিম ৩/৩৩, হাঃ ৩৭৬) (আধুনিক প্রকাশনীঃ ৬০৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>642</td></tr><tr><td>Arabic No</td><td>642</td></tr><tr><td>Reference</td><td>Book 10 Hadith 39</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar Abdullah bin 'Amru] berkata, telah me
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: (ஒரு நாள் இஷா) தொழுகைக்காக ‘இகாமத்’ சொல்லப்பட்டது. (ஆனால்,) நபி (ஸல்) அவர்கள் (மஸ்ஜிதுந் நபவீ) பள்ளிவாச-ன் ஒரு பகுதியில் ஒரு மனிதரிடம் தனியாகப் பேசிக்கொண்டிருந்தார்கள். (எவ்வளவு நேரம் அவர்கள் தொழுகையைத் தாமதப்படுத்தினார்களெனில்) மக்கள் உறங்கிவிடும்வரை அவர்கள் தொழுகைக்கு (வந்து) நிற்கவில்லை. அத்தியாயம் : 10
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: (ஒரு நாள் இஷா) தொழுகைக்காக ‘இகாமத்’ சொல்லப்பட்டது. (ஆனால்,) நபி (ஸல்) அவர்கள் (மஸ்ஜிதுந் நபவீ) பள்ளிவாச-ன் ஒரு பகுதியில் ஒரு மனிதரிடம் தனியாகப் பேசிக்கொண்டிருந்தார்கள். (எவ்வளவு நேரம் அவர்கள் தொழுகையைத் தாமதப்படுத்தினார்களெனில்) மக்கள் உறங்கிவிடும்வரை அவர்கள் தொழுகைக்கு (வந்து) நிற்கவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>642</td></tr><tr><td>Arabic No</td><td>642</td></tr><tr><td>Reference</td><td>Book 10 Hadith 39</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Ma'mar Abdullah bin 'Amru] berkata, telah me
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes bin Malik (r.a.)'den şöyle nakledilmiştir: "Kamet getirildiği zaman Nebi Sallallahu Aleyhi ve Sellem mescidin bir köşesinde adamın biriyle özel olarak konuşuyordu. Cemaat uyuyuncaya kadar namaza yönelmedi. Tekrar: 643, 6292
+Enes bin Malik (r.a.)'den şöyle nakledilmiştir: "Kamet getirildiği zaman Nebi Sallallahu Aleyhi ve Sellem mescidin bir köşesinde adamın biriyle özel olarak konuşuyordu. Cemaat uyuyuncaya kadar namaza yönelmedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>642</td></tr><tr><td>Arabic No</td><td>642</td></tr><tr><td>Reference</td><td>Book 10 Hadith 39</td></tr></tbody></table></div>
 

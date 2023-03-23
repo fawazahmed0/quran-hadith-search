@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, যদি কোন কিছুর মধ্যে অশুভ থাকে, তা হচ্ছে, ঘোড়া, স্ত্রীলোক এবং বাসগৃহ। [২৮৫৯] (আধুনিক প্রকাশনী- ৪৭২২, ইসলামিক ফাউন্ডেশন- ৪৭২৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, যদি কোন কিছুর মধ্যে অশুভ থাকে, তা হচ্ছে, ঘোড়া, স্ত্রীলোক এবং বাসগৃহ। [২৮৫৯] (আধুনিক প্রকাশনী- ৪৭২২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5095</td></tr><tr><td>Arabic No</td><td>5095</td></tr><tr><td>Reference</td><td>Book 67 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abudllah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (அபசகுனம் எனும்) அது எதிலாவது இருக்குமானால் குதிரையிலும் பெண்ணி லும் குடியிருப்பிலும்தான். இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 67
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (அபசகுனம் எனும்) அது எதிலாவது இருக்குமானால் குதிரையிலும் பெண்ணி லும் குடியிருப்பிலும்தான். இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5095</td></tr><tr><td>Arabic No</td><td>5095</td></tr><tr><td>Reference</td><td>Book 67 Hadith 33</td></tr></tbody></table></div>
 

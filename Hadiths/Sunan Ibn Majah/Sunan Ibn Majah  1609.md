@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/১৬০৯। মুআয ইবনু জাবাল (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সেই সত্তার শপথ, যাঁর হাতে আমার প্রাণ! গর্ভপাত হওয়া সন্তানের মাতা তাতে সওয়াব আশা করলে ঐ সন্তান তার নাভিরজ্জু দ্বারা তাকে টেনে জান্নাতে নিয়ে যাবে।
+। মুআয ইবনু জাবাল (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সেই সত্তার শপথ, যাঁর হাতে আমার প্রাণ! গর্ভপাত হওয়া সন্তানের মাতা তাতে সওয়াব আশা করলে ঐ সন্তান তার নাভিরজ্জু দ্বারা তাকে টেনে জান্নাতে নিয়ে যাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1609</td></tr><tr><td>Arabic No</td><td>1609</td></tr><tr><td>Reference</td><td>Book 6 Hadith 177</td></tr></tbody></table></div>
 

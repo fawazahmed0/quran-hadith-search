@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) এক ব্যক্তিকে অপর এক ব্যক্তির প্রশংসা করতে শুনে বললেন, তোমরা তাকে ধ্বংস করে দিলে কিংবা (রাবীর সন্দেহ) বলেছেন, তোমরা লোকটির মেরুদন্ড ভেঙ্গে ফেললে। (৬০৬০) (মুসলিম ৫৩/১৩ হাঃ ৩০০১, আহমাদ ১৯৭১২) (আধুনিক প্রকাশনীঃ ২৪৭১, ইসলামিক ফাউন্ডেশনঃ ২৪৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) এক ব্যক্তিকে অপর এক ব্যক্তির প্রশংসা করতে শুনে বললেন, তোমরা তাকে ধ্বংস করে দিলে কিংবা (রাবীর সন্দেহ) বলেছেন, তোমরা লোকটির মেরুদন্ড ভেঙ্গে ফেললে। (৬০৬০) (মুসলিম ৫৩/১৩ হাঃ ৩০০১, আহমাদ ১৯৭১২) (আধুনিক প্রকাশনীঃ ২৪৭১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2663</td></tr><tr><td>Arabic No</td><td>2663</td></tr><tr><td>Reference</td><td>Book 52 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Shabbah] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு மனிதர் மற்றொரு மனிதரைப் புகழ்ந்துகொண்டி ருப்பதையும் அவரை அளவுக்கதிமாகப் புகழ்ந்து பேசிக்கொண்டிருப்பதையும் செவியுற்றார்கள். உடனே ‘‘நீங்கள் அந்த மனிதரின் முதுகை அழித்து விட்டீர்கள்லிஅல்லதுலிமுறித்துவிட்டீர்கள்” என்று கூறினார்கள். அத்தியாயம் : 52
+அபூமூசா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு மனிதர் மற்றொரு மனிதரைப் புகழ்ந்துகொண்டி ருப்பதையும் அவரை அளவுக்கதிமாகப் புகழ்ந்து பேசிக்கொண்டிருப்பதையும் செவியுற்றார்கள். உடனே ‘‘நீங்கள் அந்த மனிதரின் முதுகை அழித்து விட்டீர்கள்லிஅல்லதுலிமுறித்துவிட்டீர்கள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2663</td></tr><tr><td>Arabic No</td><td>2663</td></tr><tr><td>Reference</td><td>Book 52 Hadith 27</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Shabbah] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Musa r.a.'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem birini öven veya onun hakkında methiyeler dizen birini duymuştu. "Adamın omurgasını kırdınız" buyurdu. Tekrar: 6060
+Ebu Musa r.a.'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem birini öven veya onun hakkında methiyeler dizen birini duymuştu. "Adamın omurgasını kırdınız" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2663</td></tr><tr><td>Arabic No</td><td>2663</td></tr><tr><td>Reference</td><td>Book 52 Hadith 27</td></tr></tbody></table></div>
 

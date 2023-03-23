@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৮, আন্তর্জাতিক নাম্বারঃ ৩৫ ৫৮-(৫৭/৩৫) উবাইদুল্লাহ ইবনু সাঈদ ও আবদ ইবনু হুমায়দ (রহঃ) ... আবূ হুরায়রাহ (রাযিঃ) বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ ঈমানের শাখা সত্তরটির চেয়েও বেশি, আর লজ্জা শরম ঈমানের একটি শাখা। (ইসলামিক ফাউন্ডেশনঃ ৫৯, ইসলামিক সেন্টারঃ ৬০)
+উবাইদুল্লাহ ইবনু সাঈদ ও আবদ ইবনু হুমায়দ (রহঃ) ... আবূ হুরায়রাহ (রাযিঃ) বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ ঈমানের শাখা সত্তরটির চেয়েও বেশি, আর লজ্জা শরম ঈমানের একটি শাখা। (ইসলামিক ফাউন্ডেশনঃ ৫৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>152</td></tr><tr><td>Arabic No</td><td>35.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 59</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Ubaidullah bin Sa'id] dan [Abd bin Humaid] kedua
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இறைநம்பிக்கை (ஈமான்) என்பது எழுபதுக்கும் அதிகமான கிளைகளைக் கொண்டதாகும். நாணமும் இறைநம்பிக்கையின் ஒரு கிளையாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 1
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இறைநம்பிக்கை (ஈமான்) என்பது எழுபதுக்கும் அதிகமான கிளைகளைக் கொண்டதாகும். நாணமும் இறைநம்பிக்கையின் ஒரு கிளையாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>152</td></tr><tr><td>Arabic No</td><td>35.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 59</td></tr></tbody></table></div>
 

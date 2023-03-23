@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... উম্মুল মু‘মিনীন উম্মে হাবীবা (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (রহমতের) ফিরিশতাগণ ঐ সকল পথিক দলের সঙ্গে থাকেন না, যাদের পশুর গলায় ঘন্টা রয়েছে।
+। উম্মু হাবীবাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে দলের পশুর গলায় ঘণ্টা থাকে রহমতের (ফিরিশতা) তাদের সঙ্গী হয় না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2554</td></tr><tr><td>Arabic No</td><td>2554</td></tr><tr><td>Reference</td><td>Book 15 Hadith 78</td></tr></tbody></table></div>
 

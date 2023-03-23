@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০০৪, আন্তর্জাতিক নাম্বারঃ ৫০২ ১০০৪-(২৪৭/৫০২) আহমাদ ইবনু হাম্বাল (রহঃ) ..... ইবনু উমর (রাযিঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তার উট আড়াআড়ি করে বসাতেন। অতঃপর তা সামনে রেখে সালাত আদায় করতেন। (ইসলামিক ফাউন্ডেশনঃ ৯৯৮, ইসলামিক সেন্টারঃ ১০০৯)
+আহমাদ ইবনু হাম্বাল (রহঃ) ..... ইবনু উমর (রাযিঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তার উট আড়াআড়ি করে বসাতেন। অতঃপর তা সামনে রেখে সালাত আদায় করতেন। (ইসলামিক ফাউন্ডেশনঃ ৯৯৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (திறந்தவெளியில் தொழும்போது) தமது வாகன (ஒட்டக)த்தைக் குறுக்கே (தடுப்பாக) வைத்து,அதை நோக்கித் தொழுவார்கள். அத்தியாயம் : 4
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (திறந்தவெளியில் தொழும்போது) தமது வாகன (ஒட்டக)த்தைக் குறுக்கே (தடுப்பாக) வைத்து,அதை நோக்கித் தொழுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
 

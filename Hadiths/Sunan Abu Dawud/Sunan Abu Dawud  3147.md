@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুদবা ইবন খালিদ (রহঃ) ..... মুহাম্মদ ইবন সীরীন (রহঃ) থেকে বর্ণিত। তিনি উম্মু 'আতিয়্যা (রাঃ) হতে মৃত ব্যক্তির গোসল দেওয়ার পদ্ধতি শিক্ষা করেন। তখন তিনি তাকে বলেনঃ প্রথম দুবার কুলপাতা মিশান পানি দিয়ে গোসল দিতে হবে এবং তৃতীয় বার কর্পূর মিশান পানি দিয়ে গোসল দিতে হবে।
+। মুহাম্মাদ ইবনু সীরীন (রহঃ) সূত্রে বর্ণিত। তিনি উম্মু আতিয়্যাহ (রাঃ)-এর নিকট গোসল দেয়ার পদ্ধতি শিখেছেন। মুহাম্মাদ (রহঃ) বলেন, কুলপাতা মিশানো গরম পানি দিয়ে দু’ বার এবং কর্পুর মিশ্রিত পানি দিয়ে একবার গোসল দিতে হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3147</td></tr><tr><td>Arabic No</td><td>3147</td></tr><tr><td>Reference</td><td>Book 21 Hadith 59</td></tr></tbody></table></div>
 

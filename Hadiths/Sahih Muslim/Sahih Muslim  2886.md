@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৭৭৬, আন্তর্জাতিক নাম্বারঃ ১২০৩ ২৭৭৬-(৮৮/১২০৩) আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... ইবনু বুহায়নাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম অবস্থায় মক্কায় (মক্কায়) যাবার পথে নিজের মাথার মধ্যস্থলে শিঙ্গা লাগিয়েছিলেন। (ইসলামিক ফাউন্ডেশন ২৭৫৩, ইসলামীক সেন্টার ২৭৫১)
+আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... ইবনু বুহায়নাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম অবস্থায় মাক্কায় (মক্কায়) যাবার পথে নিজের মাথার মধ্যস্থলে শিঙ্গা লাগিয়েছিলেন। (ইসলামিক ফাউন্ডেশন ২৭৫৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2886</td></tr><tr><td>Arabic No</td><td>1203</td></tr><tr><td>Reference</td><td>Book 15 Hadith 96</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் புஹைனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்கா செல்லும் சாலையில் தமது தலையின் நடுவே குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள். அப்போது அவர்கள் "இஹ்ராம்" கட்டியிருந்தார்கள். அத்தியாயம் : 15
+அப்துல்லாஹ் பின் புஹைனா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்கா செல்லும் சாலையில் தமது தலையின் நடுவே குருதி உறிஞ்சி எடுத்துக்கொண்டார்கள். அப்போது அவர்கள் "இஹ்ராம்" கட்டியிருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2886</td></tr><tr><td>Arabic No</td><td>1203</td></tr><tr><td>Reference</td><td>Book 15 Hadith 96</td></tr></tbody></table></div>
 

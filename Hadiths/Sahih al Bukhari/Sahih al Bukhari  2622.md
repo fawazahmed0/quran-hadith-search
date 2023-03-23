@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, খারাপ উপমা দেয়া আমাদের জন্য শোভনীয় নয় তবু যে দান করে তা ফিরিয়ে নেয়, সে ঐ কুকুরের মতো, যে বমি করে তা আবার খায়। (২৫৮৯) (আধুনিক প্রকাশনীঃ ২৪৩০, ইসলামিক ফাউন্ডেশনঃ ২৪৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, খারাপ উপমা দেয়া আমাদের জন্য শোভনীয় নয় তবু যে দান করে তা ফিরিয়ে নেয়, সে ঐ কুকুরের মতো, যে বমি করে তা আবার খায়। (২৫৮৯) (আধুনিক প্রকাশনীঃ ২৪৩০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2622</td></tr><tr><td>Arabic No</td><td>2622</td></tr><tr><td>Reference</td><td>Book 51 Hadith 54</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdurrahman bin Al Mubarak] telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: தன் அன்பளிப்பைத் திரும்பப் பெற்றுக்கொள்பவன் தன் வாந்தியைத் தானே திரும்பத் தின்கின்ற நாயைப் போன்றவன் ஆவான். (இது போன்ற) கெட்ட உதாரணம் நமக்கு உரியதன்று. இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 51
+நபி (ஸல்) அவர்கள்கூறினார்கள்: தன் அன்பளிப்பைத் திரும்பப் பெற்றுக்கொள்பவன் தன் வாந்தியைத் தானே திரும்பத் தின்கின்ற நாயைப் போன்றவன் ஆவான். (இது போன்ற) கெட்ட உதாரணம் நமக்கு உரியதன்று. இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2622</td></tr><tr><td>Arabic No</td><td>2622</td></tr><tr><td>Reference</td><td>Book 51 Hadith 54</td></tr></tbody></table></div>
 

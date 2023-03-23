@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আদী ইবনু সাবিত (রাঃ) হতে বর্ণিত যে, (তিনি বলেন) আমি বারাআ এবং ইবনু আবূ আওফা (রাঃ)-কে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করতে শুনেছি যে, খাইবারের দিন তাঁরা গাধার গোশত রান্না করার জন্য ডেকচি বসিয়েছিলেন, তখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, ডেকচিগুলো উল্টে ফেল। [৩১৫৩, ৩৩৫৫] (আধুনিক প্রকাশনীঃ ৩৯০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4223</td></tr><tr><td>Arabic No</td><td>4223</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Al-Bara' and Ibn Abi 'Aufa:On the day of Khaibar when the cooking pots 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கைபர் போரின்போது மக்கள் (அடுப்புகளில்) பாத்திரங்களை வைத்து (நாட்டுக் கழுதை இறைச்சியை சமைத்து)விட்டிருக்க நபி (ஸல்) அவர்கள், “பாத்திரங்களைக் கவிழ்த்துவிடுங்கள்” என்று கூறினார்கள். இதை பராஉ (ரலி) அவர்களும் இப்னு அபீஅவ்ஃபா (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் : 64
+கைபர் போரின்போது மக்கள் (அடுப்புகளில்) பாத்திரங்களை வைத்து (நாட்டுக் கழுதை இறைச்சியை சமைத்து)விட்டிருக்க நபி (ஸல்) அவர்கள், “பாத்திரங்களைக் கவிழ்த்துவிடுங்கள்” என்று கூறினார்கள். இதை பராஉ (ரலி) அவர்களும் இப்னு அபீஅவ்ஃபா (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4223</td></tr><tr><td>Arabic No</td><td>4223</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

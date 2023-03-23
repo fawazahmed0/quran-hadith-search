@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন আলী (রহঃ) ... উবায়দুল্লাহ ইবন আবু ইয়াযীদ (রহঃ) বর্ণনা করেন, আবদুর রহমান ইবন তারিক ইবন আলকামা (রহঃ) তাকে তার মাতার সূত্রে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন ইয়ালা (রাঃ) এর বাড়ীর কোন স্থানে আগমন করতেন, তখন কিবলার দিকে মুখ করে দুআ করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2896</td></tr><tr><td>Arabic No</td><td>2896</td></tr><tr><td>Reference</td><td>Book 24 Hadith 279</td></tr></tbody></table></div>
 

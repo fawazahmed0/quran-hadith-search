@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬০১৮, আন্তর্জাতিক নাম্বারঃ ২৩৫৯ ৬০১৮-(.../…) ইয়াহইয়া ইবনু হাবীব, মুহাম্মাদ ইবনু বাশশার ও আসিম ইবনু নাযর তাইমী (রহঃ) ..... আনাস (রাযিঃ) হতে এ বিবরণই রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯১২, ইসলামিক সেন্টার ৫৯৫০)
+(…) ইয়াহইয়া ইবনু হাবীব, মুহাম্মাদ ইবনু বাশশার ও আসিম ইবনু নাযর তাইমী (রহঃ) ..... আনাস (রাযিঃ) হতে এ বিবরণই রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯১২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6124</td></tr><tr><td>Arabic No</td><td>2359.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 182</td></tr></tbody></table></div>
 

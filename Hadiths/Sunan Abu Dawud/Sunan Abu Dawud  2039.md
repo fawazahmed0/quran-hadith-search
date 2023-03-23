@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন হাফস ..... জাবির ইবন আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন যে, কেউ যেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সুরক্ষিত এলাকা হতে গাছের পাতা না পাড়ে এবং কোন বৃক্ষ যেন না কাটে। অবশ্য উটের খাদ্যের জন্য যা প্রয়েজন সেটা ব্যতীত।
+। জাবির ইবনু ‘আব্দুল্লাহ (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ যেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সংরক্ষিত এলাকায় গাছের পাতা না পাড়ে এবং কর্তন না করে, তবে কোমলভাবে পাতায় আঘাত করা যাবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2039</td></tr><tr><td>Arabic No</td><td>2039</td></tr><tr><td>Reference</td><td>Book 11 Hadith 319</td></tr></tbody></table></div>
 

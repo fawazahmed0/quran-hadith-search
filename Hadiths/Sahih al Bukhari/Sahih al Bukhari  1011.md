@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু যায়িদ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বৃষ্টির জন্য দু‘আ করেন এবং নিজের চাদর উল্টিয়ে দেন। (১০০৫) (আধুনিক প্রকাশনীঃ অনুচ্ছেদ পৃষ্ঠা ৪২১ ইসলামিক ফাউন্ডেশনঃ ৯৫৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু যায়িদ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বৃষ্টির জন্য দু‘আ করেন এবং নিজের চাদর উল্টিয়ে দেন। (১০০৫) (আধুনিক প্রকাশনীঃ অনুচ্ছেদ পৃষ্ঠা ৪২১ ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1011</td></tr><tr><td>Arabic No</td><td>1011</td></tr><tr><td>Reference</td><td>Book 15 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] berkata, telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மழைவேண்டிப் பிரார்த்தித்தபோது தமது மேல்துண்டை (வலப் பக்கத் தோளில் கிடந்த பகுதியை இடப் பக்கத் தோள்மீது) மாற்றிப் போட்டுக்கொண்டார்கள்.6 அத்தியாயம் : 15
+அப்துல்லாஹ் பின் ஸைத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மழைவேண்டிப் பிரார்த்தித்தபோது தமது மேல்துண்டை (வலப் பக்கத் தோளில் கிடந்த பகுதியை இடப் பக்கத் தோள்மீது) மாற்றிப் போட்டுக்கொண்டார்கள்.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1011</td></tr><tr><td>Arabic No</td><td>1011</td></tr><tr><td>Reference</td><td>Book 15 Hadith 6</td></tr></tbody></table></div>
 

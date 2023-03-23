@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি খেজুর গাছে তাবীর করার পরে মূল গাছ বিক্রি করল, সে গাছের ফল যে তাবীর করেছে তারই থাকবে, অবশ্য ক্রেতা যদি ফলের শর্ত করে (তবে সে পাবে)। (২২০৩) (আধুনিক প্রকাশনীঃ ২০৪৯, ইসলামিক ফাউন্ডেশনঃ ২০৬৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি খেজুর গাছে তাবীর করার পরে মূল গাছ বিক্রি করল, সে গাছের ফল যে তাবীর করেছে তারই থাকবে, অবশ্য ক্রেতা যদি ফলের শর্ত করে (তবে সে পাবে)। (২২০৩) (আধুনিক প্রকাশনীঃ ২০৪৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2206</td></tr><tr><td>Arabic No</td><td>2206</td></tr><tr><td>Reference</td><td>Book 34 Hadith 152</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் பேரீச்ச மரத்திற்கு மகரந்தச் சேர்க்கை செய்து, அதை வேரோடு விற்றால் மகரந்தச் சேர்க்கை செய்த அவருக்கே மரத்தின் (தற்போதைய) கனிகள் சேரும்; விலைக்கு வாங்கியவர் (அதன் கனிகள் தமக்கே சேர வேண்டும் என்று) முன்நிபந்தனை விதித்திருந்தால் தவிர! இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் பேரீச்ச மரத்திற்கு மகரந்தச் சேர்க்கை செய்து, அதை வேரோடு விற்றால் மகரந்தச் சேர்க்கை செய்த அவருக்கே மரத்தின் (தற்போதைய) கனிகள் சேரும்; விலைக்கு வாங்கியவர் (அதன் கனிகள் தமக்கே சேர வேண்டும் என்று) முன்நிபந்தனை விதித்திருந்தால் தவிர! இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2206</td></tr><tr><td>Arabic No</td><td>2206</td></tr><tr><td>Reference</td><td>Book 34 Hadith 152</td></tr></tbody></table></div>
 

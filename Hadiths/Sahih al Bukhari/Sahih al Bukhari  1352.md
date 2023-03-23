@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার পিতার সাথে আরেকজন শহীদকে দাফন করা হলে আমার মন তাতে তুষ্ট হতে পারল না। অবশেষে আমি তাঁকে (কবর হতে) বের করলাম এবং একটি পৃথক কবরে তাঁকে দাফন করলাম। (১৩৫১) (আধুনিক প্রকাশনীঃ ১২৬৩, ইসলামিক ফাউন্ডেশনঃ ১২৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার পিতার সাথে আরেকজন শহীদকে দাফন করা হলে আমার মন তাতে তুষ্ট হতে পারল না। অবশেষে আমি তাঁকে (কবর হতে) বের করলাম এবং একটি পৃথক কবরে তাঁকে দাফন করলাম। (১৩৫১) (আধুনিক প্রকাশনীঃ ১২৬৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1352</td></tr><tr><td>Arabic No</td><td>1352</td></tr><tr><td>Reference</td><td>Book 23 Hadith 106</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: என் தந்தையுடன் இன்னொருவர் அடக்கம் செய்யப்பட்டார்; ஆயினும், எனது மனம் அதை விரும்பவில்லை. எனவே, அவரது உடலை வெளியில் எடுத்து, அதைத் தனி கப்றில் அடக்கம் செய்தேன். அத்தியாயம் : 23
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: என் தந்தையுடன் இன்னொருவர் அடக்கம் செய்யப்பட்டார்; ஆயினும், எனது மனம் அதை விரும்பவில்லை. எனவே, அவரது உடலை வெளியில் எடுத்து, அதைத் தனி கப்றில் அடக்கம் செய்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1352</td></tr><tr><td>Arabic No</td><td>1352</td></tr><tr><td>Reference</td><td>Book 23 Hadith 106</td></tr></tbody></table></div>
 

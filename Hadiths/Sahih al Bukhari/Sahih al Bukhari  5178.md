@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমাকে পায়া খেতে দাওয়াত দেয়া হলে আমি তা কবুল করব এবং আমাকে যদি কেউ পায়া হাদীয়া দেয়, তবে আমি তা অবশ্যই গ্রহণ করব। [২৫৬৮](আধুনিক প্রকাশনী- ৪৭৯৭, ইসলামিক ফাউন্ডেশন- ৪৮০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমাকে পায়া খেতে দাওয়াত দেয়া হলে আমি তা কবুল করব এবং আমাকে যদি কেউ পায়া হাদীয়া দেয়, তবে আমি তা অবশ্যই গ্রহণ করব। [২৫৬৮](আধুনিক প্রকাশনী- ৪৭৯৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5178</td></tr><tr><td>Arabic No</td><td>5178</td></tr><tr><td>Reference</td><td>Book 67 Hadith 113</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஓர் ஆட்டுக் காலின் கீழ்ப்பகுதி(யை விருந்தாக்கி, அந்த விருந்து)க்கு நான் அழைக்கப்பட்டாலும் நிச்சயம் நான் (அந்த அழைப்பை) ஏற்றுக்கொள்வேன். ஆட்டுக் காலின் கீழ்ப் பகுதி எனக்கு அன்பளிப்பாகத் தரப்பட்டாலும் நிச்சயம் நான் அதைப் பெற்றுக்கொள்வேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.114 அத்தியாயம் : 67
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஓர் ஆட்டுக் காலின் கீழ்ப்பகுதி(யை விருந்தாக்கி, அந்த விருந்து)க்கு நான் அழைக்கப்பட்டாலும் நிச்சயம் நான் (அந்த அழைப்பை) ஏற்றுக்கொள்வேன். ஆட்டுக் காலின் கீழ்ப் பகுதி எனக்கு அன்பளிப்பாகத் தரப்பட்டாலும் நிச்சயம் நான் அதைப் பெற்றுக்கொள்வேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.114 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5178</td></tr><tr><td>Arabic No</td><td>5178</td></tr><tr><td>Reference</td><td>Book 67 Hadith 113</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন ‘আমর ইবন সারহ (রহঃ) .... আবদুল্লাহ্ ইবন ‘আমর ইবন ‘আস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রকৃত জ্ঞান তিন প্রকার, এগুলো ব্যতীত আর সবই বাহুল্য। যথা- (১) আল-কুরআনের মুহকাম আয়াত (যার হুকুম মানসূখ বা বতিল হয়নি), (২) সহীহ ও সঠিক হাদীছ এবং (৩) ইনসাফের সাথে পরিত্যক্ত সম্পত্তি বণ্টনের জ্ঞান।
+। ‘আব্দুল্লাহ ইবনু ‘আমর ইবনুল ‘আস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জ্ঞান তিন প্রকার। এগুলো ছাড়া যা আছে তা অতিরিক্ত। (১) মুহকাম আয়াতসমূহ (২) প্রতিষ্ঠিত হাদীস (৩) ন্যায্যভাবে সম্পত্তি বণ্টনের জ্ঞান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2885</td></tr><tr><td>Arabic No</td><td>2885</td></tr><tr><td>Reference</td><td>Book 19 Hadith 1</td></tr></tbody></table></div>
 

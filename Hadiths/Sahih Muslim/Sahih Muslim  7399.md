@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২৮৯, আন্তর্জাতিক নাম্বারঃ ২৯৪৭ ৭২৮৯-(../...) যুহায়র ইবনু হারব ও মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... কাতাদাহ (রহঃ) হতে এ সূত্রে অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭১৩২, ইসলামিক সেন্টার ৭১৮৪)
+যুহায়র ইবনু হারব ও মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... কাতাদাহ (রহঃ) হতে এ সূত্রে অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭১৩২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7399</td></tr><tr><td>Arabic No</td><td>2947.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 160</td></tr></tbody></table></div>
 

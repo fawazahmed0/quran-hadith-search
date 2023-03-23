@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩৩৬। কাব ইবনু ইয়ায (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ প্রত্যেক উম্মাতের জন্য কোন না কোন ফিতনা রয়েছে। আর আমার উন্মাতের ফিতনা হলো ধন-সম্পদ। সহীহ, সহীহাহ (৫৯৪)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব। আমরা এ হাদীসটি শুধুমাত্র মু'আবিয়া ইবনু সালিহ (রহঃ)-এর সূত্রে জেনেছি।
+। কাব ইবনু ইয়ায (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ প্রত্যেক উম্মাতের জন্য কোন না কোন ফিতনা রয়েছে। আর আমার উন্মাতের ফিতনা হলো ধন-সম্পদ। সহীহ, সহীহাহ (৫৯৪)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব। আমরা এ হাদীসটি শুধুমাত্র মু'আবিয়া ইবনু সালিহ (রহঃ)-এর সূত্রে জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2336</td></tr><tr><td>Arabic No</td><td>2336</td></tr><tr><td>Reference</td><td>Book 36 Hadith 33</td></tr></tbody></table></div>
 

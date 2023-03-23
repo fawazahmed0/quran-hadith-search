@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৫৩। আবূ উমামাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন সম্প্রদায় হিদায়াতের রাস্তা পেয়ে আবার পথভোলা হয়ে থাকলে তা শুধু তাদের বিবাদ ও বাক-বিতণ্ডায় জড়িত হওয়ার কারণেই হয়েছে। তারপর তিনি এ আয়াত পাঠ করেন (অনুবাদ) “এরা শুধু বাকবিতণ্ডার উদ্দেশেই আপনাকে এ কথা বলে। বস্তুত এরা তো এক ঝগড়াটে সম্প্রদায়"- (সূরা যুখরুফ ৫৮)। হাসানঃ ইবনু মা-জাহ (৪৮) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আমরা শুধু হাজ্জাজ ইবনু দীনারের সূত্রেই এ হাদীস জেনেছি। তিনি সিকাহ বর্ণনাকারী ও মধ্যম ধরনের হাদীস বিশারদ। আবূ গালিবের নাম হাযাওয়ার।
+। আবূ উমামাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন সম্প্রদায় হিদায়াতের রাস্তা পেয়ে আবার পথভোলা হয়ে থাকলে তা শুধু তাদের বিবাদ ও বাক-বিতণ্ডায় জড়িত হওয়ার কারণেই হয়েছে। তারপর তিনি এ আয়াত পাঠ করেন (অনুবাদ) “এরা শুধু বাকবিতণ্ডার উদ্দেশেই আপনাকে এ কথা বলে। বস্তুত এরা তো এক ঝগড়াটে সম্প্রদায়"- (সূরা যুখরুফ ৫৮)। হাসানঃ ইবনু মা-জাহ (৪৮) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আমরা শুধু হাজ্জাজ ইবনু দীনারের সূত্রেই এ হাদীস জেনেছি। তিনি সিকাহ বর্ণনাকারী ও মধ্যম ধরনের হাদীস বিশারদ। আবূ গালিবের নাম হাযাওয়ার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3253</td></tr><tr><td>Arabic No</td><td>3253</td></tr><tr><td>Reference</td><td>Book 47 Hadith 305</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Umamah:that the Messenger of Allah (ﷺ) said: "No people go astray after having been guided, but they resort to arguing." Then the Messenger of Allah (ﷺ) recited this Ayah: '...They quoted not the above example except for argument. Nay! But they are quarrelsome people... (43:58)
+Narrated Abu Umamah:that the Messenger of Allah (ﷺ) said: "No people go astray after having been guided, but they resort to arguing." Then the Messenger of Allah (ﷺ) recited this Ayah: '...They quoted not the above example except for argument. Nay! But they are quarrelsome people... (43:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3253</td></tr><tr><td>Arabic No</td><td>3253</td></tr><tr><td>Reference</td><td>Book 47 Hadith 305</td></tr></tbody></table></div>
 

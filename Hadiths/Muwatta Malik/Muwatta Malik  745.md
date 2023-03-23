@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৪৫. মুহাম্মদ ইবন আবু বকর সাকাফী (রহঃ) আনাস ইবন মালিক (রাঃ)-এর সঙ্গে মিনা হইতে আরাফাত ময়দানের দিকে যাইতেছিলেন, তখন তিনি আনাস (রাঃ)-কে বলিলেনঃ আজকের দিনে আপনারা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সহিত কি ধরনের আমল করিতেন? আনাস (রাঃ) বলিলেনঃ কেহ কেহ উচ্চস্বরে ‘লাব্বায়কা’ বলতেন, কেউ বা ‘আল্লাহু আকবার’ বলিতে থাকিতেন। অথচ কেহ কাহাকেও নিষেধ করিতেন না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>745</td></tr><tr><td>Arabic No</td><td>745</td></tr><tr><td>Reference</td><td>Book 20 Hadith 41</td></tr></tbody></table></div>
 

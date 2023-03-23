@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু মাস‘উদ (রাঃ) হতে বর্ণিত। তিনি বলেন, যে ব্যক্তি (স্তন্যে) দুধ আটকিয়ে রাখা বকরী ক্রয় করে তা ফেরত দিতে চায়, সে যেন এর সঙ্গে এক সা‘ পরিমাণ খেজুরও দেয়। আর নবী (পণ্য ক্রয় করার জন্য) বণিক দলের সাথে (শহরে প্রবেশের পূর্বে পথিমধ্যে) সাক্ষাৎ করতে নিষেধ করেছেন। (২১৬৪, মুসলিম ২১/৫, হাঃ ১৫১৮, আহমাদ ৪০৯৬) (আধুনিক প্রকাশনীঃ ২০০১ , ইসলামিক ফাউন্ডেশনঃ ২০১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু মাস‘উদ (রাঃ) হতে বর্ণিত। তিনি বলেন, যে ব্যক্তি (স্তন্যে) দুধ আটকিয়ে রাখা বকরী ক্রয় করে তা ফেরত দিতে চায়, সে যেন এর সঙ্গে এক সা‘ পরিমাণ খেজুরও দেয়। আর নবী (পণ্য ক্রয় করার জন্য) বণিক দলের সাথে (শহরে প্রবেশের পূর্বে পথিমধ্যে) সাক্ষাৎ করতে নিষেধ করেছেন। (২১৬৪, মুসলিম ২১/৫, হাঃ ১৫১৮, আহমাদ ৪০৯৬) (আধুনিক প্রকাশনীঃ ২০০১ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2149</td></tr><tr><td>Arabic No</td><td>2149</td></tr><tr><td>Reference</td><td>Book 34 Hadith 101</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: ‘‘மடி கனக்கச் செய்யப்பட்ட ஓர் ஆட்டை யாரேனும் வாங்கி, அதைத் திருப்பிக் கொடுப்பதாக இருந்தால், அத்துடன் ஒரு ஸாஉ பேரீச்சம் பழம் சேர்த்துக் கொடுக் கட்டும்! மேலும், (சந்தைக்கு வரும்) வியாபாரிகளை எதிர்கொண்டு (வழியிலேயே சந்தித்து) சரக்குகளை வாங்குவதற்கு நபி (ஸல்) அவர்கள் தடை விதித்தார்கள். அத்தியாயம் : 34
+இப்னு மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: ‘‘மடி கனக்கச் செய்யப்பட்ட ஓர் ஆட்டை யாரேனும் வாங்கி, அதைத் திருப்பிக் கொடுப்பதாக இருந்தால், அத்துடன் ஒரு ஸாஉ பேரீச்சம் பழம் சேர்த்துக் கொடுக் கட்டும்! மேலும், (சந்தைக்கு வரும்) வியாபாரிகளை எதிர்கொண்டு (வழியிலேயே சந்தித்து) சரக்குகளை வாங்குவதற்கு நபி (ஸல்) அவர்கள் தடை விதித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2149</td></tr><tr><td>Arabic No</td><td>2149</td></tr><tr><td>Reference</td><td>Book 34 Hadith 101</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Mes'ud r.a. şöyle demiştir: Memesinde süt biriktirilmiş bir koyun satın alan kimse bunu geri vermek istediğinde bir sa' hurma ile birlikte geri versin. Nebi Sallallahu Aleyhi ve Sellem satıcıların elindeki malları pazara getirmeden önce onların yoluna çıkıp onlardan mal satın almayı yasakladı. Tekrar: 2164
+Abdullah İbn Mes'ud r.a. şöyle demiştir: Memesinde süt biriktirilmiş bir koyun satın alan kimse bunu geri vermek istediğinde bir sa' hurma ile birlikte geri versin. Nebi Sallallahu Aleyhi ve Sellem satıcıların elindeki malları pazara getirmeden önce onların yoluna çıkıp onlardan mal satın almayı yasakladı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2149</td></tr><tr><td>Arabic No</td><td>2149</td></tr><tr><td>Reference</td><td>Book 34 Hadith 101</td></tr></tbody></table></div>
 

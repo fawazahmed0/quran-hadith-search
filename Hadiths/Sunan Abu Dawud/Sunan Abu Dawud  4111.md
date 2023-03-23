@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মুহাম্মদ (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ (অর্থ) ‘‘আপনি মু’মিন নারীদের বলুন তাদের দৃষ্টি সংযত রাখতে’’ এ আয়াতের হুকুম পরবর্তী আয়াতঃ (অর্থ) ‘‘বৃদ্ধা নারী, যারা বিবাহের আশা রাখে না’’ দ্বারা বাতিল হয়ে যাওয়ায় এসব মহিলারা বাদ পড়েন, যাদের বিবাহের যোগ্যতা নেই।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘‘ঈমানদার নারীদের বলুন, তারা যেন নিজেদের দৃষ্টি অবনত রাখে’’- আলোচ্য আয়াতকে আয়াত দ্বারা ব্যতিক্রম করা হয়েছেঃ ‘‘এবং বৃদ্ধা মহিলা যাদের বিয়ের যোগ্যতা নেই।’’[1] সনদ হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 34 Hadith 92</td></tr></tbody></table></div>
 

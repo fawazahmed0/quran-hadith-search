@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মুহাম্মদ ইবন হাম্বল (রহঃ) .... ওয়ালীদ (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি ছাওর (রহঃ)-কে এ হাদীছ সম্পর্কে জিজ্ঞাসা করি। তখন তিনি খালিদ ইবন মা‘দান হতে, তিনি জুবায়র ইবন নুফায়র সূত্রে তাঁর পিতা হতে, তিনি ‘আওফ ইবন মালিক আশজা'ই (রাঃ) হতে অনুরূপ হাদীছ বর্ণনা করেন।
+। ‘আওফ ইবনু মালিক আল-আশজা‘ঈ (রাঃ) এ সূত্রে উপরের হাদীসের বিষয়বস্তুর অনুরূপ হাদীস বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2720</td></tr><tr><td>Arabic No</td><td>2720</td></tr><tr><td>Reference</td><td>Book 15 Hadith 244</td></tr></tbody></table></div>
 

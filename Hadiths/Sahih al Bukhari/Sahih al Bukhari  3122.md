@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আমার জন্য গানীমাত হালাল করা হয়েছে। (৩৩৫) (আধুনিক প্রকাশনীঃ ২৮৮৮, ইসলামিক ফাউন্ডেশনঃ ২৮৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আমার জন্য গানীমাত হালাল করা হয়েছে। (৩৩৫) (আধুনিক প্রকাশনীঃ ২৮৮৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3122</td></tr><tr><td>Arabic No</td><td>3122</td></tr><tr><td>Reference</td><td>Book 57 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Sinan] telah bercerita kepada kami [Hu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: போர்ச் செல்வங்கள் எனக்கு (மட்டும்) அனுமதிக்கப்பட்டுள்ளன. (எனக்கு முந்தைய இறைத்தூதர்களுக்கு அனுமதிக் கப்படவில்லை).36 இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 57
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: போர்ச் செல்வங்கள் எனக்கு (மட்டும்) அனுமதிக்கப்பட்டுள்ளன. (எனக்கு முந்தைய இறைத்தூதர்களுக்கு அனுமதிக் கப்படவில்லை).36 இதை ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3122</td></tr><tr><td>Arabic No</td><td>3122</td></tr><tr><td>Reference</td><td>Book 57 Hadith 31</td></tr></tbody></table></div>
 

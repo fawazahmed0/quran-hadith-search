@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেছেনঃ ফিতরাত (অর্থাৎ মানুষের জন্মগত স্বভাব) পাঁচটিঃ খাত্না করা, ক্ষুর ব্যবহার করা (নাভির নিম্নে), বগলের পশম উপড়ে ফেলা, নখ কাটা ও গোঁফ খাটো করা। [1] [৫৮৯১, ২৬৯৭; মুসলিম ২/১৬, হাঃ ২৫৭, আহমাদ ৭১৪২] (আধুনিক প্রকাশনী- ৫৪৬১, ইসলামিক ফাউন্ডেশন- ৫৩৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেছেনঃ ফিতরাত (অর্থাৎ মানুষের জন্মগত স্বভাব) পাঁচটিঃ খাত্না করা, ক্ষুর ব্যবহার করা (নাভির নিম্নে), বগলের পশম উপড়ে ফেলা, নখ কাটা ও গোঁফ খাটো করা। [1] [৫৮৯১, ২৬৯৭; মুসলিম ২/১৬, হাঃ ২৫৭, আহমাদ ৭১৪২] (আধুনিক প্রকাশনী- ৫৪৬১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5889</td></tr><tr><td>Arabic No</td><td>5889</td></tr><tr><td>Reference</td><td>Book 77 Hadith 106</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Sufyan], [A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: விருத்தசேதனம் செய்வது, மர்ம உறுப்பின் முடியைக் களைந்திட சவரக் கத்தியை உபயோகிப்பது, அக்குள் முடி களை அகற்றுவது, நகங்களை வெட்டிக் கொள்வது, மீசையைக் கத்தரித்துக் கொள்வது ஆகிய இந்த ஐந்து விஷயங் களும் இயற்கை மரபுகளில் அடங்கும் இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 77
+நபி (ஸல்) அவர்கள் கூறினார்கள்: விருத்தசேதனம் செய்வது, மர்ம உறுப்பின் முடியைக் களைந்திட சவரக் கத்தியை உபயோகிப்பது, அக்குள் முடி களை அகற்றுவது, நகங்களை வெட்டிக் கொள்வது, மீசையைக் கத்தரித்துக் கொள்வது ஆகிய இந்த ஐந்து விஷயங் களும் இயற்கை மரபுகளில் அடங்கும் இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5889</td></tr><tr><td>Arabic No</td><td>5889</td></tr><tr><td>Reference</td><td>Book 77 Hadith 106</td></tr></tbody></table></div>
 

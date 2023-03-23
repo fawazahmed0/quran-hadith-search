@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উকবাহ ইবনু ‘আমির (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা বের হলেন এবং উহুদে পৌঁছে মৃতের জন্য যেরূপ (জানাযার) সালাত আদায় করা হয় উহুদের শহীদানের জন্য অনুরূপ সালাত আদায় করলেন। অতঃপর ফিরে এসে মিম্বারে তাশরীফ রেখে বললেনঃ আমি হবো তোমাদের জন্য অগ্রে প্রেরিত এবং তোমাদের জন্য সাক্ষী। আল্লাহ্‌র কসম! এ মুহূর্তে আমি অবশ্যই আমার হাউয (হাউয-ই-কাউসার) দেখছি। আর অবশ্যই আমাকে পৃথিবীর ভান্ডারসমূহের চাবিগুচ্ছ প্রদান করা হয়েছে। অথবা (বর্ণনাকারী বলেছেন) পৃথিবীর চাবিগুচ্ছ [1] আর আল্লাহ্‌র কসম! তোমরা আমার পরে শির্ক করবে এ আশঙ্কা আমি করি না। তবে তোমাদের ব্যাপারে আমার আশঙ্কা যে, তোমরা পার্থিব সম্পদ লাভে প্রতিযোগিতায় লিপ্ত হবে। (৩৫৯৬, ৪০৪২, ৪০৮৫, ৬৪২৬, ৬৫৯০) (আধুনিক প্রকাশনীঃ ১২৫৬, ইসলামিক ফাউন্ডেশনঃ ১২৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উকবাহ ইবনু ‘আমির (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা বের হলেন এবং উহুদে পৌঁছে মৃতের জন্য যেরূপ (জানাযার) সালাত আদায় করা হয় উহুদের শহীদানের জন্য অনুরূপ সালাত আদায় করলেন। অতঃপর ফিরে এসে মিম্বারে তাশরীফ রেখে বললেনঃ আমি হবো তোমাদের জন্য অগ্রে প্রেরিত এবং তোমাদের জন্য সাক্ষী। আল্লাহ্‌র কসম! এ মুহূর্তে আমি অবশ্যই আমার হাউয (হাউয-ই-কাউসার) দেখছি। আর অবশ্যই আমাকে পৃথিবীর ভান্ডারসমূহের চাবিগুচ্ছ প্রদান করা হয়েছে। অথবা (বর্ণনাকারী বলেছেন) পৃথিবীর চাবিগুচ্ছ [1] আর আল্লাহ্‌র কসম! তোমরা আমার পরে শির্ক করবে এ আশঙ্কা আমি করি না। তবে তোমাদের ব্যাপারে আমার আশঙ্কা যে, তোমরা পার্থিব সম্পদ লাভে প্রতিযোগিতায় লিপ্ত হবে। (৩৫৯৬, ৪০৪২, ৪০৮৫, ৬৪২৬, ৬৫৯০) (আধুনিক প্রকাশনীঃ ১২৫৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1344</td></tr><tr><td>Arabic No</td><td>1344</td></tr><tr><td>Reference</td><td>Book 23 Hadith 99</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உக்பா பின் ஆமிர் (ரலி) அவர்கள் கூறியதாவது: ஒரு நாள் நபி (ஸல்) அவர்கள் (தமது இல்லத்திலிருந்து) புறப்பட்டு வந்து, இறந்தவர்களுக்காக (ஜனாஸா தொழுகை) தொழுவிப்பதைப் போன்று ‘உஹுத்’ போர் உயிர்த்தியாகிகளுக்காக (ஜனாஸா தொழுகை) தொழுவித்தார் கள். பிறகு சொற்பொழிவுமேடை (மிம் பர்)க்குத் திரும்பி வந்து, “உங்களுக்காக நிச்சயம் நான் (மறுமையில்) காத்திருப்பேன். உங்களுக்கு நான் சாட்சியும் ஆவேன். அல்லாஹ்வின் மீதாணையாக! நான் இப்போது (கவ்ஸர் எனும்) எனது தடாகத்தைக் காண்கிறேன். மேலும், எனக்கு ‘பூமியின் கருவூலத் திறவுகோல்கள்’ அல்லது ‘பூமியின் திறவுகோல்கள்’ வழங்கப்பட்டுள்ளன. அல்லாஹ்வின் மீதாணையாக! என(து இறப்பு)க்குப் பின்னால் நீங்கள் இணை கற்பிப்பவர்களாக ஆகிவிடுவீர்களோ என்று நான் அஞ்சவில்லை. எனினும், நீங்கள் உலகத்திற்காக ஒருவரோடொரு வர் போட்டியிட்டு (மோதி)க்கொள்வீர்களோ என்றுதான் நான் அஞ்சுகிறேன்” என்று சொன்னார்கள். அத்தியாயம் : 23
+உக்பா பின் ஆமிர் (ரலி) அவர்கள் கூறியதாவது: ஒரு நாள் நபி (ஸல்) அவர்கள் (தமது இல்லத்திலிருந்து) புறப்பட்டு வந்து, இறந்தவர்களுக்காக (ஜனாஸா தொழுகை) தொழுவிப்பதைப் போன்று ‘உஹுத்’ போர் உயிர்த்தியாகிகளுக்காக (ஜனாஸா தொழுகை) தொழுவித்தார் கள். பிறகு சொற்பொழிவுமேடை (மிம் பர்)க்குத் திரும்பி வந்து, “உங்களுக்காக நிச்சயம் நான் (மறுமையில்) காத்திருப்பேன். உங்களுக்கு நான் சாட்சியும் ஆவேன். அல்லாஹ்வின் மீதாணையாக! நான் இப்போது (கவ்ஸர் எனும்) எனது தடாகத்தைக் காண்கிறேன். மேலும், எனக்கு ‘பூமியின் கருவூலத் திறவுகோல்கள்’ அல்லது ‘பூமியின் திறவுகோல்கள்’ வழங்கப்பட்டுள்ளன. அல்லாஹ்வின் மீதாணையாக! என(து இறப்பு)க்குப் பின்னால் நீங்கள் இணை கற்பிப்பவர்களாக ஆகிவிடுவீர்களோ என்று நான் அஞ்சவில்லை. எனினும், நீங்கள் உலகத்திற்காக ஒருவரோடொரு வர் போட்டியிட்டு (மோதி)க்கொள்வீர்களோ என்றுதான் நான் அஞ்சுகிறேன்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1344</td></tr><tr><td>Arabic No</td><td>1344</td></tr><tr><td>Reference</td><td>Book 23 Hadith 99</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ukbe İbn Amir r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bir gün çıkarak (Uhud dağına gidip), Uhud şehitleri için cenaze namazı gibi namaz kıldı. Sonra (Medine'ye gelerek) minbere çıktı ve şöyle buyurdu: "Ben sizin öncünüzüm (ahirete sizden önce gideninizim). Ben sizin için şahidim. Vallahi ben şu an havuzuma bakıyorum. Bana yeryüzünün hazineleri (yahut anahtarları) verildi. Vallahi ben sizin benden sonra şirk'e düşeceğinizden korkmuyorum, ancak sizin (dünya için) birbiriniz ile rekabet etmenizden korkarım. Tekrar: 3596, 4085, 6590
+Ukbe İbn Amir r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bir gün çıkarak (Uhud dağına gidip), Uhud şehitleri için cenaze namazı gibi namaz kıldı. Sonra (Medine'ye gelerek) minbere çıktı ve şöyle buyurdu: "Ben sizin öncünüzüm (ahirete sizden önce gideninizim). Ben sizin için şahidim. Vallahi ben şu an havuzuma bakıyorum. Bana yeryüzünün hazineleri (yahut anahtarları) verildi. Vallahi ben sizin benden sonra şirk'e düşeceğinizden korkmuyorum, ancak sizin (dünya için) birbiriniz ile rekabet etmenizden korkarım. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1344</td></tr><tr><td>Arabic No</td><td>1344</td></tr><tr><td>Reference</td><td>Book 23 Hadith 99</td></tr></tbody></table></div>
 

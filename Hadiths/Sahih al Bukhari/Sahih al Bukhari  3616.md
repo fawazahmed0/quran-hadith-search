@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামএকদিন অসুস্থ একজন বেদুঈনকে দেখতে গেলেন। রাবী বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অভ্যাস ছিল যে, পীড়িত ব্যক্তিকে দেখতে গেলে বলতেন, কোন দুশ্চিন্তার কারণ নেই, ইশাআল্লাহ গোনাহ হতে তুমি পবিত্র হয়ে যাবে। ঐ বেদুঈনকেও তিনি বললেন। চিন্তা করো না গুনাহ হতে তুমি পবিত্র হয়ে যাবে ইনশাআল্লাহ। বেদুঈন বলল, আপনি বলেছেন গোনাহ হতে তুমি পবিত্র হয়ে যাবে। তা নয়। বরং এতো এমন এক জ্বর যা বয়োঃবৃদ্ধের উপর প্রভাব ফেলছে। তাকে কবরের সাক্ষাৎ করাবে। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তাই হোক। (৫৬৫৬, ৫৬৬২, ৭৪৭০) (আধুনিক প্রকাশনীঃ ৩৩৪৮, ইসলামিক ফাউন্ডেশনঃ ৩৩৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামএকদিন অসুস্থ একজন বেদুঈনকে দেখতে গেলেন। রাবী বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অভ্যাস ছিল যে, পীড়িত ব্যক্তিকে দেখতে গেলে বলতেন, কোন দুশ্চিন্তার কারণ নেই, ইশাআল্লাহ গোনাহ হতে তুমি পবিত্র হয়ে যাবে। ঐ বেদুঈনকেও তিনি বললেন। চিন্তা করো না গুনাহ হতে তুমি পবিত্র হয়ে যাবে ইনশাআল্লাহ। বেদুঈন বলল, আপনি বলেছেন গোনাহ হতে তুমি পবিত্র হয়ে যাবে। তা নয়। বরং এতো এমন এক জ্বর যা বয়োঃবৃদ্ধের উপর প্রভাব ফেলছে। তাকে কবরের সাক্ষাৎ করাবে। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তাই হোক। (৫৬৫৬, ৫৬৬২, ৭৪৭০) (আধুনিক প্রকাশনীঃ ৩৩৪৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3616</td></tr><tr><td>Arabic No</td><td>3616</td></tr><tr><td>Reference</td><td>Book 61 Hadith 123</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) paid a visit to a sick bedouin. The Prophe
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (நோயுற்றிருந்த) ஒரு கிராமவாசியிடம், அவரை நலம் விசாரிக்கச் சென்றார்கள். நபி (ஸல்) அவர்கள் ஒரு நோயாளியிடம் நலம் விசாரிக்கச் சென்றால், “கவலைப்பட வேண்டாம். இறைவன் நாடினால் (இது உங்கள் பாவத்தை நீக்கி) உங்களைத் தூய்மைப்படுத்திவிடும்” என்று கூறுவார்கள். (தமது அந்த வழக்கப்படியே) நபி (ஸல்) அவர்கள் அக்கிராமவாசியிடம், “கவலை வேண்டாம். இறைவன் நாடினால் (இது) உங்களைத் தூய்மைப்படுத்தும்” என்று சொன்னார்கள். (இதைக் கேட்ட) அந்தக் கிராமவாசி, “நான் தூய்மை பெற்றுவிடுவேனா? முடியாது. இதுவோ வயது முதிர்ந்த பெரியவரைப் பீடிக்கின்ற சூடாகிக் கொதிக்கின்ற காய்ச்சலாகும். அது அவரை மண்ணறைகளைச் சந்திக்க வைக்கும்” என்று சொன்னார். உடனே நபி (ஸல்) அவர்கள், “அப்படியென்றால் ஆம். (அப்படித்தான் நடக்கும்.)” என்று கூறினார்கள்.138 அத்தியாயம் : 61
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (நோயுற்றிருந்த) ஒரு கிராமவாசியிடம், அவரை நலம் விசாரிக்கச் சென்றார்கள். நபி (ஸல்) அவர்கள் ஒரு நோயாளியிடம் நலம் விசாரிக்கச் சென்றால், “கவலைப்பட வேண்டாம். இறைவன் நாடினால் (இது உங்கள் பாவத்தை நீக்கி) உங்களைத் தூய்மைப்படுத்திவிடும்” என்று கூறுவார்கள். (தமது அந்த வழக்கப்படியே) நபி (ஸல்) அவர்கள் அக்கிராமவாசியிடம், “கவலை வேண்டாம். இறைவன் நாடினால் (இது) உங்களைத் தூய்மைப்படுத்தும்” என்று சொன்னார்கள். (இதைக் கேட்ட) அந்தக் கிராமவாசி, “நான் தூய்மை பெற்றுவிடுவேனா? முடியாது. இதுவோ வயது முதிர்ந்த பெரியவரைப் பீடிக்கின்ற சூடாகிக் கொதிக்கின்ற காய்ச்சலாகும். அது அவரை மண்ணறைகளைச் சந்திக்க வைக்கும்” என்று சொன்னார். உடனே நபி (ஸல்) அவர்கள், “அப்படியென்றால் ஆம். (அப்படித்தான் நடக்கும்.)” என்று கூறினார்கள்.138 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3616</td></tr><tr><td>Arabic No</td><td>3616</td></tr><tr><td>Reference</td><td>Book 61 Hadith 123</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) paid a visit to a sick bedouin. The Prophe
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'dan rivayete göre "Nebi Sallallahu Aleyhi ve Sellem hasta ziyaretinde bulunmak üzere bedevi bir arabın yanına girdi. Nebi Sallallahu Aleyhi ve Sellem ziyaret etmek amacıyla bir hastanın yanına girdiği vakit: Hayırdır, inşallah (günahlardan) bir arınmadır, dedi. Bedeviye de: Hayırdır, inşallah (günahlarından) bir arınmadır, dedi. Bedevi: Sen arınmadır mı dedin? Hayır, aksine o oldukça yaşlı bir ihtiyar üzerine kaynayıp taşan ve ona kabirleri ziyaret ettirecek bir hummadır, dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: O zaman öyle olsun, diye buyurdu." Tekrar: 5656, 5662 ve 7470
+İbn Abbas r.a.'dan rivayete göre "Nebi Sallallahu Aleyhi ve Sellem hasta ziyaretinde bulunmak üzere bedevi bir arabın yanına girdi. Nebi Sallallahu Aleyhi ve Sellem ziyaret etmek amacıyla bir hastanın yanına girdiği vakit: Hayırdır, inşallah (günahlardan) bir arınmadır, dedi. Bedeviye de: Hayırdır, inşallah (günahlarından) bir arınmadır, dedi. Bedevi: Sen arınmadır mı dedin? Hayır, aksine o oldukça yaşlı bir ihtiyar üzerine kaynayıp taşan ve ona kabirleri ziyaret ettirecek bir hummadır, dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: O zaman öyle olsun, diye buyurdu." Tekrar: 5656, 5662 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3616</td></tr><tr><td>Arabic No</td><td>3616</td></tr><tr><td>Reference</td><td>Book 61 Hadith 123</td></tr></tbody></table></div>
 

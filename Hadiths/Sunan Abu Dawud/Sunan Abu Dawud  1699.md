@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... আসমা বিন্‌তে আবু বাক্‌র (রাঃ) বলেন, আমি বললাম, ইয়া রাসূলাল্লাহ্‌! যুবায়ের (তার স্বামী) তার যরে যে মাল আনেন তা ব্যতীত আমার কোন সম্পদ নাই। আমি কি তা হতে দান-খয়রাত করতে পারি? তিনি বলেনঃ হ্যাঁ তুমি তা হতে দান করবে এবং সম্পদ জমা করবে না। কেননা তুমি তা ধরে রাখলে তোমার রিযিকও স্থগিত করে রাখা হবে। (তিরমিযী, নাসাঈ, বুখারী, মুসলিম)।
+। আসমা বিনতু আবূ বাকর রাযিয়াল্লাহু ‘আনহু সূত্রে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রসূল! (আমার স্বামী) যুবাইর (রাঃ) ঘরে যা উপার্জন করে নিয়ে আসেন তা ছাড়া অন্য কোনো মাল আমার নেই। সুতরাং আমি কি তা থেকে সাদাকা করতে পারি? তিনি বললেনঃ সাদাকা করো, ধরে রেখো না, তাহলে তোমার (রিযিক্ব) ধরে রাখা হবে।[1] সহীহ : বুখারী ও মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1699</td></tr><tr><td>Arabic No</td><td>1699</td></tr><tr><td>Reference</td><td>Book 9 Hadith 144</td></tr></tbody></table></div>
 

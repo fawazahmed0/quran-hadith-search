@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন ইউনুস (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি ইলম হাসিল করার জন্য কোন রাস্তা অতিক্রম করে, আল্লাহ্‌ তার জন্য জান্নাতের রাস্তা সহজ করে দেন। আর যে ব্যক্তির আমল তাকে পেছনে ফেলে রাখবে, তার বংশ-গরিমা তাকে এগিয়ে দেবে না।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি ইলম অর্জনের জন্য কোনো পথ অবলম্বন করলে তার বিনিময়ে আল্লাহ তার জান্নাতের পথ সুগম করে দেন। যার আমল তাকে পিছিয়ে রেখেছে, তার বংশ গৌরব তাকে এগিয়ে দিতে পারে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3643</td></tr><tr><td>Arabic No</td><td>3643</td></tr><tr><td>Reference</td><td>Book 26 Hadith 3</td></tr></tbody></table></div>
 

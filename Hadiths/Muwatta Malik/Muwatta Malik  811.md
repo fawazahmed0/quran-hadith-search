@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Hisyam bin Urwah] dari [Bapaknya] b
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hişam'ın babası Urve naklediyor: Ben Abdullah b. Zübeyr'in Ten'im'den ihrama girdiğini gördüm. Daha sonra da Beytullah'ın etrafında üç şavt hızlı hızlı tavaf yaptığını gördüm.[82]
+Hişam'ın babası Urve naklediyor: Ben Abdullah b. Zübeyr'in Ten'im'den ihrama girdiğini gördüm. Daha sonra da Beytullah'ın etrafında üç şavt hızlı hızlı tavaf yaptığını gördüm
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>811</td></tr><tr><td>Arabic No</td><td>811</td></tr><tr><td>Reference</td><td>Book 20 Hadith 107</td></tr></tbody></table></div>
 

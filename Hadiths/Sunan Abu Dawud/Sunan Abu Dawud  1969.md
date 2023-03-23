@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল কা‘নবী (রহঃ) ...... ইবন উমার (রাঃ) হতে বর্ণিত। তিনি কংকর নিক্ষেপের জন্য কুরবানীর পরে এগার, বারো বা তেরো যিলহজ্জ তারিখে পায়ে হেঁটে আসতেন এবং কংকর নিক্ষেপের পর প্রত্যাবর্তন করতেন। অতঃপর তিনি খবর দেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ করতেন।
+। ইবনু ‘উমার (রাযি.) সূত্রে বর্ণিত। তিনি কংকর মারার জন্য (কুরবানীর পরের) তিন দিন জামরাতসমূহে পায়ে হেঁটে আসা-যাওয়া করতেন। তিনি বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামও এরূপ করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 11 Hadith 249</td></tr></tbody></table></div>
 

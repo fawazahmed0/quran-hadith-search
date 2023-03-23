@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালমা ইবন শাবীব (রহঃ) .... আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন বসতেন, তখন তিনি হাঁটু উপরের দিক রেখে, তা হাত দিয়ে পরিবেষ্টন করে বসতেন।
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর হাঁটুদ্বয় খাড়া করে তা স্বীয় হাত দ্বারা পেঁচিয়ে ধরে বসতেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, আব্দুল্লাহ ইবনু ইবরাহীম হাদীস শাস্ত্রে প্রত্যাখ্যাত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4846</td></tr><tr><td>Arabic No</td><td>4846</td></tr><tr><td>Reference</td><td>Book 43 Hadith 74</td></tr></tbody></table></div>
 

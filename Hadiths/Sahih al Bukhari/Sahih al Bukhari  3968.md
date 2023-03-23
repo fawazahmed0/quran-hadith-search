@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কায়স ইবনু উবাদ (রহ.) হতে বর্ণিত। (তিনি বলেছেন) আমি আবূ যার (রাঃ)-কে কসম করে বলতে শুনেছি যে, উপর্যুক্ত আয়াতগুলো উল্লিখিত বদরের দিন ঐ ছয় ব্যক্তি সম্পর্কে অবতীর্ণ হয়েছিল। [৩৯৬৬] (আধুনিক প্রকাশনীঃ ৩৬৭৬, ইসলামিক ফাউন্ডেশনঃ ৩৬৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কায়স ইবনু উবাদ (রহ.) হতে বর্ণিত। (তিনি বলেছেন) আমি আবূ যার (রাঃ)-কে কসম করে বলতে শুনেছি যে, উপর্যুক্ত আয়াতগুলো উল্লিখিত বদরের দিন ঐ ছয় ব্যক্তি সম্পর্কে অবতীর্ণ হয়েছিল। [৩৯৬৬] (আধুনিক প্রকাশনীঃ ৩৬৭৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 64 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Ja'far] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கைஸ் பின் உபாத் (ரஹ்) அவர்கள் கூறியதாவது: “இந்த வசனங்கள் (22: 19, 20, 21) பத்ர் போரின்போது (முன்னின்று போரிட்ட) ஆறு பேர்கள் குறித்து அருளப்பட்டன” என்று அபூதர் (ரலி) அவர்கள் (அல்லாஹ்வின் மீது) ஆணையிட்டுச் சொன்னார்கள்.17 அத்தியாயம் : 64
+கைஸ் பின் உபாத் (ரஹ்) அவர்கள் கூறியதாவது: “இந்த வசனங்கள் (22: 19, 20, 21) பத்ர் போரின்போது (முன்னின்று போரிட்ட) ஆறு பேர்கள் குறித்து அருளப்பட்டன” என்று அபூதர் (ரலி) அவர்கள் (அல்லாஹ்வின் மீது) ஆணையிட்டுச் சொன்னார்கள்.17 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 64 Hadith 21</td></tr></tbody></table></div>
 

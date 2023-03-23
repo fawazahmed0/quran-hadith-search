@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কায়েস ইবনু সা‘দ আনসারী (রাঃ) হতে বর্ণিত। আর তিনি ছিলেন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পতাকাবাহী, তিনি হজ্জের সংকল্প করেন, তখন তিনি মাথার চুল আঁচড়ে নিলেন। (মুসলিম ৪৪/৪ হাঃ ২৪০৭, আহমাদ ১৬৫৩৮) (আধুনিক প্রকাশনীঃ ২৭৫৩, ইসলামিক ফাউন্ডেশনঃ ২৭৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কায়েস ইবনু সা‘দ আনসারী (রাঃ) হতে বর্ণিত। আর তিনি ছিলেন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পতাকাবাহী, তিনি হজ্জের সংকল্প করেন, তখন তিনি মাথার চুল আঁচড়ে নিলেন। (মুসলিম ৪৪/৪ হাঃ ২৪০৭, আহমাদ ১৬৫৩৮) (আধুনিক প্রকাশনীঃ ২৭৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2974</td></tr><tr><td>Arabic No</td><td>2974</td></tr><tr><td>Reference</td><td>Book 56 Hadith 183</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Sa'id bin Abi Maryam] berkata telah bercerita kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸஅலபா பின் அபீமாலிக் அல் குரழீ (ரஹ்) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களின் கொடியை எடுத்துச் செல்பவரா யிருந்த கைஸ் பின் சஅத் அல்அன்சாரி (ரலி) அவர்கள் ஹஜ் செய்ய விரும்பிய போது தலைவாரிக் கொண்டார்கள். அத்தியாயம் : 56
+ஸஅலபா பின் அபீமாலிக் அல் குரழீ (ரஹ்) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களின் கொடியை எடுத்துச் செல்பவரா யிருந்த கைஸ் பின் சஅத் அல்அன்சாரி (ரலி) அவர்கள் ஹஜ் செய்ய விரும்பிய போது தலைவாரிக் கொண்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2974</td></tr><tr><td>Arabic No</td><td>2974</td></tr><tr><td>Reference</td><td>Book 56 Hadith 183</td></tr></tbody></table></div>
 

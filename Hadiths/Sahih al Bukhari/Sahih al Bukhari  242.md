@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَكَرِهَهُ الْحَسَنُ وَأَبُو الْعَالِيَةِ وَقَالَ عَطَاءٌ التَّيَمُّمُ أَحَبُّ إِلَيَّ مِنَ الْوُضُوءِ بِالنَّبِيذِ وَاللَّبَنِ. হাসান (রহ.) ও আবুল ‘আলিয়াহ (রহ.) একে মাকরূহ বলেছেন। ‘আত্বা (রহ.) বলেনঃ নবীয এবং দুধ দিয়ে উযূ করার চেয়ে তায়াম্মুম করাই আমার নিকট অধিক পছন্দনীয়। ২৪২. ‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে সকল পানীয় নেশা সৃষ্টি করে, তা হারাম। (৫৫৮৫, ৫৫৮৬ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ২৩৫, ইসলামিক ফাউন্ডেশনঃ ২৪১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَكَرِهَهُ الْحَسَنُ وَأَبُو الْعَالِيَةِ وَقَالَ عَطَاءٌ التَّيَمُّمُ أَحَبُّ إِلَيَّ مِنَ الْوُضُوءِ بِالنَّبِيذِ وَاللَّبَنِ. হাসান (রহ.) ও আবুল ‘আলিয়াহ (রহ.) একে মাকরূহ বলেছেন। ‘আত্বা (রহ.) বলেনঃ নবীয এবং দুধ দিয়ে উযূ করার চেয়ে তায়াম্মুম করাই আমার নিকট অধিক পছন্দনীয়। ২৪২. ‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে সকল পানীয় নেশা সৃষ্টি করে, তা হারাম। (৫৫৮৫, ৫৫৮৬ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ২৩৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 4 Hadith 108</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: போதை தரும் (தன்மை உள்ள) எல்லாப் பானங்களும் தடை செய்யப் பட்டவை ஆகும். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 4
+நபி (ஸல்) அவர்கள் கூறினார்கள்: போதை தரும் (தன்மை உள்ள) எல்லாப் பானங்களும் தடை செய்யப் பட்டவை ஆகும். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 4 Hadith 108</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söylemiştir: "Sarhoş eden her içecek haramdır. Tekrar: 5585, 5586
+Aişe r.anha Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söylemiştir: "Sarhoş eden her içecek haramdır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 4 Hadith 108</td></tr></tbody></table></div>
 

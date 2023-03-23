@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা ‘আসরের সালাত আদায় করতাম, অতঃপর আমাদের কোনো গমনকারী কুবার দিকে যেতো এবং সূর্য যথেষ্ট উপরে থাকতেই সে তাদের নিকট পৌঁছে যেতো। (৫৪৮; মুসলিম ৫/৩৪, হাঃ ৬২১, আহমাদ ১২৬৪৪) (আধুনিক প্রকাশনীঃ ৫১৭, ইসলামিক ফাউন্ডেশনঃ ৫২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা ‘আসরের সালাত আদায় করতাম, অতঃপর আমাদের কোনো গমনকারী কুবার দিকে যেতো এবং সূর্য যথেষ্ট উপরে থাকতেই সে তাদের নিকট পৌঁছে যেতো। (৫৪৮; মুসলিম ৫/৩৪, হাঃ ৬২১, আহমাদ ১২৬৪৪) (আধুনিক প্রকাশনীঃ ৫১৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>551</td></tr><tr><td>Arabic No</td><td>551</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அஸ்ர் தொழுகையைத் தொழுவோம். பிறகு எங்களில் (மேட்டுப் பாங்கான பகுதிகளில் ஒன்றான) ‘குபா’விற்குச் செல்பவர் அங்கே சென்றடைவார். அப்போதும் சூரியன் உயரத்திலேயே இருக்கும்.9 அத்தியாயம் : 9
+அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அஸ்ர் தொழுகையைத் தொழுவோம். பிறகு எங்களில் (மேட்டுப் பாங்கான பகுதிகளில் ஒன்றான) ‘குபா’விற்குச் செல்பவர் அங்கே சென்றடைவார். அப்போதும் சூரியன் உயரத்திலேயே இருக்கும்.9 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>551</td></tr><tr><td>Arabic No</td><td>551</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৪৩. আবদুল্লাহ ইবন উমর (রাঃ)-কে প্রশ্ন করা হইলঃ একজন আর একজনের পক্ষে রোযা রাখিবে কি? অথবা একজন অন্যজনের পক্ষে নামায পড়িবে কি? তিনি উত্তরে বলিলেনঃ একজন আর একজনের পক্ষে রোযা রাখিবে না এবং একে অপরের পক্ষে নামাযও পড়িবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 18 Hadith 44</td></tr></tbody></table></div>
 

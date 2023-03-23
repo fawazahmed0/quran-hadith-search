@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَقَالَ عَطَاءٌ يَحْتَجِمُ الْجُنُبُ وَيُقَلِّمُ أَظْفَارَهُ وَيَحْلِقُ رَأْسَهُ وَإِنْ لَمْ يَتَوَضَّأْ. ‘আত্বা (রহ.) বলেছেন, অপবিত্র ব্যক্তি উযূ না করেও শিঙ্গা লাগাতে, নখ কাটতে এবং মাথা মুন্ডন করতে পারে। ২৮৪। আনাস ইব্‌নু মালিক (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) একই রাতে পর্যায়ক্রমে তাঁর স্ত্রীদের সঙ্গে মিলিত হতেন। তখন তাঁর নয়জন স্ত্রী ছিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>284</td></tr><tr><td>Arabic No</td><td>284</td></tr><tr><td>Reference</td><td>Book 5 Hadith 36</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdul A'la bin Hammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரே இரவில் தம் துணைவியர் அனைவரிடமும் சென்றுவருவார்கள். அன்று அவர்களுக்கு ஒன்பது துணைவியர் இருந்தனர். அத்தியாயம் : 5
+அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரே இரவில் தம் துணைவியர் அனைவரிடமும் சென்றுவருவார்கள். அன்று அவர்களுக்கு ஒன்பது துணைவியர் இருந்தனர். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>284</td></tr><tr><td>Arabic No</td><td>284</td></tr><tr><td>Reference</td><td>Book 5 Hadith 36</td></tr></tbody></table></div>
 

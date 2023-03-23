@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল মুসান্না (রহ.) ..... আয়িশাহ্ (রাঃ) হতে বর্ণিত, ফাত্বিমাহ্ বিনতু আবূ হুবায়শ (রাঃ) ইস্তিহাযাগ্রস্ত ছিলেন। রাসূলুল্লাহ (সা.) তাঁকে বললেন, হায়যের রক্ত কালো বর্ণের যা সহজেই চেনা যায়। এমতাবস্থায় তুমি সালাত আদায় থেকে বিরত থাকবে, আর যখন অন্য রক্ত হয় তখন উযু করবে এবং সালাত আদায় করবে। আবূ আবদুর রহমান (ইমাম নাসায়ী) বলেন, এ হাদীসটি একাধিক ব্যক্তি বর্ণনা করেছেন। তবে ইবনু ‘আদী যা উল্লেখ করেছেন- ‘ইস্তিহাযাগ্রস্ত মহিলা উযূ করে সালাত আদায় করবে তা অন্য কেউ উল্লেখ করেননি। সহীহ: আবূ দাউদ ২৮৬। (দ্রঃ ২১৬)।
+। মুহাম্মদ ইবনু মূসান্না (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। ফাতিমা বিনত আবূ হুবায়শ (রাঃ) ইস্তিহাজাগ্রস্ত ছিলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ হায়যের রক্ত কালো বর্ণের, যা চেনা যায়। এমতাবস্থায় তুমি সালাত থেকে বিরত থাকবে। আর যখন অন্য রক্ত হয় তখন উযু করবে এবং সালাত আদায় করবে। আবূ আবদুর রহমান বলেন এ হাদিসটি একাধিক ব্যক্তি বর্ণনা করেছেন। তবে ইবনু আদি যা উল্লেখ করেছেন- 'ইস্তিহাজাগ্রস্ত মহিলা ওযু করে নামায আদায় করবে' তা অন্য কেউ উল্লেখ করেন নি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>363</td></tr><tr><td>Arabic No</td><td>363</td></tr><tr><td>Reference</td><td>Book 3 Hadith 15</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] dia berkata; Telah menc
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Fatıma binti ebi Hubeyş (radıyallahü anha)’den özür kanı geliyordu. Rasûlüllah (sallallahü aleyhi ve sellem) ona: kanı bilindiği gibi siyahımsı bir kandır, o süre içinde namaz kılmayı bırak. O günler dışında gelen kan özür kanı olup o günlerde abdest alarak namaz kılabilirsin.) (İbn Mâce, Tahara: 115; Buhârî, Hayz: 21)
+Fatıma binti ebi Hubeyş (radıyallahü anha)’den özür kanı geliyordu. Rasûlüllah (sallallahü aleyhi ve sellem) ona: kanı bilindiği gibi siyahımsı bir kandır, o süre içinde namaz kılmayı bırak. O günler dışında gelen kan özür kanı olup o günlerde abdest alarak namaz kılabilirsin.) (İbn Mâce, Tahara: 115; Buhârî, Hayz:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>363</td></tr><tr><td>Arabic No</td><td>363</td></tr><tr><td>Reference</td><td>Book 3 Hadith 15</td></tr></tbody></table></div>
 

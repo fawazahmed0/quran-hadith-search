@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৩১. আবু লুবাবা (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে সমস্ত সর্প ঘরে বাস করে উহাদেরকে মারিতে (হত্যা করিতে) নিষেধ করিয়াছেন।[1]
+রেওয়ায়ত ৩১. আবু লুবাবা (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে সমস্ত সর্প ঘরে বাস করে উহাদেরকে মারিতে (হত্যা করিতে) নিষেধ করিয়াছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 54 Hadith 31</td></tr></tbody></table></div>
 

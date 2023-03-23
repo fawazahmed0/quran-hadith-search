@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুমাইদ (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে আমরা তাবূক যুদ্ধ হতে প্রত্যাবর্তন করে মাদ্বীনার নিকটবর্তী স্থানে পৌঁছলে, তিনি বললেনঃ (মদিনা্) হল ত্বাবাহ। (১৪৮১) (আধুনিক প্রকাশনীঃ ১৭৩৭, ইসলামিক ফাউন্ডেশনঃ ১৭৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুমাইদ (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে আমরা তাবূক যুদ্ধ হতে প্রত্যাবর্তন করে মাদ্বীনার নিকটবর্তী স্থানে পৌঁছলে, তিনি বললেনঃ (মদিনা্) হল ত্বাবাহ। (১৪৮১) (আধুনিক প্রকাশনীঃ ১৭৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1872</td></tr><tr><td>Arabic No</td><td>1872</td></tr><tr><td>Reference</td><td>Book 29 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khalid bin Mukhallad] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுமைத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் தபூக்கிலிருந்து (அறப்போர் முடிந்து) திரும்பினோம். மதீனாவை நாங்கள் நெருங்கியதும் “இது ‘தாபா!’ (தூயது!)” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 29
+அபூஹுமைத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் தபூக்கிலிருந்து (அறப்போர் முடிந்து) திரும்பினோம். மதீனாவை நாங்கள் நெருங்கியதும் “இது ‘தாபா!’ (தூயது!)” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1872</td></tr><tr><td>Arabic No</td><td>1872</td></tr><tr><td>Reference</td><td>Book 29 Hadith 6</td></tr></tbody></table></div>
 

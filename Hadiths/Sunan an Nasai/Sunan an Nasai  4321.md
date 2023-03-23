@@ -16,21 +16,21 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ، قَالَ حَدَّثَنَا بَهْزُ بْنُ أَسَدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنِي عَدِيُّ بْنُ ثَابِتٍ، قَالَ سَمِعْتُ زَيْدَ بْنَ وَهْبٍ، يُحَدِّثُ عَنْ ثَابِتِ بْنِ وَدِيعَةَ، قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بِضَبٍّ فَجَعَلَ يَنْظُرُ إِلَيْهِ وَيُقَلِّبُهُ وَقَالَ ‏ "‏ إِنَّ أُمَّةً مُسِخَتْ لاَ يُدْرَى مَا فَعَلَتْ وَإِنِّي لاَ أَدْرِي لَعَلَّ هَذَا مِنْهَا ‏"‏ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا عمرو بن يزيد، قال حدثنا بهز بن اسد، قال حدثنا شعبة، قال حدثني عدي بن ثابت، قال سمعت زيد بن وهب، يحدث عن ثابت بن وديعة، قال جاء رجل الى رسول الله صلى الله عليه وسلم بضب فجعل ينظر اليه ويقلبه وقال " ان امة مسخت لا يدرى ما فعلت واني لا ادري لعل هذا منها
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন ইয়াযীদ (রহঃ) ... সাবিত ইবন ওদীআ (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট গোসাপ (দব্ব) নিয়ে উপস্থিত হলে তিনি তাকে ওলট-পালট করে দেখতে লাগলেন এবং বললেনঃ একটি সম্প্রদায়কে বিকৃত করা হয়েছিল। জানি না, শেষ পর্যন্ত তাদের কী হয়েছিল? আর আমি এটাও জানি না যে, এরা তাদের মধ্য হতে কিনা।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Thabit bin Wadi ah said:"A man brought a mastigure to the Messenger of Allah and he started looking at it, and turning it over. He said: 'A nation was transformed, it is not known what they did, and I do not know if this is one of them
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ It was narrated that Thabit bin Wadi ah said:"A man brought a mastigure to the M
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami ['Amr bin Yazid], ia berkata; telah menceritakan kepada kami [Bahz bin Asad], ia berkata; telah menceritakan kepada kami [Syu'bah], ia berkata; telah menceritakan kepadaku ['Adi bin Tsabit], ia berkata; saya mendengar [Zaid bin Wahb] menceritakan dari [Tsabit bin Wadi'ah], ia berkata; telah datang seorang laki-laki kepada Rasulullah shallallahu 'alaihi wasallam membawa seekor biawak kemudian beliau melihatnya dan membaliknya serta bersabda: "Sesungguhnya sebuah umat telah dirubah bentuknya, tidak diketahui apa yang mereka lakukan dan saya tidak tahu barangkali ini sebagian dari mereka
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengabarkan kepada kami ['Amr bin Yazid], ia berkata; telah menceritakan k
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengabarkan kepada kami ['Amr bin Yazid], ia berkata; telah menceritakan k
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>

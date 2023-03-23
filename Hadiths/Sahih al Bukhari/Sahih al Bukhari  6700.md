@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক আল্লাহর আনুগত্য করার মানত করে সে যেন তাঁর আনুগত্য করে। আর যে লোক আল্লাহর অবাধ্যতা করার মানত করে সে যেন তাঁর অবাধ্যতা না করে। [৬৬৯৬] (আধুনিক প্রকাশনী- ৬২৩৩, ইসলামিক ফাউন্ডেশন- ৬২৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক আল্লাহর আনুগত্য করার মানত করে সে যেন তাঁর আনুগত্য করে। আর যে লোক আল্লাহর অবাধ্যতা করার মানত করে সে যেন তাঁর অবাধ্যতা না করে। [৬৬৯৬] (আধুনিক প্রকাশনী- ৬২৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6700</td></tr><tr><td>Arabic No</td><td>6700</td></tr><tr><td>Reference</td><td>Book 83 Hadith 77</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Malik] dari [Thalhah bin Abdul
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வுக்குக் கீழ்ப்படிவதாக ஒருவர் நேர்ந்துகொண்டால் (அதை நிறைவேற்றும் முகமாக) அவனுக்கு அவர் கீழ்ப்படியட்டும்! அல்லாஹ்வுக்கு மாறுசெய்வதாக ஒருவர் நேர்ந்துகொண்டால் (அதை நிறைவேற்றுவதற்காக) அவனுக்கு அவர் மாறுசெய்திட வேண்டாம். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.100 அத்தியாயம் : 83
+நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வுக்குக் கீழ்ப்படிவதாக ஒருவர் நேர்ந்துகொண்டால் (அதை நிறைவேற்றும் முகமாக) அவனுக்கு அவர் கீழ்ப்படியட்டும்! அல்லாஹ்வுக்கு மாறுசெய்வதாக ஒருவர் நேர்ந்துகொண்டால் (அதை நிறைவேற்றுவதற்காக) அவனுக்கு அவர் மாறுசெய்திட வேண்டாம். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.100 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6700</td></tr><tr><td>Arabic No</td><td>6700</td></tr><tr><td>Reference</td><td>Book 83 Hadith 77</td></tr></tbody></table></div>
 

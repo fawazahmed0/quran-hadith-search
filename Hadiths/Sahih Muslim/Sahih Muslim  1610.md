@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৪৯৫, আন্তর্জাতিক নাম্বারঃ ৭০০ ১৪৯৫-(৩১/৭০০) মুহাম্মাদ ইবনু আবদুল্লাহ ইবনু নুমায়র (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। সওয়ারীর মুখ যেদিকেই থাক না কেন রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সওয়ারীর পিঠে বসে নফল সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৪৮০, ইসলামীক সেন্টার ১৪৮৮)
+মুহাম্মাদ ইবনু আবদুল্লাহ ইবনু নুমায়র (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। সওয়ারীর মুখ যেদিকেই থাক না কেন রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সওয়ারীর পিঠে বসে নফল সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৪৮০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1610</td></tr><tr><td>Arabic No</td><td>700.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 41</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah mencerit
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது (ஒட்டகத்தின் மீதமர்ந்தவாறு) ஒட்டகம் செல்லும் திசையை நோக்கிக் கூடுதலான (நஃபில்) தொழுகை தொழுபவர்களாக இருந்தார்கள். அத்தியாயம் : 6
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது (ஒட்டகத்தின் மீதமர்ந்தவாறு) ஒட்டகம் செல்லும் திசையை நோக்கிக் கூடுதலான (நஃபில்) தொழுகை தொழுபவர்களாக இருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1610</td></tr><tr><td>Arabic No</td><td>700.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 41</td></tr></tbody></table></div>
 

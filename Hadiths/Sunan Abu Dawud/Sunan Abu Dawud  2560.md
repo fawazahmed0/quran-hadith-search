@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন দাঊদ ইবন সুফইয়ান ..... সামুরা ইবন জুনদুব (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের ঘোড়াকে শত্রু-ভয়ে ভীত সন্ত্রস্ত হওয়ার সময় ‘‘আল্লাহর ঘোড়া’’ নামে আখ্যায়িত করেছেন। আর রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে, যখন আমরা ভীত সন্ত্রস্ত হয়ে পড়তাম তখন একজোট হয়ে ধৈর্যের সাথে শান্ত ও অটল থাকার নির্দেশ দিতেন।
+। সামুরাহ ইবনু জুনদুব (রাঃ) সূত্রে বর্ণিত। তিনি আল্লাহর প্রশংসা ও গুণগান বর্ণনার পর বললেন, ‘আমরা যখন ভীত হয়ে পড়লে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের ঘোড়াকে আল্লাহর ঘোড়া নামে ডাকতেন। আর ‘আমরা ভীত হয়ে পড়লে বা যুদ্ধে লিপ্ত হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে সংঘবদ্ধ থাকতে, ধৈর্য ধরতে এবং ধীরস্থির অবলম্বনের আদেশ দিতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 15 Hadith 84</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ক্বাতাদাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমাদের কেউ যখন পান করে, তখন সে যেন পাত্রের মধ্যে নিঃশ্বাস না ছাড়ে। আর যখন শৌচাগারে যায় তখন তার পুরুষাঙ্গ যেন ডান হাত দিয়ে স্পর্শ না করে এবং ডান হাত দিয়ে যেন শৌচকার্য না করে। (১৫৪, ৫৬৩০; মুসলিম ২/১৮, হাঃ ২৬৭, আহমাদ ২২৬২৮) (আধুনিক প্রকাশনীঃ ১৫০, ইসলামিক ফাউন্ডেশনঃ ১৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ক্বাতাদাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমাদের কেউ যখন পান করে, তখন সে যেন পাত্রের মধ্যে নিঃশ্বাস না ছাড়ে। আর যখন শৌচাগারে যায় তখন তার পুরুষাঙ্গ যেন ডান হাত দিয়ে স্পর্শ না করে এবং ডান হাত দিয়ে যেন শৌচকার্য না করে। (১৫৪, ৫৬৩০; মুসলিম ২/১৮, হাঃ ২৬৭, আহমাদ ২২৬২৮) (আধুনিক প্রকাশনীঃ ১৫০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 4 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் (எதையும்) பருகும் போது, பாத்திரத்திற்குள் மூச்சுவிட வேண்டாம்; கழிப்பிடம் சென்றால் பிறவி உறுப்பை வலக் கரத்தால் தொட வேண்டாம்; வலக் கரத்தால் சுத்தம் செய்ய வேண்டாம். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 4
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் (எதையும்) பருகும் போது, பாத்திரத்திற்குள் மூச்சுவிட வேண்டாம்; கழிப்பிடம் சென்றால் பிறவி உறுப்பை வலக் கரத்தால் தொட வேண்டாம்; வலக் கரத்தால் சுத்தம் செய்ய வேண்டாம். இதை அபூகத்தாதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 4 Hadith 19</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Katâde'nin oğlu Abdullah babasının şöyle söylediğini rivayet et­miştir: Resuiullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Biriniz bir şey içeceği zaman nefesini su kabına vermesin. Tuvaletini yaptığında cinsel organını sağ eli ile tutmasın, (ön ve arkasını) sağ eli ile silmesin (istinca yapmasın). Tekrar: 154, 5630
+Ebu Katâde'nin oğlu Abdullah babasının şöyle söylediğini rivayet et­miştir: Resuiullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Biriniz bir şey içeceği zaman nefesini su kabına vermesin. Tuvaletini yaptığında cinsel organını sağ eli ile tutmasın, (ön ve arkasını) sağ eli ile silmesin (istinca yapmasın). Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 4 Hadith 19</td></tr></tbody></table></div>
 

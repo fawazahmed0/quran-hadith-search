@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ عَطَاءٌ النَّسْلُ الْحَيَوَانُ. ‘আতা বলেন, النَّسْلُজানোয়ার। ৪৫২৩. ‘আয়িশাহ (রাঃ) নবীসাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেন, আল্লাহর নিকট অতিশয় ঘৃণিত মানুষ হচ্ছে অতিরিক্ত ঝগড়াটে ব্যক্তি। [২৪৫৭] ‘আবদুল্লাহ বলেন, আমার কাছে সুফ্ইয়ান হাদীস বর্ণনা করেন, সুফ্ইয়ান বলেন, আমার কাছে ইবনু জুরায়জ ইবনু আবূ মুলাইকাহ হতে ‘আয়িশাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে এই মর্মে বর্ণনা করেছেন। (আধুনিক প্রকাশনীঃ ৪১৬৫, ইসলামিক ফাউন্ডেশনঃ ৪১৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ عَطَاءٌ النَّسْلُ الْحَيَوَانُ. ‘আতা বলেন, النَّسْلُজানোয়ার। ৪৫২৩. ‘আয়িশাহ (রাঃ) নবীসাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেন, আল্লাহর নিকট অতিশয় ঘৃণিত মানুষ হচ্ছে অতিরিক্ত ঝগড়াটে ব্যক্তি। [২৪৫৭] ‘আবদুল্লাহ বলেন, আমার কাছে সুফ্ইয়ান হাদীস বর্ণনা করেন, সুফ্ইয়ান বলেন, আমার কাছে ইবনু জুরায়জ ইবনু আবূ মুলাইকাহ হতে ‘আয়িশাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে এই মর্মে বর্ণনা করেছেন। (আধুনিক প্রকাশনীঃ ৪১৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4523</td></tr><tr><td>Arabic No</td><td>4523</td></tr><tr><td>Reference</td><td>Book 65 Hadith 48</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabisha] Telah menceritakan kepada kami [Sufyan]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: “அல்லாஹ்விடம் மனிதர்களிலேயே மிகவும் வெறுப்புக்குரியவன் (எதற்கெடுத் தாலும்) கடுமையாகச் சண்டைபிடிப்ப வனேயாவான்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள்.57 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 65
+ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: “அல்லாஹ்விடம் மனிதர்களிலேயே மிகவும் வெறுப்புக்குரியவன் (எதற்கெடுத் தாலும்) கடுமையாகச் சண்டைபிடிப்ப வனேயாவான்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள்.57 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4523</td></tr><tr><td>Arabic No</td><td>4523</td></tr><tr><td>Reference</td><td>Book 65 Hadith 48</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qabisha] Telah menceritakan kepada kami [Sufyan]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Aişe'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu naklediimiştir: "Allah'ın hiç sevmediği kimse, aşırı tartışmacı olan kimsedir." Fethu'l-Bari Açıklaması: ألد Eleddu kelimesi, şiddetli tartışma anlamına gelen .....el-Lededü kökünden ism-i tafdll sıgasında türetilmiş bir kelimedir. الخصام el-Hısamu ise......elhasm sözcüğünün çoğuludur. Tekillik çoğulluk açısından bu kelime,-.........kelb (köpek) ve ......kilab (köpekler)'e benzer. Bu durumda .......e1eddQ'I-hlsam ifadesi, tartışmacıların en ileri gideni anlamına gelir. .....el-Hısamü kelimesinin, müfaale babından masdar olma ihtimali de vardır. Tıpkı 1.9!katele fiilinin masdarının .....kıtal şeklinde geldiği gibi. Bu durumda ayetin takdiri şu iki şekilden biri ile yapılır: a)......ve hasemehu eşedü'l-hısamı (Onunla çok tartışt1.) b).......ve hüve eşeddü zevi'l-hlsaml muhasemeten (O tartışmaClların en fazla tartışmaya düşkün alanıdır.) Bu hadisin açıklaması, "Kitabu'l-ahkam"da yapllacaktır.[Kitabu'l-ahkam, 34]
+Hz. Aişe'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu naklediimiştir: "Allah'ın hiç sevmediği kimse, aşırı tartışmacı olan kimsedir." Fethu'l-Bari Açıklaması: ألد Eleddu kelimesi, şiddetli tartışma anlamına gelen .....el-Lededü kökünden ism-i tafdll sıgasında türetilmiş bir kelimedir. الخصام el-Hısamu ise......elhasm sözcüğünün çoğuludur. Tekillik çoğulluk açısından bu kelime,-.........kelb (köpek) ve ......kilab (köpekler)'e benzer. Bu durumda .......e1eddQ'I-hlsam ifadesi, tartışmacıların en ileri gideni anlamına gelir. .....el-Hısamü kelimesinin, müfaale babından masdar olma ihtimali de vardır. Tıpkı 1.9!katele fiilinin masdarının .....kıtal şeklinde geldiği gibi. Bu durumda ayetin takdiri şu iki şekilden biri ile yapılır: a)......ve hasemehu eşedü'l-hısamı (Onunla çok tartışt1.) b).......ve hüve eşeddü zevi'l-hlsaml muhasemeten (O tartışmaClların en fazla tartışmaya düşkün alanıdır.) Bu hadisin açıklaması, "Kitabu'l-ahkam"da yapllacaktır.[Kitabu'l-ahkam]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4523</td></tr><tr><td>Arabic No</td><td>4523</td></tr><tr><td>Reference</td><td>Book 65 Hadith 48</td></tr></tbody></table></div>
 

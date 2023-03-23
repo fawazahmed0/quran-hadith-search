@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কেউ প্রকৃত মু‘মিন হতে পারবে না, যতক্ষণ না সে তার ভাইয়ের জন্য সেটাই পছন্দ করবে, যা তার নিজের জন্য পছন্দ করে। (মুসলিম ১/১৭ হাঃ ৪৫, আহমাদ ১২৮০১, ১৩৮৭৫) (আধুনিক প্রকাশনীঃ ১২, ইসলামিক ফাউন্ডেশনঃ ১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমাদের কেউ প্রকৃত মু‘মিন হতে পারবে না, যতক্ষণ না সে তার ভাইয়ের জন্য সেটাই পছন্দ করবে, যা তার নিজের জন্য পছন্দ করে। (মুসলিম ১/১৭ হাঃ ৪৫, আহমাদ ১২৮০১, ১৩৮৭৫) (আধুনিক প্রকাশনীঃ ১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 2 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் தமக்கு விரும்பு வதையே தம் சகோதரனுக்கும் விரும்பாத வரை (முழுமையான) இறைநம்பிக்கை கொண்டவர் ஆகமாட்டார்.15 இதை அனஸ் (ரலி) அவர்கள் அறி விக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 2
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் தமக்கு விரும்பு வதையே தம் சகோதரனுக்கும் விரும்பாத வரை (முழுமையான) இறைநம்பிக்கை கொண்டவர் ஆகமாட்டார்.15 இதை அனஸ் (ரலி) அவர்கள் அறி விக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 2 Hadith 6</td></tr></tbody></table></div>
 

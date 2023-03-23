@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... আম্মার ইবন ইয়াসির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা দু'হাত ফাঁটা অবস্থায় আমি আমার পরিবার-পরিজনের কাছে আসলে, তারা আমার দু'হাত জাফরান রং লাগিয়ে দেয়। পরদিন সকালে আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে উপস্থিত হয়ে সালাম করলে, তিনি তার জবাব না দিয়ে বলেনঃ তুমি চলে যাও এবং তোমার হাত থেকে এ রং ধুয়ে ফেল।
+। আম্মার ইবনু ইয়াসির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমার দু’ হাত কেটে গেলে আমি আমার পরিবার-পরিজনের নিকট আসি। তারা আমাকে (হাতকে) জাফরান দ্বারা রাঙিয়ে দিলো। পরবর্তী দিন আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট গিয়ে তাঁকে সালাম করলাম। কিন্তু তিনি আমার সালামের জবাব না দিয়ে বললেনঃ তুমি ফিরে গিয়ে তোমার হাতের রং ধুয়ে ফেলো।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4601</td></tr><tr><td>Arabic No</td><td>4601</td></tr><tr><td>Reference</td><td>Book 42 Hadith 6</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ammâr b. Yâsir'den dedi ki: "Ellerim yarılmış olarak ailemin yanına gelmiştim. Ellerime zaferan sürdüler. (Ertesi gün) sabahleyin, Nebi (s.a.v.)'e vardım ve kendisine selam verdim, selamımı almadı ve: "Git, bunları yıka" buyurdu. Ayrıca Tahric: Ebu Davud, tereccül; Ahmed b. Hanbel, IV, 329
+Ammâr b. Yâsir'den dedi ki: "Ellerim yarılmış olarak ailemin yanına gelmiştim. Ellerime zaferan sürdüler. (Ertesi gün) sabahleyin, Nebi (s.a.v.)'e vardım ve kendisine selam verdim, selamımı almadı ve: "Git, bunları yıka" buyurdu. Ayrıca Tahric: Ebu Davud, tereccül; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4601</td></tr><tr><td>Arabic No</td><td>4601</td></tr><tr><td>Reference</td><td>Book 42 Hadith 6</td></tr></tbody></table></div>
 

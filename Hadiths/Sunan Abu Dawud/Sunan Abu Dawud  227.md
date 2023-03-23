@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফস ইবনু উমার .... আলী (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেন, যে ঘরে ছবি কুকুর ও অপবিত্র লোক থাকে- সেখানে রহমতের ফেরেশতাগগ (নতুন রহমতসহ) প্রবেশ করেন না। (নাসাঈ, ইবনু মাজাহ)।
+। ‘আলী ইবনু আবূ তালিব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যে ঘরে মূর্তি, কুকুর অথবা নাপাক ব্যক্তি রয়েছে সেখানে মালায়িকাহ (ফিরিশতা) প্রবেশ করে না।[1] দুর্বল : যঈফ আল-জামি‘উস সাগীর ৬২০৩।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>227</td></tr><tr><td>Arabic No</td><td>227</td></tr><tr><td>Reference</td><td>Book 1 Hadith 227</td></tr></tbody></table></div>
 

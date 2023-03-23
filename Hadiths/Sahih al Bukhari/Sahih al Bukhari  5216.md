@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আসরের সালাত শেষ করতেন, তখন স্বীয় স্ত্রীদের মধ্য থেকে যে কোন একজনের নিকট গমন করতেন। একদিন তিনি স্ত্রী হাফসাহ (রাঃ)-এর কাছে গেলেন এবং সাধারণতঃ যে সময় কাটান তার চেয়ে বেশি সময় কাটালেন। [৪৯১২] (আধুনিক প্রকাশনী- ৪৮৩৩, ইসলামিক ফাউন্ডেশন- ৪৮৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আসরের সালাত শেষ করতেন, তখন স্বীয় স্ত্রীদের মধ্য থেকে যে কোন একজনের নিকট গমন করতেন। একদিন তিনি স্ত্রী হাফসাহ (রাঃ)-এর কাছে গেলেন এবং সাধারণতঃ যে সময় কাটান তার চেয়ে বেশি সময় কাটালেন। [৪৯১২] (আধুনিক প্রকাশনী- ৪৮৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 67 Hadith 149</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Farwah] Telah menceritakan kepada kami [Ali bin 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அஸ்ர் தொழுகை முடிந்தவுடன் தம் துணைவியரிடம் செல்வார்கள். அப்போது அவர்களில் சிலருடன் நெருக்கமாக இருப்பார்கள். அவ்வாறே (ஒருநாள்) தம் துணைவியாரான ஹஃப்ஸாவிடம் சென்று வழக்கமாகத் தங்கும் நேரத்தைவிட அதிக நேரம் தங்கினார்கள். அத்தியாயம் : 67
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அஸ்ர் தொழுகை முடிந்தவுடன் தம் துணைவியரிடம் செல்வார்கள். அப்போது அவர்களில் சிலருடன் நெருக்கமாக இருப்பார்கள். அவ்வாறே (ஒருநாள்) தம் துணைவியாரான ஹஃப்ஸாவிடம் சென்று வழக்கமாகத் தங்கும் நேரத்தைவிட அதிக நேரம் தங்கினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 67 Hadith 149</td></tr></tbody></table></div>
 

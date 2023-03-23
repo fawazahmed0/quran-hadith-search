@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে তের রাক‘আত সালাত আদায় করতেন, অতঃপর সকালে আযান শোনার পর সংক্ষিপ্তভাবে দু’রাক‘আত সালাত আদায় করতেন। (৬২৬) (আধুনিক প্রকাশনীঃ ১০৯৬, ইসলামিক ফাউন্ডেশনঃ ১১০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে তের রাক‘আত সালাত আদায় করতেন, অতঃপর সকালে আযান শোনার পর সংক্ষিপ্তভাবে দু’রাক‘আত সালাত আদায় করতেন। (৬২৬) (আধুনিক প্রকাশনীঃ ১০৯৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1164</td></tr><tr><td>Arabic No</td><td>1164</td></tr><tr><td>Reference</td><td>Book 19 Hadith 43</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரவில் பதிமூன்று ரக்அத்கள் தொழுவார் கள். பிறகு (ஃபஜ்ரின்) பாங்கைக் கேட்டதும் சுருக்கமாக (ஓதி) இரண்டு ரக்அத்கள் (சுன்னத்) தொழுவார்கள். அத்தியாயம் : 19
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரவில் பதிமூன்று ரக்அத்கள் தொழுவார் கள். பிறகு (ஃபஜ்ரின்) பாங்கைக் கேட்டதும் சுருக்கமாக (ஓதி) இரண்டு ரக்அத்கள் (சுன்னத்) தொழுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1164</td></tr><tr><td>Arabic No</td><td>1164</td></tr><tr><td>Reference</td><td>Book 19 Hadith 43</td></tr></tbody></table></div>
 

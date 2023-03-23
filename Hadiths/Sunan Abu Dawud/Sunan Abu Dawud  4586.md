@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবন আসিম (রহঃ) ..... আমর ইবন শু'আয়ব (রহঃ) তাঁর পিতা হতে এবং তিনি তার দাদা থেকে বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি চিকিৎসা-বিদ্যা সম্পর্কে অভিজ্ঞ না হয়ে চিকিৎসা করবে, সে যিম্মাদার হবে। ইমাম আবূ দাউদ (রহঃ) বলেনঃ এ হাদীছ ওয়ালীদ ব্যতীত আর কেউ বর্ণনা করেননি। আমি জানি না, হাদীছটি সহীহ কি-না।
+। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা এবং তার দাদার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ চিকিৎসা বিদ্যাহীন ব্যক্তি চিকিৎসা করলে তাতে সে দায়ী হবে। নাদর (রহঃ) বলেন, ইবনু জুরাইজ (রহঃ) হাদীসটি আমার নিকট বর্ণনা করেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, হাদীসটি ওয়ালিদ একাই বর্ণনা করেছেন। হাদীসটি সহীহ কি না তা আমরা জানি না।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4586</td></tr><tr><td>Arabic No</td><td>4586</td></tr><tr><td>Reference</td><td>Book 41 Hadith 93</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কামিল (রহঃ) ...... আবদুল্লাহ ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কেউ স্তনভর্তি দুধ দেখে কোন বাকরী ক্রয় করে, তবে তিনদিন পর্যন্ত তার ইখতিয়ার থাকবে। এরপর যদি সে তা ফেরত দিতে চায়, তবে দুধের পরিমাণ অনুযায়ী অথবা তার দ্বিগুণ পরিমাণ গম (বিক্রেতাকে) দেবে।
+। ‘আব্দুল্লাহ ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি স্তন ফুলানো পশু ক্রয় করে তার জন্য তিন দিনের অবকাশ থাকে। সে তা ফেরত দিলে সাথে দোহনকৃত দুধের পরিমাণ অনুযায়ী অথবা তার দ্বিগুণ গম দিবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3446</td></tr><tr><td>Arabic No</td><td>3446</td></tr><tr><td>Reference</td><td>Book 24 Hadith 31</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, সমান সমান ছাড়া তোমরা সোনার বদলে সোনা বিক্রয় করবে না। অনুরূপ রূপার বদলে রূপা সমান সমান ছাড়া (বিক্রি করবে না)। রূপার বদলে সোনা এবং সোনার বদলে রূপা যেভাবে ইচ্ছে, কেনা বেচা করতে পার। (২১৮২, মুসলিম ২২/১৬, হাঃ ১৫৯০, আহমাদ ২০৪১৭) (আধুনিক প্রকাশনীঃ ২০২৫ , ইসলামিক ফাউন্ডেশনঃ ২০৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, সমান সমান ছাড়া তোমরা সোনার বদলে সোনা বিক্রয় করবে না। অনুরূপ রূপার বদলে রূপা সমান সমান ছাড়া (বিক্রি করবে না)। রূপার বদলে সোনা এবং সোনার বদলে রূপা যেভাবে ইচ্ছে, কেনা বেচা করতে পার। (২১৮২, মুসলিম ২২/১৬, হাঃ ১৫৯০, আহমাদ ২০৪১৭) (আধুনিক প্রকাশনীঃ ২০২৫ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2175</td></tr><tr><td>Arabic No</td><td>2175</td></tr><tr><td>Reference</td><td>Book 34 Hadith 125</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Shadaqah bin Al Fadhal] telah mengabarkan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சரிக்குச் சரியாகவே தவிர (வேறு முறையில்), தங்கத்திற்குத் தங்கத்தை விற்காதீர்கள்! சரிக்குச் சரியாகவே தவிர (வேறு முறையில்), வெள்ளிக்கு வெள்ளியை விற்காதீர்கள்! தங்கத்திற்கு வெள்ளியையும், வெள்ளிக்குத் தங்கத்தை யும் விரும்பியவாறு விற்றுக்கொள் ளுங்கள். இதை அபூபக்ரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சரிக்குச் சரியாகவே தவிர (வேறு முறையில்), தங்கத்திற்குத் தங்கத்தை விற்காதீர்கள்! சரிக்குச் சரியாகவே தவிர (வேறு முறையில்), வெள்ளிக்கு வெள்ளியை விற்காதீர்கள்! தங்கத்திற்கு வெள்ளியையும், வெள்ளிக்குத் தங்கத்தை யும் விரும்பியவாறு விற்றுக்கொள் ளுங்கள். இதை அபூபக்ரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2175</td></tr><tr><td>Arabic No</td><td>2175</td></tr><tr><td>Reference</td><td>Book 34 Hadith 125</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Shadaqah bin Al Fadhal] telah mengabarkan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Bekre r.a., Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini söylemiştir: "Altın ile altını, eşit olmadıkça satmayın. Gümüş ile gümüşü, eşit olmadıkça satmayın. Altın ile gümüşü, gümüş ile altını nasıl isterseniz öyle satın. " Tekrar: 2182
+Ebu Bekre r.a., Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini söylemiştir: "Altın ile altını, eşit olmadıkça satmayın. Gümüş ile gümüşü, eşit olmadıkça satmayın. Altın ile gümüşü, gümüş ile altını nasıl isterseniz öyle satın. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2175</td></tr><tr><td>Arabic No</td><td>2175</td></tr><tr><td>Reference</td><td>Book 34 Hadith 125</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আল-মিনহাল .... আবদুর রহমান ইবন মাসলামা তাঁর চাচা হতে বর্ণনা করেছেন যে, একদা (১০ই মুহাররাম তারিখে) আসলাম গোত্রের লোকেরা নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমতে উপস্থিত হলে, তিনি জিজ্ঞাসা করেন, তোমরা কি এ দিন (আশুরার) রোযা রেখেছ? তারা বলে, না। তিনি বলেন, তোমরা বাকি দিন আর কিছু না খেয়ে রোযা করো এবং পরে এ দিনের রোযার কাযা আদায় করবে। আবূ দাঊদ (রহঃ) বলেন, অর্থাৎ আশুরার দিনের।
+। ‘আব্দুর রহমান ইবনু মাসলামাহ (রহ.) থেকে তার চাচার সূত্রে বর্ণিত। একদা আসলাম গোত্রের লোকেরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আগমন করলে তিনি বললেনঃ তোমরা কি তোমাদের এই দিনের সওম রেখেছো? তারা বললো, না। তিনি বললেনঃ দিনের বাকী অংশটুকু (পানাহার না করে) পূর্ণ করো এবং এদিনের সওম কাযা করে নাও। ইমাম আবূ দাঊদ (রহ.) বলেন, অর্থাৎ আশূরার দিন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2447</td></tr><tr><td>Arabic No</td><td>2447</td></tr><tr><td>Reference</td><td>Book 14 Hadith 135</td></tr></tbody></table></div>
 

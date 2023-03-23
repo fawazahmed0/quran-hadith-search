@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 বারা (রাঃ) বলেন, আমি আবূ বকরের সঙ্গে তাঁর ঘরে ঢুকালাম।* তখন দেখলাম তাঁর মেয়ে ‘আয়িশাহ (রাঃ) বিছানায় শুয়ে আছেন। তাঁর জ্বর হয়েছে। তাঁর পিতা আবূ বাকর (রাঃ)-কে দেখলাম তিনি মেয়ের গালে চুমু ** খেলেন এবং জিজ্ঞেস করলেন, মা তুমি কেমন আছ? (আধুনিক প্রকাশনীঃ ৩৬২৯, ইসলামিক ফাউন্ডেশনঃ ৩৬৩২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3918</td></tr><tr><td>Arabic No</td><td>3918</td></tr><tr><td>Reference</td><td>Book 63 Hadith 143</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Al-Bara added:I then went with Abu Bakr into his home (carrying that saddle) and
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறிய தாவது: நான் அபூபக்ர் (ரலி) அவர்களுடன் அவர்களின் வீட்டாரிடம் சென்றேன். அப்போது அவர்களுடைய மகளான ஆயிஷா (ரலி) அவர்கள், காய்ச்சல் கண்டு (படுக்கையில்) படுத்திருந்தார்கள். அவருடைய தந்தை(யான அபூபக்ர் (ரலி) அவர்கள்) அவரது கன்னத்தில் (பாசத் தோடு) முத்தமிட்டு, “எப்படியிருக்கிறாய்? அருமை மகளே!” என்று கேட்டதை நான் கண்டேன்.166 அத்தியாயம் : 63
+பராஉ (ரலி) அவர்கள் கூறிய தாவது: நான் அபூபக்ர் (ரலி) அவர்களுடன் அவர்களின் வீட்டாரிடம் சென்றேன். அப்போது அவர்களுடைய மகளான ஆயிஷா (ரலி) அவர்கள், காய்ச்சல் கண்டு (படுக்கையில்) படுத்திருந்தார்கள். அவருடைய தந்தை(யான அபூபக்ர் (ரலி) அவர்கள்) அவரது கன்னத்தில் (பாசத் தோடு) முத்தமிட்டு, “எப்படியிருக்கிறாய்? அருமை மகளே!” என்று கேட்டதை நான் கண்டேன்.166 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3918</td></tr><tr><td>Arabic No</td><td>3918</td></tr><tr><td>Reference</td><td>Book 63 Hadith 143</td></tr></tbody></table></div>
 

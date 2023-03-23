@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৯৩১, আন্তর্জাতিক নাম্বারঃ ৮৮৪ ১৯৩১-(.../...) আবূর রাবী' আয যাহরানী, ইয়াকুব আদ দাওরাকী (রহঃ) ..... উভয়েই আইয়ূব (রহঃ) থেকে একই সূত্রে অনুরূপ বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৯১৬, ইসলামীক সেন্টার ১৯২৩)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2046</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

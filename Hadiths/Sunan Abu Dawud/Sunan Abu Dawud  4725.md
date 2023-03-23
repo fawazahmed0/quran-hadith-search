@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমহদ ইবন আবূ হাফ্‌স (রহঃ) .... সিমাক (রহঃ) থেকে এরূপ হাদীছ বর্ণিত হয়েছে।
+। সিমাক (রহঃ) সূত্রে এ সনদে উপরোক্ত দীর্ঘ হাদীসের অর্থানুরূপ বর্ণিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4725</td></tr><tr><td>Arabic No</td><td>4725</td></tr><tr><td>Reference</td><td>Book 42 Hadith 130</td></tr></tbody></table></div>
 

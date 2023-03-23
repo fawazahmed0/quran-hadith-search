@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইব্‌ন আদম ইব্‌ন সুলায়মান ও ওয়াসিল ইবন আবদুল আ'লা (রহঃ) ... আবদুল্লাহ্ ইব্‌ন আমর (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আর মুহাম্মদ ইবন আদম (রহঃ) বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি মদ পান করে আর তা তার পেটে পৌছে, আল্লাহ্ তা'আলা তার সাতদিনের নামায কবূল করেন না। যদি সে এ অবস্থায় মারা যায়, তবে সে কাফির অবস্থায় মরবে। যদি সে জ্ঞানহারা হয়ে যায় আর তার কোন ফরয কাজ ছুটে যায়, তা হলে তার চল্লিশ দিনের নামায কবূল হবে না। যদি সে এ অবস্থায় মারা যায়, তবে সে কাফির হয়ে মারা যাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5669</td></tr><tr><td>Arabic No</td><td>5669</td></tr><tr><td>Reference</td><td>Book 51 Hadith 131</td></tr></tbody></table></div>
 

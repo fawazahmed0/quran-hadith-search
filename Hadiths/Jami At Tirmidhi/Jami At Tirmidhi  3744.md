@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৪৪। আলী ইবনু আবী তলিব (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক নবীরই হাওয়ারী (নিষ্ঠাবান সাহায্যকারী) ছিলেন। আর আমার হাওয়ারী হল আয-যুবাইর ইবনুল আওওয়াম। হাসান সহীহঃ ইবনু মাজাহ (১২২)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। হাওয়ারী’ শব্দের অর্থ সাহায্যকারী।
+। আলী ইবনু আবী তলিব (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক নবীরই হাওয়ারী (নিষ্ঠাবান সাহায্যকারী) ছিলেন। আর আমার হাওয়ারী হল আয-যুবাইর ইবনুল আওওয়াম। হাসান সহীহঃ ইবনু মাজাহ (১২২)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। হাওয়ারী’ শব্দের অর্থ সাহায্যকারী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3744</td></tr><tr><td>Arabic No</td><td>3744</td></tr><tr><td>Reference</td><td>Book 49 Hadith 141</td></tr></tbody></table></div>
 

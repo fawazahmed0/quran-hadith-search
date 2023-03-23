@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ২৫. সফিয়া বিনত আবী উবায়দ (রহঃ) হইত বর্ণিত, উমর (রাঃ) বলেন, মানুষের হইল কি? তাহারা দাসীর সাথে সহবাস করে। অতঃপর তাহাকে ছাড়িয়া দেয়। এখন হইতে যদি এমন কোন দাসী আমার নিকট আসে যাহার মনিব তাহার সাথে সঙ্গম করার স্বীকারোক্তি করে তবে সন্তানের বংশ তাহার সাথে জুড়িয়া দিব। এখন তোমরা তাহাকে ছাড়িয়া দাও, চাই রাখিয়া দাও। মালিক (রহঃ) বলেনঃ এই ব্যাপারে আমার মত এই যে, যদি কোন দাসী ক্ষতিকর কার্য করে তবে তাহার ক্ষতিপূরণ তাহার মনিব আদায় করিবে। দাসীকে ক্ষতির পরিবর্তে দেওয়া যাইবে না। কিন্তু যদি জরিমানা তাহার মূল্যের চাইতে বেশি হয় তবে তাহা ভিন্ন কথা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 36 Hadith 28</td></tr></tbody></table></div>
 

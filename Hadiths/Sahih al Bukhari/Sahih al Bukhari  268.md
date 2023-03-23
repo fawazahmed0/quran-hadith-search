@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর স্ত্রীগণের নিকট দিনের বা রাতের কোন এক সময়ে পর্যায়ক্রমে মিলিত হতেন। তাঁরা ছিলেন এগারজন। বর্ণনাকারী বলেন, আমি আনাস (রাযি.)-কে জিজ্ঞেস করলাম, তিনি কি এত শক্তি রাখতেন? তিনি বললেন, আমরা পরস্পর বলাবলি করতাম যে, তাঁকে ত্রিশজনের শক্তি দেয়া হয়েছে। সা‘ঈদ (রহ.) ক্বাতাদাহ (রহ.) হতে বর্ণনা করেন, আনাস (রাযি.) তাঁদের নিকট হাদীস বর্ণনা প্রসঙ্গে (এগারজনের স্থলে) নয়জন স্ত্রীর কথা বলেছেন। (২৮৪, ৫০৬৮, ৫২১৫ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ২৬১, ইসলামিক ফাউন্ডেশনঃ ২৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর স্ত্রীগণের নিকট দিনের বা রাতের কোন এক সময়ে পর্যায়ক্রমে মিলিত হতেন। তাঁরা ছিলেন এগারজন। বর্ণনাকারী বলেন, আমি আনাস (রাযি.)-কে জিজ্ঞেস করলাম, তিনি কি এত শক্তি রাখতেন? তিনি বললেন, আমরা পরস্পর বলাবলি করতাম যে, তাঁকে ত্রিশজনের শক্তি দেয়া হয়েছে। সা‘ঈদ (রহ.) ক্বাতাদাহ (রহ.) হতে বর্ণনা করেন, আনাস (রাযি.) তাঁদের নিকট হাদীস বর্ণনা প্রসঙ্গে (এগারজনের স্থলে) নয়জন স্ত্রীর কথা বলেছেন। (২৮৪, ৫০৬৮, ৫২১৫ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ২৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>268</td></tr><tr><td>Arabic No</td><td>268</td></tr><tr><td>Reference</td><td>Book 5 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கத்தாதா பின் திஆமா (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் பின் மா-க் (ரலி) அவர்கள், “நபி (ஸல்) அவர்கள் இரவில், அல்லது பக-ல் ஒரு குறிப்பிட்ட நேரத்தில் தம் துணைவியர் அனைவரிடமும் சென்றுவிட்டு வந்துவிடுவார்கள். (அப்போது) அவர்களுக்குப் பதினொன்று துணைவியர் இருந்தனர்” என்று கூறினார்கள். உடனே நான், “அதற்கு நபி (ஸல்) அவர்கள் சக்தி பெற்றிருந்தார்களா?” என்று அனஸ் (ரலி) அவர்களிடம் கேட்டேன். அதற்கு அனஸ் (ரலி) அவர்கள், “நபி (ஸல்) அவர்களுக்கு முப்பது பேரின் சக்தி கொடுக்கப்பட்டுள்ளது என்று நாங்கள் பேசிக்கொள்வோம்” என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் சயீத் (ரஹ்) அவர்கள் கத்தாதா (ரஹ்) அவர்களி டமிருந்து அறிவித்துள்ள தொடரில், “(அப்போது) நபி (ஸல்) அவர்களுக்கு ஒன்பது துணைவியர் இருந்தார்கள்” என்று இடம்பெற்றுள்ளது. அத்தியாயம் : 5
+கத்தாதா பின் திஆமா (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் பின் மா-க் (ரலி) அவர்கள், “நபி (ஸல்) அவர்கள் இரவில், அல்லது பக-ல் ஒரு குறிப்பிட்ட நேரத்தில் தம் துணைவியர் அனைவரிடமும் சென்றுவிட்டு வந்துவிடுவார்கள். (அப்போது) அவர்களுக்குப் பதினொன்று துணைவியர் இருந்தனர்” என்று கூறினார்கள். உடனே நான், “அதற்கு நபி (ஸல்) அவர்கள் சக்தி பெற்றிருந்தார்களா?” என்று அனஸ் (ரலி) அவர்களிடம் கேட்டேன். அதற்கு அனஸ் (ரலி) அவர்கள், “நபி (ஸல்) அவர்களுக்கு முப்பது பேரின் சக்தி கொடுக்கப்பட்டுள்ளது என்று நாங்கள் பேசிக்கொள்வோம்” என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் சயீத் (ரஹ்) அவர்கள் கத்தாதா (ரஹ்) அவர்களி டமிருந்து அறிவித்துள்ள தொடரில், “(அப்போது) நபி (ஸல்) அவர்களுக்கு ஒன்பது துணைவியர் இருந்தார்கள்” என்று இடம்பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>268</td></tr><tr><td>Arabic No</td><td>268</td></tr><tr><td>Reference</td><td>Book 5 Hadith 21</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik'ten şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) gecenin ve gündüzün bir vaktinde hanımlarını dolaşırdı. Onbir tane hanımı vardı." Onun bu sözü üzerine hadisin ravilerinden Katâde, Enes'e: "Nebi s.a.v. buna güç yetirebihyor muydu?" diye sormuş. O da "Biz, ona otuz kişinin gücü verildiğinden bahsederdik." diye cevap vermiş. Saîd'in Katâde'den naklettiği bir rivayete göre Enes, Nebi s.a.v.'in hanımlarının sayısını dokuz olarak rivayet etmiştir. Tekrar: 274, 5068, 5215
+Enes b. Malik'ten şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) gecenin ve gündüzün bir vaktinde hanımlarını dolaşırdı. Onbir tane hanımı vardı." Onun bu sözü üzerine hadisin ravilerinden Katâde, Enes'e: "Nebi s.a.v. buna güç yetirebihyor muydu?" diye sormuş. O da "Biz, ona otuz kişinin gücü verildiğinden bahsederdik." diye cevap vermiş. Saîd'in Katâde'den naklettiği bir rivayete göre Enes, Nebi s.a.v.'in hanımlarının sayısını dokuz olarak rivayet etmiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>268</td></tr><tr><td>Arabic No</td><td>268</td></tr><tr><td>Reference</td><td>Book 5 Hadith 21</td></tr></tbody></table></div>
 

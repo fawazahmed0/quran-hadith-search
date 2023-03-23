@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫২২। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সর্বপ্রথম যে দলটি জান্নাতে প্রবেশ করবে সেই দলের সদস্যগণ হবেন পূর্ণিমার চাদের ন্যায় উজ্জ্বল। আর দ্বিতীয় দলের সদস্যগণ হবেন আকাশের মুক্তার মতো জ্বলজ্বলকারী তারকার ন্যায়। তাদের প্রত্যেকের দু'জন করে স্ত্রী থাকবে এবং প্রত্যেক স্ত্রীর শরীরে সত্তরজোড়া কাপড় থাকবে। এই সব কাপড়ের ভিতর থেকেও তার পায়ের জংঘার মগজ প্রকাশ পাবে। সহীহঃ সহীহাহ (১৭৩৬)। আবূ ঈসা বলেন, এই হাদীসটি হাসান সহীহ।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2522</td></tr><tr><td>Arabic No</td><td>2522</td></tr><tr><td>Reference</td><td>Book 37 Hadith 108</td></tr></tbody></table></div>
 

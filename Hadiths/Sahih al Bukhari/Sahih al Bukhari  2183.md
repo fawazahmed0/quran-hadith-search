@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+রাবী সালিম (রহ.) বলেন, ‘আবদুল্লাহ (রাঃ) যায়দ ইবনু সাবিত (রাঃ) সূত্রে আমার কাছে বর্ণনা করেছেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পরে তাজা বা শুকনো খেজুরের বিনিময়ে আরিয়্যা বিক্রয়ের অনুমতি দিয়েছেন। আরিয়্যা ব্যতীত অন্য কিছুতে এরূপ বিক্রির অনুমতি প্রদান করেননি। (২১৭৩, মুসলিম ২১/১৩, হাঃ ১৫৩৯, আহমাদ ২১৬৩৩) (আধুনিক প্রকাশনীঃ ২০৩১, ইসলামিক ফাউন্ডেশনঃ ২০৪৬ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>2183</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மரத்திலுள்ள கனிகள் பலன் உறுதிப் படும் நிலையை அடையாத வரை அவற்றை நீங்கள் விற்க வேண்டாம்! மேலும், உலர்ந்த (கொய்யப்பட்ட) கனி களுக்குப் பதிலாக (மரத்திலுள்ள) உலராத கனிகளை விற்க வேண்டாம். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மரத்திலுள்ள கனிகள் பலன் உறுதிப் படும் நிலையை அடையாத வரை அவற்றை நீங்கள் விற்க வேண்டாம்! மேலும், உலர்ந்த (கொய்யப்பட்ட) கனி களுக்குப் பதிலாக (மரத்திலுள்ள) உலராத கனிகளை விற்க வேண்டாம். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>2183</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৫২৪, আন্তর্জাতিক নাম্বারঃ ৭০৭ ১৫২৪-(.../...) ইসহাক ইবনু ইবরাহীম, আলী ইবনু খশরাম (রহঃ) থেকে বর্ণনা করেছেন। উভয়ে আ'মাশ এর মাধ্যমে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৫০৯, ইসলামীক সেন্টার ১৫১৮)
+ইসহাক ইবনু ইবরাহীম, আলী ইবনু খশরাম (রহঃ) থেকে বর্ণনা করেছেন। উভয়ে আ'মাশ এর মাধ্যমে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৫০৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>707.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 70</td></tr></tbody></table></div>
 

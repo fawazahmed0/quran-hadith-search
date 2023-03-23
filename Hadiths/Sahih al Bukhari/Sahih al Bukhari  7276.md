@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুযাইফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের হাদীস বর্ণনা করেছেন যে, আমানাত আসমান হতে মানুষের অন্তরের অন্তঃস্তলে অবতীর্ণ হয়েছে, তারপর কুরআন অবতীর্ণ হয়েছে এবং মানুষ কুরআন পাঠ করেছে এবং সুন্নাত শিক্ষা করেছে। [৬৪৯৭] (আধুনিক প্রকাশনী- ৬৭৬৮, ইসলামিক ফাউন্ডেশন- ৬৭৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হুযাইফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের হাদীস বর্ণনা করেছেন যে, আমানাত আসমান হতে মানুষের অন্তরের অন্তঃস্তলে অবতীর্ণ হয়েছে, তারপর কুরআন অবতীর্ণ হয়েছে এবং মানুষ কুরআন পাঠ করেছে এবং সুন্নাত শিক্ষা করেছে। [৬৪৯৭] (আধুনিক প্রকাশনী- ৬৭৬৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7276</td></tr><tr><td>Arabic No</td><td>7276</td></tr><tr><td>Reference</td><td>Book 96 Hadith 9</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Hudhaifa:Allah's Messenger (ﷺ) said to us, "Honesty descended from the Heavens and settled in the roots of the hearts of men (faithful believers), and then the Qur'an was revealed and the people read the Qur'an, (and learnt it from it) and also learnt it from the Sunna." Both Qur'an and Sunna strengthened their (the faithful believers') honesty. (See Hadith No. 208)
+Narrated Hudhaifa:Allah's Messenger (ﷺ) said to us, "Honesty descended from the Heavens and settled in the roots of the hearts of men (faithful believers), and then the Qur'an was revealed and the people read the Qur'an, (and learnt it from it) and also learnt it from the Sunna." Both Qur'an and Sunna strengthened their (the faithful believers') honesty. (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7276</td></tr><tr><td>Arabic No</td><td>7276</td></tr><tr><td>Reference</td><td>Book 96 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (இயற்கையாகவே) மனிதர்களின் ஆழ்மனதில் (‘அமானத்’ எனும்) நம்பகத் தன்மை வானிலிருந்து வந்து இடம்பிடித்தது. (அதற்கேற்ப) குர்ஆனும் அருளப்பெற்றது. குர்ஆனை மக்கள் படித்தார்கள். (அதிலிருந்தும் அதை அறிந்துகொண்டார்கள்.) மேலும், எனது வழிமுறையிலிருந்தும் (அதை) அறிந்துகொண்டார்கள். இதை ஹுதைஃபா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.10 அத்தியாயம் : 96
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (இயற்கையாகவே) மனிதர்களின் ஆழ்மனதில் (‘அமானத்’ எனும்) நம்பகத் தன்மை வானிலிருந்து வந்து இடம்பிடித்தது. (அதற்கேற்ப) குர்ஆனும் அருளப்பெற்றது. குர்ஆனை மக்கள் படித்தார்கள். (அதிலிருந்தும் அதை அறிந்துகொண்டார்கள்.) மேலும், எனது வழிமுறையிலிருந்தும் (அதை) அறிந்துகொண்டார்கள். இதை ஹுதைஃபா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.10 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7276</td></tr><tr><td>Arabic No</td><td>7276</td></tr><tr><td>Reference</td><td>Book 96 Hadith 9</td></tr></tbody></table></div>
 

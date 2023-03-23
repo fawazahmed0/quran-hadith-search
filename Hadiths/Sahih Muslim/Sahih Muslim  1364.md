@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১২৫১, আন্তর্জাতিক নাম্বারঃ ৬০৩ ১২৫১-(.../...) আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... শায়বান (রহঃ)-এর মাধ্যমে একই সানাদে হাদীসটি বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১২৩৯, ইসলামীক সেন্টার ১২৫১)
+আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... শায়বান (রহঃ)-এর মাধ্যমে একই সানাদে হাদীসটি বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১২৩৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1364</td></tr><tr><td>Arabic No</td><td>603.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 199</td></tr></tbody></table></div>
 

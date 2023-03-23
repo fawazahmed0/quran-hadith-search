@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যায়দ ইবনু সাবিত (রাযি.) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট সূরাহ্ ওয়ান্ন নাজ্ম তিলাওয়াত করা হল কিন্তু তাতে তিনি সিজদা্ করেননি। (১০৭৩ মুসলিম ৫/ ২০০, হাঃ ৫৭৭, আহমাদ ২১৬৪৭, ২১৬৭৯) (আধুনিক প্রকাশনীঃ ১০০৬, ইসলামিক ফাউন্ডেশনঃ ১০১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যায়দ ইবনু সাবিত (রাযি.) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট সূরাহ্ ওয়ান্ন নাজ্ম তিলাওয়াত করা হল কিন্তু তাতে তিনি সিজদা্ করেননি। (১০৭৩ মুসলিম ৫/ ২০০, হাঃ ৫৭৭, আহমাদ ২১৬৪৭, ২১৬৭৯) (আধুনিক প্রকাশনীঃ ১০০৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1072</td></tr><tr><td>Arabic No</td><td>1072</td></tr><tr><td>Reference</td><td>Book 17 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Daud Abu Ar-Rabi'] berkata, telah m
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அதாஉ பின் யசார் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஸைத் பின் ஸாபித் (ரலி) அவர்களிடம் (‘அந்நநஜ்ம்’ அத்தியாயத்தில் சஜ்தா செய்வது பற்றிக்) கேட்டேன். அவர்கள் “நான் நபி (ஸல்) அவர்களிடம் ‘அந்நஜ்ம்’ அத்தியாயத்தை ஓதிக்காட்டி னேன். அப்போது அவர்கள் சஜ்தா செய்ய வில்லை” என்று கூறினார்கள். அத்தியாயம் : 17
+அதாஉ பின் யசார் (ரஹ்) அவர்கள் கூறியதாவது: நான் ஸைத் பின் ஸாபித் (ரலி) அவர்களிடம் (‘அந்நநஜ்ம்’ அத்தியாயத்தில் சஜ்தா செய்வது பற்றிக்) கேட்டேன். அவர்கள் “நான் நபி (ஸல்) அவர்களிடம் ‘அந்நஜ்ம்’ அத்தியாயத்தை ஓதிக்காட்டி னேன். அப்போது அவர்கள் சஜ்தா செய்ய வில்லை” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1072</td></tr><tr><td>Arabic No</td><td>1072</td></tr><tr><td>Reference</td><td>Book 17 Hadith 6</td></tr></tbody></table></div>
 

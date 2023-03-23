@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৯৯, আন্তর্জাতিক নাম্বারঃ ১৬১ ২৯৯-(২৫৮/...) মুহাম্মাদ ইবনু আল মুসান্না (রহঃ) ..... ইয়াহইয়া ইবনু কাসীর (রহঃ) থেকে পূর্ব বর্ণিত সনদে বর্ণনা করেছেন। তবে তিনি এ কথা উল্লেখ করেছেনঃ সে ফেরেশতা আসমান জমিনের সাথে একটি কুরসীর উপর উপবিষ্ট। (ইসলামিক ফাউন্ডেশনঃ ৩০৭, ইসলামিক সেন্টারঃ ৩১৮)
+মুহাম্মাদ ইবনু আল মুসান্না (রহঃ) ..... ইয়াহইয়া ইবনু কাসীর (রহঃ) থেকে পূর্ব বর্ণিত সনদে বর্ণনা করেছেন। তবে তিনি এ কথা উল্লেখ করেছেনঃ সে ফেরেশতা আসমান জমিনের সাথে একটি কুরসীর উপর উপবিষ্ট। (ইসলামিক ফাউন্ডেশনঃ ৩০৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>410</td></tr><tr><td>Arabic No</td><td>161.05</td></tr><tr><td>Reference</td><td>Book 1 Hadith 315</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Yahya b Abi Kathir has reported this hadith with the same chain of transmitters 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர் தொடர் வழியாகவும் வந்துள்ளது. அதில் "அவர் (வானவர் ஜிப்ரீல்) வானுக்கும் பூமிக்குமிடையே ஓர் ஆசனத்தில் அமர்ந்து கொண்டிருந்தார்" என்று இடம்பெற்றுள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர் தொடர் வழியாகவும் வந்துள்ளது. அதில் "அவர் (வானவர் ஜிப்ரீல்) வானுக்கும் பூமிக்குமிடையே ஓர் ஆசனத்தில் அமர்ந்து கொண்டிருந்தார்" என்று இடம்பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>410</td></tr><tr><td>Arabic No</td><td>161.05</td></tr><tr><td>Reference</td><td>Book 1 Hadith 315</td></tr></tbody></table></div>
 

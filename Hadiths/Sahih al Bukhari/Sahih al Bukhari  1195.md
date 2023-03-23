@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু যায়দ-মাযিনী (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার ঘর ও মিম্বার-এর মধ্যবর্তী স্থানটুকু জান্নাতের বাগানগুলোর একটি বাগান। (মুসলিম ১৫/৯২, হাঃ ১৩৯০, আহমাদ ১৬৪৩৩) (আধুনিক প্রকাশনীঃ ১১১৭, ইসলামিক ফাউন্ডেশনঃ ১১২১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু যায়দ-মাযিনী (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার ঘর ও মিম্বার-এর মধ্যবর্তী স্থানটুকু জান্নাতের বাগানগুলোর একটি বাগান। (মুসলিম ১৫/৯২, হাঃ ১৩৯০, আহমাদ ১৬৪৩৩) (আধুনিক প্রকাশনীঃ ১১১৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 20 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எனது இல்லத்திற்கும் எனது சொற்பொழிவு மேடை(மிம்பர்)க்கும் இடைப்பட்ட பகுதியானது, சொர்க்கப் பூங்காக்களில் ஒரு பூங்காவாகும்.5 இதை அப்துல்லாஹ் பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 20
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எனது இல்லத்திற்கும் எனது சொற்பொழிவு மேடை(மிம்பர்)க்கும் இடைப்பட்ட பகுதியானது, சொர்க்கப் பூங்காக்களில் ஒரு பூங்காவாகும்.5 இதை அப்துல்லாஹ் பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 20 Hadith 7</td></tr></tbody></table></div>
 

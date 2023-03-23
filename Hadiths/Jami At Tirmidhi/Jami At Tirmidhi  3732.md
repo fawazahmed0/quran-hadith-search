@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৩২। ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মসজিদে) আলী (রাযিঃ)-এর দ্বার ছাড়া সকল দ্বার বন্ধ করে দেয়ার হুকুম দিয়েছেন। সহীহঃ যঈফাহ (৪৯৩২, ৪৯৫১) নং হাদীসের অধীনে। আবূ ঈসা বলেন, এ হাদীসটি গারীব। এ হাদীস আমরা শুধুমাত্র শুবাহ হতে উক্ত সনদে এভাবেই জানতে পেরেছি।
+। ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মসজিদে) আলী (রাযিঃ)-এর দ্বার ছাড়া সকল দ্বার বন্ধ করে দেয়ার হুকুম দিয়েছেন। সহীহঃ যঈফাহ (৪৯৩২, ৪৯৫১) নং হাদীসের অধীনে। আবূ ঈসা বলেন, এ হাদীসটি গারীব। এ হাদীস আমরা শুধুমাত্র শুবাহ হতে উক্ত সনদে এভাবেই জানতে পেরেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3732</td></tr><tr><td>Arabic No</td><td>3732</td></tr><tr><td>Reference</td><td>Book 49 Hadith 129</td></tr></tbody></table></div>
 

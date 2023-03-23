@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬৫০। ইবনু আব্বাস (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পয়ষট্টি বছর বয়সে মারা যান (জন্ম ও মৃত্যুর বছর দুটিকে আলাদা দুটি বছর ধরে)। শাজ, (৩৪৫৬) নং হাদীসে উল্লেখিত হয়েছে
+। ইবনু আব্বাস (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পয়ষট্টি বছর বয়সে মারা যান (জন্ম ও মৃত্যুর বছর দুটিকে আলাদা দুটি বছর ধরে)। শাজ, (৩৪৫৬) নং হাদীসে উল্লেখিত হয়েছে
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3650</td></tr><tr><td>Arabic No</td><td>3650</td></tr><tr><td>Reference</td><td>Book 49 Hadith 46</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ (রহঃ) ...... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ জনৈক ব্যক্তির গলায় অথবা বুকে তীর বিঁধেছিল, ফলে সে মারা যায়। অতঃপর তাকে ঐভাবে কাপড় পেঁচিয়ে দাফন করা হয়, যেভাবে সে ছিল। জাবির (রাঃ) বলেনঃ এ সময় আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলাম।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, এক ব্যক্তির বুকে বা কণ্ঠনালীতে একটি তীর বিদ্ধ হলে তাতেই সে নিহত হলো। অতঃপর তার পরিহিত কাপড়েই তাকে (দাফনে) জড়ানো হলো। ‘আমরা তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথেই ছিলাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
 

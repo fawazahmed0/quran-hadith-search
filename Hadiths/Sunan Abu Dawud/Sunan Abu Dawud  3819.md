@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহ্‌ইয়া ইবন মূসা (রহঃ) .... ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ তাবুকের যুদ্ধের সময় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট একটি পনীরের মন্ড পেশ করা হলে তিনি ছুরি চান এবং বিস্‌মিল্লাহ বলে তা কেটে খান।
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, তাবূকের ময়দানে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট পনীরের একটি টিকা আনা হলে তিনি ছুঁড়ি নিয়ে ডাকলেন এবং বিসমিল্লাহ বলে তা টুকরা টুকরা করলেন।[1] সনদ হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3819</td></tr><tr><td>Arabic No</td><td>3819</td></tr><tr><td>Reference</td><td>Book 28 Hadith 84</td></tr></tbody></table></div>
 

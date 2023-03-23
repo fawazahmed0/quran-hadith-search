@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَلِكُلٍّ وِّجْهَةٌ هُوَ مُوَلِّيْهَا فَاسْتَبِقُوا الْخَيْرٰتِ ط صـ أَيْنَ مَا تَكُوْنُوْا يَأْتِ بِكُمُ اللهُ جَمِيْعًا ط إِنَّ اللهَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ (148)). ‘‘আর প্রত্যেকেরই রয়েছে একটি দিক, যেদিকে সে মুখ করে। সুতরাং তোমরা সৎকাজে প্রতিযোগিতায় এগিয়ে যাও। যেখানেই তোমরা থাক না কেন, আল্লাহ তোমাদের সবাইকে একত্র সমবেত করবেন। নিশ্চয় আল্লাহ সর্ববিষয়ে সর্বশক্তিমান।’’ (সূরাহ আল-বাকারাহ ২/১৪৮) ৪৪৯২. বারাআ (ইবনু ‘আযিব) (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে ষোল অথবা সতের মাস ব্যাপী (মদিনা্তে) বাইতুল মাকদাসের দিকে মুখ করে সালাত আদায় করেছি। তারপর আল্লাহ তাঁকে কা‘বার পানে ফিরিয়ে দেন। [৪০] (আধুনিক প্রকাশনীঃ ৪১৩৪, ইসলামিক ফাউন্ডেশনঃ ৪১৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَلِكُلٍّ وِّجْهَةٌ هُوَ مُوَلِّيْهَا فَاسْتَبِقُوا الْخَيْرٰتِ ط صـ أَيْنَ مَا تَكُوْنُوْا يَأْتِ بِكُمُ اللهُ جَمِيْعًا ط إِنَّ اللهَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ (148)). ‘‘আর প্রত্যেকেরই রয়েছে একটি দিক, যেদিকে সে মুখ করে। সুতরাং তোমরা সৎকাজে প্রতিযোগিতায় এগিয়ে যাও। যেখানেই তোমরা থাক না কেন, আল্লাহ তোমাদের সবাইকে একত্র সমবেত করবেন। নিশ্চয় আল্লাহ সর্ববিষয়ে সর্বশক্তিমান।’’ (সূরাহ আল-বাকারাহ ২/১৪৮) ৪৪৯২. বারাআ (ইবনু ‘আযিব) (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে ষোল অথবা সতের মাস ব্যাপী (মদিনা্তে) বাইতুল মাকদাসের দিকে মুখ করে সালাত আদায় করেছি। তারপর আল্লাহ তাঁকে কা‘বার পানে ফিরিয়ে দেন। [৪০] (আধুনিক প্রকাশনীঃ ৪১৩৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4492</td></tr><tr><td>Arabic No</td><td>4492</td></tr><tr><td>Reference</td><td>Book 65 Hadith 19</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara:We prayed along with the Prophet (ﷺ) facing Jerusalem for sixteen or seventeen months. Then Allah ordered him to turn his face towards the Qibla (in Mecca):-- "And from whence-so-ever you start forth (for prayers) turn your face in the direction of (the Sacred Mosque of Mecca) Al-Masjid-ul Haram.." (2.149)
+Narrated Al-Bara:We prayed along with the Prophet (ﷺ) facing Jerusalem for sixteen or seventeen months. Then Allah ordered him to turn his face towards the Qibla (in Mecca):-- "And from whence-so-ever you start forth (for prayers) turn your face in the direction of (the Sacred Mosque of Mecca) Al-Masjid-ul Haram
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4492</td></tr><tr><td>Arabic No</td><td>4492</td></tr><tr><td>Reference</td><td>Book 65 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறிய தாவது: நபி (ஸல்) அவர்களுடன் நாங்கள் பைத்துல் மக்திஸை நோக்கி “பதினாறு' அல்லது “பதினேழு' மாதங்கள் தொழுதோம். பிறகு அல்லாஹ் நபி (ஸல்) அவர்களை (தற்போதைய கஅபா எனும்) இந்தக் கிப்லாவை நோக்கித் திருப்பிவிட்டான்.31 அத்தியாயம் : 65
+பராஉ (ரலி) அவர்கள் கூறிய தாவது: நபி (ஸல்) அவர்களுடன் நாங்கள் பைத்துல் மக்திஸை நோக்கி “பதினாறு' அல்லது “பதினேழு' மாதங்கள் தொழுதோம். பிறகு அல்லாஹ் நபி (ஸல்) அவர்களை (தற்போதைய கஅபா எனும்) இந்தக் கிப்லாவை நோக்கித் திருப்பிவிட்டான்.31 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4492</td></tr><tr><td>Arabic No</td><td>4492</td></tr><tr><td>Reference</td><td>Book 65 Hadith 19</td></tr></tbody></table></div>
 

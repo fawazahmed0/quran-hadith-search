@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৪৫৭, আন্তর্জাতিক নাম্বারঃ ২১২১ ৫৪৫৭-(…/...) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ও মুহাম্মাদ ইবনু রাফি’ (রহঃ) ..... যায়দ ইবনু আসলাম (রহঃ) থেকে উপরোল্লিখিত সানাদে হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৩৮১, ইসলামিক সেন্টার ৫৪০১)
+(…/...) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ও মুহাম্মাদ ইবনু রাফি’ (রহঃ) ..... যায়দ ইবনু আসলাম (রহঃ) থেকে উপরোল্লিখিত সানাদে হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৩৮১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5564</td></tr><tr><td>Arabic No</td><td>2121.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 174</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কোন মহিলার আপন ফুফু বা খালা কোন পুরুষের স্ত্রী হলে ঐ মহিলা যেন উক্ত পুরুষকে বিয়ে না করে। অপর এক সূত্রে এই হাদীসটি আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত আছে। (আধুনিক প্রকাশনী- ৪৭৩৪, ইসলামিক ফাউন্ডেশন- ৪৭৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কোন মহিলার আপন ফুফু বা খালা কোন পুরুষের স্ত্রী হলে ঐ মহিলা যেন উক্ত পুরুষকে বিয়ে না করে। অপর এক সূত্রে এই হাদীসটি আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত আছে। (আধুনিক প্রকাশনী- ৪৭৩৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5108</td></tr><tr><td>Arabic No</td><td>5108</td></tr><tr><td>Reference</td><td>Book 67 Hadith 46</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdan] Telah mengabarkan kepada kami [Abdullah] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: (ஒருவர்) ஒரு பெண்ணையும் அவளுடைய தந்தையின் சகோதரியையும், அல்லது தாயின் சகோதரியையும் (சேர்த்து) மணமுடிப்பதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள்.52 இதே ஹதீஸ் அபூஹ’ரைரா (ரலி) அவர்களிடமிருந்து இரு அறிவிப் பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 67
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: (ஒருவர்) ஒரு பெண்ணையும் அவளுடைய தந்தையின் சகோதரியையும், அல்லது தாயின் சகோதரியையும் (சேர்த்து) மணமுடிப்பதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள்.52 இதே ஹதீஸ் அபூஹ’ரைரா (ரலி) அவர்களிடமிருந்து இரு அறிவிப் பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5108</td></tr><tr><td>Arabic No</td><td>5108</td></tr><tr><td>Reference</td><td>Book 67 Hadith 46</td></tr></tbody></table></div>
 

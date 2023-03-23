@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাযি.) হতে বর্ণিত। ‘ঈদুল ফিতর ও কুরবানীর দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে যুদ্ধের হাতিয়ার রেখে দেয়া হত। অতঃপর তিনি সালাত আদায় করতেন। (৪৯৪) (আধুনিক প্রকাশনীঃ ৯১৬, ইসলামিক ফাউন্ডেশনঃ ৯২১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) হতে বর্ণিত। ‘ঈদুল ফিতর ও কুরবানীর দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে যুদ্ধের হাতিয়ার রেখে দেয়া হত। অতঃপর তিনি সালাত আদায় করতেন। (৪৯৪) (আধুনিক প্রকাশনীঃ ৯১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>972</td></tr><tr><td>Arabic No</td><td>972</td></tr><tr><td>Reference</td><td>Book 13 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நோன்புப் பெருநாளிலும் ஹஜ்ஜுப் பெருநாளிலும் (திறந்தவெளித் திட-ல் தொழுகை நடைபெறும்போது) நபி (ஸல்) அவர்களுக்கு முன்னால் (தடுப்பாக) ஒரு ஈட்டி நட்டு வைக்கப்படும். பிறகு நபி (ஸல்) அவர்கள் (அதை நோக்கித்) தொழு வார்கள். அத்தியாயம் : 13
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நோன்புப் பெருநாளிலும் ஹஜ்ஜுப் பெருநாளிலும் (திறந்தவெளித் திட-ல் தொழுகை நடைபெறும்போது) நபி (ஸல்) அவர்களுக்கு முன்னால் (தடுப்பாக) ஒரு ஈட்டி நட்டு வைக்கப்படும். பிறகு நபி (ஸல்) அவர்கள் (அதை நோக்கித்) தொழு வார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>972</td></tr><tr><td>Arabic No</td><td>972</td></tr><tr><td>Reference</td><td>Book 13 Hadith 21</td></tr></tbody></table></div>
 

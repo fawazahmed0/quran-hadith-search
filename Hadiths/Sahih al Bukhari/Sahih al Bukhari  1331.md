@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সামুরাহ ইবনু জুন্দাব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পশ্চাতে আমি এমন এক স্ত্রীলোকের জানাযার সালাত আদায় করেছিলাম, যে নিফাসের অবস্থায় মারা গিয়েছিল। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার (স্ত্রীলোকটির) মাঝ বরাবর দাঁড়িয়েছিলেন। (৩৩২, মুসলিম ১১/২৭, হাঃ ৯৬৪, আহমাদ ২০২৩৭) (আধুনিক প্রকাশনীঃ ১২৪৩, ইসলামিক ফাউন্ডেশনঃ ১২৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সামুরাহ ইবনু জুন্দাব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পশ্চাতে আমি এমন এক স্ত্রীলোকের জানাযার সালাত আদায় করেছিলাম, যে নিফাসের অবস্থায় মারা গিয়েছিল। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার (স্ত্রীলোকটির) মাঝ বরাবর দাঁড়িয়েছিলেন। (৩৩২, মুসলিম ১১/২৭, হাঃ ৯৬৪, আহমাদ ২০২৩৭) (আধুনিক প্রকাশনীঃ ১২৪৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1331</td></tr><tr><td>Arabic No</td><td>1331</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சமுரா பின் ஜுன்துப் (ரலி) அவர்கள் கூறியதாவது: மகப்பேறு உதிரப்போக்குடனேயே இறந்துவிட்ட பெண்ணுக்கு நபி (ஸல்) அவர்கள் ஜனாஸா தொழுகை தொழுத போது, சடலத்தின் நடுப்பகுதிக்கு நேராக நின்றார்கள். அப்போது நான் நபி (ஸல்) அவர்களுக்குப் பின்னால் தொழுதேன். அத்தியாயம் : 23
+சமுரா பின் ஜுன்துப் (ரலி) அவர்கள் கூறியதாவது: மகப்பேறு உதிரப்போக்குடனேயே இறந்துவிட்ட பெண்ணுக்கு நபி (ஸல்) அவர்கள் ஜனாஸா தொழுகை தொழுத போது, சடலத்தின் நடுப்பகுதிக்கு நேராக நின்றார்கள். அப்போது நான் நபி (ஸல்) அவர்களுக்குப் பின்னால் தொழுதேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1331</td></tr><tr><td>Arabic No</td><td>1331</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
 

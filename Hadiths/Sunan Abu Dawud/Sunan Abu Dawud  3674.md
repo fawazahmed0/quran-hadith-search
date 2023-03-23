@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন আবী শায়বা (রহঃ) ..... ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্‌র লানত শরাবের উপর, তা পানকারীর উপর, যে পান করায় তার উপর, যে বিক্রি করে তার উপর, যে তা খরিদ করে তার উপর, যে তা নিংড়ায় এবং যার নির্দেশে নিংড়ায় তার উপর, আর যে ব্যক্তি তা বহন করে এবং যার জন্য বহন করে, সকলের উপর।
+। ইবনু উমার (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মদ, তা পানকারী, পরিবেশনকারী বিক্রেতা, ক্রেতা, উৎপাদক ও শোধনকারী, যে উৎপাদন করায়, সরবরাহকারী এবং যার জন্য সরবরাহ করা হয়- এদের সকলকে আল্লাহ লা‘নত করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3674</td></tr><tr><td>Arabic No</td><td>3674</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
 

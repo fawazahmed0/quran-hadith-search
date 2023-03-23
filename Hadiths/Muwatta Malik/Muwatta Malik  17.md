@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১৭. মালিক (রহঃ)-এর নিকট রেওয়ায়ত পৌছিয়াছে যে, আবদুল্লাহ্ ইবন উমর ও যায়দ ইবন সাবিত (রাঃ) তাহারা উভয়ে বলিতেনঃ যে লোক রুকু পাইয়াছে সে সিজদাও পাইয়াছে।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Arabic No</td><td>17</td></tr><tr><td>Reference</td><td>Book 1 Hadith 17</td></tr></tbody></table></div>
 

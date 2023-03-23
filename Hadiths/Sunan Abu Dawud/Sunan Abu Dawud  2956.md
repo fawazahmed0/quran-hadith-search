@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ..... জাবির ইবন আবদুল্লাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত যে, তিনি বলতেনঃ আমি প্রত্যেক মুমিনদের জন্য তার নিজের সত্তার চাইতেও অধিক নিকটবর্তী। তাই, যদি কেউ মারা যায় এবং সে দেনা রেখে যায়, তা পরিশোধ করার দায়িত্ব আমার। পক্ষান্তরে যে ব্যক্তি ধন-সম্পদ রেখে মারা যাবে, তবে তা তাঁর পরিবার-পরিজন বা ওয়ারিছদের জন্য।
+। জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ আমি প্রত্যেক মু‘মিনের পক্ষে তার নিজের চেয়েও অধিক নিকটবর্তী। কেউ ঋণ রেখে মারা গেলে তা পরিশোধের দায়িত্ব আমার। আর কেউ সম্পদ রেখে গেলে তা তার ওয়ারিসদের জন্য।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2956</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 20 Hadith 29</td></tr></tbody></table></div>
 

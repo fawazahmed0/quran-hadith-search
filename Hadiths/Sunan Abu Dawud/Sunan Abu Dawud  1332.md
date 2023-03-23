@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন আলী (রহঃ) ..... আবু সাঈদ (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম মসজিদে “ইতিকাফ” করাকালীন সাহাবীদেরকে উচ্চস্বরে কিরআত পাঠ করতে শুনে পর্দা উঠিয়ে বলেনঃ জেনে রাখ। তোমরা প্রত্যেকেই তোমাদের রবের সাথে গোপন আলাপ রত আছ। অতএব তোমরা (উচ্চস্বরে কিরআত পাঠের দ্বারা) একে অন্যকে কষ্ট দিও না তোমরা একে অন্যের চাইতে উচ্চস্বরে কিরআত পাঠ কর না। (নাসাঈ)।
+। আবূ সাঈদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে ই‘তিকাফ কালে সাহাবীদেরকে উচ্চস্বরে ক্বিরাআত পড়তে শুনে পর্দা সরিয়ে বললেনঃ জেনে রাখো! তোমাদের প্রত্যেকেই স্বীয় রব্বের সাথে চুপিসারে আলাপে রত আছো। কাজেই তোমরা পরস্পরকে কষ্ট দিও না এবং পরস্পরের সামনে ক্বিরাআতে বা সালাতে আওয়ায উঁচু করো না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Arabic No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 5 Hadith 83</td></tr></tbody></table></div>
 

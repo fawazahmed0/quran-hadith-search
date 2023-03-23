@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সামনে فَهَلْ مِنْ مُّدَّكِرٍ পড়ার পর তিনি বললেনঃ فَهَلْ مِنْ مُدَّكِرٍ। [৩৩৪১] (আধুনিক প্রকাশনীঃ ৪৫০৭, ইসলামিক ফাউন্ডেশনঃ ৪৫১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সামনে فَهَلْ مِنْ مُّدَّكِرٍ পড়ার পর তিনি বললেনঃ فَهَلْ مِنْ مُدَّكِرٍ। [৩৩৪১] (আধুনিক প্রকাশনীঃ ৪৫০৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4874</td></tr><tr><td>Arabic No</td><td>4874</td></tr><tr><td>Reference</td><td>Book 65 Hadith 395</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah:I recited before the Prophet (ﷺ) 'Fahal-min-Mudhdhakir'. Th
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] dari [Israil] dari [Abu Ishaq] dari [Al Aswad bin Yazid] dari [Abdullah] dia berkata; Aku membacakan ayat kepada Nabi shallallahu 'alaihi wasallam FAHAL MIN MUDZAKIR. Maka Nabi shallallahu 'alaihi wasallam membenarkan dengan lafazh FAHAL MIN MUDDAKIR. (maka adakah orang yang mau mengambil pelajaran?). (AL Qamar: 15)
+Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] dari [Israil] dari [Abu Ishaq] dari [Al Aswad bin Yazid] dari [Abdullah] dia berkata; Aku membacakan ayat kepada Nabi shallallahu 'alaihi wasallam FAHAL MIN MUDZAKIR. Maka Nabi shallallahu 'alaihi wasallam membenarkan dengan lafazh FAHAL MIN MUDDAKIR. (maka adakah orang yang mau mengambil pelajaran?). (AL Qamar:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4874</td></tr><tr><td>Arabic No</td><td>4874</td></tr><tr><td>Reference</td><td>Book 65 Hadith 395</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] da
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் முன்னிலையில் ‘ஃபஹல் மின்(ம்) முஸ்ஸகிர்’ என்று நான் ஓதிக்காட்டினேன். அப்போது அவர்கள், ‘‘ஃபஹல் மின்(ம்) முத்தகிர் (என்றே ஓதுக!)” என்றார்கள்.7 அத்தியாயம் : 65
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் முன்னிலையில் ‘ஃபஹல் மின்(ம்) முஸ்ஸகிர்’ என்று நான் ஓதிக்காட்டினேன். அப்போது அவர்கள், ‘‘ஃபஹல் மின்(ம்) முத்தகிர் (என்றே ஓதுக!)” என்றார்கள்.7 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4874</td></tr><tr><td>Arabic No</td><td>4874</td></tr><tr><td>Reference</td><td>Book 65 Hadith 395</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৪৪১। আনাস (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফর হতে ফিরে এসে মদীনার প্রাচীরের দিকে দৃষ্টি নিক্ষেপ করতেন এবং মদীনার প্রতি মুহাব্বতের কারণে তার উষ্ট্রী দ্রুত হাকাতেন, আর অপর কোন পশু হলে তাও তাড়াতাড়ি চালাতেন। সহীহঃ বুখারী ৮৭৪ নং হাদীসের সংক্ষেপিত। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ গারীব।
+। আনাস (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফর হতে ফিরে এসে মাদীনার প্রাচীরের দিকে দৃষ্টি নিক্ষেপ করতেন এবং মাদীনার প্রতি মুহাব্বতের কারণে তার উষ্ট্রী দ্রুত হাকাতেন, আর অপর কোন পশু হলে তাও তাড়াতাড়ি চালাতেন। সহীহঃ বুখারী ৮৭৪ নং হাদীসের সংক্ষেপিত। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3441</td></tr><tr><td>Arabic No</td><td>3441</td></tr><tr><td>Reference</td><td>Book 48 Hadith 72</td></tr></tbody></table></div>
 

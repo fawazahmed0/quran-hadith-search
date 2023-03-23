@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট লোকেরা অশুভ সম্পর্কে আলোচনা করলে তিনি বলেন, কোন কিছুর মধ্যে যদি অশুভ থাকে, তা হলোঃ বাড়ি-ঘর, স্ত্রীলোক এবং ঘোড়া। [২০৯৯] (আধুনিক প্রকাশনী- ৪৭২১, ইসলামিক ফাউন্ডেশন- ৪৭২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট লোকেরা অশুভ সম্পর্কে আলোচনা করলে তিনি বলেন, কোন কিছুর মধ্যে যদি অশুভ থাকে, তা হলোঃ বাড়ি-ঘর, স্ত্রীলোক এবং ঘোড়া। [২০৯৯] (আধুনিক প্রকাশনী- ৪৭২১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 67 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Minhal] Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்கு அருகில் மக்கள் அபசகுனம் குறித்துப் பேசினர். அப்போது நபி (ஸல்) அவர்கள் ‘‘அப சகுனம் எதிலேனும் இருக்குமானால், வீட்டிலும் பெண்ணிலும் குதிரையிலும்தான் இருக்கும்” என்று சொன்னார்கள். அத்தியாயம் : 67
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்கு அருகில் மக்கள் அபசகுனம் குறித்துப் பேசினர். அப்போது நபி (ஸல்) அவர்கள் ‘‘அப சகுனம் எதிலேனும் இருக்குமானால், வீட்டிலும் பெண்ணிலும் குதிரையிலும்தான் இருக்கும்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 67 Hadith 32</td></tr></tbody></table></div>
 

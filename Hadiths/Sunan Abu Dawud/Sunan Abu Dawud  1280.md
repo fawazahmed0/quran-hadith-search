@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুলল্লাহ (রহঃ) .... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসরের ফরয নামায আদায়ের পর অন্য নফল নামাযও পড়তেন। তবে তিনি তাঁর উম্মতকে তা পড়তে নিষেধ করতেন এবং তিনি (কোন কোন সময়) একই সঙ্গে বহু দিন রোযা (সাওমে বিসাল) রাখতেন, কিন্তু তিনি উম্মাতকে এভাবে রোযা রাখতে নিষেধ করতেন।
+। ‘আয়িশাহ্ (রাঃ)-এর মুক্তদাস যাকওয়ান (রহঃ) সূত্রে বর্ণিত। তিনি তাকে বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজে ‘আসরের পরে সালাত আদায় করতেন, তবে লোকদেরকে নিষেধ করতেন এবং তিনি বিরতিহীনভাবে (বহুদিন) সওম পালন করতেন, কিন্তু অন্যদেরকে বিরতিহীনভাবে সওম পালনে নিষেধ করতেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1280</td></tr><tr><td>Arabic No</td><td>1280</td></tr><tr><td>Reference</td><td>Book 5 Hadith 31</td></tr></tbody></table></div>
 

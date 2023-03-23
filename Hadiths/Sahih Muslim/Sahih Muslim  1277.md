@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১১৬৪, আন্তর্জাতিক নাম্বারঃ ৫৭২ ১১৬৪-(.../...) ইসহাক ইবনু ইবরাহীম (রহঃ) .... মনসুর (রহঃ) থেকে একই সনদে হাদীসটি বর্ণনা করেছেন। তিনি বলেছেন, চিন্তা-ভাবনা করে তার ভিত্তিতে সিদ্ধান্ত গ্রহণ করতে হবে। (ইসলামী ফাউন্ডেশন ১১৫৬, ইসলামীক সেন্টার ১১৬৬)
+ইসহাক ইবনু ইবরাহীম (রহঃ) .... মনসুর (রহঃ) থেকে একই সনদে হাদীসটি বর্ণনা করেছেন। তিনি বলেছেন, চিন্তা-ভাবনা করে তার ভিত্তিতে সিদ্ধান্ত গ্রহণ করতে হবে। (ইসলামী ফাউন্ডেশন ১১৫৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>572.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 115</td></tr></tbody></table></div>
 

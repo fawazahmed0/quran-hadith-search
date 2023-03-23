@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৮৮৷ ইকরামার কিছু সঙ্গী হতে বর্ণিত আছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নামাযে এদিক-সেদিক চোখ ঘুরাতেন উপরের হাদীসের মতো। সহীহ দেখুন পূর্বোক্ত হাদীস। এ অনুচ্ছেদে আনাস ও আয়িশাহ (রাঃ) হতেও হাদীস বর্ণিত আছে।
+ইকরামার কিছু সঙ্গী হতে বর্ণিত আছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নামাযে এদিক-সেদিক চোখ ঘুরাতেন উপরের হাদীসের মতো। সহীহ দেখুন পূর্বোক্ত হাদীস। এ অনুচ্ছেদে আনাস ও আয়িশাহ (রাঃ) হতেও হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>588</td></tr><tr><td>Arabic No</td><td>588</td></tr><tr><td>Reference</td><td>Book 6 Hadith 45</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন মুহাম্মদ (রহঃ) ...... আমর ইবন শারীদ (রহঃ) তাঁর পিতা থেকে বর্ণনা করেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মালদার ব্যক্তি যদি দেনা পরিশোধ করতে গড়িমসি করে, তবে সে গালমন্দ শোনার ও অসম্মানের পাত্র হয় এবং সে ব্যক্তি শাস্তির উপযুক্ত হয়। রাবী ইবন মুবারক বলেনঃ অসম্মানের পাত্র হওয়ার অর্থ, তাকে এ জন্য গালমন্দ করা হয় এবং কটু কথা শোনান হয়। আর শাস্তির অর্থ হলো, তাকে বন্দী করা হয়।
+। ‘আমর ইবনুশ শারীদ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সচ্ছল ব্যক্তি ঋণ পরিশোধ না করলে তার মান-সম্মানের উপর হস্তক্ষেপ করা যায় এবং তাকে শাস্তি দেয়া যায়। ইবনুল মুবারক (রহঃ) বলেন, এর অর্থ হলো, তার প্রতি কঠোরতা প্রদর্শন করা বৈধ এবং অর্থ তাকে আটক করা যাবে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3628</td></tr><tr><td>Arabic No</td><td>3628</td></tr><tr><td>Reference</td><td>Book 25 Hadith 58</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr b. eş-Şerîd'in babasından, Rasulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu rivayet edilmiştir: "Varlıklı bir kimse'nin borcununu ödemeyi geciktirmesi (alacaklıya ondan) şikâyetçi olmayı ve (hâkime de) onu (hapis cezasıyle) cezalandırmayı meşru kılar." Îbnü'l-Mübârek dedi ki; (Metinde geçen) "Yuhillu ırzahû" (cümlesi) "Ona sertçe çıkışabilir" anlamına gelir, "Ve ukûbetehu" cümlesi de, "hapsedilebilir' anlamına gelir. Diğer tahric: Buhari, istikrad; Nesâî, buyu'; İbn Mâce, sadakat; Ahmed b. Hanbel, V, 388, 389
+Amr b. eş-Şerîd'in babasından, Rasulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu rivayet edilmiştir: "Varlıklı bir kimse'nin borcununu ödemeyi geciktirmesi (alacaklıya ondan) şikâyetçi olmayı ve (hâkime de) onu (hapis cezasıyle) cezalandırmayı meşru kılar." Îbnü'l-Mübârek dedi ki; (Metinde geçen) "Yuhillu ırzahû" (cümlesi) "Ona sertçe çıkışabilir" anlamına gelir, "Ve ukûbetehu" cümlesi de, "hapsedilebilir' anlamına gelir. Diğer tahric: Buhari, istikrad; Nesâî, buyu'; İbn Mâce, sadakat; Ahmed b. Hanbel, V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3628</td></tr><tr><td>Arabic No</td><td>3628</td></tr><tr><td>Reference</td><td>Book 25 Hadith 58</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর জীবনের শেষের দিকে আমাদের নিয়ে ‘ইশার সালাত আদায় করলেন। সালাম ফিরানোর পর তিনি দাঁড়িয়ে বললেনঃ তোমরা কি এ রাতের সম্পর্কে জান? বর্তমানে যারা পৃথিবীতে রয়েছে, একশ বছরের মাথায় তাদের কেউ আর অবশিষ্ট থাকবে না। (৫৬৪, ৬০১; মুসলিম ৪৪/৫৩, হাঃ ২৫৩৬) (আধুনিক প্রকাশনীঃ ১১৪, ইসলামিক ফাউন্ডেশনঃ ১১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর জীবনের শেষের দিকে আমাদের নিয়ে ‘ইশার সালাত আদায় করলেন। সালাম ফিরানোর পর তিনি দাঁড়িয়ে বললেনঃ তোমরা কি এ রাতের সম্পর্কে জান? বর্তমানে যারা পৃথিবীতে রয়েছে, একশ বছরের মাথায় তাদের কেউ আর অবশিষ্ট থাকবে না। (৫৬৪, ৬০১; মুসলিম ৪৪/৫৩, হাঃ ২৫৩৬) (আধুনিক প্রকাশনীঃ ১১৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>116</td></tr><tr><td>Arabic No</td><td>116</td></tr><tr><td>Reference</td><td>Book 3 Hadith 58</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது வாழ் நாளின் இறுதிக் காலத்தில் (ஒரு நாள்) எங்களுக்கு இஷா தொழுகை நடத்தி னார்கள். சலாம் கொடுத்து முடித்ததும் எழுந்து நின்று, “உங்களது இந்த இரவைப் பற்றி உங்களுக்குத் தெரியுமா? இன்றி லிருந்து (சரியாக) ஒரு நூற்றாண்டின் ஆரம்பத்தில் இப்போது பூமியின்மேல் இருக்கக்கூடியவர்களில் ஒருவர்கூட எஞ்சியிருக்கமாட்டார்கள்” என்று கூறினார்கள்.26 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 3
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது வாழ் நாளின் இறுதிக் காலத்தில் (ஒரு நாள்) எங்களுக்கு இஷா தொழுகை நடத்தி னார்கள். சலாம் கொடுத்து முடித்ததும் எழுந்து நின்று, “உங்களது இந்த இரவைப் பற்றி உங்களுக்குத் தெரியுமா? இன்றி லிருந்து (சரியாக) ஒரு நூற்றாண்டின் ஆரம்பத்தில் இப்போது பூமியின்மேல் இருக்கக்கூடியவர்களில் ஒருவர்கூட எஞ்சியிருக்கமாட்டார்கள்” என்று கூறினார்கள்.26 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>116</td></tr><tr><td>Arabic No</td><td>116</td></tr><tr><td>Reference</td><td>Book 3 Hadith 58</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) hayatının son günlerinde bize bir yatsı namazı kıldırdı. Selâm verdikten sonra şöyle buyurdu: "Bu geceyi görüyorsunuz ya, bu geceden itibaren yüz sene başında (tam yüz yıl sonra) yeryüzünde bulunanlardan hiç bir kimse hayatta kalmayacaktır. Tekrar: 564, 601
+Abdullah İbn Ömer şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) hayatının son günlerinde bize bir yatsı namazı kıldırdı. Selâm verdikten sonra şöyle buyurdu: "Bu geceyi görüyorsunuz ya, bu geceden itibaren yüz sene başında (tam yüz yıl sonra) yeryüzünde bulunanlardan hiç bir kimse hayatta kalmayacaktır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>116</td></tr><tr><td>Arabic No</td><td>116</td></tr><tr><td>Reference</td><td>Book 3 Hadith 58</td></tr></tbody></table></div>
 

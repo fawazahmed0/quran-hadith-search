@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৫/৯০। সাওবান (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেবল সৎ কর্মই আয়ু বৃদ্ধি করে এবং দুআ ব্যতীত অন্য কিছুতে তাকদীর রদ হয় না। মানুষের অসৎ কর্মই তাকে রিয্ক বঞ্চিত করে।
+। সাওবান (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেবল সৎ কর্মই আয়ু বৃদ্ধি করে এবং দুআ ব্যতীত অন্য কিছুতে তাকদীর রদ হয় না। মানুষের অসৎ কর্মই তাকে রিয্ক বঞ্চিত করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Arabic No</td><td>90</td></tr><tr><td>Reference</td><td>Book 0 Hadith 90</td></tr></tbody></table></div>
 

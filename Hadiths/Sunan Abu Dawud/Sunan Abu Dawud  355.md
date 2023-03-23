@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু কাছীর .... খলীফা ইবনু হুসায়েন থেকে তাঁর দাদা কায়েস (রাঃ) এর সূত্রে বর্ণিত। তিনি বলেন, আমি ইসলাম কবুল করার আগ্রহে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের খিদমতে হাযির হলে তিনি আমাকে কূলের পাতা মিশ্রিত পানি দ্বারা গোসল করার নির্দেশ দেন।
+। কাসিম ইবনু ‘আসিম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট ইসলাম গ্রহণের উদ্দেশ্যে এলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বরই পাতা মেশানো পানি দিয়ে গোসল করার নির্দেশ দিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>355</td></tr><tr><td>Reference</td><td>Book 1 Hadith 355</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir Al 'Abdi] telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Kays bin Asim (r.a.)'den şöyle demiştir: "Müslüman olmak gayesiyle ResuluIIah (Sallallahu aleyhi ve Sellem)'e geldim, Sidr karışmış su ile gusletmemi emretti." Diğer tahric: Nesai, tahare Tirmizî, cuma; Ahmed b. Hanbel.V, 61
+Kays bin Asim (r.a.)'den şöyle demiştir: "Müslüman olmak gayesiyle ResuluIIah (Sallallahu aleyhi ve Sellem)'e geldim, Sidr karışmış su ile gusletmemi emretti." Diğer tahric: Nesai, tahare Tirmizî, cuma; Ahmed b. Hanbel.V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>355</td></tr><tr><td>Reference</td><td>Book 1 Hadith 355</td></tr></tbody></table></div>
 

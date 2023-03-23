@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫২, আন্তর্জাতিক নাম্বারঃ ২৮৭ ৫৫২-(১০৩/২৮৭) মুহাম্মাদ ইবনু রুমহ (রহঃ) ..... উম্মু কায়স বিনতু মিহসান (রাযিঃ) থেকে বর্ণিত। তিনি তার শিশু পুত্র সহ, যে তখনও খাদ্য খাওয়া শুরু করেনি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে গেলেন। তার শিশু পুত্রটি তখনও কঠিন খাদ্য খেতে শুরু করেনি। তিনি শিশুটিকে রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কোলে রেখে দিলেন। সে তার কাপড়ে প্রস্রাব করে দিল। বর্ণনাকারী বলেন, তাতে তিনি পানি ছিটিয়ে দেয়া ছাড়া অধিক কিছুই করলেন না। (ইসলামিক ফাউন্ডেশনঃ ৫৫৬, ইসলামিক সেন্টারঃ ৫৭২)
+মুহাম্মাদ ইবনু রুমহ (রহঃ) ..... উম্মু কায়স বিনতু মিহসান (রাযিঃ) থেকে বর্ণিত। তিনি তার শিশু পুত্র সহ, যে তখনও খাদ্য খাওয়া শুরু করেনি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে গেলেন। তার শিশু পুত্রটি তখনও কঠিন খাদ্য খেতে শুরু করেনি। তিনি শিশুটিকে রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কোলে রেখে দিলেন। সে তার কাপড়ে প্রস্রাব করে দিল। বর্ণনাকারী বলেন, তাতে তিনি পানি ছিটিয়ে দেয়া ছাড়া অধিক কিছুই করলেন না। (ইসলামিক ফাউন্ডেশনঃ ৫৫৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>287.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 131</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin Rumh bin al-Muhajir] telah mengabar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் பால்குடி மாறாத ஓர் ஆண்குழந்தை கொண்டு வரப்பட்டது. அது அவர்களது மடியில் சிறுநீர் கழித்துவிட்டது. அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தண்ணீர் கொண்டுவரச் சொல்லி சிறுநீர் கழித்த இடத்தில் ஊற்றி விட்டார்கள். - மேற்கண்ட (481ஆவது) ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 2
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் பால்குடி மாறாத ஓர் ஆண்குழந்தை கொண்டு வரப்பட்டது. அது அவர்களது மடியில் சிறுநீர் கழித்துவிட்டது. அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தண்ணீர் கொண்டுவரச் சொல்லி சிறுநீர் கழித்த இடத்தில் ஊற்றி விட்டார்கள். - மேற்கண்ட (481ஆவது) ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>287.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 131</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Muhammad bin Rumh bin al-Muhajir] telah mengabar
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. Runıh b. el-Muhacir rivayet etti. (Dedi ki) : Bize Leys, İbni Şihap'tan, o da Ubeydullah b. Abdillah'tan, o da Ümmü Kays binti Mihsan'dan naklen haber verdi ki Ümmü Kays: Resulullah (Sallallahu aleyhi ve Sellem)'e henüz yemek yemeye başlamamış bir oğlunu götürüp onun kucağına koydu. Çocuk da işecli. (Ravi) dedi ki: Su serpmekten fazla bir şey yapmadı. Diğer tahric: Buhari, 223; Müslim, 5766 -buna yakın-; Ebu Davud, 374; Tirmizi, 71 -buna yakın-; Nesai, 301; İbn Mace, 524 -buna yakın-; Tuhfetu'l-Eşraf, 18342
+Bize Muhammed b. Runıh b. el-Muhacir rivayet etti. (Dedi ki) : Bize Leys, İbni Şihap'tan, o da Ubeydullah b. Abdillah'tan, o da Ümmü Kays binti Mihsan'dan naklen haber verdi ki Ümmü Kays: Resulullah (Sallallahu aleyhi ve Sellem)'e henüz yemek yemeye başlamamış bir oğlunu götürüp onun kucağına koydu. Çocuk da işecli. (Ravi) dedi ki: Su serpmekten fazla bir şey yapmadı. Diğer tahric: Buhari, 223; Müslim, 5766 -buna yakın-; Ebu Davud, 374; Tirmizi, 71 -buna yakın-; Nesai, 301; İbn Mace, 524 -buna yakın-; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>287.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 131</td></tr></tbody></table></div>
 

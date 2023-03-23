@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০৮৬, আন্তর্জাতিক নাম্বারঃ ১০৮৭ ১০৮৬. মুহাম্মাদ ইবনুল মুসান্না (রহ.) ..... মালিক ইবনু হুওয়াইরিস (রাঃ) হতে বর্ণিত। তিনি নবী (সা.) -কে সালাতে উভয় হাত উঠাতে দেখেছেন। অতঃপর তিনি পূর্ববৎ উল্লেখ করলেন। সহীহ: মুসলিম ৩৯১, আবু দাউদ ৭৪৫, ইবনু মাজাহ ৮৫৯। [দ্রঃ ১০৮৫]
+। মুহাম্মদ ইবনু মুছান্না (রহঃ) ... মালিক ইবনু হুয়াইরিছ (রাঃ) থেকে বর্ণিত যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সালাতে উভয় হাত উঠাতে দেখেছেন। তারপর তিনি পূর্ববৎ উল্লেখ করলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1086</td></tr><tr><td>Arabic No</td><td>1086</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
 

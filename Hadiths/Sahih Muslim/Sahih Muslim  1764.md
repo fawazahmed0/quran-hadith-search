@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৬৪৯, আন্তর্জাতিক নাম্বারঃ ৭৫৪ ১৬৪৯-(১৬০/৭৫৪) আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... আবূ সাঈদ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ভোর (ফাজর) হবার পূর্বেই বিতর সালাত আদায় কর। (ইসলামী ফাউন্ডেশন ১৬৩৪, ইসলামীক সেন্টার ১৬৪১)
+আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... আবূ সাঈদ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ভোর (ফাজর) হবার পূর্বেই বিতর সালাত আদায় কর। (ইসলামী ফাউন্ডেশন ১৬৩৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1764</td></tr><tr><td>Arabic No</td><td>754.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 193</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Abu Sa'id (al Khudri) reported Allah's Apostle (ﷺ) as saying:Observe Witr pray
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் சுப்ஹை அடைவதற்கு முன் வித்ர் தொழுங்கள்! இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 6
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் சுப்ஹை அடைவதற்கு முன் வித்ர் தொழுங்கள்! இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1764</td></tr><tr><td>Arabic No</td><td>754.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 193</td></tr></tbody></table></div>
 

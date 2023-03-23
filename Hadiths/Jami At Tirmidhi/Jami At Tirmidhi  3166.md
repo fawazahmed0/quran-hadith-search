@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১৬৬। আবূ হুরাইরাহ (রাযিঃ) কর্তৃক বর্ণিত আছে। তিনি বলেন, রাসূলুল্লাহঃ বলেছেনঃ ইবরাহীম (আঃ) তিনটি ক্ষেত্র ছাড়া কোন ব্যাপারে কখনো মিথ্যা বলেননি। যেমন তার কথা “আমি অসুস্থ”- (সূরাঃ আস-সাফফাত ৮৯), অথচ তিনি অসুস্থ ছিলেন না, নিজের বিবি সারা'-কে তার বোন বলা এবং তার কথা “বরং এগুলোর ভিতর সর্বাধিক বড়টি এ কাজ করেছে"- (সূরা আম্বিয়া ৬৩)। সহীহঃ সহীহ আবূ দাউদ (১৯১৬), বুখারী, মুসলিম। হাদীসটি একাধিক সূত্রে আবূ হুরাইরাহ (রাযিঃ)-এর বরাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত হয়েছে। ইবনু ইসহাক হতে আবূয যান্নাদ সূত্রে বর্ণিত হাদীসটি গারীব। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ।
+। আবূ হুরাইরাহ (রাযিঃ) কর্তৃক বর্ণিত আছে। তিনি বলেন, রাসূলুল্লাহঃ বলেছেনঃ ইবরাহীম (আঃ) তিনটি ক্ষেত্র ছাড়া কোন ব্যাপারে কখনো মিথ্যা বলেননি। যেমন তার কথা “আমি অসুস্থ”- (সূরাঃ আস-সাফফাত ৮৯), অথচ তিনি অসুস্থ ছিলেন না, নিজের বিবি সারা'-কে তার বোন বলা এবং তার কথা “বরং এগুলোর ভিতর সর্বাধিক বড়টি এ কাজ করেছে"- (সূরা আম্বিয়া ৬৩)। সহীহঃ সহীহ আবূ দাউদ (১৯১৬), বুখারী, মুসলিম। হাদীসটি একাধিক সূত্রে আবূ হুরাইরাহ (রাযিঃ)-এর বরাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত হয়েছে। ইবনু ইসহাক হতে আবূয যান্নাদ সূত্রে বর্ণিত হাদীসটি গারীব। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3166</td></tr><tr><td>Arabic No</td><td>3166</td></tr><tr><td>Reference</td><td>Book 47 Hadith 218</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Hurairah:that the Messenger of Allah (ﷺ) said: "Ibrahim, peace be upon him, did not lie about anything at all - except for three: 'Verily I am sick (37:89)' while he was not sick. And his saying about Sarah: 'She is my sister' and his saying: 'Nay, this one, the biggest of them did it (21:63)
+Narrated Abu Hurairah:that the Messenger of Allah (ﷺ) said: "Ibrahim, peace be upon him, did not lie about anything at all - except for three: 'Verily I am sick (37:89)' while he was not sick. And his saying about Sarah: 'She is my sister' and his saying: 'Nay, this one, the biggest of them did it (21:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3166</td></tr><tr><td>Arabic No</td><td>3166</td></tr><tr><td>Reference</td><td>Book 47 Hadith 218</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, যখন রমাযানের শেষ দশক আসত তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর লুঙ্গি কষে নিতেন (বেশি বেশি ইবাদতের প্রস্তুতি নিতেন) এবং রাত্র জেগে থাকতেন ও পরিবার-পরিজনকে জাগিয়ে দিতেন। (মুসলিম ১৪/৩, হাঃ ১১৭৪) (আধুনিক প্রকাশনীঃ ১৮৮২, ইসলামিক ফাউন্ডেশনঃ ১৮৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, যখন রমাযানের শেষ দশক আসত তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর লুঙ্গি কষে নিতেন (বেশি বেশি ইবাদতের প্রস্তুতি নিতেন) এবং রাত্র জেগে থাকতেন ও পরিবার-পরিজনকে জাগিয়ে দিতেন। (মুসলিম ১৪/৩, হাঃ ১১৭৪) (আধুনিক প্রকাশনীঃ ১৮৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2024</td></tr><tr><td>Arabic No</td><td>2024</td></tr><tr><td>Reference</td><td>Book 32 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (ரமளானின் இறுதிப்) பத்து நாட்கள் வந்துவிட்டால், நபி (ஸல்) அவர்கள் இல்லறத் தொடர்பை நிறுத்தி(வழிபாடுக்கு ஆயத்தமாகி)விடுவார்கள்; இரவில் (இறையை வழிபட்டு) விழித்திருப்பார்கள்; (இறை வழிபாட்டிற்காக) தம் குடும்பத் தாரை எழுப்பிவிடுவார்கள். அத்தியாயம் : 32
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (ரமளானின் இறுதிப்) பத்து நாட்கள் வந்துவிட்டால், நபி (ஸல்) அவர்கள் இல்லறத் தொடர்பை நிறுத்தி(வழிபாடுக்கு ஆயத்தமாகி)விடுவார்கள்; இரவில் (இறையை வழிபட்டு) விழித்திருப்பார்கள்; (இறை வழிபாட்டிற்காக) தம் குடும்பத் தாரை எழுப்பிவிடுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2024</td></tr><tr><td>Arabic No</td><td>2024</td></tr><tr><td>Reference</td><td>Book 32 Hadith 11</td></tr></tbody></table></div>
 

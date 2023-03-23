@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াযীদ ইবন খালিদ (রহঃ) .... আমর ইবন শুআয়ব (রহঃ) তার পিতা হতে, তিনি তার দাদা থেকে বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যিম্মীর দিয়াত হলো স্বাধীন ব্যক্তির দিয়াতের অর্ধেক।
+। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা এবং তার দাদার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যিম্মীর দিয়াত স্বাধীন ব্যক্তির দিয়াতের অর্ধেক।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4583</td></tr><tr><td>Arabic No</td><td>4583</td></tr><tr><td>Reference</td><td>Book 41 Hadith 90</td></tr></tbody></table></div>
 

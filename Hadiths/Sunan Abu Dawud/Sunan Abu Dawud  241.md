@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াকূব ইবনু ইব্রাহীম ..... জুমাই ইবনু উমায়ের (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আমার মাতা ও খালা সমভিব্যাহারে আয়িশা (রাঃ) এর খিদমতে উপস্থিত হলাম। তাঁদের কোন একজন আয়িশা (রাঃ)-কে জিজ্ঞাসা করেন, আপনারা কিভাবে গোসল করতেন? আয়িশা (রাঃ) বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম গোসলের পূর্বে নামাযের ন্যায় উযূ করতেন, অতঃপর মাথায় তিনবার পানি ঢালতেন এবং আমাদের চুল বাঁধা থাকার কারণে আমরা নিজেদের মাথায় পাঁচবার করে পানি ঢালতাম। (নাসাঈ, ইবনু মাজাহ)।
+। জুমাই' ইবনু ‘উমাইর (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি আমার মা ও খালার সাথে ‘আয়িশাহ্ (রাঃ)-এর নিকট গেলাম। তাদের একজন তাঁকে জিজ্ঞাসা করলেন, আপনারা কিভাবে গোসল করতেন? ‘আয়িশাহ্ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রথমে সালাতের অযুর ন্যায় অযু করতেন, এরপর মাথায় তিনবার পানি ঢালতেন। তবে আমরা চুলের খোঁপার বেনীর কারণে পাঁচবার পানি ঢালতাম।[1] খুবই দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>241</td></tr><tr><td>Arabic No</td><td>241</td></tr><tr><td>Reference</td><td>Book 1 Hadith 241</td></tr></tbody></table></div>
 

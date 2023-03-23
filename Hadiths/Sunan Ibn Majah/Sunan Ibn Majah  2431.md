@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৪৩১। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মিরাজের রাতে আমি জান্নাতের একটি দরজায় লেখা দেখলাম, দান-খয়রাতে দশ গুণ সওয়াব এবং করযে আঠারো গুণ! আমি বললামঃ হে জিবরীল! করয দান-খয়রাতের চেয়ে উত্তম হওয়ার কারণ কি? তিনি বলেন, ভিক্ষুক নিজের কাছে (সম্পদ) থাকতেও ভিক্ষা চায়, কিন্তু কযরদান প্রয়োজনের তাগিদেই কর্য চায়।
+। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মিরাজের রাতে আমি জান্নাতের একটি দরজায় লেখা দেখলাম, দান-খয়রাতে দশ গুণ সওয়াব এবং করযে আঠারো গুণ! আমি বললামঃ হে জিবরীল! করয দান-খয়রাতের চেয়ে উত্তম হওয়ার কারণ কি? তিনি বলেন, ভিক্ষুক নিজের কাছে (সম্পদ) থাকতেও ভিক্ষা চায়, কিন্তু কযরদান প্রয়োজনের তাগিদেই কর্য চায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 15 Hadith 42</td></tr></tbody></table></div>
 

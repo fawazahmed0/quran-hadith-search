@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৩৭৪। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আহলে কিতাব সম্প্রদায়ের পরস্পরের পক্ষে-বিপক্ষে সাক্ষ্যদান অনুমোদন করেছেন।
+। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আহলে কিতাব সম্প্রদায়ের পরস্পরের পক্ষে-বিপক্ষে সাক্ষ্যদান অনুমোদন করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2374</td></tr><tr><td>Arabic No</td><td>2374</td></tr><tr><td>Reference</td><td>Book 13 Hadith 67</td></tr></tbody></table></div>
 

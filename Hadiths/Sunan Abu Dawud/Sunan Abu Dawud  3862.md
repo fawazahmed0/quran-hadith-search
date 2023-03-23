@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... আবূ বাকরা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ তাঁর পিতা তাঁর পরিবার পরিজনদিগকে মঙ্গলবারের দিন শিংগা লাগাতে নিষেধ করতেন। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণনা করতেন যে, মঙ্গলবারের দিন হলো শরীরে রক্তের ধারা পরিবর্তনের দিন এবং এ দিনের মধ্যে এরূপ বিশেষ একটি সময় আছে, যখন রক্ত বন্ধ হয় না।
+। কায়্যিসাহ বিনতু আবূ বাকরাহ (রহঃ) বর্ণনা করেন যে, তার পিতা নিজের পরিজনকে মঙ্গলবার দিন রক্তমোক্ষণ করাতে বারণ করেছেন। তিনি দাবি করতেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণিত হয়েছে যে, মঙ্গলবার দিন হলো রক্তের দিন; এদিনে এমন একটি মুহূর্ত রয়েছে, যখন রক্তমোক্ষণ বন্ধ হয় না।[1] দুর্বলঃ মিশকাত (৪৫৪৯)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3862</td></tr><tr><td>Arabic No</td><td>3862</td></tr><tr><td>Reference</td><td>Book 29 Hadith 8</td></tr></tbody></table></div>
 

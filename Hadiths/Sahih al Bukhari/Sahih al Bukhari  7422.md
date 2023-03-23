@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ আল্লাহ্ যখন সকল মাখলূক সৃষ্টি করার কাজ শেষ করলেন, তখন তাঁর আরশের ওপর তাঁরই কাছে লিখে রাখলেন, ‘আমার রহমত আমার গযব থেকে এগিয়ে গেছে।’ (আধুনিক প্রকাশনী- ৬৯০৫, ইসলামিক ফাউন্ডেশন- ৬৯১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ আল্লাহ্ যখন সকল মাখলূক সৃষ্টি করার কাজ শেষ করলেন, তখন তাঁর আরশের ওপর তাঁরই কাছে লিখে রাখলেন, ‘আমার রহমত আমার গযব থেকে এগিয়ে গেছে।’ (আধুনিক প্রকাশনী- ৬৯০৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7422</td></tr><tr><td>Arabic No</td><td>7422</td></tr><tr><td>Reference</td><td>Book 97 Hadith 50</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் (படைப்புகளைப்) படைக் கும் பணியை நிறைவு செய்தபோது தன்னிடமுள்ள அரியணைக்கு மேலே, “என் கருணை என் கோபத்தை முந்திவிட்டது” என்று எழுதினான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.60 அத்தியாயம் : 97
+நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் (படைப்புகளைப்) படைக் கும் பணியை நிறைவு செய்தபோது தன்னிடமுள்ள அரியணைக்கு மேலே, “என் கருணை என் கோபத்தை முந்திவிட்டது” என்று எழுதினான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.60 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7422</td></tr><tr><td>Arabic No</td><td>7422</td></tr><tr><td>Reference</td><td>Book 97 Hadith 50</td></tr></tbody></table></div>
 

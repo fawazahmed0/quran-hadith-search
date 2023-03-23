@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৭১১, আন্তর্জাতিক নাম্বারঃ ২২২৮ ৫৭১১-(…/...) আবূ তাহির (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে উপরোল্লিখিত সূত্রে যুহরী (রহঃ) হতে মা'কিল (রহঃ) এর হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৬২৪, ইসলামিক সেন্টার ৫৬৫৩)
+(…/...) আবূ তাহির (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে উপরোল্লিখিত সূত্রে যুহরী (রহঃ) হতে মা'কিল (রহঃ) এর হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৬২৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5818</td></tr><tr><td>Arabic No</td><td>2228.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 170</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... ইকরামা (রহঃ) থেকে বর্ণিত। তিনি ইবন আব্বাস (রাঃ)-কে এমনভাবে লুঙ্গী পরতে দেখেন, যাতে তার সামনের অংশ পায়ের পাতার উপর গিয়ে পড়ে এবং পেছনের দিক উপরে উঠে যায়। আমি তাঁকে জিজ্ঞাসা করিঃ আপনি এভাবে কেন লুঙ্গী পরেন? তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে এভাবে লুঙ্গী পরতে দেখেছি।
+। মুহাম্মাদ ইবনু আবূ ইয়াহইয়া (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘ইকরিমাহ (রহঃ) আমার নিকট বর্ণনা করেন, তিনি ইবনু আব্বাস (রাঃ)-কে লুঙ্গি পরিধান করতে দেখেছেন। তিনি লুঙ্গির কিনারা সামনের দিকে পায়ের পিঠে ছেড়ে দিয়েছেন এবং পিছনের পাড় কিছুটা উপরে উঠিয়েছেন। আমি তাকে বললাম, আপনি এভাবে লুঙ্গি পরেছেন কেন? তিনি বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এভাবে লুঙ্গি পরিধান করতে দেখেছি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4096</td></tr><tr><td>Arabic No</td><td>4096</td></tr><tr><td>Reference</td><td>Book 34 Hadith 77</td></tr></tbody></table></div>
 

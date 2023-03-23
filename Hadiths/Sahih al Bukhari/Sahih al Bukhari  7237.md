@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ নাযর সালিম (রাঃ) যিনি ‘উমার ইবনু ‘উবাইদুল্লাহর আযাদ করা গোলাম এবং তার কাতিব (সচিব) ছিলেন, বর্ণনা করেন। তিনি বলেন, তার কাছে ‘আবদুল্লাহ্ ইবনু আবূ আওফা (রাঃ) চিঠি লিখলেন, আমি তা পড়লাম। তাতে লেখা ছিল, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শত্রুর মুখোমুখী হওয়ার কামনা করো না বরং আল্লাহ্ তা‘আলার কাছে নিরাপত্তা কামনা কর। [২৮১৮] (আধুনিক প্রকাশনী- ৬৭৩০, ইসলামিক ফাউন্ডেশন- ৬৭৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ নাযর সালিম (রাঃ) যিনি ‘উমার ইবনু ‘উবাইদুল্লাহর আযাদ করা গোলাম এবং তার কাতিব (সচিব) ছিলেন, বর্ণনা করেন। তিনি বলেন, তার কাছে ‘আবদুল্লাহ্ ইবনু আবূ আওফা (রাঃ) চিঠি লিখলেন, আমি তা পড়লাম। তাতে লেখা ছিল, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শত্রুর মুখোমুখী হওয়ার কামনা করো না বরং আল্লাহ্ তা‘আলার কাছে নিরাপত্তা কামনা কর। [২৮১৮] (আধুনিক প্রকাশনী- ৬৭৩০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7237</td></tr><tr><td>Arabic No</td><td>7237</td></tr><tr><td>Reference</td><td>Book 94 Hadith 12</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin Abi 'Aufa:Allah's Messenger (ﷺ) said, "Do not long for meeting your enemy, and ask Allah for safety (from all sorts of evil)." (See Hadith No. 266, Vol. 4)
+Narrated 'Abdullah bin Abi 'Aufa:Allah's Messenger (ﷺ) said, "Do not long for meeting your enemy, and ask Allah for safety (from all sorts of evil)." (See Hadith No. 266, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7237</td></tr><tr><td>Arabic No</td><td>7237</td></tr><tr><td>Reference</td><td>Book 94 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உமர் பின் உபைதில்லாஹ் (ரஹ்) அவர்களிடம் எழுத்தராகப் பணி புரிந்தவரும் அவர்களால் விடுதலை செய்யப்பட்ட அடிமையுமான அபுந் நள்ர் சாலிம் (ரஹ்) அவர்கள் கூறியதாவது: உமர் பின் உபைதில்லாஹ் (ரஹ்) அவர்களுக்கு அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்கள் கடிதம் எழுதியிருந்தார்கள். நான் அதை (அவர்களுக்கு)ப் படித்துக்காட்டினேன். அதில், “அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், எதிரிகளை(ப் போர்க் களத்தில்) சந்திக்க ஆசைப்படாதீர்கள். அல்லாஹ்விடம் (போர் அழிவுகளிலிருந்து) பாதுகாப்புக் கோருங்கள். என்று சொன்னார்கள்” என்றிருந்தது.14 அத்தியாயம் : 94
+உமர் பின் உபைதில்லாஹ் (ரஹ்) அவர்களிடம் எழுத்தராகப் பணி புரிந்தவரும் அவர்களால் விடுதலை செய்யப்பட்ட அடிமையுமான அபுந் நள்ர் சாலிம் (ரஹ்) அவர்கள் கூறியதாவது: உமர் பின் உபைதில்லாஹ் (ரஹ்) அவர்களுக்கு அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்கள் கடிதம் எழுதியிருந்தார்கள். நான் அதை (அவர்களுக்கு)ப் படித்துக்காட்டினேன். அதில், “அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், எதிரிகளை(ப் போர்க் களத்தில்) சந்திக்க ஆசைப்படாதீர்கள். அல்லாஹ்விடம் (போர் அழிவுகளிலிருந்து) பாதுகாப்புக் கோருங்கள். என்று சொன்னார்கள்” என்றிருந்தது.14 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7237</td></tr><tr><td>Arabic No</td><td>7237</td></tr><tr><td>Reference</td><td>Book 94 Hadith 12</td></tr></tbody></table></div>
 

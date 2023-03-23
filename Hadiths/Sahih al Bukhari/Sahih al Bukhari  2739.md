@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর শ্যালক অর্থাৎ উম্মুল মুমিনীন জুওয়াইরিয়া বিনতু হারিসের ভাই ‘আমর ইবনুল হারিস (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘রাসূলুল্লাহ্ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) তাঁর মৃত্যুকালে তাঁর সাদা খচ্চরটি, তাঁর হাতিয়ার এবং সে জমি যা তিনি সদাকাহ করেছিলেন, তাছাড়া কোন স্বর্ণ বা রৌপ্য মুদ্রা, কোন দাস-দাসী কিংবা কোন জিনিস রেখে যাননি।’ (২৮৭৩, ২৯১২, ৩০৯৮, ৪৪৬১) (আধুনিক প্রকাশনীঃ ২৫৩৭, ইসলামিক ফাউন্ডেশনঃ ২৫৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর শ্যালক অর্থাৎ উম্মুল মুমিনীন জুওয়াইরিয়া বিনতু হারিসের ভাই ‘আমর ইবনুল হারিস (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘রাসূলুল্লাহ্ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) তাঁর মৃত্যুকালে তাঁর সাদা খচ্চরটি, তাঁর হাতিয়ার এবং সে জমি যা তিনি সদাকাহ করেছিলেন, তাছাড়া কোন স্বর্ণ বা রৌপ্য মুদ্রা, কোন দাস-দাসী কিংবা কোন জিনিস রেখে যাননি।’ (২৮৭৩, ২৯১২, ৩০৯৮, ৪৪৬১) (আধুনিক প্রকাশনীঃ ২৫৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2739</td></tr><tr><td>Arabic No</td><td>2739</td></tr><tr><td>Reference</td><td>Book 55 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ibrahim bin Al Harits] telah bercerita kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் துணைவியார் ஜுவைரியா பின்த் அல்ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது மரணத்தின்போது திர்ஹமையோ, தீனாரையோ (வெள்ளி நாணயத்தையோ, பொற்காசையோ), அடிமையையோ, அடிமைப் பெண்ணையோ, வேறு எதையுமோ விட்டுச்செல்லவில்லை; தமது வெள்ளைக் கோவேறுக் கழுதையையும், தம்முடைய ஆயுதங்களையும், தர்மமாக ஆக்கிவிட்டிருந்த ஒரு நிலத்தையும் தவிர. அத்தியாயம் : 55
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் துணைவியார் ஜுவைரியா பின்த் அல்ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது மரணத்தின்போது திர்ஹமையோ, தீனாரையோ (வெள்ளி நாணயத்தையோ, பொற்காசையோ), அடிமையையோ, அடிமைப் பெண்ணையோ, வேறு எதையுமோ விட்டுச்செல்லவில்லை; தமது வெள்ளைக் கோவேறுக் கழுதையையும், தம்முடைய ஆயுதங்களையும், தர்மமாக ஆக்கிவிட்டிருந்த ஒரு நிலத்தையும் தவிர. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2739</td></tr><tr><td>Arabic No</td><td>2739</td></tr><tr><td>Reference</td><td>Book 55 Hadith 2</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Ibrahim bin Al Harits] telah bercerita kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Allah Resulü'nün Sallallahu aleyhi ve sellem kayınbiraderi Cüveyriye bintü'lHaris'in erkek kardeşi Amr İbnü'l-Haris'ten nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem vefat ettiğinde ne dirhem, ne dinar, ne köle, ne cariye, ne de herhangi bir mal bırakmadı. Geriye bıraktığı tek şey, beyaz katırı, silahı ve sadaka olarak bıraktığı bir tarlaydı. Tekrar: 2873, 2912, 3098, 4461
+Allah Resulü'nün Sallallahu aleyhi ve sellem kayınbiraderi Cüveyriye bintü'lHaris'in erkek kardeşi Amr İbnü'l-Haris'ten nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem vefat ettiğinde ne dirhem, ne dinar, ne köle, ne cariye, ne de herhangi bir mal bırakmadı. Geriye bıraktığı tek şey, beyaz katırı, silahı ve sadaka olarak bıraktığı bir tarlaydı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2739</td></tr><tr><td>Arabic No</td><td>2739</td></tr><tr><td>Reference</td><td>Book 55 Hadith 2</td></tr></tbody></table></div>
 

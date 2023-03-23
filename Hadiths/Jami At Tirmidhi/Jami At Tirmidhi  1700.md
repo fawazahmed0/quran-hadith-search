@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭০০। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তীর নিক্ষেপ এবং উট ও ঘোড়দৌড় ব্যতীত অন্য কিছুতে প্রতিযোগিতা নেই। সহীহ, ইবনু মা-জাহ (২৮৭৮) এ হাদীসটিকে আবূ ঈসা হাসান বলেছেন।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তীর নিক্ষেপ এবং উট ও ঘোড়দৌড় ব্যতীত অন্য কিছুতে প্রতিযোগিতা নেই। সহীহ, ইবনু মা-জাহ (২৮৭৮) এ হাদীসটিকে আবূ ঈসা হাসান বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1700</td></tr><tr><td>Arabic No</td><td>1700</td></tr><tr><td>Reference</td><td>Book 23 Hadith 31</td></tr></tbody></table></div>
 

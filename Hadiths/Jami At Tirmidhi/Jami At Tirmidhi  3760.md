@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৬০ ‘আলী (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল-আব্বাস (রাযিঃ) প্রসঙ্গে উমার (রাযিঃ)-কে বলেনঃ কোন লোকের চাচা তার পিতৃ সমতুল্য। আল-আব্বাস (রাযিঃ)-এর যাকাত প্রদান প্রসঙ্গে উমর (রাযিঃ) কিছু বলেছিলেন। সহীহঃ ইরওয়া (৩/৩৪৮-৩৫০)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+‘আলী (রাযিঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল-আব্বাস (রাযিঃ) প্রসঙ্গে উমার (রাযিঃ)-কে বলেনঃ কোন লোকের চাচা তার পিতৃ সমতুল্য। আল-আব্বাস (রাযিঃ)-এর যাকাত প্রদান প্রসঙ্গে উমর (রাযিঃ) কিছু বলেছিলেন। সহীহঃ ইরওয়া (৩/৩৪৮-৩৫০)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3760</td></tr><tr><td>Arabic No</td><td>3760</td></tr><tr><td>Reference</td><td>Book 49 Hadith 159</td></tr></tbody></table></div>
 

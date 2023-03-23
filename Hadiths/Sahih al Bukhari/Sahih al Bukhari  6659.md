@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+রাবী সুলায়মান তাঁর বর্ণিত হাদীসে বলেন, আশ‘আস ইবনু কায়স্ (রাঃ) যখন পার্শ্ব দিয়ে যাচ্ছিলেন তখন জিজ্ঞেস করেন, ‘আবদুল্লাহ্ তোমাদের কাছে কী বর্ণনা করেছেন? জবাবে লোকেরা তাঁকে কিছু বলল। তখন আশ‘আস (রাঃ) বললেন, এ আয়াত আমার আর আমার এক সাথী সম্পর্কে অবতীর্ণ হয়েছে। আমাদের দু’ জনের মাঝে একটি কূপ নিয়ে বিবাদ ছিল। [২৩৫৭] (আধুনিক প্রকাশনী- ৬১৯৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6659</td></tr><tr><td>Arabic No</td><td>6659</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Mesud Nebi Sallallahu Aleyhi ve Sellem'den şöyle rivayet etmiştir: Kim Müslüman bir adam'ın -ya da kardeşinin malını elde etmek için yalan yere yemin ederse Allah'ı gazaplandırmış olarak huzuruna varır. Allah bu sözü tasdik etmek üzere şu ayeti indirmiştir: "Şüphesiz Allah'a olan ahidIerini ve yeminlerini az bir pahaya değiştirenler, işte onlar için ahirette hiç bir nasip yoktur. Allah, Kıyamet günü onlarla konuşmaz, onlara (rahmet gözüyle) bakmaz ve onları temize çıkarmaz. Onlar için acıklı bir azab da vardır"(A.ı-i İmran, 77)
+Abdullah İbn Mesud Nebi Sallallahu Aleyhi ve Sellem'den şöyle rivayet etmiştir: Kim Müslüman bir adam'ın -ya da kardeşinin malını elde etmek için yalan yere yemin ederse Allah'ı gazaplandırmış olarak huzuruna varır. Allah bu sözü tasdik etmek üzere şu ayeti indirmiştir: "Şüphesiz Allah'a olan ahidIerini ve yeminlerini az bir pahaya değiştirenler, işte onlar için ahirette hiç bir nasip yoktur. Allah, Kıyamet günü onlarla konuşmaz, onlara (rahmet gözüyle) bakmaz ve onları temize çıkarmaz. Onlar için acıklı bir azab da vardır"(A.ı-i İmran)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6659</td></tr><tr><td>Arabic No</td><td>6659</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

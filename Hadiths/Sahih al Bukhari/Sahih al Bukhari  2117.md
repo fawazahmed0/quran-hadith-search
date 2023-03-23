@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, এক সাহাবী নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উল্লেখ করলেন যে, তাকে ক্রয়-বিক্রয়ে ধোঁকা দেয়া হয়। তখন তিনি বললেন, যখন তুমি ক্রয়-বিক্রয় করবে তখন বলে নিবে কোন প্রকার ধোঁকা নেই। (২৪০৭, ২৪১৪, ৬৯৬৪, মুসলিম ২১/১২, হাঃ ১৫৩৩, আহমাদ ৫৪০৫) (আধুনিক প্রকাশনীঃ ১৯৭০ , ইসলামিক ফাউন্ডেশনঃ ১৯৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আব্দুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, এক সাহাবী নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উল্লেখ করলেন যে, তাকে ক্রয়-বিক্রয়ে ধোঁকা দেয়া হয়। তখন তিনি বললেন, যখন তুমি ক্রয়-বিক্রয় করবে তখন বলে নিবে কোন প্রকার ধোঁকা নেই। (২৪০৭, ২৪১৪, ৬৯৬৪, মুসলিম ২১/১২, হাঃ ১৫৩৩, আহমাদ ৫৪০৫) (আধুনিক প্রকাশনীঃ ১৯৭০ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2117</td></tr><tr><td>Arabic No</td><td>2117</td></tr><tr><td>Reference</td><td>Book 34 Hadith 70</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், தாம் வணிகத்தின்போது ஏமாற்றப்படு வதாகக் கூறினார். அதற்கு நபி (ஸல்) அவர்கள், ‘‘நீர் வணிகம் செய்யும்போது ஏமாற்றுதல் கூடாது என்று (முன்பே) கூறிவிடுவீராக!” என்றார்கள்.32 அத்தியாயம் : 34
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், தாம் வணிகத்தின்போது ஏமாற்றப்படு வதாகக் கூறினார். அதற்கு நபி (ஸல்) அவர்கள், ‘‘நீர் வணிகம் செய்யும்போது ஏமாற்றுதல் கூடாது என்று (முன்பே) கூறிவிடுவீராக!” என்றார்கள்.32 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2117</td></tr><tr><td>Arabic No</td><td>2117</td></tr><tr><td>Reference</td><td>Book 34 Hadith 70</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah bin Ömer'den rivayet edildiğine göre bir adam Nebi Sallallahu Aleyhi ve Sellem'e yaptığı satım akitlerinde aldandığını söyledi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Karşı tarafa: ''Aldatmaca yok!'' de, buyurdu. Tekrar: 2407, 2414, 6964
+Abdullah bin Ömer'den rivayet edildiğine göre bir adam Nebi Sallallahu Aleyhi ve Sellem'e yaptığı satım akitlerinde aldandığını söyledi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Karşı tarafa: ''Aldatmaca yok!'' de, buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2117</td></tr><tr><td>Arabic No</td><td>2117</td></tr><tr><td>Reference</td><td>Book 34 Hadith 70</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিস্মিল্লাহ্ পড়ে এবং তাকবীর বলে দু’টি ভেড়া কুরবানী করেছেন। [৫৫৫৩] (আধুনিক প্রকাশনী- ৬৮৮৩, ইসলামিক ফাউন্ডেশন- ৬৮৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিস্মিল্লাহ্ পড়ে এবং তাকবীর বলে দু’টি ভেড়া কুরবানী করেছেন। [৫৫৫৩] (আধুনিক প্রকাশনী- ৬৮৮৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7399</td></tr><tr><td>Arabic No</td><td>7399</td></tr><tr><td>Reference</td><td>Book 97 Hadith 28</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafs bin Umar] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரண்டு செம்மறி ஆட்டுக்கிடாக்களை அல்லாஹ்வின் பெயர் (‘பிஸ்மில்லாஹ்’) சொல்லியும், அல்லாஹ் மிகப் பெரியவன் என்று (தக்பீர்) சொல்லியும் குர்பானி கொடுத்தார்கள்.34 அத்தியாயம் : 97
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரண்டு செம்மறி ஆட்டுக்கிடாக்களை அல்லாஹ்வின் பெயர் (‘பிஸ்மில்லாஹ்’) சொல்லியும், அல்லாஹ் மிகப் பெரியவன் என்று (தக்பீர்) சொல்லியும் குர்பானி கொடுத்தார்கள்.34 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7399</td></tr><tr><td>Arabic No</td><td>7399</td></tr><tr><td>Reference</td><td>Book 97 Hadith 28</td></tr></tbody></table></div>
 

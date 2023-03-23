@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪২৫৯, আন্তর্জাতিক নাম্বারঃ ১৬৭৩ ৪২৫৯-(.../...) মুহাম্মাদ ইবনু মুসান্না ও ইবনু বাশশার (রহঃ) ... ইবনু ইয়া'লা (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪২২০, ইসলামিক সেন্টার ৪২২০)
+মুহাম্মাদ ইবনু মুসান্না ও ইবনু বাশশার (রহঃ) ... ইবনু ইয়া'লা (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪২২০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4367</td></tr><tr><td>Arabic No</td><td>1673.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 26</td></tr></tbody></table></div>
 

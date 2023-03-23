@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী ইবনু সাহল ..... শোবা (রহঃ) এই সনদে পূর্বোক্ত হাদীছের অনুরূপ বর্ণনা করেছেন। তিনি (আম্মার) বলেন, অতঃপর তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) তাতে তাঁর উভয় হাত দ্বারা মুখমন্ডল এবং দুই হাতের কনুই পর্যন্ত অথবা বাহু পর্যন্ত মাসেহ্ করেন। শোবা বলেন, সালামা বলতেন, কব্জিদ্বয়, মুখমন্ডল ও বাহুদ্বয়ে হাত ফিরান। অতএব মানসূর তাকে একদিন বলেন, তুমি কি বলছ তা বুঝেশুনে বল। কারণ তুমি ছাড়া আর কেউ বাহুদ্বয়ের কথা উল্লেখ করেননি। [উভয় হাত ও কনুই উল্লেখ বাদে]
+। শু’বাহ (রহঃ) একই সানাদে উক্ত হাদীস বর্ণনা করেন। তাতে রয়েছে, ‘আম্মার (রাঃ) বলেন, তিনি তাতে ফুঁ দিলেন। তারপর মুখমন্ডলের উপর এবং উভয় হাতের কব্জি হতে কনুই পর্যন্ত অথবা মধ্যাঙ্গুলির মাথা হতে কনুই পর্যন্ত মাসাহ্ করলেন। শু’বাহ বলেন, সালামাহ বলতেন, উভয় হাতের কব্জি, মুখমন্ডল এবং কনুই পর্যন্ত মাসাহ্ করলেন। একদা মানসূর তাকে বললেন, যা বলছেন, বুঝে শুনে বলুন। আপনি ব্যতীত কেউ কিন্তু ‘যিরআইন’ তথা মধ্যাঙ্গুলির মাথা হতে কনুই পর্যন্তের কথা উল্লে­খ করতেন না।[1] সহীহ : উভয় হাত ও কনুইদ্বয় উল্লেখ বাদে। যেমন গত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>325</td></tr><tr><td>Arabic No</td><td>325</td></tr><tr><td>Reference</td><td>Book 1 Hadith 325</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ This is transmitted by Shu'bah through a different chain of narrators. This vers
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Şu'be bu (önceki) hadisi ayrı isnatla rivayet etti ve şöyle dedi: (Ammar) dedi ki; "Resulullah (Sallallahu aleyhi ve Sellem) sonra eline üfleyip, onunla (elleriyle) yüzünü ve dirseklere -veya kollara- kadar ellerini mesnetti." Şu'be dedi ki; "Seleme, (Resulullah) ellerini, yüzünü ve kollarını (mesnetti)" derdi. Bir gün Mansur kendisine "söylediğine dikkat et çünkü kolları (Zerr bin Abdullah'ın talebelerinden) senden başka hiç biri söylemedi" dedi. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV, 263, 265, 320
+Şu'be bu (önceki) hadisi ayrı isnatla rivayet etti ve şöyle dedi: (Ammar) dedi ki; "Resulullah (Sallallahu aleyhi ve Sellem) sonra eline üfleyip, onunla (elleriyle) yüzünü ve dirseklere -veya kollara- kadar ellerini mesnetti." Şu'be dedi ki; "Seleme, (Resulullah) ellerini, yüzünü ve kollarını (mesnetti)" derdi. Bir gün Mansur kendisine "söylediğine dikkat et çünkü kolları (Zerr bin Abdullah'ın talebelerinden) senden başka hiç biri söylemedi" dedi. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>325</td></tr><tr><td>Arabic No</td><td>325</td></tr><tr><td>Reference</td><td>Book 1 Hadith 325</td></tr></tbody></table></div>
 

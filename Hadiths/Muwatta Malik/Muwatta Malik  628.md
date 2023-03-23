@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৫৪. নাফি (রহঃ) বর্ণনা করেনঃ আবদুল্লাহ ইবন উমর (রাঃ) খেজুর দ্বারাই সাদকা-ই-ফিতর আদায় করিতেন। একবার যব দিয়াও ফিতরা আদায় করিয়াছিলেন। মালিক (রহঃ) বলেনঃ সাদকা, কাফফারা, যাকাত ছোট মুদের হিসাবে অর্থাৎ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মুদে আদায় করিতে হইবে, আর যিহারের কাফফার হিশাম[1] প্রবর্তিত মুদে (যাহা পরিমাণে একটু বড়) আদায় করিতে হইবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>628</td></tr><tr><td>Arabic No</td><td>628</td></tr><tr><td>Reference</td><td>Book 17 Hadith 51</td></tr></tbody></table></div>
 

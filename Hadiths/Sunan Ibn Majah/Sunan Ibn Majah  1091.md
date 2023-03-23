@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১০৯১। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি জুমুআহর দিন উযূ (ওজু/অজু/অযু) করলো, সে উত্তম কাজই করলো এবং ফরয আদায়ের জন্য তা তার পক্ষে যথেষ্ট। আর যে ব্যক্তি গোসল করে, তবে গোসলই অধিক উত্তম।
+। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি জুমুআহর দিন উযূ (ওজু/অজু/অযু) করলো, সে উত্তম কাজই করলো এবং ফরয আদায়ের জন্য তা তার পক্ষে যথেষ্ট। আর যে ব্যক্তি গোসল করে, তবে গোসলই অধিক উত্তম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1091</td></tr><tr><td>Arabic No</td><td>1091</td></tr><tr><td>Reference</td><td>Book 5 Hadith 289</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু শিহাব (রহ.) খারিজাহ ইবনু যায়দ ইবনু সাবিতের মাধ্যমে যায়দ ইবনু সাবিত থেকে বর্ণনা করেন যে, তিনি বলেছেন, আমরা যখন গ্রন্থাকারে কুরআন লিপিবদ্ধ করছিলাম তখন সূরাহ আহযাবের একটি আয়াত আমার থেকে হারিয়ে যায়; অথচ আমি তা রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে পাঠ করতে শুনেছি। তাই আমরা খোঁজ করতে লাগলাম। শেষে আমরা তা খুযাইমাহ ইবনু সাবিত আনসারী (রাঃ)-এর কাছে পেলাম। আয়াতটি হচ্ছে এইঃ ‘‘মু’মিনদের মধ্যে কতক আল্লাহর সঙ্গে কৃত ওয়াদা পূর্ণ করেছে। তাদের কেউ কেউ মৃত্যুবরণ করেছে এবং কেউ কেউ প্রতীক্ষা করছে। তারা তাদের সংকল্প মোটেই পরিবর্তন করেনি’’- (সূরাহ আল-আহযাব ৩৩/২৩)। তারপর আমরা এ আয়াতটি সংশ্লিষ্ট সূরার সঙ্গে মাসহাফে লিপিবদ্ধ করলাম। [২৮০৭] (আধুনিক প্রকাশনীঃ ৪৬১৭, ইসলামিক ফাউন্ডেশনঃ ৪৬২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু শিহাব (রহ.) খারিজাহ ইবনু যায়দ ইবনু সাবিতের মাধ্যমে যায়দ ইবনু সাবিত থেকে বর্ণনা করেন যে, তিনি বলেছেন, আমরা যখন গ্রন্থাকারে কুরআন লিপিবদ্ধ করছিলাম তখন সূরাহ আহযাবের একটি আয়াত আমার থেকে হারিয়ে যায়; অথচ আমি তা রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে পাঠ করতে শুনেছি। তাই আমরা খোঁজ করতে লাগলাম। শেষে আমরা তা খুযাইমাহ ইবনু সাবিত আনসারী (রাঃ)-এর কাছে পেলাম। আয়াতটি হচ্ছে এইঃ ‘‘মু’মিনদের মধ্যে কতক আল্লাহর সঙ্গে কৃত ওয়াদা পূর্ণ করেছে। তাদের কেউ কেউ মৃত্যুবরণ করেছে এবং কেউ কেউ প্রতীক্ষা করছে। তারা তাদের সংকল্প মোটেই পরিবর্তন করেনি’’- (সূরাহ আল-আহযাব ৩৩/২৩)। তারপর আমরা এ আয়াতটি সংশ্লিষ্ট সূরার সঙ্গে মাসহাফে লিপিবদ্ধ করলাম। [২৮০৭] (আধুনিক প্রকাশনীঃ ৪৬১৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4988</td></tr><tr><td>Arabic No</td><td>4988</td></tr><tr><td>Reference</td><td>Book 66 Hadith 10</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zaid bin Thabit added, "A verse from Surat Ahzab was missed by me when we copied the Qur'an and I used to hear Allah's Messenger (ﷺ) reciting it. So we searched for it and found it with Khuza'ima bin Thabit Al-Ansari. (That Verse was):'Among the Believers are men who have been true in their covenant with Allah.' (33.23)
+Zaid bin Thabit added, "A verse from Surat Ahzab was missed by me when we copied the Qur'an and I used to hear Allah's Messenger (ﷺ) reciting it. So we searched for it and found it with Khuza'ima bin Thabit Al-Ansari. (That Verse was):'Among the Believers are men who have been true in their covenant with Allah
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4988</td></tr><tr><td>Arabic No</td><td>4988</td></tr><tr><td>Reference</td><td>Book 66 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Zaid bin Thabit added, "A verse from Surat Ahzab was missed by me when we copied
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸைத் பின் ஸாபித் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (உஸ்மான் (ரலி) அவர்களின் ஆட்சிக் காலத்தில்) குர்ஆனுக்குப் பிரதிகள் எடுத்தபோது ‘அல்அஹ்ஸாப்’ எனும் (33ஆவது) அத்தியாயத்தில் ஒரு வசனம் காணவில்லை. அதை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஓத நான் கேட்டிருந்தேன். அதை நாங்கள் தேடியபோது அது குஸைமா பின் ஸாபித் அல்அன்சாரீ (ரலி) அவர்களிடம் இருக்கக் கண்டோம். (அந்த வசனம் இதுதான்:) அல்லாஹ்விடம் தாங்கள் கொடுத்த வாக்குறுதியை மெய்ப்படுத்திவிட்டவர்களும் இறைநம்பிக்கையாளர்களில் உள்ளனர். அவர் களில் சிலர் (இறைவழியில் உயிரை அர்ப்பணிக்க வேண்டுமென்ற) தமது இலட்சியத்தை நிறைவேற்றிவிட்டார்கள். அவர்களில் சிலர் (அதை நிறைவேற்ற தக்க தருணம்) எதிர்பார்த்துக் காத்துக்கொண்டிருக்கின்றனர்.(33:23) உடனே நாங்கள் அ(ந்த வசனத்)தை குர்ஆன் பிரதியில் அதற்குரிய அத்தியாயத்தில் இணைத்துவிட்டோம்.11 அத்தியாயம் : 66
+ஸைத் பின் ஸாபித் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (உஸ்மான் (ரலி) அவர்களின் ஆட்சிக் காலத்தில்) குர்ஆனுக்குப் பிரதிகள் எடுத்தபோது ‘அல்அஹ்ஸாப்’ எனும் (33ஆவது) அத்தியாயத்தில் ஒரு வசனம் காணவில்லை. அதை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஓத நான் கேட்டிருந்தேன். அதை நாங்கள் தேடியபோது அது குஸைமா பின் ஸாபித் அல்அன்சாரீ (ரலி) அவர்களிடம் இருக்கக் கண்டோம். (அந்த வசனம் இதுதான்:) அல்லாஹ்விடம் தாங்கள் கொடுத்த வாக்குறுதியை மெய்ப்படுத்திவிட்டவர்களும் இறைநம்பிக்கையாளர்களில் உள்ளனர். அவர் களில் சிலர் (இறைவழியில் உயிரை அர்ப்பணிக்க வேண்டுமென்ற) தமது இலட்சியத்தை நிறைவேற்றிவிட்டார்கள். அவர்களில் சிலர் (அதை நிறைவேற்ற தக்க தருணம்) எதிர்பார்த்துக் காத்துக்கொண்டிருக்கின்றனர்.(33:23) உடனே நாங்கள் அ(ந்த வசனத்)தை குர்ஆன் பிரதியில் அதற்குரிய அத்தியாயத்தில் இணைத்துவிட்டோம்.11 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4988</td></tr><tr><td>Arabic No</td><td>4988</td></tr><tr><td>Reference</td><td>Book 66 Hadith 10</td></tr></tbody></table></div>
 

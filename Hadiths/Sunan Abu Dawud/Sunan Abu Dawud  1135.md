@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনে হাম্বল (রাঃ) ....... ইয়াযীদ ইবনে খুমায়ের (রহঃ) হতে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবী আব্দুল্লাহ্‌ ইবনে বুসর (রাঃ) ঈদুল ফিতর বা ঈদুল আযহার দিন লোকদের সাথে নামায আদায়ের জন্য রাওয়ানা হন। ইমামের বিলম্বের কারণে তিনি অসন্তুষ্টি প্রকাশ করে বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে আমরা এমন সময় অর্থাৎ, ইশরাকের সময় (সূর্য কিছু উপরে উঠতে) নামাযই শেষ করতাম। (ইবনে মাজা)
+। ইয়াযীদ ইবনু খুমাইর আর-রাহাবী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবী ‘আবদুল্লাহ ইবনু বুসর (রাঃ) লোকদের সাথে ঈদুল ফিত্বর কিংবা ঈদুল আযহার সালাত আদায় করতে যান। (সালাত আরম্ভ করতে) ইমাম দেরী করায় তিনি অসন্তুষ্টি প্রকাশ করে বললেন, (রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর) যুগে এ (ইশরাকের) সময় আমরা ঈদের সালাত আদায় শেষ করতাম।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 2 Hadith 746</td></tr></tbody></table></div>
 

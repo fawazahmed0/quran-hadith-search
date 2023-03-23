@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮৪৯। আনাস (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, যখন সা'দ ইবনু মু'আযের জানাযা (লাশ) বয়ে নিয়ে যাওয়া হয় সে সময় মুনাফিকরা বলে, কতই না হালকা তার মৃতদেহটি৷ তাদের এমন মন্তব্যের কারণ ছিল বানু কুরাইযা প্রসঙ্গে তার ফাঈসালা। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এ খবর পৌছলে তিনি বললেনঃ নিশ্চয়ই ফেরেশতারা তার জানাযা (লাশ) বহন করতেছিলেন (তাই হালকা মনে হচ্ছিল)। সহীহঃ মিশকাত (৬২৩৭)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব।
+। আনাস (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, যখন সা'দ ইবনু মু'আযের জানাযা (লাশ) বয়ে নিয়ে যাওয়া হয় সে সময় মুনাফিকরা বলে, কতই না হালকা তার মৃতদেহটি৷ তাদের এমন মন্তব্যের কারণ ছিল বানু কুরাইযা প্রসঙ্গে তার ফাঈসালা। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এ খবর পৌছলে তিনি বললেনঃ নিশ্চয়ই ফেরেশতারা তার জানাযা (লাশ) বহন করতেছিলেন (তাই হালকা মনে হচ্ছিল)। সহীহঃ মিশকাত (৬২২৮)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3849</td></tr><tr><td>Arabic No</td><td>3849</td></tr><tr><td>Reference</td><td>Book 49 Hadith 249</td></tr></tbody></table></div>
 

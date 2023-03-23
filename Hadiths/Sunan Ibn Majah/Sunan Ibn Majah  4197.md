@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮/৪১৯৭। আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে মুমিন বান্দার দু‘চোখ থেকে আল্লাহর ভয়ে পানি বের হয়, যদিও তা মাছির মাথার পরিমাণ হয়, এবং তা কপাল বেয়ে পড়ে, তাতে আল্লাহ তার জন্য জাহান্নাম হারাম করে দেন।
+। আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে মুমিন বান্দার দু‘চোখ থেকে আল্লাহর ভয়ে পানি বের হয়, যদিও তা মাছির মাথার পরিমাণ হয়, এবং তা কপাল বেয়ে পড়ে, তাতে আল্লাহ তার জন্য জাহান্নাম হারাম করে দেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4197</td></tr><tr><td>Arabic No</td><td>4197</td></tr><tr><td>Reference</td><td>Book 37 Hadith 98</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepadaku Yahya dari Malik dari [Sumayya] mantan budak Abu Bak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Resûlüllah’ın (sallallahü aleyhi ve sellem) hanımı Hazret-i Âişe'den: Resûlüllah’ın (sallallahü aleyhi ve sellem) en çok hoşuna giden amel, devamlı yapılan ameldi. Buharî, Rıkak, 81/18
+Resûlüllah’ın (sallallahü aleyhi ve sellem) hanımı Hazret-i Âişe'den: Resûlüllah’ın (sallallahü aleyhi ve sellem) en çok hoşuna giden amel, devamlı yapılan ameldi. Buharî, Rıkak
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>225</td></tr><tr><td>Arabic No</td><td>225</td></tr><tr><td>Reference</td><td>Book 5 Hadith 1</td></tr></tbody></table></div>
 

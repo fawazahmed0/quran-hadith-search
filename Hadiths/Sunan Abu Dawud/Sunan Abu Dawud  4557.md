@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ওয়ালীদ (রহঃ) .... আবূ মূসা আশআরী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সব আংগুল সমান, তখন আমি বলিঃ প্রত্যেক আংগুলের দিয়াত কি দশ-দশটি উট? তিনি বলেনঃ হ্যাঁ।
+। আল-আশ‘আরী (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, দিয়াতের ক্ষেত্রে আঙ্গুলগুলো সমান। আমি বললাম, দশটি দশটি করে? তিনি বললেন, হ্যাঁ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4557</td></tr><tr><td>Arabic No</td><td>4557</td></tr><tr><td>Reference</td><td>Book 41 Hadith 64</td></tr></tbody></table></div>
 

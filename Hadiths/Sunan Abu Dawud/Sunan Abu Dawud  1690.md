@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ ইব্‌নুস সারী (রহঃ) .... নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লামের স্ত্রী হযরত মায়মূনা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার একটি ক্রীতাদাসী ছিল যাকে আমি আযাদ করে দেই। অতঃপর নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম আমার নিকট এলে আমি তাকে এই সংবাদ জ্ঞাপন করি। তিনি বলেনঃ আল্লাহ্‌ তা’আলা তোমাকে এর সওয়াব, দান করুন। কিন্তু যদি তুমি তাকে তোমার মাতুল গোষ্ঠীকে দান করতে তবে তোমার অধিক সওয়াব হত। (নাসাঈ, মুসলিম, বুখারী)।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী মায়মূনাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার একটি দাসী ছিলো, তাকে আমি মুক্ত করে দেই। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার কাছে এলে আমি তাঁকে বিষয়টি জানাই। তিনি বললেনঃ আল্লাহ তোমাকে এর সওয়াব দিন। কিন্তু যদি তুমি তা তোমার মাতুল গোষ্ঠীকে দান করতে তাহলে সর্বশ্রেষ্ঠ সওয়াব পেতে।[1] সহীহ : মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1690</td></tr><tr><td>Arabic No</td><td>1690</td></tr><tr><td>Reference</td><td>Book 9 Hadith 135</td></tr></tbody></table></div>
 

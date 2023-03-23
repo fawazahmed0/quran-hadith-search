@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৯৮, আন্তর্জাতিক নাম্বারঃ ১০৮ ১৯৮-(.../...) যুহায়র ইবনু হারব এবং সাঈদ ইবনু 'আমর আল আশ'আসী (রাযিঃ) এর সূত্রে এ সনদে অনুরূপ হাদীস বর্ণনা করেছেন। তবে রাবী জারীর বর্ণিত হাদীসে যে ব্যক্তি তার পণ্যের ব্যাপারে অন্যের সাথে দাম দরাদরি করে' কথাটির উল্লেখ আছে। (ইসলামিক ফাউন্ডেশনঃ ১৯৯, ইসলামিক সেন্টারঃ ২০৬)
+যুহায়র ইবনু হারব এবং সাঈদ ইবনু 'আমর আল আশ'আসী (রাযিঃ) এর সূত্রে এ সনদে অনুরূপ হাদীস বর্ণনা করেছেন। তবে রাবী জারীর বর্ণিত হাদীসে যে ব্যক্তি তার পণ্যের ব্যাপারে অন্যের সাথে দাম দরাদরি করে' কথাটির উল্লেখ আছে। (ইসলামিক ফাউন্ডেশনঃ ১৯৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>298</td></tr><tr><td>Arabic No</td><td>108.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 204</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ The same hadith has been transmitted by another chain of transmitters with the e
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Zuheyr b. Harb da tahdis etti. Bize Cerir tahdis etti. (H) Bize Said b. Amr el-Eş'asi de tahdis etti. Bize Abser haber verdi. Her ikisi A'meş'ten bu isnad ile hadisi aynen rivayet etti. Ancak hadisin Cerir tarafından yapılan rivayetinde: "Bir kimse ile bir malın pazarlığını yapan" demiştir. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 12413
+Bana Zuheyr b. Harb da tahdis etti. Bize Cerir tahdis etti. (H) Bize Said b. Amr el-Eş'asi de tahdis etti. Bize Abser haber verdi. Her ikisi A'meş'ten bu isnad ile hadisi aynen rivayet etti. Ancak hadisin Cerir tarafından yapılan rivayetinde: "Bir kimse ile bir malın pazarlığını yapan" demiştir. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>298</td></tr><tr><td>Arabic No</td><td>108.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 204</td></tr></tbody></table></div>
 

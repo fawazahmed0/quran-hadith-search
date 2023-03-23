@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুুূল আলা ..... আবূ হুরায়রা (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম হতে বর্ণনা করেছেন। তিনি বলেছেনঃ এই আয়াত কুবাবাসীদের শানে নাযিল হয়েছে- “সেখানে এমন লোক আছে- যারা পাক-পবিত্র থাকতে ভালবাসে” রাবী বলেনঃ তারা পানি ধারা ইস্তিঞ্জা করতেন। সে কারণে তাদের শানে এই আয়াতটি অবতীর্ণ হয়। (তিরমিযী, ইবনু মাজাহ)।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, এই আয়াত কুবাবাসীদের সম্পর্কে হয়েছিলঃ ‘‘সেখানে এমন সব লোক রয়েছে যারা পাক-পবিত্র থাকতে ভালবাসে।’’ (সূরাহ তওবা্ : ১০৮)। তিনি (রাবী) বলেন, কুবাবাসীরা পানি দিয়ে পবিত্রতা অর্জন করত। তাই তাদের শানে এই আয়াত অবতীর্ন হয়েছিল।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Arabic No</td><td>44</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
 

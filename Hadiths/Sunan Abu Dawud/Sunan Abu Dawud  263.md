@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হাসান ইবনু আমর ..... আয়িশা (রাঃ) এর সূত্রে উপরোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে এবং এই সূত্রে আরো আছে, আমাদেরকে আমাদের ঋতুকালীন সময়ের কাযা রোযা আদায়ের জন্য নির্দেশ দেয়া হয়েছে এবং ঐ সময়ের কাযা নামায আদায়ের জন্য বলা হয়নি।
+। মু‘আযাহ আল-আদাবিয়্যাহ ‘আয়িশাহ্ (রাঃ) সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণনা করেছেন। তাতে আরো আছেঃ আমাদেরকে সওম কাযা করার নির্দেশ দেয়া হত। কিন্তু সালাতের কাযা আদায়ের নির্দেশ দেয়া হত না।[1] সহীহ : মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>263</td></tr><tr><td>Arabic No</td><td>263</td></tr><tr><td>Reference</td><td>Book 1 Hadith 263</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুআম্মাল .... যু-মিখবার হতে পূর্বোক্ত হাদীছের অনুরূপ বর্ণিত। তিনি বলেন, অতঃপর বিলাল (রাঃ) ধীরস্থিরভাবে আযান দেন।
+। নাজ্জাশীর ভ্রাতুষ্পুত্র যু-মিখবার (রাঃ) সূত্রে বর্ণিত। তিনি অনুরূপ ঘটনার বর্ণনাতে বলেন, অতঃপর বিলাল কোনরূপ তাড়াহুড়া না করে ধীরেসুস্থে আযান দিলেন।[1] শায।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>446</td></tr><tr><td>Arabic No</td><td>446</td></tr><tr><td>Reference</td><td>Book 2 Hadith 56</td></tr></tbody></table></div>
 

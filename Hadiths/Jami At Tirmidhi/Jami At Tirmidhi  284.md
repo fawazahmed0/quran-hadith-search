@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮৪। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম দুই সিজদার মাঝখানে বলতেন, ‘আল্লাহুম্মাগফিরলী ওয়ারহামনী ওয়াজবুরনী ওয়াহদিনী ওয়ারযুকনী। - সহীহ। ইবনু মাজাহ– (৮৯৮)।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম দুই সিজদার মাঝখানে বলতেন, ‘আল্লাহুম্মাগফিরলী ওয়ারহামনী ওয়াজবুরনী ওয়াহদিনী ওয়ারযুকনী। - সহীহ। ইবনু মাজাহ– (৮৯৮)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>284</td></tr><tr><td>Arabic No</td><td>284</td></tr><tr><td>Reference</td><td>Book 2 Hadith 136</td></tr></tbody></table></div>
 

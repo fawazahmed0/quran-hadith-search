@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর নবী সুলাইমানের ষাটজন স্ত্রী ছিল। একদা সুলাইমান (আঃ) বললেন, আজ রাতে আমি অবশ্য অবশ্যই আমার সব স্ত্রীর কাছে যাব। যার ফলে স্ত্রীরা সবাই অবশ্যই গর্ভবতী হয়ে এক একজন অশ্বারোহী প্রসব করবে যারা আল্লাহর পথে জিহাদ করবে। অতএব সুলাইমান (রাঃ) তাঁর সব স্ত্রীর কাছে গেলেন, তবে তাদের একজন স্ত্রী ব্যতীত আর কেউ গর্ভবতী হলো না। সেও প্রসব করলো একটি অপূর্ণাঙ্গ সন্তান। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যদি সুলাইমান (আঃ) ইনশা-আল্লাহ্ বলতেন, তাহলে অবশ্যই স্ত্রীরা সবাই গর্ভবতী হত এবং এমন সন্তান প্রসব করতো যারা অশ্বারোহী হয়ে আল্লাহর রাস্তায় জিহাদ করত। (আধুনিক প্রকাশনী- ৬৯৫১, ইসলামিক ফাউন্ডেশন- ৬৯৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর নবী সুলাইমানের ষাটজন স্ত্রী ছিল। একদা সুলাইমান (আঃ) বললেন, আজ রাতে আমি অবশ্য অবশ্যই আমার সব স্ত্রীর কাছে যাব। যার ফলে স্ত্রীরা সবাই অবশ্যই গর্ভবতী হয়ে এক একজন অশ্বারোহী প্রসব করবে যারা আল্লাহর পথে জিহাদ করবে। অতএব সুলাইমান (রাঃ) তাঁর সব স্ত্রীর কাছে গেলেন, তবে তাদের একজন স্ত্রী ব্যতীত আর কেউ গর্ভবতী হলো না। সেও প্রসব করলো একটি অপূর্ণাঙ্গ সন্তান। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যদি সুলাইমান (আঃ) ইনশা-আল্লাহ্ বলতেন, তাহলে অবশ্যই স্ত্রীরা সবাই গর্ভবতী হত এবং এমন সন্তান প্রসব করতো যারা অশ্বারোহী হয়ে আল্লাহর রাস্তায় জিহাদ করত। (আধুনিক প্রকাশনী- ৬৯৫১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7469</td></tr><tr><td>Arabic No</td><td>7469</td></tr><tr><td>Reference</td><td>Book 97 Hadith 95</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Prophet Solomon who had sixty wives, once said, "Tonight I will have sexual relation (sleep) with all my wives so that each of them will become pregnant and bring forth (a boy who will grow into) a cavalier and will fight in Allah's Cause." So he slept with his wives and none of them (conceived and) delivered (a child) except one who brought a half (body) boy (deformed). Allah's Prophet said, "If Solomon had said; 'If Allah Will,' then each of those women would have delivered a (would-be) cavalier to fight in Allah's Cause." (See Hadith No. 74 A, Vol. 4)
+Narrated Abu Huraira:Allah's Prophet Solomon who had sixty wives, once said, "Tonight I will have sexual relation (sleep) with all my wives so that each of them will become pregnant and bring forth (a boy who will grow into) a cavalier and will fight in Allah's Cause." So he slept with his wives and none of them (conceived and) delivered (a child) except one who brought a half (body) boy (deformed). Allah's Prophet said, "If Solomon had said; 'If Allah Will,' then each of those women would have delivered a (would-be) cavalier to fight in Allah's Cause." (See Hadith No. 74 A, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7469</td></tr><tr><td>Arabic No</td><td>7469</td></tr><tr><td>Reference</td><td>Book 97 Hadith 95</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'alla bin Asad] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்:) இறைத்தூதர் சுலைமான் (அலை) அவர்களுக்கு அறுபது துணைவியர் இருந்தார்கள். சுலைமான் அவர்கள் (ஒருமுறை), “இன்றிரவு நான் என் துணைவியர் அனைவரிடமும் தாம்பத்திய உறவு கொள்ளச் செல்வேன். ஒவ்வோரு துணைவியாரும் கர்ப்பமுற்று அல்லாஹ்வின் பாதையில் போரிடுகின்ற குதிரை வீரனைப் பெற்றெடுக்கட்டும்” என்று சொல்லிவிட்டுத் தம் துணைவியரிடம் சென்றார்கள். ஆனால், அவர்களில் ஒரேயொரு மனைவிதான் குழந்தை பெற்றெடுத்தார். அவரும் பாதி (உடல் சிதைந்த) குழந்தையைத்தான் பெற்றெடுத்தார். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சுலைமான் (அலை) அவர்கள், ‘இன்ஷா அல்லாஹ்’ (இறைவன் நாடினால்) என்று (சேர்த்துக்) கூறியிருந்தால், அவர்களுடைய துணைவியரில் ஒவ்வொருவரும் கர்ப்பம் தரித்து, அல்லாஹ்வின் பாதையில் போரிடும் குதிரை வீரன் ஒருவனைப் பெற்றெடுத்திருப்பார்.111 அத்தியாயம் : 97
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்:) இறைத்தூதர் சுலைமான் (அலை) அவர்களுக்கு அறுபது துணைவியர் இருந்தார்கள். சுலைமான் அவர்கள் (ஒருமுறை), “இன்றிரவு நான் என் துணைவியர் அனைவரிடமும் தாம்பத்திய உறவு கொள்ளச் செல்வேன். ஒவ்வோரு துணைவியாரும் கர்ப்பமுற்று அல்லாஹ்வின் பாதையில் போரிடுகின்ற குதிரை வீரனைப் பெற்றெடுக்கட்டும்” என்று சொல்லிவிட்டுத் தம் துணைவியரிடம் சென்றார்கள். ஆனால், அவர்களில் ஒரேயொரு மனைவிதான் குழந்தை பெற்றெடுத்தார். அவரும் பாதி (உடல் சிதைந்த) குழந்தையைத்தான் பெற்றெடுத்தார். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சுலைமான் (அலை) அவர்கள், ‘இன்ஷா அல்லாஹ்’ (இறைவன் நாடினால்) என்று (சேர்த்துக்) கூறியிருந்தால், அவர்களுடைய துணைவியரில் ஒவ்வொருவரும் கர்ப்பம் தரித்து, அல்லாஹ்வின் பாதையில் போரிடும் குதிரை வீரன் ஒருவனைப் பெற்றெடுத்திருப்பார்.111 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7469</td></tr><tr><td>Arabic No</td><td>7469</td></tr><tr><td>Reference</td><td>Book 97 Hadith 95</td></tr></tbody></table></div>
 

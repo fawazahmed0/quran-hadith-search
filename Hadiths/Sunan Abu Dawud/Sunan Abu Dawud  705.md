@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু সুলায়মান ........... ইয়াযীদ হতে বর্ণিত। তিনি বলেন তাবুক নামক স্হানে আমি এক খোড়া ব্যক্তিকে দেখতে পাই তখন ঐ ব্যক্তি বলে, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাল্লাল্লাহু আলাইহি ওয়া সল্লাম নামায আদায়কালে আমি গাধার পিঠে আরোহণ পূর্বক তাঁর সম্মুখ দিয়ে গমন করি তখন তিনি বলেনঃ ইয়া আল্লাহ্! তার চলৎশক্তি রহিত করুন। এরপর থেকে আমার চলার শক্তি রহিত হয়ে যায়।
+। ইয়াযীদ ইবনু নীমরান সূত্রে বর্ণিত। তিনি বলেন, আমি তাবূকে এক খোঁড়া ব্যক্তিকে দেখতে পেলাম। সে বলল, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায়কালে আমি গাধার পিঠে সওয়ার হয়ে তার সামনে দিয়ে অতিক্রম করলে তিনি বললেনঃ হে আল্লাহ! তার পদচিহ্ন (চলার শক্তি) মিটিয়ে দাও। এরপর থেকে আমি আর হাঁটতে পারি না।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>705</td></tr><tr><td>Arabic No</td><td>705</td></tr><tr><td>Reference</td><td>Book 2 Hadith 315</td></tr></tbody></table></div>
 

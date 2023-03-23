@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মুশরিকদের নাবালক সন্তান সম্পর্কে জিজ্ঞেস করা হলে বলেনঃ আল্লাহ্ তাদের ভবিষ্যৎ ‘আমল সম্পর্কে সম্যক জ্ঞাত। (৬৫৯৮, ৬৬০০, মুসলিম ৪৬/৭, হাঃ ২৬৫৯, আহমাদ ১০০৯০) (আধুনিক প্রকাশনীঃ ১২৯৩, ইসলামিক ফাউন্ডেশনঃ ১৩০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মুশরিকদের নাবালক সন্তান সম্পর্কে জিজ্ঞেস করা হলে বলেনঃ আল্লাহ্ তাদের ভবিষ্যৎ ‘আমল সম্পর্কে সম্যক জ্ঞাত। (৬৫৯৮, ৬৬০০, মুসলিম ৪৬/৭, হাঃ ২৬৫৯, আহমাদ ১০০৯০) (আধুনিক প্রকাশনীঃ ১২৯৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1384</td></tr><tr><td>Arabic No</td><td>1384</td></tr><tr><td>Reference</td><td>Book 23 Hadith 136</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: இணைவைப்பாளர்களின் குழந்தை கள் (இறந்துவிட்டால் அவர்களின் முடிவு யாது என்பது) பற்றி நபி (ஸல்) அவர்களிடம் வினவப்பட்டது. அதற்கு அவர்கள், “இவர்கள் (உயிருடன் இருந்திருந்தால்) என்ன செய்திருப்பார் கள் என்பதை அல்லாஹ் நன்கறிவான்” எனக் கூறினார்கள். அத்தியாயம் : 23
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: இணைவைப்பாளர்களின் குழந்தை கள் (இறந்துவிட்டால் அவர்களின் முடிவு யாது என்பது) பற்றி நபி (ஸல்) அவர்களிடம் வினவப்பட்டது. அதற்கு அவர்கள், “இவர்கள் (உயிருடன் இருந்திருந்தால்) என்ன செய்திருப்பார் கள் என்பதை அல்லாஹ் நன்கறிவான்” எனக் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1384</td></tr><tr><td>Arabic No</td><td>1384</td></tr><tr><td>Reference</td><td>Book 23 Hadith 136</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem'e müşriklerin çocukları hakkında soru soruldu. O Sallallahu Aleyhi ve Sellem: "Allah onların ne işleyeceklerini en İyi bilir" buyurdu. Tekrar: 6598, 6600
+Ebu Hureyre r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem'e müşriklerin çocukları hakkında soru soruldu. O Sallallahu Aleyhi ve Sellem: "Allah onların ne işleyeceklerini en İyi bilir" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1384</td></tr><tr><td>Arabic No</td><td>1384</td></tr><tr><td>Reference</td><td>Book 23 Hadith 136</td></tr></tbody></table></div>
 

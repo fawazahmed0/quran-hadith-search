@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৪৭৷ নুমান ইবনু বাশীর (রাযিঃ) হতে বর্ণিত আছে। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ দু'আটাই হল ইবাদাত। তারপর তিনি পাঠ করেন (অনুবাদ) "তোমাদের রব বলেন, তোমরা আমাকে ডাকো। আমি তোমাদের ডাকে সাড়া দিব। যারা অহংকারবশতঃ আমার ইবাদাত হতে বিমুখ হয়, নিশ্চিত তারা অচিরেই লাঞ্চিত হয় জাহান্নামে যাবে”— (সূরা মু'মিন ৬০)। সহীহঃ ইবনু মা-জাহ (৩৮২৮) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+নুমান ইবনু বাশীর (রাযিঃ) হতে বর্ণিত আছে। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ দু'আটাই হল ইবাদাত। তারপর তিনি পাঠ করেন (অনুবাদ) "তোমাদের রব বলেন, তোমরা আমাকে ডাকো। আমি তোমাদের ডাকে সাড়া দিব। যারা অহংকারবশতঃ আমার ইবাদাত হতে বিমুখ হয়, নিশ্চিত তারা অচিরেই লাঞ্চিত হয় জাহান্নামে যাবে”— (সূরা মু'মিন ৬০)। সহীহঃ ইবনু মা-জাহ (৩৮২৮) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3247</td></tr><tr><td>Arabic No</td><td>3247</td></tr><tr><td>Reference</td><td>Book 47 Hadith 299</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated An-Nu'man bin Bashir:that the Prophet (ﷺ) said: "Supplication is the worship." Then he recited: 'And your Lord said: 'Call upon Me, I will answer you. Verily, those who scorn my My worship, they will surely enter Hell in humiliation (40:60)
+Narrated An-Nu'man bin Bashir:that the Prophet (ﷺ) said: "Supplication is the worship." Then he recited: 'And your Lord said: 'Call upon Me, I will answer you. Verily, those who scorn my My worship, they will surely enter Hell in humiliation (40:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3247</td></tr><tr><td>Arabic No</td><td>3247</td></tr><tr><td>Reference</td><td>Book 47 Hadith 299</td></tr></tbody></table></div>
 

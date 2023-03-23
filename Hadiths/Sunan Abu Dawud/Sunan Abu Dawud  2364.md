@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আল্ সাববাহ .... আবদুল্লাহ্ ইবন আমের ইবন রাবী‘আ তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে রোযা অবস্থায় মিস্ওয়াক করতে দেখেছি। রাবী মুসাদ্দাদ (مَا لاَ أَعُدُّ وَلاَ أُحْصِي) অতিরিক্ত বর্ণনা করেছেন।
+। আবদুল্লাহ ইবনু ‘আমির ইবনু রাবী‘আ (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সওম পালন অবস্থায় এতো বেশি মিসওয়াক করতে দেখেছি যে, তা সংখ্যায় নির্ণয় করা মুশকিল।[1] দুর্বলঃ মিশকাত (২০০৯), ইরওয়া (৬৮), যঈফ সুনান আত-তিরমিযী
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2364</td></tr><tr><td>Arabic No</td><td>2364</td></tr><tr><td>Reference</td><td>Book 14 Hadith 52</td></tr></tbody></table></div>
 

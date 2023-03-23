@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১০৬৯। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি মুজাহিদ, সাঈদ ইবনু জুবাইর, আতা ইবনু আবূ রাবাহ ও তাঊস (রহ) কে অবহিত করেন যে, ব্যতিব্যস্ততা, শত্রুর আক্রমণাশংকা এবং অন্য কিছুর ভয়ভীতিমুক্ত অবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে মাগরিব ও এশার সালাত (নামায/নামাজ) একত্রে পড়তেন।
+। ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি মুজাহিদ, সাঈদ ইবনু জুবাইর, আতা ইবনু আবূ রাবাহ ও তাঊস (রহ) কে অবহিত করেন যে, ব্যতিব্যস্ততা, শত্রুর আক্রমণাশংকা এবং অন্য কিছুর ভয়ভীতিমুক্ত অবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে মাগরিব ও এশার সালাত (নামায/নামাজ) একত্রে পড়তেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1069</td></tr><tr><td>Arabic No</td><td>1069</td></tr><tr><td>Reference</td><td>Book 5 Hadith 267</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১৪. নাফি’ (রহঃ)-এর বর্ণনা, আবদুল্লাহ ইবন উমর (রাঃ) লকওয়া-এর জন্য লোহা পোড়াইয়া দাগ লাগাইয়াছিলেন এবং বিচ্ছুর (দংশনের) জন্য ঝাড়ফুঁক করিয়াছিলেন।[1]
+রেওয়ায়ত ১৪. নাফি’ (রহঃ)-এর বর্ণনা, আবদুল্লাহ ইবন উমর (রাঃ) লকওয়া-এর জন্য লোহা পোড়াইয়া দাগ লাগাইয়াছিলেন এবং বিচ্ছুর (দংশনের) জন্য ঝাড়ফুঁক করিয়াছিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1724</td></tr><tr><td>Arabic No</td><td>1724</td></tr><tr><td>Reference</td><td>Book 50 Hadith 14</td></tr></tbody></table></div>
 

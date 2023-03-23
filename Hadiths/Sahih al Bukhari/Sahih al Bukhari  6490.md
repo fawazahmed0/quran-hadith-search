@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কারো নজর যদি এমন লোকের উপর পড়ে, যাকে মাল-ধন ও দৈহিক গঠনে অধিক মর্যাদা দেয়া হয়েছে তবে সে যেন এমন লোকের দিকে নজর দেয়, যে তার চেয়ে নিম্ন স্তরে রয়েছে। (আধুনিক প্রকাশনী- ৬০৪০, ইসলামিক ফাউন্ডেশন- ৬০৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কারো নজর যদি এমন লোকের উপর পড়ে, যাকে মাল-ধন ও দৈহিক গঠনে অধিক মর্যাদা দেয়া হয়েছে তবে সে যেন এমন লোকের দিকে নজর দেয়, যে তার চেয়ে নিম্ন স্তরে রয়েছে। (আধুনিক প্রকাশনী- ৬০৪০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6490</td></tr><tr><td>Arabic No</td><td>6490</td></tr><tr><td>Reference</td><td>Book 81 Hadith 79</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ismail] mengatakan, telah menceritakan kepadaku 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: செல்வத்திலும் தோற்றத்திலும் தம்மை விட மேலான ஒருவரை உங்களில் ஒருவர் கண்டால், உடனே (அவற்றில்) தம்மைவிடக் கீழானவர்களை அவர் (நினைத்துப்) பார்க்கட்டும்.79 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 81
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: செல்வத்திலும் தோற்றத்திலும் தம்மை விட மேலான ஒருவரை உங்களில் ஒருவர் கண்டால், உடனே (அவற்றில்) தம்மைவிடக் கீழானவர்களை அவர் (நினைத்துப்) பார்க்கட்டும்.79 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6490</td></tr><tr><td>Arabic No</td><td>6490</td></tr><tr><td>Reference</td><td>Book 81 Hadith 79</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.)...বলেন,) আবূ হুরাইরাহ্ (রাঃ) আমাকে জানিয়েছেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আমি ঘুমিয়ে ছিলাম। স্বপ্নে দেখতে পেলাম আমার দু’হাতে সোনার দু’টি বালা। বালা দু’টি আমাকে চিন্তায় ফেলল। স্বপ্নেই আমার নিকট অহী এল, আপনি ফুঁ দিন। আমি তাই করলাম। বালা দু’টি উড়ে অদৃশ্য হয়ে গেল। আমি স্বপ্নের ব্যাখ্যা এভাবে করলাম, আমার পর দু’জন কায্যাব বের হবে। এদের একজন আনসী, অপরজন ইয়ামামাহবাসী মুসায়লামাতুল কায্যাব। (৪৩৭৪, ৪৩৭৫, ৪৩৭৯, ৭০৩৪, ৭০৩৭, মুসলিম ৪২/৪ হাঃ ২২৭৩, ২২৭৪, আহমাদ ১১৮১৪) (আধুনিক প্রকাশনীঃ ৩৩৫২, ইসলামিক ফাউন্ডেশনঃ ৩৩৫৯ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>3620</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

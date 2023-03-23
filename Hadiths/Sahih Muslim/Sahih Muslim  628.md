@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইয়াহইয়া ইবনু ইয়াহইয়া আত তামীমী (রহঃ) ..... মুগীরাহ্ ইবনু শুবাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, এক রাতে আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে ছিলাম। হঠাৎ তিনি এক স্থানে থেকে হাজাত পূরণ করলেন। এরপর ফিরে এলেন এবং আমার কাছে রাখা একটি বদনা থেকে আমি তার দিকেও পানি ঢেলে দিলাম। তিনি ওযু করলেন এরপর তার উভয় মোজার উপর মাসাহ করলেন। (ইসলামিক ফাউন্ডেশনঃ ৫১৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>628</td></tr><tr><td>Arabic No</td><td>274.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 95</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] telah mengabarkan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Yahya b. Yahya et-Temîmî de rivayet etti. (Dediki) : Bize Ebu'I Ahvas, Eş'as'dan, o da Esved b. Hilal'dan, o da Mugiretü'bnü Şu'be'den naklen haber verdi. Mugira şöyle demiş: Bir gece Resulullah (Sallallahu aleyhi ve Sellem) ile birlikte idim. Derken (bineğinden) inip, ihtiyacını karşıladı sonra geldi. Ben de yanımda bulunan bir mataradan eline su döktüm, abdest aldı ve mest1erine mesh etti. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 11488
+Bize Yahya b. Yahya et-Temîmî de rivayet etti. (Dediki) : Bize Ebu'I Ahvas, Eş'as'dan, o da Esved b. Hilal'dan, o da Mugiretü'bnü Şu'be'den naklen haber verdi. Mugira şöyle demiş: Bir gece Resulullah (Sallallahu aleyhi ve Sellem) ile birlikte idim. Derken (bineğinden) inip, ihtiyacını karşıladı sonra geldi. Ben de yanımda bulunan bir mataradan eline su döktüm, abdest aldı ve mest1erine mesh etti. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>628</td></tr><tr><td>Arabic No</td><td>274.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 95</td></tr></tbody></table></div>
 

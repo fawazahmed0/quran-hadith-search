@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৫১, আন্তর্জাতিক নাম্বারঃ ১৩৭ ২৫১-(২১৯/...) আবূ বকর ইবনু আবূ শাইবাহ, ইসহাক ইবনু ইবরাহীম ও হারূন ইবনু আবদুল্লাহ (রহঃ) ... আবূ উমামাহ আল হারিসী (রাযিঃ) থেকে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ২৫৩, ইসলামিক সেন্টারঃ ২৬২)
+আবূ বকর ইবনু আবূ শাইবাহ, ইসহাক ইবনু ইবরাহীম ও হারূন ইবনু আবদুল্লাহ (রহঃ) ... আবূ উমামাহ আল হারিসী (রাযিঃ) থেকে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ২৫৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>354</td></tr><tr><td>Arabic No</td><td>137.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 261</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith has been transmitted by another chain of narrators:Abu Bakr b. Abi S
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>354</td></tr><tr><td>Arabic No</td><td>137.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 261</td></tr></tbody></table></div>
 

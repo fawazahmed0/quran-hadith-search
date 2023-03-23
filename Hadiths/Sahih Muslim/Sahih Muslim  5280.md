@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫১৭৫, আন্তর্জাতিক নাম্বারঃ ২০২৭ ৫১৭৫–(১১৭/২০২৭) আবূ কামিল জাহদারী (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে যমযম হতে পানি পান করিয়েছি। তিনি দাঁড়িয়ে তা পান করলেন। (ইসলামিক ফাউন্ডেশন ৫১০৮, ইসলামিক সেন্টার ৫১১৯)
+–(১১৭/২০২৭) আবূ কামিল জাহদারী (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে যমযম হতে পানি পান করিয়েছি। তিনি দাঁড়িয়ে তা পান করলেন। (ইসলামিক ফাউন্ডেশন ৫১০৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Kamil Al Jahdari]; Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு, அருந்துவதற்கு ஸம்ஸம் தண்ணீரைக் கொடுத்தேன். அதை அவர்கள் நின்றுகொண்டு அருந்தினார்கள். அத்தியாயம் : 36
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு, அருந்துவதற்கு ஸம்ஸம் தண்ணீரைக் கொடுத்தேன். அதை அவர்கள் நின்றுகொண்டு அருந்தினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
 

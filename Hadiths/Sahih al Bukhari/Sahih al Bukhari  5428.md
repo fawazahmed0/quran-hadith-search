@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সমস্ত খাদ্যের মধ্যে ‘সারীদের’ যেমন মর্যাদা আছে, তেমনি স্ত্রীলোকদের মধ্যে ‘আয়িশাহ (রাঃ)-এর মর্যাদা আছে। (আধুনিক প্রকাশনী- ৫০২৫, ইসলামিক ফাউন্ডেশন- ৪৯২১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সমস্ত খাদ্যের মধ্যে ‘সারীদের’ যেমন মর্যাদা আছে, তেমনি স্ত্রীলোকদের মধ্যে ‘আয়িশাহ (রাঃ)-এর মর্যাদা আছে। (আধুনিক প্রকাশনী- ৫০২৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5428</td></tr><tr><td>Arabic No</td><td>5428</td></tr><tr><td>Reference</td><td>Book 70 Hadith 56</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata; telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மற்றப் பெண்களைவிட ஆயிஷாவுக்கு உள்ள சிறப்பு, மற்ற எல்லா உணவுகளை யும்விட ‘ஸரீத்’ எனும் உணவுக்குள்ள சிறப்பைப் போன்றதாகும்.50 இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கின்றார்கள். அத்தியாயம் : 70
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மற்றப் பெண்களைவிட ஆயிஷாவுக்கு உள்ள சிறப்பு, மற்ற எல்லா உணவுகளை யும்விட ‘ஸரீத்’ எனும் உணவுக்குள்ள சிறப்பைப் போன்றதாகும்.50 இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கின்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5428</td></tr><tr><td>Arabic No</td><td>5428</td></tr><tr><td>Reference</td><td>Book 70 Hadith 56</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফ্‌স ইব্‌ন উমার (রহঃ) ..... যায়েদ ইব্‌ন উকবা আল-ফাযারী (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ ভিক্ষাবৃত্তি হল ক্ষতবিক্ষতকারী জিনিস-যার সাহায্যে কোন ব্যক্তি নিজের মুখমন্ডল ক্ষতবিক্ষত করে। অতএব যার ইচ্ছা সে নিজের মানসম্মান বজায় রাখুক এবং যার ইচ্ছা নিজের লজ্জা-শরম ত্যাগ করুক। কিন্তু রাষ্ট্রপ্রধানের নিকট কিছু যাচ্ঞা করা বৈধ, অথবা অনন্যোপায় অবস্থায় যাচ্ঞা করা বৈধ। (তিরমিযী, নাসাঈ)।
+। সামুরাহ ইবনু জুনদুব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ভিক্ষাবৃত্তি হচ্ছে ক্ষতবিক্ষতকারী। মানুষ এর দ্বারা স্বীয় মুখমন্ডল ক্ষতবিক্ষত করে। কাজেই যার ইচ্ছে ভিক্ষাবৃত্তি করে স্বীয় মুখকে ক্ষতবিক্ষত রাখুক। আর যে ইচ্ছে তা পরিহার করুক। তবে রাষ্ট্রপ্রধানের কাছে চাওয়া কিংবা নিরুপায় হয়ে কিছু চাওয়ার বিষয়টি ভিন্ন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 9 Hadith 84</td></tr></tbody></table></div>
 

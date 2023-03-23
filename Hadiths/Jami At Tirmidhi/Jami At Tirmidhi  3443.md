@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৪৪৩। সালিম (রহঃ) হতে বর্ণিত আছে, কোন লোক সফরের উদ্দেশে রাওয়ানা হলে ইবনু উমার (রাযিঃ) তাকে বলতেন, আমার কাছে আস। আমি তোমাকে বিদায় সম্ভাষণ জানাব, যেভাবে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে ৱিদায় সম্ভাষণ জানাতেন। তিনি বলতেনঃ “তোমার দ্বীন, ঈমান ও সর্বশেষ "আমলের জন্য আমি আল্লাহ তা'আলাকে যিম্মাদার করলাম” ৷ সহীহঃ প্রাগুক্ত। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ এবং সালিম ইবনু আবদুল্লাহর বর্ণনার পরিপ্রেক্ষিতে গারীব।
+। সালিম (রহঃ) হতে বর্ণিত আছে, কোন লোক সফরের উদ্দেশে রাওয়ানা হলে ইবনু উমার (রাযিঃ) তাকে বলতেন, আমার কাছে আস। আমি তোমাকে বিদায় সম্ভাষণ জানাব, যেভাবে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে ৱিদায় সম্ভাষণ জানাতেন। তিনি বলতেনঃ “তোমার দ্বীন, ঈমান ও সর্বশেষ "আমলের জন্য আমি আল্লাহ তা'আলাকে যিম্মাদার করলাম” ৷ সহীহঃ প্রাগুক্ত। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ এবং সালিম ইবনু আবদুল্লাহর বর্ণনার পরিপ্রেক্ষিতে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3443</td></tr><tr><td>Arabic No</td><td>3443</td></tr><tr><td>Reference</td><td>Book 48 Hadith 74</td></tr></tbody></table></div>
 

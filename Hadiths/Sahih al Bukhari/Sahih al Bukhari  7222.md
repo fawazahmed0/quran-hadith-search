@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু সামুরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, বারজন ‘আমীর হবে। এরপর তিনি একটি কথা বললেন যা আমি শুনতে পাই নি। তবে আমার পিতা বলেছেন যে, তিনি বলেছিলেন সকলেই কুরাইশ গোত্র থেকে হবে। [মুসলিম ৩৩/১, হাঃ ১৮২১, আহমাদ ২০৮৮২] (আধুনিক প্রকাশনী- ৬৭১৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7222</td></tr><tr><td>Arabic No</td><td>7222</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் சமுரா (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) நபி (ஸல்) அவர்கள், “பன்னிரண்டு ஆட்சித் தலைவர்கள் வருவார்கள்” என்று சொல்ல நான் கேட்டேன். அப்போது நபி (ஸல்) அவர்கள், நான் (சரிவரக்) கேட்காத ஒரு சொல்லையும் சொன்னார்கள். (அது என்னவென்று விசாரித்தபோது) என் தந்தை (சமுரா-ரலி) அவர்கள், “அவர்கள் அனைவரும் குறைஷியராக இருப்பார்கள்” என்று (நபி (ஸல்) அவர்கள்) சொன்னார்கள் எனக் கூறினார்கள்.84 அத்தியாயம் : 93
+ஜாபிர் பின் சமுரா (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) நபி (ஸல்) அவர்கள், “பன்னிரண்டு ஆட்சித் தலைவர்கள் வருவார்கள்” என்று சொல்ல நான் கேட்டேன். அப்போது நபி (ஸல்) அவர்கள், நான் (சரிவரக்) கேட்காத ஒரு சொல்லையும் சொன்னார்கள். (அது என்னவென்று விசாரித்தபோது) என் தந்தை (சமுரா-ரலி) அவர்கள், “அவர்கள் அனைவரும் குறைஷியராக இருப்பார்கள்” என்று (நபி (ஸல்) அவர்கள்) சொன்னார்கள் எனக் கூறினார்கள்.84 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7222</td></tr><tr><td>Arabic No</td><td>7222</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

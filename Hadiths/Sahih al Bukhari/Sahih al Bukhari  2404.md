@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-قَالَ ابْنُ عُمَرَ فِي الْقَرْضِ إِلَى أَجَلٍ لاَ بَأْسَ بِهِ وَإِنْ أُعْطِيَ أَفْضَلَ مِنْ دَرَاهِمِهِ مَا لَمْ يَشْتَرِطْ وَقَالَ عَطَاءٌ وَعَمْرُو بْنُ دِينَارٍ هُوَ إِلَى أَجَلِهِ فِي الْقَرْضِ ইবনু ‘উমার (রাঃ) বলেন, নির্দিষ্ট সময়ের জন্য ঋণ নিতে কোন দোষ নেই। আর শর্ত করা ব্যতীত তার পাওনা টাকার বেশী দেয়া হলে কোন ক্ষতি নেই। ‘আতা ও ‘আমর ইবনু দ্বীনার (রহ.) বলেন, ঋণ গ্রহীতা নির্ধারিত মেয়াদ মেনে চলবে। ২৪০৪. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনী ইসরাঈল সম্প্রদায়ের এক লোকের কথা উল্লেখ করে বলেছেন যে, সে তার নিজ গোত্রের একজন লোকের নিকট ঋণ চায়। এরপর সে তাকে নির্দিষ্ট সময়ের জন্য ঋণ দেয় এবং এরপর বর্ণনাকারী হাদীসটি শেষ পর্যন্ত বর্ণনা করেছেন। (১৪৯৮) (আধুনিক প্রকাশনীঃ কিতাবুল ইসতিকরাদ অনুচ্ছেদ-১৮, ইসলামিক ফাউন্ডেশনঃ অনুচ্ছেদ ১৪৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قَالَ ابْنُ عُمَرَ فِي الْقَرْضِ إِلَى أَجَلٍ لاَ بَأْسَ بِهِ وَإِنْ أُعْطِيَ أَفْضَلَ مِنْ دَرَاهِمِهِ مَا لَمْ يَشْتَرِطْ وَقَالَ عَطَاءٌ وَعَمْرُو بْنُ دِينَارٍ هُوَ إِلَى أَجَلِهِ فِي الْقَرْضِ ইবনু ‘উমার (রাঃ) বলেন, নির্দিষ্ট সময়ের জন্য ঋণ নিতে কোন দোষ নেই। আর শর্ত করা ব্যতীত তার পাওনা টাকার বেশী দেয়া হলে কোন ক্ষতি নেই। ‘আতা ও ‘আমর ইবনু দ্বীনার (রহ.) বলেন, ঋণ গ্রহীতা নির্ধারিত মেয়াদ মেনে চলবে। ২৪০৪. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনী ইসরাঈল সম্প্রদায়ের এক লোকের কথা উল্লেখ করে বলেছেন যে, সে তার নিজ গোত্রের একজন লোকের নিকট ঋণ চায়। এরপর সে তাকে নির্দিষ্ট সময়ের জন্য ঋণ দেয় এবং এরপর বর্ণনাকারী হাদীসটি শেষ পর্যন্ত বর্ণনা করেছেন। (১৪৯৮) (আধুনিক প্রকাশনীঃ কিতাবুল ইসতিকরাদ অনুচ্ছেদ-১৮, ইসলামিক ফাউন্ডেশনঃ অনুচ্ছেদ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2404</td></tr><tr><td>Arabic No</td><td>2404</td></tr><tr><td>Reference</td><td>Book 43 Hadith 20</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Hurairah (ra):Allah's Messenger (ﷺ) mentioned an Israeli man who asked another Israeli to lend him money, and the latter gave it to him for a fixed period. (Abu Hurairah mentioned the rest of narration) [See chapter: Kafala in loans and debts. Hadith 2291]
+Narrated Abu Hurairah (ra):Allah's Messenger (ﷺ) mentioned an Israeli man who asked another Israeli to lend him money, and the latter gave it to him for a fixed period. (Abu Hurairah mentioned the rest of narration) [See chapter: Kafala in loans and debts. Hadith]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2404</td></tr><tr><td>Arabic No</td><td>2404</td></tr><tr><td>Reference</td><td>Book 43 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Hurairah (ra):Allah's Messenger (ﷺ) mentioned an Israeli man who 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பனூ இஸ்ராயீல் சமுதாயத்தைச் சேர்ந்த ஒருவரைப் பற்றிக் கூறினார்கள். அவர், தம் சமுதாயத்தைச் சேர்ந்த ஒரு மனிதரிடம் கடன் கேட்டார். அந்த மனிதரும் ஒரு குறிப்பிட்ட தவணையில் திருப்பிச் செலுத்திவிட வேண்டும் என்னும் நிபந்தனையுடன் அவருக்குக் கடன் கொடுத்தார்... என்று முழு ஹதீஸையும் கூறினார்கள்.10 அத்தியாயம் : 43
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பனூ இஸ்ராயீல் சமுதாயத்தைச் சேர்ந்த ஒருவரைப் பற்றிக் கூறினார்கள். அவர், தம் சமுதாயத்தைச் சேர்ந்த ஒரு மனிதரிடம் கடன் கேட்டார். அந்த மனிதரும் ஒரு குறிப்பிட்ட தவணையில் திருப்பிச் செலுத்திவிட வேண்டும் என்னும் நிபந்தனையுடன் அவருக்குக் கடன் கொடுத்தார்... என்று முழு ஹதீஸையும் கூறினார்கள்.10 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2404</td></tr><tr><td>Arabic No</td><td>2404</td></tr><tr><td>Reference</td><td>Book 43 Hadith 20</td></tr></tbody></table></div>
 

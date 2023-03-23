@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে জিজ্ঞেস করা হল, সন্ধ্যার পর আমি কঙ্কর মেরেছি। তিনি বললেনঃ কোন দোষ নেই। সে আবার বলল, কুরবানী করার আগেই আমি মাথা কামিয়ে ফেলেছি। তিনি বললেনঃ এতো কোন দোষ নেই। (৮৪) (আধুনিক প্রকাশনীঃ ১৬০৫. ইসলামিক ফাউন্ডেশনঃ ১৬১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে জিজ্ঞেস করা হল, সন্ধ্যার পর আমি কঙ্কর মেরেছি। তিনি বললেনঃ কোন দোষ নেই। সে আবার বলল, কুরবানী করার আগেই আমি মাথা কামিয়ে ফেলেছি। তিনি বললেনঃ এতো কোন দোষ নেই। (৮৪) (আধুনিক প্রকাশনীঃ ১৬০৫. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 25 Hadith 201</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் நபி (ஸல்) அவர்களிடம், “நான் மாலை நேரம் வந்தபின் கல்லெறிந்தேன்” என்று கேட்டார். அவர்கள், “குற்றமில்லை” என்று கூறினார்கள். பிறகு அவர், “நான் குர்பானி கொடுப்பதற்கு முன்பாகவே தலையை மழித்துவிட்டேன்” என்றபோதும் அவர்கள், “குற்றமில்லை” என்றே கூறினார்கள். அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் நபி (ஸல்) அவர்களிடம், “நான் மாலை நேரம் வந்தபின் கல்லெறிந்தேன்” என்று கேட்டார். அவர்கள், “குற்றமில்லை” என்று கூறினார்கள். பிறகு அவர், “நான் குர்பானி கொடுப்பதற்கு முன்பாகவே தலையை மழித்துவிட்டேன்” என்றபோதும் அவர்கள், “குற்றமில்லை” என்றே கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 25 Hadith 201</td></tr></tbody></table></div>
 

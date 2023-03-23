@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে খাইবারে অভিযানে গিয়েছিলাম .......। তিনি উপরোল্লিখিত বর্ণনার অনুরূপ বর্ণনা করেছেন। [৪২২১] (আধুনিক প্রকাশনীঃ ৩৯০২, ইসলামিক ফাউন্ডেশনঃ ৩৯০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে খাইবারে অভিযানে গিয়েছিলাম .......। তিনি উপরোল্লিখিত বর্ণনার অনুরূপ বর্ণনা করেছেন। [৪২২১] (আধুনিক প্রকাশনীঃ ৩৯০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara:We took part in a Ghazwa with the Prophet (same as Hadith No. 533)
+Narrated Al-Bara:We took part in a Ghazwa with the Prophet (same as Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Al-Bara:We took part in a Ghazwa with the Prophet (same as Hadith No. 5
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-“நாங்கள் நபி (ஸல்) அவர் களுடன் (கைபர்) போருக்குச் சென்றோம்...” (என்று தொடங்கும்) முந்தைய ஹதீஸின் கருத்தில் அமைந்த பராஉ (ரலி) அவர்களின் மற்றோர் அறிவிப்பும் இடம்பெற்றுள்ளது. அத்தியாயம் : 64
+“நாங்கள் நபி (ஸல்) அவர் களுடன் (கைபர்) போருக்குச் சென்றோம்...” (என்று தொடங்கும்) முந்தைய ஹதீஸின் கருத்தில் அமைந்த பராஉ (ரலி) அவர்களின் மற்றோர் அறிவிப்பும் இடம்பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
 

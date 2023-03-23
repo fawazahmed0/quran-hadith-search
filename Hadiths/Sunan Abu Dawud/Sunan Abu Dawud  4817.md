@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন ঈসা (রহঃ) .... ইবন হুজায়র আদাবী (রাঃ) বলেনঃ আমি উমার ইবন খাত্তাব (রাঃ)-কে নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এরূপ বর্ণনা করতে শুনেছি। এরপর তিনি পূর্বোক্ত হাদীছের অনুরূপ বর্ণনা প্রসংগে অতিরিক্ত বর্ণনা করেন যে, (রাস্তার হক হলোঃ) বিপদগ্রস্তদের সাহায্য করা এবং যারা পথ হারিয়ে ফেলে, তাদের সঠিক পথের সন্ধান দেয়া।
+। জারীর ইবনু হাযেম (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি উমার ইবনুল খাত্তাব (রাঃ)-কে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে উল্লেখিত হাদীস বর্ণনা প্রসঙ্গে আরো বলতে শুনেছি, বিপদগ্রস্তকে সাহায্য করবে এবং পথহারাকে পথ দেখাবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4817</td></tr><tr><td>Arabic No</td><td>4817</td></tr><tr><td>Reference</td><td>Book 43 Hadith 45</td></tr></tbody></table></div>
 

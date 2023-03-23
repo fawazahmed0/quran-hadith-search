@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ...... ইবন উমার (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কোন কাজের উপর কসম খাওয়ার পর বলল, ইনশা আল্লাহ। তবে সে যেন তা পরিহার করলো।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে বর্ণনা করেছেন। তিনি বলেনঃ যে ব্যক্তি শপথ করার পর ইনশাআল্লাহ বললো, সে ব্যতিক্রম করলো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3261</td></tr><tr><td>Arabic No</td><td>3261</td></tr><tr><td>Reference</td><td>Book 22 Hadith 20</td></tr></tbody></table></div>
 

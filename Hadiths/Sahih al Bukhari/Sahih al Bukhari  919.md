@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মিম্বারের উপর হতে খুৎবাহ দিতে শুনেছি। তিনি বলেছেন, যে ব্যক্তি জুমু‘আহর সালাতে আসে সে যেন গোসল করে নেয়। (৮৭৭) (আধুনিক প্রকাশনীঃ ৮৬৬, ইসলামিক ফাউন্ডেশনঃ ৮৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে মিম্বারের উপর হতে খুৎবাহ দিতে শুনেছি। তিনি বলেছেন, যে ব্যক্তি জুমু‘আহর সালাতে আসে সে যেন গোসল করে নেয়। (৮৭৭) (আধুনিক প্রকাশনীঃ ৮৬৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>919</td></tr><tr><td>Reference</td><td>Book 11 Hadith 43</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சொற்பொழிவு மேடையில் நின்றபடி, “ஜுமுஆ தொழு கைக்கு வருபவர் குளித்துக்கொள்ளட்டும்” என்று கூறியதை நான் செவியுற்றேன். அத்தியாயம் : 11
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சொற்பொழிவு மேடையில் நின்றபடி, “ஜுமுஆ தொழு கைக்கு வருபவர் குளித்துக்கொள்ளட்டும்” என்று கூறியதை நான் செவியுற்றேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>919</td></tr><tr><td>Reference</td><td>Book 11 Hadith 43</td></tr></tbody></table></div>
 

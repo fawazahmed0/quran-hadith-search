@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... আম্মার ইবনু ইয়াসির (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম অপবিত্র অবস্থায় পানাহারও ঘুমানোর পূর্বে উযূ (ওজু/অজু/অযু) করা বা না করার স্বাধীনতা প্রদান করেছেন। (তিরমিযী, আহমাদ, তাইয়ালিসী)। আলী ইবনু আবূ তালিব, আবদুল্লাহ্ ইবনু আমর ও আবদুল্লাহ্ ইবনু উমার (রাঃ) বলেছেন, অপবিত্র অবস্থায় কেউ কিছু আহার করতে চাইলে উযূ করে নিবে।
+। ‘আম্মার ইবনু ইয়াসির (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাপাক ব্যক্তিকে অযু করে পানাহার করার অথবা ঘুমাবার অনুমতি প্রদান করেছেন। ‘আলী ইবনু আবূ তালিব (রাঃ), ‘আব্দুল্লাহ ইবনু ‘উমার এবং ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ) বলেছেন, নাপাক ব্যক্তি খাওয়ার ইচ্ছা করলে অযু করে নিবে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>225</td></tr><tr><td>Arabic No</td><td>225</td></tr><tr><td>Reference</td><td>Book 1 Hadith 225</td></tr></tbody></table></div>
 

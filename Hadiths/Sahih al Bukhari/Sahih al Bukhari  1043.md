@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুগীরাহ ইবনু শু‘বাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময় যে দিন (তাঁর পুত্র) ইবরাহীম (রাযি.) ইন্তিকাল করেন, সেদিন সূর্যগ্রহণ হয়েছিল। লোকেরা তখন বলতে লাগল, ইব্রাহীম (রাযি.) এর মৃত্যুর কারণেই সূর্যগ্রহণ হয়েছে। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ কারো মৃত্যু অথবা জন্মের কারণে সূর্য বা চন্দ্রগ্রহণ হয় না। তোমরা যখন তা দেখবে, তখন সালাত আদায় করবে এবং আল্লাহর নিকট দু‘আ করবে। (১০৬০, ৬১৯৯; মুসলিম ১০,৫, হাঃ ৯১৫, আহমদ ১৮১৬৫, ১৮২০২) (আধুনিক প্রকাশনীঃ ৯৮০, ইসলামিক ফাউন্ডেশনঃ ৯৮৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুগীরাহ ইবনু শু‘বাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময় যে দিন (তাঁর পুত্র) ইবরাহীম (রাযি.) ইন্তিকাল করেন, সেদিন সূর্যগ্রহণ হয়েছিল। লোকেরা তখন বলতে লাগল, ইব্রাহীম (রাযি.) এর মৃত্যুর কারণেই সূর্যগ্রহণ হয়েছে। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ কারো মৃত্যু অথবা জন্মের কারণে সূর্য বা চন্দ্রগ্রহণ হয় না। তোমরা যখন তা দেখবে, তখন সালাত আদায় করবে এবং আল্লাহর নিকট দু‘আ করবে। (১০৬০, ৬১৯৯; মুসলিম ১০,৫, হাঃ ৯১৫, আহমদ ১৮১৬৫, ১৮২০২) (আধুনিক প্রকাশনীঃ ৯৮০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 16 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் சூரிய கிரகணம் ஏற்பட்டது. அன்றைய தினம் (நபி (ஸல்) அவர்களின் புதல்வர்) இப்ராஹீம் (ரலி) இறந்தார். இதையொட்டி மக்கள் “இப்ராஹீமின் இறப்புக்காகத்தான் சூரிய கிரகணம் ஏற்பட்டது” என்று பேசிக் கொண்டனர். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “யாருடைய இறப்புக்காகவும் யாருடைய பிறப்புக்காகவும் சூரிய கிரகணமோ சந்திர கிரகணமோ ஏற்படுவ தில்லை. எனவே, அவற்றை நீங்கள் கண்டால் (பிரகாசம் வரும்வரை) தொழுங் கள்; அல்லாஹ்விடம் பிரார்த்தியுங்கள்” என்று கூறினார்கள். அத்தியாயம் : 16
+முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் சூரிய கிரகணம் ஏற்பட்டது. அன்றைய தினம் (நபி (ஸல்) அவர்களின் புதல்வர்) இப்ராஹீம் (ரலி) இறந்தார். இதையொட்டி மக்கள் “இப்ராஹீமின் இறப்புக்காகத்தான் சூரிய கிரகணம் ஏற்பட்டது” என்று பேசிக் கொண்டனர். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “யாருடைய இறப்புக்காகவும் யாருடைய பிறப்புக்காகவும் சூரிய கிரகணமோ சந்திர கிரகணமோ ஏற்படுவ தில்லை. எனவே, அவற்றை நீங்கள் கண்டால் (பிரகாசம் வரும்வரை) தொழுங் கள்; அல்லாஹ்விடம் பிரார்த்தியுங்கள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 16 Hadith 4</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muğîre Ibn Şu'be (r.a.)'in şöyle dediği nakledilmiştir: "Resul-i Ekrem Sallallahu Aleyhi ve Sellem zamanında İbrahim'in öldüğü gün güneş tutulmuştu. Bunun üzerine insanlar: 'Güneş İbrahim öldüğü için tutuldu' demeye başladılar. Nebi Sallallahu Aleyhi ve Sellem ise onların bu sözünü duyunca şöyle buyurdu: "Güneş ve ay hiç kimsenin ne ölümü ne de hayatı dolayısıyla tutulur. Siz güneşin ve ayın tutulduğunu görürseniz namaz kılın ve Allah'a dua edin! Tekrar: 1060, 6199
+Muğîre Ibn Şu'be (r.a.)'in şöyle dediği nakledilmiştir: "Resul-i Ekrem Sallallahu Aleyhi ve Sellem zamanında İbrahim'in öldüğü gün güneş tutulmuştu. Bunun üzerine insanlar: 'Güneş İbrahim öldüğü için tutuldu' demeye başladılar. Nebi Sallallahu Aleyhi ve Sellem ise onların bu sözünü duyunca şöyle buyurdu: "Güneş ve ay hiç kimsenin ne ölümü ne de hayatı dolayısıyla tutulur. Siz güneşin ve ayın tutulduğunu görürseniz namaz kılın ve Allah'a dua edin! Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 16 Hadith 4</td></tr></tbody></table></div>
 

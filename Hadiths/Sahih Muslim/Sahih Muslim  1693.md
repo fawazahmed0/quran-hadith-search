@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৫৭৮, আন্তর্জাতিক নাম্বারঃ ৭২৭ ১৫৭৮-(.../..) ‘আলী ইবনু খশরাম (রহঃ) ...... উসমান ইবনু হাকীম (রহঃ) মারওয়ান আল ফাযারী হতে একই সানাদে হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৫৬৩, ইসলামীক সেন্টার ১৫৭০)
+‘আলী ইবনু খশরাম (রহঃ) ...... উসমান ইবনু হাকীম (রহঃ) মারওয়ান আল ফাযারী হতে একই সানাদে হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৫৬৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1693</td></tr><tr><td>Arabic No</td><td>727.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 123</td></tr></tbody></table></div>
 

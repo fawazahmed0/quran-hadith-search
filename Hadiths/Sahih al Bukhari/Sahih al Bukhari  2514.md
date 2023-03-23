@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু আবূ মুলাইকা হতে বর্ণিত। তিনি বলেন, ইবনু ‘আব্বাস (রাঃ)-এর নিকট আমি (একবার বাদী বিবাদীর মতবিরোধ সম্পর্কে) লিখে পাঠালাম। তার জবাবে তিনি আমাকে লিখলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই ফায়সালা দিয়েছেন যে, (বাদী সাক্ষী পেশ করতে ব্যর্থ হলে) কসম করা বিবাদীর কর্তব্য। (৪৫৫২, ২৬৬৮) (আধুনিক প্রকাশনীঃ ২৩৩২, ইসলামিক ফাউন্ডেশনঃ ২৩৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু আবূ মুলাইকা হতে বর্ণিত। তিনি বলেন, ইবনু ‘আব্বাস (রাঃ)-এর নিকট আমি (একবার বাদী বিবাদীর মতবিরোধ সম্পর্কে) লিখে পাঠালাম। তার জবাবে তিনি আমাকে লিখলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই ফায়সালা দিয়েছেন যে, (বাদী সাক্ষী পেশ করতে ব্যর্থ হলে) কসম করা বিবাদীর কর্তব্য। (৪৫৫২, ২৬৬৮) (আধুনিক প্রকাশনীঃ ২৩৩২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2514</td></tr><tr><td>Arabic No</td><td>2514</td></tr><tr><td>Reference</td><td>Book 48 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அபீமுளைக்கா (ரஹ்) அவர்கள் கூறியதாவது: நான் இப்னு அப்பாஸ் (ரலி) அவர்களுக்கு (ஒரு வழக்கில் விளக்கம் கேட்டு) கடிதம் எழுதினேன். அவர்கள் எனக்கு, ‘‘நபி (ஸல்) அவர்கள் பிரதிவாதி (தன் மீதுள்ள வழக்கை மறுப்பதற்கு) சத்தியம் செய்ய வேண்டுமென்று தீர்ப்பளித்தார்கள்” எனப் பதில் எழுதினார்கள். அத்தியாயம் : 48
+இப்னு அபீமுளைக்கா (ரஹ்) அவர்கள் கூறியதாவது: நான் இப்னு அப்பாஸ் (ரலி) அவர்களுக்கு (ஒரு வழக்கில் விளக்கம் கேட்டு) கடிதம் எழுதினேன். அவர்கள் எனக்கு, ‘‘நபி (ஸல்) அவர்கள் பிரதிவாதி (தன் மீதுள்ள வழக்கை மறுப்பதற்கு) சத்தியம் செய்ய வேண்டுமென்று தீர்ப்பளித்தார்கள்” எனப் பதில் எழுதினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2514</td></tr><tr><td>Arabic No</td><td>2514</td></tr><tr><td>Reference</td><td>Book 48 Hadith 7</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ebi Müleyke'den rivayet edilmiştir: İbn Abbas'a (dava ile ilgili) bir mektup yazmıştım. Bana "Nebi Sallallahu Aleyhi ve Sellem yeminin davalıya ait bir yükümlülük olduğuna hükmetti" diye cevap yazdı. Tekrar: 2668, 4552
+İbn Ebi Müleyke'den rivayet edilmiştir: İbn Abbas'a (dava ile ilgili) bir mektup yazmıştım. Bana "Nebi Sallallahu Aleyhi ve Sellem yeminin davalıya ait bir yükümlülük olduğuna hükmetti" diye cevap yazdı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2514</td></tr><tr><td>Arabic No</td><td>2514</td></tr><tr><td>Reference</td><td>Book 48 Hadith 7</td></tr></tbody></table></div>
 

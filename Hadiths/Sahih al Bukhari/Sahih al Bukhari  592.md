@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, দু’রাক‘আত সালাত আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রকাশ্যে বা গোপনে কোন অবস্থাতেই ছাড়তেন না। তাহলো ফজরের সালাতের পূর্বের দু’রাক‘আত ও ‘আসরের পরের দু’রাক‘আত। (৫৯০) (আধুনিক প্রকাশনীঃ ৫৫৭, ইসলামিক ফাউন্ডেশনঃ ৫৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, দু’রাক‘আত সালাত আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রকাশ্যে বা গোপনে কোন অবস্থাতেই ছাড়তেন না। তাহলো ফজরের সালাতের পূর্বের দু’রাক‘আত ও ‘আসরের পরের দু’রাক‘আত। (৫৯০) (আধুনিক প্রকাশনীঃ ৫৫৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>592</td></tr><tr><td>Arabic No</td><td>592</td></tr><tr><td>Reference</td><td>Book 9 Hadith 67</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், இரண்டு தொழுகைகளை இரகசியமாகவும் விட்டதில்லை; பகிரங்கமாகவும் விட்டதில்லை. (அவை:) சுப்ஹு தொழுகைக்குமுன் இரண்டு ரக்அத்கள், அஸ்ர் தொழுகைக்குப்பின் இரண்டு ரக்அத்கள். அத்தியாயம் : 9
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், இரண்டு தொழுகைகளை இரகசியமாகவும் விட்டதில்லை; பகிரங்கமாகவும் விட்டதில்லை. (அவை:) சுப்ஹு தொழுகைக்குமுன் இரண்டு ரக்அத்கள், அஸ்ர் தொழுகைக்குப்பின் இரண்டு ரக்அத்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>592</td></tr><tr><td>Arabic No</td><td>592</td></tr><tr><td>Reference</td><td>Book 9 Hadith 67</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু দ্বীনার (রহ.) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) সফরে সওয়ারী যে দিকেই ফিরেছে সে দিকেই মুখ ফিরে ইঙ্গিতে সালাত আদায় করতেন এবং ‘আবদুল্লাহ্ (রাযি.) বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন করতেন। (৯৯৯) (আধুনিক প্রকাশনীঃ ১০২৯, ইসলামিক ফাউন্ডেশনঃ ১০৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু দ্বীনার (রহ.) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) সফরে সওয়ারী যে দিকেই ফিরেছে সে দিকেই মুখ ফিরে ইঙ্গিতে সালাত আদায় করতেন এবং ‘আবদুল্লাহ্ (রাযি.) বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন করতেন। (৯৯৯) (আধুনিক প্রকাশনীঃ ১০২৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>1096</td></tr><tr><td>Reference</td><td>Book 18 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் பயணத்தின்போது ஊர்தி ஒட்டகத்தில் அமர்ந்து, அது செல்லும் திசை நோக்கி (கூடுதலான தொழுகை களை) சைகை செய்து தொழுவார்கள். மேலும், “நபி (ஸல்) அவர்கள் அவ்வாறே செய்வார்கள்” என்றும் குறிப்பிடுவார்கள். அத்தியாயம் : 18
+அப்துல்லாஹ் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் பயணத்தின்போது ஊர்தி ஒட்டகத்தில் அமர்ந்து, அது செல்லும் திசை நோக்கி (கூடுதலான தொழுகை களை) சைகை செய்து தொழுவார்கள். மேலும், “நபி (ஸல்) அவர்கள் அவ்வாறே செய்வார்கள்” என்றும் குறிப்பிடுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>1096</td></tr><tr><td>Reference</td><td>Book 18 Hadith 16</td></tr></tbody></table></div>
 

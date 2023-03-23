@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ আনসারী (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাজাশীর উপর জানাযার সালাত আদায় করেন। আমরাও তাঁর পিছনে সারিবদ্ধভাবে দাঁড়িয়ে গেলাম। আমি দ্বিতীয় বা তৃতীয় কাতারে ছিলাম। (১৩১৭) (আধুনিক প্রকাশনীঃ ৩৫৯১, ইসলামিক ফাউন্ডেশনঃ ৩৫৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ আনসারী (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাজাশীর উপর জানাযার সালাত আদায় করেন। আমরাও তাঁর পিছনে সারিবদ্ধভাবে দাঁড়িয়ে গেলাম। আমি দ্বিতীয় বা তৃতীয় কাতারে ছিলাম। (১৩১৭) (আধুনিক প্রকাশনীঃ ৩৫৯১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3878</td></tr><tr><td>Arabic No</td><td>3878</td></tr><tr><td>Reference</td><td>Book 63 Hadith 103</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdul A'laa bin Hammad] telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் அல் அன்சாரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (அபிசீனிய மன்னர்) நஜாஷீ (இறந்துவிட்டபோது) அவருக்காக (ஃகாயிப் ஜனாஸா) தொழுகை தொழுதார்கள். நாங்கள் நபி (ஸல்) அவர்களுக்குப் பின்னே வரிசையாக நின்றுகொண்டோம். நான் இரண்டாவது வரிசையில், அல்லது மூன்றாவது வரிசையில் இருந்தேன்.125 அத்தியாயம் : 63
+ஜாபிர் பின் அப்தில்லாஹ் அல் அன்சாரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (அபிசீனிய மன்னர்) நஜாஷீ (இறந்துவிட்டபோது) அவருக்காக (ஃகாயிப் ஜனாஸா) தொழுகை தொழுதார்கள். நாங்கள் நபி (ஸல்) அவர்களுக்குப் பின்னே வரிசையாக நின்றுகொண்டோம். நான் இரண்டாவது வரிசையில், அல்லது மூன்றாவது வரிசையில் இருந்தேன்.125 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3878</td></tr><tr><td>Arabic No</td><td>3878</td></tr><tr><td>Reference</td><td>Book 63 Hadith 103</td></tr></tbody></table></div>
 

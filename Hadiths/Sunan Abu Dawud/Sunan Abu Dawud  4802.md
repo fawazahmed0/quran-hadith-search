@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উট 'আযবা' কখনো দৌড়ে পেছনে পড়তো না। একবার একজন বেদুঈন আরব একটা নওজওয়ান উটের-পিঠে সওয়ার হয়ে আসে এবং আযবা-এর সাথে দৌড় প্রতিযোগিতায় অবতীর্ণ হয়, যাতে সে প্রথম হয়। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীগণ এতে ব্যথিত হলে তিনি বলেনঃ এটাই আল্লাহ্‌র বিধান যে, কোন জিনিস বেড়ে গেলে, তিনি তা কমিয়ে দেন।
+। আনাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আদবাকে (নবীজীর উষ্ট্রীকে) পরাজিত করা যেতো না। একদা এক বেদুঈন তার মাদী উষ্ট্রী নিয়ে এসে দৌড় প্রতিযোগিতায় অংশগ্রহণ করে তাতে বিজয়ী হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীগণ মনোক্ষুণ্ণ হলেন। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ কোনো কিছুর চরম উন্নতী অর্জনের পর আবার অবনতির দিকে প্রত্যাবর্তিত করা আল্লাহর চিরন্তন নীতি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4802</td></tr><tr><td>Arabic No</td><td>4802</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
 

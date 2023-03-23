@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৮১৫, আন্তর্জাতিক নাম্বারঃ ২৭৩০ ৬৮১৫-(…/...) আবু বকর ইবনু আবূ শাইবাহ্ (রহঃ) .... হিশাম (রহঃ) এর সানাদে এ সূত্রে হুবহু হাদীস বর্ণনা করেছেন। আর মুআয ইবনু হিশামের বর্ণিত হাদীসটি অধিক পরিপূর্ণ। (ইসলামিক ফাউন্ডেশন ৬৬৭৩, ইসলামিক সেন্টার ৬৭২৭)
+(…/...) আবু বকর ইবনু আবূ শাইবাহ্ (রহঃ) .... হিশাম (রহঃ) এর সানাদে এ সূত্রে হুবহু হাদীস বর্ণনা করেছেন। আর মুআয ইবনু হিশামের বর্ণিত হাদীসটি অধিক পরিপূর্ণ। (ইসলামিক ফাউন্ডেশন ৬৬৭৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>2730.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 114</td></tr></tbody></table></div>
 

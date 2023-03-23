@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সাঈদ দারিমী (রহঃ) .... ইবন ইসহাক (রহঃ) হতে উপরোক্ত হাদীছের সনদে ও অর্থে হাদীছ বর্ণনা করা হয়েছে। অবশ্য তিনি বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীদের থেকে জনৈক সাহাবী বর্ণনা করেছেন। রাবী বলেনঃ আমার ধারণা, তিনি হলেন আবূ সাঈদ খুদ্‌রী। তিনি বলেনঃ আমি তাকে কুড়াল দিয়ে গাছের গোড়ায় আঘাত করতে দেখেছি।
+। ইবনু ইসহাক (রহঃ) তার নিজস্ব সনদে অনুরূপ হাদীস বর্ণনা করেন। তবে তাতে রয়েছেঃ উরওয়াহ (রহঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীদের মধ্যকার এক ব্যক্তি বলেছেন। আমার ধারণা সম্ভবত তিনি হলেন আবূ সাঈদ আল-খুদরী (রাঃ)। তিনি বলেছেন, আমি দেখলাম, লোকটি খেজুর গাছের গোড়া কেটে ফেলেছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3075</td></tr><tr><td>Arabic No</td><td>3075</td></tr><tr><td>Reference</td><td>Book 20 Hadith 148</td></tr></tbody></table></div>
 

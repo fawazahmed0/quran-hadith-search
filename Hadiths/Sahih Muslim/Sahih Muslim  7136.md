@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭০২৮, আন্তর্জাতিক নাম্বারঃ ২৮২৬ ৭০২৮-(৬/২৮২৬) কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) এর সূত্রে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, জান্নাতে এমন একটি বৃক্ষ আছে, যার ছায়ায় একজন আরোহী একশ’ বছর পর্যন্ত সফর করতে থাকবে। (ইসলামিক ফাউন্ডেশন ৬৮৭৫, ইসলামিক সেন্টার ৬৯৩২)
+কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) এর সূত্রে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, জান্নাতে এমন একটি বৃক্ষ আছে, যার ছায়ায় একজন আরোহী একশ’ বছর পর্যন্ত সফর করতে থাকবে। (ইসলামিক ফাউন্ডেশন ৬৮৭৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7136</td></tr><tr><td>Arabic No</td><td>2826.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 7</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கத்தில் ஒரு மரம் உள்ளது. அதன் நிழலில் ஒரு பயணி நூறு வருடங்கள் பயணிப்பார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 51
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கத்தில் ஒரு மரம் உள்ளது. அதன் நிழலில் ஒரு பயணி நூறு வருடங்கள் பயணிப்பார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7136</td></tr><tr><td>Arabic No</td><td>2826.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 7</td></tr></tbody></table></div>
 

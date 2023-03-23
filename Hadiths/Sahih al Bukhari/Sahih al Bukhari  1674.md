@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ আইয়ুব আনসারী (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিদায় হাজ্জের সময় মুযদালিফায় মাগরিব এবং ‘ইশা একত্রে আদায় করেছেন। (৪৪১৪, মুসলিম ১৫/৪৭, হাঃ ১২৮৭, আহমাদ ২৩৬২১) (আধুনিক প্রকাশনীঃ ১৫৬০, ইসলামিক ফাউন্ডেশনঃ ১৫৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ আইয়ুব আনসারী (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিদায় হাজ্জের সময় মুযদালিফায় মাগরিব এবং ‘ইশা একত্রে আদায় করেছেন। (৪৪১৪, মুসলিম ১৫/৪৭, হাঃ ১২৮৭, আহমাদ ২৩৬২১) (আধুনিক প্রকাশনীঃ ১৫৬০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>1674</td></tr><tr><td>Reference</td><td>Book 25 Hadith 154</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khalid bin Mukhallad] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஅய்யூப் அல்அன்சாரீ (ரலி) அவர்கள் கூறியதாவது: விடைபெறும் ஹஜ்ஜின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் முஸ்தலிஃபாவில் மஃக்ரிபையும் இஷா வையும் இணைத்து (ஜம்உ செய்து) தொழுதார்கள். அத்தியாயம் : 25
+அபூஅய்யூப் அல்அன்சாரீ (ரலி) அவர்கள் கூறியதாவது: விடைபெறும் ஹஜ்ஜின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் முஸ்தலிஃபாவில் மஃக்ரிபையும் இஷா வையும் இணைத்து (ஜம்உ செய்து) தொழுதார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>1674</td></tr><tr><td>Reference</td><td>Book 25 Hadith 154</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Khalid bin Mukhallad] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Eyyub el-Ensarî şöyle nakletmiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Veda Haccında akşam ve yatsı namazlarını Müzdelife'de cem' ederek kılmıştır. Tekrar: 4414
+Ebu Eyyub el-Ensarî şöyle nakletmiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Veda Haccında akşam ve yatsı namazlarını Müzdelife'de cem' ederek kılmıştır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>1674</td></tr><tr><td>Reference</td><td>Book 25 Hadith 154</td></tr></tbody></table></div>
 

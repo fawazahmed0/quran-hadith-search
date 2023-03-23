@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হান্নাদ ইবন সারিয়্যী (রহঃ) ... সুওয়াইদ ইবন গাফালাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমার কাছে সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যাকাত উসূলকারী আসলে আমি তার কাছে গিয়ে বসলাম। আমি তাঁকে বলতে শুনলামঃ "আমার অঙ্গীকারের মধ্যে আছে (আমি অঙ্গীকারাবদ্ধ) আমি যেন দুগ্ধবতী জন্তু না নেই এবং বিচ্ছিন্ন জন্তুসমূহ একত্রিত না করি, একত্ৰিত জন্তুসমূহকে বিচ্ছিন্ন না করি। (রাবী বলেন) ইতিমধ্যে তাঁর কাছে এক ব্যক্তি উচু কুঞ্জ বিশিষ্ট একটি উটি নিয়ে এসে বলল যে, এটা আপনি গ্ৰহণ করুন, কিন্তু তিনি গ্ৰহণ করতে অস্বীকৃতি জানালেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2457</td></tr><tr><td>Arabic No</td><td>2457</td></tr><tr><td>Reference</td><td>Book 23 Hadith 23</td></tr></tbody></table></div>
 

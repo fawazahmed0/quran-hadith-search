@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রাবী ইবন নাফি (রহঃ) ..... আবদুল্লাহ ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুকুরের মূল্য গ্রহণ করতে নিষেধ করেছেন। আর যদি কেউ কুকুরের মূল্য গ্রহণ করতে আসে, তবে তার হাতের মুঠো মাটি দিয়ে ভরে দেবে।
+। ‘আব্দুল্লাহ ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুকুরের মূল্য নিষিদ্ধ করেছেণ। কেউ কুকুরের মূল্য চাইতে এলে মাটি দিয়ে তার হাতের মুষ্টি ভরে দিবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3482</td></tr><tr><td>Arabic No</td><td>3482</td></tr><tr><td>Reference</td><td>Book 24 Hadith 67</td></tr></tbody></table></div>
 

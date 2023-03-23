@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ মারা গেলে অবশ্যই তার সামনে সকাল ও সন্ধ্যায় তার অবস্থান স্থল উপস্থাপন করা হয়। যদি সে জান্নাতী হয়, তবে (অবস্থান স্থল) জান্নাতীদের মধ্যে দেখানো হয়। আর সে জাহান্নামী হলে, তাকে জাহান্নামীদের (অবস্থান স্থল দেখানো হয়) আর তাকে বলা হয়, এ হচ্ছে তোমার অবস্থান স্থল, ক্বিয়ামাত (কিয়ামত) দিবসে আল্লাহ্ তোমাকে পুনরুত্থিত করা অবধি। (৩২৪০, ৬৫১৫, মুসলিম ৫১/১৭, হাঃ ২৬৮৮, আহমাদ ৫১১৯) (আধুনিক প্রকাশনীঃ ১২৮৮, ইসলামিক ফাউন্ডেশনঃ ১২৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ মারা গেলে অবশ্যই তার সামনে সকাল ও সন্ধ্যায় তার অবস্থান স্থল উপস্থাপন করা হয়। যদি সে জান্নাতী হয়, তবে (অবস্থান স্থল) জান্নাতীদের মধ্যে দেখানো হয়। আর সে জাহান্নামী হলে, তাকে জাহান্নামীদের (অবস্থান স্থল দেখানো হয়) আর তাকে বলা হয়, এ হচ্ছে তোমার অবস্থান স্থল, ক্বিয়ামাত (কিয়ামত) দিবসে আল্লাহ্ তোমাকে পুনরুত্থিত করা অবধি। (৩২৪০, ৬৫১৫, মুসলিম ৫১/১৭, হাঃ ২৬৮৮, আহমাদ ৫১১৯) (আধুনিক প্রকাশনীঃ ১২৮৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1379</td></tr><tr><td>Arabic No</td><td>1379</td></tr><tr><td>Reference</td><td>Book 23 Hadith 131</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [M
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் இறந்துவிட்டால் (மறுமையில்) அவர் தங்குமிடம் அவருக்குக் காலையிலும் மாலையிலும் எடுத்துக்காட்டப்படும். அவர் சொர்க்கவாசியாக இருந்தால் சொர்க்கத்தில் இருப்பதாகவும் நரகவாசியாக இருந்தால் நரகத்தில் இருப்பதாகவும் (எடுத்துக்காட்டப்படும்). மேலும், “இதுதான் உன் இருப்பிடம். இறுதியில் அல்லாஹ் உன்னை மறுமை நாளில் எழுப்பி இங்குதான் அனுப்புவான்” என்றும் கூறப்படும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 23
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் இறந்துவிட்டால் (மறுமையில்) அவர் தங்குமிடம் அவருக்குக் காலையிலும் மாலையிலும் எடுத்துக்காட்டப்படும். அவர் சொர்க்கவாசியாக இருந்தால் சொர்க்கத்தில் இருப்பதாகவும் நரகவாசியாக இருந்தால் நரகத்தில் இருப்பதாகவும் (எடுத்துக்காட்டப்படும்). மேலும், “இதுதான் உன் இருப்பிடம். இறுதியில் அல்லாஹ் உன்னை மறுமை நாளில் எழுப்பி இங்குதான் அனுப்புவான்” என்றும் கூறப்படும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1379</td></tr><tr><td>Arabic No</td><td>1379</td></tr><tr><td>Reference</td><td>Book 23 Hadith 131</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [M
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a., Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: "Sizden biri ölünce gideceği yer kendisine sabah akşam gösterilir. Şayet ölen kişi cennetlik ise cennetteki yeri, cehennemlik ise cehennemdeki yeri gösterilir ve kendisine: 'Allah seni kıyamet gününde yeniden diriltinceye kadar bu senin kalacağın yerdir' denir. Tekrar: 3240, 6515
+Abdullah İbn Ömer r.a., Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: "Sizden biri ölünce gideceği yer kendisine sabah akşam gösterilir. Şayet ölen kişi cennetlik ise cennetteki yeri, cehennemlik ise cehennemdeki yeri gösterilir ve kendisine: 'Allah seni kıyamet gününde yeniden diriltinceye kadar bu senin kalacağın yerdir' denir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1379</td></tr><tr><td>Arabic No</td><td>1379</td></tr><tr><td>Reference</td><td>Book 23 Hadith 131</td></tr></tbody></table></div>
 

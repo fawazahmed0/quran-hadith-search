@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ رَبِيعَةُ لاَ يَنْبَغِي لِأَحَدٍ عِنْدَهُ شَيْءٌ مِنَ الْعِلْمِ أَنْ يُضَيِّعَ نَفْسَهُ. রাবী‘আহ (রহ.) বলেন, ‘যার নিকট সামান্য জ্ঞান আছে, তার উচিত নয় নিজেকে অপমানিত করা ৮০. আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, কিয়ামতের কিছু ‘আলামত হলঃ ‘ইল্ম হ্রাস পাবে, অজ্ঞতা প্রসারতা লাভ করবে, মদপানের মাত্রা বৃদ্ধি পাবে এবং যেনা ব্যভিচার বিস্তার লাভ করবে। (৮১, ৫২৩১, ৫৫৭৭, ৬৮০৮; মুসলিম ৪৭/৪ হাঃ ২৬৭১, আহমাদ ১৩০৯৩, ১৪০৮০) (আধুনিক প্রকাশনীঃ ৮০, ইসলামিক ফাউন্ডেশনঃ ৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ رَبِيعَةُ لاَ يَنْبَغِي لِأَحَدٍ عِنْدَهُ شَيْءٌ مِنَ الْعِلْمِ أَنْ يُضَيِّعَ نَفْسَهُ. রাবী‘আহ (রহ.) বলেন, ‘যার নিকট সামান্য জ্ঞান আছে, তার উচিত নয় নিজেকে অপমানিত করা ৮০. আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, কিয়ামতের কিছু ‘আলামত হলঃ ‘ইল্ম হ্রাস পাবে, অজ্ঞতা প্রসারতা লাভ করবে, মদপানের মাত্রা বৃদ্ধি পাবে এবং যেনা ব্যভিচার বিস্তার লাভ করবে। (৮১, ৫২৩১, ৫৫৭৭, ৬৮০৮; মুসলিম ৪৭/৪ হাঃ ২৬৭১, আহমাদ ১৩০৯৩, ১৪০৮০) (আধুনিক প্রকাশনীঃ ৮০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Imran bin Maisarah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: கல்வி அகற்றப்படுவதும், அறியாமை நிலைப்படுவதும், மது (மலிவாக) அருந்தப் படுவதும், விபசாரம் பரவலாய் நடப்பதும் மறுமை நாளின் அடையாளங்களில் அடங்கும். இதை அனஸ் (ரலி) அவர்கள் அறி விக்கிறார்கள். அத்தியாயம் : 3
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: கல்வி அகற்றப்படுவதும், அறியாமை நிலைப்படுவதும், மது (மலிவாக) அருந்தப் படுவதும், விபசாரம் பரவலாய் நடப்பதும் மறுமை நாளின் அடையாளங்களில் அடங்கும். இதை அனஸ் (ரலி) அவர்கள் அறி விக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Imran bin Maisarah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes, Nebi (Sallallahu aleyhi ve Sellem)’in şöyle dediğini rivayet etmiştir: "ilmin kaldırılması, cehaletin yerleşmesi, içkinin içilmesi ve zinanın yaygınlaşması kıyamet alâmetlerindendir. Tekrar: 81, 5231, 5577, 6808
+Enes, Nebi (Sallallahu aleyhi ve Sellem)’in şöyle dediğini rivayet etmiştir: "ilmin kaldırılması, cehaletin yerleşmesi, içkinin içilmesi ve zinanın yaygınlaşması kıyamet alâmetlerindendir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
 

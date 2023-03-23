@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুসায়ন ইবনে ঈসা (রহঃ) ..... কায়স ইবন আবূ গারযা (রাঃ) পূর্বোক্ত হাদীছের অনুরূপ হাদীছ বর্ণনা করেছেন। তিনি বলেনঃ বেচা-কেনার মধ্যে কখনো কসম ও মিথ্যা জড়িত হয়ে থাকে। রাবী আবদুল্লাহ যুহরী বলেনঃ বেচা-কেনার মধ্যে কখনও কখনও বেহুদা কথাবার্তা ও মিথ্যা জড়িত হয়ে থাকে।
+। কায়িস ইবনু আবূ গারাযাহ (রাঃ) থেকে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। এতে আরো রয়েছেঃ তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেনঃ (ব্যবসায়) মিথ্যা বলা ও শপথ করা হয়ে থাকে। ‘আব্দুল্লাহ আয-যুহরীর বর্ণনায় রয়েছেঃ বেহুদা কথাবার্তা ও মিথ্যা হয়ে থাকে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3327</td></tr><tr><td>Arabic No</td><td>3327</td></tr><tr><td>Reference</td><td>Book 23 Hadith 2</td></tr></tbody></table></div>
 

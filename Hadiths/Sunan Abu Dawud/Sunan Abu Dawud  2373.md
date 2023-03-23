@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফস ইবন উমার ..... ইবনে আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরামের মধ্যে রোযা থাকাবস্থায় শিংগা লাগান।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সওম ও ইহরাম অবস্থায় রক্তমোক্ষণ করিয়েছেন।[1] দুর্বলঃ যঈফ সুনান আত-তিরমিযী (১২৪/৭৭৯), ইরওয়া (৯৩২), যঈফ সুনান ইবনু মাজাহ (৩৭১), তাকরীজ হাক্বীকাতুস সিয়াম (পৃঃ ৬৭-৬৮)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2373</td></tr><tr><td>Arabic No</td><td>2373</td></tr><tr><td>Reference</td><td>Book 14 Hadith 61</td></tr></tbody></table></div>
 

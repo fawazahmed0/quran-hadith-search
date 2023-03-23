@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবন আলী ...... নাফি' (রহঃ) হতে বর্ণিত। ইবন উমার (রাঃ) তাঁর ক্রীতদাসী সাফিয়্যাকে সাথে করে একই উষ্ট্রে আরোহণ করে (তাকে পেছনে বসিয়ে) মক্কায় সফর করেন।
+। নাফি‘ (রহঃ) সূত্রে বর্ণিত। ইবনু ‘উমার (রাযি.) তার দাসী সাফিয়্যাহ নাম্মীকে তার পেছনে সওয়ারীর উপর বসিয়ে নিয়ে মক্কা পর্যন্ত সফর করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 11 Hadith 8</td></tr></tbody></table></div>
 

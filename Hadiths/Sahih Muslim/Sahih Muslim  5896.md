@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৭৮৯, আন্তর্জাতিক নাম্বারঃ ২২৬০ ৫৭৮৯-(১০/২২৬০) যুহায়র ইবনু হারব (রহঃ) ..... বুরাইদাহ (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক পাশা খেলা খেলল, সে যেন তার হাত শুকরের গোশত ও রক্তে রঙিন করে তুলল। (ইসলামিক ফাউন্ডেশন ৫৬৯৯, ইসলামিক সেন্টার ৫৭৩১)
+যুহায়র ইবনু হারব (রহঃ) ..... বুরাইদাহ (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক পাশা খেলা খেলল, সে যেন তার হাত শুকরের গোশত ও রক্তে রঙিন করে তুলল। (ইসলামিক ফাউন্ডেশন ৫৬৯৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5896</td></tr><tr><td>Arabic No</td><td>2260</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami ['
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: பகடைக்காய் ஆட்டம் (நர்தஷீர்) விளையாடியவர், தமது கையைப் பன்றி இறைச்சியிலும் இரத்தத்திலும் தோய்த்தவரைப் போன்றவர் ஆவார். இதை புரைதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 41
+நபி (ஸல்) அவர்கள் கூறினார்கள்: பகடைக்காய் ஆட்டம் (நர்தஷீர்) விளையாடியவர், தமது கையைப் பன்றி இறைச்சியிலும் இரத்தத்திலும் தோய்த்தவரைப் போன்றவர் ஆவார். இதை புரைதா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5896</td></tr><tr><td>Arabic No</td><td>2260</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
 

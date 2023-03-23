@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ঈসা ইবন হাম্মাদ (রহঃ) ..... আবূ হুরায়রা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে হাদীছটি এভাবে বর্ণনা করেছন। ইমাম আবূ দাউদ (রহঃ) বলেনঃ আবূ নূ'আয়ম (রহঃ) মূসা ইবন কায়স (রহঃ) থেকে, তিনি মুহাম্মদ ইবন আজলান (রহঃ) থেকে, তিনি সাঈদ (রহঃ) থেকে, তিনি আবূ হুরায়রা (রাঃ) থেকে, তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণনা করেছেন।
+। আবূ হুরাইরাহ (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে পূর্বোক্ত হাদীসের অর্থানুরূপ বর্ণিত।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5035</td></tr><tr><td>Arabic No</td><td>5035</td></tr><tr><td>Reference</td><td>Book 43 Hadith 263</td></tr></tbody></table></div>
 

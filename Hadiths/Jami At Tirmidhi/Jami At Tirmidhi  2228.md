@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২২২৮। উমার ইবনুল হাকাম (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি আবূ হুরাইরা (রাঃ)-কে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জাহজাহ’ নামক কোন এক মুক্তদাস অধিপতি না হওয়া পর্যন্ত দিন-রাতের অবসান (কিয়ামত) হবে না। সহীহ, সহীহাহ (২৪৪১), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
+। উমার ইবনুল হাকাম (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি আবূ হুরাইরা (রাঃ)-কে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জাহজাহ’ নামক কোন এক মুক্তদাস অধিপতি না হওয়া পর্যন্ত দিন-রাতের অবসান (কিয়ামত) হবে না। সহীহ, সহীহাহ (২৪৪১), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2228</td></tr><tr><td>Arabic No</td><td>2228</td></tr><tr><td>Reference</td><td>Book 33 Hadith 71</td></tr></tbody></table></div>
 

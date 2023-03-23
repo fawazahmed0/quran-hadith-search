@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯৮। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাম ফিরানোর পর এই দু'আ পাঠের বেশি সময় বসতেন না- “আল্লাহুম্মা আনতাস্ সালামু ..... ওয়াল ইকরাম।” অর্থাৎ- “হে আল্লাহ! তুমিই শান্তিদাতা তোমার নিকট হতেই শান্তি আসে। হে সম্মান ও গৌরবের মালিক! তুমি প্রাচুর্যময় ও বারকাতময়"। —সহীহ। ইবনু মাজাহ– (৯২৪), মুসলিম।
+। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাম ফিরানোর পর এই দু'আ পাঠের বেশি সময় বসতেন না- “আল্লাহুম্মা আনতাস্ সালামু ..... ওয়াল ইকরাম।” অর্থাৎ- “হে আল্লাহ! তুমিই শান্তিদাতা তোমার নিকট হতেই শান্তি আসে। হে সম্মান ও গৌরবের মালিক! তুমি প্রাচুর্যময় ও বারকাতময়"। —সহীহ। ইবনু মাজাহ– (৯২৪), মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>298</td></tr><tr><td>Arabic No</td><td>298</td></tr><tr><td>Reference</td><td>Book 2 Hadith 150</td></tr></tbody></table></div>
 

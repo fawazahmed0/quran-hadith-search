@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মা‘মার (রহ.) বলেন, এর অর্থ হচ্চে, তোমার উপর কুরআন অবতীর্ণ করা হয়। এর অর্থ তুমি কুরআন তাদের নিকট হতে গ্রহণ কর। যেমন বলা হয়েছে- আদম (আঃ) তাঁর রবেব নিকট থেকে কয়েকটি বাক্য গ্রহণ করলেন। ৭৪৮৫. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ যখন কোন বান্দাকে ভালবাসেন, তখন তিনি জিবরীলকে ডেকে বলেন, আল্লাহ্ অমুক বান্দাকে ভালবাসেন, তাই তুমিও তাকে ভালবাস। কাজেই জিবরীল (আঃ) তাকে ভালবাসেন। অতঃপর জিবরীল (আঃ) আসমানে এ ঘোষণা করে দেন যে, আল্লাহ্ অমুক বান্দাকে ভালবাসেন, তোমরাও তাকে ভালবাস। তখন তাকে আসমানবাসীরা ভালবাসে এবং পৃথিবীবাসীদের মধ্যেও তাকে গ্রহণীয় করা হয়। [৩২০৯] (আধুনিক প্রকাশনী- ৬৯৬৭, ইসলামিক ফাউন্ডেশন- ৬৯৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ مَعْمَرٌ وَإِنَّكَ لَتُلَقَّى الْقُرْآنَ أَيْ يُلْقَى عَلَيْكَ وَتَلَقَّاهُ أَنْتَ أَيْ تَأْخُذُهُ عَنْهُمْ وَمِثْلُهُ (فَتَلَقَّى آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ) মা‘মার (রহ.) বলেন, إِنَّكَ لَتُلَقَّى الْقُرْآنَ এর অর্থ হচ্চে, তোমার উপর কুরআন অবতীর্ণ করা হয়। تَلَقَّاهُ أَنْتَ এর অর্থ তুমি কুরআন তাদের নিকট হতে গ্রহণ কর। যেমন বলা হয়েছে- فَتَلَقَّى آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ আদম (আঃ) তাঁর রবেব নিকট থেকে কয়েকটি বাক্য গ্রহণ করলেন। ৭৪৮৫. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ যখন কোন বান্দাকে ভালবাসেন, তখন তিনি জিবরীলকে ডেকে বলেন, আল্লাহ্ অমুক বান্দাকে ভালবাসেন, তাই তুমিও তাকে ভালবাস। কাজেই জিবরীল (আঃ) তাকে ভালবাসেন। অতঃপর জিবরীল (আঃ) আসমানে এ ঘোষণা করে দেন যে, আল্লাহ্ অমুক বান্দাকে ভালবাসেন, তোমরাও তাকে ভালবাস। তখন তাকে আসমানবাসীরা ভালবাসে এবং পৃথিবীবাসীদের মধ্যেও তাকে গ্রহণীয় করা হয়। [৩২০৯] (আধুনিক প্রকাশনী- ৬৯৬৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7485</td></tr><tr><td>Arabic No</td><td>7485</td></tr><tr><td>Reference</td><td>Book 97 Hadith 111</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If Allah loves a person, He calls Gabriel, saying, 'Allah loves so and so, O Gabriel love him' So Gabriel would love him and then would make an announcement in the Heavens: 'Allah has loved so and-so therefore you should love him also.' So all the dwellers of the Heavens would love him, and then he is granted the pleasure of the people on the earth." (See Hadith No. 66, Vol. 8)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If Allah loves a person, He calls Gabriel, saying, 'Allah loves so and so, O Gabriel love him' So Gabriel would love him and then would make an announcement in the Heavens: 'Allah has loved so and-so therefore you should love him also.' So all the dwellers of the Heavens would love him, and then he is granted the pleasure of the people on the earth." (See Hadith No. 66, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7485</td></tr><tr><td>Arabic No</td><td>7485</td></tr><tr><td>Reference</td><td>Book 97 Hadith 111</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq] telah menceritakan kepada kami [Abdushshamad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உயர்வும் வளமும் மிக்க அல்லாஹ் ஓர் அடியாரை நேசிக்கும்போது (வானவர்) ஜிப்ரீல் (அலை) அவர்களை அழைத்து, “அல்லாஹ் இன்னாரை நேசிக்கிறான். நீங்களும் அவரை நேசியுங்கள்” என்று கூறுவான். அவ்வாறே ஜிப்ரீல் (அலை) அவர்கள் அவரை நேசிப்பார். பிறகு ஜிப்ரீல் (அலை) அவர்கள் வானத்தில், “அல்லாஹ் இன்னாரை நேசிக்கிறான். ஆகவே, நீங்களும் அவரை நேசியுங்கள்” என்று குரல் கொடுப்பார்கள். அவ்வாறே விண்ணகத்தாரும் அவரை நேசிப்பார்கள். மண்ணகத்தாரிடையேயும் அவருக்கு அங்கீகாரம் வழங்கப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.128 அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உயர்வும் வளமும் மிக்க அல்லாஹ் ஓர் அடியாரை நேசிக்கும்போது (வானவர்) ஜிப்ரீல் (அலை) அவர்களை அழைத்து, “அல்லாஹ் இன்னாரை நேசிக்கிறான். நீங்களும் அவரை நேசியுங்கள்” என்று கூறுவான். அவ்வாறே ஜிப்ரீல் (அலை) அவர்கள் அவரை நேசிப்பார். பிறகு ஜிப்ரீல் (அலை) அவர்கள் வானத்தில், “அல்லாஹ் இன்னாரை நேசிக்கிறான். ஆகவே, நீங்களும் அவரை நேசியுங்கள்” என்று குரல் கொடுப்பார்கள். அவ்வாறே விண்ணகத்தாரும் அவரை நேசிப்பார்கள். மண்ணகத்தாரிடையேயும் அவருக்கு அங்கீகாரம் வழங்கப்படும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.128 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7485</td></tr><tr><td>Arabic No</td><td>7485</td></tr><tr><td>Reference</td><td>Book 97 Hadith 111</td></tr></tbody></table></div>
 

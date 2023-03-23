@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১২। আয়িশা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ আমাদের কারো একটির অধিক কাপড় ছিল না। তিনি হায়েয অবস্থায়ও এই কাপড়খানিই ব্যবহার করতেন, তাতে রক্ত লাগলে থুথু দিয়ে ভিজিয়ে নখ দ্বারা খুঁটিয়ে নিতেন। (আ.প্র. ৩০১, ই.ফা. ৩০৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। আয়িশা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ আমাদের কারো একটির অধিক কাপড় ছিল না। তিনি হায়েয অবস্থায়ও এই কাপড়খানিই ব্যবহার করতেন, তাতে রক্ত লাগলে থুথু দিয়ে ভিজিয়ে নখ দ্বারা খুঁটিয়ে নিতেন। (আ.প্র. ৩০১, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>312</td></tr><tr><td>Arabic No</td><td>312</td></tr><tr><td>Reference</td><td>Book 6 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: எங்களில் சிலருக்கு ஒரேயோர் ஆடை மட்டுமே இருக்கும். அதில்தான் அவருக்கு மாதவிடாய் ஏற்படும். இரத்தம் ஏதேனும் அந்த ஆடையில் பட்டு(க் காய்ந்து)விட்டால், தமது உமிழ் நீரைத் தொட்டு அந்த இடத்தில் வைத்துத் தமது நகத்தால் சுரண்டிவிடுவார். அத்தியாயம் : 6
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: எங்களில் சிலருக்கு ஒரேயோர் ஆடை மட்டுமே இருக்கும். அதில்தான் அவருக்கு மாதவிடாய் ஏற்படும். இரத்தம் ஏதேனும் அந்த ஆடையில் பட்டு(க் காய்ந்து)விட்டால், தமது உமிழ் நீரைத் தொட்டு அந்த இடத்தில் வைத்துத் தமது நகத்தால் சுரண்டிவிடுவார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>312</td></tr><tr><td>Arabic No</td><td>312</td></tr><tr><td>Reference</td><td>Book 6 Hadith 17</td></tr></tbody></table></div>
 

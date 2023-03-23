@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আল ‘আলা (রহঃ) .... ইমাম যুহরী (রহঃ) হতে বর্ণিত। তিনি বলেন, উসমান (রাঃ) যখন তায়েফবাসীদের নিকট হতে মালসম্পদ গ্রহণ করেন এবং সেখানে অবস্থানের ইচ্ছা করেন, তখন তিনি চার রাক‘আত নামায আদায় করেন। রাবী যুহরী বলেন, পরবর্তীকালে লোকেরা এটাকে দলীল হিসাবে গ্রহণ করেন।
+। আয-যুহরী (রহ.) সূত্রে বর্ণিত। তিনি বলেন, ‘উসমান (রাযি.) যখন তাদের এলাকায় কিছু সম্পদ পেলেন তখন তিনি সেখানে কিছুদিন অবস্থানের ইচ্ছা করলেন। সেজন্যই তিনি সালাত চার রাক‘আত আদায় করেন। অতঃপর (উমাইয়্যাহ) শাসকগণও সেখানে অনুরূপ করেছেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1963</td></tr><tr><td>Arabic No</td><td>1963</td></tr><tr><td>Reference</td><td>Book 11 Hadith 243</td></tr></tbody></table></div>
 

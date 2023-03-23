@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, প্রথমে যে যুদ্ধে আমি অংশ নিয়েছিলাম সেটা খন্দকের যুদ্ধ ছিল। (আধুনিক প্রকাশনীঃ ৩৮০১, ইসলামিক ফাউন্ডেশনঃ ৩৮০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, প্রথমে যে যুদ্ধে আমি অংশ নিয়েছিলাম সেটা খন্দকের যুদ্ধ ছিল। (আধুনিক প্রকাশনীঃ ৩৮০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4107</td></tr><tr><td>Arabic No</td><td>4107</td></tr><tr><td>Reference</td><td>Book 64 Hadith 151</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Umar:The first day (i.e. Ghazwa) I participated in, was the day of
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நான் (போரில்) கலந்துகொண்ட முதல்நாள் அகழ்ப் போர் தினமாகும்.180 அத்தியாயம் : 64
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நான் (போரில்) கலந்துகொண்ட முதல்நாள் அகழ்ப் போர் தினமாகும்.180 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4107</td></tr><tr><td>Arabic No</td><td>4107</td></tr><tr><td>Reference</td><td>Book 64 Hadith 151</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেন, প্রত্যেক নবপ্রসূত বাচ্চার জন্মের সময় শায়ত্বন অবশ্যই তাকে স্পর্শ করে। ফলে শয়তানের স্পর্শমাত্র সে চীৎকার করে উঠে। কিন্তু মারইয়াম (আঃ) ও তাঁর পুত্র ঈসা (আঃ)-কে পারেনি। তারপর আবূ হুরাইরাহ (রাঃ) বলতেন, যদি তোমরা (এটা জানতে) ইচ্ছা কর তাহলে পড়ঃ وَإِنِّيْ أُعِيْذُهَا بِكَ وَذُرِّيَّتَهَا مِنْ الشَّيْطَانِ الرَّجِيْمِ। [৩২৮৬] (আধুনিক প্রকাশনীঃ ৪১৮৮, ইসলামিক ফাউন্ডেশনঃ ৪১৮৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেন, প্রত্যেক নবপ্রসূত বাচ্চার জন্মের সময় শায়ত্বন অবশ্যই তাকে স্পর্শ করে। ফলে শয়তানের স্পর্শমাত্র সে চীৎকার করে উঠে। কিন্তু মারইয়াম (আঃ) ও তাঁর পুত্র ঈসা (আঃ)-কে পারেনি। তারপর আবূ হুরাইরাহ (রাঃ) বলতেন, যদি তোমরা (এটা জানতে) ইচ্ছা কর তাহলে পড়ঃ وَإِنِّيْ أُعِيْذُهَا بِكَ وَذُرِّيَّتَهَا مِنْ الشَّيْطَانِ الرَّجِيْمِ। [৩২৮৬] (আধুনিক প্রকাশনীঃ ৪১৮৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4548</td></tr><tr><td>Arabic No</td><td>4548</td></tr><tr><td>Reference</td><td>Book 65 Hadith 71</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Sa'id bin Al-Musaiyab:Abu Huraira said, "The Prophet (ﷺ) said, 'No child is born but that, Satan touches it when it is born whereupon it starts crying loudly because of being touched by Satan, except Mary and her son." Abu Huraira then said, "Recite, if you wish: "And I seek Refuge with You (Allah) for her and her offspring from Satan, the outcast." (3.36)
+Narrated Sa'id bin Al-Musaiyab:Abu Huraira said, "The Prophet (ﷺ) said, 'No child is born but that, Satan touches it when it is born whereupon it starts crying loudly because of being touched by Satan, except Mary and her son." Abu Huraira then said, "Recite, if you wish: "And I seek Refuge with You (Allah) for her and her offspring from Satan, the outcast
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4548</td></tr><tr><td>Arabic No</td><td>4548</td></tr><tr><td>Reference</td><td>Book 65 Hadith 71</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Sa'id bin Al-Musaiyab:Abu Huraira said, "The Prophet (ﷺ) said, 'No ch
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Abdullah bin Muhammad] Telah menceritakan kepada kami [Abdurrazaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah bayi yang dilahirkan kecuali setan akan menyentuhnya ketika ia lahir, sehingga mereka menangis keras karena sentuhan setan tersebut, kecuali Maryam dan putranya." Lalu Abu Hurairah berkata; "Jika kalian mau bacalah; "dan aku mohon perlindungan untuknya serta anak-anak keturunannya kepada (pemeliharaan) Engkau daripada syaitan yang terkutuk." (Ali Imran: 36)
+Telah menceritakan kepadaku [Abdullah bin Muhammad] Telah menceritakan kepada kami [Abdurrazaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah bayi yang dilahirkan kecuali setan akan menyentuhnya ketika ia lahir, sehingga mereka menangis keras karena sentuhan setan tersebut, kecuali Maryam dan putranya." Lalu Abu Hurairah berkata; "Jika kalian mau bacalah; "dan aku mohon perlindungan untuknya serta anak-anak keturunannya kepada (pemeliharaan) Engkau daripada syaitan yang terkutuk." (Ali Imran:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4548</td></tr><tr><td>Arabic No</td><td>4548</td></tr><tr><td>Reference</td><td>Book 65 Hadith 71</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Abdullah bin Muhammad] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்கள் கூறியதாவது: “(புதிதாகப்) பிறக்கும் குழந்தை எதுவாயினும் அது பிறக்கும்போதே ஷைத்தான் அதைத் தீண்டுகிறான். ஷைத்தான் தீண்டுவதால் அக்குழந்தை உடனே கூக்குரலெழுப்பும். (ஆனால்,) மர்யமையும் அவருடைய புதல்வரையும் தவிர!” என்று நபி (ஸல்) அவர்கள் கூறியதாக அபூஹுரைரா (ரலி) அவர்கள் சொன்னார்கள். பிறகு அபூஹுரைரா (ரலி) அவர்கள், “நீங்கள் விரும்பினால், “இந்தக் குழந்தையையும் இதன் வழித்தோன்றல்களையும் சபிக்கப்பட்ட ஷைத்தானிட மிருந்து காக்குமாறு உன்னிடம் நான் வேண்டுகிறேன் (என இம்ரானின் துணைவியார் இறைவனை வேண்டினார்)” எனும் (3:36ஆவது) இறைவசனத்தை ஓதிக்கொள்ளுங்கள்” என்று கூறினார்கள்.7 அத்தியாயம் : 65
+சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்கள் கூறியதாவது: “(புதிதாகப்) பிறக்கும் குழந்தை எதுவாயினும் அது பிறக்கும்போதே ஷைத்தான் அதைத் தீண்டுகிறான். ஷைத்தான் தீண்டுவதால் அக்குழந்தை உடனே கூக்குரலெழுப்பும். (ஆனால்,) மர்யமையும் அவருடைய புதல்வரையும் தவிர!” என்று நபி (ஸல்) அவர்கள் கூறியதாக அபூஹுரைரா (ரலி) அவர்கள் சொன்னார்கள். பிறகு அபூஹுரைரா (ரலி) அவர்கள், “நீங்கள் விரும்பினால், “இந்தக் குழந்தையையும் இதன் வழித்தோன்றல்களையும் சபிக்கப்பட்ட ஷைத்தானிட மிருந்து காக்குமாறு உன்னிடம் நான் வேண்டுகிறேன் (என இம்ரானின் துணைவியார் இறைவனை வேண்டினார்)” எனும் (3:36ஆவது) இறைவசனத்தை ஓதிக்கொள்ளுங்கள்” என்று கூறினார்கள்.7 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4548</td></tr><tr><td>Arabic No</td><td>4548</td></tr><tr><td>Reference</td><td>Book 65 Hadith 71</td></tr></tbody></table></div>
 

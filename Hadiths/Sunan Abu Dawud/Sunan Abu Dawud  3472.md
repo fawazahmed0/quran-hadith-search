@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ (রহঃ) ...... ইয়াহইয়া ইবন সাঈদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যদি তিন ভাগের চাইতে কম মালের উপর দৈব-দুর্বিপাক আসে, তবে একে বিপদ হিসাবে গণ্য করা যাবে না। ইয়াহইয়া বলেনঃ এটাই মুসলিমদের নিয়ম।
+। ইয়াহইয়া ইবনু সাঈদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, মূলধনের এক-তৃতীয়াংশের কম বিনষ্ট হলে তা প্রাকৃতিক দুর্যোগ গণ্য নয়। ইয়াহইয়া (রহঃ) বলেন, এটাই মুসলিমদের প্রচলিত নিয়ম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3472</td></tr><tr><td>Arabic No</td><td>3472</td></tr><tr><td>Reference</td><td>Book 24 Hadith 57</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنْزَلْنَا عَلَيْكَ الْكِتَابَ يُتْلٰى عَلَيْهِمْ). ‘‘তাদের জন্য কি যথেষ্ট নয় যে, আমি আপনার নিকট কিতাব অবতীর্ণ করেছি, যা তাদের নিকট পাঠ করা হয়।’’ (সূরাহ ‘আনকাবূত ২৯/৫১) ৫০২৩. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ তা‘আলা কোন বিষয়ের প্রতি ঐরূপ কান লাগিয়ে শুনেন না যেরূপ তিনি নবীর সুমধুর তিলাওয়াত শুনেন। রাবী বলেন, এর অর্থ সুস্পষ্ট করে আওয়াজের সঙ্গে কুরআন পাঠ করা। [৫০২৩, ৫০২৪, ৭৪৮২, ৭৫৪৪; মুসলিম ৬/৩৪, হাঃ ৭৯২, আহমাদ ৭৬৭৪] (আধুনিক প্রকাশনীঃ ৪৬৪৯, ইসলামিক ফাউন্ডেশনঃ ৪৬৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنْزَلْنَا عَلَيْكَ الْكِتَابَ يُتْلٰى عَلَيْهِمْ). ‘‘তাদের জন্য কি যথেষ্ট নয় যে, আমি আপনার নিকট কিতাব অবতীর্ণ করেছি, যা তাদের নিকট পাঠ করা হয়।’’ (সূরাহ ‘আনকাবূত ২৯/৫১) ৫০২৩. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ তা‘আলা কোন বিষয়ের প্রতি ঐরূপ কান লাগিয়ে শুনেন না যেরূপ তিনি নবীর সুমধুর তিলাওয়াত শুনেন। রাবী বলেন, এর অর্থ সুস্পষ্ট করে আওয়াজের সঙ্গে কুরআন পাঠ করা। [৫০২৩, ৫০২৪, ৭৪৮২, ৭৫৪৪; মুসলিম ৬/৩৪, হাঃ ৭৯২, আহমাদ ৭৬৭৪] (আধুনিক প্রকাশনীঃ ৪৬৪৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5023</td></tr><tr><td>Arabic No</td><td>5023</td></tr><tr><td>Reference</td><td>Book 66 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] ia berkata, Telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ், தன் தூதர் (முழு ஈடுபாட்டுடன்) இனிய குரலில் குர்ஆனை ஓதும்போது அதைச் செவி கொடுத்துக் கேட்டதைப் போன்று வெறெதையும் அவன் செவி கொடுத்துக் கேட்டதில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். (இதன் அறிவிப்பாளர்களில் ஒருவரான) அபூசலமா (ரஹ்) அவர்களுடைய தோழர் ஒருவர் (அப்துல் ஹமீத் பின் அப்திர் ரஹ்மான்) கூறுகிறார்: குரலெடுத்து (இனிமையாக) குர்ஆனை ஓதுவதே இங்கு நோக்கமாகும். அத்தியாயம் : 66
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ், தன் தூதர் (முழு ஈடுபாட்டுடன்) இனிய குரலில் குர்ஆனை ஓதும்போது அதைச் செவி கொடுத்துக் கேட்டதைப் போன்று வெறெதையும் அவன் செவி கொடுத்துக் கேட்டதில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். (இதன் அறிவிப்பாளர்களில் ஒருவரான) அபூசலமா (ரஹ்) அவர்களுடைய தோழர் ஒருவர் (அப்துல் ஹமீத் பின் அப்திர் ரஹ்மான்) கூறுகிறார்: குரலெடுத்து (இனிமையாக) குர்ஆனை ஓதுவதே இங்கு நோக்கமாகும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5023</td></tr><tr><td>Arabic No</td><td>5023</td></tr><tr><td>Reference</td><td>Book 66 Hadith 45</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] ia berkata, Telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: "Allah Teala Nebi'in Kur'an'ı yüksek sesle güzel okuması konusunda izin verdiği gibi başka hiçbir konuda böyle teğanni ile okumaya müsaade etmemiştir." [İbn Şihab dediki: Ravi Ebu Seleme'nin] bir arkadaşı, Kur'an'ı güzel okumaktan maksadın, onu yüksek sesle okumak olduğunu söylemiştir. Tekrar: 5024, 7482, 7544
+Ebu Hureyre Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: "Allah Teala Nebi'in Kur'an'ı yüksek sesle güzel okuması konusunda izin verdiği gibi başka hiçbir konuda böyle teğanni ile okumaya müsaade etmemiştir." [İbn Şihab dediki: Ravi Ebu Seleme'nin] bir arkadaşı, Kur'an'ı güzel okumaktan maksadın, onu yüksek sesle okumak olduğunu söylemiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5023</td></tr><tr><td>Arabic No</td><td>5023</td></tr><tr><td>Reference</td><td>Book 66 Hadith 45</td></tr></tbody></table></div>
 

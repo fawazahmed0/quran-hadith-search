@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, তিনি তালবীনা খেতে আদেশ দিতেন এবং বলতেনঃ এটি হল অপছন্দনীয়, তবে উপকারী। [৫৪১৭] (আধুনিক প্রকাশনী- ৫২৭৯, ইসলামিক ফাউন্ডেশন- ৫১৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, তিনি তালবীনা খেতে আদেশ দিতেন এবং বলতেনঃ এটি হল অপছন্দনীয়, তবে উপকারী। [৫৪১৭] (আধুনিক প্রকাশনী- ৫২৭৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5690</td></tr><tr><td>Arabic No</td><td>5690</td></tr><tr><td>Reference</td><td>Book 76 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Farwah bin Abu Al Maghra'] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா (ரஹ்) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்கள், தல்பீனா (பால் பாயசம்) தயாரிக்கும்படி பணிப்பார்கள். மேலும், ‘‘அது (நோயாளிக்கு) வெறுப் பூட்டக்கூடியது; (ஆனால் அவருக்குப்) பயனளிக்கக்கூடியது” என்று சொல்வார் கள். அத்தியாயம் : 76
+உர்வா (ரஹ்) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்கள், தல்பீனா (பால் பாயசம்) தயாரிக்கும்படி பணிப்பார்கள். மேலும், ‘‘அது (நோயாளிக்கு) வெறுப் பூட்டக்கூடியது; (ஆனால் அவருக்குப்) பயனளிக்கக்கூடியது” என்று சொல்வார் கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5690</td></tr><tr><td>Arabic No</td><td>5690</td></tr><tr><td>Reference</td><td>Book 76 Hadith 13</td></tr></tbody></table></div>
 

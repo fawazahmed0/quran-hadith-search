@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বারের জমি ইয়াহূদীদেরকে এ শর্তে বর্গা দিয়েছিলেন যে, তারা তাতে পরিশ্রম করে কৃষি কাজ করবে এবং উৎপাদিত ফসলের অর্ধেক তারা পাবে। (২২৮৫) (আধুনিক প্রকাশনীঃ ২১৬৩, ইসলামিক ফাউন্ডেশনঃ ২১৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বারের জমি ইয়াহূদীদেরকে এ শর্তে বর্গা দিয়েছিলেন যে, তারা তাতে পরিশ্রম করে কৃষি কাজ করবে এবং উৎপাদিত ফসলের অর্ধেক তারা পাবে। (২২৮৫) (আধুনিক প্রকাশনীঃ ২১৬৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2331</td></tr><tr><td>Arabic No</td><td>2331</td></tr><tr><td>Reference</td><td>Book 41 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், கைபர் பகுதியில் உள்ள நிலங்களை யூதர்களுக்கு, ‘அவர்கள் அவற்றில் உழைத்து விவசாயம் செய்து கொள்ளலாம். அதிலிருந்து கிடைக்கும் விளைச்சலில் பாதி அவர்களுக்குரியது (மீதிப் பாதியை மதீனாவின் இஸ்லாமிய அரசுக்குக் கொடுத்துவிட வேண்டும்)› என்னும் நிபந்தனையின் பேரில் கொடுத்தார்கள். அத்தியாயம் : 41
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், கைபர் பகுதியில் உள்ள நிலங்களை யூதர்களுக்கு, ‘அவர்கள் அவற்றில் உழைத்து விவசாயம் செய்து கொள்ளலாம். அதிலிருந்து கிடைக்கும் விளைச்சலில் பாதி அவர்களுக்குரியது (மீதிப் பாதியை மதீனாவின் இஸ்லாமிய அரசுக்குக் கொடுத்துவிட வேண்டும்)› என்னும் நிபந்தனையின் பேரில் கொடுத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2331</td></tr><tr><td>Arabic No</td><td>2331</td></tr><tr><td>Reference</td><td>Book 41 Hadith 12</td></tr></tbody></table></div>
 

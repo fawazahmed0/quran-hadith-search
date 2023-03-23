@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম (রহঃ) ...... মুহাম্মাদ ইবন ইবরাহীম (রহঃ) হতে বর্ণিত। তিনি বলেন, "আহজার আয-যায়েত" নামক স্থানে ইস্তিস্কার নামায আদায় কালে নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে উপরের দিকে দুই হাত তুলে দু'আ করতে যারা দেখেছেন, তাঁরা আমাকে এই হাদিস অবহিত করেছেন।
+। মুহাম্মাদ ইবনু ইবরাহীম (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, এ হাদীস আমাকে এমন এক ব্যক্তি অবহিত করেছেন, যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ‘আহজারুয্ যায়িত’ নামক স্থানের সন্নিকটে দু’ হাত প্রশস্ত করে দু‘আ করতে দেখেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1172</td></tr><tr><td>Arabic No</td><td>1172</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬০৭। আবদুল্লাহ ইবনু বুসর (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কিয়ামতের দিন আমার উম্মাতের মুখ-মন্ডল সিজদার কল্যাণে আলোক উদ্ভাসিত হবে এবং ওযুর কল্যাণে হাত-মুখ চমকপ্রদ (আলোকিত) হবে। -সহীহ। আস-সহীহাহ– (২৮৩৬)। আবু ঈসা বলেনঃ এ হাদীসটি উপরোক্ত সূত্রে হাসান, সহীহ্ গারীব।
+। আবদুল্লাহ ইবনু বুসর (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কিয়ামতের দিন আমার উম্মাতের মুখ-মন্ডল সিজদার কল্যাণে আলোক উদ্ভাসিত হবে এবং ওযুর কল্যাণে হাত-মুখ চমকপ্রদ (আলোকিত) হবে। -সহীহ। আস-সহীহাহ– (২৮৩৬)। আবু ঈসা বলেনঃ এ হাদীসটি উপরোক্ত সূত্রে হাসান, সহীহ্ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 6 Hadith 64</td></tr></tbody></table></div>
 

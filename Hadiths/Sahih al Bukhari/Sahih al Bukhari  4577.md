@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এবং আবূ বাকর (রাঃ) বানী সালামাহ গোত্রে পদব্রজে আমার রোগের ব্যাপারে খোঁজ নিতে গিয়েছিলেন। অতঃপর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাকে জ্ঞানশূন্য অবস্থায় দেখতে পেলেন। কাজেই তিনি পানি আনালেন এবং ‘উযূ করে সেই পানি আমার উপর ছিটিয়ে দিলেন। তখন আমি জ্ঞান ফিরে পেলাম। তখন আমি বললাম, হে আল্লাহর রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম! আমার সম্পদের ব্যাপারে কী ব্যবস্থা গ্রহণ করতে আপনি আমাকে আদেশ করছেন? তখন এ আয়াত অবতীর্ণ হলঃ يُوْصِيْكُمْ اللهُ فِيْ أَوْلَادِكُمْ। [১৯৪] (আধুনিক প্রকাশনীঃ ৪২১৬, ইসলামিক ফাউন্ডেশনঃ ৪২১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এবং আবূ বাকর (রাঃ) বানী সালামাহ গোত্রে পদব্রজে আমার রোগের ব্যাপারে খোঁজ নিতে গিয়েছিলেন। অতঃপর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাকে জ্ঞানশূন্য অবস্থায় দেখতে পেলেন। কাজেই তিনি পানি আনালেন এবং ‘উযূ করে সেই পানি আমার উপর ছিটিয়ে দিলেন। তখন আমি জ্ঞান ফিরে পেলাম। তখন আমি বললাম, হে আল্লাহর রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম! আমার সম্পদের ব্যাপারে কী ব্যবস্থা গ্রহণ করতে আপনি আমাকে আদেশ করছেন? তখন এ আয়াত অবতীর্ণ হলঃ يُوْصِيْكُمْ اللهُ فِيْ أَوْلَادِكُمْ। [১৯৪] (আধুনিক প্রকাশনীঃ ৪২১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4577</td></tr><tr><td>Arabic No</td><td>4577</td></tr><tr><td>Reference</td><td>Book 65 Hadith 99</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jabir:The Prophet (ﷺ) and Abu Bakr came on foot to pay me a visit (during my illness) at Banu Salama's (dwellings). The Prophet (ﷺ) found me unconscious, so he asked for water and performed the ablution from it and sprinkled some water over it. I came to my senses and said, "O Allah's Messenger (ﷺ)! What do you order me to do as regards my wealth?" So there was revealed:-- "Allah commands you as regards your children's (inheritance):" (4.11)
+Narrated Jabir:The Prophet (ﷺ) and Abu Bakr came on foot to pay me a visit (during my illness) at Banu Salama's (dwellings). The Prophet (ﷺ) found me unconscious, so he asked for water and performed the ablution from it and sprinkled some water over it. I came to my senses and said, "O Allah's Messenger (ﷺ)! What do you order me to do as regards my wealth?" So there was revealed:-- "Allah commands you as regards your children's (inheritance):
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4577</td></tr><tr><td>Arabic No</td><td>4577</td></tr><tr><td>Reference</td><td>Book 65 Hadith 99</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Jabir:The Prophet (ﷺ) and Abu Bakr came on foot to pay me a visit (du
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibrahim bin Musa] Telah menceritakan kepada kami [Hisyam] bahwa [Ibnu Juraij] Telah mengabarkan kepada mereka berkata; Telah mengabarkan kepadaku [Ibnu Al Munkadir] dari [Jabir radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersama Abu Bakr menjengukku dengan berjalan kaki ketika aku sakit di bani Salamah. Beliau mendapatkanku dalam keadaan pingsan. Lalu beliau meminta air kemudian beliau berwudlu dengan air itu setelah itu beliau memercikiku hingga aku pun sadar kembali. Lalu aku bertanya; Ya Rasulullah, apa yang engkau perintahkan kepadaku mengenai hartaku? maka turulah ayat: Allah mewasiatkan kalian mengenai anak-anak kalian. (An Nisa: 11)
+Telah menceritakan kepada kami [Ibrahim bin Musa] Telah menceritakan kepada kami [Hisyam] bahwa [Ibnu Juraij] Telah mengabarkan kepada mereka berkata; Telah mengabarkan kepadaku [Ibnu Al Munkadir] dari [Jabir radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersama Abu Bakr menjengukku dengan berjalan kaki ketika aku sakit di bani Salamah. Beliau mendapatkanku dalam keadaan pingsan. Lalu beliau meminta air kemudian beliau berwudlu dengan air itu setelah itu beliau memercikiku hingga aku pun sadar kembali. Lalu aku bertanya; Ya Rasulullah, apa yang engkau perintahkan kepadaku mengenai hartaku? maka turulah ayat: Allah mewasiatkan kalian mengenai anak-anak kalian. (An Nisa:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4577</td></tr><tr><td>Arabic No</td><td>4577</td></tr><tr><td>Reference</td><td>Book 65 Hadith 99</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: நபி (ஸல்) அவர்களும் அபூபக்ர் (ரலி) அவர்களும் (என்) பனூ சலிமா குலத்தாரிடையே நான் (நோயுற்றுத் தங்கி) இருந்தபோது நடந்தே வந்து என்னை நலம் விசாரித்தார்கள். நபி (ஸல்) அவர்கள், நான் (நோயின் கடுமையால்) சுயநினைவு இழந்தவனாக இருந்த நிலையில் என்னைக் கண்டார்கள். ஆகவே, சிறிது தண்ணீரைக் கொண்டு வரச்சொல்லி அதிலிருந்து அங்கத் தூய்மை செய்து என்மீது தெளித்தார்கள். நான் மூர்ச்சை தெளிந்து, “அல்லாஹ்வின் தூதரே! நான் என் செல்வத்தை என்ன செய்ய வேண்டுமென்று எனக்குக் கட்டளையிடுகிறீர்கள்!” என்று கேட்டேன். அப்போதுதான், “அல்லாஹ் உங்கள் பிள்ளைகளின் (பாகப்பிரிவினை) விஷயத்தில் உங்களுக்கு (இவ்வாறு) கட்டளையிடுகின்றான்” என்று தொடங்கும் (4:11ஆவது) வசனம் அருளப்பெற்றது.7 அத்தியாயம் : 65
+ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: நபி (ஸல்) அவர்களும் அபூபக்ர் (ரலி) அவர்களும் (என்) பனூ சலிமா குலத்தாரிடையே நான் (நோயுற்றுத் தங்கி) இருந்தபோது நடந்தே வந்து என்னை நலம் விசாரித்தார்கள். நபி (ஸல்) அவர்கள், நான் (நோயின் கடுமையால்) சுயநினைவு இழந்தவனாக இருந்த நிலையில் என்னைக் கண்டார்கள். ஆகவே, சிறிது தண்ணீரைக் கொண்டு வரச்சொல்லி அதிலிருந்து அங்கத் தூய்மை செய்து என்மீது தெளித்தார்கள். நான் மூர்ச்சை தெளிந்து, “அல்லாஹ்வின் தூதரே! நான் என் செல்வத்தை என்ன செய்ய வேண்டுமென்று எனக்குக் கட்டளையிடுகிறீர்கள்!” என்று கேட்டேன். அப்போதுதான், “அல்லாஹ் உங்கள் பிள்ளைகளின் (பாகப்பிரிவினை) விஷயத்தில் உங்களுக்கு (இவ்வாறு) கட்டளையிடுகின்றான்” என்று தொடங்கும் (4:11ஆவது) வசனம் அருளப்பெற்றது.7 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4577</td></tr><tr><td>Arabic No</td><td>4577</td></tr><tr><td>Reference</td><td>Book 65 Hadith 99</td></tr></tbody></table></div>
 

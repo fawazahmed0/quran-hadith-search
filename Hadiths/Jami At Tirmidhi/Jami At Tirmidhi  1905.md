@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৯০৫। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিন প্রকারের দুআ অবশ্যই মঞ্জুর করা হয়, তাতে কোনরকম সন্দেহ নেই। নির্যাতিত ব্যক্তির দুআ, মুসাফিরের দু'আ এবং সন্তানের প্রতি বাবার বদ-দুআ। হাসান, ইবনু মা-জাহ (৩৮৬২)। আবূ ঈসা বলেন, এই হাদীসটি ইয়াহইয়া ইবনু আবী কাসীরের সূত্রে হাজ্জাজ আস-সাওয়াফ হিশামের রিওয়ায়াতের মতোই বর্ণনা করেছেন। আবূ হুরাইরা (রাঃ) হতে যে আবূ জাফার হাদীসটি বর্ণনা করেন তিনি হলেন আবূ জাফার আল-মুআযযিন। তার নাম সম্পর্কে আমরা অজ্ঞ। ইয়াহইয়া ইবনু আবী কাসীরও তার সূত্রে একাধিক হাদীস বর্ণনা করেছেন।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিন প্রকারের দুআ অবশ্যই মঞ্জুর করা হয়, তাতে কোনরকম সন্দেহ নেই। নির্যাতিত ব্যক্তির দুআ, মুসাফিরের দু'আ এবং সন্তানের প্রতি বাবার বদ-দুআ। হাসান, ইবনু মা-জাহ (৩৮৬২)। আবূ ঈসা বলেন, এই হাদীসটি ইয়াহইয়া ইবনু আবী কাসীরের সূত্রে হাজ্জাজ আস-সাওয়াফ হিশামের রিওয়ায়াতের মতোই বর্ণনা করেছেন। আবূ হুরাইরা (রাঃ) হতে যে আবূ জাফার হাদীসটি বর্ণনা করেন তিনি হলেন আবূ জাফার আল-মুআযযিন। তার নাম সম্পর্কে আমরা অজ্ঞ। ইয়াহইয়া ইবনু আবী কাসীরও তার সূত্রে একাধিক হাদীস বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1905</td></tr><tr><td>Arabic No</td><td>1905</td></tr><tr><td>Reference</td><td>Book 27 Hadith 11</td></tr></tbody></table></div>
 
@@ -60,6 +60,6 @@ Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasulullah (Sallal
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-۲- اس سند سے نبی اکرم صلی اللہ علیہ وسلم سے اسی جیسی حدیث مروی ہے، لیکن اس میں ابن عمر کے واسطہ کا ذکر نہیں کیا ہے، یہ ابومعاویہ کی حدیث سے زیادہ صحیح ہے۔
+اس سند سے نبی اکرم صلی اللہ علیہ وسلم سے اسی جیسی حدیث مروی ہے، لیکن اس میں ابن عمر کے واسطہ کا ذکر نہیں کیا ہے، یہ ابومعاویہ کی حدیث سے زیادہ صحیح ہے۔
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1905</td></tr><tr><td>Arabic No</td><td>1905</td></tr><tr><td>Reference</td><td>Book 27 Hadith 11</td></tr></tbody></table></div>

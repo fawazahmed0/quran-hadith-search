@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ক্রেতা-বিক্রেতা উভয়ে যতক্ষণ বিচ্ছিন্ন না হবে, ততক্ষণ তাদের মাঝে কোন ক্রয়-বিক্রয় সাব্যস্ত হবে না। অবশ্য ইখতিয়ারের শর্তে ক্রয়-বিক্রয় হলে তা সাব্যস্ত হবে। (২১০৭) (আধুনিক প্রকাশনীঃ ১৯৬৮ , ইসলামিক ফাউন্ডেশনঃ ১৯৮৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ক্রেতা-বিক্রেতা উভয়ে যতক্ষণ বিচ্ছিন্ন না হবে, ততক্ষণ তাদের মাঝে কোন ক্রয়-বিক্রয় সাব্যস্ত হবে না। অবশ্য ইখতিয়ারের শর্তে ক্রয়-বিক্রয় হলে তা সাব্যস্ত হবে। (২১০৭) (আধুনিক প্রকাশনীঃ ১৯৬৮ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2113</td></tr><tr><td>Arabic No</td><td>2113</td></tr><tr><td>Reference</td><td>Book 34 Hadith 66</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: விற்கக்கூடியவரும் வாங்கக்கூடியவரும் (அந்த இடத்தைவிட்டுப்) பிரியாத வரை அவர்களுக்கிடையே வணிகம் ஏற்படுவதில்லை; (முன்நிபந்தனை) உரிமை வழங்கப்பட்ட வியாபாரமாக இருந்தால் தவிர! இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+நபி (ஸல்) அவர்கள்கூறினார்கள்: விற்கக்கூடியவரும் வாங்கக்கூடியவரும் (அந்த இடத்தைவிட்டுப்) பிரியாத வரை அவர்களுக்கிடையே வணிகம் ஏற்படுவதில்லை; (முன்நிபந்தனை) உரிமை வழங்கப்பட்ட வியாபாரமாக இருந்தால் தவிர! இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2113</td></tr><tr><td>Arabic No</td><td>2113</td></tr><tr><td>Reference</td><td>Book 34 Hadith 66</td></tr></tbody></table></div>
 

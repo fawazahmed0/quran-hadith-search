@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৯৫২, আন্তর্জাতিক নাম্বারঃ ১৯৫৬ ৪৯৫২-(…/...) যুহায়র ইবনু হারব, ইয়াহইয়া ইবনু হাবীব (রহঃ), আবূ কুরায়ব (রহঃ) প্রমুখ সকলেই শুবাহ্ (রহঃ) হতে উল্লেখিত সূত্রে হাদীসটি বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৮৯৯, ইসলামিক সেন্টার ৪৯০২)
+(…/...) যুহায়র ইবনু হারব, ইয়াহইয়া ইবনু হাবীব (রহঃ), আবূ কুরায়ব (রহঃ) প্রমুখ সকলেই শুবাহ্ (রহঃ) হতে উল্লেখিত সূত্রে হাদীসটি বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৮৯৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5058</td></tr><tr><td>Arabic No</td><td>1956.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 87</td></tr></tbody></table></div>
 

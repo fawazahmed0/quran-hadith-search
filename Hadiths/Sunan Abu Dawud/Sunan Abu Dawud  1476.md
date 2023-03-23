@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন ইয়াহিয়া (রহঃ) .... মা'মার (রহঃ) হতে বর্ণিত। তিনি বলেন, ইমাম যুহরী (রহঃ) বলেন, কুরআন যে সাত কিরাআতে অবতীর্ণ হয়েছে, তা কেবলমাত্র আক্ষরিক পার্থক্য, এতে হালাল-হারাম সম্পর্কে কোন বিভেদ নাই।
+। মা‘মার (রহঃ) বলেন, ইমাম যুহরী (রহঃ) বলেছেন, উল্লেখিত বর্ণের পার্থক্য এক একটি বর্ণে সীমিত (অর্থাৎ তা কেবল আক্ষরিক পার্থক্য), এখানে হালাল-হারাম সম্পর্কে কোন বিভেদ নেই।[1] সহীহ মাক্বতূ‘ : মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1476</td></tr><tr><td>Arabic No</td><td>1476</td></tr><tr><td>Reference</td><td>Book 8 Hadith 61</td></tr></tbody></table></div>
 

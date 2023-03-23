@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে বললেনঃ জিবরীল (আ.) তোমাকে সালাম দিয়েছেন। তখন তিনি বললেনঃ ওয়া আলাইহিস্ সালাম ওয়া রহমাতুল্লাহ। [৩২১৭] (আধুনিক প্রকাশনী- ৫৮১১, ইসলামিক ফাউন্ডেশন- ৫৭০৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে বললেনঃ জিবরীল (আ.) তোমাকে সালাম দিয়েছেন। তখন তিনি বললেনঃ ওয়া আলাইহিস্ সালাম ওয়া রহমাতুল্লাহ। [৩২১৭] (আধুনিক প্রকাশনী- ৫৮১১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6253</td></tr><tr><td>Arabic No</td><td>6253</td></tr><tr><td>Reference</td><td>Book 79 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஒருநாள்) என்னிடம், “(இதோ வானவர்) ஜிப்ரீல் உனக்கு சலாம் உரைக்கின்றார்” என்று சொன்னார்கள். நான், “வ அலைஹிஸ் ஸலாம் வ ரஹ்மத்துல்லாஹி” (அவர்மீதும் இறை சாந்தியும் அவனுடைய கருணையும் பொழியட்டும்) என்று (பதில் சலாம்) சொன்னேன்.31 அத்தியாயம் : 79
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஒருநாள்) என்னிடம், “(இதோ வானவர்) ஜிப்ரீல் உனக்கு சலாம் உரைக்கின்றார்” என்று சொன்னார்கள். நான், “வ அலைஹிஸ் ஸலாம் வ ரஹ்மத்துல்லாஹி” (அவர்மீதும் இறை சாந்தியும் அவனுடைய கருணையும் பொழியட்டும்) என்று (பதில் சலாம்) சொன்னேன்.31 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6253</td></tr><tr><td>Arabic No</td><td>6253</td></tr><tr><td>Reference</td><td>Book 79 Hadith 27</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+কুতাইবাহ ইবনু সাঈদ ও উসমান ইবনু আবূ শাইবাহ্ (রহঃ) ..... জাবির (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ এক লোকের খাবার দু'লোকের জন্য যথেষ্ট। দু'লোকের খাদ্য চার লোকের জন্য যথেষ্ট। আর চারজনের খাদ্য আটজনের ক্ষেত্রে যথেষ্ট। (ইসলামিক ফাউন্ডেশন ৫১৯৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5371</td></tr><tr><td>Arabic No</td><td>2059.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 245</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Utsman bin Abu Syaibah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒருவருடைய உணவு இருவருக்குப் போதுமானதாகும். இருவரின் உணவு நால்வருக்குப் போதுமானதாகும். -இதை ஜாபிர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 36
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒருவருடைய உணவு இருவருக்குப் போதுமானதாகும். இருவரின் உணவு நால்வருக்குப் போதுமானதாகும். -இதை ஜாபிர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5371</td></tr><tr><td>Arabic No</td><td>2059.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 245</td></tr></tbody></table></div>
 

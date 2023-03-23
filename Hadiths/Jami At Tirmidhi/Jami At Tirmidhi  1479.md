@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৪৭৯। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক শিকারী দাঁতওয়ালা হিংস্র পশু (খাওয়া) অবৈধ বলে ঘোষণা দিয়েছেন। হাসান সহীহ, ইবনু মা-জাহ (৩২৩৩), মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান বলেছেন। এ হাদীস অনুসারে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের বেশিরভাগ অভিজ্ঞ সাহাবী ও তৎপরবর্তী আলিমগণ আমল করেছেন। এই কথা বলেছেন, (এসব পশুর গোশত হারাম) আব্দুল্লাহ ইবনুল মুবারাক, শাফিঈ, আহমাদ ও ইসহাকও।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক শিকারী দাঁতওয়ালা হিংস্র পশু (খাওয়া) অবৈধ বলে ঘোষণা দিয়েছেন। হাসান সহীহ, ইবনু মা-জাহ (৩২৩৩), মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান বলেছেন। এ হাদীস অনুসারে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের বেশিরভাগ অভিজ্ঞ সাহাবী ও তৎপরবর্তী আলিমগণ আমল করেছেন। এই কথা বলেছেন, (এসব পশুর গোশত হারাম) আব্দুল্লাহ ইবনুল মুবারাক, শাফিঈ, আহমাদ ও ইসহাকও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1479</td></tr><tr><td>Arabic No</td><td>1479</td></tr><tr><td>Reference</td><td>Book 18 Hadith 19</td></tr></tbody></table></div>
 

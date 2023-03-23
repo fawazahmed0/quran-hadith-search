@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইব্‌ন আলী (রহঃ) ..... আরফাজা ইব্‌ন আসআদ (রাঃ) থেকে অন্য বর্ণনায় এরূপ উল্লেখ করা হয়েছে। ইয়াযীদ (রহঃ) বলেনঃ আমি আশহাব (রহঃ)-কে জিজ্ঞাসা করি যে, আবদুর রহমান ইব্‌ন তুরফা (রহঃ)-এর, তার দাদা আরফাজা (রাঃ)-এর সাথে কি দেখা হয়েছিল? তিনি বলেনঃ হ্যাঁ। -হাসান। ৪১৮৬. মুআম্মাল ইব্‌ন হিশাম (রহঃ) ..... আবদুর রহমান ইব্‌ন তুরফা (রহঃ) আরফাজা ইবন আস’আদ (রাঃ) থেকে এরূপ বর্ণনা করেছেন। -হাসান।
+। আব্দুর রাহমান ইবনু তারাফা (রহঃ) আরফাজাহ ইবনু আস‘আদ সূত্রে পূর্বোক্ত হাদীসের সমার্থক হাদীস বর্ণনা করেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>4233</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
 

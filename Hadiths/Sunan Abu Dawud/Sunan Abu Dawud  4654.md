@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্‌ তা'আলা বদর যুদ্ধে অংশ গ্রহণকারী সাহাবীদের এরূপ সুসংবাদ দিয়েছেন যে, তোমরা তোমাদের খুশীমত আমল কর, আমি তোমাদের মাফ করে দিয়েছি।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বর্ণনাকারী মূসার বর্ণনায় রয়েছেঃ ‘‘আশা করা যায়, মহান আল্লাহ’’ এবং বর্ণনাকারী ইবনু সিনান (রহঃ) এর বর্ণনা রয়েছেঃ "আল্লাহ বদরের যুদ্ধে অংশগ্রহণকারীদেরকে অবহিত করে বলেন, তোমরা যা ইচ্ছা আমল করো, অবশ্যই আমি তোমাদেরকে ক্ষমা করে দিয়েছি।"[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4654</td></tr><tr><td>Arabic No</td><td>4654</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
 

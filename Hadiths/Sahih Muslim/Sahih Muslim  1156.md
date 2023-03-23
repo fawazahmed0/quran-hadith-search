@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০৪৩, আন্তর্জাতিক নাম্বারঃ ৫১৮ ১০৪৩-(২৮১/৫১৮) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... জাবির (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে একটি কাপড় পরে সালাত আদায় করতে দেখেছি। তিনি কাপড়টির দু'মাথা পিছন দিক থেকে দু’কাঁধের উপর দিয়ে ঘুরিয়ে এনে বুকের উপর বেঁধেছেন। (ইসলামিক ফাউন্ডেশনঃ ১০৩৭, ইসলামিক সেন্টারঃ ১০৪৭)
+আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... জাবির (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে একটি কাপড় পরে সালাত আদায় করতে দেখেছি। তিনি কাপড়টির দু'মাথা পিছন দিক থেকে দু’কাঁধের উপর দিয়ে ঘুরিয়ে এনে বুকের উপর বেঁধেছেন। (ইসলামিক ফাউন্ডেশনঃ ১০৩৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1156</td></tr><tr><td>Arabic No</td><td>518.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 318</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Jabir reported:I saw the Messenger of Allah (ﷺ) praying in a single garment cr
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரே ஆடையை மாற்றிப் போட்டுக்கொண்டு தொழுததை நான் பார்த்தேன். அத்தியாயம் : 4
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரே ஆடையை மாற்றிப் போட்டுக்கொண்டு தொழுததை நான் பார்த்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1156</td></tr><tr><td>Arabic No</td><td>518.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 318</td></tr></tbody></table></div>
 

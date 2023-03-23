@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২৯২৮। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি যেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সিঁথিতে তিন দিন পরেও সুগন্ধির উজ্জ্বলতা দেখতে পাচ্ছি, অথচ তিনি ছিলেন ইহরাম অবস্থায়।
+। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি যেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সিঁথিতে তিন দিন পরেও সুগন্ধির উজ্জ্বলতা দেখতে পাচ্ছি, অথচ তিনি ছিলেন ইহরাম অবস্থায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2928</td></tr><tr><td>Arabic No</td><td>2928</td></tr><tr><td>Reference</td><td>Book 25 Hadith 47</td></tr></tbody></table></div>
 

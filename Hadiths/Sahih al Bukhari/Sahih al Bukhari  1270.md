@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ্ ইবনু উবাইকে দাফন করার পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার (কবরের) নিকট এলেন এবং তাকে বের করলেন। অতঃপর তার উপর থুথু দিলেন, আর নিজের জামাটি তাকে পরিয়ে দিলেন। [1] (১৩৫০, ৩০০৮, ৫৭৯৫, মুসলিম ৫০/১, হাঃ ৬৭৭৩) (আধুনিক প্রকাশনীঃ ১১৮৮, ইসলামিক ফাউন্ডেশনঃ ১১৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মূতা যুদ্ধের অবস্থা বর্ণনায়) বললেনঃ যায়দ (রাঃ) পতাকা বহন করেছে অতঃপর শহীদ হয়েছে। অতঃপর জা’ফর (রাঃ) (পতাকা) হাতে নিয়েছে, সেও শহীদ হয়। অতঃপর ‘আবদুল্লাহ্ ইবনু রাওয়াহা (রাঃ) (পতাকা) ধারণ করে এবং সেও শহীদ হয়। এ খবর বলছিলেন এবং আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর দু’ চোখ দিয়ে অশ্রু প্রবাহিত হচ্ছিল। অতঃপর খালিদ ইবনু ওয়ালিদ (রাঃ) পরামর্শ ছাড়াই (পতাকা) হাতে তুলে নেন এবং তাঁর দ্বারাই বিজয় লাভ হয়। (২৭৯৮, ৩০৬৩, ৩৬৩০, ৩৭৫৭, ৪২৬২) (আধুনিক প্রকাশনীঃ ১১৬৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1270</td></tr><tr><td>Arabic No</td><td>1270</td></tr><tr><td>Reference</td><td>Book 23 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: (நயவஞ்சகர்களின் தலைவர்) அப்துல்லாஹ் பின் உபையின் சடலம் சவக் குழிக்குள் வைக்கப்பட்டபின் அங்கு வந்த நபி (ஸல்) அவர்கள், அவரது உடலை வெளியிலெடுக்கச் செய்து, அதில் தமது உமிழ்நீரை உமிழ்ந்து, தமது மேலங்கியை அதற்கு அணிவித் தார்கள்.12 அத்தியாயம் : 23
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: (நயவஞ்சகர்களின் தலைவர்) அப்துல்லாஹ் பின் உபையின் சடலம் சவக் குழிக்குள் வைக்கப்பட்டபின் அங்கு வந்த நபி (ஸல்) அவர்கள், அவரது உடலை வெளியிலெடுக்கச் செய்து, அதில் தமது உமிழ்நீரை உமிழ்ந்து, தமது மேலங்கியை அதற்கு அணிவித் தார்கள்.12 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1270</td></tr><tr><td>Arabic No</td><td>1270</td></tr><tr><td>Reference</td><td>Book 23 Hadith 31</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir r.a. şöyle demiştir: Abdullah İbn Ubey defnedildikten sonra Nebi Sallallahu Aleyhi ve Sellem o'nun kabrinin yanına geldi. Onu kabrinden çıkarttı. Mübarek tükürüğünden onun üzerine üfledi, gömleğini ona giydirdi. Tekrar: 1350, 3008, 5795
+Cabir r.a. şöyle demiştir: Abdullah İbn Ubey defnedildikten sonra Nebi Sallallahu Aleyhi ve Sellem o'nun kabrinin yanına geldi. Onu kabrinden çıkarttı. Mübarek tükürüğünden onun üzerine üfledi, gömleğini ona giydirdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1270</td></tr><tr><td>Arabic No</td><td>1270</td></tr><tr><td>Reference</td><td>Book 23 Hadith 31</td></tr></tbody></table></div>
 

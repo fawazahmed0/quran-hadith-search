@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলতেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রমাযান আসলে আসমানের দরজাসমূহ খুলে দেয়া হয় এবং জাহান্নামের দরজাসমূহ বন্ধ করে দেয়া হয় আর শয়তানগুলোকে শিকলবন্দী করে দেয়া হয়। (১৮৯৮) (আধুনিক প্রকাশনীঃ ১৭৬৪, ইসলামিক ফাউন্ডেশনঃ ১৭৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলতেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রমাযান আসলে আসমানের দরজাসমূহ খুলে দেয়া হয় এবং জাহান্নামের দরজাসমূহ বন্ধ করে দেয়া হয় আর শয়তানগুলোকে শিকলবন্দী করে দেয়া হয়। (১৮৯৮) (আধুনিক প্রকাশনীঃ ১৭৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1899</td></tr><tr><td>Arabic No</td><td>1899</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ரமளான் மாதம் வந்துவிட்டால் வானத்தின் வாசல்கள் திறக்கப்படுகின்றன; நரகத்தின் வாயில்கள் அடைக்கப்படு கின்றன; ஷைத்தான்கள் விலங்கிடப்படு கின்றனர்.6 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 30
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ரமளான் மாதம் வந்துவிட்டால் வானத்தின் வாசல்கள் திறக்கப்படுகின்றன; நரகத்தின் வாயில்கள் அடைக்கப்படு கின்றன; ஷைத்தான்கள் விலங்கிடப்படு கின்றனர்.6 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1899</td></tr><tr><td>Arabic No</td><td>1899</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
 

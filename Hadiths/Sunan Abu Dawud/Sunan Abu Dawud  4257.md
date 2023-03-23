@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াযীদ ইব্‌ন খালিদ (রহঃ) .... সাঈদ ইব্‌ন আবী ওয়াক্‌কাস (রাঃ) এ হাদিস নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। তিনি বলেনঃ আমি বলিঃ ইয়া রাসূলাল্লাহ্‌! তখন যদি কেউ আমার ঘরে ঢুকে আমাকে হত্যা করতে চায়, তখন আমি কি করবো? রাবী বলেনঃ তখন রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমি আদমের উত্তম সন্তান (হাবিল)-এর মত হবে। এরপর ইয়াযীদ (রহঃ) এ আয়াত তিলাওয়াত করেনঃ (لَئِنْ بَسَطْتَ إِلَىَّ يَدَكَ) অর্থাৎ যদি তুমি আমাকে হত্যার জন্য তোমার হাত আমার দিকে সম্প্রসারিত কর, তবুও আমি তোমাকে হত্যার জন্য আমার হাত বিস্তার করবো না। (মায়িদাঃ ২৮)
+। সা‘দ ইবনু আবূ ওয়াক্কাস (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে উপরে বর্ণিত হাদীস প্রসঙ্গে বলেন, আমি বললাম, হে আল্লাহর রাসূল! আপনার কি মত, যদি কেউ আমার ঘরে ঢুকে পড়ে এবং আমাকে হত্যা করার জন্য তার হাত প্রসারিত করে? তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তুমি তখন আদম (আঃ)-এর পুত্রের মতো (হাবীলের) হয়ে যাও। অতঃপর বর্ণনাকারী ইয়াযীদ এ আয়াত তিলাওয়াত করেনঃ ‘‘তুমি যদি আমাকে হত্যা করতে হাত প্রসারিত করো...’’ (সূরা আল-মায়িদাহঃ ২৮)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4257</td></tr><tr><td>Arabic No</td><td>4257</td></tr><tr><td>Reference</td><td>Book 37 Hadith 18</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Sa'd ibn AbuWaqqas: I asked: Messenger of Allah! tell me if someone enters my house and extends his hands to kill me (what should I do?) The Messenger of Allah (ﷺ) replied: Be like the two sons of Adam. The narrator Yazid (ibn Khalid) then recited the verse: "If thou dost stretch they hand against me to slay me." [5:28]
+Narrated Sa'd ibn AbuWaqqas: I asked: Messenger of Allah! tell me if someone enters my house and extends his hands to kill me (what should I do?) The Messenger of Allah (ﷺ) replied: Be like the two sons of Adam. The narrator Yazid (ibn Khalid) then recited the verse: "If thou dost stretch they hand against me to slay me." [5:]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4257</td></tr><tr><td>Arabic No</td><td>4257</td></tr><tr><td>Reference</td><td>Book 37 Hadith 18</td></tr></tbody></table></div>
 

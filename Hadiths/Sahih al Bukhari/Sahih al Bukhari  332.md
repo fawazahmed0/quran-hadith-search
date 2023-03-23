@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৩২। সামুরাহ ইব্‌নু জুনদুব (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ একজন প্রসূতি মহিলা মারা গেলে নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) তার জানাযার সালাত আদায় করলেন। সালাতে তিনি মহিলার দেহের মাঝ বরাবর দাঁড়িয়েছিলেন। (১৩৩১, ১৩৩২ দ্রষ্টব্য) (আ.প্র. ৩২০, ই.ফা. ৩২৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। সামুরাহ ইব্‌নু জুনদুব (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ একজন প্রসূতি মহিলা মারা গেলে নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) তার জানাযার সালাত আদায় করলেন। সালাতে তিনি মহিলার দেহের মাঝ বরাবর দাঁড়িয়েছিলেন। (১৩৩১, ১৩৩২ দ্রষ্টব্য) (আ.প্র. ৩২০, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>332</td></tr><tr><td>Arabic No</td><td>332</td></tr><tr><td>Reference</td><td>Book 6 Hadith 36</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Abu Suraij] berkata, telah mengabarkan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சமுரா பின் ஜுன்துப் (ரலி) அவர்கள் கூறியதாவது: மகப்பேறு இரத்தப்போக்கால் ஒரு பெண் இறந்துவிட்டார். அவருக்காக நபி (ஸல்) அவர்கள் இறுதித் தொழுகை (ஜனாஸா) தொழுவித்தார்கள். அப்போது நபியவர்கள் பிரேதத்தின் நடுப்பகுதிக்கு நேராக நின்றார்கள். அத்தியாயம் : 6
+சமுரா பின் ஜுன்துப் (ரலி) அவர்கள் கூறியதாவது: மகப்பேறு இரத்தப்போக்கால் ஒரு பெண் இறந்துவிட்டார். அவருக்காக நபி (ஸல்) அவர்கள் இறுதித் தொழுகை (ஜனாஸா) தொழுவித்தார்கள். அப்போது நபியவர்கள் பிரேதத்தின் நடுப்பகுதிக்கு நேராக நின்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>332</td></tr><tr><td>Arabic No</td><td>332</td></tr><tr><td>Reference</td><td>Book 6 Hadith 36</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin Abu Suraij] berkata, telah mengabarkan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Semura b. Cündüb'ten şöyle nakledilmiştir: "Bir kadın doğum yaparken vefat etti. Cenaze namazını Nebi (Sallallahu aleyhi ve Sellem) kıldırdı, kıldırırken cenazenin ortasında durdu. Tekrar: 1331, 1332
+Semura b. Cündüb'ten şöyle nakledilmiştir: "Bir kadın doğum yaparken vefat etti. Cenaze namazını Nebi (Sallallahu aleyhi ve Sellem) kıldırdı, kıldırırken cenazenin ortasında durdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>332</td></tr><tr><td>Arabic No</td><td>332</td></tr><tr><td>Reference</td><td>Book 6 Hadith 36</td></tr></tbody></table></div>
 

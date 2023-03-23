@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আহমাদ ইবন আমর ইবন সারহ (রহঃ) ... আবূ যিনাদ (রহঃ) বর্ণনা করেন। যখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের অর্থাৎ চোরদের হাত-পা কাটেন এবং আগুন দ্বারা চক্ষু অন্ধ করে দেন তখন আল্লাহ্ তা'আলা তাঁকে মৃদু ভর্ৎসনা করে এই আয়াত নাযিল করেনঃ (إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ وَرَسُولَهُ)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4042</td></tr><tr><td>Arabic No</td><td>4042</td></tr><tr><td>Reference</td><td>Book 37 Hadith 77</td></tr></tbody></table></div>
 

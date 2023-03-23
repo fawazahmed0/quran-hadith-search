@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইব্‌ন ইসমাইল (রহঃ) .... ইমরান ইব্‌ন হুসায়ন (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি দাজ্জালের খবর শুনবে, সে যেন তার থেকে দূরে থাকে। আল্লাহর শপথ! যে ব্যক্তি তার কাছে যাবে, সে তাকে মু'মিন মনে করে, তার অনুসারী হয়ে যাবে। কেননা, তার কাছে সন্দেহে নিক্ষেপকারী বস্তু থাকবে।
+। আবুদ দাহমাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি ইমরান ইবনুল হুসাইন (রাঃ)-কে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ দাজ্জালের আবির্ভাবের কথা শুনলে সে যেন তার থেকে দূরে চলে যায়। আল্লাহর কসম! যে কোনো ব্যক্তি তার নিকট এলে সে অবশ্যই মনে করবে যে, সে ঈমানদার। অতঃপর সে তার দ্বারা তার মধ্যে জাগরিত সন্দেহপূর্ণ বিষয়ে অনুসরণ করবে। তিনি এরূপই বলেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4319</td></tr><tr><td>Arabic No</td><td>4319</td></tr><tr><td>Reference</td><td>Book 39 Hadith 29</td></tr></tbody></table></div>
 

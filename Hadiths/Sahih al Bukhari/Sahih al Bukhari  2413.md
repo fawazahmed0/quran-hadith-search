@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, এক ইয়াহূদী একটি দাসীর মাথা দু’টি পাথরের মাঝখানে রেখে পিষে দিয়েছিল। তাকে জিজ্ঞেস করা হল, কে তোমাকে এরূপ করেছে? অমুক ব্যক্তি, অমুক ব্যক্তি? যখন জনৈক ইয়াহূদীর নাম বলা হল- তখন সে দাসী মাথার দ্বারা হ্যাঁ সূচক ইশারা করল। ইয়াহূদীকে ধরে আনা হল। সে অপরাধ স্বীকার করলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সম্পর্কে নির্দেশ দিলেন। তখন তার মাথা দু’টি পাথরের মাঝখানে রেখে পিষে দেয়া হল। (২৭৪৬, ৫২৯৫, ৬৮৭৬, ৬৮৭৭, ৬৮৭৯, ৬৮৮৪, ৬৮৮৫) (আধুনিক প্রকাশনীঃ ২২৩৬, ইসলামিক ফাউন্ডেশনঃ ২২৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, এক ইয়াহূদী একটি দাসীর মাথা দু’টি পাথরের মাঝখানে রেখে পিষে দিয়েছিল। তাকে জিজ্ঞেস করা হল, কে তোমাকে এরূপ করেছে? অমুক ব্যক্তি, অমুক ব্যক্তি? যখন জনৈক ইয়াহূদীর নাম বলা হল- তখন সে দাসী মাথার দ্বারা হ্যাঁ সূচক ইশারা করল। ইয়াহূদীকে ধরে আনা হল। সে অপরাধ স্বীকার করলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সম্পর্কে নির্দেশ দিলেন। তখন তার মাথা দু’টি পাথরের মাঝখানে রেখে পিষে দেয়া হল। (২৭৪৬, ৫২৯৫, ৬৮৭৬, ৬৮৭৭, ৬৮৭৯, ৬৮৮৪, ৬৮৮৫) (আধুনিক প্রকাশনীঃ ২২৩৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>2413</td></tr><tr><td>Reference</td><td>Book 44 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Hammam] da
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: யூதன் ஒருவன் சிறுமி ஒருத்தியின் தலையை இரு கற்களுக்கிடையே வைத்து நசுக்கிவிட்டான். அந்தச் சிறுமியிடம் மக்கள், ‘‘உன்னை இப்படிச் செய்தவன் யார்? இன்னாரா? இன்னாரா?” என்று கேட்டனர். யூதனின் பெயர் கூறப்பட்டவுடன் அச்சிறுமி (‘‘ஆம், அவன்தான்” என்பதற்கு அடையாளமாகத்) தலையசைத்தாள். யூதன் பிடிக்கப்பட்டு தன் குற்றத்தை ஒப்புக்கொண்டான். நபி (ஸல்) அவர்கள் அவனது தலையை இரு கற்களுக்கிடையே வைத்து நசுக்கும்படி உத்தரவிட, அவ்வாறே அவனது தலை நசுக்கப்பட்டது. அத்தியாயம் : 44
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: யூதன் ஒருவன் சிறுமி ஒருத்தியின் தலையை இரு கற்களுக்கிடையே வைத்து நசுக்கிவிட்டான். அந்தச் சிறுமியிடம் மக்கள், ‘‘உன்னை இப்படிச் செய்தவன் யார்? இன்னாரா? இன்னாரா?” என்று கேட்டனர். யூதனின் பெயர் கூறப்பட்டவுடன் அச்சிறுமி (‘‘ஆம், அவன்தான்” என்பதற்கு அடையாளமாகத்) தலையசைத்தாள். யூதன் பிடிக்கப்பட்டு தன் குற்றத்தை ஒப்புக்கொண்டான். நபி (ஸல்) அவர்கள் அவனது தலையை இரு கற்களுக்கிடையே வைத்து நசுக்கும்படி உத்தரவிட, அவ்வாறே அவனது தலை நசுக்கப்பட்டது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>2413</td></tr><tr><td>Reference</td><td>Book 44 Hadith 4</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Hammam] da
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. şöyle anlatır: Bir yahudi iki taş arasında bir müslümanın başını ezmiş yaralamıştı. Ona, "Bunu sana kim yaptı, falan mı yoksa falan mı?" diye soruldu. En sonunda o yahudinin ismi geçince başıyla onun olduğunu ima etti. Sonra yahudi yaptığını itiraf etti. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem emretti, onun başı da iki taş arasında ezilip yaralandı. Tekrar: 2746, 5295, 6876, 6877, 6879, 6884, 6885
+Enes r.a. şöyle anlatır: Bir yahudi iki taş arasında bir müslümanın başını ezmiş yaralamıştı. Ona, "Bunu sana kim yaptı, falan mı yoksa falan mı?" diye soruldu. En sonunda o yahudinin ismi geçince başıyla onun olduğunu ima etti. Sonra yahudi yaptığını itiraf etti. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem emretti, onun başı da iki taş arasında ezilip yaralandı. Tekrar: 2746, 5295
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>2413</td></tr><tr><td>Reference</td><td>Book 44 Hadith 4</td></tr></tbody></table></div>
 

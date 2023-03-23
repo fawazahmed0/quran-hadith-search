@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সুওয়ায়দ (রহঃ) ... আমির ইবন আবদুল্লাহ্ (রহঃ) থেকে বর্ণিত। তিনি বলেন, উমরইবন খাত্তাব (রাঃ) যে চিঠি আবু মূসা আশআরীকে লিখেছিলেন, তা আমি পাঠ করেছি। তাতে ছিল, আমার নিকট শামদেশ হতে একদল লোক এসেছে, তাদের নিকট রয়েছে কাল এবং গাঢ় এক প্রকার পানীয়, যা উটের গায়ে লাগানো মালিশের মত। আমি জিজ্ঞাসা করলামঃ তোমরা এর কত অংশ জ্বালাও? তারা বললেনঃ দুই অংশ পর্যন্ত, যখন এর মন্দ দুই-তৃতীয়াংশ চলে যায়, এক-তৃতীয়াংশ মন্দ- ক্ষতিকর হওয়ার কারণে আরেক তৃতীয়াংশ মন্দ গন্ধের কারণে। আপনি আপনার দেশে বসবাসকারীদের এরূপ রস পান করার অনুমতি দিন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5716</td></tr><tr><td>Arabic No</td><td>5716</td></tr><tr><td>Reference</td><td>Book 51 Hadith 178</td></tr></tbody></table></div>
 

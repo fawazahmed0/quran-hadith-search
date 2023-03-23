@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫১৪৯, আন্তর্জাতিক নাম্বারঃ ২০১৩ ৫১৪৯-(.../...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... জাবির (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে যুহায়র (রহঃ) এর হাদীসের অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৫০৮৪, ইসলামিক সেন্টার ৫০৯৪)
+মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... জাবির (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে যুহায়র (রহঃ) এর হাদীসের অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৫০৮৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5254</td></tr><tr><td>Arabic No</td><td>2013.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 128</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... উম্মু কুরয্ কা‘বিয়া (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এরূপ বলতে শুনেছি, ছেলের জন্য দু‘টি একই ধরণের বকরী এবং মেয়ের জন্য একটি বকরী দিয়ে ‘আকীকা দেওয়া যথেষ্ট হবে। আবূ দাঊদ (রহঃ) বলেনঃ আমি ইমাম আহমদ (রহঃ)-কে বলতে শুনেছি যে, ‘মুকাফিআতানে ’অর্থ হলোঃ দু‘টি এক ধরনের হবে অথবা সে দুটি একই বয়সের হবে।
+। উম্মু কুরয আল-কা‘বিয়্যাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ পুত্রের জন্য একই ধরণের দু’টি এবং কন্যার জন্য একটি বকরী ‘আক্বীকাহ করতে হয়। আবূ দাঊদ (রহঃ) বলেন, আমি ইমাম আহমাদকে বলতে শুনেছি, ‘মুতাকাফিয়ান অর্থ হলো সমবয়স্ক বা এর কাছাকাছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2834</td></tr><tr><td>Arabic No</td><td>2834</td></tr><tr><td>Reference</td><td>Book 16 Hadith 47</td></tr></tbody></table></div>
 

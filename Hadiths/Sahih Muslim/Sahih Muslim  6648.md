@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৫৪২, আন্তর্জাতিক নাম্বারঃ ২৬১০ ৬৫৪২-(…/...) আবু বকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... আ'মাশ (রহঃ) হতে এ সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৪১০, ইসলামিক সেন্টার ৬৪৬০)
+(…/...) আবু বকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... আ'মাশ (রহঃ) হতে এ সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৪১০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6648</td></tr><tr><td>Arabic No</td><td>2610.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 145</td></tr></tbody></table></div>
 

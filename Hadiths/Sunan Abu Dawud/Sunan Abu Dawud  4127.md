@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফস ইবন উমার (রহঃ) .... আবদুল্লাহ ইবন উকায়ম (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ জুহায়না নামক স্থানে আমাদের সামনে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নির্দেশ পাঠ করে শোনান হয়, আর এ সময় আমি যুবক ছিলাম। তাতে লেখা ছিলঃ তোমরা মৃত জন্তুর কাঁচা চামড়া এবং এর পাছাকে কাজে ব্যবহার করবে না, (দাবাগত করা ব্যতীত)।
+। আব্দুল্লাহ ইবনু উকাইম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি যখন যুবক, তখন জুহাইনা গোত্রের এলাকায় অবস্থানকালে আমাদেরকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর একটি পত্র পাঠ করে শুনানো হয়। তাতে ছিলোঃ ‘‘তোমরা মৃত প্রাণীর চামড়া ও পেশী স্তন দ্বারা উপকৃত গ্রহণ করো না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4127</td></tr><tr><td>Arabic No</td><td>4127</td></tr><tr><td>Reference</td><td>Book 34 Hadith 108</td></tr></tbody></table></div>
 

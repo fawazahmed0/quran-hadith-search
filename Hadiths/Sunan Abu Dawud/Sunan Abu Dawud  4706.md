@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমূদ ইবন খালিদ (রহঃ) ..... উবায়্যা ইবন কা'ব (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ ঐ বালকটি (যাকে খিযির (আঃ) হত্যা করেন), তার মাতা-পিতা মু'মিন ছিল। যে দিন সে পয়দা হয়, সে দিন সে কাফির অবস্থায় পয়দা হয়।
+। উবাই ইবনু কা‘ব (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আল্লাহর এ বাণী সম্পর্কে বলতে শুনেছিঃ ‘‘আর কিশোরটি, যার মাতা-পিতা ছিলো মু‘মিন’’ (সূরা কাহফঃ ৮০), যেদিন মোহর মারা হয়েছিল সেদিন তাকে কাফির হিসেবেই সীলমোহর মারা হয়েছিল।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4706</td></tr><tr><td>Arabic No</td><td>4706</td></tr><tr><td>Reference</td><td>Book 42 Hadith 111</td></tr></tbody></table></div>
 

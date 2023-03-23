@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ্ ইবনু উমার .... মুহাম্মাদ ইবনু আমর বলেন, আমি আবদুল্লাহ্ ইবনু মুহাম্মাদকে বলতে শুনেছি- আমার দাদা আবদুল্লাহ্ ইবনু যায়েদ (রাঃ) পূর্বোক্ত হাদীছটি বর্ণনা করতেন। রাবী বলেন, অতঃপর আমার দাদা ইকামত দেন।
+। ‘আব্দুল্লাহ ইবনু মুহাম্মাদ তার দাদা ‘আব্দুল্লাহ ইবনু যায়িদ (রাঃ) থেকে এরূপই বর্ণনা করেছেন। বর্ণনাকারী বলেন, আমার দাদা (‘আব্দুল্লাহ) ইক্বামাত(ইকামত/একামত) দিলেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>513</td></tr><tr><td>Arabic No</td><td>513</td></tr><tr><td>Reference</td><td>Book 2 Hadith 123</td></tr></tbody></table></div>
 

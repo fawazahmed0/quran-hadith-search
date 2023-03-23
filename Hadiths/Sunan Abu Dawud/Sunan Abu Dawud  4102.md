@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ্ (রহঃ) .... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আল্লাহ্ প্রথম দিকে হিজরতকারিণী মহিলাদের উপর রহম করুন। কেননা, আল্লাহ যখন এ আয়াত নাযিল করেন (অর্থ) ‘‘আর তারা যেন তাদের গ্রীবা ও বক্ষদেশ ওড়না দিয়ে আবৃত করে।’’ তখন তারা তাদের পর্দার কাপড় ছিড়ে ওড়না তৈরী করে নেয়।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আল্লাহ প্রথম সারি মুহাজির নারীদের প্রতি রহমত বর্ষণ করুন। কেননা আল্লাহ যখন এ আয়াত অবতীর্ণ করেনঃ ‘‘তারা যেন তাদের গলদেশ ও বক্ষদেশ মাথার ওগড়া দ্বারা আবৃত করে নেয়’’- তখন তারা তাদের সেলাইবিহীন কাপড় ছিঁড়ে তদ্বারা ওড়না বানিয়ে নেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4102</td></tr><tr><td>Arabic No</td><td>4102</td></tr><tr><td>Reference</td><td>Book 34 Hadith 83</td></tr></tbody></table></div>
 

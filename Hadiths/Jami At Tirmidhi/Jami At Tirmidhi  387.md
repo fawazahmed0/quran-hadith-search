@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮৭। জাবির (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লামকে প্রশ্ন করা হল, কোন ধরনের নামায উত্তম? তিনি বললেনঃ যে নামাযে দীর্ঘক্ষণ দাড়ানো হয়। —সহীহ। ইবনু মাজাহ– (১৪২১), মুসলিম। এ অনুচ্ছেদে আবদুল্লাহ ইবনু হুবশী ও আনাস ইবনু মালিক (রাঃ) হতেও হাদীস বর্ণিত আছে। আবু ঈসা বলেনঃ জাবির ইবনু আব্দুল্লাহর হাদীসটি হাসান সহীহ। উল্লেখিত হাদীসটি জাবিরের নিকট হতে বিভিন্ন সূত্রে বর্ণিত হয়েছে।
+। জাবির (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লামকে প্রশ্ন করা হল, কোন ধরনের নামায উত্তম? তিনি বললেনঃ যে নামাযে দীর্ঘক্ষণ দাড়ানো হয়। —সহীহ। ইবনু মাজাহ– (১৪২১), মুসলিম। এ অনুচ্ছেদে আবদুল্লাহ ইবনু হুবশী ও আনাস ইবনু মালিক (রাঃ) হতেও হাদীস বর্ণিত আছে। আবু ঈসা বলেনঃ জাবির ইবনু আব্দুল্লাহর হাদীসটি হাসান সহীহ। উল্লেখিত হাদীসটি জাবিরের নিকট হতে বিভিন্ন সূত্রে বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>387</td></tr><tr><td>Arabic No</td><td>387</td></tr><tr><td>Reference</td><td>Book 2 Hadith 239</td></tr></tbody></table></div>
 

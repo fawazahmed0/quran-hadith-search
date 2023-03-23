@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার অসুস্থতা দেখার জন্য আমার কাছে এসেছিলেন। এ সময় তিনি গাধার পিঠে আরোহী ছিলেন না, ঘোড়ার পিঠেও ছিলেন না। [১৯৪] (আধুনিক প্রকাশনী- ৫২৫৩, ইসলামিক ফাউন্ডেশন- ৫১৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার অসুস্থতা দেখার জন্য আমার কাছে এসেছিলেন। এ সময় তিনি গাধার পিঠে আরোহী ছিলেন না, ঘোড়ার পিঠেও ছিলেন না। [১৯৪] (আধুনিক প্রকাশনী- ৫২৫৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5664</td></tr><tr><td>Arabic No</td><td>5664</td></tr><tr><td>Reference</td><td>Book 75 Hadith 24</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin 'Abbas] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (நான் நோயுற் றிருந்தபோது) என்னை உடல்நலம் விசாரிக்க வந்தார்கள். அப்போது அவர்கள் கோவேறு கழுதையின் மீது பயணம் செய்தும் வரவில்லை; குதிரையின் மீது பயணம் செய்தும் வரவில்லை. (மாறாக, நடந்தே வந்தார்கள்.) அத்தியாயம் : 75
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (நான் நோயுற் றிருந்தபோது) என்னை உடல்நலம் விசாரிக்க வந்தார்கள். அப்போது அவர்கள் கோவேறு கழுதையின் மீது பயணம் செய்தும் வரவில்லை; குதிரையின் மீது பயணம் செய்தும் வரவில்லை. (மாறாக, நடந்தே வந்தார்கள்.) அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5664</td></tr><tr><td>Arabic No</td><td>5664</td></tr><tr><td>Reference</td><td>Book 75 Hadith 24</td></tr></tbody></table></div>
 

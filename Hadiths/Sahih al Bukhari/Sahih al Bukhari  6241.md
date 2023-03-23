@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একবার এক লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কোন এক হুজরায় উঁকি দিয়ে তাকালো। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে একটা ‘মিদরা’ ছিল, যা দিয়ে তিনি তাঁর মাথা চুলকাচ্ছিলেন। তখন তিনি বললেনঃ যদি আমি জানতাম যে, তুমি উঁকি দিবে, তবে এ দিয়ে তোমার চোখ ফুঁড়ে দিতাম। তাকানোর জন্য অনুমতি গ্রহণের বিধান দেয়া হয়েছে। [৫৯২৪] (আধুনিক প্রকাশনী- ৫৭৯৯, ইসলামিক ফাউন্ডেশন- ৫৬৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একবার এক লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কোন এক হুজরায় উঁকি দিয়ে তাকালো। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে একটা ‘মিদরা’ ছিল, যা দিয়ে তিনি তাঁর মাথা চুলকাচ্ছিলেন। তখন তিনি বললেনঃ যদি আমি জানতাম যে, তুমি উঁকি দিবে, তবে এ দিয়ে তোমার চোখ ফুঁড়ে দিতাম। তাকানোর জন্য অনুমতি গ্রহণের বিধান দেয়া হয়েছে। [৫৯২৪] (আধুনিক প্রকাশনী- ৫৭৯৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6241</td></tr><tr><td>Arabic No</td><td>6241</td></tr><tr><td>Reference</td><td>Book 79 Hadith 15</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Sahl bin Sa'd:A man peeped through a round hole into the dwelling place of the Prophet, while the Prophet (ﷺ) had a Midray (an iron comb) with which he was scratching his head. the Prophet (ﷺ) said, " Had known you were looking (through the hole), I would have pierced your eye with it (i.e., the comb)." Verily! The order of taking permission to enter has been enjoined because of that sight, (that one should not look unlawfully at the state of others). (See Hadith No. 807, Vol. 7)
+Narrated Sahl bin Sa'd:A man peeped through a round hole into the dwelling place of the Prophet, while the Prophet (ﷺ) had a Midray (an iron comb) with which he was scratching his head. the Prophet (ﷺ) said, " Had known you were looking (through the hole), I would have pierced your eye with it (i.e., the comb)." Verily! The order of taking permission to enter has been enjoined because of that sight, (that one should not look unlawfully at the state of others). (See Hadith No. 807, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6241</td></tr><tr><td>Arabic No</td><td>6241</td></tr><tr><td>Reference</td><td>Book 79 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் அறைகளில் ஒன்றினுள் ஒரு துவாரத்தின் வழியாக ஒருவர் எட்டிப் பார்த்தார். நபி (ஸல்) அவர்களுடன் ஈர்வலிச் சீப்பு ஒன்று இருந்தது. அதனால் தமது தலையை அவர்கள் கோதிக்கொண்டிருந்தார்கள். (அவர் எட்டிப் பார்த்ததைக் கண்ட) நபி (ஸல்) அவர்கள், “நீ (துவாரத்தின் வழியாகப்) பார்க்கிறாய் என்பதை நான் (முன்பே) அறிந்திருந்தால் இந்தச் சீப்பினால் உன் கண்ணில் குத்தியிருப்பேன். (அடுத்தவர் வீட்டுப் பெண்களைப்) பார்க்க நேரிடும் என்பதற்காகவே அனுமதி கேட்பது சட்டமாக்கப்பட்டது” என்று சொன்னார்கள்.17 அத்தியாயம் : 79
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் அறைகளில் ஒன்றினுள் ஒரு துவாரத்தின் வழியாக ஒருவர் எட்டிப் பார்த்தார். நபி (ஸல்) அவர்களுடன் ஈர்வலிச் சீப்பு ஒன்று இருந்தது. அதனால் தமது தலையை அவர்கள் கோதிக்கொண்டிருந்தார்கள். (அவர் எட்டிப் பார்த்ததைக் கண்ட) நபி (ஸல்) அவர்கள், “நீ (துவாரத்தின் வழியாகப்) பார்க்கிறாய் என்பதை நான் (முன்பே) அறிந்திருந்தால் இந்தச் சீப்பினால் உன் கண்ணில் குத்தியிருப்பேன். (அடுத்தவர் வீட்டுப் பெண்களைப்) பார்க்க நேரிடும் என்பதற்காகவே அனுமதி கேட்பது சட்டமாக்கப்பட்டது” என்று சொன்னார்கள்.17 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6241</td></tr><tr><td>Arabic No</td><td>6241</td></tr><tr><td>Reference</td><td>Book 79 Hadith 15</td></tr></tbody></table></div>
 

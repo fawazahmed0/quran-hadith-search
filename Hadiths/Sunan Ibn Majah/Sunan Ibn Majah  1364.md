@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৩৬৪। আমর ইবনু আবাসা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললাম, হে আল্লাহ্‌র রাসূল! আপনার সাথে কে কে ইসলাম গ্রহণ করেছেন? তিনি বলেনঃ স্বাধীন ও ক্রীতদাস। আমি বললাম, এমন কোন সময় আছে কি যা অপর সময়ের তুলনায় আল্লাহ্‌র নিকটতর (নৈকট্য লাভের উত্তম সময়)? তিনি বলেনঃ হ্যাঁ। রাতের মধ্যভাগ।
+। আমর ইবনু আবাসা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললাম, হে আল্লাহ্‌র রাসূল! আপনার সাথে কে কে ইসলাম গ্রহণ করেছেন? তিনি বলেনঃ স্বাধীন ও ক্রীতদাস। আমি বললাম, এমন কোন সময় আছে কি যা অপর সময়ের তুলনায় আল্লাহ্‌র নিকটতর (নৈকট্য লাভের উত্তম সময়)? তিনি বলেনঃ হ্যাঁ। রাতের মধ্যভাগ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1364</td></tr><tr><td>Arabic No</td><td>1364</td></tr><tr><td>Reference</td><td>Book 5 Hadith 562</td></tr></tbody></table></div>
 

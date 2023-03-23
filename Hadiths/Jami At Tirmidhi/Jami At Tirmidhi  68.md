@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬৮। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম বলেন, এমন যেন না হয় যে, তোমাদের কেউ বদ্ধ পানিতে (কূপ, পুকুর, জলাশয়) পেশাব করে, অতঃপর তা দিয়েই ওযু করে। -সহীহ। ইবনু মাজাহ– (৩৪৪)। আবু ঈসা বলেনঃ হাদীসটি হাসান সহীহ। এ অনুচ্ছেদে জাবির (রাঃ)-এর সূত্রে বর্ণিত হাদীসও রয়েছে।
+। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম বলেন, এমন যেন না হয় যে, তোমাদের কেউ বদ্ধ পানিতে (কূপ, পুকুর, জলাশয়) পেশাব করে, অতঃপর তা দিয়েই ওযু করে। -সহীহ। ইবনু মাজাহ– (৩৪৪)। আবু ঈসা বলেনঃ হাদীসটি হাসান সহীহ। এ অনুচ্ছেদে জাবির (রাঃ)-এর সূত্রে বর্ণিত হাদীসও রয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
 

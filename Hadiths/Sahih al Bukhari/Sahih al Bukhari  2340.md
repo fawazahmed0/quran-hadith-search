@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যার নিকট জমি রয়েছে, সে যেন তা নিজে চাষ করে, অথবা তার ভাইকে দিয়ে দেয়, যদি এটাও না করতে চায়, তবে সে যেন তার জমি ফেলে রাখে। (মুসলিম ২১/১৭, হাঃ ১৫৪৪) (আধুনিক প্রকাশনীঃ ২১৭২, ইসলামিক ফাউন্ডেশনঃ ২১৮৯ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2340</td></tr><tr><td>Arabic No</td><td>2340</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin Musa] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir r.a. şöyle anlatır: İnsanlar, (mahsülün) üçte biri, dörtte biri veya yarısı karşılığında müzarea akdi yapıyordu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Kimin arazisi varsa ya kendisi eksin ya da ücretsiz olarak versin. Böyle yapmazsa ekmeden beklesin" buyurmuştur. Tekrar: 2632
+Cabir r.a. şöyle anlatır: İnsanlar, (mahsülün) üçte biri, dörtte biri veya yarısı karşılığında müzarea akdi yapıyordu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Kimin arazisi varsa ya kendisi eksin ya da ücretsiz olarak versin. Böyle yapmazsa ekmeden beklesin" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2340</td></tr><tr><td>Arabic No</td><td>2340</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

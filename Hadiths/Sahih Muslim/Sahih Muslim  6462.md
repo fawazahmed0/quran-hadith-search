@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৩৫৬, আন্তর্জাতিক নাম্বারঃ ২৫২৮ ৬৩৫৬-(২০৩/২৫২৮) হাজ্জাজ ইবনু শাইর (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ উবাইদাহ ইবনুল জাররাহ (রাযিঃ) ও আবূ তালহাহ (রাযিঃ) এর মাঝে ভ্রাতৃসম্পর্ক স্থাপন করে দিয়েছিলেন। (ইসলামিক ফাউন্ডেশন ৬২৩২, ইসলামিক সেন্টার ৬২৮০)
+হাজ্জাজ ইবনু শাইর (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ উবাইদাহ ইবনুল জাররাহ (রাযিঃ) ও আবূ তালহাহ (রাযিঃ) এর মাঝে ভ্রাতৃসম্পর্ক স্থাপন করে দিয়েছিলেন। (ইসলামিক ফাউন্ডেশন ৬২৩২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6462</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 44 Hadith 291</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir]; Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (முஹாஜிரான) அபூஉபைதா பின் அல்ஜர்ராஹ் (ரலி) அவர்களுக்கும் (அன்சாரியான) அபூதல்ஹா (ரலி) அவர்களுக்கும் இடையே சகோதரத்துவத்தை ஏற்படுத்தினார்கள். அத்தியாயம் : 44
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (முஹாஜிரான) அபூஉபைதா பின் அல்ஜர்ராஹ் (ரலி) அவர்களுக்கும் (அன்சாரியான) அபூதல்ஹா (ரலி) அவர்களுக்கும் இடையே சகோதரத்துவத்தை ஏற்படுத்தினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6462</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 44 Hadith 291</td></tr></tbody></table></div>
 

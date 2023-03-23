@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১৭. সায়িব ইবন ইয়াযিদ (রহঃ) বর্ণনা করেন, উসমান ইবন আফফান (রাঃ) বলিতেনঃ এই মাস (মাহে রমযান) যাকাত আদায়ের মাস। ঋণগ্রস্তদের উচিত তাহাদের ঋণ শোধ করিয়া দেওয়া, যাহাতে অবশিষ্ট সম্পদের যাকাত আদায় করিয়া নেওয়া যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>593</td></tr><tr><td>Arabic No</td><td>593</td></tr><tr><td>Reference</td><td>Book 17 Hadith 16</td></tr></tbody></table></div>
 

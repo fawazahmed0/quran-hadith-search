@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১২১৪। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, বিশ সা' খাদ্যশস্যের বিনিময়ে বন্ধক রাখা ছিল। তা তিনি নিজ পরিবারের জন্য নিয়েছিলেন। — সহীহ, ইবনু মা-জাহ (২২৩৯) এ হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, বিশ সা' খাদ্যশস্যের বিনিময়ে বন্ধক রাখা ছিল। তা তিনি নিজ পরিবারের জন্য নিয়েছিলেন। — সহীহ, ইবনু মা-জাহ (২২৩৯) এ হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1214</td></tr><tr><td>Arabic No</td><td>1214</td></tr><tr><td>Reference</td><td>Book 14 Hadith 13</td></tr></tbody></table></div>
 

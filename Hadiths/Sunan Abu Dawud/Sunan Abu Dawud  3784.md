@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইবন মুহাম্মদ (রহঃ) ..... কাবীসা ইবন হালব (রাঃ) তাঁর পিতা থেকে বর্ণনা করেন। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছি, যখন এক ব্যক্তি তাঁকে প্রশ্ন করে যে, খাদ্যের মধ্যে এমন কোন জিনিস আছে কি, যা থেকে আমি পরহেয করব? তখন তিনি বলেনঃ কোন জিনিস সম্পর্কে তোমার মনে যেন কোনরূপ ঘৃণার সৃষ্টি না হয়। কেননা, নাসারারা জিনিসের প্রতি ঘৃণা সৃষ্টি করতো।
+। কাবীসাহ ইবনু হুলব (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি এক ব্যক্তিকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে প্রশ্ন করতে শুনেছি, সে বললো, এমন খাবার আছে কি যা আমি অপছন্দ করবো? তিনি বললেনঃ তোমার মনে যেন কোন হালাল বস্তু সংশয় সৃষ্টি না করে। তাহলে তুমি নাসারাদের সদৃশ হবে। কেননা তারা প্রত্যেক জিনিসে সংশয় বোধ করতো।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>3784</td></tr><tr><td>Reference</td><td>Book 28 Hadith 49</td></tr></tbody></table></div>
 

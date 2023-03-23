@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অধিকাংশ সময়ই এ দু‘আ পড়তেনঃ হে আমাদের রব! আমাদেরকে দুনিয়াতে কল্যাণ দাও এবং আখিরাতেও কল্যাণ দাও এবং আমাদেরকে জাহান্নামের অগ্নি থেকে রক্ষা কর। (সূরা আল-বাকারাহ ২/২০১) [৪৫২২; মুসলিম ৪৮/৯, হাঃ ২৬৯০, আহমাদ ১৩৯৩৮] (আধুনিক প্রকাশনী- ৫৯৪১, ইসলামিক ফাউন্ডেশন- ৫৮৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অধিকাংশ সময়ই এ দু‘আ পড়তেনঃ হে আমাদের রব! আমাদেরকে দুনিয়াতে কল্যাণ দাও এবং আখিরাতেও কল্যাণ দাও এবং আমাদেরকে জাহান্নামের অগ্নি থেকে রক্ষা কর। (সূরা আল-বাকারাহ ২/২০১) [৪৫২২; মুসলিম ৪৮/৯, হাঃ ২৬৯০, আহমাদ ১৩৯৩৮] (আধুনিক প্রকাশনী- ৫৯৪১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6389</td></tr><tr><td>Arabic No</td><td>6389</td></tr><tr><td>Reference</td><td>Book 80 Hadith 84</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:The most frequent invocation of The Prophet (ﷺ) was: "O Allah! Give to us in the world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire." (2.201)
+Narrated Anas:The most frequent invocation of The Prophet (ﷺ) was: "O Allah! Give to us in the world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6389</td></tr><tr><td>Arabic No</td><td>6389</td></tr><tr><td>Reference</td><td>Book 80 Hadith 84</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “ரப்பனா ஆத்தினா ஃபித்துன்யா ஹஸனத்தன் வ ஃபில் ஆகிரத்தி ஹஸனத்தன் வக்கினா அதாபந் நார்” என்றே அதிகமாகப் பிரார்த்தித்துவந்தார்கள். (பொருள்: எங்கள் இறைவா! எங்களுக்கு இம்மையிலும் நன்மை அருள்வாயாக; மறுமையிலும் நன்மை அருள்வாயாக. நரகத்தின் வேதனையிலிருந்து எங்களைக் காப்பாயாக.)70 அத்தியாயம் : 80
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “ரப்பனா ஆத்தினா ஃபித்துன்யா ஹஸனத்தன் வ ஃபில் ஆகிரத்தி ஹஸனத்தன் வக்கினா அதாபந் நார்” என்றே அதிகமாகப் பிரார்த்தித்துவந்தார்கள். (பொருள்: எங்கள் இறைவா! எங்களுக்கு இம்மையிலும் நன்மை அருள்வாயாக; மறுமையிலும் நன்மை அருள்வாயாக. நரகத்தின் வேதனையிலிருந்து எங்களைக் காப்பாயாக.)70 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6389</td></tr><tr><td>Arabic No</td><td>6389</td></tr><tr><td>Reference</td><td>Book 80 Hadith 84</td></tr></tbody></table></div>
 

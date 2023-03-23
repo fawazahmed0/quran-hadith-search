@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, তিনি আমার নিকট ঘুমিয়ে থাকা অবস্থায়ই সাহরির সময় হতো। অর্থাৎ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম। (মুসলিম ৬/১৭, হাঃ ৭৪২, আহমাদ ২৫৭৫৬) (আধুনিক প্রকাশনীঃ ১০৬২, ইসলামিক ফাউন্ডেশনঃ ১০৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, তিনি আমার নিকট ঘুমিয়ে থাকা অবস্থায়ই সাহরির সময় হতো। অর্থাৎ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম। (মুসলিম ৬/১৭, হাঃ ৭৪২, আহমাদ ২৫৭৫৬) (আধুনিক প্রকাশনীঃ ১০৬২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1133</td></tr><tr><td>Arabic No</td><td>1133</td></tr><tr><td>Reference</td><td>Book 19 Hadith 14</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவி யார்) ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னிடம் தங்கியிருக்கும் தினத்தில் (சேவல் கூவும் நேரம் எழுந்து தொழுத பின்னர்) உறங்கிய நிலையில் தவிர, சஹர் நேரம் அவர்களை அடைந்ததில்லை. அத்தியாயம் : 19
+நபி (ஸல்) அவர்களின் துணைவி யார்) ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னிடம் தங்கியிருக்கும் தினத்தில் (சேவல் கூவும் நேரம் எழுந்து தொழுத பின்னர்) உறங்கிய நிலையில் தவிர, சஹர் நேரம் அவர்களை அடைந்ததில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1133</td></tr><tr><td>Arabic No</td><td>1133</td></tr><tr><td>Reference</td><td>Book 19 Hadith 14</td></tr></tbody></table></div>
 

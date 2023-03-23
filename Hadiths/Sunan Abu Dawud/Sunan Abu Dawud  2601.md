@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্ হাসান ইবন আলী .... আবদুল্লাহ্ ইবন ইয়াযীদ আল খুতামি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সৈন্য বাহিনীকে বিদায় দিতে চাইতেন তখন বলতেনঃ "আমি আল্লাহ্‌র নিকট তোমাদের দীন, আমানাত ও সর্বশেষ আমলের হেফাযতের দুয়া করছি।
+। ‘আব্দুল্লাহ আল-খাত্বমী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোনো সেনাবাহিনীকে বিদায় দেয়ার সময় বলতেনঃ ‘‘আমি আল্লাহর নিকট তোমাদের দীন, আমানাত ও সর্বশেষ আমলের হিফাযাতের জন্য দু‘আ করছি।’’
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2601</td></tr><tr><td>Arabic No</td><td>2601</td></tr><tr><td>Reference</td><td>Book 15 Hadith 125</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০৫৮, আন্তর্জাতিক নাম্বারঃ ১০৫৯ ১০৫৮. মাহমূদ ইবনু গয়লান আল মারওয়াযী (রহ.) ..... ‘আবদুল্লাহ ইবনু মাসউদ (রাঃ) হতে বর্ণিত। তিনি বললেন, আমি কি তোমাদেরকে নিয়ে রাসূলুল্লাহ (সা.) -এর সালাতের ন্যায় সালাত আদায় করব না? এরপর তিনি সালাত আদায় করলেন, তখন তিনি একবারের অধিক হাত উঠাননি। সহীহ: আবু দাউদ ৭৪৮, তিরমিযী ২৫৭, নাসায়ী’র “সুনানুল কুবরা ১০৯৯। [দ্রঃ ১০২৬]
+। মাহমুদ ইবনু গায়লান মারওয়াযী (রহঃ) ... আবদুল্লাহ ইবনু মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি কি তোমাদের নিয়ে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সালাতের ন্যায় সালাত আদায় করব না? এরপর তিনি সালাত আদায় করলেন- তখন তিনি একবারের অধিক হাত উঠান নি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1058</td></tr><tr><td>Arabic No</td><td>1058</td></tr><tr><td>Reference</td><td>Book 12 Hadith 30</td></tr></tbody></table></div>
 

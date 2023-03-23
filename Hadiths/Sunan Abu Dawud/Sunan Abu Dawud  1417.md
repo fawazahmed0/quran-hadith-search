@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবু শায়বা (রহঃ) ..... আবদুল্লাহ (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম হতে উপরোক্ত হাদীছের অনুরূপ বর্ণনা করেছেন। তবে এতটুকু বেশী আছে যে, আবদুল্লাহ (রাঃ) এ হাদীস বর্ণনা করলে এক বেদুইন বলে, আপনি কি বলছেন? জবাবে আবদুল্লাহ (রাঃ) বলেন, এটা তোমার ও তোমার সাথীদের জন্য প্রযোজ্য নয়। (ইবন মাজা)।
+। ‘আবদুল্লাহ (রাঃ) হতে মারফু‘ভাবে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। তাতে রয়েছেঃ এক বেদুঈন জিজ্ঞেস করলো, আপনি কি বলেছেন? তিনি বললেন, এটা তোমার ও তোমার সাথীদের জন্য প্রযোজ্য নয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1417</td></tr><tr><td>Arabic No</td><td>1417</td></tr><tr><td>Reference</td><td>Book 8 Hadith 2</td></tr></tbody></table></div>
 

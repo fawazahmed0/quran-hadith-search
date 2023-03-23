@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি জিজ্ঞেস করলাম, হে আল্লাহর রাসূল! (আমার স্বামী) আবূ সালামার সন্তান, যারা আমারও সন্তান, তাদের প্রতি ব্যয় করলে আমার সওয়াব হবে কি? তিনি বললেনঃ তাদের প্রতি ব্যয় কর। তাদের প্রতি ব্যয় করার সওয়াব তুমি অবশ্যই পাবে। (৫৩৬৯, মুসলিম ১২/১৪, হাঃ ১০০১, আহমাদ ২৬৫৭১) (আধুনিক প্রকাশনীঃ ১৩৭৩, ইসলামিক ফাউন্ডেশনঃ ১৩৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি জিজ্ঞেস করলাম, হে আল্লাহর রাসূল! (আমার স্বামী) আবূ সালামার সন্তান, যারা আমারও সন্তান, তাদের প্রতি ব্যয় করলে আমার সওয়াব হবে কি? তিনি বললেনঃ তাদের প্রতি ব্যয় কর। তাদের প্রতি ব্যয় করার সওয়াব তুমি অবশ্যই পাবে। (৫৩৬৯, মুসলিম ১২/১৪, হাঃ ১০০১, আহমাদ ২৬৫৭১) (আধুনিক প্রকাশনীঃ ১৩৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1467</td></tr><tr><td>Arabic No</td><td>1467</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: நான் (நபி (ஸல்) அவர்களிடம்), “அல்லாஹ்வின் தூதரே! (என் முதல் கணவரான) அபூசலமாவின் குழந்தைகளுக்குச் செலவழிப்பதற்காக எனக்கு நன்மையுண்டா? அவர்களும் என் குழந்தைகளே!” எனக் கேட்டேன். அதற்கு நபி (ஸல்) அவர்கள், “நீ அவர்களுக்காகச் செலவு செய்! அவர்களுக்காக நீ செலவு செய்ததற்கான நன்மை உனக்கு உண்டு” எனக் கூறினார்கள். அத்தியாயம் : 24
+உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: நான் (நபி (ஸல்) அவர்களிடம்), “அல்லாஹ்வின் தூதரே! (என் முதல் கணவரான) அபூசலமாவின் குழந்தைகளுக்குச் செலவழிப்பதற்காக எனக்கு நன்மையுண்டா? அவர்களும் என் குழந்தைகளே!” எனக் கேட்டேன். அதற்கு நபி (ஸல்) அவர்கள், “நீ அவர்களுக்காகச் செலவு செய்! அவர்களுக்காக நீ செலவு செய்ததற்கான நன்மை உனக்கு உண்டு” எனக் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1467</td></tr><tr><td>Arabic No</td><td>1467</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Seleme şöyle anlatır: Resuiullah Sallallahu Aleyhi ve Sellem'e, "Ey Allah'ın Resulü! Ebu Seleme'nin çocuklarına yaptığım infaktan dolayı bana sevap var mı? Onlar benim de çocuklarım" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, "İnfak et Onlara harcadığın şeylerin sevabını alacaksın" buyurdu. Tekrar: 5369
+Ümmü Seleme şöyle anlatır: Resuiullah Sallallahu Aleyhi ve Sellem'e, "Ey Allah'ın Resulü! Ebu Seleme'nin çocuklarına yaptığım infaktan dolayı bana sevap var mı? Onlar benim de çocuklarım" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, "İnfak et Onlara harcadığın şeylerin sevabını alacaksın" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1467</td></tr><tr><td>Arabic No</td><td>1467</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
 

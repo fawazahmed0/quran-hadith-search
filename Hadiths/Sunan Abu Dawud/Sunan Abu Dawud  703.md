@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... ইবনু আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, ঋতুবতী মহিলা ও কুকুর নামাযীর সম্মুখ দিয়ে গমন করলে তার নামায নষ্ট হয়ে যায়। (নাসাঈ)। ইমাম আবূ দাউদ (রহঃ) বলেন, সাঈদ, হিশাম ও অন্যান্যদের বর্ণনা অনুযায়ী এই হাদীছ ইবনু আব্বাস (রাঃ) এর উপর মাওকুফ। তবে শোবার মতে হাদীছটি স্বয়ং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত, অর্থাৎ এটা মারফু হাদীছ।
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ঋতুবতী মহিলা ও কুকুর সালাত আদায়কারীর (সামনে দিয়ে অতিক্রম করলে) সালাত নষ্ট হয়ে যায়। [1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>703</td></tr><tr><td>Arabic No</td><td>703</td></tr><tr><td>Reference</td><td>Book 2 Hadith 313</td></tr></tbody></table></div>
 

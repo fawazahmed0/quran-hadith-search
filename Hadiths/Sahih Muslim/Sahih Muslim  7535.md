@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৪২৫, আন্তর্জাতিক নাম্বারঃ ৩০১৯ ৭৪২৫-(.../...) আবূ কুরায়ব (রহঃ) ..... হিশাম (রহঃ) এর সূত্রে এ সানাদে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭২৫৪, ইসলামিক সেন্টার ৭৩০৯)
+আবূ কুরায়ব (রহঃ) ..... হিশাম (রহঃ) এর সূত্রে এ সানাদে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭২৫৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7535</td></tr><tr><td>Arabic No</td><td>3019.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 13</td></tr></tbody></table></div>
 

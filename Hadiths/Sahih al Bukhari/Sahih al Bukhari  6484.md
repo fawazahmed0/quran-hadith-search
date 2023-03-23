@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘আমর (রাঃ) বর্ণনা করেছেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিম (প্রকৃত) সেই, যার যবান ও হাত থেকে মুসলিমগণ নিরাপদ থাকে। আর (প্রকৃত) মুহাজির সেই, আল্লাহ্ যা নিষেধ করেছেন তা যে পরিত্যাগ করে। [১০] (আধুনিক প্রকাশনী- ৬০৩৪, ইসলামিক ফাউন্ডেশন- ৬০৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘আমর (রাঃ) বর্ণনা করেছেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিম (প্রকৃত) সেই, যার যবান ও হাত থেকে মুসলিমগণ নিরাপদ থাকে। আর (প্রকৃত) মুহাজির সেই, আল্লাহ্ যা নিষেধ করেছেন তা যে পরিত্যাগ করে। [১০] (আধুনিক প্রকাশনী- ৬০৩৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>6484</td></tr><tr><td>Reference</td><td>Book 81 Hadith 73</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: எவருடைய நாவு மற்றும் கையி(ன் தொல்லைகளி)லிருந்து பிற முஸ்லிம் கள் பாதுகாப்புப் பெற்றிருக்கிறார்களோ அவரே (உண்மையான) முஸ்லிம் ஆவார். எவர் அல்லாஹ் தடை விதித்தவற்றிலிருந்து விலகிக்கொண்டாரோ அவரே (உண்மையான) முஹாஜிர் (துறந்தவர்) ஆவார். இதை அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.74 அத்தியாயம் : 81
+நபி (ஸல்) அவர்கள் கூறினார்கள்: எவருடைய நாவு மற்றும் கையி(ன் தொல்லைகளி)லிருந்து பிற முஸ்லிம் கள் பாதுகாப்புப் பெற்றிருக்கிறார்களோ அவரே (உண்மையான) முஸ்லிம் ஆவார். எவர் அல்லாஹ் தடை விதித்தவற்றிலிருந்து விலகிக்கொண்டாரோ அவரே (உண்மையான) முஹாஜிர் (துறந்தவர்) ஆவார். இதை அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.74 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>6484</td></tr><tr><td>Reference</td><td>Book 81 Hadith 73</td></tr></tbody></table></div>
 

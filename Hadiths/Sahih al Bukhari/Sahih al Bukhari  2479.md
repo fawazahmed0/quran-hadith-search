@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত যে, তিনি তার (কামরার) তাকের সম্মুখে একটি পর্দা ঝুলিয়ে দিলেন, যাতে ছিল প্রাণীর ছবি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা ছিঁড়ে ফেললেন। এরপর ‘আয়িশাহ (রাযি.) তা দিয়ে দু’খানা গদি তৈরী করেন। এই গদি দু’খানা ঘরেই ছিল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার উপর বসতেন। (৫৯৫৪, ৫৯৫৫, ৬১০৯) (আধুনিক প্রকাশনীঃ ২৩০০, ইসলামিক ফাউন্ডেশনঃ ২৩১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত যে, তিনি তার (কামরার) তাকের সম্মুখে একটি পর্দা ঝুলিয়ে দিলেন, যাতে ছিল প্রাণীর ছবি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা ছিঁড়ে ফেললেন। এরপর ‘আয়িশাহ (রাযি.) তা দিয়ে দু’খানা গদি তৈরী করেন। এই গদি দু’খানা ঘরেই ছিল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার উপর বসতেন। (৫৯৫৪, ৫৯৫৫, ৬১০৯) (আধুনিক প্রকাশনীঃ ২৩০০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>2479</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் எனது அலமாரி (நிலைப் பேழை) ஒன்றின் மீது (உயிரினங்களின்) உருவங்கள் (வரையப்பட்டு) இருந்த ஒரு திரைச் சீலையைத் தொங்கவிட்டிருந்தேன். அதை நபி (ஸல்) அவர்கள் கிழித்து விட்டார்கள். ஆகவே, அதிலிருந்து நான் இரு திண்டுகளைச் செய்துகொண்டேன். அவை வீட்டில் இருந்தன. அவற்றின் மீது நபி (ஸல்) அவர்கள் அமர்வார்கள். அத்தியாயம் : 46
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் எனது அலமாரி (நிலைப் பேழை) ஒன்றின் மீது (உயிரினங்களின்) உருவங்கள் (வரையப்பட்டு) இருந்த ஒரு திரைச் சீலையைத் தொங்கவிட்டிருந்தேன். அதை நபி (ஸல்) அவர்கள் கிழித்து விட்டார்கள். ஆகவே, அதிலிருந்து நான் இரு திண்டுகளைச் செய்துகொண்டேன். அவை வீட்டில் இருந்தன. அவற்றின் மீது நபி (ஸல்) அவர்கள் அமர்வார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>2479</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'dan rivayet edilmiştir: Aişe, odasındaki bir raf'a resimli bir perde takmıştı. Hz. Nebi onu yırttı. Bunun üzerine Aişe onun kumaşından iki minder yaptı. O minderler odada dururdu ve Hz. Nebi üzerinde otururdu. Tekrar: 5954, 5955, 6109
+Aişe r.anha'dan rivayet edilmiştir: Aişe, odasındaki bir raf'a resimli bir perde takmıştı. Hz. Nebi onu yırttı. Bunun üzerine Aişe onun kumaşından iki minder yaptı. O minderler odada dururdu ve Hz. Nebi üzerinde otururdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>2479</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
 

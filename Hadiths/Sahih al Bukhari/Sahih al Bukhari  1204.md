@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাতে (লোকমা দেয়ার জন্য) পুরুষদের জন্য ‘তাসবীহ্’ আর মহিলাদের জন্য তাসফীক। (৬৮৪) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ ১১৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাতে (লোকমা দেয়ার জন্য) পুরুষদের জন্য ‘তাসবীহ্’ আর মহিলাদের জন্য তাসফীক। (৬৮৪) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1204</td></tr><tr><td>Arabic No</td><td>1204</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya] telah mengabarkan kepada kami [Waki'] dar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ‘தஸ்பீஹ்’ கூறுதல் ஆண்களுக்குரிய தாகும்; கைதட்டுதல் பெண்களுக்குரிய தாகும். இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 21
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ‘தஸ்பீஹ்’ கூறுதல் ஆண்களுக்குரிய தாகும்; கைதட்டுதல் பெண்களுக்குரிய தாகும். இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1204</td></tr><tr><td>Arabic No</td><td>1204</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
 

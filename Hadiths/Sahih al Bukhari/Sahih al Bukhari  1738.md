@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘আমর ইবনুল ‘আস (রাঃ) হতে বর্ণিত তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর উটনীর উপর অবস্থান করছিলেন। অতঃপর হাদীসের শেষ পর্যন্ত বর্ণনা করেন। যুহরী (রহ.) হতে এ হাদীস বর্ণনায় মা‘মার (রহ.) সালিহ (রহ.)-এর অনুসরণ করেছেন। (৮৩) (আধুনিক প্রকাশনীঃ ১৬১৮(ক). ইসলামিক ফাউন্ডেশনঃ ১৬২৬
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘আমর ইবনুল ‘আস (রাঃ) হতে বর্ণিত তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর উটনীর উপর অবস্থান করছিলেন। অতঃপর হাদীসের শেষ পর্যন্ত বর্ণনা করেন। যুহরী (রহ.) হতে এ হাদীস বর্ণনায় মা‘মার (রহ.) সালিহ (রহ.)-এর অনুসরণ করেছেন। (৮৩) (আধুনিক প্রকাশনীঃ ১৬১৮(ক). ইসলামিক ফাউন্ডেশনঃ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1738</td></tr><tr><td>Arabic No</td><td>1738</td></tr><tr><td>Reference</td><td>Book 25 Hadith 216</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin 'Amr bin Al-'As:Allah's Messenger (ﷺ) stopped while on his she-camel (the sub-narrator then narrated the Hadith as above, i.e. 793)
+Narrated 'Abdullah bin 'Amr bin Al-'As:Allah's Messenger (ﷺ) stopped while on his she-camel (the sub-narrator then narrated the Hadith as above, i.e)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1738</td></tr><tr><td>Arabic No</td><td>1738</td></tr><tr><td>Reference</td><td>Book 25 Hadith 216</td></tr></tbody></table></div>
 

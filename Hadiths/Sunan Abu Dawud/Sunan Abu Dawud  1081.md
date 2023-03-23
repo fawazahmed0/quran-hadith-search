@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল হাসান ইবনে আলী (রাঃ) .... ইবনে উমর (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর শরীর বার্ধক্য এবং বয়োবৃদ্ধি জনিত কারণে ভারী হয়ে গেলে একদা তামীমুদ্‌দারী (রাঃ) তাঁকে বলেন, ইয়া রাসুলাল্লাহ! আমি কি আপনার জন্য একটি মিম্বর তৈরী করে দেব যার উপর আপনি বসতে পারবেন? তিনি বলেন: হ্যাঁ। ঐ সময় তাঁর জন্য দুই ধাপবিশিষ্ট একটি মিম্বর তৈরী করা হয়।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। (বয়োঃবৃদ্ধির কারণে) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর শরীর ভারী হয়ে গেলে তামীম আদ-দারী (রাঃ) তাঁকে বললেন, হে আল্লাহ রসূল! আমি কি আপনার জন্য একটা মিম্বার তৈরি করে দিবো না, যার উপর আপনার শরীরের ভার রাখবেন? তিনি বললেন, হ্যাঁ। কাজেই তিনি তাঁর জন্য দুই ধাপবিশিষ্ট একটি মিম্বার তৈরী করে দেয়া হয়।[1] সহীহ : বুখারী মু‘আল্লাক্ব ভাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1081</td></tr><tr><td>Arabic No</td><td>1081</td></tr><tr><td>Reference</td><td>Book 2 Hadith 692</td></tr></tbody></table></div>
 

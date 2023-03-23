@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনলু মুসান্না (রহঃ) ..... সাঈদ ইবনু যুবায়র (রাযিঃ) থেকে বর্ণিত। তিনি (মুযদালিফায়) মাগরিব ও ইশার সালাত (সালাত/নামাজ/নামায) এক ইকামাতে একই সাথে আদায় করেছেন। এরপর তিনি ইবনু উমার (রাযিঃ) সম্পর্কে বলেছেন যে, তিনিও অনুরূপভাবে সালাত আদায় করেছেন। আর ইবনু উমর (রাযিঃ) বর্ণনা করেছেন যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অনুরূপ করেছেন। (ইসলামিক ফাউন্ডেশন ২৯৭৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3112</td></tr><tr><td>Arabic No</td><td>1288.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 316</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தமது ஹஜ்ஜின்போது) முஸ்தலிஃபாவில் மஃக்ரிபையும் இஷாவையும் சேர்த்துத் தொழுதார்கள். அத்தியாயம் : 15
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தமது ஹஜ்ஜின்போது) முஸ்தலிஃபாவில் மஃக்ரிபையும் இஷாவையும் சேர்த்துத் தொழுதார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3112</td></tr><tr><td>Arabic No</td><td>1288.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 316</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাত তোমাদের জুতার ফিতার চেয়েও বেশি নিকটে আর জাহান্নামও সেই রকম।[1] (আধুনিক প্রকাশনী- ৬০৩৮, ইসলামিক ফাউন্ডেশন- ৬০৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাত তোমাদের জুতার ফিতার চেয়েও বেশি নিকটে আর জাহান্নামও সেই রকম।[1] (আধুনিক প্রকাশনী- ৬০৩৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6488</td></tr><tr><td>Arabic No</td><td>6488</td></tr><tr><td>Reference</td><td>Book 81 Hadith 77</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Musa bin Mas'ud] telah menceritakan kepada kami [Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கம் உங்களின் செருப்பு வாரைவிட உங்களுக்கு மிக அருகில் உள்ளது. நரகமும் அதைப் போன்றே (மிக அருகில் உள்ளது).77 இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 81
+நபி (ஸல்) அவர்கள் கூறினார்கள்: சொர்க்கம் உங்களின் செருப்பு வாரைவிட உங்களுக்கு மிக அருகில் உள்ளது. நரகமும் அதைப் போன்றே (மிக அருகில் உள்ளது).77 இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6488</td></tr><tr><td>Arabic No</td><td>6488</td></tr><tr><td>Reference</td><td>Book 81 Hadith 77</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭/৩৮৪৪। উমার (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আশ্রয় প্রার্থনা করতেন ভীরুতা, কাপুরুষতা, কার্পণ্য, অথর্বজনক বার্ধক্য, কবরের শাস্তি ও অন্তরের বিপর্যয় থেকে। ওয়াকী (রাঃ) বলেন, অন্তরের বিপর্যয়ের অর্থ হলো যে ব্যক্তি তার পথভ্রষ্টতা থেকে আল্লাহর নিকট ক্ষমা প্রার্থনা না করে মারা যায়।
+। উমার (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আশ্রয় প্রার্থনা করতেন ভীরুতা, কাপুরুষতা, কার্পণ্য, অথর্বজনক বার্ধক্য, কবরের শাস্তি ও অন্তরের বিপর্যয় থেকে। ওয়াকী (রাঃ) বলেন, অন্তরের বিপর্যয়ের অর্থ হলো যে ব্যক্তি তার পথভ্রষ্টতা থেকে আল্লাহর নিকট ক্ষমা প্রার্থনা না করে মারা যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3844</td></tr><tr><td>Arabic No</td><td>3844</td></tr><tr><td>Reference</td><td>Book 34 Hadith 18</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্বাস ইবন আবদুল আযীম মিলিত সনদে আল আদ্দা ইবন খালিদ (রাঃ) হতে পূর্বোক্ত হাদীসের অনুরূপ অর্থে হাদীস বর্ণনা করেছেন।
+। আবূ ‘আমর ‘আব্দুল মাজীদ (রহ.) সূত্রে বর্ণিত। তিনি আল-আদ্দাআ ইবনু খালিদ (রাযি.) থেকে এই সনদে পূর্বোক্ত হাদীসটির ভাবার্থে বর্ণনা করেছেন।[1] আমি এটি সহীহ এবং যঈফে পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1918</td></tr><tr><td>Arabic No</td><td>1918</td></tr><tr><td>Reference</td><td>Book 11 Hadith 198</td></tr></tbody></table></div>
 

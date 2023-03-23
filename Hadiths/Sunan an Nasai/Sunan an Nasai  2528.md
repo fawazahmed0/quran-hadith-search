@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+উবায়দুল্লাহ ইবন সাঈদ (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, এক দিরহাম এক লক্ষ দিরহাম এর উপর প্রাধান্য নিয়ে গেছে। সাহাবীগণ জিজ্ঞাসা করলেন, সেটা কিভাবে ইয়া রাসূলাল্লাহ! তিনি বললেন, এক ব্যক্তির শুধুমাত্র দু'টি দিরহামই রয়েছে সেখান থেকে সে একটি দিরহাম নিল এবং সাদাকা করে দিল, আর এক ব্যক্তির অগণিত মাল রয়েছে, সেখান থেকে সে এক লক্ষ দিরহাম নিল এবং দান করে দিল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2528</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 23 Hadith 94</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯২৫, আন্তর্জাতিক নাম্বারঃ ২৩১৯ ৫৯২৫-(.../...) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... জারীর (রাযিঃ) হতে আমাশের হাদীসের হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮২৪, ইসলামিক সেন্টার ৫৮৫৯)
+আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... জারীর (রাযিঃ) হতে আমাশের হাদীসের হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮২৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6031</td></tr><tr><td>Arabic No</td><td>2319.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 89</td></tr></tbody></table></div>
 

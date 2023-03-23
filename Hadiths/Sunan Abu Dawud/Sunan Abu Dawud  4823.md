@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... জাবির ইবন সামুরা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে প্রবেশ করে দেখতে পান যে, সাহাবীগণ বিভিন্ন ভাবে গোল হয়ে বসে রয়েছে। তখন তিনি বলেনঃ আমি তোমাদের বিক্ষিপ্তভাবে বসা অবস্থায় দেখছি কেন?
+। জাবির ইবনু সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, সাহাবীগণ বিক্ষিপ্তভাবে এক এক স্থানে কয়েকজন করে মসজিদের মধ্যে গোলাকার হয়ে বসা ছিলেন। এমন সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে প্রবেশ করে বললেন, আবার কি হলো, আমি যে তোমাদেরকে বিচ্ছিন্ন অবস্থায় দেখতে পাচ্ছি![1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Câbir İbn Semüre'den; demiştir ki: Rasûlullah (s.a.v.) bir gün mescide girdi. (Mescidde) cemaat (ayrı ayrı) halka(lar) halinde (oturuyorlardı. Bunun üzerine: Sizi niçin böyle dağınık halde görüyorum" buyurdu. Tahric edenler: Müslim, sala; Darimî, sala; Ahmed b: Hanbel, 11,377, 416, 526, 537, V,93, 101, 107)
+Câbir İbn Semüre'den; demiştir ki: Rasûlullah (s.a.v.) bir gün mescide girdi. (Mescidde) cemaat (ayrı ayrı) halka(lar) halinde (oturuyorlardı. Bunun üzerine: Sizi niçin böyle dağınık halde görüyorum" buyurdu. Tahric edenler: Müslim, sala; Darimî, sala; Ahmed b: Hanbel, 11,377, 416, 526, 537, V)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
 

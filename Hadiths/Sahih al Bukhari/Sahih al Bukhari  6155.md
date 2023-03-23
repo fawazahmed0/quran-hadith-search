@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তির পেট কবিতা দিয়ে ভরার চেয়ে এমন পুঁজে ভরা উত্তম, যা তোমাদের পেটকে ধ্বংস করে ফেলে। [মুসলিম পর্ব ৪১/হাঃ ২২৫৭, আহমাদ ১০২০১] (আধুনিক প্রকাশনী- ৫৭১৫, ইসলামিক ফাউন্ডেশন- ৫৬১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তির পেট কবিতা দিয়ে ভরার চেয়ে এমন পুঁজে ভরা উত্তম, যা তোমাদের পেটকে ধ্বংস করে ফেলে। [মুসলিম পর্ব ৪১/হাঃ ২২৫৭, আহমাদ ১০২০১] (আধুনিক প্রকাশনী- ৫৭১৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6155</td></tr><tr><td>Arabic No</td><td>6155</td></tr><tr><td>Reference</td><td>Book 78 Hadith 181</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதரின் வயிற்றில் புரையோடும் அளவுக்குச் சீழ் சலம் நிரம்பியிருப்பது, அது கவிதையால் நிரம்பியிருப்பதைவிட மேலானதாகும்.173 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதரின் வயிற்றில் புரையோடும் அளவுக்குச் சீழ் சலம் நிரம்பியிருப்பது, அது கவிதையால் நிரம்பியிருப்பதைவிட மேலானதாகும்.173 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6155</td></tr><tr><td>Arabic No</td><td>6155</td></tr><tr><td>Reference</td><td>Book 78 Hadith 181</td></tr></tbody></table></div>
 

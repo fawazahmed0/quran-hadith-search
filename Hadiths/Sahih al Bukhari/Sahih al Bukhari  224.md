@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুযাইফাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা গোত্রের ময়লা আবর্জনা ফেলার স্থানে আসলেন। তিনি সেখানে দাঁড়িয়ে পেশাব করলেন। অতঃপর পানি আনতে বললেন। আমি তাঁকে পানি এনে দিলে তিনি উযূ করলেন। (২২৫, ২২৬, ২৪৭১ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ২১৮, ইসলামিক ফাউন্ডেশনঃ ২২৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হুযাইফাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা গোত্রের ময়লা আবর্জনা ফেলার স্থানে আসলেন। তিনি সেখানে দাঁড়িয়ে পেশাব করলেন। অতঃপর পানি আনতে বললেন। আমি তাঁকে পানি এনে দিলে তিনি উযূ করলেন। (২২৫, ২২৬, ২৪৭১ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ২১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>224</td></tr><tr><td>Arabic No</td><td>224</td></tr><tr><td>Reference</td><td>Book 4 Hadith 90</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு சமூகத்தாரின் குப்பைக் குழிக்கு வந்து (அங்கு) நின்றுகொண்டு சிறுநீர் கழித்தார்கள். பிறகு தண்ணீர் கொண்டுவரச் சொன்னார்கள். நான் அவர்களுக்குத் தண்ணீர் கொண்டு வந்தேன். அதில் நபி (ஸல்) அவர்கள் அங்கத் தூய்மை செய்தார்கள். அத்தியாயம் : 4
+ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு சமூகத்தாரின் குப்பைக் குழிக்கு வந்து (அங்கு) நின்றுகொண்டு சிறுநீர் கழித்தார்கள். பிறகு தண்ணீர் கொண்டுவரச் சொன்னார்கள். நான் அவர்களுக்குத் தண்ணீர் கொண்டு வந்தேன். அதில் நபி (ஸல்) அவர்கள் அங்கத் தூய்மை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>224</td></tr><tr><td>Arabic No</td><td>224</td></tr><tr><td>Reference</td><td>Book 4 Hadith 90</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] d
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Huzeyfe radiyallahu anh şöyle demiştir: "Nebi (Sallallahu aleyhi ve Sellem) bir ailenin çöplüğüne geldi, ayakta idrarını yaptı. Sonra su istedi. Ben de O'na su getirdim, o da abdest aldı. Tekrar: 225, 226, 2471
+Huzeyfe radiyallahu anh şöyle demiştir: "Nebi (Sallallahu aleyhi ve Sellem) bir ailenin çöplüğüne geldi, ayakta idrarını yaptı. Sonra su istedi. Ben de O'na su getirdim, o da abdest aldı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>224</td></tr><tr><td>Arabic No</td><td>224</td></tr><tr><td>Reference</td><td>Book 4 Hadith 90</td></tr></tbody></table></div>
 

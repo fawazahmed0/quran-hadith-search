@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারিস ইবনু মিসকীন (রহ.) ..... ‘আবদুল্লাহ ইবনু উমার (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ (সা.) ও বলেছেন: মানুষের ফিত্বরাত হলো নখ কাটা, গোঁফ ছাঁটা এবং নাভীর নিচের লোম চেছে ফেলা। সহীহ: বুখারী ৫৮৯০, আবূ দাউদ ৪৩, ইবনু হিব্বান-এর “মাওয়ারিদ (৫/২৫) হাঃ ১৪৮২।
+। হারিস ইবনু মিসকীন (রহঃ) ... আবদুল্লাহ ইবনু উমর (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষের ফিতরাত হল নখ কাটা, গোঁফ ছাঁটা এবং নাভীর নিম্নভাগের লোম চেঁছে ফেলা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Arabic No</td><td>12</td></tr><tr><td>Reference</td><td>Book 1 Hadith 12</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Harits bin Miskin] telah dibacakan kepadanya dan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: yaratılış gereği yapması gereken işlerden bir bölümü şunlardır: Tırnak kesmek, bıyıkları kısaltmak ve etek tıraşı olmak.) İstizan: 51; Ebû Dâvûd, Tahara: 29
+İbn Ömer (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: yaratılış gereği yapması gereken işlerden bir bölümü şunlardır: Tırnak kesmek, bıyıkları kısaltmak ve etek tıraşı olmak.) İstizan: 51; Ebû Dâvûd, Tahara:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Arabic No</td><td>12</td></tr><tr><td>Reference</td><td>Book 1 Hadith 12</td></tr></tbody></table></div>
 

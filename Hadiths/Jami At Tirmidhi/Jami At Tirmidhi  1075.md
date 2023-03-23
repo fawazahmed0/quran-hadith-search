@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০৭৫। আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেনঃ হে আলী। তিনটি কাজে দেরি করবে না। নামায- যখন ওয়াক্ত হয়ে যায়; জানাযা— যখন উপস্থিত হয় এবং বিধবা-যখন তার যোগ্য পাত্র পাওয়া যায়। যঈফ,মিশকাত (১৪৮৬) আবূ ঈসা বলেন, এ হাদীসটি গরীব। আমরা এর সনদ পরস্পরসংযুক্ত আছে বলে মনে করি না।
+। আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেনঃ হে আলী। তিনটি কাজে দেরি করবে না। নামায- যখন ওয়াক্ত হয়ে যায়; জানাযা— যখন উপস্থিত হয় এবং বিধবা-যখন তার যোগ্য পাত্র পাওয়া যায়। যঈফ,মিশকাত (১৪৮৬) আবূ ঈসা বলেন, এ হাদীসটি গরীব। আমরা এর সনদ পরস্পরসংযুক্ত আছে বলে মনে করি না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1075</td></tr><tr><td>Arabic No</td><td>1075</td></tr><tr><td>Reference</td><td>Book 10 Hadith 111</td></tr></tbody></table></div>
 

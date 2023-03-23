@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩৪৭, আন্তর্জাতিক নাম্বারঃ ৬৪৬ ১৩৪৭-(২৩৪/...) উবায়দুল্লাহ ইবনু মুআয (রহঃ) ..... মুহাম্মাদ ইবনু আমর ইবনুল হাসান ইবনু আলী থেকে বর্ণিত। তিনি বলেন, হাজ্জাজ (ইবনু ইউসুফ) সালাত দেরী করে আদায় করতেন। তাই আমরা জাবির ইবনু আবদুল্লাহকে এ বিষয়ে জিজ্ঞেস করলাম। (ইসলামী ফাউন্ডেশন ১৩৩৪, ইসলামীক সেন্টার ১৩৪৬)
+উবায়দুল্লাহ ইবনু মুআয (রহঃ) ..... মুহাম্মাদ ইবনু আমর ইবনুল হাসান ইবনু আলী থেকে বর্ণিত। তিনি বলেন, হাজ্জাজ (ইবনু ইউসুফ) সালাত দেরী করে আদায় করতেন। তাই আমরা জাবির ইবনু আবদুল্লাহকে এ বিষয়ে জিজ্ঞেস করলাম। (ইসলামী ফাউন্ডেশন ১৩৩৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1461</td></tr><tr><td>Arabic No</td><td>646.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 294</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Muhammad b. 'Amr al-Hasan b. 'All reported:Hajjaj used to delay the prayers, and
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில், "ஹஜ்ஜாஜ் தொழுகைகளைத் தாமதப்படுத்திவந்தார். ஆகவே, நாங்கள் ஜாபிர் (ரலி) அவர்களிடம் (தொழுகை நேரம் குறித்துக்) கேட்டோம்" என ஹதீஸ் தொடங்குகிறது. அத்தியாயம் : 5
+மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில், "ஹஜ்ஜாஜ் தொழுகைகளைத் தாமதப்படுத்திவந்தார். ஆகவே, நாங்கள் ஜாபிர் (ரலி) அவர்களிடம் (தொழுகை நேரம் குறித்துக்) கேட்டோம்" என ஹதீஸ் தொடங்குகிறது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1461</td></tr><tr><td>Arabic No</td><td>646.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 294</td></tr></tbody></table></div>
 

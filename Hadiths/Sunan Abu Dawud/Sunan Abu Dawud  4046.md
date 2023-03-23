@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসা ইবনে ইসমাইল (রহঃ) .... ইব্রাহীম ইবনে আবদুল্লাহ (রহঃ) থেকে এরূপ বর্ণিত হয়েছে। তবে এতে এতটুকু অতিরিক্ত আছে যে, “আমি বলছি না যে, তিনি তোমাদের নিষেধ করেছেন।”
+। ইবরাহীম ইবনু আব্দুল্লাহ (রাঃ) সূত্রে এ হাদীস বর্ণিত। এতে আরো রয়েছেঃ ‘‘আমি এ কথা বলছি না যে, তিনি তোমাদেরকে তা নিষেধ করেছেন।’’[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4046</td></tr><tr><td>Arabic No</td><td>4046</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
 

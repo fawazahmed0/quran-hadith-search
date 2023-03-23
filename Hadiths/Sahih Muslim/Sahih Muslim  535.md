@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪২৩, আন্তর্জাতিক নাম্বারঃ ২২৪ ৪২৩-(.../২২৪) সাঈদ ইবনু মানসূর, কুতাইবাহ ইবনু সাঈদ ও আবূ কামিল আল জাহদারী (রহঃ) ..... মুসআব ইবনু সা'দ (রহঃ) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ ইবনু উমর (রাযিঃ) অসুস্থ ইবনু আমিরকে দেখতে গিয়েছিলেন। তখন ইবনু আমির তাকে বললেন, হে ইবনু উমার! আপনি কি আমার জন্যে আল্লাহর কাছে দু’আ করেন না? ইবনু উমার বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছি যে, তাহারাত ব্যতিরেকে সালাত কবুল হয় না। খিয়ানাতের সম্পদ থেকে সদাকাহও কবুল হয় না। আর তুমি তো ছিলে বাসরার শাসনকর্তা। (ইসলামিক ফাউন্ডেশনঃ ৪২৬, ইসলামিক সেন্টারঃ ৪৪২)
+সাঈদ ইবনু মানসূর, কুতাইবাহ ইবনু সাঈদ ও আবূ কামিল আল জাহদারী (রহঃ) ..... মুসআব ইবনু সা'দ (রহঃ) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ ইবনু উমর (রাযিঃ) অসুস্থ ইবনু আমিরকে দেখতে গিয়েছিলেন। তখন ইবনু আমির তাকে বললেন, হে ইবনু উমার! আপনি কি আমার জন্যে আল্লাহর কাছে দু’আ করেন না? ইবনু উমার বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছি যে, তাহারাত ব্যতিরেকে সালাত কবুল হয় না। খিয়ানাতের সম্পদ থেকে সদাকাহও কবুল হয় না। আর তুমি তো ছিলে বাসরার শাসনকর্তা। (ইসলামিক ফাউন্ডেশনঃ ৪২৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>535</td></tr><tr><td>Arabic No</td><td>224.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 2</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] sert
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Sa'id b. Mansur ile Kuteybetü'bnü Sa'id ve Ebu Kâmil el-Cahderî rivayet ettiler lâfız Sa'id'indir dediler ki: Bize Ebu Avane, Simâk b. Harb'den, o da Müs'ab b. Sa'id'dan naklen rivayet etti. Demiş ki: Abdullah b. Ömer hasta olan İbn Amir'i ziyaret etmek üzere yanına girdi. Ona: Ey İbn Ömer benim için Allah'a dua etmez misin, dedi. O: Ben Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim: "Abdestsiz bir namaz, ganimetten çalınan maldan da sadaka kabul olunmaz." Halbuki sen Basra'nın emiri idin,dedi. Diğer tahric: (Benzeri) Tirmizi, 273 (hno:1); (Benzeri) Ebu Davud (hno:59); (Benzeri) İbn-i Mace 272. Tuhfetu'l-Eşraf, 7457
+Bize Sa'id b. Mansur ile Kuteybetü'bnü Sa'id ve Ebu Kâmil el-Cahderî rivayet ettiler lâfız Sa'id'indir dediler ki: Bize Ebu Avane, Simâk b. Harb'den, o da Müs'ab b. Sa'id'dan naklen rivayet etti. Demiş ki: Abdullah b. Ömer hasta olan İbn Amir'i ziyaret etmek üzere yanına girdi. Ona: Ey İbn Ömer benim için Allah'a dua etmez misin, dedi. O: Ben Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim: "Abdestsiz bir namaz, ganimetten çalınan maldan da sadaka kabul olunmaz." Halbuki sen Basra'nın emiri idin,dedi. Diğer tahric: (Benzeri) Tirmizi, 273 (hno:1); (Benzeri) Ebu Davud (hno:59); (Benzeri) İbn-i Mace 272. Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>535</td></tr><tr><td>Arabic No</td><td>224.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 2</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১২১৯, আন্তর্জাতিক নাম্বারঃ ৫৮৮ ১২১৯-(১৩৩/...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কবর ও জাহান্নামের আযাব ও দাজ্জালের ফিতনা থেকে আশ্রয় চাইতেন। (ইসলামী ফাউন্ডেশন ১২০৮, ইসলামীক সেন্টার ১২১৯)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

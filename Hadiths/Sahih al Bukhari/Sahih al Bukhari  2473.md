@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন মালিকেরা রাস্তার ব্যাপারে পরস্পরে বিবাদ করল, তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাস্তার জন্য সাত হাত জমি ছেড়ে দেয়ার ফয়সালা দেন। (আধুনিক প্রকাশনীঃ ২২৯৪, ইসলামিক ফাউন্ডেশনঃ ২৩১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন মালিকেরা রাস্তার ব্যাপারে পরস্পরে বিবাদ করল, তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাস্তার জন্য সাত হাত জমি ছেড়ে দেয়ার ফয়সালা দেন। (আধুনিক প্রকাশনীঃ ২২৯৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2473</td></tr><tr><td>Arabic No</td><td>2473</td></tr><tr><td>Reference</td><td>Book 46 Hadith 34</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: பொதுப்பாதை தொடர்பாக மக்களி டையே சர்ச்சை எழுந்தபோது, ஏழு முழங் கள் இடம் (பாதைக்காக) ஒதுக்க வேண்டு மென்று நபி (ஸல்) அவர்கள் தீர்ப்பளித் தார்கள்.19 அத்தியாயம் : 46
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: பொதுப்பாதை தொடர்பாக மக்களி டையே சர்ச்சை எழுந்தபோது, ஏழு முழங் கள் இடம் (பாதைக்காக) ஒதுக்க வேண்டு மென்று நபி (ஸல்) அவர்கள் தீர்ப்பளித் தார்கள்.19 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2473</td></tr><tr><td>Arabic No</td><td>2473</td></tr><tr><td>Reference</td><td>Book 46 Hadith 34</td></tr></tbody></table></div>
 

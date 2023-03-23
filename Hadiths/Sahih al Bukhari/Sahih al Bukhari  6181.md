@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ বলেন, মানুষ কালকে গালি দেয়, অথচ আমিই কাল, (এর নিয়ন্ত্রণের মালিক)। একমাত্র আমারই হাতে রাত ও দিনের পরিবর্তন ঘটে। [৪৮২৬; মুসলিম ৪০/১, হাঃ ২২৪৬] (আধুনিক প্রকাশনী- ৫৭৩৯, ইসলামিক ফাউন্ডেশন- ৫৬৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ বলেন, মানুষ কালকে গালি দেয়, অথচ আমিই কাল, (এর নিয়ন্ত্রণের মালিক)। একমাত্র আমারই হাতে রাত ও দিনের পরিবর্তন ঘটে। [৪৮২৬; মুসলিম ৪০/১, হাঃ ২২৪৬] (আধুনিক প্রকাশনী- ৫৭৩৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6181</td></tr><tr><td>Arabic No</td><td>6181</td></tr><tr><td>Reference</td><td>Book 78 Hadith 205</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் கூறினான்: ஆதமின் மகன் (மனிதன்) காலத்தை ஏசுகிறான். நானே காலம் (படைத்தவன்). என் கையில்தான் இரவு பகல் (இயக்கம்) உள்ளது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.203 அத்தியாயம் : 78
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் கூறினான்: ஆதமின் மகன் (மனிதன்) காலத்தை ஏசுகிறான். நானே காலம் (படைத்தவன்). என் கையில்தான் இரவு பகல் (இயக்கம்) உள்ளது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.203 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6181</td></tr><tr><td>Arabic No</td><td>6181</td></tr><tr><td>Reference</td><td>Book 78 Hadith 205</td></tr></tbody></table></div>
 

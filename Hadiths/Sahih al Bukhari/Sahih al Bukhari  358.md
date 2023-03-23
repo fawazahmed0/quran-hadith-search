@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। এক ব্যক্তি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে একটি কাপড়ে সালাত আদায়ের মাসআলাহ জিজ্ঞেস করল। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উত্তরে বললেনঃ তোমাদের প্রত্যেকের কি দু’টি করে কাপড় আছে? (৩৬৫; মুসলিম ৪/৫২, হাঃ ৫১৫, আহমাদ ৭১৫২) (আধুনিক প্রকাশনীঃ ৩৪৫, ইসলামিক ফাউন্ডেশনঃ ৩৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। এক ব্যক্তি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে একটি কাপড়ে সালাত আদায়ের মাসআলাহ জিজ্ঞেস করল। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উত্তরে বললেনঃ তোমাদের প্রত্যেকের কি দু’টি করে কাপড় আছে? (৩৬৫; মুসলিম ৪/৫২, হাঃ ৫১৫, আহমাদ ৭১৫২) (আধুনিক প্রকাশনীঃ ৩৪৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 8 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ஒரே ஆடையை அணிந்துகொண்டு தொழுவது பற்றிக் கேட்டார். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “உங்களில் ஒவ்வொரு வருக்கும் இரண்டு ஆடைகள் உண்டா?” என்று (திருப்பிக்) கேட்டார்கள். அத்தியாயம் : 8
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ஒரே ஆடையை அணிந்துகொண்டு தொழுவது பற்றிக் கேட்டார். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “உங்களில் ஒவ்வொரு வருக்கும் இரண்டு ஆடைகள் உண்டா?” என்று (திருப்பிக்) கேட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 8 Hadith 10</td></tr></tbody></table></div>
 

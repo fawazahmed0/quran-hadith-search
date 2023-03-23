@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবন আলী (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উপরোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে। তবে এখানে অতিরিক্ত বর্ণিত হয়েছে যে, পকেটমারের শাস্তি হাত কাটা নয়। (কেননা সে প্রকাশ্যে মাল চুরি করে।)
+। জাবির (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে অনুরূপ হাদীস বর্ণিত। তাতে আরো রয়েছেঃ লুণ্ঠনকারীর হাত কাটা যাবে না। ইমাম আবূ দাঊদ (রহঃ) বলেন, ইবনু জুরাইজ উপরোক্ত হাদীসদ্বয় আবুয-যুবায়র থেকে শুনেননি। আমি আহমাদ ইবনু হাম্বাল (রহঃ) থেকে জেনেছি, তিনি বলেছেন, ইবনু জুরাইজ উপরোক্ত হাদীসদ্বয় ইয়াসীন আয-যাইয়াতের কাছে শুনেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, মুগীরাহ ইবনু মুসলিম হাদীসদ্বয় আবূ-যুবায়র (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে বর্ণনা করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 40 Hadith 43</td></tr></tbody></table></div>
 

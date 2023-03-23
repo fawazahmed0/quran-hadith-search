@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৩০। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, ঈদের মাঠে পায়ে হেটে যাওয়া এবং যাওয়ার আগে কিছু খাওয়া সুন্নাতের অন্তর্ভুক্ত। -হাসান। ইবনু মাজাহ– (১২৯৪-১২৯৭)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান। বেশিরভাগ বিদ্বান এ হাদীস অনুসারে আমল করেছেন। কোন অজুহাত না থাকলে যানবাহনে চড়ে না গিয়ে বরং ঈদের মাঠে হেঁটে যাওয়াকে তারা মুস্তাহাব বলেছেন। ঈদুল ফিতরের দিন ঈদগাহে যাওয়ার পূর্বে কিছু খাওয়া মুস্তাহাব।
+। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, ঈদের মাঠে পায়ে হেটে যাওয়া এবং যাওয়ার আগে কিছু খাওয়া সুন্নাতের অন্তর্ভুক্ত। -হাসান। ইবনু মাজাহ– (১২৯৪-১২৯৭)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান। বেশিরভাগ বিদ্বান এ হাদীস অনুসারে আমল করেছেন। কোন অজুহাত না থাকলে যানবাহনে চড়ে না গিয়ে বরং ঈদের মাঠে হেঁটে যাওয়াকে তারা মুস্তাহাব বলেছেন। ঈদুল ফিতরের দিন ঈদগাহে যাওয়ার পূর্বে কিছু খাওয়া মুস্তাহাব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>530</td></tr><tr><td>Arabic No</td><td>530</td></tr><tr><td>Reference</td><td>Book 5 Hadith 1</td></tr></tbody></table></div>
 

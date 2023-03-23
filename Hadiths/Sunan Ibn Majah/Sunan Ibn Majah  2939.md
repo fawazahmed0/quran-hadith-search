@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৯৩৯। আবদুল্লাহ ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, আম্বিয়া-ই কিরাম (আ) হেরেমের এলাকায় পদব্রজে ও নগ্নপদে প্রবেশ করতেন এবং রায়তুল্লাহ তাওয়াফসহ হজ্জের যাবতীয় অনুষ্ঠান নগ্নপদে ও পদব্রজে সমাপন করতেন।
+। আবদুল্লাহ ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, আম্বিয়া-ই কিরাম (আ) হেরেমের এলাকায় পদব্রজে ও নগ্নপদে প্রবেশ করতেন এবং রায়তুল্লাহ তাওয়াফসহ হজ্জের যাবতীয় অনুষ্ঠান নগ্নপদে ও পদব্রজে সমাপন করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2939</td></tr><tr><td>Arabic No</td><td>2939</td></tr><tr><td>Reference</td><td>Book 25 Hadith 58</td></tr></tbody></table></div>
 

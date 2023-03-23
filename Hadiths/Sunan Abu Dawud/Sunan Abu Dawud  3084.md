@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা'ঈদ ইবন মানসূর (রহঃ) ..... সা'ব ইবন জাছছামা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম 'নাকী' নামক স্থানে চারণভূমি তৈরী করে বলেছিলেনঃ চারণভূমি কেবল মহান আল্লাহ্‌র-ই (এতে আর কারো মালিকানা নেই)।
+। আস-সা‘ব ইবনু জাসসামাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আন-নাকী’ নাম চারণভূমি সংরক্ষণ করেছিলেন। তিনি বলেছেনঃ চারণভূমি সংরক্ষণ করার অধিকার মহান আল্লাহ ব্যতীত অন্য কারো নেই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>3084</td></tr><tr><td>Reference</td><td>Book 20 Hadith 157</td></tr></tbody></table></div>
 

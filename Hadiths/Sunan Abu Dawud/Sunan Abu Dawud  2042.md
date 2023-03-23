@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ্ (রহঃ) ..... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন যে, তোমরা তেমাদের গৃহকে কবরে (অর্থাৎ আল্লাহর যিকর বা নামায হতে খালি) পরিণত করো না। আর তোমরা আমার কবরকে ঈদের স্থানে পরিণত করো না। বরং তোমরা আমার উপর সালাম পেশ করবে। কেননা তোমরা যেখানেই থাকো না কেন, তোমাদের সালাত ও সালাম আমার নিকট পৌঁছে থাকে।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের ঘরগুলোকে কবরস্থানে পরিণত করো না এবং আমার কবরকে উৎসবের স্থানে পরিণত করো না। তোমরা আমার উপর দরূদ পাঠ করো। তোমরা যেখানেই থাকো না কেন তোমাদের দরূদ আমার কাছে পৌঁছানো হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2042</td></tr><tr><td>Arabic No</td><td>2042</td></tr><tr><td>Reference</td><td>Book 11 Hadith 322</td></tr></tbody></table></div>
 

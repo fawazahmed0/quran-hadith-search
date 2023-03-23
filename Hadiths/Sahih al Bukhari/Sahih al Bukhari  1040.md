@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকরাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট ছিলাম, এ সময় সূর্যগ্রহণ শুরু হয়। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তখন উঠে দাঁড়ালেন এবং নিজের চাদর টানতে টানতে মসজিদে প্রবেশ করলেন এবং আমরাও প্রবেশ করলাম। তিনি আমাদেরকে নিয়ে সূর্য প্রকাশিত হওয়া পর্যন্ত দু’রাক‘আত সালাত আদায় করলেন। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ কারো মৃত্যুর কারণে কখনো সূর্যগ্রহণ বা চন্দ্রগ্রহণ হয় না। তোমরা যখন সূর্যগ্রহণ দেখবে তখন এ অবস্থা দূর না হওয়া পর্যন্ত সালাত আদায় করবে এবং দু‘আ করতে থাকবে। (১০৪৮,১০৬২, ১০৬৩, ৫৭৮৫) (আধুনিক প্রকাশনীঃ ৯৭৭, ইসলামিক ফাউন্ডেশনঃ ৯৮৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বাকরাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট ছিলাম, এ সময় সূর্যগ্রহণ শুরু হয়। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তখন উঠে দাঁড়ালেন এবং নিজের চাদর টানতে টানতে মসজিদে প্রবেশ করলেন এবং আমরাও প্রবেশ করলাম। তিনি আমাদেরকে নিয়ে সূর্য প্রকাশিত হওয়া পর্যন্ত দু’রাক‘আত সালাত আদায় করলেন। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ কারো মৃত্যুর কারণে কখনো সূর্যগ্রহণ বা চন্দ্রগ্রহণ হয় না। তোমরা যখন সূর্যগ্রহণ দেখবে তখন এ অবস্থা দূর না হওয়া পর্যন্ত সালাত আদায় করবে এবং দু‘আ করতে থাকবে। (১০৪৮,১০৬২, ১০৬৩, ৫৭৮৫) (আধুনিক প্রকাশনীঃ ৯৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 16 Hadith 1</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin 'Aun] berkata, telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூபக்ரா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் இருந்துகொண்டிருந்தோம். அப்போது சூரிய கிரகணம் ஏற்பட்டது. உடனே நபி (ஸல்) அவர்கள் எழுந்து தமது மேலாடையை இழுத்துக்கொண்டே பள்ளிவாசலுக்குள் சென்றார்கள். நாங்க ளும் சென்றோம். (கிரகணம் விலகி) வெளிச்சம் வரும்வரை எங்களுக்கு இரண்டு ரக்அத்கள் தொழுவித்தார்கள். பிறகு, “யாருடைய இறப்புக்காகவும் சூரிய கிரகணமோ சந்திர கிரகணமோ ஏற்படுவதில்லை. எனவே, அவற்றை நீங்கள் கண்டால், உங்களுக்கு ஏற்பட்ட (கிரகணமான)து அகற்றப்படும்வரை நீங்கள் தொழுங்கள்; பிரார்த்தியுங்கள்” என்று கூறினார்கள். அத்தியாயம் : 16
+அபூபக்ரா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் இருந்துகொண்டிருந்தோம். அப்போது சூரிய கிரகணம் ஏற்பட்டது. உடனே நபி (ஸல்) அவர்கள் எழுந்து தமது மேலாடையை இழுத்துக்கொண்டே பள்ளிவாசலுக்குள் சென்றார்கள். நாங்க ளும் சென்றோம். (கிரகணம் விலகி) வெளிச்சம் வரும்வரை எங்களுக்கு இரண்டு ரக்அத்கள் தொழுவித்தார்கள். பிறகு, “யாருடைய இறப்புக்காகவும் சூரிய கிரகணமோ சந்திர கிரகணமோ ஏற்படுவதில்லை. எனவே, அவற்றை நீங்கள் கண்டால், உங்களுக்கு ஏற்பட்ட (கிரகணமான)து அகற்றப்படும்வரை நீங்கள் தொழுங்கள்; பிரார்த்தியுங்கள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 16 Hadith 1</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Amru bin 'Aun] berkata, telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Bekre'nin şöyle dediği nakledilmiştir: "Biz Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in yanında iken güneş tutulması oldu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem omuzuna attığı ridasını sürüyerek mescide girdi ve biz de onu takip ederek mescid'e gittik. Bize orada güneş geri açılana kadar iki rekat namaz kıldırdı ve şöyle buyurdu; "Güneş ve ay hiç kimsenin ölümü dolayısıyla tutulmaz. Siz bunların tutulduğunu görürseniz tekrar açılana kadar namaz kılın ve dua edin! Tekrar: 1048, 1062, 1063, 5785
+Ebu Bekre'nin şöyle dediği nakledilmiştir: "Biz Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in yanında iken güneş tutulması oldu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem omuzuna attığı ridasını sürüyerek mescide girdi ve biz de onu takip ederek mescid'e gittik. Bize orada güneş geri açılana kadar iki rekat namaz kıldırdı ve şöyle buyurdu; "Güneş ve ay hiç kimsenin ölümü dolayısıyla tutulmaz. Siz bunların tutulduğunu görürseniz tekrar açılana kadar namaz kılın ve dua edin! Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 16 Hadith 1</td></tr></tbody></table></div>
 

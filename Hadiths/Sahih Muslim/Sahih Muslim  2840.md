@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৭৩০, আন্তর্জাতিক নাম্বারঃ ১১৯০ ২৭৩০-(.../...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... হাসান ইবনু উবায়দুল্লাহ (রহঃ) থেকে এ সানাদে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৭০৭, ইসলামীক সেন্টার ২৭০৬)
+ইসহাক ইবনু ইবরাহীম (রহঃ) ..... হাসান ইবনু উবায়দুল্লাহ (রহঃ) থেকে এ সানাদে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৭০৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2840</td></tr><tr><td>Arabic No</td><td>1190.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 50</td></tr></tbody></table></div>
 

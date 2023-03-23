@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৪২৯। আবদুর রহমান ইবনু শিবল (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তিনটি কাজ করতে নিষেধ করেছেন: সালাতের সিজদায় কাকের মত ঠোকর মারতে, হিংস্র জন্তুর ন্যায় বাহুদ্বয় যমীনের উপর বিছিয়ে দিতে এবং (মসজিদে) কোন লোকের সালাত (নামায/নামাজ) পড়ার স্থান নির্দিষ্ট করে নিতে, যেমন উট আস্তাবলে স্থান নির্দিষ্ট করে নেয়।
+। আবদুর রহমান ইবনু শিবল (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তিনটি কাজ করতে নিষেধ করেছেন: সালাতের সিজদায় কাকের মত ঠোকর মারতে, হিংস্র জন্তুর ন্যায় বাহুদ্বয় যমীনের উপর বিছিয়ে দিতে এবং (মসজিদে) কোন লোকের সালাত (নামায/নামাজ) পড়ার স্থান নির্দিষ্ট করে নিতে, যেমন উট আস্তাবলে স্থান নির্দিষ্ট করে নেয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1429</td></tr><tr><td>Arabic No</td><td>1429</td></tr><tr><td>Reference</td><td>Book 5 Hadith 627</td></tr></tbody></table></div>
 

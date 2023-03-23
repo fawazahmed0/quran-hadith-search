@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩৮৭। ইবনুল ফিরাসী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি শিকারে যেতাম এবং আমার একটি পানির মশক ছিল, তাতে (পানের) পানি নিতাম এবং সমুদ্রের পানি দ্বারা উযূ (ওজু/অজু/অযু) করতাম। আমি বিষয়টি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাছে উত্থাপন করলাম। তিনি বলেনঃ তার পানি পবিত্র এবং তার মৃত প্রাণীও হালাল।
+। ইবনুল ফিরাসী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি শিকারে যেতাম এবং আমার একটি পানির মশক ছিল, তাতে (পানের) পানি নিতাম এবং সমুদ্রের পানি দ্বারা উযূ (ওজু/অজু/অযু) করতাম। আমি বিষয়টি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাছে উত্থাপন করলাম। তিনি বলেনঃ তার পানি পবিত্র এবং তার মৃত প্রাণীও হালাল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>387</td></tr><tr><td>Arabic No</td><td>387</td></tr><tr><td>Reference</td><td>Book 1 Hadith 121</td></tr></tbody></table></div>
 

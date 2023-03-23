@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উরওয়াহ ‘আয়িশাহ (রাযি.) হতে অতিরিক্ত বর্ণনা করেন যে, তিনি বলেছেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দেখলাম এমতাবস্থায় হাবশীরা তাদের বর্শা বল্লম নিয়ে খেলা করছিল। (৪৫৪; মুসলিম ৮/৪, হাঃ ৮৯২, আহমাদ ২৬৩৮৮, ২৪৫৯৫) (আধুনিক প্রকাশনীঃ ৪৩৫ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৪৪১ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>454</td></tr><tr><td>Arabic No</td><td>454</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah mence
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Aişe'den şöyle nakledilmiştir: "Bir gün Allah Resûlü Sallallahu Aleyhi ve Sellem'in odamın kapısının önüne geldiğini gördüm. O esnada Habeşliler Mescİd-i Nebevî'de oyun oynuyorlardı. Bu sırada Resulullah Sallallahu Aleyhi ve Sellem oyunlarını izlemem için ridasıyla beni perdeliyordu. Tekrar: 455, 950, 988, 2906, 3529, 3931, 5190, 5236
+Hz. Aişe'den şöyle nakledilmiştir: "Bir gün Allah Resûlü Sallallahu Aleyhi ve Sellem'in odamın kapısının önüne geldiğini gördüm. O esnada Habeşliler Mescİd-i Nebevî'de oyun oynuyorlardı. Bu sırada Resulullah Sallallahu Aleyhi ve Sellem oyunlarını izlemem için ridasıyla beni perdeliyordu. Tekrar: 455, 950, 988
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>454</td></tr><tr><td>Arabic No</td><td>454</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

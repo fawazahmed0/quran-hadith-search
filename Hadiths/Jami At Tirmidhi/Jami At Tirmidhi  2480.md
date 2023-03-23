@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৪৮০। ইবরাহীম নাখঈ হতে বর্ণিত, তিনি বলেনঃ দালান কোঠা সবই বিপদের কারণ। আবূ হামযা বলেনঃ আমি প্রশ্ন করলাম যা না হইলেই নয় সে সম্পর্কে আপনার অভিমত কি? তিনি বললেনঃ এতে সাওয়াবও নেই, গোনাহও নেই। দুর্বল সনদ, বিচ্ছিন্ন।
+। ইবরাহীম নাখঈ হতে বর্ণিত, তিনি বলেনঃ দালান কোঠা সবই বিপদের কারণ। আবূ হামযা বলেনঃ আমি প্রশ্ন করলাম যা না হইলেই নয় সে সম্পর্কে আপনার অভিমত কি? তিনি বললেনঃ এতে সাওয়াবও নেই, গোনাহও নেই। দুর্বল সনদ, বিচ্ছিন্ন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2480</td></tr><tr><td>Arabic No</td><td>2480</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
 

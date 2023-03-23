@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কামিল ...... ইকরিমা (রহঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে পূর্বোক্ত হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, ইকরিমা (রহঃ) ইবন আব্বাস (রাঃ) হতে, তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে পূর্বোক্ত হাদীসের অর্থে হাদীস বর্ণনা করেছেন।
+। আল-হাকাম ইবনু আবান (রহ.) থেকে এই সনদে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। বর্ণনাকারী এই সনদে ইবনু ‘আব্বাস (রাযি.)-এর নাম উল্লেখ করেননি। ইমাম আবূ দাঊদ (রহ.) বলেন, ইবনু মূসা মা‘মার থেকে ... ইকরিমাহর মাধ্যমে ইবনু ‘আব্বাস (রাযি.) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2225</td></tr><tr><td>Arabic No</td><td>2225</td></tr><tr><td>Reference</td><td>Book 13 Hadith 51</td></tr></tbody></table></div>
 

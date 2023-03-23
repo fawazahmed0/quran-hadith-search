@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যিয়াদ ইবন আইউব (রহঃ) .... ইয়া'লা ইবন উমাইয়া (রহঃ) উপরোক্ত হাদীছের অনুরুপ বর্ণনা করেছেন। তিনি এরূপ অতিরিক্ত বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যারা দাঁত দিয়ে কাঁমড়ায় তাদের সম্পর্কে বলেছেনঃ যদি তুমি চাও, তবে এরূপ হতে পারে যে, তুমি তোমার হাত তার মুখের মধ্যে দেবে, যাতে সে কাঁমড়াতে পারে। এরপর তুমি তোমার হাত তার মুখ থেকে টেনে নেবে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সে ব্যক্তির দাঁতের জন্য কোন দিয়াত প্রদান করেননি।
+। ইয়ালা ইবনু উমাইয়্যাহ (রহঃ) সূত্রে অনুরূপ বর্ণিত। এতে আরো আছেঃ অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমার ইচ্ছে হলে তুমিও তার মুখে হাত দাও আর সে চিবাতে থাকুক। তারপর তুমি তার মুখ থেকে হাত বের করে আনো। অতঃপর তিনি তার দাঁতের দিয়াতের দাবী বাতিল করেন।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4585</td></tr><tr><td>Arabic No</td><td>4585</td></tr><tr><td>Reference</td><td>Book 41 Hadith 92</td></tr></tbody></table></div>
 

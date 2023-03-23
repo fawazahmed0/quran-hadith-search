@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... কাতাদা (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন নতুন চাঁদ দেখতেন, তখন এ দু'আ পাঠ করতেনঃ এ চাঁদ উত্তম এবং পথ প্রদর্শক, এ চাঁদ উত্তম এবং পথ প্রদর্শক, এ চাঁদ উত্তম এবং হিদায়াত। আমি তাঁর উপর ঈমান এনেছি, যিনি তোমাকে সৃষ্টি করেছেন। তিনি তিনবার এ দু'আ পাঠের পর বলতেনঃ সমস্ত প্রশংসা সে আল্লাহ্‌র, যিনি অমুক মাস নিয়ে গেছেন এবং এমাস এনেছেন।
+। কাতাদাহ (রহঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নতুন চাঁদ দেখে বলতেনঃ ‘‘কল্যাণ ও হেদায়াতের চাঁদ, কল্যাণ ও হেদায়াতের চাঁদ, কল্যাণ ও হেদায়াতের চাঁদ। যিনি তোমাকে সৃষ্টি করেছেন আমি তাঁর উপর ঈমান আনলাম।’’ একথা তিনবার বলতেন, অতঃপর বলতেনঃ আল্লাহর প্রশংসা যিনি অমুক মাস শেষ করলেন এবং এ মাস এনে দিলেন।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5092</td></tr><tr><td>Arabic No</td><td>5092</td></tr><tr><td>Reference</td><td>Book 43 Hadith 320</td></tr></tbody></table></div>
 

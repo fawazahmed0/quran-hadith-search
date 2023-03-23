@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩, আন্তর্জাতিক নাম্বারঃ ৩ (৩/...) মুহাম্মাদ ইবনু উবায়দ আল গুবারী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যে ব্যক্তি ইচ্ছা করে আমার প্রতি মিথ্যারোপ করে সে যেন জাহান্নামে তার বাসস্থান নির্ধারণ করে নেয়।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4</td></tr><tr><td>Reference</td><td>Book 0 Hadith 4</td></tr></tbody></table></div>
 

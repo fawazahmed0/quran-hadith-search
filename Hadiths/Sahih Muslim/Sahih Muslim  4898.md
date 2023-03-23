@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭৯২, আন্তর্জাতিক নাম্বারঃ ১৮৯২ ৪৭৯২-(.../...) আবূ বাকর ইবনু আবূ শাইবাহ ও বিশর ইবনু খালিদ (রহঃ) ..... আ'মাশ (রহঃ) হতে উক্ত সানাদে বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৭৪৫, ইসলামিক সেন্টার ৪৭৪৬)
+আবূ বাকর ইবনু আবূ শাইবাহ ও বিশর ইবনু খালিদ (রহঃ) ..... আ'মাশ (রহঃ) হতে উক্ত সানাদে বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৭৪৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4898</td></tr><tr><td>Arabic No</td><td>1892.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 194</td></tr></tbody></table></div>
 

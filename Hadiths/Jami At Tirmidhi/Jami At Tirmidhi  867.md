@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮৬৭। আইয়ূব সাখতিয়ানী (রাহঃ) হতে বর্ণিত আছে, তিনি বলেন, আবদুল্লাহ ইবনু সাঈদ ইবনু জুবাইরকে মুহাদ্দিসগণ তার পিতা সাঈদ ইবনু জুবাইর হতেও উত্তম গণ্য করতেন। তার এক ভাই ছিল, যার নাম আবদুল মালিক ইবনু সাঈদ ইবনু জুবাইর। তার নিকট হতেও মুহাদ্দিসগণ হাদীস বর্ণনা করেছেন। — সনদ সহীহ
+। আইয়ূব সাখতিয়ানী (রাহঃ) হতে বর্ণিত আছে, তিনি বলেন, আবদুল্লাহ ইবনু সাঈদ ইবনু জুবাইরকে মুহাদ্দিসগণ তার পিতা সাঈদ ইবনু জুবাইর হতেও উত্তম গণ্য করতেন। তার এক ভাই ছিল, যার নাম আবদুল মালিক ইবনু সাঈদ ইবনু জুবাইর। তার নিকট হতেও মুহাদ্দিসগণ হাদীস বর্ণনা করেছেন। — সনদ সহীহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 9 Hadith 60</td></tr></tbody></table></div>
 

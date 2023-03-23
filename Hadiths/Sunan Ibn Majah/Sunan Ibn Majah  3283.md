@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩২৮৩। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খাবার শেষ করে বলতেনঃ (الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ) ‘‘আলহামদু লিল্লাহিল্লাযী আত‘আমানা ওয়া সাকানা ওয়া জাআলানা মিনাল মুসলিমীন’’ (সমস্ত প্রশংসা আল্লাহর জন্য যিনি আমাদের আহার করিয়েছেন, পান করিয়েছেন এবং মুসলিম বানিয়েছেন)।
+। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খাবার শেষ করে বলতেনঃ (الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ) ‘‘আলহামদু লিল্লাহিল্লাযী আত‘আমানা ওয়া সাকানা ওয়া জাআলানা মিনাল মুসলিমীন’’ (সমস্ত প্রশংসা আল্লাহর জন্য যিনি আমাদের আহার করিয়েছেন, পান করিয়েছেন এবং মুসলিম বানিয়েছেন)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3283</td></tr><tr><td>Arabic No</td><td>3283</td></tr><tr><td>Reference</td><td>Book 29 Hadith 33</td></tr></tbody></table></div>
 

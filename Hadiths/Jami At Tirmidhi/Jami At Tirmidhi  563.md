@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৬৩। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম সূর্য বা চন্দ্র গ্রহণের নামায আদায় করলেন এবং তাতে সুস্পষ্ট আওয়াজে কিরা'আত পাঠ করলেন। —সহীহ। সহীহ আবু দাউদ- (১০৭৪), বুখারী ও মুসলিম। আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ। আবু ইসহাক আল-ফাযারী হতে সুফিয়ান ইবনু হুসাইনের সূত্রেও একইভাবে হাদীস বর্ণিত আছে। ইমাম মালিক, আহমাদ ও ইসহাক সুস্পষ্ট স্বরে কিরা'আত পাঠের সমর্থক।
+। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু 'আলাইহি ওয়াসাল্লাম সূর্য বা চন্দ্র গ্রহণের নামায আদায় করলেন এবং তাতে সুস্পষ্ট আওয়াজে কিরা'আত পাঠ করলেন। —সহীহ। সহীহ আবু দাউদ- (১০৭৪), বুখারী ও মুসলিম। আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ। আবু ইসহাক আল-ফাযারী হতে সুফিয়ান ইবনু হুসাইনের সূত্রেও একইভাবে হাদীস বর্ণিত আছে। ইমাম মালিক, আহমাদ ও ইসহাক সুস্পষ্ট স্বরে কিরা'আত পাঠের সমর্থক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>563</td></tr><tr><td>Arabic No</td><td>563</td></tr><tr><td>Reference</td><td>Book 6 Hadith 20</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৬৬১। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতে বসবাসকারীদের মধ্যে শহীদ ব্যক্তি ব্যতীত আর কেউই পৃথিবীতে ফিরে আসার উৎসাহ বোধ করবে না। শহীদ ব্যক্তিই আবার পৃথিবীতে ফিরে আসতে চাইবে। আল্লাহ তা'আলা তাকে যেসব নিয়ামাত ও মর্যাদা দিবেন তা দেখে সে বলবে, আমি দশবার আল্লাহর রাস্তায় নিহত হব। সহীহ, নাসা-ঈ এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতে বসবাসকারীদের মধ্যে শহীদ ব্যক্তি ব্যতীত আর কেউই পৃথিবীতে ফিরে আসার উৎসাহ বোধ করবে না। শহীদ ব্যক্তিই আবার পৃথিবীতে ফিরে আসতে চাইবে। আল্লাহ তা'আলা তাকে যেসব নিয়ামাত ও মর্যাদা দিবেন তা দেখে সে বলবে, আমি দশবার আল্লাহর রাস্তায় নিহত হব। সহীহ, নাসা-ঈ এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1661</td></tr><tr><td>Arabic No</td><td>1661</td></tr><tr><td>Reference</td><td>Book 22 Hadith 44</td></tr></tbody></table></div>
 

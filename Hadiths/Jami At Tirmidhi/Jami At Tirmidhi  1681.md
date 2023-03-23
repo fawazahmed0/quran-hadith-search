@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৬৮১। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের রাইয়াহ (বড় পতাকা) ছিল কালো রং-এর এবং লিওয়া (ছোট পতাকা) ছিল সাদা রং-এর। হাসান, ইবনু মা-জাহ (২৮১৮) আবূ ঈসা বলেন, এ হাদীসটি উল্লেখিত সনদসূত্রে ইবনু আব্বাস (রাঃ)-এর বর্ণনা হিসাবে হাসান গারীব।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের রাইয়াহ (বড় পতাকা) ছিল কালো রং-এর এবং লিওয়া (ছোট পতাকা) ছিল সাদা রং-এর। হাসান, ইবনু মা-জাহ (২৮১৮) আবূ ঈসা বলেন, এ হাদীসটি উল্লেখিত সনদসূত্রে ইবনু আব্বাস (রাঃ)-এর বর্ণনা হিসাবে হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1681</td></tr><tr><td>Arabic No</td><td>1681</td></tr><tr><td>Reference</td><td>Book 23 Hadith 12</td></tr></tbody></table></div>
 

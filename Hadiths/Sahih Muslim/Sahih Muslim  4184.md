@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪০৭৬, আন্তর্জাতিক নাম্বারঃ ১৬২৩ ৪০৭৬-(১৬/...) ইসহাক ইবনু ইবরাহীম (রহঃ) ... নু'মান ইবনু বাশীর (রাযিঃ) হতে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার পিতাকে বললেন, আমাকে অন্যায় কাজের ব্যাপারে সাক্ষী রেখো না। (ইসলামিক ফাউন্ডেশন ৪০৩৯, ইসলামিক সেন্টার ৪০৩৮)
+ইসহাক ইবনু ইবরাহীম (রহঃ) ... নু'মান ইবনু বাশীর (রাযিঃ) হতে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার পিতাকে বললেন, আমাকে অন্যায় কাজের ব্যাপারে সাক্ষী রেখো না। (ইসলামিক ফাউন্ডেশন ৪০৩৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4184</td></tr><tr><td>Arabic No</td><td>1623.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 22</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நுஅமான் பின் பஷீர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என் தந்தையிடம், "என்னை அநீதிக்குச் சாட்சியாக்காதீர்" என்று கூறினார்கள். அத்தியாயம் : 24
+நுஅமான் பின் பஷீர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என் தந்தையிடம், "என்னை அநீதிக்குச் சாட்சியாக்காதீர்" என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4184</td></tr><tr><td>Arabic No</td><td>1623.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 22</td></tr></tbody></table></div>
 

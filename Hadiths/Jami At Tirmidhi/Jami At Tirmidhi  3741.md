@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৪১। আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত, তিনি বলেনঃ আমার কান রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের মুখে বলতে শুনেছেঃ তালহা ও যুবাইর দু’জনই জান্নাতে আমার প্রতিবেশী। যঈফ, মিশকাত (৬১২৩), যঈফা (২৩১১) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। আমরা শুধু উপরোক্ত সূত্রে এ হাদীস জেনেছি।
+। আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত, তিনি বলেনঃ আমার কান রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের মুখে বলতে শুনেছেঃ তালহা ও যুবাইর দু’জনই জান্নাতে আমার প্রতিবেশী। যঈফ, মিশকাত (৬১১৪), যঈফা (২৩১১) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। আমরা শুধু উপরোক্ত সূত্রে এ হাদীস জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3741</td></tr><tr><td>Arabic No</td><td>3741</td></tr><tr><td>Reference</td><td>Book 49 Hadith 138</td></tr></tbody></table></div>
 

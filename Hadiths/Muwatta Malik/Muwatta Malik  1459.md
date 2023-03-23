@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৫. হিশাম ইবন উরওয়া (রহঃ) তাহার পিতা হইতে বর্ণনা করেন যে, এক নপুংসক ব্যক্তি উম্মুল মু'মিনীন উম্মু সালমার নিকট বসা ছিল। সে আবদুল্লাহ্ ইবন আবু উমাইয়াকে বলিতেছিল, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামও তাহার কথা শুনিতেছিলেন; যদি আল্লাহ্ তা'আলা তায়েফে তোমাদিগকে বিজয়ী করেন আগামীকাল, তবে তুমি গাইলানের মেয়েকে নিশ্চয় গ্রহণ করিবে। কারণ যখন সে সম্মুখ দিয়া আসে তখন তাহার পেটে চারিটি (ভাজ) থাকে আর যখন প্রস্থান করে তখন আটটি ভাজ লইয়া প্রস্থান করে। (শুনিয়া) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিলেনঃ এই সকল লোক যেন তোমাদের নিকট আর না আসে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1459</td></tr><tr><td>Arabic No</td><td>1459</td></tr><tr><td>Reference</td><td>Book 37 Hadith 5</td></tr></tbody></table></div>
 

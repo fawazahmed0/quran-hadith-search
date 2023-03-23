@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রতি শনিবার কুবা মসজিদে আসতেন, কখনো পদব্রজে, কখনো সওয়ারীতে। ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.)-ও ঐরূপ করতেন। (১১৯১) (আধুনিক প্রকাশনীঃ ১১১৫, ইসলামিক ফাউন্ডেশনঃ ১১১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রতি শনিবার কুবা মসজিদে আসতেন, কখনো পদব্রজে, কখনো সওয়ারীতে। ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.)-ও ঐরূপ করতেন। (১১৯১) (আধুনিক প্রকাশনীঃ ১১১৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 20 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: “நபி (ஸல்) அவர்கள் ஒவ்வொரு சனிக்கிழமையும் ‘குபா’ பள்ளிவாசலுக்கு நடந்தும் ஊர்தியிலும் வருவார்கள்” என இப்னு உமர் (ரலி) அவர்கள் கூறினார்கள். இவ்வாறே இப்னு உமர் (ரலி) அவர்களும் செய்வார்கள். அத்தியாயம் : 20
+அப்துல்லாஹ் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: “நபி (ஸல்) அவர்கள் ஒவ்வொரு சனிக்கிழமையும் ‘குபா’ பள்ளிவாசலுக்கு நடந்தும் ஊர்தியிலும் வருவார்கள்” என இப்னு உமர் (ரலி) அவர்கள் கூறினார்கள். இவ்வாறே இப்னு உமர் (ரலி) அவர்களும் செய்வார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 20 Hadith 5</td></tr></tbody></table></div>
 

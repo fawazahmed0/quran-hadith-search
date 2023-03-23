@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৫০৩, আন্তর্জাতিক নাম্বারঃ ১৪৫৬ ৩৫০৩-(৩৫/...) ইয়াহইয়া ইবনু হাবীব আল হারিসী (রহঃ) ... আবূ সাঈদ আল খুদরী (রাযিঃ) বলেন, আওত্বাস এর যুদ্ধে কিছু কয়েদী সাহাবীগণের হস্তগত হয়, যাদের স্বামী ছিল। তারা (তাদের সাথে সঙ্গম করতে) ভয় পেলেন। তখন এ আয়াতটি নাযিল হয়- "এবং নারীর মধ্যে তোমাদের অধিকারভুক্ত দাসী ব্যতীত সকল সধবা তোমাদের জন্য নিষিদ্ধ।।" (ইসলামিক ফাউন্ডেশন ৩৪৭৬, ইসলামীক সেন্টার ৩৪৭৫)
+ইয়াহইয়া ইবনু হাবীব আল হারিসী (রহঃ) ..... কাতাদাহ্ (রহঃ) এর সূত্রে অনুরূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৪৭৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3611</td></tr><tr><td>Arabic No</td><td>1456.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 43</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-This hadith has been reported on the authority of AbuSa'id (al-Khudri) (Allah be pleased with him) through another chain of transmitters and the words are:They took captives (women) on the day of Autas who had their husbands. They were afraid (to have sexual intercourse with them) when this verse was revealed:" And women already married except those whom you right hands posses" (iv. 24)
+This hadith has been reported on the authority of AbuSa'id (al-Khudri) (Allah be pleased with him) through another chain of transmitters and the words are:They took captives (women) on the day of Autas who had their husbands. They were afraid (to have sexual intercourse with them) when this verse was revealed:" And women already married except those whom you right hands posses" (iv)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3611</td></tr><tr><td>Arabic No</td><td>1456.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 43</td></tr></tbody></table></div>
 

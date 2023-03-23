@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবু ওয়লীদ তিয়ালিসী (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিজয়ের বছর যখন মক্কাতে প্রবেশ করেন, তখন তাঁর মাথায় কাল পাগড়ী ছিল।
+। জাবির (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা বিজয়ের সময় কালো পাগড়ি পরিহিত অবস্থায় মক্কায় প্রবেশ করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4076</td></tr><tr><td>Arabic No</td><td>4076</td></tr><tr><td>Reference</td><td>Book 34 Hadith 57</td></tr></tbody></table></div>
 

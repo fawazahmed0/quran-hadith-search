@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৫৬, আন্তর্জাতিক নাম্বারঃ ১৯০ ৩৫৬-(৩১৫/...) ইবনু নুমায়র আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... আ'মাশ (রহঃ) এর সূত্রে এ সনদে উক্ত হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৩৬৪, ইসলামিক সেন্টারঃ ৩৭৫)
+ইবনু নুমায়র আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... আ'মাশ (রহঃ) এর সূত্রে এ সনদে উক্ত হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৩৬৪, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith is also narrated by another chain of narrators, i. e. Ibn Numair, Ab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் நான்கு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மேலும் நான்கு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
 

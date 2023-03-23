@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সালামাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আবূ সা‘ঈদ খুদরী (রাযি.)-কে (লাইলাতুল কাদর সম্পর্কে) জিজ্ঞেস করলে তিনি বললেন, এক খন্ড মেঘ এসে এমনভাবে বর্ষণ শুরু করল যে, যার ফলে (মসজিদে নাববীর) ছাদ দিয়ে পানি পড়া শুরু হল। কেননা, (তখন মসজিদের) ছাদ ছিল খেজুরের ডালের তৈরি। এমন সময় সালাতের ইক্বামাত(ইকামত/একামত) দেয়া হলো, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে পানি ও কাদার উপর সিজদা্ করতে দেখলাম, এমন কি আমি তাঁর কপালেও কাদামাটির চিহ্ন দেখলাম। (৮১৩, ৮৩৬, ২০১৬, ২০১৮, ২০২৭, ২০৩৬, ২০৪০; মুসলিম ১৩/৪০ হাঃ ১১৬৭) (আধুনিক প্রকাশনীঃ ৬২৯, ইসলামিক ফাউন্ডেশনঃ ৬৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সালামাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আবূ সা‘ঈদ খুদরী (রাযি.)-কে (লাইলাতুল কাদর সম্পর্কে) জিজ্ঞেস করলে তিনি বললেন, এক খন্ড মেঘ এসে এমনভাবে বর্ষণ শুরু করল যে, যার ফলে (মসজিদে নাববীর) ছাদ দিয়ে পানি পড়া শুরু হল। কেননা, (তখন মসজিদের) ছাদ ছিল খেজুরের ডালের তৈরি। এমন সময় সালাতের ইক্বামাত(ইকামত/একামত) দেয়া হলো, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে পানি ও কাদার উপর সিজদা্ করতে দেখলাম, এমন কি আমি তাঁর কপালেও কাদামাটির চিহ্ন দেখলাম। (৮১৩, ৮৩৬, ২০১৬, ২০১৮, ২০২৭, ২০৩৬, ২০৪০; মুসলিম ১৩/৪০ হাঃ ১১৬৭) (আধুনিক প্রকাশনীঃ ৬২৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>669</td></tr><tr><td>Arabic No</td><td>669</td></tr><tr><td>Reference</td><td>Book 10 Hadith 63</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசலமா பின் அப்திர் ரஹ்மான் பின் அவ்ஃப் (ரஹ்) அவர்கள் கூறியதாவது: நான் அபூசயீத் அல்குத்ரீ (ரலி) அவர்களிடம் (லைலத்துல் கத்ர் எனும் மகத்துவமிக்க இரவு பற்றிக்) கேட்டேன். அப்போது அவர்கள் கூறினார்கள்: (திடீரென) ஒரு மேகம் வந்து மழை பொழிந்தது. அதனால் பள்ளிவாச-ன் கூரையில் தண்ணீர் ஒழுகியது. அப்போது அந்தக் கூரை பேரீச்ச மட்டையால் வேயப்பட்டிருந்தது. தொழுகைக்கு இகாமத் சொல்லப்பட்(டு தொழுகை நடத்தப்பட்)டது. அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஈரமான களி மண்ணில் சிரவணக்கம் (சஜ்தா) செய்ததால் அவர்களது நெற்றியில் களி மண்ணின் அடையாளத்தை நான் கண்டேன். அத்தியாயம் : 10
+அபூசலமா பின் அப்திர் ரஹ்மான் பின் அவ்ஃப் (ரஹ்) அவர்கள் கூறியதாவது: நான் அபூசயீத் அல்குத்ரீ (ரலி) அவர்களிடம் (லைலத்துல் கத்ர் எனும் மகத்துவமிக்க இரவு பற்றிக்) கேட்டேன். அப்போது அவர்கள் கூறினார்கள்: (திடீரென) ஒரு மேகம் வந்து மழை பொழிந்தது. அதனால் பள்ளிவாச-ன் கூரையில் தண்ணீர் ஒழுகியது. அப்போது அந்தக் கூரை பேரீச்ச மட்டையால் வேயப்பட்டிருந்தது. தொழுகைக்கு இகாமத் சொல்லப்பட்(டு தொழுகை நடத்தப்பட்)டது. அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஈரமான களி மண்ணில் சிரவணக்கம் (சஜ்தா) செய்ததால் அவர்களது நெற்றியில் களி மண்ணின் அடையாளத்தை நான் கண்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>669</td></tr><tr><td>Arabic No</td><td>669</td></tr><tr><td>Reference</td><td>Book 10 Hadith 63</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Seleme, Ebu Saîd el-Hudrî'ye Resûlullah Sallallahu Aleyhi ve Sellem'in mescidde yağmur dolayısıyla meydana gelen çamurda secde ettiği ve kadir gecesiyle ilgili olan günü sordu. Ebû Saîd şu cevabı verdi: "Bir bulut gökyüzünü kapladı ve sağanak bir yağmur başladı. Yağmur yüzünden hurma dallarıyla yapılmış olan mescid tavanından sular akıyordu. Namaz için kamet getirildi. Ben Resûlullah Sallallahu Aleyhi ve Sellem'in su ve çamurla kaplanmış mescid zeminine secde ettiğini gördüm; hatta alnında çamurun izleri kalmıştı. Tekrar: 813, 836, 2016, 2018, 2027, 2036 ve 2040
+Ebu Seleme, Ebu Saîd el-Hudrî'ye Resûlullah Sallallahu Aleyhi ve Sellem'in mescidde yağmur dolayısıyla meydana gelen çamurda secde ettiği ve kadir gecesiyle ilgili olan günü sordu. Ebû Saîd şu cevabı verdi: "Bir bulut gökyüzünü kapladı ve sağanak bir yağmur başladı. Yağmur yüzünden hurma dallarıyla yapılmış olan mescid tavanından sular akıyordu. Namaz için kamet getirildi. Ben Resûlullah Sallallahu Aleyhi ve Sellem'in su ve çamurla kaplanmış mescid zeminine secde ettiğini gördüm; hatta alnında çamurun izleri kalmıştı. Tekrar: 813, 836, 2016, 2018, 2027, 2036 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>669</td></tr><tr><td>Arabic No</td><td>669</td></tr><tr><td>Reference</td><td>Book 10 Hadith 63</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৫৯২। জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে অপবিত্র ব্যাক্তি সম্পর্কে জিজ্ঞেস করা হল যে, সে কি ঘুমাতে বা পানাহার করতে পারে? তিনি বলেনঃ হ্যাঁ, যদি সে তার সালাতের উযূর ন্যায় উযূ (ওজু/অজু/অযু) করে নেয়।
+। জাবির ইবনু আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে অপবিত্র ব্যাক্তি সম্পর্কে জিজ্ঞেস করা হল যে, সে কি ঘুমাতে বা পানাহার করতে পারে? তিনি বলেনঃ হ্যাঁ, যদি সে তার সালাতের উযূর ন্যায় উযূ (ওজু/অজু/অযু) করে নেয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>592</td></tr><tr><td>Arabic No</td><td>592</td></tr><tr><td>Reference</td><td>Book 1 Hadith 326</td></tr></tbody></table></div>
 

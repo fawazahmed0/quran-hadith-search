@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৭২৭, আন্তর্জাতিক নাম্বারঃ ১১৯০ ২৭২৭-(৪৩/...) ইবনু নুমায়র (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি যেন রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সিঁথিতে তার ইহরামের অবস্থায় সুগন্ধির ঔজ্জ্বল্য দেখছি। (ইসলামিক ফাউন্ডেশন ২৭০৪, ইসলামীক সেন্টার ২৭০৩)
+ইবনু নুমায়র (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি যেন রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সিঁথিতে তার ইহরামের অবস্থায় সুগন্ধির ঔজ্জ্বল্য দেখছি। (ইসলামিক ফাউন্ডেশন ২৭০৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>1190.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் "இஹ்ராம்" கட்டியிருந்தபோது அவர்களது தலை வகிட்டில் நறுமணப்பொருள் ஒளிர்ந்ததை இப்போதும் நான் பார்ப்பதைப் போன்றுள்ளது. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 15
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் "இஹ்ராம்" கட்டியிருந்தபோது அவர்களது தலை வகிட்டில் நறுமணப்பொருள் ஒளிர்ந்ததை இப்போதும் நான் பார்ப்பதைப் போன்றுள்ளது. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>1190.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
 

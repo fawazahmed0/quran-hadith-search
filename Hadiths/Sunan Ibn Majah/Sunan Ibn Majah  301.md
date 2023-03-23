@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩০১। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পায়খানা থেকে বের হওয়ার সময় বলতেনঃ সমস্ত প্রশংসা আল্লাহ্‌র জন্য যিনি আমার থেকে কষ্ট দূর করেছেন এবং স্বস্তি দান করেছেন।
+। আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পায়খানা থেকে বের হওয়ার সময় বলতেনঃ সমস্ত প্রশংসা আল্লাহ্‌র জন্য যিনি আমার থেকে কষ্ট দূর করেছেন এবং স্বস্তি দান করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 35</td></tr></tbody></table></div>
 

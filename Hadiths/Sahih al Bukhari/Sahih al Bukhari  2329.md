@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উৎপাদিত ফল কিংবা ফসলের অর্ধেক শর্তে খায়বারের জমি বর্গা দিয়েছিলেন। (২২৮৫) (আধুনিক প্রকাশনীঃ ২১৬১, ইসলামিক ফাউন্ডেশনঃ ২১৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উৎপাদিত ফল কিংবা ফসলের অর্ধেক শর্তে খায়বারের জমি বর্গা দিয়েছিলেন। (২২৮৫) (আধুনিক প্রকাশনীঃ ২১৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2329</td></tr><tr><td>Arabic No</td><td>2329</td></tr><tr><td>Reference</td><td>Book 41 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கைபரில் உள்ள மரங்களையும் நிலங்களையும் ‘அவற்றில் விளையும் (பழங்கள், தானியங்கள், காய்கறிகள் ஆகியவற்றின்) விளைச்சலில் பாதியை (இஸ்லாமிய அரசுக்குக்) கொடுத்து விட வேண்டும்’ என்னும் நிபந்தனையின் பேரில் கைபர் வாழ் மக்களுடன் ஒப்பந்தம் செய்துகொண்டார்கள்.7 அத்தியாயம் : 41
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கைபரில் உள்ள மரங்களையும் நிலங்களையும் ‘அவற்றில் விளையும் (பழங்கள், தானியங்கள், காய்கறிகள் ஆகியவற்றின்) விளைச்சலில் பாதியை (இஸ்லாமிய அரசுக்குக்) கொடுத்து விட வேண்டும்’ என்னும் நிபந்தனையின் பேரில் கைபர் வாழ் மக்களுடன் ஒப்பந்தம் செய்துகொண்டார்கள்.7 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2329</td></tr><tr><td>Arabic No</td><td>2329</td></tr><tr><td>Reference</td><td>Book 41 Hadith 10</td></tr></tbody></table></div>
 

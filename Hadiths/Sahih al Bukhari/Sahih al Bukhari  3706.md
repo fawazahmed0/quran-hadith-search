@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আলী (রাঃ)-কে বলেছিলেন, তুমি কি এতে সন্তুষ্ট নও যে, যেভাবে হারূন (আঃ) মূসা (আঃ)-এর নিকট হতে মর্যাদা লাভ করেছিলেন, তুমিও আমার নিকট সেই মর্যাদা লাভ কর। (৪৪১৬, মুসলিম ৪৪/৪ হাঃ ২৪০৪) (আধুনিক প্রকাশনীঃ ৩৪৩১, ইসলামিক ফাউন্ডেশনঃ ৩৪৩৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আলী (রাঃ)-কে বলেছিলেন, তুমি কি এতে সন্তুষ্ট নও যে, যেভাবে হারূন (আঃ) মূসা (আঃ)-এর নিকট হতে মর্যাদা লাভ করেছিলেন, তুমিও আমার নিকট সেই মর্যাদা লাভ কর। (৪৪১৬, মুসলিম ৪৪/৪ হাঃ ২৪০৪) (আধুনিক প্রকাশনীঃ ৩৪৩১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3706</td></tr><tr><td>Arabic No</td><td>3706</td></tr><tr><td>Reference</td><td>Book 62 Hadith 56</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Gh
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அலீ (ரலி) அவர்களிடம், “(நபி) ஹாரூன் அவர்களுக்கு (அவர்களின் சகோதரர்-நபி) மூசா அவர்களிடம் எந்த இடம் இருந்ததோ அதே இடத்தில் நீங்கள் என்னிடம் இருப்பதை விரும்பவில்லையா?” என்று கேட்டார்கள்.74 அத்தியாயம் : 62
+சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அலீ (ரலி) அவர்களிடம், “(நபி) ஹாரூன் அவர்களுக்கு (அவர்களின் சகோதரர்-நபி) மூசா அவர்களிடம் எந்த இடம் இருந்ததோ அதே இடத்தில் நீங்கள் என்னிடம் இருப்பதை விரும்பவில்லையா?” என்று கேட்டார்கள்.74 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3706</td></tr><tr><td>Arabic No</td><td>3706</td></tr><tr><td>Reference</td><td>Book 62 Hadith 56</td></tr></tbody></table></div>
 

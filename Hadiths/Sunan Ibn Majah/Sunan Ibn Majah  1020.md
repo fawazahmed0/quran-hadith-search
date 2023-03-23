@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১০২০। রবীআহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা এক সফরে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে ছিলাম। আকাশ মেঘাচ্ছন্ন হয়ে যাওয়ায় কিবলা নির্ণয় করা আমাদের জন্য কষ্টকর হয়ে পড়লো। আমরা সালাত পড়লাম এবং একটি চিহ্ন রাখলাম। এরপর সূর্য উদ্ভাসিত হলে আমরা বুঝতে পালাম যে, আমরা কিবলা ছাড়া অন্যদিকে সালাত আদায় করেছি। আমরা বিষয়টি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উত্থাপন করলাম। তখন আল্লাহ এ আয়াত নাযিল করেন (অনুবাদ): তোমরা যে দিকেই মুখ ফিরাও সেদিকই আল্লাহ্‌র চেহারা (সূরাহ বাকারাঃ ১১৫)।
+। রবীআহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা এক সফরে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে ছিলাম। আকাশ মেঘাচ্ছন্ন হয়ে যাওয়ায় কিবলা নির্ণয় করা আমাদের জন্য কষ্টকর হয়ে পড়লো। আমরা সালাত পড়লাম এবং একটি চিহ্ন রাখলাম। এরপর সূর্য উদ্ভাসিত হলে আমরা বুঝতে পালাম যে, আমরা কিবলা ছাড়া অন্যদিকে সালাত আদায় করেছি। আমরা বিষয়টি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উত্থাপন করলাম। তখন আল্লাহ এ আয়াত নাযিল করেন (অনুবাদ): তোমরা যে দিকেই মুখ ফিরাও সেদিকই আল্লাহ্‌র চেহারা (সূরাহ বাকারাঃ ১১৫)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1020</td></tr><tr><td>Arabic No</td><td>1020</td></tr><tr><td>Reference</td><td>Book 5 Hadith 218</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from ‘Abdullah bin ‘Amir bin Rabi’ah that his father said:“We were with the Messenger of Allah (ﷺ) on a journey, and the sky was overcast so it was difficult for us to determine the Qiblah. So we performed prayer, and we marked the location.* Later, when the sun reappeared, we realized that we had prayed facing a direction other than the Qiblah. We mentioned that to the Prophet (ﷺ), then the Words were revealed: ‘So wherever you turn there is the Face of Allah.’” [2:115]
+It was narrated from ‘Abdullah bin ‘Amir bin Rabi’ah that his father said:“We were with the Messenger of Allah (ﷺ) on a journey, and the sky was overcast so it was difficult for us to determine the Qiblah. So we performed prayer, and we marked the location.* Later, when the sun reappeared, we realized that we had prayed facing a direction other than the Qiblah. We mentioned that to the Prophet (ﷺ), then the Words were revealed: ‘So wherever you turn there is the Face of Allah.’” [2:]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1020</td></tr><tr><td>Arabic No</td><td>1020</td></tr><tr><td>Reference</td><td>Book 5 Hadith 218</td></tr></tbody></table></div>
 

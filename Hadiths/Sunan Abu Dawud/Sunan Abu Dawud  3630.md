@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম ইবন মূসা (রহঃ) .... বাহায ইবন হাকীম (রাঃ) তার পিতা হতে এবং তিনি তার দাদা হতে বর্ণনা করেন যে, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জৈনিক ব্যক্তিকে অপবাদ দেওয়ার কারণে বন্দী করেন।
+। বাহয ইবনু হাকীম (রহঃ) থেকে পর্যায়ক্রকে তার পিতা ও দাদার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে অনুমানের ভিত্তিতে আটক করেছিলেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3630</td></tr><tr><td>Arabic No</td><td>3630</td></tr><tr><td>Reference</td><td>Book 25 Hadith 60</td></tr></tbody></table></div>
 

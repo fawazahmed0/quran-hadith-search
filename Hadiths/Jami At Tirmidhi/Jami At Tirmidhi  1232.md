@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১২৩২। হাকীম ইবনু হিযাম (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, বললাম, আমার নিকট এসে কোন লোক এমন জিনিস কিনতে চায় যা আমার নিকট নেই। আমি এভাবে বিক্রয় করতে পারি কি যে, তা বাজার হতে ক্রয় করে এনে তাকে দিব? তিনি বলেনঃ যা তোমার অধিকারে নেই তা তুমি বিক্রয় কর না। - সহীহ, ইবনু মা-জাহ (২১৮৭)। আব্দুল্লাহ ইবনু উমার হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
+। হাকীম ইবনু হিযাম (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, বললাম, আমার নিকট এসে কোন লোক এমন জিনিস কিনতে চায় যা আমার নিকট নেই। আমি এভাবে বিক্রয় করতে পারি কি যে, তা বাজার হতে ক্রয় করে এনে তাকে দিব? তিনি বলেনঃ যা তোমার অধিকারে নেই তা তুমি বিক্রয় কর না। - সহীহ, ইবনু মা-জাহ (২১৮৭)। আব্দুল্লাহ ইবনু উমার হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>1232</td></tr><tr><td>Reference</td><td>Book 14 Hadith 32</td></tr></tbody></table></div>
 

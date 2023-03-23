@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬১৭৮, আন্তর্জাতিক নাম্বারঃ ২৪৩৮ ৬১৭৮-(.../...) ইবনু নুমায়র ও আবূ কুরায়ব (রহঃ) তারা ..... হিশাম (রাযিঃ) হতে উপরোক্ত সূত্রে অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬০৬৬, ইসলামিক সেন্টার ৬১০৩)
+ইবনু নুমায়র ও আবূ কুরায়ব (রহঃ) তারা ..... হিশাম (রাযিঃ) হতে উপরোক্ত সূত্রে অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬০৬৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6284</td></tr><tr><td>Arabic No</td><td>2438.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 114</td></tr></tbody></table></div>
 

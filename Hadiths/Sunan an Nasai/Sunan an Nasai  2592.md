@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আহমদ ইবন সুলায়মান (রহঃ) ... আব্দুল্লাহ ইবন মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি সাহায্য চায় অথচ তার কাছে এই পরিমাণ মাল আছে যাতে তার প্রয়োজন মিটে যায়, তাহলে কিয়ামতের দিন সে মুখে ক্ষত অবস্থায় উত্থিত হবে। প্রশ্ন করা হল যে, কতটুকু মাল দ্বারা প্রয়োজন মিটে যায়? তিনি বললেন, পঞ্চাশ দিরহামে বা তার সমপরিমাণ স্বর্ণ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2592</td></tr><tr><td>Arabic No</td><td>2592</td></tr><tr><td>Reference</td><td>Book 23 Hadith 158</td></tr></tbody></table></div>
 

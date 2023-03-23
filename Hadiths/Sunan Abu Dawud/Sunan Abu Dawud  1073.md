@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবনুল মুসাফ্‌ফা (রহঃ) .... আবু হুরায়রা (রাঃ) থেকে বর্ণিত। রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আজকের এই দিনে দুইটি ঈদের সমাগম হয়েছে (ঈদ ও জুমা)। অতএব কোন ব্যক্তি ইচ্ছা করলে জুমার নামায আদায় করে তার ফযীলত অর্জন করতে পারে এবং আমি দুটিই (ঈদ ও জুমা) আদায় করব। (ইবনে মাজাহ)
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আজ তোমাদের এ দিনে দু‘টি ‘ঈদের সমাগম হয়েছে। তোমাদের কারোর ইচ্ছা হলে (জুমু‘আহ ত্যাগ করবে), তার জন্য ‘ঈদের সালাতই যথেষ্ট। তবে আমরা দুটিই (ঈদ ও জুমু‘আহর সালাত উভয়টি) আদায় করবো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1073</td></tr><tr><td>Arabic No</td><td>1073</td></tr><tr><td>Reference</td><td>Book 2 Hadith 684</td></tr></tbody></table></div>
 

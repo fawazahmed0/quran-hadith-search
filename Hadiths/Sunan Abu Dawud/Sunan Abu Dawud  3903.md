@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ইয়াহইয়া (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমার মা আমাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর গৃহে পাঠানোর উদ্ধেশ্যে, তাড়াতাড়ি মোটা করে তোলার ইচ্ছা করেন। এ জন্য তিনি অনেক ব্যবস্থা গ্রহণ করেন। কিন্তু কোন লাভ হয়নি। পরে তিনি আমাকে তাজা খাজুরের সাথে শশা খাওয়াতে থাকলে আমি দ্রুত হৃষ্ট-পুষ্ট হয়ে উঠি।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার মায়ের ইচ্ছা ছিলো আমাকে স্বাস্থ্যবর্তী বানিয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট পাঠাবেন। এজন্য তিনি অনেক ব্যবস্থা গ্রহণ করেন কিন্তু কোনো ফল হয়নি। শেষে তিনি আমাকে পাকা খেজুরে সাথে শসা বা খিরা খাওয়াতে থাকলে আমি তাতে উত্তমরূপে স্বাস্থ্যের অধিকারী হই।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3903</td></tr><tr><td>Arabic No</td><td>3903</td></tr><tr><td>Reference</td><td>Book 29 Hadith 49</td></tr></tbody></table></div>
 

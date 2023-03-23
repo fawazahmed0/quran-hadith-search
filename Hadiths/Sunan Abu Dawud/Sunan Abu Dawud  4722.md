@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আমর (রহঃ) ...... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপ বলতে শুনেছি। এরপর তিনি পূর্ববর্তী হাদীছের অনুরূপ হাদীছ বর্ণনা করেছেন। তিনি বলেনঃ লোকেরা যখন এরূপ বলবে তখন তোমরা বলবেঃ আল্লাহ্‌ একক ও অদ্বিতীয়, আল্লাহ কারো মুখাপেক্ষী নন, তিনি কাউকে জন্ম দেননি এবং তাঁকেও কেউ জন্ম দেয়নি, তাঁর সমতুল্য কেউ নেই।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ অতঃপর উপরোক্ত হাদীসের অনুরূপ। তিনি বলেন, যখন তারা এরূপ কথা বলবে তখন তোমরা বলো, আল্লাহ একক, আল্লাহ অভাবমুক্ত, তিনি কাউকে জন্ম দেননি এবং তিনি কারো সন্তান নন। আর কেউই তাঁর সঙ্গে তুলনাযোগ্য নয়। অতঃপর যেন বামদিকে তিনবার থুথু ফেলে এবং শয়তানের (কুমন্ত্রণা) থেকে আশ্রয় চায়।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4722</td></tr><tr><td>Arabic No</td><td>4722</td></tr><tr><td>Reference</td><td>Book 42 Hadith 127</td></tr></tbody></table></div>
 

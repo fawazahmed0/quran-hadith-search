@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালামাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ মসজিদের দেয়াল ছিল মিম্বারের এত নিকট যে, মাঝখান দিয়ে একটা বকরীরও চলাচল কঠিন ছিল। (মুসলিম ৪/৪৯, হাঃ ৫০৯) (আধুনিক প্রকাশনীঃ ৪৬৭, ইসলামিক ফাউন্ডেশনঃ ৪৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালামাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ মসজিদের দেয়াল ছিল মিম্বারের এত নিকট যে, মাঝখান দিয়ে একটা বকরীরও চলাচল কঠিন ছিল। (মুসলিম ৪/৪৯, হাঃ ৫০৯) (আধুনিক প্রকাশনীঃ ৪৬৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>497</td></tr><tr><td>Arabic No</td><td>497</td></tr><tr><td>Reference</td><td>Book 8 Hadith 144</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Makki bin Ibrahim] berkata, telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சலமா பின் அல்அக்வஉ (ரலி) அவர்கள் கூறியதாவது: (மஸ்ஜிதுந் நபவீ) பள்ளிவாசலின் (கிப்லா திசையில் அமைந்த) சுவருக்கும் சொற்பொழிவு மேடைக்கும் (மிம்பர்) இடையே ஆடு கடந்துசெல்லும் அளவுக்கு இடைவெளி இருந்தது. அத்தியாயம் : 8
+சலமா பின் அல்அக்வஉ (ரலி) அவர்கள் கூறியதாவது: (மஸ்ஜிதுந் நபவீ) பள்ளிவாசலின் (கிப்லா திசையில் அமைந்த) சுவருக்கும் சொற்பொழிவு மேடைக்கும் (மிம்பர்) இடையே ஆடு கடந்துசெல்லும் அளவுக்கு இடைவெளி இருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>497</td></tr><tr><td>Arabic No</td><td>497</td></tr><tr><td>Reference</td><td>Book 8 Hadith 144</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৬৮। আবূ দারদা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে (কুরআনে) এগারটি সিজদা করেছি যার মধ্যে সূরা নাজমের সিজদটিও অন্তর্ভুক্ত ছিল। যঈফ, ইবনু মাজাহ (১০৫৫)
+। আবূ দারদা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে (কুরআনে) এগারটি সিজদা করেছি যার মধ্যে সূরা নাজমের সিজদটিও অন্তর্ভুক্ত ছিল। যঈফ, ইবনু মাজাহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>568</td></tr><tr><td>Arabic No</td><td>568</td></tr><tr><td>Reference</td><td>Book 6 Hadith 25</td></tr></tbody></table></div>
 

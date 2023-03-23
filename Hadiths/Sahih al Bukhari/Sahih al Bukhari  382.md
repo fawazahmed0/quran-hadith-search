@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَصَلَّى أَنَسٌ عَلَى فِرَاشِهِ وَقَالَ أَنَسٌ كُنَّا نُصَلِّي مَعَ النَّبِيِّ صلى الله عليه وسلم فَيَسْجُدُ أَحَدُنَا عَلَى ثَوْبِهِ. আনাস ইবনু মালিক (রাযি.) নিজের বিছানায় সালাত আদায় করতেন। আনাস (রাযি.) বলেনঃ আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে সালাত আদায় করতাম। আমাদের কেউ কেউ নিজ কাপড়ের উপর সিজদা করত। ৩৮২. নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী ‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সামনে ঘুমাতাম, আমার পা দু’খানা তাঁর ক্বিবলা (কিবলা/কেবলা)হর দিকে ছিল। তিনি সিজদা্য় গেলে আমার পায়ে মৃদু চাপ দিতেন, তখন আমি পা দু’খানা গুটিয়ে নিতাম। আর তিনি দাঁড়িয়ে গেলে আমি পা দু’খানা প্রসারিত করতাম। তিনি বলেনঃ সে সময় ঘরগুলোতে বাতি ছিল না। (৩৮৩, ৩৮৪, ৫০৮, ৫১১, ৫১২, ৫১৩, ৫১৪, ৫১৫, ৫১৯, ৯৯৭, ১২০৯, ৬২৭৬; মুসলিম ৪/৫১, হাঃ ৫১২, আহমাদ ২৫৭০৫ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ৩৬৯, ইসলামিক ফাউন্ডেশনঃ ৩৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَصَلَّى أَنَسٌ عَلَى فِرَاشِهِ وَقَالَ أَنَسٌ كُنَّا نُصَلِّي مَعَ النَّبِيِّ صلى الله عليه وسلم فَيَسْجُدُ أَحَدُنَا عَلَى ثَوْبِهِ. আনাস ইবনু মালিক (রাযি.) নিজের বিছানায় সালাত আদায় করতেন। আনাস (রাযি.) বলেনঃ আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে সালাত আদায় করতাম। আমাদের কেউ কেউ নিজ কাপড়ের উপর সিজদা করত। ৩৮২. নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী ‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সামনে ঘুমাতাম, আমার পা দু’খানা তাঁর ক্বিবলা (কিবলা/কেবলা)হর দিকে ছিল। তিনি সিজদা্য় গেলে আমার পায়ে মৃদু চাপ দিতেন, তখন আমি পা দু’খানা গুটিয়ে নিতাম। আর তিনি দাঁড়িয়ে গেলে আমি পা দু’খানা প্রসারিত করতাম। তিনি বলেনঃ সে সময় ঘরগুলোতে বাতি ছিল না। (৩৮৩, ৩৮৪, ৫০৮, ৫১১, ৫১২, ৫১৩, ৫১৪, ৫১৫, ৫১৯, ৯৯৭, ১২০৯, ৬২৭৬; মুসলিম ৪/৫১, হাঃ ৫১২, আহমাদ ২৫৭০৫ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ৩৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>382</td></tr><tr><td>Arabic No</td><td>382</td></tr><tr><td>Reference</td><td>Book 8 Hadith 34</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [M
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவி யார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் (இரவில்) அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு முன்புறமாக (விரிப் பில் படுத்து) உறங்கிக்கொண்டிருப்பேன். அப்போது என் கால்கள் அவர்களது கிப்லாவில் (அவர்கள் ‘சஜ்தா’ செய்யுமிடத் தில்) இருந்துகொண்டிருக்கும். அவர்கள் ‘சஜ்தா’வுக்கு வரும்போது என்னை (தமது விரலால்) தொட்டுணர்த்துவார்கள். உடனே நான் என் கால்களை மடக்கிக் கொள்வேன். அவர்கள் எழுந்துவிட்டால் (மறுபடியும்) நான் கால்களை நீட்டிக் கொள்வேன். அந்த நாட்களில் (எங்கள்) வீடுகளில் விளக்குகள் இருக்கவில்லை. அத்தியாயம் : 8
+நபி (ஸல்) அவர்களின் துணைவி யார் ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் (இரவில்) அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு முன்புறமாக (விரிப் பில் படுத்து) உறங்கிக்கொண்டிருப்பேன். அப்போது என் கால்கள் அவர்களது கிப்லாவில் (அவர்கள் ‘சஜ்தா’ செய்யுமிடத் தில்) இருந்துகொண்டிருக்கும். அவர்கள் ‘சஜ்தா’வுக்கு வரும்போது என்னை (தமது விரலால்) தொட்டுணர்த்துவார்கள். உடனே நான் என் கால்களை மடக்கிக் கொள்வேன். அவர்கள் எழுந்துவிட்டால் (மறுபடியும்) நான் கால்களை நீட்டிக் கொள்வேன். அந்த நாட்களில் (எங்கள்) வீடுகளில் விளக்குகள் இருக்கவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>382</td></tr><tr><td>Arabic No</td><td>382</td></tr><tr><td>Reference</td><td>Book 8 Hadith 34</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [M
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe (r.anha)'den şöyle nakledilmiştir: "Ayaklarımı Allah Resûlü Sallallahu Aleyhi ve Sellem'in secde edeceği yere uzatmış uyuyordum. Secdeye varınca eliyle beni dürttü. Ben de ayaklarımı topladım. Ayağa kalkınca tekrar uzattım. O dönemde evlerde henüz lamba yoktu. Tekrar: 383, 508, 511, 512, 513, 514, 515, 519, 997, 1209, 6276
+Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe (r.anha)'den şöyle nakledilmiştir: "Ayaklarımı Allah Resûlü Sallallahu Aleyhi ve Sellem'in secde edeceği yere uzatmış uyuyordum. Secdeye varınca eliyle beni dürttü. Ben de ayaklarımı topladım. Ayağa kalkınca tekrar uzattım. O dönemde evlerde henüz lamba yoktu. Tekrar: 383, 508, 511, 512, 513,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>382</td></tr><tr><td>Arabic No</td><td>382</td></tr><tr><td>Reference</td><td>Book 8 Hadith 34</td></tr></tbody></table></div>
 

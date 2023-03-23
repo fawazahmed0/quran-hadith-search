@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘উরওয়াহ ইবনু যুবায়র হতে বর্ণিত তিনি বলেন, ‘আবদুল্লাহ ইবনু জুবায়র (রাঃ) বনূ যুহরার কতিপয় লোকের সঙ্গে ‘আয়িশাহ (রাঃ)-এর নিকটে হাযির হলেন। ‘আয়িশাহ (রাঃ) তাদের প্রতি অত্যন্ত নম্র ও দয়ার্দ্র ছিলেন। কেননা, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে তাঁদের আত্মীয়তা ছিল। (৩৫০৫, ৬০৭৩) (আধুনিক প্রকাশনীঃ ৩২৪১ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৩২৫০ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3503</td></tr><tr><td>Arabic No</td><td>3503</td></tr><tr><td>Reference</td><td>Book 61 Hadith 13</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated 'Urwa bin Az-Zubair: 'Abdullah bin Az-Zubair went with some women of th
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் அஸ்ஸுபைர் (ரலி) அவர்கள் பனூ ஸுஹ்ரா குலத்தைச் சேர்ந்த சிலருடன் ஆயிஷா (ரலி) அவர்களிடம் சென்றார்கள். ஆயிஷா (ரலி) அவர்கள், பனூ ஸுஹ்ரா கிளையினருக்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் இருந்த உறவு முறையின் காரணத்தால் அவர்களிடம் மிகவும் மென்மையாக நடந்துகொள்வார்கள்.16 அத்தியாயம் : 61
+உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் அஸ்ஸுபைர் (ரலி) அவர்கள் பனூ ஸுஹ்ரா குலத்தைச் சேர்ந்த சிலருடன் ஆயிஷா (ரலி) அவர்களிடம் சென்றார்கள். ஆயிஷா (ரலி) அவர்கள், பனூ ஸுஹ்ரா கிளையினருக்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் இருந்த உறவு முறையின் காரணத்தால் அவர்களிடம் மிகவும் மென்மையாக நடந்துகொள்வார்கள்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3503</td></tr><tr><td>Arabic No</td><td>3503</td></tr><tr><td>Reference</td><td>Book 61 Hadith 13</td></tr></tbody></table></div>
 

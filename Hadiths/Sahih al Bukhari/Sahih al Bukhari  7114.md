@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুযাইফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নিফাক বস্তুত নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে ছিল। আর এখন হল তা ঈমান গ্রহণের পর কুফরী। (আধুনিক প্রকাশনী- ৬৬১৫, ইসলামিক ফাউন্ডেশন- ৬৬২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হুযাইফাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নিফাক বস্তুত নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে ছিল। আর এখন হল তা ঈমান গ্রহণের পর কুফরী। (আধুনিক প্রকাশনী- ৬৬১৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7114</td></tr><tr><td>Arabic No</td><td>7114</td></tr><tr><td>Reference</td><td>Book 92 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khallad] telah menceritakan kepada kami [Mis'ar]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: நயவஞ்சகம் என்பதெல்லாம் (மக்கள் சிலரிடம்) நபி (ஸல்) அவர்களது காலத்தில்தான் இருந்தது. இன்றோ, இறைநம்பிக்கைக்குப்பின் இறைமறுப்பு மட்டுமே உள்ளது.44 அத்தியாயம் : 92
+ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: நயவஞ்சகம் என்பதெல்லாம் (மக்கள் சிலரிடம்) நபி (ஸல்) அவர்களது காலத்தில்தான் இருந்தது. இன்றோ, இறைநம்பிக்கைக்குப்பின் இறைமறுப்பு மட்டுமே உள்ளது.44 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7114</td></tr><tr><td>Arabic No</td><td>7114</td></tr><tr><td>Reference</td><td>Book 92 Hadith 61</td></tr></tbody></table></div>
 

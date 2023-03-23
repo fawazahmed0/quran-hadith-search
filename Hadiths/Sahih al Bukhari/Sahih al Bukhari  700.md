@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত যে, মু‘আয ইবনু জাবাল (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে সালাত আদায় করার পর ফিরে গিয়ে নিজ গোত্রের ইমামাত করতেন। (৭০১, ৭০৫, ৭১১, ৬১০৬) (আধুনিক প্রকাশনীঃ ৬৫৮, ইসলামিক ফাউন্ডেশনঃ ৬৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত যে, মু‘আয ইবনু জাবাল (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে সালাত আদায় করার পর ফিরে গিয়ে নিজ গোত্রের ইমামাত করতেন। (৭০১, ৭০৫, ৭১১, ৬১০৬) (আধুনিক প্রকাশনীঃ ৬৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>700</td></tr><tr><td>Arabic No</td><td>700</td></tr><tr><td>Reference</td><td>Book 10 Hadith 95</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: முஆத் பின் ஜபல் (ரலி) அவர்கள் நபி (ஸல்) அவர்களுடன் தொழுதுவிட்டுத் தம் சமுதாயத்தாரிடம் திரும்பிச் சென்று அவர்களுக்குத் தலைமை தாங்கி (அந்தத் தொழுகையையே மீண்டும்) தொழுவிப்பார்கள். அத்தியாயம் : 10
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: முஆத் பின் ஜபல் (ரலி) அவர்கள் நபி (ஸல்) அவர்களுடன் தொழுதுவிட்டுத் தம் சமுதாயத்தாரிடம் திரும்பிச் சென்று அவர்களுக்குத் தலைமை தாங்கி (அந்தத் தொழுகையையே மீண்டும்) தொழுவிப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>700</td></tr><tr><td>Arabic No</td><td>700</td></tr><tr><td>Reference</td><td>Book 10 Hadith 95</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir İbn Abdullah (r.a.)'ın şöyle dediği nakledilmiştir: "Muaz İbn Cebel (r.a.), Resulullah Sallallahu Aleyhi ve Sellem ile birlikte namaz kıldıktan sonra gider ve kabilesine imamlık yapardı. Tekrar: 701, 705, 711 ve 6106
+Cabir İbn Abdullah (r.a.)'ın şöyle dediği nakledilmiştir: "Muaz İbn Cebel (r.a.), Resulullah Sallallahu Aleyhi ve Sellem ile birlikte namaz kıldıktan sonra gider ve kabilesine imamlık yapardı. Tekrar: 701, 705, 711 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>700</td></tr><tr><td>Arabic No</td><td>700</td></tr><tr><td>Reference</td><td>Book 10 Hadith 95</td></tr></tbody></table></div>
 

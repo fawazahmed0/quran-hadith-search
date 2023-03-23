@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ ইবন মুহাম্মদ (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়ে দেখি যে, তিনি একটি চাদর জড়িয়ে আছেন এবং এর ঝালর তাঁর দু’পায়ের উপর পড়েছে।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে দেখলাম, তিনি চাদর জড়িয়ে আছেন, চাদরের ঝালর তাঁর দু’ পায়ের উপর ঝুলছে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4075</td></tr><tr><td>Arabic No</td><td>4075</td></tr><tr><td>Reference</td><td>Book 34 Hadith 56</td></tr></tbody></table></div>
 

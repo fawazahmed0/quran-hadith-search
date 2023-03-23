@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৭৩৬, আন্তর্জাতিক নাম্বারঃ ১১৯৩ ২৭৩৬-(৫১/...) ইয়াহইয়া ইবনু ইয়াহইয়া, মুহাম্মদ ইবন রুমহ, কুতায়বাহ, আবদ ইবনু হুমায়দ ও হাসান হুলওয়ানী (রহিমাহুমুল্লাহ) ..... যুহরী (রহঃ) থেকে উপরোক্ত সানাদে বর্ণিত। তিনি বলেন, আমি (সা'ব) তাকে বন্য গাধার গোশত হাদিয়্যাহ্ দিয়েছিলাম। ইমাম মালিক (রহঃ) যেরূপ বর্ণনা করেছেন। লায়স ও সালিহ এর বর্ণনায় রয়েছে- সা’ব ইবনু জাস্‌সামাহ্ (রাযিঃ) তাকে অবহিত করেছেন। (ইসলামিক ফাউন্ডেশন ২৭১৩, ইসলামীক সেন্টার ২৭১২)
+ইয়াহইয়া ইবনু ইয়াহইয়া, মুহাম্মদ ইবন রুমহ, কুতায়বাহ, আবদ ইবনু হুমায়দ ও হাসান হুলওয়ানী (রহিমাহুমুল্লাহ) ..... যুহরী (রহঃ) থেকে উপরোক্ত সানাদে বর্ণিত। তিনি বলেন, আমি (সা'ব) তাকে বন্য গাধার গোশত হাদিয়্যাহ্ দিয়েছিলাম। ইমাম মালিক (রহঃ) যেরূপ বর্ণনা করেছেন। লায়স ও সালিহ এর বর্ণনায় রয়েছে- সা’ব ইবনু জাস্‌সামাহ্ (রাযিঃ) তাকে অবহিত করেছেন। (ইসলামিক ফাউন্ডেশন ২৭১৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>1193.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 56</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் ஐந்து அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 15
+மேற்கண்ட ஹதீஸ் மேலும் ஐந்து அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>1193.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 56</td></tr></tbody></table></div>
 

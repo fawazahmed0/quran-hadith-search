@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন, তিনি বলেছেন, ‘‘আমি ইউনুস ইবনু মাত্তা থেকে উত্তম’’ এমন কথা বলা কারও জন্যে শোভনীয় নয়। [৩৩৯৫] (আধুনিক প্রকাশনীঃ ৪২৬৯, ইসলামিক ফাউন্ডেশনঃ ৪২৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন, তিনি বলেছেন, ‘‘আমি ইউনুস ইবনু মাত্তা থেকে উত্তম’’ এমন কথা বলা কারও জন্যে শোভনীয় নয়। [৩৩৯৫] (আধুনিক প্রকাশনীঃ ৪২৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4630</td></tr><tr><td>Arabic No</td><td>4630</td></tr><tr><td>Reference</td><td>Book 65 Hadith 152</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபுல்ஆலியா ருஃபைஉ பின் மிஹ்ரான் (ரஹ்) அவர்கள் கூறியதாவது: உங்கள் நபியினுடைய தந்தையின் சகோதரருடைய புதல்வர், அதாவது இப்னு அப்பாஸ் (ரலி) அவர்கள் நபி (ஸல்) அவர்கள் கூறியதாக எனக்கு அறிவித்தார்கள்: “நான் யூனுஸ் பின் மத்தா அவர்களை விடச் சிறந்தவன்” என்று (என்னைப் பற்றிக்) கூறுவது எந்த மனிதருக்கும் தகாது.9 அத்தியாயம் : 65
+அபுல்ஆலியா ருஃபைஉ பின் மிஹ்ரான் (ரஹ்) அவர்கள் கூறியதாவது: உங்கள் நபியினுடைய தந்தையின் சகோதரருடைய புதல்வர், அதாவது இப்னு அப்பாஸ் (ரலி) அவர்கள் நபி (ஸல்) அவர்கள் கூறியதாக எனக்கு அறிவித்தார்கள்: “நான் யூனுஸ் பின் மத்தா அவர்களை விடச் சிறந்தவன்” என்று (என்னைப் பற்றிக்) கூறுவது எந்த மனிதருக்கும் தகாது.9 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4630</td></tr><tr><td>Arabic No</td><td>4630</td></tr><tr><td>Reference</td><td>Book 65 Hadith 152</td></tr></tbody></table></div>
 

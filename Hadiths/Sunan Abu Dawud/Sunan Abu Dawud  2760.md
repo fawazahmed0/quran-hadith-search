@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উছমান ইবন আভী শায়বা (রহঃ) ..... আবূ বাকরা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি কোন কারণ ব্যতীত চুক্তিবদ্ধ কোন ব্যক্তিকে হত্যা করবে, আল্লাহ্ তার জন্য জান্নাত হারাম করে দেবেন।
+। আবূ বাকরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি অকারণে কোনো চুক্তিবদ্ধ ব্যক্তিকে হত্যা করবে, তার জন্য আল্লাহ জান্নাত হারাম করে দিবেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2760</td></tr><tr><td>Arabic No</td><td>2760</td></tr><tr><td>Reference</td><td>Book 15 Hadith 284</td></tr></tbody></table></div>
 

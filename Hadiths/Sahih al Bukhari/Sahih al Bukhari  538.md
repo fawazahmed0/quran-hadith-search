@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যুহরের সালাত গরম কমলে আদায় কর। কেননা, গরমের প্রচন্ডতা জাহান্নামের উত্তাপ হতে। সুফইয়ান, ইয়াহ্ইয়া এবং আবূ আওয়ানা (রহ.) আ‘মাশ (রহ.) হতে অনুরূপ বর্ণনা করেছেন। (৩২৫৯) (আধুনিক প্রকাশনীঃ ৫০৫, ইসলামিক ফাউন্ডেশনঃ ৫১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যুহরের সালাত গরম কমলে আদায় কর। কেননা, গরমের প্রচন্ডতা জাহান্নামের উত্তাপ হতে। সুফইয়ান, ইয়াহ্ইয়া এবং আবূ আওয়ানা (রহ.) আ‘মাশ (রহ.) হতে অনুরূপ বর্ণনা করেছেন। (৩২৫৯) (আধুনিক প্রকাশনীঃ ৫০৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>538</td></tr><tr><td>Arabic No</td><td>538</td></tr><tr><td>Reference</td><td>Book 9 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] berkata, telah menc
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: லுஹ்ர் தொழுகையை வெப்பம் தணிந்தபின் தொழுங்கள். ஏனெனில், கடுமையான வெப்பம், நரக நெருப்பின் பெருமூச்சால் உண்டாகிறது. இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 9
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: லுஹ்ர் தொழுகையை வெப்பம் தணிந்தபின் தொழுங்கள். ஏனெனில், கடுமையான வெப்பம், நரக நெருப்பின் பெருமூச்சால் உண்டாகிறது. இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>538</td></tr><tr><td>Arabic No</td><td>538</td></tr><tr><td>Reference</td><td>Book 9 Hadith 15</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] berkata, telah menc
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Saîd Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Öğle namazını serinlik düşünce kılın! Zira hava'nın aşırı sıcak olması, cehennemin kaynamasından ileri gelir. Tekrar: 3259
+Ebu Saîd Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Öğle namazını serinlik düşünce kılın! Zira hava'nın aşırı sıcak olması, cehennemin kaynamasından ileri gelir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>538</td></tr><tr><td>Arabic No</td><td>538</td></tr><tr><td>Reference</td><td>Book 9 Hadith 15</td></tr></tbody></table></div>
 

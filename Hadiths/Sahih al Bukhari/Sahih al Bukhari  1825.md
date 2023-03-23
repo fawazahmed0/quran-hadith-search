@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ব ইবনু জাসসামাহ লায়সী (রাঃ) হতে বর্ণিত, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আবওয়া বা ওয়াদ্দান নামক জায়গায় অবস্থানের সময় তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে একটি বন্য গাধা উপঢৌকন দিলে তিনি তা ফিরিয়ে দেন। এরপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর চেহারায় মনোক্ষুণ্ণ ভাব দেখে বললেনঃ ওটা আমি কখনো তোমাকে ফিরিয়ে দিতাম না যদি আমি মুহরিম না হতাম। (২৫৭৩, ২৫৯৭, মুসলিম ১৫/৮, হাঃ ১১৯৩, আহমাদ ১৬৪২৩) (আধুনিক প্রকাশনীঃ ১৬৯৫, ইসলামিক ফাউন্ডেশনঃ ১৭০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘ব ইবনু জাসসামাহ লায়সী (রাঃ) হতে বর্ণিত, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আবওয়া বা ওয়াদ্দান নামক জায়গায় অবস্থানের সময় তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে একটি বন্য গাধা উপঢৌকন দিলে তিনি তা ফিরিয়ে দেন। এরপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর চেহারায় মনোক্ষুণ্ণ ভাব দেখে বললেনঃ ওটা আমি কখনো তোমাকে ফিরিয়ে দিতাম না যদি আমি মুহরিম না হতাম। (২৫৭৩, ২৫৯৭, মুসলিম ১৫/৮, হাঃ ১১৯৩, আহমাদ ১৬৪২৩) (আধুনিক প্রকাশনীঃ ১৬৯৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1825</td></tr><tr><td>Arabic No</td><td>1825</td></tr><tr><td>Reference</td><td>Book 28 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸஅப் பின் ஜஸ்ஸாமா அல்லைஸீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (மக்கா-மதீனா இடையிலுள்ள) ‘அப்வா’ அல்லது ‘வத்தான்’ எனும் இடத்தில் இருந்தபோது, நான் அவர்களுக்கு ஒரு காட்டுக் கழுதையை அன்பளிப்பாக வழங்கினேன்; அவர்கள் அதை ஏற்க மறுத்துவிட்டார்கள். என் முகத்தில் ஏற்பட்ட (மாற்றத்)தைக் கண்டதும், “நாம் இஹ்ராம் கட்டியிருப்பதால்தான் இதை ஏற்க மறுத்தோம்” என்று கூறினார்கள்.2 அத்தியாயம் : 28
+ஸஅப் பின் ஜஸ்ஸாமா அல்லைஸீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (மக்கா-மதீனா இடையிலுள்ள) ‘அப்வா’ அல்லது ‘வத்தான்’ எனும் இடத்தில் இருந்தபோது, நான் அவர்களுக்கு ஒரு காட்டுக் கழுதையை அன்பளிப்பாக வழங்கினேன்; அவர்கள் அதை ஏற்க மறுத்துவிட்டார்கள். என் முகத்தில் ஏற்பட்ட (மாற்றத்)தைக் கண்டதும், “நாம் இஹ்ராம் கட்டியிருப்பதால்தான் இதை ஏற்க மறுத்தோம்” என்று கூறினார்கள்.2 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1825</td></tr><tr><td>Arabic No</td><td>1825</td></tr><tr><td>Reference</td><td>Book 28 Hadith 5</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sa'b İbn Cessame el-Leysî, Resulullah Sallallahu Aleyhi ve Sellem Ebva'da iken kendisine vahşî bir eşek/zebra hediye etti. Nebi Sallallahu Aleyhi ve Sellem bunu geri verdi. Sa'b'ın yüzündeki hoşnutsuzluğu sezince ona şöyle buyurdu: "Biz yalnızca ihramlı olduğumuz için bunu sana geri verdik". Tekrar: 2596, 2573
+Sa'b İbn Cessame el-Leysî, Resulullah Sallallahu Aleyhi ve Sellem Ebva'da iken kendisine vahşî bir eşek/zebra hediye etti. Nebi Sallallahu Aleyhi ve Sellem bunu geri verdi. Sa'b'ın yüzündeki hoşnutsuzluğu sezince ona şöyle buyurdu: "Biz yalnızca ihramlı olduğumuz için bunu sana geri verdik". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1825</td></tr><tr><td>Arabic No</td><td>1825</td></tr><tr><td>Reference</td><td>Book 28 Hadith 5</td></tr></tbody></table></div>
 

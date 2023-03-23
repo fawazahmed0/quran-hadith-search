@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আন্ নুফায়লী (রহঃ) ..... মুজাহিদ (রহঃ) হতে বর্ণিত। তিনি বলেন, একদা ইবন উমার (রাঃ)-কে জিজ্ঞাসা করা হয়, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কতবার উমরা সম্পন্ন করেন? তখন জবাবে তিনি বলেন, দু‘বার। তখন আয়েশা (রাঃ) বলেন, ইবন উমার (রাঃ) জানত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিদায় হজ্জের সাথে উমরা সম্পন্ন করা ব্যতীতও তিনবার উমরা করেন।
+। মুজাহিদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ইবনু ‘উমার (রাযি.)-কে জিজ্ঞেস করা হলো, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কতবার ‘উমরা করেছেন? তিনি বললেন, দুইবার। ‘আয়িশাহ্ (রাঃ) বললেন, ইবনু ‘উমার (রাযি.) অবগত আছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিদায় হজের (হজ্জের) সাথে যে ‘উমরা করেছেন সেটা ছাড়াও তিনবার ‘উমরা করেছেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1992</td></tr><tr><td>Arabic No</td><td>1992</td></tr><tr><td>Reference</td><td>Book 11 Hadith 272</td></tr></tbody></table></div>
 

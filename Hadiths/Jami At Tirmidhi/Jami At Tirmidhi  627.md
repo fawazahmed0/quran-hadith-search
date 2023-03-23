@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬২৭। মুহাম্মাদ ইবনু বাশশার আব্দুর রহমান ইবনু মাহদী হতে, তিনি সুফিয়ান হতে, তিনি শুবা হতে, তিনি মালিক ইবনু আনাস হতে, হাদীসের মতই হাদীস বর্ণনা করেছেন। আবু সাঈদ হতে বর্ণিত হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। আরো কয়েকটি সূত্রে উপরে উল্লেখিত হাদীসটি তার নিকট হতে বর্ণিত হয়েছে। এই হাদীসের ভিত্তিতে আলিমগণ মত প্রকাশ করেছেন যে, পাঁচ ওয়াসাকের কম পরিমাণ শস্যে কোন যাকাত আদায় করতে হবে না। ষাট সা’ পরিমাণে এক ওয়াসাক হয়। অতএব, পাঁচ ওয়াসাকে তিনশত সা’ হবে। সোয়া পাঁচ রতলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সা’ হত। কুফাবাসীদের এক সা হয় আট রোতল পরিমাণে। পাঁচ উকিয়ার কম পরিমাণ রূপার ক্ষেত্রে যাকাত ধার্য হয় না। চল্লিশ দিরহাম পরিমাণে এক উকিয়া হয়। অতএব, পাঁচ উকিয়া পরিমাণে দুই শত দিরহাম হয়। পাঁচ যাওদ অর্থাৎ পাঁচের কম সংখ্যক উটের ক্ষেত্রে যাকাত ধার্য হয় না। উটের সংখ্যা পঁচিশে পৌছলে তখন যাকাত হিসেরে এক বছরের একটি মাদী উট আদায় করতে হবে। পঁচিশের কম সংখ্যক উট হলে প্রতি পাঁচটি উটে একটি বকরী যাকাত আদায় করতে হবে।
+। মুহাম্মাদ ইবনু বাশশার আব্দুর রহমান ইবনু মাহদী হতে, তিনি সুফিয়ান হতে, তিনি শুবা হতে, তিনি মালিক ইবনু আনাস হতে, হাদীসের মতই হাদীস বর্ণনা করেছেন। আবু সাঈদ হতে বর্ণিত হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন। আরো কয়েকটি সূত্রে উপরে উল্লেখিত হাদীসটি তার নিকট হতে বর্ণিত হয়েছে। এই হাদীসের ভিত্তিতে আলিমগণ মত প্রকাশ করেছেন যে, পাঁচ ওয়াসাকের কম পরিমাণ শস্যে কোন যাকাত আদায় করতে হবে না। ষাট সা’ পরিমাণে এক ওয়াসাক হয়। অতএব, পাঁচ ওয়াসাকে তিনশত সা’ হবে। সোয়া পাঁচ রতলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সা’ হত। কুফাবাসীদের এক সা হয় আট রোতল পরিমাণে। পাঁচ উকিয়ার কম পরিমাণ রূপার ক্ষেত্রে যাকাত ধার্য হয় না। চল্লিশ দিরহাম পরিমাণে এক উকিয়া হয়। অতএব, পাঁচ উকিয়া পরিমাণে দুই শত দিরহাম হয়। পাঁচ যাওদ অর্থাৎ পাঁচের কম সংখ্যক উটের ক্ষেত্রে যাকাত ধার্য হয় না। উটের সংখ্যা পঁচিশে পৌছলে তখন যাকাত হিসেরে এক বছরের একটি মাদী উট আদায় করতে হবে। পঁচিশের কম সংখ্যক উট হলে প্রতি পাঁচটি উটে একটি বকরী যাকাত আদায় করতে হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>627</td></tr><tr><td>Arabic No</td><td>627</td></tr><tr><td>Reference</td><td>Book 7 Hadith 11</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Another chain of narration that) Abu Sa'eed Al-Khudri narrated that :the Prophet said (similar t Hadith no. 626)
+(Another chain of narration that) Abu Sa'eed Al-Khudri narrated that :the Prophet said (similar t Hadith no)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>627</td></tr><tr><td>Arabic No</td><td>627</td></tr><tr><td>Reference</td><td>Book 7 Hadith 11</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫৬৫, আন্তর্জাতিক নাম্বারঃ ২১৭০ ৫৫৬৫-(.../...) 'আমর আন্‌ নাকিদ (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪৮৫, ইসলামিক সেন্টার, ৫৫০৯)
+আমর আন্‌ নাকিদ (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪৮৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5672</td></tr><tr><td>Arabic No</td><td>2170.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 26</td></tr></tbody></table></div>
 

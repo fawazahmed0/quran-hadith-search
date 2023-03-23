@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমুদ ইবন খালিদ (রহঃ) ..... বারা ইবন আযিব (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ তার একটি মোটা-তাজা উষ্ট্রী ছিল, যা একদা জনৈক ব্যক্তির বাগানে প্রবেশ করে তা নষ্ট করে দেয়। এরপর বিষয়টি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট পেশ করা হলে তিনি এরূপ ফয়সালা দেনঃ দিনের বেলা বাগানের মালিক তার বাগানের হিফাযত করবে এবং রাতের বেলা পশুর মালিক তার পশুর রক্ষণা-বেক্ষণ করবে। আর রাতের বেলা যদি কারো পশু অন্যের কোন ক্ষতি করে, তবে পশুর মালিক এর ক্ষতিপূরণ দেবে।
+। আল-বারাআ ইবনু আযিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, তার একটি মোটাতাজা উষ্ট্রী ছিলো। যা একটি বাগানে প্রবেশ করে এর ক্ষতিসাধন করে। এ ব্যাপারে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলে দিলেনঃ বাগানের মালিক দিবের বেলা বাগানের হিফাযাত করবে। আর পশুর মালিক রাতের বেলা পশুর হিফাযাত করবে। সুতরাং রাতের বেলা পশু কোনো ক্ষতিসাধন করলে তার ক্ষতিপূরণ দিবে পশুর মালিক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3570</td></tr><tr><td>Arabic No</td><td>3570</td></tr><tr><td>Reference</td><td>Book 24 Hadith 155</td></tr></tbody></table></div>
 

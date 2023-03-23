@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+(…/...) আবূ বাকর ইবনু আবূ শাইবাহ, আবূ কুরায়ব (রহঃ) একই সূত্রে হিশাম হতে রিওয়ায়াত করেছেন। তবে তাদের একে অন্য হতে কিছু বর্ধিত রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮৪৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6051</td></tr><tr><td>Arabic No</td><td>2328.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 109</td></tr></tbody></table></div>
 

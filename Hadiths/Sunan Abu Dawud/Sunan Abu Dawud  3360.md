@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রাবী ইবন নাফি (রহঃ) .... সা'দ ইবন আবী ওয়াক্‌কাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভিজা খেজুরকে শুকনো খেজুরের বিনিময়ে বিক্রি করতে নিষেধ করেছেন। - শাজ। আবু দাউদ (রহঃ) বলেন, উক্ত হাদিস ইমরান ইবন আবু আনাস বনু মাখজুমের মুক্তদাস সা'দ (রাঃ) হতেও অনুরূপ বর্ণিত হয়েছে। -সহীহ। এতে বাকিতে কথা নেই।
+। সা‘দ ইবনু আবূ ওয়াক্কাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পাকা খেজুরকে খুরমার বিনিময়ে বাকিতে বিক্রি করতে নিষেধ করেছেন।[1] ইমাম আবূ দাঊদ (রহঃ) বলেন, উক্ত হাদীস ইমরান ইবনু আবূ আনাস বনূ মাখযূমের মুক্তদাস সা‘দ (রাঃ) থেকেও অনুরূপ বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>3360</td></tr><tr><td>Reference</td><td>Book 23 Hadith 35</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, আমি একবার ঘুমিয়ে ছিলাম। আমি দেখলাম দুধের একটা পেয়ালা আমাকে দেয়া হল। তা থেকে আমি (এত অধিক) পান করলাম যে, আমা হতে তৃপ্তির চিহ্ন প্রকাশিত হচ্ছিল। অতঃপর (অবশিষ্টাংশ) উমরকে দিলাম। সহাবাগণ বললেন, এ স্বপ্নের ব্যাখ্যা কী দিলেন হে আল্লাহর রাসূল? তিনি বললেনঃ ইলম। [৮২] (আধুনিক প্রকাশনী- ৬৫৪১, ইসলামিক ফাউন্ডেশন- ৬৫৫৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, আমি একবার ঘুমিয়ে ছিলাম। আমি দেখলাম দুধের একটা পেয়ালা আমাকে দেয়া হল। তা থেকে আমি (এত অধিক) পান করলাম যে, আমা হতে তৃপ্তির চিহ্ন প্রকাশিত হচ্ছিল। অতঃপর (অবশিষ্টাংশ) উমরকে দিলাম। সহাবাগণ বললেন, এ স্বপ্নের ব্যাখ্যা কী দিলেন হে আল্লাহর রাসূল? তিনি বললেনঃ ইলম। [৮২] (আধুনিক প্রকাশনী- ৬৫৪১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7027</td></tr><tr><td>Arabic No</td><td>7027</td></tr><tr><td>Reference</td><td>Book 91 Hadith 44</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin 'Umar:I heard Allah's Messenger (ﷺ) saying, "While I was sleeping, I saw a bowl full of milk was brought to me and I drank of it (to my fill) till I noticed its wetness flowing (in my body). Then I gave the remaining of it to 'Umar." They asked, "O Allah's Messenger (ﷺ)! What have you interpreted (about the dream)? He said, "(It is Religious) knowledge." (See Hadith No. 134)
+Narrated 'Abdullah bin 'Umar:I heard Allah's Messenger (ﷺ) saying, "While I was sleeping, I saw a bowl full of milk was brought to me and I drank of it (to my fill) till I noticed its wetness flowing (in my body). Then I gave the remaining of it to 'Umar." They asked, "O Allah's Messenger (ﷺ)! What have you interpreted (about the dream)? He said, "(It is Religious) knowledge." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7027</td></tr><tr><td>Arabic No</td><td>7027</td></tr><tr><td>Reference</td><td>Book 91 Hadith 44</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair], telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் தூங்கிக்கொண்டிருந்தபோது (கனவில்) பால் கோப்பை ஒன்று என்னிடம் கொண்டுவரப்பட்டது. நான் அதிலிருந்த பாலை அருந்த அது (என் நகத்தின் ஊடே வெளியேறி) ஓடக் கண்டேன். பிறகு மீதியை உமருக்குக் கொடுத்தேன். (அப்போது) மக்கள், “அல்லாஹ்வின் தூதரே! அந்தப் பாலுக்கு என்ன விளக்கம் கண்டீர்கள்?” என்று வினவினர். நபி (ஸல்) அவர்கள், ‘அறிவு’ என்று பதிலளித்தார்கள்.47 அத்தியாயம் : 91
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நான் தூங்கிக்கொண்டிருந்தபோது (கனவில்) பால் கோப்பை ஒன்று என்னிடம் கொண்டுவரப்பட்டது. நான் அதிலிருந்த பாலை அருந்த அது (என் நகத்தின் ஊடே வெளியேறி) ஓடக் கண்டேன். பிறகு மீதியை உமருக்குக் கொடுத்தேன். (அப்போது) மக்கள், “அல்லாஹ்வின் தூதரே! அந்தப் பாலுக்கு என்ன விளக்கம் கண்டீர்கள்?” என்று வினவினர். நபி (ஸல்) அவர்கள், ‘அறிவு’ என்று பதிலளித்தார்கள்.47 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7027</td></tr><tr><td>Arabic No</td><td>7027</td></tr><tr><td>Reference</td><td>Book 91 Hadith 44</td></tr></tbody></table></div>
 

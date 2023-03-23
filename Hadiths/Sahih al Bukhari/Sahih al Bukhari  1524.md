@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম বাঁধার স্থান নির্ধারণ করে দিয়েছেন, মাদ্বীনাবাসীদের জন্য যুল-হুলায়ফা, সিরিয়াবাসীদের জন্য জুহ্ফা, নজ্দবাসীদের জন্য কারনুল মানাযিল, ইয়ামানবাসীদের জন্য ইয়ালামলাম। হাজ্জ ও ‘উমরাহ নিয়্যাতকারী সেই অঞ্চলের অধিবাসী এবং ঐ সীমারেখা দিয়ে অতিক্রমকারী অন্যান্য অঞ্চলের অধিবাসী সকলের জন্য উক্ত স্থানগুলো মীকাতরূপে গণ্য এবং যারা এ সব মীকাতের ভিতরে (অর্থাৎ মক্কার নিকটবর্তী) স্থানের অধিবাসী, তারা যেখান হতে হাজ্জের নিয়্যাত করে বের হবে (সেখান হতে ইহরাম বাঁধবে)। এমন কি মক্কা্বাসী মক্কা্ হতেই (হাজ্জের) ইহরাম বাঁধবে। (১৫২৬, ১৫২৯, ১৫৩০, ১৮৪৫, মুসলিম ১৫/২, হাঃ ১১৮১, আহমাদ ২২৪০) (আধুনিক প্রকাশনীঃ ১৪২৫, ইসলামিক ফাউন্ডেশনঃ ১৪৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম বাঁধার স্থান নির্ধারণ করে দিয়েছেন, মাদ্বীনাবাসীদের জন্য যুল-হুলায়ফা, সিরিয়াবাসীদের জন্য জুহ্ফা, নজ্দবাসীদের জন্য কারনুল মানাযিল, ইয়ামানবাসীদের জন্য ইয়ালামলাম। হাজ্জ ও ‘উমরাহ নিয়্যাতকারী সেই অঞ্চলের অধিবাসী এবং ঐ সীমারেখা দিয়ে অতিক্রমকারী অন্যান্য অঞ্চলের অধিবাসী সকলের জন্য উক্ত স্থানগুলো মীকাতরূপে গণ্য এবং যারা এ সব মীকাতের ভিতরে (অর্থাৎ মক্কার নিকটবর্তী) স্থানের অধিবাসী, তারা যেখান হতে হাজ্জের নিয়্যাত করে বের হবে (সেখান হতে ইহরাম বাঁধবে)। এমন কি মক্কা্বাসী মক্কা্ হতেই (হাজ্জের) ইহরাম বাঁধবে। (১৫২৬, ১৫২৯, ১৫৩০, ১৮৪৫, মুসলিম ১৫/২, হাঃ ১১৮১, আহমাদ ২২৪০) (আধুনিক প্রকাশনীঃ ১৪২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1524</td></tr><tr><td>Arabic No</td><td>1524</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், மதீனாவாசி களுக்கு ‘துல்ஹுலைஃபா’வையும் ஷாம் (சிரியா)வாசிகளுக்கு ‘அல்ஜுஹ்ஃபா’வை யும் நஜ்த்வாசிகளுக்கு ‘கர்னுல் மனா ஸிலை’யும் யமன்வாசிகளுக்கு ‘யலம் லமை’யும் இஹ்ராம் கட்டும் எல்லைகளாக நிர்ணயித்தார்கள். இந்த எல்லைகள் இப் பகுதியினருக்கும் ஹஜ் மற்றும் உம்ராவுக் காக வேறு பகுதியிலிருந்து இவ்வழிகளில் வருபவர்களுக்கும் உரியனவாகும். இந்த (வரையறுக்கப்பட்ட) எல்லைக்கு உள்ளே இருப்பவர்கள், தாம் வசிக்கும் இடத்திலேயே இஹ்ராம் கட்டிக்கொள்ள லாம்; மக்காவாசிகள் மக்காவிலேயே இஹ்ராம் கட்டிக்கொள்ளலாம் என்று கூறினார்கள். இதை தாவூஸ் பின் கைசான் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், மதீனாவாசி களுக்கு ‘துல்ஹுலைஃபா’வையும் ஷாம் (சிரியா)வாசிகளுக்கு ‘அல்ஜுஹ்ஃபா’வை யும் நஜ்த்வாசிகளுக்கு ‘கர்னுல் மனா ஸிலை’யும் யமன்வாசிகளுக்கு ‘யலம் லமை’யும் இஹ்ராம் கட்டும் எல்லைகளாக நிர்ணயித்தார்கள். இந்த எல்லைகள் இப் பகுதியினருக்கும் ஹஜ் மற்றும் உம்ராவுக் காக வேறு பகுதியிலிருந்து இவ்வழிகளில் வருபவர்களுக்கும் உரியனவாகும். இந்த (வரையறுக்கப்பட்ட) எல்லைக்கு உள்ளே இருப்பவர்கள், தாம் வசிக்கும் இடத்திலேயே இஹ்ராம் கட்டிக்கொள்ள லாம்; மக்காவாசிகள் மக்காவிலேயே இஹ்ராம் கட்டிக்கொள்ளலாம் என்று கூறினார்கள். இதை தாவூஸ் பின் கைசான் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1524</td></tr><tr><td>Arabic No</td><td>1524</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle demiştir: "Nebi Sallallahu Aleyhi ve Sellem, ihrama girme yeri olarak Medineliler için Zu'l-huleyfe'yi, Suriye tarafından gelecekler için Cuhfe'yi, Necidliler için Karnu'l-Menazil'i, Yemenliler için de Yelemlem'i belirlemiştir. Bu yerler, onlar ve oralara gidip de hac ve umre yapmak isteyen ve o bölgelerin ötesinden gelecek diğer hacılar için mîkat bölgeleridir. Bu bölgelerden daha içeride yani Kabeye daha yakın olanlar ise istedikleri yerden ihrama girebilir. Hatta Mekkeliler de Mekke'­den girebilir." Tekrar: 1526, 1529, 1530, 1845
+İbn Abbas r.a. şöyle demiştir: "Nebi Sallallahu Aleyhi ve Sellem, ihrama girme yeri olarak Medineliler için Zu'l-huleyfe'yi, Suriye tarafından gelecekler için Cuhfe'yi, Necidliler için Karnu'l-Menazil'i, Yemenliler için de Yelemlem'i belirlemiştir. Bu yerler, onlar ve oralara gidip de hac ve umre yapmak isteyen ve o bölgelerin ötesinden gelecek diğer hacılar için mîkat bölgeleridir. Bu bölgelerden daha içeride yani Kabeye daha yakın olanlar ise istedikleri yerden ihrama girebilir. Hatta Mekkeliler de Mekke'­den girebilir." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1524</td></tr><tr><td>Arabic No</td><td>1524</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
 

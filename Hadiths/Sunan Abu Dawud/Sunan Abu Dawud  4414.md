@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মুহাম্মদ (রহঃ) ..... মুজাহিদ (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ পূর্ববর্তী হাদীছে যে 'সাবীল' শব্দ ব্যবহার করা হয়েছে, এর অর্থ হলো- 'হদ' বা আল্লাহ্‌ প্রদত্ত শাস্তির বিধান।
+। মুজাহিদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আল্লাহর বাণী, ‘আস-সাবীল’ অর্থাৎ হাদ্দ। সুফিয়ান (রহঃ) বলেন, ‘ফাআযূহুমা’ অর্থ অবিবাহিতের শাস্তি এবং ‘ফাআমসিকূহুন্না ফিল বুয়ূত’ অর্থ বিবাহিতের শাস্তি।[1] হাসান মাকতূ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>4414</td></tr><tr><td>Reference</td><td>Book 40 Hadith 64</td></tr></tbody></table></div>
 

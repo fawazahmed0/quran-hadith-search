@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫২৪৩, আন্তর্জাতিক নাম্বারঃ ২০৪৯ ৫২৪৩-(১৬২/...) ইয়াহইয়া ইবনু হাবীব হারিসী (রহঃ) ..... সাঈদ ইবনু যায়দ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কামআহ মান্না জাতীয় এক প্রকার উদ্ভিদ। এর রস চোখের জন্য এক প্রকার ঔষধ (ইসলামিক ফাউন্ডেশন ৫১৭৫, ইসলামিক সেন্টার ৫১৮৭)
+ইয়াহইয়া ইবনু হাবীব হারিসী (রহঃ) ..... সাঈদ ইবনু যায়দ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কামআহ মান্না জাতীয় এক প্রকার উদ্ভিদ। এর রস চোখের জন্য এক প্রকার ঔষধ (ইসলামিক ফাউন্ডেশন ৫১৭৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>2049.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 222</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Yahya bin Hubib Al Haritsi] Telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சமையல் காளான் "மன்னு" வகையைச் சேர்ந்ததாகும். அதன் சாறு கண்ணுக்கு நிவாரணமாகும்.- இதை சயீத் பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 36
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: சமையல் காளான் "மன்னு" வகையைச் சேர்ந்ததாகும். அதன் சாறு கண்ணுக்கு நிவாரணமாகும்.- இதை சயீத் பின் ஸைத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>2049.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 222</td></tr></tbody></table></div>
 

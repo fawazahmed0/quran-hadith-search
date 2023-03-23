@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম (রহঃ) ...... ‘আলী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কান কাটা এবং শিং ভাঙা পশু কুরবানী করতে নিষেধ করছেন।
+। ‘আলী (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কান কাটা এবং শিং ভাঙ্গা পশু দ্বারা কুরবানী করতে নিষেধ করেছেন। আবূ দাঊদ (রহঃ) বলেন, বর্ণনাকারী জুরাই সাদূস গোত্রীয় এবং বাসরাহ নিবাসী। তার থেকে কাতাদাহ (রহঃ) ছাড়া কেউই হাদীস বর্ণনা করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2805</td></tr><tr><td>Arabic No</td><td>2805</td></tr><tr><td>Reference</td><td>Book 16 Hadith 18</td></tr></tbody></table></div>
 

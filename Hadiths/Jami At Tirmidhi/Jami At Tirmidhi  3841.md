@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮৪১। আবূ হুরাইরাহ্ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, 'আবদুল্লাহ ইবনু আমর (রাযিঃ) ছাড়া আর কেউ আমার চেয়ে অধিক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর হাদীস রিওয়ায়াত করেনি। কেননা তিনি (হাদীস) লিখে রাখতেন কিন্তু আমি লিখতাম না। সহীহঃ বুখারী (২৬৬৮) নং হাদীস পূর্বে উল্লেখ হয়েছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ হুরাইরাহ্ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, 'আবদুল্লাহ ইবনু আমর (রাযিঃ) ছাড়া আর কেউ আমার চেয়ে অধিক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর হাদীস রিওয়ায়াত করেনি। কেননা তিনি (হাদীস) লিখে রাখতেন কিন্তু আমি লিখতাম না। সহীহঃ বুখারী (২৬৬৮) নং হাদীস পূর্বে উল্লেখ হয়েছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3841</td></tr><tr><td>Arabic No</td><td>3841</td></tr><tr><td>Reference</td><td>Book 49 Hadith 241</td></tr></tbody></table></div>
 

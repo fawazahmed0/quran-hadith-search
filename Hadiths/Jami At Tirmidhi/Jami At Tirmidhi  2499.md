@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৪৯৯। আনাস (রাঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষ মাত্রই গুনাহগার (অপরাধী)। আর গুনাহগারদের মধ্যে তওবাকারীরাই উত্তম। হাসানঃ ইবনু মা-জাহ (৪২৫১)। আবূ ঈসা বলেন, এই হাদীসটি গারীব। আমরা এই হাদীসটি শুধুমাত্র আলী ইবনু মাসআদা হতে কাতাদা (রাহঃ)-এর সূত্রেই জেনেছি।”
+। আনাস (রাঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষ মাত্রই গুনাহগার (অপরাধী)। আর গুনাহগারদের মধ্যে তওবাকারীরাই উত্তম। হাসানঃ ইবনু মা-জাহ (৪২৫১)। আবূ ঈসা বলেন, এই হাদীসটি গারীব। আমরা এই হাদীসটি শুধুমাত্র আলী ইবনু মাসআদা হতে কাতাদা (রাহঃ)-এর সূত্রেই জেনেছি।”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2499</td></tr><tr><td>Arabic No</td><td>2499</td></tr><tr><td>Reference</td><td>Book 37 Hadith 85</td></tr></tbody></table></div>
 

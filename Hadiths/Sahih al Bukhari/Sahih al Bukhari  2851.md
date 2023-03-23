@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, ঘোড়ার কপালের কেশ দামে বরকত আছে। (৩৬৪৫) (মুসলিম ৩৩/২৬ হাঃ ১৮৭৩, আহমাদ ১২৭৫১) (আধুনিক প্রকাশনীঃ ২৬৪১, ইসলামিক ফাউন্ডেশনঃ ২৬৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, ঘোড়ার কপালের কেশ দামে বরকত আছে। (৩৬৪৫) (মুসলিম ৩৩/২৬ হাঃ ১৮৭৩, আহমাদ ১২৭৫১) (আধুনিক প্রকাশনীঃ ২৬৪১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (இறைவழியில் செலுத்தப்படும்) குதிரை களின் நெற்றிகளில் வளம் (பரக்கத்) உள்ளது. இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 56
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (இறைவழியில் செலுத்தப்படும்) குதிரை களின் நெற்றிகளில் வளம் (பரக்கத்) உள்ளது. இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
 

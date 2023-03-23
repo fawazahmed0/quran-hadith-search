@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৩৩৭। আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, ঘুষ গ্রহণকারী ও ঘুষ প্রদানকারী দুজনকেই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অভিসম্পাত করেছেন। সহীহ, প্রাগুক্ত এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, ঘুষ গ্রহণকারী ও ঘুষ প্রদানকারী দুজনকেই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অভিসম্পাত করেছেন। সহীহ, প্রাগুক্ত এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1337</td></tr><tr><td>Arabic No</td><td>1337</td></tr><tr><td>Reference</td><td>Book 15 Hadith 17</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী ইবনে আব্দুল্লাহ (রহঃ) .... মুয়ায ইবনে হিশাম (রাঃ) বলেন, আমি আমার পিতার হস্ত-লিখিত কিতাবে দেখেছি, কিন্তু আমি তার মুখে শুনিনি। তিনি বলেন, আবু কাতাদা ইয়াহ্‌য়া ইবনে মালিক হতে, তিনি সামূরা ইবনে জুনদুব হতে বর্ণনা করেছেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: যেখানে আল্লাহর যিকির হয় তোমরা সেখানে হাযির হবে এবং ইমামের নিকটবর্তী স্থানে থাকবে। কেননা যে ব্যক্তি দুনিয়াতে সবসময় দূরে দূরে অবস্থান করবে (খুতবা, যিকির ইত্যাদি নেককর্ম হতে) যদিও সে বেহেশতী হয়, তবুও সে বিলম্বে তাতে প্রবেশ করবে।
+। সামুরাহ ইবনু জুনদুব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা নসীহতের সময় উপস্থিত থাকবে এবং ইমামের নিকটবর্তী হবে। কারণ যে ব্যক্তি সর্বদা (উপদেশ হতে) দূরে থাকে সে জান্নাতবাসী হলে জান্নাতেও বিলম্বে যাবে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1108</td></tr><tr><td>Arabic No</td><td>1108</td></tr><tr><td>Reference</td><td>Book 2 Hadith 719</td></tr></tbody></table></div>
 

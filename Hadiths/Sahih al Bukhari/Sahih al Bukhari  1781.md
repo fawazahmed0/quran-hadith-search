@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ইসহাক (রহ.) হতে বর্ণিত, তিনি বলেন, আমি মাসরূক, ‘আত্বা এবং মুজাহিদ (রহ.)-কে জিজ্ঞেস করলাম, তাঁরা বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল-কা‘দা মাসে হাজ্জের আগে ‘উমরাহ করেছেন। রাবী বলেন, আমি বারা’ ইবনু ‘আযিব (রাঃ)-কে বলতে শুনেছি যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাজ্জ করার আগে দু’বার যুল-কা‘দা মাসে ‘উমরাহ করেছেন। (১৮৪৪, ২৬৯৮, ২৬৯৯, ২৭০০, ৩১৮৪, ৪২৫১) (আধুনিক প্রকাশনীঃ ১৬৫৪. ইসলামিক ফাউন্ডেশনঃ ১৬৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ইসহাক (রহ.) হতে বর্ণিত, তিনি বলেন, আমি মাসরূক, ‘আত্বা এবং মুজাহিদ (রহ.)-কে জিজ্ঞেস করলাম, তাঁরা বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল-কা‘দা মাসে হাজ্জের আগে ‘উমরাহ করেছেন। রাবী বলেন, আমি বারা’ ইবনু ‘আযিব (রাঃ)-কে বলতে শুনেছি যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাজ্জ করার আগে দু’বার যুল-কা‘দা মাসে ‘উমরাহ করেছেন। (১৮৪৪, ২৬৯৮, ২৬৯৯, ২৭০০, ৩১৮৪, ৪২৫১) (আধুনিক প্রকাশনীঃ ১৬৫৪. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 26 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin 'Utsman] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஇஸ்ஹாக் (ரஹ்) அவர்கள் கூறியதாவது: மஸ்ரூக், அதாஉ, முஜாஹித் (ரஹ்) ஆகியோரிடம் (நபி (ஸல்) அவர்கள் செய்த உம்ராவைப் பற்றி) நான் கேட்டேன். அதற்கு அவர்கள் அனைவரும், “அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஹஜ் செய்வதற்கு முன்னர் துல்கஅதாவில் உம்ரா செய்துள்ளார்கள்” என்று கூறினர். மேலும், “நபி (ஸல்) அவர்கள் ஹஜ் செய்வதற்கு முன்பு துல்கஅதாவில் (வெவ்வேறு ஆண்டுகளில்) இரண்டு முறை உம்ரா செய்துள்ளார்கள்” என பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூற நான் கேட்டுள்ளேன்.8 அத்தியாயம் : 26
+அபூஇஸ்ஹாக் (ரஹ்) அவர்கள் கூறியதாவது: மஸ்ரூக், அதாஉ, முஜாஹித் (ரஹ்) ஆகியோரிடம் (நபி (ஸல்) அவர்கள் செய்த உம்ராவைப் பற்றி) நான் கேட்டேன். அதற்கு அவர்கள் அனைவரும், “அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஹஜ் செய்வதற்கு முன்னர் துல்கஅதாவில் உம்ரா செய்துள்ளார்கள்” என்று கூறினர். மேலும், “நபி (ஸல்) அவர்கள் ஹஜ் செய்வதற்கு முன்பு துல்கஅதாவில் (வெவ்வேறு ஆண்டுகளில்) இரண்டு முறை உம்ரா செய்துள்ளார்கள்” என பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூற நான் கேட்டுள்ளேன்.8 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 26 Hadith 8</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin 'Utsman] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu İshak şöyle dedi: Mesruk, Ata ve Mücahid'e (Nebi Sallallahu Aleyhi ve Sellem'in) umrelerini sordum. şöyle dediler: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında umre yaptı. Ebu İshak dediki: Bera bin A'zib r.a.'e sordum şöyle cevap verdi: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında iki kere umre yaptı. Yani haccın farz kılındığı hükmünün gelmesinden önceki yıllarda. Tekrar: 1844, 2698, 2699, 2700, 3184, 4251
+Ebu İshak şöyle dedi: Mesruk, Ata ve Mücahid'e (Nebi Sallallahu Aleyhi ve Sellem'in) umrelerini sordum. şöyle dediler: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında umre yaptı. Ebu İshak dediki: Bera bin A'zib r.a.'e sordum şöyle cevap verdi: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında iki kere umre yaptı. Yani haccın farz kılındığı hükmünün gelmesinden önceki yıllarda. Tekrar: 1844
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 26 Hadith 8</td></tr></tbody></table></div>
 

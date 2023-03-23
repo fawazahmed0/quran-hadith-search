@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনুস সারহ্ .... আবদুল্লাহ্ ইবনু আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি বলেন, ইয়া রাসূলাল্লাহ্! মুআযযিনরা তো আমাদের উপর ফযীলত প্রাপ্ত হচ্ছে। আমরা কিভাবে তাদের সমান ছওয়াব পাব? তিনি বলেনঃ মুআযযিনরা যেরূপ বলে-তুমিও তদ্রুপ বলবে। অতঃপর যখন আযান শেয করবে, তখন আল্লাহর নিকট প্রার্থনা করলে তুমিও তদ্রুপ ছওয়াব প্রাপ্ত হবে। (নাসাঈ)।
+। ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। এক ব্যক্তি বলল, হে আল্লাহর রসূল! মুয়াজ্জিন তো আমাদের উপর মর্যাদার অধিকারী হয়ে যাচ্ছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মুয়াজ্জিনরা যেরূপ বলে থাকে তোমরাও সেরূপ বলবে। অতঃপর আযান শেষ হলে (আল্লাহর নিকট) দু‘আ করবে। তখন তোমাকে তা-ই দেয়া হবে (তোমার দু‘আ কবুল হবে)।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 2 Hadith 134</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ibnu As-Sarj] dan [Muhammad bin Salamah] mereka 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Amr'den rivayet edildiğine göre, Bir adam; Ya Resulullah (s.a.v.) müezzinler faziletçe bizi geçtiler, deyince; Resulullah (Sallallahu aleyhi ve Sellem) da şöyle buyurmuştur: "Onların (ezan okurken) söylediklerini sen de söyle (ezanın) sonuna erdiğinde de iste, istediğin verilir" Diğer tahric: Ahmed b. Hanbel I, 172
+Abdullah b. Amr'den rivayet edildiğine göre, Bir adam; Ya Resulullah (s.a.v.) müezzinler faziletçe bizi geçtiler, deyince; Resulullah (Sallallahu aleyhi ve Sellem) da şöyle buyurmuştur: "Onların (ezan okurken) söylediklerini sen de söyle (ezanın) sonuna erdiğinde de iste, istediğin verilir" Diğer tahric: Ahmed b. Hanbel I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 2 Hadith 134</td></tr></tbody></table></div>
 

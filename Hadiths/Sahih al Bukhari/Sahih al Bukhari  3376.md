@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-بِرُكْنِهِ بِمَنْ مَعَهُ لِأَنَّهُمْ قُوَّتُهُ تَرْكَنُوْا تَمِيْلُوْا فَأَنْكَرَهُمْ وِ نَكِرَهُمْ وَاسْتَنْكَرَهُمْ وَاحِدٌ يُهْرَعُوْنَ يُسْرِعُوْنَ دَابِرٌ آخِرٌ صَيْحَةٌ هَلَكَةٌ لِلْمُتَوَسِّمِيْنَ لِلنَّاظِرِيْنَ لَبِسَبِيْلٍ لَبِطَرِيْقٍ أَنْكَرَهُمْ - نَكِرَهُمْ - اسْتَنْكَرَهُمْ একই অর্থে ব্যবহৃত يُهْرَعُوْنَ অর্থ দ্রুত চলল دَابِرٌ অর্থ শেষ صَيْحَةٌ অর্থ ধ্বংস لِلْمُتَوَسِّمِيْنَ অর্থ প্রত্যক্ষকারীদের জন্য لَبِسَبِيْلٍ অর্থ রাস্তার। ৩৩৭৬. ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম فَهَلْ مِنْ مُدَّكِرٍ পড়েছেন। (৩৩৪১) (আধুনিক প্রকাশনীঃ ৩১২৬, ইসলামিক ফাউন্ডেশনঃ ৩১৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بِرُكْنِهِ بِمَنْ مَعَهُ لِأَنَّهُمْ قُوَّتُهُ تَرْكَنُوْا تَمِيْلُوْا فَأَنْكَرَهُمْ وِ نَكِرَهُمْ وَاسْتَنْكَرَهُمْ وَاحِدٌ يُهْرَعُوْنَ يُسْرِعُوْنَ دَابِرٌ آخِرٌ صَيْحَةٌ هَلَكَةٌ لِلْمُتَوَسِّمِيْنَ لِلنَّاظِرِيْنَ لَبِسَبِيْلٍ لَبِطَرِيْقٍ أَنْكَرَهُمْ - نَكِرَهُمْ - اسْتَنْكَرَهُمْ একই অর্থে ব্যবহৃত يُهْرَعُوْنَ অর্থ দ্রুত চলল دَابِرٌ অর্থ শেষ صَيْحَةٌ অর্থ ধ্বংস لِلْمُتَوَسِّمِيْنَ অর্থ প্রত্যক্ষকারীদের জন্য لَبِسَبِيْلٍ অর্থ রাস্তার। ৩৩৭৬. ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম فَهَلْ مِنْ مُدَّكِرٍ পড়েছেন। (৩৩৪১) (আধুনিক প্রকাশনীঃ ৩১২৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3376</td></tr><tr><td>Arabic No</td><td>3376</td></tr><tr><td>Reference</td><td>Book 60 Hadith 50</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Abdullah:The Prophet (ﷺ) recited:-- 'Hal-min-Muddakir' (54.15) (Is t
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah bercerita kepada kami [Mahmud] telah bercerita kepada kami [Abu Ahmad] telah bercerita kepada kami [Sufyan] dari [Abu Ishaq] dari [Al Aswad] dari ['Abdullah radliallahu 'anhu] berkata; "Nabi shallallahu 'alaihi wasallam memaca ayat fahal min muddakir" ("apakah ada yang mengambil pelajaran) " (QS. Alqomar; 15)
+Telah bercerita kepada kami [Mahmud] telah bercerita kepada kami [Abu Ahmad] telah bercerita kepada kami [Sufyan] dari [Abu Ishaq] dari [Al Aswad] dari ['Abdullah radliallahu 'anhu] berkata; "Nabi shallallahu 'alaihi wasallam memaca ayat fahal min muddakir" ("apakah ada yang mengambil pelajaran) " (QS. Alqomar;)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3376</td></tr><tr><td>Arabic No</td><td>3376</td></tr><tr><td>Reference</td><td>Book 60 Hadith 50</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Mahmud] telah bercerita kepada kami [Abu Ahmad] tel
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘அறிவுரை பெறுபவர் எவரேனும் உண்டா?” எனும் (54ஆவது அத்தியாயத்தில் இடம்பெற் றுள்ள) இறைவசனத்தை ஓதினார்கள்.52 அத்தியாயம் : 60
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘அறிவுரை பெறுபவர் எவரேனும் உண்டா?” எனும் (54ஆவது அத்தியாயத்தில் இடம்பெற் றுள்ள) இறைவசனத்தை ஓதினார்கள்.52 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3376</td></tr><tr><td>Arabic No</td><td>3376</td></tr><tr><td>Reference</td><td>Book 60 Hadith 50</td></tr></tbody></table></div>
 

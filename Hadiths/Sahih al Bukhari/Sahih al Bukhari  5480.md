@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন, তিনি বলেনঃ যে ব্যক্তি এমন কুকুর পালে যেটি পশু রক্ষার জন্যও নয় কিংবা শিকারের জন্যও নয়; তার ‘আমল থেকে প্রত্যহ দু’ কীরাত পরিমাণ কমে যাবে। [৫৪৮১, ৫৪৮২] (আধুনিক প্রকাশনী- ৫০৭৫, ইসলামিক ফাউন্ডেশন- ৪৯৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন, তিনি বলেনঃ যে ব্যক্তি এমন কুকুর পালে যেটি পশু রক্ষার জন্যও নয় কিংবা শিকারের জন্যও নয়; তার ‘আমল থেকে প্রত্যহ দু’ কীরাত পরিমাণ কমে যাবে। [৫৪৮১, ৫৪৮২] (আধুনিক প্রকাশনী- ৫০৭৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5480</td></tr><tr><td>Arabic No</td><td>5480</td></tr><tr><td>Reference</td><td>Book 72 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: கால்நடைகளைப் பாதுகாப்பதற் காகவோ வேட்டையாடுவதற்காகவோ அல்லாமல் எவர் நாய் வைத்திருக்கிறாரோ அவருடைய நற்செய(ன் நன்மை ‘)ருந்து ஒவ்வொரு நாளும் இரண்டு ‘கீராத்’கள் அளவு குறைந்துவிடும்.8 இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 72
+நபி (ஸல்) அவர்கள் கூறினார்கள்: கால்நடைகளைப் பாதுகாப்பதற் காகவோ வேட்டையாடுவதற்காகவோ அல்லாமல் எவர் நாய் வைத்திருக்கிறாரோ அவருடைய நற்செய(ன் நன்மை ‘)ருந்து ஒவ்வொரு நாளும் இரண்டு ‘கீராத்’கள் அளவு குறைந்துவிடும்.8 இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5480</td></tr><tr><td>Arabic No</td><td>5480</td></tr><tr><td>Reference</td><td>Book 72 Hadith 6</td></tr></tbody></table></div>
 

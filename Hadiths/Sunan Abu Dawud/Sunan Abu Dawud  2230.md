@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্ কা‘নবী .... ইবন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, খুলা তালাকপ্রাপ্তা মহিলার ইদ্দত হলো এক হায়েয মাত্র।
+। ইবনু উমার (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, খোলা‘ তালাকপ্রাপ্তা মহিলার ইদ্দাতকাল হচ্ছে এক হায়িয।[1] সহীহ মাওকুফ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2230</td></tr><tr><td>Arabic No</td><td>2230</td></tr><tr><td>Reference</td><td>Book 13 Hadith 56</td></tr></tbody></table></div>
 

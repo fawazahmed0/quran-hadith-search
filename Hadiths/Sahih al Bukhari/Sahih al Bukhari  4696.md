@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উরওয়াহ (রা.) হতে বর্ণিত। তিনি বলেনঃ আমি ‘আয়িশাহ (রাঃ)-কে বললাম সম্ভবত كُذِبُوْا (তাখফীফ সহ)। তিনি বললেন, মা‘আযাল্লাহ! ঐরূপ (كُذُّبُوْا)। [৩৩৮৯] (আধুনিক প্রকাশনীঃ ৪৩৩৫, ইসলামিক ফাউন্ডেশনঃ ৪৩৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উরওয়াহ (রা.) হতে বর্ণিত। তিনি বলেনঃ আমি ‘আয়িশাহ (রাঃ)-কে বললাম সম্ভবত كُذِبُوْا (তাখফীফ সহ)। তিনি বললেন, মা‘আযাল্লাহ! ঐরূপ (كُذُّبُوْا)। [৩৩৮৯] (আধুনিক প্রকাশনীঃ ৪৩৩৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4696</td></tr><tr><td>Arabic No</td><td>4696</td></tr><tr><td>Reference</td><td>Book 65 Hadith 218</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Urwa:"I told her ('Aisha): (Regarding the above narration), they (Apos
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா (ரஹ்) அவர்கள் கூறியதாவது: நான் (ஆயிஷா (ரலி) அவர்களிடம்), “அது அழுத்தல் குறி இல்லாமல் “குஃதிபூ' என்றிருக்கலாம் அல்லவா?” என்று கேட்டேன். அதற்கு அவர்கள், “அல்லாஹ் காப்பாற்றட்டும்' என்று மேற்கண்டபடி சொன்னார்கள். அத்தியாயம் : 65
+உர்வா (ரஹ்) அவர்கள் கூறியதாவது: நான் (ஆயிஷா (ரலி) அவர்களிடம்), “அது அழுத்தல் குறி இல்லாமல் “குஃதிபூ' என்றிருக்கலாம் அல்லவா?” என்று கேட்டேன். அதற்கு அவர்கள், “அல்லாஹ் காப்பாற்றட்டும்' என்று மேற்கண்டபடி சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4696</td></tr><tr><td>Arabic No</td><td>4696</td></tr><tr><td>Reference</td><td>Book 65 Hadith 218</td></tr></tbody></table></div>
 

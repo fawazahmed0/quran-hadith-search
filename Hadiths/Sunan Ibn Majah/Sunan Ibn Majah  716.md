@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭/৭১৬। বিলাল (রাঃ) থেকে বর্ণিত। তিনি ফজরের সালাত সম্পর্কে অবহিত করার জন্য নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এলেন। তাকে বলা হল যে, তিনি ঘুমিয়ে আছেন। তখন বিলাল বলেন, ঘুম থেকে সালাত উত্তম; ঘুম থেকে সালাত উত্তম। এ বাক্য ফজরের আযানে যোগ করা হল এবং তদনুযায়ী আমল চলে আসছে।
+। বিলাল (রাঃ) থেকে বর্ণিত। তিনি ফজরের সালাত সম্পর্কে অবহিত করার জন্য নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এলেন। তাকে বলা হল যে, তিনি ঘুমিয়ে আছেন। তখন বিলাল বলেন, ঘুম থেকে সালাত উত্তম; ঘুম থেকে সালাত উত্তম। এ বাক্য ফজরের আযানে যোগ করা হল এবং তদনুযায়ী আমল চলে আসছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 3 Hadith 11</td></tr></tbody></table></div>
 

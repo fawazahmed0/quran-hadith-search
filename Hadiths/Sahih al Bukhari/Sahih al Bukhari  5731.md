@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মাদ্বীনায় ঢুকতে পারবে না মাসীহ্ দাজ্জাল, আর না প্লেগ মহামারী। [১৮৮০] (আধুনিক প্রকাশনী- ৫৩১১, ইসলামিক ফাউন্ডেশন- ৫২০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মাদ্বীনায় ঢুকতে পারবে না মাসীহ্ দাজ্জাল, আর না প্লেগ মহামারী। [১৮৮০] (আধুনিক প্রকাশনী- ৫৩১১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5731</td></tr><tr><td>Arabic No</td><td>5731</td></tr><tr><td>Reference</td><td>Book 76 Hadith 46</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மதீனாவில் மஸீஹ் (தஜ்ஜால்) நுழையமாட்டான்; கொள்ளைநோயும் நுழையாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.61 அத்தியாயம் : 76
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மதீனாவில் மஸீஹ் (தஜ்ஜால்) நுழையமாட்டான்; கொள்ளைநோயும் நுழையாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.61 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5731</td></tr><tr><td>Arabic No</td><td>5731</td></tr><tr><td>Reference</td><td>Book 76 Hadith 46</td></tr></tbody></table></div>
 

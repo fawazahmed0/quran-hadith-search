@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩২৫, আন্তর্জাতিক নাম্বারঃ ৩২৬ আল্লাহ তা'আলা বলেন- “আমি আকাশ থেকে পবিত্র পানি অবতরণ করেছি”- (সূরা আল ফুরকান ২৫: ৪৮)। তিনি আরো বলেন- “অতঃপর যদি পানি না পাও তবে পবিত্র মাটি দ্বারা তায়াম্মুম কর”- (সূরা আন নিসা ৪: ৪৩)। ৩২৫. সুওয়াইদ ইবনু নাসর (রহ.) ..... ইবনু আব্বাস (রাঃ) হতে বর্ণিত। নবী (সা.) -এর স্ত্রীদের মধ্যে একজন অপবিত্রতার গোসল করলে তার গোসলের উদ্ধৃত্ত পানি দ্বারা নবী (সা.) উযূ করলেন, পরে তিনি নবী (সা.) -এর কাছে তা বললে তিনি বললেন, পানিকে কোন বস্তুই অপবিত্র করে না। সহীহ: আবূ দাউদ ৬৮, তিরমিযী ৬৫, ইবনু মাজাহ ৩৭০, দারিমী ৭৩৫, সহীহ ইবনু খুযায়মাহ্ ৯১।
+। সুওয়ায়দ ইবনু নাসর (রহঃ) ... ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিণীদের মধ্যে একজন জানবাতের গোসল করলে তার গোসলের উদ্বৃত্ত পানি দ্বারা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উযু করলেন। পরে তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট তা উল্লেখ করলে তিনি বলেনঃ পানিকে কোন বস্তুই নাপাক করে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>325</td></tr><tr><td>Arabic No</td><td>325</td></tr><tr><td>Reference</td><td>Book 2 Hadith 1</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Suwaid bin Nashr] dia berkata; telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbâs (radıyallahü anh)’tan naklediliyor: Rasûlüllah (sallallahü aleyhi ve sellem)’in hanımlarından bir kısmı cünüplükten dolayı guslederlerdi. Peygamber (sallallahü aleyhi ve sellem)’de onlardan arta kalan su ile abdest alırdı. O suyun kendi gusüllerinden artan su olduğunu bildirdiklerinde Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: temizdir, onu hiçbir kullanan kimsenin durumu pislemez.) (Ebû Dâvûd, Tahara: 35; Tirmizî, Tahara: 50)
+İbn Abbâs (radıyallahü anh)’tan naklediliyor: Rasûlüllah (sallallahü aleyhi ve sellem)’in hanımlarından bir kısmı cünüplükten dolayı guslederlerdi. Peygamber (sallallahü aleyhi ve sellem)’de onlardan arta kalan su ile abdest alırdı. O suyun kendi gusüllerinden artan su olduğunu bildirdiklerinde Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: temizdir, onu hiçbir kullanan kimsenin durumu pislemez.) (Ebû Dâvûd, Tahara: 35; Tirmizî, Tahara:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>325</td></tr><tr><td>Arabic No</td><td>325</td></tr><tr><td>Reference</td><td>Book 2 Hadith 1</td></tr></tbody></table></div>
 

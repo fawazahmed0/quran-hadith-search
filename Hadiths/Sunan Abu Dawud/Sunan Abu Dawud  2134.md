@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল ..... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর স্ত্রীদের মধ্যে ইনসাফভিত্তিক (সব কিছুই) বণ্টন করতেন এবং বলতেন, হে আল্লাহ্! আমার পক্ষে যা সম্ভব, আমি তা করছি। আর আপনি যার মালিক (অন্তরের) এবং আমি নই, সে ব্যাপারে আমাকে দোষারোপ করবেন না।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্ত্রীদের মধ্যে ইনসাফভিত্তিক বন্টন করে বলতেনঃ ‘হে আল্লাহ! এটা আমার পক্ষ থেকে ইনসাফ, যেটুকু আমার সম্ভব হয়েছে। আর যা আপনার নিয়ন্ত্রণে এবং আমার সাধ্যের বাইরে, সেজন্য আমাকে অভিযুক্ত করবেন না।’[1] দুর্বলঃ মিশকাত (৩২৩৫), যঈফ সুনান ইবনু মাজাহ (৪২৭), ইরওয়া (২০১৮), যঈফ সুনান আত-তিরমিযী (১৯৩/১১৫৫). যঈফ সুনান নাসায়ী (২৬১/৩৯৪৩)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2134</td></tr><tr><td>Arabic No</td><td>2134</td></tr><tr><td>Reference</td><td>Book 12 Hadith 89</td></tr></tbody></table></div>
 

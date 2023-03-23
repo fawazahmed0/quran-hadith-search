@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৮। আল-হাসান ইবনু আলী বর্ণনা করেন, তিনি আব্দুর রাজ্জাক হতে, তিনি মামার হতে, তিনি যুহরী হতে, তিনি সাঈদ ইবনুল মুসাইয়িব ওয়াসাল্লাম হতে, আবু সালামার সূত্রে বর্ণিত আবু হুরাইরার মতোই হাদীস বর্ণনা করেছেন। এই হাদীসটি ইয়াযিদ ইবনু যুরাই-এর হাদীসের চেয়ে অধিক সহীহ।
+। আল-হাসান ইবনু আলী বর্ণনা করেন, তিনি আব্দুর রাজ্জাক হতে, তিনি মামার হতে, তিনি যুহরী হতে, তিনি সাঈদ ইবনুল মুসাইয়িব ওয়াসাল্লাম হতে, আবু সালামার সূত্রে বর্ণিত আবু হুরাইরার মতোই হাদীস বর্ণনা করেছেন। এই হাদীসটি ইয়াযিদ ইবনু যুরাই-এর হাদীসের চেয়ে অধিক সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>328</td></tr><tr><td>Arabic No</td><td>328</td></tr><tr><td>Reference</td><td>Book 2 Hadith 180</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Another chain with a similar narration) from Abu Hurairah :[from the Prophet]. And this is more correct than the Hadith of Yazid bin Zurai. (no. 327)
+(Another chain with a similar narration) from Abu Hurairah :[from the Prophet]. And this is more correct than the Hadith of Yazid bin Zurai. (no)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>328</td></tr><tr><td>Arabic No</td><td>328</td></tr><tr><td>Reference</td><td>Book 2 Hadith 180</td></tr></tbody></table></div>
 

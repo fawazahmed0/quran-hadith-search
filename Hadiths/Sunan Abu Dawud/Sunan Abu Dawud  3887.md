@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম ইবন মাহদী (রহঃ) .... শিফা বিনত আবদুল্লাহ (রাঃ) বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার নিকট আসেন, যখন আমি হাফসা (রাঃ)-এর নিকট ছিলাম। তখন তিনি আমাকে বলেনঃ তুমি তাকে কেন নামলা (এক প্রকার রোগ সারার মন্ত্র) শিখাও না, যেমন তুমি তাকে লেখা শিখিয়েছ?
+। আশ-শিফা বিনতু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি হাফসাহ (রাঃ)-এর নিকট ছিলাম, তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার নিকট এসে বললেনঃ তুমি ওকে (হাফসাহকে) যেভাবে লেখা শিখিয়েছ, সেখাবে পিপড়া (পোকা) কামড়ের ঝাড়ফুঁক শিক্ষা দাও না কেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3887</td></tr><tr><td>Arabic No</td><td>3887</td></tr><tr><td>Reference</td><td>Book 29 Hadith 33</td></tr></tbody></table></div>
 

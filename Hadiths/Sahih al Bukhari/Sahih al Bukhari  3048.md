@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। আনসারগণের কয়েকজন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট অনুমতি চেয়ে বললেন, হে আল্লাহর রাসূল! আপনি যদি আমাদের অনুমতি দান করেন, তবে আমরা আমাদের ভাগ্নে ‘আব্বাসের মুক্তিপণ ছেড়ে দিতে পারি। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, না, একটি দিরহামও ছাড় দিবে না। (২৫৩৭) (ইসলামিক ফাউন্ডেশনঃ ২৮৩১ প্রথমাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3048</td></tr><tr><td>Arabic No</td><td>3048</td></tr><tr><td>Reference</td><td>Book 56 Hadith 254</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Anas bin Malik:Some Ansari men asked permission from Allah's Messenger 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அன்சாரிகளில் சிலர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், ‘‘அல்லாஹ் வின் தூதரே! எங்கள் சகோதரி மகன் அப்பாஸ் அவர்களின் பிணைத் தொகையை நாங்கள் (வாங்காமல்) விட்டு விட அனுமதியுங்கள்” என்று கேட்டனர். நபி (ஸல்) அவர்கள், ‘‘பிணைத் தொகை ‘லிருந்து ஒரேயொரு திர்ஹத்தைக்கூட (வாங்காமல்) விட்டுவிடாதீர்கள்” என்று (தம் தோழர்களிடம்) சொன்னார்கள்.160 அத்தியாயம் : 56
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அன்சாரிகளில் சிலர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், ‘‘அல்லாஹ் வின் தூதரே! எங்கள் சகோதரி மகன் அப்பாஸ் அவர்களின் பிணைத் தொகையை நாங்கள் (வாங்காமல்) விட்டு விட அனுமதியுங்கள்” என்று கேட்டனர். நபி (ஸல்) அவர்கள், ‘‘பிணைத் தொகை ‘லிருந்து ஒரேயொரு திர்ஹத்தைக்கூட (வாங்காமல்) விட்டுவிடாதீர்கள்” என்று (தம் தோழர்களிடம்) சொன்னார்கள்.160 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3048</td></tr><tr><td>Arabic No</td><td>3048</td></tr><tr><td>Reference</td><td>Book 56 Hadith 254</td></tr></tbody></table></div>
 

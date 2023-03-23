@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন সময় ‘আসরের সালাত আদায় করেছেন যে, সূর্যরশ্মি তখনো তাঁর ঘরের মধ্যে ছিল, আর ছায়া তখনো তাঁর ঘর হতে বেরিয়ে পড়েনি। (৫২২) (আধুনিক প্রকাশনীঃ ৫১২, ইসলামিক ফাউন্ডেশনঃ ৫১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন সময় ‘আসরের সালাত আদায় করেছেন যে, সূর্যরশ্মি তখনো তাঁর ঘরের মধ্যে ছিল, আর ছায়া তখনো তাঁর ঘর হতে বেরিয়ে পড়েনি। (৫২২) (আধুনিক প্রকাশনীঃ ৫১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>545</td></tr><tr><td>Arabic No</td><td>545</td></tr><tr><td>Reference</td><td>Book 9 Hadith 22</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: சூரிய ஒளி எனது அறைக்குள் இருந்துகொண்டிருக்க, அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அஸ்ர் தொழுகையைத் தொழுவார்கள்; அப்போது எனது அறையில் நிழல் படிந்திருக்காது. அத்தியாயம் : 9
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: சூரிய ஒளி எனது அறைக்குள் இருந்துகொண்டிருக்க, அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அஸ்ர் தொழுகையைத் தொழுவார்கள்; அப்போது எனது அறையில் நிழல் படிந்திருக்காது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>545</td></tr><tr><td>Arabic No</td><td>545</td></tr><tr><td>Reference</td><td>Book 9 Hadith 22</td></tr></tbody></table></div>
 

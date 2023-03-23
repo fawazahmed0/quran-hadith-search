@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আমাকে খুব ভালভাবে জানি, ইসলাম গ্রহণ করার ব্যাপারে আমি ছিলাম তৃতীয় ব্যক্তি। (৩৭২৭, ৩৮৫৮) (আধুনিক প্রকাশনীঃ ৩৪৪৮, ইসলামিক ফাউন্ডেশনঃ ৩৪৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আমাকে খুব ভালভাবে জানি, ইসলাম গ্রহণ করার ব্যাপারে আমি ছিলাম তৃতীয় ব্যক্তি। (৩৭২৭, ৩৮৫৮) (আধুনিক প্রকাশনীঃ ৩৪৪৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 62 Hadith 73</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Makkiy bin Ibrahim] telah bercerita kepada kami [Ha
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: இஸ்லாத்தில் மூன்றிலொரு பாகமாக என்னை நான் கண்டேன்.102 அத்தியாயம் : 62
+சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் கூறியதாவது: இஸ்லாத்தில் மூன்றிலொரு பாகமாக என்னை நான் கண்டேன்.102 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 62 Hadith 73</td></tr></tbody></table></div>
 

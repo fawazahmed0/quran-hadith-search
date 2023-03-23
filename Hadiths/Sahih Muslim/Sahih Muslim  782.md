@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবদুল ওয়ারিস ইবনু আবদুস সামাদ (রহঃ) ..... আবূ আইয়ূব (রাযিঃ) থেকে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এমন শুনেছেন। (ইসলামিক ফাউন্ডেশনঃ ৬৭৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>347.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 104</td></tr></tbody></table></div>
 

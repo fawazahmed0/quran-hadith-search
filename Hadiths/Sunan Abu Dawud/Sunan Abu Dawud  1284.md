@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন বাশশার (রহঃ) .... তাউস (রহঃ) হতে বর্ণিত। তিনি বলেন, উমার (রাঃ)-কে মাগরিবের নামাযের পূর্বে দুই রাকাত নামায আদায় সম্পর্কে জিজ্ঞাসা করা হলে তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যুগে আমি কাউকেও তা আদায় করতে দেখিনি এবং আমি কাউকেও আসরের পরে দুই রাকাত নামায আদায়ের ব্যাপারে অনুমতি দিতে দেখিনি।
+। তাঊস (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ইবনু ‘উমার রাযিয়াল্লাহু ‘আনহুমা-কে মাগরিবের পূর্বে দু’ রাক‘আত সালাত সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে আমি কাউকে এ সালাত আদায় করতে দেখিনি। তবে ‘আসরের পরে দু’ রাক‘আত সালাত আদায়ের অনুমতি আছে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1284</td></tr><tr><td>Arabic No</td><td>1284</td></tr><tr><td>Reference</td><td>Book 5 Hadith 35</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ibnu Basyar] telah menceritakan kepada kami [Muh
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Tavus'dan nakledildiğine göre; İbn Ömer'e akşamdan önce kılınan iki rekat (namaz) sorulunca o, (şöyle) cevab vermiştir: Ben Resûlullah (s.a.v.) zamanında ne bu iki rekatı kılan bir kimse, ne de ikindiden sonra iki rekat(lık bir namaz) kılmaya izin verilen bir kimse gördüm. Ebu Davud dediki: Ben Yahya b. Maîn'i; "O’nun ismi) Şuayb'dır. (İbn Şu'ayb değil)" derken işittim. Şu'be, O'nun isminde yanıl­mıştır. Diğer tahric: Beyhakî, es-Sünenii'l-kübrâ, II, 476
+Tavus'dan nakledildiğine göre; İbn Ömer'e akşamdan önce kılınan iki rekat (namaz) sorulunca o, (şöyle) cevab vermiştir: Ben Resûlullah (s.a.v.) zamanında ne bu iki rekatı kılan bir kimse, ne de ikindiden sonra iki rekat(lık bir namaz) kılmaya izin verilen bir kimse gördüm. Ebu Davud dediki: Ben Yahya b. Maîn'i; "O’nun ismi) Şuayb'dır. (İbn Şu'ayb değil)" derken işittim. Şu'be, O'nun isminde yanıl­mıştır. Diğer tahric: Beyhakî, es-Sünenii'l-kübrâ, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1284</td></tr><tr><td>Arabic No</td><td>1284</td></tr><tr><td>Reference</td><td>Book 5 Hadith 35</td></tr></tbody></table></div>
 

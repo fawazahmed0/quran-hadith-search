@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতাইবাহ (রহ.) ‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদিনায় আসার পর থেকে মৃত্যু পর্যন্ত তাঁর পরিবারের লোকেরা এক নাগাড়ে তিন রাত গমের রুটি পেট পুরে খাননি। [৬৪৫৪; মুসলিম পর্ব ৫৩/হাঃ ২৯৭০, আহমাদ ২৬৪২৭] (আধুনিক প্রকাশনী- ৫০১৩, ইসলামিক ফাউন্ডেশন- ৪৯০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কুতাইবাহ (রহ.) ‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদিনায় আসার পর থেকে মৃত্যু পর্যন্ত তাঁর পরিবারের লোকেরা এক নাগাড়ে তিন রাত গমের রুটি পেট পুরে খাননি। [৬৪৫৪; মুসলিম পর্ব ৫৩/হাঃ ২৯৭০, আহমাদ ২৬৪২৭] (আধুনিক প্রকাশনী- ৫০১৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5416</td></tr><tr><td>Arabic No</td><td>5416</td></tr><tr><td>Reference</td><td>Book 70 Hadith 44</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Jarir]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: முஹம்மத் (ஸல்) அவர்கள் மதீனாவுக்கு வந்ததிலிருந்து அவர்கள் இறக்கும் வரை அவர்களின் குடும்பத்தார் தொலி நீக்கப்பட்ட கோதுமை உணவைத் தொடர்ந்து மூன்று நாட்கள் வயிறு நிரம்ப உண்டதில்லை. அத்தியாயம் : 70
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: முஹம்மத் (ஸல்) அவர்கள் மதீனாவுக்கு வந்ததிலிருந்து அவர்கள் இறக்கும் வரை அவர்களின் குடும்பத்தார் தொலி நீக்கப்பட்ட கோதுமை உணவைத் தொடர்ந்து மூன்று நாட்கள் வயிறு நிரம்ப உண்டதில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5416</td></tr><tr><td>Arabic No</td><td>5416</td></tr><tr><td>Reference</td><td>Book 70 Hadith 44</td></tr></tbody></table></div>
 

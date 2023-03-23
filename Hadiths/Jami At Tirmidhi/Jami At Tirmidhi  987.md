@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯৮৭। আনাস (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রকৃত ধৈর্য হচ্ছে বিপদের প্রথম ধাক্কাতেই ধৈর্যধারণ করা। — সহীহ, আহকা-মুল জানা-য়িজ (২২ পৃঃ), মুসলিম। আবু ঈসা হাদীসটিকে এই সূত্রে গারীব বলেছেন।
+। আনাস (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রকৃত ধৈর্য হচ্ছে বিপদের প্রথম ধাক্কাতেই ধৈর্যধারণ করা। — সহীহ, আহকা-মুল জানা-য়িজ (২২ পৃঃ), মুসলিম। আবু ঈসা হাদীসটিকে এই সূত্রে গারীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>987</td></tr><tr><td>Arabic No</td><td>987</td></tr><tr><td>Reference</td><td>Book 10 Hadith 23</td></tr></tbody></table></div>
 

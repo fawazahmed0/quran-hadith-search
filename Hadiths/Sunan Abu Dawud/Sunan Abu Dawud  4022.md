@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম (রহঃ) …. জারীর (রাঃ) থেকে উপরোক্ত হাদীছের সনদে ও অর্থে হাদীছ বর্ণিত হয়েছে। ইমাম আবূ দাউদ (রহঃ) বলেনঃ আব্দুল ওয়াহাব ছাকাফী যে হাদীছ বর্ণনা করেছেনঃ সেখানে হাম্মাদ ও আবূ সাঈদের নাম উল্লেখ নেই। সেখানে জারীর-আলা (রাঃ) থেকে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন।
+। আল-জুরাইরী (রহঃ) সূত্রে তার সনদে উপরোক্ত হাদীসের অর্থবোধক হাদীস বর্ণিত। ইমাম আবূ দাঊদ (রহঃ) বলেন, আব্দুল ওয়াহহাব আস-সাকাফী (রহঃ) এতে আবূ সাঈদ (রাঃ)-এর উল্লেখ করেননি। হাম্মাদ ইবনু সালামাহ ... নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে বর্ণিত। ইমাম আবূ দাঊদ (রহঃ) বলেন, হাম্মাদ বিনু সালামাহ ও আস-সাক্বাফীর এ হাদীস শ্রবণ একইরূপ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4022</td></tr><tr><td>Arabic No</td><td>4022</td></tr><tr><td>Reference</td><td>Book 34 Hadith 3</td></tr></tbody></table></div>
 

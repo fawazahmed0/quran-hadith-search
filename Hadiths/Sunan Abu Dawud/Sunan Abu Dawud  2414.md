@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... নাফি' (রহঃ) হতে বর্ণিত। তিনি বলেন, ইবন উমার (রাঃ) যখন গাবা নামক স্থানের দিকে রওনা হতেন, তখন তিনি ইফতার (রোযা ভঙ্গ) করতেন না, আর নামাযও কসর করতেন না।
+। ইবনু উমার (রাযি.) সূত্রে বর্ণিত। তিনি আল-গাবা বনভূমিতে যেতেন। তখন তিনি সওম ভঙ্গ করতেন না এবং সালাত কসর করতেন না।[1] সহীহ মাওকুফ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2414</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 14 Hadith 102</td></tr></tbody></table></div>
 

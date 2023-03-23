@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সায়িব ইবনু ইয়াযীদ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি ‘উসমান ইবনু ‘আফফান (রাঃ)-কে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মিম্বারে (খুত্বাহ দিতে) শুনেছি। (আধুনিক প্রকাশনী- ৬৮২৬, ইসলামিক ফাউন্ডেশন- ৬৮৩৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সায়িব ইবনু ইয়াযীদ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি ‘উসমান ইবনু ‘আফফান (রাঃ)-কে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মিম্বারে (খুত্বাহ দিতে) শুনেছি। (আধুনিক প্রকাশনী- ৬৮২৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7338</td></tr><tr><td>Arabic No</td><td>7338</td></tr><tr><td>Reference</td><td>Book 96 Hadith 67</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated As-Sa'ib bin Yazid:That he heard 'Uthman bin 'Affan delivering a sermon
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: உஸ்மான் பின் அஃப்பான் (ரலி) அவர்கள் நபி (ஸல்) அவர்களது சொற்பொழிவு மேடை (மிம்பர்)மீது (நின்று) உரையாற்றிக்கொண்டிருந்ததை நான் செவியுற்றேன். அத்தியாயம் : 96
+சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: உஸ்மான் பின் அஃப்பான் (ரலி) அவர்கள் நபி (ஸல்) அவர்களது சொற்பொழிவு மேடை (மிம்பர்)மீது (நின்று) உரையாற்றிக்கொண்டிருந்ததை நான் செவியுற்றேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7338</td></tr><tr><td>Arabic No</td><td>7338</td></tr><tr><td>Reference</td><td>Book 96 Hadith 67</td></tr></tbody></table></div>
 

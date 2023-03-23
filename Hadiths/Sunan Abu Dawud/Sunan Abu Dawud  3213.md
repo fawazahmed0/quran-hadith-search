@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) .... ইবন উমার (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মৃত ব্যক্তিকে কবরে রাখতেন, তিনি বলতেনঃ بِسْمِ اللَّهِ وَعَلَى سُنَّةِ رَسُولِ اللَّهِ صلى الله عليه وسلم অর্থাৎ আল্লাহ্‌র নামের সাথে এবং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সুন্নাত তরীকায় (এ ব্যক্তিকে কবরে রাখছি)। এটি মুসলিম (রহঃ)-এর ভাষ্য।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কবরে লাশ রাখার সময় বলতেনঃ ‘‘আল্লাহর নামে এবং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর তারীকার উপর রাখা হলো।’’
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3213</td></tr><tr><td>Arabic No</td><td>3213</td></tr><tr><td>Reference</td><td>Book 21 Hadith 125</td></tr></tbody></table></div>
 

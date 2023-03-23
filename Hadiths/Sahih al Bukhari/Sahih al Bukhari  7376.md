@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জারীর ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ তার প্রতি রহম করেন না, যে মানুষের প্রতি রহম করে না। [৬০১৩] (আধুনিক প্রকাশনী- ৬৮৬০, ইসলামিক ফাউন্ডেশন- ৬৮৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জারীর ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ তার প্রতি রহম করেন না, যে মানুষের প্রতি রহম করে না। [৬০১৩] (আধুনিক প্রকাশনী- ৬৮৬০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7376</td></tr><tr><td>Arabic No</td><td>7376</td></tr><tr><td>Reference</td><td>Book 97 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Salam] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மனிதர்கள்மீது கருணைகாட்டாத வனுக்கு அல்லாஹ் கருணைகாட்ட மாட்டான். இதை ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.7 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 97
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மனிதர்கள்மீது கருணைகாட்டாத வனுக்கு அல்லாஹ் கருணைகாட்ட மாட்டான். இதை ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.7 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7376</td></tr><tr><td>Arabic No</td><td>7376</td></tr><tr><td>Reference</td><td>Book 97 Hadith 6</td></tr></tbody></table></div>
 

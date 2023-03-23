@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মানসূর তুসী (রহঃ) ..... ইবন ‘উমার (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হজ্জ করার পর যখন মদীনায় ফিরে আসেন, তখন তিনি তাঁর উষ্ট্রীকে মসজিদের দরজায় বসান, পরে তিনি মসজিদে প্রবেশ করেন। আর তিনি সেখানে দু‘রাকআত সালাত আদায়ের পর নিজ গৃহে গমন করেন। রাবী নাফি' (রহঃ) বলেনঃ ইবন ‘উমার (রাঃ)-ও এরূপ করতেন।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হজ (হজ্জ) শেষে প্রত্যাবর্তন করে মদীনায় প্রবেশ করলেন। উষ্ট্রীকে মসজিদের দরজায় বসিয়ে তিনি তাঁর মসজিদে ঢুকে দু’ রাক‘আত সালাত আদায় করলেন, অতঃপর নিজ বাড়িতে গেলেন। নাফি‘ (রহঃ) বলেন, ইবনু ‘উমার (রাঃ)-ও অনুরূপ করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2782</td></tr><tr><td>Arabic No</td><td>2782</td></tr><tr><td>Reference</td><td>Book 15 Hadith 306</td></tr></tbody></table></div>
 

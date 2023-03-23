@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আলী ইবন নসর ইবন আলী (রহঃ) ... হাম্মাদ ইবন যায়দ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি আইয়ূব (রাঃ)-কে বললাম, তুমি কি কাউকেও (أَمْرِكِ بِيَدِكِ) অৰ্থাৎ "তোমরা ব্যাপার তোমার হাতে" বলায় তাতে তিনি তালাক বলতে শুনেছ- হাসান ব্যতীত? তিনি বললেনঃ না। এরপর তিনি বললেন, আল্লাহু ক্ষমা কর। কাতাদা আবু সালাম (রাঃ) আবু হুরায়রা (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন যে, এরূপ বললে- তিন তালাক হয়ে যাবে। এরপর আমি কাছীর (রহঃ)-এর সাথে সাক্ষাৎ করে তাকে জিজ্ঞাসা করলাম, তিনি তাকে চিনতে পারলেন না। এরপর আমি কাতাদা (রহঃ)-এর নিকট ফিরে আসলাম এবং তাকে এ সংবাদ দিলাম। তিনি বললেনঃ সে ভুলে গেছে। আবু আবদুর রহমান বলেন, এটা মুনকার হাদীস।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 27 Hadith 22</td></tr></tbody></table></div>
 

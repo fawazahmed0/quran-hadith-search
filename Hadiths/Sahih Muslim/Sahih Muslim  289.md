@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৯০, আন্তর্জাতিক নাম্বারঃ ১০৪ ১৯০-(.../...) আবদুল্লাহ ইবনু মুতী, হাজ্জাজ ইবনু শাইর, হাসান ইবনু আলী আল হুলওয়ানী (রহঃ) .... আবূ মূসা আশ'আরী (রাযিঃ) থেকে এ হাদীস বর্ণনা করেছেন। তবে রাবী ইয়ায আল আশ'আরীর হাদীসে لَيْسَ مِنَّا (সে আমার দলভুক্ত নয়) কথাটি রয়েছে। তিনি بَرِيءٌ (বিচ্ছিন্ন) শব্দটি বলেননি। (ইসলামিক ফাউন্ডেশনঃ ১৯১, ইসলামিক সেন্টারঃ ১৯৭)
+আবদুল্লাহ ইবনু মুতী, হাজ্জাজ ইবনু শাইর, হাসান ইবনু আলী আল হুলওয়ানী (রহঃ) .... আবূ মূসা আশ'আরী (রাযিঃ) থেকে এ হাদীস বর্ণনা করেছেন। তবে রাবী ইয়ায আল আশ'আরীর হাদীসে لَيْسَ مِنَّا (সে আমার দলভুক্ত নয়) কথাটি রয়েছে। তিনি بَرِيءٌ (বিচ্ছিন্ন) শব্দটি বলেননি। (ইসলামিক ফাউন্ডেশনঃ ১৯১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>289</td></tr><tr><td>Arabic No</td><td>104.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 195</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith is narrated on the authority of Abu Musa with this change only:That 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நமக்கெதிராக ஆயுதம் ஏந்தியவர் நம்மைச் சார்ந்தவர் அல்லர். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 1
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நமக்கெதிராக ஆயுதம் ஏந்தியவர் நம்மைச் சார்ந்தவர் அல்லர். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>289</td></tr><tr><td>Arabic No</td><td>104.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 195</td></tr></tbody></table></div>
 

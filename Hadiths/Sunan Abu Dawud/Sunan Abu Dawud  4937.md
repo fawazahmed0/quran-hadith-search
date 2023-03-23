@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ ইবন মুআয (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমরা মদীনায় আগমনের পর হারিছ ইবন খায়রাজ নামক গোত্রে অবস্থান করি। তিনি বলেনঃ আল্লাহ্‌র শপথ! আমি তখন দোলনায় দোল খাচ্ছিলাম এবং আমার মাথার চুল ছোট ছিল, এ সময় আমার আম্মা এসে আমাকে দোলনা থেকে নামান। এরপর পূর্ববর্তী হাদীছের অনুরূপ বর্ণিত হয়েছে।
+। ইয়াহইয়া ইবনু আব্দুর রাহমান ইবনু হাতিব (রহঃ) সূত্রে বর্ণিত। আয়িশাহ (রাঃ) বলেন, আমরা মদীনায় আগমন করে হারিস ইবনুল খাযরায গোত্রে আসি। তিনি বলেন, আল্লাহর কসম! আমি দু’টি খেজুর গাছের মধ্যে দোলনার উপর ছিলাম, আমার মাথায় ঘন ও লম্বা চুল ছিলো। তারপর আমার মা এসে আমাকে নামালেন।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4937</td></tr><tr><td>Arabic No</td><td>4937</td></tr><tr><td>Reference</td><td>Book 43 Hadith 165</td></tr></tbody></table></div>
 

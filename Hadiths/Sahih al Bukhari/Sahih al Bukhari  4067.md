@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(إِذْ تُصْعِدُوْنَ وَلَا تَلْوُوْنَ عَلٰى أَحَدٍ وَالرَّسُوْلُ يَدْعُوْكُمْ فِيْٓ أُخْرَاكُمْ فَأَثَابَكُمْ غَمًّام بِغَمٍّ لِّكَيْلَا تَحْزَنُوْا عَلٰى مَا فَاتَكُمْ وَلَا مَآ أَصَابَكُمْ وَاللهُ خَبِيْرٌ بِمَا تَعْمَلُوْنَ) تُصْعِدُوْنَ تَذْهَبُوْنَ أَصْعَدَ وَصَعِدَ فَوْقَ الْبَيْتِ. ‘‘স্মরণ কর, যখন তোমরা উপরের দিকে পালাচ্ছিলে এবং পেছনে ফিরে কারো প্রতি তাকাচ্ছিলে না, অথচ রাসূল পেছন দিক থেকে তোমাদের ডাকছিল। ফলে তিনি তোমাদের দিলেন দুঃখের উপর দুঃখ, যাতে তোমরা দুঃখ না কর যা তোমরা হারিয়েছ তার জন্য, আর না সে বিপদের জন্য যা তোমাদের উপর আপতিত হয়েছে। আর আল্লাহ পূর্ণ অবহিত সে বিষয়ে যা তোমরা কর।’’ (সূরাহ আলে ‘ইমরান ৩/১৫৩) ৬০৬৭. বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম উহূদের দিন ‘আবদুল্লাহ ইবনু যুবায়র (রাঃ)-কে পদাতিক বাহিনীর অধিনায়ক নিযুক্ত করেছিলেন। কিন্তু তারা পরাস্ত হয়ে (মদিনার পানে) ছুটে গিয়েছিলেন। এটাই হচ্ছে, রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর তাদেরকে পেছন থেকে ডাক দেয়া। [৩০৩৯] (আধুনিক প্রকাশনীঃ ৩৭৬৪, ইসলামিক ফাউন্ডেশনঃ ৩৭৬৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(إِذْ تُصْعِدُوْنَ وَلَا تَلْوُوْنَ عَلٰى أَحَدٍ وَالرَّسُوْلُ يَدْعُوْكُمْ فِيْٓ أُخْرَاكُمْ فَأَثَابَكُمْ غَمًّام بِغَمٍّ لِّكَيْلَا تَحْزَنُوْا عَلٰى مَا فَاتَكُمْ وَلَا مَآ أَصَابَكُمْ وَاللهُ خَبِيْرٌ بِمَا تَعْمَلُوْنَ) تُصْعِدُوْنَ تَذْهَبُوْنَ أَصْعَدَ وَصَعِدَ فَوْقَ الْبَيْتِ. ‘‘স্মরণ কর, যখন তোমরা উপরের দিকে পালাচ্ছিলে এবং পেছনে ফিরে কারো প্রতি তাকাচ্ছিলে না, অথচ রাসূল পেছন দিক থেকে তোমাদের ডাকছিল। ফলে তিনি তোমাদের দিলেন দুঃখের উপর দুঃখ, যাতে তোমরা দুঃখ না কর যা তোমরা হারিয়েছ তার জন্য, আর না সে বিপদের জন্য যা তোমাদের উপর আপতিত হয়েছে। আর আল্লাহ পূর্ণ অবহিত সে বিষয়ে যা তোমরা কর।’’ (সূরাহ আলে ‘ইমরান ৩/১৫৩) ৬০৬৭. বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম উহূদের দিন ‘আবদুল্লাহ ইবনু যুবায়র (রাঃ)-কে পদাতিক বাহিনীর অধিনায়ক নিযুক্ত করেছিলেন। কিন্তু তারা পরাস্ত হয়ে (মদিনার পানে) ছুটে গিয়েছিলেন। এটাই হচ্ছে, রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর তাদেরকে পেছন থেকে ডাক দেয়া। [৩০৩৯] (আধুনিক প্রকাশনীঃ ৩৭৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4067</td></tr><tr><td>Arabic No</td><td>4067</td></tr><tr><td>Reference</td><td>Book 64 Hadith 112</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara' bin 'Azib:The Prophet (ﷺ) appointed 'Abdullah bin Jubair as the commander of the cavalry archers on the day of the battle of Uhud. Then they returned defeated, and that what is referred to by Allah's Statement:-- "And the Apostle (Muhammad) was in your rear calling you back." (3.153)
+Narrated Al-Bara' bin 'Azib:The Prophet (ﷺ) appointed 'Abdullah bin Jubair as the commander of the cavalry archers on the day of the battle of Uhud. Then they returned defeated, and that what is referred to by Allah's Statement:-- "And the Apostle (Muhammad) was in your rear calling you back
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4067</td></tr><tr><td>Arabic No</td><td>4067</td></tr><tr><td>Reference</td><td>Book 64 Hadith 112</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku ['Amru bin Khalid] telah menceritakan kepada kami [Z
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போரின்போது நபி (ஸல்) அவர்கள், (அம்பெய்யும்) காலாட் படையினருக்கு அப்துல்லாஹ் பின் ஜுபைர் (ரலி) அவர்களை (தலைவராக)ஆக்கினார்கள். மேலும், அப்படையினர் தோற்றுப்போய் ஓடிவிட்டார்கள். அதுதான், அவர்களுக்குப் பின்னால் இருந்து அவர்களை இறைத்தூதர் அழைத்த நேரமாகும்.131 அத்தியாயம் : 64
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போரின்போது நபி (ஸல்) அவர்கள், (அம்பெய்யும்) காலாட் படையினருக்கு அப்துல்லாஹ் பின் ஜுபைர் (ரலி) அவர்களை (தலைவராக)ஆக்கினார்கள். மேலும், அப்படையினர் தோற்றுப்போய் ஓடிவிட்டார்கள். அதுதான், அவர்களுக்குப் பின்னால் இருந்து அவர்களை இறைத்தூதர் அழைத்த நேரமாகும்.131 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4067</td></tr><tr><td>Arabic No</td><td>4067</td></tr><tr><td>Reference</td><td>Book 64 Hadith 112</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল ..... হিশাম ইবন উরওয়া (রহঃ) হতে বর্ণিত। তিনি বলেন, খাওলা (রাঃ) আওস ইবন সামিতের স্ত্রী ছিল। আর সে ছিল পাগল প্রকৃতির পুরুষ। এমতাবস্থায় পাগলামী বৃদ্ধি পাওয়ায়, সে তার স্ত্রী হতে যিহার করে। তখন আল্লাহ্ তা‘আলা এ ব্যাপারে যিহারের কাফফারার আয়াত নাযিল করেন।
+। হিশাম ইবনু ‘উরওয়াহ (রহ.) সূত্রে বর্ণিত। খাওলাহ ছিলেন আওস ইবনুস সামিতের স্ত্রী। আর আওস (রাযি.) সঙ্গমে অধিক সক্ষম ব্যক্তি ছিলেন। এক সময় তার এ আসক্তি বৃদ্ধি পেলে তিনি তার স্ত্রীর সাথে ‘যিহার’ করেন। এই প্রসঙ্গে মহান শক্তিশালী আল্লাহ যিহারের কাফফারাহ সম্পর্কিত আয়াত অবতীর্ণ করলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2219</td></tr><tr><td>Arabic No</td><td>2219</td></tr><tr><td>Reference</td><td>Book 13 Hadith 45</td></tr></tbody></table></div>
 

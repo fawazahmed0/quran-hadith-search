@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জা’ফর ইবন মুসাফির (রহঃ) .... জাবির ইবন আবদুল্লাহ (রাঃ) উক্ত হাদীছের বর্ণনায় এরূপ অতিরিক্ত বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমিই এ গোলামের মূল্য গ্রহণের অধিক হকদার এবং আল্লাহ এ থেকে অমুখাপেক্ষী।
+। ‘আতা ইবনু আবূ রাবাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, জাবির ইবনু আব্দুল্লাহ (রাঃ) আমার নিকট উল্লেখিত হাদীস বর্ণনা করেছেন। তবে তাতে রয়েছেঃ তিনি অর্থাৎ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমিই মুদাব্বার গোলামের মূল্যের পাওনাদার, আর আল্লাহ তা থেকে মুখাপেক্ষীহীন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3956</td></tr><tr><td>Arabic No</td><td>3956</td></tr><tr><td>Reference</td><td>Book 31 Hadith 31</td></tr></tbody></table></div>
 

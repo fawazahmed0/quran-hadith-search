@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯৮৭, আন্তর্জাতিক নাম্বারঃ ২৩৪৯ ৫৯৮৭-(.../...) উসমান ইবনু আবূ শাইবাহ ও আব্বাদ ইবনু মূসা (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে দু'টো সূত্রের মাধ্যমে উকায়ল এর হাদীসের হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮৮৩, ইসলামিক সেন্টার ৫৯১৯)
+উসমান ইবনু আবূ শাইবাহ ও আব্বাদ ইবনু মূসা (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে দু'টো সূত্রের মাধ্যমে উকায়ল এর হাদীসের হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮৮৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6093</td></tr><tr><td>Arabic No</td><td>2349.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 151</td></tr></tbody></table></div>
 

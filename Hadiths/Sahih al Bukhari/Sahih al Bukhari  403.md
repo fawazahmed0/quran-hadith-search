@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেনঃ একদা লোকেরা কুবা নামক স্থানে ফজরের সালাত আদায় করছিলেন। এমন সময় তাদের নিকট এক ব্যক্তি এসে বললেন যে, এ রাতে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর প্রতি ওয়াহী অবতীর্ণ হয়েছে। আর তাঁকে কা‘বামুখী হবার নির্দেশ দেয়া হয়েছে। কাজেই তোমারা কা‘বার দিকে মুখ কর। তখন তাঁদের চেহারা ছিল শামের (বায়তুল মুকাদ্দাসের) দিকে। একথা শুনে তাঁরা কা‘বার দিকে মুখ ফিরিয়ে নিলেন। (৪৪৮৮, ৪৪৯০, ৪৪৯১, ৪৪৯৩, ৪৪৯৪, ৭২৫১; মুসলিম ৫/২, হাঃ ৫২৬) (আধুনিক প্রকাশনীঃ ৩৮৮, ইসলামিক ফাউন্ডেশনঃ ৩৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেনঃ একদা লোকেরা কুবা নামক স্থানে ফজরের সালাত আদায় করছিলেন। এমন সময় তাদের নিকট এক ব্যক্তি এসে বললেন যে, এ রাতে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর প্রতি ওয়াহী অবতীর্ণ হয়েছে। আর তাঁকে কা‘বামুখী হবার নির্দেশ দেয়া হয়েছে। কাজেই তোমারা কা‘বার দিকে মুখ কর। তখন তাঁদের চেহারা ছিল শামের (বায়তুল মুকাদ্দাসের) দিকে। একথা শুনে তাঁরা কা‘বার দিকে মুখ ফিরিয়ে নিলেন। (৪৪৮৮, ৪৪৯০, ৪৪৯১, ৪৪৯৩, ৪৪৯৪, ৭২৫১; মুসলিম ৫/২, হাঃ ৫২৬) (আধুনিক প্রকাশনীঃ ৩৮৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>403</td></tr><tr><td>Arabic No</td><td>403</td></tr><tr><td>Reference</td><td>Book 8 Hadith 55</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: மக்கள் (மஸ்ஜித்) குபாவில் சுப்ஹு தொழுகையைத் தொழுதுகொண்டிருந்தபோது அவர்களிடம் ஒரு மனிதர் வந்து, “அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்குக் கடந்த இரவொன்றில், (தொழு கையின்போது) கஅபாவை முன்னோக்கும் படி ஆணையிட்டு அவர்களுக்குக் குர்ஆன் (வசனம்) அருளப்பெற்றுவிட்டது. ஆகவே, நீங்களும் கஅபாவையே முன்னோக்கித் தொழுங்கள்” என்று கூறினார். உடனே (பைத்துல் மக்திஸ் இருக்கும் திசையான) ‘ஷாம்’ நாட்டை நோக்கித் தொழுதுகொண்டிருந்த அவர்கள், கஅபாவை நோக்கி (அப்படியே தொழுகை யிலேயே) சுழன்று (திரும்பிக்) கொண்டனர். அத்தியாயம் : 8
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: மக்கள் (மஸ்ஜித்) குபாவில் சுப்ஹு தொழுகையைத் தொழுதுகொண்டிருந்தபோது அவர்களிடம் ஒரு மனிதர் வந்து, “அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்குக் கடந்த இரவொன்றில், (தொழு கையின்போது) கஅபாவை முன்னோக்கும் படி ஆணையிட்டு அவர்களுக்குக் குர்ஆன் (வசனம்) அருளப்பெற்றுவிட்டது. ஆகவே, நீங்களும் கஅபாவையே முன்னோக்கித் தொழுங்கள்” என்று கூறினார். உடனே (பைத்துல் மக்திஸ் இருக்கும் திசையான) ‘ஷாம்’ நாட்டை நோக்கித் தொழுதுகொண்டிருந்த அவர்கள், கஅபாவை நோக்கி (அப்படியே தொழுகை யிலேயே) சுழன்று (திரும்பிக்) கொண்டனர். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>403</td></tr><tr><td>Arabic No</td><td>403</td></tr><tr><td>Reference</td><td>Book 8 Hadith 55</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer'den şöyle nakledilmiştir: "Müslümanlar Kubâ mescidinde sabah namazını kılarlarken ashab'dan birisi çıkagelip, onlara: 'Bu gece inen âyetle Allah Resulü (Sallallahu aleyhi ve Sellem)'e Ka'be'ye yönelmesi emredildi, siz de o tarafa yönelin' deyince, yüzleri Şam'a dönük olan cemaat, hemen o anda Kabe'ye doğru döndü. Tekrar: 4488, 4490, 4491, 4492, 4493, 7251
+Abdullah İbn Ömer'den şöyle nakledilmiştir: "Müslümanlar Kubâ mescidinde sabah namazını kılarlarken ashab'dan birisi çıkagelip, onlara: 'Bu gece inen âyetle Allah Resulü (Sallallahu aleyhi ve Sellem)'e Ka'be'ye yönelmesi emredildi, siz de o tarafa yönelin' deyince, yüzleri Şam'a dönük olan cemaat, hemen o anda Kabe'ye doğru döndü. Tekrar: 4488
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>403</td></tr><tr><td>Arabic No</td><td>403</td></tr><tr><td>Reference</td><td>Book 8 Hadith 55</td></tr></tbody></table></div>
 

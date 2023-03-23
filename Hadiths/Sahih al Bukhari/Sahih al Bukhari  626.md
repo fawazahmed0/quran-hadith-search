@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, যখন মুআয্যিন ফজরের সালাতের প্রথম আযান শেষ করতেন তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে যেতেন এবং সুবহে সাদিকের পর ফজরের সালাতের পূর্বে দু’রাক‘আত সালাত সংক্ষেপে আদায় করতেন, অতঃপর ডান কাতে শুয়ে পড়তেন এবং ইক্বামাত(ইকামত/একামত)ের জন্য মুআয্যিন তাঁর নিকট না আসা পর্যন্ত শুয়ে থাকতেন। (৯৯৪, ১১২৩, ১১৬০, ১১৭০, ৬৩১০) (আধুনিক প্রকাশনীঃ ৫৯০, ইসলামিক ফাউন্ডেশনঃ ৫৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, যখন মুআয্যিন ফজরের সালাতের প্রথম আযান শেষ করতেন তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে যেতেন এবং সুবহে সাদিকের পর ফজরের সালাতের পূর্বে দু’রাক‘আত সালাত সংক্ষেপে আদায় করতেন, অতঃপর ডান কাতে শুয়ে পড়তেন এবং ইক্বামাত(ইকামত/একামত)ের জন্য মুআয্যিন তাঁর নিকট না আসা পর্যন্ত শুয়ে থাকতেন। (৯৯৪, ১১২৩, ১১৬০, ১১৭০, ৬৩১০) (আধুনিক প্রকাশনীঃ ৫৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>626</td></tr><tr><td>Arabic No</td><td>626</td></tr><tr><td>Reference</td><td>Book 10 Hadith 23</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ஃபஜ்ர் நேரம் வந்து, தொழுகை அறிவிப்பாளர் (முஅத்தின்) முதலாவது தொழுகை அறிவிப்பு (பாங்கு) சொல்- முடித்ததும் ஃபஜ்ர் தொழுகைக்கு முன்பாக அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் எழுந்து சுருக்கமாக இரண்டு ரக்அத்கள் (ஃபஜ்ரு டைய சுன்னத்) தொழுவார்கள். பின்னர் (இரண்டாவது தொழுகை அறிவிப்பான) ‘இகாமத்’ சொல்(- தொழுகை நடத்து)வதற்காகத் தம்மிடம் முஅத்தின் வரும்வரை வலப் பக்கமாக சாய்ந்து படுத்திருப்பார்கள். அத்தியாயம் : 10
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ஃபஜ்ர் நேரம் வந்து, தொழுகை அறிவிப்பாளர் (முஅத்தின்) முதலாவது தொழுகை அறிவிப்பு (பாங்கு) சொல்- முடித்ததும் ஃபஜ்ர் தொழுகைக்கு முன்பாக அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் எழுந்து சுருக்கமாக இரண்டு ரக்அத்கள் (ஃபஜ்ரு டைய சுன்னத்) தொழுவார்கள். பின்னர் (இரண்டாவது தொழுகை அறிவிப்பான) ‘இகாமத்’ சொல்(- தொழுகை நடத்து)வதற்காகத் தம்மிடம் முஅத்தின் வரும்வரை வலப் பக்கமாக சாய்ந்து படுத்திருப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>626</td></tr><tr><td>Arabic No</td><td>626</td></tr><tr><td>Reference</td><td>Book 10 Hadith 23</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aîşe (r.anha)'dan şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem müezzin sabah ezanını bitirince fecir aydınlandıktan sonra farz'dan evvel kalkar, kısa olarak iki rekat namaz kılardı. Sonra müezzin kamet okumak için gelinceye kadar sağ tarafının üstüne yatardı. Tekrar: 994, 1123, 1160, 1170, 6310
+Aîşe (r.anha)'dan şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem müezzin sabah ezanını bitirince fecir aydınlandıktan sonra farz'dan evvel kalkar, kısa olarak iki rekat namaz kılardı. Sonra müezzin kamet okumak için gelinceye kadar sağ tarafının üstüne yatardı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>626</td></tr><tr><td>Arabic No</td><td>626</td></tr><tr><td>Reference</td><td>Book 10 Hadith 23</td></tr></tbody></table></div>
 

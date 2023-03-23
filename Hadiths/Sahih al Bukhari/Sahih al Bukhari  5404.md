@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি স্কন্ধের গোশত দাঁত দিয়ে ছিঁড়ে খেলেন।[1] তারপর তিনি উঠে গিয়ে (নতুনভাবে) অযূ না করেই সালাত আদায় করলেন। [২০৭] (আধুনিক প্রকাশনী- ৫০০৩, ইসলামিক ফাউন্ডেশন- ৪৮৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি স্কন্ধের গোশত দাঁত দিয়ে ছিঁড়ে খেলেন।[1] তারপর তিনি উঠে গিয়ে (নতুনভাবে) অযূ না করেই সালাত আদায় করলেন। [২০৭] (আধুনিক প্রকাশনী- ৫০০৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5404</td></tr><tr><td>Arabic No</td><td>5404</td></tr><tr><td>Reference</td><td>Book 70 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Abbas: The Prophet (ﷺ) ate of the meat of a shoulder (by cutting
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஆட்டின்) சப்பை எலும்பு ஒன்றை (அது வெந்துகொண்டிருந்த பாத்திரத்தில் இருந்து) எடுத்து அதிலிருந்த இறைச்சியைக் கடித்துச் சாப்பிட்டார்கள். பிறகு எழுந்து தொழுதார்கள். ஆனால், (புதிதாக) அங்கத் தூய்மை (உளூ) செய்யவில்லை. அத்தியாயம் : 70
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (ஆட்டின்) சப்பை எலும்பு ஒன்றை (அது வெந்துகொண்டிருந்த பாத்திரத்தில் இருந்து) எடுத்து அதிலிருந்த இறைச்சியைக் கடித்துச் சாப்பிட்டார்கள். பிறகு எழுந்து தொழுதார்கள். ஆனால், (புதிதாக) அங்கத் தூய்மை (உளூ) செய்யவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5404</td></tr><tr><td>Arabic No</td><td>5404</td></tr><tr><td>Reference</td><td>Book 70 Hadith 32</td></tr></tbody></table></div>
 

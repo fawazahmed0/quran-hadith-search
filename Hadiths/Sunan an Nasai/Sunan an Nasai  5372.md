@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবন কুদামা (রহঃ) ... সামুরা ইবন সাহম (রাঃ) থেকে বর্ণিত যে, আমি আবূ হাশিম ইবন উৎবা (রাঃ)-এর নিকট গেলাম, তখন তিনি প্লেগে আক্রান্ত ছিলেন। মু'আবিয়া (রাঃ) তাঁকে দেখতে আসলেন। তখন আবু হাশিম কাঁদতে লাগলেন। মু'আবিয়া (রাঃ) তাঁকে বললেনঃ তুমি কাঁদছাে কেন? তোমার কি কোন ব্যথার যন্ত্রণা, না তুমি দুনিয়ার জন্য কাঁদছাে? পার্থিব আনন্দের দিন তো তোমার কেটে গেছে। তিনি বললেনঃ এর কোনটাই নয়। কিন্তু রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে একটি উপদেশ দান করেছিলেন, আমি যদি তা পালন করতাম! তিনি বলেছিলেন, যখন তুমি গনীমতের মাল লোকদের মাঝে বন্টন হতে দেখবে, তখন তা হতে তোমার জন্য একটি খাদিম এবং আল্লাহর রাস্তায় যাওয়ার একটি বাহনই যথেষ্ট মনে করবে। কিন্তু আমি মাল পেয়ে তা জমা করেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5372</td></tr><tr><td>Arabic No</td><td>5372</td></tr><tr><td>Reference</td><td>Book 48 Hadith 333</td></tr></tbody></table></div>
 

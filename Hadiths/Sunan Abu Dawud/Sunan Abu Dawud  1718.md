@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাখলাদ ইব্‌ন খালিদ (রঃ) ...... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম বলেছেনঃ হারানো প্রাপ্ত উটের হুকুম হল, যদি কেঊ তা প্রাপ্তির পর গোপন করে তবে তাকে জারিমানাস্বরূপ ঐ উটের সাথে অনুরূপ আরো একটি উট প্রদান করতে হবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পথহারা উটের হুকুম হলো, যদি কেউ তা পাওয়ার পর বিষয়টি গোপন করে তাহলে তাকে জরিমানা হিসেবে ঐ উটের সাথে অনুরূপ আরেকটি উট দিতে হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1718</td></tr><tr><td>Arabic No</td><td>1718</td></tr><tr><td>Reference</td><td>Book 10 Hadith 18</td></tr></tbody></table></div>
 

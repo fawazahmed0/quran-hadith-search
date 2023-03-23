@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৪০০। উমার ইবনুল খাত্তাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ ছেলেকে খুনের অপরাধে বাবাকে হত্যা করা যাবে না। সহীহ, ইবনু মা-জাহ (২৬৬২)
+। উমার ইবনুল খাত্তাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ ছেলেকে খুনের অপরাধে বাবাকে হত্যা করা যাবে না। সহীহ, ইবনু মা-জাহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1400</td></tr><tr><td>Arabic No</td><td>1400</td></tr><tr><td>Reference</td><td>Book 16 Hadith 16</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে লোক তার জীবিকা প্রশস্ত করতে এবং আয়ু বৃদ্ধি করতে চায়, সে যেন আত্মীয়তার সম্পর্ক রক্ষা করে। (আধুনিক প্রকাশনী- ৫৫৫০, ইসলামিক ফাউন্ডেশন- ৫৪৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে লোক তার জীবিকা প্রশস্ত করতে এবং আয়ু বৃদ্ধি করতে চায়, সে যেন আত্মীয়তার সম্পর্ক রক্ষা করে। (আধুনিক প্রকাশনী- ৫৫৫০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5985</td></tr><tr><td>Arabic No</td><td>5985</td></tr><tr><td>Reference</td><td>Book 78 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ibrahim bin Al Mundzir] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தமது வாழ்வாதாரம் (ரிஸ்க்) விசாலமாக்கப்படுவதும் வாழ்நாள் நீட்டிக்கப்படுவதும் யாருக்கு மகிழ்ச்சி அளிக்குமோ அவர் தமது உறவைப் பேணிவாழட்டும்.17 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தமது வாழ்வாதாரம் (ரிஸ்க்) விசாலமாக்கப்படுவதும் வாழ்நாள் நீட்டிக்கப்படுவதும் யாருக்கு மகிழ்ச்சி அளிக்குமோ அவர் தமது உறவைப் பேணிவாழட்டும்.17 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5985</td></tr><tr><td>Arabic No</td><td>5985</td></tr><tr><td>Reference</td><td>Book 78 Hadith 16</td></tr></tbody></table></div>
 

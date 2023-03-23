@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আবূ বাকর (রাঃ) আমাকে ভৎর্সনা করলেন এবং আমার কোমরে তাঁর হাত দ্বারা খোঁচা দিলেন। আমার ঊরুর ওপর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মস্তক থাকার কারণে আমি নড়াচড়া করতে পারিনি। [৩৩৪]আধুনিক প্রকাশনী- ৪৮৬৭, ইসলামিক ফাউন্ডেশন- ৪৮৭০
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আবূ বাকর (রাঃ) আমাকে ভৎর্সনা করলেন এবং আমার কোমরে তাঁর হাত দ্বারা খোঁচা দিলেন। আমার ঊরুর ওপর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মস্তক থাকার কারণে আমি নড়াচড়া করতে পারিনি। [৩৩৪]আধুনিক প্রকাশনী- ৪৮৬৭, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5250</td></tr><tr><td>Arabic No</td><td>5250</td></tr><tr><td>Reference</td><td>Book 67 Hadith 183</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (ஒருநாள் என் தந்தை) அபூபக்ர் (ரலி) அவர்கள் என்னைக் கண்டித்தார்கள். என் இடுப்பில் தமது கரத்தால் குத்தலானார்கள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எனது மடியில் தலைவைத்துப் படுத்திருந்ததுதான் என்னை அசைய விடாமல் (அடிவாங்கிக்கொண்டிருக்கும்படி) செய்துவிட்டது.179 அத்தியாயம் : 67
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (ஒருநாள் என் தந்தை) அபூபக்ர் (ரலி) அவர்கள் என்னைக் கண்டித்தார்கள். என் இடுப்பில் தமது கரத்தால் குத்தலானார்கள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எனது மடியில் தலைவைத்துப் படுத்திருந்ததுதான் என்னை அசைய விடாமல் (அடிவாங்கிக்கொண்டிருக்கும்படி) செய்துவிட்டது.179 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5250</td></tr><tr><td>Arabic No</td><td>5250</td></tr><tr><td>Reference</td><td>Book 67 Hadith 183</td></tr></tbody></table></div>
 

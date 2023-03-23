@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৬৬, আন্তর্জাতিক নাম্বারঃ ৪৩৬ ৮৬৬-(.../...) হাসান ইবনু রাবী' (রহঃ), আবূ বাকর ইবনু শইবাহ্ (রহঃ) ও কুতাইবাহ ইবনু সাঈদ (রহঃ) আবূ ‘আওয়ানাহ্ (রহঃ) হতে এ সনদে উপরের হাদীসের অবিকল বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮৬২, ইসলামিক সেন্টারঃ ৮৭৫)
+হাসান ইবনু রাবী' (রহঃ), আবূ বাকর ইবনু শইবাহ্ (রহঃ) ও কুতাইবাহ ইবনু সাঈদ (রহঃ) আবূ ‘আওয়ানাহ্ (রহঃ) হতে এ সনদে উপরের হাদীসের অবিকল বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮৬২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>980</td></tr><tr><td>Arabic No</td><td>436.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 142</td></tr></tbody></table></div>
 

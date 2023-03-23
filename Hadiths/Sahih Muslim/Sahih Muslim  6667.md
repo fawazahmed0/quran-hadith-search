@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৫৬১, আন্তর্জাতিক নাম্বারঃ ২৬১৬ ৬৫৬১-(.../...) আবু বকর ইবনু আবু শাইবাহ্ (রহঃ) ..... আবু হুরাইরাহ্ (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ একটি হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৪২৯, ইসলামিক সেন্টার ৬৪৭৯)
+আবু বকর ইবনু আবু শাইবাহ্ (রহঃ) ..... আবু হুরাইরাহ্ (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ একটি হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৪২৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>2616.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 164</td></tr></tbody></table></div>
 

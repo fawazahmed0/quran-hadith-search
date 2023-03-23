@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আবূল কাসিম (নবী) সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আমার নামে নামকরণ করতে পার, কিন্তু আমার উপনামে তোমাদের নাম রেখ না। (১১০) (আধুনিক প্রকাশনীঃ ৩২৭৫, ইসলামিক ফাউন্ডেশনঃ ৩২৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আবূল কাসিম (নবী) সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আমার নামে নামকরণ করতে পার, কিন্তু আমার উপনামে তোমাদের নাম রেখ না। (১১০) (আধুনিক প্রকাশনীঃ ৩২৭৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3539</td></tr><tr><td>Arabic No</td><td>3539</td></tr><tr><td>Reference</td><td>Book 61 Hadith 48</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அபுல்காசிம் (ஸல்) அவர்கள், “என் பெயரைச் சூட்டிக்கொள்ளுங்கள். ஆனால், என் குறிப்புப் பெயரைச் சூட்டிக் கொள்ளாதீர்கள்” என்று சொன்னார்கள். அத்தியாயம் : 61
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அபுல்காசிம் (ஸல்) அவர்கள், “என் பெயரைச் சூட்டிக்கொள்ளுங்கள். ஆனால், என் குறிப்புப் பெயரைச் சூட்டிக் கொள்ளாதீர்கள்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3539</td></tr><tr><td>Arabic No</td><td>3539</td></tr><tr><td>Reference</td><td>Book 61 Hadith 48</td></tr></tbody></table></div>
 

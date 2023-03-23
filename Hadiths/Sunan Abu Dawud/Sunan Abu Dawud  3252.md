@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ আতাকী (রহঃ) ..... তালহা ইবন উবায়দিল্লাহ (রাঃ) থেকে বর্ণিত। তিনি তাঁর বর্ণিত হাদীছে জনৈক আরবীর ঘটনা বর্ণনা প্রসঙ্গে বলেছেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সে কামিয়াব হয়েছে, তার বাপের কসম, যদি সে সত্য বলে থাকে, জান্নাতে প্রবেশ করবে। তার পিতার শপথ! যদি সে সত্য বলে থাকে।
+। আবূ সুহাইল নাফি ইবনু মালিক ইবনু আবূ ‘আমির (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি তালহা ইবনু উবাইদুল্লাহ (রাঃ)-এর নিকট জনৈক বেদুঈনের ঘটনা বর্ণনা প্রসঙ্গে বলেছেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তার (বেদুঈনের) পিতার কসম! যদি সে সত্যবাদী হয়ে থাকে তবে সে সফলকাম হবে এবং জান্নাতে প্রবেশ করবে। তার পিতার কসম! যদি সে সত্য বলে থাকে। (হাদীসটি সম্ভবতঃ ইসলামের প্রথম যুগের- অনুঃ)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3252</td></tr><tr><td>Arabic No</td><td>3252</td></tr><tr><td>Reference</td><td>Book 22 Hadith 11</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইব্‌ন হার্‌ব (রহঃ) .... আবুল বাখ্‌তারী (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমার কাছে ঐ ব্যক্তি বর্ণনা করেছেন, যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে শুনেছেন। রাবী সুলায়মান (রহঃ) বলেনঃ আমার নিকট নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জনৈক সাহাবী বর্ণনা করেছেন যে, মানুষেরা ততক্ষণ পর্যন্ত ধ্বংস হবে না, যতক্ষণ না তাদের গুনাহ্‌ এত অধিক হবে যে, যার জন্য ওযর পেশের কোন সুযোগ থাকবে না।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জনৈক সাহাবী সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষের ব্যক্তিগত পাপাচার ব্যাপক না করা পর্যন্ত এবং তাদের কোনো ওজর পেশ করার সুযোগ থাকা পর্যন্ত তারা ধ্বংস হবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4347</td></tr><tr><td>Arabic No</td><td>4347</td></tr><tr><td>Reference</td><td>Book 39 Hadith 57</td></tr></tbody></table></div>
 

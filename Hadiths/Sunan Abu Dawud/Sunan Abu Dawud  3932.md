@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... সাফীনা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি উম্মু সালাম (রাঃ) এর ক্রীতদাস ছিলাম। তিনি বলেনঃ আমি তোমাকে এ শর্তে আযাদ করছি যে, তুমি আজীবন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমাত করবে। তখন আমি বলিঃ যদি আপনি এরূপ শর্তে আরোপ নাও করেন, তবুও আমি যতদিন জীবিত থাকবো রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমাত হতে বিরত থাকবো না। পরে তিনি এ শর্তে আমাকে আযাদ করে দেন।
+। সাফীনাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি উম্মু সালামাহ (রাঃ)-এর কৃতদাস ছিলাম। তিনি বললেন, আমি তোমাকে আযাদ করবো এ শর্তে যে, যতো দিন তুমি জীবিত থাকবে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর খেদমত করবে। আমি বললাম, আপনি যদি এ শর্ত আরোপ নাও করতেন, তবুও আমি আমার জীবদ্দশা পর্যন্ত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গ ত্যাগ করতাম না। অতঃপর তিনি আমাকে উক্ত শর্তে আযাদ করলেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3932</td></tr><tr><td>Arabic No</td><td>3932</td></tr><tr><td>Reference</td><td>Book 31 Hadith 7</td></tr></tbody></table></div>
 

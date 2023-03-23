@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বাকর (রাঃ) বললেন, আল্লাহর কসম! যারা সালাত ও যাকাতের মধ্যে পার্থক্য করবে তাদের বিরুদ্ধে অবশ্যই আমি যুদ্ধ করব। কেননা, যাকাত হল মালের হক। আল্লাহর কসম! যদি তারা একটি বকরীর বাচ্চাও না দেয় যা তারা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে দিত, তাহলে তা না দেয়ার কারণে তাদের সঙ্গে যুদ্ধ করব। ‘উমার (রাঃ) বলেন, আল্লাহর কসম! আমি বুঝতে পারলাম যে, এটা আর কিছু নয় এবং আল্লাহ্ আবূ বাকর (রাঃ)-এর বক্ষ যুদ্ধের জন্য উন্মুক্ত করে দিয়েছেন। পরে আমি বুঝতে পারলাম যে, (আবূ বকর যে সিদ্ধান্ত নিয়েছেন) এটি-ই হক। [১৪০০] (আধুনিক প্রকাশনী- ৬৪৪৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6924</td></tr><tr><td>Arabic No</td><td>6924</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

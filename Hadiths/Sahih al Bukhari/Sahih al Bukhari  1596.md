@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হাবশার অধিবাসী পায়ের সরু নলা বিশিষ্ট লোকেরা কা‘বা ঘর ধ্বংস করবে। (১৫৯১) (আধুনিক প্রকাশনীঃ ১৪৯২, ইসলামিক ফাউন্ডেশনঃ ১৪৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হাবশার অধিবাসী পায়ের সরু নলা বিশিষ্ট লোকেরা কা‘বা ঘর ধ্বংস করবে। (১৫৯১) (আধুনিক প্রকাশনীঃ ১৪৯২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 25 Hadith 82</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அபிசீனியாவைச் சேர்ந்த, மெலிந்த கால்களை உடைய மனிதன் கஅபாவை (இடித்து)ப் பாழாக்குவான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 25
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அபிசீனியாவைச் சேர்ந்த, மெலிந்த கால்களை உடைய மனிதன் கஅபாவை (இடித்து)ப் பாழாக்குவான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 25 Hadith 82</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৬৪০, আন্তর্জাতিক নাম্বারঃ ৭৫১ ১৬৪০-(১৫১/...) আবূ বকর ইবনু আবূ শায়বাহ, ইবনু নুমায়র, যুহায়র ইবনু হারব ও ইবনুল মুসান্না (রহঃ) সকলেই উবায়দুল্লাহ (রহঃ) ...... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের রাতের সালাত বিতর দিয়ে শেষ কর। (ইসলামী ফাউন্ডেশন ১৬২৫, ইসলামীক সেন্টার ১৬৩২)
+আবূ বকর ইবনু আবূ শায়বাহ, ইবনু নুমায়র, যুহায়র ইবনু হারব ও ইবনুল মুসান্না (রহঃ) সকলেই উবায়দুল্লাহ (রহঃ) ...... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের রাতের সালাত বিতর দিয়ে শেষ কর। (ইসলামী ফাউন্ডেশন ১৬২৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>751.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 184</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இரவில் உங்களது கடைசித் தொழுகையாக வித்ரை ஆக்கிக்கொள்ளுங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 6
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இரவில் உங்களது கடைசித் தொழுகையாக வித்ரை ஆக்கிக்கொள்ளுங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>751.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 184</td></tr></tbody></table></div>
 

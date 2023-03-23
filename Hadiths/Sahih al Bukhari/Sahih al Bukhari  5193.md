@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যদি কোন পুরুষ তার স্ত্রীকে তার সঙ্গে একই বিছানায় শোয়ার জন্য ডাকে, আর সে আসতে অস্বীকার করে, তাহলে সকাল পর্যন্ত ফেরেশতাগণ ঐ মহিলার ওপর লা‘নত বর্ষণ করতে থাকে। [৩২৩৭](আধুনিক প্রকাশনী- ৪৮১১, ইসলামিক ফাউন্ডেশন- ৪৮১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যদি কোন পুরুষ তার স্ত্রীকে তার সঙ্গে একই বিছানায় শোয়ার জন্য ডাকে, আর সে আসতে অস্বীকার করে, তাহলে সকাল পর্যন্ত ফেরেশতাগণ ঐ মহিলার ওপর লা‘নত বর্ষণ করতে থাকে। [৩২৩৭](আধুনিক প্রকাশনী- ৪৮১১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5193</td></tr><tr><td>Arabic No</td><td>5193</td></tr><tr><td>Reference</td><td>Book 67 Hadith 127</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் தம்முடைய மனைவியைப் படுக்கைக்கு அழைக்கும்போது அவள் வர மறுத்துவிட்டால், அவளைப் பொழுது விடியும்வரை வானவர்கள் சபித்துக் கொண்டேயிருக்கின்றனர். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.129 அத்தியாயம் : 67
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் தம்முடைய மனைவியைப் படுக்கைக்கு அழைக்கும்போது அவள் வர மறுத்துவிட்டால், அவளைப் பொழுது விடியும்வரை வானவர்கள் சபித்துக் கொண்டேயிருக்கின்றனர். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.129 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5193</td></tr><tr><td>Arabic No</td><td>5193</td></tr><tr><td>Reference</td><td>Book 67 Hadith 127</td></tr></tbody></table></div>
 

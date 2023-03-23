@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুযায়ফাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন রাতে (সালাতের জন্য) উঠতেন তখন মিসওয়াক দিয়ে মুখ পরিষ্কার করতেন। (৮৮৯, ১১৩৬; মুসলিম ২/১৫, হাঃ ২৫৫, আহমাদ ২৩৪৭৫) (আধুনিক প্রকাশনীঃ ২৩৮, ইসলামিক ফাউন্ডেশনঃ ২৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হুযায়ফাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন রাতে (সালাতের জন্য) উঠতেন তখন মিসওয়াক দিয়ে মুখ পরিষ্কার করতেন। (৮৮৯, ১১৩৬; মুসলিম ২/১৫, হাঃ ২৫৫, আহমাদ ২৩৪৭৫) (আধুনিক প্রকাশনীঃ ২৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>245</td></tr><tr><td>Arabic No</td><td>245</td></tr><tr><td>Reference</td><td>Book 4 Hadith 111</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] berkata, telah mencerit
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரவில் (உறங்கி) எழுந்ததும் பல் துலக்கு(ம் குச்சியால் தமது வாயைக் கழுவி சுத்தம் செய்)வார்கள். அத்தியாயம் : 4
+ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரவில் (உறங்கி) எழுந்ததும் பல் துலக்கு(ம் குச்சியால் தமது வாயைக் கழுவி சுத்தம் செய்)வார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>245</td></tr><tr><td>Arabic No</td><td>245</td></tr><tr><td>Reference</td><td>Book 4 Hadith 111</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] berkata, telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Huzeyfe (bin el-Yeman r.a.) şöyle demiştir: "Nebi Sallallahu aleyhi ve sellem geceleyin kalkınca ağzını misvakla temizlerdi. Tekrar: 889, 1136
+Huzeyfe (bin el-Yeman r.a.) şöyle demiştir: "Nebi Sallallahu aleyhi ve sellem geceleyin kalkınca ağzını misvakla temizlerdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>245</td></tr><tr><td>Arabic No</td><td>245</td></tr><tr><td>Reference</td><td>Book 4 Hadith 111</td></tr></tbody></table></div>
 

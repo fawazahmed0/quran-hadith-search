@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ কেউ সুফয়ানের নিকট এ হাদীছের ব্যাখ্যা জিজ্ঞাসা করলে তিনি বলেন যে, যখন কোন যিম্মী মুসলিম হয়ে যায়, তখন তার উপর আর কোন জিযিয়া কর নেই।
+। সুফিয়ান সাওরী (রহঃ)-কে উপরোক্ত কথার ব্যাখ্যা জিজ্ঞেস করা হলে তিনি বলেন, সে ইসলাম কবূল করলে তার উপর জিযয়া ধার্য হবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3054</td></tr><tr><td>Arabic No</td><td>3054</td></tr><tr><td>Reference</td><td>Book 20 Hadith 127</td></tr></tbody></table></div>
 

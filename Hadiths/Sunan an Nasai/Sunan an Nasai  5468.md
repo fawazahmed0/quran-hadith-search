@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবন আলা (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ হে আল্লাহ্! আমি ক্ষুধা হতে আপনার নিকট আশ্রয় প্রার্থনা করছি। কেননা তা অতি নিকৃষ্ট সঙ্গী। আর আমি আমানতে খিয়ানত করা হতে আপনার নিকট আশ্রয় প্রার্থনা করছি। কেননা তা অতি মন্দ চরিত্র।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5468</td></tr><tr><td>Arabic No</td><td>5468</td></tr><tr><td>Reference</td><td>Book 50 Hadith 41</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু‘আ করতেন, হে আল্লাহ্! আমি আপনার সমীপে পানাহ চাচ্ছি কবরের শাস্তি হতে, জাহান্নামের শাস্তি হতে, জীবন ও মরণের ফিতনা হতে এবং মাসীহ্ দাজ্জাল এর ফিতনা হতে। (মুসলিম ৫/২৫, হাঃ ৫৮৮, আহমাদ ৯৪৭০) (আধুনিক প্রকাশনীঃ ১২৮৬, ইসলামিক ফাউন্ডেশনঃ ১২৯৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু‘আ করতেন, হে আল্লাহ্! আমি আপনার সমীপে পানাহ চাচ্ছি কবরের শাস্তি হতে, জাহান্নামের শাস্তি হতে, জীবন ও মরণের ফিতনা হতে এবং মাসীহ্ দাজ্জাল এর ফিতনা হতে। (মুসলিম ৫/২৫, হাঃ ৫৮৮, আহমাদ ৯৪৭০) (আধুনিক প্রকাশনীঃ ১২৮৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 23 Hadith 129</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இறைவா! நான் அடக்கத் தலத்தின் வேதனை, நரக வேதனை, வாழ்வின் சோதனை, மரணத்தின் சோதனை, மஸீஹுத் தஜ்ஜாலின் சோதனை ஆகிய வற்றிலிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்” எனப் பிரார்த்திப்பவர் களாக இருந்தார்கள். அத்தியாயம் : 23
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இறைவா! நான் அடக்கத் தலத்தின் வேதனை, நரக வேதனை, வாழ்வின் சோதனை, மரணத்தின் சோதனை, மஸீஹுத் தஜ்ஜாலின் சோதனை ஆகிய வற்றிலிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்” எனப் பிரார்த்திப்பவர் களாக இருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 23 Hadith 129</td></tr></tbody></table></div>
 

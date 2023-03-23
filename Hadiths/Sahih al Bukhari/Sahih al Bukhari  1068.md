@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবু হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শুক্রবার ফজরের সালাতে الم تَنْزِيلُ সূরাহ আস সিজদা এবং هَلْ أَتَى عَلَى الْإِنْسَانِ সূরাহ ইনসান তিলাওয়াত করতেন। (৮৯১) (আধুনিক প্রকাশনীঃ ১০০২, ইসলামিক ফাউন্ডেশনঃ ১০০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবু হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শুক্রবার ফজরের সালাতে الم تَنْزِيلُ সূরাহ আস সিজদা এবং هَلْ أَتَى عَلَى الْإِنْسَانِ সূরাহ ইনসান তিলাওয়াত করতেন। (৮৯১) (আধুনিক প্রকাশনীঃ ১০০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1068</td></tr><tr><td>Arabic No</td><td>1068</td></tr><tr><td>Reference</td><td>Book 17 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வெள்ளிக்கிழமை ஃபஜ்ர் தொழுகையில் ‘அலிஃப் லாம் மீம் தன்ஸீல் அஸ்ஸஜ்தா’ (எனும் 32ஆவது) அத்தியாயத்தையும், ‘ஹல் அத்தா அலல் இன்ஸான்’ (எனும் 76ஆவது) அத்தியாயத்தையும் ஓதுவார்கள்.3 அத்தியாயம் : 17
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வெள்ளிக்கிழமை ஃபஜ்ர் தொழுகையில் ‘அலிஃப் லாம் மீம் தன்ஸீல் அஸ்ஸஜ்தா’ (எனும் 32ஆவது) அத்தியாயத்தையும், ‘ஹல் அத்தா அலல் இன்ஸான்’ (எனும் 76ஆவது) அத்தியாயத்தையும் ஓதுவார்கள்.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1068</td></tr><tr><td>Arabic No</td><td>1068</td></tr><tr><td>Reference</td><td>Book 17 Hadith 2</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রাফি‘ ইবনু খাদীজ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, ‘জ্বরের উৎপত্তি হয় জাহান্নামের ভীষণ উত্তাপ হতে। অতএব তোমাদের গায়ের সে তাপ পানি দ্বারা ঠান্ডা কর।’ (৫৭২৬) (আধুনিক প্রকাশনীঃ ৩০২১, ইসলামিক ফাউন্ডেশনঃ ৩০৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+রাফি‘ ইবনু খাদীজ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, ‘জ্বরের উৎপত্তি হয় জাহান্নামের ভীষণ উত্তাপ হতে। অতএব তোমাদের গায়ের সে তাপ পানি দ্বারা ঠান্ডা কর।’ (৫৭২৬) (আধুনিক প্রকাশনীঃ ৩০২১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3262</td></tr><tr><td>Arabic No</td><td>3262</td></tr><tr><td>Reference</td><td>Book 59 Hadith 72</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku ['Amru bin 'Abbas] telah bercerita kepada kami ['Abdur 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: காய்ச்சல், நரகத்தின் கடுமையான வெப்பத்தால் உண்டாகிறது. ஆகவே, அதைத் தண்ணீரால் உங்களைவிட்டுத் தணித்துக்கொள்ளுங்கள். இதை ராஃபிஉ பின் கதீஜ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்: அத்தியாயம் : 59
+நபி (ஸல்) அவர்கள்கூறினார்கள்: காய்ச்சல், நரகத்தின் கடுமையான வெப்பத்தால் உண்டாகிறது. ஆகவே, அதைத் தண்ணீரால் உங்களைவிட்டுத் தணித்துக்கொள்ளுங்கள். இதை ராஃபிஉ பின் கதீஜ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்: அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3262</td></tr><tr><td>Arabic No</td><td>3262</td></tr><tr><td>Reference</td><td>Book 59 Hadith 72</td></tr></tbody></table></div>
 

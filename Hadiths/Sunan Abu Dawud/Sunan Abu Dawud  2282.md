@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মুহাম্মাদ আল মারূযী .... ইবন আব্বাস (রাঃ) হতে বর্নিত। তিনি বলেন, তালাকপ্রাপ্তা মহিলাগণ তিন হায়েয পর্যন্ত নিজেদেরকে নিয়ন্ত্রিত রাখবে (অন্য কারো সাথে বিবাহ হতে)। তিনি আরো বলেন, তোমাদের স্ত্রীদের মধ্যে যারা তাদের হায়েয হতে নিরাশ হয়েছে। (অর্থাৎ যাদের বন্ধ হয়ে গেছে।) তাদের ইদ্দতের সময়সীমা হল তিন মাস। আর পরবর্তী আয়াতের দ্বারা পূরববর্তী আয়াতের নির্দেশ রহিত (বা সংশোধিত) হয়েছে। তিনি আরো বলেন, যদি তোমরা তাদেরকে (স্ত্রীদেরকে) তাদের সাথে সহবাসের পূর্বে তালাক প্রদান করো, তবে তজ্জন্য তাদের উপর তালাকের কারণে কোন ইদ্দত পালনের প্রয়োজন নেই।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, (আল্লাহর বাণীঃ) ‘‘তালাকপ্রাপ্তা তিন হায়িয পর্যন্ত অপেক্ষায় থাকবে’’ (সূরা আল-বাকারাহঃ ২২৮); এবং ‘‘তোমাদের স্ত্রীদের মধ্যে যাদের আর ঋতুবতী হওয়ার আশা নেই তাদের ইদ্দাত সম্পর্কে তোমরা সন্দেহ করলে তাদের ইদ্দাতকাল হবে তিন মাস’’ (সূরা আত-তালাকঃ ৪)। এর দ্বিতীয় বিধানটি রহিত হয়ে গেছে। অতঃপর আল্লাহ বলেছেনঃ ‘‘যদি তোমরা তাদেরকে স্পর্শ করার পূর্বে তালাক দাও তাহলে তোমাদের জন্য তাদের পালনীয় কোনো ইদ্দাত নেই যা তোমরা গণনা করবে’’ (সূরা আল-আহযাবঃ ৪৯)।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2282</td></tr><tr><td>Arabic No</td><td>2282</td></tr><tr><td>Reference</td><td>Book 13 Hadith 108</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit Al Marwazi], telah
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.)'dan; demiştir ki: "Boşanmış kadınlar kendi kendilerine üç kur (üç adet veya üç temizlik süresi) beklerler."[Bakara 228] ve "Yaşlılıklarından dolayı âdetten kesilen kadınlarınızın bekleme sürelerinden şüphe ederseniz, (bilin ki) onların bekleme süresi üç aydır."[Talak 4] Bunların hükmünden şu buyrukta belirtilenler neshedildi; "Eğer onları nikahlayıp da, henüz onlara dokunmadan boşarsanız, onların üzerinde sayacağınız bir iddet hakkınız yoktur."[Ahzab 49]
+İbn Abbas (r.a.)'dan; demiştir ki: "Boşanmış kadınlar kendi kendilerine üç kur (üç adet veya üç temizlik süresi) beklerler."[Bakara 228] ve "Yaşlılıklarından dolayı âdetten kesilen kadınlarınızın bekleme sürelerinden şüphe ederseniz, (bilin ki) onların bekleme süresi üç aydır."[Talak 4] Bunların hükmünden şu buyrukta belirtilenler neshedildi; "Eğer onları nikahlayıp da, henüz onlara dokunmadan boşarsanız, onların üzerinde sayacağınız bir iddet hakkınız yoktur."[Ahzab]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2282</td></tr><tr><td>Arabic No</td><td>2282</td></tr><tr><td>Reference</td><td>Book 13 Hadith 108</td></tr></tbody></table></div>
 

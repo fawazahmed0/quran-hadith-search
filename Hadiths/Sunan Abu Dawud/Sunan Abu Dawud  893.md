@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনে ইয়াহইয়া ইবনে ফারিস (রহঃ) .... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন, তোমরা যখন নামাযে এসে আমাদের সিজদারত অবস্থায় পাবে, তখন তোমরা সিজদায় শামিল হয়ে যাবে। তবে উক্ত সিজদা নামাযের রাকাত হিসাবে গণ্য করবে না। যে ব্যক্তি রুকু পেয়েছে, সে নামাযও পেয়েছে (অর্থাৎ ঐ রাকাত প্রাপ্ত হয়েছে)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা সালাতে এসে আমাদেরকে সিজদা্ অবস্থায় পেলে সিজদায় চলে যাবে। তবে এ সিজদাকে (সালাতের রাক‘আত) গণ্য করবে না। যে ব্যক্তি রুকূ‘ পেলো সে সালাত পেয়েছে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 2 Hadith 503</td></tr></tbody></table></div>
 

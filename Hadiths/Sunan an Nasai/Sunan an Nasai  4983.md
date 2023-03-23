@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন বাশশার (রহঃ) ... আবদুর রহমান ইবন মুহায়রীয (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি ফাযালা ইবন উবায়দকে জিজ্ঞাসা করলামঃ চোরের হাত কেটে তা ঝুলিয়ে দেয়া কি সুন্নত? তিনি বললেন, হ্যাঁ, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এক চোরকে আনা হলে তিনি তার হাত কেটে তার ঘাড়ে ঝুলিয়ে দিয়েছিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4983</td></tr><tr><td>Arabic No</td><td>4983</td></tr><tr><td>Reference</td><td>Book 46 Hadith 113</td></tr></tbody></table></div>
 

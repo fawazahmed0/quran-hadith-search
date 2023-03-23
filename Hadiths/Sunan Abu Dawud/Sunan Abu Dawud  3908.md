@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন বাশশার (রহঃ) .... মুহাম্মদ ইবন জা’ফর (রহঃ) থেকে বর্ণনা। তিনি বলেনঃ আওফুল-ইয়াফা’ হলো- ভাল-মন্দ নির্ধারণের জন্য পাখী উড়িয়ে দেওয়া এবং ‘তুরুক’ হলো- জ্যোতিষীদের মাটিতে দাগ কেটে শুভ-অশুভ নির্ণয়ের প্রথা।
+। আওফ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আল-ইয়াফাহ’ হচ্ছে শুভ-অশুভ লক্ষণ নির্ণয়ের জন্য পাখী উড়ানো, এবং ‘আত-তারক’ হচ্ছে মাটিতে দাগ টেনে শুভ-অশুভ নির্ণয় করা।[1] সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3908</td></tr><tr><td>Arabic No</td><td>3908</td></tr><tr><td>Reference</td><td>Book 30 Hadith 5</td></tr></tbody></table></div>
 

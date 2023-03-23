@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহ.) হতে বর্ণিত যে, ইবনু ‘উমার (রাঃ) মুযদালিফা হতে শেষ রাতের দিকে হাজীদের সাথে, যাদের মধ্যে আযাদ ও ক্রীতদাস থাকত, নিজ কুরবানীর জানোয়ার পাঠিয়ে দিতেন, যাতে তা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কুরবানীর স্থানে পৌঁছে যায়। (৯৮২) (আধুনিক প্রকাশনীঃ ১৫৯৩, ইসলামিক ফাউন্ডেশনঃ ১৬০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহ.) হতে বর্ণিত যে, ইবনু ‘উমার (রাঃ) মুযদালিফা হতে শেষ রাতের দিকে হাজীদের সাথে, যাদের মধ্যে আযাদ ও ক্রীতদাস থাকত, নিজ কুরবানীর জানোয়ার পাঠিয়ে দিতেন, যাতে তা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কুরবানীর স্থানে পৌঁছে যায়। (৯৮২) (আধুনিক প্রকাশনীঃ ১৫৯৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1711</td></tr><tr><td>Arabic No</td><td>1711</td></tr><tr><td>Reference</td><td>Book 25 Hadith 189</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள் முஸ்தலி ஃபாவிலிருந்து இரவின் கடைசிப் பகுதி யில் தமது குர்பானிப் பிராணியை ஹாஜிகளுடன் அனுப்புவார்கள். நபி (ஸல்) அவர்கள் பலியிட்ட இடத்தில் சேர்ப்பதற் காக இவ்வாறு அனுப்புவார்கள். அந்த ஹாஜிகளில் அடிமைகளும் சுதந்திர மானவர்களும் இருந்தனர்.57 அத்தியாயம் : 25
+நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள் முஸ்தலி ஃபாவிலிருந்து இரவின் கடைசிப் பகுதி யில் தமது குர்பானிப் பிராணியை ஹாஜிகளுடன் அனுப்புவார்கள். நபி (ஸல்) அவர்கள் பலியிட்ட இடத்தில் சேர்ப்பதற் காக இவ்வாறு அனுப்புவார்கள். அந்த ஹாஜிகளில் அடிமைகளும் சுதந்திர மானவர்களும் இருந்தனர்.57 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1711</td></tr><tr><td>Arabic No</td><td>1711</td></tr><tr><td>Reference</td><td>Book 25 Hadith 189</td></tr></tbody></table></div>
 

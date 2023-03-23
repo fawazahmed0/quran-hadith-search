@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবু শায়বা (রহঃ) ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে সাব্উ আল-মাছানী নামীয় দীর্ঘ সূরাটি (অর্থের দিক দিয়ে) প্রদান করা হয়েছে এবং মূসা (আ.)-কে ছয়টি ‘তখত’ (যাতে তওরাত কিতাব লিপিবদ্ধ ছিল) প্রদান করা হয়। অতঃপর যখন তিনি তা রাগে নিক্ষেপ করেন, তখন আল্লাহ তাআলা এর (ভগ্ন) দুটিকে উঠিয়ে নেন এবং চারিটি অবশিষ্ট থাকে। (নাসাঈ)।
+। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সাব‘উ মাসানী (সাত আয়াতবিশিষ্ট) নামক দীর্ঘ সূরাহ দেয়া হয়েছে এবং মূসা (আ)-কে দেয়া হয়েছিল ছয়টি। অতঃপর তিনি তাওরাতের লিখিত ফলকগুলো ছুড়ে ফেলায় দু‘টি উঠিয়ে নেয়া হয় এবং চারটি অবশিষ্ট থাকে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1459</td></tr><tr><td>Arabic No</td><td>1459</td></tr><tr><td>Reference</td><td>Book 8 Hadith 44</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বায়তুল্লাহর তাওয়াফের সময় এক ব্যক্তির নিকট দিয়ে অতিক্রম করছিলেন, সে চামড়ার ফিতা বা সূতা অথবা অন্য কিছু দ্বারা আপন হাত অপর এক ব্যক্তির সাথে বেঁধে দিয়েছিল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজ হাতে তাঁর বাঁধন ছিন্ন করে দিয়ে বললেনঃ হাত ধরে টেনে নাও। (১৬২১, ৬৭০২, ৬৭০৩) (আধুনিক প্রকাশনীঃ ১৫১৩, ইসলামিক ফাউন্ডেশনঃ ১৫১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বায়তুল্লাহর তাওয়াফের সময় এক ব্যক্তির নিকট দিয়ে অতিক্রম করছিলেন, সে চামড়ার ফিতা বা সূতা অথবা অন্য কিছু দ্বারা আপন হাত অপর এক ব্যক্তির সাথে বেঁধে দিয়েছিল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজ হাতে তাঁর বাঁধন ছিন্ন করে দিয়ে বললেনঃ হাত ধরে টেনে নাও। (১৬২১, ৬৭০২, ৬৭০৩) (আধুনিক প্রকাশনীঃ ১৫১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>1620</td></tr><tr><td>Reference</td><td>Book 25 Hadith 105</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கஅபாவை தவாஃப் செய்துகொண்டிருந்தபோது, ஒரு மனிதருக்கு அருகே சென்றார்கள். அவர் தமது கையை வாரினாலோ அல்லது கயிற் றாலோ அல்லது வேறு ஒரு பொருளாலோ மற்றொருவரின் கையோடு இணைத்துக் கட்டி (தவாஃப் செய்து)கொண்டிருந்தார். உடனே நபி (ஸல்) அவர்கள் அதைத் தமது கையால் துண்டித்துவிட்டு, “இவரது கையைப் பிடித்துக் கூட்டிச் செல்லும்!” என்று (அந்த மற்றொருவரிடம்) கூறினார்கள். அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கஅபாவை தவாஃப் செய்துகொண்டிருந்தபோது, ஒரு மனிதருக்கு அருகே சென்றார்கள். அவர் தமது கையை வாரினாலோ அல்லது கயிற் றாலோ அல்லது வேறு ஒரு பொருளாலோ மற்றொருவரின் கையோடு இணைத்துக் கட்டி (தவாஃப் செய்து)கொண்டிருந்தார். உடனே நபி (ஸல்) அவர்கள் அதைத் தமது கையால் துண்டித்துவிட்டு, “இவரது கையைப் பிடித்துக் கூட்டிச் செல்லும்!” என்று (அந்த மற்றொருவரிடம்) கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>1620</td></tr><tr><td>Reference</td><td>Book 25 Hadith 105</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle anlatır: "Resûlullah Sallallahu Aleyhi ve Sellem tavaf ederken, elini ip, kayış veya başka bir şey ile başkasının eline bağlayan bir kimseye rastlamıştı. Nebi Sallallahu Aleyhi ve Sellem o bağı eli ile kopardıktan sonra: "Onu, elinden tutarak götür" buyurmuştur. Tekrar: 1621, 6702, 6703
+İbn Abbas r.a. şöyle anlatır: "Resûlullah Sallallahu Aleyhi ve Sellem tavaf ederken, elini ip, kayış veya başka bir şey ile başkasının eline bağlayan bir kimseye rastlamıştı. Nebi Sallallahu Aleyhi ve Sellem o bağı eli ile kopardıktan sonra: "Onu, elinden tutarak götür" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>1620</td></tr><tr><td>Reference</td><td>Book 25 Hadith 105</td></tr></tbody></table></div>
 

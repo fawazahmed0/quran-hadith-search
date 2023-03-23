@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবনুল মুহাজির ..... হাকাম বা ইবনু হাকাম তাঁর পিতা হতে বর্ণনা করেছেন। যে, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম পেশাবান্তে উযূ (ওজু/অজু/অযু) করেন এবং তাঁর লজ্জাস্থানে পানি ছিটান (অর্থাৎ লজ্জাস্থান হালকাভাবে ধৌত করার পর উযূ করেন)।
+। হাকাম অথবা ইবনু হাকাম হতে তাঁর পিতার সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পেশাব করলেন। অতঃপর অযু করে আপন লজ্জাস্থানে পানি ছিটা দিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>168</td></tr><tr><td>Arabic No</td><td>168</td></tr><tr><td>Reference</td><td>Book 1 Hadith 168</td></tr></tbody></table></div>
 

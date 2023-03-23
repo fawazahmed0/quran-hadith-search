@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৯১৯। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইসলামী শহরগুলোর মধ্যে সবশেষে জনমানবশূন্য হবে মদীনা। যঈফ, যঈফা (১৩০০) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব। আমরা শুধু জুনাদা হতে হিশামের সূত্রে বর্ণিত হাদীস হিসেবে এটি জেনেছি।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইসলামী শহরগুলোর মধ্যে সবশেষে জনমানবশূন্য হবে মাদীনা। যঈফ, যঈফা (১৩০০) আবূ ঈসা বলেনঃ এ হাদীসটি হাসান গারীব। আমরা শুধু জুনাদা হতে হিশামের সূত্রে বর্ণিত হাদীস হিসেবে এটি জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3919</td></tr><tr><td>Arabic No</td><td>3919</td></tr><tr><td>Reference</td><td>Book 49 Hadith 319</td></tr></tbody></table></div>
 

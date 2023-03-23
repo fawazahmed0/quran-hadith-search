@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) বর্ণনা করেন যে, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে শুনেছি, তিনি বলতেনঃ নিশ্চয়ই মানুষ এমন শত উটের মত, যাদের মধ্য থেকে তুমি একটিকেও বাহনের উপযোগী পাবে না। [মুসলিম ৪৪/৫৯, হাঃ ২৫৪৭, আহমাদ ৫৬২৩] (আধুনিক প্রকাশনী- ৬০৪৮, ইসলামিক ফাউন্ডেশন- ৬০৫৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) বর্ণনা করেন যে, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে শুনেছি, তিনি বলতেনঃ নিশ্চয়ই মানুষ এমন শত উটের মত, যাদের মধ্য থেকে তুমি একটিকেও বাহনের উপযোগী পাবে না। [মুসলিম ৪৪/৫৯, হাঃ ২৫৪৭, আহমাদ ৫৬২৩] (আধুনিক প্রকাশনী- ৬০৪৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6498</td></tr><tr><td>Arabic No</td><td>6498</td></tr><tr><td>Reference</td><td>Book 81 Hadith 87</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மனிதர்கள் (பொதி சுமக்கும்) நூறு ஒட்டகங்கள் போன்றவர்கள். அவற்றில் பயணத்திற்குப் பயன்படும் ஒட்டகத்தை நீ காண்பது அரிது.85 இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 82
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மனிதர்கள் (பொதி சுமக்கும்) நூறு ஒட்டகங்கள் போன்றவர்கள். அவற்றில் பயணத்திற்குப் பயன்படும் ஒட்டகத்தை நீ காண்பது அரிது.85 இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6498</td></tr><tr><td>Arabic No</td><td>6498</td></tr><tr><td>Reference</td><td>Book 81 Hadith 87</td></tr></tbody></table></div>
 

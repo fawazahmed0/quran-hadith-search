@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-দাউদ ইবনু শাবীব ..... আনাস ইবনু মালেক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের সাথে মাগরিবের নামায পড়তাম। অতঃপর আমরা তীর নিক্ষেপ করতাম। তা পতিত হওয়ার স্থান আমাদের যে কেউ দেখতে পেত। (বুখারী, মুসলিম, ইবনু মাজাহ, নাসাঈ)।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে মাগরিবের সালাত আদায় করতাম। অতঃপর তীর নিক্ষেপ করতাম। আমাদের প্রত্যেকেই তখনো তার তীর পতিত হওয়ার স্থান দেখতে পেত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>416</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
 

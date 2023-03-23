@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। এক লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কোন একটি হুজরার ছিদ্র দিয়ে উঁকি মারল। তখন তিনি তার প্রতি লক্ষ্য করে একটি তীক্ষ্ণ প্রশস্ত ছুরি নিয়ে দাঁড়ালেন এবং তার অজান্তে তাকে খোঁচা দেয়ার সুযোগ খুঁজতে লাগলেন। [৬২৪২] (আধুনিক প্রকাশনী- ৬৪২১, ইসলামিক ফাউন্ডেশন- ৬৪৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। এক লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কোন একটি হুজরার ছিদ্র দিয়ে উঁকি মারল। তখন তিনি তার প্রতি লক্ষ্য করে একটি তীক্ষ্ণ প্রশস্ত ছুরি নিয়ে দাঁড়ালেন এবং তার অজান্তে তাকে খোঁচা দেয়ার সুযোগ খুঁজতে লাগলেন। [৬২৪২] (আধুনিক প্রকাশনী- ৬৪২১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6900</td></tr><tr><td>Arabic No</td><td>6900</td></tr><tr><td>Reference</td><td>Book 87 Hadith 39</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hamm
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களின் அறைகளில் ஒன்றின் வழியாக எட்டிப்பார்த்தார். (இதைக் கண்ட) நபி (ஸல்) அவர்கள் நீளமான அம்பின் ‘கூர்முனையால்’ அல்லது ‘கூர்முனைகளால்’ அவருக்குத் தெரியாமல் அவரைக் குத்துவதற்காகச் சென்றார்கள்.43 அத்தியாயம் : 87
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களின் அறைகளில் ஒன்றின் வழியாக எட்டிப்பார்த்தார். (இதைக் கண்ட) நபி (ஸல்) அவர்கள் நீளமான அம்பின் ‘கூர்முனையால்’ அல்லது ‘கூர்முனைகளால்’ அவருக்குத் தெரியாமல் அவரைக் குத்துவதற்காகச் சென்றார்கள்.43 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6900</td></tr><tr><td>Arabic No</td><td>6900</td></tr><tr><td>Reference</td><td>Book 87 Hadith 39</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৭৬৪, আন্তর্জাতিক নাম্বারঃ ৮০৭ ১৭৬৪-(.../...) ইসহাক ইবনু ইবরাহীম, মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... মানসূর (রহঃ) থেকে একই সানাদে হাদীসটি বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৭৪৯, ইসলামীক সেন্টার ১৭৫৬)
+ইসহাক ইবনু ইবরাহীম, মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... মানসূর (রহঃ) থেকে একই সানাদে হাদীসটি বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৭৪৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1879</td></tr><tr><td>Arabic No</td><td>807.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 307</td></tr></tbody></table></div>
 

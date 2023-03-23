@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আনাস বিন মালিক (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আনসারদের উদ্দেশে বলেন, তোমরা অচিরেই আমার সঙ্গে সাক্ষাৎ করবে। অতএব তোমরা আমার সাথে সাক্ষাৎ হওয়া পর্যন্ত ধৈর্য ধারণ কর প্রতিশ্রুত হাউযের নিকট গমন পর্যন্ত। (৩১৪৬) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ নাই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3793</td></tr><tr><td>Arabic No</td><td>3793</td></tr><tr><td>Reference</td><td>Book 63 Hadith 18</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Gh
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அன்சாரிகளிடம், “எனக்குப் பிறகு (உங்களைவிட ஆட்சி யதிகாரத்தில் மற்றவர்களுக்கு) முன்னுரிமை தரப்படுவதை நீங்கள் காண்பீர்கள். ஆகவே, (மறுமையில்) என்னைச் சந்திக் கும்வரை நீங்கள் பொறுமையாக இருங்கள். என்னைச் சந்திக்க உங்களுக்கு வாக்களிக் கப்பட்டுள்ள இடம் (மறுமையில் எனக்கு சிறப்புப் பரிசாக இறைவன் வழங்கவிருக்கும் அல்கவ்ஸர் எனும்) தடாகமேயாகும்.21 அத்தியாயம் : 63
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அன்சாரிகளிடம், “எனக்குப் பிறகு (உங்களைவிட ஆட்சி யதிகாரத்தில் மற்றவர்களுக்கு) முன்னுரிமை தரப்படுவதை நீங்கள் காண்பீர்கள். ஆகவே, (மறுமையில்) என்னைச் சந்திக் கும்வரை நீங்கள் பொறுமையாக இருங்கள். என்னைச் சந்திக்க உங்களுக்கு வாக்களிக் கப்பட்டுள்ள இடம் (மறுமையில் எனக்கு சிறப்புப் பரிசாக இறைவன் வழங்கவிருக்கும் அல்கவ்ஸர் எனும்) தடாகமேயாகும்.21 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3793</td></tr><tr><td>Arabic No</td><td>3793</td></tr><tr><td>Reference</td><td>Book 63 Hadith 18</td></tr></tbody></table></div>
 

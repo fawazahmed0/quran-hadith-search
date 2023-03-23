@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইউসুফ ইবন মূসাু আবদুল্লাহ ...... ইবন আব্বাস (রাঃ) হতে বর্ণিত। রাবী (মুজাহিদ) বলেন, ইবন আব্বাস (রাঃ) এ আয়াত তিলাওয়াত করেনঃ (অর্থ) ‘‘তোমাদের ওপর কোন গুনাহ্ নেই, যদি তোমরা আল্লাহর অনুগ্রহ অনুসন্ধান কর’’ এবং বলেন, লোকেরা মিনাতে (হজ্জের সময়) বেচাকেনা করতো না। এরপর তাদেরকে ব্যবসা-বাণিজ্যের নির্দেশ দেয়া হয় যখন তারা আরাফাত হতে প্রত্যাবর্তন করে।
+। মুজাহিদ (রহঃ) হতে ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। ইবনু ‘আব্বাস (রাযি.) এ আয়াতটি পাঠ করলেনঃ ‘হজের (হজ্জের) সময়ে (ব্যবসা-বাণিজ্যের মাধ্যমে) তোমরা তোমাদের প্রভুর অনুগ্রহ তালাশ করলে দোষের কিছু নেই। (২ঃ ১৯৮) ইবনু ‘আব্বাস (রাযি.) বলেন, (অন্যায় মনে করে) মিনায় কেউ ব্যবসা-বাণিজ্য করতো না। তাদেরকে আরাফাত হতে ফেরার পর মিনায় ব্যবসা করতে নির্দেশ দেয়া হয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1731</td></tr><tr><td>Arabic No</td><td>1731</td></tr><tr><td>Reference</td><td>Book 11 Hadith 11</td></tr></tbody></table></div>
 

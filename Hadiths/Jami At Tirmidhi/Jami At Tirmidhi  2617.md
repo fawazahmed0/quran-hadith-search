@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৬১৭। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা কাউকে মসজিদের খিদমাতে নিয়োজিত দেখলে তাকে ইমানদার বলে সাক্ষ্য দিও। কেননা আল্লাহ্ তা'আলা বলেনঃ “আল্লাহর মসজিদসমূহের তো তারাই রক্ষণাবেক্ষণ করে, যারা আল্লাহ ও পরকালে ঈমান রাখে, নামায কায়িম করে এবং যাকাত প্রদান করে"। (সূরা তাওবাঃ ১৮) যঈফ, ইবনু মাজাহ (৮০২) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব হাসান।
+। আবূ সাঈদ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা কাউকে মসজিদের খিদমাতে নিয়োজিত দেখলে তাকে ইমানদার বলে সাক্ষ্য দিও। কেননা আল্লাহ্ তা'আলা বলেনঃ “আল্লাহর মসজিদসমূহের তো তারাই রক্ষণাবেক্ষণ করে, যারা আল্লাহ ও পরকালে ঈমান রাখে, নামায কায়িম করে এবং যাকাত প্রদান করে"। (সূরা তাওবাঃ ১৮) যঈফ, ইবনু মাজাহ (৮০২) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 40 Hadith 12</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Sa'eed:that the Messenger of Allah (ﷺ) said: "If you see a man who comes to the Masjid then bear witness to his faith." Because Allah, the Exalted, says: Only those who believe in Allah, and the Last Day, and establish the Salat, and give the Zakat (should) maintain the Masajid until the end of the Ayah (9:18)
+Narrated Abu Sa'eed:that the Messenger of Allah (ﷺ) said: "If you see a man who comes to the Masjid then bear witness to his faith." Because Allah, the Exalted, says: Only those who believe in Allah, and the Last Day, and establish the Salat, and give the Zakat (should) maintain the Masajid until the end of the Ayah (9:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 40 Hadith 12</td></tr></tbody></table></div>
 

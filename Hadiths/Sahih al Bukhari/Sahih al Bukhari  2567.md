@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি একবার ‘উরওয়াহ (রাঃ)-’র উদ্দেশে বললেন, ভাগ্নে! আমরা নতুন চাঁদ দেখতাম, আবার নতুন চাঁদ দেখতাম। এভাবে দু’মাসে তিনটি নতুন চাঁদ দেখতাম। কিন্তু রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর কোন ঘরেই আগুন জ্বালানো হত না। [‘উরওয়াহ (রহ.) বলেন] আমি জিজ্ঞেস করলাম, খালা! আপনারা তাহলে বেঁচে থাকতেন কিভাবে? তিনি বললেন, দু’টি কালো জিনিস অর্থাৎ খেজুর আর পানিই শুধু আমাদের বাঁচিয়ে রাখত। কয়েক ঘর আনসার রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর প্রতিবেশী ছিল। তাঁদের কিছু দুগ্ধবতী উটনী ও বকরী ছিল। তাঁরা রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর জন্য দুধ হাদিয়া পাঠাত। তিনি আমাদের তা পান করতে দিতেন। (৬৪৫৮, ৬৪৫৯, মুসলিম ৫৩/১ হাঃ ২৯৬২) (আধুনিক প্রকাশনীঃ ২৩৮০, ইসলামিক ফাউন্ডেশনঃ ২৩৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি একবার ‘উরওয়াহ (রাঃ)-’র উদ্দেশে বললেন, ভাগ্নে! আমরা নতুন চাঁদ দেখতাম, আবার নতুন চাঁদ দেখতাম। এভাবে দু’মাসে তিনটি নতুন চাঁদ দেখতাম। কিন্তু রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর কোন ঘরেই আগুন জ্বালানো হত না। [‘উরওয়াহ (রহ.) বলেন] আমি জিজ্ঞেস করলাম, খালা! আপনারা তাহলে বেঁচে থাকতেন কিভাবে? তিনি বললেন, দু’টি কালো জিনিস অর্থাৎ খেজুর আর পানিই শুধু আমাদের বাঁচিয়ে রাখত। কয়েক ঘর আনসার রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর প্রতিবেশী ছিল। তাঁদের কিছু দুগ্ধবতী উটনী ও বকরী ছিল। তাঁরা রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর জন্য দুধ হাদিয়া পাঠাত। তিনি আমাদের তা পান করতে দিতেন। (৬৪৫৮, ৬৪৫৯, মুসলিম ৫৩/১ হাঃ ২৯৬২) (আধুনিক প্রকাশনীঃ ২৩৮০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2567</td></tr><tr><td>Arabic No</td><td>2567</td></tr><tr><td>Reference</td><td>Book 51 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah Al Awaisiy] telah men
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: என்னிடம் ஆயிஷா (ரலி) அவர்கள், ‘‘என் சகோதரி (அஸ்மாவின்) மகனே! நாங்கள் உறுதியாகப் பிறை பார்ப்போம்; மீண்டும் (அடுத்த) பிறை பார்ப்போம்; பிறகும் (அடுத்த) பிறை பார்ப்போம். இப்படி இரண்டு மாதங்களில் மூன்று பிறைகளைப் பார்த்திருப்போம்.2 அப்படி யிருந்தும், அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் (துணைவியர்) இல்லங்களில் (அடுப்பில்) நெருப்பு பற்றவைக்கப் பட்டிராது” என்று கூறினார்கள். நான், ‘‘என் சிற்றன்னையே! நீங்கள் எப்படி வாழ்க்கை நடத்தினீர்கள்?” என்று கேட்டேன். அதற்கு அவர்கள், ‘‘இரு கறுப்புப் பொருட்களான பேரீச்சம் பழமும் தண்ணீரும்தான் (எங்கள் உணவு). தவிரவும், அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு அன்சாரிகளான சில அண்டை வீட்டார் இருந்தார்கள். அவர்களிடம் அன்பளிப்பு ஒட்டகங்கள் (மனீஹா) இருந்தன. அவர்கள் (அவற்றி லிருந்து கிடைக்கின்ற) தமக்குரிய பாலை அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு வழங்குவார்கள். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அதை எங்களுக்கு அருந்தக் கொடுப்பார்கள்” என்று கூறினார்கள். அத்தியாயம் : 50
+உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: என்னிடம் ஆயிஷா (ரலி) அவர்கள், ‘‘என் சகோதரி (அஸ்மாவின்) மகனே! நாங்கள் உறுதியாகப் பிறை பார்ப்போம்; மீண்டும் (அடுத்த) பிறை பார்ப்போம்; பிறகும் (அடுத்த) பிறை பார்ப்போம். இப்படி இரண்டு மாதங்களில் மூன்று பிறைகளைப் பார்த்திருப்போம்.2 அப்படி யிருந்தும், அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் (துணைவியர்) இல்லங்களில் (அடுப்பில்) நெருப்பு பற்றவைக்கப் பட்டிராது” என்று கூறினார்கள். நான், ‘‘என் சிற்றன்னையே! நீங்கள் எப்படி வாழ்க்கை நடத்தினீர்கள்?” என்று கேட்டேன். அதற்கு அவர்கள், ‘‘இரு கறுப்புப் பொருட்களான பேரீச்சம் பழமும் தண்ணீரும்தான் (எங்கள் உணவு). தவிரவும், அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு அன்சாரிகளான சில அண்டை வீட்டார் இருந்தார்கள். அவர்களிடம் அன்பளிப்பு ஒட்டகங்கள் (மனீஹா) இருந்தன. அவர்கள் (அவற்றி லிருந்து கிடைக்கின்ற) தமக்குரிய பாலை அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு வழங்குவார்கள். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அதை எங்களுக்கு அருந்தக் கொடுப்பார்கள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2567</td></tr><tr><td>Arabic No</td><td>2567</td></tr><tr><td>Reference</td><td>Book 51 Hadith 2</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah Al Awaisiy] telah men
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'dan rivayet edilmiştir: Urve'ye "Yeğenim! Biz hilal'i gözlerdik, ikinci hilali gözlerdik. İki ayda üç hilal görürdük de Allah Resulü'nün evlerinde (yemek pişirilmek için) ateş yanmadığı olurdu" dedi. Urve: "Teyze! Durum bu iken siz nasıl yaşıyordunuz!" diye sordu. Aişe "Hurma ve suyumuz vardı. Tabi bir de ensardan bazı komşulardan ikramlar gelirdi. Allah Resulü’ne süt ikram ederlerdi. O da bize onu içirirdi" dedi. Tekrar: 6458, 6459
+Aişe r.anha'dan rivayet edilmiştir: Urve'ye "Yeğenim! Biz hilal'i gözlerdik, ikinci hilali gözlerdik. İki ayda üç hilal görürdük de Allah Resulü'nün evlerinde (yemek pişirilmek için) ateş yanmadığı olurdu" dedi. Urve: "Teyze! Durum bu iken siz nasıl yaşıyordunuz!" diye sordu. Aişe "Hurma ve suyumuz vardı. Tabi bir de ensardan bazı komşulardan ikramlar gelirdi. Allah Resulü’ne süt ikram ederlerdi. O da bize onu içirirdi" dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2567</td></tr><tr><td>Arabic No</td><td>2567</td></tr><tr><td>Reference</td><td>Book 51 Hadith 2</td></tr></tbody></table></div>
 

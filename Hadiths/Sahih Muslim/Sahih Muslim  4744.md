@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬৩৮, আন্তর্জাতিক নাম্বারঃ ১৮৩৩ ৪৬৩৮-(.../...) মুহাম্মাদ ইবনু আবদুল্লাহ ইবনু নুমায়র ও মুহাম্মাদ ইবনু রাফি (রহঃ) ..... ইসমাঈল (রহঃ) হতে উক্ত সানাদে অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৪৫৯২, ইসলামিক সেন্টার ৪৫৯৪/ক)
+মুহাম্মাদ ইবনু আবদুল্লাহ ইবনু নুমায়র ও মুহাম্মাদ ইবনু রাফি (রহঃ) ..... ইসমাঈল (রহঃ) হতে উক্ত সানাদে অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৪৫৯২, ইসলামিক সেন্টার ৪৫৯৪/ক)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4744</td></tr><tr><td>Arabic No</td><td>1833.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 43</td></tr></tbody></table></div>
 

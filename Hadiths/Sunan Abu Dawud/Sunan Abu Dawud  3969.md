@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল্লাহ ইবন মুহাম্মাদ নুফায়লী (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (নিম্নোক্ত আয়াত) এরূপে পাঠ করেনঃ وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى তোমরা মাকামে ইব্রাহিমকে সালাতের স্থান বানিয়ে নাও। (বাকারাঃ ১২৫)
+। জাবির (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ আয়াত (এভাবে) পড়েছেনঃ ‘‘তোমরা মাকামে ইবরাহীমকে সালাতের স্থান বানিয়ে নাও।’’ (সূরা আল-বাকারাহঃ ১২৫)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3969</td></tr><tr><td>Arabic No</td><td>3969</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
 
@@ -44,7 +44,7 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) read the Qur'anic verse, "And tak
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Hatim bin Isma'il]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Nashr bin 'Ashim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ja'far bin Muhammad] dari [Ayahnya] dan [Jabir] radliallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam membaca ayat: '(Dan jadikanlah sebahagian maqam Ibrahim tempat shalat) ' (Qs. Al Baqarah: 125)
+Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Hatim bin Isma'il]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Nashr bin 'Ashim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ja'far bin Muhammad] dari [Ayahnya] dan [Jabir] radliallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam membaca ayat: '(Dan jadikanlah sebahagian maqam Ibrahim tempat shalat) ' (Qs. Al Baqarah:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3969</td></tr><tr><td>Arabic No</td><td>3969</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
 

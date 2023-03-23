@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবন আলী ...... আনাস ইবন মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখনই যুদ্ধ আরম্ভ করতেন তখনই এ দু‘আ করতেন, (অর্থ) ‘‘হে আল্লাহ্! তুমিই আমার শক্তি ও সাহায্যদাতা। তোমার শক্তিতেই আমি আক্রমন প্রতিহত করার কৌশল অবলম্বন করি আর তোমার সাহায্যেই বিজয়ী হই এবং তোমার শক্তিতেই শত্রুর সঙ্গে যুদ্ধ করে থাকি।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুদ্ধ আরম্ভের সময় বলতেনঃ ‘‘হে আল্লাহ! আপনিই আমার শক্তির উৎস ও সাহায্যকারী, আপনার সাহায্যেই আমি কৌশল অবলম্বন করি, আপনার সাহায্যেই বিজয়ী হই এবং আপনার সাহায্যেই যুদ্ধ করি।’’
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2632</td></tr><tr><td>Arabic No</td><td>2632</td></tr><tr><td>Reference</td><td>Book 15 Hadith 156</td></tr></tbody></table></div>
 

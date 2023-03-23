@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মু’মিন তার দ্বীনের ব্যাপারে পূর্ণ স্বস্তিতে থাকে, যে পর্যন্ত না সে কোন হারাম ঘটায়। [৬৮৬৩] (আধুনিক প্রকাশনী- ৬৩৮৪, ইসলামিক ফাউন্ডেশন- ৬৩৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মু’মিন তার দ্বীনের ব্যাপারে পূর্ণ স্বস্তিতে থাকে, যে পর্যন্ত না সে কোন হারাম ঘটায়। [৬৮৬৩] (আধুনিক প্রকাশনী- ৬৩৮৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6862</td></tr><tr><td>Arabic No</td><td>6862</td></tr><tr><td>Reference</td><td>Book 87 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Ishaq bin S
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: புனிதம் வாய்ந்ததாகக் கருதப்படும் (மனித) உயிர் எதையும் கொலை செய்யாமல் இருக்கும்வரை ஓர் இறைநம்பிக்கையாளர் தமது மார்க்கத்தின் தாராள குணத்தைக் கண்டவண்ணமிருப்பார். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 87
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: புனிதம் வாய்ந்ததாகக் கருதப்படும் (மனித) உயிர் எதையும் கொலை செய்யாமல் இருக்கும்வரை ஓர் இறைநம்பிக்கையாளர் தமது மார்க்கத்தின் தாராள குணத்தைக் கண்டவண்ணமிருப்பார். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6862</td></tr><tr><td>Arabic No</td><td>6862</td></tr><tr><td>Reference</td><td>Book 87 Hadith 2</td></tr></tbody></table></div>
 

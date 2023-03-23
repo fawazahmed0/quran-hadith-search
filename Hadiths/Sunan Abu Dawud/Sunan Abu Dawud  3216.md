@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সালিহ (রহঃ) .... হুমায়দ ইবন হিলাল (রহঃ) উপরিউক্ত সনদে ও অর্থে হাদীছ বর্ণনা করেছেন। যাতে এরূপ অতিরিক্ত বর্ণনা করেছেনঃ তোমরা গভীর গর্ত করে কবর খুঁড়বে।
+। হুমাইদ ইবনু হিলাল (রহঃ) থেকে একই সনদে একই অর্থবোধক হাদীস বর্ণিত। এতে আরো রয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কবর খনন গভীর করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3216</td></tr><tr><td>Arabic No</td><td>3216</td></tr><tr><td>Reference</td><td>Book 21 Hadith 128</td></tr></tbody></table></div>
 

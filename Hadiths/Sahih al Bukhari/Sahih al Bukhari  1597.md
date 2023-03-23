@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উমার (রাঃ) হতে বর্ণিত যে, তিনি হাজরে আসওয়াদের কাছে এসে তা চুম্বন করে বললেন, আমি অবশ্যই জানি যে, তুমি একখানা পাথর মাত্র, তুমি কারো কল্যাণ বা অকল্যাণ করতে পার না। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে তোমায় চুম্বন করতে না দেখলে কখনো আমি তোমাকে চুম্বন করতাম না। (১৬০৫, ১৬১০, মুসলিম ১৫/৪১, হাঃ ১২৭০) (আধুনিক প্রকাশনীঃ ১৪৯৩, ইসলামিক ফাউন্ডেশনঃ ১৪৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উমার (রাঃ) হতে বর্ণিত যে, তিনি হাজরে আসওয়াদের কাছে এসে তা চুম্বন করে বললেন, আমি অবশ্যই জানি যে, তুমি একখানা পাথর মাত্র, তুমি কারো কল্যাণ বা অকল্যাণ করতে পার না। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে তোমায় চুম্বন করতে না দেখলে কখনো আমি তোমাকে চুম্বন করতাম না। (১৬০৫, ১৬১০, মুসলিম ১৫/৪১, হাঃ ১২৭০) (আধুনিক প্রকাশনীঃ ১৪৯৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1597</td></tr><tr><td>Arabic No</td><td>1597</td></tr><tr><td>Reference</td><td>Book 25 Hadith 83</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆபிஸ் பின் ரபீஆ (ரஹ்) அவர்கள் கூறியதாவது: உமர் (ரலி) அவர்கள் ‘ஹஜருல் அஸ்வத்’ அருகில் வந்து அதை முத்த மிட்டுவிட்டு, “நீ தீங்கோ நன்மையோ அளிக்க முடியாத ஒரு கல்தான் என்பதை நான் நன்கறிவேன். நபி (ஸல்) அவர்கள் உன்னை முத்தமிடுவதை நான் கண்டிரா விட்டால், உன்னை நான் முத்தமிட்டிருக்க மாட்டேன்” என்றார்கள்.30 அத்தியாயம் : 25
+ஆபிஸ் பின் ரபீஆ (ரஹ்) அவர்கள் கூறியதாவது: உமர் (ரலி) அவர்கள் ‘ஹஜருல் அஸ்வத்’ அருகில் வந்து அதை முத்த மிட்டுவிட்டு, “நீ தீங்கோ நன்மையோ அளிக்க முடியாத ஒரு கல்தான் என்பதை நான் நன்கறிவேன். நபி (ஸல்) அவர்கள் உன்னை முத்தமிடுவதை நான் கண்டிரா விட்டால், உன்னை நான் முத்தமிட்டிருக்க மாட்டேன்” என்றார்கள்.30 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1597</td></tr><tr><td>Arabic No</td><td>1597</td></tr><tr><td>Reference</td><td>Book 25 Hadith 83</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ömer r.a. bir gün Hacerü'l-Esved'e gelip onu öpmüş ve "Ben kesinlikle biliyorum ki sen sadece bir taşsın, ne zararın ne de faydan var. Eğer Resûlullah Sallallahu Aleyhi ve Sellem'in seni öptüğünü görmeseydim ben de öpmezdim" demiştir. Tekrar: 1605, 1610
+Ömer r.a. bir gün Hacerü'l-Esved'e gelip onu öpmüş ve "Ben kesinlikle biliyorum ki sen sadece bir taşsın, ne zararın ne de faydan var. Eğer Resûlullah Sallallahu Aleyhi ve Sellem'in seni öptüğünü görmeseydim ben de öpmezdim" demiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1597</td></tr><tr><td>Arabic No</td><td>1597</td></tr><tr><td>Reference</td><td>Book 25 Hadith 83</td></tr></tbody></table></div>
 

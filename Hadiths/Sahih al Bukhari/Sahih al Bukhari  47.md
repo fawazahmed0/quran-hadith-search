@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাযি.) থেকে বর্ণনা করেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ যে ব্যক্তি ঈমানের সাথে ও পুণ্যের আশায় কোন মুসলিমের জানাযার অনুগমন করে এবং তার সালাত-ই-জানাযা আদায় ও দাফন সম্পন্ন হওয়া পর্যন্ত সঙ্গে থাকে, সে দুই কীরাত সওয়াব নিয়ে ফিরবে। প্রতিটি কীরাত হল উহুদ পর্বতের মতো। আর যে ব্যক্তি শুধু তার জানাযা আদায় করে, তারপর দাফন সম্পন্ন হবার পূর্বেই চলে আসে, সে এক কীরাত সওয়াব নিয়ে ফিরবে। ‘উসমান আল-মুয়ায্যিন (রহ.)....আবূ হুরাইরাহ (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ হাদীস বর্ণনা করেছেন। (১৩২৩, ১৩২৫) (আধুনিক প্রকাশনীঃ ৪৫, ইসলামিক ফাউন্ডেশনঃ ৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাযি.) থেকে বর্ণনা করেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ যে ব্যক্তি ঈমানের সাথে ও পুণ্যের আশায় কোন মুসলিমের জানাযার অনুগমন করে এবং তার সালাত-ই-জানাযা আদায় ও দাফন সম্পন্ন হওয়া পর্যন্ত সঙ্গে থাকে, সে দুই কীরাত সওয়াব নিয়ে ফিরবে। প্রতিটি কীরাত হল উহুদ পর্বতের মতো। আর যে ব্যক্তি শুধু তার জানাযা আদায় করে, তারপর দাফন সম্পন্ন হবার পূর্বেই চলে আসে, সে এক কীরাত সওয়াব নিয়ে ফিরবে। ‘উসমান আল-মুয়ায্যিন (রহ.)....আবূ হুরাইরাহ (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ হাদীস বর্ণনা করেছেন। (১৩২৩, ১৩২৫) (আধুনিক প্রকাশনীঃ ৪৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>47</td></tr><tr><td>Arabic No</td><td>47</td></tr><tr><td>Reference</td><td>Book 2 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Abdullah bin Ali Al Manjufi] berkata, 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் இறைநம்பிக்கையோடும் நன்மையை எதிர்பார்த்தும் ஒரு முஸ்லிமின் ஜனாஸாவை (பிரேதத்தை)ப் பின் தொடர்ந்து சென்று, அதற்காக (இறுதி)த் தொழுகை நடத்தப்பட்டு, அது அடக்கம் செய்யப்படும்வரை அதனுடன் இருந்தாரோ அவர் இரண்டு ‘கீராத்’ நன்மையுடன் திரும்புகிறார். ஒவ்வொரு ‘கீராத்’தும் ‘உஹுத்’ மலை போன்றதாகும். யார் அதற்காக (இறுதி)த் தொழுகையை மட்டும் முடித்துவிட்டு, அதை அடக்கம் செய்யும் முன்னர் திரும்பிவிடுகிறாரோ அவர் ஒரு ‘கீராத்’ நன்மையுடன் திரும்புகிறார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 2
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் இறைநம்பிக்கையோடும் நன்மையை எதிர்பார்த்தும் ஒரு முஸ்லிமின் ஜனாஸாவை (பிரேதத்தை)ப் பின் தொடர்ந்து சென்று, அதற்காக (இறுதி)த் தொழுகை நடத்தப்பட்டு, அது அடக்கம் செய்யப்படும்வரை அதனுடன் இருந்தாரோ அவர் இரண்டு ‘கீராத்’ நன்மையுடன் திரும்புகிறார். ஒவ்வொரு ‘கீராத்’தும் ‘உஹுத்’ மலை போன்றதாகும். யார் அதற்காக (இறுதி)த் தொழுகையை மட்டும் முடித்துவிட்டு, அதை அடக்கம் செய்யும் முன்னர் திரும்பிவிடுகிறாரோ அவர் ஒரு ‘கீராத்’ நன்மையுடன் திரும்புகிறார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>47</td></tr><tr><td>Arabic No</td><td>47</td></tr><tr><td>Reference</td><td>Book 2 Hadith 40</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin Abdullah bin Ali Al Manjufi] berkata, 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle demiştir: Resulullâh sallallahu aleyhi ve sellem buyurdu ki: Bir kimse inanarak ve sevabını yalnızca Allah'tan umarak bir Müslümanın cenazesinin arkasından giderse, namazını kılıp defnedinceye kadar onunla birlikte bulunursa iki kır'at ecirle döner. Her bir kırat Uhud Dağı kadardır. Kim cenaze namazını kılar sonra cenaze defnedilmeden dönerse o da bir kırat ecirle dönmüş olur. Tekrar: 1323, 1325
+Ebu Hureyre r.a. şöyle demiştir: Resulullâh sallallahu aleyhi ve sellem buyurdu ki: Bir kimse inanarak ve sevabını yalnızca Allah'tan umarak bir Müslümanın cenazesinin arkasından giderse, namazını kılıp defnedinceye kadar onunla birlikte bulunursa iki kır'at ecirle döner. Her bir kırat Uhud Dağı kadardır. Kim cenaze namazını kılar sonra cenaze defnedilmeden dönerse o da bir kırat ecirle dönmüş olur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>47</td></tr><tr><td>Arabic No</td><td>47</td></tr><tr><td>Reference</td><td>Book 2 Hadith 40</td></tr></tbody></table></div>
 

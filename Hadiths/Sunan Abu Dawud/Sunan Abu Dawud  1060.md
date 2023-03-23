@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন উবায়েদ (রহঃ) .... নাফে (রহঃ) থেকে বর্ণিত। ইবন উমার (রাঃ) একদা দাজনান্ নামক স্থানে (মক্কা ও মদীনার মধ্যবর্তী একটি জায়গা) শীতের রাতে অবতরণ করেন। ঐ সময় তিনি মুআযযিনকে স্ব-স্ব স্থানে নামায আদায়ের ঘোষণা দিতে বলেন। রাবী আইয়ূব বলেন, নাফে (রহ) থেকে ইবন উমার (রাঃ) এর সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রচন্ড শীত ও বৃষ্টির রাতে মুআযযিনকে স্ব-স্ব আবাসে নামায আদায়ের ঘোষনা দেয়ার নির্দেশ দিতেন।
+। নাফি‘ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা (শীতের রাতে) ইবনু ‘উমার দাজনান নামক স্থানে অবস্থানকালে এক ঘোষণাকারীকে ঘোষণা করতে আদেশ করেন যে, প্রত্যেকেই যেন নিজ নিজ অবস্থানে সালাত আদায় করে নেয়। সহীহ। আইয়ূব (রহঃ) বলেন, নাফি‘ হতে ইবনু ‘উমার সূত্রে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বৃষ্টি অথবা শীতের রাতে নিজ নিজ অবস্থানে সালাত আদায়ের জন্য ঘোষককে ঘোষণা করতে নির্দেশ দিতেন।[1] এটি কে মারফু করলো তা আমি পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1060</td></tr><tr><td>Arabic No</td><td>1060</td></tr><tr><td>Reference</td><td>Book 2 Hadith 671</td></tr></tbody></table></div>
 

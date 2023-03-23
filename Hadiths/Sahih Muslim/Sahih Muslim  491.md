@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৭৯, আন্তর্জাতিক নাম্বারঃ ১৯৯ ৩৭৯-(৩৩৮/১৯৯) আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, প্রত্যেক নবীর জন্য একটি বিশেষ দু'আ আছে যা কবুল হবে। তন্মধ্যে সকলেই তাদের দু'আ পৃথিবীতেই করে নিয়েছে। আর আমার দু'আটি কিয়ামত দিবসে আমার উম্মতের জন্য গোপন রেখে দিয়েছি। আমার উম্মতের যে ব্যক্তি মৃত্যুবরণ করেছে অথচ কোন প্রকার শিরক করেনি সে ইনশাআল্লাহ আমার এ দু'আ পাবে। (ইসলামিক ফাউন্ডেশনঃ ৩৮৭, ইসলামিক সেন্টারঃ ৩৯৮)
+আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, প্রত্যেক নবীর জন্য একটি বিশেষ দু'আ আছে যা কবুল হবে। তন্মধ্যে সকলেই তাদের দু'আ পৃথিবীতেই করে নিয়েছে। আর আমার দু'আটি কিয়ামত দিবসে আমার উম্মতের জন্য গোপন রেখে দিয়েছি। আমার উম্মতের যে ব্যক্তি মৃত্যুবরণ করেছে অথচ কোন প্রকার শিরক করেনি সে ইনশাআল্লাহ আমার এ দু'আ পাবে। (ইসলামিক ফাউন্ডেশনঃ ৩৮৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>491</td></tr><tr><td>Arabic No</td><td>199.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 397</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekir b. Ebi Şeybe ile Ebu Kureyb rivayet ettiler. Lafız Ebu Küreyb'indİr. Dedilerki bize Ebu Muaviye, A'meş'ten, o da Ebu Salih'den o da, Ebu Hureyre'den naklen rivayet etti. Ebu Hureyre dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Şüphesiz her bir nebinin kabul olunan bir duası olmuştur. Her bir nebi bu duasını erken davranarak yapmış bulunmaktadır. Ben ise duamı kıyamet gününde ümmetim için şefaatte bulunmak üzere sakladım. 'İnşailah o, ümmetinden Allah'a hiçbir şeyi koşmaksızın ölen kimselere nail 0Iacaktır''' Diğer tahric: Tirmizi, 3602; İbn Mace, 4307; Tuhfetu'l-Eşraf, 12512
+Bize Ebu Bekir b. Ebi Şeybe ile Ebu Kureyb rivayet ettiler. Lafız Ebu Küreyb'indİr. Dedilerki bize Ebu Muaviye, A'meş'ten, o da Ebu Salih'den o da, Ebu Hureyre'den naklen rivayet etti. Ebu Hureyre dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Şüphesiz her bir nebinin kabul olunan bir duası olmuştur. Her bir nebi bu duasını erken davranarak yapmış bulunmaktadır. Ben ise duamı kıyamet gününde ümmetim için şefaatte bulunmak üzere sakladım. 'İnşailah o, ümmetinden Allah'a hiçbir şeyi koşmaksızın ölen kimselere nail 0Iacaktır''' Diğer tahric: Tirmizi, 3602; İbn Mace, 4307; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>491</td></tr><tr><td>Arabic No</td><td>199.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 397</td></tr></tbody></table></div>
 

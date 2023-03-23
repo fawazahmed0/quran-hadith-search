@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ أَنَسٌ أَمَرَ النَّبِيُّ صلى الله عليه وسلم بِالنَّخْلِ فَقُطِعَ আনাস (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খেজুর গাছ কেটে ফেলার আদেশ দেন এবং তা কেটে ফেলা হয়। ২৩২৬. ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনূ নাযির গোত্রের বুওয়াইরা নামক স্থানে অবস্থিত বাগানটির খেজুর গাছ জ্বালিয়ে দিয়েছেন এবং বৃক্ষ কেটে ফেলেছেন। এ সম্পর্কে হাস্সান (রাঃ) (তাঁর রচিত কবিতায়) বলেছেন, বুওয়াইরা নামক স্থানে অবস্থিত বাগানটিতে দাউ দাউ করে আগুন জ্বলছে আর বনূ লূয়াই গোত্রের সর্দাররা তা সহজে মেনে নিল। (৩০২১, ৪০৩১, ৪০৩২, ৪৮৮৪) (আধুনিক প্রকাশনীঃ ২১৫৮, ইসলামিক ফাউন্ডেশনঃ ২১৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ أَنَسٌ أَمَرَ النَّبِيُّ صلى الله عليه وسلم بِالنَّخْلِ فَقُطِعَ আনাস (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খেজুর গাছ কেটে ফেলার আদেশ দেন এবং তা কেটে ফেলা হয়। ২৩২৬. ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনূ নাযির গোত্রের বুওয়াইরা নামক স্থানে অবস্থিত বাগানটির খেজুর গাছ জ্বালিয়ে দিয়েছেন এবং বৃক্ষ কেটে ফেলেছেন। এ সম্পর্কে হাস্সান (রাঃ) (তাঁর রচিত কবিতায়) বলেছেন, বুওয়াইরা নামক স্থানে অবস্থিত বাগানটিতে দাউ দাউ করে আগুন জ্বলছে আর বনূ লূয়াই গোত্রের সর্দাররা তা সহজে মেনে নিল। (৩০২১, ৪০৩১, ৪০৩২, ৪৮৮৪) (আধুনিক প্রকাশনীঃ ২১৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2326</td></tr><tr><td>Arabic No</td><td>2326</td></tr><tr><td>Reference</td><td>Book 41 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பனூ நளீர் குலத் தாரின் பேரீச்ச மரங்களைத் தீயிலிட்டுக் கொளுத்தியும் (இன்னும் பல மரங்களை) வெட்டியும்விட்டார்கள். இந்தப் பேரீச்சந் தோப்புகளுக்குத்தான் ‘அல்புவைரா’ என்று கூறுவர். இதைக் குறிப்பிட்டுத்தான் ஹஸ்ஸான் பின் ஸாபித் (ரலி) அவர்கள், ‘‘புவைராவின் நெருப்பு பரவிக்கொண்டிருக்க, அதை (அணைத்திட) எதுவும் செய்ய முடியாமல் (இயலாமையுடன்) பார்த்துக்கொண்டிருப்பது யிபனூ லுஅய்’ குலத்து (குறைஷி)த் தலைவர்களுக்கு எளிதாகிவிட்டது” என்று (பரிகாசம் செய்து) கவிதை பாடுகிறார்கள்.6 அத்தியாயம் : 41
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பனூ நளீர் குலத் தாரின் பேரீச்ச மரங்களைத் தீயிலிட்டுக் கொளுத்தியும் (இன்னும் பல மரங்களை) வெட்டியும்விட்டார்கள். இந்தப் பேரீச்சந் தோப்புகளுக்குத்தான் ‘அல்புவைரா’ என்று கூறுவர். இதைக் குறிப்பிட்டுத்தான் ஹஸ்ஸான் பின் ஸாபித் (ரலி) அவர்கள், ‘‘புவைராவின் நெருப்பு பரவிக்கொண்டிருக்க, அதை (அணைத்திட) எதுவும் செய்ய முடியாமல் (இயலாமையுடன்) பார்த்துக்கொண்டிருப்பது யிபனூ லுஅய்’ குலத்து (குறைஷி)த் தலைவர்களுக்கு எளிதாகிவிட்டது” என்று (பரிகாசம் செய்து) கவிதை பாடுகிறார்கள்.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2326</td></tr><tr><td>Arabic No</td><td>2326</td></tr><tr><td>Reference</td><td>Book 41 Hadith 7</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a. şöyle anlatır: Nebi Sallallahu Aleyhi ve Sellem, Beni Nadir yahudilerinin Büveyre adlı hurmalığını yaktırıp kestirmişti. Bununla ilgili olarak Hassan şu beyti söylemiştir: "Lüey oğulları, Büveyre hurmalıklarındaki yayılan yangına hiç aldırış etmediler. " Tekrar: 3021, 4031, 4032, 4884
+Abdullah İbn Ömer r.a. şöyle anlatır: Nebi Sallallahu Aleyhi ve Sellem, Beni Nadir yahudilerinin Büveyre adlı hurmalığını yaktırıp kestirmişti. Bununla ilgili olarak Hassan şu beyti söylemiştir: "Lüey oğulları, Büveyre hurmalıklarındaki yayılan yangına hiç aldırış etmediler. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2326</td></tr><tr><td>Arabic No</td><td>2326</td></tr><tr><td>Reference</td><td>Book 41 Hadith 7</td></tr></tbody></table></div>
 

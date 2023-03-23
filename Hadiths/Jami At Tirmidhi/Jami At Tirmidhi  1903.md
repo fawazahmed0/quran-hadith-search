@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৯০৩। ইবনু উমার (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে আমি বলতে শুনেছিঃ সর্বাধিক সাওয়াবের কাজ হচ্ছে বাবার বন্ধু-বান্ধবদের সাথেও সম্পর্ক বজায় রাখা। সহীহ, যঈফা (২০৮৯), মুসলিম। আবূ উসাইদ (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসের সনদ সহীহ। এ হাদীসটি ইবনু উমার (রাঃ) হতে অন্যান্য সূত্রেও বর্ণিত হয়েছে।
+। ইবনু উমার (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে আমি বলতে শুনেছিঃ সর্বাধিক সাওয়াবের কাজ হচ্ছে বাবার বন্ধু-বান্ধবদের সাথেও সম্পর্ক বজায় রাখা। সহীহ, যঈফা (২০৮৯), মুসলিম। আবূ উসাইদ (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসের সনদ সহীহ। এ হাদীসটি ইবনু উমার (রাঃ) হতে অন্যান্য সূত্রেও বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1903</td></tr><tr><td>Arabic No</td><td>1903</td></tr><tr><td>Reference</td><td>Book 27 Hadith 7</td></tr></tbody></table></div>
 

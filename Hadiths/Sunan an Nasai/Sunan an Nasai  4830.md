@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন উসমান এবং মুহাম্মদ ইবন মুসাফফা (রহঃ) ... আমর ইবন শুআয়ব (রহঃ) তার পিতার মাধ্যমে তাঁর দাদা থেকে বর্ণনা করেন। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি লোকের চিকিৎসা করে, অথচ সে চিকৎসক হিসেবে পরিচিত নয়, সে (রোগীর জন্য) দায়ী থাকবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4830</td></tr><tr><td>Arabic No</td><td>4830</td></tr><tr><td>Reference</td><td>Book 45 Hadith 125</td></tr></tbody></table></div>
 

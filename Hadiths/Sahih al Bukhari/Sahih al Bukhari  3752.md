@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পরিবারে হাসান ইবনু ‘আলী (রাঃ)-এর চেয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে বেশি সাদৃশ্যপূর্ণ আর কেউ ছিলেন না। ‘আবদুর রায্যাক (রহ.) ...আনাস (রাঃ) হতে একইভাবে বর্ণিত। (আধুনিক প্রকাশনীঃ ৩৪৬৯, ইসলামিক ফাউন্ডেশনঃ ৩৪৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পরিবারে হাসান ইবনু ‘আলী (রাঃ)-এর চেয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে বেশি সাদৃশ্যপূর্ণ আর কেউ ছিলেন না। ‘আবদুর রায্যাক (রহ.) ...আনাস (রাঃ) হতে একইভাবে বর্ণিত। (আধুনিক প্রকাশনীঃ ৩৪৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3752</td></tr><tr><td>Arabic No</td><td>3752</td></tr><tr><td>Reference</td><td>Book 62 Hadith 97</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஹசன் பின் அலீ (ரலி) அவர்களை விட நபி (ஸல்) அவர்களை (உருவ அமைப்பில்) ஒத்தவர்களாக வேறெவரும் இருக்கவில்லை.133 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 62
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஹசன் பின் அலீ (ரலி) அவர்களை விட நபி (ஸல்) அவர்களை (உருவ அமைப்பில்) ஒத்தவர்களாக வேறெவரும் இருக்கவில்லை.133 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3752</td></tr><tr><td>Arabic No</td><td>3752</td></tr><tr><td>Reference</td><td>Book 62 Hadith 97</td></tr></tbody></table></div>
 

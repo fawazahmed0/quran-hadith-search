@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাপড় হতে বীর্য ধুয়ে ফেলতেন। ‘আয়িশাহ (রাযি.) বললেনঃ তারপর আমি তাতে পানির একটি বা কয়েকটি দাগ দেখতে পেতাম। (২২৯) (আধুনিক প্রকাশনীঃ ২২৬, ইসলামিক ফাউন্ডেশনঃ ২৩২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাপড় হতে বীর্য ধুয়ে ফেলতেন। ‘আয়িশাহ (রাযি.) বললেনঃ তারপর আমি তাতে পানির একটি বা কয়েকটি দাগ দেখতে পেতাম। (২২৯) (আধুনিক প্রকাশনীঃ ২২৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>232</td></tr><tr><td>Arabic No</td><td>232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 98</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin Khalid] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சுலைமான் பின் யசார் (ரஹ்) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்கள், தாம் நபி (ஸல்) அவர்களின் ஆடையில் பட்ட இந்திரியத்தைக் கழுவியதாகவும் பிறகு அதே ஆடையில் ஓரிரு இடங்களில் அதன் ஈரத்(தின் அடையாளத்)தைப் பார்த்ததாகவும் கூறினார்கள். அத்தியாயம் : 4
+சுலைமான் பின் யசார் (ரஹ்) அவர்கள் கூறியதாவது: ஆயிஷா (ரலி) அவர்கள், தாம் நபி (ஸல்) அவர்களின் ஆடையில் பட்ட இந்திரியத்தைக் கழுவியதாகவும் பிறகு அதே ஆடையில் ஓரிரு இடங்களில் அதன் ஈரத்(தின் அடையாளத்)தைப் பார்த்ததாகவும் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>232</td></tr><tr><td>Arabic No</td><td>232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 98</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩৪৮। আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত আছে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক ইসলাম কুবুল করেছে, এবং তার নিকট নূন্যতম রিযিক রয়েছে এবং তাকে আল্লাহ তা'আলা অল্পে তুষ্ট থাকার তাওফীক দিয়েছেন, সে-ই সফলকাম হলো। সহীহ, ইবনু মা-জাহ (৪১৩৮)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত আছে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক ইসলাম কুবুল করেছে, এবং তার নিকট নূন্যতম রিযিক রয়েছে এবং তাকে আল্লাহ তা'আলা অল্পে তুষ্ট থাকার তাওফীক দিয়েছেন, সে-ই সফলকাম হলো। সহীহ, ইবনু মা-জাহ (৪১৩৮)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2348</td></tr><tr><td>Arabic No</td><td>2348</td></tr><tr><td>Reference</td><td>Book 36 Hadith 45</td></tr></tbody></table></div>
 

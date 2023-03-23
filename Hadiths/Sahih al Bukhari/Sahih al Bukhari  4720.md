@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(يَزْهَقُ) : يَهْلِكُ. يَزْهَقُ ধ্বংস হবে। ৪৭২০. ‘আবদুল্লাহ্ ইবনু মাসউদ (রাঃ) হতে বর্ণিত। (মক্কা বিজয়ের দিন) রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যখন মক্কা্য় প্রবেশ করলেন, তখন কা‘বা ঘরের চারপাশে তিনশ’ ষাটটি মূর্তি ছিল। তখন তিনি তাঁর হাতের ছড়ি দিয়ে এগুলোকে ঠোকা দিতে লাগলেন এবং বলতে থাকলেন, ‘‘সত্য এসেছে আর এবং মিথ্যা বিলুপ্ত হয়েছে। মিথ্যা তো বিলুপ্ত হওয়ারই’’- (সূরাহ ইসরাঈল ১৭/৮১)। ‘‘সত্য এসেছে আর অসত্য না পারে নতুন কিছু সৃষ্টি করতে এবং না পারে পুনরাবৃত্তি করতে।’’ [২৪৭৮] (আধুনিক প্রকাশনীঃ ৪৩৫৯, ইসলামিক ফাউন্ডেশনঃ ৪৩৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(يَزْهَقُ) : يَهْلِكُ. يَزْهَقُ ধ্বংস হবে। ৪৭২০. ‘আবদুল্লাহ্ ইবনু মাসউদ (রাঃ) হতে বর্ণিত। (মক্কা বিজয়ের দিন) রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যখন মক্কা্য় প্রবেশ করলেন, তখন কা‘বা ঘরের চারপাশে তিনশ’ ষাটটি মূর্তি ছিল। তখন তিনি তাঁর হাতের ছড়ি দিয়ে এগুলোকে ঠোকা দিতে লাগলেন এবং বলতে থাকলেন, ‘‘সত্য এসেছে আর এবং মিথ্যা বিলুপ্ত হয়েছে। মিথ্যা তো বিলুপ্ত হওয়ারই’’- (সূরাহ ইসরাঈল ১৭/৮১)। ‘‘সত্য এসেছে আর অসত্য না পারে নতুন কিছু সৃষ্টি করতে এবং না পারে পুনরাবৃত্তি করতে।’’ [২৪৭৮] (আধুনিক প্রকাশনীঃ ৪৩৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4720</td></tr><tr><td>Arabic No</td><td>4720</td></tr><tr><td>Reference</td><td>Book 65 Hadith 242</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin Masud:Allah's Messenger (ﷺ) entered Mecca (in the year of the Conquest) and there were three-hundred and sixty idols around the Ka'ba. He then started hitting them with a stick in his hand and say: 'Truth (i.e. Islam) has come and falsehood (disbelief) vanished. Truly falsehood (disbelief) is ever bound to vanish.' (17.81) 'Truth has come and falsehood (Iblis) can not create anything.' (34.49)
+Narrated 'Abdullah bin Masud:Allah's Messenger (ﷺ) entered Mecca (in the year of the Conquest) and there were three-hundred and sixty idols around the Ka'ba. He then started hitting them with a stick in his hand and say: 'Truth (i.e. Islam) has come and falsehood (disbelief) vanished. Truly falsehood (disbelief) is ever bound to vanish.' (17.81) 'Truth has come and falsehood (Iblis) can not create anything
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4720</td></tr><tr><td>Arabic No</td><td>4720</td></tr><tr><td>Reference</td><td>Book 65 Hadith 242</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: இறையில்லம் கஅபாவைச் சுற்றிலும் முந்நூற்று அறுபது சிலைகள் இருந்த நிலையில், நபி (ஸல்) அவர்கள் மக்காவில் நுழைந்தார்கள். தமது கரத்திலிருந்த குச்சியால் அவற்றைக் குத்தியபடி, “சத்தியம் வந்தது; அசத்தியம் அழிந்தது. அசத்தியம் அழியக்கூடியதே!” (17:81)என்றும், “உண்மை வந்துவிட்டது; அசத்தியம் புதிதாக ஒன்றையும் செய்து விடவுமில்லை; (இனி) அது மீண்டும் ஒருமுறை பிறக்கப்போவதுமில்லை” (34:49) என்றும் கூறலானார்கள்.17 அத்தியாயம் : 65
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: இறையில்லம் கஅபாவைச் சுற்றிலும் முந்நூற்று அறுபது சிலைகள் இருந்த நிலையில், நபி (ஸல்) அவர்கள் மக்காவில் நுழைந்தார்கள். தமது கரத்திலிருந்த குச்சியால் அவற்றைக் குத்தியபடி, “சத்தியம் வந்தது; அசத்தியம் அழிந்தது. அசத்தியம் அழியக்கூடியதே!” (17:81)என்றும், “உண்மை வந்துவிட்டது; அசத்தியம் புதிதாக ஒன்றையும் செய்து விடவுமில்லை; (இனி) அது மீண்டும் ஒருமுறை பிறக்கப்போவதுமில்லை” (34:49) என்றும் கூறலானார்கள்.17 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4720</td></tr><tr><td>Arabic No</td><td>4720</td></tr><tr><td>Reference</td><td>Book 65 Hadith 242</td></tr></tbody></table></div>
 

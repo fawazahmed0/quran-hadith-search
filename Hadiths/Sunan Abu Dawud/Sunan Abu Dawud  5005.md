@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন সিনান (রহঃ) .... আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহান আল্লাহ্‌ সে সব লোকদের অপসন্দ করেন, যারা তড়বড় করে কথা বলে। তারা ঐ ব্যক্তির ন্যায়, যে নিজের জিহবাকে গরুর জাবর কাটার মত দ্রুত চালায়।
+। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয়ই আল্লাহ সেসব লোককে ঘৃণা করেন যারা বাকপটুত্ব প্রদর্শনের জন্য জিহবাকে দাঁতের সঙ্গে লাগিয়ে বিকট শব্দ করে, গরু তার জিহবা নেড়ে যেমন করে থাকে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5005</td></tr><tr><td>Arabic No</td><td>5005</td></tr><tr><td>Reference</td><td>Book 43 Hadith 233</td></tr></tbody></table></div>
 

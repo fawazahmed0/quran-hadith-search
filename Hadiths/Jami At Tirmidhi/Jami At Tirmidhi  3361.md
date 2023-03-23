@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৩৬১। 'আবদুল্লাহ ইবনু উমার (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতের একটি প্রস্রবণের নাম কাওসার, যার প্রত্যেক তীর সোনার এবং যার পানি মুক্তা ও ইয়াকুতের উপর দিয়ে প্রবাহমান। এর যমীন কস্তুরীর তুলনায় অধিক সুগন্ধসম্পন্ন, এর পানি মধুর তুলনায় অধিক মিষ্ট এবং বরফের তুলনায় অধিক সাদা। সহীহঃ ইবনু মাজাহ (হাঃ ৪৩৩৪)। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ।
+। 'আবদুল্লাহ ইবনু উমার (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতের একটি প্রস্রবণের নাম কাওসার, যার প্রত্যেক তীর সোনার এবং যার পানি মুক্তা ও ইয়াকুতের উপর দিয়ে প্রবাহমান। এর যমীন কস্তুরীর তুলনায় অধিক সুগন্ধসম্পন্ন, এর পানি মধুর তুলনায় অধিক মিষ্ট এবং বরফের তুলনায় অধিক সাদা। সহীহঃ ইবনু মাজাহ (হাঃ ৪৩৩৪)। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3361</td></tr><tr><td>Arabic No</td><td>3361</td></tr><tr><td>Reference</td><td>Book 47 Hadith 413</td></tr></tbody></table></div>
 

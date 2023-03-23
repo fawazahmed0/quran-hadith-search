@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি হাফসাহ (রাঃ)-এর ঘরের উপর আরোহণ করি। তখন আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কিবলাকে পেছন দিকে রেখে সিরিয়া মুখী হয়ে প্রাকৃতিক প্রয়োজন সেরে নিতে দেখলাম। (১৪৫) (আধুনিক প্রকাশনীঃ ২৮৬৯, ইসলামিক ফাউন্ডেশনঃ ২৮৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি হাফসাহ (রাঃ)-এর ঘরের উপর আরোহণ করি। তখন আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কিবলাকে পেছন দিকে রেখে সিরিয়া মুখী হয়ে প্রাকৃতিক প্রয়োজন সেরে নিতে দেখলাম। (১৪৫) (আধুনিক প্রকাশনীঃ ২৮৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3102</td></tr><tr><td>Arabic No</td><td>3102</td></tr><tr><td>Reference</td><td>Book 57 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ibrahim bin Al Mundzir] telah bercerita kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: ஹஃப்ஸா (ரலி) அவர்களின் வீட்டிற்குமேலே (ஒரு வேலையாக) நான் ஏறினேன். அப்போது நபி (ஸல்) அவர்கள் கிப்லாவுக்கு முதுகைக் காட்டியபடியும் ‘ஷாம்’ (சிரியா) திசையை நோக்கியபடியும் (கழிப்பிடத்தில்) இயற்கைக் கடனை நிறைவேற்றிக்கொண்டிருப்பதை நான் பார்த்தேன்.17 அத்தியாயம் : 57
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: ஹஃப்ஸா (ரலி) அவர்களின் வீட்டிற்குமேலே (ஒரு வேலையாக) நான் ஏறினேன். அப்போது நபி (ஸல்) அவர்கள் கிப்லாவுக்கு முதுகைக் காட்டியபடியும் ‘ஷாம்’ (சிரியா) திசையை நோக்கியபடியும் (கழிப்பிடத்தில்) இயற்கைக் கடனை நிறைவேற்றிக்கொண்டிருப்பதை நான் பார்த்தேன்.17 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3102</td></tr><tr><td>Arabic No</td><td>3102</td></tr><tr><td>Reference</td><td>Book 57 Hadith 11</td></tr></tbody></table></div>
 

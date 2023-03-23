@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫৮০, আন্তর্জাতিক নাম্বারঃ ২১৭৭ ৫৫৮০-(.../...) আবদ ইবনু হুমায়দ (রহঃ) আবদুর রাযযাক ও মা'মার (রহঃ) হতে উপরোক্ত সূত্রে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪৯৯, ইসলামিক সেন্টার ৫৫২৪)
+আবদ ইবনু হুমায়দ (রহঃ) আবদুর রাযযাক ও মা'মার (রহঃ) হতে উপরোক্ত সূত্রে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪৯৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>2177.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 41</td></tr></tbody></table></div>
 

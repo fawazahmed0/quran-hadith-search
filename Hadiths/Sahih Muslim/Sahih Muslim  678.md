@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৬৫, আন্তর্জাতিক নাম্বারঃ ২৯২ ৫৬৫-(.../...) আহমাদ ইবনু ইউসুফ আল আযদী (রহঃ) ..... সুলাইমান আল আ'মাশ হতে এ সূত্রে বর্ণিত আছে। তবে তিনি বলেন, "আর অপরজন প্রস্রাব হতে পবিত্রতা অর্জন করত না"। (ইসলামিক ফাউন্ডেশনঃ ৫৬৯, ইসলামিক সেন্টারঃ ৫৮৫)
+আহমাদ ইবনু ইউসুফ আল আযদী (রহঃ) ..... সুলাইমান আল আ'মাশ হতে এ সূত্রে বর্ণিত আছে। তবে তিনি বলেন, "আর অপরজন প্রস্রাব হতে পবিত্রতা অর্জন করত না"। (ইসলামিক ফাউন্ডেশনঃ ৫৬৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>678</td></tr><tr><td>Arabic No</td><td>292.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
 

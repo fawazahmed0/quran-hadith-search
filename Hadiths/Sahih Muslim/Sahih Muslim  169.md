@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৩, আন্তর্জাতিক নাম্বারঃ ৪৪ ৭৩-(৭০/...) মুহাম্মাদ ইবনু আল মুসান্না ও ইবনু বাশশার (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ তোমরা কেউই ততক্ষণ পর্যন্ত মু'মিন হতে পারবে না, যতক্ষণ পর্যন্ত আমি তার নিকট তার সন্তান-সন্ততি, পিতা-মাতা এবং অন্যান্য লোকেদের চাইতে অধিকতর প্রিয় না হব। (ইসলামিক ফাউন্ডেশনঃ ৭৫, ইসলামিক সেন্টারঃ ৭৭)
+মুহাম্মাদ ইবনু আল মুসান্না ও ইবনু বাশশার (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ তোমরা কেউই ততক্ষণ পর্যন্ত মু'মিন হতে পারবে না, যতক্ষণ পর্যন্ত আমি তার নিকট তার সন্তান-সন্ততি, পিতা-মাতা এবং অন্যান্য লোকেদের চাইতে অধিকতর প্রিয় না হব। (ইসলামিক ফাউন্ডেশনঃ ৭৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>169</td></tr><tr><td>Arabic No</td><td>44.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 76</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. el-Müsenna ve İbn Beşşar tahdis edip dediler ki. Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. Dediki: Katadeyi Enes b. Malik'den naklen rivayet ederken dinledim. Enes şöyle demiş: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Sizden biriniz beni çocuğundan, babasından ve bütün insanlardan daha çok sevmedikçe iman etmiş olmaz. " Diğer tahric: Buhari, 15; Nesai, 5028; İbn Mace, 67; Tuhfetu'l-Eşraf, 1249
+Bize Muhammed b. el-Müsenna ve İbn Beşşar tahdis edip dediler ki. Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. Dediki: Katadeyi Enes b. Malik'den naklen rivayet ederken dinledim. Enes şöyle demiş: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Sizden biriniz beni çocuğundan, babasından ve bütün insanlardan daha çok sevmedikçe iman etmiş olmaz. " Diğer tahric: Buhari, 15; Nesai, 5028; İbn Mace, 67; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>169</td></tr><tr><td>Arabic No</td><td>44.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 76</td></tr></tbody></table></div>
 

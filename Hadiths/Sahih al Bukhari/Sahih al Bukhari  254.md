@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জুবায়র ইবনু মুত‘ইম (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি তিনবার আমার মাথায় পানি ঢালি। এই বলে তিনি উভয় হাতের দ্বারা ইঙ্গিত করেন। (মুসলিম ৩/১১, হাঃ ৩২৭, আহমাদ ১৬৭৪৯, ১৬৭৮০) (আধুনিক প্রকাশনীঃ ২৪৭, ইসলামিক ফাউন্ডেশনঃ ২৫২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জুবায়র ইবনু মুত‘ইম (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি তিনবার আমার মাথায় পানি ঢালি। এই বলে তিনি উভয় হাতের দ্বারা ইঙ্গিত করেন। (মুসলিম ৩/১১, হাঃ ৩২৭, আহমাদ ১৬৭৪৯, ১৬৭৮০) (আধুনিক প্রকাশনীঃ ২৪৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜுபைர் பின் முத்இம் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “நானோ (குளிக்கும்போது) மூன்று முறை எனது தலையில் தண்ணீரை ஊற்றுவேன்” என்று கூறி, தம்மிரு கைகளாலும் (தண்ணீர் அள்ளுவதைப் போன்று) சைகை செய்து காட்டினார்கள். அத்தியாயம் : 5
+ஜுபைர் பின் முத்இம் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “நானோ (குளிக்கும்போது) மூன்று முறை எனது தலையில் தண்ணீரை ஊற்றுவேன்” என்று கூறி, தம்மிரு கைகளாலும் (தண்ணீர் அள்ளுவதைப் போன்று) சைகை செய்து காட்டினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 7</td></tr></tbody></table></div>
 

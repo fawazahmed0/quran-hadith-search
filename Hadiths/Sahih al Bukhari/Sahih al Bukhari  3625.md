@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তিনি বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে চুপে চুপে বলেছিলেন, যে রোগে তিনি রোগাক্রান্ত হয়েছেন এ রোগেই তাঁর মৃত্যু হবে; তাই আমি কেঁদে দিয়েছিলাম। অতঃপর তিনি চুপিচুপি আমাকে বলেছিলেন, তার পরিবার-পরিজনের মধ্যে সর্বপ্রথম আমিই তাঁর সঙ্গে মিলিত হব, এতে আমি হাসলাম। (৩৬২৪) (আধুনিক প্রকাশনীঃ ৩৩৫৫, ইসলামিক ফাউন্ডেশনঃ ৩৩৬২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>3625</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated 'Aisha:The Prophet (ﷺ) in his fatal illness, called his daughter Fati
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas dedi ki: "Ömer b. el-Hattab r.a., İbn Abbas'ı kendisine yakın tutardı. Abdurrahman b. Avf ona: Bizim onun gibi çocuklarımız var, deyince, Ömer: Sen bunun sebebinin ne olduğunu biliyorsun, dedi. Ömer, İbn Abbas'a şu: "Allah'ın yardımı ve fetih geldiği zaman" [Nasr 1] ayeti hakkında sordu. İbn Abbas: Bu Resulullah Sallallahu Aleyhi ve Sellem'in eceli olup (Allah) onu kendisine bildirmiştir, diye cevap verdi. Omer: Benim de onun hakkında bildiğim, senin bildiğinden başkası değildir, dedi." Tekrar: 4294, 4430, 4969 ve 4970
+İbn Abbas dedi ki: "Ömer b. el-Hattab r.a., İbn Abbas'ı kendisine yakın tutardı. Abdurrahman b. Avf ona: Bizim onun gibi çocuklarımız var, deyince, Ömer: Sen bunun sebebinin ne olduğunu biliyorsun, dedi. Ömer, İbn Abbas'a şu: "Allah'ın yardımı ve fetih geldiği zaman" [Nasr 1] ayeti hakkında sordu. İbn Abbas: Bu Resulullah Sallallahu Aleyhi ve Sellem'in eceli olup (Allah) onu kendisine bildirmiştir, diye cevap verdi. Omer: Benim de onun hakkında bildiğim, senin bildiğinden başkası değildir, dedi." Tekrar: 4294, 4430, 4969 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>3625</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

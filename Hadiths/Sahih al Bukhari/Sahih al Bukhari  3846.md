@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3846</td></tr><tr><td>Arabic No</td><td>3846</td></tr><tr><td>Reference</td><td>Book 63 Hadith 71</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku ['Ubaid bin Isma'il] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: “புஆஸ்' போர் நாள், தன் தூதருக்காக அல்லாஹ் (சாதகமான சூழ்நிலையை உருவாக்கும் வகையில்) முன்கூட்டியே நிகழ்த்திக் காட்டிய நாளாகும். மதீனாவாசிகளின் கூட்டமைப்பு (குலைந்து) பிளவுபட்டிருந்த நிலையிலும், அவர்களில் முக்கியப் பிரமுகர்கள் கொல்லப்பட்டும் காயமுற்றும் இருந்த நிலையிலும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (அங்கு) வருகை புரிந்தார்கள். ஆகவே, மக்கள் இஸ்லாத்தை ஏற்க (ஏதுவான சூழ்நிலையை உருவாக்குவதற் காக) அல்லாஹ்தான், தன் தூதர் (ஸல்) அவர்களுக்குச் சாதகமாக அந்த நாளை முன்கூட்டியே நிகழச்செய்தான்.83 அத்தியாயம் : 63
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: “புஆஸ்' போர் நாள், தன் தூதருக்காக அல்லாஹ் (சாதகமான சூழ்நிலையை உருவாக்கும் வகையில்) முன்கூட்டியே நிகழ்த்திக் காட்டிய நாளாகும். மதீனாவாசிகளின் கூட்டமைப்பு (குலைந்து) பிளவுபட்டிருந்த நிலையிலும், அவர்களில் முக்கியப் பிரமுகர்கள் கொல்லப்பட்டும் காயமுற்றும் இருந்த நிலையிலும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (அங்கு) வருகை புரிந்தார்கள். ஆகவே, மக்கள் இஸ்லாத்தை ஏற்க (ஏதுவான சூழ்நிலையை உருவாக்குவதற் காக) அல்லாஹ்தான், தன் தூதர் (ஸல்) அவர்களுக்குச் சாதகமாக அந்த நாளை முன்கூட்டியே நிகழச்செய்தான்.83 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3846</td></tr><tr><td>Arabic No</td><td>3846</td></tr><tr><td>Reference</td><td>Book 63 Hadith 71</td></tr></tbody></table></div>
 

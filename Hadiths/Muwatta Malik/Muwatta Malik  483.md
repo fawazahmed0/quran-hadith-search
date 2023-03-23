@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya related to me from Malik that Abdullah ibn Dinar said, "I saw Abdullah ibn Umar prostrate twice in Surat al-Hajj (Sura 22)
+Yahya related to me from Malik that Abdullah ibn Dinar said, "I saw Abdullah ibn Umar prostrate twice in Surat al-Hajj (Sura)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>483</td></tr><tr><td>Arabic No</td><td>483</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
 

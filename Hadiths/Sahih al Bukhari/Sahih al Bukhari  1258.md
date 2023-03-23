@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু আতিয়্যাহ্ (রাযি.) বলেছেন, তিনি ইরশাদ করেছিলেনঃ তাঁকে তিন, পাঁচ, সাত বা প্রয়োজনে তার চেয়ে অধিকবার গোসল দাও। হাফসাহ (রহ.) বলেন, উম্মু আতিয়্যাহ্ (রাযি.) বলেন, আমরা তাঁর মাথার চুলে তিনটি গোছা (বেনী) [1] বানিয়ে দিলাম। (১৬৭) (আধুনিক প্রকাশনীঃ ১১৭৭ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ১১৮৫ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1258</td></tr><tr><td>Arabic No</td><td>1258</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

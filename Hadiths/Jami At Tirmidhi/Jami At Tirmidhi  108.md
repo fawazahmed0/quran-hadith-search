@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০৮। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, পুরুষাংগের খাতনার স্থান স্ত্রীর (যৌনাংগের) খাতনার স্থান অতিক্রম করলে গোসল ওয়াজিব হয়ে যায়। আমি (আয়িশাহ) ও রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ করেছি, অতঃপর আমরা গোসল করেছি। —সহীহ। ইবনু মাজাহ– (৬০৮), মুসলিম। এ অনুচ্ছেদে আবু হুরাইরাহ, ‘আবদুল্লাহ ইবনু আমর ও রাফি ইবনু খাদীজ (রাঃ) হতে বর্ণনাকৃত হাদীসও রয়েছে।
+। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, পুরুষাংগের খাতনার স্থান স্ত্রীর (যৌনাংগের) খাতনার স্থান অতিক্রম করলে গোসল ওয়াজিব হয়ে যায়। আমি (আয়িশাহ) ও রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ করেছি, অতঃপর আমরা গোসল করেছি। —সহীহ। ইবনু মাজাহ– (৬০৮), মুসলিম। এ অনুচ্ছেদে আবু হুরাইরাহ, ‘আবদুল্লাহ ইবনু আমর ও রাফি ইবনু খাদীজ (রাঃ) হতে বর্ণনাকৃত হাদীসও রয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>108</td></tr><tr><td>Arabic No</td><td>108</td></tr><tr><td>Reference</td><td>Book 1 Hadith 108</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Aicha, la femme de Prophète r (salallahou alayhi wa salam) (Sur lui la grâce e
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Urve der ki: Âişe (r.anha) bana: «Resulullah Sallallahu Aleyhi ve Sellem ikindi namazım, güneş henüz odamın duvarında yükselmeden kılardı.» dedi. Diğer tahric edenler: Buhari, Mevakitu's-Sâlat, 9/1; Müslim, Mesâcid, 5/167; Şeybanî, 3
+Urve der ki: Âişe (r.anha) bana: «Resulullah Sallallahu Aleyhi ve Sellem ikindi namazım, güneş henüz odamın duvarında yükselmeden kılardı.» dedi. Diğer tahric edenler: Buhari, Mevakitu's-Sâlat, 9/1; Müslim, Mesâcid, 5/167; Şeybanî
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2</td></tr><tr><td>Arabic No</td><td>2</td></tr><tr><td>Reference</td><td>Book 1 Hadith 2</td></tr></tbody></table></div>
 

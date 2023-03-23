@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কিছু জিনিস পত্র বন্টন করছিলেন। সে সময় এক ব্যক্তি তাঁর উপর ঝুঁকে পড়লে, তিনি তাকে সরাবার উদ্দেশ্যে ধাক্কা দিলে, তাঁর হাতের ছুরির আঘাতে সে ব্যক্তির মুখ যখম হয়। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সে ব্যক্তিকে বলেনঃ তুমি এসো এবং আমার থেকে ক্ষতিপূরণ গ্রহণ কর। সে ব্যক্তি বলেঃ ইয়া রাসূলাল্লাহ! আমি আপনাকে মাফ করে দিয়েছি।
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কিছু সম্পদ বণ্টনের কাজে ব্যস্ত ছিলেন। তখন এক ব্যক্তি এসে তাঁর উপর ঝুঁকে পড়লো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খেজুরের লাঠি দিয়ে তাকে আঘাত করলেন এবং এতে তার চেহারায় দাগ পড়ে গেলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন, তুমি এসে আমার থেকে কিসাস নাও। তিনি বললেন, হে আল্লাহর রাসূল! বরং আমি ক্ষমা করে দিলাম।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4536</td></tr><tr><td>Arabic No</td><td>4536</td></tr><tr><td>Reference</td><td>Book 41 Hadith 43</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Saîd el-Hudri (r.a) den; şöyle demiştir: Rasûlullah (s.a.v) mal (ganimet) taksim ederken bir adam gelip üzerine abandı. Rasûlullah (s.a.v), yanındaki hurma salkımı sapından olan kamçıyı adama vurdu. Adam'ın yüzü yaralandı. Rasûlullah (s.a.v) adam'a: "Gel sen de kısas yap (bana vur)" dedi. Adam: “Affettim yâ Resûlallah!" dedi. Diğer tahric edenler: Nesâî. kasame; Ahme b. Hanbel, III, 56-65
+Ebû Saîd el-Hudri (r.a) den; şöyle demiştir: Rasûlullah (s.a.v) mal (ganimet) taksim ederken bir adam gelip üzerine abandı. Rasûlullah (s.a.v), yanındaki hurma salkımı sapından olan kamçıyı adama vurdu. Adam'ın yüzü yaralandı. Rasûlullah (s.a.v) adam'a: "Gel sen de kısas yap (bana vur)" dedi. Adam: “Affettim yâ Resûlallah!" dedi. Diğer tahric edenler: Nesâî. kasame; Ahme b. Hanbel, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4536</td></tr><tr><td>Arabic No</td><td>4536</td></tr><tr><td>Reference</td><td>Book 41 Hadith 43</td></tr></tbody></table></div>
 

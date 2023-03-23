@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩৭৯। আনাস ইবনু মালিক (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিনটি জিনিস মৃতের অনুসরণ করে, তারপর দুটি চলে আসে এবং একটি (তার সাথে) রয়ে যায়। তার সাথে যায় তার পরিবার-পরিজন, সম্পদ ও কৃতকর্ম। তারপর তার পরিজন ও সম্পদ ফিরে আসে এবং তার কৃতকর্ম (তার সাথে) থেকে যায়। সহীহ, বুখারী, মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আনাস ইবনু মালিক (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিনটি জিনিস মৃতের অনুসরণ করে, তারপর দুটি চলে আসে এবং একটি (তার সাথে) রয়ে যায়। তার সাথে যায় তার পরিবার-পরিজন, সম্পদ ও কৃতকর্ম। তারপর তার পরিজন ও সম্পদ ফিরে আসে এবং তার কৃতকর্ম (তার সাথে) থেকে যায়। সহীহ, বুখারী, মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2379</td></tr><tr><td>Arabic No</td><td>2379</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
 

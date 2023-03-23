@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩২৫, আন্তর্জাতিক নাম্বারঃ ২০৭৬ ৫৩২৫-(.../...) মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) মুহাম্মাদ ইবনু জা'ফার (রহঃ) এর সানাদে শু'বাহ্ (রহঃ) হতে উপরোক্ত সূত্রে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫২৫৮, ইসলামিক সেন্টার ৫২৭১)
+মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) মুহাম্মাদ ইবনু জা'ফার (রহঃ) এর সানাদে শু'বাহ্ (রহঃ) হতে উপরোক্ত সূত্রে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫২৫৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5432</td></tr><tr><td>Arabic No</td><td>2076.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 47</td></tr></tbody></table></div>
 

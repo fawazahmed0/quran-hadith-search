@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৪৫৫, আন্তর্জাতিক নাম্বারঃ ১৪৪১ ৩৪৫৫-(.../...) আবূ বাকর ইবনু শায়বাহ ও মুহাম্মাদ ইবনু বাশশার (রহিমাহুমাল্লাহ) ..... শুবাহ (রহঃ) সূত্রে এ সানাদে বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৪২৮, ইসলামীক সেন্টার ৩৪২৭)
+আবূ বাকর ইবনু শায়বাহ ও মুহাম্মাদ ইবনু বাশশার (রহিমাহুমাল্লাহ) ..... শুবাহ (রহঃ) সূত্রে এ সানাদে বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৪২৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>1441.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 165</td></tr></tbody></table></div>
 

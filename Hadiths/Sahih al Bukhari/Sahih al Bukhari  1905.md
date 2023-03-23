@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলকামাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ‘আবদুল্লাহ (রাঃ)-এর সঙ্গে চলতে ছিলাম, তখন তিনি বললেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে ছিলাম, তিনি বললেনঃ যে ব্যক্তির সামর্থ্য আছে, সে যেন বিয়ে করে নেয়। কেননা বিয়ে চোখকে অবনত রাখে এবং লজ্জাস্থানকে সংযত করে। আর যার সামর্থ্য নেই, সে যেন সওম পালন করে। সওম তার প্রবৃত্তিকে দমন করে। আবূ ‘আবদুল্লাহ (রহ.) বলেন, الْبَاءَةَ শব্দে অর্থ বিবাহ। (৫০৬৫, ৫০৬৬) (আধুনিক প্রকাশনীঃ ১৭৭০, ইসলামিক ফাউন্ডেশনঃ ১৭৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলকামাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ‘আবদুল্লাহ (রাঃ)-এর সঙ্গে চলতে ছিলাম, তখন তিনি বললেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে ছিলাম, তিনি বললেনঃ যে ব্যক্তির সামর্থ্য আছে, সে যেন বিয়ে করে নেয়। কেননা বিয়ে চোখকে অবনত রাখে এবং লজ্জাস্থানকে সংযত করে। আর যার সামর্থ্য নেই, সে যেন সওম পালন করে। সওম তার প্রবৃত্তিকে দমন করে। আবূ ‘আবদুল্লাহ (রহ.) বলেন, الْبَاءَةَ শব্দে অর্থ বিবাহ। (৫০৬৫, ৫০৬৬) (আধুনিক প্রকাশনীঃ ১৭৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1905</td></tr><tr><td>Arabic No</td><td>1905</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்கமா பின் கைஸ் (ரஹ்) அவர்கள் கூறியதாவது: நான் அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்களுடன் நடந்துகொண்டிருந் தேன். அப்போது அவர்கள் (பின்வருமாறு) கூறினார்கள்: நாங்கள் (ஒரு நாள்) நபி (ஸல்) அவர்களுடன் இருந்தோம். அப்போது அவர்கள், ‘‘யார் தாம்பத்தியம் நடத்த சக்தி பெற்றிருக்கிறாரோ அவர் திருமணம் செய்துகொள்ளட்டும்; ஏனெனில், அது (தகாத) பார்வையைக் கட்டுப்படுத்தும்; கற்பைக் காக்கும். யார் அதற்குச் சக்தி பெறவில்லையோ அவர் நோன்பு நோற்கட்டும். அது அவரது இச்சையைக் கட்டுப்படுத்தும். அத்தியாயம் : 30
+அல்கமா பின் கைஸ் (ரஹ்) அவர்கள் கூறியதாவது: நான் அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்களுடன் நடந்துகொண்டிருந் தேன். அப்போது அவர்கள் (பின்வருமாறு) கூறினார்கள்: நாங்கள் (ஒரு நாள்) நபி (ஸல்) அவர்களுடன் இருந்தோம். அப்போது அவர்கள், ‘‘யார் தாம்பத்தியம் நடத்த சக்தி பெற்றிருக்கிறாரோ அவர் திருமணம் செய்துகொள்ளட்டும்; ஏனெனில், அது (தகாத) பார்வையைக் கட்டுப்படுத்தும்; கற்பைக் காக்கும். யார் அதற்குச் சக்தி பெறவில்லையோ அவர் நோன்பு நோற்கட்டும். அது அவரது இச்சையைக் கட்டுப்படுத்தும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1905</td></tr><tr><td>Arabic No</td><td>1905</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Alkame İbn Kays en-Nehaî şöyle demiştir: Abdullah İbn Mes'ud (r.a.) ile birlikte yürüyordum. Bu sırada şöyle dedi: "Resulullah Sallallahu Aleyhi ve Sellem, kendisi ile beraber bulunduğumuz bir sırada şöyle buyurdu: "Evlenmeye gücü yeten ve imkanı olan kimse hemen evlensin. Çünkü gözü ve namusu (haramdan) korumada evlilik en etkili yoldur. Evlenmeye gücü yetmeyenler ise oruç tutsunlar. Çünkü oruç kişinin şehvetini kırar." Tekrar: 5065, 5066
+Alkame İbn Kays en-Nehaî şöyle demiştir: Abdullah İbn Mes'ud (r.a.) ile birlikte yürüyordum. Bu sırada şöyle dedi: "Resulullah Sallallahu Aleyhi ve Sellem, kendisi ile beraber bulunduğumuz bir sırada şöyle buyurdu: "Evlenmeye gücü yeten ve imkanı olan kimse hemen evlensin. Çünkü gözü ve namusu (haramdan) korumada evlilik en etkili yoldur. Evlenmeye gücü yetmeyenler ise oruç tutsunlar. Çünkü oruç kişinin şehvetini kırar." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1905</td></tr><tr><td>Arabic No</td><td>1905</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
 

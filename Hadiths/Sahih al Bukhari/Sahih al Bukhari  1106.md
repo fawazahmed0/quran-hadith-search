@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালিম তার পিতা থেকে বর্ণনা করেন, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন দ্রুত সফর করতেন, তখন মাগরিব ও ‘ইশা একত্রে আদায় করতেন। (১০৯১) (আধুনিক প্রকাশনীঃ ১০৩৮, ইসলামিক ফাউন্ডেশনঃ ১০৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালিম তার পিতা থেকে বর্ণনা করেন, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন দ্রুত সফর করতেন, তখন মাগরিব ও ‘ইশা একত্রে আদায় করতেন। (১০৯১) (আধুনিক প্রকাশনীঃ ১০৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1106</td></tr><tr><td>Arabic No</td><td>1106</td></tr><tr><td>Reference</td><td>Book 18 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Salim's father:The Prophet (ﷺ) used to offer the Maghrib and 'Isha' p
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அவசரமாகப் பயணம் செய்ய நேரிட்டால் மஃக்ரிபையும் இஷாவையும் சேர்த்துத் தொழுவார்கள். அத்தியாயம் : 18
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அவசரமாகப் பயணம் செய்ய நேரிட்டால் மஃக்ரிபையும் இஷாவையும் சேர்த்துத் தொழுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1106</td></tr><tr><td>Arabic No</td><td>1106</td></tr><tr><td>Reference</td><td>Book 18 Hadith 26</td></tr></tbody></table></div>
 

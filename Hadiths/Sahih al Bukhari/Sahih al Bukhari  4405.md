@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম জারীর (রাঃ)-কে বিদায় হাজ্জে বললেন, লোকজনকে চুপ থাকতে বল। তারপর বললেন, আমার ইন্তিকালের পর তোমরা কুফরীর দিকে ফিরে যেয়ো না যে, একে অন্যের গর্দান উড়াবে। [১২১] (আধুনিক প্রকাশনীঃ ৪০৫৫, ইসলামিক ফাউন্ডেশনঃ ৪০৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম জারীর (রাঃ)-কে বিদায় হাজ্জে বললেন, লোকজনকে চুপ থাকতে বল। তারপর বললেন, আমার ইন্তিকালের পর তোমরা কুফরীর দিকে ফিরে যেয়ো না যে, একে অন্যের গর্দান উড়াবে। [১২১] (আধুনিক প্রকাশনীঃ ৪০৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4405</td></tr><tr><td>Arabic No</td><td>4405</td></tr><tr><td>Reference</td><td>Book 64 Hadith 427</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] Telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் “ஹஜ்ஜத்துல் வதா'வின்போது என்னிடம், “மக்களை மௌனமாக இருக்கச் சொல்லுங்கள்!” என்று சொல்லிவிட்டு, “எனக்குப் பின்னால் உங்களில் ஒருவர் மற்றவரின் கழுத்தை வெட்டி மாய்த்துக்கொள்வதன் மூலம் இறைமறுப்பாளர்க(ளைப் போன்றவர்க)ளாய் மாறிவிடாதீர்கள்” என்று கூறினார்கள். அத்தியாயம் : 64
+ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் “ஹஜ்ஜத்துல் வதா'வின்போது என்னிடம், “மக்களை மௌனமாக இருக்கச் சொல்லுங்கள்!” என்று சொல்லிவிட்டு, “எனக்குப் பின்னால் உங்களில் ஒருவர் மற்றவரின் கழுத்தை வெட்டி மாய்த்துக்கொள்வதன் மூலம் இறைமறுப்பாளர்க(ளைப் போன்றவர்க)ளாய் மாறிவிடாதீர்கள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4405</td></tr><tr><td>Arabic No</td><td>4405</td></tr><tr><td>Reference</td><td>Book 64 Hadith 427</td></tr></tbody></table></div>
 

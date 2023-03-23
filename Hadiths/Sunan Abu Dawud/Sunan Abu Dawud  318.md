@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবনু সালেহ্ ..... উবায়দুল্লাহ্ (রহঃ) থেকে আম্মার (রাঃ) এর সূত্রে বর্ণিত। তিনি বলেন একদা তারা ফজরের নামায আদায়ের উদ্দেশ্যে পবিত্র মাটি দ্বারা তায়াম্মুম করেন এবং এ সময় তারা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের সাথে ছিলেন। প্রথমে তারা তাদের দুই হাতের তালু পাক মাটির উপর মেরে মুখমন্ডল একবার মাসেহ্ করেন। অতঃপর পুনরায় দুই হাত মাটির উপর মেরে তাদের উভয় হাতের বগল পর্যন্ত মাসেহ্ করেন।
+। ‘আম্মার ইবনু ইয়াসির (রাঃ) সূত্রে বর্ণিত। তিনি বর্ণনা করেন, তাঁরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ফরয সালাতের জন্য পবিত্র মাটি দ্বারা তায়াম্মুম করার সময় মাটির উপর হাত মেরে প্রথমে মুখমন্ডল একবার মাসাহ্ করলেন। দ্বিতীয়বার মাটিতে হাত মেরে বগল পর্যন্ত পুরো হাত মাসাহ্ করলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>318</td></tr><tr><td>Arabic No</td><td>318</td></tr><tr><td>Reference</td><td>Book 1 Hadith 318</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ammar bin Yasir (r.a) şöyle haber vermiştir: "Sahabiler, Resulullah (Sallallahu aleyhi ve Sellem) ile beraber oldukları halde, sabah namazı için yeryüzü (toprak) cinsinden bir şeyle teyemmüm ettiler. Şöyleki: Ellerini yere vurdular sonra yüzlerini bir kere meshettiler. Bilahere ellerini tekrar yere vurdular ve her iki ellerini omuzlarına ve koltuk altlarına kadar avuçlarının içiyle meshettiler." Diğer tahric. İbni Mace, tahare; Ahmed b. Hanbel, IV, 321
+Ammar bin Yasir (r.a) şöyle haber vermiştir: "Sahabiler, Resulullah (Sallallahu aleyhi ve Sellem) ile beraber oldukları halde, sabah namazı için yeryüzü (toprak) cinsinden bir şeyle teyemmüm ettiler. Şöyleki: Ellerini yere vurdular sonra yüzlerini bir kere meshettiler. Bilahere ellerini tekrar yere vurdular ve her iki ellerini omuzlarına ve koltuk altlarına kadar avuçlarının içiyle meshettiler." Diğer tahric. İbni Mace, tahare; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>318</td></tr><tr><td>Arabic No</td><td>318</td></tr><tr><td>Reference</td><td>Book 1 Hadith 318</td></tr></tbody></table></div>
 

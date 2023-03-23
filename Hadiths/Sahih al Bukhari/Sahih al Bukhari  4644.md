@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আবদুল্লাহ ইবনু যুবায়র (রাঃ) বলেছেন, আল্লাহ তা‘আলা তাঁর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে মানুষের আচরণের ব্যাপারে ক্ষমা অবলম্বন করার নির্দেশ দিয়েছেন। [৪৬৪৩] (আধুনিক প্রকাশনীঃ ৪২৮৩, ইসলামিক ফাউন্ডেশনঃ ৪২৮৫ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4644</td></tr><tr><td>Arabic No</td><td>4644</td></tr><tr><td>Reference</td><td>Book 65 Hadith 166</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] da
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அஸ்ஸுபைர் (ரலி) அவர்கள் கூறியதாவது: மக்களின் நற்குணங்களில் ஒன்றான மன்னிக்கும் போக்கை மேற்கொள்ளும்படி தன் தூதர் (ஸல்) அவர்களுக்கு (இவ்வசனத்தில்- 7:199) அல்லாஹ் கட்டளையிட் டுள்ளான்.8 அத்தியாயம் : 65
+அப்துல்லாஹ் பின் அஸ்ஸுபைர் (ரலி) அவர்கள் கூறியதாவது: மக்களின் நற்குணங்களில் ஒன்றான மன்னிக்கும் போக்கை மேற்கொள்ளும்படி தன் தூதர் (ஸல்) அவர்களுக்கு (இவ்வசனத்தில்- 7:199) அல்லாஹ் கட்டளையிட் டுள்ளான்.8 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4644</td></tr><tr><td>Arabic No</td><td>4644</td></tr><tr><td>Reference</td><td>Book 65 Hadith 166</td></tr></tbody></table></div>
 

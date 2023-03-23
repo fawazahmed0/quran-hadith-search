@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৬৯৫, আন্তর্জাতিক নাম্বারঃ ২২২৪ ৫৬৯৫-(১১৩/২২২৪) হাজ্জাজ ইবনু শাইর (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, সংক্রমণ ও অশুভ লক্ষণ নেই। আর আমি পছন্দ করি উত্তম ফাল তথা ভাল কথা। (ইসলামিক ফাউন্ডেশন ৫৬০৮, ইসলামিক সেন্টার ৫৬৩৭)
+হাজ্জাজ ইবনু শাইর (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, সংক্রমণ ও অশুভ লক্ষণ নেই। আর আমি পছন্দ করি উত্তম ফাল তথা ভাল কথা। (ইসলামিক ফাউন্ডেশন ৫৬০৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5802</td></tr><tr><td>Arabic No</td><td>2223.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 154</td></tr></tbody></table></div>
 

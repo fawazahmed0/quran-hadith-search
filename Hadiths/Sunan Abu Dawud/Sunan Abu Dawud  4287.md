@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইব্‌ন আবদুল্লাহ্‌ (রহঃ) .... কাতাদা (রহঃ) থেকে এরূপ বর্ণিত আছে। তিনি বলেনঃ মাহ্‌দী (আঃ) নয় বছর জীবিত থাকবেন। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ রাবী মুআয (রহঃ)-এর বর্ণনা ব্যতীত, হিশাম (রহঃ)-এর বর্ণনাতেও নয় বছরের উল্লেখ আছে।
+। কাতাদাহ (রহঃ) উপরে বর্ণিত হাদীস প্রসঙ্গে বলেন, তিনি নয় বছর অবস্থান করবেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, মু‘আয ছাড়া অন্যরা হিশাম থেকে বর্ণনা করে বলেন, নয় বছর অবস্থান করবেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4287</td></tr><tr><td>Arabic No</td><td>4287</td></tr><tr><td>Reference</td><td>Book 38 Hadith 9</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭৩৯৭-(…/...) মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার, উসমান ইবনু আবূ শাইবাহ্ (রহঃ) মিকদাদ (রহঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭২৩৫, ইসলামিক সেন্টার ৭২৮৯)
+(…/...) মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার, উসমান ইবনু আবূ শাইবাহ্ (রহঃ) মিকদাদ (রহঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭২৩৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7507</td></tr><tr><td>Arabic No</td><td>3002.03</td></tr><tr><td>Reference</td><td>Book 55 Hadith 89</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি উপরোক্ত হাদীছের অনুরূপ হাদীছ বর্ণনা প্রসংগে আরো বলেনঃ (রাস্তার হক হলোঃ) অন্যকে রাস্তা দেখিয়ে দেয়া।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ প্রসঙ্গে বলেছেন, এবং (রাস্তার হক হলো পথ হারাকে) পথ দেখানো।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>4816</td></tr><tr><td>Reference</td><td>Book 43 Hadith 44</td></tr></tbody></table></div>
 

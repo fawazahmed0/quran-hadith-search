@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নুফায়লী (রহঃ) .... জাবির ইবন আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের কাছে এসে এক ব্যক্তির মাথার চুল আলু থালু দেখে বলেনঃ এ ব্যক্তির কি চুল আঁচড়ানোর মত কিছু নেই। অপর এক ব্যক্তির পরিধানে ময়লা কাপড় দেখে বলেনঃ সে কি তার কাপড় ধোয়ার জন্য পানি পায় না।
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের এখানে এসে এক বিক্ষিপ্ত চুলওয়ালাকে দেখে বললেনঃ লোকটি কি তার চুলগুলো আচড়ানোর জন্য কিছু পায় না? তিনি ময়লা কাপড় পরিহিত অপর ব্যক্তিকে দেখে বলেনঃ লোকটি কি তার কাপড় ধোয়ার জন্য কিছু পায় না?[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4062</td></tr><tr><td>Arabic No</td><td>4062</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
 

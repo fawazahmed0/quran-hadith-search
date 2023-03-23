@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৩৩৫। আবূ সাঈদ ও আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি রাতে ঘুম থেকে জেগে উঠে নিজ স্ত্রীকেও ঘুম থেকে জাগ্রত করে উভয়ে দু রাকআত (নফল) সালাত (নামায/নামাজ) পড়ে, তাদের উভয়কে আল্লাহ্‌র পর্যাপ্ত যিকরকারী পুরুষ ও পর্যাপ্ত যিকিরকারী স্ত্রীলোকদের তালিকাভুক্ত করা হয়।
+। আবূ সাঈদ ও আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি রাতে ঘুম থেকে জেগে উঠে নিজ স্ত্রীকেও ঘুম থেকে জাগ্রত করে উভয়ে দু রাকআত (নফল) সালাত (নামায/নামাজ) পড়ে, তাদের উভয়কে আল্লাহ্‌র পর্যাপ্ত যিকরকারী পুরুষ ও পর্যাপ্ত যিকিরকারী স্ত্রীলোকদের তালিকাভুক্ত করা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 5 Hadith 533</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসহামা নাজাশীর জানাযার সালাত আদায় করলেন, তাতে তিনি চার তাকবীর দিলেন। ইয়াযীদ ইবনু হারূন ও আবদুস্ সামাদ (রহ.) সালীম (রহ.) হতে أَصْحَمَةَ শব্দটি উল্লেখ করেন। (১৩১৭) (আধুনিক প্রকাশনীঃ ১২৪৬, ইসলামিক ফাউন্ডেশনঃ ১২৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসহামা নাজাশীর জানাযার সালাত আদায় করলেন, তাতে তিনি চার তাকবীর দিলেন। ইয়াযীদ ইবনু হারূন ও আবদুস্ সামাদ (রহ.) সালীম (রহ.) হতে أَصْحَمَةَ শব্দটি উল্লেখ করেন। (১৩১৭) (আধুনিক প্রকাশনীঃ ১২৪৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1334</td></tr><tr><td>Arabic No</td><td>1334</td></tr><tr><td>Reference</td><td>Book 23 Hadith 89</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mihammad bin Sinan] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ‘அஸ்ஹமா’ எனும் (அபிசீனிய மன்னர்) நஜாஷீ அவர்களுக்கு நான்கு தக்பீர்கள் கூறி (ஜனாஸா) தொழுகை நடத்தினார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 23
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ‘அஸ்ஹமா’ எனும் (அபிசீனிய மன்னர்) நஜாஷீ அவர்களுக்கு நான்கு தக்பீர்கள் கூறி (ஜனாஸா) தொழுகை நடத்தினார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1334</td></tr><tr><td>Arabic No</td><td>1334</td></tr><tr><td>Reference</td><td>Book 23 Hadith 89</td></tr></tbody></table></div>
 

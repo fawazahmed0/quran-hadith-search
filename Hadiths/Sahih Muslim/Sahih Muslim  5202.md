@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আহমাদ ইবনু ইউনুস ও ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... জাবির ও ইবনু উমার (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাকীর, মুযাফফাত ও দুব্বা (-তে নবীয তৈরি করা) হতে বারণ করেছেন। (ইসলামিক ফাউন্ডেশন ৫০৩৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>1998.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
 

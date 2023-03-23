@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জাহান্নাম কামনা বাসনা দ্বারা বেষ্টিত। আর জান্নাত বেষ্টিত দুঃখ-মুছিবত দ্বারা।[1] [মুসলিম পর্ব ৫১/হাঃ ২৮২২, ২৮২৩, আহমাদ ১২৫৬০] (আধুনিক প্রকাশনী- ৬০২৭, ই. ৬০৪৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জাহান্নাম কামনা বাসনা দ্বারা বেষ্টিত। আর জান্নাত বেষ্টিত দুঃখ-মুছিবত দ্বারা।[1] [মুসলিম পর্ব ৫১/হাঃ ২৮২২, ২৮২৩, আহমাদ ১২৫৬০] (আধুনিক প্রকাশনী- ৬০২৭, ই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6487</td></tr><tr><td>Arabic No</td><td>6487</td></tr><tr><td>Reference</td><td>Book 81 Hadith 76</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ismail] mengatakan, telah menceritakan kepadaku 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மன இச்சைகளால் நரகம் மூடப்பட் டுள்ளது. சிரமங்களால் சொர்க்கம் மூடப் பட்டுள்ளது.76 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 81
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மன இச்சைகளால் நரகம் மூடப்பட் டுள்ளது. சிரமங்களால் சொர்க்கம் மூடப் பட்டுள்ளது.76 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6487</td></tr><tr><td>Arabic No</td><td>6487</td></tr><tr><td>Reference</td><td>Book 81 Hadith 76</td></tr></tbody></table></div>
 

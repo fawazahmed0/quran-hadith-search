@@ -16,21 +16,21 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، وَمَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، قَالَ أَبَى سَائِرُ أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم أَنْ يَدْخُلَ عَلَيْهِنَّ بِتِلْكَ الرَّضْعَةِ أَحَدٌ مِنَ النَّاسِ - يُرِيدُ رَضَاعَةَ الْكَبِيرِ - وَقُلْنَ لِعَائِشَةَ وَاللَّهِ مَا نُرَى الَّذِي أَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم سَهْلَةَ بِنْتَ سُهَيْلٍ إِلاَّ رُخْصَةً فِي رَضَاعَةِ سَالِمٍ وَحْدَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَاللَّهِ لاَ يَدْخُلُ عَلَيْنَا أَحَدٌ بِهَذِهِ الرَّضْعَةِ وَلاَ يَرَانَا ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا يونس بن عبد الاعلى، قال انبانا ابن وهب، قال اخبرني يونس، ومالك، عن ابن شهاب، عن عروة، قال ابى ساير ازواج النبي صلى الله عليه وسلم ان يدخل عليهن بتلك الرضعة احد من الناس - يريد رضاعة الكبير - وقلن لعايشة والله ما نرى الذي امر رسول الله صلى الله عليه وسلم سهلة بنت سهيل الا رخصة في رضاعة سالم وحده من رسول الله صلى الله عليه وسلم والله لا يدخل علينا احد بهذه الرضعة ولا يرانا
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইউনুস ইবন আব্দুল আ'লা (রহঃ) ... উরওয়া (রহঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সকল সহধর্মিণী তাদের নিকট এ ধরনের দুধ সম্পর্কের কোন ব্যক্তির আগমনকে তারা অপছন্দ করতেন। (আয়েশা (রাঃ) ব্যতীত), অর্থাৎ বয়স্কদের দুধ সম্পর্ক। তঁরা আয়েশা (রাঃ)-কে বলতেনঃ আল্লাহর কসম! আমরা মনে করি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাহলা বিনত সুহায়াল-কে যে আদেশ করেন, তা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পক্ষ হতে শুধু সালিম-এর দুধ পানের ব্যাপারেই অনুমতি ছিল। আল্লাহর কসম! যেন কেউ আমাদের নিকট আগমন না করে এ দুধ সম্পর্ক নিয়ে এবং আমাদেরকে না দেখে।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Urwah said:"The rest of the wives of the Prophet refused for anyone to enter upon them on the basis of that type of breast-feeding, meaning breast-feeding of an adult. They said to 'Aishah: 'By Allah, we think that what the Messenger of Allah told Sahlah bint Suhail to do was a concession which was granted by the Messenger of Allah only with regard to breast-feeding Salim. By Allah, no one will enter upon us, nor see us on the basis of this type of breast-feeding
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ It was narrated that 'Urwah said:"The rest of the wives of the Prophet refused f
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Yunus bin Abdul A'la], ia berkata; telah memberitakan kepada kami [Ibnu Wahb], ia berkata; telah memberitakan kepadaku [Yunus] dan [Malik] dari [Ibnu Syihab] dari ['Urwah], ia berkata; seluruh istri Nabi shallallahu 'alaihi wasallam enggan jika seseorang dengan alasan susuan itu masuk kerumah mereka, dan berniyat ingin menyusukan orang dewasa. mereka berkata kepada 'Aisyah demi Allah kami tidak melihat apa yang Rasulullah shallallahu 'alaihi wasallam perintahkan kepada Sahlah binti Suhail kecuali hanya keringanan dari Rasulullah shallallahu 'alaihi wasallam untuk menyusui Salim saja, demi Allah tidak boleh seseorang masuk kerumah kami karena susuan ini dan iapun tidak akan melihat kami
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengabarkan kepada kami [Yunus bin Abdul A'la], ia berkata; telah memberit
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengabarkan kepada kami [Yunus bin Abdul A'la], ia berkata; telah memberit
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زبیر رضی الله عنہ کہتے ہیں کہ سبھی ازواج مطہرات ۱؎ نے اس بات سے انکار کیا کہ کوئی ان کے پاس اس رضاعت کا سہارا لے کر ( گھر کے اندر ) آئے، مراد اس سے بڑے کی رضاعت ہے اور سب نے ام المؤمنین عائشہ رضی اللہ عنہا سے کہا: قسم اللہ کی! ہم سمجھتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے سہلہ بنت سہیل کو ( سالم کو دودھ پلانے کا ) جو حکم دیا ہے وہ حکم رسول اللہ صلی اللہ علیہ وسلم کی جانب سے سالم کی رضاعت کے سلسلہ میں خاص تھا۔ قسم اللہ کی! اس رضاعت کے ذریعہ کوئی شخص ہمارے پاس آ نہیں سکتا اور نہ ہمیں دیکھ سکتا ہے۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 26 Hadith 129</td></tr></tbody></table></div>

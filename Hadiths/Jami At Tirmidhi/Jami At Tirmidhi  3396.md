@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৩৯৬। আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন বিছানাগত হতেন তখন (ঘুমানোর জন্য) বলতেনঃ “সকল প্রশংসা আল্লাহ তা'আলার যিনি আমাদেরকে আহার করিয়েছেন, পান করিয়েছেন, (সৃষ্টির অনিষ্ট হতে) আমাদের রক্ষা করেছেন এবং আমাদেরকে আশ্রয় দিয়েছেন (বিছানায়)। কিন্তু অনেক লোক আছে যাদের কোন রক্ষাকারী নেই এবং আশ্রয়স্থলও নেই"। সহীহঃ মুসলিম (হাঃ ৮/৭৯)। আবূ ঈসা বলেন, এ হাদীসটি হাসান, সহীহ গারীব।
+। আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন বিছানাগত হতেন তখন (ঘুমানোর জন্য) বলতেনঃ “সকল প্রশংসা আল্লাহ তা'আলার যিনি আমাদেরকে আহার করিয়েছেন, পান করিয়েছেন, (সৃষ্টির অনিষ্ট হতে) আমাদের রক্ষা করেছেন এবং আমাদেরকে আশ্রয় দিয়েছেন (বিছানায়)। কিন্তু অনেক লোক আছে যাদের কোন রক্ষাকারী নেই এবং আশ্রয়স্থলও নেই"। সহীহঃ মুসলিম (হাঃ ৮/৭৯)। আবূ ঈসা বলেন, এ হাদীসটি হাসান, সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>3396</td></tr><tr><td>Reference</td><td>Book 48 Hadith 27</td></tr></tbody></table></div>
 

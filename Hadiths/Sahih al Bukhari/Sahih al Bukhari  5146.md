@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্নু ‘উমার (রাঃ) বর্ণনা করেন, পূর্বাঞ্চল থেকে দু’ব্যক্তি এসে বক্তৃতা দিল। তখন নবীসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, কোন কোন বক্তৃতায় যাদু আছে। [৫৭৬৭](আধুনিক প্রকাশনী- ৪৭৬৬, ইসলামিক ফাউন্ডেশন- ৪৭৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইব্নু ‘উমার (রাঃ) বর্ণনা করেন, পূর্বাঞ্চল থেকে দু’ব্যক্তি এসে বক্তৃতা দিল। তখন নবীসাল্লাল্লাহু আলাইহি ওয়াসাল্লামবললেন, কোন কোন বক্তৃতায় যাদু আছে। [৫৭৬৭](আধুনিক প্রকাশনী- ৪৭৬৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>5146</td></tr><tr><td>Reference</td><td>Book 67 Hadith 81</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah] Telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (மதீனாவிற்கு) கிழக்கிலிருந்து இரண்டு மனிதர்கள் வந்து (எங்களிடையே சொற்பொலிவும் கருத்துச் செறிவும் மிக்கதோர்) சொற்பொழிவு நிகழ்த்தினார்கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘நிச்சய மாகப் பேச்சில் கவர்ச்சி உள்ளது” என்று சொன்னார்கள்.84 அத்தியாயம் : 67
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (மதீனாவிற்கு) கிழக்கிலிருந்து இரண்டு மனிதர்கள் வந்து (எங்களிடையே சொற்பொலிவும் கருத்துச் செறிவும் மிக்கதோர்) சொற்பொழிவு நிகழ்த்தினார்கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘நிச்சய மாகப் பேச்சில் கவர்ச்சி உள்ளது” என்று சொன்னார்கள்.84 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>5146</td></tr><tr><td>Reference</td><td>Book 67 Hadith 81</td></tr></tbody></table></div>
 

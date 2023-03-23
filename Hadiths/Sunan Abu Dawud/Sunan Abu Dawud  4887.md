@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আব্দুর রাহমান ইবনু আজলান (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ কি আবূ দামদামের অনুরূপ থেকে অক্ষম? লোকেরা প্রশ্ন করলো, আবূ দামদাম কে? তিনি বললেন, তোমাদের আগেকার জাতির এক ব্যক্তি ... পূর্বোক্ত হাদীসের অর্থানুরূপ। সে বললো, যে ব্যক্তি আমাকে মন্দ করে তার জন্য আমার মান-ইজ্জত উৎসর্গীত।[1] যঈফঃ ইরওয়াহ হা/ ২৩৬৬।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>4887</td></tr><tr><td>Reference</td><td>Book 43 Hadith 115</td></tr></tbody></table></div>
 

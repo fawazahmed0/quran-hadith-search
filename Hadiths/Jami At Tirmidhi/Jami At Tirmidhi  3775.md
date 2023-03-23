@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৭৫। ইয়া'লা ইবনু মুররাহ (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হুসাইন আমার হতে এবং আমি হুসাইন হতে। যে লোক হুসাইনকে মুহাব্বাত করে, আল্লাহ তাকে মুহাব্বাত করেন। নাতিগণের মাঝে একজন হল হুসাইন। হাসানঃ ইবনু মাজাহ (১৪৪)। আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমরা এ হাদীসটি শুধুমাত্র 'আবদুল্লাহ ইবনু উসমান ইবনু খুসাইমের সূত্রেই জেনেছি। একাধিক বর্ণনাকারী এটি 'আবদুল্লাহ ইবনু উসমান ইবনু খুসাইম হতে বর্ণনা করেছেন।
+। ইয়া'লা ইবনু মুররাহ (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হুসাইন আমার হতে এবং আমি হুসাইন হতে। যে লোক হুসাইনকে মুহাব্বাত করে, আল্লাহ তাকে মুহাব্বাত করেন। নাতিগণের মাঝে একজন হল হুসাইন। হাসানঃ ইবনু মাজাহ (১৪৪)। আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমরা এ হাদীসটি শুধুমাত্র 'আবদুল্লাহ ইবনু উসমান ইবনু খুসাইমের সূত্রেই জেনেছি। একাধিক বর্ণনাকারী এটি 'আবদুল্লাহ ইবনু উসমান ইবনু খুসাইম হতে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3775</td></tr><tr><td>Arabic No</td><td>3775</td></tr><tr><td>Reference</td><td>Book 49 Hadith 174</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ya'la bin Murrah:that the Messenger of Allah (ﷺ) said: "Husain is from me, and I am from Husain. Allah loves whoever loves Husain. Husain is a Sibt among the Asbat." [Asbat, plural of Sibt: A great tribe. Meaning, Al-Husain would have many offspring, such that they would become a great tribe. And this has indeed occurred. See Tuhfat Al-Ahwadhi (4/341]
+Narrated Ya'la bin Murrah:that the Messenger of Allah (ﷺ) said: "Husain is from me, and I am from Husain. Allah loves whoever loves Husain. Husain is a Sibt among the Asbat." [Asbat, plural of Sibt: A great tribe. Meaning, Al-Husain would have many offspring, such that they would become a great tribe. And this has indeed occurred. See Tuhfat Al-Ahwadhi]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3775</td></tr><tr><td>Arabic No</td><td>3775</td></tr><tr><td>Reference</td><td>Book 49 Hadith 174</td></tr></tbody></table></div>
 

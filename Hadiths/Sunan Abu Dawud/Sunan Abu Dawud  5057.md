@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুআম্মাল ইবন ফযল (রহঃ) ..... ইরবায ইবন সারিয়া (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শোবার আগে ঐ সব সূরা পাঠ করতেন, যার আগে 'সাব্বিহ' বা 'ইউসাব্বিহ' রয়েছে। আর তিনি বলতেনঃ এর মধ্যে এমন আছে, যা এক হাযার আয়াতের চাইতেও উত্তম।
+। ইরবায ইবনু সারিয়াহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শোয়ার পূর্বে যেসব সূরার শুরুতে ‘সাব্বাহা’ বা ইউসাব্বিহু’ আছে সেগুলো পড়তেন। তিনি বলেছেন, এ সূরাগুলোর মধ্যে একটি আয়াত রয়েছে যা হাজার আয়াতের চেয়েও উত্তম।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5057</td></tr><tr><td>Arabic No</td><td>5057</td></tr><tr><td>Reference</td><td>Book 43 Hadith 285</td></tr></tbody></table></div>
 

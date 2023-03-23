@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৫৯৮। বারাআ (রাঃ) হতে বর্ণিত আছে, বলেন, আমরা একে অপরের সাথে বলাবলি করতাম যে, বদরের যুদ্ধে বাদরী বাহিনীতে সাহাবীগণের পরিমাণ ছিল তালুত বাহিনীর মত তিন শত তেরজন। সহীহ, বুখারী ইবনু আব্বাস (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। এ হাদীসটি আবূ ইসহাকের সূত্রে সুফিয়ান সাওর এবং অন্যান্যরাও বর্ণনা করেছেন।
+। বারাআ (রাঃ) হতে বর্ণিত আছে, বলেন, আমরা একে অপরের সাথে বলাবলি করতাম যে, বদরের যুদ্ধে বাদরী বাহিনীতে সাহাবীগণের পরিমাণ ছিল তালুত বাহিনীর মত তিন শত তেরজন। সহীহ, বুখারী ইবনু আব্বাস (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। এ হাদীসটি আবূ ইসহাকের সূত্রে সুফিয়ান সাওর এবং অন্যান্যরাও বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1598</td></tr><tr><td>Arabic No</td><td>1598</td></tr><tr><td>Reference</td><td>Book 21 Hadith 60</td></tr></tbody></table></div>
 

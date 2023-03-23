@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭১৯। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে আবূ হুরায়রা! ফারায়েয শিক্ষা করো এবং (অন্যদের) তা শিক্ষা দাও। কেননা তা জ্ঞানের অর্ধেক। আর এটা ভুলিয়ে দেয়া হবে এবং এটাই প্রথম জিনিস যা আমার উম্মাত থেকে (শেষ যুগে) ছিনিয়ে নেয়া হবে।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে আবূ হুরায়রা! ফারায়েয শিক্ষা করো এবং (অন্যদের) তা শিক্ষা দাও। কেননা তা জ্ঞানের অর্ধেক। আর এটা ভুলিয়ে দেয়া হবে এবং এটাই প্রথম জিনিস যা আমার উম্মাত থেকে (শেষ যুগে) ছিনিয়ে নেয়া হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>2719</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
 

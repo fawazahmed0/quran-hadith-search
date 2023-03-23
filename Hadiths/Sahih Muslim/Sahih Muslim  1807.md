@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৬৯২, আন্তর্জাতিক নাম্বারঃ ৭৬৮ ১৬৯২-(১৯৮/৭৬৮) আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ রাতে সালাত আদায় করতে শুরু করলে সে যেন সংক্ষিপ্তভাবে দু' রাকাআত সালাত দিয়ে শুরু করে। (ইসলামী ফাউন্ডেশন ১৬৭৭, ইসলামীক সেন্টার ১৬৮৪)
+আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ রাতে সালাত আদায় করতে শুরু করলে সে যেন সংক্ষিপ্তভাবে দু' রাকাআত সালাত দিয়ে শুরু করে। (ইসলামী ফাউন্ডেশন ১৬৭৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>768</td></tr><tr><td>Reference</td><td>Book 6 Hadith 235</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying When any one of you gets up
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் இரவில் தொழுவதற்காக நின்றால் முதலில் சுருக்கமாக இரண்டு ரக்அத்கள் தொழட்டும்.- இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 6
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் இரவில் தொழுவதற்காக நின்றால் முதலில் சுருக்கமாக இரண்டு ரக்அத்கள் தொழட்டும்.- இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>768</td></tr><tr><td>Reference</td><td>Book 6 Hadith 235</td></tr></tbody></table></div>
 

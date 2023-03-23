@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, আহযাব যুদ্ধের দিন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু‘আ করেন, ‘আল্লাহ তাদের (মুশরিকদের) ঘর ও কবর আগুনে পূর্ণ করুন। কেননা তারা মধ্যম সালাত (তথা ‘আসরের সালাত) থেকে আমাদেরকে ব্যস্ত করে রেখেছে, এমনকি সূর্য অস্তমিত হয়ে যায়।’ (৪১১১, ৪৫৩৩, ৬৩৯৬) (মুসলিম ৫/৩৫ হাঃ ৬২৭, আহমাদ ৫৯১) (আধুনিক প্রকাশনীঃ ২৭১৬, ইসলামিক ফাউন্ডেশনঃ ২৭২৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, আহযাব যুদ্ধের দিন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু‘আ করেন, ‘আল্লাহ তাদের (মুশরিকদের) ঘর ও কবর আগুনে পূর্ণ করুন। কেননা তারা মধ্যম সালাত (তথা ‘আসরের সালাত) থেকে আমাদেরকে ব্যস্ত করে রেখেছে, এমনকি সূর্য অস্তমিত হয়ে যায়।’ (৪১১১, ৪৫৩৩, ৬৩৯৬) (মুসলিম ৫/৩৫ হাঃ ৬২৭, আহমাদ ৫৯১) (আধুনিক প্রকাশনীঃ ২৭১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2931</td></tr><tr><td>Arabic No</td><td>2931</td></tr><tr><td>Reference</td><td>Book 56 Hadith 144</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami ['I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: அகழ் (அஹ்ஸாப்) போரின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘அல்லாஹ், (எதிரிகளான) அவர்களின் வீடுகளையும் புதை குழிகளையும் நெருப்பால் நிரப்புவனாக! அவர்கள் சூரியன் மறையும் நேரம்வரை நடுத் தொழுகை(யான அஸ்ர் தொழுகை) ‘லிருந்து நமது கவனத்தைத் திருப்பி விட்டார்கள்” என்று கூறினார்கள். அத்தியாயம் : 56
+அலீ (ரலி) அவர்கள் கூறியதாவது: அகழ் (அஹ்ஸாப்) போரின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘அல்லாஹ், (எதிரிகளான) அவர்களின் வீடுகளையும் புதை குழிகளையும் நெருப்பால் நிரப்புவனாக! அவர்கள் சூரியன் மறையும் நேரம்வரை நடுத் தொழுகை(யான அஸ்ர் தொழுகை) ‘லிருந்து நமது கவனத்தைத் திருப்பி விட்டார்கள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2931</td></tr><tr><td>Arabic No</td><td>2931</td></tr><tr><td>Reference</td><td>Book 56 Hadith 144</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami ['I
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Ali'nin şöyle dediği nakledilmiştir: Hendek savaşında Resulullah Sallallahu Aleyhi ve Sellem müşriklere şöyle beddua etmişti: "Allahım, bunların evlerini ve kabirlerini ateşle doldur! Onlar güneş batana kadar bizim ikindi namazını (Salatu'l-vusta'yı) kılmamıza engel oldular. " Tekrar: 4111, 4533, 6396
+Hz. Ali'nin şöyle dediği nakledilmiştir: Hendek savaşında Resulullah Sallallahu Aleyhi ve Sellem müşriklere şöyle beddua etmişti: "Allahım, bunların evlerini ve kabirlerini ateşle doldur! Onlar güneş batana kadar bizim ikindi namazını (Salatu'l-vusta'yı) kılmamıza engel oldular. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2931</td></tr><tr><td>Arabic No</td><td>2931</td></tr><tr><td>Reference</td><td>Book 56 Hadith 144</td></tr></tbody></table></div>
 

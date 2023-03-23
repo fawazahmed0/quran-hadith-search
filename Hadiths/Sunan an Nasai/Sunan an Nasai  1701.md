@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইয়াহইয়া ইবনু মুসা (রহঃ) ... উবাই ইবনু কা’ব (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিতরের সালাতে “সাব্বিহিসমা রাব্বিকাল আলা” দ্বিতীয় রাকআতে “কুল ইয়া আয়্যুহাল কাফিরুন” এবং শেষ রাকআতে “কুল হুওয়াল্লাহু আহাদ” পাঠ করতেন। আর শুধুমাত্র শেষ রাকআতেই সালাম ফিরাতেন অর্থাৎ সালামের পর তিনবারسُبْحَانَ الْمَلِكِ الْقُدُّوسِ বলতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1701</td></tr><tr><td>Arabic No</td><td>1701</td></tr><tr><td>Reference</td><td>Book 20 Hadith 104</td></tr></tbody></table></div>
 

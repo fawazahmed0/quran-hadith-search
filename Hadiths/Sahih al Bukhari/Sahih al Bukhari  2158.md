@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা পণ্যবাহী কাফেলার সাথে (শহরে প্রবেশের পূর্বে সস্তায় পণ্য খরিদের উদ্দেশে) সাক্ষাৎ করবে না এবং শহরবাসী যেন গ্রামবাসীর পক্ষে বিক্রয় না করে। রাবী তাউস (রহ.) বলেন, আমি ইবনু ‘আব্বাস (রাঃ)-কে জিজ্ঞেস করলাম, শহরবাসী যেন গ্রামবাসীর পক্ষে বিক্রয় না করে, তাঁর এ কথার অর্থ কী? তিনি বললেন, তার হয়ে যেন সে প্রতারণামূলক দালালী না করে। (২১৬৩, ২২৭৪, মুসলিম ২১/৬, হাঃ ১৫২১) (আধুনিক প্রকাশনীঃ ২০০৯, ইসলামিক ফাউন্ডেশনঃ ২০২৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা পণ্যবাহী কাফেলার সাথে (শহরে প্রবেশের পূর্বে সস্তায় পণ্য খরিদের উদ্দেশে) সাক্ষাৎ করবে না এবং শহরবাসী যেন গ্রামবাসীর পক্ষে বিক্রয় না করে। রাবী তাউস (রহ.) বলেন, আমি ইবনু ‘আব্বাস (রাঃ)-কে জিজ্ঞেস করলাম, শহরবাসী যেন গ্রামবাসীর পক্ষে বিক্রয় না করে, তাঁর এ কথার অর্থ কী? তিনি বললেন, তার হয়ে যেন সে প্রতারণামূলক দালালী না করে। (২১৬৩, ২২৭৪, মুসলিম ২১/৬, হাঃ ১৫২১) (আধুনিক প্রকাশনীঃ ২০০৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2158</td></tr><tr><td>Arabic No</td><td>2158</td></tr><tr><td>Reference</td><td>Book 34 Hadith 109</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ash-Shaltu bin Muhammad] telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ‘‘(சந்தைக்கு வரும்) வணிகர்களை இடைமறித்து வாங்காதீர்கள்! கிராமத்தி லிருந்து (சரக்கு கொண்டு) வருபவர்களுக் காக உள்ளூர்வாசி விற்றுக் கொடுக்க வேண்டாம்!” இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இதன் அறிவிப்பாளர் தாவூஸ் பின் கைசான் (ரஹ்) அவர்கள் கூறுகிறார்கள்: ‘‘கிராமத்திலிருந்து வருபவருக்காக உள்ளூர்வாசி விற்றுக் கொடுக்க வேண்டாம் என்பதன் பொருள் என்ன?” என்று இப்னு அப்பாஸ் (ரலி) அவர்களிடம் நான் கேட்டேன். அதற்கு அவர்கள், ‘‘இடைத்தரகராக இருக்கக் கூடாது (என்பது தான் அதன் பொருள்)” என்று பதிலளித்தார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ‘‘(சந்தைக்கு வரும்) வணிகர்களை இடைமறித்து வாங்காதீர்கள்! கிராமத்தி லிருந்து (சரக்கு கொண்டு) வருபவர்களுக் காக உள்ளூர்வாசி விற்றுக் கொடுக்க வேண்டாம்!” இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இதன் அறிவிப்பாளர் தாவூஸ் பின் கைசான் (ரஹ்) அவர்கள் கூறுகிறார்கள்: ‘‘கிராமத்திலிருந்து வருபவருக்காக உள்ளூர்வாசி விற்றுக் கொடுக்க வேண்டாம் என்பதன் பொருள் என்ன?” என்று இப்னு அப்பாஸ் (ரலி) அவர்களிடம் நான் கேட்டேன். அதற்கு அவர்கள், ‘‘இடைத்தரகராக இருக்கக் கூடாது (என்பது தான் அதன் பொருள்)” என்று பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2158</td></tr><tr><td>Arabic No</td><td>2158</td></tr><tr><td>Reference</td><td>Book 34 Hadith 109</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ash-Shaltu bin Muhammad] telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. Resulullah Sallallahu Aleyhi ve Sellem’in şöyle buyurduğunu söyledi: "Şehre mal getiren kervanları şehir dışında karşılamayın. Şehirli, köylü adına satış yapmasın." (Hadisi rivayet eden Tavus dedi ki): İbn Abbas'a "Şehirlinin köylü adına satış yapmaması ne demektir? diye sordum. İbn Abbas: "Şehirli, köylü için komisyonculuk yapamaz" dedi. Tekrar: 2163, 2274
+İbn Abbas r.a. Resulullah Sallallahu Aleyhi ve Sellem’in şöyle buyurduğunu söyledi: "Şehre mal getiren kervanları şehir dışında karşılamayın. Şehirli, köylü adına satış yapmasın." (Hadisi rivayet eden Tavus dedi ki): İbn Abbas'a "Şehirlinin köylü adına satış yapmaması ne demektir? diye sordum. İbn Abbas: "Şehirli, köylü için komisyonculuk yapamaz" dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2158</td></tr><tr><td>Arabic No</td><td>2158</td></tr><tr><td>Reference</td><td>Book 34 Hadith 109</td></tr></tbody></table></div>
 

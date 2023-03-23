@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু’জনের খাদ্য তিনজনের জন্য যথেষ্ট এবং তিনজনের খাদ্য চারজনের জন্য যথেষ্ট। [মুসলিম ৩৬/৩৩, হাঃ ২০৫৮, আহমাদ ৭৩২৪] (আধুনিক প্রকাশনী- ৪৯৯১, ইসলামিক ফাউন্ডেশন- ৪৮৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু’জনের খাদ্য তিনজনের জন্য যথেষ্ট এবং তিনজনের খাদ্য চারজনের জন্য যথেষ্ট। [মুসলিম ৩৬/৩৩, হাঃ ২০৫৮, আহমাদ ৭৩২৪] (আধুনিক প্রকাশনী- ৪৯৯১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5392</td></tr><tr><td>Arabic No</td><td>5392</td></tr><tr><td>Reference</td><td>Book 70 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இருவருடைய உணவு மூவருக்குப் போதுமானதாகும். மூவரின் உணவு நால்வருக்குப் போதுமானதாகும்.21 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 70
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இருவருடைய உணவு மூவருக்குப் போதுமானதாகும். மூவரின் உணவு நால்வருக்குப் போதுமானதாகும்.21 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5392</td></tr><tr><td>Arabic No</td><td>5392</td></tr><tr><td>Reference</td><td>Book 70 Hadith 20</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়া‘লা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি কোন একটি যুদ্ধে বেরিয়েছিলাম। তখন এক লোক দাঁত দিয়ে কামড়ে ধরে, যার ফলে তার দাঁত উপড়ে যায়। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার (দাঁতের) রক্তপণকে বাতিল করে দেন। [১৮৪৭] (আধুনিক প্রকাশনী- ৬৪১৩, ইসলামিক ফাউন্ডেশন- ৬৪২৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইয়া‘লা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি কোন একটি যুদ্ধে বেরিয়েছিলাম। তখন এক লোক দাঁত দিয়ে কামড়ে ধরে, যার ফলে তার দাঁত উপড়ে যায়। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার (দাঁতের) রক্তপণকে বাতিল করে দেন। [১৮৪৭] (আধুনিক প্রকাশনী- ৬৪১৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6893</td></tr><tr><td>Arabic No</td><td>6893</td></tr><tr><td>Reference</td><td>Book 87 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari ['Atho'] dar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-யஅலா பின் உமய்யா (ரலி) அவர்கள் கூறியதாவது: நான் (தபூக்) போருக்குப் புறப்பட்டுச் சென்றேன். அப்போது ஒரு மனிதர் (இன்னொருவரைக்) கடித்தார். கடிபட்ட மனிதர் (தமது கையை விடுவிக்கும்போது) கடித்தவரின் முன்பல்லைக் கழற்றிவிட்டார். அப்போது நபி (ஸல்) அவர்கள் இதற்கு இழப்பீடு தரத் தேவையில்லை என்று தீர்ப்பளித்தார்கள். அத்தியாயம் : 87
+யஅலா பின் உமய்யா (ரலி) அவர்கள் கூறியதாவது: நான் (தபூக்) போருக்குப் புறப்பட்டுச் சென்றேன். அப்போது ஒரு மனிதர் (இன்னொருவரைக்) கடித்தார். கடிபட்ட மனிதர் (தமது கையை விடுவிக்கும்போது) கடித்தவரின் முன்பல்லைக் கழற்றிவிட்டார். அப்போது நபி (ஸல்) அவர்கள் இதற்கு இழப்பீடு தரத் தேவையில்லை என்று தீர்ப்பளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6893</td></tr><tr><td>Arabic No</td><td>6893</td></tr><tr><td>Reference</td><td>Book 87 Hadith 31</td></tr></tbody></table></div>
 

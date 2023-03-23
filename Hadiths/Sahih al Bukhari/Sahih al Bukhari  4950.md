@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-سُوْرَةُ وَالضُّحَى সূরাহ (৯৩) : ওয়াদ্-দুহা وَقَالَ مُجَاهِدٌ (إِذَا سَجٰى) اسْتَوَى وَقَالَ غَيْرُهُ سَجَى أَظْلَمَ وَسَكَنَ عَائِلًا ذُوْ عِيَالٍ. মুজাহিদ (রহ.) বলেন, إِذَا سَجٰى ‘‘যখন তা সমান সমান হয়’’, মুজাহিদ (রহ.) ব্যতীত অন্যরা বলেন, سَجٰى মানে যখন তা নিঝুম ও অন্ধকারাচ্ছন্ন হয়। عَآئِلًا নিঃস্ব। ৪৯৫০. জুনদুব ইবনু সুফ্ইয়ান (রাঃ) হতে বর্ণিত। তিনি বলেন, অসুস্থতার কারণে রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম দুই বা তিন রাত তাহাজ্জুদের জন্য উঠতে পারেননি। এ সময় এক মহিলা এসে বলল, হে মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম! আমার মনে হয়, তোমার শায়ত্বন তোমাকে ত্যাগ করেছে। দুই কিংবা তিনদিন যাবৎ তাকে আমি তোমার কাছে আসতে দেখতে পাচ্ছি না। তখন আল্লাহ্ তা‘আলা অবতীর্ণ করলেন, শপথ পূর্বাহ্নের, ‘‘শপথ রজনীর যখন তা হয় নিঝুম, তোমার প্রতিপালক তোমাকে পরিত্যাগ করেননি এবং তোমার প্রতি বিরূপও হননি’’- (সূরাহ ওয়াদ্ দুহা ৯৩/৩)। [১১২৪; মুসলিম ৩২/৩৯, হাঃ ১৭৯৭, আহমাদ ১৮৮২৪] (আধুনিক প্রকাশনীঃ ৪৫৮২, ইসলামিক ফাউন্ডেশনঃ ৪৫৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سُوْرَةُ وَالضُّحَى সূরাহ (৯৩) : ওয়াদ্-দুহা وَقَالَ مُجَاهِدٌ (إِذَا سَجٰى) اسْتَوَى وَقَالَ غَيْرُهُ سَجَى أَظْلَمَ وَسَكَنَ عَائِلًا ذُوْ عِيَالٍ. মুজাহিদ (রহ.) বলেন, إِذَا سَجٰى ‘‘যখন তা সমান সমান হয়’’, মুজাহিদ (রহ.) ব্যতীত অন্যরা বলেন, سَجٰى মানে যখন তা নিঝুম ও অন্ধকারাচ্ছন্ন হয়। عَآئِلًا নিঃস্ব। ৪৯৫০. জুনদুব ইবনু সুফ্ইয়ান (রাঃ) হতে বর্ণিত। তিনি বলেন, অসুস্থতার কারণে রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম দুই বা তিন রাত তাহাজ্জুদের জন্য উঠতে পারেননি। এ সময় এক মহিলা এসে বলল, হে মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম! আমার মনে হয়, তোমার শায়ত্বন তোমাকে ত্যাগ করেছে। দুই কিংবা তিনদিন যাবৎ তাকে আমি তোমার কাছে আসতে দেখতে পাচ্ছি না। তখন আল্লাহ্ তা‘আলা অবতীর্ণ করলেন, শপথ পূর্বাহ্নের, ‘‘শপথ রজনীর যখন তা হয় নিঝুম, তোমার প্রতিপালক তোমাকে পরিত্যাগ করেননি এবং তোমার প্রতি বিরূপও হননি’’- (সূরাহ ওয়াদ্ দুহা ৯৩/৩)। [১১২৪; মুসলিম ৩২/৩৯, হাঃ ১৭৯৭, আহমাদ ১৮৮২৪] (আধুনিক প্রকাশনীঃ ৪৫৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4950</td></tr><tr><td>Arabic No</td><td>4950</td></tr><tr><td>Reference</td><td>Book 65 Hadith 472</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jundub bin Sufyan:Once Allah's Messenger (ﷺ) became sick and could not offer his night prayer (Tahajjud) for two or three nights. Then a lady (the wife of Abu Lahab) came and said, "O Muhammad! I think that your Satan has forsaken you, for I have not seen him with you for two or three nights!" On that Allah revealed: 'By the fore-noon, and by the night when it darkens, your Lord (O Muhammad) has neither forsaken you, nor hated you.' (93.1-3)
+Narrated Jundub bin Sufyan:Once Allah's Messenger (ﷺ) became sick and could not offer his night prayer (Tahajjud) for two or three nights. Then a lady (the wife of Abu Lahab) came and said, "O Muhammad! I think that your Satan has forsaken you, for I have not seen him with you for two or three nights!" On that Allah revealed: 'By the fore-noon, and by the night when it darkens, your Lord (O Muhammad) has neither forsaken you, nor hated you
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4950</td></tr><tr><td>Arabic No</td><td>4950</td></tr><tr><td>Reference</td><td>Book 65 Hadith 472</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] Telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜுன்துப் பின் (அப்தில்லாஹ் பின்) சுஃப்யான் (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நோய்வாய்ப்பட்டபோது ‘இரண்டு இரவுகள்’ அல்லது ‘மூன்று இரவுகள்’ (இரவுத் தொழுகைக்காகக்கூட) அவர்கள் எழவில்லை. அப்போது ஒரு பெண் வந்து, ‘‘முஹம்மதே! உம்முடைய ஷைத்தான் உம்மைக் கைவிட்டுவிட்டான் என நினைக்கிறேன். (அதனால்தான்) ‘இரண்டு இரவுகளாக’ அல்லது ‘மூன்று இரவுகளாக’ உம்மை ஷைத்தான் நெருங்கி வந்ததை நான் பார்க்கவில்லை” என்று கூறினாள்.2 அப்போது வல்லமையும் மாண்பும் மிக்க அல்லாஹ், ‘‘முற்பகலின் மீது சத்தியமாக! மேலும் இருண்டுவிட்ட இரவின்மீது சத்தியமாக! (நபியே!) உம்முடைய இறைவன் உம்மைக் கைவிடவுமில்லை; கோபங்கொள்ளவும் இல்லை” எனும் (93:1-3) வசனங்களை அருளினான்.3 அத்தியாயம் : 65
+ஜுன்துப் பின் (அப்தில்லாஹ் பின்) சுஃப்யான் (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நோய்வாய்ப்பட்டபோது ‘இரண்டு இரவுகள்’ அல்லது ‘மூன்று இரவுகள்’ (இரவுத் தொழுகைக்காகக்கூட) அவர்கள் எழவில்லை. அப்போது ஒரு பெண் வந்து, ‘‘முஹம்மதே! உம்முடைய ஷைத்தான் உம்மைக் கைவிட்டுவிட்டான் என நினைக்கிறேன். (அதனால்தான்) ‘இரண்டு இரவுகளாக’ அல்லது ‘மூன்று இரவுகளாக’ உம்மை ஷைத்தான் நெருங்கி வந்ததை நான் பார்க்கவில்லை” என்று கூறினாள்.2 அப்போது வல்லமையும் மாண்பும் மிக்க அல்லாஹ், ‘‘முற்பகலின் மீது சத்தியமாக! மேலும் இருண்டுவிட்ட இரவின்மீது சத்தியமாக! (நபியே!) உம்முடைய இறைவன் உம்மைக் கைவிடவுமில்லை; கோபங்கொள்ளவும் இல்லை” எனும் (93:1-3) வசனங்களை அருளினான்.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4950</td></tr><tr><td>Arabic No</td><td>4950</td></tr><tr><td>Reference</td><td>Book 65 Hadith 472</td></tr></tbody></table></div>
 

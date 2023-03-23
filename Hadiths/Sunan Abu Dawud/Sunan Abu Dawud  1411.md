@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন উছমান (রহঃ) ..... ইবন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, মক্কা বিজয়কালীন সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম সিজদার আয়াত তিলাওয়াত করলে উপস্থিত সকলে সিজদা আদায় করেন। ঐ সময় যারা যানবাহনের উপর সওয়ার ছিলেন, তারা স্ব স্ব হাতের উপর সিজদা করেন এবং অন্যান্যরা যমীনের উপর সিজদা করেন।
+। ‘আবদুল্লাহ ইবনু ‘উমার রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাক্কাহ বিজয়ের বছরে (বিজয়ের দিন) সাজদার আয়াত পাঠ করলে উপস্থিত সকলেই সিজদা্ করলো। তাদের মধ্যে কেউ আরোহী ছিলো এবং কেউ ছিলো মাটিতে সিজদাকারী। এমনকি আরোহী নিজ হাতের উপর সিজদা্ আদায় করেছে।[1] দুর্বল : মিশকাত (১০৩৩)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1411</td></tr><tr><td>Arabic No</td><td>1411</td></tr><tr><td>Reference</td><td>Book 7 Hadith 11</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। হামযাহ ইবনু ‘আমর আসলামী (রাঃ) বললেন, হে আল্লাহর রাসূল! আমি একাধারে সিয়ামব্রত পালন করছি। (১৯৪৩, মুসলিম ১৩/১৭, হাঃ ১১২১, আহমাদ ১৬০৩৭) (আধুনিক প্রকাশনীঃ ১৮০৩, ইসলামিক ফাউন্ডেশনঃ ১৮১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। হামযাহ ইবনু ‘আমর আসলামী (রাঃ) বললেন, হে আল্লাহর রাসূল! আমি একাধারে সিয়ামব্রত পালন করছি। (১৯৪৩, মুসলিম ১৩/১৭, হাঃ ১১২১, আহমাদ ১৬০৩৭) (আধুনিক প্রকাশনীঃ ১৮০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1942</td></tr><tr><td>Arabic No</td><td>1942</td></tr><tr><td>Reference</td><td>Book 30 Hadith 49</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ஹம்ஸா பின் அம்ர் அல்அஸ்லமீ (ரலி) அவர்கள் (நபி (ஸல்) அவர்களிடம்), ‘‘அல்லாஹ்வின் தூதரே! நான் தொடர்ந்து நோன்பு நோற்கிறேன்” என்று கூறி னார். அத்தியாயம் : 30
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ஹம்ஸா பின் அம்ர் அல்அஸ்லமீ (ரலி) அவர்கள் (நபி (ஸல்) அவர்களிடம்), ‘‘அல்லாஹ்வின் தூதரே! நான் தொடர்ந்து நோன்பு நோற்கிறேன்” என்று கூறி னார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1942</td></tr><tr><td>Arabic No</td><td>1942</td></tr><tr><td>Reference</td><td>Book 30 Hadith 49</td></tr></tbody></table></div>
 

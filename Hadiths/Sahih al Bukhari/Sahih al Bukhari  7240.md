@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার উম্মাতের উপর যদি কষ্টকর মনে না করতাম, তাহলে আমি তাদেরকে মিস্ওয়াক করার হুকুম করতাম। [৮৮৭] (আধুনিক প্রকাশনী- ৬৭৩৩, ইসলামিক ফাউন্ডেশন- ৬৭৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার উম্মাতের উপর যদি কষ্টকর মনে না করতাম, তাহলে আমি তাদেরকে মিস্ওয়াক করার হুকুম করতাম। [৮৮৭] (আধুনিক প্রকাশনী- ৬৭৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7240</td></tr><tr><td>Arabic No</td><td>7240</td></tr><tr><td>Reference</td><td>Book 94 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என் சமுதாயத்தாருக்குச் சிரமம் ஏற்படும் என்று நான் கருதியிரா விட்டால், (எல்லாத் தொழுகைகளிலும் கட்டாயமாகப்) பல் துலக்கும்படி (மிஸ்வாக் செய்யும்படி) மக்களுக்கு நான் கட்டளையிட்டிருப்பேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 94
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என் சமுதாயத்தாருக்குச் சிரமம் ஏற்படும் என்று நான் கருதியிரா விட்டால், (எல்லாத் தொழுகைகளிலும் கட்டாயமாகப்) பல் துலக்கும்படி (மிஸ்வாக் செய்யும்படி) மக்களுக்கு நான் கட்டளையிட்டிருப்பேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7240</td></tr><tr><td>Arabic No</td><td>7240</td></tr><tr><td>Reference</td><td>Book 94 Hadith 15</td></tr></tbody></table></div>
 

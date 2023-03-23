@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মিসওয়ার ইবনু মাখরামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়ালেন। অতঃপর আমি তাঁকে তাওহীদের সাক্ষ্য বাণী পাঠান্তে বলতে শুনলাম, ‘আম্মা বা‘দ’। (৩১১০, ৩৭১৪, ৩৭২৯,৩৭৬৭, ৫২৩০, ৫২৭৮) (আধুনিক প্রকাশনীঃ ৮৭৩, ইসলামিক ফাউন্ডেশনঃ ৮৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মিসওয়ার ইবনু মাখরামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়ালেন। অতঃপর আমি তাঁকে তাওহীদের সাক্ষ্য বাণী পাঠান্তে বলতে শুনলাম, ‘আম্মা বা‘দ’। (৩১১০, ৩৭১৪, ৩৭২৯,৩৭৬৭, ৫২৩০, ৫২৭৮) (আধুনিক প্রকাশনীঃ ৮৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>926</td></tr><tr><td>Arabic No</td><td>926</td></tr><tr><td>Reference</td><td>Book 11 Hadith 50</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மிஸ்வர் பின் மக்ரமா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (உரையாற்றுவதற்காக) எழுந்து நின்றார்கள். அப்போது அவர்கள் ஏகத்துவ உறுதி மொழி கூறி ‘அம்மா பஅத்’ என்று கூறி (உரையைத் துவக்கி)யதை நான் செவியுற்றேன். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 11
+மிஸ்வர் பின் மக்ரமா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (உரையாற்றுவதற்காக) எழுந்து நின்றார்கள். அப்போது அவர்கள் ஏகத்துவ உறுதி மொழி கூறி ‘அம்மா பஅத்’ என்று கூறி (உரையைத் துவக்கி)யதை நான் செவியுற்றேன். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>926</td></tr><tr><td>Arabic No</td><td>926</td></tr><tr><td>Reference</td><td>Book 11 Hadith 50</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Misver İbn Mahreme şöyle demiştir: "Resûl-i Ekrem Sallallahu Aleyhi ve Sellem ayağa kalkmıştı ve ben onun şehadet getirdikten sonra: " Emma ba'du (bunlardan sonra...-Esas konuya gelince-). dediğini işitmiştim. Tekrar: 3110, 3714, 3729, 3767, 5230 ve 5278
+Misver İbn Mahreme şöyle demiştir: "Resûl-i Ekrem Sallallahu Aleyhi ve Sellem ayağa kalkmıştı ve ben onun şehadet getirdikten sonra: " Emma ba'du (bunlardan sonra...-Esas konuya gelince-). dediğini işitmiştim. Tekrar: 3110, 3714, 3729, 3767, 5230 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>926</td></tr><tr><td>Arabic No</td><td>926</td></tr><tr><td>Reference</td><td>Book 11 Hadith 50</td></tr></tbody></table></div>
 

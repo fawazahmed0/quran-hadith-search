@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, لَا يُؤَاخِذُكُمُ اللهُ بِاللَّغْوِ فِيْٓ أَيْمَانِكُمْ আয়াতটি অবতীর্ণ হয়েছে মানুষের উদ্দেশ্যবিহীন উক্তি لَا وَاللهِ না আল্লাহর শপথ, بَلَى وَاللهِ হ্যাঁ আল্লাহর শপথ ইত্যাদি উপলক্ষে। [৬৬৬৩] (আধুনিক প্রকাশনীঃ ৪২৫২, ইসলামিক ফাউন্ডেশনঃ ৪২৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, لَا يُؤَاخِذُكُمُ اللهُ بِاللَّغْوِ فِيْٓ أَيْمَانِكُمْ আয়াতটি অবতীর্ণ হয়েছে মানুষের উদ্দেশ্যবিহীন উক্তি لَا وَاللهِ না আল্লাহর শপথ, بَلَى وَاللهِ হ্যাঁ আল্লাহর শপথ ইত্যাদি উপলক্ষে। [৬৬৬৩] (আধুনিক প্রকাশনীঃ ৪২৫২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4613</td></tr><tr><td>Arabic No</td><td>4613</td></tr><tr><td>Reference</td><td>Book 65 Hadith 135</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin Salamah] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: “நீங்கள் செய்த அர்த்தமற்ற சத்தியங் களுக்காக அல்லாஹ் உங்களுக்குத் தண்டனை வழங்குவதில்லை” எனும் (5:89ஆவது) இறைவசனம், “லா வல்லாஹி (இல்லை; அல்லாஹ்வின் மீதாணையாக!') என்றும், “பலா வல்லாஹி (ஆம்; அல்லாஹ்வின் மீதாணையாக!') என்றும் (பொருள் கொள்ளாமல் பழக்கத்தின் காரணமாகச் சத்தியம் செய்யும் சொற்களைக்) கூறுகின்றவரின் விஷயத்தில் அருளப்பெற்றது. அத்தியாயம் : 65
+ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: “நீங்கள் செய்த அர்த்தமற்ற சத்தியங் களுக்காக அல்லாஹ் உங்களுக்குத் தண்டனை வழங்குவதில்லை” எனும் (5:89ஆவது) இறைவசனம், “லா வல்லாஹி (இல்லை; அல்லாஹ்வின் மீதாணையாக!') என்றும், “பலா வல்லாஹி (ஆம்; அல்லாஹ்வின் மீதாணையாக!') என்றும் (பொருள் கொள்ளாமல் பழக்கத்தின் காரணமாகச் சத்தியம் செய்யும் சொற்களைக்) கூறுகின்றவரின் விஷயத்தில் அருளப்பெற்றது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4613</td></tr><tr><td>Arabic No</td><td>4613</td></tr><tr><td>Reference</td><td>Book 65 Hadith 135</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin Salamah] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Aişe'den rivayet edildiğine göre, "Allah, kasıtsız olarak ağzınızdan çıkıveren yeminlerinizden dolayı sizi sorumlu tutmaz ... " ayeti, [yemin kastı olmaksızın] insanların "Hayır, vallahi; evet, vallahi" demeleri üzerine inmiştir. Tekrar: 6663
+Hz. Aişe'den rivayet edildiğine göre, "Allah, kasıtsız olarak ağzınızdan çıkıveren yeminlerinizden dolayı sizi sorumlu tutmaz ... " ayeti, [yemin kastı olmaksızın] insanların "Hayır, vallahi; evet, vallahi" demeleri üzerine inmiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4613</td></tr><tr><td>Arabic No</td><td>4613</td></tr><tr><td>Reference</td><td>Book 65 Hadith 135</td></tr></tbody></table></div>
 

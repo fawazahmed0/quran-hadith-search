@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২০৭, আন্তর্জাতিক নাম্বারঃ ১১৩ ২০৭-(১৮০/১১৩) মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... শাইবান (রহঃ) বলেন যে, আমি হাসান (রাযিঃ) কে বলতে শুনেছি, পূর্বের যুগে এক ব্যক্তির ফোঁড়া হয়েছিল, ফোঁড়ার যন্ত্রণা সহ্য করতে না পেরে তার তূণ থেকে একটি তীর বের করলো। আর তা দিয়ে আঘাত করে করে ফোড়াটি চিড়ে ফেলল। তখন তা থেকে সজোরে রক্তক্ষরণ শুরু হলো, অবশেষ সে মারা গেল। তোমাদের প্রতিপালক বলেন, আমি তার উপর জান্নাত হারাম করে দিয়েছি। তারপর হাসান আপন হাত মসজিদের দিকে প্রসারিত করে বললেন, আল্লাহর কসম! জুনদাব (ইবনু 'আবদুল্লাহ বাজালী) এ মসজিদেই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম থেকে এ হাদীসটি আমার কাছে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ২০৮, ইসলামিক সেন্টারঃ ২১৫)
+মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... শাইবান (রহঃ) বলেন যে, আমি হাসান (রাযিঃ) কে বলতে শুনেছি, পূর্বের যুগে এক ব্যক্তির ফোঁড়া হয়েছিল, ফোঁড়ার যন্ত্রণা সহ্য করতে না পেরে তার তূণ থেকে একটি তীর বের করলো। আর তা দিয়ে আঘাত করে করে ফোড়াটি চিড়ে ফেলল। তখন তা থেকে সজোরে রক্তক্ষরণ শুরু হলো, অবশেষ সে মারা গেল। তোমাদের প্রতিপালক বলেন, আমি তার উপর জান্নাত হারাম করে দিয়েছি। তারপর হাসান আপন হাত মসজিদের দিকে প্রসারিত করে বললেন, আল্লাহর কসম! জুনদাব (ইবনু 'আবদুল্লাহ বাজালী) এ মসজিদেই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম থেকে এ হাদীসটি আমার কাছে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ২০৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>307</td></tr><tr><td>Arabic No</td><td>113.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 214</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Muhammed b. Rafi' tahdis etti. Bize ez-Zubeyri' -ki o Muhammed b. Abdullah b. ez-Zubeyr'dir- tahdis etti. Bize Şeyban tahdis etti. el-Hasan'ı şöyle derken dinledim: "Sizden önceki/erden bir adamın bir çıbanı olmuştu. Bu çıban onu rahatsız edince ok torbasından bir ok çıkarttı, onu deşti fakat kan durmadığından sonunda öldü. Aziz ve celil Rabbimiz de: Ben de ona cenneti haram ettim, buyurdu." Sonra elini mescide uzattı ve dedi ki: Evet, Allah'a yemin ederim ki bu hadisi bana Cündeb, Resulullah (Sallallahu aleyhi ve Sellem)'den bu mescitte tahdis etti. Diğer tahric: Buhari, 1298, 3276; Tuhfetu'l-Eşraf, 3254
+Bana Muhammed b. Rafi' tahdis etti. Bize ez-Zubeyri' -ki o Muhammed b. Abdullah b. ez-Zubeyr'dir- tahdis etti. Bize Şeyban tahdis etti. el-Hasan'ı şöyle derken dinledim: "Sizden önceki/erden bir adamın bir çıbanı olmuştu. Bu çıban onu rahatsız edince ok torbasından bir ok çıkarttı, onu deşti fakat kan durmadığından sonunda öldü. Aziz ve celil Rabbimiz de: Ben de ona cenneti haram ettim, buyurdu." Sonra elini mescide uzattı ve dedi ki: Evet, Allah'a yemin ederim ki bu hadisi bana Cündeb, Resulullah (Sallallahu aleyhi ve Sellem)'den bu mescitte tahdis etti. Diğer tahric: Buhari, 1298, 3276; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>307</td></tr><tr><td>Arabic No</td><td>113.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 214</td></tr></tbody></table></div>
 

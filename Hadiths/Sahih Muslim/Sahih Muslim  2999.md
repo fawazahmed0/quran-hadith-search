@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৮৮৯, আন্তর্জাতিক নাম্বারঃ ১২৩৪ ২৮৮৯-(১৮৯/১২৩৪) যুহায়র ইবনু হারব (রহঃ) ..... আমর ইবনু দীনার (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমরা ইবনু উমার (রাযিঃ) এর নিকট এক লোক সম্পর্কে জিজ্ঞেস করলাম যে, উমরাহ করার উদ্দেশে আগমন করেছে, অতঃপর বায়তুল্লাহ তওয়াফ করেছে কিন্তু সাফা-মারওয়ার মাঝে সাঈ করেনি- সে কি তার স্ত্রীর সাথে মিলতে পারে? ইবনু উমর (রাযিঃ) বললেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কাহ (মক্কাহ) আগমন করে সাতবার বায়তুল্লাহ তওয়াফ করেন, মাকামে ইবরাহীমের পিছনে দু' রাকাআত সালাত (সালাত/নামাজ/নামায) আদায় করেন এবং সাফা-মারওয়ার মাঝে সাতবার সাঈ করেন। আর তোমাদের জন্য অবশ্যই আল্লাহর রসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মধ্যে উত্তম আদর্শ রয়েছে। (ইসলামিক ফাউন্ডেশন ২৮৬৫, ইসলামীক সেন্টার ২৮৬৪)
+যুহায়র ইবনু হারব (রহঃ) ..... আমর ইবনু দীনার (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমরা ইবনু উমার (রাযিঃ) এর নিকট এক লোক সম্পর্কে জিজ্ঞেস করলাম যে, উমরাহ করার উদ্দেশে আগমন করেছে, অতঃপর বায়তুল্লাহ তওয়াফ করেছে কিন্তু সাফা-মারওয়ার মাঝে সাঈ করেনি- সে কি তার স্ত্রীর সাথে মিলতে পারে? ইবনু উমর (রাযিঃ) বললেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাক্কাহ (মক্কাহ) আগমন করে সাতবার বায়তুল্লাহ তওয়াফ করেন, মাকামে ইবরাহীমের পিছনে দু' রাকাআত সালাত (সালাত/নামাজ/নামায) আদায় করেন এবং সাফা-মারওয়ার মাঝে সাতবার সাঈ করেন। আর তোমাদের জন্য অবশ্যই আল্লাহর রসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মধ্যে উত্তম আদর্শ রয়েছে। (ইসলামিক ফাউন্ডেশন ২৮৬৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2999</td></tr><tr><td>Arabic No</td><td>1234.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr b. Dinar said:We asked Ibn Umar about a person who came for Umra and circumambulated the House, but he did not run between al-Safa' and al-Marwa, whether he is allowed to (put off Ihram) and have intercourse with his wife. He replied: Allah's Messenger (ﷺ) circumambulated the House seven times and offered two rak'ahs of prayer after staying (at 'Arafat), and ran between al-Safa and al-Marwa seven times." Verily there is in Allah's Messenger a model pattern for you" (xxxill. 21)
+Amr b. Dinar said:We asked Ibn Umar about a person who came for Umra and circumambulated the House, but he did not run between al-Safa' and al-Marwa, whether he is allowed to (put off Ihram) and have intercourse with his wife. He replied: Allah's Messenger (ﷺ) circumambulated the House seven times and offered two rak'ahs of prayer after staying (at 'Arafat), and ran between al-Safa and al-Marwa seven times." Verily there is in Allah's Messenger a model pattern for you" (xxxill)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2999</td></tr><tr><td>Arabic No</td><td>1234.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: நாங்கள் இப்னு உமர் (ரலி) அவர்களிடம், "ஒருவர் உம்ராவிற்காக (மக்கா நகருக்கு) வந்து இறையில்லம் கஅபாவைச் சுற்றி (தவாஃப்) வந்துவிட்டார். ஸஃபா மற்றும் மர்வாவுக்கிடையே "சயீ" செய்யவில்லை. இந்நிலையில், அவர் தம் மனைவியுடன் தாம்பத்திய உறவில் ஈடுபடலாமா? (அதாவது இஹ்ராமிலிருந்து விடுபடலாமா?)" என்று கேட்டோம். அதற்கு, "அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (மக்காவிற்கு) வந்தபோது இறையில்லம் கஅபாவை ஏழு முறைச் சுற்றிவந்தார்கள். பிறகு மகாமு இப்ராஹீமிற்குப் பின்னால் (நின்று) இரண்டு ரக்அத்கள் தொழுதார்கள். பிறகு ஸஃபா மற்றும் மர்வாவுக்கிடையேயும் ஏழு முறை (ஓடினார்கள்). உங்களுக்கு அல்லாஹ்வின் தூதரிடம் ஓர் அழகிய முன்மாதிரி இருக்கிறது" என்று இப்னு உமர் (ரலி) அவர்கள் விடையளித்தார்கள். - மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 15
+அம்ர் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: நாங்கள் இப்னு உமர் (ரலி) அவர்களிடம், "ஒருவர் உம்ராவிற்காக (மக்கா நகருக்கு) வந்து இறையில்லம் கஅபாவைச் சுற்றி (தவாஃப்) வந்துவிட்டார். ஸஃபா மற்றும் மர்வாவுக்கிடையே "சயீ" செய்யவில்லை. இந்நிலையில், அவர் தம் மனைவியுடன் தாம்பத்திய உறவில் ஈடுபடலாமா? (அதாவது இஹ்ராமிலிருந்து விடுபடலாமா?)" என்று கேட்டோம். அதற்கு, "அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (மக்காவிற்கு) வந்தபோது இறையில்லம் கஅபாவை ஏழு முறைச் சுற்றிவந்தார்கள். பிறகு மகாமு இப்ராஹீமிற்குப் பின்னால் (நின்று) இரண்டு ரக்அத்கள் தொழுதார்கள். பிறகு ஸஃபா மற்றும் மர்வாவுக்கிடையேயும் ஏழு முறை (ஓடினார்கள்). உங்களுக்கு அல்லாஹ்வின் தூதரிடம் ஓர் அழகிய முன்மாதிரி இருக்கிறது" என்று இப்னு உமர் (ரலி) அவர்கள் விடையளித்தார்கள். - மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2999</td></tr><tr><td>Arabic No</td><td>1234.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
 

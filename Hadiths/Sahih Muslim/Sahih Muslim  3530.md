@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৪২২, আন্তর্জাতিক নাম্বারঃ ১৪৩৩ ৩৪২২-(.../...) আবূ বাকর ইবনু আবূ শায়বাহ ও আবূ কুরায়ব (রহিমাহুমাল্লাহ) ..... আবূ মু'আবিয়াহ সহ সকলেই হিশাম (রাযিঃ) থেকে উক্ত সানাদে হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৩৯৫, ইসলামীক সেন্টার ৩৩৯৪)
+আবূ বাকর ইবনু আবূ শায়বাহ ও আবূ কুরায়ব (রহিমাহুমাল্লাহ) ..... আবূ মু'আবিয়াহ সহ সকলেই হিশাম (রাযিঃ) থেকে উক্ত সানাদে হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৩৯৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3530</td></tr><tr><td>Arabic No</td><td>1433.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 132</td></tr></tbody></table></div>
 

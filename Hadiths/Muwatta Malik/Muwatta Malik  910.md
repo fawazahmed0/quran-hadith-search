@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ২১০. নাফি' (রহঃ) বর্ণনা করেন, আবদুল্লাহ ইবন উমর (রাঃ) যুহর, আসর, মাগরিব এবং ইশার নামায মুহাসসাব নামক স্থানে পড়িতেন। অতঃপর রাত্রে মক্কায় গিয়া বায়তুল্লাহর তাওয়াফ করিতেন।[1]
+রেওয়ায়ত ২১০. নাফি' (রহঃ) বর্ণনা করেন, আবদুল্লাহ ইবন উমর (রাঃ) যুহর, আসর, মাগরিব এবং ইশার নামায মুহাসসাব নামক স্থানে পড়িতেন। অতঃপর রাত্রে মক্কায় গিয়া বায়তুল্লাহর তাওয়াফ করিতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>910</td></tr><tr><td>Arabic No</td><td>910</td></tr><tr><td>Reference</td><td>Book 20 Hadith 206</td></tr></tbody></table></div>
 

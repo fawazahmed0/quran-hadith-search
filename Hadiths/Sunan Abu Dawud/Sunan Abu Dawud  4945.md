@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন আওন (রহঃ) ..... জারীর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট তাঁর কথা শোনা ও তাঁর অনুসরণের জন্য বায়'আত গ্রহণ করি, আর এজন্যও যে, আমি প্রত্যেক মুসলিমকে সদুপদেশ দেব। এ কারণে জারীর (রাঃ) যখন কোন জিনিস বিক্রি করতেন বা খরিদ করতেন, তখন তিনি বলতেনঃ আমি যা তোমরা নিকট হতে গ্রহণ করছি, এ আমার কাছে তা থেকে অধিক প্রিয়, যা আমি তোমাকে দিচ্ছি। এখন তোমরা ইচ্ছা-বিক্রি করা বা খরিদ করা।
+। জারীর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আদেশ, নিষেধ, উপদেশ, শ্রবণ, অনুসরণ ও প্রত্যেক মুসলিমের কল্যাণ কামনার জন্য বাই‘আত গ্রহণ করেছি। বর্ণনাকারী বলেন, জারীর (রাঃ) কোনো কিছু বিক্রি করলে বা কিনলে বলতেন, আমি যা আপনার কাছ থেকে কিনেছি তা আমার নিকট আপনাকে যা দিয়েছি তার চেয়ে অধিক পছন্দনীয়। সুতরাং আপনার স্বাধীনতা থাকলো।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4945</td></tr><tr><td>Arabic No</td><td>4945</td></tr><tr><td>Reference</td><td>Book 43 Hadith 173</td></tr></tbody></table></div>
 

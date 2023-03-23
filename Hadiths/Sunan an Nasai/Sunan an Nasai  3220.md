@@ -16,21 +16,21 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا الْحَسَنُ بْنُ قَزَعَةَ، قَالَ حَدَّثَنَا سُفْيَانُ، - وَهُوَ ابْنُ حَبِيبٍ - عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، قَالَ لَقِيَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏"‏ يَا جَابِرُ هَلْ أَصَبْتَ امْرَأَةً بَعْدِي ‏"‏ ‏.‏ قُلْتُ نَعَمْ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏"‏ أَبِكْرًا أَمْ أَيِّمًا ‏"‏ ‏.‏ قُلْتُ أَيِّمًا ‏.‏ قَالَ ‏"‏ فَهَلاَّ بِكْرًا تُلاَعِبُكَ ‏"‏ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا الحسن بن قزعة، قال حدثنا سفيان، - وهو ابن حبيب - عن ابن جريج، عن عطاء، عن جابر، قال لقيني رسول الله صلى الله عليه وسلم فقال " يا جابر هل اصبت امراة بعدي " . قلت نعم يا رسول الله . قال " ابكرا ام ايما " . قلت ايما . قال " فهلا بكرا تلاعبك
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হাসান ইন্ধন কাযা'আ (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সংগে আমার দেখা হলে তিনি বললেনঃ হে জাবির! আমার অজ্ঞাতে তুমি কি স্ত্রী গ্ৰহণ করেছ? আমি বললামঃ হ্যাঁ, ইয়া রাসূলাল্লাহ! তিনি বললেনঃ কুমারী না বিবাহিতা? আমি বললামঃ বিবাহিতা। তিনি বললেনঃ কেন কুমারী বিবাহ করলে না, তাহলে সে তোমার সাথে ক্ৰীড়া-কৌতুক করতো
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir:It was narrated that Jabir said: "The Messenger of Allah met me and said: 'O Jabir, have you got married to a woman since I last saw you?' I said: 'Yes, O Messenger of Allah.' He said: 'To a virgin or to a previously-married woman?' I said: 'To a previously-married woman.' He said: 'Why not a virgin, so she could play with you?
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ Narrated Jabir:It was narrated that Jabir said: "The Messenger of Allah met me a
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengkhabarkan kepada kami [Al Hasan bin Qaza'ah], ia berkata; telah menceritakan kepada kami [Sufyan yaitu Ibnu Habib] dari [Ibnu Juraij] dari ['Atho'] dari [Jabir], ia berkata; Rasulullah shallallahu 'alaihi wasallam menemuiku kemudian bersabda: "Wahai Jabir, apakah engkau telah menikahi seorang wanita setelahku?" Saya katakan; ya wahai Rasulullah. Beliau bersabda: "Gadis atau janda?" Saya katakan; janda. Maka beliau bersabda: "Tidakkah engkau menikahi gadis hingga engkau dapat mencandainya dan ia mencandaimu?
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengkhabarkan kepada kami [Al Hasan bin Qaza'ah], ia berkata; telah mencer
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengkhabarkan kepada kami [Al Hasan bin Qaza'ah], ia berkata; telah mencer
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کی مجھ سے ملاقات ہوئی تو آپ نے فرمایا: ”جابر! کیا تم مجھ سے اس سے پہلے ملنے کے بعد بیوی والے ہو گئے ہو؟“ میں نے کہا: جی ہاں اللہ کے رسول! آپ نے فرمایا: ”کیا کسی کنواری سے یا بیوہ سے؟“ میں نے کہا: بیوہ سے، آپ نے فرمایا: ”کنواری سے شادی کیوں نہ کہ جو تمہیں کھیل کھلاتی؟“۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>

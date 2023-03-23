@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাখলাদ ইবন খালিদ (রহঃ) ..... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সা'দ ইবন উবাদা (রাঃ) এর নিকট যান। তিনি রুটি এবং যয়তুনের তেল তাঁর সামনে পেশ করেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা খেয়ে এরূপ বলেনঃ রোযাদার ব্যক্তি তোমাদের কাছে এসে ইফতার করুক, নেককার লোক তোমাদের খানা খাক, আর ফেরেশতারা তোমাদের উপর রহমত প্রেরণ করুক।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সা‘দ ইবনু উবাদাহ (রাঃ)-এর বাড়িতে গেলেন। সা‘দ (রাঃ) রুটি ও যাইতুন তৈল আনলেন। তা খাওয়ার পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের নিকট রোযাদারগণ ইফাতর করেছে, সৎ লোকেরা তোমাদের খাদ্য খেয়েছে এবং ফিরিশতাগণ তোমার জন্য রহমতের দু‘আ করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3854</td></tr><tr><td>Arabic No</td><td>3854</td></tr><tr><td>Reference</td><td>Book 28 Hadith 119</td></tr></tbody></table></div>
 

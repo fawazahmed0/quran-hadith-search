@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (এর ছেলে) ইব্রাহীম (রাঃ) ইন্তিকাল করেন, তখন তিনি বলেন, জান্নাতে এর এক ধাত্রী আছে। (১৩৮২) (আধুনিক প্রকাশনীঃ ৩০১৪, ইসলামিক ফাউন্ডেশনঃ ৩০২৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (এর ছেলে) ইব্রাহীম (রাঃ) ইন্তিকাল করেন, তখন তিনি বলেন, জান্নাতে এর এক ধাত্রী আছে। (১৩৮২) (আধুনিক প্রকাশনীঃ ৩০১৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3255</td></tr><tr><td>Arabic No</td><td>3255</td></tr><tr><td>Reference</td><td>Book 59 Hadith 65</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Al-Bara (bin Azib):The Prophet, after the death of his son Ibrahim, sai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், (தம் புதல்வர்) இப்ராஹீம் (ரலி) அவர்கள் இறந்தபொழுது, ‘‘பாலூட்டும் செவிலித்தாய் சொர்க்கத்தில் இவருக்குக் கிடைப்பாள்” என்று கூறினார்கள்.57 அத்தியாயம் : 59
+பராஉ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், (தம் புதல்வர்) இப்ராஹீம் (ரலி) அவர்கள் இறந்தபொழுது, ‘‘பாலூட்டும் செவிலித்தாய் சொர்க்கத்தில் இவருக்குக் கிடைப்பாள்” என்று கூறினார்கள்.57 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3255</td></tr><tr><td>Arabic No</td><td>3255</td></tr><tr><td>Reference</td><td>Book 59 Hadith 65</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ আল্লাহ্ যখন মাখলূক সৃষ্টি করলেন,তখন তা তাঁর কিতাবে লিখলেন এবং তিনি আপন সত্তা বিষয়ে লিখছেন, যা তাঁর কাছে আরশের উপর রক্ষিত আছে, ‘আমার রহমত আমার গযবকে পরাভূত করেছে।’ [৩১৯৪] (আধুনিক প্রকাশনী- ৬৮৮৮, ইসলামিক ফাউন্ডেশন- ৬৯০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ আল্লাহ্ যখন মাখলূক সৃষ্টি করলেন,তখন তা তাঁর কিতাবে লিখলেন এবং তিনি আপন সত্তা বিষয়ে লিখছেন, যা তাঁর কাছে আরশের উপর রক্ষিত আছে, ‘আমার রহমত আমার গযবকে পরাভূত করেছে।’ [৩১৯৪] (আধুনিক প্রকাশনী- ৬৮৮৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7404</td></tr><tr><td>Arabic No</td><td>7404</td></tr><tr><td>Reference</td><td>Book 97 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdan] dari [Abu hamzah] dari [Al A'masy] dari 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் படைப்புகளைப் படைத்த போது (தனது) அரியணையின் மீது வைக்கப்பட்டிருந்த தனது பதிவேட்டில், “என் கருணை என் கோபத்தை வென்று விட்டது” என்று (கருணையைத்) தனக்குத் தானே விதியாக்கிக்கொள்ளும் வகையில் எழுதினான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.41 அத்தியாயம் : 97
+நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ் படைப்புகளைப் படைத்த போது (தனது) அரியணையின் மீது வைக்கப்பட்டிருந்த தனது பதிவேட்டில், “என் கருணை என் கோபத்தை வென்று விட்டது” என்று (கருணையைத்) தனக்குத் தானே விதியாக்கிக்கொள்ளும் வகையில் எழுதினான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.41 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7404</td></tr><tr><td>Arabic No</td><td>7404</td></tr><tr><td>Reference</td><td>Book 97 Hadith 33</td></tr></tbody></table></div>
 

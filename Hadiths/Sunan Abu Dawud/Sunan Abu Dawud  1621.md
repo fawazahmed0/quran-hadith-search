@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহ্‌মাদ ইব্‌ন সালেহ (রহঃ) .... ইবন্‌ শিহাব (রহঃ) বলেন, আবদুল্লাহ ইব্‌ন ছালাবা আর ইব্‌ন সালেহ (রহঃ) তার সাথে আল-আদাবী অর্থাৎ আল-আযরী যোগ করেছেন। রাবী 'আয্‌রী বলেন, একদা রাসুলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ঈদুল ফিতরের দুই দিন পূর্বে লোকদের উদ্দেশ্যে ভাষণ দিলেন ... আল মুকরীর (আবদুল্লাহ ইব্‌ন ইয়াযীদ) হাদীছের অনুরূপ।
+। ইবনু শিহাব বলেন, ‘আবদুল্লাহ ইবনু সা‘লাবাহ ও আহমাদ ইবনু সলিহ তার সাথে আল-আদাবী অর্থাৎ আল-‘উযরী বলেছেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঈদের দুই দিন পূর্বে লোকদের উদ্দেশে বক্তৃতা দিলেন। অতঃপর মুকরীর (‘আবদুল্লাহ ইবনু ইয়াযীদের) হাদীসের অনুরূপ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>1621</td></tr><tr><td>Reference</td><td>Book 9 Hadith 66</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, যে সম্পত্তির ভাগ বাঁটোয়ারা হয়নি, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাতে শুফ‘আ [1] এর অধিকার প্রদান করেছেন। যখন সীমানা নির্ধারিত হয়ে যায় এবং রাস্তা ভিন্ন করা হয়, তখন আর শুফ‘আ এর অধিকার থাকবে না। (২২১৪, ২২৫৭, ২৪৯৫, ২৪৯৬, ২৯৭৬, মুসলিম ২২/২৮, হাঃ ১৬০৮, আহমাদ ১৪৩৪৫) (আধুনিক প্রকাশনীঃ ২০৫৬, ইসলামিক ফাউন্ডেশনঃ ২০৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, যে সম্পত্তির ভাগ বাঁটোয়ারা হয়নি, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাতে শুফ‘আ [1] এর অধিকার প্রদান করেছেন। যখন সীমানা নির্ধারিত হয়ে যায় এবং রাস্তা ভিন্ন করা হয়, তখন আর শুফ‘আ এর অধিকার থাকবে না। (২২১৪, ২২৫৭, ২৪৯৫, ২৪৯৬, ২৯৭৬, মুসলিম ২২/২৮, হাঃ ১৬০৮, আহমাদ ১৪৩৪৫) (আধুনিক প্রকাশনীঃ ২০৫৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2213</td></tr><tr><td>Arabic No</td><td>2213</td></tr><tr><td>Reference</td><td>Book 34 Hadith 159</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada saya [Mahmud] telah menceritakan kepada kami ['Abdur R
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், பிரிக்கப்படாத ஒவ்வொரு சொத்திலும் விலைக்கோள் உரிமையை(ப் பங்காளிக்கு) ஏற்படுத்தினார்கள். (ஆனால்,) எல்லைகள் வகுக்கப்பட்டுப் பாதைகள் உருவாக்கப் பட்டிருந்தால், (பங்காளிக்குத்தான் விற்க வேண்டும் என்ற) விலைக்கோள் உரிமை கிடையாது. அத்தியாயம் : 34
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், பிரிக்கப்படாத ஒவ்வொரு சொத்திலும் விலைக்கோள் உரிமையை(ப் பங்காளிக்கு) ஏற்படுத்தினார்கள். (ஆனால்,) எல்லைகள் வகுக்கப்பட்டுப் பாதைகள் உருவாக்கப் பட்டிருந்தால், (பங்காளிக்குத்தான் விற்க வேண்டும் என்ற) விலைக்கோள் உரிமை கிடையாது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2213</td></tr><tr><td>Arabic No</td><td>2213</td></tr><tr><td>Reference</td><td>Book 34 Hadith 159</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada saya [Mahmud] telah menceritakan kepada kami ['Abdur R
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem taksim edilmemiş bütün mallarda şuf'a hakkı bulunduğuna hükmetmiştir. Sınırlar belirlenip yollar ayrılınca artık şüf'a hakkı yoktur Tekrar: 2214, 2257, 2495, 2496, 6976
+Cabir r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem taksim edilmemiş bütün mallarda şuf'a hakkı bulunduğuna hükmetmiştir. Sınırlar belirlenip yollar ayrılınca artık şüf'a hakkı yoktur Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2213</td></tr><tr><td>Arabic No</td><td>2213</td></tr><tr><td>Reference</td><td>Book 34 Hadith 159</td></tr></tbody></table></div>
 

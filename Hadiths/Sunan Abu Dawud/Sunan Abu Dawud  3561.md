@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... সামুরা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হাত দিয়ে গৃহীত বস্তুর যিম্মাদারী ততক্ষন থাকবে, যতক্ষণ না তা আদায় করা হবে। এর রাবী হাসান হাদীছটি ভুলে যান এবং পরে বলেনঃ যাকে তুমি কিছু প্রদান করবে, সে তার আমানতদার হবে। (আর যদি তা অনিচ্ছা সত্ত্বে নষ্ট হয়ে যায়), তবে এতে তার কোন দায়-দায়িত্ব থাকবে না।
+। সামুরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ হাত দিয়ে গৃহীত জিনিস (ধার) গ্রহণকারী তা ফেরত না দেয়া পর্যন্ত তার যামিন থাকবে। বর্ণনাকারী হাসান (রহঃ) পরবর্তীকালের এ হাদীসটি ভুলে যান। অতঃপর বলেন, ধার গ্রহীতা আমানতদার। সুতরাং তাকে কোনো ক্ষতিপূরণ দিতে হবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3561</td></tr><tr><td>Arabic No</td><td>3561</td></tr><tr><td>Reference</td><td>Book 24 Hadith 146</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাকে পাঠানো হয়েছে কিয়ামতের সঙ্গে এ রকম। [মুসলিম ৫২/২৬, হাঃ ২৯৫১, আহমাদ ১৩৩১৮] (আধুনিক প্রকাশনী- ৬০৫৪, ইসলামিক ফাউন্ডেশন- ৬০৬০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাকে পাঠানো হয়েছে কিয়ামতের সঙ্গে এ রকম। [মুসলিম ৫২/২৬, হাঃ ২৯৫১, আহমাদ ১৩৩১৮] (আধুনিক প্রকাশনী- ৬০৫৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6504</td></tr><tr><td>Arabic No</td><td>6504</td></tr><tr><td>Reference</td><td>Book 81 Hadith 93</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Abdullah bin Muhammad Alju'fi] telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நானும் மறுமை நாளும் இதோ இந்த (சுட்டுவிரல், நடுவிரல் ஆகிய) இரண்டை யும் போன்று (நெருக்கமாக) அனுப்பப்பட்டுள்ளோம். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 82
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நானும் மறுமை நாளும் இதோ இந்த (சுட்டுவிரல், நடுவிரல் ஆகிய) இரண்டை யும் போன்று (நெருக்கமாக) அனுப்பப்பட்டுள்ளோம். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6504</td></tr><tr><td>Arabic No</td><td>6504</td></tr><tr><td>Reference</td><td>Book 81 Hadith 93</td></tr></tbody></table></div>
 

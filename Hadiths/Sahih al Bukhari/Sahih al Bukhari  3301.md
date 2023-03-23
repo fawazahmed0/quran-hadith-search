@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘কুফরীর মূল পূর্বদিকে, গর্ব এবং অহংকার ঘোড়া এবং উটের মালিকদের মধ্যে এবং বেদুইনদের মধ্যে যারা তাদের উটের পাল নিয়ে ব্যস্ত থাকে, আর শান্তি বকরির পালের মালিকদের মধ্যে।’ (৩৪৯৯, ৪৩৮৮, ৪৩৮৯, ৪৩৯০) (মুসলিম ১/২১ হাঃ ৫২, আহমাদ ৯৪১৪) (আধুনিক প্রকাশনীঃ ৩০৫৭, ইসলামিক ফাউন্ডেশনঃ ৩০৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘কুফরীর মূল পূর্বদিকে, গর্ব এবং অহংকার ঘোড়া এবং উটের মালিকদের মধ্যে এবং বেদুইনদের মধ্যে যারা তাদের উটের পাল নিয়ে ব্যস্ত থাকে, আর শান্তি বকরির পালের মালিকদের মধ্যে।’ (৩৪৯৯, ৪৩৮৮, ৪৩৮৯, ৪৩৯০) (মুসলিম ১/২১ হাঃ ৫২, আহমাদ ৯৪১৪) (আধুনিক প্রকাশনীঃ ৩০৫৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3301</td></tr><tr><td>Arabic No</td><td>3301</td></tr><tr><td>Reference</td><td>Book 59 Hadith 109</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இறைமறுப்பின் தலைமைப் பீடம் கிழக்குத் திசையில் (அக்னி ஆராதனை யாளர்களான மஜூசிகள் வசிக்கும் பாரசீகத்தில்) உள்ளது. குதிரைகள் மற்றும் ஒட்டகங்களின் உரிமையாளர்களிடமும் (நாடோடிப்) பாலைவனவாசிகளான ஒட்டக மேய்ப்பர்(களிடமும் பண்ணை முதலாளி)களிடமும் தற்பெருமையும் அகம்பாவமும் காணப்படுகின்றன. ஆடுகளின் உரிமை யாளர்களிடம் அமைதி(யும் பணிவும்) காணப்படுகின்றது.104 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இறைமறுப்பின் தலைமைப் பீடம் கிழக்குத் திசையில் (அக்னி ஆராதனை யாளர்களான மஜூசிகள் வசிக்கும் பாரசீகத்தில்) உள்ளது. குதிரைகள் மற்றும் ஒட்டகங்களின் உரிமையாளர்களிடமும் (நாடோடிப்) பாலைவனவாசிகளான ஒட்டக மேய்ப்பர்(களிடமும் பண்ணை முதலாளி)களிடமும் தற்பெருமையும் அகம்பாவமும் காணப்படுகின்றன. ஆடுகளின் உரிமை யாளர்களிடம் அமைதி(யும் பணிவும்) காணப்படுகின்றது.104 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3301</td></tr><tr><td>Arabic No</td><td>3301</td></tr><tr><td>Reference</td><td>Book 59 Hadith 109</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den nakledildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Küfrün başı doğu tarafındadır. Böbürlenme ve kibirlenme, at ve deve sürülerine sahip olanlarda görülür. Develerinin, sığırlarının peşinden giden kaba ve çığırtkan insanlar (el-feddadun), bedevilerdir. Koyun sürülerine sahip olanlarda ise sükunet ve huzur vardır." Tekrar: 3499, 4388-4390
+Ebu Hureyre r.a.'den nakledildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Küfrün başı doğu tarafındadır. Böbürlenme ve kibirlenme, at ve deve sürülerine sahip olanlarda görülür. Develerinin, sığırlarının peşinden giden kaba ve çığırtkan insanlar (el-feddadun), bedevilerdir. Koyun sürülerine sahip olanlarda ise sükunet ve huzur vardır." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3301</td></tr><tr><td>Arabic No</td><td>3301</td></tr><tr><td>Reference</td><td>Book 59 Hadith 109</td></tr></tbody></table></div>
 

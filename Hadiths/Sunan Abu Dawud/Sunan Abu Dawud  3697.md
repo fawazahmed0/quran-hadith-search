@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের কদুর খোলে তৈরী পাত্র, লাখার তৈরী পাত্র, কাঠের তৈরী পাত্র এবং যবের তৈরী শরাব পান করতে নিষেধ করেছেন।
+। আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে লাউয়ের খোলের পাত্র, মাটির সবুজ পাত্র, ও কাঠের পাত্র ব্যবহার করতে নিষেধ করেছেন এবং জি‘আহ নামক নবীয পান করতেও নিষেধ করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3697</td></tr><tr><td>Arabic No</td><td>3697</td></tr><tr><td>Reference</td><td>Book 27 Hadith 29</td></tr></tbody></table></div>
 

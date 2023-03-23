@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমু‘আহর দিন সম্পর্কে আলোচনা করেন এবং বলেন, এ দিনে এমন একটি মুহূর্ত রয়েছে, যে কোন মুসলিম বান্দা যদি এ সময় সালাতে দাঁড়িয়ে আল্লাহর নিকট কিছু প্রার্থনা করে, তবে তিনি তাকে অবশ্যই তা দিয়ে থাকেন এবং তিনি হাত দিয়ে ইঙ্গিত করে বুঝিয়ে দিলেন যে, সে মুহূর্তটি খুবই সংক্ষিপ্ত। (৫২৯৪, ৬৪০০; মুসলিম ৭/৪, হাঃ ৮৫২, আহমাদ ১০৩০৬) (আধুনিক প্রকাশনীঃ ৮৮২, ইসলামিক ফাউন্ডেশনঃ ৮৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমু‘আহর দিন সম্পর্কে আলোচনা করেন এবং বলেন, এ দিনে এমন একটি মুহূর্ত রয়েছে, যে কোন মুসলিম বান্দা যদি এ সময় সালাতে দাঁড়িয়ে আল্লাহর নিকট কিছু প্রার্থনা করে, তবে তিনি তাকে অবশ্যই তা দিয়ে থাকেন এবং তিনি হাত দিয়ে ইঙ্গিত করে বুঝিয়ে দিলেন যে, সে মুহূর্তটি খুবই সংক্ষিপ্ত। (৫২৯৪, ৬৪০০; মুসলিম ৭/৪, হাঃ ৮৫২, আহমাদ ১০৩০৬) (আধুনিক প্রকাশনীঃ ৮৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>935</td></tr><tr><td>Arabic No</td><td>935</td></tr><tr><td>Reference</td><td>Book 11 Hadith 59</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Abu A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் வெள்ளிக்கிழமை பற்றிக் குறிப்பிடுகையில், “வெள்ளிக்கிழமை அன்று ஒரு நேரம் இருக்கிறது; அந்த நேரத்தை ஒரு முஸ்-ம் அடியார் (சரியாக) அடைந்து, அதில் தொழுதவாறு நின்று அல்லாஹ் விடம் எதைக் கோரினாலும், அதை அவருக்கு அல்லாஹ் வழங்காமல் இருப்ப தில்லை.” என்று கூறினார்கள். (அந்த நேரத்தைப் பற்றிக் கூறியபோது) நபி (ஸல்) அவர்கள் அது மிகக் குறைந்த நேரம் என்பதைத் தமது கையால் சைகை செய்து உணர்த்தினார்கள். அத்தியாயம் : 11
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் வெள்ளிக்கிழமை பற்றிக் குறிப்பிடுகையில், “வெள்ளிக்கிழமை அன்று ஒரு நேரம் இருக்கிறது; அந்த நேரத்தை ஒரு முஸ்-ம் அடியார் (சரியாக) அடைந்து, அதில் தொழுதவாறு நின்று அல்லாஹ் விடம் எதைக் கோரினாலும், அதை அவருக்கு அல்லாஹ் வழங்காமல் இருப்ப தில்லை.” என்று கூறினார்கள். (அந்த நேரத்தைப் பற்றிக் கூறியபோது) நபி (ஸல்) அவர்கள் அது மிகக் குறைந்த நேரம் என்பதைத் தமது கையால் சைகை செய்து உணர்த்தினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>935</td></tr><tr><td>Arabic No</td><td>935</td></tr><tr><td>Reference</td><td>Book 11 Hadith 59</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Abu A
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in Cum'a gününü kasdederek şöyle buyurduğunu nakletmiştir: "İşte bu günde kısacık bir an vardır ki, Müslüman bir kul o an'a rast gelecek şekilde namaz kılmaya ve dua etmeye muvaffak olur da Allah'tan bir şey dilerse Allah o'na dilediği her şeyi bahşeder." Resul-i Ekrem Sallallahu Aleyhi ve Sellem bu zaman'ın çok kısa olduğunu ifade etmek üzere eliyle işaret buyurmuştu. Tekrar: 5294 ve 6400
+Ebu Hureyre (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in Cum'a gününü kasdederek şöyle buyurduğunu nakletmiştir: "İşte bu günde kısacık bir an vardır ki, Müslüman bir kul o an'a rast gelecek şekilde namaz kılmaya ve dua etmeye muvaffak olur da Allah'tan bir şey dilerse Allah o'na dilediği her şeyi bahşeder." Resul-i Ekrem Sallallahu Aleyhi ve Sellem bu zaman'ın çok kısa olduğunu ifade etmek üzere eliyle işaret buyurmuştu. Tekrar: 5294 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>935</td></tr><tr><td>Arabic No</td><td>935</td></tr><tr><td>Reference</td><td>Book 11 Hadith 59</td></tr></tbody></table></div>
 

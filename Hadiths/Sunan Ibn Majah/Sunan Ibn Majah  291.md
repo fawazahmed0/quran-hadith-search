@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/২৯১। আলী ইবনু আবূ তালিব (রাঃ) থেকে বর্ণিত। তিনি বলেন, তোমাদের মুখ হল কুরআনের রাস্তা। অতএব তোমরা দাঁতন করে তা পবিত্র ও সুগন্ধযুক্ত করো।
+। আলী ইবনু আবূ তালিব (রাঃ) থেকে বর্ণিত। তিনি বলেন, তোমাদের মুখ হল কুরআনের রাস্তা। অতএব তোমরা দাঁতন করে তা পবিত্র ও সুগন্ধযুক্ত করো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>291</td></tr><tr><td>Arabic No</td><td>291</td></tr><tr><td>Reference</td><td>Book 1 Hadith 25</td></tr></tbody></table></div>
 

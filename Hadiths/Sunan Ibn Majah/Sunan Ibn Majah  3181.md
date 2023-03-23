@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩১৮১। আবূ বাকর ইবনে আবূ কুহাফা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে ও উমার (রাঃ) কে বলেনঃ তোমরা উভয়ে আমাদের সাথে আল-ওয়াকিফীর নিকট চলো। রাবী বলেন, আমরা চাঁদনি রাতে রওয়ানা হলাম এবং শেষে (আল-ওয়াকিফীর) বাগানে গিয়ে পৌঁছলাম। আল-ওয়াকিফী বলেন, সাদর সম্ভাষণ। অতঃপর তিনি একটি ছুরিসহ মেষ পালের মধ্যে চক্কর দিলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেনঃ সাবধান! দুগ্ধবতী পশু যবেহ করো না।
+। আবূ বাকর ইবনে আবূ কুহাফা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে ও উমার (রাঃ) কে বলেনঃ তোমরা উভয়ে আমাদের সাথে আল-ওয়াকিফীর নিকট চলো। রাবী বলেন, আমরা চাঁদনি রাতে রওয়ানা হলাম এবং শেষে (আল-ওয়াকিফীর) বাগানে গিয়ে পৌঁছলাম। আল-ওয়াকিফী বলেন, সাদর সম্ভাষণ। অতঃপর তিনি একটি ছুরিসহ মেষ পালের মধ্যে চক্কর দিলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেনঃ সাবধান! দুগ্ধবতী পশু যবেহ করো না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>3181</td></tr><tr><td>Reference</td><td>Book 27 Hadith 20</td></tr></tbody></table></div>
 

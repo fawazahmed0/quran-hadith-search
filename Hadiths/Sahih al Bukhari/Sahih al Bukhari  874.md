@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (ইবনু মালিক) (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উম্মু সুলাইম (রাযি.)-এর ঘরে সালাত আদায় করেন। আমি এবং একটি ইয়াতীম তাঁর পিছনে দাঁড়ালাম আর উম্মু সুলাইম (রাযি.) আমাদের পিছনে দাঁড়ালেন। (৩৮০) (আধুনিক প্রকাশনীঃ ৮২২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>874</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 10 Hadith 265</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Anas:The Prophet (ﷺ) prayed in the house of Um Sulaim; and I, along w
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: (ஒரு நாள்) நபி (ஸல்) அவர்கள் உம்மு சுலைம் (ரலி) அவர்களது இல்லத்தில் (கூடுதல் தொழுகை) தொழுதார்கள். நானும் ஓர் அநாதைச் சிறுவரும் அவர்களுக்குப் பின்னால் நின்றுகொண்டோம். உம்மு சுலைம் (ரலி) அவர்கள் எங்களுக்குப் பின்னால் நின்றார்கள். அத்தியாயம் : 10
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: (ஒரு நாள்) நபி (ஸல்) அவர்கள் உம்மு சுலைம் (ரலி) அவர்களது இல்லத்தில் (கூடுதல் தொழுகை) தொழுதார்கள். நானும் ஓர் அநாதைச் சிறுவரும் அவர்களுக்குப் பின்னால் நின்றுகொண்டோம். உம்மு சுலைம் (ரலி) அவர்கள் எங்களுக்குப் பின்னால் நின்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>874</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 10 Hadith 265</td></tr></tbody></table></div>
 

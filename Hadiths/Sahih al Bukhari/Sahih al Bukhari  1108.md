@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরকালে মাগরিব ও ‘ইশার সালাত একত্রে আদায় করতেন এবং ‘আলী ইবনু মুবারাক ও হারব (রহ.) ....আনাস (রাযি.) হতে হাদীস বর্ণনায় হুসায়ন (রহ.)-এর অনুসরণ করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একত্রে আদায় করেছেন। (১১১০) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ ১০৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরকালে মাগরিব ও ‘ইশার সালাত একত্রে আদায় করতেন এবং ‘আলী ইবনু মুবারাক ও হারব (রহ.) ....আনাস (রাযি.) হতে হাদীস বর্ণনায় হুসায়ন (রহ.)-এর অনুসরণ করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একত্রে আদায় করেছেন। (১১১০) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1108</td></tr><tr><td>Arabic No</td><td>1108</td></tr><tr><td>Reference</td><td>Book 18 Hadith 28</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பயணத்தில் மஃக்ரிப் தொழுகையையும் இஷா தொழு கையையும் சேர்த்துத் தொழுவார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 18
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பயணத்தில் மஃக்ரிப் தொழுகையையும் இஷா தொழு கையையும் சேர்த்துத் தொழுவார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1108</td></tr><tr><td>Arabic No</td><td>1108</td></tr><tr><td>Reference</td><td>Book 18 Hadith 28</td></tr></tbody></table></div>
 

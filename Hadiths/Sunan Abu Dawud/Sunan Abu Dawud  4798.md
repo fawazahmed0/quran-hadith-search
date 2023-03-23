@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপ বলতে শুনেছিঃ মু'মিন ব্যক্তি তার সদাচারের জন্য রোযাদার ও সালাত আদায়কারী ব্যক্তির সমান মর্যাদা লাভ করে থাকে।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ নিশ্চয়ই মু‘মিন ব্যক্তি তার ভালো চরিত্রের মাধ্যমে (দিনের) সওম পালনকারী ও (রাতের) তাহাজ্জুদ গুজারীর সমান মর্যাদা লাভ করতে পারে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4798</td></tr><tr><td>Arabic No</td><td>4798</td></tr><tr><td>Reference</td><td>Book 43 Hadith 26</td></tr></tbody></table></div>
 

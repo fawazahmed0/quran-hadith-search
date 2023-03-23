@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়া‘কূব ইবন ইবরাহীম (রহঃ) সূত্রে ও মিলিত সনদে জাবির (রাঃ) হতে বর্ণিত। আর রাবী (ইয়াহইয়া ইবনে সাঈদ) এই হাদীস বর্ণনা করেছেন। আর রাবী ইয়াহ্ইয়া আল কাত্তান তাঁর বর্ণিত হাদীসে উল্লেখ করেন যে, (আ্ল্লাহর বাণী) : ‘‘আর তোমরা মাকামে ইবরাহীমকে তোমাদের নামাযের স্থান হিসাবে গ্রহণ কর’’ রাবী বলেন, এ স্থানে নামায আদায়ের সময় তিনি সূরা ইখলাস ও সূরা কাফিরূন পাঠ করেন।
+। জাবির (রাযি.) সূত্রে বর্ণিত। ইয়াহইয়া ইবনু সাঈদ এ হাদীস বর্ণনা করেছেন। তার হাদীসে একথাও রয়েছেঃ ‘‘আর তোমরা মাকাকে ইবরাহীমকে দাঁড়াবার স্থানকে সালাতের স্থান হিসেবে গ্রহণ করো।’’ জা‘ফর ইবনু মুহাম্মাদ বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ স্থানে সালাত আদায়কালে সূরা ইখলাস ও সূরা কাফিরুন পাঠ করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1909</td></tr><tr><td>Arabic No</td><td>1909</td></tr><tr><td>Reference</td><td>Book 11 Hadith 189</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। সাঈদ ইবনুল মুসাইয়্যাব (রহঃ) সূত্রে বর্ণিত। আনসার সম্প্রদায়ের দু’ ভাইয়ের মধ্যে একটি (যৌথ) মীরাস ছিলো। এক ভাই অপর ভাইয়ের কাছে তা বণ্টনের দাবি করলে সে বললো, তুমি পুনরায় মীরাস বণ্টনের কথা বললে আমি আমার সমস্ত সম্পদ কা‘বা ঘরের জন্য ওয়াকফ করে দিবো। ‘উমার (রাঃ) লোকটিকে বললেন, কা‘বা ঘর তোমার সম্পত্তির মুখাপেক্ষী নয়। তোমার শপথের কাফফারাহ আদায় করো এবং তোমার ভাইয়ের সাথে (বণ্টনের) কথাবার্তা বলো। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ মহান রবের নাফরমানীতে, আত্মীয়তার সম্পর্ক ছিন্ন করণে এবং যার মালিক তুমি নও তাতে তোমার কোনো শপথ ও মানত জায়িয নেই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
 

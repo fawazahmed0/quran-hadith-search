@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মা’মার বলেনঃ ‘আবদুল ওয়ারিস আইউব থেকে, তিনি সা‘ঈদ ইবন যুবায়র থেকে, তিনি ইবন ‘উমার (রাঃ) থেকে বর্ণনা করেন যে, তিনি বলেছেনঃ এটিকে আমার উপর এক তালাক গণ্য করা হয়েছিল। [৪৯০৮; মুসলিম ১৮/১, হাঃ ১৪৭১, আহমাদ ৫৪৯০] আধুনিক প্রকাশনী- ৪৮৬৯, ইসলামিক ফাউন্ডেশন- ৪৭৬৩
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মা’মার বলেনঃ ‘আবদুল ওয়ারিস আইউব থেকে, তিনি সা‘ঈদ ইবন যুবায়র থেকে, তিনি ইবন ‘উমার (রাঃ) থেকে বর্ণনা করেন যে, তিনি বলেছেনঃ এটিকে আমার উপর এক তালাক গণ্য করা হয়েছিল। [৪৯০৮; মুসলিম ১৮/১, হাঃ ১৪৭১, আহমাদ ৫৪৯০] আধুনিক প্রকাশনী- ৪৮৬৯, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5253</td></tr><tr><td>Arabic No</td><td>5253</td></tr><tr><td>Reference</td><td>Book 68 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Umar:(Divorcing my wife during her menses) was counted as one lega
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (என் மனைவி மாதவிடாய்ப் பருவத்தில் இருந்தபோது நான் அளித்த) அந்த மணவிலக்கை, நான் சொன்ன ‘ஒரு தலாக்’ என்றே கணிக்கப்பட்டது. அத்தியாயம் : 68
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (என் மனைவி மாதவிடாய்ப் பருவத்தில் இருந்தபோது நான் அளித்த) அந்த மணவிலக்கை, நான் சொன்ன ‘ஒரு தலாக்’ என்றே கணிக்கப்பட்டது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5253</td></tr><tr><td>Arabic No</td><td>5253</td></tr><tr><td>Reference</td><td>Book 68 Hadith 3</td></tr></tbody></table></div>
 

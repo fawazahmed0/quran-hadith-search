@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মুহাম্মদ (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপ বলতে শুনেছিঃ বাতাস আল্লাহ্‌র এক হুকুম, তা কখনো রহমত নিয়ে আসে, আবার কখনো আযাব নিয়ে আসে। তুমি যখন বাতাসকে দেখবে, তখন তাকে মন্দ বলবে না, বরং আল্লাহ্‌র কাছে এর থেকে কল্যাণ চাবে এবং এর অকল্যাণ থেকে আল্লাহ্‌র কাছে পানাহ চাবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ বায়ু আল্লাহর অন্যতম রহমত। তা কখনো শান্তি বয়ে আনে আবার কখনো আযাব নিয়ে আসে। সুতরাং বাতাস প্রবাহিত হতে দেখলে তোমরা তাকে গালাগলি দিবে না, বরং আল্লাহর নিকট এর কল্যাণ চাইবে এবং তার খারাবী থেকে আল্লাহর নিকট মুক্তি প্রার্থনা করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>5097</td></tr><tr><td>Reference</td><td>Book 43 Hadith 325</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবনু আবূ শায়বা ..... আবদুল্লাহ্ ইবনুয-যুবায়ের (রাঃ) থেকে আয়িশা (রাঃ) এর সূরে বর্ণিত। তিনি (আয়শা) তাকে (ইবনু যুবায়ের) বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম চারটি কাজের জন্য গোসল করতেন- স্ত্রী সহবাসের পর, জুমুআর দিন, শিংগা লাগানোর পর এবং মৃত ব্যক্তির গোসল দেওয়ার পর। (তা ছাড়াও তিনি ইহরাম, কা’বায় প্রবেশের পূর্বে ও অন্যন্য কাজের জন্যও গোসল করতেন।)
+। ‘আব্দুল্লাহ ইবনু যুবাইর (রাঃ) হতে ‘আয়িশাহ্ (রাঃ)-এর সূত্রে বর্ণিত। তিনি (‘আয়িশাহ্) তাঁকে বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চারটি কারণে গোসল করতেনঃ (১) জানাবাতের দরুন, (২) জুমুআর জন্য, (৩) শিংগা লাগানোর পর এবং (৪) মৃতের গোসল দেয়ার পর।[1] দুর্বল: আসছে ক্রমিক নং ৬৯৩ ও ৩১৬০ তে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>348</td></tr><tr><td>Arabic No</td><td>348</td></tr><tr><td>Reference</td><td>Book 1 Hadith 348</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah bin Zübeyr, (r.a.)'ın kendisine şöyle dediğini rivayet eder: "Peygamber (Sallallahu aleyhi ve Sellem) (şu) dört şeyden dolayı guslederdi: Cenabet, cuma günü, kan aldırmak ve cenaze yıkamak." Diğer tahric: Ebu Davud, cenaiz no: 3160
+Abdullah bin Zübeyr, (r.a.)'ın kendisine şöyle dediğini rivayet eder: "Peygamber (Sallallahu aleyhi ve Sellem) (şu) dört şeyden dolayı guslederdi: Cenabet, cuma günü, kan aldırmak ve cenaze yıkamak." Diğer tahric: Ebu Davud, cenaiz no:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>348</td></tr><tr><td>Arabic No</td><td>348</td></tr><tr><td>Reference</td><td>Book 1 Hadith 348</td></tr></tbody></table></div>
 

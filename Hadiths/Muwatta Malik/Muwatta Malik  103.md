@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Abu Nadlr] mantan budak Umar bin Ub
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Seleme b. Abdurrahman b. Avf der ki: Resulullah Sallallahu Aleyhi ve Sellem'in zevcesi Aişe (r.a.)'den guslü gerektiren şeyi sordum, şöyle cevap verdi: «Senin halin neye benzer biliyor musun, ey Ebu Seleme! Civciv misalidir. Tavukların sesini işitir; o da onlarla birlikte seslenir. Erkeğin cinsî organının sünnet kısmı, kadının cinsî organına girince gusül vacip olur.» Aynı hadis Aişe (r.a.)'den muttasıl olarak da rivayet olundu. Tirmizi, Tahare. Aynca bkz. Şeybanî, 77
+Ebu Seleme b. Abdurrahman b. Avf der ki: Resulullah Sallallahu Aleyhi ve Sellem'in zevcesi Aişe (r.a.)'den guslü gerektiren şeyi sordum, şöyle cevap verdi: «Senin halin neye benzer biliyor musun, ey Ebu Seleme! Civciv misalidir. Tavukların sesini işitir; o da onlarla birlikte seslenir. Erkeğin cinsî organının sünnet kısmı, kadının cinsî organına girince gusül vacip olur.» Aynı hadis Aişe (r.a.)'den muttasıl olarak da rivayet olundu. Tirmizi, Tahare. Aynca bkz. Şeybanî
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>103</td></tr><tr><td>Reference</td><td>Book 2 Hadith 72</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ جَابِرٌ حَرَّمَ النَّبِيُّ صلى الله عليه وسلم بَيْعَ الْخِنْزِيرِ জাবির (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শূকর বিক্রয় হারাম করেছেন। ২২২২. আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, শপথ সেই সত্তার, যাঁর হাতে আমার প্রাণ। অচিরেই তোমাদের মাঝে ন্যায় বিচারকরূপে মারইয়ামের পুত্র [ঈসা (আ.)] অবতরণ করবেন। তারপর তিনি ক্রুশ ভেঙ্গে ফেলবেন, শূকর হত্যা করবেন, জিয্য়া রহিত করবেন এবং ধন-সম্পদের এরূপ প্রাচুর্য হবে যে, কেউ তা গ্রহণ করবে না। (২৪৭৬, ৩৪৪৮, ৩৪৪৯, মুসলিম ১/৭১, হাঃ ১৫৫, আহমাদ ৭৬৮৩) (আধুনিক প্রকাশনীঃ ২০৬৫, ইসলামিক ফাউন্ডেশনঃ ২০৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ جَابِرٌ حَرَّمَ النَّبِيُّ صلى الله عليه وسلم بَيْعَ الْخِنْزِيرِ জাবির (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শূকর বিক্রয় হারাম করেছেন। ২২২২. আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, শপথ সেই সত্তার, যাঁর হাতে আমার প্রাণ। অচিরেই তোমাদের মাঝে ন্যায় বিচারকরূপে মারইয়ামের পুত্র [ঈসা (আ.)] অবতরণ করবেন। তারপর তিনি ক্রুশ ভেঙ্গে ফেলবেন, শূকর হত্যা করবেন, জিয্য়া রহিত করবেন এবং ধন-সম্পদের এরূপ প্রাচুর্য হবে যে, কেউ তা গ্রহণ করবে না। (২৪৭৬, ৩৪৪৮, ৩৪৪৯, মুসলিম ১/৭১, হাঃ ১৫৫, আহমাদ ৭৬৮৩) (আধুনিক প্রকাশনীঃ ২০৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 34 Hadith 169</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என் உயிர் எவன் கையிலுள்ளதோ அ(ந்த இறை)வன்மீது சத்தியமாக! (உலக அழிவுக்குமுன்) மர்யமின் மைந்தர் (ஈசாலிஅலை) உங்களிடையே நேர்மையாகத் தீர்ப்பளிக்கும் நீதிபதியாக இறங்கவிருக்கி றார். அவர் சிலுவையை உடைப்பார். பன்றியைக் கொல்வார். காப்பு (ஜிஸ்யா) வரியை வாங்க மறுப்பார். (இஸ்லாம் ஒன்றையே ஏற்பார். அந்நாளில்) வாங்கு வதற்கு ஆளில்லாத அளவுக்குச் செல்வம் கொழிக்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என் உயிர் எவன் கையிலுள்ளதோ அ(ந்த இறை)வன்மீது சத்தியமாக! (உலக அழிவுக்குமுன்) மர்யமின் மைந்தர் (ஈசாலிஅலை) உங்களிடையே நேர்மையாகத் தீர்ப்பளிக்கும் நீதிபதியாக இறங்கவிருக்கி றார். அவர் சிலுவையை உடைப்பார். பன்றியைக் கொல்வார். காப்பு (ஜிஸ்யா) வரியை வாங்க மறுப்பார். (இஸ்லாம் ஒன்றையே ஏற்பார். அந்நாளில்) வாங்கு வதற்கு ஆளில்லாத அளவுக்குச் செல்வம் கொழிக்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 34 Hadith 169</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Nefsim elinde bulunan (Allah)'a yemin olsun ki, adil bir hakem olarak İsa) İbn Meryem'in inip, haç'ı kıracağı, domuz'u öldüreceği, cizyeyi kaldıracağı ve malların iyice çoğalıp mal kabul edecek hiçbir kimsenin bulunmayacağı bir zaman yaklaşmıştır. " Tekrar: 2476,3448, 3449
+Ebu Hureyre r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Nefsim elinde bulunan (Allah)'a yemin olsun ki, adil bir hakem olarak İsa) İbn Meryem'in inip, haç'ı kıracağı, domuz'u öldüreceği, cizyeyi kaldıracağı ve malların iyice çoğalıp mal kabul edecek hiçbir kimsenin bulunmayacağı bir zaman yaklaşmıştır. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 34 Hadith 169</td></tr></tbody></table></div>
 

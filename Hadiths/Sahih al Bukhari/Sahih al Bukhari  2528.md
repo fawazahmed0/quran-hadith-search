@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ النَّبِيُّ صلى الله عليه وسلم لِكُلِّ امْرِئٍ مَا نَوَى وَلاَ نِيَّةَ لِلنَّاسِي وَالْمُخْطِئِ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, প্রত্যেক ব্যক্তি তাই পাবে, যা সে নিয়্যাত করবে এবং যে ব্যক্তি অনিচ্ছায় বা ভুলবশত কিছু বলে, তার কোন নিয়্যাত থাকে না। ২৫২৮. আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, (আমার বরকতে) আল্লাহ আমার উম্মতের অন্তরে উদিত ওয়াসওয়াসা (পাপের ভাব ও চেতনা) মাফ করে দিয়েছেন। যতক্ষণ পর্যন্ত না সে তা কাজে পরিণত করে অথবা মুখে বলে। (৬৬৬৪, ৫২৬৯) (আধুনিক প্রকাশনীঃ ২৩৪৪, ইসলামিক ফাউন্ডেশনঃ ২৩৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ النَّبِيُّ صلى الله عليه وسلم لِكُلِّ امْرِئٍ مَا نَوَى وَلاَ نِيَّةَ لِلنَّاسِي وَالْمُخْطِئِ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, প্রত্যেক ব্যক্তি তাই পাবে, যা সে নিয়্যাত করবে এবং যে ব্যক্তি অনিচ্ছায় বা ভুলবশত কিছু বলে, তার কোন নিয়্যাত থাকে না। ২৫২৮. আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, (আমার বরকতে) আল্লাহ আমার উম্মতের অন্তরে উদিত ওয়াসওয়াসা (পাপের ভাব ও চেতনা) মাফ করে দিয়েছেন। যতক্ষণ পর্যন্ত না সে তা কাজে পরিণত করে অথবা মুখে বলে। (৬৬৬৪, ৫২৬৯) (আধুনিক প্রকাশনীঃ ২৩৪৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2528</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 49 Hadith 12</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah has accepted my invocation to forgive what whispers in the hearts of my followers, unless they put it to action or utter it." (See Hadith No. 657 Vol. 8)
+Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah has accepted my invocation to forgive what whispers in the hearts of my followers, unless they put it to action or utter it." (See Hadith No. 657 Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2528</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 49 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Suf
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: என் சமுதாயத்தாரின் உள்ளங்களில் ஊசலாடும் தீய எண்ணங்களை, அவர்கள் (அதன்படி) செயல்படாத வரை அல்லது (அதை வெளிப்படுத்திப்) பேசாத வரை எனக்காக அல்லாஹ் மன்னிக்கின்றான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 49
+நபி (ஸல்) அவர்கள்கூறினார்கள்: என் சமுதாயத்தாரின் உள்ளங்களில் ஊசலாடும் தீய எண்ணங்களை, அவர்கள் (அதன்படி) செயல்படாத வரை அல்லது (அதை வெளிப்படுத்திப்) பேசாத வரை எனக்காக அல்லாஹ் மன்னிக்கின்றான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2528</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 49 Hadith 12</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Suf
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayet edildiğine göre: Nebi Sallallahu Aleyhi ve Sellem: "Hiç kuşkusuz Allah, yapılmadığı ve dile dökülmediği sürece ümmetimin kalbinden geçirdiklerinden dolayı onları sorumlu tutmaz" buyurmuştur. Tekrar: 5269, 6664
+Ebu Hureyre r.a.'den rivayet edildiğine göre: Nebi Sallallahu Aleyhi ve Sellem: "Hiç kuşkusuz Allah, yapılmadığı ve dile dökülmediği sürece ümmetimin kalbinden geçirdiklerinden dolayı onları sorumlu tutmaz" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2528</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 49 Hadith 12</td></tr></tbody></table></div>
 

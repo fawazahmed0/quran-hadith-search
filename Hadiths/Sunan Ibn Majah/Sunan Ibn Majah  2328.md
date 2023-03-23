@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৩২৮। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’ ইহূদীকে বলেনঃ আমি তোমাদের দু’জনকে সেই আল্লাহর শপথ দিচ্ছি যিনি মূসা (রাঃ) এর উপর তাওরাত কিতাব নাযিল করেছেন।
+। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’ ইহূদীকে বলেনঃ আমি তোমাদের দু’জনকে সেই আল্লাহর শপথ দিচ্ছি যিনি মূসা (রাঃ) এর উপর তাওরাত কিতাব নাযিল করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2328</td></tr><tr><td>Arabic No</td><td>2328</td></tr><tr><td>Reference</td><td>Book 13 Hadith 21</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ali bin Muhammad] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Câbir bin Abdillah (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) iki erkek yahûdi'ye: «Mûsâ (Aleyhisselâm)'a Tevrat indiren Allah ile ikinize yemin ettiriyorum (veya ikinize soruyorum),» buyurdu. EBU DAVUD HADİSLERİ VE İZAH: 3624 – 3625 – 3626
+Câbir bin Abdillah (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) iki erkek yahûdi'ye: «Mûsâ (Aleyhisselâm)'a Tevrat indiren Allah ile ikinize yemin ettiriyorum (veya ikinize soruyorum),» buyurdu. EBU DAVUD HADİSLERİ VE İZAH: 3624 – 3625 –
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2328</td></tr><tr><td>Arabic No</td><td>2328</td></tr><tr><td>Reference</td><td>Book 13 Hadith 21</td></tr></tbody></table></div>
 

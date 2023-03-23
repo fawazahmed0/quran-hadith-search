@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১৭৮. হিশাম ইবন উরওয়াহ (রহঃ) বর্ণনা করেন, ফাতিমা বিনত মুনযির বলিয়াছেনঃ মুযদালিফা অবস্থানকালে আসমা বিনতে আবি বকর (রাঃ)-কে দেখিয়াছি, যে ব্যক্তি তাহাদের নামায পড়াইতেন তাহাকে তিনি বলিতেনঃ সুবহে সাদিক হওয়ামাত্রই যেন নামায পড়াইয়া দেন। পরে নামায পড়ামাত্র আর বিলম্ব না করিয়া তিনি মিনায় চলিয়া আসিতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>880</td></tr><tr><td>Arabic No</td><td>880</td></tr><tr><td>Reference</td><td>Book 20 Hadith 176</td></tr></tbody></table></div>
 

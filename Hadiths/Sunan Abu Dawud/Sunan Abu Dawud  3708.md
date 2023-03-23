@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যিয়াদ ইবন ইয়াহ্‌ইয়া (রহঃ) ..... সাফিয়্যা বিনত আতিয়্যা (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি আবদুল কায়স গোত্রের কয়েকজন মহিলার সাথে আইশা (রাঃ)-এর নিকট হাযির হই। এরপর আমরা তাঁর কাছে খেজুর ও আংগুরের তৈরী নবীয সম্পর্কে জিজ্ঞাসা করি। তিনি বলেনঃ আমি এক মুষ্টি খেজুর ও এক মুষ্টি আংগুর নিয়ে একটি পাত্রে রাখতাম। এরপর তা হাত দিয়ে মিশিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে পান করাতাম।
+। সাফিয়্যাহ বিনুত আতিয়্যাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আব্দুল কায়িস গোত্রের মহিলাদের সঙ্গে আমি আয়িশাহ (রাঃ)-এর নিকট উপস্থিত হলাম। আমরা তাকে খেজুর ও আঙ্গুর মিশ্রিত শরবত সম্পর্কে প্রশ্ন করলে তিনি বলেন, আমি এক মুষ্টি খেজুর ও এক মুষ্টি আঙ্গুর একটি পাত্রে ঢালতাম। তা আঙ্গুল দিয়ে চেপে রস বের করতাম, অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে পান করাতাম।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
 

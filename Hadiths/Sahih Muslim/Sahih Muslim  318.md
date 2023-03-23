@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২১৭, আন্তর্জাতিক নাম্বারঃ ১২০ ২১৭-(১৮৯/১২০) উসমান ইবনু আবূ শাইবাহ্ (রহঃ) ..... 'আবদুল্লাহ (রাযিঃ) বলেন, কিছু সংখ্যক লোক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম-এর কাছে এসে বললেন, জাহিলী যুগে আমরা যা করেছি এর জন্যও কি আমাদের পাকড়াও করা হবে? তিনি বললেন, ইসলাম গ্রহণের পর যে ব্যক্তি ভাল কাজ করবে তাকে জাহিলী যুগের আমলের জন্য পাকড়াও করা হবে না। কিন্তু যে ব্যক্তি ইসলাম গ্রহণের পরও মন্দ করবে তাকে জাহিলী ও ইসলাম উভয় যুগের (মন্দ) কাজের জন্য পাকড়াও করা হবে। (ইসলামিক ফাউন্ডেশনঃ ২১৮, ইসলামিক সেন্টারঃ ২২৬)
+উসমান ইবনু আবূ শাইবাহ্ (রহঃ) ..... 'আবদুল্লাহ (রাযিঃ) বলেন, কিছু সংখ্যক লোক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম-এর কাছে এসে বললেন, জাহিলী যুগে আমরা যা করেছি এর জন্যও কি আমাদের পাকড়াও করা হবে? তিনি বললেন, ইসলাম গ্রহণের পর যে ব্যক্তি ভাল কাজ করবে তাকে জাহিলী যুগের আমলের জন্য পাকড়াও করা হবে না। কিন্তু যে ব্যক্তি ইসলাম গ্রহণের পরও মন্দ করবে তাকে জাহিলী ও ইসলাম উভয় যুগের (মন্দ) কাজের জন্য পাকড়াও করা হবে। (ইসলামিক ফাউন্ডেশনঃ ২১৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>318</td></tr><tr><td>Arabic No</td><td>120.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 225</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Osman b. Ebî Şeybe rivayet etti. (Dediki): Bize Cerîr, Mansur'dan, o da Ebu Vâil'den, o da Abdullah'dan işitmiş olmak üzere rivayet etti. Abdullah şöyle demiş: Bazıları Resulullah (Sallallahu aleyhi ve Sellem)'e: Ey Allah'ın Resulü, cahiliye döneminde yaptığımız amellerden sorumlu tutulacak mıyız, diye sordu. Allah Resulü: "Sizden İslam'da iyi amelde bulunanlar onlardan dolayı sorumlu tutulmayacaktır ama kötü iş yapanlar cahiliye dönemindeki amelinden de, İslam dönemindeki amelinden de sorumlu tutulacaktır. " Diğer tahric: Buhari, 6923; Tuhfetu'l-Eşraf, 9303
+Bize Osman b. Ebî Şeybe rivayet etti. (Dediki): Bize Cerîr, Mansur'dan, o da Ebu Vâil'den, o da Abdullah'dan işitmiş olmak üzere rivayet etti. Abdullah şöyle demiş: Bazıları Resulullah (Sallallahu aleyhi ve Sellem)'e: Ey Allah'ın Resulü, cahiliye döneminde yaptığımız amellerden sorumlu tutulacak mıyız, diye sordu. Allah Resulü: "Sizden İslam'da iyi amelde bulunanlar onlardan dolayı sorumlu tutulmayacaktır ama kötü iş yapanlar cahiliye dönemindeki amelinden de, İslam dönemindeki amelinden de sorumlu tutulacaktır. " Diğer tahric: Buhari, 6923; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>318</td></tr><tr><td>Arabic No</td><td>120.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 225</td></tr></tbody></table></div>
 

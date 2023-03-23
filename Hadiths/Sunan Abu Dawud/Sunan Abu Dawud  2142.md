@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল ..... হাকীম ইবন মু‘আবিয়া (রহঃ) তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, আমি জিজ্ঞাসা করি, হে আল্লাহ্‌র রাসুল! স্বামীদের উপর স্ত্রীদের কী হক? তিনি বলেন, যা সে খাবে তাকেও (স্ত্রী) খাওয়াবে, আর সে যা পরিধান করবে তাকেও তা পরিধান করাবে। আর তার (স্ত্রী) চেহারার উপর মারবে না এবং তাকে গালাগাল করবে না। আর তাকে ঘর হতে বের করে দিবে না।
+। হাকীম ইবনু মু‘আবিয়াহ আল-কুশাইরী (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, একদা আমি বলি, হে আল্লাহর রাসূল! আমাদের কারো উপর তার স্ত্রীর কি হক রয়েছে? তিনি বললেনঃ তুমি যখন আহার করবে তাকেও আহার করাবে। তুমি পোশাক পরিধান করলে তাকেও পোশাক দিবে। তার মুখমন্ডলে মারবে না, তাকে গালমন্দ করবে না এবং পৃথক রাখতে হলে ঘরের মধ্যেই রাখবে।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2142</td></tr><tr><td>Arabic No</td><td>2142</td></tr><tr><td>Reference</td><td>Book 12 Hadith 97</td></tr></tbody></table></div>
 

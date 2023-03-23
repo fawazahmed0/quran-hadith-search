@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ গাসসান আল মিসমাঈ (রহঃ) ..... আবূ সাঈদ আল খুদরী (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, কোন স্ত্রীলোক যেন তিন দিনের দূরত্বের পথ একাকী সফর না করেন- তার সাথে একজন মাহরাম পুরুষ ব্যতীত। (ইসলামিক ফাউন্ডেশন ৩১৩০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3261</td></tr><tr><td>Arabic No</td><td>827.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 468</td></tr></tbody></table></div>
 

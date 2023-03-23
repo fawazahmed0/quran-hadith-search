@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) বলেছেন যে, উহূদের যুদ্ধের দিন ভোরে কিছু লোক মদ পান করেছিলেন এবং সেদিন তাঁরা সবাই শহীদ হয়েছেন। এই মদ্যপানের ঘটনা ছিল তা হারাম হওয়ার আগের ঘটনা। [২৮১৫] (আধুনিক প্রকাশনীঃ ৪২৫৭, ইসলামিক ফাউন্ডেশনঃ ৪২৬০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) বলেছেন যে, উহূদের যুদ্ধের দিন ভোরে কিছু লোক মদ পান করেছিলেন এবং সেদিন তাঁরা সবাই শহীদ হয়েছেন। এই মদ্যপানের ঘটনা ছিল তা হারাম হওয়ার আগের ঘটনা। [২৮১৫] (আধুনিক প্রকাশনীঃ ৪২৫৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4618</td></tr><tr><td>Arabic No</td><td>4618</td></tr><tr><td>Reference</td><td>Book 65 Hadith 140</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Shadaqah bin Fadll] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: மக்கள் சிலர், உஹுத் போர் நடந்த நாளின் காலையில் மது அருந்தினர். அன்று அவர்கள் அனைவருமே வீர மரணம் அடைந்தார்கள். இது, மது தடை செய்யப்படுவதற்கு முன்னர் நடந்ததாகும்.15 அத்தியாயம் : 65
+ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: மக்கள் சிலர், உஹுத் போர் நடந்த நாளின் காலையில் மது அருந்தினர். அன்று அவர்கள் அனைவருமே வீர மரணம் அடைந்தார்கள். இது, மது தடை செய்யப்படுவதற்கு முன்னர் நடந்ததாகும்.15 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4618</td></tr><tr><td>Arabic No</td><td>4618</td></tr><tr><td>Reference</td><td>Book 65 Hadith 140</td></tr></tbody></table></div>
 

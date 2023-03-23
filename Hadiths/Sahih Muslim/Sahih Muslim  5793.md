@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৬৮৬, আন্তর্জাতিক নাম্বারঃ ২২২১ ৫৬৮৬-(…/...) আবদুল্লাহ ইবনু আবদুর রহমান দারিমী (রহঃ) ..... যুহরী (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৫৯৯, ইসলামিক সেন্টার ৫৬২৮)
+(…/...) আবদুল্লাহ ইবনু আবদুর রহমান দারিমী (রহঃ) ..... যুহরী (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৫৯৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5793</td></tr><tr><td>Arabic No</td><td>2221.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 145</td></tr></tbody></table></div>
 

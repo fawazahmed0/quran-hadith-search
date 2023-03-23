@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেনঃ পরচুলা লাগার পেশাধারী নারী, যে নিজের মাথায় পরচুলা লাগায়, উল্কি অঙ্কণকারী নারী এবং যে অঙ্কণ করে, আল্লাহর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের লা‘নত করেছেন। [৫৯৩৭] (আধুনিক প্রকাশনী- ৫৫০৭, ইসলামিক ফাউন্ডেশন- ৫৪০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেনঃ পরচুলা লাগার পেশাধারী নারী, যে নিজের মাথায় পরচুলা লাগায়, উল্কি অঙ্কণকারী নারী এবং যে অঙ্কণ করে, আল্লাহর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের লা‘নত করেছেন। [৫৯৩৭] (আধুনিক প্রকাশনী- ৫৫০৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5940</td></tr><tr><td>Arabic No</td><td>5940</td></tr><tr><td>Reference</td><td>Book 77 Hadith 155</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad] telah menceritakan kepada kami ['Abdah] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒட்டுமுடி வைத்துவிடுபவளையும் ஒட்டுமுடி வைத்துக் கொள்பவளையும் பச்சை குத்திவிடுபவளையும் பச்சை குத்திக்கொள்பவளையும் சபித்தார்கள். அத்தியாயம் : 77
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒட்டுமுடி வைத்துவிடுபவளையும் ஒட்டுமுடி வைத்துக் கொள்பவளையும் பச்சை குத்திவிடுபவளையும் பச்சை குத்திக்கொள்பவளையும் சபித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5940</td></tr><tr><td>Arabic No</td><td>5940</td></tr><tr><td>Reference</td><td>Book 77 Hadith 155</td></tr></tbody></table></div>
 

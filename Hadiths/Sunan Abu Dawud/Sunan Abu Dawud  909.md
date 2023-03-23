@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনে সালেহ (রহঃ) .... আবু যর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন, বান্দা নামাযের মধ্যে যতক্ষণ এদিক-ওদিক দৃষ্টিপাত করবে না, ততক্ষণ পর্যন্ত আল্লাহর দৃষ্টি তার দিকে থাকবে। অপর দিকে যখন সে এদিক ওদিক খেয়াল করবে, তখন আল্লাহও তাঁর দৃষ্টি ফিরিয়ে নিবেন। (বুখারী, নাসাঈ)।
+। আবূ যার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাতের মধ্যে বান্দা যতক্ষণ পর্যন্ত এদিক সেদিক না তাকায়, ততক্ষণ পর্যন্ত মহান আল্লাহর দৃষ্টি তার দিকে থাকে (বা আল্লাহ তার সামনেই থাকেন)। পক্ষান্তরে যখন সে এদিক সেদিক তাকায়, তখন মহান আল্লাহ তার থেকে দৃষ্টি ফিরিয়ে নেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>909</td></tr><tr><td>Reference</td><td>Book 2 Hadith 520</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Zer (r.a.) demiştir ki: Resûlullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kul namazında iken (yüzüyle) sağa-sola dönmediği müddetçe Allah Teâla da (rahmet nazarıyla) ona yönelmeye devam eder, (yüzüyle) sağa-sola dönecek olursa, (Allah da) ona yönelmekten vazgeçer." Diğer tahric: Nesâî, sehv; Dârimî, salât; Ahmed b. Hanbel, V, 172
+Ebû Zer (r.a.) demiştir ki: Resûlullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kul namazında iken (yüzüyle) sağa-sola dönmediği müddetçe Allah Teâla da (rahmet nazarıyla) ona yönelmeye devam eder, (yüzüyle) sağa-sola dönecek olursa, (Allah da) ona yönelmekten vazgeçer." Diğer tahric: Nesâî, sehv; Dârimî, salât; Ahmed b. Hanbel, V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>909</td></tr><tr><td>Reference</td><td>Book 2 Hadith 520</td></tr></tbody></table></div>
 

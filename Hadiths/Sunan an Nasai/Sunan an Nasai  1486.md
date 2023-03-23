@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইবরাহীম ইবনু ইয়াকুব (রহঃ) ... কাবীসা ইবনু মুখারিক হিলালী (রাঃ) থেকে বর্ণিত। তিনি বলেন, একবার সূর্যগ্রহণ লেগে গেল। তখন আমরা রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে মদীনায় ছিলাম। তখন তিনি ভীত সন্ত্রস্ত হয়ে কাপড় সামলাতে সামলাতে বের হলেন। তারপর দু’রাকআত সালাত আদায় করলেন এবং তা এত দীর্ঘায়িত করলেন যে, তার সালাত সমাপ্তির সাথে সাথে সূর্যের আলো বিকশিত হয়ে গেল। তারপর আল্লাহ তা'আলার প্রশংসা ও তারীফ করলেন। তারপর বললেন যে, চন্দ্র-সূর্য আল্লাহর নিদর্শন সমূহের দু'টি নিদর্শন। নিশ্চয়ই কারো জন্ম মৃত্যুর কারণে তাদের গ্রহণ হয় না। অতএব তোমরা যখন তার কোন চিহ্ন দেখতে পাও, তখন সালাত আদায় কর তোমাদের সালাত আদায়কৃত ফরয সালাতের ন্যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1486</td></tr><tr><td>Arabic No</td><td>1486</td></tr><tr><td>Reference</td><td>Book 16 Hadith 28</td></tr></tbody></table></div>
 

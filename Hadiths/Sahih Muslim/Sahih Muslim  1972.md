@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৮৫৭, আন্তর্জাতিক নাম্বারঃ ৮৫২ ১৮৫৭-(.../...) হুমায়দ ইবনু মাস'আদাহ আল বাহিলী (রহঃ) ... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আবূল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন ... পূর্বোক্ত হাদীসের অনুরূপ।
+হুমায়দ ইবনু মাস'আদাহ আল বাহিলী (রহঃ) ... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আবূল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন ... পূর্বোক্ত হাদীসের অনুরূপ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1972</td></tr><tr><td>Arabic No</td><td>852.04</td></tr><tr><td>Reference</td><td>Book 7 Hadith 22</td></tr></tbody></table></div>
 

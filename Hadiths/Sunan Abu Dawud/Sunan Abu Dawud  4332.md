@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইব্‌ন ইবরাহীম (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ হাররার ঘটনার দিন থেকে (অর্থ্যাৎ ইয়াযীদের সৈন্যদল যেদিন মদীনায় প্রবেশ করে); ইব্‌ন সাইয়াদ আমাদের কাছ থেকে হারিয়ে গেছে।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা ইবনু সাইয়্যাদকে হারবার যুদ্ধের দিন হারিয়ে ফেলেছি।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4332</td></tr><tr><td>Arabic No</td><td>4332</td></tr><tr><td>Reference</td><td>Book 39 Hadith 42</td></tr></tbody></table></div>
 

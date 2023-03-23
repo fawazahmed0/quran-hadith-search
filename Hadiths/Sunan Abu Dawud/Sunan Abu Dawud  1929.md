@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাসীর (রহঃ) ..... আবদুল্লাহ্ ইবন মালিক (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি ইবন উমরের সাথে (মুযদালিফায়) মাগরিবের নামায তিন রাকাত এবং এশার নামায দু‘রাক‘আত আদায় করি। তখন মালিক ইবন হারিস (রহঃ) তাঁকে জিজ্ঞাসা করেন, এ কিরূপ নামায? জবাবে তিনি বলেন, আমি নামাযদ্বয়কে এ স্থানে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে একই ইকামতের সাথে আদায় করেছি।
+। ‘আব্দুল্লাহ ইবনু মালিক (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমি ইবনু ‘উমার (রাযি.)-এর সাথে মাগরিবের তিন এবং ‘ইশার দুই রাক‘আত সালাত আদায় করেছি। মালিক ইবনুল হারিস (রহ.) তাকে বললেন, এ আবার কেমন সালাত? তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে আমি এ দুটি সালাত এই স্থানে এক ইকামাতে আদায় করেছি।[1] সহীহ ‘‘প্রত্যেক সালাত’’ অতিরিক্তসহ। যেমন পূর্বের হাদীসে রয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 209</td></tr></tbody></table></div>
 

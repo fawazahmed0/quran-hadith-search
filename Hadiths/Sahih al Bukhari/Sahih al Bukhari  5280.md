@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি তাকে অর্থাৎ বারীরার স্বামীকে ক্রীতদাস অবস্থায় দেখেছি। [৫২৮১, ৫২৮২, ৫২৮৩] আধুনিক প্রকাশনী- ৪৮৯২, ইসলামিক ফাউন্ডেশন- ৪৭৮৭
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি তাকে অর্থাৎ বারীরার স্বামীকে ক্রীতদাস অবস্থায় দেখেছি। [৫২৮১, ৫২৮২, ৫২৮৩] আধুনিক প্রকাশনী- ৪৮৯২, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>5280</td></tr><tr><td>Reference</td><td>Book 68 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Walid] Telah menceritakan kepada kami [Syu'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (ஆயிஷா (ரலி) அவர்களால் விடுதலை செய்யப்பட்ட) பரீராவின் கணவர் ஓர் அடிமையாக இருந்ததை நான் பார்த்தேன். அத்தியாயம் : 68
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (ஆயிஷா (ரலி) அவர்களால் விடுதலை செய்யப்பட்ட) பரீராவின் கணவர் ஓர் அடிமையாக இருந்ததை நான் பார்த்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>5280</td></tr><tr><td>Reference</td><td>Book 68 Hadith 29</td></tr></tbody></table></div>
 

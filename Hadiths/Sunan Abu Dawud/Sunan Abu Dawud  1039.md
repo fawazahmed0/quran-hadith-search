@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন ইয়াইয়া (রহঃ) ..... ইমরান ইবন হুসায়েন (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একদা নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁদের সাথে নামায আদায়কালে ভুল করেন। অতঃপর তিনি ভুলের জন্য দুটি সিজদা করেন। পরে তাশাহহুদ পাঠ করে সালাম ফিরান। (নাসাঈ, তিরমিযী)।
+। ‘ইমরান ইবনু হুসাইন (রাঃ) সূত্রে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে নিয়ে সালাত আদায়কালে ভুল করেন। ফলে তিনি দু‘টি সাহু সিজদা্ করেন। অতঃপর তাশাহহুদ পড়ে সালাম ফিরান।[1] শায।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>1039</td></tr><tr><td>Reference</td><td>Book 2 Hadith 650</td></tr></tbody></table></div>
 

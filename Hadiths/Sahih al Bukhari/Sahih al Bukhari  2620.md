@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আসমা বিনতে আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর যুগে আমার আম্মা মুশরিক অবস্থায় আমার নিকট এলেন। আমি রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট ফাতওয়া চেয়ে বললাম, তিনি আমার প্রতি খুবই আকৃষ্ট, এমতাবস্থায় আমি কি তার সঙ্গে সদাচরণ করব? তিনি বললেন, হ্যাঁ, তুমি তোমার মায়ের সঙ্গে সদাচরণ কর। (৩১৮৩, ৫৯৭৮, ৫৯৭৯) (মুসলিম ১২/১৪ হাঃ ১০০৩, আহমাদ ২৬৯৮১) (আধুনিক প্রকাশনীঃ ২৪২৮, ইসলামিক ফাউন্ডেশনঃ ২৪৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আসমা বিনতে আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর যুগে আমার আম্মা মুশরিক অবস্থায় আমার নিকট এলেন। আমি রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট ফাতওয়া চেয়ে বললাম, তিনি আমার প্রতি খুবই আকৃষ্ট, এমতাবস্থায় আমি কি তার সঙ্গে সদাচরণ করব? তিনি বললেন, হ্যাঁ, তুমি তোমার মায়ের সঙ্গে সদাচরণ কর। (৩১৮৩, ৫৯৭৮, ৫৯৭৯) (মুসলিম ১২/১৪ হাঃ ১০০৩, আহমাদ ২৬৯৮১) (আধুনিক প্রকাশনীঃ ২৪২৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2620</td></tr><tr><td>Arabic No</td><td>2620</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ubaid bin Isma'il] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அஸ்மா பின்த் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் இணைவைப்பாளராக இருந்த என் தாயார் என்னிடம் வந்தார். நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், ‘‘என் தாயார் (என்னைக் பார்க்க) என்னிடம் ஆசையோடு வந்துள் ளார். என் தாயுடன் உறவைப் பேணி நான் நடந்துகொள்ளலாமா?” என்று தீர்ப்பு கேட்டேன். நபி (ஸல்) அவர்கள், ‘‘ஆம். நீ உன் தாயுடன் உறவைப் பேணி நடந்து கொள்” என்று கூறினார்கள். அத்தியாயம் : 51
+அஸ்மா பின்த் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் இணைவைப்பாளராக இருந்த என் தாயார் என்னிடம் வந்தார். நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம், ‘‘என் தாயார் (என்னைக் பார்க்க) என்னிடம் ஆசையோடு வந்துள் ளார். என் தாயுடன் உறவைப் பேணி நான் நடந்துகொள்ளலாமா?” என்று தீர்ப்பு கேட்டேன். நபி (ஸல்) அவர்கள், ‘‘ஆம். நீ உன் தாயுடன் உறவைப் பேணி நடந்து கொள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2620</td></tr><tr><td>Arabic No</td><td>2620</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ubaid bin Isma'il] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Esma binti Ebi Bekir'den rivayet edilmiştir: Allah Resulü döneminde, annem müşrik olarak (henüz Müslüman değilken) yanıma geldi. Ben de Hz. Nebi'e: "Annem geldi, benim kendisine iyi davranmamı umuyor (kendisine sırt dönüp onu ortada bırakmamdan korkuyor). Ona iyilik edeyim mi?" diye danıştım. Nebi Sallallahu Aleyhi ve Sellem: "Evet, annene iyilik et" buyurdu. Tekrar: 3183, 5978, 5979
+Esma binti Ebi Bekir'den rivayet edilmiştir: Allah Resulü döneminde, annem müşrik olarak (henüz Müslüman değilken) yanıma geldi. Ben de Hz. Nebi'e: "Annem geldi, benim kendisine iyi davranmamı umuyor (kendisine sırt dönüp onu ortada bırakmamdan korkuyor). Ona iyilik edeyim mi?" diye danıştım. Nebi Sallallahu Aleyhi ve Sellem: "Evet, annene iyilik et" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2620</td></tr><tr><td>Arabic No</td><td>2620</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
 

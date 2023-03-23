@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০৭৯। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মু'মিন ব্যক্তির রূহ ঋণ পরিশোধ না করা পর্যন্ত তার ঋণের সাথে বন্ধক থাকে। — সহীহ, পূর্বের হাদীসের কারণে এ হাদীসটিকে আবু ঈসা হাসান বলেছেন। পূর্বোক্ত হাদীসের তুলনায় এটা বেশি সহীহ।
+। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মু'মিন ব্যক্তির রূহ ঋণ পরিশোধ না করা পর্যন্ত তার ঋণের সাথে বন্ধক থাকে। — সহীহ, পূর্বের হাদীসের কারণে এ হাদীসটিকে আবু ঈসা হাসান বলেছেন। পূর্বোক্ত হাদীসের তুলনায় এটা বেশি সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 10 Hadith 115</td></tr></tbody></table></div>
 

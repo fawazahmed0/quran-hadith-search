@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-قَالَهُ عِتْبَانُ بْنُ مَالِكٍ عَنِ النَّبِيِّ صلى الله عليه وسلم. ‘ইতবান ইবনু মালিক (রাযি.) বিষয়টি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উল্লেখ করেছেন। ১১৭৮. আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমার খলীল ও বন্ধু (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ) আমাকে তিনটি কাজের ওসিয়্যাত (বিশেষ আদেশ) করেছেন, মৃত্যু পর্যন্ত তা আমি পরিত্যাগ করব না। (তা হল) (১) প্রতি মাসে তিন দিন সিয়াম, (২) সালাতুয্-যুহা এবং (৩) বিতর (সালাত) আদায় করে শয়ন করা। (১৯৮১; মুসলিম ৬/১৩, হাঃ ৭২১) (আধুনিক প্রকাশনীঃ ১১০৩, ইসলামিক ফাউন্ডেশনঃ ১১০৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+قَالَهُ عِتْبَانُ بْنُ مَالِكٍ عَنِ النَّبِيِّ صلى الله عليه وسلم. ‘ইতবান ইবনু মালিক (রাযি.) বিষয়টি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উল্লেখ করেছেন। ১১৭৮. আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমার খলীল ও বন্ধু (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ) আমাকে তিনটি কাজের ওসিয়্যাত (বিশেষ আদেশ) করেছেন, মৃত্যু পর্যন্ত তা আমি পরিত্যাগ করব না। (তা হল) (১) প্রতি মাসে তিন দিন সিয়াম, (২) সালাতুয্-যুহা এবং (৩) বিতর (সালাত) আদায় করে শয়ন করা। (১৯৮১; মুসলিম ৬/১৩, হাঃ ৭২১) (আধুনিক প্রকাশনীঃ ১১০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1178</td></tr><tr><td>Arabic No</td><td>1178</td></tr><tr><td>Reference</td><td>Book 19 Hadith 56</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஒவ்வொரு மாதமும் மூன்று நாட்கள் நோன்பு நோற்பது, (இரண்டு ரக்அத்கள்) ‘ளுஹா’ தொழுகை தொழுவது, வித்ர் தொழுதுவிட்டு உறங்குவது ஆகிய மூன்று விஷயங்களை என் உற்ற தோழர் (நபி (ஸல்) அவர்கள்) எனக்கு அறிவுறுத்தினார் கள். அவற்றை நான் இறக்கும்வரை கை விடமாட்டேன். அத்தியாயம் : 19
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஒவ்வொரு மாதமும் மூன்று நாட்கள் நோன்பு நோற்பது, (இரண்டு ரக்அத்கள்) ‘ளுஹா’ தொழுகை தொழுவது, வித்ர் தொழுதுவிட்டு உறங்குவது ஆகிய மூன்று விஷயங்களை என் உற்ற தோழர் (நபி (ஸல்) அவர்கள்) எனக்கு அறிவுறுத்தினார் கள். அவற்றை நான் இறக்கும்வரை கை விடமாட்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1178</td></tr><tr><td>Arabic No</td><td>1178</td></tr><tr><td>Reference</td><td>Book 19 Hadith 56</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre radiyallahu anh şöyle demiştir: Dostum (Resûlullah s.a.v.) bana üç şeyi tavsiye etti, ben ölünceye kadar bunları bırakmam: Her ay'dan üç gün oruç tutmak, kuşluk namazı kılmak, vitir namazını kılınca uyumak. (Yani vitri kılmadan uyumamak) Tekrar: 1981
+Ebu Hureyre radiyallahu anh şöyle demiştir: Dostum (Resûlullah s.a.v.) bana üç şeyi tavsiye etti, ben ölünceye kadar bunları bırakmam: Her ay'dan üç gün oruç tutmak, kuşluk namazı kılmak, vitir namazını kılınca uyumak. (Yani vitri kılmadan uyumamak) Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1178</td></tr><tr><td>Arabic No</td><td>1178</td></tr><tr><td>Reference</td><td>Book 19 Hadith 56</td></tr></tbody></table></div>
 

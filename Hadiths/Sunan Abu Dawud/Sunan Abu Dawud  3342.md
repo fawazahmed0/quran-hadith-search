@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ (রহঃ) ..... আবূ মূসা আশ'আরী (রাঃ) তাঁর পিতা সূত্রে বর্ণনা করেছেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয় কবীরা গুনাহের পর আল্লাহ্‌ তা’আলার নিকট সব চাইতে বড় গুনাহ হলো, যে সমস্ত গুনাহ হতে আল্লাহ্‌ নিষেধ করেছেন, কোন ব্যক্তির মৃত্যুর পর আল্লাহ্‌র সঙ্গে এ অবস্থায় সাক্ষাৎ করা যে, তার উপর কিছু দেনা থাকবে, আর সে ব্যক্তি তা পরিশোধের জন্য কিছু রেখে যাবে না।
+। আবূ বুরদাহ ইবনু মূসা আল-আশ‘আরী (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর নিকট নিষিদ্ধ কবীরাহ গুনাহসমূহের পরে সবচেয়ে বড় গুনাহ হলো, কোনো ব্যক্তি ঋণগ্রস্ত অবস্থায় মৃত্যুবরণ করে আল্লাহর দরবারে উপস্থিত হওয়া এবং এই ঋণ পরিশোধের কোনো ব্যবস্থা না করে যাওয়া।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3342</td></tr><tr><td>Arabic No</td><td>3342</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
 

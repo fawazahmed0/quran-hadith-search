@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন ইউনুস (রহঃ) .... আব্দুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অতি সত্তর তোমরা অনারব দেশের উপর বিজয়ী হবে এবং তোমরা সেখানে এমন অনেক ঘর পাবে যাকে হাম্মাম বলা হয়। সেখানে পুরুষেরা লুঙ্গী ছাড়া প্রবেশ করবে না এবং মহিলাদের সেখানে যেতে নিষেধ করবে। অবশ্য যারা অসুস্থ বা প্রসূতি, তাদের কথা স্বতন্ত্র। (অর্থাৎ প্রয়োজনে তারা সেখানে যেতে পারবে।)
+। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ শীঘ্রই তোমাদের হাতে অনারবদের বহু অঞ্চল বিজিত হবে এবং সেখানে তোমরা এমন কতগুলো ঘর দেখবে যেগুলোকে গণ-গোসলখানা বলা হয়। লুঙ্গি-পায়জামা ছাড়া কোনো পুরুষ যেন তাতে প্রবেশ না করে এবং পীড়িতা ও নেফাসগ্রস্তা ছাড়া অন্য মহিলাদের তাতে প্রবেশ করতে তোমরা নিষেধ করো।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>4011</td></tr><tr><td>Reference</td><td>Book 33 Hadith 3</td></tr></tbody></table></div>
 

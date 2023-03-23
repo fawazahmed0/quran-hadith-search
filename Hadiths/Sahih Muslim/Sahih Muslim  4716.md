@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬১০, আন্তর্জাতিক নাম্বারঃ ১৬৫২ ৪৬১০-(.../...) ইয়াহইয়া ইবনু ইয়াহইয়া, আলী ইবনু হুজর সাদী, আবূ কামিল জাহদারী ..... আবদুর রহমান ইবনু সামুরাহ (রাযিঃ) এর সূত্রেও অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৪৫৬৫, ইসলামিক সেন্টার ৪৫৬৮)
+ইয়াহইয়া ইবনু ইয়াহইয়া, আলী ইবনু হুজর সাদী, আবূ কামিল জাহদারী ..... আবদুর রহমান ইবনু সামুরাহ (রাযিঃ) এর সূত্রেও অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৪৫৬৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4716</td></tr><tr><td>Arabic No</td><td>1652.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 16</td></tr></tbody></table></div>
 

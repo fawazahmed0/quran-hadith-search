@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘দ তাঁর পিতা হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি প্রত্যেকদিন সকালবেলায় সাতটি আজওয়া উৎকৃষ্ট খেজুর খাবে, সেদিন কোন বিষ ও যাদু তার ক্ষতি করবে না। [৫৭৬৮, ৫৭৬৯, ৫৭৭৯] (আধুনিক প্রকাশনী- ৫০৪২, ইসলামিক ফাউন্ডেশন- ৪৯৩৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘দ তাঁর পিতা হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি প্রত্যেকদিন সকালবেলায় সাতটি আজওয়া উৎকৃষ্ট খেজুর খাবে, সেদিন কোন বিষ ও যাদু তার ক্ষতি করবে না। [৫৭৬৮, ৫৭৬৯, ৫৭৭৯] (আধুনিক প্রকাশনী- ৫০৪২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5445</td></tr><tr><td>Arabic No</td><td>5445</td></tr><tr><td>Reference</td><td>Book 70 Hadith 74</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Jum'ah bin Abdullah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தினந்தோறும் காலையில் (வெறும் வயிற்றில்) ஏழு ‘அஜ்வா’ (ரகப்) பேரீச்சம் பழங்களைச் சாப்பிடுகின்றவருக்கு, அந்த நாள் எந்த விஷமும் இடரளிக்காது; எந்தச் சூனியமும் அவருக்கு இடையூறு செய்யாது. இதை சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 70
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தினந்தோறும் காலையில் (வெறும் வயிற்றில்) ஏழு ‘அஜ்வா’ (ரகப்) பேரீச்சம் பழங்களைச் சாப்பிடுகின்றவருக்கு, அந்த நாள் எந்த விஷமும் இடரளிக்காது; எந்தச் சூனியமும் அவருக்கு இடையூறு செய்யாது. இதை சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5445</td></tr><tr><td>Arabic No</td><td>5445</td></tr><tr><td>Reference</td><td>Book 70 Hadith 74</td></tr></tbody></table></div>
 

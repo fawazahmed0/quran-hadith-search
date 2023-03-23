@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি আল্লাহর বাণী, وَلَا يَعْصِيْنَكَ فِيْ مَعْرُوْفٍ -এর ব্যাখ্যায় বলেন যে, এটা একটা শর্ত, যা আল্লাহ্ তা‘আলা নারীদের প্রতি আরোপ করেছেন। (আধুনিক প্রকাশনীঃ ৪৫২৫, ইসলামিক ফাউন্ডেশনঃ ৪৫২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি আল্লাহর বাণী, وَلَا يَعْصِيْنَكَ فِيْ مَعْرُوْفٍ -এর ব্যাখ্যায় বলেন যে, এটা একটা শর্ত, যা আল্লাহ্ তা‘আলা নারীদের প্রতি আরোপ করেছেন। (আধুনিক প্রকাশনীঃ ৪৫২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>4893</td></tr><tr><td>Reference</td><td>Book 65 Hadith 413</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இக்ரிமா (ரஹ்) அவர்கள் கூறியதாவது: ‘‘எந்த ஒரு நற்செயலிலும், (நபியே!) உமக்கு அவர்கள் மாறு செய்ய மாட்டார்கள்” எனும் (60:12ஆவது) இறைவசனத்தி(ன், விளக்கவுரையி)ல், ‘‘இதுவும் பெண்கள்மீது அல்லாஹ் விதித்த நிபந்தனைகளில் ஒன்றாகும்’ என இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறினார்கள்.4 அத்தியாயம் : 65
+இக்ரிமா (ரஹ்) அவர்கள் கூறியதாவது: ‘‘எந்த ஒரு நற்செயலிலும், (நபியே!) உமக்கு அவர்கள் மாறு செய்ய மாட்டார்கள்” எனும் (60:12ஆவது) இறைவசனத்தி(ன், விளக்கவுரையி)ல், ‘‘இதுவும் பெண்கள்மீது அல்லாஹ் விதித்த நிபந்தனைகளில் ஒன்றாகும்’ என இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறினார்கள்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>4893</td></tr><tr><td>Reference</td><td>Book 65 Hadith 413</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬৮১। সামুরা ইবনু জুনদাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অন্য কারো নিকটে হাত পাতাটা ক্ষতের সমতুল্য (হীন ও শ্রান্তিকর)। সাহায্য প্রার্থী নিজের মুখমণ্ডলকে এর দ্বারা ক্ষতবিক্ষত (লাঞ্ছিত) করে। কিন্তু শাসকের নিকটে কোন কিছু চাওয়া বা যে লোকের হাত পাতা ব্যতীত আর কোন উপায় নেই তার কথা ভিন্ন। -সহীহ তা’লীকুর রাগীব (২/২) এ হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন।
+। সামুরা ইবনু জুনদাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অন্য কারো নিকটে হাত পাতাটা ক্ষতের সমতুল্য (হীন ও শ্রান্তিকর)। সাহায্য প্রার্থী নিজের মুখমণ্ডলকে এর দ্বারা ক্ষতবিক্ষত (লাঞ্ছিত) করে। কিন্তু শাসকের নিকটে কোন কিছু চাওয়া বা যে লোকের হাত পাতা ব্যতীত আর কোন উপায় নেই তার কথা ভিন্ন। -সহীহ তা’লীকুর রাগীব (২/২) এ হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>681</td></tr><tr><td>Arabic No</td><td>681</td></tr><tr><td>Reference</td><td>Book 7 Hadith 65</td></tr></tbody></table></div>
 

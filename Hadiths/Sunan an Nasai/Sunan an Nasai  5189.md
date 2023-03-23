@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আহমাদ ইবন সুলায়মান (রহঃ) ... বারা ইবন আযিব (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এক ব্যক্তি সোনার আংটি হাতে পরে বসা ছিল। আর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর হাতে ছিল একটি ছড়ি। তিনি ঐ ছড়ি দিয়ে তার আঙ্গুলে আঘাত করলেন। তখন ঐ ব্যক্তি বললোঃ ইয়া রাসূলাল্লাহ্! আমি কি অপরাধ করেছি? তিনি বললেনঃ শোন, তোমার আঙ্গুল হতে এটা খুলে ফেল। ঐ ব্যক্তি তা খুলে ফেলে দিল। পরে তিনি তাকে দেখে জিজ্ঞাসা করলেনঃ তোমার আংটি কোথায়? লোকটি বললোঃ আমি তা ফেলে দিয়েছি। তিনি বললেনঃ আমি তোমাকে তা ফেলে দিতে বলিনি। আমি বলেছিলাম, তুমি তা বিক্রি করে নিজের কাজে লাগাও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5189</td></tr><tr><td>Arabic No</td><td>5189</td></tr><tr><td>Reference</td><td>Book 48 Hadith 150</td></tr></tbody></table></div>
 

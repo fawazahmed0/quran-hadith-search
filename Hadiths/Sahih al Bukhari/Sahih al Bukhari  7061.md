@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সময় নিকটতর হতে থাকবে, আর ‘আমল কমে যেতে থাকবে, কৃপণতা ছড়িয়ে দেয়া হবে, ফিতনার বিকাশ ঘটবে এবং হারজ ব্যাপকতর হবে। সহাব-ই-কিরাম জিজ্ঞেস করলেন, হারজ সেটা কী? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, হত্যা, হত্যা। [৮৫] শু‘আয়ব, ইউনুস, লায়স এবং যুহরীর ভ্রাতুষ্পুত্র আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এ হাদীসটি বর্ণনা করেছেন। (আধুনিক প্রকাশনী- ৬৫৭০, ইসলামিক ফাউন্ডেশন- ৬৫৮৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সময় নিকটতর হতে থাকবে, আর ‘আমল কমে যেতে থাকবে, কৃপণতা ছড়িয়ে দেয়া হবে, ফিতনার বিকাশ ঘটবে এবং হারজ ব্যাপকতর হবে। সহাব-ই-কিরাম জিজ্ঞেস করলেন, হারজ সেটা কী? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, হত্যা, হত্যা। [৮৫] শু‘আয়ব, ইউনুস, লায়স এবং যুহরীর ভ্রাতুষ্পুত্র আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এ হাদীসটি বর্ণনা করেছেন। (আধুনিক প্রকাশনী- ৬৫৭০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7061</td></tr><tr><td>Arabic No</td><td>7061</td></tr><tr><td>Reference</td><td>Book 92 Hadith 13</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:The Prophet (ﷺ) said, "Time will pass rapidly, good deeds will decrease, miserliness will be thrown (in the hearts of the people) afflictions will appear and there will be much 'Al-Harj." They said, "O Allah's Apostle! What is "Al-Harj?" He said, "Killing! Killing!" (See Hadith No. 63, Vol. 8)
+Narrated Abu Huraira:The Prophet (ﷺ) said, "Time will pass rapidly, good deeds will decrease, miserliness will be thrown (in the hearts of the people) afflictions will appear and there will be much 'Al-Harj." They said, "O Allah's Apostle! What is "Al-Harj?" He said, "Killing! Killing!" (See Hadith No. 63, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7061</td></tr><tr><td>Arabic No</td><td>7061</td></tr><tr><td>Reference</td><td>Book 92 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ayyasy bin Al Walid] Telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “(மறுமை நாள் நெருங்கும்போது) காலம் சுருங்கிவிடும்; செயல்பாடு (அமல்) குறைந்து போய் விடும்; மக்களின் உள்ளங்களில் (பேராசையின் விளைவாக) கருமித்தனம் உருவாக்கப்பட்டுவிடும். குழப்பங்கள் தோன்றும். ‘ஹர்ஜ்’ பெருகிவிடும்” என்று கூறினார்கள். மக்கள், “அல்லாஹ்வின் தூதரே! அது என்ன (ஹர்ஜ்)?” என்று கேட்டார்கள். நபி (ஸல்) அவர்கள், “கொலை, கொலை” என்று பதிலளித்தார்கள். இந்த ஹதீஸ் ஐந்து அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 92
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “(மறுமை நாள் நெருங்கும்போது) காலம் சுருங்கிவிடும்; செயல்பாடு (அமல்) குறைந்து போய் விடும்; மக்களின் உள்ளங்களில் (பேராசையின் விளைவாக) கருமித்தனம் உருவாக்கப்பட்டுவிடும். குழப்பங்கள் தோன்றும். ‘ஹர்ஜ்’ பெருகிவிடும்” என்று கூறினார்கள். மக்கள், “அல்லாஹ்வின் தூதரே! அது என்ன (ஹர்ஜ்)?” என்று கேட்டார்கள். நபி (ஸல்) அவர்கள், “கொலை, கொலை” என்று பதிலளித்தார்கள். இந்த ஹதீஸ் ஐந்து அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7061</td></tr><tr><td>Arabic No</td><td>7061</td></tr><tr><td>Reference</td><td>Book 92 Hadith 13</td></tr></tbody></table></div>
 

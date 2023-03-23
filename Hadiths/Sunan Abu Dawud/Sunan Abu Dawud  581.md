@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবনু আরাদ ..... সালামা বিনতুল হুর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে বলতে শুনেছিঃ কিয়ামতের নিদর্শনাবলীর মধ্যে এও একটি যে, যখন মসজিদের মুসল্লীগণ সকলেই নামাযের জন্য ইমামতি করতে রাযী না হওয়ায় পরিস্থিতি এমন হবে যে, কাউকেও ইমামতি করার যোগ্য হিসেবে পাওয়া যাবে না (আখেরী যামানায় তা লোকদের অজ্ঞতার কারণে হবে)। (ইবনু মাজাহ)।
+। খারাশাহ ইবনুল হুর আল-ফাযারীর বোন সাল­ামাহ বিনতুল হুর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ কিয়ামতের একটি নিদর্শন এটাও যে, মসজিদের বাসিন্দারা ইমামতির জন্য একে অপরের অনুরোধ প্রত্যাখ্যান করবে। পরিস্থিতি এমন হবে যে, তাদের সালাত আদায় করাবার মত কোন (যোগ্য) ইমাম তারা পাবে না। [1] দুর্বল : মিশকাত ১১২৪।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>581</td></tr><tr><td>Arabic No</td><td>581</td></tr><tr><td>Reference</td><td>Book 2 Hadith 191</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Harun bin Abbad Al-Azdi] telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Haraşeb. el-Hurri'I-Fezarî'nin kız kardeşi Sellame binti'l-Hurr dedi ki; Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim: "Kendilerine namaz kıldıracak imam bulamayarak, cemaatın biri birlerini öne itmeleri kıyametin alametlerindendir" Diğer tahric: İbn Mace, ikame; Ahmed b. Hanbel, VI, 281
+Haraşeb. el-Hurri'I-Fezarî'nin kız kardeşi Sellame binti'l-Hurr dedi ki; Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim: "Kendilerine namaz kıldıracak imam bulamayarak, cemaatın biri birlerini öne itmeleri kıyametin alametlerindendir" Diğer tahric: İbn Mace, ikame; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>581</td></tr><tr><td>Arabic No</td><td>581</td></tr><tr><td>Reference</td><td>Book 2 Hadith 191</td></tr></tbody></table></div>
 

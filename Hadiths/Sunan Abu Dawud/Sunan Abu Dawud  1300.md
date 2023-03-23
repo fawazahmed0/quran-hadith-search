@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবু বাকর ইবন আবুল আসওয়াদ (রহঃ) ..... কা’ব ইবন উজরা (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনী আবদুল আশহালের মসজিদে মাগরিবের নামায আদায় করেন। তিনি এসে নামায শেষে তাদের দেখতে পান যে, তাঁরা আরো নামায আদায় করছে। এতদ্দর্শনে তিনি বলেনঃ এটা (সুন্নাত) তো গৃহে আদায় করার নামায। -(তিরমিযী, ইবন মাজা)
+। সা‘দ ইবনু ইসহাক ইবনু কা‘ব ইবনু ‘উজরাহ (রহঃ) তাঁর পিতা হতে, তিনি তাঁর দাদার সূত্রে বর্ণনা করেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনী ‘আবদুল আশহালের মসজিদে এসে সেখানে মাগরিবের সালাত আদায়ের পর দেখলেন, সালাত শেষে লোকেরা সেখানেই (সুন্নাত) সালাত আদায় করছে। তখন তিনি বললেনঃ এটাতো ঘরের সালাত।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1300</td></tr><tr><td>Arabic No</td><td>1300</td></tr><tr><td>Reference</td><td>Book 5 Hadith 51</td></tr></tbody></table></div>
 

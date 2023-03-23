@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহইয়া ইবন খালফ (রহঃ) .... আতা (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ (জাহিলী যুগে) লোকেরা এরূপ বলাবলি করতো যে, ‘সফর’ হলো পেট ব্যথা, (অর্থাৎ এ মাসে সাধারণতঃ পেট- ব্যথার অসুখ হয়।) রাবী ইবন জারীহ (রহঃ) বলেন, আমি জিজ্ঞাসা করলাম ‘হামা’ কি? তিনি বলেনঃ লোকেরা বলতো ‘হামা’ হলো মৃত ব্যক্তির আত্মা। কিন্তু তা মৃত ব্যক্তির আত্মা নয়, বরং তা হলো একটি প্রাণী, যাকে লোকেরা পেঁচা বলে থাকে।
+। ‘আতা (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, লোকেরা বলতো, সফর মাস পেটের ব্যথার মাস। আমি বললাম, ‘হামা’ কি? তিনি বলেন, লোকেরা বলতো, হামা হলো দাফনকৃত লাশের চিৎকারকারী আত্মা। আসলে এটা মানুষের প্রেতাত্মা নয়, বরং একটি প্রাণী।[1] সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3918</td></tr><tr><td>Arabic No</td><td>3918</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
 

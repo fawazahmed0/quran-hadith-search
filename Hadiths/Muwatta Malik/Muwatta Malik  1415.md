@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মালিক (রহঃ) বলেনঃ যদি কেহ কোন জন্তুকে নির্যাতন করে তবে যদি ঐ জন্তুর মূল্যের ক্ষতি হয় তবে জরিমানাস্বরূপ তাহাই দিতে হইবে। মালিক (রহঃ) বলেনঃ যদি কোন উট কাহারো উপর আক্রমণ করে এবং সে জান বাঁচানোর জন্য উটকে মারিয়া ফেলে অথবা জখম করে এবং এই হামলার কোন সাক্ষীও তাহার নিকট থাকে তবে তাহার উপর জরিমানা হইবে না। অন্যথায় উটের জরিমানা তাহাকে দিতে হইবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1415</td></tr><tr><td>Arabic No</td><td>1415</td></tr><tr><td>Reference</td><td>Book 36 Hadith 17</td></tr></tbody></table></div>
 

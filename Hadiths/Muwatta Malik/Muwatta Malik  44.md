@@ -62,7 +62,7 @@ Perawi menerangkan; telah menceritakan kepadaku dari Malik dari [Nafi']; Bahwasa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Ömer (r.a.) der ki: Resulullah'ın zamanında erkekler ve kadınlar aynı kab'dan beraber abdest alıyorlardı.[16]
+Abdullah b. Ömer (r.a.) der ki: Resulullah'ın zamanında erkekler ve kadınlar aynı kab'dan beraber abdest alıyorlardı
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Arabic No</td><td>44</td></tr><tr><td>Reference</td><td>Book 2 Hadith 13</td></tr></tbody></table></div>
 

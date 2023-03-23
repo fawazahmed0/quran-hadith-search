@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৩১১, আন্তর্জাতিক নাম্বারঃ ১৬৯১ ৪৩১১-(.../...) আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও ইবনু আবূ উমর (রহঃ) ..... যুহরী (রহঃ) হতে উক্ত সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪২৭২, ইসলামিক সেন্টার ৪২৭২)
+আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও ইবনু আবূ উমর (রহঃ) ..... যুহরী (রহঃ) হতে উক্ত সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪২৭২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4419</td></tr><tr><td>Arabic No</td><td>1691.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
 

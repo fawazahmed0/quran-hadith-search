@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারা’ (রাঃ) হতে বর্ণিত যে, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) মাটি উঠাচ্ছিলেন এবং বলছিলেন, যদি আপনি না হতেন তাহলে আমরা হিদায়াত লাভ করতাম না। (২৮৩৭, ৩০৩৪, ৪১০৪, ৪১০৬, ৬৬২০, ৭২৩৬) (আধুনিক প্রকাশনীঃ ২৬২৬, ইসলামিক ফাউন্ডেশনঃ ২৬৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারা’ (রাঃ) হতে বর্ণিত যে, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) মাটি উঠাচ্ছিলেন এবং বলছিলেন, যদি আপনি না হতেন তাহলে আমরা হিদায়াত লাভ করতাম না। (২৮৩৭, ৩০৩৪, ৪১০৪, ৪১০৬, ৬৬২০, ৭২৩৬) (আধুনিক প্রকাশনীঃ ২৬২৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2836</td></tr><tr><td>Arabic No</td><td>2836</td></tr><tr><td>Reference</td><td>Book 56 Hadith 52</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (அகழ்ப் போருக் காக அகழ் தோண்டியபோது) மண்ணைச் சுமந்து சென்றுகொண்டிருந்தார்கள். அப்போது, ‘‘(இறைவா!)நீ இல்லாவிட்டால்நாங்கள்நல்வழி அடைந்திருக்கமாட்டோம்” என்று (பாடலில்) கூறிக்கொண்டிருந் தார்கள். அத்தியாயம் : 56
+பராஉ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (அகழ்ப் போருக் காக அகழ் தோண்டியபோது) மண்ணைச் சுமந்து சென்றுகொண்டிருந்தார்கள். அப்போது, ‘‘(இறைவா!)நீ இல்லாவிட்டால்நாங்கள்நல்வழி அடைந்திருக்கமாட்டோம்” என்று (பாடலில்) கூறிக்கொண்டிருந் தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2836</td></tr><tr><td>Arabic No</td><td>2836</td></tr><tr><td>Reference</td><td>Book 56 Hadith 52</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bera İbn Azib'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem hendek kazılırken bir taraftan çıkan toprakları taşıyor bir taraftan da: "Allahrm! Sen olmasaydın biz hidayet yolunu bulamazdık!" diyordu. Tekrar: 2837, 3034, 4104, 4106, 6620, 7137
+Bera İbn Azib'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem hendek kazılırken bir taraftan çıkan toprakları taşıyor bir taraftan da: "Allahrm! Sen olmasaydın biz hidayet yolunu bulamazdık!" diyordu. Tekrar: 2837
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2836</td></tr><tr><td>Arabic No</td><td>2836</td></tr><tr><td>Reference</td><td>Book 56 Hadith 52</td></tr></tbody></table></div>
 

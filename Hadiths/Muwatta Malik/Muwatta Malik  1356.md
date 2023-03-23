@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৬৯. আবু মাসউদ আনসারী (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করিয়াছেন কুকুরের মূল্য, ব্যভিচারিণীর মাহর এবং ভবিষ্যদ্বক্তার উৎকোচ হইতে। ইহার অর্থ এই ব্যভিচারিণীর মাহর যাহা তাহাকে ব্যভিচারের বিনিময়ে দেওয়া হয় তাহা, আর (زبزه) ভবিষ্যদ্বক্তার[1] “হুলওয়ান" হইতেছে উহার উৎকোচ যাহা ভাগ্য গণনা করার জন্য তাহাকে দেওয়া হয়। মালিক (রহঃ) বলেনঃ শিকারী এবং অশিকারী উভয় প্রকারের কুকুরের মূল্য হারাম। কারণ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুকুরের মূল্য গ্রহণ করিতে নিষেধ করিয়াছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1356</td></tr><tr><td>Arabic No</td><td>1356</td></tr><tr><td>Reference</td><td>Book 31 Hadith 18</td></tr></tbody></table></div>
 

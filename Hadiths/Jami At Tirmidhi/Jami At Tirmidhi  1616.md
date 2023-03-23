@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৬১৬। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন দরকারে বের হওয়ার সময় (কারো মুখে) হে সঠিক পথের পথিক’, ‘হে সফলকাম’ বাক্য শুনতে পছন্দ করতেন। সহীহ, রাওযুন নায়ীর (৮৬) এ হাদীসটিকে আবূ ঈসা হাসান গারীব সহীহ বলেছেন।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন দরকারে বের হওয়ার সময় (কারো মুখে) হে সঠিক পথের পথিক’, ‘হে সফলকাম’ বাক্য শুনতে পছন্দ করতেন। সহীহ, রাওযুন নায়ীর (৮৬) এ হাদীসটিকে আবূ ঈসা হাসান গারীব সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1616</td></tr><tr><td>Arabic No</td><td>1616</td></tr><tr><td>Reference</td><td>Book 21 Hadith 79</td></tr></tbody></table></div>
 

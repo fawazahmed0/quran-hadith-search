@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। মুহাম্মাদ ইবনু মুহাম্মাদ ইবনু খাল্লাদ আবূ ‘আমর (রহঃ) বলেন, ‘মাককূক খালিদ’ নামে আমাদের একটি মাক্কূক ছিলো। তা ছিলো হারূনুর রশীদের আমলের পরিমাপকের দ্বিগুণ। মুহাম্মাদ (রহঃ) বলেন, খালিদের সা‘ ছিলো হিশাম ইবনু মালিকের সা‘।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3280</td></tr><tr><td>Arabic No</td><td>3280</td></tr><tr><td>Reference</td><td>Book 22 Hadith 39</td></tr></tbody></table></div>
 

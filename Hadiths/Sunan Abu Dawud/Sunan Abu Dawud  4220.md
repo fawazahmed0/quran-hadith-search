@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইব্‌ন ইয়াহ্‌ইয়া (রহঃ) .... ইব্‌ন উমার (রাঃ) এ হাদীছ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। তবে তাতে অতিরিক্ত বর্ণিত আছে যে, তাঁরা সেটি তালাশ করেন, কিন্তু কোন সন্ধান পাননি। এরপর উছমান (রাঃ) একটি আংটি তৈরী করান এবং তাতে “মুহাম্মাদুর রাসূলুল্লাহ্‌” খোদাই করে নেন। তিনি তা পরিধান করতেন এবং তা দিয়ে সীল দিতেন।
+। ইবনু উমার (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে এ সম্পর্কে বর্ণনা করেন, তারা আংটিটি অনুসন্ধান করে পেলেন না। অতঃপর উসমান (রাঃ) আরেকটি আংটি বানান এবং তাতে ‘মুহাম্মাদু রাসূলুল্লাহ’ বাক্য অংকিত করেন। বর্ণনাকারী বলেন, তিনি সেটি আংটি হিসেবে ব্যবহার করতেন অথবা সিল মোহর হিসেবে সরকারী কাজে ব্যবহার করতেন।[1] সনদ দুর্বল মাতান মুনকার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4220</td></tr><tr><td>Arabic No</td><td>4220</td></tr><tr><td>Reference</td><td>Book 36 Hadith 7</td></tr></tbody></table></div>
 

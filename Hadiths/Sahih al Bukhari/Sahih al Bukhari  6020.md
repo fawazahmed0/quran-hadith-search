@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি বললামঃ হে আল্লাহর রাসূল! আমার দু’জন প্রতিবেশী আছে। আমি তাদের কার কাছে হাদিয়া পাঠাব? তিনি বললেনঃ যার দরজা তোমার বেশি কাছে, তার কাছে। [২২৫৯] (আধুনিক প্রকাশনী- ৫৫৮৬, ইসলামিক ফাউন্ডেশন- ৫৪৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি বললামঃ হে আল্লাহর রাসূল! আমার দু’জন প্রতিবেশী আছে। আমি তাদের কার কাছে হাদিয়া পাঠাব? তিনি বললেনঃ যার দরজা তোমার বেশি কাছে, তার কাছে। [২২৫৯] (আধুনিক প্রকাশনী- ৫৫৮৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6020</td></tr><tr><td>Arabic No</td><td>6020</td></tr><tr><td>Reference</td><td>Book 78 Hadith 51</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான், “அல்லாஹ்வின் தூதரே! எனக்கு இரண்டு அண்டை வீட்டார் உள்ளனர். அவர்களில் யாருக்கு நான் அன்பளிப்புச் செய்வது?” என்று கேட்டேன். அதற்கு நபி (ஸல்) அவர்கள், “இருவரில் யாருடைய வீட்டு வாசல் உனக்கு நெருக்கமாக இருக்கிறதோ அவருக்கு” என்று பதிலளித்தார்கள்.37 அத்தியாயம் : 78
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான், “அல்லாஹ்வின் தூதரே! எனக்கு இரண்டு அண்டை வீட்டார் உள்ளனர். அவர்களில் யாருக்கு நான் அன்பளிப்புச் செய்வது?” என்று கேட்டேன். அதற்கு நபி (ஸல்) அவர்கள், “இருவரில் யாருடைய வீட்டு வாசல் உனக்கு நெருக்கமாக இருக்கிறதோ அவருக்கு” என்று பதிலளித்தார்கள்.37 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6020</td></tr><tr><td>Arabic No</td><td>6020</td></tr><tr><td>Reference</td><td>Book 78 Hadith 51</td></tr></tbody></table></div>
 

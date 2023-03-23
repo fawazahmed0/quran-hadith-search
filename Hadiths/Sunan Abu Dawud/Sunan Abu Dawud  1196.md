@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন আমর (রহঃ) ..... উবায়দুল্লাহ ইবন নাদর (রহঃ) তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আনাস (রাঃ) এর সময় একবার আকাশ অন্ধকারচ্ছন্ন হলে আমরা তাঁর নিকট এসে বলি, হে আবু হামযা! রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যুগে কোন সময় এরূপ হয়েছিল কি? তিনি বলেন, আল্লাহ্‌ পানাহ! তাঁর যুগে এমনকি জোরে বাতাস প্রবাহিত হতে দেখলেও আমরা কিয়ামতের আশংকায় দৌড়িয়ে মসজিদে আশ্রয় নিতাম।
+। ‘উবায়দুল্লাহ ইবনুন নাদর (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার পিতা বলেছেন, একদা আনাস ইবনু মালিক (রাঃ) এর সময় একবার (আকাশ) অন্ধকারাচ্ছন্ন হলে আমি আনাস (রাঃ)-এর নিকট এসে জিজ্ঞেস করলাম, হে আবূ হামযাহ! রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যুগে আপনারা কখনো এরূপ বিপদের সম্মুখীন হয়েছিলেন কি? তিনি বললেন, ‘‘আল্লাহ পানাহ! তখন একটু জোরে বাতাস প্রবাহিত হলেই আমরা ক্বিয়ামাত (কিয়ামত) হবার আশংকায় দ্রুত দৌড়িয়ে মসজিদে যেতাম।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1196</td></tr><tr><td>Arabic No</td><td>1196</td></tr><tr><td>Reference</td><td>Book 3 Hadith 36</td></tr></tbody></table></div>
 

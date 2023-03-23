@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৫. মালিক (রহঃ)-এর নিকট রেওয়ায়ত পৌছিয়াছে যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিণী আয়েশা (রাঃ)-এর নিকট আবদুর রহমান ইবন আবু বকর (রাঃ) উপস্থিত হইলেন, যেদিন সা'দ ইবন আবু ওয়াক্কাস (রাঃ) ইন্তিকাল করিয়াছেন সেদিন। তারপর তিনি ওযুর পানি চাহিলেন। আয়েশা (রাঃ) তাহাকে বললেনঃ পূর্ণরূপে ওযু কর, কারণ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলিতে শুনিয়াছি (وَيْلٌ لِلأَعْقَابِ مِنَ النَّارِ) “পায়ের গিটসমূহের জন্য ধ্বংস নরকাগ্নির।”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Arabic No</td><td>35</td></tr><tr><td>Reference</td><td>Book 2 Hadith 4</td></tr></tbody></table></div>
 

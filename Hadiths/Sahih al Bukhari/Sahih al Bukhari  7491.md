@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-অর্থাৎ সত্যএর অর্থ কুরআন খেল-তামাশার বিষয় নয়। ৭৪৯১. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ তা‘আলা বলেন, আমাকে আদম সন্তান কষ্ট দেয়। কারণ তারা সময়কে গালি দেয়। পক্ষান্তরে আমিই দাহর বা কাল। কেননা আমার হাতেই সকল বিষয়। আমিই রাত ও দিনের বিবর্তন ঘটাই। [৪৮২৬] (আধুনিক প্রকাশনী- ৬৯৭৩, ইসলামিক ফাউন্ডেশন- ৬৯৮৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(إِنَّهُ لَقَوْلٌ فَصْلٌ) حَقٌّ (وَمَا هُوَ بِالْهَزْلِ) بِاللَّعِبِ لَقَوْلٌ فَصْلٌ অর্থাৎ সত্য وَمَا هُوَ بِالْهَزْلِ এর অর্থ কুরআন খেল-তামাশার বিষয় নয়। ৭৪৯১. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ্ তা‘আলা বলেন, আমাকে আদম সন্তান কষ্ট দেয়। কারণ তারা সময়কে গালি দেয়। পক্ষান্তরে আমিই দাহর বা কাল। কেননা আমার হাতেই সকল বিষয়। আমিই রাত ও দিনের বিবর্তন ঘটাই। [৪৮২৬] (আধুনিক প্রকাশনী- ৬৯৭৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7491</td></tr><tr><td>Arabic No</td><td>7491</td></tr><tr><td>Reference</td><td>Book 97 Hadith 117</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah said: "The son of Adam hurts Me by abusing Time, for I am Time; in My Hands are all things and I cause the revolution of night and day.' " (See Hadith No. 351, Vol. 6)
+Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah said: "The son of Adam hurts Me by abusing Time, for I am Time; in My Hands are all things and I cause the revolution of night and day.' " (See Hadith No. 351, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7491</td></tr><tr><td>Arabic No</td><td>7491</td></tr><tr><td>Reference</td><td>Book 97 Hadith 117</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: “ஆதமின் மகன் (மனிதன்) என்னைப் புண்படுத்துகின்றான். அவன் காலத்தை ஏசுகின்றான். நானே காலம் (படைத்தவன்) ஆவேன். என் கரத்திலேயே அதிகார மனைத்தும் உள்ளன. நானே இரவையும் பகலையும் மாற்றி மாற்றிக் கொண்டு வருகின்றேன்” என்று உயர்ந்தோன் அல்லாஹ் கூறுகின்றான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.134 அத்தியாயம் : 97
+நபி (ஸல்) அவர்கள் கூறினார்கள்: “ஆதமின் மகன் (மனிதன்) என்னைப் புண்படுத்துகின்றான். அவன் காலத்தை ஏசுகின்றான். நானே காலம் (படைத்தவன்) ஆவேன். என் கரத்திலேயே அதிகார மனைத்தும் உள்ளன. நானே இரவையும் பகலையும் மாற்றி மாற்றிக் கொண்டு வருகின்றேன்” என்று உயர்ந்தோன் அல்லாஹ் கூறுகின்றான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.134 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7491</td></tr><tr><td>Arabic No</td><td>7491</td></tr><tr><td>Reference</td><td>Book 97 Hadith 117</td></tr></tbody></table></div>
 

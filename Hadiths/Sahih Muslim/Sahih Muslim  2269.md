@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২১৫৯, আন্তর্জাতিক নাম্বারঃ ৯৭৯ ২১৫৯-(.../...) আবদ ইবনু হুমায়দ (রহঃ) ..... ইসমাঈল ইবনু উমাইয়্যাহ (রহঃ) থেকে এ সানাদে 'আবদুর রহমান ইবনু মাহদী (রহঃ) এর অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২১৩৮, ইসলামীক সেন্টার ২১৪১)
+আবদ ইবনু হুমায়দ (রহঃ) ..... ইসমাঈল ইবনু উমাইয়্যাহ (রহঃ) থেকে এ সানাদে 'আবদুর রহমান ইবনু মাহদী (রহঃ) এর অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২১৩৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2269</td></tr><tr><td>Arabic No</td><td>979.07</td></tr><tr><td>Reference</td><td>Book 12 Hadith 7</td></tr></tbody></table></div>
 

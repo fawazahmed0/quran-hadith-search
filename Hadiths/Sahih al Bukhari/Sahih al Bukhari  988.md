@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>988</td></tr><tr><td>Arabic No</td><td>988</td></tr><tr><td>Reference</td><td>Book 13 Hadith 36</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னை மறைத்தபடி நிற்க, நான் பள்ளிவாச-ல் (வீர விளையாட்டுக்கள்) விளையாடிக்கொண்டிருந்த அபிசீனியர்களைப் பார்த்துக்கொண்டி ருந்தேன். அப்போது அவர்களை உமர் (ரலி) அவர்கள் அதட்டினார்கள். உடனே நபி (ஸல்) அவர்கள், “(உமரே!) அவர்களை விட்டுவிடுங்கள்” என்று கூறிவிட்டு, “அச்சமின்றி விளையாடுங்கள், அர்ஃபிதாவின் மக்களே!” என்று (அபிசீனி யர்களை நோக்கிக்) கூறினார்கள். அத்தியாயம் : 13
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னை மறைத்தபடி நிற்க, நான் பள்ளிவாச-ல் (வீர விளையாட்டுக்கள்) விளையாடிக்கொண்டிருந்த அபிசீனியர்களைப் பார்த்துக்கொண்டி ருந்தேன். அப்போது அவர்களை உமர் (ரலி) அவர்கள் அதட்டினார்கள். உடனே நபி (ஸல்) அவர்கள், “(உமரே!) அவர்களை விட்டுவிடுங்கள்” என்று கூறிவிட்டு, “அச்சமின்றி விளையாடுங்கள், அர்ஃபிதாவின் மக்களே!” என்று (அபிசீனி யர்களை நோக்கிக்) கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>988</td></tr><tr><td>Arabic No</td><td>988</td></tr><tr><td>Reference</td><td>Book 13 Hadith 36</td></tr></tbody></table></div>
 

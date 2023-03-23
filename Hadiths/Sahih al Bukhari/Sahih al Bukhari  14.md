@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সেই আল্লাহর শপথ, যাঁর হাতে আমার প্রাণ, তোমাদের কেউ প্রকৃত মু‘মিন হতে পারবে না, যতক্ষণ না আমি তার নিকট তার পিতা ও সন্তানাদির চেয়ে অধিক ভালবাসার পাত্র হই। (আধুনিক প্রকাশনীঃ ১৩, ইসলামিক ফাউন্ডেশনঃ ১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সেই আল্লাহর শপথ, যাঁর হাতে আমার প্রাণ, তোমাদের কেউ প্রকৃত মু‘মিন হতে পারবে না, যতক্ষণ না আমি তার নিকট তার পিতা ও সন্তানাদির চেয়ে অধিক ভালবাসার পাত্র হই। (আধুনিক প্রকাশনীঃ ১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>14</td></tr><tr><td>Arabic No</td><td>14</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என் உயிர் எவன் கையிலுள்ளதோ அவன்மீது சத்தியமாக! உங்களில் ஒருவருக்கு, அவருடைய தந்தையையும் அவருடைய பிள்ளையையும்விட நான் மிகவும் நேசத்திற்குரியவனாக ஆகாத வரை அவர் (உண்மையான) இறைநம்பிக்கை உள்ளவர் ஆகமாட்டார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 2
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: என் உயிர் எவன் கையிலுள்ளதோ அவன்மீது சத்தியமாக! உங்களில் ஒருவருக்கு, அவருடைய தந்தையையும் அவருடைய பிள்ளையையும்விட நான் மிகவும் நேசத்திற்குரியவனாக ஆகாத வரை அவர் (உண்மையான) இறைநம்பிக்கை உள்ளவர் ஆகமாட்டார். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>14</td></tr><tr><td>Arabic No</td><td>14</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
 

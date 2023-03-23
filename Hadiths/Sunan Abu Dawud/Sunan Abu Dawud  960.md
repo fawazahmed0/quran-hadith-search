@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবনে আবু শাইবা (রহঃ) .... এই সনদসূত্রেও পূর্বোক্ত হাদিসের অনুরূপ বর্ণিত আছে।
+। ইয়াহইয়া (রহঃ) হতে এই সানাদে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>960</td></tr><tr><td>Arabic No</td><td>960</td></tr><tr><td>Reference</td><td>Book 2 Hadith 571</td></tr></tbody></table></div>
 

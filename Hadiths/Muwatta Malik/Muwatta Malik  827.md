@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১২৯. জাবির ইবন আবদুল্লাহ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদ হইতে সাফার উদ্দেশ্যে যখন বাহির হইলেন তখন শুনিয়াছি, তিনি বলিতেছেনঃ আল্লাহ যে স্থানটির উল্লেখ প্রথমে করিয়াছিলেন আমরাও সেই স্থান হইতে শুরু করিব। অতঃপর তিনি সাফা হইতে সায়ী করা শুরু করেন।[1]
+রেওয়ায়ত ১২৯. জাবির ইবন আবদুল্লাহ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদ হইতে সাফার উদ্দেশ্যে যখন বাহির হইলেন তখন শুনিয়াছি, তিনি বলিতেছেনঃ আল্লাহ যে স্থানটির উল্লেখ প্রথমে করিয়াছিলেন আমরাও সেই স্থান হইতে শুরু করিব। অতঃপর তিনি সাফা হইতে সায়ী করা শুরু করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 20 Hadith 123</td></tr></tbody></table></div>
 

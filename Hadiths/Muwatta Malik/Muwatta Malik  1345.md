@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৫৭. মালিক (রহঃ) বলেন, তাহার নিকট রেওয়ায়ত পৌছিয়াছে যে, উমর ইবন খাত্তাব (রাঃ) বলিয়াছেন, আমাদের বাজারে কেহ ইহতিকার[1] করিবে না। যেইসকল লোকের হাতে অতিরিক্ত মুদ্রা রহিয়াছে সেই সব লোক যেন আল্লাহ প্রদত্ত জীবিকাসমূহ হইতে কোন জীবিকা (খাদ্যশস্য) ক্রয় করিয়া আমাদের উপর মজুতদারী করার ইচ্ছা না করে। আর যে ব্যক্তি শীত মৌসুমে ও গ্রীষ্মকালে নিজের পিঠে বোঝা বহন করিয়া (খাদ্যশস্য) আনিবে সে উমরের মেহমান, সে যেরূপ ইচ্ছা বিক্রয় করুক, যেরূপ ইচ্ছা মজুত করুক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 31 Hadith 7</td></tr></tbody></table></div>
 

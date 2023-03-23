@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হারূন ইবন আব্দুল্লাহ (রহঃ) ... ইবন মুসলিম ইবন ছাফিনা (রহঃ) বলেন যে, আলকামা (রহঃ) তাঁর পিতাকে (মুসলিম এর পিতা ছাফিনাকে) স্বীয় গোত্রের যাকাত উসূল করার জন্য নিযুক্ত করে ছিলেন। রাবী পূর্ণ হাদীস বর্ণনা করেছেন (কিন্তু এখানে সংক্ষিপ্ত করা হয়েছে)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2463</td></tr><tr><td>Arabic No</td><td>2463</td></tr><tr><td>Reference</td><td>Book 23 Hadith 29</td></tr></tbody></table></div>
 

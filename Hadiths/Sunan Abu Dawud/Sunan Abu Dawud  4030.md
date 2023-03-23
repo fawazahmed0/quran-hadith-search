@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দা (রহঃ) .... আবূ আওয়ানা (রাঃ) এর বর্ণনায় আছে যে, আল্লাহ কিয়ামতের দিন তাকে অসম্মানের পোশাক পরিধান করাবেন।
+। আবূ আওয়ানাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, যে গর্ব অহংকারে উদ্দেশ্যে পোশাক পরবে, (কিয়ামতের দিন আল্লাহ তাকে ঐরূপ পোশাক পরাবেন, অতঃপর তাতে আগুন ধরিয়ে দেয়া হবে)।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4030</td></tr><tr><td>Arabic No</td><td>4030</td></tr><tr><td>Reference</td><td>Book 34 Hadith 11</td></tr></tbody></table></div>
 

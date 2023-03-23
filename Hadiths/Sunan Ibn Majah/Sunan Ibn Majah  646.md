@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৬৪৬। আয়িশাহ (রাঃ) বলেন, যে নারী (হায়েয থেকে) পবিত্র হওয়ার পর সন্দেহজনক কিছু দেখতে পায় তার সম্পর্কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তা শিরাজনিত রোগ বা শিরাসমূহ থেকে নির্গত। মুহাম্মাদ ইবনু ইয়াহ্ইয়া (রহঃ) বলেন, হাদীসে পবিত্র হওয়ার পর বলতে গোসল করার পর বুঝানো হয়েছে।
+। আয়িশাহ (রাঃ) বলেন, যে নারী (হায়েয থেকে) পবিত্র হওয়ার পর সন্দেহজনক কিছু দেখতে পায় তার সম্পর্কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তা শিরাজনিত রোগ বা শিরাসমূহ থেকে নির্গত। মুহাম্মাদ ইবনু ইয়াহ্ইয়া (রহঃ) বলেন, হাদীসে পবিত্র হওয়ার পর বলতে গোসল করার পর বুঝানো হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>646</td></tr><tr><td>Reference</td><td>Book 1 Hadith 380</td></tr></tbody></table></div>
 

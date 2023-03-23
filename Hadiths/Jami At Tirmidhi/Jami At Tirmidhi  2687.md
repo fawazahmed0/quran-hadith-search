@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৬৮৭। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রজ্ঞাপূর্ণ কথা মুমিনের হারানো ধন। সুতরাং সে যেখানেই তা পাবে, সে-ই হবে তার অধিকারী। অত্যন্ত দুর্বল, মিশকাত (২১৬) আবূ ঈসা বলেন, এ হাদীসটি গারীব। আমরা শুধুমাত্র উপরোক্ত সূত্রেই এ হাদীস প্রসঙ্গে জেনেছি। ইবরাহীম ইবনুল ফাযল আল-মাখযুমী হাদীসশাস্ত্রে দুর্বল।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রজ্ঞাপূর্ণ কথা মুমিনের হারানো ধন। সুতরাং সে যেখানেই তা পাবে, সে-ই হবে তার অধিকারী। অত্যন্ত দুর্বল, মিশকাত (২১৬) আবূ ঈসা বলেন, এ হাদীসটি গারীব। আমরা শুধুমাত্র উপরোক্ত সূত্রেই এ হাদীস প্রসঙ্গে জেনেছি। ইবরাহীম ইবনুল ফাযল আল-মাখযুমী হাদীসশাস্ত্রে দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2687</td></tr><tr><td>Arabic No</td><td>2687</td></tr><tr><td>Reference</td><td>Book 41 Hadith 43</td></tr></tbody></table></div>
 

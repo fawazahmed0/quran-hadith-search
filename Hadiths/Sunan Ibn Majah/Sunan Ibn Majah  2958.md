@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৯৫৮। আল-মুত্তালিব (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে দেখেছি যে, তিনি সাত চক্কর তাওয়াফ শেষ করে হাজরে আসওয়াদ বরাবর এলেন এবং মাতাফের প্রান্তে দু’ রাক‘আত নামায পড়লেন। তাঁর ও তাওয়াফের মাঝে আর কেউ ছিলো না। ইবনে মাজাহ (রহঃ) বলেন, এটা (সুতরাবিহীন অবস্থায় নামায পড়া) কেবল মক্কার জন্য নির্দিষ্ট।
+। আল-মুত্তালিব (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে দেখেছি যে, তিনি সাত চক্কর তাওয়াফ শেষ করে হাজরে আসওয়াদ বরাবর এলেন এবং মাতাফের প্রান্তে দু’ রাক‘আত নামায পড়লেন। তাঁর ও তাওয়াফের মাঝে আর কেউ ছিলো না। ইবনে মাজাহ (রহঃ) বলেন, এটা (সুতরাবিহীন অবস্থায় নামায পড়া) কেবল মক্কার জন্য নির্দিষ্ট।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2958</td></tr><tr><td>Arabic No</td><td>2958</td></tr><tr><td>Reference</td><td>Book 25 Hadith 77</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-El-Muttalİb (bin Ebî Vedâa es-Sehmî) (r.a.)'den; Şöyle, demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'i şöyle yaparken gördüm: Ka'be'yi yedi defa tavaf edince gelip Hacer-i Esved'in hizasında durdu. Sonra tavaf sahasının kenarında iki rek'at namaz kıldı ve (namaz kılarken) kendisi ile tavaf edenler arasında (sütre olarak) hiç kimse yoktu. İbn-i Mâceh dedi ki: Bu durum (yâni sütresiz namaza durmak ve namazın önünden geçmek) Mekke'ye mahsustur. Diğer Tahric edenler: Ebu Davud, menasik; Nesâî, menâsik; Ahmed b. Hanbel, VI, 399; Beyhakî, es-Sünenü'l-kübrâ, II, 273
+El-Muttalİb (bin Ebî Vedâa es-Sehmî) (r.a.)'den; Şöyle, demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'i şöyle yaparken gördüm: Ka'be'yi yedi defa tavaf edince gelip Hacer-i Esved'in hizasında durdu. Sonra tavaf sahasının kenarında iki rek'at namaz kıldı ve (namaz kılarken) kendisi ile tavaf edenler arasında (sütre olarak) hiç kimse yoktu. İbn-i Mâceh dedi ki: Bu durum (yâni sütresiz namaza durmak ve namazın önünden geçmek) Mekke'ye mahsustur. Diğer Tahric edenler: Ebu Davud, menasik; Nesâî, menâsik; Ahmed b. Hanbel, VI, 399; Beyhakî, es-Sünenü'l-kübrâ, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2958</td></tr><tr><td>Arabic No</td><td>2958</td></tr><tr><td>Reference</td><td>Book 25 Hadith 77</td></tr></tbody></table></div>
 

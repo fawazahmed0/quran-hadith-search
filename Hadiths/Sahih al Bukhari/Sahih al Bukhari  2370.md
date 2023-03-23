@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ব ইবনু জাসসামাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, চারণভূমি সংরক্ষিত করা আল্লাহ ও তাঁর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছাড়া আর কারো অধিকারে নেই। তিনি (রাবী) বলেন, আমাদের নিকট রিওয়ায়াত পৌঁছেছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাকী‘র চারণভূমি (নিজের জন্য) সংরক্ষিত করেছিলেন, আর ‘উমার (রাঃ) সারাফ ও রাবাযার চারণভূমি সংরক্ষণ করেছিলেন। (৩০১৩) (আধুনিক প্রকাশনীঃ ২১৯৭, ইসলামিক ফাউন্ডেশনঃ ২২১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘ব ইবনু জাসসামাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, চারণভূমি সংরক্ষিত করা আল্লাহ ও তাঁর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছাড়া আর কারো অধিকারে নেই। তিনি (রাবী) বলেন, আমাদের নিকট রিওয়ায়াত পৌঁছেছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাকী‘র চারণভূমি (নিজের জন্য) সংরক্ষিত করেছিলেন, আর ‘উমার (রাঃ) সারাফ ও রাবাযার চারণভূমি সংরক্ষণ করেছিলেন। (৩০১৩) (আধুনিক প্রকাশনীঃ ২১৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2370</td></tr><tr><td>Arabic No</td><td>2370</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘பிரத்தியேகமான மேய்ச்சல் நிலம், அல்லாஹ்வுக்கும் அவன் தூதருக்கும் தவிர வேறெவருக்கும் கிடையாது” என்று கூறினார்கள். இதை ஸஅப் பின் ஜஸ்ஸாமா (ரலி) அவர்கள் கூறியதாக இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். ‘‘நபி (ஸல்) அவர்கள் (மதீனாவிலிருந்து சிறிது தொலைவிலுள்ள) யிநகீஉ’ எனுமிடத் தைப் பிரத்தியேக மேய்ச்சல் நிலமாக ஆக்கியிருந்தார்கள். உமர் (ரலி) அவர்கள், ‘ஷரஃப்’ மற்றும் யிரபதா’ எனுமிடங்களைப் பிரத்தியேக மேய்ச்சல் நிலமாக வைத்திருந் தார்கள் என்று நமக்குச் செய்தி கிட்டியுள் ளது” என இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறுகிறார்கள்.10 அத்தியாயம் : 42
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘பிரத்தியேகமான மேய்ச்சல் நிலம், அல்லாஹ்வுக்கும் அவன் தூதருக்கும் தவிர வேறெவருக்கும் கிடையாது” என்று கூறினார்கள். இதை ஸஅப் பின் ஜஸ்ஸாமா (ரலி) அவர்கள் கூறியதாக இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். ‘‘நபி (ஸல்) அவர்கள் (மதீனாவிலிருந்து சிறிது தொலைவிலுள்ள) யிநகீஉ’ எனுமிடத் தைப் பிரத்தியேக மேய்ச்சல் நிலமாக ஆக்கியிருந்தார்கள். உமர் (ரலி) அவர்கள், ‘ஷரஃப்’ மற்றும் யிரபதா’ எனுமிடங்களைப் பிரத்தியேக மேய்ச்சல் நிலமாக வைத்திருந் தார்கள் என்று நமக்குச் செய்தி கிட்டியுள் ளது” என இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறுகிறார்கள்.10 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2370</td></tr><tr><td>Arabic No</td><td>2370</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'ın naklettiğine göre es-Salb İbn Cesame r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Bütün koruluklar Allah'a ve Resulüne aittir." Buhari, "Bize, Hz. Nebi'in, en-Naki' bölgesini, Hz. Ömer'in de, eş-Şeref ve Rebeze bölgesini koruluk haline getirdiği bilgisi ulaşmıştır" demiştir. Tekrar: 3013
+İbn Abbas r.a.'ın naklettiğine göre es-Salb İbn Cesame r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Bütün koruluklar Allah'a ve Resulüne aittir." Buhari, "Bize, Hz. Nebi'in, en-Naki' bölgesini, Hz. Ömer'in de, eş-Şeref ve Rebeze bölgesini koruluk haline getirdiği bilgisi ulaşmıştır" demiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2370</td></tr><tr><td>Arabic No</td><td>2370</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
 

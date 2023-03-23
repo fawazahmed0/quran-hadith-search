@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০১৭। আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে বর্ণিত, তিনি বলেন, আওতাস যুদ্ধের দিন কয়েকজন বন্দী মহিলা আমাদের হাতে আসে যাদের স্বামীরা তাদের সম্প্রদায়ে বর্তমান ছিল। সাহাবীগণ বিষয়টি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে অবহিত করেন। তখন এ আয়াত অবতীর্ণ হয়ঃ “এবং নারীদের মধ্যে তোমাদের অধিকারভুক্ত দাসীগণ ব্যতীত সকল সধবা নারী তোমাদের জন্য নিষিদ্ধ"- (সূরা আন-নিসা ২৪)। সহীহঃ দেখুন পূর্বের হাদীস। আবূ ঈসা বলেন, এ হাদীসটি হাসান। সুফইয়ান সাওরী (রহঃ) এভাবে উসমান আল-বাত্তী হতে, তিনি আবূল খালীল হতে, তিনি আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এই সূত্রে পূর্বোক্ত হাদীসের মত বর্ণনা করেছেন। অবশ্য এ হাদীসে আবূ আলকামার উল্লেখ নেই। কাতাদাহ্ (রহঃ)-এর সূত্রে হাম্মাম ব্যতীত অপর কেউ এ হাদীসের সনদে আবূ আলকামার উল্লেখ করেছেন বলে আমার জানা নেই। আবূল খালীলের নাম সালিহ ইবনু আবূ মারইয়াম।
+। আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে বর্ণিত, তিনি বলেন, আওতাস যুদ্ধের দিন কয়েকজন বন্দী মহিলা আমাদের হাতে আসে যাদের স্বামীরা তাদের সম্প্রদায়ে বর্তমান ছিল। সাহাবীগণ বিষয়টি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে অবহিত করেন। তখন এ আয়াত অবতীর্ণ হয়ঃ “এবং নারীদের মধ্যে তোমাদের অধিকারভুক্ত দাসীগণ ব্যতীত সকল সধবা নারী তোমাদের জন্য নিষিদ্ধ"- (সূরা আন-নিসা ২৪)। সহীহঃ দেখুন পূর্বের হাদীস। আবূ ঈসা বলেন, এ হাদীসটি হাসান। সুফইয়ান সাওরী (রহঃ) এভাবে উসমান আল-বাত্তী হতে, তিনি আবূল খালীল হতে, তিনি আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে এই সূত্রে পূর্বোক্ত হাদীসের মত বর্ণনা করেছেন। অবশ্য এ হাদীসে আবূ আলকামার উল্লেখ নেই। কাতাদাহ্ (রহঃ)-এর সূত্রে হাম্মাম ব্যতীত অপর কেউ এ হাদীসের সনদে আবূ আলকামার উল্লেখ করেছেন বলে আমার জানা নেই। আবূল খালীলের নাম সালিহ ইবনু আবূ মারইয়াম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3017</td></tr><tr><td>Arabic No</td><td>3017</td></tr><tr><td>Reference</td><td>Book 47 Hadith 69</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Sa'eed Al-Khudri:"We captured some women on the Day of Awtas and they had husbands among their people. That was mentioned to the Messenger of Allah (ﷺ) so Allah revealed: '...And women already married, except those whom your right hands possess... (4:24)
+Narrated Abu Sa'eed Al-Khudri:"We captured some women on the Day of Awtas and they had husbands among their people. That was mentioned to the Messenger of Allah (ﷺ) so Allah revealed: '...And women already married, except those whom your right hands possess... (4:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3017</td></tr><tr><td>Arabic No</td><td>3017</td></tr><tr><td>Reference</td><td>Book 47 Hadith 69</td></tr></tbody></table></div>
 

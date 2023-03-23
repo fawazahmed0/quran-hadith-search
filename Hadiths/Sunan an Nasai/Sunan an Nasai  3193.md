@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবু মুহাম্মাদ ইবন মূসা ইবন মুহাম্মাদ (রহঃ) ... আবদুল্লাহ (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন, তিনি সাপ মারতে আদেশ করেছেন এবং বলেছেনঃ যে ব্যাক্তি ওদের প্রতিশোধ নেয়াকে ভয় করে, সে আমাদের (দ্বীনের) অন্তর্ভুক্ত নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
 

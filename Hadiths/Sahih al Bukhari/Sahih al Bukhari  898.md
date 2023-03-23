@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক মুসলিমের উপর আল্লাহর হক রয়েছে যে, প্রতি সাত দিনে একবার সে যেন গোসল করে। (৮৯৭ মুসলিম ৭/২, হাঃ ৮৪৯) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ নাই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>898</td></tr><tr><td>Arabic No</td><td>898</td></tr><tr><td>Reference</td><td>Book 11 Hadith 22</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Abu Huraira through different narrators that the Prophet (ﷺ) said, "I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஏழு நாட்களுக்கு ஒரு முறை குளிப்பது (பருவமடைந்த) ஒவ்வொரு முஸ்-மும் உயர்ந்தோன் அல்லாஹ்வுக்காகச் செய்ய வேண்டிய கடமையாகும்.9 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 11
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஏழு நாட்களுக்கு ஒரு முறை குளிப்பது (பருவமடைந்த) ஒவ்வொரு முஸ்-மும் உயர்ந்தோன் அல்லாஹ்வுக்காகச் செய்ய வேண்டிய கடமையாகும்.9 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>898</td></tr><tr><td>Arabic No</td><td>898</td></tr><tr><td>Reference</td><td>Book 11 Hadith 22</td></tr></tbody></table></div>
 

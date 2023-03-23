@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-سُوْرَةُ التَّحْرِيْمِ সূরাহ (৬৬) : আত্-তাহরীম ৪৯১১. সা‘ঈদ ইবনু যুবায়র (রাঃ) হতে বর্ণিত। ইবনু ‘আব্বাস (রাঃ) বলেছেন, এরূপ হারাম করে নেয়া হলে কাফ্ফারা দিতে হবে। ইবনু ‘আব্বাস (রাঃ) এ-ও বলেছেন যে, ‘‘রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর মাঝে রয়েছে তোমাদের জন্য উত্তম আদর্শ।’’ [৫২৬৬; মুসলিম ১৮/৩, হাঃ ১৪৭৩, আহমাদ ১৯৭৬] আধুনিক প্রকাশনীঃ ৪৫৪২, ইসলামিক ফাউন্ডেশনঃ ৪৫৪৬
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+سُوْرَةُ التَّحْرِيْمِ সূরাহ (৬৬) : আত্-তাহরীম ৪৯১১. সা‘ঈদ ইবনু যুবায়র (রাঃ) হতে বর্ণিত। ইবনু ‘আব্বাস (রাঃ) বলেছেন, এরূপ হারাম করে নেয়া হলে কাফ্ফারা দিতে হবে। ইবনু ‘আব্বাস (রাঃ) এ-ও বলেছেন যে, ‘‘রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর মাঝে রয়েছে তোমাদের জন্য উত্তম আদর্শ।’’ [৫২৬৬; মুসলিম ১৮/৩, হাঃ ১৪৭৩, আহমাদ ১৯৭৬] আধুনিক প্রকাশনীঃ ৪৫৪২, ইসলামিক ফাউন্ডেশনঃ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4911</td></tr><tr><td>Arabic No</td><td>4911</td></tr><tr><td>Reference</td><td>Book 65 Hadith 431</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள், ‘‘(ஒருவர் அனுமதிக்கப்பட்ட ஒன்றைச் சத்தியமிட்டு) விலக்கிக்கொள்ளும்பட்சத்தில், (சத்தியத்தின் கட்டுப்பாட்டிலிருந்து வெளியேறுவதற்கான) பரிகாரத்தை அவர் செய்ய வேண்டும்” என்று கூறிவிட்டு, ‘‘உங்களுக்கு அல்லாஹ்வின் தூதரிடம் ஓர் அழகிய முன்மாதிரி இருக்கிறது” எனும் (33:21ஆவது) இறைவசனத்தை ஓதினார்கள்.2 அத்தியாயம் : 65
+சயீத் பின் ஜுபைர் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள், ‘‘(ஒருவர் அனுமதிக்கப்பட்ட ஒன்றைச் சத்தியமிட்டு) விலக்கிக்கொள்ளும்பட்சத்தில், (சத்தியத்தின் கட்டுப்பாட்டிலிருந்து வெளியேறுவதற்கான) பரிகாரத்தை அவர் செய்ய வேண்டும்” என்று கூறிவிட்டு, ‘‘உங்களுக்கு அல்லாஹ்வின் தூதரிடம் ஓர் அழகிய முன்மாதிரி இருக்கிறது” எனும் (33:21ஆவது) இறைவசனத்தை ஓதினார்கள்.2 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4911</td></tr><tr><td>Arabic No</td><td>4911</td></tr><tr><td>Reference</td><td>Book 65 Hadith 431</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'dan rivayet edildiğine göre, o, "Bu bana haramdır" diyen kimsenin yemin keffareti ödemesi gerektiğini söylemiş ve Andolsun ki, Resulullah sizin için güzel bir örnektir (Ahzab 21) ayetini okumuştur. Hadisin geçtiği diğer yer: 6625
+İbn Abbas r.a.'dan rivayet edildiğine göre, o, "Bu bana haramdır" diyen kimsenin yemin keffareti ödemesi gerektiğini söylemiş ve Andolsun ki, Resulullah sizin için güzel bir örnektir (Ahzab 21) ayetini okumuştur. Hadisin geçtiği diğer yer:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4911</td></tr><tr><td>Arabic No</td><td>4911</td></tr><tr><td>Reference</td><td>Book 65 Hadith 431</td></tr></tbody></table></div>
 

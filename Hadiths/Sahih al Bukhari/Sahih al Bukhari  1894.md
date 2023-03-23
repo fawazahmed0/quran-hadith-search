@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সিয়াম ঢাল স্বরূপ। সুতরাং অশ্লীলতা করবে না এবং মূর্খের মত কাজ করবে না। যদি কেউ তার সাথে ঝগড়া করতে চায়, তাকে গালি দেয়, তবে সে যেন দুই বার বলে, আমি সওম পালন করছি। ঐ সত্তার শপথ, যাঁর হাতে আমার প্রাণ, অবশ্যই সওম পালনকারীর মুখের গন্ধ আল্লাহর নিকট মিসকের সুগন্ধির চাইতেও উৎকৃষ্ট, সে আমার জন্য আহার, পান ও কামাচার পরিত্যাগ করে। সিয়াম আমারই জন্য। তাই এর পুরস্কার আমি নিজেই দান করব। আর প্রত্যেক নেক কাজের বিনিময় দশ গুণ। (১৯০৪, ৫৯২৭, ৭৪৯২, ৭৫৩৮, মুসলিম ১৩/২৯, হাঃ ১১৫১, আহমাদ ৭৩০৮) (আধুনিক প্রকাশনীঃ ১৭৫৯, ইসলামিক ফাউন্ডেশনঃ ১৭৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সিয়াম ঢাল স্বরূপ। সুতরাং অশ্লীলতা করবে না এবং মূর্খের মত কাজ করবে না। যদি কেউ তার সাথে ঝগড়া করতে চায়, তাকে গালি দেয়, তবে সে যেন দুই বার বলে, আমি সওম পালন করছি। ঐ সত্তার শপথ, যাঁর হাতে আমার প্রাণ, অবশ্যই সওম পালনকারীর মুখের গন্ধ আল্লাহর নিকট মিসকের সুগন্ধির চাইতেও উৎকৃষ্ট, সে আমার জন্য আহার, পান ও কামাচার পরিত্যাগ করে। সিয়াম আমারই জন্য। তাই এর পুরস্কার আমি নিজেই দান করব। আর প্রত্যেক নেক কাজের বিনিময় দশ গুণ। (১৯০৪, ৫৯২৭, ৭৪৯২, ৭৫৩৮, মুসলিম ১৩/২৯, হাঃ ১১৫১, আহমাদ ৭৩০৮) (আধুনিক প্রকাশনীঃ ১৭৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1894</td></tr><tr><td>Arabic No</td><td>1894</td></tr><tr><td>Reference</td><td>Book 30 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Abu A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நோன்பு (பாவங்களிலிருந்து காக்கின்ற) கேடயம் ஆகும்; எனவே, நோன்பாளி கெட்ட பேச்சுகளைப் பேச வேண்டாம்! அறிவீனமாக நடந்துகொள்ள வேண்டாம்! யாரேனும் அவருடன் சண்டைக்கு வந்தால் அல்லது ஏசினால் ‘நான் நோன்பாளி' என்று இரு முறை கூறட்டும்! என் உயிர் எவன் கையில் உள்ளதோ அ(ந்த இறை)வன்மேல் ஆணையாக! நோன்பாளியின் வாயிலிருந்து வரும் வாடை, அல்லாஹ்விடம் கஸ்தூரியின் மணத்தைவிட நறுமணமிக்கதாகும். (மேலும்) ‘‘எனக்காகவே நோன்பாளி தமது உணவையும் பானத்தையும் ஆசையையும் கைவிடுகிறார்; நோன்பு எனக்கு (மட்டுமே) உரியது; அதற்கு நானே கூலி கொடுப்பேன்” (என்று அல்லாஹ் கூறுகின்றான்). ஒரு நன்மை என்பது அது போன்ற பத்து மடங்கு களாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.2 அத்தியாயம் : 30
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நோன்பு (பாவங்களிலிருந்து காக்கின்ற) கேடயம் ஆகும்; எனவே, நோன்பாளி கெட்ட பேச்சுகளைப் பேச வேண்டாம்! அறிவீனமாக நடந்துகொள்ள வேண்டாம்! யாரேனும் அவருடன் சண்டைக்கு வந்தால் அல்லது ஏசினால் ‘நான் நோன்பாளி' என்று இரு முறை கூறட்டும்! என் உயிர் எவன் கையில் உள்ளதோ அ(ந்த இறை)வன்மேல் ஆணையாக! நோன்பாளியின் வாயிலிருந்து வரும் வாடை, அல்லாஹ்விடம் கஸ்தூரியின் மணத்தைவிட நறுமணமிக்கதாகும். (மேலும்) ‘‘எனக்காகவே நோன்பாளி தமது உணவையும் பானத்தையும் ஆசையையும் கைவிடுகிறார்; நோன்பு எனக்கு (மட்டுமே) உரியது; அதற்கு நானே கூலி கொடுப்பேன்” (என்று அல்லாஹ் கூறுகின்றான்). ஒரு நன்மை என்பது அது போன்ற பத்து மடங்கு களாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.2 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1894</td></tr><tr><td>Arabic No</td><td>1894</td></tr><tr><td>Reference</td><td>Book 30 Hadith 4</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Abu A
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre'nin naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Oruç bir kalkandır. Oruçlu olan kimse oruca uygun olmayan işler yapmasın ve (aklı başında insana yakışmayan) cahilce işlere kalkışmasın! Eğer birisi kendisi ile kavga etmeye yeltenirse veya kendisine söverse 'ben oruçluyum' desin! Canımı elinde bulunduran Allah'a yemin ederim ki oruçlunun ağzının kokusu, Allah katında miskin kokusundan daha güzel kokar. (Allah Teala şöyle buyurmuştur:) Oruçlu kimse yemeyi ve içmeyi benim için terk etmiş, benim için şehvetinden isteklerinden vazgeçmiştir. Oruç tamamen benim içindir ve bu ibadetin karşılığını bizzat ben veririm. İyiliklere de on katı mükafat verilir" Tekrar: 1904, 5927, 7492, 7538
+Ebu Hureyre'nin naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Oruç bir kalkandır. Oruçlu olan kimse oruca uygun olmayan işler yapmasın ve (aklı başında insana yakışmayan) cahilce işlere kalkışmasın! Eğer birisi kendisi ile kavga etmeye yeltenirse veya kendisine söverse 'ben oruçluyum' desin! Canımı elinde bulunduran Allah'a yemin ederim ki oruçlunun ağzının kokusu, Allah katında miskin kokusundan daha güzel kokar. (Allah Teala şöyle buyurmuştur:) Oruçlu kimse yemeyi ve içmeyi benim için terk etmiş, benim için şehvetinden isteklerinden vazgeçmiştir. Oruç tamamen benim içindir ve bu ibadetin karşılığını bizzat ben veririm. İyiliklere de on katı mükafat verilir" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1894</td></tr><tr><td>Arabic No</td><td>1894</td></tr><tr><td>Reference</td><td>Book 30 Hadith 4</td></tr></tbody></table></div>
 

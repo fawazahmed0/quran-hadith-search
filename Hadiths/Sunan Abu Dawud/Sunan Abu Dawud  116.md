@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... আবূ হাইয়া হতে বর্ণিত। তিনি বলেন, একদা আমি আলী (রাঃ)-কে উযূ (ওজু/অজু/অযু) করতে দেখলাম। অতঃপর তিনি আলী (রাঃ) এর উযূর বর্ণনায় বলেন, তিনি প্রত্যেক অংগ তিনবার করে ধৌত করেন। রাবী বলেন, অতঃপর তিনি তাঁর মাথা মাসেহ্ করেন এবং উভয় পা গোড়ালি সমেত ধৌত করেন। পরে আলী (রাঃ) বলেন, আমি তোমাদেরকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের উযূর নিয়ম পদ্ধতি সম্পর্কে দেখাতে আগ্রহী। (ঐ)।
+। আবূ হাইয়্যাহ সূত্রে বর্ণিত। তিনি বলেন, আমি ‘আলী (রাঃ)-কে অযু করতে দেখেছি। তিনি প্রত্যেক অঙ্গ তিনবার করে ধুয়েছেন, তারপর মাথা মাসাহ্ করেছেন এবং উভয় পা টাখনু পর্যন্ত ধুয়েছেন। অতঃপর বলেছেনঃ আমার আগ্রহ ছিল, তোমাদেরকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অযু (করার পদ্ধতি) দেখানো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>116</td></tr><tr><td>Arabic No</td><td>116</td></tr><tr><td>Reference</td><td>Book 1 Hadith 116</td></tr></tbody></table></div>
 

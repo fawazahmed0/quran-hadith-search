@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সায়িব ইবনু ইয়াযীদ (রাযি.) হতে বর্ণিত। তিনি বলেন, মসজিদে মুসল্লীদের সংখ্যা বৃদ্ধি পেলে, ‘উসমান (রাযি.) জুমু‘আহর দিন দ্বিতীয় আযানের নির্দেশ দেন। অথচ (ইতোপূর্বে) জুমু‘আহর দিন ইমাম যখন (মিম্বারের উপর) বসতেন, তখন আযান দেয়া হতো। (৯১২) (আধুনিক প্রকাশনীঃ ৮৬২ ইসলামিক ফাউন্ডেশনঃ ৮৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সায়িব ইবনু ইয়াযীদ (রাযি.) হতে বর্ণিত। তিনি বলেন, মসজিদে মুসল্লীদের সংখ্যা বৃদ্ধি পেলে, ‘উসমান (রাযি.) জুমু‘আহর দিন দ্বিতীয় আযানের নির্দেশ দেন। অথচ (ইতোপূর্বে) জুমু‘আহর দিন ইমাম যখন (মিম্বারের উপর) বসতেন, তখন আযান দেয়া হতো। (৯১২) (আধুনিক প্রকাশনীঃ ৮৬২ ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>915</td></tr><tr><td>Reference</td><td>Book 11 Hadith 39</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: வெள்ளிக்கிழமை அன்று மற்றொரு தொழுகை அறிவிப்புச் செய்யும்படி உஸ்மான் (ரலி) அவர்களே கட்டளையிட் டார்கள்.- பள்ளிவாச-ல் மக்கள் அதிகரித்தபோதே (இவ்வாறு செய்தார்கள்). -(அதற்கு முன்னர்) இமாம் (சொற்பொழிவு மேடைமீது) அமரும்போது சொல்லும் பாங்கு மட்டுமே (நடைமுறையில்) இருந்தது. அத்தியாயம் : 11
+சாயிப் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: வெள்ளிக்கிழமை அன்று மற்றொரு தொழுகை அறிவிப்புச் செய்யும்படி உஸ்மான் (ரலி) அவர்களே கட்டளையிட் டார்கள்.- பள்ளிவாச-ல் மக்கள் அதிகரித்தபோதே (இவ்வாறு செய்தார்கள்). -(அதற்கு முன்னர்) இமாம் (சொற்பொழிவு மேடைமீது) அமரும்போது சொல்லும் பாங்கு மட்டுமே (நடைமுறையில்) இருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>915</td></tr><tr><td>Reference</td><td>Book 11 Hadith 39</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০১৬। আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে বর্ণিত, তিনি বলেন, কয়েকজন মহিলা আওতাস যুদ্ধের দিন আমাদের হস্তগত হয়, যাদের স্বামীরা মুশরিকদের মধ্যে বর্তমান ছিল। তাই ঐ সব মহিলাকে আমাদের কিছু সংখ্যক লোক অপছন্দ করল। এ প্রসঙ্গেই আল্লাহ তা'আলা অবতীর্ণ করেনঃ “এবং নারীদের মধ্যে তোমাদের অধিকারভুক্ত দাসীগণ ব্যতীত সকল সধবা তোমাদের জন্য নিষিদ্ধ"- (সূরা আন-নিসা ২৪)। সহীহঃ সহীহ আবূ দাউদ (১৮৭১), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
+। আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে বর্ণিত, তিনি বলেন, কয়েকজন মহিলা আওতাস যুদ্ধের দিন আমাদের হস্তগত হয়, যাদের স্বামীরা মুশরিকদের মধ্যে বর্তমান ছিল। তাই ঐ সব মহিলাকে আমাদের কিছু সংখ্যক লোক অপছন্দ করল। এ প্রসঙ্গেই আল্লাহ তা'আলা অবতীর্ণ করেনঃ “এবং নারীদের মধ্যে তোমাদের অধিকারভুক্ত দাসীগণ ব্যতীত সকল সধবা তোমাদের জন্য নিষিদ্ধ"- (সূরা আন-নিসা ২৪)। সহীহঃ সহীহ আবূ দাউদ (১৮৭১), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3016</td></tr><tr><td>Arabic No</td><td>3016</td></tr><tr><td>Reference</td><td>Book 47 Hadith 68</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Sa'eed Al-Khudri:"On the Day of Awtas, we captured some women who had husbands among the idolaters. So some of the men disliked that, so Allah, Most High, revealed: And women already married, except those whom your right hands possess... (4:24)
+Narrated Abu Sa'eed Al-Khudri:"On the Day of Awtas, we captured some women who had husbands among the idolaters. So some of the men disliked that, so Allah, Most High, revealed: And women already married, except those whom your right hands possess... (4:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3016</td></tr><tr><td>Arabic No</td><td>3016</td></tr><tr><td>Reference</td><td>Book 47 Hadith 68</td></tr></tbody></table></div>
 

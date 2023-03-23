@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহইয়া ইবনু মুইন .... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ আমার যে সমস্ত উম্মাত প্রথম কাতারে দাঁড়াতে গড়িমসি করে, আল্লাহ্ তা’আলা তাদেরকে দোজখে সবচেয়ে পেছনে রাখবেন।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একদল লোক সর্বদা প্রথম কাতার থেকে পিছনের দিকে সরতে থাকবে। ফলে আল্লাহও তাদেরকে জাহান্নামের পিছন দিকে রাখবেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>679</td></tr><tr><td>Reference</td><td>Book 2 Hadith 289</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Yahya bin Ma'in] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (radiyallahu anha)'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Bir kavim birinci saftan geri durmaya devam ederse Allah da onları ateşte(n çıkarmayı) geciktirir." Diğer tahric: Beyhakî, S. kübra, III, 103
+Aişe (radiyallahu anha)'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Bir kavim birinci saftan geri durmaya devam ederse Allah da onları ateşte(n çıkarmayı) geciktirir." Diğer tahric: Beyhakî, S. kübra, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>679</td></tr><tr><td>Reference</td><td>Book 2 Hadith 289</td></tr></tbody></table></div>
 

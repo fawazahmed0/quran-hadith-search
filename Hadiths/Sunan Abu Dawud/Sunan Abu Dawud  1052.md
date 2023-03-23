@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবুল জাদ্ আদ-দামিরী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তি বিনা কারণে অলসতা হেতু তিনটি জুমুআর নামায পরিত্যাগ করে আল্লাহ তার অন্তরের উপর মোহর মেরে দেন (যাতে কোন কল্যাণ তাতে প্রবেশ করতে না পারে, ফলে তাতে কল্যান ও বরকত প্রবেশের দ্বার বন্ধ হয়ে যায়)। (নাসাঈ, ইবন মাজা, তিরমিযী)
+। আবুল জা‘দ আদ-দামরী (রাঃ) সূত্রে বর্ণিত, যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবী ছিলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি (বিনা কারণে) অলসতা করে পরপর তিনটি জুমু‘আহ ত্যাগ করে মহান আল্লাহ তার অন্তরে সীলমোহর মেরে দেন।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1052</td></tr><tr><td>Arabic No</td><td>1052</td></tr><tr><td>Reference</td><td>Book 2 Hadith 663</td></tr></tbody></table></div>
 

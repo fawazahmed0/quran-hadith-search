@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন আওন (রহঃ) ..... ইবন মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ তোমরা রূপার ছড়ির ন্যায় শাদা সাপ ব্যতীত, আর সব সাপকে হত্যা করবে।
+। ইবনু মাস‘ঊদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেছেন, তোমরা সব সাপকেই হত্যা করবে, কেবল সাদা জিন ব্যতীত যা দেখতে রৌপ্য দন্ডের মতো। ইমাম আবূ দাঊদ (রহঃ) বলেন, আমাকে এক ব্যক্তি বলেছেন, সাদা সাপ আঁকাবাঁকা হয়ে চলালচল করে না। এটা যদি সঠিক হয়ে থাকে তবে আল্লাহর ইচ্ছায় তা এই সাপের একটি নিদর্শন।[1] সহীহ মাওকূফ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>5261</td></tr><tr><td>Reference</td><td>Book 43 Hadith 489</td></tr></tbody></table></div>
 

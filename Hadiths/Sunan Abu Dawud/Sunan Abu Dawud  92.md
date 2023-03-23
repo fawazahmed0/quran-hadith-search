@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু কাছীর .... আয়িশা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এক ছা'আ পরিমাণ পানি দ্বারা গোসল করতেন এবং এক মুদ পরিমাণ পানি দ্বারা উযূ (ওজু/অজু/অযু) করতেন। (নাসাঈ, ইবনু মাজাহ, বুখারী, মুসলিম, তিরমিযী)।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ‘সা’ পানি দিয়ে গোসল করতেন এবং এক ‘মুদ্’ পানি দিয়ে অযু করতেন। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ আবান কাতাদাহ সূত্রে বর্ণনা করেন। তিনি বলেন, আমি সাফিয়্যা (রাঃ) থেকে শুনেছি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
 

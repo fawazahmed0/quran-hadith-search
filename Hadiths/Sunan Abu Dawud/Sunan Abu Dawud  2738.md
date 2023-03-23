@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যিয়াদ ইবন আয়্যুব (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বদর যুদ্ধের দিন এরূপ ঘোষণা দেন যে, যে ব্যক্তি কাফিরকে হত্যা করবে, সে এরূপ পুরস্কার পাবে, আর যে কোন কাফিরকে বন্দী করবে, সে এরূপ পুরস্কার পাবে। অতঃপর পূর্ববর্তী হাদীছের অনুরূপ বর্ণিত হয়েছে। আর রাবী খালিদ বর্ণিত হাদীছটি সম্পূর্ণ।
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বদরের যুদ্ধের দিন ঘোষণা করলেনঃ কেউ কোনো শত্রুকে হত্যা করলে তার জন্য এই এই (পুরস্কার)। আর কেউ কোনো শত্রুকে বন্দী করলে তার জন্যও এই এই (পুরস্কার)। এরপর পূর্বের হাদীসের অনুরূপ। খালিদের হাদীসটি পূর্ণাঙ্গ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2738</td></tr><tr><td>Arabic No</td><td>2738</td></tr><tr><td>Reference</td><td>Book 15 Hadith 262</td></tr></tbody></table></div>
 

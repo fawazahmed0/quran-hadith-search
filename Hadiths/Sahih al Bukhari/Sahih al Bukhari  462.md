@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَكَانَ شُرَيْحٌ يَأْمُرُ الْغَرِيمَ أَنْ يُحْبَسَ إِلَى سَارِيَةِ الْمَسْجِدِ. কাযী শুরাইহ* (রহ.) দেনাদার ব্যক্তিকে মসজিদের খুঁটির সাথে বেঁধে রাখার নির্দেশ দিতেন। ৪৬২. আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কয়েকজন অশ্বারোহী মুজাহিদকে নজদের দিকে পাঠালেন। তারা বানূ হানীফা গোত্রের সুমামাহ ইবনু উসাল নামক এক ব্যক্তিকে নিয়ে এসে তাকে মসজিদের খুঁটির সাথে বেঁধে রাখলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর নিকট গেলেন এবং বললেনঃ সুমামাকে ছেড়ে দাও। (ছাড়া পেয়ে) তিনি মসজিদে নাবাবীর নিকট এক খেজুর বাগানে গিয়ে সেখানে গোসল করলেন, অতঃপর মসজিদে প্রবেশ করে বললেনঃ ‘‘আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ব্যতীত প্রকৃত কোন উপাস্য নেই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল।’’ (৪৬৯, ২৪২২, ২৪২৩, ৪৩৭২) (আধুনিক প্রকাশনীঃ ৪৪২, ইসলামিক ফাউন্ডেশনঃ ৪৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَكَانَ شُرَيْحٌ يَأْمُرُ الْغَرِيمَ أَنْ يُحْبَسَ إِلَى سَارِيَةِ الْمَسْجِدِ. কাযী শুরাইহ* (রহ.) দেনাদার ব্যক্তিকে মসজিদের খুঁটির সাথে বেঁধে রাখার নির্দেশ দিতেন। ৪৬২. আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কয়েকজন অশ্বারোহী মুজাহিদকে নজদের দিকে পাঠালেন। তারা বানূ হানীফা গোত্রের সুমামাহ ইবনু উসাল নামক এক ব্যক্তিকে নিয়ে এসে তাকে মসজিদের খুঁটির সাথে বেঁধে রাখলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর নিকট গেলেন এবং বললেনঃ সুমামাকে ছেড়ে দাও। (ছাড়া পেয়ে) তিনি মসজিদে নাবাবীর নিকট এক খেজুর বাগানে গিয়ে সেখানে গোসল করলেন, অতঃপর মসজিদে প্রবেশ করে বললেনঃ ‘‘আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ব্যতীত প্রকৃত কোন উপাস্য নেই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল।’’ (৪৬৯, ২৪২২, ২৪২৩, ৪৩৭২) (আধুনিক প্রকাশনীঃ ৪৪২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>462</td></tr><tr><td>Arabic No</td><td>462</td></tr><tr><td>Reference</td><td>Book 8 Hadith 110</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதவது: நபி (ஸல்) அவர்கள் நஜ்த் பகுதியை நோக்கிக் குதிரைப்படை ஒன்றை அனுப்பி வைத்தார்கள். அவர்கள் பனூ ஹனீஃபா குலத்தைச் சேர்ந்த (‘யமாமா’வாசிகளின் தலைவரான) ஸுமாமா பின் உஸால் எனப்படும் ஒரு மனிதரைக் கொண்டு வந்தார்கள். அவரை (மஸ்ஜிதுந் நபவீ) பள்ளிவாச-ன் தூண்களில் ஒன்றில் (மக்கள்) கட்டிவைத்தனர். நபி (ஸல்) அவர்கள் அவரை நோக்கி (மூன்று நாட்களாக வந்து பார்த்தார்கள். மூன்றாவது நாள்) வந்தபோது, ‘ஸுமாமாவை அவிழ்த்துவிடுங்கள்” என்று கூறினார்கள். அவர் பள்ளிவாசலுக்கு அருகி-ருந்த (அபூதல்ஹா (ரலி) அவர்களுக்குச் சொந்த மான) பேரீச்சந் தோட்டத்திற்குச் சென்று குளித்தார். பிறகு பள்ளிவாசலுக்குள் வந்து “அல்லாஹ்வைத் தவிர வேறு இறைவ னில்லை என்றும், முஹம்மத் (ஸல்) அவர்கள் அல்லாஹ்வின் தூதர் என்றும் நான் உறுதி மொழிகிறேன்” என்றார். அத்தியாயம் : 8
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதவது: நபி (ஸல்) அவர்கள் நஜ்த் பகுதியை நோக்கிக் குதிரைப்படை ஒன்றை அனுப்பி வைத்தார்கள். அவர்கள் பனூ ஹனீஃபா குலத்தைச் சேர்ந்த (‘யமாமா’வாசிகளின் தலைவரான) ஸுமாமா பின் உஸால் எனப்படும் ஒரு மனிதரைக் கொண்டு வந்தார்கள். அவரை (மஸ்ஜிதுந் நபவீ) பள்ளிவாச-ன் தூண்களில் ஒன்றில் (மக்கள்) கட்டிவைத்தனர். நபி (ஸல்) அவர்கள் அவரை நோக்கி (மூன்று நாட்களாக வந்து பார்த்தார்கள். மூன்றாவது நாள்) வந்தபோது, ‘ஸுமாமாவை அவிழ்த்துவிடுங்கள்” என்று கூறினார்கள். அவர் பள்ளிவாசலுக்கு அருகி-ருந்த (அபூதல்ஹா (ரலி) அவர்களுக்குச் சொந்த மான) பேரீச்சந் தோட்டத்திற்குச் சென்று குளித்தார். பிறகு பள்ளிவாசலுக்குள் வந்து “அல்லாஹ்வைத் தவிர வேறு இறைவ னில்லை என்றும், முஹம்மத் (ஸல்) அவர்கள் அல்லாஹ்வின் தூதர் என்றும் நான் உறுதி மொழிகிறேன்” என்றார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>462</td></tr><tr><td>Arabic No</td><td>462</td></tr><tr><td>Reference</td><td>Book 8 Hadith 110</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem Necd taraflarına bir süvari birliği gönderdi. Birlik, Beni Hanife’den olan, Sümâme bin Usal adında birini esir alarak döndü. Ashâb-ı kiram onu Mescid-i Nebevî'nin direklerinden birine bağladılar. Derken Allah Resulü Sallallahu Aleyhi ve Sellem mescid'e geldi ve: 'Sümâme'yi serbest bırakın dedi. Sümâme mescidin yakınlarındaki bir hurma ağacının yanına gidip gusül abdesti aldı. Daha sonra mescide geldi ve 'Allah'tan başka ilâh olmadığına ve Muhammed'in onun elçisi olduğuna şehadet ederim' dedi. Tekrar: 469, 2422, 2423, 4372
+Ebu Hureyre (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem Necd taraflarına bir süvari birliği gönderdi. Birlik, Beni Hanife’den olan, Sümâme bin Usal adında birini esir alarak döndü. Ashâb-ı kiram onu Mescid-i Nebevî'nin direklerinden birine bağladılar. Derken Allah Resulü Sallallahu Aleyhi ve Sellem mescid'e geldi ve: 'Sümâme'yi serbest bırakın dedi. Sümâme mescidin yakınlarındaki bir hurma ağacının yanına gidip gusül abdesti aldı. Daha sonra mescide geldi ve 'Allah'tan başka ilâh olmadığına ve Muhammed'in onun elçisi olduğuna şehadet ederim' dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>462</td></tr><tr><td>Arabic No</td><td>462</td></tr><tr><td>Reference</td><td>Book 8 Hadith 110</td></tr></tbody></table></div>
 

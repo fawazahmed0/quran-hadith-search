@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল ..... আবূ তামীমা আল্ হুজায়মী (রহঃ) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি তার স্ত্রীকে হে আমার ভগ্নি বলে সন্বোধন করে। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে জিজ্ঞাসা করেন, সে কি তোমার (সত্যই) ভগ্নি? তিনি তা অপছন্দ করেন এবং তাকে এরূপ বলতে নিষেধ করেন।
+। আবূ তামীমাহ আল-হুজাইমী (রাযি.) সূত্রে বর্ণিত। এক ব্যক্তি তার স্ত্রীকে বললো, হে আমার বোন? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সে কি তোমার বোন? তিনি তার এরূপ সম্বোধনরকে অপছন্দ করলেন এবং এরূপ করতে নিষেধ করলেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2210</td></tr><tr><td>Arabic No</td><td>2210</td></tr><tr><td>Reference</td><td>Book 13 Hadith 36</td></tr></tbody></table></div>
 

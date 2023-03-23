@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন মুছান্না (রহঃ) .... যায়দ ইবন আরকাম (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন। তিনি বলেনঃ যখন কোন ব্যক্তি তার ভাইয়ের সাথে এ নিয়তে ওয়াদা করে যে, সে তা পালন করবে, কিন্তু কোন কারণবশতঃ সে তা পালন করতে অপরাগ হলে অর্থাৎ ওয়াদা মত আসতে না পারলে, সে গুনাহগার হবে না।
+। যায়িদ ইবনু আরকাম (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কোনো ব্যক্তি তার কোনো ভাইয়ের সঙ্গে ওয়াদা পূর্ণ করার নিয়্যাতে অঙ্গীকার করে এবং কোনো কারণে উক্ত অঙ্গীকার পূরণ করতে না পারে এবং ওয়াদা পূরণের নির্দিষ্ট সময়ও না আসে তাহলে তার পাপ হবে না।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4995</td></tr><tr><td>Arabic No</td><td>4995</td></tr><tr><td>Reference</td><td>Book 43 Hadith 223</td></tr></tbody></table></div>
 

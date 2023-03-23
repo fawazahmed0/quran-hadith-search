@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মুল মু’মিনীন ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, একবার অসুস্থ থাকার কারণে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজগৃহে সালাত আদায় করেন এবং বসে সালাত আদায় করছিলেন, একদল সাহাবী তাঁর পিছনে দাঁড়িয়ে সালাত আদায় করতে লাগলেন। তিনি তাদের প্রতি ইঙ্গিত করলেন যে, বসে যাও। সালাত শেষ করার পর তিনি বললেন, ইমাম নির্ধারণ করা হয় তাঁর ইক্তিদা করার জন্য। কাজেই সে যখন রুকূ‘ করে তখন তোমরাও রুকূ‘ করবে এবং সে যখন রুকূ‘ হতে মাথা উঠায় তখন তোমরাও মাথা উঠাবে, আর সে যখন বসে সালাত আদায় করে, তখন তোমরা সবাই বসে সালাত আদায় করবে। (১১১৩,১২৩৬,৫৬৫৮; মুসলিম ৪/১৯, ৪১২,আহমাদ ২৪৩০৪) (আধুনিক প্রকাশনীঃ ৬৪৭, ইসলামিক ফাউন্ডেশনঃ ৬৫৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মুল মু’মিনীন ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, একবার অসুস্থ থাকার কারণে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজগৃহে সালাত আদায় করেন এবং বসে সালাত আদায় করছিলেন, একদল সাহাবী তাঁর পিছনে দাঁড়িয়ে সালাত আদায় করতে লাগলেন। তিনি তাদের প্রতি ইঙ্গিত করলেন যে, বসে যাও। সালাত শেষ করার পর তিনি বললেন, ইমাম নির্ধারণ করা হয় তাঁর ইক্তিদা করার জন্য। কাজেই সে যখন রুকূ‘ করে তখন তোমরাও রুকূ‘ করবে এবং সে যখন রুকূ‘ হতে মাথা উঠায় তখন তোমরাও মাথা উঠাবে, আর সে যখন বসে সালাত আদায় করে, তখন তোমরা সবাই বসে সালাত আদায় করবে। (১১১৩,১২৩৬,৫৬৫৮; মুসলিম ৪/১৯, ৪১২,আহমাদ ২৪৩০৪) (আধুনিক প্রকাশনীঃ ৬৪৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>688</td></tr><tr><td>Arabic No</td><td>688</td></tr><tr><td>Reference</td><td>Book 10 Hadith 82</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (குதிரையிலிருந்து விழுந்ததால்) உடல் நலிவுற்றார்கள். அப்போது தமது இல்லத்தில் (மாடியறையில்) உட்கார்ந்தபடியே தொழுதார்கள். (அவர்களை உடல் நலம் விசாரிக்க வந்திருந்த) மக்கள் சிலர் அவர்களுக்குப் பின்னால் நின்றபடி தொழுதனர். அப்போது நபி (ஸல்) அவர்கள் மக்களிடம், ‘உட்காருங்கள்’ என்று சைகை செய்தார்கள். தொழுகை முடிந்தபோது, “இமாம் பின்பற்றப்படுவதற்காகவே ஏற்படுத்தப் பட்டுள்ளார். அவர் குனிந்தால் நீங்களும் குனி(ந்து ருகூஉ செய்)யுங்கள்; அவர் (தமது தலையை) உயர்த்தினால் நீங்களும் (தலையை) உயர்த்துங்கள். அவர் அமர்ந்து தொழுதால் நீங்களும் அமர்ந்தே தொழுங்கள்” என்று சொன்னார்கள்.28 அத்தியாயம் : 10
+இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (குதிரையிலிருந்து விழுந்ததால்) உடல் நலிவுற்றார்கள். அப்போது தமது இல்லத்தில் (மாடியறையில்) உட்கார்ந்தபடியே தொழுதார்கள். (அவர்களை உடல் நலம் விசாரிக்க வந்திருந்த) மக்கள் சிலர் அவர்களுக்குப் பின்னால் நின்றபடி தொழுதனர். அப்போது நபி (ஸல்) அவர்கள் மக்களிடம், ‘உட்காருங்கள்’ என்று சைகை செய்தார்கள். தொழுகை முடிந்தபோது, “இமாம் பின்பற்றப்படுவதற்காகவே ஏற்படுத்தப் பட்டுள்ளார். அவர் குனிந்தால் நீங்களும் குனி(ந்து ருகூஉ செய்)யுங்கள்; அவர் (தமது தலையை) உயர்த்தினால் நீங்களும் (தலையை) உயர்த்துங்கள். அவர் அமர்ந்து தொழுதால் நீங்களும் அமர்ந்தே தொழுங்கள்” என்று சொன்னார்கள்.28 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>688</td></tr><tr><td>Arabic No</td><td>688</td></tr><tr><td>Reference</td><td>Book 10 Hadith 82</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Mu'minlerin annesi Aişe (r.anha)'nın şöyle dediği nakledilmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem hasta olduğu günlerden birinde evinde oturduğu yerde namaz kıldırıyordu. Arkasında bulunan cemaat ise ayakta namaz'a durmuştu. Bunun üzerine Resûl-i Ekrem Sallallahu Aleyhi ve Sellem onlara eliyle işaret ederek oturmalarını istedi. Namazı bitirdikten sonra onlara şöyle buyurdu: İmam kendisine uyulması için vardır; o rükûya vardığında siz de rükû edin, o kalktığında siz de kalkın, o oturarak namaz kılıyorsa siz de oturarak namazlarınızı kılın. Tekrar: 1112, 1236 ve 5658
+Mu'minlerin annesi Aişe (r.anha)'nın şöyle dediği nakledilmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem hasta olduğu günlerden birinde evinde oturduğu yerde namaz kıldırıyordu. Arkasında bulunan cemaat ise ayakta namaz'a durmuştu. Bunun üzerine Resûl-i Ekrem Sallallahu Aleyhi ve Sellem onlara eliyle işaret ederek oturmalarını istedi. Namazı bitirdikten sonra onlara şöyle buyurdu: İmam kendisine uyulması için vardır; o rükûya vardığında siz de rükû edin, o kalktığında siz de kalkın, o oturarak namaz kılıyorsa siz de oturarak namazlarınızı kılın. Tekrar: 1112, 1236 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>688</td></tr><tr><td>Arabic No</td><td>688</td></tr><tr><td>Reference</td><td>Book 10 Hadith 82</td></tr></tbody></table></div>
 

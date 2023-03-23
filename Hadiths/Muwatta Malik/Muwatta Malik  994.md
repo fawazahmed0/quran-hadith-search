@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৩৭. মালিক (রহঃ) বলেনঃ আহলে ইলম হইতে তাঁহার নিকট রেওয়ায়ত পৌছিয়াছে যে, তাঁহারা বলিতেন, আল্লাহ্‌র রাহের শহীদগনকে গোসল করান বা তাঁহাদের কাহারও জানাযা পড়া ঠিক নহে। বরং যে কাপড়ে শহীদ হইয়াছেন সেই কাপড়েই তাঁহাদিগকে দাফন করা উচিত। মালিক (রহঃ) বলেন, ইহা যুদ্ধের ময়দানে নিহত শহীদগনের হুকুম। আর যুদ্ধের ময়দান হইতে জীবিত আনার পর বাড়ি আসিয়া আল্লাহ্‌র ইচ্ছায় কিছুক্ষন বা কিছু কাল পর যাহাদের মৃত্যু হয় তাঁহাদিগকে গোসল দেওয়া হইবে এবং তাঁহাদের জানাযাও পড়া হইবে। উমর ইবন খাত্তাব (রাঃ) এর বেলায়ও এরূপ করা হইয়াছিল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>994</td></tr><tr><td>Arabic No</td><td>994</td></tr><tr><td>Reference</td><td>Book 21 Hadith 36</td></tr></tbody></table></div>
 

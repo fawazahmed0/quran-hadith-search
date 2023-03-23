@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৩৪০। উবাদা ইবনুস সামিত (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নির্দেশ দিয়েছেন যে, ক্ষতি করাও যাবে না, ক্ষতি সহাও যাবে না।
+। উবাদা ইবনুস সামিত (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নির্দেশ দিয়েছেন যে, ক্ষতি করাও যাবে না, ক্ষতি সহাও যাবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2340</td></tr><tr><td>Arabic No</td><td>2340</td></tr><tr><td>Reference</td><td>Book 13 Hadith 33</td></tr></tbody></table></div>
 

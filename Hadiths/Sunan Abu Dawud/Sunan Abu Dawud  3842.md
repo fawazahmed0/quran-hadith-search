@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি ঘি-এর মধ্যে ইঁদুর পড়ে এবং তা জমাট হয়, তবে তোমরা ইঁদুর এবং এর চারপাশ থেকে ঘি উঠিয়ে ফেলে দেবে। আর ঘি যদি গলানো হয়, তবে তোমরা এর নিকটবর্তী হবে না, (অর্থাৎ খাবে না)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি ঘিয়ের মধ্যে ইুঁদর পতিত হয় এবং তা জমাট বাঁধা হয় তবে ইঁদুর ও এর চার পাশের ঘি ফেলে দিবে। ঘি যদি তরল হয় তবে তার নিকট যাবে না (খাবে না)।[1] শাযঃ মিশকাত (৪১২৩)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3842</td></tr><tr><td>Arabic No</td><td>3842</td></tr><tr><td>Reference</td><td>Book 28 Hadith 107</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন দু'ব্যক্তি কসম খেতে অপসন্দ করবে বা উভয়েই কসম করার জন্য প্রস্তুত হবে, তখন তাদের কসমের ব্যবস্থা লটারীর মাধ্যমে করা উচিত (অর্থাৎ যার নাম লটারীতে আগে আসবে, সে কসম করে তা নিয়ে নেবে।)
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ (বাদী-বিবাদী) উভয়েই কসম করা অপছন্দ বা পছন্দ করলে উভয়ের মধ্যে কে কসম করবে তা লটারীর মাধ্যমে নির্ধারণ করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3617</td></tr><tr><td>Arabic No</td><td>3617</td></tr><tr><td>Reference</td><td>Book 25 Hadith 47</td></tr></tbody></table></div>
 

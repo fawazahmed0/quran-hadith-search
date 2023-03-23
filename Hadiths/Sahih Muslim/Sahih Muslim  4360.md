@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪২৫২, আন্তর্জাতিক নাম্বারঃ ১৬৭১ ৪২৫২-(১৪/...) ফাযল ইবনু সাহল আ'রাজ (রহঃ) ...... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঐ লোকদের চোখে গরম লোহা ঢুকিয়ে দেন। কেননা তারা রাখালদের চক্ষুসমূহে গরম লোহা ঢুকিয়ে দিয়েছিল। (ইসলামিক ফাউন্ডেশন ৪২১৩, ইসলামিক সেন্টার ৪২১৩)
+ফাযল ইবনু সাহল আ'রাজ (রহঃ) ...... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঐ লোকদের চোখে গরম লোহা ঢুকিয়ে দেন। কেননা তারা রাখালদের চক্ষুসমূহে গরম লোহা ঢুকিয়ে দিয়েছিল। (ইসলামিক ফাউন্ডেশন ৪২১৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4360</td></tr><tr><td>Arabic No</td><td>1671.08</td></tr><tr><td>Reference</td><td>Book 28 Hadith 19</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Al Fadl bin Sahal Al A'raj] telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அந்த ஒட்டக மேய்ப்பர்களின் கண்களில் அவர்கள் சூடிட்டதால்தான் அவர்களுடைய கண்களில் நபி (ஸல்) அவர்கள் சூடிடச் செய்தார்கள். அத்தியாயம் : 28
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அந்த ஒட்டக மேய்ப்பர்களின் கண்களில் அவர்கள் சூடிட்டதால்தான் அவர்களுடைய கண்களில் நபி (ஸல்) அவர்கள் சூடிடச் செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4360</td></tr><tr><td>Arabic No</td><td>1671.08</td></tr><tr><td>Reference</td><td>Book 28 Hadith 19</td></tr></tbody></table></div>
 

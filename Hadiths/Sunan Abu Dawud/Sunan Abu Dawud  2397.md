@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল ...... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ ইবন কাসীর ও সুলায়মান বর্ণিত হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। ইমাম আবূ দাঊদ (রহঃ) বলেন, সুফইয়ান ও শু‘বা উভয়ের মধ্যে ‘ইবন মুতাওয়াস ও আবূ মুতাওয়াস’ শব্দের বিষয়ে মতপার্থক্য রয়েছে।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, অতঃপর ইবনু কাসীর ও সুলাইমান বর্ণিত হাদীসের অনুরূপ। ইমাম আবূ দাঊদ (রহ.) বলেন, সুফিয়ান ও শু‘বাহ (রহ.) ইবনুল মুতাবিবস ও আবুল মুতাবিবসের নাম নিয়ে মতভেদ করেছেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2397</td></tr><tr><td>Arabic No</td><td>2397</td></tr><tr><td>Reference</td><td>Book 14 Hadith 85</td></tr></tbody></table></div>
 

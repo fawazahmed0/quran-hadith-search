@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন ইউনুস (রহঃ) .... আবদুল্লাহ্‌ ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একবার আমরা নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে গিয়ে তাঁর হাতে চুমা দেই।
+। আব্দুর রাহমান ইবনু আবূ লাইলাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আব্দুল্লাহ ইবনু উমার (রাঃ) তার নিকট হাদীস বর্ণনা করেছেন। অতঃপর পুরো ঘটনা বর্ণনা করে বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকটবর্তী হয়ে তাঁর হাতে চুমু দিলাম।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5223</td></tr><tr><td>Arabic No</td><td>5223</td></tr><tr><td>Reference</td><td>Book 43 Hadith 451</td></tr></tbody></table></div>
 

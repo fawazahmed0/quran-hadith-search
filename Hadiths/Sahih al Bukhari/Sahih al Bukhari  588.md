@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’ সময়ে সালাত আদায় করতে নিষেধ করেছেন। ফজরের পর সূর্য উঠা পর্যন্ত এবং ‘আসরের পর সূর্য ডুবা পর্যন্ত। (৩৬৮) (আধুনিক প্রকাশনীঃ ৫৫৩, ইসলামিক ফাউন্ডেশনঃ ৫৬১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’ সময়ে সালাত আদায় করতে নিষেধ করেছেন। ফজরের পর সূর্য উঠা পর্যন্ত এবং ‘আসরের পর সূর্য ডুবা পর্যন্ত। (৩৬৮) (আধুনিক প্রকাশনীঃ ৫৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>588</td></tr><tr><td>Arabic No</td><td>588</td></tr><tr><td>Reference</td><td>Book 9 Hadith 63</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: இரண்டு நேரங்களில் தொழ வேண்டாமென அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள்: 1) ஃபஜ்ர் தொழுகைக்குப் பின்னா-ருந்து சூரியன் (முழுமையாக) உதயமாகும் வரையிலும். 2) அஸ்ர் தொழுகைக்குப் பின்னா-ருந்து (முழுமையாகச்) சூரியன் மறையும் வரையிலும். அத்தியாயம் : 9
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: இரண்டு நேரங்களில் தொழ வேண்டாமென அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள்: 1) ஃபஜ்ர் தொழுகைக்குப் பின்னா-ருந்து சூரியன் (முழுமையாக) உதயமாகும் வரையிலும். 2) அஸ்ர் தொழுகைக்குப் பின்னா-ருந்து (முழுமையாகச்) சூரியன் மறையும் வரையிலும். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>588</td></tr><tr><td>Arabic No</td><td>588</td></tr><tr><td>Reference</td><td>Book 9 Hadith 63</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাইল (রহঃ) .... জাবির ইবন আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও আবূ বকর (রাঃ) এর যুগে ‘উম্মু–ওলাদ’ কে বিক্রি করতাম। পরে উমার (রাঃ) এর খিলাফতকালে তিনি আমাদেরকে এরূপ করতে নিষেধ করেন।
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও আবূ বাকরের যুগে উম্মু ওয়ালাদ বাঁদীদেরকে বিক্রি করেছি। পরবর্তীতে উমার (রাঃ)-এর যুগে তিনি আমাদের বারণ করায় আমরা বিরত হই।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3954</td></tr><tr><td>Arabic No</td><td>3954</td></tr><tr><td>Reference</td><td>Book 31 Hadith 29</td></tr></tbody></table></div>
 

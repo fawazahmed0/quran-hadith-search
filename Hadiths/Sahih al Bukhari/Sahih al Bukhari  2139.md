@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কেউ যেন তার ভাইয়ের ক্রয়-বিক্রয়ের উপর ক্রয় না করে। (২১৬৫, ৫১৫২, মুসলিম ১৬/৫, হাঃ ১৪১২, আহমাদ ৪৭২২) (আধুনিক প্রকাশনীঃ ১৯৯১ , ইসলামিক ফাউন্ডেশনঃ ২০০৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কেউ যেন তার ভাইয়ের ক্রয়-বিক্রয়ের উপর ক্রয় না করে। (২১৬৫, ৫১৫২, মুসলিম ১৬/৫, হাঃ ১৪১২, আহমাদ ৪৭২২) (আধুনিক প্রকাশনীঃ ১৯৯১ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2139</td></tr><tr><td>Arabic No</td><td>2139</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் வணிகம் செய்துகொண்டிருக்கும்போது, மற்றவர் குறுக்கிட்டு வணிகம் செய்யக் கூடாது! இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் வணிகம் செய்துகொண்டிருக்கும்போது, மற்றவர் குறுக்கிட்டு வணிகம் செய்யக் கூடாது! இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2139</td></tr><tr><td>Arabic No</td><td>2139</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a., Resulullah Sallallahu Aleyhi ve Sellem'in şu sözünü nakletmiştir: "Birbirinizin satışı üzerine satış yapmayın. " Tekrar: 3165, 5142
+Abdullah İbn Ömer r.a., Resulullah Sallallahu Aleyhi ve Sellem'in şu sözünü nakletmiştir: "Birbirinizin satışı üzerine satış yapmayın. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2139</td></tr><tr><td>Arabic No</td><td>2139</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
 

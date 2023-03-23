@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৬৭০, আন্তর্জাতিক নাম্বারঃ ১১৭১ ২৬৭০-(১/১১৭১) মুহাম্মাদ ইবনু মিহরান আর রায়ী (রহঃ) ..... ইবনু উমর (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রমযান মাসের শেষ দশ দিন ইতিকাফ করতেন। (ইসলামিক ফাউন্ডেশন ২৬৪৭, ইসলামীক সেন্টার ২৬৪৬)
+মুহাম্মাদ ইবনু মিহরান আর রায়ী (রহঃ) ..... ইবনু উমর (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রমযান মাসের শেষ দশ দিন ইতিকাফ করতেন। (ইসলামিক ফাউন্ডেশন ২৬৪৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2780</td></tr><tr><td>Arabic No</td><td>1171.01</td></tr><tr><td>Reference</td><td>Book 14 Hadith 1</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin Mihran Ar Razi] telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (வணக்க வழிபாடுகளில்) மற்ற நாட்களில் காட்டாத (அதிக) ஈடுபாட்டை, (ரமளானின்) இறுதிப்பத்து நாட்களில் காட்டுவார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 14
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (வணக்க வழிபாடுகளில்) மற்ற நாட்களில் காட்டாத (அதிக) ஈடுபாட்டை, (ரமளானின்) இறுதிப்பத்து நாட்களில் காட்டுவார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2780</td></tr><tr><td>Arabic No</td><td>1171.01</td></tr><tr><td>Reference</td><td>Book 14 Hadith 1</td></tr></tbody></table></div>
 

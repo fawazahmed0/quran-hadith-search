@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫৬৩, আন্তর্জাতিক নাম্বারঃ ২১৭০ ৫৫৬৩-(.../…) সুওয়াইদ ইবনু সাঈদ (রহঃ) ..... হিশাম (রহঃ) হতে উপরোল্লিখিত সূত্রে এ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪৮৩, ইসলামিক সেন্টার ৫৫০৭)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5670</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

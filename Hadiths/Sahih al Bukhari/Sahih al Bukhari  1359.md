@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ প্রত্যেক নবজাতকই ফিত্রাতের উপর জন্মলাভ করে। অতঃপর তার পিতামাতা তাকে ইয়াহূদী, নাসারা বা মাজূসী (অগ্নিপূজারী) রূপে গড়ে তোলে। যেমন, চতুষ্পদ পশু একটি পূর্ণাঙ্গ বাচ্চা জন্ম দেয়। তোমরা কি তাকে কোন (জন্মগত) কানকাটা দেখতে পাও? অতঃপর আবূ হুরাইরাহ্ (রাঃ) তিলাওয়াত করলেনঃ (যার অর্থ) ‘‘আল্লাহ্‌র দেয়া ফিত্রাতের অনুসরণ কর, যে ফিত্রাতের উপর তিনি মানুষ সৃষ্টি করেছেন, এটাই সরল সুদৃঢ় দ্বীন’’- (রুমঃ ৩০)। (মুসলিম ৪৬/৬, হাঃ ২৬৫৮, আহমাদ ৮১৮৫) (আধুনিক প্রকাশনীঃ ১২৬৯, ইসলামিক ফাউন্ডেশনঃ ১২৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ প্রত্যেক নবজাতকই ফিত্রাতের উপর জন্মলাভ করে। অতঃপর তার পিতামাতা তাকে ইয়াহূদী, নাসারা বা মাজূসী (অগ্নিপূজারী) রূপে গড়ে তোলে। যেমন, চতুষ্পদ পশু একটি পূর্ণাঙ্গ বাচ্চা জন্ম দেয়। তোমরা কি তাকে কোন (জন্মগত) কানকাটা দেখতে পাও? অতঃপর আবূ হুরাইরাহ্ (রাঃ) তিলাওয়াত করলেনঃ (যার অর্থ) ‘‘আল্লাহ্‌র দেয়া ফিত্রাতের অনুসরণ কর, যে ফিত্রাতের উপর তিনি মানুষ সৃষ্টি করেছেন, এটাই সরল সুদৃঢ় দ্বীন’’- (রুমঃ ৩০)। (মুসলিম ৪৬/৬, হাঃ ২৬৫৮, আহমাদ ৮১৮৫) (আধুনিক প্রকাশনীঃ ১২৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1359</td></tr><tr><td>Arabic No</td><td>1359</td></tr><tr><td>Reference</td><td>Book 23 Hadith 112</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Every child is born with a true faith of Islam (i.e. to worship none but Allah Alone) but his parents convert him to Judaism, Christianity or Magainism, as an animal delivers a perfect baby animal. Do you find it mutilated?" Then Abu Huraira recited the holy verses: "The pure Allah's Islamic nature (true faith of Islam) (i.e. worshipping none but Allah) with which He has created human beings. No change let there be in the religion of Allah (i.e. joining none in worship with Allah). That is the straight religion (Islam) but most of men know, not." (30.30)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Every child is born with a true faith of Islam (i.e. to worship none but Allah Alone) but his parents convert him to Judaism, Christianity or Magainism, as an animal delivers a perfect baby animal. Do you find it mutilated?" Then Abu Huraira recited the holy verses: "The pure Allah's Islamic nature (true faith of Islam) (i.e. worshipping none but Allah) with which He has created human beings. No change let there be in the religion of Allah (i.e. joining none in worship with Allah). That is the straight religion (Islam) but most of men know, not
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1359</td></tr><tr><td>Arabic No</td><td>1359</td></tr><tr><td>Reference</td><td>Book 23 Hadith 112</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: “ஒரு விலங்கு எப்படி முழு வளர்ச்சி பெற்ற விலங்கைப் பெற்றெடுக்கிறதோ அவ்வாறே, எல்லாக் குழந்தைகளுமே இயற்கையான (மார்க்கத்)தில்தான் பிறக் கின்றன. விலங்குகள் அங்கக் குறைவு டன் பிறப்பதை நீங்கள் பார்த்திருக்கிறீர் களா? (முழுமையான விலங்கை அங்க சேதப்படுத்துவதைப் போன்று) பெற்றோர் கள்தான் குழந்தைகளை (இயற்கையான மார்க்கத்தைவிட்டுத் திருப்பி) யூதர்களா கவோ கிறித்தவர்களாகவோ அக்னி ஆராதனையாளர்களாகவோ மாற்றிவிடு கின்றனர்.” இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். பிறகு அபூஹுரைரா (ரலி) அவர்கள், “எ(ந்த மார்க்கத்)தில் அல்லாஹ் மனிதர்களைப் படைத்தானோ அதுவே அவனது (நிலையான) இயற்கை மார்க்க மாகும்; அல்லாஹ்வின் படைப்புக்கு மாற்றம் இல்லை; அதுவே நிலையான மார்க்கமாகும்” (30:30) என்ற வசனத்தை ஓதிக்காட்டினார்கள். அத்தியாயம் : 23
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: “ஒரு விலங்கு எப்படி முழு வளர்ச்சி பெற்ற விலங்கைப் பெற்றெடுக்கிறதோ அவ்வாறே, எல்லாக் குழந்தைகளுமே இயற்கையான (மார்க்கத்)தில்தான் பிறக் கின்றன. விலங்குகள் அங்கக் குறைவு டன் பிறப்பதை நீங்கள் பார்த்திருக்கிறீர் களா? (முழுமையான விலங்கை அங்க சேதப்படுத்துவதைப் போன்று) பெற்றோர் கள்தான் குழந்தைகளை (இயற்கையான மார்க்கத்தைவிட்டுத் திருப்பி) யூதர்களா கவோ கிறித்தவர்களாகவோ அக்னி ஆராதனையாளர்களாகவோ மாற்றிவிடு கின்றனர்.” இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். பிறகு அபூஹுரைரா (ரலி) அவர்கள், “எ(ந்த மார்க்கத்)தில் அல்லாஹ் மனிதர்களைப் படைத்தானோ அதுவே அவனது (நிலையான) இயற்கை மார்க்க மாகும்; அல்லாஹ்வின் படைப்புக்கு மாற்றம் இல்லை; அதுவே நிலையான மார்க்கமாகும்” (30:30) என்ற வசனத்தை ஓதிக்காட்டினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1359</td></tr><tr><td>Arabic No</td><td>1359</td></tr><tr><td>Reference</td><td>Book 23 Hadith 112</td></tr></tbody></table></div>
 

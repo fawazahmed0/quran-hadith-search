@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৪৬. ইয়াহইয়া ইবন সাঈদ (রহঃ) সাঈদ ইবন মুসায়্যাব (রহঃ)-কে বলিতে শুনিয়াছেন, তিনি বলিতেনঃ ঘোড়দৌড়ে কোন কিছুর শর্ত করায় দোষ নাই তবে শর্ত হইল, ইহাদের মধ্যে তৃতীয় এক ব্যক্তি হইতে হইবে। সে যদি সকলের আগে যাইতে পারে শর্তকৃত বস্তু সে-ই নিয়া যাইবে। আর পিছনে পড়িয়া গেলে সে কিছুই পাইবে না।[1]
+রেওয়ায়ত ৪৬. ইয়াহইয়া ইবন সাঈদ (রহঃ) সাঈদ ইবন মুসায়্যাব (রহঃ)-কে বলিতে শুনিয়াছেন, তিনি বলিতেনঃ ঘোড়দৌড়ে কোন কিছুর শর্ত করায় দোষ নাই তবে শর্ত হইল, ইহাদের মধ্যে তৃতীয় এক ব্যক্তি হইতে হইবে। সে যদি সকলের আগে যাইতে পারে শর্তকৃত বস্তু সে-ই নিয়া যাইবে। আর পিছনে পড়িয়া গেলে সে কিছুই পাইবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1003</td></tr><tr><td>Arabic No</td><td>1003</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমরা যা কিছু (সম্পদ) রেখে যাই, কেউ তার ওয়ারিশ হয় না, সব সদাকাহ। [৪০৩৪] (আধুনিক প্রকাশনী- ৬২৫৯, ইসলামিক ফাউন্ডেশন- ৬২৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমরা যা কিছু (সম্পদ) রেখে যাই, কেউ তার ওয়ারিশ হয় না, সব সদাকাহ। [৪০৩৪] (আধুনিক প্রকাশনী- ৬২৫৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6727</td></tr><tr><td>Arabic No</td><td>6727</td></tr><tr><td>Reference</td><td>Book 85 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "Our (Apostles') property should not be 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (இறைத்தூதர்களான) எங்களுக்கு யாரும் (சொத்தில்) வாரிசாவதில்லை. நாங்கள் விட்டுச்செல்பவையெல்லாம் தர்மமே. இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 86
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (இறைத்தூதர்களான) எங்களுக்கு யாரும் (சொத்தில்) வாரிசாவதில்லை. நாங்கள் விட்டுச்செல்பவையெல்லாம் தர்மமே. இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6727</td></tr><tr><td>Arabic No</td><td>6727</td></tr><tr><td>Reference</td><td>Book 85 Hadith 4</td></tr></tbody></table></div>
 

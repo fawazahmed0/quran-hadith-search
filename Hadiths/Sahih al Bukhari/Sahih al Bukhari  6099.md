@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কষ্টদায়ক কথা শোনার পর আল্লাহ তা‘আলার চেয়ে বেশি ধৈর্যধারণকারী কেউ বা কোন কিছুই নেই। লোকেরা তাঁর জন্য সন্তান সাব্যস্ত করে, এরপরও তিনি তাদের বিপদ মুক্ত রাখেন এবং রিয্ক দান করেন। [৭৩৭৮; মুসলিম ৫০/৯, হাঃ ২৮০৪, আহমাদ ১৯৫৪৪] (আধুনিক প্রকাশনী- ৫৬৬০, ইসলামিক ফাউন্ডেশন- ৫৫৫৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কষ্টদায়ক কথা শোনার পর আল্লাহ তা‘আলার চেয়ে বেশি ধৈর্যধারণকারী কেউ বা কোন কিছুই নেই। লোকেরা তাঁর জন্য সন্তান সাব্যস্ত করে, এরপরও তিনি তাদের বিপদ মুক্ত রাখেন এবং রিয্ক দান করেন। [৭৩৭৮; মুসলিম ৫০/৯, হাঃ ২৮০৪, আহমাদ ১৯৫৪৪] (আধুনিক প্রকাশনী- ৫৬৬০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6099</td></tr><tr><td>Arabic No</td><td>6099</td></tr><tr><td>Reference</td><td>Book 78 Hadith 126</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மனவேதனைக்குள்ளாக்கும் செய்தி கேட்டும் (உடனே தண்டித்துவிடாமல்) மிகவும் பொறுமை காப்பவர் அல்லாஹ்வைவிட வேறு ‘யாருமில்லை’ அல்லது ‘ஏதுமில்லை’. மனிதர்கள் (சிலர்) அவனுக்குக் குழந்தை இருப்பதாகக் கூறுகின்றனர். (இது மன்னிக்க முடியாத குற்றமாக இருந்தும்) அவனோ அவர்களுக்கு உடல்நலத்தையும் உணவு வளத்தையும் வழங்கிக்கொண்டிருக்கிறான். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மனவேதனைக்குள்ளாக்கும் செய்தி கேட்டும் (உடனே தண்டித்துவிடாமல்) மிகவும் பொறுமை காப்பவர் அல்லாஹ்வைவிட வேறு ‘யாருமில்லை’ அல்லது ‘ஏதுமில்லை’. மனிதர்கள் (சிலர்) அவனுக்குக் குழந்தை இருப்பதாகக் கூறுகின்றனர். (இது மன்னிக்க முடியாத குற்றமாக இருந்தும்) அவனோ அவர்களுக்கு உடல்நலத்தையும் உணவு வளத்தையும் வழங்கிக்கொண்டிருக்கிறான். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6099</td></tr><tr><td>Arabic No</td><td>6099</td></tr><tr><td>Reference</td><td>Book 78 Hadith 126</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Musa (el-Eş'ari) r.a.'dan, Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "İşittiği eziyet verici söze karşı Allah'tan daha çok sabreden bir kimse -yahut bir şey- yoktur. Onlar onun evladı olduğunu ileri sürüyorlar. Halbuki o, onlara sıhhat ve rızık verip duruyor." Tekrar: 7378
+Ebu Musa (el-Eş'ari) r.a.'dan, Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "İşittiği eziyet verici söze karşı Allah'tan daha çok sabreden bir kimse -yahut bir şey- yoktur. Onlar onun evladı olduğunu ileri sürüyorlar. Halbuki o, onlara sıhhat ve rızık verip duruyor." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6099</td></tr><tr><td>Arabic No</td><td>6099</td></tr><tr><td>Reference</td><td>Book 78 Hadith 126</td></tr></tbody></table></div>
 

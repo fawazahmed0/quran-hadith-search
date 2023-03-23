@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুদ্ধের জন্যে তৈরি ঘোড়াকে ‘হাফ্য়া’ (নামক স্থান) হতে ‘সানিয়াতুল ওয়াদা’ পর্যন্ত দৌড় প্রতিযোগিতা করিয়েছিলেন। আর যে ঘোড়া যুদ্ধের জন্যে তৈরি নয়, সে ঘোড়াকে ‘সানিয়া’ হতে যুরাইক গোত্রের মাসজিদ পর্যন্ত দৌঁড় প্রতিযোগিতা করিয়েছিলেন। আর এই প্রতিযোগিতায় ‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) অগ্রগামী ছিলেন। (২৮৬৮, ২৮৬৯, ২৮৭০, ৭৩৩৬; মুসলিম ৩৩/২৫, হাঃ ১৮৭০, আহমাদ ৪৪৮৭) (আধুনিক প্রকাশনীঃ ৪০৩, ইসলামিক ফাউন্ডেশনঃ ৪০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুদ্ধের জন্যে তৈরি ঘোড়াকে ‘হাফ্য়া’ (নামক স্থান) হতে ‘সানিয়াতুল ওয়াদা’ পর্যন্ত দৌড় প্রতিযোগিতা করিয়েছিলেন। আর যে ঘোড়া যুদ্ধের জন্যে তৈরি নয়, সে ঘোড়াকে ‘সানিয়া’ হতে যুরাইক গোত্রের মাসজিদ পর্যন্ত দৌঁড় প্রতিযোগিতা করিয়েছিলেন। আর এই প্রতিযোগিতায় ‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) অগ্রগামী ছিলেন। (২৮৬৮, ২৮৬৯, ২৮৭০, ৭৩৩৬; মুসলিম ৩৩/২৫, হাঃ ১৮৭০, আহমাদ ৪৪৮৭) (আধুনিক প্রকাশনীঃ ৪০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>420</td></tr><tr><td>Arabic No</td><td>420</td></tr><tr><td>Reference</td><td>Book 8 Hadith 70</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மெலியவைக்கப்பட்ட (பயிற்சியளிக்கப் பட்ட) குதிரைகளுக்கிடையே ‘ஹஃப்யா’ எனும் இடத்தி-ருந்து பந்தயம் வைத்தார்கள். அவற்றின் (பந்தய) எல்லை ‘ஸனிய்யத்துல் வதா’ எனும் மலைக் குன்றாகும். மெ-யவைக்கப்படாத (பயிற்சி பெறாத) குதிரைகளுக்கிடையே அந்த ‘ஸனிய்யத்துல் வதா’வி-ருந்து ‘பனூ ஸுரைக்’ குலத்தாரின் பள்ளிவாசல்வரை பந்தயம் வைத்தார்கள். (இதன் அறிவிப்பாளரான) நாஃபிஉ (ரஹ்) அவர்கள் கூறுகிறார்கள்: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் இந்தப் பந்தயங்களில் கலந்துகொண்ட வர்களில் ஒருவராக இருந்தார்கள். அத்தியாயம் : 8
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மெலியவைக்கப்பட்ட (பயிற்சியளிக்கப் பட்ட) குதிரைகளுக்கிடையே ‘ஹஃப்யா’ எனும் இடத்தி-ருந்து பந்தயம் வைத்தார்கள். அவற்றின் (பந்தய) எல்லை ‘ஸனிய்யத்துல் வதா’ எனும் மலைக் குன்றாகும். மெ-யவைக்கப்படாத (பயிற்சி பெறாத) குதிரைகளுக்கிடையே அந்த ‘ஸனிய்யத்துல் வதா’வி-ருந்து ‘பனூ ஸுரைக்’ குலத்தாரின் பள்ளிவாசல்வரை பந்தயம் வைத்தார்கள். (இதன் அறிவிப்பாளரான) நாஃபிஉ (ரஹ்) அவர்கள் கூறுகிறார்கள்: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் இந்தப் பந்தயங்களில் கலந்துகொண்ட வர்களில் ஒருவராக இருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>420</td></tr><tr><td>Arabic No</td><td>420</td></tr><tr><td>Reference</td><td>Book 8 Hadith 70</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nafi Abdullah bin Ömer (r.a.)'den şöyle nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem yarışa hazırlanmış atlar arasında Hafyâ'dan Veda' tepesine kadar yarış yapmıştır. Yarışa hazırlanmamış atlar arasında Seniyye'den Zuraykoğulları camisine kadar yarışmıştır. Abdullah İbn Ömer de yarışanlar arasında idi. Tekrar: 2868, 2869, 2870, 7336
+Nafi Abdullah bin Ömer (r.a.)'den şöyle nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem yarışa hazırlanmış atlar arasında Hafyâ'dan Veda' tepesine kadar yarış yapmıştır. Yarışa hazırlanmamış atlar arasında Seniyye'den Zuraykoğulları camisine kadar yarışmıştır. Abdullah İbn Ömer de yarışanlar arasında idi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>420</td></tr><tr><td>Arabic No</td><td>420</td></tr><tr><td>Reference</td><td>Book 8 Hadith 70</td></tr></tbody></table></div>
 

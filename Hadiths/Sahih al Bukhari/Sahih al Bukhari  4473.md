@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বুরাইদাহ (রাঃ) হতে বর্ণিত। তিনি বলেন যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে ষোলটি যুদ্ধে অংশ নিয়েছিলেন। [মুসলিম ৩২/৪৯, হাঃ ১৮১৪] (আধুনিক প্রকাশনীঃ ৪১১৫, ইসলামিক ফাউন্ডেশনঃ ৪১১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4473</td></tr><tr><td>Arabic No</td><td>4473</td></tr><tr><td>Reference</td><td>Book 64 Hadith 488</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ahmad bin Al Hasan] Telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-புரைதா பின் அல்ஹஸீப் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல் அவர்களுடன் பதினாறு அறப்போர்களில் கலந்துகொண்டேன். அத்தியாயம் : 64)
+புரைதா பின் அல்ஹஸீப் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல் அவர்களுடன் பதினாறு அறப்போர்களில் கலந்துகொண்டேன். அத்தியாயம் :)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4473</td></tr><tr><td>Arabic No</td><td>4473</td></tr><tr><td>Reference</td><td>Book 64 Hadith 488</td></tr></tbody></table></div>
 

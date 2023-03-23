@@ -72,7 +72,7 @@ Ibrahim b. Sa'id al-Jauhari has narrated this hadith with the same words in addi
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bunu bana İbrahim b. Said el-Cevheri de tahdis etti. Bize Ebu Usame tahdis etti. Bize Bureyd b. Abdullah bu isnatla tahdis etti. Dedi ki: Rasulullah (Sallallahu aleyhi ve Sellem)'e: Müslümanların hangileri daha üstündür diye soruldu deyip, hadisin geri kalan kısmını aynen zikretti. 159,160,161,162
+Bunu bana İbrahim b. Said el-Cevheri de tahdis etti. Bize Ebu Usame tahdis etti. Bize Bureyd b. Abdullah bu isnatla tahdis etti. Dedi ki: Rasulullah (Sallallahu aleyhi ve Sellem)'e: Müslümanların hangileri daha üstündür diye soruldu deyip, hadisin geri kalan kısmını aynen zikretti
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>164</td></tr><tr><td>Arabic No</td><td>42.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 71</td></tr></tbody></table></div>
 

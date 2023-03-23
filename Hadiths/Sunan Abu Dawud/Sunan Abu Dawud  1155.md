@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবনুল সাব্বাহ (রহঃ) ..... আব্দুল্লাহ্‌ ইবনুস সায়েব (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ঈদের নামায আদায় করি। নামায শেষে তিনি বলেন, আমি এখন খুতবা দেব। যে তা শুনতে চায়, সে যেন বসে থাকে এবং যে চলে যেতে চায় সে দেতে পারে। (নাসাঈ, ইবনে মাজা)
+। ‘আবদুল্লাহ ইবনুস সায়িব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ঈদের সালাত আদায় করি। সালাত শেষে তিনি বলেনঃ আমি এখন খুত্ববাহ দিবো। যে খুত্ববাহ শুনার জন্য বসতে চায় সে বসবে, আর কেউ চলে যেতে চাইলে চলে যাবে।[1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, এ হাদীসটি মুরসাল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1155</td></tr><tr><td>Arabic No</td><td>1155</td></tr><tr><td>Reference</td><td>Book 2 Hadith 766</td></tr></tbody></table></div>
 

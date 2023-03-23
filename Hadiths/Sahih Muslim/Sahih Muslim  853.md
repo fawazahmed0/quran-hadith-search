@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইসহাক ইবনু মানসূর (রহঃ) ..... ঈসা ইবনু তালহাহ্ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি মুআবিয়াহ (রাযিঃ) কে বলতে শুনেছি। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উপরোক্ত হাদীসের অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৭৩৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>853</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

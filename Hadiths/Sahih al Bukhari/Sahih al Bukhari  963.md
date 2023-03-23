@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর এবং ‘উমার (রাযি.) উভয় ‘ঈদের সালাত খুৎবার আগে আদায় করতেন। (৯৫৭) (আধুনিক প্রকাশনীঃ ৯০৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 13 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ya'qub bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரும் இரு பெருநாட்களிலும் (குத்பா) உரை நிகழ்த்துவதற்கு முன்பே தொழுவார்கள். அத்தியாயம் : 13
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரும் இரு பெருநாட்களிலும் (குத்பா) உரை நிகழ்த்துவதற்கு முன்பே தொழுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 13 Hadith 12</td></tr></tbody></table></div>
 

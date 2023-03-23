@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৩৪৭। সালিম (রহঃ) হতে তার বাবার সূত্রে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শরীকানা গোলামের ক্ষেত্রে কোন লোক তার নিজের অংশকে মুক্ত করে দিলে এবং তার নিকট গোলামটির মূল্যের সমপরিমাণ মাল থাকলে সে তার (মুক্তকারী মালিকের) মালের সাহায্যে সম্পূর্ণরূপে মুক্ত হয়ে যাবে। সহীহ, প্রাগুক্ত এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। সালিম (রহঃ) হতে তার বাবার সূত্রে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শরীকানা গোলামের ক্ষেত্রে কোন লোক তার নিজের অংশকে মুক্ত করে দিলে এবং তার নিকট গোলামটির মূল্যের সমপরিমাণ মাল থাকলে সে তার (মুক্তকারী মালিকের) মালের সাহায্যে সম্পূর্ণরূপে মুক্ত হয়ে যাবে। সহীহ, প্রাগুক্ত এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1347</td></tr><tr><td>Arabic No</td><td>1347</td></tr><tr><td>Reference</td><td>Book 15 Hadith 27</td></tr></tbody></table></div>
 

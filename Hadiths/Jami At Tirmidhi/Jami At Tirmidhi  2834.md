@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইবনু উমার (রাযিঃ) হতে বর্ণিত, তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অবশ্যই আল্লাহ তা’আলার নিকট অধিক পছন্দনীয় নাম হলো ‘আবদুল্লাহ ও আবদুর রাহমান। সহীহঃ দেখুন পূর্বের হাদীস। এ হাদীসটি এই সূত্রে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2834</td></tr><tr><td>Arabic No</td><td>2834</td></tr><tr><td>Reference</td><td>Book 43 Hadith 108</td></tr></tbody></table></div>
 

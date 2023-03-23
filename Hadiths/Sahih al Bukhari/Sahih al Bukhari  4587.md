@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উবাইদুল্লাহ (রহ.) হতে বর্ণিত। তিনি বলেছেন যে, আমি ইবনু ‘আব্বাস (রাঃ)-কে বলতে শুনেছি তিনি বলেছেন যে, আমি এবং আমার আম্মা (আয়াতে বর্ণিত) অসহায়দের অন্তর্ভুক্ত ছিলাম। [১৩৫৭] (আধুনিক প্রকাশনীঃ ৪২২৬, ইসলামিক ফাউন্ডেশনঃ ৪২২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উবাইদুল্লাহ (রহ.) হতে বর্ণিত। তিনি বলেছেন যে, আমি ইবনু ‘আব্বাস (রাঃ)-কে বলতে শুনেছি তিনি বলেছেন যে, আমি এবং আমার আম্মা (আয়াতে বর্ণিত) অসহায়দের অন্তর্ভুক্ত ছিলাম। [১৩৫৭] (আধুনিক প্রকাশনীঃ ৪২২৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4587</td></tr><tr><td>Arabic No</td><td>4587</td></tr><tr><td>Reference</td><td>Book 65 Hadith 109</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ibn 'Abbas:My mother and I were among the weak and oppressed (Muslims a
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku ['Abdullah bin Muhammad] Telah menceritakan kepada kami [Sufyan] dari ['Ubaidillah] dia berkata; Aku mendengar [Ibnu 'Abbas] berkata; Aku bersama Ibuku termasuk dalam ayat; "mereka yang tertindas baik laki-laki atau wanita." (An Nisa: 98)
+Telah menceritakan kepadaku ['Abdullah bin Muhammad] Telah menceritakan kepada kami [Sufyan] dari ['Ubaidillah] dia berkata; Aku mendengar [Ibnu 'Abbas] berkata; Aku bersama Ibuku termasuk dalam ayat; "mereka yang tertindas baik laki-laki atau wanita." (An Nisa:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4587</td></tr><tr><td>Arabic No</td><td>4587</td></tr><tr><td>Reference</td><td>Book 65 Hadith 109</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku ['Abdullah bin Muhammad] Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நானும் என் தாயாரும் (மக்காவில் இஸ்லாத்தை ஏற்றிருந்த) ஒடுக்கப்பட்ட பலவீனமான பிரிவினரைச் சேர்ந்தவர் களாயிருந்தோம்.19 அத்தியாயம் : 65
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நானும் என் தாயாரும் (மக்காவில் இஸ்லாத்தை ஏற்றிருந்த) ஒடுக்கப்பட்ட பலவீனமான பிரிவினரைச் சேர்ந்தவர் களாயிருந்தோம்.19 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4587</td></tr><tr><td>Arabic No</td><td>4587</td></tr><tr><td>Reference</td><td>Book 65 Hadith 109</td></tr></tbody></table></div>
 

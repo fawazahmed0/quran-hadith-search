@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনে সালেহ (রহঃ) .... আবু সালমা (রহঃ) হতে বর্ণিত। তিনি আবু হুরায়রা (রাঃ) হতে বর্ণনা করেছেন। তিনি বলেন, একদা রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে আমরা একত্রে নামায আদায় করি। এ সময় এক বেদুঈন আরব বলেঃ ইয়া আল্লাহ! তুমি মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও আমার উপর রহমত বর্ষণ কর এবং আমাদের ব্যতীত অন্যদের উপর রহমত কর না। এতদশ্রবণে রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাম ফিরিয়ে ঐ বেদুঈন ব্যক্তিকে বলেনঃ তুমি অবশ্যই প্রশস্ত বস্তুকে সংকির্ণ করেছ। অর্থাৎ আল্লাহ তায়ালার রহমত ব্যাপক। (বুখারী, নাসাঈ)।
+। আবূ সালামাহ্ (রাঃ) হতে আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে আমরা সালাতে দাঁড়ালাম। সালাতের মধ্যেই এক বেদুইন বললোঃ ‘হে আল্লাহ! আপনি মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও আমার উপর রহমত বর্ষণ করুন এবং আমাদের সাথে অন্যদের উপর রহমত করবেন না।’ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাম ফিরিয়ে ঐ বেদুইনকে বললেনঃ তুমি প্রশস্ত বস্তুকে সংকীর্ণ করে ফেলেছো। অর্থাৎ মহান আল্লাহ রহমত প্রশস্ত।[1] সহীহ : বুখারী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>882</td></tr><tr><td>Arabic No</td><td>882</td></tr><tr><td>Reference</td><td>Book 2 Hadith 492</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) namaza durdu onunla beraber biz de durduk. Bir bedevi arab namazda; "Ey Allah'ım, bana ve Muhammed'e acı, bizimle dışımızda başka kimseye acıma!" diye dua etti. Resulullah (Sallallahu aleyhi ve Sellem) selam verince, bedevi Araba, -Aziz ve Celil olan Allah'ın rahmetini kast ederek- "Vallahi sen genişi daraltın” buyurdu. Diğer tahric: Buharî, edeb; Tirmizî, tahare; Nesaî, sehv; Ebu Davud, tahare; Ahmed b. Hanbçl, II, 239, 283
+Ebu Hureyre (r.a.) dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) namaza durdu onunla beraber biz de durduk. Bir bedevi arab namazda; "Ey Allah'ım, bana ve Muhammed'e acı, bizimle dışımızda başka kimseye acıma!" diye dua etti. Resulullah (Sallallahu aleyhi ve Sellem) selam verince, bedevi Araba, -Aziz ve Celil olan Allah'ın rahmetini kast ederek- "Vallahi sen genişi daraltın” buyurdu. Diğer tahric: Buharî, edeb; Tirmizî, tahare; Nesaî, sehv; Ebu Davud, tahare; Ahmed b. Hanbçl, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>882</td></tr><tr><td>Arabic No</td><td>882</td></tr><tr><td>Reference</td><td>Book 2 Hadith 492</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... হিলাল ইবন আমির (রাঃ) তাঁর পিতা থেকে বর্ণনা করেন। তিনি বলেন একবার আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে মিনাতে খচ্চরের পিঠ হতে খুতবা দেওয়ার সময় তাঁর গায়ে একটি লাল রঙের চাদর দেখি। এ সময় আলী (রাঃ) তাঁর সামনে দাঁড়িয়ে তা লোকদের কাছে পৌছে দিচ্ছিলেন।
+। হিলাল ইবনু আমির (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ‘মিনা’ উপত্যকায় লাল রঙের চাঁদর পরে একটি খচ্চরের পিঠে আরোহিত অবস্থায় ভাষণ দিতে দেখেছি। আলী (রাঃ) তাঁর সামনে থেকে তাঁর ভাষণ উচ্চস্বরে পুনরাবৃত্তি করছিলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4073</td></tr><tr><td>Arabic No</td><td>4073</td></tr><tr><td>Reference</td><td>Book 34 Hadith 54</td></tr></tbody></table></div>
 

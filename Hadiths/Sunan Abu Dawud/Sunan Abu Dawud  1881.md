@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অসুস্থ অবস্থায় মক্কায় প্রবেশ করেন। ঐ সময় তিনি স্বীয় বাহনে সাওয়ার হয়ে বায়তুল্লাহর তাওয়াফ করেন। তিনি যখন হাজরে আসওয়াদের নিকট আসতেন, তখন তা লাঠির সাহায্যে স্পর্শ করতেন। তাওয়াফ শেষ করে তিনি উট বসান এবং দু‘ রাক‘আত নামায আদায় করেন।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অসুস্থ অবস্থায় মক্কায় আসেন। এ সময় তিনি তাঁর সাওয়ারীতে চড়ে তাওয়াফ করেন। তিনি রুকনের নিকট আসলে লাঠির সাহায্যে হাজরে আসওয়াদ স্পর্শ করতেন। তাওয়াফ শেষ করার পর তিনি উটকে বসিয়ে দেন এবং দু‘রাক‘আত সালাত আদায় করেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1881</td></tr><tr><td>Arabic No</td><td>1881</td></tr><tr><td>Reference</td><td>Book 11 Hadith 161</td></tr></tbody></table></div>
 

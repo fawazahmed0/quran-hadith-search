@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন ইউনুস ..... মুহারিব (রহঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন, আল্লাহ্ তা‘আলার নিকট হালাল বিষয়সমূহের মধ্যে তালাকের চাইতে অধিক নিকৃষ্ট বস্তু আর কিছুই নেই।
+। মুহারিব (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর নিকট হালাল বিষয়ের মধ্যে তালাকের চেয়ে অধিক ঘৃণিত কিছু নেই।[1] দুর্বলঃ যঈফ আল-জামি‘উস সাগীর (৪৯৮৬), ইরওয়া (২০৪০)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2177</td></tr><tr><td>Arabic No</td><td>2177</td></tr><tr><td>Reference</td><td>Book 13 Hadith 3</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muhârib'den; demiştir ki: "Rasûlullah (s.a.v.) şöyle buyurdu: "Allah, kendisine talak'tan daha sevimsiz gelen helâl yaratmamıştır." Şunlarda rivayet etti: Beyhaki, es-Sünenü'l-kübrâ, VII, 322; Hâkim, Müstedrek, II, 196
+Muhârib'den; demiştir ki: "Rasûlullah (s.a.v.) şöyle buyurdu: "Allah, kendisine talak'tan daha sevimsiz gelen helâl yaratmamıştır." Şunlarda rivayet etti: Beyhaki, es-Sünenü'l-kübrâ, VII, 322; Hâkim, Müstedrek, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2177</td></tr><tr><td>Arabic No</td><td>2177</td></tr><tr><td>Reference</td><td>Book 13 Hadith 3</td></tr></tbody></table></div>
 

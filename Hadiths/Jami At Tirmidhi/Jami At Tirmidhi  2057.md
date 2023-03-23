@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০৫৭। ইমরান ইবনু হুসাইন (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বদ-নজর ও জ্বর ব্যতীত আর অন্য কোন ক্ষেত্রে ঝাড়ফুঁক বৈধ নয়। সহীহ, মিশকাত (৪৫৫৭), বুখারী মাওকুফরুপে বর্ণনা করেছেন। আবূ ঈসা বলেন, এ হাদীসটি হুসাইন-শাবী হতে, তিনি বুরাইদা (রাঃ) হতে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে একই রকম বর্ণনা করেছেন।
+। ইমরান ইবনু হুসাইন (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বদ-নজর ও জ্বর ব্যতীত আর অন্য কোন ক্ষেত্রে ঝাড়ফুঁক বৈধ নয়। সহীহ, মিশকাত (৪৫৫৭), বুখারী মাওকুফরুপে বর্ণনা করেছেন। আবূ ঈসা বলেন, এ হাদীসটি হুসাইন-শাবী হতে, তিনি বুরাইদা (রাঃ) হতে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে একই রকম বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2057</td></tr><tr><td>Arabic No</td><td>2057</td></tr><tr><td>Reference</td><td>Book 28 Hadith 22</td></tr></tbody></table></div>
 

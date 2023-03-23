@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হুনায়ন যুদ্ধে যাওয়ার ইচ্ছা পোষণ করলেন, তখন তিনি বললেন, আমরা আগামীকল্য খায়ফে বনী কেনানায় অবতরণ করব ‘ইনশা আল্লাহ্’ যেখানে কুরাইশরা সকলে কুফর ও শির্ক এর উপর থাকার শপথ করেছিল। (১৫৮৯) (আধুনিক প্রকাশনীঃ ৩৫৯৪, ইসলামিক ফাউন্ডেশনঃ ৩৫৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হুনায়ন যুদ্ধে যাওয়ার ইচ্ছা পোষণ করলেন, তখন তিনি বললেন, আমরা আগামীকল্য খায়ফে বনী কেনানায় অবতরণ করব ‘ইনশা আল্লাহ্’ যেখানে কুরাইশরা সকলে কুফর ও শির্ক এর উপর থাকার শপথ করেছিল। (১৫৮৯) (আধুনিক প্রকাশনীঃ ৩৫৯৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3882</td></tr><tr><td>Arabic No</td><td>3882</td></tr><tr><td>Reference</td><td>Book 63 Hadith 107</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ), while going out for the battle of Hunain, said, "Tomorrow Allah willing, we will encamp at Khaif Bani Kinana where the pagans(of Quraish) took the oath of Kufr (against the Prophet (ﷺ) i.e. to be loyal to heathenism, by boycotting Banu Hashim, the Prophet's folk. (See Hadith 1589)
+Narrated Abu Huraira:Allah's Messenger (ﷺ), while going out for the battle of Hunain, said, "Tomorrow Allah willing, we will encamp at Khaif Bani Kinana where the pagans(of Quraish) took the oath of Kufr (against the Prophet (ﷺ) i.e. to be loyal to heathenism, by boycotting Banu Hashim, the Prophet's folk. (See Hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3882</td></tr><tr><td>Arabic No</td><td>3882</td></tr><tr><td>Reference</td><td>Book 63 Hadith 107</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdul 'Aziz bin Abdullah] berkata, telah mencer
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஹுனைன் போருக்குச் செல்ல விரும்பிய போது, “நாளை நாம் (போருக்காக) முகாமிடப்போகும் இடம் - இறைவன் நாடினால் - “பனூ கினானா' குலத்தாரின் (முஹஸ்ஸப்) பள்ளத்தாக்காகும். அது அவர்கள், “நாங்கள் இறைமறுப்பில் நிலைத்திருப்போம்” என்று சூளுரைத்த இடமாகும் என்று கூறினார்கள்.128 அத்தியாயம் : 63
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஹுனைன் போருக்குச் செல்ல விரும்பிய போது, “நாளை நாம் (போருக்காக) முகாமிடப்போகும் இடம் - இறைவன் நாடினால் - “பனூ கினானா' குலத்தாரின் (முஹஸ்ஸப்) பள்ளத்தாக்காகும். அது அவர்கள், “நாங்கள் இறைமறுப்பில் நிலைத்திருப்போம்” என்று சூளுரைத்த இடமாகும் என்று கூறினார்கள்.128 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3882</td></tr><tr><td>Arabic No</td><td>3882</td></tr><tr><td>Reference</td><td>Book 63 Hadith 107</td></tr></tbody></table></div>
 

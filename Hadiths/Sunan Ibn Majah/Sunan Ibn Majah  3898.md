@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/৩৮৯৮। উবাদা ইবনুস সামিত (রাঃ) থেকে বর্ণিত। তিনি বলেন, আল্লাহর বাণীঃ ‘‘তাদের জন্য রয়েছে দুনিয়া ও আখেরাতে সুসংবাদ’’ (১০ঃ ৬৪) সম্পর্কে আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে জিজ্ঞেস করলাম। তিনি বলেনঃ ভালো স্বপ্ন যা মুসলিম ব্যক্তি দেখে অথবা তাকে দেখানো হয়।
+। উবাদা ইবনুস সামিত (রাঃ) থেকে বর্ণিত। তিনি বলেন, আল্লাহর বাণীঃ ‘‘তাদের জন্য রয়েছে দুনিয়া ও আখেরাতে সুসংবাদ’’ (১০ঃ ৬৪) সম্পর্কে আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে জিজ্ঞেস করলাম। তিনি বলেনঃ ভালো স্বপ্ন যা মুসলিম ব্যক্তি দেখে অথবা তাকে দেখানো হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>3898</td></tr><tr><td>Reference</td><td>Book 35 Hadith 6</td></tr></tbody></table></div>
 

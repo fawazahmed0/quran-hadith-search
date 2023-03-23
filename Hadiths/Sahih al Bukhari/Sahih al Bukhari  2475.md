@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কোন ব্যভিচারী মু’মিন অবস্থায় ব্যভিচার করে না এবং কোন মদ্যপায়ী মু’মিন অবস্থায় মদ পান করে না। কোন চোর মু’মিন অবস্থায় চুরি করে না। কোন লুটতরাজকারী মু’মিন অবস্থায় এরূপ লুটতরাজ করে না যে, যখন সে লুটতরাজ করে তখন তার প্রতি লোকজন চোখ তুলে তাকিয়ে থাকে। সা‘ঈদ ও আবূ সালামাহ (রাঃ) আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ বর্ণিত, তবে তাতে লুটতরাজের উল্লেখ নেই। ফিরাবরী (রহ.) বলেন, আমি আবূ জা‘ফর (রহ.)-এর লেখা পান্ডুলিপিতে পেয়েছি যে, আবূ ‘আবদুল্লাহ (ইমাম বুখারী) (রহ.) বলেন, এ হাদীসের ব্যাখ্যায় ইবনু ‘আব্বাস (রাঃ) বলেছেন, এর অর্থ হল, তার হতে ঈমানের নূর ছিনিয়ে নেয়া হয়। (৫৫৭৮, ৬৭৭২, ৬৮১০) (আধুনিক প্রকাশনীঃ ২২৯৬, ইসলামিক ফাউন্ডেশনঃ ২৩১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কোন ব্যভিচারী মু’মিন অবস্থায় ব্যভিচার করে না এবং কোন মদ্যপায়ী মু’মিন অবস্থায় মদ পান করে না। কোন চোর মু’মিন অবস্থায় চুরি করে না। কোন লুটতরাজকারী মু’মিন অবস্থায় এরূপ লুটতরাজ করে না যে, যখন সে লুটতরাজ করে তখন তার প্রতি লোকজন চোখ তুলে তাকিয়ে থাকে। সা‘ঈদ ও আবূ সালামাহ (রাঃ) আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ বর্ণিত, তবে তাতে লুটতরাজের উল্লেখ নেই। ফিরাবরী (রহ.) বলেন, আমি আবূ জা‘ফর (রহ.)-এর লেখা পান্ডুলিপিতে পেয়েছি যে, আবূ ‘আবদুল্লাহ (ইমাম বুখারী) (রহ.) বলেন, এ হাদীসের ব্যাখ্যায় ইবনু ‘আব্বাস (রাঃ) বলেছেন, এর অর্থ হল, তার হতে ঈমানের নূর ছিনিয়ে নেয়া হয়। (৫৫৭৮, ৬৭৭২, ৬৮১০) (আধুনিক প্রকাশনীঃ ২২৯৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2475</td></tr><tr><td>Arabic No</td><td>2475</td></tr><tr><td>Reference</td><td>Book 46 Hadith 36</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: விபசாரி, விபசாரம் புரியும்போது இறைநம்பிக்கையாளனாக இருந்துகொண்டு அதைச் செய்யமாட்டான். (மது அருந்து பவன் மது அருந்தும்போது இறை நம்பிக்கையாளனாக இருந்துகொண்டு மது அருந்தமாட்டான். திருடன் திருடும்போது இறைநம்பிக்கையாளனாக இருந்துகொண்டு திருடமாட்டான். (மக்களின் மதிப்புமிக்க) செல்வத்தை, மக்கள் தம் விழிகளை உயர்த்திப் பார்த்துக் கொண்டிருக்கக் கொள்ளையடிப்பவன் இறைநம்பிக்கையாளனாக இருந்துகொண்டு கொள்ளையடிக்கமாட்டான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அவற்றில் இரு அறிவிப்புகளில் கொள்ளையடிப்பது தொடர்பான குறிப்பு இல்லை. அபூஅப்தில்லாஹ் (புகாரீ) கூறுகின் றேன்: இவற்றைச் செய்யும்போது இறை நம்பிக்கை(யின் ஒளி) அவனிடமிருந்து அகற்றப்படுகிறது. அத்தியாயம் : 46
+நபி (ஸல்) அவர்கள்கூறினார்கள்: விபசாரி, விபசாரம் புரியும்போது இறைநம்பிக்கையாளனாக இருந்துகொண்டு அதைச் செய்யமாட்டான். (மது அருந்து பவன் மது அருந்தும்போது இறை நம்பிக்கையாளனாக இருந்துகொண்டு மது அருந்தமாட்டான். திருடன் திருடும்போது இறைநம்பிக்கையாளனாக இருந்துகொண்டு திருடமாட்டான். (மக்களின் மதிப்புமிக்க) செல்வத்தை, மக்கள் தம் விழிகளை உயர்த்திப் பார்த்துக் கொண்டிருக்கக் கொள்ளையடிப்பவன் இறைநம்பிக்கையாளனாக இருந்துகொண்டு கொள்ளையடிக்கமாட்டான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அவற்றில் இரு அறிவிப்புகளில் கொள்ளையடிப்பது தொடர்பான குறிப்பு இல்லை. அபூஅப்தில்லாஹ் (புகாரீ) கூறுகின் றேன்: இவற்றைச் செய்யும்போது இறை நம்பிக்கை(யின் ஒளி) அவனிடமிருந்து அகற்றப்படுகிறது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2475</td></tr><tr><td>Arabic No</td><td>2475</td></tr><tr><td>Reference</td><td>Book 46 Hadith 36</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Kişi zina ettiği sırada mu'min olarak zina etmez; içki içtiği sırada mu'min olarak içmez; hırsızlık ettiği sırada mu'min olarak hırsızlık etmez; insanların kendisine baka baka yağma yaptığı sırada mu'min olarak yağma yapmaz." Said'den ve Ebu Seleme’den Ebu Hureyre r.a. kanalıyla Hz. Nebi'in aynen böyle buyurduğu nakledilmiştir. Ancak o rivayette "yağma" maddesi yoktur. Firebri şöyle demiştir: Ebu Cafer'in hattıyla şunu gördüm: Ebu Abdullah şöyle demiştir: "Bunun tefsiri, kişi bunları yaptığı sırada imanının ondan çekilip alınmasıdır. " Tekrar: 5578, 6772, 6810
+Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Kişi zina ettiği sırada mu'min olarak zina etmez; içki içtiği sırada mu'min olarak içmez; hırsızlık ettiği sırada mu'min olarak hırsızlık etmez; insanların kendisine baka baka yağma yaptığı sırada mu'min olarak yağma yapmaz." Said'den ve Ebu Seleme’den Ebu Hureyre r.a. kanalıyla Hz. Nebi'in aynen böyle buyurduğu nakledilmiştir. Ancak o rivayette "yağma" maddesi yoktur. Firebri şöyle demiştir: Ebu Cafer'in hattıyla şunu gördüm: Ebu Abdullah şöyle demiştir: "Bunun tefsiri, kişi bunları yaptığı sırada imanının ondan çekilip alınmasıdır. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2475</td></tr><tr><td>Arabic No</td><td>2475</td></tr><tr><td>Reference</td><td>Book 46 Hadith 36</td></tr></tbody></table></div>
 

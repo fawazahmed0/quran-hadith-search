@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইমাম বুখারী (রহ.) বলেন, খালীফা (রহ.) .... আনাস (রাঃ)-এর বর্ণনায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে পূর্বোক্ত হাদীসটি বর্ণনা করেছেন। এ সূত্রে তিনি عَائِذًا بِاللهِ مِنْ شَرِّ الْفِتَنِ বলেছেন। [৯৩] (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন- ৬৬১০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইমাম বুখারী (রহ.) বলেন, খালীফা (রহ.) .... আনাস (রাঃ)-এর বর্ণনায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে পূর্বোক্ত হাদীসটি বর্ণনা করেছেন। এ সূত্রে তিনি عَائِذًا بِاللهِ مِنْ شَرِّ الْفِتَنِ বলেছেন। [৯৩] (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7091</td></tr><tr><td>Arabic No</td><td>7091</td></tr><tr><td>Reference</td><td>Book 92 Hadith 42</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Anas:The above hadith is narrated on the authority of Anas thorugh anot
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கத்தாதா (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடமிருந்து (கேட்டு) மக்களுக்கு இந்த ஹதீஸை அறிவித்தார்கள். மேலும், “குழப்பங்களின் தீங்கிலிருந்து அல்லாஹ்விடம் பாதுகாப்புக் கோரியவர்களாக” என்றும் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 92
+கத்தாதா (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடமிருந்து (கேட்டு) மக்களுக்கு இந்த ஹதீஸை அறிவித்தார்கள். மேலும், “குழப்பங்களின் தீங்கிலிருந்து அல்லாஹ்விடம் பாதுகாப்புக் கோரியவர்களாக” என்றும் கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7091</td></tr><tr><td>Arabic No</td><td>7091</td></tr><tr><td>Reference</td><td>Book 92 Hadith 42</td></tr></tbody></table></div>
 

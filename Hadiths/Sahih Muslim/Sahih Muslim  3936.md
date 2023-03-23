@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৮২৮, আন্তর্জাতিক নাম্বারঃ ১৫৪৭ ৩৮২৮-(১০৭/...) আবূ বাকর ইবনু আবূ শাইবাহ, আলী ইবনু হুজর, ইবরাহীম ইবনু দীনার ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আমর ইবনু দীনার (রহঃ) হতে উক্ত সানাদে অনুরূপ বর্ণনা করেন। অবশ্য ইবনু উয়াইনাহ্ (রহঃ) বর্ণিত হাদীসে অতিরিক্ত আছে যে- এরপর এ কারণে আমরা তা ছেড়ে দেই। (ইসলামিক ফাউন্ডেশন ৩৭৯১, ইসলামিক সেন্টার ৩৭৯১)
+আবূ বাকর ইবনু আবূ শাইবাহ, আলী ইবনু হুজর, ইবরাহীম ইবনু দীনার ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আমর ইবনু দীনার (রহঃ) হতে উক্ত সানাদে অনুরূপ বর্ণনা করেন। অবশ্য ইবনু উয়াইনাহ্ (রহঃ) বর্ণিত হাদীসে অতিরিক্ত আছে যে- এরপর এ কারণে আমরা তা ছেড়ে দেই। (ইসলামিক ফাউন্ডেশন ৩৭৯১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3936</td></tr><tr><td>Arabic No</td><td>1547.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 135</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith has been narrated on the authority of Amr b. Dinar with the same cha
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் "முஹாகலா"வையும் "முஸாபனா"வையும் தடை செய்தார்கள். அத்தியாயம் : 21
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் "முஹாகலா"வையும் "முஸாபனா"வையும் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3936</td></tr><tr><td>Arabic No</td><td>1547.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 135</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুআম্মাল ইবন ফাদল (রহঃ) ..... আবূ উমামা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আল্লাহ্‌র জন্য ভালবাসবে এবং আল্লাহ্‌র সন্তুষ্টির জন্য দুশমনী করবে; আর দান করবে আল্লাহ্‌র জন্য এবং দান করা থেকে বিরত থাকবে আল্লাহ্‌র সন্তুষ্টির জন্য, সে ব্যক্তি তার ঈমান পরিপূর্ণ করেছে।
+। আবূ উমামাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যে ব্যক্তির ভালোবাসা ও শত্রুতা দান করা ও না করা একমাত্র আল্লাহর সন্তুষ্টি লাভের জন্য হয়ে থাকে সে ব্যক্তিই পূর্ণ ঈমানদার।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4681</td></tr><tr><td>Arabic No</td><td>4681</td></tr><tr><td>Reference</td><td>Book 42 Hadith 86</td></tr></tbody></table></div>
 

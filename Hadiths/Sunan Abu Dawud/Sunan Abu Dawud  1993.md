@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আন্ নুফায়লী (রহঃ) ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর জীবনে চারবার উমরা সম্পন্ন করেন। প্রথমত হুদায়বিয়ার (সন্ধির সময়ের) উমরা; দ্বিতীয়ত কুরায়শদের সাথে সন্ধির শর্ত অনুযায়ী পরবর্তী বছরের উমরা; তৃতীয়ত মক্কা বিজয়ের সময়ে সম্পন্নকৃত উমরা এবং চতুর্থত বিদায় হজ্জের সময় হজ্জে কিরানের সাথে সম্পন্নকৃত উমরা।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চারবার ‘উমরা করেছেন। প্রথমবার হুদায়বিয়ার সময়, দ্বিতীয় ‘উমরা এর পরবর্তী বছর, যেটির উপর তাদের সাথে সন্ধি হয়েছিল। তৃতীয় ‘উমরা আল-জিইররানা থেকে এবং চতুর্থ ‘উমরা তাঁর হজের (হজ্জের) সাথে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1993</td></tr><tr><td>Arabic No</td><td>1993</td></tr><tr><td>Reference</td><td>Book 11 Hadith 273</td></tr></tbody></table></div>
 

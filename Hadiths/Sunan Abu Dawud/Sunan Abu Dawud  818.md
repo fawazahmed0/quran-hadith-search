@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূল ওয়ালীদ ..... আবূ সাঈদ আল-খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, নির্দেশ দেয়া হয়েছে যে, আমরা যেন নামাযের মধ্যে সূরা ফাতিহা এবং তার সাথে আল-কুরআনের সহজপাঠ্য কোন আয়াত পাঠ করি।
+। আবূ সাঈদ আল-খুদরী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে বর্ণিত। তিনি বলেন, আমাদেরকে নির্দেশ দেয়া হয়েছে, আমরা যেন সালাতে সূরাহ ফাতিহা এবং তার সাথে কুরআন থেকে সহজপাঠ্য কোন আয়াত পড়ি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sanad Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>818</td></tr><tr><td>Arabic No</td><td>818</td></tr><tr><td>Reference</td><td>Book 2 Hadith 428</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Walid Ath Thayalisi] telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Said (el-Hudrî) (r.a.)'den; demiştir ki: Biz (namazda) Fatiha ile (beraber Kur'an'dan) kolayımıza) geleni okumakla emrolunduk. Diğer tahric: Ahmed b. Hanbel, III, 3, 45, 97
+Ebu Said (el-Hudrî) (r.a.)'den; demiştir ki: Biz (namazda) Fatiha ile (beraber Kur'an'dan) kolayımıza) geleni okumakla emrolunduk. Diğer tahric: Ahmed b. Hanbel, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sanad Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>818</td></tr><tr><td>Arabic No</td><td>818</td></tr><tr><td>Reference</td><td>Book 2 Hadith 428</td></tr></tbody></table></div>
 

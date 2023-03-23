@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৬৮৫, আন্তর্জাতিক নাম্বারঃ ১৫০৮ ৩৬৮৫-(.../...) ইব্রাহীম ইবনু দীনার (রহঃ) ..... আ'মাশ (রহঃ) হতে এ সানাদে বর্ণিত- তবে তিনি এতে বলেছেনঃ “কোন লোক তার মুনীবের অনুমতি ব্যতিরেকে অন্যকে মাওলা বানাবে ..... " (ইসলামিক ফাউন্ডেশন ৩৬৫১, ইসলামিক সেন্টার ৩৬৫১)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3793</td></tr><tr><td>Arabic No</td><td>1508.03</td></tr><tr><td>Reference</td><td>Book 20 Hadith 23</td></tr></tbody></table></div>
 

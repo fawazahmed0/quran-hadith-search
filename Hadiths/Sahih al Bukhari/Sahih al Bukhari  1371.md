@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, নিশ্চয়ই তারা এখন ভালভাবে জানতে (ও বুঝতে) পেরেছে যে, (কবর আযাব প্রসঙ্গে) আমি তাদের যা বলতাম তা বাস্তব। আল্লাহ্ তা‘আলা ঘোষণা করেছেনঃ ‘‘আপনি (হে নবী!) নিশ্চিতই মৃতদের (কোন কথা) শোনাতে পারেন না’’- (আন্-নামালঃ ৮০)। (৩৯৭৯, ৩৯৮১, মুসলিম ১১/৯, হাঃ ৯৩২) (আধুনিক প্রকাশনীঃ ১২৮০, ইসলামিক ফাউন্ডেশনঃ ১২৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, নিশ্চয়ই তারা এখন ভালভাবে জানতে (ও বুঝতে) পেরেছে যে, (কবর আযাব প্রসঙ্গে) আমি তাদের যা বলতাম তা বাস্তব। আল্লাহ্ তা‘আলা ঘোষণা করেছেনঃ ‘‘আপনি (হে নবী!) নিশ্চিতই মৃতদের (কোন কথা) শোনাতে পারেন না’’- (আন্-নামালঃ ৮০)। (৩৯৭৯, ৩৯৮১, মুসলিম ১১/৯, হাঃ ৯৩২) (আধুনিক প্রকাশনীঃ ১২৮০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 23 Hadith 123</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aisha:The Prophet (ﷺ) said, "They now realize that what I used to tell them was the truth. "And Allah said, 'Verily! You cannot make the dead to hear (i.e. benefit them, and similarly the disbelievers) nor can you make the deaf hear. (27.80)
+Narrated 'Aisha:The Prophet (ﷺ) said, "They now realize that what I used to tell them was the truth. "And Allah said, 'Verily! You cannot make the dead to hear (i.e. benefit them, and similarly the disbelievers) nor can you make the deaf hear
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 23 Hadith 123</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (இறந்தவர் களின் விஷயத்தில்), “நான் சொல்லிக் கொண்டிருந்தது உண்மைதான் என் பதை இப்போது அவர்கள் அறிகிறார் கள்” என்றுதான் கூறினார்கள். (செவி யுறுகிறார்கள் என்று கூறவில்லை; ஏனெனில்) “நிச்சயமாக நீர் மரித் தோரைக் கேட்கச்செய்ய முடியாது” (27:80) என அல்லாஹ் கூறுகின்றான். அத்தியாயம் : 23
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (இறந்தவர் களின் விஷயத்தில்), “நான் சொல்லிக் கொண்டிருந்தது உண்மைதான் என் பதை இப்போது அவர்கள் அறிகிறார் கள்” என்றுதான் கூறினார்கள். (செவி யுறுகிறார்கள் என்று கூறவில்லை; ஏனெனில்) “நிச்சயமாக நீர் மரித் தோரைக் கேட்கச்செய்ய முடியாது” (27:80) என அல்லாஹ் கூறுகின்றான். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 23 Hadith 123</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem. Bedir'de öldürülenler hakkında yalnızca şöyle buyurmuştur: "Onlar şu anda benim daha önce söylediklerimin hak olduklarını biliyorlar." (Aişe buna ek olarak dedi ki): Yüce Allah "sen ölülere işittiremezsin" buyuruyor.[Neml, 80] Tekrar; 3979, 2981
+Aişe r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem. Bedir'de öldürülenler hakkında yalnızca şöyle buyurmuştur: "Onlar şu anda benim daha önce söylediklerimin hak olduklarını biliyorlar." (Aişe buna ek olarak dedi ki): Yüce Allah "sen ölülere işittiremezsin" buyuruyor.[Neml, 80] Tekrar;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 23 Hadith 123</td></tr></tbody></table></div>
 

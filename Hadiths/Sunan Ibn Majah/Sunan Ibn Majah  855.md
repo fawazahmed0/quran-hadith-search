@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫/৮৫৫। আবদুল জাব্বার ইবনু ওয়াইল (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে সালাত পড়লাম। তিনি ওয়ালায যআলীন বলার পর আমীন বলেছেন। আমরা তা তাঁকে বলতে শুনেছি।
+। আবদুল জাব্বার ইবনু ওয়াইল (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে সালাত পড়লাম। তিনি ওয়ালায যআলীন বলার পর আমীন বলেছেন। আমরা তা তাঁকে বলতে শুনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>855</td></tr><tr><td>Reference</td><td>Book 5 Hadith 53</td></tr></tbody></table></div>
 

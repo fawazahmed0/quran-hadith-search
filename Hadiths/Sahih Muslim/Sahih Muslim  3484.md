@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৩৭৫, আন্তর্জাতিক নাম্বারঃ ১৪২৩ ৩৩৭৫-(.../...) ইবনু নুমায়র (রহঃ) ..... সুফইয়ান (রহঃ) থেকে অনুরূপ বর্ণিত হয়েছে। তবে এ সূত্রে ‘আয়িশাহ (রাযিঃ) এর কর্মপন্থা উল্লেখিত হয়নি। (ইসলামিক ফাউন্ডেশন ৩৩৪৯, ইসলামীক সেন্টার ৩৩৪৮)
+ইবনু নুমায়র (রহঃ) ..... সুফইয়ান (রহঃ) থেকে অনুরূপ বর্ণিত হয়েছে। তবে এ সূত্রে ‘আয়িশাহ (রাযিঃ) এর কর্মপন্থা উল্লেখিত হয়নি। (ইসলামিক ফাউন্ডেশন ৩৩৪৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3484</td></tr><tr><td>Arabic No</td><td>1423.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 86</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যখন রমাযান মাস আরম্ভ হয়, জান্নাতের দরজাগুলো খুলে দেয়া হয় এবং জাহান্নামের দরজাগুলো বন্ধ করে দেয়া হয় আর শয়তানদেরকে শিকলে বেঁধে রাখা হয়। (১৮৯৮) (আধুনিক প্রকাশনীঃ ৩০৩৫, ইসলামিক ফাউন্ডেশনঃ ৩০৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যখন রমাযান মাস আরম্ভ হয়, জান্নাতের দরজাগুলো খুলে দেয়া হয় এবং জাহান্নামের দরজাগুলো বন্ধ করে দেয়া হয় আর শয়তানদেরকে শিকলে বেঁধে রাখা হয়। (১৮৯৮) (আধুনিক প্রকাশনীঃ ৩০৩৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3277</td></tr><tr><td>Arabic No</td><td>3277</td></tr><tr><td>Reference</td><td>Book 59 Hadith 86</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al L
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ரமளான் மாதம் வந்துவிட்டால் சொர்க்கத்தின் கதவுகள் திறக்கப்படுகின்றன; நரகத்தின் கதவுகள் மூடப்படுகின்றன; ஷைத்தான்களுக்கு விலங்கிடப்படுகிறது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.79 அத்தியாயம் : 59
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ரமளான் மாதம் வந்துவிட்டால் சொர்க்கத்தின் கதவுகள் திறக்கப்படுகின்றன; நரகத்தின் கதவுகள் மூடப்படுகின்றன; ஷைத்தான்களுக்கு விலங்கிடப்படுகிறது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.79 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3277</td></tr><tr><td>Arabic No</td><td>3277</td></tr><tr><td>Reference</td><td>Book 59 Hadith 86</td></tr></tbody></table></div>
 

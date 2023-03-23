@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৬২৭, আন্তর্জাতিক নাম্বারঃ ১১৫৯ ২৬২৭-(.../...) আবূ কুরায়ব (রহঃ) ..... হাবীব ইবনু আবূ সাবিত (রহঃ) থেকে এ সানাদে অনুরূপ হাদীস বর্ণিত হয়েছে। এতে আরও আছে, "এবং তুমি শ্ৰান্ত-ক্লান্ত হয়ে পড়বে।" (ইসলামিক ফাউন্ডেশন ২৬০৪, ইসলামীক সেন্টার ২৬০৩)
+আবূ কুরায়ব (রহঃ) ..... হাবীব ইবনু আবূ সাবিত (রহঃ) থেকে এ সানাদে অনুরূপ হাদীস বর্ণিত হয়েছে। এতে আরও আছে, "এবং তুমি শ্ৰান্ত-ক্লান্ত হয়ে পড়বে।" (ইসলামিক ফাউন্ডেশন ২৬০৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2737</td></tr><tr><td>Arabic No</td><td>1159.09</td></tr><tr><td>Reference</td><td>Book 13 Hadith 243</td></tr></tbody></table></div>
 

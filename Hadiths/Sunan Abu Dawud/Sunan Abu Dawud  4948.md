@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন আওন (রহঃ) ..... আবূ দারদা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামতের দিন তোমাদের ডাকা হবে তোমাদের স্ব-স্ব নাম ও পিতার নাম সহকারে। অতএব তোমরা ভাল নাম রাখবে।
+। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামতের দিন তোমাদেরকে, তোমাদের ও তোমাদের পিতাদের নাম ধরে ডাকা হবে। তাই তোমরা তোমাদের সুন্দর নামকরণ করো। ইমাম আবূ দাঊদ (রহঃ) বলেন, বর্ণনাকারী ইবনু আবূ যাকারিয়া (রহঃ) আবূ দারদা (রাঃ)-এর সাক্ষাৎ পাননি।[1] দুর্বলঃ মিশকাত হা/ ৪৭৬৮, যঈফাহ হা/ ৫৪৬০।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 43 Hadith 176</td></tr></tbody></table></div>
 

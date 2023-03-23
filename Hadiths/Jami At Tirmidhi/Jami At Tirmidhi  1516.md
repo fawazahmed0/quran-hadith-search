@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৫১৬। উম্মু কুরয (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট তিনি আকীকার ব্যপারে প্রশ্ন করেন। তিনি বললেনঃ ছেলে সন্তানের পক্ষে দুটি বকরী এবং মেয়ে সন্তানের পক্ষে একটি বকরী (আকীকা দিতে হবে)। আকীকার পশু নর বা মাদী যাই হোক না কেন তাতে তোমাদের কোন অসুবিধা নেই। সহীহ, ইরওয়া (৪/৩৯১) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। উম্মু কুরয (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট তিনি আকীকার ব্যপারে প্রশ্ন করেন। তিনি বললেনঃ ছেলে সন্তানের পক্ষে দুটি বকরী এবং মেয়ে সন্তানের পক্ষে একটি বকরী (আকীকা দিতে হবে)। আকীকার পশু নর বা মাদী যাই হোক না কেন তাতে তোমাদের কোন অসুবিধা নেই। সহীহ, ইরওয়া (৪/৩৯১) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1516</td></tr><tr><td>Arabic No</td><td>1516</td></tr><tr><td>Reference</td><td>Book 19 Hadith 28</td></tr></tbody></table></div>
 

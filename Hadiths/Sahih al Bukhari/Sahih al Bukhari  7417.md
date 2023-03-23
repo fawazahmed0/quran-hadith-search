@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একজনকে বললেন, তোমার কাছে কুরআনের কোন বস্তু আছে কি? তিনি বললেন, হ্যাঁ, অমুক সূরাহ অমুক সূরাহ। তিনি সূরাহগুলোর নাম বলেছিলেন। [২৩১০] (আধুনিক প্রকাশনী- ৬৯০০, ইসলামিক ফাউন্ডেশন- ৬৯১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একজনকে বললেন, তোমার কাছে কুরআনের কোন বস্তু আছে কি? তিনি বললেন, হ্যাঁ, অমুক সূরাহ অমুক সূরাহ। তিনি সূরাহগুলোর নাম বলেছিলেন। [২৩১০] (আধুনিক প্রকাশনী- ৬৯০০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>7417</td></tr><tr><td>Reference</td><td>Book 97 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு மனிதரிடம், “குர்ஆனிலிருந்து உங்களுடன் (மனனமாக) ஏதேனும் ஒன்று (ஷைஉ) இருக்கின்றதா?” என்று கேட்டார்கள். அம்மனிதர் “ஆம். இன்ன அத்தியாயம், இன்ன அத்தியாயம்” என்று சில அத்தியாயங்களைப் பெயர் குறிப்பிட்டுச் சொன்னார்.55 அத்தியாயம் : 97
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு மனிதரிடம், “குர்ஆனிலிருந்து உங்களுடன் (மனனமாக) ஏதேனும் ஒன்று (ஷைஉ) இருக்கின்றதா?” என்று கேட்டார்கள். அம்மனிதர் “ஆம். இன்ன அத்தியாயம், இன்ன அத்தியாயம்” என்று சில அத்தியாயங்களைப் பெயர் குறிப்பிட்டுச் சொன்னார்.55 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>7417</td></tr><tr><td>Reference</td><td>Book 97 Hadith 45</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সাঈদ (রহঃ) ..... আবূ হুরায়রা (রহঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কেউ তার ভাইয়ের সাথে মিলবে, তখন তাকে সালাম করবে। এরপর যদি উভয়ের মাঝে কোন গাছ, দেয়াল বা পাথরের আড়াল হয়, পরে আবার দেখা হয়, তখন পুনরায় তাকে সালাম করবে।
+। আবূ হুরাইরা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, তোমাদের কেউ যখন তার ভাইয়ের সঙ্গে সাক্ষাৎ করে, তখন সে যেন তাকে সালাম দেয়। অতঃপর দু’জনের মাঝে যদি গাছ, দেয়াল বা পাথর আড়াল হয়ে যায় এবং তারপর আবার সাক্ষাৎ হয়, তাহলেও যেন তাকে সালাম দেয়।[1] সহীহ মাওকূফ ও মারফুভাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5200</td></tr><tr><td>Arabic No</td><td>5200</td></tr><tr><td>Reference</td><td>Book 43 Hadith 428</td></tr></tbody></table></div>
 

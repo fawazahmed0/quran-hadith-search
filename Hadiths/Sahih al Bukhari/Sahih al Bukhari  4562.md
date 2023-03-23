@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ত্বলহা (রাঃ) বলেন, আমরা উহূদ যুদ্ধের দিন সারিবদ্ধ অবস্থায় ছিলাম যখন তন্দ্রা আমাদের আচ্ছাদিত করে ফেলেছিল। তিনি বলেন, আমার তরবারি আমার হাত থেকে পড়ে যাচ্ছিল, আমি তা উঠাচ্ছিলাম, আবার পড়ে যাচ্ছিল, আবার তা উঠাচ্ছিলাম। [৪০৬৮] (আধুনিক প্রকাশনীঃ ৪২০১, ইসলামিক ফাউন্ডেশনঃ ৪২০৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ত্বলহা (রাঃ) বলেন, আমরা উহূদ যুদ্ধের দিন সারিবদ্ধ অবস্থায় ছিলাম যখন তন্দ্রা আমাদের আচ্ছাদিত করে ফেলেছিল। তিনি বলেন, আমার তরবারি আমার হাত থেকে পড়ে যাচ্ছিল, আমি তা উঠাচ্ছিলাম, আবার পড়ে যাচ্ছিল, আবার তা উঠাচ্ছিলাম। [৪০৬৮] (আধুনিক প্রকাশনীঃ ৪২০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4562</td></tr><tr><td>Arabic No</td><td>4562</td></tr><tr><td>Reference</td><td>Book 65 Hadith 84</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Ibrahim bin 'Abdur Rahman Abu Ya'qub] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூதல்ஹா ஸைத் பின் சஹ்ல் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போர் நடந்த நாளில் எங்கள் அணிகள் (நின்றிருந்த) இடத்தில் நாங்கள் இருந்தபோது எங்களைச் சிற்றுறக்கம் ஆட்கொண்டது. அதனால் எனது வாள் என் கையிலிருந்து (நழுவி) விழத் தொடங்க, நான் அதை எடுப்பேன். (மீண்டும்) அது விழ, நானும் அதை எடுப்பேன்.21 அத்தியாயம் : 65
+அபூதல்ஹா ஸைத் பின் சஹ்ல் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போர் நடந்த நாளில் எங்கள் அணிகள் (நின்றிருந்த) இடத்தில் நாங்கள் இருந்தபோது எங்களைச் சிற்றுறக்கம் ஆட்கொண்டது. அதனால் எனது வாள் என் கையிலிருந்து (நழுவி) விழத் தொடங்க, நான் அதை எடுப்பேன். (மீண்டும்) அது விழ, நானும் அதை எடுப்பேன்.21 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4562</td></tr><tr><td>Arabic No</td><td>4562</td></tr><tr><td>Reference</td><td>Book 65 Hadith 84</td></tr></tbody></table></div>
 

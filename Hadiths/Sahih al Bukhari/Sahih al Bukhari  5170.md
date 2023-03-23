@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর এক সহধর্মিণীর সঙ্গে বাসর ঘরের ব্যবস্থা করলেন এবং ওয়ালীমার দাওয়াত দেয়ার জন্য আমাকে পাঠালেন। [৪৭৯১] (আধুনিক প্রকাশনী- ৪৭৮৯, ইসলামিক ফাউন্ডেশন- ৪৭৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর এক সহধর্মিণীর সঙ্গে বাসর ঘরের ব্যবস্থা করলেন এবং ওয়ালীমার দাওয়াত দেয়ার জন্য আমাকে পাঠালেন। [৪৭৯১] (আধুনিক প্রকাশনী- ৪৭৮৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5170</td></tr><tr><td>Arabic No</td><td>5170</td></tr><tr><td>Reference</td><td>Book 67 Hadith 105</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Malik bin Isma'il] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: தம் (புதிய) மனைவி ஒருவருடன் நபி (ஸல்) அவர்கள் தாம்பத்திய உறவைத் தொடங்கியபோது (வலீமா விருந்திற்காக மக்களை அழைக்க) என்னை அனுப்பி வைத்தார்கள். நான் (தயாராயிருந்த) அந்த விருந்துக்காகச் சிலரை அழைத்தேன். அத்தியாயம் : 67
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: தம் (புதிய) மனைவி ஒருவருடன் நபி (ஸல்) அவர்கள் தாம்பத்திய உறவைத் தொடங்கியபோது (வலீமா விருந்திற்காக மக்களை அழைக்க) என்னை அனுப்பி வைத்தார்கள். நான் (தயாராயிருந்த) அந்த விருந்துக்காகச் சிலரை அழைத்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5170</td></tr><tr><td>Arabic No</td><td>5170</td></tr><tr><td>Reference</td><td>Book 67 Hadith 105</td></tr></tbody></table></div>
 

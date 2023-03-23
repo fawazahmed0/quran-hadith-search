@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন হাতিম (রহঃ) ... আবুল হুসায়ন হিমইয়ারী (রহঃ) থেকে বর্ণিত যে, তিনি ও তার এক সাথী আবু রায়হানার সাথে থাকতেন, তার নিকট হতে ভাল কথা শিখতেন। আবুল হুসায়ন (রহঃ) একদিন বলেনঃ আমার সাথী একদিন আমার নিকট উপস্থিত হয়ে বললোঃ সে আবু রায়হানাকে বলতে শুনেছে যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁত ঘষে চিকন করা, শরীরে দাগ লাগানো এবং পশম উপড়ে ফেলাকে হারাম করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5110</td></tr><tr><td>Arabic No</td><td>5110</td></tr><tr><td>Reference</td><td>Book 48 Hadith 71</td></tr></tbody></table></div>
 

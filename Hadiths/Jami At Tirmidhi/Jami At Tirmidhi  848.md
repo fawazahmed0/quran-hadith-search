@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮৪৮। আবুন নাযরের হাদীসের মতই আবূ কাতাদা (রাঃ)-এর সূত্রে হাদীস বর্ণিত আছে। তবে এই রিওয়ায়াতে আরো আছেঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের নিকট এর গোশত অবশিষ্ট আছে কি? — সহীহ দেখুন পূর্বের হাদীস এই হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন।
+। আবুন নাযরের হাদীসের মতই আবূ কাতাদা (রাঃ)-এর সূত্রে হাদীস বর্ণিত আছে। তবে এই রিওয়ায়াতে আরো আছেঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের নিকট এর গোশত অবশিষ্ট আছে কি? — সহীহ দেখুন পূর্বের হাদীস এই হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>848</td></tr><tr><td>Arabic No</td><td>848</td></tr><tr><td>Reference</td><td>Book 9 Hadith 41</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যুহায়র ইবনু হারব (রহঃ) ..... ইবনু উমার (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কাযা' (চুল কিছু ছেটে কিছু রাখা) নিষেধ করেছেন। বর্ণনাকার (উমার ইবনু নাফি') বলেন, আমি নাফি' (রহঃ) কে জিজ্ঞেস করলাম, কাযা' কি? তিনি বললেন, শিশুর মাথার (চুল) কিছু কামানো এবং কিছু রেখে দেয়া। (ইসলামিক ফাউন্ডেশন ৫৩৭৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5559</td></tr><tr><td>Arabic No</td><td>2120.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 169</td></tr></tbody></table></div>
 

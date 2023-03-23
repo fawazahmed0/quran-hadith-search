@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, দান করে তা ফেরত গ্রহণকারী ঐ কুকুরের মত, যে বমি করে এরপর তার বমি খায়। (২৬২১, ২৬২২, ৬৯৭৫, মুসলিম ২৪/২ হাঃ ১৬২২, আহমাদ ২৬৪৭) (আধুনিক প্রকাশনীঃ ২৪০১, ইসলামিক ফাউন্ডেশনঃ ২৪১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, দান করে তা ফেরত গ্রহণকারী ঐ কুকুরের মত, যে বমি করে এরপর তার বমি খায়। (২৬২১, ২৬২২, ৬৯৭৫, মুসলিম ২৪/২ হাঃ ১৬২২, আহমাদ ২৬৪৭) (আধুনিক প্রকাশনীঃ ২৪০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2589</td></tr><tr><td>Arabic No</td><td>2589</td></tr><tr><td>Reference</td><td>Book 51 Hadith 23</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: தன் அன்பளிப்பைத் திரும்பப் பெறுபவன், வாந்தியெடுத்த பிறகு அதை மீண்டும் தின்கின்ற நாயைப் போன்றவன் ஆவான்.15 இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 50
+நபி (ஸல்) அவர்கள் கூறினார்கள்: தன் அன்பளிப்பைத் திரும்பப் பெறுபவன், வாந்தியெடுத்த பிறகு அதை மீண்டும் தின்கின்ற நாயைப் போன்றவன் ஆவான்.15 இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2589</td></tr><tr><td>Arabic No</td><td>2589</td></tr><tr><td>Reference</td><td>Book 51 Hadith 23</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, একজন বেদুঈন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে ইসলামের উপর তাঁর কাছে বায়‘আত গ্রহণ করলো। পরদিন সে জ্বরাক্রান্ত অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাছে এসে বললো, আমার (বায়‘আত) ফিরিয়ে নিন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা প্রত্যাখ্যান করলেন। এভাবে তিনবার হল। অতঃপর বললেনঃ মদিনা কামারের হাপরের মত, যা তার আবর্জনা ও মরিচাকে দূরীভূত করে এবং খাঁটি ও নির্ভেজালকে পরিচ্ছন্ন করে। (৭২০৯, ৭২১১, ৭২১৬, ৭৩২২) (আধুনিক প্রকাশনীঃ ১৭৪৮, ইসলামিক ফাউন্ডেশনঃ ১৭৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, একজন বেদুঈন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে ইসলামের উপর তাঁর কাছে বায়‘আত গ্রহণ করলো। পরদিন সে জ্বরাক্রান্ত অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কাছে এসে বললো, আমার (বায়‘আত) ফিরিয়ে নিন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা প্রত্যাখ্যান করলেন। এভাবে তিনবার হল। অতঃপর বললেনঃ মদিনা কামারের হাপরের মত, যা তার আবর্জনা ও মরিচাকে দূরীভূত করে এবং খাঁটি ও নির্ভেজালকে পরিচ্ছন্ন করে। (৭২০৯, ৭২১১, ৭২১৬, ৭৩২২) (আধুনিক প্রকাশনীঃ ১৭৪৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1883</td></tr><tr><td>Arabic No</td><td>1883</td></tr><tr><td>Reference</td><td>Book 29 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin 'Abbas] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: ஒரு கிராமவாசி நபி (ஸல்) அவர்களிடம் வந்து இஸ்லாத்தை ஏற்பதாக விசுவாசப் பிரமாணம் செய்தார். மறுநாள் அவர் காய்ச்சலுடன் வந்து, “(இஸ்லாத்தை ஏற்கும் விசுவாசப் பிரமாணத்திலிருந்து) என்னை நீக்கிவிடுங்கள்” என்று கேட்டார். நபி (ஸல்) அவர்கள் மூன்று முறை அதை மறுத்தார்கள். (எனவே, அவர் மதீனாவை விட்டு வெளியேறினார்.) அப்போது நபி (ஸல்) அவர்கள், “மதீனா, (கொல்லனின்) உலையைப் போன்றதாகும். அது தன்னிலுள்ள தீயவர் களை வெளியேற்றிவிடும்; அதிலுள்ள நல்லவர்கள் தூய்மை பெற்றுத் திகழ்வார் கள்” என்று கூறினார்கள். அத்தியாயம் : 29
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: ஒரு கிராமவாசி நபி (ஸல்) அவர்களிடம் வந்து இஸ்லாத்தை ஏற்பதாக விசுவாசப் பிரமாணம் செய்தார். மறுநாள் அவர் காய்ச்சலுடன் வந்து, “(இஸ்லாத்தை ஏற்கும் விசுவாசப் பிரமாணத்திலிருந்து) என்னை நீக்கிவிடுங்கள்” என்று கேட்டார். நபி (ஸல்) அவர்கள் மூன்று முறை அதை மறுத்தார்கள். (எனவே, அவர் மதீனாவை விட்டு வெளியேறினார்.) அப்போது நபி (ஸல்) அவர்கள், “மதீனா, (கொல்லனின்) உலையைப் போன்றதாகும். அது தன்னிலுள்ள தீயவர் களை வெளியேற்றிவிடும்; அதிலுள்ள நல்லவர்கள் தூய்மை பெற்றுத் திகழ்வார் கள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1883</td></tr><tr><td>Arabic No</td><td>1883</td></tr><tr><td>Reference</td><td>Book 29 Hadith 17</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Amru bin 'Abbas] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir İbn Abdullah r.a. anlatıyor: "Bir gün bir bedevi Resûlullah Sallallahu Aleyhi ve Sellem'e gelerek Müslüman olmak üzere beyat etti. Fakat ertesi gün telaşlı bir halde adeta çıldırmış gibi geldi ve: "Sana verdiğim bey'atı boz!" dedi. Resûl-i Ekrem Sallallahu Aleyhi ve Sellem adam'ın bu talebini üç defa geri çevirdi ve şöyle buyurdu: "Medine körük gibidir; pis ve işe yaramaz olanları sürüp atar, temiz ve iyi olanları ise ortaya çıkarır." Tekrar: 7209, 7211, 7216, 7322
+Cabir İbn Abdullah r.a. anlatıyor: "Bir gün bir bedevi Resûlullah Sallallahu Aleyhi ve Sellem'e gelerek Müslüman olmak üzere beyat etti. Fakat ertesi gün telaşlı bir halde adeta çıldırmış gibi geldi ve: "Sana verdiğim bey'atı boz!" dedi. Resûl-i Ekrem Sallallahu Aleyhi ve Sellem adam'ın bu talebini üç defa geri çevirdi ve şöyle buyurdu: "Medine körük gibidir; pis ve işe yaramaz olanları sürüp atar, temiz ve iyi olanları ise ortaya çıkarır." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1883</td></tr><tr><td>Arabic No</td><td>1883</td></tr><tr><td>Reference</td><td>Book 29 Hadith 17</td></tr></tbody></table></div>
 

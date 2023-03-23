@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুগীরাহ ইবনু শু‘বাহ (রাযি.) হতে বর্ণিত। তিনি কোন এক সফরে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে ছিলেন। এক সময় তিনি প্রকৃতির ডাকে সাড়া দিতে গেলেন। (প্রয়োজন সেরে আসার পর) মুগীরাহ তাঁকে পানি ঢেলে দিচ্ছিলেন এবং তিনি উযূ করছিলেন। তিনি তাঁর মুখমন্ডল এবং দু’হাত ধুলেন এবং তাঁর মাথা মাসেহ করলেন ও উভয় মোজার উপর মাসেহ করলেন। (২০৩, ২০৬, ৩৬৩, ৩৮৮, ২৯১৮, ৪৪২১, ৫৭৯৮, ৫৭৯৯; মুসলিম ২/২২, হাঃ ২৭৪, আহমাদ ১৮১৮৪) (আধুনিক প্রকাশনীঃ ১৭৭, ইসলামিক ফাউন্ডেশনঃ ১৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুগীরাহ ইবনু শু‘বাহ (রাযি.) হতে বর্ণিত। তিনি কোন এক সফরে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে ছিলেন। এক সময় তিনি প্রকৃতির ডাকে সাড়া দিতে গেলেন। (প্রয়োজন সেরে আসার পর) মুগীরাহ তাঁকে পানি ঢেলে দিচ্ছিলেন এবং তিনি উযূ করছিলেন। তিনি তাঁর মুখমন্ডল এবং দু’হাত ধুলেন এবং তাঁর মাথা মাসেহ করলেন ও উভয় মোজার উপর মাসেহ করলেন। (২০৩, ২০৬, ৩৬৩, ৩৮৮, ২৯১৮, ৪৪২১, ৫৭৯৮, ৫৭৯৯; মুসলিম ২/২২, হাঃ ২৭৪, আহমাদ ১৮১৮৪) (আধুনিক প্রকাশনীঃ ১৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>182</td></tr><tr><td>Reference</td><td>Book 4 Hadith 48</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin 'Ali] berkata, telah menceritakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் கூறியதாவது: நான் ஒரு பயணத்தில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் இருந்தேன். அவர்கள் தமது (இயற்கைத்) தேவைக்காகப் புறப்பட்டுச் சென்றார்கள். (அவர்கள் திரும்பி வந்தபோது) அவர்களின் (கை கால்கள்)மீது நான் தண்ணீர் ஊற்றலானேன். அவர்கள் அங்கத் தூய்மை செய்தார்கள். அப்போது அவர்கள் தமது முகத்தையும் இரு கைகளையும் கழுவினார்கள். ஈரக்கையால் தலையைத் தடவி (மஸ்ஹு செய்திடலா)னார்கள். ஈரக்கையால் காலுறைகள்மீது தடவினார்கள் (காலுறைகளைக் கழற்றி கால்களைக் கழுவவில்லை). அத்தியாயம் : 4
+முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் கூறியதாவது: நான் ஒரு பயணத்தில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் இருந்தேன். அவர்கள் தமது (இயற்கைத்) தேவைக்காகப் புறப்பட்டுச் சென்றார்கள். (அவர்கள் திரும்பி வந்தபோது) அவர்களின் (கை கால்கள்)மீது நான் தண்ணீர் ஊற்றலானேன். அவர்கள் அங்கத் தூய்மை செய்தார்கள். அப்போது அவர்கள் தமது முகத்தையும் இரு கைகளையும் கழுவினார்கள். ஈரக்கையால் தலையைத் தடவி (மஸ்ஹு செய்திடலா)னார்கள். ஈரக்கையால் காலுறைகள்மீது தடவினார்கள் (காலுறைகளைக் கழற்றி கால்களைக் கழுவவில்லை). அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>182</td></tr><tr><td>Reference</td><td>Book 4 Hadith 48</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Amru bin 'Ali] berkata, telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muğîre İbn Şu'be r.a.'den rivayet edildiğine göre o bir yolculukta Resulullah (Sallallahu aleyhi ve Sellem) ile birlikteydi. Nebi (Sallallahu aleyhi ve Sellem) tuvalet ihtiyacını görmek için gitti. Muğîre Resulullah sallallahu aleyhi ve sellem'in eline su döküyor, o da abdest alıyordu. Nebi s.a.v. yüzünü ve kollarını yıkadı, mestleri üzerine ise mesh etti. Tekrar: 203, 206, 363, 388, 2918, 4421, 5798, 5799
+Muğîre İbn Şu'be r.a.'den rivayet edildiğine göre o bir yolculukta Resulullah (Sallallahu aleyhi ve Sellem) ile birlikteydi. Nebi (Sallallahu aleyhi ve Sellem) tuvalet ihtiyacını görmek için gitti. Muğîre Resulullah sallallahu aleyhi ve sellem'in eline su döküyor, o da abdest alıyordu. Nebi s.a.v. yüzünü ve kollarını yıkadı, mestleri üzerine ise mesh etti. Tekrar: 203, 206, 36
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>182</td></tr><tr><td>Reference</td><td>Book 4 Hadith 48</td></tr></tbody></table></div>
 

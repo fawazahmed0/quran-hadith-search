@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২৬৬, আন্তর্জাতিক নাম্বারঃ ২৯৩৮ ৭২৬৬-(…/...) আবদুল্লাহ ইবনু আবদুর রহমান আদ দারিমী (রহঃ) ..... যুহরী (রহঃ) হতে এ সূত্রে অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭১০৯, ইসলামিক সেন্টার ৭১৬৩)
+(…/...) আবদুল্লাহ ইবনু আবদুর রহমান আদ দারিমী (রহঃ) ..... যুহরী (রহঃ) হতে এ সূত্রে অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৭১০৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7376</td></tr><tr><td>Arabic No</td><td>2938.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 137</td></tr></tbody></table></div>
 

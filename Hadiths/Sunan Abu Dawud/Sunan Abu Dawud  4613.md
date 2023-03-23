@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... নাফি (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ ইবন উমার (রাঃ) এর একজন দোস্ত ছিল শাম দেশে, যিনি তার সাথে পত্রালাপ করতেন। একবার ইবন উমার (রাঃ) তাকে লেখেনঃ আমি জানতে পেরেছি যে, তুমি তাকদীরের ব্যাপারে কথাবার্তা বলেছ! এখন থেকে তুমি আমার কাছে আর পত্র লিখবে না। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ অচিরেই আমার উম্মতের মধ্যে এমন লোক সৃষ্টি হবে যারা তাকদীরকে অস্বীকার করবে।
+। নাফি‘ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, সিরিয়াতে আব্দুল্লাহ ইবনু উমার (রাঃ)-এর এক বন্ধু ছিলেন। তিনি তার সঙ্গে পত্র আদান প্রদান করতেন। একদা তিনি এই মর্মে লিখে পাঠালেন, বিশ্বস্ত সূত্রে আমি জানতে পেরেছি যে, তুমি তাকদীরের কোনো বিষয়ে সমালোচনা করেছো। কাজেই এখন থেকে তুমি আমাকে লিখবে না। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ অচিরেই আমার উম্মাতের মধ্যে এমন এক গোত্রের আবির্ভাব হবে যারা তাকদীরকে অস্বীকার করবে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4613</td></tr><tr><td>Arabic No</td><td>4613</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
 

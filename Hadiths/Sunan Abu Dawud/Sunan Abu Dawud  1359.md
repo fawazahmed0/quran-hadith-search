@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল আযীয ইবন ইয়াহহিয়া (রহঃ) ..... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ফজরের সুন্নাত সহ মোট তের রাকাত নামায আদায় করতেন। তিনি প্রথমত দুই দুই রাকাত করে ছয় রাকাত আদায় করতেন। অতঃপর তিনি বিতির নামায পাঁচ রাকাত আদায় করতেন এবং শেষ রাকাতে বসতেন।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের পূর্বের দু’ রাক‘আতসহ সর্বমোট তের রাক‘আত সালাত আদায় করতেন। দু’ দু’ রাক‘আত করে ছয় রাক‘আত এবং বিতর পাঁচ রাক‘আত, এর সর্বশেষ রাক‘আত ছাড়া তিনি মাঝখানে বসতেন না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1359</td></tr><tr><td>Arabic No</td><td>1359</td></tr><tr><td>Reference</td><td>Book 5 Hadith 110</td></tr></tbody></table></div>
 

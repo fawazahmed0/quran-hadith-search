@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি যৌথ-মালিকানাধীন গোলামের (স্বীয় অংশ) আযাদ করবে, তার উপর সে গোলামকে পর্ণূরূপে আযাদ করে দেওয়া কর্তব্য। অবশ্য সে যদি মালদার হয়। আর যদি সে মালদার না হয়, তবে সে গোলামকে কাজ-কর্ম করে অর্জিত মালের দ্বারা তার (মুক্তির জন্য) বাকী অংশের টাকা পরিশোধ করতে বলবে। অবশ্য এরূপ তখন করতে হবে, যখন তাঁর কষ্ট হবে না।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি যৌথ মালিকানাভুক্ত কৃতদাসের নিজের অংশ আযাদ করে সে মালদার হলে সম্পূর্ণ আদায় করার ব্যবস্থা করা উচিত। সম্পদশালী না হলে কঠিন পরিশ্রমে না ফেলে দাসকে দিয়ে কাজ করাতে পারে।[1]’ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3937</td></tr><tr><td>Arabic No</td><td>3937</td></tr><tr><td>Reference</td><td>Book 31 Hadith 12</td></tr></tbody></table></div>
 

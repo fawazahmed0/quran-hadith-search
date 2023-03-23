@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের সওয়ারীর উপর (নফল) সালাত আদায় করতেন- সওয়ারী তাঁকে নিয়ে যে দিকেই মুখ করত না কেন। কিন্তু যখন ফরজ সালাত আদায়ের ইচ্ছা করতেন, তখন নেমে পড়তেন এবং ক্বিবলা (কিবলা/কেবলা)মুখী হতেন। (১০৯৪, ১০৯৯, ৪১৪০) (আধুনিক প্রকাশনীঃ ৩৮৫, ইসলামিক ফাউন্ডেশনঃ ৩৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের সওয়ারীর উপর (নফল) সালাত আদায় করতেন- সওয়ারী তাঁকে নিয়ে যে দিকেই মুখ করত না কেন। কিন্তু যখন ফরজ সালাত আদায়ের ইচ্ছা করতেন, তখন নেমে পড়তেন এবং ক্বিবলা (কিবলা/কেবলা)মুখী হতেন। (১০৯৪, ১০৯৯, ৪১৪০) (আধুনিক প্রকাশনীঃ ৩৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 8 Hadith 51</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது வாகனத்தின் மீது (அமர்ந்து சைகை செய்தவாறு,) அது செல்கின்ற திசையை நோக்கி (கூடுதல் தொழுகைகளை) தொழுபவர்களாக இருந்தார்கள். கடமையான தொழுகையை அவர்கள் தொழ நாடும்போது (வாகனத்தி-ருந்து) இறங்கி, கிப்லாவை முன்னோக்கித் தொழுவார்கள். அத்தியாயம் : 8
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது வாகனத்தின் மீது (அமர்ந்து சைகை செய்தவாறு,) அது செல்கின்ற திசையை நோக்கி (கூடுதல் தொழுகைகளை) தொழுபவர்களாக இருந்தார்கள். கடமையான தொழுகையை அவர்கள் தொழ நாடும்போது (வாகனத்தி-ருந்து) இறங்கி, கிப்லாவை முன்னோக்கித் தொழுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 8 Hadith 51</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Câbir'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem bineği ne tarafa dönerse dönsün onun üzerinde namaz kılardı. Farz namazı kılacağı zaman ise, bineğinden inip kıbleye yönelirdi. Tekrar: 1094, 1099, 4140
+Câbir'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem bineği ne tarafa dönerse dönsün onun üzerinde namaz kılardı. Farz namazı kılacağı zaman ise, bineğinden inip kıbleye yönelirdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 8 Hadith 51</td></tr></tbody></table></div>
 

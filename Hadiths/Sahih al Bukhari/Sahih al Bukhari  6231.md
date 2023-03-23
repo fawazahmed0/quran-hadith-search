@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বয়োকনিষ্ঠ বয়োজ্যেষ্ঠকে, পদচারী উপবিষ্টকে এবং অল্প সংখ্যক অধিক সংখ্যককে সালাম দিবে। [৬২৩২, ৬২৩৩, ৬২৩৪; মুসলিম ৩৯/১, হাঃ ২১৬০, হাঃ ১০৬২৯] (আধুনিক প্রকাশনী- ৫৭৯০, ইসলামিক ফাউন্ডেশন- ৫৬৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বয়োকনিষ্ঠ বয়োজ্যেষ্ঠকে, পদচারী উপবিষ্টকে এবং অল্প সংখ্যক অধিক সংখ্যককে সালাম দিবে। [৬২৩২, ৬২৩৩, ৬২৩৪; মুসলিম ৩৯/১, হাঃ ২১৬০, হাঃ ১০৬২৯] (আধুনিক প্রকাশনী- ৫৭৯০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6231</td></tr><tr><td>Arabic No</td><td>6231</td></tr><tr><td>Reference</td><td>Book 79 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Muqatil Abu Al Hasan] telah mengaba
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: சிறியவர் பெரியவருக்கும், நடந்து செல்பவர் அமர்ந்திருப்பவருக்கும், சிறு குழுவினர் பெருங்குழுவினருக்கும் (முதலில்) முகமன் (சலாம்) கூறட்டும்.10 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 79
+நபி (ஸல்) அவர்கள் கூறினார்கள்: சிறியவர் பெரியவருக்கும், நடந்து செல்பவர் அமர்ந்திருப்பவருக்கும், சிறு குழுவினர் பெருங்குழுவினருக்கும் (முதலில்) முகமன் (சலாம்) கூறட்டும்.10 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6231</td></tr><tr><td>Arabic No</td><td>6231</td></tr><tr><td>Reference</td><td>Book 79 Hadith 5</td></tr></tbody></table></div>
 

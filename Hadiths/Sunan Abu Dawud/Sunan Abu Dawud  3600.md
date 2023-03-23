@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাফ্‌স ইবন উমার (রহঃ) .... আমর ইবন শুআয়ব (রহঃ) তাঁর পিতা হতে, তিনি তাঁর দাদা হতে বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খিয়ানতকারী পুরুষ এবং স্ত্রীর সাক্ষ্য, স্বীয় ভ্রাতার প্রতি হিংসা-বিদ্বেষ পোষণকারী ব্যক্তির সাক্ষ্য প্রত্যাখ্যান করেছেন এবং চাকর-বাকর ও অধীনস্থদের সাক্ষ্য তার পরিবারের পক্ষে প্রত্যাখ্যান করেছেন এবং অন্যান্য লোকদের অনুমতি দিয়েছেন।
+। ‘আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খিয়ানতকারী ও খিয়ানতকারীনীর সাক্ষ্য এবং নিজের ভাইয়ের সাথে শত্রুতা পোষণকারীর সাক্ষ্য প্রত্যাখ্যান করেছেন। তিনি কোন পরিবারের অধীনস্থ খাদেম ও আশ্রিত ব্যক্তির সাক্ষ্যও বর্জন করেছেন, তবে অন্যের পক্ষে তাদের সাক্ষ্য গ্রহণযোগ্য বলেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, গিম্‌র অর্থ হলো শত্রুতা, কানি‘ অর্থ আশ্রিতজন, অধীনস্থ, বিশেষ ভৃত্যের মতো।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3600</td></tr><tr><td>Arabic No</td><td>3600</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
 

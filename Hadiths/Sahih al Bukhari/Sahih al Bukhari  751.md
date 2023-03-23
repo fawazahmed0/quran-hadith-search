@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে সালাতে এদিক ওদিক তাকানো সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেনঃ এটা এক ধরনের ছিনতাই, যার মাধ্যমে শয়তান বান্দার সালাত হতে অংশ বিশেষ ছিনিয়ে নেয়। (৩২৯১) (আধুনিক প্রকাশনীঃ৭০৭, ইসলামিক ফাউন্ডেশনঃ৭১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে সালাতে এদিক ওদিক তাকানো সম্পর্কে জিজ্ঞেস করলাম। তিনি বললেনঃ এটা এক ধরনের ছিনতাই, যার মাধ্যমে শয়তান বান্দার সালাত হতে অংশ বিশেষ ছিনিয়ে নেয়। (৩২৯১) (আধুনিক প্রকাশনীঃ৭০৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>751</td></tr><tr><td>Reference</td><td>Book 10 Hadith 145</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: தொழுதுகொண்டிருக்கும்போது திரும்பிப் பார்ப்பது தொடர்பாக அல்லாஹ் வின் தூதர் (ஸல்) அவர்களிடம் நான் கேட்டேன். அதற்கு அவர்கள், “அ(வ்வாறு செய்வ)து ஓர் அடியாரின் தொழுகையை ஷைத்தான் பறித்துச் செல்வ(தற்கு வழிவகுப்ப)தாகும்” என்று கூறினார்கள். அத்தியாயம் : 10
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: தொழுதுகொண்டிருக்கும்போது திரும்பிப் பார்ப்பது தொடர்பாக அல்லாஹ் வின் தூதர் (ஸல்) அவர்களிடம் நான் கேட்டேன். அதற்கு அவர்கள், “அ(வ்வாறு செய்வ)து ஓர் அடியாரின் தொழுகையை ஷைத்தான் பறித்துச் செல்வ(தற்கு வழிவகுப்ப)தாகும்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>751</td></tr><tr><td>Reference</td><td>Book 10 Hadith 145</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (radiyallahu anha) şöyle demiştir: "Resulullah Sallallahu Aleyhi ve Sellem'e namazda iken baş'ı sağ'a sol'a çevirmenin hükmünü sordum. Bana şu cevabı verdi: Bu şeytan'ın, kul'un namazından bir kısmını kapıp aşırmasıdır. Tekrar: 3291
+Aişe (radiyallahu anha) şöyle demiştir: "Resulullah Sallallahu Aleyhi ve Sellem'e namazda iken baş'ı sağ'a sol'a çevirmenin hükmünü sordum. Bana şu cevabı verdi: Bu şeytan'ın, kul'un namazından bir kısmını kapıp aşırmasıdır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>751</td></tr><tr><td>Reference</td><td>Book 10 Hadith 145</td></tr></tbody></table></div>
 

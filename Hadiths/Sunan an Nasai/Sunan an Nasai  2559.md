@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আহমদ ইবন সুলায়মান (রহঃ) ... আমর ইবন শুআয়ব (রহঃ) তার পিতার মাধ্যমে তার দাদা থেকে বর্ণনা করেন। তিন বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা গর্ব ও অপব্যয় না করে খাও, দান কর এবং পরিধান কর।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 23 Hadith 125</td></tr></tbody></table></div>
 

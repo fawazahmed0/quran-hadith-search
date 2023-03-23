@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Hisyam bin Urwah] dari [Bapaknya] d
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Resul-i Ekrem'in zevcesi Aişe (r.anha) rivayet ederek der ki: Resulullah Sallallahu Aleyhi ve Sellem rahatsızdı, namazı oturarak kıldı. Arkasındaki cemaat ayakta kıldı. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem onlara oturun diye işaret etti. Namazı bitirince: «İmam kendisine uyulması için imam kılındı. İmam rükuya varınca rüku yapın. Başını kaldırınca siz de kaldırın. Oturarak namaz kıldığı vakit siz de oturarak kılın.» buyurdu. Diğer tahric: Buharı, Ezan; Müslim, Salat; Şafiî, Risale, no: 697
+Resul-i Ekrem'in zevcesi Aişe (r.anha) rivayet ederek der ki: Resulullah Sallallahu Aleyhi ve Sellem rahatsızdı, namazı oturarak kıldı. Arkasındaki cemaat ayakta kıldı. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem onlara oturun diye işaret etti. Namazı bitirince: «İmam kendisine uyulması için imam kılındı. İmam rükuya varınca rüku yapın. Başını kaldırınca siz de kaldırın. Oturarak namaz kıldığı vakit siz de oturarak kılın.» buyurdu. Diğer tahric: Buharı, Ezan; Müslim, Salat; Şafiî, Risale, no:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>304</td></tr><tr><td>Arabic No</td><td>304</td></tr><tr><td>Reference</td><td>Book 8 Hadith 18</td></tr></tbody></table></div>
 

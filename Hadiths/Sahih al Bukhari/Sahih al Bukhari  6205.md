@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা‘আলার কাছে কিয়ামতের দিনে ঐ লোকের নাম সবচেয়ে ঘৃণিত, যে তার নাম রেখেছে ‘রাজাদের রাজা’। [৬২০৬; মুসলিম ৩৮/৪, হাঃ ২১৪৩, আহমাদ ৭৩৩৩] (আধুনিক প্রকাশনী- ৫৭৬৪, ইসলামিক ফাউন্ডেশন- ৫৬৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ তা‘আলার কাছে কিয়ামতের দিনে ঐ লোকের নাম সবচেয়ে ঘৃণিত, যে তার নাম রেখেছে ‘রাজাদের রাজা’। [৬২০৬; মুসলিম ৩৮/৪, হাঃ ২১৪৩, আহমাদ ৭৩৩৩] (আধুনিক প্রকাশনী- ৫৭৬৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6205</td></tr><tr><td>Arabic No</td><td>6205</td></tr><tr><td>Reference</td><td>Book 78 Hadith 229</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளில் அல்லாஹ்விடம் மிகவும் அருவருப்பான பெயர், (உலகில்) ஒரு மனிதர் தமக்கு ‘மன்னாதி மன்னன்’ (மலிக்குல் அம்லாக்) என்று பெயர் சூட்டிக்கொண்டதாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளில் அல்லாஹ்விடம் மிகவும் அருவருப்பான பெயர், (உலகில்) ஒரு மனிதர் தமக்கு ‘மன்னாதி மன்னன்’ (மலிக்குல் அம்லாக்) என்று பெயர் சூட்டிக்கொண்டதாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6205</td></tr><tr><td>Arabic No</td><td>6205</td></tr><tr><td>Reference</td><td>Book 78 Hadith 229</td></tr></tbody></table></div>
 

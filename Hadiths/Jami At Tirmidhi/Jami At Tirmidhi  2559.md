@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫৫৯। আনাস (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাত দুঃখ-কষ্ট ও শ্রমসাধ্য বিষয় দ্বারা ঘেরা এবং জাহান্নাম কু-প্রবৃত্তি ও লোভ-লালসা দ্বারা ঘেরা। সহীহঃ মুসলিম (৮/১৪২-১৪৩)। আবূ ঈসা বলেন, এই হাদীসটি হাসান সহীহ এবং উপরোক্ত সূত্রে গারীব।
+। আনাস (রাযিঃ) হতে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাত দুঃখ-কষ্ট ও শ্রমসাধ্য বিষয় দ্বারা ঘেরা এবং জাহান্নাম কু-প্রবৃত্তি ও লোভ-লালসা দ্বারা ঘেরা। সহীহঃ মুসলিম (৮/১৪২-১৪৩)। আবূ ঈসা বলেন, এই হাদীসটি হাসান সহীহ এবং উপরোক্ত সূত্রে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 38 Hadith 37</td></tr></tbody></table></div>
 

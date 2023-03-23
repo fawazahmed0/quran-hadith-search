@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَمِنْهُمْ مَّنْ يَّقُوْلُ رَبَّنَآ اٰتِنَا فِي الدُّنْيَا حَسَنَةً وَّفِي الْاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّارِ (201) ) ‘‘এবং তাদের মধ্যে এমন লোকও রয়েছে যে বলেঃ হে আমাদের প্রতিপালক! এ দুনিয়াতেও আমাদের কল্যাণ দান কর এবং আখিরাতেও কল্যাণ দান কর এবং জাহান্নামের ‘আযাব থেকে আমাদের রক্ষা কর।’’[1] (সূরাহ আল-বাকারাহ ২/২০১) ৪৫২২. আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এই বলে দু‘আ করতেনঃ اللهُمَّ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ ‘‘হে আমাদের প্রভু! এ দুনিয়াতেও আমাদের কল্যাণ দান কর এবং আখিরাতেও কল্যাণ দান কর এবং দোজখের ‘আযাব থেকে আমাদের রক্ষা কর’’- (সূরাহ আল-বাকারাহ ২/২০১)। (আধুনিক প্রকাশনীঃ ৪১৬৪, ইসলামিক ফাউন্ডেশনঃ ৪১৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَمِنْهُمْ مَّنْ يَّقُوْلُ رَبَّنَآ اٰتِنَا فِي الدُّنْيَا حَسَنَةً وَّفِي الْاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّارِ (201) ) ‘‘এবং তাদের মধ্যে এমন লোকও রয়েছে যে বলেঃ হে আমাদের প্রতিপালক! এ দুনিয়াতেও আমাদের কল্যাণ দান কর এবং আখিরাতেও কল্যাণ দান কর এবং জাহান্নামের ‘আযাব থেকে আমাদের রক্ষা কর।’’[1] (সূরাহ আল-বাকারাহ ২/২০১) ৪৫২২. আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এই বলে দু‘আ করতেনঃ اللهُمَّ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ ‘‘হে আমাদের প্রভু! এ দুনিয়াতেও আমাদের কল্যাণ দান কর এবং আখিরাতেও কল্যাণ দান কর এবং দোজখের ‘আযাব থেকে আমাদের রক্ষা কর’’- (সূরাহ আল-বাকারাহ ২/২০১)। (আধুনিক প্রকাশনীঃ ৪১৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4522</td></tr><tr><td>Arabic No</td><td>4522</td></tr><tr><td>Reference</td><td>Book 65 Hadith 47</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:The Prophet (ﷺ) used to say, "O Allah! Our Lord! Give us in this world that, which is good and in the Hereafter that, which is good and save us from the torment of the Fire." (2.201)
+Narrated Anas:The Prophet (ﷺ) used to say, "O Allah! Our Lord! Give us in this world that, which is good and in the Hereafter that, which is good and save us from the torment of the Fire
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4522</td></tr><tr><td>Arabic No</td><td>4522</td></tr><tr><td>Reference</td><td>Book 65 Hadith 47</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] Telah menceritakan kepada kami [Abdu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறிய தாவது: நபி (ஸல்) அவர்கள், “அல்லாஹ்வே! எங்கள் இறைவா! எங்களுக்கு இந்த உலகிலும் நன்மையை அருள்வாயாக! மறு உலகிலும் நன்மையை அருள்வாயாக! மேலும், நரக நெருப்பின் வேதனையிலிருந்து எங்களை நீ காத்தருள்வாயாக?” எனப் பிரார்த்தித்துவந்தார்கள். அத்தியாயம் : 65
+அனஸ் (ரலி) அவர்கள் கூறிய தாவது: நபி (ஸல்) அவர்கள், “அல்லாஹ்வே! எங்கள் இறைவா! எங்களுக்கு இந்த உலகிலும் நன்மையை அருள்வாயாக! மறு உலகிலும் நன்மையை அருள்வாயாக! மேலும், நரக நெருப்பின் வேதனையிலிருந்து எங்களை நீ காத்தருள்வாயாக?” எனப் பிரார்த்தித்துவந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4522</td></tr><tr><td>Arabic No</td><td>4522</td></tr><tr><td>Reference</td><td>Book 65 Hadith 47</td></tr></tbody></table></div>
 

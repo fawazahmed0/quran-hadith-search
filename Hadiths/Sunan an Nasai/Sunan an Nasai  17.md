@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী ইবনু হুজুর (রহ.) ..... মুগীরাহ্ ইবনু শুবাহ্ (রাঃ) থেকে বর্ণিত। নবী (সা.) যখন পায়খানা প্রস্রাবের স্থানের দিকে যাওয়ার ইচ্ছা করতেন, তখন দূরে চলে যেতেন। (বর্ণনাকারী) বলেন, রাসূলুল্লাহ (সা.) তাঁর কোন এক সফরে পায়খানা-প্রস্রাবের প্রয়োজনে দূরে গিয়েছিলেন। আর (এসে) বললেন, আমার জন্যে উযূর পানি নিয়ে আসো। আমি উযূর পানি আনলাম। তিনি উযূ করলেন এবং মোজার উপর মাসাহ করলেন। হাসান সহীহ: আবূ দাউদ ১, তিরমিযী ২০, ইবনু মাজাহ ৩৩১, দারিমী ৬৬০, ইবনু খুযায়মাহ্ ৫০।
+। আলী ইবনু হুজর (রহঃ) ... মুগীরা ইবনু শু’বা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন পায়খানা-পেশাবের স্থানের দিকে যাওয়ার ইচ্ছা করতেন, তখন (লোকালয় হতে) দূরে চলে যেতেন। বর্ণনাকারী বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কোন এক সফরে পায়খানা-পেশাবের প্রয়োজনে (লোকালয় হতে) দূরে গিয়েছিলেন। তারপর বললেন, আমার জন্য উযূর পানি আন। আমি তাঁর জন্য উযূর পানি আনলাম। তিনি উযূ (ওজু/অজু/অযু) করলেন এবং মোজার উপর মাসেহ করলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Arabic No</td><td>17</td></tr><tr><td>Reference</td><td>Book 1 Hadith 17</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Ali bin Hujr] Telah memberitakan kepada kami [Ism
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muğire b. Şu’be (radıyallahü anh)’den rivâyete göre, Peygamber (sallallahü aleyhi ve sellem) tuvalet ihtiyacı için insanlardan uzaklaşırdı. Yolculuklarından birinde yine uzaklara gitmişti de: su getiriver, diye seslenmişti. Kendisine su götürdüm, onunla abdest aldı ve mestleri üzerine meshetti.) Tahara: 10; Ebû Dâvûd, Tahara: 6
+Muğire b. Şu’be (radıyallahü anh)’den rivâyete göre, Peygamber (sallallahü aleyhi ve sellem) tuvalet ihtiyacı için insanlardan uzaklaşırdı. Yolculuklarından birinde yine uzaklara gitmişti de: su getiriver, diye seslenmişti. Kendisine su götürdüm, onunla abdest aldı ve mestleri üzerine meshetti.) Tahara: 10; Ebû Dâvûd, Tahara:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Arabic No</td><td>17</td></tr><tr><td>Reference</td><td>Book 1 Hadith 17</td></tr></tbody></table></div>
 

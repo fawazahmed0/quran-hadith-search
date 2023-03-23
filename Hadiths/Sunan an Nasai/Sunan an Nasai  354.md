@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু 'আবদুল্লাহ ইবনুল মুবারক (রহ.) ..... উম্মু সালামাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, এক মহিলা নবী (সা.) -কে প্রশ্ন করল, আমার ইস্তিহাযাহ্ হয় আর আমি পবিত্র হই না। আমি কি সালাত ছেড়ে দিব? তিনি (সা.) বললেন, না, বরং যে কয়টি দিবা-রাত্র তোমার হায়য থাকত ততদিন তুমি সালাত আদায় করবে না। তারপর তুমি গোসল করবে এবং পট্টি বাঁধবে ও সালাত আদায় করবে। সহীহ: আবূ দাউদ ২৭৪, ইবনু মাজাহ ৬২৩। (দ্রঃ ২০৮)
+। মুহাম্মদ ইবনু আবদুল্লাহ ইবনু মুবারক (রহঃ) ... উম্মে সালমা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ এক মহিলা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে প্রশ্ন করলঃ আমার ইস্তিহাযা হয় আর আমি পাক হইনা। আমি কি সালাত ছেড়ে দেব? তিনি বললেনঃ না বরং যে কয়টি দিবারাত্র তোমার হায়য থাকত, ততদিন তুমি সালাত ছাড়বে। তারপর তুমি গোসল করবে এবং পট্টি বাধবে, পরে সালাত আদায় করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>354</td></tr><tr><td>Arabic No</td><td>354</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah memberitakan kepada kami [Muhammad bin Abdullah bin Al Mubarak] dia berkat
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Seleme (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: kadın, Peygamber (sallallahü aleyhi ve sellem)’e: devamlı kan geliyor ve temizlenemiyorum, namazları bırakayım mı?) diye sormuştu da; Rasûlüllah (sallallahü aleyhi ve sellem) ona şöyle buyurmuştu: namazları bırakma fakat hayız gördüğün gün ve geceler miktarınca namazı bırak sonra guslet, kan gelecek yerleri sıkıca bağla ve namazlarını kıl.) (İbn Mâce, Tahara: 116; Müslim, Hayz: 14)
+Ümmü Seleme (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: kadın, Peygamber (sallallahü aleyhi ve sellem)’e: devamlı kan geliyor ve temizlenemiyorum, namazları bırakayım mı?) diye sormuştu da; Rasûlüllah (sallallahü aleyhi ve sellem) ona şöyle buyurmuştu: namazları bırakma fakat hayız gördüğün gün ve geceler miktarınca namazı bırak sonra guslet, kan gelecek yerleri sıkıca bağla ve namazlarını kıl.) (İbn Mâce, Tahara: 116; Müslim, Hayz:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>354</td></tr><tr><td>Arabic No</td><td>354</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
 

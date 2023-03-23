@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... কায়েস ইবনু তালক উপরোক্ত হাদীছের সনদ ও অর্থের অনুরূপ বর্ণনা করে বলেছেনঃ পুরুষাংগ যদি নামাযের মধ্যে স্পর্শ করা হয়।
+। ক্বায়িস ইবনু তালক হতে একই সানাদে উপরোক্ত হাদীসের সমার্থক হাদীস বর্ণিত আছে। তাতে, সালাতরত অবস্থায় পুরুষাঙ্গ স্পর্শ করলে-কথাটি রয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>183</td></tr><tr><td>Arabic No</td><td>183</td></tr><tr><td>Reference</td><td>Book 1 Hadith 183</td></tr></tbody></table></div>
 

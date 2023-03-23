@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবাই ইবনু কা‘ব (রাঃ) হতে বর্ণিত। তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন, ‘‘মূসা তার সঙ্গীকে বললেনঃ আমাদের নাশতা আন এ সফরে আমরা অবশ্যই ক্লান্ত হয়ে পড়েছি। সঙ্গী বললঃ আপনি কি লক্ষ্য করেছেন, আমরা যখন প্রস্তর খন্ডের কাছে বিশ্রাম করছিলাম, তখন আমি মাছের কথা ভুলে গিয়েছিলাম। শয়তানই আমাকে এ কথা স্মরণ রাখতে ভুলিয়ে দিয়েছিল’’- (কাহ্ফ ৬২-৬৩)। আল্লাহ তা‘আলা মূসা (আঃ)-কে যে স্থানটি সম্পর্কে নির্দেশ দিয়েছিলেন, তিনি সে স্থানটি অতিক্রম করা পর্যন্ত কোন প্রকার ক্লান্তি অনুভব করেননি। (৭৪) (আধুনিক প্রকাশনীঃ ৩০৩৬, ইসলামিক ফাউন্ডেশনঃ ৩০৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উবাই ইবনু কা‘ব (রাঃ) হতে বর্ণিত। তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন, ‘‘মূসা তার সঙ্গীকে বললেনঃ আমাদের নাশতা আন এ সফরে আমরা অবশ্যই ক্লান্ত হয়ে পড়েছি। সঙ্গী বললঃ আপনি কি লক্ষ্য করেছেন, আমরা যখন প্রস্তর খন্ডের কাছে বিশ্রাম করছিলাম, তখন আমি মাছের কথা ভুলে গিয়েছিলাম। শয়তানই আমাকে এ কথা স্মরণ রাখতে ভুলিয়ে দিয়েছিল’’- (কাহ্ফ ৬২-৬৩)। আল্লাহ তা‘আলা মূসা (আঃ)-কে যে স্থানটি সম্পর্কে নির্দেশ দিয়েছিলেন, তিনি সে স্থানটি অতিক্রম করা পর্যন্ত কোন প্রকার ক্লান্তি অনুভব করেননি। (৭৪) (আধুনিক প্রকাশনীঃ ৩০৩৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 59 Hadith 87</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ubai bin Ka'b:That he heard Allah's Messenger (ﷺ) saying, "(The proph
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami ['Amru] berkata telah mengabarkan kepadaku [Sa'id bin Jubair] berkata; Aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhuma], lalu dia menjawab, telah bercerita kepada kami [Ubay bin Ka'ab] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: " Musa Alaihissalam berkata kepada muridnya; "Hidangkanlah makanan siang kita". Muridnya berkata; ("Tahukah kamu tatkala kita mecari tempat berlindung di batu tadi?. Sesungguhnya aku lupa (menceritakan tentang) ikan itu dan tidak ada yang melupakan aku untuk menceritakannya kecuali setan"). Maka Musa Alaihissalam tidak mendapatkan jatah makan hingga mereka menemukan tempat yang diperintahkan Allah Ta'ala". (Kisah dalam QS al-Kahfi ayat 62 - 63)
+Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami ['Amru] berkata telah mengabarkan kepadaku [Sa'id bin Jubair] berkata; Aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhuma], lalu dia menjawab, telah bercerita kepada kami [Ubay bin Ka'ab] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: " Musa Alaihissalam berkata kepada muridnya; "Hidangkanlah makanan siang kita". Muridnya berkata; ("Tahukah kamu tatkala kita mecari tempat berlindung di batu tadi?. Sesungguhnya aku lupa (menceritakan tentang) ikan itu dan tidak ada yang melupakan aku untuk menceritakannya kecuali setan"). Maka Musa Alaihissalam tidak mendapatkan jatah makan hingga mereka menemukan tempat yang diperintahkan Allah Ta'ala". (Kisah dalam QS al-Kahfi ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 59 Hadith 87</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மூசா (அலை) அவர்கள் தம் பணியாள ரிடம் ‘‘நமது சிற்றுண்டியைக் கொண்டுவா” என்று கூறினார்கள். அதற்கு அவர், ‘‘பார்த்தீர்களா? நாம் அந்தப் பாறையின் அருகில் தங்கியிருந்தபோது நான் மீனை மறந்தே போய்விட்டேன். அதை ஷைத்தான்தான் எனக்கு மறக்கச் செய்து விட்டான்” (18:62,63) என்று கூறினார். அல்லாஹ் கட்டளையிட்ட (இரு நதிகள் சங்கமிக்கும்) இடத்தைக் கடக்கின்ற வரை மூசா (அலை) அவர்கள் களைப்பை உணரவில்லை.80 இதை உபை பின் கஅப் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மூசா (அலை) அவர்கள் தம் பணியாள ரிடம் ‘‘நமது சிற்றுண்டியைக் கொண்டுவா” என்று கூறினார்கள். அதற்கு அவர், ‘‘பார்த்தீர்களா? நாம் அந்தப் பாறையின் அருகில் தங்கியிருந்தபோது நான் மீனை மறந்தே போய்விட்டேன். அதை ஷைத்தான்தான் எனக்கு மறக்கச் செய்து விட்டான்” (18:62,63) என்று கூறினார். அல்லாஹ் கட்டளையிட்ட (இரு நதிகள் சங்கமிக்கும்) இடத்தைக் கடக்கின்ற வரை மூசா (அலை) அவர்கள் களைப்பை உணரவில்லை.80 இதை உபை பின் கஅப் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 59 Hadith 87</td></tr></tbody></table></div>
 

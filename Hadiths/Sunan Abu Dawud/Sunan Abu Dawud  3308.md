@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন আওন (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। একদা জনৈক মহিলা সমুদ্রে সফর করে এবং সে সময় সে এরূপ মানত করে যে, যদি আল্লাহ্‌ তা'আলা আমাকে (সফরের বিপদ হতে) নাজাত দেন, তবে আমি এক মাস রোযা রাখব। তখন আল্লাহ্‌ তাকে নাজাত দেন। কিন্তু সে মহিলা রোযা রাখার আগেই ইনতিকাল করে। তখন তার কন্যা অথবা বোন এ সম্পর্কে (ফতওয়া) জিজ্ঞাসা করার জন্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে আসে। তখন তিনি তাকে তার পক্ষ হতে রোযা রাখার নির্দেশ দেন।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। এক মহিলা সমুদ্রে ভ্রমণে গিয়ে মানত করলো, আল্লাহ যদি তাকে নিরাপদে ফেরার সুযোগ দিলে সে একমাস সওম পালন করবে। অতঃপর আল্লাহ তাকে সমুদ্রে বিপদ থেকে মুক্তি দিলেন। কিন্তু সওম পালনের পূর্বেই সে মারা গেলো। তার মেয়ে অথবা বোন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলে তিনি তাকে মৃতের পক্ষ থেকে সওম পালনের নির্দেশ দিলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 22 Hadith 67</td></tr></tbody></table></div>
 

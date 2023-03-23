@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে রাতে মুযদালিফা হতে পাঠিয়েছেন। (১৬৭৮, ১৮৫৬, মুসলিম ১৫/৪৯, হাঃ ১২৯৩, ১২৯৪, আহমাদ ২২০৪) (আধুনিক প্রকাশনীঃ ১৫৬৩, ইসলামিক ফাউন্ডেশনঃ ১৫৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে রাতে মুযদালিফা হতে পাঠিয়েছেন। (১৬৭৮, ১৮৫৬, মুসলিম ১৫/৪৯, হাঃ ১২৯৩, ১২৯৪, আহমাদ ২২০৪) (আধুনিক প্রকাশনীঃ ১৫৬৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னை முஸ்தலிஃபாவிலிருந்து இரவிலேயே (மினாவுக்கு) அனுப்பிவைத்தார்கள். அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னை முஸ்தலிஃபாவிலிருந்து இரவிலேயே (மினாவுக்கு) அனுப்பிவைத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle demiştir: "Resulullah (Sallallahu Aleyhi ve Sellem) beni bir grupla birlikte geceleyin Müzdelife'den gönderdi." Tekrar: 1678, 1856
+İbn Abbas r.a. şöyle demiştir: "Resulullah (Sallallahu Aleyhi ve Sellem) beni bir grupla birlikte geceleyin Müzdelife'den gönderdi." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
 

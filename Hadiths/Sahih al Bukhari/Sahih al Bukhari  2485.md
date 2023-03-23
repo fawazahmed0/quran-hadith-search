@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রাফি‘ ইবনু খাদীজ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে আসরের সালাত আদায় করে উট যবেহ করতাম। তারপর সে গোশত দশ ভাগে ভাগ করা হত এবং সূর্যাস্তের পূর্বেই আমরা রান্না করা গোশত আহার করতাম। (আধুনিক প্রকাশনীঃ ২৩০৬, ইসলামিক ফাউন্ডেশনঃ ২৩২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+রাফি‘ ইবনু খাদীজ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সাথে আসরের সালাত আদায় করে উট যবেহ করতাম। তারপর সে গোশত দশ ভাগে ভাগ করা হত এবং সূর্যাস্তের পূর্বেই আমরা রান্না করা গোশত আহার করতাম। (আধুনিক প্রকাশনীঃ ২৩০৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2485</td></tr><tr><td>Arabic No</td><td>2485</td></tr><tr><td>Reference</td><td>Book 47 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad boin Yusuf] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ராஃபிஉ பின் கதீஜ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் அஸ்ர் தொழுகை தொழுதுவிட்டு, ஒட்டகத்தை அறுப்போம். அது பத்துப் பங்குகளாகப் பிரிக்கப்படும். (பிறகு சமைக்கப்படும்.) சூரியன் மறைவதற்குமுன் நாங்கள் (அதன்) சமைக்கப்பட்ட இறைச்சியை உண்போம். அத்தியாயம் : 47
+ராஃபிஉ பின் கதீஜ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் அஸ்ர் தொழுகை தொழுதுவிட்டு, ஒட்டகத்தை அறுப்போம். அது பத்துப் பங்குகளாகப் பிரிக்கப்படும். (பிறகு சமைக்கப்படும்.) சூரியன் மறைவதற்குமுன் நாங்கள் (அதன்) சமைக்கப்பட்ட இறைச்சியை உண்போம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2485</td></tr><tr><td>Arabic No</td><td>2485</td></tr><tr><td>Reference</td><td>Book 47 Hadith 3</td></tr></tbody></table></div>
 

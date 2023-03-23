@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আমাদের উপর অস্ত্র উঠাবে সে আমাদের দলভুক্ত নয়। (আধুনিক প্রকাশনী- ৬৫৭৮, ইসলামিক ফাউন্ডেশন- ৬৫৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আমাদের উপর অস্ত্র উঠাবে সে আমাদের দলভুক্ত নয়। (আধুনিক প্রকাশনী- ৬৫৭৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7071</td></tr><tr><td>Arabic No</td><td>7071</td></tr><tr><td>Reference</td><td>Book 92 Hadith 22</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: நமக்கெதிராக ஆயுதம் ஏந்தியவர் நம்மைச் சார்ந்தவர் அல்லர். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 92
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: நமக்கெதிராக ஆயுதம் ஏந்தியவர் நம்மைச் சார்ந்தவர் அல்லர். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7071</td></tr><tr><td>Arabic No</td><td>7071</td></tr><tr><td>Reference</td><td>Book 92 Hadith 22</td></tr></tbody></table></div>
 

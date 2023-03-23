@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯৬২, আন্তর্জাতিক নাম্বারঃ ২৩৩৮ ৫৯৬২-(৯৫/...) যুহায়র ইবনু হারব ও মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... আনাস (রাযিঃ) এর সানাদে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চুল তার দু’কাঁধ স্পর্শ করত। (ইসলামিক ফাউন্ডেশন ৫৮৫৯, ইসলামিক সেন্টার ৫৮৯৫)
+যুহায়র ইবনু হারব ও মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... আনাস (রাযিঃ) এর সানাদে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চুল তার দু’কাঁধ স্পর্শ করত। (ইসলামিক ফাউন্ডেশন ৫৮৫৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6068</td></tr><tr><td>Arabic No</td><td>2338.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது தலைமுடி (சில வேளைகளில்) அவர்களின் தோள்களைத் தொட்டுக்கொண்டிருந்தது. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 43
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது தலைமுடி (சில வேளைகளில்) அவர்களின் தோள்களைத் தொட்டுக்கொண்டிருந்தது. இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6068</td></tr><tr><td>Arabic No</td><td>2338.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
 

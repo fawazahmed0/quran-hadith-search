@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, তোমাদের কারো স্ত্রী যদি (সালাতের জন্য মসজিদে যাবার) অনুমতি চায় তাহলে তার স্বামী তাকে যেন বাধা না দেয়। (৮৬৫) (আধুনিক প্রকাশনীঃ ৮২৪, ইসলামিক ফাউন্ডেশনঃ ৮৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, তোমাদের কারো স্ত্রী যদি (সালাতের জন্য মসজিদে যাবার) অনুমতি চায় তাহলে তার স্বামী তাকে যেন বাধা না দেয়। (৮৬৫) (আধুনিক প্রকাশনীঃ ৮২৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் துணைவியர் (பள்ளிவாசலுக் குச் செல்ல) அனுமதி கேட்டால், அவர் களைத் தடுக்காதீர்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் துணைவியர் (பள்ளிவாசலுக் குச் செல்ல) அனுமதி கேட்டால், அவர் களைத் தடுக்காதீர்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
 

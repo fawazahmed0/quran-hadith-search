@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্বিয়ামাত (কিয়ামত) কায়িম হবে না, যে পর্যন্ত না ইল্ম উঠিয়ে নেয়া হবে, অধিক পরিমাণে ভূমিকম্প হবে, সময় সংকুচিত হয়ে আসবে, ফিতনা প্রকাশ পাবে এবং হারজ বৃদ্ধি পাবে। হারজ খুন-খারাবী। তোমাদের ধন-সম্পদ এত বৃদ্ধি পাবে যে, উপচে পড়বে। (৮৫) (আধুনিক প্রকাশনীঃ ৯৭৩, ইসলামিক ফাউন্ডেশনঃ ৯৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্বিয়ামাত (কিয়ামত) কায়িম হবে না, যে পর্যন্ত না ইল্ম উঠিয়ে নেয়া হবে, অধিক পরিমাণে ভূমিকম্প হবে, সময় সংকুচিত হয়ে আসবে, ফিতনা প্রকাশ পাবে এবং হারজ বৃদ্ধি পাবে। হারজ খুন-খারাবী। তোমাদের ধন-সম্পদ এত বৃদ্ধি পাবে যে, উপচে পড়বে। (৮৫) (আধুনিক প্রকাশনীঃ ৯৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:The Prophet (ﷺ) said, "The Hour (Last Day) will not be established until (religious) knowledge will be taken away (by the death of religious learned men), earthquakes will be very frequent, time will pass quickly, afflictions will appear, murders will increase and money will overflow amongst you." (See Hadith No. 85 Vol 1)
+Narrated Abu Huraira:The Prophet (ﷺ) said, "The Hour (Last Day) will not be established until (religious) knowledge will be taken away (by the death of religious learned men), earthquakes will be very frequent, time will pass quickly, afflictions will appear, murders will increase and money will overflow amongst you." (See Hadith No. 85 Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: கல்வி கைப்பற்றப்படாத வரை, நில நடுக்கங்கள் அதிகமாகாத வரை, காலம் சுருங்கிடாத வரை, குழப்பங்கள் வெளிப்படாத வரை, ‘ஹர்ஜ்’ (கொந்தளிப்பு) மிகுதியாகாத வரை, -ஹர்ஜ் என்பது கொலையாகும்; கொலையாகும்- உங்களிடையே செல்வம் நிரம்பி வழியாத வரை இறுதி நாள் ஏற்படாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 15
+நபி (ஸல்) அவர்கள் கூறினார்கள்: கல்வி கைப்பற்றப்படாத வரை, நில நடுக்கங்கள் அதிகமாகாத வரை, காலம் சுருங்கிடாத வரை, குழப்பங்கள் வெளிப்படாத வரை, ‘ஹர்ஜ்’ (கொந்தளிப்பு) மிகுதியாகாத வரை, -ஹர்ஜ் என்பது கொலையாகும்; கொலையாகும்- உங்களிடையே செல்வம் நிரம்பி வழியாத வரை இறுதி நாள் ஏற்படாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
 

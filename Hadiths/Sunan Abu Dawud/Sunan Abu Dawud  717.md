@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবনু আবূ শায়বা .... মানসুর হতে একই সূত্রে পূর্বোক্ত হাদীছের অনুরূপ বর্ণিত হয়েছে। রাবী বলেন, এ সময় সেখানে বনী আব্দুল মুত্তালিবের দুই যুবতী ঝগড়া রত অবস্হায় এসে উপস্থিত হয়। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের ধরে ফেলেন অথবা পৃথক করে দেন এবং এরূপ করা দূষনীয় মনে করেননি। (ঐ)।
+। মানসূর (রহঃ) হতে একই সানাদে উপরোক্ত হাদীস বর্ণিত হয়েছে। ইবনু ‘আব্বাস (রাঃ) বলেন, তখন ‘আবদুল মুত্তালিব গোত্রের দু’টি মেয়ে ঝগড়ারত অবস্থায় আসল। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে ধরে ফেললেন। ‘উসমান বলেন, তারপর উভয়কে পৃথক করে দিলেন। দাউদ বলেন, তারপর তাদের একজনকে অপরজন হতে আলাদা করে দিলেন কিন্তু তিনি এরূপ করা আপত্তিকর মনে করলেন না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>717</td></tr><tr><td>Arabic No</td><td>717</td></tr><tr><td>Reference</td><td>Book 2 Hadith 327</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৪৬৯। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক সকালে ও বিকালে একশত বার বলেঃ “সুবহানাল্লাহি ওয়া বিহামদিহী,” কিয়ামতের দিন তার চাইতে উত্তম (আমলকারী) আর কেউ হবে না। তবে যে লোক তার ন্যায় কিংবা তার চাইতে অধিক পরিমাণ তা বলে (সে উত্তম আমলকারী বলে গণ্য হবে)। সহীহঃ তাহ‘লীকুর রাগীব (হাঃ ১/২২৬), মুসলিম। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ গারীব।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক সকালে ও বিকালে একশত বার বলেঃ “সুবহানাল্লাহি ওয়া বিহামদিহী,” কিয়ামতের দিন তার চাইতে উত্তম (আমলকারী) আর কেউ হবে না। তবে যে লোক তার ন্যায় কিংবা তার চাইতে অধিক পরিমাণ তা বলে (সে উত্তম আমলকারী বলে গণ্য হবে)। সহীহঃ তাহ‘লীকুর রাগীব (হাঃ ১/২২৬), মুসলিম। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3469</td></tr><tr><td>Arabic No</td><td>3469</td></tr><tr><td>Reference</td><td>Book 48 Hadith 100</td></tr></tbody></table></div>
 

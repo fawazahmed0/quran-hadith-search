@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রতি রমাযানে দশ দিনের ই‘তিকাফ করতেন। যে বছর তিনি ইন্তিকাল করেন সে বছর তিনি বিশ দিনের ইতিকাফ করেছিলেন। (৪৯৯৮) (আধুনিক প্রকাশনীঃ ১৯০১, ইসলামিক ফাউন্ডেশনঃ ১৯১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রতি রমাযানে দশ দিনের ই‘তিকাফ করতেন। যে বছর তিনি ইন্তিকাল করেন সে বছর তিনি বিশ দিনের ইতিকাফ করেছিলেন। (৪৯৯৮) (আধুনিক প্রকাশনীঃ ১৯০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2044</td></tr><tr><td>Arabic No</td><td>2044</td></tr><tr><td>Reference</td><td>Book 33 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒவ்வொரு ரமளானிலும் பத்து நாட்களே இஃதிகாஃப் இருப்பார்கள். அவர்கள் இறந்த ஆண்டில் (11 முதல் 30 வரை) இருபது நாட்கள் இஃதிகாஃப் இருந்தார்கள். அத்தியாயம் : 33
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒவ்வொரு ரமளானிலும் பத்து நாட்களே இஃதிகாஃப் இருப்பார்கள். அவர்கள் இறந்த ஆண்டில் (11 முதல் 30 வரை) இருபது நாட்கள் இஃதிகாஃப் இருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2044</td></tr><tr><td>Arabic No</td><td>2044</td></tr><tr><td>Reference</td><td>Book 33 Hadith 19</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem her Ramazan ayında on gün itikaf yapardı. Vefat ettiği yılın Ramazan ayında ise yirmi gün itikaf yaptı. Tekrar: 4998
+Ebu Hureyre r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem her Ramazan ayında on gün itikaf yapardı. Vefat ettiği yılın Ramazan ayında ise yirmi gün itikaf yaptı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2044</td></tr><tr><td>Arabic No</td><td>2044</td></tr><tr><td>Reference</td><td>Book 33 Hadith 19</td></tr></tbody></table></div>
 

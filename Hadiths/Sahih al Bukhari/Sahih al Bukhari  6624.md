@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ আমরা (দুনিয়ায়) সবশেষে আগমনকারী আর কিয়ামতের দিন হব অগ্রগামী। [২৩৮] (আধুনিক প্রকাশনী- ৬১৬৩, ইসলামিক ফাউন্ডেশন- ৬১৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ আমরা (দুনিয়ায়) সবশেষে আগমনকারী আর কিয়ামতের দিন হব অগ্রগামী। [২৩৮] (আধুনিক প্রকাশনী- ৬১৬৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6624</td></tr><tr><td>Arabic No</td><td>6624</td></tr><tr><td>Reference</td><td>Book 83 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq bin Ibrahim] telah mengabarkan kepada kami [A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நாம்தான் மறுமை நாளில் (காலத்தால்) பிந்தியவர்களாகவும் (தகுதியால்) முந்தியவர்களாகவும் இருப்போம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.5 அத்தியாயம் : 83
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நாம்தான் மறுமை நாளில் (காலத்தால்) பிந்தியவர்களாகவும் (தகுதியால்) முந்தியவர்களாகவும் இருப்போம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.5 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6624</td></tr><tr><td>Arabic No</td><td>6624</td></tr><tr><td>Reference</td><td>Book 83 Hadith 4</td></tr></tbody></table></div>
 

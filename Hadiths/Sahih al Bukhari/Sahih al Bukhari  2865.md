@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) সাওয়ার হয়ে পা-দানিতে পা রাখার পর উটটি দাঁড়িয়ে গেলে যুল-হুলাইফা মসজিদের নিকট তিনি ইহরাম বেঁধে নিতেন। (১৬৬) (আধুনিক প্রকাশনীঃ ২৬৫৫, ইসলামিক ফাউন্ডেশনঃ ২৬৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) সাওয়ার হয়ে পা-দানিতে পা রাখার পর উটটি দাঁড়িয়ে গেলে যুল-হুলাইফা মসজিদের নিকট তিনি ইহরাম বেঁধে নিতেন। (১৬৬) (আধুনিক প্রকাশনীঃ ২৬৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2865</td></tr><tr><td>Arabic No</td><td>2865</td></tr><tr><td>Reference</td><td>Book 56 Hadith 81</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku ['Ubaid bin Isma'il] dari [Abu Usamah] dari ['Ubaidilla
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது காலை, ஏறும் வளையத்தில் நுழைத்து, தமது ஒட்டகம் நிலைக்கு வந்துவிடும்போது துல் ஹுலைஃபா பள்ளிவாசலிலிருந்து (ஹஜ்ஜுக்காக இஹ்ராம் கட்டி) யிதல்பியா’ கூறுவார்கள். அத்தியாயம் : 56
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது காலை, ஏறும் வளையத்தில் நுழைத்து, தமது ஒட்டகம் நிலைக்கு வந்துவிடும்போது துல் ஹுலைஃபா பள்ளிவாசலிலிருந்து (ஹஜ்ஜுக்காக இஹ்ராம் கட்டி) யிதல்பியா’ கூறுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2865</td></tr><tr><td>Arabic No</td><td>2865</td></tr><tr><td>Reference</td><td>Book 56 Hadith 81</td></tr></tbody></table></div>
 

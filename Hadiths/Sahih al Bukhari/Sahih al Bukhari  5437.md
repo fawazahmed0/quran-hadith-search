@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি দেখলাম রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে কিছু শুরুয়া হাজির করা হল, যাতে কদু ও শুকনো গোশত ছিল। আমি তাঁকে কদু বেছে বেছে খেতে দেখলাম। [২০৯২] (আধুনিক প্রকাশনী- ৫০৩৪, ইসলামিক ফাউন্ডেশন- ৪৯৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি দেখলাম রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে কিছু শুরুয়া হাজির করা হল, যাতে কদু ও শুকনো গোশত ছিল। আমি তাঁকে কদু বেছে বেছে খেতে দেখলাম। [২০৯২] (আধুনিক প্রকাশনী- ৫০৩৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5437</td></tr><tr><td>Arabic No</td><td>5437</td></tr><tr><td>Reference</td><td>Book 70 Hadith 65</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் சுரைக்காயும் உப்புக்கண்டமும் உள்ள குழம்பு கொண்டுவரப்பட்டதைக் கண்டேன். அப்போது அவர்கள் சுரைக்காயைத் தேடி உண்பதைப் பார்த்தேன். அத்தியாயம் : 70
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் சுரைக்காயும் உப்புக்கண்டமும் உள்ள குழம்பு கொண்டுவரப்பட்டதைக் கண்டேன். அப்போது அவர்கள் சுரைக்காயைத் தேடி உண்பதைப் பார்த்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5437</td></tr><tr><td>Arabic No</td><td>5437</td></tr><tr><td>Reference</td><td>Book 70 Hadith 65</td></tr></tbody></table></div>
 

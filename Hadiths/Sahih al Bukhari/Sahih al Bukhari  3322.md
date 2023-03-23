@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ত্বলহা (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, ‘যে বাড়িতে কুকুর এবং প্রাণীর ছবি থাকে তাতে ফেরেশতামন্ডলী প্রবেশ করেন না।’ (২৩২৫) (আধুনিক প্রকাশনীঃ ৩০৭৬, ইসলামিক ফাউন্ডেশনঃ ৩০৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ত্বলহা (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, ‘যে বাড়িতে কুকুর এবং প্রাণীর ছবি থাকে তাতে ফেরেশতামন্ডলী প্রবেশ করেন না।’ (২৩২৫) (আধুনিক প্রকাশনীঃ ৩০৭৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3322</td></tr><tr><td>Arabic No</td><td>3322</td></tr><tr><td>Reference</td><td>Book 59 Hadith 128</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நாயோ உருவப்படமோ உள்ள வீட்டில் (அருள்) வானவர்கள் நுழைய மாட்டார்கள்.121 இதை அபூதல்ஹா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நாயோ உருவப்படமோ உள்ள வீட்டில் (அருள்) வானவர்கள் நுழைய மாட்டார்கள்.121 இதை அபூதல்ஹா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3322</td></tr><tr><td>Arabic No</td><td>3322</td></tr><tr><td>Reference</td><td>Book 59 Hadith 128</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু জুরাইজ (রহ.) বলেন, ‘আবদুল্লাহ ইবনু আবূ মুলায়কা (রহ.) তার দাদার সূত্রে অনুরূপ একটি ঘটনা বর্ণনা করতে গিয়ে বলেছেন, এক ব্যক্তি অপর এক ব্যক্তির হাত দাঁত দিয়ে কামড়ে ধরল। এতে (লোকটি তার হাত বের করার জন্য সজোরে টান দিলে) (যে কামড় দিয়েছিল) তার সামনের দাঁত পড়ে যায়। আবূ বাকর (রাঃ)-এর কোন ক্ষতিপূরণের দাবী বাতিল করে দেন। (আধুনিক প্রকাশনীঃ ২১০৫, ইসলামিক ফাউন্ডেশনঃ ২১২২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2265</td></tr><tr><td>Arabic No</td><td>2265</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

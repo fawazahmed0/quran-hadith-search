@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, খাইবার যুদ্ধের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাদেরকে কাঁচা ও রান্না করা গৃহপালিত গাধার গোশত ফেলে দিতে হুকুম করেছেন। এরপরে আর কখনো তা খাওয়ার অনুমতি দেননি। [৪২২১] (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ ৩৯০৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, খাইবার যুদ্ধের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাদেরকে কাঁচা ও রান্না করা গৃহপালিত গাধার গোশত ফেলে দিতে হুকুম করেছেন। এরপরে আর কখনো তা খাওয়ার অনুমতি দেননি। [৪২২১] (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4226</td></tr><tr><td>Arabic No</td><td>4226</td></tr><tr><td>Reference</td><td>Book 64 Hadith 264</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Al-Bara Bin Azib:During the Ghazwa of Khaibar, the Prophet (ﷺ) ordere
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், கைபர் போரின்போது நாட்டுக் கழுதைகளின் இறைச்சியை-அது பச்சையாயிருந்தாலும் சமைக்கப்பட்டிருந்தாலும்-எறிந்துவிடுமாறு எங்களுக்குக் கட்டளையிட்டார்கள். அதற்குப்பின் அதை உண்ண (அனுமதி யளித்து) எங்களுக்கு அவர்கள் உத்தர விடவேயில்லை. அத்தியாயம் : 64
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், கைபர் போரின்போது நாட்டுக் கழுதைகளின் இறைச்சியை-அது பச்சையாயிருந்தாலும் சமைக்கப்பட்டிருந்தாலும்-எறிந்துவிடுமாறு எங்களுக்குக் கட்டளையிட்டார்கள். அதற்குப்பின் அதை உண்ண (அனுமதி யளித்து) எங்களுக்கு அவர்கள் உத்தர விடவேயில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4226</td></tr><tr><td>Arabic No</td><td>4226</td></tr><tr><td>Reference</td><td>Book 64 Hadith 264</td></tr></tbody></table></div>
 

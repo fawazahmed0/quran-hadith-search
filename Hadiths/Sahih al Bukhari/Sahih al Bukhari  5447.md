@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু জা‘ফর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কাঁকুড় (ক্ষীরা জাতীয় ফল)-এর সঙ্গে খেজুর খেতে দেখেছি। [৫৪৪০] (আধুনিক প্রকাশনী- ৫০৪৫, ইসলামিক ফাউন্ডেশন- ৪৯৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু জা‘ফর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কাঁকুড় (ক্ষীরা জাতীয় ফল)-এর সঙ্গে খেজুর খেতে দেখেছি। [৫৪৪০] (আধুনিক প্রকাশনী- ৫০৪৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5447</td></tr><tr><td>Arabic No</td><td>5447</td></tr><tr><td>Reference</td><td>Book 70 Hadith 76</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Isma'il bin Abdullah] ia berkata; telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் ஜஅஃபர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வெள்ளரிக்காய்களுடன் (சேர்த்து) பேரீச்சச் செங்காய்களை உண்பதை நான் பார்த்திருக்கிறேன்.65 அத்தியாயம் : 70
+அப்துல்லாஹ் பின் ஜஅஃபர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வெள்ளரிக்காய்களுடன் (சேர்த்து) பேரீச்சச் செங்காய்களை உண்பதை நான் பார்த்திருக்கிறேன்.65 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5447</td></tr><tr><td>Arabic No</td><td>5447</td></tr><tr><td>Reference</td><td>Book 70 Hadith 76</td></tr></tbody></table></div>
 

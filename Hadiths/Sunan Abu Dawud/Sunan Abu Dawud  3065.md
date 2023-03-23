@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারুন ইবন আবদিল্লাহ (রহঃ) ..... মুহাম্মদ ইবন হাসান মাখযূমী (রাঃ) থেকে বর্ণিত। (তিনি বলেন): উটের পদচারণা হবে না, এর অর্থ হলো, উট তো গাছের উপরিভাগ খায়, কাজেই তা রক্ষার জন্য তার উপরে বেড়া দিতে হবে।
+। মুহাম্মাদ ইবনুল হাসান আল-মাখযুমী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, উটের পদচারণা হবে না’ অর্থাৎ উট গাছের উপরিভাগ খেয়ে থাকে। সুতরাং তা রক্ষার জন্য উপরেই বেড়া দিতে হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 20 Hadith 138</td></tr></tbody></table></div>
 

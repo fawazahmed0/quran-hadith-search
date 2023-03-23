@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১২৭২, আন্তর্জাতিক নাম্বারঃ ১২৭৩ ১২৭২. মুহাম্মাদ ইবনু বাশশার (রহ.) ..... আবূ হুরায়রাহ্ (রাঃ) হতে বর্ণিত। এক ব্যক্তি [সা'দ (রাঃ)] দু' অঙ্গুলি দ্বারা ইঙ্গিত করতেন। রাসূলুল্লাহ (সা.) বললেন, তুমি এক অঙ্গুলি দ্বারা ইশারা কর, এক অঙ্গুলি দ্বারা ইশারা কর। সহীহ: তিরমিযী ৩৫৫৭, ৩৮১০; মুসনাদে আহমাদ ১০৭৫০।
+। মুহাম্মাদ ইবনু বাশশার (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, এক সাহাবী [সা’দ (রাঃ)] দু’আঙ্গুলি দ্বরা ইশারা করতেন। রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তুমি এক অঙ্গুলি দ্বারা ইশারা করবে, এক অঙ্গুলি দ্বারা ইশারা করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1272</td></tr><tr><td>Arabic No</td><td>1272</td></tr><tr><td>Reference</td><td>Book 13 Hadith 94</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সা'ঈদ (রহঃ) .... আবদ রাব্বিহী ইবন সা'ঈদ আনসারী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আরায়ার অর্থ হলো- কোন ব্যক্তি কাউকে কোন বৃক্ষ প্রদান করে, অথবা কোন ব্যক্তি তার বাগানের এক বা দুটি গাছের ফল খাওয়ার জন্য আলাদাভাবে রেখে দেয়। এরপর তা শুকনো খেজুরের বিনিময়ে বিক্রি করে।
+। ‘আস ইবনুল হারিস (রহঃ) থেকে রাব্বিহি ইবনু সা‘ঈদ আল-আনসারীর সূত্রে বর্ণিত। তিনি বলেন, ‘আরিয়্যা হচ্ছে কেউ অন্য কোনো ব্যক্তিকে তার বাগানের একটি খেজুর গাছ দান করলো অথবা কেউ তার খেজুর বাগান থেকে কাউকে একটি বা দু’টি খেজুর গাছ এই বলে নির্দিষ্ট করলো যে, এই গাছের ফল সে নিবে। অতঃপর প্রকৃত মালিক শুকনা খেজুরের বিনিময়ে দান করা খেজুর গাছের তাজা ফল ক্রয় করলো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3365</td></tr><tr><td>Arabic No</td><td>3365</td></tr><tr><td>Reference</td><td>Book 23 Hadith 40</td></tr></tbody></table></div>
 

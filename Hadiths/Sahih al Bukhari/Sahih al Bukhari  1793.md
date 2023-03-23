@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমর ইবনু দ্বীনার (রহ.) হতে বর্ণিত, তিনি বলেন, ‘উমরাহ’র মাঝে বাইতুল্লাহর তাওয়াফের পর সাফা-মারওয়াহর তাওয়াফ না করে যে স্ত্রীর নিকট গমন করে, এমন ব্যক্তি সম্পর্কে আমরা ইবনু ‘উমার (রাঃ)-কে জিজ্ঞেস করায় তিনি বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মক্কায়) এসে বায়তুল্লাহ’র সাতবার তাওয়াফ করে মাকামে ইব্রাহীমের পাশে দু’রাক‘আত সালাত আদায় করেছেন। এরপর সাতবার সাফা-মারওয়ার মাঝে সা‘য়ী করেছেন। ‘‘আর তোমাদের জন্য উত্তম আদর্শ তো রয়েছে আল্লাহর রাসূলের মাঝেই’’- (আল-আহযাবঃ ২১)। (৯৯৫) (আধুনিক প্রকাশনীঃ ১৬৬৫. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Suf
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: நாங்கள் இப்னு உமர் (ரலி) அவர்களிடம், “உம்ராவில் ஒருவர் இறையில்லம் கஅபாவை தவாஃப் செய்துவிட்டு, ஸஃபா-மர்வாவுக்கிடையே தவாஃப் செய்யாமலேயே தம் மனைவியிடம் (தாம்பத்திய உறவு கொள்ள) வரலாமா?” என்று கேட்டோம். அதற்கு அவர்கள், நபி (ஸல்) அவர்கள் (மக்கா) வந்ததும் இறையில்லம் கஅபாவை ஏழு முறை தவாஃப் செய்து விட்டு, மகாமு இப்ராஹீமில் இரண்டு ரக்அத்கள் தொழுதபின் ஸஃபா-மர்வா வுக்கிடையே ஏழு முறை ‘சயீ’ செய்தார்கள்; எனவே, நிச்சயமாக அல்லாஹ்வின் தூதரிடம் உங்களுக்கு அழகிய முன்மாதிரி உள்ளது!” எனக் கூறினார்கள். நாங்கள் ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்களிடம் இது பற்றிக் கேட்டோம். அதற்கு அவர்கள், “ஸஃபா-மர்வாவுக்கிடையே ‘சயீ’ செய்யாமல் ஒருவர் தம் மனைவியை நெருங்கக் கூடாது” எனக் கூறினார்கள். அத்தியாயம் : 26
+அம்ர் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: நாங்கள் இப்னு உமர் (ரலி) அவர்களிடம், “உம்ராவில் ஒருவர் இறையில்லம் கஅபாவை தவாஃப் செய்துவிட்டு, ஸஃபா-மர்வாவுக்கிடையே தவாஃப் செய்யாமலேயே தம் மனைவியிடம் (தாம்பத்திய உறவு கொள்ள) வரலாமா?” என்று கேட்டோம். அதற்கு அவர்கள், நபி (ஸல்) அவர்கள் (மக்கா) வந்ததும் இறையில்லம் கஅபாவை ஏழு முறை தவாஃப் செய்து விட்டு, மகாமு இப்ராஹீமில் இரண்டு ரக்அத்கள் தொழுதபின் ஸஃபா-மர்வா வுக்கிடையே ஏழு முறை ‘சயீ’ செய்தார்கள்; எனவே, நிச்சயமாக அல்லாஹ்வின் தூதரிடம் உங்களுக்கு அழகிய முன்மாதிரி உள்ளது!” எனக் கூறினார்கள். நாங்கள் ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்களிடம் இது பற்றிக் கேட்டோம். அதற்கு அவர்கள், “ஸஃபா-மர்வாவுக்கிடையே ‘சயீ’ செய்யாமல் ஒருவர் தம் மனைவியை நெருங்கக் கூடாது” எனக் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Suf
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr İbn Dînar şöyle dedi: İbn Ömer'e şu soruyu sorduk: Umre'ye giren bir adam Kabe'yi tavaf ettiği halde Safa ve Merve arasında tavaf yapmasa hanımı ile cinsel ilişkide bulunabilir mi? İbn Ömer şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem Mekke'ye geldi. Kabe'yi yedi kere tavaf etti, makam-ı İbrahim'in arkasında iki rekat namaz kıldı. Safa ile Merve arasında yedi tavaf yapü. "Şüphesiz ki Allah'ın Resulünde sizin için en güzel örnek vardır." (Bu son cümle bir ayettir. Ahzab 21)
+Amr İbn Dînar şöyle dedi: İbn Ömer'e şu soruyu sorduk: Umre'ye giren bir adam Kabe'yi tavaf ettiği halde Safa ve Merve arasında tavaf yapmasa hanımı ile cinsel ilişkide bulunabilir mi? İbn Ömer şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem Mekke'ye geldi. Kabe'yi yedi kere tavaf etti, makam-ı İbrahim'in arkasında iki rekat namaz kıldı. Safa ile Merve arasında yedi tavaf yapü. "Şüphesiz ki Allah'ın Resulünde sizin için en güzel örnek vardır." (Bu son cümle bir ayettir. Ahzab)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

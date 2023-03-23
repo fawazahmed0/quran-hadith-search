@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৪০, আন্তর্জাতিক নাম্বারঃ ২৪১ ২৪০. মুহাম্মাদ ইবনু বাশশার (রহ.) ..... উম্মু হানী (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ (সা.) ও মায়মূনাহ্ (রাঃ) একই পাত্রে গোসল করেছেন, তা এমন পাত্র ছিল যাতে আটার খামিরের চিহ্ন ছিল। সহীহ: ইবনু মাজাহ ৩৭৮, ইওয়াউল গালীল (১/৬৪)।
+। মুহাম্মদ ইবনু বাশশার (রহঃ) ... উম্মে হানী (রাঃ) থেকে বর্ণিত। রাসুলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও মায়মূনা (রাঃ) একই পাত্রে গোসল করেছেন, তা এমন পাত্র ছিল যাতে আটার খামিরের চিহ্ন ছিল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>240</td></tr><tr><td>Arabic No</td><td>240</td></tr><tr><td>Reference</td><td>Book 1 Hadith 241</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Basyar] dia berkata; telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Hanî (radıyallahü anha)’dan rivâyete göre: sallallahü aleyhi ve sellem) ile Meymune hamur izleri bulunan bir leğenden su alarak birlikte yıkandılar.) (Müslim, Hayz: 10; Tirmizî, Tahara: 46)
+Ümmü Hanî (radıyallahü anha)’dan rivâyete göre: sallallahü aleyhi ve sellem) ile Meymune hamur izleri bulunan bir leğenden su alarak birlikte yıkandılar.) (Müslim, Hayz: 10; Tirmizî, Tahara:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>240</td></tr><tr><td>Arabic No</td><td>240</td></tr><tr><td>Reference</td><td>Book 1 Hadith 241</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সুওয়ায়দ (রহঃ) ... আসমা বিনত ইয়াযীদ (রাঃ) তাঁর চাচাত ভাই আনাস (রাঃ) এর নিকট শ্রবন করেছেন, তিনি বলেছেন, আল্লাহ্ তা'আলা কি বলেন নি যে, “রাসূল তোমাদেরকে যা দেন, তা তোমরা গ্রহণ কর; আর তিনি তোমাদেরকে যা থেকে নিষেধ করেন, তা থেকে তোমরা বিরত থাক।”(সূরা হাশরঃ ৭) আমি বললামঃ হ্যাঁ। তিনি আবার বললেনঃ আল্লাহ্ তা'আলা কি বলেন নি যে, “যখন আল্লাহ্ এবং তাঁর রাসূল কোন বিষয়ে আদেশ করেন, তখন মুসলিম পুরুষ অথবা নারীর সে বিষয়ে কোন এখতিয়ার থাকে না।” (সূরা আহযাবঃ ৩৬) আমি বললামঃ হ্যাঁ। তিনি বললেনঃ আমি সাক্ষ্য দিচ্ছি যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন কাঠের পাত্র, আলকাতরা মাখা পাত্র, কদুর খােল এবং সবুজ কলস থেকে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5644</td></tr><tr><td>Arabic No</td><td>5644</td></tr><tr><td>Reference</td><td>Book 51 Hadith 106</td></tr></tbody></table></div>
 

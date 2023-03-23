@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯৪, আন্তর্জাতিক নাম্বারঃ ৫২ ৯৪-(৯০/...) আবূ বকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন যে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ তোমাদের নিকট ইয়ামানের লোকেরা উপস্থিত হয়েছে। তারা নম্রচিত্ত ও কোমল হৃদয়ের অধিকারী। ঈমান ইয়ামানীদের মধ্যে এবং হিকমাত ইয়ামানীদের। আর কুফরের উৎস হচ্ছে পূর্ব দিকে। (ইসলামিক ফাউন্ডেশনঃ ৯৬, ইসলামিক সেন্টারঃ ৯৮)
+আবূ বকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন যে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ তোমাদের নিকট ইয়ামানের লোকেরা উপস্থিত হয়েছে। তারা নম্রচিত্ত ও কোমল হৃদয়ের অধিকারী। ঈমান ইয়ামানীদের মধ্যে এবং হিকমাত ইয়ামানীদের। আর কুফরের উৎস হচ্ছে পূর্ব দিকে। (ইসলামিক ফাউন্ডেশনঃ ৯৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>190</td></tr><tr><td>Arabic No</td><td>52.09</td></tr><tr><td>Reference</td><td>Book 1 Hadith 97</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] kedu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekir İbni Ebî Şeybe ile Ebu Küreyb rivayet et­liler. Dediler ki: Bize Ebu Muâviye, A'meş'den, o da Ebu Salih'ten, o da Ebu Hüreyre'den naklen rivayet etti. Şöyle demiş: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Size Yemenliler geldi. Onlar yumuşak kalpli, yufka yüreklidir. İman Yemenlidir, hikmet Yemenlidir, küfrün başı da doğu tarafındadır. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 12530
+Bize Ebu Bekir İbni Ebî Şeybe ile Ebu Küreyb rivayet et­liler. Dediler ki: Bize Ebu Muâviye, A'meş'den, o da Ebu Salih'ten, o da Ebu Hüreyre'den naklen rivayet etti. Şöyle demiş: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Size Yemenliler geldi. Onlar yumuşak kalpli, yufka yüreklidir. İman Yemenlidir, hikmet Yemenlidir, küfrün başı da doğu tarafındadır. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>190</td></tr><tr><td>Arabic No</td><td>52.09</td></tr><tr><td>Reference</td><td>Book 1 Hadith 97</td></tr></tbody></table></div>
 

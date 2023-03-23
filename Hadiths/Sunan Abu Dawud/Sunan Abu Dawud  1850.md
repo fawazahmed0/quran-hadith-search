@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, হে যায়িদ ইবন আরকাম! আপনি কি জানেন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর শিকার করা জন্তুর গোশত হাদিয়াস্বরূপ পেশ করা হলে তিনি তা গ্রহণ করেননি এবং বলেন, আমি ইহরাম অবস্থায় আছি। তিনি বলেন, হ্যাঁ।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, হে যায়িদ ইবনু আরকাম! তুমি কি জানো যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে একটি শিকারী প্রাণীর এক টুকরা গোশত হাদিয়া দেয়া হলে তিনি সেটা গ্রহণ না করে এই বলে ফেরত পাঠালেন যে, আমরা মুহরিম? তিনি বললেনঃ হ্যাঁ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1850</td></tr><tr><td>Arabic No</td><td>1850</td></tr><tr><td>Reference</td><td>Book 11 Hadith 130</td></tr></tbody></table></div>
 

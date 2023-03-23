@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মুসান্না .... সাঈদ ইবনুল মুসায়্যাব (রহঃ) হতে বর্ণিত। তিনি বলেন, জনৈক ব্যক্তি, যার নাম ছিল বাসরা ইবন আকসাম, তিনি এক মহিলাকে বিবাহ করেন। এরপর পূর্বোক্ত হাদীসের অর্থে হাদীস বর্ণিত হয়েছে। তবে এখানে অতিরিক্ত বর্ণিত হয়েছে যে, তাদের উভয়ের মধ্যে বিবাহ বিচ্ছেদ করা হয়। আর রাবী ইবন জুরায়জ বর্ণিত হাদীসটি পরিপূর্ণ।
+। সাঈদ ইবনুল মুসাইয়্যাব (রহ.) সূত্রে বর্ণিত। বাসরা ইবনু আকসাম নামক এক ব্যক্তি জনৈকা নারীকে বিয়ে করলো। অতঃপর বর্ণনাকারী পূর্বোক্ত হাদীসের অর্থে বর্ণনা করেন। এতে আরো রয়েছেঃ ‘এবং তিনি তাদের মধ্যে বিচ্ছেদ ঘটিয়ে দেন।’ তবে ইবনু জুরাইজের বর্ণিত হাদীসটি পরিপূর্ণ।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2132</td></tr><tr><td>Arabic No</td><td>2132</td></tr><tr><td>Reference</td><td>Book 12 Hadith 87</td></tr></tbody></table></div>
 

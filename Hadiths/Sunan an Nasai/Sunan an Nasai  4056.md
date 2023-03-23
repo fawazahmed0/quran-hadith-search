@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আলী ইবন হুজর (রহঃ) ... শারীক আবূ ইসহাক থেকে তিনি আমির থেকে এবং তিনি জারীর (রাঃ) থেকে। তিনি বলেন, যে গোলাম তার মনিব হতে পালিয়ে যায়, এবং শক্রর সাথে মিলিত হয়, সে তার নিজের রক্ত হালাল করে দেয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4056</td></tr><tr><td>Arabic No</td><td>4056</td></tr><tr><td>Reference</td><td>Book 37 Hadith 91</td></tr></tbody></table></div>
 

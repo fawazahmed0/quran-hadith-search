@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যায়দ ইবনু সাবিত (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে উহুদ যুদ্ধে যাত্রা করে তাঁর কতিপয় সাথী ফিরে আসলে একদল লোক বলতে লাগল, আমরা তাদেরকে হত্যা করব, আর অন্য দলটি বলতে লাগলো, না, আমরা তাদেরকে হত্যা করব না। এ সময়ই (তোমাদের হল কী, তোমরা মুনাফিকদের ব্যাপারে দু’দল হয়ে গেলে?) (আন-নিসাঃ ৮৮) আয়াতটি নাযিল হয়। এরপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ মদিনা (বিশেষ কিছু) লোকদেরকে বহিষ্কার করে দেয়, যেমনভাবে আগুন লোহার মরিচাকে দূর করে দেয়। (৪০৫০, ৪৫৮৯, মুসলিম ৫০/৫০, হাঃ ২৭৭৬) (আধুনিক প্রকাশনীঃ ১৭৪৯, ইসলামিক ফাউন্ডেশনঃ ১৭৬০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যায়দ ইবনু সাবিত (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে উহুদ যুদ্ধে যাত্রা করে তাঁর কতিপয় সাথী ফিরে আসলে একদল লোক বলতে লাগল, আমরা তাদেরকে হত্যা করব, আর অন্য দলটি বলতে লাগলো, না, আমরা তাদেরকে হত্যা করব না। এ সময়ই (তোমাদের হল কী, তোমরা মুনাফিকদের ব্যাপারে দু’দল হয়ে গেলে?) (আন-নিসাঃ ৮৮) আয়াতটি নাযিল হয়। এরপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ মদিনা (বিশেষ কিছু) লোকদেরকে বহিষ্কার করে দেয়, যেমনভাবে আগুন লোহার মরিচাকে দূর করে দেয়। (৪০৫০, ৪৫৮৯, মুসলিম ৫০/৫০, হাঃ ২৭৭৬) (আধুনিক প্রকাশনীঃ ১৭৪৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 29 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸைத் பின் ஸாபித் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் உஹுத் போருக்குப் புறப்பட்டபோது அவர்களின் தோழர்களிடையே கலந்துவிட்டிருந்த (நயவஞ்சகர்கள்) சிலர் (போரில் பங்கெடுக் காமல்) திரும்பலானார்கள். அப்போது (போரில் பங்கெடுத்தவர்களில்) ஒரு பிரிவினர், “இவர்களைக் கொல்வோம்” என்றனர். மற்றொரு பிரிவினர், “இவர் களைக் கொல்லக் கூடாது!” என்றனர். அப்போது “உங்களுக்கு என்ன நேர்ந்துவிட்டது? நயவஞ்சகர்கள் விஷயத்தில் இரு பிரிவினர்களாக உள்ளீர்கள்!” (4:88) எனும் இறைவசனம் அருளப்பெற்றது. “நெருப்பு, இரும்பின் துருவை அகற்றுவதைப் போன்று இந்நகரம் (தீய) மனிதர்களை வெளியேற்றிவிடும்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 29
+ஸைத் பின் ஸாபித் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் உஹுத் போருக்குப் புறப்பட்டபோது அவர்களின் தோழர்களிடையே கலந்துவிட்டிருந்த (நயவஞ்சகர்கள்) சிலர் (போரில் பங்கெடுக் காமல்) திரும்பலானார்கள். அப்போது (போரில் பங்கெடுத்தவர்களில்) ஒரு பிரிவினர், “இவர்களைக் கொல்வோம்” என்றனர். மற்றொரு பிரிவினர், “இவர் களைக் கொல்லக் கூடாது!” என்றனர். அப்போது “உங்களுக்கு என்ன நேர்ந்துவிட்டது? நயவஞ்சகர்கள் விஷயத்தில் இரு பிரிவினர்களாக உள்ளீர்கள்!” (4:88) எனும் இறைவசனம் அருளப்பெற்றது. “நெருப்பு, இரும்பின் துருவை அகற்றுவதைப் போன்று இந்நகரம் (தீய) மனிதர்களை வெளியேற்றிவிடும்” என்று நபி (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 29 Hadith 18</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyd İbn Sabit anlatıyor: "Resulullah Sallallahu Aleyhi ve Sellem Uhud savaşına çıkınca onunla birlikte hareket edenlerden bir kısmı ordudan ayrılıp geri döndü. Resulullah Sallallahu Aleyhi ve Sellem ile birlikte devam eden ashabından bir kısmı: "Onları öldürelim!" derken diğer bir kısmı ise "Hayır, öldürmeyelim!" diyordu. Bu olayla ilgili olarak: "Siz ne diye münafıklar hakkında böyle iki farklı gruba ayrılırsınız ki! [Nisa 88] ayeti indi ve Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Ateş nasıl demirin kirini pasını temizlerse Medine de insanların iyisini kötüsünü öyle ayıklar!" Tekrar: 4050, 4589
+Zeyd İbn Sabit anlatıyor: "Resulullah Sallallahu Aleyhi ve Sellem Uhud savaşına çıkınca onunla birlikte hareket edenlerden bir kısmı ordudan ayrılıp geri döndü. Resulullah Sallallahu Aleyhi ve Sellem ile birlikte devam eden ashabından bir kısmı: "Onları öldürelim!" derken diğer bir kısmı ise "Hayır, öldürmeyelim!" diyordu. Bu olayla ilgili olarak: "Siz ne diye münafıklar hakkında böyle iki farklı gruba ayrılırsınız ki! [Nisa 88] ayeti indi ve Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Ateş nasıl demirin kirini pasını temizlerse Medine de insanların iyisini kötüsünü öyle ayıklar!" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 29 Hadith 18</td></tr></tbody></table></div>
 

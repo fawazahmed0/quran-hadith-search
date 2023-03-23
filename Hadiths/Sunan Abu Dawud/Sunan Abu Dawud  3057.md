@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন আবদুল্লাহ্‌ (রহঃ) .... ইয়ায ইবন হিমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট হাদিয়া হিসাবে একটি উট পেশ করি। তখন তিনি আমাকে জিজ্ঞাসা করেনঃ তুমি কি ইসলাম কবূল করেছ? তখন আমি বলিঃ না। এ সময় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মুশরিকদের নিকট হতে হাদিয়া গ্রহণ করতে আমাকে নিষেধ করা হয়েছে।
+। ইয়াদ ইবনু হিমার সূত্রে বর্ণিত। তিনি বললেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে একটি উষ্ট্রী উপঢৌকন দিলে তিনি জিজ্ঞেস করেন, তুমি ইসলাম গ্রহণ করেছো কি? আমি বললাম, না। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমাকে মুশরিকদের উপঢৌকন গ্রহণ করতে নিষেধ করা হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3057</td></tr><tr><td>Arabic No</td><td>3057</td></tr><tr><td>Reference</td><td>Book 20 Hadith 130</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৫৫৭। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, এক লোক দুই আঙ্গুলে (ইঙ্গিত করে) দু'আ করছিল। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ একটির মাধ্যমে একটির মাধ্যমে। হাসান সহীহঃ মিশকাত (৯১৩)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব। এ হাদীসের মর্ম এই যে, কোন লোক দু'আর মাঝে (নামাযের তাশাহহুদে) দুই আঙ্গুলে নয়, বরং এক আঙ্গুলে ইঙ্গিত করবে।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, এক লোক দুই আঙ্গুলে (ইঙ্গিত করে) দু'আ করছিল। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ একটির মাধ্যমে একটির মাধ্যমে। হাসান সহীহঃ মিশকাত (৯১৩)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব। এ হাদীসের মর্ম এই যে, কোন লোক দু'আর মাঝে (নামাযের তাশাহহুদে) দুই আঙ্গুলে নয়, বরং এক আঙ্গুলে ইঙ্গিত করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3557</td></tr><tr><td>Arabic No</td><td>3557</td></tr><tr><td>Reference</td><td>Book 48 Hadith 188</td></tr></tbody></table></div>
 

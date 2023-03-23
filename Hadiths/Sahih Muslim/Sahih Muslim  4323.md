@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪২১৫, আন্তর্জাতিক নাম্বারঃ ১৬৬৬ ৪২১৫-(.../...) উপযুক্ত হাদীস মুহায়র ইবনু হারব (রহঃ) আ'মাশ (রহঃ) থেকে একই সূত্রে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪১৭৬, ইসলামিক সেন্টার ৪১৭৬)
+উপযুক্ত হাদীস মুহায়র ইবনু হারব (রহঃ) আ'মাশ (রহঃ) থেকে একই সূত্রে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪১৭৬, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4323</td></tr><tr><td>Arabic No</td><td>1666.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 70</td></tr></tbody></table></div>
 

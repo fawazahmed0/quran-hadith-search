@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি এক রাতে মাইমূনাহ (রাঃ) এর ঘরে অবস্থান করছিলাম। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামও তাঁর গৃহে ছিলেন। যখন রাতের শেষ তৃতীয়াংশ অথবা কিয়দংশ বাকী ছিল তখন তিনি উঠে বসলেন এবং আসমানের দিকে তাকিয়ে পাঠ করলেনঃ ‘‘নিশ্চয়ই আসমানসমূহ ও যমীনের সৃষ্টিতে এবং রাত্র ও দিনের আবর্তনে জ্ঞানবানদের জন্য বহু নিদর্শন আছে।’’ (সূরাহ আলে ‘ইমরান ৩/১৯০)। [১১৭] (ধুনিক প্রকাশনী- ৫৭৭৪, ইসলামিক ফাউন্ডেশন- ৫৬৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি এক রাতে মাইমূনাহ (রাঃ) এর ঘরে অবস্থান করছিলাম। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামও তাঁর গৃহে ছিলেন। যখন রাতের শেষ তৃতীয়াংশ অথবা কিয়দংশ বাকী ছিল তখন তিনি উঠে বসলেন এবং আসমানের দিকে তাকিয়ে পাঠ করলেনঃ ‘‘নিশ্চয়ই আসমানসমূহ ও যমীনের সৃষ্টিতে এবং রাত্র ও দিনের আবর্তনে জ্ঞানবানদের জন্য বহু নিদর্শন আছে।’’ (সূরাহ আলে ‘ইমরান ৩/১৯০)। [১১৭] (ধুনিক প্রকাশনী- ৫৭৭৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6215</td></tr><tr><td>Arabic No</td><td>6215</td></tr><tr><td>Reference</td><td>Book 78 Hadith 239</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:Once I stayed overnight at the house of Maimuna and the Prophet (ﷺ) was there with her. When it was the last third of the night, or some part of the night, the Prophet (ﷺ) got up looking towards the sky and recited: 'Verily! In the creation of the heavens and the earth, and in the alternation of Night and Day, there are indeed signs for men of u understanding.' (3.190)
+Narrated Ibn 'Abbas:Once I stayed overnight at the house of Maimuna and the Prophet (ﷺ) was there with her. When it was the last third of the night, or some part of the night, the Prophet (ﷺ) got up looking towards the sky and recited: 'Verily! In the creation of the heavens and the earth, and in the alternation of Night and Day, there are indeed signs for men of u understanding
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6215</td></tr><tr><td>Arabic No</td><td>6215</td></tr><tr><td>Reference</td><td>Book 78 Hadith 239</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ibn 'Abbas:Once I stayed overnight at the house of Maimuna and the Prop
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu Abu Maryam] telah menceritakan kepada kami [Muhammad bin Ja'far] dia berkata; telah mengabarkan kepadaku [Syarik] dari [Kuraib] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Aku pernah bermalam di rumah Maimunah, sedangkan Nabi shallallahu 'alaihi wasallam berada di sisinya, tatkala di sepertiga malam terakhir atau sebagian malam, beliau duduk dan memandang ke arah langit sambil membaca: "Sesungguhnya dalam penciptaan langit dan bumi, dan silih bergantinya malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal." QS Ali Imran; 190
+Telah menceritakan kepada kami [Ibnu Abu Maryam] telah menceritakan kepada kami [Muhammad bin Ja'far] dia berkata; telah mengabarkan kepadaku [Syarik] dari [Kuraib] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Aku pernah bermalam di rumah Maimunah, sedangkan Nabi shallallahu 'alaihi wasallam berada di sisinya, tatkala di sepertiga malam terakhir atau sebagian malam, beliau duduk dan memandang ke arah langit sambil membaca: "Sesungguhnya dalam penciptaan langit dan bumi, dan silih bergantinya malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal." QS Ali Imran;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6215</td></tr><tr><td>Arabic No</td><td>6215</td></tr><tr><td>Reference</td><td>Book 78 Hadith 239</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibnu Abu Maryam] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (ஒருநாள்) நான் (என் சிறிய தாயார்) மைமூனா (ரலி) அவர்களின் வீட்டில் இரவு தங்கினேன். அவர்களிடம் நபி (ஸல்) அவர்களும் இருந்தார்கள். ‘இரவின் இறுதி மூன்றில் ஒரு பகுதி’ அல்லது ‘அதில் சிறிது நேரம்’ ஆனபோது நபி (ஸல்) அவர்கள் (படுக்கையிலிருந்து எழுந்து) அமர்ந்து வானத்தைப் பார்த்தவாறு “நிச்சயமாக வானங்கள் மற்றும் பூமியைப் படைத்திருப்பதிலும், இரவு பகல் மாறிமாறி வருவதிலும் அறிவுடையோருக்கு சான்றுகள் பல உள்ளன” எனும் (3:190ஆவது) இறை வசனத்தை ஓதினார்கள்.248 அத்தியாயம் : 78
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (ஒருநாள்) நான் (என் சிறிய தாயார்) மைமூனா (ரலி) அவர்களின் வீட்டில் இரவு தங்கினேன். அவர்களிடம் நபி (ஸல்) அவர்களும் இருந்தார்கள். ‘இரவின் இறுதி மூன்றில் ஒரு பகுதி’ அல்லது ‘அதில் சிறிது நேரம்’ ஆனபோது நபி (ஸல்) அவர்கள் (படுக்கையிலிருந்து எழுந்து) அமர்ந்து வானத்தைப் பார்த்தவாறு “நிச்சயமாக வானங்கள் மற்றும் பூமியைப் படைத்திருப்பதிலும், இரவு பகல் மாறிமாறி வருவதிலும் அறிவுடையோருக்கு சான்றுகள் பல உள்ளன” எனும் (3:190ஆவது) இறை வசனத்தை ஓதினார்கள்.248 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6215</td></tr><tr><td>Arabic No</td><td>6215</td></tr><tr><td>Reference</td><td>Book 78 Hadith 239</td></tr></tbody></table></div>
 

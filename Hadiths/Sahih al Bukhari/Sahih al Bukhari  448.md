@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহাল (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈকা মহিলার নিকট লোক পাঠিয়ে বললেনঃ তুমি তোমার গোলাম কাঠমিস্ত্রীকে বল, সে যেন আমার জন্য কাঠের মিম্বার বানিয়ে দেয় যাতে আমি বসতে পারি। (৩৭৭) (আধুনিক প্রকাশনীঃ৪২৯ , ইসলামিক ফাউন্ডেশনঃ ৪৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহাল (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈকা মহিলার নিকট লোক পাঠিয়ে বললেনঃ তুমি তোমার গোলাম কাঠমিস্ত্রীকে বল, সে যেন আমার জন্য কাঠের মিম্বার বানিয়ে দেয় যাতে আমি বসতে পারি। (৩৭৭) (আধুনিক প্রকাশনীঃ৪২৯ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>448</td></tr><tr><td>Arabic No</td><td>448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 97</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு (அன்சாரிப்) பெண்ணிடம் ஆள னுப்பி, “நான் மக்களுக்கு உரையாற்றும்போது அமர்ந்துகொள்வதற்கு (ஏற்ற வகையில் மேடை தயாரிக்க) எனக்கு மரச்சட்டங்களைச் செய்து தருமாறு தச்சு வேலை தெரிந்த உன் பணியாளருக்கு உத்தரவிடுவீராக” என்று கூறினார்கள். அத்தியாயம் : 8
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு (அன்சாரிப்) பெண்ணிடம் ஆள னுப்பி, “நான் மக்களுக்கு உரையாற்றும்போது அமர்ந்துகொள்வதற்கு (ஏற்ற வகையில் மேடை தயாரிக்க) எனக்கு மரச்சட்டங்களைச் செய்து தருமாறு தச்சு வேலை தெரிந்த உன் பணியாளருக்கு உத்தரவிடுவீராக” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>448</td></tr><tr><td>Arabic No</td><td>448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 97</td></tr></tbody></table></div>
 

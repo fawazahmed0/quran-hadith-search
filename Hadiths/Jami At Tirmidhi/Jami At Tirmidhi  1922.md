@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৯২২। জারীর ইবনু আবদুল্লাহ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক মানুষের প্রতি দয়া-অনুগ্রহ প্রদর্শন করে না তাকে আল্লাহ তা'আলাও দয়া করেন না। সহীহ, তাখরাজু মুশকিলাতিল ফাকর (১০৮), বুখারী, মুসলিম আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবদুর রাহমান ইবনু আওফ, আবূ সাঈদ, ইবনু উমার, আবূ হুরাইরা ও আবদুল্লাহ ইবনু আমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
+। জারীর ইবনু আবদুল্লাহ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক মানুষের প্রতি দয়া-অনুগ্রহ প্রদর্শন করে না তাকে আল্লাহ তা'আলাও দয়া করেন না। সহীহ, তাখরাজু মুশকিলাতিল ফাকর (১০৮), বুখারী, মুসলিম আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবদুর রাহমান ইবনু আওফ, আবূ সাঈদ, ইবনু উমার, আবূ হুরাইরা ও আবদুল্লাহ ইবনু আমর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1922</td></tr><tr><td>Arabic No</td><td>1922</td></tr><tr><td>Reference</td><td>Book 27 Hadith 28</td></tr></tbody></table></div>
 

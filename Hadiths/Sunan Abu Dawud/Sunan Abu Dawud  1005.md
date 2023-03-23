@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবু শায়বা (রহঃ) .... আলী ইবন তালক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরশাদ করেছেনঃ যখন নামাযের মধ্যে কারো উযু নষ্ট হয় তখন সে যেন ঐ স্থান পরিত্যাগ করে উযু করে পুনরায় নামায আদায় করে। (তিরমিযী, নাসাঈ, ইবন মাজা)
+। ‘আলী ইবনু ত্বালক্ব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রসূলুললাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাতরত অবস্থায় তোমাদের কেউ বায়ু নিঃসরণ করলে সে যেন উঠে গিয়ে অযু করে পুনরায় সালাত আদায় করে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1005</td></tr><tr><td>Arabic No</td><td>1005</td></tr><tr><td>Reference</td><td>Book 2 Hadith 616</td></tr></tbody></table></div>
 

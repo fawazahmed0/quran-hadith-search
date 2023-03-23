@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৪১৭, আন্তর্জাতিক নাম্বারঃ ১৪৩২ ৩৪১৭-(১১০/...) ইবনু আবূ উমর (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিকৃষ্টতম খাদ্য হল ওয়ালীমার খাদ্য যেখানে আগমনকারীদের বাঁধা দেয়া হয়। আর অনিচ্ছুকদের দাওয়াত দেয়া হয়। যে ব্যক্তি দাওয়াতে সাড়া দেয় না সে আল্লাহ এবং তার রসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নাফরমানী করল। (ইসলামিক ফাউন্ডেশন ৩৩৯০, ইসলামীক সেন্টার ৩৩৮৯)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3525</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஏழைகளை விட்டுவிட்டு, செல்வர்கள் மட்டுமே அழைக்கப்படும் மணவிருந்து (வலீமா) உணவே, கெட்ட உணவாகும். (அழைப்பை ஏற்று) விருந்துக்குச் செல்லாதவர் அல்லாஹ்விற்கும் அவனுடைய தூதருக்கும் மாறு செய்துவிட்டார். அத்தியாயம் : 16
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஏழைகளை விட்டுவிட்டு, செல்வர்கள் மட்டுமே அழைக்கப்படும் மணவிருந்து (வலீமா) உணவே, கெட்ட உணவாகும். (அழைப்பை ஏற்று) விருந்துக்குச் செல்லாதவர் அல்லாஹ்விற்கும் அவனுடைய தூதருக்கும் மாறு செய்துவிட்டார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3525</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

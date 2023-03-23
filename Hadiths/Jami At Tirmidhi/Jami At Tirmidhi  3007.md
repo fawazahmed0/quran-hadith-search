@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০০৭। আনাস (রাযিঃ) হতে আবূ তালহা (রাযিঃ)-এর সূত্রে বর্ণিত, তিনি বলেন, উহুদের দিন আমি মাথা তুলে তাকিয়ে দেখলাম, সকলে তন্দ্রাচ্ছন্ন হয়ে নিজ নিজ ঢালের নিচে ঢলে পড়েছেন। আল্লাহ তা'আলার নিম্নোক্ত বাণীর তাৎপর্য তাইঃ “দুঃখ-কষ্টের পর আবার আল্লাহ তা'আলা তোমাদেরকে তন্দ্রারূপে প্রশান্তি দান করলেন”-(সূরা আ-লি ইমরান ১৫৪) সনদ সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবদ ইবনু হুমাইদ-রাওহ ইবনু উবাদাহ্ হতে, তিনি হাম্মাদ ইবনু সালামাহ্ হতে, তিনি হিশাম ইবনু উরওয়াহ হতে, তিনি তার বাবা হতে, তিনি আবূয যুবাইর (রহঃ) হতেও উপরোক্ত হাদীসের একই রকম বর্ণনা করেছেন। এ হাদীসটি হাসান সহীহ।
+। আনাস (রাযিঃ) হতে আবূ তালহা (রাযিঃ)-এর সূত্রে বর্ণিত, তিনি বলেন, উহুদের দিন আমি মাথা তুলে তাকিয়ে দেখলাম, সকলে তন্দ্রাচ্ছন্ন হয়ে নিজ নিজ ঢালের নিচে ঢলে পড়েছেন। আল্লাহ তা'আলার নিম্নোক্ত বাণীর তাৎপর্য তাইঃ “দুঃখ-কষ্টের পর আবার আল্লাহ তা'আলা তোমাদেরকে তন্দ্রারূপে প্রশান্তি দান করলেন”-(সূরা আ-লি ইমরান ১৫৪) সনদ সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবদ ইবনু হুমাইদ-রাওহ ইবনু উবাদাহ্ হতে, তিনি হাম্মাদ ইবনু সালামাহ্ হতে, তিনি হিশাম ইবনু উরওয়াহ হতে, তিনি তার বাবা হতে, তিনি আবূয যুবাইর (রহঃ) হতেও উপরোক্ত হাদীসের একই রকম বর্ণনা করেছেন। এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3007</td></tr><tr><td>Arabic No</td><td>3007</td></tr><tr><td>Reference</td><td>Book 47 Hadith 59</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:that Abu Talhah said: "I raised my head to look around on the Day of Uhud, and there was not one of them that day except that he was swaying under his shield due to drowsiness. Allah said about that: Then He sent down upon you - after the distress - a slumber of security (3:154)
+Narrated Anas:that Abu Talhah said: "I raised my head to look around on the Day of Uhud, and there was not one of them that day except that he was swaying under his shield due to drowsiness. Allah said about that: Then He sent down upon you - after the distress - a slumber of security (3:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3007</td></tr><tr><td>Arabic No</td><td>3007</td></tr><tr><td>Reference</td><td>Book 47 Hadith 59</td></tr></tbody></table></div>
 

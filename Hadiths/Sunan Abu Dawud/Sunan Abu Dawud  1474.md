@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল আলা (রহঃ) ..... সাদ ইবন উবাদা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তি কুরআন পাঠের পর তা ভুলে যায়, সে কিয়ামতের দিন আল্লাহ্‌র সাথে খালি হাতে সাক্ষাত করবে।
+। সা‘দ ইবনু ‘উবাদাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কুরআন পাঠ (মুখস্ত) করার পর তা ভুলে যায়, সে কিয়ামতের দিন আল্লাহর সাথে পঙ্গু অবস্থায় (বা খালি হাতে) সাক্ষাত করবে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1474</td></tr><tr><td>Arabic No</td><td>1474</td></tr><tr><td>Reference</td><td>Book 8 Hadith 59</td></tr></tbody></table></div>
 

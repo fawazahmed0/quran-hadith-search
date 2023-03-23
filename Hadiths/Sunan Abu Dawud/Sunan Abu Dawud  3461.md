@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকর ইবন আবূ শায়বা (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি একই সাথে দু'টি বেচা-কেনা করে, তার উচিত কম মূল্যের বিক্রিটি কার্যকরী করা, অন্যথায় তা সূদ হবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি একই দ্রব্য বিক্রয়ে দু’ রকম নিয়ম রাখে তাকে দু’ মূলের মধ্যে অপেক্ষাকৃত কম মূল্যই গ্রহণ করতে হবে, নতুবা তা হবে সুদ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3461</td></tr><tr><td>Arabic No</td><td>3461</td></tr><tr><td>Reference</td><td>Book 24 Hadith 46</td></tr></tbody></table></div>
 

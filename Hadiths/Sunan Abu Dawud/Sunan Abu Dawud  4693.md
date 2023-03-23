@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবূ মূসা আশ'আরী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহান আল্লাহ্‌ আদম-(আঃ)-কে এমন এক মুষ্টি মাটি দিয়ে তৈরী করেন, যা তিনি যমীনের সব অংশ থেকে নেন। আর এ কারণেই আদম সন্তান ঐ মাটির স্বভাব অনুযায়ী সৃষ্টি হয়েছ; যেমনঃ কেউ সাদা, কেউ লাল এবং কেউ কাল, আর কেউ এর মাঝামাঝি রংয়ের। আর এ জন্য তাদের কারো স্বভাব নরম, কারো কঠোর; আর কেউ খাবীছ (কাফির, মুশরিক) আবার কেউ পবিত্র স্বভাবের অর্থাৎ মুসলিম।
+। আবূ মূসা আল-আশ‘আরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয়ই আল্লাহ আদম (আঃ)-কে একমুঠো মাটি দিয়ে সৃষ্টি করেছেন, যা তিনি সমগ্র পৃথিবী থেকে নিয়েছিলেন। তাই আদম সন্তান মাটির বিভিন্ন বর্ণ ও প্রকৃতি অনুসারে হয়েছে। এদের মধ্যে কেউ লোহিত, কেউবা সাদা, কেউ কালো এবং কেউবা এসবের মধ্যবর্তী বর্ণের হয়েছে। এরূপে কেউ কোমল, কেউ কঠোর এবং কেউ অসৎ এবং কেউ সৎ হয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 42 Hadith 98</td></tr></tbody></table></div>
 

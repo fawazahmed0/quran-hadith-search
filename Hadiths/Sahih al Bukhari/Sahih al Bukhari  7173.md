@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَدْ أَجَابَ عُثْمَانُ بْنُ عَفَّانَ عَبْدًا لِلْمُغِيرَةِ بْنِ شُعْبَةَ ‘উসমান (রাঃ) মুগীরাহ ইবনু শু‘বাহ (রাঃ)-এর ক্রীতদাসের দাওয়াত গ্রহণ করেছিলেন। ৭১৭৩. আবূ মূসা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বন্দীদেরকে মুক্ত কর, আর দাওয়াতদাতার দাওয়াত গ্রহণ কর। [৩০৪৬] (আধুনিক প্রকাশনী- ৬৬৭২, ইসলামিক ফাউন্ডেশন- ৬৬৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَدْ أَجَابَ عُثْمَانُ بْنُ عَفَّانَ عَبْدًا لِلْمُغِيرَةِ بْنِ شُعْبَةَ ‘উসমান (রাঃ) মুগীরাহ ইবনু শু‘বাহ (রাঃ)-এর ক্রীতদাসের দাওয়াত গ্রহণ করেছিলেন। ৭১৭৩. আবূ মূসা (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বন্দীদেরকে মুক্ত কর, আর দাওয়াতদাতার দাওয়াত গ্রহণ কর। [৩০৪৬] (আধুনিক প্রকাশনী- ৬৬৭২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7173</td></tr><tr><td>Arabic No</td><td>7173</td></tr><tr><td>Reference</td><td>Book 93 Hadith 37</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (போர்க்) கைதியை (எதிரியிடமிருந்து) விடுவியுங்கள்; (விருந்துக்கு) அழைப்ப வருக்கு (அவரது அழைப்பை ஏற்று) பதிலளியுங்கள். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.38 அத்தியாயம் : 93
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (போர்க்) கைதியை (எதிரியிடமிருந்து) விடுவியுங்கள்; (விருந்துக்கு) அழைப்ப வருக்கு (அவரது அழைப்பை ஏற்று) பதிலளியுங்கள். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.38 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7173</td></tr><tr><td>Arabic No</td><td>7173</td></tr><tr><td>Reference</td><td>Book 93 Hadith 37</td></tr></tbody></table></div>
 

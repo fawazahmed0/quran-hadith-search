@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘আমর (রাযি.) হতে বর্ণিত। তিনি বলেন, কোন এক সফরে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের পিছনে পড়ে গেলেন। পরে তিনি আমাদের নিকট পৌঁছলেন, এদিকে আমরা (আসরের) সালাত আদায় করতে বিলম্ব করে ফেলেছিলাম এবং আমরা উযূ করছিলাম। আমরা আমাদের পা কোনমতে পানি দ্বারা ভিজিয়ে নিচ্ছিলাম। তিনি উচ্চৈস্বঃরে বললেনঃ পায়ের গোড়ালিগুলোর (শুকনো থাকার) জন্য জাহান্নামের ‘আযাব রয়েছে। তিনি দু’বার বা তিনবার এ কথা বললেন। (৯৬, ১৬৩; মুসলিম ২/৯ হাঃ ২৪১, আহমাদ ৬৮২৩) (আধুনিক প্রকাশনীঃ ৫৮, ইসলামিক ফাউন্ডেশনঃ ৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘আমর (রাযি.) হতে বর্ণিত। তিনি বলেন, কোন এক সফরে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের পিছনে পড়ে গেলেন। পরে তিনি আমাদের নিকট পৌঁছলেন, এদিকে আমরা (আসরের) সালাত আদায় করতে বিলম্ব করে ফেলেছিলাম এবং আমরা উযূ করছিলাম। আমরা আমাদের পা কোনমতে পানি দ্বারা ভিজিয়ে নিচ্ছিলাম। তিনি উচ্চৈস্বঃরে বললেনঃ পায়ের গোড়ালিগুলোর (শুকনো থাকার) জন্য জাহান্নামের ‘আযাব রয়েছে। তিনি দু’বার বা তিনবার এ কথা বললেন। (৯৬, ১৬৩; মুসলিম ২/৯ হাঃ ২৪১, আহমাদ ৬৮২৩) (আধুনিক প্রকাশনীঃ ৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Arabic No</td><td>60</td></tr><tr><td>Reference</td><td>Book 3 Hadith 2</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An Nu'man 'Arim bin Al Fadlal] berkata, tela
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் மேற்கொண்ட பயணம் ஒன்றில் நபி (ஸல்) அவர்கள் எங்களை விடப் பிந்தி வந்துகொண்டிருந்தார்கள். (அஸ்ர்) தொழுகையின் நேரம் எங்களை அடைந்துவிட்ட நிலையில், நாங்கள் அங்கத்தூய்மை (உளூ) செய்துகொண்டி ருந்தோம். அப்போது நபி (ஸல்) அவர்கள் எங்களிடம் வந்து சேர்ந்தார்கள். அப்போது நாங்கள் எங்கள் கால்களை(ச் சிறிதளவு தண்ணீர் ஊற்றி) தட(வுவதைப் போன்று கழு)வலானோம். (அதைக் கண்டதும்) நபி (ஸல்) அவர்கள், “குதிகால்(களைச் சரியாகக் கழுவாதவர்)களுக்கு நாசம்தான்” என்று இரண்டு அல்லது மூன்று தடவைத் தமது குரலை உயர்த்திச் சொன்னார்கள். அத்தியாயம் : 3
+அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் மேற்கொண்ட பயணம் ஒன்றில் நபி (ஸல்) அவர்கள் எங்களை விடப் பிந்தி வந்துகொண்டிருந்தார்கள். (அஸ்ர்) தொழுகையின் நேரம் எங்களை அடைந்துவிட்ட நிலையில், நாங்கள் அங்கத்தூய்மை (உளூ) செய்துகொண்டி ருந்தோம். அப்போது நபி (ஸல்) அவர்கள் எங்களிடம் வந்து சேர்ந்தார்கள். அப்போது நாங்கள் எங்கள் கால்களை(ச் சிறிதளவு தண்ணீர் ஊற்றி) தட(வுவதைப் போன்று கழு)வலானோம். (அதைக் கண்டதும்) நபி (ஸல்) அவர்கள், “குதிகால்(களைச் சரியாகக் கழுவாதவர்)களுக்கு நாசம்தான்” என்று இரண்டு அல்லது மூன்று தடவைத் தமது குரலை உயர்த்திச் சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Arabic No</td><td>60</td></tr><tr><td>Reference</td><td>Book 3 Hadith 2</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu An Nu'man 'Arim bin Al Fadlal] berkata, tela
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Amr'ın şöyle dediği rivayet edilmiştir: Bir yolculuk sırasında Nebi (Sallallahu aleyhi ve Sellem) bizden arkada kaldı. Sonradan gelip bize yetişti. O esnada namaz vakti gelmiş ve biz de abdest alıyorduk. Ayaklarımıza mesh ediyorduk. Nebi (Sallallahu aleyhi ve Sellem) en yüksek sesi ile iki veya üç kere şöyle bağırdı: Ateşte yanacak topukların vay haline!. Tekrar: 96, 163
+Abdullah İbn Amr'ın şöyle dediği rivayet edilmiştir: Bir yolculuk sırasında Nebi (Sallallahu aleyhi ve Sellem) bizden arkada kaldı. Sonradan gelip bize yetişti. O esnada namaz vakti gelmiş ve biz de abdest alıyorduk. Ayaklarımıza mesh ediyorduk. Nebi (Sallallahu aleyhi ve Sellem) en yüksek sesi ile iki veya üç kere şöyle bağırdı: Ateşte yanacak topukların vay haline!. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Arabic No</td><td>60</td></tr><tr><td>Reference</td><td>Book 3 Hadith 2</td></tr></tbody></table></div>
 

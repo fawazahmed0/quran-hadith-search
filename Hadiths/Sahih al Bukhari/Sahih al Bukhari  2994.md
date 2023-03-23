@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা যখন উঁচুস্থানে আরোহণ করতাম, তখন আল্লাহু আকবার ধ্বনি উচ্চারণ করতাম আর যখন নিম্ন ভূখন্ডে অবতরণ করতাম, সে সময় সুবহানাল্লাহ্ বলতাম। (২৯৯৩) (আধুনিক প্রকাশনীঃ ২৭৭৩, ইসলামিক ফাউন্ডেশনঃ ২৭৮৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা যখন উঁচুস্থানে আরোহণ করতাম, তখন আল্লাহু আকবার ধ্বনি উচ্চারণ করতাম আর যখন নিম্ন ভূখন্ডে অবতরণ করতাম, সে সময় সুবহানাল্লাহ্ বলতাম। (২৯৯৩) (আধুনিক প্রকাশনীঃ ২৭৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2994</td></tr><tr><td>Arabic No</td><td>2994</td></tr><tr><td>Reference</td><td>Book 56 Hadith 203</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Basysyar] telah bercerita kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (பயணத்தில் மேட்டில்) ஏறும் போது ‘அல்லாஹு அக்பர்’ (அல்லாஹ் மிகப் பெரியவன்) என்று (தக்பீர்) கூறுவோம். பள்ளத்தில் இறங்கும்போது யிசுப்ஹானல்லாஹ்’ (அல்லாஹ் தூயவன்) என்று யிதஸ்பீஹ்’ கூறுவோம். அத்தியாயம் : 56
+ஜாபிர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (பயணத்தில் மேட்டில்) ஏறும் போது ‘அல்லாஹு அக்பர்’ (அல்லாஹ் மிகப் பெரியவன்) என்று (தக்பீர்) கூறுவோம். பள்ளத்தில் இறங்கும்போது யிசுப்ஹானல்லாஹ்’ (அல்லாஹ் தூயவன்) என்று யிதஸ்பீஹ்’ கூறுவோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2994</td></tr><tr><td>Arabic No</td><td>2994</td></tr><tr><td>Reference</td><td>Book 56 Hadith 203</td></tr></tbody></table></div>
 

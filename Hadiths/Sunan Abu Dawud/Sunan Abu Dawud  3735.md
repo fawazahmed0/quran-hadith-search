@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা'ঈদ ইবন মানসূর (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য 'সুকিয়া' নামক কুয়া হতে পানি আনা হতো। রাবী কুতায়বা (রহঃ) বলেনঃ সুকিয়া হলো একটি কুয়ার নাম, যা মদীনা থেকে দুদিনের দূরত্বে অবস্থিত।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য ‘বুয়ুতুস-সুকইয়া, থেকে মিষ্টি পানি সংগ্রহ করে আনা হতো। কুতাইবা (রহঃ) বলেন, ‘বুয়ুতুস-সুকইয়া, হলো একটি কূপের নাম। এর এবং মদীনার মাঝে দু’ দিনের পথের দূরত্ব।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
 

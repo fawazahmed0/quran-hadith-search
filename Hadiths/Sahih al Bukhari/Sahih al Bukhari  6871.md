@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কবীরা গুনাহসমূহের মধ্যে সবচেয়ে বড় গুনাহ্ হচ্ছে আল্লাহর সঙ্গে শারীক করা, প্রাণ হত্যা করা, পিতা-মাতার অবাধ্য হওয়া আর মিথ্যা বলা, কিংবা বলেছেন, মিথ্যা সাক্ষ্য দেয়া। (আধুনিক প্রকাশনী- ৬৩৯২, ইসলামিক ফাউন্ডেশন- ৬৪০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কবীরা গুনাহসমূহের মধ্যে সবচেয়ে বড় গুনাহ্ হচ্ছে আল্লাহর সঙ্গে শারীক করা, প্রাণ হত্যা করা, পিতা-মাতার অবাধ্য হওয়া আর মিথ্যা বলা, কিংবা বলেছেন, মিথ্যা সাক্ষ্য দেয়া। (আধুনিক প্রকাশনী- ৬৩৯২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6871</td></tr><tr><td>Arabic No</td><td>6871</td></tr><tr><td>Reference</td><td>Book 87 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இறைவனுக்கு இணை கற்பிப்பதும், மனிதனைக் கொலை செய்வதும், தாய் தந்தையரைப் புண்படுத்துவதும், ‘பொய் கூறுவதும்’ அல்லது ‘பொய் சாட்சியம் சொல்வதும்’ பாவங்களிலேயே மிகப்பெரும் பாவங்களாகும். இதன் அறிவிப்பாளரான அனஸ் (ரலி) அவர்களின் மற்றோர் அறிவிப்பில் ‘பெரும் பாவங்கள்’ என்று வந்துள்ளது. அத்தியாயம் : 87
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இறைவனுக்கு இணை கற்பிப்பதும், மனிதனைக் கொலை செய்வதும், தாய் தந்தையரைப் புண்படுத்துவதும், ‘பொய் கூறுவதும்’ அல்லது ‘பொய் சாட்சியம் சொல்வதும்’ பாவங்களிலேயே மிகப்பெரும் பாவங்களாகும். இதன் அறிவிப்பாளரான அனஸ் (ரலி) அவர்களின் மற்றோர் அறிவிப்பில் ‘பெரும் பாவங்கள்’ என்று வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6871</td></tr><tr><td>Arabic No</td><td>6871</td></tr><tr><td>Reference</td><td>Book 87 Hadith 10</td></tr></tbody></table></div>
 

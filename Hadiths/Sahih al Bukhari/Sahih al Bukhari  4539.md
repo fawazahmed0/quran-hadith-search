@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-يُقَالُ : أَلْحَفَ عَلَيَّ، وَأَلَحَّ عَلَيَّ، وَأَحْفَانِيْ بِالْمَسْأَلَةِ فَيُحْفِكُمْ يُجْهِدْكُمْز. أَلْحَفَ عَلَيَّ، وَأَلَحَّ عَلَيَّ এবং وَأَحْفَانِيْ بِالْمَسْأَلَةِ সবই একই অর্থে ব্যবহৃত হয়। فَيُحْفِكُمْ জোর প্রচেষ্টা চালায়। ৪৫৩৯. ‘আত্বা ইবনু ইয়াসার এবং আবূ ‘আমর আনসারী (রাঃ) হতে বর্ণিত। তাঁরা উভয়ে বলেন যে, আমরা আবূ হুরাইরাহ (রাঃ)-কে বলতে শুনেছি যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, একটি খেজুর কি দু’টি খেজুর আর এক গ্রাস কি দু’ গ্রাস খাদ্য যাকে দ্বারে দ্বারে ঘোরাতে থাকে সে প্রকৃত মিসকীন নয়। মিসকীন তো সে, যে ভিক্ষা করা থেকে বেঁচে থাকে। তোমরা (মিসকীন অর্থ) জানতে চাইলে আল্লাহর বাণী পাঠ করতে পার لَا يَسْأَلُوْنَ النَّاسَ إِلْحَافًا। [১৪৭৬] (আধুনিক প্রকাশনীঃ ৪১৭৯, ইসলামিক ফাউন্ডেশনঃ ৪১৮০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+يُقَالُ : أَلْحَفَ عَلَيَّ، وَأَلَحَّ عَلَيَّ، وَأَحْفَانِيْ بِالْمَسْأَلَةِ فَيُحْفِكُمْ يُجْهِدْكُمْز. أَلْحَفَ عَلَيَّ، وَأَلَحَّ عَلَيَّ এবং وَأَحْفَانِيْ بِالْمَسْأَلَةِ সবই একই অর্থে ব্যবহৃত হয়। فَيُحْفِكُمْ জোর প্রচেষ্টা চালায়। ৪৫৩৯. ‘আত্বা ইবনু ইয়াসার এবং আবূ ‘আমর আনসারী (রাঃ) হতে বর্ণিত। তাঁরা উভয়ে বলেন যে, আমরা আবূ হুরাইরাহ (রাঃ)-কে বলতে শুনেছি যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, একটি খেজুর কি দু’টি খেজুর আর এক গ্রাস কি দু’ গ্রাস খাদ্য যাকে দ্বারে দ্বারে ঘোরাতে থাকে সে প্রকৃত মিসকীন নয়। মিসকীন তো সে, যে ভিক্ষা করা থেকে বেঁচে থাকে। তোমরা (মিসকীন অর্থ) জানতে চাইলে আল্লাহর বাণী পাঠ করতে পার لَا يَسْأَلُوْنَ النَّاسَ إِلْحَافًا। [১৪৭৬] (আধুনিক প্রকাশনীঃ ৪১৭৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4539</td></tr><tr><td>Arabic No</td><td>4539</td></tr><tr><td>Reference</td><td>Book 65 Hadith 62</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:The Prophet (ﷺ) said, "The poor person is not the one for whom a date or two or a morsel or two (of food is sufficient but the poor person is he who does not (beg or) ask the people (for something) or show his poverty at all. Recite if you wish, (Allah's Statement): "They do not beg of people at all." (2.273)
+Narrated Abu Huraira:The Prophet (ﷺ) said, "The poor person is not the one for whom a date or two or a morsel or two (of food is sufficient but the poor person is he who does not (beg or) ask the people (for something) or show his poverty at all. Recite if you wish, (Allah's Statement): "They do not beg of people at all
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4539</td></tr><tr><td>Arabic No</td><td>4539</td></tr><tr><td>Reference</td><td>Book 65 Hadith 62</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The poor person is not the one for
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu Abu Maryam] Telah menceritakan kepada kami [Muhammad bin Ja'far] dia berkata; Telah menceritakan kepadaku [Syarik bin Abu Namir] bahwa [Atha bin Yasar] dan [Abdurrahman bin Abu 'Amrah Al Anshari] keduanya berkata; Kami mendengar [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Orang yang miskin bukanlah orang yang merasa telah cukup dengan satu atau dua buah kurma, atau sesuap atau dua suap makanan. Tetapi orang miskin adalah orang yang tidak meminta-minta dan menunjukan kemiskinannya kepada orang lain. Jika kalian mau, bacalah firman Allah: "Mereka tidak meminta-minta kepada orang lain." (Al Baqarah: 273)
+Telah menceritakan kepada kami [Ibnu Abu Maryam] Telah menceritakan kepada kami [Muhammad bin Ja'far] dia berkata; Telah menceritakan kepadaku [Syarik bin Abu Namir] bahwa [Atha bin Yasar] dan [Abdurrahman bin Abu 'Amrah Al Anshari] keduanya berkata; Kami mendengar [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Orang yang miskin bukanlah orang yang merasa telah cukup dengan satu atau dua buah kurma, atau sesuap atau dua suap makanan. Tetapi orang miskin adalah orang yang tidak meminta-minta dan menunjukan kemiskinannya kepada orang lain. Jika kalian mau, bacalah firman Allah: "Mereka tidak meminta-minta kepada orang lain." (Al Baqarah:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4539</td></tr><tr><td>Arabic No</td><td>4539</td></tr><tr><td>Reference</td><td>Book 65 Hadith 62</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibnu Abu Maryam] Telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஓரிரு கவளம் உணவுக்காக, அல்லது ஓரிரு பேரீச்சம்பழங்களுக்காக மக்களிடம் அலைபவன் ஏழையல்லன்; ஏழை யாரெனில், அவன் (தன் தேவையைப் பூர்த்தி செய்துகொள்ளப் பிறரிடம் கேட்க வெட்கப்பட்டு) தன்மானத்துடன் நடந்துகொள்வான். நீங்கள் விரும்பினால், “அவர்கள் மக்களிடம் (எதையும்) வற்புறுத்திக் கேட்கமாட்டார்கள்” எனும் (இந்த 2:273ஆவது) இறைவசனத்தை ஓதிக்கொள்ளுங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 65
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஓரிரு கவளம் உணவுக்காக, அல்லது ஓரிரு பேரீச்சம்பழங்களுக்காக மக்களிடம் அலைபவன் ஏழையல்லன்; ஏழை யாரெனில், அவன் (தன் தேவையைப் பூர்த்தி செய்துகொள்ளப் பிறரிடம் கேட்க வெட்கப்பட்டு) தன்மானத்துடன் நடந்துகொள்வான். நீங்கள் விரும்பினால், “அவர்கள் மக்களிடம் (எதையும்) வற்புறுத்திக் கேட்கமாட்டார்கள்” எனும் (இந்த 2:273ஆவது) இறைவசனத்தை ஓதிக்கொள்ளுங்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4539</td></tr><tr><td>Arabic No</td><td>4539</td></tr><tr><td>Reference</td><td>Book 65 Hadith 62</td></tr></tbody></table></div>
 

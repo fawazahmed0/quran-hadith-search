@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫১৮, আন্তর্জাতিক নাম্বারঃ ৫১৯ ৫১৮. আবূ দাউদ (রহ.) ..... মু'আয (রাঃ) হতে বর্ণিত। তিনি (একবার) মু'আয ইবনু 'আফরা (রাঃ) এর সাথে ত্বওয়াফ করলেন; (তওয়াফের পর) তিনি সালাত আদায় করলেন না। আমি বললাম, আপনি সালাত আদায় করলেন না? উত্তরে তিনি বললেন, রাসূলুল্লাহ (সা.) বলেছেন: ‘আসরের পর সূর্যাস্ত পর্যন্ত কোন সালাত নেই এবং ফজরের পর সূর্যোদয় পর্যন্ত কোন সালাত নেই। সনদ দুর্বল: মুসনাদে আহমাদ ১৭৯৫৫। সনদে নাসর ইবনু 'আবদুর রাহমান সম্পর্কে হাফিয ইবনু হাজার বলেন, মাকবুল; তবে বুখারীতে উক্ত হাদীসের সহায়ক বর্ণনা রয়েছে, হাঃ ৫৮৬।
+। আবূ দাউদ (রহঃ) ... মু’আয (রাঃ) থেকে বর্ণিত। তিনি (একদা) মু’আয ইবনু আফরা (রাঃ)-এর সঙ্গে তওয়াফ করলেন; (তাওয়াফের পর) তিনি সালাত আদায় করলেন না। আমি বললাম, আপনি সালাত আদায় করলেন না? উত্তরে তিনি বললেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আসরের পর সূর্যাস্ত পর্যন্ত কোন সালাত নেই এবং ফজরের সালাতের পর সূর্যোদয় পর্যন্ত কোনো সালাত নেই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>518</td></tr><tr><td>Arabic No</td><td>518</td></tr><tr><td>Reference</td><td>Book 6 Hadith 25</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Abu Daud] dia berkata; Telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nasr b. Abdurrahman’ın dedesi Muaz (radıyallahü anh)’den aktarıldığına göre, Muaz ile beraber Kâbe’yi tavaf ettiğimizde namaz kılmadı da, kendisine; namaz kılmıyor musun? Deyince şöyle dedi: sallallahü aleyhi ve sellem): ikindiden sonra güneş batıncaya kadar, sabah namazından sonra güneş doğuncaya kadar namaz yoktur) (kılınmaz) buyurdular. (Müsned: 17244)
+Nasr b. Abdurrahman’ın dedesi Muaz (radıyallahü anh)’den aktarıldığına göre, Muaz ile beraber Kâbe’yi tavaf ettiğimizde namaz kılmadı da, kendisine; namaz kılmıyor musun? Deyince şöyle dedi: sallallahü aleyhi ve sellem): ikindiden sonra güneş batıncaya kadar, sabah namazından sonra güneş doğuncaya kadar namaz yoktur) (kılınmaz) buyurdular. (Müsned:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>518</td></tr><tr><td>Arabic No</td><td>518</td></tr><tr><td>Reference</td><td>Book 6 Hadith 25</td></tr></tbody></table></div>
 

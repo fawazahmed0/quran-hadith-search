@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+প্রত্যেক মুসলিমের জন্য সপ্তাহে অন্ততঃ একদিন গোসল করা কর্তব্য। (৮৯৭) (আধুনিক প্রকাশনীঃ ৩২২৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3487</td></tr><tr><td>Arabic No</td><td>3487</td></tr><tr><td>Reference</td><td>Book 60 Hadith 153</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஒவ்வொரு ஏழு நாளிலும் தம் தலையையும் உடலையும் கழுவுகின்ற ஒருநாள் ஒவ்வொரு முஸ்லிமுக்கும் இருக்க வேண்டும்.145 அத்தியாயம் : 60
+ஒவ்வொரு ஏழு நாளிலும் தம் தலையையும் உடலையும் கழுவுகின்ற ஒருநாள் ஒவ்வொரு முஸ்லிமுக்கும் இருக்க வேண்டும்.145 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3487</td></tr><tr><td>Arabic No</td><td>3487</td></tr><tr><td>Reference</td><td>Book 60 Hadith 153</td></tr></tbody></table></div>
 

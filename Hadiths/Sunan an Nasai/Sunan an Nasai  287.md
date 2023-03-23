@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৮৭, আন্তর্জাতিক নাম্বারঃ ২৮৮ ২৮৭. হারিস ইবনু মিসকীন (রহ.) ..... মায়মূনাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সা.) তাঁর কোন স্ত্রীর হায়য অবস্থায় যখন তার পরনে লুঙ্গি থাকত যা হাঁটু ও রানের মধ্যস্থল পর্যন্ত পৌঁছে তখন তিনি তার শরীরে শরীর মিলাতেন। লায়স-এর হাদীসের আছে, তিনি (সহধর্মিণী) ঐ লুঙ্গি দ্বারা (বিশেষ অঙ্গ) ঢাকতেন। সহীহ: বুখারী ৩০২, আবূ দাউদ ২৬৭, দারিমী ১০৫৭, মুসনাদে আহমাদ ২৬৮৯৩।
+। হারিস ইবনু মিসকীন (রহঃ) ... মায়মুনা (রাঃ) থেকে বর্ণিত, তিনি বলেনঃ রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কোন সহধর্মিণীর হায়য অবস্থায় যখন তাঁর পরনে ইযার থাকত যা হাঁটু ও রানের মধ্যস্থল পর্যন্ত পৌঁছে, তখন তিনি তাঁর শরীরে শরীর মেলাতেন। লায়সের হাদিসে আছে, তিনি (সহধর্মিণী) ঐ ইযার দ্বারা (দেহের মধ্যাংশ) আবৃত করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>287</td></tr><tr><td>Arabic No</td><td>287</td></tr><tr><td>Reference</td><td>Book 1 Hadith 288</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Al Harits bin Miskin] telah dibacakan kepadanya d
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Meymune (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: sallallahü aleyhi ve sellem), hanımları ile hayızlı olduğu hallerde bile, baldırları ve dizlerine kadar hayız elbiselerini giydikleri durumda onlarla mübaşeret ederdi.) (Müslim, Hayz: 2; Buhârî, Hayz: 6)
+Meymune (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: sallallahü aleyhi ve sellem), hanımları ile hayızlı olduğu hallerde bile, baldırları ve dizlerine kadar hayız elbiselerini giydikleri durumda onlarla mübaşeret ederdi.) (Müslim, Hayz: 2; Buhârî, Hayz:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>287</td></tr><tr><td>Arabic No</td><td>287</td></tr><tr><td>Reference</td><td>Book 1 Hadith 288</td></tr></tbody></table></div>
 

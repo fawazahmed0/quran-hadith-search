@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন মুসলিম যদি গাছ লাগায়, আর তাত্থেকে কোন মানুষ বা জানোয়ার কিছু খায়, তবে তা তার জন্য সদাকাহ্য় পরিগণিত হবে। [২৩২০] আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন- ৫৪৭৪
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন মুসলিম যদি গাছ লাগায়, আর তাত্থেকে কোন মানুষ বা জানোয়ার কিছু খায়, তবে তা তার জন্য সদাকাহ্য় পরিগণিত হবে। [২৩২০] আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>6012</td></tr><tr><td>Reference</td><td>Book 78 Hadith 43</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Ab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு முஸ்லிம் மரம் ஒன்றை நட்டு அதிலிருந்து ஒரு மனிதனோ அல்லது (மற்ற) உயிரினமோ உண்டால் (அதன் காரணத்தால்) ஒரு தர்மம் செய்ததற்கான பிரதிபலன் அவருக்குக் கிடைக்காமல் இருப்பதில்லை. இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.34 அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு முஸ்லிம் மரம் ஒன்றை நட்டு அதிலிருந்து ஒரு மனிதனோ அல்லது (மற்ற) உயிரினமோ உண்டால் (அதன் காரணத்தால்) ஒரு தர்மம் செய்ததற்கான பிரதிபலன் அவருக்குக் கிடைக்காமல் இருப்பதில்லை. இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.34 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>6012</td></tr><tr><td>Reference</td><td>Book 78 Hadith 43</td></tr></tbody></table></div>
 

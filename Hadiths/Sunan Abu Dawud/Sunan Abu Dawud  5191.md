@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন সারহ (রহঃ) ... ইবন আব্বাস (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ অনুমতি চাওয়া সম্পর্কে আয়াতের উপর অধিকাংশ লোক আমল করে না। কিন্তু আমি আমার এ দাসীকে নির্দেশ দিয়েছি যে, সে যেন আমার কাছে প্রবেশের আগে অনুমতি চায়।
+। উবাইদুল্লাহ ইবনু আবূ ইয়াযীদ সূত্রে বর্ণিত। তিনি ইবনু আব্বাস (রাঃ)-কে বলতে শুনেছেন, অধিকাংশ লোকই অনুমতি গ্রহণ সম্পর্কিত আয়াতের উপর আমল করে না। আমি তো আমার এই দাসীকে আমার নিকট আসতে অনুমতি নেয়ার আদেশ দিয়েছি। ইমাম আবূ দাঊদ (রহঃ) বলেন, আতা ইবনু আব্বাস (রাঃ) সূত্রে এমনটিই বর্ণনা করেছেন, তিনি অনুমতি নেয়ার আদেশ দিতেন।[1] সনদ সহীহ মাওকুফ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5191</td></tr><tr><td>Arabic No</td><td>5191</td></tr><tr><td>Reference</td><td>Book 43 Hadith 419</td></tr></tbody></table></div>
 

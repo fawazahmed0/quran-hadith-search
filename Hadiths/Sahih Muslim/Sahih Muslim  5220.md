@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫১১৫, আন্তর্জাতিক নাম্বারঃ ২০০৩ ৫১১৫-(.../...) সালিহ্ ইবনু মিসমার সুলামী (রহঃ) ..... মূসা ইবনু উকবাহ (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৫০৫০, ইসলামিক সেন্টার ৫০৬০)
+সালিহ্ ইবনু মিসমার সুলামী (রহঃ) ..... মূসা ইবনু উকবাহ (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৫০৫০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5220</td></tr><tr><td>Arabic No</td><td>2003.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 94</td></tr></tbody></table></div>
 

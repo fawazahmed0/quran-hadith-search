@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াযীদ ইবনু খালিদ .... আবদুল্লাহ্ ইবনু আমর (রাঃ) থেকে এই সূত্রেও পূর্বোক্ত হাদীছের অনুরূপ বর্ণিত আছে।
+। ‘আইয়াশ (রহঃ) শুয়াইম ইবনু বাইতামের মাধ্যমে আবূ সালিম আল-জায়শানী সূত্রেও উক্ত হাদীস বর্ণিত আছে। তিনি (সালিম) ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ)-কে এ হাদীস বর্ণনা করতে শুনেছেন, যখন তিনি ‘আলইউন’ দুর্গ অবরোধ করেছিলেন। ইমাম আবূ দাউদ (রহঃ) বলেন, ‘আলইয়ুন’ দুর্গ (মিসরের) ফুসত্বাত্বে একটি পাহাড়ের উপর অবস্থিত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Arabic No</td><td>37</td></tr><tr><td>Reference</td><td>Book 1 Hadith 37</td></tr></tbody></table></div>
 

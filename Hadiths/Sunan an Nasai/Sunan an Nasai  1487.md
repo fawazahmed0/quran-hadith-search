@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। মুহাম্মাদ ইবনু মুসান্না (রহঃ) ... কাবীসা হিলালী (রাঃ) থেকে বর্ণিত যে, একবার সূর্যগ্রহণ লেগে গেল। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’রাকআত, দু’রাকআত করে সালাত আদায় করতে লাগলেন। ইত্যবসরে সূর্য আলোকিত হয়ে গেল। তারপর তিনি বললেন, কারো মৃত্যুর কারণে চন্দ্র-সূর্যে গ্রহণ হয় না বরং তারা হল আল্লাহর সৃষ্ট বস্তু সমূহের মধ্যে দু'টি বস্তু, আর আল্লাহ তা'আলা তার সৃষ্টিতে যা ইচ্ছা নব নব সৃষ্টি করেন এবং আল্লাহ তা'আলা যখন তার কোন বস্তুতে তার নূরের বহিঃপ্রকাশ ঘটান তখন তা তার অনুগত হয়ে যায় (অর্থাৎ সেই বস্তুর আলো নিস্প্রভ হয়ে যায়)। অতএব সূর্য এবং চন্দ্রে যদি নতুন কিছু ঘটে, তবে তোমরা সালাত আদায় করতে থাকবে, তা আলোকিত হওয়া অথবা আল্লাহ তা’আলার নতুন কোন ফয়সালা না হওয়া পর্যন্ত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1487</td></tr><tr><td>Arabic No</td><td>1487</td></tr><tr><td>Reference</td><td>Book 16 Hadith 29</td></tr></tbody></table></div>
 

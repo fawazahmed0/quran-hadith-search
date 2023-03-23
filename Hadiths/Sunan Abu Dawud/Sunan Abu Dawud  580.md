@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবনু দাউদ ..... উকবা ইবনু আমের (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে বলতে শুনেছিঃ যে ব্যক্তি সঠিক সময়ে লোকদের নিয়ে জামাআতে নামায আদায় করছে, এজন্য সে (ইমাম) নিজে এবং মুক্তাদীগ পরিপূর্ণ ছওয়াবের অধিকারী হবে। অপরপক্ষে যদি কোন সময় ইমাম সঠিক সময়ে নামায আদায় না করে তবে এজন্য সে দায়ী হবে কিন্তু মুক্তাদীগণ পরিপূর্ণ ছওয়াবের অধিকারী হবে। (ইবনু মাজাহ)
+। ‘উক্ববাহ ইবনু ‘আমির (রাঃ) বলেন, আমি রসূলু্ল­াহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ কেউ সঠিক সময়ে লোকদের ইমামতি করলে সে নিজেও এবং মুক্তাদীরাও (এর পূর্ণ সাওয়াব) পাবে। আর কোন ইমাম যদি বিলম্বে সালাত আদায় করে, তাহলে সে গুনাহগার হবে, মুক্তাদীরা নয়।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>580</td></tr><tr><td>Reference</td><td>Book 2 Hadith 190</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Sulaiman bin Dawud Al-Mahri] telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ukbe b. amir (r.a.) demiştir ki; Ben, Nebi (Sallallahu aleyhi ve Sellem)’i şöyle buyururken duydum: "Bir kimse insanlara İmam olur ve vakte isabet ederse (sevabı) ona ve cemaatadır. Bundan bir şeyi eksiltenin (vakitte kusur edenin) günahı ise, kendisinedir, cemaata değil." Diğer tahric: İbn Mace, ikame; Ahmed b. Hanbel, [V, 145, 154, 156; Hakim, el-Müstedrek, I, 210]
+Ukbe b. amir (r.a.) demiştir ki; Ben, Nebi (Sallallahu aleyhi ve Sellem)’i şöyle buyururken duydum: "Bir kimse insanlara İmam olur ve vakte isabet ederse (sevabı) ona ve cemaatadır. Bundan bir şeyi eksiltenin (vakitte kusur edenin) günahı ise, kendisinedir, cemaata değil." Diğer tahric: İbn Mace, ikame; Ahmed b. Hanbel, [V, 145, 154, 156; Hakim, el-Müstedrek, I]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>580</td></tr><tr><td>Reference</td><td>Book 2 Hadith 190</td></tr></tbody></table></div>
 

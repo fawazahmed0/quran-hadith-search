@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আমি বলতে শুনেছি, ‘আয়িশাহ (রাঃ)-এর মর্যাদা নারীদের উপর এমন যেমন সারীদের মর্যাদা অন্যান্য খাদ্যদ্রব্যের উপর। (৪৫১৯, ৫৪২৮, মুসলিম ৪৪/১৩ হাঃ ২৪৪৬, আহমাদ ১৩৭৮৭) (আধুনিক প্রকাশনীঃ ৩৪৮৮, ইসলামিক ফাউন্ডেশনঃ ৩৪৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আমি বলতে শুনেছি, ‘আয়িশাহ (রাঃ)-এর মর্যাদা নারীদের উপর এমন যেমন সারীদের মর্যাদা অন্যান্য খাদ্যদ্রব্যের উপর। (৪৫১৯, ৫৪২৮, মুসলিম ৪৪/১৩ হাঃ ২৪৪৬, আহমাদ ১৩৭৮৭) (আধুনিক প্রকাশনীঃ ৩৪৮৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3770</td></tr><tr><td>Arabic No</td><td>3770</td></tr><tr><td>Reference</td><td>Book 62 Hadith 115</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah bercerit
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (உலகின் மற்ற) பெண்களைக் காட்டிலும் ஆயிஷாவுக்கு இருக்கும் சிறப்பு, (மற்ற) உணவுகளைக் காட்டிலும் “ஸரீத்' என்னும் உணவுக்கு இருக்கும் சிறப்பைப் போன்றதாகும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 62
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (உலகின் மற்ற) பெண்களைக் காட்டிலும் ஆயிஷாவுக்கு இருக்கும் சிறப்பு, (மற்ற) உணவுகளைக் காட்டிலும் “ஸரீத்' என்னும் உணவுக்கு இருக்கும் சிறப்பைப் போன்றதாகும். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3770</td></tr><tr><td>Arabic No</td><td>3770</td></tr><tr><td>Reference</td><td>Book 62 Hadith 115</td></tr></tbody></table></div>
 

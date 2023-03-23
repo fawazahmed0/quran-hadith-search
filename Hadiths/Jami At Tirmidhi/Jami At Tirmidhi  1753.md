@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭৫৩। আবূ যার (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বার্ধক্যের শুভ্রতা পরিবর্তনের জন্য মেহেদি (হেন) ও কাতাম (কালচে ঘাস) তৃণই উত্তম। সহীহ, ইবনু মা-জাহ (২৬২২) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। আবূল আসওয়াদ আদ-দীলির নাম জালিম, পিতা আমর দাদা সুফিয়ান।
+। আবূ যার (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বার্ধক্যের শুভ্রতা পরিবর্তনের জন্য মেহেদি (হেন) ও কাতাম (কালচে ঘাস) তৃণই উত্তম। সহীহ, ইবনু মা-জাহ (২৬২২) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন। আবূল আসওয়াদ আদ-দীলির নাম জালিম, পিতা আমর দাদা সুফিয়ান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1753</td></tr><tr><td>Arabic No</td><td>1753</td></tr><tr><td>Reference</td><td>Book 24 Hadith 34</td></tr></tbody></table></div>
 

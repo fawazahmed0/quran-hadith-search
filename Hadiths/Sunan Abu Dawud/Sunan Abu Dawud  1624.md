@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাঈদ ইবন্‌ মানসূর (রহঃ) ..... আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা আব্বাস (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লামের নিকট (সময়ের পূর্বে) দ্রুত যাকাত প্রদানের অনুমতি প্রার্থনা করলে তিনি তাঁকে অনুমতি দান করেন। (তিরমিযী, ইবন্‌ মাজা)। আরও একটি সূত্রে হুশাইম থেকে হাদীসটি বর্ণিত হয়েছে এবং এই শেষোক্ত সূত্রটি অধিকতর সহীহ।
+। ‘আলী (রাঃ) সূত্রে বর্ণিত। একদা ‘আব্বাস (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আগাম যাকাত দেয়ার আবেদন করলে তিনি তাকে এ ব্যাপারে অনুমতি দেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1624</td></tr><tr><td>Arabic No</td><td>1624</td></tr><tr><td>Reference</td><td>Book 9 Hadith 69</td></tr></tbody></table></div>
 

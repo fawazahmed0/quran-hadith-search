@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+নাসির ইবন আলী (রহঃ) ... আবু হুরায়রা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মিসকীন সে ব্যক্তি নয় যে, এক লোকমা বা দু'লোকমার এবং একটা-দুটা খেজুরের জন্য মানুষের দ্বারে দ্বারে ঘুরে ফেরে। সাহাবীরা জিজ্ঞাসা করলেন, ইয়া রাসূলাল্লাহ্! তাহলে মিসকীন কে? তিনি বললেন, যার কোন সহায়-সম্বলও নেই আর লোকেরাও তার অবস্থা জানে না যে, তাকে সাহায্য করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2573</td></tr><tr><td>Arabic No</td><td>2573</td></tr><tr><td>Reference</td><td>Book 23 Hadith 139</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) ...... জাবির ইবন আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেন, আমি মুমিনদের জন্য তাদের নিজের সওার চাইতেও অধিক নিকটবর্তী। যে ব্যক্তি কোন মাল রেখে মারা যায়, তা তার পরিবার-পরিজনের। আর যে ব্যক্তি কোন দেনা ও সন্তান-সন্ততি রেখে মারা যাবে, তা আমার এবং আমি তাদের যিম্মাদার।
+। জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ আমি মু‘মিনদের পক্ষে তাদের নিজেদের চেয়েও অধিক নিকটবর্তী। কেউ সম্পদ রেখে গেলে তা তার পরিজনের জন্য। কেউ ঋণ অথবা পোষ্য রেখে গেলে তার দায়দায়িত্ব আমার উপর।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2954</td></tr><tr><td>Arabic No</td><td>2954</td></tr><tr><td>Reference</td><td>Book 20 Hadith 27</td></tr></tbody></table></div>
 

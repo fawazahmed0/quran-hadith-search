@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৯২, আন্তর্জাতিক নাম্বারঃ ৮৯৩ ৮৯২. ‘আমর ইবনু ‘আলী (রহ.) ..... আবূ ‘উবায়দাহ্ (রাঃ) হতে বর্ণিত। আবদুল্লাহ ইবনু মাসউদ (রাঃ) এক ব্যক্তিকে দু'পা মিলিয়ে দাড়িয়ে সালাত আদায় করতে দেখলেন। তিনি বলেন, এ ব্যক্তি সুন্নাতের বিরোধিতা করল। যদি এ ব্যক্তি পদদ্বয়ের মাঝখানে ব্যবধান বা ফাঁক রেখে দাঁড়াত তাহলে তা উত্তম হতো। সনদ দুর্বলঃ সনদে ইনকিতা' (বিচ্ছিন্নতা) আছে, আবু উবায়দাহ্ তার পিতা থেকে হাদীসটি শুনেনি; নাসায়ী’র “সুনানুল কুবরা ৯৬৬।
+। আমর ইবনু আলী (রহঃ) ... আবূ উবায়দা (রাঃ) থেকে বর্ণিত যে, আব্দুল্লাহ ইবনু মাসউদ (রাঃ) এক ব্যক্তিকে উভয় পা মিলিয়ে দাঁড়িয়ে সালাত আদায় করতে দেখলেন। তিনি বললেন, এ ব্যক্তি সুন্নতের বিরোধিতা করল। যদি এ ব্যক্তি পদদূয়ের মাঝখানে ব্যবধান বা ফাঁক রেখে দাঁড়াতো তাহলে তা উত্তম হতো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>892</td></tr><tr><td>Arabic No</td><td>892</td></tr><tr><td>Reference</td><td>Book 11 Hadith 17</td></tr></tbody></table></div>
 

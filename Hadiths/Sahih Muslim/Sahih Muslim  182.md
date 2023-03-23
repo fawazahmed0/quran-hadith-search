@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৬, আন্তর্জাতিক নাম্বারঃ ৫২ ৮৬-(৮২/৫২) আবূ রবী' আয যাহরানী (রহঃ) ..... আবূ হুরায়রাহ্ (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, ইয়ামানের অধিবাসীরা এসেছে; তাদের হৃদয় বড়ই কোমল। ঈমান রয়েছে ইয়ামানবাসীদের মধ্যে, ধর্মীয় গভীর জ্ঞান রয়েছে ইয়ামানবাসীদের মধ্যে এবং হিকমাত রয়েছে ইয়ামানবাসীদের মধ্যে। (ইসলামিক ফাউন্ডেশনঃ ৮৮, ইসলামিক সেন্টারঃ ৯০)
+আবূ রবী' আয যাহরানী (রহঃ) ..... আবূ হুরায়রাহ্ (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, ইয়ামানের অধিবাসীরা এসেছে; তাদের হৃদয় বড়ই কোমল। ঈমান রয়েছে ইয়ামানবাসীদের মধ্যে, ধর্মীয় গভীর জ্ঞান রয়েছে ইয়ামানবাসীদের মধ্যে এবং হিকমাত রয়েছে ইয়ামানবাসীদের মধ্যে। (ইসলামিক ফাউন্ডেশনঃ ৮৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>52.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 89</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu ar-Rabi' az-Zahrani] telah memberitakan kepa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யமன்வாசிகள் (உங்களிடம்) வந்திருக்கிறார்கள்.அவர்கள் இளகிய நெஞ்சமுடையவர்கள்; இறைநம்பிக்கை,யமன் நாட்டைச் சேர்ந்ததாகும்.மார்க்க ஞானமும் யமன் நாட்டைச் சேர்ந்ததாகும்.விவேகமும் யமன் நாட்டைச் சேர்ந்ததாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 1
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யமன்வாசிகள் (உங்களிடம்) வந்திருக்கிறார்கள்.அவர்கள் இளகிய நெஞ்சமுடையவர்கள்; இறைநம்பிக்கை,யமன் நாட்டைச் சேர்ந்ததாகும்.மார்க்க ஞானமும் யமன் நாட்டைச் சேர்ந்ததாகும்.விவேகமும் யமன் நாட்டைச் சேர்ந்ததாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>52.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 89</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu ar-Rabi' az-Zahrani] telah memberitakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Rabi' ez-Zehrani tahdis etti, bize Hammad bildirdi. Bize Eyyub tahdis etti, bize Muhammed, Ebu Hureyre'den şöyle dediğini tahdis etti: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Yemenliler geldi, onlar kalpleri en ince olanlardır. İman Yemenlidir, fıkıh Yemenlidir, hikmet Yemenlidir. " Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf, 14421
+Bize Ebu Rabi' ez-Zehrani tahdis etti, bize Hammad bildirdi. Bize Eyyub tahdis etti, bize Muhammed, Ebu Hureyre'den şöyle dediğini tahdis etti: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Yemenliler geldi, onlar kalpleri en ince olanlardır. İman Yemenlidir, fıkıh Yemenlidir, hikmet Yemenlidir. " Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>52.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 89</td></tr></tbody></table></div>
 

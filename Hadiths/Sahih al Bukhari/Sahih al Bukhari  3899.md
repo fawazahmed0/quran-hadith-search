@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) বলতেন, (মক্কা) বিজয়ের পর হিজরাতের কোন প্রয়োজন নেই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3899</td></tr><tr><td>Arabic No</td><td>3899</td></tr><tr><td>Reference</td><td>Book 63 Hadith 124</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq bin Yazid ad Damasyqi] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஜாஹித் பின் ஜப்ர் அல்மக்கீ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள், “(மக்கா) வெற்றிக்குப் பிறகு ஹிஜ்ரத் கிடையாது” என்று சொல்லி வந்தார்கள்.147 அத்தியாயம் : 63
+முஜாஹித் பின் ஜப்ர் அல்மக்கீ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள், “(மக்கா) வெற்றிக்குப் பிறகு ஹிஜ்ரத் கிடையாது” என்று சொல்லி வந்தார்கள்.147 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3899</td></tr><tr><td>Arabic No</td><td>3899</td></tr><tr><td>Reference</td><td>Book 63 Hadith 124</td></tr></tbody></table></div>
 

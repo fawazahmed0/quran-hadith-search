@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৩২৫, আন্তর্জাতিক নাম্বারঃ ২৫১৪ ৬৩২৫-(.../...) মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... শু'বাহ (রহঃ) হতে অত্র সানাদে অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬২০৩, ইসলামিক সেন্টার ৬২৪৯)
+মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... শু'বাহ (রহঃ) হতে অত্র সানাদে অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬২০৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6431</td></tr><tr><td>Arabic No</td><td>2514.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 260</td></tr></tbody></table></div>
 

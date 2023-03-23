@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন কাছীর .... সুফিয়ান ইবনুল হাকাম আছ্-ছাকাফী অথবা হাকাম ইবনু সুফিয়ান আছ্-ছাকাফী হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম যখনই পেশাব করতেন, তখন উযূ (ওজু/অজু/অযু) করতেন এবং উযূর পানি ছিটাতেন।
+। সুফিয়ান ইবনু হাকাম আস-সাক্বাফী অথবা হাকাম ইবনু সুফিয়ান আস-সাক্বাফী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন পেশাব করতেন, তখন অযু করে (লজ্জাস্থানে) পানি ছিটাতেন।[1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, এই সানাদের ব্যাপারে সুফিয়ানের সাথে একদল বর্ণনাকারী ঐকমত্য পোষণ করেছেন। তিনি বলেন, কারো মতে, এখানে হবে- হাকাম অথবা ইবনু হাকাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>166</td></tr><tr><td>Arabic No</td><td>166</td></tr><tr><td>Reference</td><td>Book 1 Hadith 166</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মালিক ইবনু হুয়াইরিস লাইসী (রাযি.) হতে বর্ণিত, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে সালাত আদায় করতে দেখেছেন। তিনি তাঁর সালাতের বেজোড় রাক‘আতে (সাজ্দাহ হতে) উঠে না বসে দাঁড়াতেন না।* (আধুনিক প্রকাশনীঃ৭৭৭, ইসলামিক ফাউন্ডেশনঃ ৭৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মালিক ইবনু হুয়াইরিস লাইসী (রাযি.) হতে বর্ণিত, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে সালাত আদায় করতে দেখেছেন। তিনি তাঁর সালাতের বেজোড় রাক‘আতে (সাজ্দাহ হতে) উঠে না বসে দাঁড়াতেন না।* (আধুনিক প্রকাশনীঃ৭৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>823</td></tr><tr><td>Arabic No</td><td>823</td></tr><tr><td>Reference</td><td>Book 10 Hadith 217</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Ash Shabah] berkata, telah mengabar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மா-க் பின் அல்ஹுவைரிஸ் அல்லைஸீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தொழுவதை நான் பார்த்திருக்கிறேன். அவர்கள் தமது தொழு கையின் ஒற்றைப்படையான ரக்அத்களின் போது நிமிர்ந்து உட்காராமல் (அடுத்த ரக்அத்திற்காக) எழமாட்டார்கள். அத்தியாயம் : 10
+மா-க் பின் அல்ஹுவைரிஸ் அல்லைஸீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தொழுவதை நான் பார்த்திருக்கிறேன். அவர்கள் தமது தொழு கையின் ஒற்றைப்படையான ரக்அத்களின் போது நிமிர்ந்து உட்காராமல் (அடுத்த ரக்அத்திற்காக) எழமாட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>823</td></tr><tr><td>Arabic No</td><td>823</td></tr><tr><td>Reference</td><td>Book 10 Hadith 217</td></tr></tbody></table></div>
 

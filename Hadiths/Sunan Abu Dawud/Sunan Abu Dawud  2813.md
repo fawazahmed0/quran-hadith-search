@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... নুবাইশা (রাঃ) থেকে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন যে, আমি তোমাদের তিন দিনের অধিক কুরবানির গোশত খেতে এ জন্য নিষেধ করেছিলাম, যাতে তোমাদের সকলের কাছে তা পৌঁছে যায়। এখন আল্লাহ্‌ তোমাদের প্রাচুর্য দান করেছেন। কাজেই এখন তোমরা খাও, জমা রাখ, এবং সওয়াব হাসিলের জন্য দান করো। জেনে রাখ! এই দিনগুলো হল বিশেষ পানাহারের জন্য এবং মহান আল্লাহ্‌র স্মরণের জন্য।
+। নুবাইশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘আমরা তোমাদেরকে তিন দিনের অধিক কুরবানীর গোশত খেতে নিষেধ করেছিলাম, যাতে গোশত তোমাদের সকলের নিকট পৌঁছে যায়। আল্লাহ এখন তোমাদের দারিদ্র মোচন করেছেন। কাজেই এখন তোমরা তা খাও, জমা করে রাখো এবং সাদাকাহ করে নেকী অর্জন করো। জেনে রাখো, এ দিনগুলো পানাহারের দিন এবং মহান আল্লাহকে স্মরণ করার দিন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2813</td></tr><tr><td>Arabic No</td><td>2813</td></tr><tr><td>Reference</td><td>Book 16 Hadith 26</td></tr></tbody></table></div>
 

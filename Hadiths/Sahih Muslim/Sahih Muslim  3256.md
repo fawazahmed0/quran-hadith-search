@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩১৪৭, আন্তর্জাতিক নাম্বারঃ ১৩৩৬ ৩১৪৭-(.../...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) থেকে এ সানাদ সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩১২২, ইসলামীক সেন্টার ৩১১৯)
+মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) থেকে এ সানাদ সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩১২২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3256</td></tr><tr><td>Arabic No</td><td>1336.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 460</td></tr></tbody></table></div>
 

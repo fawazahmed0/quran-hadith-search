@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু শিহাব (রহ.) বলেন, আমাকে এ হাদীস এমন ব্যক্তি বর্ণনা করেছেন যিনি জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ)-কে বলতে শুনেছেন যে, তাকে পাথর মেরে হত্যাকারীদের মধ্যে আমিও একজন ছিলাম। আমরা তাকে ঈদগাহে বা জানাযাহ আদায়ের স্থানে রজম করেছি। পাথরের আঘাত যখন তাকে অস্থির করে তুলল, তখন সে দ্রুত পালাতে লাগল। শেষে আমরা হার্রা নামক স্থানে তাকে পেলাম এবং তাকে পাথর মেরে হত্যা করলাম। [৫২৭০] (আধুনিক প্রকাশনী- , ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6825</td></tr><tr><td>Arabic No</td><td>6825</td></tr><tr><td>Reference</td><td>Book 86 Hadith 53</td></tr></tbody></table></div>
 

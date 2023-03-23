@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭৩৮। ইমরান ইবনু হুসাইন (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বর্ণের আংটি পরতে নিষেধ করেছেন। সহীহ, ইবনু মা-জাহ (৩৬৪২), নাসা-ঈ বারা (রাঃ) এবং অন্যদের হতেও বর্ণনা করেছেন। আবূ ঈসা বলেন, আলী, ইবনু উমার, আবূ হুরাইরা ও মুআবিয়া (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। ইমরান (রাঃ) হতে বর্ণিত হাদীসটি হাসান সহীহ। আবূত তাইয়্যাহ-এর নাম ইয়াযীদ ইবনু হুমাইদ।
+। ইমরান ইবনু হুসাইন (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বর্ণের আংটি পরতে নিষেধ করেছেন। সহীহ, ইবনু মা-জাহ (৩৬৪২), নাসা-ঈ বারা (রাঃ) এবং অন্যদের হতেও বর্ণনা করেছেন। আবূ ঈসা বলেন, আলী, ইবনু উমার, আবূ হুরাইরা ও মুআবিয়া (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। ইমরান (রাঃ) হতে বর্ণিত হাদীসটি হাসান সহীহ। আবূত তাইয়্যাহ-এর নাম ইয়াযীদ ইবনু হুমাইদ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1738</td></tr><tr><td>Arabic No</td><td>1738</td></tr><tr><td>Reference</td><td>Book 24 Hadith 19</td></tr></tbody></table></div>
 

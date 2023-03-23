@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। সাহল ইবনু সা‘দ (রাঃ) সূত্রে বর্ণিত। এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে স্বীকারোক্তি করলো যে, সে এক নারীর সঙ্গে যেনা করেছে। সে তাঁর নিকট সেই নারীর নামও বলেছে। অতএব রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেই নারীর নিকট লোক পাঠিয়ে এ বিষয়ে প্রশ্ন করলে সে তা অস্বীকার কলে। অতএব তিনি পুরুষ লোকটির উপর বেত্রাঘাতের হাদ্দ কার্যকর করেন এবং নারীকে রেহাই দেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4437</td></tr><tr><td>Arabic No</td><td>4437</td></tr><tr><td>Reference</td><td>Book 40 Hadith 87</td></tr></tbody></table></div>
 

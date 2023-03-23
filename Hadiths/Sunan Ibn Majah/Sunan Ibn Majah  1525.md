@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/১৫২৫। ওয়াসিলা ইবনুল আসকা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা প্রত্যেক মৃতের জন্য জানাযার সালাত পড়ো এবং প্রত্যেক আমীরের নেতৃত্বে জিহাদ করো।
+। ওয়াসিলা ইবনুল আসকা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা প্রত্যেক মৃতের জন্য জানাযার সালাত পড়ো এবং প্রত্যেক আমীরের নেতৃত্বে জিহাদ করো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1525</td></tr><tr><td>Arabic No</td><td>1525</td></tr><tr><td>Reference</td><td>Book 6 Hadith 93</td></tr></tbody></table></div>
 

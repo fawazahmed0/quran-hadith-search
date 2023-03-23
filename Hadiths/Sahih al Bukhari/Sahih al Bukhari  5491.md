@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ক্বাতাদাহ (রাঃ)-এর সূত্রে এরকমই বর্ণিত। তবে এতে আছে যে, তিনি বললেনঃ তোমাদের সঙ্গে কি তার কিছু গোশত আছে? [১৮২১] (আধুনিক প্রকাশনী- ৫০৮৫, ইসলামিক ফাউন্ডেশন- ৪৯৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ক্বাতাদাহ (রাঃ)-এর সূত্রে এরকমই বর্ণিত। তবে এতে আছে যে, তিনি বললেনঃ তোমাদের সঙ্গে কি তার কিছু গোশত আছে? [১৮২১] (আধুনিক প্রকাশনী- ৫০৮৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5491</td></tr><tr><td>Arabic No</td><td>5491</td></tr><tr><td>Reference</td><td>Book 72 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Qatada:(the same Hadith above, but he added); The Prophet (ﷺ) ask
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அதாஉ பின் யசார் (ரஹ்) அவர்கள் அபூகத்தாதா (ரலி) அவர்களிடமிருந்து இதே ஹதீஸை அறிவித்துள்ளார்கள். அந்த அறிவிப்பில், நபி (ஸல்) அவர்கள் ‘‘உங்களிடம் அதன் இறைச்சியில் ஏதேனும் (மீதி) உள்ளதா?” என்று கேட்டார்கள் என (கூடுதலாக) வந்துள்ளது. அத்தியாயம் : 72
+அதாஉ பின் யசார் (ரஹ்) அவர்கள் அபூகத்தாதா (ரலி) அவர்களிடமிருந்து இதே ஹதீஸை அறிவித்துள்ளார்கள். அந்த அறிவிப்பில், நபி (ஸல்) அவர்கள் ‘‘உங்களிடம் அதன் இறைச்சியில் ஏதேனும் (மீதி) உள்ளதா?” என்று கேட்டார்கள் என (கூடுதலாக) வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5491</td></tr><tr><td>Arabic No</td><td>5491</td></tr><tr><td>Reference</td><td>Book 72 Hadith 17</td></tr></tbody></table></div>
 

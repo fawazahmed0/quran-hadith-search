@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২১৫৫, আন্তর্জাতিক নাম্বারঃ ৯৭৯ ২১৫৫-(.../...) মুহাম্মাদ ইবনু রাফি (রহঃ) ... আবূ সাঈদ আল খুদরী (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে তার হাতের পাঁচ আঙ্গুলের সাহায্যে ইঙ্গিত করে বলতে শুনেছি। ..... উপরে বর্ণিত ইবনু উয়ায়নার বর্ণিত হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২১৩৪, ইসলামীক সেন্টার ২১৩৭)
+মুহাম্মাদ ইবনু রাফি (রহঃ) ... আবূ সাঈদ আল খুদরী (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে তার হাতের পাঁচ আঙ্গুলের সাহায্যে ইঙ্গিত করে বলতে শুনেছি। ..... উপরে বর্ণিত ইবনু উয়ায়নার বর্ণিত হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২১৩৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2265</td></tr><tr><td>Arabic No</td><td>979.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 3</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Umara reported:I heard Abd Sa'id al-Khudri as saying that he had heard Allah's Messenger (ﷺ) make (this) observation with a gesture of his five fingers, and then he narrated the hadith as transmitted by 'Uyaina (hadith 2134)
+Umara reported:I heard Abd Sa'id al-Khudri as saying that he had heard Allah's Messenger (ﷺ) make (this) observation with a gesture of his five fingers, and then he narrated the hadith as transmitted by 'Uyaina (hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2265</td></tr><tr><td>Arabic No</td><td>979.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 3</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ ইবন মু'আয (রহঃ) .... আবূ ইসহাক (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ হারিছ (রাঃ) এরূপ ওসীয়ত করেন যে, আবদুল্লাহ ইবন ইয়াযীদ যেন তাঁর জানাযার নামায পড়ান। সে মতে তিনি [আবদুল্লাহ্‌ (রাঃ)] তাঁর জানাযার নামায পড়ান এবং তাঁর পায়ের দিক হতে তাঁকে কবরে নামান, আর বলেনঃ এটাই সুন্নাত তরীকা।
+। আবূ ইসহাক (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আল-হারিস (রাঃ) তার মৃত্যুর পূর্বে ওয়াসিয়াত করেন যে, ‘আব্দুল্লাহ ইবনু ইয়াযীদ (রাঃ) যেন তার জানাযা সালাত পড়ান। সুতরাং তিনি তার জানাযা পড়ালেন। অতঃপর তিনি তাকে পায়ের দিক থেকে কবরে রাখলেন। তিনি বললেন, এটাই সুন্নাত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3211</td></tr><tr><td>Arabic No</td><td>3211</td></tr><tr><td>Reference</td><td>Book 21 Hadith 123</td></tr></tbody></table></div>
 

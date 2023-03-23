@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুমায়দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে তাবূক যুদ্ধ থেকে প্রত্যাবর্তন করে মদিনার নিকটবর্তী হলে তিনি বললেন, এই ত্বাবা[1] (পবিত্র) এবং এই উহূদ পর্বত আমাদের ভালবাসে আর আমরাও তাকে ভালবাসি। [১৪৮১] (আধুনিক প্রকাশনীঃ ৪০৭৪, ইসলামিক ফাউন্ডেশনঃ ৪০৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুমায়দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে তাবূক যুদ্ধ থেকে প্রত্যাবর্তন করে মদিনার নিকটবর্তী হলে তিনি বললেন, এই ত্বাবা[1] (পবিত্র) এবং এই উহূদ পর্বত আমাদের ভালবাসে আর আমরাও তাকে ভালবাসি। [১৪৮১] (আধুনিক প্রকাশনীঃ ৪০৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4422</td></tr><tr><td>Arabic No</td><td>4422</td></tr><tr><td>Reference</td><td>Book 64 Hadith 444</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Khalid bin Makhlad] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுமைத் அஸ்ஸாஇதீ (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் தபூக் போரிலிருந்து (திரும்பி மதீனாவை) முன்னோக்கிச் சென்றோம். நாங்கள் மதீனாவை நெருங்கியபோது அவர்கள், “இது “தாபா' (தூய்மையானது) ஆகும். இதோ இந்த உஹுத் மலை நம்மை நேசிக்கின்றது; நாமும் அதை நேசிக்கின்றோம்” என்று சொன்னார்கள்.464 அத்தியாயம் : 64
+அபூஹுமைத் அஸ்ஸாஇதீ (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் தபூக் போரிலிருந்து (திரும்பி மதீனாவை) முன்னோக்கிச் சென்றோம். நாங்கள் மதீனாவை நெருங்கியபோது அவர்கள், “இது “தாபா' (தூய்மையானது) ஆகும். இதோ இந்த உஹுத் மலை நம்மை நேசிக்கின்றது; நாமும் அதை நேசிக்கின்றோம்” என்று சொன்னார்கள்.464 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4422</td></tr><tr><td>Arabic No</td><td>4422</td></tr><tr><td>Reference</td><td>Book 64 Hadith 444</td></tr></tbody></table></div>
 

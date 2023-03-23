@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৬৪৯। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক এমন ইলম (জ্ঞান) সম্পর্কে জিজ্ঞাসিত হয় যা সে জানে, অতঃপর সে তা গোপন করে, তাকে কিয়ামতের দিবসে আগুনের লাগাম পরানো হবে। সহীহঃ ইবনু মা-জাহ (২৬৪) জাবির ও আবদুল্লাহ ইবনু আমর (রাযিঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক এমন ইলম (জ্ঞান) সম্পর্কে জিজ্ঞাসিত হয় যা সে জানে, অতঃপর সে তা গোপন করে, তাকে কিয়ামতের দিবসে আগুনের লাগাম পরানো হবে। সহীহঃ ইবনু মা-জাহ (২৬৪) জাবির ও আবদুল্লাহ ইবনু আমর (রাযিঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2649</td></tr><tr><td>Arabic No</td><td>2649</td></tr><tr><td>Reference</td><td>Book 41 Hadith 5</td></tr></tbody></table></div>
 

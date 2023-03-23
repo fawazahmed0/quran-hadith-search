@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জীবদ্দশায় আবূ ত্বলহা (রাঃ) জিহাদের কারণে সিয়াম পালন করতেন না। কিন্তু আল্লাহর রসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ইন্তিকালের পর ‘ঈদুল ফিতর ও ‘ঈদুল আয্হা ব্যতীত তাকে কখনো সিয়াম বাদ দিতে দেখিনি। (আ.প্র. ২৬১৮, ই.ফা. ২৬২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2828</td></tr><tr><td>Arabic No</td><td>2828</td></tr><tr><td>Reference</td><td>Book 56 Hadith 44</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Adam] telah bercerita kepada kami [Syu'bah] telah b
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அபூதல்ஹா (ரலி) அவர்கள், நபி (ஸல்) அவர்களின் காலத்தில் (புனிதப்) போர்களில் கலந்துகொண்ட காரணத்தால் நோன்பு நோற்காதவராக இருந்தார்கள். நபி (ஸல்) அவர்கள் இறந்தபின் (இஸ்லாம் பலம் பெற்றுவிட்ட நிலையில்), நான் அபூதல்ஹா (ரலி) அவர்களை நோன்புப் பெருநாளிலும் ஹஜ் பெருநாளிலும் தவிர (வேறெந்த நாளிலும்) நோன்பு நோற்காத வராகக் கண்டதில்லை. அத்தியாயம் : 56
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அபூதல்ஹா (ரலி) அவர்கள், நபி (ஸல்) அவர்களின் காலத்தில் (புனிதப்) போர்களில் கலந்துகொண்ட காரணத்தால் நோன்பு நோற்காதவராக இருந்தார்கள். நபி (ஸல்) அவர்கள் இறந்தபின் (இஸ்லாம் பலம் பெற்றுவிட்ட நிலையில்), நான் அபூதல்ஹா (ரலி) அவர்களை நோன்புப் பெருநாளிலும் ஹஜ் பெருநாளிலும் தவிர (வேறெந்த நாளிலும்) நோன்பு நோற்காத வராகக் கண்டதில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2828</td></tr><tr><td>Arabic No</td><td>2828</td></tr><tr><td>Reference</td><td>Book 56 Hadith 44</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি যে, তোমাদের কেউ যেন শুধু জুম‘আর দিনে সওম পালন না করে কিন্তু তার পূর্বে একদিন অথবা পরের দিন (যদি পালন করে তবে জুমু‘আর দিনে সওম পালন করা যায়)। (মুসলিম ১৩/২৪, হাঃ ১১৪৪, আহমাদ ১০৮০৮) (আধুনিক প্রকাশনীঃ ১৮৪৬, ইসলামিক ফাউন্ডেশনঃ ১৮৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বলতে শুনেছি যে, তোমাদের কেউ যেন শুধু জুম‘আর দিনে সওম পালন না করে কিন্তু তার পূর্বে একদিন অথবা পরের দিন (যদি পালন করে তবে জুমু‘আর দিনে সওম পালন করা যায়)। (মুসলিম ১৩/২৪, হাঃ ১১৪৪, আহমাদ ১০৮০৮) (আধুনিক প্রকাশনীঃ ১৮৪৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1985</td></tr><tr><td>Arabic No</td><td>1985</td></tr><tr><td>Reference</td><td>Book 30 Hadith 92</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: உங்களில் எவரும் வெள்ளிக் கிழமைக்குமுன் ஒரு நாளைச் சேர்க்காமல், அல்லது அதற்குப்பின் ஒரு நாளைச் சேர்க்காமல் (அன்று மட்டும்) நோன்பு நோற்க வேண்டாம்! இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 30
+நபி (ஸல்) அவர்கள்கூறினார்கள்: உங்களில் எவரும் வெள்ளிக் கிழமைக்குமுன் ஒரு நாளைச் சேர்க்காமல், அல்லது அதற்குப்பின் ஒரு நாளைச் சேர்க்காமல் (அன்று மட்டும்) நோன்பு நோற்க வேண்டாம்! இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1985</td></tr><tr><td>Arabic No</td><td>1985</td></tr><tr><td>Reference</td><td>Book 30 Hadith 92</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনুল মুছান্না ..... ইমরান ইবনু হুসায়েন (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের সাথে জামাআতে নামায আদায়ের পর বলেন, তোমাদের কে সূরা “সাব্বিহিসমা রাব্বিকা আলা” পাঠ করেছে? জবাবে এক ব্যক্তি বলেন, আমি। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমি বুঝতে পেরেছি যে, তোমাদের কেউ নামাযের মধ্যে আমাকে কুরআন পাঠে জটিলতায় ফেলেছে। (মুসলিম, নাসাঈ)।
+। ‘ইমরান ইবনু হুসায়ন (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের সাথে যুহরের সালাত আদায় শেষে বললেন, তোমাদের মধ্যকার কে ‘‘সাব্বিহিসমা রব্বিকাল আ‘লা’’ (সূরাহ আ‘লা) পড়েছে? এক ব্যক্তি বলল, আমি। তখন তিনি বললেন, আমি বুঝতে পেরেছি যে, তোমাদের কেউ আমাকে সালাতে কুরআন পাঠে জটিলতায় ফেলেছে।[1] সহীহ : মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 2 Hadith 439</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İmran b. Husayn'dan rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) onlara Öğle namazını kıldırmış, (namazdan) çıkınca, "Sebbihis-me Rabbike'l-A'la diye başlayan (sure) yi hanginiz okudu?" deyince bir zat, "ben" cevabını vermiş. Bunun üzerine (Resul-i Ekrem): "Gerçekten anladım ki, biriniz onu benim ağzımdan aldı" buyurmuştur. Diğer tahric: Müslim, salat; Nesaî, iftitah, kıyamü'l-leyl; Ahmed b. Hanbel, IV, 426, 431, 433, 441
+İmran b. Husayn'dan rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) onlara Öğle namazını kıldırmış, (namazdan) çıkınca, "Sebbihis-me Rabbike'l-A'la diye başlayan (sure) yi hanginiz okudu?" deyince bir zat, "ben" cevabını vermiş. Bunun üzerine (Resul-i Ekrem): "Gerçekten anladım ki, biriniz onu benim ağzımdan aldı" buyurmuştur. Diğer tahric: Müslim, salat; Nesaî, iftitah, kıyamü'l-leyl; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 2 Hadith 439</td></tr></tbody></table></div>
 

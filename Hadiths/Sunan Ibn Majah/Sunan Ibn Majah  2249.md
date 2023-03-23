@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২২৪৯। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে দু’টি গোলাম দান করেন, যারা ছিল পরস্পর সহোদর ভাই। আমি তাদের একজনকে বিক্রয় করলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে জিজ্ঞেস করেনঃ তুমি গোলাম দু’টি কী করলে? আমি বললাম, আমি তাদের একজনকে বিক্রয় করেছি। তিনি বলেনঃ তাকে ফেরত আনো।
+। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে দু’টি গোলাম দান করেন, যারা ছিল পরস্পর সহোদর ভাই। আমি তাদের একজনকে বিক্রয় করলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে জিজ্ঞেস করেনঃ তুমি গোলাম দু’টি কী করলে? আমি বললাম, আমি তাদের একজনকে বিক্রয় করেছি। তিনি বলেনঃ তাকে ফেরত আনো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2249</td></tr><tr><td>Arabic No</td><td>2249</td></tr><tr><td>Reference</td><td>Book 12 Hadith 113</td></tr></tbody></table></div>
 

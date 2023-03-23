@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি ও ইয়াতীমের প্রতিপালনকারী জান্নাতে এমনিভাবে নিকটে থাকবে। এই বলে তিনি শাহাদাত ও মধ্যমা আঙ্গুল দু’টি দ্বারা ইঙ্গিত করলেন এবং এ দু’টির মাঝে কিঞ্চিত ফাঁক রাখলেন। [৬০০৫] আধুনিক প্রকাশনী- ৪৯১৩, ইসলামিক ফাউন্ডেশন- ৪৮০৮
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সাহল (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি ও ইয়াতীমের প্রতিপালনকারী জান্নাতে এমনিভাবে নিকটে থাকবে। এই বলে তিনি শাহাদাত ও মধ্যমা আঙ্গুল দু’টি দ্বারা ইঙ্গিত করলেন এবং এ দু’টির মাঝে কিঞ্চিত ফাঁক রাখলেন। [৬০০৫] আধুনিক প্রকাশনী- ৪৯১৩, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5304</td></tr><tr><td>Arabic No</td><td>5304</td></tr><tr><td>Reference</td><td>Book 68 Hadith 53</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Amru bin Zurarah] Telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘‘நானும் அநாதையின் காப்பாளரும் சொர்க்கத்தில் இப்படி இருப்போம்” என்று கூறியபடி தம் சுட்டுவிரலையும் நடுவிரலையும் இணைத்து அந்த இரண்டுக்குமிடையே சற்று இடைவெளி விட்டு சைகை செய்தார்கள். அத்தியாயம் : 68
+சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘‘நானும் அநாதையின் காப்பாளரும் சொர்க்கத்தில் இப்படி இருப்போம்” என்று கூறியபடி தம் சுட்டுவிரலையும் நடுவிரலையும் இணைத்து அந்த இரண்டுக்குமிடையே சற்று இடைவெளி விட்டு சைகை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5304</td></tr><tr><td>Arabic No</td><td>5304</td></tr><tr><td>Reference</td><td>Book 68 Hadith 53</td></tr></tbody></table></div>
 

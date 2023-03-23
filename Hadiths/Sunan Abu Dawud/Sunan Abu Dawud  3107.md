@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াযীদ ইবন খালিদ ইবন রামলী (রহঃ) ..... ইবন আমর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন কোন ব্যক্তি কোন রোগীকে দেখতে যায়, তখন সে যেন এ দু'আ পাঠ করেঃ اللَّهُمَّ اشْفِ عَبْدَكَ يَنْكَأُ لَكَ عَدُوًّا أَوْ يَمْشِي لَكَ إِلَى جَنَازَةٍ অর্থাৎ ইয়া আল্লাহ্‌! আপনি আপনার বান্দাকে রোগমুক্ত করুন, যে আপনার দুশমনকে যখম করবে এবং আপনার সন্তুষ্টি লাভের জন্য কোন (মৃতের) জানাযার সাথে চলবে।
+। ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ কোনো রোগীকে দেখতে গেলে সে যেন বলেঃ ‘‘হে আল্লাহ! আপনার বান্দাকে আরোগ্য দিন যাতে সে আপনার উদ্দেশ্যে শত্রুকে আঘাত হানতে পারে এবং আপনার জন্য জানাযার বা সালাতে শরীক হতে পারে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3107</td></tr><tr><td>Arabic No</td><td>3107</td></tr><tr><td>Reference</td><td>Book 21 Hadith 19</td></tr></tbody></table></div>
 

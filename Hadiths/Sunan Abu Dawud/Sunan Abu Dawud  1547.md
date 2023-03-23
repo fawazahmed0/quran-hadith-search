@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইব্‌নুল আলা (রহঃ) .... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম এরূপ দু’আ করতেনঃ ইয়া আল্লাহ! আমি তোমার নিকট কষ্টদায়ক ক্ষুধা হতে পরিত্রাণ চাচ্ছি, কেননা তা অত্যান্ত মারাত্মক এবং আমি তোমার নিকট (আমানতের) খিয়ানত হতে পরিত্রাণ চাচ্ছি, কেননা এটা একটা ক্ষতিকর স্বভাব। (নাসাঈ)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ ‘‘হে আল্লাহ! আমি আপনার কাছে দুর্ভিক্ষ ও ক্ষুধা হতে আশ্রয় চাই, কারণ তা নিকৃষ্ট শয্যাসঙ্গী। আমি আপনার কাছে আশ্রয় চাই খিয়ানাত করা হতে, কেননা তা খুবই নিকৃষ্ট বন্ধু।’’[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1547</td></tr><tr><td>Arabic No</td><td>1547</td></tr><tr><td>Reference</td><td>Book 8 Hadith 132</td></tr></tbody></table></div>
 

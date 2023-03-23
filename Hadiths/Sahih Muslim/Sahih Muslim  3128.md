@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩০১৯, আন্তর্জাতিক নাম্বারঃ ১২৯৩ ৩০১৯-(৩০২/...) আবূ বাকর ইবনু আবূ শায়বাহ্‌ (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার পরিবারের যে দুর্বলদের আগেভাগে পাঠিয়ে দেন, আমি তাদের সাথে ছিলাম। (ইসলামিক ফাউন্ডেশন ২৯৯৪, ইসলামীক সেন্টার ২৯৯১)
+আবূ বাকর ইবনু আবূ শায়বাহ্‌ (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার পরিবারের যে দুর্বলদের আগেভাগে পাঠিয়ে দেন, আমি তাদের সাথে ছিলাম। (ইসলামিক ফাউন্ডেশন ২৯৯৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3128</td></tr><tr><td>Arabic No</td><td>1293.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 332</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith has been transmitted by Ibn 'Abbas (Allah be pleased with them) with
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தம் குடும்பத்துப் பலவீனர்களை முன்கூட்டியே (மினாவிற்கு) அனுப்பிவைத்தார்கள். அவர்களில் நானும் ஒருவனாயிருந்தேன். இதை அதாஉ பின் அபீரபாஹ் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 15
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தம் குடும்பத்துப் பலவீனர்களை முன்கூட்டியே (மினாவிற்கு) அனுப்பிவைத்தார்கள். அவர்களில் நானும் ஒருவனாயிருந்தேன். இதை அதாஉ பின் அபீரபாஹ் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3128</td></tr><tr><td>Arabic No</td><td>1293.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 332</td></tr></tbody></table></div>
 

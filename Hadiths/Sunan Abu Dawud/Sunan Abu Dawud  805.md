@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... জাবের ইবনু সামুরা (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম যুহর ও আসরের নামাযে সূরা “ওয়াস-সামায়ে ওয়াত-তারিক” এবং “ওয়াস-সামায়ে যাতিল-বুরূজ”-এর অনুরূপ সূরা পাঠ করতেন। (নাসাঈ, তিরমিযী)।
+। জাবির ইবনু সামুরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহর ও ‘আসর সালাতে সূরাহ ‘‘ওয়াস-সামায়ি ওয়াত-ত্বারিক’’ এবং ‘‘ওয়াস-সামায়ি যাতিল-বুরূজ’’ এর অনুরূপ সূরাহ পড়তেন।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>805</td></tr><tr><td>Arabic No</td><td>805</td></tr><tr><td>Reference</td><td>Book 2 Hadith 415</td></tr></tbody></table></div>
 

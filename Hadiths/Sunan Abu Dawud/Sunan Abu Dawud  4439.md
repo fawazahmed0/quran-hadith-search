@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আবদুর রহীম (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা জনৈক ব্যক্তি একজন মহিলার সাথে যিনা করে। এ সময় লোকটি বিবাহিত কিনা তা জানা যায়নি, কাজেই তাকে বেত্রাদণ্ড দেওয়া হয়। এরপর যখন জানা যায় যে, লোকটি বিবাহিত, তখন তাকে পাথর মেরে হত্যা করা হয়।
+। জাবির (রাঃ) সূত্রে বর্ণিত। এক লোক জনৈকা স্ত্রীলোকের সঙ্গে ব্যভিচার করে। পুরুষটি বিবাহিত কি না তা জানা যায়নি। সুতরাং তাকে বেত্রাঘাত করা হয়। অতঃপর তার বৈবাহিক অবস্থা জানা গেলে তাকে পাথর নিক্ষেপে হত্যা করা হয়।[1] দুর্বল মাওকুফ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4439</td></tr><tr><td>Arabic No</td><td>4439</td></tr><tr><td>Reference</td><td>Book 40 Hadith 89</td></tr></tbody></table></div>
 

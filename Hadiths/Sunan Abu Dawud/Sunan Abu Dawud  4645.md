@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতন ইবন নুসায়র (রহঃ) .... আমাশ (রহঃ) বলেনঃ আমি হাজ্জাজের সাথে জুমুআর সালাত আদায় করি। তিনি খুতবা দেন। এরপর পূর্ববর্তী হাদীছের অনুরূপ বর্ণিত হয়েছে। হাজ্জাজ এ খুতবায় বলেনঃ তোমরা অনুসরণ কর আল্লাহর খলীফা এবং তাঁর মনোনীত বান্দা আবদুল মালিক ইবন মারওয়ানের, এ ভাবেই হাদীছ বর্ণিত হয়েছে।
+। সুলাইমান আল-আ‘মাশ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি হাজ্জাজের সঙ্গে জুম‘আহর সালাত আদায় করলাম। তিনি ভাষণ দিলেন ... অতঃপর বর্ণনাকারী আবূ বাকর ইবনু আইয়্যাশের হাদীস উল্লেখ করেন। তিনি ভাষণে বলেন, তোমরা আল্লাহর প্রতিনিধি ও বন্ধু আব্দুল মালিক ইবনু মারওয়ানের কথা শুনবে ও মেনে চলবে। অতঃপর হাদীসের বাকী অংশ উল্লেখ করেন। তিনি বললেন, আমি যদি রবী‘আহ গোত্রকে মুদার গোত্রের অপরাধে পাকড়াও করি। কিন্তু বর্ণনাকারী এখানে অনারবদের ঘটনাটি উল্লেখ করেননি।[1] সহীহ- হাজ্জাজ পর্যন্ত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4645</td></tr><tr><td>Arabic No</td><td>4645</td></tr><tr><td>Reference</td><td>Book 42 Hadith 50</td></tr></tbody></table></div>
 

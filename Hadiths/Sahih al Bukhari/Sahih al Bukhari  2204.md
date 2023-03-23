@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কেউ তাবীর করার পরে খেজুর গাছ বিক্রি করলে সে ফলের মালিক থাকবে, অবশ্য ক্রেতা যদি (ফল লাভের) শর্ত করে, তবে সে পাবে। (২২০৩, মুসলিম ২১/১৫, হাঃ ১৫৪৩, আহমাদ ৪৫০২) (আধুনিক প্রকাশনীঃ ২০৪৭, ইসলামিক ফাউন্ডেশনঃ ২০৬২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, কেউ তাবীর করার পরে খেজুর গাছ বিক্রি করলে সে ফলের মালিক থাকবে, অবশ্য ক্রেতা যদি (ফল লাভের) শর্ত করে, তবে সে পাবে। (২২০৩, মুসলিম ২১/১৫, হাঃ ১৫৪৩, আহমাদ ৪৫০২) (আধুনিক প্রকাশনীঃ ২০৪৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2204</td></tr><tr><td>Arabic No</td><td>2204</td></tr><tr><td>Reference</td><td>Book 34 Hadith 150</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மகரந்தச் சேர்க்கை செய்யப்பட்ட பேரீச்ச மரத்தை யாரேனும் விற்றால், அதன் கனிகள் விற்றவருக்கே சேரும்; வாங்கிய வர் (தமக்குச் சேர வேண்டுமென்று) முன் நிபந்தனையிட்டிருந்தால் தவிர! இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மகரந்தச் சேர்க்கை செய்யப்பட்ட பேரீச்ச மரத்தை யாரேனும் விற்றால், அதன் கனிகள் விற்றவருக்கே சேரும்; வாங்கிய வர் (தமக்குச் சேர வேண்டுமென்று) முன் நிபந்தனையிட்டிருந்தால் தவிர! இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2204</td></tr><tr><td>Arabic No</td><td>2204</td></tr><tr><td>Reference</td><td>Book 34 Hadith 150</td></tr></tbody></table></div>
 

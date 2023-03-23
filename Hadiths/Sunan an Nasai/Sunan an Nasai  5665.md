@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+কুতায়বা ও আলী ইবন হুজুর (রহঃ) ... মাসরূক (রহঃ) থেকে বর্ণিত। তিনি বলেন, কোন বিচারক যখন কোন উপঢৌকন গ্রহণ করে, তখন সে যেন হারাম খায়, আর যখন সে ঘুষ গ্রহণ করে, তখন সে কুফরী পর্যন্ত পৌছায়। মাসরুক (রহঃ) আরো বলেনঃ যে ব্যক্তি শরাব পান করে, সে কাফির হয়ে যায়। তার কুফরী এই যে, তার নামায কবুল হয় না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5665</td></tr><tr><td>Arabic No</td><td>5665</td></tr><tr><td>Reference</td><td>Book 51 Hadith 127</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম ..... আমর ইবন শু‘আয়ব (রহঃ) তাঁর পিতা হতে তাঁর দাদা হতে বর্ণনা করেছেন। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ স্ত্রীর অধিকারী হওয়া ব্যতীত তালাক হয় না। কোন দাস-দাসীর মালিক হওয়া ব্যতীত তাদের আযাদ করা যায় না। আর কোন জিনিস-পত্রের মালিক হওয়া ছাড়া উহা বিক্রি করা যায় না। রাবী ইবন আল্ সাব্বাহ অতিরিক্ত বর্ণনা করেন, কোন মালিক হওয়া ব্যতীত উহার মান্নত করা যায় না।
+। আমর ইবনু শু‘আইব (রহ.) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে মহিলার উপর অধিকার নেই তাকে তালাক দেয়া যায় না, যে গোলামের মালিকানা নেই, তাকে আযাদ করা যায় না। তোমার মালিকানাধীন বস্তুই কেবল বিক্রয়যোগ্য। ইবনুস সাব্বাহ আরো বলেন, যে বস্তুর উপর তোমার মালিকানা নেই তার মান্নাত পূরণ করতে হবে না।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 13 Hadith 16</td></tr></tbody></table></div>
 

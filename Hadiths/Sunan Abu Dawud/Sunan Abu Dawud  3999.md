@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যায়দ ইবন আখরাম (রহঃ) .... মুহাম্মদ ইবন হাযিম (রহঃ) বর্ণিত। তিনি বলেনঃ একদা আ'মাশ (রহঃ) এর সামনেجِبْرَائِلَও وَمِيكَائِلَ এর কিরাত সম্পর্কে জিজ্ঞাসা করা হলে, তিনি সা’আদ তায়ী, আতিয়া আওফী, আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণনা করেন। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিংগাধারী ফেরেশতার বর্ণনা প্রসঙ্গে বলেন যে, তার ডান দিকে জিবরাঈল ও বামদিকে মিকাইল (আঃ) অবস্থান করেন।
+। মুহাম্মাদ ইবনু খাযিম (রহঃ) বলেন, একদা আ‘মাশ (রহঃ)-এর নিকট উল্লেখ করা হলো, জিবরাঈল ও মীকাঈল-এর কিরাআত কিরূপ? তখন আ‘মাশ (রহঃ) আমাদেরকে হাদীস বর্ণনা করলেনঃ আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিংগাওয়ালা (ইসরাফীল) সম্পর্কে আলোচনা প্রসঙ্গে বলেনঃ তার ডানপাশে জিবরাঈল ও তার বামপাশে মীকাঈল থাকবেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3999</td></tr><tr><td>Arabic No</td><td>3999</td></tr><tr><td>Reference</td><td>Book 32 Hadith 31</td></tr></tbody></table></div>
 

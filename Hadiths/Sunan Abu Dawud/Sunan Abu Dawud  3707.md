@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য আঙ্গুরের নবীয তৈরী করা হতো এবং তাতে খেজুরেও দেওয়া হতো। আর কোন কোন সময় খেজুরের নবীয তৈরী করা হতো এবং তাতে আঙ্গুর মিশ্রিত করা হতো।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য আঙ্গুরের নবীয তৈরী করা হতো, অতঃপর তাতে খেজুর ছেড়ে দেয়া হতো বা খেজুরের নবীয তৈরী করা হতো এবং তাতে আঙ্গুর ছেড়ে দেয়া হতো।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3707</td></tr><tr><td>Arabic No</td><td>3707</td></tr><tr><td>Reference</td><td>Book 27 Hadith 39</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবনু হাম্বল .... আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, ইস্তেহাযাগ্রস্ত মহিলাগণ তাদের হায়েযের জন্য সময় অতিক্রান্ত হওয়ার পর প্রত্যহ একবার গোসল করবে এবং তৈল ও ঘি মিশ্রিত বিশেষভাবে তৈরী নেকড়া লজ্জাস্থানে কুরসুপের পরিবর্তে ব্যবহার করবে।
+। ‘আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ইস্তিহাযা আক্রান্ত মহিলার হায়িযকাল অতিক্রান্ত হয়ে গেলে প্রত্যেক দিন গোসল করবে এবং লজ্জাস্থানে ঘি অথবা তেলবিশিষ্ট নেকড়া ব্যবহার করবে। [1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>302</td></tr><tr><td>Arabic No</td><td>302</td></tr><tr><td>Reference</td><td>Book 1 Hadith 302</td></tr></tbody></table></div>
 

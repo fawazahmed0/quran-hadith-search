@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ ক্বিয়ামাত (কিয়ামত) দিবসে সে ব্যক্তির দিকে (দয়ার) দৃষ্টি দিবেন না, যে ব্যক্তি অহঙ্কারবশতঃ ইযার বা পরিধেয় বস্ত্র ঝুলিয়ে পরিধান করে। [মুসলিম ৩৭/৩৯, হাঃ ২০৮৭, আহমাদ ৯০১৪] (আধুনিক প্রকাশনী- ৫৩৬৩, ইসলামিক ফাউন্ডেশন- ৫২৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ ক্বিয়ামাত (কিয়ামত) দিবসে সে ব্যক্তির দিকে (দয়ার) দৃষ্টি দিবেন না, যে ব্যক্তি অহঙ্কারবশতঃ ইযার বা পরিধেয় বস্ত্র ঝুলিয়ে পরিধান করে। [মুসলিম ৩৭/৩৯, হাঃ ২০৮৭, আহমাদ ৯০১৪] (আধুনিক প্রকাশনী- ৫৩৬৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5788</td></tr><tr><td>Arabic No</td><td>5788</td></tr><tr><td>Reference</td><td>Book 77 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: கர்வத்தோடு தமது கீழாடையை(த் தரையில் படும்படி) இழுத்துச் சென்றவரை மறுமை நாளில் அல்லாஹ் ஏறெடுத்தும் பார்க்கமாட்டான்.7 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 77
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: கர்வத்தோடு தமது கீழாடையை(த் தரையில் படும்படி) இழுத்துச் சென்றவரை மறுமை நாளில் அல்லாஹ் ஏறெடுத்தும் பார்க்கமாட்டான்.7 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5788</td></tr><tr><td>Arabic No</td><td>5788</td></tr><tr><td>Reference</td><td>Book 77 Hadith 6</td></tr></tbody></table></div>
 

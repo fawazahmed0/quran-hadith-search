@@ -41,13 +41,13 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নযরলাগা প্রকৃত সত্য এবং তিনি উল্কি অঙ্কণ করা থেকে নিষেধ করেছেন। [৫৭৪০] (আধুনিক প্রকাশনী- ৫৫১১, ইসলামিক ফাউন্ডেশন- ৫৪০৬) সুফ্ইয়ান (সাওরী) (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ‘আবদুর রহমান ইবনু আবিসের নিকট মানসূর কর্তৃক বর্ণিত ‘আবদুল্লাহ (ইবনু মাস‘ঊদ)-এর হাদীস উল্লেখ করি। তখন ‘আবদুর রহমান ইবনু আবিস বলেন, আমি উম্মু ইয়াকূবের মাধ্যমে ‘আবদুল্লাহ থেকে মানসূর বর্ণিত হাদীসের মতই হাদীস শুনেছি। (আধুনিক প্রকাশনী- ৫৫১২, ইসলামিক ফাউন্ডেশন- ৫৪০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5944</td></tr><tr><td>Arabic No</td><td>5944</td></tr><tr><td>Reference</td><td>Book 77 Hadith 159</td></tr></tbody></table></div>
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5944.2</td></tr><tr><td>Arabic No</td><td>5944.2</td></tr><tr><td>Reference</td><td>Book 77 Hadith 160</td></tr></tbody></table></div>
@@ -62,7 +62,7 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The evil eye is a fact," and
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah:(As above 827)
+Narrated 'Abdullah:(As above)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5944.2</td></tr><tr><td>Arabic No</td><td>5944.2</td></tr><tr><td>Reference</td><td>Book 77 Hadith 160</td></tr></tbody></table></div>
 
@@ -84,7 +84,7 @@ Telah menceritakan kepadaku [Yahya] telah menceritakan kepada kami [Abdurrazaq] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘‘கண்ணேறு (திருஷ்டிபடுவது) உண்மை தான்” என்று சொன்னார்கள். மேலும், பச்சை குத்துவதைத் தடை செய்தார்கள்.129 ...இந்த ஹதீஸ் அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்களிடமிருந்தும் இரு வழிகளில் அறிவிக்கப்பட்டுள்ளது. அத்தியாயம் : 77
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘‘கண்ணேறு (திருஷ்டிபடுவது) உண்மை தான்” என்று சொன்னார்கள். மேலும், பச்சை குத்துவதைத் தடை செய்தார்கள்.129 ...இந்த ஹதீஸ் அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்களிடமிருந்தும் இரு வழிகளில் அறிவிக்கப்பட்டுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5944</td></tr><tr><td>Arabic No</td><td>5944</td></tr><tr><td>Reference</td><td>Book 77 Hadith 159</td></tr></tbody></table></div>
 

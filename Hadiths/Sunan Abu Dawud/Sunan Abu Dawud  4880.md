@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবূ শায়বা (রহঃ) .... আবূ বারযা আসলামী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে জনগণ! তোমরা যারা মুখে মুখে ঈমান এনেছ, কিন্তু অন্তরে এখনও ঈমান প্রবেশ করেনি, তোমরা মুসলিমদের গীবত করো না এবং তাদের ইযযাতও নষ্ট করো না। কেননা, যারা মুসলিমদের ইযযাত নষ্ট করতে চায়, আল্লাহ্‌ তাদের ইযযাত নষ্ট করেন। আর আল্লাহ্‌ যাকে অসম্মানিত করতে চান, তাকে তিনি তার ঘরেই অপদস্থ করেন।
+। আবূ বারযাহ আল-আসলামী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে সেসব লোক যারা কেবল মুখেই ঈমান এনেছে কিন্তু ঈমান অন্তরে প্রবেশ করেনি! তোমরা মুসলিমদের গীবত করবে না ও দোষত্রুটি তালাশ করবে না। কারণ যারা তাদের দোষত্রুটি খুঁজে বেড়াবে আল্লাহও তাদের দোষত্রুটি খুঁজবেন। আর আল্লাহ কারো দোষত্রুটি তালাশ করলে তাকে তার তার ঘরের মধ্যেই অপদস্থ করে ছাড়বেন।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4880</td></tr><tr><td>Arabic No</td><td>4880</td></tr><tr><td>Reference</td><td>Book 43 Hadith 108</td></tr></tbody></table></div>
 

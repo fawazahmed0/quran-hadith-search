@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। সাঈদ ইবনু যুবায়র (রহঃ) বলেন, নারীদের জন্য রেশমী ও পশমী সূতার কৃত্রিম চুর ব্যবহারে দোষ নেই। ইমাম আবূ দাঊধ (রহঃ) বলেন, মনে হয় তার মতে নারীদের চুল দ্বারা তৈরী পরচুলা ব্যবহার নিষিদ্ধ। ইমাম আবূ দাঊদ (রহঃ) বলেন, ইমাম আহমাদ (রহঃ)-এর মত হলো, রেশমী ও পশমী সূতার কৃত্রিম ব্যবহারে অসুবিধা নেই।[1] দুর্বল মাকতু মুনকার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4171</td></tr><tr><td>Arabic No</td><td>4171</td></tr><tr><td>Reference</td><td>Book 35 Hadith 13</td></tr></tbody></table></div>
 

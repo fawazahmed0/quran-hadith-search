@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাখলাদ ইবনে খালিদ (রহঃ) ...... ওয়াইল ইবনে হুজর (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পিছনে নামায আদায় করা কালে তিনি উচ্চ স্বরে আমীন বলেন এবং (নামায শেষে) ডান ও বাম দিকে সালাম ফিরান এভাবে যে, আমি তাঁর গণ্ডদেশের সাদা অংশ পরিষ্কারভাবে দেখি।
+। ওয়াইল ইবনু হুজর (রাঃ) সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পিছনে সালাত আদায় করেছেন। তাতে তিনি সশব্দে ‘‘আমীন’’ বলেছেন। তিনি ডানে ও বামে এভাবে সালাম ফিরিয়েছেন যে, আমি তাঁর গালের শুভ্রতা দেখেছি।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>933</td></tr><tr><td>Arabic No</td><td>933</td></tr><tr><td>Reference</td><td>Book 2 Hadith 544</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহইয়া ইবনে হাবীব (রঃ) .... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লাল রঙয়ের জিন-পোশ ব্যবহার করতে নিষেধ করেছেন।
+। আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নরম রেশমী জিনপোষে বসতে নিষেধ করা হয়েছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4050</td></tr><tr><td>Arabic No</td><td>4050</td></tr><tr><td>Reference</td><td>Book 34 Hadith 31</td></tr></tbody></table></div>
 

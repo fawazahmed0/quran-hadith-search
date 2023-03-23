@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ কামেল .... আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ মসজিদের মধ্যে কফ অথবা শ্লেষ্মা ফেলা … পূর্বোক্ত হাদীছের অনুরূপ।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মসজিদে থু থু বা কফ্ ফেলা ... পূর্বোক্ত হাদীসের অনুরূপ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>476</td></tr><tr><td>Arabic No</td><td>476</td></tr><tr><td>Reference</td><td>Book 2 Hadith 86</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'A
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik (r.a.)'den, demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Mescid'de (sümkürme veya) balgam çıkarmak (günahtır)" (Said b. Urve bundan sonra) önceki (475 nolu) rivayetin aynısını zikretti. Diğer tahric: Ahmed b. Hanbel, III, 109, 209, 234, 277
+Enes b. Malik (r.a.)'den, demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Mescid'de (sümkürme veya) balgam çıkarmak (günahtır)" (Said b. Urve bundan sonra) önceki (475 nolu) rivayetin aynısını zikretti. Diğer tahric: Ahmed b. Hanbel, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>476</td></tr><tr><td>Arabic No</td><td>476</td></tr><tr><td>Reference</td><td>Book 2 Hadith 86</td></tr></tbody></table></div>
 

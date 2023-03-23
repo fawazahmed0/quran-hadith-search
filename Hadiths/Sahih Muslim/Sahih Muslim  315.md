@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+কাতান ইবনু নুসায়র (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) বলেন, সাবিত ইবনু কায়স ইবনু শাম্মাস ছিলেন আনসারদের খতীব। যখন এ আয়াত নাযিল হলঃ "তোমরা নবীর কণ্ঠের উপর নিজেদের কণ্ঠ উচু করো না।" বাকী অংশ হাম্মাদ বর্ণিত উল্লেখিত রিওয়ায়াতের অনুরূপ। তবে এ রিওয়ায়াতে সা'দ ইবনু মুআয এর উল্লেখ নেই। আহমাদ ইবনু সাঈদ ইবনু সাখর আদ দারিমী (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত যে, যখন এ আয়াত নায়িল হলঃ অর্থাৎ "তোমরা নবীর কণ্ঠের উপর নিজেদের কণ্ঠ উচু করো না।" এ বর্ণনায় সাদ ইবনু মুআয এর উল্লেখ নেই। (ইসলামিক ফাউন্ডেশনঃ ২১৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ This hadith has been narrated on the authority of Anas b. Malik by another chain
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Katan b. Nüseyr rivayet etti. (Dedi ki) : Bize Ca'fer b. Süleyman rivayet etti. (Dedi ki): Bize Sabit, Enes b. Malik'den naklen rivayet eyledi. Enes; Sabit b. Kays b. Şemmas Ensarın hatibi idi. Şu ayet nazil olunca... diyerek Hammad'ın hadisi gibi rivayet etmiş. Yalnız Enes hadisinde Sa'd b. Muaz'ın zikri geçmez. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 269
+Bize Katan b. Nüseyr rivayet etti. (Dedi ki) : Bize Ca'fer b. Süleyman rivayet etti. (Dedi ki): Bize Sabit, Enes b. Malik'den naklen rivayet eyledi. Enes; Sabit b. Kays b. Şemmas Ensarın hatibi idi. Şu ayet nazil olunca... diyerek Hammad'ın hadisi gibi rivayet etmiş. Yalnız Enes hadisinde Sa'd b. Muaz'ın zikri geçmez. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
 

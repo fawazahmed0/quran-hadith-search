@@ -72,7 +72,7 @@ It is narrated on the authority of Abu Huraira that he said:The people will cons
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bunu bana Zuheyr b. Harb ve Yakub ed-Devraki de tahdis edip dediler ki: Ebu Hureyre: "İnsanlar sorup duracaklar" diyerek Abdulvaris'in rivayet ettiği hadisi aynen rivayet etti. Ancak o isnatta Nebi (Sallallahu aleyhi ve Sellem)'i zikretmedi, ama hadisin sonunda: Allah ve Resulü doğru söylemiştir, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 14410
+Bunu bana Zuheyr b. Harb ve Yakub ed-Devraki de tahdis edip dediler ki: Ebu Hureyre: "İnsanlar sorup duracaklar" diyerek Abdulvaris'in rivayet ettiği hadisi aynen rivayet etti. Ancak o isnatta Nebi (Sallallahu aleyhi ve Sellem)'i zikretmedi, ama hadisin sonunda: Allah ve Resulü doğru söylemiştir, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>348</td></tr><tr><td>Arabic No</td><td>135.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 255</td></tr></tbody></table></div>
 

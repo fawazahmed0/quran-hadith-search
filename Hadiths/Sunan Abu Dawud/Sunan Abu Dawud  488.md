@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু ইয়াহ্ইয়া .... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, কতিপয় ইহুদী রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের নিকট এমন সময় আগমন করে-যখন সাহাবীগণের মধ্যে মসজিদে নববীতে বসা ছিলেন। তাঁরা বলে, হে আবূল কাসিম! আমাদের এক স্ত্রী লোক ও পুরুষ লোক পরস্পর ব্যভিচারে লিপ্ত হয়েছে।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সহাবাদের নিয়ে মসজিদে বসা ছিলেন। এমন সময় তাঁর কাছে ইয়াহুদীরা এসে বলল, হে আবূল কাসিম! পরে তারা তাদের মধ্যকার এমন এক পুরুষ ও এক নারী সম্পর্কে জিজ্ঞেস করল যারা যেনায় লিপ্ত হয়েছে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>488</td></tr><tr><td>Arabic No</td><td>488</td></tr><tr><td>Reference</td><td>Book 2 Hadith 98</td></tr></tbody></table></div>
 

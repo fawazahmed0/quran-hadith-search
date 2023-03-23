@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সামুরাহ ইবনু জুনদাব (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি তাঁর স্বপ্ন বর্ণনার এক পর্যায়ে বলেছেন, যে ব্যক্তির মাথা পাথর দিয়ে বিচূর্ণ করা হচ্ছিল, সে হল ঐ লোক যে কুরআন শিখে তা পরিত্যাগ করে এবং ফরজ সালাত আদায় না করে ঘুমিয়ে থাকে।* (৮৪৫) (আধুনিক প্রকাশনীঃ ১০৭২. , ইসলামিক ফাউন্ডেশনঃ ১০৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সামুরাহ ইবনু জুনদাব (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি তাঁর স্বপ্ন বর্ণনার এক পর্যায়ে বলেছেন, যে ব্যক্তির মাথা পাথর দিয়ে বিচূর্ণ করা হচ্ছিল, সে হল ঐ লোক যে কুরআন শিখে তা পরিত্যাগ করে এবং ফরজ সালাত আদায় না করে ঘুমিয়ে থাকে।* (৮৪৫) (আধুনিক প্রকাশনীঃ ১০৭২. , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1143</td></tr><tr><td>Arabic No</td><td>1143</td></tr><tr><td>Reference</td><td>Book 19 Hadith 24</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'ammal bin Hisyam] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சமுரா பின் ஜுன்துப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், தாம் கனவில் கண்ட கல்லால் தலை நசுக்கப்படும் மனிதரைப் பற்றிக் குறிப்பிடுகையில், “அவர் குர்ஆனைக் கற்று அ(தன்படி செயல்படுவ)தை விட்டுவிட்டவர்; கடமை யான தொழுகையைத் தொழாமல் உறங்கியவர்” என்று கூறினார்கள்.13 அத்தியாயம் : 19
+சமுரா பின் ஜுன்துப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், தாம் கனவில் கண்ட கல்லால் தலை நசுக்கப்படும் மனிதரைப் பற்றிக் குறிப்பிடுகையில், “அவர் குர்ஆனைக் கற்று அ(தன்படி செயல்படுவ)தை விட்டுவிட்டவர்; கடமை யான தொழுகையைத் தொழாமல் உறங்கியவர்” என்று கூறினார்கள்.13 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1143</td></tr><tr><td>Arabic No</td><td>1143</td></tr><tr><td>Reference</td><td>Book 19 Hadith 24</td></tr></tbody></table></div>
 

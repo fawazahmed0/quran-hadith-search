@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বকর ইবন আবূ শায়বা (রহঃ) ..... মাসরূক (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমার সাথে উমার ইবনুল খাত্তাব (রাঃ)-এর দেখা হলে, তিনি জিজ্ঞাসা করেনঃ তুমি ক? আমি বলিঃ মাসরূক ইবন আজদা। তখন উমার (রাঃ) বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আজদা হলো- শয়তানের নাম।
+। মাসরূক (রহঃ) বর্ণনা করেন, আমি উমার ইবনুল খাত্তাব (রাঃ)-এর সঙ্গে সাক্ষাৎ করলে তিনি বললেন, তুমি কে? আমি বললাম, মাসরূক ইবনুল আজদা।’ উমার (রাঃ) বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আল-আজদা হলো একটি শয়তান।[1] দুর্বলঃ মিশকাত হা/ ৪৭৬৭।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4957</td></tr><tr><td>Arabic No</td><td>4957</td></tr><tr><td>Reference</td><td>Book 43 Hadith 185</td></tr></tbody></table></div>
 

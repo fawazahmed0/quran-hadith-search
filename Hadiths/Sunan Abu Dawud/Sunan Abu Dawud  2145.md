@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল ..... আবূ হাররা আর রাকাশী তার চাচা হতে বর্ণনা করেছেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন যে, যদি তোমরা স্ত্রীদের পক্ষ হতে অবাধ্যতার আশংকা কর, তবে তোমরা তাদের বিছানা পৃথক করে দিবে। রাবী হাম্মাদ বলেন, অর্থাৎ তাদের সাথে সহবাস পরিত্যাগ করবে।
+। আবূ হুর্‌রাহ আর-রাকাশী (রহ.) থেকে তার চাচার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি তোমরা স্ত্রীদের অবাধ্য হওয়ার আশংকা করো, তাহলে তাদেরকে তোমাদের বিছানা থেকে পৃথক করে দাও। হাম্মাদ (রহ.) বলেন, অর্থাৎ তাদের সাথে সহবাস বর্জন করো।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2145</td></tr><tr><td>Arabic No</td><td>2145</td></tr><tr><td>Reference</td><td>Book 12 Hadith 100</td></tr></tbody></table></div>
 

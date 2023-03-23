@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 এক ব্যক্তি অন্য একজনের হাত কামড়িয়ে ধরলে তার সামনের দু’টি দাঁত উৎপাটিত হয়ে যায়, এ সংক্রান্ত নালিশ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাতিল করে দেন। (২২৬৫, ২৯৭৩, ৪৪১৭, ৬৮৯৩) (আধুনিক প্রকাশনীঃ ১৭১৫, ইসলামিক ফাউন্ডেশনঃ নাই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>1848</td></tr><tr><td>Reference</td><td>Book 28 Hadith 28</td></tr></tbody></table></div>

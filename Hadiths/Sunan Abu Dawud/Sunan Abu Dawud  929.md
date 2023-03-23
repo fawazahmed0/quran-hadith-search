@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল আলা (রহঃ) .... আবু হুরায়রা (রাঃ) হতে বর্ণিত। রাবী বলেন, এই হাদিসটি মারফু, অর্থাৎ নবী করীমসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, নামাযের মধ্যেও সালামে কোন ক্ষতি নেই। ইমাম আবু দাউদ (রহঃ) বলেন, ইবনুল ফুদায়িল (রহঃ) ইবনুল মাহদীর অনুরূপ বর্ণনা করেছেন। কিন্তু তিনি এর সনদ আবু হুরায়রা (রাঃ) পর্যন্ত মারফু করেননি।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। বর্ণনাকারী বলেন, এ হাদীসটি মারফূ‘। তিনি বলেন, সালাম এবং সালাতে কোন ক্ষতি নেই।[1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, ইবনু ফুযাইল এটি ইবনু মাহদীর শব্দে বর্ণনা করেছেন। কিন্তু তিনি এটিকে মারফূ‘ করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>929</td></tr><tr><td>Arabic No</td><td>929</td></tr><tr><td>Reference</td><td>Book 2 Hadith 540</td></tr></tbody></table></div>
 

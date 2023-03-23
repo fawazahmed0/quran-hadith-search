@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আবদুল্লাহ ইবনু আবূ আউফা (রাঃ) থেকে বর্ণনা করেন যে, গাছের নীচে বাই‘আত গ্রহণকারীদের সংখ্যা ছিল তেরশ। আসলাম গোত্রীয়রা ছিলেন মুহাজিরগণের মোট সংখ্যার এক-অষ্টমাংশ। [মুসলিম ৩৩/১৮, হাঃ ১৮৫৭] (আধুনিক প্রকাশনীঃ ৩৮৪২, ইসলামিক ফাউন্ডেশনঃ ৩৮৪৫) মুহাম্মাদ ইবনু বাশ্শার (রহ.) তাঁর অনুরূপ বর্ণনা করেছেন। আবূ দাউদ (রহ.) ও শু’বাহ (রহ.) আমাদেরকে হাদীস বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4155</td></tr><tr><td>Arabic No</td><td>4155</td></tr><tr><td>Reference</td><td>Book 64 Hadith 199</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Abdullah bin Abi 'Aufa said, "The people (who gave the Pledge of allegiance) und
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்கள் கூறியதாவது: அந்த மரத்தின் கீழ் உறுதிப் பிரமாணம் செய்தவர்கள் (சுமார்) ஆயிரத்து முன்னூறு பேர் ஆவர்.228 (இதில்) “அஸ்லம்' குலத்தார் முஹாஜிர்களில் எட்டில் ஒரு பகுதியினராக இருந்தனர்.229 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 64
+அப்துல்லாஹ் பின் அபீஅவ்ஃபா (ரலி) அவர்கள் கூறியதாவது: அந்த மரத்தின் கீழ் உறுதிப் பிரமாணம் செய்தவர்கள் (சுமார்) ஆயிரத்து முன்னூறு பேர் ஆவர்.228 (இதில்) “அஸ்லம்' குலத்தார் முஹாஜிர்களில் எட்டில் ஒரு பகுதியினராக இருந்தனர்.229 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4155</td></tr><tr><td>Arabic No</td><td>4155</td></tr><tr><td>Reference</td><td>Book 64 Hadith 199</td></tr></tbody></table></div>
 

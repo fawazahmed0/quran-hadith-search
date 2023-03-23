@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭৪৮। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের আংটির নকশা তিন পংক্তির ছিলঃ এক পংক্তিতে মুহাম্মাদ, এক পংক্তিতে রাসূল' এবং এক পংক্তিতে আল্লাহ। সহীহ, দেখুন পূর্বের হাদীস মুহাম্মাদ ইবনু ইয়াহইয়া তার বর্ণিত হাদীসে তিন সারির কথা উল্লেখ করেননি। এ অনুচ্ছেদে উমর (রাঃ) হতেও হাদীস বর্ণিত আছে।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের আংটির নকশা তিন পংক্তির ছিলঃ এক পংক্তিতে মুহাম্মাদ, এক পংক্তিতে রাসূল' এবং এক পংক্তিতে আল্লাহ। সহীহ, দেখুন পূর্বের হাদীস মুহাম্মাদ ইবনু ইয়াহইয়া তার বর্ণিত হাদীসে তিন সারির কথা উল্লেখ করেননি। এ অনুচ্ছেদে উমর (রাঃ) হতেও হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1748</td></tr><tr><td>Arabic No</td><td>1748</td></tr><tr><td>Reference</td><td>Book 24 Hadith 29</td></tr></tbody></table></div>
 

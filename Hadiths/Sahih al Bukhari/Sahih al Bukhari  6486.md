@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি যা জানি তোমরা যদি তা জানতে তবে তোমরা খুব কমই হাসতে এবং খুব বেশি কাঁদতে। [৯৩] (আধুনিক প্রকাশনী- ৬০২৬, ইসলামিক ফাউন্ডেশন- ৬০৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি যা জানি তোমরা যদি তা জানতে তবে তোমরা খুব কমই হাসতে এবং খুব বেশি কাঁদতে। [৯৩] (আধুনিক প্রকাশনী- ৬০২৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6486</td></tr><tr><td>Arabic No</td><td>6486</td></tr><tr><td>Reference</td><td>Book 81 Hadith 75</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நான் அறிவதை நீங்கள் அறிவீர் களாயின் நிச்சயம் குறைவாகச் சிரிப்பீர்கள்; அதிகமாக அழுவீர்கள். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.75 அத்தியாயம் : 81
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நான் அறிவதை நீங்கள் அறிவீர் களாயின் நிச்சயம் குறைவாகச் சிரிப்பீர்கள்; அதிகமாக அழுவீர்கள். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.75 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6486</td></tr><tr><td>Arabic No</td><td>6486</td></tr><tr><td>Reference</td><td>Book 81 Hadith 75</td></tr></tbody></table></div>
 

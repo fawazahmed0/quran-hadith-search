@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন আবী খালাফ (রহঃ) ..... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যখন আল্লাহ্‌ তা'আলা বিনা যুদ্ধে খায়বরকে তাঁর রাসূলকে প্রদান করেন, তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানকার অধিবাসীদের সেরূপ রাখেন, যেরূপ তারা ছিলো। তিনি তাদের উৎপাদিত ফসলের শরীক হন। এরপর তিনি আবদুল্লাহ ইবন রাওয়াহা (রাঃ)-কে সেখানে প্রেরণ করেন, যিনি সেখানে গিয়ে ফলের পরিমাণ নির্ধারণ করেন এবং তাদের থেকে অর্ধেক ফল নিয়ে নেন।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, মহান আল্লাহ তাঁর রাসূলকে খায়বার এলাকা ফাই হিসাবে দিলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানকার অধিবাসীদের সেভাবে রাখলেন যেভাবে তারা ছিলো। তিনি সেখানকার জমি তাদেরকে চাষাবাদ করতে দিলেন। তিনি সেখানে ‘আব্দুল্লাহ ইবনু রাওয়াহা (রাঃ)-কে প্রেরণ করলেন। তিনি সেখানে গিয়ে তাদের ফসলের পরিমাণ নির্ধারণ করলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3414</td></tr><tr><td>Arabic No</td><td>3414</td></tr><tr><td>Reference</td><td>Book 23 Hadith 89</td></tr></tbody></table></div>
 

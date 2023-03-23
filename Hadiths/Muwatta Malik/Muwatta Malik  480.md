@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya related to me from Malik that he had heard that it took Abdullah ibn Umar eight years to learn Surat al-Baqara. (Sura 2)
+Yahya related to me from Malik that he had heard that it took Abdullah ibn Umar eight years to learn Surat al-Baqara. (Sura)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>480</td></tr><tr><td>Arabic No</td><td>480</td></tr><tr><td>Reference</td><td>Book 15 Hadith 11</td></tr></tbody></table></div>
 

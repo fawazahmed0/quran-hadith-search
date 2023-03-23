@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/১৪৩৮। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, বলেছেন : তোমরা রুগ্ন ব্যক্তিকে দেখতে গেলে তার দীর্ঘায়ু কামনা করবে। যদিও তা কিছুই প্রতিরোধ করতে পারে না, তবুও তা রোগীর অন্তরে আনন্দের উদ্রেক করে।
+। আবূ সাঈদ আল-খুদরী (রাঃ) থেকে বর্ণিত। তিনি বলেন, বলেছেন : তোমরা রুগ্ন ব্যক্তিকে দেখতে গেলে তার দীর্ঘায়ু কামনা করবে। যদিও তা কিছুই প্রতিরোধ করতে পারে না, তবুও তা রোগীর অন্তরে আনন্দের উদ্রেক করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1438</td></tr><tr><td>Arabic No</td><td>1438</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
 

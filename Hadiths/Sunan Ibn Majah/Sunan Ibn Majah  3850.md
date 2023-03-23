@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৮৫০। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, ইয়া রাসূলাল্লাহ! আমি যদি কদরের রাত পেয়ে যাই তবে কী দোয়া পড়বো? তিনি বলেনঃ তুমি বলবে (রাঃ) ‘‘হে আল্লাহ! তুমি ক্ষমাকারী, তুমি ক্ষমা করতেই ভালোবাসো। অতএব তুমি আমাকে ক্ষমা করে দাও’’।
+। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, ইয়া রাসূলাল্লাহ! আমি যদি কদরের রাত পেয়ে যাই তবে কী দোয়া পড়বো? তিনি বলেনঃ তুমি বলবে (রাঃ) ‘‘হে আল্লাহ! তুমি ক্ষমাকারী, তুমি ক্ষমা করতেই ভালোবাসো। অতএব তুমি আমাকে ক্ষমা করে দাও’’।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3850</td></tr><tr><td>Arabic No</td><td>3850</td></tr><tr><td>Reference</td><td>Book 34 Hadith 24</td></tr></tbody></table></div>
 

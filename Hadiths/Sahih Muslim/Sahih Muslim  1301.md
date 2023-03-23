@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১১৮৮, আন্তর্জাতিক নাম্বারঃ ৫৭৮ ১১৮৮-(১০৮/...) আবূ বকর ইবনু আবূ শায়বাহ ও আমর আন নাক্কিদ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমরা "ইযাস সামা-উন্ন শাক্‌ক্বাত" এবং "ইক্‌রা বিস্‌মি রব্বিকা" এ দুটি সূরাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে সিজদা করেছি অর্থাৎ- এ দু'টি সূরাহ তিলাওয়াতকালে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিজদা করেছেন। আমরাও তার সাথে সিজদা করেছি। (ইসলামী ফাউন্ডেশন ১১৭৭, ইসলামীক সেন্টার. ১১৮৯)
+আবূ বকর ইবনু আবূ শায়বাহ ও আমর আন নাক্কিদ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমরা "ইযাস সামা-উন্ন শাক্‌ক্বাত" এবং "ইক্‌রা বিস্‌মি রব্বিকা" এ দুটি সূরাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে সিজদা করেছি অর্থাৎ- এ দু'টি সূরাহ তিলাওয়াতকালে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিজদা করেছেন। আমরাও তার সাথে সিজদা করেছি। (ইসলামী ফাউন্ডেশন ১১৭৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1301</td></tr><tr><td>Arabic No</td><td>578.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 139</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abu Huraira reported:We performed prostration along with the Messenger of Allah (ﷺ) (as he recited these verses: )" When the heaven burst asunder" and" Read in the name of Thy Lord" (al-Qur'an, xcvi. 1)
+Abu Huraira reported:We performed prostration along with the Messenger of Allah (ﷺ) (as he recited these verses: )" When the heaven burst asunder" and" Read in the name of Thy Lord" (al-Qur'an, xcvi)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1301</td></tr><tr><td>Arabic No</td><td>578.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 139</td></tr></tbody></table></div>
 

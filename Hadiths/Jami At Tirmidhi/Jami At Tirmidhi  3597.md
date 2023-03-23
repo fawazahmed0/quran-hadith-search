@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৫৯৭। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ “সুবহানাল্লাহ ওয়াল-হামদুলিল্লাহ্ ওয়া লা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার” (আল্লাহ অতীব পবিত্র, সকল প্রশংসা আল্লাহর জন্য, আল্লাহ ছাড়া কোন মা'বূদ নেই, আল্লাহ সর্বশ্রেষ্ঠ) বলা আমার কাছে যে সকল জিনিসের উপর সূর্য উদিত হয় তা হতে বেশি পছন্দনীয়। সহীহঃ মুসলিম (৮/৭০)। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ “সুবহানাল্লাহ ওয়াল-হামদুলিল্লাহ্ ওয়া লা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার” (আল্লাহ অতীব পবিত্র, সকল প্রশংসা আল্লাহর জন্য, আল্লাহ ছাড়া কোন মা'বূদ নেই, আল্লাহ সর্বশ্রেষ্ঠ) বলা আমার কাছে যে সকল জিনিসের উপর সূর্য উদিত হয় তা হতে বেশি পছন্দনীয়। সহীহঃ মুসলিম (৮/৭০)। আবূ ঈসা বলেন, হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3597</td></tr><tr><td>Arabic No</td><td>3597</td></tr><tr><td>Reference</td><td>Book 48 Hadith 228</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জুনদাব ইবনু ‘আব্দুল্লাহ্ (রাযি.) হতে বর্ণিত। তিন বলেন, একবার সাময়িকভাবে জিব্রীল (‘আ.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট হাযিরা হতে বিরত থাকেন। এতে জনৈকা কুরায়শ নারী বলল, তার শয়তানটি তাঁর নিকট আসতে দেরী করছে। তখন অবতীর্ণ হল- ‘‘শপথ পূর্বাহ্নের ও রজনীর! যখন তা হয় নিঝুম। আপনার প্রতিপালক আপনাকে পরিত্যাগ করেননি এবং আপনার প্রতি বিরূপও হননি’’- (সূরাহ্ ওয়ায্যুহা ৯৩/১-৩)। (১১২৪) (আধুনিক প্রকাশনীঃ ১০৫৪, ইসলামিক ফাউন্ডেশনঃ ১০৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জুনদাব ইবনু ‘আব্দুল্লাহ্ (রাযি.) হতে বর্ণিত। তিন বলেন, একবার সাময়িকভাবে জিব্রীল (‘আ.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট হাযিরা হতে বিরত থাকেন। এতে জনৈকা কুরায়শ নারী বলল, তার শয়তানটি তাঁর নিকট আসতে দেরী করছে। তখন অবতীর্ণ হল- ‘‘শপথ পূর্বাহ্নের ও রজনীর! যখন তা হয় নিঝুম। আপনার প্রতিপালক আপনাকে পরিত্যাগ করেননি এবং আপনার প্রতি বিরূপও হননি’’- (সূরাহ্ ওয়ায্যুহা ৯৩/১-৩)। (১১২৪) (আধুনিক প্রকাশনীঃ ১০৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1125</td></tr><tr><td>Arabic No</td><td>1125</td></tr><tr><td>Reference</td><td>Book 19 Hadith 5</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jundab bin 'Abdullah:Gabriel did not come to the Prophet (for some time) and so one of the Quraish women said, "His Satan has deserted him." So came the Divine Revelation: "By the forenoon And by the night When it is still! Your Lord (O Muhammad) has neither Forsaken you Nor hated you." (93.1-3)
+Narrated Jundab bin 'Abdullah:Gabriel did not come to the Prophet (for some time) and so one of the Quraish women said, "His Satan has deserted him." So came the Divine Revelation: "By the forenoon And by the night When it is still! Your Lord (O Muhammad) has neither Forsaken you Nor hated you
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1125</td></tr><tr><td>Arabic No</td><td>1125</td></tr><tr><td>Reference</td><td>Book 19 Hadith 5</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Jundab bin 'Abdullah:Gabriel did not come to the Prophet (for some time
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Al Aswad bin Qais] dari [Jundab bin 'Abdullah radliallahu 'anhu] berkata; "Malaikat Jibril Alaihissalam sekian lama tidak datang menyampaikan wahyu kepada Nabi shallallahu 'alaihi wasallam hingga kemudian ada seorang wanita Quraisy berkata; "Syetannya telah meninggalkannya". Maka turunlah surah Adh-Dhuha: "Wadh dhuhaa wal laili idza sajaa. Maa wadda'aka rabbuka wa qalaa" (Demi waktu dhuha (matahari sepenggalahan naik) dan demi malam apabila telah sunyi (gelap). Rabbmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu") (QS. Adhdhuha 1-3)
+Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Al Aswad bin Qais] dari [Jundab bin 'Abdullah radliallahu 'anhu] berkata; "Malaikat Jibril Alaihissalam sekian lama tidak datang menyampaikan wahyu kepada Nabi shallallahu 'alaihi wasallam hingga kemudian ada seorang wanita Quraisy berkata; "Syetannya telah meninggalkannya". Maka turunlah surah Adh-Dhuha: "Wadh dhuhaa wal laili idza sajaa. Maa wadda'aka rabbuka wa qalaa" (Demi waktu dhuha (matahari sepenggalahan naik) dan demi malam apabila telah sunyi (gelap). Rabbmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu") (QS. Adhdhuha)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1125</td></tr><tr><td>Arabic No</td><td>1125</td></tr><tr><td>Reference</td><td>Book 19 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜுன்துப் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் (வானவர்) ஜிப்ரீல் (அலை) அவர்கள் (சில நாட்கள் ‘வஹீ’ கொண்டு) வரவில்லை. அப்போது குறைஷிக் குலத்தைச் சேர்ந்த ஒரு பெண் “இவரது ஷைத்தான் (இவரை கைவிட்டு விட்டான். எனவேதான்,) அவன் இவரிடம் வருவதில் தாமதம் ஏற்படுகிறது” என்று கூறினாள். அப்போதுதான், “முற்பகல்மீது சத்திய மாக! இருண்டுவிட்ட இரவின் மீது சத்தியமாக! (நபியே!) உம்முடைய இறைவன் உம்மைக் கைவிடவுமில்லை; கோபம் கொள்ளவுமில்லை” (93:1-3) எனும் வசனங்கள் அருளப்பெற்றன. அத்தியாயம் : 19
+ஜுன்துப் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் (வானவர்) ஜிப்ரீல் (அலை) அவர்கள் (சில நாட்கள் ‘வஹீ’ கொண்டு) வரவில்லை. அப்போது குறைஷிக் குலத்தைச் சேர்ந்த ஒரு பெண் “இவரது ஷைத்தான் (இவரை கைவிட்டு விட்டான். எனவேதான்,) அவன் இவரிடம் வருவதில் தாமதம் ஏற்படுகிறது” என்று கூறினாள். அப்போதுதான், “முற்பகல்மீது சத்திய மாக! இருண்டுவிட்ட இரவின் மீது சத்தியமாக! (நபியே!) உம்முடைய இறைவன் உம்மைக் கைவிடவுமில்லை; கோபம் கொள்ளவுமில்லை” (93:1-3) எனும் வசனங்கள் அருளப்பெற்றன. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1125</td></tr><tr><td>Arabic No</td><td>1125</td></tr><tr><td>Reference</td><td>Book 19 Hadith 5</td></tr></tbody></table></div>
 

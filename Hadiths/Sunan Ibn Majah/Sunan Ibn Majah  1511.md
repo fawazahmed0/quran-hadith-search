@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১৫১১। ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পুত্র ইবরাহীম মৃত্যুবরণ করলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার জানাযার সালাত পড়েন এবং বলেনঃ তার জন্য জান্নাতে একজন ধাত্রী নিযুক্ত করা হয়েছে। সে জীবিত থাকলে অবশ্যি সত্যবাদী ও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতো। সে জীবিত থাকলে তার মাতৃকুল স্বাধীন হয়ে যেতো এবং কিবতী থাকতো না।
+। ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পুত্র ইবরাহীম মৃত্যুবরণ করলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার জানাযার সালাত পড়েন এবং বলেনঃ তার জন্য জান্নাতে একজন ধাত্রী নিযুক্ত করা হয়েছে। সে জীবিত থাকলে অবশ্যি সত্যবাদী ও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতো। সে জীবিত থাকলে তার মাতৃকুল স্বাধীন হয়ে যেতো এবং কিবতী থাকতো না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1511</td></tr><tr><td>Arabic No</td><td>1511</td></tr><tr><td>Reference</td><td>Book 6 Hadith 79</td></tr></tbody></table></div>
 

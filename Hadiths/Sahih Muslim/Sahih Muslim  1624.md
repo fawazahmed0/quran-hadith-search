@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৫০৯, আন্তর্জাতিক নাম্বারঃ ৭০৩ ১৫০৯-(৪৫/...) হারমালাহ ইবনু ইয়াহইয়া (রহঃ) ..... 'আবদুল্লাহ ইবনু 'উমার (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি দেখেছি সফরে কখনো রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে দ্রুত চলতে মাগরিব এবং ইশার সালাত দেরী করে একসাথে আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৪৯৪, ইসলামীক সেন্টার ১৫০৩)
+হারমালাহ ইবনু ইয়াহইয়া (রহঃ) ..... 'আবদুল্লাহ ইবনু 'উমার (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি দেখেছি সফরে কখনো রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে দ্রুত চলতে মাগরিব এবং ইশার সালাত দেরী করে একসাথে আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৪৯৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1624</td></tr><tr><td>Arabic No</td><td>703.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 55</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அவசரமாகப் பயணம் புறப்படுவதாக இருந்தால் மஃக்ரிப் தொழுகையைத் தாமதப்படுத்தி, மஃக்ரிபையும் இஷாவையும் சேர்த்துத் தொழுவார்கள். அத்தியாயம் : 6
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அவசரமாகப் பயணம் புறப்படுவதாக இருந்தால் மஃக்ரிப் தொழுகையைத் தாமதப்படுத்தி, மஃக்ரிபையும் இஷாவையும் சேர்த்துத் தொழுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1624</td></tr><tr><td>Arabic No</td><td>703.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 55</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু আতিয়্যাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কন্যার গোসলের ব্যাপারে ইরশাদ করেন : তোমরা তাঁর ডান দিক হতে এবং উযূর অঙ্গসমূহ হতে শুরু করবে। (১৬৭) (আধুনিক প্রকাশনীঃ ১১৭৪, ইসলামিক ফাউন্ডেশনঃ ১১৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু আতিয়্যাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কন্যার গোসলের ব্যাপারে ইরশাদ করেন : তোমরা তাঁর ডান দিক হতে এবং উযূর অঙ্গসমূহ হতে শুরু করবে। (১৬৭) (আধুনিক প্রকাশনীঃ ১১৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1255</td></tr><tr><td>Arabic No</td><td>1255</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு அ(த்)திய்யா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களது மகளை நீராட்டும்போது, “அவரது வலப் புறத் திலிருந்தும் அங்கத் தூய்மை செய்ய வேண்டிய பகுதியிலிருந்தும் ஆரம்பி யுங்கள்” என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் : 23
+உம்மு அ(த்)திய்யா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களது மகளை நீராட்டும்போது, “அவரது வலப் புறத் திலிருந்தும் அங்கத் தூய்மை செய்ய வேண்டிய பகுதியிலிருந்தும் ஆரம்பி யுங்கள்” என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1255</td></tr><tr><td>Arabic No</td><td>1255</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
 

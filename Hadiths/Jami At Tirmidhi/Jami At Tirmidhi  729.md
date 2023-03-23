@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭২৯। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রোযা থাকাবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (স্ত্রীকে) চুম্বন দিতেন এবং আলিঙ্গন করতেন। আর তিনি তোমাদের চেয়ে অনেক বেশি নিয়ন্ত্রণের অধিকারী ছিলেন। — সহীহ, ইবনু মা-জাহ (১৬৭৮), বুখারী, মুসলিম আবু ঈসা এই হাদীসটিকে হাসান সহীহ বলেছেন। আবু মাইসারার নাম আমর এবং পিতার নাম শুরাহবীল। 'লিইরবিহি’ অর্থ ‘তার নিজের উপর।
+। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রোযা থাকাবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (স্ত্রীকে) চুম্বন দিতেন এবং আলিঙ্গন করতেন। আর তিনি তোমাদের চেয়ে অনেক বেশি নিয়ন্ত্রণের অধিকারী ছিলেন। — সহীহ, ইবনু মা-জাহ (১৬৭৮), বুখারী, মুসলিম আবু ঈসা এই হাদীসটিকে হাসান সহীহ বলেছেন। আবু মাইসারার নাম আমর এবং পিতার নাম শুরাহবীল। 'লিইরবিহি’ অর্থ ‘তার নিজের উপর।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>729</td></tr><tr><td>Arabic No</td><td>729</td></tr><tr><td>Reference</td><td>Book 8 Hadith 48</td></tr></tbody></table></div>
 

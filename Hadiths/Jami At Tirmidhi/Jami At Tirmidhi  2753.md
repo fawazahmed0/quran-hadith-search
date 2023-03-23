@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭৫৩। আবূ মিজলায (রহঃ) হতে বর্ণিত আছে, কোন এক লোক বৈঠকের মাঝখানে বসে পড়লে হুযাইফা (রাঃ) বলেন, যে ব্যক্তি বৈঠকের মাঝখানে বসে, সে মুহাম্মাদের ভাষায় লানত প্রাপ্ত অথবা আল্লাহ মুহাম্মাদের জবানীতে তাকে অভিশাপ দিয়েছেন। যঈফ, যঈফা (৬৩৮), মিশকাত (৪৭২২) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবূ মিজলাযের নাম লাহিক ইবনু হুমাইদ।
+। আবূ মিজলায (রহঃ) হতে বর্ণিত আছে, কোন এক লোক বৈঠকের মাঝখানে বসে পড়লে হুযাইফা (রাঃ) বলেন, যে ব্যক্তি বৈঠকের মাঝখানে বসে, সে মুহাম্মাদের ভাষায় লানত প্রাপ্ত অথবা আল্লাহ মুহাম্মাদের জবানীতে তাকে অভিশাপ দিয়েছেন। যঈফ, যঈফা (৬৩৮), মিশকাত (৪৭২২) আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। আবূ মিজলাযের নাম লাহিক ইবনু হুমাইদ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2753</td></tr><tr><td>Arabic No</td><td>2753</td></tr><tr><td>Reference</td><td>Book 43 Hadith 23</td></tr></tbody></table></div>
 

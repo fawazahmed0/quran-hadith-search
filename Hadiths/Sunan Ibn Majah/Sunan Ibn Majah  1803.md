@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৮০৩। মুআয ইবনু জাবাল (রাঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে ইয়ামন পাঠালেন এবং আমাকে নির্দেশ দেন যে, আমি যেন প্রতি চল্লিশ গরুতে পূর্ণ দু’ বছর বয়সের একটি মাদী বাছুর এবং প্রতি ত্রিশ গরুতে একটি নর বা মাদী বাছুর গ্রহণ করি।
+। মুআয ইবনু জাবাল (রাঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে ইয়ামন পাঠালেন এবং আমাকে নির্দেশ দেন যে, আমি যেন প্রতি চল্লিশ গরুতে পূর্ণ দু’ বছর বয়সের একটি মাদী বাছুর এবং প্রতি ত্রিশ গরুতে একটি নর বা মাদী বাছুর গ্রহণ করি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1803</td></tr><tr><td>Arabic No</td><td>1803</td></tr><tr><td>Reference</td><td>Book 8 Hadith 21</td></tr></tbody></table></div>
 

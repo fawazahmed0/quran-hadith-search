@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মিনজাব ইবনু আল হারিস আত তামীমী ও সুওয়াইদ ইবনু সাঈদ (রহঃ) ..... 'আবদুল্লাহ ইবনু মাসউদ (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, যার অন্তরে সরিষার দানা পরিমাণ ঈমান থাকবে সে জাহান্নামে প্রবেশ করবে না। আর যে ব্যক্তির অন্তরে সরিষার দানা পরিমাণ অহংকার থাকবে সেও জান্নাতে প্রবেশ করবে না। (ইসলামিক ফাউন্ডেশনঃ ১৬৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>266</td></tr><tr><td>Arabic No</td><td>91.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 172</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Minjab bin al-Harits at-Tamimi] dan [Suwaid bin 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தமது உள்ளத்தில் கடுகு மணியளவு இறைநம்பிக்கையுள்ள எவரும் நரகத்தில் நுழைய மாட்டார். தமது உள்ளத்தில் கடுகு மணியளவு அகம்பாவமுள்ள எவரும் சொர்க்கத்தில் நுழையமாட்டார். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 1
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தமது உள்ளத்தில் கடுகு மணியளவு இறைநம்பிக்கையுள்ள எவரும் நரகத்தில் நுழைய மாட்டார். தமது உள்ளத்தில் கடுகு மணியளவு அகம்பாவமுள்ள எவரும் சொர்க்கத்தில் நுழையமாட்டார். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>266</td></tr><tr><td>Arabic No</td><td>91.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 172</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Minjab bin al-Harits at-Tamimi] dan [Suwaid bin 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Mincab b. Haris et-Temimi ve Suveyd b. Said'in her birisi Ali b. Mushir'den tahdis etti. Mincab dedi ki: Bize İbn Mushir, A'meş'ten haber verdi. O İbrahim'den, o Alkame'den, o Abdullah'tan şöyle dediğini nakletti: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kalbinde hardal tanesi ağırlığınca iman bulunan hiçbir kimse cehenneme girmeyecek, kalbinde hardal tanesi ağırlığınca kibir bulunan bir kimse cennete girmeyecek. " Diğer tahric: Ebu Davud, 4091; Tirmizi, 1998; İbn Mace, 59; Tuhfetu'l-Eşraf, 9421
+Bize Mincab b. Haris et-Temimi ve Suveyd b. Said'in her birisi Ali b. Mushir'den tahdis etti. Mincab dedi ki: Bize İbn Mushir, A'meş'ten haber verdi. O İbrahim'den, o Alkame'den, o Abdullah'tan şöyle dediğini nakletti: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kalbinde hardal tanesi ağırlığınca iman bulunan hiçbir kimse cehenneme girmeyecek, kalbinde hardal tanesi ağırlığınca kibir bulunan bir kimse cennete girmeyecek. " Diğer tahric: Ebu Davud, 4091; Tirmizi, 1998; İbn Mace, 59; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>266</td></tr><tr><td>Arabic No</td><td>91.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 172</td></tr></tbody></table></div>
 

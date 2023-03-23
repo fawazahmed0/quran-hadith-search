@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন মাসলামা (রহঃ) .... যায়দ ইবন আসলাম (রহঃ) থেকে বর্ণিত যে, ইবন উমার (রাঃ) হলুদ রং দিয়ে তাঁর দাড়ি রঞ্জিত করতেন, যার ফলে তাঁর কাপড়-চোপড় হলুদ বর্ণ ধারণ করতো। তখন তাঁকে জিজ্ঞাসা করা হয়ঃ আপনি কেন এভাবে রঞ্জিত করেন? তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এ দিয়ে রঙীন করতে দেখেছি। আর এ রং তাঁর কাছে খুবই প্রিয় ছিল এবং তিনি এ রং দিয়ে নিজের সমস্ত কাপড়-চোপড়, এমনকি পাগড়ী ও রঞ্জিত করতেন।
+। যায়িদ ইবনুল আসলাম (রহঃ) সূত্রে বর্ণিত। ইবনু উমার (রাঃ) তার দাড়িতে পীত রঙের খেযাব লাগাতেন। এতে তার কাপড়েও ঐ রঙ লেগে যেতো। তাকে প্রশ্ন করা হলো, আপনি পীত রঙ ব্যবহার করেন কেন? তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এ রঙ ব্যবহার করতে দেখেছি এবং তাঁর নিকট এর চেয়ে প্রিয় অন্য কোনো রঙ ছিলো না। তিনি দাড়িতে রঙ লাগানোর সময় তাঁর কাপড়ে, এমন কি পাগড়িতেও এ রঙ লেগে যেতো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4064</td></tr><tr><td>Arabic No</td><td>4064</td></tr><tr><td>Reference</td><td>Book 34 Hadith 45</td></tr></tbody></table></div>
 

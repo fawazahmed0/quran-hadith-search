@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮৭৭। আবূ হুরাইরাহ্ (রাযিঃ) হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের ঘরসমূহ কবরস্থানে পরিণত করো না। যে ঘরে সূরা আল-বাকরাহ তিলাওয়াত করা হয় তাতে শাইতান প্রবেশ করে না। সহীহঃ আহকা-মুল জানা-য়িয (২১২), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ হুরাইরাহ্ (রাযিঃ) হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের ঘরসমূহ কবরস্থানে পরিণত করো না। যে ঘরে সূরা আল-বাকরাহ তিলাওয়াত করা হয় তাতে শাইতান প্রবেশ করে না। সহীহঃ আহকা-মুল জানা-য়িয (২১২), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2877</td></tr><tr><td>Arabic No</td><td>2877</td></tr><tr><td>Reference</td><td>Book 45 Hadith 3</td></tr></tbody></table></div>
 

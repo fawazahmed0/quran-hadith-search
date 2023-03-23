@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনু সিনান ..... হাম্মাম হতে বর্ণিত। হুযায়ফা (রাঃ) মাদায়েন নামক স্থানে একটি দোকানের উপর দাড়িয়ে লোকদের ইমামতি করেন। তখন আবূ মাসউদ (রাঃ) তিনি নামায শেষে বলেন, তুমি কি একথা জাননা যে, লোকদেরকে উঁচু স্থানে দাঁড়িয়ে ইমামতি করতে নিষেধ করা হয়েছে? জবাবে তিনি বলেন, হ্যাঁ আপনি যখন আমার জামা ধরে টান দেন তখন তা আমার স্মরণ হয়।
+। হাম্মাম সূত্রে বর্ণিত। হুযাইফাহ্ (রাঃ) মাদায়িন নামক স্থানে একটি দোকানের উপর দাঁড়িয়ে লোকদের ইমামতি করলেন। এ সময় আবূ মাসউদ (রাঃ) তার জামা ধরে তাকে টান দিলেন। তিনি সালাত শেষে বললেন, আপনার কি জানা নেই যে, লোকদের এরূপ (উঁচু স্থানে দাঁড়িয়ে ইমামতি) করা হতে নিষেধ করা হত? তিনি বলেন, হ্যাঁ, আপনি যখন আমাকে টান দেন তখনই আমার তা স্মরণ হয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 2 Hadith 207</td></tr></tbody></table></div>
 

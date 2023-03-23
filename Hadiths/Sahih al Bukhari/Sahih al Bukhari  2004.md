@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাদ্বীনায় আগমন করে দেখতে পেলেন যে, ইয়াহুদীগণ ‘আশূরার দিনে সওম পালন করে। তিনি জিজ্ঞেস করলেনঃ কি ব্যাপার? (তোমরা এ দিনে সওম পালন কর কেন?) তারা বলল, এ অতি উত্তম দিন, এ দিনে আল্লাহ তা‘আলা বনী ইসরাঈলকে তাদের শত্রুর কবল হতে নাজাত দান করেন, ফলে এ দিনে মূসা (আঃ) সওম পালন করেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন ঃ আমি তোমাদের অপেক্ষা মূসার অধিক নিকটবর্তী, এরপর তিনি এ দিনে সওম পালন করেন এবং সওম পালনের নির্দেশ দেন। (৩৩৯৭, ৩৯৪৩, ৪৬৮০, ৪৭৩৭, মুসলিম ১৩/১৯, হাঃ ১১৩০) (আধুনিক প্রকাশনীঃ ১৮৬৩, ইসলামিক ফাউন্ডেশনঃ ১৮৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাদ্বীনায় আগমন করে দেখতে পেলেন যে, ইয়াহুদীগণ ‘আশূরার দিনে সওম পালন করে। তিনি জিজ্ঞেস করলেনঃ কি ব্যাপার? (তোমরা এ দিনে সওম পালন কর কেন?) তারা বলল, এ অতি উত্তম দিন, এ দিনে আল্লাহ তা‘আলা বনী ইসরাঈলকে তাদের শত্রুর কবল হতে নাজাত দান করেন, ফলে এ দিনে মূসা (আঃ) সওম পালন করেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন ঃ আমি তোমাদের অপেক্ষা মূসার অধিক নিকটবর্তী, এরপর তিনি এ দিনে সওম পালন করেন এবং সওম পালনের নির্দেশ দেন। (৩৩৯৭, ৩৯৪৩, ৪৬৮০, ৪৭৩৭, মুসলিম ১৩/১৯, হাঃ ১১৩০) (আধুনিক প্রকাশনীঃ ১৮৬৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2004</td></tr><tr><td>Arabic No</td><td>2004</td></tr><tr><td>Reference</td><td>Book 30 Hadith 109</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abd
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மதீனா வந்த போது யூதர்கள் ஆஷூரா நாளில் நோன்பு நோற்றதைக் கண்டார்கள். ‘‘இது என்ன நாள்?” என்று கேட்டார்கள். யூதர் கள், ‘‘இது நல்ல நாள். இஸ்ரவேலர்களை, அவர்களின் எதிரியிடமிருந்து அல்லாஹ் காப்பாற்றிய நாள்; இதற்காக (இறைத்தூதர்) மூசா (அலை) அவர்கள் நோன்பு நோற் றார்கள்” என்று கூறினார்கள். நபி (ஸல்) அவர்கள், ‘‘உங்களைவிட மூசாவுக்கு மிகவும் உரியவன் நான்” என்று கூறிவிட்டுத் தாமும் நோன்பு நோற்று, நோன்பு நோற்குமாறு (மக்களுக் குக்) கட்டளையும் இட்டார்கள். அத்தியாயம் : 30
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மதீனா வந்த போது யூதர்கள் ஆஷூரா நாளில் நோன்பு நோற்றதைக் கண்டார்கள். ‘‘இது என்ன நாள்?” என்று கேட்டார்கள். யூதர் கள், ‘‘இது நல்ல நாள். இஸ்ரவேலர்களை, அவர்களின் எதிரியிடமிருந்து அல்லாஹ் காப்பாற்றிய நாள்; இதற்காக (இறைத்தூதர்) மூசா (அலை) அவர்கள் நோன்பு நோற் றார்கள்” என்று கூறினார்கள். நபி (ஸல்) அவர்கள், ‘‘உங்களைவிட மூசாவுக்கு மிகவும் உரியவன் நான்” என்று கூறிவிட்டுத் தாமும் நோன்பு நோற்று, நோன்பு நோற்குமாறு (மக்களுக் குக்) கட்டளையும் இட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2004</td></tr><tr><td>Arabic No</td><td>2004</td></tr><tr><td>Reference</td><td>Book 30 Hadith 109</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abd
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem Medine'ye gelince Yahudilerin aşura günü oruç tuttuğunu gördü. Onlara: "Bu nedir?" diye sordu. Yahudiler: "Bu güzel bir gündür. Allah İsrailoğullarını düşmanlarından bu gün kurtardı, bu sebeple Musa bugün oruç tuttu" dediler. Bunun üzerine Hz. Nebi Sallallahu Aleyhi ve Sellem: "Ben Musa'ya (Musa'nın yaptığını yapmaya) sizden daha layığım" dedi. O gün oruç tuttu ve aşura gününde oruç tutulmasını emretti. Tekrar: 3397, 3943, 4680, 4737
+İbn Abbas r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem Medine'ye gelince Yahudilerin aşura günü oruç tuttuğunu gördü. Onlara: "Bu nedir?" diye sordu. Yahudiler: "Bu güzel bir gündür. Allah İsrailoğullarını düşmanlarından bu gün kurtardı, bu sebeple Musa bugün oruç tuttu" dediler. Bunun üzerine Hz. Nebi Sallallahu Aleyhi ve Sellem: "Ben Musa'ya (Musa'nın yaptığını yapmaya) sizden daha layığım" dedi. O gün oruç tuttu ve aşura gününde oruç tutulmasını emretti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2004</td></tr><tr><td>Arabic No</td><td>2004</td></tr><tr><td>Reference</td><td>Book 30 Hadith 109</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইব্‌ন ইসমাইল (রহঃ) .... আব্দুল্লাহ্‌ (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম হতে বর্ণনা করেছেন। তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) সদ্‌কায়ে ফিত্‌র এক সা’* খেজুর বা এক সা’ বার্লি নির্ধারণ করেছেন, ছোট বড়, স্বাধীন ও ক্রীতদাসের উপর। রাবী মূসা আরও বর্ণনা করেছেন, “নর ও নারীর (জন্যও দেয়)। ইমাম আবু দাউদ বলেন, এই হাদীসে আয়্যূব ও আব্দুল্লাহ্‌ আল-উমারী নিজেদের বর্ণনায় নাফে (রহঃ) এর সূত্রে পুরুষ অথবা নারীর কথাও উল্লেখ করেছেন। (বুখারী, মুসলিম)।
+। ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বাধীন ও গোলাম, ছোট ও বড়- এদের উপর সাদাকাতুল ফিতর এক সা‘ ফারয করেছেন। বর্ণনাকারী মূসা ‘‘পুরুষ ও নারীর’’ কথাটি বৃদ্ধি করেছেন।[1] ইমাম আবূ দাউদ (রহঃ) বলেন, আইয়ূব ও ‘আবদুল্লাহ আল-‘উমারী তাদের হাদীসে নাফি‘ হতে ‘‘পুরুষ ও নারী’’ কথা বর্ণনা করেছেন। সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1613</td></tr><tr><td>Arabic No</td><td>1613</td></tr><tr><td>Reference</td><td>Book 9 Hadith 58</td></tr></tbody></table></div>
 

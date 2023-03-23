@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আল্ মুসান্না ...... আলী (রাঃ) হতে পূর্বোক্ত হাদীসের সনদে ও অর্থে হাদীস বর্ণনা করেছেন। ইবন আব্বাস (রাঃ) বলেন, তোমার জন্য একটি তালাক বাকী ছিল। আর এর জন্যই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ ফায়সালা দিয়েছেন। (অর্থাৎ মুক্ত হওয়ার পর তুমি তিন তালাক পর্যন্ত দেয়ার অধিকারী হয়েছ। এখন বাকী তালাকটি না দিয়ে ফেরত গ্রহণের সুযোগ তোমার রয়েছে।)
+। আলী ইবনুল মুবারক (রহ.) থেকে পূর্বোক্ত হাদীসের সনদ ও অর্থে হাদীস বর্ণিত। তিনি বলেন, ইবনু ‘আব্বাস (রাযি.) বলেছেন, তোমার জন্য আর একটি তালাক অবশিষ্ট আছে এবং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ ফায়সালা দিয়েছেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2188</td></tr><tr><td>Arabic No</td><td>2188</td></tr><tr><td>Reference</td><td>Book 13 Hadith 14</td></tr></tbody></table></div>
 

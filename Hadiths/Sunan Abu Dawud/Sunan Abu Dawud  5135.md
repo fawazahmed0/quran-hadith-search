@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আবদুর রহীম (রহঃ) ..... আলা ইবন হাযরামী (রাঃ) থেকে বর্ণিত যে, তিনি যখন নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে পত্র লেখেন, তিনি নিজের নাম আগে লেখেন।
+। আল আলা ইবনুল হাদরামী (রাঃ) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট চিঠি লিখেছিলেন এবং তাতে প্রথমে নিজের নাম লিখেছিলেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>5135</td></tr><tr><td>Reference</td><td>Book 43 Hadith 363</td></tr></tbody></table></div>
 

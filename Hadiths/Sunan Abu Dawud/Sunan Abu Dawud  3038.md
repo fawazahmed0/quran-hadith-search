@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইবন মুহাম্মদ নুফায়লী (রহঃ) ..... মু'আয (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মু'আয (রাঃ)-কে ইয়ামনে প্রেরণ করেন, তখন তাঁকে এরূপ নির্দেশ দেন যে, প্রত্যেক প্রাপ্তবয়স্ক ব্যক্তির নিকট হতে এক দীনার অথবা এক দীনার মূল্যের মু'আফিরী নামক কাপড়, যা ইয়ামনে উৎপন্ন হয় (তা জিযিয়া হিসাবে গ্রহণ করবে)।
+। মু‘আয (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে ইয়ামেনে প্রেরণের সময় নির্দেশ দেনঃ প্রত্যেক প্রাপ্তবয়স্ক ব্যক্তি থেকে এক দীনার করে জিযয়া নিবে কিংবা সমমূল্যের ইয়ামেনে উৎপাদিত মু‘আফিরী কাপড় গ্রহণ করবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3038</td></tr><tr><td>Arabic No</td><td>3038</td></tr><tr><td>Reference</td><td>Book 20 Hadith 111</td></tr></tbody></table></div>
 

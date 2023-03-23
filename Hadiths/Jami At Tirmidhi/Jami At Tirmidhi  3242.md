@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২৪২। আয়িশাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, হে আল্লাহর রাসূল! “কিয়ামতের দিন সমস্ত পৃথিবী তার হাতের মুষ্টিতে এবং আকাশমণ্ডলী থাকবে তার ডান হাতে ভাজ করা অবস্থায়"- (সূরা যুমার ৬৭), সেদিন মু’মিনগণ কোথায় থাকবে? তিনি বললেনঃ হে আয়িশাহ! পুলসিরাতের উপর। সহীহঃ দেখুন পূর্বের হাদীস। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আয়িশাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, হে আল্লাহর রাসূল! “কিয়ামতের দিন সমস্ত পৃথিবী তার হাতের মুষ্টিতে এবং আকাশমণ্ডলী থাকবে তার ডান হাতে ভাজ করা অবস্থায়"- (সূরা যুমার ৬৭), সেদিন মু’মিনগণ কোথায় থাকবে? তিনি বললেনঃ হে আয়িশাহ! পুলসিরাতের উপর। সহীহঃ দেখুন পূর্বের হাদীস। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 47 Hadith 294</td></tr></tbody></table></div>
 

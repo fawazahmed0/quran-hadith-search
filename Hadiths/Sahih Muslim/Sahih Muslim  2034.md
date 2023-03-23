@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৯১৯, আন্তর্জাতিক নাম্বারঃ ৮৮০ ১৯১৯-(৬৫/৮৮০) যুহায়র ইবনু হারব (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমুআর দিন ফজরের সালাতে "আলিফ লা~ম মী~ম তানীল" ও "হাল আতা-" সূরাদ্বয় পাঠ করতেন। (ইসলামী ফাউন্ডেশন ১৯০৪, ইসলামীক সেন্টার ১৯১১)
+যুহায়র ইবনু হারব (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমুআর দিন ফজরের সালাতে "আলিফ লা~ম মী~ম তানীল" ও "হাল আতা-" সূরাদ্বয় পাঠ করতেন। (ইসলামী ফাউন্ডেশন ১৯০৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2034</td></tr><tr><td>Arabic No</td><td>880.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 84</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வெள்ளிக்கிழமை ஃபஜ்ர் தொழுகையில் "அலிஃப் லாம் மீம் தன்ஸீல்" ("அஸ்ஸஜ்தா" எனும் 32ஆவது) அத்தியாயத்தையும் ‘ஹல் அத்தா அலல் இன்சான்" எனும் (76ஆவது) அத்தியாயத்தையும் ஓதுவார்கள். அத்தியாயம் : 7
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வெள்ளிக்கிழமை ஃபஜ்ர் தொழுகையில் "அலிஃப் லாம் மீம் தன்ஸீல்" ("அஸ்ஸஜ்தா" எனும் 32ஆவது) அத்தியாயத்தையும் ‘ஹல் அத்தா அலல் இன்சான்" எனும் (76ஆவது) அத்தியாயத்தையும் ஓதுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2034</td></tr><tr><td>Arabic No</td><td>880.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 84</td></tr></tbody></table></div>
 

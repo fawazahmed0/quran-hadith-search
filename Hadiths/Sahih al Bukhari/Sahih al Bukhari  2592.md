@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মায়মূনাহ বিনতে হারিস (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর অনুমতি ব্যতীত তিনি আপন বাঁদীকে মুক্ত করে দিলেন। অতঃপর তার ঘরে নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর অবস্থানের দিন তিনি বললেন, হে আল্লাহর রাসূল! আপনি কি জানেন না আমি আমার বাঁদী মুক্ত করে দিয়েছি? তিনি বললেন, তুমি কি তা করেছ? মায়মূনাহ (রাঃ) বললেন, হ্যাঁ। তিনি বললেন, শুন! তুমি যদি তোমার মামাদেরকে এটা দান করতে তাহলে তোমার জন্য বেশি নেকির কাজ হত। (২৫৯৪) অন্য সনদে বাকর ইবনু মুযার (রহ.) ---- কুরায়ব (রহ.) হতে বর্ণিত যে, মায়মূনাহ (রাঃ) গোলাম মুক্ত করেছেন। (মুসলিম ১২/১৪, হাঃ ৯৯৯, আহমাদ ২৬৮৮৬) (আধুনিক প্রকাশনীঃ ২৪০৪, ইসলামিক ফাউন্ডেশনঃ ২৪২১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মায়মূনাহ বিনতে হারিস (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর অনুমতি ব্যতীত তিনি আপন বাঁদীকে মুক্ত করে দিলেন। অতঃপর তার ঘরে নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর অবস্থানের দিন তিনি বললেন, হে আল্লাহর রাসূল! আপনি কি জানেন না আমি আমার বাঁদী মুক্ত করে দিয়েছি? তিনি বললেন, তুমি কি তা করেছ? মায়মূনাহ (রাঃ) বললেন, হ্যাঁ। তিনি বললেন, শুন! তুমি যদি তোমার মামাদেরকে এটা দান করতে তাহলে তোমার জন্য বেশি নেকির কাজ হত। (২৫৯৪) অন্য সনদে বাকর ইবনু মুযার (রহ.) ---- কুরায়ব (রহ.) হতে বর্ণিত যে, মায়মূনাহ (রাঃ) গোলাম মুক্ত করেছেন। (মুসলিম ১২/১৪, হাঃ ৯৯৯, আহমাদ ২৬৮৮৬) (আধুনিক প্রকাশনীঃ ২৪০৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2592</td></tr><tr><td>Arabic No</td><td>2592</td></tr><tr><td>Reference</td><td>Book 51 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] dari [Al Laits] dari [Yazid] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அன்னை மைமூனா பின்த் அல் ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: நான் ஓர் அடிமைப் பெண்ணை விடுதலை செய்தேன். ஆனால், நபி (ஸல்) அவர்களிடம் அதற்காக அனுமதி கேட்க வில்லை. என்னிடம் நபி (ஸல்) அவர்கள் தங்குகின்ற முறை வந்தபோது, ‘‘அல்லாஹ் வின் தூதரே! என் அடிமைப் பெண்ணை விடுதலை செய்துவிட்டேனே, அறிவீர் களா?” என்று கேட்டேன். அதற்கு நபி (ஸல்) அவர்கள், ‘‘நீ (விடுதலை) செய்து விட்டாயா?” என்று கேட்க, நான் ‘‘ஆம், (விடுதலை செய்துவிட்டேன்)” என்று கூறினேன். நபி (ஸல்) அவர்கள், ‘‘நீ உன் தாயின் சகோதரர்களுக்கு (தாய் மாமன்களுக்கு அன்பளிப்பாக) அவளைக் கொடுத்திருந் தால் உனக்குப் பெரும் நற்பலன் கிடைத் திருக்குமே” என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 50
+அன்னை மைமூனா பின்த் அல் ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: நான் ஓர் அடிமைப் பெண்ணை விடுதலை செய்தேன். ஆனால், நபி (ஸல்) அவர்களிடம் அதற்காக அனுமதி கேட்க வில்லை. என்னிடம் நபி (ஸல்) அவர்கள் தங்குகின்ற முறை வந்தபோது, ‘‘அல்லாஹ் வின் தூதரே! என் அடிமைப் பெண்ணை விடுதலை செய்துவிட்டேனே, அறிவீர் களா?” என்று கேட்டேன். அதற்கு நபி (ஸல்) அவர்கள், ‘‘நீ (விடுதலை) செய்து விட்டாயா?” என்று கேட்க, நான் ‘‘ஆம், (விடுதலை செய்துவிட்டேன்)” என்று கூறினேன். நபி (ஸல்) அவர்கள், ‘‘நீ உன் தாயின் சகோதரர்களுக்கு (தாய் மாமன்களுக்கு அன்பளிப்பாக) அவளைக் கொடுத்திருந் தால் உனக்குப் பெரும் நற்பலன் கிடைத் திருக்குமே” என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2592</td></tr><tr><td>Arabic No</td><td>2592</td></tr><tr><td>Reference</td><td>Book 51 Hadith 26</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] dari [Al Laits] dari [Yazid] d
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas'ın azatlı kölesi Kureyb'den rivayet edilmiştir: Meymune bintü'l-Haris, İbn Abbas'a şöyle anlatmıştır: Hz. Nebi'den izin almadan cariyemi azat etmiştim. Hz. Nebi'in benim odamda geceleyeceği gün gelince: "Ey Allah'ın Resulü! Fark ettin mi cariyemi azat ettim" dedim. Hz. Nebi: "Öyle mi yaptın/" buyurdu. "Evet" dedim. "(Azat edeceğine) dayılarına verseydin mükafatın daha bol olurdu" buyurdu. Tekrar: 2594
+İbn Abbas'ın azatlı kölesi Kureyb'den rivayet edilmiştir: Meymune bintü'l-Haris, İbn Abbas'a şöyle anlatmıştır: Hz. Nebi'den izin almadan cariyemi azat etmiştim. Hz. Nebi'in benim odamda geceleyeceği gün gelince: "Ey Allah'ın Resulü! Fark ettin mi cariyemi azat ettim" dedim. Hz. Nebi: "Öyle mi yaptın/" buyurdu. "Evet" dedim. "(Azat edeceğine) dayılarına verseydin mükafatın daha bol olurdu" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2592</td></tr><tr><td>Arabic No</td><td>2592</td></tr><tr><td>Reference</td><td>Book 51 Hadith 26</td></tr></tbody></table></div>
 

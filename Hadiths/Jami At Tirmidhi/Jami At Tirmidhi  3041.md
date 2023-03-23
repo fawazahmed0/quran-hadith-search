@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০৪১। আল-বারাআ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, (উত্তরাধিকার প্রসঙ্গে) সবশেষে যে আয়াত অবতীর্ণ হয় তা হলঃ “লোকেরা তোমার নিকট বিধান জানতে চায়। বল, পিতা-মাতাহীন নিঃসন্তান ব্যক্তি প্রসঙ্গে আল্লাহ তা'আলা তোমাদেরকে বিধান দিচ্ছেন..." (সূরা আন-নিসা ১৭৬)। সহীহঃ সহীহ আবূ দাউদ (২৫৭০), বুখারী (৪৬০৫), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান। আবূস সাফারের নাম সাঈদ ইবনু আহমাদ আস-সাওরী। তিনি ইবনু ইউহমিদ আস-সাওরী বলেও কথিত।
+। আল-বারাআ (রাযিঃ) হতে বর্ণিত, তিনি বলেন, (উত্তরাধিকার প্রসঙ্গে) সবশেষে যে আয়াত অবতীর্ণ হয় তা হলঃ “লোকেরা তোমার নিকট বিধান জানতে চায়। বল, পিতা-মাতাহীন নিঃসন্তান ব্যক্তি প্রসঙ্গে আল্লাহ তা'আলা তোমাদেরকে বিধান দিচ্ছেন..." (সূরা আন-নিসা ১৭৬)। সহীহঃ সহীহ আবূ দাউদ (২৫৭০), বুখারী (৪৬০৫), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান। আবূস সাফারের নাম সাঈদ ইবনু আহমাদ আস-সাওরী। তিনি ইবনু ইউহমিদ আস-সাওরী বলেও কথিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3041</td></tr><tr><td>Arabic No</td><td>3041</td></tr><tr><td>Reference</td><td>Book 47 Hadith 93</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara:"The last Ayah revealed" or, "The last thing revealed was: They ask you about a legal verdict. Say: 'Allah directs (thus) regarding Al-Kalalah (4:176)
+Narrated Al-Bara:"The last Ayah revealed" or, "The last thing revealed was: They ask you about a legal verdict. Say: 'Allah directs (thus) regarding Al-Kalalah (4:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3041</td></tr><tr><td>Arabic No</td><td>3041</td></tr><tr><td>Reference</td><td>Book 47 Hadith 93</td></tr></tbody></table></div>
 

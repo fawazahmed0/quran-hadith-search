@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মিনহাল (রহঃ) ..... আমর ইবন শুআইব (রহঃ) তাঁর পিতা হতে এবং তিনি তাঁর দাদা থেকে বর্ণনা করেছেন। তিনি বলেন, একদা জনৈক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট উপস্থিত হয়ে বলেঃ ইয়া রাসূলাল্লাহ! আমার সম্পদ ও সন্তান-সন্ততি আছে, আর আমার পিতা আমার মালের মুখাপেক্ষী। তখন তিনি বলেনঃ তুমি এবং তোমার মাল-সবই তোমার পিতার। আর তোমাদের সন্তান-সন্ততি তোমাদের জন্য উত্তম উপার্জন। কাজেই, তোমরা তোমাদের সন্তানের উপার্জিত মাল ভক্ষণ করবে।
+। ‘আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও দাদার সূত্রে বর্ণিত। এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, হে আল্লাহর রাসূল! আমার সম্পদও আছে সন্তানও আছে। আমার পিতা আমার সম্পদের মুখাপেক্ষী। তিনি বলেনঃ তুমি এবং তোমার সম্পদ উভয়ই তোমার পিতার। তোমাদের সন্তান তোমাদের জন্য সর্বোত্তম উপার্জন। সুতরাং তোমরা তোমাদের সন্তানদের উপার্জন খাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3530</td></tr><tr><td>Arabic No</td><td>3530</td></tr><tr><td>Reference</td><td>Book 24 Hadith 115</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Minhal] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr b. Şu'ayb'ın, babası kanalıyla dedesinden rivayet ettiğine göre; bir adam Hz. Nebi (s.a.v.)'e gelip: Ya Rasûlallah, benim malım var, çocuğum var, fakat babam malımı bitirecek, dedi. Rasûlullah (Sallallahu aleyhi ve Sellem) da: "Sen ve malın babana aitsiniz. Şüphesiz çocuklarınız, kazancınızın en temizlerindendir. Çocuklarınızın kazancından yiyiniz" buyurdu. Diğer tahric: îbn Mace, ticârât (2292)
+Amr b. Şu'ayb'ın, babası kanalıyla dedesinden rivayet ettiğine göre; bir adam Hz. Nebi (s.a.v.)'e gelip: Ya Rasûlallah, benim malım var, çocuğum var, fakat babam malımı bitirecek, dedi. Rasûlullah (Sallallahu aleyhi ve Sellem) da: "Sen ve malın babana aitsiniz. Şüphesiz çocuklarınız, kazancınızın en temizlerindendir. Çocuklarınızın kazancından yiyiniz" buyurdu. Diğer tahric: îbn Mace, ticârât
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3530</td></tr><tr><td>Arabic No</td><td>3530</td></tr><tr><td>Reference</td><td>Book 24 Hadith 115</td></tr></tbody></table></div>
 

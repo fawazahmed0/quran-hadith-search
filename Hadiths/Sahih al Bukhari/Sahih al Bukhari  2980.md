@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে কুরবানীর গোশত মদিনা্ পর্যন্ত পাথেয় হিসেবে গ্রহণ করতাম। (১৭১৯) (আধুনিক প্রকাশনীঃ ২৭৫৯, ইসলামিক ফাউন্ডেশনঃ ২৭৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে কুরবানীর গোশত মদিনা্ পর্যন্ত পাথেয় হিসেবে গ্রহণ করতাম। (১৭১৯) (আধুনিক প্রকাশনীঃ ২৭৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2980</td></tr><tr><td>Arabic No</td><td>2980</td></tr><tr><td>Reference</td><td>Book 56 Hadith 189</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jabir bin 'Abdullah:During the life-time of the Prophet (ﷺ) we used to take the meat of sacrificed animals (as journey food) to Medina. (See Hadith No. 474 Vol. 7)
+Narrated Jabir bin 'Abdullah:During the life-time of the Prophet (ﷺ) we used to take the meat of sacrificed animals (as journey food) to Medina. (See Hadith No. 474 Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2980</td></tr><tr><td>Arabic No</td><td>2980</td></tr><tr><td>Reference</td><td>Book 56 Hadith 189</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Ali bin 'Abdullah] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் காலத்தில், நாங்கள் குர்பானி இறைச்சிகளைப் பயண உணவாக (மக்காவிலிருந்து) மதீனாவுக்கு எடுத்துச்செல்வோம். அத்தியாயம் : 56
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் காலத்தில், நாங்கள் குர்பானி இறைச்சிகளைப் பயண உணவாக (மக்காவிலிருந்து) மதீனாவுக்கு எடுத்துச்செல்வோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2980</td></tr><tr><td>Arabic No</td><td>2980</td></tr><tr><td>Reference</td><td>Book 56 Hadith 189</td></tr></tbody></table></div>
 

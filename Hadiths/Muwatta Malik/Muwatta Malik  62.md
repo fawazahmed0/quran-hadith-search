@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Ishaq bin Abdullah bin Abu Thalhah]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik (r.a.) der ki: Bir gün ikindi namazı yaklaşmıştı, insanlar abdest almak için su arıyorlar, bulamıyorlardı. O sırada Resulullah'a bir kapta su getirdiler. Hz.Nebi elini kabın içine koydu, sonra ashabına o kaptan abdest almalarını emretti. Enes der ki: Suyu görüyordum, Resul-i Ekrem'in parmaklarının arasından kaynıyordu. Bütün insanlar ondan abdest aldılar.[34]
+Enes b. Malik (r.a.) der ki: Bir gün ikindi namazı yaklaşmıştı, insanlar abdest almak için su arıyorlar, bulamıyorlardı. O sırada Resulullah'a bir kapta su getirdiler. Hz.Nebi elini kabın içine koydu, sonra ashabına o kaptan abdest almalarını emretti. Enes der ki: Suyu görüyordum, Resul-i Ekrem'in parmaklarının arasından kaynıyordu. Bütün insanlar ondan abdest aldılar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Arabic No</td><td>62</td></tr><tr><td>Reference</td><td>Book 2 Hadith 31</td></tr></tbody></table></div>
 

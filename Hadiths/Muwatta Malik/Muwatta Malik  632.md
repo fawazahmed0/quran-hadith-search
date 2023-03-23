@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৩. আবদুল্লাহ ইবন আব্বাস (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রমযানের উল্লেখ করিলেন। (এই প্রসঙ্গে) তিনি বলিলেনঃ তোমরা চাঁদ না দেখিয়া রোযা রাখিও না এবং চাঁদ না দেখা পর্যন্ত রোযা খুলিও না। আর যদি আকাশ তোমাদের উপর মেঘাচ্ছাদিত হয়, তবে সংখ্যা ত্রিশ পূর্ণ করিও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>632</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
 

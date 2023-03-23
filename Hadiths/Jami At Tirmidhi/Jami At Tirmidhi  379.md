@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৯। আবূ যার (রাঃ) হতে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি রাসাল্লাম বলেন ; তোমাদের কেউ যখন নামাযে দাঁড়ায় তখন সে যেন তার সামনের কাকর না মোছে। কেননা তখন রহমত’ তার সামনে -থাকে। যঈফ, ইবনু মাজাহ (১০২৭)
+। আবূ যার (রাঃ) হতে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি রাসাল্লাম বলেন ; তোমাদের কেউ যখন নামাযে দাঁড়ায় তখন সে যেন তার সামনের কাকর না মোছে। কেননা তখন রহমত’ তার সামনে -থাকে। যঈফ, ইবনু মাজাহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>379</td></tr><tr><td>Arabic No</td><td>379</td></tr><tr><td>Reference</td><td>Book 2 Hadith 231</td></tr></tbody></table></div>
 

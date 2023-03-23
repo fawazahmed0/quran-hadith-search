@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি মানুষের শোকর আদায় করে না, সে আল্লাহ্‌র শোকর আদায় করে না।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি মানুষের প্রতি কৃতজ্ঞতা প্রকাশ করে না সে আল্লাহর প্রতিও কৃতজ্ঞতা প্রকাশ করে না। অথবা যে ব্যক্তি মানুষের প্রতি অকৃতজ্ঞ, সে আল্লাহর প্রতিও অকৃতজ্ঞ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4811</td></tr><tr><td>Arabic No</td><td>4811</td></tr><tr><td>Reference</td><td>Book 43 Hadith 39</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre'den (rivayet edildiğine göre) Nebi (Sallallahu aleyhi ve Sellem): "İnsanlara teşekkür etmeyen, Allah'a şükretmez."buyurmuştur. Diğer tahric: Tirmizî, birr; Ahmed b. Hanbel, II-258, 295, 303, 388, 461, 492, III, 32, 74, IV, 278, 375, V, 211,212
+Ebu Hureyre'den (rivayet edildiğine göre) Nebi (Sallallahu aleyhi ve Sellem): "İnsanlara teşekkür etmeyen, Allah'a şükretmez."buyurmuştur. Diğer tahric: Tirmizî, birr; Ahmed b. Hanbel, II-258, 295, 303, 388, 461, 492, III, 32, 74, IV, 278, 375, V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4811</td></tr><tr><td>Arabic No</td><td>4811</td></tr><tr><td>Reference</td><td>Book 43 Hadith 39</td></tr></tbody></table></div>
 

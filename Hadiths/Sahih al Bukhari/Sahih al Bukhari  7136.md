@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। তিনি বলেছেনঃ ইয়াজূজ-মাজূজেরস দেয়াল এ পরিমাণ খুলে গেছে। রাবী ওহায়ব নব্বই সংখ্যা নির্দেশক গোলাকৃতি তৈরি করে (দেখালেন)। [৩৩৪৭] (আধুনিক প্রকাশনী- ৬৬৩৭, ইসলামিক ফাউন্ডেশন- ৬৬৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। তিনি বলেছেনঃ ইয়াজূজ-মাজূজেরস দেয়াল এ পরিমাণ খুলে গেছে। রাবী ওহায়ব নব্বই সংখ্যা নির্দেশক গোলাকৃতি তৈরি করে (দেখালেন)। [৩৩৪৭] (আধুনিক প্রকাশনী- ৬৬৩৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7136</td></tr><tr><td>Arabic No</td><td>7136</td></tr><tr><td>Reference</td><td>Book 92 Hadith 83</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: யஃஜூஜ் மற்றும் மஃஜூஜ் கூட்டத்தாரின் தடுப்புச் சுவர் இந்த அளவுக்குத் திறக்கப்படுகின்றது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அறிவிப்பாளர்களில் ஒருவரான வுஹைப் பின் காலித் (ரஹ்) அவர்கள் (அரபு எண்) தொண்ணூறு என்பதைப் போன்று (விரல்களை) மடித்துக் காட்டினார்கள்.68 அத்தியாயம் : 92
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: யஃஜூஜ் மற்றும் மஃஜூஜ் கூட்டத்தாரின் தடுப்புச் சுவர் இந்த அளவுக்குத் திறக்கப்படுகின்றது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அறிவிப்பாளர்களில் ஒருவரான வுஹைப் பின் காலித் (ரஹ்) அவர்கள் (அரபு எண்) தொண்ணூறு என்பதைப் போன்று (விரல்களை) மடித்துக் காட்டினார்கள்.68 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7136</td></tr><tr><td>Arabic No</td><td>7136</td></tr><tr><td>Reference</td><td>Book 92 Hadith 83</td></tr></tbody></table></div>
 

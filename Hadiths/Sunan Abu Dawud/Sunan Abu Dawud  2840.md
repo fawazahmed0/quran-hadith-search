@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ দাঊদ (রহঃ) .... হাসান (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ দুঃখ-কষ্ট বিদূরিত করার অর্থ হলো, তার মাথা মুন্ডন করে দেওয়া।
+। হাসান বাসরী (রহঃ) সূত্রে বর্ণিত। তিনি বলতেন, কষ্টদায়ক বস্তু দূর করা দ্বারা মাথা মুন্ডানোকে বুঝানো হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2840</td></tr><tr><td>Arabic No</td><td>2840</td></tr><tr><td>Reference</td><td>Book 16 Hadith 53</td></tr></tbody></table></div>
 

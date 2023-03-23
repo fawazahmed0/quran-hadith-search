@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবু বকর ইবন ইসহাক (রহঃ) ... সাঈদ ইবন মুসায়্যাব (রহঃ) থেকে বর্ণিত যে, এক মহিলা আয়েশা (রাঃ)-এর নিকট উপস্থিত হয়ে দেখল যে, তার হাতে একটি ছড়ি রয়েছে। মহিলা জিজ্ঞাসা করলোঃ ইহা কি? তিনি বললেনঃ ইহা গিরগিটি মারার জন্য। কেননা, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক প্রাণীই ইবরাহীম (আঃ)-এর আগুন নিৰ্বাপিত করতে চেষ্টা করেছিল, তবে এ জীবটি ব্যতীত। অতএব, তিনি একে হত্যা করতে আমাদেরকে আদেশ করেছেন এবং তিনি ঘরের সাপ মারতে নিষেধ করেছেন। তবে পিঠে সাদা দুই দাগ বিশিষ্ট এবং ছোট লেজ বিশিষ্ট সাপ ছাড়া। কেননা, এই দুই প্রকারের সাপ চোখ অন্ধ করে দেয় এবং স্ত্রীলোকের গর্ভপাত ঘটায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>2831</td></tr><tr><td>Reference</td><td>Book 24 Hadith 214</td></tr></tbody></table></div>
 

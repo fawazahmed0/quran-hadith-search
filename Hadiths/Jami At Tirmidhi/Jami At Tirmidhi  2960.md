@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯৬০। আনাস (রাযিঃ) হতে বর্ণিত, তিনি বলেন, "উমার ইবনুল খাত্তাব (রাযিঃ) বলেছেন, আমি বললাম, হে আল্লাহর রাসূল! আপনি মাকামে ইবরাহীমকে যদি নামাযের জায়গা হিসেবে গ্রহণ করতেন! এ প্রসঙ্গেই অবতীর্ণ হয়ঃ “ওয়াত্তাখিযু মিম মাকামি ইবরাহীমা মুসাল্লা”। তোমরা ইবরাহীমের দাঁড়াবার স্থানকে নামাযের জায়গা বানিয়ে নাও। সহীহঃ বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। ইবনু উমার (রাযিঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
+। আনাস (রাযিঃ) হতে বর্ণিত, তিনি বলেন, "উমার ইবনুল খাত্তাব (রাযিঃ) বলেছেন, আমি বললাম, হে আল্লাহর রাসূল! আপনি মাকামে ইবরাহীমকে যদি নামাযের জায়গা হিসেবে গ্রহণ করতেন! এ প্রসঙ্গেই অবতীর্ণ হয়ঃ “ওয়াত্তাখিযু মিম মাকামি ইবরাহীমা মুসাল্লা”। তোমরা ইবরাহীমের দাঁড়াবার স্থানকে নামাযের জায়গা বানিয়ে নাও। সহীহঃ বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ। ইবনু উমার (রাযিঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2960</td></tr><tr><td>Arabic No</td><td>2960</td></tr><tr><td>Reference</td><td>Book 47 Hadith 12</td></tr></tbody></table></div>
 

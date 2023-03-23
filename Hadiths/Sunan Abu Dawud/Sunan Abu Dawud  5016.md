@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মুহাম্মদ (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। আল্লাহ্‌র এ বাণীঃ কবিদের অনুসরণ তারা করে, যারা গুমরাহ হয়েছে। এর থেকে ঐ সব ব্যক্তিরা আলাদা হয়ে গেছে, যাদের সম্পর্কে আল্লাহ্‌ বলেছেনঃ তবে যারা ঈমান এনেছে ও নেক আমল করেছে এবং আল্লাহ্‌র যিকির বেশী-বেশী করে থাকে। (অর্থাৎ এরা পথভ্রষ্ট নয়।)
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘‘পথভ্রষ্ট লোকেরাই কবিদের অনুসরণ করে’’ (সূরা শু‘আরাঃ ২২৪)। এ আয়াতটি আল্লাহ রহিত করেছেন এবং ব্যতিক্রম করেছেন। অতঃপর তিনি বলেছেনঃ ‘‘কিন্তু তারা ব্যতীত যারা ঈমান এনেছে ও নেক আমল করেছে এবং আল্লাহকে অধিক স্মরণ রাখে’’ (সূরা শু‘আরাঃ ২২৭)।[1] সনদ হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5016</td></tr><tr><td>Arabic No</td><td>5016</td></tr><tr><td>Reference</td><td>Book 43 Hadith 244</td></tr></tbody></table></div>
 
@@ -44,7 +44,7 @@ Ibn ‘Abbas said :The verse “And the poets it is those straying in evil who f
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] ia berkata; telah menceritakan kepadaku [Ali bin Husain] dari [Bapaknya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] membaca: '(dan penyair-penyair itu diikuti oleh orang-orang yang sesat) ' -Qs. Asy Syura: 224- ia berkata, "Allah menghapus ayat itu lalu memberi pengecualian." Kemudian Ibnu Abbas membaca: '(kecuali orang-orang (penyair-penyair) yang beriman dan beramal shalih dan banyak menyebut nama Allah) ' -Qs. Asy Syura: 227
+Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] ia berkata; telah menceritakan kepadaku [Ali bin Husain] dari [Bapaknya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] membaca: '(dan penyair-penyair itu diikuti oleh orang-orang yang sesat) ' -Qs. Asy Syura: 224- ia berkata, "Allah menghapus ayat itu lalu memberi pengecualian." Kemudian Ibnu Abbas membaca: '(kecuali orang-orang (penyair-penyair) yang beriman dan beramal shalih dan banyak menyebut nama Allah) ' -Qs. Asy Syura:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5016</td></tr><tr><td>Arabic No</td><td>5016</td></tr><tr><td>Reference</td><td>Book 43 Hadith 244</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ তা‘আলা ঘোষণা করেছেন যে, কিয়ামতের দিবসে আমি নিজে তিন ব্যক্তির বিরুদ্ধে বাদী হবো। এক ব্যক্তি, যে আমার নামে ওয়াদা করে তা ভঙ্গ করল। আরেক ব্যক্তি, যে কোন আযাদ মানুষকে বিক্রি করে তার মূল্য ভোগ করল। আর এক ব্যক্তি, যে কোন মজুর নিয়োগ করে তার হতে পুরো কাজ আদায় করে এবং তার পারিশ্রমিক দেয় না। (আধুনিক প্রকাশনীঃ ২০৭০, ইসলামিক ফাউন্ডেশনঃ ২০৮৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ তা‘আলা ঘোষণা করেছেন যে, কিয়ামতের দিবসে আমি নিজে তিন ব্যক্তির বিরুদ্ধে বাদী হবো। এক ব্যক্তি, যে আমার নামে ওয়াদা করে তা ভঙ্গ করল। আরেক ব্যক্তি, যে কোন আযাদ মানুষকে বিক্রি করে তার মূল্য ভোগ করল। আর এক ব্যক্তি, যে কোন মজুর নিয়োগ করে তার হতে পুরো কাজ আদায় করে এবং তার পারিশ্রমিক দেয় না। (আধুনিক প্রকাশনীঃ ২০৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2227</td></tr><tr><td>Arabic No</td><td>2227</td></tr><tr><td>Reference</td><td>Book 34 Hadith 174</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada saya [Bisyir bin Marhum] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ‘‘மறுமை நாளில் மூவருக்கெதிராக நான் வழக்குரைப்பேன்” என்று அல்லாஹ் கூறுகின்றான். ஒருவன், என் பெயரால் சத்தியம் செய்துவிட்டு, மோசடி செய்தவன்; இன்னொருவன், சுதந்திரமான ஒருவரை விற்று அந்தக் கிரயத்தை உண்டவன்; மூன்றாமவன், ஒரு கூலியாளிடம் நன்றாக வேலை வாங்கிக்கொண்டு அவனது கூலியைக் கொடுக்காமல் இருந்தவன்.87 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ‘‘மறுமை நாளில் மூவருக்கெதிராக நான் வழக்குரைப்பேன்” என்று அல்லாஹ் கூறுகின்றான். ஒருவன், என் பெயரால் சத்தியம் செய்துவிட்டு, மோசடி செய்தவன்; இன்னொருவன், சுதந்திரமான ஒருவரை விற்று அந்தக் கிரயத்தை உண்டவன்; மூன்றாமவன், ஒரு கூலியாளிடம் நன்றாக வேலை வாங்கிக்கொண்டு அவனது கூலியைக் கொடுக்காமல் இருந்தவன்.87 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2227</td></tr><tr><td>Arabic No</td><td>2227</td></tr><tr><td>Reference</td><td>Book 34 Hadith 174</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada saya [Bisyir bin Marhum] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Allahu Teala şöyle buyurdu: Şu üç kimsenin kıyamet günü davacısı ben olacağım: (Birincisi) Benim adıma yemin edip de aldatan (sözünü yerine getirmeyen); (ikincisi) hür bir kimseyi satıp parasını yiyen; (üçüncüsü) bir işçi tutup ondan istifade ettiği halde ücretini vermeyen kimse. " Tekrar: 2270
+Ebu Hureyre (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Allahu Teala şöyle buyurdu: Şu üç kimsenin kıyamet günü davacısı ben olacağım: (Birincisi) Benim adıma yemin edip de aldatan (sözünü yerine getirmeyen); (ikincisi) hür bir kimseyi satıp parasını yiyen; (üçüncüsü) bir işçi tutup ondan istifade ettiği halde ücretini vermeyen kimse. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2227</td></tr><tr><td>Arabic No</td><td>2227</td></tr><tr><td>Reference</td><td>Book 34 Hadith 174</td></tr></tbody></table></div>
 

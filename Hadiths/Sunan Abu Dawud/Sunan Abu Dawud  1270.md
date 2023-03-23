@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনুল মুসান্না (রহঃ) ..... আবু আইয়ুব (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন যে, যুহরের ফরয নামাযের পূর্বে এক সালামের সাথে যে ব্যাক্তি চার রাকাত নামায পড়বে এর বদৌলতে তাঁর জন্য আকাশের দরজাসমূহ উন্মুক্ত হবে। (তিরমিযি, ইবন মাজা)।
+। আবূ আইয়ূব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যুহরের পূর্বে এক সালামে চার রাক‘আত সালাত রয়েছে, এগুলোর জন্য আকাশের সকল দরজা খুলে দেয়া হয়।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1270</td></tr><tr><td>Arabic No</td><td>1270</td></tr><tr><td>Reference</td><td>Book 5 Hadith 21</td></tr></tbody></table></div>
 

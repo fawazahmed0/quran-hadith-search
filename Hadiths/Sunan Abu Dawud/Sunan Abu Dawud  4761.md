@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন বাশশার (রহঃ) .... উম্মু সালামা (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণনা করেছেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি তাকে খারাপ মনে করবে, সে দোষমুক্ত হবে; আর যে তাকে অস্বীকার করবে, সে নাজাত প্রাপ্ত হবে। রাবী কাতাদা (রহঃ) বলেনঃ যে ব্যক্তি তাকে অন্তর দিয়ে খারাপ জানবে এবং অস্বীকার করবে।
+। উম্মু সালামাহ (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে পূর্বোক্ত হাদীসের অর্থানুরূপ বর্ণিত। তিনি বলেনঃ যে ব্যক্তি তা ঘৃণা করলো সে দায়িত্বমুক্ত হলো। যে ব্যক্তি তা অপছন্দ করলো সে মুক্ত হলো। কাতাদাহ (রহঃ) বলেন, অর্থাৎ যে ব্যক্তি আন্তরিকভাবে ঘৃণা করলো এবং যে ব্যক্তি তার অন্তর দিয়ে অপছন্দ করলো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4761</td></tr><tr><td>Arabic No</td><td>4761</td></tr><tr><td>Reference</td><td>Book 42 Hadith 166</td></tr></tbody></table></div>
 

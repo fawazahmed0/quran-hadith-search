@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, জান্নাতে ধনুক পরিমাণ স্থান, তা থেকে উত্তম যার উপর সূর্যোদয় ও সূর্যাস্ত হয়। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আরো বলেন, আল্লাহর রাস্তায় একটি সকাল বা একটি বিকাল অতিবাহিত করা তা থেকে উত্তম যেখানে সূর্যের উদয়াস্ত হয়। (৩২৫৩) (মুসলিম ৩৩/৩০ হাঃ ১৮৮২) (আধুনিক প্রকাশনীঃ ২৫৮৬, ইসলামিক ফাউন্ডেশনঃ ২৫৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, জান্নাতে ধনুক পরিমাণ স্থান, তা থেকে উত্তম যার উপর সূর্যোদয় ও সূর্যাস্ত হয়। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আরো বলেন, আল্লাহর রাস্তায় একটি সকাল বা একটি বিকাল অতিবাহিত করা তা থেকে উত্তম যেখানে সূর্যের উদয়াস্ত হয়। (৩২৫৩) (মুসলিম ৩৩/৩০ হাঃ ১৮৮২) (আধুনিক প্রকাশনীঃ ২৫৮৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 56 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ibrahim bin Al Mundzir] telah bercerita kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: சொர்க்கத்தில் ஒரு வில்லின் அளவுக்கு இடம் கிடைப்பதானது, சூரியன் எதன் மீது உதித்து மறைகின்றதோ அ(ந்த உலகத்)தைவிடச் சிறந்ததாகும். மேலும், அல்லாஹ் வின் பாதையில் ஒரு காலை நேரத்தில் சிறிது நேரம் (போர் புரியச்) செல்வது, அல்லது ஒரு மாலை நேரத்தில் சிறிது நேரம் (போர் புரியச்) செல்வது சூரியன் எதன் மீது உதித்து மறைகின்றதோ அ(ந்த உலகத்)தைவிடச் சிறந்ததாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 56
+நபி (ஸல்) அவர்கள்கூறினார்கள்: சொர்க்கத்தில் ஒரு வில்லின் அளவுக்கு இடம் கிடைப்பதானது, சூரியன் எதன் மீது உதித்து மறைகின்றதோ அ(ந்த உலகத்)தைவிடச் சிறந்ததாகும். மேலும், அல்லாஹ் வின் பாதையில் ஒரு காலை நேரத்தில் சிறிது நேரம் (போர் புரியச்) செல்வது, அல்லது ஒரு மாலை நேரத்தில் சிறிது நேரம் (போர் புரியச்) செல்வது சூரியன் எதன் மீது உதித்து மறைகின்றதோ அ(ந்த உலகத்)தைவிடச் சிறந்ததாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 56 Hadith 11</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Ibrahim bin Al Mundzir] telah bercerita kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Cennette yay'ın iki ucu güneşin üzerine doğup battığı her şeyden daha değerlidir"; "Allah yolunda sabah veya akşam yola çıkmak güneşin üzerine doğup battığı her şeyden daha değerlidir." Tekrar: 3253
+Ebu Hureyre r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Cennette yay'ın iki ucu güneşin üzerine doğup battığı her şeyden daha değerlidir"; "Allah yolunda sabah veya akşam yola çıkmak güneşin üzerine doğup battığı her şeyden daha değerlidir." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 56 Hadith 11</td></tr></tbody></table></div>
 

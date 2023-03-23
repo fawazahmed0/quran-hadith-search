@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪০৪৮, আন্তর্জাতিক নাম্বারঃ ১৬১৮ ৪০৪৮-(১৩/...) আমর আন নাকিদ (রহঃ) ...... বারা (রাযিঃ) হতে বর্ণিত। তিনি বলেন, সর্বশেষ অবতীর্ণ আয়াত آيَةٍ يَسْتَفْتُونَكَ (ইসলামিক ফাউন্ডেশন ৪০১১, ইসলামিক সেন্টার ৪০১০)
+আমর আন নাকিদ (রহঃ) ...... বারা (রাযিঃ) হতে বর্ণিত। তিনি বলেন, সর্বশেষ অবতীর্ণ আয়াত آيَةٍ يَسْتَفْتُونَكَ (ইসলামিক ফাউন্ডেশন ৪০১১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Al-Bara' (Allah be pleased with him) reported that the last verse revealed was:" They ask of thee religious verdict.." (iv. 177)
+Al-Bara' (Allah be pleased with him) reported that the last verse revealed was:" They ask of thee religious verdict.." (iv)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
 

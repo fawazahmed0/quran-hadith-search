@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেছেন, আবূ যায়দ (রাঃ) মারা যান। তিনি কোন সন্তানাদি ছেড়ে যাননি। তিনি ছিলেন বাদ্রী সাহাবী। [৩৮১০] (আধুনিক প্রকাশনীঃ হাদীস নেই, ইসলামিক ফাউন্ডেশনঃ ৩৭০৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেছেন, আবূ যায়দ (রাঃ) মারা যান। তিনি কোন সন্তানাদি ছেড়ে যাননি। তিনি ছিলেন বাদ্রী সাহাবী। [৩৮১০] (আধুনিক প্রকাশনীঃ হাদীস নেই, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 64 Hadith 47</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Bab. Telah menceritakan kepadaku [Khalifah] telah menceritakan kepada kami [Muha
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அபூஸைத் (ரலி) அவர்கள் (தமக்குப் பின்) எந்தச் சந்ததியையும் விட்டுச் செல்லாமல் இறந்துபோனார்கள். மேலும், அவர்கள் பத்ர் போரில் கலந்துகொண்ட வராயிருந்தார்கள்.37 அத்தியாயம் : 64
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அபூஸைத் (ரலி) அவர்கள் (தமக்குப் பின்) எந்தச் சந்ததியையும் விட்டுச் செல்லாமல் இறந்துபோனார்கள். மேலும், அவர்கள் பத்ர் போரில் கலந்துகொண்ட வராயிருந்தார்கள்.37 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 64 Hadith 47</td></tr></tbody></table></div>
 

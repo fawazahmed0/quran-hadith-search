@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪২৭২। আবূ সুফিয়ান (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মৃত ব্যক্তিকে কবরে রাখা হলে সে সূর্যকে অস্তমিত দেখতে পায়। তখন সে উঠে বসে এবং তার চক্ষুদ্বয় মলতে মলতে বলে, আমাকে ছেড়ে দাও, আমি নামায পড়বো। এবং তার চক্ষুদ্বয় মলতে মলতে বলে, আমাকে ছেড়ে দাও, আমি নামায পড়বো।
+। আবূ সুফিয়ান (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মৃত ব্যক্তিকে কবরে রাখা হলে সে সূর্যকে অস্তমিত দেখতে পায়। তখন সে উঠে বসে এবং তার চক্ষুদ্বয় মলতে মলতে বলে, আমাকে ছেড়ে দাও, আমি নামায পড়বো। এবং তার চক্ষুদ্বয় মলতে মলতে বলে, আমাকে ছেড়ে দাও, আমি নামায পড়বো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 37 Hadith 173</td></tr></tbody></table></div>
 

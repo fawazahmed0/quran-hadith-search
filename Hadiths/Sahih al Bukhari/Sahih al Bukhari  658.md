@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মালিক ইব্‌নু হুওয়াইরিস (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে র্বর্ণিত, তিনি বলেন: সালাতের সময় হলে তোমাদের দু’জনের একজন আযান দিবে এবং ইক্বামাত(ইকামত/একামত) বলবে। অতঃপর তোমাদের মধ্যে যে বয়সে অধিক বড় সে ইমামাত করবে। (৬২৮) (আধুনিক প্রকাশনীঃ ৬১৮, ইসলামিক ফাউন্ডেশনঃ ৬২৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মালিক ইব্‌নু হুওয়াইরিস (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে র্বর্ণিত, তিনি বলেন: সালাতের সময় হলে তোমাদের দু’জনের একজন আযান দিবে এবং ইক্বামাত(ইকামত/একামত) বলবে। অতঃপর তোমাদের মধ্যে যে বয়সে অধিক বড় সে ইমামাত করবে। (৬২৮) (আধুনিক প্রকাশনীঃ ৬১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>658</td></tr><tr><td>Arabic No</td><td>658</td></tr><tr><td>Reference</td><td>Book 10 Hadith 52</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மா-க் பின் அல்ஹுவைரிஸ் (ரலி) அவர்கள் கூறியதாவது: (பயணம் புறப்படவிருந்த இருவரிடம்) நபி (ஸல்) அவர்கள், “தொழுகை நேரம் வந்துவிட்டால் தொழுகை அறிவிப்புச் செய்யுங்கள்; இகாமத் சொல்லுங்கள். உங்களில் (வயதில்) பெரியவர் உங்களுக்குத் தலைமை தாங்கித் தொழுவிக்கட்டும்” என்று சொன்னார்கள். அத்தியாயம் : 10
+மா-க் பின் அல்ஹுவைரிஸ் (ரலி) அவர்கள் கூறியதாவது: (பயணம் புறப்படவிருந்த இருவரிடம்) நபி (ஸல்) அவர்கள், “தொழுகை நேரம் வந்துவிட்டால் தொழுகை அறிவிப்புச் செய்யுங்கள்; இகாமத் சொல்லுங்கள். உங்களில் (வயதில்) பெரியவர் உங்களுக்குத் தலைமை தாங்கித் தொழுவிக்கட்டும்” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>658</td></tr><tr><td>Arabic No</td><td>658</td></tr><tr><td>Reference</td><td>Book 10 Hadith 52</td></tr></tbody></table></div>
 

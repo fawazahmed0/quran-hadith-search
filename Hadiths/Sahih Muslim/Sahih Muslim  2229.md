@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ কুরায়ব (রহঃ) ..... ইয়াহইয়া ইবনু সাঈদ (রহঃ) থেকে একই সানাদে বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ২০৯৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>962.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 106</td></tr></tbody></table></div>
 

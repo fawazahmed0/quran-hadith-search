@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আবদুর রহীম ...... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, সাবিত ইবন কায়সের স্ত্রী তার নিকট হতে খুলা তালাক গ্রহণ করে। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার ইদ্দতের সময় একটি হায়েয নির্ধারণ করেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, এ হাদীসটি ইকরামা (রহঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে মুরসাল (হাদীস হিসাবে) বর্ণনা করেছেন।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। সাবিত ইবনু কায়িস (রাযি.)-এর স্ত্রী তার কাছ থেকে খোলা‘ তালা নিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার ইদ্দাতকাল নির্ধারণ করলেন এক হায়িয। ইমাম আবূ দাঊদ (রহ.) বলেন, এই হাদীস ইকরিমা (রহ.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে মুরসালরূপে বর্ণনা করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>2229</td></tr><tr><td>Reference</td><td>Book 13 Hadith 55</td></tr></tbody></table></div>
 

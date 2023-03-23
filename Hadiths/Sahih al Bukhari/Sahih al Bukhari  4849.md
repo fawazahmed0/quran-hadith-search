@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) থেকে মারফূ হাদীস হিসেবে বর্ণিত। তবে আবূ সুফ্ইয়ান এ হাদীসটিকে অধিকাংশ সময় মওকূফ হাদীস হিসেবে বর্ণনা করেছেন। জাহান্নামকে বলা হবে, তুমি কি পূর্ণ হয়ে গেছ? জাহান্নাম বলবে, আরো আছে কি? তখন আল্লাহ্ রববুল ‘আলামীন নিজ পা তাতে রাখবেন। তখন জাহান্নাম বলবে, আর নয়, আর নয়। [১৪৪৯, ৪৮৫০] (আধুনিক প্রকাশনীঃ ৪৪৮২, ইসলামিক ফাউন্ডেশনঃ ৪৪৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) থেকে মারফূ হাদীস হিসেবে বর্ণিত। তবে আবূ সুফ্ইয়ান এ হাদীসটিকে অধিকাংশ সময় মওকূফ হাদীস হিসেবে বর্ণনা করেছেন। জাহান্নামকে বলা হবে, তুমি কি পূর্ণ হয়ে গেছ? জাহান্নাম বলবে, আরো আছে কি? তখন আল্লাহ্ রববুল ‘আলামীন নিজ পা তাতে রাখবেন। তখন জাহান্নাম বলবে, আর নয়, আর নয়। [১৪৪৯, ৪৮৫০] (আধুনিক প্রকাশনীঃ ৪৪৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 65 Hadith 370</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Musa Al Qaththan] Telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஹம்மத் பின் சீரின் (ரஹ்) அவர்கள் கூறியதாவது: நரகத்திடம் ‘‘உனக்கு வயிறு நிரம்பி விட்டதா?” என்று கேட்கப்படும். அது, ‘‘இன்னும் அதிகம் இருக்கிறதா?” என்று கேட்கும். அப்போது அருள்வளமிக்க வனும் உயர்ந்தோனுமான அல்லாஹ் தனது பாதத்தை அதன்மீது வைப்பான். உடனே அது ‘‘போதும்! போதும்!” என்று கூறும். இதை அபூஹுரைரா (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடமிருந்து அறிவிக்கிறார்கள். (ஆனால், இதன்) அறிவிப்பாளர்களில் ஒருவரான அபூசுஃப்யான் அல்ஹிம்யரீ (ரஹ்) அவர்கள் பெரும்பாலும் ‘‘அபூஹுரைரா (ரலி) அவர்கள் கூறினார்கள்” என்றே (மவ்கூஃபாக) அறிவிப்பார்கள். அத்தியாயம் : 65
+முஹம்மத் பின் சீரின் (ரஹ்) அவர்கள் கூறியதாவது: நரகத்திடம் ‘‘உனக்கு வயிறு நிரம்பி விட்டதா?” என்று கேட்கப்படும். அது, ‘‘இன்னும் அதிகம் இருக்கிறதா?” என்று கேட்கும். அப்போது அருள்வளமிக்க வனும் உயர்ந்தோனுமான அல்லாஹ் தனது பாதத்தை அதன்மீது வைப்பான். உடனே அது ‘‘போதும்! போதும்!” என்று கூறும். இதை அபூஹுரைரா (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடமிருந்து அறிவிக்கிறார்கள். (ஆனால், இதன்) அறிவிப்பாளர்களில் ஒருவரான அபூசுஃப்யான் அல்ஹிம்யரீ (ரஹ்) அவர்கள் பெரும்பாலும் ‘‘அபூஹுரைரா (ரலி) அவர்கள் கூறினார்கள்” என்றே (மவ்கூஃபாக) அறிவிப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 65 Hadith 370</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Musa Al Qaththan] Telah menceritaka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre bu rivayeti merfCı' olarak nakletmiştir. Bunu, en fazla mevkCıf olarak nakleden Ebu Süfyan [Himyeri'dir]. Söz konusu rivayet şöyledir: "Cehenneme 'doldun mu?' diye sorulur. O da; 'Daha var mı?' diye cevap verir: Bunun üzerine Rab Tebareke ve Teala ayağını Cehennemin üstüne koyar. Bu defa Cehennem, 'yeter, yeter' der. " Hadisin geçtiği diğer yerler: 4850, 7449
+Ebu Hureyre bu rivayeti merfCı' olarak nakletmiştir. Bunu, en fazla mevkCıf olarak nakleden Ebu Süfyan [Himyeri'dir]. Söz konusu rivayet şöyledir: "Cehenneme 'doldun mu?' diye sorulur. O da; 'Daha var mı?' diye cevap verir: Bunun üzerine Rab Tebareke ve Teala ayağını Cehennemin üstüne koyar. Bu defa Cehennem, 'yeter, yeter' der. " Hadisin geçtiği diğer yerler:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 65 Hadith 370</td></tr></tbody></table></div>
 

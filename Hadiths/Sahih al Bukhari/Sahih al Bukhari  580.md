@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি কোন সালাতের এক রাক‘আত পায়, সে সালাত পেলো। (৫৫৬; মুসলিম ৫/৩০, হাঃ ৬০৭) (আধুনিক প্রকাশনীঃ ৫৪৬, ইসলামিক ফাউন্ডেশনঃ ৫৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি কোন সালাতের এক রাক‘আত পায়, সে সালাত পেলো। (৫৫৬; মুসলিম ৫/৩০, হাঃ ৬০৭) (আধুনিক প্রকাশনীঃ ৫৪৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>580</td></tr><tr><td>Reference</td><td>Book 9 Hadith 56</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். தொழுகையில் ஒரு ரக்அத்தை (அதற் குரிய நேரத்தில்) அடைந்துகொண்டவர், அந்தத் தொழுகையை அடைந்து கொண்டுவிட்டார்.24 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 9
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். தொழுகையில் ஒரு ரக்அத்தை (அதற் குரிய நேரத்தில்) அடைந்துகொண்டவர், அந்தத் தொழுகையை அடைந்து கொண்டுவிட்டார்.24 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>580</td></tr><tr><td>Reference</td><td>Book 9 Hadith 56</td></tr></tbody></table></div>
 

@@ -16,21 +16,21 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ يَوْمًا فَصَلَّى عَلَى أَهْلِ أُحُدٍ صَلاَتَهُ عَلَى الْمَيِّتِ ثُمَّ انْصَرَفَ إِلَى الْمِنْبَرِ فَقَالَ ‏ "‏ إِنِّي فَرَطٌ لَكُمْ وَأَنَا شَهِيدٌ عَلَيْكُمْ ‏"‏ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا قتيبة، قال حدثنا الليث، عن يزيد، عن ابي الخير، عن عقبة، ان رسول الله صلى الله عليه وسلم خرج يوما فصلى على اهل احد صلاته على الميت ثم انصرف الى المنبر فقال " اني فرط لكم وانا شهيد عليكم
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। কুতায়রা (রহঃ) ... উকবা (রাঃ) থেকে বর্ণিত যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদিন বের হয়ে উহুদের শহীদের উপর জানাজার সালাত আদায় করলেন যেরূপ মৃতদের উপর আদায় করা হয়। পরে মিম্বরে উঠে এসে বললেন তোমাদের আমি অগ্রগামী দল স্বরূপ পাঠিয়েছি আর আমি তোমাদের জন্য সাক্ষী হয়ে রইলাম।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Upbah that:the Messenger of Allah went out one day and offered the funeral prayer for the people f Uhd, then he went to the Minbar and said: "I am your predecessor and I am a witness over your
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ It was narrated from 'Upbah that:the Messenger of Allah went out one day and off
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Qutaibah] dia berkata; telah menceritakan kepada kami [Al Laits] dari [Yazid] dari [Abul Khair] dari ['Uqbah] bahwa suatu hari Rasulullah shallallahu 'alaihi wasallam keluar untuk menshalatkan para sahabat yang gugur dalam perang Uhud, beliau menshalatinya sebagaimana menshalati mayit, kemudian beliau naik mimbar, lalu bersabda: " Aku pendahulu bagi kalian dan aku sebagai saksi atas kalian
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengabarkan kepada kami [Qutaibah] dia berkata; telah menceritakan kepada 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengabarkan kepada kami [Qutaibah] dia berkata; telah menceritakan kepada 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عقبہ رضی الله عنہ سے روایت ہے کہ ایک دن رسول اللہ صلی اللہ علیہ وسلم ( مدینہ سے باہر ) نکلے، اور غزوہ احد کے شہیدوں پر نماز ( جنازہ ) پڑھی ۱؎ جیسے میت کی نماز جنازہ پڑھتے تھے، پھر منبر کی طرف پلٹے اور فرمایا: ”میں ( قیامت میں ) تمہارا پیش رو ہوں، اور تم پر گواہ ( بھی ) ہوں“۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>

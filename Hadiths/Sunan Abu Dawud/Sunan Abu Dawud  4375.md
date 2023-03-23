@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাফর ইবন মুসাফির (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সম্রাট ব্যক্তিদের ব্যাপারে শরীয়াত নির্ধারিত বিধান ব্যতীত অন্যান্য ক্রটিবিচ্যূতি ক্ষমাসুন্দর দৃষ্টিতে দেখবে।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা উত্তম গুণাবলীর অধিকারী লোকদের পদস্খলন (ছোটখাট ত্রুটি) এড়িয়ে যাও, হদ্দের অপরাধ ব্যতীত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 40 Hadith 25</td></tr></tbody></table></div>
 

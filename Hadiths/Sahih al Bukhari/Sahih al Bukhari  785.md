@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সালামাহ ... আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত যে, তিনি তাদের সঙ্গে সালাত আদায় করতেন এবং প্রতিবার উঠা বসার সময় তাকবীর বলতেন। সালাত শেষ করে তিনি বললেন, তোমাদের মধ্যে আমার সালাতই আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সালাতের সাথে অধিক সাদৃশ্যপূর্ণ। (৭৮৯, ৭৯৫, ৮০৩ মুসলিম ৪/১০, হাঃ ৩৯২ আহমাদ ৮২২৪) (আধুনিক প্রকাশনীঃ ৭৪১, ইসলামিক ফাউন্ডেশনঃ ৭৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সালামাহ ... আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত যে, তিনি তাদের সঙ্গে সালাত আদায় করতেন এবং প্রতিবার উঠা বসার সময় তাকবীর বলতেন। সালাত শেষ করে তিনি বললেন, তোমাদের মধ্যে আমার সালাতই আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সালাতের সাথে অধিক সাদৃশ্যপূর্ণ। (৭৮৯, ৭৯৫, ৮০৩ মুসলিম ৪/১০, হাঃ ৩৯২ আহমাদ ৮২২৪) (আধুনিক প্রকাশনীঃ ৭৪১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>785</td></tr><tr><td>Reference</td><td>Book 10 Hadith 180</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசலமா (பின் அப்திர் ரஹ்மான் பின் அவ்ஃப்-ரஹ்) அவர்கள் கூறியதாவது: அபூஹுரைரா (ரலி) அவர்கள் மக்களுக்குத் தொழுவித்துவந்தார்கள். அவர்கள் (ஒவ்வொரு முறை) குனியும்போதும் நிமிரும்போதும் தக்பீர் கூறுவார்கள். தொழுகையை முடித்தபின், “நிச்சயமாக நான் உங்களிலேயே அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுதுகாட்டியதைப் போன்றே (மிகச் சரியாக) தொழுவிப்பவன் ஆவேன்” என்று குறிப்பிடுவார்கள். அத்தியாயம் : 10
+அபூசலமா (பின் அப்திர் ரஹ்மான் பின் அவ்ஃப்-ரஹ்) அவர்கள் கூறியதாவது: அபூஹுரைரா (ரலி) அவர்கள் மக்களுக்குத் தொழுவித்துவந்தார்கள். அவர்கள் (ஒவ்வொரு முறை) குனியும்போதும் நிமிரும்போதும் தக்பீர் கூறுவார்கள். தொழுகையை முடித்தபின், “நிச்சயமாக நான் உங்களிலேயே அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுதுகாட்டியதைப் போன்றே (மிகச் சரியாக) தொழுவிப்பவன் ஆவேன்” என்று குறிப்பிடுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>785</td></tr><tr><td>Reference</td><td>Book 10 Hadith 180</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Seleme (r.a.)'den nakledilmiştir: "Ebu Seleme, Ebu Hureyre'nin cemaate namaz kıldırırken her pozisyon değişikliğinde her eğiliş ve kalkışında tekbir getirdiğini belirtmiştir. Bir defasında Ebu Hureyre yine bu şekilde namaz kıldırmış ve namaz'dan çıktıktan sonra şöyle demişti: "Kesinlikle ben, aranızda kıldığı namaz Resulullah Sallallahu Aleyhi ve Sellem'in namazına en çok benzeyen kişiyim. Tekrar: 789, 795, 803
+Ebu Seleme (r.a.)'den nakledilmiştir: "Ebu Seleme, Ebu Hureyre'nin cemaate namaz kıldırırken her pozisyon değişikliğinde her eğiliş ve kalkışında tekbir getirdiğini belirtmiştir. Bir defasında Ebu Hureyre yine bu şekilde namaz kıldırmış ve namaz'dan çıktıktan sonra şöyle demişti: "Kesinlikle ben, aranızda kıldığı namaz Resulullah Sallallahu Aleyhi ve Sellem'in namazına en çok benzeyen kişiyim. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>785</td></tr><tr><td>Reference</td><td>Book 10 Hadith 180</td></tr></tbody></table></div>
 

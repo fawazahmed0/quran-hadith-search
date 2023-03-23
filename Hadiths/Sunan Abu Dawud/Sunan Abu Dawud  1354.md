@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৩৫৪। ওয়াহব ইবন বাকিয়্যা (রহঃ) .... হুসায়েন হতেও অনুরূপ বর্ণিত হয়েছে। তিনি বলেনঃ (ইয়া আল্লাহ) আমার অস্থিতে নূর দান করুন।
+। হুসাইন (রহঃ) হতে এ সানাদে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। তাতে রয়েছেঃ ‘‘আমাকে পর্যাপ্ত নূর দান করো’’। সহীহ। ইমাম আবূ দাঊদ (রহঃ) বলেন, আবূ খালিদ আদ-দালানী (রহঃ) হাবীব (রহঃ) হতে এবং সালামাহ ইবনু কুহাইল (রহঃ) আবূ রিশদীন ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা হতে অনুরূপ বর্ণনা করেছেন।[1] সহীহ : বুখারী ও মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1354</td></tr><tr><td>Arabic No</td><td>1354</td></tr><tr><td>Reference</td><td>Book 5 Hadith 105</td></tr></tbody></table></div>
 

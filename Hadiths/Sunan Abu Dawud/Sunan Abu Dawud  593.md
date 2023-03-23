@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-কানবী ..... আবদুল্লাহ্ ইবনু আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেনঃ আল্লাহ্ তা’আলা তিন ব্যাক্তির নামায কবুল করেন না। যে ব্যক্তি কোন সম্প্রদায়ের ইমামতি করে, অথচ মুকতাদীরা তার উপর অসন্তুষ্ট। যে ব্যক্তি নামাযের সময় উত্তীর্ণ হওয়ার পর নামায আদায় করে। যে ব্যক্তি স্বাধীন মহিলা অথবা পুরুষ লোককে ক্রীতদাসী বা দাস বানায়। (ইবনু মাজাহ)।
+। ‘আবদুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ তিন ব্যক্তির সালাত আল্লাহ কবুল করেন না। (এক) যে ব্যক্তি নিজে আগে বেড়ে ইমামতি করে অথচ লোকেরা তাকে অপছন্দ করে। (দুই) যে ব্যক্তি ‘দিবারে’ সালাত আদায়ে অভ্যস্ত। ‘দিবার’ হচ্ছে ওয়াক্ত শেষ হবার মুহূর্তে সালাত আদায় করা। (তিন) যে ব্যক্তি কোন স্বাধীন লোককে দাসত্বের শৃঙ্খলে আবদ্ধ করে।[1] দুর্বল : তবে প্রথম অংশটি সহীহ, মিশকাত ১১২৩।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>593</td></tr><tr><td>Arabic No</td><td>593</td></tr><tr><td>Reference</td><td>Book 2 Hadith 203</td></tr></tbody></table></div>
 

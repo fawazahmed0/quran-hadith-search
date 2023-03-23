@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আলা ও মুহাম্মদ ইবন মাক্কী (রহঃ) ..... মা'কাল ইবন ইয়াসার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের মৃত্যু বরণকারী ব্যক্তির নিকট 'সূরা ইয়াসীন' পাঠ করবে।
+। মা‘কিল ইবনু ইয়াসার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের মুমূর্ষ ব্যক্তিদের নিকট ‘সূরা ইয়াসীন’ পাঠ করো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3121</td></tr><tr><td>Arabic No</td><td>3121</td></tr><tr><td>Reference</td><td>Book 21 Hadith 33</td></tr></tbody></table></div>
 

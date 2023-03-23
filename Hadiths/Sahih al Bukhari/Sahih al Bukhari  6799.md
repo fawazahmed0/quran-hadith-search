@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহর লা‘নত বর্ষিত হয় চোরের উপর যে একটি ডিম চুরি করেছে তাতে তার হাত কাটা গেছে বা একটি দড়ি চুরি করেছে যার ফলে তার হাত কাটা গেছে। [৬৭৮৩] (আধুনিক প্রকাশনী- ৬৩৩০ ইসলামিক ফাউন্ডেশন- ৬৩৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহর লা‘নত বর্ষিত হয় চোরের উপর যে একটি ডিম চুরি করেছে তাতে তার হাত কাটা গেছে বা একটি দড়ি চুরি করেছে যার ফলে তার হাত কাটা গেছে। [৬৭৮৩] (আধুনিক প্রকাশনী- ৬৩৩০ ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6799</td></tr><tr><td>Arabic No</td><td>6799</td></tr><tr><td>Reference</td><td>Book 86 Hadith 28</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Huraira:Allah 's Apostle said, "Allah curses the thief who steals a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் சாபம் திருடன்மீது உண்டாகட்டும்! அவன் (விலை மதிப் புள்ள) தலைக்கவசத்தைத் திருடுகிறான்; அதற்காக அவனது கை துண்டிக்கப் படுகிறது. (விலை மலிவான) கயிற்றையும் அவன் திருடுகிறான்; அதற்காகவும் அவனது கை துண்டிக்கப்படுகிறது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.16 அத்தியாயம் : 86
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் சாபம் திருடன்மீது உண்டாகட்டும்! அவன் (விலை மதிப் புள்ள) தலைக்கவசத்தைத் திருடுகிறான்; அதற்காக அவனது கை துண்டிக்கப் படுகிறது. (விலை மலிவான) கயிற்றையும் அவன் திருடுகிறான்; அதற்காகவும் அவனது கை துண்டிக்கப்படுகிறது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6799</td></tr><tr><td>Arabic No</td><td>6799</td></tr><tr><td>Reference</td><td>Book 86 Hadith 28</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৫৮৪, আন্তর্জাতিক নাম্বারঃ ১৮১২ ৪৫৮৪-(১৪২/১৮১২) আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... উম্মু আতিয়্যাহ্ আনসারীয়াহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে সাতটি যুদ্ধে অংশগ্রহণ করেছি। আমি তাদের শিবিরের পশ্চাতে অবস্থান করতাম, তাদের খাবার তৈরী করতাম, আহতদের চিকিৎসা করতাম এবং রোগীদের সেবা-শুশ্রুষা করতাম। (ইসলামিক ফাউন্ডেশন ৪৫৩৯, ইসলামিক সেন্টার ৪৫৪২)
+আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... উম্মু আতিয়্যাহ্ আনসারীয়াহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে সাতটি যুদ্ধে অংশগ্রহণ করেছি। আমি তাদের শিবিরের পশ্চাতে অবস্থান করতাম, তাদের খাবার তৈরী করতাম, আহতদের চিকিৎসা করতাম এবং রোগীদের সেবা-শুশ্রুষা করতাম। (ইসলামিক ফাউন্ডেশন ৪৫৩৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4690</td></tr><tr><td>Arabic No</td><td>1812.07</td></tr><tr><td>Reference</td><td>Book 32 Hadith 172</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-புரைதா (ரலி) அவர்கள் கூறிய தாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் பதினாறு போர்களில் கலந்து கொண்டேன். அத்தியாயம் : 32
+புரைதா (ரலி) அவர்கள் கூறிய தாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் பதினாறு போர்களில் கலந்து கொண்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4690</td></tr><tr><td>Arabic No</td><td>1812.07</td></tr><tr><td>Reference</td><td>Book 32 Hadith 172</td></tr></tbody></table></div>
 

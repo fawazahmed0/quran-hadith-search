@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘ঈসা ইবনু তালহা (রাযি.) হতে বর্ণিত। একদা তিনি মু‘আবিয়া (রাযি.)-কে (আযানের জবাব দিতে) শুনেছেন যে, তিনি ‘আশহাদু আন্না মুহাম্মাদার রাসূলুল্লাহ’ পর্যন্ত মুআযযিনের মতই বলেছেন। (৬১৩, ৯১৪) (আধুনিক প্রকাশনীঃ ৫৭৭, ইসলামিক ফাউন্ডেশনঃ ৫৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘ঈসা ইবনু তালহা (রাযি.) হতে বর্ণিত। একদা তিনি মু‘আবিয়া (রাযি.)-কে (আযানের জবাব দিতে) শুনেছেন যে, তিনি ‘আশহাদু আন্না মুহাম্মাদার রাসূলুল্লাহ’ পর্যন্ত মুআযযিনের মতই বলেছেন। (৬১৩, ৯১৪) (আধুনিক প্রকাশনীঃ ৫৭৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>612</td></tr><tr><td>Arabic No</td><td>612</td></tr><tr><td>Reference</td><td>Book 10 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஈசா பின் தல்ஹா (ரஹ்) அவர்கள் கூறியதாவது: முஆவியா (ரலி) அவர்கள் ஒரு நாள் (தொழுகை அறிவிப்பைச் செவியுற்ற போது) ‘அஷ்ஹது அன்ன முஹம்மதர் ரசூலுல்லாஹ்’ என்பதுவரை அறிவிப்பாளர் கூறியதைப் போன்றே சொன்னதை நான் கேட்டேன். மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் இதே கருத்தில் அமைந்த ஹதீஸ் வந்துள்ளது. அத்தியாயம் : 10
+ஈசா பின் தல்ஹா (ரஹ்) அவர்கள் கூறியதாவது: முஆவியா (ரலி) அவர்கள் ஒரு நாள் (தொழுகை அறிவிப்பைச் செவியுற்ற போது) ‘அஷ்ஹது அன்ன முஹம்மதர் ரசூலுல்லாஹ்’ என்பதுவரை அறிவிப்பாளர் கூறியதைப் போன்றே சொன்னதை நான் கேட்டேன். மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் இதே கருத்தில் அமைந்த ஹதீஸ் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>612</td></tr><tr><td>Arabic No</td><td>612</td></tr><tr><td>Reference</td><td>Book 10 Hadith 10</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İsa bin Talha bir gün Muaviye'nin ezan okunurken وأشهد أن محمدا رسول الله (ve eşhedü enne muhammederresulullah)‘a kadar tekrar ettiğini işittiğini nakletmiştir. Tekrar: 613, 91
+İsa bin Talha bir gün Muaviye'nin ezan okunurken وأشهد أن محمدا رسول الله (ve eşhedü enne muhammederresulullah)‘a kadar tekrar ettiğini işittiğini nakletmiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>612</td></tr><tr><td>Arabic No</td><td>612</td></tr><tr><td>Reference</td><td>Book 10 Hadith 10</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০৫, আন্তর্জাতিক নাম্বারঃ ৫৬ ১০৫-(৯৯/...) সুরায়জ ইবনু ইউনুস ও ইয়াকুব আদ দাওরাকী (রহঃ) ..... জারীর (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর কাছে শ্রবণ ও আনুগত্যের বাই’আত গ্রহণ করলে তিনি আমাকে শিখিয়ে দিলেন, (বলো) যতদূর আমার সাধ্যে কুলায় (কেননা সাধ্যের অতিরিক্ত করতে বান্দা অপারগ)। আর প্রত্যেক মুসলিমের উপদেশ দেয়ার ব্যাপারেও (বাই’আত করেছি)। ইয়াকুব তার বর্ণনায় বলেন, সাইয়্যার আমাদেরকে হাদীস বর্ণনা করেছেন*। (ইসলামিক ফাউন্ডেশনঃ . ১০৭, ইসলামিক সেন্টারঃ ১০৯) * জারীর (রাযিঃ) তার এক দাসকে বললেন যে, আমার জন্য একটা ঘোড়া ক্রয় করে আন, দাস তিনশত দিরহাম দাম দিয়ে একটি ঘোড়া ক্রয় করেন। বিক্রেতা সাথে সাথে আসলেন দাম গ্রহণ করার জন্য। জারীর বললেন, তোমার ঘোড়ার দাম এর থেকে বেশি হবে। বিক্রেতা বললেন, যেটা ভাল মনে করেন। জারীর ঘোড়ার দাম বাড়াতে বাড়াতে আটশত দিরহামে ক্রয় করেন। উচিত হলো, মুসলিমদের কাউকে ন্যায্য মূল্য থেকে বঞ্চিত না করা।
+সুরায়জ ইবনু ইউনুস ও ইয়াকুব আদ দাওরাকী (রহঃ) ..... জারীর (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর কাছে শ্রবণ ও আনুগত্যের বাই’আত গ্রহণ করলে তিনি আমাকে শিখিয়ে দিলেন, (বলো) যতদূর আমার সাধ্যে কুলায় (কেননা সাধ্যের অতিরিক্ত করতে বান্দা অপারগ)। আর প্রত্যেক মুসলিমের উপদেশ দেয়ার ব্যাপারেও (বাই’আত করেছি)। ইয়াকুব তার বর্ণনায় বলেন, সাইয়্যার আমাদেরকে হাদীস বর্ণনা করেছেন*। (ইসলামিক ফাউন্ডেশনঃ . ১০৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>201</td></tr><tr><td>Arabic No</td><td>56.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 108</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Suraij bin Yunus] dan [Ya'qub ad-Dauraqi] keduan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Süreye b. Yunus ile Ya'kub ed-Devrakî riva­yet ettiler. Dediler ki: Bize Hüseyni, Seyyar'dan, o da Şa'bi'den, o da Cerir'den naklen rivayet etti. Cerir dedi ki: Nebi (Sallallahu aleyhi ve Sellem)'e dinleyip, itaat etmek şartı ile bey'at ettim, o bana "gücünün yettiği kadarında" ibaresini telkin etti. Ayrıca her müslümana da nasihat etmek şartı ile (bey'at ettim). Yakub (ed-Devraki) rivayetinde dedi ki: (Huşeym), bize Seyyar tahdis etti, dedi. Diğer tahric: Buhari, 6778; Nesai, 4200; Tuhfetu'I-Eşraf, 3216
+Bize Süreye b. Yunus ile Ya'kub ed-Devrakî riva­yet ettiler. Dediler ki: Bize Hüseyni, Seyyar'dan, o da Şa'bi'den, o da Cerir'den naklen rivayet etti. Cerir dedi ki: Nebi (Sallallahu aleyhi ve Sellem)'e dinleyip, itaat etmek şartı ile bey'at ettim, o bana "gücünün yettiği kadarında" ibaresini telkin etti. Ayrıca her müslümana da nasihat etmek şartı ile (bey'at ettim). Yakub (ed-Devraki) rivayetinde dedi ki: (Huşeym), bize Seyyar tahdis etti, dedi. Diğer tahric: Buhari, 6778; Nesai, 4200; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>201</td></tr><tr><td>Arabic No</td><td>56.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 108</td></tr></tbody></table></div>
 

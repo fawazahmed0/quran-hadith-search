@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২১১২, আন্তর্জাতিক নাম্বারঃ ৯৬০ ২১১২-(৭৯/...) মুহাম্মাদ ইবনু রাফি (রহঃ) ..... আবূ যুবায়র (রহঃ) থেকে আরও বর্ণিত হয়েছে যে, তিনি জাবির (রাযিঃ) কে বলতে শুনেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তার সাহাবীগণ এক ইয়াহুদীর লাশ যেতে দেখে এবং তা চোখের আড়াল না হওয়া পর্যন্ত দাঁড়িয়ে থাকলেন। (ইসলামী ফাউন্ডেশন ২০৯২, ইসলামীক সেন্টার ২০৯৬)
+মুহাম্মাদ ইবনু রাফি (রহঃ) ..... আবূ যুবায়র (রহঃ) থেকে আরও বর্ণিত হয়েছে যে, তিনি জাবির (রাযিঃ) কে বলতে শুনেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তার সাহাবীগণ এক ইয়াহুদীর লাশ যেতে দেখে এবং তা চোখের আড়াল না হওয়া পর্যন্ত দাঁড়িয়ে থাকলেন। (ইসলামী ফাউন্ডেশন ২০৯২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2223</td></tr><tr><td>Arabic No</td><td>960.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 101</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு பிரேதம் தம்மைக் கடந்து சென்றபோது எழுந்து, அது (தமது கண்ணை விட்டு) மறையும்வரை நின்றார்கள். அத்தியாயம் : 11
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு பிரேதம் தம்மைக் கடந்து சென்றபோது எழுந்து, அது (தமது கண்ணை விட்டு) மறையும்வரை நின்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2223</td></tr><tr><td>Arabic No</td><td>960.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 101</td></tr></tbody></table></div>
 

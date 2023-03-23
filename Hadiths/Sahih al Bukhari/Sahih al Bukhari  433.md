@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَيُذْكَرُ أَنَّ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ كَرِهَ الصَّلاَةَ بِخَسْفِ بَابِلَ উল্লেখ রয়েছে যে, ‘আলী (রাযি.) ব্যাবিলনের ধ্বংসস্তূপে সালাত আদায় করা মাকরূহ মনে করতেন। ৪৩৩. ‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা এসব ‘আযাবপ্রাপ্ত সম্প্রদায়ের লোকালয়ে ক্রন্দনরত অবস্থা ব্যতীত প্রবেশ করবে না। কান্না না আসলে সেখানে প্রবেশ করো না, যেন তাদের উপর যা আপতিত হয়েছিল তা তোমাদের প্রতিও আসতে না পারে। (৩৩৮০, ৩৩৮১, ৪৪১৯, ৪৪২০, ৪৭০২; মুসলিম ৫৩/১ হাঃ ২৯৮, আহমাদ ৫২৫) (আধুনিক প্রকাশনীঃ ৪১৫, ইসলামিক ফাউন্ডেশনঃ ৪২১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَيُذْكَرُ أَنَّ عَلِيًّا رَضِيَ اللَّهُ عَنْهُ كَرِهَ الصَّلاَةَ بِخَسْفِ بَابِلَ উল্লেখ রয়েছে যে, ‘আলী (রাযি.) ব্যাবিলনের ধ্বংসস্তূপে সালাত আদায় করা মাকরূহ মনে করতেন। ৪৩৩. ‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা এসব ‘আযাবপ্রাপ্ত সম্প্রদায়ের লোকালয়ে ক্রন্দনরত অবস্থা ব্যতীত প্রবেশ করবে না। কান্না না আসলে সেখানে প্রবেশ করো না, যেন তাদের উপর যা আপতিত হয়েছিল তা তোমাদের প্রতিও আসতে না পারে। (৩৩৮০, ৩৩৮১, ৪৪১৯, ৪৪২০, ৪৭০২; মুসলিম ৫৩/১ হাঃ ২৯৮, আহমাদ ৫২৫) (আধুনিক প্রকাশনীঃ ৪১৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>433</td></tr><tr><td>Arabic No</td><td>433</td></tr><tr><td>Reference</td><td>Book 8 Hadith 83</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (‘ஹிஜ்ர்’வாசிகளைக் குறித்து), “இவர்களைத் தீண்டியதைப் போன்ற அதே வேதனை நம்மையும் தீண்டிவிடுமோ என்று (அஞ்சி) அழுதபடியே தவிர, வேதனை செய்யப்பட்ட இந்த மக்களின் (வசிப்பிடங்கள்) வழியாகச் செல்லாதீர்கள். உங்களால் அழ முடியாவிட்டால் அந்த இடத்திற்கே செல்லாதீர்கள்” என்று (ஹிஜ்ர் பிரதேசத்தைக் கடந்து சென்றபோது எங்களிடம்) கூறினார்கள்.41 அத்தியாயம் : 8
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (‘ஹிஜ்ர்’வாசிகளைக் குறித்து), “இவர்களைத் தீண்டியதைப் போன்ற அதே வேதனை நம்மையும் தீண்டிவிடுமோ என்று (அஞ்சி) அழுதபடியே தவிர, வேதனை செய்யப்பட்ட இந்த மக்களின் (வசிப்பிடங்கள்) வழியாகச் செல்லாதீர்கள். உங்களால் அழ முடியாவிட்டால் அந்த இடத்திற்கே செல்லாதீர்கள்” என்று (ஹிஜ்ர் பிரதேசத்தைக் கடந்து சென்றபோது எங்களிடம்) கூறினார்கள்.41 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>433</td></tr><tr><td>Arabic No</td><td>433</td></tr><tr><td>Reference</td><td>Book 8 Hadith 83</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: Azaba uğramış kavimlerin yurdundan ancak ağlayarak geçiniz! Eğer ağlamıyorsanız oradan geçmeyin ki, onların başına gelenler sizin de başınıza gelmesin. Tekrar: 338, 3381, 4419, 4420, 4702
+Abdullah İbn Ömer Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: Azaba uğramış kavimlerin yurdundan ancak ağlayarak geçiniz! Eğer ağlamıyorsanız oradan geçmeyin ki, onların başına gelenler sizin de başınıza gelmesin. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>433</td></tr><tr><td>Arabic No</td><td>433</td></tr><tr><td>Reference</td><td>Book 8 Hadith 83</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَخَرَجَ عَلِيُّ بْنُ أَبِي طَالِبٍ عَلَيْهِ السَّلاَم فَقَصَرَ وَهُوَ يَرَى الْبُيُوتَ فَلَمَّا رَجَعَ قِيلَ لَهُ هَذِهِ الْكُوفَةُ قَالَ لاَ حَتَّى نَدْخُلَهَا. ‘আলী (রাযি.) বের হবার পরই কসর করলেন। অথচ তিনি ঘর-বাড়ি দেখতেছিলেন, যখন তিনি ফিরলেন তখন তাঁকে বলা হল, এ তো কূফা। তিনি বললেন, না, যতক্ষণ কুফায় প্রবেশ না করি (ততক্ষণ কসর করব)। ১০৮৯. আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে মদিনা্য় যুহরের সালাত চার রাক‘আত আদায় করেছি এবং যুল-হুলাইফায় আসরের সালাত দু’ রাক‘আত আদায় করেছি। (১৫৪৬, ১৫৪৭, ১৫৪৮, ১৫৫১, ১৭১২, ১৭১৩, ১৭১৫, ২৯৫১, ২৯৮৬; মুসলিম ৬/১, হাঃ ৬৯০, আহমাদ ২৩৭০৩) (আধুনিক প্রকাশনীঃ ১০২৩, ইসলামিক ফাউন্ডেশনঃ ১০২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَخَرَجَ عَلِيُّ بْنُ أَبِي طَالِبٍ عَلَيْهِ السَّلاَم فَقَصَرَ وَهُوَ يَرَى الْبُيُوتَ فَلَمَّا رَجَعَ قِيلَ لَهُ هَذِهِ الْكُوفَةُ قَالَ لاَ حَتَّى نَدْخُلَهَا. ‘আলী (রাযি.) বের হবার পরই কসর করলেন। অথচ তিনি ঘর-বাড়ি দেখতেছিলেন, যখন তিনি ফিরলেন তখন তাঁকে বলা হল, এ তো কূফা। তিনি বললেন, না, যতক্ষণ কুফায় প্রবেশ না করি (ততক্ষণ কসর করব)। ১০৮৯. আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে মদিনা্য় যুহরের সালাত চার রাক‘আত আদায় করেছি এবং যুল-হুলাইফায় আসরের সালাত দু’ রাক‘আত আদায় করেছি। (১৫৪৬, ১৫৪৭, ১৫৪৮, ১৫৫১, ১৭১২, ১৭১৩, ১৭১৫, ২৯৫১, ২৯৮৬; মুসলিম ৬/১, হাঃ ৬৯০, আহমাদ ২৩৭০৩) (আধুনিক প্রকাশনীঃ ১০২৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 18 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுடன் (மக்கா நோக்கிப் புறப்பட்டபோது) லுஹ்ர் தொழுகையை மதீனாவில் நான்கு ரக்அத் களாகத் தொழுதேன். (மதீனாவுக்கு அருகிலுள்ள) ‘துல்ஹுலைஃபா’வில் (அஸ்ர் தொழுகையை) இரண்டு ரக்அத்களாக (சுருக்கி)த் தொழுதேன்.9 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 18
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுடன் (மக்கா நோக்கிப் புறப்பட்டபோது) லுஹ்ர் தொழுகையை மதீனாவில் நான்கு ரக்அத் களாகத் தொழுதேன். (மதீனாவுக்கு அருகிலுள்ள) ‘துல்ஹுலைஃபா’வில் (அஸ்ர் தொழுகையை) இரண்டு ரக்அத்களாக (சுருக்கி)த் தொழுதேன்.9 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 18 Hadith 10</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik (r.a.)'in şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem ile birlikte öğle namazını Medine'de dört, Zülhuleyfe'de ise iki rekat kıldım. Tekrar: 1546-1548, 1551, 1712, 1714, 1715, 2951, 2986
+Enes İbn Malik (r.a.)'in şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem ile birlikte öğle namazını Medine'de dört, Zülhuleyfe'de ise iki rekat kıldım. Tekrar: 1546-1548, 1551
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 18 Hadith 10</td></tr></tbody></table></div>
 

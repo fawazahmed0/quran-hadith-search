@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল আযীয ইব্‌ন ইয়াহইয়া (রহঃ) ..... জাবের ইব্‌ন আব্‌দুল্লাহ (রাঃ) হতে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম নির্দেশ দিয়েছেন যে, যে ব্যক্তি দশ ওসক (পরিমাণ) খেজুর কাটবে সে যেন মিসকীনদের জন্য মসজিদে এক গুচ্ছ খেজুর ঝুলিয়ে রাখে।
+। জাবির ইবনু ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিদের্শ দিয়েছেন ‘দশ ওয়াসাক্ব খেজুর কাটলে এক কাঁদি খেজুর মিসকীনদের জন্য মসজিদে ঝুলিয়ে রাখবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1662</td></tr><tr><td>Arabic No</td><td>1662</td></tr><tr><td>Reference</td><td>Book 9 Hadith 107</td></tr></tbody></table></div>
 

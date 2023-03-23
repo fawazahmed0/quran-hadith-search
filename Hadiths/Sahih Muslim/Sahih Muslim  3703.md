@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৫৯৫, আন্তর্জাতিক নাম্বারঃ ১৪৮০ ৩৫৯৫-(.../...) মুহাম্মাদ ইবনু রাফি (রহঃ) ..... ইবনু শিহাব (রহঃ) এ সানাদে উরওয়ার উক্তিসহ বর্ণনা করেছেন যে, “আয়িশাহ (রাযিঃ) ফাতিমার উক্ত ঘটনা অস্বীকার করেছেন। (ইসলামিক ফাউন্ডেশন ৩৫৬৫, ইসলামীক সেন্টার ৩৫৬৫)
+মুহাম্মাদ ইবনু রাফি (রহঃ) ..... ইবনু শিহাব (রহঃ) এ সানাদে উরওয়ার উক্তিসহ বর্ণনা করেছেন যে, “আয়িশাহ (রাযিঃ) ফাতিমার উক্ত ঘটনা অস্বীকার করেছেন। (ইসলামিক ফাউন্ডেশন ৩৫৬৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3703</td></tr><tr><td>Arabic No</td><td>1480.07</td></tr><tr><td>Reference</td><td>Book 18 Hadith 51</td></tr></tbody></table></div>
 

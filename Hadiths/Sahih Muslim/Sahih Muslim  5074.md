@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৯৬৮, আন্তর্জাতিক নাম্বারঃ ১৯৬১ ৪৯৬৮-(.../...) উবাইদুল্লাহ ইবনু মু'আয ..... বারা ইবনু আযিব (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৯১৪, ইসলামিক সেন্টার ৪৯১৮)
+উবাইদুল্লাহ ইবনু মু'আয ..... বারা ইবনু আযিব (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৯১৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5074</td></tr><tr><td>Arabic No</td><td>1961.06</td></tr><tr><td>Reference</td><td>Book 35 Hadith 11</td></tr></tbody></table></div>
 

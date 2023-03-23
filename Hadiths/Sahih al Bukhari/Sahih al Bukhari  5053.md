@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘আমর (রাঃ) বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাকে জিজ্ঞেস করলেন, কত দিনে তুমি কুরআন খতম কর? [১১৩১] (আধুনিক প্রকাশনীঃ ৪৬৮০, ইসলামিক ফাউন্ডেশনঃ ৪৬৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘আমর (রাঃ) বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাকে জিজ্ঞেস করলেন, কত দিনে তুমি কুরআন খতম কর? [১১৩১] (আধুনিক প্রকাশনীঃ ৪৬৮০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 66 Hadith 78</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'd bin Hafsh] Telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: என்னிடம் நபி (ஸல்) அவர்கள், ‘‘எத்தனை நாட்களில் குர்ஆனை ஓதி முடிக்கிறாய்?” என்று கேட்டார்கள். அத்தியாயம் : 66
+அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் கூறியதாவது: என்னிடம் நபி (ஸல்) அவர்கள், ‘‘எத்தனை நாட்களில் குர்ஆனை ஓதி முடிக்கிறாய்?” என்று கேட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 66 Hadith 78</td></tr></tbody></table></div>
 

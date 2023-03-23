@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১৫৮। ইবনু আব্বাস (রাযিঃ) কর্তৃক বর্ণিত আছে, তিনি বলেন, জিবরীল (আঃ)-কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আপনি যে কতবার আমাদের সাথে সাক্ষাৎ করেন তার চেয়ে বেশি সাক্ষাৎ করতে কিসে আপনাকে বাধা দেয়? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ এ কথার পরিপ্রেক্ষিতে এ আয়াতটি অবতীর্ণ হয় (অনুবাদ) “আপনার রবের নির্দেশ ব্যতীত আমরা অবতীর্ণ হই না। আমাদের যা কিছু সম্মুখে আছে, আমাদের পিছনে যা কিছু আছে এবং এ দুয়ের মাঝখানে যা কিছু আছে, সে সবের প্রভু তিনিই। আপনার প্রতিপালক কখনো ভুলে যান না”— (সূরা মারইয়াম ৬৪)। সহীহঃ বুখারী (৪৭৩১) আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। হুসাইন ইবনু হুরাইস ওয়াকী হতে তিনি আমর ইবনু যার হতে এই সনদে অনুরূপ বর্ণনা করেছেন।
+। ইবনু আব্বাস (রাযিঃ) কর্তৃক বর্ণিত আছে, তিনি বলেন, জিবরীল (আঃ)-কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আপনি যে কতবার আমাদের সাথে সাক্ষাৎ করেন তার চেয়ে বেশি সাক্ষাৎ করতে কিসে আপনাকে বাধা দেয়? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ এ কথার পরিপ্রেক্ষিতে এ আয়াতটি অবতীর্ণ হয় (অনুবাদ) “আপনার রবের নির্দেশ ব্যতীত আমরা অবতীর্ণ হই না। আমাদের যা কিছু সম্মুখে আছে, আমাদের পিছনে যা কিছু আছে এবং এ দুয়ের মাঝখানে যা কিছু আছে, সে সবের প্রভু তিনিই। আপনার প্রতিপালক কখনো ভুলে যান না”— (সূরা মারইয়াম ৬৪)। সহীহঃ বুখারী (৪৭৩১) আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। হুসাইন ইবনু হুরাইস ওয়াকী হতে তিনি আমর ইবনু যার হতে এই সনদে অনুরূপ বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3158</td></tr><tr><td>Arabic No</td><td>3158</td></tr><tr><td>Reference</td><td>Book 47 Hadith 210</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Sa'eed bin Jubair:from Ibn 'Abbas who said: "The Messenger of Allah (ﷺ) said to Jibra'il: 'What prevents you from visiting us more than you visit us?'" He said: "So this Ayah was revealed: And we descend not except by the command of your Lord. To Him belongs what is before us and what is behind us." Up to the end of the Ayah (19:64)
+Narrated Sa'eed bin Jubair:from Ibn 'Abbas who said: "The Messenger of Allah (ﷺ) said to Jibra'il: 'What prevents you from visiting us more than you visit us?'" He said: "So this Ayah was revealed: And we descend not except by the command of your Lord. To Him belongs what is before us and what is behind us." Up to the end of the Ayah (19:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3158</td></tr><tr><td>Arabic No</td><td>3158</td></tr><tr><td>Reference</td><td>Book 47 Hadith 210</td></tr></tbody></table></div>
 

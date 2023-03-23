@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১২০, আন্তর্জাতিক নাম্বারঃ ৬১ ১২০-(১১২/৬১) যুহারর ইবনু হারব (রহ) ... আবূ যার (রযিঃ) বলেন যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছেন, যে ব্যক্তি জেনে শুনে নিজ পিতার পরিবর্তে অন্য কাউকে পিতা বলে, সে কুফুরী করল। আর যে ব্যক্তি এমন কিছুর দাবী করে যা তার নয়, সে আমাদের দলভুক্ত নয় এবং সে যেন জাহান্নামে তার আবাসস্থল বানিয়ে নেয়। আর কেউ কাউকে কাফির বলে ডাকলে বা আল্লাহর দুশমন' বলে ডাকল, যদি সে তা না হয় তাহলে এ কুফুরী সম্বোধনকারীর প্রতি ফিরে আসবে। (ইসলামিক ফাউন্ডেশনঃ ১২১, ইসলামিক সেন্টারঃ ১২৫)
+যুহারর ইবনু হারব (রহ) ... আবূ যার (রযিঃ) বলেন যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছেন, যে ব্যক্তি জেনে শুনে নিজ পিতার পরিবর্তে অন্য কাউকে পিতা বলে, সে কুফুরী করল। আর যে ব্যক্তি এমন কিছুর দাবী করে যা তার নয়, সে আমাদের দলভুক্ত নয় এবং সে যেন জাহান্নামে তার আবাসস্থল বানিয়ে নেয়। আর কেউ কাউকে কাফির বলে ডাকলে বা আল্লাহর দুশমন' বলে ডাকল, যদি সে তা না হয় তাহলে এ কুফুরী সম্বোধনকারীর প্রতি ফিরে আসবে। (ইসলামিক ফাউন্ডেশনঃ ১২১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>61</td></tr><tr><td>Reference</td><td>Book 1 Hadith 123</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Züheyr b. Harb rivayet etti. (Dedi ki): Bize Abdüssamed b. Abdîl vâris rivayet etti. (Dedi ki): Bize babam rivayet etti. (Dedi ki): Bize Hüseyin el-Muallim, îbni Eüreyde'den, o da Yahya b. Ya'mer'den, o da Ebu'l-Esved'den, o da Ebu Zerr'den, tahdis etti. Buna göre o Rasulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinlemiştir: "Kendi babasını bildiği halde babasından başka birisinden olduğunu iddia eden bir kimse, mutlaka kafir olur. Kendisinin olmayan bir şeyi (kendisinindir diye) iddia eden bizden değildir. Cehennem ateşindeki yerine hazırlansın. Bir adamı -böyle olmadığı halde- kafir diye -yahut: Al/ah'ın düşmanı diye, dedi- çağıranın, o sözü mutlaka onun üzerine döner. " Diğer tahric: Buhari, 3317,5698; Tuhfetu'I-Eşraf, 11929
+Bana Züheyr b. Harb rivayet etti. (Dedi ki): Bize Abdüssamed b. Abdîl vâris rivayet etti. (Dedi ki): Bize babam rivayet etti. (Dedi ki): Bize Hüseyin el-Muallim, îbni Eüreyde'den, o da Yahya b. Ya'mer'den, o da Ebu'l-Esved'den, o da Ebu Zerr'den, tahdis etti. Buna göre o Rasulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinlemiştir: "Kendi babasını bildiği halde babasından başka birisinden olduğunu iddia eden bir kimse, mutlaka kafir olur. Kendisinin olmayan bir şeyi (kendisinindir diye) iddia eden bizden değildir. Cehennem ateşindeki yerine hazırlansın. Bir adamı -böyle olmadığı halde- kafir diye -yahut: Al/ah'ın düşmanı diye, dedi- çağıranın, o sözü mutlaka onun üzerine döner. " Diğer tahric: Buhari, 3317,5698; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>61</td></tr><tr><td>Reference</td><td>Book 1 Hadith 123</td></tr></tbody></table></div>
 

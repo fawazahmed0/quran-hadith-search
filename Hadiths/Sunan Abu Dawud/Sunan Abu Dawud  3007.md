@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) ...... আবদুল্লাহ ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা উমার (রাঃ) বলেনঃ হে জনগণ! রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বরের ইয়াহূদীদের সাথে এরূপ চুক্তি করেন যে, আমরা যখনই ইচ্ছা করব, তখনই তাদের বের করে দেব। কাজেই যদি কারও ধন-সস্পদ তাদের কাছে থাকে, তবে সে যেন তা নিয়ে নেয়। কেননা, আমি ইয়াহূদীদের দেশ হতে বের করে দেব। অবশেষে তিনি তাদের বের করে দেন।
+। ‘আব্দুল্লাহ ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। একদা ‘উমার (রাঃ) বলেন, হে লোকসকল! রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বারের ইয়াহুদীদের এ শর্তে সেখানকার কৃষি জমিতে নিয়োগ দেন যে, ‘‘আমার যখন ইচ্ছা হবে তাদেরকে সেখান থেকে বিতাড়িত করবো।’’ সুতরাং সেখানের ইয়াহুদীদের যার কাছে যে সম্পদ আছে সে যেন তা হস্তগত করে। কারণ ইয়াহুদীদের বিতাড়িত করবো। অতঃপর তিনি তাদেরকে বিতাড়িত করলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3007</td></tr><tr><td>Arabic No</td><td>3007</td></tr><tr><td>Reference</td><td>Book 20 Hadith 80</td></tr></tbody></table></div>
 

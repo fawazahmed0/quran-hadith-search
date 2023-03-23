@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যিয়াদ ইবন আয়্যূব (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উহুদ যুদ্ধের শহীদদের ব্যাপারে এরূপ নির্দেশ দেন যে, তাদের দেহ হতে অস্ত্রশস্ত্র ও লৌহবর্ম খুলে তাদের রক্তমাখা বস্ত্রসহ দাফন করা হোক।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উহুদের শহীদদের ব্যাপারে নির্দেশ দিলেন যে, তাদের শরীর থেকে যুদ্ধাস্ত্র ও চামড়ার বস্ত্র খুলে নিয়ে তাদের রক্তমাখা পরিধেয় বস্ত্রসহ তাদেরকে দাফন করতে হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3134</td></tr><tr><td>Arabic No</td><td>3134</td></tr><tr><td>Reference</td><td>Book 21 Hadith 46</td></tr></tbody></table></div>
 

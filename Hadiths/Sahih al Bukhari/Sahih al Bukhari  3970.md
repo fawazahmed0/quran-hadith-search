@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ইসহাক (রহ.) হতে বর্ণিত যে, আমি শুনলাম, এক ব্যক্তি বারা (রাঃ)-কে জিজ্ঞেস করল, ‘আলী (রাঃ) কি বদর যুদ্ধে যোগদান করেছিলেন? তিনি বললেন, ‘আলী ঐ যুদ্ধে মুকাবালা করেছিলেন এবং হাক্কে বিজয়ী করেছিলেন। (আধুনিক প্রকাশনীঃ ৩৬৭৮, ইসলামিক ফাউন্ডেশনঃ ৩৬৮১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ইসহাক (রহ.) হতে বর্ণিত যে, আমি শুনলাম, এক ব্যক্তি বারা (রাঃ)-কে জিজ্ঞেস করল, ‘আলী (রাঃ) কি বাদর যুদ্ধে যোগদান করেছিলেন? তিনি বললেন, ‘আলী ঐ যুদ্ধে মুকাবালা করেছিলেন এবং হাক্কে বিজয়ী করেছিলেন। (আধুনিক প্রকাশনীঃ ৩৬৭৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3970</td></tr><tr><td>Arabic No</td><td>3970</td></tr><tr><td>Reference</td><td>Book 64 Hadith 23</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ahmad bin Sa'id Abu 'Abdullah] telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஇஸ்ஹாக் (ரஹ்) அவர்கள் கூறியதாவது: பராஉ பின் ஆஸிப் (ரலி) அவர்களிடம் ஒருவர், “அலீ (ரலி) அவர்கள் பத்ர் போரில் கலந்துகொண்டார்களா?” என்று கேட்டார். (“ஆம். கலந்துகொண்டார்கள்) கவசத்திற்குமேல் கவசம் அணிந்து கொண்டு (களத்தில் இறங்கி) தனித்துப் போராடினார்கள்” என்று பராஉ (ரலி) அவர்கள் பதிலளித்தார்கள். அத்தியாயம் : 64
+அபூஇஸ்ஹாக் (ரஹ்) அவர்கள் கூறியதாவது: பராஉ பின் ஆஸிப் (ரலி) அவர்களிடம் ஒருவர், “அலீ (ரலி) அவர்கள் பத்ர் போரில் கலந்துகொண்டார்களா?” என்று கேட்டார். (“ஆம். கலந்துகொண்டார்கள்) கவசத்திற்குமேல் கவசம் அணிந்து கொண்டு (களத்தில் இறங்கி) தனித்துப் போராடினார்கள்” என்று பராஉ (ரலி) அவர்கள் பதிலளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3970</td></tr><tr><td>Arabic No</td><td>3970</td></tr><tr><td>Reference</td><td>Book 64 Hadith 23</td></tr></tbody></table></div>
 

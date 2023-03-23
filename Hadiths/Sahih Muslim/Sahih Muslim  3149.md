@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩০৪০, আন্তর্জাতিক নাম্বারঃ ১৩০২ ৩০৪০-(.../...) উমাইয়াহ ইবনু বিসত্বাম (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে এ সানাদ সূত্রেও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উপরোক্ত হাদীসে অনরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩০১৫, ইসলামীক সেন্টার ৩০১২)
+উমাইয়াহ ইবনু বিসত্বাম (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে এ সানাদ সূত্রেও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উপরোক্ত হাদীসে অনরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩০১৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3149</td></tr><tr><td>Arabic No</td><td>1302.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 353</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ A hadith like this is narrated on the authority of Abu Huraira
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில், நான்காவது தடவையில் "குறைத்துக்கொள்பவர்களுக்கும் (அல்லாஹ் அருள் புரிவானாக)" என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பிரார்த்தித்தார்கள் என இடம் பெற்றுள்ளது. அத்தியாயம் : 15
+மேற்கண்ட ஹதீஸ் மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில், நான்காவது தடவையில் "குறைத்துக்கொள்பவர்களுக்கும் (அல்லாஹ் அருள் புரிவானாக)" என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பிரார்த்தித்தார்கள் என இடம் பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3149</td></tr><tr><td>Arabic No</td><td>1302.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 353</td></tr></tbody></table></div>
 

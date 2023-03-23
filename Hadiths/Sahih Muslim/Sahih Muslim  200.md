@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১০৪, আন্তর্জাতিক নাম্বারঃ ৫৬ ১০৪-(৯৮/...) আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও ইবনু নুমায়র (রহঃ) ..... জারীর ইবনু 'আবদুল্লাহ (রাযিঃ) বলেন, আমি প্রত্যেক মুসলিমের কল্যাণ করার শর্তে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর নিকট বাই’আত করেছি*। (ইসলামিক ফাউন্ডেশনঃ ১০৬, ইসলামিক সেন্টারঃ ১০৮) * সালাত ও যাকাতকে নির্দিষ্ট করেছেন, শাহাদাতাইনের পরই এর স্থান, আর বাই’আত শব্দ ব্যাপক অন্যান্য সকল ইবাদাতের অন্তর্ভুক্ত হয়ে যাবে।
+আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও ইবনু নুমায়র (রহঃ) ..... জারীর ইবনু 'আবদুল্লাহ (রাযিঃ) বলেন, আমি প্রত্যেক মুসলিমের কল্যাণ করার শর্তে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর নিকট বাই’আত করেছি*। (ইসলামিক ফাউন্ডেশনঃ ১০৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekir b. Ebî Şeybe ile Züheyr b. Harb ve İbni Nümeyr rivayet ettiler. Dediler ki: Bize Süfyân, Ziyâd b. îlâka'dan rivayet etti.. Ziyad, Cerir b. Abdullah'ı: "Nebi (Sallallahu aleyhi ve Sellem)'e her Müslümana nasihat etmek şartı ile bey'at ettim" dediğini dinlemiştir. Diğer tahric: Buhari, 58, 2565; Nesai, 4167; Tuhfetu'l-Eşraf, 3210
+Bize Ebu Bekir b. Ebî Şeybe ile Züheyr b. Harb ve İbni Nümeyr rivayet ettiler. Dediler ki: Bize Süfyân, Ziyâd b. îlâka'dan rivayet etti.. Ziyad, Cerir b. Abdullah'ı: "Nebi (Sallallahu aleyhi ve Sellem)'e her Müslümana nasihat etmek şartı ile bey'at ettim" dediğini dinlemiştir. Diğer tahric: Buhari, 58, 2565; Nesai, 4167; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৬৮৬। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, একবার মদীনার জনগণের মধ্যে ভীতি ছড়িয়ে পড়ে। আমাদের মানদূব নামক ঘোড়াটি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ধার নিলেন। তিনি (বাইরে হতে ঘুরে এসে) বললেনঃ আমরা ভয় পাওয়ার কোন কারণ খুঁজে পেলাম না। আমরা অবশ্য ঘোড়াটিকে সমুদ্রের স্রোতের অনুরূপ বেগবান পেলাম। সহীহ, দেখুন পূর্বের হাদীস এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, একবার মাদীনার জনগণের মধ্যে ভীতি ছড়িয়ে পড়ে। আমাদের মানদূব নামক ঘোড়াটি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ধার নিলেন। তিনি (বাইরে হতে ঘুরে এসে) বললেনঃ আমরা ভয় পাওয়ার কোন কারণ খুঁজে পেলাম না। আমরা অবশ্য ঘোড়াটিকে সমুদ্রের স্রোতের অনুরূপ বেগবান পেলাম। সহীহ, দেখুন পূর্বের হাদীস এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1686</td></tr><tr><td>Arabic No</td><td>1686</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
 

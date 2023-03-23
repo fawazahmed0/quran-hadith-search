@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন য়ূনুস (রহঃ) ...... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি এমন অবস্থায় শয়ন করে যে, তার হাতে তরকারি বা গোশতের ঝোল লেগে থাকে এবং সে তা ধোয় না; এর ফলে যদি তার কোন ক্ষতি হয়, তবে তার উচিত হবে নিজকে দোষারোপ করা।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি হাত পরিস্কার না করেই হাতে গোশতের গন্ধ ও তৈলাক্ততা নিয়ে ঘুমালো, এতে তার কোনো ক্ষতি হলে এজন্য সে নিজেকেই যেন তিরস্কার করে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3852</td></tr><tr><td>Arabic No</td><td>3852</td></tr><tr><td>Reference</td><td>Book 28 Hadith 117</td></tr></tbody></table></div>
 

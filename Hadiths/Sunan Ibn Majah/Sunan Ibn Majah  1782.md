@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৭৮২। আবূ উমামাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি দু’ ঈদের রাতে আল্লাহর সন্তুষ্টি লাভের উদ্দেশে ইবাদত করবে তার অন্তর ঐ দিন মরবে না, যে দিন অন্তরসমূহ মরে যাবে।
+। আবূ উমামাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি দু’ ঈদের রাতে আল্লাহর সন্তুষ্টি লাভের উদ্দেশে ইবাদত করবে তার অন্তর ঐ দিন মরবে না, যে দিন অন্তরসমূহ মরে যাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mawdu</td><td>Al-Albani</td></tr><tr><td>Mawdu</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 7 Hadith 145</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন বাশশার (রহঃ) ...... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ আল্লাহ ঐ বান্দার উপর রহম করুন, যে রাত্রিকালে উঠে নামায আদায় করে এবং তার স্ত্রীকেও জাগায় এবং সেও নামায আদায় করে। যদি সে (স্ত্রী) নিদ্রার কারণে উঠতে অস্বীকার করে, তবে সে তার মুখে পানি ছিটিয়ে দেয়। আল্লাহ তাআলা ঐ মহিলার উপরও রহম করুন, যে রাত্রিতে উঠে নামায আদায় করে এবং তার স্বামীকে ঘুম হতে জাগায় এবং সেও নামায পড়ে। যদি সে ঘুম হতে উঠতে অস্বীকার করে তবে সে তার মুখে পানি ছিটিয়ে জাগিয়ে তোলে। (নাসাঈ, ইবন মাজা)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ এমন ব্যক্তিকে দয়া করুন, যে রাতে উঠে নিজেও সালাত আদায় করে এবং তার স্ত্রীকেও জাগায় এবং সেও সালাত আদায় করে। সে উঠতে না চাইলে তার মুখমন্ডলে পানি ছিটিয়ে দেয়। আল্লাহ এমন নারীর প্রতিও অনুগ্রহ করুন, যে রাতে উঠে নিজে সালাত আদায় করে এবং তার স্বামীকেও জাগায়। সে উঠতে না চাইলে তার মুখন্ডলে পানি ছিটিয়ে দেয়।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1450</td></tr><tr><td>Arabic No</td><td>1450</td></tr><tr><td>Reference</td><td>Book 8 Hadith 35</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada Kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den; demiştir ki:ResuluIIah (s.a.v.) şöyle buyurdu: "Geceleyin kalkıp namaz kılan ve karısını uyandırarak o'na da kaldıran, şayet kalkmak istemezse, yüzüne su serpen erkeğe Allah rahmet etsin (günahlarını bağışlasın). Yine geceleyin kalkıp namaz kılan ve kocasını uyandıran, kalkmak istemezse yüzüne su serpen kadına da Allah rahmet etsin.” Bu hadis'i tahric eden diğer kaynaklar: Buhârî, buyu; Tirmizi, kıyâme; İbn Mâce, ikâme; ticârât; Ahmed b. Hanbel, I, 463; II, 247, 250,436
+Ebu Hureyre (r.a.)'den; demiştir ki:ResuluIIah (s.a.v.) şöyle buyurdu: "Geceleyin kalkıp namaz kılan ve karısını uyandırarak o'na da kaldıran, şayet kalkmak istemezse, yüzüne su serpen erkeğe Allah rahmet etsin (günahlarını bağışlasın). Yine geceleyin kalkıp namaz kılan ve kocasını uyandıran, kalkmak istemezse yüzüne su serpen kadına da Allah rahmet etsin.” Bu hadis'i tahric eden diğer kaynaklar: Buhârî, buyu; Tirmizi, kıyâme; İbn Mâce, ikâme; ticârât; Ahmed b. Hanbel, I, 463; II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1450</td></tr><tr><td>Arabic No</td><td>1450</td></tr><tr><td>Reference</td><td>Book 8 Hadith 35</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৪৪৩, আন্তর্জাতিক নাম্বারঃ ১০৯৭ ২৪৪৩-(.../...) 'আমর আন নাকিদ ও ইবনুল মুসান্না (রহঃ) ..... কতাদাহ্ (রহঃ) এর এ সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ২৪২০, ইসলামীক সেন্টার ২৪১৯)
+আমর আন নাকিদ ও ইবনুল মুসান্না (রহঃ) ..... কতাদাহ্ (রহঃ) এর এ সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ২৪২০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2553</td></tr><tr><td>Arabic No</td><td>1097.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 59</td></tr></tbody></table></div>
 

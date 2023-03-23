@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কেউ এক কাপড় পরে এমনভাবে যেন সালাত আদায় না করে যে, তার উভয় কাঁধে এর কোন অংশ নেই। (৩৬০; মুসলিম ৪/৫২, হাঃ ৫১৬, আহমাদ ৭৩১১) (আধুনিক প্রকাশনীঃ ৩৪৬, ইসলামিক ফাউন্ডেশনঃ ৩৫২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের কেউ এক কাপড় পরে এমনভাবে যেন সালাত আদায় না করে যে, তার উভয় কাঁধে এর কোন অংশ নেই। (৩৬০; মুসলিম ৪/৫২, হাঃ ৫১৬, আহমাদ ৭৩১১) (আধুনিক প্রকাশনীঃ ৩৪৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>359</td></tr><tr><td>Arabic No</td><td>359</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Malik] dari [Abu Az Zanad] dar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் தம் தோள்களை மறைக்காமல் ஒரே ஆடையை அணிந்துகொண்டு தொழ வேண்டாம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 8
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் தம் தோள்களை மறைக்காமல் ஒரே ஆடையை அணிந்துகொண்டு தொழ வேண்டாம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>359</td></tr><tr><td>Arabic No</td><td>359</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu 'Ashim] dari [Malik] dari [Abu Az Zanad] dar
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre'den Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu nakledilmiştir: Içinizden biri omuzları açık bir halde, bir elbise ile namaz kılmasın’’ Tekrar: 360
+Ebu Hureyre'den Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu nakledilmiştir: Içinizden biri omuzları açık bir halde, bir elbise ile namaz kılmasın’’ Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>359</td></tr><tr><td>Arabic No</td><td>359</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
 

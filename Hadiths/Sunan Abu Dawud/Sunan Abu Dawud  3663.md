@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মুছান্না (রহঃ) ...... আবদুল্লাহ ইবন আমর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট বনী ইসরাঈলের ঘটনা বর্ণনা করতেন, এমন কি এতে সকাল হয়ে যেত। এরপর তিনি ফজরের সালাত আদায়ের জন্য উঠতেন।
+। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট বনী ইসরাঈল সম্পর্কে (দীর্ঘক্ষণ) আলোচনা করতেন, সকালে শুধু ফারজ সালাত আদায়ের জন্যই আলোচনা বন্ধ করে উঠতেন।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3663</td></tr><tr><td>Arabic No</td><td>3663</td></tr><tr><td>Reference</td><td>Book 26 Hadith 23</td></tr></tbody></table></div>
 

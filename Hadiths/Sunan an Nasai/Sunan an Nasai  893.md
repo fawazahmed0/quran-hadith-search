@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৯৩, আন্তর্জাতিক নাম্বারঃ ৮৯৪ ৮৯৩. ইসমাঈল ইবনু মাসউদ (রহ.) ..... ‘আবদুল্লাহ ইবনু মাসউদ (রাঃ) হতে বর্ণিত। তিনি এক ব্যক্তিকে দেখলেন, সে সালাত আদায় করছে দু'পা মিলিয়ে। তিনি বললেন, এ ব্যক্তি সুন্নাতের খেলাফ করেছে। যদি সে দু'পায়ের মাঝে ফাঁক রেখে দাঁড়াত তা হলে তা আমার কাছে বেশী পছন্দীয় হতো। সনদ দুর্বলঃ বায়হাকীর সুনানুল কুবরা ৭৬৭।
+। ইসমাঈল ইবনু মাসউদ (রহঃ) ... আব্দুল্লাহ ইবনু মাসউদ (রাঃ) থেকে বর্ণিত যে, তিনি এক ব্যক্তিকে দেখলেন, সে সালাত আদায় করছে দু’পা মিলিয়ে। তিনি বললেন, এ ব্যক্তি সুন্নতের খেলাফ করছে। যদি সে দু'পায়ের মধ্যে ফাঁক রেখে দাঁড়াত তা হলে তা আমার কাছে অধিক পছন্দনীয় হত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
 

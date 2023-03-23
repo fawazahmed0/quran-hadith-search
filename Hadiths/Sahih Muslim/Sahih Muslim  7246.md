@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭১৩৮, আন্তর্জাতিক নাম্বারঃ ২৮৮৫ ৭১৩৮-(…/...) আব্‌দ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) হতে এ সূত্রে অবিকল হাদীস বর্ণিত আছে (ইসলামিক ফাউন্ডেশন ৬৯৮২, ইসলামিক সেন্টার ৭০৩৯)
+(…/...) আব্‌দ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) হতে এ সূত্রে অবিকল হাদীস বর্ণিত আছে (ইসলামিক ফাউন্ডেশন ৬৯৮২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7246</td></tr><tr><td>Arabic No</td><td>2885.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 12</td></tr></tbody></table></div>
 

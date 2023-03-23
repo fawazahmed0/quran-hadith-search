@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘আদ ইবনু আবূ ওয়াক্কাস (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘তুমি আল্লাহর নৈকট্য অর্জনের উদ্দেশে যা-ই ব্যয় কর না কেন, তোমাকে তার প্রতিদান নিশ্চিতরূপে প্রদান করা হবে। এমনকি তুমি তোমার স্ত্রীর মুখে যা তুলে দাও, তারও।’ (১২৯৫, ২৭৪২, ২৭৪৪, ৩৯৩৬, ৪৪০৯, ৫৩৫৪, ৫৬৫৯, ৫৬৬৮, ৬৩৭৩, ৬৭৩৩; মুসলিম ২৫/১ হাঃ ১৬২৮, আহমাদ ১৫৪৬) (আধুনিক প্রকাশনীঃ ৫৪, ইসলামিক ফাউন্ডেশনঃ ৫৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘আদ ইবনু আবূ ওয়াক্কাস (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘তুমি আল্লাহর নৈকট্য অর্জনের উদ্দেশে যা-ই ব্যয় কর না কেন, তোমাকে তার প্রতিদান নিশ্চিতরূপে প্রদান করা হবে। এমনকি তুমি তোমার স্ত্রীর মুখে যা তুলে দাও, তারও।’ (১২৯৫, ২৭৪২, ২৭৪৪, ৩৯৩৬, ৪৪০৯, ৫৩৫৪, ৫৬৫৯, ৫৬৬৮, ৬৩৭৩, ৬৭৩৩; মুসলিম ২৫/১ হাঃ ১৬২৮, আহমাদ ১৫৪৬) (আধুনিক প্রকাশনীঃ ৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Hakam bin Nafi'] berkata, telah mengabarkan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் அன்பை நாடி நீர் செய்கின்ற எந்த ஒரு செலவானாலும் சரி, அதற்காக உமக்கு நற்பலன் வழங்கப்படும். உம்முடைய மனைவியின் வாயில் (அன்புடன்) நீர் ஊட்டும் ஒரு கவள உணவு உட்பட. இதை சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 2
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் அன்பை நாடி நீர் செய்கின்ற எந்த ஒரு செலவானாலும் சரி, அதற்காக உமக்கு நற்பலன் வழங்கப்படும். உம்முடைய மனைவியின் வாயில் (அன்புடன்) நீர் ஊட்டும் ஒரு கவள உணவு உட்பட. இதை சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Hakam bin Nafi'] berkata, telah mengabarkan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sa'd b. Ebî Vakkas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Allah'ın rızasını gözeterek yaptığın her harcamadan dolayı sevap alırsın, hatta eşinin ağzına koyduğun lokmadan bile. Tekrar: 1295, 2742, 2744, 3936, 4409, 5354, 5659, 5668, 6373, 6733
+Sa'd b. Ebî Vakkas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Allah'ın rızasını gözeterek yaptığın her harcamadan dolayı sevap alırsın, hatta eşinin ağzına koyduğun lokmadan bile. Tekrar: 1295, 2742, 2744, 3936, 4409
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
 

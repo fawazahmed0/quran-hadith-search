@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(وَفِي أَمْوَالِهِمْ حَقٌّ لِلسَّائِلِ وَالْمَحْرُومِ) (আল্লাহর বাণী) তাদের (ধনীদের) সম্পদে হক রয়েছে যাচ্ঞাকারী ও বঞ্চিতের। (আয্-যারিয়াতঃ ১৯) ১৪৭৩. ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি ‘উমার (রাঃ)-কে বলতে শুনেছি যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে কিছু দান করতেন, তখন আমি বলতাম, যে আমার চেয়ে বেশি অভাবগ্রস্ত, তাকে দিন। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ তা গ্রহণ কর। যখন তোমার কাছে এসব মালের কিছু আসে অথচ তার প্রতি তোমার অন্তরের লোভ নেই এবং তার জন্য তুমি প্রার্থী নও, তখন তা তুমি গ্রহণ করবে। এরূপ না হলে তুমি তার প্রতি অন্তর ধাবিত করবে না। (৭১৬৩, ৭১৬৪, মুসলিম ১২/৩৬, হাঃ ১০৪৫, আহমাদ ১০০) (আধুনিক প্রকাশনীঃ ১৩৭৯, ইসলামিক ফাউন্ডেশনঃ ১৩৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وَفِي أَمْوَالِهِمْ حَقٌّ لِلسَّائِلِ وَالْمَحْرُومِ) (আল্লাহর বাণী) তাদের (ধনীদের) সম্পদে হক রয়েছে যাচ্ঞাকারী ও বঞ্চিতের। (আয্-যারিয়াতঃ ১৯) ১৪৭৩. ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি ‘উমার (রাঃ)-কে বলতে শুনেছি যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে কিছু দান করতেন, তখন আমি বলতাম, যে আমার চেয়ে বেশি অভাবগ্রস্ত, তাকে দিন। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ তা গ্রহণ কর। যখন তোমার কাছে এসব মালের কিছু আসে অথচ তার প্রতি তোমার অন্তরের লোভ নেই এবং তার জন্য তুমি প্রার্থী নও, তখন তা তুমি গ্রহণ করবে। এরূপ না হলে তুমি তার প্রতি অন্তর ধাবিত করবে না। (৭১৬৩, ৭১৬৪, মুসলিম ১২/৩৬, হাঃ ১০৪৫, আহমাদ ১০০) (আধুনিক প্রকাশনীঃ ১৩৭৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>1473</td></tr><tr><td>Reference</td><td>Book 24 Hadith 75</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எனக்கு நன்கொடை வழங்கும் வழக்கமுடையவர்களாக இருந்தார்கள். (அப்போதெல்லாம்) நான், “இதை என்னைவிட அதிகத் தேவையுடையவருக்குக் கொடுங்களேன்” என்பேன். அதற்கு நபி (ஸல்) அவர்கள், “இதை வாங்கிக்கொள்ளுங்கள்; நீங்கள் பிறரிடம் கேட்காமலும் பேராசை கொள்ளாமலும் இருக்கும்போது இவ்வாறு உங்களுக்கு வரும் பொருட்களைப் பெற்றுக்கொள்ளுங்கள். ஏதும் கிடைக்கவில்லை என்றால், நீங்களாக அதைத் தேடிச் செல்லாதீர்கள்” என்றார்கள். அத்தியாயம் : 24
+உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எனக்கு நன்கொடை வழங்கும் வழக்கமுடையவர்களாக இருந்தார்கள். (அப்போதெல்லாம்) நான், “இதை என்னைவிட அதிகத் தேவையுடையவருக்குக் கொடுங்களேன்” என்பேன். அதற்கு நபி (ஸல்) அவர்கள், “இதை வாங்கிக்கொள்ளுங்கள்; நீங்கள் பிறரிடம் கேட்காமலும் பேராசை கொள்ளாமலும் இருக்கும்போது இவ்வாறு உங்களுக்கு வரும் பொருட்களைப் பெற்றுக்கொள்ளுங்கள். ஏதும் கிடைக்கவில்லை என்றால், நீங்களாக அதைத் தேடிச் செல்லாதீர்கள்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>1473</td></tr><tr><td>Reference</td><td>Book 24 Hadith 75</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer, "Ömer r.a.'i şöyle derken işittim" demiştir: Resûlullah Sallallahu Aleyhi ve Sellem bana bir ata (geçimlik) vermişti. O'na, "Bunu benden daha çok ihtiyacı olan birine ver" dedim. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem bana, "Al bunu, sana, istemeden ve hırs göstermeden bir mal gelirse onu al, gelmezse de peşine düşme" buyurdu. Tekrar: 7163 ve 7164
+Abdullah İbn Ömer, "Ömer r.a.'i şöyle derken işittim" demiştir: Resûlullah Sallallahu Aleyhi ve Sellem bana bir ata (geçimlik) vermişti. O'na, "Bunu benden daha çok ihtiyacı olan birine ver" dedim. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem bana, "Al bunu, sana, istemeden ve hırs göstermeden bir mal gelirse onu al, gelmezse de peşine düşme" buyurdu. Tekrar: 7163 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>1473</td></tr><tr><td>Reference</td><td>Book 24 Hadith 75</td></tr></tbody></table></div>
 

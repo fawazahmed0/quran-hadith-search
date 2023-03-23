@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নবী সহধর্মিণী উম্মু সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট অসুস্থতার কথা জানালে তিনি বললেনঃ বাহনে আরোহণ করে মানুষের পেছনে পেছনে থেকে তাওয়াফ কর। আমি মানুষের পেছনে পেছনে থেকে তাওয়াফ করছিলাম, তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কা‘বা ঘরের পার্শ্বে সালাত আদায় করছিলেন এবং এতি তিনি (وَالطُّورِ وَكِتَابٍ مَسْطُورٍ) এই (সূরাটি) তিলাওয়াত করেছিলেন। (৪৬৪) (আধুনিক প্রকাশনীঃ ১৫১২, ইসলামিক ফাউন্ডেশনঃ ১৫১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নবী সহধর্মিণী উম্মু সালামাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট অসুস্থতার কথা জানালে তিনি বললেনঃ বাহনে আরোহণ করে মানুষের পেছনে পেছনে থেকে তাওয়াফ কর। আমি মানুষের পেছনে পেছনে থেকে তাওয়াফ করছিলাম, তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কা‘বা ঘরের পার্শ্বে সালাত আদায় করছিলেন এবং এতি তিনি (وَالطُّورِ وَكِتَابٍ مَسْطُورٍ) এই (সূরাটি) তিলাওয়াত করেছিলেন। (৪৬৪) (আধুনিক প্রকাশনীঃ ১৫১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1619</td></tr><tr><td>Arabic No</td><td>1619</td></tr><tr><td>Reference</td><td>Book 25 Hadith 104</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Um Salama:(the wife of the Prophet) I informed Allah's Messenger (ﷺ) 
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] dari [Muhammad bin 'Abdurrahman bin Nawfal] dari ['Urwah bin Az Zubair] dari [Zainab binti Abu Salamah] dari [Ummu Salamah radliallahu 'anhaa] isteri Nabi Shallallahu'alaihiwasallam berkata: "Aku mengadu kepada Rasulullah Shallallahu'alaihiwasallam bahwa kondisiku sedang lemah, maka Beliau berkata: "Thawaflah dari belakang orang banyak dengan mengendarai tunggangan". Maka aku thawaf sedang Rasulullah Shallallahu'alaihiwasallam saat itu shalat disisi Ka'bah Baitullah dan Beliau membaca Surah Ath-Thur (Surah ke 52)
+Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] dari [Muhammad bin 'Abdurrahman bin Nawfal] dari ['Urwah bin Az Zubair] dari [Zainab binti Abu Salamah] dari [Ummu Salamah radliallahu 'anhaa] isteri Nabi Shallallahu'alaihiwasallam berkata: "Aku mengadu kepada Rasulullah Shallallahu'alaihiwasallam bahwa kondisiku sedang lemah, maka Beliau berkata: "Thawaflah dari belakang orang banyak dengan mengendarai tunggangan". Maka aku thawaf sedang Rasulullah Shallallahu'alaihiwasallam saat itu shalat disisi Ka'bah Baitullah dan Beliau membaca Surah Ath-Thur (Surah ke)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1619</td></tr><tr><td>Arabic No</td><td>1619</td></tr><tr><td>Reference</td><td>Book 25 Hadith 104</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவி யார் உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: (ஹஜ்ஜின்போது) “நான் நோயுற்றுள் ளேன்” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் முறையிட்டேன். அதற்கு அவர்கள், “நீ மக்களுக்குப் பின்னால் வாகனத்தில் அமர்ந்து தவாஃப் செய்” என்றார்கள். நான் அவ்வாறே தவாஃப் செய்தேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘அத்தூர்’ எனும் (52ஆவது) அத்தியாயத்தை ஓதியவாறு கஅபாவின் ஒரு பக்கத்தில் (சுப்ஹு) தொழுதுகொண்டிருந்தார்கள். அத்தியாயம் : 25
+நபி (ஸல்) அவர்களின் துணைவி யார் உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: (ஹஜ்ஜின்போது) “நான் நோயுற்றுள் ளேன்” என அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் முறையிட்டேன். அதற்கு அவர்கள், “நீ மக்களுக்குப் பின்னால் வாகனத்தில் அமர்ந்து தவாஃப் செய்” என்றார்கள். நான் அவ்வாறே தவாஃப் செய்தேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ‘அத்தூர்’ எனும் (52ஆவது) அத்தியாயத்தை ஓதியவாறு கஅபாவின் ஒரு பக்கத்தில் (சுப்ஹு) தொழுதுகொண்டிருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1619</td></tr><tr><td>Arabic No</td><td>1619</td></tr><tr><td>Reference</td><td>Book 25 Hadith 104</td></tr></tbody></table></div>
 

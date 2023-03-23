@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর (কুরবানীর [হাদী] পশুর) কিলাদাগুলো পাকিয়ে দিতাম আর তিনি তা বকরীর গলায় পরিয়ে দিতেন। এরপর তিনি নিজ পরিবারে হালাল অবস্থায় থেকে যেতেন। (১৭৯৬) (আধুনিক প্রকাশনীঃ ১৫৮৪, ইসলামিক ফাউন্ডেশনঃ ১৫৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর (কুরবানীর পশুর) কিলাদাগুলো পাকিয়ে দিতাম আর তিনি তা বকরীর গলায় পরিয়ে দিতেন। এরপর তিনি নিজ পরিবারে হালাল অবস্থায় থেকে যেতেন। (১৭৯৬) (আধুনিক প্রকাশনীঃ ১৫৮৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 25 Hadith 180</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami ['
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுக்காக குர்பானி பிராணிகளின் அடையாள மாலைகளைத் திரிப்பேன். நபி (ஸல்) அவர்கள் ஆட்டுக்கு அவற்றைத் தொங்க விடுவார்கள். (பிராணியை மக்காவுக்கு அனுப்பிவிட்டுத்) தம் குடும்பத்தாருடன் இஹ்ராம் கட்டாத நிலையில் (மதீனாவில்) தங்குவார்கள். அத்தியாயம் : 25
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுக்காக குர்பானி பிராணிகளின் அடையாள மாலைகளைத் திரிப்பேன். நபி (ஸல்) அவர்கள் ஆட்டுக்கு அவற்றைத் தொங்க விடுவார்கள். (பிராணியை மக்காவுக்கு அனுப்பிவிட்டுத்) தம் குடும்பத்தாருடன் இஹ்ராம் கட்டாத நிலையில் (மதீனாவில்) தங்குவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 25 Hadith 180</td></tr></tbody></table></div>
 

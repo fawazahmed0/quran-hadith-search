@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭৪৬। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক মাসের শনি, রবি ও সোমবার রোযা রাখতেন এবং অপর মাসের মঙ্গল, বুধ ও বৃহস্পতিবার রোযা রাখতেন। যঈফ, তাখরীজুল মিশকাত, তাহকীক ছানী (২০৫৯) আবূ ঈসা বলেন, এই হাদীসটি হাসান। আবদুর রহমান ইবনু মাহদী এই হাদীসটি সুফিয়ান (রাহঃ) হতে (মাওকুফ হিসেবে) বর্ণনা করেছেন, তবে মারফু করেননি।
+। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক মাসের শনি, রবি ও সোমবার রোযা রাখতেন এবং অপর মাসের মঙ্গল, বুধ ও বৃহস্পতিবার রোযা রাখতেন। যঈফ, তাখরীজুল মিশকাত, তাহকীক ছানী (২০৫৯) আবূ ঈসা বলেন, এই হাদীসটি হাসান। আবদুর রহমান ইবনু মাহদী এই হাদীসটি সুফিয়ান (রাহঃ) হতে (মাওকুফ হিসেবে) বর্ণনা করেছেন, তবে মারফু করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>746</td></tr><tr><td>Reference</td><td>Book 8 Hadith 65</td></tr></tbody></table></div>
 

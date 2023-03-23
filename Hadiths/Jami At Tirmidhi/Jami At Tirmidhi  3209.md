@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২০৯। ইবনু উমর (রাযিঃ) হতে বর্ণিত আছে। তিনি বলেন, আমরা যাইদ ইবনু হারিসাহ না ডেকে বরং যাইদ ইবনু মুহাম্মাদ ডাকতাম। অবশেষে নাযিল হলঃ “তোমরা তাদেরকে তাদের পিতার পরিচয়ে ডাকো। এটাই আল্লাহ তা'আলার নিকট বেশি ন্যায়সঙ্গত”– (সূরা আহযাব ৫)। সহীহঃ বুখারী (৪৭৮২), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। ইবনু উমর (রাযিঃ) হতে বর্ণিত আছে। তিনি বলেন, আমরা যাইদ ইবনু হারিসাহ না ডেকে বরং যাইদ ইবনু মুহাম্মাদ ডাকতাম। অবশেষে নাযিল হলঃ “তোমরা তাদেরকে তাদের পিতার পরিচয়ে ডাকো। এটাই আল্লাহ তা'আলার নিকট বেশি ন্যায়সঙ্গত”– (সূরা আহযাব ৫)। সহীহঃ বুখারী (৪৭৮২), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3209</td></tr><tr><td>Arabic No</td><td>3209</td></tr><tr><td>Reference</td><td>Book 47 Hadith 261</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Umar:"We called Zaid bin Harithah nothing but 'Zaid bin Muhammad' until the Qur'an was revealed (saying): 'Call them by their fathers, that is more just according to Allah (33:5)
+Narrated Ibn 'Umar:"We called Zaid bin Harithah nothing but 'Zaid bin Muhammad' until the Qur'an was revealed (saying): 'Call them by their fathers, that is more just according to Allah (33:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3209</td></tr><tr><td>Arabic No</td><td>3209</td></tr><tr><td>Reference</td><td>Book 47 Hadith 261</td></tr></tbody></table></div>
 
@@ -44,7 +44,7 @@ Narrated Ibn 'Umar:"We called Zaid bin Harithah nothing but 'Zaid bin Muhammad' 
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dari [Musa bin Uqbah] dari [Salim] dari [Ibnu Umar] berkata: Kami tidak memanggil Zaid bin Haritsah selain Zaid bin Muhammad hingga turun (ayat) al-Qur'an: "Panggilah mereka (anak-anak angkat itu) dengan (memakai) nama bapak-bapak mereka; itulah yang lebih adil pada sisi Allah." (Al Ahzaab: 5)
+Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dari [Musa bin Uqbah] dari [Salim] dari [Ibnu Umar] berkata: Kami tidak memanggil Zaid bin Haritsah selain Zaid bin Muhammad hingga turun (ayat) al-Qur'an: "Panggilah mereka (anak-anak angkat itu) dengan (memakai) nama bapak-bapak mereka; itulah yang lebih adil pada sisi Allah." (Al Ahzaab:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3209</td></tr><tr><td>Arabic No</td><td>3209</td></tr><tr><td>Reference</td><td>Book 47 Hadith 261</td></tr></tbody></table></div>
 

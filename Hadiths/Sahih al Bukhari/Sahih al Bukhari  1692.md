@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘উরওয়া (রহ.) ‘আয়িশাহ্ (রাযি.) হতে বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাজ্জের সাথে ‘উমরাহ পালন করেন এবং তাঁর সঙ্গে সাহাবীগণও তামাত্তু’ করেন, যেমনি বর্ণনা করেছেন সালিম (রহ.) ইব্ন ‘উমার (রাঃ) সূত্রে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে। (মুসলিম ১৫/২৪, হাঃ ১২২৭, ১২২৮, আহমাদ ৬২৫৫) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ ১৫৮২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1692</td></tr><tr><td>Arabic No</td><td>1692</td></tr><tr><td>Reference</td><td>Book 25 Hadith 171</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated 'Urwa:" 'Aishah informed me about the Hajj and 'Umra (together) of the 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ‘விடைபெறும்’ ஹஜ்ஜின்போது நபி (ஸல்) அவர்கள் உம்ராவுடன் ஹஜ்ஜையும் செய்தார்கள். மக்களும் அவர்களுடன் ஹஜ் மற்றும் உம்ரா செய்தனர். இவ்வாறு தெரிவித்த ஆயிஷா (ரலி) அவர்கள், தொடர்ந்து இப்னு உமர் (ரலி) அவர்கள் கூறிய (முந்தைய ஹதீஸில் உள்ள) செய்தியையே என்னிடம் கூறினார்கள். அத்தியாயம் : 25
+உர்வா பின் அஸ்ஸுபைர் (ரஹ்) அவர்கள் கூறியதாவது: ‘விடைபெறும்’ ஹஜ்ஜின்போது நபி (ஸல்) அவர்கள் உம்ராவுடன் ஹஜ்ஜையும் செய்தார்கள். மக்களும் அவர்களுடன் ஹஜ் மற்றும் உம்ரா செய்தனர். இவ்வாறு தெரிவித்த ஆயிஷா (ரலி) அவர்கள், தொடர்ந்து இப்னு உமர் (ரலி) அவர்கள் கூறிய (முந்தைய ஹதீஸில் உள்ள) செய்தியையே என்னிடம் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1692</td></tr><tr><td>Arabic No</td><td>1692</td></tr><tr><td>Reference</td><td>Book 25 Hadith 171</td></tr></tbody></table></div>
 

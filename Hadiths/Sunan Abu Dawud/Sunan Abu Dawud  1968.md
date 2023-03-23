@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আল-আলা সূত্রে বর্ণিত। ইয়াযীদ ইবন আবূ যিয়াদ পূর্বোক্ত হাদীসের সনদে হাদীস বর্ণনা করেছেন। এতে অতিরিক্ত বর্ণনা আছে, আর তিনি তার নিকট অবস্থান করেননি, (বরং কংকর নিক্ষেপ শেষে প্রত্যাবর্তন করেন।)
+। ইয়াযীদ ইবনু আবূ যিয়াদ (রহ.) উক্ত সনদে পূর্বোক্ত হাদীস বর্ণনা করেছেন। এতে আরো রয়েছেঃ তিনি (কংকর মেরে) সেখানে দাঁড়িয়ে থাকেননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1968</td></tr><tr><td>Arabic No</td><td>1968</td></tr><tr><td>Reference</td><td>Book 11 Hadith 248</td></tr></tbody></table></div>
 

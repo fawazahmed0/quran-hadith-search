@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হামযা ইবনে নুসায়ের (রহঃ) ..... বাকর ইবনে মুবাশ্‌শির আল-আনসারী (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি সকাল বেলা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবীদের সাথে ঈদুল ফিতর অথবা ঈদুল আযহার নামায আদায়ের জন্য ঈদগাহে যেতাম। আমরা ‘বাতনে বাত্‌হা’ নামক স্থান অতিক্রম করে ঈদগাহে পৌঁছার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ঈদের নামায আদায় করতাম। অতঃপর ‘বাতনে বাত্‌হা’ হয়ে আমাদের ঘরে ফিরে আসতাম।
+। বাকর ইবনু মুবাশশির আল-আনসারী (রাঃ) বলেন, আমি ঈদুল ফিত্বর ও ঈদুল আযহার দিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবীদের সাথে ঈদগাহে যেতাম। আমরা বাতনে বুতহান নামক প্রান্তর অতিক্রম করে ঈদগাহে গিয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে সালাত আদায় করতাম। অতঃপর বাতনে বুতহানের পথ ধরেই আমাদের ঘরে ফিরতাম।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1158</td></tr><tr><td>Arabic No</td><td>1158</td></tr><tr><td>Reference</td><td>Book 2 Hadith 769</td></tr></tbody></table></div>
 

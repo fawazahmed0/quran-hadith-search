@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কন্যা উম্মে কুলসূমের পরনে হালকা নকশা করা রেশমী চাদর দেখেছেন। (আধুনিক প্রকাশনী- ৫৪১৬, ইসলামিক ফাউন্ডেশন- ৫৩১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কন্যা উম্মে কুলসূমের পরনে হালকা নকশা করা রেশমী চাদর দেখেছেন। (আধুনিক প্রকাশনী- ৫৪১৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5842</td></tr><tr><td>Arabic No</td><td>5842</td></tr><tr><td>Reference</td><td>Book 77 Hadith 59</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் புதல்வியார் உம்மு குல்ஸூம் (ரலி) அவர்கள்59 கோடுகள் போட்ட பட்டு சால்வையொன்றை அணிந்திருந்ததை நான் கண்டேன். அத்தியாயம் : 77
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் புதல்வியார் உம்மு குல்ஸூம் (ரலி) அவர்கள்59 கோடுகள் போட்ட பட்டு சால்வையொன்றை அணிந்திருந்ததை நான் கண்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5842</td></tr><tr><td>Arabic No</td><td>5842</td></tr><tr><td>Reference</td><td>Book 77 Hadith 59</td></tr></tbody></table></div>
 

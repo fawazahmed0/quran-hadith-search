@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যিয়াদ ইবনু ইলাকাহ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি মুগীরাহ ইবনু শু‘বাহ (রাঃ)-কে বলতে শুনেছিঃ যে দিন ইবরাহীম মারা যান, সে দিন সূর্যগ্রহণ হয়েছিল। এটি আবূ বাকরাহ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। [১০৪৩] (আধুনিক প্রকাশনী- ৫৭৫৮, ইসলামিক ফাউন্ডেশন- ৫৬৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যিয়াদ ইবনু ইলাকাহ (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি মুগীরাহ ইবনু শু‘বাহ (রাঃ)-কে বলতে শুনেছিঃ যে দিন ইবরাহীম মারা যান, সে দিন সূর্যগ্রহণ হয়েছিল। এটি আবূ বাকরাহ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। [১০৪৩] (আধুনিক প্রকাশনী- ৫৭৫৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6199</td></tr><tr><td>Arabic No</td><td>6199</td></tr><tr><td>Reference</td><td>Book 78 Hadith 223</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al walid] telah menceritakan kepada kami [Za
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் புதல்வர்) இப்ராஹீம் (ரலி) அவர்கள் இறந்த அன்று சூரிய கிரகணம் ஏற்பட்டது.225 இதே ஹதீஸை அபூபக்ரா (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடமிருந்து அறிவிக்கிறார்கள்.226 அத்தியாயம் : 78
+முஃகீரா பின் ஷுஅபா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் புதல்வர்) இப்ராஹீம் (ரலி) அவர்கள் இறந்த அன்று சூரிய கிரகணம் ஏற்பட்டது.225 இதே ஹதீஸை அபூபக்ரா (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடமிருந்து அறிவிக்கிறார்கள்.226 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6199</td></tr><tr><td>Arabic No</td><td>6199</td></tr><tr><td>Reference</td><td>Book 78 Hadith 223</td></tr></tbody></table></div>
 

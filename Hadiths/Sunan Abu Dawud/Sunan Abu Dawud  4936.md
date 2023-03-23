@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বিশর ইবন খালিদ (রহঃ) .... হিশাম ইবন উরওয়া (রহঃ) থেকে উপরোক্ত হাদীছের সনদে হাদীছ বর্ণিত হয়েছে। আইশা (রাঃ) বলেনঃ সে সময় আমি দোলনার উপর ছিলাম এবং আমার সাথীরাও আমার সাথে ছিলেন। তারা আমাকে এমন একটি ঘরে নিয়ে যায়, যেখানে আনসার মহিলাগণ উপস্থিত ছিলেন। তারা বলেনঃ কল্যাণ ও বরকতময় হোক।
+। হিশাম ইবনু উরওয়াহ (রহঃ) তার সনদে এ বর্ণনা করেন। আয়িশাহ (রাঃ) বলেন, আমি আমার বান্ধবীকে নিয়ে দোলনায় ছিলাম। অতঃপর আমাকে এক ঘরে প্রবেশ করানো হলো, সেখানে আনসারদের মহিলারা উপস্থিত ছিলেন। অতঃপর তারা আমাকে কল্যাণ ও বরকতের শুভেচ্ছা জানালেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4936</td></tr><tr><td>Arabic No</td><td>4936</td></tr><tr><td>Reference</td><td>Book 43 Hadith 164</td></tr></tbody></table></div>
 

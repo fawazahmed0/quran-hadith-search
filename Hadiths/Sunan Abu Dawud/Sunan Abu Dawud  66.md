@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল আলা .... আবূ সাঈদ আল খুদরী (রাঃ) হতে বর্ণিত। একদা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে জিজ্ঞেস করা হল যে, আমরা কি বুদাআ কূপের পানি দ্বারা উযূ (ওজু/অজু/অযু) করতে পারি? কুপটি এমন ছিল যেখানে স্ত্রী লোকদের হায়েযের নেকড়া, কুকুরের গোশত এবং দুর্গন্ধযুক্ত ময়লা আবর্জনা নিক্ষেপ করা হত। জবাবে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেন, পানি- তাকে কোন কিছু অপবিত্র করতে পারে না। (তিরমিযী)।
+। আবূ সাঈদ আল খুদরী (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করা হলো, ‘আমরা কি (মদীনার) ‘বুযাআহ’ নামক কূপের পানি দিয়ে অযু করতে পারি? কূপটির মধ্যে মেয়েলোকের হায়িযের নেকড়া, কুকুরের গোশত ও যাবতীয় দুর্গন্ধযুক্ত জিনিস নিক্ষেপ করা হত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ পানি পবিত্র, কোন কিছু একে অপবিত্র করতে পারে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Arabic No</td><td>66</td></tr><tr><td>Reference</td><td>Book 1 Hadith 66</td></tr></tbody></table></div>
 

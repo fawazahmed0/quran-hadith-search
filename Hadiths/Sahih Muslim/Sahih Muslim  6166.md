@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬০৬০, আন্তর্জাতিক নাম্বারঃ ২৩৮০ ৬০৬০-(.../...) আবদুল্লাহ ইবনু আবদুর রহমান দারিমী (রহঃ) ..... আবূ ইসহাক (রহঃ) হতে এর অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯৫০, ইসলামিক সেন্টার ৫৯৯০)
+আবদুল্লাহ ইবনু আবদুর রহমান দারিমী (রহঃ) ..... আবূ ইসহাক (রহঃ) হতে এর অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯৫০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6166</td></tr><tr><td>Arabic No</td><td>2380.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 224</td></tr></tbody></table></div>
 

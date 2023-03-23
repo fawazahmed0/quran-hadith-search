@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ঈদ ইবনু মুসাইয়্যাব (রহ.) হতে বর্ণিত যে, উম্মু শারীক (রহ.) তাঁকে খবর দিয়েছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে গিরগিটি বা রক্তচোষা জাতীয় টিকটিকি হত্যা করার নির্দেশ দিয়েছেন। (৩৩৫৯) (মুসলিম ৩৯/৩৮ হাঃ ২২৩৭) (আধুনিক প্রকাশনীঃ ৩০৬৩, ইসলামিক ফাউন্ডেশনঃ ৩০৭২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘ঈদ ইবনু মুসাইয়্যাব (রহ.) হতে বর্ণিত যে, উম্মু শারীক (রহ.) তাঁকে খবর দিয়েছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে গিরগিটি বা রক্তচোষা জাতীয় টিকটিকি হত্যা করার নির্দেশ দিয়েছেন। (৩৩৫৯) (মুসলিম ৩৯/৩৮ হাঃ ২২৩৭) (আধুনিক প্রকাশনীঃ ৩০৬৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3307</td></tr><tr><td>Arabic No</td><td>3307</td></tr><tr><td>Reference</td><td>Book 59 Hadith 115</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Shadaqah bin Al Fadlal] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பல்லிகளைக் கொல்லுமாறு தமக்கு உத்தரவிட்டதாக உம்மு ஷரீக் (ரலி) அவர்கள் என்னிடம் தெரிவித்தார்கள். அத்தியாயம் : 59
+சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பல்லிகளைக் கொல்லுமாறு தமக்கு உத்தரவிட்டதாக உம்மு ஷரீக் (ரலி) அவர்கள் என்னிடம் தெரிவித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3307</td></tr><tr><td>Arabic No</td><td>3307</td></tr><tr><td>Reference</td><td>Book 59 Hadith 115</td></tr></tbody></table></div>
 

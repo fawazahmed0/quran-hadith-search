@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ্ (রহঃ) .... আবূ সাঈদ খুদরী (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তির জন্য তার জীবদ্দশায় এক দিরহাম পরিমাণ দান করা, তার মৃত্যুকালীন সময় একশত দিরহাম দান করার চাইতে শ্রেয়।
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোনো ব্যক্তির নিজ জীবদ্দশায় এক দিরহাম সাদাকাহ করা তার মৃত্যুর সময়ে একশো দিরহাম সাদাকাহ করার চেয়েও উত্তম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2866</td></tr><tr><td>Arabic No</td><td>2866</td></tr><tr><td>Reference</td><td>Book 18 Hadith 5</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল আযীয ইবন ইয়াহইয়া (রহঃ) ..... মুহাম্মদ ইবন ইসহাক (রহঃ) ইমাম যুহরী (রহঃ) হতে হাদীছটি সনদসহ বর্ণনা করেছেন। তিনি বলেনঃ আমার কাছে মুযায়না গোত্রের জনৈক ব্যক্তি বর্ণনা করেছেন, যিনি ইলমের অনুসারী এবং এর সংরক্ষণকারীও ছিলেন। এরপর পূর্বোক্ত হাদীছের অনুরূপ হাদীছ বর্ণিত হয়েছে।
+। আয-যুহরী (রহঃ) থেকে এ সনদে উপরোক্ত হাদীসের অনুরূপ বর্ণিত। এতে রয়েছেঃ মুযাইনাহ গোত্রের এক লোক যিনি জ্ঞানের অনুসরণ করেন এবং তার স্মৃতিশক্তি থেকে বলেন যে, সাঈদ ইবনুল মুসাইয্যাব (রহঃ) এ হাদীস বর্ণনা করেছেন। অতঃপর বর্ণনাকারী অনুরূপ হাদীস বর্ণনা করেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>3625</td></tr><tr><td>Reference</td><td>Book 25 Hadith 55</td></tr></tbody></table></div>
 

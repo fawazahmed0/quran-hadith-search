@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২০৯৫, আন্তর্জাতিক নাম্বারঃ ৯৫১ ২০৯৫-(.../...) 'আমর আন নাকিদ, হাসান আল হুলওয়ানী ও আবদ ইবনু হুমায়দ (রহঃ) ..... উভয় সূত্রেই ইবনু শিহাব (রহঃ) থেকে উকায়ল (রহঃ) এর অনুরূপ বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ২০৭৪, ইসলামীক সেন্টার ২০৭৮)
+আমর আন নাকিদ, হাসান আল হুলওয়ানী ও আবদ ইবনু হুমায়দ (রহঃ) ..... উভয় সূত্রেই ইবনু শিহাব (রহঃ) থেকে উকায়ল (রহঃ) এর অনুরূপ বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ২০৭৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2206</td></tr><tr><td>Arabic No</td><td>951.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 84</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন বাশশার (রহঃ) ..... আসমার ইবন মুয়াররিস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়ে তাঁর নিকট বায়'আত গ্রহণ করি। তখন তিনি বলেনঃ যে ব্যক্তি এমন কোন পানির (কূপ বা ঝরনা) নিকট পৌছায়, যেখানে তার আগে আর কোন মুসলিম পৌছেনি, সে ব্যক্তি তার মালিক হবে। রাবী বলেনঃ (এ কথা শুনে ) তখন লোকেরা একে অপরকে অতিক্রম করে, দ্রুতগতিতে পানির সন্ধানে বেরিয়ে যায়।
+। আসমার ইবনু মুদাররিস (রাঃ)-এর সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বাই‘আত নিলাম। তিনি বললেন, যে ব্যক্তি কোনো পানির উৎসের নিকট সর্বপ্রথম পৌঁছবে যার নিকট তার পূর্বে কোনো মুসলিম পৌঁছেনি, তা তার জন্য। বর্ণনাকারী বলেন, লোকেরা বের হলো এবং নিশানা লাগাতে থাকলো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 20 Hadith 144</td></tr></tbody></table></div>
 

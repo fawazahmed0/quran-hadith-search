@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মৃত্যু-রোগে আক্রান্ত হন, তখন তিনি বলছিলেন, فِي الرَّفِيْقِ الْأَعْلَى অর্থাৎ উচ্চে সমাসীন বন্ধুর সঙ্গে (মিলিত হতে চাই)। [৪৪৩৫] (আধুনিক প্রকাশনীঃ ৪০৮৬, ইসলামিক ফাউন্ডেশনঃ ৪০৮৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মৃত্যু-রোগে আক্রান্ত হন, তখন তিনি বলছিলেন, فِي الرَّفِيْقِ الْأَعْلَى অর্থাৎ উচ্চে সমাসীন বন্ধুর সঙ্গে (মিলিত হতে চাই)। [৪৪৩৫] (আধুনিক প্রকাশনীঃ ৪০৮৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4436</td></tr><tr><td>Arabic No</td><td>4436</td></tr><tr><td>Reference</td><td>Book 64 Hadith 457</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim] Telah menceritakan kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எந்த நோயில் இறந்துபோனார்களோ அந்த நோயின் போது, “(இறைவா!) உயர்ந்த தோழர்க(ளான இறைத்தூதர்கள், உண்மையாளர்கள், உயிர்த்தியாகிகள் மற்றும் நல்லடியார்க)ளுடன் (என்னைச் சேர்த்தருள்)” என்று சொல்லத் தொடங்கினார்கள். அத்தியாயம் : 64
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எந்த நோயில் இறந்துபோனார்களோ அந்த நோயின் போது, “(இறைவா!) உயர்ந்த தோழர்க(ளான இறைத்தூதர்கள், உண்மையாளர்கள், உயிர்த்தியாகிகள் மற்றும் நல்லடியார்க)ளுடன் (என்னைச் சேர்த்தருள்)” என்று சொல்லத் தொடங்கினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4436</td></tr><tr><td>Arabic No</td><td>4436</td></tr><tr><td>Reference</td><td>Book 64 Hadith 457</td></tr></tbody></table></div>
 

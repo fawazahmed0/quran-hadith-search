@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩৩৯, আন্তর্জাতিক নাম্বারঃ ৬৪৩ ১৩৩৯-(২২৬/৬৪৩) ইয়াহইয়া ইবনু ইয়াহইয়া, কুতায়বাহ ইবনু সাঈদ ও আবূ বকর ইবনু আবূ শায়বাহ (রহঃ) ..... জাবির ইবনু সামুরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইশার সালাত দেরী করে আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৩২৬, ইসলামীক সেন্টার ১৩৩৮)
+ইয়াহইয়া ইবনু ইয়াহইয়া, কুতায়বাহ ইবনু সাঈদ ও আবূ বকর ইবনু আবূ শায়বাহ (রহঃ) ..... জাবির ইবনু সামুরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইশার সালাত দেরী করে আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৩২৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1453</td></tr><tr><td>Arabic No</td><td>643.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 286</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Said] dan [Ab
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் சமுரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இஷாத் தொழுகையைத் தாமதப்படுத்துபவராக இருந்தார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 5
+ஜாபிர் பின் சமுரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இஷாத் தொழுகையைத் தாமதப்படுத்துபவராக இருந்தார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1453</td></tr><tr><td>Arabic No</td><td>643.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 286</td></tr></tbody></table></div>
 

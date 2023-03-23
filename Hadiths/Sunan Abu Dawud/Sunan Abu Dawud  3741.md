@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... আবদুল্লাহ ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যাকে দাওয়াত দেওয়া হয়, সে যদি তা কবুল না করে, তবে সে যেন আল্লাহ্‌ ও তাঁর রাসূলের নাফরমানী করলো। আর যে ব্যক্তি বিনা দাওয়াতে কোন খানা খায়, সে যেন চোর হিসাবে সেখানে প্রবেশ করে এবং লুন্ঠন করে ফিরে আসে।
+। আব্দুল্লাহ ইবনু উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যাকে দা‘ওয়াত দেয়ার পরও সে তা কবূল করলো না, সে আল্লাহ ও তাঁর রাসূলের নাফরমানী করলো। আর যে ব্যক্তি দা‘ওয়াত ছাড়াই উপস্থিত হলো, সে চোর হয়ে ঢুকলো এবং লুটেরা হয়ে বের হলো।[1] দুর্বলঃ ইরওয়াহ (১৯৫৪), মিশকাত (৩২২২)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3741</td></tr><tr><td>Arabic No</td><td>3741</td></tr><tr><td>Reference</td><td>Book 28 Hadith 6</td></tr></tbody></table></div>
 

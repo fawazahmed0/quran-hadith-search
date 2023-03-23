@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন যে, তিনি বলেছেন, মাসজিদুল হারাম, মাসজিদুর রাসূল এবং মাসজিদুল আকসা (বায়তুল মাক্দিস) তিনটি মাসজিদ ব্যতীত অন্য কোন মসজিদে (সালাতের) উদ্দেশে হাওদা বাঁধা যাবে না (অর্থাৎ সফর করা যাবে না)। (আধুনিক প্রকাশনীঃ ১১১১-১১১২, ইসলামিক ফাউন্ডেশনঃ ১১১৬ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1189</td></tr><tr><td>Arabic No</td><td>1189</td></tr><tr><td>Reference</td><td>Book 20 Hadith 2</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Do not set out on a journey except
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (மக்காவில் உள்ள) மஸ்ஜிதுல் ஹராம், (மதீனாவில் உள்ள) மஸ்ஜிதுந் நபவீ, (பைத்துல் மக்திசில் உள்ள) மஸ்ஜிதுல் அக்ஸா ஆகிய மூன்று பள்ளிவாசல் களுக்குத் தவிர வேறெந்தப் பள்ளிவாசலுக் கும் (அதிக நன்மையை எதிர்பார்த்துப்) புனிதப் பயணம் மேற்கொள்ளப்படாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 20
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (மக்காவில் உள்ள) மஸ்ஜிதுல் ஹராம், (மதீனாவில் உள்ள) மஸ்ஜிதுந் நபவீ, (பைத்துல் மக்திசில் உள்ள) மஸ்ஜிதுல் அக்ஸா ஆகிய மூன்று பள்ளிவாசல் களுக்குத் தவிர வேறெந்தப் பள்ளிவாசலுக் கும் (அதிக நன்மையை எதிர்பார்த்துப்) புனிதப் பயணம் மேற்கொள்ளப்படாது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1189</td></tr><tr><td>Arabic No</td><td>1189</td></tr><tr><td>Reference</td><td>Book 20 Hadith 2</td></tr></tbody></table></div>
 

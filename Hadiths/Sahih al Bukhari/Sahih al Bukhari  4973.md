@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আবূ লাহাব নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে বললো, তোমার ধ্বংস হোক, তুমি কি এ জন্যই আমাদেরকে একত্রিত করেছ? তখন تَبَّتْ يَدَا أَبِيْ لَهَبٍ وَتَبَّ সূরাটি অবতীর্ণ হলো। [১৩৯৪] (আধুনিক প্রকাশনীঃ ৪৬০৪, ইসলামিক ফাউন্ডেশনঃ ৪৬০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আবূ লাহাব নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে বললো, তোমার ধ্বংস হোক, তুমি কি এ জন্যই আমাদেরকে একত্রিত করেছ? তখন تَبَّتْ يَدَا أَبِيْ لَهَبٍ وَتَبَّ সূরাটি অবতীর্ণ হলো। [১৩৯৪] (আধুনিক প্রকাশনীঃ ৪৬০৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4973</td></tr><tr><td>Arabic No</td><td>4973</td></tr><tr><td>Reference</td><td>Book 65 Hadith 495</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Umar bin Hafsh] Telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ‘உமக்கு அழிவுண்டாகட்டும்; இதற்காகவா எங்களை நீ ஒன்றுகூட்டினாய்!” என்று (நபி (ஸல்) அவர்களைப் பார்த்து) அபூலஹப் கேட்டான். அப்போது, ‘‘அழியட்டும், அபூலஹபின் இரு கரங்கள்...” எனும் (111ஆவது) அத்தியாயம் அருளப்பெற்றது. அத்தியாயம் : 65
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ‘உமக்கு அழிவுண்டாகட்டும்; இதற்காகவா எங்களை நீ ஒன்றுகூட்டினாய்!” என்று (நபி (ஸல்) அவர்களைப் பார்த்து) அபூலஹப் கேட்டான். அப்போது, ‘‘அழியட்டும், அபூலஹபின் இரு கரங்கள்...” எனும் (111ஆவது) அத்தியாயம் அருளப்பெற்றது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4973</td></tr><tr><td>Arabic No</td><td>4973</td></tr><tr><td>Reference</td><td>Book 65 Hadith 495</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আল-হাসান (রহ.) সূত্রে কোনো এক শহরের অধিবাসী সম্পর্কে বর্ণিত। লোকটি সোমবার সওম পালন করে এবং দুই ব্যক্তি সাক্ষ্য দেয় যে, তারা রবিবার দিবাগত সন্ধ্যায় চাঁদ দেখেছে। তিনি বললেন, ঐ লোক এবং তার অধিবাসীকে সওম কাযা করতে হবে না যতক্ষণ না তারা জানতে পারে যে, ঐ জনপদের লোকেরা রবিবার সওম পালন করেছে। তাহলে তারা সওমের কাযা করবে।[1] সহীহ মাকতূ’।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2333</td></tr><tr><td>Arabic No</td><td>2333</td></tr><tr><td>Reference</td><td>Book 14 Hadith 21</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ২০. রবীআ ইবন আবদুর রহমান (রহঃ) বর্ণনা করেন, এক ব্যক্তি তাহার স্ত্রীর দাসীকে সঙ্গে লইয়া সফরে যাত্রা করিল। তথায় সে তাহার সহিত সহবাস করিয়া বসিল। স্ত্রী হিংসার বশবর্তী হইয়া উমর (রাঃ)-এর নিকট বলিয়া দিল। উমর (রাঃ) তাহাকে এ ব্যাপারে প্রশ্ন করিলে সে বলিলঃ আমার স্ত্রী এই দাসীটি আমাকে দান করিয়াছে। উমর (রাঃ) বলিলেনঃ তুমি দানের সাক্ষী আন, না হয় তোমাকে প্রস্তরাঘাত করা হইবে। তখন স্ত্রীলোকটি বলিল, আমি তাহাকে দান করিয়াছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
 

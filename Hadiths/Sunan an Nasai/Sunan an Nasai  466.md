@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬৬, আন্তর্জাতিক নাম্বারঃ ৪৬৭ ৪৬৬. আবূ দাউদ (রহ.) ..... আবূ হুরায়রাহ্ (রাঃ) হতে বর্ণিত। নবী (সা.) বলেছেন: কিয়ামতের দিন মানুষের ‘আমলের মধ্যে সর্বপ্রথম সালাতের হিসাব নেয়া হবে। যদি সালাত পরিপূর্ণরূপে পাওয়া যায় তবে পরিপূর্ণ লেখা হবে। যদি কিছু কম পাওয়া যায় তা হলে আল্লাহ বলবেন, দেখ তার নফল সালাত কিছু আছে কি না? (যদি থাকে) এগুলোর দ্বারা ফরয সালাতের ক্ষতিপূরণ করে দেয়া হবে। তারপর অন্যান্য আমলের ক্ষেত্রেও এরূপ করা হবে। সহীহ: মুসনাদে আহমাদ ৯৪৯০।
+। আবূল আওয়াম (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামতের দিন মানুষের আমলের মধ্যে সর্বপ্রথম সালাতের হিসাব-নিকাশ নেওয়া হবে। যদি সালাত পরিপূর্ণ রূপে পাওয়া যায়, তবে তা পরিপূর্ণ লেখা হবে। যদি কিছু কম পাওয়া যায়, তাহলে আল্লাহ্‌ বলবেন, তার নফল সালাত কিছু আছে কি না? (যদি থাকে) এগুলোর দ্বারা ফরয সালাতের ক্ষতিপূরণ করে দেওয়া হবে। তারপর অন্যান্য আমলের ক্ষেত্রেও এরূপ করা হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>466</td></tr><tr><td>Arabic No</td><td>466</td></tr><tr><td>Reference</td><td>Book 5 Hadith 19</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Abu Daud] dia berkata; Telah menceritakan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: günü kula sorulacak ilk şey namazdır. Namazı tamamsa tamam olarak yazılır. Eğer namazında eksiklik varsa Allah, (Bakın bakalım nafile namazlarına) buyurur. Farz namazlardaki eksikleri nafile namazlarıyla tamamlanır. Sonra diğer amelleri de aynı şekilde hesaplanır. (İbn Mâce, İkametü’s Salat: 202; Müsned: 9130)
+Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: günü kula sorulacak ilk şey namazdır. Namazı tamamsa tamam olarak yazılır. Eğer namazında eksiklik varsa Allah, (Bakın bakalım nafile namazlarına) buyurur. Farz namazlardaki eksikleri nafile namazlarıyla tamamlanır. Sonra diğer amelleri de aynı şekilde hesaplanır. (İbn Mâce, İkametü’s Salat: 202; Müsned:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>466</td></tr><tr><td>Arabic No</td><td>466</td></tr><tr><td>Reference</td><td>Book 5 Hadith 19</td></tr></tbody></table></div>
 

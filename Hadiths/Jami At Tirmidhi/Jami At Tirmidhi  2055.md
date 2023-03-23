@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০৫৫। আক্কার ইবনুল মুগীরা (রহঃ) হতে তার বাবার সূত্রে বর্ণিত আছে, তিনি (মুগীরা) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক (শরীরে) দাগ নেয় অথবা ঝাড়ফুক করায় সে তাওয়াক্কুল (আল্লাহ তা'আলার উপর নির্ভরশীলতা) হতে বিচ্যুত হয়েছে। সহীহ, ইবনু মা-জাহ (৩৪৮৯)। আবূ ঈসা বলেন, ইবনু মাসউদ, ইবনু আব্বাস ও ইমরান ইবনু হুসাইন (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান সহীহ।
+। আক্কার ইবনুল মুগীরা (রহঃ) হতে তার বাবার সূত্রে বর্ণিত আছে, তিনি (মুগীরা) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক (শরীরে) দাগ নেয় অথবা ঝাড়ফুক করায় সে তাওয়াক্কুল (আল্লাহ তা'আলার উপর নির্ভরশীলতা) হতে বিচ্যুত হয়েছে। সহীহ, ইবনু মা-জাহ (৩৪৮৯)। আবূ ঈসা বলেন, ইবনু মাসউদ, ইবনু আব্বাস ও ইমরান ইবনু হুসাইন (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2055</td></tr><tr><td>Arabic No</td><td>2055</td></tr><tr><td>Reference</td><td>Book 28 Hadith 20</td></tr></tbody></table></div>
 

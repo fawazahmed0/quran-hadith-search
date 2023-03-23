@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে তিনখানা সুতী সাদা সাহুলী (ইয়ামানী) কাপড়ে কাফন দেয়া হয়েছিল, তার মধ্যে কামীস এবং পাগড়ী ছিল না। (১২৬৪) (আধুনিক প্রকাশনীঃ ১১৮৯, ইসলামিক ফাউন্ডেশনঃ ১১৯৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে তিনখানা সুতী সাদা সাহুলী (ইয়ামানী) কাপড়ে কাফন দেয়া হয়েছিল, তার মধ্যে কামীস এবং পাগড়ী ছিল না। (১২৬৪) (আধুনিক প্রকাশনীঃ ১১৮৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1271</td></tr><tr><td>Arabic No</td><td>1271</td></tr><tr><td>Reference</td><td>Book 23 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மூன்று வெண் ணிறப் பருத்தி ஆடைகளால் ‘கஃபன்’ இடப்பட்டார்கள்; அவற்றில் மேலங் கியோ தலைப்பாகையோ இருக்க வில்லை. அத்தியாயம் : 23
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மூன்று வெண் ணிறப் பருத்தி ஆடைகளால் ‘கஃபன்’ இடப்பட்டார்கள்; அவற்றில் மேலங் கியோ தலைப்பாகையோ இருக்க வில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1271</td></tr><tr><td>Arabic No</td><td>1271</td></tr><tr><td>Reference</td><td>Book 23 Hadith 32</td></tr></tbody></table></div>
 

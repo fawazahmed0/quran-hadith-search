@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হাবীব ইবনু আবূ আমরা (রহ.) সা‘ঈদ (রহ.)-এর সূত্রে ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণনা করেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিকদাদ (রাঃ)-কে বলেছেনঃ উক্ত মু‘মিন লোকটি যখন কাফেরদের মাঝে অবস্থান করছিল তখন সে আপন ঈমান গোপন রেখেছিল। এরপর সে তার ঈমান প্রকাশ করল আর তুমি তাকে হত্যা করে ফেললে। তুমিও তো এর আগে মক্কা্য় থাকাকালে আপন ঈমান লুকিয়ে রেখেছিলে। (আধুনিক প্রকাশনী- ৬৩৮৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6865</td></tr><tr><td>Arabic No</td><td>6865</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

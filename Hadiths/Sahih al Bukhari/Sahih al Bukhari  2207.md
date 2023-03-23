@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত, তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুহাকালা [1], মুখাদারা [2], মুলামাসা, মুনাবাযা ও মুযাবানা নিষিদ্ধ করেছেন। (আধুনিক প্রকাশনীঃ ২০৫০, ইসলামিক ফাউন্ডেশনঃ ২০৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত, তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুহাকালা [1], মুখাদারা [2], মুলামাসা, মুনাবাযা ও মুযাবানা নিষিদ্ধ করেছেন। (আধুনিক প্রকাশনীঃ ২০৫০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2207</td></tr><tr><td>Arabic No</td><td>2207</td></tr><tr><td>Reference</td><td>Book 34 Hadith 153</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Wahab] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘முஹாகலா, முகாளரா, முலாமசா, முனாபதா, முஸாபனா ஆகிய வணிக முறைகளுக்குத் தடை விதித்தார்கள்.74 அத்தியாயம் : 34
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘முஹாகலா, முகாளரா, முலாமசா, முனாபதா, முஸாபனா ஆகிய வணிக முறைகளுக்குத் தடை விதித்தார்கள்.74 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2207</td></tr><tr><td>Arabic No</td><td>2207</td></tr><tr><td>Reference</td><td>Book 34 Hadith 153</td></tr></tbody></table></div>
 

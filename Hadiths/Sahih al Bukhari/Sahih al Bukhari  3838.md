@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আমর ইবনু মায়মূন (রহ.) হতে বর্ণিত, তিনি বলেন, ‘উমার ইবনুল খাত্তাব (রাঃ) বলেন, মুশরিকগণ সাবীর পাহাড়ের উপর সূর্যের কিরণ না পড়া পর্যন্ত মুয্দালাফা হতে রওয়ানা হত না। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূর্য উঠার আগে রাওয়ানা হয়ে তাদের প্রথার খেলাফ করেন। (১৬৮৪) (আধুনিক প্রকাশনীঃ ৩৫৫৩, ইসলামিক ফাউন্ডেশনঃ ৩৫৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমর ইবনু মায়মূন (রহ.) হতে বর্ণিত, তিনি বলেন, ‘উমার ইবনুল খাত্তাব (রাঃ) বলেন, মুশরিকগণ সাবীর পাহাড়ের উপর সূর্যের কিরণ না পড়া পর্যন্ত মুয্দালাফা হতে রওয়ানা হত না। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূর্য উঠার আগে রাওয়ানা হয়ে তাদের প্রথার খেলাফ করেন। (১৬৮৪) (আধুনিক প্রকাশনীঃ ৩৫৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3838</td></tr><tr><td>Arabic No</td><td>3838</td></tr><tr><td>Reference</td><td>Book 63 Hadith 63</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku ['Amru bin 'Abbas] telah menceritakan kepada kami ['
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உமர் (ரலி) அவர்கள் கூறிய தாவது: (ஹஜ்ஜின்போது) “ஸபீர்' மலைமீது சூரியன் ஒளிராதவரை, இணைவைப்பாளர் கள் முஸ்தலிஃபாவைவிட்டுப் புறப்பட மாட்டார்கள். அவர்களுக்கு நபி (ஸல்) அவர்கள் மாறு செய்து சூரியன் உதிக்கும் முன்பாகப் புறப்பட்டார்கள்.76 அத்தியாயம் : 63
+உமர் (ரலி) அவர்கள் கூறிய தாவது: (ஹஜ்ஜின்போது) “ஸபீர்' மலைமீது சூரியன் ஒளிராதவரை, இணைவைப்பாளர் கள் முஸ்தலிஃபாவைவிட்டுப் புறப்பட மாட்டார்கள். அவர்களுக்கு நபி (ஸல்) அவர்கள் மாறு செய்து சூரியன் உதிக்கும் முன்பாகப் புறப்பட்டார்கள்.76 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3838</td></tr><tr><td>Arabic No</td><td>3838</td></tr><tr><td>Reference</td><td>Book 63 Hadith 63</td></tr></tbody></table></div>
 

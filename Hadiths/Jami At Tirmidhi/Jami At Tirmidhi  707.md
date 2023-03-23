@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭০৭। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অন্যায় কথাবার্তা (গীবাত, মিথ্যা, গালিগালাজ, অপবাদ, অভিসম্পাত ইত্যাদি) ও কাজ যেলোক (রোযা থাকা অবস্থায়) ছেড়ে না দেয়, সে লোকের পানাহার ত্যাগে আল্লাহ তা'আলার কোন প্রয়োজন নেই। — সহীহ, ইবনু মা-জাহ (১৬৮৯), বুখারী আনাস (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। আবু ঈসা এই হাদীসটিকে হাসান সহীহ বলেছেন।
+। আবু হুরাইরা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অন্যায় কথাবার্তা (গীবাত, মিথ্যা, গালিগালাজ, অপবাদ, অভিসম্পাত ইত্যাদি) ও কাজ যেলোক (রোযা থাকা অবস্থায়) ছেড়ে না দেয়, সে লোকের পানাহার ত্যাগে আল্লাহ তা'আলার কোন প্রয়োজন নেই। — সহীহ, ইবনু মা-জাহ (১৬৮৯), বুখারী আনাস (রাঃ) হতেও এই অনুচ্ছেদে হাদীস বর্ণিত আছে। আবু ঈসা এই হাদীসটিকে হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>707</td></tr><tr><td>Arabic No</td><td>707</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
 

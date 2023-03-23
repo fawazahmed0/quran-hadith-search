@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি নাজ্দ এলাকায় রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে যুদ্ধে অংশগ্রহণ করেছেন। [২৯১০] (আধুনিক প্রকাশনীঃ ৩৮২৫, ইসলামিক ফাউন্ডেশনঃ ৩৮২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি নাজ্দ এলাকায় রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে যুদ্ধে অংশগ্রহণ করেছেন। [২৯১০] (আধুনিক প্রকাশনীঃ ৩৮২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4134</td></tr><tr><td>Arabic No</td><td>4134</td></tr><tr><td>Reference</td><td>Book 64 Hadith 178</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் நஜ்தை நோக்கி ஒரு போருக்குச் சென்றேன். அத்தியாயம் : 64
+ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் நஜ்தை நோக்கி ஒரு போருக்குச் சென்றேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4134</td></tr><tr><td>Arabic No</td><td>4134</td></tr><tr><td>Reference</td><td>Book 64 Hadith 178</td></tr></tbody></table></div>
 

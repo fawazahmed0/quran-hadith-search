@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মুহাম্মদ (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, কুরআনের এ আয়াতদ্বয়ঃ (১) ওহে যারা ঈমান এনেছ, তোমরা নেশাগ্রস্ত অবস্থায় সালাতের নিকটবর্তী হয়ো না, এবং (২) তারা আপনাকে জিজ্ঞাসা করে মদ ও জুয়া সম্পর্কে। আপনি বলুনঃ এ দু'টি ভয়ংকর গুনাহের কাজ এবং মানুষের কিছু উপকারও এতে রয়েছে। এ দু'টি আয়াতের হুকুমকে সূরা মায়িদার এ আয়াতঃ নিশ্চয় মদ, জুয়া ইত্যাদি এরূপ জঘণ্য শয়তানী কাজ, যা দ্বারা শয়তান মানুষের মধ্যে দুশমনী সৃষ্টি করে ... আয়াতের শেষ পর্যন্তঃ রহিত করে দিয়েছে।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। ‘‘হে ঈমানদারগণ! তোমরা যখন মাতাল অবস্থায় থাকো তখন সালাতের কাছেও যেও না...’’ এবং ‘‘লোকেরা আপনাকে মদ ও জুয়া সম্পর্কে প্রশ্ন করে, আপনি বলুন, এর মধ্যে বড় বড় পাপের উপাদান আছে; যদিও এর মধ্যে লোকদের জন্য কিছুটা উপকারিতাও রয়েছে...’’ এ আয়াত দু’টি হুকুম ‘‘হে ঈমানদারগণ! নিশ্চয়ই মদ, জুয়া, আস্তানা...’’ দ্বারা রহিত করা হয়েছে।[1] সনদ হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3672</td></tr><tr><td>Arabic No</td><td>3672</td></tr><tr><td>Reference</td><td>Book 27 Hadith 4</td></tr></tbody></table></div>
 

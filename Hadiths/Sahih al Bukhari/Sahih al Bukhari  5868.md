@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, তিনি একদিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর হাতে রৌপ্যের একটি আংটি দেখেছেন। তারপর লোকেরাও রৌপ্যের আংটি তৈরি করে এবং ব্যবহার করে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পরে তাঁর আংটি বর্জন করেন। লোকেরাও তাদের আংটি বর্জন করে। যুহরীর সূত্রে ইবরাহীম ইবনু সা’দ, যিয়াদ ও শু‘আয়ব (রহ.)-ও এ রকম বর্ণনা করেছেন। [মুসলিম ৩৭/১৪, হাঃ ২০৯৩, আহমাদ ১২৬৩১] (আধুনিক প্রকাশনী- ৫৪৪১, ইসলামিক ফাউন্ডেশন- ৫৩৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত যে, তিনি একদিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর হাতে রৌপ্যের একটি আংটি দেখেছেন। তারপর লোকেরাও রৌপ্যের আংটি তৈরি করে এবং ব্যবহার করে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পরে তাঁর আংটি বর্জন করেন। লোকেরাও তাদের আংটি বর্জন করে। যুহরীর সূত্রে ইবরাহীম ইবনু সা’দ, যিয়াদ ও শু‘আয়ব (রহ.)-ও এ রকম বর্ণনা করেছেন। [মুসলিম ৩৭/১৪, হাঃ ২০৯৩, আহমাদ ১২৬৩১] (আধুনিক প্রকাশনী- ৫৪৪১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5868</td></tr><tr><td>Arabic No</td><td>5868</td></tr><tr><td>Reference</td><td>Book 77 Hadith 85</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik:that he saw a silver ring on the hand of Allah's Messenger (ﷺ) for one day only. Then the people had silver rings made for themselves and wore it. On that, Allah's Messenger (ﷺ) threw away their rings as well. (For the details of this Hadith, see Fath-ul-Bari, Vol. 12, page 438)
+Narrated Anas bin Malik:that he saw a silver ring on the hand of Allah's Messenger (ﷺ) for one day only. Then the people had silver rings made for themselves and wore it. On that, Allah's Messenger (ﷺ) threw away their rings as well. (For the details of this Hadith, see Fath-ul-Bari, Vol. 12, page)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5868</td></tr><tr><td>Arabic No</td><td>5868</td></tr><tr><td>Reference</td><td>Book 77 Hadith 85</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Yahya bin Bukair] telah menceritakan kepada kami [A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: ஒருநாள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது கையில் வெள்ளி மோதிரம் ஒன்றை நான் கண்டேன். பிறகு மக்கள், (அதைப் போன்று) வெள்ளி மோதிரங்களைச் செய்து (அணிந்து)கொண்டார்கள். ஆகவே, அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (முதலில் அணிந்திருந்த) தமது (பொன்) மோதிரத்தை(க் கழற்றி) எறிந்தார்கள். பின்னர் மக்களும் தம் (பொன்) மோதிரங்களை(க் கழற்றி) எறிந்து விட்டனர். இந்த ஹதீஸ் ஐந்து அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 77
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: ஒருநாள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது கையில் வெள்ளி மோதிரம் ஒன்றை நான் கண்டேன். பிறகு மக்கள், (அதைப் போன்று) வெள்ளி மோதிரங்களைச் செய்து (அணிந்து)கொண்டார்கள். ஆகவே, அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (முதலில் அணிந்திருந்த) தமது (பொன்) மோதிரத்தை(க் கழற்றி) எறிந்தார்கள். பின்னர் மக்களும் தம் (பொன்) மோதிரங்களை(க் கழற்றி) எறிந்து விட்டனர். இந்த ஹதீஸ் ஐந்து அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5868</td></tr><tr><td>Arabic No</td><td>5868</td></tr><tr><td>Reference</td><td>Book 77 Hadith 85</td></tr></tbody></table></div>
 

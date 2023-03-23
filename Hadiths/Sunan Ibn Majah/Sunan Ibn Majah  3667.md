@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৬৬৭। সুরাকা ইবনে মালেক (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমি কি তোমাদেরকে সর্বোত্তম দান-খয়রাতের পথ নির্দেশ করবো না? তোমার যে কন্যা তোমার নিকট ফিরে এসেছে এবং তুমি ছাড়া তার আর কোন উপার্জনকারী নেই, তার জন্য কৃত দান-খয়রাত সর্বোত্তম।
+। সুরাকা ইবনে মালেক (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমি কি তোমাদেরকে সর্বোত্তম দান-খয়রাতের পথ নির্দেশ করবো না? তোমার যে কন্যা তোমার নিকট ফিরে এসেছে এবং তুমি ছাড়া তার আর কোন উপার্জনকারী নেই, তার জন্য কৃত দান-খয়রাত সর্বোত্তম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3667</td></tr><tr><td>Arabic No</td><td>3667</td></tr><tr><td>Reference</td><td>Book 33 Hadith 11</td></tr></tbody></table></div>
 

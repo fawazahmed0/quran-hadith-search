@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১১৬৯, আন্তর্জাতিক নাম্বারঃ ৫৭২ ১১৬৯-(৯২/...) ইবনু নুমায়র (রহঃ) ..... আলকামাহ্ (রহঃ) থেকে বর্ণিত। তিনি (আলকামাহ) একদিন তাদের সাথে (যুহরের) পাঁচ রাকাআত সালাত আদায় করলেন। (ইসলামী ফাউন্ডেশন ১১৫৯, ইসলামীক সেন্টার ১১৭১)
+ইবনু নুমায়র (রহঃ) ..... আলকামাহ্ (রহঃ) থেকে বর্ণিত। তিনি (আলকামাহ) একদিন তাদের সাথে (যুহরের) পাঁচ রাকাআত সালাত আদায় করলেন। (ইসলামী ফাউন্ডেশন ১১৫৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1282</td></tr><tr><td>Arabic No</td><td>572.09</td></tr><tr><td>Reference</td><td>Book 5 Hadith 120</td></tr></tbody></table></div>
 

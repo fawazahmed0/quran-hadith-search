@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এ মর্মে অবহিত করি যে, আপনার বৃদ্ধ পথভ্রষ্ট চাচা (আবূ তালিব) মারা গেছেন। তখন তিনি বলেনঃ যাও এবং তোমার পিতাকে মাটির মধ্যে দাফন করে এস। আমার কাছে ফিরে আসার আগে আর কিছু করবে না। এরপর আমি যাই এবং তার লাশকে দাফন করি এবং তাঁর কাছে ফিরে আসি। তখন তিনি আমাকে গোসলের নির্দেশ দেন। আমি গোসল শেষ করলে তিনি আমার জন্য দু’আ করেন।
+। আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললাম, আপনার পথভ্রষ্ট বৃদ্ধ চাচা আবূ তালিব মৃত্যুবরণ করেছে। তিনি বললেনঃ যাও এবং তোমার পিতাকে দাফন করে আসো। আমার কাছে ফিরে আসার আগে অন্য কিছু করো না। বর্ণনাকারী বলেন, আমি তাকে মাটি দিয়ে সরাসরি তাঁর কাছে আসি। তিনি আমাকে গোসল করতে নির্দেশ করেন। সুতরাং আমি গোসল করলাম। তিনি আমার জন্য দু‘আ করলেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3214</td></tr><tr><td>Arabic No</td><td>3214</td></tr><tr><td>Reference</td><td>Book 21 Hadith 126</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/১৬৫৬। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞেস করেনঃ মাসের কত দিন গত হয়েছে? রাবী বলেন, আমরা বললাম, বাইশ দিন এবং আট দিন বাকী আছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ মাস এত দিনে হয়, মাস এত দিনে হয় এবং মাস এত দিনেও হয়। তৃতীয়বার তিনি এক আঙ্গুল বন্ধ রাখেন।
+। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞেস করেনঃ মাসের কত দিন গত হয়েছে? রাবী বলেন, আমরা বললাম, বাইশ দিন এবং আট দিন বাকী আছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ মাস এত দিনে হয়, মাস এত দিনে হয় এবং মাস এত দিনেও হয়। তৃতীয়বার তিনি এক আঙ্গুল বন্ধ রাখেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1656</td></tr><tr><td>Arabic No</td><td>1656</td></tr><tr><td>Reference</td><td>Book 7 Hadith 19</td></tr></tbody></table></div>
 

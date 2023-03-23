@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, মিনাতে পাহাড়ের কোন এক গর্তে আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে অবস্থান করছিলাম। এমতাবস্থায় তাঁর উপর (وَالْمُرْسَلاَتِ) (الْمُرْسَلاَتِ : ১) সূরা ওয়াল মুরসালাত অবতীর্ণ হল। তিনি সূরাটি তিলাওয়াত করছিলেন। আর আমি তাঁর পবিত্র মুখ হতে গ্রহণ করছিলাম। তাঁর মুখ (তিলাওয়াতের ফলে) সিক্ত ছিল। এমতাবস্থায় আমাদের সম্মুখে একটি সাপ লাফিয়ে পড়ল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ একে হত্যা কর। আমরা দৌড়িয়ে গেলে সাপটি চলে গেল। এরপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের অনিষ্ট হতে সাপটি যেমন রক্ষা পেল তোমরা তেমনি রক্ষা পেলে এর ক্ষতি হতে। (৩৩১৭, ৪৯৩০, ৪৯৩১, ৪৯৩৪) (আধুনিক প্রকাশনীঃ ১৬৯৮, ইসলামিক ফাউন্ডেশনঃ ১৭০৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, মিনাতে পাহাড়ের কোন এক গর্তে আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে অবস্থান করছিলাম। এমতাবস্থায় তাঁর উপর (وَالْمُرْسَلاَتِ) (الْمُرْسَلاَتِ : ১) সূরা ওয়াল মুরসালাত অবতীর্ণ হল। তিনি সূরাটি তিলাওয়াত করছিলেন। আর আমি তাঁর পবিত্র মুখ হতে গ্রহণ করছিলাম। তাঁর মুখ (তিলাওয়াতের ফলে) সিক্ত ছিল। এমতাবস্থায় আমাদের সম্মুখে একটি সাপ লাফিয়ে পড়ল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ একে হত্যা কর। আমরা দৌড়িয়ে গেলে সাপটি চলে গেল। এরপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের অনিষ্ট হতে সাপটি যেমন রক্ষা পেল তোমরা তেমনি রক্ষা পেলে এর ক্ষতি হতে। (৩৩১৭, ৪৯৩০, ৪৯৩১, ৪৯৩৪) (আধুনিক প্রকাশনীঃ ১৬৯৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1830</td></tr><tr><td>Arabic No</td><td>1830</td></tr><tr><td>Reference</td><td>Book 28 Hadith 10</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் மினாவிலுள்ள ஒரு குகையில் இருந்தோம். அப்போது ‘வல்முர்ஸலாத்’ (ஒன்றன்பின் ஒன்றாக அனுப்பப்படுகின்றவைமீது சத்தியமாக!) என்று தொடங்கும் (77ஆவது) அத்தியாயம் அவர்களுக்கு அருளப் பெற்றது. அதை நான் நபி (ஸல்) அவர் களின் வாயிலிருந்து புத்தம் புதிதாக (ஓதக்) கேட்டுக்கொண்டிருந்தேன். அதை ஓதிய தால் அவர்களின் வாய் ஈரமாக இருந்தது. அப்போது ஒரு பாம்பு எங்களை நோக்கிச் சீறியது. உடனே நபி (ஸல்) அவர்கள், “அதைக் கொல்லுங்கள்!” என்றார்கள். நாங்கள் அதைக் கொல்ல விரைந்தபோது அது சென்றுவிட்டது. அப்போது நபி (ஸல்) அவர்கள், “அதன் தீங்கிலிருந்து நீங்கள் காப்பாற்றப்பட்டதைப் போன்றே, உங்கள் தீங்கிலிருந்து அதுவும் காப்பாற்றப்பட்டுவிட்டது” என்று கூறினார்கள். அத்தியாயம் : 28
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் மினாவிலுள்ள ஒரு குகையில் இருந்தோம். அப்போது ‘வல்முர்ஸலாத்’ (ஒன்றன்பின் ஒன்றாக அனுப்பப்படுகின்றவைமீது சத்தியமாக!) என்று தொடங்கும் (77ஆவது) அத்தியாயம் அவர்களுக்கு அருளப் பெற்றது. அதை நான் நபி (ஸல்) அவர் களின் வாயிலிருந்து புத்தம் புதிதாக (ஓதக்) கேட்டுக்கொண்டிருந்தேன். அதை ஓதிய தால் அவர்களின் வாய் ஈரமாக இருந்தது. அப்போது ஒரு பாம்பு எங்களை நோக்கிச் சீறியது. உடனே நபி (ஸல்) அவர்கள், “அதைக் கொல்லுங்கள்!” என்றார்கள். நாங்கள் அதைக் கொல்ல விரைந்தபோது அது சென்றுவிட்டது. அப்போது நபி (ஸல்) அவர்கள், “அதன் தீங்கிலிருந்து நீங்கள் காப்பாற்றப்பட்டதைப் போன்றே, உங்கள் தீங்கிலிருந்து அதுவும் காப்பாற்றப்பட்டுவிட்டது” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1830</td></tr><tr><td>Arabic No</td><td>1830</td></tr><tr><td>Reference</td><td>Book 28 Hadith 10</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah r.a. şöyle dedi: Biz Mina'da bir mağarada Nebi Sallallahu Aleyhi ve Sellem ile birlikteyken kendisine "Mürselat" suresi indirildi. Nebi Sallallahu Aleyhi ve Sellem okuyor, ben de henüz okuması dolayısıyla ağzı kurumadan onun okuduklarını ezberliyordum. Birden üzerimize bir yılan sıçradı. Nebi Sallallahu Aleyhi ve Sellem: "Onu öldürün" buyurdu. Biz onu öldürmek için hemen davrandık ki yılan kaçtı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: "Siz onun şerrinden korunduğunuz gibi o da sizin şerrinizden korundu" buyurdu. Tekrar: 3317, 4930, 4931, 4934
+Abdullah r.a. şöyle dedi: Biz Mina'da bir mağarada Nebi Sallallahu Aleyhi ve Sellem ile birlikteyken kendisine "Mürselat" suresi indirildi. Nebi Sallallahu Aleyhi ve Sellem okuyor, ben de henüz okuması dolayısıyla ağzı kurumadan onun okuduklarını ezberliyordum. Birden üzerimize bir yılan sıçradı. Nebi Sallallahu Aleyhi ve Sellem: "Onu öldürün" buyurdu. Biz onu öldürmek için hemen davrandık ki yılan kaçtı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: "Siz onun şerrinden korunduğunuz gibi o da sizin şerrinizden korundu" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1830</td></tr><tr><td>Arabic No</td><td>1830</td></tr><tr><td>Reference</td><td>Book 28 Hadith 10</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু ইয়াহ্ইয়া ..... মসজিদুল-উরইয়ান (কূফায় অবস্থিত মসজিদ)-এর মুয়াযযিন আবূ জাফর হতে বর্ণিত। তিনি বলেন, আমি কূফার বড় মসজিদের মুয়াযযিন আবূল মুছান্নাকে বলতে শুনেছিঃ আমি ইবনু উমার (রাঃ) এর সূত্রে শুনেছি ... পূর্বোক্ত হাদীছের অনুরূপ।
+। মসজিদে ‘উরয়ানের মুয়াজ্জিন আবূ জা‘ফর (রহঃ) বলেন, আমি মাসজিদুল আকবারের মুয়াজ্জিন আবূল মুসান্না হতে শুনেছি, তিনি বলেন, আমি ইবনু ‘উমার (রাঃ) হতে শুনেছি .... অতঃপর পুরো হাদীস বর্ণনা করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>511</td></tr><tr><td>Arabic No</td><td>511</td></tr><tr><td>Reference</td><td>Book 2 Hadith 121</td></tr></tbody></table></div>
 

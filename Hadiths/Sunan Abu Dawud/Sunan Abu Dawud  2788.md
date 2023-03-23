@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... মাহনাফ ইবন সুলায়মান (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে আরাফায় অবস্থান করছিলাম। রাবী বলেন, তখন তিনি বলেনঃ হে লোক সকল! আমাদের প্রত্যেক গৃহবাসীর উপর প্রতি বছর কুরবানী করা ওয়াজিব এবং ‘আতীরাও’। তোমরা কি জান ‘আতীরা কি? এ হলো সেই জিনিস, যাকে লোকেরা রাজবিয়্যা বলে। [আবু দাউদ (রহঃ) বলেন আতিরাহ রহিত এবং এর হাদিসও রহিত।
+। মিখনাফ ইবনু সুলাইম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ‘আরাফায় অবস্থান করছিলাম। বর্ণনাকারী বলেন, তিনি বললেনঃ হে লোকসকল! নিশ্চয়ই প্রতিটি পরিবারের লোকদের উপর প্রতি বছর কুরবানী ও ‘আতীরাহ করা কর্তব্য। তিনি বললেন, তোমরা কি জানো, ‘আতীরাহ কি? আতীরাহ হলো, যাকে লোকেরা ‘রাজাবিয়াহ’ বলতে থাকে। আবূ দাঊদ (রহঃ) বলেন, ‘আতীরাহ রহিত এবং এর হাদীসও রহিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2788</td></tr><tr><td>Arabic No</td><td>2788</td></tr><tr><td>Reference</td><td>Book 16 Hadith 1</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আবদুর রাহমান ইবনু আওফ ও যুবায়র ইবনুল আওয়ামকে রেশমী পোষাক পরার অনুমতি দেন। (২৯১৯) (আধুনিক প্রকাশনীঃ ২৭০৬, ইসলামিক ফাউন্ডেশনঃ ২৭১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আবদুর রাহমান ইবনু আওফ ও যুবায়র ইবনুল আওয়ামকে রেশমী পোষাক পরার অনুমতি দেন। (২৯১৯) (আধুনিক প্রকাশনীঃ ২৭০৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2921</td></tr><tr><td>Arabic No</td><td>2921</td></tr><tr><td>Reference</td><td>Book 56 Hadith 134</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: அப்துர் ரஹ்மான் பின் அவ்ஃப் (ரலி) அவர்களுக்கும் ஸுபைர் பின் அல் அவ்வாம் (ரலி) அவர்களுக்கும் பட்டாடை அணிய நபி (ஸல்) அவர்கள் சலுகை கொடுத்தார்கள். அத்தியாயம் : 56
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: அப்துர் ரஹ்மான் பின் அவ்ஃப் (ரலி) அவர்களுக்கும் ஸுபைர் பின் அல் அவ்வாம் (ரலி) அவர்களுக்கும் பட்டாடை அணிய நபி (ஸல்) அவர்கள் சலுகை கொடுத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2921</td></tr><tr><td>Arabic No</td><td>2921</td></tr><tr><td>Reference</td><td>Book 56 Hadith 134</td></tr></tbody></table></div>
 

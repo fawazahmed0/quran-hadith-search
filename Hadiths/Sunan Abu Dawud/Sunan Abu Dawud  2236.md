@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল আযীয ইবন ইয়াহ্ইয়া ..... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, বুরায়রা সে সময় মুক্ত হয়, যখন সে আবূ আহমদ গোত্রের ক্রীতদাস মুগীসের স্ত্রী ছিল। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে ইখতিয়ার প্রদান করে বলেন, এখন যদি সে তোমার সাথে সহবাস করে, তবে তোমার ইখতিয়ার বাতিল হয়ে যাবে।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। বারীরাহকে যখন আযাদ করা হয় তখন সে আবূ আহমাদ পরিবারের ক্রীতদাস মুগীসের স্ত্রী ছিলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে এখতিয়ার দিয়েছিলেন এবং তাকে এটাও বলেছিলেনঃ তোমার স্বামী তোমার সাথে সহবাস করলে তোমার এখতিয়ার বহাল থাকবে না।[1] যঈফঃ ইরওয়া (১৯০৮), যঈফ আল-জামি‘উস সাগীর (১২৯৫)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2236</td></tr><tr><td>Arabic No</td><td>2236</td></tr><tr><td>Reference</td><td>Book 13 Hadith 62</td></tr></tbody></table></div>
 

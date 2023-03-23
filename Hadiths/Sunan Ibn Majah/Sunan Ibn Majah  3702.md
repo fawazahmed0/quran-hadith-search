@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৭০২। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা জিজ্ঞাসা করলাম, হে আল্লাহর রাসূল! আমরা কি (পারস্পরিক সাক্ষাতে) একে অপরের সামনে মাথা ঝুঁকাবো? তিনি বলেনঃ না। আমরা জিজ্ঞেস করলাম, আমরা কি পরস্পর মু‘আনাকা (আলিংগণ) করবো? তিনি বলেনঃ না, বরং তোমরা পরস্পর মুসাফাহা করো।
+। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা জিজ্ঞাসা করলাম, হে আল্লাহর রাসূল! আমরা কি (পারস্পরিক সাক্ষাতে) একে অপরের সামনে মাথা ঝুঁকাবো? তিনি বলেনঃ না। আমরা জিজ্ঞেস করলাম, আমরা কি পরস্পর মু‘আনাকা (আলিংগণ) করবো? তিনি বলেনঃ না, বরং তোমরা পরস্পর মুসাফাহা করো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>3702</td></tr><tr><td>Reference</td><td>Book 33 Hadith 46</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২১২৬, আন্তর্জাতিক নাম্বারঃ ৯৬৪ ২১২৬-(.../...) আবৃ বাকর ইবনু শায়বাহ, ‘আলী ইবনু হুজুর (রহঃ) ..... সকলেই হুসায়ন (রহঃ) থেকে একই সূত্রে বর্ণনা করেছেন। অবশ্য তারা উম্মু কা'ব এর কথা উল্লেখ করেননি। (ইসলামী ফাউন্ডেশন ২১০৫, ইসলামীক সেন্টার ২১০৮)
+আবৃ বাকর ইবনু শায়বাহ, ‘আলী ইবনু হুজুর (রহঃ) ..... সকলেই হুসায়ন (রহঃ) থেকে একই সূত্রে বর্ণনা করেছেন। অবশ্য তারা উম্মু কা'ব এর কথা উল্লেখ করেননি। (ইসলামী ফাউন্ডেশন ২১০৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2236</td></tr><tr><td>Arabic No</td><td>964.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
 

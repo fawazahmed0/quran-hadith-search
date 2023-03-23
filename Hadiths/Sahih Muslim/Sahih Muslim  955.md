@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৪১, আন্তর্জাতিক নাম্বারঃ ৪২২ ৮৪১-(১০৭/...) কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে এ সূত্রেও উপরের হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮৩৭, ইসলামিক সেন্টারঃ ৮৫০)
+কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে এ সূত্রেও উপরের হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮৩৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>955</td></tr><tr><td>Arabic No</td><td>422.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 117</td></tr></tbody></table></div>
 

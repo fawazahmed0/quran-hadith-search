@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২১৫৮। উবাই বিন কাব (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি এক ব্যক্তিকে কুরআন শিক্ষা দিলে সে আমাকে একটি ধনুক উপহার দেয়। আমি তা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট উল্লেখ করলে তিনি বলেনঃ তুমি এটি গ্রহণ করলে (জানবে যে,) তুমি জাহান্নামের একটি ধনুক গ্রহণ করেছো। অতএব আমি তা ফেরত দিলাম।
+। উবাই বিন কাব (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি এক ব্যক্তিকে কুরআন শিক্ষা দিলে সে আমাকে একটি ধনুক উপহার দেয়। আমি তা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট উল্লেখ করলে তিনি বলেনঃ তুমি এটি গ্রহণ করলে (জানবে যে,) তুমি জাহান্নামের একটি ধনুক গ্রহণ করেছো। অতএব আমি তা ফেরত দিলাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2158</td></tr><tr><td>Arabic No</td><td>2158</td></tr><tr><td>Reference</td><td>Book 12 Hadith 22</td></tr></tbody></table></div>
 

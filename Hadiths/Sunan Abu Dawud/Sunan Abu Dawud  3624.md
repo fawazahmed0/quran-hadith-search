@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ইয়াহ্‌ইয়া (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈক ইয়াহূদীকে বলেনঃ আমি তোমাকে ঐ আল্লাহ্‌র শপথ দিচ্ছি, যিনি মূসা (আঃ)-এর উপর তাওরাত কিতাব নাযিল করেন। তোমরা তাওরাত কিতাবে যিনাকারী সম্পর্কে কি হুকুম পেয়েছ?
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইয়াহুদীদেরকে বললেনঃ আমি তোমাদেরকে সেই আল্লাহর কসম দিয়ে বলছি, যিনি মূসা (আঃ)-এর উপর তাওরাত অবতীর্ণ করেছেন! তোমরা ব্যভিচারীর জন্য তাওরাতে কী ধরণের শাস্তির উল্লেখ দেখতে পাও? পুরো হাদীসটি রজম সংক্রান্ত ঘটনায় বর্ণিত হয়েছে।[1] দুর্বলঃ ইরওয়া
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3624</td></tr><tr><td>Arabic No</td><td>3624</td></tr><tr><td>Reference</td><td>Book 25 Hadith 54</td></tr></tbody></table></div>
 

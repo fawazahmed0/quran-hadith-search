@@ -72,7 +72,7 @@ This hadith has been narrated by Muhammad b. Hatim, Muhammad b. Bakr, Ahmad b. '
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bunu bana Muhammed b. Hatim de tahdis etti. Bize Muhammed b. Bekr tahdis etti (H). Bunu bize Ahmed b. Osman en-Nevfel! de tahdis etti. Bize (Muhammed b. Bekr ile birlikte) her ikisi İbn Cureyc'den bu isnat ile aynısını nakletti. Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf, 8611
+Bunu bana Muhammed b. Hatim de tahdis etti. Bize Muhammed b. Bekr tahdis etti (H). Bunu bize Ahmed b. Osman en-Nevfel! de tahdis etti. Bize (Muhammed b. Bekr ile birlikte) her ikisi İbn Cureyc'den bu isnat ile aynısını nakletti. Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>141.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
 

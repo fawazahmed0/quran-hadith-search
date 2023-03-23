@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+উবায়দুল্লাহ ইবন সাঈদ (রহঃ) ... ফযল ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকদের উদ্দেশ্যে বললেন, যখন তারা সন্ধ্যায় আরাফা ত্যাগ করছিলেন আর মুযদালিফায় ভোৱে তোমরা ধীরস্থির ভাবে পথ অতিক্রম করবে আর তখন তিনি তাঁর উটনীর লাগাম ধরে রেখেছিলেন। তারপর যখন তিনি মিনায় প্রবেশ করলেন, অবতরণ করলেন। যখন তিনি মুহাসসার নামক স্থানে অবতরণ করলেন, তখন বললেনঃ তোমরা পাথরের টুকরা সঙ্গে নাও, যা জামরায় নিক্ষেপ করতে হবে। রাবী বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাতে ইঙ্গিত করে বললেনঃ যেরূপ পাথর মানুষ সাধারণত নিক্ষেপ করে থাকে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3052</td></tr><tr><td>Arabic No</td><td>3052</td></tr><tr><td>Reference</td><td>Book 24 Hadith 435</td></tr></tbody></table></div>
 

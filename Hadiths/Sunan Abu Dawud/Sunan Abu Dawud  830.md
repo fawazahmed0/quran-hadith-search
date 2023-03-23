@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ওয়াহব ইবনু বাকিয়্যা ..... জাবের ইবনু আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একদা যখন আমরা কিরাআত পাঠে মগ্ন ছিলাম, তখন হঠাৎ সেখানে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আগমন করেন এবং এ সময় আমাদের মধ্যে আরব বেদুইন ও অনারব লোকেরা ছিল। তিনি বলেনঃ তোমরা পাঠ কর, সকলেই উত্তম। কেননা অদুর ভবিষ্যতে এমন সম্প্রদায় নির্গত হবে, যারা কুরআনকে তীরের মত ঠিক করবে (অর্থাৎ তাজবীদ নিয়ে অত্যন্ত বাড়াবাড়ি করবে), তা দ্রুত গতিতে পাঠ করবে, ধীরস্থিরভাবে পড়বে না।
+। জাবির ইবনু ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমরা কিরাত করছিলাম, এমন সময় সেখানে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসলেন। তখন আমাদের মধ্যে আরব বেদুঈন এবং অনারব লোকজন ছিলো। তিনি বললেন, তোমরা (কুরআন) পড়, প্রত্যেকেই উত্তম। কেননা অচিরেই এমন সম্প্রদায়ের আর্বিভাব ঘটবে, যারা কুরআনকে তীরের ন্যায় ঠিক করবে (তাজবীদ নিয়ে বাড়াবাড়ি করবে) তারা কুরআন পাঠে তাড়াহুড়া করবে, অপেক্ষা করবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>830</td></tr><tr><td>Arabic No</td><td>830</td></tr><tr><td>Reference</td><td>Book 2 Hadith 440</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Wahb bin Baqiyah] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir b. Abdillah (r.a.)'dan; demiştir ki; İçimizde Arab da Acem de bulunduğu halde Kur'an okuyorduk, (Bunu gören Resul-i Ekrem sallallahu aleyhi ve sellem): "Okuyunuz, (bu okuyuşlarınızın) hepsi de güzeldir. (İleride öyle) kavimler gelecektir ki, onu ok gibi dosdoğru okuyacaklar (ama karşılığını) dünyada alacaklar da ahirete bırakmayacaklardır" buyurdu. Diğer tahric: Ahmed b. Hanbel, III, 146, 153, 357, 397; V, 338
+Cabir b. Abdillah (r.a.)'dan; demiştir ki; İçimizde Arab da Acem de bulunduğu halde Kur'an okuyorduk, (Bunu gören Resul-i Ekrem sallallahu aleyhi ve sellem): "Okuyunuz, (bu okuyuşlarınızın) hepsi de güzeldir. (İleride öyle) kavimler gelecektir ki, onu ok gibi dosdoğru okuyacaklar (ama karşılığını) dünyada alacaklar da ahirete bırakmayacaklardır" buyurdu. Diğer tahric: Ahmed b. Hanbel, III, 146, 153, 357, 397; V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>830</td></tr><tr><td>Arabic No</td><td>830</td></tr><tr><td>Reference</td><td>Book 2 Hadith 440</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فَقَالَ أَلاَ وَقَوْلُ الزُّورِ فَمَا زَالَ يُكَرِّرُهَا وَقَالَ ابْنُ عُمَرَ قَالَ النَّبِيُّ صلى الله عليه وسلم هَلْ بَلَّغْتُ ثَلاَثًا. নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ‘মিথ্যা কথা থেকে সাবধান!’ এ কথাটি পুনঃ পুনঃ বলতে লাগলেন। ইবনু ‘উমার (রাযি.) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (বিদায় হাজ্জে) বলেছেন আমি কি পৌঁছে দিয়েছি? একথা তিনি তিনবার বলেছেন। ৯৪. আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাম দিতেন, তিনবার সালাম দিতেন। আর যখন কোন কথা বলতেন তখন তা তিনবার বলতেন। (৯৫, ৬২৪৪) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 3 Hadith 36</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:Whenever the Prophet (ﷺ) asked permission to enter, he knocked the door thrice with greeting and whenever he spoke a sentence (said a thing) he used to repeat it thrice. (See Hadith No. 261, Vol. 8)
+Narrated Anas:Whenever the Prophet (ﷺ) asked permission to enter, he knocked the door thrice with greeting and whenever he spoke a sentence (said a thing) he used to repeat it thrice. (See Hadith No. 261, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 3 Hadith 36</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdah] berkata, Telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் முகமன் (சலாம்) கூறினால், மூன்று முறை கூறுவார்கள்; ஒரு விஷயத்தைச் சொன்னால், அதை மூன்று முறை (திரும்பச்) சொல்வார்கள். அத்தியாயம் : 3
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் முகமன் (சலாம்) கூறினால், மூன்று முறை கூறுவார்கள்; ஒரு விஷயத்தைச் சொன்னால், அதை மூன்று முறை (திரும்பச்) சொல்வார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 3 Hadith 36</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abdah] berkata, Telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. şöyle demiştir: "Nebi (Sallallahu aleyhi ve Sellem) selam verdiğinde üç kere verirdi. Bir söz söylediğinde bunu üç kere tekrarlardı. Tekrar: 95, 6244
+Enes r.a. şöyle demiştir: "Nebi (Sallallahu aleyhi ve Sellem) selam verdiğinde üç kere verirdi. Bir söz söylediğinde bunu üç kere tekrarlardı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 3 Hadith 36</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আম্মার ইবনু ইয়াসির (রাঃ) বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে এমন অবস্থায় সাক্ষাৎ করলাম যে, তখন তাঁর সঙ্গে মুসলিম পাঁচজন কৃতদাস, দু’জন মহিলা ও আবূ বাকর (রাঃ) ব্যতীত অন্য কেউ ছিল না। (৩৬৬০) (আধুনিক প্রকাশনীঃ ৩৫৭০, ইসলামিক ফাউন্ডেশনঃ ৩৫৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আম্মার ইবনু ইয়াসির (রাঃ) বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে এমন অবস্থায় সাক্ষাৎ করলাম যে, তখন তাঁর সঙ্গে মুসলিম পাঁচজন কৃতদাস, দু’জন মহিলা ও আবূ বাকর (রাঃ) ব্যতীত অন্য কেউ ছিল না। (৩৬৬০) (আধুনিক প্রকাশনীঃ ৩৫৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3857</td></tr><tr><td>Arabic No</td><td>3857</td></tr><tr><td>Reference</td><td>Book 63 Hadith 82</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Abdullah bin Hammad Al Amuli] berkata, telah mencer
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்மார் பின் யாசிர் (ரலி) அவர்கள் கூறியதாவது: (இஸ்லாத்தின் ஆரம்பக் காலத்தில்) அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் ஐந்து அடிமைகளும் இரண்டு பெண்களும் (அடிமையல்லாத ஆண்களில்) அபூபக்ர் (ரலி) அவர்களும் மட்டுமே இருக்கக் கண்டேன்.95 அத்தியாயம் : 63
+அம்மார் பின் யாசிர் (ரலி) அவர்கள் கூறியதாவது: (இஸ்லாத்தின் ஆரம்பக் காலத்தில்) அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் ஐந்து அடிமைகளும் இரண்டு பெண்களும் (அடிமையல்லாத ஆண்களில்) அபூபக்ர் (ரலி) அவர்களும் மட்டுமே இருக்கக் கண்டேன்.95 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3857</td></tr><tr><td>Arabic No</td><td>3857</td></tr><tr><td>Reference</td><td>Book 63 Hadith 82</td></tr></tbody></table></div>
 

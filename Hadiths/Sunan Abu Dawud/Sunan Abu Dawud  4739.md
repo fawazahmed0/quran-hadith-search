@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন হারব (রহঃ) ..... আনাস ইবন মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার শাফা'আত আমার উম্মতের মধ্যে যারা কবীরা গুনাহ করে, তাদের জন্য হবে। (যেমন- যারা যিনা করে, চুরি করে, শরাব খায় ইত্যাদি লোকের জন্য)।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমার উম্মাতের কাবীরাহ গুনাহগারদের জন্য আমার শাফা‘আত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4739</td></tr><tr><td>Arabic No</td><td>4739</td></tr><tr><td>Reference</td><td>Book 42 Hadith 144</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৯৬৩। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি যমযমের পানি সাথে করে নিয়ে আসতেন, আর বলতেন রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা বহন করে আনতেন। — সহীহ, সহীহাহ (৮৮৩) এই হাদীসটিকে আবু ঈসা হাসান গারীব বলেছেন। আমরা এই হাদীস প্রসঙ্গে শুধু উপরোক্ত সূত্রেই জেনেছি।
+। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি যমযমের পানি সাথে করে নিয়ে আসতেন, আর বলতেন রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা বহন করে আনতেন। — সহীহ, সহীহাহ (৮৮৩) এই হাদীসটিকে আবু ঈসা হাসান গারীব বলেছেন। আমরা এই হাদীস প্রসঙ্গে শুধু উপরোক্ত সূত্রেই জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 9 Hadith 157</td></tr></tbody></table></div>
 

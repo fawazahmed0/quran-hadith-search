@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬৪০। সালিম (রহঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, এমন ধরণের যমীর উপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উশর ধার্য করেছেন যেটি বৃষ্টির পানি অথবা ঝর্ণার কিংবা নালার পানির সাহায্যে সিক্ত হয়ে থাকে। আর সেচের সাহায্যে যে যমী সিক্ত হয় তাতে অর্ধেক উশর। — সহীহ, ইবনু মা-জাহ (১৮১৭) বুখারী, মুসলিম আবু ঈসা এই হাদীসটিকে হাসান সহীহ বলেছেন।
+। সালিম (রহঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, এমন ধরণের যমীর উপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উশর ধার্য করেছেন যেটি বৃষ্টির পানি অথবা ঝর্ণার কিংবা নালার পানির সাহায্যে সিক্ত হয়ে থাকে। আর সেচের সাহায্যে যে যমী সিক্ত হয় তাতে অর্ধেক উশর। — সহীহ, ইবনু মা-জাহ (১৮১৭) বুখারী, মুসলিম আবু ঈসা এই হাদীসটিকে হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>640</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
 

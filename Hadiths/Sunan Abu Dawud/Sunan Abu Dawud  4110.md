@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমুদ ইবন খালিদ (রহঃ) .... আওযাঈ (রহঃ) এ হাদিছ বর্ণনা করেছেন। তিনি বলেনঃ (যখন সে হিজড়াকে শহর থেকে বের করে দেওয়া হয়), তখন বলা হয়ঃ ইয়া রাসূলাল্লাহ! সে তো না খেয়ে মারা যাবে। তখন তিনি তাকে সপ্তাহে দু’দিন শহরে আসার অনুমতি দেন, যাতে চেয়ে নিয়ে ফিরে যেতে পারে।
+। আল-আওযাঈ সূত্রে এ ঘটনা বর্ণিত। বলা হলো, হে আল্লাহর রাসূল! তাহলে সে তো না খেয়ে মারা যাবে। কাজেই তিনি প্রতি সপ্তাহে দু’ বার শহরে আসার জন্য তাকে অনুমতি দিলেন, অতঃপর সে খাবার সংগ্রহ করে চলে যাবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>4110</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
 

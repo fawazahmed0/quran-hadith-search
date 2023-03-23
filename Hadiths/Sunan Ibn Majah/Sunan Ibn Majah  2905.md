@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২৯০৫। আবুল গাওছ হুসাইন (রাঃ) থেকে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট তার পিতার উপর ফরজ হওয়া হজ্জ সম্পর্কে ফতওয়া জিজ্ঞেস করেন, যিনি মারা গেছেন কিন্তু হজ্জ করতে পারেননি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমি তোমার পিতার পক্ষ থেকে হজ্জ আদায় করো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরও বলেনঃ মানতের রোযাও অনুরূপ অর্থাৎ তার পক্ষ থেকে তা আদায় করা যাবে।
+। আবুল গাওছ হুসাইন (রাঃ) থেকে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট তার পিতার উপর ফরজ হওয়া হজ্জ সম্পর্কে ফতওয়া জিজ্ঞেস করেন, যিনি মারা গেছেন কিন্তু হজ্জ করতে পারেননি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তুমি তোমার পিতার পক্ষ থেকে হজ্জ আদায় করো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরও বলেনঃ মানতের রোযাও অনুরূপ অর্থাৎ তার পক্ষ থেকে তা আদায় করা যাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2905</td></tr><tr><td>Arabic No</td><td>2905</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
 

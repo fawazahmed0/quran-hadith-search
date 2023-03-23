@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-কানবী ..... মুহাম্মাদ ইবনু উছমান (রহঃ) আল-কাসিম ইবনু মুহাম্মাদ (রহঃ)-কে ইস্তেহাযাগ্রস্ত মহিলাদের সম্পর্কে জিজ্ঞাসা করেন। তিনি বলেন, তাঁরা হায়েযকালীন সময়ে নামায ত্যাগ করবে। এরপর গোসল করে নামায পড়বে এবং কয়েকদিন পরপর গোসল করবে।
+। মুহাম্মাদ ইবনু ‘উসমান (রহঃ) সূত্রে বর্ণিত। তিনি কাসিম ইবনু মুহাম্মাদকে ইস্তিহাযা রোগীনী সম্পর্কে জিজ্ঞেস করলে তিনি বলেন, হায়িযের দিনগুলোতে সে সালাত ত্যাগ করবে, তারপর গোসল করে সালাত আদায় করবে। এরপর কয়েকদিন পরপর গোসল করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>303</td></tr><tr><td>Arabic No</td><td>303</td></tr><tr><td>Reference</td><td>Book 1 Hadith 303</td></tr></tbody></table></div>
 

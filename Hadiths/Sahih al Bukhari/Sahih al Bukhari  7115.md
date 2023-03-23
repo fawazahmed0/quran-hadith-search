@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। তিনি বলেছেনঃ ক্বিয়ামাত (কিয়ামত) সংঘটিত হবে না, যতক্ষণ কোন লোক অন্য লোকের কবরের পাশ দিয়ে যাবার সময় না বলবে হায়! যদি আমি তার স্থলে হতাম। [৮৫] (আধুনিক প্রকাশনী- ৬৬১৬, ইসলামিক ফাউন্ডেশন- ৬৬৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। তিনি বলেছেনঃ ক্বিয়ামাত (কিয়ামত) সংঘটিত হবে না, যতক্ষণ কোন লোক অন্য লোকের কবরের পাশ দিয়ে যাবার সময় না বলবে হায়! যদি আমি তার স্থলে হতাম। [৮৫] (আধুনিক প্রকাশনী- ৬৬১৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7115</td></tr><tr><td>Arabic No</td><td>7115</td></tr><tr><td>Reference</td><td>Book 92 Hadith 62</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] telah menceritakan kepadaku [Malik] dar
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதர் மற்றொரு மனிதரின் மண்ணறையை (கப்றை)க் கடந்து செல்லும் போது, “அந்தோ! நான் இவரது இடத்தில் (மண்ணறைக்குள்) இருக்கக் கூடாதா?” என்று (ஏக்கத்துடன்) சொல்லும் காலம் வராத வரை மறுமை நாள் வராது.45 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 92
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதர் மற்றொரு மனிதரின் மண்ணறையை (கப்றை)க் கடந்து செல்லும் போது, “அந்தோ! நான் இவரது இடத்தில் (மண்ணறைக்குள்) இருக்கக் கூடாதா?” என்று (ஏக்கத்துடன்) சொல்லும் காலம் வராத வரை மறுமை நாள் வராது.45 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7115</td></tr><tr><td>Arabic No</td><td>7115</td></tr><tr><td>Reference</td><td>Book 92 Hadith 62</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৪০১, আন্তর্জাতিক নাম্বারঃ ৬৬৩ ১৪০১-(.../...) মুহাম্মাদ ইবনু আবদুল আ'লা, ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আত তায়মী (রহঃ) থেকে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৩৮৭, ইসলামীক সেন্টার ১৩৯৯)।
+মুহাম্মাদ ইবনু আবদুল আ'লা, ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আত তায়মী (রহঃ) থেকে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৩৮৭, ইসলামীক সেন্টার ১৩৯৯)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>663.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 348</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবু মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উপস্থিত হলে তিনি আমাকে (ইহরাম ভঙ্গ করে) হালাল হয়ে যাওয়ার আদেশ দিলেন। (১৫৫৯) (আধুনিক প্রকাশনীঃ ১৪৬২, ইসলামিক ফাউন্ডেশনঃ ১৪৬৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবু মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট উপস্থিত হলে তিনি আমাকে (ইহরাম ভঙ্গ করে) হালাল হয়ে যাওয়ার আদেশ দিলেন। (১৫৫৯) (আধুনিক প্রকাশনীঃ ১৪৬২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1565</td></tr><tr><td>Arabic No</td><td>1565</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsannaa] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா (ரலி) அவர்கள் கூறியதாவது: நான் (ஹஜ்ஜின்போது) நபி (ஸல்) அவர்களிடம் சென்றேன். (நான் குர்பானிப் பிராணி கொண்டுவராததால் உம்ராவை முடித்து) இஹ்ராமிலிருந்து விடுபடுமாறு அவர்கள் கட்டளையிட்டார்கள். அத்தியாயம் : 25
+அபூமூசா (ரலி) அவர்கள் கூறியதாவது: நான் (ஹஜ்ஜின்போது) நபி (ஸல்) அவர்களிடம் சென்றேன். (நான் குர்பானிப் பிராணி கொண்டுவராததால் உம்ராவை முடித்து) இஹ்ராமிலிருந்து விடுபடுமாறு அவர்கள் கட்டளையிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1565</td></tr><tr><td>Arabic No</td><td>1565</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
 

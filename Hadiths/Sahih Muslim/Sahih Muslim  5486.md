@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩৭৯, আন্তর্জাতিক নাম্বারঃ ২০৯৪ ৫৩৭৯-(৬১/২০৯৪) ইয়াহইয়া ইবনু আইয়্যুব (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আংটিটি ছিল রূপার প্রস্তুতকৃত। এর মোহরটি ছিল হাবশী*। (ইসলামিক ফাউন্ডেশন ৫৩০৯, ইসলামিক সেন্টার ৫৩২৫) * হাবশার পাথরের কিংবা হাবশী রংয়ের।
+ইয়াহইয়া ইবনু আইয়্যুব (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আংটিটি ছিল রূপার প্রস্তুতকৃত। এর মোহরটি ছিল হাবশী*। (ইসলামিক ফাউন্ডেশন ৫৩০৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5486</td></tr><tr><td>Arabic No</td><td>2094.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 101</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Ayyub]; Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது வெள்ளி மோதிரம் அபிசீனியக் குமிழ் (அல்லது கறுப்புக் கல்) உள்ளதாக இருந்தது. அத்தியாயம் : 37
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது வெள்ளி மோதிரம் அபிசீனியக் குமிழ் (அல்லது கறுப்புக் கல்) உள்ளதாக இருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5486</td></tr><tr><td>Arabic No</td><td>2094.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 101</td></tr></tbody></table></div>
 

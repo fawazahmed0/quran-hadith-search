@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল কা‘নবী ..... আয়েশা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে পূর্বোক্ত হাদীসের অর্থে বর্ণনা করেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, জা‘ফর যুহরী (রহঃ) থেকে হাদীস শুনেননি, বরং যু্হরী তাকে লিখিয়েছিলেন।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে উপরোক্ত হাদীসের অর্থানুরূপ বর্ণনা করেছেন। ইমাম আবূ দাঊদ (রহ.) বলেন, জা‘ফার সরাসরি যুহরী (রহ.) থেকে শুনেননি, বরং যুহরী তাকে লিখে পাঠিয়েছেন।[1] আমি এটি সহীহ এবং যঈফেও পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2084</td></tr><tr><td>Arabic No</td><td>2084</td></tr><tr><td>Reference</td><td>Book 12 Hadith 39</td></tr></tbody></table></div>
 

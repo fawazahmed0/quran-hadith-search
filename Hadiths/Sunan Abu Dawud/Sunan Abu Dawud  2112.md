@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাফস ইবন আবদুল্লাহ্ ...... আবূ হুরায়রা (রাঃ) হতে পূর্বোক্ত হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। আর তিনি ইজার ও লোহার আংটির কথা উল্লেখ করেননি। বরং তিনি বলেন, তুমি কুরআনের কী হিফজ করেছ? সে বলে, সূরাতুল বাকারা এবং এর পরবর্তী সূরা। তিনি বলেন, তুমি তাকে এর বিশ আয়াত পারিমাণ শিক্ষা দাও, আর (এর বিনিময়ে) সে তোমার স্ত্রী হবে।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। তবে এতে পরিধেয় বস্ত্র ও আংটির কথা নেই। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেনঃ তুমি কুরআনের কতটুকু মুখস্থ জানো? সে বললো, সূরা আল-বাকারাহ অথবা তার পরবর্তী সূরা। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেনঃ তুমি তাকে বিশটি আয়াত শিক্ষা দাও এবং সে তোমার স্ত্রী।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2112</td></tr><tr><td>Arabic No</td><td>2112</td></tr><tr><td>Reference</td><td>Book 12 Hadith 67</td></tr></tbody></table></div>
 

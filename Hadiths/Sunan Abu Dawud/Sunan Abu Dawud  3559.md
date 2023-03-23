@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন মুহাম্মদ (রহঃ) ..... যায়দ ইবন ছাবিত (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কোন ব্যক্তি কাউকে তার সারা জীবনের জন্য কিছু প্রদান করে, তবে তা সে ব্যক্তির হয়ে যায়। তার জীবিত থাকাবস্থায় ঐ বস্তু যেমন তার থাকে, তেমনি তার মৃত্যুর পরেও থাকে। আর তোমরা রোকবার শর্ত আরোপ করবে না। কেননা, কোন ব্যক্তি যদি কাউকে সারা জীবনের জন্য কিছু দেয়, তবে তা তার-ই হয়ে যায়।
+। যায়িদ ইবনু সাবিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কেউ কাউকে জীবনস্বত্বরূপে কিছু দান করে তাহলে যাকে তা দান করা হয়েছে সে-ই হবে জীবনে-মরণে এর স্বতাধিকারী। তোমরা রুকবা করো না। কেউ রুকবা করলে তা গ্রহীতার মালিকানায় চলে যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3559</td></tr><tr><td>Arabic No</td><td>3559</td></tr><tr><td>Reference</td><td>Book 24 Hadith 144</td></tr></tbody></table></div>
 

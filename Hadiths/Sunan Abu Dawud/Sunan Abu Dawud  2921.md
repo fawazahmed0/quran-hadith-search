@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন মুহাম্মদ ইবন ছাবিত (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আল্লাহ তা'আলার বিধানঃ (وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ نَصِيبَهُمْ) অর্থাৎ "তোমরা শপথপূর্বক যাদের সাথে ওয়াদা করেছ, তাদের হক তাদের দিয়ে দাও।" জাহিলিয়াতের যুগে এক ব্যক্তি অন্য ব্যক্তির সাথে শপথপূর্বক এরূপ ওয়াদা করত, যদিও তাদেরর মাঝে আত্নীয়তার সম্পর্ক থাকতো না। ফলে, তারা একে অন্যের ওয়ারিছ হয়ে যেত। এ হুকুমটি সূরা আনফালের এ আয়াত দ্বারা বাতিল হয়ে যায়ঃ (وَأُولُو الأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ) অর্থাৎ নিকট আত্মীয়রাই একে অন্যের সস্পদের অধিক হকদার।
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন (আল্লাহর বাণীঃ) ‘‘যাদের সাথে তোমরা ওয়াদাবদ্ধ তাদের প্রাপ্য তাদেরকে প্রদান করো।’’[সূরা আন-নিসাঃ ৩৩] পূর্ব যুগের লোকেরা পারস্পরিক চুক্তি বা শপথের মাধ্যমে একে অপরের ওয়ারিস হতো, অথচ তাদের মধ্যে বংশীয় বা আত্মীয়তার কোনো সম্পর্ক থাকতো না। এ সুযোগ রহিত হয় সূরা আল-আনফালের এ আয়াত দ্বারাঃ ‘‘আল্লাহর বিধানে রক্ত সম্পর্কীয় আত্মীয়রা একে অন্যের চেয়ে অধিক হকদার।’’
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2921</td></tr><tr><td>Arabic No</td><td>2921</td></tr><tr><td>Reference</td><td>Book 19 Hadith 37</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit], telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas'dan demiştir kir "Yeminlerinizin bağladığı kimselere hisselerini verin..[Nisâ 33] (âyet-i kerimesi inince müslümanlardan) birisi diğeri ile anlaşıyor ve aralarında bir kan bağı olmadığı halde (anlaşma sebebiyle bu iki kişi'den) biri ötekine varis oluyordu. Sonra Enfâl (âyeti) bunu yürürlükten kaldırdo. Yüce Allah (Enfâl âyetinde şöyle) buyurdu: "Rahim sahihleri (hısımlar) Allah'ın kitabına göre birbirlerine (varis olmağa) daha yakındırlar.[Enfal 75]
+İbn Abbas'dan demiştir kir "Yeminlerinizin bağladığı kimselere hisselerini verin..[Nisâ 33] (âyet-i kerimesi inince müslümanlardan) birisi diğeri ile anlaşıyor ve aralarında bir kan bağı olmadığı halde (anlaşma sebebiyle bu iki kişi'den) biri ötekine varis oluyordu. Sonra Enfâl (âyeti) bunu yürürlükten kaldırdo. Yüce Allah (Enfâl âyetinde şöyle) buyurdu: "Rahim sahihleri (hısımlar) Allah'ın kitabına göre birbirlerine (varis olmağa) daha yakındırlar.[Enfal]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2921</td></tr><tr><td>Arabic No</td><td>2921</td></tr><tr><td>Reference</td><td>Book 19 Hadith 37</td></tr></tbody></table></div>
 

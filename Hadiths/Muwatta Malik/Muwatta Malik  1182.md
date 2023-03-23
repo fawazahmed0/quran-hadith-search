@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ২৮. মালিক (রহঃ)-এর নিকট রেওয়ায়ত পৌঁছিয়াছে সাঈদ ইবন মুসায়াব (রহঃ) হইতে। তিনি বলেনঃ এমন কোন পুরুষ যে উন্মাদ বা রুগ্ন সে যদি কোন মহিলাকে বিবাহ করে, তবে সেই মহিলাকে অধিকার দেওয়া হইবে। যদি সে ইচ্ছা করে তাহা হইলে সেই স্বামীর সঙ্গে অবস্থান করিবে, আর যদি ইচ্ছা করে বিচ্ছেদ ঘটাইবে।
+রেওয়ায়ত ২৯. মালিক (রহঃ) বলেনঃ যে ক্রীতদাসী কোন ক্রীতদাসের অধীনে থাকা অবস্থায় তাহার সঙ্গে সঙ্গম বা তাহাকে স্পর্শ করার পূর্বে স্বাধীন হইয়া যায় এবং নিজের স্বাধীন অধিকার নিজে গ্রহণ করিয়া লয় তবে সে মোহর পাইবে না। আর ইহা এক তালাক বলিয়া গণ্য হইবে। মাসয়ালা আমাদের নিকটও তাহাই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1182</td></tr><tr><td>Arabic No</td><td>1182</td></tr><tr><td>Reference</td><td>Book 29 Hadith 6</td></tr></tbody></table></div>
 

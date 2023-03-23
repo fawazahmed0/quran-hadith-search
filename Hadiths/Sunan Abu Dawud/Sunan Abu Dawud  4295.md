@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্‌ ইব্‌ন মুহাম্মাদ (রহঃ) .... মুআয ইব্‌ন জাবাল (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ভয়াবহ ফিতনা, কুস্‌তুন্‌তুনিয়া বিজয় এবং দাজ্জাল বের হওয়া-সাত মাসের মধ্যে ঘটবে।
+। মু‘আয ইবনু জাবাল (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ভয়ঙ্কর যুদ্ধ ও কুসতুনতীনিয়া বিজয় এবং দাজ্জালের আবির্ভাব মাত্র সাত মাসের মধ্যে ঘটবে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4295</td></tr><tr><td>Arabic No</td><td>4295</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
 

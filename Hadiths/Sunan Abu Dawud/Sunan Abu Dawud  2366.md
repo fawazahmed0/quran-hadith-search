@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ ....... লাকীত ইবন সাবুরা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ তোমরা রোযা থাকাবস্থায় ব্যতীত অন্য সময়ে নাকে অধিক পানি প্রবেশ করাবে।
+। লাক্বীত ইবনু সাবারাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তুমি উত্তমরূপে নাকে পানি দিয়ে তা পরিস্কার করো- যদি তুমি সওম পালনের অবস্থায় না থাকো।[1] সহীহ। এটি পূর্বের ১৪২ নং হাদীসের অংশ বিশেষ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2366</td></tr><tr><td>Arabic No</td><td>2366</td></tr><tr><td>Reference</td><td>Book 14 Hadith 54</td></tr></tbody></table></div>
 

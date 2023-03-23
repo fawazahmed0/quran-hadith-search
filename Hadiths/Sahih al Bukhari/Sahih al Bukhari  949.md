@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আর ‘ঈদের দিন সুদানীরা বর্শা ও ঢালের খেলা করত। আমি নিজে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করেছিলাম অথবা তিনি নিজেই বলেছিলেন, তুমি কি তাদের খেলা দেখতে চাও? আমি বললাম, হ্যাঁ, অতঃপর তিনি আমাকে তাঁর পিছনে এমনভাবে দাঁড় করিয়ে দিলেন যে, আমার গাল ছিল তাঁর গালের সাথে লাগান। তিনি তাদের বললেন, তোমরা যা করছিলে তা করতে থাক, হে বনূ আরফিদা। পরিশেষে আমি যখন ক্লান্ত হয়ে পড়লাম, তখন তিনি আমাকে বললেন, তোমার দেখা কি যথেষ্ট হয়েছে? আমি বললাম, হ্যাঁ, তিনি বললেন, তা হলে চলে যাও। (৪৫৪; মুসলিম ৮/৪, হাঃ ৮৯২, আহমাদ ২৬৩৮৮) (আধুনিক প্রকাশনীঃ ৮৯৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>949</td></tr><tr><td>Arabic No</td><td>949</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin 'Isa] berkata, telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (Radiyallahu Anha) şöyle demiştir: "Bir gün Resul-i Ekrem sallallahu aleyhi ve sellem odama gelmişti. O sırada yanımda iki kız çocuk vardı ve Buas savaşlarını anlatan şarkılar / marşlar söylüyorlardı. Nebi Sallallâhu aleyhi ve Sellem döşeğe uzandı ve yüzünü diğer tarafa çevirdi. Bir süre sonra Ebu Bekir geldi ve beni: "Resulullah Sallallahu Aleyhi ve Sellem'in yanında şeytan işi çalgılarla eğleniyorsunuz, öyle mi?" diye azarlamaya başladı. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem ona yönelerek; "Rahat bırak çocukları!" de­di. Ben de Ebu Bekir'in boş bir anından faydalanıp çocuklara gözümle işaret ettim ve çıktılar. Tekrar: 952, 987, 2907, 3530, 3931
+Aişe (Radiyallahu Anha) şöyle demiştir: "Bir gün Resul-i Ekrem sallallahu aleyhi ve sellem odama gelmişti. O sırada yanımda iki kız çocuk vardı ve Buas savaşlarını anlatan şarkılar / marşlar söylüyorlardı. Nebi Sallallâhu aleyhi ve Sellem döşeğe uzandı ve yüzünü diğer tarafa çevirdi. Bir süre sonra Ebu Bekir geldi ve beni: "Resulullah Sallallahu Aleyhi ve Sellem'in yanında şeytan işi çalgılarla eğleniyorsunuz, öyle mi?" diye azarlamaya başladı. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem ona yönelerek; "Rahat bırak çocukları!" de­di. Ben de Ebu Bekir'in boş bir anından faydalanıp çocuklara gözümle işaret ettim ve çıktılar. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>949</td></tr><tr><td>Arabic No</td><td>949</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৩৪৮, আন্তর্জাতিক নাম্বারঃ ১৪১২ ৩৩৪৮-(.../...) আবূ কামিল (রহঃ) ..... নাফি’ (রহঃ) থেকে এ সূত্রে (অনুরূপ বর্ণিত হয়েছে)। (ইসলামিক ফাউন্ডেশন ৩৩২৩, ইসলামীক সেন্টার ৩৩২১)
+আবূ কামিল (রহঃ) ..... নাফি’ (রহঃ) থেকে এ সূত্রে (অনুরূপ বর্ণিত হয়েছে)। (ইসলামিক ফাউন্ডেশন ৩৩২৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>1412.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 60</td></tr></tbody></table></div>
 

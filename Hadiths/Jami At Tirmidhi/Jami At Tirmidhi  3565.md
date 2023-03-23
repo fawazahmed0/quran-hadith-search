@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৫৬৫। আলী (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন রোগীকে দেখতে গেলে বলতেনঃ “হে মানুষের প্রভু! তুমি রোগ দূর কর, তুমি সুস্থতা দান কর, তুমিই সুস্থতা দানকারী। তোমার আরোগ্যদান ব্যতীত কোন আরোগ্য নেই। তুমি এমনভাবে সুস্থতা দান কর যাতে কোন রোগই বাকি না থাকে"। সহীহঃ বুখারী ও মুসলিম ‘আয়িশাহ (রাযিঃ) হতে। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
+। আলী (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন রোগীকে দেখতে গেলে বলতেনঃ “হে মানুষের প্রভু! তুমি রোগ দূর কর, তুমি সুস্থতা দান কর, তুমিই সুস্থতা দানকারী। তোমার আরোগ্যদান ব্যতীত কোন আরোগ্য নেই। তুমি এমনভাবে সুস্থতা দান কর যাতে কোন রোগই বাকি না থাকে"। সহীহঃ বুখারী ও মুসলিম ‘আয়িশাহ (রাযিঃ) হতে। আবূ ঈসা বলেন, এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3565</td></tr><tr><td>Arabic No</td><td>3565</td></tr><tr><td>Reference</td><td>Book 48 Hadith 196</td></tr></tbody></table></div>
 

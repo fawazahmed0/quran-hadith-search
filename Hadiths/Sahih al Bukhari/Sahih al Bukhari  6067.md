@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অমুক অমুক ব্যক্তি আমাদের দ্বীনের ব্যাপারে কিছু জানে বলে আমি ধারণা করি না। রাবী লায়স বর্ণনা করেন যে, লোক দু’টি মুনাফিক ছিল। [৬০৬৮] (আধুনিক প্রকাশনী- ৫৬৩২, ইসলামিক ফাউন্ডেশন- ৫৫২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অমুক অমুক ব্যক্তি আমাদের দ্বীনের ব্যাপারে কিছু জানে বলে আমি ধারণা করি না। রাবী লায়স বর্ণনা করেন যে, লোক দু’টি মুনাফিক ছিল। [৬০৬৮] (আধুনিক প্রকাশনী- ৫৬৩২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6067</td></tr><tr><td>Arabic No</td><td>6067</td></tr><tr><td>Reference</td><td>Book 78 Hadith 97</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "I do not think that so-and-so and so-an
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: “இன்னாரும் இன்னாரும் நமது மார்க்கத்தில் எதையும் அறிந்ததாக நான் கருதவில்லை” என்று (இருவரைப் பற்றி) நபி (ஸல்) அவர்கள் கூறினார்கள். (இதன் அறிவிப்பாளர்களில் ஒருவரான) லைஸ் (ரஹ்) அவர்கள் கூறுகிறார்கள்: அவர்கள் இருவரும் நயவஞ்சகர்களாய் இருந்தனர். அத்தியாயம் : 78
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: “இன்னாரும் இன்னாரும் நமது மார்க்கத்தில் எதையும் அறிந்ததாக நான் கருதவில்லை” என்று (இருவரைப் பற்றி) நபி (ஸல்) அவர்கள் கூறினார்கள். (இதன் அறிவிப்பாளர்களில் ஒருவரான) லைஸ் (ரஹ்) அவர்கள் கூறுகிறார்கள்: அவர்கள் இருவரும் நயவஞ்சகர்களாய் இருந்தனர். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6067</td></tr><tr><td>Arabic No</td><td>6067</td></tr><tr><td>Reference</td><td>Book 78 Hadith 97</td></tr></tbody></table></div>
 

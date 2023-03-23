@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬২৪। আমর ইবনু মুররা (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, আবু উবাদাকে আমি প্রশ্ন করলাম, আব্দুল্লাহর নিকট হতে তিনি কি কোন কিছু বর্ণনা করেন? তিনি বললেন, না। – আবূ উবাইদাহ হতে সূত্রটি সহীহ, আর তিনি হলেন আব্দুল্লাহ ইবনু মাসউদের ছেলে।
+। আমর ইবনু মুররা (রহঃ) হতে বর্ণিত আছে, তিনি বলেন, আবু উবাদাকে আমি প্রশ্ন করলাম, আব্দুল্লাহর নিকট হতে তিনি কি কোন কিছু বর্ণনা করেন? তিনি বললেন, না। – আবূ উবাইদাহ হতে সূত্রটি সহীহ, আর তিনি হলেন আব্দুল্লাহ ইবনু মাসউদের ছেলে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 7 Hadith 8</td></tr></tbody></table></div>
 

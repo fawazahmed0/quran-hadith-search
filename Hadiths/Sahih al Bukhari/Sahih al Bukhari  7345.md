@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত যে, তিনি যুলহুলায়ফাতে রাতের শেষ ভাগে অবস্থানকালে তাকে বলা হলো আপনি একটি বরকতপূর্ণ জায়গায় আছেন। [৪৮৩] (আধুনিক প্রকাশনী- ৬৮৩২, ইসলামিক ফাউন্ডেশন- ৬৮৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত যে, তিনি যুলহুলায়ফাতে রাতের শেষ ভাগে অবস্থানকালে তাকে বলা হলো আপনি একটি বরকতপূর্ণ জায়গায় আছেন। [৪৮৩] (আধুনিক প্রকাশনী- ৬৮৩২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7345</td></tr><tr><td>Arabic No</td><td>7345</td></tr><tr><td>Reference</td><td>Book 96 Hadith 73</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) had a dream in the last portion o
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பத்னுல்வாதி யிலுள்ள) துல்ஹுலைஃபாவில் (இரவின் கடைசி நேரத்தில்) ஓய்வெடுக்கும் இடத்தில் (உறங்கிக்கொண்டு) இருந்த போது அவர்களுக்குக் கனவு காட்டப் பட்டது. அப்போது (கனவில்) “வளமிக்க பள்ளத்தாக்கில் நீங்கள் இருக்கின்றீர்கள்” என்று நபியவர்களிடம் கூறப்பட்டது.73 அத்தியாயம் : 96
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பத்னுல்வாதி யிலுள்ள) துல்ஹுலைஃபாவில் (இரவின் கடைசி நேரத்தில்) ஓய்வெடுக்கும் இடத்தில் (உறங்கிக்கொண்டு) இருந்த போது அவர்களுக்குக் கனவு காட்டப் பட்டது. அப்போது (கனவில்) “வளமிக்க பள்ளத்தாக்கில் நீங்கள் இருக்கின்றீர்கள்” என்று நபியவர்களிடம் கூறப்பட்டது.73 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7345</td></tr><tr><td>Arabic No</td><td>7345</td></tr><tr><td>Reference</td><td>Book 96 Hadith 73</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৪১৪, আন্তর্জাতিক নাম্বারঃ ১০৮৫ ২৪১৪-(.../...) ইসহাক ইবনু ইবরাহীম ও মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... ইবনু জুরায়জ (রহঃ) থেকে বর্ণিত। ..... এ সূত্রেও উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৩৯১, ইসলামীক সেন্টার ২৩৯২)
+ইসহাক ইবনু ইবরাহীম ও মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... ইবনু জুরায়জ (রহঃ) থেকে বর্ণিত। ..... এ সূত্রেও উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৩৯১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2524</td></tr><tr><td>Arabic No</td><td>1085.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 30</td></tr></tbody></table></div>
 

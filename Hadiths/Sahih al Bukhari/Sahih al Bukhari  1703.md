@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর বকরীর কিলাদা পাকিয়ে দিতাম আর তিনি সেগুলো পাঠিয়ে দিয়ে হালাল অবস্থায় থেকে যেতেন। (১৭৯৬) (আধুনিক প্রকাশনীঃ ১৫৮৫, ইসলামিক ফাউন্ডেশনঃ ১৫৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর বকরীর কিলাদা পাকিয়ে দিতাম আর তিনি সেগুলো পাঠিয়ে দিয়ে হালাল অবস্থায় থেকে যেতেন। (১৭৯৬) (আধুনিক প্রকাশনীঃ ১৫৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1703</td></tr><tr><td>Arabic No</td><td>1703</td></tr><tr><td>Reference</td><td>Book 25 Hadith 181</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுக்காக (குர்பானி) ஆடுகளின் அடையாள மாலை களைத் தொடுப்பேன். நபி (ஸல்) அவர்கள் அந்த ஆடுகளை (மக்காவுக்கு) அனுப்பி விட்டு, அவர்கள் இஹ்ராமில்லாத நிலை யில் (தமது வீட்டில்) தங்குவார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 25
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுக்காக (குர்பானி) ஆடுகளின் அடையாள மாலை களைத் தொடுப்பேன். நபி (ஸல்) அவர்கள் அந்த ஆடுகளை (மக்காவுக்கு) அனுப்பி விட்டு, அவர்கள் இஹ்ராமில்லாத நிலை யில் (தமது வீட்டில்) தங்குவார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1703</td></tr><tr><td>Arabic No</td><td>1703</td></tr><tr><td>Reference</td><td>Book 25 Hadith 181</td></tr></tbody></table></div>
 

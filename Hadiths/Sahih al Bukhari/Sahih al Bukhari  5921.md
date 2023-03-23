@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘কাযা’ থেকে নিষেধ করেছেন। [৫৯২০; মুসলিম ৩৭/৩১, হাঃ ২১২০, আহমাদ ৪৪৭৩] (আধুনিক প্রকাশনী- ৫৪৮৯, ইসলামিক ফাউন্ডেশন- ৫৩৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘কাযা’ থেকে নিষেধ করেছেন। [৫৯২০; মুসলিম ৩৭/৩১, হাঃ ২১২০, আহমাদ ৪৪৭৩] (আধুনিক প্রকাশনী- ৫৪৮৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>5921</td></tr><tr><td>Reference</td><td>Book 77 Hadith 136</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தலைமுடியில் ஒரு பகுதியை மழித்து விட்டு, மற்றொரு பகுதியை மழிக்காமல் விட்டுவிடுவதைத் தடை செய்தார்கள். அத்தியாயம் : 77
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தலைமுடியில் ஒரு பகுதியை மழித்து விட்டு, மற்றொரு பகுதியை மழிக்காமல் விட்டுவிடுவதைத் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>5921</td></tr><tr><td>Reference</td><td>Book 77 Hadith 136</td></tr></tbody></table></div>
 

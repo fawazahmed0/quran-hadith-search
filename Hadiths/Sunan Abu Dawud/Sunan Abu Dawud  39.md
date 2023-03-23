@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হায়ওত ইবনু শুরায়হ .... আবদুল্লাহ্ ইবনু মাসউদ (রাঃ) হতে বর্ণিত। তিনি বলেছেন, একদা জ্বীনদের একটি প্রতিনিধি দল নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের খেদমতে উপস্থিত হয়ে বলল, হে মুহাম্মাদ! আপনি আপনার উম্মতকে হাড়, গোবর, কয়লা দ্বারা ইস্তিঞ্জা করতে নিষেধ করুন। কেননা মহান আল্লাহ্ এগুলোর মধ্যে আমাদের জীবিকা নিহীত রেখেছেন। রাবী বলেন, অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এ ব্যাপারে নিষেধাজ্ঞা আরোপ করেন।
+। ‘আব্দুল্লাহ ইবনু মাসউদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, জিনদের একটি প্রতিনিধি দল নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বলল, হে মুহাম্মাদ! আপনার উম্মাতকে হাড্ডি, গোবর অথবা কয়লা দ্বারা ইস্তিঞ্জা করতে নিষেধ করে দিন। কারণ মহান আল্লাহ ওগুলোর মধ্যে আমাদের রিযিক রেখেছেন। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ওগুলো দিয়ে ইস্তিঞ্জা করতে নিষেধ করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>39</td></tr><tr><td>Arabic No</td><td>39</td></tr><tr><td>Reference</td><td>Book 1 Hadith 39</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+রাবী মাহদী (রহ.) বলেন, আমি আবূ রাজা (রহ.)-কে বলতে শুনেছি যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর নবুয়ত লাভের সময় আমি ছিলাম অল্প বয়স্ক বালক। আমি আমাদের উট চরাতাম। যখন আমরা তাঁর অভিযানের কথা শুনলাম তখন আমরা পালিয়ে এলাম জাহান্নামের দিকে অর্থাৎ মিথ্যাচারী (নবী) মুসাইলামাহর দিকে। (আধুনিক প্রকাশনীঃ ৪০২৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4376</td></tr><tr><td>Arabic No</td><td>4376</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

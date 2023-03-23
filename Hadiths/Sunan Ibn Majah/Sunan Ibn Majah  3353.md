@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৩৫৩। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এসে ঘরে প্রবেশ করে এক টুকরা রুটি পড়ে থাকতে দেখেন। তিনি তা তুলে নিয়ে ধুলাবালি ঝেড়ে ফেলে আহার করলেন এবং বলেনঃ হে আয়েশা! সম্মান করো সম্মানিতের (আল্লাহ প্রদত্ত রিযিকের)। কারণ কোন জাতির নিকট থেকে আল্লাহ প্রদত্ত রিযিক উঠে গেলে তা পুনরায় তাদের নিকট প্রত্যাবর্তন করে না।
+। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এসে ঘরে প্রবেশ করে এক টুকরা রুটি পড়ে থাকতে দেখেন। তিনি তা তুলে নিয়ে ধুলাবালি ঝেড়ে ফেলে আহার করলেন এবং বলেনঃ হে আয়েশা! সম্মান করো সম্মানিতের (আল্লাহ প্রদত্ত রিযিকের)। কারণ কোন জাতির নিকট থেকে আল্লাহ প্রদত্ত রিযিক উঠে গেলে তা পুনরায় তাদের নিকট প্রত্যাবর্তন করে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3353</td></tr><tr><td>Arabic No</td><td>3353</td></tr><tr><td>Reference</td><td>Book 29 Hadith 103</td></tr></tbody></table></div>
 

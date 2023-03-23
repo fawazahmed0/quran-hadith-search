@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন আবদা (রহঃ) .... আমর ইবন শুআয়ব (রহঃ) তাঁর পিতা হতে এবং তিনি তাঁর দাদা থেকে বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাহযূর (ময়দানের) নালার ব্যাপারে এরূপ ফয়সালা দেনঃ যতক্ষণ না ক্ষেতের মধ্যে গোছা পরিমাণ পানি হয়, ততক্ষণ পানি আটকে রাখবে। এরপর উপরের ক্ষেতের মালিক নীচের ক্ষেতের মালিকের জন্য পানি ছেড়ে দেবে।
+। আমর ইবনু শু‘আইব (রহঃ) থেকে তার পিতা ও তার দাদার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাহযূর মাঠের পানি সম্পর্কে এই ফায়সালা দিয়েছেনঃ পায়ের গোছা ডুবে যাওয়ার পরিমাণ হওয়া পর্যন্ত এর পানি আটকিয়ে রাখা যাবে। অতঃপর উচ্চ ভূমির মালিক নিম্ন ভূমির মালিকের দিকে পানি ছেড়ে দিবে।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3639</td></tr><tr><td>Arabic No</td><td>3639</td></tr><tr><td>Reference</td><td>Book 25 Hadith 69</td></tr></tbody></table></div>
 

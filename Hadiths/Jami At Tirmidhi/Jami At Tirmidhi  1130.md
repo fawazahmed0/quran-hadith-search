@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১১৩০। ফাইরূয দাইলামী (রাঃ) বলেন, আমি বললাম, হে আল্লাহর রাসূল! আমি ইসলাম ধর্ম গ্রহণ করেছি, আমার অধীনে দুই বোন একত্রে স্ত্রী হিসেবে আছে। তিনি বললেনঃ তাদের মধ্যে যাকে খুশি তুমি বেছে নাও। — হাসান, দেখুন পূর্বের হাদীস। এই হাদীসটি হাসান। আবু ওয়াহব আল-জাইশানীর নাম আদ-দাইলাম, পিতার নাম হাওশা।
+। ফাইরূয দাইলামী (রাঃ) বলেন, আমি বললাম, হে আল্লাহর রাসূল! আমি ইসলাম ধর্ম গ্রহণ করেছি, আমার অধীনে দুই বোন একত্রে স্ত্রী হিসেবে আছে। তিনি বললেনঃ তাদের মধ্যে যাকে খুশি তুমি বেছে নাও। — হাসান, দেখুন পূর্বের হাদীস। এই হাদীসটি হাসান। আবু ওয়াহব আল-জাইশানীর নাম আদ-দাইলাম, পিতার নাম হাওশা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1130</td></tr><tr><td>Arabic No</td><td>1130</td></tr><tr><td>Reference</td><td>Book 11 Hadith 52</td></tr></tbody></table></div>
 

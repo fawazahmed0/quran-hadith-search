@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৭৫। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর স্ত্রী এ পাত্রের পানি দিয়ে গোসল করতেন। তবে তাদের একজন অপরজনের উদ্বৃত্ত পানি দিয়ে গোসল করতেন না।
+। আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর স্ত্রী এ পাত্রের পানি দিয়ে গোসল করতেন। তবে তাদের একজন অপরজনের উদ্বৃত্ত পানি দিয়ে গোসল করতেন না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>375</td></tr><tr><td>Reference</td><td>Book 1 Hadith 109</td></tr></tbody></table></div>
 

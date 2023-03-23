@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ উসায়দ (রাঃ) হতে বর্ণিত। তিনি বলেন, বদর যুদ্ধের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাদেরকে বলেছিলেন, দুশমনরা তোমাদের নিকটবর্তী হলে তোমরা তীর চালনা করবে এবং তীর ব্যবহারে সংযম অবলম্বন করবে। [২৯০০] (আধুনিক প্রকাশনীঃ ৩৬৯০, ইসলামিক ফাউন্ডেশনঃ ৩৬৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ উসায়দ (রাঃ) হতে বর্ণিত। তিনি বলেন, বাদর যুদ্ধের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাদেরকে বলেছিলেন, দুশমনরা তোমাদের নিকটবর্তী হলে তোমরা তীর চালনা করবে এবং তীর ব্যবহারে সংযম অবলম্বন করবে। [২৯০০] (আধুনিক প্রকাশনীঃ ৩৬৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 64 Hadith 35</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Bab. Telah menceritakan kepadaku [Abdullah bin Muhammad Al Ju'fiy] telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஉசைத் (மாலிக் பின் ரபீஆ- ரலி) அவர்கள் கூறியதாவது: பத்ர் போரின்போது நபி (ஸல்) அவர்கள் எங்களிடம், “(எதிரிகளான) அவர்கள் உங்களை நெருங்கி வந்தால் அவர்கள்மீது அம்பெய்யுங்கள். (அவர்கள் தூரத்திலிருக்கும்போது அம்புகளை எய்து வீணாக்கிவிடாமல்) உங்கள் அம்புகளை மிச்சப்படுத்திக்கொள்ளுங்கள்” என்று கூறினார்கள்.27 அத்தியாயம் : 64
+அபூஉசைத் (மாலிக் பின் ரபீஆ- ரலி) அவர்கள் கூறியதாவது: பத்ர் போரின்போது நபி (ஸல்) அவர்கள் எங்களிடம், “(எதிரிகளான) அவர்கள் உங்களை நெருங்கி வந்தால் அவர்கள்மீது அம்பெய்யுங்கள். (அவர்கள் தூரத்திலிருக்கும்போது அம்புகளை எய்து வீணாக்கிவிடாமல்) உங்கள் அம்புகளை மிச்சப்படுத்திக்கொள்ளுங்கள்” என்று கூறினார்கள்.27 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 64 Hadith 35</td></tr></tbody></table></div>
 

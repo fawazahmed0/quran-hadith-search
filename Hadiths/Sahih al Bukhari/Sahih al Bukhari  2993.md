@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা যখন কোন উঁচু স্থানে আরোহণ করতাম, তখন তাকবীর ধ্বনি উচ্চারণ করতাম আর যখন কোন উপত্যকায় অবতরণ করতাম, সে সময় সুবহানাল্লাহ্ বলতাম। (২৯৯৪) (আধুনিক প্রকাশনীঃ ২৭৭২, ইসলামিক ফাউন্ডেশনঃ ২৭৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা যখন কোন উঁচু স্থানে আরোহণ করতাম, তখন তাকবীর ধ্বনি উচ্চারণ করতাম আর যখন কোন উপত্যকায় অবতরণ করতাম, সে সময় সুবহানাল্লাহ্ বলতাম। (২৯৯৪) (আধুনিক প্রকাশনীঃ ২৭৭২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 56 Hadith 202</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (பயணத்தில் மேட்டில்) ஏறும்போது ‘அல்லாஹு அக்பர்’ (அல்லாஹ் மிகப் பெரியவன்) என்று தக்பீர் கூறிவந்தோம்; (பள்ளத்தாக்குகளில்) இறங்கும்போது யிசுப்ஹானல்லாஹ்’ (அல்லாஹ் தூயவன்) என்று தஸ்பீஹ் கூறிவந்தோம். அத்தியாயம் : 56
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (பயணத்தில் மேட்டில்) ஏறும்போது ‘அல்லாஹு அக்பர்’ (அல்லாஹ் மிகப் பெரியவன்) என்று தக்பீர் கூறிவந்தோம்; (பள்ளத்தாக்குகளில்) இறங்கும்போது யிசுப்ஹானல்லாஹ்’ (அல்லாஹ் தூயவன்) என்று தஸ்பீஹ் கூறிவந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 56 Hadith 202</td></tr></tbody></table></div>
 

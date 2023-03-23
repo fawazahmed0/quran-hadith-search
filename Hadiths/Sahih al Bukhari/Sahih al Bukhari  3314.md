@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, পাঁচ প্রকার প্রাণী অধিক ক্ষতিকারক। এদেরকে হারামেও (সীমানার মধ্যে) হত্যা করা যায়। এগুলো হল বিচ্ছু, ইঁদুর, চিল, কাক ও পাগলা কুকুর। (১৮২৯) (আধুনিক প্রকাশনীঃ ৩০৬৮, ইসলামিক ফাউন্ডেশনঃ ৩০৭৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, পাঁচ প্রকার প্রাণী অধিক ক্ষতিকারক। এদেরকে হারামেও (সীমানার মধ্যে) হত্যা করা যায়। এগুলো হল বিচ্ছু, ইঁদুর, চিল, কাক ও পাগলা কুকুর। (১৮২৯) (আধুনিক প্রকাশনীঃ ৩০৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 59 Hadith 120</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yazid bin Zu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: தீங்கிழைக்கக்கூடிய ஐந்து உயிரினங் கள் புனித (ஹரம்) எல்லையிலும் கொல்லப்படும். அவையாவன: எலி, தேள், பருந்து, (நீர்க்) காகம், வெறி நாய். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.114 அத்தியாயம் : 59
+நபி (ஸல்) அவர்கள்கூறினார்கள்: தீங்கிழைக்கக்கூடிய ஐந்து உயிரினங் கள் புனித (ஹரம்) எல்லையிலும் கொல்லப்படும். அவையாவன: எலி, தேள், பருந்து, (நீர்க்) காகம், வெறி நாய். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.114 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 59 Hadith 120</td></tr></tbody></table></div>
 

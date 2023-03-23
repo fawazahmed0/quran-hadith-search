@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্বাস ইবন আব্দুল আযীম (রহঃ) ..... তারিক ইবন শিহাব (রাঃ) থেকে বর্ণিত। নবী করিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, জুমুআর নামায প্রত্যেক মুসলিমের উপর জামাআতের সাথে আদায় করা ওয়াজিব। কিন্তু তা চার প্রকার লোকের উপর ওয়াজিব নয়ঃ ক্রীতদাস, মহিলা, শিশু ও রুগ্ন ব্যক্তি। ইমাম আবু দাউদ (রহঃ) বলেন, তারিক ইবন শিহাব (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে দেখেছেন, তবে তিনি তাঁর নিকট হতে কিছু শুনেননি।
+। ত্বারিক্ব ইবনু শিহাব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জুমু‘আহর সালাত সত্য- যা প্রত্যেক মুসলিমের উপর জামা‘আতের সাথে আদায় করা ফারয। তবে চার শ্রেণীর লোকের জন্য ফার্য নয়ঃ ক্রীতদাস, নারী, শিশু ও রোগী।[1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, ত্বারিক্ব ইবনু শিহাব (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দেখেছেন, কিন্তু তাঁর থেকে কিছু শুনেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1067</td></tr><tr><td>Arabic No</td><td>1067</td></tr><tr><td>Reference</td><td>Book 2 Hadith 678</td></tr></tbody></table></div>
 

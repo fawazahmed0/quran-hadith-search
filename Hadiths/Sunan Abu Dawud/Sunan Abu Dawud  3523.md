@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন বাশশার (রহঃ) .... আমর ইবন খালদা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি আমার এক গরীব সাথীর মোকদ্দমা নিয়ে আবূ হুরায়রা (রাঃ)-এর নিকট উপস্থিত হই। তখন তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ফয়সালার ন্যায় তোমাদের মাঝে সমাধান করে দেব। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিয়ম হলোঃ যদি কেউ নিঃস্ব হয়ে যায় অথবা মারা যায় এবং বিক্রেতা তার মাল হুবহু তার নিকট প্রাপ্ত হয়, তবে সে তা গ্রহণের অধিক হকদার।
+। ‘উমার ইবনু খালদাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা ‘আমরা আমাদের এক দেউলিয়া সাথীর মোকদ্দমা নিয়ে আবূ হুরাইরাহ (রাঃ)-এর কাছে গেলাম। তিনি বললেন, আমি তোমাদের অবশ্যই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অনুরূপ ফায়সালা প্রদান করবো। তা হলোঃ কেউ দেউলিয়া হয়ে গেলে অথবা মারা গেলে পাওনাদার যদি তার মাল ঐ ব্যক্তির কাছে অক্ষত অবস্থায় পায় তাহলে মালিকই ঐ মালের অধিক হকদার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3523</td></tr><tr><td>Arabic No</td><td>3523</td></tr><tr><td>Reference</td><td>Book 24 Hadith 108</td></tr></tbody></table></div>
 

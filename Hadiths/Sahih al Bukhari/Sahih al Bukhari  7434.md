@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জারীর ইবনু ‘আবদুল্লাহ্ (রহ.) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে উপবিষ্ট ছিলাম। তিনি পূর্ণিমার রাতে চাঁদের দিকে তাকিয়ে বললেন, তোমরা শীঘ্রই তোমাদের রববকে দেখতে পাবে, যেমনি তোমরা এ চাঁদটিকে দেখতে পাচ্ছ। অথচ এটিকে দেখতে তোমাদের কোন অসুবিধে হচ্ছে না। অতএব, তোমরা সক্ষম হলে সূর্য উঠার আগের সালাত ও সূর্য ডুবার পরের সালাত (যথাযথভাবে) আদায় করতে তোমরা যেন পরাজিত না হও। তাহলে তাই কর। [৫৫৪] (আধুনিক প্রকাশনী- ৬৯১৭, ইসলামিক ফাউন্ডেশন- ৬৯২৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জারীর ইবনু ‘আবদুল্লাহ্ (রহ.) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে উপবিষ্ট ছিলাম। তিনি পূর্ণিমার রাতে চাঁদের দিকে তাকিয়ে বললেন, তোমরা শীঘ্রই তোমাদের রববকে দেখতে পাবে, যেমনি তোমরা এ চাঁদটিকে দেখতে পাচ্ছ। অথচ এটিকে দেখতে তোমাদের কোন অসুবিধে হচ্ছে না। অতএব, তোমরা সক্ষম হলে সূর্য উঠার আগের সালাত ও সূর্য ডুবার পরের সালাত (যথাযথভাবে) আদায় করতে তোমরা যেন পরাজিত না হও। তাহলে তাই কর। [৫৫৪] (আধুনিক প্রকাশনী- ৬৯১৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7434</td></tr><tr><td>Arabic No</td><td>7434</td></tr><tr><td>Reference</td><td>Book 97 Hadith 61</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jarir:We were sitting with the Prophet (ﷺ) and he looked at the moon on the night of the full-moon and said, "You people will see your Lord as you see this full moon, and you will have no trouble in seeing Him, so if you can avoid missing (through sleep or business, etc.) a prayer before sunrise (Fajr) and a prayer before sunset ('Asr) you must do so." (See Hadith No. 529, Vol. 1)
+Narrated Jarir:We were sitting with the Prophet (ﷺ) and he looked at the moon on the night of the full-moon and said, "You people will see your Lord as you see this full moon, and you will have no trouble in seeing Him, so if you can avoid missing (through sleep or business, etc.) a prayer before sunrise (Fajr) and a prayer before sunset ('Asr) you must do so." (See Hadith No. 529, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7434</td></tr><tr><td>Arabic No</td><td>7434</td></tr><tr><td>Reference</td><td>Book 97 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Amru bin Aun] telah menceritakan kepada kami [K
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் அமர்ந்திருந்தோம். அப்போது (அந்த) பௌர்ணமி இரவில் அவர்கள் முழு நிலாவைக் கூர்ந்துபார்த்தார்கள். “இந்த நிலாவை நீங்கள் நெருக்கடியின்றிக் காண்பதைப் போன்றே உங்கள் இறை வனையும் (மறுமையில்) காண்பீர்கள். ஆகவே, சூரியன் உதயமாவதற்கு முன்புள்ள தொழுகையிலும் சூரியன் மறைவதற்கு முன்புள்ள தொழுகையிலும் (உறக்கம் போன்ற) எதற்கும் ஆட்படாமல் இருக்க உங்களால் முடியும் என்றால் அவ்வாறே செய்யுங்கள் (உங்கள் இறைவனை நீங்கள் தரிசிக்கலாம்)” என்று சொன்னார்கள்.75 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 97
+ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் நபி (ஸல்) அவர்களுடன் அமர்ந்திருந்தோம். அப்போது (அந்த) பௌர்ணமி இரவில் அவர்கள் முழு நிலாவைக் கூர்ந்துபார்த்தார்கள். “இந்த நிலாவை நீங்கள் நெருக்கடியின்றிக் காண்பதைப் போன்றே உங்கள் இறை வனையும் (மறுமையில்) காண்பீர்கள். ஆகவே, சூரியன் உதயமாவதற்கு முன்புள்ள தொழுகையிலும் சூரியன் மறைவதற்கு முன்புள்ள தொழுகையிலும் (உறக்கம் போன்ற) எதற்கும் ஆட்படாமல் இருக்க உங்களால் முடியும் என்றால் அவ்வாறே செய்யுங்கள் (உங்கள் இறைவனை நீங்கள் தரிசிக்கலாம்)” என்று சொன்னார்கள்.75 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7434</td></tr><tr><td>Arabic No</td><td>7434</td></tr><tr><td>Reference</td><td>Book 97 Hadith 61</td></tr></tbody></table></div>
 

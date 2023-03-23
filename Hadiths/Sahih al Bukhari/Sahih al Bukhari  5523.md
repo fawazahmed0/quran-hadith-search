@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, খাইবারের বছর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুত্‘আ (স্বল্পকালীন বিয়ে) থেকে এবং গৃহপালিত গাধার গোশত খেতে নিষেধ করেছেন। [৪২১৬] (আধুনিক প্রকাশনী- ৫১১৭, ইসলামিক ফাউন্ডেশন- ৫০১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, খাইবারের বছর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুত্‘আ (স্বল্পকালীন বিয়ে) থেকে এবং গৃহপালিত গাধার গোশত খেতে নিষেধ করেছেন। [৪২১৬] (আধুনিক প্রকাশনী- ৫১১৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5523</td></tr><tr><td>Arabic No</td><td>5523</td></tr><tr><td>Reference</td><td>Book 72 Hadith 49</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] berkata, telah mengabarkan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: கைபர் போர் நடந்த ஆண்டில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இனி(த் தவணை முறைத் திருமணமான) ‘முத்ஆ’ செய்யக் கூடாது என்றும், நாட்டுக் கழுதைகளின் இறைச்சியை உண்ண வேண்டாமென்றும் தடை விதித்தார்கள்.42 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 72
+அலீ (ரலி) அவர்கள் கூறியதாவது: கைபர் போர் நடந்த ஆண்டில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இனி(த் தவணை முறைத் திருமணமான) ‘முத்ஆ’ செய்யக் கூடாது என்றும், நாட்டுக் கழுதைகளின் இறைச்சியை உண்ண வேண்டாமென்றும் தடை விதித்தார்கள்.42 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5523</td></tr><tr><td>Arabic No</td><td>5523</td></tr><tr><td>Reference</td><td>Book 72 Hadith 49</td></tr></tbody></table></div>
 

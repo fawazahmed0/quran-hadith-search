@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল মুসান্না (রহ.) ... হিশাম (রহ.) সূত্রে বর্ণিত যে, আমার পিতা আমার নিকট বর্ণনা করেছেন, ‘আয়িশাহ্ (রাযি.) মিনাতে (অবস্থানের) দিনগুলোতে সওম পালন করতেন। আর তাঁর পিতাও সে দিনগুলোতে সওম পালন করতেন। (আধুনিক প্রকাশনীঃ ১৮৫৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুহাম্মাদ ইবনুল মুসান্না (রহ.) ... হিশাম (রহ.) সূত্রে বর্ণিত যে, আমার পিতা আমার নিকট বর্ণনা করেছেন, ‘আয়িশাহ্ (রাযি.) মিনাতে (অবস্থানের) দিনগুলোতে সওম পালন করতেন। আর তাঁর পিতাও সে দিনগুলোতে সওম পালন করতেন। (আধুনিক প্রকাশনীঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1996</td></tr><tr><td>Arabic No</td><td>1996</td></tr><tr><td>Reference</td><td>Book 30 Hadith 102</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Yahya:Hisham said, "My father said that 'Aishah (ra) used to observe Sa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-யஹ்யா பின் சயீத் அல்கத்தான் (ரஹ்) அவர்கள் கூறியதாவது: ‘‘ஆயிஷா (ரலி) அவர்கள் மினாவில் தங்கக்கூடிய (தஷ்ரீக் உடைய) நாட்களில் நோன்பு நோற்பார்கள்” என்று தம் தந்தை உர்வா (ரஹ்) அவர்கள் கூறியதாக ஹிஷாம் பின் உர்வா (ரஹ்) அவர்கள் கூறினார்கள். ஹிஷாமின் தந்தை உர்வா (ரஹ்) அவர்களும் அந்த நாட்களில் நோன்பு நோற்பார்கள்.55 அத்தியாயம் : 30
+யஹ்யா பின் சயீத் அல்கத்தான் (ரஹ்) அவர்கள் கூறியதாவது: ‘‘ஆயிஷா (ரலி) அவர்கள் மினாவில் தங்கக்கூடிய (தஷ்ரீக் உடைய) நாட்களில் நோன்பு நோற்பார்கள்” என்று தம் தந்தை உர்வா (ரஹ்) அவர்கள் கூறியதாக ஹிஷாம் பின் உர்வா (ரஹ்) அவர்கள் கூறினார்கள். ஹிஷாமின் தந்தை உர்வா (ரஹ்) அவர்களும் அந்த நாட்களில் நோன்பு நோற்பார்கள்.55 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1996</td></tr><tr><td>Arabic No</td><td>1996</td></tr><tr><td>Reference</td><td>Book 30 Hadith 102</td></tr></tbody></table></div>
 

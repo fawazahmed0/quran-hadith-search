@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৭৫৪, আন্তর্জাতিক নাম্বারঃ ১১৯৮ ২৭৫৪-(.../...) আবূ বাকর ইবনু আবূ শায়বাহ ও আবূ কুরায়ব (রহিমাহুমাল্লাহ) ..... হিশাম (রহঃ) থেকে এ সূত্রে পূর্বোক্ত হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ২৭৩১, ইসলামীক সেন্টার ২৭৩০)
+আবূ বাকর ইবনু আবূ শায়বাহ ও আবূ কুরায়ব (রহিমাহুমাল্লাহ) ..... হিশাম (রহঃ) থেকে এ সূত্রে পূর্বোক্ত হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ২৭৩১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>1198.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 74</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+এরপর তিনি বললেন, মুমিন ব্যক্তি কাফিরের ওয়ারিশ হয় না, আর কাফিরও মু’মিন ব্যক্তির ওয়ারিশ হয় না।[1] (পরবর্তীকালে) যুহরী (রহ.)-কে জিজ্ঞেস করা হয়েছিল যে, আবূ তালিবের ওয়ারিশ কে হয়েছিল? তিনি বলেছেন, আকীল এবং তালিব তার ওয়ারিশ হয়েছিল। মা‘মার (রহ.) যুহরী (রহ.) থেকে বর্ণনা করেছেন যে, আপনি আগামীকাল কোথায় অবস্থান করবেন কথাটি (উসামাহ ইবনু যায়িদ) রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে তার হাজ্জের সফরে জিজ্ঞেস করেছিলেন। কিন্তু ইউনুস (রহ.) তাঁর হাদীসে মক্কা বিজয়ের সময় বা হাজ্জের সফর কোনটিরই উল্লেখ করেননি। (আধুনিক প্রকাশনীঃ ৩৯৪৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4282</td></tr><tr><td>Arabic No</td><td>4282</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

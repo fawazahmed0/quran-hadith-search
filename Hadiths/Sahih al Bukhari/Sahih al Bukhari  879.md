@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জুমু‘আহর দিনে প্রত্যেক সাবালকের জন্য গোসল করা ওয়াজিব। (৮৫৮) (আধুনিক প্রকাশনীঃ ৮২৮, ইসলামিক ফাউন্ডেশনঃ ৮৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জুমু‘আহর দিনে প্রত্যেক সাবালকের জন্য গোসল করা ওয়াজিব। (৮৫৮) (আধুনিক প্রকাশনীঃ ৮২৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>879</td></tr><tr><td>Arabic No</td><td>879</td></tr><tr><td>Reference</td><td>Book 11 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளிக்கிழமை குளிப்பது பருவமடைந்த ஒவ்வொருவர்மீதும் கடமையாகும்.3 இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 11
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளிக்கிழமை குளிப்பது பருவமடைந்த ஒவ்வொருவர்மீதும் கடமையாகும்.3 இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>879</td></tr><tr><td>Arabic No</td><td>879</td></tr><tr><td>Reference</td><td>Book 11 Hadith 4</td></tr></tbody></table></div>
 

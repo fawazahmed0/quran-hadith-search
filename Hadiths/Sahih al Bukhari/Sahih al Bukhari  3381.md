@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নির্দেশ দিয়েছেন, তোমরা একমাত্র ক্রন্দনরত অবস্থায়ই এমন লোকদের আবাসস্থলে প্রবেশ করবে যারা নিজেরাই নিজেদের উপর জুলুম করেছে। তাদের উপর যে মুসিবত আপতিত হয়েছিল তোমাদের উপরও যেন সে মুসিবত না আসে। (৪৩৩) (আধুনিক প্রকাশনীঃ ৩১৩১, ইসলামিক ফাউন্ডেশনঃ ৩১৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নির্দেশ দিয়েছেন, তোমরা একমাত্র ক্রন্দনরত অবস্থায়ই এমন লোকদের আবাসস্থলে প্রবেশ করবে যারা নিজেরাই নিজেদের উপর জুলুম করেছে। তাদের উপর যে মুসিবত আপতিত হয়েছিল তোমাদের উপরও যেন সে মুসিবত না আসে। (৪৩৩) (আধুনিক প্রকাশনীঃ ৩১৩১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3381</td></tr><tr><td>Arabic No</td><td>3381</td></tr><tr><td>Reference</td><td>Book 60 Hadith 55</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [W
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தமக்குத்தாமே அநீதியிழைத்துக் கொண்டவர்களின் வசிப்பிடங்களில் அவர்களுக்குக் கிடைத்ததைப் போன்ற தண்டனை உங்களுக்கும் கிடைத்துவிடுமோ என்று அஞ்சி அழுதபடியே தவிர நுழை யாதீர்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.55 அத்தியாயம் : 60
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தமக்குத்தாமே அநீதியிழைத்துக் கொண்டவர்களின் வசிப்பிடங்களில் அவர்களுக்குக் கிடைத்ததைப் போன்ற தண்டனை உங்களுக்கும் கிடைத்துவிடுமோ என்று அஞ்சி அழுதபடியே தவிர நுழை யாதீர்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.55 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3381</td></tr><tr><td>Arabic No</td><td>3381</td></tr><tr><td>Reference</td><td>Book 60 Hadith 55</td></tr></tbody></table></div>
 

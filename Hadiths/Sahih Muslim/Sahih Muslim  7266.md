@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭১৫৮, আন্তর্জাতিক নাম্বারঃ ২৮৯১ ৭১৫৮-(…/...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... শুবাহ্ (রহঃ) হতে এ সূত্রে অবিকল হাদীস বর্ণিত রয়েছে। (ইসলামিক ফাউন্ডেশন ৭০০২, ইসলামিক সেন্টার ৭০৫৯)
+(…/...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... শুবাহ্ (রহঃ) হতে এ সূত্রে অবিকল হাদীস বর্ণিত রয়েছে। (ইসলামিক ফাউন্ডেশন ৭০০২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>2891.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 32</td></tr></tbody></table></div>
 

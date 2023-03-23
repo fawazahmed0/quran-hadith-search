@@ -41,13 +41,13 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মাদ্বীনায় আগমন করেন তখন লোকেরা এক বা দু’ বছরের বাকীতে [রাবী ইসমাঈল সন্দেহ করে বলেন, দু’ অথবা তিন বছরের (মেয়াদে) খেজুর সলম (পদ্ধতিতে) বেচা-কেনা করত। এতে তিনি বললেন,] যে ব্যক্তি খেজুরে সলম করতে চায় সে যেন নির্দিষ্ট মাপে এবং নির্দিষ্ট ওজনে সলম করে। (আধুনিক প্রকাশনীঃ ২০৮০, ইসলামিক ফাউন্ডেশনঃ ২০৯৭) মুহাম্মাদ (রহ.) .... ইবনু আবূ নাজীহ (রহ.) হতে নির্দিষ্ট মাপে এবং নির্দিষ্ট ওজনে (সলম করার কথা) বর্ণিত রয়েছে। (২২৪০, ২২৪১, ২২৫৩, মুসলিম ২২/২৫, হাঃ ১৬০৪, আহমাদ ২৪৫৮) (আধুনিক প্রকাশনীঃ ২০৮১, ইসলামিক ফাউন্ডেশনঃ ২০৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মাদ্বীনায় আগমন করেন তখন লোকেরা এক বা দু’ বছরের বাকীতে [রাবী ইসমাঈল সন্দেহ করে বলেন, দু’ অথবা তিন বছরের (মেয়াদে) খেজুর সলম (পদ্ধতিতে) বেচা-কেনা করত। এতে তিনি বললেন,] যে ব্যক্তি খেজুরে সলম করতে চায় সে যেন নির্দিষ্ট মাপে এবং নির্দিষ্ট ওজনে সলম করে। (আধুনিক প্রকাশনীঃ ২০৮০, ইসলামিক ফাউন্ডেশনঃ ২০৯৭) মুহাম্মাদ (রহ.) .... ইবনু আবূ নাজীহ (রহ.) হতে নির্দিষ্ট মাপে এবং নির্দিষ্ট ওজনে (সলম করার কথা) বর্ণিত রয়েছে। (২২৪০, ২২৪১, ২২৫৩, মুসলিম ২২/২৫, হাঃ ১৬০৪, আহমাদ ২৪৫৮) (আধুনিক প্রকাশনীঃ ২০৮১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239.2</td></tr><tr><td>Arabic No</td><td>2239.2</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
@@ -84,7 +84,7 @@ Telah menceritakan kepada kami ['Amru bin Zurarah] telah mengabarkan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மதீனாவுக்கு வந்தபோது, மக்கள் யிஓராண்டு அல்லது ஈராண்டுகளில்’ அல்லது யிஈராண்டு அல்லது மூன்றாண்டுகளில்’ பெற்றுக் கொள்வதாகக் கூறி, பேரீச்சம்பழத்திற்காக முன்பணம் கொடுத்துவந்தனர். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘ஒருவர், (இவ்வாறு) பின்னால் பெற்றுக்கொள்வதாகக் கூறி பேரீச்சம்பழத்திற்காக முன்பணம் கொடுப்பதானால், குறிப்பிட்ட எடைக்காக வும் குறிப்பிட்ட அளவுக்காகவும் கொடுக்கட்டும்!” என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 35
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மதீனாவுக்கு வந்தபோது, மக்கள் யிஓராண்டு அல்லது ஈராண்டுகளில்’ அல்லது யிஈராண்டு அல்லது மூன்றாண்டுகளில்’ பெற்றுக் கொள்வதாகக் கூறி, பேரீச்சம்பழத்திற்காக முன்பணம் கொடுத்துவந்தனர். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘ஒருவர், (இவ்வாறு) பின்னால் பெற்றுக்கொள்வதாகக் கூறி பேரீச்சம்பழத்திற்காக முன்பணம் கொடுப்பதானால், குறிப்பிட்ட எடைக்காக வும் குறிப்பிட்ட அளவுக்காகவும் கொடுக்கட்டும்!” என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
 
@@ -98,7 +98,7 @@ Telah menceritakan kepada kami ['Amru bin Zurarah] telah mengabarkan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Medine'ye geldiği zaman Medine halkı bir yıl veya iki yıl vade ile meyve selemi yapıyorlardı. -Ravi İsmail, iki veya üç yıl şeklinde tereddütlü bir ifade kullanmıştır.- Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Hurma için selem akdi yapan, miktarını ölçü ve tartı olarak belirleyerek yapsın" buyurmuştur. Tekrar: 2240, 2241, 2253
+İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Medine'ye geldiği zaman Medine halkı bir yıl veya iki yıl vade ile meyve selemi yapıyorlardı. -Ravi İsmail, iki veya üç yıl şeklinde tereddütlü bir ifade kullanmıştır.- Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Hurma için selem akdi yapan, miktarını ölçü ve tartı olarak belirleyerek yapsın" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
 

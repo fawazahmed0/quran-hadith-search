@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮৭০। জাফর ইবনু মুহাম্মাদ (রহঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, তিনি বলেন, তাওয়াফের দুরাকাআত নামাযে তিনি (মুহাম্মাদ আল-বাকির) সূরা কাফিরূন ও সূরা ইখলাস তিলাওয়াত করতে পছন্দ করতেন। – সনদ সহীহ, মাকতু’ আব্দুল আজীজ ইবনু ইমরানের হাদীসের তুলনায় এই হাদীসটিকে আবু ঈসা বেশি সহীহ বলেছেন। কেননা বর্ণনাকারী আবদুল আযীয ইবনু ইমরান হাদীস শাস্ত্রে দুর্বল।
+। জাফর ইবনু মুহাম্মাদ (রহঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, তিনি বলেন, তাওয়াফের দুরাকাআত নামাযে তিনি (মুহাম্মাদ আল-বাকির) সূরা কাফিরূন ও সূরা ইখলাস তিলাওয়াত করতে পছন্দ করতেন। – সনদ সহীহ, মাকতু’ আব্দুল আজীজ ইবনু ইমরানের হাদীসের তুলনায় এই হাদীসটিকে আবু ঈসা বেশি সহীহ বলেছেন। কেননা বর্ণনাকারী আবদুল আযীয ইবনু ইমরান হাদীস শাস্ত্রে দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>870</td></tr><tr><td>Arabic No</td><td>870</td></tr><tr><td>Reference</td><td>Book 9 Hadith 63</td></tr></tbody></table></div>
 

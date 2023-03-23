@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩২৮৩, আন্তর্জাতিক নাম্বারঃ ১৩৯৯ ৩২৮৩-(.../...) আবূ মা'ন আর রাক্কাশী (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে এ সানাদে অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩২৫৮, ইসলামীক সেন্টার ৩২৫৫)
+আবূ মা'ন আর রাক্কাশী (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে এ সানাদে অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩২৫৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3392</td></tr><tr><td>Arabic No</td><td>1399.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 596</td></tr></tbody></table></div>
 

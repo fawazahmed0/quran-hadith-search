@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাযি.) হতে রিওয়ায়াত হয়েছে, তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইশতিমালে সম্মা (১) এবং এক কাপড়ে ইয়াহতিবা (২) করতে নিষেধ করেছেন যাতে তার লজ্জাস্থানে কাপড়ের কোন অংশ না থাকে। (১৯৯১, ২১৪৪, ২১৪৭, ৫৮২০, ৫৮২২, ৬২৮৪) (আধুনিক প্রকাশনীঃ ৩৫৪, ইসলামিক ফাউন্ডেশনঃ ৩৬০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাযি.) হতে রিওয়ায়াত হয়েছে, তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইশতিমালে সম্মা (১) এবং এক কাপড়ে ইয়াহতিবা (২) করতে নিষেধ করেছেন যাতে তার লজ্জাস্থানে কাপড়ের কোন অংশ না থাকে। (১৯৯১, ২১৪৪, ২১৪৭, ৫৮২০, ৫৮২২, ৬২৮৪) (আধুনিক প্রকাশনীঃ ৩৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>367</td></tr><tr><td>Arabic No</td><td>367</td></tr><tr><td>Reference</td><td>Book 8 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: ஒரே துணியை உடலில் சுற்றிக் கொண்டு, அதன் ஒரு மூலையை ஒரு தோளில் போட்டுக்கொண்டு, மற்றொரு தோளைத் திறந்த நிலையில் விட்டுவிடு வதற்கும் (இஷ்திமாலுஸ் ஸம்மாஉ), மர்ம உறுப்பை மறைக்காமல் ஒரே துணியால் (முதுகையும் முழங்கால்களையும்) போர்த்திக்கொண்டு (குத்துக்காலிட்டு) அமர்வதற்கும் (இஹ்திபா) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள். அத்தியாயம் : 8
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: ஒரே துணியை உடலில் சுற்றிக் கொண்டு, அதன் ஒரு மூலையை ஒரு தோளில் போட்டுக்கொண்டு, மற்றொரு தோளைத் திறந்த நிலையில் விட்டுவிடு வதற்கும் (இஷ்திமாலுஸ் ஸம்மாஉ), மர்ம உறுப்பை மறைக்காமல் ஒரே துணியால் (முதுகையும் முழங்கால்களையும்) போர்த்திக்கொண்டு (குத்துக்காலிட்டு) அமர்வதற்கும் (இஹ்திபா) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தடை விதித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>367</td></tr><tr><td>Arabic No</td><td>367</td></tr><tr><td>Reference</td><td>Book 8 Hadith 19</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Saîd el-Hudrî'den şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) insan'ın sammâ türü örtünme ile, , büründüğü kumaşın bir parçasını avret mahalli üzerinde bulundurmaksızın bir tek elbise ile kaba etini yere koyup dizlerini kırarak oturmasını yasaklamıştır. Tekrar: 1991, 2144, 2147, 5820, 5822, 6284
+Ebu Saîd el-Hudrî'den şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) insan'ın sammâ türü örtünme ile, , büründüğü kumaşın bir parçasını avret mahalli üzerinde bulundurmaksızın bir tek elbise ile kaba etini yere koyup dizlerini kırarak oturmasını yasaklamıştır. Tekrar: 1991
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>367</td></tr><tr><td>Arabic No</td><td>367</td></tr><tr><td>Reference</td><td>Book 8 Hadith 19</td></tr></tbody></table></div>
 

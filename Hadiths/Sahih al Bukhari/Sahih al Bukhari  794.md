@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রুকূ‘ ও সিজদা্য় এ দু‘আ পড়তেন-سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْ لِي ‘‘হে আমাদের রব আল্লাহ্! আপনার পবিত্রতা বর্ণনা করছি এবং আপনার প্রশংসা করছি। হে আল্লাহ্! আপনি আমাকে ক্ষমা করে দিন’’।* (৮১৭, ৪২৯৩, ৪৯৬৭, ৪৯৬৮) (আধুনিক প্রকাশনীঃ ৭৫০, ইসলামিক ফাউন্ডেশনঃ ৭৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রুকূ‘ ও সিজদা্য় এ দু‘আ পড়তেন-سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْ لِي ‘‘হে আমাদের রব আল্লাহ্! আপনার পবিত্রতা বর্ণনা করছি এবং আপনার প্রশংসা করছি। হে আল্লাহ্! আপনি আমাকে ক্ষমা করে দিন’’।* (৮১৭, ৪২৯৩, ৪৯৬৭, ৪৯৬৮) (আধুনিক প্রকাশনীঃ ৭৫০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>794</td></tr><tr><td>Arabic No</td><td>794</td></tr><tr><td>Reference</td><td>Book 10 Hadith 189</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது (தொழுகை யின்) ருகூஉவிலும் சஜ்தாவிலும் “சுப்ஹானக்கல்லாஹும்ம ரப்பனா வ பிஹம்திக்க, அல்லாஹும்மஃக்ஃபிர்லீ” (இறைவா! எம் அதிபதியே! நீ தூயவன்; உன்னைப் போற்றிப் புகழ்கின்றோம்; இறைவா! என்னை மன்னிப்பாயாக!) என்று கூறிவந்தார்கள்.63 அத்தியாயம் : 10
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது (தொழுகை யின்) ருகூஉவிலும் சஜ்தாவிலும் “சுப்ஹானக்கல்லாஹும்ம ரப்பனா வ பிஹம்திக்க, அல்லாஹும்மஃக்ஃபிர்லீ” (இறைவா! எம் அதிபதியே! நீ தூயவன்; உன்னைப் போற்றிப் புகழ்கின்றோம்; இறைவா! என்னை மன்னிப்பாயாக!) என்று கூறிவந்தார்கள்.63 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>794</td></tr><tr><td>Arabic No</td><td>794</td></tr><tr><td>Reference</td><td>Book 10 Hadith 189</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (radiyallahu anha)'nın şöyle dediği nakledilmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem. rükûlarında ve secdelerinde سبحانك اللهم ربنا وبحمدك، اللهم اغفر لي 'Sübhaneke Allahumme Rabbena ve bi hamdike Allahummağfirli’ diye dua ederdi. Tekrar: 817, 4293, 4967, 4968
+Aişe (radiyallahu anha)'nın şöyle dediği nakledilmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem. rükûlarında ve secdelerinde سبحانك اللهم ربنا وبحمدك، اللهم اغفر لي 'Sübhaneke Allahumme Rabbena ve bi hamdike Allahummağfirli’ diye dua ederdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>794</td></tr><tr><td>Arabic No</td><td>794</td></tr><tr><td>Reference</td><td>Book 10 Hadith 189</td></tr></tbody></table></div>
 

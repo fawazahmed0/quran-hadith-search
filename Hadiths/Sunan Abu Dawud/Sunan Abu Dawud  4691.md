@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কাদরীয়ারা[1] এ উম্মতের মধ্যে মাজুস বা অগ্নি-উপাসকদের মত। যদি তারা পীড়িত হয়, তবে তোমরা তাদের সেবা-শুশ্রূষা করবে না। আর যদি তারা মারা যায়, তবে তাদের জানাযায় শরীক হবে না।
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কাদরিয়াগণ হচ্ছে এ উম্মাতের অগ্নিপূজক। সুতরাং তারা রোগাক্রান্ত হলে তোমরা তাদেরকে দেখতে যাবে না এবং তারা মারা গেলে তাদের জানাযায় উপস্থিত হবে না।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4691</td></tr><tr><td>Arabic No</td><td>4691</td></tr><tr><td>Reference</td><td>Book 42 Hadith 96</td></tr></tbody></table></div>
 

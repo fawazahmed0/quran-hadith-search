@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯৫, আন্তর্জাতিক নাম্বারঃ ৩০৯ ৫৯৫-(২৮/৩০৯) হাসান ইবনু আহমাদ ইবনু আবূ শু'আয়ব আল হাররানী (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সকল স্ত্রীর কাছে একই গোসলে যেতেন। (ইসলামিক ফাউন্ডেশনঃ ৫৯৯, ইসলামিক সেন্টারঃ ৬১৫)
+হাসান ইবনু আহমাদ ইবনু আবূ শু'আয়ব আল হাররানী (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সকল স্ত্রীর কাছে একই গোসলে যেতেন। (ইসলামিক ফাউন্ডেশনঃ ৫৯৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>708</td></tr><tr><td>Arabic No</td><td>309</td></tr><tr><td>Reference</td><td>Book 3 Hadith 30</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [al-Hasan bin Ahmad bin Abi Syu'aib al-Harran
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம் துணைவியரிடம் (தாம்பத்தியஉறவு கொள்ளச்) சென்றுவிட்டு வந்து ஒரேயொரு தடவை குளிப்பார்கள். அத்தியாயம் : 3
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம் துணைவியரிடம் (தாம்பத்தியஉறவு கொள்ளச்) சென்றுவிட்டு வந்து ஒரேயொரு தடவை குளிப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>708</td></tr><tr><td>Arabic No</td><td>309</td></tr><tr><td>Reference</td><td>Book 3 Hadith 30</td></tr></tbody></table></div>
 

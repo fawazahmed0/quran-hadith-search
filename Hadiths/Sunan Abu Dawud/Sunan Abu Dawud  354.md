@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূল ওয়ালীদ আত্-তায়ালিসী ..... সামুরা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যে ব্যক্তি জুমুআর দিন উযূ (ওজু/অজু/অযু) করবে, সে যেন সুন্নাতের উপর আমল এবং উত্তম কাজ করল। কাজেই যে ব্যক্তি গোসল করবে- তা তার জন্য সর্বোত্তম হবে।
+। সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি অযু করল, সে তো ভাল ও উত্তম কাজ করল। আর যে গোসল করল সে অধিকতর উত্তম কাজ করল।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>354</td></tr><tr><td>Arabic No</td><td>354</td></tr><tr><td>Reference</td><td>Book 1 Hadith 354</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Al-Walid Ath-Thayalisi] telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Semure bin Cündüb (r.a.)'den demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kim cuma günü abdest alırsa gerekeni yapmıştır ve güzeldir. Ama kim guslederse o daha faziletlidir." Diğer tahric: Nesai, cuma; Tirmİzî, cuma; salat; Ahmed b. Hanbel; 8,11,15, 16, 22
+Semure bin Cündüb (r.a.)'den demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kim cuma günü abdest alırsa gerekeni yapmıştır ve güzeldir. Ama kim guslederse o daha faziletlidir." Diğer tahric: Nesai, cuma; Tirmİzî, cuma; salat; Ahmed b. Hanbel;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>354</td></tr><tr><td>Arabic No</td><td>354</td></tr><tr><td>Reference</td><td>Book 1 Hadith 354</td></tr></tbody></table></div>
 

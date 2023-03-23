@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর প্রতি সত্য স্বপ্নের মাধ্যমে ওয়াহীর শুরু হয়। এরপর তাঁর কাছে ফেরেশতা এসে বললেন, ‘‘পাঠ কর, তোমার প্রতিপালকের নামে , যিনি সৃষ্টি করেছেন, সৃষ্টি করেছেন মানুষকে আলাক হতে। পাঠ কর, আর তোমার প্রতিপালকমহা মহিমান্বিত’’- (সূরাহ আলাক ৯৬/১-৫)। [৩] (আধুনিক প্রকাশনীঃ ৪৫৮৭, ইসলামিক ফাউন্ডেশনঃ ৪৫৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর প্রতি সত্য স্বপ্নের মাধ্যমে ওয়াহীর শুরু হয়। এরপর তাঁর কাছে ফেরেশতা এসে বললেন, ‘‘পাঠ কর, তোমার প্রতিপালকের নামে , যিনি সৃষ্টি করেছেন, সৃষ্টি করেছেন মানুষকে আলাক হতে। পাঠ কর, আর তোমার প্রতিপালকমহা মহিমান্বিত’’- (সূরাহ আলাক ৯৬/১-৫)। [৩] (আধুনিক প্রকাশনীঃ ৪৫৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4956</td></tr><tr><td>Arabic No</td><td>4956</td></tr><tr><td>Reference</td><td>Book 65 Hadith 478</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aisha:The commencement of (the Divine Inspirations to) Allah's Messenger (ﷺ) was in the form of true dreams. The Angel came to him and said, "Read! In the Name of your Lord Who has created all exists), has created man from a clot. Read! And your Lord is Most Generous, Who has taught (the writing) by the pen. (96.1-4)
+Narrated 'Aisha:The commencement of (the Divine Inspirations to) Allah's Messenger (ﷺ) was in the form of true dreams. The Angel came to him and said, "Read! In the Name of your Lord Who has created all exists), has created man from a clot. Read! And your Lord is Most Generous, Who has taught (the writing) by the pen
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4956</td></tr><tr><td>Arabic No</td><td>4956</td></tr><tr><td>Reference</td><td>Book 65 Hadith 478</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு ஆரம்பமாக வந்த (வேத அறிவிப்பான)து உண்மைக் கனவுகளே ஆகும். அப்பால் அந்த வானவர் (ஜிப்ரீல்) நபி (ஸல்) அவர்களிடம் வந்து, ‘‘படைத்த உம்முடைய இறைவனின் (திருப்)பெயரால் ஓதுவீராக! அவனே மனிதனைக் கருக்கட்டியிலிருந்து படைத்தான். (நபியே!) நீர் ஓதுக! உம்முடைய இறைவன் மாபெரும் கொடையாளி; அவன்தான் எழுதுகோல் மூலம் (எழுதக்) கற்றுக்கொடுத்தான். மனிதன் அறியாதவற்றையெல்லாம் அவனுக்குக் கற்பித்தான்” எனும் (96:1-5) இறைவசனங்களை ஓதினார். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 65
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு ஆரம்பமாக வந்த (வேத அறிவிப்பான)து உண்மைக் கனவுகளே ஆகும். அப்பால் அந்த வானவர் (ஜிப்ரீல்) நபி (ஸல்) அவர்களிடம் வந்து, ‘‘படைத்த உம்முடைய இறைவனின் (திருப்)பெயரால் ஓதுவீராக! அவனே மனிதனைக் கருக்கட்டியிலிருந்து படைத்தான். (நபியே!) நீர் ஓதுக! உம்முடைய இறைவன் மாபெரும் கொடையாளி; அவன்தான் எழுதுகோல் மூலம் (எழுதக்) கற்றுக்கொடுத்தான். மனிதன் அறியாதவற்றையெல்லாம் அவனுக்குக் கற்பித்தான்” எனும் (96:1-5) இறைவசனங்களை ஓதினார். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4956</td></tr><tr><td>Arabic No</td><td>4956</td></tr><tr><td>Reference</td><td>Book 65 Hadith 478</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'nın şöyle söylediği rivayet edilmiştir: Allah Reslılü'ne Sallallahu Aleyhi ve Sellem ilk gelen [vahiy] uykuda gördüğü sadık rüya şeklinde idi. Melek geldi, sonra şu ayetleri okudu: "Yaratan Rabbinin adıyla oku! İnsanı yapışkan bir hücreden yarattı. Oku! Rabbin sonsuz kerem sahibidir. Kalemle yazmayı öğretendir. "(Alak 1-4)
+Aişe r.anha'nın şöyle söylediği rivayet edilmiştir: Allah Reslılü'ne Sallallahu Aleyhi ve Sellem ilk gelen [vahiy] uykuda gördüğü sadık rüya şeklinde idi. Melek geldi, sonra şu ayetleri okudu: "Yaratan Rabbinin adıyla oku! İnsanı yapışkan bir hücreden yarattı. Oku! Rabbin sonsuz kerem sahibidir. Kalemle yazmayı öğretendir. "(Alak)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4956</td></tr><tr><td>Arabic No</td><td>4956</td></tr><tr><td>Reference</td><td>Book 65 Hadith 478</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালিম (রহ.)-এর পিতা হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে লোক অন্যায়ভাবে কারো ভূমির সামান্যতম অংশও আত্মসাৎ করবে, কিয়ামতের দিন সাত তবক যমীনের নীচে তাকে ধ্বসিয়ে দেয়া হবে। (২৪৫৪) (আধুনিক প্রকাশনীঃ ২৯৫৫, ইসলামিক ফাউন্ডেশনঃ ২৯৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালিম (রহ.)-এর পিতা হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে লোক অন্যায়ভাবে কারো ভূমির সামান্যতম অংশও আত্মসাৎ করবে, কিয়ামতের দিন সাত তবক যমীনের নীচে তাকে ধ্বসিয়ে দেয়া হবে। (২৪৫৪) (আধুনিক প্রকাশনীঃ ২৯৫৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3196</td></tr><tr><td>Arabic No</td><td>3196</td></tr><tr><td>Reference</td><td>Book 59 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Bisyir bin Muhammad] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: யார் ஒரு நிலத்திலிருந்து அதற்கான உரிமையில்லாமல் சிறிதளவை (பலாத் காரமாக) எடுத்துக்கொள்கிறாரோ அவர் மறுமை நாளில் ஏழு பூமிகள்வரை புதைந்து போகும்படிச் செய்யப்படுவார். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.8 அத்தியாயம் : 59
+நபி (ஸல்) அவர்கள்கூறினார்கள்: யார் ஒரு நிலத்திலிருந்து அதற்கான உரிமையில்லாமல் சிறிதளவை (பலாத் காரமாக) எடுத்துக்கொள்கிறாரோ அவர் மறுமை நாளில் ஏழு பூமிகள்வரை புதைந்து போகும்படிச் செய்யப்படுவார். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.8 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3196</td></tr><tr><td>Arabic No</td><td>3196</td></tr><tr><td>Reference</td><td>Book 59 Hadith 7</td></tr></tbody></table></div>
 

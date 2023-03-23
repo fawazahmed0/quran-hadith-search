@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার হাতে আমার জীবন, সেই সত্তার কসম! তোমাদের মধ্যে কারো রশি নিয়ে কাঠ সংগ্রহ করে পিঠে করে বয়ে আনা, কোন লোকের কাছে এসে চাওয়া অপেক্ষা অনেক ভাল, চাই সে দিক বা না দিক। (১৪৮০, ২০৭৪, ২৩৭৪) (আধুনিক প্রকাশনীঃ ১৩৭৬, ইসলামিক ফাউন্ডেশনঃ ১৩৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার হাতে আমার জীবন, সেই সত্তার কসম! তোমাদের মধ্যে কারো রশি নিয়ে কাঠ সংগ্রহ করে পিঠে করে বয়ে আনা, কোন লোকের কাছে এসে চাওয়া অপেক্ষা অনেক ভাল, চাই সে দিক বা না দিক। (১৪৮০, ২০৭৪, ২৩৭৪) (আধুনিক প্রকাশনীঃ ১৩৭৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1470</td></tr><tr><td>Arabic No</td><td>1470</td></tr><tr><td>Reference</td><td>Book 24 Hadith 72</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எனது உயிர் யார் கையில் உள்ளதோ அவன் மீதாணையாக! உங்களில் ஒருவர் தமது கயிற்றை எடுத்துக்கொண்டு (போய்) விறகு வெட்டி, அதைத் தமது முதுகில் சும(ந்து விற்றுப் பிழை)ப்பதானது, ஒருவரிடம் சென்று யாசிப்பதைவிடச் சிறந்ததாகும். அவர் யாசிப்பவருக்குக் கொடுக்கவும் செய்யலாம்; மறுக்கவும் செய்யலாம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 24
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எனது உயிர் யார் கையில் உள்ளதோ அவன் மீதாணையாக! உங்களில் ஒருவர் தமது கயிற்றை எடுத்துக்கொண்டு (போய்) விறகு வெட்டி, அதைத் தமது முதுகில் சும(ந்து விற்றுப் பிழை)ப்பதானது, ஒருவரிடம் சென்று யாசிப்பதைவிடச் சிறந்ததாகும். அவர் யாசிப்பவருக்குக் கொடுக்கவும் செய்யலாம்; மறுக்கவும் செய்யலாம். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1470</td></tr><tr><td>Arabic No</td><td>1470</td></tr><tr><td>Reference</td><td>Book 24 Hadith 72</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayet edildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Canım elinde olan (Allah)'a yemin olsun ki, bir kimse'nin, urganını alıp bununla sırtında odun taşıması, bir kimseye gidip bir şeyler dilenmesinden ister versin ister vermesin- daha hayırlıdır. Tekrarı: 1480, 2074, 2374
+Ebu Hureyre r.a.'den rivayet edildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Canım elinde olan (Allah)'a yemin olsun ki, bir kimse'nin, urganını alıp bununla sırtında odun taşıması, bir kimseye gidip bir şeyler dilenmesinden ister versin ister vermesin- daha hayırlıdır. Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1470</td></tr><tr><td>Arabic No</td><td>1470</td></tr><tr><td>Reference</td><td>Book 24 Hadith 72</td></tr></tbody></table></div>
 

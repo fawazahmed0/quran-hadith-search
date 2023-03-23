@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যখন আমার পবিত্রতা সম্পর্কে কুরআনের আয়াত নাযিল হয়, তখন নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিম্বরের উপর উঠে, আমার পবিত্রতার কথা ঘোষণা করে, এ আয়াত তিলাওয়াত করেন, (যা অপবাদকারীদের সম্পর্কে নাযিল হয়)। এরপর তিনি মিম্বর থেকে নেমে দু'জন পুরুষ (মিসতাহ ও হাসসান ইবন ছাবিত) ও একজন স্ত্রীলোক (হামনা বিনত জাহাশ) এর উপর হদের বিধান জারী করেন। তখন লোকেরা তাদের উপর তা কায়েম করে।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার সমর্থনে যখন আয়াত অবতীর্ণ হলো, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিম্বারে দাঁড়িয়ে বিষয়টি উল্লেখ করেন এবং কুরআনের আয়াত তিলাওয়াত করেন। অতঃপর তিনি মিম্বার থেকে নেমে এসে দু’ জন পুরুষ ও একজন নারী সম্পর্কে নির্দেশ দিলে তাদের উপর হাদ্দ কার্যকর করা হয়।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4474</td></tr><tr><td>Arabic No</td><td>4474</td></tr><tr><td>Reference</td><td>Book 40 Hadith 124</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id Ats Tsaqafi] dan [Malik bin A
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe radıyallahu anha'dan şöyle demiştir: "Özrüme (suçsuzluğuma dair âyetler) inince, Rasulullah (s.a.v.) minbere çıktı ve bunu (masumiyetimi) anlattı, Kur'ân'ı (suçsuzluğum ile ilgili âyetleri) okudu. Minberden inince iki adam ve bir kadın hakkında emir buyurdu, hadleri vuruldu. Diğer Tahric edenler: Tirmizi, tefsir; İbn Mace. hudud; Ahmed b. Hanbel, VI, 30,35
+Âişe radıyallahu anha'dan şöyle demiştir: "Özrüme (suçsuzluğuma dair âyetler) inince, Rasulullah (s.a.v.) minbere çıktı ve bunu (masumiyetimi) anlattı, Kur'ân'ı (suçsuzluğum ile ilgili âyetleri) okudu. Minberden inince iki adam ve bir kadın hakkında emir buyurdu, hadleri vuruldu. Diğer Tahric edenler: Tirmizi, tefsir; İbn Mace. hudud; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4474</td></tr><tr><td>Arabic No</td><td>4474</td></tr><tr><td>Reference</td><td>Book 40 Hadith 124</td></tr></tbody></table></div>
 

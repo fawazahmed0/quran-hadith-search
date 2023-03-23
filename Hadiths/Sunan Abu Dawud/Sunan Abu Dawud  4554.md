@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। উসমান ইবনু আফফান ও যায়িদ ইবনু সাবিত (রাঃ) সূত্রে বর্ণিত। তাদের মতে, কঠোর দিয়াত হচ্ছেঃ চল্লিশটি পঞ্চম বছরে পদার্পণকারী গর্ভবর্তী উষ্ট্রী, ত্রিশটি চতুর্থ বছরে পদার্পণকারী উষ্ট্রী এবং ত্রিশটি তৃতীয় বছরে পদার্পণকারী উষ্ট্রী। আর ভুলবশত হত্যার দিয়াত হলোঃ ত্রিশটি চতুর্থ বছরে পদার্পণকারী উষ্ট্রী, ত্রিশটি তৃতীয় বছরে পদার্পণকারী উষ্ট্রী, বিশটি তৃতীয় বছরে পদার্পণকারী উট এবং বিশটি দ্বিতীয় বছরে পদার্পণকারী উষ্ট্রী।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4554</td></tr><tr><td>Arabic No</td><td>4554</td></tr><tr><td>Reference</td><td>Book 41 Hadith 61</td></tr></tbody></table></div>
 

@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya related to me from Malik from Damra ibn Said al-Mazini from Ubaydullah ibn Abdullah ibn Utba ibn Masud that ad-Dahhak ibn Qays asked an-Numan ibn Bashir, "What did the Messenger of Allah, may Allah bless him and grant him peace, use to recite on the day of jumua after suratal-Jumua (Sura 62)?" He said, "He used to recite al-Ghashiya (Sura 88)
+Yahya related to me from Malik from Damra ibn Said al-Mazini from Ubaydullah ibn Abdullah ibn Utba ibn Masud that ad-Dahhak ibn Qays asked an-Numan ibn Bashir, "What did the Messenger of Allah, may Allah bless him and grant him peace, use to recite on the day of jumua after suratal-Jumua (Sura 62)?" He said, "He used to recite al-Ghashiya (Sura)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 5 Hadith 19</td></tr></tbody></table></div>
 

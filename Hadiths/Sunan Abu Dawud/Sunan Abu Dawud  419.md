@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... নোমান ইবনু বশীর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি এশার নামাযের ওয়াক্ত সম্পর্কে অন্যদের তুলনায় অধিক অবগত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এই নামায তৃতীয়ার চাঁদ অস্তমিত হওয়া পরিমাণ সময়ের পর আদায় করতেন। (তিরমিযী, নাসাঈ, দারিমী)।
+। নু’মান ইবনু বাশীর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি এই ‘ইশার সালাতের শেষ ওয়াক্ত সম্পর্কে অন্যদের চেয়ে বেশি অবগত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উক্ত সালাত (এ পরিমান সময়ের পর) আদায় করতেন, যখন তৃতীয়বার চাঁদ অস্তমিত হয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>419</td></tr><tr><td>Arabic No</td><td>419</td></tr><tr><td>Reference</td><td>Book 2 Hadith 29</td></tr></tbody></table></div>
 

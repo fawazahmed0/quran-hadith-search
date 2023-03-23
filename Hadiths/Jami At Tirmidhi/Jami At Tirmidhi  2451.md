@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৪৫১। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাহাবী আতিয়া আস-সাদী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন বান্দা ক্ষতিকর কাজে জড়িয়ে পড়ার ভয়ে বৈধ অক্ষতিকর বিষয় না ছেড়ে দেয়া পর্যন্ত মুত্তাকীদের পর্যায়ে উন্নীত হতে পারবে না। যঈফ, ইবনু মাজাহ (৪২১৫) আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। শুধুমাত্র উপরোক্ত সূত্রেই আমরা এ হাদীস প্রসঙ্গে জেনেছি।
+। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাহাবী আতিয়া আস-সাদী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন বান্দা ক্ষতিকর কাজে জড়িয়ে পড়ার ভয়ে বৈধ অক্ষতিকর বিষয় না ছেড়ে দেয়া পর্যন্ত মুত্তাকীদের পর্যায়ে উন্নীত হতে পারবে না। যঈফ, ইবনু মাজাহ (৪২১৫) আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। শুধুমাত্র উপরোক্ত সূত্রেই আমরা এ হাদীস প্রসঙ্গে জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>2451</td></tr><tr><td>Reference</td><td>Book 37 Hadith 37</td></tr></tbody></table></div>
 

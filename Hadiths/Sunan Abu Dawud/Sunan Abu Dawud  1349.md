@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... আয়েশা (রাঃ) হতে উপরোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে এ সানাদে উপরোক্ত হাদীস বর্ণিত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1349</td></tr><tr><td>Arabic No</td><td>1349</td></tr><tr><td>Reference</td><td>Book 5 Hadith 100</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১২৪৮। আবূ হুরায়রা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্রেতা ও বিক্রেতা ক্রয়-বিক্রয়ের পর দুজনেই একে অপরের সন্তুষ্টি ছাড়া আলাদা হবে না। - হাসান সহীহ, ইরওয়া (৫/১২৫, ১২৬) এ হাদীসটিকে আবূ ঈসা গরীব বলেছেন।
+। আবূ হুরায়রা (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্রেতা ও বিক্রেতা ক্রয়-বিক্রয়ের পর দুজনেই একে অপরের সন্তুষ্টি ছাড়া আলাদা হবে না। - হাসান সহীহ, ইরওয়া (৫/১২৫, ১২৬) এ হাদীসটিকে আবূ ঈসা গরীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1248</td></tr><tr><td>Arabic No</td><td>1248</td></tr><tr><td>Reference</td><td>Book 14 Hadith 48</td></tr></tbody></table></div>
 

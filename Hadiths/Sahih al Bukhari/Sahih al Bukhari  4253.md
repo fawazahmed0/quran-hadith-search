@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উরওয়াহ (রহ.) বললেন, হে উম্মুল মু’মিনীন! আবূ আবদুর রহমান [ইবনু ‘উমার (রাঃ)] কী বলছেন, তা আপনি শুনেছেন কি যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম চারটি ‘উমরাহ্ করেছেন? ‘আয়িশাহ (রাঃ) উত্তর দিলেন যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এমন কোন ‘উমরাহ্ করেননি যাতে তিনি (ইবনু ‘উমার) তাঁর সঙ্গে ছিলেন না। তবে তিনি রাজাব মাসে কখনো ‘উমরাহ্ আদায় করেননি। [১৭৭৬] (আধুনিক প্রকাশনীঃ ৩৯২২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4253</td></tr><tr><td>Arabic No</td><td>4253</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

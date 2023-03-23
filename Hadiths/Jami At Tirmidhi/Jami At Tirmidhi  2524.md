@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫২৪। আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতে এমন একটি গাছ আছে, যার ছায়াতলে যে কোন যাত্রী একশত বছর ধরে চলতে থাকবে কিন্তু তা অতিক্রম করে যেতে পারবে না। আর এটাই হলো (কুরআনে বর্ণিত) “সম্প্রসারিত ছায়া”। (সূরা ওয়াকিআহ ৩০) সহীহঃ বুখারী, মুসলিম। আবূ ঈসা বলেনঃ আবূ সাঈদ (রাঃ)-এর বর্ণনা হিসেবে হাদীসটি হাসান গারীব।
+। আবূ সাঈদ আল-খুদরী (রাযিঃ) হতে বর্ণিত, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জান্নাতে এমন একটি গাছ আছে, যার ছায়াতলে যে কোন যাত্রী একশত বছর ধরে চলতে থাকবে কিন্তু তা অতিক্রম করে যেতে পারবে না। আর এটাই হলো (কুরআনে বর্ণিত) “সম্প্রসারিত ছায়া”। (সূরা ওয়াকিআহ ৩০) সহীহঃ বুখারী, মুসলিম। আবূ ঈসা বলেনঃ আবূ সাঈদ (রাঃ)-এর বর্ণনা হিসেবে হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2524</td></tr><tr><td>Arabic No</td><td>2524</td></tr><tr><td>Reference</td><td>Book 38 Hadith 2</td></tr></tbody></table></div>
 

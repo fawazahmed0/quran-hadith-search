@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, তিনি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে পূর্ব দিকে মুখ করে বলতে শুনেছেন, সাবধান! ফিতনা সে দিকে যে দিক থেকে শয়তানের শিং উদিত হয়। [৩১০৪; মুসলিম ৫২/১৬, হাঃ ২৯০৫, আহমাদ ৫৪১০] (আধুনিক প্রকাশনী- ৬৫৯৮, ইসলামিক ফাউন্ডেশন- ৬৬১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, তিনি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে পূর্ব দিকে মুখ করে বলতে শুনেছেন, সাবধান! ফিতনা সে দিকে যে দিক থেকে শয়তানের শিং উদিত হয়। [৩১০৪; মুসলিম ৫২/১৬, হাঃ ২৯০৫, আহমাদ ৫৪১০] (আধুনিক প্রকাশনী- ৬৫৯৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>7093</td></tr><tr><td>Reference</td><td>Book 92 Hadith 44</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கிழக்கை நோக்கியவாறு, “அறிந்து கொள்ளுங்கள்! குழப்பம், ஷைத்தானின் கொம்பு உதயமாகும் இந்த இடத்திலிருந்து தோன்றும்” என்று சொல்ல நான் கேட்டேன். அத்தியாயம் : 92
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கிழக்கை நோக்கியவாறு, “அறிந்து கொள்ளுங்கள்! குழப்பம், ஷைத்தானின் கொம்பு உதயமாகும் இந்த இடத்திலிருந்து தோன்றும்” என்று சொல்ல நான் கேட்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>7093</td></tr><tr><td>Reference</td><td>Book 92 Hadith 44</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সাহাবীগণকে নাজাশীর মৃত্যু খবর শোনালেন, পরে তিনি সম্মুখে অগ্রসর হলেন এবং সাহাবীগণ তাঁর পিছনে কাতারবন্দী হলে তিনি চার তাকবীরে [1] (জানাযার সালাত) আদায় করলেন। (১২৪৫) (আধুনিক প্রকাশনীঃ ১২৩২, ইসলামিক ফাউন্ডেশনঃ ১২৩৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সাহাবীগণকে নাজাশীর মৃত্যু খবর শোনালেন, পরে তিনি সম্মুখে অগ্রসর হলেন এবং সাহাবীগণ তাঁর পিছনে কাতারবন্দী হলে তিনি চার তাকবীরে [1] (জানাযার সালাত) আদায় করলেন। (১২৪৫) (আধুনিক প্রকাশনীঃ ১২৩২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 23 Hadith 75</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (அபிசீனிய மன்னர்) நஜாஷீ அவர்களின் மரணச் செய்தியைத் தம் தோழர்களுக்கு அறிவித்துவிட்டு, பிறகு சற்று முன்னால் நகர்ந்தார்கள். மக்கள் அவர்களுக்குப் பின்னால் அணிவகுத்து நின்றதும் நபி (ஸல்) அவர்கள், நான்கு தக்பீர்கள் கூறி (ஜனாஸா) தொழுகை நடத்தினார்கள். அத்தியாயம் : 23
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (அபிசீனிய மன்னர்) நஜாஷீ அவர்களின் மரணச் செய்தியைத் தம் தோழர்களுக்கு அறிவித்துவிட்டு, பிறகு சற்று முன்னால் நகர்ந்தார்கள். மக்கள் அவர்களுக்குப் பின்னால் அணிவகுத்து நின்றதும் நபி (ஸல்) அவர்கள், நான்கு தக்பீர்கள் கூறி (ஜனாஸா) தொழுகை நடத்தினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 23 Hadith 75</td></tr></tbody></table></div>
 

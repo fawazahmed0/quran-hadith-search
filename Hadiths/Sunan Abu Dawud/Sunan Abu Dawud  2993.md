@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমূদ ইবন খালিদ সুলামী (রহঃ) ...... কাতাদা (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ যখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজে যুদ্ধে অংশগ্রহণ করতেন, তখন তাঁর জন্য সাফী নির্ধারিত থাকতো। তিনি যেখান হতে ইচ্ছা করতেন, সেখান হতে পসন্দ মত গ্রহণ করতেন। বস্তুত সাফিয়্যা (রাঃ), (যাঁকে তিনি খায়বরের যুদ্ধের সময় পেয়েছিলেন), এ ধরনের অংশ ছিলেন। আর যখন তিনি নিজে যুদ্ধে অংশগ্রহণ করতেন না, তখনও তাঁর নির্ধারিত অংশ আলাদা করা হতো; কিন্তু সেটা তাঁর পসন্দ করা অংশ হতো না।
+। কাতাদাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজে যুদ্ধে অংশ গ্রহণ করলে তাঁর জন্য বিশেষ অংশ নির্ধারিত থাকতো। তিনি তাঁর পছন্দমত যেখান থেকে ইচ্ছা নিতেন। সাফিয়্যাহ (রাঃ) এরূপ অংশেই ছিলেন। আর তিনি সশরীরে যুদ্ধে অংশগ্রহণ না করলে তাঁর জন্য সাধারণ একটি অংশ থাকতো কিন্তু সেটা তাঁর পছন্দ নির্ভর অংশ ছিলো না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 20 Hadith 66</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৪৪৬, আন্তর্জাতিক নাম্বারঃ ১৭৪৬ ৪৪৪৬-(৩১/...) সাহল ইবনু উসমান (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) হতে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাযীর গোত্রের খেজুর বাগান জ্বালিয়ে দিয়েছিলেন। (ইসলামিক ফাউন্ডেশন ৪৪০৪, ইসলামিক সেন্টার ৪৪০৪)
+সাহল ইবনু উসমান (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) হতে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাযীর গোত্রের খেজুর বাগান জ্বালিয়ে দিয়েছিলেন। (ইসলামিক ফাউন্ডেশন ৪৪০৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4554</td></tr><tr><td>Arabic No</td><td>1746.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 35</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Sahl bin Utsman] telah mengabarkan kepadaku [Uqb
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (பயங்கரவாதச் செயல்களில் ஈடுபட்ட) பனூ நளீர் குலத்தாரின் பேரீச்ச மரங்களை எரித்தார்கள். அத்தியாயம் : 32
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (பயங்கரவாதச் செயல்களில் ஈடுபட்ட) பனூ நளீர் குலத்தாரின் பேரீச்ச மரங்களை எரித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4554</td></tr><tr><td>Arabic No</td><td>1746.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 35</td></tr></tbody></table></div>
 

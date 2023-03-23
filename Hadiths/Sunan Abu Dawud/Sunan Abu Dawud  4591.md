@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাঈদ ইবন সুলায়মান (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি জনতার চাপে অথবা পরস্পর পাথর নিক্ষেপের কারণে মারা যায়, বা চাবুকের আঘাতের ফলে মারা যায়, তার দীয়াত হবে ভুলবশত হত্যার দিয়াতের অনুরূপ। আর যাকে ইচ্ছাকৃতভাবে হত্যা করা হয়, তার দিয়াত অবশ্যই দিতে হবে। আর যে ব্যক্তি মারামারিকারী দু'ব্যক্তির মাঝখানে যাবে, তার উপর আল্লাহ্‌র, ফেরেশতাদের এবং সমস্ত লোকের লা'নত।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি অজ্ঞাতভাবে নিহত হলে বা লোকজনের পাথর নিক্ষেপের সময় তার আঘাতে বা চাবুকের আঘাতে নিহত হলে ভুলক্রমে হত্যার দিয়াত প্রযোজ্য। আর যাকে ইচ্ছাকৃতভাবে হত্যা করা হয়, তার হত্যার কিসাস কার্যকর হবে। কেউ এতে বাধা দিলে তার উপর আল্লাহ, ফিরিশতাকূল ও সকল মানুষের অভিশাপ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4591</td></tr><tr><td>Arabic No</td><td>4591</td></tr><tr><td>Reference</td><td>Book 41 Hadith 98</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন, তিনি বলেনঃ আল্লাহর রাস্তায় মুসলিমদের যে যখম হয়, কিয়ামতের দিন তার প্রতিটি যখম আঘাতকালীন সময়ে যে অবস্থায় ছিল সে অবস্থাতেই থাকবে। রক্ত ছুটে বের হতে থাকবে। তার রং হবে রক্তের রং কিন্তু গন্ধ হবে মিশকের মত। (২৮০৩, ৫৫৩৩; মুসলিম ৩৩/২৮, হাঃ ১৮৭৬, আহমাদ ৯১৯৮) (আধুনিক প্রকাশনীঃ ২৩১, ইসলামিক ফাউন্ডেশনঃ ২৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন, তিনি বলেনঃ আল্লাহর রাস্তায় মুসলিমদের যে যখম হয়, কিয়ামতের দিন তার প্রতিটি যখম আঘাতকালীন সময়ে যে অবস্থায় ছিল সে অবস্থাতেই থাকবে। রক্ত ছুটে বের হতে থাকবে। তার রং হবে রক্তের রং কিন্তু গন্ধ হবে মিশকের মত। (২৮০৩, ৫৫৩৩; মুসলিম ৩৩/২৮, হাঃ ১৮৭৬, আহমাদ ৯১৯৮) (আধুনিক প্রকাশনীঃ ২৩১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>237</td></tr><tr><td>Arabic No</td><td>237</td></tr><tr><td>Reference</td><td>Book 4 Hadith 103</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad] berkata, telah mengabarkan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் பாதையில் ஒரு முஸ்-முக்கு ஏற்படுத்தப்பட்ட ஒவ்வொரு காயமும், தாக்கப்பட்டபோது இருந்த அதே கோலத்தைப் போன்றே மறுமை நாளில் இரத்தம் பீறிட்ட நிலையில் இருக்கும். அந்த நிறம் இரத்தத்தின் நிறத்தில் இருக்கும்; அதன் வாடையோ கஸ்தூரி வாடையாக இருக்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 4
+நபி (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்வின் பாதையில் ஒரு முஸ்-முக்கு ஏற்படுத்தப்பட்ட ஒவ்வொரு காயமும், தாக்கப்பட்டபோது இருந்த அதே கோலத்தைப் போன்றே மறுமை நாளில் இரத்தம் பீறிட்ட நிலையில் இருக்கும். அந்த நிறம் இரத்தத்தின் நிறத்தில் இருக்கும்; அதன் வாடையோ கஸ்தூரி வாடையாக இருக்கும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>237</td></tr><tr><td>Arabic No</td><td>237</td></tr><tr><td>Reference</td><td>Book 4 Hadith 103</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin Muhammad] berkata, telah mengabarkan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. Nebi (Sallallahu aleyhi ve Sellem)'in şu sözünü rivayet etmiştir: "Müslümanın Allah yolunda aldığı her yara, kıyamet gününde yeni açıldığı andaki şekli üzere kan fışkırıyor gibi olur; rengi kan rengi, kokusu misk kokusudur. Tekrar; 2803, 5533
+Ebu Hureyre r.a. Nebi (Sallallahu aleyhi ve Sellem)'in şu sözünü rivayet etmiştir: "Müslümanın Allah yolunda aldığı her yara, kıyamet gününde yeni açıldığı andaki şekli üzere kan fışkırıyor gibi olur; rengi kan rengi, kokusu misk kokusudur. Tekrar;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>237</td></tr><tr><td>Arabic No</td><td>237</td></tr><tr><td>Reference</td><td>Book 4 Hadith 103</td></tr></tbody></table></div>
 

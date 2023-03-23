@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২১৬, আন্তর্জাতিক নাম্বারঃ ২৯১৬ ৭২১৬-(৭৩/...) আবু বাকর ইবনু আবূ শাইবাহ (রহঃ) ...... উম্মু সালামাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আম্মারকে বিদ্রোহী দল হত্যা করবে। (ইসলামিক ফাউন্ডেশন ৭০৬০, ইসলামিক সেন্টার ৭১১৫)
+আবু বাকর ইবনু আবূ শাইবাহ (রহঃ) ...... উম্মু সালামাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আম্মারকে বিদ্রোহী দল হত্যা করবে। (ইসলামিক ফাউন্ডেশন ৭০৬০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7324</td></tr><tr><td>Arabic No</td><td>2916.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 90</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Umm Salama reported that Allah's Messenger (ﷺ) said:A band of rebels would kil
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (அம்மார் (ரலி) அவர்களைப் பற்றி), "அம்மாரை ஒரு கலகக்கார கூட்டத்தார் கொன்றுவிடுவர்" என்று சொன்னார்கள். அத்தியாயம் : 52
+உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (அம்மார் (ரலி) அவர்களைப் பற்றி), "அம்மாரை ஒரு கலகக்கார கூட்டத்தார் கொன்றுவிடுவர்" என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7324</td></tr><tr><td>Arabic No</td><td>2916.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 90</td></tr></tbody></table></div>
 

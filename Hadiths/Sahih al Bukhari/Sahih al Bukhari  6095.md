@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুনাফিকের চিহ্ন তিনটিঃ যখন সে কথা বলে, তখন মিথ্যা বলে, যখন সে ওয়াদা করে, তখন তা ভঙ্গ করে, আর যখন তার কাছে আমানত রাখা হয় সে তাতে খিয়ানাত করে। (আধুনিক প্রকাশনী- ৫৬৫৬, ইসলামিক ফাউন্ডেশন- ৫৫৫২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুনাফিকের চিহ্ন তিনটিঃ যখন সে কথা বলে, তখন মিথ্যা বলে, যখন সে ওয়াদা করে, তখন তা ভঙ্গ করে, আর যখন তার কাছে আমানত রাখা হয় সে তাতে খিয়ানাত করে। (আধুনিক প্রকাশনী- ৫৬৫৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6095</td></tr><tr><td>Arabic No</td><td>6095</td></tr><tr><td>Reference</td><td>Book 78 Hadith 122</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Muhammad bin Salam] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நயவஞ்சகனின் அடையாளங்கள் மூன்று. பேசினால் பொய் சொல்வான்; வாக்களித்தால் மாறு செய்வான்; அவனை நம்பி எதையும் ஒப்படைத்தால் (அதில்) மோசடி செய்வான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.112 அத்தியாயம் : 78
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நயவஞ்சகனின் அடையாளங்கள் மூன்று. பேசினால் பொய் சொல்வான்; வாக்களித்தால் மாறு செய்வான்; அவனை நம்பி எதையும் ஒப்படைத்தால் (அதில்) மோசடி செய்வான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.112 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6095</td></tr><tr><td>Arabic No</td><td>6095</td></tr><tr><td>Reference</td><td>Book 78 Hadith 122</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আব্বাস ইবন মুহাম্মদ দাওরী (রহঃ) ... উম্মে হাবীবা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন তাঁকে বিবাহ করেন, তখন তিনি ছিলেন হাবশায়। নাজ্জাশী তাকে বিবাহ দেন এবং তাঁর মাহর আদায় করেন। চার হাজার দিরহাম এবং তার নিজের পক্ষ হতে বিবাহ উপঢৌকন আদায় করেন। আর তাকে ঐ সকল দিয়ে শুরাহবীল ইবন হাসানা (রাঃ)-এর সাথে পাঠিয়ে দেন। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার নিকট কিছুই পাঠাননি। আর তাঁর অন্যান্য স্ত্রীদের মাহর ছিল চারশত দিরহাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>3350</td></tr><tr><td>Reference</td><td>Book 26 Hadith 155</td></tr></tbody></table></div>
 

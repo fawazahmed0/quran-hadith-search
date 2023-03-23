@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ জ্বর হয় জাহান্নামের তাপ থেকে। কাজেই তোমরা পানি দিয়ে তা ঠান্ডা কর। [৩২৬৩] (আধুনিক প্রকাশনী- ৫৩০৫, ইসলামিক ফাউন্ডেশন- ৫২০১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ জ্বর হয় জাহান্নামের তাপ থেকে। কাজেই তোমরা পানি দিয়ে তা ঠান্ডা কর। [৩২৬৩] (আধুনিক প্রকাশনী- ৫৩০৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5725</td></tr><tr><td>Arabic No</td><td>5725</td></tr><tr><td>Reference</td><td>Book 76 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: காய்ச்சல் நரகத்தின் வெப்பக் காற்றால் உண்டாகிறது. ஆகவே, அதைத் தண்ணீரால் (குளிர்வித்துத்) தணியுங்கள். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.54 அத்தியாயம் : 76
+நபி (ஸல்) அவர்கள் கூறினார்கள்: காய்ச்சல் நரகத்தின் வெப்பக் காற்றால் உண்டாகிறது. ஆகவே, அதைத் தண்ணீரால் (குளிர்வித்துத்) தணியுங்கள். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.54 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5725</td></tr><tr><td>Arabic No</td><td>5725</td></tr><tr><td>Reference</td><td>Book 76 Hadith 40</td></tr></tbody></table></div>
 

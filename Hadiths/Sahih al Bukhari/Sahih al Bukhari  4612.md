@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেছেন যে, যদি কেউ তোমাকে বলে যে, তাঁর অবতীর্ণ বিষয়ের সামান্য কিছুও মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম গোপন করেছেন তা হলে অবশ্যই, সে মিথ্যা বলেছে। আল্লাহ বলেছেন, ‘‘হে রাসূল! আপনি তা পৌঁছে দিন যা আপনার প্রতি আপনার রবের তরফ থেকে অবতীর্ণ করা হয়েছে।’’ [৩২৩৪] (আধুনিক প্রকাশনীঃ ৪২৫১, ইসলামিক ফাউন্ডেশনঃ ৪২৫৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেছেন যে, যদি কেউ তোমাকে বলে যে, তাঁর অবতীর্ণ বিষয়ের সামান্য কিছুও মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম গোপন করেছেন তা হলে অবশ্যই, সে মিথ্যা বলেছে। আল্লাহ বলেছেন, ‘‘হে রাসূল! আপনি তা পৌঁছে দিন যা আপনার প্রতি আপনার রবের তরফ থেকে অবতীর্ণ করা হয়েছে।’’ [৩২৩৪] (আধুনিক প্রকাশনীঃ ৪২৫১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 65 Hadith 134</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aisha:Whoever tells that Muhammad concealed part of what was revealed to him, is a liar, for Allah says:-- "O Apostle (Muhammad)! Proclaim (the Message) which has been sent down to you from your Lord." (5.67)
+Narrated 'Aisha:Whoever tells that Muhammad concealed part of what was revealed to him, is a liar, for Allah says:-- "O Apostle (Muhammad)! Proclaim (the Message) which has been sent down to you from your Lord
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 65 Hadith 134</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated 'Aisha:Whoever tells that Muhammad concealed part of what was revealed 
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Isma'il] dari [Asy Sya'bi] dari [Masruq] dari ['Aisyah radliallahu 'anhu] dia berkata; 'Siapapun yang berkata bahwa Muhammad shallallahu 'alaihi wasallam menyembunyikan sebagian dari yang telah diwahyukan kepadanya, maka dia telah berdusta. Karena Allah telah berfirman: Wahai Rasul, sampaikanlah apa yang telah diturunkan kepadamu dari Rabbmu.. (Al Maidah: 67)
+Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Isma'il] dari [Asy Sya'bi] dari [Masruq] dari ['Aisyah radliallahu 'anhu] dia berkata; 'Siapapun yang berkata bahwa Muhammad shallallahu 'alaihi wasallam menyembunyikan sebagian dari yang telah diwahyukan kepadanya, maka dia telah berdusta. Karena Allah telah berfirman: Wahai Rasul, sampaikanlah apa yang telah diturunkan kepadamu dari Rabbmu.. (Al Maidah:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 65 Hadith 134</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: முஹம்மத் (ஸல்) அவர்கள், தம்மீது அருளப்பெற்ற (வேதத்)திலிருந்து எதையும் மறைத்தார்கள் என்று உங்களிடம் யாரும் சொன்னால் அவர் பொய் சொல்லிவிட்டார். அல்லாஹ்வோ, “(எம்) தூதரே! உம்முடைய இறைவனிடமிருந்து உமக்கு அருளப்பெற்ற (வேதத்)தை (மக்களுக்கு) எடுத்துரைத்துவிடுவீராக!” என்று கூறுகின்றான்.10 அத்தியாயம் : 65
+ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: முஹம்மத் (ஸல்) அவர்கள், தம்மீது அருளப்பெற்ற (வேதத்)திலிருந்து எதையும் மறைத்தார்கள் என்று உங்களிடம் யாரும் சொன்னால் அவர் பொய் சொல்லிவிட்டார். அல்லாஹ்வோ, “(எம்) தூதரே! உம்முடைய இறைவனிடமிருந்து உமக்கு அருளப்பெற்ற (வேதத்)தை (மக்களுக்கு) எடுத்துரைத்துவிடுவீராக!” என்று கூறுகின்றான்.10 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 65 Hadith 134</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ মসজিদে নাবাবী নির্মিত হবার পূর্বে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভেড়ার খোঁয়াড়ে সালাত আদায় করতেন।* (৪২৮, ৪২৯, ১৮৬৪, ২১০৬, ২৭৭১, ২৭৭৪, ২৭৭৯, ৩৯৩২; মুসলিম ৫/১, হাঃ ৫২৪, আহমাদ ১৩০১৭) (আধুনিক প্রকাশনীঃ ২২৮, ইসলামিক ফাউন্ডেশনঃ ২৩৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ মসজিদে নাবাবী নির্মিত হবার পূর্বে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বকরীর খোঁয়াড়ে সালাত আদায় করতেন।* (৪২৮, ৪২৯, ১৮৬৪, ২১০৬, ২৭৭১, ২৭৭৪, ২৭৭৯, ৩৯৩২; মুসলিম ৫/১, হাঃ ৫২৪, আহমাদ ১৩০১৭) (আধুনিক প্রকাশনীঃ ২২৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 4 Hadith 100</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [S
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: (மதீனாவில்) பள்ளிவாசல் கட்டப்படு வதற்கு முன்னால் நபி (ஸல்) அவர்கள் ஆட்டுத் தொழுவங்களில் தொழு வார்கள்.33 அத்தியாயம் : 4
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: (மதீனாவில்) பள்ளிவாசல் கட்டப்படு வதற்கு முன்னால் நபி (ஸல்) அவர்கள் ஆட்டுத் தொழுவங்களில் தொழு வார்கள்.33 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 4 Hadith 100</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [S
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. şöyle demiştir: Mescid inşa edilmeden önce Nebi (Sallallahu aleyhi ve Sellem) koyun ağıllarında namaz kılardı. Tekrar: 428, 429, 1868, 2106, 2771, 2774, 2779, 3932
+Enes r.a. şöyle demiştir: Mescid inşa edilmeden önce Nebi (Sallallahu aleyhi ve Sellem) koyun ağıllarında namaz kılardı. Tekrar: 428, 429, 1868
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 4 Hadith 100</td></tr></tbody></table></div>
 

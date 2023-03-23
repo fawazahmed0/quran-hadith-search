@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামতের দিন তুমি আল্লাহর কাছে ঐ লোককে সব থেকে খারাপ পাবে, যে দু’মুখো। সে এদের সম্মুখে এক রূপ নিয়ে আসতো, আর ওদের সম্মুখে অন্য রূপে আসত। [৩৪৯৪; মুসলিম ৪৪/৪৮, হাঃ ২৫২৬, আহমাদ ১০৭৯৫] (আধুনিক প্রকাশনী- ৫৬২৩, ইসলামিক ফাউন্ডেশন- ৫৫১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামতের দিন তুমি আল্লাহর কাছে ঐ লোককে সব থেকে খারাপ পাবে, যে দু’মুখো। সে এদের সম্মুখে এক রূপ নিয়ে আসতো, আর ওদের সম্মুখে অন্য রূপে আসত। [৩৪৯৪; মুসলিম ৪৪/৪৮, হাঃ ২৫২৬, আহমাদ ১০৭৯৫] (আধুনিক প্রকাশনী- ৫৬২৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6058</td></tr><tr><td>Arabic No</td><td>6058</td></tr><tr><td>Reference</td><td>Book 78 Hadith 88</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளில் அல்லாஹ்விடம் மனிதர்களிலேயே மிகவும் மோசமான வனாக இரட்டை முகத்தானைக் காண்பீர். அவன் இவர்களிடம் செல்லும்போது ஒரு முகத்துடனும் அவர்களிடம் செல்லும்போது இன்னொரு முகத்துடனும் செல்கிறான்.75 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மறுமை நாளில் அல்லாஹ்விடம் மனிதர்களிலேயே மிகவும் மோசமான வனாக இரட்டை முகத்தானைக் காண்பீர். அவன் இவர்களிடம் செல்லும்போது ஒரு முகத்துடனும் அவர்களிடம் செல்லும்போது இன்னொரு முகத்துடனும் செல்கிறான்.75 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6058</td></tr><tr><td>Arabic No</td><td>6058</td></tr><tr><td>Reference</td><td>Book 78 Hadith 88</td></tr></tbody></table></div>
 

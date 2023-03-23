@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... দুবাইয়া ইবন হুসায়ন ছা'লাবী (রহঃ) থেকে পূর্বোক্ত হাদীছের অনুরুপ অর্থে হাদীছ বর্ণিত হয়েছে।
+। দুবাই‘আহ ইবনু হুসাইন আস-সা‘লাবী (রহঃ) সূত্রে পূর্বোক্ত হাদীসের অথানুরূপ বর্ণিত। আমি এটি সহীহ এবং যঈফে পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4665</td></tr><tr><td>Arabic No</td><td>4665</td></tr><tr><td>Reference</td><td>Book 42 Hadith 70</td></tr></tbody></table></div>
 

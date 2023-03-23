@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ (রহঃ) ..... আবূ সারমা (রাঃ), যিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবী ছিলেন, তার থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে কেউ অন্যের ক্ষতি করবে, মহান আল্লাহ্‌ তার ক্ষতি করবেন। আর যে কেউ অকারণে অন্যের প্রতি শত্রুতা করবে, আল্লাহ্‌ তার শত্রু হয়ে যাবেন।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথী আবূ সিরমাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ অপরের ক্ষতি করলে আল্লাহ তার ক্ষতিসাধন করবেন। কেউ অযৌক্তিকভাবে কারো বিরোধিতা করলে আল্লাহ তার বিরোধী হবেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3635</td></tr><tr><td>Arabic No</td><td>3635</td></tr><tr><td>Reference</td><td>Book 25 Hadith 65</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আরফাজাহ ইবনু আস‘আদ (রহঃ) থেকে তার পিতার সূত্রে পূর্বোক্ত হাদীসের সমার্থকবোধক হাদীস বর্ণিত।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4234</td></tr><tr><td>Arabic No</td><td>4234</td></tr><tr><td>Reference</td><td>Book 36 Hadith 21</td></tr></tbody></table></div>
 

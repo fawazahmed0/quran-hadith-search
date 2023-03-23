@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১২. সাঈদ ইবন মুসায়্যাব (রহঃ) হইতে বর্ণিত, উমর ইবন খাত্তাব (রাঃ) ফায়সালা দিয়াছেন যে, কোন মহিলাকে কোন পুরুষ বিবাহ করিলে এবং বিবাহের পর (স্বামী-স্ত্রী গৃহাভ্যন্তরে প্রবেশ করার পর) পর্দা টাঙ্গান হইলে তবে স্বামীর উপর মহর ওয়াজিব হইবে।[1]
+রেওয়ায়ত ১২. সাঈদ ইবন মুসায়্যাব (রহঃ) হইতে বর্ণিত, উমর ইবন খাত্তাব (রাঃ) ফায়সালা দিয়াছেন যে, কোন মহিলাকে কোন পুরুষ বিবাহ করিলে এবং বিবাহের পর (স্বামী-স্ত্রী গৃহাভ্যন্তরে প্রবেশ করার পর) পর্দা টাঙ্গান হইলে তবে স্বামীর উপর মহর ওয়াজিব হইবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1102</td></tr><tr><td>Arabic No</td><td>1102</td></tr><tr><td>Reference</td><td>Book 28 Hadith 12</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উকবা ইবন মুকাররাম (রহঃ) .... আনাস ইবন মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লামকে কখনও হাতের পেটের দ্বারা এবং কখনও পিঠের দ্বারা দু’আ (ইসতিসকার নামাযে) করতে দেখেছি।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কখনো তাঁর দু’ হাতের তালু দ্বারা এবং কখনো দু’ হাতে পৃষ্ঠ দ্বারা দু’ভাবেই দু‘আ করতে দেখেছি।[1] সহীহ : এ শব্দে :(جعل ظاهر كفيه مما يلي وجهه، و باطنهما مما يلي الأرض)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1487</td></tr><tr><td>Arabic No</td><td>1487</td></tr><tr><td>Reference</td><td>Book 8 Hadith 72</td></tr></tbody></table></div>
 

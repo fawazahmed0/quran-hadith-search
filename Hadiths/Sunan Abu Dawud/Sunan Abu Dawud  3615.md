@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন বাশশার (রহঃ) ...... কাতাদা (রহঃ) একই সনদে হাদীছ বর্ণনা প্রসংগে বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যামানায় দু'ব্যক্তি একটি উটের মালিকানার ব্যাপারে দাবী করে এবং প্রত্যেক ব্যক্তি দুজন সাক্ষী পেশ করে। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের উভয়ের মধ্যে উটটি সমান ভাবে বণ্টন করে দেন।
+। কাতাদাহ (রহঃ) সূত্রে বর্ণিত। দু’ ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে একই উটের মালিকানা দাবি করলো। উভয়ে দু’ জন করে সাক্ষীও পেশ করলো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উটটি উভয়ের মধ্যে সমানভাগে বণ্টন করলেন।[1] দুর্বলঃ মিশকাত
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3615</td></tr><tr><td>Arabic No</td><td>3615</td></tr><tr><td>Reference</td><td>Book 25 Hadith 45</td></tr></tbody></table></div>
 

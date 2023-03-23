@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে এ দু’ সালাত একত্রে আদায় করতেন অর্থাৎ মাগরিব ও ‘ইশা। (১১০৮) (আধুনিক প্রকাশনীঃ ১০৪০, ইসলামিক ফাউন্ডেশনঃ ১০৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে এ দু’ সালাত একত্রে আদায় করতেন অর্থাৎ মাগরিব ও ‘ইশা। (১১০৮) (আধুনিক প্রকাশনীঃ ১০৪০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1110</td></tr><tr><td>Arabic No</td><td>1110</td></tr><tr><td>Reference</td><td>Book 18 Hadith 30</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami ['Abdush S
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பயணத்தில் -மஃக்ரிப், இஷா ஆகிய- இவ்விரு தொழுகைகளையும் சேர்த்துத் தொழுவார்கள். அத்தியாயம் : 18
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பயணத்தில் -மஃக்ரிப், இஷா ஆகிய- இவ்விரு தொழுகைகளையும் சேர்த்துத் தொழுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1110</td></tr><tr><td>Arabic No</td><td>1110</td></tr><tr><td>Reference</td><td>Book 18 Hadith 30</td></tr></tbody></table></div>
 

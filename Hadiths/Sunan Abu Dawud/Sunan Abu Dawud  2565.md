@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ .... আলী ইবন আবূ তালিব (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে একটি খচ্চর হাদীয়াস্বরূপ প্রদান করা হয়েছিল। তিনি এর উপর আরোহণ করেছিলেন। তখন আলী (রাঃ) বললেন, আমরা যদি গাধার সাথে ঘোড়ার পাল দিতাম, তবে এরূপ খচ্চর পেতে পেতাম। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, যারা ভালো-মন্দের স্বাভাবিক জ্ঞান রাখে না, তারাই এরূপ করে থাকে।
+। ‘আলী ইবনু আবূ তালিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে একটি খচ্চর উপঢৌকন দেয়া হয়। তিনি এর উপর আরোহণ করলেন। তখন ‘আলী (রাঃ) বললেন, ‘আমরা গাধা ও ঘোটকীর যৌনমিলন ঘটাতে পারলে আমাদেরও এরূপ খচ্চর হতো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ নিঃসন্দেহে মূর্খরাই এরূপ করে থাকে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২০৯৬, আন্তর্জাতিক নাম্বারঃ ৯৫২ ২০৯৬-(৬৪/৯৫২) আবূ বকর ইবনু আবূ শায়বাহ (রহ) ...... জবির ইবনু আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাজাশীর জন্য গায়েবানা জানাযাহ আদায় করেছেন এবং চার তাকবীরে সালাতুল জানাযাহ আদায় করেন। (ইসলামী ফাউন্ডেশন ২০৭৫, ইসলামীক সেন্টার ২০৭৯)
+আবূ বকর ইবনু আবূ শায়বাহ (রহ) ...... জবির ইবনু আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাজাশীর জন্য গায়েবানা জানাযাহ আদায় করেছেন এবং চার তাকবীরে সালাতুল জানাযাহ আদায় করেন। (ইসলামী ফাউন্ডেশন ২০৭৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2207</td></tr><tr><td>Arabic No</td><td>952.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் "அஸ்ஹமா" எனும் நஜாஷீ (மன்னரு)க்கு நான்கு "தக்பீர்" கூறி (ஜனாஸாத் தொழுகை நடத்தி)னார்கள். அத்தியாயம் : 11
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் "அஸ்ஹமா" எனும் நஜாஷீ (மன்னரு)க்கு நான்கு "தக்பீர்" கூறி (ஜனாஸாத் தொழுகை நடத்தி)னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2207</td></tr><tr><td>Arabic No</td><td>952.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
 

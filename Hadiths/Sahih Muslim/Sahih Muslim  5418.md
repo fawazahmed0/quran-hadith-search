@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩১১, আন্তর্জাতিক নাম্বারঃ ২০৬৯ ৫৩১১-(.../...) মুহাম্মাদ ইবনু আবদুল্লাহ রুয্‌যী (রহঃ) ..... কাতাদাহ (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু রিওয়ায়াত করেন। (ইসলামিক ফাউন্ডেশন ৫২৪৪, ইসলামিক সেন্টার ৫২৫৭)
+মুহাম্মাদ ইবনু আবদুল্লাহ রুয্‌যী (রহঃ) ..... কাতাদাহ (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু রিওয়ায়াত করেন। (ইসলামিক ফাউন্ডেশন ৫২৪৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5418</td></tr><tr><td>Arabic No</td><td>2069.10</td></tr><tr><td>Reference</td><td>Book 37 Hadith 33</td></tr></tbody></table></div>
 

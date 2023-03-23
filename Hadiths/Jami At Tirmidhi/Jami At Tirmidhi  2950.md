@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯৫০। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি সঠিক ইলম ব্যতীত কুরআন প্রসঙ্গে কোন কথা বলে, সে যেন জাহান্নামকে নিজের জন্য বাসস্থান বানিয়ে নিল। যঈফ, মিশকাত (২৩৪) নাকদুত তাজ আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি সঠিক ইলম ব্যতীত কুরআন প্রসঙ্গে কোন কথা বলে, সে যেন জাহান্নামকে নিজের জন্য বাসস্থান বানিয়ে নিল। যঈফ, মিশকাত (২৩৪) নাকদুত তাজ আবূ ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2950</td></tr><tr><td>Arabic No</td><td>2950</td></tr><tr><td>Reference</td><td>Book 47 Hadith 1</td></tr></tbody></table></div>
 

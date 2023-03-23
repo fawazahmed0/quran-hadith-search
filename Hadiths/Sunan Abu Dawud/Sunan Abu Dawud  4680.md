@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন সুলায়মান (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন কা'বার দিকে মুখ ফিরানো (সালাতের মধ্যে) শুরু করেন, তখন সাহাবীগণ বলেনঃ ইয়া রাসূলাল্লাহ! তাদের কি অবস্থা হবে, যারা বায়তুল মুকাদ্দাসের দিকে মুখ ফিরিয়ে সালাত আদায়কালীন সময়ে মারা গেছে? তখন আল্লাহ্‌ এ আয়াত নাযিল করেনঃ আল্লাহ্‌ তোমাদের ঈমান অর্থাৎ সালাত বিনষ্ট করবেন না।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কা‘বার দিকে নিবিষ্ট হলে সাহাবীগণ বললেন, হে আল্লাহর রাসূল! যারা বায়তুল মুকাদ্দাসের দিকে ফিরে সালাত পড়া অবস্থায় মারা গেছে তাদের কি হবে? তখন মহান আল্লাহ অবতীর্ণ করলেন, ‘‘আল্লাহ তোমাদের ঈমান (সালাত) বিনষ্ট করবেন না।’’ (সূরা বাকারাঃ ১৪৩)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 42 Hadith 85</td></tr></tbody></table></div>
 
@@ -44,7 +44,7 @@ Ibn ‘Abbas said:when the Prophet (May peace be upon him) turned towards the Ka
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] dan [Utsman bin Abu Syaibah] secara makna, keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Simak] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Ketika Nabi shallallahu 'alaihi wasallam (Shalat) menghadap ke arah Ka'bah orang-orang bertanya, "Wahai Rasulullah, bagaimana dengan orang-orang yang telah meninggal, sementara mereka (dahulu) shalat menghadap ke arah Baitul Maqdis?" Maka Allah Azza Wa Jalla kemudian menurunkan ayat: '(dan Allah tidak akan menyia-nyiakan imanmu) ' -Qs. Al Baqarah: 143
+Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] dan [Utsman bin Abu Syaibah] secara makna, keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Simak] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Ketika Nabi shallallahu 'alaihi wasallam (Shalat) menghadap ke arah Ka'bah orang-orang bertanya, "Wahai Rasulullah, bagaimana dengan orang-orang yang telah meninggal, sementara mereka (dahulu) shalat menghadap ke arah Baitul Maqdis?" Maka Allah Azza Wa Jalla kemudian menurunkan ayat: '(dan Allah tidak akan menyia-nyiakan imanmu) ' -Qs. Al Baqarah:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 42 Hadith 85</td></tr></tbody></table></div>
 

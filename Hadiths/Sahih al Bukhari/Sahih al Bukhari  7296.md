@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন ঃ লোকেরা একে অপরকে প্রশ্ন করতে থাকবে যে, এ আল্লাহ সব কিছুরই স্রষ্টা, তাহলে আল্লাহকে কে সৃষ্টি করল?[1] [মুসলিম ১/৬০, হাঃ ১৩৬] (আধুনিক প্রকাশনী- ৬৭৮৬, ইসলামিক ফাউন্ডেশন- ৬৭৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন ঃ লোকেরা একে অপরকে প্রশ্ন করতে থাকবে যে, এ আল্লাহ সব কিছুরই স্রষ্টা, তাহলে আল্লাহকে কে সৃষ্টি করল?[1] [মুসলিম ১/৬০, হাঃ ১৩৬] (আধুনিক প্রকাশনী- ৬৭৮৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7296</td></tr><tr><td>Arabic No</td><td>7296</td></tr><tr><td>Reference</td><td>Book 96 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Hasan bin Shabbah] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மக்கள் (பல புதிரான விஷயங்கள் குறித்து) ஒருவரையொருவர் கேள்வி கேட்டுக்கொண்டேயிருப்பார்கள். இறுதி யில், “அனைத்துப் பொருட்களையும் படைத்தவன் அல்லாஹ்; இது (சரிதான்). அல்லாஹ்வைப் படைத்தவன் யார்?” என்றுகூடக் கேட்பார்கள். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள் அத்தியாயம் : 96
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மக்கள் (பல புதிரான விஷயங்கள் குறித்து) ஒருவரையொருவர் கேள்வி கேட்டுக்கொண்டேயிருப்பார்கள். இறுதி யில், “அனைத்துப் பொருட்களையும் படைத்தவன் அல்லாஹ்; இது (சரிதான்). அல்லாஹ்வைப் படைத்தவன் யார்?” என்றுகூடக் கேட்பார்கள். இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள் அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7296</td></tr><tr><td>Arabic No</td><td>7296</td></tr><tr><td>Reference</td><td>Book 96 Hadith 27</td></tr></tbody></table></div>
 

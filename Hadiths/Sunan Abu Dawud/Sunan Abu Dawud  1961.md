@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আল ‘আলা ...... ইমাম যুহরী (রহঃ) হতে বর্ণিত। তিনি বলেন, উসমান (রাঃ) মিনাতে অবস্থানকালে চার রাক‘আত নামায আদায় করেন। আর তা এজন্য যে, তিনি যিল হজ্জের পর মক্কায় অবস্থানের জন্য কৃতসংকল্প ছিলেন।
+। আয-যুহরী (রহ.) সূত্রে বর্ণিত। ‘উসমান (রাযি.) মিনাতে চার রাক‘আত সালাত আদায় করেছেন। কারণ তিনি হজের (হজ্জের) পর সেখানে কিছুদিন অবস্থান করার সিদ্ধান্ত নিয়েছিলেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1961</td></tr><tr><td>Arabic No</td><td>1961</td></tr><tr><td>Reference</td><td>Book 11 Hadith 241</td></tr></tbody></table></div>
 

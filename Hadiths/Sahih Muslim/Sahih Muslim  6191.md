@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬০৮৫, আন্তর্জাতিক নাম্বারঃ ২৩৯১ ৬০৮৫-(…/...) কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... সালিহ (রাযিঃ) হতে ইউনুসের সূত্রে অবিকল হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৫৯৭৫, ইসলামিক সেন্টার ৬০১৪)
+(…/...) কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... সালিহ (রাযিঃ) হতে ইউনুসের সূত্রে অবিকল হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৫৯৭৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6191</td></tr><tr><td>Arabic No</td><td>2391.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 22</td></tr></tbody></table></div>
 

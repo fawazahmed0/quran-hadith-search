@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৬০৪। কায়েস ইবনে সাদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট আসেন। আমরা তাঁর ঠান্ডা হওয়ার জন্য পানি রাখি। তিনি গোসল করলেন। আমি তাঁর জন্য হলুদ রং-এর একটি চাদর নিয়ে এলাম। আমি তাঁর পিঠে হলুদ রং-এর ছাপ দেখতে পেলাম।
+। কায়েস ইবনে সাদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট আসেন। আমরা তাঁর ঠান্ডা হওয়ার জন্য পানি রাখি। তিনি গোসল করলেন। আমি তাঁর জন্য হলুদ রং-এর একটি চাদর নিয়ে এলাম। আমি তাঁর পিঠে হলুদ রং-এর ছাপ দেখতে পেলাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 32 Hadith 55</td></tr></tbody></table></div>
 

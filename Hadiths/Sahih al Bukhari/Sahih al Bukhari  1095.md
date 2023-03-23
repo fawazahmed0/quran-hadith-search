@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহ.) হতে বর্ণিত। তিনি বলেন, ইবনু ‘উমার (রাযি.) তাঁর সওয়ারীর উপর (নফল) সালাত আদায় করতেন এবং এর উপর বিতরও আদায় করতেন। তিনি বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন করতেন। (৯৯৯) (আধুনিক প্রকাশনীঃ ১০২৮, ইসলামিক ফাউন্ডেশনঃ ১০৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহ.) হতে বর্ণিত। তিনি বলেন, ইবনু ‘উমার (রাযি.) তাঁর সওয়ারীর উপর (নফল) সালাত আদায় করতেন এবং এর উপর বিতরও আদায় করতেন। তিনি বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন করতেন। (৯৯৯) (আধুনিক প্রকাশনীঃ ১০২৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1095</td></tr><tr><td>Arabic No</td><td>1095</td></tr><tr><td>Reference</td><td>Book 18 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdul 'a'laa bin Hammad] berkata, telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் தமது ஊர்தி ஒட்டகத்தில் அமர்ந்து கூடுதலான தொழுகைகளையும் ‘வித்ர்’ தொழுகையையும் தொழுவார்கள். “நபி (ஸல்) அவர்கள் அவ்வாறு செய்வார்கள்” என்றும் குறிப்பிடுவார்கள். அத்தியாயம் : 18
+நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் தமது ஊர்தி ஒட்டகத்தில் அமர்ந்து கூடுதலான தொழுகைகளையும் ‘வித்ர்’ தொழுகையையும் தொழுவார்கள். “நபி (ஸல்) அவர்கள் அவ்வாறு செய்வார்கள்” என்றும் குறிப்பிடுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1095</td></tr><tr><td>Arabic No</td><td>1095</td></tr><tr><td>Reference</td><td>Book 18 Hadith 15</td></tr></tbody></table></div>
 

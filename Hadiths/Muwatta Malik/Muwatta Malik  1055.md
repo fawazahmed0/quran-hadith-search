@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৭. মালিক (রহঃ) বলেনঃ তাহার নিকট রেওয়ায়ত পৌছিয়াছে যে, সা'দ ইবন আবী ওয়াক্কাস (রাঃ)-কে জিজ্ঞাসা করা হইয়াছিল, প্রশিক্ষণপ্রাপ্ত কুকুর যদি কোন প্রাণী শিকার করিয়া কিছু ভক্ষণ করিয়া ফেলে তবে কি হইবে? তিনি বলিলেনঃ একটি টুকরাও যদি রাখে তবুও তাহা খাইয়া নিও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1055</td></tr><tr><td>Arabic No</td><td>1055</td></tr><tr><td>Reference</td><td>Book 25 Hadith 4</td></tr></tbody></table></div>
 

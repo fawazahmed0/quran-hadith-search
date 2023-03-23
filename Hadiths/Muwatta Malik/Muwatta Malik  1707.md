@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya related to me from Malik from Yahya ibn Said that Umar ibn al-Khattab said, "Beware of meat. It has addictiveness like the addictiveness of wine." Yahya related to me from Malik from Yahya ibn Said that Umar ibn al-Khattab saw Jabir ibn Abdullah carrying some meat. He said, "What is this?" He said, "Amir al- muminin. We desired meat and I bought some meat for a dirham." Umar said, "Does one of you want to fill his belly apart from his neighbour or nephew? How can you overlook this ayat? 'You squandered your good things in the life of this world and sought comfort in them.' " (Sura 46 ayat 20)
+Yahya related to me from Malik from Yahya ibn Said that Umar ibn al-Khattab said, "Beware of meat. It has addictiveness like the addictiveness of wine." Yahya related to me from Malik from Yahya ibn Said that Umar ibn al-Khattab saw Jabir ibn Abdullah carrying some meat. He said, "What is this?" He said, "Amir al- muminin. We desired meat and I bought some meat for a dirham." Umar said, "Does one of you want to fill his belly apart from his neighbour or nephew? How can you overlook this ayat? 'You squandered your good things in the life of this world and sought comfort in them.' " (Sura 46 ayat)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1707</td></tr><tr><td>Arabic No</td><td>1707</td></tr><tr><td>Reference</td><td>Book 49 Hadith 37</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Yahia Ibn Sa'id a rapporté que Omar Ibn Al-Khattab a dit:«Gardez-vous de la vi
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku dari Malik dari [Yahya bin Sa'id] bahwa [Umar bin Khattab] bertemu Jabir bin Abdullah yang sedang membawa daging. Lalu Umar bertanya; "Apa ini?" Jabir menjawab, "Wahai Amirul Mukminin, kami sedang berselera untuk makan daging, lalu aku membelinya dengan satu dirham." Umar bertanya; 'Apakah salah seorang dari kalian mengisi perutnya dengan mengabaikan tetangga atau anak pamannya? Lalu akan kalian apakan ayat Allah ini: '(Kalian jauhkan kebaikan-kebaikan kalian pada kehidupan dunia sedang kalian bersenang-senang dengannya) ' (Qs. Al Ahqaaf: 20)
+Telah menceritakan kepadaku dari Malik dari [Yahya bin Sa'id] bahwa [Umar bin Khattab] bertemu Jabir bin Abdullah yang sedang membawa daging. Lalu Umar bertanya; "Apa ini?" Jabir menjawab, "Wahai Amirul Mukminin, kami sedang berselera untuk makan daging, lalu aku membelinya dengan satu dirham." Umar bertanya; 'Apakah salah seorang dari kalian mengisi perutnya dengan mengabaikan tetangga atau anak pamannya? Lalu akan kalian apakan ayat Allah ini: '(Kalian jauhkan kebaikan-kebaikan kalian pada kehidupan dunia sedang kalian bersenang-senang dengannya) ' (Qs. Al Ahqaaf:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1707</td></tr><tr><td>Arabic No</td><td>1707</td></tr><tr><td>Reference</td><td>Book 49 Hadith 37</td></tr></tbody></table></div>
 

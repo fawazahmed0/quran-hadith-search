@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৯। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যখন তুমি ওযু করবে তখন দুই হাত ও দুই পায়ের আঙ্গুল খিলাল করবে। -হাসান সহীহ। ইবনু মাজাহ– (৪৪৭)। আবু ঈসা বলেনঃ হাদীসটি হাসান গারীব।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যখন তুমি ওযু করবে তখন দুই হাত ও দুই পায়ের আঙ্গুল খিলাল করবে। -হাসান সহীহ। ইবনু মাজাহ– (৪৪৭)। আবু ঈসা বলেনঃ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>39</td></tr><tr><td>Arabic No</td><td>39</td></tr><tr><td>Reference</td><td>Book 1 Hadith 39</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর কালে চাঁদ খন্ডিত হয়েছিল। [৩৬৩৮] (আধুনিক প্রকাশনীঃ ৪৪৯৯, ইসলামিক ফাউন্ডেশনঃ ৪৫০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর কালে চাঁদ খন্ডিত হয়েছিল। [৩৬৩৮] (আধুনিক প্রকাশনীঃ ৪৪৯৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4866</td></tr><tr><td>Arabic No</td><td>4866</td></tr><tr><td>Reference</td><td>Book 65 Hadith 387</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] dia berkata; Telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் காலத்தில் சந்திரன் (இரண்டாகப்) பிளவுபட்டது.3 அத்தியாயம் : 65
+அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் காலத்தில் சந்திரன் (இரண்டாகப்) பிளவுபட்டது.3 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4866</td></tr><tr><td>Arabic No</td><td>4866</td></tr><tr><td>Reference</td><td>Book 65 Hadith 387</td></tr></tbody></table></div>
 

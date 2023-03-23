@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন হাম্বল (রহঃ) ..... আবদুল্লাহ্ ইবন উমার (রাঃ) হতে বর্ণিত। তিনি রাসুল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে মুহরিম স্ত্রীলোকদেরকে হাতমোজা না পরতে এবং মুখমন্ডলে নেকাব না ঝুলাতে নিষেধ শুনেছেন এবং ওয়ারস ও জা‘ফরান মিশ্রিত কাপড় ব্যবহার করতেও নিষেধ করেছেন। তাছাড়া অন্যান্য প্রকারের কাপড় তারা পরিধান করতে পারবে, যদিও তা হলুদ রং বিশিষ্ট হয়, অথবা রেশমী কাপড় বা গহনাপত্র, কিংবা পায়জামা কিংবা কামীস বা মোজা হয়।
+। ‘আব্দুল্লাহ ইবনু ‘উমার (রাযি.) সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ইহরাম অবস্থায় নারীদের হাত মোজা ও মুখমন্ডলের নিকাব ঝুলাতে এবং ‘ওয়ারস’ ঘাস ও জাফরান মিশ্রিত কাপড় পরতে নিষেধ করতে শুনেছেন। তবে এগুলো বাদে অন্য কাপড় পরতে পারবে, যদিও তা রেশমী, কারুকার্য খচিত পায়জামা বা জামা কিংবা মোজা হয়।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1827</td></tr><tr><td>Arabic No</td><td>1827</td></tr><tr><td>Reference</td><td>Book 11 Hadith 107</td></tr></tbody></table></div>
 

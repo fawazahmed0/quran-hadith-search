@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৩৩৫১। আতিয়্যা ইবনে ‘আমের আল-জুহানী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি সালমান (রাঃ) এর নিকট শুনেছি যে, তাকে আহার করতে পীড়াপীড়ি করা হলে তিনি বলতেন, আমার জন্য যথেষ্ট যে, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ দুনিয়াতে যেসব লোক ভুরিভোজ করে, তারাই হবে কিয়ামতের দিন অধিক ক্ষুধার্ত।
+। আতিয়্যা ইবনে ‘আমের আল-জুহানী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি সালমান (রাঃ) এর নিকট শুনেছি যে, তাকে আহার করতে পীড়াপীড়ি করা হলে তিনি বলতেন, আমার জন্য যথেষ্ট যে, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ দুনিয়াতে যেসব লোক ভুরিভোজ করে, তারাই হবে কিয়ামতের দিন অধিক ক্ষুধার্ত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3351</td></tr><tr><td>Arabic No</td><td>3351</td></tr><tr><td>Reference</td><td>Book 29 Hadith 101</td></tr></tbody></table></div>
 

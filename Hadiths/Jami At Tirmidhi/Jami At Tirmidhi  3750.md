@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৫০। আবূ সালামাহ্ (রহঃ) হতে বর্ণিত আছে যে, আবদুর রহমান ইবনু আওফ (রাযিঃ) তার একটি বাগিচা উম্মুহাতুল মু'মিনীনদের জন্য উৎসর্গ করেন তা চার লক্ষ দিরহাম মূল্যে বিক্রয় করা হয়। সনদ হাসানঃ পূর্বের হাদীসের সহায়তায় সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
+। আবূ সালামাহ্ (রহঃ) হতে বর্ণিত আছে যে, আবদুর রহমান ইবনু আওফ (রাযিঃ) তার একটি বাগিচা উম্মুহাতুল মু'মিনীনদের জন্য উৎসর্গ করেন তা চার লক্ষ দিরহাম মূল্যে বিক্রয় করা হয়। সনদ হাসানঃ পূর্বের হাদীসের সহায়তায় সহীহ। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3750</td></tr><tr><td>Arabic No</td><td>3750</td></tr><tr><td>Reference</td><td>Book 49 Hadith 147</td></tr></tbody></table></div>
 

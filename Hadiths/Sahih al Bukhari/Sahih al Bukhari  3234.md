@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যে ব্যক্তি মনে করবে যে, মুহাম্মদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর রবকে দেখেছেন, সে ব্যক্তি মহা ভুল করবে। বরং তিনি জিব্রাঈল (আঃ)-কে তাঁর আসল আকার ও চেহারায় দেখেছেন। তিনি আকাশের দিকচক্রবাল জুড়ে অবস্থান করছিলেন। (৩২৩৫, ৪৬১২, ৪৮৫৫, ৭৩৯০, ৭৫৩১) (মুসলিম ১/৭৭ হাঃ ১৭৭) (আধুনিক প্রকাশনীঃ ২৯৯৪, ইসলামিক ফাউন্ডেশনঃ ৩০০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যে ব্যক্তি মনে করবে যে, মুহাম্মদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর রবকে দেখেছেন, সে ব্যক্তি মহা ভুল করবে। বরং তিনি জিব্রাঈল (আঃ)-কে তাঁর আসল আকার ও চেহারায় দেখেছেন। তিনি আকাশের দিকচক্রবাল জুড়ে অবস্থান করছিলেন। (৩২৩৫, ৪৬১২, ৪৮৫৫, ৭৩৯০, ৭৫৩১) (মুসলিম ১/৭৭ হাঃ ১৭৭) (আধুনিক প্রকাশনীঃ ২৯৯৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3234</td></tr><tr><td>Arabic No</td><td>3234</td></tr><tr><td>Reference</td><td>Book 59 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Aisha:Whoever claimed that (the Prophet) Muhammad saw his Lord, is comm
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ‘‘முஹம்மத் (ஸல்) அவர்கள் தம் இறைவனை (நேரில்) பார்த்தார்கள்” என்று கூறுபவர் பெரிய தவறு புரிந்துவிட்டார்; எனினும், அவர்கள் (வானவர் ஜிப்ரீல் (அலை) அவர்களை, அவர்களின் (சொந்த) உருவிலும் அமைப்பிலும் அடிவானத்திற்கு இடைப்பட்டதை அடைத்தபடி (தோற்ற மளிக்கக்) கண்டார்கள். அத்தியாயம் : 59
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ‘‘முஹம்மத் (ஸல்) அவர்கள் தம் இறைவனை (நேரில்) பார்த்தார்கள்” என்று கூறுபவர் பெரிய தவறு புரிந்துவிட்டார்; எனினும், அவர்கள் (வானவர் ஜிப்ரீல் (அலை) அவர்களை, அவர்களின் (சொந்த) உருவிலும் அமைப்பிலும் அடிவானத்திற்கு இடைப்பட்டதை அடைத்தபடி (தோற்ற மளிக்கக்) கண்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3234</td></tr><tr><td>Arabic No</td><td>3234</td></tr><tr><td>Reference</td><td>Book 59 Hadith 45</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated Aisha:Whoever claimed that (the Prophet) Muhammad saw his Lord, is comm
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe radiyallahu anha'nın şöyle dediği nakledilmiştir: "Kim Muhammed'in, Rabbini gördüğünü ileri sürüyorsa şüphesiz çok aşırı bir düşünceye saplanmıştır. Ancak Resulullah Sallallahu Aleyhi ve Sellem, Cebrail'i bütün bir ufku kaplamış şekilde kendi aslı suretinde ve yaratılışında görmüştür." Tekrar: 4612, 4855, 7380, 7531
+Aişe radiyallahu anha'nın şöyle dediği nakledilmiştir: "Kim Muhammed'in, Rabbini gördüğünü ileri sürüyorsa şüphesiz çok aşırı bir düşünceye saplanmıştır. Ancak Resulullah Sallallahu Aleyhi ve Sellem, Cebrail'i bütün bir ufku kaplamış şekilde kendi aslı suretinde ve yaratılışında görmüştür." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3234</td></tr><tr><td>Arabic No</td><td>3234</td></tr><tr><td>Reference</td><td>Book 59 Hadith 45</td></tr></tbody></table></div>
 

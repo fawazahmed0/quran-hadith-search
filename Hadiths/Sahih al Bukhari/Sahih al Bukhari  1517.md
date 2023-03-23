@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুমামা ইবনু ‘আবদুল্লাহ ইবনু আনাস হতে বর্ণিত যে, আনাস (রাঃ) হাওদায় আরোহণ অবস্থায় হাজ্জে গমন করেছেন অথচ তিনি কৃপণ ব্যক্তি ছিলেন না। তিনি আরো বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাওদায় আরোহণ করে হজ্জে গমন করেন এবং সেই উটটিই তাঁর মালের বাহন ছিলো। (আধুনিক প্রকাশনীঃ অনুচ্ছেদ ৩, ইসলামিক ফাউন্ডেশনঃ অনুচ্ছেদ ৯৬৩ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1517</td></tr><tr><td>Arabic No</td><td>1517</td></tr><tr><td>Reference</td><td>Book 25 Hadith 5</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Abu Bakar] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸுமாமா பின் அப்தில்லாஹ் பின் அனஸ் (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் ஒட்டகத்தின் சேணத்தில் அமர்ந்து ஹஜ்ஜுக்குச் சென்றார்கள். அவர்கள் கஞ்சராக இருக்க வில்லை. அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒட்டகச் சேணத்தில் அமர்ந்து ஹஜ்ஜுக் குச் சென்றதாகவும் அதுவே அவர்களின் பொதி சுமக்கும் ஒட்டகமாக இருந்ததாக வும் அனஸ் (ரலி) அவர்கள் (எங்களுக்கு) அறிவித்தார்கள். அத்தியாயம் : 25
+ஸுமாமா பின் அப்தில்லாஹ் பின் அனஸ் (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்கள் ஒட்டகத்தின் சேணத்தில் அமர்ந்து ஹஜ்ஜுக்குச் சென்றார்கள். அவர்கள் கஞ்சராக இருக்க வில்லை. அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒட்டகச் சேணத்தில் அமர்ந்து ஹஜ்ஜுக் குச் சென்றதாகவும் அதுவே அவர்களின் பொதி சுமக்கும் ஒட்டகமாக இருந்ததாக வும் அனஸ் (ரலி) அவர்கள் (எங்களுக்கு) அறிவித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1517</td></tr><tr><td>Arabic No</td><td>1517</td></tr><tr><td>Reference</td><td>Book 25 Hadith 5</td></tr></tbody></table></div>
 

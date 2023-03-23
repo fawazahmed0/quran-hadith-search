@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) সূত্র নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ কাফিরের দু’কাঁধের মাঝের দূরত্ব একজন দ্রুতগতি অশ্বারোহীর তিন দিনের ভ্রমণপথের সমান হবে। (আধুনিক প্রকাশনী- ৬১০০, ইসলামিক ফাউন্ডেশন- ৬১০৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) সূত্র নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ কাফিরের দু’কাঁধের মাঝের দূরত্ব একজন দ্রুতগতি অশ্বারোহীর তিন দিনের ভ্রমণপথের সমান হবে। (আধুনিক প্রকাশনী- ৬১০০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6551</td></tr><tr><td>Arabic No</td><td>6551</td></tr><tr><td>Reference</td><td>Book 81 Hadith 140</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Huraira: The Prophet (ﷺ) said, "The width between the two shoulde
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (நரகத்தில்) இறைமறுப்பாளரின் இரு தோள் புஜங்களுக்கிடையே உள்ள தூரம், துரிதமாகப் பயணிப்பவர் மூன்று நாட்கள் கடக்கும் தூரமாகும்.130 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 81
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (நரகத்தில்) இறைமறுப்பாளரின் இரு தோள் புஜங்களுக்கிடையே உள்ள தூரம், துரிதமாகப் பயணிப்பவர் மூன்று நாட்கள் கடக்கும் தூரமாகும்.130 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6551</td></tr><tr><td>Arabic No</td><td>6551</td></tr><tr><td>Reference</td><td>Book 81 Hadith 140</td></tr></tbody></table></div>
 

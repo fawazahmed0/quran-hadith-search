@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন, যে আমাকে স্বপ্ন দেখে সে প্রকৃতই দেখে। কারণ শয়তান আমার আকৃতি ধরতে পারে না। (আধুনিক প্রকাশনী- ৬৫১৩, ইসলামিক ফাউন্ডেশন- ৬৫২৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন, যে আমাকে স্বপ্ন দেখে সে প্রকৃতই দেখে। কারণ শয়তান আমার আকৃতি ধরতে পারে না। (আধুনিক প্রকাশনী- ৬৫১৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6997</td></tr><tr><td>Arabic No</td><td>6997</td></tr><tr><td>Reference</td><td>Book 91 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (கனவில்) யார் என்னைக் கண்டாரோ நிச்சயமாக அவர் உண்மையையே கண்டார். ஏனெனில், ஷைத்தான் என் உருவத்தில் (காட்சியளிப்பவனாக) இருக்கமாட்டான். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 91
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (கனவில்) யார் என்னைக் கண்டாரோ நிச்சயமாக அவர் உண்மையையே கண்டார். ஏனெனில், ஷைத்தான் என் உருவத்தில் (காட்சியளிப்பவனாக) இருக்கமாட்டான். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6997</td></tr><tr><td>Arabic No</td><td>6997</td></tr><tr><td>Reference</td><td>Book 91 Hadith 16</td></tr></tbody></table></div>
 

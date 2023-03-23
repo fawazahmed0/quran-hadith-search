@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন ইয়াহইয়া (রহঃ) ... মূসা ইবনু তালহা (রাঃ) থেকে বর্ণিত যে, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে একটি খরগোশ নিয়ে আসল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার দিকে হাত বাড়িয়ে দিলেন। তখন বাহক বলল যে, আমি এর সাথে রক্ত দেখেছি তারপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাত গুটিয়ে নিলেন এবং সাহাবীদের নির্দেশ দিলেন যে, তোমরা খাও, উপস্থিত সাহাবীদের মধ্যে একজন পাশে বসা ছিল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন তোমার কি হল? সে বলল যে, আমি সাওম পালন করছি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন, তুমি আইয়ামে বীযের তিন দিনের সাওম কখনো পরিত্যাগ করবে না। অর্থাৎ তের তারিখ, চৌদ্দ তারিখ এবং পনের তারিখের সাওম ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2428</td></tr><tr><td>Arabic No</td><td>2428</td></tr><tr><td>Reference</td><td>Book 22 Hadith 339</td></tr></tbody></table></div>
 

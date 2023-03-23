@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭২২২, আন্তর্জাতিক নাম্বারঃ ২৯১৯ ৭২২২-(.../...) মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... সিমাক ইবনু হারব (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি জাবির ইবনু সামুরাহ (রাযিঃ) হতে শুনেছি, তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে শুনেছি আবু ‘আওয়ানাহ্ (রহঃ) এর হাদীসের অবিকল। (ইসলামিক ফাউন্ডেশন ৭০৬৮, ইসলামিক সেন্টার ৭১২২)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

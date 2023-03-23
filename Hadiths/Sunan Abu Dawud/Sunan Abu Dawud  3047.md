@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আবদ মুহারিবী (রহঃ) ..... হারব ইবন উবায়দুল্লাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে পূর্বোক্ত হাদীছের অর্থের অনুরূপ হাদীছ বর্ণনা করেছেন, যাতে তিনি 'উশর' শব্দের পরিবর্তে 'খারাজ' শব্দের উল্লেখ করেছেন।
+। হারব ইবনু ‘উবাইদুল্লাহ (রাঃ) তার সনদ পরম্পরায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর এ হাদীসটি বর্ণনা করেন। তবে তাতে উশরের স্থলে খাযরাজ শব্দ উল্লেখ আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3047</td></tr><tr><td>Arabic No</td><td>3047</td></tr><tr><td>Reference</td><td>Book 20 Hadith 120</td></tr></tbody></table></div>
 

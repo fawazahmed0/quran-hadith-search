@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘‘আত্বা (রহ.) হতে বর্ণিত আছে যে, জাবির ইবনু ‘আবদুল্লাহ (রাঃ) মনে করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি রসূন বা পেঁয়াজ খাবে, সে যেন আমাদের হতে দূরে থাকে। অথবা তিনি বলেছেন, সে যেন আমাদের মাসজিদ হতে দূরে থাকে। [৮৫৪] (আধুনিক প্রকাশনী- ৫০৪৯, ইসলামিক ফাউন্ডেশন- ৪৯৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘‘আত্বা (রহ.) হতে বর্ণিত আছে যে, জাবির ইবনু ‘আবদুল্লাহ (রাঃ) মনে করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি রসূন বা পেঁয়াজ খাবে, সে যেন আমাদের হতে দূরে থাকে। অথবা তিনি বলেছেন, সে যেন আমাদের মাসজিদ হতে দূরে থাকে। [৮৫৪] (আধুনিক প্রকাশনী- ৫০৪৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5452</td></tr><tr><td>Arabic No</td><td>5452</td></tr><tr><td>Reference</td><td>Book 70 Hadith 81</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அதாஉ (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘வெள்ளைப் பூண்டோ வெங்காயமோ சாப்பிட்டவர் ‘நம்மிடமிருந்து விலகியிருக்கட்டும்’ அல்லது ‘நம் பள்ளிவாசலிலிருந்து விலகி யிருக்கட்டும்’ ‘‘ என்று சொன்னதாக ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறினார்கள்.71 அத்தியாயம் : 70
+அதாஉ (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், ‘‘வெள்ளைப் பூண்டோ வெங்காயமோ சாப்பிட்டவர் ‘நம்மிடமிருந்து விலகியிருக்கட்டும்’ அல்லது ‘நம் பள்ளிவாசலிலிருந்து விலகி யிருக்கட்டும்’ ‘‘ என்று சொன்னதாக ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறினார்கள்.71 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5452</td></tr><tr><td>Arabic No</td><td>5452</td></tr><tr><td>Reference</td><td>Book 70 Hadith 81</td></tr></tbody></table></div>
 

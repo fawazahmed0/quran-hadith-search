@@ -16,21 +16,21 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ بْنِ سَعْدٍ، قَالَ أَخْبَرَنِي أَبِي، عَنْ جَدِّي، قَالَ أَخْبَرَنِي شُعَيْبُ بْنُ إِسْحَاقَ، عَنِ الأَوْزَاعِيِّ، وَابْنِ أَبِي عَرُوبَةَ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ كَانَ يَقُولُ ‏ "‏ أَلاَ لاَ تَقَدَّمُوا الشَّهْرَ بِيَوْمٍ أَوِ اثْنَيْنِ إِلاَّ رَجُلٌ كَانَ يَصُومُ صِيَامًا فَلْيَصُمْهُ ‏"‏ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اخبرنا عبد الملك بن شعيب بن الليث بن سعد، قال اخبرني ابي، عن جدي، قال اخبرني شعيب بن اسحاق، عن الاوزاعي، وابن ابي عروبة، عن يحيى بن ابي كثير، عن ابي سلمة، عن ابي هريرة، عن رسول الله صلى الله عليه وسلم انه كان يقول " الا لا تقدموا الشهر بيوم او اثنين الا رجل كان يصوم صياما فليصمه
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
 
 ## Bengali
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আব্দুল মালিক ইবনু শুআয়ব (রহঃ) ... আবূ হুরায়রা (রাঃ) সুত্রে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত যে, তিনি বলতেনঃ খবরদার! তোমরা রমযান মাসকে এক অথবা দুই দিনের সাওম (সিয়াম/রোজা/রোযা) পালন দ্বারা অগ্রে নিয়ে আসবে না। হ্যাঁ, ঐ ব্যক্তি যে নিয়মিত সাওম পালন করে, সে ঐদিনও সাওম পালন করতে পারবে।
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
 
 ## English
 
@@ -38,7 +38,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Hurairah that the Messenger of Allah used to say:"Do not fast one or two days ahead of the month, unless the one who used to observe a regular fast. In that case let him fast
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
 
 ## Indonesian
 
@@ -46,7 +46,7 @@ It was narrated from Abu Hurairah that the Messenger of Allah used to say:"Do no
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami ['Abdul Malik bin Syu'aib bin Al Laits bin Sa'd] dia berkata; [bapakku] telah mengabarkan kepadaku dari [kakekku], dia berkata; telah mengabarkan kepadaku [Syu'aib bin Ishaq] dari [Al Auza'i] dan [Ibnu Abu 'Arubah] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Ketahuilah, janganlah kalian mendahului bulah (Ramadlan) dengan berpuasa sehari atau dua hari, kecuali seseorang yang biasa berpuasa, maka hendaknya ia berpuasa
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
 
 ## Turkish
 
@@ -54,7 +54,7 @@ Telah mengabarkan kepada kami ['Abdul Malik bin Syu'aib bin Al Laits bin Sa'd] d
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
 
 ## Urdu
 
@@ -62,4 +62,4 @@ Telah mengabarkan kepada kami ['Abdul Malik bin Syu'aib bin Al Laits bin Sa'd] d
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی الله عنہ روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کہتے تھے: ”سنو! رمضان کے مہینہ سے ایک یا دو روز پہلے روزہ مت رکھو، البتہ جو شخص پہلے سے روزہ رکھتا رہا ہو تو وہ رکھے“۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Or Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 22 Hadith 101</td></tr></tbody></table></div>

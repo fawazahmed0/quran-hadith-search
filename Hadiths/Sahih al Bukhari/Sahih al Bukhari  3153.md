@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু মুগাফফাল (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা খাইবার দুর্গ অবরোধ করেছিলাম। কোন এক লোক একটি থলে ফেলে দিল; তাতে ছিল চর্বি। আমি তা নিতে উদ্যত হলাম। হঠাৎ দেখি যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে আছেন। এতে আমি লজ্জিত হয়ে পড়লাম। (৪২২৪, ৫৫০৮) (মুসলিম ৩২/২৫ হাঃ ১৭৭২) (আধুনিক প্রকাশনীঃ ২৯১৮, ইসলামিক ফাউন্ডেশনঃ ২৯২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু মুগাফফাল (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা খাইবার দুর্গ অবরোধ করেছিলাম। কোন এক লোক একটি থলে ফেলে দিল; তাতে ছিল চর্বি। আমি তা নিতে উদ্যত হলাম। হঠাৎ দেখি যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে আছেন। এতে আমি লজ্জিত হয়ে পড়লাম। (৪২২৪, ৫৫০৮) (মুসলিম ৩২/২৫ হাঃ ১৭৭২) (আধুনিক প্রকাশনীঃ ২৯১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3153</td></tr><tr><td>Arabic No</td><td>3153</td></tr><tr><td>Reference</td><td>Book 57 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் முஃகஃப்பல் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் கைபர் கோட்டையை முற்றுகையிட்டுக்கொண்டிருந்தோம். அப்போது ஒரு மனிதர், கொழுப்பு அடங்கிய தோல்பை ஒன்றை எறிந்தார். நான் அதை எடுக்க விரைந்து சென்றேன். பிறகு திரும்பிப் பார்த்தேன். அங்கே நபி (ஸல்) அவர்கள் இருந்தார்கள். அவர் களைக் கண்டு நான் வெட்கமடைந் தேன். அத்தியாயம் : 57
+அப்துல்லாஹ் பின் முஃகஃப்பல் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் கைபர் கோட்டையை முற்றுகையிட்டுக்கொண்டிருந்தோம். அப்போது ஒரு மனிதர், கொழுப்பு அடங்கிய தோல்பை ஒன்றை எறிந்தார். நான் அதை எடுக்க விரைந்து சென்றேன். பிறகு திரும்பிப் பார்த்தேன். அங்கே நபி (ஸல்) அவர்கள் இருந்தார்கள். அவர் களைக் கண்டு நான் வெட்கமடைந் தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3153</td></tr><tr><td>Arabic No</td><td>3153</td></tr><tr><td>Reference</td><td>Book 57 Hadith 61</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Muğaffel'in şöyle dediği nakledilmiştir: "Biz Hayber kalesini kuşatmıştık. Bu sırada kaledekilerden birisi iç yağı dolu bir tulum attı. Ben de bu tulumu almak için hemen yerimden fırladım. Arkamı döndüğümde Resulullah Sallallahu Aleyhi ve Sellem'i görünce çok utandım." Tekrar: 4224, 5508
+Abdullah İbn Muğaffel'in şöyle dediği nakledilmiştir: "Biz Hayber kalesini kuşatmıştık. Bu sırada kaledekilerden birisi iç yağı dolu bir tulum attı. Ben de bu tulumu almak için hemen yerimden fırladım. Arkamı döndüğümde Resulullah Sallallahu Aleyhi ve Sellem'i görünce çok utandım." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3153</td></tr><tr><td>Arabic No</td><td>3153</td></tr><tr><td>Reference</td><td>Book 57 Hadith 61</td></tr></tbody></table></div>
 

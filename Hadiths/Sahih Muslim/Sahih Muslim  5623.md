@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫১৬, আন্তর্জাতিক নাম্বারঃ ২১৫১ ৫৫১৬-(৩১/২১৫১) মুহাম্মাদ ইবনু উবায়দ গুবারী (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেন, হে বৎস! (ইসলামিক ফাউন্ডেশন ৫৪৩৮, ইসলামিক সেন্টার ৫৪৬০)
+মুহাম্মাদ ইবনু উবায়দ গুবারী (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেন, হে বৎস! (ইসলামিক ফাউন্ডেশন ৫৪৩৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5623</td></tr><tr><td>Arabic No</td><td>2151</td></tr><tr><td>Reference</td><td>Book 38 Hadith 38</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Ubaid Al Ghubari]; Telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் "என் அருமை மகனே!" என்று என்னை அழைத்தார்கள். அத்தியாயம் : 38
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் "என் அருமை மகனே!" என்று என்னை அழைத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5623</td></tr><tr><td>Arabic No</td><td>2151</td></tr><tr><td>Reference</td><td>Book 38 Hadith 38</td></tr></tbody></table></div>
 

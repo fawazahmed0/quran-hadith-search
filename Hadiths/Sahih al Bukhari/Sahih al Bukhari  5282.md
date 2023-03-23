@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেনঃ বারীরার স্বামী কালো গোলাম ছিল। তাকে মুগিস নামে ডাকা হত। সে অমুক গোত্রের গোলাম ছিল। আমি যেন এখনো দেখছি সে মদিনার অলিতে গলিতে বারীরার পিছে পিছে ঘুরছে। [৫২৮০] আধুনিক প্রকাশনী- ৪৮৯৪, ইসলামিক ফাউন্ডেশন- ৪৭৮৯
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেনঃ বারীরার স্বামী কালো গোলাম ছিল। তাকে মুগিস নামে ডাকা হত। সে অমুক গোত্রের গোলাম ছিল। আমি যেন এখনো দেখছি সে মদিনার অলিতে গলিতে বারীরার পিছে পিছে ঘুরছে। [৫২৮০] আধুনিক প্রকাশনী- ৪৮৯৪, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5282</td></tr><tr><td>Arabic No</td><td>5282</td></tr><tr><td>Reference</td><td>Book 68 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: கறுப்பு அடிமையான பரீராவின் கணவர் முஃகீஸ் இன்ன குலத்தாரின் அடிமையாயிருந்தார். அவர் (தம் மனைவி விடுதலையாகி விருப்ப உரிமை அளிக்கப்பட்டபின், தம்மிடமிருந்து பிரிந்து விடுவதைத் தேர்ந்தெடுத்தபோது) மதீனா வின் தெருக்களில் பரீராவுக்குப் பின்னால் சுற்றிச்சுற்றி வந்ததை இப்போதும் நான் காண்பதைப் போன்றுள்ளது. அத்தியாயம் : 68
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: கறுப்பு அடிமையான பரீராவின் கணவர் முஃகீஸ் இன்ன குலத்தாரின் அடிமையாயிருந்தார். அவர் (தம் மனைவி விடுதலையாகி விருப்ப உரிமை அளிக்கப்பட்டபின், தம்மிடமிருந்து பிரிந்து விடுவதைத் தேர்ந்தெடுத்தபோது) மதீனா வின் தெருக்களில் பரீராவுக்குப் பின்னால் சுற்றிச்சுற்றி வந்ததை இப்போதும் நான் காண்பதைப் போன்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5282</td></tr><tr><td>Arabic No</td><td>5282</td></tr><tr><td>Reference</td><td>Book 68 Hadith 31</td></tr></tbody></table></div>
 

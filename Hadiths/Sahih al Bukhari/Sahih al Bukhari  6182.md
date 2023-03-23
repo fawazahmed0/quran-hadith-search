@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আঙ্গুরকে ‘কারম’ বলো না। আর বলবে না বঞ্চিত যুগ। কারণ আল্লাহই যুগ বা কাল। [৬১৮৩; মুসলিম ৪০/১, হাঃ ২২৪৭, আহমাদ ১০৩৭১] (আধুনিক প্রকাশনী- ৫৭৪০, ইসলামিক ফাউন্ডেশন- ৫৬৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আঙ্গুরকে ‘কারম’ বলো না। আর বলবে না বঞ্চিত যুগ। কারণ আল্লাহই যুগ বা কাল। [৬১৮৩; মুসলিম ৪০/১, হাঃ ২২৪৭, আহমাদ ১০৩৭১] (আধুনিক প্রকাশনী- ৫৭৪০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6182</td></tr><tr><td>Arabic No</td><td>6182</td></tr><tr><td>Reference</td><td>Book 78 Hadith 206</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:The Prophet (ﷺ) said, "Don't call the grapes Al-Karm, and don't say 'Khaibat-ad-Dahri, for Allah is the Dahr. (See Hadith No. 202)
+Narrated Abu Huraira:The Prophet (ﷺ) said, "Don't call the grapes Al-Karm, and don't say 'Khaibat-ad-Dahri, for Allah is the Dahr. (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6182</td></tr><tr><td>Arabic No</td><td>6182</td></tr><tr><td>Reference</td><td>Book 78 Hadith 206</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: திராட்சையை (‘கண்ணியமானது’ எனும் பொருள் கொண்ட) ‘அல்கர்ம்’ என்று பெயரிட்டழைக்காதீர்கள். ‘மோசமான காலமே!’ என்று (காலத்தை ஏசிக்) கூறாதீர்கள். ஏனெனில், அல்லாஹ்வே காலம் (படைத்தவன்). இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: திராட்சையை (‘கண்ணியமானது’ எனும் பொருள் கொண்ட) ‘அல்கர்ம்’ என்று பெயரிட்டழைக்காதீர்கள். ‘மோசமான காலமே!’ என்று (காலத்தை ஏசிக்) கூறாதீர்கள். ஏனெனில், அல்லாஹ்வே காலம் (படைத்தவன்). இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6182</td></tr><tr><td>Arabic No</td><td>6182</td></tr><tr><td>Reference</td><td>Book 78 Hadith 206</td></tr></tbody></table></div>
 

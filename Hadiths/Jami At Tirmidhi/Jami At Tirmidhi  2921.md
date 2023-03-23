@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৯২১। ইরবায ইবনু সারিয়া (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘুমানোর পূর্বে মুসাব্বিহাত সূরাসমূহ পাঠ করতেন এবং বলতেনঃ এ আয়াতসমূহের মধ্যে এমন একটি আয়াত আছে, যা হাজার আয়াতের চাইতেও উত্তম। সানাদ দুর্বলঃ তা’লীকুর রাগীব (১/২১০)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
+। ইরবায ইবনু সারিয়া (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘুমানোর পূর্বে মুসাব্বিহাত সূরাসমূহ পাঠ করতেন এবং বলতেনঃ এ আয়াতসমূহের মধ্যে এমন একটি আয়াত আছে, যা হাজার আয়াতের চাইতেও উত্তম। সানাদ দুর্বলঃ তা’লীকুর রাগীব (১/২১০)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2921</td></tr><tr><td>Arabic No</td><td>2921</td></tr><tr><td>Reference</td><td>Book 45 Hadith 47</td></tr></tbody></table></div>
 

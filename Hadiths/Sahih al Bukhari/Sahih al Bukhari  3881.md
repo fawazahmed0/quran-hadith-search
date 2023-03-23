@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ (রাঃ) হতে এমনও বর্ণিত আছে যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সহাবাদেরকে নিয়ে মুসল্লায় সারিবদ্ধভাবে দাঁড়ালেন এবং নাজাশীর জন্য জানাযার সালাত আদায় করলেন আর তিনি চারবার তাকবীরও দিলেন। (১২৪৫) (আধুনিক প্রকাশনীঃ ৩৫৯৩ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৩৫৯৮ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3881</td></tr><tr><td>Arabic No</td><td>3881</td></tr><tr><td>Reference</td><td>Book 63 Hadith 106</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Dan dari [Shalih] pula, dari [Ibnu Syihab] berkata, telah menceritakan kepadaku 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எங்களை (ஜனாஸா தொழுகை) தொழு மிடத்தில் வரிசையாக நிற்கவைத்துநஜாஷீக்காக ஜனாஸா தொழுகை தொழு (வித்)தார்கள்; (அதில்) நான்கு தக்பீர்கள் கூறினார்கள். அத்தியாயம் : 63
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எங்களை (ஜனாஸா தொழுகை) தொழு மிடத்தில் வரிசையாக நிற்கவைத்துநஜாஷீக்காக ஜனாஸா தொழுகை தொழு (வித்)தார்கள்; (அதில்) நான்கு தக்பீர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3881</td></tr><tr><td>Arabic No</td><td>3881</td></tr><tr><td>Reference</td><td>Book 63 Hadith 106</td></tr></tbody></table></div>
 

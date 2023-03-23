@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম .... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর ঘাড়ে ও দুই কাঁধে তিনবার শিংগা লাগান। মা’মার (রহঃ) বলেনঃ একবার আমি শিংগা লাগাই; ফলে আমি জ্ঞান হারিয়ে ফেলি। এ সময় সালাতের মধ্যে সূরা ফাতিহা অন্যের সাহায্য নিয়ে পড়াতাম।
+। আনাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তিনবার ঘাড়ের দু’টি রগে এবং কাঁধে রক্তমোক্ষণ করিয়েছেন। মা‘মার (রহঃ) বলেন, একদা আমি রক্তমোক্ষণ করালে আমার স্মৃতি লোপ পেলো, এমন কি সালাতে সূরা ফাতিহা অন্যের সাহয্যে নিয়ে পাঠ করলাম। তিনি তার মাথার মাঝখানে রক্তমোক্ষণ করিয়েছিলেন।[1] মা‘মার বর্ণিত হাদীস সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3860</td></tr><tr><td>Arabic No</td><td>3860</td></tr><tr><td>Reference</td><td>Book 29 Hadith 6</td></tr></tbody></table></div>
 

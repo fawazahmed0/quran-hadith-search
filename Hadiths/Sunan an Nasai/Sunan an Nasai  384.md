@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বাহ্ ও ইসহাক ইবনু ইব্রাহীম (রহ.) ..... কাসিম ইবনু মুহাম্মাদ (রহ.) হতে বর্ণিত যে, ‘আয়িশাহ্ (রাঃ) বলেছেন, রাসূলুল্লাহ (সা.) আমাকে বললেন, আমাকে মসজিদ হতে চাটাই এনে দাও। আমি বললাম, আমি তো ঋতুমতী। তখন রাসূলুল্লাহ (সা.) বললেন, হায়য তোমার হাতে নয়। ৩৮৪/১. ইসহাক (রহ.) বলেন: আবূ মু'আবিয়াহ্ আ'মাশ সূত্রে এ সনদে আমাদের নিকট অনুরূপ। হাদীস বর্ণনা করেছেন। সহীহ: মুসলিম ২৯৮, আবূ দাউদ ২৬৬, তিরমিযী ১৩৪। [দ্রঃ ২৭২]
+। কুতায়বা (রহঃ) ও ইসহাক ইবনু ইবরাহীম (রহঃ) ... আসিম ইবনু মুহাম্মদ (রহঃ) থেকে বর্ণিত যে, আয়িশা (রাঃ) বলেছেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ আমাকে মসজিদ হতে চাটাই খানা এনে দাও। আমি বললাম, আমি তো ঋতুমতী, তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হায়য তোমার হাতে নয়। ইসহাক (রহঃ) বলেন, আবূ মু'আবিয়া আ'মাশ সুত্রে এ সুত্রে এ সনাদে আমাদের নিকট অনুরূপ হাদিস বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>384</td></tr><tr><td>Reference</td><td>Book 3 Hadith 36</td></tr></tbody></table></div>
 
@@ -82,7 +82,7 @@ Telah mengabarkan kepada kami [Qutaibah] dari ['Abidah] dari [Al-A'masy] dan dal
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) ile birlikte Mescidde idik, Rasûlüllah (sallallahü aleyhi ve sellem): Âişe elbisemi getir) demişti. Âişe’de: kılmıyorum yani hayızlıyım) demişti. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem): elinde değil ya, getir) buyurdular. (Ebû Dâvûd, Tahara: 104; Müslim, Hayz: 3)
+Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) ile birlikte Mescidde idik, Rasûlüllah (sallallahü aleyhi ve sellem): Âişe elbisemi getir) demişti. Âişe’de: kılmıyorum yani hayızlıyım) demişti. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem): elinde değil ya, getir) buyurdular. (Ebû Dâvûd, Tahara: 104; Müslim, Hayz:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>384</td></tr><tr><td>Reference</td><td>Book 3 Hadith 36</td></tr></tbody></table></div>
 

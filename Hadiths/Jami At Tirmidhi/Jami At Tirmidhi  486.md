@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪৮৬। উমার ইবনুল খাত্তাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, দুআ আকাশ যমিনের মধ্যবর্তী স্থানে ঝুলন্ত অবস্থায় থাকে, তোমার রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের প্রতি যতক্ষণ তুমি দুরূদ পাঠ না কর ততক্ষণ তার কিছুই উপরে উঠে না। -হাসান। সহীহাহ– (২০৫৩)।
+। উমার ইবনুল খাত্তাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, দুআ আকাশ যমিনের মধ্যবর্তী স্থানে ঝুলন্ত অবস্থায় থাকে, তোমার রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের প্রতি যতক্ষণ তুমি দুরূদ পাঠ না কর ততক্ষণ তার কিছুই উপরে উঠে না। -হাসান। সহীহাহ– (২০৫৩)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>486</td></tr><tr><td>Arabic No</td><td>486</td></tr><tr><td>Reference</td><td>Book 3 Hadith 34</td></tr></tbody></table></div>
 

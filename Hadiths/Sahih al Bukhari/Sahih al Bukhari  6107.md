@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যদি কসম করে এবং লাত্ ও উযযার কসম করে, তবে সে যেন لاَ إِلٰهَ إِلاَّ اللهُ বলে। আর যদি কেউ তার সঙ্গীকে বলে, এসো আমরা জুয়া খেলি, তবে সে যেন সদাকাহ করে। [৪৮৬০] (আধুনিক প্রকাশনী- ৫৬৬৮, ইসলামিক ফাউন্ডেশন- ৫৫৬৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যদি কসম করে এবং লাত্ ও উযযার কসম করে, তবে সে যেন لاَ إِلٰهَ إِلاَّ اللهُ বলে। আর যদি কেউ তার সঙ্গীকে বলে, এসো আমরা জুয়া খেলি, তবে সে যেন সদাকাহ করে। [৪৮৬০] (আধুনিক প্রকাশনী- ৫৬৬৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6107</td></tr><tr><td>Arabic No</td><td>6107</td></tr><tr><td>Reference</td><td>Book 78 Hadith 134</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said: "Whoever amongst you swears, (saying by error) in his oath 'By Al-Lat and Al- Uzza', then he should say, 'None has the right to be worshipped but Allah.' And whoever says to his companions, 'Come let me gamble' with you, then he must give something in charity (as an expiation for such a sin)." (See Hadith No. 645)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said: "Whoever amongst you swears, (saying by error) in his oath 'By Al-Lat and Al- Uzza', then he should say, 'None has the right to be worshipped but Allah.' And whoever says to his companions, 'Come let me gamble' with you, then he must give something in charity (as an expiation for such a sin)." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6107</td></tr><tr><td>Arabic No</td><td>6107</td></tr><tr><td>Reference</td><td>Book 78 Hadith 134</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq] telah mengabarkan kepada kami [Abu Al Mughir
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் யார் சத்தியம் செய்யும் போது (அறியாமைக்கால தெய்வச் சிலைகளான) ‘லாத்’தின் மீதும் ‘உஸ்ஸா’ வின்மீதும் சத்தியமாக என்று கூறிவிட் டாரோ அவர் (அதற்குப் பரிகாரமாக) ‘லா இலாஹ இல்லல்லாஹு’ (அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை) என்று சொல்லட்டும். யார் தம் நண்பரிடம், ‘வா! சூது விளையாடுவோம்’ என்று கூறுகிறாரோ, அவர் (அதற்குப் பரிகாரமாக எதையேனும்) தர்மம் செய்யட்டும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.122 அத்தியாயம் : 78
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் யார் சத்தியம் செய்யும் போது (அறியாமைக்கால தெய்வச் சிலைகளான) ‘லாத்’தின் மீதும் ‘உஸ்ஸா’ வின்மீதும் சத்தியமாக என்று கூறிவிட் டாரோ அவர் (அதற்குப் பரிகாரமாக) ‘லா இலாஹ இல்லல்லாஹு’ (அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை) என்று சொல்லட்டும். யார் தம் நண்பரிடம், ‘வா! சூது விளையாடுவோம்’ என்று கூறுகிறாரோ, அவர் (அதற்குப் பரிகாரமாக எதையேனும்) தர்மம் செய்யட்டும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.122 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6107</td></tr><tr><td>Arabic No</td><td>6107</td></tr><tr><td>Reference</td><td>Book 78 Hadith 134</td></tr></tbody></table></div>
 

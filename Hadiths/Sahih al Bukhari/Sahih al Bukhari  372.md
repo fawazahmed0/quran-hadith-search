@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ عِكْرِمَةُ لَوْ وَارَتْ جَسَدَهَا فِي ثَوْبٍ لَأَجَزْتُهُ. ‘ইকরিমাহ (রহ.) বলেনঃ যদি একটি কাপড়ে মহিলার সমস্ত শরীর ঢেকে যায় তবে তাতেই সালাত জায়িয হবে। ৩৭২. ‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাত আদায় করতেন আর তাঁর সঙ্গে অনেক মু’মিন মহিলা চাদর দিয়ে গা ঢেকে শরীক হতো। অতঃপর তারা নিজ নিজ ঘরে ফিরে যেতো। আর তাদেরকে কেউ চিনতে পারতো না। (৫৭৮, ৮৬৭, ৮৭২; মুসলিম ৫/৪০, হাঃ ৬৪৫, আহমাদ ২৪১০৬) (আধুনিক প্রকাশনীঃ ৩৫৯, ইসলামিক ফাউন্ডেশনঃ ৩৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ عِكْرِمَةُ لَوْ وَارَتْ جَسَدَهَا فِي ثَوْبٍ لَأَجَزْتُهُ. ‘ইকরিমাহ (রহ.) বলেনঃ যদি একটি কাপড়ে মহিলার সমস্ত শরীর ঢেকে যায় তবে তাতেই সালাত জায়িয হবে। ৩৭২. ‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাত আদায় করতেন আর তাঁর সঙ্গে অনেক মু’মিন মহিলা চাদর দিয়ে গা ঢেকে শরীক হতো। অতঃপর তারা নিজ নিজ ঘরে ফিরে যেতো। আর তাদেরকে কেউ চিনতে পারতো না। (৫৭৮, ৮৬৭, ৮৭২; মুসলিম ৫/৪০, হাঃ ৬৪৫, আহমাদ ২৪১০৬) (আধুনিক প্রকাশনীঃ ৩৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 8 Hadith 24</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (அதிகாலை) ஃபஜ்ர் தொழுகையைத் தொழுவார்கள். அப்போது இறை நம்பிக்கை கொண்ட பெண்களும் தங்களின் மேலாடைகளால் தங்கள் உடல் முழுவதையும் சுற்றி மறைத்தவர்களாக நபி (ஸல்) அவர்களுடன் (தொழுகையில்) கலந்துகொள்வார்கள். பின்னர் தங்களின் வீடுகளுக்கு அப்பெண்கள் திரும்பிச் செல்வார்கள். அவர்களை (யார் யார் என்று) எவரும் அறியமாட்டார்கள். அத்தியாயம் : 8
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (அதிகாலை) ஃபஜ்ர் தொழுகையைத் தொழுவார்கள். அப்போது இறை நம்பிக்கை கொண்ட பெண்களும் தங்களின் மேலாடைகளால் தங்கள் உடல் முழுவதையும் சுற்றி மறைத்தவர்களாக நபி (ஸல்) அவர்களுடன் (தொழுகையில்) கலந்துகொள்வார்கள். பின்னர் தங்களின் வீடுகளுக்கு அப்பெண்கள் திரும்பிச் செல்வார்கள். அவர்களை (யார் யார் என்று) எவரும் அறியமாட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 8 Hadith 24</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem sabah namazı kılarken, onunla birlikte mırt denen bir örtüye bürünerek mumin kadınlar da namaz kılardı. Namazdan sonra evlerine dönerken, kimse onları tanımazdı. Tekrar: 578, 867, 872
+Aişe (r.anha)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem sabah namazı kılarken, onunla birlikte mırt denen bir örtüye bürünerek mumin kadınlar da namaz kılardı. Namazdan sonra evlerine dönerken, kimse onları tanımazdı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 8 Hadith 24</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَرَأَى أَبُو الْعَالِيَةِ وَعَطَاءٌ وَابْنُ سِيرِينَ صَدَقَةَ الْفِطْرِ فَرِيضَةً আবুল ‘আলীয়া ‘আত্বা ও ইবনু সীরীন (রহ.)-এর অভিমত হলো সদাকাতুল ফিত্র আদায় করা ফারয। ১৫০৩. ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, প্রত্যেক গোলাম, আযাদ, পুরুষ, নারী, প্রাপ্ত বয়স্ক, অপ্রাপ্ত বয়স্ক মুসলিমের উপর আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সদাকাতুল ফিতর হিসেবে খেজুর হোক অথবা যব হোক এক সা’ পরিমাণ আদায় করা ফারয করেছেন এবং লোকজনের ঈদের সালাতের বের হবার পূর্বেই তা আদায় করার নির্দেশ দিয়েছেন। (১৫০৪, ১৫০৭, ১৫০৯, ১৫১১, ১৫১২, মুসলিম ১২/৪, হাঃ ৯৮৪, আহমাদ ৫১৭৪) (আধুনিক প্রকাশনীঃ ১৪০৬, ইসলামিক ফাউন্ডেশনঃ ১৪১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَرَأَى أَبُو الْعَالِيَةِ وَعَطَاءٌ وَابْنُ سِيرِينَ صَدَقَةَ الْفِطْرِ فَرِيضَةً আবুল ‘আলীয়া ‘আত্বা ও ইবনু সীরীন (রহ.)-এর অভিমত হলো সদাকাতুল ফিত্র আদায় করা ফারয। ১৫০৩. ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, প্রত্যেক গোলাম, আযাদ, পুরুষ, নারী, প্রাপ্ত বয়স্ক, অপ্রাপ্ত বয়স্ক মুসলিমের উপর আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সদাকাতুল ফিতর হিসেবে খেজুর হোক অথবা যব হোক এক সা’ পরিমাণ আদায় করা ফারয করেছেন এবং লোকজনের ঈদের সালাতের বের হবার পূর্বেই তা আদায় করার নির্দেশ দিয়েছেন। (১৫০৪, ১৫০৭, ১৫০৯, ১৫১১, ১৫১২, মুসলিম ১২/৪, হাঃ ৯৮৪, আহমাদ ৫১৭৪) (আধুনিক প্রকাশনীঃ ১৪০৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1503</td></tr><tr><td>Arabic No</td><td>1503</td></tr><tr><td>Reference</td><td>Book 24 Hadith 103</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Muhammad bin As-Sakkan] telah mencerit
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: முஸ்லிம்களில் அடிமை, சுதந்திர மானவர், ஆண், பெண், சிறியவர், பெரிய வர் ஆகிய அனைவருக்காகவும் ஒரு ‘ஸாஉ’ அளவு பேரீச்சம் பழம் அல்லது ஒரு ‘ஸாஉ’ அளவு தொலி நீக்கப்படாத கோதுமையைப் பெருநாள் தர்மமாக (ஏழைகளுக்கு வழங்க வேண்டுமென்று) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நிர்ணயித்தார்கள். அதை(ப் பெருநாள்) தொழுகைக்காக மக்கள் வெளியேறுவதற்கு முன்பே கொடுக்கும்படி கட்டளையிட்டார்கள்.27 அத்தியாயம் : 24
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: முஸ்லிம்களில் அடிமை, சுதந்திர மானவர், ஆண், பெண், சிறியவர், பெரிய வர் ஆகிய அனைவருக்காகவும் ஒரு ‘ஸாஉ’ அளவு பேரீச்சம் பழம் அல்லது ஒரு ‘ஸாஉ’ அளவு தொலி நீக்கப்படாத கோதுமையைப் பெருநாள் தர்மமாக (ஏழைகளுக்கு வழங்க வேண்டுமென்று) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நிர்ணயித்தார்கள். அதை(ப் பெருநாள்) தொழுகைக்காக மக்கள் வெளியேறுவதற்கு முன்பே கொடுக்கும்படி கட்டளையிட்டார்கள்.27 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1503</td></tr><tr><td>Arabic No</td><td>1503</td></tr><tr><td>Reference</td><td>Book 24 Hadith 103</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Muhammad bin As-Sakkan] telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem, köle, hür, erkek, kadın, küçük ya da büyük olsun Müslümanlara bir sa' hurma veya bir sa' arpayı fıtır sadakası olarak vermelerini farz kılmıştır. (Ramazan bayramı) namazına gitmeden önce bunun ödenmesini emretmiştir. Tekrar: 1504, 1507, 1509, 1511 ve 1512
+İbn Ömer r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem, köle, hür, erkek, kadın, küçük ya da büyük olsun Müslümanlara bir sa' hurma veya bir sa' arpayı fıtır sadakası olarak vermelerini farz kılmıştır. (Ramazan bayramı) namazına gitmeden önce bunun ödenmesini emretmiştir. Tekrar: 1504, 1507, 1509, 1511 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1503</td></tr><tr><td>Arabic No</td><td>1503</td></tr><tr><td>Reference</td><td>Book 24 Hadith 103</td></tr></tbody></table></div>
 

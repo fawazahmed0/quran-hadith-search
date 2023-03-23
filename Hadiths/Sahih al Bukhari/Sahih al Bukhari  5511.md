@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আসমা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আমলে আমরা একটি ঘোড়া যবহ্ করেছি। তখন আমরা মদিনায় থাকতাম। পরে আমরা সেটি খেয়েছি। [৫৫১০] (আধুনিক প্রকাশনী- ৫১০৫, ইসলামিক ফাউন্ডেশন- ৫০০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আসমা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আমলে আমরা একটি ঘোড়া যবহ্ করেছি। তখন আমরা মদিনায় থাকতাম। পরে আমরা সেটি খেয়েছি। [৫৫১০] (আধুনিক প্রকাশনী- ৫১০৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5511</td></tr><tr><td>Arabic No</td><td>5511</td></tr><tr><td>Reference</td><td>Book 72 Hadith 37</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] ia mendengar [Abdah] dari [Hisyam] dari [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அஸ்மா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது காலத்தில் மதீனாவில் இருந்த போது குதிரையொன்றை (அதன் குரல் வளையை) அறுத்து (‘தப்ஹ்’ செய்து) அதை உண்டோம். அத்தியாயம் : 72
+அஸ்மா (ரலி) அவர்கள் கூறியதாவது: நாங்கள் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது காலத்தில் மதீனாவில் இருந்த போது குதிரையொன்றை (அதன் குரல் வளையை) அறுத்து (‘தப்ஹ்’ செய்து) அதை உண்டோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5511</td></tr><tr><td>Arabic No</td><td>5511</td></tr><tr><td>Reference</td><td>Book 72 Hadith 37</td></tr></tbody></table></div>
 

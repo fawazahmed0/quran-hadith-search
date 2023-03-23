@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বারযাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘ইশার পূর্বে নিদ্রা যাওয়া এবং পরে কথাবার্তা বলা অপছন্দ করতেন। (৫৪১) (আধুনিক প্রকাশনীঃ ৫৩৫, ইসলামিক ফাউন্ডেশনঃ ৫৪১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বারযাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘ইশার পূর্বে নিদ্রা যাওয়া এবং পরে কথাবার্তা বলা অপছন্দ করতেন। (৫৪১) (আধুনিক প্রকাশনীঃ ৫৩৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>568</td></tr><tr><td>Arabic No</td><td>568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூபர்ஸா (நள்லா பின் உபைத்-ர-) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இஷா தொழுகைக்குமுன் உறங்குவதையும் இஷா தொழுகைக்குப்பின் (உறங்காமல்) பேசிக்கொண்டிருப்பதையும் வெறுப்ப வர்களாக இருந்தார்கள்.19 அத்தியாயம் : 9
+அபூபர்ஸா (நள்லா பின் உபைத்-ர-) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இஷா தொழுகைக்குமுன் உறங்குவதையும் இஷா தொழுகைக்குப்பின் (உறங்காமல்) பேசிக்கொண்டிருப்பதையும் வெறுப்ப வர்களாக இருந்தார்கள்.19 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>568</td></tr><tr><td>Arabic No</td><td>568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 45</td></tr></tbody></table></div>
 

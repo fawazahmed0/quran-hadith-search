@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩৫৪, আন্তর্জাতিক নাম্বারঃ ১৩৫৫ ১৩৫৪. আহমাদ ইবনু হাফস্ ইবনু আবদুল্লাহ আন্ নায়সাবূরী (রহ.) ..... আবূ হুরায়রাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সা.) বলেছেন: যে ব্যক্তি ফজরের সালাতের পর একশতবার ‘সুবহা-নাল্ল-হ এবং একশত বার ‘লা- ইলা-হা ইল্লাল্ল-হ', বলবে, তার গুনাহসমূহ মাফ করে দেয়া হবে। যদিও তা সাগরের ফেনা সম হয়। সহিহঃ নাসায়ী’র “সুনানুল কুবরা” ১২৭৭, আমালুল ইয়াওমি ওয়াল লায়লাতা” ১৪০।
+। আহমদ ইবনু হাফস ইবনু আব্দুল্লাহ নিশাপুরী ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি সকালের সালাতের পর একশত বার সূবহানাল্লাহ এবং একশত বার লা-ইলাহা ইল্লালাহ বলবে, তার গুনাহসমূহ মাফ করে দেওয়া হবে। যদিও তা সমুদ্রের ফেনাসম হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1354</td></tr><tr><td>Arabic No</td><td>1354</td></tr><tr><td>Reference</td><td>Book 13 Hadith 176</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন আবূ শায়বা (রহঃ) ...... জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, আমাকে আবদুর রহমান ইবন সাবিত (রাঃ) বলেছেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর সাহাবীগণ কুরবানীর পশুর সম্মুখের বাম পা বেঁধে এবং বাকি তিন পায়ের উপর দন্ডায়মান অবস্থায় কুরবনী করতেন।
+। যাবির ও ‘আব্দুর রহমান ইবনু সাবিত (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর সাহাবীগণ উটের বাম পা বেঁধে, অবশিষ্ট (তিন পায়ের) উপর খাড়া অবস্থায় তা যাবাহ করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1767</td></tr><tr><td>Arabic No</td><td>1767</td></tr><tr><td>Reference</td><td>Book 11 Hadith 47</td></tr></tbody></table></div>
 

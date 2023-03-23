@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন আবদুর রহমান দিমাশকী বর্ণনা করেন যে, ওয়ালীদ বলেন, আমি আবূ আমর আল আওয়াযী হতে শুনেছি হাদীসে বর্ণিত "সাররাহ" অর্থ মাসের প্রথমভাগ।
+। আবুল ওয়ালীদ (রহ.) বলেন, আমি আবূ ‘আমর আল-আওযাঈকে বলতে শুনেছি, ‘সাররাহ অর্থ মাসের প্রথমভাগ।[1] শায মাকতূ’।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>2330</td></tr><tr><td>Reference</td><td>Book 14 Hadith 18</td></tr></tbody></table></div>
 

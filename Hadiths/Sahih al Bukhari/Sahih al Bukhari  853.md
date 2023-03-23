@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَوْلِ النَّبِيِّ صلى الله عليه وسلم مَنْ أَكَلَ الثُّومَ أَوْ الْبَصَلَ مِنَ الْجُوعِ أَوْ غَيْرِهِ فَلاَ يَقْرَبَنَّ مَسْجِدَنَا. নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্ষুধা বা কোন কারণে অবশ্যই কেউ যেন রসুন বা পিঁয়াজ খেয়ে আমাদের মসজিদের নিকটে না আসে। ৮৫৩. ইবনু ‘উমার (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বারের যুদ্ধের সময় বলেন, যে ব্যক্তি এই জাতীয় বৃক্ষ হতে অর্থাৎ কাঁচা রসুন খায় সে যেন অবশ্যই আমাদের মসজিদে না আসে। (৪২১৫, ৪২১৭, ৪২১৮, ৫৫২১, ৫৫২২ মুসলিম ৫/১৭ হাঃ ৫৬, আহমাদ ৪৭১৫) (আধুনিক প্রকাশনীঃ৮০৪, ইসলামিক ফাউন্ডেশনঃ ৮১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَوْلِ النَّبِيِّ صلى الله عليه وسلم مَنْ أَكَلَ الثُّومَ أَوْ الْبَصَلَ مِنَ الْجُوعِ أَوْ غَيْرِهِ فَلاَ يَقْرَبَنَّ مَسْجِدَنَا. নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্ষুধা বা কোন কারণে অবশ্যই কেউ যেন রসুন বা পিঁয়াজ খেয়ে আমাদের মসজিদের নিকটে না আসে। ৮৫৩. ইবনু ‘উমার (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বারের যুদ্ধের সময় বলেন, যে ব্যক্তি এই জাতীয় বৃক্ষ হতে অর্থাৎ কাঁচা রসুন খায় সে যেন অবশ্যই আমাদের মসজিদে না আসে। (৪২১৫, ৪২১৭, ৪২১৮, ৫৫২১, ৫৫২২ মুসলিম ৫/১৭ হাঃ ৫৬, আহমাদ ৪৭১৫) (আধুনিক প্রকাশনীঃ৮০৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>853</td></tr><tr><td>Arabic No</td><td>853</td></tr><tr><td>Reference</td><td>Book 10 Hadith 244</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: கைபர் போரின்போது நபி (ஸல்) அவர்கள், “இந்தச் செடியி-ருந்து -அதாவது வெள்ளைப் பூண்டைச்- சாப்பிட்டவர் நம் பள்ளிவாசலை நெருங்க வேண்டாம்” என்று கூறினார்கள். அத்தியாயம் : 10
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: கைபர் போரின்போது நபி (ஸல்) அவர்கள், “இந்தச் செடியி-ருந்து -அதாவது வெள்ளைப் பூண்டைச்- சாப்பிட்டவர் நம் பள்ளிவாசலை நெருங்க வேண்டாம்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>853</td></tr><tr><td>Arabic No</td><td>853</td></tr><tr><td>Reference</td><td>Book 10 Hadith 244</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer şöyle demiştir: "Resulullah sallallahu aleyhi ve sellem Hayber savaşında iken sarımsak bitkisini işaret ederek şöyle buyurdu: Kim bundan yerse mescidimize ge/(ip bizi rahatsız etmesin. " Tekrar: 4215, 4217, 4218, 5521 ve 5522)
+Abdullah İbn Ömer şöyle demiştir: "Resulullah sallallahu aleyhi ve sellem Hayber savaşında iken sarımsak bitkisini işaret ederek şöyle buyurdu: Kim bundan yerse mescidimize ge/(ip bizi rahatsız etmesin. " Tekrar: 4215, 4217, 4218, 5521 ve)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>853</td></tr><tr><td>Arabic No</td><td>853</td></tr><tr><td>Reference</td><td>Book 10 Hadith 244</td></tr></tbody></table></div>
 

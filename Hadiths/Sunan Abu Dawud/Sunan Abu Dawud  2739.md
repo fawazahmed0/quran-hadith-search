@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন মুহাম্মদ ইবন বাক্কার ইবন বিলাল (রহঃ) .... দাঊদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গণীমতের মাল সবার মাঝে সমানভাবে বণ্টণ করে দিয়েছিলেন। খালিদ বর্ণিত হাদীছটি সম্পূর্ণ।
+। দাঊদ (রহঃ) এ হাদীস তার সনদে বর্ণনা করেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গানীমাতের মাল সবাইকে সমান ভাগে বন্টন করে দিলেন। খালিদের বর্ণিত হাদীস (পূর্বেরটি) ইয়াহইয়া ইবনু আবূ যায়িদাহর এ হাদীসের চেয়ে পূর্ণাঙ্গ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2739</td></tr><tr><td>Arabic No</td><td>2739</td></tr><tr><td>Reference</td><td>Book 15 Hadith 263</td></tr></tbody></table></div>
 

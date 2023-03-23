@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৬৭৭, আন্তর্জাতিক নাম্বারঃ ১৫০৪ ৩৬৭৭-(১৩/...) মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন যে, বারীরার স্বামী ক্রীতদাস ছিল। (ইসলামিক ফাউন্ডেশন ৩৬৪৩, ইসলামিক সেন্টার ৩৬৪৩)
+মুহাম্মাদ ইবনুল মুসান্না ও ইবনু বাশশার (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন যে, বারীরার স্বামী ক্রীতদাস ছিল। (ইসলামিক ফাউন্ডেশন ৩৬৪৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3785</td></tr><tr><td>Arabic No</td><td>1504.10</td></tr><tr><td>Reference</td><td>Book 20 Hadith 16</td></tr></tbody></table></div>
 

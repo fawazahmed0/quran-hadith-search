@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবনু আসিম ..... আতা (রহঃ) থেকে ইবনু আব্বাস (রাঃ) এর সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের সময় এক ব্যক্তি আহত হয়। অতঃপর তাঁর স্বপ্নদোষ হলে তাকে গোসল করতে বলা হয়। ফলে সে মৃত্যূমুখে পতিত হয়। এই খবর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের নিকট পৌছলে তিনি বলেনঃ তারা তাকে হত্যা করেছে। আল্লাহ্ তাদের ধ্বংস করুন। অজ্ঞতার প্রতিষেধক জিজ্ঞাসা করা নয় কি?
+। ‘আত্বা ইবনু আবূ রাবাহ সূত্রে বর্ণিত। তিনি ‘আব্দুল্লাহ ইবনু আব্বাস রাযিয়াল্লাহু ‘আনহুমা-কে বলতে শুনেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে এক ব্যক্তি আহত হয়। ঐ অবস্থায় তার স্বপ্নদোষ হলে তাকে গোসল করার নির্দেশ দেয়া হয়। অতঃপর সে গোসল করলে তার মৃত্যু হয়। এ সংবাদ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট পৌঁছলে তিনি বলেনঃ এরা লোকটিকে হত্যা করেছে। আল্লাহ যেন এদের ধ্বংস করেন! অজ্ঞতার প্রতিষেধক জিজ্ঞেস করা নয় কি?[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>337</td></tr><tr><td>Arabic No</td><td>337</td></tr><tr><td>Reference</td><td>Book 1 Hadith 337</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Nashr bin 'Ahim Al-Anthaki] telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah bin Abbas (r.a.)'dan; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) zamanında bir adam yaralandı sonra da ihtilam oldu. Yıkanmasını emrettiler o da yıkandı. Bunun üzerine adam öldü. Hadise Peygamber (Sallallahu aleyhi ve Sellem)'e aktarıldı. Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Onu öldürdüler, Allah da onları öldürsün, cehaletin şifası sormak değil miydi? Diğer tahric: İbn Mace, tahare; Ahmed b. Hanbel,!, 370
+Abdullah bin Abbas (r.a.)'dan; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) zamanında bir adam yaralandı sonra da ihtilam oldu. Yıkanmasını emrettiler o da yıkandı. Bunun üzerine adam öldü. Hadise Peygamber (Sallallahu aleyhi ve Sellem)'e aktarıldı. Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Onu öldürdüler, Allah da onları öldürsün, cehaletin şifası sormak değil miydi? Diğer tahric: İbn Mace, tahare; Ahmed b. Hanbel
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>337</td></tr><tr><td>Arabic No</td><td>337</td></tr><tr><td>Reference</td><td>Book 1 Hadith 337</td></tr></tbody></table></div>
 

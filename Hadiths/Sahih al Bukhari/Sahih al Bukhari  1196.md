@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার ঘর ও মিম্বরের মধ্যবর্তী স্থান জান্নাতের বাগানগুলোর একটি বাগান আর আমার মিম্বর অবস্থিত আমার হাউয (কাউসার)-এর উপরে। (১৮৮৮, ৬৫৮৮, ৭৩৩৫; মুসলিম ১৫/৯২, হাঃ ১৩৯১, আহমাদ ৭২২৭) (আধুনিক প্রকাশনীঃ ১১১৮, ইসলামিক ফাউন্ডেশনঃ ১১২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার ঘর ও মিম্বরের মধ্যবর্তী স্থান জান্নাতের বাগানগুলোর একটি বাগান আর আমার মিম্বর অবস্থিত আমার হাউয (কাউসার)-এর উপরে। (১৮৮৮, ৬৫৮৮, ৭৩৩৫; মুসলিম ১৫/৯২, হাঃ ১৩৯১, আহমাদ ৭২২৭) (আধুনিক প্রকাশনীঃ ১১১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1196</td></tr><tr><td>Arabic No</td><td>1196</td></tr><tr><td>Reference</td><td>Book 20 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari ['Ubaidullah bin 'Um
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எனது இல்லத்திற்கும் எனது சொற் பொழிவு மேடைக்கும் இடைப்பட்ட பகுதியானது, சொர்க்கப் பூங்காக்களில் ஒரு பூங்காவாகும். எனது சொற்பொழிவு மேடை, எனது ‘ஹவ்ளுல் கவ்ஸர்’ தடாகத் தின் மீது அமைந்துள்ளது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 20
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எனது இல்லத்திற்கும் எனது சொற் பொழிவு மேடைக்கும் இடைப்பட்ட பகுதியானது, சொர்க்கப் பூங்காக்களில் ஒரு பூங்காவாகும். எனது சொற்பொழிவு மேடை, எனது ‘ஹவ்ளுல் கவ்ஸர்’ தடாகத் தின் மீது அமைந்துள்ளது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1196</td></tr><tr><td>Arabic No</td><td>1196</td></tr><tr><td>Reference</td><td>Book 20 Hadith 8</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari ['Ubaidullah bin 'Um
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayet edildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Evim ile minberim arası cennet bahçelerinden bir bahçedir. Minberim de havuzum üzerindedir. Tekrar: 1888, 6588, 7335
+Ebu Hureyre r.a.'den rivayet edildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Evim ile minberim arası cennet bahçelerinden bir bahçedir. Minberim de havuzum üzerindedir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1196</td></tr><tr><td>Arabic No</td><td>1196</td></tr><tr><td>Reference</td><td>Book 20 Hadith 8</td></tr></tbody></table></div>
 

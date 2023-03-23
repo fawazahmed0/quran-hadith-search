@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আমর ইবনু আমির (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-কে বলতে শুনেছি যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিঙ্গা লাগাতেন এবং কোন লোকের পারিশ্রমিক কম দিতেন না। (২১০২, মুসলিম ৩৯/২৬, হাঃ ১৫৭৭, আহমাদ ১২২০৭) (আধুনিক প্রকাশনীঃ ২১১৯, ইসলামিক ফাউন্ডেশনঃ ২১৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমর ইবনু আমির (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-কে বলতে শুনেছি যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিঙ্গা লাগাতেন এবং কোন লোকের পারিশ্রমিক কম দিতেন না। (২১০২, মুসলিম ৩৯/২৬, হাঃ ১৫৭৭, আহমাদ ১২২০৭) (আধুনিক প্রকাশনীঃ ২১১৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2280</td></tr><tr><td>Arabic No</td><td>2280</td></tr><tr><td>Reference</td><td>Book 37 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Mis'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் குருதி உறிஞ்சி எடுத்துக்கொள்வார்கள்; எவரது கூலியிலும் நபி (ஸல்) அவர்கள் அநீதி இழைக்கவில்லை. அத்தியாயம் : 37
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் குருதி உறிஞ்சி எடுத்துக்கொள்வார்கள்; எவரது கூலியிலும் நபி (ஸல்) அவர்கள் அநீதி இழைக்கவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2280</td></tr><tr><td>Arabic No</td><td>2280</td></tr><tr><td>Reference</td><td>Book 37 Hadith 20</td></tr></tbody></table></div>
 

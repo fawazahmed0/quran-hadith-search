@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবনে ইবরাহীম (রহঃ) .... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন, কষ্টদায়ক কাল রঙয়ের সাপ ও বিচ্ছুকে তোমরা নামায রত অবস্থায়ও হত্যা করবে। (নাসাঈ, ইবনে মাজাহ, তিরমিযী)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা সালাতরত অবস্থাতেও কালো সাপ ও কালো বিচ্ছুকে হত্যা করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>921</td></tr><tr><td>Arabic No</td><td>921</td></tr><tr><td>Reference</td><td>Book 2 Hadith 532</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (Sallallahu aleyhi ve Sellem): "Namazda iki siyah renkli (haşere)'yi, (yani) yılanla akreb'i öldürünüz" bu­yurdu." Diğer tahric: Tirmîzî, salât; İbn Mâce, ikâme; Nesâî, sehv; Dârimî, salât, Ahmed b. Hanbel II, 233, 248, 255, 284, 473, 475, 490
+Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (Sallallahu aleyhi ve Sellem): "Namazda iki siyah renkli (haşere)'yi, (yani) yılanla akreb'i öldürünüz" bu­yurdu." Diğer tahric: Tirmîzî, salât; İbn Mâce, ikâme; Nesâî, sehv; Dârimî, salât, Ahmed b. Hanbel II, 233
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>921</td></tr><tr><td>Arabic No</td><td>921</td></tr><tr><td>Reference</td><td>Book 2 Hadith 532</td></tr></tbody></table></div>
 

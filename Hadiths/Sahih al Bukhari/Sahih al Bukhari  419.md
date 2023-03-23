@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেছেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে নিয়ে সালাত আদায় করলেন। অতঃপর তিনি মিম্বারে উঠলেন এবং ইরশাদ করলেনঃ তোমাদের সালাতে ও রুকূ‘তে আমি অবশ্যই তোমাদেরকে আমার পেছন হতে দেখে থাকি, যেমন এখন তোমাদেরকে দেখতে পাচ্ছি। (৭৪২, ৬৬৪৪) (আধুনিক প্রকাশনীঃ ৪০২, ইসলামিক ফাউন্ডেশনঃ ৪০৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেছেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে নিয়ে সালাত আদায় করলেন। অতঃপর তিনি মিম্বারে উঠলেন এবং ইরশাদ করলেনঃ তোমাদের সালাতে ও রুকূ‘তে আমি অবশ্যই তোমাদেরকে আমার পেছন হতে দেখে থাকি, যেমন এখন তোমাদেরকে দেখতে পাচ্ছি। (৭৪২, ৬৬৪৪) (আধুনিক প্রকাশনীঃ ৪০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>419</td></tr><tr><td>Arabic No</td><td>419</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Shalih] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எங்களுக்கு ஒரு தொழுகையைத் தொழுவித்தார்கள். பின்னர் சொற்பொழிவு மேடை (மிம்பர்) மீதேறி தொழுகையைப் பற்றியும் (அதன் முக்கிய நிலைகளில் ஒன்றான) ருகூஉ (குனிதல்) பற்றியும் (அவற்றைக் குறைவின்றி நிறைவேற்றுமாறு) கூறினார்கள். அப்போது, “(உங்களை முன்புறமாக) நான் காண்பதைப் போன்றே, எனது முதுகுக்குப் பின்புற மாகவும் உங்களை நான் காண்கிறேன்” என்று கூறினார்கள்.32 அத்தியாயம் : 8
+அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எங்களுக்கு ஒரு தொழுகையைத் தொழுவித்தார்கள். பின்னர் சொற்பொழிவு மேடை (மிம்பர்) மீதேறி தொழுகையைப் பற்றியும் (அதன் முக்கிய நிலைகளில் ஒன்றான) ருகூஉ (குனிதல்) பற்றியும் (அவற்றைக் குறைவின்றி நிறைவேற்றுமாறு) கூறினார்கள். அப்போது, “(உங்களை முன்புறமாக) நான் காண்பதைப் போன்றே, எனது முதுகுக்குப் பின்புற மாகவும் உங்களை நான் காண்கிறேன்” என்று கூறினார்கள்.32 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>419</td></tr><tr><td>Arabic No</td><td>419</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Shalih] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Mâlik (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem bize bir namaz kıldırdı. Sonra minbere çıktı ve: 'Ben sizi şu an gördüğüm gibi namazda ve rükudayken de görüyorum' buyurdu. Tekrar: 742, 6644
+Enes İbn Mâlik (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem bize bir namaz kıldırdı. Sonra minbere çıktı ve: 'Ben sizi şu an gördüğüm gibi namazda ve rükudayken de görüyorum' buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>419</td></tr><tr><td>Arabic No</td><td>419</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
 

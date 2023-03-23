@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইউসুফ্ ইবনু মূসা .... খায়সামা (রহঃ) হতে বর্ণিত। তিনি বলেন, সূর্য জীবিত থাকার অর্থ তার উষ্ণতা অবশিষ্ট থাকা বা অনুভব করা।
+। খায়সামাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, সূর্যের জীবন্ত হওয়ার অর্থ হলো, তার তাপ অবশিষ্ট থাকা বা অনুভূত হওয়া।[1] সহীহ মাক্বতূ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>406</td></tr><tr><td>Arabic No</td><td>406</td></tr><tr><td>Reference</td><td>Book 2 Hadith 16</td></tr></tbody></table></div>
 

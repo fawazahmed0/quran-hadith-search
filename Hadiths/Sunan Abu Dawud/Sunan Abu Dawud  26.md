@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসহাক ইবনু সুওয়াইদ .... মুআয ইবনু জাবাল (রাঃ) থেকে বর্ণিত তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিনটি অভিসষ্পাত যোগ্য কাজ থেকে দূরে থাকঃ পানিতে থুথু ফেলা, যাতায়াতের পথে এবং ছায়াদানের স্থানে মলত্যাগ করা-(ইবনু মাজাহ)
+। মু‘আয ইবনু জাবাল (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তিনটি অভিশপ্ত কাজ থেকে বিরত থাকবে। সেগুলো হচ্ছেঃ মানুষের অবতরণ স্থল, চলাচলের পথ ও জলাশয়ে চলাচলের পথে ছায়াবিশিষ্ট জায়গায় পায়খানা করা।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২১৬, আন্তর্জাতিক নাম্বারঃ ২১৭ ২১৬. মুহাম্মাদ ইবনুল মুসান্না (রহ.) ..... ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। ফাত্বিমাহ্ বিনতু আবূ হুবায়শ (রাঃ)-এর ইস্তিহাযাহ্ হলে রাসূলুল্লাহ (সা.) তাঁকে বললেন, হায়যের রক্ত কালো বর্ণের হয়ে থাকে যা সহজে চেনা যায়। যখন এ রক্ত দেখা দেবে তখন সালাত থেকে বিরত থাকবে, আর যখন অন্য রক্ত দেখা দেবে তখন উযূ করবে এবং সালাত আদায় করবে। আবূ আবদুর রহমান (ইমাম নাসায়ী) বলেন, এ হাদীসটি অনেকেই বর্ণনা করেছেন, তবে ইবনু আবূ ‘আদী যা উল্লেখ করেছেন, “হায়যের রক্ত কালো যা সহজে চেনা যায় অন্য আর কেউ তা উল্লেখ করেননি। আল্লাহই ভালো জানেন। সহীহ: আবূ দাউদ ২৮৬।
+। মুহাম্মদ ইবনু মূসান্না (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। ফাতেমা বিনতে আবূ হুবায়শ (রাঃ) এর ইস্তিহাযা হলে রাসুলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে বললেনঃ হায়যের রক্ত কালো বর্ণের হয়ে থাকে যা সহজে চেনা যায়। যখন এ রক্ত দেখা দেবে তখন সালাত (নামায/নামাজ) থেকে বিরত থাকবে, আর যখন অন্য রক্ত দেখা দেবে তখন উযূ (ওজু/অজু/অযু) করবে এবং সালাত (নামায/নামাজ) আদায় করবে। আবূ আবদুর রহমান বলেন, এ হাদিসটি অনেকেই বর্ণনা করেছেন, তবে ইবনু আবী আদী যা উল্লেখ করেছেন, "হায়যের রক্ত কালো যা সহজে চেনা যায়" অন্য আর কেউ তা উল্লেখ করেননি। আল্লাহই ভাল জানেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>216</td></tr><tr><td>Arabic No</td><td>216</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)’dan rivâyete göre, şöyle demiştir: Fatıma binti ebi Hubeyş hayız görmeye başlamıştı da, Rasûlullah (s.a.v) ona şöyle demişti: “Hayız kanı siyahımtırak olarak bilinir. Akan kan bu özellikte olursa namazı bırak. Bu özellikten başka bir kan olursa, abdest al ve namazını kıl.” (Müslim, Hayz: 14; İbn Mâce, Tahara: 115)
+Aişe (r.anha)’dan rivâyete göre, şöyle demiştir: Fatıma binti ebi Hubeyş hayız görmeye başlamıştı da, Rasûlullah (s.a.v) ona şöyle demişti: “Hayız kanı siyahımtırak olarak bilinir. Akan kan bu özellikte olursa namazı bırak. Bu özellikten başka bir kan olursa, abdest al ve namazını kıl.” (Müslim, Hayz: 14; İbn Mâce, Tahara:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>216</td></tr><tr><td>Arabic No</td><td>216</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
 

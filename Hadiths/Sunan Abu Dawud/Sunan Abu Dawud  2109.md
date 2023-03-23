@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আনাস (রাযি.) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আব্দুর রহমান ইবনু ‘আওফ (রাযি.)-এর শরীরে জা‘ফরানের চিহ্ন দেখতে পেয়ে বললেন, এটা কি? তিনি বলেন, হে আল্লাহর রাসূল! আমি এক মহিলাকে বিয়ে করেছি। তিনি জিজ্ঞেস করলেনঃ তাকে কি পরিমাণ মোহর প্রদান করেছো? তিনি বলেন, খেজুরের আঁটির সমপরিমাণ ওজনের স্বর্ণ। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ বিবাহভোজের আয়োজন করো, যদিও তা একটি বকরী দ্বারাও হয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2109</td></tr><tr><td>Arabic No</td><td>2109</td></tr><tr><td>Reference</td><td>Book 12 Hadith 64</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes (r.a.)'den rivayet olunduğuna göre; Resûlullah (Sallallahu aleyhi ve Sellem) Abdurrahman b. Avf (r.a.)'ın üzerinde za'ferân izi görünce; “Bu nedir?" diye sordu. O da: Ya Rasulallah bir kadınla evlendim, cevâbını verdi. (Resûl-i Ekrem'); "Onun mehri ne kadardır?" diye sorunca; "Bir nevat ağırlığında altındır" diye cevap verdi. (Resûl-i Ekrem'de) "Bir koyun ile de olsa düğün yemeği ver" buyurdu. Diğer tahric: Buharî, nikah, Müslim, nikah, Tirmizî, nikah; Nesai, nikah; İbn Mace, nikah (1907); Darimî, nikah; Ahmed b. Hanbei, III, 227, 271, 274, 278
+Enes (r.a.)'den rivayet olunduğuna göre; Resûlullah (Sallallahu aleyhi ve Sellem) Abdurrahman b. Avf (r.a.)'ın üzerinde za'ferân izi görünce; “Bu nedir?" diye sordu. O da: Ya Rasulallah bir kadınla evlendim, cevâbını verdi. (Resûl-i Ekrem'); "Onun mehri ne kadardır?" diye sorunca; "Bir nevat ağırlığında altındır" diye cevap verdi. (Resûl-i Ekrem'de) "Bir koyun ile de olsa düğün yemeği ver" buyurdu. Diğer tahric: Buharî, nikah, Müslim, nikah, Tirmizî, nikah; Nesai, nikah; İbn Mace, nikah (1907); Darimî, nikah; Ahmed b. Hanbei, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2109</td></tr><tr><td>Arabic No</td><td>2109</td></tr><tr><td>Reference</td><td>Book 12 Hadith 64</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ইবনু মূসারহাদ .... কাবূস (রহঃ) থেকে লুবাবা (রহঃ)-এর সূত্রে বর্ণিত। তিনি বলেন, হুসায়েন ইবনু আলী (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের কোলে ছিলেন। এমতাবস্থায় তিনি তাঁর কোলে পেশাব করেন। তখন আমি তাকে বলি, আপনি অন্য একটি কাপড় পরিধান করুন এবং এই কাপড়টি আমাকে ধৌত করতে দিন। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মেয়ে শিশুর পেশাব কাপড়ে লাগলে তা ধৌত করতে হয় এবং ছেলে শিশুর পেশাব কাপড়ে লাগলে তাতে পানি ছিটালেই চলে।
+। লুবাবাহ বিনতুল হারিস সূত্রে বর্ণিত। তিনি বলেন, একদা হুসাইন ইবনু ‘আলী (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কোলে থাকাবস্থায় পেশাব করে দিলেন। আমি বললাম, আপনি অন্য একটি কাপড় পরে নিন এবং আপনার এই কাপড়টি আমাকে ধুতে দিন। তিনি বললেনঃ মেয়ে শিশু পেশাব করলে ধুতে হয়। আর ছেলে শিশু পেশাব করলে তাতে পানি ছিটিয়ে দিলেই যথেষ্ট।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>375</td></tr><tr><td>Reference</td><td>Book 1 Hadith 375</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad bin Musarhad] dan [Ar Rabi' bin Nafi', 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Lubabe binti el-Haris (r.anha)'dan; demiştir ki; "Ali (r.a.)'ın oğlu Hüseyin, Resulullah (Sallallahu aleyhi ve Sellem)'in kucağında idi. Efendimizin üzerine bevletti. Bir elbise giy, izarını da bana ver yıkayayım, dedim. Resulullah (Sallallahu aleyhi ve Sellem); "Ancak kızın idrarından dolayı yıkanır oğlanın idrarından ise (üzerine) su dökülür," buyurdu. Diğer tahric: Buhari, vudu; İbn Mace, tahare; Ahmed b. Hanbel, VI, 239, 240, 255, 256
+Lubabe binti el-Haris (r.anha)'dan; demiştir ki; "Ali (r.a.)'ın oğlu Hüseyin, Resulullah (Sallallahu aleyhi ve Sellem)'in kucağında idi. Efendimizin üzerine bevletti. Bir elbise giy, izarını da bana ver yıkayayım, dedim. Resulullah (Sallallahu aleyhi ve Sellem); "Ancak kızın idrarından dolayı yıkanır oğlanın idrarından ise (üzerine) su dökülür," buyurdu. Diğer tahric: Buhari, vudu; İbn Mace, tahare; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>375</td></tr><tr><td>Reference</td><td>Book 1 Hadith 375</td></tr></tbody></table></div>
 

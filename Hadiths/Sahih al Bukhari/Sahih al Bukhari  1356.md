@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, এক ইয়াহূদী বালক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর খিদমাত করত, সে একবার অসুস্থ হয়ে পড়লে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে দেখার জন্য আসলেন। তিনি তার মাথার নিকট বসে তাকে বললেনঃ তুমি ইসলাম গ্রহণ কর, সে তখন তার পিতার দিকে তাকাল, সে তার নিকটই ছিল, পিতা তাকে বলল, আবুল কাসিম (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কুনিয়াত) এর কথা মেনে নাও, তখন সে ইসলাম গ্রহণ করল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখান হতে বের হয়ে যাওয়ার সময় ইরশাদ করলেনঃ যাবতীয় প্রশংসা সে আল্লাহ্‌র, যিনি তাকে জাহান্নাম হতে মুক্তি দিলেন। (৫৬৫৭) (আধুনিক প্রকাশনীঃ ১২৬৬, ইসলামিক ফাউন্ডেশনঃ ১২৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, এক ইয়াহূদী বালক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর খিদমাত করত, সে একবার অসুস্থ হয়ে পড়লে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে দেখার জন্য আসলেন। তিনি তার মাথার নিকট বসে তাকে বললেনঃ তুমি ইসলাম গ্রহণ কর, সে তখন তার পিতার দিকে তাকাল, সে তার নিকটই ছিল, পিতা তাকে বলল, আবুল কাসিম (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কুনিয়াত) এর কথা মেনে নাও, তখন সে ইসলাম গ্রহণ করল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখান হতে বের হয়ে যাওয়ার সময় ইরশাদ করলেনঃ যাবতীয় প্রশংসা সে আল্লাহ্‌র, যিনি তাকে জাহান্নাম হতে মুক্তি দিলেন। (৫৬৫৭) (আধুনিক প্রকাশনীঃ ১২৬৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1356</td></tr><tr><td>Arabic No</td><td>1356</td></tr><tr><td>Reference</td><td>Book 23 Hadith 109</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்குப் பணி விடை செய்துகொண்டிருந்த ஒரு யூதச் சிறுவர் திடீரென நோயுற்றார். எனவே, அவரை நலம் விசாரிக்க நபி (ஸல்) அவர்கள் அவரிடம் சென்றபோது, அவரது தலைமாட்டில் அமர்ந்து கொண்டு, “இஸ்லாத்தை ஏற்றுக் கொள்” என்றார்கள். உடனே அவர் தம்மருகிலிருந்த தந்தையைப் பார்த்தார். அப்போது அவர், “அபுல்காசிம் (நபி (ஸல்) அவர்களின்) சொல்லுக்குக் கட்டுப்படு!” என்றதும், அவர் இஸ்லாத்தை ஏற்றுக்கொண்டார். அப்போது நபி (ஸல்) அவர்கள், “இவரை நரகத்திலிருந்து பாதுகாத்த அல்லாஹ்வுக்கே எல்லாப் புகழும்” எனக் கூறியவாறு அங்கிருந்து வெளியேறி னார்கள். அத்தியாயம் : 23
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்குப் பணி விடை செய்துகொண்டிருந்த ஒரு யூதச் சிறுவர் திடீரென நோயுற்றார். எனவே, அவரை நலம் விசாரிக்க நபி (ஸல்) அவர்கள் அவரிடம் சென்றபோது, அவரது தலைமாட்டில் அமர்ந்து கொண்டு, “இஸ்லாத்தை ஏற்றுக் கொள்” என்றார்கள். உடனே அவர் தம்மருகிலிருந்த தந்தையைப் பார்த்தார். அப்போது அவர், “அபுல்காசிம் (நபி (ஸல்) அவர்களின்) சொல்லுக்குக் கட்டுப்படு!” என்றதும், அவர் இஸ்லாத்தை ஏற்றுக்கொண்டார். அப்போது நபி (ஸல்) அவர்கள், “இவரை நரகத்திலிருந்து பாதுகாத்த அல்லாஹ்வுக்கே எல்லாப் புகழும்” எனக் கூறியவாறு அங்கிருந்து வெளியேறி னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1356</td></tr><tr><td>Arabic No</td><td>1356</td></tr><tr><td>Reference</td><td>Book 23 Hadith 109</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem'e hizmet eden Yahudi bir çocuk vardı. Bu çocuk hastalandı. Nebi Sallallahu Aleyhi ve Sellem o'nu ziyaret etti, baş ucunda oturdu. Çocuğa: "Müslüman ol" dedi. Çocuk yanında duran babasına baktı. Babası ona: "Ebu'l-Kasım'a itaat et" dedi. Bunun üzerine çocuk Müslüman oldu. Nebi Sallallahu Aleyhi ve Sellem çocuğun yanından çıktı ve şöyle dedi: "Onu ateşten kurtaran Allah'a hamd olsun. Tekrar: 5657
+Enes r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem'e hizmet eden Yahudi bir çocuk vardı. Bu çocuk hastalandı. Nebi Sallallahu Aleyhi ve Sellem o'nu ziyaret etti, baş ucunda oturdu. Çocuğa: "Müslüman ol" dedi. Çocuk yanında duran babasına baktı. Babası ona: "Ebu'l-Kasım'a itaat et" dedi. Bunun üzerine çocuk Müslüman oldu. Nebi Sallallahu Aleyhi ve Sellem çocuğun yanından çıktı ve şöyle dedi: "Onu ateşten kurtaran Allah'a hamd olsun. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1356</td></tr><tr><td>Arabic No</td><td>1356</td></tr><tr><td>Reference</td><td>Book 23 Hadith 109</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... সালামা ইবন নুবাইত (রহঃ) তাঁর গোত্রের জনৈক ব্যক্তি থেকে তিনি তাঁর পিতা হতে বর্ণনা করেছেন। তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে আরাফার ময়দানে অবস্থানকালে একটি লাল উষ্ট্রীর উপর সাওয়ার থাকাবস্থায় খুতবা প্রদান করতে দেখেছেন।
+। নুবাইত (রাযি.) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আরাফার ময়দানে একটি লাল রংয়ের উষ্ট্রীর উপর সওয়ার অবস্থায় খুৎবা দিতে দেখেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 196</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুতা পরা, চুল আঁচড়ানো এবং পবিত্রতা অর্জন করা তথা প্রত্যেক কাজই ডান দিক হতে আরম্ভ করতে পছন্দ করতেন। (৪২৬, ৫৩৮০, ৫৮৫৪, ৫৯২৬; মুসলিম ১৫/৫, হাঃ ১১৮৭) (আধুনিক প্রকাশনীঃ ১৬৪, ইসলামিক ফাউন্ডেশনঃ ১৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুতা পরা, চুল আঁচড়ানো এবং পবিত্রতা অর্জন করা তথা প্রত্যেক কাজই ডান দিক হতে আরম্ভ করতে পছন্দ করতেন। (৪২৬, ৫৩৮০, ৫৮৫৪, ৫৯২৬; মুসলিম ১৫/৫, হাঃ ১১৮৭) (আধুনিক প্রকাশনীঃ ১৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>168</td></tr><tr><td>Arabic No</td><td>168</td></tr><tr><td>Reference</td><td>Book 4 Hadith 34</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், தாம் காலணி அணிந்துகொள்ளும்போதும் தலைவாரிக் கொள்ளும்போதும் சுத்தம் செய்யும் போதும் தம் அனைத்து வேலைகளிலும் வலப் பக்கத்திலிருந்து தொடங்குவதையே விரும்பிவந்தார்கள்.16 அத்தியாயம் : 4
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், தாம் காலணி அணிந்துகொள்ளும்போதும் தலைவாரிக் கொள்ளும்போதும் சுத்தம் செய்யும் போதும் தம் அனைத்து வேலைகளிலும் வலப் பக்கத்திலிருந்து தொடங்குவதையே விரும்பிவந்தார்கள்.16 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>168</td></tr><tr><td>Arabic No</td><td>168</td></tr><tr><td>Reference</td><td>Book 4 Hadith 34</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha) şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) ayakkabı giymede, saçını-sakalını taramada, abdest almada, (hasılı) bütün İşlerde sağdan başlamayı severdi. Tekrar: 426, 5380, 5854, 5926
+Aişe (r.anha) şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) ayakkabı giymede, saçını-sakalını taramada, abdest almada, (hasılı) bütün İşlerde sağdan başlamayı severdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>168</td></tr><tr><td>Arabic No</td><td>168</td></tr><tr><td>Reference</td><td>Book 4 Hadith 34</td></tr></tbody></table></div>
 

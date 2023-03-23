@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৯৪১, আন্তর্জাতিক নাম্বারঃ ২৭৮৬ ৬৯৪১-(২১/...) উমর ইবনু হাফস ইবনু গিয়াস (রহঃ) .... ‘আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। আহলে কিতাবদের জনৈক লোক রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এসে বলল, হে আবুল কাসিম! আল্লাহ তা’আলা আকাশমণ্ডলী এক আঙ্গুলে, ভূমণ্ডল এক আঙ্গুলে, গাছপালা ও আর্দ্র মাটি এক আঙ্গুলে এবং সকল সৃষ্টি এক আঙ্গুলে তুলে ধরবেন। এরপর তিনি বলবেন, আমিই বাদশাহ্, আমিই রাজা। রাবী বলেন, তখন আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে এমনভাবে হাসতে দেখলাম যে, তার মাড়ি মুবারকের দাঁতগুলো প্রকাশ পেলো। এরপর তিলাওয়াত করলেন, (অর্থ) "তারা আল্লাহর যথোপযুক্ত সম্মান প্রদর্শন করেনি।" (ইসলামিক ফাউন্ডেশন ৬৭৯১, ইসলামিক সেন্টার ৬৮৪৫)
+উমর ইবনু হাফস ইবনু গিয়াস (রহঃ) .... ‘আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। আহলে কিতাবদের জনৈক লোক রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এসে বলল, হে আবুল কাসিম! আল্লাহ তা’আলা আকাশমণ্ডলী এক আঙ্গুলে, ভূমণ্ডল এক আঙ্গুলে, গাছপালা ও আর্দ্র মাটি এক আঙ্গুলে এবং সকল সৃষ্টি এক আঙ্গুলে তুলে ধরবেন। এরপর তিনি বলবেন, আমিই বাদশাহ্, আমিই রাজা। রাবী বলেন, তখন আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে এমনভাবে হাসতে দেখলাম যে, তার মাড়ি মুবারকের দাঁতগুলো প্রকাশ পেলো। এরপর তিলাওয়াত করলেন, (অর্থ) "তারা আল্লাহর যথোপযুক্ত সম্মান প্রদর্শন করেনি।" (ইসলামিক ফাউন্ডেশন ৬৭৯১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7048</td></tr><tr><td>Arabic No</td><td>2786.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 4</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah reported that a person from the People of the Book came to Allah's Apostle (may peace he upon him) and said:Abu al-Qasim, verily, Allah holds the Heavens upon one finger and the earths upon one finger and the trees and moist earth upon one finger and in fact the whole of the creation upon one finger and then say: I am the King. I am the King. And he (the narrator) further said: I saw Allah's Messenger (ﷺ) smiling until his front teeth became visible and then he recited the verse: "And they measure not the power of Allah with His true measure" (39:67)
+Abdullah reported that a person from the People of the Book came to Allah's Apostle (may peace he upon him) and said:Abu al-Qasim, verily, Allah holds the Heavens upon one finger and the earths upon one finger and the trees and moist earth upon one finger and in fact the whole of the creation upon one finger and then say: I am the King. I am the King. And he (the narrator) further said: I saw Allah's Messenger (ﷺ) smiling until his front teeth became visible and then he recited the verse: "And they measure not the power of Allah with His true measure" (39:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7048</td></tr><tr><td>Arabic No</td><td>2786.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 4</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: வேதக்காரர்களில் ஒருவர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் வந்து, "அபுல் காசிமே! அல்லாஹ் (மறுமை நாளில்) வானங்களை ஒரு விரல்மீதும் பூமிகளை ஒரு விரல் மீதும் மரங்கள் மற்றும் ஈர மண்ணை ஒரு விரல்மீதும் (இதர) படைப்புகளை ஒரு விரல் மீதும் வைத்துக்கொண்டு, பிறகு "நானே அரசன்; நானே அரசன்" என்று சொல்வான்" என்றார். (இதைக் கேட்டு) நபி (ஸல்) அவர்கள் தம் கடைவாய்ப் பற்கள் தெரியச் சிரித்ததை நான் பார்த்தேன். பிறகு "அவர்கள் அல்லாஹ்வை எவ்வாறு மதிக்க வேண்டுமோ அவ்வாறு மதிக்கவில்லை" (39:67) என்று தொடங்கும் வசனத்தை ஓதினார்கள். இதை அல்கமா (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 50
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: வேதக்காரர்களில் ஒருவர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் வந்து, "அபுல் காசிமே! அல்லாஹ் (மறுமை நாளில்) வானங்களை ஒரு விரல்மீதும் பூமிகளை ஒரு விரல் மீதும் மரங்கள் மற்றும் ஈர மண்ணை ஒரு விரல்மீதும் (இதர) படைப்புகளை ஒரு விரல் மீதும் வைத்துக்கொண்டு, பிறகு "நானே அரசன்; நானே அரசன்" என்று சொல்வான்" என்றார். (இதைக் கேட்டு) நபி (ஸல்) அவர்கள் தம் கடைவாய்ப் பற்கள் தெரியச் சிரித்ததை நான் பார்த்தேன். பிறகு "அவர்கள் அல்லாஹ்வை எவ்வாறு மதிக்க வேண்டுமோ அவ்வாறு மதிக்கவில்லை" (39:67) என்று தொடங்கும் வசனத்தை ஓதினார்கள். இதை அல்கமா (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7048</td></tr><tr><td>Arabic No</td><td>2786.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 4</td></tr></tbody></table></div>
 

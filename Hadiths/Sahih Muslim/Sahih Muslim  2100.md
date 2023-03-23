@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ গাসসান আল মিসমাঈ (রহঃ) ..... হিশাম (রহঃ) থেকে একই সানাদে অনুরূপ বর্ণিত হয়েছে। কেবল ব্যতিক্রম এই যে, তিনি বলেন, আমি জাহান্নামের মধ্যে হিমইয়ারিয়্যাহ গোত্রের একটি দীর্ঘাকায় কালো মেয়েলোককে দেখতে পেলাম। এতে তিনি বনী ইসরাঈলের কথা উল্লেখ করেননি। (ইসলামী ফাউন্ডেশন ১৯৭০, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2100</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

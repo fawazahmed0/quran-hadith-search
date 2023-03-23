@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইব্ন কাছীর (রহঃ) .... আবূ দারদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মৃত্যর সময় গোলাম আযাদ করার উদাহরণ হলো এমন, যেমন কোন ব্যাক্তি নিজের পেট ভরার পর অন্যকে দান করে। (কাজেই যৌবনে সুস্থাবস্থায় গোলাম আযাদ করা উত্তম)।
+। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুমূর্ষ অবস্থায় গোলাম আযাদকারীর দৃষ্টান্ত হলো, যে ব্যক্তি পরিতৃপ্ত হওয়ার পর অন্যকে উপহার দেয়।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 31 Hadith 43</td></tr></tbody></table></div>
 

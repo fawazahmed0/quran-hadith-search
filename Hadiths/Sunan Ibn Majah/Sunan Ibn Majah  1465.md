@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১৪৬৫। ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাকী থেকে ফিরে এসে আমাকে মাথা ব্যথায় যন্ত্রণাকাতর অবস্থায় পেলেন। তখন আমি বলছিলাম, হে আমার মাথা! তিনি বলেনঃ হে ‘আয়িশাহ! আমিও মাথা ব্যথায় ভুগছি। হে আমার মাথা! অতঃপর তিনি বলেনঃ তুমি যদি আমার পূর্বে মারা যেতে, তাহলে তোমার কোন ক্ষতি হতো না। কেননা আমি তোমাকে গোসল করাতাম, কাফন পরাতাম, তোমার জানাযার সালাত পড়তাম এবং তোমাকে দাফন করতাম।
+। ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাকী থেকে ফিরে এসে আমাকে মাথা ব্যথায় যন্ত্রণাকাতর অবস্থায় পেলেন। তখন আমি বলছিলাম, হে আমার মাথা! তিনি বলেনঃ হে ‘আয়িশাহ! আমিও মাথা ব্যথায় ভুগছি। হে আমার মাথা! অতঃপর তিনি বলেনঃ তুমি যদি আমার পূর্বে মারা যেতে, তাহলে তোমার কোন ক্ষতি হতো না। কেননা আমি তোমাকে গোসল করাতাম, কাফন পরাতাম, তোমার জানাযার সালাত পড়তাম এবং তোমাকে দাফন করতাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1465</td></tr><tr><td>Arabic No</td><td>1465</td></tr><tr><td>Reference</td><td>Book 6 Hadith 33</td></tr></tbody></table></div>
 

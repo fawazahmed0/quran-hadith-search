@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইব্‌ন সাঈদ (রহঃ) ..... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, ইয়া রাসুলাল্লাহ! কোন ধরনের সাদ্‌কাহ উত্তম? তিনি বলেনঃ যার মালের পরিমাণ কম এবং তা থেকে কষ্ট করে দান করে দান করে এবং তোমার পরিবার-পরিজন, যাদের ভরণ-পোষণ তোমার কর্তব্য তাদেরকে প্রথমে দান কর।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, হে আল্লাহর রসূল! কোন ধরনের দান অতি উত্তম? তিনি বললেনঃ সামান্য সম্পদের মালিক নিজ সামর্থ্যানুযায়ী যা দান করে এবং নিজের পোষ্যদের থেকেই দান করা আরম্ভ করো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 9 Hadith 122</td></tr></tbody></table></div>
 

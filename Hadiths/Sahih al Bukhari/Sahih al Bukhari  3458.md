@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, তিনি কোমরে হাত রাখাকে অপছন্দ করতেন। আর বলতেন, ইয়াহূদীরা এমন করে। শু‘বা (রহ.) আ‘মাশ (রহ.) হতে হাদীস বর্ণনায় সুফ্ইয়ান (রহ.)-এর অনুসরণ করেছেন। (আধুনিক প্রকাশনীঃ ৩২০০, ইসলামিক ফাউন্ডেশনঃ ৩২০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, তিনি কোমরে হাত রাখাকে অপছন্দ করতেন। আর বলতেন, ইয়াহূদীরা এমন করে। শু‘বা (রহ.) আ‘মাশ (রহ.) হতে হাদীস বর্ণনায় সুফ্ইয়ান (রহ.)-এর অনুসরণ করেছেন। (আধুনিক প্রকাশনীঃ ৩২০০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3458</td></tr><tr><td>Arabic No</td><td>3458</td></tr><tr><td>Reference</td><td>Book 60 Hadith 125</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மஸ்ரூக் (ரஹ்) அவர்கள் கூறியதாவது: தொழுபவர் தமது கையைத் தமது பக்கவாட்டில் (இடுப்புக்குமேல்) வைத்திருப் பதை ஆயிஷா (ரலி) அவர்கள் வெறுத்து வந்தார்கள். ‘‘யூதர்கள்தான் அப்படிச் செய்வார்கள்” என்று சொல்வார்கள்.131 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 60
+மஸ்ரூக் (ரஹ்) அவர்கள் கூறியதாவது: தொழுபவர் தமது கையைத் தமது பக்கவாட்டில் (இடுப்புக்குமேல்) வைத்திருப் பதை ஆயிஷா (ரலி) அவர்கள் வெறுத்து வந்தார்கள். ‘‘யூதர்கள்தான் அப்படிச் செய்வார்கள்” என்று சொல்வார்கள்.131 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3458</td></tr><tr><td>Arabic No</td><td>3458</td></tr><tr><td>Reference</td><td>Book 60 Hadith 125</td></tr></tbody></table></div>
 

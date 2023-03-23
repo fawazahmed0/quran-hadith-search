@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মাসঊদ ...... আয়েশা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন যে, দাসীর জন্য তালাক হল দু‘টি এবং তার ইদ্দতের সময় হল দু' হায়েয পর্যন্ত। আবূ আসিম আয়েশা (রাঃ) হতে এবং তিনি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ বর্ণনা করেছেন। তবে তিনি অতিরিক্ত বলেন, তার ইদ্দত হল দু' হায়েয। [ইমাম আবু দাউদ (রহঃ) বলেন এ হাদিসটি মাজহুল
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দাসীর তালাক দু‘টি এবং তার ইদ্দাতকাল দুই হচ্ছে হায়িয। আবূ ‘আসিম বলেন, মুযাহির আমাকে কাসিমের মাধ্যমে ‘আয়িশাহ্ (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে অনুরূপ বর্ণনা করেছেন। তবে তিনি বলেছেনঃ দাসীর ইদ্দাত হচ্ছে দুই হায়িয। ইমাম আবূ দাঊদ (রহ.) বলেন, এ হাদীসটি অজ্ঞাত (মাজহুল)।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2189</td></tr><tr><td>Arabic No</td><td>2189</td></tr><tr><td>Reference</td><td>Book 13 Hadith 15</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে পনেরটি যুদ্ধে অংশ নিয়েছি। (আধুনিক প্রকাশনীঃ ৪১১৪, ইসলামিক ফাউন্ডেশনঃ ৪১১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4472</td></tr><tr><td>Arabic No</td><td>4472</td></tr><tr><td>Reference</td><td>Book 64 Hadith 487</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Raja'] Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறிய தாவது: நான் நபி (ஸல்) அவர்களுடன் பதினைந்து அறப்போர்களில் கலந்து கொண்டேன். அத்தியாயம் : 64
+பராஉ (ரலி) அவர்கள் கூறிய தாவது: நான் நபி (ஸல்) அவர்களுடன் பதினைந்து அறப்போர்களில் கலந்து கொண்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4472</td></tr><tr><td>Arabic No</td><td>4472</td></tr><tr><td>Reference</td><td>Book 64 Hadith 487</td></tr></tbody></table></div>
 

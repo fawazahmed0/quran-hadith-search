@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ যার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! পৃথিবীতে সর্বপ্রথম কোন মাসজিদ তৈরী করা হয়েছে? তিনি বললেন, মসজিদে হারাম। আমি বললাম, অতঃপর কোনটি? তিনি বললেন, মসজিদে আকসা। আমি বললাম, উভয় মসজিদের (তৈরীর) মাঝে কত ব্যবধান ছিল? তিনি বললেন, চল্লিশ বছর। অতঃপর তোমার যেখানেই সালাতের সময় হবে, সেখানেই সালাত আদায় করে নিবে। কেননা এর মধ্যে ফযীলত নিহিত রয়েছে। (৩৪২৫) (আধুনিক প্রকাশনীঃ ৩১১৬, ইসলামিক ফাউন্ডেশনঃ ৩১২৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ যার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! পৃথিবীতে সর্বপ্রথম কোন মাসজিদ তৈরী করা হয়েছে? তিনি বললেন, মসজিদে হারাম। আমি বললাম, অতঃপর কোনটি? তিনি বললেন, মসজিদে আকসা। আমি বললাম, উভয় মসজিদের (তৈরীর) মাঝে কত ব্যবধান ছিল? তিনি বললেন, চল্লিশ বছর। অতঃপর তোমার যেখানেই সালাতের সময় হবে, সেখানেই সালাত আদায় করে নিবে। কেননা এর মধ্যে ফযীলত নিহিত রয়েছে। (৩৪২৫) (আধুনিক প্রকাশনীঃ ৩১১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>3366</td></tr><tr><td>Reference</td><td>Book 60 Hadith 40</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Dhar:I said, "O Allah's Messenger (ﷺ)! Which mosque was first bui
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூதர் (ரலி) அவர்கள் கூறியதாவது: நான் (நபி (ஸல்) அவர்களிடம்), ‘‘அல்லாஹ்வின் தூதரே! பூமியில் முதன் முதலாக அமைக்கப்பட்ட பள்ளிவாசல் எது?” என்று கேட்டேன். அவர்கள், ‘‘அல் மஸ்ஜிதுல் ஹராம் (மக்கா நகரிலுள்ள புனித கஅபா அமைந்திருக்கும்) இறை யில்லம்” என்று பதிலளித்தார்கள். நான், ‘‘பிறகு எது?” என்று கேட்டேன். அவர்கள், ‘‘(ஜெரூஸலத்தில் உள்ள) அல்மஸ்ஜிதுல் அக்ஸா” என்று பதிலளித்தார்கள். நான், ‘‘அவ்விரண்டுக்குமிடையே எத்தனை ஆண்டுக் காலம் (இடைவெளி) இருந்தது?” என்று கேட்டேன். அவர்கள், ‘‘நாற்பதாண்டுகள்” (மஸ்ஜிதுல் ஹராம் அமைக்கப்பட்டு நாற்பதாண்டுகள் கழித்து மஸ்ஜிதுல் அக்ஸா அமைக்கப் பட்டது).40 பிறகு, ‘‘நீ தொழுகை நேரத்தை எங்கு அடைந்தாலும் உடனே, அதைத் தொழுதுவிடு. ஏனெனில், நேரப்படி தொழுகையை நிறைவேற்றுவதில்தான் சிறப்பு உள்ளது” என்று சொன்னார்கள். அத்தியாயம் : 60
+அபூதர் (ரலி) அவர்கள் கூறியதாவது: நான் (நபி (ஸல்) அவர்களிடம்), ‘‘அல்லாஹ்வின் தூதரே! பூமியில் முதன் முதலாக அமைக்கப்பட்ட பள்ளிவாசல் எது?” என்று கேட்டேன். அவர்கள், ‘‘அல் மஸ்ஜிதுல் ஹராம் (மக்கா நகரிலுள்ள புனித கஅபா அமைந்திருக்கும்) இறை யில்லம்” என்று பதிலளித்தார்கள். நான், ‘‘பிறகு எது?” என்று கேட்டேன். அவர்கள், ‘‘(ஜெரூஸலத்தில் உள்ள) அல்மஸ்ஜிதுல் அக்ஸா” என்று பதிலளித்தார்கள். நான், ‘‘அவ்விரண்டுக்குமிடையே எத்தனை ஆண்டுக் காலம் (இடைவெளி) இருந்தது?” என்று கேட்டேன். அவர்கள், ‘‘நாற்பதாண்டுகள்” (மஸ்ஜிதுல் ஹராம் அமைக்கப்பட்டு நாற்பதாண்டுகள் கழித்து மஸ்ஜிதுல் அக்ஸா அமைக்கப் பட்டது).40 பிறகு, ‘‘நீ தொழுகை நேரத்தை எங்கு அடைந்தாலும் உடனே, அதைத் தொழுதுவிடு. ஏனெனில், நேரப்படி தொழுகையை நிறைவேற்றுவதில்தான் சிறப்பு உள்ளது” என்று சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>3366</td></tr><tr><td>Reference</td><td>Book 60 Hadith 40</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated Abu Dhar:I said, "O Allah's Messenger (ﷺ)! Which mosque was first bui
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Zer' r.a. dedi ki: "Ey Allah'ın Resulü! Yeryüzünde ilk yapılan mescid hangisidir? Resulullah Sallallahu Aleyhi ve Sellem: Mescid-i Haram'dır, diye buyurdu. Ben: Sonra hangisidir, diye sordum. O: Mescid-İ Aksa'dır, dedi. Peki, ikisi arasında ne kadar bir zaman var, diye sordum. Kırk yıl, buyurdu. Hem namaz vakti nerede iken girerse orada namazını kılıver. Çünkü fazilet ondadır. " Tekrar: 3425
+Ebu Zer' r.a. dedi ki: "Ey Allah'ın Resulü! Yeryüzünde ilk yapılan mescid hangisidir? Resulullah Sallallahu Aleyhi ve Sellem: Mescid-i Haram'dır, diye buyurdu. Ben: Sonra hangisidir, diye sordum. O: Mescid-İ Aksa'dır, dedi. Peki, ikisi arasında ne kadar bir zaman var, diye sordum. Kırk yıl, buyurdu. Hem namaz vakti nerede iken girerse orada namazını kılıver. Çünkü fazilet ondadır. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>3366</td></tr><tr><td>Reference</td><td>Book 60 Hadith 40</td></tr></tbody></table></div>
 

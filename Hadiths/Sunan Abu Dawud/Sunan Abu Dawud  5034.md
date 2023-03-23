@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ তুমি তোমার ভাইয়ের হাঁচির জবাব তিনবার দেবে। এরপরও যদি সে হাঁচি দেয়, তবে মনে করবে, তা সর্দির কারণে (তখন এর জবাব দেয়া জরুরী নয়)
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, তোমার ভাইয়ের হাঁচির উত্তর তিনবার দিবে। এরপরও হাঁচি দিতে থাকলে তবে তার মস্তিষ্কে ঠান্ডা লেগেছে (তাই আর জবাব দিতে হবে না)।[1] হাসান মাওকুফ ও মারফু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5034</td></tr><tr><td>Arabic No</td><td>5034</td></tr><tr><td>Reference</td><td>Book 43 Hadith 262</td></tr></tbody></table></div>
 

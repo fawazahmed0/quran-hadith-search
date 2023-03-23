@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াযীদ ইবন খালিদ .... সাফওয়ান ইবন ইয়া‘লা ইবন মুনাব্বিহ (রহঃ) তাঁর পিতা হতে পূর্বোক্ত হাদীসে অনুরূপ হাদীস বর্ণনা করেছেন। তাতে আরো আছে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে নির্দেশ দেন যে, সে যেন জুব্বাটি খুলে ফেলে এবং শরীরের মধ্যকার সুগন্ধির স্থানগুলো দুই বা তিনবার ধুয়ে ফেলে।
+। সাফওয়ান ইবনু ইয়া‘লা ইবনু মুনাব্বিহ (রহ.) সূত্রে বর্ণিত। তিনি বলেন, তিনি তার পিতা থেকে এ হাদীস বর্ণনা করেছেন। তিনি বলেন, অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে জুব্বাটি খুলে ফেলার নির্দেশ দেন এবং সুগন্ধির স্থান দুই বা তিনবার ধুয়ে ফেলতে বললেন। অতঃপর বর্ণনাকারী পূর্ণ হাদীস বর্ণনা করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1821</td></tr><tr><td>Arabic No</td><td>1821</td></tr><tr><td>Reference</td><td>Book 11 Hadith 101</td></tr></tbody></table></div>
 

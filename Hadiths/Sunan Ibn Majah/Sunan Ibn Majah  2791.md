@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/২৭৯১। তামীম আদ-দারী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ যে ব্যক্তি আল্লাহর পথে (জিহাদের উদ্দেশে) একটি ঘোড়া পোষে, অতঃপর স্বহস্তে একে ঘাস ও শস্যদানা খাওয়ায়, তার আমলনামায় প্রতিটি দানার বিনিময়ে একটি করে সওয়াব লেখা হয়।
+। তামীম আদ-দারী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ যে ব্যক্তি আল্লাহর পথে (জিহাদের উদ্দেশে) একটি ঘোড়া পোষে, অতঃপর স্বহস্তে একে ঘাস ও শস্যদানা খাওয়ায়, তার আমলনামায় প্রতিটি দানার বিনিময়ে একটি করে সওয়াব লেখা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2791</td></tr><tr><td>Arabic No</td><td>2791</td></tr><tr><td>Reference</td><td>Book 24 Hadith 39</td></tr></tbody></table></div>
 

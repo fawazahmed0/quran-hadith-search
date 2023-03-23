@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫৩০, আন্তর্জাতিক নাম্বারঃ ২১৫৫ ৫৫৩০-(.../...) ইসহাক ইবনু ইবরাহীম, মুহাম্মদ ইবনুল মুসান্না ও আবদুর রহমান ইবনু বিশর (রহঃ) সবাই শু’বাহ (রহঃ) সূত্রে উল্লিখিত সানাদে হাদীস বর্ণনা করেছেন। কিন্তু তাদের বর্ণিত হাদীসে রয়েছে, তিনি যেন তা (আমি আমি বলা) পছন্দ করলেন না। (ইসলামিক ফাউন্ডেশন ৫৪৫২, ইসলামিক সেন্টার ৫৪৭৪)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5637</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... আবদুল্লাহ ইবন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ কিয়ামতের দিন কুরআনের পাঠককে বলা হবে, তুমি তা পাঠ করতে থাক এবং উপরে চড়তে (উঠতে) থাক। তুমি তাকে ধীরেসুস্থে পাঠ করতে থাক, যেরূপ তুমি দুনিয়াতে পাঠ করতে। কেননা তোমার সর্বশেষ বসবাসের স্থান (জান্নাত) ঐটিই যেখানে তোমার কুরআনের আয়াত শেষ হবে। (তিরমিযী, ইবন মাজা)।
+। ‘আবদুল্লাহ ইবনু ‘আমর রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (কিয়ামতে) কুরআন অধ্যয়নকারীকে বলা হবে, কুরআন পাঠ করতে করতে উপরে উঠতে থাকো। তুমি দুনিয়াতে যেভাবে ধীরে সুস্থে পাঠ করতে সেভাবে পাঠ করো। কেননা তোমার তিলাওয়াতের শেষ আয়াতেই (জান্নাতে) তোমার বাসস্থান হবে।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1464</td></tr><tr><td>Arabic No</td><td>1464</td></tr><tr><td>Reference</td><td>Book 8 Hadith 49</td></tr></tbody></table></div>
 

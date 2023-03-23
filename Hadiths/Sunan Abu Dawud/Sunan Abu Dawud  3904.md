@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যে ব্যক্তি কোন গণকের নিকট যায়; রাবী মূসা বলেনঃ আর সে ব্যক্তি তার কথায় বিশ্বাস করে; অথবা সে তাঁর স্ত্রীর নিকট গমন করে। রাবী মুসাদ্দাদ (রহঃ) বলেনঃ অথবা সে তার স্ত্রীর পশ্চাদদ্বারে সংগম করে; সে যেন আল্লাহ তা’আলা কর্তৃক মুহাম্মদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উপর নাযিলকৃত দীন হতে মুক্ত (অর্থাৎ গুমরাহ) হলো।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোনো ব্যক্তি গণকের নিকট গেলে (বর্ণনাকারী মূসা তার হাদীসে বলেন) এবং তার কথা বিশ্বাস করলে অথবা স্ত্রীর সাথে (মুসাদ্দাদের বর্ণনায় রয়েছে) ঋতুবতী স্ত্রীর সাথে সহবাস করলে অথবা স্ত্রীর সাথে পশ্চাৎ দ্বারে সহবাস করলে সে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উপর যা অবতীর্ণ হয়েছে, সে তা থেকে দায়মুক্ত (অর্থাৎ ইসলামের গন্ডির বাইরে)।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3904</td></tr><tr><td>Arabic No</td><td>3904</td></tr><tr><td>Reference</td><td>Book 30 Hadith 1</td></tr></tbody></table></div>
 

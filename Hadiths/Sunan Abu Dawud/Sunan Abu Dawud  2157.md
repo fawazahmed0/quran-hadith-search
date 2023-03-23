@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন আওন ...... আবূ সাঈদ আল খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ কোন গর্ভবতী বন্দিনীর সাথে তার সন্তান প্রসবের আগে এবং কোন রমনীর সাথে তার হায়েয হতে পবিত্র হওয়ার পূর্বে সহবাস করবে না।
+। আবূ সাঈদ আল-খুদরী (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আওতাস যুদ্ধের বন্দী দাসীদের সম্বন্ধে বলেছেনঃ সন্তান প্রসবের আগে গর্ভবতীর সাথে সঙ্গম করা যাবে না। আর গর্ভবতী নয় এমন নারীর মাসিক ঋতু শেষ না হওয়া পর্যন্ত তার সাথেও সঙ্গম করা যাবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2157</td></tr><tr><td>Arabic No</td><td>2157</td></tr><tr><td>Reference</td><td>Book 12 Hadith 112</td></tr></tbody></table></div>
 

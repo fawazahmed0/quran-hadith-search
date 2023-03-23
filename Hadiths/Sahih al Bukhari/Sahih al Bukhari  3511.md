@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মিম্বরের উপর উপবিষ্ট অবস্থায় পূর্ব দিকে* ইঙ্গিত করে বলতে শুনেছি, সাবধান! ফিতনা ফাসাদের উদ্ভব ঐদিক থেকেই হবে এবং ঐদিক থেকেই শয়তানের শিং উদিত হবে। (৩১০৪) (আধুনিক প্রকাশনীঃ ৩২৪৮, ইসলামিক ফাউন্ডেশনঃ ৩২৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মিম্বরের উপর উপবিষ্ট অবস্থায় পূর্ব দিকে* ইঙ্গিত করে বলতে শুনেছি, সাবধান! ফিতনা ফাসাদের উদ্ভব ঐদিক থেকেই হবে এবং ঐদিক থেকেই শয়তানের শিং উদিত হবে। (৩১০৪) (আধুনিক প্রকাশনীঃ ৩২৪৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3511</td></tr><tr><td>Arabic No</td><td>3511</td></tr><tr><td>Reference</td><td>Book 61 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'ai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் சொற்பொழிவு மேடையின் மீதிருந்தபடி, “தெரிந்துகொள்ளுங்கள்: குழப்பம், இங்கே ஷைத்தானின் கொம்பு உதயமாகும் இடத்திலிருந்துதான் தோன்றும்” என்று கிழக்குத் திசையை நோக்கிச் சைகை செய்தபடி கூறினார்.23 அத்தியாயம் : 61
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் சொற்பொழிவு மேடையின் மீதிருந்தபடி, “தெரிந்துகொள்ளுங்கள்: குழப்பம், இங்கே ஷைத்தானின் கொம்பு உதயமாகும் இடத்திலிருந்துதான் தோன்றும்” என்று கிழக்குத் திசையை நோக்கிச் சைகை செய்தபடி கூறினார்.23 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3511</td></tr><tr><td>Arabic No</td><td>3511</td></tr><tr><td>Reference</td><td>Book 61 Hadith 21</td></tr></tbody></table></div>
 

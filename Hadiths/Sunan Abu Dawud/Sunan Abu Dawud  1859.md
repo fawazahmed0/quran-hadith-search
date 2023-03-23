@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ (রহঃ) ..... কা‘ব ইবন উজরা (রাঃ) হতে বর্ণিত। তাঁর মাথায় উকুনের উপদ্রব দেখা দিলে তিনি স্বীয় মস্তক মুন্ডন করেন। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে একটি গাভী কুরবানী করার নির্দেশ দেন। [এবং তার "গরু" কথাটি মুনকার।]
+। কা‘ব ইবনু ‘উজরাহ (রাযি.) সূত্রে বর্ণিত। তার মাথায় (উকুনের উপদ্রবের কারণে) কষ্ট হওয়ায় তিনি মাথা মুড়ে ফেলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে একটি গরু কুরবানী করার নির্দেশ দিলেন।[1] দুর্বলঃ এবং তার ‘গরু’ কথাটি মুনকার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1859</td></tr><tr><td>Arabic No</td><td>1859</td></tr><tr><td>Reference</td><td>Book 11 Hadith 139</td></tr></tbody></table></div>
 

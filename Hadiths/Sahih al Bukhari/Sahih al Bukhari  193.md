@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَتَوَضَّأَ عُمَرُ بِالْحَمِيمِ وَمِنْ بَيْتِ نَصْرَانِيَّةٍ. ‘উমার (রাযি.) গরম পানি দিয়ে এবং নাসারা মহিলার ঘরের পানি দিয়ে উযূ করেন। ১৯৩. ‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল -এর সময় পুরুষ এবং মহিলা একত্রে (এক পাত্র হতে) উযূ করতেন। (আধুনিক প্রকাশনীঃ ১৮৭, ইসলামিক ফাউন্ডেশনঃ ১৯৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَتَوَضَّأَ عُمَرُ بِالْحَمِيمِ وَمِنْ بَيْتِ نَصْرَانِيَّةٍ. ‘উমার (রাযি.) গরম পানি দিয়ে এবং নাসারা মহিলার ঘরের পানি দিয়ে উযূ করেন। ১৯৩. ‘আবদুল্লাহ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল -এর সময় পুরুষ এবং মহিলা একত্রে (এক পাত্র হতে) উযূ করতেন। (আধুনিক প্রকাশনীঃ ১৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>193</td></tr><tr><td>Arabic No</td><td>193</td></tr><tr><td>Reference</td><td>Book 4 Hadith 59</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் (பர்தாவின் சட்டம் அருளப்படுவதற்குமுன்) ஆண்களும் பெண்களும் சேர்ந்தே (ஓரிடத்தில்) அங்கத் தூய்மை செய்வார்கள். அத்தியாயம் : 4
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் (பர்தாவின் சட்டம் அருளப்படுவதற்குமுன்) ஆண்களும் பெண்களும் சேர்ந்தே (ஓரிடத்தில்) அங்கத் தூய்மை செய்வார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>193</td></tr><tr><td>Arabic No</td><td>193</td></tr><tr><td>Reference</td><td>Book 4 Hadith 59</td></tr></tbody></table></div>
 

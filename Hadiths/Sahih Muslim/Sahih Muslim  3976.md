@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৮৬৮, আন্তর্জাতিক নাম্বারঃ ১৫৫৪ ৩৮৬৮-(.../...) হাসান হুলওয়ানী (রহঃ) ..... ইবনু জুরায়জ (রহঃ) হতে উক্ত সানাদে অনুরূপ বর্ণনা করেন। ইসলামিক ফাউন্ডেশন ৩৮৩২, ইসলামিক সেন্টার ৩৮৩১
+হাসান হুলওয়ানী (রহঃ) ..... ইবনু জুরায়জ (রহঃ) হতে উক্ত সানাদে অনুরূপ বর্ণনা করেন। ইসলামিক ফাউন্ডেশন ৩৮৩২, ইসলামিক সেন্টার
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3976</td></tr><tr><td>Arabic No</td><td>1554.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 15</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হুসায়েন ইবন য়াযীদ (রহঃ) .... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহ তাআলা নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লামকে রাতের এমন সময় ঘুম হতে জাগাতেন যে, তিনি তাঁর আশানুরূপ ওযীফা শেষ না করা পর্যন্ত সাহরীর সময় হত না।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, মহা মহীয়ান আল্লাহ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে রাতে সজাগ করতেন এবং তিনি সাহরীর সময়ে তাঁর নফল সালাত, তাসবীহ ইত্যাদি আদায় করতেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1316</td></tr><tr><td>Arabic No</td><td>1316</td></tr><tr><td>Reference</td><td>Book 5 Hadith 67</td></tr></tbody></table></div>
 

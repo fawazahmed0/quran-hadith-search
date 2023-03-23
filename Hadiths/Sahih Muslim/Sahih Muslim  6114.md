@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬০০৮, আন্তর্জাতিক নাম্বারঃ ১৩৩৭ ৬০০৮-(…/…) মুহাম্মাদ ইবনু আহমাদ ইবনু আবূ খালাফ (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে এ সূত্রে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯০৩, ইসলামিক সেন্টার ৫৯৪০)
+(…/…) মুহাম্মাদ ইবনু আহমাদ ইবনু আবূ খালাফ (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে এ সূত্রে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯০৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6114</td></tr><tr><td>Arabic No</td><td>1337.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 172</td></tr></tbody></table></div>
 

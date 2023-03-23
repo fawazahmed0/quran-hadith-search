@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইব্‌ন সাঈদ (রহঃ) ..... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম বলতেনঃ ইয়া আল্লাহ! আমি চারটি বিষয় হতে তোমার আশ্রয় প্রার্থনা করছি- ১। এমন ইল্‌ম যা উপকারী নয়; ২। এমন কল্‌ব যা (আল্লাহর ভয়ে) ভীত নয়; ৩। এমন নফ্‌স হতে যা পরিতৃপ্ত নয় এবং ৪। এরূপ দু’আ হতে যা কবুল হয় না। (নাসাঈ, ইব্‌ন মাজা, মুসলিম, তিরমিযী)।
+। আবূ হুরাইরাহ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ ‘‘হে আল্লাহ! আমি আপনার কাছে চারটি বস্তু হতে আশ্রয় চাইঃ এমন জ্ঞান যা উপকারে আসে না, এমন হৃদয় যা ভীত হয় না, এমন আত্মা যা তৃপ্ত হয় না এবং এমন দু‘আ যা কবুল হয় না।’’[1] সহীহ : মুসলিম, যায়দ ইবনু আরক্বাম হতে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 8 Hadith 133</td></tr></tbody></table></div>
 

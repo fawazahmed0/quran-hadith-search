@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হারমালাহ্ ইবনু ইয়াহইয়া (রহঃ) ... আবদুল্লাহ ইবনু উমার (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি খাদ্যদ্রব্য ক্রয় করবে সে ততক্ষণ পর্যন্ত তা বিক্রি করতে পারবে না, যতক্ষণ না হস্তগত করে ও তাতে নিজের অধিকার প্রতিষ্ঠিত করে। (ইসলামিক ফাউন্ডেশন ৩৭০১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3843</td></tr><tr><td>Arabic No</td><td>1526.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 43</td></tr></tbody></table></div>
 

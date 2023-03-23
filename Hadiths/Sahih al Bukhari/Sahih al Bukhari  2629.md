@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, মানীহা হিসাবে অধিক দুগ্ধবতী উটনী ও অধিক দুগ্ধবতী বকরী কতই না উত্তম, যা সকাল বিকাল পাত্র ভর্তি দুধ দেয়। (৫৬০৮, মুসলিম ১২/২২ হাঃ ১০১৯, আহমাদ ১০২০) (আধুনিক প্রকাশনীঃ ২৪৩৭, ইসলামিক ফাউন্ডেশনঃ ২৪৫৩) (ইমাম বুখারী বলেন) ‘আবদুল্লাহ ইবনু ইউসুফ ও ইসমাঈল (রহ.) হাদীসটি মালিক (রহ.) হতে বর্ণনা করেছেন, এতে তিনি বলেন, সদাকাহ হিসাবে কতই না উত্তম (দুগ্ধবতী উটনী, যা মানীহা হিসাবে দেয়া হয়)। (ইসলামিক ফাউন্ডেশনঃ ২৪৫৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, মানীহা হিসাবে অধিক দুগ্ধবতী উটনী ও অধিক দুগ্ধবতী বকরী কতই না উত্তম, যা সকাল বিকাল পাত্র ভর্তি দুধ দেয়। (৫৬০৮, মুসলিম ১২/২২ হাঃ ১০১৯, আহমাদ ১০২০) (আধুনিক প্রকাশনীঃ ২৪৩৭, ইসলামিক ফাউন্ডেশনঃ ২৪৫৩) (ইমাম বুখারী বলেন) ‘আবদুল্লাহ ইবনু ইউসুফ ও ইসমাঈল (রহ.) হাদীসটি মালিক (রহ.) হতে বর্ণনা করেছেন, এতে তিনি বলেন, সদাকাহ হিসাবে কতই না উত্তম (দুগ্ধবতী উটনী, যা মানীহা হিসাবে দেয়া হয়)। (ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2629</td></tr><tr><td>Arabic No</td><td>2629</td></tr><tr><td>Reference</td><td>Book 51 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பாலுக்காக இரவல் வழங்கப்பட்ட, அதிகப் பால் தருகின்ற ஒட்டகம்தான் (அன்பளிப்புகளில்) சிறந்ததாகும். அதிகப் பால் தரும் ஆடும் (அன்பளிப்புகளில்) சிறந்தததாகும். அது காலையில் ஒரு பாத்திரம் (நிறையப்) பால் தருகின்றது; மாலையில் ஒரு பாத்திரம் (நிறையப்) பால் தருகின்றது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அவற்றில் ஓர் அறிவிப்பில், யிதர்மங்களில் சிறந்ததாகும்’ என்று காணப்படுகிறது. அத்தியாயம் : 51
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பாலுக்காக இரவல் வழங்கப்பட்ட, அதிகப் பால் தருகின்ற ஒட்டகம்தான் (அன்பளிப்புகளில்) சிறந்ததாகும். அதிகப் பால் தரும் ஆடும் (அன்பளிப்புகளில்) சிறந்தததாகும். அது காலையில் ஒரு பாத்திரம் (நிறையப்) பால் தருகின்றது; மாலையில் ஒரு பாத்திரம் (நிறையப்) பால் தருகின்றது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அவற்றில் ஓர் அறிவிப்பில், யிதர்மங்களில் சிறந்ததாகும்’ என்று காணப்படுகிறது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2629</td></tr><tr><td>Arabic No</td><td>2629</td></tr><tr><td>Reference</td><td>Book 51 Hadith 61</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem şöyle buyurdular: "Sütlü deve ve koyunu sütünden faydalanmak üzere ariyet olarak birine vermek ne güzeldir. Sabah bir kova, akşam bir kova süt verir." Tekrar: 5608
+Ebu Hureyre r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem şöyle buyurdular: "Sütlü deve ve koyunu sütünden faydalanmak üzere ariyet olarak birine vermek ne güzeldir. Sabah bir kova, akşam bir kova süt verir." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2629</td></tr><tr><td>Arabic No</td><td>2629</td></tr><tr><td>Reference</td><td>Book 51 Hadith 61</td></tr></tbody></table></div>
 

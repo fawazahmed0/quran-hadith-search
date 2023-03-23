@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৩৮, আন্তর্জাতিক নাম্বারঃ ১৩২ ২৩৮-(২০৯/১৩২) যুহায়র ইবনু হারব (রহঃ) ... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কিছু সাহাবা তার সামনে এসে বললেন, আমাদের অন্তরে এমন কিছু খটকার সৃষ্টি হয় যা আমাদের কেউ মুখে উচ্চারণ করতেও মারাত্মক মনে করে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, সত্যই তোমাদের তা হয়? তারা জবাব দিলেন, জী, হ্যাঁ। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এটিই স্পষ্ট ঈমান। (কারণ ঈমান আছে বলেই সে সম্পর্কে ওয়াসওয়াসা ও সংশয়কে মারাত্মক মনে করা হয়)। (ইসলামিক ফাউন্ডেশনঃ ২৪০, ইসলামিক সেন্টারঃ ২৪৮)
+যুহায়র ইবনু হারব (রহঃ) ... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কিছু সাহাবা তার সামনে এসে বললেন, আমাদের অন্তরে এমন কিছু খটকার সৃষ্টি হয় যা আমাদের কেউ মুখে উচ্চারণ করতেও মারাত্মক মনে করে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, সত্যই তোমাদের তা হয়? তারা জবাব দিলেন, জী, হ্যাঁ। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এটিই স্পষ্ট ঈমান। (কারণ ঈমান আছে বলেই সে সম্পর্কে ওয়াসওয়াসা ও সংশয়কে মারাত্মক মনে করা হয়)। (ইসলামিক ফাউন্ডেশনঃ ২৪০, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>340</td></tr><tr><td>Arabic No</td><td>132.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 247</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah meriwayatkan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுடைய தோழர்களில் சிலர் நபி (ஸல்) அவர்களிடம் வந்து, "எங்கள் உள்ளத்தில் சில (குழப்பமான) விஷயங்கள் எழுகின்றன. அவற்றை (வெளிப்படுத்திப்) பேசுவதைக்கூட நாங்கள் மிகப்பெரும் (பாவ) காரியமாகக் கருதுகிறோம் (இது பற்றி தாங்கள் என்ன கூறுகின்றீர்கள்?)" என்று கேட்டனர். அதற்கு நபி (ஸல்) அவர்கள், "உண்மையிலேயே நீங்கள் அத்தகைய உணர்வுகளுக்கு உள்ளாகின்றீர்களா?" என்று கேட்டார்கள். அதற்கு நபித் தோழர்கள், "ஆம்" என்று பதிலளித்தார்கள். நபி (ஸல்) அவர்கள், "அதுதான் ஒளிவுமறைவற்ற இறைநம்பிக்கை" என்று கூறினார்கள். அத்தியாயம் : 1
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுடைய தோழர்களில் சிலர் நபி (ஸல்) அவர்களிடம் வந்து, "எங்கள் உள்ளத்தில் சில (குழப்பமான) விஷயங்கள் எழுகின்றன. அவற்றை (வெளிப்படுத்திப்) பேசுவதைக்கூட நாங்கள் மிகப்பெரும் (பாவ) காரியமாகக் கருதுகிறோம் (இது பற்றி தாங்கள் என்ன கூறுகின்றீர்கள்?)" என்று கேட்டனர். அதற்கு நபி (ஸல்) அவர்கள், "உண்மையிலேயே நீங்கள் அத்தகைய உணர்வுகளுக்கு உள்ளாகின்றீர்களா?" என்று கேட்டார்கள். அதற்கு நபித் தோழர்கள், "ஆம்" என்று பதிலளித்தார்கள். நபி (ஸல்) அவர்கள், "அதுதான் ஒளிவுமறைவற்ற இறைநம்பிக்கை" என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>340</td></tr><tr><td>Arabic No</td><td>132.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 247</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah meriwayatkan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Zübeyr b. Harb rivayet etti. (Dediki): Bize Cerir Süheyl'den, o da Babasından, o da Ebu Hureyre'den naklen rivayet etti. Ebu Hureyre şöyle demiş: Nebi (Sallallahu aleyhi ve Sellem)'in ashabından bazı kimseler Nebi (Sallallahu aleyhi ve Sellem)'e gelerek ona: Bizler içimizde herhangi birimizin söylemeyi pek büyük bir iş gördüğü birtakım şeyler hissediyoruz diye sordular. Allah Resulü (Sallallahu aleyhi ve Sellem): "Gerçekten böyle bir şey hissettiniz mi" buyurdu. Onlar, evet deyince, O: "İşte apaçık iman budur" buyurdu. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 12600
+Bize Zübeyr b. Harb rivayet etti. (Dediki): Bize Cerir Süheyl'den, o da Babasından, o da Ebu Hureyre'den naklen rivayet etti. Ebu Hureyre şöyle demiş: Nebi (Sallallahu aleyhi ve Sellem)'in ashabından bazı kimseler Nebi (Sallallahu aleyhi ve Sellem)'e gelerek ona: Bizler içimizde herhangi birimizin söylemeyi pek büyük bir iş gördüğü birtakım şeyler hissediyoruz diye sordular. Allah Resulü (Sallallahu aleyhi ve Sellem): "Gerçekten böyle bir şey hissettiniz mi" buyurdu. Onlar, evet deyince, O: "İşte apaçık iman budur" buyurdu. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>340</td></tr><tr><td>Arabic No</td><td>132.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 247</td></tr></tbody></table></div>
 

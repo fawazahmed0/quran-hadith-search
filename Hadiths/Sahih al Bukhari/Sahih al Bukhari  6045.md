@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ যার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একজন অপর জনকে ফাসিক বলে যেন গালি না দেয় এবং একজন অন্যজনকে কাফির বলে অপবাদ না দেয়। কেননা, অপরজন যদি তা না হয়, তবে সে অপবাদ তার নিজের উপরই আপতিত হবে। [৩৫০৮; মুসলিম ১/২৭, হাঃ ৬১, আহমাদ ২১৫২১] (আধুনিক প্রকাশনী- ৫৬১০, ইসলামিক ফাউন্ডেশন- ৫৫০৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ যার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একজন অপর জনকে ফাসিক বলে যেন গালি না দেয় এবং একজন অন্যজনকে কাফির বলে অপবাদ না দেয়। কেননা, অপরজন যদি তা না হয়, তবে সে অপবাদ তার নিজের উপরই আপতিত হবে। [৩৫০৮; মুসলিম ১/২৭, হাঃ ৬১, আহমাদ ২১৫২১] (আধুনিক প্রকাশনী- ৫৬১০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6045</td></tr><tr><td>Arabic No</td><td>6045</td></tr><tr><td>Reference</td><td>Book 78 Hadith 75</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் மற்றவரை ‘பாவி’ (ஃபாஸிக்) என்றோ ‘இறைமறுப்பாளன்’ (காஃபிர்) என்றோ அழைத்தால், அவர் (உண்மையில்) அவ்வாறு (பாவியாக, இறைமறுப்பாளராக) இல்லையாயின் அவர் சொன்ன சொல் சொன்னவரை நோக்கியே திரும்பிவிடுகின்றது. இதை அபூதர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒருவர் மற்றவரை ‘பாவி’ (ஃபாஸிக்) என்றோ ‘இறைமறுப்பாளன்’ (காஃபிர்) என்றோ அழைத்தால், அவர் (உண்மையில்) அவ்வாறு (பாவியாக, இறைமறுப்பாளராக) இல்லையாயின் அவர் சொன்ன சொல் சொன்னவரை நோக்கியே திரும்பிவிடுகின்றது. இதை அபூதர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6045</td></tr><tr><td>Arabic No</td><td>6045</td></tr><tr><td>Reference</td><td>Book 78 Hadith 75</td></tr></tbody></table></div>
 

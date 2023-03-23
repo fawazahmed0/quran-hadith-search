@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইমাম আবূ দাঊদ (রহ.) মুহাম্মাদ ইবনু ওয়াযীর আল-মিসরী থেকে ‘উবাদাহ ইবনুস সামিতের ভাই আওস (রাযি.) সূত্রে বর্ণনা করেন যে, ষাটজন মিসকীনকে খাওয়ানোর জন্য রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঐ ব্যক্তিকে পনের সা‘ যব দিলেন। ইমাম আবূ দাঊদ (রহ.) বলেন, বর্ণনাকারী ‘আতা‘র সাথে আওসের সাক্ষাৎ ঘটেনি। কারণ ‘আওস’ (রাযি.) বদরী সাহাবী, তিনি অনেক আগেই মারা গেছেন। সুতরাং হাদীসটি মুরসাল।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2218</td></tr><tr><td>Arabic No</td><td>2218</td></tr><tr><td>Reference</td><td>Book 13 Hadith 44</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাজ্জাজ ইবন আবী ইয়া'কূব (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা জনৈক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এসে বলেন, ইয়া রাসূলাল্লাহ! আমার বোন এরূপ মানত করেছে যে, সে পদব্রজে হজ্জে গমন করবে। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, আল্লাহ্‌ তা'আলার জন্য তোমার বোনের এ কষ্টের কোন প্রয়োজন নেই। অতএব, সে যেন বাহনযোগে হজ্জ আদায় করে এবং তার মানত ভঙ্গের জন্য যেন কাফফারা প্রদান করে।
+। ‘উকবাহ ইবনু ‘আমির আল-জুহানী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার বোন পদব্রজে বাইতুল্লাহ তাওয়াফ করতে যাওয়ার মানত করেন। তিনি আমাকে এ বিষয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে ফতোয়া জিজ্ঞেস করতে বলেন। আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে ফতোয়া জানতে চাইলে তিনি বললেনঃ সে যেন পায়ে হেঁটে যায় এবং যানবাহনেও যায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3295</td></tr><tr><td>Arabic No</td><td>3295</td></tr><tr><td>Reference</td><td>Book 22 Hadith 54</td></tr></tbody></table></div>
 

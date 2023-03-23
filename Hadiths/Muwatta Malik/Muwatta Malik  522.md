@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৩. আবদুল্লাহ ইবনে আবু বকর (রাঃ) হইতে বর্ণিত, আবু বকর সিদ্দীক (রাঃ)-এর সহধর্মিণী আসমা বিনত উমাইস (রাঃ) আবু বকর সিদ্দীককে গোসল দেন, যখন তিনি ইন্তিকাল করেন। অতঃপর তিনি বাহির হইলেন এবং উপস্থিত মুহাজিরদের নিকট প্রশ্ন করিলেন, আমি রোযাদার; আর এখন খুব শীতের দিন। আমার উপর গোসল কি জরুরী? তাহারা বলিলেনঃ না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>522</td></tr><tr><td>Arabic No</td><td>522</td></tr><tr><td>Reference</td><td>Book 16 Hadith 3</td></tr></tbody></table></div>
 

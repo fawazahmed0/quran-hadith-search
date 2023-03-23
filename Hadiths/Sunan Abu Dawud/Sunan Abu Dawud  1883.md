@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন কাসীর (রহঃ) ..... ইয়া‘লা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি সবুজ চাদর তাঁর ডান বগলের নিচে দিয়ে তার দু'পাশ বাম কাঁধে পেঁচানো অবস্থায় (বায়তুল্লাহ) তাওয়াফ সম্পন্ন করেন।
+। ইয়ালা (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সবুজ রঙ এর একখানা চাদর বগলের নীচ থেকে নিয়ে কাঁধের উপর রাখা অবস্থায় (বায়তুল্লাহ) তাওয়াফ করেছেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1883</td></tr><tr><td>Arabic No</td><td>1883</td></tr><tr><td>Reference</td><td>Book 11 Hadith 163</td></tr></tbody></table></div>
 

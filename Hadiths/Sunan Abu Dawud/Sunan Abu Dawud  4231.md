@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইব্‌ন আবদুর রহীম (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমার কাছে এমন একটি মেয়ে আসে, যার পায়ের মল ছিল, যা শব্দ করছিল। তখন আইশা (রাঃ) বলেনঃ তার পায়ের মল না কেটে ফেলে তাকে আমার কাছে আনবে না। তিনি আরো বলেনঃ আমি রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছি, যে ঘরে ঘন্টা থাকে, সেখানে ফেরেশ্‌তা (রহমতের) প্রবেশ করে না।
+। আব্দুর রাহমান ইবনু হাইয়ান আল-আনসারী (রাঃ) এর মুক্তদাসী বুনানাহ আয়িশাহ (রাঃ) সূত্রে বর্ণনা করেন যে, একদা তিনি আয়িশাহ (রাঃ)-এর নিকট উপস্থিত ছিলেন। তখন একটি ছোট্ট বালিকাকে নিয়ে আসা হলো। বালিকার পায়ে নুপুরের আওয়াজ শুনে তিনি বলেন, এর পা থেকে নুপুর না খুলে তাকে আমার কাছে আনবে না। তিনি আরো বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ঘরে ঘণ্টা থাকে সে ঘরে ফিরিশতা প্রবেশ করে না।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4231</td></tr><tr><td>Arabic No</td><td>4231</td></tr><tr><td>Reference</td><td>Book 36 Hadith 18</td></tr></tbody></table></div>
 

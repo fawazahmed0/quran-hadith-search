@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন রাফি’ নিশাপুরী (রহঃ) .... উম্মুল মু’মিনীন উম্মু সালামা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিম্নোক্ত আয়াতটি এভাবে পাঠ করতেনঃ بَلَى قَدْ جَاءَتْكِ آيَاتِي فَكَذَّبْتِ بِهَا وَاسْتَكْبَرْتِ وَكُنْتِ مِنَ الْكَافِرِينَ অর্থাৎ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাফসকে সম্বোধন পূর্বক স্ত্রী-বাচক শব্দের সহিত তিলাওয়াত করতেন। ইমাম আবূ দাউদ (রহঃ) বলেনঃ হাদীছটি মুরসাল। কেননা রাবী উম্মু সালামা (রাঃ) এর সাক্ষাৎ পাননি।
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্ত্রী উম্মু সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই আয়াত এভাবে পড়েছেনঃبَلَى قَدْ جَاءَتْكِ آيَاتِي فَكَذَبْتِ بِهَا وَاسْتَكْبَرْتِ وَكُنْتِ مِنَ الْكَافِرِينَ। ইমাম আবূ দাঊদ বলেন, এই বর্ণনাটি মুরসাল। কারণ বর্ণনাকারী রবী উম্মু সালামাহর সাক্ষাৎ পাননি।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3990</td></tr><tr><td>Arabic No</td><td>3990</td></tr><tr><td>Reference</td><td>Book 32 Hadith 22</td></tr></tbody></table></div>
 

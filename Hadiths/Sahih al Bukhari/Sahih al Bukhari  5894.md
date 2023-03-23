@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু সীরীন (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-কে জিজ্ঞেস করলাম যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি খিযাব লাগিয়েছেন? তিনি বললেনঃ বার্ধক্য তাঁকে অতি অল্পই পেয়েছিল। [৩৫৫০] (আধুনিক প্রকাশনী- ৫৪৬৬, ইসলামিক ফাউন্ডেশন- ৫৩৬২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুহাম্মাদ ইবনু সীরীন (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-কে জিজ্ঞেস করলাম যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি খিযাব লাগিয়েছেন? তিনি বললেনঃ বার্ধক্য তাঁকে অতি অল্পই পেয়েছিল। [৩৫৫০] (আধুনিক প্রকাশনী- ৫৪৬৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5894</td></tr><tr><td>Arabic No</td><td>5894</td></tr><tr><td>Reference</td><td>Book 77 Hadith 111</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஹம்மத் பின் சீரீன் (ரஹ்) அவர்கள் கூறியதாவது: நான் அனஸ் (ரலி) அவர்களிடம், ‘‘நபி (ஸல்) அவர்கள் (தமது நரை முடிக்குச்) சாயம் பூசியதுண்டா?” என்று கேட்டேன். அதற்கு அவர்கள், ‘‘நபி (ஸல்) அவர்களுக்குச் சிறிதளவே நரை ஏற்பட்டிருந்தது” என்று பதிலளித்தார்கள்.99 அத்தியாயம் : 77
+முஹம்மத் பின் சீரீன் (ரஹ்) அவர்கள் கூறியதாவது: நான் அனஸ் (ரலி) அவர்களிடம், ‘‘நபி (ஸல்) அவர்கள் (தமது நரை முடிக்குச்) சாயம் பூசியதுண்டா?” என்று கேட்டேன். அதற்கு அவர்கள், ‘‘நபி (ஸல்) அவர்களுக்குச் சிறிதளவே நரை ஏற்பட்டிருந்தது” என்று பதிலளித்தார்கள்.99 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5894</td></tr><tr><td>Arabic No</td><td>5894</td></tr><tr><td>Reference</td><td>Book 77 Hadith 111</td></tr></tbody></table></div>
 

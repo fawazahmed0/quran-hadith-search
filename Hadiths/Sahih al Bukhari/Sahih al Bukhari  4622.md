@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) বলেছেন, কিছু লোক ছিল তারা ঠাট্টা করে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে প্রশ্ন করত, কেউ বলত আমার পিতা কে? আবার কেউ বলত আমার উষ্ট্রী হারিয়ে গেছে তা কোথায়? তাদের সম্পর্কে আল্লাহ তা‘আলা এই আয়াত অবতীর্ণ করেছেন- (আধুনিক প্রকাশনীঃ ৪২৬১, ইসলামিক ফাউন্ডেশনঃ ৪২৬৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) বলেছেন, কিছু লোক ছিল তারা ঠাট্টা করে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে প্রশ্ন করত, কেউ বলত আমার পিতা কে? আবার কেউ বলত আমার উষ্ট্রী হারিয়ে গেছে তা কোথায়? তাদের সম্পর্কে আল্লাহ তা‘আলা এই আয়াত অবতীর্ণ করেছেন- ..... يٓٓأَيُّهَا الَّذِيْنَاٰمَنُوْالَا تَسْأَلُوْا عَنْ أَشْيَآءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُمْ। (আধুনিক প্রকাশনীঃ ৪২৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4622</td></tr><tr><td>Arabic No</td><td>4622</td></tr><tr><td>Reference</td><td>Book 65 Hadith 144</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:Some people were asking Allah's Messenger (ﷺ) questions mockingly. A man would say, "Who is my father?" Another man whose she-camel had gone astray would say, "Where is my she-camel? "So Allah revealed this Verse in this connection: "O you who believe! Ask not about things which, if made plain to you, may cause you trouble." (5.101)
+Narrated Ibn 'Abbas:Some people were asking Allah's Messenger (ﷺ) questions mockingly. A man would say, "Who is my father?" Another man whose she-camel had gone astray would say, "Where is my she-camel? "So Allah revealed this Verse in this connection: "O you who believe! Ask not about things which, if made plain to you, may cause you trouble
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4622</td></tr><tr><td>Arabic No</td><td>4622</td></tr><tr><td>Reference</td><td>Book 65 Hadith 144</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ibn 'Abbas:Some people were asking Allah's Messenger (ﷺ) questions mo
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Fadll bin Sahl] Telah menceritakan kepada kami [Abu An Nadlr] Telah menceritakan kepada kami [Abu Khaitsamah] Telah menceritakan kepada kami [Abu Juwairiyah] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata; Suatu kaum pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam sebagai bentuk pengejekan. Seseorang dari mereka berkata; 'Siapa bapakku? ' Seseorang lagi berkata ketika untanya hilang; 'di mana untaku? ' maka Allah menurunkan kepada mereka ayat; Hai orang-orang yang beriman, janganlah kamu bertanya tentang segala sesuatu yang apabila dijelaskan kepadamu, maka hal itu akan memberatkanmu. (QS. Al Maa'idah: 101)
+Telah menceritakan kepada kami [Al Fadll bin Sahl] Telah menceritakan kepada kami [Abu An Nadlr] Telah menceritakan kepada kami [Abu Khaitsamah] Telah menceritakan kepada kami [Abu Juwairiyah] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata; Suatu kaum pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam sebagai bentuk pengejekan. Seseorang dari mereka berkata; 'Siapa bapakku? ' Seseorang lagi berkata ketika untanya hilang; 'di mana untaku? ' maka Allah menurunkan kepada mereka ayat; Hai orang-orang yang beriman, janganlah kamu bertanya tentang segala sesuatu yang apabila dijelaskan kepadamu, maka hal itu akan memberatkanmu. (QS. Al Maa'idah:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4622</td></tr><tr><td>Arabic No</td><td>4622</td></tr><tr><td>Reference</td><td>Book 65 Hadith 144</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Fadll bin Sahl] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: சிலர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் விளையாட்டாகக் கேள்வி கேட்பது வழக்கம். இவ்வாறாக ஒருவர் (நபி (ஸல்) அவர்களிடம்), “என் தந்தை யார்?” என்று கேட்டார். தமது ஒட்டகம் காணாமற் போய்விட்ட இன்னொருவர், “என் ஒட்டகம் எங்கே?” என்று கேட்டார். அப்போதுதான் அல்லாஹ், அவர்கள் விஷயத்தில் இந்த வசனத்தை அருளினான்: இறைநம்பிக்கை கொண்டவர்களே! சில விஷயங்களைப் பற்றி (துருவித் துருவிக்) கேட்காதீர்கள். (ஏனெனில்,) அவை உங்களிடம் வெளிப்படுத்தப்பட்டால் அவை உங்களுக்கு மனவருத்தத்தை ஏற்படுத்தும். குர்ஆன் அருளப்பட்டுக் கொண்டிருக்கும் வேளையில் அவற்றைப் பற்றி நீங்கள் வினவினால் அப்போது அவை உங்களுக்கு வெளிப்படையாகக் கூறப்பட்டுவிடும். நீங்கள் (இதுவரை விளையாட்டுத்தனமாக) வினவியவற்றை அல்லாஹ் மன்னித்துவிட்டான். அல்லாஹ் மன்னிப்பு வழங்குபவனாகவும் சகிப்புத் தன்மையுடையவனாகவும் இருக்கின்றான். (5:101) அத்தியாயம் : 65
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: சிலர் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் விளையாட்டாகக் கேள்வி கேட்பது வழக்கம். இவ்வாறாக ஒருவர் (நபி (ஸல்) அவர்களிடம்), “என் தந்தை யார்?” என்று கேட்டார். தமது ஒட்டகம் காணாமற் போய்விட்ட இன்னொருவர், “என் ஒட்டகம் எங்கே?” என்று கேட்டார். அப்போதுதான் அல்லாஹ், அவர்கள் விஷயத்தில் இந்த வசனத்தை அருளினான்: இறைநம்பிக்கை கொண்டவர்களே! சில விஷயங்களைப் பற்றி (துருவித் துருவிக்) கேட்காதீர்கள். (ஏனெனில்,) அவை உங்களிடம் வெளிப்படுத்தப்பட்டால் அவை உங்களுக்கு மனவருத்தத்தை ஏற்படுத்தும். குர்ஆன் அருளப்பட்டுக் கொண்டிருக்கும் வேளையில் அவற்றைப் பற்றி நீங்கள் வினவினால் அப்போது அவை உங்களுக்கு வெளிப்படையாகக் கூறப்பட்டுவிடும். நீங்கள் (இதுவரை விளையாட்டுத்தனமாக) வினவியவற்றை அல்லாஹ் மன்னித்துவிட்டான். அல்லாஹ் மன்னிப்பு வழங்குபவனாகவும் சகிப்புத் தன்மையுடையவனாகவும் இருக்கின்றான். (5:101) அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4622</td></tr><tr><td>Arabic No</td><td>4622</td></tr><tr><td>Reference</td><td>Book 65 Hadith 144</td></tr></tbody></table></div>
 

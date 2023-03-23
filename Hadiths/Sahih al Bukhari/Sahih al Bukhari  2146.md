@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ أَنَسٌ نَهَى عَنْهُ النَّبِيُّ صلى الله عليه وسلم আনাস (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ ক্রয়-বিক্রয় নিষেধ করেছেন। ২১৪৬. আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্পর্শ ও নিক্ষেপের পদ্ধতিতে ক্রয়-বিক্রয় নিষেধ করেছেন। (৩৩৬৮, মুসলিম ২১/১, হাঃ ১৫১১, আহমাদ ৪৫১৬) (আধুনিক প্রকাশনীঃ ১৯৯৮, ইসলামিক ফাউন্ডেশনঃ ২০১০৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ أَنَسٌ نَهَى عَنْهُ النَّبِيُّ صلى الله عليه وسلم আনাস (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ ক্রয়-বিক্রয় নিষেধ করেছেন। ২১৪৬. আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্পর্শ ও নিক্ষেপের পদ্ধতিতে ক্রয়-বিক্রয় নিষেধ করেছেন। (৩৩৬৮, মুসলিম ২১/১, হাঃ ১৫১১, আহমাদ ৪৫১৬) (আধুনিক প্রকাশনীঃ ১৯৯৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2146</td></tr><tr><td>Arabic No</td><td>2146</td></tr><tr><td>Reference</td><td>Book 34 Hadith 98</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொடுமுறை வணிகம் (முலாமசா), எறிமுறை வணிகம் (முனாபதா) ஆகிய வியாபாரங்களைத் தடை செய்தார்கள். அத்தியாயம் : 34
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொடுமுறை வணிகம் (முலாமசா), எறிமுறை வணிகம் (முனாபதா) ஆகிய வியாபாரங்களைத் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2146</td></tr><tr><td>Arabic No</td><td>2146</td></tr><tr><td>Reference</td><td>Book 34 Hadith 98</td></tr></tbody></table></div>
 

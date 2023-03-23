@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর খিদমতে কিছু গোশত আনা হল। তখন বলা হল যে, এট আসলে বারীরার নিকট সদাকাহরূপে এসেছিল। তখন তিনি বললেন, এটা তার জন্য সদাকাহ আর আমাদের জন্য হাদিয়া। (১৪৯৫) (আধুনিক প্রকাশনীঃ ২৩৯০, ইসলামিক ফাউন্ডেশনঃ ২৪০৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর খিদমতে কিছু গোশত আনা হল। তখন বলা হল যে, এট আসলে বারীরার নিকট সদাকাহরূপে এসেছিল। তখন তিনি বললেন, এটা তার জন্য সদাকাহ আর আমাদের জন্য হাদিয়া। (১৪৯৫) (আধুনিক প্রকাশনীঃ ২৩৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2577</td></tr><tr><td>Arabic No</td><td>2577</td></tr><tr><td>Reference</td><td>Book 51 Hadith 12</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysar] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் ஓர் இறைச்சி கொண்டுவரப்பட்டது. ‘‘இது பரீரா (ரலி) அவர்களுக்குத் தர்மமாக வழங்கப்பட்டது” என்று கூறப்பட்டது. நபி (ஸல்) அவர்கள், ‘‘இது அவருக்குத் தர்மமாகும்; நமக்கு அன்பளிப்பாகும்” என்று கூறினார்கள்.8 அத்தியாயம் : 50
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் ஓர் இறைச்சி கொண்டுவரப்பட்டது. ‘‘இது பரீரா (ரலி) அவர்களுக்குத் தர்மமாக வழங்கப்பட்டது” என்று கூறப்பட்டது. நபி (ஸல்) அவர்கள், ‘‘இது அவருக்குத் தர்மமாகும்; நமக்கு அன்பளிப்பாகும்” என்று கூறினார்கள்.8 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2577</td></tr><tr><td>Arabic No</td><td>2577</td></tr><tr><td>Reference</td><td>Book 51 Hadith 12</td></tr></tbody></table></div>
 

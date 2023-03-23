@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তারপর আমি বের হলাম এবং মুহাম্মাদ ইবনু মাসলামাহ (রাঃ)-কে পেলাম। আমি তাকে নিয়ে হাজির হলাম, সে আমার পক্ষে সাক্ষ্য দিল, তিনিও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন যে, এতে গুর্রা অর্থাৎ একটি দাস কিংবা দাসী দান করতে হবে। ইবনু আবূ যিনাদ......মুগীরাহ (রাঃ) থেকে একরম একটি হাদীস বর্ণনা করেছেন। [৬৯০৬] (আধুনিক প্রকাশনী- ৬৮০৭ শেষাংশ, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7317</td></tr><tr><td>Arabic No</td><td>7317</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

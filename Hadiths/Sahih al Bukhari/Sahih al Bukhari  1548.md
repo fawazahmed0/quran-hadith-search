@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের সালাত মাদ্বীনায় চার রাক‘আত আদায় করলেন এবং ‘আসরের সালাত যুল-হুলাইফায় দু’ রাক‘আত আদায় করেন। আমি শুনতে পেলাম তাঁরা সকলে উচ্চস্বরে হাজ্জ ও ‘উমরাহ’র তালবিয়া পাঠ করছেন। [1] (১৫৪০) (আধুনিক প্রকাশনীঃ ১৪৪৬, ইসলামিক ফাউন্ডেশনঃ ১৪৫২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের সালাত মাদ্বীনায় চার রাক‘আত আদায় করলেন এবং ‘আসরের সালাত যুল-হুলাইফায় দু’ রাক‘আত আদায় করেন। আমি শুনতে পেলাম তাঁরা সকলে উচ্চস্বরে হাজ্জ ও ‘উমরাহ’র তালবিয়া পাঠ করছেন। [1] (১৫৪০) (আধুনিক প্রকাশনীঃ ১৪৪৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) கூறியதாவது நபி (ஸல்) அவர்கள் (ஹஜ் பயணத்தின் போது) மதீனாவில் நான்கு ரக்அத்கள் லுஹ்ர் தொழுதார்கள். ‘துல்ஹுலைஃபா’ வில் இரண்டு ரக்அத்கள் அஸ்ர் தொழு தார்கள். அனைவரும் ஹஜ், உம்ராவிற் கான ‘தல்பியா’வை உரத்த குரலில் கூறியதை நான் கேட்டேன். அத்தியாயம் : 25
+அனஸ் (ரலி) கூறியதாவது நபி (ஸல்) அவர்கள் (ஹஜ் பயணத்தின் போது) மதீனாவில் நான்கு ரக்அத்கள் லுஹ்ர் தொழுதார்கள். ‘துல்ஹுலைஃபா’ வில் இரண்டு ரக்அத்கள் அஸ்ர் தொழு தார்கள். அனைவரும் ஹஜ், உம்ராவிற் கான ‘தல்பியா’வை உரத்த குரலில் கூறியதை நான் கேட்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
 

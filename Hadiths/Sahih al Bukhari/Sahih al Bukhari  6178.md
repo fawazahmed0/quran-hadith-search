@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শপথ ভঙ্গকারীর জন্য কিয়ামতের দিন একটা পতাকা দাঁড় করানো হবে। আর বলা হবে যে, এটা অমুকের পুত্র অমুকের বিশ্বাসঘাতকতার নিদর্শন। [৩১৮৮] (আধুনিক প্রকাশনী- ৫৭৩৬, ইসলামিক ফাউন্ডেশন- ৫৬৩২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শপথ ভঙ্গকারীর জন্য কিয়ামতের দিন একটা পতাকা দাঁড় করানো হবে। আর বলা হবে যে, এটা অমুকের পুত্র অমুকের বিশ্বাসঘাতকতার নিদর্শন। [৩১৮৮] (আধুনিক প্রকাশনী- ৫৭৩৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6178</td></tr><tr><td>Arabic No</td><td>6178</td></tr><tr><td>Reference</td><td>Book 78 Hadith 202</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abdull
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மோசடி செய்பவனுக்கு மறுமை நாளில் (அவனுடைய மோசடியை வெளிச்ச மிட்டுக் காட்டும் முகமாக அடையாளக்) கொடி ஒன்று நட்டப்படும். அப்போது “இது இன்னார் மகன் இன்னாரின் மோசடி(யைக் குறிக்கும் கொடி)” என்று கூறப்படும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.201 அத்தியாயம் : 78
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மோசடி செய்பவனுக்கு மறுமை நாளில் (அவனுடைய மோசடியை வெளிச்ச மிட்டுக் காட்டும் முகமாக அடையாளக்) கொடி ஒன்று நட்டப்படும். அப்போது “இது இன்னார் மகன் இன்னாரின் மோசடி(யைக் குறிக்கும் கொடி)” என்று கூறப்படும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.201 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6178</td></tr><tr><td>Arabic No</td><td>6178</td></tr><tr><td>Reference</td><td>Book 78 Hadith 202</td></tr></tbody></table></div>
 

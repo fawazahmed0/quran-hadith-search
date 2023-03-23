@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২৯৭, আন্তর্জাতিক নাম্বারঃ ১০৪৫ ২২৯৭-(.../১০৪৫) আবূ ত্বাহির (রহঃ) ..... উমার ইবনুল খাত্ত্বাব (রাযিঃ) এর সুত্রেও উপরের হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২২৭৫, ইসলামীক সেন্টার ২২৭৬)
+আবূ ত্বাহির (রহঃ) ..... উমার ইবনুল খাত্ত্বাব (রাযিঃ) এর সুত্রেও উপরের হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২২৭৫, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2407</td></tr><tr><td>Arabic No</td><td>1045.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 144</td></tr></tbody></table></div>
 

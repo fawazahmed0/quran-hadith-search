@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সওয়ারীর উপর পূর্ব দিকে ফিরেও সালাত আদায় করেছেন। কিন্তু যখন তিনি ফরজ সালাত আদায় করার ইচ্ছা করতেন, তখন তিনি সওয়ারী হতে অবতরণ করতেন এবং কিবলামুখী হতেন। (৪০০) (আধুনিক প্রকাশনীঃ ১০৩১ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ১০৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সওয়ারীর উপর পূর্ব দিকে ফিরেও সালাত আদায় করেছেন। কিন্তু যখন তিনি ফরজ সালাত আদায় করার ইচ্ছা করতেন, তখন তিনি সওয়ারী হতে অবতরণ করতেন এবং কিবলামুখী হতেন। (৪০০) (আধুনিক প্রকাশনীঃ ১০৩১ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1099</td></tr><tr><td>Arabic No</td><td>1099</td></tr><tr><td>Reference</td><td>Book 18 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadhalah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவாகள் தமது ஊர்தி ஒட்டகத்தில் அமர்ந்து கிழக்கு நோக்கித் தொழுவார்கள். கடமையான தொழுகை யைத் தொழ விரும்பும்போது (ஊர்தி யிலிருந்து) இறங்கி ‘கிப்லா’வை முன் னோக்குவார்கள். அத்தியாயம் : 18
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவாகள் தமது ஊர்தி ஒட்டகத்தில் அமர்ந்து கிழக்கு நோக்கித் தொழுவார்கள். கடமையான தொழுகை யைத் தொழ விரும்பும்போது (ஊர்தி யிலிருந்து) இறங்கி ‘கிப்லா’வை முன் னோக்குவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1099</td></tr><tr><td>Arabic No</td><td>1099</td></tr><tr><td>Reference</td><td>Book 18 Hadith 19</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৫৭৯। আবূ উমামাহ্ (রাযিঃ) বলেন, আমর ইবনু আবাসাহ (রাযিঃ) আমার কাছে রিওয়ায়াত করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তিনি বলতে শুনেছেনঃ আল্লাহ তা'আলা শেষ রাতে তার বান্দার সবচেয়ে নিকটবর্তী হন। অতএব যারা এ সময় আল্লাহর যিকর করে (নামায পড়ে ও দু'আ করে), তুমি পারলে তাদের দলভুক্ত হয়ে যাও। সহীহঃ তা’লীকুর রাগীব (২/২৭৬), মিশকাত (১২২৯)। আবূ ঈসা বলেন, উপর্যুক্ত সনদে এ হাদীসটি হাসান সহীহ গারীব।
+। আবূ উমামাহ্ (রাযিঃ) বলেন, আমর ইবনু আবাসাহ (রাযিঃ) আমার কাছে রিওয়ায়াত করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তিনি বলতে শুনেছেনঃ আল্লাহ তা'আলা শেষ রাতে তার বান্দার সবচেয়ে নিকটবর্তী হন। অতএব যারা এ সময় আল্লাহর যিকর করে (নামায পড়ে ও দু'আ করে), তুমি পারলে তাদের দলভুক্ত হয়ে যাও। সহীহঃ তা’লীকুর রাগীব (২/২৭৬), মিশকাত (১২২৯)। আবূ ঈসা বলেন, উপর্যুক্ত সনদে এ হাদীসটি হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>3579</td></tr><tr><td>Reference</td><td>Book 48 Hadith 210</td></tr></tbody></table></div>
 

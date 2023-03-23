@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... মা‘কিল ইবন ইয়াসার (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নু‘মান অর্থাৎ ইবন মুকাররিন বলেনঃ আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে যুদ্ধে হাযির থাকতাম। তিনি যখন পূর্বাহ্নে যুদ্ধ শুরু না করতেন, তখন তা পিছিয়ে দিতেন- এমন কি সূর্য অস্তগামী হত, বাতাস প্রবাহিত হত এবং সাহায্য নাযিল হত।
+। মা‘কিল ইবনু ইয়াসার (রহঃ) সূত্রে বর্ণিত। নু‘মান ইবনু মুকাররিন (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে যুদ্ধে অংশগ্রহণ করেছি। তিনি দিনের প্রথমভাগে যুদ্ধ আরম্ভ না করলে তা বিলম্বিত করতেন যতক্ষন না সূর্য ঢলে পড়তো, বাতাস শুরু হতো এবং সাহায্য অবতীর্ণ হতো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2655</td></tr><tr><td>Arabic No</td><td>2655</td></tr><tr><td>Reference</td><td>Book 15 Hadith 179</td></tr></tbody></table></div>
 

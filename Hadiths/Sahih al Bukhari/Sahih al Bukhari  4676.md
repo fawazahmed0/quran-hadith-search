@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুর রহমান ইবনু কা‘ব (রাঃ) হতে বর্ণিত। কা‘ব (রাঃ) যখন অন্ধ হয়ে পড়লেন, তখন তার ছেলেদের মধ্যে যার সাহায্যে তিনি চলাফেরা করতেন, সেই ‘আবদুল্লাহ বিন কা‘ব বলেন, আমি (আমার পিতা) কা‘ব ইবনু মালিক (রাঃ)-এর কাছে وَعَلَى الثَلَاثَةِ এ আয়াত- সম্পর্কে হাদীস বর্ণনা করতে শুনেছি। তিনি তার ঘটনা বর্ণনার সর্বশেষে বলতেন, আমি আমার তওবা কবূল হওয়ার খুশীতে আমার সকল মাল আল্লাহ ও তার রাসূলের পথে দান করতে চেয়েছিলাম। কিন্তু নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, কিছু মাল নিজের জন্য রেখে দাও। এটাই তোমার জন্য কল্যাণকর হবে। [২৭৫৭] (আধুনিক প্রকাশনীঃ ৪৩১৫, ইসলামিক ফাউন্ডেশনঃ ৪৩১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুর রহমান ইবনু কা‘ব (রাঃ) হতে বর্ণিত। কা‘ব (রাঃ) যখন অন্ধ হয়ে পড়লেন, তখন তার ছেলেদের মধ্যে যার সাহায্যে তিনি চলাফেরা করতেন, সেই ‘আবদুল্লাহ বিন কা‘ব বলেন, আমি (আমার পিতা) কা‘ব ইবনু মালিক (রাঃ)-এর কাছে وَعَلَى الثَلَاثَةِ এ আয়াত- সম্পর্কে হাদীস বর্ণনা করতে শুনেছি। তিনি তার ঘটনা বর্ণনার সর্বশেষে বলতেন, আমি আমার তওবা কবূল হওয়ার খুশীতে আমার সকল মাল আল্লাহ ও তার রাসূলের পথে দান করতে চেয়েছিলাম। কিন্তু নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, কিছু মাল নিজের জন্য রেখে দাও। এটাই তোমার জন্য কল্যাণকর হবে। [২৭৫৭] (আধুনিক প্রকাশনীঃ ৪৩১৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4676</td></tr><tr><td>Arabic No</td><td>4676</td></tr><tr><td>Reference</td><td>Book 65 Hadith 198</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin Ka'b:I heard Ka'b bin Malik talking about the Verse:-- 'And to the three (He also forgave) who remained behind.' (9.118) saying in the last portion of his talk, "(I said), 'As a part (sign) of my repentance, I would like to give up all my property in the cause of Allah and His Apostle,' The Prophet (ﷺ) said to me, 'Keep some of your wealth as it is good for you." (To the three (He also forgave) who remained behind till for them the earth, vast as it is, was straitened..." (9.118)
+Narrated 'Abdullah bin Ka'b:I heard Ka'b bin Malik talking about the Verse:-- 'And to the three (He also forgave) who remained behind.' (9.118) saying in the last portion of his talk, "(I said), 'As a part (sign) of my repentance, I would like to give up all my property in the cause of Allah and His Apostle,' The Prophet (ﷺ) said to me, 'Keep some of your wealth as it is good for you." (To the three (He also forgave) who remained behind till for them the earth, vast as it is, was straitened
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4676</td></tr><tr><td>Arabic No</td><td>4676</td></tr><tr><td>Reference</td><td>Book 65 Hadith 198</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Shalih] dia berkata; Telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துர் ரஹ்மான் பின் அப்தில்லாஹ் பின் கஅப் (ரஹ்) அவர்கள் கூறியதாவது: (என் பாட்டனார்) கஅப் பின் மாலிக் (ரலி) அவர்கள் (இறுதி நாட்களில்) கண்பார்வை அற்றவராக இருந்தபோது அவர்களைக் கையைப் பிடித்து அழைத்துச் சென்றுகொண்டிருந்த அன்னாருடைய புதல்வரான (என் தந்தை) அப்துல்லாஹ் பின் கஅப் (ரஹ்) அவர்கள் தெரிவித்தார்கள்: (என் தந்தை) கஅப் பின் மாலிக் (ரலி) அவர்கள் (தபூக் போரில் தாம் கலந்து கொள்ளாததைப் பற்றிய) தமது செய்தியை விவரித்தபோது, “எவரது விவகாரத்தில் தீர்ப்பு தள்ளிவைக்கப்பட்டிருந்ததோ அவர்களது குற்றத்தை அல்லாஹ் மன்னித்துவிட்டான்” என்று தொடங்கும் (9:118ஆவது) இறைவசனம் குறித்துச் சொன்னவற்றை நான் செவியுற்றேன். கஅப் (ரலி) அவர்கள் தமது பேச்சின் இறுதியில் கூறினார்கள்: நான் நபி (ஸல்) அவர்களிடம், “(அல்லாஹ்வின் தூதரே!) என் பாவம் மன்னிக்கப்பட்டதற்காக என் செல்வத்தின் மீதான (எனது) உரிமையை விட்டுவிட்டு அல்லாஹ்வுக்காகவும் அவனுடைய தூதருக்காகவும் அதைத் தர்மமாக அளித்துவிடுகிறேன்” என்று சொன்னேன். அதற்கு நபி (ஸல்) அவர்கள், “உங்கள் செல்வத்தில் சிறிதளவை உங்களுக்காக வைத்துக்கொள்ளுங்கள். அதுவே உங்களுக்கு நல்லது” என்று சொன்னார்கள்.22 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 65
+அப்துர் ரஹ்மான் பின் அப்தில்லாஹ் பின் கஅப் (ரஹ்) அவர்கள் கூறியதாவது: (என் பாட்டனார்) கஅப் பின் மாலிக் (ரலி) அவர்கள் (இறுதி நாட்களில்) கண்பார்வை அற்றவராக இருந்தபோது அவர்களைக் கையைப் பிடித்து அழைத்துச் சென்றுகொண்டிருந்த அன்னாருடைய புதல்வரான (என் தந்தை) அப்துல்லாஹ் பின் கஅப் (ரஹ்) அவர்கள் தெரிவித்தார்கள்: (என் தந்தை) கஅப் பின் மாலிக் (ரலி) அவர்கள் (தபூக் போரில் தாம் கலந்து கொள்ளாததைப் பற்றிய) தமது செய்தியை விவரித்தபோது, “எவரது விவகாரத்தில் தீர்ப்பு தள்ளிவைக்கப்பட்டிருந்ததோ அவர்களது குற்றத்தை அல்லாஹ் மன்னித்துவிட்டான்” என்று தொடங்கும் (9:118ஆவது) இறைவசனம் குறித்துச் சொன்னவற்றை நான் செவியுற்றேன். கஅப் (ரலி) அவர்கள் தமது பேச்சின் இறுதியில் கூறினார்கள்: நான் நபி (ஸல்) அவர்களிடம், “(அல்லாஹ்வின் தூதரே!) என் பாவம் மன்னிக்கப்பட்டதற்காக என் செல்வத்தின் மீதான (எனது) உரிமையை விட்டுவிட்டு அல்லாஹ்வுக்காகவும் அவனுடைய தூதருக்காகவும் அதைத் தர்மமாக அளித்துவிடுகிறேன்” என்று சொன்னேன். அதற்கு நபி (ஸல்) அவர்கள், “உங்கள் செல்வத்தில் சிறிதளவை உங்களுக்காக வைத்துக்கொள்ளுங்கள். அதுவே உங்களுக்கு நல்லது” என்று சொன்னார்கள்.22 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4676</td></tr><tr><td>Arabic No</td><td>4676</td></tr><tr><td>Reference</td><td>Book 65 Hadith 198</td></tr></tbody></table></div>
 

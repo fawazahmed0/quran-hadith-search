@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَوْلُ النَّبِيِّ لاَ تَبِيعُوا الثَّمَرَةَ حَتَّى يَبْدُوَ صَلاَحُهَا فَلَمْ يَحْظُرْ الْبَيْعَ بَعْدَ الصَّلاَحِ عَلَى أَحَدٍ وَلَمْ يَخُصَّ مَنْ وَجَبَ عَلَيْهِ الزَّكَاةُ مِمَّنْ لَمْ تَجِبْ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর উক্তিঃ ব্যবহারযোগ্য না হওয়া পর্যন্ত ফল বিক্রয় করবে না, কাজেই ব্যবহারযোগ্য হওয়ার পর কাউকেও বিক্রি করতে নিষেধ করেননি এবং কার উপর যাকাত ওয়াজিব হবে আর কার উপর ওয়াজিব হবে না, তা নির্দিষ্ট করেননি। ১৪৮৬. ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খেজুর ব্যবহারযোগ্য না হওয়া পর্যন্ত বিক্রয় করতে নিষেধ করেছেন। যখন তাঁকে ব্যবহারযোগ্যতা সম্বন্ধে জিজ্ঞেস করা হলো, তখন তিনি বললেনঃ ফল নষ্ট হওয়া হতে নিরাপদ হওয়া। (২১৮৩, ২১৯৪, ২১৯৯, ২২৪৭, ২২৪৯) (আধুনিক প্রকাশনীঃ ১৩৯০, ইসলামিক ফাউন্ডেশনঃ ১৩৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَوْلُ النَّبِيِّ لاَ تَبِيعُوا الثَّمَرَةَ حَتَّى يَبْدُوَ صَلاَحُهَا فَلَمْ يَحْظُرْ الْبَيْعَ بَعْدَ الصَّلاَحِ عَلَى أَحَدٍ وَلَمْ يَخُصَّ مَنْ وَجَبَ عَلَيْهِ الزَّكَاةُ مِمَّنْ لَمْ تَجِبْ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর উক্তিঃ ব্যবহারযোগ্য না হওয়া পর্যন্ত ফল বিক্রয় করবে না, কাজেই ব্যবহারযোগ্য হওয়ার পর কাউকেও বিক্রি করতে নিষেধ করেননি এবং কার উপর যাকাত ওয়াজিব হবে আর কার উপর ওয়াজিব হবে না, তা নির্দিষ্ট করেননি। ১৪৮৬. ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খেজুর ব্যবহারযোগ্য না হওয়া পর্যন্ত বিক্রয় করতে নিষেধ করেছেন। যখন তাঁকে ব্যবহারযোগ্যতা সম্বন্ধে জিজ্ঞেস করা হলো, তখন তিনি বললেনঃ ফল নষ্ট হওয়া হতে নিরাপদ হওয়া। (২১৮৩, ২১৯৪, ২১৯৯, ২২৪৭, ২২৪৯) (আধুনিক প্রকাশনীঃ ১৩৯০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1486</td></tr><tr><td>Arabic No</td><td>1486</td></tr><tr><td>Reference</td><td>Book 24 Hadith 86</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், பலன் உறுதிப்படும் நிலையை அடையாத வரை (மரத்திலுள்ள) பழங்களை விற்பதைத் தடுத்தார்கள். இப்னு உமர் (ரலி) அவர்களிடம் ‘பலன் உறுதிப்படுவது’ என்றால் என்ன என்று கேட்கப்பட்டால், (அப்பழங்கள்) பாழாகும் நிலையைக் கடந்துவிடுவதாகும் என்று பதிலளிப்பார்கள். அத்தியாயம் : 24
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், பலன் உறுதிப்படும் நிலையை அடையாத வரை (மரத்திலுள்ள) பழங்களை விற்பதைத் தடுத்தார்கள். இப்னு உமர் (ரலி) அவர்களிடம் ‘பலன் உறுதிப்படுவது’ என்றால் என்ன என்று கேட்கப்பட்டால், (அப்பழங்கள்) பாழாகும் நிலையைக் கடந்துவிடுவதாகும் என்று பதிலளிப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1486</td></tr><tr><td>Arabic No</td><td>1486</td></tr><tr><td>Reference</td><td>Book 24 Hadith 86</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer (r.a.), "Resulullah Sallallahu Aleyhi ve Sellem iyi olduğu ortaya çıkmayan meyvelerin satılmasını yasaklamıştır" demiştir. "İyi" olmak şeklinde tercüme ettiğimiz "salah" kelimesinin ne anlama geldiği sorulduğu zaman Efendimiz sallallahu aleyhi ve sellem, "zayıflık ve dayanaksızlığının kaybolması" buyurmuştur. Tekrar: 2183, 2193, 2199, 2247, 2249
+İbn Ömer (r.a.), "Resulullah Sallallahu Aleyhi ve Sellem iyi olduğu ortaya çıkmayan meyvelerin satılmasını yasaklamıştır" demiştir. "İyi" olmak şeklinde tercüme ettiğimiz "salah" kelimesinin ne anlama geldiği sorulduğu zaman Efendimiz sallallahu aleyhi ve sellem, "zayıflık ve dayanaksızlığının kaybolması" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1486</td></tr><tr><td>Arabic No</td><td>1486</td></tr><tr><td>Reference</td><td>Book 24 Hadith 86</td></tr></tbody></table></div>
 

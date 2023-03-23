@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ (রহঃ) ..... আলী ইবন আবু তালিব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম নামাযের সালামের পর দু’আ পাঠ করতেনঃ আল্লাহুম্মাগ ফিরলী মা কাদ্দামতু ওয়ামা আখখারতু, ওয়ামা আসরারতু ওয়ামা আলানতু, ওয়ামা আসরাফতু ওয়ামা আনতা আলামু বিহী মিন্নী, আনতাল মুকাদ্দাম ওয়াল মুআখখার লা ইলাহা ইল্লা আনতা। (তিরমিযী)।
+। ‘আলী ইবনু আবূ তালিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের সালাম ফিরানোর পর বলতেনঃ আল্লাহুম্মাগ ফিরলী মা ক্বাদ্দামতু ওয়ামা আখখারতু ওয়ামা আসরারতু ওয়ামা আ‘লানতু ওয়ামা আসরাফতু ওয়ামা আনতা আ‘লামু বিহি মিন্নী আনতাল মুক্বাদ্দিমু ওয়া আনতাল মুয়াখখিরু লা ইলাহা ইল্লা আনতা।’’ অর্থঃ হে আল্লাহ! আমাকে ক্ষমা করুন যা কিছু আমি পূর্বে ও পরে করেছি, গোপনে, প্রকাশ্যে ও সীমালঙ্ঘন করেছি, এবং যা আমার চেয়ে আপনি অধিক জ্ঞাত। আপনিই আদি ও অন্ত। আপনি ছাড়া কোন ইলাহ নেই।[1] সহীহ : মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1509</td></tr><tr><td>Arabic No</td><td>1509</td></tr><tr><td>Reference</td><td>Book 8 Hadith 94</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৭/৪১১৪। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার দেহ স্পর্শ করে বলেনঃ হে আবদুল্লাহ! দুনিয়াতে এমনভাবে বসবাস করো যেন তুমি একজন প্রবাসী অথবা পথচারী মুসাফির। তুমি নিজেকে কবরবাসীদের অন্তর্ভুক্ত মনে করো।
+। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার দেহ স্পর্শ করে বলেনঃ হে আবদুল্লাহ! দুনিয়াতে এমনভাবে বসবাস করো যেন তুমি একজন প্রবাসী অথবা পথচারী মুসাফির। তুমি নিজেকে কবরবাসীদের অন্তর্ভুক্ত মনে করো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4114</td></tr><tr><td>Arabic No</td><td>4114</td></tr><tr><td>Reference</td><td>Book 37 Hadith 15</td></tr></tbody></table></div>
 

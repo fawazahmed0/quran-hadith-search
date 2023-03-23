@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন হিশাম আল মিসরী ..... আবূ সাঈদ (রাঃ) হতে বর্ণিত। তিনি বলেন, (পবিত্র কুরআনের আয়াত)وَمَنْ يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُ ‘‘আর যে ব্যক্তি সেদিন পিঠ প্রদর্শন করে যুদ্ধক্ষেত্র হতে পলায়ন করবে’’ বদর যুদ্ধের দিন অবতীর্ণ হয়েছিল।
+। আবূ সাঈদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, বদরের যুদ্ধের দিন এ আয়াত অবতীর্ণ হয়ঃ ‘‘যে ব্যক্তি সেদিন পশ্চাঁদমুখী হয়ে পলায়ন করবে।’’ (সূরা আল-আনফালঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 15 Hadith 172</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ) وَهُوَ مُخَيَّرٌ فَأَمَّا الصَّوْمُ فَثَلاَثَةُ أَيَّامٍ ‘‘তোমাদের মধ্যে যদি কেউ অসুস্থ হয় কিংবা মাথায় কষ্টকর কিছু হয়ে থাকে তবে সিয়াম কিংবা সদাকাহ অথবা কুরবানীর দ্বারা তার ফিদইয়া দিবে।’’ (আল-বাকারাহ (২) : ১৯৬) এ ব্যাপারে তাকে যে কোন একটি গ্রহণের অবকাশ দেয়া হয়েছে। তবে সিয়াম পালন করলে তিন দিন করবে। ১৮১৪. কা‘ব ইবনু ‘উজরাহ (রাঃ) হতে বর্ণিত আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, বোধ হয় তোমার এই পোকাগুলো (উকুন) তোমাকে খুব কষ্ট দিচ্ছে? তিনি বললেন, হাঁ, ইয়া আল্লাহর রাসূল! এরপর আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তুমি মাথা মুন্ডন করে ফেল এবং তিন দিন সিয়াম পালন কর অথবা ছয়জন মিসকীনকে আহার করাও কিংবা একটা বকরী কুরবানী কর। (১৮১৫, ১৮৭১৬, ১৮১৭, ১৮১৮, ৪১৫৯, ৪১৯০, ৪১৯১, ৪৫১৭, ৫৬৬৫, ৫৭০৩, ৬৭০৮, মুসলিম ১৫/১০, হাঃ ১২০১, আহমাদ ১৮১২৪) (আধুনিক প্রকাশনীঃ ১৬৮৫. ইসলামিক ফাউন্ডেশনঃ ১৬৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ) وَهُوَ مُخَيَّرٌ فَأَمَّا الصَّوْمُ فَثَلاَثَةُ أَيَّامٍ ‘‘তোমাদের মধ্যে যদি কেউ অসুস্থ হয় কিংবা মাথায় কষ্টকর কিছু হয়ে থাকে তবে সিয়াম কিংবা সদাকাহ অথবা কুরবানীর দ্বারা তার ফিদইয়া দিবে।’’ (আল-বাকারাহ (২) : ১৯৬) এ ব্যাপারে তাকে যে কোন একটি গ্রহণের অবকাশ দেয়া হয়েছে। তবে সিয়াম পালন করলে তিন দিন করবে। ১৮১৪. কা‘ব ইবনু ‘উজরাহ (রাঃ) হতে বর্ণিত আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, বোধ হয় তোমার এই পোকাগুলো (উকুন) তোমাকে খুব কষ্ট দিচ্ছে? তিনি বললেন, হাঁ, ইয়া আল্লাহর রাসূল! এরপর আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তুমি মাথা মুন্ডন করে ফেল এবং তিন দিন সিয়াম পালন কর অথবা ছয়জন মিসকীনকে আহার করাও কিংবা একটা বকরী কুরবানী কর। (১৮১৫, ১৮৭১৬, ১৮১৭, ১৮১৮, ৪১৫৯, ৪১৯০, ৪১৯১, ৪৫১৭, ৫৬৬৫, ৫৭০৩, ৬৭০৮, মুসলিম ১৫/১০, হাঃ ১২০১, আহমাদ ১৮১২৪) (আধুনিক প্রকাশনীঃ ১৬৮৫. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1814</td></tr><tr><td>Arabic No</td><td>1814</td></tr><tr><td>Reference</td><td>Book 27 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கஅப் பின் உஜ்ரா (ரலி) அவர்கள் கூறியதாவது: (உம்ராவிற்காக நான் இஹ்ராம் கட்டியிருந்தபோது) என்னிடம் அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள், “உமது (தலையிலுள்ள) பேன்கள் உமக்குத் துன்பம் தருகின்றனவா?” என்று கேட்டார் கள். நான் “ஆம்! அல்லாஹ்வின் தூதரே!” என்றேன். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “உமது தலையை மழித்துக் கொண்டு, மூன்று நாட்கள் நோன்பு நோற்பீராக! அல்லது ஆறு ஏழைகளுக்கு உணவளிப்பீராக! அல்லது ஓர் ஆட்டைப் பலியிடுவீராக!” என்றார்கள். அத்தியாயம் : 27
+கஅப் பின் உஜ்ரா (ரலி) அவர்கள் கூறியதாவது: (உம்ராவிற்காக நான் இஹ்ராம் கட்டியிருந்தபோது) என்னிடம் அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள், “உமது (தலையிலுள்ள) பேன்கள் உமக்குத் துன்பம் தருகின்றனவா?” என்று கேட்டார் கள். நான் “ஆம்! அல்லாஹ்வின் தூதரே!” என்றேன். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “உமது தலையை மழித்துக் கொண்டு, மூன்று நாட்கள் நோன்பு நோற்பீராக! அல்லது ஆறு ஏழைகளுக்கு உணவளிப்பீராக! அல்லது ஓர் ஆட்டைப் பலியிடுவீராக!” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1814</td></tr><tr><td>Arabic No</td><td>1814</td></tr><tr><td>Reference</td><td>Book 27 Hadith 9</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Resulullah Sallallahu Aleyhi ve Sellem, Ka'b İbn Ucre'ye: "Herhalde bitler sana eziyet veriyor" dedi. Ka'b: Evet Ey Allah'ın Resulü! diye cevap verdi. Resulullah Sallallahu Aleyhi ve Sellem: "Saçlarını kazıt. Üç gün oruç tut veya altı fakiri doyur yahut bir koyun kes" buyurdu. Tekrar: 1815. 1816, 1817, 1818, 4159, 4190, 4191, 4517, 5665, 5703, 6808
+Resulullah Sallallahu Aleyhi ve Sellem, Ka'b İbn Ucre'ye: "Herhalde bitler sana eziyet veriyor" dedi. Ka'b: Evet Ey Allah'ın Resulü! diye cevap verdi. Resulullah Sallallahu Aleyhi ve Sellem: "Saçlarını kazıt. Üç gün oruç tut veya altı fakiri doyur yahut bir koyun kes" buyurdu. Tekrar: 1815. 1816, 1817, 1818, 4159, 4190
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1814</td></tr><tr><td>Arabic No</td><td>1814</td></tr><tr><td>Reference</td><td>Book 27 Hadith 9</td></tr></tbody></table></div>
 

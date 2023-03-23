@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুআম্মাল ইবন ফযল (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তিকে সারা জীবনের জন্য কিছু দেওয়া হয়, সে তার মালিক। তার মৃত্যুর পর তার উত্তরাধিকারী যারা হবে, তারা এর মালিক হবে।
+। জাবির (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যাকে সারা জীবনের জন্য কিছু দেয়া হয় তার মালিক সে-ই। তার অবর্তমানে যারা তার উত্তরাধিকারী হয় তারা এর উত্তরাধিকারী হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3551</td></tr><tr><td>Arabic No</td><td>3551</td></tr><tr><td>Reference</td><td>Book 24 Hadith 136</td></tr></tbody></table></div>
 

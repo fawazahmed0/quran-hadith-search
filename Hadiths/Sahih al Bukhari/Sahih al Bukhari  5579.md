@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবনু সাববাহ্ (রহঃ) ... ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, মদ হারাম ঘোষিত হয়েছে এমন অবস্থায় যে, মদিনা্য় আঙ্গুরের মদের কিছু অবশিষ্ট ছিল না। [৪৬১৬] আধুনিক প্রকাশনী- ৫১৭০, ইসলামিক ফাউন্ডেশন- ৫০৬৬
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হাসান ইবনু সাববাহ্ (রহঃ) ... ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, মদ হারাম ঘোষিত হয়েছে এমন অবস্থায় যে, মদিনা্য় আঙ্গুরের মদের কিছু অবশিষ্ট ছিল না। [৪৬১৬] আধুনিক প্রকাশনী- ৫১৭০, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5579</td></tr><tr><td>Arabic No</td><td>5579</td></tr><tr><td>Reference</td><td>Book 74 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Hasan bin Shabbah] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (திராட்சையால் தயாரிக்கப்படும்) மது மதீனாவில் சிறிதும் இல்லாதிருந்த நிலையில் அது தடை செய்யப்பட்டது.7 இதை நாஃபிஉ (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 74
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: (திராட்சையால் தயாரிக்கப்படும்) மது மதீனாவில் சிறிதும் இல்லாதிருந்த நிலையில் அது தடை செய்யப்பட்டது.7 இதை நாஃபிஉ (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5579</td></tr><tr><td>Arabic No</td><td>5579</td></tr><tr><td>Reference</td><td>Book 74 Hadith 5</td></tr></tbody></table></div>
 

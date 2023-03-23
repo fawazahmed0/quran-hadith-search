@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৭৯৫। জারহাদ আল-আসলামী (রাযিঃ) হতে বর্ণিত, তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদের মধ্যে জারহাদের পাশ দিয়ে গেলেন। সে সময় তার উরুদেশ উলঙ্গ অবস্থায় ছিল। তিনি বললেনঃ উরুদেশও আভরণীয় অঙ্গ। সহীহঃ ইরওয়াহ (১/২৯৭-২৯৮), মিশকাত (৩১১৪)। আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমার মতে এর সনদসূত্র মুত্তাসিল (পরস্পর সংযুক্ত) নয়।
+। জারহাদ আল-আসলামী (রাযিঃ) হতে বর্ণিত, তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদের মধ্যে জারহাদের পাশ দিয়ে গেলেন। সে সময় তার উরুদেশ উলঙ্গ অবস্থায় ছিল। তিনি বললেনঃ উরুদেশও আভরণীয় অঙ্গ। সহীহঃ ইরওয়াহ (১/২৯৭-২৯৮), মিশকাত (৩১১৪)। আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমার মতে এর সনদসূত্র মুত্তাসিল (পরস্পর সংযুক্ত) নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2795</td></tr><tr><td>Arabic No</td><td>2795</td></tr><tr><td>Reference</td><td>Book 39 Hadith 19</td></tr></tbody></table></div>
 

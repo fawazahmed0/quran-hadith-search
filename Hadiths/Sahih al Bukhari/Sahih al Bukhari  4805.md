@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেনঃ যে বলল, আমি ইউনুস ইবনু মাত্তার চেয়ে উত্তম, সে মিথ্যা বলল। [৩৪১৫] (আধুনিক প্রকাশনীঃ ৪৪৪১, ইসলামিক ফাউন্ডেশনঃ ৪৪৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেনঃ যে বলল, আমি ইউনুস ইবনু মাত্তার চেয়ে উত্তম, সে মিথ্যা বলল। [৩৪১৫] (আধুনিক প্রকাশনীঃ ৪৪৪১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4805</td></tr><tr><td>Arabic No</td><td>4805</td></tr><tr><td>Reference</td><td>Book 65 Hadith 327</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ibrahim bin Al Mundzir] Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ‘‘நான் யூனுஸ் பின் மத்தாவைவிடச் சிறந்தவர்” என்று எவர் (என்னைக் குறித்து புகழ்ந்து) கூறுகின்றாரோ அவர் பொய் சொல்லிவிட்டார்.2 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 65
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ‘‘நான் யூனுஸ் பின் மத்தாவைவிடச் சிறந்தவர்” என்று எவர் (என்னைக் குறித்து புகழ்ந்து) கூறுகின்றாரோ அவர் பொய் சொல்லிவிட்டார்.2 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4805</td></tr><tr><td>Arabic No</td><td>4805</td></tr><tr><td>Reference</td><td>Book 65 Hadith 327</td></tr></tbody></table></div>
 

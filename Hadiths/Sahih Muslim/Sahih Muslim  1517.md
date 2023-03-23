@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৪০৩, আন্তর্জাতিক নাম্বারঃ ৬৬৩ ১৪০৩-(.../...) সাঈদ ইবনু আমর আল আশ'আসী ও মুহাম্মাদ ইবনু আবূ উমার, সাঈদ ইবনু আযহার আল ওয়াসিতী (রহঃ) ..... আসিম-এর মাধ্যমে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৩৮৯, ইসলামীক সেন্টার ১৪০১)
+সাঈদ ইবনু আমর আল আশ'আসী ও মুহাম্মাদ ইবনু আবূ উমার, সাঈদ ইবনু আযহার আল ওয়াসিতী (রহঃ) ..... আসিম-এর মাধ্যমে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৩৮৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1517</td></tr><tr><td>Arabic No</td><td>663.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 350</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৩৮৩৩। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ ‘‘হে আল্লাহ! তুমি আমাকে যে জ্ঞান দান করেছো, তার দ্বারা আমাকে উপকৃত করো, আমার জন্য উপকারী জ্ঞান আমাকে শিখিয়ে দাও এবং আমার জ্ঞান বৃদ্ধি করো। সর্বাবস্থায় সমস্ত প্রশংসা আল্লাহর! আমি জাহান্নামের শাস্তি থেকে আল্লাহর আশ্রয় প্রার্থনা করি’’।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ ‘‘হে আল্লাহ! তুমি আমাকে যে জ্ঞান দান করেছো, তার দ্বারা আমাকে উপকৃত করো, আমার জন্য উপকারী জ্ঞান আমাকে শিখিয়ে দাও এবং আমার জ্ঞান বৃদ্ধি করো। সর্বাবস্থায় সমস্ত প্রশংসা আল্লাহর! আমি জাহান্নামের শাস্তি থেকে আল্লাহর আশ্রয় প্রার্থনা করি’’।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3833</td></tr><tr><td>Arabic No</td><td>3833</td></tr><tr><td>Reference</td><td>Book 34 Hadith 7</td></tr></tbody></table></div>
 

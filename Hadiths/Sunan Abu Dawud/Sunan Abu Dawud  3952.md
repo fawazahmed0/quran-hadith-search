@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বকর ইবন আবূ শায়বা (রহঃ) .... জাবির ইবন যায়দ ও হাসান (রাঃ) থেকেও অনুরূপ হাদীছ বর্ণিত আছে।
+। কাতাদাহ (রহঃ) থেকে জাবির ইবনু যায়িদ এবং হাসানের সূত্রে অনুরূপ হাদীস বর্ণিত। ইমাম আবূ দাঊদ (রহঃ) বলেন, হাম্মাদের তুলনায় সাঈদ (রহঃ) অধিক স্মৃতিশক্তি সম্পন্ন।[1] সহীহ মাকতু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 31 Hadith 27</td></tr></tbody></table></div>
 

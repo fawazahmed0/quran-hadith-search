@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যুহায়র ইবনু হারব ও আবদ ইবনু হুমায়দ (রহঃ) ... ইবনু শিহাব যুহরী (রহঃ) এর সূত্রে অনুরূপ রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৩৫০৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3645</td></tr><tr><td>Arabic No</td><td>1467.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 78</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Ibrahim bin Musa Ar Razi] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், "இறைநம்பிக்கைகொண்ட ஓர் ஆண் இறை நம்பிக்கையுள்ள ஒரு பெண்ணை (முழுமையாக) வெறுத்து ஒதுக்க வேண்டாம். அவளிடமிருந்து அவர் ஒரு குணத்தை வெறுத்தாலும், மற்றொரு குணத்தைக் கண்டு திருப்திகொள்ளட்டும்" என்றோ, அல்லது (இதைப் போன்று) வேறொரு முறையிலோ கூறினார்கள். - மேற்கண்ட ஹதீஸ் அபூஹுரைரா (ரலி) அவர்களிடமிருந்தே மற்றோர் அறிவிப்பாளர் தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 17
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், "இறைநம்பிக்கைகொண்ட ஓர் ஆண் இறை நம்பிக்கையுள்ள ஒரு பெண்ணை (முழுமையாக) வெறுத்து ஒதுக்க வேண்டாம். அவளிடமிருந்து அவர் ஒரு குணத்தை வெறுத்தாலும், மற்றொரு குணத்தைக் கண்டு திருப்திகொள்ளட்டும்" என்றோ, அல்லது (இதைப் போன்று) வேறொரு முறையிலோ கூறினார்கள். - மேற்கண்ட ஹதீஸ் அபூஹுரைரா (ரலி) அவர்களிடமிருந்தே மற்றோர் அறிவிப்பாளர் தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3645</td></tr><tr><td>Arabic No</td><td>1467.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 78</td></tr></tbody></table></div>
 

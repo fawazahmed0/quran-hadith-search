@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ইদরীস ‘আয়িযুল্লাহ ইবনু ‘আবদুল্লাহ (রহ.) হতে বর্ণিত যে, ‘উবাদাহ ইবনু সামিত (রাঃ)- যিনি বদর যুদ্ধে অংশগ্রহণ করেছিলেন- বর্ণনা করেন, রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, আমার হাতে বায়‘আত গ্রহণ কর। [১৮] (আধুনিক প্রকাশনীঃ ৩৭০২, ইসলামিক ফাউন্ডেশনঃ ৩৭০৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ইদরীস ‘আয়িযুল্লাহ ইবনু ‘আবদুল্লাহ (রহ.) হতে বর্ণিত যে, ‘উবাদাহ ইবনু সামিত (রাঃ)- যিনি বাদর যুদ্ধে অংশগ্রহণ করেছিলেন- বর্ণনা করেন, রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, আমার হাতে বায়‘আত গ্রহণ কর। [১৮] (আধুনিক প্রকাশনীঃ ৩৭০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3999</td></tr><tr><td>Arabic No</td><td>3999</td></tr><tr><td>Reference</td><td>Book 64 Hadith 50</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பத்ர் போரில் கலந்துகொண்ட வரான உபாதா பின் அஸ்ஸாமித் (ரலி)40 அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “என்னிடம் வாக்குப் பிரமாணம் தாருங்கள்” என்று கூறினார்கள்.41 அத்தியாயம் : 64
+பத்ர் போரில் கலந்துகொண்ட வரான உபாதா பின் அஸ்ஸாமித் (ரலி)40 அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “என்னிடம் வாக்குப் பிரமாணம் தாருங்கள்” என்று கூறினார்கள்.41 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3999</td></tr><tr><td>Arabic No</td><td>3999</td></tr><tr><td>Reference</td><td>Book 64 Hadith 50</td></tr></tbody></table></div>
 

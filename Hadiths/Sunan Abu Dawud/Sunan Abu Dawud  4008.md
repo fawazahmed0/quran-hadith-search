@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... আইশা (রাঃ) থেকে বর্ণিত, তিনি বলেনঃ রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উপর ওহী নাযিল হলে, তিনি তা আমাদের এভাবে পাঠ করে শোনানঃ (سُورَةٌ أَنْزَلْنَاهَا وَفَرَضْنَاهَا)। ইমাম আবূ দাউদ (রহঃ) বলেনঃ তিনিفَرَضْنَاهَا পড়েননি বরং হালকাভাবে فَرَضْنَاهَا পড়েন।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উপর ওয়াহী অবতীর্ণ হয়েছে আর তিনি আমাদের নিকট তা পাঠ করেছেন ... سُورَةٌ أَنْزَلْنَاهَا وَفَرَضْنَاهَا (সূরা আন-নূরঃ ১)। ইমাম আবূ দাঊদ (রহঃ) বলেন, অর্থাৎ হালকাভাবে নয়। অতঃপর তিনি সামনের দিকে পড়তে থাকেন।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4008</td></tr><tr><td>Arabic No</td><td>4008</td></tr><tr><td>Reference</td><td>Book 32 Hadith 40</td></tr></tbody></table></div>
 

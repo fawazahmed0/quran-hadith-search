@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ যদি সালাতে তন্দ্রাচ্ছন্ন হয়ে পড়ে, সে যেন ততক্ষণ ঘুমিয়ে নেয়, যতক্ষণ না সে কী পড়ছে, তা অনুধাবন করতে সক্ষম হয়। (আধুনিক প্রকাশনীঃ ২০৭, ইসলামিক ফাউন্ডেশনঃ ২১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ যদি সালাতে তন্দ্রাচ্ছন্ন হয়ে পড়ে, সে যেন ততক্ষণ ঘুমিয়ে নেয়, যতক্ষণ না সে কী পড়ছে, তা অনুধাবন করতে সক্ষম হয়। (আধুনিক প্রকাশনীঃ ২০৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>213</td></tr><tr><td>Arabic No</td><td>213</td></tr><tr><td>Reference</td><td>Book 4 Hadith 79</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma 'mar] berkata, telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் தொழுகையில் கண்ணயர்ந்து விடுவாரானால், தாம் என்ன ஓதுகிறோம் என்பதை(ச் சரியாக) அறியும்வரை அவர் (தொழுகையிலிருந்து விலகி) தூங்கிக்கொள்ளட்டும். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 4
+நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் தொழுகையில் கண்ணயர்ந்து விடுவாரானால், தாம் என்ன ஓதுகிறோம் என்பதை(ச் சரியாக) அறியும்வரை அவர் (தொழுகையிலிருந்து விலகி) தூங்கிக்கொள்ளட்டும். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>213</td></tr><tr><td>Arabic No</td><td>213</td></tr><tr><td>Reference</td><td>Book 4 Hadith 79</td></tr></tbody></table></div>
 

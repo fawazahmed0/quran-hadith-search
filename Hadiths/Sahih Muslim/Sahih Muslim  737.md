@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬২৪, আন্তর্জাতিক নাম্বারঃ ৩২৫ ৬২৪-(৫১/...) কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক মুদ পানি দিয়ে ওযু করতেন এবং এক সা থেকে পাঁচ মুদ পর্যন্ত পানি দিয়ে গোসল করতেন। (ইসলামিক ফাউন্ডেশনঃ ৬২৮, ইসলামিক সেন্টারঃ ৬৪৩)
+কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক মুদ পানি দিয়ে ওযু করতেন এবং এক সা থেকে পাঁচ মুদ পর্যন্ত পানি দিয়ে গোসল করতেন। (ইসলামিক ফাউন্ডেশনঃ ৬২৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>737</td></tr><tr><td>Arabic No</td><td>325.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 59</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு முத்து அளவுத் தண்ணீரில் அங்கத் தூய்மை (உளூ) செய்வார்கள். ஒரு ஸாஉ அளவு முதல் ஐந்து முத்து வரைத் தண்ணீரில் குளிப்பார்கள். அத்தியாயம் : 3
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு முத்து அளவுத் தண்ணீரில் அங்கத் தூய்மை (உளூ) செய்வார்கள். ஒரு ஸாஉ அளவு முதல் ஐந்து முத்து வரைத் தண்ணீரில் குளிப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>737</td></tr><tr><td>Arabic No</td><td>325.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 59</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আবূ সা‘ঈদ খুদরী (রাঃ) আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে (আবূ বাকরার হাদীসের) অনুরূপ একটি হাদীস তাঁর কাছে বর্ণনা করেন। ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) তাঁর [আবূ সাঈদ (রাঃ)-এর] সঙ্গে দেখা করে বললেন, হে আবূ সাঈদ! আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে আপনি কী হাদীস বর্ণনা করে থাকেন? আবূ সাঈদ (রাঃ) সার্ফ (মুদ্রার বিনিময়) সম্পর্কে বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে আমি বলতে শুনেছি যে, সোনার বদলে সোনার বিক্রয় সমান পরিমাণ হতে হবে। রূপার বদলে রূপার বিক্রয় সমান হতে হবে। (২১৭৭, ২১৭৮, মুসলিম ২২/১৪, হাঃ ১৫৮৪, আহমাদ ১১৭০০) (আধুনিক প্রকাশনীঃ ২০২৬, ইসলামিক ফাউন্ডেশনঃ ২০৪১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, আবূ সা‘ঈদ খুদরী (রাঃ) আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে (আবূ বাকরার হাদীসের) অনুরূপ একটি হাদীস তাঁর কাছে বর্ণনা করেন। ‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) তাঁর [আবূ সাঈদ (রাঃ)-এর] সঙ্গে দেখা করে বললেন, হে আবূ সাঈদ! আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে আপনি কী হাদীস বর্ণনা করে থাকেন? আবূ সাঈদ (রাঃ) সার্ফ (মুদ্রার বিনিময়) সম্পর্কে বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে আমি বলতে শুনেছি যে, সোনার বদলে সোনার বিক্রয় সমান পরিমাণ হতে হবে। রূপার বদলে রূপার বিক্রয় সমান হতে হবে। (২১৭৭, ২১৭৮, মুসলিম ২২/১৪, হাঃ ১৫৮৪, আহমাদ ১১৭০০) (আধুনিক প্রকাশনীঃ ২০২৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 34 Hadith 126</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin Sa'ad] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சாலிம் பின் அப்தில்லாஹ் (ரஹ்) அவர்கள் கூறியதாவது: (இதற்குமுன் 2174ஆவது ஹதீஸில் உமர் (ரலி) அவர்கள் அறிவித்த) அந்த ஹதீஸைப் போன்று ஒரு ஹதீஸை அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அப்துல்லாஹ் பின் உமர் (ரலி) அவர்களுக்கு அறிவித்தார்கள். பின்னர் (ஒரு தடவை) அபூசயீத் (ரலி) அவர்களை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் சந்தித்து, ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து நீங்கள் அறிவித்த அந்த ஹதீஸ் என்ன? (திரும்பக் கூறுங்கள்)” என்று (உறுதிபடுத்திக் கொள்வதற்காகக்) கேட்டார்கள். அப்போது யிநாணயமாற்று’ தொடர்பாக அபூசயீத் (ரலி) அவர்கள் கூறியதாவது: ‘‘தங்கத்தை தங்கத்திற்குச் சரிக்குச் சமமாகவே (விற்க வேண்டும்); வெள்ளியை வெள்ளிக்குச் சரிக்குச் சமமாகவே (விற்க வேண்டும்)” என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறியதை நான் செவியுற்றேன். அத்தியாயம் : 34
+சாலிம் பின் அப்தில்லாஹ் (ரஹ்) அவர்கள் கூறியதாவது: (இதற்குமுன் 2174ஆவது ஹதீஸில் உமர் (ரலி) அவர்கள் அறிவித்த) அந்த ஹதீஸைப் போன்று ஒரு ஹதீஸை அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அப்துல்லாஹ் பின் உமர் (ரலி) அவர்களுக்கு அறிவித்தார்கள். பின்னர் (ஒரு தடவை) அபூசயீத் (ரலி) அவர்களை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் சந்தித்து, ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து நீங்கள் அறிவித்த அந்த ஹதீஸ் என்ன? (திரும்பக் கூறுங்கள்)” என்று (உறுதிபடுத்திக் கொள்வதற்காகக்) கேட்டார்கள். அப்போது யிநாணயமாற்று’ தொடர்பாக அபூசயீத் (ரலி) அவர்கள் கூறியதாவது: ‘‘தங்கத்தை தங்கத்திற்குச் சரிக்குச் சமமாகவே (விற்க வேண்டும்); வெள்ளியை வெள்ளிக்குச் சரிக்குச் சமமாகவே (விற்க வேண்டும்)” என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறியதை நான் செவியுற்றேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 34 Hadith 126</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin Sa'ad] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a., Ebu Said el-Hudri'den bunun benzerini (gümüşle gümüşün ancak eşit ve peşin olarak değişilebileceğini) Resulullah'tan hadis olarak rivayet etmiştir. Abdullah, Ebu Said ile karşılaşarak ona sordu: "Ebu Saidl Resulullah Sallallahu Aleyhi ve Sellem'den aktardığın şu haberin aslı nedir?" Ebu Said: "Sarf konusunda olanı mı soruyorsun? Resulullah'ın şöyle söylediğini işittim": "Altın ile altın eşit olarak değişilir. Gümüş ile gümüş eşit olarak değişilir. " Tekrar: 2177, 2178
+Abdullah İbn Ömer r.a., Ebu Said el-Hudri'den bunun benzerini (gümüşle gümüşün ancak eşit ve peşin olarak değişilebileceğini) Resulullah'tan hadis olarak rivayet etmiştir. Abdullah, Ebu Said ile karşılaşarak ona sordu: "Ebu Saidl Resulullah Sallallahu Aleyhi ve Sellem'den aktardığın şu haberin aslı nedir?" Ebu Said: "Sarf konusunda olanı mı soruyorsun? Resulullah'ın şöyle söylediğini işittim": "Altın ile altın eşit olarak değişilir. Gümüş ile gümüş eşit olarak değişilir. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 34 Hadith 126</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ عَلِيٌّ حَدِّثُوا النَّاسَ بِمَا يَعْرِفُونَ أَتُحِبُّونَ أَنْ يُكَذَّبَ اللهُ وَرَسُولُهُ ‘আলী (রাযি.) বলেন, ‘মানুষের নিকট সেই ধরনের কথা বল, যা তারা বুঝতে পারে। তোমরা কি পছন্দ কর যে, আল্লাহ্ ও তাঁর রাসূলের প্রতি মিথ্যা আরোপ করা হোক? ১২৭. ‘আলী (রাযি.) থেকে বর্ণনা করেন। (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>127</td></tr><tr><td>Arabic No</td><td>127</td></tr><tr><td>Reference</td><td>Book 3 Hadith 69</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Dan Ali berkata, "Berbicaralah dengan manusia sesuai dengan kadar pemahaman mere
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: மக்கள் எதைப் புரிந்துகொள்வார்களோ அதையே அவர்களிடம் கூறுங்கள். (அவர்களுக்குப் புரியாதவற்றைப் பேசி, அதனால்) அல்லாஹ்வும் அவனுடைய தூதரும் (அவர்களால்) பொய்யர்களென்று கருதப்படுவதை நீங்கள் விரும்புகிறீர்களா, என்ன? அத்தியாயம் : 3
+அலீ (ரலி) அவர்கள் கூறியதாவது: மக்கள் எதைப் புரிந்துகொள்வார்களோ அதையே அவர்களிடம் கூறுங்கள். (அவர்களுக்குப் புரியாதவற்றைப் பேசி, அதனால்) அல்லாஹ்வும் அவனுடைய தூதரும் (அவர்களால்) பொய்யர்களென்று கருதப்படுவதை நீங்கள் விரும்புகிறீர்களா, என்ன? அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>127</td></tr><tr><td>Arabic No</td><td>127</td></tr><tr><td>Reference</td><td>Book 3 Hadith 69</td></tr></tbody></table></div>
 

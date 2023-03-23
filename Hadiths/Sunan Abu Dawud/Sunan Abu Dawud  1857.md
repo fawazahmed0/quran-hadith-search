@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... কা‘ব ইবন উজরা (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে বলেন, যদি চাও তবে তুমি একটি পশু কুরবানী কর অথবা তিনদিন রোযা রাখ, অথবা ছয়জন মিসকীনকে তিন সা' খেজুর দান কর।
+। কা‘ব ইবনু উজরাহ (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ তুমি চাইলে একটি কুরবানী করো অথবা তিন দিন সওম রাখো অথবা তিন সা‘ খেজুর ছয়জন মিসকীনকে দান করো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1857</td></tr><tr><td>Arabic No</td><td>1857</td></tr><tr><td>Reference</td><td>Book 11 Hadith 137</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যামানায় কুকুর মসজিদের ভিতর দিয়ে আসা-যাওয়া করত অথচ এজন্য তাঁরা কোথাও পানি ছিটিয়ে দিতেন না। (আধুনিক প্রকাশনীঃ ১৬৯ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ১৭৪ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>174</td></tr><tr><td>Reference</td><td>Book 4 Hadith 40</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ And narrated Hamza bin 'Abdullah:My father said. "During the lifetime of Allah's
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில், (வெளியே) சிறுநீர் கழித்துவிட்டு, (மண்தரையாக இருந்த) பள்ளிவாசலுக்குள் நாய்கள் வந்து கொண்டும் போய்க்கொண்டும் இருந்தன. இதற்காக மக்கள் (பள்ளிவாசலில் தண்ணீர்) எதையும் தெளிப்பவர்களாக இருக்க வில்லை. அத்தியாயம் : 4
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில், (வெளியே) சிறுநீர் கழித்துவிட்டு, (மண்தரையாக இருந்த) பள்ளிவாசலுக்குள் நாய்கள் வந்து கொண்டும் போய்க்கொண்டும் இருந்தன. இதற்காக மக்கள் (பள்ளிவாசலில் தண்ணீர்) எதையும் தெளிப்பவர்களாக இருக்க வில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>174</td></tr><tr><td>Reference</td><td>Book 4 Hadith 40</td></tr></tbody></table></div>
 

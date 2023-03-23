@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমূদ ইবন খালিদ আস সালমী ..... আমর ইবন শু‘আয়ব তাঁর পিতা হতে, তিনি তার দাদা আবদুল্লাহ্ ইবন উমার (রাঃ) হতে বর্ণনা করেছেন যে, একদা জনৈক স্ত্রীলোক বলে, হে আল্লাহ্‌র রাসুল! এ সন্তানটি আমার গর্ভজাত আর সে আমার স্তনের দুগ্ধ পান করছে এবং আমার কোল-ই তার আশ্রয়স্থল। আর তার পিতা আমাকে তালাক দিয়েছে এবং সে একে আমার নিকট হতে ছিনিয়ে নিতে চাচ্ছে। তখন রাসুলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেন, তুমি যতদিন না পুনরায় বিবাহ করবে, ততদিন তুমি তার অধিক হকদার।
+। আব্দুল্লাহ ইবনু আমর (রাযি.) সূত্রে বর্ণিত। একদা এক মহিলা বললো, হে আল্লাহর রাসূল! এই সন্তানটি আমার গর্ভজাত, সে আমার স্তনের দুধ পান করেছে এবং আমার কোল তার আশ্রয়স্থল। তার পিতা আমাকে তালাক দিয়েছে। এখন সে সন্তানটিকে আমার থেকে কেড়ে নিতে চাইছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ তুমি অন্যত্র বিয়ে না করা পর্যন্ত তুমিই তার অধিক হকদার।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2276</td></tr><tr><td>Arabic No</td><td>2276</td></tr><tr><td>Reference</td><td>Book 13 Hadith 102</td></tr></tbody></table></div>
 

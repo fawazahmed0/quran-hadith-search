@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১১০। উবাই ইবনু কাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, “বীর্যপাতের ফলেই গোসল ওয়াজিব হয়” এ অনুমতি ইসলামের প্রথম যুগে ছিল, অতঃপর তা বাতিল করে দেয়া হয়েছে। —সহীহ। ইবনু মাজাহ– (৬০৯)।
+। উবাই ইবনু কাব (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, “বীর্যপাতের ফলেই গোসল ওয়াজিব হয়” এ অনুমতি ইসলামের প্রথম যুগে ছিল, অতঃপর তা বাতিল করে দেয়া হয়েছে। —সহীহ। ইবনু মাজাহ– (৬০৯)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>110</td></tr><tr><td>Arabic No</td><td>110</td></tr><tr><td>Reference</td><td>Book 1 Hadith 110</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Ubayy bin Ka'b narrated:"Water is for water,' was only permitted in the beginnin
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ubey b. Ka’b (r.a.)’den rivayete göre, şöyle demiştir: “Su, yani yıkanmak sudan, yani meninin gelmesinden dolayıdır, kaidesi İslamın ilk dönemlerinde bir izin olarak vardı sonra kaldırıldı.” Diğer tahric: Müslim, Hayz; İbn Mace, Tahara İBN-İ MACE HADİSLERİ VE AÇIKLAMALARI: 606 — 607
+Ubey b. Ka’b (r.a.)’den rivayete göre, şöyle demiştir: “Su, yani yıkanmak sudan, yani meninin gelmesinden dolayıdır, kaidesi İslamın ilk dönemlerinde bir izin olarak vardı sonra kaldırıldı.” Diğer tahric: Müslim, Hayz; İbn Mace, Tahara İBN-İ MACE HADİSLERİ VE AÇIKLAMALARI: 606 —
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>110</td></tr><tr><td>Arabic No</td><td>110</td></tr><tr><td>Reference</td><td>Book 1 Hadith 110</td></tr></tbody></table></div>
 

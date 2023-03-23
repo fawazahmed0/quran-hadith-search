@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈক ইয়াহূদী হতে কিছু খাদ্যদ্রব্য কিনেছিলেন এবং তার কাছে নিজের বর্ম বন্ধক রেখেছিলেন। (২০৬৮) (আধুনিক প্রকাশনীঃ ২৩৩১, ইসলামিক ফাউন্ডেশনঃ ২৩৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈক ইয়াহূদী হতে কিছু খাদ্যদ্রব্য কিনেছিলেন এবং তার কাছে নিজের বর্ম বন্ধক রেখেছিলেন। (২০৬৮) (আধুনিক প্রকাশনীঃ ২৩৩১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2513</td></tr><tr><td>Arabic No</td><td>2513</td></tr><tr><td>Reference</td><td>Book 48 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு யூதரிடம் உணவுப் பொருளை வாங்கினார்கள்; (அதற்காக) தமது கவசத்தை அந்த யூதரிடம் அடைமானம் வைத்தார்கள். அத்தியாயம் : 48
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு யூதரிடம் உணவுப் பொருளை வாங்கினார்கள்; (அதற்காக) தமது கவசத்தை அந்த யூதரிடம் அடைமானம் வைத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2513</td></tr><tr><td>Arabic No</td><td>2513</td></tr><tr><td>Reference</td><td>Book 48 Hadith 6</td></tr></tbody></table></div>
 

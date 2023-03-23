@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল মালিক ইবনে মারওয়ান (রহঃ) .... আবদুল্লাহ ইবনে মাসউদ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: যখন তোমাদের কেউ রুকু করবে, তখন সে যেন সেখানে “সুবহানা রব্বিয়াল আযীম” তিনবার পাঠ করে এবং এটাই সর্বনিম্ন পরিমাণ, এবং যখন সিজদা করবে, তখন সেখানে “সুবহানা রব্বি-ইয়াল আলা” কমপক্ষে তিনবার পাঠ করবে। (ইবনে মাজাহ, তিরমিযী)। আবু দাউদ (রহঃ) বলেন, এটা আওন (রহঃ) এর মুরসাল হাদিস। কারণ তিনি আবদুল্লাহ ইবনে মাসউদ (রাঃ) এর সাক্ষাত পাননি।
+। ‘আবদুল্লাহ ইবনু মাসঊদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কেউ রুকূ‘তে গিয়ে যেন কমপক্ষে তিনবার বলেঃ ‘‘সুবহানা রব্বিয়াল ‘আযীম’’ এবং সিজদাতে গিয়ে যেন তিনবার বলেঃ ‘‘সুবহানা রব্বিয়াল আ‘লা’’ আর এটাই সর্বনিম্ন পরিমাণ।[1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, এ বর্ণনাটি মুরসাল। কেননা ‘আওন ‘আবদুল্লাহ ইবনু মাসঊদ (রাঃ)-এর সাক্ষাত পাননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>886</td></tr><tr><td>Arabic No</td><td>886</td></tr><tr><td>Reference</td><td>Book 2 Hadith 496</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdul Malik bin Marwan Al Ahwazi] telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Mes'ud'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem); "Biriniz rüku'a vardığı zaman üç kere "sübhane rabbiyye'l-azîm'' desin. Bu (rükü'daki tesbihin) en aşağısıdır. Secdeye vardığı zaman da üç kere "Sübhane ranbiye'l-a'la" desin. Bu da (secdedeki tesbihin) en aşağısıdır.” Ebu Davud dedi ki: Bu (hadis) mürseldir. (Çünkü) Avn, Abdul­lah ile buluşmamıştır. Diğer tahric: Tirnıızi, mevakit; deavat; İbn Mace, ikame; Darimi, salat; Ahmed b. Hanbel, I, 232, 371; V, 382, 384, 389, 394, 397, 398
+Abdullah b. Mes'ud'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem); "Biriniz rüku'a vardığı zaman üç kere "sübhane rabbiyye'l-azîm'' desin. Bu (rükü'daki tesbihin) en aşağısıdır. Secdeye vardığı zaman da üç kere "Sübhane ranbiye'l-a'la" desin. Bu da (secdedeki tesbihin) en aşağısıdır.” Ebu Davud dedi ki: Bu (hadis) mürseldir. (Çünkü) Avn, Abdul­lah ile buluşmamıştır. Diğer tahric: Tirnıızi, mevakit; deavat; İbn Mace, ikame; Darimi, salat; Ahmed b. Hanbel, I, 232, 371; V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>886</td></tr><tr><td>Arabic No</td><td>886</td></tr><tr><td>Reference</td><td>Book 2 Hadith 496</td></tr></tbody></table></div>
 

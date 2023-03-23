@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নুফায়লী (রহঃ) .... আতিয়া ইবন সা’আদ আওফী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি আব্দুল্লাহ ইবন উমার (রাঃ) এর সামনে এ আয়াত এরূপে তিলাওয়াত করলেঃ اللَّهُ الَّذِي خَلَقَكُمْ مِنْ ضَعْفٍ তিনি বলেনঃ ضُعْفٍ পাঠ করবে। রাবী বলেনঃ একদা আমি তোমার ন্যায় এটি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট তিলাওয়াত করলে, তিনি আমার ভুল ধরেন যেমন আমি তোমার ভুল ধরলাম।
+। ‘আতিয়্যাহ ইবনু সা‘দ আল-আওফী (রাঃ) সূত্রে বর্ণিত। আমি আব্দুল্লাহ ইবনু উমারের সামনে এই আয়াত اللَّهُ الَّذِي خَلَقَكُمْ مِنْ ضَعْفٍ এভাবে পাঠ করলে তিনি বলেন,مِنْ ضُعْفٍ পাঠ করো। বর্ণনাকারী বলেন, আমিও তোমার মতো রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে পড়েছিলাম। ফলে তিনি আমার ভুল ধরেছিলেন যেমন আমি তোমার ভুল ধরেছি।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3978</td></tr><tr><td>Arabic No</td><td>3978</td></tr><tr><td>Reference</td><td>Book 32 Hadith 10</td></tr></tbody></table></div>
 

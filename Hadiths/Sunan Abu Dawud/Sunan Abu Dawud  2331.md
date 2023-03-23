@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন আবদুল ওয়াহেদ সূত্রে বর্ণিত আবূ মাসহার বলেন, অর্থাৎ সাঈদ ইবনু আবদুল আযীয বলতেন, "সাররাহ" শব্দের অর্থ প্রথমাংশ। (অর্থাৎ শা‘বানের প্রথমাংশে রোযা রাখার তাগিদ দিয়েছেন।)
+। আবূ মুসহির (রহ.) বলেন, সাঈদ ইবনু ‘আব্দুল ‘আযীয (রহ.) বলতেন, ‘সাররাহ’ অর্থ শা‘বানের প্রথমভাগ।[1] শায। ইমাম আবূ দাঊদ (রহ.) বলেন, কারো মতে, মাসের মধ্যভাগ, কারো মতে, শেষভাগ। সহীহঃ মাসের শেষভাগ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2331</td></tr><tr><td>Arabic No</td><td>2331</td></tr><tr><td>Reference</td><td>Book 14 Hadith 19</td></tr></tbody></table></div>
 

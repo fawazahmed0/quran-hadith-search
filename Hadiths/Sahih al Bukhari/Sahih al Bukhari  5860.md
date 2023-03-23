@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আনসারদের নিকট সংবাদ প্রেরণ করেন এবং তাদের চামড়ার একটি তাঁবুতে জমায়েত করেন। [৩১৪৬] (আধুনিক প্রকাশনী- ৫৪৩৪, ইসলামিক ফাউন্ডেশন- ৫৩৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আনসারদের নিকট সংবাদ প্রেরণ করেন এবং তাদের চামড়ার একটি তাঁবুতে জমায়েত করেন। [৩১৪৬] (আধুনিক প্রকাশনী- ৫৪৩৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5860</td></tr><tr><td>Arabic No</td><td>5860</td></tr><tr><td>Reference</td><td>Book 77 Hadith 77</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அன்சாரிகளுக்கு ஆளனுப்பி அவர்களைப் பதனிடப் பட்ட தோல் கூடாரத்தில் ஒன்று திரட்டி னார்கள்.76 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 77
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அன்சாரிகளுக்கு ஆளனுப்பி அவர்களைப் பதனிடப் பட்ட தோல் கூடாரத்தில் ஒன்று திரட்டி னார்கள்.76 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5860</td></tr><tr><td>Arabic No</td><td>5860</td></tr><tr><td>Reference</td><td>Book 77 Hadith 77</td></tr></tbody></table></div>
 

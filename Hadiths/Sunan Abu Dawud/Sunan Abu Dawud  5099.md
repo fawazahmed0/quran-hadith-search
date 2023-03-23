@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন বাশশার (রহঃ) ...... আইশা (রাঃ) থেকে বর্ণিত যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আকাশের কিনারায় যখন মেঘ উঠতে দেখতেন, তখন সব কাজ পরিত্যাগ করতেন। সে সময় যদি তিনি নফল নামায পড়তেন, তবে তা পরিত্যাগ করে এ দু'আ পড়তেনঃ ইয়া আল্লাহ! আমি এর অকল্যাণ হতে আপনার কাছে পানাহ চাই। আর বৃষ্টি বর্ষণ শুরু হলে, তিনি বলতেনঃ হে আল্লাহ্‌! বরকতপূর্ণ বৃষ্টি বর্ষণ করুন।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আকাশের প্রান্তে মেঘ উঠতে দেখলে যাবতীয় (নাফল) ইবাদাত ছেড়ে দিতেন, এমন কি তিনি সালাতে থাকলেও। অতঃপর তিনি বলতেনঃ ‘‘হে আল্লাহ! আমি আপনার নিকট এর খারাবী থেকে আশ্রয় চাইছি।’’ যদি বৃষ্টি হতো তাহলে বলতেনঃ ‘‘হে আল্লাহ! বরকতপূর্ণ ও সুমিষ্ট পানি দান করো।’’[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5099</td></tr><tr><td>Arabic No</td><td>5099</td></tr><tr><td>Reference</td><td>Book 43 Hadith 327</td></tr></tbody></table></div>
 

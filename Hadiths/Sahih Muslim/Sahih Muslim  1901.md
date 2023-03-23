@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৭৮৬, আন্তর্জাতিক নাম্বারঃ ৮১৮ ১৭৮৬-(.../...) ইসহাক ইবনু ইবরাহীম ও আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) ইউনুস (রহঃ) থেকে সানাদসহ হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৭৭১, ইসলামীক সেন্টার ১৭৭৮)
+ইসহাক ইবনু ইবরাহীম ও আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) ইউনুস (রহঃ) থেকে সানাদসহ হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৭৭১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1901</td></tr><tr><td>Arabic No</td><td>818.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 329</td></tr></tbody></table></div>
 

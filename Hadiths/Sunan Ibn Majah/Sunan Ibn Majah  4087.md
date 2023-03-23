@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬/৪০৮৭। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমরা আবদুল মুত্তালিবের বংশধর এবং জান্নাতবাসীর নেতাঃ আমি, হামযা, আলী, জাফর, হাসান, হুসাইন ও মাহ্দী।
+। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমরা আবদুল মুত্তালিবের বংশধর এবং জান্নাতবাসীর নেতাঃ আমি, হামযা, আলী, জাফর, হাসান, হুসাইন ও মাহ্দী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mawdu</td><td>Al-Albani</td></tr><tr><td>Mawdu</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Mawdu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4087</td></tr><tr><td>Arabic No</td><td>4087</td></tr><tr><td>Reference</td><td>Book 36 Hadith 162</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ ইবন মুহাম্মাদ (রহঃ) .... আবু ইসহাক (রহঃ) উপরোক্ত হাদীছের অনুরূপ সনদ ও অর্থে বর্ণনা করেছেন। তবে এই বর্ণনায় “আমি তা বিতিরের নামাযে পড়ি” কথাটুকু উল্লেখ নাই।
+। আবূ ইসহাক হতে উপরোক্ত সানাদ ও অর্থে বর্ণিত। তাতে শেষাংশে রয়েছেঃ এগুলো বিতরের কুনূতে বলেছেন। কিন্তু এ কথা উল্লেখ নেই যে, ‘আমি এগুলো বিতরে বলেছি।’[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
 

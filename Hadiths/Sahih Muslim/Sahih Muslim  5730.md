@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৬২৩, আন্তর্জাতিক নাম্বারঃ ২১৯৯ ৫৬২৩-(.../...) উসমান ইবনু আবূ শাইবাহ্ (রহঃ) ..... আ'মাশ (রহঃ) হতে উপরোল্লিখিত সূত্রে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৫৪২, ইসলামিক সেন্টার ৫৫৬৭)
+উসমান ইবনু আবূ শাইবাহ্ (রহঃ) ..... আ'মাশ (রহঃ) হতে উপরোল্লিখিত সূত্রে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৫৪২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5730</td></tr><tr><td>Arabic No</td><td>2199.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 84</td></tr></tbody></table></div>
 

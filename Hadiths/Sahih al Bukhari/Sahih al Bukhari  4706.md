@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) كَمَآ أَنْزَلْنَا عَلَى الْمُقْتَسِمِيْنَ-এর ব্যাখ্যায় বলেন, তারা কিছু অংশের উপর ঈমান আনে আর কিছু অংশ অস্বীকার করে। এরা হল ইয়াহুদী ও নাসারা। [৩৯৪৫] (আধুনিক প্রকাশনীঃ ৪৩৪৬, ইসলামিক ফাউন্ডেশনঃ ৪৩৪৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) كَمَآ أَنْزَلْنَا عَلَى الْمُقْتَسِمِيْنَ-এর ব্যাখ্যায় বলেন, তারা কিছু অংশের উপর ঈমান আনে আর কিছু অংশ অস্বীকার করে। এরা হল ইয়াহুদী ও নাসারা। [৩৯৪৫] (আধুনিক প্রকাশনীঃ ৪৩৪৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4706</td></tr><tr><td>Arabic No</td><td>4706</td></tr><tr><td>Reference</td><td>Book 65 Hadith 228</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Ibn 'Abbas concerning:"As We have sent down (the Scripture) on those wh
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Al A'masy] dari [Abu Zhabyan] dari [Ibnu 'Abbas radliallahu 'anhuma] mengenai firman Allah: Sebagaimana Kami telah menurunkan (azab) kepada orang-orang yang membagi-bagi Kitab Allah. (Al Hijr: 90). Ibnu Abbas berkata; "Mereka beriman dengan sebagiannya dan kafir dengan sebagian yang lain, mereka adalah Yahudi dan Nashrani."34
+Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Al A'masy] dari [Abu Zhabyan] dari [Ibnu 'Abbas radliallahu 'anhuma] mengenai firman Allah: Sebagaimana Kami telah menurunkan (azab) kepada orang-orang yang membagi-bagi Kitab Allah. (Al Hijr: 90). Ibnu Abbas berkata; "Mereka beriman dengan sebagiannya dan kafir dengan sebagian yang lain, mereka adalah Yahudi dan Nashrani
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4706</td></tr><tr><td>Arabic No</td><td>4706</td></tr><tr><td>Reference</td><td>Book 65 Hadith 228</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Al A'masy] dari [Abu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: “(தம்) வேதத்தைப் பலவாறாகப் பிரித்தோர்மீது (முன்னர்) நாம் (வேதனையை) இறக்கியதைப் போன்றே” எனும் (15:90ஆவது) வசனம் (வேதக்காரர்களான) யூதர்கள் மற்றும் கிறித்தவர்களைக் குறிக்கிறது. அவர்கள் (தமது வேதத்தில்) சிலவற்றை நம்பி ஏற்று, சிலவற்றை மறுத்தார்கள். இதை அபூழப்யான் ஹுஸைன் பின் ஜுன்துப் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 65
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: “(தம்) வேதத்தைப் பலவாறாகப் பிரித்தோர்மீது (முன்னர்) நாம் (வேதனையை) இறக்கியதைப் போன்றே” எனும் (15:90ஆவது) வசனம் (வேதக்காரர்களான) யூதர்கள் மற்றும் கிறித்தவர்களைக் குறிக்கிறது. அவர்கள் (தமது வேதத்தில்) சிலவற்றை நம்பி ஏற்று, சிலவற்றை மறுத்தார்கள். இதை அபூழப்யான் ஹுஸைன் பின் ஜுன்துப் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4706</td></tr><tr><td>Arabic No</td><td>4706</td></tr><tr><td>Reference</td><td>Book 65 Hadith 228</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لِقَوْلِهِ: (أَوَلَمْ نُعَمِّرْكُمْ مَا يَتَذَكَّرُ فِيهِ مَنْ تَذَكَّرَ وَجَاءَكُمُ النَّذِيرُ) আল্লাহর বাণীঃ আমি কি তোমাদেরকে এতটা বয়স দেইনি যে, তখন কেউ নাসীহাত গ্রহণ করতে চাইলে নাসীহাত গ্রহণ করতে পারতে? আর তোমাদের কাছে সতর্ককারীও এসেছিল.....। (সূরাহ ফাতির ৩৫/৩৭) ৬৪১৯. আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আল্লাহ্ যার আয়ু দীর্ঘ করেছেন, এমনকি তাকে ষাট বছরে পৌঁছে দিয়েছেন তার ওযর পেশ করার সুযোগ রাখেননি। (আধুনিক প্রকাশনী- ৫৯৭১, ইসলামিক ফাউন্ডেশন- ৫৯৭৭) ইবনু আজলান মুকবেরী হতেও এরূপ বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6419</td></tr><tr><td>Arabic No</td><td>6419</td></tr><tr><td>Reference</td><td>Book 81 Hadith 8</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Abdus Salam bin Muthahhar] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதனின் வயது அறுபது ஆண்டுகளை எட்டும்வரை வாழ்நாளைத் தள்ளிப்போட்ட பிறகும் அவன் (ஆயுள் விஷயத்தில்) கூறும் சாக்குப்போக்குகளை அல்லாஹ் ஏற்றுக்கொள்வதில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 81
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதனின் வயது அறுபது ஆண்டுகளை எட்டும்வரை வாழ்நாளைத் தள்ளிப்போட்ட பிறகும் அவன் (ஆயுள் விஷயத்தில்) கூறும் சாக்குப்போக்குகளை அல்லாஹ் ஏற்றுக்கொள்வதில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6419</td></tr><tr><td>Arabic No</td><td>6419</td></tr><tr><td>Reference</td><td>Book 81 Hadith 8</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্রাহীম (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আবদুর রহমান ইবনু ইয়াযীদ (রহ.)-কে বলতে শুনেছি, ‘উসমান ইবনু ‘আফফান (রাযি.) আমাদেরকে নিয়ে মিনায় চার রাক‘আত সালাত আদায় করেছেন। অতঃপর এ সম্পর্কে ‘আবদুল্লাহ্ ইবনু মাস‘ঊদ (রাযি.)-কে বলা হলো, তিনি প্রথমে ‘ইন্না লিল্লাহ্’ পড়লেন। অতঃপর বললেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে মিনায় দু‘ রাক‘আত পড়েছি এবং ‘উমার ইবনু খাত্তাব (রাযি.)-এর সঙ্গে মিনায় দু’রাক‘আত পড়েছি। কতই না ভাল হতো যদি চার রাক‘আতের পরিবর্তে দু’রাক‘আত মাকবূল সালাত হতো। (১৬৫৭; মুসলিম ৬/২, হাঃ ৬৯৫) (আধুনিক প্রকাশনীঃ ১০১৮, ইসলামিক ফাউন্ডেশনঃ ১০২৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইব্রাহীম (রহ.) হতে বর্ণিত। তিনি বলেন, আমি আবদুর রহমান ইবনু ইয়াযীদ (রহ.)-কে বলতে শুনেছি, ‘উসমান ইবনু ‘আফফান (রাযি.) আমাদেরকে নিয়ে মিনায় চার রাক‘আত সালাত আদায় করেছেন। অতঃপর এ সম্পর্কে ‘আবদুল্লাহ্ ইবনু মাস‘ঊদ (রাযি.)-কে বলা হলো, তিনি প্রথমে ‘ইন্না লিল্লাহ্’ পড়লেন। অতঃপর বললেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে মিনায় দু‘ রাক‘আত পড়েছি এবং ‘উমার ইবনু খাত্তাব (রাযি.)-এর সঙ্গে মিনায় দু’রাক‘আত পড়েছি। কতই না ভাল হতো যদি চার রাক‘আতের পরিবর্তে দু’রাক‘আত মাকবূল সালাত হতো। (১৬৫৭; মুসলিম ৬/২, হাঃ ৬৯৫) (আধুনিক প্রকাশনীঃ ১০১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1084</td></tr><tr><td>Arabic No</td><td>1084</td></tr><tr><td>Reference</td><td>Book 18 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துர் ரஹ்மான் பின் யஸீத் (ரஹ்) அவர்கள் கூறியதாவது: உஸ்மான் (ரலி) அவர்கள் மினாவில் எங்களுக்கு (இரண்டாகச் சுருக்காமல்) நான்கு ரக்அத்களாகவே தொழுவித்தார்கள். இதுபற்றி (அத்தொழுகையில் கலந்தகொண்ட) அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்களிடம் வினப்பட்ட போது, ‘இன்னா லில்லாஹி வ இன்னா இலைஹி ராஜிஊன்’ என்று கூறினார்கள். பின்னர் “நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் மினாவில் இரண்டு ரக்அத்களாகவே தொழுதேன். அபூபக்ர் (ரலி) அவர்களுடனும் மினாவில் இரண்டு ரக்அத்களாகவே தொழுதேன். மினாவில் உமர் பின் அல்கத்தாப் (ரலி) அவர்களுட னும் இரண்டு ரக்அத்களாகவே தொழு தேன். (இப்போது நான் தொழுத) நான்கு ரக்அத்களிலிருந்து ஒப்புக்கொள்ளப்பட்ட இரண்டு ரக்அத்கள் என் பங்காகக் கிடைத் தால் போதுமே!” என்று கூறினார்கள். அத்தியாயம் : 18
+அப்துர் ரஹ்மான் பின் யஸீத் (ரஹ்) அவர்கள் கூறியதாவது: உஸ்மான் (ரலி) அவர்கள் மினாவில் எங்களுக்கு (இரண்டாகச் சுருக்காமல்) நான்கு ரக்அத்களாகவே தொழுவித்தார்கள். இதுபற்றி (அத்தொழுகையில் கலந்தகொண்ட) அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்களிடம் வினப்பட்ட போது, ‘இன்னா லில்லாஹி வ இன்னா இலைஹி ராஜிஊன்’ என்று கூறினார்கள். பின்னர் “நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் மினாவில் இரண்டு ரக்அத்களாகவே தொழுதேன். அபூபக்ர் (ரலி) அவர்களுடனும் மினாவில் இரண்டு ரக்அத்களாகவே தொழுதேன். மினாவில் உமர் பின் அல்கத்தாப் (ரலி) அவர்களுட னும் இரண்டு ரக்அத்களாகவே தொழு தேன். (இப்போது நான் தொழுத) நான்கு ரக்அத்களிலிருந்து ஒப்புக்கொள்ளப்பட்ட இரண்டு ரக்அத்கள் என் பங்காகக் கிடைத் தால் போதுமே!” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1084</td></tr><tr><td>Arabic No</td><td>1084</td></tr><tr><td>Reference</td><td>Book 18 Hadith 5</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdurrahman İbn Yezîd'in şöyle dediği nakledilmiştir: "Osman bize Mina'da dört rekat namaz kıldırdı. Bu durum Abdullah İbn Mes'ud'a arzedildi ve şikayetler iletildi. Bunun üzerine İbn Mes'ud فاسترجع [istirca etti yani inna ileyhi raciun] diyerek şaşkınlığını ve üzüntüsünü belirtti. Ardından da şöyle dedi: "Ben Nebi Sallallahu Aleyhi ve Sellem ile birlikte Mîna'da iki rekat namaz kıldım, ardından Hz. Ebu Bekir ve Ömer (r.a.) ile de Mina'da namazı iki rekat kıldım. Dört rekat kılmaktansa kabul olunmuş iki rekatlık namaz kılmak daha çok hoşuma gider. Tekrar: 1657
+Abdurrahman İbn Yezîd'in şöyle dediği nakledilmiştir: "Osman bize Mina'da dört rekat namaz kıldırdı. Bu durum Abdullah İbn Mes'ud'a arzedildi ve şikayetler iletildi. Bunun üzerine İbn Mes'ud فاسترجع [istirca etti yani inna ileyhi raciun] diyerek şaşkınlığını ve üzüntüsünü belirtti. Ardından da şöyle dedi: "Ben Nebi Sallallahu Aleyhi ve Sellem ile birlikte Mîna'da iki rekat namaz kıldım, ardından Hz. Ebu Bekir ve Ömer (r.a.) ile de Mina'da namazı iki rekat kıldım. Dört rekat kılmaktansa kabul olunmuş iki rekatlık namaz kılmak daha çok hoşuma gider. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1084</td></tr><tr><td>Arabic No</td><td>1084</td></tr><tr><td>Reference</td><td>Book 18 Hadith 5</td></tr></tbody></table></div>
 

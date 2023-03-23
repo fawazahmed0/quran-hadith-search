@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮০১। 'আবদুল্লাহ ইবনু আমর (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আমি বলতে শুনেছিঃ আবূ যার হতে বেশি সত্যবাদী কাউকে আকাশ ছায়া দান করেনি এবং মাটি ও তার বুকে বহন করেনি। সহীহঃ ইবনু মাজাহ (১৫৬)। আবূ ঈসা বলেন, এ অনুচ্ছেদে আবূদ দারদা ও আবূ যার (রাযিঃ) কর্তৃকও হাদীস বর্ণিত আছে। এ হাদীসটি হাসান।
+। 'আবদুল্লাহ ইবনু আমর (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আমি বলতে শুনেছিঃ আবূ যার হতে বেশি সত্যবাদী কাউকে আকাশ ছায়া দান করেনি এবং মাটি ও তার বুকে বহন করেনি। সহীহঃ ইবনু মাজাহ (১৫৬)। আবূ ঈসা বলেন, এ অনুচ্ছেদে আবূদ দারদা ও আবূ যার (রাযিঃ) কর্তৃকও হাদীস বর্ণিত আছে। এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3801</td></tr><tr><td>Arabic No</td><td>3801</td></tr><tr><td>Reference</td><td>Book 49 Hadith 201</td></tr></tbody></table></div>
 

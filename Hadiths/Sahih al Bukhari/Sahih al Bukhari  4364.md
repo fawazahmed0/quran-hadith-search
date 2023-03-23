@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (ইবনু আযিব) (রাঃ) হতে বর্ণিত। তিনি বলেন, সর্বশেষে যে সূরাটি পূর্ণরূপে অবতীর্ণ হয়েছিল তা ছিল সূরাহ বারাআত। আর সর্বশেষ যে সূরার আয়াতটি সমাপ্তিরূপে অবতীর্ণ হয়েছিল সেটি ছিল সূরাহ আন-নিসার এ আয়াতঃ النِسَاءِ يَسْتَفْتُوْنَكَ قُلْ اللهُ يُفْتِيْكُمْ فِي الْكَلَالَةِّ অর্থাৎ লোকেরা আপনার কাছে সমাধান জানতে চায়, বলুন পিতা-মাতাহীন নিঃসন্তান ব্যক্তি সম্পর্কে তোমাদেরকে আল্লাহ সমাধান জানাচ্ছেন- (সূরাহ আন-নিসা ৪/১৭৬)। [৪৬০৫, ৪৬৫৪, ৬৭৪৪] (আধুনিক প্রকাশনীঃ ৪০১৮, ইসলামিক ফাউন্ডেশনঃ ৪০২২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (ইবনু আযিব) (রাঃ) হতে বর্ণিত। তিনি বলেন, সর্বশেষে যে সূরাটি পূর্ণরূপে অবতীর্ণ হয়েছিল তা ছিল সূরাহ বারাআত। আর সর্বশেষ যে সূরার আয়াতটি সমাপ্তিরূপে অবতীর্ণ হয়েছিল সেটি ছিল সূরাহ আন-নিসার এ আয়াতঃ النِسَاءِ يَسْتَفْتُوْنَكَ قُلْ اللهُ يُفْتِيْكُمْ فِي الْكَلَالَةِّ অর্থাৎ লোকেরা আপনার কাছে সমাধান জানতে চায়, বলুন পিতা-মাতাহীন নিঃসন্তান ব্যক্তি সম্পর্কে তোমাদেরকে আল্লাহ সমাধান জানাচ্ছেন- (সূরাহ আন-নিসা ৪/১৭৬)। [৪৬০৫, ৪৬৫৪, ৬৭৪৪] (আধুনিক প্রকাশনীঃ ৪০১৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 64 Hadith 390</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara:The last Sura which was revealed in full was Baraa (i.e. Sura-at-Tauba), and the last Sura (i.e. part of a Sura) which was revealed was the last Verses of Sura-an-Nisa':-- "They ask you for a legal decision. Say: Allah directs (thus) About those who have No descendants or ascendants As heirs." (4.177)
+Narrated Al-Bara:The last Sura which was revealed in full was Baraa (i.e. Sura-at-Tauba), and the last Sura (i.e. part of a Sura) which was revealed was the last Verses of Sura-an-Nisa':-- "They ask you for a legal decision. Say: Allah directs (thus) About those who have No descendants or ascendants As heirs
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 64 Hadith 390</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Al-Bara:The last Sura which was revealed in full was Baraa (i.e. Sura-a
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku ['Abdullah bin Raja'] Telah menceritakan kepada kami [Israil] dari [Abu Ishaq] dari [Al Bara' radliallahu 'anhu] berkata; Surat yang paling terakhir kali turun secara sempurna adalah surat Al Bara'ah. Dan surat penutup yang paling terakhir kali turun adalah surat An Nisa yang berbunyi; "Mereka meminta fatwa kepadamu (tentang kalalah). Katakanlah Allah memberi fatwa kepadamu tentang kalalah. (QS. Annisa'; 176)
+Telah menceritakan kepadaku ['Abdullah bin Raja'] Telah menceritakan kepada kami [Israil] dari [Abu Ishaq] dari [Al Bara' radliallahu 'anhu] berkata; Surat yang paling terakhir kali turun secara sempurna adalah surat Al Bara'ah. Dan surat penutup yang paling terakhir kali turun adalah surat An Nisa yang berbunyi; "Mereka meminta fatwa kepadamu (tentang kalalah). Katakanlah Allah memberi fatwa kepadamu tentang kalalah. (QS. Annisa';)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 64 Hadith 390</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku ['Abdullah bin Raja'] Telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ (ரலி) அவர்கள் கூறிய தாவது: முழுமையான வடிவில் அருளப்பெற்ற இறுதி அத்தியாயம், “பராஅத்' (எனும் 9ஆவது “அத்தவ்பா') அத்தியாயம் ஆகும். இறுதியாக அருளப்பெற்ற அத்தியாயப் பகுதி “அந்நிசா'வின் இறுதிப் பகுதியாகும். அந்த வசனம் வருமாறு: (நபியே!) மக்கள் உங்களிடம் “கலாலா' பற்றி தீர்ப்பு வழங்குமாறு கேட்கிறார்கள். நீங்கள் கூறுங்கள்: அல்லாஹ் உங்களுக்கு “கலாலா' பற்றி இவ்வாறு தீர்ப்பளிக்கின்றான்...(4:176)396 அத்தியாயம் : 64
+பராஉ (ரலி) அவர்கள் கூறிய தாவது: முழுமையான வடிவில் அருளப்பெற்ற இறுதி அத்தியாயம், “பராஅத்' (எனும் 9ஆவது “அத்தவ்பா') அத்தியாயம் ஆகும். இறுதியாக அருளப்பெற்ற அத்தியாயப் பகுதி “அந்நிசா'வின் இறுதிப் பகுதியாகும். அந்த வசனம் வருமாறு: (நபியே!) மக்கள் உங்களிடம் “கலாலா' பற்றி தீர்ப்பு வழங்குமாறு கேட்கிறார்கள். நீங்கள் கூறுங்கள்: அல்லாஹ் உங்களுக்கு “கலாலா' பற்றி இவ்வாறு தீர்ப்பளிக்கின்றான்...(4:176)396 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 64 Hadith 390</td></tr></tbody></table></div>
 

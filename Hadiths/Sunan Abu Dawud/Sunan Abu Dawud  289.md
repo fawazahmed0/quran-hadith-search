@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবনু সালেহ্ .... উম্মে হাবীবা (রাঃ) হতে এই হাদীছটি বর্ণিত। আয়িশা (রাঃ) বলেন, উম্মে হাবীবা (রাঃ) প্রত্যেক নামাযের জন্য গোসল করতেন।
+। ইবনু শিহাব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আমরাহ বিনতু ‘আবদুর রহমান (রহঃ) উম্মু হাবীবাহ (রাঃ) সূত্রে উক্ত হাদীস বর্ণনা করেছেন। তাতে রয়েছেঃ ‘আয়িশাহ্ (রাঃ) বলেন, তিনি (উম্মু হাবীবাহ) প্রত্যেক সালাতের জন্য গোসল করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>289</td></tr><tr><td>Arabic No</td><td>289</td></tr><tr><td>Reference</td><td>Book 1 Hadith 289</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮৮৮। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি রাতে সূরা হা-মীম আদ-দুখান পাঠ করে, ভোর হওয়া পর্যন্ত তার জন্য সত্তর হাজার ফিরিশতা আল্লাহ্ তা'আলার নিকটে ক্ষমা চাইতে থাকে। মাওযু, মিশকাত (২১৪৯) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। আমরা শুধুমাত্র উপরোক্ত সূত্রেই এ হাদীস জেনেছি। উমার ইবনু আবূ খাসআম যঈফ। মুহাম্মাদ (ইমাম বুখারী) বলেনঃ উমার একজন মুনকার রাবী।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি রাতে সূরা হা-মীম আদ-দুখান পাঠ করে, ভোর হওয়া পর্যন্ত তার জন্য সত্তর হাজার ফিরিশতা আল্লাহ্ তা'আলার নিকটে ক্ষমা চাইতে থাকে। মাওযু, মিশকাত (২১৪৯) আবূ ঈসা বলেনঃ এ হাদীসটি গারীব। আমরা শুধুমাত্র উপরোক্ত সূত্রেই এ হাদীস জেনেছি। উমার ইবনু আবূ খাসআম যঈফ। মুহাম্মাদ (ইমাম বুখারী) বলেনঃ উমার একজন মুনকার রাবী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mawdu</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Mawdu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>2888</td></tr><tr><td>Reference</td><td>Book 45 Hadith 14</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নূহ ইবন হাবীব (রহঃ) ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একদা রাত্রিতে আমি আমার খালা মায়মূনা (রাঃ) এর গৃহে অবস্থান করি। এই সময় নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম রাত্রিতে উঠে নামাযের জন্য দণ্ডায়মান হন এবং তিনি ফজরের দুই রাকাত সুন্নাত সহ মোট তের রাকাত নামায আদায় করেন। আমি অনুমান করলাম যে, তাঁর প্রতি রাকাতে দাঁড়ানোর সময় ছিল “সূরা-মুযযাম্মিল” পাঠের সময়ের অনুরূপ। রাবী নূহ তাঁর বর্ণনায় দুই রাকাত ফজরের সুন্নাত নামাযের কথা উল্লেখ করেন নাই। (নাসাঈ)।
+। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, আমি আমার খালা মায়মূনাহ রাযিয়াল্লাহু ‘আনহার নিকট এক রাত অতিবাহিত করি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের সালাতের উদ্দেশ্যে দাঁড়ালেন। তিনি তের রাক‘আত সালাত আদায় করলেন, তাতে ফজরের দু’ রাক‘আত সুন্নাতও ছিল। আমি অনুমান করলাম, তাঁর প্রতি রাক‘আতে দাঁড়ানোর সময়টুকু ছিল ‘‘ইয়া আইয়্যূহাল মুয্যাম্মিল’’ সূরাহ পাঠের সময়ের অনুরূপ। বর্ণনাকারী নূহ্ ইবনু হাবীব, তন্মধ্যে ফজরের দু’ রাক‘আতও ছিল’ এ কথাটি বলেননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1365</td></tr><tr><td>Arabic No</td><td>1365</td></tr><tr><td>Reference</td><td>Book 5 Hadith 116</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abdullah ibn Abbas: I spent a night with my maternal aunt Maymunah. The Prophet (ﷺ) got up to pray at night. He prayed thirteen rak'ahs including two rak'ahs of the dawn prayer. I guessed that he stood in every rak'ah as long as one could recite Surah al-Muzzammil (73)
+Narrated Abdullah ibn Abbas: I spent a night with my maternal aunt Maymunah. The Prophet (ﷺ) got up to pray at night. He prayed thirteen rak'ahs including two rak'ahs of the dawn prayer. I guessed that he stood in every rak'ah as long as one could recite Surah al-Muzzammil
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1365</td></tr><tr><td>Arabic No</td><td>1365</td></tr><tr><td>Reference</td><td>Book 5 Hadith 116</td></tr></tbody></table></div>
 

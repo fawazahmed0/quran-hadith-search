@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা (রহঃ) .... সাঈদ ইবন যুবায়ের (রহঃ) হতে বর্ণিত। তিনি বলেনঃ একদা ইবন আব্বাস (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লামের এরূপ নামায পাঠের ঘটনা আমার নিকট বর্ণনা করেন। রাবী বলেনঃ তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) দুই দুই রাকাত করে মোট আট রাকাত নামায আদায় করেন। অতঃপর পাঁচ রাকাত বিতির আদায় করেন এবং এর মাঝখানে বসেননি।
+। সাঈদ ইবনু জুবাইর (রহঃ) সূত্রে বর্ণিত। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা তাকে এ হাদীস বর্ণনা করেছেন। বর্ণনাকারী বলেন, তিনি উঠে দু’ দু’ রাক‘আত করে আট রাক‘আত সালাত আদায়ের পর পাঁচ রাক‘আত বিতর করেন এবং তিনি এ রাক‘আতগুলোর মাঝে বসেননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1358</td></tr><tr><td>Arabic No</td><td>1358</td></tr><tr><td>Reference</td><td>Book 5 Hadith 109</td></tr></tbody></table></div>
 

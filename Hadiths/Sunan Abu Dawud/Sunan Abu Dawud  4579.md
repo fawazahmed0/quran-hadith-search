@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম ইবন মূসা (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গর্ভস্থিত সন্তান হত্যার জন্য দিয়াত স্বরূপ দাস-দাসী, ঘোড়া বা খচ্চর দেওয়ার নির্দেশ দেন।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গর্ভস্থ ভ্রূণের ক্ষতি সাধণের জরিমানা ধার্য করেন একটি উত্তম দাস বা দাসী অথবা একটি ঘোড়া বা খচ্চর। ইমাম আবূ দাঊদ (রহঃ) বলেন, এ হাদীস মুহাম্মাদ ইবনু আমর (রহঃ) থেকে হাম্মাদ ইবনু সালামাহ ও খালিদ ইবনু আব্দুল্লাহ (রহঃ)ও বর্ণনা করেছেন। তবে তারা ঘোড়া ও খচ্চরের কথা উল্লেখ করেননি।[1] শায।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4579</td></tr><tr><td>Arabic No</td><td>4579</td></tr><tr><td>Reference</td><td>Book 41 Hadith 86</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬১৯৭, আন্তর্জাতিক নাম্বারঃ ২৪৪৭ ৬১৯৭-(.../...) ইসহাক (রহঃ) ..... যাকারিয়া (রহঃ) হতে উপরোক্ত সূত্রে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬০৮৩, ইসলামিক সেন্টার ৬১২২)
+ইসহাক (রহঃ) ..... যাকারিয়া (রহঃ) হতে উপরোক্ত সূত্রে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬০৮৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>2447.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 133</td></tr></tbody></table></div>
 

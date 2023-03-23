@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু শিহাব (রহ.) হতে বর্ণিত। তিনি বলেন, কোন ব্যক্তি যদি ফলের উপযুক্ততা প্রকাশের পূর্বে তা ক্রয় করে, পরে তাতে মড়ক দেখা দেয়, তবে যা নষ্ট হবে তা মালিকের উপর বর্তাবে। [যুহরী (রহ.)] বলেন, আমার নিকট সালিম ইবনু ‘আবদুল্লাহ (রহ.) ইবনু ‘উমার (রাঃ) হতে বর্ণনা করেছেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, উপযোগিতা প্রকাশ হওয়ার পূর্বে তোমরা ফল ক্রয় করবে না এবং শুকনো খেজুরের বিনিময়ে তাজা খেজুর বিক্রি করবে না। (১৪৮৬) (আধুনিক প্রকাশনীঃ ২০৪৪, ইসলামিক ফাউন্ডেশনঃ ২০৫৯ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2199</td></tr><tr><td>Arabic No</td><td>2199</td></tr><tr><td>Reference</td><td>Book 34 Hadith 146</td></tr></tbody></table></div>

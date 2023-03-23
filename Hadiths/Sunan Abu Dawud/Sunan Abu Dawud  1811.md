@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসহাক ইবন ইসমাঈল (রহঃ) ...... ইবন আব্বাস (রাঃ) হতে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈক ব্যক্তিকে বলতে শুনেন, ‘‘লাব্বায়েক আন্ শুবরুমা’’ (আমি শুবরুমার পক্ষে হাযির)। তিনি জিজ্ঞাসা করেনঃ শুবরুমা কে? সে ব্যক্তি বলে, আমার ভাই অথবা আমার বন্ধু। তিনি জিজ্ঞাসা করেনঃ আচ্ছা তুমি কি হজ্জ করেছ? সে বলে, না। তিনি বলেনঃ প্রথমে তুমি নিজের হজ্জ আদায় কর, পরে শুবরুমার হজ্জ সম্পন্ন কর।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে বলতে শুনলেনঃ ‘লাববাইকা আন শুবরুমা।’ তিনি জিজ্ঞেস করলেনঃ শুবরুমা কে? লোকটি বললো, আমার ভাই কিংবা আমার বন্ধু। তিনি বললেনঃ তুমি কি নিজের হজ (হজ্জ) করেছো? সে বললো, না। তিনি বললেনঃ প্রথমে তোমার নিজের হজ (হজ্জ) আদায় করে নাও, তারপর শুবরুমার পক্ষ থেকে হজ (হজ্জ) করো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1811</td></tr><tr><td>Arabic No</td><td>1811</td></tr><tr><td>Reference</td><td>Book 11 Hadith 91</td></tr></tbody></table></div>
 

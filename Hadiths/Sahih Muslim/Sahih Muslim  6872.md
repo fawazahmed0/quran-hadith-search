@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৭৬৫, আন্তর্জাতিক নাম্বারঃ ৫৮৯ ৬৭৬৫-(.../...) আবু কুরায়ব (রহঃ) ..... হিশাম (রহঃ) এর সানাদে এ সূত্রে হুবহু হাদীস বর্ণিত। (ইসলামিক ফাউন্ডেশন ৬৬২৫, ইসলামিক সেন্টার ৬৬৮০)
+আবু কুরায়ব (রহঃ) ..... হিশাম (রহঃ) এর সানাদে এ সূত্রে হুবহু হাদীস বর্ণিত। (ইসলামিক ফাউন্ডেশন ৬৬২৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6872</td></tr><tr><td>Arabic No</td><td>589.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 66</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-فِيهِ عَنْ عُبَادَةَ এ প্রসঙ্গে ‘উবাদাহ (রাঃ) হতে রিওয়ায়াত রয়েছে। ২০১৭. ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা রমাযানের শেষ দশকের বেজোড় রাতে লাইলাতুল কদরের অনুসন্ধান কর। (২০১৯, ২০২০, মুসলিম ১৩/৪০, হাঃ ১১৬৯, আহমাদ ২৪৩৪৬) (আধুনিক প্রকাশনীঃ ১৮৭৪, ইসলামিক ফাউন্ডেশনঃ ১৮৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+فِيهِ عَنْ عُبَادَةَ এ প্রসঙ্গে ‘উবাদাহ (রাঃ) হতে রিওয়ায়াত রয়েছে। ২০১৭. ‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা রমাযানের শেষ দশকের বেজোড় রাতে লাইলাতুল কদরের অনুসন্ধান কর। (২০১৯, ২০২০, মুসলিম ১৩/৪০, হাঃ ১১৬৯, আহমাদ ২৪৩৪৬) (আধুনিক প্রকাশনীঃ ১৮৭৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>2017</td></tr><tr><td>Reference</td><td>Book 32 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ரமளானின் இறுதிப் பத்து நாட்களில் உள்ள ஒற்றைப்படை இரவுகளில் லைலத்துல் கத்ரை தேடிக்கொள்ளுங்கள்! இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 32
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ரமளானின் இறுதிப் பத்து நாட்களில் உள்ள ஒற்றைப்படை இரவுகளில் லைலத்துல் கத்ரை தேடிக்கொள்ளுங்கள்! இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>2017</td></tr><tr><td>Reference</td><td>Book 32 Hadith 4</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: "Kadir gecesini, Ramazan'ın son on gününün tekli gecelerinde arayınız". Tekrar: 2019, 2020
+Aişe r.anha Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: "Kadir gecesini, Ramazan'ın son on gününün tekli gecelerinde arayınız". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>2017</td></tr><tr><td>Reference</td><td>Book 32 Hadith 4</td></tr></tbody></table></div>
 

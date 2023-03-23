@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘দ ইবনু আবূ ওয়াক্কাস (রাঃ) বলেন, যেদিন আমি ইসলাম গ্রহণ করলাম সেদিন ছাড়া তার পূর্বে কেউ ইসলাম গ্রহণ করেনি। আর আমি সাতদিন পর্যন্ত (বয়স্কদের মধ্যে) ইসলাম গ্রহণকারী তৃতীয় জন ছিলাম। (৩৭২৬) (আধুনিক প্রকাশনীঃ ৩৫৭১, ইসলামিক ফাউন্ডেশনঃ ৩৫৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘দ ইবনু আবূ ওয়াক্কাস (রাঃ) বলেন, যেদিন আমি ইসলাম গ্রহণ করলাম সেদিন ছাড়া তার পূর্বে কেউ ইসলাম গ্রহণ করেনি। আর আমি সাতদিন পর্যন্ত (বয়স্কদের মধ্যে) ইসলাম গ্রহণকারী তৃতীয় জন ছিলাম। (৩৭২৬) (আধুনিক প্রকাশনীঃ ৩৫৭১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3858</td></tr><tr><td>Arabic No</td><td>3858</td></tr><tr><td>Reference</td><td>Book 63 Hadith 83</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq] telah mengabarkan kepada kami [Abu Usamah] t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்கள் கூறியதாவது: சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள், “நான் இஸ்லாத்தை ஏற்ற நாளில்(தான் மற்றவர்களும் இஸ்லாத்தை ஏற்றனர். அந்நாளில்) தவிர, (அதற்கு முன்பு) வேறெவரும் இஸ்லாத்தை ஏற்றிடவில்லை. நான் இஸ்லாத்தில் மூன்றிலொரு பாகமாக ஏழு நாட்கள் (வரை) இருந்தேன்” என்று சொல்லக் கேட்டேன்.96 அத்தியாயம் : 63
+சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்கள் கூறியதாவது: சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள், “நான் இஸ்லாத்தை ஏற்ற நாளில்(தான் மற்றவர்களும் இஸ்லாத்தை ஏற்றனர். அந்நாளில்) தவிர, (அதற்கு முன்பு) வேறெவரும் இஸ்லாத்தை ஏற்றிடவில்லை. நான் இஸ்லாத்தில் மூன்றிலொரு பாகமாக ஏழு நாட்கள் (வரை) இருந்தேன்” என்று சொல்லக் கேட்டேன்.96 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3858</td></tr><tr><td>Arabic No</td><td>3858</td></tr><tr><td>Reference</td><td>Book 63 Hadith 83</td></tr></tbody></table></div>
 

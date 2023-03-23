@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৪২২, আন্তর্জাতিক নাম্বারঃ ৬৭৪ ১৪২২-(.../...) আবূ রাবী' আয যাহরানী ও খালাফ ইবনু হিশাম (রহঃ) ..... আইয়ূব (রহঃ) হতে একই সানাদে বর্ণিত। (ইসলামী ফাউন্ডেশন ১৪০৮, ইসলামীক সেন্টার ১৪২০)
+আবূ রাবী' আয যাহরানী ও খালাফ ইবনু হিশাম (রহঃ) ..... আইয়ূব (রহঃ) হতে একই সানাদে বর্ণিত। (ইসলামী ফাউন্ডেশন ১৪০৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1536</td></tr><tr><td>Arabic No</td><td>674.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 369</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট ইয়াহূদীরা তাদের এক পুরুষ ও এক স্ত্রীলোককে হাযির করল, যারা ব্যাভিচার করেছিল। তখন তিনি তাদের উভয়কে রজমের (পাথর নিক্ষেপে হত্যা) নির্দেশ দেন। মসজিদের পাশে জানাযার স্থানের নিকটে তাদের দু’জনকে রজম করা হল। (৩৬৩৫, ৪৫৫৬, ৬৮১৯, ৬৮৪১, ৭৩৩২, ৭৫৪৩) (আধুনিক প্রকাশনীঃ ১২৪১, ইসলামিক ফাউন্ডেশনঃ ১২৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট ইয়াহূদীরা তাদের এক পুরুষ ও এক স্ত্রীলোককে হাযির করল, যারা ব্যাভিচার করেছিল। তখন তিনি তাদের উভয়কে রজমের (পাথর নিক্ষেপে হত্যা) নির্দেশ দেন। মসজিদের পাশে জানাযার স্থানের নিকটে তাদের দু’জনকে রজম করা হল। (৩৬৩৫, ৪৫৫৬, ৬৮১৯, ৬৮৪১, ৭৩৩২, ৭৫৪৩) (আধুনিক প্রকাশনীঃ ১২৪১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1329</td></tr><tr><td>Arabic No</td><td>1329</td></tr><tr><td>Reference</td><td>Book 23 Hadith 84</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin AL Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: யூதர்கள் தம் சமூகத்தில் விபசாரம் செய்துவிட்ட ஓர் ஆணையும் பெண்ணையும் நபி (ஸல்) அவர்களிடம் அழைத்து வந்தார்கள். நபி (ஸல்) அவர்கள் கட்டளையிட்டபடி அவ்விரு வரும் பள்ளிவாசலில் ஜனாஸா தொழுகை தொழும் இடத்திற்கருகில் கொண்டுசெல்லப்பட்டுக் கல்லெறிந்து கொல்லப்பட்டார்கள். அத்தியாயம் : 23
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: யூதர்கள் தம் சமூகத்தில் விபசாரம் செய்துவிட்ட ஓர் ஆணையும் பெண்ணையும் நபி (ஸல்) அவர்களிடம் அழைத்து வந்தார்கள். நபி (ஸல்) அவர்கள் கட்டளையிட்டபடி அவ்விரு வரும் பள்ளிவாசலில் ஜனாஸா தொழுகை தொழும் இடத்திற்கருகில் கொண்டுசெல்லப்பட்டுக் கல்லெறிந்து கொல்லப்பட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1329</td></tr><tr><td>Arabic No</td><td>1329</td></tr><tr><td>Reference</td><td>Book 23 Hadith 84</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin AL Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a. şöyle dedi: "Yahudiler, kendilerinden zina etmiş olan bir erkek ve kadını Nebi Sallallahu Aleyhi ve Sellem'e getirdiler. Nebi (Sallallahu aleyhi ve Sellem) onların recmedilmesini emretti. Bunun üzerine mescid'de cenazelerin bulunduğu yere yakın bir yerde recmedildiler. Tekrarı: 3635, 4556, 7819, 6841, 7332, 7543
+Abdullah İbn Ömer r.a. şöyle dedi: "Yahudiler, kendilerinden zina etmiş olan bir erkek ve kadını Nebi Sallallahu Aleyhi ve Sellem'e getirdiler. Nebi (Sallallahu aleyhi ve Sellem) onların recmedilmesini emretti. Bunun üzerine mescid'de cenazelerin bulunduğu yere yakın bir yerde recmedildiler. Tekrarı: 3635
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1329</td></tr><tr><td>Arabic No</td><td>1329</td></tr><tr><td>Reference</td><td>Book 23 Hadith 84</td></tr></tbody></table></div>
 

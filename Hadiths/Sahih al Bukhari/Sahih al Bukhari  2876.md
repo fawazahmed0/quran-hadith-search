@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মুল মুমিনীন ‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট তাঁর স্ত্রীগণ জিহাদের অনুমতি প্রার্থনা করলে তিনি বললেন, (মহিলাদের জন্য) উত্তম জিহাদ হলো হাজ্জ। (১৫২০) (আধুনিক প্রকাশনীঃ ২৬৬৫, ইসলামিক ফাউন্ডেশনঃ ২৬৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মুল মুমিনীন ‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট তাঁর স্ত্রীগণ জিহাদের অনুমতি প্রার্থনা করলে তিনি বললেন, (মহিলাদের জন্য) উত্তম জিহাদ হলো হাজ্জ। (১৫২০) (আধুনিক প্রকাশনীঃ ২৬৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2876</td></tr><tr><td>Arabic No</td><td>2876</td></tr><tr><td>Reference</td><td>Book 56 Hadith 92</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Qabishah] telah bercerita kepada kami [Sufyan] dari
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் அவர்களுடைய துணைவியர் அறப்போர் குறித்து (அதில் ஈடுபட அனுமதியளிக்கும்படி) கேட்டார்கள். அதற்கு அவர்கள், ‘‘ஹஜ் செய்வது (உங்களுக்கு) சிறந்த அறப்போர் ஆகும்” என்று கூறினார்கள். அத்தியாயம் : 56
+இறைநம்பிக்கையாளர்களின் அன்னை ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் அவர்களுடைய துணைவியர் அறப்போர் குறித்து (அதில் ஈடுபட அனுமதியளிக்கும்படி) கேட்டார்கள். அதற்கு அவர்கள், ‘‘ஹஜ் செய்வது (உங்களுக்கு) சிறந்த அறப்போர் ஆகும்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2876</td></tr><tr><td>Arabic No</td><td>2876</td></tr><tr><td>Reference</td><td>Book 56 Hadith 92</td></tr></tbody></table></div>
 

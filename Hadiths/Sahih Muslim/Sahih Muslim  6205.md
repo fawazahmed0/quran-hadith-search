@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬০৯৯, আন্তর্জাতিক নাম্বারঃ ২৩৯৮ ৬০৯৯-(…/…) কুতাইবাহ ইবনু সাঈদ, আমর আন্‌ নাকিদ ও যুহায়র ইবনু হারব (রহঃ) ..... সাদ ইবনু ইবরাহীম (রহঃ) হতে উপরোক্ত সূত্রে অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯৮৮, ইসলামিক সেন্টার ৬০২৮)
+(…/…) কুতাইবাহ ইবনু সাঈদ, আমর আন্‌ নাকিদ ও যুহায়র ইবনু হারব (রহঃ) ..... সাদ ইবনু ইবরাহীম (রহঃ) হতে উপরোক্ত সূত্রে অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯৮৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6205</td></tr><tr><td>Arabic No</td><td>2398.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 35</td></tr></tbody></table></div>
 

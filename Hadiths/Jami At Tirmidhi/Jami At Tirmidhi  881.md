@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮৮১। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেছেন, আমরা বললাম, ইয়া রাসূলাল্লাহু! আমরা মিনায় আপনার জন্য কি একটা ঘর বানিয়ে দিব যা আপনাকে ছায়া দিবে? তিনি বললেনঃ না। যে ব্যক্তি মিনায় যে জায়গাতে আগে পৌছবে সেটিই হবে তার অবস্থানস্থল। যঈফ, ইবনু মাজাহ (৩০০৬) আবূ ঈসা বলেন, এই হাদীসটি হাসান সহীহ।
+। আইশা (রাঃ) হতে বর্ণিত আছে, তিনি বলেছেন, আমরা বললাম, ইয়া রাসূলাল্লাহু! আমরা মিনায় আপনার জন্য কি একটা ঘর বানিয়ে দিব যা আপনাকে ছায়া দিবে? তিনি বললেনঃ না। যে ব্যক্তি মিনায় যে জায়গাতে আগে পৌছবে সেটিই হবে তার অবস্থানস্থল। যঈফ, ইবনু মাজাহ (৩০০৬) আবূ ঈসা বলেন, এই হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>881</td></tr><tr><td>Arabic No</td><td>881</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
 

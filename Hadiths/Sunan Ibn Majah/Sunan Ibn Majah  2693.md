@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৬৯৩। আবূ দারদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ যার দেহের কোন স্থান আঘাতপ্রাপ্ত হলো, অতঃপর সে তা সদাকা করে দিলো (অপরাধীকে ক্ষমা করে দিলো) আল্লাহ এর বিনিময়ে তার এক ধাপ মর্যাদা বৃদ্ধি করবেন এবং তার একটি গুনাহ মাফ করবেন। এ কথা আমার দু’ কান শুনেছে এবং আমার অন্তর তা হেফাজত করেছেন।
+। আবূ দারদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছিঃ যার দেহের কোন স্থান আঘাতপ্রাপ্ত হলো, অতঃপর সে তা সদাকা করে দিলো (অপরাধীকে ক্ষমা করে দিলো) আল্লাহ এর বিনিময়ে তার এক ধাপ মর্যাদা বৃদ্ধি করবেন এবং তার একটি গুনাহ মাফ করবেন। এ কথা আমার দু’ কান শুনেছে এবং আমার অন্তর তা হেফাজত করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2693</td></tr><tr><td>Arabic No</td><td>2693</td></tr><tr><td>Reference</td><td>Book 21 Hadith 79</td></tr></tbody></table></div>
 

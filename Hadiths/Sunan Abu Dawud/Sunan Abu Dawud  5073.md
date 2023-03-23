@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন সালিহ (রহঃ) ..... আবদুল্লাহ্‌ ইবন গাননাম বায়াযী (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন; যে ব্যক্তি সকালে বলবেঃ সকালে আমার কাছে যে নিয়ামত আছে, তা আপনিই দিয়েছেন। আপনি একক, আপনার কোন শরীক নেই। সমস্ত প্রশংসা ও শোকর আপনারই, তবে সে যেন সেদিনের শোকর আদায় করলো। আর যে ব্যক্তি সন্ধ্যায় এরূপ বলবে, সে যেন সে রাতের শোকর আদায় করলো।
+। আব্দুল্লাহ ইবনু গান্নাম আল-বায়াদী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি সকালে উপনীত হয়ে বলেনঃ ‘‘হে আল্লাহ! সকালে আমার প্রতি যে নেয়ামত পৌঁছেছে তা একমাত্র আপনার পক্ষ থেকেই পৌঁছলো, আপনি একক, আপনার কোনো শরীক নেই, সমস্ত প্রশংসা ও কৃতজ্ঞতা আপনারই প্রাপ্য’- সে তার ঐ দিনের কৃতজ্ঞতা প্রকাশ করলো। আর যে ব্যক্তি সন্ধ্যায় উপনীত হয়ে এরূপ বললো সে তার ঐ রাতের কৃতজ্ঞতা স্বীকার করলো।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5073</td></tr><tr><td>Arabic No</td><td>5073</td></tr><tr><td>Reference</td><td>Book 43 Hadith 301</td></tr></tbody></table></div>
 

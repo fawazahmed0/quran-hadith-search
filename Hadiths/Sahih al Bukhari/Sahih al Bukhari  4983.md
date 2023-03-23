@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জুনদুব (রাঃ) হতে বর্ণিত। তিনি বলেছেন, একবার রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম অসুস্থ হলেন। ফলে এক কি দু’রাত তিনি উঠতে পারেননি। এক মহিলা তাঁর কাছে এসে বলল, হে মুহাম্মাদ! আমার মনে হয়, তোমার শায়ত্বন তোমাকে ত্যাগ করেছে। তখন আল্লাহ্ অবতীর্ণ করলেন, ‘‘শপথ পূর্বাহ্নের, শপথ রাতের, যখন তা হয় নিঝুম। তোমার প্রতিপালক তোমাকে পরিত্যাগ করেননি এবং তোমার প্রতি বিরূপও হননি।’’ [১১২৪] (আধুনিক প্রকাশনীঃ ৪৬১৩, ইসলামিক ফাউন্ডেশনঃ ৪৬১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জুনদুব (রাঃ) হতে বর্ণিত। তিনি বলেছেন, একবার রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম অসুস্থ হলেন। ফলে এক কি দু’রাত তিনি উঠতে পারেননি। এক মহিলা তাঁর কাছে এসে বলল, হে মুহাম্মাদ! আমার মনে হয়, তোমার শায়ত্বন তোমাকে ত্যাগ করেছে। তখন আল্লাহ্ অবতীর্ণ করলেন, ‘‘শপথ পূর্বাহ্নের, শপথ রাতের, যখন তা হয় নিঝুম। তোমার প্রতিপালক তোমাকে পরিত্যাগ করেননি এবং তোমার প্রতি বিরূপও হননি।’’ [১১২৪] (আধুনিক প্রকাশনীঃ ৪৬১৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4983</td></tr><tr><td>Arabic No</td><td>4983</td></tr><tr><td>Reference</td><td>Book 66 Hadith 5</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jundub:Once the Prophet (ﷺ) fell ill and did not offer the night prayer (Tahajjud prayer) for a night or two. A woman (the wife of Abu Lahab) came to him and said, "O Muhammad ! I do not see but that your Satan has left you." Then Allah revealed (Surat-Ad-Duha): 'By the fore-noon, and by the night when it darkens (or is still); Your Lord has not forsaken you, nor hated you.' (93)
+Narrated Jundub:Once the Prophet (ﷺ) fell ill and did not offer the night prayer (Tahajjud prayer) for a night or two. A woman (the wife of Abu Lahab) came to him and said, "O Muhammad ! I do not see but that your Satan has left you." Then Allah revealed (Surat-Ad-Duha): 'By the fore-noon, and by the night when it darkens (or is still); Your Lord has not forsaken you, nor hated you
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4983</td></tr><tr><td>Arabic No</td><td>4983</td></tr><tr><td>Reference</td><td>Book 66 Hadith 5</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Jundub:Once the Prophet (ﷺ) fell ill and did not offer the night pray
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Al Aswad bin Qais] ia berkata, Aku mendengar [Jundub] berkata; Rasulullah shallallahu 'alaihi wasallam pernah jatuh sakit hingga beliau tidak bisa bangun selama sehari atau dua hari, maka seorang wanita pun datang kepada beliau dan berkata, "Wahai Muhammad, tidaklah aku melihat syetanmu itu, kecuali ia telah meninggalkanmu." Maka Allah 'azza wajalla menurunkan ayat: "WADLDLUHAA WALLAILI IDZAA SAJAA MAA WADDA'AKA RABBUKA WAMAA QALAA (Demi waktu Dluha. Dan demi waktu malam ketika tiba. Sesungguhnya Tuhan-mu tidaklah meninggalkanmu). (QS. Adhdhuha 1-3)
+Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Al Aswad bin Qais] ia berkata, Aku mendengar [Jundub] berkata; Rasulullah shallallahu 'alaihi wasallam pernah jatuh sakit hingga beliau tidak bisa bangun selama sehari atau dua hari, maka seorang wanita pun datang kepada beliau dan berkata, "Wahai Muhammad, tidaklah aku melihat syetanmu itu, kecuali ia telah meninggalkanmu." Maka Allah 'azza wajalla menurunkan ayat: "WADLDLUHAA WALLAILI IDZAA SAJAA MAA WADDA'AKA RABBUKA WAMAA QALAA (Demi waktu Dluha. Dan demi waktu malam ketika tiba. Sesungguhnya Tuhan-mu tidaklah meninggalkanmu). (QS. Adhdhuha)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4983</td></tr><tr><td>Arabic No</td><td>4983</td></tr><tr><td>Reference</td><td>Book 66 Hadith 5</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜுன்துப் பின் அப்தில்லாஹ் பின் சுஃப்யான் (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) நபி (ஸல்) அவர்கள் நோய்வாய்ப்பட்டபோது ‘ஓர் இரவு’ அல்லது ‘இரண்டு இரவுகள்’ அவர்கள் (இரவுத் தொழுகைக்காகக்கூட) எழவில்லை. அப்போது ஒரு பெண் நபி (ஸல்) அவர்களிடம் வந்து, ‘‘முஹம்மதே! உம்முடைய ஷைத்தான் உம்மைக் கைவிட்டுவிட்டதாகவே நான் கருதுகின்றேன். (அதனால்தான் ஓரிரு இரவுகளாக உம்மை அவன் நெருங்க வில்லை)” என்று கூறினாள். அப்போது வல்லமையும் மாண்பும் மிக்க அல்லாஹ், ‘‘முற்பகலின் மீது சத்தியமாக! மேலும், இருண்டுவிட்ட இரவின்மீது சத்தியமாக! (நபியே!) உம்முடைய இறைவன் உம்மைக் கைவிடவுமில்லை; கோபங்கொள்ளவும் இல்லை” எனும் (93:1-3 ஆகிய) வசனங் களை அருளினான்.5 அத்தியாயம் : 66
+ஜுன்துப் பின் அப்தில்லாஹ் பின் சுஃப்யான் (ரலி) அவர்கள் கூறியதாவது: (ஒருமுறை) நபி (ஸல்) அவர்கள் நோய்வாய்ப்பட்டபோது ‘ஓர் இரவு’ அல்லது ‘இரண்டு இரவுகள்’ அவர்கள் (இரவுத் தொழுகைக்காகக்கூட) எழவில்லை. அப்போது ஒரு பெண் நபி (ஸல்) அவர்களிடம் வந்து, ‘‘முஹம்மதே! உம்முடைய ஷைத்தான் உம்மைக் கைவிட்டுவிட்டதாகவே நான் கருதுகின்றேன். (அதனால்தான் ஓரிரு இரவுகளாக உம்மை அவன் நெருங்க வில்லை)” என்று கூறினாள். அப்போது வல்லமையும் மாண்பும் மிக்க அல்லாஹ், ‘‘முற்பகலின் மீது சத்தியமாக! மேலும், இருண்டுவிட்ட இரவின்மீது சத்தியமாக! (நபியே!) உம்முடைய இறைவன் உம்மைக் கைவிடவுமில்லை; கோபங்கொள்ளவும் இல்லை” எனும் (93:1-3 ஆகிய) வசனங் களை அருளினான்.5 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4983</td></tr><tr><td>Arabic No</td><td>4983</td></tr><tr><td>Reference</td><td>Book 66 Hadith 5</td></tr></tbody></table></div>
 

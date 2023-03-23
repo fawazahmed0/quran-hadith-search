@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবনু ইব্রাহীম ..... আমর ইবনু শুআয়েব থেকে তাঁর পিতার সূত্রে এবং তিনি তার দাদার সূত্রে বর্ণনা করেছেন। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে কোন সময় খালি পায়ে এবং কোন সময় জুতা পরিহিত অবস্থায় নামায পড়তে দেখেছি। (ইবনু মাজাহ)।
+। ‘আমর ইবনু শু‘আইব (রাঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কখনো খালি পায়ে আবার কখনো জুতা পরে সালাত আদায় করতে দেখেছি।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>653</td></tr><tr><td>Arabic No</td><td>653</td></tr><tr><td>Reference</td><td>Book 2 Hadith 263</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr b. Şuayb'in babasından rivayet ettiğine göre dedesi (şöyle) demiştir: "Ben Nebi (Sallallahu aleyhi ve Sellem)'i ayakkabılı da ayakkabısız da namaz kılarken gördüm." Diğer tahric: İbn Mace, ikame; Nesaî, sehv; Ahmed b. Hanbel, II, 174, 178, 179, 190, 206, 215, 248
+Amr b. Şuayb'in babasından rivayet ettiğine göre dedesi (şöyle) demiştir: "Ben Nebi (Sallallahu aleyhi ve Sellem)'i ayakkabılı da ayakkabısız da namaz kılarken gördüm." Diğer tahric: İbn Mace, ikame; Nesaî, sehv; Ahmed b. Hanbel, II, 174
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>653</td></tr><tr><td>Arabic No</td><td>653</td></tr><tr><td>Reference</td><td>Book 2 Hadith 263</td></tr></tbody></table></div>
 

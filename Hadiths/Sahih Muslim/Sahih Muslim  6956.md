@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৮৪৯, আন্তর্জাতিক নাম্বারঃ ২৭৪৪ ৬৮৪৯-(…/...) আবু বকর ইবনু আবু শাইবাহ্ (রহঃ) উক্ত সূত্রে এ হাদীসটি বর্ণনা করেছেন। তবে তার হাদীসে আছে, মরুভূমির সে ব্যক্তির চেয়েও বেশি আনন্দিত হন। (ইসলামিক ফাউন্ডেশন ৬৭০৪, ইসলামিক সেন্টার ৬৭৫৯)
+(…/...) আবু বকর ইবনু আবু শাইবাহ্ (রহঃ) উক্ত সূত্রে এ হাদীসটি বর্ণনা করেছেন। তবে তার হাদীসে আছে, মরুভূমির সে ব্যক্তির চেয়েও বেশি আনন্দিত হন। (ইসলামিক ফাউন্ডেশন ৬৭০৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6956</td></tr><tr><td>Arabic No</td><td>2744.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 5</td></tr></tbody></table></div>
 

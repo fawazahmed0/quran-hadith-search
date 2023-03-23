@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন, তিনি বলেছেন, ‘‘আমি ইউনুস ইবনু মাত্তা (আঃ) থেকে উত্তম’’, এমন কথা বলা কারো জন্য শোভনীয় নয়। [৩৪১৫] (আধুনিক প্রকাশনীঃ ৪২৭০, ইসলামিক ফাউন্ডেশনঃ ৪২৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন, তিনি বলেছেন, ‘‘আমি ইউনুস ইবনু মাত্তা (আঃ) থেকে উত্তম’’, এমন কথা বলা কারো জন্য শোভনীয় নয়। [৩৪১৫] (আধুনিক প্রকাশনীঃ ৪২৭০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 65 Hadith 153</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: “நான் யூனுஸ் பின் மத்தா அவர்களை விடச் சிறந்தவன்” என்று (என்னைப் பற்றிக்) கூறுவது எந்த மனிதருக்கும் முறையாகாது.10 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 65
+நபி (ஸல்) அவர்கள் கூறினார்கள்: “நான் யூனுஸ் பின் மத்தா அவர்களை விடச் சிறந்தவன்” என்று (என்னைப் பற்றிக்) கூறுவது எந்த மனிதருக்கும் முறையாகாது.10 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 65 Hadith 153</td></tr></tbody></table></div>
 

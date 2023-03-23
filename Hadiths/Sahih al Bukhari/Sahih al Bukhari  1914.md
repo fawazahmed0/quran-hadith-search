@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা কেউ রমাযানের একদিন কিংবা দু’দিন আগে হতে সওম শুরু করবে না। তবে কেউ যদি এ সময় সিয়াম পালনে অভ্যস্ত থাকে তাহলে সে সেদিন সওম পালন করতে পারবে। (মুসলিম ১৩/৩, হাঃ ১০৮২, আহমাদ ১০১৮৮) (আধুনিক প্রকাশনীঃ ১৭৭৯, ইসলামিক ফাউন্ডেশনঃ ১৭৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা কেউ রমাযানের একদিন কিংবা দু’দিন আগে হতে সওম শুরু করবে না। তবে কেউ যদি এ সময় সিয়াম পালনে অভ্যস্ত থাকে তাহলে সে সেদিন সওম পালন করতে পারবে। (মুসলিম ১৩/৩, হাঃ ১০৮২, আহমাদ ১০১৮৮) (আধুনিক প্রকাশনীঃ ১৭৭৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1914</td></tr><tr><td>Arabic No</td><td>1914</td></tr><tr><td>Reference</td><td>Book 30 Hadith 24</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ரமளானுக்கு முந்தைய நாளும் அதற்கு முந்தைய நாளும் உங்களில் யாரும் நோன்பு நோற்க வேண்டாம்; (அந் நாட்களில் வழக்கமாக) நோன்பு நோற்கும் மனிதரைத் தவிர! அவர் அந்நாளில் நோன்பு நோற்கட்டும்!13 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 30
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ரமளானுக்கு முந்தைய நாளும் அதற்கு முந்தைய நாளும் உங்களில் யாரும் நோன்பு நோற்க வேண்டாம்; (அந் நாட்களில் வழக்கமாக) நோன்பு நோற்கும் மனிதரைத் தவிர! அவர் அந்நாளில் நோன்பு நோற்கட்டும்!13 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1914</td></tr><tr><td>Arabic No</td><td>1914</td></tr><tr><td>Reference</td><td>Book 30 Hadith 24</td></tr></tbody></table></div>
 

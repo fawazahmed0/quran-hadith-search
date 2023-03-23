@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হায়ছাম ইব্‌ন খালিদ আল-জুহানী ও ইবনুল আস্‌ওয়াদ আল-আজালী (রহঃ) বলেন, ওয়াকী (রহঃ) বলেছেন, الْبَعْلُ الْكَبُوسُ হল সেই ফসল, যা বৃষিটির পানির সাহায্যে জন্মে। ইবনুল্‌ আস্‌ওয়াদ বলেন, ইয়াহ্‌ইয়া ইব্‌ন আদম বলেছেন, আমি আবু আয়্যাস আল-আসাদীকে জিজ্ঞাসা করলে তিনি বলেন, তা হল ঐ ফসল যা বৃষ্টির পানির সাহায্যে উৎপন্ন হয়।
+। ওয়াকী’ (রহঃ) বলেন, কাবূস-কেই বা’ল ভূমি বলা হয়। যে ভূমিতে বৃষ্টির পানির সাহায্যে ফসল জন্মায়, তাই ‘কাবূস’। ইবনুল আসওয়াদ (রহঃ) বলেন, ইয়াহইয়া ইবনু আদম (রহঃ) বলেছেন, আমি আবূ ইয়াস আল-আসাদীকে ‘বা‘ল’ (ভূমি) সম্বন্ধে জিজ্ঞেস করলে তিনি বলেন, বৃষ্টির পানি দ্বারা সিঞ্চিত ভূমি এবং নাযর বিন শুমাইল বলেনঃ বা‘ল হল বৃষ্টির পানি।[1] সহীহ মাক্বতূ‘।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1598</td></tr><tr><td>Arabic No</td><td>1598</td></tr><tr><td>Reference</td><td>Book 9 Hadith 43</td></tr></tbody></table></div>
 

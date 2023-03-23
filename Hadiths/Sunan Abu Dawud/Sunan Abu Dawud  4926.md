@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। নাফি' (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমরা ইবনু উমার (রাঃ)-এর সঙ্গে ছিলাম। তিনি বাদ্যযন্ত্রের আওয়াজ শুনতে পেলেন ... অতঃপর পূর্বোক্ত হাদীসের অনুরূপ। ইমাম আবূ দাঊদ (রহঃ) বলেন, এটি অধিকতর মুনকার।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4926</td></tr><tr><td>Arabic No</td><td>4926</td></tr><tr><td>Reference</td><td>Book 43 Hadith 154</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩৩৫০। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে ঢেকুর তুললে তিনি বলেনঃ তুমি আমাদের থেকে তোমার ঢেকুর প্রতিরোধ করো। কারণ যারা পার্থিব জীবনে ভুরিভোজ করে তারাই হবে কিয়ামতের দিন অধিক ক্ষুধার্ত।
+। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে ঢেকুর তুললে তিনি বলেনঃ তুমি আমাদের থেকে তোমার ঢেকুর প্রতিরোধ করো। কারণ যারা পার্থিব জীবনে ভুরিভোজ করে তারাই হবে কিয়ামতের দিন অধিক ক্ষুধার্ত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sanad Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>3350</td></tr><tr><td>Reference</td><td>Book 29 Hadith 100</td></tr></tbody></table></div>
 

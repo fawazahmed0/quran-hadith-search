@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬০১। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি (যখন) আসলাম রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (তখন) নামায আদায় করছিলেন। এ সময় ভিতর হতে ঘরের দরজা আটকানো ছিল। তিনি (নামাযরত অবস্থায়) হেঁটে এসে আমার জন্য দরজা খুলে দিলেন। তারপর তিনি নিজের জায়গায় ফিরে আসলেন। দরজাটি কিবলার দিকে ছিল। —হাসান। সহীহ আবু দাউদ- (৮৫৫), মিশকাত— (১০০৫), আল-ইরওয়া— (৩৮৬)। আবু ঈসা বলেনঃ হাদীসটি হাসান গারীব।
+। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, আমি (যখন) আসলাম রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (তখন) নামায আদায় করছিলেন। এ সময় ভিতর হতে ঘরের দরজা আটকানো ছিল। তিনি (নামাযরত অবস্থায়) হেঁটে এসে আমার জন্য দরজা খুলে দিলেন। তারপর তিনি নিজের জায়গায় ফিরে আসলেন। দরজাটি কিবলার দিকে ছিল। —হাসান। সহীহ আবু দাউদ- (৮৫৫), মিশকাত— (১০০৫), আল-ইরওয়া— (৩৮৬)। আবু ঈসা বলেনঃ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>601</td></tr><tr><td>Arabic No</td><td>601</td></tr><tr><td>Reference</td><td>Book 6 Hadith 58</td></tr></tbody></table></div>
 

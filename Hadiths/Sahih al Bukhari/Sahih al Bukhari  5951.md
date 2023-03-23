@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যারা এ জাতীয় (প্রাণীর) ছবি তৈরী করে, কিয়ামতের দিন তাদের শাস্তি দেয়া হবে। তাদের বলা হবেঃ তোমরা যা বানিয়েছিলে তাতে জীবন দাও। [৭৫৫৮; মুসলিম ৩৭/২৬, হাঃ ২১০৮] (আধুনিক প্রকাশনী- ৫৫১৯, ইসলামিক ফাউন্ডেশন- ৫৪১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যারা এ জাতীয় (প্রাণীর) ছবি তৈরী করে, কিয়ামতের দিন তাদের শাস্তি দেয়া হবে। তাদের বলা হবেঃ তোমরা যা বানিয়েছিলে তাতে জীবন দাও। [৭৫৫৮; মুসলিম ৩৭/২৬, হাঃ ২১০৮] (আধুনিক প্রকাশনী- ৫৫১৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5951</td></tr><tr><td>Arabic No</td><td>5951</td></tr><tr><td>Reference</td><td>Book 77 Hadith 167</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இந்த உருவங்களைப் படைப்போர் மறுமை நாளில் வேதனை செய்யப் படுவார்கள். அவர்களிடம், ‘‘நீங்கள் படைத்தவற்றுக்கு உயிர் கொடுங்கள் (பார்க்கலாம்)” என (இடித்து)க் கூறப்படும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 77
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இந்த உருவங்களைப் படைப்போர் மறுமை நாளில் வேதனை செய்யப் படுவார்கள். அவர்களிடம், ‘‘நீங்கள் படைத்தவற்றுக்கு உயிர் கொடுங்கள் (பார்க்கலாம்)” என (இடித்து)க் கூறப்படும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5951</td></tr><tr><td>Arabic No</td><td>5951</td></tr><tr><td>Reference</td><td>Book 77 Hadith 167</td></tr></tbody></table></div>
 

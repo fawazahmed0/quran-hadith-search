@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবনে আলী (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমরা ছেলেদের থেকে রেশমী কাপড় ছিনিয়ে মেয়েদের পরতে দিতাম। রাবী মিসআর (রহঃ) বলেনঃ আমি এ ব্যাপারে আমর ইবনে দীনার (রহঃ)-কে জিজ্ঞাসা করলে, তিনি বলেনঃ তিনি এ সম্পর্কে কিছু অবহিত নন।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা ছেলেদের শরীর থেকে রেশমী জামা খুলে ফেলতাম এবং মেয়ের গায়ে থাকতে দিতাম। মিস‘আর (রহঃ) বলেন, এ বিষয়ে আমি আমর ইবনু দীনারকে প্রশ্ন করলে তিনি কিছু বলতে পারেননি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4059</td></tr><tr><td>Arabic No</td><td>4059</td></tr><tr><td>Reference</td><td>Book 34 Hadith 40</td></tr></tbody></table></div>
 

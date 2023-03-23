@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৩৮। সাহল ইবনু সা’দ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ নিশ্চয় এই কল্যাণ কোষাগারস্বরূপ এবং এই কোষাগারের রয়েছে কিছু সংখ্যক চাবি। সুসংবাদ সেই বান্দার জন্য যাকে আল্লাহ কল্যাণের দ্বার উন্মোচনকারী ও অকল্যাণের পথ রুদ্ধকারী বানিয়েছেন। ধ্বংস সেই ব্যাক্তির জন্য যাকে আল্লাহ অকল্যাণের দ্বার উন্মোচনকারী এবং কল্যাণের পথ রুদ্ধকারী বানিয়েছেন।
+। সাহল ইবনু সা’দ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ নিশ্চয় এই কল্যাণ কোষাগারস্বরূপ এবং এই কোষাগারের রয়েছে কিছু সংখ্যক চাবি। সুসংবাদ সেই বান্দার জন্য যাকে আল্লাহ কল্যাণের দ্বার উন্মোচনকারী ও অকল্যাণের পথ রুদ্ধকারী বানিয়েছেন। ধ্বংস সেই ব্যাক্তির জন্য যাকে আল্লাহ অকল্যাণের দ্বার উন্মোচনকারী এবং কল্যাণের পথ রুদ্ধকারী বানিয়েছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>238</td></tr><tr><td>Arabic No</td><td>238</td></tr><tr><td>Reference</td><td>Book 0 Hadith 238</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৬৬৭। কুতায়বা ইব্‌ন সাঈদ (রহঃ) .... উম্মে বুযায়েদ (রাঃ) হতে বর্ণিত, যিনি রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহে ওয়াসাল্লামের নিকট বায়আত গ্রহণ করেছিলেন। তিনি তাঁকে বলেনঃ ইয়া রাসূলাল্লাহ! অনেক সময় মিসকীন আমার দরজায় আসে, কিন্তু তাকে দেওয়ার মত আমার কিছুই থাকে না। রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম তাঁকে বলেনঃ তুমি যদি তার হাতে কিছু দেওয়ার মত না পাও, তবুও তাকে বঞ্চিত করনা। জ্বলন্ত (রান্না করা) পায়া হলেও তা তাকে দান কর। (নাসাঈ, তিরমিযী)।
+। উম্মু বুজাইদ (রাঃ) সূত্রে বর্ণিত। তিনি ছিলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে বাই‘আত গ্রহণকারিণীদের একজন। তিনি তাঁকে বললেন, হে আল্লাহর রসূল! আল্লাহ আপনার প্রতি অনুগ্রহ করুন। মিসকীন আমার দরজায় এসে দাড়ায়, কিন্তু তাকে দেয়ার মতো কিছুই আমি পাই না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ তাকে দেয়ার মতো কিছু না পেলে অন্তত রান্না করা পশুর একখানা পায়া হলেও তার হাতে তুলে দাও।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1667</td></tr><tr><td>Arabic No</td><td>1667</td></tr><tr><td>Reference</td><td>Book 9 Hadith 112</td></tr></tbody></table></div>
 

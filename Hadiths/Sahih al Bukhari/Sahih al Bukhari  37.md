@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাযি.) থেকে বর্ণনা করেন, তিনি বলেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ যে ব্যক্তি রমাযানের রাতে ঈমানসহ পুণ্যের আশায় রাত জেগে ইবাদত করে, তার পূর্বের গুনাহ্ ক্ষমা করে দেয়া হয়। (৩৫) (আধুনিক প্রকাশনীঃ ৩৬, ইসলামিক ফাউন্ডেশনঃ ৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাযি.) থেকে বর্ণনা করেন, তিনি বলেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ যে ব্যক্তি রমাযানের রাতে ঈমানসহ পুণ্যের আশায় রাত জেগে ইবাদত করে, তার পূর্বের গুনাহ্ ক্ষমা করে দেয়া হয়। (৩৫) (আধুনিক প্রকাশনীঃ ৩৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Arabic No</td><td>37</td></tr><tr><td>Reference</td><td>Book 2 Hadith 30</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [M
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் இறைநம்பிக்கையோடும் நன் மையை எதிர்பார்த்தும் ரமளான் மாதத்தில் நின்று வழிபடுகிறாரோ அவரது முந்தைய பாவங்கள் மன்னிக்கப்படும். இதை அபூஹுரைரா (ரலி) அறிவிக் கிறார்கள். அத்தியாயம் : 2
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் இறைநம்பிக்கையோடும் நன் மையை எதிர்பார்த்தும் ரமளான் மாதத்தில் நின்று வழிபடுகிறாரோ அவரது முந்தைய பாவங்கள் மன்னிக்கப்படும். இதை அபூஹுரைரா (ரலி) அறிவிக் கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Arabic No</td><td>37</td></tr><tr><td>Reference</td><td>Book 2 Hadith 30</td></tr></tbody></table></div>
 

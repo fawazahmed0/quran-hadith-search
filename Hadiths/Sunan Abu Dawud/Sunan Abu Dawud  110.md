@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবনু আবদুল্লাহ্ ..... শাকীক ইবনু সালামা (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি উছমান ইবনু আফফান (রাঃ)-কে উযূ (ওজু/অজু/অযু)র মধ্যে দুই হাতের কনুই সমেত তিনবার করে ধৌত করতে এবং তিনবার মাথা মাসেহ্ করতে দেখেছি। অতঃপর বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে এরূপ করতে দেখেছি। (ঐ)।
+। শাকীক ইবনু সালামাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি ‘উসমান ইবনু ‘আফফান (রাঃ)-কে (অযুর সময়) উভয় হাত কনুই পর্যন্ত তিনবার তিনবার করে ধুতে এবং তিনবার মাথা মাসাহ্ করতে দেখেছি। এরপর তিনি বলেছেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপ করতে দেখেছি। [1] ইমাম আবূ দাউদ (রহঃ) বলেন, ওয়াকী' সূত্রে ইসরাঈলের বর্ণনায় রয়েছে, তিনি অযুর অঙ্গসমূহ মাত্র তিনবার করে ধুলেন। হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>110</td></tr><tr><td>Arabic No</td><td>110</td></tr><tr><td>Reference</td><td>Book 1 Hadith 110</td></tr></tbody></table></div>
 

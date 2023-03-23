@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... উরওয়াহ (রহঃ) থেকে বর্ণিত। তিনি বলেনكَسَفَتِ الشَّمْسُ বলবে না, বরং خَسَفَتِ الشَّمْسُ বলো। অর্থ একই সূর্যগ্রহণ লেগেছে। (ইসলামী ফাউন্ডেশন ১৯৭৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2104</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ঈসা ইবন ইবরাহীম (রহঃ) ..... ইবন কিনানা (রহঃ) তার পিতা থেকে তিনি তার দাদা থেকে বর্ণনা করেন। তিনি বলেনঃ একবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাসলে, আবূ বকর (রাঃ) অথবা উমার (রাঃ) বলেনঃ আল্লাহ আপনাকে সব সময় হাসী মুখে রাখুন।
+। ইবনু কিনানাহ ইবনু ‘আব্বাস ইবনু মিরদাস (রহঃ) থেকে তার পিতা ও তার দাদার সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাসলেন। তখন আবূ বাকর (রাঃ) বা ‘উমার (রাঃ) তাঁকে বললেন, আল্লাহ আপনার মুখে হাসি ফুটিয়ে রাখুন।[1] দুর্বলঃ মিশকাত হা/ ২৬০৩।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5234</td></tr><tr><td>Arabic No</td><td>5234</td></tr><tr><td>Reference</td><td>Book 43 Hadith 462</td></tr></tbody></table></div>
 

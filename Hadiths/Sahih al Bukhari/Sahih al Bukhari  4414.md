@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ আইয়ূব (রাঃ) হতে বর্ণিত যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে বিদায় হাজ্জে (মুযদালিফায়) মাগরিব ও ঈশার সালাত এক সঙ্গে আদায় করেছেন। [1] [১৬৭৪] (আধুনিক প্রকাশনীঃ ৪০৬৬, ইসলামিক ফাউন্ডেশনঃ ৪০৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ আইয়ূব (রাঃ) হতে বর্ণিত যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে বিদায় হাজ্জে (মুযদালিফায়) মাগরিব ও ঈশার সালাত এক সঙ্গে আদায় করেছেন। [1] [১৬৭৪] (আধুনিক প্রকাশনীঃ ৪০৬৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>4414</td></tr><tr><td>Reference</td><td>Book 64 Hadith 436</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Abdullah bin Yazid Al-Khatmi:That Abu Aiyub informed him that he offer
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஅய்யூப் அல்அன்சாரீ (ரலி) அவர்கள் கூறியதாவது: நான் விடைபெறும் ஹஜ்ஜின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் (முஸ்தலிஃபாவில்) மஃக்ரிபையும் இஷாவையும் சேர்த்து ஒரே நேரத்தில் தொழுதேன்.451 அத்தியாயம் : 64
+அபூஅய்யூப் அல்அன்சாரீ (ரலி) அவர்கள் கூறியதாவது: நான் விடைபெறும் ஹஜ்ஜின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் (முஸ்தலிஃபாவில்) மஃக்ரிபையும் இஷாவையும் சேர்த்து ஒரே நேரத்தில் தொழுதேன்.451 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>4414</td></tr><tr><td>Reference</td><td>Book 64 Hadith 436</td></tr></tbody></table></div>
 

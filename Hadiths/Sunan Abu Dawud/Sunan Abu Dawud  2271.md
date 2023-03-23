@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ্ ইবন মু‘আয .... খলীল অথবা ইবন খলীল (রহঃ) হতে বর্ণিত। তিনি বলেন, আলী (রাঃ) এর নিকট একটি স্ত্রীলোকের ব্যাপারে পেশ করা হয়, যে তিনজন পুরুয়ের সাথে সহবাসের ফলে সন্তান প্রসব করে। এরপর পূর্ববর্তী হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। আর তিনি ইয়ামান ও নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সম্পর্কে কিছুই উল্লেখ করেননি এবং তিনিطِيبَا بِالْوَلَدِ শব্দটিরও উল্লেখ করেননি।
+। খলীল অথবা ইবনু খলীল (রহ.) সূত্রে বর্ণিত। তিনি বলেন, একদা আলী ইবনু আবূ তালিব (রাযি.)-এর নিকট এমন মহিলাকে আনা হলো, যে তিনজন পুরুষের সাথে যিনার কারণে সন্তান প্রসব করেছিল। সে একটি সন্তান প্রসব করেছে। অতঃপর পূর্বোক্ত হাদীসের অনুরূপ। তবে এ বর্ণনায় ‘ইয়ামেন’, ‘নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে ব্যক্ত করা’ এবং আলী (রাযি.)-এর নির্দেশঃ ‘তোমরা দু‘জনের সন্তুষ্টচিত্তে সন্তানটির দাবী ছেড়ে দাও’ ইত্যাদি উল্লেখ নেই।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2271</td></tr><tr><td>Arabic No</td><td>2271</td></tr><tr><td>Reference</td><td>Book 13 Hadith 97</td></tr></tbody></table></div>
 

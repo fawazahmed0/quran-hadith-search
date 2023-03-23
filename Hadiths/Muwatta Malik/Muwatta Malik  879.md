@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১৭৬. মালিক (রহঃ) বলেনঃ আমার নিকট রেওয়ায়ত পৌছিয়াছে যে, তালহা ইবন উবায়দুল্লাহ (রহঃ) তাহার পরিবারের মহিলা ও শিশুদিগকে মুযদালিফা হইতে মিনায় আগেই পাঠাইয়া দিতেন।
+রেওয়ায়ত ১৭৭. মালিক (রহঃ) কতিপয় আলিমের নিকট শুনিয়াছেন যে, তাহারা ইয়াওমুন-নাহরের ফজর হওয়ার পূর্বে প্রস্তর নিক্ষেপ করা মাকরূহ বলিয়া মনে করিতেন। যে ব্যক্তি প্রস্তর নিক্ষেপ করিয়াছে তাহার জন্য নাহর করা হালাল হইয়া গিয়াছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>879</td></tr><tr><td>Arabic No</td><td>879</td></tr><tr><td>Reference</td><td>Book 20 Hadith 175</td></tr></tbody></table></div>
 

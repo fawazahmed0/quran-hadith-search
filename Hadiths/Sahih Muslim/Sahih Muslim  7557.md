@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৪৪৭, আন্তর্জাতিক নাম্বারঃ ৩০৩০ ৭৪৪৭-(৩০/...) হাজ্জাজ ইবনু শাইর (রহঃ) ..... আবদুল্লাহ ইবনু মাসউদ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, মহান আল্লাহর বাণীঃ “তারা যাদেরকে ডাকে তারাই তো তাদের প্রতিপালকের নৈকট্যার্জনের উপায় খোজ করে"- (সূরাহ্ আল ইসরা ১৭ঃ ৫৭)-এর ব্যাখ্যায় বলেন, অত্র আয়াতটি আরবের এক দল লোক সম্বন্ধে নাযিল হয়েছে। তারা কতগুলো জিনের আরাধনা করত। অতঃপর জিনেরা তো ইসলাম গ্রহণ করলো; কিন্তু তাদের ইবাদাতে রত এ মানুষগুলো তা বুঝতে পারল না। তখন অবতীর্ণ হলো, "তারা যাদেরকে ডাকে তারাই তো তাদের প্রতিপালকের নৈকট্যার্জনের উপায় সন্ধানে লিপ্ত থাকে"- (সুরাহ্ আল ইসরা ১৭ঃ ৫৭)। (ইসলামিক ফাউন্ডেশন ৭২৭৫, ইসলামিক সেন্টার ৭৩৩১)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7557</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -56,7 +56,7 @@ D'après 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée), ce verset : Ceux qu'ils i
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir] telah menceritakan kepada kami [Abdushshamad bin Abdulwarits] telah menceritakan kepadaku [ayahku] telah menceritakan kepada kami [Husain] dari [Qatadah] dari [Abdullah bin Ma'bad Az ZImmani] dari [Abdullah bin Utbah] dari [Abdullah bin Mas'ud]: "Mereka itulah orang-orang yang selalu berdoa dan mencari kepada Rabb mereka wasilah." (Al Israa': 57) Ia berkata: Turun berkenaan dengan segolongan orang arab, mereka menyembah sekelompok jin lalu para jin itu masuk Islam sementara orang-orangnya tetap menyembah mereka tanpa mereka sadari. Kemudian turun ayat: "Mereka itulah orang-orang yang selalu berdoa dan mencari kepada Rabb mereka wasilah." (Al Israa': 57)
+Telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir] telah menceritakan kepada kami [Abdushshamad bin Abdulwarits] telah menceritakan kepadaku [ayahku] telah menceritakan kepada kami [Husain] dari [Qatadah] dari [Abdullah bin Ma'bad Az ZImmani] dari [Abdullah bin Utbah] dari [Abdullah bin Mas'ud]: "Mereka itulah orang-orang yang selalu berdoa dan mencari kepada Rabb mereka wasilah." (Al Israa': 57) Ia berkata: Turun berkenaan dengan segolongan orang arab, mereka menyembah sekelompok jin lalu para jin itu masuk Islam sementara orang-orangnya tetap menyembah mereka tanpa mereka sadari. Kemudian turun ayat: "Mereka itulah orang-orang yang selalu berdoa dan mencari kepada Rabb mereka wasilah." (Al Israa':)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7557</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

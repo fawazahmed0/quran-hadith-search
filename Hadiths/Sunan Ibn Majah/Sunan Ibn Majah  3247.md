@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩২৪৭। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সমুদ্র যা উদগীরণ করে অথবা তা থেকে যা নিক্ষিপ্ত হয় তা তোমরা আহার করো। আর যা সমুদ্রে মারা যায়, অতঃপর পানির উপর ভেসে উঠে তা আহার করো না।
+। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সমুদ্র যা উদগীরণ করে অথবা তা থেকে যা নিক্ষিপ্ত হয় তা তোমরা আহার করো। আর যা সমুদ্রে মারা যায়, অতঃপর পানির উপর ভেসে উঠে তা আহার করো না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3247</td></tr><tr><td>Arabic No</td><td>3247</td></tr><tr><td>Reference</td><td>Book 28 Hadith 48</td></tr></tbody></table></div>
 

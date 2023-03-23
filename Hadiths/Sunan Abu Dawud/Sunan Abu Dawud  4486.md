@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসমাঈল ইবন মূসা (রহঃ) ..... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি যার উপর হদ কায়েম করবো, (ফলে সে মারা যাবে); তার দিয়াত বা রক্তপণ আমি দেব না। কেননা, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদ পানকারীদের ব্যাপারে স্পষ্ট কিছু বলেননি। এ ব্যাপারে শাস্তির যে বিধান প্রচলিত আছে, তা আমাদের দ্বারা নির্ধারিত।
+। আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি কারো উপর হাদ্দ কার্যকর করলে এবং তাতে সে মারা গেলে আমি তার ক্ষতিপূরণ পরিশোধ করবো না, মদ পানের অপরাধী ব্যতীত। কেননা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ ব্যাপারে কোনো নির্দিষ্ট নিয়ম দেননি। এর যা কিছু শাস্তি প্রচলিত আছে তা আমরা নিজেরা নির্ধারণ করেছি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4486</td></tr><tr><td>Arabic No</td><td>4486</td></tr><tr><td>Reference</td><td>Book 40 Hadith 136</td></tr></tbody></table></div>
 

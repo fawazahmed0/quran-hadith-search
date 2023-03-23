@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হাসান ইবনু আমর উক্ত হাদীছ সম্পর্কে আনাস (রাঃ) হতে বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলতেনঃ ইয়া আল্লাহ্! আমি তোমার নিকট আশ্রয় প্রার্থণা করছি। শোবা হতে বর্ণিতঃ কোন কোন সময় রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আউযূবিল্লাহ্’ বলতেন, এবং আব্দুল আযীয হতে উহায়ব বর্ণনা করেছেনঃ যে, (পায়খানায় প্রবেশের পূর্বে) আল্লাহর নিকট আশ্রয় প্রার্থনা করা উচিত বলে নির্দেশ দিয়েছেন।-(ঐ)
+। ‘আবদুল ‘আযীয ইবনু সুহাইব (রহঃ) আনাস (রাঃ) সূত্রে পূর্বোক্ত হাদীস বর্ণনা করেছেন। তাতে ‘হে আল্লাহ! আমি আপনার কাছে আশ্রয় প্রার্থনা করছি’ কথাটি রয়েছে। শু’বাহ আবদুল আজিজ সুত্রে বলেন, তিনি একবার ‘আউযুবিল্লাহ’ বলেছেন। আর আবদুল আযীয সুত্রে উহাইব বর্ণনা করেছেন যে, তাতে 'সে যেন আল্লাহর কাছে আশ্রয় প্রার্থনা করে' কথাটি রয়েছে।[1] শাজ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Arabic No</td><td>5</td></tr><tr><td>Reference</td><td>Book 1 Hadith 5</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ওয়ালা (গোলামের পরিত্যক্ত সম্পদের মালিকানা) বিক্রয় এবং হেবা করতে নিষেধ করেছেন। [২৫৩৫] (আধুনিক প্রকাশনী- ৬২৮৮, ইসলামিক ফাউন্ডেশন- ৬৩০০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ওয়ালা (গোলামের পরিত্যক্ত সম্পদের মালিকানা) বিক্রয় এবং হেবা করতে নিষেধ করেছেন। [২৫৩৫] (আধুনিক প্রকাশনী- ৬২৮৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6756</td></tr><tr><td>Arabic No</td><td>6756</td></tr><tr><td>Reference</td><td>Book 85 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “(முன்னாள் அடிமையின் சொத்திற்கு) வாரிசாகும் உரிமையை விற்பதற்கும் அதை அன்பளிப்புச் செய்வதற்கும் தடை விதித்தார்கள்.44 அத்தியாயம் : 86
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், “(முன்னாள் அடிமையின் சொத்திற்கு) வாரிசாகும் உரிமையை விற்பதற்கும் அதை அன்பளிப்புச் செய்வதற்கும் தடை விதித்தார்கள்.44 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6756</td></tr><tr><td>Arabic No</td><td>6756</td></tr><tr><td>Reference</td><td>Book 85 Hadith 33</td></tr></tbody></table></div>
 

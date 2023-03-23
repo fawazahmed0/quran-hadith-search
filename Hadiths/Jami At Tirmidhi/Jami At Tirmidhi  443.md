@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪৪৩। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের বেলা নয় রাকাআত নামায আদায় করতেন। সহীহ। সহীহ আবু দাউদ- (১২১৩), মুসলিম আরো পূর্ণরূপে। এ অনুচ্ছেদে আবু হুরাইরা, যাইদ ইবনু খালিদ ও ফযল ইবনু আব্বাস (রাঃ) হতেও হাদীস বর্ণিত আছে। আবু ঈসা বলেনঃ আয়িশাহ (রাঃ)-এর হাদীসটি উল্লেখিত সনদে হাসান সহীহ গারীব।
+। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের বেলা নয় রাকাআত নামায আদায় করতেন। সহীহ। সহীহ আবু দাউদ- (১২১৩), মুসলিম আরো পূর্ণরূপে। এ অনুচ্ছেদে আবু হুরাইরা, যাইদ ইবনু খালিদ ও ফযল ইবনু আব্বাস (রাঃ) হতেও হাদীস বর্ণিত আছে। আবু ঈসা বলেনঃ আয়িশাহ (রাঃ)-এর হাদীসটি উল্লেখিত সনদে হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 2 Hadith 296</td></tr></tbody></table></div>
 

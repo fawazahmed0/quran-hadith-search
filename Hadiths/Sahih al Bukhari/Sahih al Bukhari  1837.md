@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত রয়েছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম অবস্থায় মায়মূনাহ (রাযি.)-কে বিবাহ করেছেন। (৪২৫৮, ৪২৫৯, ৫১১৪, মুসলিম ১৬/৪, হাঃ ১৪১০) (আধুনিক প্রকাশনীঃ ১৭০৫, ইসলামিক ফাউন্ডেশনঃ ১৭১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত রয়েছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম অবস্থায় মায়মূনাহ (রাযি.)-কে বিবাহ করেছেন। (৪২৫৮, ৪২৫৯, ৫১১৪, মুসলিম ১৬/৪, হাঃ ১৪১০) (আধুনিক প্রকাশনীঃ ১৭০৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1837</td></tr><tr><td>Arabic No</td><td>1837</td></tr><tr><td>Reference</td><td>Book 28 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Mughirah 'Abdul Quddus bin Al Hajjaj] tel
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இஹ்ராம் கட்டி யிருக்கும்போது அன்னை மைமூனா (ரலி) அவர்களை மணமுடித்துக்கொண்டார்கள்.6 அத்தியாயம் : 28
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இஹ்ராம் கட்டி யிருக்கும்போது அன்னை மைமூனா (ரலி) அவர்களை மணமுடித்துக்கொண்டார்கள்.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1837</td></tr><tr><td>Arabic No</td><td>1837</td></tr><tr><td>Reference</td><td>Book 28 Hadith 17</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Mughirah 'Abdul Quddus bin Al Hajjaj] tel
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle söyledi: Nebi Sallallahu Aleyhi ve Sellem Meymune ile ihramlı iken evlendi. Tekrar: 4258, 4259, 5114
+İbn Abbas r.a. şöyle söyledi: Nebi Sallallahu Aleyhi ve Sellem Meymune ile ihramlı iken evlendi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1837</td></tr><tr><td>Arabic No</td><td>1837</td></tr><tr><td>Reference</td><td>Book 28 Hadith 17</td></tr></tbody></table></div>
 

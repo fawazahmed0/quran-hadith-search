@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মাস‘ঊদ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, সূর্যগ্রহণ ও চন্দ্রগ্রহণ কারো মৃত্যু ও জন্মের কারণে হয় না। উভয়টি আল্লাহর নিদর্শনসমূহের মধ্যে হতে দু’টি নিদর্শন। অতএব যখন তোমরা তা ঘটতে দেখবে, তখন তোমরা সালাত আদায় করবে। (১০৪১) (আধুনিক প্রকাশনীঃ ২৯৬৩, ইসলামিক ফাউন্ডেশনঃ ২৯৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মাস‘ঊদ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, সূর্যগ্রহণ ও চন্দ্রগ্রহণ কারো মৃত্যু ও জন্মের কারণে হয় না। উভয়টি আল্লাহর নিদর্শনসমূহের মধ্যে হতে দু’টি নিদর্শন। অতএব যখন তোমরা তা ঘটতে দেখবে, তখন তোমরা সালাত আদায় করবে। (১০৪১) (আধুনিক প্রকাশনীঃ ২৯৬৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3204</td></tr><tr><td>Arabic No</td><td>3204</td></tr><tr><td>Reference</td><td>Book 59 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: எவருடைய இறப்புக்காகவும் எவருடைய பிறப்புக்காகவும் சூரியனிலும் சந்திரனிலும் கிரகணம் ஏற்படுவதில்லை. ஆயினும், அவையிரண்டும் அல்லாஹ்வின் சான்றுகளில் இரு சான்றுகளாகும். அவற்றை நீங்கள் காணும்போது (இறைவனைத்) தொழுங்கள். இதை அபூமஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+நபி (ஸல்) அவர்கள்கூறினார்கள்: எவருடைய இறப்புக்காகவும் எவருடைய பிறப்புக்காகவும் சூரியனிலும் சந்திரனிலும் கிரகணம் ஏற்படுவதில்லை. ஆயினும், அவையிரண்டும் அல்லாஹ்வின் சான்றுகளில் இரு சான்றுகளாகும். அவற்றை நீங்கள் காணும்போது (இறைவனைத்) தொழுங்கள். இதை அபூமஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3204</td></tr><tr><td>Arabic No</td><td>3204</td></tr><tr><td>Reference</td><td>Book 59 Hadith 15</td></tr></tbody></table></div>
 

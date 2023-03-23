@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯৫, আন্তর্জাতিক নাম্বারঃ ৫২ ৯৫-(.../...) কুতাইবাহ ইবনু সাঈদ ও যুহায়র ইবনু হারব (রহঃ) ..... আ'মাশ (রহঃ)-এর সূত্রে এ সনদেই অনুরূপ হাদীস বর্ণনা করেছেন। তবে তার বর্ণনায় কুফরের উৎস রয়েছে পূর্ব দিকে' কথাটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশনঃ ৯৭, ইসলামিক সেন্টারঃ ৯৯)
+কুতাইবাহ ইবনু সাঈদ ও যুহায়র ইবনু হারব (রহঃ) ..... আ'মাশ (রহঃ)-এর সূত্রে এ সনদেই অনুরূপ হাদীস বর্ণনা করেছেন। তবে তার বর্ণনায় কুফরের উৎস রয়েছে পূর্ব দিকে' কথাটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশনঃ ৯৭, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Qutaiba b. Sa'id and Zubair b. Harb say:Jarir narrated this on the authority of 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Kuteybe b. Said ve Zuheyr b. Harb da tahdis edip dediler ki: Bize Cerir A'meş'ten bu isnad ile hadisi buna yakın olarak tahdis etti ve: "Küfrün başı doğu tarafındadır" ibaresini zikretmedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 12343
+Bize Kuteybe b. Said ve Zuheyr b. Harb da tahdis edip dediler ki: Bize Cerir A'meş'ten bu isnad ile hadisi buna yakın olarak tahdis etti ve: "Küfrün başı doğu tarafındadır" ibaresini zikretmedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
 

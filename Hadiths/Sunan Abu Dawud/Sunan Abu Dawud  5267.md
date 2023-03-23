@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চার শ্রেণীর প্রাণীকে হত্যা করতে নিষেধ করেছেন। তারা হলোঃ পিঁপড়া, মৌমাছি, হুদ-হুদ পাখী এবং চড়ুই পাখী। (কেননা, এরা কারো ক্ষতি করে না, বরং উপকার করে)।
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চার প্রকার প্রাণী হত্যা করতে বারণ করেছেনঃ পিঁপড়া, মধুমক্ষিকা (মৌমাছি), হুদহুদ পাখি এবং চড়ুই সদৃশ বাজ পাখি।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5267</td></tr><tr><td>Arabic No</td><td>5267</td></tr><tr><td>Reference</td><td>Book 43 Hadith 495</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ওয়াহাব ইবন বাকীয়া (রহঃ) ...... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইয়য়াহূদীরা একাত্তর বা বাহাত্তর ফিরকায় (দলে) বিভক্ত হয়েছে; নাসারারাও একাত্তর বা বাহাত্তর দলে বিভক্ত, আর আমার উম্মাত তিয়াত্তর ফিরকায় বিভক্ত হবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইয়াহুদীরা একাত্তর অথবা বাহাত্তর দল-উপদলে বিভক্ত হয়েছে এবং খৃষ্টানরাও একাত্তর অথবা বাহাত্তর দলে বিভক্ত হয়েছে, আর আমার উম্মত হবে তিয়াত্তর দলে বিভক্ত।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4596</td></tr><tr><td>Arabic No</td><td>4596</td></tr><tr><td>Reference</td><td>Book 42 Hadith 1</td></tr></tbody></table></div>
 

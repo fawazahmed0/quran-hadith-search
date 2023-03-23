@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যায়দ ইবনু খালিদ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) অবিবাহিত ব্যভিচারী সম্পর্কে একশ’ বেত্রাঘাত এবং এক বছরের নির্বাসনের নির্দেশ দিয়েছেন। (২৩১৪) (আধুনিক প্রকাশনীঃ ২৪৫৭, ইসলামিক ফাউন্ডেশনঃ ২৪৭৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+যায়দ ইবনু খালিদ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) অবিবাহিত ব্যভিচারী সম্পর্কে একশ’ বেত্রাঘাত এবং এক বছরের নির্বাসনের নির্দেশ দিয়েছেন। (২৩১৪) (আধুনিক প্রকাশনীঃ ২৪৫৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2649</td></tr><tr><td>Arabic No</td><td>2649</td></tr><tr><td>Reference</td><td>Book 52 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸைத் பின் காலித் (ரலி) அவர்கள் கூறியதாவது: விபசாரம் புரிந்துவிட்ட திருமணமாகாத ஒருவருக்கு நூறு சாட்டையடிகள் வழங்க வேண்டும் என்றும் ஓராண்டுக் காலத்திற்கு அவரை நாடு கடத்த வேண்டும் என்றும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் உத்தரவிட்டார்கள்.13 அத்தியாயம் : 52
+ஸைத் பின் காலித் (ரலி) அவர்கள் கூறியதாவது: விபசாரம் புரிந்துவிட்ட திருமணமாகாத ஒருவருக்கு நூறு சாட்டையடிகள் வழங்க வேண்டும் என்றும் ஓராண்டுக் காலத்திற்கு அவரை நாடு கடத்த வேண்டும் என்றும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் உத்தரவிட்டார்கள்.13 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2649</td></tr><tr><td>Arabic No</td><td>2649</td></tr><tr><td>Reference</td><td>Book 52 Hadith 13</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyd b. Halid el-Cüheni şöyle demiştir: Ben Nebi sallallahu aleyhi ve sellem'den işittim, Zina eden muhsan olmayan (evli olmayan ve öncedende evlenmemiş) kimseler hakkında yüz sopa vurmayı ve bir yıl sürgüne göndermeyi emrediyordu. Tekrar: 6831
+Zeyd b. Halid el-Cüheni şöyle demiştir: Ben Nebi sallallahu aleyhi ve sellem'den işittim, Zina eden muhsan olmayan (evli olmayan ve öncedende evlenmemiş) kimseler hakkında yüz sopa vurmayı ve bir yıl sürgüne göndermeyi emrediyordu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2649</td></tr><tr><td>Arabic No</td><td>2649</td></tr><tr><td>Reference</td><td>Book 52 Hadith 13</td></tr></tbody></table></div>
 

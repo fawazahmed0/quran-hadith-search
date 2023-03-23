@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭৫, আন্তর্জাতিক নাম্বারঃ ২৫১ ৪৭৫-(৪১/২৫১) ইয়াহইয়া ইবনু আইয়ুব, কুতাইবাহ ও ইবনু হুজর (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ আমি কি তোমাদের এমন কাজ জানাবো না, যা করলে আল্লাহ (বান্দার) পাপরাশি দূর করে দেন এবং মর্যাদা বৃদ্ধি করেন? লোকেরা বলল, হে আল্লাহর রাসূল! আপনি বলুন। তিনি বললেন অসুবিধা ও কষ্ট সত্ত্বেও পরিপূর্ণরূপে ওযু করা, মসজিদে আসার জন্যে বেশি পদচারণা করা এবং এক সালাতের পর আর এক সালাতের জন্যে প্রতীক্ষা করা; আর এ কাজগুলোই হল সীমান্ত প্রহরা*। (ইসলামিক ফাউন্ডেশনঃ ৪৭৮, ইসলামিক সেন্টারঃ ৪৯৪) * রিবাত (সীমান্ত প্রহরী) অর্থঃ কোন জিনিস থেকে বন্ধ থাকা, অর্থাৎ ইতা’আতের উপর নিজের আত্মাকে বন্ধ রাখা, তাতে যত কষ্টই হোক।
+ইয়াহইয়া ইবনু আইয়ুব, কুতাইবাহ ও ইবনু হুজর (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ আমি কি তোমাদের এমন কাজ জানাবো না, যা করলে আল্লাহ (বান্দার) পাপরাশি দূর করে দেন এবং মর্যাদা বৃদ্ধি করেন? লোকেরা বলল, হে আল্লাহর রাসূল! আপনি বলুন। তিনি বললেন অসুবিধা ও কষ্ট সত্ত্বেও পরিপূর্ণরূপে ওযু করা, মসজিদে আসার জন্যে বেশি পদচারণা করা এবং এক সালাতের পর আর এক সালাতের জন্যে প্রতীক্ষা করা; আর এ কাজগুলোই হল সীমান্ত প্রহরা*। (ইসলামিক ফাউন্ডেশনঃ ৪৭৮, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>587</td></tr><tr><td>Arabic No</td><td>251.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 54</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Yahya b. Eyyub ile Kuteybe ve İbnî Hucr toptan İsmail b. Ca'fer'den rivayet ettiler, İbni Eyyub dediki: Bize İsmail rivayet etti. (Dediki) : Bana Ala' babasından, o da Ebu Hureyre'den naklen haber verdiki: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu: "Size Allah'ın, kendisi sebebiyle günahları sildiği ve onunla dereceleri yükselttiği bir hususu göstermeyeyim mi" buyurdu. Ashab: Elbette, göster ey Allah'ın Resulü dediler. O: "Hoşlanılmayan hallere ve zorluklara rağmen abdesti tam almak, mescitlere çokça adım atmak, namazdan sonra diğer namazı beklemek, işte ribat budur" buyurdu. Diğer tahric: Tirmizi, SI; Tuhfetu'l-Eşraf, 13981
+Bize Yahya b. Eyyub ile Kuteybe ve İbnî Hucr toptan İsmail b. Ca'fer'den rivayet ettiler, İbni Eyyub dediki: Bize İsmail rivayet etti. (Dediki) : Bana Ala' babasından, o da Ebu Hureyre'den naklen haber verdiki: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu: "Size Allah'ın, kendisi sebebiyle günahları sildiği ve onunla dereceleri yükselttiği bir hususu göstermeyeyim mi" buyurdu. Ashab: Elbette, göster ey Allah'ın Resulü dediler. O: "Hoşlanılmayan hallere ve zorluklara rağmen abdesti tam almak, mescitlere çokça adım atmak, namazdan sonra diğer namazı beklemek, işte ribat budur" buyurdu. Diğer tahric: Tirmizi, SI; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>587</td></tr><tr><td>Arabic No</td><td>251.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 54</td></tr></tbody></table></div>
 

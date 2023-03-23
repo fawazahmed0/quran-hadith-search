@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ عُبَادَةُ بَايَعْنَا النَّبِيَّ صلى الله عليه وسلم أَنْ لاَ نَنْتَهِبَ ‘উবাদাহ (রাঃ) বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এ মর্মে বায়‘আত করেছি যে, আমরা লুটপাট করব না। ২৪৭৪. ‘আদী ইবনু সাবিত (রহ.)-এর নানা ‘আবদুল্লাহ ইবনু ইয়াযীদ আনসারী (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লুটতরাজ করতে এবং জীবকে বিকলাঙ্গ করতে নিষেধ করেছেন। (৫৫১৬) (আধুনিক প্রকাশনীঃ ২২৯৫, ইসলামিক ফাউন্ডেশনঃ ২৩১২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ عُبَادَةُ بَايَعْنَا النَّبِيَّ صلى الله عليه وسلم أَنْ لاَ نَنْتَهِبَ ‘উবাদাহ (রাঃ) বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে এ মর্মে বায়‘আত করেছি যে, আমরা লুটপাট করব না। ২৪৭৪. ‘আদী ইবনু সাবিত (রহ.)-এর নানা ‘আবদুল্লাহ ইবনু ইয়াযীদ আনসারী (রাঃ) হতে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লুটতরাজ করতে এবং জীবকে বিকলাঙ্গ করতে নিষেধ করেছেন। (৫৫১৬) (আধুনিক প্রকাশনীঃ ২২৯৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2474</td></tr><tr><td>Arabic No</td><td>2474</td></tr><tr><td>Reference</td><td>Book 46 Hadith 35</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam bin Abi Iyas] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: கொள்ளையடிப்பதற்கும் சித்திரவதை செய்வதற்கும் நபி (ஸல்) அவர்கள் தடை விதித்தார்கள். அத்தியாயம் : 46
+அப்துல்லாஹ் பின் யஸீத் (ரலி) அவர்கள் கூறியதாவது: கொள்ளையடிப்பதற்கும் சித்திரவதை செய்வதற்கும் நபி (ஸல்) அவர்கள் தடை விதித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2474</td></tr><tr><td>Arabic No</td><td>2474</td></tr><tr><td>Reference</td><td>Book 46 Hadith 35</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam bin Abi Iyas] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Adi İbn Sabit'ten rivayet edilmiştir: Abdullah İbn Yezıd el-Ensari'nin şöyle dediğini işittim: -Abdullah İbn Yezid, Adi'nin anne tarafından dedesiydi- Nebi Sallallahu Aleyhi ve Sellem yağmalamayı ve musle (organ kesme)yi yasaklamıştır. Tekrar: 5516
+Adi İbn Sabit'ten rivayet edilmiştir: Abdullah İbn Yezıd el-Ensari'nin şöyle dediğini işittim: -Abdullah İbn Yezid, Adi'nin anne tarafından dedesiydi- Nebi Sallallahu Aleyhi ve Sellem yağmalamayı ve musle (organ kesme)yi yasaklamıştır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2474</td></tr><tr><td>Arabic No</td><td>2474</td></tr><tr><td>Reference</td><td>Book 46 Hadith 35</td></tr></tbody></table></div>
 

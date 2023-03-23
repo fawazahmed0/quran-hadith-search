@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, দু’ (দিনের) সওম ও দু’ (প্রকারের) ক্রয়-বিক্রয় নিষেধ করা হয়েছে, ঈদুল ফিতর ও কুরবানীর (দিনের) সওম এবং মুলামাসা ও মুনাবাযা (পদ্ধতিতে ক্রয়-বিক্রয়) হতে। (৩৬৮, মুসলিম ২১/১, হাঃ ১৫১১) (আধুনিক প্রকাশনীঃ ১৮৫৩, ইসলামিক ফাউন্ডেশনঃ ১৮৬৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, দু’ (দিনের) সওম ও দু’ (প্রকারের) ক্রয়-বিক্রয় নিষেধ করা হয়েছে, ঈদুল ফিতর ও কুরবানীর (দিনের) সওম এবং মুলামাসা ও মুনাবাযা (পদ্ধতিতে ক্রয়-বিক্রয়) হতে। (৩৬৮, মুসলিম ২১/১, হাঃ ১৫১১) (আধুনিক প্রকাশনীঃ ১৮৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1993</td></tr><tr><td>Arabic No</td><td>1993</td></tr><tr><td>Reference</td><td>Book 30 Hadith 99</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நோன்புப் பெருநாள் அன்றும், ஹஜ்ஜு பெருநாள் அன்றும் நோன்பு நோற்பதும் பொருளைத் தொடல் (முலாமசா), பொருளை விட்டெறிதல் (முனாபதா) ஆகிய இரண்டு வியாபார முறைகளும் தடை செய்யப்பட்டுள் ளன.52 அத்தியாயம் : 30
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நோன்புப் பெருநாள் அன்றும், ஹஜ்ஜு பெருநாள் அன்றும் நோன்பு நோற்பதும் பொருளைத் தொடல் (முலாமசா), பொருளை விட்டெறிதல் (முனாபதா) ஆகிய இரண்டு வியாபார முறைகளும் தடை செய்யப்பட்டுள் ளன.52 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1993</td></tr><tr><td>Arabic No</td><td>1993</td></tr><tr><td>Reference</td><td>Book 30 Hadith 99</td></tr></tbody></table></div>
 

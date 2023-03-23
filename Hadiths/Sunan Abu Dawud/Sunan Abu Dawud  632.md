@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্-কানবী .... সালামা ইবনুল আকওয়া (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে বলি, হে আল্লাহর রাসূল! আমি একজন শিকারী। আমি কি একটি মাত্র জামা পরিধান করে নামায আদায় করতে পারি? তিনি বলেনঃ হ্যাঁ, তবে তা বেঁধে নাও অন্তত একটি কাঁটা দ্বারা হলেও। (নাসাঈ)।
+। সালামাহ ইবনুল আকওয়া' (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রসূল! আমি শিকার করে থাকি। আমি কি একটি জামা পরে সালাত আদায় করতে পারি? তিনি বলেন, হ্যাঁ। তবে একটি কাঁটা দিয়ে হলেও তা বেঁধে নাও (যেন লজ্জাস্থান উম্মুক্ত হয়ে না যায়)।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>632</td></tr><tr><td>Reference</td><td>Book 2 Hadith 242</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Al-Qa'nabi'] telah menceritakan kepada kami [Abd
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Seleme b. el-Ekva'dan; demiştir ki: Ya Resulullah, ben avcılık yapan bir adamım. Bir tek gömlek içinde namaz kılabilir miyim? dedim. (Bana); “Evet (kılabilirsin) ve (lakin) bir dikenle bile olsa onun uçlarını (birbirine) iliştir" cevabını verdi. Diğer tahric: Buharî, salat; Nesai, kıble, Ahmed, IV, 49, 54
+Seleme b. el-Ekva'dan; demiştir ki: Ya Resulullah, ben avcılık yapan bir adamım. Bir tek gömlek içinde namaz kılabilir miyim? dedim. (Bana); “Evet (kılabilirsin) ve (lakin) bir dikenle bile olsa onun uçlarını (birbirine) iliştir" cevabını verdi. Diğer tahric: Buharî, salat; Nesai, kıble, Ahmed, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>632</td></tr><tr><td>Reference</td><td>Book 2 Hadith 242</td></tr></tbody></table></div>
 

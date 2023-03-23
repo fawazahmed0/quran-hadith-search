@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَمَنْ قَالَ لِصَاحِبِهِ تَعَالَ أُقَامِرْكَ. وَقَوْلُهُ تَعَالَى: (وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ). আর ঐ ব্যক্তির ব্যাপারে, যে তার বন্ধুকে বললো, চলো, আমি তোমার সাথে জুয়া খেলবো। এ প্রসঙ্গে আল্লাহর বাণীঃ ‘মানুষের মধ্যে কেউ কেউ অজ্ঞতাবশতঃ অসার বাক্য ক্রয় করে নেয়।’ (সূরাহ লুকমান ৩১/৬) ৬৩০১. আবূ হুরাইরাহ (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যদি শপথ করে এবং তার শপথে বলে লাত ও উযযার শপথ, তা হলে সে যেন لاَ إِلٰهَ إِلاَّ اللهُ বলে, আর যে তার বন্ধুকে বলেঃ এসো আমি তোমার সাথে জুয়া খেলবো সে যেন সদাকাহ করে। (আধুনিক প্রকাশনী- ৫৮৫৭, ইসলামিক ফাউন্ডেশন- ৫৭৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَمَنْ قَالَ لِصَاحِبِهِ تَعَالَ أُقَامِرْكَ. وَقَوْلُهُ تَعَالَى: (وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ). আর ঐ ব্যক্তির ব্যাপারে, যে তার বন্ধুকে বললো, চলো, আমি তোমার সাথে জুয়া খেলবো। এ প্রসঙ্গে আল্লাহর বাণীঃ ‘মানুষের মধ্যে কেউ কেউ অজ্ঞতাবশতঃ অসার বাক্য ক্রয় করে নেয়।’ (সূরাহ লুকমান ৩১/৬) ৬৩০১. আবূ হুরাইরাহ (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যদি শপথ করে এবং তার শপথে বলে লাত ও উযযার শপথ, তা হলে সে যেন لاَ إِلٰهَ إِلاَّ اللهُ বলে, আর যে তার বন্ধুকে বলেঃ এসো আমি তোমার সাথে জুয়া খেলবো সে যেন সদাকাহ করে। (আধুনিক প্রকাশনী- ৫৮৫৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6301</td></tr><tr><td>Arabic No</td><td>6301</td></tr><tr><td>Reference</td><td>Book 79 Hadith 73</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever among you takes an oath wherein he says, 'By Al-Lat and Al-'Uzza,' names of two Idols worshipped by the Pagans, he should say, 'None has the right to be worshipped but Allah; And whoever says to his friend, 'Come, let me gamble with you ! He should give something in charity. " (See Hadith No. 645)
+Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever among you takes an oath wherein he says, 'By Al-Lat and Al-'Uzza,' names of two Idols worshipped by the Pagans, he should say, 'None has the right to be worshipped but Allah; And whoever says to his friend, 'Come, let me gamble with you ! He should give something in charity. " (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6301</td></tr><tr><td>Arabic No</td><td>6301</td></tr><tr><td>Reference</td><td>Book 79 Hadith 73</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் யார் சத்தியம் செய்யும்போது (அறியாமைக்கால தெய்வச் சிலைகளான) ‘லாத்’தின் மீதும் ‘உஸ்ஸா’ வின் மீதும் சத்தியமாக என்று கூறிவிட் டாரோ அவர் (அதற்குப் பரிகாரமாக) ‘லா இலாஹ இல்லல்லாஹ்’ (அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை) என்று சொல்லட்டும். யார் தம் நண்பரிடம், “வா சூதாடுவோம்” என்று கூறுகிறாரோ அவர் (அதற்குப் பரிகாரமாக எதையேனும்) தர்மம் செய்யட்டும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.75 அத்தியாயம் : 79
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் யார் சத்தியம் செய்யும்போது (அறியாமைக்கால தெய்வச் சிலைகளான) ‘லாத்’தின் மீதும் ‘உஸ்ஸா’ வின் மீதும் சத்தியமாக என்று கூறிவிட் டாரோ அவர் (அதற்குப் பரிகாரமாக) ‘லா இலாஹ இல்லல்லாஹ்’ (அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை) என்று சொல்லட்டும். யார் தம் நண்பரிடம், “வா சூதாடுவோம்” என்று கூறுகிறாரோ அவர் (அதற்குப் பரிகாரமாக எதையேனும்) தர்மம் செய்யட்டும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.75 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6301</td></tr><tr><td>Arabic No</td><td>6301</td></tr><tr><td>Reference</td><td>Book 79 Hadith 73</td></tr></tbody></table></div>
 

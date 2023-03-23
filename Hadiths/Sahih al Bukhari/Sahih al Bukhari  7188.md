@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-لُدًّا عُوجًا অর্থ বক্রতা ৭১৮৮. ‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর কাছে সর্বাধিক ঘৃণ্য ঐ ব্যক্তি, যে সব সময় ঝগড়ায় লিপ্ত থাকে। [২৪৫৭] (আধুনিক প্রকাশনী- ৬৬৮৫, ইসলামিক ফাউন্ডেশন- ৬৬৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لُدًّا عُوجًا অর্থ বক্রতা ৭১৮৮. ‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর কাছে সর্বাধিক ঘৃণ্য ঐ ব্যক্তি, যে সব সময় ঝগড়ায় লিপ্ত থাকে। [২৪৫৭] (আধুনিক প্রকাশনী- ৬৬৮৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7188</td></tr><tr><td>Arabic No</td><td>7188</td></tr><tr><td>Reference</td><td>Book 93 Hadith 50</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்விடம் மனிதர்களிலேயே மிகவும் வெறுப்புக்குரியவன், (எதற் கெடுத்தாலும்) கடுமையாகச் சச்சரவு செய்பவனே ஆவான். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.55 அத்தியாயம் : 93
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அல்லாஹ்விடம் மனிதர்களிலேயே மிகவும் வெறுப்புக்குரியவன், (எதற் கெடுத்தாலும்) கடுமையாகச் சச்சரவு செய்பவனே ஆவான். இதை ஆயிஷா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.55 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7188</td></tr><tr><td>Arabic No</td><td>7188</td></tr><tr><td>Reference</td><td>Book 93 Hadith 50</td></tr></tbody></table></div>
 

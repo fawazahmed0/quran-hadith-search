@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্রাহীম ইবনু মূসা .... আবদুল্লাহ্ ইবনু সা’দ আল-আনসারী (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে গোসল ফরজ হওয়ার কারণ জিজ্ঞাসা করি এবং পেশাবের পর মযী নির্গত হওয়ার ব্যাপারেও জিজ্ঞাসা করি তিনি বলেন, এটা হল মযী এবং যখন পুরুষাঙ্গ থেকে মযী নির্গত হয়, তখন তুমি তোমার লজ্জাস্থান ও অন্ডকোষদ্বয় ধৌত করবে, অতঃপর নামায আদায়ের জন্য উযূ (ওজু/অজু/অযু) করবে।
+। ‘আব্দুল্লাহ ইবনু সা’দ আল-আনসারী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞাসা করলামঃ কি কারণে গোসল ওয়াজিব হয়? এবং গোসলের (বা পেশাবের) পর পুরুষাঙ্গ থেকে নির্গত পানি (মযী) সম্পর্কেও জিজ্ঞাসা করলাম। তিনি বললেন, ঐ পানিকে বীর্যরস বলা হয়। প্রত্যেক প্রাপ্ত বয়স্ক লোকেরই বীর্যরস নির্গত হয়। বীর্যরস বের হলে তোমার লজ্জাস্থান ও অন্ডকোষ ধুয়ে ফেলবে এবং সালাতের অযুর ন্যায় অযু করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>211</td></tr><tr><td>Arabic No</td><td>211</td></tr><tr><td>Reference</td><td>Book 1 Hadith 211</td></tr></tbody></table></div>
 

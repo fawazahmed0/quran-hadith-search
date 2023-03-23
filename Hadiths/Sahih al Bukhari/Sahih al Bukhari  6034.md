@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট কোন জিনিস চাওয়া হলে, তিনি কক্ষনো ‘না’ বলেননি। (আধুনিক প্রকাশনী- ৫৫৯৯, ইসলামিক ফাউন্ডেশন- ৫৪৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট কোন জিনিস চাওয়া হলে, তিনি কক্ষনো ‘না’ বলেননি। (আধুনিক প্রকাশনী- ৫৫৯৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6034</td></tr><tr><td>Arabic No</td><td>6034</td></tr><tr><td>Reference</td><td>Book 78 Hadith 64</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஹம்மத் பின் முன்கதிர் (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் எது கேட்கப்பட்டாலும் ஒருபோதும் அவர்கள் ‘இல்லை’ என்று சொன்னதில்லை என ஜாபிர் (ரலி) அவர்கள் கூறக் கேட்டேன். அத்தியாயம் : 78
+முஹம்மத் பின் முன்கதிர் (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களிடம் எது கேட்கப்பட்டாலும் ஒருபோதும் அவர்கள் ‘இல்லை’ என்று சொன்னதில்லை என ஜாபிர் (ரலி) அவர்கள் கூறக் கேட்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6034</td></tr><tr><td>Arabic No</td><td>6034</td></tr><tr><td>Reference</td><td>Book 78 Hadith 64</td></tr></tbody></table></div>
 

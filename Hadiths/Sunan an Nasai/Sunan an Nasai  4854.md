@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হায়সাম ইবন মারওয়ান (রহঃ) ... আবু বকর ইবন মুহাম্মদ ইবন আমর ইবন হাযম (রহঃ) তাঁর পিতার মাধ্যমে তাঁর দাদা থেকে বর্ণনা করেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইয়ামানবাসীদের নিকট একখানা পত্র লিখেন, যাতে ফরয, সুন্নাত এবং দিয়াতের কথা ছিল। তিনি আমর ইবন হাযম-এর মাধ্যমে তা পাঠান। ইয়ামানবাসীদের নিকট তাঁর এই পত্র পড়া হয়। তাতে অনুরূপ বর্ণনা উল্লেখ আছে। তবে তাতে এতটুকু অতিরিক্ত রয়েছে যে, তিনি বলেছেনঃ এক চক্ষুতে অর্ধ দিয়াত, এক হাতে অর্ধ দিয়াত, এক পায়ে অর্ধ দিয়াত। আবূ আবদুর রহমান বলেনঃ ইহা সহীহ হওয়ার অধিক নিকটবর্তী। আল্লাহ্ অধিক অবহিত। ইউনুস (রহঃ) যুহরী (রহঃ) হতে এটি মুরসালরূপে বর্ণনা করেছেন (যা নিম্নরূপ) :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4854</td></tr><tr><td>Arabic No</td><td>4854</td></tr><tr><td>Reference</td><td>Book 45 Hadith 149</td></tr></tbody></table></div>
 

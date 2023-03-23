@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫৩৪। হান্নাদ স্বীয় সূত্রে আবদুল্লাহ ইবনু মাসউদ হতে অনুরূপ হাদীস বর্ণনা করেছেন। কিন্তু মারফুরূপে নয়। (দেখুন পূর্বের হাদীস) আর এ হাদীস পূর্বোক্ত আবীদার হাদীসের তুলনায় অধিক সহীহ। এভাবেই জারীর প্রমুখগণ আতা ইবনু আস-সায়িব হতে আবূল আহ ওয়াসের মতই বর্ণনা করেছেন। মাওকুফরুপে আর এটি সঠিক।
+। হান্নাদ স্বীয় সূত্রে আবদুল্লাহ ইবনু মাসউদ হতে অনুরূপ হাদীস বর্ণনা করেছেন। কিন্তু মারফুরূপে নয়। (দেখুন পূর্বের হাদীস) আর এ হাদীস পূর্বোক্ত আবীদার হাদীসের তুলনায় অধিক সহীহ। এভাবেই জারীর প্রমুখগণ আতা ইবনু আস-সায়িব হতে আবূল আহ ওয়াসের মতই বর্ণনা করেছেন। মাওকুফরুপে আর এটি সঠিক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
 

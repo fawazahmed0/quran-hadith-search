@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, খুবায়ব (রাঃ)-এর হত্যাকারী হল আবূ সিরওয়া (‘উকবাহ ইবনু হারিস)। (আধুনিক প্রকাশনীঃ ৩৭৮১, ইসলামিক ফাউন্ডেশনঃ ৩৭৮৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, খুবায়ব (রাঃ)-এর হত্যাকারী হল আবূ সিরওয়া (‘উকবাহ ইবনু হারিস)। (আধুনিক প্রকাশনীঃ ৩৭৮১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4087</td></tr><tr><td>Arabic No</td><td>4087</td></tr><tr><td>Reference</td><td>Book 64 Hadith 131</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (பின் அப்தில்லாஹ் -ரலி) அவர்கள் கூறியதாவது: அபூசிர்வஆ (உக்பா பின் அல்ஹாரிஸ்) என்பவனே குபைப் (ரலி) அவர்களைக் கொன்றான். அத்தியாயம் : 64
+ஜாபிர் (பின் அப்தில்லாஹ் -ரலி) அவர்கள் கூறியதாவது: அபூசிர்வஆ (உக்பா பின் அல்ஹாரிஸ்) என்பவனே குபைப் (ரலி) அவர்களைக் கொன்றான். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4087</td></tr><tr><td>Arabic No</td><td>4087</td></tr><tr><td>Reference</td><td>Book 64 Hadith 131</td></tr></tbody></table></div>
 

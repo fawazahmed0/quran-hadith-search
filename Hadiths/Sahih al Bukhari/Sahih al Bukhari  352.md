@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَقَالَ أَبُو حَازِمٍ عَنْ سَهْلِ بْنِ سَعْدٍ صَلَّوْا مَعَ النَّبِيِّ صلى الله عليه وسلم عَاقِدِي أُزْرِهِمْ عَلَى عَوَاتِقِهِمْ. আবূ হাযিম (রহ.) সাহল ইবনু সা‘দ (রাযি.) হতে বর্ণনা করেন যে, সহাবায়ে কিরাম নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে তহবন্দ কাঁধে বেঁধে সালাত আদায় করেছিলেন। ৩৫২. মুহাম্মাদ ইবনুল মুনকাদির (রহ.) হতে রিওয়ায়াত হয়েছে, তিনি বলেনঃ একদা জাবির (রাযি.) কাঁধে লুঙ্গি বেঁধে সালাত আদায় করেন। আর তাঁর কাপড় (জামা) আলনায় রাখা ছিল। তখন তাঁকে এক ব্যক্তি বললোঃ আপনি যে এক লুঙ্গি পরে সালাত আদায় করলেন? তিনি জবাবে বললেনঃ তোমার মত আহাম্মকদের দেখানোর জন্য আমি এমন করেছি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর যুগে আমাদের কার দু’টো কাপড় ছিল? (৩৫৩, ৩৬১, ৩৭০ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ৩৩৯ , ইসলামিক ফাউন্ডেশনঃ ৩৪৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَقَالَ أَبُو حَازِمٍ عَنْ سَهْلِ بْنِ سَعْدٍ صَلَّوْا مَعَ النَّبِيِّ صلى الله عليه وسلم عَاقِدِي أُزْرِهِمْ عَلَى عَوَاتِقِهِمْ. আবূ হাযিম (রহ.) সাহল ইবনু সা‘দ (রাযি.) হতে বর্ণনা করেন যে, সহাবায়ে কিরাম নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে তহবন্দ কাঁধে বেঁধে সালাত আদায় করেছিলেন। ৩৫২. মুহাম্মাদ ইবনুল মুনকাদির (রহ.) হতে রিওয়ায়াত হয়েছে, তিনি বলেনঃ একদা জাবির (রাযি.) কাঁধে লুঙ্গি বেঁধে সালাত আদায় করেন। আর তাঁর কাপড় (জামা) আলনায় রাখা ছিল। তখন তাঁকে এক ব্যক্তি বললোঃ আপনি যে এক লুঙ্গি পরে সালাত আদায় করলেন? তিনি জবাবে বললেনঃ তোমার মত আহাম্মকদের দেখানোর জন্য আমি এমন করেছি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর যুগে আমাদের কার দু’টো কাপড় ছিল? (৩৫৩, ৩৬১, ৩৭০ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ৩৩৯ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>352</td></tr><tr><td>Arabic No</td><td>352</td></tr><tr><td>Reference</td><td>Book 8 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஹம்மத் பின் அல்முன்கதிர் (ரஹ்) அவர்கள் கூறியதாவது: ஜாபிர் (ரலி) அவர்கள் (ஒரு முறை) ஒரே கீழாடையை அணிந்துகொண்டு, அதைத் தமது பிடரியின் பக்கமாக முடிச்சுப்போட்டுக்கொண்டவர்களாகத் தொழுதார்கள். அப்போது அவர்களின் (மற்ற) ஆடைகள் துணி மாட்டும் பலகையில் வைக்கப்பட்டிருந்தன. அவர்களிடம் ஒருவர், “ஒரே கீழாடையிலா தொழுகிறீர்கள்?” என்று கேட்டார். அதற்கு ஜாபிர் (ரலி) அவர்கள், “உம்மைப் போன்ற விவரமில்லாதவர்கள் என்னைப் பார்க்க வேண்டும் என்பதற்காகவே இவ்வாறு நான் செய்தேன்” என்று கூறிவிட்டு, “நபி (ஸல்) அவர்களது காலத்தில் எங்களில் யாருக்குத்தான் இரு ஆடைகள் இருந்தன?” என்று வினவினார்கள். அத்தியாயம் : 8
+முஹம்மத் பின் அல்முன்கதிர் (ரஹ்) அவர்கள் கூறியதாவது: ஜாபிர் (ரலி) அவர்கள் (ஒரு முறை) ஒரே கீழாடையை அணிந்துகொண்டு, அதைத் தமது பிடரியின் பக்கமாக முடிச்சுப்போட்டுக்கொண்டவர்களாகத் தொழுதார்கள். அப்போது அவர்களின் (மற்ற) ஆடைகள் துணி மாட்டும் பலகையில் வைக்கப்பட்டிருந்தன. அவர்களிடம் ஒருவர், “ஒரே கீழாடையிலா தொழுகிறீர்கள்?” என்று கேட்டார். அதற்கு ஜாபிர் (ரலி) அவர்கள், “உம்மைப் போன்ற விவரமில்லாதவர்கள் என்னைப் பார்க்க வேண்டும் என்பதற்காகவே இவ்வாறு நான் செய்தேன்” என்று கூறிவிட்டு, “நபி (ஸல்) அவர்களது காலத்தில் எங்களில் யாருக்குத்தான் இரு ஆடைகள் இருந்தன?” என்று வினவினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>352</td></tr><tr><td>Arabic No</td><td>352</td></tr><tr><td>Reference</td><td>Book 8 Hadith 4</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muhammed b. el-Münkedir'den şöyle nakledilmiştir; "Câbir, elbisesi askıda asılı durduğu halde, ensesi üzerinde bağladığı bir izar giyerek namaz kıldı. Bu durum karşısında biri çıkıp: 'Bir izarla namaz mı kılıyorsun?' diye sordu. Bu­nun üzerine o, şöyle dedi: Senin gibi ahmaklar beni (bu halde) görsün diye bunu (bilerek) yaptım... Nebi (Sallallahu aleyhi ve Sellem) döneminde hangimizin iki parça elbisesi vardı! Tekrar. 353, 361, 370
+Muhammed b. el-Münkedir'den şöyle nakledilmiştir; "Câbir, elbisesi askıda asılı durduğu halde, ensesi üzerinde bağladığı bir izar giyerek namaz kıldı. Bu durum karşısında biri çıkıp: 'Bir izarla namaz mı kılıyorsun?' diye sordu. Bu­nun üzerine o, şöyle dedi: Senin gibi ahmaklar beni (bu halde) görsün diye bunu (bilerek) yaptım... Nebi (Sallallahu aleyhi ve Sellem) döneminde hangimizin iki parça elbisesi vardı! Tekrar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>352</td></tr><tr><td>Arabic No</td><td>352</td></tr><tr><td>Reference</td><td>Book 8 Hadith 4</td></tr></tbody></table></div>
 

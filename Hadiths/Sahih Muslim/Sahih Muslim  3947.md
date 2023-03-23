@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৮৩৯, আন্তর্জাতিক নাম্বারঃ ১৫৪৮ ৩৮৩৯-(.../...) ইয়াহইয়া ইবনু হাবীব, আমর ইবনু আলী ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... ইয়া'লা ইবনু হাকীম (রাযিঃ) এর সানাদে উপরোক্ত হাদীসের অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৮০৩, ইসলামিক সেন্টার ৩৮০৩)
+ইয়াহইয়া ইবনু হাবীব, আমর ইবনু আলী ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... ইয়া'লা ইবনু হাকীম (রাযিঃ) এর সানাদে উপরোক্ত হাদীসের অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৮০৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3947</td></tr><tr><td>Arabic No</td><td>1548.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 146</td></tr></tbody></table></div>
 

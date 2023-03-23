@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৪৭৮। জাবির (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, খাইবারের যুদ্ধের দিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হারাম ঘোষণা করেছেন গৃহপালিত গাধা, খচ্চরের গোশত, প্রত্যেক শিকারী দাঁতওয়ালা হিংস্র পশু এবং পাঞ্জাধারী শিকারী পাখিকে (খাওয়াকে)। সহীহ, ইরওয়া (৮/১৩৮) আবূ হুরাইরা, ইরবায ইবনু সারিয়া ও ইবনু আব্বাস (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। জাবির (রাঃ) হতে বর্ণিত হাদীসটিকে আবূ ঈসা হাসান গারীব বলেছেন।
+। জাবির (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, খাইবারের যুদ্ধের দিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হারাম ঘোষণা করেছেন গৃহপালিত গাধা, খচ্চরের গোশত, প্রত্যেক শিকারী দাঁতওয়ালা হিংস্র পশু এবং পাঞ্জাধারী শিকারী পাখিকে (খাওয়াকে)। সহীহ, ইরওয়া (৮/১৩৮) আবূ হুরাইরা, ইরবায ইবনু সারিয়া ও ইবনু আব্বাস (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। জাবির (রাঃ) হতে বর্ণিত হাদীসটিকে আবূ ঈসা হাসান গারীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1478</td></tr><tr><td>Arabic No</td><td>1478</td></tr><tr><td>Reference</td><td>Book 18 Hadith 18</td></tr></tbody></table></div>
 

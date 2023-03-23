@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০৪৫। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাদের জন্য লাহদ এবং অন্যদের জন্য শাক। সহীহ, ইবনু মা-জাহ (১৫৫৪) জারীর ইবনু আবদুল্লাহ, আইশা, ইবনু উমার ও জাবির (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। ইবনু আব্বাসের হাদীসটিকে উল্লেখিত সনদ সূত্রে আবু ঈসা হাসান গারীব বলেছেন।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমাদের জন্য লাহদ এবং অন্যদের জন্য শাক। সহীহ, ইবনু মা-জাহ (১৫৫৪) জারীর ইবনু আবদুল্লাহ, আইশা, ইবনু উমার ও জাবির (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। ইবনু আব্বাসের হাদীসটিকে উল্লেখিত সনদ সূত্রে আবু ঈসা হাসান গারীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1045</td></tr><tr><td>Arabic No</td><td>1045</td></tr><tr><td>Reference</td><td>Book 10 Hadith 81</td></tr></tbody></table></div>
 

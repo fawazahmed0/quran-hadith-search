@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... আবূ হুরায়রা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন। তিনি সকাল বেলা এ দু'আ পড়তেনঃ হে আল্লাহ্‌! আমি তোমার নাম নিয়ে সকালে উপনীত হলাম এবং সন্ধ্যায় পৌছবো। আমি তোমার নাম নিয়ে জীবিত থাকি এবং তোমার নাম নিয়ে মারা যাব, আর তোমার কাছেই ফিরে যেতে হবে। আর তিনি সন্ধ্যার সময় বলতেনঃ ইয়া আল্লাহ্‌! আমি তোমার নাম নিয়ে সন্ধ্যায় উপনীত হয়েছি, তোমার নাম নিয়ে বেঁচে থাকি, তোমার নাম নিয়ে মারা যাব, আর তোমার কাছেই ফিরে যেতে হবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভোরে উপনীত হয়ে বলতেনঃ ‘‘হে আল্লাহ! আপনার অনুগ্রহে আমরা ভোরে উপনীত হই, সন্ধ্যায় উপনীত হই এবং বাঁচি ও মরি। আর আপনার দিকেই আমাদের প্রত্যাবর্তন।’’ আর তিনি যখন সন্ধ্যায় উপনীত হতেন তখন বলতেনঃ ‘‘হে আল্লাহ! আপনারই সাহায্যে আমরা সন্ধ্যায় উপনীত হই এবং সকালে উপনীত হই, আপনার নামেই আমরা বাঁচি ও মরি এবং আপনারই দিকে আমাদের প্রত্যাবর্তন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5068</td></tr><tr><td>Arabic No</td><td>5068</td></tr><tr><td>Reference</td><td>Book 43 Hadith 296</td></tr></tbody></table></div>
 

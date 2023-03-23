@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মিনহাল (রহ.) হতে বর্ণিত। তিনি বলেন, আমি বারা ইবনু ‘আযিব ও যায়দ ইবনু আরকাম (রাঃ)-কে সার্ফ সম্বন্ধে জিজ্ঞেস করলাম। তাঁরা উভয়ে (একে অপরের সম্পর্কে) বললেন, ইনি আমার চেয়ে উত্তম। এরপর উভয়েই বললেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাকীতে রূপার বিনিময়ে সোনা কেনা বেচা করতে বারণ করেছেন। (২০৬০, ২০৬১, মুসলিম ২২/১৬, হাঃ ১৫৮৯) (আধুনিক প্রকাশনীঃ ২০২৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2180</td></tr><tr><td>Arabic No</td><td>2180</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபுல்மின்ஹால் (ரஹ்) அவர்கள் கூறியதாவது: நான் பராஉ பின் ஆஸிப் (ரலி), ஸைத் பின் அர்கம் (ரலி) ஆகியோரிடம் நாணயமாற்று பற்றிக் கேட்டேன். அப்போது அவ்விருவரில் ஒவ்வொருவரும் (மற்றறவர் குறித்து) ‘‘இவர் என்னைவிடச் சிறந்தவர்” என்று சொல்லிக்கொண்டனர். பிறகு இருவருமே, ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கடனாக வெள்ளிக் குத் தங்கத்தை விற்பதைத் தடை செய்தார் கள்” என்று பதிலளித்தனர்.65 அத்தியாயம் : 34
+அபுல்மின்ஹால் (ரஹ்) அவர்கள் கூறியதாவது: நான் பராஉ பின் ஆஸிப் (ரலி), ஸைத் பின் அர்கம் (ரலி) ஆகியோரிடம் நாணயமாற்று பற்றிக் கேட்டேன். அப்போது அவ்விருவரில் ஒவ்வொருவரும் (மற்றறவர் குறித்து) ‘‘இவர் என்னைவிடச் சிறந்தவர்” என்று சொல்லிக்கொண்டனர். பிறகு இருவருமே, ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கடனாக வெள்ளிக் குத் தங்கத்தை விற்பதைத் தடை செய்தார் கள்” என்று பதிலளித்தனர்.65 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2180</td></tr><tr><td>Arabic No</td><td>2180</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

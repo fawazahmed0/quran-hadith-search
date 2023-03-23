@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬৪১। আবদুল্লাহ ইবনুল হারিস ইবনু জাযয়ি (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর চেয়ে বেশী মুচকি হাসি দিতে আমি আর কাউকে দেখিনি। সহীহঃ মুখতাসার শামায়িল (১৯৪), মিশকাত, তাহকীক সানী (৫৮২৯)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। ইয়াযীদ ইবনু আবী হাবীব হতে আব্দুল্লাহ ইবনুল হারিস ইবনু জাযইর বরাতে উপরিউক্ত হাদিসের মতোই বর্ণিত হয়েছে।
+। আবদুল্লাহ ইবনুল হারিস ইবনু জাযয়ি (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর চেয়ে বেশী মুচকি হাসি দিতে আমি আর কাউকে দেখিনি। সহীহঃ মুখতাসার শামায়িল (১৯৪), মিশকাত, তাহকীক সানী (৫৮২৯)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। ইয়াযীদ ইবনু আবী হাবীব হতে আব্দুল্লাহ ইবনুল হারিস ইবনু জাযইর বরাতে উপরিউক্ত হাদিসের মতোই বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3641</td></tr><tr><td>Arabic No</td><td>3641</td></tr><tr><td>Reference</td><td>Book 49 Hadith 37</td></tr></tbody></table></div>
 

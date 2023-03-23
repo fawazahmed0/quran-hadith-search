@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯২, আন্তর্জাতিক নাম্বারঃ ৫২ ৯২-(৮৮/...) আবদুল্লাহ ইবনু আবদুর রহমান আদ দারিনী (রহঃ) ..... যুহরী (রহঃ) থেকে উপরোক্ত সূত্রে অবিকল বর্ণনা করেন। তবে এতে এ বাক্য অতিরিক্ত রয়েছে "ঈমান ইয়ামানবাসীদের মধ্যে এবং হিকমাত ইয়ামানবাসীদের মধ্যে"। (ইসলামিক ফাউন্ডেশনঃ ৯৪, ইসলামিক সেন্টারঃ ৯৬)
+আবদুল্লাহ ইবনু আবদুর রহমান আদ দারিনী (রহঃ) ..... যুহরী (রহঃ) থেকে উপরোক্ত সূত্রে অবিকল বর্ণনা করেন। তবে এতে এ বাক্য অতিরিক্ত রয়েছে "ঈমান ইয়ামানবাসীদের মধ্যে এবং হিকমাত ইয়ামানবাসীদের মধ্যে"। (ইসলামিক ফাউন্ডেশনঃ ৯৪, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>188</td></tr><tr><td>Arabic No</td><td>52.07</td></tr><tr><td>Reference</td><td>Book 1 Hadith 95</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ The same hadith has been narrated by Zuhri with the same chain of authorities wi
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Abdullah b. Abdirrahman ed-Dârimî rivayet etti. (Dedi ki): Bize Ebu'I-Yemân haber verdi. (Dedi ki): Bize, Şuayb ez-Zühri'den bu isnad ile hadisi aynen rivayet etti ve ayrıca: "İman Yemenlidir, hikmet de Yemenlidir" ziyadesini ekledi. Diğer tahric: Buhari, 3308; Tuhfetu'l-Eşraf, 15160
+Bize Abdullah b. Abdirrahman ed-Dârimî rivayet etti. (Dedi ki): Bize Ebu'I-Yemân haber verdi. (Dedi ki): Bize, Şuayb ez-Zühri'den bu isnad ile hadisi aynen rivayet etti ve ayrıca: "İman Yemenlidir, hikmet de Yemenlidir" ziyadesini ekledi. Diğer tahric: Buhari, 3308; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>188</td></tr><tr><td>Arabic No</td><td>52.07</td></tr><tr><td>Reference</td><td>Book 1 Hadith 95</td></tr></tbody></table></div>
 

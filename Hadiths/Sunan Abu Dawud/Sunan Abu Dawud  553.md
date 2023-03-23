@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবনু যায়েদ ..... ইবনু উম্মে মাকতুম (রাঃ) হতে বর্ণিত। তিনি বলেন, ইয়া রাসূলুল্লাহ্ মদ্বীনা শহরে অনেক বিষাক্ত ও হিংস্র প্রাণী আছে যার দ্বারা আক্রান্ত হওয়ার আশংকা আছে এমতাবস্থায় জামাআতে হাযির হওয়ার ব্যাপারে আমার করণীয় কি? তিনি বলেনঃ তুমি কি আযানের হাইয়া আলাস-সালাহ্ ও হাইয়া আলাল-ফালাহ্ শুনতে পাও? আমি বলি হ্যাঁ। তিনি বলেনঃ তুমি তার জবাব দাও (জামাআতে হাযির হও)। (নাসাঈ, ইবনু মাজাহ)।
+। ইবনু উম্মে মাকতূম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, হে আল্লাহর রসূল! মাদীনাতে অনেক কীট-পতঙ্গ ও হিংস্র জন্তু রয়েছে (যদ্বারা আক্রান্ত হবার আশংকা আছে, এরূপ অবস্থায়ও কি মসজিদে জামা‘আতে হাযির হতে হবে?)। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তুমি কি হাইয়্যা ‘আলাস্-সলাহ্, হাইয়্যা ‘আলাল-ফালাহ শুনতে পাও? (শুনতে পেলে) অবশ্যই জামা‘আতে আসবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>553</td></tr><tr><td>Arabic No</td><td>553</td></tr><tr><td>Reference</td><td>Book 2 Hadith 163</td></tr></tbody></table></div>
 

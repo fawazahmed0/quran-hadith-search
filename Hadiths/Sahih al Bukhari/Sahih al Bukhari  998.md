@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিতরকে তোমাদের রাতের শেষ সালাত করবে। (মুসলিম ৬/২০, হাঃ ৭৫১ আহমাদ ৪৭১০, ৫৭৯৮) (আধুনিক প্রকাশনীঃ ৯৩৯, ইসলামিক ফাউন্ডেশনঃ ৯৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিতরকে তোমাদের রাতের শেষ সালাত করবে। (মুসলিম ৬/২০, হাঃ ৭৫১ আহমাদ ৪৭১০, ৫৭৯৮) (আধুনিক প্রকাশনীঃ ৯৩৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>998</td></tr><tr><td>Arabic No</td><td>998</td></tr><tr><td>Reference</td><td>Book 14 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இரவில் உங்களது இறுதித் தொழுகை யாக வித்ரை ஆக்கிக்கொள்ளுங்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 14
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இரவில் உங்களது இறுதித் தொழுகை யாக வித்ரை ஆக்கிக்கொள்ளுங்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>998</td></tr><tr><td>Arabic No</td><td>998</td></tr><tr><td>Reference</td><td>Book 14 Hadith 9</td></tr></tbody></table></div>
 

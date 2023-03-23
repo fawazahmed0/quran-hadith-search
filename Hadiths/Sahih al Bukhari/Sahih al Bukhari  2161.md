@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, গ্রামবাসীর পক্ষে শহরবাসীর বিক্রি করা হতে আমাদেরকে নিষেধ করা হয়েছে। (আধুনিক প্রকাশনীঃ ২০১২, ইসলামিক ফাউন্ডেশনঃ ২০২৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, গ্রামবাসীর পক্ষে শহরবাসীর বিক্রি করা হতে আমাদেরকে নিষেধ করা হয়েছে। (আধুনিক প্রকাশনীঃ ২০১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2161</td></tr><tr><td>Arabic No</td><td>2161</td></tr><tr><td>Reference</td><td>Book 34 Hadith 112</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: கிராமத்திலிருந்து (சரக்கு கொண்டு)வருபவருக்காக உள்ளூர்வாசி விற்றுக் கொடுக்கக் கூடாது என்று எங்களுக்குத் தடை விதிக்கப்பட்டிருந்தது. அத்தியாயம் : 34
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: கிராமத்திலிருந்து (சரக்கு கொண்டு)வருபவருக்காக உள்ளூர்வாசி விற்றுக் கொடுக்கக் கூடாது என்று எங்களுக்குத் தடை விதிக்கப்பட்டிருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2161</td></tr><tr><td>Arabic No</td><td>2161</td></tr><tr><td>Reference</td><td>Book 34 Hadith 112</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আবুল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আমার নামে নাম রেখো, কিন্তু আমার কুন্ইয়াতে কুন্ইয়াত রেখো না। [১১০] (আধুনিক প্রকাশনী- ৫৭৪৬, ইসলামিক ফাউন্ডেশন- ৫৬৪২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আবুল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আমার নামে নাম রেখো, কিন্তু আমার কুন্ইয়াতে কুন্ইয়াত রেখো না। [১১০] (আধুনিক প্রকাশনী- ৫৭৪৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>6188</td></tr><tr><td>Reference</td><td>Book 78 Hadith 212</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபுல்காசிம் (முஹம்மத் - ஸல்) அவர்கள் கூறினார்கள்: என் பெயரை நீங்கள் சூட்டிக்கொள்ளுங்கள். ஆனால், எனது (அபுல்காசிம் எனும்) குறிப்புப் பெயரை நீங்கள் சூட்டிக்கொள்ளாதீர்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.214 அத்தியாயம் : 78
+அபுல்காசிம் (முஹம்மத் - ஸல்) அவர்கள் கூறினார்கள்: என் பெயரை நீங்கள் சூட்டிக்கொள்ளுங்கள். ஆனால், எனது (அபுல்காசிம் எனும்) குறிப்புப் பெயரை நீங்கள் சூட்டிக்கொள்ளாதீர்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.214 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>6188</td></tr><tr><td>Reference</td><td>Book 78 Hadith 212</td></tr></tbody></table></div>
 

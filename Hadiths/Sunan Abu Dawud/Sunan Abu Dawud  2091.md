@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ..... যিহাক (রাঃ) হতে পূর্বোক্ত হাদীসের অর্থে হাদীস বর্ণিত হয়েছে। রাবী বলেন, অতঃপর আল্লাহ্ তা‘আলা এতদসম্পর্কে নসীহত প্রদান করেছেন।
+। উমার (রাযি.)-এর মুক্তদাস উবাইদুল্লাহ দাহহাক (রহ.) সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। বর্ণনাকারী বলেন, মহান আল্লাহ (এ আয়াতে) মানুষকে নসীহত করেছেন।[1] সহীহ। পূর্বেরটির (২০৯০) দ্বারা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2091</td></tr><tr><td>Arabic No</td><td>2091</td></tr><tr><td>Reference</td><td>Book 12 Hadith 46</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল কা‘নবী (রহঃ) ..... খাল্লাদ ইবনুস সায়িব আল আনসারী (রাঃ) থেকে তাঁর পিতার সূত্রে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, জিবরীল (আঃ) আমার নিকট এসে আমাকে নির্দেশ দিয়েছেন, আমি যেন আমার সাথী ও সাহাবীদের নির্দেশ দেই, তারা যেন উচ্চস্বরে তালবিয়া পাঠ করে।
+। খাল্লাদ ইবনুস সাঈব আল-আনসারী (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমার কাছে জিবরীল (আঃ) এসে নির্দেশ দিলেন, আমি যেন আমার সাহাবী এবং যারা আমার সাথে রয়েছে তাদেরকে আদেশ করি, তারা যেন তাদের ‘ইহলাল’ বা ‘তালবিয়া’ যে কোনো একটি উঁচু আওয়াজে পাঠ করে।'[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1814</td></tr><tr><td>Arabic No</td><td>1814</td></tr><tr><td>Reference</td><td>Book 11 Hadith 94</td></tr></tbody></table></div>
 

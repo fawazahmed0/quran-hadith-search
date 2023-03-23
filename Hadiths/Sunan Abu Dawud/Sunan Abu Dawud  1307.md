@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন বাশশার (রহঃ) ..... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ তোমরা তাহাজ্জুদের নামায পরিত্যাগ কর না। কেননা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম একে কোন সময় পরিত্যাগ করতেন না। যখন তিনি অসুস্থ হতেন অথবা আলস্য বোধ করতেন তখন তিনি তা বসে আদায় করতেন।
+। ‘আবদুল্লাহ ইবনু আবূ ক্বায়িস (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আয়িশাহ্ (রাঃ) বলেছেন, তুমি রাতের ক্বিয়াম ছেড়ে দিবে না। কারণ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কখনো একে পরিত্যাগ করতেন না। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) অসুস্থ হলে কিংবা অলসতা বোধ করলে বসে সালাত আদায় করতেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1307</td></tr><tr><td>Arabic No</td><td>1307</td></tr><tr><td>Reference</td><td>Book 5 Hadith 58</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৮৬৯, আন্তর্জাতিক নাম্বারঃ ১২২৬ ২৮৬৯-(১৭১/...) হাজ্জাজ ইবনু শাইর (রহঃ) ..... ইমরান ইবনু হুসায়ন (রাযিঃ) এর সূত্রে এ হাদীস বর্ণনা করেন। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তামাত্তু হাজ্জ আদায় করেছেন এবং আমরাও তার সঙ্গে তামাত্তু হাজ্জ (হজ্জ/হজ) করেছি। (ইসলামিক ফাউন্ডেশন ২৮৪৫, ইসলামীক সেন্টার ২৮৪৪)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2979</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

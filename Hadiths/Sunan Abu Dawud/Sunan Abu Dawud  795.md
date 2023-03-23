@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল-হাসান ইবনু আলী .... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ তোমাদের কেউ যখন নামাযে ইমামতি করে, তখন সে যেন নামায সংক্ষেপ করে। কেননা জামাআতে দূর্বল, রোগগ্রস্ত ও কর্মজীবি লোকেরাও শরীক হয়ে থাকে।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ সালাতে ইমামতি করলে যেন সালাত সংক্ষেপ করে। কারণ মুক্তাদীদের মধ্যে দুর্বল, বৃদ্ধ ও কর্মব্যস্ত লোকেরাও থাকে।[1] সহীহ : বুখারী ও মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>795</td></tr><tr><td>Arabic No</td><td>795</td></tr><tr><td>Reference</td><td>Book 2 Hadith 405</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Biriniz bir topluma namaz kıldırdığı zaman, hafif tutsun. Çünkü aralarında hasta, yaşlı ve ihtiyaç sahibi olan vardır." Diğer tahric: Beyhakî, Sünenu'l-kübra, III, 115-116
+Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Biriniz bir topluma namaz kıldırdığı zaman, hafif tutsun. Çünkü aralarında hasta, yaşlı ve ihtiyaç sahibi olan vardır." Diğer tahric: Beyhakî, Sünenu'l-kübra, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>795</td></tr><tr><td>Arabic No</td><td>795</td></tr><tr><td>Reference</td><td>Book 2 Hadith 405</td></tr></tbody></table></div>
 

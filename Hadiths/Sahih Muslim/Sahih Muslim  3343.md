@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩২৩৪, আন্তর্জাতিক নাম্বারঃ ১৩৭৬ ৩২৩৪-(.../...) আবূ কুরায়ব (রহঃ) ..... হিশাম ইবনু উরওয়াহ্ (রহঃ) থেকে উক্ত সানাদে অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩২০৯, ইসলামীক সেন্টার ৩২০৬)
+আবূ কুরায়ব (রহঃ) ..... হিশাম ইবনু উরওয়াহ্ (রহঃ) থেকে উক্ত সানাদে অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩২০৯, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3343</td></tr><tr><td>Arabic No</td><td>1376.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 547</td></tr></tbody></table></div>
 

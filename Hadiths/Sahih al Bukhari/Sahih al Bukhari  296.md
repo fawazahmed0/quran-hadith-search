@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। রওয়াহ (রহঃ) থেকে বর্ণিতঃ তাঁকে (‘উরওয়াহ্‌কে) প্রশ্ন করা হয়েছিল যে, ঋতুবতী স্ত্রী কি স্বামীর খিদমত করতে পারে? অথবা গোসল ফরয হওয়ার অবস্থায় কি স্ত্রী স্বামীর নিকটবর্তী হতে পারে? ‘উরওয়াহ (রহঃ) জবাব দিলেন, এ সবই আমার নিকট সহজ। এ ধরনের সকল মহিলাই স্বামীর খিদমত করতে পারে। এ ব্যাপারে কারো অসুবিধা থাকার কথা নয়। আমাকে ‘আয়িশা (রাঃ) বলেছেন যে, তিনি হায়েযের অবস্থায় আল্লাহ্‌র রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-এর চুল আঁচড়ে দিতেন। আর আল্লাহ্‌র রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) মু’তাফিক অবস্থায় মসজিদ হতে তাঁর (‘আয়িশার) হুজরার দিকে তাঁর নিকট মাথাটা বাড়িয়ে দিতেন। তখন তিনি মাথার চুল আঁচড়াতেন অথচ তিনি ছিলেন ঋতুবতী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>296</td></tr><tr><td>Arabic No</td><td>296</td></tr><tr><td>Reference</td><td>Book 6 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஹிஷாம் பின் உர்வா (ரஹ்) அவர்கள் கூறியதாவது: (என் தந்தை) உர்வா (ரஹ்) அவர்களிடம், “மாதவிடாய் ஏற்பட்டுள்ள ஒரு பெண் எனக்குப் பணிவிடை செய்யலாமா? அல்லது பெருந்துடக்குடைய (குளியல் கடமையான) மனைவி என்னை நெருங்கலாமா?” என்று கேட்கப்பட்டது. அதற்கு, “இதுவெல்லாம் என்னைப் பொறுத்தவரையில் இயல்பான விஷயம்தான். (மாதவிடாய் அல்லது பெருந்துடக்கு ஏற்பட்ட என் மனைவியர்) ஒவ்வொருவரும் எனக்குப் பணிவிடை செய்துகொண்டுதானிருக்கிறார்கள். அவ்வாறு செய்வதில் எவர்மீதும் எந்தக் குற்றமுமில்லை. ஆயிஷா (ரலி) அவர்கள் மாதவிடாய் ஏற்பட்டிருந்த நிலையில்(கூட) அல்லாஹ் வின் தூதர் (ஸல்) அவர்களுக்குத் தலை வாரிவிட்டுள்ளார்கள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (மஸ்ஜிதுந் நபவீ) பள்ளிவாச-ல் ‘இஃதிகாஃப்’ இருந்துகொண்டிருந்தார்கள். (பள்ளிவாசலை ஒட்டி அமைந்துள்ள) தமது அறையி-ருக்கும் ஆயிஷா (ரலி) அவர்களிடம் அவர்கள் தமது தலையை நீட்ட, மாதவிடாய் நிலையி-ருந்த ஆயிஷா (ரலி) அவர்கள் நபியவர் களுக்குத் தலைவாரி விடுவார்கள். இதை (என் சிறிய தாயார்) ஆயிஷா (ரலி) அவர்கள் எனக்குத் தெரிவித்தார்கள்” என்று உர்வா (ரஹ்) அவர்கள் கூறினார்கள். அத்தியாயம் : 6
+ஹிஷாம் பின் உர்வா (ரஹ்) அவர்கள் கூறியதாவது: (என் தந்தை) உர்வா (ரஹ்) அவர்களிடம், “மாதவிடாய் ஏற்பட்டுள்ள ஒரு பெண் எனக்குப் பணிவிடை செய்யலாமா? அல்லது பெருந்துடக்குடைய (குளியல் கடமையான) மனைவி என்னை நெருங்கலாமா?” என்று கேட்கப்பட்டது. அதற்கு, “இதுவெல்லாம் என்னைப் பொறுத்தவரையில் இயல்பான விஷயம்தான். (மாதவிடாய் அல்லது பெருந்துடக்கு ஏற்பட்ட என் மனைவியர்) ஒவ்வொருவரும் எனக்குப் பணிவிடை செய்துகொண்டுதானிருக்கிறார்கள். அவ்வாறு செய்வதில் எவர்மீதும் எந்தக் குற்றமுமில்லை. ஆயிஷா (ரலி) அவர்கள் மாதவிடாய் ஏற்பட்டிருந்த நிலையில்(கூட) அல்லாஹ் வின் தூதர் (ஸல்) அவர்களுக்குத் தலை வாரிவிட்டுள்ளார்கள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (மஸ்ஜிதுந் நபவீ) பள்ளிவாச-ல் ‘இஃதிகாஃப்’ இருந்துகொண்டிருந்தார்கள். (பள்ளிவாசலை ஒட்டி அமைந்துள்ள) தமது அறையி-ருக்கும் ஆயிஷா (ரலி) அவர்களிடம் அவர்கள் தமது தலையை நீட்ட, மாதவிடாய் நிலையி-ருந்த ஆயிஷா (ரலி) அவர்கள் நபியவர் களுக்குத் தலைவாரி விடுவார்கள். இதை (என் சிறிய தாயார்) ஆயிஷா (ரலி) அவர்கள் எனக்குத் தெரிவித்தார்கள்” என்று உர்வா (ரஹ்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>296</td></tr><tr><td>Arabic No</td><td>296</td></tr><tr><td>Reference</td><td>Book 6 Hadith 3</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hişâm İbn Yûsuf, ibn Cüreyc'in kendilerine şöyle bildirdiğini nakletmiştir: "Hişam İbn. Urve'nin bize haber verdiğine göre kendisine biri gelip 'Hayızlı kadın bana hizmet edebilir mi veya cünüp bir kadın bana yakın olabilir mi?' diye sordu. Urue 'Bunlar benim için normal şeyler. Hayızlı ve cünüp kadınlar bana hizmet eder. Hizmet konusunda bu iki durumun bir sakıncası yoktur. Aişe r.anha'nın bana haber verdiğine göre kendisi, hayızlıyken mescitte itikafta bulunan Nebi (Sallallahu aleyhi ve Sellem)'in saçlarını tararmış. Allah Resulü (Sallallahu aleyhi ve Sellem) başını mescidden Aişe'nin odasına doğru uzatır ona yaklaştırırmış, o da hayız olmasına rağmen odasından onun saçını tararmış' diye cevap verdi. Tekrar: 296, 301, 2028, 2029, 2031, 2046, 2925
+Hişâm İbn Yûsuf, ibn Cüreyc'in kendilerine şöyle bildirdiğini nakletmiştir: "Hişam İbn. Urve'nin bize haber verdiğine göre kendisine biri gelip 'Hayızlı kadın bana hizmet edebilir mi veya cünüp bir kadın bana yakın olabilir mi?' diye sordu. Urue 'Bunlar benim için normal şeyler. Hayızlı ve cünüp kadınlar bana hizmet eder. Hizmet konusunda bu iki durumun bir sakıncası yoktur. Aişe r.anha'nın bana haber verdiğine göre kendisi, hayızlıyken mescitte itikafta bulunan Nebi (Sallallahu aleyhi ve Sellem)'in saçlarını tararmış. Allah Resulü (Sallallahu aleyhi ve Sellem) başını mescidden Aişe'nin odasına doğru uzatır ona yaklaştırırmış, o da hayız olmasına rağmen odasından onun saçını tararmış' diye cevap verdi. Tekrar: 296, 301
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>296</td></tr><tr><td>Arabic No</td><td>296</td></tr><tr><td>Reference</td><td>Book 6 Hadith 3</td></tr></tbody></table></div>
 

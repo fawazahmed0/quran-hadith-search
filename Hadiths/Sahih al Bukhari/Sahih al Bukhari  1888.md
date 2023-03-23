@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার ঘর ও মিম্বরের মধ্যবর্তী স্থানটি হল জান্নাতের বাগানের একটি বাগান, আর আমার মিম্বরটি হল আমার হাউয (কাউসার)-এর উপর অবস্থিত। (১১৯৬) (আধুনিক প্রকাশনীঃ ১৭৫৩, ইসলামিক ফাউন্ডেশনঃ ১৭৬৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার ঘর ও মিম্বরের মধ্যবর্তী স্থানটি হল জান্নাতের বাগানের একটি বাগান, আর আমার মিম্বরটি হল আমার হাউয (কাউসার)-এর উপর অবস্থিত। (১১৯৬) (আধুনিক প্রকাশনীঃ ১৭৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1888</td></tr><tr><td>Arabic No</td><td>1888</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Bab. Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari ['Ubaidullah bi
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: எனது இல்லத்திற்கும் எனது சொற் பொழிவுமேடை (மிம்பரு)க்கும் இடைப் பட்ட பகுதியானது, சொர்க்கத்துப் பூஞ்சோலைகளில் ஒரு பூஞ்சோலையாகும். எனது சொற்பொழிவு மேடையானது, எனது (அல்கவ்ஸர்) தடாகத்தின் மீது அமைந்துள்ளது.10 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 29
+நபி (ஸல்) அவர்கள் கூறினார்கள்: எனது இல்லத்திற்கும் எனது சொற் பொழிவுமேடை (மிம்பரு)க்கும் இடைப் பட்ட பகுதியானது, சொர்க்கத்துப் பூஞ்சோலைகளில் ஒரு பூஞ்சோலையாகும். எனது சொற்பொழிவு மேடையானது, எனது (அல்கவ்ஸர்) தடாகத்தின் மீது அமைந்துள்ளது.10 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1888</td></tr><tr><td>Arabic No</td><td>1888</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
 

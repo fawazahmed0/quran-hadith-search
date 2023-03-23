@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আন-নুফায়লী (রহঃ) ..... মুআয্‌ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম তাঁকে য়ামনে প্রেরণের সময় এইরূপ নির্দেশ দেন যে, প্রতি ত্রিশটি বকরীর জন্য একটি বকরী যাকাত হিসাবে গ্রহণ করবে। আর প্রতি চল্লিশটি বকরীর জন্য একটি দুই বছর বয়সী বকরী যাকাত হিসাবে গ্রহণ করবে এবং যিম্মী হলে প্রত্যেক প্রাপ্ত বয়ষ্ক ব্যক্তির নিকট হতে (কর হিসাবে) এক দীনার অথবা তার সমপরিমাণ মূল্যের কাপড়, যা য়ামনে তৈরী হয়, গ্রহণ করবে। (তিরমিযী, নাসাঈ, ইব্‌ন মাজা)।
+। মু‘আয ইবনু জাবাল (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে ইয়ামান দেশে পাঠানোর সময় এ নির্দেশ দেন যে, গরুর (যাকাত) প্রতি ত্রিশটির জন্য পূর্ণ এক বছর বয়সী একটি এড়ে বাছুর বা বকনা বাছুর এবং প্রত্যেক প্রাপ্ত বয়স্ক যিম্মী থেকে এক দীনার বা এর সম-মূল্যের কাপড়- যা ইয়ামেনে তৈরি হয় আদায় করতে হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1576</td></tr><tr><td>Arabic No</td><td>1576</td></tr><tr><td>Reference</td><td>Book 9 Hadith 21</td></tr></tbody></table></div>
 

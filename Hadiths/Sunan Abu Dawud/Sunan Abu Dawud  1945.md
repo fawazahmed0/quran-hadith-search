@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুআম্মাল ইবন আল ফযল (রহঃ) .... ইবন উমর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিদায় হজ্জের সময় নহরের দিন তিনটি কংকর নিক্ষেপের স্থানে অবস্থান করেন। তখন তিনি জিজ্ঞাসা করেন, এটি কোন দিন? তখন জবাবে তারা (সাহাবীগণ) বলেন, এটি নহরের দিন। তখন তিনি বলেন, এটি হা্জ্জুল আকবারের (বড় হজ্জের) দিন।
+। ইবনু ‘উমার (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (যিলহাজের দশ তারিখ) নহরের দিন তিনটি জামরার মধ্যস্থলে দাঁড়িয়ে জিজ্ঞেস করেনঃ এটি কোন্ দিন? লোকেরা বললো, আজ কুরবানীর দিন। তিনি বললেন, আজ হজের (হজ্জের) বড় দিন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1945</td></tr><tr><td>Arabic No</td><td>1945</td></tr><tr><td>Reference</td><td>Book 11 Hadith 225</td></tr></tbody></table></div>
 

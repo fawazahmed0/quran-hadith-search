@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উবাদাহ ইবনু সমিত (রাযি.) হতে বর্ণিত যে, রাসুলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি সালাতে সূরাহ্ আল-ফাতিহা পড়ল না তার সালাত হলো না।* (মুসলিম ৪/১১, হাঃ ৩৯৪, আহমাদ ২২৮০৭) (আধুনিক প্রকাশনীঃ ৭১২, ইসলামিক ফাউন্ডেশনঃ ৭২০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উবাদাহ ইবনু সমিত (রাযি.) হতে বর্ণিত যে, রাসুলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি সালাতে সূরাহ্ আল-ফাতিহা পড়ল না তার সালাত হলো না।* (মুসলিম ৪/১১, হাঃ ৩৯৪, আহমাদ ২২৮০৭) (আধুনিক প্রকাশনীঃ ৭১২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>756</td></tr><tr><td>Arabic No</td><td>756</td></tr><tr><td>Reference</td><td>Book 10 Hadith 150</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Adullah] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனின் தோற்றுவாய் (எனும் ‘அல்ஃபாத்திஹா’ அத்தியாயத்தை) ஓதாத வருக்குத் தொழுகையே கிடையாது.48 இதை உபாதா பின் அஸ்ஸாமித் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனின் தோற்றுவாய் (எனும் ‘அல்ஃபாத்திஹா’ அத்தியாயத்தை) ஓதாத வருக்குத் தொழுகையே கிடையாது.48 இதை உபாதா பின் அஸ்ஸாமித் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>756</td></tr><tr><td>Arabic No</td><td>756</td></tr><tr><td>Reference</td><td>Book 10 Hadith 150</td></tr></tbody></table></div>
 

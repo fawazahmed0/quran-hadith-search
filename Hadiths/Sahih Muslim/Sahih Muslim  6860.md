@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৭৫৩, আন্তর্জাতিক নাম্বারঃ ২৭০২ ৬৭৫৩-(.../...) উবাইদুল্লাহ ইবনু মুআয ও ইবনুল মুসান্না (রহঃ) ..... শু’বাহ (রহঃ) এর সানাদে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৬১৪, ইসলামিক সেন্টার ৬৬৬৮)
+উবাইদুল্লাহ ইবনু মুআয ও ইবনুল মুসান্না (রহঃ) ..... শু’বাহ (রহঃ) এর সানাদে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৬১৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6860</td></tr><tr><td>Arabic No</td><td>2702.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 54</td></tr></tbody></table></div>
 

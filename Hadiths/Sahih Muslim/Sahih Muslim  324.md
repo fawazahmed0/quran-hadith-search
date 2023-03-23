@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২২৩, আন্তর্জাতিক নাম্বারঃ ১২৩ ২২৩-(১৯৫/...) হাসান আল হুলওয়ানী ও আবদ ইবনু হুমায়দ (রহঃ) ..... হাকিম ইবনু হিযাম (রাযিঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে জিজ্ঞেস করলাম, ইয়া রাসূলাল্লাহ! সদাকাহ, দাসমুক্তি ও আত্মীয়-স্বজনের সাথে সুসম্পর্ক রাখা ইত্যাদি যে সব নেক কাজ জাহিলী যুগে আমি করতাম তার কি কোন প্রতিদান পাব? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম উত্তরে বললেন, তোমার পূর্বকৃত সৎকর্মের বিনিময়ে তুমি ইসলাম গ্রহণের সৌভাগ্য লাভ করেছ। (ইসলামিক ফাউন্ডেশনঃ ২২৪, ইসলামিক সেন্টারঃ ২৩২)
+হাসান আল হুলওয়ানী ও আবদ ইবনু হুমায়দ (রহঃ) ..... হাকিম ইবনু হিযাম (রাযিঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে জিজ্ঞেস করলাম, ইয়া রাসূলাল্লাহ! সদাকাহ, দাসমুক্তি ও আত্মীয়-স্বজনের সাথে সুসম্পর্ক রাখা ইত্যাদি যে সব নেক কাজ জাহিলী যুগে আমি করতাম তার কি কোন প্রতিদান পাব? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম উত্তরে বললেন, তোমার পূর্বকৃত সৎকর্মের বিনিময়ে তুমি ইসলাম গ্রহণের সৌভাগ্য লাভ করেছ। (ইসলামিক ফাউন্ডেশনঃ ২২৪, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>324</td></tr><tr><td>Arabic No</td><td>123.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 231</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Hasan al-Hulwani] dan [Abd bin Humaid], [al-
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Hasan el-Hulvani ve Abd b. Humeyd tahdis etti. -el-Hulvani bize, Abd bana dedi- Yakub -ki o İbn İbrahim b. Sa'd'dır- tahdis etti. Bize babam Salih'ten tahdis etti. O İbn Şihab'dan: Bana Urve b. Zubeyr'in tahdis ettiğine göre Hakım b. Hizam kendisine şunu haber vermiştir: O Resulullah (Sallallahu aleyhi ve Sellem)'e sordu: Ey Allah'ın Resulü, cahiliye döneminde iken ibadet kastı ile yaptığım sadaka vermek, köle azad etmek yahut akrabalık bağını gözetmek gibi hususlar hakkında ne dersin? Bunlarda (bana ecir var mıdır?) Resulullah (Sallallahu aleyhi ve Sellem): "Sen geçmişte yapmış olduğun hayırlarla Müslüman oldun" buyurdu. Diğer tahric: Buhari, 1369, 2107, 2401, 5646; Tuhfetu'I-Eşraf, 3432
+Bize Hasan el-Hulvani ve Abd b. Humeyd tahdis etti. -el-Hulvani bize, Abd bana dedi- Yakub -ki o İbn İbrahim b. Sa'd'dır- tahdis etti. Bize babam Salih'ten tahdis etti. O İbn Şihab'dan: Bana Urve b. Zubeyr'in tahdis ettiğine göre Hakım b. Hizam kendisine şunu haber vermiştir: O Resulullah (Sallallahu aleyhi ve Sellem)'e sordu: Ey Allah'ın Resulü, cahiliye döneminde iken ibadet kastı ile yaptığım sadaka vermek, köle azad etmek yahut akrabalık bağını gözetmek gibi hususlar hakkında ne dersin? Bunlarda (bana ecir var mıdır?) Resulullah (Sallallahu aleyhi ve Sellem): "Sen geçmişte yapmış olduğun hayırlarla Müslüman oldun" buyurdu. Diğer tahric: Buhari, 1369, 2107, 2401, 5646; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>324</td></tr><tr><td>Arabic No</td><td>123.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 231</td></tr></tbody></table></div>
 

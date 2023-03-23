@@ -16,7 +16,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ اسْتَعِيذُوا بِاللَّهِ مِنْ عَذَابِ جَهَنَّمَ اسْتَعِيذُوا بِاللَّهِ مِنْ عَذَابِ الْقَبْرِ اسْتَعِيذُوا بِاللَّهِ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ وَاسْتَعِيذُوا بِاللَّهِ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ ‏"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -76,7 +76,7 @@
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو كريب، حدثنا ابو معاوية، عن الاعمش، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " استعيذوا بالله من عذاب جهنم استعيذوا بالله من عذاب القبر استعيذوا بالله من فتنة المسيح الدجال واستعيذوا بالله من فتنة المحيا والممات " . قال ابو عيسى هذا حديث حسن صحيح
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -138,7 +138,7 @@
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -154,7 +154,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬০৪। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আল্লাহ তা'আলার নিকটে জাহান্নামের শাস্তি থেকে আশ্রয় প্রার্থনা কর, আল্লাহ তা'আলার নিকট তোমরা কবরের শাস্তি হতে মুক্তি কামনা কর, তোমরা আল্লাহ তা'আলার কাছে মসীহ দাজ্জালের যুলম হতে মুক্তি চাও, তোমরা আল্লাহ তা'আলার নিকট জীবন ও মৃত্যুর বিপর্যয় হতে আশ্রয় প্রার্থনা কর। সনদ সহীহঃ মুসলিম (২/৯৩), তাশাহুদের বর্ণনার সাথে আরেক বর্ণনায় শেষ তাশাহুদে" এই কথা উল্লেখ আছে। সিফাতুস সালাত (১৬৩)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604.04</td></tr><tr><td>Arabic No</td><td>3604.04</td></tr><tr><td>Reference</td><td>Book 48 Hadith 238</td></tr></tbody></table></div>
 
@@ -200,7 +200,7 @@
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah narrated that the Messenger of Allah (ﷺ) said:“Seek refuge with Allah from the punishment of Hell, and seek refuge in Allah from the punishment of the grave. Seek refuge in Allah from the trial of Al-Masihid-Dajjal, and seek refuge in Allah from the trials of life and death.”
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -262,7 +262,7 @@ Thabit Al-Bunani narrated that the Messenger of Allah (ﷺ) said:“Let one of y
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Berlindunglah kalian kepada Allah dari siksa neraka dan berlindunglah kalian kepada Allah dari siksa kubur. Berlindunglah kalian kepada Allah dari fitnah al-Masihud Dajjal, berlindunglah kalian kepada Allah dari fitnah kehidupan serta fitnah kematian." Abu Isa berkata; "Hadits ini derajatnya hasan shahih
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -324,7 +324,7 @@ Telah menceritakan kepada kami [Shalih bin Abdullah] telah mengabarkan kepada ka
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: “Cehennem azabından Allah’a sığınınız. Kabir azabından Allah’a sığınınız. Mesih Deccâl’ın fitnesinden Allah’a sığınınız. Ölüm fitnesinden ve hayatta olan insanların fitnesinden Allah’a sığınınız.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis hasen sahihtir
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
@@ -386,7 +386,7 @@ Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah Sallallahu Aleyhi ve Sell
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: «استعيذوا بالله من عذاب جهنم واستعيذوا بالله من عذاب القبر استعيذوا بالله من فتنة المسيح الدجال واستعيذوا بالله من فتنة المحيا والممات» ”اللہ سے پناہ مانگو جہنم کے عذاب سے، اللہ سے پناہ مانگو قبر کے عذاب سے، اللہ سے پناہ مانگو مسیح دجال کے فتنے سے اور اللہ سے پناہ مانگو زندگی اور موت کے فتنے سے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔
 </div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>3604</td></tr><tr><td>Reference</td><td>Book 48 Hadith 235</td></tr></tbody></table></div>
 
 
 <div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>

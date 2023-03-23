@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল হুসাইন ইবনু জুনায়দ দামেগালী (রহঃ) ..... উম্মুল মু‘মিনীন আয়েশা (রাঃ) বলেন, আমরা রাসূল্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে (মদীনা হতে) মক্কার উদ্দেশ্যে রওনা হতাম। ইহরামের সময় আমরা এক ধরনের (অল্প) সুগন্ধিযুক্ত দ্রব্য ব্যবহার করতাম। অতঃপর আমাদের কেউ ঋতুমতী হয়ে পড়লে এই সুগন্ধি বস্তু তার চেহারায় ব্যবহার করতেন। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা দেখা সত্বেও তাকে এরূপ করতে নিষেধ করতেন না।
+। ‘আয়িশা বিনতু তালহা (রহ.) সূত্রে বর্ণিত। উম্মুল মু‘মিনীন ‘আয়িশাহ (রাঃ) তাকে বলেছেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে (মদীনা থেকে) মক্কায় সফর করেছি এবং ইহরামের সময় আমরা আমাদের পরিধেয় বস্ত্রে উত্তম সুগন্ধি মেখেছি। আমাদের কেউ ঘর্মাক্ত হলে তা মুখমন্ডল বেয়ে পড়তো, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা দেখতেন কিন্তু তা ব্যবহার করতে নিষেধ করতেন না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1830</td></tr><tr><td>Arabic No</td><td>1830</td></tr><tr><td>Reference</td><td>Book 11 Hadith 110</td></tr></tbody></table></div>
 

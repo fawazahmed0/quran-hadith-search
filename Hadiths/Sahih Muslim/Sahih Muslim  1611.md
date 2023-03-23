@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৪৯৬, আন্তর্জাতিক নাম্বারঃ ৭০০ ১৪৯৬-(৩২/...) আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। উটের মুখ যে দিকেই থাকুক না কেন রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার উটের পিঠে বসেই নফল সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৪৮১, ইসলামীক সেন্টার ১৪৮৯)
+আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। উটের মুখ যে দিকেই থাকুক না কেন রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার উটের পিঠে বসেই নফল সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৪৮১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1611</td></tr><tr><td>Arabic No</td><td>700.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 42</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது வாகனத்தில் அமர்ந்து, அது செல்லும் திசையை நோக்கித் தொழுதுவந்தார்கள். அத்தியாயம் : 6
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது வாகனத்தில் அமர்ந்து, அது செல்லும் திசையை நோக்கித் தொழுதுவந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1611</td></tr><tr><td>Arabic No</td><td>700.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 42</td></tr></tbody></table></div>
 

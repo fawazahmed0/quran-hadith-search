@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৮১২, আন্তর্জাতিক নাম্বারঃ ২৭২৮ ৬৮১২-(.../….) আহমাদ ইবনু সাঈদ আদ দারিমী (রহঃ) ..... সুহায়ল (রহঃ) থেকে এ সানাদে হুবহু হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৬৭০, ইসলামিক সেন্টার ৬৭২৪)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6919</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

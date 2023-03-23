@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবন মুহাম্মদ ইবন ইয়াহ্ইয়া ..... ইবন সালিম আল্-মুকাফফা (রহঃ) হতে বর্ণিত। তিনি বলেন, আমি ইবন উমার (রাঃ)-কে এক মুষ্টির অধিক দাঁড়ি কর্তন করতে দেখেছি। এরপর তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইফতারের সময় বলতেন, তৃষ্ণা নিবারিত হয়েছে, শিরা-উপশিরা পরিতৃপ্ত হয়েছে এবং আল্লাহ্ চাহেতু বিনিময় নির্ধারিত হয়েছে।
+। মারওয়ান ইবনু সালিম আল-মুকাফফা‘ (রহ.) বলেন, আমি ইবনু উমার (রাযি.)-কে তার দাড়ি মুষ্টিবদ্ধ করে ধরে মুষ্টির বাড়তি অংশ কেটে ফেলতে দেখেছি। আর তিনি বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইফতারের সময় বলতেনঃ ‘পিপাসা দূরীভূত হয়েছে, শিরা-উপশিরাগুলো সিক্ত হয়েছে এবং ইনশাআল্লাহ প্রতিদানও নির্ধারিত হয়েছে।’[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2357</td></tr><tr><td>Arabic No</td><td>2357</td></tr><tr><td>Reference</td><td>Book 14 Hadith 45</td></tr></tbody></table></div>
 

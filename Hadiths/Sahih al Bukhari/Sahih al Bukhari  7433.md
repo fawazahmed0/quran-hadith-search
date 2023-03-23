@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ যার (রাঃ) হতে বর্ণিত। তিনি বলেছেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করেছি, ‘‘আর সূর্য ভ্রমণ করে তার নির্দিষ্ট গন্তব্যের দিকে’’ আল্লাহর এ কথা সম্পর্কে। তিনি বলেছেনঃ সূর্যের নির্দিষ্ট গন্তব্য হল আরশের নিচে। [৩১৯৯] (আধুনিক প্রকাশনী- ৬৯১৬, ইসলামিক ফাউন্ডেশন- ৬৯২৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ যার (রাঃ) হতে বর্ণিত। তিনি বলেছেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করেছি, ‘‘আর সূর্য ভ্রমণ করে তার নির্দিষ্ট গন্তব্যের দিকে’’ আল্লাহর এ কথা সম্পর্কে। তিনি বলেছেনঃ সূর্যের নির্দিষ্ট গন্তব্য হল আরশের নিচে। [৩১৯৯] (আধুনিক প্রকাশনী- ৬৯১৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7433</td></tr><tr><td>Arabic No</td><td>7433</td></tr><tr><td>Reference</td><td>Book 97 Hadith 60</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூதர் அல்ஃகிஃபாரீ (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் “சூரியன், தான் நிலைகொள்ளும் இடத்தை நோக்கிச் சென்றுகொண்டிருக்கின்றது” எனும் (36:38 ஆவது) இறைவசனத்தைப் பற்றிக் கேட்டேன். அதற்கு அவர்கள், “அது நிலைகொள்ளும் இடம் இறை அரியணைக்குக் கீழே உள்ளது” என்று சொன்னார்கள்.73 அத்தியாயம் : 97
+அபூதர் அல்ஃகிஃபாரீ (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் “சூரியன், தான் நிலைகொள்ளும் இடத்தை நோக்கிச் சென்றுகொண்டிருக்கின்றது” எனும் (36:38 ஆவது) இறைவசனத்தைப் பற்றிக் கேட்டேன். அதற்கு அவர்கள், “அது நிலைகொள்ளும் இடம் இறை அரியணைக்குக் கீழே உள்ளது” என்று சொன்னார்கள்.73 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7433</td></tr><tr><td>Arabic No</td><td>7433</td></tr><tr><td>Reference</td><td>Book 97 Hadith 60</td></tr></tbody></table></div>
 

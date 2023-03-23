@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আর আমি এ কথাও বলি না যে কোন ব্যক্তি ইউনুস ইবনু মাত্তার চেয়ে বেশি মর্যাদার অধিকারী। (৩৪১৬, ৪৬০৪, ৪৬৩১, ৪৮০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3415</td></tr><tr><td>Arabic No</td><td>3415</td></tr><tr><td>Reference</td><td>Book 60 Hadith 87</td></tr></tbody></table></div>
 

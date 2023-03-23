@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হারূন ইবন যায়ীদ (রহঃ) ... ওয়ায়িল ইবন হুজুর (রাঃ) থেকে বর্ণিত যে, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একজন যাকাত উসূলকারীকে পাঠালেন। তিনি এক ব্যক্তির কাছে গেলে সে তাকে একটি উটের দুর্বল বাচ্চা দিল। (বাচ্চাটি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট নিয়ে আসলে) রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমি আল্লাহ এবং তদীয় রাসূল এর পক্ষ থেকে যাকাত উসুলকারীকে পাঠালাম, অথচ অমুক ব্যক্তি তাকে একটি উটের দুর্বল বাচ্চা দিয়ে দিল। হে আল্লাহ; তুমি তাকে এবং তার উটে কোন বরকত দিও না। এ সংবাদ তার কাছে পৌছলে সে একটি উত্তম উটনী নিয়ে আসল এবং বললঃ আমি আল্লাহ এবং তদীয় রাসূল এর কাছে তওবা করছি। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আল্লাহ তুমি তাকে এবং উটের বরকত দান কর।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2458</td></tr><tr><td>Arabic No</td><td>2458</td></tr><tr><td>Reference</td><td>Book 23 Hadith 24</td></tr></tbody></table></div>
 

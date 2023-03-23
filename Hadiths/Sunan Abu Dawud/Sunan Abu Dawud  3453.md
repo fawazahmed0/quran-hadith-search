@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাসান ইবন সাব্বাহ (রহঃ) .... ইয়াহইয়া (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ সুফইয়ান এরূপ ব্যাখ্যা অপসন্দ করতেন যে, সে আমাদের দলভুক্ত নয়, বরং সে আমাদের মত নয়।
+। ইয়াহইয়া (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, সুফিয়ান সাওরী (রাঃ) ‘লাইসা মিন্না’-এর ব্যাখ্যা ‘আমাদের মতো নয়’ করাকে অপছন্দ করতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3453</td></tr><tr><td>Arabic No</td><td>3453</td></tr><tr><td>Reference</td><td>Book 24 Hadith 38</td></tr></tbody></table></div>
 

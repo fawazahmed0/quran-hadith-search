@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(إِذْ هَمَّتْ طَّآئِفَتَانِ مِنْكُمْ أَنْ تَفْشَلَا وَاللهُ وَلِيُّهُمَا وَعَلَى اللهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُوْنَ) যখন তোমাদের মধ্যে দু’দলের সাহস হারাবার উপক্রম হয়েছিল এবং আল্লাহ উভয়ের সহায়ক ছিলেন। আল্লাহর প্রতিই যেন মু’মিনগণ নির্ভর করে। (সূরাহ আলে ‘ইমরান ৩/১২২) ৪০৫১. জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, إِذْ هَمَّتْ طَائِفَتَانِ مِنْكُمْ أَنْ تَفْشَلَا ‘‘যখন তোমাদের মধ্যে দু’দলের সাহস হারাবার উপক্রম হয়েছিল’’ আয়াতটি আমাদের সম্পর্কে তথা বনূ সালিমাহ এবং বনু হারিসাহ সম্পর্কে অবতীর্ণ হয়েছে। আয়াতটি অবতীর্ণ না হোক তা আমি চাইনি। কেননা এ আয়াতেই আল্লাহ বলেছেন, ‘‘আল্লাহ উভয় দলেরই সাহায্যকারী’’। [৪৫৫৮; মুসলিম ৪৪/৪৩, হাঃ ২৫০৫] (আধুনিক প্রকাশনীঃ ৩৭৪৯, ইসলামিক ফাউন্ডেশনঃ ৩৭৫২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(إِذْ هَمَّتْ طَّآئِفَتَانِ مِنْكُمْ أَنْ تَفْشَلَا وَاللهُ وَلِيُّهُمَا وَعَلَى اللهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُوْنَ) যখন তোমাদের মধ্যে দু’দলের সাহস হারাবার উপক্রম হয়েছিল এবং আল্লাহ উভয়ের সহায়ক ছিলেন। আল্লাহর প্রতিই যেন মু’মিনগণ নির্ভর করে। (সূরাহ আলে ‘ইমরান ৩/১২২) ৪০৫১. জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, إِذْ هَمَّتْ طَائِفَتَانِ مِنْكُمْ أَنْ تَفْشَلَا ‘‘যখন তোমাদের মধ্যে দু’দলের সাহস হারাবার উপক্রম হয়েছিল’’ আয়াতটি আমাদের সম্পর্কে তথা বনূ সালিমাহ এবং বনু হারিসাহ সম্পর্কে অবতীর্ণ হয়েছে। আয়াতটি অবতীর্ণ না হোক তা আমি চাইনি। কেননা এ আয়াতেই আল্লাহ বলেছেন, ‘‘আল্লাহ উভয় দলেরই সাহায্যকারী’’। [৪৫৫৮; মুসলিম ৪৪/৪৩, হাঃ ২৫০৫] (আধুনিক প্রকাশনীঃ ৩৭৪৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 64 Hadith 97</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jabir:This Verse: "When two of your parties almost Decided to fall away..." was revealed in our connection, i.e. Bani Salama and Bani Haritha and I would not have liked that, if it was not revealed, for Allah said:-- But Allah was their Protector.....(3.122)
+Narrated Jabir:This Verse: "When two of your parties almost Decided to fall away..." was revealed in our connection, i.e. Bani Salama and Bani Haritha and I would not have liked that, if it was not revealed, for Allah said:-- But Allah was their Protector
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 64 Hadith 97</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] dari [Ibnu Uyainah] dari ['A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: “அப்போது உங்களில் இரு குழுவினர் தைரியமிழந்து (திரும்பி)விட நினைத்தனர்” என்னும் இந்த (3:122ஆம்) இறைவசனம், பனூ சலிமா மற்றும் பனூ ஹாரிஸா கூட்டத்தாராகிய எங்களைக் குறித்தே அருளப்பெற்றது. மேலும், இந்த வசனம் இறங்காமலிருந்திருக்கக் கூடாதா என்று நான் ஆசைப்படமாட்டேன். (ஏனெனில்) அல்லாஹ், “அவ்விரு பிரிவினருக்கும் அல்லாஹ்வே பாதுகாவலனாக இருந்தான்” என்று (எங்களை அவ்வசனத்தில் மேன்மைப்படுத்திக்) கூறுகின்றான்.120 அத்தியாயம் : 64
+ஜாபிர் (ரலி) அவர்கள் கூறிய தாவது: “அப்போது உங்களில் இரு குழுவினர் தைரியமிழந்து (திரும்பி)விட நினைத்தனர்” என்னும் இந்த (3:122ஆம்) இறைவசனம், பனூ சலிமா மற்றும் பனூ ஹாரிஸா கூட்டத்தாராகிய எங்களைக் குறித்தே அருளப்பெற்றது. மேலும், இந்த வசனம் இறங்காமலிருந்திருக்கக் கூடாதா என்று நான் ஆசைப்படமாட்டேன். (ஏனெனில்) அல்லாஹ், “அவ்விரு பிரிவினருக்கும் அல்லாஹ்வே பாதுகாவலனாக இருந்தான்” என்று (எங்களை அவ்வசனத்தில் மேன்மைப்படுத்திக்) கூறுகின்றான்.120 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 64 Hadith 97</td></tr></tbody></table></div>
 

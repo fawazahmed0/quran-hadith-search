@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্রাহীম ইবনু মূসা .... আমর ইবনু হুরায়েছ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি যেন শুনতে পাচ্ছি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের ফজরের নামাযে সূরা (তাকবীর) পাঠ করার শব্দ। (ইবনু মাজাহ, মুসলিম)।
+। ‘আমর ইবনু হুরাইস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি যেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ফজরের সালাতে ‘‘ফালাউক্বসিমু বিল খুন্নাস, আল জাওয়ারিল কুন্নাস’’ সূরাহ (তাকবীর) পাঠ করার শব্দ শুনতে পাচ্ছি।[1] সহীহ : মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>817</td></tr><tr><td>Arabic No</td><td>817</td></tr><tr><td>Reference</td><td>Book 2 Hadith 427</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘Amr b. Huraith said:As if I am hearing the voice of the prophet (may peace by upon him) who would recite at the morning prayer “Oh, but I call to witness the planets, the stars which rise and set”(surah 81:15-16)
+‘Amr b. Huraith said:As if I am hearing the voice of the prophet (may peace by upon him) who would recite at the morning prayer “Oh, but I call to witness the planets, the stars which rise and set”(surah 81:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>817</td></tr><tr><td>Arabic No</td><td>817</td></tr><tr><td>Reference</td><td>Book 2 Hadith 427</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] telah mengabarkan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr b. Hureys'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem)'in sesini sabah namazında: "And ederim o (geceleri) geri dön(üp aydınlık neşred)en akıp akıp yuvalarına giden (yıldız)lara"[Tekvîr, 15-16] suresini okurken işitiyor gibiyim. Diğer tahric: Müslim, salat; İbn Mace, ikame; Ahmed b, Hanbel, IV, 306, 307
+Amr b. Hureys'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem)'in sesini sabah namazında: "And ederim o (geceleri) geri dön(üp aydınlık neşred)en akıp akıp yuvalarına giden (yıldız)lara"[Tekvîr, 15-16] suresini okurken işitiyor gibiyim. Diğer tahric: Müslim, salat; İbn Mace, ikame; Ahmed b, Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>817</td></tr><tr><td>Arabic No</td><td>817</td></tr><tr><td>Reference</td><td>Book 2 Hadith 427</td></tr></tbody></table></div>
 

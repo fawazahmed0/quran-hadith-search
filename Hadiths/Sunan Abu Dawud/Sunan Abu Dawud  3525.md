@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন উবায়দ (রহঃ) ..... আমির শা'বী (রহঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কোন পশুকে ধ্বংসোম্মুখ অবস্থায় পরিত্যগ করে, এরপর অন্য কোন ব্যক্তি তাকে লালন-পালন করে; এমতাবস্থায় সে-ই তার মালিল হবে, যে পশুটিকে পতিপালন করে জীবিত রাখে।
+। আশ-শা‘বী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি তার কোনো পশুকে ধ্বংস হয়ে যাওয়ার অবস্থায় পরিত্যাগ করলে যে ব্যক্তি এটাকে তুলে নিয়ে সেবা-যত্নের মাধ্যমে সুস্থ-সবল করে তুলবে সে-ই হবে এর মালিক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3525</td></tr><tr><td>Arabic No</td><td>3525</td></tr><tr><td>Reference</td><td>Book 24 Hadith 110</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮৬৯। সুলাইমান ইবনু বুরাইদা (রহঃ) হতে তার বাবার সূত্রে বর্ণিত আছে, তিনি (বুরাইদা) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি এসব পাত্র কাজে লাগাতে তোমাদেরকে নিষেধ করেছিলাম। প্রকৃতপক্ষে পাত্র কোন জিনিসকে হালালও করতে পারে না এবং হারামও করতে পারে না। তবে সকল প্রকারের নেশা সৃষ্টিকারী জিনিসই হারাম। সহীহ, তা’লীক আলা ইবনি মা-জাহ, মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। সুলাইমান ইবনু বুরাইদা (রহঃ) হতে তার বাবার সূত্রে বর্ণিত আছে, তিনি (বুরাইদা) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি এসব পাত্র কাজে লাগাতে তোমাদেরকে নিষেধ করেছিলাম। প্রকৃতপক্ষে পাত্র কোন জিনিসকে হালালও করতে পারে না এবং হারামও করতে পারে না। তবে সকল প্রকারের নেশা সৃষ্টিকারী জিনিসই হারাম। সহীহ, তা’লীক আলা ইবনি মা-জাহ, মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1869</td></tr><tr><td>Arabic No</td><td>1869</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
 

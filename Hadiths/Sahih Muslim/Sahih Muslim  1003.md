@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৮৯, আন্তর্জাতিক নাম্বারঃ ৪৪৭ ৮৮৯-(.../...) কুতাইবাহ ইবনু সাঈদ, আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... হিশাম (রহঃ)-এর সূত্রে উপরোল্লিখিত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮৮৫, ইসলামিক সেন্টারঃ ৮৯৮)
+কুতাইবাহ ইবনু সাঈদ, আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... হিশাম (রহঃ)-এর সূত্রে উপরোল্লিখিত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৮৮৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1003</td></tr><tr><td>Arabic No</td><td>447.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 165</td></tr></tbody></table></div>
 

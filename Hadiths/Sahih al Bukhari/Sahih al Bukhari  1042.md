@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন যে, সূর্যগ্রহণ ও চন্দ্রগ্রহণ কারো মৃত্যু বা জন্মের কারণে হয় না। তবে তা আল্লাহর নিদর্শনসমূহের মধ্যে দু’টি নিদর্শন। কাজেই তোমরা যখনই গ্রহণ হতে দেখবে তখনই সালাত আদায় করবে। (৩২০১) (আধুনিক প্রকাশনীঃ ৯৭৯, ইসলামিক ফাউন্ডেশনঃ ৯৮৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন যে, সূর্যগ্রহণ ও চন্দ্রগ্রহণ কারো মৃত্যু বা জন্মের কারণে হয় না। তবে তা আল্লাহর নিদর্শনসমূহের মধ্যে দু’টি নিদর্শন। কাজেই তোমরা যখনই গ্রহণ হতে দেখবে তখনই সালাত আদায় করবে। (৩২০১) (আধুনিক প্রকাশনীঃ ৯৭৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1042</td></tr><tr><td>Arabic No</td><td>1042</td></tr><tr><td>Reference</td><td>Book 16 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ashbagh] berkata, telah mengabarkan kepadaku [Ib
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: யாருடைய இறப்புக்காகவும் பிறப்புக் காகவும் சூரிய கிரகணமோ சந்திர கிரகணமோ ஏற்படுவதில்லை. ஆயினும், அவை அல்லாஹ்வின் சான்றுகளில் இரு சான்றுகளாகும். எனவே, அவற்றை நீங்கள் கண்டால் (இறைவனைத்) தொழுங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 16
+நபி (ஸல்) அவர்கள் கூறினார்கள்: யாருடைய இறப்புக்காகவும் பிறப்புக் காகவும் சூரிய கிரகணமோ சந்திர கிரகணமோ ஏற்படுவதில்லை. ஆயினும், அவை அல்லாஹ்வின் சான்றுகளில் இரு சான்றுகளாகும். எனவே, அவற்றை நீங்கள் கண்டால் (இறைவனைத்) தொழுங்கள். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1042</td></tr><tr><td>Arabic No</td><td>1042</td></tr><tr><td>Reference</td><td>Book 16 Hadith 3</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের দুই রাকাত সুন্নাত নামায আদায়ের পর আমাকে ঘুমন্ত অবস্থায় পেলে তিনিও একটু আরাম করতেন। তিনি আমাকে জাগ্রত অবস্থায় দেখলে আমার সাথে দীন সম্পর্কে আলোচনা করতেন।
+। আবূ সালামাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আয়িশাহ্ (রাঃ) বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের দু’ রাক‘আত সুন্নাত আদায়ের পর আমি ঘুমিয়ে থাকলে তিনিও বিশ্রাম নিতেন। আর আমি জাগ্রত থাকলে তিনি আমার সাথে কথাবার্তা বলতেন।[1] সহীহ : বুখারী ও মুসলিম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 5 Hadith 14</td></tr></tbody></table></div>
 

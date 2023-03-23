@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... কাবশা বিনত আবী মারয়াম (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি উম্মু সালামা (রাঃ)-কে জিজ্ঞাস করি যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন কোন জিনিস ব্যবহার করতে নিষেধ করেছেন? তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খেজুর এভাবে পাকাতে নিষেধ করেছেন, যাতে তার আটি বিনষ্ট হয়ে যায় এবং তিনি আঙ্গুর ও খেজুর মিশ্রিত করে ভিজিয়ে (নবীয বানাতে) নিষেধ করেছেন।
+। কাবশাহ বিনতু আবূ মারইয়াম (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি উম্মু সালামাহ (রাঃ)-কে প্রশ্ন করলাম, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন বস্তু থেকে নিষেধ করেছেন? তিনি বললেন, তিনি আমাদের খেজুরের আঁটি পাকাতে নিষেধ করেছেন এবং কাঁচা ও পাকা খেজুর একত্রে মিশ্রিত করে নবীয তৈরী করতে নিষেধ করেছেন।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3706</td></tr><tr><td>Arabic No</td><td>3706</td></tr><tr><td>Reference</td><td>Book 27 Hadith 38</td></tr></tbody></table></div>
 

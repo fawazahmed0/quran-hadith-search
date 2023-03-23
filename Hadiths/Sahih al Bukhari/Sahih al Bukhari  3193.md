@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মহান আল্লাহ বলেন, আদম সন্তান আমাকে গালি দেয় অথচ আমাকে গালি দেয়া তার উচিত নয়। আর সে আমাকে মিথ্যা জানে অথচ তার উচিত নয়। আমাকে গালি দেয়া হচ্ছে, তার এ উক্তি যে, আমার সন্তান আছে। আর তার মিথ্যা মনে করা হচ্ছে, তার এ উক্তি, যেভাবে আল্লাহ আমাকে প্রথমে সৃষ্টি করেছেন, সেভাবে কখনও তিনি আমাকে আবার সৃষ্টি করবেন না। (৪৯৭৪, ৪৯৭৫) (আধুনিক প্রকাশনীঃ ২৯৫২, ইসলামিক ফাউন্ডেশনঃ ২৯৬৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, মহান আল্লাহ বলেন, আদম সন্তান আমাকে গালি দেয় অথচ আমাকে গালি দেয়া তার উচিত নয়। আর সে আমাকে মিথ্যা জানে অথচ তার উচিত নয়। আমাকে গালি দেয়া হচ্ছে, তার এ উক্তি যে, আমার সন্তান আছে। আর তার মিথ্যা মনে করা হচ্ছে, তার এ উক্তি, যেভাবে আল্লাহ আমাকে প্রথমে সৃষ্টি করেছেন, সেভাবে কখনও তিনি আমাকে আবার সৃষ্টি করবেন না। (৪৯৭৪, ৪৯৭৫) (আধুনিক প্রকাশনীঃ ২৯৫২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 59 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku ['Abdullah bin Abu Syaibah] dari [Abu Ahmad] dari [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உயர்ந்தோன் அல்லாஹ் கூறுகின் றான்: ஆதமின் மகன் (மனிதன்) என்னை ஏசுகிறான். அது அவனுக்குத் தகாத செய லாகும். அவன் என்னை நம்ப மறுக்கிறான். அது அவனுக்குத் தகாத செயலாகும். எனக்குக் குழந்தை இருப்பதாக அவன் கூறுவதுதான் அவன் என்னை ஏசுவதாகும். யிநான் அவனை ஆரம்பமாகப் படைத்த தைப் போன்றே மீண்டும் அவனை என்னால் (உயிராக்கிக்) கொண்டுவர முடியாது’ என்று அவன் கூறுவதுதான் அவன் என்னை நம்ப மறுப்பதாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உயர்ந்தோன் அல்லாஹ் கூறுகின் றான்: ஆதமின் மகன் (மனிதன்) என்னை ஏசுகிறான். அது அவனுக்குத் தகாத செய லாகும். அவன் என்னை நம்ப மறுக்கிறான். அது அவனுக்குத் தகாத செயலாகும். எனக்குக் குழந்தை இருப்பதாக அவன் கூறுவதுதான் அவன் என்னை ஏசுவதாகும். யிநான் அவனை ஆரம்பமாகப் படைத்த தைப் போன்றே மீண்டும் அவனை என்னால் (உயிராக்கிக்) கொண்டுவர முடியாது’ என்று அவன் கூறுவதுதான் அவன் என்னை நம்ப மறுப்பதாகும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 59 Hadith 4</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepadaku ['Abdullah bin Abu Syaibah] dari [Abu Ahmad] dari [Sufy
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'in naklettiğine göre Nebi Sallallahu Aleyhi ve Sellem Allah Teala'nın şöyle buyurduğunu söylemiştir: "İnsanoğlu asla yapmaması gerektiği halde beni şanıma yakışmayan sıfatlarla anıyor (şetm ediyor) ve yine asla yapmaması gerektiği halde beni yalanlıyor (tekzib ediyor). Onun beni şanıma yakışmayan sıfatlarla anması benim bir çocuğum olduğunu iddia etmesidir; beni yalanlaması ise "Allah beni ilk olarak yarattığı gibi tekrar yaratıp diriitemez" demesidir. " Tekrar: 4975, 9474
+Ebu Hureyre r.a.'in naklettiğine göre Nebi Sallallahu Aleyhi ve Sellem Allah Teala'nın şöyle buyurduğunu söylemiştir: "İnsanoğlu asla yapmaması gerektiği halde beni şanıma yakışmayan sıfatlarla anıyor (şetm ediyor) ve yine asla yapmaması gerektiği halde beni yalanlıyor (tekzib ediyor). Onun beni şanıma yakışmayan sıfatlarla anması benim bir çocuğum olduğunu iddia etmesidir; beni yalanlaması ise "Allah beni ilk olarak yarattığı gibi tekrar yaratıp diriitemez" demesidir. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 59 Hadith 4</td></tr></tbody></table></div>
 

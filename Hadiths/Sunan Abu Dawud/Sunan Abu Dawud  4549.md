@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... ইবন উমার (রাঃ) থেকে বর্ণিত। তিনি এরূপ বর্ণনা করেছেন, যেরূপ উপরোক্ত হাদীছে বর্ণিত হয়েছে। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা বিজয়ের দিন কা'বা শরীফের সিঁড়ির উপর দাঁড়িয়ে ভাষণ দেন, অথবা এর চৌকাঠের উপর দাঁডিয়ে ভাষণ দেন।
+। ইবনু উমার (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে অনুরূপ অর্থের হাদীস বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিজয়ের দিন বা মক্কা বিজয়ের সময় কা‘বার দরজায় বা কা‘বা চতরে ভাষণ দিলেন।[1] দুর্বলঃ ইরওয়া হা/ ৭/২৫৭।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4549</td></tr><tr><td>Arabic No</td><td>4549</td></tr><tr><td>Reference</td><td>Book 41 Hadith 56</td></tr></tbody></table></div>
 

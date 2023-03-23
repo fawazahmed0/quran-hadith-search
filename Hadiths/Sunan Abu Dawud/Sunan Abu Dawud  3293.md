@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... উকবা ইবন আমির (রাঃ) থেকে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর বোন সম্পর্কে জিজ্ঞাসা করেন, যিনি খালি পায়ে এবং খোলা মাথায় পদব্রজে হজ্জ আদায় করার জন্য মানত করেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তাঁকে বল, সে যেন মস্তক আবৃত করে, কোন বাহনে সওয়ার হয়ে হজ্জে যায় এবং (মানত ভঙ্গের কারণে) সে যেন তিন দিন রোযা রাখে।
+। উকবাহ ইবনু ‘আমির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার বোন পদব্রজে এবং খালি মাথায় হজ (হজ্জ) করার মানত করেছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তাকে ওড়না পড়তে, যানবাহনে আরোহণ করতে এবং তিন দিন সওম পালন করতে আদেশ করো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3293</td></tr><tr><td>Arabic No</td><td>3293</td></tr><tr><td>Reference</td><td>Book 22 Hadith 52</td></tr></tbody></table></div>
 

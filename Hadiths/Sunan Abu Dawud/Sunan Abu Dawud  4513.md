@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ইবনু কা‘ব ইবনু মালিক (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মৃত্যুরোগে আক্রান্ত ছিলেন তখন উম্মু মুবাশশির (রাঃ) তাঁকে বলেন, হে আল্লাহর রাসূল! আপনি আপনার রোগ সম্পর্কে কি ভাবছেন? আর আমি আমার ছেলের রোগ সম্পর্কে উদ্বিগ্ন নই সেই বিষ মেশানো বকরীর গোশত ব্যতীত যা সে খায়বারে আপনার সঙ্গে খেয়েছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমিও ঐ বিষ ছাড়া আমার ব্যাপারে উদ্বিগ্ন নই। এ মুহূর্তে তা আমার প্রধান ধমনি কেটে দিচ্ছে।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4513</td></tr><tr><td>Arabic No</td><td>4513</td></tr><tr><td>Reference</td><td>Book 41 Hadith 20</td></tr></tbody></table></div>
 

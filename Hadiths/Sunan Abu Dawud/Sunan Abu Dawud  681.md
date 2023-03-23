@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাফর ইবনু মূসাফির ..... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ ইমামকে কাতারের সামনে মধ্যবর্তী স্থানে দাঁড় করাও এবং কাঁতারের মধ্যেকার ফাঁক বন্ধ কর।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা ইমামকে কাতারের মাঝখান বরাবর দাঁড় করাও এবং (কাতারের মধ্যকার) ফাঁকা জায়গা বন্ধ করে দাও।[1] দুর্বল : কিন্তু হাদীসের দ্বিতীয় অংশটি সহীহ। দেখুন হাদীস নং ৬৬৬, ৬২০।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>681</td></tr><tr><td>Arabic No</td><td>681</td></tr><tr><td>Reference</td><td>Book 2 Hadith 291</td></tr></tbody></table></div>
 

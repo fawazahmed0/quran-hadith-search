@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবুল ওলীদ, কুতায়বা ও য়াযীদ (রহঃ) পূর্ববতি হাদীছের অনুরূপ অর্থে হাদীছ বর্ণনা করেছেন। রাবী কুতায়বা বলেন, আমার কিতাবে তা এইরূপে সংরক্ষিত আছেঃ সাঈদ ইবন আবু সাঈদ বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ ঐ ব্যক্তি আমাদের দলভুক্ত নয়, যে কুরআনকে স্পষ্টরূপে বিশুদ্ধভাবে মধুর সুরে তিলাওয়াত করে না।
+। আবুল ওয়ালীদ, কুতাইবাহ ইবনু সাঈদ ও ইয়াযীদ ইবনু খালিদ হতে পুর্বোক্ত হাদীসের অনুরূপ অর্থবোধক হাদীস বর্ণিত আছে। সাঈদ ইবনু আবূ সাঈদ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি মধুর সূরে কুরআন পাঠ করে না, সে আমাদের দলভুক্ত নয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1469</td></tr><tr><td>Arabic No</td><td>1469</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>
 

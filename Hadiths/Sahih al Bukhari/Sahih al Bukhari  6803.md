@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘উরাইনা গোত্রীয় লোকদের (হাত, পা) কাটলেন, অথচ তাদের ক্ষতস্থানে লোহা পুড়ে দাগ দেননি। শেষতক তারা মারা গেল। [২৩৩] (আধুনিক প্রকাশনী- ৬৩৩৪, ইসলামিক ফাউন্ডেশন- ৬৩৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘উরাইনা গোত্রীয় লোকদের (হাত, পা) কাটলেন, অথচ তাদের ক্ষতস্থানে লোহা পুড়ে দাগ দেননি। শেষতক তারা মারা গেল। [২৩৩] (আধুনিক প্রকাশনী- ৬৩৩৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6803</td></tr><tr><td>Arabic No</td><td>6803</td></tr><tr><td>Reference</td><td>Book 86 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Shalt Abu Ya'la] telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: உரைனா குலத்தாரின் கை கால்களை நபி (ஸல்) அவர்கள் வெட்டச்செய்தார் கள். அவர்கள் இறக்கும்வரை அவர் களின் காயங்களுக்கு நபி (ஸல்) அவர்கள் மருந்திடவில்லை.22 அத்தியாயம் : 86
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: உரைனா குலத்தாரின் கை கால்களை நபி (ஸல்) அவர்கள் வெட்டச்செய்தார் கள். அவர்கள் இறக்கும்வரை அவர் களின் காயங்களுக்கு நபி (ஸல்) அவர்கள் மருந்திடவில்லை.22 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6803</td></tr><tr><td>Arabic No</td><td>6803</td></tr><tr><td>Reference</td><td>Book 86 Hadith 32</td></tr></tbody></table></div>
 

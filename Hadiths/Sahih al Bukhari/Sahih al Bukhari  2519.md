@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আসমা বিনতু আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূর্যগ্রহণের সময় ক্রীতদাস মুক্ত করার নির্দেশ দিয়েছেন। আলী (রহ.) দরাওয়ারদী (রহ.) সূত্রে হিশাম (রহ.) হাদীস বর্ণনায় মূসা ইবনু মাস‘ঊদ (রাঃ)-এর অনুসরণ করেছেন। (৮৬) (আধুনিক প্রকাশনীঃ ২৩৩৬, ইসলামিক ফাউন্ডেশনঃ ২৩৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আসমা বিনতু আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূর্যগ্রহণের সময় ক্রীতদাস মুক্ত করার নির্দেশ দিয়েছেন। আলী (রহ.) দরাওয়ারদী (রহ.) সূত্রে হিশাম (রহ.) হাদীস বর্ণনায় মূসা ইবনু মাস‘ঊদ (রাঃ)-এর অনুসরণ করেছেন। (৮৬) (আধুনিক প্রকাশনীঃ ২৩৩৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2519</td></tr><tr><td>Arabic No</td><td>2519</td></tr><tr><td>Reference</td><td>Book 49 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Mas'ud] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அஸ்மா பின்த் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சூரிய கிரகணத்தின்போது அடிமைகளை விடுதலை செய்யும்படி உத்தரவிட்டார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 49
+அஸ்மா பின்த் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சூரிய கிரகணத்தின்போது அடிமைகளை விடுதலை செய்யும்படி உத்தரவிட்டார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2519</td></tr><tr><td>Arabic No</td><td>2519</td></tr><tr><td>Reference</td><td>Book 49 Hadith 3</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইব্‌ন ঈসা (রহঃ) .... আবদুল্লাহ্‌ ইব্‌ন আবদুল কুদ্দূস (রহঃ) থেকে বর্ণিত। যিয়াদ (রহঃ) তাঁর কান সাদা থাকার কারণে ‘সামীনুন্‌-কুশুন’ বলে তাকে আখ্যায়িত করতো।
+। আব্দুল্লাহ ইবনু আব্দুল কুদ্দুস ‘‘যিয়াদ নামক এক ব্যক্তি থেকে’’ না বলে ‘‘সাদা কান বিশিষ্ট এক ব্যক্তি থেকে’’ বলেছেন। আমি এটি সহীহ এবং যঈফেও পাইনি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4266</td></tr><tr><td>Arabic No</td><td>4266</td></tr><tr><td>Reference</td><td>Book 37 Hadith 27</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবনে ঈসা (রহঃ) .... আবু কাতাদা (রাঃ) হতে বর্ণিত। নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমার দিন ছাড়া অন্যদিন ঠিক দুপুরে নামায আদায় করা মাকরূহ মনে করতেন। তিনি আরো বলেন, জুমার দিন ব্যতীত অন্যদিনের এই সময়ে জাহান্নামের আগুন প্রজ্জলিত করা হয়। ইমাম আবু দাউদ (রহঃ) বলেন, এটা মুরসাল হাদীছ। মুজাহিদ (রহঃ) আবুল খলীল (রহঃ) এর চেয়ে প্রবীণ এবং তিনি (আবুল খালীল) আবু কাতাদা থেকে হাদীছ শুনেননি।
+। আবূ ক্বাতাদাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমু‘আহর দিন ছাড়া (অন্য দিন) ঠিক দুপুরে সালাত আদায় করা অপছন্দ করতেন। তিনি বলেছেনঃ জুমু‘আহর দিন ছাড়া (অন্যান্য দিনে) জাহান্নামের আগুনকে উত্তপ্ত করা হয়।[1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, এটি মুরসাল হাদীস। মুজাহিদ (রহঃ) আবুল খালীলের চেয়ে বয়সে বড়। আর আবুল খালীল (রহঃ) আবূ ক্বাতাদাহ (রাঃ) হতে হাদীস শুনেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1083</td></tr><tr><td>Arabic No</td><td>1083</td></tr><tr><td>Reference</td><td>Book 2 Hadith 694</td></tr></tbody></table></div>
 

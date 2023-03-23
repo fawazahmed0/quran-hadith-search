@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/১১০। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদের দরজায় উসমান -এর সাক্ষাৎ পেয়ে বলেনঃ হে উসমান! এই যে, জিবরীল (আলাইহিস সালাম)। তিনি আমাকে অবহিত করেন যে, আল্লাহ তাআলা তোমার সাথে উম্মু কুলসুমের বিবাহ দিয়েছেন এবং তার মোহরও রুকাইয়ার মোহরের সমান।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদের দরজায় উসমান -এর সাক্ষাৎ পেয়ে বলেনঃ হে উসমান! এই যে, জিবরীল (আলাইহিস সালাম)। তিনি আমাকে অবহিত করেন যে, আল্লাহ তাআলা তোমার সাথে উম্মু কুলসুমের বিবাহ দিয়েছেন এবং তার মোহরও রুকাইয়ার মোহরের সমান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>110</td></tr><tr><td>Arabic No</td><td>110</td></tr><tr><td>Reference</td><td>Book 0 Hadith 110</td></tr></tbody></table></div>
 

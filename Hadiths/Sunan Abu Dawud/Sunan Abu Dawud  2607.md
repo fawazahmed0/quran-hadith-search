@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবন মাসলামা আল-কা‘নবী .... ‘আমর ইবন শু‘আইব তাঁর পিতা হতে এবং তাঁর পিতা তাঁর দাদা হতে বর্ণনা করেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একাকী একজন আরোহী এক শয়তান, দু‘জন দু‘ শয়তান আর তিনজনে জামা‘আত।
+। ‘আমর ইবনু শু‘আইব (রাঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। তিনি (দাদা) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একাকী সফরকারী হচ্ছে একটি শয়তান, আর একত্রে দু’ জন সফরকারী দু’টি শয়তান। তবে একত্রে তিনজন সফরকারীই হচ্ছে প্রকৃত কাফেলা।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2607</td></tr><tr><td>Arabic No</td><td>2607</td></tr><tr><td>Reference</td><td>Book 15 Hadith 131</td></tr></tbody></table></div>
 

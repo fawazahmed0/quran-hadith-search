@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৯৩৭, আন্তর্জাতিক নাম্বারঃ ৮৮৮ ১৯৩৭-(৮/৮৮৮) আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... আবদুল্লাহ উমর (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বাকর (রাযিঃ) ও উমর (রাযিঃ) ঈদের সালাত খুতবার আগে আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৯২২, ইসলামীক সেন্টার ১৯২৮)
+আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... আবদুল্লাহ উমর (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বাকর (রাযিঃ) ও উমর (রাযিঃ) ঈদের সালাত খুতবার আগে আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৯২২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2052</td></tr><tr><td>Arabic No</td><td>888</td></tr><tr><td>Reference</td><td>Book 8 Hadith 8</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரும் உரை (குத்பா) நிகழ்த்துவதற்கு முன்பே இரு பெருநாள் தொழுகைகளைத் தொழுபவர்களாய் இருந்தனர். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 8
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களும் அபூபக்ர் (ரலி), உமர் (ரலி) ஆகியோரும் உரை (குத்பா) நிகழ்த்துவதற்கு முன்பே இரு பெருநாள் தொழுகைகளைத் தொழுபவர்களாய் இருந்தனர். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2052</td></tr><tr><td>Arabic No</td><td>888</td></tr><tr><td>Reference</td><td>Book 8 Hadith 8</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫৪২, আন্তর্জাতিক নাম্বারঃ ২১২১ ৫৫৪২-(…/...) ইয়াহইয়া ইবনু ইয়াহইয়া, মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... যায়দ ইবনু আসলাম (রহঃ) হতে উপরোক্ত সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪৬৪, ইসলামিক সেন্টার ৫৪৮৬)
+(…/...) ইয়াহইয়া ইবনু ইয়াহইয়া, মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... যায়দ ইবনু আসলাম (রহঃ) হতে উপরোক্ত সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪৬৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5649</td></tr><tr><td>Arabic No</td><td>2121.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 4</td></tr></tbody></table></div>
 

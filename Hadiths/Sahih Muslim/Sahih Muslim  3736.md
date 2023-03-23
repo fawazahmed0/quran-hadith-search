@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৬২৮, আন্তর্জাতিক নাম্বারঃ ১৪৯০ ৩৬২৮-(.../...) শায়বান ইবনু ফাররূখ (রহঃ) ..... নাফি (রহঃ) থেকে লায়স বর্ণিত হাদীসে অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৩৫৯৪, ইসলামীক সেন্টার ৩৫৯৪)
+শায়বান ইবনু ফাররূখ (রহঃ) ..... নাফি (রহঃ) থেকে লায়স বর্ণিত হাদীসে অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৩৫৯৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3736</td></tr><tr><td>Arabic No</td><td>1490.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 81</td></tr></tbody></table></div>
 

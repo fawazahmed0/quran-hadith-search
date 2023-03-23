@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, পাঁচ ওসাক-এর কম পরিমাণ খেজুরের যাকাত নেই। পাঁচ উকিয়ার কম পরিমাণ রৌপ্যের যাকাত নেই এবং পাঁচটির কম উটের যাকাত নেই। (১৪০৫) (আধুনিক প্রকাশনীঃ ১৩৬৫, ইসলামিক ফাউন্ডেশনঃ ১৩৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, পাঁচ ওসাক-এর কম পরিমাণ খেজুরের যাকাত নেই। পাঁচ উকিয়ার কম পরিমাণ রৌপ্যের যাকাত নেই এবং পাঁচটির কম উটের যাকাত নেই। (১৪০৫) (আধুনিক প্রকাশনীঃ ১৩৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1459</td></tr><tr><td>Arabic No</td><td>1459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 61</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஐந்து ‘வஸ்க்’குகளைவிடக் குறைவாக உள்ள பேரீச்சம் பழத்தில் ஸகாத் இல்லை; ஐந்து ‘ஊக்கியா’க்களைவிடக் குறைவாக உள்ள வெள்ளியில் ஸகாத் இல்லை; ஐந்து ஒட்டகங்களைவிடக் குறைவானவற்றிலும் ஸகாத் இல்லை.” இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 24
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஐந்து ‘வஸ்க்’குகளைவிடக் குறைவாக உள்ள பேரீச்சம் பழத்தில் ஸகாத் இல்லை; ஐந்து ‘ஊக்கியா’க்களைவிடக் குறைவாக உள்ள வெள்ளியில் ஸகாத் இல்லை; ஐந்து ஒட்டகங்களைவிடக் குறைவானவற்றிலும் ஸகாத் இல்லை.” இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1459</td></tr><tr><td>Arabic No</td><td>1459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 61</td></tr></tbody></table></div>
 

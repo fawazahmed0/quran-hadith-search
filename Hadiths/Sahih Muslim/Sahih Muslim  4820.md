@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৭১৪, আন্তর্জাতিক নাম্বারঃ ১৮৫৯ ৪৭১৪-(৭৮/...) মুহাম্মাদ ইবনু রাফি (রহঃ) ..... সাঈদ ইবনু মুসাইয়্যাব (রহঃ) এর পিতা (রাযিঃ) হতে বর্ণিত যে, বৃক্ষবর্ষে (হুদাইবিয়ার বছর) তারা রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট ছিলেন। তিনি বলেন, পরবর্তী বছর তারা সে স্থানটির অবস্থান ভুলে যান। (ইসলামিক ফাউন্ডেশন ৪৬৬৭, ইসলামিক সেন্টার ৪৬৬৯)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4820</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

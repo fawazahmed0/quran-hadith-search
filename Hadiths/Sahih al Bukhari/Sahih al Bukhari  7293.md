@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা ‘উমার (রাঃ)-এর কাছে ছিলাম। তখন তিনি বললেনঃ (যাবতীয়) কৃত্রিমতা হতে আমাদেরকে নিষেধ করা হয়েছে।[1] (আধুনিক প্রকাশনী- ৬৭৮৩, ইসলামিক ফাউন্ডেশন- ৬৭৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা ‘উমার (রাঃ)-এর কাছে ছিলাম। তখন তিনি বললেনঃ (যাবতীয়) কৃত্রিমতা হতে আমাদেরকে নিষেধ করা হয়েছে।[1] (আধুনিক প্রকাশনী- ৬৭৮৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7293</td></tr><tr><td>Arabic No</td><td>7293</td></tr><tr><td>Reference</td><td>Book 96 Hadith 24</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: உமர் (ரலி) அவர்களிடம் நாங்கள் இருந்தோம். அப்போது அவர்கள், “வீண் சிரமம் எடுத்துக்கொள்ளக் கூடாது என எங்களுக்குத் தடை விதிக்கப்பட்டது” என்று சொன்னார்கள்.21 அத்தியாயம் : 96
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: உமர் (ரலி) அவர்களிடம் நாங்கள் இருந்தோம். அப்போது அவர்கள், “வீண் சிரமம் எடுத்துக்கொள்ளக் கூடாது என எங்களுக்குத் தடை விதிக்கப்பட்டது” என்று சொன்னார்கள்.21 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7293</td></tr><tr><td>Arabic No</td><td>7293</td></tr><tr><td>Reference</td><td>Book 96 Hadith 24</td></tr></tbody></table></div>
 

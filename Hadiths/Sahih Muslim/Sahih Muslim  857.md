@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৪৩, আন্তর্জাতিক নাম্বারঃ ৩৮৯ ৭৪৩-(১৭/...) আবদুল হামীদ ইবনু বায়ান আল ওয়াসিতী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ মুওয়াযযিন যখন আযান দেয় তখন শইতান পিছন ঘুরে বায়ু ছাড়তে ছাড়তে তাড়াতাড়ি পালিয়ে যায়। (ইসলামিক ফাউন্ডেশনঃ ৭৪১, ইসলামিক সেন্টারঃ ৭৫৪)
+আবদুল হামীদ ইবনু বায়ান আল ওয়াসিতী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ মুওয়াযযিন যখন আযান দেয় তখন শইতান পিছন ঘুরে বায়ু ছাড়তে ছাড়তে তাড়াতাড়ি পালিয়ে যায়। (ইসলামিক ফাউন্ডেশনঃ ৭৪১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>857</td></tr><tr><td>Arabic No</td><td>389.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 20</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abdul Hamid bin Bayan al-Wasithi] telah mencerit
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொழுகை அறிவிப்புச் செய்பவர் அறிவிப்புச் செய்ய ஆரம்பித்தால் ஷைத்தான் வாயு வெளியேறிய வண்ணம் புறமுதுகுகிட்டு ஓடுகிறான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 4
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தொழுகை அறிவிப்புச் செய்பவர் அறிவிப்புச் செய்ய ஆரம்பித்தால் ஷைத்தான் வாயு வெளியேறிய வண்ணம் புறமுதுகுகிட்டு ஓடுகிறான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>857</td></tr><tr><td>Arabic No</td><td>389.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 20</td></tr></tbody></table></div>
 

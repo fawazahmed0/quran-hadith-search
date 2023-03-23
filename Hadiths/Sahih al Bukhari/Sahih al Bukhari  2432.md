@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আমি আমার ঘরে ফিরে যাই, আমার বিছানায় খেজুর পড়ে থাকতে দেখি। খাওয়ার জন্য আমি তা তুলে নেই। পরে আমার ভয় হয় যে, হয়ত তা সাদাকার খেজুর হবে তাই আমি তা রেখে দেই। (আধুনিক প্রকাশনীঃ ২২৫৩, ইসলামিক ফাউন্ডেশনঃ ২২৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আমি আমার ঘরে ফিরে যাই, আমার বিছানায় খেজুর পড়ে থাকতে দেখি। খাওয়ার জন্য আমি তা তুলে নেই। পরে আমার ভয় হয় যে, হয়ত তা সাদাকার খেজুর হবে তাই আমি তা রেখে দেই। (আধুনিক প্রকাশনীঃ ২২৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2432</td></tr><tr><td>Arabic No</td><td>2432</td></tr><tr><td>Reference</td><td>Book 45 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: நான் என் வீட்டாரிடம் திரும்பி வரு வேன். என் படுக்கையின் மீது பேரீச்சம் பழம் விழுந்திருப்பதைப் பார்த்து அதை உண்பதற்காக எடுப்பேன். அதற்குள் அது தர்மப் பொருளாக இருக்குமோ என்னும் அச்சம் எனக்கு ஏற்படும்; உடனே அதைப் போட்டுவிடுவேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 45
+நபி (ஸல்) அவர்கள்கூறினார்கள்: நான் என் வீட்டாரிடம் திரும்பி வரு வேன். என் படுக்கையின் மீது பேரீச்சம் பழம் விழுந்திருப்பதைப் பார்த்து அதை உண்பதற்காக எடுப்பேன். அதற்குள் அது தர்மப் பொருளாக இருக்குமோ என்னும் அச்சம் எனக்கு ஏற்படும்; உடனே அதைப் போட்டுவிடுவேன். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2432</td></tr><tr><td>Arabic No</td><td>2432</td></tr><tr><td>Reference</td><td>Book 45 Hadith 7</td></tr></tbody></table></div>
 

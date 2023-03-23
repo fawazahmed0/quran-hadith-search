@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ বাকর ইবনু শাইবাহ (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আল্লাহর বাণীঃ “তিনি যা দেখেছেন, তার অন্তকরণ তা অস্বীকার করেনি" "এবং নিশ্চয়ই তিনি তাকে আরো একবার দেখেছেন"- (সূরাহ্ আন নাজম ৫৩ঃ ১১ ও ১৩) আয়াতদ্বয়ের ব্যাখ্যা হচ্ছেঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার প্রভুকে দু'বার অন্তকরণ দ্বারাই দেখেন। (অর্থাৎ বাহ্যিক চোখে প্রত্যক্ষ করেননি)। (ইসলামিক ফাউন্ডেশনঃ ৩৩৪, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Sa'id al-Asy
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekr b. Ebi Şeybe ile Ebu Sa'id el-Eşecc hep birden Veki'den rivayet ettiler. Eşecc dedi ki: Bize Vekî' rivayet etti. (Dediki): Bize A'meş, Ziyad b. Husayn Ebu Cehme'den, o da Ebu'l-Âliye'den, o da İbni Abbas'tan naklen rivayet etti ki İbni Abbas : «Onun gördüğünü gönül yalanlamadı, yemin olsun ki, onu bir başka inişte de gördü.» âyetleri hakkında onu kalbi ile iki defa gördü demiştir. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 5423
+Bize Ebu Bekr b. Ebi Şeybe ile Ebu Sa'id el-Eşecc hep birden Veki'den rivayet ettiler. Eşecc dedi ki: Bize Vekî' rivayet etti. (Dediki): Bize A'meş, Ziyad b. Husayn Ebu Cehme'den, o da Ebu'l-Âliye'den, o da İbni Abbas'tan naklen rivayet etti ki İbni Abbas : «Onun gördüğünü gönül yalanlamadı, yemin olsun ki, onu bir başka inişte de gördü.» âyetleri hakkında onu kalbi ile iki defa gördü demiştir. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
 

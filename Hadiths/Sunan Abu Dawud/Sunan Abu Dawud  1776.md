@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন হাম্বল (রহঃ) ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত যে, একদা যুবা‘আ বিনত যুবায়র ইবন আবদুল মুত্তালিব (রাঃ) রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমতে হাযির হয়ে আরয করেন, ইয়া রাসূলাল্লাহ্! আমি হজ্জের ইচ্ছা করেছি। এতে কি কোন শর্ত আরোপ করতে পারি? তিনি বলেন, হ্যাঁ। তিনি পুনরায় জিজ্ঞাসা করেন, আমি কিরূপে বলব? তিনি ইরশাদ করেনঃ তুমি বলবে, আমি উপস্থিত, হে আল্লাহ্‌! আমি উপস্থিত, এবং আমার ইহরাম খোলার স্থান ঐ জায়গা যেখানে তুমি আমাকে আটকে রাখবে।
+। ইবনু আব্বাস (রাযি.) সূত্রে বর্ণিত। একদা যুবায়র ইবনু ‘আব্দুল মুত্তালিবের মেয়ে-দবা‘আহ (রাযি.) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বলেন, হে আল্লাহর রাসূল! আমি হজের (হজ্জের) ইচ্ছা করেছি। এতে কোনো শর্ত করতে পারবো কি? তিনি বললেন, হ্যাঁ। দবা‘আহ বলেন, তা কিভাবে? তিনি বলেনঃ তুমি বলোঃ ‘আমি উপস্থিত, হে আল্লাহ! আমি উপস্থিত, পথে যেখানেই তুমি আমাকে আটক করবে সেটাই আমার ইহরাম ভঙ্গের স্থান।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1776</td></tr><tr><td>Arabic No</td><td>1776</td></tr><tr><td>Reference</td><td>Book 11 Hadith 56</td></tr></tbody></table></div>
 

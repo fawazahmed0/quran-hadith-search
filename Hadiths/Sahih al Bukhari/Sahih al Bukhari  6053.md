@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ উসাইদ সা‘ঈদী (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আনসারদের গৃহগুলোর মধ্যে নাজ্জার গোত্রের গৃহগুলোই উৎকৃষ্ট। [৩৭৮৯] (আধুনিক প্রকাশনী- ৫৬১৮, ইসলামিক ফাউন্ডেশন- ৫৫১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ উসাইদ সা‘ঈদী (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আনসারদের গৃহগুলোর মধ্যে নাজ্জার গোত্রের গৃহগুলোই উৎকৃষ্ট। [৩৭৮৯] (আধুনিক প্রকাশনী- ৫৬১৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6053</td></tr><tr><td>Arabic No</td><td>6053</td></tr><tr><td>Reference</td><td>Book 78 Hadith 83</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்.: அன்சாரிகளின் கிளைக் குடும்பங் களில் சிறந்தது ‘பனூ நஜ்ஜார்’ குடும்ப மாகும். இதை அபூஉசைத் அஸ்ஸாஇதீ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.70 அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்.: அன்சாரிகளின் கிளைக் குடும்பங் களில் சிறந்தது ‘பனூ நஜ்ஜார்’ குடும்ப மாகும். இதை அபூஉசைத் அஸ்ஸாஇதீ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.70 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6053</td></tr><tr><td>Arabic No</td><td>6053</td></tr><tr><td>Reference</td><td>Book 78 Hadith 83</td></tr></tbody></table></div>
 

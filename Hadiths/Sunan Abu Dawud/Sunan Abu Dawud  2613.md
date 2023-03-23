@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সালিহ্ আল্ আনতাকী, মাহবূব ইবন মূসা .... সুলায়মান ইবন বুরায়দা তাঁর পিতা বুরায়দা (রাঃ) হতে বর্ণনা করেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা আল্লাহর নাম নিয়ে তাঁর সাহায্য প্রার্থনা করে আল্লাহর রাহে যুদ্ধে অবতীর্ণ হও এবং ঐ সকল কাফিরদের সঙ্গে যুদ্ধ করবে যারা ইসলাম গ্রহণ করেনি এবং জিযইয়া দানেও অসম্মতি জ্ঞাপন করেছে। তোমরা যুদ্ধ করে যাও, কিন্তু চুক্তি ভঙ্গ করো না, যুদ্ধলব্ধ সম্পদ আত্মসাৎ করো না, নিহত শত্রুর নাক, কান ইত্যাদি কেটে বিকৃত করো না এবং কোন শিশুকে হত্যা করো না।
+। সুলাইমান ইবনু বুরাইদাহ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমরা আল্লাহর নাম নিয়ে আল্লাহর পথে যুদ্ধ করো। যারা আল্লাহর সাথে কুফরী করেছে তাদের বিরুদ্ধে যুদ্ধ করো। তোমরা যুদ্ধ করে যাও কিন্তু বিশ্বাসঘাতকতা করো না, ওয়াদা ভঙ্গ করো না, গানীমাতের মাল আত্মসাৎ করো না, লাশ বিকৃত করো না এবং শিশুদের হত্যা করো না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2613</td></tr><tr><td>Arabic No</td><td>2613</td></tr><tr><td>Reference</td><td>Book 15 Hadith 137</td></tr></tbody></table></div>
 

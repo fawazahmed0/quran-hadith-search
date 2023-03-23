@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন সারহ (রহঃ) ..... জুবায়র ইবন মুতঈম (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সে ব্যক্তি আমাদের দলভুক্ত নয়, যে গোঁড়ামীর কারণে অন্যদের সাথে যুদ্ধ করে, আর যে ব্যক্তি পক্ষপাতদুষ্ট হয়ে মারা যায়, সেও আমাদের দলভুক্ত নয়।
+। জুবায়র ইবনু মুত্ব‘ইম (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আসাবিয়্যাতের দিকে ডাকে বা গোত্রের দিয়ে আহবান করে লোকদেরকে সমবেত করে সে আমার দলভুক্ত নয়। আর ঐ ব্যক্তিও আমাদের দলভুক্ত নয় যে আসবিয়্যাতের ভিত্তিতে যুদ্ধ করে এবং সেও নয় যে আসাবিয়্যাতের উপর মারা যায়।[1] দুর্বলঃ মিশকাত হা/ ৪৯০৭, গায়াতুল মারাম হা/ ৩০৪।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>5121</td></tr><tr><td>Reference</td><td>Book 43 Hadith 349</td></tr></tbody></table></div>
 

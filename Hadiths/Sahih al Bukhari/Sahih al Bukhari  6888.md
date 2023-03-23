@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6888</td></tr><tr><td>Arabic No</td><td>6888</td></tr><tr><td>Reference</td><td>Book 87 Hadith 26</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Masih dari jalur periwayatan yang sama dengan hadits sebelumnya -dari [Abu Hurai
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்சொன்ன அதே அறிவிப் பாளர்தொடரில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் அனுமதியின்றி ஒருவர் உங்களது வீட்டுக்குள் எட்டிப்பார்த்த போது அவர்மீது நீங்கள் சிறு கல்லைச் சுண்டி எறிய, அது அவரது கண்ணைப் பறித்துவிட்டால் உங்கள்மீது எந்தக் குற்றமும் இல்லை. அத்தியாயம் : 87
+மேற்சொன்ன அதே அறிவிப் பாளர்தொடரில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் அனுமதியின்றி ஒருவர் உங்களது வீட்டுக்குள் எட்டிப்பார்த்த போது அவர்மீது நீங்கள் சிறு கல்லைச் சுண்டி எறிய, அது அவரது கண்ணைப் பறித்துவிட்டால் உங்கள்மீது எந்தக் குற்றமும் இல்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6888</td></tr><tr><td>Arabic No</td><td>6888</td></tr><tr><td>Reference</td><td>Book 87 Hadith 26</td></tr></tbody></table></div>
 

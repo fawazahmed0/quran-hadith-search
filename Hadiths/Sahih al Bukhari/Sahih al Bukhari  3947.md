@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ‘‘উসমান (রহ.) বলেন, আমি সালমান (রাঃ)-কে বলতে শুনেছি; তিনি বলেন, আমি রাম হুরমুয এর বাসিন্দা। (আধুনিক প্রকাশনীঃ ৩৬৫৬, ইসলামিক ফাউন্ডেশনঃ ৩৬৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ‘‘উসমান (রহ.) বলেন, আমি সালমান (রাঃ)-কে বলতে শুনেছি; তিনি বলেন, আমি রাম হুরমুয এর বাসিন্দা। (আধুনিক প্রকাশনীঃ ৩৬৫৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3947</td></tr><tr><td>Arabic No</td><td>3947</td></tr><tr><td>Reference</td><td>Book 63 Hadith 171</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad binYusuf] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சல்மான் அல்ஃபாரிசீ (ரலி) அவர்கள் கூறியதாவது: நான் “ராம ஹுர்முஸ்' எனுமிடத்திலிருந்து வந்தவன்.198 அத்தியாயம் : 63
+சல்மான் அல்ஃபாரிசீ (ரலி) அவர்கள் கூறியதாவது: நான் “ராம ஹுர்முஸ்' எனுமிடத்திலிருந்து வந்தவன்.198 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3947</td></tr><tr><td>Arabic No</td><td>3947</td></tr><tr><td>Reference</td><td>Book 63 Hadith 171</td></tr></tbody></table></div>
 

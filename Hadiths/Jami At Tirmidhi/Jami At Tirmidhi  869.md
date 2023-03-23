@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৮৬৯। জাবির ইবনু আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, তাওয়াফের দুই রাকাআত নামায আদায়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইখলাসের দুইটি সূরা তিলাওয়াত করেনঃ সূরা কাফিরূন এবং সূরা ইখলাস। — সহীহ, ইবনু মা-জাহ (৩০৭৪), মুসলিম
+। জাবির ইবনু আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, তাওয়াফের দুই রাকাআত নামায আদায়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইখলাসের দুইটি সূরা তিলাওয়াত করেনঃ সূরা কাফিরূন এবং সূরা ইখলাস। — সহীহ, ইবনু মা-জাহ (৩০৭৪), মুসলিম
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>869</td></tr><tr><td>Reference</td><td>Book 9 Hadith 62</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহ.) হতে বর্ণিত। ইবনু ‘উমার (রাঃ) তাঁদেরকে অবহিত করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বিদায় হাজ্জে তাঁর মাথা মুন্ডন করেছিলেন। [১৭২৬] (আধুনিক প্রকাশনীঃ ৪০৬২, ইসলামিক ফাউন্ডেশনঃ ৪০৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহ.) হতে বর্ণিত। ইবনু ‘উমার (রাঃ) তাঁদেরকে অবহিত করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বিদায় হাজ্জে তাঁর মাথা মুন্ডন করেছিলেন। [১৭২৬] (আধুনিক প্রকাশনীঃ ৪০৬২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4410</td></tr><tr><td>Arabic No</td><td>4410</td></tr><tr><td>Reference</td><td>Book 64 Hadith 432</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) got his head shaved during Hajjat-ul-Wada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் “ஹஜ்—த்துல் வதா'வின்போது (ஹஜ் வழிபாடுகளை நிறைவு செய்தபின்) தம் தலையை மழித்துக்கொண்டார்கள்.447 அத்தியாயம் : 64
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் “ஹஜ்—த்துல் வதா'வின்போது (ஹஜ் வழிபாடுகளை நிறைவு செய்தபின்) தம் தலையை மழித்துக்கொண்டார்கள்.447 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4410</td></tr><tr><td>Arabic No</td><td>4410</td></tr><tr><td>Reference</td><td>Book 64 Hadith 432</td></tr></tbody></table></div>
 

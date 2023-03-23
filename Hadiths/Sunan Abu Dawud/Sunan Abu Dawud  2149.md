@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইসমাঈল ইবন মতহসা আল ফাযারী .... আবূ বুরায়দা (রহঃ) তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আলী (রাঃ)-কে বলেন, হে আলী! তোমার প্রথম দৃষ্টিপাতকে (বেগানা স্ত্রীলোকের প্রতি অনিচ্ছা সত্বে হয়েছে) তোমার দ্বিতীয় দৃষ্টি (যা ইচ্ছাকৃত) যেন অনুসরণ না করে। কেননা, প্রথমবার দৃষ্টিপাত তোমার জন্য জায়িয, আর দ্বিতীয়বার (ইচ্ছাকৃতভাবে) দৃষ্টিপাত করা তেমার জন্য বৈধ নয়।
+। ইবনু বুরাইদাহ (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললেনঃ হে আলী! কোনো নারীকে একবার দেখার পর দ্বিতীয়বার দেখবে না। কেননা তোমার জন্য প্রথমবার দেখার অনুমতি আছে, কিন্তু দ্বিতীয়বার জায়িয নয়।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2149</td></tr><tr><td>Arabic No</td><td>2149</td></tr><tr><td>Reference</td><td>Book 12 Hadith 104</td></tr></tbody></table></div>
 

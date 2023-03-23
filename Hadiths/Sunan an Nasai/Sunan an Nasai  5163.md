@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবন ইয়াহইয়া ইবন মুহাম্মাদ ইবন কাসীর হাররানী (রহঃ) ... সাঈদ ইবন মুসাইয়্যাব (রহঃ) থেকে বর্ণিত। উমর (রাঃ) সুহায়ব (রাঃ)-কে স্বর্ণের আংটি পরতে দেখে বললেনঃ কী ব্যাপার, আমি যে তোমার পরিধানে সোনার আংটি দেখছি? তিনি বললেনঃ আপনার চেয়ে উত্তম ব্যক্তি এটা দেখেছেন, কিন্তু তিনি কিছু বলেন নি। উমর (রাঃ) বললেনঃ তিনি কে? সুহায়ব (রাঃ) বললেনঃ তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5163</td></tr><tr><td>Arabic No</td><td>5163</td></tr><tr><td>Reference</td><td>Book 48 Hadith 124</td></tr></tbody></table></div>
 

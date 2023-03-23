@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন পায়খানায় প্রবেশ করতেন, তখন তিনি বলতেনঃ “আল্লাহুম্মা ইন্নী আঊযুবিকা মিনাল খুবুছি ওয়াল খাবায়িছ” হে আল্লাহ! আমি আপনার কাছে যাবতীয় পুরুষ ও স্ত্রী শয়তানদের থেকে আশ্রয় প্রার্থনা করছি। [১৪২] (আধুনিক প্রকাশনী- ৫৮৭৭, ইসলামিক ফাউন্ডেশন- ৫৭৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন পায়খানায় প্রবেশ করতেন, তখন তিনি বলতেনঃ হে আল্লাহ! আমি আপনার কাছে যাবতীয় পুরুষ ও স্ত্রী শয়তানদের থেকে আশ্রয় প্রার্থনা করছি। [১৪২] (আধুনিক প্রকাশনী- ৫৮৭৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6322</td></tr><tr><td>Arabic No</td><td>6322</td></tr><tr><td>Reference</td><td>Book 80 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கழிவறைக்குள் நுழையும்போது “அல்லாஹும்ம இன்னீ அஊது பிக்க மினல் குப்ஸி வல் கபாயிஸி” என்று கூறுவார்கள். (பொருள்: இறைவா! ஆண் மற்றும் பெண் ஷைத்தான்களின் தீங்கிலிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்.)15 அத்தியாயம் : 80
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் கழிவறைக்குள் நுழையும்போது “அல்லாஹும்ம இன்னீ அஊது பிக்க மினல் குப்ஸி வல் கபாயிஸி” என்று கூறுவார்கள். (பொருள்: இறைவா! ஆண் மற்றும் பெண் ஷைத்தான்களின் தீங்கிலிருந்து உன்னிடம் பாதுகாப்புக் கோருகிறேன்.)15 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6322</td></tr><tr><td>Arabic No</td><td>6322</td></tr><tr><td>Reference</td><td>Book 80 Hadith 19</td></tr></tbody></table></div>
 

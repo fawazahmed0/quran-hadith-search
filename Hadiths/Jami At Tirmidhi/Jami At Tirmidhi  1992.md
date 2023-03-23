@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৯৯২। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে “হে দুই কান বিশিষ্ট” বলে সম্বোধন করেন। সহীহ্, মুখতাসার শামা-ইল (২০০) আবূ উসামা বলেন, তিনি কৌতুক হিসাবে তা বলতেন। আবূ ঈসা বলেন, এ হাদীসটি সহীহ গারীব।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে “হে দুই কান বিশিষ্ট” বলে সম্বোধন করেন। সহীহ্, মুখতাসার শামা-ইল (২০০) আবূ উসামা বলেন, তিনি কৌতুক হিসাবে তা বলতেন। আবূ ঈসা বলেন, এ হাদীসটি সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1992</td></tr><tr><td>Arabic No</td><td>1992</td></tr><tr><td>Reference</td><td>Book 27 Hadith 98</td></tr></tbody></table></div>
 

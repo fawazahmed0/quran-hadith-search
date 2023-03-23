@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহ্ইয়া ইবনু বুকায়র (রহ.) হতে বর্ণিত। তিনি বলেন, লায়স আমাদের কাছে উক্ত হাদীস বর্ণনা করেন। (এতে রয়েছে) ‘আয়িশাহ (রাঃ) বলেন, একদিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার নিকট এসে বললেনঃ হে ‘আয়িশাহ! অমুক অমুক লোক আমাদের দ্বীন, যার উপর আমরা রয়েছি, সে সম্পর্কে কিছু জানে বলে আমি ধারণা করি না। [৬০৬৭] (আধুনিক প্রকাশনী- ৫৬৩৩, ইসলামিক ফাউন্ডেশন- ৫৫২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইয়াহ্ইয়া ইবনু বুকায়র (রহ.) হতে বর্ণিত। তিনি বলেন, লায়স আমাদের কাছে উক্ত হাদীস বর্ণনা করেন। (এতে রয়েছে) ‘আয়িশাহ (রাঃ) বলেন, একদিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার নিকট এসে বললেনঃ হে ‘আয়িশাহ! অমুক অমুক লোক আমাদের দ্বীন, যার উপর আমরা রয়েছি, সে সম্পর্কে কিছু জানে বলে আমি ধারণা করি না। [৬০৬৭] (আধুনিক প্রকাশনী- ৫৬৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6068</td></tr><tr><td>Arabic No</td><td>6068</td></tr><tr><td>Reference</td><td>Book 78 Hadith 98</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Ufair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ஒருநாள் நபி (ஸல்) அவர்கள் என்னிடம் வந்து, “ஆயிஷா! இன்னாரும் இன்னாரும் நாம் எந்த மார்க்கத்தில் இருக்கிறோமோ அதை அறிந்திருப்பவர் களாக நான் கருதவில்லை” என்று கூறினார்கள்.83 அத்தியாயம் : 78
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: ஒருநாள் நபி (ஸல்) அவர்கள் என்னிடம் வந்து, “ஆயிஷா! இன்னாரும் இன்னாரும் நாம் எந்த மார்க்கத்தில் இருக்கிறோமோ அதை அறிந்திருப்பவர் களாக நான் கருதவில்லை” என்று கூறினார்கள்.83 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6068</td></tr><tr><td>Arabic No</td><td>6068</td></tr><tr><td>Reference</td><td>Book 78 Hadith 98</td></tr></tbody></table></div>
 

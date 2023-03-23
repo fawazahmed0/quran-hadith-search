@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৫০, আন্তর্জাতিক নাম্বারঃ ২৩৭ ৪৫০-(২২/...) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ওযু করবে, সে যেন নাকে পানি দিয়ে নাক ঝাড়ে, আর যে ঢিলা ব্যবহার করবে, সে যেন বেজোড় সংখ্যক ব্যবহার করে। (ইসলামিক ফাউন্ডেশনঃ ৪৫৩, ইসলামিক সেন্টারঃ ৪৬৯)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ওযু করবে, সে যেন নাকে পানি দিয়ে নাক ঝাড়ে, আর যে ঢিলা ব্যবহার করবে, সে যেন বেজোড় সংখ্যক ব্যবহার করে। (ইসলামিক ফাউন্ডেশনঃ ৪৫৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>562</td></tr><tr><td>Arabic No</td><td>237.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 29</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Selon Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction de 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Yahya bin Yahya rivayet etti. Dediki: ibni Şihab'dan dinlediğim, onun da Ebu İdris El-Havlani'den, onun da Ebu Hureyre'den naklen rivayet ettiği şu hadisi Malik'e okudum. Resulullah (Sallallahu Aleyhi ve Sellem): "Abdest alan burnuna su alıp çıkarsın, taşla temizlenen tek sayıda taş kullansın" buyurdu. Diğer tahric: Buhari, 161; Nesai, 88; İbn Mace, 409; Tuhfetu'l-Eşraf, 13547
+Bize Yahya bin Yahya rivayet etti. Dediki: ibni Şihab'dan dinlediğim, onun da Ebu İdris El-Havlani'den, onun da Ebu Hureyre'den naklen rivayet ettiği şu hadisi Malik'e okudum. Resulullah (Sallallahu Aleyhi ve Sellem): "Abdest alan burnuna su alıp çıkarsın, taşla temizlenen tek sayıda taş kullansın" buyurdu. Diğer tahric: Buhari, 161; Nesai, 88; İbn Mace, 409; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>562</td></tr><tr><td>Arabic No</td><td>237.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 29</td></tr></tbody></table></div>
 

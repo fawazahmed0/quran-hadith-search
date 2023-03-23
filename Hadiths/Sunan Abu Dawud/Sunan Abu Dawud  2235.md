@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন কাসির ...... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, বুরায়রার স্বামী (মুগিস) আযাদ ব্যক্তি ছিল,যখন সেও মুক্ত হয়, আর তাকে ইখতিয়ার প্রদান করা হলে সে বলে, আমি তার (স্বামীর) সাথে থাকতে পছন্দ করিনা। আর আমার অসুবিধা এরূপ সেরূপ। [স্বামী আযাদ হওয়ার কথাটি মুদরাজ। যা আসওয়াদের উক্তি থেকে এসেছে।]
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। যখন বারীরাহকে আযাদ করে দেয়া হয় তখন তার স্বামী ছিলো আযাদ এবং তাকে এখতিয়ার দেয়া হলে সে বলে, তার সাথে বসবাসের কোনো আকর্ষণ আমার নেই, যদিও আমাকে এতো এতো কিছু দেয়া হয়।[1] সহীহ। বুখারী। আর ‘স্বামী আযাদ হওয়ার’ কথাটি মুদরাজ। যা আসওয়াদের উক্তি থেকে এসেছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2235</td></tr><tr><td>Arabic No</td><td>2235</td></tr><tr><td>Reference</td><td>Book 13 Hadith 61</td></tr></tbody></table></div>
 

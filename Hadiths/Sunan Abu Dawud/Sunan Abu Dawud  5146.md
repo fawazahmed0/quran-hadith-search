@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ও আবূ বকর ইবন শায়বা (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার কোন কন্যা সন্তান থাকবে, আর সে তাকে জীবন্ত কবর দেবে না এবং হেয় প্রতিপন্নও করবে না, আর পুত্রকে কন্যার উপর প্রাধান্য দেবে না, আল্লাহ্‌ তাকে জান্নাতে দাখিল করবেন।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তির ঘরে কন্যা সন্তান জন্মগ্রহণ করলে সে যদি তাকে জীবন্ত কবর না দেয় এবং তাকে অবজ্ঞা না করে এবং তার পুত্র সন্তানকে তার উপর প্রাধান্য না দেয় তাহলে আল্লাহ তাকে জান্নাতে প্রবেশ করাবেন। বর্ণনাকারী উসমান ‘পুত্র সন্তান’ কথাটি উল্লেখ করেননি।[1] দুর্বলঃ মিশকাত হা/ ৪৯৭৯।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>5146</td></tr><tr><td>Reference</td><td>Book 43 Hadith 374</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ইউনুস ...... রুকানা ইবন ইয়াযীদ (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে পূবোর্ক্ত হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন।
+। নাফি‘ ইবনু ‘উজাইর (রহ.) থেকে রুকানা ইবনু ‘আবদে ইয়াযীদের মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে উক্ত হাদীস বর্ণিত হয়েছে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2207</td></tr><tr><td>Arabic No</td><td>2207</td></tr><tr><td>Reference</td><td>Book 13 Hadith 33</td></tr></tbody></table></div>
 

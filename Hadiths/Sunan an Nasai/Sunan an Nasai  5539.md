@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইব্‌ন বাশশার (রহঃ) ... উম্মে সালামা (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন নিজ ঘর হতে বের হতেন তখন বলতেনঃ আমি আল্লাহর নামে বের হচ্ছি। হে আমার রব! আমি পদস্খলিত হওয়া থেকে, পথভ্রষ্টতা হতে, কারাে উপর নির্যাতন করা এবং কারাে দ্বারা নির্যাতীত হওয়া থেকে এবং আমি মূর্খতাসুলভ আচরণ থেকে এবং আমার উপর অন্যের মূর্খতাসুলভ আচরণ থেকে আপনার নিকট আশ্রয় প্রার্থনা করছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5539</td></tr><tr><td>Arabic No</td><td>5539</td></tr><tr><td>Reference</td><td>Book 50 Hadith 112</td></tr></tbody></table></div>
 

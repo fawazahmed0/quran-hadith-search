@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বর্ণনাকারী হিশাম তাঁর পিতা থেকে বর্ণনা করেন, ‘উমার (রাঃ) ‘আয়িশাহ (রাঃ)-এর নিকট লোক পাঠালেন, আমাকে আমার দু’ সঙ্গী [রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও আবূ বকর (রাঃ)]-এর সঙ্গে দাফন হবার অনুমতি দিন। ‘আয়িশাহ (রাঃ) বললেন, হ্যাঁ। আল্লাহর কসম! বর্ণনাকারী আরো বলেন, ‘আয়িশাহ (রাঃ)-এর কাছে সহাবাদের কেউ যখনই এই অনুমতির জন্য কাউকে পাঠাতেন, তখনি তিনি বলতেন, না। আল্লাহর কসম! আমি তাঁদের কাউকে কক্ষনো প্রাধান্য দেব না। (আধুনিক প্রকাশনী- ৬৮১৬ শেষাংশ, ইসলামিক ফাউন্ডেশন- ৬৮২৮ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7327</td></tr><tr><td>Arabic No</td><td>7327</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

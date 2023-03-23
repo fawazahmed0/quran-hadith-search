@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইব্‌ন ঈসা (রহঃ) ...... উম্মে সালামা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি স্বর্ণালংকার ব্যবহার করতাম। একদা আমি বললাম, ইয়া রাসূলাল্লাহ! আমার এই অলংকার “কান্‌য” হিসেবে গণ্য হবে কী? তিনি বলেনঃ যে মালের পরিমাণ এতটা হবে যার উপর যাকাত ধার্য হয়, তার যাকাত দিতে হবে, তা (ভূগর্ভে) গচ্ছিত ধন নয়।(১)
+। উম্মু সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি স্বর্ণের অলংকার পরতাম। আমি বললাম, হে আল্লাহর রসূল! এটা কি কান্য (সঞ্চিত সম্পদ) হিসেবে গণ্য হবে? তিনি বললেনঃ যে সম্পদ নিসাব পরিমাণ হয় এবং তার যাকাত দেয়া হয়, তা ‘কানয’ নয়।[1] হাসান : এর কেবল মারফু অংশটুকু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1564</td></tr><tr><td>Arabic No</td><td>1564</td></tr><tr><td>Reference</td><td>Book 9 Hadith 9</td></tr></tbody></table></div>
 

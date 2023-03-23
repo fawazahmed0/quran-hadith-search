@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৭৩০। জাবির ইবনু আব্দুল্লাহ (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আলী (রাযিঃ) কে বললেনঃ আমার নিকটে তুমি মর্যাদায় মূসা (আঃ) এর নিকট হারুনের মর্যাদার মত। তবে আমার পরে কোন নবী নেই। পূর্বের হাদিসের সহায়তায় সহীহ। আবু ঈসা বলেন, উপুর্যুক্ত সনদে এ হাদিসটি হাসান গারীব। এ অনুচ্ছেদে সা'দ, যাইদ ইবনু আরকাম, আবু হুরাইরা ও উম্মু সালামাহ (রাযিঃ) হতেও হাদিস বর্ণিত আছে।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3730</td></tr><tr><td>Arabic No</td><td>3730</td></tr><tr><td>Reference</td><td>Book 49 Hadith 127</td></tr></tbody></table></div>
 

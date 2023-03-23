@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৩৭৪, আন্তর্জাতিক নাম্বারঃ ২৫৩৭ ৬৩৭৪-(.../...) আবদুল্লাহ ইবনু আবদুর রহমান দারিমী (রাযিঃ) ..... মা'মার (রহঃ) হতে যুহরী (রহঃ) সূত্রে তার হাদীসের অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬২৫০, ইসলামিক সেন্টার ৬২৯৮)
+আবদুল্লাহ ইবনু আবদুর রহমান দারিমী (রাযিঃ) ..... মা'মার (রহঃ) হতে যুহরী (রহঃ) সূত্রে তার হাদীসের অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬২৫০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6480</td></tr><tr><td>Arabic No</td><td>2537.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 309</td></tr></tbody></table></div>
 

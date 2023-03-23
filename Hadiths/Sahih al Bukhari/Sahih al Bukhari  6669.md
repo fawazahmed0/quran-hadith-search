@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে সায়িম ভুলে কিছু খায় সে যেন তার সওম পূর্ণ করে। কেননা, আল্লাহ্ তাকে খাইয়েছেন ও পান করিয়েছেন।[1] [১৯৩৩] (আধুনিক প্রকাশনী- ৬২০৪, ইসলামিক ফাউন্ডেশন- ৬২১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে সায়িম ভুলে কিছু খায় সে যেন তার সওম পূর্ণ করে। কেননা, আল্লাহ্ তাকে খাইয়েছেন ও পান করিয়েছেন।[1] [১৯৩৩] (আধুনিক প্রকাশনী- ৬২০৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6669</td></tr><tr><td>Arabic No</td><td>6669</td></tr><tr><td>Reference</td><td>Book 83 Hadith 47</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Yusuf bin Musa] telah menceritakan kepada kami [Abu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நோன்பு நோற்றிருக்கும் ஒருவர் மறதியாகச் சாப்பிட்டுவிட்டால், அவர் தமது நோன்பை நிறைவு செய்யட்டும்! ஏனெனில், அல்லாஹ்வே அவரை உண்ணவும் பருகவும்வைத்தான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.61 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 83
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நோன்பு நோற்றிருக்கும் ஒருவர் மறதியாகச் சாப்பிட்டுவிட்டால், அவர் தமது நோன்பை நிறைவு செய்யட்டும்! ஏனெனில், அல்லாஹ்வே அவரை உண்ணவும் பருகவும்வைத்தான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.61 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6669</td></tr><tr><td>Arabic No</td><td>6669</td></tr><tr><td>Reference</td><td>Book 83 Hadith 47</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু বাশার (রহ.) ..... মুহাজির ইবনু কুনফুয (রাঃ) থেকে বর্ণিত। নবী (সা.) প্রস্রাব করছিলেন, এমতাবস্থায় তিনি তাকে সালাম করেন। কিন্তু তিনি (সা.) উযু করার আগে সালামের উত্তর দেননি; উযূ করার পর সালামের উত্তর প্রদান করেছেন। সহীহ: আবূ দাউদ ১৭, ইবনু মাজাহ ৩৫০, ইবনু হিব্বান-এর ‘মাওয়ারিদ ১৮৯, মুসতাদরাক হাকিম (১/১৬৭), নাসায়ী’র “সুনানুল কুবরা” (১/৯০), সহীহাহ্ ৮৩৪।
+। মুহাম্মদ ইবনু বাশশার (রহঃ) ... মুহাজির ইবনু কুনফুয (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পেশাব করছিলেন, এমতাবস্থায় তিনি তাঁকে সালাম দেন। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উযূ (ওজু/অজু/অযু) করার পূর্বে সালামের জবাব দেননি; উযূ করার পর সালামের জবাব দেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 1 Hadith 38</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Muhammad bin Basyar] dia berkata; telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muhacir b. Kunfüz (radıyallahü anh), Rasûlüllah (sallallahü aleyhi ve sellem) küçük abdest bozarken kendisine selâm vermişti de, Rasûlüllah (sallallahü aleyhi ve sellem) abdest alıncaya kadar selâmını almadı. Abdest alıp bitirdi. Sonra selâmını aldı. (İbn Mâce, Tahara: 27; Ebû Dâvûd, Tahara: 8)
+Muhacir b. Kunfüz (radıyallahü anh), Rasûlüllah (sallallahü aleyhi ve sellem) küçük abdest bozarken kendisine selâm vermişti de, Rasûlüllah (sallallahü aleyhi ve sellem) abdest alıncaya kadar selâmını almadı. Abdest alıp bitirdi. Sonra selâmını aldı. (İbn Mâce, Tahara: 27; Ebû Dâvûd, Tahara:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 1 Hadith 38</td></tr></tbody></table></div>
 

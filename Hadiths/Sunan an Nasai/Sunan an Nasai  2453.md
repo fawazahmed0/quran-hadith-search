@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মদ ইবনুন মানসুর তুসী (রহঃ) ... মুআয ইবন জাবাল (রাঃ) থেকে বর্ণিত তিনি বলেন, আমাকে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইয়ামানে পাঠানাের সময় নির্দেশ দিয়েছিলেন যেন আমি গরুর সংখ্যা ত্রিশ না হওয়া পর্যন্ত তার থেকে কোন যাকাত আদায় না করি। যখন ত্রিশ হয়ে যাবে তখন একটি দুই বছর বয়সী পুরুষ অথবা স্ত্রী বাছুর (এঁড়ে বা বকনা) দিতে হবে। এ হুকুম চল্লিশ পর্যন্ত (ত্ৰিশের বেশী কিন্তু চল্লিশের কম)। চল্লিশ হয়ে গেলে তাতে একটি তিন বছর বয়সী গাভী ওয়াজিব হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2453</td></tr><tr><td>Arabic No</td><td>2453</td></tr><tr><td>Reference</td><td>Book 23 Hadith 19</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ কখনো এ কথা বলবে না যে, হে আল্লাহ! আপনার ইচ্ছে হলে আমাকে ক্ষমা করুন। হে আল্লাহ! আপনার ইচ্ছে হলে আমাকে দয়া করুন। বরং দৃঢ় আশা নিয়ে দু‘আ করবে। কারণ আল্লাহকে বাধ্য করার কেউ নেই। [৭৪৭৭; মুসলিম ৪৮/৩, হাঃ ২৬৭৯, আহমাদ ৯৯৭৫] (আধুনিক প্রকাশনী- ৫৮৯৪, ইসলামিক ফাউন্ডেশন- ৫৭৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ কখনো এ কথা বলবে না যে, হে আল্লাহ! আপনার ইচ্ছে হলে আমাকে ক্ষমা করুন। হে আল্লাহ! আপনার ইচ্ছে হলে আমাকে দয়া করুন। বরং দৃঢ় আশা নিয়ে দু‘আ করবে। কারণ আল্লাহকে বাধ্য করার কেউ নেই। [৭৪৭৭; মুসলিম ৪৮/৩, হাঃ ২৬৭৯, আহমাদ ৯৯৭৫] (আধুনিক প্রকাশনী- ৫৮৯৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6339</td></tr><tr><td>Arabic No</td><td>6339</td></tr><tr><td>Reference</td><td>Book 80 Hadith 36</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abu Az
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் “இறைவா! நீ நினைத்தால் என்னை மன்னிப்பாயாக. இறைவா! நீ நினைத்தால் என்மீது அருள்புரிவாயாக” என்று பிரார்த்திக்க வேண்டாம். மாறாக, கேட்பதை வலியுறுத்திக் கேளுங்கள். (இது, இறைவனைக் கட்டாயப்படுத்துவ தாகாது.) ஏனெனில், அவனைக் கட்டாயப் படுத்துபவர் யாருமில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 80
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் “இறைவா! நீ நினைத்தால் என்னை மன்னிப்பாயாக. இறைவா! நீ நினைத்தால் என்மீது அருள்புரிவாயாக” என்று பிரார்த்திக்க வேண்டாம். மாறாக, கேட்பதை வலியுறுத்திக் கேளுங்கள். (இது, இறைவனைக் கட்டாயப்படுத்துவ தாகாது.) ஏனெனில், அவனைக் கட்டாயப் படுத்துபவர் யாருமில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6339</td></tr><tr><td>Arabic No</td><td>6339</td></tr><tr><td>Reference</td><td>Book 80 Hadith 36</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abu Az
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allahım! Dilersen beni bağışla, dilersen affet demeyin. Dua ettiğinizde çekince taşımayın. Çünkü zaten Allah'ı istemediği şeye zorlayacak kimse yoktur". Fethu'l-Bari Açıklaması: İnsanların bütün fiillerinde Allah'ın iradesine teslim olmaları istendiği halde bu babda dua edilirken talep edilen şeylerin Allah'ın dileyip dilememesine bağlanmaması işlenmektedir. Hadislerde geçen ........azm kelimesi ile Allah'ın edilen duaya icabet edeceğinin düşünülmesinin öğütlendiği de kaydedilmiştir. Allah'ı iyilik yapmaya zorlayan bir şeyin olmaması şu anlama gelmektedir. İbn Battal hadiste dua edenlerin dua ederken ciddi olmaları, icabet edileceğini ummaları ve rahmetten ümit kesmemeleri gerektiğinin beyan edildiğini söylemiştir. Çünkü kişi dua ederken muhatabı kerim olan Allah Teaıa'dır. İbn Uyeyne ise şöyle demiştir: Kişi kusurlarını bildiği müddetçe dua etmekten men olunmamıştır. Zira Allah Teala yarattığı kullarının en şerlisi olan İblis'in bile duasına icabet etmiştir. İblis'in kabul edilen duası şöyledir: «Rabbim! Beni hiç olmazsa, tekrar dirilecekleri güne kadar ertele" dedi"(Hicr 36)
+Ebu Hureyre r.a.'den nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allahım! Dilersen beni bağışla, dilersen affet demeyin. Dua ettiğinizde çekince taşımayın. Çünkü zaten Allah'ı istemediği şeye zorlayacak kimse yoktur". Fethu'l-Bari Açıklaması: İnsanların bütün fiillerinde Allah'ın iradesine teslim olmaları istendiği halde bu babda dua edilirken talep edilen şeylerin Allah'ın dileyip dilememesine bağlanmaması işlenmektedir. Hadislerde geçen ........azm kelimesi ile Allah'ın edilen duaya icabet edeceğinin düşünülmesinin öğütlendiği de kaydedilmiştir. Allah'ı iyilik yapmaya zorlayan bir şeyin olmaması şu anlama gelmektedir. İbn Battal hadiste dua edenlerin dua ederken ciddi olmaları, icabet edileceğini ummaları ve rahmetten ümit kesmemeleri gerektiğinin beyan edildiğini söylemiştir. Çünkü kişi dua ederken muhatabı kerim olan Allah Teaıa'dır. İbn Uyeyne ise şöyle demiştir: Kişi kusurlarını bildiği müddetçe dua etmekten men olunmamıştır. Zira Allah Teala yarattığı kullarının en şerlisi olan İblis'in bile duasına icabet etmiştir. İblis'in kabul edilen duası şöyledir: «Rabbim! Beni hiç olmazsa, tekrar dirilecekleri güne kadar ertele" dedi"(Hicr)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6339</td></tr><tr><td>Arabic No</td><td>6339</td></tr><tr><td>Reference</td><td>Book 80 Hadith 36</td></tr></tbody></table></div>
 

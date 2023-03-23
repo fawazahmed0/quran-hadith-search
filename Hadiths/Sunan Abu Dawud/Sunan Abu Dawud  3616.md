@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মিনহাল (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ দু'ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট একটি জিনিসের ব্যাপারে দাবী করে। এদের দুজনের পক্ষে কোন সাক্ষীই ছিলো না। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের দু'জনের কসমের উপর লটারী করার নির্দেশ দেন, চাই সে তা ভাল মনে করুক বা না করুক, (অর্থাৎ লটারীতে যার নাম আগে আসবে, সে কছম করে তা নিয়ে নেবে)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। একদা দু’ ব্যক্তি একটি জিনিসের মালিকানার দাবি নিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট তাদের বিবাদ পেশ করলো। তাদের উভয়েরই কোনো প্রমাণ ছিলো না। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ লটারীর মাধ্যমে নির্ধারণ করো কে কসম করবে, চাই তারা এটা পছন্দ করুক বা না করুন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3616</td></tr><tr><td>Arabic No</td><td>3616</td></tr><tr><td>Reference</td><td>Book 25 Hadith 46</td></tr></tbody></table></div>
 

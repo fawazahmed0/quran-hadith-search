@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইবন উসমান .... সাহল ইবন মু‘আয তাঁর পিতা হতে বর্ণিত। তিনি বলেন, আমি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে যুদ্ধে গমণ করেছি। তারপর পূর্বোক্ত হাদীসের অর্থে হাদীস বর্ণনা করেছেন।
+। সাহল ইবনু মু‘আয (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, ‘আমরা আল্লাহর নবীর সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে যুদ্ধ অংশগ্রহণ করেছি। এরপর বাকী অংশ উপরের হাদীসের অনুরূপ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2630</td></tr><tr><td>Arabic No</td><td>2630</td></tr><tr><td>Reference</td><td>Book 15 Hadith 154</td></tr></tbody></table></div>
 

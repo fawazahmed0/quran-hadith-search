@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮০২। জাবির (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কারো খাবারের লোকমা নিচে পড়ে যায় তাহলে সে যেন সন্দেহজনক জিনিস (ময়লা) দূর করে তা খেয়ে নেয় এবং তা যেন শাইতানের জন্য ফেলে না রাখে। সহীহ, ইবনু মা-জাহ (৩২৭৯), মুসলিম আনাস (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
+। জাবির (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কারো খাবারের লোকমা নিচে পড়ে যায় তাহলে সে যেন সন্দেহজনক জিনিস (ময়লা) দূর করে তা খেয়ে নেয় এবং তা যেন শাইতানের জন্য ফেলে না রাখে। সহীহ, ইবনু মা-জাহ (৩২৭৯), মুসলিম আনাস (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>1802</td></tr><tr><td>Reference</td><td>Book 25 Hadith 16</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَكَانَ أَبُو وَائِلٍ يُرْسِلُ خَادِمَهُ وَهِيَ حَائِضٌ إِلَى أَبِي رَزِينٍ فَتَأْتِيهِ بِالْمُصْحَفِ فَتُمْسِكُهُ بِعِلاَقَتِهِ. আবু ওয়াইল (রহঃ) তাঁর ঋতুবতী দাসীকে আবু রাযিন (রহঃ) এর নিকট পাঠাতেন, আর দাসী জুযদানে পেঁচিয়ে কুরআন মাজিদ নিয়ে আসত। ২৯৭। আয়িশা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) আমার কোলে হেলান দিয়ে কুরআন তিলাওয়াত করতেন। আর তখন আমি হায়েযের অবস্থায় ছিলাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>297</td></tr><tr><td>Arabic No</td><td>297</td></tr><tr><td>Reference</td><td>Book 6 Hadith 4</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim Al Fadll bin Dukain] bahwa dia menden
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்களின் துணைவியார்) ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: எனக்கு மாதவிடாய் ஏற்பட்டிருக்கும்போது நபி (ஸல்) அவர்கள் என் மடியில் தலை வைத்துப் படுத்துக்கொண்டு குர்ஆன் ஓதுவார்கள். அத்தியாயம் : 6
+நபி (ஸல்) அவர்களின் துணைவியார்) ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: எனக்கு மாதவிடாய் ஏற்பட்டிருக்கும்போது நபி (ஸல்) அவர்கள் என் மடியில் தலை வைத்துப் படுத்துக்கொண்டு குர்ஆன் ஓதுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>297</td></tr><tr><td>Arabic No</td><td>297</td></tr><tr><td>Reference</td><td>Book 6 Hadith 4</td></tr></tbody></table></div>
 

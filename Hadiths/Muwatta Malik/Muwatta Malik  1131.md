@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৩৯. ইবন শিহাব (রহঃ) হইতে বর্ণিত, সাঈদ ইবন মুসায়্যাব (রহঃ) বলেনঃ কুরআনের আয়াতে উল্লিখিত (وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ) সাধ্বী রমণীগণ “ইহারা হইলেন ঐ সকল নারী যাহাদের স্বামী আছে।” ইহা দ্বারা প্রতিভাত হয় যে, আল্লাহ তা'আলা ব্যভিচারকে হারাম করিয়াছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1131</td></tr><tr><td>Arabic No</td><td>1131</td></tr><tr><td>Reference</td><td>Book 28 Hadith 41</td></tr></tbody></table></div>
 

@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ২১১. মালিক (রহঃ) নাফি' (রহঃ) হইতে বর্ণনা করেন, তিনি বলিয়াছেনঃ লোকেরা আমার নিকট বলিয়াছেনঃ উমর ইবন খাত্তাব (রাঃ) জামরা-এ-আকাবা বা প্রস্তর নিক্ষেপের স্থানের পশ্চাৎ হইতেই লোকদিগকে মিনার দিকে ফিরাইয়া দেওয়ার জন্য কিছুসংখ্যক লোক নিযুক্ত করিয়া রাখিতেন।[1]
+রেওয়ায়ত ২১১. মালিক (রহঃ) নাফি' (রহঃ) হইতে বর্ণনা করেন, তিনি বলিয়াছেনঃ লোকেরা আমার নিকট বলিয়াছেনঃ উমর ইবন খাত্তাব (রাঃ) জামরা-এ-আকাবা বা প্রস্তর নিক্ষেপের স্থানের পশ্চাৎ হইতেই লোকদিগকে মিনার দিকে ফিরাইয়া দেওয়ার জন্য কিছুসংখ্যক লোক নিযুক্ত করিয়া রাখিতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 20 Hadith 207</td></tr></tbody></table></div>
 

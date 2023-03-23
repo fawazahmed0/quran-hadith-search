@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে একটি রেশমী জুববা হাদিয়া দেয়া হল। অথচ তিনি রেশমী বস্ত্র পরতে নিষেধ করতেন; লোকেরা তা খুব পছন্দ করল। তখন তিনি বললেন, ঐ সত্তার কসম! যাঁর হাতে মুহাম্মাদের প্রাণ, অবশ্যই জান্নাতে সা‘দ ইবনু মুআ‘যের রুমাল এর থেকে বেশি সুন্দর হবে। (২৬১৫) (আধুনিক প্রকাশনীঃ ৩০০৮, ইসলামিক ফাউন্ডেশনঃ ৩০১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে একটি রেশমী জুববা হাদিয়া দেয়া হল। অথচ তিনি রেশমী বস্ত্র পরতে নিষেধ করতেন; লোকেরা তা খুব পছন্দ করল। তখন তিনি বললেন, ঐ সত্তার কসম! যাঁর হাতে মুহাম্মাদের প্রাণ, অবশ্যই জান্নাতে সা‘দ ইবনু মুআ‘যের রুমাল এর থেকে বেশি সুন্দর হবে। (২৬১৫) (আধুনিক প্রকাশনীঃ ৩০০৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3248</td></tr><tr><td>Arabic No</td><td>3248</td></tr><tr><td>Reference</td><td>Book 59 Hadith 59</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Muhammad Al Ju'fiy] telah bercerita k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்குப் பட்டு அங்கி ஒன்று அன்பளிப்பாக வழங்கப் பட்டது. அவர்கள் பட்டை (அணியக் கூடாது என்று) தடை செய்துவந்தார்கள். மக்களோ, அந்த அங்கி(யின் தரத்தை மற்றும் மென்மை)யைக் கண்டு வியந் தார்கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘முஹம்மதின் உயிர் யார் கையில் உள்ளதோ அவன்மீது சத்தியமாக! (என் தோழர்) சஅத் பின் முஆதுக்கு சொர்க்கத் தில் கிடைக்கவிருக்கும் கைக்குட்டைகள் (தரத்திலும் மென்மையிலும்) இதைவிட உயர்ந்தவை” என்று கூறினார்கள்.54 அத்தியாயம் : 59
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களுக்குப் பட்டு அங்கி ஒன்று அன்பளிப்பாக வழங்கப் பட்டது. அவர்கள் பட்டை (அணியக் கூடாது என்று) தடை செய்துவந்தார்கள். மக்களோ, அந்த அங்கி(யின் தரத்தை மற்றும் மென்மை)யைக் கண்டு வியந் தார்கள். அப்போது நபி (ஸல்) அவர்கள், ‘‘முஹம்மதின் உயிர் யார் கையில் உள்ளதோ அவன்மீது சத்தியமாக! (என் தோழர்) சஅத் பின் முஆதுக்கு சொர்க்கத் தில் கிடைக்கவிருக்கும் கைக்குட்டைகள் (தரத்திலும் மென்மையிலும்) இதைவிட உயர்ந்தவை” என்று கூறினார்கள்.54 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3248</td></tr><tr><td>Arabic No</td><td>3248</td></tr><tr><td>Reference</td><td>Book 59 Hadith 59</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami ['Abdullah bin Muhammad Al Ju'fiy] telah bercerita k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes bin Malik r.a.'in şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem'e ipek bir cübbe hediye edilmişti. Resulullah Sallallahu Aleyhi ve Sellem ipeği daha önce yasaklamıştı. İnsanlar bu ipek cübbeye hayran kalmışlardı. Bunu fark eden Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Muhammed'in canını elinde bulunduran Allah'a yemin ederim ki Sa'ad İbn Muaz'ın cennetteki mendil/eri bundan daha güzel, daha üstündür. " Tekrar: 3802, 5836, 6640
+Enes bin Malik r.a.'in şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem'e ipek bir cübbe hediye edilmişti. Resulullah Sallallahu Aleyhi ve Sellem ipeği daha önce yasaklamıştı. İnsanlar bu ipek cübbeye hayran kalmışlardı. Bunu fark eden Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Muhammed'in canını elinde bulunduran Allah'a yemin ederim ki Sa'ad İbn Muaz'ın cennetteki mendil/eri bundan daha güzel, daha üstündür. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3248</td></tr><tr><td>Arabic No</td><td>3248</td></tr><tr><td>Reference</td><td>Book 59 Hadith 59</td></tr></tbody></table></div>
 

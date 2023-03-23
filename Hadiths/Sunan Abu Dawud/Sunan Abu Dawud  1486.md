@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন আব্দুল হামীদ (রহঃ) ..... মালিক ইবন য়াসার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ যখন তোমরা আল্লাহ্‌ কাছে দু’আ কর তখন তোমরা হাতের পেট দ্বারা দুআ করবে, পিঠ দ্বারা নয়। সুলায়মান (রহঃ) বলেন, আমাদের মতে, মালিক (রাঃ) মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহচর্য লাভ করেছেন।
+। মালিক ইবনু ইয়াসার আস-সাকূনী আল-‘আওফী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আল্লাহর নিকট দু‘আর সময় হাতের তালুকে সম্মুখে রেখে দু‘আ করবে, হাতের পৃষ্ঠ দিয়ে নয়।[1] হাসান সহীহ। ইমাম আবূ দাঊদ (রহঃ) বলেন, সুলায়মান ইবনু ‘আবদুল হামীদ (রহঃ) বলেন, আমাদের মতে মালিক ইবনু ইয়াসার (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহচর্য পেয়েছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1486</td></tr><tr><td>Arabic No</td><td>1486</td></tr><tr><td>Reference</td><td>Book 8 Hadith 71</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। উকবাহ ইবনু ‘আমির আল-জুহানী (রাঃ) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বললেন, আমার বোন পদব্রজে বাইতুল্লাহ যাওয়ার মানত করেছে। তিনি বলেন, নিশ্চয়ই আল্লাহ তোমার বোনের পায়ে হেঁটে বাইতুল্লাহ যাওয়াতে বাধ্যবাধকতা রাখেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3304</td></tr><tr><td>Arabic No</td><td>3304</td></tr><tr><td>Reference</td><td>Book 22 Hadith 63</td></tr></tbody></table></div>
 

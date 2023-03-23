@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নির্দেশ দিয়েছেন সাতটি কাজেরঃ রোগীর খোঁজ-খবর নেয়া, জানাযার সঙ্গে যাওয়া, হাঁচি দাতার জন্য দু‘আ করা, দুর্বলকে সাহায্য করা, মাযলূমের সাহায্য করা, সালাম প্রসার করা এবং কসমকারীর কসম পূর্ণ করা। আর নিষেধ করেছেন (সাতটি কাজ থেকে) রূপার পাত্রে পানাহার, স্বর্ণের আংটি পরিধান, রেশমী যিনের উপর সাওয়ার হওয়া, মিহিন রেশমী বস্ত্র পরিধান, পাতলা রেশম বস্ত্র ব্যবহার, রেশম মিশ্রিত কাতান বস্ত্র পরিধান এবং গাঢ় রেশমী বস্ত্র পরিধান করা। [১২৩৯] (আধুনিক প্রকাশনী- ৫৭৯৩, ইসলামিক ফাউন্ডেশন- ৫৬৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নির্দেশ দিয়েছেন সাতটি কাজেরঃ রোগীর খোঁজ-খবর নেয়া, জানাযার সঙ্গে যাওয়া, হাঁচি দাতার জন্য দু‘আ করা, দুর্বলকে সাহায্য করা, মাযলূমের সাহায্য করা, সালাম প্রসার করা এবং কসমকারীর কসম পূর্ণ করা। আর নিষেধ করেছেন (সাতটি কাজ থেকে) রূপার পাত্রে পানাহার, স্বর্ণের আংটি পরিধান, রেশমী যিনের উপর সাওয়ার হওয়া, মিহিন রেশমী বস্ত্র পরিধান, পাতলা রেশম বস্ত্র ব্যবহার, রেশম মিশ্রিত কাতান বস্ত্র পরিধান এবং গাঢ় রেশমী বস্ত্র পরিধান করা। [১২৩৯] (আধুনিক প্রকাশনী- ৫৭৯৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6235</td></tr><tr><td>Arabic No</td><td>6235</td></tr><tr><td>Reference</td><td>Book 79 Hadith 9</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Al-Bara' bin 'Azib: Allah's Messenger (ﷺ) ordered us to do seven (things): to visit the sick, to follow the funeral processions, to say Tashmit to a sneezer, to help the weak, to help the oppressed ones, to propagate As-Salam (greeting), and to help others to fulfill their oaths (if it is not sinful). He forbade us to drink from silver utensils, to wear gold rings, to ride on silken saddles, to wear silk clothes, Dibaj (thick silk cloth), Qassiy and Istabraq (two kinds of silk). (See Hadith No. 539, Vol. 7)
+Narrated Al-Bara' bin 'Azib: Allah's Messenger (ﷺ) ordered us to do seven (things): to visit the sick, to follow the funeral processions, to say Tashmit to a sneezer, to help the weak, to help the oppressed ones, to propagate As-Salam (greeting), and to help others to fulfill their oaths (if it is not sinful). He forbade us to drink from silver utensils, to wear gold rings, to ride on silken saddles, to wear silk clothes, Dibaj (thick silk cloth), Qassiy and Istabraq (two kinds of silk). (See Hadith No. 539, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6235</td></tr><tr><td>Arabic No</td><td>6235</td></tr><tr><td>Reference</td><td>Book 79 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஏழு விஷயங்களைக் கடைப்பிடிக்குமாறு எங்களுக்குக் கட்டளையிட்டார்கள். (அவையாவன:) 1. நோயாளிகளை நலம் விசாரிப்பது. 2. ஜனாஸாக்களைப் பின்தொடர்ந்து செல்வது. 3. தும்மியவர் ‘அல்ஹம்துலில்லாஹ்’ (எல்லாப் புகழும் அல்லாஹ்வுக்கே) என்று சொன்னால் அவருக்காக ‘யர்ஹமுக்கல்லாஹ்’ (அல்லாஹ் உங்களுக்குக் கருணை புரியட்டும்) என்று மறுமொழி கூறுவது. 4. நலிந்தவருக்கு உதவி செய்வது.5. அநீதியிழைக்கப்பட்டவருக்கு ஒத்தாசை செய்வது. 6. (மக்களிடையே) சலாமைப் பரப்புவது. 7. சத்தியம் செய்தவர் அதை நிறைவேற்ற உதவுவது. (பின்வருவனவற்றைச் செய்யக் கூடாதென) தடை செய்தார்கள்: 1. வெள்ளிப் பாத்திரத்தில் பருகுவது. 2. (ஆண்கள்) பொன்மோதிரம் அணிவது. 3. மென்பட்டுத் திண்டில் அமர்ந்து பயணிப்பது. 4. சாதாரணப் பட்டு அணிவது. 5. அலங்காரப் பட்டு அணிவது. 6. எதிப்தியப் பட்டு அணிவது. 7. தடித்த பட்டு அணிவது.11 அத்தியாயம் : 79
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஏழு விஷயங்களைக் கடைப்பிடிக்குமாறு எங்களுக்குக் கட்டளையிட்டார்கள். (அவையாவன:) 1. நோயாளிகளை நலம் விசாரிப்பது. 2. ஜனாஸாக்களைப் பின்தொடர்ந்து செல்வது. 3. தும்மியவர் ‘அல்ஹம்துலில்லாஹ்’ (எல்லாப் புகழும் அல்லாஹ்வுக்கே) என்று சொன்னால் அவருக்காக ‘யர்ஹமுக்கல்லாஹ்’ (அல்லாஹ் உங்களுக்குக் கருணை புரியட்டும்) என்று மறுமொழி கூறுவது. 4. நலிந்தவருக்கு உதவி செய்வது.5. அநீதியிழைக்கப்பட்டவருக்கு ஒத்தாசை செய்வது. 6. (மக்களிடையே) சலாமைப் பரப்புவது. 7. சத்தியம் செய்தவர் அதை நிறைவேற்ற உதவுவது. (பின்வருவனவற்றைச் செய்யக் கூடாதென) தடை செய்தார்கள்: 1. வெள்ளிப் பாத்திரத்தில் பருகுவது. 2. (ஆண்கள்) பொன்மோதிரம் அணிவது. 3. மென்பட்டுத் திண்டில் அமர்ந்து பயணிப்பது. 4. சாதாரணப் பட்டு அணிவது. 5. அலங்காரப் பட்டு அணிவது. 6. எதிப்தியப் பட்டு அணிவது. 7. தடித்த பட்டு அணிவது.11 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6235</td></tr><tr><td>Arabic No</td><td>6235</td></tr><tr><td>Reference</td><td>Book 79 Hadith 9</td></tr></tbody></table></div>
 

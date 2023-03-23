@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন যে, এক ব্যক্তি তাঁকে জিজ্ঞেস করল, ‘মুহরিম কী কাপড় পরিধান করবে?’ তিনি বললেনঃ ‘জামা, পাগড়ী, পাজামা, টুপি এবং কুসুম বা জাফরান রঙ্গে রঞ্জিত কোন কাপড় পরিধান করবে না। জুতা না পেলে চামড়ার মোজা পরতে পারে, তবে এমনভাবে কেটে ফেলতে হবে যাতে মোজা দু’টি পায়ের গিরার নিচে থাকে। (৩৬৬, ১৫৪২, ১৮৩৮, ১৮৪২, ৫৭৯৪, ৫৮০৩, ৫৮০৫, ৫৮০৬, ৫৮৪৭, ৫৮৫২) (আধুনিক প্রকাশনীঃ ১৩১, ইসলামিক ফাউন্ডেশনঃ ১৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন যে, এক ব্যক্তি তাঁকে জিজ্ঞেস করল, ‘মুহরিম কী কাপড় পরিধান করবে?’ তিনি বললেনঃ ‘জামা, পাগড়ী, পাজামা, টুপি এবং কুসুম বা যাফরান রঙ্গে রঞ্জিত কোন কাপড় পরিধান করবে না। জুতা না পেলে চামড়ার মোজা পরতে পারে, তবে এমনভাবে কেটে ফেলতে হবে যাতে মোজা দু’টি পায়ের গিরার নিচে থাকে। (৩৬৬, ১৫৪২, ১৮৩৮, ১৮৪২, ৫৭৯৪, ৫৮০৩, ৫৮০৫, ৫৮০৬, ৫৮৪৭, ৫৮৫২) (আধুনিক প্রকাশনীঃ ১৩১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>134</td></tr><tr><td>Arabic No</td><td>134</td></tr><tr><td>Reference</td><td>Book 3 Hadith 76</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Umar:A man asked the Prophet (ﷺ) : "What (kinds of clothes) should a Muhrim (a Muslim intending to perform 'Umra or Hajj) wear? He replied, "He should not wear a shirt, a turban, trousers, a head cloak or garment scented with saffron or Wars (kinds of perfumes). And if he has no slippers, then he can use Khuffs (socks made from thick fabric or leather) but the socks should be cut short so as to make the ankles bare." (See Hadith No. 615, Vol. 2)
+Narrated Ibn 'Umar:A man asked the Prophet (ﷺ) : "What (kinds of clothes) should a Muhrim (a Muslim intending to perform 'Umra or Hajj) wear? He replied, "He should not wear a shirt, a turban, trousers, a head cloak or garment scented with saffron or Wars (kinds of perfumes). And if he has no slippers, then he can use Khuffs (socks made from thick fabric or leather) but the socks should be cut short so as to make the ankles bare." (See Hadith No. 615, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>134</td></tr><tr><td>Arabic No</td><td>134</td></tr><tr><td>Reference</td><td>Book 3 Hadith 76</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், ‘இஹ்ராம்’ கட்டியவர் எந்த ஆடையை அணிய வேண்டும்?” என்று கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், “முழு நீளச் சட்டை, தலைப்பாகை, முழுக்கால் சட்டை, முக்காடுள்ள மேலங்கி (புர்னுஸ்), (சாயம் எடுக்கப் பயன்படும்) ‘வர்ஸ்’ எனும் வாசனைச் செடியால் சாயம் தோய்த்த ஆடை, அல்லது குங்குமச் சாயம் தோய்த்த ஆடை ஆகியவற்றை (இஹ்ராம் கட்டியவர்) அணியக் கூடாது. காலணிகள் கிடைக்கா விட்டால் (தோலினாலான உயரமான) காலுறைகளை அணிந்து கொள்ளலாம். (ஆனால்) காலுறைகள் கணுக்காலுக்குக் கீழே இருக்கும்படி கத்தரித்து (அணிந்து)கொள்ளட்டும்” என்று சொன்னார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 4
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், ‘இஹ்ராம்’ கட்டியவர் எந்த ஆடையை அணிய வேண்டும்?” என்று கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், “முழு நீளச் சட்டை, தலைப்பாகை, முழுக்கால் சட்டை, முக்காடுள்ள மேலங்கி (புர்னுஸ்), (சாயம் எடுக்கப் பயன்படும்) ‘வர்ஸ்’ எனும் வாசனைச் செடியால் சாயம் தோய்த்த ஆடை, அல்லது குங்குமச் சாயம் தோய்த்த ஆடை ஆகியவற்றை (இஹ்ராம் கட்டியவர்) அணியக் கூடாது. காலணிகள் கிடைக்கா விட்டால் (தோலினாலான உயரமான) காலுறைகளை அணிந்து கொள்ளலாம். (ஆனால்) காலுறைகள் கணுக்காலுக்குக் கீழே இருக்கும்படி கத்தரித்து (அணிந்து)கொள்ளட்டும்” என்று சொன்னார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>134</td></tr><tr><td>Arabic No</td><td>134</td></tr><tr><td>Reference</td><td>Book 3 Hadith 76</td></tr></tbody></table></div>
 

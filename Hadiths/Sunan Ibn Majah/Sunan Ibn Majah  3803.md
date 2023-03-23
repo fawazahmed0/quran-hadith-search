@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৩৮০৩। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পছন্দনীয় কিছু দেখলে বলতেনঃ ‘‘আলহামদু লিল্লাহিল্লাযী বিনিয়‘মাতিহি তাতিমুসসালিহাত’’ (সমস্ত প্রশংসা আল্লাহর, যাঁর করুণায় নেক কাজসমূহ পূর্ণতা লাভ করে)। তিনি অপছন্দনীয় কিছু দেখলে বলতেনঃ ‘‘আলহামদু লিল্লাহি আলা কুল্লি হাল’’ (সর্বাবস্থায় সমস্ত প্রশংসা আল্লাহর জন্য)।
+। আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পছন্দনীয় কিছু দেখলে বলতেনঃ ‘‘আলহামদু লিল্লাহিল্লাযী বিনিয়‘মাতিহি তাতিমুসসালিহাত’’ (সমস্ত প্রশংসা আল্লাহর, যাঁর করুণায় নেক কাজসমূহ পূর্ণতা লাভ করে)। তিনি অপছন্দনীয় কিছু দেখলে বলতেনঃ ‘‘আলহামদু লিল্লাহি আলা কুল্লি হাল’’ (সর্বাবস্থায় সমস্ত প্রশংসা আল্লাহর জন্য)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3803</td></tr><tr><td>Arabic No</td><td>3803</td></tr><tr><td>Reference</td><td>Book 33 Hadith 147</td></tr></tbody></table></div>
 

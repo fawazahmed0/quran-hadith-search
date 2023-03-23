@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৭৭, আন্তর্জাতিক নাম্বারঃ ১৯৮ ৩৭৭-(৩৩৬/...) যুহায়র ইবনু হারব ও "আবূদ ইবনু হুমায়দ (রহঃ) ..... আমর ইবনু আবূ সুফইয়ান ইবনু আসীদ ইবনু জারিয়াহ আস্ সাকাফী (রহঃ) থেকে পূর্ব বর্ণিত হাদীসের অনুরূপ বর্ণনা করেছেন।
+যুহায়র ইবনু হারব ও "আবূদ ইবনু হুমায়দ (রহঃ) ..... আমর ইবনু আবূ সুফইয়ান ইবনু আসীদ ইবনু জারিয়াহ আস্ সাকাফী (রহঃ) থেকে পূর্ব বর্ণিত হাদীসের অনুরূপ বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>489</td></tr><tr><td>Arabic No</td><td>198.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 395</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Amr b. Abu Sufyan transmitted a hadith like this from Abu Huraira who narrated i
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் இரு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 1
+மேற்கண்ட ஹதீஸ் மேலும் இரு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>489</td></tr><tr><td>Arabic No</td><td>198.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 395</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Amr b. Abu Sufyan transmitted a hadith like this from Abu Huraira who narrated i
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Zuheyr b, Harb ile Abd b. Hümeyd rivayet ettiler. Züheyr dedi ki: Bize Yakub b. İbrahim rivayet etti. (Dediki): Bize İbni Şihab'ın kardeşi oğlu, amcasından rivayet etti. (Demişki): Bana Amr b. Ebî Süfyan b. Esid b. Cariyete'es-Sekafî bu hadisin mislini Ebu Hureyre'den, o da Resulullah (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 14282
+Bana Zuheyr b, Harb ile Abd b. Hümeyd rivayet ettiler. Züheyr dedi ki: Bize Yakub b. İbrahim rivayet etti. (Dediki): Bize İbni Şihab'ın kardeşi oğlu, amcasından rivayet etti. (Demişki): Bana Amr b. Ebî Süfyan b. Esid b. Cariyete'es-Sekafî bu hadisin mislini Ebu Hureyre'den, o da Resulullah (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>489</td></tr><tr><td>Arabic No</td><td>198.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 395</td></tr></tbody></table></div>
 

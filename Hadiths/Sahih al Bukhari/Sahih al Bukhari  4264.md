@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আমির (রহ.) হতে বর্ণিত। তিনি বলেন, ইবনু ‘উমার (রাঃ) যখনই জা‘ফর ইবনু আবূ তালিব (রাঃ)-এর পুত্র (‘আবদুল্লাহ)-কে সালাম দিতেন তখনই তিনি বলতেন, তোমার প্রতি সালাম, হে দু’ডানাওয়ালার পুত্র।[1] [৩৭০৯] (আধুনিক প্রকাশনীঃ ৩৯৩১, ইসলামিক ফাউন্ডেশনঃ ৩৯৩৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমির (রহ.) হতে বর্ণিত। তিনি বলেন, ইবনু ‘উমার (রাঃ) যখনই জা‘ফর ইবনু আবূ তালিব (রাঃ)-এর পুত্র (‘আবদুল্লাহ)-কে সালাম দিতেন তখনই তিনি বলতেন, তোমার প্রতি সালাম, হে দু’ডানাওয়ালার পুত্র।[1] [৩৭০৯] (আধুনিক প্রকাশনীঃ ৩৯৩১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4264</td></tr><tr><td>Arabic No</td><td>4264</td></tr><tr><td>Reference</td><td>Book 64 Hadith 298</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Abu Bakr] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆமிர் அஷ்ஷஅபீ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள், ஜஅஃபர் (ரலி) அவர்களின் மகனா(ர் அப்துல்லாஹ் பின் ஜஅஃப)ருக்கு முகமன் கூறினால், “இரு சிறகுகள் உடையவரின் மகனே! உங்கள்மீது சாந்தி உண்டாகட்டும்' என்று கூறுவார்கள்.308 அத்தியாயம் : 64
+ஆமிர் அஷ்ஷஅபீ (ரஹ்) அவர்கள் கூறியதாவது: இப்னு உமர் (ரலி) அவர்கள், ஜஅஃபர் (ரலி) அவர்களின் மகனா(ர் அப்துல்லாஹ் பின் ஜஅஃப)ருக்கு முகமன் கூறினால், “இரு சிறகுகள் உடையவரின் மகனே! உங்கள்மீது சாந்தி உண்டாகட்டும்' என்று கூறுவார்கள்.308 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4264</td></tr><tr><td>Arabic No</td><td>4264</td></tr><tr><td>Reference</td><td>Book 64 Hadith 298</td></tr></tbody></table></div>
 

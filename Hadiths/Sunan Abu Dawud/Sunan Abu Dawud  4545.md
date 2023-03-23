@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... আবদুল্লাহ্‌ ইবন মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভুলবশত হত্যার জন্য বিশটি হিক্‌কা (চার বছর বয়সের উট), বিশটি জাযা'আ (ভেঁড়া), বিশটি বিনতে মাখায (উটনী), বিশটি বিনতে লাবুন (দুগ্ধবতী উটনী) এবং বিশটি খাসী মাখায (পুরুষ উট) নির্ধারিত করেছেন।
+। আব্দুল্লাহ ইবনু মাস‘ঊদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ভুলবশত হত্যার দিয়াত হলো বিশটি চতুর্থ বছরে পদার্পণকারী উষ্ট্রী, বিশটি পঞ্চম বছরের পদার্পণকারী উষ্ট্রী, বিশটি দ্বিতীয় বছরে পদার্পণকারী উষ্ট্রী, বিশটি তৃতীয় বছরে পদার্পণকারী উষ্ট্রী এবং বিশটি দ্বিতীয় বছরে পদার্পণকারী উষ্ট্রী। এটি আব্দুল্লাহ ইবনু মাস‘ঊদ (রাঃ)-এর নিজস্ব বক্তব্য।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4545</td></tr><tr><td>Arabic No</td><td>4545</td></tr><tr><td>Reference</td><td>Book 41 Hadith 52</td></tr></tbody></table></div>
 

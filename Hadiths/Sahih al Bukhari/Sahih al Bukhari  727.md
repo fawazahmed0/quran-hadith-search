@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, একবার আমাদের ঘরে আমি ও একটি ইয়াতীম ছেলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পিছনে দাঁড়িয়ে সালাত আদায় করলাম। আর আমার মা উম্মু সুলাইম (রাযি.) আমাদের পিছনে দাঁড়িয়ে ছিলেন। (৩৮০) (আধুনিক প্রকাশনীঃ ৬৮৩, ইসলামিক ফাউন্ডেশনঃ ৬৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, একবার আমাদের ঘরে আমি ও একটি ইয়াতীম ছেলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পিছনে দাঁড়িয়ে সালাত আদায় করলাম। আর আমার মা উম্মু সুলাইম (রাযি.) আমাদের পিছনে দাঁড়িয়ে ছিলেন। (৩৮০) (আধুনিক প্রকাশনীঃ ৬৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>727</td></tr><tr><td>Arabic No</td><td>727</td></tr><tr><td>Reference</td><td>Book 10 Hadith 121</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: எங்களது வீட்டில் நபி (ஸல்) அவர்களுக்குப் பின்னால் (அவர்களைப் பின்பற்றி) நானும் ஓர் அநாதைச் சிறுவரும் தொழுதோம். என் தாயார் -உம்மு சுலைம் (ரலி)- (எங்கள் வரிசையில் சேராமல்) எங்களுக்குப் பின்னால் (நின்று தொழுது கொண்டு) இருந்தார்கள். அத்தியாயம் : 10
+அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: எங்களது வீட்டில் நபி (ஸல்) அவர்களுக்குப் பின்னால் (அவர்களைப் பின்பற்றி) நானும் ஓர் அநாதைச் சிறுவரும் தொழுதோம். என் தாயார் -உம்மு சுலைம் (ரலி)- (எங்கள் வரிசையில் சேராமல்) எங்களுக்குப் பின்னால் (நின்று தொழுது கொண்டு) இருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>727</td></tr><tr><td>Arabic No</td><td>727</td></tr><tr><td>Reference</td><td>Book 10 Hadith 121</td></tr></tbody></table></div>
 

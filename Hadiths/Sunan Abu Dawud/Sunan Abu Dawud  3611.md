@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন দাঊদ (রহঃ) ..... সুলায়মান ইবন বিলাল (রহঃ) রাবীআ (রাঃ) হতে মাসআবের বর্ণিত সনদ ও অর্থে হাদীছ বর্ণনা করেছেন। রাবী সুলায়মান (রহঃ) বলেনঃ আমি সুহায়ল (রাঃ)-এর সঙ্গে সাক্ষাত করে এ হাদীছ সম্পর্কে তাকে জিজ্ঞাসা করলে তিনি বলেনঃ আমি এ হাদীছ সম্পর্কে অবহিত নই। এরপর আমি তাঁকে বলি যে, রাবী'আ আপনার পক্ষ হতে এ হাদীছ আমার কাছে বর্ণনা করেছেন। তখন তিনি বলেনঃ রাবীআ যদি আমার পক্ষ হতে এটি তোমার কাছে বর্ণনা করে থাকে, তবে তুমিও এটি আমার পক্ষ হতে রাবীআ থেকে বর্ণনা কর।
+। রবী‘আহ (রহঃ) থেকে আবূ মুস‘আব সূত্রে উপরোল্লেখিত হাদীস বর্ণিত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3611</td></tr><tr><td>Arabic No</td><td>3611</td></tr><tr><td>Reference</td><td>Book 25 Hadith 41</td></tr></tbody></table></div>
 

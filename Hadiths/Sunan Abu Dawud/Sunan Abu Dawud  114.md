@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবনু শায়বা .... যির ইবনু হুবায়েশ হতে বর্ণিত। তিনি আলী (রাঃ)-কে বলতে শুনেছেন- যখন তাকে উযূ (ওজু/অজু/অযু) সমাপ্তির পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের উযূ সম্পর্কে প্রশ্ল করা হয়েছল। অতঃপর যির (রাবী) উযূর হাদীছঢি বর্ণনা করেন এবং আরো বলেন, আলী (রাঃ) এমনভাবে মাথা মাসেহ্ করেন যেন মাথা হতে পানির ফোটা ঝরছিল এবং তিনি তিনবার পা ধৌত করে বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এইরূপে উযূ করতেন। (ঐ)।
+। যির্ ইবনু হুবাইশ সূত্রে বর্ণিত। তিনি ‘আলী (রাঃ) হতে শুনেছেন, তাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অযু সম্পর্কে জিজ্ঞেস করা হয়েছিল। অতঃপর বর্ণনাকারী পূর্বোক্ত হাদীস বর্ণনা করেন এবং বলেন, তিনি এমনভাবে মাথা মাসাহ্ করলেন যে, পানি ঝড়ে পড়েনি। তিনি তিনবার করে উভয় পা ধুলেন। তারপর বললেন, এরূপই ছিল রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অযু।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 1 Hadith 114</td></tr></tbody></table></div>
 

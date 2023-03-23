@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, তুমি অমুকের অবস্থা দেখে কি অবাক হও না? তিনি এসে আমার হুজরার পাশে বসে আমাকে শুনিয়ে হাদীস বর্ণনা করেন। আমি তখন সালাতে ছিলাম। আমার সালাত শেষ হবার আগেই তিনি উঠে চলে যান। যদি আমি তাকে পেতাম তবে আমি অবশ্যই তাকে সতর্ক করে দিতাম যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তোমাদের মত দ্রুততার সঙ্গে কথা বলতেন না। (৩৫৬৭, মুসলিম ৪৪/৩৫ হাঃ ২৪৯৩) (আধুনিক প্রকাশনীঃ ৩৩০৪, ইসলামিক ফাউন্ডেশনঃ ৩৩১২ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3567</td></tr><tr><td>Arabic No</td><td>3567</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৯৪১, আন্তর্জাতিক নাম্বারঃ ২৩২৭ ৫৯৪১-(.../...) হারমালাহ ইবনু ইয়াহইয়া (রহঃ) উপরোল্লিখিত একাধিক সূত্রের বর্ণনাকারীগণ এ সূত্রে মালিকের হাদীসের হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮৩৯, ইসলামিক সেন্টার ৫৮৭৪)
+হারমালাহ ইবনু ইয়াহইয়া (রহঃ) উপরোল্লিখিত একাধিক সূত্রের বর্ণনাকারীগণ এ সূত্রে মালিকের হাদীসের হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮৩৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>2327.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 105</td></tr></tbody></table></div>
 

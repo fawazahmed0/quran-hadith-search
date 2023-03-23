@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন আবদুল্লাহ (রহঃ) ..... উবায়দ ইবন রিফা'আ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হাঁচি দাতার হাঁচির জবাব তিনবার দেবে। এরপর যদি তুমি ইচ্ছা কর, জবাব দিতে পার এবং নাও দিতে পার।
+। উবাইদ ইবনু রিফা‘আহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হাঁচিদাতার উত্তর তিনবার দাও। এরপরও যদি সে হাঁচি দিতে থাকে তবে তোমার ইচ্ছা উত্তর দিতেও পারো আবার নাও দিতে পারো।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5036</td></tr><tr><td>Arabic No</td><td>5036</td></tr><tr><td>Reference</td><td>Book 43 Hadith 264</td></tr></tbody></table></div>
 

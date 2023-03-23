@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘আমর (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেন, সে-ই মুসলিম, যার জিহবা ও হাত হতে সকল মুসলিম নিরাপদ এবং সে-ই প্রকৃত মুহাজির, আল্লাহ যা নিষেধ করেছেন তা যে ত্যাগ করে। (৬৪৮৪; মুসলিম ১/১৪ হাঃ ৪০, আহমাদ ৬৭৬৫) (আধুনিক প্রকাশনীঃ ৯, ইসলামিক ফাউন্ডেশনঃ ৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘আমর (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেন, সে-ই মুসলিম, যার জিহবা ও হাত হতে সকল মুসলিম নিরাপদ এবং সে-ই প্রকৃত মুহাজির, আল্লাহ যা নিষেধ করেছেন তা যে ত্যাগ করে। (৬৪৮৪; মুসলিম ১/১৪ হাঃ ৪০, আহমাদ ৬৭৬৫) (আধুনিক প্রকাশনীঃ ৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Arabic No</td><td>10</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, Telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: எவரது நாவு, கை ஆகியவற்றி(ன் தொல்லைகளி)லிருந்து பிற முஸ்லிம்கள் பாதுகாப்புப் பெற்றிருக்கிறார்களோ அவரே (உண்மையான) முஸ்லிம் ஆவார். எவர் அல்லாஹ் தடை விதித்தவற்றிலிருந்து விலகிக்கொண்டாரோ அவரே (உண்மை யான) முஹாஜிர் (புலம்பெயர்ந்தவர்) ஆவார்.12 இதை அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 2
+நபி (ஸல்) அவர்கள் கூறினார்கள்: எவரது நாவு, கை ஆகியவற்றி(ன் தொல்லைகளி)லிருந்து பிற முஸ்லிம்கள் பாதுகாப்புப் பெற்றிருக்கிறார்களோ அவரே (உண்மையான) முஸ்லிம் ஆவார். எவர் அல்லாஹ் தடை விதித்தவற்றிலிருந்து விலகிக்கொண்டாரோ அவரே (உண்மை யான) முஹாஜிர் (புலம்பெயர்ந்தவர்) ஆவார்.12 இதை அப்துல்லாஹ் பின் அம்ர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Arabic No</td><td>10</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, Telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah bin Amr bin As r.a. Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: Müslüman, dilinden, elinden müslümanlar selamette kalan kimsedir. Muhacir de Allâh'ın nehyettiğini terkedendir. Tekrarı: 6484
+Abdullah bin Amr bin As r.a. Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: Müslüman, dilinden, elinden müslümanlar selamette kalan kimsedir. Muhacir de Allâh'ın nehyettiğini terkedendir. Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Arabic No</td><td>10</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
 

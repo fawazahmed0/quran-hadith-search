@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৩২, আন্তর্জাতিক নাম্বারঃ ৭৩৩ ৭৩২. মুহাম্মাদ ইবনু আবদুল্লাহ ইবনু 'আবদুল হাকাম ইবনু আ'ইয়ান (রহ.) ..... আবু সাঈদ ইবনুল্ল মু'আল্লা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ (সা.)-এর সময় আমরা সকালে বাজারের দিকে যেতাম তখন আমরা মসজিদের কাছ দিয়ে যাওয়ার সময় তাতে সালাত আদায় করতাম। সনদ দুর্বল: সনদে মারওয়ান বিন উসমান আয যুরাকী নামক বর্ণনাকারী দুর্বল রয়েছে, নাসায়ী’র “সুনানুল কুবরা" ৮১১; তা’লীক ‘আলাকাশফিল আসতার (১/২১১/৪১৯)।
+। মুহাম্মাদ ইবনু আব্দুল্লাহ ইবনু আবূল হাকাম (রহঃ) ... আবূ সাঈদ ইবনুল মুআল্লা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সময় আমরা ভোরে বাজারের দিকে যেতাম। তখন আমরা মসজিদের নিকট দিয়ে যাওয়ার সময় সালাত আদায় করতাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>732</td></tr><tr><td>Reference</td><td>Book 8 Hadith 45</td></tr></tbody></table></div>
 

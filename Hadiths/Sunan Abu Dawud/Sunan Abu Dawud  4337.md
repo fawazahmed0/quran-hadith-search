@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-খাল্‌ফ ইব্‌ন হিশাম (রহঃ) .... ইব্‌ন মাসউদ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ বর্ণনা করেছেনঃ তবে এ হাদীছে এতটুকু অতিরিক্ত বর্ণনা করেছেন যে, আল্লাহ্‌ ত’আলা তোমাদের পরস্পরের অন্তরকে মিলিয়ে দেবেন এবং তিনি তাদের উপর লা’নত করার মত- তোমাদের উপরো লা’নত করবেন।
+। ইবনু মাস‘ঊদ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে উপরোক্ত হাদীসের সমার্থকবোধক হাদীস বর্ণনা করেন। তবে এতে রয়েছেঃ অন্যথায় আল্লাহ তোমাদের পরস্পরের অন্তরকে একাকার করে দিবেন। অতঃপর তোমাদের অভিসম্পাত করবেন, যেমন তাদেরকে অভিসম্পাত করেছেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4337</td></tr><tr><td>Arabic No</td><td>4337</td></tr><tr><td>Reference</td><td>Book 39 Hadith 47</td></tr></tbody></table></div>
 

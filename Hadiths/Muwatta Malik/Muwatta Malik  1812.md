@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ২. আবু হুরায়রা (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেন, যদি তুমি কাহাকেও এই কথা বলিতে শুনিতে পাও যে, মানুষ ধ্বংস হইয়াছে, তাহা হইলে সে সবচাইতে অধিক ধ্বংস হইয়াছে।[1]
+রেওয়ায়ত ২. আবু হুরায়রা (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেন, যদি তুমি কাহাকেও এই কথা বলিতে শুনিতে পাও যে, মানুষ ধ্বংস হইয়াছে, তাহা হইলে সে সবচাইতে অধিক ধ্বংস হইয়াছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1812</td></tr><tr><td>Arabic No</td><td>1812</td></tr><tr><td>Reference</td><td>Book 56 Hadith 2</td></tr></tbody></table></div>
 

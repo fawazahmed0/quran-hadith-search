@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন দাউদ (রহঃ) .... আয়িশা (রাঃ) সূত্রে উপরোক্ত হাদিছের অর্থে হাদিছ বর্ণিত হয়েছে। আহমদ ইবন সালিহ (রহঃ) .... আয়িশা (রাঃ) থেকে অনুরূপ বর্ণনা করেছেন। তবে এ বর্ণনায় অতিরিক্ত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে ‘‘বায়দা’’ নামক প্রান্তরে পাঠিয়ে দেন। প্রতি শুক্রবারে খাদ্যের সন্ধানে সে শহরে আসতো।
+। আয়িশাহ (রাঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। এতে আরো রয়েছেঃ ‘‘তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) তাকে আল-বায়দা নামক স্থানে পাঠিয়ে দিলেন। এরপর সে (হিজড়া) প্রতি শুক্রবার খাদ্যের জন্য শহরে আসতো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4109</td></tr><tr><td>Arabic No</td><td>4109</td></tr><tr><td>Reference</td><td>Book 34 Hadith 90</td></tr></tbody></table></div>
 

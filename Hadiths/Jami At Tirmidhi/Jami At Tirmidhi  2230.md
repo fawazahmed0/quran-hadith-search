@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২২৩০। আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার পরিবারের একজন আরবের অধিপতি না হওয়া পর্যন্ত পৃথিবী ধ্বংস হবে না। আমার নামের অনুরূপই তার নাম হবে। হাসান সহীহ, মিশকাত (৫৪৫২), ফাযাইলুশশাম (১৬), বাওযুন নায়ীর (৬৪৭)। আবূ ঈসা বলেন, আলী, আবূ সাঈদ, উম্মু সালামা ও আবূ হুরাইরা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান
+। আবদুল্লাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার পরিবারের একজন আরবের অধিপতি না হওয়া পর্যন্ত পৃথিবী ধ্বংস হবে না। আমার নামের অনুরূপই তার নাম হবে। হাসান সহীহ, মিশকাত (৫৪৫২), ফাযাইলুশশাম (১৬), বাওযুন নায়ীর (৬৪৭)। আবূ ঈসা বলেন, আলী, আবূ সাঈদ, উম্মু সালামা ও আবূ হুরাইরা (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2230</td></tr><tr><td>Arabic No</td><td>2230</td></tr><tr><td>Reference</td><td>Book 33 Hadith 73</td></tr></tbody></table></div>
 

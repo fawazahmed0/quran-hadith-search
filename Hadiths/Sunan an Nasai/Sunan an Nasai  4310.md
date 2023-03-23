@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবন মা'মার বাহরানী (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, গ্রাম্য এক বেদুঈন একটি খরগোশ ভূনা করে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট নিয়ে আসে এবং তা তার সামনে রাখে। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাত গুটিয়ে নিলেন, তা খেলেন না। কিন্তু অন্য লোকদেরকে খেতে বললেন। ঐ বেদুঈনও তা খাওয়া হতে বিরত থাকল। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে জিজ্ঞাসা করলেনঃ তুমি খেলে না কেন? সে বললোঃ আমি প্রতি মাসে তিনটি রোযা রাখি। তিনি বললেনঃ যদি তুমি প্রত্যেক মাসে রোযা রাখ, তবে মাঝের তিন দিন (১৩, ১৪ ও ১৫ তারিখ) রাখবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4310</td></tr><tr><td>Arabic No</td><td>4310</td></tr><tr><td>Reference</td><td>Book 42 Hadith 48</td></tr></tbody></table></div>
 

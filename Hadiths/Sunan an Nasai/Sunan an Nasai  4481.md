@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আমর ইবন আলী (রহঃ) ... সামুরা (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্রেতা বিক্রেতার ইখতিয়ার থাকবে যতক্ষণ না তারা পৃথক হয় এবং বিক্রি দ্বারা তাদের প্রত্যেকের ইপ্সিত বস্তু তারা গ্রহণ করে নেয় আর তারা ইখতিয়ার পাবে তিনবার।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4481</td></tr><tr><td>Arabic No</td><td>4481</td></tr><tr><td>Reference</td><td>Book 44 Hadith 33</td></tr></tbody></table></div>
 

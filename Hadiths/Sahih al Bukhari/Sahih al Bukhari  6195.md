@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আদী ইবনু সাবিত (রহঃ) বলেন, আমি বারাআ’ (রাঃ)-কে বলতে শুনেছি যে, যখন ইবরাহীম মারা যান তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তার জন্য জান্নাতে দুগ্ধদায়িনী থাকবে। [১৩৮২] (আধুনিক প্রকাশনী- ৫৭৫৪, ইসলামিক ফাউন্ডেশন- ৫৬৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আদী ইবনু সাবিত (রহঃ) বলেন, আমি বারাআ’ (রাঃ)-কে বলতে শুনেছি যে, যখন ইবরাহীম মারা যান তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তার জন্য জান্নাতে দুগ্ধদায়িনী থাকবে। [১৩৮২] (আধুনিক প্রকাশনী- ৫৭৫৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6195</td></tr><tr><td>Arabic No</td><td>6195</td></tr><tr><td>Reference</td><td>Book 78 Hadith 219</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah mengabarkan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: (தம் புதல்வர்) இப்ராஹீம் (ரலி) அவர்கள் இறந்தபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இவருக்குப் பாலூட்டக்கூடிய செவிலித்தாய் சொர்க்கத்தில் இருக்கிறார்” என்று சொன்னார்கள்.220 அத்தியாயம் : 78
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: (தம் புதல்வர்) இப்ராஹீம் (ரலி) அவர்கள் இறந்தபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இவருக்குப் பாலூட்டக்கூடிய செவிலித்தாய் சொர்க்கத்தில் இருக்கிறார்” என்று சொன்னார்கள்.220 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6195</td></tr><tr><td>Arabic No</td><td>6195</td></tr><tr><td>Reference</td><td>Book 78 Hadith 219</td></tr></tbody></table></div>
 

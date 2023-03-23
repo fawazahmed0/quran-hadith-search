@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪৯৩। আবদুল্লাহ ইবনু উমার (রাঃ) হতে অন্য সূত্রেও রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের উপরোক্ত হাদীস বর্ণিত হয়েছে।
+। আবদুল্লাহ ইবনু উমার (রাঃ) হতে অন্য সূত্রেও রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের উপরোক্ত হাদীস বর্ণিত হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>493</td></tr><tr><td>Arabic No</td><td>493</td></tr><tr><td>Reference</td><td>Book 4 Hadith 6</td></tr></tbody></table></div>
 

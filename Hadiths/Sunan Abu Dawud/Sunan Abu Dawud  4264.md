@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল মালিক ইব্‌ন শুআয়ব (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অচিরেই মুক, বধির ও অন্ধরূপ ফিতনা প্রকাশ পাবে। যে ব্যক্তি তা দেখবে, সে ফিতনা তাঁর নিকটবর্তী হবে। আর এ সময় মুখ খোলা, তরবারি চালনার ন্যায় হবে, (অর্থাৎ তা বিপদের কারণ হবে।)
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, অচিরেই বধির, মুক ও অন্ধকারাচ্ছন্ন ফিতনার সৃষ্টি হবে, যে কেউ এর নিকটবর্তী হবে, ফিতনা তার নিকটবর্তী হবে। আর সেই সময় মুখে কিছু বলা তরবারি নিয়ে ঝাঁপিয়ে পড়ার ন্যায় মারত্মক হবে।[1] দুর্বলঃ মিশকাত হা/ ৫৪০২।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4264</td></tr><tr><td>Arabic No</td><td>4264</td></tr><tr><td>Reference</td><td>Book 37 Hadith 25</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু হনাফিয়্যাহ (রহ.) হতে বর্ণিত। তিনি বলেন, আমার পিতা আমাকে পাঠিয়ে বলেন, এ ফরমানটি নাও এবং এটি ‘উসমান (রাঃ)-এর নিকট নিয়ে যাও, এতে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সদাকাহ সম্পর্কিত নির্দেশ দিয়েছেন। (৩১১১) (ইসলামিক ফাউন্ডেশনঃ ২৮৮৯ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3112</td></tr><tr><td>Arabic No</td><td>3112</td></tr><tr><td>Reference</td><td>Book 57 Hadith 21</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Muhammad bin Suqa:I heard Mundhir at-Tuzi reporting Ibn Hanafiya who said, "My f
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஹம்மத் பின் ஹனஃபிய்யா (ரஹ்) அவர்கள் கூறியதாவது: என் தந்தை (அலீ பின் அபீதாலிப் (ரலி) அவர்கள்), ‘‘இந்த ஏட்டை எடுத்துக் கொண்டு உஸ்மான் (ரலி) அவர்களிடம் போ! ஏனெனில், இதில்தான் ஸகாத் பற்றிய நபி (ஸல்) அவர்களின் கட்டளைகள் உள்ள”’ என்று சொல்லி என்னை அனுப்பினார்கள்.27 அத்தியாயம் : 57
+முஹம்மத் பின் ஹனஃபிய்யா (ரஹ்) அவர்கள் கூறியதாவது: என் தந்தை (அலீ பின் அபீதாலிப் (ரலி) அவர்கள்), ‘‘இந்த ஏட்டை எடுத்துக் கொண்டு உஸ்மான் (ரலி) அவர்களிடம் போ! ஏனெனில், இதில்தான் ஸகாத் பற்றிய நபி (ஸல்) அவர்களின் கட்டளைகள் உள்ள”’ என்று சொல்லி என்னை அனுப்பினார்கள்.27 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3112</td></tr><tr><td>Arabic No</td><td>3112</td></tr><tr><td>Reference</td><td>Book 57 Hadith 21</td></tr></tbody></table></div>
 

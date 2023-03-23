@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَأَمَرَ جَرِيرُ بْنُ عَبْدِ اللهِ أَهْلَهُ أَنْ يَتَوَضَّئُوا بِفَضْلِ سِوَاكِهِ. জাবির ইবনু ‘আবদুল্লাহ (রাযি.) তাঁর পরিবারকে মিসওয়াক ধোয়া অবশিষ্ট পানি দিয়ে উযূ করতে নির্দেশ দেন। ১৮৭. আবূ জুহাইফাহ (রাযি.) হতে বর্ণিত। তিনি বলেন একদা দুপুর বেলা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট এলেন। তাঁকে উযূর পানি এনে দেয়া হলে তিনি উযূ করলেন। লোকে তার উযুর ব্যবহৃত পানি নিয়ে গায়ে মাখতে লাগল। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের দু’রাক‘আত এবং ‘আসরের দু’রাক‘আত সালাত আদায় করলেন। আর তাঁর সামনে ছিল একটি লাঠি। (৩৭৬, ৪৯৫, ৪৯৯, ৫০১, ৬৩৩, ৬৩৪, ৩৫৫৩, ৩৫৬৬, ৫৭৮৬, ৫৮৫৯) (আধুনিক প্রকাশনীঃ ১৮২, ইসলামিক ফাউন্ডেশনঃ ১৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَأَمَرَ جَرِيرُ بْنُ عَبْدِ اللهِ أَهْلَهُ أَنْ يَتَوَضَّئُوا بِفَضْلِ سِوَاكِهِ. জাবির ইবনু ‘আবদুল্লাহ (রাযি.) তাঁর পরিবারকে মিসওয়াক ধোয়া অবশিষ্ট পানি দিয়ে উযূ করতে নির্দেশ দেন। ১৮৭. আবূ জুহাইফাহ (রাযি.) হতে বর্ণিত। তিনি বলেন একদা দুপুর বেলা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিকট এলেন। তাঁকে উযূর পানি এনে দেয়া হলে তিনি উযূ করলেন। লোকে তার উযুর ব্যবহৃত পানি নিয়ে গায়ে মাখতে লাগল। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের দু’রাক‘আত এবং ‘আসরের দু’রাক‘আত সালাত আদায় করলেন। আর তাঁর সামনে ছিল একটি লাঠি। (৩৭৬, ৪৯৫, ৪৯৯, ৫০১, ৬৩৩, ৬৩৪, ৩৫৫৩, ৩৫৬৬, ৫৭৮৬, ৫৮৫৯) (আধুনিক প্রকাশনীঃ ১৮২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>187</td></tr><tr><td>Reference</td><td>Book 4 Hadith 53</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [S
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஜுஹைஃபா (வஹ்ப் பின் அப்தில்லாஹ்-ரலி) அவர்கள் கூறியதாவது: (ஹஜ்ஜின்போது ‘அப்தஹ்’ எனுமிடத் திலிருந்த கூடாரத்திலிருந்து) அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் நண்பகல் நேரத்தில் எங்களிடம் வந்தார்கள். அங்கத் தூய்மை செய்யத் தண்ணீர் கொண்டு வரப்பட்டது. அதில் அவர்கள் அங்கத் தூய்மை செய்தார்கள். அவர்கள் அங்கத் தூய்மை செய்த தண்ணீரின் மீதியைப் பெற்று மக்கள் தங்கள்மீது தடவிக் கொள்ளலாயினர். பின்னர் நபி (ஸல்) அவர்கள், தமக்குமுன் (இரும்புப் பூண் போட்ட) கைத்தடி ஒன்றை (தடுப்பாக) வைத்து, லுஹ்ரையும் அஸ்ரையும் இரண்டு இரண்டு ரக்அத் களாகத் தொழுதார்கள். அத்தியாயம் : 4
+அபூஜுஹைஃபா (வஹ்ப் பின் அப்தில்லாஹ்-ரலி) அவர்கள் கூறியதாவது: (ஹஜ்ஜின்போது ‘அப்தஹ்’ எனுமிடத் திலிருந்த கூடாரத்திலிருந்து) அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் நண்பகல் நேரத்தில் எங்களிடம் வந்தார்கள். அங்கத் தூய்மை செய்யத் தண்ணீர் கொண்டு வரப்பட்டது. அதில் அவர்கள் அங்கத் தூய்மை செய்தார்கள். அவர்கள் அங்கத் தூய்மை செய்த தண்ணீரின் மீதியைப் பெற்று மக்கள் தங்கள்மீது தடவிக் கொள்ளலாயினர். பின்னர் நபி (ஸல்) அவர்கள், தமக்குமுன் (இரும்புப் பூண் போட்ட) கைத்தடி ஒன்றை (தடுப்பாக) வைத்து, லுஹ்ரையும் அஸ்ரையும் இரண்டு இரண்டு ரக்அத் களாகத் தொழுதார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>187</td></tr><tr><td>Reference</td><td>Book 4 Hadith 53</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [S
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Cuhayfe radiyallahu anh şöyle demiştir: Resulullah (Sallallahu aleyhi ve Sellem) öğlenin sıcak zamanında yanımıza çıkıp geldi. Kendisine abdest alması için su getirildi, o da abdest aldı. İnsanlar abdestinden artan suyu alıp, vücutlarına sürmeye başladılar. Nebi (Sallallahu aleyhi ve Sellem) öğleni de, ikindiyi de iki rekat kıldırdı. Onun önünde de (sütre olarak) bir harbe duruyordu. Tekrar: 376, 495, 499, 501, 633, 634, 3553, 3566, 5786, 5859
+Ebu Cuhayfe radiyallahu anh şöyle demiştir: Resulullah (Sallallahu aleyhi ve Sellem) öğlenin sıcak zamanında yanımıza çıkıp geldi. Kendisine abdest alması için su getirildi, o da abdest aldı. İnsanlar abdestinden artan suyu alıp, vücutlarına sürmeye başladılar. Nebi (Sallallahu aleyhi ve Sellem) öğleni de, ikindiyi de iki rekat kıldırdı. Onun önünde de (sütre olarak) bir harbe duruyordu. Tekrar: 376, 495, 499, 501, 63
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>187</td></tr><tr><td>Reference</td><td>Book 4 Hadith 53</td></tr></tbody></table></div>
 

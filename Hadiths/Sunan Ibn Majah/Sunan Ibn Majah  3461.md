@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৪৬১। আসমা বিনতে উমাইস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে জিজ্ঞেস করলেনঃ তুমি কিসের জোলাব নাও? আমি বললাম, শুবরুম (ছোলা সদৃশ এক প্রকার দানা) দিয়ে। তিনি বলেনঃ তা তো খুব গরম ঔষধ। অতঃপর আমি সোনামুখী গাছের পাতা দ্বারা জোলাপ নিলাম। তখন তিনি বলেনঃ কোন ঔষধ যদি মৃত্যু থেকে নিরাময় দিতে পারতো তবে তা হতো সোনামুখী গাছ। সোনামুখী যেন মৃত্যু থেকে নিরাময় দানকারী।
+। আসমা বিনতে উমাইস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে জিজ্ঞেস করলেনঃ তুমি কিসের জোলাব নাও? আমি বললাম, শুবরুম (ছোলা সদৃশ এক প্রকার দানা) দিয়ে। তিনি বলেনঃ তা তো খুব গরম ঔষধ। অতঃপর আমি সোনামুখী গাছের পাতা দ্বারা জোলাপ নিলাম। তখন তিনি বলেনঃ কোন ঔষধ যদি মৃত্যু থেকে নিরাময় দিতে পারতো তবে তা হতো সোনামুখী গাছ। সোনামুখী যেন মৃত্যু থেকে নিরাময় দানকারী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3461</td></tr><tr><td>Arabic No</td><td>3461</td></tr><tr><td>Reference</td><td>Book 31 Hadith 26</td></tr></tbody></table></div>
 

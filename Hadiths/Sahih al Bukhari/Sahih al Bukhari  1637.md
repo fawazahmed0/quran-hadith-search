@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি যমযমের পানি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট পেশ করলাম। তিনি তা দাঁড়িয়ে পান করলেন। (রাবী’) ‘আসিম বলেন, ‘ইকরিমা (রাঃ) হলফ করে বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তখন উটের পিঠে আরোহী অবস্থায়ই ছিলেন। (৫৬১৭, মুসলিম ৩৬/১৫, হাঃ ২০২৭, আহমাদ ২৬০৮) (আধুনিক প্রকাশনীঃ ১৫২৭, ইসলামিক ফাউন্ডেশনঃ ১৫৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি যমযমের পানি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট পেশ করলাম। তিনি তা দাঁড়িয়ে পান করলেন। (রাবী’) ‘আসিম বলেন, ‘ইকরিমা (রাঃ) হলফ করে বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তখন উটের পিঠে আরোহী অবস্থায়ই ছিলেন। (৫৬১৭, মুসলিম ৩৬/১৫, হাঃ ২০২৭, আহমাদ ২৬০৮) (আধুনিক প্রকাশনীঃ ১৫২৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1637</td></tr><tr><td>Arabic No</td><td>1637</td></tr><tr><td>Reference</td><td>Book 25 Hadith 120</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad] dia adalah Ibnu Salam telah mengabarka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு ஸம்ஸம் தண்ணீர் அருந்தக் கொடுத்தேன். அதை அவர்கள் நின்று கொண்டு குடித்தார்கள். அன்றைய தினம் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒட்டகத்தின் மீதுதான் இருந்தார்கள் என இக்ரிமா (ரஹ்) அவர்கள் சத்தியம் செய்து கூறினார்கள் என ஆஸிம் (ரஹ்) அவர்கள் கூறுகிறார் கள். அத்தியாயம் : 25
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு ஸம்ஸம் தண்ணீர் அருந்தக் கொடுத்தேன். அதை அவர்கள் நின்று கொண்டு குடித்தார்கள். அன்றைய தினம் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒட்டகத்தின் மீதுதான் இருந்தார்கள் என இக்ரிமா (ரஹ்) அவர்கள் சத்தியம் செய்து கூறினார்கள் என ஆஸிம் (ரஹ்) அவர்கள் கூறுகிறார் கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1637</td></tr><tr><td>Arabic No</td><td>1637</td></tr><tr><td>Reference</td><td>Book 25 Hadith 120</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad] dia adalah Ibnu Salam telah mengabarka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle demiştir: "Resulullah (Sallallahu Aleyhi ve Sellem)'e zemzem ikram ettim, O da ayakta iken içti." Asim, "İkrime, o gün Hz. Nebi'in deve üzerinde olduğuna dair (yani ayakta içmediği konusunda) yemin etti" demiştir. Tekrar: 5617
+İbn Abbas r.a. şöyle demiştir: "Resulullah (Sallallahu Aleyhi ve Sellem)'e zemzem ikram ettim, O da ayakta iken içti." Asim, "İkrime, o gün Hz. Nebi'in deve üzerinde olduğuna dair (yani ayakta içmediği konusunda) yemin etti" demiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1637</td></tr><tr><td>Arabic No</td><td>1637</td></tr><tr><td>Reference</td><td>Book 25 Hadith 120</td></tr></tbody></table></div>
 

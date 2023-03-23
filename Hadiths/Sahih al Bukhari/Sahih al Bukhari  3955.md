@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারা (রাঃ) হতে বর্ণিত। তিনি বলেন, বদরের দিন আমাকে ও ইবনু ‘উমারকে অপ্রাপ্ত বয়স্ক গণ্য করা হয়েছিল। [1] [৩৯৫৬] (আধুনিক প্রকাশনীঃ ৩৬৬৪, ইসলামিক ফাউন্ডেশনঃ নেই)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 64 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Al-Bara:I and Ibn 'Umar were considered too young to take part in the b
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நானும் இப்னு உமர் (ரலி) அவர்களும் (பத்ர் போரின்போது) சிறுவர்களாகக் கருதப்பட்டோம். (அதனால் எனக்கும் அவருக்கும் பத்ர் போரில் கலந்துகொள்ள அனுமதி வழங்கப்படவில்லை.) அத்தியாயம் : 64
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நானும் இப்னு உமர் (ரலி) அவர்களும் (பத்ர் போரின்போது) சிறுவர்களாகக் கருதப்பட்டோம். (அதனால் எனக்கும் அவருக்கும் பத்ர் போரில் கலந்துகொள்ள அனுமதி வழங்கப்படவில்லை.) அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 64 Hadith 7</td></tr></tbody></table></div>
 

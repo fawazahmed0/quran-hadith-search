@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৯৯১, আন্তর্জাতিক নাম্বারঃ ৪৯৪ ৯৯১-(২৩৪/৪৯৪) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... বারা (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যখন তুমি সিজদা করো তোমার হাতের তালু মাটিতে রাখো এবং উভয় কনুই উচু করে রাখো। (ইসলামিক ফাউন্ডেশনঃ ৯৮৫, ইসলামিক সেন্টারঃ ৯৯৬)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... বারা (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যখন তুমি সিজদা করো তোমার হাতের তালু মাটিতে রাখো এবং উভয় কনুই উচু করে রাখো। (ইসলামিক ফাউন্ডেশনঃ ৯৮৫, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1104</td></tr><tr><td>Arabic No</td><td>494</td></tr><tr><td>Reference</td><td>Book 4 Hadith 266</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் சஜ்தாச் செய்யும்போது உள்ளங்கைகளை (தரையில்) வையுங்கள்; முழங்கைகளை (தரையிலிருந்து) அகற்றி வையுங்கள். இதை பராஉ பின் ஆஸிப் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 4
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் சஜ்தாச் செய்யும்போது உள்ளங்கைகளை (தரையில்) வையுங்கள்; முழங்கைகளை (தரையிலிருந்து) அகற்றி வையுங்கள். இதை பராஉ பின் ஆஸிப் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1104</td></tr><tr><td>Arabic No</td><td>494</td></tr><tr><td>Reference</td><td>Book 4 Hadith 266</td></tr></tbody></table></div>
 

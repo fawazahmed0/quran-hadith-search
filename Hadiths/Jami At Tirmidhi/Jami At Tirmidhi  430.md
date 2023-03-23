@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪৩০। ইবনু উমার (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি আসরের পূর্বে চার রাকাআত নামায আদায় করবে আল্লাহ তা'আলা তার প্রতি অনুগ্রহ করুন। -হাসান। মিশকাত- (১১৭০), সহীহ আবু দাউদ- (১১৫৪), তা’লীকুর রাগীব- (১/২০৪), তা’লীক আলা ইবনু খুজাইমাহ– (১১৯৩)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান গারীব।
+। ইবনু উমার (রাঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি আসরের পূর্বে চার রাকাআত নামায আদায় করবে আল্লাহ তা'আলা তার প্রতি অনুগ্রহ করুন। -হাসান। মিশকাত- (১১৭০), সহীহ আবু দাউদ- (১১৫৪), তা’লীকুর রাগীব- (১/২০৪), তা’লীক আলা ইবনু খুজাইমাহ– (১১৯৩)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>430</td></tr><tr><td>Arabic No</td><td>430</td></tr><tr><td>Reference</td><td>Book 2 Hadith 283</td></tr></tbody></table></div>
 

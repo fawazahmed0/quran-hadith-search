@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২০৮৬, আন্তর্জাতিক নাম্বারঃ ৯৪৬ ২০৮৬-(.../...) (হাম্মদ) ইবনু বাশশার, ইবনুল মুসান্না, যুহারর ইবনু হারব (রহঃ) ..... সকলে কতাদাহ (রহঃ) থেকে একই সূত্রে অনুরূপ বর্ণনা করেছেন। সাঈদ ও হিশাম এর বর্ণিত হাদীসে আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে কীরাত সম্পর্কে জিজ্ঞেস করা হলে তিনি বললেন, তা উহুদ পাহাড় সমতুল্য। (ইসলামী ফাউন্ডেশন ২০৬৫, ইসলামীক সেন্টার ২০৭০)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2197</td></tr><tr><td>Arabic No</td><td>946.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 75</td></tr></tbody></table></div>
 

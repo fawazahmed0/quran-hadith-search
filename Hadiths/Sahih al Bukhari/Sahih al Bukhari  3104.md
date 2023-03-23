@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খুত্বা দিতে দাঁড়িয়েছিলেন। এ সময় তিনি ‘আয়িশাহ (রাঃ)-এর ঘরের দিকে ইশারা করে তিনবার বললেন, এ দিক থেকেই ফিতনা, যে দিক হতে সূর্য উদয়ের কালে শয়তান দাঁড়িয়ে থাকে। (৩২৭৯, ৩৫১১, ৫২৯৬, ৭০৯২, ৭০৯৩) (আধুনিক প্রকাশনীঃ ২৮৭১, ইসলামিক ফাউন্ডেশনঃ ২৮৮২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খুত্বা দিতে দাঁড়িয়েছিলেন। এ সময় তিনি ‘আয়িশাহ (রাঃ)-এর ঘরের দিকে ইশারা করে তিনবার বললেন, এ দিক থেকেই ফিতনা, যে দিক হতে সূর্য উদয়ের কালে শয়তান দাঁড়িয়ে থাকে। (৩২৭৯, ৩৫১১, ৫২৯৬, ৭০৯২, ৭০৯৩) (আধুনিক প্রকাশনীঃ ২৮৭১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3104</td></tr><tr><td>Arabic No</td><td>3104</td></tr><tr><td>Reference</td><td>Book 57 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Juwa
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் உரையாற்றிட எழுந்து நின்று, ஆயிஷா (ரலி) அவர்களின் உறைவிடத்தை (இராக் நாடு அமைந்துள்ள கிழக்குத் திசையை) நோக்கிச் சைகை செய்து, ‘‘இங்கிருந்துதான் குழப்பம் ஏற்படும்” என்று மூன்று முறை கூறிவிட்டு, ‘‘ஷைத்தானின் கொம்பு எங்கிருந்து உதயமாகின்றதோ அங்கி ருந்து....” என்று கூறினார்கள்.19 அத்தியாயம் : 57
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் உரையாற்றிட எழுந்து நின்று, ஆயிஷா (ரலி) அவர்களின் உறைவிடத்தை (இராக் நாடு அமைந்துள்ள கிழக்குத் திசையை) நோக்கிச் சைகை செய்து, ‘‘இங்கிருந்துதான் குழப்பம் ஏற்படும்” என்று மூன்று முறை கூறிவிட்டு, ‘‘ஷைத்தானின் கொம்பு எங்கிருந்து உதயமாகின்றதோ அங்கி ருந்து....” என்று கூறினார்கள்.19 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3104</td></tr><tr><td>Arabic No</td><td>3104</td></tr><tr><td>Reference</td><td>Book 57 Hadith 13</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Juwa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a.'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem bir defasında ayağa kalkıp hitap ederken Hz. Aişe'nin evinin bulunduğu tarafa işaret ederek üç defa şöyle buyurdu: "Fitne işte oralardan, şeytanın taraftarlarının doğduğu yerden ortaya çıkacak. " Tekrar: 3279, 3511, 5296, 7092, 7093
+Abdullah İbn Ömer r.a.'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem bir defasında ayağa kalkıp hitap ederken Hz. Aişe'nin evinin bulunduğu tarafa işaret ederek üç defa şöyle buyurdu: "Fitne işte oralardan, şeytanın taraftarlarının doğduğu yerden ortaya çıkacak. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3104</td></tr><tr><td>Arabic No</td><td>3104</td></tr><tr><td>Reference</td><td>Book 57 Hadith 13</td></tr></tbody></table></div>
 

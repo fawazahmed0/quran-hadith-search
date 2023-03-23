@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২১৮৪। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক বেদুইনের নিকট থেকে এক বোঝা উটের খাদ্য ক্রয় করেন। ক্রয়-বিক্রয় চূড়ান্ত হওয়ার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমার (ক্রয়-বিক্রয় বহাল রাখার বা বাতিল করার) এখতিয়ার প্রয়োগ করতে পারো। বেদুইন বললো, আল্লাহ আপনাকে দীর্ঘজীবী করুন। আমি বিক্রয় বহাল রাখলাম।
+। জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক বেদুইনের নিকট থেকে এক বোঝা উটের খাদ্য ক্রয় করেন। ক্রয়-বিক্রয় চূড়ান্ত হওয়ার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তোমার (ক্রয়-বিক্রয় বহাল রাখার বা বাতিল করার) এখতিয়ার প্রয়োগ করতে পারো। বেদুইন বললো, আল্লাহ আপনাকে দীর্ঘজীবী করুন। আমি বিক্রয় বহাল রাখলাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2184</td></tr><tr><td>Arabic No</td><td>2184</td></tr><tr><td>Reference</td><td>Book 12 Hadith 48</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Harmalah bin Yahya] dan [Ahmad bin Isa] keduanya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir bin Abdillah (r.a.)'dan; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bedevi bir erkek'ten bir yük dökülmüş ağaç yaprağını satın aldı. Satış akdi tamamlanınca Resulullah (Sallallahu Aleyhi ve Sellem) (bedevi'ye): «(Bana sattığın yükten veya kararlaştırılan bedelinden istediğini) seç, » buyurdu. Bunun üzerine bedevi, (Resul-i Ekrem (Sallallahu Aleyhi ve Sellem)'e ): Allah sen alım satımcıya uzun ömür versin, dedi. Diğer tahric: Tirmizi AÇIKLAMA 2185
+Cabir bin Abdillah (r.a.)'dan; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bedevi bir erkek'ten bir yük dökülmüş ağaç yaprağını satın aldı. Satış akdi tamamlanınca Resulullah (Sallallahu Aleyhi ve Sellem) (bedevi'ye): «(Bana sattığın yükten veya kararlaştırılan bedelinden istediğini) seç, » buyurdu. Bunun üzerine bedevi, (Resul-i Ekrem (Sallallahu Aleyhi ve Sellem)'e ): Allah sen alım satımcıya uzun ömür versin, dedi. Diğer tahric: Tirmizi AÇIKLAMA
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2184</td></tr><tr><td>Arabic No</td><td>2184</td></tr><tr><td>Reference</td><td>Book 12 Hadith 48</td></tr></tbody></table></div>
 

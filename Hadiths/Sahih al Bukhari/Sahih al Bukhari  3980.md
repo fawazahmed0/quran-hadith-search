@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবন ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বদরে অবস্থিত কূপের পাশে দাঁড়িয়ে বললেন, (হে মুশরিকগণ) তোমাদের রব তোমাদের কাছে যা ওয়াদা করেছিলেন তা তোমরা সত্য হিসেবে পেয়েছ কি? পরে তিনি বললেন, এ মুহূর্তে তাদেরকে আমি যা বলছি তারা তা সবই শুনতে পাচ্ছে। এ বিষয়টি ‘আয়িশাহ (রাঃ) এর সামনে উল্লেখ করা হলে তিনি বললেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যা বলেছেন তার অর্থ হল, তারা এখন জানতে পারছে যে, আমি তাদেরকে যা বলতাম তাই সঠিক ছিল। এরপর তিনি তিলাওয়াত করলেন: (إِنَّكَ لَا تسْمِعُ الْمَوْتٰى) ‘‘তুমি তো মৃতকে শুনাতে পার না’’- (সূরাহ নামল ২৭/৮০) এভাবে পুরো আয়াতটি তিলাওয়াত করলেন। [১৩৭০-৩৭১] (আধুনিক প্রকাশনীঃ ৩৬৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3980</td></tr><tr><td>Arabic No</td><td>3980</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Umar:The Prophet (ﷺ) stood at the well of Badr (which contained the corpses of the pagans) and said, "Have you found true what your lord promised you?" Then he further said, "They now hear what I say." This was mentioned before 'Aisha and she said, "But the Prophet (ﷺ) said, 'Now they know very well that what I used to tell them was the truth.' Then she recited (the Holy Verse):-- "You cannot make the dead hear... ...till the end of Verse)." (30.52)
+Narrated Ibn 'Umar:The Prophet (ﷺ) stood at the well of Badr (which contained the corpses of the pagans) and said, "Have you found true what your lord promised you?" Then he further said, "They now hear what I say." This was mentioned before 'Aisha and she said, "But the Prophet (ﷺ) said, 'Now they know very well that what I used to tell them was the truth.' Then she recited (the Holy Verse):-- "You cannot make the dead hear... ...till the end of Verse
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3980</td></tr><tr><td>Arabic No</td><td>3980</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) stood at the well of Badr (which contained 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: பத்ரின் கிணற்றருகில் நபி (ஸல்) அவர்கள் நின்றுகொண்டு (உள்ளே கிடந்த இறைமறுப்பாளர்களின் சடலங்களை நோக்கி), “உங்களுக்கு உங்களுடைய இறைவன் வாக்களித்த (தண்டனை)தனை உண்மையானதுதான் என்று கண்டுகொண்டீர்களா?” என்று கேட்டார்கள். பிறகு, “இவர்கள், நான் கூறுவதை இப்போது செவியுறுகிறார்கள்” என்றும் கூறினார்கள். (“இறந்தவர்கள் செவியுறுகிறார்கள்” என்று நபி (ஸல்) அவர்கள் சொன்னதாக இப்னு உமர் (ரலி) அவர்கள் கூறுகிறார்கள் என்ற) தகவல் ஆயிஷா (ரலி) அவர்களிடம் தெரிவிக்கப்பட்டபோது, “நான் அவர்களுக்குச் சொல்லிவந்த (கொள்கைகள்) எல்லாம் உண்மையென்று இப்போது அவர்கள் அறிகிறார்கள்' என்றே நபி (ஸல்) அவர்கள் கூறினார்கள்” என ஆயிஷா (ரலி) அவர்கள் சொன்னார்கள். பிறகு (தமது கருத்திற்குச் சான்றாக), “(நபியே!) இறந்தவர்களை உங்களால் கேட்கச் செய்ய முடியாது” எனும் (35:22) இறைவசனத்தை (இறுதிவரை) ஓதினார் கள்.23 அத்தியாயம் : 64
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: பத்ரின் கிணற்றருகில் நபி (ஸல்) அவர்கள் நின்றுகொண்டு (உள்ளே கிடந்த இறைமறுப்பாளர்களின் சடலங்களை நோக்கி), “உங்களுக்கு உங்களுடைய இறைவன் வாக்களித்த (தண்டனை)தனை உண்மையானதுதான் என்று கண்டுகொண்டீர்களா?” என்று கேட்டார்கள். பிறகு, “இவர்கள், நான் கூறுவதை இப்போது செவியுறுகிறார்கள்” என்றும் கூறினார்கள். (“இறந்தவர்கள் செவியுறுகிறார்கள்” என்று நபி (ஸல்) அவர்கள் சொன்னதாக இப்னு உமர் (ரலி) அவர்கள் கூறுகிறார்கள் என்ற) தகவல் ஆயிஷா (ரலி) அவர்களிடம் தெரிவிக்கப்பட்டபோது, “நான் அவர்களுக்குச் சொல்லிவந்த (கொள்கைகள்) எல்லாம் உண்மையென்று இப்போது அவர்கள் அறிகிறார்கள்' என்றே நபி (ஸல்) அவர்கள் கூறினார்கள்” என ஆயிஷா (ரலி) அவர்கள் சொன்னார்கள். பிறகு (தமது கருத்திற்குச் சான்றாக), “(நபியே!) இறந்தவர்களை உங்களால் கேட்கச் செய்ய முடியாது” எனும் (35:22) இறைவசனத்தை (இறுதிவரை) ஓதினார் கள்.23 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3980</td></tr><tr><td>Arabic No</td><td>3980</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

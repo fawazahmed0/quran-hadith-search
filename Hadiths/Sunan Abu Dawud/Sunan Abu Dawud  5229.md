@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) ..... আবূ মিজলায (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা মুআবিয়া (রাঃ) ইবন যুবায়র ইবন আমির (রাঃ)-এর কাছে যান। তখন ইবন আমির (রাঃ) দাঁড়িয়ে যান এবং ইবন যুবায়র (রাঃ) বসে থাকেন। তখন মুআবিয়া (রাঃ) ইবন আমির (রাঃ)-কে বলেনঃ তুমি বস। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি এ পসন্দ করে যে, লোকেরা তার জন্য দাঁড়িয়ে থাকবে, সে যেন তার স্থান জাহান্নামে বানিয়ে নেয়।
+। আবূ মিজলায (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, মু‘আবিয়াহ (রাঃ) ইবনু যুবায়র ও ইবনু আমিরের নিকট আসলেন। ইবনু আমির দাঁড়িয়ে গেলেন, কিন্তু ইবনুয যুবায়র বসে রইলেন। মু‘আবিয়াহ (রাঃ) ইবনু আমিরকে বললেন, বসো। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে লোক নিজের জন্য অন্য লোকের অপেক্ষা করাকে পছন্দ করে, সে যেন জাহান্নামে তার আসন নির্ধারণ করে নেয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5229</td></tr><tr><td>Arabic No</td><td>5229</td></tr><tr><td>Reference</td><td>Book 43 Hadith 457</td></tr></tbody></table></div>
 

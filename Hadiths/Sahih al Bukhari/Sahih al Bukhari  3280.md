@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘সূর্যাস্তের পরপরই যখন রাত শুরু হয় অথবা বলেছেন, যখন রাতের অন্ধকার নেমে আসে তখন তোমরা তোমাদের শিশুদেরকে ঘরে আটকে রাখবে। কারণ এ সময় শয়তানেরা ছড়িয়ে পড়ে। অতঃপর যখন রাতের কিছু অংশ অতিবাহিত হবে তখন তাদের ছেড়ে দিতে পার আর তুমি তোমার ঘরের দরজা বন্ধ করে দাও এবং আল্লাহর নাম স্মরণ কর। তোমাদের ঘরের বাতি নিভিয়ে দাও এবং আল্লাহর নাম স্মরণ কর। তোমার পানি রাখার পাত্রের মুখ ঢেকে রাখ এবং আল্লাহর নাম স্মরণ কর। তোমার বাসনপত্র ঢেকে রাখ এবং আল্লাহর নাম স্মরণ কর। সামান্য কিছু হলেও তার ওপর দিয়ে রেখে দাও।’ (৩৩০৪, ৩৩১৬, ৫৬২৩, ৫৬২৪, ৬২৯৫, ৬২৯৬) (মুসলিম ৩৬/১২ হাঃ ২০১২, আহমাদ ১৪৮৩৫) (আধুনিক প্রকাশনীঃ ৩০৩৮, ইসলামিক ফাউন্ডেশনঃ ৩০৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘সূর্যাস্তের পরপরই যখন রাত শুরু হয় অথবা বলেছেন, যখন রাতের অন্ধকার নেমে আসে তখন তোমরা তোমাদের শিশুদেরকে ঘরে আটকে রাখবে। কারণ এ সময় শয়তানেরা ছড়িয়ে পড়ে। অতঃপর যখন রাতের কিছু অংশ অতিবাহিত হবে তখন তাদের ছেড়ে দিতে পার আর তুমি তোমার ঘরের দরজা বন্ধ করে দাও এবং আল্লাহর নাম স্মরণ কর। তোমাদের ঘরের বাতি নিভিয়ে দাও এবং আল্লাহর নাম স্মরণ কর। তোমার পানি রাখার পাত্রের মুখ ঢেকে রাখ এবং আল্লাহর নাম স্মরণ কর। তোমার বাসনপত্র ঢেকে রাখ এবং আল্লাহর নাম স্মরণ কর। সামান্য কিছু হলেও তার ওপর দিয়ে রেখে দাও।’ (৩৩০৪, ৩৩১৬, ৫৬২৩, ৫৬২৪, ৬২৯৫, ৬২৯৬) (মুসলিম ৩৬/১২ হাঃ ২০১২, আহমাদ ১৪৮৩৫) (আধুনিক প্রকাশনীঃ ৩০৩৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3280</td></tr><tr><td>Arabic No</td><td>3280</td></tr><tr><td>Reference</td><td>Book 59 Hadith 89</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Jabir:The Prophet (ﷺ) said, "When nightfalls, then keep your children
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: ‘‘இரவின் இருள் படரத் தொடங்கி விட்டால் உங்கள் குழந்தைகளை (வெளியே திரிய விடாமல்) தடுத்து விடுங்கள். ஏனெனில், ஷைத்தான்கள் அப்போதுதான் (பூமியெங்கும்) பரவி விடுகின்றன. இரவு வேளையில் சிறிது நேரம் கழிந்துவிட்டால் அவர்களை (வெளியே செல்ல) விட்டுவிடுங்கள்.82 மேலும், (இரவில்) உன் கதவை மூடிவிடுவீராக! (அப்போது) அல்லாஹ்வின் பெயரைச் சொல்வீராக! (உறங்கச் செல்கை யில்) உமது விளக்கை அணைத்து விடுவீராக! (அப்போதும்) அல்லாஹ்வின் பெயரைச் சொல்வீராக!. உமது தண்ணீர் பையைச் சுருக்கிட்டு மூடிவிடுவீராக! (அப்போதும்) அல்லாஹ்வின் பெயரைச் சொல்வீராக! உமது பாத்திரத்தை மூடி வைப்பீராக! (அதை முழுவதும் மூட இயலாவிட்டாலும்) அதன்மீது எதையாவது குறுக்காக வைத்தேனும் மூடிவிடுவீராக! (அப்போதும்) அல்லாஹ்வின் பெயரைச் சொல்வீராக! இதை ஜாபிர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.83 அத்தியாயம் : 59
+நபி (ஸல்) அவர்கள்கூறினார்கள்: ‘‘இரவின் இருள் படரத் தொடங்கி விட்டால் உங்கள் குழந்தைகளை (வெளியே திரிய விடாமல்) தடுத்து விடுங்கள். ஏனெனில், ஷைத்தான்கள் அப்போதுதான் (பூமியெங்கும்) பரவி விடுகின்றன. இரவு வேளையில் சிறிது நேரம் கழிந்துவிட்டால் அவர்களை (வெளியே செல்ல) விட்டுவிடுங்கள்.82 மேலும், (இரவில்) உன் கதவை மூடிவிடுவீராக! (அப்போது) அல்லாஹ்வின் பெயரைச் சொல்வீராக! (உறங்கச் செல்கை யில்) உமது விளக்கை அணைத்து விடுவீராக! (அப்போதும்) அல்லாஹ்வின் பெயரைச் சொல்வீராக!. உமது தண்ணீர் பையைச் சுருக்கிட்டு மூடிவிடுவீராக! (அப்போதும்) அல்லாஹ்வின் பெயரைச் சொல்வீராக! உமது பாத்திரத்தை மூடி வைப்பீராக! (அதை முழுவதும் மூட இயலாவிட்டாலும்) அதன்மீது எதையாவது குறுக்காக வைத்தேனும் மூடிவிடுவீராக! (அப்போதும்) அல்லாஹ்வின் பெயரைச் சொல்வீராக! இதை ஜாபிர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.83 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3280</td></tr><tr><td>Arabic No</td><td>3280</td></tr><tr><td>Reference</td><td>Book 59 Hadith 89</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated Jabir:The Prophet (ﷺ) said, "When nightfalls, then keep your children
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir İbn Abdullah r.a.'ın naklettiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Gece karanlığı bastırınca çocuklarınızı kesinlikle dışarıya bırakmayın! Çünkü bu vakitte şeytanlar cirit atar. Yatsı vaktinin üzerinden bir süre geçince artık çocuklarınızı evde tutun! Besmele çekerek kapınızı kapatın! Besmele çekerek ışığınızı söndürün! Besmele çekerek su kaplarının ağzını kapatın! Ve her ne ile olursa olsun kap kacağın ağzını besmele çekerek örtün!" Tekrar: 3304, 3316, 5623, 5624, 6295, 6296
+Cabir İbn Abdullah r.a.'ın naklettiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Gece karanlığı bastırınca çocuklarınızı kesinlikle dışarıya bırakmayın! Çünkü bu vakitte şeytanlar cirit atar. Yatsı vaktinin üzerinden bir süre geçince artık çocuklarınızı evde tutun! Besmele çekerek kapınızı kapatın! Besmele çekerek ışığınızı söndürün! Besmele çekerek su kaplarının ağzını kapatın! Ve her ne ile olursa olsun kap kacağın ağzını besmele çekerek örtün!" Tekrar: 3304
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3280</td></tr><tr><td>Arabic No</td><td>3280</td></tr><tr><td>Reference</td><td>Book 59 Hadith 89</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৩৩, আন্তর্জাতিক নাম্বারঃ ৭০ ১৩৩-(১২৪/৭০) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... জারীর ইবনু আবদুল্লাহ (রাযিঃ) বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যখন দাস পালিয়ে যায়, তখন তার সালাত কবুল হয় না। (ইসলামিক ফাউন্ডেশনঃ ১৩৪, ইসলামিক সেন্টারঃ ১৩৮)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... জারীর ইবনু আবদুল্লাহ (রাযিঃ) বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যখন দাস পালিয়ে যায়, তখন তার সালাত কবুল হয় না। (ইসলামিক ফাউন্ডেশনঃ ১৩৪, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>230</td></tr><tr><td>Arabic No</td><td>70</td></tr><tr><td>Reference</td><td>Book 1 Hadith 136</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: அடிமை (தன் எசமானிடமிருந்து) ஓடிப் போய்விட்டால் அவனுடைய எந்தத் தொழுகையும் ஏற்றுக்கொள்ளப்படாது. (தொழுகையின் நன்மை கிடைக்காது.) இதை ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 1
+நபி (ஸல்) அவர்கள் கூறினார்கள்: அடிமை (தன் எசமானிடமிருந்து) ஓடிப் போய்விட்டால் அவனுடைய எந்தத் தொழுகையும் ஏற்றுக்கொள்ளப்படாது. (தொழுகையின் நன்மை கிடைக்காது.) இதை ஜரீர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>230</td></tr><tr><td>Arabic No</td><td>70</td></tr><tr><td>Reference</td><td>Book 1 Hadith 136</td></tr></tbody></table></div>
 

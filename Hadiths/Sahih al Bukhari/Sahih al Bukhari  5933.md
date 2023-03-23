@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু আবূ শাইবাহ (রহ.) আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। আল্লাহ তা‘আলা লা‘নত করেন সে সব নারীদেরকে যারা নিজে পরচুলা লাগায় এবং যারা অন্যদেরকে তা লাগিয়ে দেয়, যারা অঙ্গ-প্রত্যঙ্গে উল্কি আঁকে এবং অন্যকে করিয়ে দেয়। (আধুনিক প্রকাশনী- ৫৫০০, ইসলামিক ফাউন্ডেশন- ৫৩৯৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু আবূ শাইবাহ (রহ.) আবূ হুরাইরাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। আল্লাহ তা‘আলা লা‘নত করেন সে সব নারীদেরকে যারা নিজে পরচুলা লাগায় এবং যারা অন্যদেরকে তা লাগিয়ে দেয়, যারা অঙ্গ-প্রত্যঙ্গে উল্কি আঁকে এবং অন্যকে করিয়ে দেয়। (আধুনিক প্রকাশনী- ৫৫০০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5933</td></tr><tr><td>Arabic No</td><td>5933</td></tr><tr><td>Reference</td><td>Book 77 Hadith 148</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah has cursed the lady who arti
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒட்டுமுடி வைத்துவிடும் பெண்கள், ஒட்டுமுடி வைத்துக்கொள்ளும் பெண்கள், பச்சை குத்திவிடும் பெண்கள், பச்சை குத்திக்கொள்ளும் பெண்கள் ஆகியோரை அல்லாஹ் சபிக்கின்றான். (தன் கருணை யிலிருந்து அப்புறப்படுத்துகின்றான்.) இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 77
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒட்டுமுடி வைத்துவிடும் பெண்கள், ஒட்டுமுடி வைத்துக்கொள்ளும் பெண்கள், பச்சை குத்திவிடும் பெண்கள், பச்சை குத்திக்கொள்ளும் பெண்கள் ஆகியோரை அல்லாஹ் சபிக்கின்றான். (தன் கருணை யிலிருந்து அப்புறப்படுத்துகின்றான்.) இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5933</td></tr><tr><td>Arabic No</td><td>5933</td></tr><tr><td>Reference</td><td>Book 77 Hadith 148</td></tr></tbody></table></div>
 

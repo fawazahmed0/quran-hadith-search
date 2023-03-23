@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্রাহীম ইবনুল হাসান আল-মাসসিসী ..... আবদাল্লাহ্ ইবন আমর (রাঃ) হতে বর্ণিত। রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ গাযীর জন্য নির্ধারিত পুণ্য রয়েছে। গাযীকে যুদ্ধাস্ত্র ভাড়া দিয়ে সহায়তা দানকারী তার সহায়তার পুণ্য পাবেই, অধিকন্তু গাযীর সমান পুণ্যেরও অধিকারী হবে।
+। ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ গাযীর জন্য তার নির্ধারিত সাওয়াব রয়েছে। আর যুদ্ধের সরঞ্জাম দানকারীর জন্য সাওয়াব রয়েছে, অধিকন্তু সে গাযীর সমান সাওয়াবও পাবে (অর্থাৎ সে দ্বিগুণ সাওয়াব পাবে)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2526</td></tr><tr><td>Arabic No</td><td>2526</td></tr><tr><td>Reference</td><td>Book 15 Hadith 50</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Hasan Al Mashishi], telah menceri
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Amr'den rivayet olunduğuna göre, Rasûlullah (s.a.v.) şöyle, buyurmuştur; "Mücâhid için (sadece kendi cihadının) sevabı vardır. (Ona silah temininde) yardımcı olan kimse için hem (yardımının) sevabı hem de cihad sevabı vardır." Diğer Tahric: Ahmed b. Hanbel, II, 174
+Abdullah b. Amr'den rivayet olunduğuna göre, Rasûlullah (s.a.v.) şöyle, buyurmuştur; "Mücâhid için (sadece kendi cihadının) sevabı vardır. (Ona silah temininde) yardımcı olan kimse için hem (yardımının) sevabı hem de cihad sevabı vardır." Diğer Tahric: Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2526</td></tr><tr><td>Arabic No</td><td>2526</td></tr><tr><td>Reference</td><td>Book 15 Hadith 50</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল ‘আযীয (রহ.) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি আনাস ইবনু মালিক (রাযি.)-কে জিজ্ঞেস করলেন, আপনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে রসুন খাওয়া সম্পর্কে কী বলতে শুনেছেন? তখন আনাস (রাযি.) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি এ জাতীয় গাছ হতে খায় সে যেন অবশ্যই আমাদের নিকট না আসে এবং আমাদের সাথে সালাত আদায় না করে। (৫৪৫১ মুসলিম ৫/১৭, হাঃ ৫৬৩, আহমাদ ৯৫৪৯) (আধুনিক প্রকাশনীঃ৮০৭, ইসলামিক ফাউন্ডেশনঃ ৮১৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল ‘আযীয (রহ.) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি আনাস ইবনু মালিক (রাযি.)-কে জিজ্ঞেস করলেন, আপনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে রসুন খাওয়া সম্পর্কে কী বলতে শুনেছেন? তখন আনাস (রাযি.) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি এ জাতীয় গাছ হতে খায় সে যেন অবশ্যই আমাদের নিকট না আসে এবং আমাদের সাথে সালাত আদায় না করে। (৫৪৫১ মুসলিম ৫/১৭, হাঃ ৫৬৩, আহমাদ ৯৫৪৯) (আধুনিক প্রকাশনীঃ৮০৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>856</td></tr><tr><td>Arabic No</td><td>856</td></tr><tr><td>Reference</td><td>Book 10 Hadith 247</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல் அஸீஸ் பின் ஸுஹைப் (ரஹ்) அவர்கள் கூறியதாவது: ஒரு மனிதர் அனஸ் (ரலி) அவர்களிடம், “வெள்ளைப் பூண்டு குறித்து நபி (ஸல்) அவர்களிடம் நீங்கள் என்ன செவியுற்றீர்கள்?” என்று கேட்டார். அதற்கு அனஸ் (ரலி) அவர்கள், “இந்தச் செடியி-ருந்து (விளையும் பூண்டைச்) சாப்பிட்டவர் ‘நம்மை நெருங்க வேண்டாம்’ அல்லது ‘நம்முடன் தொழ வேண்டாம்’ என்று நபி (ஸல்) அவர்கள் கூறினார்கள்” என்றார்கள்.77 அத்தியாயம் : 10
+அப்துல் அஸீஸ் பின் ஸுஹைப் (ரஹ்) அவர்கள் கூறியதாவது: ஒரு மனிதர் அனஸ் (ரலி) அவர்களிடம், “வெள்ளைப் பூண்டு குறித்து நபி (ஸல்) அவர்களிடம் நீங்கள் என்ன செவியுற்றீர்கள்?” என்று கேட்டார். அதற்கு அனஸ் (ரலி) அவர்கள், “இந்தச் செடியி-ருந்து (விளையும் பூண்டைச்) சாப்பிட்டவர் ‘நம்மை நெருங்க வேண்டாம்’ அல்லது ‘நம்முடன் தொழ வேண்டாம்’ என்று நபி (ஸல்) அவர்கள் கூறினார்கள்” என்றார்கள்.77 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>856</td></tr><tr><td>Arabic No</td><td>856</td></tr><tr><td>Reference</td><td>Book 10 Hadith 247</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdülaziz İbn Suheyb el-Benânî şöyle demiştir: "Birisi Enes İbn Mâlik (r.a.)'e 'Resûlullah Sallallahu Aleyhi ve Sellem'in sarımsakla ilgili bir şeyler söylediğini işittin mi' diye sorunca Enes İbn Mâlik şöyle demişti: Resûlullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: Kim bu bitkiden yerse bize veya bizim mescidimize yaklaşmasın. Tekrar: 5451
+Abdülaziz İbn Suheyb el-Benânî şöyle demiştir: "Birisi Enes İbn Mâlik (r.a.)'e 'Resûlullah Sallallahu Aleyhi ve Sellem'in sarımsakla ilgili bir şeyler söylediğini işittin mi' diye sorunca Enes İbn Mâlik şöyle demişti: Resûlullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: Kim bu bitkiden yerse bize veya bizim mescidimize yaklaşmasın. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>856</td></tr><tr><td>Arabic No</td><td>856</td></tr><tr><td>Reference</td><td>Book 10 Hadith 247</td></tr></tbody></table></div>
 

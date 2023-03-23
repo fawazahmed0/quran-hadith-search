@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, নবী ইবরাহীম (আঃ) সূত্রধরদের অস্ত্র দিয়ে নিজের খাত্না করেছিলেন যখন তার বয়স ছিল আশি বছর। আব্দুর রহমান ইবনু ইসহাক (রহ.) আবূ যিনাদ (রহ.) থেকে হাদীস বর্ণনায় মুগীরাহ ইবনু ‘আব্দুর রহমান (রহ.)-এর অনুসরণ করেছেন। ‘আজলান (রহ.) আবূ হুরাইরাহ (রাঃ) থেকে হাদীস বর্ণনায় আরজ (রহ.)-এর অনুসরণ করেছেন। আর মুহাম্মাদ ইবনু ‘আমর (রহ.) আবূ সালামাহ (রাঃ) হতে বর্ণনা করেছেন। (৬২৯৮) (মুসলিম ৪৩/৪১ হাঃ ২৩৭০, আহমাদ ৯৪১২) (আধুনিক প্রকাশনীঃ ৩১০৮, ইসলামিক ফাউন্ডেশনঃ ৩১১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, নবী ইবরাহীম (আঃ) সূত্রধরদের অস্ত্র দিয়ে নিজের খাত্না করেছিলেন যখন তার বয়স ছিল আশি বছর। আব্দুর রহমান ইবনু ইসহাক (রহ.) আবূ যিনাদ (রহ.) থেকে হাদীস বর্ণনায় মুগীরাহ ইবনু ‘আব্দুর রহমান (রহ.)-এর অনুসরণ করেছেন। ‘আজলান (রহ.) আবূ হুরাইরাহ (রাঃ) থেকে হাদীস বর্ণনায় আরজ (রহ.)-এর অনুসরণ করেছেন। আর মুহাম্মাদ ইবনু ‘আমর (রহ.) আবূ সালামাহ (রাঃ) হতে বর্ণনা করেছেন। (৬২৯৮) (মুসলিম ৪৩/৪১ হাঃ ২৩৭০, আহমাদ ৯৪১২) (আধুনিক প্রকাশনীঃ ৩১০৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3356</td></tr><tr><td>Arabic No</td><td>3356</td></tr><tr><td>Reference</td><td>Book 60 Hadith 31</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Mu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இப்ராஹீம் (அலை) அவர்கள், தமது எண்பதாவது வயதில் யிகத்தூம்’ (எனும் யிவாய்ச்சி’யின்) மூலமாக விருத்தசேதனம் செய்துகொண்டார்கள்.29 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் ஐந்து அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 60
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இப்ராஹீம் (அலை) அவர்கள், தமது எண்பதாவது வயதில் யிகத்தூம்’ (எனும் யிவாய்ச்சி’யின்) மூலமாக விருத்தசேதனம் செய்துகொண்டார்கள்.29 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் ஐந்து அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3356</td></tr><tr><td>Arabic No</td><td>3356</td></tr><tr><td>Reference</td><td>Book 60 Hadith 31</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Mu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "İbrahim aleyhisselam seksen yaşında iken el-Kaddum denilen yerde sünnet olmuştur." Ebu'z-Zinad, dal harfi şeddesiz olarak. "el-Kadum" diye rivayet etmiştir. Tekrar: 6298
+Ebu Hureyre r.a. dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: "İbrahim aleyhisselam seksen yaşında iken el-Kaddum denilen yerde sünnet olmuştur." Ebu'z-Zinad, dal harfi şeddesiz olarak. "el-Kadum" diye rivayet etmiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3356</td></tr><tr><td>Arabic No</td><td>3356</td></tr><tr><td>Reference</td><td>Book 60 Hadith 31</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াযীদ ইবন খালিদ ইবন মাওহাব রামলী ও হিশাম ইবন আম্মার (রহঃ) .... তামীম দারী (রাঃ) থেকে বর্ণিত। একদা তিনি বলেন, ইয়া রাসূলাল্লাহ! রাবী ইয়াযীদ বলেনঃ জনৈক ইয়াতীম বলে, ইয়া রাসূলাল্লাহ! ঐ ব্যক্তি সম্পর্কে বিধান কি, যে কোন মুসলিমের হাতে হাত রেখে ইসলাম কবুল করেছে? তিনি বলেনঃ সে ব্যক্তি তার জীবন ও মৃত্যুর জন্য উত্তম ব্যক্তি (যদি সে ব্যক্তির কোন ওয়ারিছ না থাকে, তবে সে-ই ওয়ারিছ হয়ে যাবে)।
+। তামীম আদ-দারী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, হে আল্লাহর রাসূল! (বর্ণনাকারী) ইয়াযীদের বর্ণনায় রয়েছে, হে আল্লাহর রাসূল! যে ব্যক্তি কোনো মুসলিমের হাতে ইসলাম কবূল করেছে তার ব্যাপারে কি বিধান? তিনি বললেনঃ ঐ মুসলিম ব্যক্তি তার জীবন ও মরণে ঘণিষ্ঠ বন্ধু।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2918</td></tr><tr><td>Arabic No</td><td>2918</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
 

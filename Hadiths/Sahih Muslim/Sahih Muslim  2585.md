@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৪৭৫, আন্তর্জাতিক নাম্বারঃ ১১০৬ ২৪৭৫-(৭২/...) মুহাম্মাদ ইবনু বাশশার (রহঃ) ... আয়িশাহ্ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সওমের অবস্থায় (স্ত্রীদেরকে) চুমু দিতেন। (ইসলামিক ফাউন্ডেশন ২৪৫২, ইসলামীক সেন্টার ২৪৫১)
+মুহাম্মাদ ইবনু বাশশার (রহঃ) ... আয়িশাহ্ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সওমের অবস্থায় (স্ত্রীদেরকে) চুমু দিতেন। (ইসলামিক ফাউন্ডেশন ২৪৫২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2585</td></tr><tr><td>Arabic No</td><td>1106.13</td></tr><tr><td>Reference</td><td>Book 13 Hadith 91</td></tr></tbody></table></div>
 

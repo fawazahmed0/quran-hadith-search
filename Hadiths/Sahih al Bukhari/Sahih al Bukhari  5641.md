@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী ও আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিম ব্যক্তির উপর যে কষ্ট ক্লেশ, রোগ-ব্যাধি, উদ্বেগ-উৎকণ্ঠা, দুশ্চিন্তা, কষ্ট ও পেরেশানী আসে, এমনকি যে কাঁটা তার দেহে ফুটে, এ সবের মাধ্যমে আল্লাহ তার গুনাহসমূহ ক্ষমা করে দেন। [মুসলিম ৪৫/১৪, হাঃ ২৫৭৩] (আধুনিক প্রকাশনী- ৫২৩০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5641</td></tr><tr><td>Arabic No</td><td>5641</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு முஸ்லிமைத் தைக்கும் முள் உள்பட அவருக்கு நேரிடும் துன்பம், நோய், துக்கம், கவலை, தொல்லை, மனவேதனை ஆகிய எதுவாயினும் அதற்குப் பதிலாக அவருடைய பாவங்களிலிருந்து சிலவற்றை அல்லாஹ் மன்னிக்காமல் இருப்பதில்லை. இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்களும் அபூஹுரைரா (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் : 75
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு முஸ்லிமைத் தைக்கும் முள் உள்பட அவருக்கு நேரிடும் துன்பம், நோய், துக்கம், கவலை, தொல்லை, மனவேதனை ஆகிய எதுவாயினும் அதற்குப் பதிலாக அவருடைய பாவங்களிலிருந்து சிலவற்றை அல்லாஹ் மன்னிக்காமல் இருப்பதில்லை. இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்களும் அபூஹுரைரா (ரலி) அவர்களும் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5641</td></tr><tr><td>Arabic No</td><td>5641</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

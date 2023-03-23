@@ -62,7 +62,7 @@ Telah menceritakan kepadaku Yahya dari Malik dari [Ibnu Syihab] dari [Anas bin M
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik (r.a.) rivayet ediyor: Resulullah Sallallahu Aleyhi ve Sellem atla. giderken düştü, sağ yanı incindi. (Namaz vakti gelince) namazı oturarak kıldırdı, biz de arkasında oturarak kıldık. Namazı bitirince «İmam kendisine uyulması için imam kılındı. Onun için imam ayakta kılarsa siz de ayakta kılın. Rüku edince rüku edin. Başını kaldırınca siz de kaldırın *Semiallahu limen hamideh' deyince, siz 'rabbena ve lekel hamd' deyin. Oturarak kıldığı vakit hepiniz oturarak kılın.» buyurdu. Diğer tahric: Buhari, Ezan; Müslim, Salat; Şafiî, Risale, no: 696
+Enes b. Malik (r.a.) rivayet ediyor: Resulullah Sallallahu Aleyhi ve Sellem atla. giderken düştü, sağ yanı incindi. (Namaz vakti gelince) namazı oturarak kıldırdı, biz de arkasında oturarak kıldık. Namazı bitirince «İmam kendisine uyulması için imam kılındı. Onun için imam ayakta kılarsa siz de ayakta kılın. Rüku edince rüku edin. Başını kaldırınca siz de kaldırın *Semiallahu limen hamideh' deyince, siz 'rabbena ve lekel hamd' deyin. Oturarak kıldığı vakit hepiniz oturarak kılın.» buyurdu. Diğer tahric: Buhari, Ezan; Müslim, Salat; Şafiî, Risale, no:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>303</td></tr><tr><td>Arabic No</td><td>303</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
 

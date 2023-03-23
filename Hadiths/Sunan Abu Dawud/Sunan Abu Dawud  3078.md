@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন আমর ইবন সারহা (রহঃ) ..... মালিক (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ হিশাম বলেছেনঃ ইরকুয-যালিম বা যবরদখলকারী যালিম ঐ ব্যক্তি, যে অন্যের যমীনে গাছ লাগিয়ে তার মালিক হতে চায়। রাবী বলেনঃ ইরকুয-যালিম হলোঃ অন্যের যমীন হতে কিছু যবরদখল করা, তাতে গর্ত করা এবং না-হক বৃক্ষ রোপণ করা।
+। মালিক (রহঃ) সূত্রে বর্ণিত। হিশাম (রহঃ) বললেন, ঐ ব্যক্তি অন্যায়ভাবে দখলকারী যে নিজের অবৈধ অধিকার প্রতিষ্ঠার জন্য অন্যের জমিতে গাছ লাগায়। মালিক (রহঃ) বলেন, যে ব্যক্তি অন্যায়ভাবে পতিত জমি থেকে কিছু নিবে, তাতে গর্ত খনন করবে কিংবা রোপণ করবে সে অত্যাচারী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3078</td></tr><tr><td>Arabic No</td><td>3078</td></tr><tr><td>Reference</td><td>Book 20 Hadith 151</td></tr></tbody></table></div>
 

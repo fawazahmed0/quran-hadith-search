@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/৪২৪৪। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মুমিন ব্যক্তি যখন গুনাহ করে তখন তার কলবে একটি কালো দাগ পড়ে। অতঃপর সে তওবা করলে, পাপকাজ ত্যাগ করলে এবং ক্ষমা প্রার্থনা করলে তার কলব পরিচ্ছন্ন হয়ে যায়। সে আরও গুনাহ করলে সেই কালো দাগ বেড়ে যায়। এই সেই মরিচা যা আল্লাহ তাঁর কিতাবে উল্লেখ করেছেন (অনুবাদঃ) ‘‘কক্ষনো নয়, বরং তাদের কৃতকর্মই তাদের অন্তরে জং (মরিচা) ধরিয়েছে’’ (সূরা আল-মুতাফফিফীনঃ ১৪)।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মুমিন ব্যক্তি যখন গুনাহ করে তখন তার কলবে একটি কালো দাগ পড়ে। অতঃপর সে তওবা করলে, পাপকাজ ত্যাগ করলে এবং ক্ষমা প্রার্থনা করলে তার কলব পরিচ্ছন্ন হয়ে যায়। সে আরও গুনাহ করলে সেই কালো দাগ বেড়ে যায়। এই সেই মরিচা যা আল্লাহ তাঁর কিতাবে উল্লেখ করেছেন (অনুবাদঃ) ‘‘কক্ষনো নয়, বরং তাদের কৃতকর্মই তাদের অন্তরে জং (মরিচা) ধরিয়েছে’’ (সূরা আল-মুতাফফিফীনঃ ১৪)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4244</td></tr><tr><td>Arabic No</td><td>4244</td></tr><tr><td>Reference</td><td>Book 37 Hadith 145</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“When the believer commits sin, a black spot appears on his heart. If he repents and gives up that sin and seeks forgiveness, his heart will be polished. But if (the sin) increases, (the black spot) increases. That is the Ran that Allah mentions in His Book: “Nay! But on their hearts is the Ran (covering of sins and evil deeds) which they used to earn.” [83:14]
+It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“When the believer commits sin, a black spot appears on his heart. If he repents and gives up that sin and seeks forgiveness, his heart will be polished. But if (the sin) increases, (the black spot) increases. That is the Ran that Allah mentions in His Book: “Nay! But on their hearts is the Ran (covering of sins and evil deeds) which they used to earn.” [83:]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4244</td></tr><tr><td>Arabic No</td><td>4244</td></tr><tr><td>Reference</td><td>Book 37 Hadith 145</td></tr></tbody></table></div>
 
@@ -44,7 +44,7 @@ It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“When
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Hatim bin Isma'il] dan [Walid bin Muslim] keduanya berkata; telah menceritakan kepada kami [Muhammad bin 'Ajlan] dari [Al Qa'qa' bin Hakim] dari [Abu Shalih] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya apabila seorang mukmin berbuat dosa, maka akan ada titik hitam di dalam hatinya, jika ia bertaubat, meninggalkannya serta meminta ampun naka hatinya akan kembali putih, namun jika ia menambah (dosanya) maka akan bertambah (titik hitam), maka itulah penutup (hati) yang di sebutkan dalam firman Allah dalam kitab-Nya; "Sekali-kali tidak (demikian), Sebenarnya apa yang selalu mereka usahakan itu menutupi hati mereka." (QS Al Muthafifin; 14)
+Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Hatim bin Isma'il] dan [Walid bin Muslim] keduanya berkata; telah menceritakan kepada kami [Muhammad bin 'Ajlan] dari [Al Qa'qa' bin Hakim] dari [Abu Shalih] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya apabila seorang mukmin berbuat dosa, maka akan ada titik hitam di dalam hatinya, jika ia bertaubat, meninggalkannya serta meminta ampun naka hatinya akan kembali putih, namun jika ia menambah (dosanya) maka akan bertambah (titik hitam), maka itulah penutup (hati) yang di sebutkan dalam firman Allah dalam kitab-Nya; "Sekali-kali tidak (demikian), Sebenarnya apa yang selalu mereka usahakan itu menutupi hati mereka." (QS Al Muthafifin;)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4244</td></tr><tr><td>Arabic No</td><td>4244</td></tr><tr><td>Reference</td><td>Book 37 Hadith 145</td></tr></tbody></table></div>
 

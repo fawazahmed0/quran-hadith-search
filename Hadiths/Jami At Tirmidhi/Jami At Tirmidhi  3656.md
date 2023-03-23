@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬৫৬। উমার ইবনুল খাত্তাব (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, আবূ বাকর (রাযিঃ) আমাদের নেতা, আমাদের মাঝে সবচাইতে উত্তম, আমাদের মাঝে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বেশি পছন্দনীয় ব্যক্তি। হাসানঃ মিশকাত (৬০২৭), বুখারী (৩৭৫৪) নং হাদীসে এর প্রথমাংশ উল্লেখ আছে। আবূ ঈসা বলেন, হাদীসটি সহীহ গারীব।
+। উমার ইবনুল খাত্তাব (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, আবূ বাকর (রাযিঃ) আমাদের নেতা, আমাদের মাঝে সবচাইতে উত্তম, আমাদের মাঝে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বেশি পছন্দনীয় ব্যক্তি। হাসানঃ মিশকাত (৬০১৮), বুখারী (৩৭৫৪) নং হাদীসে এর প্রথমাংশ উল্লেখ আছে। আবূ ঈসা বলেন, হাদীসটি সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3656</td></tr><tr><td>Arabic No</td><td>3656</td></tr><tr><td>Reference</td><td>Book 49 Hadith 52</td></tr></tbody></table></div>
 

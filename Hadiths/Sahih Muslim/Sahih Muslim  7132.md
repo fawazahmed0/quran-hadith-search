@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭০২৪, আন্তর্জাতিক নাম্বারঃ ২৮২৪ ৭০২৪-(২/২৮২৪) সাঈদ ইবনু আমর আল আশ’আসী ও যুহায়র ইবনু হাব (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, আল্লাহ তা’আলা বলেছেন, আমি আমার নেক বান্দাদের জন্য এমন সব বস্তু তৈরি করে রেখেছি যা কখনো কোন চক্ষু দেখেনি, কোন কান শুনেনি এবং কোন অন্তঃকরণ কখনো কল্পনাও করেনি। এ কথাটি অনুরূপ আল-কুরআনেও উল্লেখ রয়েছে- "কেউ জানে না তাদের জন্য নয়ন মুগ্ধকর কী লুকিয়ে রাখা হয়েছে, তাদের কৃতকর্মের প্রতিদান স্বরূপ"- (সূরা আস্ সিজদা ৩২ঃ ১৭)। (ইসলামিক ফাউন্ডেশন ৬৮৭১, ইসলামিক সেন্টার ৬৯২৮)
+সাঈদ ইবনু আমর আল আশ’আসী ও যুহায়র ইবনু হাব (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, আল্লাহ তা’আলা বলেছেন, আমি আমার নেক বান্দাদের জন্য এমন সব বস্তু তৈরি করে রেখেছি যা কখনো কোন চক্ষু দেখেনি, কোন কান শুনেনি এবং কোন অন্তঃকরণ কখনো কল্পনাও করেনি। এ কথাটি অনুরূপ আল-কুরআনেও উল্লেখ রয়েছে- "কেউ জানে না তাদের জন্য নয়ন মুগ্ধকর কী লুকিয়ে রাখা হয়েছে, তাদের কৃতকর্মের প্রতিদান স্বরূপ"- (সূরা আস্ সিজদা ৩২ঃ ১৭)। (ইসলামিক ফাউন্ডেশন ৬৮৭১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7132</td></tr><tr><td>Arabic No</td><td>2824.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 3</td></tr></tbody></table></div>
 
@@ -40,7 +40,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abu Huraira reported Allah's Apostle (ﷺ) as saying that:Allah the Exalted and Glorious, said: I have prepared for My pious servants which no eye has ever seen, and no ear has ever heard, and no human heart has ever perceived but it is testified by the Book of Allah. He then recited:" No soul knows what comfort has been concealed from them, as a reward for what they did". (xxxii. 17)
+Abu Huraira reported Allah's Apostle (ﷺ) as saying that:Allah the Exalted and Glorious, said: I have prepared for My pious servants which no eye has ever seen, and no ear has ever heard, and no human heart has ever perceived but it is testified by the Book of Allah. He then recited:" No soul knows what comfort has been concealed from them, as a reward for what they did". (xxxii)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7132</td></tr><tr><td>Arabic No</td><td>2824.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 3</td></tr></tbody></table></div>
 
@@ -56,7 +56,7 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sa'id bin Amru Al Asy'atsi] dan [Zuhair bin Harb], berkata [Zuhair]: Telah menceritakan kepada kami, sedangkan [Sa'id] berkata: Telah mengkhabarkan kepada kami [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Allah 'azza wajalla berfirman: 'Aku telah menyiapkan sesuatu yang belum pernah dilihat mata, belum pernah didengar telinga dan tidak pernah terlintas dibenak manusia untuk hamba-hambaKu yang shalih.' Pembenarnya ada didalam kitab Allah 'azza wajalla: "Tak seorangpun mengetahui berbagai nikmat yang menanti, yang indah dipandang sebagai balasan bagi mereka, atas apa yang mereka kerjakan." (As Sajdah: 17)
+Telah menceritakan kepada kami [Sa'id bin Amru Al Asy'atsi] dan [Zuhair bin Harb], berkata [Zuhair]: Telah menceritakan kepada kami, sedangkan [Sa'id] berkata: Telah mengkhabarkan kepada kami [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Allah 'azza wajalla berfirman: 'Aku telah menyiapkan sesuatu yang belum pernah dilihat mata, belum pernah didengar telinga dan tidak pernah terlintas dibenak manusia untuk hamba-hambaKu yang shalih.' Pembenarnya ada didalam kitab Allah 'azza wajalla: "Tak seorangpun mengetahui berbagai nikmat yang menanti, yang indah dipandang sebagai balasan bagi mereka, atas apa yang mereka kerjakan." (As Sajdah:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7132</td></tr><tr><td>Arabic No</td><td>2824.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 3</td></tr></tbody></table></div>
 

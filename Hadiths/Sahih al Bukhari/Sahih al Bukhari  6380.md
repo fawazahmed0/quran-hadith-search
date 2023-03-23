@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, উম্মু সুলায়ম (রাঃ) বলেনঃ হে আল্লাহর রাসূল! আনাস আপনার খাদিম। তখন তিনি দু‘আ করলেনঃ হে আল্লাহ! আপনি তার মাল ও সন্তান বৃদ্ধি করে দিন এবং আপনি তাকে যা দিয়েছেন তাতে বারাকাত দান করুন।[১৯৮২] (আধুনিক প্রকাশনী- ৫৯৩৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6380</td></tr><tr><td>Arabic No</td><td>6380</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Zaid Sa'id bin Ar Rabi'] telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: (என் தாயார்) உம்மு சுலைம் (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடம், “அனஸ் தங்களுடைய சேவகர். (அவருக்காகப் பிரார்த்தியுங்கள்)” என்று கூறினார். நபி (ஸல்) அவர்கள், “இறைவா! அனஸின் செல்வத்தையும் குழந்தைகளையும் அதிகமாக்கிடுவாயாக! அவருக்கு நீ வழங்கியவற்றில் வளம் வழங்குவாயாக” என்று பிரார்த்தித்தார்கள். அத்தியாயம் : 80
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: (என் தாயார்) உம்மு சுலைம் (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடம், “அனஸ் தங்களுடைய சேவகர். (அவருக்காகப் பிரார்த்தியுங்கள்)” என்று கூறினார். நபி (ஸல்) அவர்கள், “இறைவா! அனஸின் செல்வத்தையும் குழந்தைகளையும் அதிகமாக்கிடுவாயாக! அவருக்கு நீ வழங்கியவற்றில் வளம் வழங்குவாயாக” என்று பிரார்த்தித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6380</td></tr><tr><td>Arabic No</td><td>6380</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

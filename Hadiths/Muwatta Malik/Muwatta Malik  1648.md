@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১৬. আতা ইবন আবদুল্লাহ খুরাসানী (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেনঃ তোমরা পরস্পর মুসাফাহা (কর মর্দন) কর, তাহা হইলে তোমাদের মধ্যকার শত্রুতা দূর হইয়া যাইবে। পরস্পর হাদিয়া তোহফা আদান-প্রদান কর, তাহা হইলে পরস্পর ভালবাসা সৃষ্টি হইবে এবং শত্রুতা দূর হইয়া যাইবে।
+রেওয়ায়ত ১৬. আতা ইবন আবদুল্লাহ খুরাসানী (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেনঃ তোমরা পরস্পর মুসাফাহা (কর মর্দন) কর, তাহা হইলে তোমাদের মধ্যকার শক্রতা দূর হইয়া যাইবে। পরস্পর হাদিয়া তোহফা আদান-প্রদান কর, তাহা হইলে পরস্পর ভালবাসা সৃষ্টি হইবে এবং শক্রতা দূর হইয়া যাইবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1648</td></tr><tr><td>Arabic No</td><td>1648</td></tr><tr><td>Reference</td><td>Book 47 Hadith 16</td></tr></tbody></table></div>
 

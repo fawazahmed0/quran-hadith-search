@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবূ শায়বা (রহঃ) ..... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অতিরিক্ত পানি থেকে কাউকে নিষেধ করা যাবে না, যাতে ঘাস বেঁচে থাকে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অতিরিক্ত পানি থেকে কাউকে বাধা দেয়া যাবে না। কেননা এতে ঘাস (বাঁচিয়ে রাখাকেই) বাধা দেয়া হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3473</td></tr><tr><td>Arabic No</td><td>3473</td></tr><tr><td>Reference</td><td>Book 24 Hadith 58</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre (r.a)'den, Rasûlullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu rivayet edilmiştir: "Sonucu (etrafındaki) otu vermemeye varacağı için, suyun fazlası (ihtiyaç sahibinden) sakınılmaz." Diğer tahric: Buhari, müsâkât; Müslim, müsâkât; Tirmizî, buyu'; İbn Mâce, rühûn; Nesâî buyu'; Ahmed b. Hanbel, II, 463
+Ebû Hureyre (r.a)'den, Rasûlullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu rivayet edilmiştir: "Sonucu (etrafındaki) otu vermemeye varacağı için, suyun fazlası (ihtiyaç sahibinden) sakınılmaz." Diğer tahric: Buhari, müsâkât; Müslim, müsâkât; Tirmizî, buyu'; İbn Mâce, rühûn; Nesâî buyu'; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3473</td></tr><tr><td>Arabic No</td><td>3473</td></tr><tr><td>Reference</td><td>Book 24 Hadith 58</td></tr></tbody></table></div>
 

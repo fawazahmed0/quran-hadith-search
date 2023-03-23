@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন হারব (রহঃ) .... আবদুল্লাহ ইবন আমর (রাঃ) হতে বর্ণিত। তিনি বলেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম আমাকে বলেন, তুমি প্রতি মাসে তিন দিন রোযা রাখবে এবং প্রতি মাসে একবার কুরআন খতম করবে। সময়ের ব্যাপারে তাঁর ও আমার মধ্যে মতভেদ হলে তিনি বলেন, তুমি এক দিন রোযা রাখবে এবং পরদিন ইফতার করবে (অর্থাৎ রোযা রাখবে না।) রাবী আতা বলেনঃ আমার পিতার সাথে আমাদের এ সম্পর্কে মতানৈক্য সৃষ্টি হয়েছে যে, কেউ বলেছেন সাত দিনে এবং কেউ বলেছেন পাঁচ দিনে কুরআন খতম করবে।
+। ‘আবদুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বলেনঃ তুমি প্রত্যেক মাসে তিন দিন সওম পালন করবে এবং কুরআন এক মাসে খতম করবে। তারপর তিনি কুরআন খতমের সময় কমাতে থাকলে আমিও কমাতে থাকি। অতঃপর তিনি বললেনঃ তুমি একদিন সওম পালন করবে এবং একদিন বিরতি দিবে।[1] সহীহ। ‘আত্বা বলেন, আমরা আমার পিতার বর্ণনাতে মতভেদ করি, কেউ সাত দিন এবং কেউ পাঁচ দিনের কথা বর্ণনা করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1389</td></tr><tr><td>Arabic No</td><td>1389</td></tr><tr><td>Reference</td><td>Book 6 Hadith 19</td></tr></tbody></table></div>
 

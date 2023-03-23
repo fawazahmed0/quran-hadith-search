@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু বাশশার .... আবূ খালদাহ্ হতে বর্ণিত। তিনি বলেন, আমি আবূল আলিয়াকে এক ব্যক্তি সম্পর্কে জিজ্ঞাসা করলাম, যিনি অপবিত্র এবং যার নিকট পানি নেই; কিন্তু নবীয আছে এমতাবস্থায় তিনি কি নবীয দ্বারা গোসল করতে পারেন? জবাবে তিনি বলেন, না।
+। আবু খাল্‌দা (রহঃ) বলেন, আমি আবুল ‘আলিয়াকে জিজ্ঞেস করেছিলাম, এক ব্যক্তির গোসল ফরয হয়েছে, কিন্তু তার কাছে পানি নেই, বরং নবীয আছে। সে কি নবীয দিয়ে গোসল করবে? তিনি বললেন, না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Arabic No</td><td>87</td></tr><tr><td>Reference</td><td>Book 1 Hadith 87</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আনসারীদের একদলকে আবূ রাফি‘ ইয়াহূদীর নিকট প্রেরণ করেন। তখন ‘আবদুল্লাহ্ ইবনু ‘আতীক (রাঃ) রাত্রিকালে তার ঘরে ঢুকে তাকে হত্যা করে যখন সে ঘুমিয়ে ছিল। (৩০২২) (আধুনিক প্রকাশনীঃ ২৮০১, ইসলামিক ফাউন্ডেশনঃ ২৮১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আনসারীদের একদলকে আবূ রাফি‘ ইয়াহূদীর নিকট প্রেরণ করেন। তখন ‘আবদুল্লাহ্ ইবনু ‘আতীক (রাঃ) রাত্রিকালে তার ঘরে ঢুকে তাকে হত্যা করে যখন সে ঘুমিয়ে ছিল। (৩০২২) (আধুনিক প্রকাশনীঃ ২৮০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3023</td></tr><tr><td>Arabic No</td><td>3023</td></tr><tr><td>Reference</td><td>Book 56 Hadith 232</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அன்சாரிகளில் ஒரு குழுவினரை அபூ ராஃபிஉ என்பவரிடம் அனுப்பினார்கள். அப்துல்லாஹ் பின் அத்தீக் (ரலி) அவர்கள் அவரது வீட்டிற்குள் இரவு நேரத்தில் நுழைந்து அவர் தூங்கிக்கொண்டிருக்கும் போது அவரைக் கொன்றார்கள். அத்தியாயம் : 56
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அன்சாரிகளில் ஒரு குழுவினரை அபூ ராஃபிஉ என்பவரிடம் அனுப்பினார்கள். அப்துல்லாஹ் பின் அத்தீக் (ரலி) அவர்கள் அவரது வீட்டிற்குள் இரவு நேரத்தில் நுழைந்து அவர் தூங்கிக்கொண்டிருக்கும் போது அவரைக் கொன்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3023</td></tr><tr><td>Arabic No</td><td>3023</td></tr><tr><td>Reference</td><td>Book 56 Hadith 232</td></tr></tbody></table></div>
 

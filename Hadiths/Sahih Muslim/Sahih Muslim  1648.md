@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৫৩৩, আন্তর্জাতিক নাম্বারঃ ৭১০ ১৫৩৩-(.../...) হাসান আল হুলওয়ানী (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণনা করেছে। হাম্মাদ বর্ণনা করেছেন- অতঃপর আমি 'উমার ইবনু খাত্ত্বাবের সাথে সাক্ষাৎ করলে তিনি আমাকে হাদীসটি বর্ণনা করে শুনালেন। তবে তিনি হাদীসটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেননি। (ইসলামী ফাউন্ডেশন ১৫১৮, ইসলামীক সেন্টার ১৫২৫)
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1648</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

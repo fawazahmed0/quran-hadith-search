@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৯৩০। জাবির ইবনু আবদিল্লাহ (রাযিঃ) বলেন যে, তিনি উম্মু শারীক (রাযিঃ)-কে বলতে শুনেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ লোকেরা দাজ্জালের ভয়ে পলায়ন করবে, অবশেষে তারা পাহাড় পর্বতে গিয়ে আশ্রয় নিবে। উম্মু শারীক প্রশ্ন করলেন, হে আল্লাহর রাসূল! সে সময় আরবরা কোথায় থাকবে? তিনি বললেনঃ সে সময় তারা সংখ্যায় অতি নগণ্য হবে। সহীহঃ সহীহাহ (৩০৭৯), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব।
+। জাবির ইবনু আবদিল্লাহ (রাযিঃ) বলেন যে, তিনি উম্মু শারীক (রাযিঃ)-কে বলতে শুনেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ লোকেরা দাজ্জালের ভয়ে পলায়ন করবে, অবশেষে তারা পাহাড় পর্বতে গিয়ে আশ্রয় নিবে। উম্মু শারীক প্রশ্ন করলেন, হে আল্লাহর রাসূল! সে সময় আরবরা কোথায় থাকবে? তিনি বললেনঃ সে সময় তারা সংখ্যায় অতি নগণ্য হবে। সহীহঃ সহীহাহ (৩০৭৯), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3930</td></tr><tr><td>Arabic No</td><td>3930</td></tr><tr><td>Reference</td><td>Book 49 Hadith 330</td></tr></tbody></table></div>
 

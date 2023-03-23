@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম ইবন মূসা রাযী (রহঃ) .... উছমান ইবন আফফান (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন কোন মৃত ব্যক্তির দাফন পক্রিয়া সম্পন্ন করতেন, তখন তিনি কবরের পাশে দাঁড়িয়ে বলতেনঃ তোমরা তোমাদের ভাইয়ের জন্য মাগফিরাত কামনা কর এবং সে যেন সুদৃঢ় থাকতে পারে, তার জন্য দু’আ কর। কেননা, এখনই তাকে জিজ্ঞাসাবাদ করা হবে।
+। উসমান ইবনু আফফান (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মৃতের দাফন শেষ করে সেখানে দাঁড়িয়ে বলতেনঃ তোমাদের ভাইয়ের জন্য তোমরা ক্ষমা প্রার্থনা করো এবং সে যেন প্রতিষ্ঠিত থাকে সেজন্য দু‘আ করো। কেননা তাকে এখনই জিজ্ঞাসাবাদ করা হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3221</td></tr><tr><td>Arabic No</td><td>3221</td></tr><tr><td>Reference</td><td>Book 21 Hadith 133</td></tr></tbody></table></div>
 

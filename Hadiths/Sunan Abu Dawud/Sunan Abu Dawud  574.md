@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল ..... আবূ সাঈদ আল্-খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এক ব্যক্তিকে (জামাআতের পর) একাকী নামায আদায় করতে দেখে বলেনঃ তোমাদের মধ্যে এমন কেউ নেই কি- যে এই ব্যক্তিকে সদকা দিয়ে তার সাথে একত্রে নামায পড়তে পারে? (তিরমিযী)।
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে একাকী সালাত আদায় করতে দেখে বললেনঃ এ লোকটিকে সাদাকা করার মত কি এমন কেউ নেই যে তার সাথে সালাত আদায় করবে?[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>574</td></tr><tr><td>Arabic No</td><td>574</td></tr><tr><td>Reference</td><td>Book 2 Hadith 184</td></tr></tbody></table></div>
 

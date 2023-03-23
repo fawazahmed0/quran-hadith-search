@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেন। আমরা (পৃথিবীতে) সর্বশেষে আগমনকারী, তবে কিয়ামতের দিন অগ্রগামী। [২৩৮] (আধুনিক প্রকাশনী- ৬৯৭৭ প্রথমাংশ, ইসলামিক ফাউন্ডেশন- ৬৯৮৭ প্রথমাংশ)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+হাদীসটির এ সনদে আরো আছে যে, আল্লাহ্ বলেনঃ তুমি খরচ কর, তাহলে আমিও তোমার ওপর খরচ করব। [৪৬৮৪] (আধুনিক প্রকাশনী- ৬৯৭৭ শেষাংশ, ইসলামিক ফাউন্ডেশন- ৬৯৮৭ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7495</td></tr><tr><td>Arabic No</td><td>7495</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

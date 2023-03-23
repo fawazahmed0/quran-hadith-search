@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০১৪। জাবির ইবনু সামুরা (রাঃ) হতে বর্ণিত আছে, ইবনুদ দাহদাহ এর জানাযায় রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পায়ে হেটে যান, কিন্তু ফিরে আসেন ঘোড়ার পিঠে সাওয়ার হয়ে। — সহীহ, দেখুন পূর্বের হাদীস এই হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন।
+। জাবির ইবনু সামুরা (রাঃ) হতে বর্ণিত আছে, ইবনুদ দাহদাহ এর জানাযায় রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পায়ে হেটে যান, কিন্তু ফিরে আসেন ঘোড়ার পিঠে সাওয়ার হয়ে। — সহীহ, দেখুন পূর্বের হাদীস এই হাদীসটিকে আবু ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 10 Hadith 50</td></tr></tbody></table></div>
 

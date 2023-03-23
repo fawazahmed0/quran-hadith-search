@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৩৭১। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ দু’আ হল ইবাদাতের মূল বা সার। এই শব্দে হাদীসটি যঈফ, রাওজুন নায়ীর (২/২৮৯), মিশকাত (২২৩১) আবূ ঈসা বলেনঃ উপরোক্ত সনদসূত্রে এ হাদীসটি গারীব। আমরা শুধু ইবনু লাহীআর রিওয়ায়াত হিসেবে এ হাদীস জেনেছি।
+। আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ দু’আ হল ইবাদাতের মূল বা সার। এই শব্দে হাদীসটি যঈফ, রাওজুন নায়ীর (২/২৮৯), মিশকাত (২২৩১) আবূ ঈসা বলেনঃ উপরোক্ত সনদসূত্রে এ হাদীসটি গারীব। আমরা শুধু ইবনু লাহীআর রিওয়ায়াত হিসেবে এ হাদীস জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3371</td></tr><tr><td>Arabic No</td><td>3371</td></tr><tr><td>Reference</td><td>Book 48 Hadith 2</td></tr></tbody></table></div>
 

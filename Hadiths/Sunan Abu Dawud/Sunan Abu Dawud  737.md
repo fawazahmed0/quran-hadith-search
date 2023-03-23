@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ .... আব্দুল জারীর ইবনু ওয়ায়েল থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে তাকবীর বলার সময় তাঁর উভয় হাতের বৃদ্ধাংগুলী কানের নিম্নভাগ পর্যন্ত উঠাতে দেখেছি। (নাসাঈ)।
+। ‘আবদুল জাব্বার ইবনু ওয়ায়িল থেকে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাকবীর বলার সময় তাঁর দু’ হাতের বৃদ্ধাঙ্গুলি কানের নিম্নভাগ পর্যন্ত উঠাতে দেখেছি।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>737</td></tr><tr><td>Arabic No</td><td>737</td></tr><tr><td>Reference</td><td>Book 2 Hadith 347</td></tr></tbody></table></div>
 

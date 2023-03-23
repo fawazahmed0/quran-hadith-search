@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনুল মুছান্না (রহঃ) ..... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার প্রিয় হাবীব রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম আমাকে তিনটি কাজের জন্য ওসিয়াত করেছেন, যা আমি স্থায়ীভাবে কোথাও অবস্থানকালে এবং সফরের সময়েও ত্যাগ করি না। ১। চাশতের সময় দুই রাকাত নামায, ২। প্রতি মাসে তিন দিন রোযা রাখা (১৩, ১৪ ও ১৫ তারিখের রোযা) এবং ৩। নিদ্রার পূর্বে বিতিরের নামায আদায় করা। (বুখারী, মুসলিম)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার বন্ধু সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে তিনটি কাজের ওয়াসিয়াত করেছেন, যা আমি সফরে কিংবা বাড়িতে অবস্থানকালেও পরিহার করি না। তা হলোঃ চাশতের দু’ রাক‘আত সালাত, প্রতি মাসে তিন দিন (১৩, ১৪,ও ১৫ তারিখে আইয়ামে বিযের) সওম পালন এবং বিতর আদায় না করা পর্যন্ত না ঘুমানো।[1] সহীহ : বুখারী ও মুসলিম, এ কথা বাদে : সফরে কিংবা বাড়িতেও নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1432</td></tr><tr><td>Arabic No</td><td>1432</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
 

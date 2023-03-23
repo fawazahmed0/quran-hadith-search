@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৭. উরওয়াহ ইবন যুবাইর (রহঃ) ছেলে হউক বা মেয়ে, প্রত্যেক সত্তানের জন্য একটি বকরী আকীকা করিতেন।[1] মালিক (রহঃ) বলেনঃ আকীকার বিষয়ে আমাদের নিকট হুকুম হইল, ছেলে হইক বা মেয়ে হউক প্রত্যেকের জন্য একটি বকরী আকীকা করা হইবে। আকীকা করা ওয়াজিব নহে, মুস্তাহাব। তবে আকীকার বকরী কুরবানীর বকরীর অনুরূপ হইতে হইবে। চোখ কানা, অতিশয় বৃদ্ধ, শিং ভাঙা এবং রোগা হইলে চলিবে না। আকীকার গোশত এবং চামড়া বিক্রয় করা জায়েয নহে। ইহার হাড়গুলিও ভাঙ্গিয়া দেওয়া উচিত।[2]আকীকার গোশত নিজে খাইবে এবং দরিদ্রদিগকেও খাইতে দিবে। আকীকাকৃত বকরীর রক্ত বাচ্চাকে ছোঁয়াইবে না।[3]
+রেওয়ায়ত ৭. উরওয়াহ ইবন যুবাইর (রহঃ) ছেলে হউক বা মেয়ে, প্রত্যেক সত্তানের জন্য একটি বকরী আকীকা করিতেন।[1] মালিক (রহঃ) বলেনঃ আকীকার বিষয়ে আমাদের নিকট হুকুম হইল, ছেলে হইক বা মেয়ে হউক প্রত্যেকের জন্য একটি বকরী আকীকা করা হইবে। আকীকা করা ওয়াজিব নহে, মুস্তাহাব। তবে আকীকার বকরী কুরবানীর বকরীর অনুরূপ হইতে হইবে। চোখ কানা, অতিশয় বৃদ্ধ, শিং ভাঙা এবং রোগা হইলে চলিবে না। আকীকার গোশত এবং চামড়া বিক্রয় করা জায়েয নহে। ইহার হাড়গুলিও ভাঙ্গিয়া দেওয়া উচিত।[2]আকীকার গোশত নিজে খাইবে এবং দরিদ্রদিগকেও খাইতে দিবে। আকীকাকৃত বকরীর রক্ত বাচ্চাকে ছোঁয়াইবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1073</td></tr><tr><td>Arabic No</td><td>1073</td></tr><tr><td>Reference</td><td>Book 26 Hadith 7</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami dari Malik dari [Hisyam bin Urwah] bahwa bapaknya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Ömer'den: Resûlüllah (sallallahü aleyhi ve sellem), gazvelerinin birinde insanlara hitabede bulundu. Ben de süratle kendisine doğru gittim. Fakat ben yanına varmadan hutbesini bitirdi. Oradakilere peygamber ne söyledi diye sorduğumda: Kabak ve ziftli kab içerisinde sıra bırakılmasını yasakladı, denildi. Müslim, Eşribe, 6/48
+Abdullah b. Ömer'den: Resûlüllah (sallallahü aleyhi ve sellem), gazvelerinin birinde insanlara hitabede bulundu. Ben de süratle kendisine doğru gittim. Fakat ben yanına varmadan hutbesini bitirdi. Oradakilere peygamber ne söyledi diye sorduğumda: Kabak ve ziftli kab içerisinde sıra bırakılmasını yasakladı, denildi. Müslim, Eşribe
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1073</td></tr><tr><td>Arabic No</td><td>1073</td></tr><tr><td>Reference</td><td>Book 26 Hadith 7</td></tr></tbody></table></div>
 

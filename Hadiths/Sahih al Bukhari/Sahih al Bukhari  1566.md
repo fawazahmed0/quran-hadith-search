@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নবী সহধর্মিণী হাফসা (রাঃ) হতে বর্ণিত। তিনি বলেন, হে আল্লাহর রাসূল! লোকদের কী হল, তারা ‘উমরাহ শেষ করে হালাল হয়ে গেল, অথচ আপনি ‘উমরাহ হতে হালাল হচ্ছেন না? তিনি বললেনঃ আমি মাথায় আঠালো বস্তু লাগিয়েছি এবং কুরবানীর জানোয়ারের গলায় মালা ঝুলিয়েছি। কাজেই কুরবানী করার পূর্বে হালাল হতে পারি না। (১৬৯৭, ১৭২৫, ৪৩৯৭, ৫৯১৬, মুসলিম ১৫/২৫, হাঃ ১২২৯, আহমাদ ২৬৪৮৬) (আধুনিক প্রকাশনীঃ ১৪৬৩, ইসলামিক ফাউন্ডেশনঃ ১৪৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নবী সহধর্মিণী হাফসা (রাঃ) হতে বর্ণিত। তিনি বলেন, হে আল্লাহর রাসূল! লোকদের কী হল, তারা ‘উমরাহ শেষ করে হালাল হয়ে গেল, অথচ আপনি ‘উমরাহ হতে হালাল হচ্ছেন না? তিনি বললেনঃ আমি মাথায় আঠালো বস্তু লাগিয়েছি এবং কুরবানীর জানোয়ারের গলায় মালা ঝুলিয়েছি। কাজেই কুরবানী করার পূর্বে হালাল হতে পারি না। (১৬৯৭, ১৭২৫, ৪৩৯৭, ৫৯১৬, মুসলিম ১৫/২৫, হাঃ ১২২৯, আহমাদ ২৬৪৮৬) (আধুনিক প্রকাশনীঃ ১৪৬৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1566</td></tr><tr><td>Arabic No</td><td>1566</td></tr><tr><td>Reference</td><td>Book 25 Hadith 52</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் துணைவியார் ஹஃப்ஸா (ரலி) அவர்கள், “அல்லாஹ்வின் தூதரே! உம்ரா செய்துவிட்டு மக்கள் இஹ்ராமிலிருந்து விடுபட்டுவிட்டார்கள். ஆனால், நீங்கள் உம்ரா செய்த பிறகும் இஹ்ராமிலிருந்து விடுபடவில்லையே! என்ன காரணம்?” என்று நபி (ஸல்) அவர்களிடம் கேட்டார்கள். அதற்கு நபி (ஸல்) அவர்கள், “எனது முடியைக் களிம்பு தடவிப் படியச் செய்துவிட்டேன்; எனது குர்பானிப் பிராணியின் கழுத்தில் அடையாள மாலை தொங்கவிட்டுவிட்டேன். எனவே, குர்பானி கொடுக்கும்வரை நான் இஹ்ராமைக் களையக் கூடாது” என்றார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 25
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் துணைவியார் ஹஃப்ஸா (ரலி) அவர்கள், “அல்லாஹ்வின் தூதரே! உம்ரா செய்துவிட்டு மக்கள் இஹ்ராமிலிருந்து விடுபட்டுவிட்டார்கள். ஆனால், நீங்கள் உம்ரா செய்த பிறகும் இஹ்ராமிலிருந்து விடுபடவில்லையே! என்ன காரணம்?” என்று நபி (ஸல்) அவர்களிடம் கேட்டார்கள். அதற்கு நபி (ஸல்) அவர்கள், “எனது முடியைக் களிம்பு தடவிப் படியச் செய்துவிட்டேன்; எனது குர்பானிப் பிராணியின் கழுத்தில் அடையாள மாலை தொங்கவிட்டுவிட்டேன். எனவே, குர்பானி கொடுக்கும்வரை நான் இஹ்ராமைக் களையக் கூடாது” என்றார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1566</td></tr><tr><td>Arabic No</td><td>1566</td></tr><tr><td>Reference</td><td>Book 25 Hadith 52</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a.'in naklettiğine göre Hafsa (r.anha) şöyle demiştir: "Ey Allah'ın Resulü! Umre'den sonra ihram'dan çıkanların durumu nedir? halbuki sen umre'den sonra ihram'dan çıkmadın?" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, "Ben saçlarımı dağılmaması için bir madde ile tutturdum ve hedy kurbanıma da gerdanlığını taktım. Bundan dolayı artık kurban kesinceye kadar ihram'dan çıkmayacağım" diye cevap verdi." Tekrar: 1697, 1725, 4398, 5916
+İbn Ömer r.a.'in naklettiğine göre Hafsa (r.anha) şöyle demiştir: "Ey Allah'ın Resulü! Umre'den sonra ihram'dan çıkanların durumu nedir? halbuki sen umre'den sonra ihram'dan çıkmadın?" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, "Ben saçlarımı dağılmaması için bir madde ile tutturdum ve hedy kurbanıma da gerdanlığını taktım. Bundan dolayı artık kurban kesinceye kadar ihram'dan çıkmayacağım" diye cevap verdi." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1566</td></tr><tr><td>Arabic No</td><td>1566</td></tr><tr><td>Reference</td><td>Book 25 Hadith 52</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজর ও ‘আসরের পরে সালাত আদায় করতে নিষেধ করেছেন। (৫৮৬) (আধুনিক প্রকাশনীঃ ১৮৫২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் (ரலி) அவர்கள் கூறியதாவது: நோன்புப் பெருநாள், ஹஜ்ஜு பெருநாள் ஆகிய இரு நாட்களில் நோன்பு நோற்பதையும், இரு தோள்களில் ஒன்றை மட்டும் மறைத்து, மற்றொன்று வெளியே தெரியும் வண்ணம் ஒரு துணியைப் போர்த்திக்கொள்வதையும், ஓர் ஆடையை சுற்றிக்கொண்டு முழங்கால்களைக் கட்டி அமர்வதையும், சுப்ஹுக்குப் பிறகும் அஸ்ர் தொழுகைக்குப் பிறகும் தொழு வதையும் நபி (ஸல்) அவர்கள் தடுத் தார்கள். அத்தியாயம் : 30
+அபூசயீத் (ரலி) அவர்கள் கூறியதாவது: நோன்புப் பெருநாள், ஹஜ்ஜு பெருநாள் ஆகிய இரு நாட்களில் நோன்பு நோற்பதையும், இரு தோள்களில் ஒன்றை மட்டும் மறைத்து, மற்றொன்று வெளியே தெரியும் வண்ணம் ஒரு துணியைப் போர்த்திக்கொள்வதையும், ஓர் ஆடையை சுற்றிக்கொண்டு முழங்கால்களைக் கட்டி அமர்வதையும், சுப்ஹுக்குப் பிறகும் அஸ்ர் தொழுகைக்குப் பிறகும் தொழு வதையும் நபி (ஸல்) அவர்கள் தடுத் தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/২২৪১। আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি সাক্ষ্য দিচ্ছি যে, সত্যবাদী এবং সত্যবাদী বলে স্বীকৃত আবুল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে বলেছেনঃ (দুধ আটকে রেখে) স্তন ফুলানো পশু বিক্রয় করা একটি প্রতারণা। আর মুসলিম ব্যক্তির জন্য প্রতারণা করা হালাল নয়।
+। আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি সাক্ষ্য দিচ্ছি যে, সত্যবাদী এবং সত্যবাদী বলে স্বীকৃত আবুল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে বলেছেনঃ (দুধ আটকে রেখে) স্তন ফুলানো পশু বিক্রয় করা একটি প্রতারণা। আর মুসলিম ব্যক্তির জন্য প্রতারণা করা হালাল নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 12 Hadith 105</td></tr></tbody></table></div>
 

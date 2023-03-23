@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার ঘরে আমার পালার দিন আমার কন্ঠ ও বুকের মধ্য বরাবর মাথা রাখা অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মৃত্যু হয়েছে। আল্লাহ তা‘আলা তাঁর ও আমার মুখের লালাকে একত্রিত করেছেন। তিনি বলেন, ‘আবদুর রাহমান (রাঃ) একটি মিস্ওয়াক নিয়ে প্রবেশ করেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা চিবাতে অক্ষম হন। তখন আমি সে মিসওয়াকটি নিয়ে চিবিয়ে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর দাঁত মেজে দেই। (৮৯০) (মুসলিম ৪৪/১৫ হাঃ ২৪৪৯, আহমাদ ১৮৯৪৮) (আধুনিক প্রকাশনীঃ ২৮৬৭, ইসলামিক ফাউন্ডেশনঃ ২৮৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার ঘরে আমার পালার দিন আমার কন্ঠ ও বুকের মধ্য বরাবর মাথা রাখা অবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মৃত্যু হয়েছে। আল্লাহ তা‘আলা তাঁর ও আমার মুখের লালাকে একত্রিত করেছেন। তিনি বলেন, ‘আবদুর রাহমান (রাঃ) একটি মিস্ওয়াক নিয়ে প্রবেশ করেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা চিবাতে অক্ষম হন। তখন আমি সে মিসওয়াকটি নিয়ে চিবিয়ে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর দাঁত মেজে দেই। (৮৯০) (মুসলিম ৪৪/১৫ হাঃ ২৪৪৯, আহমাদ ১৮৯৪৮) (আধুনিক প্রকাশনীঃ ২৮৬৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3100</td></tr><tr><td>Arabic No</td><td>3100</td></tr><tr><td>Reference</td><td>Book 57 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ibu Abi Maram] telah bercerita kepada kami [Nafi'] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: என் வீட்டில் எனது முறைக்குரிய நாளில் (வந்திருந்தபோது) என் தொண்டைக்கும் என் மார்புக்குமிடையே (சாய்ந்திருந்த நிலையில்) நபி (ஸல்) அவர்கள் இறந்தார்கள். அல்லாஹ் எனது எச்சிலையும் அவர்களுடைய எச்சிலையும் ஒன்றுசேர்த்திருந்தான். (எப்படியெனில்) நபி (ஸல்) அவர்கள் (கடுமையான நோய்வாய்ப்பட்டிருந்த நிலையில் என் சகோதரர்) அப்துர் ரஹ்மான், பல் துலக்கும் குச்சியைக் கொண்டுவந்தார். நபி (ஸல்) அவர்கள் அதைப் பயன்படுத்த முடியாத அளவுக்குப் பலவீனமாக இருந்தார்கள். ஆகவே, நான் அந்தக் குச்சியை எடுத்து மென்று பிறகு அதனால் நபி (ஸல்) அவர்களுக்குப் பல் துலக்கிவிட்டேன்.15 அத்தியாயம் : 57
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: என் வீட்டில் எனது முறைக்குரிய நாளில் (வந்திருந்தபோது) என் தொண்டைக்கும் என் மார்புக்குமிடையே (சாய்ந்திருந்த நிலையில்) நபி (ஸல்) அவர்கள் இறந்தார்கள். அல்லாஹ் எனது எச்சிலையும் அவர்களுடைய எச்சிலையும் ஒன்றுசேர்த்திருந்தான். (எப்படியெனில்) நபி (ஸல்) அவர்கள் (கடுமையான நோய்வாய்ப்பட்டிருந்த நிலையில் என் சகோதரர்) அப்துர் ரஹ்மான், பல் துலக்கும் குச்சியைக் கொண்டுவந்தார். நபி (ஸல்) அவர்கள் அதைப் பயன்படுத்த முடியாத அளவுக்குப் பலவீனமாக இருந்தார்கள். ஆகவே, நான் அந்தக் குச்சியை எடுத்து மென்று பிறகு அதனால் நபி (ஸல்) அவர்களுக்குப் பல் துலக்கிவிட்டேன்.15 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3100</td></tr><tr><td>Arabic No</td><td>3100</td></tr><tr><td>Reference</td><td>Book 57 Hadith 9</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Ibu Abi Maram] telah bercerita kepada kami [Nafi'] 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Aişe şöyle demiştir: "Resulullah Sallallahu Aleyhi ve Sellem benim evimde, eşlerinde kalma sırası bende iken ve benim kucağımda vefat etti. Hatta Allah Teala benim tükürüğümü onun tükürüğü ile birleştirdi. O sırada Abdurrahman elinde bir misvakla içeri girmişti. Resul- i Ekrem Sallallahu Aleyhi ve Sellem misvağı almak istiyordu fakat rahatsız olduğu için buna gücü yetmedi. Ben de misvağı alıp çiğnedim ve yumuşattıktan sonra Nebi Sallallahu Aleyhi ve Sellem'in dişlerini misvakla temizledim." not: (Ayrıca bkz. Kitabü'l-meğazi, Bab, 83)
+Hz. Aişe şöyle demiştir: "Resulullah Sallallahu Aleyhi ve Sellem benim evimde, eşlerinde kalma sırası bende iken ve benim kucağımda vefat etti. Hatta Allah Teala benim tükürüğümü onun tükürüğü ile birleştirdi. O sırada Abdurrahman elinde bir misvakla içeri girmişti. Resul- i Ekrem Sallallahu Aleyhi ve Sellem misvağı almak istiyordu fakat rahatsız olduğu için buna gücü yetmedi. Ben de misvağı alıp çiğnedim ve yumuşattıktan sonra Nebi Sallallahu Aleyhi ve Sellem'in dişlerini misvakla temizledim." not: (Ayrıca bkz. Kitabü'l-meğazi, Bab)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3100</td></tr><tr><td>Arabic No</td><td>3100</td></tr><tr><td>Reference</td><td>Book 57 Hadith 9</td></tr></tbody></table></div>
 

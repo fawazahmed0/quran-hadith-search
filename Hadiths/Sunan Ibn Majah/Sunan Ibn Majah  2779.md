@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৭৭৯। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দুনিয়ার একটি মাত্র দিনও যদি অবশিষ্ট থাকে তবে মহামহিম আল্লাহ সেই দিনটিকে দীর্ঘায়িত করবেন, যে পর্যন্ত না আমার আহলে বাইত-এর এক ব্যক্তি দায়লামের পাহাড় এবং কুসতুনতুনিয়ার কনস্টান্টিনো লের অধিপতি হবে।
+। আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দুনিয়ার একটি মাত্র দিনও যদি অবশিষ্ট থাকে তবে মহামহিম আল্লাহ সেই দিনটিকে দীর্ঘায়িত করবেন, যে পর্যন্ত না আমার আহলে বাইত-এর এক ব্যক্তি দায়লামের পাহাড় এবং কুসতুনতুনিয়ার কনস্টান্টিনো লের অধিপতি হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2779</td></tr><tr><td>Arabic No</td><td>2779</td></tr><tr><td>Reference</td><td>Book 24 Hadith 27</td></tr></tbody></table></div>
 

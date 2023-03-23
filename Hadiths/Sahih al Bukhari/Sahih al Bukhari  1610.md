@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আসলাম (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ‘উমার ইবনু খাত্তাব (রাঃ)-কে হাজরে আসওয়াদ চুম্বন করতে দেখেছি। আর তিনি বললেন, যদি আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তোমায় চুম্বন করতে না দেখতাম তাহলে আমিও তোমায় চুম্বন করতাম না। (১৫৯৭) (আধুনিক প্রকাশনীঃ ,১৫০৫ ইসলামিক ফাউন্ডেশনঃ ১৫১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আসলাম (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ‘উমার ইবনু খাত্তাব (রাঃ)-কে হাজরে আসওয়াদ চুম্বন করতে দেখেছি। আর তিনি বললেন, যদি আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তোমায় চুম্বন করতে না দেখতাম তাহলে আমিও তোমায় চুম্বন করতাম না। (১৫৯৭) (আধুনিক প্রকাশনীঃ ,১৫০৫ ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1610</td></tr><tr><td>Arabic No</td><td>1610</td></tr><tr><td>Reference</td><td>Book 25 Hadith 96</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Sinan] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அஸ்லம் (ரஹ்) அவர்கள் கூறியதாவது: ‘ஹஜருல் அஸ்வத்’ (எனும் கறுப்பு நிறக்) கல்லை உமர் (ரலி) அவர்கள் முத்த மிடுவதை நான் பார்த்தேன். அப்போது அவர்கள், “நபி (ஸல்) அவர்கள் உன்னை முத்தமிடுவதை நான் கண்டிராவிட்டால், உன்னை முத்தமிட்டிருக்கமாட்டேன்” என்று கூறினார்கள். அத்தியாயம் : 25
+அஸ்லம் (ரஹ்) அவர்கள் கூறியதாவது: ‘ஹஜருல் அஸ்வத்’ (எனும் கறுப்பு நிறக்) கல்லை உமர் (ரலி) அவர்கள் முத்த மிடுவதை நான் பார்த்தேன். அப்போது அவர்கள், “நபி (ஸல்) அவர்கள் உன்னை முத்தமிடுவதை நான் கண்டிராவிட்டால், உன்னை முத்தமிட்டிருக்கமாட்டேன்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1610</td></tr><tr><td>Arabic No</td><td>1610</td></tr><tr><td>Reference</td><td>Book 25 Hadith 96</td></tr></tbody></table></div>
 

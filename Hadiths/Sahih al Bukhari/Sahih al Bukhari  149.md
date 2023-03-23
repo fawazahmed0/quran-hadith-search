@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেনঃ ‘একদা আমি আমাদের ঘরের উপর উঠে দেখলাম, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’টি ইটের উপর বাইতুল মুকাদ্দাসের দিকে মুখ করে প্রাকৃতিক প্রয়োজনে বসেছেন। (১৪৫) (আধুনিক প্রকাশনীঃ ১৪৬, ইসলামিক ফাউন্ডেশনঃ ১৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। তিনি বলেনঃ ‘একদা আমি আমাদের ঘরের উপর উঠে দেখলাম, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’টি ইটের উপর বাইতুল মুকাদ্দাসের দিকে মুখ করে প্রাকৃতিক প্রয়োজনে বসেছেন। (১৪৫) (আধুনিক প্রকাশনীঃ ১৪৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>149</td></tr><tr><td>Arabic No</td><td>149</td></tr><tr><td>Reference</td><td>Book 4 Hadith 15</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin 'Umar:Once I went up the roof of our house and saw Allah's Messenger (ﷺ) answering the call of nature while sitting over two bricks facing Baitul-Maqdis (Jerusalem). (See Hadith No. 147)
+Narrated 'Abdullah bin 'Umar:Once I went up the roof of our house and saw Allah's Messenger (ﷺ) answering the call of nature while sitting over two bricks facing Baitul-Maqdis (Jerusalem). (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>149</td></tr><tr><td>Arabic No</td><td>149</td></tr><tr><td>Reference</td><td>Book 4 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ya'qub bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: ஒரு நாள் நான் (ஒரு தேவை நிமித்தம்) எங்கள் வீட்டுக் கூரைமீது ஏறினேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரு செங்கற்கள் மீதமர்ந்தவர்களாக பைத்துல் மக்திஸ் இருக்கும் திசையை முன்னோக்கியபடி (இயற்கைக் கடனை நிறைவேற்றிக்கொண்டு) இருப்பதைக் கண்டேன்.11 அத்தியாயம் : 4
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: ஒரு நாள் நான் (ஒரு தேவை நிமித்தம்) எங்கள் வீட்டுக் கூரைமீது ஏறினேன். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இரு செங்கற்கள் மீதமர்ந்தவர்களாக பைத்துல் மக்திஸ் இருக்கும் திசையை முன்னோக்கியபடி (இயற்கைக் கடனை நிறைவேற்றிக்கொண்டு) இருப்பதைக் கண்டேன்.11 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>149</td></tr><tr><td>Arabic No</td><td>149</td></tr><tr><td>Reference</td><td>Book 4 Hadith 15</td></tr></tbody></table></div>
 

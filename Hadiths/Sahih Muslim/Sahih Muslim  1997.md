@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৮৮২, আন্তর্জাতিক নাম্বারঃ ৮৬৩ ১৮৮২-(৩৬/৮৬৩) উসমান ইবনু আবূ শায়বাহ ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়ানো অবস্থায় জুমুআর দিন খুতবাহ দিতেন। একদা জুমুআর সালাতের খুতবাহ চলাকালে সিরিয়ার একটি বণিক এসে পৌছলে বারোজন লোক ব্যতীত সকলে তাদের নিকট ছুটে চলে গেল। তখন সূরাহ জুমুআর এ আয়াত অবতীর্ণ হয়ঃ (অর্থ) "যখন তারা দেখল ব্যবসা ও কৌতুকের বিষয়, তখন তারা তোমাকে দাঁড়ানো অবস্থায় রেখে সেদিকে ছুটে গেল"- (সূরাহ আল জুমুআহ ৬২ঃ ১১)। (ইসলামী ফাউন্ডেশন ১৮৬৭, ইসলামীক সেন্টার ১৮৭৪)
+উসমান ইবনু আবূ শায়বাহ ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়ানো অবস্থায় জুমুআর দিন খুতবাহ দিতেন। একদা জুমুআর সালাতের খুতবাহ চলাকালে সিরিয়ার একটি বণিক এসে পৌছলে বারোজন লোক ব্যতীত সকলে তাদের নিকট ছুটে চলে গেল। তখন সূরাহ জুমুআর এ আয়াত অবতীর্ণ হয়ঃ (অর্থ) "যখন তারা দেখল ব্যবসা ও কৌতুকের বিষয়, তখন তারা তোমাকে দাঁড়ানো অবস্থায় রেখে সেদিকে ছুটে গেল"- (সূরাহ আল জুমুআহ ৬২ঃ ১১)। (ইসলামী ফাউন্ডেশন ১৮৬৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1997</td></tr><tr><td>Arabic No</td><td>863.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 47</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Osman b. Ebî Şeybe ile İshâk b. İbrahim ikisi birden Cerîr'den rivayet ettiler. Osman Dediki: Bize Cerîr, Huseyn b. Abdirrahmân'dan, o da Salim b. Ebî'l-Ca'd'dan, o da Câbir b. Abdillâh'dan naklen rivayet etti ki, Nebi (Sallallahu Aleyhi ve Sellem) cum'a günü ayakta hutbe okuyormuş. Bu sırada Şam'dan bir kervan gelmiş. Derken cemâat ona doğru sökün etmişler. Hatta on iki kişiden başka kimse kalmamış. Bunun üzerine cum'a süresindeki şu âyet nâzîl olmuş: (Onlar bir ticâret veya eğlence gördükleri vakit ona doğru sökün ettiler de, seni ayakta bıraktılar.) [ Cum'a 11]
+Bize Osman b. Ebî Şeybe ile İshâk b. İbrahim ikisi birden Cerîr'den rivayet ettiler. Osman Dediki: Bize Cerîr, Huseyn b. Abdirrahmân'dan, o da Salim b. Ebî'l-Ca'd'dan, o da Câbir b. Abdillâh'dan naklen rivayet etti ki, Nebi (Sallallahu Aleyhi ve Sellem) cum'a günü ayakta hutbe okuyormuş. Bu sırada Şam'dan bir kervan gelmiş. Derken cemâat ona doğru sökün etmişler. Hatta on iki kişiden başka kimse kalmamış. Bunun üzerine cum'a süresindeki şu âyet nâzîl olmuş: (Onlar bir ticâret veya eğlence gördükleri vakit ona doğru sökün ettiler de, seni ayakta bıraktılar.) [ Cum'a]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1997</td></tr><tr><td>Arabic No</td><td>863.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 47</td></tr></tbody></table></div>
 

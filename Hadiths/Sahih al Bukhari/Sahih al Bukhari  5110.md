@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উরওয়াহ আমার কাছে বর্ণনা করেছেন যে ‘আয়িশাহ (রাঃ) বলেছেন, রক্তের সম্পর্কের কারণে যা হারাম, দুধ পানের কারণেও এসব তোমরা হারাম মনে করো। [২৬৪৪] (আধুনিক প্রকাশনী- ৪৭৩৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5110</td></tr><tr><td>Arabic No</td><td>5110</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে রেশমী পোশাক আসলে আমি তা পরিধান করলাম। তাঁর চেহারায় গোস্বার চিহ্ন লক্ষ্য করলাম। তাই আমি এটাকে টুকরা করে আপন মহিলাদের মধ্যে বন্টন করলাম। [২৬১৪] আধুনিক প্রকাশনী- ৪৯৬৬, ইসলামিক ফাউন্ডেশন- ৪৮৬২
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে রেশমী পোশাক আসলে আমি তা পরিধান করলাম। তাঁর চেহারায় গোস্বার চিহ্ন লক্ষ্য করলাম। তাই আমি এটাকে টুকরা করে আপন মহিলাদের মধ্যে বন্টন করলাম। [২৬১৪] আধুনিক প্রকাশনী- ৪৯৬৬, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5366</td></tr><tr><td>Arabic No</td><td>5366</td></tr><tr><td>Reference</td><td>Book 69 Hadith 16</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எனக்குக் கோடு போட்ட பட்டு அங்கி ஒன்றை (அன்பளிப் பாக) வழங்கினார்கள். ஆகவே, அதை நான் அணிந்துகொண்டேன். (இதைக் கண்ட) நபி (ஸல்) அவர்களின் முகத்தில் கோபக் குறியை நான் பார்த்தேன். உடனே, அதைப் பல துண்டுகளாக்கி எங்கள் (குடும்பப்) பெண்களிடையே பங்கிட்டு விட்டேன்.20 அத்தியாயம் : 69
+அலீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எனக்குக் கோடு போட்ட பட்டு அங்கி ஒன்றை (அன்பளிப் பாக) வழங்கினார்கள். ஆகவே, அதை நான் அணிந்துகொண்டேன். (இதைக் கண்ட) நபி (ஸல்) அவர்களின் முகத்தில் கோபக் குறியை நான் பார்த்தேன். உடனே, அதைப் பல துண்டுகளாக்கி எங்கள் (குடும்பப்) பெண்களிடையே பங்கிட்டு விட்டேன்.20 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5366</td></tr><tr><td>Arabic No</td><td>5366</td></tr><tr><td>Reference</td><td>Book 69 Hadith 16</td></tr></tbody></table></div>
 

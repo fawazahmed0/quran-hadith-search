@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ২১৭. মালিক (রহঃ) বলেনঃ কোন কোন আহলে-ইলমের নিকট তিনি শুনিয়াছেন যে, কঙ্কর এত ছোট হওয়া উচিত যাহাতে দুই আঙুল দ্বারা নিক্ষেপ করা যায়। মালিক (রহঃ) বলেন, আমার মতে উহা হইতে কঙ্কর সামান্য বড় হওয়া উচিত। নাফি (রহঃ) হইতে বর্ণিত, আবদুল্লাহ ইবন উমর (রাঃ) বলেনঃ ১২ তারিখের সূর্যস্ত পর্যন্ত যে ব্যক্তি মিনায় অবস্থান করিবে ১৩ তারিখে কঙ্কর নিক্ষেপ না করা পর্যন্ত সে যেন ফিরিয়া না যায়।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 20 Hadith 213</td></tr></tbody></table></div>
 

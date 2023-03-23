@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাছীর (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে উছমান ইবন মাযঊন (রাঃ)-কে তাঁর মৃত্যুর পর চুম্বন করতে দেখেছি। এমনকি আমি তাঁর চোখ থেকে পানিও বের হতে দেখেছি।
+। ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে উসমান ইবনু মাযউনের লাশে চুমু খেতে দেখেছি। আমি তাঁর চোখ দিয়ে অশ্রু ঝরতে দেখেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3163</td></tr><tr><td>Arabic No</td><td>3163</td></tr><tr><td>Reference</td><td>Book 21 Hadith 75</td></tr></tbody></table></div>
 

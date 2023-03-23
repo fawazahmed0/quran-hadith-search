@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবনে ইয়াহিয়া (রাঃ) ..... আস্‌-সাইব ইবনে ইয়াযীদ (রাঃ) হতে বর্ণিত। তিনি বলেন, বিলাল (রাঃ) ব্যতীত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর আর কোন মুয়াজ্জিন ছিলনা .... হাদীসের শেষ পর্যন্ত এবং এই হাদীস পুর্নাঙ্গ নয়।
+। আস-সায়িব ইবনু ইয়াযীদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একমাত্র মুয়াযযিন (বিলাল) ব্যতীত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অন্য কোন মুয়াযযিন ছিল না। অতঃপর বর্ণনাকারী উপরোক্ত হাদীস বর্ণনা করেন, তবে পুরো অংশ নয়।[1] সহীহ : বুখারী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1090</td></tr><tr><td>Arabic No</td><td>1090</td></tr><tr><td>Reference</td><td>Book 2 Hadith 701</td></tr></tbody></table></div>
 

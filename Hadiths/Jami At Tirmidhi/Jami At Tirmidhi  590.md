@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৫৯০। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে নামাযরত অবস্থায় এদিক-সেদিক তাকানো প্রসঙ্গে প্রশ্ন করলাম। তিনি বললেনঃ এটা নামায থেকে কিছু অংশ নিয়ে যায়। —সহীহ। ইরওয়া— (৩৭০), বুখারী। আবু ঈসা বলেনঃ হাদীসটি হাসান গারীব।
+। আয়িশাহ (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে নামাযরত অবস্থায় এদিক-সেদিক তাকানো প্রসঙ্গে প্রশ্ন করলাম। তিনি বললেনঃ এটা নামায থেকে কিছু অংশ নিয়ে যায়। —সহীহ। ইরওয়া— (৩৭০), বুখারী। আবু ঈসা বলেনঃ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>590</td></tr><tr><td>Arabic No</td><td>590</td></tr><tr><td>Reference</td><td>Book 6 Hadith 47</td></tr></tbody></table></div>
 

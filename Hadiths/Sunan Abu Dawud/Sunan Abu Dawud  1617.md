@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) থেকে ইসমাঈলের সূত্রে বর্ণিত এ হাদীসে ‘গমের’ উল্লেখ নাই। ইমাম আবু দাউদ বলেন, মুআবিয়া ইব্‌ন হিশাম উক্ত হাদীসে ছাওরী হতে, তিনি যায়েদ ইব্‌ন আস্‌লাম হতে, তিনি ইয়াদ হতে, তিনি আবু সাঈদ খুদ্‌রী (রাঃ) হতে যা বর্ণনা করেছেন অর্থাৎ “অর্ধ সা’ গম” তা মুয়াবিয়া ইব্‌ন হিশামের ধারণা মাত্র, অথবা যাঁরা তাঁর নিকট হতে বর্ণনা করেছেন, তাঁদের অনুমান মাত্র।
+। মুসাদ্দাদ হতে ইসমাঈল সূত্রে বর্ণিত হাদীসে গমের কথাটি উল্লেখ নেই। ইমাম আবূ দাউদ (রহঃ) বলেন, মু‘আবিয়াহ ইবনু হিশাম এ হাদীসে আবূ সাঈদ (রাঃ) হতে অর্ধ সা‘ গমের কথা উল্লেখ করেছেন। কিন্তু এটা মু‘আবিয়াহ ইবনু হিশাম অথবা তার সূত্রে বর্ণনাকারীর অনুমান মাত্র।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1617</td></tr><tr><td>Arabic No</td><td>1617</td></tr><tr><td>Reference</td><td>Book 9 Hadith 62</td></tr></tbody></table></div>
 

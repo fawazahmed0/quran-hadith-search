@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাজ্জাজ ইবন আবু ইয়াকুব (রহঃ) ..... মুহাম্মাদ ইবন মুসলিম (রহঃ) উপরোক্ত হাদীছের সনদে হাদীছ বর্ণনা করেছেন। তবে তিনি আরও বর্ণনা করেছেন যে, সালামের পূর্বে বসা অবস্থায় (সাহূ সিজদা) করবে।
+। মুহাম্মাদ ইবনু মুসলিম (রহঃ) তার সানাদে এ হাদীসটি বর্ণনা করেছেন। তাতে এও রয়েছেঃ সে সালাম ফিরানোর পূর্বে বসা অবস্থায় (দু‘টি সাহু সিজদা) করবে।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1031</td></tr><tr><td>Arabic No</td><td>1031</td></tr><tr><td>Reference</td><td>Book 2 Hadith 642</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩৮৫। আবদুল্লাহ ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইবনু মাসঊদ (রাঃ) কে লাইলাতুল জ্বীন্ন-এ বলেনঃ তোমার সাথে পানি আছে কি? তিনি বলেন, না, তবে একটি পাত্রে নবীয আছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ খেজুরও পবিত্র এবং পানিও পবিত্র। আমাকে তা ঢেলে দাও। রাবী বলেন, আমি তাঁকে নবীয ঢেলে দেই এবং তিনি তা দিয়ে উযূ (ওজু/অজু/অযু) করেন।
+। আবদুল্লাহ ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইবনু মাসঊদ (রাঃ) কে লাইলাতুল জ্বীন্ন-এ বলেনঃ তোমার সাথে পানি আছে কি? তিনি বলেন, না, তবে একটি পাত্রে নবীয আছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ খেজুরও পবিত্র এবং পানিও পবিত্র। আমাকে তা ঢেলে দাও। রাবী বলেন, আমি তাঁকে নবীয ঢেলে দেই এবং তিনি তা দিয়ে উযূ (ওজু/অজু/অযু) করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>385</td></tr><tr><td>Arabic No</td><td>385</td></tr><tr><td>Reference</td><td>Book 1 Hadith 119</td></tr></tbody></table></div>
 

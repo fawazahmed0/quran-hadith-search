@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৯৭০। আবদুল্লাহ ইবনু আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিন ব্যাক্তির সালাত কবূল হয় নাঃ যে ব্যাক্তি লোকেদের ইমামতি করে তাকে তারা অপছন্দ করা সত্ত্বেও, যে ব্যাক্তি সালাতের ওয়াক্ত চলে যাওয়ার পর সালাত পড়ে এবং যে ব্যাক্তি কোন স্বাধীন ব্যাক্তিকে দাস বানায়।
+। আবদুল্লাহ ইবনু আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিন ব্যাক্তির সালাত কবূল হয় নাঃ যে ব্যাক্তি লোকেদের ইমামতি করে তাকে তারা অপছন্দ করা সত্ত্বেও, যে ব্যাক্তি সালাতের ওয়াক্ত চলে যাওয়ার পর সালাত পড়ে এবং যে ব্যাক্তি কোন স্বাধীন ব্যাক্তিকে দাস বানায়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>970</td></tr><tr><td>Arabic No</td><td>970</td></tr><tr><td>Reference</td><td>Book 5 Hadith 168</td></tr></tbody></table></div>
 

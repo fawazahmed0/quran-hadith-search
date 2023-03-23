@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ’ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাসসান (রাঃ)-কে বললেনঃ তুমি কাফিরদের নিন্দা করো। জিবরীল (আ.) এ কাজে তোমাকে সাহায্য করবেন। [৩২১৩] (আধুনিক প্রকাশনী- ৫৭১৩, ইসলামিক ফাউন্ডেশন- ৫৬০৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ’ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাসসান (রাঃ)-কে বললেনঃ তুমি কাফিরদের নিন্দা করো। জিবরীল (আ.) এ কাজে তোমাকে সাহায্য করবেন। [৩২১৩] (আধুনিক প্রকাশনী- ৫৭১৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6153</td></tr><tr><td>Arabic No</td><td>6153</td></tr><tr><td>Reference</td><td>Book 78 Hadith 179</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பனூ குறைழா போரின்போது, கவிஞர்) ஹஸ்ஸான் (ரலி) அவர்களிடம், “எதிரிகளுக்கு (பதிலடியாக) வசைக் கவிதை பாடுங்கள். (வானவர்) ஜிப்ரீல் உங்களுடன் (துணையாக) இருப்பார்” என்று கூறினார்கள்.172 அத்தியாயம் : 78
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (பனூ குறைழா போரின்போது, கவிஞர்) ஹஸ்ஸான் (ரலி) அவர்களிடம், “எதிரிகளுக்கு (பதிலடியாக) வசைக் கவிதை பாடுங்கள். (வானவர்) ஜிப்ரீல் உங்களுடன் (துணையாக) இருப்பார்” என்று கூறினார்கள்.172 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6153</td></tr><tr><td>Arabic No</td><td>6153</td></tr><tr><td>Reference</td><td>Book 78 Hadith 179</td></tr></tbody></table></div>
 

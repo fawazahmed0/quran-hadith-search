@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/১৫০১। জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বাকর ও ‘উমার (রাঃ) আমাদের জন্য জানাযার সালাতে যে (কোন সময় পড়ার) অবকাশ রেখেছেন, তা অন্য কোন সালাতের বেলায় রাখেননি অর্থাৎ ওয়াক্ত নির্দিষ্ট করেননি।
+। জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বাকর ও ‘উমার (রাঃ) আমাদের জন্য জানাযার সালাতে যে (কোন সময় পড়ার) অবকাশ রেখেছেন, তা অন্য কোন সালাতের বেলায় রাখেননি অর্থাৎ ওয়াক্ত নির্দিষ্ট করেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 6 Hadith 69</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮৭৩৷ ইবনু উমর (রাযিঃ) হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মানুষের দৃষ্টান্ত হল এক শত উট, যার মধ্যে তুমি একটি উটও সওয়ারীর উপযুক্ত পাবে না। অথবা তিনি বলেছেনঃ তুমি এগুলোর মধ্যে একটি ছাড়া আরোহণযোগ্য কোন উট পাবে না। সহীহঃ দেখুন পূর্বের হাদীস।
+ইবনু উমর (রাযিঃ) হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মানুষের দৃষ্টান্ত হল এক শত উট, যার মধ্যে তুমি একটি উটও সওয়ারীর উপযুক্ত পাবে না। অথবা তিনি বলেছেনঃ তুমি এগুলোর মধ্যে একটি ছাড়া আরোহণযোগ্য কোন উট পাবে না। সহীহঃ দেখুন পূর্বের হাদীস।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2873</td></tr><tr><td>Arabic No</td><td>2873</td></tr><tr><td>Reference</td><td>Book 44 Hadith 16</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Narrated (Another route) from Az-Zuhri:with this chain, and it is similar, but h
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Saîd b. Abdurrahman el Mahzûmî (radıyallahü anh), Sûfyân b. Uyeyne vasıtasıyla Zührî’den bu senedle geçen hadisin bir benzerini bize rivâyet etti ve “Sen onların içersinden kullanabileceğin elverişli bir binek bulamayabilirsin” dedi. (Buhârî, Ehadis-il Enbiya: 27; Müslim, Fedail: 17)
+Saîd b. Abdurrahman el Mahzûmî (radıyallahü anh), Sûfyân b. Uyeyne vasıtasıyla Zührî’den bu senedle geçen hadisin bir benzerini bize rivâyet etti ve “Sen onların içersinden kullanabileceğin elverişli bir binek bulamayabilirsin” dedi. (Buhârî, Ehadis-il Enbiya: 27; Müslim, Fedail:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2873</td></tr><tr><td>Arabic No</td><td>2873</td></tr><tr><td>Reference</td><td>Book 44 Hadith 16</td></tr></tbody></table></div>
 

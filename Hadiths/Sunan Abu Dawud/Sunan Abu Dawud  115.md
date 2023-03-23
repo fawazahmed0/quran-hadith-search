@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যিয়াদ ..... আব্দুর রহমান ইবনু আবূ লায়লা হতে বর্ণিত। তিনি বলেছেন, একদা আমি আলী (রাঃ)-কে উযূ (ওজু/অজু/অযু) করতে দেখি তিনি তাঁর মুখমন্ডল তিনবার ধৌত করেন এবং দুই হাতের কনুই পর্যন্ত তিনবার ধৌত করেন। অতঃপর তিনি একবার মাথা মাসেহ্ করেন। অবশেষে তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এইরূপে উযূ করতেন। (ঐ)।
+। ‘আবদুর রহমান ইবনু আবূ লায়লা সূত্রে বর্ণিত। তিনি বলেন, আমি ‘আলী (রাঃ)-কে অযু করতে দেখেছি এভাবেঃ তিনি তিনবার মুখমন্ডল ধুলেন, উভয় হাত ধুলেন তিনবার এবং মাথা মাসাহ্ করলেন একবার। অতঃপর বললেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এভাবেই অযু করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>115</td></tr><tr><td>Arabic No</td><td>115</td></tr><tr><td>Reference</td><td>Book 1 Hadith 115</td></tr></tbody></table></div>
 

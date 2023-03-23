@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাস্তায় পড়ে থাকা খেজুরের পাশ দিয়ে যাচ্ছিলেন, তখন তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, আমার যদি আশঙ্কা না হত যে এটি সাদাকার খেজুর তাহলে আমি এটা খেতাম। (২০৫৫) (আধুনিক প্রকাশনীঃ ২২৫২, ইসলামিক ফাউন্ডেশনঃ ২২৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাস্তায় পড়ে থাকা খেজুরের পাশ দিয়ে যাচ্ছিলেন, তখন তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, আমার যদি আশঙ্কা না হত যে এটি সাদাকার খেজুর তাহলে আমি এটা খেতাম। (২০৫৫) (আধুনিক প্রকাশনীঃ ২২৫২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 45 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பாதையில் கிடந்த ஒரு பேரீச்சம்பழத்தைக் கடந்து சென்றார் கள். ‘‘இது தர்மப் பொருளாக இருக்குமோ என்ற அச்சம் எனக்கு இல்லாவிட்டால், இதை நான் சாப்பிட்டிருப்பேன்” என்று கூறினார்கள்.6 இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 45
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் பாதையில் கிடந்த ஒரு பேரீச்சம்பழத்தைக் கடந்து சென்றார் கள். ‘‘இது தர்மப் பொருளாக இருக்குமோ என்ற அச்சம் எனக்கு இல்லாவிட்டால், இதை நான் சாப்பிட்டிருப்பேன்” என்று கூறினார்கள்.6 இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 45 Hadith 6</td></tr></tbody></table></div>
 

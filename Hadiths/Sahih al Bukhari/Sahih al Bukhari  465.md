@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর দু’জন সাহাবী নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট হতে অন্ধকার রাতে বের হলেন। (তাঁদের একজন ‘আবক্বাদ ইবনু বিশর (রাযি.) আর দ্বিতীয় জন সম্পর্কে আমার ধারণা যে, তিনি ছিলেন উসায়দ ইবনু হুযায়র (রাযি.)) আর উভয়ের সাথে চেরাগ সদৃশ কিছু ছিল, যা তাঁদের সামনের দিকটাকে আলোকিত করছিল। তাঁরা উভয়ে যখন আলাদা হয়ে গেলেন, তখন প্রত্যেকের সাথে একটা করে (আলো) রয়ে গেল। অবশেষে এভাবে তাঁরা নিজেদের বাড়িতে পৌঁছলেন। (৩৬৩৯, ৩৮০৫) (আধুনিক প্রকাশনীঃ ৪৪৫, ইসলামিক ফাউন্ডেশনঃ ৪৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর দু’জন সাহাবী নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট হতে অন্ধকার রাতে বের হলেন। (তাঁদের একজন ‘আবক্বাদ ইবনু বিশর (রাযি.) আর দ্বিতীয় জন সম্পর্কে আমার ধারণা যে, তিনি ছিলেন উসায়দ ইবনু হুযায়র (রাযি.)) আর উভয়ের সাথে চেরাগ সদৃশ কিছু ছিল, যা তাঁদের সামনের দিকটাকে আলোকিত করছিল। তাঁরা উভয়ে যখন আলাদা হয়ে গেলেন, তখন প্রত্যেকের সাথে একটা করে (আলো) রয়ে গেল। অবশেষে এভাবে তাঁরা নিজেদের বাড়িতে পৌঁছলেন। (৩৬৩৯, ৩৮০৫) (আধুনিক প্রকাশনীঃ ৪৪৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>465</td></tr><tr><td>Arabic No</td><td>465</td></tr><tr><td>Reference</td><td>Book 8 Hadith 113</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceri
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் தோழர்களில் இருவர் நபி (ஸல்) அவர்களிடமிருந்து (விடைபெற்று) இருள் கப்பிய ஓர் இரவில் (தம் இல்லங்களுக்கு நடந்து)சென்றனர். அவ்விருவருடனும் இரு விளக்குகளைப் போன்றவை அவர்களுக்கு முன்னால் ஒளிவீசிச் சென்றன. அவர்கள் (வழியில்) பிரிந்து சென்றபோது, அவர்கள் தம் வீட்டாரிடம் போய்ச் சேரும்வரை ஒவ் வொருவருடனும் ஓர் ஒளி (மற்றொன்றை விட்டுப் பிரிந்து அவர்களுடன்) சென்றது. அத்தியாயம் : 8
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் தோழர்களில் இருவர் நபி (ஸல்) அவர்களிடமிருந்து (விடைபெற்று) இருள் கப்பிய ஓர் இரவில் (தம் இல்லங்களுக்கு நடந்து)சென்றனர். அவ்விருவருடனும் இரு விளக்குகளைப் போன்றவை அவர்களுக்கு முன்னால் ஒளிவீசிச் சென்றன. அவர்கள் (வழியில்) பிரிந்து சென்றபோது, அவர்கள் தம் வீட்டாரிடம் போய்ச் சேரும்வரை ஒவ் வொருவருடனும் ஓர் ஒளி (மற்றொன்றை விட்டுப் பிரிந்து அவர்களுடன்) சென்றது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>465</td></tr><tr><td>Arabic No</td><td>465</td></tr><tr><td>Reference</td><td>Book 8 Hadith 113</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceri
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Katâde (r.a.)'den şöyle nakledilmiştir: "Enes'in haber verdiğine göre, Rasûlullah'ın sahâbîlerinden İki kişi, karanlık bir gecede onun huzurundan ayrılmıştı. Ellerinde ise fenere benzer, yollarını aydınlatan iki ışık vardı. Birbirlerinden ayrıldıkları vakit, her birinin elinde bir ışık vardı. Netice de, ikisi de bu şekilde ailesinin yanına vardı. Tekrar: 3639, 3805
+Ebu Katâde (r.a.)'den şöyle nakledilmiştir: "Enes'in haber verdiğine göre, Rasûlullah'ın sahâbîlerinden İki kişi, karanlık bir gecede onun huzurundan ayrılmıştı. Ellerinde ise fenere benzer, yollarını aydınlatan iki ışık vardı. Birbirlerinden ayrıldıkları vakit, her birinin elinde bir ışık vardı. Netice de, ikisi de bu şekilde ailesinin yanına vardı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>465</td></tr><tr><td>Arabic No</td><td>465</td></tr><tr><td>Reference</td><td>Book 8 Hadith 113</td></tr></tbody></table></div>
 

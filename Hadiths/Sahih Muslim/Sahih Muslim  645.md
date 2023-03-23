@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩২, আন্তর্জাতিক নাম্বারঃ ২৭৮ ৫৩২-(.../...) আবূ বাকর ইবনু আবূ শাইবাহ, ‘আমর আন নাকিদ, যুহায়র ইবনু হারব ও মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে অবিকল বর্ণিত আছে। (ইসলামিক ফাউন্ডেশনঃ ৫৩৬, ইসলামিক সেন্টারঃ ৫৫২)
+আবূ বাকর ইবনু আবূ শাইবাহ, ‘আমর আন নাকিদ, যুহায়র ইবনু হারব ও মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে অবিকল বর্ণিত আছে। (ইসলামিক ফাউন্ডেশনঃ ৫৩৬, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>645</td></tr><tr><td>Arabic No</td><td>278.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 111</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Zahri and Ibn Musayyab have both transmitted a hadith like this from Abu Huraira
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Ebu Bekr b. Ebi Şeybe, Amr en-Nakid ve Zuheyr b. Harb tahdis edip dediler ki: Bize Süfyan b. Uyeyne, Zührl'den tahdis etti. O Ebu Seleme'den (H). Bunu bana ayrıca (3/70b) Muhammed b. Rafi' de tahdis etti. Bize Abdurrezzak tahdis etti, bize Ma'mer, Zühn'den haber verdi. O İbnu'l-Müseyyeb' den diye nakletti. (Ebu Seleme ile birlikte ikisi) Ebu Hureyre'den, o Nebi (Sallallahu aleyhi ve Sellem)'den hadisi aynen rivayet etti. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 14742
+Bize Ebu Bekr b. Ebi Şeybe, Amr en-Nakid ve Zuheyr b. Harb tahdis edip dediler ki: Bize Süfyan b. Uyeyne, Zührl'den tahdis etti. O Ebu Seleme'den (H). Bunu bana ayrıca (3/70b) Muhammed b. Rafi' de tahdis etti. Bize Abdurrezzak tahdis etti, bize Ma'mer, Zühn'den haber verdi. O İbnu'l-Müseyyeb' den diye nakletti. (Ebu Seleme ile birlikte ikisi) Ebu Hureyre'den, o Nebi (Sallallahu aleyhi ve Sellem)'den hadisi aynen rivayet etti. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>645</td></tr><tr><td>Arabic No</td><td>278.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 111</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ‘আব্দুল্লাহ ইবনু কা‘ব ইবনু মালিক (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তার তওবা কবূল হওয়ার পর তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলেন, আমি আমার সমস্ত সম্পদ থেকে মুখ ফিরিয়ে নিবো ... ‘তোমার জন্য উত্তম হবে’ পর্যন্ত পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3318</td></tr><tr><td>Arabic No</td><td>3318</td></tr><tr><td>Reference</td><td>Book 22 Hadith 77</td></tr></tbody></table></div>
 

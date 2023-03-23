@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার আমাকে জাপটে ধরে বললেন, ‘হে আল্লাহ্! আপনি তাকে কিতাবের (কুরআন) জ্ঞান দান করুন।’ (১৪৩, ৩৭৫৬, ৭২৭০; মুসলিম ৪৪/৩০ হাঃ ২৪৭৭, আহমাদ ২৩৯৭, ২৮৮১, ৩০২৩) (আধুনিক প্রকাশনীঃ ৭৫, ইসলামিক ফাউন্ডেশনঃ ৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার আমাকে জাপটে ধরে বললেন, ‘হে আল্লাহ্! আপনি তাকে কিতাবের (কুরআন) জ্ঞান দান করুন।’ (১৪৩, ৩৭৫৬, ৭২৭০; মুসলিম ৪৪/৩০ হাঃ ২৪৭৭, আহমাদ ২৩৯৭, ২৮৮১, ৩০২৩) (আধুনিক প্রকাশনীঃ ৭৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>75</td></tr><tr><td>Arabic No</td><td>75</td></tr><tr><td>Reference</td><td>Book 3 Hadith 17</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (சிறுவனாக இருந்த) என்னை(த் தம் நெஞ்சோடு) அணைத்து, “இறைவா! இவருக்கு உன் வேதத்தைக் கற்றுத் தருவாயாக!” என்று பிரார்த்தித்தார்கள். அத்தியாயம் : 3
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (சிறுவனாக இருந்த) என்னை(த் தம் நெஞ்சோடு) அணைத்து, “இறைவா! இவருக்கு உன் வேதத்தைக் கற்றுத் தருவாயாக!” என்று பிரார்த்தித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>75</td></tr><tr><td>Arabic No</td><td>75</td></tr><tr><td>Reference</td><td>Book 3 Hadith 17</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) beni kendisine doğru çekerek "Allah'ım ona kitabı öğret" dedi. Tekrar: 143, 3756, 7270
+İbn Abbas r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) beni kendisine doğru çekerek "Allah'ım ona kitabı öğret" dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>75</td></tr><tr><td>Arabic No</td><td>75</td></tr><tr><td>Reference</td><td>Book 3 Hadith 17</td></tr></tbody></table></div>
 

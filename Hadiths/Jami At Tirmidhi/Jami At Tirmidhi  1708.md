@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭০৮। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পশুর লড়াই বাধাতে মানা করেছেন। যঈফ, গায়াতুল মারাম (৩৮৩), যঈফ আবূ দাউদ (৪৪৩)
+। মুজাহিদ (রহঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পশুর লড়াই অনুষ্ঠান করতে মানা করেছেন। যঈফ, গায়াতুল মারাম (৩৮) এ বর্ণনায় ইবনু আব্বাস (রাঃ)-এর উল্লেখ নেই। অর্থাৎ এই সূত্রে হাদীসটি মুরসাল হিসেবে বর্ণিত হয়েছে এবং এটা কুতবার বর্ণনার তুলনায় অনেক বেশী সহীহ। শরীক-আমাশ হতে তিনি মুজাহিদ হতে তিনি ইবনু আব্বাস (রাঃ) হতে তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে একই রকম বর্ণনা করেছেন। তাতে আবূ ইয়াহইয়ার উল্লেখ নেই। আবূ মুয়াবিয়া-আমাশ হতে তিনি মুজাহিদের সূত্রে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ বর্ণনা করেছেন। আবূ ইয়াহইয়ার নাম যাযান, তিনি কুফার অধিবাসী। এ অনুচ্ছেদে তালহা, জাবির, আবূ সাঈদ ও ইকরাশ ইবনু যুয়াইব (রাঃ) হতেও হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1708</td></tr><tr><td>Arabic No</td><td>1708</td></tr><tr><td>Reference</td><td>Book 23 Hadith 40</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Kuraib] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbâs (radıyallahü anh)’den rivâyete göre, şöyle demiştir: “Rasûlüllah (sallallahü aleyhi ve sellem) hayvanları birbirleriyle dövüştürmeyi yasakladı.” (Ebû Dâvûd, Cihâd: 51)
+İbn Abbâs (radıyallahü anh)’den rivâyete göre, şöyle demiştir: “Rasûlüllah (sallallahü aleyhi ve sellem) hayvanları birbirleriyle dövüştürmeyi yasakladı.” (Ebû Dâvûd, Cihâd:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1708</td></tr><tr><td>Arabic No</td><td>1708</td></tr><tr><td>Reference</td><td>Book 23 Hadith 40</td></tr></tbody></table></div>
 

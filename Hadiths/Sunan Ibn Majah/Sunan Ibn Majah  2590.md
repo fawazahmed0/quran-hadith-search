@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৫৯০। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। যুদ্ধলব্ধ মাল (গানীমাত) থেকে প্রাপ্ত একটি যুদ্ধবন্দী দাস যুদ্ধলব্ধ মালের রাষ্ট্রের প্রাপ্য অংশ থেকে চুরি করলে তাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট পেশ করা হলো। কিন্তু তিনি তার হাত কর্তনের নির্দেশ দেননি। তিনি বলেনঃ মহামহিম আল্লাহর সম্পদের একাংশ অপরাংশ চুরি করেছে।
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। যুদ্ধলব্ধ মাল (গানীমাত) থেকে প্রাপ্ত একটি যুদ্ধবন্দী দাস যুদ্ধলব্ধ মালের রাষ্ট্রের প্রাপ্য অংশ থেকে চুরি করলে তাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট পেশ করা হলো। কিন্তু তিনি তার হাত কর্তনের নির্দেশ দেননি। তিনি বলেনঃ মহামহিম আল্লাহর সম্পদের একাংশ অপরাংশ চুরি করেছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2590</td></tr><tr><td>Arabic No</td><td>2590</td></tr><tr><td>Reference</td><td>Book 20 Hadith 58</td></tr></tbody></table></div>
 

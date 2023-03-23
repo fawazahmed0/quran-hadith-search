@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাযি.) হতে বর্ণিত। তিনি বলেনঃ এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে বলল, ‘হে আল্লাহর রাসূল! আল্লাহর পথে যুদ্ধ কোনটি, কেননা আমাদের কেউ লড়াই করে রাগের বশবর্তী হয়ে, আবার কেউ লড়াই করে প্রতিশোধ নেয়ার জন্য। তিনি তার দিকে মাথা তুলে তাকালেন। বর্ণনাকারী বলেন, তাঁর মাথা তোলার কারণ ছিল যে, সে ছিল দাঁড়ানো। অতঃপর তিনি বললেনঃ ‘আল্লাহর বাণী বিজয়ী করার জন্য যে যুদ্ধ করে তার লড়াই আল্লাহর পথে হয়।’ (২৮১০, ৩১২৬, ৭৪৫৮; মুসলিম ৩৩/৪২, হাঃ ১৯০৪, আহমাদ ১৯৫১০, ১৯৫৬০, ১৯৬১৩) (আধুনিক প্রকাশনীঃ ১২১, ইসলামিক ফাউন্ডেশনঃ ১২৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাযি.) হতে বর্ণিত। তিনি বলেনঃ এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট এসে বলল, ‘হে আল্লাহর রাসূল! আল্লাহর পথে যুদ্ধ কোনটি, কেননা আমাদের কেউ লড়াই করে রাগের বশবর্তী হয়ে, আবার কেউ লড়াই করে প্রতিশোধ নেয়ার জন্য। তিনি তার দিকে মাথা তুলে তাকালেন। বর্ণনাকারী বলেন, তাঁর মাথা তোলার কারণ ছিল যে, সে ছিল দাঁড়ানো। অতঃপর তিনি বললেনঃ ‘আল্লাহর বাণী বিজয়ী করার জন্য যে যুদ্ধ করে তার লড়াই আল্লাহর পথে হয়।’ (২৮১০, ৩১২৬, ৭৪৫৮; মুসলিম ৩৩/৪২, হাঃ ১৯০৪, আহমাদ ১৯৫১০, ১৯৫৬০, ১৯৬১৩) (আধুনিক প্রকাশনীঃ ১২১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>123</td></tr><tr><td>Arabic No</td><td>123</td></tr><tr><td>Reference</td><td>Book 3 Hadith 65</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Utsman] berkata, telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம் வந்து, “அல்லாஹ்வின் தூதரே! எங்களில் ஒருவர் (தனிப்பட்ட) கோபத்தால் போரிடு கிறார். (மற்றொருவர்) இனமாச்சரியத்தால் போரிடுகிறார். இவற்றில் அல்லாஹ்வின் பாதையில் செய்யப்படும் போர் எது?” என்று கேட்டார். அப்போது நபி (ஸல்) அவர்கள், அவரை நோக்கித் தமது தலையை உயர்த்தி, “யார் அல்லாஹ்வின் வாக்கே மேலோங்கியதாய் இருக்க வேண்டும் என்பதற்காகப் போரிடுகின்றாரோ அவர் தான் வல்லமையும் மாண்பும் மிக்க அல்லாஹ்வின் பாதையில் போரிடுபவர் ஆவார்” என்று பதிலளித்தார்கள். கேள்வி கேட்டவர் நின்றுகொண்டி ருந்ததால்தான் நபி (ஸல்) அவர்கள் தமது தலையை உயர்த்திப் பார்த் தார்கள். அத்தியாயம் : 3
+அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம் வந்து, “அல்லாஹ்வின் தூதரே! எங்களில் ஒருவர் (தனிப்பட்ட) கோபத்தால் போரிடு கிறார். (மற்றொருவர்) இனமாச்சரியத்தால் போரிடுகிறார். இவற்றில் அல்லாஹ்வின் பாதையில் செய்யப்படும் போர் எது?” என்று கேட்டார். அப்போது நபி (ஸல்) அவர்கள், அவரை நோக்கித் தமது தலையை உயர்த்தி, “யார் அல்லாஹ்வின் வாக்கே மேலோங்கியதாய் இருக்க வேண்டும் என்பதற்காகப் போரிடுகின்றாரோ அவர் தான் வல்லமையும் மாண்பும் மிக்க அல்லாஹ்வின் பாதையில் போரிடுபவர் ஆவார்” என்று பதிலளித்தார்கள். கேள்வி கேட்டவர் நின்றுகொண்டி ருந்ததால்தான் நபி (ஸல்) அவர்கள் தமது தலையை உயர்த்திப் பார்த் தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>123</td></tr><tr><td>Arabic No</td><td>123</td></tr><tr><td>Reference</td><td>Book 3 Hadith 65</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Utsman] berkata, telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Musa r.a. şöyle demiştir: Bir adam Nebi (Sallallahu aleyhi ve Sellem)'e gelerek şöyle dedi: "Ey Allah'ın Resulü! Allah yolunda savaşmak nedir? Birimiz öfkesi sebebiyle savaşıyor, birimiz asabiyetten dolayı savaşıyor". Nebi (Sallallahu aleyhi ve Sellem) başını ona doğru kaldırdı (çünkü adam ayaktaydı) ve şöyle dedi: "Kim Allah'ın kelimesi en yüce olsun diye savaşırsa işte o Allah yolundadır. Tekrar: 2810, 3126, 7458
+Ebu Musa r.a. şöyle demiştir: Bir adam Nebi (Sallallahu aleyhi ve Sellem)'e gelerek şöyle dedi: "Ey Allah'ın Resulü! Allah yolunda savaşmak nedir? Birimiz öfkesi sebebiyle savaşıyor, birimiz asabiyetten dolayı savaşıyor". Nebi (Sallallahu aleyhi ve Sellem) başını ona doğru kaldırdı (çünkü adam ayaktaydı) ve şöyle dedi: "Kim Allah'ın kelimesi en yüce olsun diye savaşırsa işte o Allah yolundadır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>123</td></tr><tr><td>Arabic No</td><td>123</td></tr><tr><td>Reference</td><td>Book 3 Hadith 65</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৯৬২, আন্তর্জাতিক নাম্বারঃ ৮৯৬ ১৯৬২-(.../...) ইবনুল মুসান্না (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণনা করে শুনিয়েছেন। (ইসলামী ফাউন্ডেশন ১৯৪৬, ইসলামীক সেন্টার ১৯৫৩)
+ইবনুল মুসান্না (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণনা করে শুনিয়েছেন। (ইসলামী ফাউন্ডেশন ১৯৪৬, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2077</td></tr><tr><td>Arabic No</td><td>896</td></tr><tr><td>Reference</td><td>Book 9 Hadith 8</td></tr></tbody></table></div>
 

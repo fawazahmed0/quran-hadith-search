@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮৪৪। উকবাহ ইবনু আমির (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ লোকেরা ইসলাম কবুল করেছে আর আমর ইবনুল আস বিশ্বাস স্থাপন করেছে। হাসানঃ সহীহাহ (১১৫), মিশকাত (৬২৪৫)। আবূ ঈসা বলেন, এই হাদীসটি গারীব। আমরা এ হাদীস শুধুমাত্র ইবনু লাহী আহর বরাতে মিশরাহ হতে জানতে পেরেছি। এর সনদসূত্র খুব একটা মযবুত নয়।
+। উকবাহ ইবনু আমির (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন রাসুলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ লোকেরা ইসলাম কবুল করেছে আর আমর ইবনুল আস বিশ্বাস স্থাপন করেছে। হাসানঃ সহীহাহ (১১৫), মিশকাত (৬২৩৬)। আবূ ঈসা বলেন, এই হাদীসটি গারীব। আমরা এ হাদীস শুধুমাত্র ইবনু লাহী আহর বরাতে মিশরাহ হতে জানতে পেরেছি। এর সনদসূত্র খুব একটা মযবুত নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3844</td></tr><tr><td>Arabic No</td><td>3844</td></tr><tr><td>Reference</td><td>Book 49 Hadith 244</td></tr></tbody></table></div>
 

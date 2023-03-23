@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু হিশাম (রাঃ) হতে বর্ণিত যে, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে ছিলাম। তখন তিনি ‘উমার ইবনু খাত্তাব (রাঃ) এর হস্ত ধারণকৃত অবস্থায় ছিলেন। [৩৬৯৪] (আধুনিক প্রকাশনী- ৫৮২১, ইসলামিক ফাউন্ডেশন- ৫৭১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু হিশাম (রাঃ) হতে বর্ণিত যে, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে ছিলাম। তখন তিনি ‘উমার ইবনু খাত্তাব (রাঃ) এর হস্ত ধারণকৃত অবস্থায় ছিলেন। [৩৬৯৪] (আধুনিক প্রকাশনী- ৫৮২১, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6264</td></tr><tr><td>Arabic No</td><td>6264</td></tr><tr><td>Reference</td><td>Book 79 Hadith 38</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Sulaiman] dia berkata; telah mencerita
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் ஹிஷாம் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (ஒருமுறை) நபி (ஸல்) அவர்களுடன் இருந்தோம். அப்போது அவர்கள் உமர் பின் அல்கத்தாப் (ரலி) அவர்களின் கரத்தைப் பற்றி இருந்தார்கள்.45 அத்தியாயம் : 79
+அப்துல்லாஹ் பின் ஹிஷாம் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (ஒருமுறை) நபி (ஸல்) அவர்களுடன் இருந்தோம். அப்போது அவர்கள் உமர் பின் அல்கத்தாப் (ரலி) அவர்களின் கரத்தைப் பற்றி இருந்தார்கள்.45 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6264</td></tr><tr><td>Arabic No</td><td>6264</td></tr><tr><td>Reference</td><td>Book 79 Hadith 38</td></tr></tbody></table></div>
 

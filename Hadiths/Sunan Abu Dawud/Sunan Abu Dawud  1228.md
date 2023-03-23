@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমুদ ইবন খালিদ (রহঃ) ...... আতা ইবন আবু রাবাহ (রহঃ) হতে বর্ণিত। তিনি বলেন, তিনি আয়েশা (রাঃ)-কে জিজ্ঞাসা করেন, মহিলাগন যানবাহনের উপর নামায পড়তে পারবে কি? তিনি বলেন, স্বাভাবিক অথবা অস্বাভাবিক কোন অবস্থাতেই তাদের জন্য এর অনুমতি নাই। রাবী মুহাম্মদ ইবন শুআয়ব (রহঃ) বলেন, এই নির্দেশ কেবলমাত্র ফরয নামাযের ক্ষেত্রে প্রযোজ্য।রাবা
+। ‘আত্বা ইবনু আবূ রাবাহ্ (রহঃ) সূত্রে বর্ণিত। তিনি ‘আয়িশাহ্ (রাঃ)-কে জিজ্ঞেস করলেন, নারীদের কি জন্তুর উপর সালাত আদায়ের অনুমতি রয়েছে? তিনি বললেন, সুবিধা কিংবা অসুবিধা কোন অবস্থাতেই তাদের জন্য এর অনুমতি নেই। মুহাম্মাদ ইবনু শু‘আইব (রহঃ) বলেন, এ বিধান ফারয সালাতের ক্ষেত্রে প্রযোজ্য।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1228</td></tr><tr><td>Arabic No</td><td>1228</td></tr><tr><td>Reference</td><td>Book 4 Hadith 31</td></tr></tbody></table></div>
 

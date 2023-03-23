@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫৬৮, আন্তর্জাতিক নাম্বারঃ ২১৭২ ৫৫৬৮-(…/...) আবূ তাহির (রহঃ) ..... ইয়াযীদ আবূ হাবীব (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪৮৮, ইসলামিক সেন্টার ৫৫১২)
+(…/...) আবূ তাহির (রহঃ) ..... ইয়াযীদ আবূ হাবীব (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪৮৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5675</td></tr><tr><td>Arabic No</td><td>2172.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 29</td></tr></tbody></table></div>
 

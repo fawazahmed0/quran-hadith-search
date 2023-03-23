@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল ও উছমান ইবন আবী শায়বা (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে নাজরানে তৈরী তিনটি কাপড় দিয়ে কাফন দেওয়া হয়েছিল। ঐ কাপড়ের মাঝে একটা ছিল চাদর, একটা তহবন্দ এবং অন্যটি ছিল ঐ জামা, যা গায়ে থাকা অবস্থায় তিনি ইনতিকাল করেন। আবূ দাঊদ (রহঃ) বলেনঃ উছমান (রাঃ) হতে বর্ণিত যে, তিনটি কাপড়ের মাঝে দুটি ছিল লাল এবং ঐ জামা, যা গায়ে থাকা অবস্থায় তিনি ইনতিকাল করেন।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তিনটি কাপড়ে কাফন দেয়া হয়। এগুলো ছিলো নাজরানের তৈরী। যার একটি ছিলো চাদর, একটি লুঙ্গি এবং অপরটি ছিলো মৃত্যুশয্যায় তাঁর পরিহিত পোশাক। উসমান ইবনু আবূ শাইবাহর বর্ণনায় রয়েছেঃ তাকে তিনটি কাপড়ে কাফন দেয়া হয়েছিল- যার দু’টি চাদর লাল বর্ণের এবং যে জামা পরিহিত অবস্থায় তিনি ইন্তেকাল করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3153</td></tr><tr><td>Arabic No</td><td>3153</td></tr><tr><td>Reference</td><td>Book 21 Hadith 65</td></tr></tbody></table></div>
 

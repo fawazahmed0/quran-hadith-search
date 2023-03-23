@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 খালীফাহ ইবনু কা‘ব হতে বর্ণিত, তিনি বলেন, আমি ‘আবদুল্লাহ ইবনু যুবাইরকে খুতবায় বলতে শুনেছি। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক দুনিয়ায় রেশমী কাপড় পরবে, আখিরাতে সে তা পরতে পারবে না। (আধুনিক প্রকাশনী- নাই, ইসলামিক ফাউন্ডেশন- নাই)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5833</td></tr><tr><td>Arabic No</td><td>5833</td></tr><tr><td>Reference</td><td>Book 77 Hadith 50</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஸாபித் அல்புனானீ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் ஸுபைர் (ரலி) அவர்கள் உரை நிகழ்த்துகையில் ‘‘முஹம்மத் (ஸல்) அவர்கள், ‘(ஆண் களில்) யார் இம்மையில் பட்(டா)டை அணிகிறாரோ அவர் மறுமையில் அதை அணியமாட்டார்’ என்று சொன்னார்கள்” எனக் கூறக் கேட்டேன். அத்தியாயம் : 77
+ஸாபித் அல்புனானீ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் ஸுபைர் (ரலி) அவர்கள் உரை நிகழ்த்துகையில் ‘‘முஹம்மத் (ஸல்) அவர்கள், ‘(ஆண் களில்) யார் இம்மையில் பட்(டா)டை அணிகிறாரோ அவர் மறுமையில் அதை அணியமாட்டார்’ என்று சொன்னார்கள்” எனக் கூறக் கேட்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5833</td></tr><tr><td>Arabic No</td><td>5833</td></tr><tr><td>Reference</td><td>Book 77 Hadith 50</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫০৩৬, আন্তর্জাতিক নাম্বারঃ ১৯৮৫ ৫০৩৬-(১৩/১৯৮৫) যুহায়র ইবনু হারব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মদ তৈরি হয় দুটি গাছ (এর ফল) হতে, তা হলো- খেজুর ও আঙ্গুর গাছ (এর ফল)। (ইসলামিক ফাউন্ডেশন ৪৯৭৮, ইসলামিক সেন্টার ৪৯৮৬)
+যুহায়র ইবনু হারব (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মদ তৈরি হয় দুটি গাছ (এর ফল) হতে, তা হলো- খেজুর ও আঙ্গুর গাছ (এর ফল)। (ইসলামিক ফাউন্ডেশন ৪৯৭৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5142</td></tr><tr><td>Arabic No</td><td>1985.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 16</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Is
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மது (கம்ர்), இவ்விரு மரங்களிலிருந்தே தயாரிக்கப்படுகிறது. அவை: 1. பேரீச்சை 2. திராட்சை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 36
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: மது (கம்ர்), இவ்விரு மரங்களிலிருந்தே தயாரிக்கப்படுகிறது. அவை: 1. பேரீச்சை 2. திராட்சை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5142</td></tr><tr><td>Arabic No</td><td>1985.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 16</td></tr></tbody></table></div>
 

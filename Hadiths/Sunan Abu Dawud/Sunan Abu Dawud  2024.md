@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবন মুহাম্মদ ইবন ইসহাক আল আযরা‘ঈ (রহঃ) ..... মালিক (রহঃ) হতে উক্ত হাদীসটি বর্ণনা করেছেন। রাবী আবদুর রহমান সাওয়ারীর কথা উল্লেখ করেননি। রাবী ইবন মাহদী হতে বর্ণনা করেন যে, অতঃপর তিনি নামায আদায় করেন এবং এই সময় তাঁর ও কিবলার মধ্যে তিনগজ পরিমাণ ব্যবধান ছিল।
+। ইমাম মালিক (রহ.) সূত্রেও উক্ত হাদীস বর্ণিত হয়েছে। তবে তিনি সওয়ারীর (স্তম্ভ) কথা উল্লেখ করেননি। তিনি বলেছেন, অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করলেন, এ সময় তাঁর ও সামনের দেয়ালের মধ্যে তিন গজের দূরত্ব ছিলো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2024</td></tr><tr><td>Arabic No</td><td>2024</td></tr><tr><td>Reference</td><td>Book 11 Hadith 304</td></tr></tbody></table></div>
 

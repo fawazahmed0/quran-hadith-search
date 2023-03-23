@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬১৪৯, আন্তর্জাতিক নাম্বারঃ ২৪২০ ৬১৪৯-(.../...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আবূ ইসহাক (রহঃ) হতে একই সূত্রে হুবহু হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬০৩৭, ইসলামিক সেন্টার ৬০৭৪)
+ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আবূ ইসহাক (রহঃ) হতে একই সূত্রে হুবহু হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬০৩৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6255</td></tr><tr><td>Arabic No</td><td>2420.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 85</td></tr></tbody></table></div>
 

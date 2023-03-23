@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এশার সালাতে সূরা وَالتِّينِ وَالزَّيْتُونِ পড়তে শুনেছি। স্বর কিংবা কিরআতের দিক থেকে তার চেয়ে সুন্দর আমি আর কাউকে দেখিনি। [৭৬৭] (আধুনিক প্রকাশনী- ৭০২৬, ইসলামিক ফাউন্ডেশন- ৭০৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এশার সালাতে সূরা وَالتِّينِ وَالزَّيْتُونِ পড়তে শুনেছি। স্বর কিংবা কিরআতের দিক থেকে তার চেয়ে সুন্দর আমি আর কাউকে দেখিনি। [৭৬৭] (আধুনিক প্রকাশনী- ৭০২৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7546</td></tr><tr><td>Arabic No</td><td>7546</td></tr><tr><td>Reference</td><td>Book 97 Hadith 171</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Mis'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இஷா தொழு கையில் ‘வத்தீனீ வஸ்ஸைத்தூனி...’ எனும் (95ஆவது) அத்தியாயத்தை ஓதுவதை நான் கேட்டேன். நபி (ஸல்) அவர்களை விடவும் ‘அழகிய குரலுடையவரை’ அல்லது ‘அழகாக ஓதுபவரை’ நான் கண்டதில்லை.186 அத்தியாயம் : 97
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இஷா தொழு கையில் ‘வத்தீனீ வஸ்ஸைத்தூனி...’ எனும் (95ஆவது) அத்தியாயத்தை ஓதுவதை நான் கேட்டேன். நபி (ஸல்) அவர்களை விடவும் ‘அழகிய குரலுடையவரை’ அல்லது ‘அழகாக ஓதுபவரை’ நான் கண்டதில்லை.186 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7546</td></tr><tr><td>Arabic No</td><td>7546</td></tr><tr><td>Reference</td><td>Book 97 Hadith 171</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন মাসউদ (রহঃ) .... ইবন আব্বাস (রাঃ) থেকে বর্ণিত, তিনি বলেনঃ উবাইয়্যা ইবন কা’আব আমাকে সেভাবেই পড়ান যেভাবে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে পড়িয়েছিলেন। যেমন এ আয়াতঃ (فِي عَيْنٍ حَمِئَةٍ)। এখানে حَمِئَةٍ শব্দটিকে হালকাভাবে পড়েন।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, উবাই ইবনু কা‘ব (রাঃ) আমাকে ঐভাবে পড়িয়েছেন যেভাবে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে পড়িয়েছিলেন। যেমনفِي عَيْنٍ حَمِئَةٍ। এখানে حَمِئَةٍ শব্দটি হালকাভাবে পড়েছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3986</td></tr><tr><td>Arabic No</td><td>3986</td></tr><tr><td>Reference</td><td>Book 32 Hadith 18</td></tr></tbody></table></div>
 

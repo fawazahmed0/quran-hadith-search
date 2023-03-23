@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী (রাঃ) হতে বর্ণিত যে, তাঁকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর নিজের কুরবানীর জানোয়ারের পাশে দাঁড়াতে আর এগুলোর সমুদয় গোশ্ত, চামড়া এবং পিঠের আবরণসমূহ বিতরণ করতে নির্দেশ দেন এবং তা হতে যেন কসাইকে পারিশ্রমিক হিসেবে কিছুই না দেয়া হয়। (১৭০৭) (আধুনিক প্রকাশনীঃ ১৫৯৯. ইসলামিক ফাউন্ডেশনঃ ১৬০৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী (রাঃ) হতে বর্ণিত যে, তাঁকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর নিজের কুরবানীর জানোয়ারের পাশে দাঁড়াতে আর এগুলোর সমুদয় গোশ্ত, চামড়া এবং পিঠের আবরণসমূহ বিতরণ করতে নির্দেশ দেন এবং তা হতে যেন কসাইকে পারিশ্রমিক হিসেবে কিছুই না দেয়া হয়। (১৭০৭) (আধুনিক প্রকাশনীঃ ১৫৯৯. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1717</td></tr><tr><td>Arabic No</td><td>1717</td></tr><tr><td>Reference</td><td>Book 25 Hadith 195</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது குர்பானி ஒட்டகங்களை (அறுத்துப் பலியிடும் பொறுப்பை)க் கவனிக்குமாறும் அவற்றின் இறைச்சி, தோல், சேணம் ஆகிய அனைத் தையும் (தர்மமாகப்) பங்கிடுமாறும் உரிப்ப தற்கான கூலியாக, அவற்றில் எதையும் கொடுக்கக் கூடாது என்றும் எனக்குக் கட்டளையிட்டார்கள். அத்தியாயம் : 25
+அலீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தமது குர்பானி ஒட்டகங்களை (அறுத்துப் பலியிடும் பொறுப்பை)க் கவனிக்குமாறும் அவற்றின் இறைச்சி, தோல், சேணம் ஆகிய அனைத் தையும் (தர்மமாகப்) பங்கிடுமாறும் உரிப்ப தற்கான கூலியாக, அவற்றில் எதையும் கொடுக்கக் கூடாது என்றும் எனக்குக் கட்டளையிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1717</td></tr><tr><td>Arabic No</td><td>1717</td></tr><tr><td>Reference</td><td>Book 25 Hadith 195</td></tr></tbody></table></div>
 

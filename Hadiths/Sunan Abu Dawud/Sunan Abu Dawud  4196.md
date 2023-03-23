@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইব্‌ন আলা (রহঃ) ..... আনাস ইব্‌ন মালিক (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমার মাথায় চুলের খোঁপা ছিল। আমার মা আমাকে বলেনঃ আমি তা কাটবো না। কেননা রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা ধরে লম্বা করতেন এবং কাছে টেনে নিতেন।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার মাথার চুলের গুচ্ছ ছিলো। আমার মা আমাকে বললেন, এটা কাটাবো না। কারণ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা টানতেন ও স্পর্শ করতেন।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4196</td></tr><tr><td>Arabic No</td><td>4196</td></tr><tr><td>Reference</td><td>Book 35 Hadith 38</td></tr></tbody></table></div>
 

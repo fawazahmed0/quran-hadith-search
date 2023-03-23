@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত যে, খন্দকের দিন সূর্য অস্ত যাওয়ার পর ‘উমার ইবনু খাত্তাব (রাযি.) এসে কুরাইশ গোত্রীয় কাফিরদের ভৎর্সনা করতে লাগলেন এবং বললেন, হে আল্লাহর রাসূল! আমি এখনও ‘আসরের সালাত আদায় করতে পারিনি, এমন কি সূর্য অস্ত যায় যায়। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন আল্লাহর শপথ! আমিও তা আদায় করিনি। অতঃপর আমরা উঠে বুতহানের দিকে গেলাম। সেখানে তিনি সালাতের জন্য উযূ করলেন এবং আমরাও উযূ করলাম; অতঃপর সূর্য ডুবে গেলে ‘আসরের সালাত আদায় করেন, অতঃপর মাগরিবের সালাত আদায় করেন। (৫৯৮, ৬৪১, ৯৪৫, ৪১১২; মুসলিম ৫/৩৬, হাঃ ৬৩১) (আধুনিক প্রকাশনীঃ ৫৬১, ইসলামিক ফাউন্ডেশনঃ ৫৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে বর্ণিত যে, খন্দকের দিন সূর্য অস্ত যাওয়ার পর ‘উমার ইবনু খাত্তাব (রাযি.) এসে কুরাইশ গোত্রীয় কাফিরদের ভৎর্সনা করতে লাগলেন এবং বললেন, হে আল্লাহর রাসূল! আমি এখনও ‘আসরের সালাত আদায় করতে পারিনি, এমন কি সূর্য অস্ত যায় যায়। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন আল্লাহর শপথ! আমিও তা আদায় করিনি। অতঃপর আমরা উঠে বুতহানের দিকে গেলাম। সেখানে তিনি সালাতের জন্য উযূ করলেন এবং আমরাও উযূ করলাম; অতঃপর সূর্য ডুবে গেলে ‘আসরের সালাত আদায় করেন, অতঃপর মাগরিবের সালাত আদায় করেন। (৫৯৮, ৬৪১, ৯৪৫, ৪১১২; মুসলিম ৫/৩৬, হাঃ ৬৩১) (আধুনিক প্রকাশনীঃ ৫৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>596</td></tr><tr><td>Arabic No</td><td>596</td></tr><tr><td>Reference</td><td>Book 9 Hadith 71</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அகழ்ப் போரின்போது சூரியன் மறைந்தபின் உமர் பின் அல்கத்தாப் (ரலி) அவர்கள் குறைஷி குல இறைமறுப் பாளர்களை ஏசிக்கொண்டே வந்து, “அல்லாஹ்வின் தூதரே! சூரியன் மறையத் தொடங்கும்வரை என்னால் அஸ்ர் தொழுகையைத் தொழ முடியாமல் போய் விட்டது” என்று கூறினார்கள். அதற்கு நபி (ஸல்) அவர்கள், “அல்லாஹ்வின் மீதாணையாக! நானும் (இதுவரை) அஸ்ர் தொழவில்லை” என்று கூறினார்கள். பின்னர் ‘புத்ஹான்’ எனும் பள்ளத் தாக்கை நோக்கி நாங்கள் சென்றோம். அங்கு தொழுகைக்காக நபி (ஸல்) அவர்கள் அங்கத் தூய்மை (உளூ) செய்தார்கள். நாங்களும் தொழுகைக்காக அங்கத் தூய்மை (உளூ) செய்தோம். சூரியன் மறைந்தபிறகு அஸ்ர் தொழுதார்கள். அதன் பின்னர் மஃக்ரிப் தொழுதார்கள். (அவர்களுக்குப்பின் நின்று நாங்களும் தொழுதோம்). அத்தியாயம் : 9
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அகழ்ப் போரின்போது சூரியன் மறைந்தபின் உமர் பின் அல்கத்தாப் (ரலி) அவர்கள் குறைஷி குல இறைமறுப் பாளர்களை ஏசிக்கொண்டே வந்து, “அல்லாஹ்வின் தூதரே! சூரியன் மறையத் தொடங்கும்வரை என்னால் அஸ்ர் தொழுகையைத் தொழ முடியாமல் போய் விட்டது” என்று கூறினார்கள். அதற்கு நபி (ஸல்) அவர்கள், “அல்லாஹ்வின் மீதாணையாக! நானும் (இதுவரை) அஸ்ர் தொழவில்லை” என்று கூறினார்கள். பின்னர் ‘புத்ஹான்’ எனும் பள்ளத் தாக்கை நோக்கி நாங்கள் சென்றோம். அங்கு தொழுகைக்காக நபி (ஸல்) அவர்கள் அங்கத் தூய்மை (உளூ) செய்தார்கள். நாங்களும் தொழுகைக்காக அங்கத் தூய்மை (உளூ) செய்தோம். சூரியன் மறைந்தபிறகு அஸ்ர் தொழுதார்கள். அதன் பின்னர் மஃக்ரிப் தொழுதார்கள். (அவர்களுக்குப்பின் நின்று நாங்களும் தொழுதோம்). அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>596</td></tr><tr><td>Arabic No</td><td>596</td></tr><tr><td>Reference</td><td>Book 9 Hadith 71</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Câbir bin Abdullah r.a.'dan şöyle nakledilmiştir: "Ömer r.a. Hendek savaşında güneş batmak üzere iken Nebi Sallallahu Aleyhi ve Sellem'in yanına geldi ve Kureyşli kafirlere hakaret etmeye başladı: 'Ey Allah'ın elçisi güneş batmadan neredeyse ikindi namazını kılamayacaktım’ dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Allah'a and olsun ki, ben bile kılmadım' buyurdu. Sonra kalkıp Buthan'a gittik. Rasûlullah Sallallahu Aleyhi ve Sellem namaz kılmak için abdest aldı, biz de abdest aldık. Güneş battıktan sonra ikindi namazını kıldırdı. Ondan sonra da, akşam namazını kıldırdı. Tekrar: 598, 641, 945, 4112
+Câbir bin Abdullah r.a.'dan şöyle nakledilmiştir: "Ömer r.a. Hendek savaşında güneş batmak üzere iken Nebi Sallallahu Aleyhi ve Sellem'in yanına geldi ve Kureyşli kafirlere hakaret etmeye başladı: 'Ey Allah'ın elçisi güneş batmadan neredeyse ikindi namazını kılamayacaktım’ dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Allah'a and olsun ki, ben bile kılmadım' buyurdu. Sonra kalkıp Buthan'a gittik. Rasûlullah Sallallahu Aleyhi ve Sellem namaz kılmak için abdest aldı, biz de abdest aldık. Güneş battıktan sonra ikindi namazını kıldırdı. Ondan sonra da, akşam namazını kıldırdı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>596</td></tr><tr><td>Arabic No</td><td>596</td></tr><tr><td>Reference</td><td>Book 9 Hadith 71</td></tr></tbody></table></div>
 

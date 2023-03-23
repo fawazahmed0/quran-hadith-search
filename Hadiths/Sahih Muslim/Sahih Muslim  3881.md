@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৭৭৩, আন্তর্জাতিক নাম্বারঃ ১৫৩৯ ৩৭৭৩-(.../...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... নাফি' (রহঃ) হতে একই সূত্রে এরূপ হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৭৩৭, ইসলামিক সেন্টার ৩৭৩৭)
+মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... নাফি' (রহঃ) হতে একই সূত্রে এরূপ হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৭৩৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3881</td></tr><tr><td>Arabic No</td><td>1539.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 80</td></tr></tbody></table></div>
 

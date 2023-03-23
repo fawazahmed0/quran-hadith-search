@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, বারীরাহ (রাঃ)-কে সদাকাহকৃত গোশতের কিছু আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দেয়া হল। তিনি বললেন, তা বারীরাহ’র জন্য সদাকাহ এবং আমাদের জন্য হাদিয়া। আবূ দাঊদ (রহ.) বললেন যে, শু‘বাহ (রহ.) কাতাদাহ (রহ.) সূত্রে আনাস (রাঃ)-এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হাদীসটি বর্ণনা করেছেন। (২৫৭৭, মুসলিম ১২/৫২, হাঃ ১০৭৪, আহমাদ ১২১৬০) (আধুনিক প্রকাশনীঃ১৩৯৯ , ইসলামিক ফাউন্ডেশনঃ ১৪০৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, বারীরাহ (রাঃ)-কে সদাকাহকৃত গোশতের কিছু আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দেয়া হল। তিনি বললেন, তা বারীরাহ’র জন্য সদাকাহ এবং আমাদের জন্য হাদিয়া। আবূ দাঊদ (রহ.) বললেন যে, শু‘বাহ (রহ.) কাতাদাহ (রহ.) সূত্রে আনাস (রাঃ)-এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হাদীসটি বর্ণনা করেছেন। (২৫৭৭, মুসলিম ১২/৫২, হাঃ ১০৭৪, আহমাদ ১২১৬০) (আধুনিক প্রকাশনীঃ১৩৯৯ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 24 Hadith 95</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: (ஆயிஷா (ரலி) அவர்களால் விடுதலை செய்யப்பட்ட) பரீராவுக்குத் தர்மமாகக் கொடுக்கப்பட்ட இறைச்சி நபி (ஸல்) அவர்களிடம் கொண்டுவரப்பட்டது. அப்போது அவர்கள், “இது பரீராவுக்குத் தர்மமாகும்; ஆனால், நமக்கு அன்பளிப்பாகும்“ என்றார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 24
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: (ஆயிஷா (ரலி) அவர்களால் விடுதலை செய்யப்பட்ட) பரீராவுக்குத் தர்மமாகக் கொடுக்கப்பட்ட இறைச்சி நபி (ஸல்) அவர்களிடம் கொண்டுவரப்பட்டது. அப்போது அவர்கள், “இது பரீராவுக்குத் தர்மமாகும்; ஆனால், நமக்கு அன்பளிப்பாகும்“ என்றார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 24 Hadith 95</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. şöyle anlatır: Resûlullah'a, Berire'ye sadaka olarak verilmiş koyundan bir miktar et getirilmişti. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Bu, onun için sadaka, bizim için hediyedir" buyurdu. Tekrar: 2577
+Enes r.a. şöyle anlatır: Resûlullah'a, Berire'ye sadaka olarak verilmiş koyundan bir miktar et getirilmişti. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Bu, onun için sadaka, bizim için hediyedir" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 24 Hadith 95</td></tr></tbody></table></div>
 

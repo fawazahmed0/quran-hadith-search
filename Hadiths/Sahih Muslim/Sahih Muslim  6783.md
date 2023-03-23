@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৬৭৬, আন্তর্জাতিক নাম্বারঃ ২৬৬৯ ৬৬৭৬-(…/...) আবু ইসহাক ইবরাহীম ইবনু মুহাম্মদ (রহঃ) ..... আতা ইবনু ইয়াসার (রহঃ) এর সানাদে যায়দ ইবনু আসলাম (রহঃ) তার হুবহু হাদীস উল্লেখ করেছেন। (ইসলামিক ফাউন্ডেশন ৬৫৩৯, ইসলামিক সেন্টার ৬৫৯৩)
+(…/...) আবু ইসহাক ইবরাহীম ইবনু মুহাম্মদ (রহঃ) ..... আতা ইবনু ইয়াসার (রহঃ) এর সানাদে যায়দ ইবনু আসলাম (রহঃ) তার হুবহু হাদীস উল্লেখ করেছেন। (ইসলামিক ফাউন্ডেশন ৬৫৩৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>2669.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
 

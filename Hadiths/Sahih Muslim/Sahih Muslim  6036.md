@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবূ রাবী' আতাকী, হামিদ ইবনু উমার, কুতাইবাহ ইবনু সাঈদ ও আবূ কামিল (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন এক সফরে ছিলেন, তখন আনজাশাহ নামক একজন হাবশী ক্রীতদাস গীত গাইছিল। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, হে আন্‌জাশাহ! ধীরে চলো এবং উটগুলোকে কাচপাত্রবাহী উটের মতো (সতর্কতার সাথে) ধাবিত করো। (ইসলামিক ফাউন্ডেশন ৫৮২৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6036</td></tr><tr><td>Arabic No</td><td>2323.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 94</td></tr></tbody></table></div>
 

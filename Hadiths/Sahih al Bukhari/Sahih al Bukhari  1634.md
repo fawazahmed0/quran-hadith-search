@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আব্বাস ইবনু ‘আবদুল মুত্তালিব (রাঃ) আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট হাজীদের পানি পান করানোর উদ্দেশে মিনায় অবস্থানের রাতগুলো মক্কা্য় কাটানোর অনুমতি চাইলে তিনি তাঁকে অনুমতি দেন। (১৬৪৩, ১৬৪৪, ১৬৪৫, মুসলিম ১৫/৬০, হাঃ ১৩১৫, আহমাদ ৬৭০৭) (আধুনিক প্রকাশনীঃ ১৫২৫, ইসলামিক ফাউন্ডেশনঃ ১৫৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আব্বাস ইবনু ‘আবদুল মুত্তালিব (রাঃ) আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট হাজীদের পানি পান করানোর উদ্দেশে মিনায় অবস্থানের রাতগুলো মক্কা্য় কাটানোর অনুমতি চাইলে তিনি তাঁকে অনুমতি দেন। (১৬৪৩, ১৬৪৪, ১৬৪৫, মুসলিম ১৫/৬০, হাঃ ১৩১৫, আহমাদ ৬৭০৭) (আধুনিক প্রকাশনীঃ ১৫২৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1634</td></tr><tr><td>Arabic No</td><td>1634</td></tr><tr><td>Reference</td><td>Book 25 Hadith 117</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Abu Al Aswad] telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அப்பாஸ் பின் அப்தில் முத்தலிப் (ரலி) அவர்கள், (ஹாஜிகளுக்குத்) தண்ணீர் விநியோகிப்பதற்காக ‘மினா’வுடைய (துல்ஹஜ் 11,12,13 ஆகிய) இரவுகளில் மக்காவில் தங்கிக்கொள்ள அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் அனுமதி கேட்டார்கள். அவர்களுக்கு அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் அனுமதி யளித்தார்கள். அத்தியாயம் : 25
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அப்பாஸ் பின் அப்தில் முத்தலிப் (ரலி) அவர்கள், (ஹாஜிகளுக்குத்) தண்ணீர் விநியோகிப்பதற்காக ‘மினா’வுடைய (துல்ஹஜ் 11,12,13 ஆகிய) இரவுகளில் மக்காவில் தங்கிக்கொள்ள அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் அனுமதி கேட்டார்கள். அவர்களுக்கு அல்லாஹ் வின் தூதர் (ஸல்) அவர்கள் அனுமதி யளித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1634</td></tr><tr><td>Arabic No</td><td>1634</td></tr><tr><td>Reference</td><td>Book 25 Hadith 117</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Abu Al Aswad] telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a. şöyle demiştir: "Abbas İbn Abdülmuttalib, Mina gecelerinde, hacılara su verme hizmetinde bulunmak amacıyla Mekke'de gecelemek için Hz.Nebi'den izin istemiş, Efendimiz Sallallahu Aleyhi ve Sellem de ona bu konuda izin vermişti.” Tekrar: 1743, 1744, 1745
+İbn Ömer r.a. şöyle demiştir: "Abbas İbn Abdülmuttalib, Mina gecelerinde, hacılara su verme hizmetinde bulunmak amacıyla Mekke'de gecelemek için Hz.Nebi'den izin istemiş, Efendimiz Sallallahu Aleyhi ve Sellem de ona bu konuda izin vermişti.” Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1634</td></tr><tr><td>Arabic No</td><td>1634</td></tr><tr><td>Reference</td><td>Book 25 Hadith 117</td></tr></tbody></table></div>
 

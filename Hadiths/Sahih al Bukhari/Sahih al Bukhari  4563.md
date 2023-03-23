@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-بَاب قَوْلِهِ : ৬৫/৩/১২. অধ্যায়: আল্লাহর বাণীঃ (اَلَّذِيْنَ اسْتَجَابُوْا لِلهِ وَالرَّسُوْلِ مِنْمبَعْدِ مَآ أَصَابَهُمُ الْقَرْحُ ط لِلَّذِيْنَ أَحْسَنُوْا مِنْهُمْ وَاتَّقَوْا أَجْرٌ عَظِيْمٌ ج) (الْقَرْحُ) الْجِرَاحُ (اسْتَجَابُوْا) أَجَابُوْا : يَسْتَجِيْبُ يُجِيْبُ. আহত হওয়ার পরও যারা আল্লাহ ও রাসূলের ডাকে সাড়া দেয়, তাদের মধ্যে যারা ভাল কাজ করে এবং তাক্বওয়া অবলম্বন করে, তাদের জন্য রয়েছে বিরাট পুরস্কার- (সূরাহ আলু ‘ইমরান ৩/১৭২)। الْقَرْحُ -যখম, الْقَرْحُ -ডাকে সাড়া দিন, يَسْتَجِيْبُ -সাড়া দেয়। ৪৫৬৩. ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। حَسْبُنَا اللهُ وَنِعْمَ الْوَكِيْلُ কথাটি ইবরাহীম (আঃ) বলেছিলেন, যখন তিনি আগুনে নিক্ষিপ্ত হয়েছিলেন। আর মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছিলেন যখন লোকেরা বলল, ‘‘নিশ্চয় তোমাদের বিরুদ্ধে কাফিররা বিরাট সাজ-সরঞ্জামের সমাবেশ করেছে, সুতরাং তোমরা তাদের ভয় কর। এ কথা তাদের ঈমানের তেজ বাড়িয়ে দিল এবং তারা বললঃ আমাদের জন্য আল্লাহই যথেষ্ট এবং তিনিই উত্তম কার্যনির্বাহক’’- (সূরাহ আলে ইমরান ৩/১৭৩)। [৪৫৬৪] (আধুনিক প্রকাশনীঃ ৪২০২, ইসলামিক ফাউন্ডেশনঃ ৪২০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+بَاب قَوْلِهِ : ৬৫/৩/১২. অধ্যায়: আল্লাহর বাণীঃ (اَلَّذِيْنَ اسْتَجَابُوْا لِلهِ وَالرَّسُوْلِ مِنْمبَعْدِ مَآ أَصَابَهُمُ الْقَرْحُ ط لِلَّذِيْنَ أَحْسَنُوْا مِنْهُمْ وَاتَّقَوْا أَجْرٌ عَظِيْمٌ ج) (الْقَرْحُ) الْجِرَاحُ (اسْتَجَابُوْا) أَجَابُوْا : يَسْتَجِيْبُ يُجِيْبُ. আহত হওয়ার পরও যারা আল্লাহ ও রাসূলের ডাকে সাড়া দেয়, তাদের মধ্যে যারা ভাল কাজ করে এবং তাক্বওয়া অবলম্বন করে, তাদের জন্য রয়েছে বিরাট পুরস্কার- (সূরাহ আলু ‘ইমরান ৩/১৭২)। الْقَرْحُ -যখম, الْقَرْحُ -ডাকে সাড়া দিন, يَسْتَجِيْبُ -সাড়া দেয়। ৪৫৬৩. ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। حَسْبُنَا اللهُ وَنِعْمَ الْوَكِيْلُ কথাটি ইবরাহীম (আঃ) বলেছিলেন, যখন তিনি আগুনে নিক্ষিপ্ত হয়েছিলেন। আর মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছিলেন যখন লোকেরা বলল, ‘‘নিশ্চয় তোমাদের বিরুদ্ধে কাফিররা বিরাট সাজ-সরঞ্জামের সমাবেশ করেছে, সুতরাং তোমরা তাদের ভয় কর। এ কথা তাদের ঈমানের তেজ বাড়িয়ে দিল এবং তারা বললঃ আমাদের জন্য আল্লাহই যথেষ্ট এবং তিনিই উত্তম কার্যনির্বাহক’’- (সূরাহ আলে ইমরান ৩/১৭৩)। [৪৫৬৪] (আধুনিক প্রকাশনীঃ ৪২০২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4563</td></tr><tr><td>Arabic No</td><td>4563</td></tr><tr><td>Reference</td><td>Book 65 Hadith 85</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Abbas:'Allah is Sufficient for us and He Is the Best Disposer of affairs," was said by Abraham when he was thrown into the fire; and it was said by Muhammad when they (i.e. hypocrites) said, "A great army is gathering against you, therefore, fear them," but it only increased their faith and they said: "Allah is Sufficient for us, and He is the Best Disposer (of affairs, for us)." (3.173)
+Narrated Ibn 'Abbas:'Allah is Sufficient for us and He Is the Best Disposer of affairs," was said by Abraham when he was thrown into the fire; and it was said by Muhammad when they (i.e. hypocrites) said, "A great army is gathering against you, therefore, fear them," but it only increased their faith and they said: "Allah is Sufficient for us, and He is the Best Disposer (of affairs, for us)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4563</td></tr><tr><td>Arabic No</td><td>4563</td></tr><tr><td>Reference</td><td>Book 65 Hadith 85</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] aku melihatnya berkata; Telah m
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (இறைத்தூதர்) இப்ராஹீம் (அலை) அவர்கள் தீயில் தூக்கி எறியப்பட்டபோது, “அல்லாஹ் எங்களுக்குப் போதுமானவன்; அவனே பொறுப்பேற்றுக்கொள்வோரில் சிறந்தவன்” என்று கூறினார்கள். இதே வார்த்தைகளை முஹம்மத் (ஸல்) அவர்கள், “நிச்சயமாக (மீண்டும் தாக்குதல் தொடுக்க எதிர்த்தரப்பு) மக்கள் உங்களுக்கெதிராக அணிதிரண்டுள்ளனர்; எனவே, அவர்களுக்கு அஞ்சுங்கள்” என மக்கள் (சிலர்) கூறியபோது சொன்னார்கள். இ(வ்வாறு அச்சுறுத்திய)து அவர்களுக்கு இறைநம்பிக்கையை மேலும் அதிகமாக்கியது. “எங்களுக்கு அல்லாஹ் போதுமானவன்; அவனே பொறுப் பேற்றுக்கொள்வோரில் சிறந்தவன்” என்றும் அவர்கள் கூறினார்கள்.23 அத்தியாயம் : 65
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (இறைத்தூதர்) இப்ராஹீம் (அலை) அவர்கள் தீயில் தூக்கி எறியப்பட்டபோது, “அல்லாஹ் எங்களுக்குப் போதுமானவன்; அவனே பொறுப்பேற்றுக்கொள்வோரில் சிறந்தவன்” என்று கூறினார்கள். இதே வார்த்தைகளை முஹம்மத் (ஸல்) அவர்கள், “நிச்சயமாக (மீண்டும் தாக்குதல் தொடுக்க எதிர்த்தரப்பு) மக்கள் உங்களுக்கெதிராக அணிதிரண்டுள்ளனர்; எனவே, அவர்களுக்கு அஞ்சுங்கள்” என மக்கள் (சிலர்) கூறியபோது சொன்னார்கள். இ(வ்வாறு அச்சுறுத்திய)து அவர்களுக்கு இறைநம்பிக்கையை மேலும் அதிகமாக்கியது. “எங்களுக்கு அல்லாஹ் போதுமானவன்; அவனே பொறுப் பேற்றுக்கொள்வோரில் சிறந்தவன்” என்றும் அவர்கள் கூறினார்கள்.23 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4563</td></tr><tr><td>Arabic No</td><td>4563</td></tr><tr><td>Reference</td><td>Book 65 Hadith 85</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিনী উম্মু সালামাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি রৌপ্য পাত্রে পান করে সে তো তার উদরে জাহান্নামের অগ্নি প্রবিষ্ট করায়। [মুসলিম ৩৭/১, হাঃ ২০৬৫, আহমাদ ২৬৬৪৪] (আধুনিক প্রকাশনী- ৫২২৩, ইসলামিক ফাউন্ডেশন- ৫১১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিনী উম্মু সালামাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি রৌপ্য পাত্রে পান করে সে তো তার উদরে জাহান্নামের অগ্নি প্রবিষ্ট করায়। [মুসলিম ৩৭/১, হাঃ ২০৬৫, আহমাদ ২৬৬৪৪] (আধুনিক প্রকাশনী- ৫২২৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5634</td></tr><tr><td>Arabic No</td><td>5634</td></tr><tr><td>Reference</td><td>Book 74 Hadith 60</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளி (அல்லது தங்க)ப் பாத்திரத்தில் அருந்துகின்றவன் தனது வயிற்றில் மிடறுமிடறாக நரக நெருப்பையே விழுங்குகின்றான். இதை நபி (ஸல்) அவர்களின் துணைவியார் உம்மு சலமா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 74
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: வெள்ளி (அல்லது தங்க)ப் பாத்திரத்தில் அருந்துகின்றவன் தனது வயிற்றில் மிடறுமிடறாக நரக நெருப்பையே விழுங்குகின்றான். இதை நபி (ஸல்) அவர்களின் துணைவியார் உம்மு சலமா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5634</td></tr><tr><td>Arabic No</td><td>5634</td></tr><tr><td>Reference</td><td>Book 74 Hadith 60</td></tr></tbody></table></div>
 

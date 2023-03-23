@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ওয়ালীদ ইবন কাছীর (রহঃ) ..... আবূ দারদা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মীযানে (পাল্লায়) ওযনের সময় সদাচারের চাইতে অধিক ওযনবিশিষ্ট আর কিছু হবে না।
+। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মীযানের পাল্লায় সচ্চরিত্রের চেয়ে অধিক ভারী আর কিছুই নেই।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4799</td></tr><tr><td>Arabic No</td><td>4799</td></tr><tr><td>Reference</td><td>Book 43 Hadith 27</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] dan [Hafsh bin Umar]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu'd Derdâ (r.a.)'den (rivayet edildiğine göre) Nebi (s.a.v.) (şöyle) buyurmuştur: "Terazide güzel huydan daha ağır basacak olan bir şey yoktur." (Bu hadisin ravilerinden) Ebul Velid (et-Tayâlisî, bu hadisi el Kasım b: Ebi Bezze'den) sema' yoluyla, yani ben, Ata el Keyharanî'yi (şöyle şöyle derken) işittim, (şeklinde) rivayet etti. (Diğer râvi Hafs b. Ömer ise el-Kasım'dan an'ane tarikiyle rivayet etti.) Ebu Dâvud der ki: (Sözü geçen) o (Ata el Keyharhanf den maksat) Ata İbn Yakub'dur ve ibrahim Ibn Nafi'nin dayısıdır. Keyharânî ve Gevharâ-nî (nisbeileriyle) anılır. Diğer tahric edenler: Tirmizî, Birr; Ahmed b. Hanbel, VI, 442, 446, 448, 451
+Ebu'd Derdâ (r.a.)'den (rivayet edildiğine göre) Nebi (s.a.v.) (şöyle) buyurmuştur: "Terazide güzel huydan daha ağır basacak olan bir şey yoktur." (Bu hadisin ravilerinden) Ebul Velid (et-Tayâlisî, bu hadisi el Kasım b: Ebi Bezze'den) sema' yoluyla, yani ben, Ata el Keyharanî'yi (şöyle şöyle derken) işittim, (şeklinde) rivayet etti. (Diğer râvi Hafs b. Ömer ise el-Kasım'dan an'ane tarikiyle rivayet etti.) Ebu Dâvud der ki: (Sözü geçen) o (Ata el Keyharhanf den maksat) Ata İbn Yakub'dur ve ibrahim Ibn Nafi'nin dayısıdır. Keyharânî ve Gevharâ-nî (nisbeileriyle) anılır. Diğer tahric edenler: Tirmizî, Birr; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4799</td></tr><tr><td>Arabic No</td><td>4799</td></tr><tr><td>Reference</td><td>Book 43 Hadith 27</td></tr></tbody></table></div>
 

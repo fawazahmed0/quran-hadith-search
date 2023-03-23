@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭৮৫, আন্তর্জাতিক নাম্বারঃ ৪০২ ৭৮৫-(৫৭/...) আবদ ইবনু হুমায়দ এর সনদে মানসূর হতে একই হাদীস অবিকল বর্ণিত হয়েছে। তবে এ বর্ণনায় শেষ অংশ হচ্ছেঃ অতঃপর সালাত আদায়কারী তার ইচ্ছানুযায়ী অথবা নিজের পছন্দমত যে কোন দু’আ পড়তে পারে। (ইসলামিক ফাউন্ডেশনঃ ৭৮২, ইসলামিক সেন্টারঃ ৭৯৪)
+আবদ ইবনু হুমায়দ এর সনদে মানসূর হতে একই হাদীস অবিকল বর্ণিত হয়েছে। তবে এ বর্ণনায় শেষ অংশ হচ্ছেঃ অতঃপর সালাত আদায়কারী তার ইচ্ছানুযায়ী অথবা নিজের পছন্দমত যে কোন দু’আ পড়তে পারে। (ইসলামিক ফাউন্ডেশনঃ ৭৮২, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>899</td></tr><tr><td>Arabic No</td><td>402.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 61</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ This hadith has been narrated on the authority of Mansur with the same chain of 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்களிடமிருந்தே மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில் பிறகு நீங்கள் நாடியவற்றை அல்லது நீங்கள் விரும்பியவற்றை (அல்லாஹ்விடம்) கோரிப் பிரார்த்திக்கலாம் என்று (ஐயப்பாட்டுடன்) இடம்பெற்றுள்ளது. அத்தியாயம் : 4
+மேற்கண்ட ஹதீஸ் அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்களிடமிருந்தே மற்றோர் அறிவிப்பாளர்தொடர் வழியாகவும் வந்துள்ளது. அதில் பிறகு நீங்கள் நாடியவற்றை அல்லது நீங்கள் விரும்பியவற்றை (அல்லாஹ்விடம்) கோரிப் பிரார்த்திக்கலாம் என்று (ஐயப்பாட்டுடன்) இடம்பெற்றுள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>899</td></tr><tr><td>Arabic No</td><td>402.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 61</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাসীর (রহঃ) ..... জাবির (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুযদালিফা হতে শান্তভাবে প্রত্যাবর্তন করেন। অতঃপর তিনি তাদেরকে (সাথীদেরকে) ছোট প্রস্তর খন্ড নিক্ষেপ করতে নির্দেশ দেন এবং ওয়াদী মুহাসসির দ্রুত অতিত্রূম করতে বলেন।
+। জাবির (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুযদালিফা থেকে শান্তভাবে রওয়ানা হলেন এবং লোকদেরকে ছোট কংকর মারার নির্দেশ দিলেন। তিনি দ্রুত গতিতে মুহাসসির উপত্যকা অতিক্রম করেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1944</td></tr><tr><td>Arabic No</td><td>1944</td></tr><tr><td>Reference</td><td>Book 11 Hadith 224</td></tr></tbody></table></div>
 

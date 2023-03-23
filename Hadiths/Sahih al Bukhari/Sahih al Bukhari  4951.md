@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-تُقْرَأُ بِالتَّشْدِيْدِ وَالتَّخْفِيْفِ بِمَعْنًى وَاحِدٍ مَا تَرَكَكَ رَبُّكَ وَقَالَ ابْنُ عَبَّاسٍ مَا تَرَكَكَ وَمَا أَبْغَضَكَ. وَدَّعَكَ শব্দটির দাল অক্ষরটিতে তাশদীদ ও তাশদীদ ছাড়া উভয়ই পড়া যায়। উভয়টির একইঃ ‘‘তোমাকে রব পরিত্যাগ করেননি।’’ ইবনু ‘আব্বাস (রাঃ) বলেন, এর অর্থ হচ্ছে, তোমাকে তোমার রব ত্যাগ করেননি এবং তোমার প্রতি মনোক্ষুণ্ণও হননি। ৪৯৫১. জুনদুব বাজালী (রাঃ) হতে বর্ণিত। তিনি বলেন, এক মহিলা এসে বলল, আমি দেখছি, আপনার সঙ্গী আপনার কাছে ওয়াহী নিয়ে আসতে দেরী করে ফেলছে। তখনই অবতীর্ণ হলঃ তোমার প্রতিপালক তোমাকে ত্যাগ করেননি এবং তোমার প্রতি মনোক্ষুণ্ণও হননি। [১১২৪] (আধুনিক প্রকাশনীঃ ৪৫৮৩, ইসলামিক ফাউন্ডেশনঃ ৪৫৮৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+تُقْرَأُ بِالتَّشْدِيْدِ وَالتَّخْفِيْفِ بِمَعْنًى وَاحِدٍ مَا تَرَكَكَ رَبُّكَ وَقَالَ ابْنُ عَبَّاسٍ مَا تَرَكَكَ وَمَا أَبْغَضَكَ. وَدَّعَكَ শব্দটির দাল অক্ষরটিতে তাশদীদ ও তাশদীদ ছাড়া উভয়ই পড়া যায়। উভয়টির একইঃ ‘‘তোমাকে রব পরিত্যাগ করেননি।’’ ইবনু ‘আব্বাস (রাঃ) বলেন, এর অর্থ হচ্ছে, তোমাকে তোমার রব ত্যাগ করেননি এবং তোমার প্রতি মনোক্ষুণ্ণও হননি। ৪৯৫১. জুনদুব বাজালী (রাঃ) হতে বর্ণিত। তিনি বলেন, এক মহিলা এসে বলল, আমি দেখছি, আপনার সঙ্গী আপনার কাছে ওয়াহী নিয়ে আসতে দেরী করে ফেলছে। তখনই অবতীর্ণ হলঃ তোমার প্রতিপালক তোমাকে ত্যাগ করেননি এবং তোমার প্রতি মনোক্ষুণ্ণও হননি। [১১২৪] (আধুনিক প্রকাশনীঃ ৪৫৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 65 Hadith 473</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Jundub Al-Bajali:A lady said, "O Allah's Messenger (ﷺ)! I see that your friend has delayed. (in conveying Qur'an) to you." So there was revealed: 'Your Lord (O Muhammad) has neither forsaken you, not hated you.' (93.1-3)
+Narrated Jundub Al-Bajali:A lady said, "O Allah's Messenger (ﷺ)! I see that your friend has delayed. (in conveying Qur'an) to you." So there was revealed: 'Your Lord (O Muhammad) has neither forsaken you, not hated you
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 65 Hadith 473</td></tr></tbody></table></div>
 
@@ -46,7 +46,7 @@ Narrated Jundub Al-Bajali:A lady said, "O Allah's Messenger (ﷺ)! I see that yo
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Muhammad bin Ja'far Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Al Aswad bin Qais] ia berkata; Aku mendengar [Jundub Al Bajali] berkata; Seorang wanita berkata, "Wahai Rasulullah, tidaklah aku melihat Syetanmu itu, kecuali ia telah meninggalkanmu." Maka turunlah surat: "MAA WADDA'AKA RABBUKA WAMAA QALAA (Rabb-mu tidaklah meninggalkanmu tidak pula menelantarkanmu). (QS. Adhdhuha 3)
+Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Muhammad bin Ja'far Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Al Aswad bin Qais] ia berkata; Aku mendengar [Jundub Al Bajali] berkata; Seorang wanita berkata, "Wahai Rasulullah, tidaklah aku melihat Syetanmu itu, kecuali ia telah meninggalkanmu." Maka turunlah surat: "MAA WADDA'AKA RABBUKA WAMAA QALAA (Rabb-mu tidaklah meninggalkanmu tidak pula menelantarkanmu). (QS. Adhdhuha)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 65 Hadith 473</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜுன்துப் பின் அப்தில்லாஹ் அல்பஜலீ (ரலி) அவர்கள் கூறியதாவது: ஒரு பெண், ‘‘அல்லாஹ்வின் தூதரே! தங்கள் நண்பர் (வானவர் ஜிப்ரீல்) தங்களிடம் தாமதமாகத்தான் வந்துள்ளார் என்று நான் கருதுகிறேன்” என்று கூறினார்.4 அப்போதுதான், ‘‘(நபியே!) உம்முடைய இறைவன் உம்மைக் கைவிடவுமில்லை; கோபங்கொள்ளவும் இல்லை” எனும் (93:3ஆவது) இறைவசனம் அருளப்பெற்றது. அத்தியாயம் : 65
+ஜுன்துப் பின் அப்தில்லாஹ் அல்பஜலீ (ரலி) அவர்கள் கூறியதாவது: ஒரு பெண், ‘‘அல்லாஹ்வின் தூதரே! தங்கள் நண்பர் (வானவர் ஜிப்ரீல்) தங்களிடம் தாமதமாகத்தான் வந்துள்ளார் என்று நான் கருதுகிறேன்” என்று கூறினார்.4 அப்போதுதான், ‘‘(நபியே!) உம்முடைய இறைவன் உம்மைக் கைவிடவுமில்லை; கோபங்கொள்ளவும் இல்லை” எனும் (93:3ஆவது) இறைவசனம் அருளப்பெற்றது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 65 Hadith 473</td></tr></tbody></table></div>
 

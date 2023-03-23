@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৬০১। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বন্টনের পূর্বে যে ব্যক্তি গানীমাতের সম্পদ হতে কিছু গ্রহণ করে সে আমাদের দল ভুক্ত নয়। সহীহ, মিশকাত তাহকীক ছানী (২৯৪৭) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ এবং আনাস (রাঃ)-এর রিওয়ায়াত হিসাবে গারীব বলেছেন।
+। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বন্টনের পূর্বে যে ব্যক্তি গানীমাতের সম্পদ হতে কিছু গ্রহণ করে সে আমাদের দল ভুক্ত নয়। সহীহ, মিশকাত তাহকীক ছানী (২৯৪৭) এ হাদীসটিকে আবূ ঈসা হাসান সহীহ এবং আনাস (রাঃ)-এর রিওয়ায়াত হিসাবে গারীব বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1601</td></tr><tr><td>Arabic No</td><td>1601</td></tr><tr><td>Reference</td><td>Book 21 Hadith 64</td></tr></tbody></table></div>
 

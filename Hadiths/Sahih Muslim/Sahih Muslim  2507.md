@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৩৯৭, আন্তর্জাতিক নাম্বারঃ ১০৮০ ২৩৯৭-(১১/...) হাজ্জাজ ইবনু শাইর (রহঃ) ..... ইবনু উমর (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছি, উনত্রিশ দিনেও মাস (পূর্ণ) হয়। (ইসলামিক ফাউন্ডেশন ২৩৭৪, ইসলামীক সেন্টার ২৩৭৫)
+হাজ্জাজ ইবনু শাইর (রহঃ) ..... ইবনু উমর (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছি, উনত্রিশ দিনেও মাস (পূর্ণ) হয়। (ইসলামিক ফাউন্ডেশন ২৩৭৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>1080.10</td></tr><tr><td>Reference</td><td>Book 13 Hadith 13</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepadaku [Hajjaj bin Sya'ir] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மாதம் என்பது இருபத்தொன்பது நாட்களா(கவும் இருக்)கும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 13
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மாதம் என்பது இருபத்தொன்பது நாட்களா(கவும் இருக்)கும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>1080.10</td></tr><tr><td>Reference</td><td>Book 13 Hadith 13</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কোন এক যুদ্ধে জনৈকা মহিলাকে নিহত অবস্থায় পাওয়া যায়। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মহিলা ও শিশুদের হত্যা করতে নিষেধ করেন। (৩০১৪) (আধুনিক প্রকাশনীঃ ২৭৯৩, ইসলামিক ফাউন্ডেশনঃ ২৮০৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কোন এক যুদ্ধে জনৈকা মহিলাকে নিহত অবস্থায় পাওয়া যায়। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মহিলা ও শিশুদের হত্যা করতে নিষেধ করেন। (৩০১৪) (আধুনিক প্রকাশনীঃ ২৭৯৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3015</td></tr><tr><td>Arabic No</td><td>3015</td></tr><tr><td>Reference</td><td>Book 56 Hadith 224</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Ishaq bin Ibrahim] berkata; Aku berkata kepada [Abu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கலந்துகொண்ட அறப்போர்களில் ஒன்றில் பெண்ணொருத்தி கொல்லப்பட்ட நிலையில் காணப்பட்டாள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பெண்களையும் குழந்தைகளையும் கொல்வதைத் தடை செய்தார்கள். அத்தியாயம் : 56
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கலந்துகொண்ட அறப்போர்களில் ஒன்றில் பெண்ணொருத்தி கொல்லப்பட்ட நிலையில் காணப்பட்டாள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பெண்களையும் குழந்தைகளையும் கொல்வதைத் தடை செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3015</td></tr><tr><td>Arabic No</td><td>3015</td></tr><tr><td>Reference</td><td>Book 56 Hadith 224</td></tr></tbody></table></div>
 

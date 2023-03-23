@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০/১০। সাওবান (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ক্বিয়ামাত (কিয়ামত) পর্যন্ত আমার উম্মাতের একটি দল সত্যের উপর স্থির থাকবে এবং সাহায্যপ্রাপ্ত হতে থাকবে। মহামহিম আল্লাহ্‌র নির্দেশ (ক্বিয়ামাত (কিয়ামত)) আসা পর্যন্ত তাদের বিরুদ্ধবাদীরা তাদের কোন ক্ষতি করতে পারবে না।
+। সাওবান (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ক্বিয়ামাত (কিয়ামত) পর্যন্ত আমার উম্মাতের একটি দল সত্যের উপর স্থির থাকবে এবং সাহায্যপ্রাপ্ত হতে থাকবে। মহামহিম আল্লাহ্‌র নির্দেশ (ক্বিয়ামাত (কিয়ামত)) আসা পর্যন্ত তাদের বিরুদ্ধবাদীরা তাদের কোন ক্ষতি করতে পারবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Arabic No</td><td>10</td></tr><tr><td>Reference</td><td>Book 0 Hadith 10</td></tr></tbody></table></div>
 

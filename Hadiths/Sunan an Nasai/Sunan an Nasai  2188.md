@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। আব্দুল্লাহ ইবনু সাঈদ আশাজ্জ (রহঃ) ... সিলাহ (রহঃ) থেকে বর্ণিত। তিনি বলেন যে, আমরা আম্মার (রাঃ)-এর কাছে ছিলাম, এমন সময়ে একটি ভুনা বকরী নিয়ে আসা হল। তিনি বললেন খাও। তখন উপস্থিত লোকদের একজন পাশে সরে গেলেন এবং বললেন যে, আমি সাওম (সিয়াম/রোজা/রোযা) পালন করছি। তখন আম্মার (রাঃ) বললেনঃ যে ব্যক্তি সন্দেহযুক্ত দিনে সাওম (সিয়াম/রোজা/রোযা) পালন করল সে আবূল কাসিম [রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম]-এর অবাধ্যতা করল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2188</td></tr><tr><td>Arabic No</td><td>2188</td></tr><tr><td>Reference</td><td>Book 22 Hadith 99</td></tr></tbody></table></div>
 

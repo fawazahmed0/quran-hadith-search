@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৮৯, আন্তর্জাতিক নাম্বারঃ ৩০৬ ৫৮৯-(২৩/৩০৬) মুহাম্মাদ ইবনু আবূ বাকর আল মুকাদ্দামী ও যুহায়র ইবনু হারব (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে বর্ণিত। একদিন উমর (রাযিঃ) জিজ্ঞেস করলেন, ইয়া রাসূলাল্লাহ! আমাদের কেউ নাপাক অবস্থায় কি ঘুমাতে পারবে? তিনি বললেনঃ হ্যাঁ, যখন সে ওযু করে নিবে। (ইসলামিক ফাউন্ডেশনঃ ৫৯৩, ইসলামিক সেন্টারঃ ৬০৮)
+মুহাম্মাদ ইবনু আবূ বাকর আল মুকাদ্দামী ও যুহায়র ইবনু হারব (রহঃ) ..... ইবনু উমার (রাযিঃ) থেকে বর্ণিত। একদিন উমর (রাযিঃ) জিজ্ঞেস করলেন, ইয়া রাসূলাল্লাহ! আমাদের কেউ নাপাক অবস্থায় কি ঘুমাতে পারবে? তিনি বললেনঃ হ্যাঁ, যখন সে ওযু করে নিবে। (ইসলামিক ফাউন্ডেশনঃ ৫৯৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>702</td></tr><tr><td>Arabic No</td><td>306.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 24</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Dan telah menceritakan kepada kami [Muhammad bin Abu Bakar al-Muqaddami] dan [Zu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பெருந்துடக்கு எற்பட்டு (குளியல் கடமையாகி) இருக்கும்போது உண்ணவோ உறங்கவோ விரும்பினால் (முன்னதாக) தொழுகைக்கு அங்கத் தூய்மை (உளூ) செய்வதைப் போன்று அங்கத் தூய்மை செய்துகொள்வார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. - மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது அத்தியாயம் : 3
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பெருந்துடக்கு எற்பட்டு (குளியல் கடமையாகி) இருக்கும்போது உண்ணவோ உறங்கவோ விரும்பினால் (முன்னதாக) தொழுகைக்கு அங்கத் தூய்மை (உளூ) செய்வதைப் போன்று அங்கத் தூய்மை செய்துகொள்வார்கள். இந்த ஹதீஸ் மூன்று அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. - மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>702</td></tr><tr><td>Arabic No</td><td>306.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 24</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Muhammad bin Abu Bakar al-Muqaddami] dan [Zu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bana Muhammed b. Ebî Bekr el-Mukaddemi İle Züheyr b. Harb da rivayet ettiler. Dedilerki: Bize Yahya -ki İbni Saîd'dir- Ubeydullah'tan rivayet etti H. Bize Ebu Bekr b. Ebî Şeybe ile İbni Nümeyr dahî rivayet ettiler. Lafız onlarındır. İbni Nümeyr: Bize babam rivayet etti dedi. Ebu Bekr ise: Bize Ebu Usame rivayet etti dedi. Her ikisi: Bize Ubeydullah, Nafi'den, o da İbni Ömer'den, o da (babası) Ömer'den naklen rivayet etti dediler. Ömer: Ey Allah'ın Resulü bizden bir kimse cünüp olduğu halde uyuyabilir mi, dedi. Allah Resulü: ''Abdest alması halinde evet" buyurdu. Diğer tahric: Nesai, 259; Tirmizi, 120
+Bana Muhammed b. Ebî Bekr el-Mukaddemi İle Züheyr b. Harb da rivayet ettiler. Dedilerki: Bize Yahya -ki İbni Saîd'dir- Ubeydullah'tan rivayet etti H. Bize Ebu Bekr b. Ebî Şeybe ile İbni Nümeyr dahî rivayet ettiler. Lafız onlarındır. İbni Nümeyr: Bize babam rivayet etti dedi. Ebu Bekr ise: Bize Ebu Usame rivayet etti dedi. Her ikisi: Bize Ubeydullah, Nafi'den, o da İbni Ömer'den, o da (babası) Ömer'den naklen rivayet etti dediler. Ömer: Ey Allah'ın Resulü bizden bir kimse cünüp olduğu halde uyuyabilir mi, dedi. Allah Resulü: ''Abdest alması halinde evet" buyurdu. Diğer tahric: Nesai, 259; Tirmizi
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>702</td></tr><tr><td>Arabic No</td><td>306.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 24</td></tr></tbody></table></div>
 

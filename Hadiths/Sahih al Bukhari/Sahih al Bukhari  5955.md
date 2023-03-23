@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক সফর থেকে ফিরে আসলেন। সে সময় আমি নকশাওয়ালা (প্রাণীর) ছবিযুক্ত কাপড় দিয়ে পর্দা লটকিয়ে ছিলাম। আমাকে তিনি তা খুলে ফেলার নির্দেশ দিলেন। তখন আমি খুলে ফেললাম। [২৪৭৯] (আধুনিক প্রকাশনী- ৫৫২৩, ইসলামিক ফাউন্ডেশন- ৫৪১৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক সফর থেকে ফিরে আসলেন। সে সময় আমি নকশাওয়ালা (প্রাণীর) ছবিযুক্ত কাপড় দিয়ে পর্দা লটকিয়ে ছিলাম। আমাকে তিনি তা খুলে ফেলার নির্দেশ দিলেন। তখন আমি খুলে ফেললাম। [২৪৭৯] (আধুনিক প্রকাশনী- ৫৫২৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5955</td></tr><tr><td>Arabic No</td><td>5955</td></tr><tr><td>Reference</td><td>Book 77 Hadith 171</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdull
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு பயணத்திலிருந்து வந்தார்கள். நான் குஞ்சம் வைத்த கெட்டித் திரைச் சீலையொன்றை (வீட்டில்) தொங்கவிட்டிருந்தேன். அதில் உருவச் சித்திரங்கள் இருந்தன. நபி (ஸல்) அவர்கள் அதைக் கழற்றிவிடும்படி என்னைப் பணித்தார்கள். ஆகவே, நான் அதைக் கழற்றிவிட்டேன். அத்தியாயம் : 77
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு பயணத்திலிருந்து வந்தார்கள். நான் குஞ்சம் வைத்த கெட்டித் திரைச் சீலையொன்றை (வீட்டில்) தொங்கவிட்டிருந்தேன். அதில் உருவச் சித்திரங்கள் இருந்தன. நபி (ஸல்) அவர்கள் அதைக் கழற்றிவிடும்படி என்னைப் பணித்தார்கள். ஆகவே, நான் அதைக் கழற்றிவிட்டேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5955</td></tr><tr><td>Arabic No</td><td>5955</td></tr><tr><td>Reference</td><td>Book 77 Hadith 171</td></tr></tbody></table></div>
 

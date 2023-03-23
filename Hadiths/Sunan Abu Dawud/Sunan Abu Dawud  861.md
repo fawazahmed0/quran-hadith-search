@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্বাদ ইবনু মূসা ..... রিফাআ ইবনু রাফে (রাঃ) রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম হতে উপরোক্ত হাদীছ বর্ণনা করেন। তিনি বলেনঃ মহান আল্লাহর নির্দেশ অনুযায়ী উযূ (ওজু/অজু/অযু) কর, অতঃপর কলেমায়ে শাহাদাত পাঠ কর। স্থিরভাবে দন্ডায়মান হয়ে “তাকবীরে তাহরীমা” বলার পর কুরআনের জানা অংশ পাঠ করবে, অন্যথায় আলহামদু লিল্লাহ আল্লাহু আকবার ওয়া লা ইলাহা ইল্লাল্লাহু পাঠ করবে। উক্ত বর্ণনায় আরো আছে, তিনি বলেনঃ যদি এ থেকে তুমি কিছু বাদ দাও, তবে তোমার নামায ক্রটিপূর্ণ করলে।
+। রিফা‘আহ ইবনু রাফি‘ (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উপরোক্ত হাদীস বর্ণনা করেন। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেনঃ মহান আল্লাহর নির্দেশ অনুযায়ী উযূ করো, তারপর শাহাদাত পাঠ করো। তারপর দাঁড়িয়ে আল্লাহু আকবার বলার পর কুরআনের মুখস্ত অংশ পাঠ করো। অন্যথায় আলহামদুলিল্লাহ, আল্লাহু আকবার ওয়া লা ইলাহা ইল্লাল্লাহ পাঠ করো। তাতে আরো রয়েছেঃ এর থেকে কিছু বাদ দিলে তুমি তোমার সালাতকে ত্রুটিপূর্ণ করলে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>861</td></tr><tr><td>Arabic No</td><td>861</td></tr><tr><td>Reference</td><td>Book 2 Hadith 471</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Rifa’ah b. Rafi has also narrated this tradition through a different chain fro
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Rifa'a b. Rafi'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şu (bir evvelki) (860.) hadiste (şöyle) buyurmuştur: "Allah'ın sana emrettiği şekilde abdest al, sonra ezan oku, (veya: Abdestten sonra "eşhedu en la ilahe illallah..." sonra kaamet getir, sonra tekbir al. Eğer ezberinde Kur’an varsa oku, yoksa "el hamdu lillah, Allahu ekber la ilahe illallah" de. Eğer bunlardan birini yapmayacak olursan namazını eksik kılmış olursun." Diğer tahric: Tirmizî, mevakît; Nesaî, tatbik, sehv, Ahmed b. Hanbel IV, 340)
+Rifa'a b. Rafi'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şu (bir evvelki) (860.) hadiste (şöyle) buyurmuştur: "Allah'ın sana emrettiği şekilde abdest al, sonra ezan oku, (veya: Abdestten sonra "eşhedu en la ilahe illallah..." sonra kaamet getir, sonra tekbir al. Eğer ezberinde Kur’an varsa oku, yoksa "el hamdu lillah, Allahu ekber la ilahe illallah" de. Eğer bunlardan birini yapmayacak olursan namazını eksik kılmış olursun." Diğer tahric: Tirmizî, mevakît; Nesaî, tatbik, sehv, Ahmed b. Hanbel IV)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>861</td></tr><tr><td>Arabic No</td><td>861</td></tr><tr><td>Reference</td><td>Book 2 Hadith 471</td></tr></tbody></table></div>
 

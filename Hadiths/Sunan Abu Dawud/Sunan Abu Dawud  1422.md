@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুর রহমান ইবনুল মোবারক (রহঃ) .... আবু আয়্যূব আনসারী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ বিতিরের নামায প্রত্যেক মুসলিমের জন্য হক। যে ব্যক্তি তাকে পাঁচ রাকাত আদায় করতে চায়, সে পাঁচ রাকাত আদায় করবে; যে ব্যক্তি তিন রাকাত আদায়ের ইচ্ছা করে, সে ঐরূপ করবে এবং যে ব্যক্তি এক রাকাত আদায় করতে চায়, সে এক রাকাত আদায় করবে। (নাসাঈ, ইবন মাজা)।
+। আবূ আইয়ূব আল-আনসারী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক মুসলিমের উপর বিতর সালাত অপরিহার্য। সুতরাং কেউ ইচ্ছে হলে পাঁচ রাক‘আত আদায় করবে, কেউ তিন রাক‘আত আদায় করতে চাইলে সে তাই করবে এবং কেউ এক রাক‘আত বিতর আদায় করতে চাইলে সে এক রাক‘আত আদায় করবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 8 Hadith 7</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনু রাফি ও আল ফাযল ইবনু সাহল আল আ'রাজ (রহঃ) ..... ইবনু উমার (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করে বলেন, অপরিচিতের ন্যায় ইসলাম শুরু হয়েছিল, অচিরেই তা আবার অপরিচিত অবস্থায় ফিরে যাবে। সাপ যেমন সংকুচিত হয়ে তার গর্তে প্রবেশ করে তদ্রুপ ইসলামও দুই মসজিদের মধ্যে সীমাবদ্ধ হয়ে যাবে*। (ইসলামিক ফাউন্ডেশনঃ ২৭১, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>373</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 280</td></tr></tbody></table></div>
 

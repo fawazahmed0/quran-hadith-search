@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘লাবা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁতওয়ালা যাবতীয় হিংস্র জন্তু খেতে নিষেধ করেছেন। যুহরী থেকে ইউনুস, মা’মার ইবনু উয়াইনা ও মাজিশূন এ রকমই বর্ণনা করেছেন। [৫৭৮০, ৫৭৮১] (আধুনিক প্রকাশনী- ৫১২৩, ইসলামিক ফাউন্ডেশন- ৫০১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘লাবা (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁতওয়ালা যাবতীয় হিংস্র জন্তু খেতে নিষেধ করেছেন। যুহরী থেকে ইউনুস, মা’মার ইবনু উয়াইনা ও মাজিশূন এ রকমই বর্ণনা করেছেন। [৫৭৮০, ৫৭৮১] (আধুনিক প্রকাশনী- ৫১২৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5530</td></tr><tr><td>Arabic No</td><td>5530</td></tr><tr><td>Reference</td><td>Book 72 Hadith 55</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஸஅலபா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (வன) விலங்குகளில் கோரைப் பற்கள் உள்ள எதையும் உண்ணக் கூடாதெனத் தடை விதித்தார்கள்.46 இந்த ஹதீஸ் ஐந்து அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 72
+அபூஸஅலபா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (வன) விலங்குகளில் கோரைப் பற்கள் உள்ள எதையும் உண்ணக் கூடாதெனத் தடை விதித்தார்கள்.46 இந்த ஹதீஸ் ஐந்து அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5530</td></tr><tr><td>Arabic No</td><td>5530</td></tr><tr><td>Reference</td><td>Book 72 Hadith 55</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আনসাররা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বললেন, আমাদের এবং আমাদের ভাই (মুহাজির)-দের মধ্যে খেজুরের বাগান ভাগ করে দিন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, না। তখন তাঁরা (মুহাজিরগণকে) বললেন, আপনারা আমাদের বাগানে কাজ করুন, আমরা আপনাদেরকে ফলে অংশীদার করব। তাঁরা বললেন, আমরা শুনলাম এবং মানলাম। (২৭১৯, ৩৭৮২) (আধুনিক প্রকাশনীঃ ২১৫৭, ইসলামিক ফাউন্ডেশনঃ ২১৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আনসাররা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে বললেন, আমাদের এবং আমাদের ভাই (মুহাজির)-দের মধ্যে খেজুরের বাগান ভাগ করে দিন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, না। তখন তাঁরা (মুহাজিরগণকে) বললেন, আপনারা আমাদের বাগানে কাজ করুন, আমরা আপনাদেরকে ফলে অংশীদার করব। তাঁরা বললেন, আমরা শুনলাম এবং মানলাম। (২৭১৯, ৩৭৮২) (আধুনিক প্রকাশনীঃ ২১৫৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2325</td></tr><tr><td>Arabic No</td><td>2325</td></tr><tr><td>Reference</td><td>Book 41 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Hakam bin Nafi'] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (மதீனாவாசிகளான) அன்சாரி தோழர் கள், நபி (ஸல்) அவர்களிடம், ‘‘எங்களுக் கும் (மக்கா நகரிலிருந்து வந்த) எங்கள் (முஹாஜிர்) சகோதரர்களுக்கும் இடையே எங்கள் பேரீச்சமரங்களைப் பங்கிட்டு விடுங்கள்” என்றனர். அதற்கு நபி (ஸல்) அவர்கள், ‘‘வேண்டாம்” என்று கூறிவிட்டார்கள். இதைக் கேட்ட அன்சாரி தோழர்கள், முஹாஜிர் சகோதரர்களை நோக்கி, ‘‘அப்படியென்றால், எங்கள் தோட்டத்தை எங்களுக்குப் பதிலாக நீங்கள் பராமரித்துவாருங்கள். நாங்கள் உங்களுடன் அதன் வருமானத்தில் பங்கு பெற்றுக்கொள்கிறோம்” என்று கூறினர். அதற்கு முஹாஜிர்கள், ‘‘செவியேற்றோம்; கீழ்ப்படிந்தோம் (அவ்வாறே செய்கிறோம்)” என்று கூறினார்கள்.4 அத்தியாயம் : 41
+அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: (மதீனாவாசிகளான) அன்சாரி தோழர் கள், நபி (ஸல்) அவர்களிடம், ‘‘எங்களுக் கும் (மக்கா நகரிலிருந்து வந்த) எங்கள் (முஹாஜிர்) சகோதரர்களுக்கும் இடையே எங்கள் பேரீச்சமரங்களைப் பங்கிட்டு விடுங்கள்” என்றனர். அதற்கு நபி (ஸல்) அவர்கள், ‘‘வேண்டாம்” என்று கூறிவிட்டார்கள். இதைக் கேட்ட அன்சாரி தோழர்கள், முஹாஜிர் சகோதரர்களை நோக்கி, ‘‘அப்படியென்றால், எங்கள் தோட்டத்தை எங்களுக்குப் பதிலாக நீங்கள் பராமரித்துவாருங்கள். நாங்கள் உங்களுடன் அதன் வருமானத்தில் பங்கு பெற்றுக்கொள்கிறோம்” என்று கூறினர். அதற்கு முஹாஜிர்கள், ‘‘செவியேற்றோம்; கீழ்ப்படிந்தோம் (அவ்வாறே செய்கிறோம்)” என்று கூறினார்கள்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2325</td></tr><tr><td>Arabic No</td><td>2325</td></tr><tr><td>Reference</td><td>Book 41 Hadith 6</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Hakam bin Nafi'] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle anlatır: Ensar, Nebi Sallallahu Aleyhi ve Sellem'e, "(Hurmalıklarımızı) bizimle, (muhacir) kardeşlerimiz arasında paylaştır" dedi. Resulullah Sallallahu Aleyhi ve Sellem onlara, "Hayır" dedi. Bunun üzerine, ensar, "Hurmalıklarla ilgili sulama ve bakımı bize siz yapın. meyvelerini de paylaşalım" dediler. Muhacirler de, "İşittik ve itaat ettik" dediler. Tekrar: 2719, 3782
+Ebu Hureyre r.a. şöyle anlatır: Ensar, Nebi Sallallahu Aleyhi ve Sellem'e, "(Hurmalıklarımızı) bizimle, (muhacir) kardeşlerimiz arasında paylaştır" dedi. Resulullah Sallallahu Aleyhi ve Sellem onlara, "Hayır" dedi. Bunun üzerine, ensar, "Hurmalıklarla ilgili sulama ve bakımı bize siz yapın. meyvelerini de paylaşalım" dediler. Muhacirler de, "İşittik ve itaat ettik" dediler. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2325</td></tr><tr><td>Arabic No</td><td>2325</td></tr><tr><td>Reference</td><td>Book 41 Hadith 6</td></tr></tbody></table></div>
 

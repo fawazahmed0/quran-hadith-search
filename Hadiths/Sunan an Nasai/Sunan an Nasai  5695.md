@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+যিয়াদ ইবন আইয়ুব (রহঃ) ... আবদুল মালিক ইবন নাফি (রহঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। আবু আবদুর রহমান বলেন, আবদুল মালিক ইব্‌ন নাফি (রহঃ) প্রসিদ্ধ নন। তাঁর হাদীস দ্বারা প্রমাণ দেওয়া যায় না। ইবন উমর (রাঃ) থেকে প্রসিদ্ধ বর্ণনা এর বিপরীত, যা নিম্নরূপঃ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5695</td></tr><tr><td>Arabic No</td><td>5695</td></tr><tr><td>Reference</td><td>Book 51 Hadith 157</td></tr></tbody></table></div>
 

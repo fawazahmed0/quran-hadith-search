@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩২০৮। আয়িশাহ্ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যদি ওয়াহীর কোন অংশ গোপনকারী হতেন, তাহলে অবশ্যই তিনি এ আয়াত গোপন করতেন (অনুবাদ): “যখন তুমি সে লোককে বলেছিলে যার প্রতি আল্লাহ তা'আলা এবং তুমি দয়া করেছিলে....."— (সূরা আহযাব ৩৭) শেষ পর্যন্ত। সহীহঃ বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আয়িশাহ্ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যদি ওয়াহীর কোন অংশ গোপনকারী হতেন, তাহলে অবশ্যই তিনি এ আয়াত গোপন করতেন (অনুবাদ): “যখন তুমি সে লোককে বলেছিলে যার প্রতি আল্লাহ তা'আলা এবং তুমি দয়া করেছিলে....."— (সূরা আহযাব ৩৭) শেষ পর্যন্ত। সহীহঃ বুখারী ও মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3208</td></tr><tr><td>Arabic No</td><td>3208</td></tr><tr><td>Reference</td><td>Book 47 Hadith 260</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aishah [may Allah be pleased with her]:"If the Prophet (ﷺ) was to have hidden anything from the Revelation, then he would have hidden this Ayah: 'When you said to him on whom Allah has bestowed grace and you have done a favor (33:37)
+Narrated 'Aishah [may Allah be pleased with her]:"If the Prophet (ﷺ) was to have hidden anything from the Revelation, then he would have hidden this Ayah: 'When you said to him on whom Allah has bestowed grace and you have done a favor (33:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3208</td></tr><tr><td>Arabic No</td><td>3208</td></tr><tr><td>Reference</td><td>Book 47 Hadith 260</td></tr></tbody></table></div>
 

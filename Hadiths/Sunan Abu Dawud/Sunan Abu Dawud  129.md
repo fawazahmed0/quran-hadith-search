@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবনু সাঈদ ..... রুবাই ইবনু আফরা (রাঃ) হতে বর্ণিত তিনি (আবদুল্লাহকে) জানাতে গিয়ে বলেছেন, একদা আমি রাসূলূল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে উযূ (ওজু/অজু/অযু) করতে দেখেছি। রাবী বলেন, তিনি তাঁর মাথা মাসেহ্ করার সময় মাথার সম্মুখ ও পশ্চাদ ভাগসহ কপালের পার্শ্বদেশ এবং উভয় কান একবার মাসেহ্ করেন।
+। ‘আব্দুল্লাহ ইবনু মুহাম্মাদ ইবনু আক্বীল সূত্রে বর্ণিত। তাকে সংবাদ দিয়েছেন রুবাই' বিনতু মু‘আব্বিয ইবনু ‘আফরা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে অযু করতে দেখেছি। তিনি মাথা মাসাহ্ করার সময় মাথার সামনের দিক, পিছন দিক, চোখ ও কানের মধ্যবর্তী স্থান এবং উভয় কান একবার মাসাহ্ করেছেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 1 Hadith 129</td></tr></tbody></table></div>
 

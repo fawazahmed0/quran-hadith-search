@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হারূন ইবন আবদুল্লাহ ..... আবূ ওয়াহব আল-জুশামী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা ঘোড়া প্রতিপালন কর। আর এর কপালের পশম ও ঘোড়ার পশম যত্নসহ মুছে দিও এবং এর গলায় নিদর্শনের মালা (কিলাদা) পরিয়ে দিও। কিন্তু (অন্ধ যুগের বদ রসমী) ধনুক তারের কবজ পরাবে না। (যা বদ নযর হতে বাঁচার আশায় পরানো হতো।)
+। আবূ ওয়াহ্ব আল-জুশামী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা (যুদ্ধের জন্য) ঘোড়া প্রস্তুত রাখবে এবং এর কপালের চুল ও নিতম্বে হাত বুলাবে। অথবা তিনি বলেছেনঃ এর নিতম্বে হাত বুলাবে এবং গলায় মালা পরাবে, কিন্তু ধনুকের তারের মালা পরাবে না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2553</td></tr><tr><td>Arabic No</td><td>2553</td></tr><tr><td>Reference</td><td>Book 15 Hadith 77</td></tr></tbody></table></div>
 

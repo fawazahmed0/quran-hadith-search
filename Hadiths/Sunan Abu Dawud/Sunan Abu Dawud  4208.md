@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্‌ন বাশ্‌শার (রহঃ) .... আবূ রিমছা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একবার আমি এবং আমার পিতা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হলে, তিনি জনৈক ব্যক্তিকে অথবা তার পিতাকে জিজ্ঞাসা করেনঃ এ কে? তিনি বলেনঃ আমার পুত্র। তখন তিনি বলেনঃ সে (কিয়ামতের দিন) তোমার বোঝা উঠাবে না। (রাবী বলেনঃ) এ সময় তিনি তাঁর দাঁড়িতে মেহেদী রং লাগিয়েছিলেন।
+। আবূ রিমসাহ (রাঃ) সূত্রে বর্ণিত। আমি ও আমার পিতা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলাম। তিনি এক ব্যক্তিকে বা তার পিতাকে বললেনঃ এটা কে? তিনি বলেন, আমার ছেলে। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেনঃ তার উপর মন্দ আচরণ করো না। এ সময় তাঁর দাঁড়ি মেহেদির রঙে রঞ্জিত ছিলো।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4208</td></tr><tr><td>Arabic No</td><td>4208</td></tr><tr><td>Reference</td><td>Book 35 Hadith 50</td></tr></tbody></table></div>
 

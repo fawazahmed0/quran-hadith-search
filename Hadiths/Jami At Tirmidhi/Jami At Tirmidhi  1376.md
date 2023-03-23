@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৩৭৬। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষের মৃত্যুর সাথে সাথে তার কাজ (কাজের সকল ক্ষমতা) ছিন্ন (বাতিল) হয়ে যায়, কিন্তু তিনটি কাজের (সাওয়াব লাভ) বাতিল হয় নাঃ সাদকায়ে জারিয়া, এমন জ্ঞান যা দ্বারা উপকৃত হওয়া যায় এবং এমন সন্তান যে তার জন্য দুআ করে। সহীহ, আহকামুল জানায়িজ (১৭৬), ইরওয়া (১৯৮০), মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষের মৃত্যুর সাথে সাথে তার কাজ (কাজের সকল ক্ষমতা) ছিন্ন (বাতিল) হয়ে যায়, কিন্তু তিনটি কাজের (সাওয়াব লাভ) বাতিল হয় নাঃ সাদকায়ে জারিয়া, এমন জ্ঞান যা দ্বারা উপকৃত হওয়া যায় এবং এমন সন্তান যে তার জন্য দুআ করে। সহীহ, আহকামুল জানায়িজ (১৭৬), ইরওয়া (১৯৮০), মুসলিম এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1376</td></tr><tr><td>Arabic No</td><td>1376</td></tr><tr><td>Reference</td><td>Book 15 Hadith 57</td></tr></tbody></table></div>
 

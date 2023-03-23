@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জীবদ্দশায় ভোগের জন্য প্রদত্ত জিনিস মৃত্যুর পর তার পরিবারের জন্য বৈধ হয়ে যায় এবং জীবিত থাকাকালীন সময়ের জন্য প্রদত্ত জিনিসও তার পরিবারের জন্য বৈধ হয়ে যায়, যাকে তা প্রদান করা হয়।
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যাকে জীবনস্বত্ব দেয়া হয় সেটা তারই হয়ে যায়। রুকবা যাকে দেয়া সে-ই হয় এর স্বতাধিকারী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3558</td></tr><tr><td>Arabic No</td><td>3558</td></tr><tr><td>Reference</td><td>Book 24 Hadith 143</td></tr></tbody></table></div>
 

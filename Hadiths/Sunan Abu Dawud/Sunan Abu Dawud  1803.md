@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল হাসান ইবন আলী ও মুহাম্মদ ইবন ইয়াহইয়া (রহঃ) .... ইবন আব্বাস (রাঃ) হতে বর্ণিত। মু‘আবিয়া (রাঃ) তাঁকে বলেন, আপনি কি অবহিত যে, আমি রাসূলুাল্লহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চুল মারওয়া নামক স্থানে আরবীয় তীরের অগ্রবর্তী অংশের সাহায্যে ছোট করেছিলাম? রাবী আল হাসানের বর্ণনায় আরও আছে, তাঁর হজ্জের সময়। ["তাঁর হজ্জের সময়" এ কথাটুকু শাজ]
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। মু‘আবিয়াহ (রাযি.) তাকে বলেছেন, আপনি কি জানেন, মারওয়ার উপর এক বেদুঈনের কাঁচি দ্বারা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর হজের (হজ্জের) সময় তাঁর চুল ছোট করেছিলাম?[1] সহীহঃ তার এ কথাটি বাদেঃ ‘তাঁর হজের (হজ্জের) সময়।’ কেননা তা শায।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1803</td></tr><tr><td>Arabic No</td><td>1803</td></tr><tr><td>Reference</td><td>Book 11 Hadith 83</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহ.) হতে বর্ণিত যে, ‘আবদুল্লাহ (রাঃ) কুরবানীর স্থানে কুরবানী করতেন। ‘উবাইদুল্লাহ (রহ.) বলেন, (অর্থাৎ) আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কুরবানীর স্থানে। (৯৮২) (আধুনিক প্রকাশনীঃ ১৫৯২, ইসলামিক ফাউন্ডেশনঃ ১৫৯৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহ.) হতে বর্ণিত যে, ‘আবদুল্লাহ (রাঃ) কুরবানীর স্থানে কুরবানী করতেন। ‘উবাইদুল্লাহ (রহ.) বলেন, (অর্থাৎ) আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর কুরবানীর স্থানে। (৯৮২) (আধুনিক প্রকাশনীঃ ১৫৯২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1710</td></tr><tr><td>Arabic No</td><td>1710</td></tr><tr><td>Reference</td><td>Book 25 Hadith 188</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq bin Ibrahim] dia mendengar [Khalid bin Al 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் வழக்கமாக அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் குர்பானி கொடுத்த இடத்திலேயே குர்பானி கொடுப்பார்கள். அத்தியாயம் : 25
+நாஃபிஉ (ரஹ்) அவர்கள் கூறியதாவது: அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் வழக்கமாக அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் குர்பானி கொடுத்த இடத்திலேயே குர்பானி கொடுப்பார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1710</td></tr><tr><td>Arabic No</td><td>1710</td></tr><tr><td>Reference</td><td>Book 25 Hadith 188</td></tr></tbody></table></div>
 

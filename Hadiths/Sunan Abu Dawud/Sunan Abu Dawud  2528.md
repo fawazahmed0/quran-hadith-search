@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন কাসীর ....... আবদুল্লাহ্ ইবন আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বলল, আমি হিজরত করে (আপনার সাথে যুদ্ধে গমনের জন্য) আপনার হাতে বায়‘আত করতে এসেছি। কিন্তু আমার মাতাপিতা নারায বিধায় কাঁদছেন। তিনি বললেন, তুমি তোমার পিতা-মাতার নিকট ফিরে যাও। যেভাবে তাদেরকে কাঁদিয়েছ সেভাবে তাঁদেরকে হাঁসিয়ে তোল।
+। ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বললো, আমি আপনার কাছে হিজরাতের বাই‘আত নিতে এসেছি এবং আমার মাতা-পিতাকে কান্নারত অবস্থায় রেখে এসেছি। তিনি বললেনঃ তুমি ফিরে যাও। তাদেরকে যেভাবে কাঁদিয়েছ ঐভাবে তাদেরকে হাসাও।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2528</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 15 Hadith 52</td></tr></tbody></table></div>
 

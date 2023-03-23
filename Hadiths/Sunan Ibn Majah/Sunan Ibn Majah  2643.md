@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৬৪৩। উবাদা ইবনুস সামিত (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হামল ইবনে মালেক আল হুযালী আল-লিহ্য়ানীকে তার স্ত্রীর দিয়াত থেকে ওয়ারিসী স্বত্ব দান করেন, যাকে তার অপর স্ত্রী হত্যা করেছিল।
+। উবাদা ইবনুস সামিত (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হামল ইবনে মালেক আল হুযালী আল-লিহ্য়ানীকে তার স্ত্রীর দিয়াত থেকে ওয়ারিসী স্বত্ব দান করেন, যাকে তার অপর স্ত্রী হত্যা করেছিল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2643</td></tr><tr><td>Arabic No</td><td>2643</td></tr><tr><td>Reference</td><td>Book 21 Hadith 29</td></tr></tbody></table></div>
 

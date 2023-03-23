@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ..... ইয়াদ ইব্‌ন হিমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তি লুকতা প্রাপ্ত হয় সে যেন একজন সত্যবাদী লোককে এব্যাপারে সাক্ষী রাখে অথবা দুই জনকে। আর সে যেন তা গোপন বা আত্মসাৎ না করে। যদি সে এর মালিককে পেয়ে যায় তবে তাকে তা ফেরত দিবে। অন্যথায় তা আল্লাহ তাআলার মাল, যা তিনি যাকে ইচ্ছা দান করেন। (নাসাঈ, ইব্‌ন মাজা)
+। ইয়াদ ইবনু হিমার (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি রাস্তায় পড়ে থাকা বস্তু পাবে, সে যেন একজন অথবা দুইজন সত্যবাদী লোককে এর সাক্ষী রাখে। বিষয়টি যেন সে গোপন না রাখে এবং আত্নসাৎ না করে। যদি সে এর মালিককে পায় তাহলে তাকে তা ফিরিয়ে দিবে। অন্যথায় মহান আল্লাহর মাল, তিনি যাকে ইচ্ছা তা দান করে থাকেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1709</td></tr><tr><td>Arabic No</td><td>1709</td></tr><tr><td>Reference</td><td>Book 10 Hadith 9</td></tr></tbody></table></div>
 

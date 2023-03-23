@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১১২৩। ইমরান ইবনু হুসাইন (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইসলামে জালাব’, ‘জানাব' বা ‘শিগার কোনটারই স্থান নেই। যে লোক ছিনতাই বা লুণ্ঠন করল সে লোক আমাদের অন্তর্ভুক্ত নয়।। – সহীহ, মিশকাত তাহকীক ছানী (২৯৪৭), সহীহ আবু দাউদ (২৩২৪) এ হাদীসটিকে আবু ঈসা হাসান সহীহ্ বলেছেন। আনাস, আবূ রাইহানা, ইবনু উমার, জাবির, মুআবিয়া, আবু হুরাইরা ও ওয়াঈল ইবনু হুজর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
+। ইমরান ইবনু হুসাইন (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইসলামে জালাব’, ‘জানাব' বা ‘শিগার কোনটারই স্থান নেই। যে লোক ছিনতাই বা লুণ্ঠন করল সে লোক আমাদের অন্তর্ভুক্ত নয়।। – সহীহ, মিশকাত তাহকীক ছানী (২৯৪৭), সহীহ আবু দাউদ (২৩২৪) এ হাদীসটিকে আবু ঈসা হাসান সহীহ্ বলেছেন। আনাস, আবূ রাইহানা, ইবনু উমার, জাবির, মুআবিয়া, আবু হুরাইরা ও ওয়াঈল ইবনু হুজর (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1123</td></tr><tr><td>Arabic No</td><td>1123</td></tr><tr><td>Reference</td><td>Book 11 Hadith 45</td></tr></tbody></table></div>
 

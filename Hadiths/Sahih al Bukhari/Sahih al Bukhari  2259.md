@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! আমার দু’জন প্রতিবেশী রয়েছে, তাদের মধ্যে কাকে আমি হাদিয়া দিব? তিনি বললেন, উভয়ের মধ্যে যার দরজা তোমার বেশী কাছে। (২৫৯৫, ৬০২০) (আধুনিক প্রকাশনীঃ ২০৯৯, ইসলামিক ফাউন্ডেশনঃ ২১১৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! আমার দু’জন প্রতিবেশী রয়েছে, তাদের মধ্যে কাকে আমি হাদিয়া দিব? তিনি বললেন, উভয়ের মধ্যে যার দরজা তোমার বেশী কাছে। (২৫৯৫, ৬০২০) (আধুনিক প্রকাশনীঃ ২০৯৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2259</td></tr><tr><td>Arabic No</td><td>2259</td></tr><tr><td>Reference</td><td>Book 36 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) ™வர்கள் கூறியதாவது: நான் (நபி (ஸல்) ™வர்களிடம்) ‘‘™ல்லாஹ்வின் தூதரே! எனக்கு இரண்டு ™ண்டை வீட்டார் உள்ளனர்; ™வர்களில் யாருக்கு நான் ™ன்பளிப்புச் செய்ய வேண்டும்?” என்று கேட்டேன். ™தற்கு நபி (ஸல்) ™வர்கள், ‘‘இருவரில் யார் வீட்டுவாசல் உனக்கு நெருக்கமாக இருக்கிறதோ ™வருக்கு” என்றார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 36
+ஆயிஷா (ரலி) ™வர்கள் கூறியதாவது: நான் (நபி (ஸல்) ™வர்களிடம்) ‘‘™ல்லாஹ்வின் தூதரே! எனக்கு இரண்டு ™ண்டை வீட்டார் உள்ளனர்; ™வர்களில் யாருக்கு நான் ™ன்பளிப்புச் செய்ய வேண்டும்?” என்று கேட்டேன். ™தற்கு நபி (ஸல்) ™வர்கள், ‘‘இருவரில் யார் வீட்டுவாசல் உனக்கு நெருக்கமாக இருக்கிறதோ ™வருக்கு” என்றார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2259</td></tr><tr><td>Arabic No</td><td>2259</td></tr><tr><td>Reference</td><td>Book 36 Hadith 3</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami [Syu'bah]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem'e, "Ey Allah'ın Resulü! İki komşum var. Hangisine hediye vereyim?" diye sordum. Bana, "Kapısı sana en yakın olan'a" buyurdu. Tekrar: 2595, 6020
+Aişe r.anha şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem'e, "Ey Allah'ın Resulü! İki komşum var. Hangisine hediye vereyim?" diye sordum. Bana, "Kapısı sana en yakın olan'a" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2259</td></tr><tr><td>Arabic No</td><td>2259</td></tr><tr><td>Reference</td><td>Book 36 Hadith 3</td></tr></tbody></table></div>
 

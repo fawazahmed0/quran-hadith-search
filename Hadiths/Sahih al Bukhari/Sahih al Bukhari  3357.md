@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, ইবরাহীম (আঃ) তিনবার ব্যতীত কখনও মিথ্যা বলেননি। (২২১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, ইবরাহীম (আঃ) তিনবার ব্যতীত কখনও মিথ্যা বলেননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3357</td></tr><tr><td>Arabic No</td><td>3357</td></tr><tr><td>Reference</td><td>Book 60 Hadith 32</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Abraham did not tell a lie e
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இப்ராஹீம் (அலை) அவர்கள் மூன்று பொய்களைத் தவிர வேறு பொய் எதுவும் பேசியதில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 60
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இப்ராஹீம் (அலை) அவர்கள் மூன்று பொய்களைத் தவிர வேறு பொய் எதுவும் பேசியதில்லை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3357</td></tr><tr><td>Arabic No</td><td>3357</td></tr><tr><td>Reference</td><td>Book 60 Hadith 32</td></tr></tbody></table></div>
 

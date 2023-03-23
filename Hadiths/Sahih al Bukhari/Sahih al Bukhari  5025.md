@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, দু’টি বিষয় ছাড়া অন্য কোন বিষয়ে ঈর্ষা করা যায় না। প্রথমত, যাকে আল্লাহ্ তা‘আলা কিতাবের জ্ঞান দান করেছেন এবং তিনি তা থেকে গভীর রাতে তিলাওয়াত করেন। দ্বিতীয়ত, যাকে আল্লাহ্ তা‘আলা সম্পদ দান করেছেন এবং তিনি সেই সম্পদ দিন-রাত দান করতে থাকেন। [৭৫২৯] (আধুনিক প্রকাশনীঃ ৪৬৬১, ইসলামিক ফাউন্ডেশনঃ ৪৬৫৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি যে, দু’টি বিষয় ছাড়া অন্য কোন বিষয়ে ঈর্ষা করা যায় না। প্রথমত, যাকে আল্লাহ্ তা‘আলা কিতাবের জ্ঞান দান করেছেন এবং তিনি তা থেকে গভীর রাতে তিলাওয়াত করেন। দ্বিতীয়ত, যাকে আল্লাহ্ তা‘আলা সম্পদ দান করেছেন এবং তিনি সেই সম্পদ দিন-রাত দান করতে থাকেন। [৭৫২৯] (আধুনিক প্রকাশনীঃ ৪৬৬১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5025</td></tr><tr><td>Arabic No</td><td>5025</td></tr><tr><td>Reference</td><td>Book 66 Hadith 47</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். இரண்டு விஷயங்களைத் தவிர வேறெதற்காகவும் பொறாமை கொள்ளக் கூடாது. 1. ஒரு மனிதருக்கு அல்லாஹ் வேத ஞானத்தை வழங்கியுள்ளான். அதை அவர் இரவு நேரங்களிலும் ஓதி வழிபடுகிறார். 2. இன்னொரு மனிதருக்கு அல்லாஹ் செல்வத்தை அளித்துள்ளான். அவர் அதை இரவு, பகல் எல்லா நேரங்களிலும் தானம் செய்கிறார். (இவ்விருவரைப் பார்த்து நாமும் அப்படியாக வேண்டும் எனப் பொறாமை கொள்ளலாம்.)47 இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 66
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள். இரண்டு விஷயங்களைத் தவிர வேறெதற்காகவும் பொறாமை கொள்ளக் கூடாது. 1. ஒரு மனிதருக்கு அல்லாஹ் வேத ஞானத்தை வழங்கியுள்ளான். அதை அவர் இரவு நேரங்களிலும் ஓதி வழிபடுகிறார். 2. இன்னொரு மனிதருக்கு அல்லாஹ் செல்வத்தை அளித்துள்ளான். அவர் அதை இரவு, பகல் எல்லா நேரங்களிலும் தானம் செய்கிறார். (இவ்விருவரைப் பார்த்து நாமும் அப்படியாக வேண்டும் எனப் பொறாமை கொள்ளலாம்.)47 இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5025</td></tr><tr><td>Arabic No</td><td>5025</td></tr><tr><td>Reference</td><td>Book 66 Hadith 47</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdulllah İbn Ömer Allah Resulü Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: "Şu iki kişi hariç başkasına ğıbta edilmez. İlki Allah'ın Kur'an'ı lutfettiği kişidir. Bu kimse gece boyu zamanınz Kur'an'la ihya eder. Diğeri ise, Allah'ın servet bahşettiği kimsedir. Bu da, malını gece gündüz tasadduk eder. " Hadisin geçtiği yer: 7529
+Abdulllah İbn Ömer Allah Resulü Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: "Şu iki kişi hariç başkasına ğıbta edilmez. İlki Allah'ın Kur'an'ı lutfettiği kişidir. Bu kimse gece boyu zamanınz Kur'an'la ihya eder. Diğeri ise, Allah'ın servet bahşettiği kimsedir. Bu da, malını gece gündüz tasadduk eder. " Hadisin geçtiği yer:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5025</td></tr><tr><td>Arabic No</td><td>5025</td></tr><tr><td>Reference</td><td>Book 66 Hadith 47</td></tr></tbody></table></div>
 

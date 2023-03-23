@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১৭. আবূ যিনাদ (রহঃ) হইতে বর্ণিত, উমর ইবন আবদুল আযীয (রহঃ) এক দাসকে অপবাদের শাস্তি হিসাবে আশিটি বেত্ৰাঘাত করিয়াছিলেন। আবূ যিনাদ বলেনঃ আমি আবদুল্লাহ ইবন আমর (রাঃ)-কে জিজ্ঞাসা করিলাম। তিনি বলিলেন, আমি উমর ও উসমান (রাঃ)-কে এবং তাহাদের পর অপর দুই খলীফাকে দেখিয়াছি কেহই কোন দাসকে অপবাদের শাস্তি হিসাবে চল্লিশ বেত্রাঘাতের বেশি মারেন নাই।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1516</td></tr><tr><td>Arabic No</td><td>1516</td></tr><tr><td>Reference</td><td>Book 41 Hadith 17</td></tr></tbody></table></div>
 

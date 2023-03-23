@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৭. মালিক (রহঃ) আবদুল্লাহ্ ইবন আবু বকর (রহঃ) হইতে বর্ণনা করেন- তিনি বলিয়াছেনঃ (মসজিদে রাত কাটাইয়া) আমরা রমযানে (গৃহে) প্রত্যাবর্তন করিতাম, তখন ভোর হওয়ার আশংকায় খাদেমগণকে (খানা প্রস্তুতির) কাজে লাগাইতাম । উরওয়াহ্ (রহঃ) হইতে বর্ণিত, যাকওয়ান আবু আমর (রহঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিণী আয়েশা (রাঃ)-এর ক্রীতদাস ছিলেন। আয়েশা (রাঃ)-এর ওফাতের পর যাকওয়ান মুক্তিপ্রাপ্ত হইবেন বলিয়া ঘোষণা ছিল । (উক্ত যাকওয়ান) রমযান মাসে তারাবীহর নামায পড়িতেন এবং আয়েশা (রাঃ) তাহার পিছনে (অন্যদের সঙ্গে) মুকতাদী হইয়া নামায পড়িতেন অথবা আয়েশা (রাঃ) তাহার কুরআন পাঠ শুনিতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>253</td></tr><tr><td>Arabic No</td><td>253</td></tr><tr><td>Reference</td><td>Book 6 Hadith 8</td></tr></tbody></table></div>
 

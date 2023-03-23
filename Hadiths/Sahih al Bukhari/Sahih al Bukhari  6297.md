@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষের স্বভাবগত বিষয় হলো পাঁচটিঃ খাত্না করা, নাভির নীচের পশম কামানো, বগলের পশম উপড়ে ফেলা, গোঁফ ছাঁটা এবং (অতিরিক্ত) নখ কাটা। [৫৮৮৯] (আধুনিক প্রকাশনী- ৫৮৫৩, ইসলামিক ফাউন্ডেশন- ৫৭৪৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষের স্বভাবগত বিষয় হলো পাঁচটিঃ খাত্না করা, নাভির নীচের পশম কামানো, বগলের পশম উপড়ে ফেলা, গোঁফ ছাঁটা এবং (অতিরিক্ত) নখ কাটা। [৫৮৮৯] (আধুনিক প্রকাশনী- ৫৮৫৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6297</td></tr><tr><td>Arabic No</td><td>6297</td></tr><tr><td>Reference</td><td>Book 79 Hadith 69</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Qaza'ah] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (இறைத்தூதர்களின் வழிமுறையான) இயற்கை மரபுகள் ஐந்தாகும். 1. விருத்த சேதனம் செய்வது. 2. மர்ம உறுப்பின் முடிகளைக் களைய சவரக்கத்தியை உபயோகிப்பது. 3. அக்குள் முடிகளை அகற்றுவது. 4. மீசையைக் கத்தரிப்பது5. நகங்களை வெட்டுவது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.73 அத்தியாயம் : 79
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (இறைத்தூதர்களின் வழிமுறையான) இயற்கை மரபுகள் ஐந்தாகும். 1. விருத்த சேதனம் செய்வது. 2. மர்ம உறுப்பின் முடிகளைக் களைய சவரக்கத்தியை உபயோகிப்பது. 3. அக்குள் முடிகளை அகற்றுவது. 4. மீசையைக் கத்தரிப்பது5. நகங்களை வெட்டுவது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.73 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6297</td></tr><tr><td>Arabic No</td><td>6297</td></tr><tr><td>Reference</td><td>Book 79 Hadith 69</td></tr></tbody></table></div>
 

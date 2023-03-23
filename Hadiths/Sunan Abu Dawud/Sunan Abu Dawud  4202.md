@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) ...... আমর ইব্‌ন শু’আয়েব (রহঃ) তাঁর দাদা ও পিতা থেকে বর্ণনা করেছেন। তিনি বলেনঃ রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা সাদা চুল উপড়াবে না। কেননা, যে মুসলিমের চুল ইসলামের উপর সাদা হয়; সুফয়ান (রহঃ) থেকে বর্ণিত যে, তা কিয়ামতের দিন তার জন্য নূর স্বরূপ হবে। রাবী ইয়াহ্‌ইয়ার বর্ণনায় আছে যে, তা ঐ সাদা চুলের বিনিময়ে একটি নেকী লেখা হবে এবং একটি গুনাহ্‌ মাফ হয়ে যাবে।
+। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা পাকা চুল-দাঁড়ি উপড়িয়ে ফেলো না। কেননা কোনো মুসলিম ইসলামের মধ্যে থেকে চুল পাকালে (সুফিয়ানের বর্ণনায় রয়েছে) এটা তার জন্য কিয়ামতের দিন উজ্জ্বল নূর হবে। (ইয়াহইয়ার বর্ণনায় রয়েছে) আল্লাহ তার প্রতিটি পাকা চুলের পরিবর্তে তাকে একটি নেকী দান করবেন এবং একটি গুনাহ মিটিয়ে দিবেন।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 35 Hadith 44</td></tr></tbody></table></div>
 

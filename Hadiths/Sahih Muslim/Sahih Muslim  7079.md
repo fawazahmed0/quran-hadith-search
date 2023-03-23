@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৯৭২, আন্তর্জাতিক নাম্বারঃ ২৮০৩ ৬৯৭২-(৪৮/২৮০৩) মূসা ইবনু কুরায়শ আত তামীমী (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সময় চাঁদ দু'টুকরো হয়েছে। (ইসলামিক ফাউন্ডেশন ৬৮২০, ইসলামিক সেন্টার ৬৮৭৬)
+মূসা ইবনু কুরায়শ আত তামীমী (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সময় চাঁদ দু'টুকরো হয়েছে। (ইসলামিক ফাউন্ডেশন ৬৮২০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7079</td></tr><tr><td>Arabic No</td><td>2803</td></tr><tr><td>Reference</td><td>Book 52 Hadith 34</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Musa bin Quraisy At Taimi] telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது காலத்தில் சந்திரன் பிளந்தது. அத்தியாயம் : 50
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களது காலத்தில் சந்திரன் பிளந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7079</td></tr><tr><td>Arabic No</td><td>2803</td></tr><tr><td>Reference</td><td>Book 52 Hadith 34</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৬৪৯, আন্তর্জাতিক নাম্বারঃ ২২১০ ৫৬৪৯-(.../...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... হিশাম (রহঃ) হতে উপরোল্লিখিত সূত্রে অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৫৬৮, ইসলামিক সেন্টার ৫৫৯৩)
+ইসহাক ইবনু ইবরাহীম (রহঃ) ..... হিশাম (রহঃ) হতে উপরোল্লিখিত সূত্রে অবিকল রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৫৬৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5756</td></tr><tr><td>Arabic No</td><td>2210.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 110</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৫০৭, আন্তর্জাতিক নাম্বারঃ ২১৪৪ ৫৫০৭-(.../...) মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... আনাস (রাযিঃ) হতে এ ঘটনা সহকারে রাবী ইয়াযীদ (রহঃ) এর হাদীসের অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪২৯, ইসলামিক সেন্টার ৫৪৫১)
+মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... আনাস (রাযিঃ) হতে এ ঘটনা সহকারে রাবী ইয়াযীদ (রহঃ) এর হাদীসের অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪২৯, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5614</td></tr><tr><td>Arabic No</td><td>2144.03</td></tr><tr><td>Reference</td><td>Book 38 Hadith 29</td></tr></tbody></table></div>
 

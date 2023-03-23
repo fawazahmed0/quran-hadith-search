@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হারমালাহ ইবনু ইয়াহয়া (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সে সত্তার শপথ যার হাতে আমার প্রাণ...পূর্বোক্ত হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২৮৯৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3031</td></tr><tr><td>Arabic No</td><td>1252.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 238</td></tr></tbody></table></div>
 

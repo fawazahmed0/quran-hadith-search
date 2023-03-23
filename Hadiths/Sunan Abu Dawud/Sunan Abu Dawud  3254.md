@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। ‘আতা (রহঃ) সূত্রে বর্ণিত। তিনি বেহুদা কসম খাওয়া সম্পর্কে বলেন, ‘আয়িশাহ (রাঃ) বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘‘কোনো ব্যক্তির নিজ ঘরে বসে কথাবার্তায় এরূফ বলা যেঃ কখনো নয়, আল্লাহর শপথ! এবং হ্যাঁ, আল্লাহর শপথ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3254</td></tr><tr><td>Arabic No</td><td>3254</td></tr><tr><td>Reference</td><td>Book 22 Hadith 13</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Humaid bin Mas'adah As Sami], telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbıahim -yani es-Sâiğ-; Atâ'dan, yeminde lağv konusunda şöyle haber vermiştir: Âişe (r.anha) dedi ki: Resûlullah (s.a.v.); "[O], kişinin evinde (söylediği) "Hayır vallahi, evet vallahi" gibi sözleridir." buyurdu. Ebu Dâvûd dedi ki: İbrahim es-Sâiğ, salih bir adamdı. Ebû Müslim onu, Avandes'de katletti. Tokmağı kaldırdığında ezanı duyarsa bırakıverirdi. Yine Ebû Dâvud dedi ki: Bu hadisi Dâvûd b. Ebi'l-Furât; İbrahim es-Sâiğ'den, Hz. Âişe'ye mevkuf olarak rivayet etmiştir. Zührî, Abdülmeük b. Ebî Süleyman ve Mâlik b. Miğvel de aynı şekilde hepsi Atâ'dan Hz. Âişe'ye mevkuf olarak rivayet etmişlerdir. Diğer tahric: Buhari (4613, 6663); Nesai s-kübra (11084); İbn Hibban (4333); Muvatta, (1010)
+İbıahim -yani es-Sâiğ-; Atâ'dan, yeminde lağv konusunda şöyle haber vermiştir: Âişe (r.anha) dedi ki: Resûlullah (s.a.v.); "[O], kişinin evinde (söylediği) "Hayır vallahi, evet vallahi" gibi sözleridir." buyurdu. Ebu Dâvûd dedi ki: İbrahim es-Sâiğ, salih bir adamdı. Ebû Müslim onu, Avandes'de katletti. Tokmağı kaldırdığında ezanı duyarsa bırakıverirdi. Yine Ebû Dâvud dedi ki: Bu hadisi Dâvûd b. Ebi'l-Furât; İbrahim es-Sâiğ'den, Hz. Âişe'ye mevkuf olarak rivayet etmiştir. Zührî, Abdülmeük b. Ebî Süleyman ve Mâlik b. Miğvel de aynı şekilde hepsi Atâ'dan Hz. Âişe'ye mevkuf olarak rivayet etmişlerdir. Diğer tahric: Buhari (4613, 6663); Nesai s-kübra (11084); İbn Hibban (4333); Muvatta
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3254</td></tr><tr><td>Arabic No</td><td>3254</td></tr><tr><td>Reference</td><td>Book 22 Hadith 13</td></tr></tbody></table></div>
 

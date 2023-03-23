@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫২৬২, আন্তর্জাতিক নাম্বারঃ ২০৫৮ ৫২৬২-(১৭৮/২০৫৮) ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত যে, তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু'জনের খাদ্য তিনজনের জন্য এবং তিনজনের খাদ্য চারজনের জন্য যথেষ্ট। (ইসলামিক ফাউন্ডেশন ৫১৯৪, ইসলামিক সেন্টার ৫২০৬)
+ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত যে, তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু'জনের খাদ্য তিনজনের জন্য এবং তিনজনের খাদ্য চারজনের জন্য যথেষ্ট। (ইসলামিক ফাউন্ডেশন ৫১৯৪, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5367</td></tr><tr><td>Arabic No</td><td>2058</td></tr><tr><td>Reference</td><td>Book 36 Hadith 241</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Aku membaca Hadits
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இருவருடைய உணவு மூவருக்குப் போதுமானதாகும். மூவரின் உணவு நால்வருக்குப் போதுமானதாகும்.- இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 36
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: இருவருடைய உணவு மூவருக்குப் போதுமானதாகும். மூவரின் உணவு நால்வருக்குப் போதுமானதாகும்.- இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5367</td></tr><tr><td>Arabic No</td><td>2058</td></tr><tr><td>Reference</td><td>Book 36 Hadith 241</td></tr></tbody></table></div>
 

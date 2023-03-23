@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩/১২৭১ আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বৃষ্টিপাতের জন্য দুআ করলেন, এমনকি আমি তাঁর বগলের শুভ্রতা (উপরে হাত তোলার কারণে) দেখতে পাই। অধস্তন রাবী মুতামির বলেন, আমার মতে তিনি ইসতিসকার সালাতে এভাবে দুআ করেন।
+আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বৃষ্টিপাতের জন্য দুআ করলেন, এমনকি আমি তাঁর বগলের শুভ্রতা (উপরে হাত তোলার কারণে) দেখতে পাই। অধস্তন রাবী মুতামির বলেন, আমার মতে তিনি ইসতিসকার সালাতে এভাবে দুআ করেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1271</td></tr><tr><td>Arabic No</td><td>1271</td></tr><tr><td>Reference</td><td>Book 5 Hadith 469</td></tr></tbody></table></div>
 

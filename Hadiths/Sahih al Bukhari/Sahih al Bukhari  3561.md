@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর হাতের তালুর চেয়ে মোলায়েম কোন নরম ও গরদকেও আমি স্পর্শ করিনি। আর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর শরীরের সুঘ্রাণ অপেক্ষা অধিক সুঘ্রাণ আমি কখনো পাইনি। (আধুনিক প্রকাশনীঃ ৩২৯৭, ইসলামিক ফাউন্ডেশনঃ ৩৩০৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর হাতের তালুর চেয়ে মোলায়েম কোন নরম ও গরদকেও আমি স্পর্শ করিনি। আর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর শরীরের সুঘ্রাণ অপেক্ষা অধিক সুঘ্রাণ আমি কখনো পাইনি। (আধুনিক প্রকাশনীঃ ৩২৯৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3561</td></tr><tr><td>Arabic No</td><td>3561</td></tr><tr><td>Reference</td><td>Book 61 Hadith 70</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Anas:I have never touched silk or Dibaj (i.e. thick silk) softer than t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறிய தாவது: நபி (ஸல்) அவர்களின் உள்ளங்கையை விட மென்மையான பட்டையோ, (பூ வேலைப்பாடு செய்யப்பட்ட) தூய்மையான பட்டையோ நான் தொட்டதில்லை. நபி (ஸல்) அவர்களின் (உடல்) மணத்தைவிட - அல்லது வியர்வையைவிட - சுகந்தமான ஒரு நறுமணத்தை நான் நுகர்ந்ததேயில்லை. அத்தியாயம் : 61
+அனஸ் (ரலி) அவர்கள் கூறிய தாவது: நபி (ஸல்) அவர்களின் உள்ளங்கையை விட மென்மையான பட்டையோ, (பூ வேலைப்பாடு செய்யப்பட்ட) தூய்மையான பட்டையோ நான் தொட்டதில்லை. நபி (ஸல்) அவர்களின் (உடல்) மணத்தைவிட - அல்லது வியர்வையைவிட - சுகந்தமான ஒரு நறுமணத்தை நான் நுகர்ந்ததேயில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3561</td></tr><tr><td>Arabic No</td><td>3561</td></tr><tr><td>Reference</td><td>Book 61 Hadith 70</td></tr></tbody></table></div>
 

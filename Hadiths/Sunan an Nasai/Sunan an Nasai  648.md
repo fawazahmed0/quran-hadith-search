@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৪৮, আন্তর্জাতিক নাম্বারঃ ৬৪৯ ৬৪৮. ‘আমর ইবনু ‘আলী (রহ.) ..... ইয়াহইয়া ও ‘আবদুর রহমান (রহ.)-এর সূত্রে বর্ণিত যে, সুফইয়ান এ সনদে অনুরূপ হাদীস বর্ণনা করেছেন। আবু ‘আবদুর রহমান (রহ.) বলেন, এ সনদে উল্লিখিত আবু জাফার তিনি আবূ জা'ফার ফাররা নন। সহীহ: সহীহ আবু দাউদ ৫১৬।
+। আমর ইবনু আলী (রহঃ) ... ইয়াহইয়া ও আবদূর রহমান (রাঃ) সূত্রে বর্ণনা করেন যে, সুফিয়ান এর অনুরুপ হাদীসে বর্ণনা করেছেন। আবূ আবদূর রহমান (রহঃ) বলেনঃ এ সনদে উল্লিখিত আবূ জাফর আবূ জাফর ফাররা নন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>648</td></tr><tr><td>Reference</td><td>Book 7 Hadith 23</td></tr></tbody></table></div>
 

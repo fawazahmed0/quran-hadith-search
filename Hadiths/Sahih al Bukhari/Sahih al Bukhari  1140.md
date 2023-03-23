@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের বেলা তের রাক‘আত সালাত আদায় করতেন, যার ভিতর আছে বিতর এবং ফজরের দু’ রাক‘আত (সুন্নাত)। (মুসলিম ৬/১৭, হাঃ ৭৩৮) (আধুনিক প্রকাশনীঃ ১০৬৯, ইসলামিক ফাউন্ডেশনঃ ১০৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের বেলা তের রাক‘আত সালাত আদায় করতেন, যার ভিতর আছে বিতর এবং ফজরের দু’ রাক‘আত (সুন্নাত)। (মুসলিম ৬/১৭, হাঃ ৭৩৮) (আধুনিক প্রকাশনীঃ ১০৬৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1140</td></tr><tr><td>Arabic No</td><td>1140</td></tr><tr><td>Reference</td><td>Book 19 Hadith 21</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ubaidullah bin Musa] berkata, telah mengabarkan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரவில் பதிமூன்று ரக்அத்கள் தொழுவார்கள். வித்ர், ஃபஜ்ருடைய இரண்டு ரக்அத் (சுன்னத்) ஆகியவை அவற்றில் அடங்கும்.11 அத்தியாயம் : 19
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் இரவில் பதிமூன்று ரக்அத்கள் தொழுவார்கள். வித்ர், ஃபஜ்ருடைய இரண்டு ரக்அத் (சுன்னத்) ஆகியவை அவற்றில் அடங்கும்.11 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1140</td></tr><tr><td>Arabic No</td><td>1140</td></tr><tr><td>Reference</td><td>Book 19 Hadith 21</td></tr></tbody></table></div>
 

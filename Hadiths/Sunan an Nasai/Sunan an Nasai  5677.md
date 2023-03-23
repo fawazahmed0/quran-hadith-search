@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+হান্নাদ ইবন সারী (রহঃ) ... আবুল আহওয়াস সিমাক থেকে, তিনি কাসিম ইব্‌ন আবদুর রহমান থেকে, তিনি তার পিতা থেকে এবং তিনি আবু বুরদা ইবন নিয়ার (রাঃ) থেকে। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা যে কোন পাত্রে পান করতে পার কিন্তু মাতাল হয়োনা। আবূ আবদুর রহমান (ইমাম নাসাঈ) বলেন, এ হাদীস আপত্তিকর। আবুল আহওয়াস সাল্লাম ইবন সুলায়ম এতে ভুল করেছেন। সিমাকের অপর কোন ছাত্র তার মত বর্ণনা করেন নি, তদুপরি সিমাক শক্তিশালী রাবী নন। সিমাক থেকে শারীক আবুল আহওয়াসের বিপরীত বর্ণনা করেছেন। নিম্নের বর্ণনা দ্রষ্টব্যঃ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5677</td></tr><tr><td>Arabic No</td><td>5677</td></tr><tr><td>Reference</td><td>Book 51 Hadith 139</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মা‘মার ‘আবদুল্লাহ্ ইবন ‘আমর (রহঃ) ..... ইবন ‘আব্বাস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাসান (রাঃ) ও হুসায়ন (রাঃ) এর পক্ষ হতে একটি করে দুম্বা তাদের ‘আকীকায় কুরবানী করেন।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাসান ও হুসাইন (রাঃ)-এর পক্ষ থেকে একটি করে দুম্বা আক্বীকাহ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2841</td></tr><tr><td>Arabic No</td><td>2841</td></tr><tr><td>Reference</td><td>Book 16 Hadith 54</td></tr></tbody></table></div>
 

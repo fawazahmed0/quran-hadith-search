@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৫৪৯। ইবনু ইসাম আল-মুযানী (রাহঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, তিনি (ইসাম) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছোট বা বড় কোন যুদ্ধাভিযানে প্রেরণকালে সামরিক বাহিনীর সদস্যদেরকে বলতেনঃ তোমরা কোন মাসজিদ দেখলে অথবা মুয়াযযিনের আযান শুনলে সেখানকার কাউকে হত্যা করবে না। যঈফ, যঈফ আবূ দাউদ (৪৫৪) আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। এটি ইবনু উআইনার রিওয়ায়াত।
+। ইবনু ইসাম আল-মুযানী (রাহঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, তিনি (ইসাম) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছোট বা বড় কোন যুদ্ধাভিযানে প্রেরণকালে সামরিক বাহিনীর সদস্যদেরকে বলতেনঃ তোমরা কোন মাসজিদ দেখলে অথবা মুয়াযযিনের আযান শুনলে সেখানকার কাউকে হত্যা করবে না। যঈফ, যঈফ আবূ দাউদ (৪৫৪) আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব। এটি ইবনু উআইনার রিওয়ায়াত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1549</td></tr><tr><td>Arabic No</td><td>1549</td></tr><tr><td>Reference</td><td>Book 21 Hadith 2</td></tr></tbody></table></div>
 

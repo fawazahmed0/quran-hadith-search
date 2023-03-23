@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর ও রাসূল-কন্যা ফাতিমার কাছে রাতে আসলেন। তিনি তাদেরকে বললেনঃ তোমরা সালাত আদায় করছ না? ‘আলী বলেন, তখন আমি বললাম, হে আল্লাহর রাসূল! আমাদের জীবন তো আল্লাহর হাতে। তিনি যখন আমাদেরকে ঘুম থেকে জাগাতে চান জাগিয়ে দেন। আমি এ কথা বলার পর, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফিরে গেলেন। কথার কোন উত্তর দিলেন না। যাওয়ার সময় তাঁকে উরুর ওপর হাত মেরে বলতে শুনেছি, মানুষ অধিকাংশ বিষয়েই বিতর্ক প্রিয়। [১১২৭] (আধুনিক প্রকাশনী- ৬৯৪৭, ইসলামিক ফাউন্ডেশন- ৬৯৫৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আলী ইবনু আবূ তালিব (রাঃ) হতে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর ও রাসূল-কন্যা ফাতিমার কাছে রাতে আসলেন। তিনি তাদেরকে বললেনঃ তোমরা সালাত আদায় করছ না? ‘আলী বলেন, তখন আমি বললাম, হে আল্লাহর রাসূল! আমাদের জীবন তো আল্লাহর হাতে। তিনি যখন আমাদেরকে ঘুম থেকে জাগাতে চান জাগিয়ে দেন। আমি এ কথা বলার পর, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফিরে গেলেন। কথার কোন উত্তর দিলেন না। যাওয়ার সময় তাঁকে উরুর ওপর হাত মেরে বলতে শুনেছি, মানুষ অধিকাংশ বিষয়েই বিতর্ক প্রিয়। [১১২৭] (আধুনিক প্রকাশনী- ৬৯৪৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7465</td></tr><tr><td>Arabic No</td><td>7465</td></tr><tr><td>Reference</td><td>Book 97 Hadith 91</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Ali bin Abi Talib:That one night Allah's Messenger (ﷺ) visited him and Fatima, the daughter of Allah's Messenger (ﷺ) and said to them, "Won 't you offer (night) prayer?.. 'Ali added: I said, "O Allah's Messenger (ﷺ)! Our souls are in the Hand of Allah and when He Wishes to bring us to life, He does." Then Allah's Messenger (ﷺ) went away when I said so and he did not give any reply. Then I heard him on leaving while he was striking his thighs, saying, 'But man is, more quarrelsome than anything.' (18.54)
+Narrated 'Ali bin Abi Talib:That one night Allah's Messenger (ﷺ) visited him and Fatima, the daughter of Allah's Messenger (ﷺ) and said to them, "Won 't you offer (night) prayer?.. 'Ali added: I said, "O Allah's Messenger (ﷺ)! Our souls are in the Hand of Allah and when He Wishes to bring us to life, He does." Then Allah's Messenger (ﷺ) went away when I said so and he did not give any reply. Then I heard him on leaving while he was striking his thighs, saying, 'But man is, more quarrelsome than anything
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7465</td></tr><tr><td>Arabic No</td><td>7465</td></tr><tr><td>Reference</td><td>Book 97 Hadith 91</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அலீ பின் அபீதாலிப் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என்னிடமும் தம் புதல்வி ஃபாத்திமா (ரலி) அவர்களிடமும் ஒரு(நாள்) இரவு நேரத்தில் வந்தார்கள். எங்களிடம், “நீங்கள் (தஹஜ்ஜுத்) தொழவில்லையா?” என்று கேட்டார்கள். நான், “அல்லாஹ்வின் தூதரே! எங்கள் உயிர்களெல்லாம் அல்லாஹ்வின் கரத்தில்தானே இருக்கின்றன! அவன் எங்களை (தூக்கத்திலிருந்து) எழுப்ப நாடினால் எங்களை எழுப்பிவிடுவான்” என்று சொன்னேன். நான் இவ்வாறு சொன்னபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எனக்கு எந்த மறுமொழியும் கூறாமல் திரும்பிச் சென்றுவிட்டார்கள். திரும்பிச் சென்ற நபி (ஸல்) அவர்கள் தமது தொடையில் தட்டிக்கொண்டே “மனிதன் அதிகம் தர்க்கம் செய்பவனாக இருக்கின்றான்” என்று சொல்லிக்கொண்டிருந்ததை நான் கேட்டேன்.107 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 97
+அலீ பின் அபீதாலிப் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் என்னிடமும் தம் புதல்வி ஃபாத்திமா (ரலி) அவர்களிடமும் ஒரு(நாள்) இரவு நேரத்தில் வந்தார்கள். எங்களிடம், “நீங்கள் (தஹஜ்ஜுத்) தொழவில்லையா?” என்று கேட்டார்கள். நான், “அல்லாஹ்வின் தூதரே! எங்கள் உயிர்களெல்லாம் அல்லாஹ்வின் கரத்தில்தானே இருக்கின்றன! அவன் எங்களை (தூக்கத்திலிருந்து) எழுப்ப நாடினால் எங்களை எழுப்பிவிடுவான்” என்று சொன்னேன். நான் இவ்வாறு சொன்னபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் எனக்கு எந்த மறுமொழியும் கூறாமல் திரும்பிச் சென்றுவிட்டார்கள். திரும்பிச் சென்ற நபி (ஸல்) அவர்கள் தமது தொடையில் தட்டிக்கொண்டே “மனிதன் அதிகம் தர்க்கம் செய்பவனாக இருக்கின்றான்” என்று சொல்லிக்கொண்டிருந்ததை நான் கேட்டேன்.107 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7465</td></tr><tr><td>Arabic No</td><td>7465</td></tr><tr><td>Reference</td><td>Book 97 Hadith 91</td></tr></tbody></table></div>
 

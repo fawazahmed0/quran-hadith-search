@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘জিব্রীল (আঃ) আমাকে এক আঞ্চলিক ভাষায় কুরআন পাঠ করে শুনিয়েছেন। কিন্তু আমি সব সময় তাঁর নিকট বেশি ভাষায় পাঠ শুনতে চাইতাম। শেষতক তা সাতটি আঞ্চলিক ভাষায় সমাপ্ত হয়।[১] (৪৯৯১) (মুসলিম ৬/৪৮ হাঃ ৮১৯) (আধুনিক প্রকাশনীঃ ২৯৭৯, ইসলামিক ফাউন্ডেশনঃ ২৯৮৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ‘জিব্রীল (আঃ) আমাকে এক আঞ্চলিক ভাষায় কুরআন পাঠ করে শুনিয়েছেন। কিন্তু আমি সব সময় তাঁর নিকট বেশি ভাষায় পাঠ শুনতে চাইতাম। শেষতক তা সাতটি আঞ্চলিক ভাষায় সমাপ্ত হয়।[১] (৪৯৯১) (মুসলিম ৬/৪৮ হাঃ ৮১৯) (আধুনিক প্রকাশনীঃ ২৯৭৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3219</td></tr><tr><td>Arabic No</td><td>3219</td></tr><tr><td>Reference</td><td>Book 59 Hadith 30</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) said, "Gabriel read the Qur'an to me
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரேயொரு (வட்டார) மொழிவழக்குப் படி (வானவர்) ஜிப்ரீல் (குர்ஆனை) எனக்கு ஓதக் கற்றுத்தந்தார். ஆனால், நான் அதை இன்னும் பல (வட்டார) மொழிவழக்குகளின்படி எனக்கு ஓதக் கற்றுத்தருமாறு அவரிடம் கேட்டுக்கொண்டேயிருந்தேன். (நான் கேட்க, கேட்க அதிகரித்துக் கொண்டே வந்து,) இறுதியில் ஏழு (வட்டார) மொழிவழக்குகள் அளவுக்கு வந்து நின்றது.30 இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்: அத்தியாயம் : 59
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஒரேயொரு (வட்டார) மொழிவழக்குப் படி (வானவர்) ஜிப்ரீல் (குர்ஆனை) எனக்கு ஓதக் கற்றுத்தந்தார். ஆனால், நான் அதை இன்னும் பல (வட்டார) மொழிவழக்குகளின்படி எனக்கு ஓதக் கற்றுத்தருமாறு அவரிடம் கேட்டுக்கொண்டேயிருந்தேன். (நான் கேட்க, கேட்க அதிகரித்துக் கொண்டே வந்து,) இறுதியில் ஏழு (வட்டார) மொழிவழக்குகள் அளவுக்கு வந்து நின்றது.30 இதை இப்னு அப்பாஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்: அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3219</td></tr><tr><td>Arabic No</td><td>3219</td></tr><tr><td>Reference</td><td>Book 59 Hadith 30</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) said, "Gabriel read the Qur'an to me
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Abbas r.a.'dan nakledildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Cebrail, (Kur'an'ı) bana bir harf üzere okuttu. Fakat ben bunu artırmasını talep ettim ve nihayet yedi harfe kadar çıkıp orada kaldı. " Tekrar: 4991
+Abdullah İbn Abbas r.a.'dan nakledildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Cebrail, (Kur'an'ı) bana bir harf üzere okuttu. Fakat ben bunu artırmasını talep ettim ve nihayet yedi harfe kadar çıkıp orada kaldı. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3219</td></tr><tr><td>Arabic No</td><td>3219</td></tr><tr><td>Reference</td><td>Book 59 Hadith 30</td></tr></tbody></table></div>
 

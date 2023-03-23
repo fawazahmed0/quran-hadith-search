@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, উহুদের যুদ্ধে সাহাবীগণ নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) থেকে বিচ্ছিন্ন হয়ে পড়লেন। আমি দেখলাম, ‘আয়িশাহ বিন্তে আবূ বাকর ও উম্মু সুলাইম (রাঃ) তাঁদের আঁচল এতটুকু উঠিয়ে নিয়েছেন যে, আমি তাঁদের উভয় পায়ের গহনা দেখছিলাম। তাঁরা উভয়েই মশক পিঠে বয়ে সাহাবীগণের মুখে পানি ঢেলে দিচ্ছিলেন। আবার ফিরে গিয়ে মশ্ক ভর্তি করে নিয়ে এসে সাহাবীগণের মুখে পানি ঢেলে দিচ্ছিলেন। (২৯০২, ৩৮১১, ৪০৬৪) (আধুনিক প্রকাশনীঃ ২৬৬৮, ইসলামিক ফাউন্ডেশনঃ ২৬৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, উহুদের যুদ্ধে সাহাবীগণ নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) থেকে বিচ্ছিন্ন হয়ে পড়লেন। আমি দেখলাম, ‘আয়িশাহ বিন্তে আবূ বাকর ও উম্মু সুলাইম (রাঃ) তাঁদের আঁচল এতটুকু উঠিয়ে নিয়েছেন যে, আমি তাঁদের উভয় পায়ের গহনা দেখছিলাম। তাঁরা উভয়েই মশক পিঠে বয়ে সাহাবীগণের মুখে পানি ঢেলে দিচ্ছিলেন। আবার ফিরে গিয়ে মশ্ক ভর্তি করে নিয়ে এসে সাহাবীগণের মুখে পানি ঢেলে দিচ্ছিলেন। (২৯০২, ৩৮১১, ৪০৬৪) (আধুনিক প্রকাশনীঃ ২৬৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2880</td></tr><tr><td>Arabic No</td><td>2880</td></tr><tr><td>Reference</td><td>Book 56 Hadith 95</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul War
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போரின்போது மக்கள் நபி (ஸல்) அவர்களை விட்டுவிட்டுத் தோல்வி யுற்று (பின்வாங்கிச்) சென்றார்கள். அப்போது நான் ஆயிஷா பின்த் அபீபக்ர் (ரலி) அவர்களையும் உம்மு சுலைம் (ரலி) அவர்களையும் கண்டேன். அவர்கள் இருவரும் (தண்ணீர் நிரம்பிய) தோல் பைகளைத் தம் முதுகுகளில் சுமந்துகொண்டு வேகவேகமாக நடந்து(சென்று காயமுற்று வீழ்ந்து கிடக்கும்) மக்களின் வாய்களில் தண்ணீரை ஊற்றுவதும் பிறகு (தண்ணீர் காலியானதும்) திரும்பிச் சென்று அவற்றை நிரப்பிக்கொண்டு, மீண்டும் வந்து மக்களின் வாய்களில் தண்ணீர் ஊற்றுவதுமாக இருந்தார்கள். நான் அவர்களின் கால்களில் அணிந் திருந்த தண்டைகளைப் பார்க்கும் அளவுக்கு அவர்கள் வரிந்து கட்டிக் கொண்டு (மும்முரமாகப்) பணி புரிந்து கொண்டிருந்தார்கள். யிதோல் பைகளைத் தம் முதுகுகளில் சுமந்து வேகமாக நடந்து சென்று’ என்ப தற்குப் பதிலாக, யிதோல் பைகளைத் தம் முதுகுகளில் சுமந்து எடுத்துச் சென்று’ என்று மற்றோர் அறிவிப்பாளர் கூறியுள் ளார். அத்தியாயம் : 56
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: உஹுத் போரின்போது மக்கள் நபி (ஸல்) அவர்களை விட்டுவிட்டுத் தோல்வி யுற்று (பின்வாங்கிச்) சென்றார்கள். அப்போது நான் ஆயிஷா பின்த் அபீபக்ர் (ரலி) அவர்களையும் உம்மு சுலைம் (ரலி) அவர்களையும் கண்டேன். அவர்கள் இருவரும் (தண்ணீர் நிரம்பிய) தோல் பைகளைத் தம் முதுகுகளில் சுமந்துகொண்டு வேகவேகமாக நடந்து(சென்று காயமுற்று வீழ்ந்து கிடக்கும்) மக்களின் வாய்களில் தண்ணீரை ஊற்றுவதும் பிறகு (தண்ணீர் காலியானதும்) திரும்பிச் சென்று அவற்றை நிரப்பிக்கொண்டு, மீண்டும் வந்து மக்களின் வாய்களில் தண்ணீர் ஊற்றுவதுமாக இருந்தார்கள். நான் அவர்களின் கால்களில் அணிந் திருந்த தண்டைகளைப் பார்க்கும் அளவுக்கு அவர்கள் வரிந்து கட்டிக் கொண்டு (மும்முரமாகப்) பணி புரிந்து கொண்டிருந்தார்கள். யிதோல் பைகளைத் தம் முதுகுகளில் சுமந்து வேகமாக நடந்து சென்று’ என்ப தற்குப் பதிலாக, யிதோல் பைகளைத் தம் முதுகுகளில் சுமந்து எடுத்துச் சென்று’ என்று மற்றோர் அறிவிப்பாளர் கூறியுள் ளார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2880</td></tr><tr><td>Arabic No</td><td>2880</td></tr><tr><td>Reference</td><td>Book 56 Hadith 95</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul War
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik'in şöyle dediği nakledilmiştir: "Uhud savaşında Müslümanlar bozguna uğramış ve Resulullah Sallallahu Aleyhi ve Sellem'in yanından uzaklaşıp dağılmışlardı. Ben Aişe r.anha ile Ümmü Süleym'i gördüm. Eteklerini toplamışlardı ve ayak bileklerindeki halhallar görünüyordu. Onlar seke seke omuzlarında kırbalarla su taşıyorlar ve mücahitlere su içiriyorlardı. Sonra dönüyor, kırbalarını doldurup tekrar mücahitlere su veriyorlardı. " Tekrar: 2902, 3811, 4064
+Enes İbn Malik'in şöyle dediği nakledilmiştir: "Uhud savaşında Müslümanlar bozguna uğramış ve Resulullah Sallallahu Aleyhi ve Sellem'in yanından uzaklaşıp dağılmışlardı. Ben Aişe r.anha ile Ümmü Süleym'i gördüm. Eteklerini toplamışlardı ve ayak bileklerindeki halhallar görünüyordu. Onlar seke seke omuzlarında kırbalarla su taşıyorlar ve mücahitlere su içiriyorlardı. Sonra dönüyor, kırbalarını doldurup tekrar mücahitlere su veriyorlardı. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2880</td></tr><tr><td>Arabic No</td><td>2880</td></tr><tr><td>Reference</td><td>Book 56 Hadith 95</td></tr></tbody></table></div>
 

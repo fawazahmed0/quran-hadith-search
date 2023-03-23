@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... মু‘আয ইবন যুহরা (রাঃ) নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেছেন যে, তিনি ইফতারের সময় এই দু‘আ পড়তেন (অর্থ): হে আল্লাহ্! আমি তোমারই জন্য রোযা রেখেছি এবং তোমরাই রিযক দ্বারা ইফতার করছি।
+। মুয়ায ইবনু যুহরা (রাযি.) সূত্রে বর্ণিত। তাঁর নিকট হাদীস পৌঁছেছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইফতারের সময় বলতেনঃ ‘‘আল্লাহুম্মা লাকা সুমতু ওয়া ‘আলা রিযকিকা আফতারতু।’’ অর্থঃ হে আল্লাহ! আমি আপনার উদ্দেশ্যেই সওম পালন করেছি এবং আপনার দেয়া রিযিক দ্বারাই ইফতার করেছি।[1] দুর্বলঃ মিশকাত (১৯৯৪), ইরওয়া
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sanad Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2358</td></tr><tr><td>Arabic No</td><td>2358</td></tr><tr><td>Reference</td><td>Book 14 Hadith 46</td></tr></tbody></table></div>
 

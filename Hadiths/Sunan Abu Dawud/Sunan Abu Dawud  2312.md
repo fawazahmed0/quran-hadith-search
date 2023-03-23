@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ্ ইবন মু‘আয মু‘তামির থেকে এবং তিনি তার পিতা হতে (কুরআনের এ আয়াত) বর্ণনা করেছেন যে, ‘‘আর তাদের মধ্যে যারা অপছন্দনীয় কাজ করে, নিশ্চই আল্লাহ্ তার এ অপছন্দনীয় কাজের পরেও মার্জনাকারী, অনুগ্রহশীল।’’ রাবী বলেন, সাঈদ ইবন আবুল হাসান বলেন, যারা বাধ্য হয়ে অপকর্ম করে, সেই সমস্ত নারীদের জন্য আল্লাহ্ মার্জনাকারী।
+। মু'তামির (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। ‘‘আর তাদের মধ্যে যে অপছন্দনীয় কাজ করে, নিশ্চয় আল্লাহ মহা ক্ষমাশীল ও পরম দয়ালু’’ (সূরা আন-নূরঃ ৩৩)। সাঈদ ইবনু আবুল হাসান (রহ.) বলেন, যারা বাধ্য হয়ে এ অপকর্ম করে, আল্লাহ তাদের প্রতি ক্ষমাশীল।[1] সহীহ মাকতূ’।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2312</td></tr><tr><td>Arabic No</td><td>2312</td></tr><tr><td>Reference</td><td>Book 13 Hadith 138</td></tr></tbody></table></div>
 

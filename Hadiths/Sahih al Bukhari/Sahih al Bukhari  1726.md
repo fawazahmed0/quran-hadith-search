@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহ.) হতে বর্ণিত যে, ইবনু ‘উমার (রাঃ) বলতেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাজ্জের সময় তাঁর মাথা কামিয়েছিলেন। (৪৪১০, ৪৪১১, মুসলিম ১৫/৫৫, হাঃ ১৩০৪, আহমাদ ৫৬১৮) (আধুনিক প্রকাশনীঃ ১৬০৮. ইসলামিক ফাউন্ডেশনঃ ১৬১৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+নাফি‘ (রহ.) হতে বর্ণিত যে, ইবনু ‘উমার (রাঃ) বলতেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাজ্জের সময় তাঁর মাথা কামিয়েছিলেন। (৪৪১০, ৪৪১১, মুসলিম ১৫/৫৫, হাঃ ১৩০৪, আহমাদ ৫৬১৮) (আধুনিক প্রকাশনীঃ ১৬০৮. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1726</td></tr><tr><td>Arabic No</td><td>1726</td></tr><tr><td>Reference</td><td>Book 25 Hadith 204</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது ஹஜ்ஜின்போது தலையை மழித் தார்கள். அத்தியாயம் : 25
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தமது ஹஜ்ஜின்போது தலையை மழித் தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1726</td></tr><tr><td>Arabic No</td><td>1726</td></tr><tr><td>Reference</td><td>Book 25 Hadith 204</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nafi'den rivayet edildiğine göre İbn Ömer r.a. şöyle derdi: Resulullah Sallallahu Aleyhi ve Sellem yaptığı hacda saçını kazıttı. Tekrar: 4410, 4411
+Nafi'den rivayet edildiğine göre İbn Ömer r.a. şöyle derdi: Resulullah Sallallahu Aleyhi ve Sellem yaptığı hacda saçını kazıttı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1726</td></tr><tr><td>Arabic No</td><td>1726</td></tr><tr><td>Reference</td><td>Book 25 Hadith 204</td></tr></tbody></table></div>
 

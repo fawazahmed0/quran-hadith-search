@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পরিবার-পরিজনের প্রতি তোমরা অধিক সম্মান প্রদর্শন করবে। (৩৭৫১) (আধুনিক প্রকাশনীঃ ৩৪৩৭, ইসলামিক ফাউন্ডেশনঃ ৩৪৪৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পরিবার-পরিজনের প্রতি তোমরা অধিক সম্মান প্রদর্শন করবে। (৩৭৫১) (আধুনিক প্রকাশনীঃ ৩৪৩৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3713</td></tr><tr><td>Arabic No</td><td>3713</td></tr><tr><td>Reference</td><td>Book 62 Hadith 62</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku ['Abdullah bin 'Abdul Wahhab] telah bercerita kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூபக்ர் (ரலி) அவர்கள் கூறி னார்கள்: முஹம்மத் (ஸல்) அவர்களின் குடும்பத்தார் விஷயத்தில் கவனமாக நடந்துகொள்ளுங்கள். (அவர்களைப் பாதுகாத்துவாருங்கள். அவர்களுக்குத் துன்பம் தராதீர்கள்.) இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 62
+அபூபக்ர் (ரலி) அவர்கள் கூறி னார்கள்: முஹம்மத் (ஸல்) அவர்களின் குடும்பத்தார் விஷயத்தில் கவனமாக நடந்துகொள்ளுங்கள். (அவர்களைப் பாதுகாத்துவாருங்கள். அவர்களுக்குத் துன்பம் தராதீர்கள்.) இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3713</td></tr><tr><td>Arabic No</td><td>3713</td></tr><tr><td>Reference</td><td>Book 62 Hadith 62</td></tr></tbody></table></div>
 

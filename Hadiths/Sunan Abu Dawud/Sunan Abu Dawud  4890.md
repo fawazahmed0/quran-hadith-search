@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪৮১০ আবূ বকর ইবন আবূ শায়বা (রহঃ) ..... যায়দ (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ একবার এক ব্যক্তিকে ইবন মাসঊদ (রাঃ)-এর কাছে হাযির করা হলে, লোকেরা বলেঃ এতো ঐ ব্যক্তি যার দাঁড়ি থেকে মদের ফোঁটা পড়তো! তখন আবদুল্লাহ (রাঃ) বলেনঃ আমাদেরক অন্যের দোষ-ক্রটি অন্বেষণ করতে নিষেধ করা হয়েছে, তবে তারে ত্রুটি প্রকাশ পেলে আমরা তাকে শাস্তি দেব।
+। যায়িদ ইবনু ওয়াহব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা এক ব্যক্তিকে ইবনু মাসঊদ (রাঃ)-এর নিকট এনে বলা হলো, এই সেই লোক যার দাড়ি থেকে মদ টপকে পড়ছে। আব্দুল্লাহ (রাঃ) বললেন, আমাদের জন্য গোয়েন্দাগিরি নিষিদ্ধ করা হয়েছে। কিন্তু যদি প্রকাশ্যে কোনো অন্যায় আমাদের সামনে ধরা পড়ে তাহলে এর জন্য আমরা তাকে ধরবো।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4890</td></tr><tr><td>Arabic No</td><td>4890</td></tr><tr><td>Reference</td><td>Book 43 Hadith 118</td></tr></tbody></table></div>
 

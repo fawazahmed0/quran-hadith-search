@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উকবা ইবনু হারিস (রাঃ) হতে বর্ণিত। তিনি বলেন, নু‘আইমানকে অথবা ইবনু নু‘আইমানকে নেশাগ্রস্ত অবস্থায় আনা হল। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘরে উপস্থিত লোকদেরকে তাকে প্রহার করতে আদেশ দিলেন। রাবী বলেন, যারা তাকে প্রহার করেছিল, তাদের মধ্যে আমিও ছিলাম। আমরা তাকে জুতা দিয়ে এবং খেজুর ডাল দিয়ে প্রহার করেছি। (৬৭৭৪, ৬৭৭৫) (আধুনিক প্রকাশনীঃ ২১৪৮, ইসলামিক ফাউন্ডেশনঃ ২১৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উকবা ইবনু হারিস (রাঃ) হতে বর্ণিত। তিনি বলেন, নু‘আইমানকে অথবা ইবনু নু‘আইমানকে নেশাগ্রস্ত অবস্থায় আনা হল। তখন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঘরে উপস্থিত লোকদেরকে তাকে প্রহার করতে আদেশ দিলেন। রাবী বলেন, যারা তাকে প্রহার করেছিল, তাদের মধ্যে আমিও ছিলাম। আমরা তাকে জুতা দিয়ে এবং খেজুর ডাল দিয়ে প্রহার করেছি। (৬৭৭৪, ৬৭৭৫) (আধুনিক প্রকাশনীঃ ২১৪৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2316</td></tr><tr><td>Arabic No</td><td>2316</td></tr><tr><td>Reference</td><td>Book 40 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ibnu Salam] telah mengabarkan kepada kami ['Abdu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உக்பா பின் ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: போதையில் இருந்த ‘நுஐமான்’ அல்லது ‘அவருடைய மகன்’ நபி (ஸல்) அவர்களிடம் கொண்டுவரப்பட்டபோது, வீட்டில் இருப்பவர்கள் (வெளியே வந்து) அவரை அடிக்கும்படி நபி (ஸல்) அவர்கள் கட்டளையிட்டார்கள். அவரை அடித்தவர்களில் நானும் ஒருவன். நாங்கள் காலணிகளாலும் பேரீச்ச மட்டையாலும் அவரை அடித்தோம். அத்தியாயம் : 40
+உக்பா பின் ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: போதையில் இருந்த ‘நுஐமான்’ அல்லது ‘அவருடைய மகன்’ நபி (ஸல்) அவர்களிடம் கொண்டுவரப்பட்டபோது, வீட்டில் இருப்பவர்கள் (வெளியே வந்து) அவரை அடிக்கும்படி நபி (ஸல்) அவர்கள் கட்டளையிட்டார்கள். அவரை அடித்தவர்களில் நானும் ஒருவன். நாங்கள் காலணிகளாலும் பேரீச்ச மட்டையாலும் அவரை அடித்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2316</td></tr><tr><td>Arabic No</td><td>2316</td></tr><tr><td>Reference</td><td>Book 40 Hadith 15</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibnu Salam] telah mengabarkan kepada kami ['Abdu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ukbe İbnü'l-Haris r.a. şöyle anlatır: Nuayman içki içmiş bir halde ResuluIlah'a getirildi. Nebi Sallallahu Aleyhi ve Sellem evde bulunanlara ona vurmalarını emretti. Ben de, vuran kimselerin arasında idim. Onu, ayakkabı ve hurma ağacından yapılmış değnek ile dövdük. Tekrar: 2774, 2775
+Ukbe İbnü'l-Haris r.a. şöyle anlatır: Nuayman içki içmiş bir halde ResuluIlah'a getirildi. Nebi Sallallahu Aleyhi ve Sellem evde bulunanlara ona vurmalarını emretti. Ben de, vuran kimselerin arasında idim. Onu, ayakkabı ve hurma ağacından yapılmış değnek ile dövdük. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2316</td></tr><tr><td>Arabic No</td><td>2316</td></tr><tr><td>Reference</td><td>Book 40 Hadith 15</td></tr></tbody></table></div>
 

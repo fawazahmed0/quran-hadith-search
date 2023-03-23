@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৩৬০। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তার পরিবার-পরিজন একাধারে কয়েক রাত ক্ষুধার্ত অবস্থায় কাটিয়ে দিতেন। তাদের জন্য রাতের খাবার জুটত না। আর বেশিরভাগ সময় যবের রুটিই ছিল তাদের খাদ্য। হাসান, ইবনু মা-জাহ (২৩৪৭)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। ইবনু আব্বাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তার পরিবার-পরিজন একাধারে কয়েক রাত ক্ষুধার্ত অবস্থায় কাটিয়ে দিতেন। তাদের জন্য রাতের খাবার জুটত না। আর বেশিরভাগ সময় যবের রুটিই ছিল তাদের খাদ্য। হাসান, ইবনু মা-জাহ (২৩৪৭)। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2360</td></tr><tr><td>Arabic No</td><td>2360</td></tr><tr><td>Reference</td><td>Book 36 Hadith 57</td></tr></tbody></table></div>
 

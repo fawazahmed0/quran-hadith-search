@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, উষ্ট্রারোহী মহিলাদের মধ্যে কুরাইশ বংশীয়া মহিলারা সর্বোত্তম। তারা শিশু সন্তানদের প্রতি স্নেহশীল এবং স্বামীর মর্যাদার উত্তম রক্ষাকারিণী। [৩৪৩৪] (আধুনিক প্রকাশনী- ৪৭০৯, ইসলামিক ফাউন্ডেশন- ৪৭১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বর্ণনা করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, উষ্ট্রারোহী মহিলাদের মধ্যে কুরাইশ বংশীয়া মহিলারা সর্বোত্তম। তারা শিশু সন্তানদের প্রতি স্নেহশীল এবং স্বামীর মর্যাদার উত্তম রক্ষাকারিণী। [৩৪৩৪] (আধুনিক প্রকাশনী- ৪৭০৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5082</td></tr><tr><td>Arabic No</td><td>5082</td></tr><tr><td>Reference</td><td>Book 67 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'a
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒட்டகங்களில் பயணம் செய்த (அரபுப்) பெண்களிலேயே சிறந்தவர்கள், நல்ல குறைஷிகுல பெண்களாவர். அவர்கள் குழந்தைகள்மீது அதிகப் பாசம் கொண்டவர்கள்; தம் கணவனின் செல் வத்தை அதிகமாகப் பேணிக் காப்ப வர்கள்.18 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 67
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒட்டகங்களில் பயணம் செய்த (அரபுப்) பெண்களிலேயே சிறந்தவர்கள், நல்ல குறைஷிகுல பெண்களாவர். அவர்கள் குழந்தைகள்மீது அதிகப் பாசம் கொண்டவர்கள்; தம் கணவனின் செல் வத்தை அதிகமாகப் பேணிக் காப்ப வர்கள்.18 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5082</td></tr><tr><td>Arabic No</td><td>5082</td></tr><tr><td>Reference</td><td>Book 67 Hadith 20</td></tr></tbody></table></div>
 

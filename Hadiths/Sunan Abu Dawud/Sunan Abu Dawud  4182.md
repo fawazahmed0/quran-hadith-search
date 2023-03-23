@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ্‌ ইব্‌ন উমার (রহঃ) .... আনাস (রাঃ) থেকে বর্ণিত যে, এমন এক ব্যক্তি রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়, যার হাতে হলুদ চিহ্ন ছিল। আর রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অভ্যাস এরূপ ছিল যে, তিনি কদাচিৎ কোন ব্যক্তির সামনে তার ঐ বিষয়ের উল্লেখ করতেন, যা তাঁর নিকট অপসন্দনীয় হতো। সে ব্যক্তি চলে যাওয়ার পর তিনি বলেনঃ তোমরা যদি তার হাতের রং ধুয়ে ফেলতে বল, তবে খবই ভাল হবে।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। এক ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলো। তার দেহে হলদে রঙের চিহ্ন বিদ্যমান ছিলো। কারো চেহারায় তার অপছন্দনীয় কিছু দেখলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খুব কমই তার দিকে তাকাতেন। লোকটি চলে গেলে তিনি বললেনঃ তোমরা যদি তাকে এগুলো ধুয়ে ফেলার আদেশ দিতে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4182</td></tr><tr><td>Arabic No</td><td>4182</td></tr><tr><td>Reference</td><td>Book 35 Hadith 24</td></tr></tbody></table></div>
 

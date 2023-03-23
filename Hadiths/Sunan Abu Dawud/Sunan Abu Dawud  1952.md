@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবনু আল-আ‘লা ..... ইবন আবূ নাজীহ্ (রহঃ) তাঁর পিতা হতে, তিনি বনী বাকরের এক ব্যক্তি হতে বর্ণনা করেছেন। তাঁরা বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে আয়্যামে তাশরীকের মধ্যম দিনে (অর্থাৎ ১২ যিল হজ্জ) খুতবা প্রদান করতে দেখেছি। আর এ সময় আমরা তাঁর সাওয়ারীর কাছে উপস্থিত ছিলাম। আর তা ছিল সেই খুতবা যা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিনাতে পেশ করেন।
+। ইবনু আবূ নাজীহ (রহ.) সূত্রে বর্ণিত। তিনি তাঁর পিতা থেকে বনী বাকরের দুই ব্যক্তি সূত্রে বর্ণনা করেন যে, তারা বলেছেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে ‘আইয়্যামে তাশরীকে’ মধ্যের দিন (বারো তারিখ) খুৎবা দিতে দেখেছি। এই সময় আমরা তাঁর সওয়ারীর নিকটেই ছিলাম। মিনাতে এটাই ছিলো রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পেশকৃত খুৎবা।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 11 Hadith 232</td></tr></tbody></table></div>
 

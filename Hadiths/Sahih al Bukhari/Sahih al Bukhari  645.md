@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَكَانَ الْأَسْوَدُ إِذَا فَاتَتْهُ الْجَمَاعَةُ ذَهَبَ إِلَى مَسْجِدٍ آخَرَ وَجَاءَ أَنَسُ بْنُ مَالِكٍ إِلَى مَسْجِدٍ قَدْ صُلِّيَ فِيهِ فَأَذَّنَ وَأَقَامَ وَصَلَّى جَمَاعَةً জামা‘আত না পেলে আসওয়াদ ইবনু ইয়াযীদ (রাযি.) অন্য মসজিদে চলে যেতেন। আনাস ইবনু মালিক (রাযি.) এমন এক মসজিদে গেলেন যেখানে আযান ও ইক্বামাত(ইকামত/একামত) দিয়ে জামা‘আতে সালাত আদায় করলেন। ৬৪৫. ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জামা‘আতে সালাতের ফাযীলত একাকী আদায়কৃত সালাত অপেক্ষা সাতাশ গুণ বেশী। (৬৪৯; মুসলিম ৫/৪২, হাঃ ৬৫০, আহমাদ ৫৩৩২) (আধুনিক প্রকাশনীঃ ৬০৯, ইসলামিক ফাউন্ডেশনঃ ৬১৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَكَانَ الْأَسْوَدُ إِذَا فَاتَتْهُ الْجَمَاعَةُ ذَهَبَ إِلَى مَسْجِدٍ آخَرَ وَجَاءَ أَنَسُ بْنُ مَالِكٍ إِلَى مَسْجِدٍ قَدْ صُلِّيَ فِيهِ فَأَذَّنَ وَأَقَامَ وَصَلَّى جَمَاعَةً জামা‘আত না পেলে আসওয়াদ ইবনু ইয়াযীদ (রাযি.) অন্য মসজিদে চলে যেতেন। আনাস ইবনু মালিক (রাযি.) এমন এক মসজিদে গেলেন যেখানে আযান ও ইক্বামাত(ইকামত/একামত) দিয়ে জামা‘আতে সালাত আদায় করলেন। ৬৪৫. ‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) হতে বর্ণিত। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জামা‘আতে সালাতের ফাযীলত একাকী আদায়কৃত সালাত অপেক্ষা সাতাশ গুণ বেশী। (৬৪৯; মুসলিম ৫/৪২, হাঃ ৬৫০, আহমাদ ৫৩৩২) (আধুনিক প্রকাশনীঃ ৬০৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>645</td></tr><tr><td>Arabic No</td><td>645</td></tr><tr><td>Reference</td><td>Book 10 Hadith 42</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தனியாகத் தொழுவதைவிடக் கூட்டாக (ஜமாஅத்தாக)த் தொழுவது இருபத்தேழு மடங்கு சிறந்ததாகும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 10
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: தனியாகத் தொழுவதைவிடக் கூட்டாக (ஜமாஅத்தாக)த் தொழுவது இருபத்தேழு மடங்கு சிறந்ததாகும். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>645</td></tr><tr><td>Arabic No</td><td>645</td></tr><tr><td>Reference</td><td>Book 10 Hadith 42</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah Ibn Ömer (r.a.)'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu nakledilmiştir: "Cemaatle kılınan namaz, tek başına kılınan namazdan yirmi yedi derece daha üstündür. Tekrar: 649
+Abdullah Ibn Ömer (r.a.)'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu nakledilmiştir: "Cemaatle kılınan namaz, tek başına kılınan namazdan yirmi yedi derece daha üstündür. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>645</td></tr><tr><td>Arabic No</td><td>645</td></tr><tr><td>Reference</td><td>Book 10 Hadith 42</td></tr></tbody></table></div>
 

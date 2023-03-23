@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৯৮৯। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের (ছোটদের) সাথে মিশতেন। এমনকি আমার ছোট ভাইটিকে তিনি কৌতুক করে বলতেনঃ হে আবূ উমাইর! কি করেছে নুগাইর (ছোট্ট পোষা পাখি)। সহীহ, বুখারী ও মুসলিম। ৩৩৩ নং হাদীস পূর্বে বর্ণিত হয়েছে হান্নাদ-ওয়াকী হতে, তিনি শুবা হতে, তিনি আবূত তাইয়্যাহ হতে, তিনি আনাস (রাঃ) হতে একইরকম বর্ণনা করেছেন। আবূত তাইয়্যাহ-এর নাম ইয়াযীদ, পিতা হুমাইদ আয-যুবাই। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আনাস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের (ছোটদের) সাথে মিশতেন। এমনকি আমার ছোট ভাইটিকে তিনি কৌতুক করে বলতেনঃ হে আবূ উমাইর! কি করেছে নুগাইর (ছোট্ট পোষা পাখি)। সহীহ, বুখারী ও মুসলিম। ৩৩৩ নং হাদীস পূর্বে বর্ণিত হয়েছে হান্নাদ-ওয়াকী হতে, তিনি শুবা হতে, তিনি আবূত তাইয়্যাহ হতে, তিনি আনাস (রাঃ) হতে একইরকম বর্ণনা করেছেন। আবূত তাইয়্যাহ-এর নাম ইয়াযীদ, পিতা হুমাইদ আয-যুবাই। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1989</td></tr><tr><td>Arabic No</td><td>1989</td></tr><tr><td>Reference</td><td>Book 27 Hadith 95</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdullah bin Al Wadldlah Al Kufi], telah menceri
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) biz çocuklarla beraber olur aramıza karışırdı. Hatta benim küçük kardeşime şöyle; “Ey Ömercik kuşun ne haldedir” diyerek şakalaşırdı. (Ebû Dâvûd, Edeb: 64)
+Enes (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) biz çocuklarla beraber olur aramıza karışırdı. Hatta benim küçük kardeşime şöyle; “Ey Ömercik kuşun ne haldedir” diyerek şakalaşırdı. (Ebû Dâvûd, Edeb:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1989</td></tr><tr><td>Arabic No</td><td>1989</td></tr><tr><td>Reference</td><td>Book 27 Hadith 95</td></tr></tbody></table></div>
 

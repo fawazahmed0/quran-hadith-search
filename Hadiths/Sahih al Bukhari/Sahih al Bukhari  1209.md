@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায়কালে আমি তাঁর কিবলার দিকে পা ছড়িয়ে রাখতাম; তিনি সিজদা্ করার সময় আমাকে খোঁচা দিলে আমি পা সরিয়ে নিতাম; তিনি দাঁড়িয়ে গেলে আবার পা ছড়িয়ে দিতাম। (৩৮২) (আধুনিক প্রকাশনীঃ ১১৩০, ইসলামিক ফাউন্ডেশনঃ ১১৩৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায়কালে আমি তাঁর কিবলার দিকে পা ছড়িয়ে রাখতাম; তিনি সিজদা্ করার সময় আমাকে খোঁচা দিলে আমি পা সরিয়ে নিতাম; তিনি দাঁড়িয়ে গেলে আবার পা ছড়িয়ে দিতাম। (৩৮২) (আধুনিক প্রকাশনীঃ ১১৩০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1209</td></tr><tr><td>Arabic No</td><td>1209</td></tr><tr><td>Reference</td><td>Book 21 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தொழும்போது நபி (ஸல்) அவர்களை நோக்கி என் கால்களை நான் நீட்டிக்கொண்டிருப் பேன். அவர்கள் சஜ்தா செய்யும்போது என்னை விரலால் குத்துவார்கள். உடனே கால்களை நான் மடக்கிக்கொள் வேன்; அவர்கள் எழுந்ததும் கால்களை நீட்டிக்கொள்வேன். அத்தியாயம் : 21
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தொழும்போது நபி (ஸல்) அவர்களை நோக்கி என் கால்களை நான் நீட்டிக்கொண்டிருப் பேன். அவர்கள் சஜ்தா செய்யும்போது என்னை விரலால் குத்துவார்கள். உடனே கால்களை நான் மடக்கிக்கொள் வேன்; அவர்கள் எழுந்ததும் கால்களை நீட்டிக்கொள்வேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1209</td></tr><tr><td>Arabic No</td><td>1209</td></tr><tr><td>Reference</td><td>Book 21 Hadith 13</td></tr></tbody></table></div>
 

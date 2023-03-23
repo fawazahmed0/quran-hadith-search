@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অধিকাংশ সময় কসম করতেন এ কথা বলে- না, তাঁর কসম, যিনি অন্তরসমূহ পরিবর্তন করে দেন। [৬৬১৭] (আধুনিক প্রকাশনী- ৬৮৭৫, ইসলামিক ফাউন্ডেশন- ৬৮৮৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অধিকাংশ সময় কসম করতেন এ কথা বলে- না, তাঁর কসম, যিনি অন্তরসমূহ পরিবর্তন করে দেন। [৬৬১৭] (আধুনিক প্রকাশনী- ৬৮৭৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7391</td></tr><tr><td>Arabic No</td><td>7391</td></tr><tr><td>Reference</td><td>Book 97 Hadith 20</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Said bin Sulaiman] dari [Ibnul Mubarak] dari [Musa 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சத்தியம் செய்யும்போது அதிகமாகப் பயன்படுத்திய வாக்கியம், “இல்லை; உள்ளங்களைப் புரட்டுபவன்மீதாணையாக!” என்ப தாகவே இருந்தது.26 அத்தியாயம் : 97
+அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் சத்தியம் செய்யும்போது அதிகமாகப் பயன்படுத்திய வாக்கியம், “இல்லை; உள்ளங்களைப் புரட்டுபவன்மீதாணையாக!” என்ப தாகவே இருந்தது.26 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7391</td></tr><tr><td>Arabic No</td><td>7391</td></tr><tr><td>Reference</td><td>Book 97 Hadith 20</td></tr></tbody></table></div>
 

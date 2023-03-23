@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ইয়াযীদ বাদরী সাহাবী আবূ মাস‘উদ (রাঃ)-কে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করতে শুনেছেন, তিনি বলেন, স্বীয় আহলের (পরিবার পরিজনের) জন্য ব্যয় করাও সদাক্বাহ। [৫৫] (আধুনিক প্রকাশনীঃ ৩৭০৯, ইসলামিক ফাউন্ডেশনঃ ৩৭১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ইয়াযীদ বাদরী সাহাবী আবূ মাস‘উদ (রাঃ)-কে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করতে শুনেছেন, তিনি বলেন, স্বীয় আহলের (পরিবার পরিজনের) জন্য ব্যয় করাও সদাক্বাহ। [৫৫] (আধুনিক প্রকাশনীঃ ৩৭০৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4006</td></tr><tr><td>Arabic No</td><td>4006</td></tr><tr><td>Reference</td><td>Book 64 Hadith 57</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Masud Al-Badri:The Prophet (ﷺ) said, "A man's spending on his fam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதர் தம் குடும்பத்தாருக்காகச் செய்யும் செலவும் தர்மமே ஆகும். இதை பத்ர் போரில் கலந்துகொண்டவரான அபூமஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.48 அத்தியாயம் : 64
+நபி (ஸல்) அவர்கள் கூறினார்கள்: ஒரு மனிதர் தம் குடும்பத்தாருக்காகச் செய்யும் செலவும் தர்மமே ஆகும். இதை பத்ர் போரில் கலந்துகொண்டவரான அபூமஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.48 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4006</td></tr><tr><td>Arabic No</td><td>4006</td></tr><tr><td>Reference</td><td>Book 64 Hadith 57</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাররাফ ইবন ‘আমর ...... সাফিয়্যা বিনতে শায়বা (রাঃ) হতে বর্ণিত। তিনি বলেন, মক্কা বিজয়েরর বছর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বস্তি লাভের পর উটে আরোহণ করে (বায়তুল্লাহ্) তাওয়াফ করেন। ঐ সময় তিনি হাজরে আসওয়াদকে তাঁর হাতের লাঠির সাহায্যে (ইশারায়) চুম্বন করেন। রাবী (সাফিয়্যা) বলেন, আমি এই দৃশ্য স্বচক্ষে অবলোকন করেছি।
+। সাফিয়্যাহ বিনতু শাইবাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, মক্কা বিজয়ের সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিরাপদ হওয়ার পর তাঁর উটে সওয়ার হয়ে বায়তুল্লাহ তাওয়াফ করেন এবং তাঁর হাতের লাঠির সাহায্যে (ইশারায়) হাজরে আসওয়াদে চুমু দিলেন। সাফিয়্যাহ বলেন, আমি এ দৃশ্য তাকিয়ে দেখেছিলাম।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 158</td></tr></tbody></table></div>
 

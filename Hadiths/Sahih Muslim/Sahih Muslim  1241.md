@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১১২৮, আন্তর্জাতিক নাম্বারঃ ৫৫৭ ১১২৮-(৬৪/৫৫৭) 'আম্‌র আন নাকিদ, যুহায়র ইবনু হারব ও আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রাতের খাবার উপস্থিত থাকবে। এমন অবস্থায় যদি সালাতের ইকামাতও দেয়া হয় তাহলে প্রথমে খাবার খেয়ে নিবে। (ইসলামী ফাউন্ডেশন ১১২১, ইসলামীক সেন্টার ১১৩০)
+আম্‌র আন নাকিদ, যুহায়র ইবনু হারব ও আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রাতের খাবার উপস্থিত থাকবে। এমন অবস্থায় যদি সালাতের ইকামাতও দেয়া হয় তাহলে প্রথমে খাবার খেয়ে নিবে। (ইসলামী ফাউন্ডেশন ১১২১, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1241</td></tr><tr><td>Arabic No</td><td>557.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 79</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah mengabarkan kepadaku [Amru an-Naqid] dan [Zuhair bin Harb] serta [Abu Baka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் அஷ்ஷிக்கீர் (ரலி) அவர்கள் கூறியதாவது நான் நபி (ஸல்) அவர்களுடன் தொழுதேன். அப்போது அவர்கள் சளியை உமிழ்ந்துவிட்டு அதைத் தமது இடது கால் காலணியால் தேய்த்து விட்டார்கள். அத்தியாயம் : 5
+அப்துல்லாஹ் பின் அஷ்ஷிக்கீர் (ரலி) அவர்கள் கூறியதாவது நான் நபி (ஸல்) அவர்களுடன் தொழுதேன். அப்போது அவர்கள் சளியை உமிழ்ந்துவிட்டு அதைத் தமது இடது கால் காலணியால் தேய்த்து விட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1241</td></tr><tr><td>Arabic No</td><td>557.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 79</td></tr></tbody></table></div>
 

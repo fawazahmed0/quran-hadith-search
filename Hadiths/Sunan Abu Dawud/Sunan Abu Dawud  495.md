@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুআম্মাল ইবনু হিশাম ..... আমর ইবনু শুআয়েব (রহঃ) থেকে পর্যায়ক্রমে তাঁর পিতা এবং দাদার সূত্রে বর্ণিত। তিনি (দাদা) বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যখন তোমাদের সন্তানরা সাত বছরে উপনীত হবে, তখন তাদেরকে নামায পড়ার নির্দেশ দেবে এবং তাদের বয়স যখন দশ বছর হবে তখন নামায না পড়লে এজন্য তাদেরকে মারপিট কর এবং তাদের (ছেলে-মেয়েদের) বিছানা পৃথক করে দিবে।
+। ‘আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের সন্তানদের বয়স সাত বছর হলে তাদেরকে সালাতের জন্য নির্দেশ দাও। যখন তাদের বয়স দশ বছর হয়ে যাবে তখন (সালাত আদায় না করলে) এজন্য তাদেরকে মারবে এবং তাদের ঘুমের বিছানা আলাদা করে দিবে।[1] হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>495</td></tr><tr><td>Arabic No</td><td>495</td></tr><tr><td>Reference</td><td>Book 2 Hadith 105</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) said: Command
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr b. Şuayb babası vasıtası ile dedesinden Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: “Çocuklarınıza, yedi yaşına geldiklerinde namaz kılmalarını emrediniz. On yaşına geldiklerinde kılmazlarsa dövünüz ve yataklarını ayırınız" Diğer tahric: Ahmed b. Hanbel, II, 180, 187
+Amr b. Şuayb babası vasıtası ile dedesinden Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: “Çocuklarınıza, yedi yaşına geldiklerinde namaz kılmalarını emrediniz. On yaşına geldiklerinde kılmazlarsa dövünüz ve yataklarını ayırınız" Diğer tahric: Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>495</td></tr><tr><td>Arabic No</td><td>495</td></tr><tr><td>Reference</td><td>Book 2 Hadith 105</td></tr></tbody></table></div>
 

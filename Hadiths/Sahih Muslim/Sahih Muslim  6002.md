@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ওয়ালীদ ইবনু শুজা ইবনু ওয়ালীদ আস্‌সাকুনী (রহঃ) ..... জাবির ইবনু সামুরাহ (রাযিঃ) এর সূত্রে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেন, হাওযের কাছে আমি তোমাদের অগ্রগামী হব। তার দু'পাশের দূরত্ব সান’আ ও আয়লার ব্যবধানের সমান। তার পাত্রগুলো যেন নক্ষত্রের ন্যায়। (ইসলামিক ফাউন্ডেশন ৫৭৯৭. ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6002</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

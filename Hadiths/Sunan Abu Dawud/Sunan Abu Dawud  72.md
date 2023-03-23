@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা’দ্দাদ .... আবূ হুরায়রা (রাঃ) হতে অনুরূপ হাদীছ (আরো) বর্ণিত হয়েছে। তবে তা মারফু হাদীছ নয় এবং উক্ত হাদীছে আরো আছেঃ যদি বিড়াল কোন পাত্র লেহন করে তবে তা একবার ধৌত করতে হবে। (ঐ)।
+। আবূ হুরাইরাহ্ (রাঃ) হতে উপরোক্ত হাদীসের সমার্থক বর্ণনাও আছে। তবে সেটি মারফু বর্ণনা নয়। তাতে এও রয়েছেঃ ‘বিড়াল লেহন করলে তা একবার ধুতে হবে।’[1] সহীহ মাওকুফ, মারফুভাবেও এটি সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Arabic No</td><td>72</td></tr><tr><td>Reference</td><td>Book 1 Hadith 72</td></tr></tbody></table></div>
 

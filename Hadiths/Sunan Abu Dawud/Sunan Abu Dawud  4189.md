@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহিয়া ইব্‌ন খাল্‌ফ (রহঃ) ..... আইশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি যখন রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মাথায় সিঁথি কাতার ইচ্ছা করতাম, তখন আমি তাঁর চুলকে দুই ভাগে বিভক্ত করতাম এবং কপালের চুলকে নাক বরাবর তাঁর চোখের দু’দিকে ঝুলিয়ে দিতাম।
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মাথার চুলের সিঁথি করতে চাইলে মাথার মাঝ বরাবর দু’ ভাগ করে সিঁথি করতাম এবং তাঁর দু’ চোখের মাঝখান থেকে সোজা কপালের দু’ দিকে চুল ছেড়ে দিতাম।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>4189</td></tr><tr><td>Reference</td><td>Book 35 Hadith 31</td></tr></tbody></table></div>
 

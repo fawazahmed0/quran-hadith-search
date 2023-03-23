@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3994</td></tr><tr><td>Arabic No</td><td>3994</td></tr><tr><td>Reference</td><td>Book 64 Hadith 45</td></tr></tbody></table></div>
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Mu'adh:The one who asked (the Prophet) was Gabriel (refer to Hadith 5.327)
+Narrated Mu'adh:The one who asked (the Prophet) was Gabriel (refer to Hadith)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3994</td></tr><tr><td>Arabic No</td><td>3994</td></tr><tr><td>Reference</td><td>Book 64 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-முஆத் பின் ரிஃபாஆ (ரஹ்) அவர்கள் கூறியதாவது: வானவர் ஒருவர் நபி (ஸல்) அவர்களிடம் (முந்தைய ஹதீஸில் உள்ளபடி) கேட்டார். அறிவிப்பாளர் யஹ்யா பின் சயீத் (ரஹ்) கூறுகிறார்கள்: இந்த ஹதீஸை முஆத் பின் ரிஃபாஆ (ரஹ்) அவர்கள் எனக்கு அறிவித்த நாளில் யஸீத் பின் அல்ஹாத் (ரஹ்) அவர்களுடன் நான் இருந்தேன். “(நபி (ஸல்) அவர்களிடம்) கேள்வி கேட்டவர் (வானவர்) ஜிப்ரீல் (அலை) அவர்கள்தான்” என ரிஃபாஆ (ரஹ்) கூறினார்கள் என்று யஸீத் சொன்னார்கள். அத்தியாயம் : 64
+முஆத் பின் ரிஃபாஆ (ரஹ்) அவர்கள் கூறியதாவது: வானவர் ஒருவர் நபி (ஸல்) அவர்களிடம் (முந்தைய ஹதீஸில் உள்ளபடி) கேட்டார். அறிவிப்பாளர் யஹ்யா பின் சயீத் (ரஹ்) கூறுகிறார்கள்: இந்த ஹதீஸை முஆத் பின் ரிஃபாஆ (ரஹ்) அவர்கள் எனக்கு அறிவித்த நாளில் யஸீத் பின் அல்ஹாத் (ரஹ்) அவர்களுடன் நான் இருந்தேன். “(நபி (ஸல்) அவர்களிடம்) கேள்வி கேட்டவர் (வானவர்) ஜிப்ரீல் (அலை) அவர்கள்தான்” என ரிஃபாஆ (ரஹ்) கூறினார்கள் என்று யஸீத் சொன்னார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3994</td></tr><tr><td>Arabic No</td><td>3994</td></tr><tr><td>Reference</td><td>Book 64 Hadith 45</td></tr></tbody></table></div>
 

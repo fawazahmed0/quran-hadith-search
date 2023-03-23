@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ১৪. আবু হুরায়রা (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলিয়াছেনঃ দন্তবিশিষ্ট সকল হিংস্র প্রাণী হারাম। মালিক (রহঃ) বলেন, আমাদের নিকটও মাসআলা অনুরূপ।
+রেওয়ায়ত ১৫. মালিক (রহঃ) বলেনঃ ঘোড়া, খচ্চর এবং গাধার গোশত আহার করা সম্পর্কে উত্তর যাহা শুনিয়াছি তাহা এই-উহা আহার করা যাইবে না। কারণ আল্লাহ্ তা'আলা ইরশাদ করিয়াছেনঃ অশ্ব, অশ্বতর ও গর্দভ আমি আরোহণ এবং শোভার জন্য সৃষ্টি করিয়াছি। (আন নাহলঃ ৮) আল্লাহ্ তা'আলা আন’আম সম্বন্ধে ইরশাদ করেন, যাহাতে তোমরা এইগুলির উপর আরোহণ কর এবং এইগুলি আহার কর। আল্লাহ্ তা'আলা আরো ইরশাদ করেনঃ আল্লাহ্ তাহাদিগকে জীবনোপকরণস্বরূপ যেসব চতুষ্পদ আন’আম দান করিয়াছেন সেই সব প্রাণী যবেহ কালে আল্লাহর নাম নেয়। তখন এইগুলি হইতে তোমরা আহার কর এবং প্রার্থীকে আহার করাও।[1] মালিক (রহঃ) বলেন, আমি আহলে ইলমের নিকট শুনিয়াছি-উপরিউক্ত আয়াতে উল্লিখিত ‘বা-ইস’ শব্দের অর্থ ফকির এবং মুতার শব্দের অর্থ আগন্তুক। মালিক (রহঃ) বলেনঃ (এ আয়াতগুলি দ্বারা বোঝা গেল) আল্লাহ্ তা'আলা ঘোড়া, খচ্চর ও গাধা আরোহণ করার জন্য সৃষ্টি করিয়াছেন। আর আন’আম জন্তুসমূহ আহার এবং আরোহণ উভয় কাজের জন্যই সৃষ্টি করিয়াছেন।মালিক (রহঃ) বলেনঃ কানি ভিক্ষুককেও বলা হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Isma'il bin Abu Hakim] dari [Abidah
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre, Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu naklediyor: «Köpek dişi olan yırtıcılar yenmez.» îmam Malik der ki: Biz Medineliler arasında da durum aynıdır? Diğer tahric: Müslim, Sayd ve'z-Zebaih; Şafiî, Risale, no: 562
+Ebu Hureyre, Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu naklediyor: «Köpek dişi olan yırtıcılar yenmez.» îmam Malik der ki: Biz Medineliler arasında da durum aynıdır? Diğer tahric: Müslim, Sayd ve'z-Zebaih; Şafiî, Risale, no:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
 

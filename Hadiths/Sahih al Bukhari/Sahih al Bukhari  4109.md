@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলাইমান ইবনু সুরাদ (রাঃ) হতে বর্ণিত। তিনি বলেন, খন্দক যুদ্ধের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন যে, এখন আমরাই তাদেরকে আক্রমণ করব, তারা আমাদের প্রতি আক্রমণ করতে পারবে না। [৪১১০] (আধুনিক প্রকাশনীঃ ৩৮০৩, ইসলামিক ফাউন্ডেশনঃ ৩৮০৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সুলাইমান ইবনু সুরাদ (রাঃ) হতে বর্ণিত। তিনি বলেন, খন্দক যুদ্ধের দিন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন যে, এখন আমরাই তাদেরকে আক্রমণ করব, তারা আমাদের প্রতি আক্রমণ করতে পারবে না। [৪১১০] (আধুনিক প্রকাশনীঃ ৩৮০৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4109</td></tr><tr><td>Arabic No</td><td>4109</td></tr><tr><td>Reference</td><td>Book 64 Hadith 153</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Sulaiman bin Surd:On the day of Al-Ahzab (i.e. clans) the Prophet (ﷺ)
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-சுலைமான் பின் ஸுரத் (ரலி) அவர்கள் கூறியதாவது: அகழ்ப் போர் (முடிந்து குறைஷியர் தோல்வியுற்றுத் திரும்பிச் சென்ற) தினத்தன்று நபி (ஸல்) அவர்கள், “(இனி போர் தொடுப்பதானால்,) நாமே அவர்களின் மீது போர் தொடுக்க வேண்டும்; அவர்கள் நம்மீது (இனி) போர் தொடுக்க (சக்தி பெற) மாட்டார்கள்” என்று கூறினார்கள். அத்தியாயம் : 64
+சுலைமான் பின் ஸுரத் (ரலி) அவர்கள் கூறியதாவது: அகழ்ப் போர் (முடிந்து குறைஷியர் தோல்வியுற்றுத் திரும்பிச் சென்ற) தினத்தன்று நபி (ஸல்) அவர்கள், “(இனி போர் தொடுப்பதானால்,) நாமே அவர்களின் மீது போர் தொடுக்க வேண்டும்; அவர்கள் நம்மீது (இனி) போர் தொடுக்க (சக்தி பெற) மாட்டார்கள்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4109</td></tr><tr><td>Arabic No</td><td>4109</td></tr><tr><td>Reference</td><td>Book 64 Hadith 153</td></tr></tbody></table></div>
 

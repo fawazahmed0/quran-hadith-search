@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উছমান ইবন আবূ শায়বা (রহঃ) ..... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিহত মুকাতিব গোলামের দিয়াত সম্পর্কে এরূপ নির্দেশ দেন যে, সে তার মুক্তির জন্য যত পরিমাণ টাকা পরিশোধ করে থাকবে, ঐ অংশের দিয়াত, স্বাধীন ব্যক্তির দিয়াতের অনুরূপ দিতে হবে এবং বাকী অংশ কৃতদাসের মত অর্থাৎ অর্ধমূল্য।
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নিহত মুকাতাব গোলামের দিয়াত সম্পর্কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিদ্ধান্ত দিয়েছেন যে, মুকাতাব তার নির্ধারিত মুক্তিপণ থেকে যে পরিমাণ অর্থ আদায় করেছে সে পরিমাণ স্বাধীন ব্যক্তির সমান দিয়াত হিসেবে আদায় করবে এবং বাকী অংশ গোলামের দিয়াতের পরিমানে হবে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4581</td></tr><tr><td>Arabic No</td><td>4581</td></tr><tr><td>Reference</td><td>Book 41 Hadith 88</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a) dan; şöyle demiştir: Rasûlullah (s.a.v) Öldürülen mükâteb'in diyeti konusunda hüküm verdi. Buna göre; mükâteb'e akdinden ötürü ödediği oranda hür diyeti, kalandan da köle diyeti ödenir. Diğer tahric edenler: Nesâî, kasâme; Ahme b. Hanbel I, 363
+İbn Abbas (r.a) dan; şöyle demiştir: Rasûlullah (s.a.v) Öldürülen mükâteb'in diyeti konusunda hüküm verdi. Buna göre; mükâteb'e akdinden ötürü ödediği oranda hür diyeti, kalandan da köle diyeti ödenir. Diğer tahric edenler: Nesâî, kasâme; Ahme b. Hanbel I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4581</td></tr><tr><td>Arabic No</td><td>4581</td></tr><tr><td>Reference</td><td>Book 41 Hadith 88</td></tr></tbody></table></div>
 

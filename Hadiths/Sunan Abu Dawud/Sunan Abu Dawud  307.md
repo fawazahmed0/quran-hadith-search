@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবনু ইসমাঈল .... উম্মুল হুযায়েল (রাঃ) উম্মে আতিয়্যা (রাঃ) হতে বর্ণনা করেন যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের নিকট বাইআত হয়েছিলেন। তিনি বলেন, রক্তস্রাব হতে পবিত্রতা অর্জনের পর আমরা হলুদ ও মেটে রং-এর স্রাব দেখলে তাকে হায়েয হিসাবে গণনা করতাম না।
+। উম্মু ‘আত্বিয়্যাহ (রাঃ) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট বাই‘আত করেছিলেন। তিনি বলেন, হায়িয থেকে পবিত্র হওয়ার পর মেটে ও হলুদ রংয়ের কিছু নির্গত হলে আমরা তা (হায়িয হিসাবে) গণনা করতাম না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>307</td></tr><tr><td>Arabic No</td><td>307</td></tr><tr><td>Reference</td><td>Book 1 Hadith 307</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্বাস আনবারী (রহঃ) ....... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি মুসলিমদের খিদমত করার উদ্দেশ্যে বিচারক নিযুক্ত হয় এবং তার ন্যায়-পরায়ণতা তার জুলুমের উপর প্রাধান্য পায়, সে ব্যক্তির জন্য জান্নাত। পক্ষান্তরে, যে ব্যক্তির জুলুম তার ইনসাফের উপর অধিক হবে, সে ব্যক্তি জাহান্নামের উপযুক্ত হবে।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি মুসলিমদের বিচারক পদ চায় এবং তা পেয়েও যায়। অতঃপর তার ন্যায়পরায়ণতা যুলুমকে পরাজিত করে তাহলে সে জান্নাতী। আর যে ব্যক্তির যুলুম ইনসাফের উপর প্রাধান্য পাবে সে হবে জাহান্নামী।[1] দুর্বল: যঈফাহ (১১৮৬), মিশকাত
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3575</td></tr><tr><td>Arabic No</td><td>3575</td></tr><tr><td>Reference</td><td>Book 25 Hadith 5</td></tr></tbody></table></div>
 

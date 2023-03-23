@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩৪৮৬। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোন ব্যক্তি রক্তমোক্ষণ করাতে চাইলে যেন মাসের সতের, ঊনিশ বা একুশ তারিখ বেছে নেয়। তোমাদের কারো যেন উচ্চ রক্তচাপ না হয়। কারণ তাতে তার জীবননাশের আশংকা আছে।
+। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোন ব্যক্তি রক্তমোক্ষণ করাতে চাইলে যেন মাসের সতের, ঊনিশ বা একুশ তারিখ বেছে নেয়। তোমাদের কারো যেন উচ্চ রক্তচাপ না হয়। কারণ তাতে তার জীবননাশের আশংকা আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sanad Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3486</td></tr><tr><td>Arabic No</td><td>3486</td></tr><tr><td>Reference</td><td>Book 31 Hadith 51</td></tr></tbody></table></div>
 

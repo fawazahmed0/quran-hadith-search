@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল আযীয ইবন ইয়াহ্ইয়া ....... আব্বাস ইবন সাহল (রহঃ) তাঁর পিতা হতে বর্ণনা করেছেন যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসিম ইবন আদীকে বলেন, তুমি তাকে তোমার নিকট রাখ, যতদিন না সে সন্তান প্রসব করে।
+। ‘আব্বাস ইবনু সাহল (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আসিম ইবনু ‘আদী (রাযি.)-কে বললেনঃ তুমি মহিলাকে সন্তান প্রসবকাল পর্যন্ত নিজের কাছে রেখে দাও।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2246</td></tr><tr><td>Arabic No</td><td>2246</td></tr><tr><td>Reference</td><td>Book 13 Hadith 72</td></tr></tbody></table></div>
 

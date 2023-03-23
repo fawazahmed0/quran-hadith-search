@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মক্কা্য় আসেন তখন এর উচ্চ স্থান দিয়ে প্রবেশ করেন এবং নীচু স্থান দিয়ে ফিরার পথে বের হন। (১৫৭৮, ১৫৭৯, ১৫৮০, ১৫৮১, ৪২৯০, ৪২৯১) (আধুনিক প্রকাশনীঃ ১৪৭৩, ইসলামিক ফাউন্ডেশনঃ ১৪৭৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মক্কা্য় আসেন তখন এর উচ্চ স্থান দিয়ে প্রবেশ করেন এবং নীচু স্থান দিয়ে ফিরার পথে বের হন। (১৫৭৮, ১৫৭৯, ১৫৮০, ১৫৮১, ৪২৯০, ৪২৯১) (আধুনিক প্রকাশনীঃ ১৪৭৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1577</td></tr><tr><td>Arabic No</td><td>1577</td></tr><tr><td>Reference</td><td>Book 25 Hadith 63</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Al Humaidiy] dan [Muhammad bin Al Mutsanna] kedu
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்கா நகருக்கு வந்தால், அதன் மேற்புறத்தின் வழியாக நுழைந்து அதன் கீழ்ப்புறத்தின் வழியாக வெளியேறுவார்கள். அத்தியாயம் : 25
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மக்கா நகருக்கு வந்தால், அதன் மேற்புறத்தின் வழியாக நுழைந்து அதன் கீழ்ப்புறத்தின் வழியாக வெளியேறுவார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1577</td></tr><tr><td>Arabic No</td><td>1577</td></tr><tr><td>Reference</td><td>Book 25 Hadith 63</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Humaidiy] dan [Muhammad bin Al Mutsanna] kedu
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha), "Nebi Sallallahu Aleyhi ve Sellem Mekke'ye geldiği zaman en yüksek tepeden girer, en alçak tepeden de çıkardı" demiştir. Tekrar: 1578, 1579, 1580, 1581, 4290, 4291
+Aişe (r.anha), "Nebi Sallallahu Aleyhi ve Sellem Mekke'ye geldiği zaman en yüksek tepeden girer, en alçak tepeden de çıkardı" demiştir. Tekrar: 1578
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1577</td></tr><tr><td>Arabic No</td><td>1577</td></tr><tr><td>Reference</td><td>Book 25 Hadith 63</td></tr></tbody></table></div>
 

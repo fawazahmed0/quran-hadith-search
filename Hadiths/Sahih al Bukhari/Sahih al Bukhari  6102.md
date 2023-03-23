@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেনঃ পর্দার অন্তরালের কুমারীদের চেয়েও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অধিক লজ্জাশীল ছিলেন। যখন তিনি তাঁর কাছে অপছন্দনীয় কিছু দেখতেন, তখন আমরা তাঁর চেহারা দেখেই তা বুঝতে পারতাম। [৩৫৬২] (আধুনিক প্রকাশনী- ৫৬৬৩, ইসলামিক ফাউন্ডেশন- ৫৫৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। তিনি বলেনঃ পর্দার অন্তরালের কুমারীদের চেয়েও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অধিক লজ্জাশীল ছিলেন। যখন তিনি তাঁর কাছে অপছন্দনীয় কিছু দেখতেন, তখন আমরা তাঁর চেহারা দেখেই তা বুঝতে পারতাম। [৩৫৬২] (আধুনিক প্রকাশনী- ৫৬৬৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6102</td></tr><tr><td>Arabic No</td><td>6102</td></tr><tr><td>Reference</td><td>Book 78 Hadith 129</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdan] telah mengabarkan kepada kami [Abdullah] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் திரைக்குள் இருக்கும் கன்னிப் பெண்ணைவிடவும் அதிக வெட்கமுடையவர்களாயிருந்தார்கள். தாம் விரும்பாத ஒன்றை அவர்கள் பார்த்து விட்டால், அந்த வெறுப்பை அவர்களின் முகத்திலிருந்தே நாங்கள் அறிந்து விடுவோம்.116 அத்தியாயம் : 78
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் திரைக்குள் இருக்கும் கன்னிப் பெண்ணைவிடவும் அதிக வெட்கமுடையவர்களாயிருந்தார்கள். தாம் விரும்பாத ஒன்றை அவர்கள் பார்த்து விட்டால், அந்த வெறுப்பை அவர்களின் முகத்திலிருந்தே நாங்கள் அறிந்து விடுவோம்.116 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6102</td></tr><tr><td>Arabic No</td><td>6102</td></tr><tr><td>Reference</td><td>Book 78 Hadith 129</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সুওয়ায়দ (রহঃ) ... আবদুল্লাহ্ ইবন ইয়াযীদ খাতমী (রহঃ) থেকে বর্ণিত। তিনি বলেন, উমর ইবন খাত্তাব (রাঃ) আমাদেরকে লিখলেন, প্রকাশ থাকে যে, তোমরা তোমাদের পানীয় ততক্ষণ জ্বালাবে, যতক্ষণ তা থেকে শয়তানের অংশ দূর হয়ে যায়। কেননা তার জন্য দুই ভাগ, আর তোমাদের জন্য এক ভাগ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5717</td></tr><tr><td>Arabic No</td><td>5717</td></tr><tr><td>Reference</td><td>Book 51 Hadith 179</td></tr></tbody></table></div>
 

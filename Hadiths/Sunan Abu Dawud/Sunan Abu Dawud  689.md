@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যখন তোমাদের কেউ (কোন খোলা স্থানে) নামায আদায় করবে, তখন সে যেন সুত্‌রা হিসাবে তার সামনে কিছু স্থাপন করে। যদি না পায় তবে সে যেন একটি লাঠি তার সামনে স্থাপন করে। যদি তার সাথে লাঠি না থাকে, তবে সে যেন তার সামনের মাটিতে দাগ টেনে নেয়। অতঃপর কেউ তার সম্মুখভাগ দিয়ে যাতায়াত করলে তার কোন ক্ষতি হবে না। (ইবনু মাজাহ)।
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ (খোলা জায়গাতে) সালাত আদায় করলে যেন (সুতরাহ হিসেবে) তার সামনে কিছু স্থাপন করে। কিছু না পাওয়া গেলে যেন একটি লাঠি স্থাপন করে নেয়। সাথে কোন লাঠি না থাকলে (মাটিতে) যেন একটি দাগ টেনে নেয়। তারপর সামনে দিয়ে কিছু চলাচল করলে সালাতের কোন ক্ষতি হবে না।[1] দুর্বল : মিশকাত ৭৮১।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>689</td></tr><tr><td>Arabic No</td><td>689</td></tr><tr><td>Reference</td><td>Book 2 Hadith 299</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: When one of you prays, he should p
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Sizden biriniz namaz kıldığı zaman önüne bir şey koysun, hiç bir şey bulamazsa bir sopa diksin, sopa da yoksa, önüne bir çizgi çizsin, bundan sonra önünden ne geçerse geçsin o'na zarar vermez." Diğer tahric: İbn Mace, ikame; Ahmed b. Hanbel, II, 249, 255, 266
+Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Sizden biriniz namaz kıldığı zaman önüne bir şey koysun, hiç bir şey bulamazsa bir sopa diksin, sopa da yoksa, önüne bir çizgi çizsin, bundan sonra önünden ne geçerse geçsin o'na zarar vermez." Diğer tahric: İbn Mace, ikame; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>689</td></tr><tr><td>Arabic No</td><td>689</td></tr><tr><td>Reference</td><td>Book 2 Hadith 299</td></tr></tbody></table></div>
 

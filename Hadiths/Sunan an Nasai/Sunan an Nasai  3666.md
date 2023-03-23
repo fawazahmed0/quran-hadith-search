@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+ইবরাহীম ইবন হাসান (রহঃ) ... সা'দ ইব্‌ন উবাদা (রাঃ) থেকে বর্ণিত যে, তাঁর মাতা ইনতিকাল করলে, তিনি বললেন, ইয়া রাসূলাল্লাহ! আমার মা ইনতিকাল করেছেন। আমি কি তার পক্ষ হতে সাদাকা করবো? তিনি বললেনঃ হ্যাঁ। তিনি [সা'দ (রাঃ)] বললেনঃ কোন্ সাদাকা উত্তম? তিনি বললেনঃ পানি পান করানো। সেটাই মদীনায় (এখনো) সা'দ (রাঃ)-এর পানি পান করানোর ব্যবস্থাপনা (অব্যাহত রয়েছে)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 30 Hadith 56</td></tr></tbody></table></div>
 

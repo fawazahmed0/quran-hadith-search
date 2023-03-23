@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু আবূ মুলাইকাহ (রাযি.) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর স্ত্রী ‘আয়িশাহ (রাযি.) কোন কথা শুনে না বুঝলে বার বার প্রশ্ন করতেন। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, ‘‘(কিয়ামতের দিন) যার কাছ থেকে হিসেব নেয়া হবে তাকে শাস্তি দেয়া হবে।’’ ‘আয়িশাহ (রাযি.) বলেনঃ আমি জিজ্ঞেস করলাম, আল্লাহ্ তা‘আলা কি ইরশাদ করেননি, فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا তার হিসাব-নিকাশ সহজেই নেয়া হবে)- (সূরাহ্ ইনশিক্বাক ৮৪/৮)। তখন তিনি বললেনঃ তা কেবল হিসেব প্রকাশ করা। কিন্তু যার হিসাব পুঙ্খানুপুঙ্খরুপে নেয়া হবে সে ধ্বংসপ্রাপ্ত হবে। (৪৯৩৯, ৬৫৩৬, ৬৫৩৭; মুসলিম ৫১/১৮, হাঃ ২৮৭৬, আহমাদ ২৪২৫৫) (আধুনিক প্রকাশনীঃ ১০১, ইসলামিক ফাউন্ডেশনঃ ১০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু আবূ মুলাইকাহ (রাযি.) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর স্ত্রী ‘আয়িশাহ (রাযি.) কোন কথা শুনে না বুঝলে বার বার প্রশ্ন করতেন। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, ‘‘(কিয়ামতের দিন) যার কাছ থেকে হিসেব নেয়া হবে তাকে শাস্তি দেয়া হবে।’’ ‘আয়িশাহ (রাযি.) বলেনঃ আমি জিজ্ঞেস করলাম, আল্লাহ্ তা‘আলা কি ইরশাদ করেননি, فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا তার হিসাব-নিকাশ সহজেই নেয়া হবে)- (সূরাহ্ ইনশিক্বাক ৮৪/৮)। তখন তিনি বললেনঃ তা কেবল হিসেব প্রকাশ করা। কিন্তু যার হিসাব পুঙ্খানুপুঙ্খরুপে নেয়া হবে সে ধ্বংসপ্রাপ্ত হবে। (৪৯৩৯, ৬৫৩৬, ৬৫৩৭; মুসলিম ৫১/১৮, হাঃ ২৮৭৬, আহমাদ ২৪২৫৫) (আধুনিক প্রকাশনীঃ ১০১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>103</td></tr><tr><td>Reference</td><td>Book 3 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah mengabarkan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அபீமுலைக்கா (அப்துல்லாஹ் பின் உபைதில்லாஹ் - ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் தமக்குப் புரியாத ஒரு செய்தியைக் கேட்டால், அதை அவர்கள் (நன்கு) புரிந்துகொள்ளும்வரைத் திரும்பத் திரும்பக் கேள்வி கேட்டுத் தெரிந்துகொள்வார்கள். (ஒரு முறை) நபி (ஸல்) அவர்கள், “யார் (மறுமை நாளில்) விசாரணை செய்யப்படுவாரோ அவர் வேதனை செய்யப்படுவார்” என்று கூறினார்கள். அப்போது ஆயிஷா (ரலி) அவர்கள், “அல்லாஹ் (குர்ஆனில்) “வலக் கரத்தில் தமது வினைப் பதிவுச்சீட்டு வழங்கப் பட்டவரிடம் எளிய முறையில் கணக்கு வாங்கப்படும்’ (84:7,8) என்றல்லவா கூறுகின்றான்?” என்று கேட்டார்கள். நபி (ஸல்) அவர்கள், “இது (கேள்வி கணக்குத் தொடர்பானது அன்று: மாறாக, மனிதர்களின் நன்மை தீமைகளின் பட்டியல் அவர்களுக்குமுன்) சமர்ப்பிக் கப்படுவதுதான். ஆனால், துருவித் துருவி விசாரிக்கப்படுபவர் அழிந்துபோவார்” என்று கூறினார்கள். அத்தியாயம் : 3
+இப்னு அபீமுலைக்கா (அப்துல்லாஹ் பின் உபைதில்லாஹ் - ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் துணைவியார் ஆயிஷா (ரலி) அவர்கள் தமக்குப் புரியாத ஒரு செய்தியைக் கேட்டால், அதை அவர்கள் (நன்கு) புரிந்துகொள்ளும்வரைத் திரும்பத் திரும்பக் கேள்வி கேட்டுத் தெரிந்துகொள்வார்கள். (ஒரு முறை) நபி (ஸல்) அவர்கள், “யார் (மறுமை நாளில்) விசாரணை செய்யப்படுவாரோ அவர் வேதனை செய்யப்படுவார்” என்று கூறினார்கள். அப்போது ஆயிஷா (ரலி) அவர்கள், “அல்லாஹ் (குர்ஆனில்) “வலக் கரத்தில் தமது வினைப் பதிவுச்சீட்டு வழங்கப் பட்டவரிடம் எளிய முறையில் கணக்கு வாங்கப்படும்’ (84:7,8) என்றல்லவா கூறுகின்றான்?” என்று கேட்டார்கள். நபி (ஸல்) அவர்கள், “இது (கேள்வி கணக்குத் தொடர்பானது அன்று: மாறாக, மனிதர்களின் நன்மை தீமைகளின் பட்டியல் அவர்களுக்குமுன்) சமர்ப்பிக் கப்படுவதுதான். ஆனால், துருவித் துருவி விசாரிக்கப்படுபவர் அழிந்துபோவார்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>103</td></tr><tr><td>Reference</td><td>Book 3 Hadith 45</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah mengabarkan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ebi Müleyke'nin belirttiğine göre Nebi (Sallallahu aleyhi ve Sellem)'in eşi Hz. Âişe (r.anha) bir şey duyduğu zaman onu anlamak için mutlaka sözü söyleyene baş vururdu. Nebi (Sallallahu aleyhi ve Sellem) Hesaba çekilene azap edilir" buyurdu. Hz. Âişe diyor ki: Bunun üzerine ben Nebi (Sallallahu aleyhi ve Sellem)'e Yüce Allah "(Amel defterini sağ tarafından alan kişi) yakında kolay bir şekilde hesaba çekilecek [İnşikak, 8] buyurmuyor mu? diye sordum. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Bu, yalnızca arzdır. Kim ince hesaba çekilirse helak olur. Tekrar: 4939, 6536, 6537
+İbn Ebi Müleyke'nin belirttiğine göre Nebi (Sallallahu aleyhi ve Sellem)'in eşi Hz. Âişe (r.anha) bir şey duyduğu zaman onu anlamak için mutlaka sözü söyleyene baş vururdu. Nebi (Sallallahu aleyhi ve Sellem) Hesaba çekilene azap edilir" buyurdu. Hz. Âişe diyor ki: Bunun üzerine ben Nebi (Sallallahu aleyhi ve Sellem)'e Yüce Allah "(Amel defterini sağ tarafından alan kişi) yakında kolay bir şekilde hesaba çekilecek [İnşikak, 8] buyurmuyor mu? diye sordum. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Bu, yalnızca arzdır. Kim ince hesaba çekilirse helak olur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>103</td></tr><tr><td>Reference</td><td>Book 3 Hadith 45</td></tr></tbody></table></div>
 

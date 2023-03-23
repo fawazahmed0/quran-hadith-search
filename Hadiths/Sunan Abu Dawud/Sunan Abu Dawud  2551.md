@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মুছান্না ..... আনাস ইবন মালিক (রাঃ) বলেন, আমরা দুপুরের সময় যখন কোন মনযিলে বিশ্রাম নেযার জন্য ঘোড়া বা উটের পৃষ্ঠ হতে নামতাম, তখন এর পিঠ হতে মালপত্র ও গদি অপসারণ করে ভারবাহী পশুকে আরাম দানের পূর্বে নিজেরা কোন নামায পড়তাম না (অর্থাৎ আরাম করতাম না)।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আমরা কোনো স্থানে অবতরণ করলে বাহনের পিঠ থেকে হাওদা নামিয়ে এর বিশ্রামের ব্যবস্থা না করা পর্যন্ত সালাত আদায় করতাম না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2551</td></tr><tr><td>Arabic No</td><td>2551</td></tr><tr><td>Reference</td><td>Book 15 Hadith 75</td></tr></tbody></table></div>
 

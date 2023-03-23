@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘ঈদ ইবন মানসূর (রহঃ) ...... আবদুর রহমান (রহঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নবী জনৈক সাহাবী থেকে বর্ণনা করেছেন। তিনি বলেনঃ যুদ্ধের সময় আমরা উট নহর (যবাহ) করে খেতাম এবং তা বণ্টণ করতাম না। এমন কি আমরা যখন আমাদের তাঁবুতে ফিরে আসতাম, তখনও আমাদের উটের পিঠের উপরের থলিগুলো গোশতে ভরপুর থাকত।
+। ‘আব্দুর রাহমান (রহঃ)-এর আযাদকৃত গোলাম আল-কাসিম (রহঃ) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জনৈক সাহাবী থেকে বর্ণনা করেন, ‘আমরা যুদ্ধের সময় (গানীমাতের) উট যবাহ করে খেতাম, বণ্টন করতাম না। এমন কি ‘আমরা যখন দেশে ফিরে যেতাম তখনও আমাদের থলি গোশতে ভরা থাকতো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2706</td></tr><tr><td>Arabic No</td><td>2706</td></tr><tr><td>Reference</td><td>Book 15 Hadith 230</td></tr></tbody></table></div>
 

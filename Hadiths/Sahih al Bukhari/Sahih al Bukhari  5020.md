@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা আশ‘আরী (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, যে ব্যক্তি কুরআন তিলাওয়াত করে, তার দৃষ্টান্ত হচ্ছে এ লেবুর মত যা সুস্বাদু এবং সুগন্ধযুক্ত। আর যে ব্যক্তি (মু’মিন) কুরআন পাঠ করে না, তার দৃষ্টান্ত হচ্ছে এমন খেজুরের মত, যা সুগন্ধহীন, কিন্তু খেতে সুস্বাদু। আর ফাসিক-ফাজির ব্যক্তি যে কুরআন পাঠ করে, তার দৃষ্টান্ত হচ্ছে রায়হান জাতীয় লতার মত, যার সুগন্ধ আছে, কিন্তু খেতে বিস্বাদ। আর ঐ ফাসিক যে কুরআন একেবারেই পাঠ করে না, তার দৃষ্টান্ত হচ্ছে ঐ মাকাল ফলের মত, যা খেতেও বিস্বাদ এবং যার কোন সুগন্ধও নেই। [৫০৫৯, ৫৪২৭, ৭৫৬০] (আধুনিক প্রকাশনীঃ ৪৬৪৬, ইসলামিক ফাউন্ডেশনঃ ৪৬৫০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা আশ‘আরী (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, যে ব্যক্তি কুরআন তিলাওয়াত করে, তার দৃষ্টান্ত হচ্ছে এ লেবুর মত যা সুস্বাদু এবং সুগন্ধযুক্ত। আর যে ব্যক্তি (মু’মিন) কুরআন পাঠ করে না, তার দৃষ্টান্ত হচ্ছে এমন খেজুরের মত, যা সুগন্ধহীন, কিন্তু খেতে সুস্বাদু। আর ফাসিক-ফাজির ব্যক্তি যে কুরআন পাঠ করে, তার দৃষ্টান্ত হচ্ছে রায়হান জাতীয় লতার মত, যার সুগন্ধ আছে, কিন্তু খেতে বিস্বাদ। আর ঐ ফাসিক যে কুরআন একেবারেই পাঠ করে না, তার দৃষ্টান্ত হচ্ছে ঐ মাকাল ফলের মত, যা খেতেও বিস্বাদ এবং যার কোন সুগন্ধও নেই। [৫০৫৯, ৫৪২৭, ৭৫৬০] (আধুনিক প্রকাশনীঃ ৪৬৪৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5020</td></tr><tr><td>Arabic No</td><td>5020</td></tr><tr><td>Reference</td><td>Book 66 Hadith 42</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hudbah bin Khalid Abu Khalid] Telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனை ஓதுகின்ற (நல்ல)வரின் நிலையானது நாரத்தைப் பழம் போன்றதாகும். அதன் சுவையும் நன்று; வாசனையும் நன்று. (மற்ற நற்செயல்கள் புரிந்துகொண்டு) குர்ஆன் ஓதாமலிருப்பவர், பேரீச்சம் பழத்தைப் போன்றவராவார். அதன் சுவை நன்று; (ஆனால்) அதற்கு வாசனை கிடையாது. தீயவராக (நயவஞ்சகராக)வும் இருந்துகொண்டு, குர்ஆனையும் ஓதிவருகின்றவனின் நிலையானது, துளசிச் செடியின் நிலையை ஒத்திருக்கின்றது. அதன் வாசனை நன்று; சுவையோ கசப்பு. தீமையும் செய்துகொண்டு, குர்ஆனையும் ஓதாமóருப்பவரின் நிலையானது, குமட்டிக்காயின் நிலையை ஒத்திருக்கிறது. அதன் சுவையும் கசப்பு; அதற்கு வாசனையும் கிடையாது. இதை அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 66
+நபி (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனை ஓதுகின்ற (நல்ல)வரின் நிலையானது நாரத்தைப் பழம் போன்றதாகும். அதன் சுவையும் நன்று; வாசனையும் நன்று. (மற்ற நற்செயல்கள் புரிந்துகொண்டு) குர்ஆன் ஓதாமலிருப்பவர், பேரீச்சம் பழத்தைப் போன்றவராவார். அதன் சுவை நன்று; (ஆனால்) அதற்கு வாசனை கிடையாது. தீயவராக (நயவஞ்சகராக)வும் இருந்துகொண்டு, குர்ஆனையும் ஓதிவருகின்றவனின் நிலையானது, துளசிச் செடியின் நிலையை ஒத்திருக்கின்றது. அதன் வாசனை நன்று; சுவையோ கசப்பு. தீமையும் செய்துகொண்டு, குர்ஆனையும் ஓதாமóருப்பவரின் நிலையானது, குமட்டிக்காயின் நிலையை ஒத்திருக்கிறது. அதன் சுவையும் கசப்பு; அதற்கு வாசனையும் கிடையாது. இதை அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5020</td></tr><tr><td>Arabic No</td><td>5020</td></tr><tr><td>Reference</td><td>Book 66 Hadith 42</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hudbah bin Khalid Abu Khalid] Telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Musa el-Eş'ari'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet edilmiştir: "Kur'an okuyan kimse, turunçgillere benzer. Hem tadı güzeldir, hem de kokusu. Kur'an okumayan (mu'min) hurma gibidir. Tadı güzeldir ama kokusu yoktur. Kur'an okuyan facir kimse, rayhane gibidir. Kokusu güzel, tadı acıdır. Kur'an okumayan facir kimse ise, Ebu Cehil karpuzuna benzer. Hem tadı acıdır, hem de kokusu yoktur. " Tekrar: 5059, 5427, 7560. Diğer tahric:: Müslim, müsafirin; Tirmizî, emsal, Ebu Davud, edeb; Nesaî, iman; İbn Mace, mukaddime; Darimî, Fedailü'l-Kur'an; Ahmed b. Han bel, IV, 397, 404, 408
+Ebu Musa el-Eş'ari'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet edilmiştir: "Kur'an okuyan kimse, turunçgillere benzer. Hem tadı güzeldir, hem de kokusu. Kur'an okumayan (mu'min) hurma gibidir. Tadı güzeldir ama kokusu yoktur. Kur'an okuyan facir kimse, rayhane gibidir. Kokusu güzel, tadı acıdır. Kur'an okumayan facir kimse ise, Ebu Cehil karpuzuna benzer. Hem tadı acıdır, hem de kokusu yoktur. " Tekrar: 5059, 5427, 7560. Diğer tahric:: Müslim, müsafirin; Tirmizî, emsal, Ebu Davud, edeb; Nesaî, iman; İbn Mace, mukaddime; Darimî, Fedailü'l-Kur'an; Ahmed b. Han bel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5020</td></tr><tr><td>Arabic No</td><td>5020</td></tr><tr><td>Reference</td><td>Book 66 Hadith 42</td></tr></tbody></table></div>
 

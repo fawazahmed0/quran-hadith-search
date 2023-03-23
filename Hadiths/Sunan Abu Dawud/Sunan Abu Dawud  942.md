@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমুদ ইবনে খালিদ (রহঃ) ..... ঈসা ইবনে আইয়ুব (রহঃ) হতে বর্ণিত। তিনি বলেন, স্ত্রীলোকদের জন্য হাতে হাত মেরে শব্দ করার পদ্ধতি এই যে, তারা ডান হাতের আংগুলি দ্বারা বাম হাতের তালুতে মারবে।
+। ঈসা ইবনু আইয়ূব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘নারীদের হাততালি দেয়া’ কথাটির অর্থ হলো, তারা ডান হাতের দুই আঙ্গুল বাম হাতের তালুর উপর মারবে।[1] সহীহ মাক্বতু‘।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>942</td></tr><tr><td>Arabic No</td><td>942</td></tr><tr><td>Reference</td><td>Book 2 Hadith 553</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/৩০২৫। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে অর্থাৎ আবদুল মুত্তালিব গোত্রের অল্প বয়ষ্কদেরকে আমাদের গাধাগুলোয় চড়িয়ে মুযদালিফা থেকে আগেভাগে পাঠিয়ে দেন। তিনি আমাদের উরুর উপর হাল্কা আঘাত করে বলতেনঃ আমার কচিকাঁচা! সূর্য উদিত না হওয়া পর্যন্ত জামরায় পাথর নিক্ষেপ করো না। সুফিয়ানের বর্ণনায় আরও আছে, সুর্যোদয়ের পূর্বে কেউ কাঁকর নিক্ষেপ করতো কি না জানি না।
+। ইবনে আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে অর্থাৎ আবদুল মুত্তালিব গোত্রের অল্প বয়ষ্কদেরকে আমাদের গাধাগুলোয় চড়িয়ে মুযদালিফা থেকে আগেভাগে পাঠিয়ে দেন। তিনি আমাদের উরুর উপর হাল্কা আঘাত করে বলতেনঃ আমার কচিকাঁচা! সূর্য উদিত না হওয়া পর্যন্ত জামরায় পাথর নিক্ষেপ করো না। সুফিয়ানের বর্ণনায় আরও আছে, সুর্যোদয়ের পূর্বে কেউ কাঁকর নিক্ষেপ করতো কি না জানি না।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3025</td></tr><tr><td>Arabic No</td><td>3025</td></tr><tr><td>Reference</td><td>Book 25 Hadith 144</td></tr></tbody></table></div>
 

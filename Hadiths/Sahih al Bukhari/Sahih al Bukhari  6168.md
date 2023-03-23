@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-لِقَوْلِهِ: (إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ). আল্লাহ তা‘আলার বাণীঃ (আপনি বলে দিন) যদি তোমরা আল্লাহকে সত্যই ভালবেসে থাকো, তা’হলে তোমরা আমার অনুসরণ কর। তাহলে আল্লাহ্ও তোমাদের ভালবাসবেন। (সূরাহ আলে ‘ইমরান ৪/৩১) ৬১৬৮. ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষ যাকে ভালবাসবে সে তারই সাথী হবে। [৬১৬৯] (আধুনিক প্রকাশনী- ৫৭২৮, ইসলামিক ফাউন্ডেশন- ৫৬২৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+لِقَوْلِهِ: (إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ). আল্লাহ তা‘আলার বাণীঃ (আপনি বলে দিন) যদি তোমরা আল্লাহকে সত্যই ভালবেসে থাকো, তা’হলে তোমরা আমার অনুসরণ কর। তাহলে আল্লাহ্ও তোমাদের ভালবাসবেন। (সূরাহ আলে ‘ইমরান ৪/৩১) ৬১৬৮. ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মানুষ যাকে ভালবাসবে সে তারই সাথী হবে। [৬১৬৯] (আধুনিক প্রকাশনী- ৫৭২৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6168</td></tr><tr><td>Arabic No</td><td>6168</td></tr><tr><td>Reference</td><td>Book 78 Hadith 194</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Bisyr bin Khalid] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மனிதன் யார்மீது அன்பு கொண்டுள்ளானோ அவர்களுடன்தான் இருப் பான்.190 இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மனிதன் யார்மீது அன்பு கொண்டுள்ளானோ அவர்களுடன்தான் இருப் பான்.190 இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6168</td></tr><tr><td>Arabic No</td><td>6168</td></tr><tr><td>Reference</td><td>Book 78 Hadith 194</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Bisyr bin Khalid] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah (İbn Mes'ud)'dan rivayete göre; "Nebi Sallallahu Aleyhi ve Sellem: Kişi sevdiği ile beraberdir, buyurmuştur:" Hadisin geçtiği diğer yer: 6169
+Abdullah (İbn Mes'ud)'dan rivayete göre; "Nebi Sallallahu Aleyhi ve Sellem: Kişi sevdiği ile beraberdir, buyurmuştur:" Hadisin geçtiği diğer yer:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6168</td></tr><tr><td>Arabic No</td><td>6168</td></tr><tr><td>Reference</td><td>Book 78 Hadith 194</td></tr></tbody></table></div>
 

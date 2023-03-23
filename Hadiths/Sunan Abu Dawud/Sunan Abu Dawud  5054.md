@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জা'ফর ইবন মুসাফির (রহঃ) .... আবূ আযহার আত্‌মারী (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর বিছানায় যখন শয়ন করতে যেতেন, তখন তিনি বলতেনঃ আল্লাহ্‌র নাম নিয়ে আমি বিছানায় শয়ন করছি। ইয়া আল্লাহ্‌! আপনি আমার গুনাহ মাফ করে দেন এবং আমার শয়তানকে আমার থেকে দূর করে দেন, আমার দেনা পরিশোধ করে দেন, আর করে দেন আমাকে উত্তমদের (অর্থাৎ ফেরেশতাদের) সাথী, যারা আসমানে বসবাস করে। ইমাম আবূ দাউদ (রহঃ) বলেনঃ এ হাদীছ হাম্মাম আহওয়াযী (রহঃ) ছাওর (রহঃ) থেকে বর্ণনা করেছেন।
+। আবুল আযহার আল-আনমারী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে শোয়ার সময় বলতেনঃ আল্লাহর নামে আমার দেহ রাখলাম। হে আল্লাহ! আমার গুনাহ ক্ষমা করুন, আমার থেকে শয়তানকে তাড়িয়ে দিন, আমার ঘাড়কে মুক্ত করুন এবং আমাকে উচ্চ মর্যাদাসম্পন্নদের কাতারে স্থান দিন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5054</td></tr><tr><td>Arabic No</td><td>5054</td></tr><tr><td>Reference</td><td>Book 43 Hadith 282</td></tr></tbody></table></div>
 

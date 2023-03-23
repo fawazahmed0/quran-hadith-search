@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন সারহ (রহঃ) .... আবূ খিরাশ সুলামী (রাঃ) থেকে বর্ণিত। একদা তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপ বলতে শোনেনঃ যে ব্যক্তি এক বছর পর্যন্ত তার ভাইকে পরিত্যাগ করবে, (অর্থাৎ তার সাথে কথা-বার্তা বলবে না;) তবে সে যেন তাকে হত্যা করলো।
+। আবূ খিরাশ আস-সুলামী (রাঃ) সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ যে তার ভাইয়ের সঙ্গে এক বছর সম্পর্ক ছিন্ন রাখলো সে যেন তাকে হত্যা করলো।[1] [সহীহ]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>4915</td></tr><tr><td>Reference</td><td>Book 43 Hadith 143</td></tr></tbody></table></div>
 

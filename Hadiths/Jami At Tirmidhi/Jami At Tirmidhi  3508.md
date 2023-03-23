@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৫০৮। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর নিরানব্বই নাম রয়েছে। যে লোক তা কণ্ঠস্থ করবে সে জান্নাতে প্রবেশ করবে। সহীহঃ মিশকাত তাহকীক সানী (হাঃ ২২৮৮)। এ হাদীসে সেই নামগুলোর উল্লেখ নেই। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
+। আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহর নিরানব্বই নাম রয়েছে। যে লোক তা কণ্ঠস্থ করবে সে জান্নাতে প্রবেশ করবে। সহীহঃ মিশকাত তাহকীক সানী (হাঃ ২২৮৮)। এ হাদীসে সেই নামগুলোর উল্লেখ নেই। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3508</td></tr><tr><td>Arabic No</td><td>3508</td></tr><tr><td>Reference</td><td>Book 48 Hadith 139</td></tr></tbody></table></div>
 

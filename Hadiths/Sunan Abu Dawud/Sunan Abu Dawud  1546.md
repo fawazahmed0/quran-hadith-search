@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আমর ইব্‌ন উছমান (রহঃ) .... আবু হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম এরূপ দু’আ করতেনঃ ইয়া আল্লাহ! আমি তোমার নিকট আশ্রয় চাই, তোমার বিরুদ্ধাচরণ করা হতে, নিফাক্‌ (মুনাফিকী) হতে, অসৎ চরিত্রতা হতে বাঁচার জন্য। (নাসাঈ)।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ বলে দু‘আ করতেনঃ ‘‘হে আল্লাহ! আমি আপনার নিকট ঝগড়া-বিবাদ, মুনাফেকী ও দুশ্চরিত্রতা থেকে আশ্রয় চাই।’’[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>1546</td></tr><tr><td>Reference</td><td>Book 8 Hadith 131</td></tr></tbody></table></div>
 

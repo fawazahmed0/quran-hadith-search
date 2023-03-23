@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম ইবনুল হাছান (রাঃ) ...... আয়েশা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: যখন নামাযের মধ্যে তোমাদের কারো ওযু নষ্ট হয়, তখন সে যেন তার নাক ধরে বের হয়ে যায় (নাক ধরা ওযু নষ্টের পরিচায়ক)। (ইবনে মাজা)
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাতের মধ্যে তোমাদের কারো অযু নষ্ট হলে হলে সে যেন তার নাক চেপে ধরে বেরিয়ে যায়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1114</td></tr><tr><td>Arabic No</td><td>1114</td></tr><tr><td>Reference</td><td>Book 2 Hadith 725</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Hasan Al Mishishi] telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'dan: demiştir ki: Resûlullah (s.a.v.) şöyle buyurdu: "Birinizin namazda abdesti bozulursa hemen burnunu tutsun sonra da ayrılsın" Ebû Dâvûd dediki: Bu hadisi, Hammad b. Seleme ve Ebu Usame, Hişam'dan; o da babası vasıtasıyla rivayet etmiştir. Bu raviler (ri­vayetlerinde) Aişe r.a.'yı anmamışlardır. Diğer tahric: İbn Mâce, ikame; Darekutnî, Sünen, I, 158; Beyhakî, es-Siinenü'l-kübrâ, III, 223
+Aişe (r.anha)'dan: demiştir ki: Resûlullah (s.a.v.) şöyle buyurdu: "Birinizin namazda abdesti bozulursa hemen burnunu tutsun sonra da ayrılsın" Ebû Dâvûd dediki: Bu hadisi, Hammad b. Seleme ve Ebu Usame, Hişam'dan; o da babası vasıtasıyla rivayet etmiştir. Bu raviler (ri­vayetlerinde) Aişe r.a.'yı anmamışlardır. Diğer tahric: İbn Mâce, ikame; Darekutnî, Sünen, I, 158; Beyhakî, es-Siinenü'l-kübrâ, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1114</td></tr><tr><td>Arabic No</td><td>1114</td></tr><tr><td>Reference</td><td>Book 2 Hadith 725</td></tr></tbody></table></div>
 

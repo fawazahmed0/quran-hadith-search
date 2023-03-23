@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১১৩৪, আন্তর্জাতিক নাম্বারঃ ৫৬০ ১১৩৪-(.../...) ইয়াহইয়া ইবনু আইয়ুব, কুতায়বাহ ইবনু সাঈদ ও ইবনু হুজুর (রহঃ) ..... আয়িশাহ (রাযিঃ) এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণনা করেছেন। তবে এ হাদীসে তিনি কাসিম ইবনু মুহাম্মাদ সম্পর্কিত ঘটনাটি বর্ণনা করেননি। (ইসলামী ফাউন্ডেশন ১১২৭, ইসলামীক সেন্টার ১১৩৬)
+ইয়াহইয়া ইবনু আইয়ুব, কুতায়বাহ ইবনু সাঈদ ও ইবনু হুজুর (রহঃ) ..... আয়িশাহ (রাযিঃ) এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ হাদীস বর্ণনা করেছেন। তবে এ হাদীসে তিনি কাসিম ইবনু মুহাম্মাদ সম্পর্কিত ঘটনাটি বর্ণনা করেননি। (ইসলামী ফাউন্ডেশন ১১২৭, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1247</td></tr><tr><td>Arabic No</td><td>560.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 85</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Abdullah b. 'Atiq narrated from the Apostle (ﷺ) on the authority of 'A'isha, b
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாக ஆயிஷா (ரலி) அவர்களிடமிருந்தும் வந்துள்ளது. அத்தியாயம் : 5
+மேற்கண்ட ஹதீஸ் மேலும் மூன்று அறிவிப்பாளர்தொடர்கள் வழியாக ஆயிஷா (ரலி) அவர்களிடமிருந்தும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1247</td></tr><tr><td>Arabic No</td><td>560.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 85</td></tr></tbody></table></div>
 

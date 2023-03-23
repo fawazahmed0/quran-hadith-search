@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। যাকারিয়া ইবনু সুলাইম সূত্রে অনুরূপ হাদীস বর্ণিত। তাতে আরো আছেঃ অতঃপর তাকে চানাবুটের ক্ষুদ্র কংকর নিক্ষেপ করেছেন। তিনি বলেনঃ তার মুখমন্ডল বাদ দিয়ে পাথর নিক্ষেপ করো। সে যখন মারা গেলো, তাকে গর্ত থেকে বের করলেন এবং তার জানাযা পড়লেন। তার তওবা সম্পর্কে বুরাইদাহ বর্ণিত হাদীসের মতই বলেছেন।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4444</td></tr><tr><td>Arabic No</td><td>4444</td></tr><tr><td>Reference</td><td>Book 40 Hadith 94</td></tr></tbody></table></div>
 

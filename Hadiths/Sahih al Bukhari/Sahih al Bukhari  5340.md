@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু সীরীন (রহ.) হতে বর্ণিত যে, উম্মু আতিয়্যাহ ( বলেছেন, স্বামী ব্যতীত অন্য কারো মৃত্যু হলে তিন দিনের বেশী শোক পালন করতে আমাদেরকে নিষেধ করা হয়েছে। [৩০৩] আধুনিক প্রকাশনী- ৪৯৪১, ইসলামিক ফাউন্ডেশন- ৪৮৩৭
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+মুহাম্মাদ ইবনু সীরীন (রহ.) হতে বর্ণিত যে, উম্মু আতিয়্যাহ ( বলেছেন, স্বামী ব্যতীত অন্য কারো মৃত্যু হলে তিন দিনের বেশী শোক পালন করতে আমাদেরকে নিষেধ করা হয়েছে। [৩০৩] আধুনিক প্রকাশনী- ৪৯৪১, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5340</td></tr><tr><td>Arabic No</td><td>5340</td></tr><tr><td>Reference</td><td>Book 68 Hadith 85</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Bisyr]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உம்மு அத்திய்யா (ரலி) அவர்கள் கூறியதாவது: கணவருக்காகத் தவிர (வேறு யாருடைய இறப்புக்காகவும்) மூன்று நாட்களுக்கு அதிகமாகத் துக்கம் கடைப்பிடிக்கக் கூடாதென எங்களுக்குத் தடை விதிக்கப்பட்டது. இதை முஹம்மத் பின் சீரீன் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 68
+உம்மு அத்திய்யா (ரலி) அவர்கள் கூறியதாவது: கணவருக்காகத் தவிர (வேறு யாருடைய இறப்புக்காகவும்) மூன்று நாட்களுக்கு அதிகமாகத் துக்கம் கடைப்பிடிக்கக் கூடாதென எங்களுக்குத் தடை விதிக்கப்பட்டது. இதை முஹம்மத் பின் சீரீன் (ரஹ்) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5340</td></tr><tr><td>Arabic No</td><td>5340</td></tr><tr><td>Reference</td><td>Book 68 Hadith 85</td></tr></tbody></table></div>
 

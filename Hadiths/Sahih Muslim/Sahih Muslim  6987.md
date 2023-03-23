@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৮৮০, আন্তর্জাতিক নাম্বারঃ ২৭৫৮ ৬৮৮০-(.../...) আবু আহমাদ (রহঃ) ...... আবদুল আ’লা ইবনু হাম্মাদ আন নার্‌সী (রহঃ) হতে উপরোক্ত সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৭৩২, ইসলামিক সেন্টার ৬৭৮৮)
+আবু আহমাদ (রহঃ) ...... আবদুল আ’লা ইবনু হাম্মাদ আন নার্‌সী (রহঃ) হতে উপরোক্ত সূত্রে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৭৩২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6987</td></tr><tr><td>Arabic No</td><td>2758.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 34</td></tr></tbody></table></div>
 

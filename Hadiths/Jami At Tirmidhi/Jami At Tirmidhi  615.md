@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৬১৫। ইমাম মুহাম্মদ বলেন, ইবনু নুমাইর উবাইদুল্লাহ ইবনু মূসার সূত্রে গালিব হতে অনুরূপ হাদীস বর্ণনা করেছেন।
+। ইমাম মুহাম্মদ বলেন, ইবনু নুমাইর উবাইদুল্লাহ ইবনু মূসার সূত্রে গালিব হতে অনুরূপ হাদীস বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>615</td></tr><tr><td>Reference</td><td>Book 6 Hadith 72</td></tr></tbody></table></div>
 

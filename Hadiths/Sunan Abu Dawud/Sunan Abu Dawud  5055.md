@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নুফায়লী (রহঃ) .... ফারওয়া বিন নওফল (রহঃ) তাঁর পিতা থেকে বর্ণনা করেন। তিনি বলেনঃ একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেনঃ তুমি শোবার সময় সূরা কাফিরুন তিলাওয়াত করবে। কেননা, এ সূরা শিরক থেকে মুক্তকারী।
+। ফারওয়াহ ইবনু নাওফাল (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাওফাল (রাঃ)-কে বলেনঃ তুমি ‘‘কুল ইয়া আয়্যুহাল কাফিরূন’’ সূরাটি পড়ে ঘুমাবে। কেননা তা শিরক থেকে মুক্তকারী।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5055</td></tr><tr><td>Arabic No</td><td>5055</td></tr><tr><td>Reference</td><td>Book 43 Hadith 283</td></tr></tbody></table></div>
 

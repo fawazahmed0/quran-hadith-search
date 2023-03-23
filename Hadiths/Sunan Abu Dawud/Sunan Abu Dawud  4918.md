@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রাবী ইবন সুলায়মান (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এক মু'মিন-অন্য মুমিনের জন্য দর্পণ-স্বরূপ এবং এক মু'মিন-অপর মু'মিনের জন্য ভাই-স্বরূপ। কাজেই এক মুসলিমের উচিত, অপর মুসলিমের ক্ষতি হতে রক্ষা করা এবং তার অনুপস্থিতে সে ব্যক্তির জান-মাল রক্ষা করা।
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এক মু‘মিন অপর মু‘মিনের জন্য আয়নাস্বরূপ এবং এক মু‘মিন অপর মু‘মিনের ভাই। তারা একে অপরকে ক্ষতি থেকে রক্ষা করে এবং তার অনুপস্থিতিতে তাকে রক্ষা করে।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4918</td></tr><tr><td>Arabic No</td><td>4918</td></tr><tr><td>Reference</td><td>Book 43 Hadith 146</td></tr></tbody></table></div>
 

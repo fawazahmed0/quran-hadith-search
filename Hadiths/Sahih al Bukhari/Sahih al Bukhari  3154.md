@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা যুদ্ধের সময় মধু ও আঙ্গুর লাভ করতাম। আমরা তা খেয়ে নিতাম, জমা রাখতাম না। (আধুনিক প্রকাশনীঃ ২৯১৯, ইসলামিক ফাউন্ডেশনঃ ২৯৩০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা যুদ্ধের সময় মধু ও আঙ্গুর লাভ করতাম। আমরা তা খেয়ে নিতাম, জমা রাখতাম না। (আধুনিক প্রকাশনীঃ ২৯১৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3154</td></tr><tr><td>Arabic No</td><td>3154</td></tr><tr><td>Reference</td><td>Book 57 Hadith 62</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Hammad bin Z
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: எங்கள் அறப்போர்களில் எங்களுக்குத் தேனும் திராட்சைப் பழமும் கிடைத்துவந்தன. அதை நாங்கள் உண்போம். ஆனால், அதை நாங்கள் (சேகரித்து வைப்பதற்காகக்) கொண்டுசெல்வதில்லை. அத்தியாயம் : 57
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: எங்கள் அறப்போர்களில் எங்களுக்குத் தேனும் திராட்சைப் பழமும் கிடைத்துவந்தன. அதை நாங்கள் உண்போம். ஆனால், அதை நாங்கள் (சேகரித்து வைப்பதற்காகக்) கொண்டுசெல்வதில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3154</td></tr><tr><td>Arabic No</td><td>3154</td></tr><tr><td>Reference</td><td>Book 57 Hadith 62</td></tr></tbody></table></div>
 

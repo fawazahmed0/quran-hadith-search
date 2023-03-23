@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০৭৮। আবদ ইবনু হুমাইদ আবূ নু'আইম হতে, তিনি হিশাম ইবনু সাদ হতে, তিনি যাইদ ইবনু আসলাম হতে, তিনি আবূ সালিহ হতে, তিনি আবূ হুরাইরাহ হতে বর্ণনা করেন যে, আবূ হুরাইরাহ (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন আদম (আঃ)-কে সৃষ্টি করা হল... পূর্বে বর্ণিত হাদীসের অনুরূপ।
+। আবদ ইবনু হুমাইদ আবূ নু'আইম হতে, তিনি হিশাম ইবনু সাদ হতে, তিনি যাইদ ইবনু আসলাম হতে, তিনি আবূ সালিহ হতে, তিনি আবূ হুরাইরাহ হতে বর্ণনা করেন যে, আবূ হুরাইরাহ (রাযিঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন আদম (আঃ)-কে সৃষ্টি করা হল... পূর্বে বর্ণিত হাদীসের অনুরূপ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3078</td></tr><tr><td>Arabic No</td><td>3078</td></tr><tr><td>Reference</td><td>Book 47 Hadith 130</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Hurairah:that the Messenger of Allah (ﷺ) said: "When Allah created Adam" (and he mentioned) the Hadith (#3076)
+Narrated Abu Hurairah:that the Messenger of Allah (ﷺ) said: "When Allah created Adam" (and he mentioned) the Hadith
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3078</td></tr><tr><td>Arabic No</td><td>3078</td></tr><tr><td>Reference</td><td>Book 47 Hadith 130</td></tr></tbody></table></div>
 

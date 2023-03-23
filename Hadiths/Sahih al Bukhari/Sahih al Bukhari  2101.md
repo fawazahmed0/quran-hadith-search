@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, সৎ সঙ্গী ও অসৎ সঙ্গীর উদাহরণ মিস্ক বিক্রেতা ও কর্মকারের হাপরের ন্যায়। আতর বিক্রেতাদের থেকে শূন্য হাতে ফিরে আসবে না। হয় তুমি আতর খরিদ করবে, না হয় তার সুঘ্রাণ পাবে। আর কর্মকারের হাপর হয় তোমার ঘর অথবা তোমার কাপড় পুড়িয়ে দেবে, না হয় তুমি তার দুর্গন্ধ পাবে। (৫৫৩৪) (আধুনিক প্রকাশনীঃ ১৯৫৬ , ইসলামিক ফাউন্ডেশনঃ ১৯৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, সৎ সঙ্গী ও অসৎ সঙ্গীর উদাহরণ মিস্ক বিক্রেতা ও কর্মকারের হাপরের ন্যায়। আতর বিক্রেতাদের থেকে শূন্য হাতে ফিরে আসবে না। হয় তুমি আতর খরিদ করবে, না হয় তার সুঘ্রাণ পাবে। আর কর্মকারের হাপর হয় তোমার ঘর অথবা তোমার কাপড় পুড়িয়ে দেবে, না হয় তুমি তার দুর্গন্ধ পাবে। (৫৫৩৪) (আধুনিক প্রকাশনীঃ ১৯৫৬ , ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 34 Hadith 54</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada saya [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நல்ல நண்பனுக்கும் தீய நண்பனுக்கும் உதாரணம், கஸ்தூரி வைத்திருப்பவரும் கொல்லனின் உலையும் ஆகும். கஸ்தூரி வைத்திருப்பவரிடமிருந்து உமக்கு ஏதும் கிடைக்காமல் போகாது. நீர் அதை விலைக்கு வாங்கலாம்; அல்லது அதன் நறுமணத்தையாவது பெறலாம். கொல்லனின் உலையானது, உமது வீட்டையோ உமது ஆடையையோ எரித்துவிடும்; அல்லது அவனிடமிருந்து துர்வாடையையாவது நீர் அடைந்தே தீருவாய். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 34
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நல்ல நண்பனுக்கும் தீய நண்பனுக்கும் உதாரணம், கஸ்தூரி வைத்திருப்பவரும் கொல்லனின் உலையும் ஆகும். கஸ்தூரி வைத்திருப்பவரிடமிருந்து உமக்கு ஏதும் கிடைக்காமல் போகாது. நீர் அதை விலைக்கு வாங்கலாம்; அல்லது அதன் நறுமணத்தையாவது பெறலாம். கொல்லனின் உலையானது, உமது வீட்டையோ உமது ஆடையையோ எரித்துவிடும்; அல்லது அவனிடமிருந்து துர்வாடையையாவது நீர் அடைந்தே தீருவாய். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 34 Hadith 54</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada saya [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Musa'nın oğlu Ebu Bürde, babasından, o da Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmişlerdir: "İyi arkadaş ve kötü arkadaş, misk satan ile demir körükleyen kimseye benzer. Misk satan kimsenin mutlaka sana bir yararı dokunur; ya ondan misk satın alırsın yahut kokusunu duyarsın. Demircinin körüğü ise ya evini veya elbiseni yakar yahut da onun kötü kokusunu duyarsın". Tekrar: 5534
+Ebu Musa'nın oğlu Ebu Bürde, babasından, o da Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmişlerdir: "İyi arkadaş ve kötü arkadaş, misk satan ile demir körükleyen kimseye benzer. Misk satan kimsenin mutlaka sana bir yararı dokunur; ya ondan misk satın alırsın yahut kokusunu duyarsın. Demircinin körüğü ise ya evini veya elbiseni yakar yahut da onun kötü kokusunu duyarsın". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 34 Hadith 54</td></tr></tbody></table></div>
 

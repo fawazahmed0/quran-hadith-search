@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, হাজ্জ্বাতুল বিদার বছর আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে বের হই। আমাদের মধ্যে কেউ কেবল ‘উমরাহ’র ইহরাম বাঁধলেন, আর কেউ হাজ্জ ও ‘উমষ্মাহ! উভয়টির ইহরাম বাঁধলেন। আর কেউ শুধু হাজ্জ-এর ইহরাম বাঁধলেন এবং আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শুধু হাজ্জের জন্য ইহরাম বাঁধলেন। যারা কেবল হাজ্জ বা এক সঙ্গে হাজ্জ ও ‘উমরাহ’র ইহরাম বেঁধেছিলেন তাদের একজনও কুরবানী দিনের পূর্বে ইহরাম খোলেননি। (২৯৪) (আধুনিক প্রকাশনীঃ ১৪৫৯, ইসলামিক ফাউন্ডেশনঃ ১৪৬৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ্ (রাযি.) হতে বর্ণিত। তিনি বলেন, হাজ্জ্বাতুল বিদার বছর আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে বের হই। আমাদের মধ্যে কেউ কেবল ‘উমরাহ’র ইহরাম বাঁধলেন, আর কেউ হাজ্জ ও ‘উমষ্মাহ! উভয়টির ইহরাম বাঁধলেন। আর কেউ শুধু হাজ্জ-এর ইহরাম বাঁধলেন এবং আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শুধু হাজ্জের জন্য ইহরাম বাঁধলেন। যারা কেবল হাজ্জ বা এক সঙ্গে হাজ্জ ও ‘উমরাহ’র ইহরাম বেঁধেছিলেন তাদের একজনও কুরবানী দিনের পূর্বে ইহরাম খোলেননি। (২৯৪) (আধুনিক প্রকাশনীঃ ১৪৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1562</td></tr><tr><td>Arabic No</td><td>1562</td></tr><tr><td>Reference</td><td>Book 25 Hadith 48</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aisha:We set out with Allah's Messenger (ﷺ)s (to Mecca) in the year of the Prophet's Last Hajj. Some of us had assumed Ihram for 'Umra only, some for both Hajj and 'Umra, and others for Hajj only. Allah's Apostle assumed Ihram for Hajj. So whoever had assumed Ihram for Hajj or for both Hajj and 'Umra did not finish the Ihram till the day of sacrifice. (See Hadith No. 631, 636, and 639)
+Narrated 'Aisha:We set out with Allah's Messenger (ﷺ)s (to Mecca) in the year of the Prophet's Last Hajj. Some of us had assumed Ihram for 'Umra only, some for both Hajj and 'Umra, and others for Hajj only. Allah's Apostle assumed Ihram for Hajj. So whoever had assumed Ihram for Hajj or for both Hajj and 'Umra did not finish the Ihram till the day of sacrifice. (See Hadith No. 631, 636, and)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1562</td></tr><tr><td>Arabic No</td><td>1562</td></tr><tr><td>Reference</td><td>Book 25 Hadith 48</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மேற்கொண்ட விடைபெறும் ஹஜ்ஜின் போது நாங்களும் அவர்களுடன் புறப்பட்டோம். எங்களில் சிலர் உம்ராவிற்காகவும் (தமத்துஉ), சிலர் ஹஜ் மற்றும் உம்ரா ஆகிய இரண்டிற்காகவும் (கிரான்), சிலர் ஹஜ்ஜுக்காக மட்டும் (இஃப்ராத்) இஹ்ராம் கட்டியிருந்தனர். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஹஜ்ஜுக்காக இஹ்ராம் கட்டியிருந்தார்கள். ஹஜ்ஜுக்காகவோ அல்லது ஹஜ்ஜுக் கும் உம்ராவிற்காகவும் சேர்த்தோ இஹ்ராம் கட்டியவர்கள் பிராணியைக் குர்பானி கொடுக்கும் (பத்தாம்) நாள் வரும்வரை இஹ்ராமிலிருந்து விடுபடவில்லை. அத்தியாயம் : 25
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் மேற்கொண்ட விடைபெறும் ஹஜ்ஜின் போது நாங்களும் அவர்களுடன் புறப்பட்டோம். எங்களில் சிலர் உம்ராவிற்காகவும் (தமத்துஉ), சிலர் ஹஜ் மற்றும் உம்ரா ஆகிய இரண்டிற்காகவும் (கிரான்), சிலர் ஹஜ்ஜுக்காக மட்டும் (இஃப்ராத்) இஹ்ராம் கட்டியிருந்தனர். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஹஜ்ஜுக்காக இஹ்ராம் கட்டியிருந்தார்கள். ஹஜ்ஜுக்காகவோ அல்லது ஹஜ்ஜுக் கும் உம்ராவிற்காகவும் சேர்த்தோ இஹ்ராம் கட்டியவர்கள் பிராணியைக் குர்பானி கொடுக்கும் (பத்தாம்) நாள் வரும்வரை இஹ்ராமிலிருந்து விடுபடவில்லை. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1562</td></tr><tr><td>Arabic No</td><td>1562</td></tr><tr><td>Reference</td><td>Book 25 Hadith 48</td></tr></tbody></table></div>
 

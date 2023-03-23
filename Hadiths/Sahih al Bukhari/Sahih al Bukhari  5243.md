@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফর থেকে এসে রাতে ঘরে প্রবেশ করা অপছন্দ করতেন। [৪৪৩] আধুনিক প্রকাশনী- ৪৮৬০, ইসলামিক ফাউন্ডেশন- ৪৮৬৩
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফর থেকে এসে রাতে ঘরে প্রবেশ করা অপছন্দ করতেন। [৪৪৩] আধুনিক প্রকাশনী- ৪৮৬০, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5243</td></tr><tr><td>Arabic No</td><td>5243</td></tr><tr><td>Reference</td><td>Book 67 Hadith 176</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] T
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் (வெளியிலிருந்து) இரவு நேரத்தில் திடீரெனத் தம் வீட்டாரிடம் வருவதை நபி (ஸல்) அவர்கள் வெறுக்கக்கூடியவர்களாயிருந்தார்கள். அத்தியாயம் : 67
+ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: ஒருவர் (வெளியிலிருந்து) இரவு நேரத்தில் திடீரெனத் தம் வீட்டாரிடம் வருவதை நபி (ஸல்) அவர்கள் வெறுக்கக்கூடியவர்களாயிருந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5243</td></tr><tr><td>Arabic No</td><td>5243</td></tr><tr><td>Reference</td><td>Book 67 Hadith 176</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি আরাফাতে ওয়াকূফ অবস্থায় অকস্মাৎ তার উটনী হতে পড়ে যায়। এতে তাঁর ঘাড় মটকে গেল অথবা রাবী বলেছেন, তাঁর ঘাড় মটকে দিল। (যাতে সে মারা গেল)। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তাঁকে বরই পাতাসহ পানি দিয়ে গোসল দাও এবং দু’ কাপড়ে তাঁকে কাফন দাও। তাঁকে সুগন্ধি লাগাবে না এবং তাঁর মস্তক আবৃত করবে না। কেননা, কিয়ামতের দিবসে সে তালবিয়া পাঠরত অবস্থায় উত্থিত হবে। (১২৬৬, ১২৬৭, ১২৬৮, ১৮৩৯, ১৮৪৯, ১৮৫০, ১৮৫১, মুসলিম ১৫/১৪, হাঃ ১২০৬, আহমাদ ৩২৩০) (আধুনিক প্রকাশনীঃ ১১৮৩, ইসলামিক ফাউন্ডেশনঃ ১১৯১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি আরাফাতে ওয়াকূফ অবস্থায় অকস্মাৎ তার উটনী হতে পড়ে যায়। এতে তাঁর ঘাড় মটকে গেল অথবা রাবী বলেছেন, তাঁর ঘাড় মটকে দিল। (যাতে সে মারা গেল)। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তাঁকে বরই পাতাসহ পানি দিয়ে গোসল দাও এবং দু’ কাপড়ে তাঁকে কাফন দাও। তাঁকে সুগন্ধি লাগাবে না এবং তাঁর মস্তক আবৃত করবে না। কেননা, কিয়ামতের দিবসে সে তালবিয়া পাঠরত অবস্থায় উত্থিত হবে। (১২৬৬, ১২৬৭, ১২৬৮, ১৮৩৯, ১৮৪৯, ১৮৫০, ১৮৫১, মুসলিম ১৫/১৪, হাঃ ১২০৬, আহমাদ ৩২৩০) (আধুনিক প্রকাশনীঃ ১১৮৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 23 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (இஹ்ராம் கட்டிய) ஒருவர் ‘அரஃபா’ மைதானத்தில் தங்கியிருந்தார். திடீரென அவர் தமது ஊர்தி ஒட்டகத்திலிருந்து கீழே விழுந்துவிட்டார். அது அவரது கழுத்தை முறித்து(க் கொன்று)விட்டது. அப்போது நபி (ஸல்) அவர்கள் “அவரது உடலை இலந்தை இலை கலந்த நீரால் நீராட்டி, இரு ஆடைகளால் சவக்கோடி (கஃபன்) அணிவியுங்கள்; அவரது உடலுக்கு வாசனைத் தூள் போட வேண்டாம்; அவரது தலையை மறைக்கவும் வேண்டாம்; ஏனெனில், (இஹ்ராம் கட்டியிருந்த) அவர் மறுமை நாளில் ‘தல்பியா’ (லப்பைக்...) சொன்னவராக எழுப்பப்படுவார்” எனக் கூறினார்கள். அத்தியாயம் : 23
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: (இஹ்ராம் கட்டிய) ஒருவர் ‘அரஃபா’ மைதானத்தில் தங்கியிருந்தார். திடீரென அவர் தமது ஊர்தி ஒட்டகத்திலிருந்து கீழே விழுந்துவிட்டார். அது அவரது கழுத்தை முறித்து(க் கொன்று)விட்டது. அப்போது நபி (ஸல்) அவர்கள் “அவரது உடலை இலந்தை இலை கலந்த நீரால் நீராட்டி, இரு ஆடைகளால் சவக்கோடி (கஃபன்) அணிவியுங்கள்; அவரது உடலுக்கு வாசனைத் தூள் போட வேண்டாம்; அவரது தலையை மறைக்கவும் வேண்டாம்; ஏனெனில், (இஹ்ராம் கட்டியிருந்த) அவர் மறுமை நாளில் ‘தல்பியா’ (லப்பைக்...) சொன்னவராக எழுப்பப்படுவார்” எனக் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 23 Hadith 26</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [H
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn-i Abbas r.a. şöyle demiştir: Bir adam Arafat'ta vakfede iken bineğinden düştü. Deve de adam'ın boynunu kırdı (adam derhal öldü). Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "O'nu su ve sidr ile yıkayın ve iki kat ihramı içinde kefenleyin. O'na koku sürmeyin, başını da örtmeyin. Çünkü o kıyamet gününde telbiye getirdiği halde diriltilecektir. Tekrar; 1266, 1267, 1268, 1839, 1850, 1851
+İbn-i Abbas r.a. şöyle demiştir: Bir adam Arafat'ta vakfede iken bineğinden düştü. Deve de adam'ın boynunu kırdı (adam derhal öldü). Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "O'nu su ve sidr ile yıkayın ve iki kat ihramı içinde kefenleyin. O'na koku sürmeyin, başını da örtmeyin. Çünkü o kıyamet gününde telbiye getirdiği halde diriltilecektir. Tekrar; 1266
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 23 Hadith 26</td></tr></tbody></table></div>
 

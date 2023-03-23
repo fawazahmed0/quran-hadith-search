@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আলী ইবনু হুজর (রহ.) ..... ‘আবদুল্লাহ ইবনু মুগাফফাল (রাঃ)-এর সূত্রে নবী (সা.) থেকে বর্ণিত। তিনি (সা.) বলেছেন: তোমাদের কেউ যেন গোসলখানায় প্রস্রাব না করে। কেননা, তা থেকেই যাবতীয় সন্দেহের উদ্রেক হয়। সহীহ: আবূ দাউদ ২৭, তিরমিযী ২১, ইবনু মাজাহ ৩০৪; “তা থেকেই যাবতীয় সন্দেহের উদ্রেক হয়”- অংশটুকু বাদে হাদীসটি সহীহ।
+। আলী ইবনু হুজর (রহঃ) ... আবদুল্লাহ ইবনু মুগাফফাল (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেছেনঃ তোমাদের কেউ যেন গোসলখানায় পেশাব না করে। কেননা এর কারণেই অধিকাংশ বিভ্রান্তির সৃষ্টি হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Arabic No</td><td>36</td></tr><tr><td>Reference</td><td>Book 1 Hadith 36</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah mengabarkan kepada kami [Ali bin Hujr] dia berkata; telah memberitakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Muğaffel (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: biriniz yıkandığı yere ve kaba küçük abdestini yapmasın çünkü vesvese ve kuşkulanmanın çoğu böyle şeylerden olur.) (Ebû Dâvûd, Tahara: 15; Tirmizî, Tahara: 17)
+Abdullah b. Muğaffel (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: biriniz yıkandığı yere ve kaba küçük abdestini yapmasın çünkü vesvese ve kuşkulanmanın çoğu böyle şeylerden olur.) (Ebû Dâvûd, Tahara: 15; Tirmizî, Tahara:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Arabic No</td><td>36</td></tr><tr><td>Reference</td><td>Book 1 Hadith 36</td></tr></tbody></table></div>
 

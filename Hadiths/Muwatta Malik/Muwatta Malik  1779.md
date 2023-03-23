@@ -46,7 +46,7 @@ Malik related to me from Nafi from Ibn Umar that the Messenger of Allah, may All
 
 
 <div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ibn Omar a rapporté que l'Envoyé d'Allah r (salallahou alayhi wa salam) (Sur lui la grâce et la paix d'Allah) a dit: «Il est défendu à chacun d'entre vous de traire les brebis d'un autre sans qu'il ait eu la permission de ce dernier. Est-ce que l'un de vous, aimerai qu'on entre par force dans sa maison, qu'on brise son armoire et qu'on lui vole sa nourriture? Ainsi donc, il en est le cas des brebis qui entassent dans leurs pis la nourriture de leur propriétaire. Alors, il n'est donc permis pas que l'un de vous traie les brebis d'un autre sans avoir sa permission». 1
+Ibn Omar a rapporté que l'Envoyé d'Allah r (salallahou alayhi wa salam) (Sur lui la grâce et la paix d'Allah) a dit: «Il est défendu à chacun d'entre vous de traire les brebis d'un autre sans qu'il ait eu la permission de ce dernier. Est-ce que l'un de vous, aimerai qu'on entre par force dans sa maison, qu'on brise son armoire et qu'on lui vole sa nourriture? Ainsi donc, il en est le cas des brebis qui entassent dans leurs pis la nourriture de leur propriétaire. Alors, il n'est donc permis pas que l'un de vous traie les brebis d'un autre sans avoir sa permission»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1779</td></tr><tr><td>Arabic No</td><td>1779</td></tr><tr><td>Reference</td><td>Book 54 Hadith 17</td></tr></tbody></table></div>
 

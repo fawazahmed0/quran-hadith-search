@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মামার .... ইবনু উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যদি আমরা মসজিদে নববীর এই দরজাটি মহিলাদের জন্য নির্দিষ্ট করে দিতাম (তবে খুবই উত্তম হত)। রাবী নাফে বলেন, ইবনু উমার (রাঃ) তার ইন্তেকালের পূর্ব পর্যন্ত এই দরজা দিয়ে এ কারণে আর কোন দিন প্রবেশ করেননি। ইমাম আবূ দাউদ বলেন, এই হাদীছ ইসমাঈল ইবনু ইব্রাহীম হতেও বর্ণিত হয়েছে এবং এটা বিশুদ্ধ অভিমত।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমরা যদি এ দরজাটি কেবল মহিলাদের জন্য ছেড়ে দেই, তবে ভালই হয়। নাফি‘ (রহঃ) বলেন, অতঃপর ইবনু ‘উমার (রাঃ) মৃত্যু পর্যন্ত ঐ দরজা দিয়ে আর কখনো মসজিদে প্রবেশ করেননি।[1] সহীহ ইমাম আবূ দাউদ (রহঃ) বলেন, হাদীসটি ইসমাঈল ইবনু ইবরাহীম আইয়ূব হতে, তিনি নাফি' হতে ‘উমার (রাঃ)-এর সূত্রে বর্ণনা করেছেন। এটাই অধিক সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>571</td></tr><tr><td>Arabic No</td><td>571</td></tr><tr><td>Reference</td><td>Book 2 Hadith 181</td></tr></tbody></table></div>
 

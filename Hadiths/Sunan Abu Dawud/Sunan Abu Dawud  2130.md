@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইবন সাঈদ .... আবূ হুরায়রা (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন মানুষের জন্য তার বিবাহের সময় এরূপ দু‘আ করতেন। তিনি বলতেনঃ (অর্থাৎ) আল্লাহ্ তোমার মঙ্গল সাধন করুন, তোমাকে উন্নতি দিন এবং তোমাদের উভয়ের মধ্যে সৎকাজে সহযোগিতা রাখুন।
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কাউকে বিয়ের পর শুভেচ্ছা জানালে বলতেনঃ ‘আল্লাহ তোমার কল্যাণ করুন, তোমাকে বরকত দান করুন এবং তোমাদের দাম্পত্য জীবন কল্যাণময় হোক।’[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2130</td></tr><tr><td>Arabic No</td><td>2130</td></tr><tr><td>Reference</td><td>Book 12 Hadith 85</td></tr></tbody></table></div>
 

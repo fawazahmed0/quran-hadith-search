@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি পাঠ করতেন فِدْيَةٌ طَعَامُ مَسَاكِيْنَ রাবী বলেন, এ আয়াত (فَمَنْ شَهِدَ الخ আয়াত দ্বারা) রহিত হয়ে গেছে। [১৯৪৯] (আধুনিক প্রকাশনীঃ ৪১৪৮, ইসলামিক ফাউন্ডেশনঃ ৪১৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি পাঠ করতেন فِدْيَةٌ طَعَامُ مَسَاكِيْنَ রাবী বলেন, এ আয়াত (فَمَنْ شَهِدَ الخ আয়াত দ্বারা) রহিত হয়ে গেছে। [১৯৪৯] (আধুনিক প্রকাশনীঃ ৪১৪৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4506</td></tr><tr><td>Arabic No</td><td>4506</td></tr><tr><td>Reference</td><td>Book 65 Hadith 33</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ayyas bin Al Walid] Telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நாஃபிஉ (ரஹ்) அவர்கள் கூறிய தாவது: இப்னு உமர் (ரலி) அவர்கள், (2:184ஆவது வசனத்தில், “அதற்குப் பரிகாரமாக ஓர் ஏழைக்கு உணவளிப்பது கடமையாகும்” என்பதன் மூலத்தை) “ஃபித்யத்து தஆமி மஸாகீன' என்று (“ஏழைகள்' எனப் பன்மையாக) ஓதிக்காட்டி “இது, சட்டம் காலாவதியாகிவிட்ட வசனமாகும்” என்று கூறினார்கள். அத்தியாயம் : 65
+நாஃபிஉ (ரஹ்) அவர்கள் கூறிய தாவது: இப்னு உமர் (ரலி) அவர்கள், (2:184ஆவது வசனத்தில், “அதற்குப் பரிகாரமாக ஓர் ஏழைக்கு உணவளிப்பது கடமையாகும்” என்பதன் மூலத்தை) “ஃபித்யத்து தஆமி மஸாகீன' என்று (“ஏழைகள்' எனப் பன்மையாக) ஓதிக்காட்டி “இது, சட்டம் காலாவதியாகிவிட்ட வசனமாகும்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4506</td></tr><tr><td>Arabic No</td><td>4506</td></tr><tr><td>Reference</td><td>Book 65 Hadith 33</td></tr></tbody></table></div>
 

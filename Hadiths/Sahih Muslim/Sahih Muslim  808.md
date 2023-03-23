@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৯৪, আন্তর্জাতিক নাম্বারঃ ৩৬৩ ৬৯৪-(.../...) হাসান আল হুলওয়ানী ও আবদ ইবনু হুমায়দ (রহঃ) এ সনদে ইউনুস এর রিওয়ায়াতের অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৬৯৩, ইসলামিক সেন্টারঃ ৭০৮)
+হাসান আল হুলওয়ানী ও আবদ ইবনু হুমায়দ (রহঃ) এ সনদে ইউনুস এর রিওয়ায়াতের অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৬৯৩, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>808</td></tr><tr><td>Arabic No</td><td>363.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 129</td></tr></tbody></table></div>
 

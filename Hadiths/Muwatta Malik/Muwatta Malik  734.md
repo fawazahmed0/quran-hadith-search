@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৩১. হিশাম ইবন উরওয়াহ (রহঃ) তাহার পিতা হইতে বর্ণনা করেন- রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুল-হুলায়ফা নামক স্থানে অবস্থিত মসজিদে দুই রাকাআত নামায পড়িতেন। অতঃপর যখন উষ্ট্রে আরোহণ করিতেন তখন উচ্চস্বরে তালবিয়া বা লাব্বায়কা পাঠ করিতেন।
+রেওয়ায়ত ৩৪. নাফি' (রহঃ) হইতে বর্ণিত, আবদুল্লাহ ইবন উমর (রাঃ) যুল-হুলায়ফাস্থ মসজিদে নামায পড়িয়া বাহির হইতেন, পরে উটে আরোহণ করিয়া ইহরাম বাঁধিতেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>734</td></tr><tr><td>Arabic No</td><td>734</td></tr><tr><td>Reference</td><td>Book 20 Hadith 30</td></tr></tbody></table></div>
 

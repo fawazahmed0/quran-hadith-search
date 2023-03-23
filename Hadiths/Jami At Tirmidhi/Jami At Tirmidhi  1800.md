@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৮০০। সালিম (রহঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের প্রত্যেকে যেন খাওয়ার সময় ডান হাতে খায় এবং ডান হাতে পান করে। কারণ বাম হাতে শাইতান পানাহার করে। সহীহ, দেখুন পূর্বের হাদীস
+। সালিম (রহঃ) হতে তার পিতার সূত্রে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের প্রত্যেকে যেন খাওয়ার সময় ডান হাতে খায় এবং ডান হাতে পান করে। কারণ বাম হাতে শাইতান পানাহার করে। সহীহ, দেখুন পূর্বের হাদীস
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1800</td></tr><tr><td>Arabic No</td><td>1800</td></tr><tr><td>Reference</td><td>Book 25 Hadith 14</td></tr></tbody></table></div>
 

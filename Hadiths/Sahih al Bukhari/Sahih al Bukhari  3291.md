@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সালাতের ভিতর মানুষের এদিক-ওদিক তাকানোর বিষয়ে জিজ্ঞেস করলাম। তিনি বললেন, তা হল শয়তানের এক ধরনের ছিনতাই, যা সে তোমাদের এক জনের সালাত হতে ছিনিয়ে নেয়। (৭৫১) (আধুনিক প্রকাশনীঃ ৩০৪৯, ইসলামিক ফাউন্ডেশনঃ ৩০৫৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সালাতের ভিতর মানুষের এদিক-ওদিক তাকানোর বিষয়ে জিজ্ঞেস করলাম। তিনি বললেন, তা হল শয়তানের এক ধরনের ছিনতাই, যা সে তোমাদের এক জনের সালাত হতে ছিনিয়ে নেয়। (৭৫১) (আধুনিক প্রকাশনীঃ ৩০৪৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3291</td></tr><tr><td>Arabic No</td><td>3291</td></tr><tr><td>Reference</td><td>Book 59 Hadith 100</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Aisha:I asked the Prophet (ﷺ) about one's looking here and there dur
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் தொழு கையில் ஒருவர் திரும்பிப் பார்ப்பது குறித்துக் கேட்டேன். அதற்கு அவர்கள், ‘‘அ(வ்வாறு செய்வ)து உங்களின் தொழு கையை ஷைத்தான் பறித்துச் செல்வ(தற்கு வழிவகுப்ப)தாகும்” என்று பதிலளித் தார்கள்.96 அத்தியாயம் : 59
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களிடம் தொழு கையில் ஒருவர் திரும்பிப் பார்ப்பது குறித்துக் கேட்டேன். அதற்கு அவர்கள், ‘‘அ(வ்வாறு செய்வ)து உங்களின் தொழு கையை ஷைத்தான் பறித்துச் செல்வ(தற்கு வழிவகுப்ப)தாகும்” என்று பதிலளித் தார்கள்.96 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3291</td></tr><tr><td>Arabic No</td><td>3291</td></tr><tr><td>Reference</td><td>Book 59 Hadith 100</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, কায়স ইবনু সা‘দ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে এরূপ থাকতেন যেরূপ আমীরের (রাষ্ট্রপ্রধানের) সামনে পুলিশ প্রধান থাকেন। (আধুনিক প্রকাশনী- ৬৬৫৬, ইসলামিক ফাউন্ডেশন- ৬৬৭০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, কায়স ইবনু সা‘দ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে এরূপ থাকতেন যেরূপ আমীরের (রাষ্ট্রপ্রধানের) সামনে পুলিশ প্রধান থাকেন। (আধুনিক প্রকাশনী- ৬৬৫৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7155</td></tr><tr><td>Arabic No</td><td>7155</td></tr><tr><td>Reference</td><td>Book 93 Hadith 19</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Khalid Adz Dzuhli] telah menceritak
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (அன்சாரிகளில் ஒருவரான) கைஸ் பின் சஅத் பின் உபாதா (ரலி) அவர்கள் நபி (ஸல்) அவர்களுக்கு முன்னால் (அவர்களது அவையில்) ஆட்சித் தலை வருக்கு ஒரு காவல்துறை அதிகாரியைப் போன்று செயல்பட்டுவந்தார்கள்.18 அத்தியாயம் : 93
+அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (அன்சாரிகளில் ஒருவரான) கைஸ் பின் சஅத் பின் உபாதா (ரலி) அவர்கள் நபி (ஸல்) அவர்களுக்கு முன்னால் (அவர்களது அவையில்) ஆட்சித் தலை வருக்கு ஒரு காவல்துறை அதிகாரியைப் போன்று செயல்பட்டுவந்தார்கள்.18 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7155</td></tr><tr><td>Arabic No</td><td>7155</td></tr><tr><td>Reference</td><td>Book 93 Hadith 19</td></tr></tbody></table></div>
 

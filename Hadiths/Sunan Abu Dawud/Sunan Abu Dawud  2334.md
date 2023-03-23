@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন আবদুল্লাহ্ ..... সিলা (রহঃ) হতে বর্ণিত। তিনি বলেন, একদা আমরা সন্দেহজনক দিবসে আম্মার (রাঃ) এর নিকট ছিলাম। সেখানে একটি ভুনা বকরী পেশ করা হলে সেখানকার কিছু লোক (রোযা থাকার কারণে) তা খাওয়া হতে বিরত থাকে। আম্মার (রাঃ) বলেন, আজ (এ সন্দেহজনক দিবসে) যে রোযা রেখেছে, সে তো আবুল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নাফরমানী করেছে।
+। সিলাহ (রহ.) সূত্রে বর্ণিত। তিনি বলেন, আমরা এক সন্দেহজনক দিনে আম্মাম (রাযি.)-এর নিকট উপস্থিত ছিলাম। তখন একটি ভূনা বকরী সেখানে উপস্থিত করা হলে কিছু লোক এক দিকে সরে গেলো (খাওয়া থেকে বিরত থাকলো)। তখন আম্মার (রাযি.) বললেন, যে ব্যক্তি সন্দেহজনক দিনে সওম রেখেছে, সে আবুল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নাফরমানী করেছে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2334</td></tr><tr><td>Arabic No</td><td>2334</td></tr><tr><td>Reference</td><td>Book 14 Hadith 22</td></tr></tbody></table></div>
 

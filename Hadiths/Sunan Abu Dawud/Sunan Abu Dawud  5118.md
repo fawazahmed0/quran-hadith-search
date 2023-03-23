@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবন বাশশার (রহঃ) ...... আবদুল্লাহ্‌ ইবন মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদিন আমি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট সে সময় হাযির হই, যখন তিনি একটি চামড়ার তৈরী তাঁবুতে অবস্থান করছিলেন। এরপর তিনি অনুরূপ হাদীছ বর্ণনা করেন।
+। আব্দুর রাহমান ইবনু আব্দুল্লাহ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, একদা আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট গেলাম, তখন তিনি একটি চামড়ার তাঁবুতে ছিলেন ... অতঃপর বাকী অংশ উপরের হাদীসের অনুরূপ।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5118</td></tr><tr><td>Arabic No</td><td>5118</td></tr><tr><td>Reference</td><td>Book 43 Hadith 346</td></tr></tbody></table></div>
 

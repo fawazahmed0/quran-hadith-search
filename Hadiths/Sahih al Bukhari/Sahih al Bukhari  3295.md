@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, ‘তোমাদের কেউ যখন ঘুম হতে উঠল এবং উযূ করল তখন তার উচিত নাক তিনবার ঝেড়ে ফেলা। কারণ, শয়তান তার নাকের ছিদ্রে রাত কাটিয়েছে।’ (মুসলিম ২/৮ হাঃ ২৩৮) (আধুনিক প্রকাশনীঃ ৩০৫৩, ইসলামিক ফাউন্ডেশনঃ ৩০৬২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, ‘তোমাদের কেউ যখন ঘুম হতে উঠল এবং উযূ করল তখন তার উচিত নাক তিনবার ঝেড়ে ফেলা। কারণ, শয়তান তার নাকের ছিদ্রে রাত কাটিয়েছে।’ (মুসলিম ২/৮ হাঃ ২৩৮) (আধুনিক প্রকাশনীঃ ৩০৫৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3295</td></tr><tr><td>Arabic No</td><td>3295</td></tr><tr><td>Reference</td><td>Book 59 Hadith 104</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If anyone of you rouses from sleep
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் தூக்கத்திலிருந்து எழுந்து அங்கத் தூய்மை (உளூ) செய்தால் மூன்று முறை (நீர் செலுத்தி) நன்கு மூக்கைச் சிந்தி (தூய்மைப்படுத்தி)க்கொள்ளுங்கள். ஏனெனில், நீங்கள் (தூங்கும்போது) மூக்கின் உட்பகுதிக்குள் ஷைத்தான் இரவில் தங்குகிறான்.98 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 59
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் தூக்கத்திலிருந்து எழுந்து அங்கத் தூய்மை (உளூ) செய்தால் மூன்று முறை (நீர் செலுத்தி) நன்கு மூக்கைச் சிந்தி (தூய்மைப்படுத்தி)க்கொள்ளுங்கள். ஏனெனில், நீங்கள் (தூங்கும்போது) மூக்கின் உட்பகுதிக்குள் ஷைத்தான் இரவில் தங்குகிறான்.98 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3295</td></tr><tr><td>Arabic No</td><td>3295</td></tr><tr><td>Reference</td><td>Book 59 Hadith 104</td></tr></tbody></table></div>
 

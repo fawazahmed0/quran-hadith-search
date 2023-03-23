@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ তোমরা আমার পরে কুফরিতে ফিরে যেয়ো না যে (সে অবস্থায়) তোমরা একে অপরের গর্দান উড়িয়ে দিবে। [১৭৪২] (আধুনিক প্রকাশনী- ৬৩৮৯, ইসলামিক ফাউন্ডেশন- ৬৪০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ তোমরা আমার পরে কুফরিতে ফিরে যেয়ো না যে (সে অবস্থায়) তোমরা একে অপরের গর্দান উড়িয়ে দিবে। [১৭৪২] (আধুনিক প্রকাশনী- ৬৩৮৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6868</td></tr><tr><td>Arabic No</td><td>6868</td></tr><tr><td>Reference</td><td>Book 87 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abul Walid] telah menceritakan kepada kami [Syu'
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(‘விடைபெறும்’ ஹஜ்ஜின்போது) நபி (ஸல்) அவர்கள் கூறினார்கள்: எனக்குப் பின்னால் உங்களில் ஒருவர் மற்றொருவரின் பிடரியை வெட்டிக் கொள்ளும் இறைமறுப்பாளர்களாக மாறி விடாதீர்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.7 அத்தியாயம் : 87
+(‘விடைபெறும்’ ஹஜ்ஜின்போது) நபி (ஸல்) அவர்கள் கூறினார்கள்: எனக்குப் பின்னால் உங்களில் ஒருவர் மற்றொருவரின் பிடரியை வெட்டிக் கொள்ளும் இறைமறுப்பாளர்களாக மாறி விடாதீர்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.7 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6868</td></tr><tr><td>Arabic No</td><td>6868</td></tr><tr><td>Reference</td><td>Book 87 Hadith 7</td></tr></tbody></table></div>
 

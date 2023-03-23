@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মাহমূদ ইবন খালিদ (রহঃ) .... ইবন উমার (রাঃ) হতে পূর্বোক্ত হাদীছের অনু্রূপ বর্ণিত হয়েছে। এরপর সে ব্যক্তি জিজ্ঞাসা করে যে, ইসলাম কি? তিনি বলেনঃ সালাত কায়েম করা, যাকাত দেয়া, আল্লাহ্‌র ঘরে হাজ্জ আদায় করা, রমযান মাসে রোযা রাখা এবং হতে পবিত্রতা হাসিলের জন্য গোসল করা-এ হলো ইসলাম।
+। ইবনু ইয়া‘মুর (রাঃ) সূত্রে এ হাদীস কিছু কম-বেশী বক্তব্যসহ বর্ণিত হয়েছে। তিনি বললেন, ইসলামী কি? তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেন, সালাত কায়িম করা, যাকাত দেয়া, বাইতুল্লাহর হজ (হজ্জ) করা, রামযান মাসের সাওম রাখা এবং জানাবাতের গোসল করা। ইমাম আবূ দাঊদ (রহঃ) বলেন, আলকামাহ ইবনু মারসাদ হলেন মুরযিয়া সম্প্রদায়ের ভুক্ত।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4697</td></tr><tr><td>Arabic No</td><td>4697</td></tr><tr><td>Reference</td><td>Book 42 Hadith 102</td></tr></tbody></table></div>
 

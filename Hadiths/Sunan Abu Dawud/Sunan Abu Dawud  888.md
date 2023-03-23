@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবনে সালেহ (রহঃ) ........... আনাস ইবনে মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ইন্তিকালের পর এই যুবক . উমর ইবনে আব্দুল আযীয ব্যতীত আর কারও পেছনে নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নামাযের অনুরূপ নামায পড়িনি। তিনি বলেন, আমরা তাঁর রুকু ও সিজদার মধ্যে দশ-দশবার করে রুকু ও সিজদার তাসবীহ পাঠের হিসাব করেছি। (নাসাঈ)।
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ইন্তিকালের পর এ যুবক অর্থাৎ ‘উমার ইবনু ‘আবদুল ‘আযীয ছাড়া কারো পিছনেই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সালাতের অনুরূপ সালাত আদায় করিনি। তিনি বলেন, আমরা তাঁর রুকূ‘তে দশবার এবং সিজদাতে দশবার তাসবীহ পড়ার হিসাব করেছি।[1] দুর্বল : মিশকাত ৮৮৩।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>888</td></tr><tr><td>Arabic No</td><td>888</td></tr><tr><td>Reference</td><td>Book 2 Hadith 498</td></tr></tbody></table></div>
 

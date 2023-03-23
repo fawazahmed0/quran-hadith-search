@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আল্লাহ্ বলেনঃ তোমরা দাসীগণকে ব্যভিচারে বাধ্য করো না ........। (সূরাহ আন্-নূর ২৪/৩৩) ৬৯৪৫. খানসা বিন্‌ত খিযাম আনসারী (রাঃ) হতে বর্ণিত যে, তাকে তার পিতা (অনুমতি ছাড়া) বিয়ে দিলেন। আর সে ছিল বিধবা। এ বিয়ে সে অপছন্দ করল। তাই সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে জানাল। ফলে তিনি তার এ বিয়ে বাতিল করে দিলেন।[1] [৫১৩৮] (আধুনিক প্রকাশনী- ৬৪৬৩, ইসলামিক ফাউন্ডেশন- ৬৪৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(وَلاَ تُكْرِهُوا فَتَيَاتِكُمْ عَلَى الْبِغَاءِ إِنْ أَرَدْنَ تَحَصُّنًا لِتَبْتَغُوا عَرَضَ الْحَيَاةِ الدُّنْيَا وَمَنْ يُكْرِهْهُنَّ فَإِنَّ اللهَ مِنْ بَعْدِ إِكْرَاهِهِنَّ غَفُورٌ رَحِيمٌ) আল্লাহ্ বলেনঃ তোমরা দাসীগণকে ব্যভিচারে বাধ্য করো না ........। (সূরাহ আন্-নূর ২৪/৩৩) ৬৯৪৫. খানসা বিন্‌ত খিযাম আনসারী (রাঃ) হতে বর্ণিত যে, তাকে তার পিতা (অনুমতি ছাড়া) বিয়ে দিলেন। আর সে ছিল বিধবা। এ বিয়ে সে অপছন্দ করল। তাই সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে জানাল। ফলে তিনি তার এ বিয়ে বাতিল করে দিলেন।[1] [৫১৩৮] (আধুনিক প্রকাশনী- ৬৪৬৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6945</td></tr><tr><td>Arabic No</td><td>6945</td></tr><tr><td>Reference</td><td>Book 89 Hadith 6</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Khansa' bint Khidam Al-Ansariya:That her father gave her in marriage when she was a matron and she disliked that marriage. So she came and (complained) to the Prophets and he declared that marriage invalid. (See Hadith No. 69, Vol. 7)
+Narrated Khansa' bint Khidam Al-Ansariya:That her father gave her in marriage when she was a matron and she disliked that marriage. So she came and (complained) to the Prophets and he declared that marriage invalid. (See Hadith No. 69, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6945</td></tr><tr><td>Arabic No</td><td>6945</td></tr><tr><td>Reference</td><td>Book 89 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Yahya bin Qaza'ah] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கன்ஸா பின்த் கிதாம் அல்அன் சாரிய்யா (ரலி) அவர்கள் கூறியதாவது: கன்னி கழிந்த பெண்ணாயிருந்த என்னை என் தந்தை (ஒருவருக்கு) மணமுடித்துவைத்தார்கள். எனக்கு அதில் விருப்பமில்லை. ஆகவே, நான் நபி (ஸல்) அவர்களிடம் சென்றேன். (என் தந்தை முடித்துவைத்த) அத்திருமணத்தை நபி (ஸல்) அவர்கள் ரத்துச் செய்தார்கள்.9 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 89
+கன்ஸா பின்த் கிதாம் அல்அன் சாரிய்யா (ரலி) அவர்கள் கூறியதாவது: கன்னி கழிந்த பெண்ணாயிருந்த என்னை என் தந்தை (ஒருவருக்கு) மணமுடித்துவைத்தார்கள். எனக்கு அதில் விருப்பமில்லை. ஆகவே, நான் நபி (ஸல்) அவர்களிடம் சென்றேன். (என் தந்தை முடித்துவைத்த) அத்திருமணத்தை நபி (ஸல்) அவர்கள் ரத்துச் செய்தார்கள்.9 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6945</td></tr><tr><td>Arabic No</td><td>6945</td></tr><tr><td>Reference</td><td>Book 89 Hadith 6</td></tr></tbody></table></div>
 

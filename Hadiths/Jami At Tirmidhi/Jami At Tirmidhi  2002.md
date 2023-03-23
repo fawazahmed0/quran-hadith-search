@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২০০২। আবূদ দারদা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামত দিবসে মুমিনের দাড়িপাল্লায় সচ্চরিত্র ও সদাচারের চেয়ে বেশি ওজনের আর কোন জিনিস হবে না। কেননা, আল্লাহ তা'আলা অশ্লীল ও কটুভাষীকে ঘৃণা করেন। সহীহ, সহীহাহ (৮৭৬), রাওযুন নাযীর (৯৪১) আবূ ঈসা বলেন, আইশা, আবূ হুরাইরা, আনাস ও উসামা ইবনু শারীক (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান সহীহ।
+। আবূদ দারদা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামত দিবসে মুমিনের দাড়িপাল্লায় সচ্চরিত্র ও সদাচারের চেয়ে বেশি ওজনের আর কোন জিনিস হবে না। কেননা, আল্লাহ তা'আলা অশ্লীল ও কটুভাষীকে ঘৃণা করেন। সহীহ, সহীহাহ (৮৭৬), রাওযুন নাযীর (৯৪১) আবূ ঈসা বলেন, আইশা, আবূ হুরাইরা, আনাস ও উসামা ইবনু শারীক (রাঃ) হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে। এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2002</td></tr><tr><td>Arabic No</td><td>2002</td></tr><tr><td>Reference</td><td>Book 27 Hadith 108</td></tr></tbody></table></div>
 

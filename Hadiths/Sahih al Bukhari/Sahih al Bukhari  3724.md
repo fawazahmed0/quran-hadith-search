@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কাইস ইবনু আবূ হাযিম (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ত্বলহা (রাঃ)-এর ঐ হাতকে অবশ অবস্থায় দেখেছি, যে হাত দিয়ে (উহুদ যুদ্ধে) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে রক্ষা করেছিলেন। (৪০৬৩) (আধুনিক প্রকাশনীঃ ৩৪৪৬, ইসলামিক ফাউন্ডেশনঃ ৩৪৫৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+কাইস ইবনু আবূ হাযিম (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ত্বলহা (রাঃ)-এর ঐ হাতকে অবশ অবস্থায় দেখেছি, যে হাত দিয়ে (উহুদ যুদ্ধে) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে রক্ষা করেছিলেন। (৪০৬৩) (আধুনিক প্রকাশনীঃ ৩৪৪৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 62 Hadith 71</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Khalid] tela
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-கைஸ் பின் அபீஹாஸிம் (ரஹ்) அவர்கள் கூறியதாவது: (உஹுத் போரின்போது) நபி (ஸல்) அவர்களை (நோக்கி வந்த அம்புகள் மற்றும் ஈட்டிகளிலிருந்து அவர்களைக் கேடயம் போன்று நின்று) காத்த தல்ஹா (ரலி) அவர்களின் கையை (துளைகளும் வடுக்களும் நிறைந்து) ஊனமுற்றதாக நான் பார்த்தேன். அத்தியாயம் : 62
+கைஸ் பின் அபீஹாஸிம் (ரஹ்) அவர்கள் கூறியதாவது: (உஹுத் போரின்போது) நபி (ஸல்) அவர்களை (நோக்கி வந்த அம்புகள் மற்றும் ஈட்டிகளிலிருந்து அவர்களைக் கேடயம் போன்று நின்று) காத்த தல்ஹா (ரலி) அவர்களின் கையை (துளைகளும் வடுக்களும் நிறைந்து) ஊனமுற்றதாக நான் பார்த்தேன். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 62 Hadith 71</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা ইব্‌ন সাঈদ (রহঃ) .... জাবীর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপ বলতে শুনেছি যে, যখন কোন গোলাম শিরকের প্রতি চলে যায়, (অর্থাৎ আল্লাহ্‌কে পরিত্যাগ করে মুরতাদ হয়); তখন তার রক্ত হালাল হয়ে যায়।
+। জারীর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ ক্রীতদাস পলায়ন করে যদি মুশরিক হয়ে যায়, তবে তাকে হত্যা করা বৈধ।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4360</td></tr><tr><td>Arabic No</td><td>4360</td></tr><tr><td>Reference</td><td>Book 40 Hadith 10</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ‘আমর ইবনু লুহাই ইবনু কাম‘আহ ইবনু খিনদাফ খুযা‘আহ গোত্রের পূর্বপুরুষ ছিল। (মুসলিম ৫১/১৩ হাঃ ২৮৫৬) (আধুনিক প্রকাশনীঃ ৩২৫৮, ইসলামিক ফাউন্ডেশনঃ ৩২৬৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ‘আমর ইবনু লুহাই ইবনু কাম‘আহ ইবনু খিনদাফ খুযা‘আহ গোত্রের পূর্বপুরুষ ছিল। (মুসলিম ৫১/১৩ হাঃ ২৮৫৬) (আধুনিক প্রকাশনীঃ ৩২৫৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3520</td></tr><tr><td>Arabic No</td><td>3520</td></tr><tr><td>Reference</td><td>Book 61 Hadith 30</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Ishaq bin Ibrahim] telah bercerita kepada kami [Yahya 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அம்ர் பின் லுஹை பின் கம்ஆ பின் கின்திஃப் என்பார்தான் குஸாஆ குலத்தாரின் தந்தையாவார்.36 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 61
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: அம்ர் பின் லுஹை பின் கம்ஆ பின் கின்திஃப் என்பார்தான் குஸாஆ குலத்தாரின் தந்தையாவார்.36 இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3520</td></tr><tr><td>Arabic No</td><td>3520</td></tr><tr><td>Reference</td><td>Book 61 Hadith 30</td></tr></tbody></table></div>
 

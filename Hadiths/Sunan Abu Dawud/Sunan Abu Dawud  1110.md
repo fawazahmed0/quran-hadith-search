@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবনে আউফ্‌ (রহঃ) ..... মুয়ায ইবনে আনাস (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমার দিনে ইমামের খুতবা প্রদানের সময় হাটুঁ উপরে উঠিয়ে কাপড় জড়িয়ে বসতে নিষেধ করেছেন। (তিরমিযী)
+। সাহল ইবনু মু‘আয ইবনু আনাস (রাঃ) হতে তার পিতার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমু‘আহর দিন ইমামের খুত্ববাহ চলাকালে কাউকে হাঁটু উপরে উঠিয়ে কাপড় জড়িয়ে বসতে নিষেধ করেছেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1110</td></tr><tr><td>Arabic No</td><td>1110</td></tr><tr><td>Reference</td><td>Book 2 Hadith 721</td></tr></tbody></table></div>
 

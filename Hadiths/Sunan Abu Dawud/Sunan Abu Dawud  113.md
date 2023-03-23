@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনুল মুছান্না .... আবদ খায়ের হতে বর্ণিত। তিনি বলেছেন, আমি দেখলাম একদা আলী (রাঃ) এর জন্য একটি চেয়ার আনা হলে তিনি তাতে উপবেশন করেন। অতঃপর তাঁর নিকট এক পাত্র পানি আনা হলে তিনি তা দ্বারা তিনবার হাত ধৌত করেন। পরে তিনি একই পানি দ্বারা কুল্লি করেন এবং নাকে পানি দেন ... পূর্বোক্তভাবে হাদীছের অবশিষ্ট অংশ বর্ণিত হয়েছে। (ঐ)।
+। ‘আবদু খাইর সূত্রে বর্ণিত। তিনি বলেন, ‘আলী (রাঃ)-এর জন্য একটি চেয়ার আনা হলে তিনি তার উপর বসলেন। তারপর একটি পাত্রে পানি আনা হলে তিনি তিনবার তাঁর হাত ধুলেন, এরপর একই পানি দিয়ে কুলি করলেন এবং নাকে পানি দিলেন। ... অতঃপর (পূর্বোক্ত হাদীসের) শেষ পর্যন্ত বর্ণনা করলেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>113</td></tr><tr><td>Arabic No</td><td>113</td></tr><tr><td>Reference</td><td>Book 1 Hadith 113</td></tr></tbody></table></div>
 

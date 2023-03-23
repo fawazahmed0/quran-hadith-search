@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসলিম ইবন ইবরাহীম ..... হাসান (রহঃ) হতে বর্ণিত। তিনি বলেন, ‘‘তোমার ব্যাপার তোমার হাতে’’ এর দ্বারা তিন তালাকের নিয়্যাত করলে, তিন তালাক বর্তাবে।
+। কাতাদাহ (রহ.) সূত্রে বর্ণিত। তিনি হাসান বাসরী (রহ.) থেকে বর্ণনা করেন যে, তিনি বলেছেন, ‘‘তোমার ব্যাপার তোমার হাতে’’ বললে তিন তালাক বর্তাবে।[1] সহীহ মাকতূ।’
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2205</td></tr><tr><td>Arabic No</td><td>2205</td></tr><tr><td>Reference</td><td>Book 13 Hadith 31</td></tr></tbody></table></div>
 

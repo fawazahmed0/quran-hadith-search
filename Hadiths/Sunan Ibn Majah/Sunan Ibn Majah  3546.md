@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩৫৪৬। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, উম্মু সালামা (রাঃ) বললেন, হে আল্লাহর রাসূল! আপনি যে বিষমিশ্রিত বকরীর গোশত আহার করেছিলেন তার ফলে প্রতি বছরই তো আপনি ব্যথা অনুভব করেন। তিনি বলেনঃ তাতে আমার যা ক্ষতি হয়েছে, তা আদম (আ) মাটির দলার মধ্যে থাকা অবস্থায়ই আমার তাকদীরে লেখা ছিল।
+। ইবনে উমার (রাঃ) থেকে বর্ণিত। তিনি বলেন, উম্মু সালামা (রাঃ) বললেন, হে আল্লাহর রাসূল! আপনি যে বিষমিশ্রিত বকরীর গোশত আহার করেছিলেন তার ফলে প্রতি বছরই তো আপনি ব্যথা অনুভব করেন। তিনি বলেনঃ তাতে আমার যা ক্ষতি হয়েছে, তা আদম (আ) মাটির দলার মধ্যে থাকা অবস্থায়ই আমার তাকদীরে লেখা ছিল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3546</td></tr><tr><td>Arabic No</td><td>3546</td></tr><tr><td>Reference</td><td>Book 31 Hadith 111</td></tr></tbody></table></div>
 

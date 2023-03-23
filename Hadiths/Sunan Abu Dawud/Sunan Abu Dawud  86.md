@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু বাশশার .... ইবনু জুরায়েজ হতে আতার সূত্রে বর্ণিত। তিনি বলেন, আতা দুধ ও নবীয দ্বারা উযূ (ওজু/অজু/অযু) করাকে মাকরূহ্ মনে করতেন। তিনি আরো বলেন, এর চেয়ে তায়াম্মুম করা আমার নিকট অধিক উত্তম।
+। ‘আত্বা (রহঃ) সূত্রে বর্ণিত। তিনি দুধ ও ‘নবীয’ দ্বারা অযু করা অপছন্দ করতেন এবং বলতেন, আমার মতে এর চেয়ে তায়াম্মুম করা বেশী শ্রেয়।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>86</td></tr><tr><td>Arabic No</td><td>86</td></tr><tr><td>Reference</td><td>Book 1 Hadith 86</td></tr></tbody></table></div>
 

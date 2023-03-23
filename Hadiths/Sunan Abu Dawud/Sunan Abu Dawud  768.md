@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু রাফে .... ইকরামা উপরোক্তভাবে ভিন্ন শব্দে ও অর্থে এই হাদীছটি বর্ণনা করেছেন। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন নামাযে দাঁড়াতেন, তখন আল্লাহ্ আকবার উচ্চারণ করতেন এবং বলতেন।
+। ‘ইকরামাহ একই সানাদে ভিন্ন শব্দে ও অর্থে হাদীসটি বর্ণনা করেছেন। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে (তাহাজ্জুদ) সালাতে দাঁড়িয়ে আল্লাহু আকবার উচ্চারণ করে বলতেন ... (হাদীস)।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>768</td></tr><tr><td>Arabic No</td><td>768</td></tr><tr><td>Reference</td><td>Book 2 Hadith 378</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উছমান ইবন আবী শায়বা (রহঃ) ..... ‘আয়শা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ যদি কোন স্ত্রীলোক কোন কাফিরকে মুসলিমের হাত থেকে রক্ষা করার জন্য পানাহ্ দেয়, তবে তা জায়িয বা বৈধ হবে।
+। ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, মহিলারা মুসলিমদের প্রতিপক্ষ কাউকে আশ্রয় দিলে তা বৈধ হবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2764</td></tr><tr><td>Arabic No</td><td>2764</td></tr><tr><td>Reference</td><td>Book 15 Hadith 288</td></tr></tbody></table></div>
 

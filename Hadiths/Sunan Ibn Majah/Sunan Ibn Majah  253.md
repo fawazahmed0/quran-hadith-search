@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/২৫৩। ইবনু উমার (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যাক্তি নির্বোধের সাথে ঝগড়া করার জন্য অথবা আলিমদের উপর বাহাদুরি প্রকাশের জন্য অথবা তার প্রতি জনসাধারণের দৃষ্টি আকর্ষণের জন্য জ্ঞানার্জন করে, সে জাহান্নামী।
+। ইবনু উমার (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যাক্তি নির্বোধের সাথে ঝগড়া করার জন্য অথবা আলিমদের উপর বাহাদুরি প্রকাশের জন্য অথবা তার প্রতি জনসাধারণের দৃষ্টি আকর্ষণের জন্য জ্ঞানার্জন করে, সে জাহান্নামী।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>253</td></tr><tr><td>Arabic No</td><td>253</td></tr><tr><td>Reference</td><td>Book 0 Hadith 253</td></tr></tbody></table></div>
 

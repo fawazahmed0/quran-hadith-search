@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০৯। আয়িশা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-এর সঙ্গে তাঁর কোন এক স্ত্রী ইস্তিহাযার অবস্থায় ই’তিকাফ করেন। তিনি রক্ত দেখতেন এবং স্রাবের কারণে প্রায়ই তাঁর নীচে একটি পাত্র রাখতেন। রাবী বলেনঃ ‘আয়িশা (রাঃ) হলুদ রঙের পানি দেখে বলেছেন, এ যেন আল্লাহ্‌র রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-এর অমুক স্ত্রীর ইস্তিহাযার রক্ত। (৩১০, ৩১১, ২০৩৭ দ্রষ্টব্য) (আ.প্র. ২৯৮, ই.ফা. ৩০৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। আয়িশা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-এর সঙ্গে তাঁর কোন এক স্ত্রী ইস্তিহাযার অবস্থায় ই’তিকাফ করেন। তিনি রক্ত দেখতেন এবং স্রাবের কারণে প্রায়ই তাঁর নীচে একটি পাত্র রাখতেন। রাবী বলেনঃ ‘আয়িশা (রাঃ) হলুদ রঙের পানি দেখে বলেছেন, এ যেন আল্লাহ্‌র রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-এর অমুক স্ত্রীর ইস্তিহাযার রক্ত। (৩১০, ৩১১, ২০৩৭ দ্রষ্টব্য) (আ.প্র. ২৯৮, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>309</td></tr><tr><td>Arabic No</td><td>309</td></tr><tr><td>Reference</td><td>Book 6 Hadith 14</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ishaq] berkata, telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (மஸ்ஜிதுந் நபவீ பள்ளிவாச-ல்) நபி (ஸல்) அவர்களுடன் அவர்களின் துணைவியரில் ஒருவர் ‘இஃதிகாஃப்’ இருந்தார். அவர் உயர் இரத்தப்போக்கி னால் இரத்தத்தைக் காண்பவராயிருந்தார். இந்நிலையில் சில சமயங்களில் இரத்தத் தின் காரணமாகத் தமக்குக் கீழே கையலம்பும் பாத்திரத்தை அவர் வைப்பார். இதன் அறிவிப்பாளர்களில் ஒருவ ரான கா-த் பின் மிஹ்ரான் (ரஹ்) அவர்கள் கூறுகிறார்கள்: “ஆயிஷா (ரலி) அவர்கள் (ஒரு முறை) குசும்பப் பூவின் (சாய) நீரைப் பார்த்துவிட்டு, “இ(தன் நிறமான)து இன்னவளுக்கு ஏற்படுகின்ற ஒன்றைப் போன்றதுதான்” என்று குறிப்பிட்டதாகவும் இக்ரிமா (ரஹ்) அவர்கள் கூறினார்கள். அத்தியாயம் : 6
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (மஸ்ஜிதுந் நபவீ பள்ளிவாச-ல்) நபி (ஸல்) அவர்களுடன் அவர்களின் துணைவியரில் ஒருவர் ‘இஃதிகாஃப்’ இருந்தார். அவர் உயர் இரத்தப்போக்கி னால் இரத்தத்தைக் காண்பவராயிருந்தார். இந்நிலையில் சில சமயங்களில் இரத்தத் தின் காரணமாகத் தமக்குக் கீழே கையலம்பும் பாத்திரத்தை அவர் வைப்பார். இதன் அறிவிப்பாளர்களில் ஒருவ ரான கா-த் பின் மிஹ்ரான் (ரஹ்) அவர்கள் கூறுகிறார்கள்: “ஆயிஷா (ரலி) அவர்கள் (ஒரு முறை) குசும்பப் பூவின் (சாய) நீரைப் பார்த்துவிட்டு, “இ(தன் நிறமான)து இன்னவளுக்கு ஏற்படுகின்ற ஒன்றைப் போன்றதுதான்” என்று குறிப்பிட்டதாகவும் இக்ரிமா (ரஹ்) அவர்கள் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>309</td></tr><tr><td>Arabic No</td><td>309</td></tr><tr><td>Reference</td><td>Book 6 Hadith 14</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ishaq] berkata, telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe r.anha'dan şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) ile birlikte özür kanı gören hanımlarından biri de itikafa girdi. Kanının akmasından dolayı altına bir leğen koyduğu da olurdu." Hatta hadisin ravilerinden İkrime. Âişe r.anha'nın usfuru gördüğünü söylemiştir. Aişe (r.anha) anlatmaya şöyle devam etmiştir: Usfur: O zamanlar kullanılan güzel bir koku idi. "Bu, filanca kadının gördüğü bir şeydi. Tekrar: 310, 311, 2037
+Âişe r.anha'dan şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) ile birlikte özür kanı gören hanımlarından biri de itikafa girdi. Kanının akmasından dolayı altına bir leğen koyduğu da olurdu." Hatta hadisin ravilerinden İkrime. Âişe r.anha'nın usfuru gördüğünü söylemiştir. Aişe (r.anha) anlatmaya şöyle devam etmiştir: Usfur: O zamanlar kullanılan güzel bir koku idi. "Bu, filanca kadının gördüğü bir şeydi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>309</td></tr><tr><td>Arabic No</td><td>309</td></tr><tr><td>Reference</td><td>Book 6 Hadith 14</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১২৫১। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (দুধ জমা করে) স্তন ফুলানো পশু যদি কোন ব্যক্তি কিনে তবে তার জন্য (ক্রয় বাতিল করার) স্বাধীনতা আছে। সে চাইলে দুধ দোহনের পর তা ফেরত দিতে পারবে। তবে তাকে এর সাথে এক সা খেজুরও দিতে হবে। সহীহ, ইবনু মা-জাহ (২২৩৯), নাসা-ঈ আবূ ঈসা বলেন, আনাস (রাঃ) এবং আরও একজন সাহাবী হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (দুধ জমা করে) স্তন ফুলানো পশু যদি কোন ব্যক্তি কিনে তবে তার জন্য (ক্রয় বাতিল করার) স্বাধীনতা আছে। সে চাইলে দুধ দোহনের পর তা ফেরত দিতে পারবে। তবে তাকে এর সাথে এক সা খেজুরও দিতে হবে। সহীহ, ইবনু মা-জাহ (২২৩৯), নাসা-ঈ আবূ ঈসা বলেন, আনাস (রাঃ) এবং আরও একজন সাহাবী হতেও এ অনুচ্ছেদে হাদীস বর্ণিত আছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1251</td></tr><tr><td>Arabic No</td><td>1251</td></tr><tr><td>Reference</td><td>Book 14 Hadith 51</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু সালামাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ আমি তো একজন মানুষ। আর তোমরা আমার কাছে বিবাদ মীমাংসার জন্য এসে থাক। তোমাদের এক পক্ষ অন্য পক্ষ অপেক্ষা দলীল-প্রমাণ পেশ করার ক্ষেত্রে বেশি পারদর্শী হতে পারে। ফলে আমি আমার শোনার কারণে যদি কাউকে তার অন্য ভাইয়ের হক দিয়ে দেই, তাহলে যেন সে তা গ্রহণ না করে। কেননা, আমি তার জন্য জাহান্নামের একটা অংশই পৃথক করে দিচ্ছি।[1] [২৪৫৮] (আধুনিক প্রকাশনী- ৬৪৮৩, ইসলামিক ফাউন্ডেশন- ৬৪৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+উম্মু সালামাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ আমি তো একজন মানুষ। আর তোমরা আমার কাছে বিবাদ মীমাংসার জন্য এসে থাক। তোমাদের এক পক্ষ অন্য পক্ষ অপেক্ষা দলীল-প্রমাণ পেশ করার ক্ষেত্রে বেশি পারদর্শী হতে পারে। ফলে আমি আমার শোনার কারণে যদি কাউকে তার অন্য ভাইয়ের হক দিয়ে দেই, তাহলে যেন সে তা গ্রহণ না করে। কেননা, আমি তার জন্য জাহান্নামের একটা অংশই পৃথক করে দিচ্ছি।[1] [২৪৫৮] (আধুনিক প্রকাশনী- ৬৪৮৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6967</td></tr><tr><td>Arabic No</td><td>6967</td></tr><tr><td>Reference</td><td>Book 90 Hadith 14</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Um Salama:The Prophet (ﷺ) said, "I am only a human being, and you people have disputes. May be some one amongst you can present his case in a more eloquent and convincing manner than the other, and I give my judgment in his favor according to what I hear. Beware! If ever I give (by error) somebody something of his brother's right then he should not take it as I have only, given him a piece of Fire." (See Hadith No. 638. Vol. 3)
+Narrated Um Salama:The Prophet (ﷺ) said, "I am only a human being, and you people have disputes. May be some one amongst you can present his case in a more eloquent and convincing manner than the other, and I give my judgment in his favor according to what I hear. Beware! If ever I give (by error) somebody something of his brother's right then he should not take it as I have only, given him a piece of Fire." (See Hadith No. 638. Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6967</td></tr><tr><td>Arabic No</td><td>6967</td></tr><tr><td>Reference</td><td>Book 90 Hadith 14</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] dari [Sufyan] dari [Hisyam]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நான் ஒரு மனிதனே! என்னிடம் நீங்கள் உங்கள் வழக்குகளைக் கொண்டுவருகின்றீர்கள். உங்களில் ஒருவர் மற்றொருவரைவிடத் தமது ஆதாரத்தை எடுத்துவைப்பதில் வாக்குச் சாதுரியம்மிக்கவராக இருக்கக்கூடும். மேலும், நான் (அந்தச் சாதுரியமான வரிடமிருந்து) செவியுறுவதற்கேற்ப அவருக்குச் சாதகமாகத் தீர்ப்பளிக்கிறேன். ஆகவே, (எவரது சொல்லை வைத்து) அவருடைய சகோதரனின் உரிமையில் சிறிதளவை (அவருக்குரியது) என்று (உண்மை நிலை அறியாமல்) நான் தீர்ப்பளித்துவிடுகின்றேனோ அவர் அதை எடுத்துக்கொள்ள வேண்டாம். ஏனெனில், அவருக்கு நான் நரக நெருப்பின் ஒரு துண்டைத்தான் பெயர்த்துக் கொடுக்கிறேன். இதை உம்மு சலமா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.22 அத்தியாயம் : 90
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நான் ஒரு மனிதனே! என்னிடம் நீங்கள் உங்கள் வழக்குகளைக் கொண்டுவருகின்றீர்கள். உங்களில் ஒருவர் மற்றொருவரைவிடத் தமது ஆதாரத்தை எடுத்துவைப்பதில் வாக்குச் சாதுரியம்மிக்கவராக இருக்கக்கூடும். மேலும், நான் (அந்தச் சாதுரியமான வரிடமிருந்து) செவியுறுவதற்கேற்ப அவருக்குச் சாதகமாகத் தீர்ப்பளிக்கிறேன். ஆகவே, (எவரது சொல்லை வைத்து) அவருடைய சகோதரனின் உரிமையில் சிறிதளவை (அவருக்குரியது) என்று (உண்மை நிலை அறியாமல்) நான் தீர்ப்பளித்துவிடுகின்றேனோ அவர் அதை எடுத்துக்கொள்ள வேண்டாம். ஏனெனில், அவருக்கு நான் நரக நெருப்பின் ஒரு துண்டைத்தான் பெயர்த்துக் கொடுக்கிறேன். இதை உம்மு சலமா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.22 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6967</td></tr><tr><td>Arabic No</td><td>6967</td></tr><tr><td>Reference</td><td>Book 90 Hadith 14</td></tr></tbody></table></div>
 

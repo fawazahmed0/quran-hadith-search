@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-রেওয়ায়ত ৫. নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিণী আয়েশা (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার কিবলার দিকে দেওয়ালে থুথু অথবা কাশ বা নাকের পানি (কোনটি বলিয়াছেন এই বিষয়ে রাবীর সন্দেহ হইয়াছে) দেখিতে পাইলেন, তিনি উহা ঘষিয়া পরিষ্কার করিয়াছিলেন।
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>459</td></tr><tr><td>Arabic No</td><td>459</td></tr><tr><td>Reference</td><td>Book 14 Hadith 5</td></tr></tbody></table></div>
 

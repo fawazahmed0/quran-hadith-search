@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন ইয়াহ্‌ইয়া (রহঃ) .... ইবন উমার (রাঃ) থেকে বর্ণিত যে, নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন পুরুষ লোককে দু'জন মহিলার মাঝখানে চলতে নিষেধ করেছেন।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পুরুষ লোককে দু’ মহিলার মাঝখান দিয়ে চলাচল করতে বারণ করেছেন।[1] বানোয়াটঃ যঈফাহ হা/৩৭৫।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mawdu</td><td>Al-Albani</td></tr><tr><td>Mawdu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5273</td></tr><tr><td>Arabic No</td><td>5273</td></tr><tr><td>Reference</td><td>Book 43 Hadith 501</td></tr></tbody></table></div>
 

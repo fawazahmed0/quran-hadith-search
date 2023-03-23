@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৮৭, আন্তর্জাতিক নাম্বারঃ ৫২ ৮৭-(৮৩/...) মুহাম্মাদ ইবনু আল মুসান্না এবং 'আমর আন্‌ নাকিদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, পরবর্তী অংশ উপরোক্ত হাদীসের মতোই। (ইসলামিক ফাউন্ডেশনঃ ৮৯, ইসলামিক সেন্টারঃ ৯১)
+মুহাম্মাদ ইবনু আল মুসান্না এবং 'আমর আন্‌ নাকিদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) বলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, পরবর্তী অংশ উপরোক্ত হাদীসের মতোই। (ইসলামিক ফাউন্ডেশনঃ ৮৯, ইসলামিক সেন্টারঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>183</td></tr><tr><td>Arabic No</td><td>52.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 90</td></tr></tbody></table></div>
 
@@ -72,7 +72,7 @@ Abu Huraira reported the same hadith which is transmitted to us by another chain
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. el-Müsenna tahdis etti. Bize İbn Ebu Adiyy tahdis etti. (H) Bana Amr en-Nakid de tahdis etti. Bize İshak b. Yusuf el-Ezrak tahdis etti. Her ikisi (Amr ile İshak), İbn Avn'dan, o Muhammed'den, o Ebu Hureyre' den şöyle dediğini nakletti: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu deyip, hadisi aynen zikretti. Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf, 14473
+Bize Muhammed b. el-Müsenna tahdis etti. Bize İbn Ebu Adiyy tahdis etti. (H) Bana Amr en-Nakid de tahdis etti. Bize İshak b. Yusuf el-Ezrak tahdis etti. Her ikisi (Amr ile İshak), İbn Avn'dan, o Muhammed'den, o Ebu Hureyre' den şöyle dediğini nakletti: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu deyip, hadisi aynen zikretti. Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>183</td></tr><tr><td>Arabic No</td><td>52.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 90</td></tr></tbody></table></div>
 

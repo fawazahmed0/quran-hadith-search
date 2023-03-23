@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬৫৫০, আন্তর্জাতিক নাম্বারঃ ২৬১২ ৬৫৫০-(১১৬/...) মুহাম্মদ ইবনুল মুসান্না (রহঃ) ... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের মধ্যে কোন ভাই যদি তার অন্য ভাইকে আঘাত করে, সে যেন তার মুখমণ্ডলে আঘাত করা হতে বিরত থাকে। (ইসলামিক ফাউন্ডেশন ৬৪১৮, ইসলামিক সেন্টার ৬৪৬৮)
+মুহাম্মদ ইবনুল মুসান্না (রহঃ) ... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের মধ্যে কোন ভাই যদি তার অন্য ভাইকে আঘাত করে, সে যেন তার মুখমণ্ডলে আঘাত করা হতে বিরত থাকে। (ইসলামিক ফাউন্ডেশন ৬৪১৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6656</td></tr><tr><td>Arabic No</td><td>2612.06</td></tr><tr><td>Reference</td><td>Book 45 Hadith 153</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் தம் சகோதரரிடம் சண்டையிட்டால், முகத்தில் அடிப்பதைத் தவிர்க்கட்டும்! இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 45
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் தம் சகோதரரிடம் சண்டையிட்டால், முகத்தில் அடிப்பதைத் தவிர்க்கட்டும்! இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6656</td></tr><tr><td>Arabic No</td><td>2612.06</td></tr><tr><td>Reference</td><td>Book 45 Hadith 153</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৪/৫৫৫। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, লোকেরা বললো, হে আল্লাহ্‌র রাসূল! মোজার উপর মাসহ(মাসেহ) করার মেয়াদ কত? তিনি বলেনঃ মুসাফিরের জন্য একাধারে তিন দিন ও তিন রাত ও মুকীমের জন্য এক দিন ও এক রাত।
+। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, লোকেরা বললো, হে আল্লাহ্‌র রাসূল! মোজার উপর মাসহ(মাসেহ) করার মেয়াদ কত? তিনি বলেনঃ মুসাফিরের জন্য একাধারে তিন দিন ও তিন রাত ও মুকীমের জন্য এক দিন ও এক রাত।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>555</td></tr><tr><td>Arabic No</td><td>555</td></tr><tr><td>Reference</td><td>Book 1 Hadith 289</td></tr></tbody></table></div>
 

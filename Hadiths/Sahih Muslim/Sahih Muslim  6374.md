@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬২৬৮, আন্তর্জাতিক নাম্বারঃ ২৪৮০ ৬২৬৮-(.../…) মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত, তিনি অর্থানুরূপ বলেছেন। (ইসলামিক ফাউন্ডেশন ৬১৫০, ইসলামিক সেন্টার ৬১৯৩)
+(…) মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) হতে বর্ণিত, তিনি অর্থানুরূপ বলেছেন। (ইসলামিক ফাউন্ডেশন ৬১৫০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6374</td></tr><tr><td>Arabic No</td><td>2480.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 204</td></tr></tbody></table></div>
 

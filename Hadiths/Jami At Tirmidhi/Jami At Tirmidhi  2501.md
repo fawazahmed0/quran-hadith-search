@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৫০১। ‘আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক নীরব থাকলো, সে নাজাত (মুক্তি) পেলো। সহীহঃ সহীহাহ (৫৩৫)। আবূ ঈসা বলেন, এই হাদীসটি গারীব। আমরা এই হাদীস প্রসঙ্গে শুধুমাত্র ইবনু লাহীআর বর্ণনা হতেই জেনেছি। আবূ আবদুর রাহমান আল-হুবলীর নাম ‘আবদুল্লাহ ইবনু ইয়াযীদ।
+। ‘আবদুল্লাহ ইবনু আমর (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে লোক নীরব থাকলো, সে নাজাত (মুক্তি) পেলো। সহীহঃ সহীহাহ (৫৩৫)। আবূ ঈসা বলেন, এই হাদীসটি গারীব। আমরা এই হাদীস প্রসঙ্গে শুধুমাত্র ইবনু লাহীআর বর্ণনা হতেই জেনেছি। আবূ আবদুর রাহমান আল-হুবলীর নাম ‘আবদুল্লাহ ইবনু ইয়াযীদ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2501</td></tr><tr><td>Arabic No</td><td>2501</td></tr><tr><td>Reference</td><td>Book 37 Hadith 87</td></tr></tbody></table></div>
 

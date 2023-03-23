@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আসমা বিনতু আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, যে মহিলা পরচুলা লাগায়, আর যে অপরকে পরচুলা লাগিয়ে দেয়, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের উপর লা‘নত করেছেন। [৫৯৩৫] (আধুনিক প্রকাশনী- ৫৫০৩, ইসলামিক ফাউন্ডেশন- ৫৩৯৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আসমা বিনতু আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, যে মহিলা পরচুলা লাগায়, আর যে অপরকে পরচুলা লাগিয়ে দেয়, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের উপর লা‘নত করেছেন। [৫৯৩৫] (আধুনিক প্রকাশনী- ৫৫০৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5936</td></tr><tr><td>Arabic No</td><td>5936</td></tr><tr><td>Reference</td><td>Book 77 Hadith 151</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] d
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அஸ்மா பின்த் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒட்டுமுடி வைத்துவிடுபவளையும் ஒட்டுமுடி வைத்துக்கொள்பவளையும் (‘அல்லாஹ் தன் கருணையிலிருந்து அப்புறப்படுத் தட்டும்’ என்று) சபித்தார்கள். அத்தியாயம் : 77
+அஸ்மா பின்த் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒட்டுமுடி வைத்துவிடுபவளையும் ஒட்டுமுடி வைத்துக்கொள்பவளையும் (‘அல்லாஹ் தன் கருணையிலிருந்து அப்புறப்படுத் தட்டும்’ என்று) சபித்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5936</td></tr><tr><td>Arabic No</td><td>5936</td></tr><tr><td>Reference</td><td>Book 77 Hadith 151</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন কাছীর (রহঃ) .... আলী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুলল্লাহ সালল্লালল্লাহু আলাইহি ওয়াসালল্লাম প্রত্যেক ফরয নামায আদায়ের পর দুই রাকাত নামায আদায় করতেন। তবে তিনি ফজর ও আসরের ফরয নামাযের কোন নামায পড়তেন না।
+। ‘আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজর ও ‘আসর ব্যতীত প্রত্যেক ফারয সালাতের পরে দু’ রাক‘আত সালাত আদায় করতেন।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1275</td></tr><tr><td>Arabic No</td><td>1275</td></tr><tr><td>Reference</td><td>Book 5 Hadith 26</td></tr></tbody></table></div>
 

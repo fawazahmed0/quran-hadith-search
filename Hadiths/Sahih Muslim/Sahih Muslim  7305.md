@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৭১৯৭, আন্তর্জাতিক নাম্বারঃ ২৯০৯ ৭১৯৭-(৫৭/২৯০৯) আবূ বাকর ইবনু আবু শাইবাহ ও ইবনু আবু উমর (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আবিসিনিয়ার এক লোক কা’বা ঘরকে ভেঙ্গে চূর্ণ-বিচূর্ণ করবে; তার উভয় পায়ের নলা ছোট ছোট হবে। (ইসলামিক ফাউন্ডেশন ৭০৪১, ইসলামিক সেন্টার ৭০৯৭)
+আবূ বাকর ইবনু আবু শাইবাহ ও ইবনু আবু উমর (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আবিসিনিয়ার এক লোক কা’বা ঘরকে ভেঙ্গে চূর্ণ-বিচূর্ণ করবে; তার উভয় পায়ের নলা ছোট ছোট হবে। (ইসলামিক ফাউন্ডেশন ৭০৪১, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7305</td></tr><tr><td>Arabic No</td><td>2909.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 71</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Abi Umar], t
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: அபிசீனியாவைச் சேர்ந்த மெலிந்த கால்கள் உடைய ஒரு மனிதன் கஅபாவை (இடித்து)ப் பாழாக்குவான். - இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 52
+நபி (ஸல்) அவர்கள் கூறினார்கள்: அபிசீனியாவைச் சேர்ந்த மெலிந்த கால்கள் உடைய ஒரு மனிதன் கஅபாவை (இடித்து)ப் பாழாக்குவான். - இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7305</td></tr><tr><td>Arabic No</td><td>2909.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 71</td></tr></tbody></table></div>
 

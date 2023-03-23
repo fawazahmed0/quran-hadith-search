@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৬১৮০, আন্তর্জাতিক নাম্বারঃ ২৪৩৯ ৬১৮০-(.../...) ইবনু নুমায়র (রহঃ) ..... হিশাম (রহঃ) এর উপরোক্ত সূত্রে "না, ইবরাহীমের প্রতিপালকের শপথ" বাক্য পর্যন্ত বর্ণনা করেছেন। অবশিষ্টাংশ বর্ণনা করেননি। (ইসলামিক ফাউন্ডেশন ৬০৬৮, ইসলামিক সেন্টার ৬১০৫)
+ইবনু নুমায়র (রহঃ) ..... হিশাম (রহঃ) এর উপরোক্ত সূত্রে "না, ইবরাহীমের প্রতিপালকের শপথ" বাক্য পর্যন্ত বর্ণনা করেছেন। অবশিষ্টাংশ বর্ণনা করেননি। (ইসলামিক ফাউন্ডেশন ৬০৬৮, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6286</td></tr><tr><td>Arabic No</td><td>2439.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 116</td></tr></tbody></table></div>
 

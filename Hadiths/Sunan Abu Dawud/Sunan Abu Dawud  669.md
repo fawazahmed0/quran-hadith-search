@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতায়বা .... মুহাম্মাদ ইবনু মুসলিম হতে বর্ণিত। তিনি বলেন, একদা আমি আনাস ইবনু মালিক (রাঃ) এর পাশে দাঁড়িয়ে নামায আদায় করি। তিনি আমাকে বলেন, তুমি কি জান মসজিদে নববীতে কেন এই কাঠটি রাখা হয়েছে? আমি আল্লাহর শপথ করে বলি, আমি জানি না। তিনি (আনাস) বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এই কাঠ হাতে নিয়ে বলতেনঃ তোমরা বরাবর হয়ে যাও এবং কাতারসমূহ সোজা কর।
+। প্রাসাদের মালিক মুহাম্মাদ ইবনু মুসলিম ইবনুস সায়িব সূত্রে বর্ণিত। তিনি বলেন, একদা আমি আনাস ইবনু মালিক (রাঃ)-এর পাশে দাঁড়িয়ে সালাত আদায় করলাম। তিনি বললেন, তুমি কি জান (মসজিদে নাবাবীতে) এ কাষ্ঠ খন্ডটি কেন তৈরী করা হয়েছে? আমি বললাম, আল্লাহর শপথ! আমি জানি না। তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উপর তাঁর হাত রেখে বলতেনঃ তোমরা সোজা হয়ে যাও এবং তোমাদের কাতারসমূহ বরাবর করে নাও।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>669</td></tr><tr><td>Arabic No</td><td>669</td></tr><tr><td>Reference</td><td>Book 2 Hadith 279</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Hatim 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muhammed b. Müslim b. es-Saib demiştir ki: Bir gün Enes b. Malik'in yanında namaz kıldım da (bana): Bu sırık niçin yapıldı biliyor musun? dedi. (Ben de:) Hayır Vallahi bilmiyorum dedim. O da (şöyle) dedi: Nebi (Sallallahu aleyhi ve Sellem) bunu eline alır ve "saflarınızı düzgün ve sık tutunuz" buyururdu. Diğer tahric: Buharî, fedailü ashabı'n-Nebiy; Müslim, salat; imame, Ahmed b. Hanbel III, 254, 268, 286
+Muhammed b. Müslim b. es-Saib demiştir ki: Bir gün Enes b. Malik'in yanında namaz kıldım da (bana): Bu sırık niçin yapıldı biliyor musun? dedi. (Ben de:) Hayır Vallahi bilmiyorum dedim. O da (şöyle) dedi: Nebi (Sallallahu aleyhi ve Sellem) bunu eline alır ve "saflarınızı düzgün ve sık tutunuz" buyururdu. Diğer tahric: Buharî, fedailü ashabı'n-Nebiy; Müslim, salat; imame, Ahmed b. Hanbel III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>669</td></tr><tr><td>Arabic No</td><td>669</td></tr><tr><td>Reference</td><td>Book 2 Hadith 279</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৬৪২। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সবার আগে যে তিনজন জান্নাতে যাবে তাদেরকে আমার সামনে উপস্থিত করা হয়েছে। শহীদ, হারাম ও সংশয়পূর্ণ জিনিস হতে ও অপরের নিকটে হাত পাতা হতে দূরে অবস্থানকারী এবং উত্তমরূপে আল্লাহ্ তা'আলার ইবাদতকারী ও মনিবদের কল্যাণকামী গোলাম। যঈফ, তা’লীকুর রাগীব (১/২৬৮) আবূ ঈসা বলেন, এ হাদীসটি হাসান।
+। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সবার আগে যে তিনজন জান্নাতে যাবে তাদেরকে আমার সামনে উপস্থিত করা হয়েছে। শহীদ, হারাম ও সংশয়পূর্ণ জিনিস হতে ও অপরের নিকটে হাত পাতা হতে দূরে অবস্থানকারী এবং উত্তমরূপে আল্লাহ্ তা'আলার ইবাদতকারী ও মনিবদের কল্যাণকামী গোলাম। যঈফ, তা’লীকুর রাগীব (১/২৬৮) আবূ ঈসা বলেন, এ হাদীসটি হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1642</td></tr><tr><td>Arabic No</td><td>1642</td></tr><tr><td>Reference</td><td>Book 22 Hadith 25</td></tr></tbody></table></div>
 

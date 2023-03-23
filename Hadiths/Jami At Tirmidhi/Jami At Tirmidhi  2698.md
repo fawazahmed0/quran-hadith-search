@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৬৯৮। আনাস (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বলেছেনঃ হে বৎস! তুমি যখন তোমার পরিবার-পরিজনের নিকটে যাও, তখন সালাম দিও। তাতে তোমার ও তোমার পরিবার-পরিজনের কল্যাণ হবে। হাদীসটির সানাদ দুর্বল। আবূ ঈসা বলেন, এ হাদীসটি হাসান, সহীহ গারীব।
+। আনাস (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বলেছেনঃ হে বৎস! তুমি যখন তোমার পরিবার-পরিজনের নিকটে যাও, তখন সালাম দিও। তাতে তোমার ও তোমার পরিবার-পরিজনের কল্যাণ হবে। হাদীসটির সানাদ দুর্বল। আবূ ঈসা বলেন, এ হাদীসটি হাসান, সহীহ গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2698</td></tr><tr><td>Arabic No</td><td>2698</td></tr><tr><td>Reference</td><td>Book 42 Hadith 11</td></tr></tbody></table></div>
 

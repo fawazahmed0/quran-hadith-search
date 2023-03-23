@@ -62,7 +62,7 @@ Telah menceritakan kepadaku Yahya dari Malik dari [Muhammad bin Yahya bin Habban
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem: «Hiçbiriniz, (müslüman) kardeşinin evlilik teklif ettiği kadına evlilik teklif etmez» buyurdu. Diğer tahric: Buhari, Nikah; Şafiî, Risale, no: 847
+Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem: «Hiçbiriniz, (müslüman) kardeşinin evlilik teklif ettiği kadına evlilik teklif etmez» buyurdu. Diğer tahric: Buhari, Nikah; Şafiî, Risale, no:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1091</td></tr><tr><td>Arabic No</td><td>1091</td></tr><tr><td>Reference</td><td>Book 28 Hadith 1</td></tr></tbody></table></div>
 

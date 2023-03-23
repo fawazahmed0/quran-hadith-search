@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৬৪৬, আন্তর্জাতিক নাম্বারঃ ১৮৩৫ ৪৬৪৬-(.../...) মুহাম্মাদ ইবনু রাফি (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) সূত্রে উপরে বর্ণিত হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬০০, ইসলামিক সেন্টার ৪৬০২)
+মুহাম্মাদ ইবনু রাফি (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) সূত্রে উপরে বর্ণিত হাদীসের অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬০০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4752</td></tr><tr><td>Arabic No</td><td>1835.06</td></tr><tr><td>Reference</td><td>Book 33 Hadith 50</td></tr></tbody></table></div>
 

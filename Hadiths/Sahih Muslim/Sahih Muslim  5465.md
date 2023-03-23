@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+আবদুর রহমান ইবনু সাল্লাম জুমাহী (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, এক লোক (রাস্তায়) চলাফেরা করছিল। তার মাথার চুল ও দু'টি চাদর তাকে পুলকিত করে তুলছিল। এমন সময় তাকে জমিনে দাবিয়ে দেয়া হলো। সে কিয়ামত অবধি মাটির নিচে দাবতে থাকবে। (ইসলামিক ফাউন্ডেশন ৫২৯০, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5465</td></tr><tr><td>Arabic No</td><td>2088.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 80</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি ‘উমার (রাঃ)-কে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মিম্বরে (খুৎবাহ দিতে) শুনেছি। [৪৬১৯] (আধুনিক প্রকাশনী- ৬৮২৫, ইসলামিক ফাউন্ডেশন- র৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি ‘উমার (রাঃ)-কে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মিম্বরে (খুৎবাহ দিতে) শুনেছি। [৪৬১৯] (আধুনিক প্রকাশনী- ৬৮২৫, ইসলামিক ফাউন্ডেশন- র)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7337</td></tr><tr><td>Arabic No</td><td>7337</td></tr><tr><td>Reference</td><td>Book 96 Hadith 66</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Ibn 'Umar:I heard 'Umar (delivering a sermon) on the pulpit of the Prop
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் சொற்பொழிவு மேடை (மிம்பர்) மீதிருந்தபடி உமர் (ரலி) அவர்கள் கூற நான் கேட்டுள்ளேன்.66 இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 96
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களின் சொற்பொழிவு மேடை (மிம்பர்) மீதிருந்தபடி உமர் (ரலி) அவர்கள் கூற நான் கேட்டுள்ளேன்.66 இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7337</td></tr><tr><td>Arabic No</td><td>7337</td></tr><tr><td>Reference</td><td>Book 96 Hadith 66</td></tr></tbody></table></div>
 

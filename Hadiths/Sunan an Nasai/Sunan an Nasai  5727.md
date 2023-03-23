@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+সুওয়ায়দ (রহঃ) ... আবদুল মালিক ইবন তুফায়ল জাযারী (রহঃ) থেকে বর্ণিত। তিনি বলেন, উমর ইবন আবদুল আযীয (রহঃ) আমাদেরকে লিখলেনঃ দ্রাক্ষারসের দুই অংশ জ্বলে গিয়ে এক অংশ অবশিষ্ট না থাকলে তা পান করো না। আর জেনে রাখ, প্রত্যেক মাদকদ্রব্যই হারাম।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5727</td></tr><tr><td>Arabic No</td><td>5727</td></tr><tr><td>Reference</td><td>Book 51 Hadith 189</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ১৪৩৯, আন্তর্জাতিক নাম্বারঃ ৬৭৭ ১৪৩৯-(.../...) 'আমর আন নাকিদ (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ)-এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ (অর্থবোধক) হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৪২৪, ইসলামীক সেন্টার ১৪৩৪)
+আমর আন নাকিদ (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ)-এর মাধ্যমে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ (অর্থবোধক) হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৪২৪, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1553</td></tr><tr><td>Arabic No</td><td>677.09</td></tr><tr><td>Reference</td><td>Book 5 Hadith 386</td></tr></tbody></table></div>
 

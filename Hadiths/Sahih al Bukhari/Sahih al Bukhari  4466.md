@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। ওফাতকালে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর বয়স ছিল তেষট্টি বছর। ইবনু শিহাব যুহরী (রহ.) বলেন, আমাকে সা‘ঈদ ইবনু মুসাইয়্যাব এ রকমই জানিয়েছেন। [৩৫৩৬] (আধুনিক প্রকাশনীঃ ৪১০৮, ইসলামিক ফাউন্ডেশনঃ ৪১১১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। ওফাতকালে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর বয়স ছিল তেষট্টি বছর। ইবনু শিহাব যুহরী (রহ.) বলেন, আমাকে সা‘ঈদ ইবনু মুসাইয়্যাব এ রকমই জানিয়েছেন। [৩৫৩৬] (আধুনিক প্রকাশনীঃ ৪১০৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4466</td></tr><tr><td>Arabic No</td><td>4466</td></tr><tr><td>Reference</td><td>Book 64 Hadith 481</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அறுபத்து மூன்று வயதுடையவர்களாய் இருந்தபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இறந்தார்கள். “இதை சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்களும் எனக்குத் தெரிவித்தார்கள்” என்று இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறியுள்ளார்கள்.493 அத்தியாயம் : 64
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அறுபத்து மூன்று வயதுடையவர்களாய் இருந்தபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் இறந்தார்கள். “இதை சயீத் பின் அல்முசய்யப் (ரஹ்) அவர்களும் எனக்குத் தெரிவித்தார்கள்” என்று இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறியுள்ளார்கள்.493 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4466</td></tr><tr><td>Arabic No</td><td>4466</td></tr><tr><td>Reference</td><td>Book 64 Hadith 481</td></tr></tbody></table></div>
 

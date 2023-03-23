@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবনু কাছীর .... আয়িশা (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম (কখনও) অপবিত্র হওয়ার পর পানি স্পর্শ না করেই ঘুমিয়ে যেতেন। (তিরমিযী, ইবনু মাজাহ, নাসাঈ)।
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ কোনরূপ পানি স্পর্শ না করেই নাপাক অবস্থায় ঘুমাতেন। [1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, ইয়াযীদ ইবনু হারুন বলতেন, এ হাদীসটি (অর্থাৎ আবূ ইসহাক্বের হাদীস) অনুমান নির্ভর।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>228</td></tr><tr><td>Arabic No</td><td>228</td></tr><tr><td>Reference</td><td>Book 1 Hadith 228</td></tr></tbody></table></div>
 

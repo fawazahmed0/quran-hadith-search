@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাসর ইবন আলী (রহঃ) ...... সালমান (রাঃ) থেকে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে ফড়িং সম্পর্কে জিজ্ঞাসা করা হলে তিনি বলেনঃ এরা আল্লাহ্‌র অসংখ্য সেনা। আলী (রহঃ) বলেনঃ আবূল আওয়ামের নাম হলো ফাইদ। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ হাম্মাদ ইবন সালাম (রহঃ) আবূ আওয়াম (রহঃ) থেকে, তিনি আবূ উছমান (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। তিনি সুলায়মান (রাঃ)-এর কথা উল্লেখ করেন নি।
+। সালমান (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে টিড্ডি সম্পর্কে প্রশ্ন করা হলে তিনি বলেনঃ এরা আল্লাহর অসংখ্য সৈনিক।[1] দুর্বলঃ এর পূর্বেরটি দেখুন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3814</td></tr><tr><td>Arabic No</td><td>3814</td></tr><tr><td>Reference</td><td>Book 28 Hadith 79</td></tr></tbody></table></div>
 

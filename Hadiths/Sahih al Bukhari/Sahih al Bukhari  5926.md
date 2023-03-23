@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চিরুনী দিয়ে আঁচড়াতে ও অযু করতে যথাসাধ্য ডান দিক থেকে শুরু করতে পছন্দ করতেন। [১৬৮] (আধুনিক প্রকাশনী- ৫৪৯৪, ইসলামিক ফাউন্ডেশন- ৫৩৮৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চিরুনী দিয়ে আঁচড়াতে ও অযু করতে যথাসাধ্য ডান দিক থেকে শুরু করতে পছন্দ করতেন। [১৬৮] (আধুনিক প্রকাশনী- ৫৪৯৪, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5926</td></tr><tr><td>Arabic No</td><td>5926</td></tr><tr><td>Reference</td><td>Book 77 Hadith 141</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Sy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தலைவாரிக் கொள்ளும்போதும் சரி, அவர்கள் அங்கத் தூய்மை (உளூ) செய்யும்போதும் சரி இயன்ற வரை வலப் பக்கத்திலிருந்து தொடங்குவதே அவர்களுக்கு விருப்ப மானதாக இருந்தது.114 அத்தியாயம் : 77
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தலைவாரிக் கொள்ளும்போதும் சரி, அவர்கள் அங்கத் தூய்மை (உளூ) செய்யும்போதும் சரி இயன்ற வரை வலப் பக்கத்திலிருந்து தொடங்குவதே அவர்களுக்கு விருப்ப மானதாக இருந்தது.114 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5926</td></tr><tr><td>Arabic No</td><td>5926</td></tr><tr><td>Reference</td><td>Book 77 Hadith 141</td></tr></tbody></table></div>
 

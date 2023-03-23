@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) বলেন, একজন জিজ্ঞেস করলেন, হে আল্লাহর রাসূল! রাতের সালাতের পদ্ধতি কী? তিনি বললেনঃ দু’ দু’ রাক‘আত করে। আর ফজর হয়ে যাওয়ার আশঙ্কা করলে এক রাক‘আত মিলিয়ে বিতর করে নিবে। (৪৭২) (আধুনিক প্রকাশনীঃ ১০৬৬, ইসলামিক ফাউন্ডেশনঃ ১০৭১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু ‘উমার (রাযি.) বলেন, একজন জিজ্ঞেস করলেন, হে আল্লাহর রাসূল! রাতের সালাতের পদ্ধতি কী? তিনি বললেনঃ দু’ দু’ রাক‘আত করে। আর ফজর হয়ে যাওয়ার আশঙ্কা করলে এক রাক‘আত মিলিয়ে বিতর করে নিবে। (৪৭২) (আধুনিক প্রকাশনীঃ ১০৬৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1137</td></tr><tr><td>Arabic No</td><td>1137</td></tr><tr><td>Reference</td><td>Book 19 Hadith 18</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், “அல்லாஹ்வின் தூதரே! இரவுத் தொழுகை எவ்வாறு (தொழ வேண்டும்)?” என்று கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், “இரண்டிரண்டு ரக்அத்களாகத் தொழ வேண்டும். ஆனால், சுப்ஹு (நேரம் வந்துவிட்டது) பற்றி நீர் அஞ்சினால், ஒரு ரக்அத் (வித்ர்) தொழுவீராக” என்று கூறினார்கள். அத்தியாயம் : 19
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களிடம், “அல்லாஹ்வின் தூதரே! இரவுத் தொழுகை எவ்வாறு (தொழ வேண்டும்)?” என்று கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், “இரண்டிரண்டு ரக்அத்களாகத் தொழ வேண்டும். ஆனால், சுப்ஹு (நேரம் வந்துவிட்டது) பற்றி நீர் அஞ்சினால், ஒரு ரக்அத் (வித்ர்) தொழுவீராக” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1137</td></tr><tr><td>Arabic No</td><td>1137</td></tr><tr><td>Reference</td><td>Book 19 Hadith 18</td></tr></tbody></table></div>
 

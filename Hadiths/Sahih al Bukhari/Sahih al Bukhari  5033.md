@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা কুরআনের প্রতি লক্ষ্য রাখবে। আল্লাহর কসম! যাঁর হাতে আমার জীবন! কুরআন বাঁধন ছাড়া উটের চেয়েও দ্রুত গতিতে দৌড়ে যায়। [মুসলিম ৬/৩৩, হাঃ ৭৯১, আহমাদ ১৯৫৬৩] (আধুনিক প্রকাশনীঃ ৪৬৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5033</td></tr><tr><td>Arabic No</td><td>5033</td></tr><tr><td>Reference</td><td>Book 66 Hadith 56</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனை (ஓதி அதை)க் கவனித்து வாருங்கள். ஏனெனில், என் உயிர் எவன் கையிலுள்ளதோ அ(ந்த இறை)வன்மீது சத்தியமாக! கயிற்றில் கட்டி வைக்கப்பட்டுள்ள ஒட்டகத்தைவிட மிக வேகமாகக் குர்ஆன் (நினைவிலிருந்து) தப்பக்கூடியதாகும். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 66
+நபி (ஸல்) அவர்கள் கூறினார்கள்: குர்ஆனை (ஓதி அதை)க் கவனித்து வாருங்கள். ஏனெனில், என் உயிர் எவன் கையிலுள்ளதோ அ(ந்த இறை)வன்மீது சத்தியமாக! கயிற்றில் கட்டி வைக்கப்பட்டுள்ள ஒட்டகத்தைவிட மிக வேகமாகக் குர்ஆன் (நினைவிலிருந்து) தப்பக்கூடியதாகும். இதை அபூமூசா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5033</td></tr><tr><td>Arabic No</td><td>5033</td></tr><tr><td>Reference</td><td>Book 66 Hadith 56</td></tr></tbody></table></div>
 

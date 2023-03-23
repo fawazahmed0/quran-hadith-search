@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (কিয়ামতের দিন) শপথ ভঙ্গকারীর জন্য একটি পতাকা তোলা হবে এবং বলা হবে যে, এ হলো অমুকের পুত্র অমুকের বিশ্বাসঘাতকতার নিদর্শন। [৩১৮৮] (আধুনিক প্রকাশনী- ৫৭৩৫, ইসলামিক ফাউন্ডেশন- ৫৬৩১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (কিয়ামতের দিন) শপথ ভঙ্গকারীর জন্য একটি পতাকা তোলা হবে এবং বলা হবে যে, এ হলো অমুকের পুত্র অমুকের বিশ্বাসঘাতকতার নিদর্শন। [৩১৮৮] (আধুনিক প্রকাশনী- ৫৭৩৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6177</td></tr><tr><td>Arabic No</td><td>6177</td></tr><tr><td>Reference</td><td>Book 78 Hadith 201</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: மோசடி செய்பவனுக்கு மறுமை நாளில் (அவனுடைய மோசடியை வெளிச்சமிட்டுக் காட்டும் முகமாக அடையாளக்) கொடி ஒன்று நட்டப்பட்டு, “இது இன்னாருடைய மகன் இன்னாரின் மோசடி(யைக் குறிக்கும் கொடி)” என்று கூறப்படும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 78
+நபி (ஸல்) அவர்கள் கூறினார்கள்: மோசடி செய்பவனுக்கு மறுமை நாளில் (அவனுடைய மோசடியை வெளிச்சமிட்டுக் காட்டும் முகமாக அடையாளக்) கொடி ஒன்று நட்டப்பட்டு, “இது இன்னாருடைய மகன் இன்னாரின் மோசடி(யைக் குறிக்கும் கொடி)” என்று கூறப்படும். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6177</td></tr><tr><td>Arabic No</td><td>6177</td></tr><tr><td>Reference</td><td>Book 78 Hadith 201</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a.'dan rivayete göre; "Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Hiç şüphesiz verdiği sözde durmayan kimse için kıyamet gününde yüksekçe bir bayrak dikilecek ve: Bu filan oğlu filanın sözünde durmaması(nın alametildir, denilecektir." Hadisin geçtiği diğer yerler: 6178, 6966 ve 7111)
+İbn Ömer r.a.'dan rivayete göre; "Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Hiç şüphesiz verdiği sözde durmayan kimse için kıyamet gününde yüksekçe bir bayrak dikilecek ve: Bu filan oğlu filanın sözünde durmaması(nın alametildir, denilecektir." Hadisin geçtiği diğer yerler: 6178, 6966 ve)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6177</td></tr><tr><td>Arabic No</td><td>6177</td></tr><tr><td>Reference</td><td>Book 78 Hadith 201</td></tr></tbody></table></div>
 

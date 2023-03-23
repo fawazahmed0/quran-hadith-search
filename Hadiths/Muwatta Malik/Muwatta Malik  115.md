@@ -62,7 +62,7 @@ Telah menceritakan kepadaku dari Malik dari [Ibnu Syihab] dari [Urwah bin Az Zub
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Urve b. Zübeyr'den: Ümmü Süleym, Resulullah'a: «— Kadınlar da erkekler gibi rüyalarında ihtilam olduklarını görüyorlar, gusletmeleri gerekir mi?» deyince, Resulullah Sallallahu Aleyhi ve Sellem: «— Evet, gusletsin» buyurdu. Bunun üzerine Hz. Aişe, Ümmü Süleym'e: «— Ne diyorsun, kadın hiç onu (menisini) görebilir mi?» dedi. Resulullah Sallallahu Aleyhi ve Sellem de Aişe'ye: «— Allah hayrını versin (o zaman) çocuk anasına nasıl benziyor?» buyurdu. Diğer tahric: Müslim, Hayz Ayrıca bkz. Şeybanî, 81
+Urve b. Zübeyr'den: Ümmü Süleym, Resulullah'a: «— Kadınlar da erkekler gibi rüyalarında ihtilam olduklarını görüyorlar, gusletmeleri gerekir mi?» deyince, Resulullah Sallallahu Aleyhi ve Sellem: «— Evet, gusletsin» buyurdu. Bunun üzerine Hz. Aişe, Ümmü Süleym'e: «— Ne diyorsun, kadın hiç onu (menisini) görebilir mi?» dedi. Resulullah Sallallahu Aleyhi ve Sellem de Aişe'ye: «— Allah hayrını versin (o zaman) çocuk anasına nasıl benziyor?» buyurdu. Diğer tahric: Müslim, Hayz Ayrıca bkz. Şeybanî
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>115</td></tr><tr><td>Arabic No</td><td>115</td></tr><tr><td>Reference</td><td>Book 2 Hadith 84</td></tr></tbody></table></div>
 

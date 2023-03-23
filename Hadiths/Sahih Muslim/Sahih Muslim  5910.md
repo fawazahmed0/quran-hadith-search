@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৮০৩, আন্তর্জাতিক নাম্বারঃ ২২৬৪ ৫৮০৩-(.../...) উবাইদুল্লাহ ইবনু মুআয (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উপরে বর্ণিত হাদীসের হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৭১৩, ইসলামিক সেন্টার ৫৭৪৫)
+উবাইদুল্লাহ ইবনু মুআয (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে উপরে বর্ণিত হাদীসের হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৭১৩, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5910</td></tr><tr><td>Arabic No</td><td>2264.02</td></tr><tr><td>Reference</td><td>Book 42 Hadith 14</td></tr></tbody></table></div>
 

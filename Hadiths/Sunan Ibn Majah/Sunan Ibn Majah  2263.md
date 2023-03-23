@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২২৬৩। আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুসলিমদের মধ্যে প্রচলিত বৈধ মুদ্রা অপরিহার্য প্রয়োজন ব্যতীত ভাঙ্গতে নিষেধ করেছেন।
+। আবদুল্লাহ ইবনে মাসউদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুসলিমদের মধ্যে প্রচলিত বৈধ মুদ্রা অপরিহার্য প্রয়োজন ব্যতীত ভাঙ্গতে নিষেধ করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2263</td></tr><tr><td>Arabic No</td><td>2263</td></tr><tr><td>Reference</td><td>Book 12 Hadith 127</td></tr></tbody></table></div>
 
@@ -36,7 +36,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from 'Alqamah bin 'Abdullah that his father said:"The Messenger of Allah (ﷺ) forbade breaking the coins of the Muslims that are in circulation among them, without any necessary reason.”(1)
+It was narrated from 'Alqamah bin 'Abdullah that his father said:"The Messenger of Allah (ﷺ) forbade breaking the coins of the Muslims that are in circulation among them, without any necessary reason.”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2263</td></tr><tr><td>Arabic No</td><td>2263</td></tr><tr><td>Reference</td><td>Book 12 Hadith 127</td></tr></tbody></table></div>
 

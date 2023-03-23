@@ -41,13 +41,13 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যেখানে কিরাআত পাঠের জন্য আদেশ পেয়েছেন, সেখানে পড়েছেন। আর যেখানে চুপ থাকতে আদেশ পেয়েছেন সেখানে চুপ থেকেছেন। (আল্লাহ্ তা‘আলার বাণীঃ) ‘‘তোমার প্রতিপালক ভুল করেন না’’- (সূরাহ্ মারইয়াম ১৯/৬৪)। ‘‘নিশ্চয় তোমাদের জন্য আল্লাহর রাসূল-এর মধ্যে রয়েছে উত্তম আদর্শ।’’ (সূরাহ্ আল-আহযাব ৩৩/২১) (আধুনিক প্রকাশনীঃ ৭৩০, ইসলামিক ফাউন্ডেশনঃ ৭৩৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যেখানে কিরাআত পাঠের জন্য আদেশ পেয়েছেন, সেখানে পড়েছেন। আর যেখানে চুপ থাকতে আদেশ পেয়েছেন সেখানে চুপ থেকেছেন। (আল্লাহ্ তা‘আলার বাণীঃ) ‘‘তোমার প্রতিপালক ভুল করেন না’’- (সূরাহ্ মারইয়াম ১৯/৬৪)। ‘‘নিশ্চয় তোমাদের জন্য আল্লাহর রাসূল-এর মধ্যে রয়েছে উত্তম আদর্শ।’’ (সূরাহ্ আল-আহযাব ৩৩/২১) (আধুনিক প্রকাশনীঃ ৭৩০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
@@ -70,7 +70,7 @@ Anas said:One of the Ansar used to lead the Ansar in Salat in the Quba' mosque a
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas] berkata, "Nabi shallallahu 'alaihi wasallam membaca (dengan suara dikeraskan) sesuai apa yang diperintahkan dan juga diam (tidak mengeraskan) sesuai apa yang diperintahkan '(Dan tidaklah Rabbmu lupa) ' (Qs. Maryam: 64). '(Sesungguhnya telah ada pada diri Rasulullah itu suri teladan yang baik bagimu) ' (Qs. Al Ahzab: 21)
+Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas] berkata, "Nabi shallallahu 'alaihi wasallam membaca (dengan suara dikeraskan) sesuai apa yang diperintahkan dan juga diam (tidak mengeraskan) sesuai apa yang diperintahkan '(Dan tidaklah Rabbmu lupa) ' (Qs. Maryam: 64). '(Sesungguhnya telah ada pada diri Rasulullah itu suri teladan yang baik bagimu) ' (Qs. Al Ahzab:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
 
@@ -84,7 +84,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், தமக்கு (அல்லாஹ்வால்) பிறப்பிக்கப்பட்ட உத்தரவுக்கேற்பவே (சில தொழுகைகளில்) சப்தமிட்டு ஓதினார்கள்; தமக்குப் பிறப்பிக் கப்பட்ட உத்தரவுக்கேற்பவே (சில தொழுகைகளில்) மெதுவாக ஓதினார்கள். (ஏனெனில்,) “உம் இறைவன் மறப்பவன் அல்லன்” (19:64) என்று அல்லாஹ் கூறு கின்றான். “அல்லாஹ்வின் தூதரிடம் உங்களுக்கு அழகிய முன்மாதிரி உண்டு” (33:21) என்றும் அல்லாஹ் கூறுகின்றான்.52 அத்தியாயம் : 10
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், தமக்கு (அல்லாஹ்வால்) பிறப்பிக்கப்பட்ட உத்தரவுக்கேற்பவே (சில தொழுகைகளில்) சப்தமிட்டு ஓதினார்கள்; தமக்குப் பிறப்பிக் கப்பட்ட உத்தரவுக்கேற்பவே (சில தொழுகைகளில்) மெதுவாக ஓதினார்கள். (ஏனெனில்,) “உம் இறைவன் மறப்பவன் அல்லன்” (19:64) என்று அல்லாஹ் கூறு கின்றான். “அல்லாஹ்வின் தூதரிடம் உங்களுக்கு அழகிய முன்மாதிரி உண்டு” (33:21) என்றும் அல்லாஹ் கூறுகின்றான்.52 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
 
@@ -98,7 +98,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (radiyallahu anh) şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem kendisine hangi namazlarda (açıktan) okuması emredilmişse o namazlarda (açıktan) okumuş, içinden okuması emredilen namazlarda da İçinden okumuştur. 'Senin Rabbin asla unutkan değildir [Meryem, 64] 'Andolsun ki, Resûlullahta sizin için, Allah'a ve âhiret gününe kavuşmayı umanlar ve Allah'ı çokça zikredenler için güzel bir örnek vardır.[Ahzâb, 21]
+İbn Abbas (radiyallahu anh) şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem kendisine hangi namazlarda (açıktan) okuması emredilmişse o namazlarda (açıktan) okumuş, içinden okuması emredilen namazlarda da İçinden okumuştur. 'Senin Rabbin asla unutkan değildir [Meryem, 64] 'Andolsun ki, Resûlullahta sizin için, Allah'a ve âhiret gününe kavuşmayı umanlar ve Allah'ı çokça zikredenler için güzel bir örnek vardır.[Ahzâb]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
 

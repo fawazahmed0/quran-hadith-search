@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবরাহীম (রহঃ) .... সাফওয়ান ইবন ইয়া'লা (রহঃ) তাঁর পিতা হতে বর্ণনা করেন। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বলেনঃ যখন আমার দূত তোমার কাছে আসবে, তখন তুমি তাকে ত্রিশটি বর্ম এবং ত্রিশটি উট প্রদান করবে। তখন আমি তাঁকে জিজ্ঞাসা করিঃ ইয়া রাসূলাল্লাহ! আপনি কি এরূপ ধার চাচ্ছেন, যার ক্ষতিপূরণ দেবেন, অথবা এরূপ আর, যা মালিককে পরে ফেরত দেবেন? তিনি বলেনঃ এ ধরনের ধার, যা মালিককে আবার ফেরত দেওয়া হয়।
+। সাফওয়ান ইবনু ইয়া‘লা (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ যখন আমার বার্তাবাহকরা তোমার নিকট আসবে, তাদেরকে তিরিশটি লৌহবর্ম ও তিরিশটি উট প্রদান করবে। বর্ণনাকারী বলেন, আমি বলি, হে আল্লাহর রাসূল! এটা কি ক্ষতিপূরণ শর্তে ধার দেয়া নাকি ফেরত দেয়ার শর্তে ধার? তিনি বলেনঃ বরং ফেরত দেয়ার শর্তে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3566</td></tr><tr><td>Arabic No</td><td>3566</td></tr><tr><td>Reference</td><td>Book 24 Hadith 151</td></tr></tbody></table></div>
 

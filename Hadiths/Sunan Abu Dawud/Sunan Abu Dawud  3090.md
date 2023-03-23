@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। মুহাম্মাদ ইবনু খালিদ (রহঃ) থেকে তার পিতা ও দাদার সূত্রে বর্ণিত। তিনি (দাদা) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহচর্য লাভ করেছেন। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ কোনো ব্যক্তির জন্য বিনাশ্রমে আল্লাহর পক্ষ থেকে মর্যাদার আসন নির্ধারিত হলে আল্লাহ তার দেহ, সম্পদ অথবা সন্তানকে বিপদগ্রস্ত করেন। অতঃপর সে তাতে ধৈর্য ধারণ করলে শেষ পর্যন্ত বরকতময় মহান আল্লাহ কর্তৃক নির্ধারিত উক্ত মর্যাদার স্তরে উপনীত হয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3090</td></tr><tr><td>Arabic No</td><td>3090</td></tr><tr><td>Reference</td><td>Book 21 Hadith 2</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ ক্বাতাদাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ ভাল স্বপ্ন আল্লাহর পক্ষ থেকে হয় আর খারাপ স্বপ্ন শয়তানের পক্ষ থেকে হয়ে থাকে। [৩২৯২] (আধুনিক প্রকাশনী- ৬৫০০, ইসলামিক ফাউন্ডেশন- ৬৫১৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ ক্বাতাদাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ ভাল স্বপ্ন আল্লাহর পক্ষ থেকে হয় আর খারাপ স্বপ্ন শয়তানের পক্ষ থেকে হয়ে থাকে। [৩২৯২] (আধুনিক প্রকাশনী- ৬৫০০, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6984</td></tr><tr><td>Arabic No</td><td>6984</td></tr><tr><td>Reference</td><td>Book 91 Hadith 3</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: நல்ல (உண்மையான) கனவு அல்லாஹ்விடமிருந்து வருவதாகும். கெட்ட (பொய்யான) கனவு ஷைத்தானிட மிருந்து வருவதாகும். இதை அபூகத்தாதா அல்அன்சாரி (ரலி) அவர்கள் அறிவிக்கிறார்கள்.4 அத்தியாயம் : 91
+நபி (ஸல்) அவர்கள் கூறினார்கள்: நல்ல (உண்மையான) கனவு அல்லாஹ்விடமிருந்து வருவதாகும். கெட்ட (பொய்யான) கனவு ஷைத்தானிட மிருந்து வருவதாகும். இதை அபூகத்தாதா அல்அன்சாரி (ரலி) அவர்கள் அறிவிக்கிறார்கள்.4 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6984</td></tr><tr><td>Arabic No</td><td>6984</td></tr><tr><td>Reference</td><td>Book 91 Hadith 3</td></tr></tbody></table></div>
 

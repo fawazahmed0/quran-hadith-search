@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ইন্তিকাল হল। সে সময় আমরা দু’টি কালো জিনিস খেজুর ও পানি খেয়ে তৃপ্ত হলাম। [৫৪৪২] (আধুনিক প্রকাশনী- ৪৯৮২, ইসলামিক ফাউন্ডেশন- ৪৮৭৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ইন্তিকাল হল। সে সময় আমরা দু’টি কালো জিনিস খেজুর ও পানি খেয়ে তৃপ্ত হলাম। [৫৪৪২] (আধুনিক প্রকাশনী- ৪৯৮২, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5383</td></tr><tr><td>Arabic No</td><td>5383</td></tr><tr><td>Reference</td><td>Book 70 Hadith 11</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim] Telah menceritakan kepada kami [Wuhaib] 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: இரு கறுப்பு நிறப் பொருள்களான பேரீச்சம்பழம் மற்றும் தண்ணீரை அருந்தி நாங்கள் வயிறு நிரம்பி இருந்தபோது நபி (ஸல்) அவர்கள் இறந்தார்கள்.13 அத்தியாயம் : 70
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: இரு கறுப்பு நிறப் பொருள்களான பேரீச்சம்பழம் மற்றும் தண்ணீரை அருந்தி நாங்கள் வயிறு நிரம்பி இருந்தபோது நபி (ஸல்) அவர்கள் இறந்தார்கள்.13 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5383</td></tr><tr><td>Arabic No</td><td>5383</td></tr><tr><td>Reference</td><td>Book 70 Hadith 11</td></tr></tbody></table></div>
 

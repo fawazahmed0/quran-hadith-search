@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ সা‘ঈদ (রাঃ) হতে বর্ণিত। তিনি বলেন, এক বেদুঈন নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট এসে হিজরাত সম্পর্কে জানতে চাইল। তিনি তাকে বললেন, থাম! হিজরাতের ব্যাপার বড় কঠিন। বরং তোমার কি উট আছে? সে বলল, হ্যাঁ আছে। তিনি বললেন, তুমি কি এর সদাকাহ আদায় করে থাক? সে বলল, হ্যাঁ। তিনি জিজ্ঞেস করলেন, তুমি দুধ পানের জন্য এগুলো মানীহা হিসাবে দিয়ে থাক? সে বলল, হ্যাঁ। আবার তিনি প্রশ্ন করলেন, আচ্ছা! পানি পান করানোর উটগুলো দোহন কর কি? সে বলল, হ্যাঁ। তখন তিনি ইরশাদ করলেন, এ যদি হয় তাহলে সাগরের ওপারে হলেও অর্থাৎ তুমি যেখানে থাক ‘আমল করতে থাক। আল্লাহ তোমার ‘আমলের প্রতিদানে কম করবেন না। (৪৫২) (আধুনিক প্রকাশনীঃ ২৪৪১, ইসলামিক ফাউন্ডেশনঃ ২৪৫৭ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2633</td></tr><tr><td>Arabic No</td><td>2633</td></tr><tr><td>Reference</td><td>Book 51 Hadith 65</td></tr></tbody></table></div>
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Sa'id:A bedouin came to the Prophet (ﷺ) and asked him about emigration. The Prophet (ﷺ) said to him, "May Allah be merciful to you. The matter of emigration is difficult. Have you got some camels?" He replied in the affirmative. The Prophet (ﷺ) asked him, "Do you pay their Zakat?" He replied in the affirmative. He asked, "Do you lend them so that their milk may be utilized by others?" The bedouin said, "Yes." The Prophet (ﷺ) asked, "Do you milk them on the day off watering them?" He replied, "Yes." The Prophet (ﷺ) said, "Do good deeds beyond the merchants (or the sea) and Allah will never disregard any of your deeds." (See Hadith No. 260, Vol. 5)
+Narrated Abu Sa'id:A bedouin came to the Prophet (ﷺ) and asked him about emigration. The Prophet (ﷺ) said to him, "May Allah be merciful to you. The matter of emigration is difficult. Have you got some camels?" He replied in the affirmative. The Prophet (ﷺ) asked him, "Do you pay their Zakat?" He replied in the affirmative. He asked, "Do you lend them so that their milk may be utilized by others?" The bedouin said, "Yes." The Prophet (ﷺ) asked, "Do you milk them on the day off watering them?" He replied, "Yes." The Prophet (ﷺ) said, "Do good deeds beyond the merchants (or the sea) and Allah will never disregard any of your deeds." (See Hadith No. 260, Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2633</td></tr><tr><td>Arabic No</td><td>2633</td></tr><tr><td>Reference</td><td>Book 51 Hadith 65</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களி டம் கிராமவாசி ஒருவர் வந்து புலம் பெயர்தல் (ஹிஜ்ரத்) பற்றிக் கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், ‘யிஉனக்குக் கேடுதான்! ஹிஜ்ரத் செய்வது ஒரு கடினமான காரியம். உன்னிடம் ஒட்டகம் இருக்கின்றதா?” என்று கேட்டார்கள். அதற்கு அவர், ‘‘ஆம்” என்று கூறினார். ‘‘அதற்கு நீ ஸகாத் கொடுக்கிறாயா?” என்று நபி (ஸல்) அவர்கள் கேட்டார்கள். அவர், ‘‘ஆம், (கொடுக்கிறேன்)” என்று பதிலளித்தார். ‘‘(அதன் பாலைப் பிறர் உபயோகித்துக்கொள்ள) அதை இரவலாக (மனீஹாவாக) கொடுக்கிறாயா?” என்று நபி (ஸல்) அவர்கள் கேட்டார்கள். அவர், ‘‘ஆம் (கொடுக்கிறேன்)” என்று பதிலளித்தார். நபி (ஸல்) அவர்கள், ‘‘அது நீர் அருந்தும் முறைவரும் நாளில் அதனிடம் பால் கற(ந்து ஏழைகளுக்குக் கொடு)க்கின்றாயா?” என்று கேட்க அவர், ‘யிஆம்” என்று பதிலளித்தார். ‘‘அப்படி யாயின், ஊர்களுக்கு அப்பால் சென்று (கூட) நீ நற்செயல் புரியலாம். ஏனெனில், அல்லாஹ் உன் நற்செயல்(களின் பிரதிபலன்)களிலிருந்து எதையும் குறைக்க மாட்டான்” என்று கூறினார்கள்.32 அத்தியாயம் : 51
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களி டம் கிராமவாசி ஒருவர் வந்து புலம் பெயர்தல் (ஹிஜ்ரத்) பற்றிக் கேட்டார். அதற்கு நபி (ஸல்) அவர்கள், ‘யிஉனக்குக் கேடுதான்! ஹிஜ்ரத் செய்வது ஒரு கடினமான காரியம். உன்னிடம் ஒட்டகம் இருக்கின்றதா?” என்று கேட்டார்கள். அதற்கு அவர், ‘‘ஆம்” என்று கூறினார். ‘‘அதற்கு நீ ஸகாத் கொடுக்கிறாயா?” என்று நபி (ஸல்) அவர்கள் கேட்டார்கள். அவர், ‘‘ஆம், (கொடுக்கிறேன்)” என்று பதிலளித்தார். ‘‘(அதன் பாலைப் பிறர் உபயோகித்துக்கொள்ள) அதை இரவலாக (மனீஹாவாக) கொடுக்கிறாயா?” என்று நபி (ஸல்) அவர்கள் கேட்டார்கள். அவர், ‘‘ஆம் (கொடுக்கிறேன்)” என்று பதிலளித்தார். நபி (ஸல்) அவர்கள், ‘‘அது நீர் அருந்தும் முறைவரும் நாளில் அதனிடம் பால் கற(ந்து ஏழைகளுக்குக் கொடு)க்கின்றாயா?” என்று கேட்க அவர், ‘யிஆம்” என்று பதிலளித்தார். ‘‘அப்படி யாயின், ஊர்களுக்கு அப்பால் சென்று (கூட) நீ நற்செயல் புரியலாம். ஏனெனில், அல்லாஹ் உன் நற்செயல்(களின் பிரதிபலன்)களிலிருந்து எதையும் குறைக்க மாட்டான்” என்று கூறினார்கள்.32 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2633</td></tr><tr><td>Arabic No</td><td>2633</td></tr><tr><td>Reference</td><td>Book 51 Hadith 65</td></tr></tbody></table></div>
 

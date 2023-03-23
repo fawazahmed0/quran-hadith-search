@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-رَوَاهُ أَبُو هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ এ সম্পর্কে আবূ হুরাইরাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। ৬৯১৬. আবূ সা‘ঈদ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ তোমরা নবীদের একজনকে অন্য জনের উপর শ্রেষ্ঠত্ব দিও না। [২৪১২] (আধুনিক প্রকাশনী- ৬৪৩৬, ইসলামিক ফাউন্ডেশন- ৬৪৪৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+رَوَاهُ أَبُو هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ এ সম্পর্কে আবূ হুরাইরাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। ৬৯১৬. আবূ সা‘ঈদ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ তোমরা নবীদের একজনকে অন্য জনের উপর শ্রেষ্ঠত্ব দিও না। [২৪১২] (আধুনিক প্রকাশনী- ৬৪৩৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6916</td></tr><tr><td>Arabic No</td><td>6916</td></tr><tr><td>Reference</td><td>Book 87 Hadith 54</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறி னார்கள்: இறைத்தூதர்களில் சிலர் சிலரைவிட உயர்ந்தவர்கள் என்று சொல்லாதீர்கள். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.61 அத்தியாயம் : 87
+நபி (ஸல்) அவர்கள் கூறி னார்கள்: இறைத்தூதர்களில் சிலர் சிலரைவிட உயர்ந்தவர்கள் என்று சொல்லாதீர்கள். இதை அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.61 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6916</td></tr><tr><td>Arabic No</td><td>6916</td></tr><tr><td>Reference</td><td>Book 87 Hadith 54</td></tr></tbody></table></div>
 

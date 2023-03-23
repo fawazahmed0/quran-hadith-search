@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা’দ্দাদ ..... আবূ ওয়ায়েল থেকে বর্ণিত। তিনি বলেন, আবূ হুরায়রা (রাঃ) বলেছেন, আমি নামাযে নাভির নীচে (বাম) হাতের উপর (ডান) হাত রাখি। আবূ দাউদ (রহঃ) বলেন, আমি ইমাম আহমদ ইবনু হাম্বল (রহঃ) ইসহাক আল-কূফীকে দুর্বল রাবী হিসাবে অভিহিত করতে শুনেছি।
+। আবূ ওয়ায়িল সূত্রে বর্ণিত। তিনি বলেন, আবূ হুরাইরাহ্ (রাঃ) বলেছেনঃ আমি সালাতের সময় (বাম) হাতের উপর (ডান) হাতকে নাভীর নীচে রাখি।[1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, আমি শুনেছি, ইমাম আহমাদ ইবনু হাম্বল (রহঃ) সানাদের ‘আবদুর রহমান ইবনু ইসহাক আল-কূফীকে দুর্বল বর্ণনাকারী হিসেবে আখ্যায়িত করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>758</td></tr><tr><td>Arabic No</td><td>758</td></tr><tr><td>Reference</td><td>Book 2 Hadith 368</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) dedi ki: "Namazda elleri eller üzerine koyma(nın yeri) göbek altıdır. Ebu Davud dedi ki: Ben Ahmed b. Hanbel'i (bu) Abdurrahman b. İshak el-Kufî (hadisi)nin zayıf olduğunu söylerken işittim. Diğer tahric: Ahmed b. Hanbel, 1,110
+Ebu Hureyre (r.a.) dedi ki: "Namazda elleri eller üzerine koyma(nın yeri) göbek altıdır. Ebu Davud dedi ki: Ben Ahmed b. Hanbel'i (bu) Abdurrahman b. İshak el-Kufî (hadisi)nin zayıf olduğunu söylerken işittim. Diğer tahric: Ahmed b. Hanbel
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>758</td></tr><tr><td>Arabic No</td><td>758</td></tr><tr><td>Reference</td><td>Book 2 Hadith 368</td></tr></tbody></table></div>
 

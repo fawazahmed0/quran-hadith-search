@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আমর ইবনু হারিস (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর যুদ্ধাস্ত্র, সাদা খচ্চর ও কিছু যমীন ছাড়া কিছুই রেখে যাননি এবং তাও তিনি সদাকাহ হিসেবে রেখে গেছেন।’ (২৭৩৯) (আধুনিক প্রকাশনীঃ ২৮৬৫, ইসলামিক ফাউন্ডেশনঃ ২৮৭৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আমর ইবনু হারিস (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর যুদ্ধাস্ত্র, সাদা খচ্চর ও কিছু যমীন ছাড়া কিছুই রেখে যাননি এবং তাও তিনি সদাকাহ হিসেবে রেখে গেছেন।’ (২৭৩৯) (আধুনিক প্রকাশনীঃ ২৮৬৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3098</td></tr><tr><td>Arabic No</td><td>3098</td></tr><tr><td>Reference</td><td>Book 57 Hadith 7</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அம்ர் பின் அல்ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம் ஆயுதத்தை யும் வெள்ளைக் கோவேறுக் கழுதை யையும் தவிர வேறெதையும் (தாம் இறந்தபோது) விட்டுச்செல்லவில்லை. மேலும், அவர்கள் ஒரேயொரு நிலத்தை (மட்டும்) தர்மமாக விட்டுச்சென்றார்கள்.13 அத்தியாயம் : 57
+அம்ர் பின் அல்ஹாரிஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தம் ஆயுதத்தை யும் வெள்ளைக் கோவேறுக் கழுதை யையும் தவிர வேறெதையும் (தாம் இறந்தபோது) விட்டுச்செல்லவில்லை. மேலும், அவர்கள் ஒரேயொரு நிலத்தை (மட்டும்) தர்மமாக விட்டுச்சென்றார்கள்.13 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3098</td></tr><tr><td>Arabic No</td><td>3098</td></tr><tr><td>Reference</td><td>Book 57 Hadith 7</td></tr></tbody></table></div>
 

@@ -29,7 +29,7 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেনঃ আমি হায়িয অবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মাথা আঁচড়ে দিয়েছি। [২৯৫] (আধুনিক প্রকাশনী- ৫৪৯৩, ইসলামিক ফাউন্ডেশন- ৫৩৮৮) হিশাম তার পিতার সূত্রে ‘আয়িশাহ (রাঃ) থেকে অনুরূপ বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5925</td></tr><tr><td>Arabic No</td><td>5925</td></tr><tr><td>Reference</td><td>Book 77 Hadith 140</td></tr></tbody></table></div>
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: எனக்கு மாதவிடாய் ஏற்பட்டிருந்தபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் தலையை நான் வாரிவிட்டிருக்கிறேன். ... இதே ஹதீஸ் ஆயிஷா (ரலி) அவர்களிடமிருந்து மற்றோர் அறிவிப் பாளர்தொடர் வழியாகவும் வந்துள்ளது.113 அத்தியாயம் : 77
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: எனக்கு மாதவிடாய் ஏற்பட்டிருந்தபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் தலையை நான் வாரிவிட்டிருக்கிறேன். ... இதே ஹதீஸ் ஆயிஷா (ரலி) அவர்களிடமிருந்து மற்றோர் அறிவிப் பாளர்தொடர் வழியாகவும் வந்துள்ளது.113 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5925</td></tr><tr><td>Arabic No</td><td>5925</td></tr><tr><td>Reference</td><td>Book 77 Hadith 140</td></tr></tbody></table></div>
 

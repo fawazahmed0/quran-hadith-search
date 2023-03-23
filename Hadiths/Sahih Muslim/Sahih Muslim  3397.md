@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩২৮৮, আন্তর্জাতিক নাম্বারঃ ১৩৯৯ ৩২৮৮-(৫২২/...) আবদুল্লাহ ইবনু হাশিম (রহঃ) ..... ইবনু দীনার (রহঃ) থেকে এ সানাদে অনুরূপ বর্ণিত হয়েছে, কিন্তু এ সূত্রে “প্রতি শনিবার" কথাটুকু উল্লেখ নেই। (ইসলামিক ফাউন্ডেশন ৩২৬৩, ইসলামীক সেন্টার ৩২৬০)
+আবদুল্লাহ ইবনু হাশিম (রহঃ) ..... ইবনু দীনার (রহঃ) থেকে এ সানাদে অনুরূপ বর্ণিত হয়েছে, কিন্তু এ সূত্রে “প্রতি শনিবার" কথাটুকু উল্লেখ নেই। (ইসলামিক ফাউন্ডেশন ৩২৬৩, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3397</td></tr><tr><td>Arabic No</td><td>1399.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 601</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইব্‌রাহীম ইবন মূসা (রহঃ) .... খিয়ার ইবন সালামা (রাঃ) হতে বর্ণিত। একদা তিনি আইশা (রাঃ)-কে পেয়াজ সম্পর্কে জিজ্ঞাসা করেন। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সর্বশেষ যে খাদ্য গ্রহণ করেন, তাতে পেয়াজ মিশ্রিত ছিল, (অর্থাৎ রান্না করা পেয়াজ)।
+। আবূ যিয়াদ খিয়ার ইবনু সালামাহ (রহঃ) সূত্রে বর্ণিত। তিনি আয়িশাহ (রাঃ)-কে পিয়াজ খাওয়া সম্পর্কে প্রশ্ন করলেন। তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সর্বশেষ যে খাবার খেয়েছিলেন, তাতে পিয়াজ ছিলো।[1] দুর্বলঃ ইরওয়া (২৫১৩)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3829</td></tr><tr><td>Arabic No</td><td>3829</td></tr><tr><td>Reference</td><td>Book 28 Hadith 94</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ মূসা আশ‘আরী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা ক্ষুধার্তকে অন্ন দাও, রোগীর সেবা কর এবং কষ্টে পতিতকে উদ্ধার কর।[1][৩০৪৬] (আধুনিক প্রকাশনী- ৫২৩৭, ইসলামিক ফাউন্ডেশন- ৫১৩৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ মূসা আশ‘আরী (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা ক্ষুধার্তকে অন্ন দাও, রোগীর সেবা কর এবং কষ্টে পতিতকে উদ্ধার কর।[1][৩০৪৬] (আধুনিক প্রকাশনী- ৫২৩৭, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5649</td></tr><tr><td>Arabic No</td><td>5649</td></tr><tr><td>Reference</td><td>Book 75 Hadith 9</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பசித்தவருக்கு உணவளியுங்கள்; நோயாளியை(ச் சந்தித்து) உடல் நலம் விசாரியுங்கள்; (போர்க்) கைதியை (எதிரியிடமிருந்து) விடுவியுங்கள். இதை அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.7 அத்தியாயம் : 75
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பசித்தவருக்கு உணவளியுங்கள்; நோயாளியை(ச் சந்தித்து) உடல் நலம் விசாரியுங்கள்; (போர்க்) கைதியை (எதிரியிடமிருந்து) விடுவியுங்கள். இதை அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள்.7 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5649</td></tr><tr><td>Arabic No</td><td>5649</td></tr><tr><td>Reference</td><td>Book 75 Hadith 9</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮০৯। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি পরামর্শ ছাড়া কাউকে নেতার পদ দিলে ইবনু উম্মি আবদকেই নেতার পদ দিতাম। যঈফ, দেখুন পূর্বের হাদীস
+। আলী (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমি পরামর্শ ছাড়া কাউকে নেতার পদ দিলে ইবনু উম্মি আবদকেই নেতার পদ দিতাম। যঈফ, দেখুন পূর্বের হাদীস
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3809</td></tr><tr><td>Arabic No</td><td>3809</td></tr><tr><td>Reference</td><td>Book 49 Hadith 209</td></tr></tbody></table></div>
 

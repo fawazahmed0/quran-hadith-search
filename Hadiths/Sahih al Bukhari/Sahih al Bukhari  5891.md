@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি- ফিতরাত পাঁচটিঃ খাতনা করা, (নাভির নীচে) ক্ষুর ব্যবহার করা, গোঁফ ছোট করা, নখ কাটা ও বগলের পশম উপড়ে ফেলা। [৫৮৮৯] (আধুনিক প্রকাশনী- ৫৪৬৩, ইসলামিক ফাউন্ডেশন- ৫৩৫৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি- ফিতরাত পাঁচটিঃ খাত্না করা, (নাভির নীচে) ক্ষুর ব্যবহার করা, গোঁফ ছোট করা, নখ কাটা ও বগলের পমশ উপড়ে ফেলা। [৫৮৮৯] (আধুনিক প্রকাশনী- ৫৪৬৩, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5891</td></tr><tr><td>Arabic No</td><td>5891</td></tr><tr><td>Reference</td><td>Book 77 Hadith 108</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: இயற்கை மரபுகள் ஐந்தாகும். விருத்த சேதனம் செய்துகொள்வது, மர்ம உறுப்பின் முடிகளைக் களைந்துகொள்வதற்காகச் சவரக்கத்தியை உபயோகிப்பது, மீசையைக் கத்தரிப்பது, நகங்களை வெட்டுவது, அக்குள் முடிகளை அகற்றுவது ஆகி யவைதான் அவை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் : 77
+நபி (ஸல்) அவர்கள் கூறினார்கள்: இயற்கை மரபுகள் ஐந்தாகும். விருத்த சேதனம் செய்துகொள்வது, மர்ம உறுப்பின் முடிகளைக் களைந்துகொள்வதற்காகச் சவரக்கத்தியை உபயோகிப்பது, மீசையைக் கத்தரிப்பது, நகங்களை வெட்டுவது, அக்குள் முடிகளை அகற்றுவது ஆகி யவைதான் அவை. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5891</td></tr><tr><td>Arabic No</td><td>5891</td></tr><tr><td>Reference</td><td>Book 77 Hadith 108</td></tr></tbody></table></div>
 

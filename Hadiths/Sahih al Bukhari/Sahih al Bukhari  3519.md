@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু মাস‘উদ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ঐ ব্যক্তি আমাদের দলভুক্ত নয় যে গালে চপেটাঘাত করে, পরনের কাপড় ছিন্নভিন্ন করে এবং জাহিলীয়াতের যুগের মত হাঁকডাক করে। (১২৯৪) (আধুনিক প্রকাশনীঃ ৩২৫৭, ইসলামিক ফাউন্ডেশনঃ ৩২৬৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ ইবনু মাস‘উদ (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, ঐ ব্যক্তি আমাদের দলভুক্ত নয় যে গালে চপেটাঘাত করে, পরনের কাপড় ছিন্নভিন্ন করে এবং জাহিলীয়াতের যুগের মত হাঁকডাক করে। (১২৯৪) (আধুনিক প্রকাশনীঃ ৩২৫৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3519</td></tr><tr><td>Arabic No</td><td>3519</td></tr><tr><td>Reference</td><td>Book 61 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku [Tsabit bin Muhammad] telah bercerita kepada kami [Sufy
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: (துக்கத்தில்) கன்னங்களில் அறைந்துகொள்பவனும் சட்டைப் பைகளைக் கிழித்துக்கொள்பவனும் அறியாமைக் கால அழைப்பு விடுப்பவனும் நம்மைச் சேர்ந்தவர்கள் அல்லர். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.35 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் : 61
+நபி (ஸல்) அவர்கள் கூறினார்கள்: (துக்கத்தில்) கன்னங்களில் அறைந்துகொள்பவனும் சட்டைப் பைகளைக் கிழித்துக்கொள்பவனும் அறியாமைக் கால அழைப்பு விடுப்பவனும் நம்மைச் சேர்ந்தவர்கள் அல்லர். இதை அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.35 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3519</td></tr><tr><td>Arabic No</td><td>3519</td></tr><tr><td>Reference</td><td>Book 61 Hadith 29</td></tr></tbody></table></div>
 

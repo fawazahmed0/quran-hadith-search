@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৪৩০। আবদুল্লাহ ইবনু আমর ইবনুল আস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, কোন এক গ্রাম্য লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট এসে প্রশ্ন করল, শিঙ্গা কি? তিনি বললেনঃ এটা একটা শিং যাতে ফুৎকার দেয়া হবে। সহীহ, সহীহাহ (১০৮০)। আবূ ঈসা বলেন, এ হাদীসটি হাসান। একাধিক বর্ণনাকারী সুলাইমান আত-তাইনীর সূত্রে এ হাদীসটি বর্ণনা করেছেন। আমরা এ হাদীসটি শুধুমাত্র তার রিওয়ায়াত হিসাবেই জেনেছি।
+। আবদুল্লাহ ইবনু আমর ইবনুল আস (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, কোন এক গ্রাম্য লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট এসে প্রশ্ন করল, শিঙ্গা কি? তিনি বললেনঃ এটা একটা শিং যাতে ফুৎকার দেয়া হবে। সহীহ, সহীহাহ (১০৮০)। আবূ ঈসা বলেন, এ হাদীসটি হাসান। একাধিক বর্ণনাকারী সুলাইমান আত-তাইনীর সূত্রে এ হাদীসটি বর্ণনা করেছেন। আমরা এ হাদীসটি শুধুমাত্র তার রিওয়ায়াত হিসাবেই জেনেছি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2430</td></tr><tr><td>Arabic No</td><td>2430</td></tr><tr><td>Reference</td><td>Book 37 Hadith 16</td></tr></tbody></table></div>
 

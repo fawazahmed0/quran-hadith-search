@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক বৃদ্ধ ব্যক্তিকে তার দুই ছেলের উপর ভর করে হেঁটে যেতে দেখে বললেনঃ তার কী হয়েছে? তারা বললেন, তিনি পায়ে হেঁটে হাজ্জ করার মানত করেছেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ লোকটি নিজেকে কষ্ট দিক আল্লাহ তা‘আলার এর কোন দরকার নেই। অতঃপর তিনি তাকে সওয়ার হয়ে চলার জন্য আদেশ করলেন। (৬৭০১) (আধুনিক প্রকাশনীঃ ১৭৩০, ইসলামিক ফাউন্ডেশনঃ ১৭৪০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক বৃদ্ধ ব্যক্তিকে তার দুই ছেলের উপর ভর করে হেঁটে যেতে দেখে বললেনঃ তার কী হয়েছে? তারা বললেন, তিনি পায়ে হেঁটে হাজ্জ করার মানত করেছেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ লোকটি নিজেকে কষ্ট দিক আল্লাহ তা‘আলার এর কোন দরকার নেই। অতঃপর তিনি তাকে সওয়ার হয়ে চলার জন্য আদেশ করলেন। (৬৭০১) (আধুনিক প্রকাশনীঃ ১৭৩০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1865</td></tr><tr><td>Arabic No</td><td>1865</td></tr><tr><td>Reference</td><td>Book 28 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஒரு முதியவர் தம் இரு புதல்வர்களுக் கிடையே தொங்கியபடி (கால்கள் பூமியில் இழுபட) நடந்துவந்ததைக் கண்ட நபி (ஸல்) அவர்கள், “இவருக்கு என்ன நேர்ந்தது?” என்று கேட்டார்கள். “(கஅபா வரை) நடந்து செல்வதாக இவர் நேர்ச்சை செய்திருக்கிறார்” என்று மக்கள் கூறி னார்கள். நபி (ஸல்) அவர்கள், “இவர் தம்மை இவ்விதம் வேதனைப்படுத்திக்கொள்வது அல்லாஹ்வுக்குத் தேவையற்றது” என்று கூறிவிட்டு, அவரை வாகனத்தில் ஏறிச் செல்லுமாறு உத்தரவிட்டார்கள். அத்தியாயம் : 28
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: ஒரு முதியவர் தம் இரு புதல்வர்களுக் கிடையே தொங்கியபடி (கால்கள் பூமியில் இழுபட) நடந்துவந்ததைக் கண்ட நபி (ஸல்) அவர்கள், “இவருக்கு என்ன நேர்ந்தது?” என்று கேட்டார்கள். “(கஅபா வரை) நடந்து செல்வதாக இவர் நேர்ச்சை செய்திருக்கிறார்” என்று மக்கள் கூறி னார்கள். நபி (ஸல்) அவர்கள், “இவர் தம்மை இவ்விதம் வேதனைப்படுத்திக்கொள்வது அல்லாஹ்வுக்குத் தேவையற்றது” என்று கூறிவிட்டு, அவரை வாகனத்தில் ஏறிச் செல்லுமாறு உத்தரவிட்டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1865</td></tr><tr><td>Arabic No</td><td>1865</td></tr><tr><td>Reference</td><td>Book 28 Hadith 45</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem, İki oğlu arasında onlara dayanarak yürüyen bir adam gördü ve "bunun neyi var?" diye sordu. "(Kabe'ye) yürümeyi adadı" dediler. Nebi Sallallahu Aleyhi ve Sellem "Allah, bunun kendisine işkence etmesine muhtaç değildir.' buyurdu ve adama bineğine binmesini emretti. Tekrar: 6701
+Enes r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem, İki oğlu arasında onlara dayanarak yürüyen bir adam gördü ve "bunun neyi var?" diye sordu. "(Kabe'ye) yürümeyi adadı" dediler. Nebi Sallallahu Aleyhi ve Sellem "Allah, bunun kendisine işkence etmesine muhtaç değildir.' buyurdu ve adama bineğine binmesini emretti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1865</td></tr><tr><td>Arabic No</td><td>1865</td></tr><tr><td>Reference</td><td>Book 28 Hadith 45</td></tr></tbody></table></div>
 

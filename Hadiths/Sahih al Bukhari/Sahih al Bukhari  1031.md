@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইসতিস্কা ছাড়া অন্য কোথাও দু‘আর মধ্যে হাত উঠাতেন না। তিনি হাত এতটুকু উপরে উঠাতেন যে, তাঁর বগলের শুভ্রতা দেখা যেত। (৩৫৬৫, ৬৩৪১ মুসলিম ৯/১, হাঃ ৮৯৫) (আধুনিক প্রকাশনীঃ ৯৬৮, ইসলামিক ফাউন্ডেশনঃ ৯৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস ইবনু মালিক (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইসতিস্কা ছাড়া অন্য কোথাও দু‘আর মধ্যে হাত উঠাতেন না। তিনি হাত এতটুকু উপরে উঠাতেন যে, তাঁর বগলের শুভ্রতা দেখা যেত। (৩৫৬৫, ৬৩৪১ মুসলিম ৯/১, হাঃ ৮৯৫) (আধুনিক প্রকাশনীঃ ৯৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1031</td></tr><tr><td>Arabic No</td><td>1031</td></tr><tr><td>Reference</td><td>Book 15 Hadith 26</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik:The Prophet (ﷺ) never raised his hands for any invocation except for that of Istisqa' and he used to raise them so much that the whiteness of his armpits became visible. (Note: It may be that Anas did not see the Prophet (ﷺ) raising his hands, but it is narrated that the Prophet (ﷺ) used to raise his hands for invocations other than Istisqa. See Hadith No. 807 & 808 and also see Hadith No. 612, Vol. 5
+Narrated Anas bin Malik:The Prophet (ﷺ) never raised his hands for any invocation except for that of Istisqa' and he used to raise them so much that the whiteness of his armpits became visible. (Note: It may be that Anas did not see the Prophet (ﷺ) raising his hands, but it is narrated that the Prophet (ﷺ) used to raise his hands for invocations other than Istisqa. See Hadith No. 807 & 808 and also see Hadith No. 612, Vol
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1031</td></tr><tr><td>Arabic No</td><td>1031</td></tr><tr><td>Reference</td><td>Book 15 Hadith 26</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மழைவேண்டிப் பிரார்த்திக்கும்போதல்லாமல் வேறு எந்தப் பிரார்த்தனையின்போதும் (இந்த அளவுக்கு) கைகளை உயர்த்தமாட்டார்கள்; (மழைவேண்டிப் பிரார்த்திக்கும்போது) தம் அக்குள்களின் வெண்மை தென்படும் அளவுக்கு அவர்கள் கைகளை உயர்த்துவார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் : 15
+அனஸ் பின் மா-க் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் மழைவேண்டிப் பிரார்த்திக்கும்போதல்லாமல் வேறு எந்தப் பிரார்த்தனையின்போதும் (இந்த அளவுக்கு) கைகளை உயர்த்தமாட்டார்கள்; (மழைவேண்டிப் பிரார்த்திக்கும்போது) தம் அக்குள்களின் வெண்மை தென்படும் அளவுக்கு அவர்கள் கைகளை உயர்த்துவார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1031</td></tr><tr><td>Arabic No</td><td>1031</td></tr><tr><td>Reference</td><td>Book 15 Hadith 26</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik (r.a.)'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem yağmur duası dışında hiçbir duada ellerini kaldırmazdı. Yağmur duası sıra­sında ellerini kaldırdığında ise koltuk altlarındaki beyazlık bile görünürdü. Tekrar: 3565, 6341
+Enes İbn Malik (r.a.)'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem yağmur duası dışında hiçbir duada ellerini kaldırmazdı. Yağmur duası sıra­sında ellerini kaldırdığında ise koltuk altlarındaki beyazlık bile görünürdü. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1031</td></tr><tr><td>Arabic No</td><td>1031</td></tr><tr><td>Reference</td><td>Book 15 Hadith 26</td></tr></tbody></table></div>
 

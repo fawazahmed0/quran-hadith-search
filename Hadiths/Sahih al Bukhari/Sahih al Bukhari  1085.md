@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর সাহাবীগণ (যুল হিজ্জার) ৪র্থ তারিখ সকালে (মক্কা্য়) আগমন করেন এবং তাঁরা হাজ্জের জন্য তালবীয়াহ পাঠ করতে থাকেন। অতঃপর তিনি তাঁদের হাজ্জকে ‘উমরাহ্য় পরিণত করার আদেশ দেন। তবে তারা ব্যতীত যাঁদের নিকট হাদী (কুরবানীর পশু) ছিল। হাদীস বর্ণনায় ‘আতা (রহ.) জাবির ইবনু ‘আবদুল্লাহ (রাযি.)-এর অনুসরণ করেছেন। (১৫৬৪, ২৫০৫, ৩৭৩২; মুসলিম ১৫/৩১, হাঃ ১২৪০, আহমাদ ৩৫০৯) (আধুনিক প্রকাশনীঃ ১০১৯, ইসলামিক ফাউন্ডেশনঃ ১০২৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর সাহাবীগণ (যুল হিজ্জার) ৪র্থ তারিখ সকালে (মক্কা্য়) আগমন করেন এবং তাঁরা হাজ্জের জন্য তালবীয়াহ পাঠ করতে থাকেন। অতঃপর তিনি তাঁদের হাজ্জকে ‘উমরাহ্য় পরিণত করার আদেশ দেন। তবে তারা ব্যতীত যাঁদের নিকট হাদী (কুরবানীর পশু) ছিল। হাদীস বর্ণনায় ‘আতা (রহ.) জাবির ইবনু ‘আবদুল্লাহ (রাযি.)-এর অনুসরণ করেছেন। (১৫৬৪, ২৫০৫, ৩৭৩২; মুসলিম ১৫/৩১, হাঃ ১২৪০, আহমাদ ৩৫০৯) (আধুনিক প্রকাশনীঃ ১০১৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 18 Hadith 6</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களும் அவர்களின் தோழர்களும் (துல்ஹஜ் மாதம்) நான்காம் நாள் காலையில் ஹஜ்ஜுக்கு ‘இஹ்ராம்’ கட்டியவர்களாக (மக்காவுக்கு) வந்து சேர்ந்தனர். அப்போது நபி (ஸல்) அவர்கள், “தம்முடன் குர்பானி பிராணியைக் கொண்டுவந்திருப்பவர்களைத் தவிர மற்றவர்கள் தமது இஹ்ராமை ‘உம்ரா’விற் குரியதாக மாற்றிக்கொள்ள வேண்டும்” எனக் கட்டளையிட்டார்கள்.5 இந்த ஹதீஸ் ஜாபிர் (ரலி) அவர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் : 18
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களும் அவர்களின் தோழர்களும் (துல்ஹஜ் மாதம்) நான்காம் நாள் காலையில் ஹஜ்ஜுக்கு ‘இஹ்ராம்’ கட்டியவர்களாக (மக்காவுக்கு) வந்து சேர்ந்தனர். அப்போது நபி (ஸல்) அவர்கள், “தம்முடன் குர்பானி பிராணியைக் கொண்டுவந்திருப்பவர்களைத் தவிர மற்றவர்கள் தமது இஹ்ராமை ‘உம்ரா’விற் குரியதாக மாற்றிக்கொள்ள வேண்டும்” எனக் கட்டளையிட்டார்கள்.5 இந்த ஹதீஸ் ஜாபிர் (ரலி) அவர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 18 Hadith 6</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem ve ashabı Zilhicce'nin dördüncü gününün sabahında geldiler ve hac için telbiye getirdiler. Fakat Nebi Sallallahu Aleyhi ve Sellem kurbanları (hedy) bulunanlar dışındakilerin hepsinin bunu umreye çevirmesini emretti. Tekrar: 1564, 2505, 3832
+Abdullah İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem ve ashabı Zilhicce'nin dördüncü gününün sabahında geldiler ve hac için telbiye getirdiler. Fakat Nebi Sallallahu Aleyhi ve Sellem kurbanları (hedy) bulunanlar dışındakilerin hepsinin bunu umreye çevirmesini emretti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 18 Hadith 6</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ খন্দকের যুদ্ধে সা‘দ (রাযি.)-এর হাতের শিরা যখম হয়েছিল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে (তাঁর জন্য) একটা তাঁবু স্থাপন করলেন, যাতে নিকট হতে তাঁর দেখাশুনা করতে পারেন। মসজিদে বানূ গিফারেরও একটা তাঁবু ছিল। সা‘দ (রাযি.)-এর প্রচুর রক্ত তাঁদের দিকে প্রবাহিত হওয়ায় তারা ভীত-সন্ত্রস্ত হয়ে জিজ্ঞেস করলেনঃ হে তাঁবুর লোকেরা! তোমাদের তাঁবু হতে আমাদের দিকে কী প্রবাহিত হচ্ছে? তখন দেখা গেল যে, সা‘দের যখম হতে রক্ত প্রবাহিত হচ্ছে। অবশেষে এতেই তিনি মারা গেলেন। (২৮১৩, ৩৯০১, ৪১১৭, ৪১২২) (আধুনিক প্রকাশনীঃ ৪৪৩, ইসলামিক ফাউন্ডেশনঃ ৪৪৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আয়িশাহ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ খন্দকের যুদ্ধে সা‘দ (রাযি.)-এর হাতের শিরা যখম হয়েছিল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে (তাঁর জন্য) একটা তাঁবু স্থাপন করলেন, যাতে নিকট হতে তাঁর দেখাশুনা করতে পারেন। মসজিদে বানূ গিফারেরও একটা তাঁবু ছিল। সা‘দ (রাযি.)-এর প্রচুর রক্ত তাঁদের দিকে প্রবাহিত হওয়ায় তারা ভীত-সন্ত্রস্ত হয়ে জিজ্ঞেস করলেনঃ হে তাঁবুর লোকেরা! তোমাদের তাঁবু হতে আমাদের দিকে কী প্রবাহিত হচ্ছে? তখন দেখা গেল যে, সা‘দের যখম হতে রক্ত প্রবাহিত হচ্ছে। অবশেষে এতেই তিনি মারা গেলেন। (২৮১৩, ৩৯০১, ৪১১৭, ৪১২২) (আধুনিক প্রকাশনীঃ ৪৪৩, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>463</td></tr><tr><td>Arabic No</td><td>463</td></tr><tr><td>Reference</td><td>Book 8 Hadith 111</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Zakaria bin Yahya] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அகழ்ப் போரின்போது சஅத் பின் முஆத் (ரலி) அவர்கள் நாடி நரம்பில் தாக்கப்பட்டார்கள். அவரை அருகில்வைத்து நலம் விசாரிப்பதற்காக (மஸ்ஜிதுந் நபவீ) பள்ளிவாசலில் (அவருக்கென) ஒரு கூடாரத்தை நபி (ஸல்) அவர்கள் அமைத்தார்கள் -பள்ளிவாசலில் பனூ ஃகிஃபார் குலத்தாருக்கென ஒரு கூடாரம் இருந்தது- சஅத் (ரலி) அவர்களின் (உடலில் இருந்து வழிந்தோடிய) இரத்தம் தான் அக்குலத்தாரை அதிர்ச்சியடையச் செய்தது. அப்போது அவர்கள், “கூடாரவாசி களே! உங்கள் பகுதியி-ருந்து எங்களை நோக்கி(ப் பாய்ந்து) வருகிறதே, இது என்ன?” என்று கேட்டுக்கொண்டே அங்கு சென்று பார்த்தபோது, தமது காயத்தி-ருந்து இரத்தம் வழிய சஅத் (ரலி) அவர்கள் இருந்தார்கள். அ(ந்த நோயிலேயே, அல்லது அந்தக் கூடாரத்)தி லேயே சஅத் (ரலி) அவர்கள் இறந்தார்கள். அத்தியாயம் : 7
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: அகழ்ப் போரின்போது சஅத் பின் முஆத் (ரலி) அவர்கள் நாடி நரம்பில் தாக்கப்பட்டார்கள். அவரை அருகில்வைத்து நலம் விசாரிப்பதற்காக (மஸ்ஜிதுந் நபவீ) பள்ளிவாசலில் (அவருக்கென) ஒரு கூடாரத்தை நபி (ஸல்) அவர்கள் அமைத்தார்கள் -பள்ளிவாசலில் பனூ ஃகிஃபார் குலத்தாருக்கென ஒரு கூடாரம் இருந்தது- சஅத் (ரலி) அவர்களின் (உடலில் இருந்து வழிந்தோடிய) இரத்தம் தான் அக்குலத்தாரை அதிர்ச்சியடையச் செய்தது. அப்போது அவர்கள், “கூடாரவாசி களே! உங்கள் பகுதியி-ருந்து எங்களை நோக்கி(ப் பாய்ந்து) வருகிறதே, இது என்ன?” என்று கேட்டுக்கொண்டே அங்கு சென்று பார்த்தபோது, தமது காயத்தி-ருந்து இரத்தம் வழிய சஅத் (ரலி) அவர்கள் இருந்தார்கள். அ(ந்த நோயிலேயே, அல்லது அந்தக் கூடாரத்)தி லேயே சஅத் (ரலி) அவர்கள் இறந்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>463</td></tr><tr><td>Arabic No</td><td>463</td></tr><tr><td>Reference</td><td>Book 8 Hadith 111</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Zakaria bin Yahya] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe (r.anha)'dan şöyle nakledilmiştir: "Hendek savaşında Sa'd İbn Muâz, kolundaki atar damardan yaralanmıştı. Allah Resulü Sallallahu Aleyhi ve Sellem o'nu yakından ziyaret edebilmek için Mescid-i Nebevî'de o'na mahsus bir çadır kurdurdu. O esnada Mescid'de Ğıfar-oğulları'nın bir çadırı vardı. Kendilerine doğru akan kandan korkup yan tarafta olan çadıra doğru: 'Ey çadırdaki komşular! Sizin tarafınızdan bize doğru bir şeyler akıyor?' diye seslendiler. İşte o akan şey, Sa'dın yarasından sızan kandı. Bir müddet sonra da Sa'd bu yaradan dolayı vefat etti. Tekrar: 2813, 3901, 4117, 4122
+Âişe (r.anha)'dan şöyle nakledilmiştir: "Hendek savaşında Sa'd İbn Muâz, kolundaki atar damardan yaralanmıştı. Allah Resulü Sallallahu Aleyhi ve Sellem o'nu yakından ziyaret edebilmek için Mescid-i Nebevî'de o'na mahsus bir çadır kurdurdu. O esnada Mescid'de Ğıfar-oğulları'nın bir çadırı vardı. Kendilerine doğru akan kandan korkup yan tarafta olan çadıra doğru: 'Ey çadırdaki komşular! Sizin tarafınızdan bize doğru bir şeyler akıyor?' diye seslendiler. İşte o akan şey, Sa'dın yarasından sızan kandı. Bir müddet sonra da Sa'd bu yaradan dolayı vefat etti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>463</td></tr><tr><td>Arabic No</td><td>463</td></tr><tr><td>Reference</td><td>Book 8 Hadith 111</td></tr></tbody></table></div>
 

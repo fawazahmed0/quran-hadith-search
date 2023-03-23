@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমা‘ঈল (রহঃ) ..... আদী ইবন হাতিম (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ একদা আমি জিজ্ঞাসা করি, ইয়া রাসূলাল্লাহ্! আপনি বলুন, যদি আমাদের কেউ শিকার করে, কিন্তু তার কাছে (যবাহের জন্য) কোন ছুরি না থাকে। এমতাবস্থায় সে সাদা ধারালো পাথর অথবা খন্ডিত কাষ্ঠখন্ড দিয়ে কি সেটিকে যবাহ করতে পারে? তখন তিনি বলেনঃ আল্লাহর নাম নিয়ে যা দিয়ে পার রক্ত প্রবাহিত কর।
+। ‘আদী ইবনু হাতিম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! আমাদের কারো হাতে শিকার আসলে তখন কাছে ছুরি না থাকলে সে কি চকমকি পাথর ও লাঠির ধারালো পার্শ্ব দিয়ে তা যবাহ করবে, এ বিষয়ে আপনার অভিমত কি? তিনি বললেনঃ যেভাবে সম্ভব রক্ত প্রবাহিত করো এবং আল্লাহর নাম উচ্চারণ করো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2824</td></tr><tr><td>Arabic No</td><td>2824</td></tr><tr><td>Reference</td><td>Book 16 Hadith 37</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন উবায়দ (রহঃ) ..... নাফি (রহঃ) থেকে বর্ণিত যে, ইবন উমার (রাঃ) আবূ লুবাবা (রাঃ) থেকে এ হাদীছ শোনার পর তার ঘরে একটি সাপ দেখতে পান। তখন তিনি তাকে (সাপকে) বাকী নামক স্থানে পাঠিয়ে দেন।
+। নাফি (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আবূ লুবাবাহ (রাঃ) ইবনু ‘উমার (রাঃ)-এর নিকট উপরোক্ত হাদীস বর্ণনা করার পর তিনি তার ঘরে একটি সাপ দেখতে পান। তার আদেশে ঘর থেকে সাপটি বের করে বাকী‘র দিকে তাড়িয়ে দেয়া হয়।[1] সনদ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5254</td></tr><tr><td>Arabic No</td><td>5254</td></tr><tr><td>Reference</td><td>Book 43 Hadith 482</td></tr></tbody></table></div>
 

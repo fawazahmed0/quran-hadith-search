@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যায়দ ইবন আখযাম (রহঃ) ... আবূ বুরদা (রহঃ) তার পিতা থেকে এরূপ বর্ণনা করেছেন। এখানে উল্লেখ আছে যে, উমার (রাঃ) আবূ মূসা (রাঃ)-কে বলেনঃ আমি তোমার দোষারূপ করিনি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে হাদীছ বর্ণনা করা খুবই কঠিন ব্যাপার
+। আবূ বুরদাহ (রহঃ) থেকে তার পিতার সূত্রে অনুরূপ ঘটনা বর্ণিত। বর্ণনাকারী বলেন, উমার (রাঃ) আবূ মূসা (রাঃ)-কে বললেন, নিশ্চয়ই আমি আপনাকে অপবাদ দিচ্ছি না। কিন্তু রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্র হাদীস বর্ণনা করার বিষয়টি খুবই গুরুতর।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5183</td></tr><tr><td>Arabic No</td><td>5183</td></tr><tr><td>Reference</td><td>Book 43 Hadith 411</td></tr></tbody></table></div>
 

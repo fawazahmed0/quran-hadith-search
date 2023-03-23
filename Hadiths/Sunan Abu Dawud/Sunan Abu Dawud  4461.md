@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আলী ইবন হুসায়ন (রহঃ) ..... সালামা ইবন মুহাব্বাক (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে অনুরূপ বর্ণনা করেছেন। তবে সেখানে এরূপ বর্ণিত আছে যে, যদি সে দাসী ইচ্ছাকৃত ভাবে সঙ্গম করায়, তবে সে আযাদ হয়ে যাবে, আর ঐ ব্যক্তির মাল থেকে দাসীর মূল্য সে মনিব স্ত্রীলোককে দিতে হবে।
+। সালাম ইবনু মুহাব্বিক (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে অনুরূপ হাদীস বর্ণনা করেন। তবে এ হাদীসে তিনি বলেনঃ দাসী যদি এ কাজে সম্মতি দিয়ে থাকে, তবে সেও তার মতো আরো একটি দাসী নিজ মাল দ্বারা ক্রয় করে দাসীর মনিবকে প্রদান করবে।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4461</td></tr><tr><td>Arabic No</td><td>4461</td></tr><tr><td>Reference</td><td>Book 40 Hadith 111</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭০। কাসিম ইবনু গান্নাম (রাহঃ) হতে তার ফুফু ফারওয়া (রাঃ)-এর সূত্রে বর্ণিত আছে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকটে বাই’আত গ্রহণকারিণীদের অন্তর্ভুক্ত ছিলেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে প্রশ্ন করা হল, কোন কাজটি সবচেয়ে ভাল? তিনি বললেন, আওয়াল (প্রথম) ওয়াক্তে নামায আদায় করা। —সহীহ। সহীহ আবু দাউদ- (৪৫২), মিশকাত— (৬০৭)।
+। কাসিম ইবনু গান্নাম (রাহঃ) হতে তার ফুফু ফারওয়া (রাঃ)-এর সূত্রে বর্ণিত আছে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকটে বাই’আত গ্রহণকারিণীদের অন্তর্ভুক্ত ছিলেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে প্রশ্ন করা হল, কোন কাজটি সবচেয়ে ভাল? তিনি বললেন, আওয়াল (প্রথম) ওয়াক্তে নামায আদায় করা। —সহীহ। সহীহ আবু দাউদ- (৪৫২), মিশকাত— (৬০৭)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>170</td></tr><tr><td>Arabic No</td><td>170</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুর রহমান ইবনু আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে ছিলাম। সে সময়ে এলোমেলো লম্বা লম্বা চুল বিশিষ্ট এক মুশরিক ব্যক্তি তার বকরী হাঁকিয়ে উপস্থিত হলো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন, এটা কি বিক্রির জন্য, না দান হিসেবে, অথবা তিনি বললেন, না হেবা হিসেবে? সে বলল, বিক্রির জন্য। তখন তিনি তার নিকট হতে একটি বকরী কিনে নিলেন। (২৬১৮, ৫৩৮২) (আধুনিক প্রকাশনীঃ ২০৫৯, ইসলামিক ফাউন্ডেশনঃ ২০৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবদুর রহমান ইবনু আবূ বাকর (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে ছিলাম। সে সময়ে এলোমেলো লম্বা লম্বা চুল বিশিষ্ট এক মুশরিক ব্যক্তি তার বকরী হাঁকিয়ে উপস্থিত হলো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন, এটা কি বিক্রির জন্য, না দান হিসেবে, অথবা তিনি বললেন, না হেবা হিসেবে? সে বলল, বিক্রির জন্য। তখন তিনি তার নিকট হতে একটি বকরী কিনে নিলেন। (২৬১৮, ৫৩৮২) (আধুনিক প্রকাশনীঃ ২০৫৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2216</td></tr><tr><td>Arabic No</td><td>2216</td></tr><tr><td>Reference</td><td>Book 34 Hadith 163</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [M
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துர் ரஹ்மான் பின் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (ஒரு பயணத்தில்) நபி (ஸல்) அவர்களுடன் இருந்தோம். அப்போது உயரமான, பரட்டைத் தலையுடைய, இணைவைப்பவரான ஒரு மனிதர் தம் ஆடுகளை ஓட்டிவந்தார். அப்போது நபி (ஸல்) அவர்கள், ‘‘இவை விற்பனைக்கா? அல்லது (யாருக்கேனும்) அன்பளிப்பாகக் கொடுப்பதற்கா?” என்று கேட்டார்கள். அவர், ‘‘இல்லை; விற்பனைக்குத்தான்” எனக் கூறினார். அப்போது அவரிடமிருந்து நபி (ஸல்) அவர்கள் ஓர் ஆட்டை விலைக்கு வாங்கினார்கள். அத்தியாயம் : 34
+அப்துர் ரஹ்மான் பின் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: நாங்கள் (ஒரு பயணத்தில்) நபி (ஸல்) அவர்களுடன் இருந்தோம். அப்போது உயரமான, பரட்டைத் தலையுடைய, இணைவைப்பவரான ஒரு மனிதர் தம் ஆடுகளை ஓட்டிவந்தார். அப்போது நபி (ஸல்) அவர்கள், ‘‘இவை விற்பனைக்கா? அல்லது (யாருக்கேனும்) அன்பளிப்பாகக் கொடுப்பதற்கா?” என்று கேட்டார்கள். அவர், ‘‘இல்லை; விற்பனைக்குத்தான்” எனக் கூறினார். அப்போது அவரிடமிருந்து நபி (ஸல்) அவர்கள் ஓர் ஆட்டை விலைக்கு வாங்கினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2216</td></tr><tr><td>Arabic No</td><td>2216</td></tr><tr><td>Reference</td><td>Book 34 Hadith 163</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [M
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Bekir r.a.'in oğlu Abdurrahman r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem ile beraberdik. Bu arada dağınık ve uzun saçlı, uzun boylu bir müşrik koyunlarını sürerek bize doğru geldi. Nebi Sallallahu Aleyhi ve Sellem ona, "Satıyor musun, hediye mi?" diye sordu. - Belki de, "hediye mi" demiş olabilir. - Adam, "Hayır, satılıktır" dedi. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem ondan bir koyun satın aldı. Tekrar: 2618,5382
+Ebu Bekir r.a.'in oğlu Abdurrahman r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem ile beraberdik. Bu arada dağınık ve uzun saçlı, uzun boylu bir müşrik koyunlarını sürerek bize doğru geldi. Nebi Sallallahu Aleyhi ve Sellem ona, "Satıyor musun, hediye mi?" diye sordu. - Belki de, "hediye mi" demiş olabilir. - Adam, "Hayır, satılıktır" dedi. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem ondan bir koyun satın aldı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2216</td></tr><tr><td>Arabic No</td><td>2216</td></tr><tr><td>Reference</td><td>Book 34 Hadith 163</td></tr></tbody></table></div>
 

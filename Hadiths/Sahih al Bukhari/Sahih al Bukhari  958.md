@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+জাবির ইবনু ‘আবদুল্লাহ্ (রাযি.) হতে এ-ও বর্ণিত আছে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে প্রথমে সালাত আদায় করলেন এবং পরে লোকদের উদ্দেশে খুৎবাহ দিলেন। যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খুৎবাহ শেষ করলেন, তিনি (মিম্বর হতে) নেমে মহিলাগণের (কাতারের) নিকট আসলেন এবং তাঁদের নাসীহাত করলেন। তখন তিনি বিলাল (রাযি.)-এর হাতে ভর করেছিলেন এবং বিলাল (রাযি.) তাঁর কাপড় ছড়িয়ে ধরলে, নারীরা এতে সদাকাহর বস্তু ফেলতে লাগলেন। আমি ‘আতা (রহ.)-কে জিজ্ঞেস করলাম, আপনি কি এখনো যরুরী মনে করেন যে, ইমাম খুৎবাহ শেষ করে নারীদের নিকট এসে তাদের নাসীহাত করবেন? তিনি বললেন, নিশ্চয় তা তাদের জন্য অবশ্যই জরুরী। তাদের কী হয়েছে যে, তাঁরা তা করবে না? (৯৫৮; মুসলিম ৮/১, হাঃ ৮৮৫) (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>958</td></tr><tr><td>Arabic No</td><td>958</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Narrated Ibn Juraij:'Ata' said, "Jabir bin 'Abdullah said, 'The Prophet (ﷺ) we
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ata'dan nakledilmiştir: "Cabir İbn Abdullah (r.a.)'ın şöyle dediğini duydum: Resul-i Ekrem Sallallahu Aleyhi ve Sellem Ramazan bayramı namazı için musallaya gitti ve hutbeyi okumadan önce namazı kıldırdı. Tekrar: 961, 978
+Ata'dan nakledilmiştir: "Cabir İbn Abdullah (r.a.)'ın şöyle dediğini duydum: Resul-i Ekrem Sallallahu Aleyhi ve Sellem Ramazan bayramı namazı için musallaya gitti ve hutbeyi okumadan önce namazı kıldırdı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>958</td></tr><tr><td>Arabic No</td><td>958</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

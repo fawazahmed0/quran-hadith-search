@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ঈসা ইবনু হাম্মাদ আল-মিসরী ..... মুআবিয়া ইবনু আবূ সুফিয়ান (রাঃ) হতে বর্ণিত। তিনি বলেন যে, তিনি তাঁর বোন এবং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের পত্নী উম্মে হাবীবা (রাঃ)-কে জিজ্ঞাসা করেন, স্ত্রী সংগমকালে পরিহিত বস্ত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি নামায পড়তেন? তিনি বলেন, হ্যাঁ পড়তেন- যদি তাতে নাপাক কিছু না দেখতেন।
+। মু‘আবিয়াহ ইবনু আবূ সুফিয়ান সূত্রে বর্ণিত। তিনি তার বোন ও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্ত্রী উম্মু হাবীবাহ (রাঃ)-কে জিজ্ঞেস করেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্ত্রী সহবাসকালে পরিহিত কাপড়ে সালাত আদায় করতেন? তিনি বললেন, হ্যাঁ, তাতে কোনরূপ নাপাকি পরিদৃষ্ট না হলে পড়তেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>366</td></tr><tr><td>Arabic No</td><td>366</td></tr><tr><td>Reference</td><td>Book 1 Hadith 366</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৫৩৩৪, আন্তর্জাতিক নাম্বারঃ ২০৭৯ ৫৩৩৪-(৩৩/...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে সবচেয়ে আকর্ষণীয় বস্ত্র ছিল হিবারাহ নামক ইয়ামানী চাদর। (ইসলামিক ফাউন্ডেশন ৫২৬৭, ইসলামিক সেন্টার ৫২৮০)
+মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে সবচেয়ে আকর্ষণীয় বস্ত্র ছিল হিবারাহ নামক ইয়ামানী চাদর। (ইসলামিক ফাউন্ডেশন ৫২৬৭, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5441</td></tr><tr><td>Arabic No</td><td>2079.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 56</td></tr></tbody></table></div>
 
@@ -64,7 +64,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan ke
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: (பருத்தியாலான) யமன் நாட்டுச் சால்வையே அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு மிகவும் பிரியமான துணியாக இருந்தது. அத்தியாயம் : 37
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: (பருத்தியாலான) யமன் நாட்டுச் சால்வையே அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு மிகவும் பிரியமான துணியாக இருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5441</td></tr><tr><td>Arabic No</td><td>2079.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 56</td></tr></tbody></table></div>
 

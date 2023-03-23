@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন এ আয়াত অবতীর্ণ হয়ঃ যারা ঈমান এনেছে এবং তারা তাদের ঈমানকে যুলুম দ্বারা কলূষিত করেনি- (আল-আন্‘আম ৮২)। তখন আমরা বললাম, হে আল্লাহর রাসূল! আমাদের মধ্যে কে এমন আছে, যে নিজের উপর জুলুম করেনি? তিনি বললেন, তোমরা যা বলছ ব্যাপারটি তা নয়। বরং তাদের ঈমানকে ‘জুলুম’ অর্থাৎ শির্ক দ্বারা কলূষিত করেনি। তোমরা কি লুকমানের কথা শুননি? তিনি তাঁর পুত্রকে বলেছিলেন, ‘‘হে বৎস! আল্লাহর সঙ্গে কোন রকম শির্ক করো না। নিশ্চয় শির্ক একটা বিরাট জুলুম।’’ (লুকমানঃ ১৩) (৩২) (আধুনিক প্রকাশনীঃ ৩১১১, ইসলামিক ফাউন্ডেশনঃ ৩১১৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন এ আয়াত অবতীর্ণ হয়ঃ যারা ঈমান এনেছে এবং তারা তাদের ঈমানকে যুলুম দ্বারা কলূষিত করেনি- (আল-আন্‘আম ৮২)। তখন আমরা বললাম, হে আল্লাহর রাসূল! আমাদের মধ্যে কে এমন আছে, যে নিজের উপর জুলুম করেনি? তিনি বললেন, তোমরা যা বলছ ব্যাপারটি তা নয়। বরং তাদের ঈমানকে ‘জুলুম’ অর্থাৎ শির্ক দ্বারা কলূষিত করেনি। তোমরা কি লুকমানের কথা শুননি? তিনি তাঁর পুত্রকে বলেছিলেন, ‘‘হে বৎস! আল্লাহর সঙ্গে কোন রকম শির্ক করো না। নিশ্চয় শির্ক একটা বিরাট জুলুম।’’ (লুকমানঃ ১৩) (৩২) (আধুনিক প্রকাশনীঃ ৩১১১, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>3360</td></tr><tr><td>Reference</td><td>Book 60 Hadith 35</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah:When the Verse:--"It is those who believe and do not confuse their belief with wrong ( i.e. joining others in worship with Allah" (6.83) was revealed, we said, "O Allah's Messenger (ﷺ)! Who is there amongst us who has not done wrong to himself?" He replied, "It is not as you say, for 'wrong' in the Verse and 'do not confuse their belief, with wrong means 'SHIRK' (i.e. joining others in worship with Allah). Haven't you heard Luqman's saying to his son, 'O my son! Join not others in worship with Allah, verily joining others in worship with Allah is a great wrong indeed." (31.13)
+Narrated 'Abdullah:When the Verse:--"It is those who believe and do not confuse their belief with wrong ( i.e. joining others in worship with Allah" (6.83) was revealed, we said, "O Allah's Messenger (ﷺ)! Who is there amongst us who has not done wrong to himself?" He replied, "It is not as you say, for 'wrong' in the Verse and 'do not confuse their belief, with wrong means 'SHIRK' (i.e. joining others in worship with Allah). Haven't you heard Luqman's saying to his son, 'O my son! Join not others in worship with Allah, verily joining others in worship with Allah is a great wrong indeed
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>3360</td></tr><tr><td>Reference</td><td>Book 60 Hadith 35</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated 'Abdullah:When the Verse:--"It is those who believe and do not confuse 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: ‘‘எவர் இறைநம்பிக்கை கொண்டு, பிறகு தம் இறைநம்பிக்கையில் அநீதியைக் கலக்காது இருக்கிறார்களோ அவர்களுக்கே நிம்மதி உண்டு. அவர்களே நல்வழி பெற்றவர்களாவர்” (6:82) எனும் இறை வசனம் அருளப்பட்டபோது, நாங்கள், ‘‘அல்லாஹ்வின் தூதரே! எங்களில் தமக்கு அநீதியிழைத்துக்கொள்ளாதவர் எவர்தான் இருக்கிறார்?” என்று கேட்டோம். அதற்கு அவர்கள், ‘‘(அதன் பொருள்) நீங்கள் சொல்வது போல் அல்ல. யிதங்கள் இறை நம்பிக்கையில் இணைவைப்பு எனும் அநீதியைக் கலந்துவிடாதவர்கள் என்றுதான் அதற்குப் பொருள். (அறிஞர்) லுக்மான் அவர்கள் தம் மகனுக்கு, யிஎன் அன்பு மகனே! அல்லாஹ்வுக்கு இணை வைக்காதே. இணைவைப்பு என்பது மாபெரும் அநீதியாகும்’ என்று சொன்ன(தாக குர்ஆனில் 31:13ஆவது வசனத்தில் அல்லாஹ் கூறுவ)தை நீங்கள் கேட்கவில்லையா?” என்று பதிலளித்தார்கள்.35 அத்தியாயம் : 60
+அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: ‘‘எவர் இறைநம்பிக்கை கொண்டு, பிறகு தம் இறைநம்பிக்கையில் அநீதியைக் கலக்காது இருக்கிறார்களோ அவர்களுக்கே நிம்மதி உண்டு. அவர்களே நல்வழி பெற்றவர்களாவர்” (6:82) எனும் இறை வசனம் அருளப்பட்டபோது, நாங்கள், ‘‘அல்லாஹ்வின் தூதரே! எங்களில் தமக்கு அநீதியிழைத்துக்கொள்ளாதவர் எவர்தான் இருக்கிறார்?” என்று கேட்டோம். அதற்கு அவர்கள், ‘‘(அதன் பொருள்) நீங்கள் சொல்வது போல் அல்ல. யிதங்கள் இறை நம்பிக்கையில் இணைவைப்பு எனும் அநீதியைக் கலந்துவிடாதவர்கள் என்றுதான் அதற்குப் பொருள். (அறிஞர்) லுக்மான் அவர்கள் தம் மகனுக்கு, யிஎன் அன்பு மகனே! அல்லாஹ்வுக்கு இணை வைக்காதே. இணைவைப்பு என்பது மாபெரும் அநீதியாகும்’ என்று சொன்ன(தாக குர்ஆனில் 31:13ஆவது வசனத்தில் அல்லாஹ் கூறுவ)தை நீங்கள் கேட்கவில்லையா?” என்று பதிலளித்தார்கள்.35 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>3360</td></tr><tr><td>Reference</td><td>Book 60 Hadith 35</td></tr></tbody></table></div>
 

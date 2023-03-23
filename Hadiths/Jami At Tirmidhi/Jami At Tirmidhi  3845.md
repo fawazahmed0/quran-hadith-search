@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮৪৫। তালহা ইবনু উবাইদুল্লাহ (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ আমর ইবনু আস কুরাইশদের অধিক ভালো ব্যক্তিদের দলভুক্ত। সনদ দুর্বল আবূ ঈসা বলেনঃ আমরা এ হাদীস শুধু নাফি ইবনু উমার আল-জুমাহীর বর্ণনা হতেই জেনেছি। নাফি একজন নির্ভরযোগ্য রাবী। কিন্তু হাদীসটির সনদসূত্র মুত্তাসিল (সংযুক্ত) নয়। ইবনু আবূ মুলাইকা (রাহঃ) তালহা (রাঃ)-এর দেখা পাননি।
+। তালহা ইবনু উবাইদুল্লাহ (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বলতে শুনেছিঃ আমর ইবনু আস কুরাইশদের অধিক ভালো ব্যক্তিদের দলভুক্ত। সনদ দুর্বল আবূ ঈসা বলেনঃ আমরা এ হাদীস শুধু নাফি ইবনু উমার আল-জুমাহীর বর্ণনা হতেই জেনেছি। নাফি একজন নির্ভরযোগ্য রাবী। কিন্তু হাদীসটির সনদসূত্র মুত্তাসিল (সংযুক্ত) নয়। ইবনু আবূ মুলাইকা (রাহঃ) তালহা (রাঃ)-এর দেখা পাননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3845</td></tr><tr><td>Arabic No</td><td>3845</td></tr><tr><td>Reference</td><td>Book 49 Hadith 245</td></tr></tbody></table></div>
 

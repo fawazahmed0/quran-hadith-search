@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ২৪৪১, আন্তর্জাতিক নাম্বারঃ ১০৯৬ ২৪৪১-(.../...) ইয়াহইয়া ইবনু ইয়াহইয়া, আবূ বাকর ইবনু আবূ শায়বাহ ও আবূ তাহির (রহঃ) ..... মূসা ইবনু উলাইয়্যা (রহঃ) এর সূত্রে এ সানাদে হাদীস বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ২৪১৮, ইসলামীক সেন্টার ২৪১৭)
+ইয়াহইয়া ইবনু ইয়াহইয়া, আবূ বাকর ইবনু আবূ শায়বাহ ও আবূ তাহির (রহঃ) ..... মূসা ইবনু উলাইয়্যা (রহঃ) এর সূত্রে এ সানাদে হাদীস বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ২৪১৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2551</td></tr><tr><td>Arabic No</td><td>1096.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 57</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২৮২০। বুরাইদাহ (রাযিঃ) হতে বর্ণিত, (বাদশাহ) নাজাশী নকশাবিহীন দু'টি কালো রংয়ের চামড়ার মোজা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে উপহার দিয়েছিলেন। তিনি তা পরিহিত অবস্থায় উযু করলেন এবং তার উপর মসিহ করলেন। সহীহঃ ইবনু মা-জাহ (৫৪৪৯) আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমরা দালহামের বর্ণনা হতে এটি জেনেছি। মুহাম্মাদ ইবনু রাবী'আও এ হাদীসটি দালহামের সূত্রে বর্ণনা করেছেন।
+। বুরাইদাহ (রাযিঃ) হতে বর্ণিত, (বাদশাহ) নাজাশী নকশাবিহীন দু'টি কালো রংয়ের চামড়ার মোজা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে উপহার দিয়েছিলেন। তিনি তা পরিহিত অবস্থায় উযু করলেন এবং তার উপর মসিহ করলেন। সহীহঃ ইবনু মা-জাহ (৫৪৪৯) আবূ ঈসা বলেন, এ হাদীসটি হাসান। আমরা দালহামের বর্ণনা হতে এটি জেনেছি। মুহাম্মাদ ইবনু রাবী'আও এ হাদীসটি দালহামের সূত্রে বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2820</td></tr><tr><td>Arabic No</td><td>2820</td></tr><tr><td>Reference</td><td>Book 43 Hadith 94</td></tr></tbody></table></div>
 

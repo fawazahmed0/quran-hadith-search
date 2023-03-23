@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন সুলায়মান (রহঃ) ..... মিকসাম (রাঃ) থেকে এরূপ বর্ণিত, যেরূপ উপরে বর্ণিত হয়েছে। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বর যখন জয় করেন। এরপর রাবী পূর্বোক্ত হাদীছের অনুরূপ বর্ণনা করে বলেনঃ তিনি খেজুরের আনুমান করেন। পরে আবদুল্লাহ ইবন রাওয়াহা (রাঃ) বলেনঃ আমি খেজুর কাটাব এবং আমি যে আনুমান করেছি, তার অর্ধেক তোমাদের দেব।
+। মিকসাম (রহঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খায়বার বিজয় করলেন। অতঃপর হাদীসের বাকী অংশ যায়িদ সূত্রে বর্ণিত হাদীসের অনুরূপ। বর্ণনাকারী বলেন, তিনি (‘আব্দুল্লাহ) অনুমান করে খেজুরের পরিমাণ নির্ধারণ করে বললেন, আমি খেজুর কাটবো এবং আমি অনুমানে নির্ধারিত পরিমাণের অর্ধেক তোমাদের দিবো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3412</td></tr><tr><td>Arabic No</td><td>3412</td></tr><tr><td>Reference</td><td>Book 23 Hadith 87</td></tr></tbody></table></div>
 

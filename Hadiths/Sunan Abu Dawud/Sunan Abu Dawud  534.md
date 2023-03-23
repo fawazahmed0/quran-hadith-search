@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যুহায়ের ইবনু হারব .... বিলাল (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাকে বলেনঃ দিগন্তে ফজরের আলো স্পষ্ট না হওয়া পর্যন্ত তুমি আযান দিবে না এই বলে তিনি স্বীয় হস্তদ্বয় উত্তর ও দক্ষিণ দিকে প্রসারিত করেন। আবূ দাউদ (রহঃ) বলেন, শাদ্দাদ (রহঃ) বিলাল (রাঃ) এর সাক্ষাত লাভ করেননি।
+। বিলাল (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ভোরের আলো এরূপ প্রকাশ না পাওয়া পর্যন্ত তুমি আযান দিবে না। এই বলে তিনি তাঁর উভয় হাত (উত্তর ও দক্ষিন দিকে) প্রসারিত করলেন। [1] হাসান। ইমাম আবূ দাউদ (রহঃ) বলেন, শাদ্দাদ (রহঃ) বিলাল (রাঃ)-এর সাক্ষাত পাননি।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
 

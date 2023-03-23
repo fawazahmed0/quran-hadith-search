@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মূসা ইবন ইসমাঈল (রহঃ) .... হান্নাদ (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ বলেন, ‘‘অহংকার আমার চাদর এবং শ্রেষ্ঠত্ব আমার লুঙ্গী স্বরূপ। তাই, যে ব্যক্তি এ দু’টি জিনিসে আমার শরীক হতে চায়, আমি তাকে দোজখে নিক্ষেপ করবো।’’
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহান আল্লাহ বলেন, অহংকার হলো আমার চাঁদর এবং মহত্ব হলো আমার লুঙ্গি। যে কেউ এর কোনো একটি নিয়ে আমার সাথে ঝগড়া করবে, আমি তাকে জাহান্নামে নিক্ষেপ করবো।[1]’ সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
 
@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre'den rivayet olunduğuna göre; Resulullah (s.a.v) şöyle buyurmuştur: "İzzet ve celâl sahibi olan Allah buyurdu ki: Büyüklük benim gömleğim, ululuk da benim etekliğimdir. Kim bunlardan birinde benimle yarışmaya ycltenirse onu ateşe atarım." Diğer tahric: ibn-i Mace, Zuhd (4174); Ahmed b. Hanbel 11,248, 376.414.427,442. VI. 19
+Ebu Hureyre'den rivayet olunduğuna göre; Resulullah (s.a.v) şöyle buyurmuştur: "İzzet ve celâl sahibi olan Allah buyurdu ki: Büyüklük benim gömleğim, ululuk da benim etekliğimdir. Kim bunlardan birinde benimle yarışmaya ycltenirse onu ateşe atarım." Diğer tahric: ibn-i Mace, Zuhd (4174); Ahmed b. Hanbel 11,248, 376.414.427,442. VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
 

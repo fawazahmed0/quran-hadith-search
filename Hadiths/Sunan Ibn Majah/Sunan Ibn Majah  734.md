@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৭৩৪। উসমান (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মসজিদে আযান হয়ে যাওয়ার পর যে ব্যাক্তি বিনা প্রয়োজনে বেরিয়ে যাবে এবং তার ফিরে আসার ইচ্ছা নাই সে মুনাফিক।
+। উসমান (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মসজিদে আযান হয়ে যাওয়ার পর যে ব্যাক্তি বিনা প্রয়োজনে বেরিয়ে যাবে এবং তার ফিরে আসার ইচ্ছা নাই সে মুনাফিক।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>734</td></tr><tr><td>Arabic No</td><td>734</td></tr><tr><td>Reference</td><td>Book 3 Hadith 29</td></tr></tbody></table></div>
 

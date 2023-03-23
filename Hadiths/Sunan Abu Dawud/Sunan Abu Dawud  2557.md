@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ ..... ইবন উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, পায়খানাখোর উটের পিঠে আরোহণ নিষিদ্ধ করা হয়েছে।
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, পায়খানাখোর পশুর পিঠে সাওয়ার হতে নিষেধ করা হয়েছে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2557</td></tr><tr><td>Arabic No</td><td>2557</td></tr><tr><td>Reference</td><td>Book 15 Hadith 81</td></tr></tbody></table></div>
 

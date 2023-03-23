@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/৩৬৮। আয়িশাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি ও রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই পাত্রের পানি দিয়ে উযূ (ওজু/অজু/অযু) করেছি, যা থেকে ইতোপূর্বে বিড়াল পানি পান করেছিল।
+। আয়িশাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি ও রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একই পাত্রের পানি দিয়ে উযূ (ওজু/অজু/অযু) করেছি, যা থেকে ইতোপূর্বে বিড়াল পানি পান করেছিল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>368</td></tr><tr><td>Arabic No</td><td>368</td></tr><tr><td>Reference</td><td>Book 1 Hadith 102</td></tr></tbody></table></div>
 

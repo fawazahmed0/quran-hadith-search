@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন আমর ইবন সারহ ..... সাহল ইবন মু‘আয (রহঃ) কতৃক তাঁর পিতা মু‘আয (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চই নামায, রোযা ও যিকর মহান আল্লাহর রাহে সময় ব্যয় অবস্থায় সাতশ গুণ বেশী মর্যাদা রাখে। অর্থাৎ জিহাদরত অবস্থায় এক রোযা দ্বারা সাতশ রোযার সাওয়াব পাওয়া যায়।
+। সাহল ইবনু মু‘আয (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাত, ও যিকির মহান আল্লাহর পথে খরচের তুলনায় নেকীর দিক দিয়ে সাত শত গুণ মর্যাদা রাখে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2498</td></tr><tr><td>Arabic No</td><td>2498</td></tr><tr><td>Reference</td><td>Book 15 Hadith 22</td></tr></tbody></table></div>
 

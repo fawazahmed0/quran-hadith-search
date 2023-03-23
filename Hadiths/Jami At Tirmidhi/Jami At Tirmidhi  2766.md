@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+। জাবির (রাযিঃ) হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের মাঝে কেউ যখন পিঠের উপর চিৎ হয়ে শয়ণ করে তখন যেন সে এক পা অপর পায়ের উপর না রাখে। সহীহঃ সহীহাহ (৩/২৫৪)। এ হাদীসটি একাধিক বর্ণনাকারী সুলাইমান আত-তাইনীর সূত্রে বর্ণনা করেছেন। সানাদে বর্ণিত খিদাশ অপরিচিত। সুলাইমান আত-তাইনী তার বরাতে একাধিক হাদীস বর্ণনা করেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2766</td></tr><tr><td>Arabic No</td><td>2766</td></tr><tr><td>Reference</td><td>Book 43 Hadith 36</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৬৪৫। জাবির ইবনু সামুরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের পায়ের জঙ্ঘাদ্ধয় ছিল হালকা-পাতলা। তিনি মুচকি হাসিই দিতেন। আমি তার দিকে তাকালে মনে হত তিনি উভয় চোখে সুরমা লাগিয়েছেন। অথচ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের চোখে সুরমা লাগানো থাকত না। যঈফ, প্রাগুক্ত আবূ ঈসা বলেনঃ এ হাদীসটি হাসান, এই সূত্রে গারীব।
+। জাবির ইবনু সামুরা (রাঃ) হতে বর্ণিত আছে, তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের পায়ের জঙ্ঘাদ্ধয় ছিল হালকা-পাতলা। তিনি মুচকি হাসিই দিতেন। আমি তার দিকে তাকালে মনে হত তিনি উভয় চোখে সুরমা লাগিয়েছেন। অথচ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের চোখে সুরমা লাগানো থাকত না। যঈফ, প্রাগুক্ত আবূ ঈসা বলেনঃ এ হাদীসটি হাসান, এই সূত্রে গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3645</td></tr><tr><td>Arabic No</td><td>3645</td></tr><tr><td>Reference</td><td>Book 49 Hadith 41</td></tr></tbody></table></div>
 

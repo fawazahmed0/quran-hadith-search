@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১/২৩১১। আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে বিচারকই মানুষের বিচার করে, সে কিয়ামতের দিন এমন অবস্থায় হাজির হবে যে, একজন ফেরেশতা তার ঘাড় ধরে থাকবেন। অতঃপর সে আকাশের দিকে মাথা তুলবে। আল্লাহ যদি বলেন, তাকে নিক্ষেপ করো, তবে সেই ফেরেশতা তাকে একটি গর্তে নিক্ষেপ করবেন, যার মধ্যে সে চল্লিশ বছর ধরে গড়িয়ে পড়তে থাকবে।
+। আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে বিচারকই মানুষের বিচার করে, সে কিয়ামতের দিন এমন অবস্থায় হাজির হবে যে, একজন ফেরেশতা তার ঘাড় ধরে থাকবেন। অতঃপর সে আকাশের দিকে মাথা তুলবে। আল্লাহ যদি বলেন, তাকে নিক্ষেপ করো, তবে সেই ফেরেশতা তাকে একটি গর্তে নিক্ষেপ করবেন, যার মধ্যে সে চল্লিশ বছর ধরে গড়িয়ে পড়তে থাকবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2311</td></tr><tr><td>Arabic No</td><td>2311</td></tr><tr><td>Reference</td><td>Book 13 Hadith 4</td></tr></tbody></table></div>
 

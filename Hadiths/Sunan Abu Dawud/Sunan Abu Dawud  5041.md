@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মদ ইবন মুছান্না (রহঃ) ..... আলী ইবন শায়বান (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি এমন ছাদের উপর শোয়, যার বেষ্টনী নেই, তার উপর থেকে যিম্মাদারী উঠে যায়। (কেননা, এরূপ ছাদ থেকে ঘুমের মধ্যে পড়ে গিয়ে, সে মারা যেতে পারে)
+। আব্দুর রাহমান ইবনু ইয়ালা ইবনু শাইবান (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি দেয়ালবিহীন ছাদে রাত কাটালে তার নিরাপত্তার দায়িত্ব থাকে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5041</td></tr><tr><td>Arabic No</td><td>5041</td></tr><tr><td>Reference</td><td>Book 43 Hadith 269</td></tr></tbody></table></div>
 

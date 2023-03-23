@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, দাঊদ (আঃ)-এর ওপর (যাবূর) পড়া এত সহজ করে দেয়া হয়েছিল যে, তিনি তার সওয়ারীর উপর জিন বাঁধার জন্য আদেশ দিতেন; জিন বাঁধা শেষ হওয়ার পূর্বেই তিনি তার উপর যা অবতীর্ণ তা পড়ে ফেলতেন। [২০৭৩] (আধুনিক প্রকাশনীঃ ৪৩৫২, ইসলামিক ফাউন্ডেশনঃ ৪৩৫৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, দাঊদ (আঃ)-এর ওপর (যাবূর) পড়া এত সহজ করে দেয়া হয়েছিল যে, তিনি তার সওয়ারীর উপর জিন বাঁধার জন্য আদেশ দিতেন; জিন বাঁধা শেষ হওয়ার পূর্বেই তিনি তার উপর যা অবতীর্ণ তা পড়ে ফেলতেন। [২০৭৩] (আধুনিক প্রকাশনীঃ ৪৩৫২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4713</td></tr><tr><td>Arabic No</td><td>4713</td></tr><tr><td>Reference</td><td>Book 65 Hadith 235</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ishaq bin Nashr] Telah menceritakan kepada kami ['A
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள் கூறினார்கள்: தாவூத் (அலை) அவர்களுக்கு வேதம் ஓதுவது இலேசாக்கப்பட்டிருந்தது. அவர்கள் தம் வாகனப் பிராணிக்குச் சேணம் பூட்டக் கட்டளையிடுவார்கள். (பணியாள்) சேணம் பூட்டி முடிப்பதற்குள் -வேதம்- முழுவதையும் ஓதிவிடுவார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.12 அத்தியாயம் : 65
+நபி (ஸல்) அவர்கள் கூறினார்கள்: தாவூத் (அலை) அவர்களுக்கு வேதம் ஓதுவது இலேசாக்கப்பட்டிருந்தது. அவர்கள் தம் வாகனப் பிராணிக்குச் சேணம் பூட்டக் கட்டளையிடுவார்கள். (பணியாள்) சேணம் பூட்டி முடிப்பதற்குள் -வேதம்- முழுவதையும் ஓதிவிடுவார்கள். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.12 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4713</td></tr><tr><td>Arabic No</td><td>4713</td></tr><tr><td>Reference</td><td>Book 65 Hadith 235</td></tr></tbody></table></div>
 

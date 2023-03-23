@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ ইবনু মুগাফফাল (রাঃ) বলেন, মক্কা বিজয়ের দিন আমি রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে (উটের পিঠে) আরোহন অবস্থায় ‘সূরাহ আল্ ফাত্হ’ তিলাওয়াত করতে দেখেছি। [৪২৮১] (আধুনিক প্রকাশনীঃ ৪৬৬০, ইসলামিক ফাউন্ডেশনঃ ৪৬৬৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ্ ইবনু মুগাফফাল (রাঃ) বলেন, মক্কা বিজয়ের দিন আমি রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে (উটের পিঠে) আরোহন অবস্থায় ‘সূরাহ আল্ ফাত্হ’ তিলাওয়াত করতে দেখেছি। [৪২৮১] (আধুনিক প্রকাশনীঃ ৪৬৬০, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5034</td></tr><tr><td>Arabic No</td><td>5034</td></tr><tr><td>Reference</td><td>Book 66 Hadith 57</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துல்லாஹ் பின் முஃகஃப்பல் (ரலி) அவர்கள் கூறியதாவது: மக்கா வெற்றியின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், தமது ஊர்தி ஒட்டகத்தில் இருந்தபடி ‘அல்ஃபத்ஹ்’ எனும் (48ஆவது) அத்தியாயத்தை ஓதிக்கொண்டிருந்ததை நான் பார்த்தேன்.48 அத்தியாயம் : 66
+அப்துல்லாஹ் பின் முஃகஃப்பல் (ரலி) அவர்கள் கூறியதாவது: மக்கா வெற்றியின்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், தமது ஊர்தி ஒட்டகத்தில் இருந்தபடி ‘அல்ஃபத்ஹ்’ எனும் (48ஆவது) அத்தியாயத்தை ஓதிக்கொண்டிருந்ததை நான் பார்த்தேன்.48 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5034</td></tr><tr><td>Arabic No</td><td>5034</td></tr><tr><td>Reference</td><td>Book 66 Hadith 57</td></tr></tbody></table></div>
 

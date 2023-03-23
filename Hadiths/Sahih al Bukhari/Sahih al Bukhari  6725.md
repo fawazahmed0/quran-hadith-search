@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তখন আবূ বাকর (রাঃ) তাঁদেরকে বললেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে শুনেছি তিনি বলেছেনঃ আমরা যা কিছু (সম্পদ) ছেড়ে যাই কেউ তার ওয়ারিশ হবে না, সবই সদাকাহ্। এ মাল থেকে মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পরিবার ভোগ করবেন। আবূ বাকর (রাঃ) বলেন, আল্লাহর কসম! রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আমি এতে যেভাবে করতে দেখেছি, তা সেভাবেই করব, কোন ব্যতিক্রম করব না। রাবী বলেন, অতঃপর থেকে ফাতিমাহ (রাঃ) তাঁকে ত্যাগ করেছিলেন, মৃত্যু পর্যন্ত তার সঙ্গে কথা বলেন নি। [৩০৯৩] (আধুনিক প্রকাশনী- ৬২৫৮, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6725</td></tr><tr><td>Arabic No</td><td>6725</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

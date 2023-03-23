@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি ভোরবেলা সাতটি আজ্ওয়া খুরমা খেয়ে নিবে, সে দিন বিষ কিংবা যাদু তার কোন ক্ষতি করতে পারবে না। [৫৪৪৫] (আধুনিক প্রকাশনী- ৫৩৫৫, ইসলামিক ফাউন্ডেশন- ৫২৫১)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সা‘দ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি ভোরবেলা সাতটি আজ্ওয়া খুরমা খেয়ে নিবে, সে দিন বিষ কিংবা যাদু তার কোন ক্ষতি করতে পারবে না। [৫৪৪৫] (আধুনিক প্রকাশনী- ৫৩৫৫, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5779</td></tr><tr><td>Arabic No</td><td>5779</td></tr><tr><td>Reference</td><td>Book 76 Hadith 91</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad bin Salam] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் (ஒவ்வொரு நாளும்) காலையில் ஏழு ‘அஜ்வா’ (ரகப்) பேரீச்சம் பழங்களை உண்ணுகிறாரோ அவருக்கு அன்று எந்த விஷமோ சூனியமோ இடரளிக்காது. இதை சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்107 அத்தியாயம் : 76
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: யார் (ஒவ்வொரு நாளும்) காலையில் ஏழு ‘அஜ்வா’ (ரகப்) பேரீச்சம் பழங்களை உண்ணுகிறாரோ அவருக்கு அன்று எந்த விஷமோ சூனியமோ இடரளிக்காது. இதை சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள்107 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5779</td></tr><tr><td>Arabic No</td><td>5779</td></tr><tr><td>Reference</td><td>Book 76 Hadith 91</td></tr></tbody></table></div>
 

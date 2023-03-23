@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আমরা জাবির ইবনু ‘আবদুল্লাহ (রাযি.)-কে এ ব্যাপারে জিজ্ঞেস করেছি, তিনি বলেছেনঃ সাফা-মারওয়ায় সা‘ঈ করার আগ পর্যন্ত স্ত্রীর নিকটবর্তী (সহবাস) হবে না। (১৬২৪, ১৬৪৬, ১৭৯৪; মুসলিম ১৫/২৮, হাঃ ১২৩৪) (আধুনিক প্রকাশনীঃ ৩৮১ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ৩৮৭ শেষাংশ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>395</td></tr><tr><td>Arabic No</td><td>395</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Humaid] berkata, telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr İbn Dînâr'dan şöyle nakledilmiştir: "İbn Ömer'e, umre için Ka'be'yi tavaf edip Safa ile Merve arasında sa'y yapmayan bir kimsenin hanımıyla birlikte olup olamayacağını sorduk. O da şöyle cevap verdi: Nebi Sallallahu Aleyhi ve Sellem Ka'be'yi yedi kez tavaf etti ve makam-ı İbrahim'in gerisinde iki rekat namaz kıldı. Sonra da Safa ile Merve arasında sa'y yaptı. Rasûlullah'ta (Sallallahu Aleyhi ve Sellem) sizin için güzel örnek vardır. Tekrar: 1623, 1627, 1645, 1647, 1793 وسألنا جابر بن عبد الله فقال: لا يقربنها، حتى يطوف بين الصفا والمروة [-396-] (Aynı soruyu) Câbir İbn Abdullah'a sorduk. O da, şöyle cevap verdi: "Safa ile Merve arasında sa'y yapmadan, kesinlikle hanımıyla birlikte olmasın! Tekrar: 1624,1646, 1794
+Amr İbn Dînâr'dan şöyle nakledilmiştir: "İbn Ömer'e, umre için Ka'be'yi tavaf edip Safa ile Merve arasında sa'y yapmayan bir kimsenin hanımıyla birlikte olup olamayacağını sorduk. O da şöyle cevap verdi: Nebi Sallallahu Aleyhi ve Sellem Ka'be'yi yedi kez tavaf etti ve makam-ı İbrahim'in gerisinde iki rekat namaz kıldı. Sonra da Safa ile Merve arasında sa'y yaptı. Rasûlullah'ta (Sallallahu Aleyhi ve Sellem) sizin için güzel örnek vardır. Tekrar: 1623, 1627, 1645, 1647, 1793 وسألنا جابر بن عبد الله فقال: لا يقربنها، حتى يطوف بين الصفا والمروة [-396-] (Aynı soruyu) Câbir İbn Abdullah'a sorduk. O da, şöyle cevap verdi: "Safa ile Merve arasında sa'y yapmadan, kesinlikle hanımıyla birlikte olmasın! Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>395</td></tr><tr><td>Arabic No</td><td>395</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

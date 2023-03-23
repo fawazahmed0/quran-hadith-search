@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুহাম্মাদ ইবন হাতিম (রহঃ) ..... আবু সাঈদ ও আবু হুরায়রা (রাঃ) হতে বর্ণিত। তাঁরা বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম ইরশাদ করেছেনঃ যে ব্যক্তি রাত্রিকালে ঘুম হতে উঠে নিজের স্ত্রীকে জাগায়, অতঃপর তারা একত্রে দুই রাকাত নামায আদায় করে- তাদের নাম আল্লাহর নিকট যিকিরকারী ও যিকিরকারিনীদের দফতরে লিপিবদ্ধ করা হয়। (নাসাঈ, ইবন মাজা)।
+। আবূ সাঈদ আল-খুদরী ও আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তারা বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি রাতে নিজে সজাগ হলো এবং তার স্ত্রীকেও জাগিয়ে দিলো। অতঃপর উভয়েই একত্রে দু’ রাক‘আত সালাত আদায় করলো। তাদের দু’জনকেই (আল্লাহর) অধিক যিকিরকারী ও যিকিরকারিণীর তালিকায় লিপিবদ্ধ করা হয়।[1] সহীহ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1451</td></tr><tr><td>Arabic No</td><td>1451</td></tr><tr><td>Reference</td><td>Book 8 Hadith 36</td></tr></tbody></table></div>
 

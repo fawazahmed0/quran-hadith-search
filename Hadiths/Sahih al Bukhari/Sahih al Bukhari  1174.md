@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে আট রাক‘আত একত্রে (যুহর ও ‘আসরের) এবং সাত রাক‘আত একত্রে (মাগরিব-‘ইশার) সালাত আদায় করেছি। (সে ক্ষেত্রে সুন্নাত আদায় করা হয়নি।) ‘আমর (রহ.) বলেন, আমি বললাম, হে আবুশ্ শা’সা! আমার ধারণা, তিনি যুহর শেষ ওয়াক্তে এবং আসর প্রথম ওয়াক্তে আর ‘ইশা প্রথম ওয়াক্তে ও মাগরিব শেষ ওয়াক্তে আদায় করেছিলেন। তিনি বলেছেন, আমিও তাই মনে করি। (৫৪৩) (আধুনিক প্রকাশনীঃ ১০৯৯, ইসলামিক ফাউন্ডেশনঃ ১১০৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে আট রাক‘আত একত্রে (যুহর ও ‘আসরের) এবং সাত রাক‘আত একত্রে (মাগরিব-‘ইশার) সালাত আদায় করেছি। (সে ক্ষেত্রে সুন্নাত আদায় করা হয়নি।) ‘আমর (রহ.) বলেন, আমি বললাম, হে আবুশ্ শা’সা! আমার ধারণা, তিনি যুহর শেষ ওয়াক্তে এবং আসর প্রথম ওয়াক্তে আর ‘ইশা প্রথম ওয়াক্তে ও মাগরিব শেষ ওয়াক্তে আদায় করেছিলেন। তিনি বলেছেন, আমিও তাই মনে করি। (৫৪৩) (আধুনিক প্রকাশনীঃ ১০৯৯, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1174</td></tr><tr><td>Arabic No</td><td>1174</td></tr><tr><td>Reference</td><td>Book 19 Hadith 52</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Amr:I heard Abu Ash-sha'tha' Jabir saying, "I heard Ibn 'Abbas saying, 'I offered with Allah's Messenger (ﷺ) eight rak'at (of Zuhr and 'Asr prayers) together and seven rak'at (the Maghrib and the 'Isha' prayers) together.' " I said, "O Abu Ash-shatha! I think he must have prayed the Zuhr late and the 'Asr early; the 'Isha early and the Maghrib late." Abu Ash-sha'tha' said, "I also think so." (See Hadith No. 518 Vol. 1)
+Narrated 'Amr:I heard Abu Ash-sha'tha' Jabir saying, "I heard Ibn 'Abbas saying, 'I offered with Allah's Messenger (ﷺ) eight rak'at (of Zuhr and 'Asr prayers) together and seven rak'at (the Maghrib and the 'Isha' prayers) together.' " I said, "O Abu Ash-shatha! I think he must have prayed the Zuhr late and the 'Asr early; the 'Isha early and the Maghrib late." Abu Ash-sha'tha' said, "I also think so." (See Hadith No. 518 Vol)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1174</td></tr><tr><td>Arabic No</td><td>1174</td></tr><tr><td>Reference</td><td>Book 19 Hadith 52</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபுஷ்ஷஅஸா ஜஅஃபர் பின் ஸைத் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள், “நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களு டன் எட்டு ரக்அத்கள் (கொண்ட லுஹ்ர், அஸ்ர் ஆகிய தொழுகைகளை இடையில் கூடுதல் தொழுகைகள் ஏதும் தொழாமல்) சேர்ந்தாற்போல் தொழுதிருக்கிறேன். ஏழு ரக்அத்கள் கொண்ட (மஃக்ரிப், இஷா ஆகிய தொழுகைகளை இடையில் கூடுதல் தொழுகைகள் ஏதும் தொழாமல்) சேர்ந்தாற்போல் தொழுதிருக்கிறேன்” என்று கூறினார்கள். (இதன் அறிவிப்பாளரான) அம்ர் பின் தீனார் (ரஹ்) அவர்கள் கூறுகிறார்கள்: நான் அபுஷ்ஷஅஸா (ரஹ்) அவர்களிடம், “நபி (ஸல்) அவர்கள் லுஹ்ர் தொழு கையைத் தாமதப்படுத்தி அஸ்ரின் ஆரம்ப நேரத்திலும், மஃக்ரிப் தொழுகையைத் தாமதப்படுத்தி இஷாவின் ஆரம்ப நேரத்திலும் தொழுதிருப்பார்கள் என நான் எண்ணுகிறேன்” என்றேன். அதற்கு அபுஷ்ஷஅஸா (ரஹ்) அவர்கள் “நானும் அவ்வாறே எண்ணுகிறேன்” என்றார்கள்.31 அத்தியாயம் : 19
+அபுஷ்ஷஅஸா ஜஅஃபர் பின் ஸைத் (ரஹ்) அவர்கள் கூறியதாவது: இப்னு அப்பாஸ் (ரலி) அவர்கள், “நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களு டன் எட்டு ரக்அத்கள் (கொண்ட லுஹ்ர், அஸ்ர் ஆகிய தொழுகைகளை இடையில் கூடுதல் தொழுகைகள் ஏதும் தொழாமல்) சேர்ந்தாற்போல் தொழுதிருக்கிறேன். ஏழு ரக்அத்கள் கொண்ட (மஃக்ரிப், இஷா ஆகிய தொழுகைகளை இடையில் கூடுதல் தொழுகைகள் ஏதும் தொழாமல்) சேர்ந்தாற்போல் தொழுதிருக்கிறேன்” என்று கூறினார்கள். (இதன் அறிவிப்பாளரான) அம்ர் பின் தீனார் (ரஹ்) அவர்கள் கூறுகிறார்கள்: நான் அபுஷ்ஷஅஸா (ரஹ்) அவர்களிடம், “நபி (ஸல்) அவர்கள் லுஹ்ர் தொழு கையைத் தாமதப்படுத்தி அஸ்ரின் ஆரம்ப நேரத்திலும், மஃக்ரிப் தொழுகையைத் தாமதப்படுத்தி இஷாவின் ஆரம்ப நேரத்திலும் தொழுதிருப்பார்கள் என நான் எண்ணுகிறேன்” என்றேன். அதற்கு அபுஷ்ஷஅஸா (ரஹ்) அவர்கள் “நானும் அவ்வாறே எண்ணுகிறேன்” என்றார்கள்.31 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1174</td></tr><tr><td>Arabic No</td><td>1174</td></tr><tr><td>Reference</td><td>Book 19 Hadith 52</td></tr></tbody></table></div>
 

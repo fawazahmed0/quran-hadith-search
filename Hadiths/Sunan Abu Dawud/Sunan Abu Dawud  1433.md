@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আব্দুল ওয়াহ্হাব্ ইবন নাজ্দা (রহঃ) ..... আবু দারদা (রাঃ) হতে বর্ণিত। তিনি বলেন, আমার প্রিয় হাবীব সাল্লাল্লাহু আলাইহে ওয়াসাল্লাম আমাকে তিনটি জিনিসের জন্য উপদেশ দান করেছেন। আমি তা কোন অবস্থাতেই ত্যাগ করি না। ১. তিনি প্রতি মাসে তিন দিন আমাকে রোযা রাখার জন্য ওসিয়াত করেন, ২. বিতিরের নামায আদায়ের পূর্বে না ঘুমাতে এবং ৩. চাশতের নামায আদায় করার নির্দেশ দেন, চাই তা সফরের সময় হোক বা স্থায়ীভাবে বাড়ীতে বসবাসের সময়।
+। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার বন্ধু সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে তিনটি কাজের ওয়াসিয়াত করেছেন যা আমি কখনো বর্জন করি না। তিনি আমাকে ওয়াসিয়াত করেছেন প্রতি মাসে তিন দিন সওম পালন করতে, বিতর সালাত আদায়ের পূর্বে নিদ্রায় না যেতে এবং বাড়িতে ও সফরে প্রত্যেক অবস্থায় চাশতের সালাত আদায় করতে।[1] সহীহ : তার এ কথা বাদে : মুকীম অবস্থায় এবং সফর অবস্থায়ও নয়।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1433</td></tr><tr><td>Arabic No</td><td>1433</td></tr><tr><td>Reference</td><td>Book 8 Hadith 18</td></tr></tbody></table></div>
 

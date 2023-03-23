@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১০৫৮। মুহাম্মাদ ইবনুল মুছান্না (রহঃ) .... আবু মালীহ (রাঃ) হতে বর্ণিত আছে যে, এটা (হুনাইনের) ছিল জুমুআর দিন।
+। আবূ মালীহ (রহঃ) সূত্রে বর্ণিত। সেই (হুনাইনের) দিনটি ছিলো জুমু‘আহর দিন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1058</td></tr><tr><td>Arabic No</td><td>1058</td></tr><tr><td>Reference</td><td>Book 2 Hadith 669</td></tr></tbody></table></div>
 

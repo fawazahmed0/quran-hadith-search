@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩৫৮১, আন্তর্জাতিক নাম্বারঃ ১৪৭৭ ৩৫৮১-(.../...) আবূ রবী' আয যাহরানী (রহঃ) ..... আয়িশাহ্ (রাযিঃ) থেকে আসওয়াদ (রহঃ) এর সূত্রে মাসরূক (রহঃ) বর্ণিত হাদীসের অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৩৫৫২, ইসলামীক সেন্টার ৩৫৫২)
+আবূ রবী' আয যাহরানী (রহঃ) ..... আয়িশাহ্ (রাযিঃ) থেকে আসওয়াদ (রহঃ) এর সূত্রে মাসরূক (রহঃ) বর্ণিত হাদীসের অনুরূপ বর্ণিত আছে। (ইসলামিক ফাউন্ডেশন ৩৫৫২, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3689</td></tr><tr><td>Arabic No</td><td>1477.06</td></tr><tr><td>Reference</td><td>Book 18 Hadith 38</td></tr></tbody></table></div>
 

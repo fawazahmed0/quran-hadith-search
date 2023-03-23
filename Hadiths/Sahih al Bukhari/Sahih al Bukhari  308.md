@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩০৮। আয়িশা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ আমাদের কারো হায়েয হলে, পবিত্র হওয়ার পর রক্ত রগড়িয়ে কাপড় পানি দিয়ে ধুয়ে সেই কাপড়ে তিনি সালাত আদায় করতেন। (আ.প্র. ২৯৭, ই.ফা. ৩০২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+। আয়িশা (রাঃ) থেকে বর্ণিতঃ তিনি বলেনঃ আমাদের কারো হায়েয হলে, পবিত্র হওয়ার পর রক্ত রগড়িয়ে কাপড় পানি দিয়ে ধুয়ে সেই কাপড়ে তিনি সালাত আদায় করতেন। (আ.প্র. ২৯৭, ই.ফা)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 6 Hadith 13</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Ashbagh] berkata, telah mengabarkan kepadaku [Ib
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் துணைவியரான) எங்களில் ஒருவருக்கு மாதவிடாய் ஏற்படும்போது, அவர் தமது ஆடையில் இரத்தம் பட்ட இடத்தைச் சுத்தம் செய்ய நினைத்தால், ஆடையி-ருந்து (காய்ந்துவிட்ட) இரத்தத்தைச் சுரண்டிவிட்டு, அந்த இடத்தைக் கழுவுவார். பின்னர் (மன நிம்மதிக்காக) ஆடை யின் மற்ற பகுதிகளிலும் தண்ணீர் தெளித்து, அந்த ஆடையுடன் (மாத விடாய் குளியலுக்குப்பின்) தொழுது கொள்வார். அத்தியாயம் : 6
+ஆயிஷா (ரலி) அவர்கள் கூறியதாவது: (நபி (ஸல்) அவர்களின் துணைவியரான) எங்களில் ஒருவருக்கு மாதவிடாய் ஏற்படும்போது, அவர் தமது ஆடையில் இரத்தம் பட்ட இடத்தைச் சுத்தம் செய்ய நினைத்தால், ஆடையி-ருந்து (காய்ந்துவிட்ட) இரத்தத்தைச் சுரண்டிவிட்டு, அந்த இடத்தைக் கழுவுவார். பின்னர் (மன நிம்மதிக்காக) ஆடை யின் மற்ற பகுதிகளிலும் தண்ணீர் தெளித்து, அந்த ஆடையுடன் (மாத விடாய் குளியலுக்குப்பின்) தொழுது கொள்வார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 6 Hadith 13</td></tr></tbody></table></div>
 

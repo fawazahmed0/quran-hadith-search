@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, জনৈক পুরুষ তার স্ত্রীকে অপবাদ দিলে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উভয়কে শপথ করান, এরপর বিচ্ছিন্ন করে দেন। [৪৭৪৮] আধুনিক প্রকাশনী- ৪৯২২, ইসলামিক ফাউন্ডেশন- ৪৮১৭
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত যে, জনৈক পুরুষ তার স্ত্রীকে অপবাদ দিলে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উভয়কে শপথ করান, এরপর বিচ্ছিন্ন করে দেন। [৪৭৪৮] আধুনিক প্রকাশনী- ৪৯২২, ইসলামিক ফাউন্ডেশন
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5313</td></tr><tr><td>Arabic No</td><td>5313</td></tr><tr><td>Reference</td><td>Book 68 Hadith 62</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepadaku [Ibrahim bin Al Mundzir] Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு பெண்ணையும் அவள்மீது விபசாரக் குற்றம்சாட்டிய கணவரையும் சத்தியப் பிரமாணம் (லிஆன்) செய்யவைத்து அவர்கள் இருவரையும் பிரித்து வைத்தார்கள். அத்தியாயம் : 68
+இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஒரு பெண்ணையும் அவள்மீது விபசாரக் குற்றம்சாட்டிய கணவரையும் சத்தியப் பிரமாணம் (லிஆன்) செய்யவைத்து அவர்கள் இருவரையும் பிரித்து வைத்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5313</td></tr><tr><td>Arabic No</td><td>5313</td></tr><tr><td>Reference</td><td>Book 68 Hadith 62</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার ঘর ও আমার মিম্বরের মধ্যবর্তী স্থানটি জান্নাতের বাগানসমূহের একটি বাগান। আর আমার মিম্বর আমার হাউযের ওপরে অবস্থিত। [১১৯৬] (আধুনিক প্রকাশনী- ৬১২৯, ইসলামিক ফাউন্ডেশন- ৬১৩৭)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার ঘর ও আমার মিম্বরের মধ্যবর্তী স্থানটি জান্নাতের বাগানসমূহের একটি বাগান। আর আমার মিম্বর আমার হাউযের ওপরে অবস্থিত। [১১৯৬] (আধুনিক প্রকাশনী- ৬১২৯, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6588</td></tr><tr><td>Arabic No</td><td>6588</td></tr><tr><td>Reference</td><td>Book 81 Hadith 176</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Between my house and my pulp
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எனது இல்லத்திற்கும் எனது மிம்பருக்கும் (சொற்பொழிவு மேடை) இடைப்பட்ட பகுதியானது, சொர்க்கத்துப் பூங்காக்களில் ஒரு பூங்காவாகும். எனது மிம்பர் (சொற்பொழிவு மேடை) எனது (அல்கவ்ஸர்) தடாகத்தின் மீது அமைந்துள்ளது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.155 அத்தியாயம் : 81
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: எனது இல்லத்திற்கும் எனது மிம்பருக்கும் (சொற்பொழிவு மேடை) இடைப்பட்ட பகுதியானது, சொர்க்கத்துப் பூங்காக்களில் ஒரு பூங்காவாகும். எனது மிம்பர் (சொற்பொழிவு மேடை) எனது (அல்கவ்ஸர்) தடாகத்தின் மீது அமைந்துள்ளது. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள்.155 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6588</td></tr><tr><td>Arabic No</td><td>6588</td></tr><tr><td>Reference</td><td>Book 81 Hadith 176</td></tr></tbody></table></div>
 

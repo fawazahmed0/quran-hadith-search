@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, (রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময়ে) কুনূত ফজর ও মাগরিবের সালাতে পড়া হত। (আধুনিক প্রকাশনীঃ ৭৫৪, ইসলামিক ফাউন্ডেশনঃ ৭৬২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, (রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময়ে) কুনূত ফজর ও মাগরিবের সালাতে পড়া হত। (আধুনিক প্রকাশনীঃ ৭৫৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>798</td></tr><tr><td>Arabic No</td><td>798</td></tr><tr><td>Reference</td><td>Book 10 Hadith 193</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Abu Al Aswad] berkata, telah mence
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அனஸ் (ரலி) அவர்கள் கூறியதாவது: (ஆரம்பக் காலத்தில்) குனூத் (எனும் சிறப்புப் பிரார்த்தனை) மஃக்ரிப் தொழுகை யிலும் ஃபஜ்ர் தொழுகையிலும் (நடைமுறையில்) இருந்தது. அத்தியாயம் : 10
+அனஸ் (ரலி) அவர்கள் கூறியதாவது: (ஆரம்பக் காலத்தில்) குனூத் (எனும் சிறப்புப் பிரார்த்தனை) மஃக்ரிப் தொழுகை யிலும் ஃபஜ்ர் தொழுகையிலும் (நடைமுறையில்) இருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>798</td></tr><tr><td>Arabic No</td><td>798</td></tr><tr><td>Reference</td><td>Book 10 Hadith 193</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Abu Al Aswad] berkata, telah mence
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Mâlik (r.a.) şöyle demiştir: "Önceden kunût akşam ile sabah namazlarında okunurdu. Tekrar: 1004
+Enes İbn Mâlik (r.a.) şöyle demiştir: "Önceden kunût akşam ile sabah namazlarında okunurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>798</td></tr><tr><td>Arabic No</td><td>798</td></tr><tr><td>Reference</td><td>Book 10 Hadith 193</td></tr></tbody></table></div>
 

@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩১৩। আবু নু'আইম ওয়াহব ইবনু কাইসান (রহঃ) হতে বর্ণিত আছে, তিনি জাবির ইবনু আবদুল্লাহ (রাঃ)-কে বলতে শুনেছেনঃ যে ব্যক্তি নামায আদায় করল অথচ তাতে সূরা ফাতিহা পাঠ করল না, সে নামাযই আদায় করেনি। হ্যাঁ ইমামের পিছনে হলে ভিন্ন কথা (সেক্ষেত্রে ফাতিহা পাঠের দরকার নাই)। —সহীহ। মাওকুফ ইরওয়া— (২/২৩৭)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
+। আবু নু'আইম ওয়াহব ইবনু কাইসান (রহঃ) হতে বর্ণিত আছে, তিনি জাবির ইবনু আবদুল্লাহ (রাঃ)-কে বলতে শুনেছেনঃ যে ব্যক্তি নামায আদায় করল অথচ তাতে সূরা ফাতিহা পাঠ করল না, সে নামাযই আদায় করেনি। হ্যাঁ ইমামের পিছনে হলে ভিন্ন কথা, সেক্ষেত্রে ফাতিহা পাঠের দরকার নাই। —সহীহ। মাওকুফ ইরওয়া— (২/২৩৭)। আবু ঈসা বলেনঃ এ হাদীসটি হাসান সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>313</td></tr><tr><td>Arabic No</td><td>313</td></tr><tr><td>Reference</td><td>Book 2 Hadith 165</td></tr></tbody></table></div>
 

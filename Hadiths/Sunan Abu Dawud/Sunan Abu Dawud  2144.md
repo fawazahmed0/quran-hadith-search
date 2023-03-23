@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমাদ ইবন ইউসুফ মুহাল্লাবী আল নীশাপুরী ..... সাঈদ ইবন হাকীম তাঁর পিতা হতে, তিনি তাঁর দাদা মু‘আবিয়া আল কুশায়রী (রাঃ) হতে বর্ণনা করেছেন। তিনি বলেন, একদা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমতে উপস্থিত হয়ে তাঁকে জিজ্ঞাসা করি, আপনি আমাদের স্ত্রীর হক সম্পর্কে কী নির্দেশ দেন? তিনি বলেন, তোমরা যা খাবে, তাদেরকেও তা খেতে দিবে। আর তোমরা যা পরিধান করবে, তাদেরকেও তা পরিধান করাবে এবং তোমরা তাদেরকে মারধর করবে না ও গালমন্দ দিবে না।
+। মু‘আবিয়াহ আল-কুশাইরী (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললাম, আমাদের স্ত্রীদের (হক) সম্পর্কে আপনি কি বলেন? তিনি বললেনঃ তোমরা যা খাবে তাদেকেও তা খাওয়াবে এবং তোমরা যা পরবে, তাদেরকেও তা পরিধান করাবে। তাদেরকে প্রহার করবে না এবং গালিগালাজ করবে না।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2144</td></tr><tr><td>Arabic No</td><td>2144</td></tr><tr><td>Reference</td><td>Book 12 Hadith 99</td></tr></tbody></table></div>
 

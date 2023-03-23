@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উবায়দুল্লাহ্ ইবনু উমার (রহঃ) ... হিলাল ইবনু ইয়াদ (রহঃ) হতে বর্ণিত তিনি বলেছেনঃ আমার নিকট আবূ সাঈদ (রাঃ) বর্ণনা করেছেনঃ, আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে বলতে শুনেছিঃ পেশাব-পায়খানার সময় যেন একই সঙ্গে দুই ব্যক্তি বের না হয়! এবং এক সঙ্গে সতর উম্মোচন করে পরস্পর কথাবার্তা না বলে। কেননা নিশ্চয়ই মহান আল্লাহ এইরূপ নির্লজ্জ কর্মের উপর বিশেষ ভাবে অসন্তুষ্ট। ইবনু মাজাহ
+। আবূ সাঈদ আল-খুদরী (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ দুই ব্যক্তি একই সঙ্গে পেশাব-পায়খানায় জন্য বের হবে না এবং আপন লজ্জাস্থান উন্মুক্ত করে কথাবার্তা বলবে না। কারণ এরূপ কাজে মহাসম্মানিত আল্লাহ অসন্তুষ্ট হন।[1] আবূ দাউদ (রহঃ) বলেন, ইকরিমাহ ইবনু আম্মারই সানাদসহ বর্ণনা করেছেন। দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>15</td></tr><tr><td>Arabic No</td><td>15</td></tr><tr><td>Reference</td><td>Book 1 Hadith 15</td></tr></tbody></table></div>
 

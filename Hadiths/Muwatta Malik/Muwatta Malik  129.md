@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ৯৯. মালিক (রহঃ)-কে (ঋতুমতী স্ত্রীলোক সম্পর্কে) প্রশ্ন করা হইল যে স্ত্রীলোক শুচিতাপ্রাপ্ত হয়, কিন্তু পানি পায় না, সে তাইয়াম্মুম করিবে কি? তিনি বলিলেনঃ হ্যাঁ, অবশ্যই তাইয়াম্মুম করবে। কারণ তাহার দৃষ্টান্ত জুনুবীর মত (জুনুবী ব্যক্তি), যখন পানি না পায় তখন তাইয়াম্মুম করে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 2 Hadith 98</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৩০৭৩, আন্তর্জাতিক নাম্বারঃ ১৩১৭ ৩০৭৩-(.../...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... ‘আলী (রাযিঃ) থেকে এ সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। তবে এ বর্ণনায় কসাইয়ের মজুরির কথা উল্লেখ নেই। (ইসলামিক ফাউন্ডেশন ৩০৪৮, ইসলামীক সেন্টার ৩০৪৫)
+ইসহাক ইবনু ইবরাহীম (রহঃ) ..... ‘আলী (রাযিঃ) থেকে এ সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। তবে এ বর্ণনায় কসাইয়ের মজুরির কথা উল্লেখ নেই। (ইসলামিক ফাউন্ডেশন ৩০৪৮, ইসলামীক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3182</td></tr><tr><td>Arabic No</td><td>1317.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 386</td></tr></tbody></table></div>
 

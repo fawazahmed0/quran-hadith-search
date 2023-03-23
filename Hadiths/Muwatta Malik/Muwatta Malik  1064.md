@@ -30,7 +30,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+রেওয়ায়ত ১৬. আবদুল্লাহ ইবন আব্বাস (রাঃ) বলেনঃ একবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি মৃত বকরীর পাশ দিয়া যাইতেছিলেন। উম্মুল মু'মিনীন মায়মুনা (রাঃ)-এর জনৈক গোলামকে তিনি ইহা দিয়াছিলেন। তিনি তখন বলিলেনঃ তোমরা ইহার চামড়া কোন কাজে লাগাইলে না কেন? তাহারা বলিল, হে আল্লাহর রাসূল! ইহা তো মৃত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হ্যাঁ, ইহা খাওয়া হারাম (কিন্তু চামড়া দ্বারা অন্য কোন উপকার লাভ করা জায়েয)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1064</td></tr><tr><td>Arabic No</td><td>1064</td></tr><tr><td>Reference</td><td>Book 25 Hadith 13</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَاسْتَقْبَلَ ابْنُ عُمَرَ وَأَنَسٌ رَضِيَ اللهُ عَنْهُمْ الْإِمَامَ. ইবনু ‘উমার ও আনাস (রাযি.) ইমামের দিকে মুখ করতেন। ৯২১. আবূ সা‘ঈদ খুদরী (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা মিম্বারের উপর বসলেন এবং আমরা তাঁর চারদিকে (মুখ করে) বসলাম। ( ১৪৬৫, ২৮৪২, ৬৪২৭) (আধুনিক প্রকাশনীঃ ৮৬৮, ইসলামিক ফাউন্ডেশনঃ ৮৭৫)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+وَاسْتَقْبَلَ ابْنُ عُمَرَ وَأَنَسٌ رَضِيَ اللهُ عَنْهُمْ الْإِمَامَ. ইবনু ‘উমার ও আনাস (রাযি.) ইমামের দিকে মুখ করতেন। ৯২১. আবূ সা‘ঈদ খুদরী (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদা মিম্বারের উপর বসলেন এবং আমরা তাঁর চারদিকে (মুখ করে) বসলাম। ( ১৪৬৫, ২৮৪২, ৬৪২৭) (আধুনিক প্রকাশনীঃ ৮৬৮, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>921</td></tr><tr><td>Arabic No</td><td>921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 45</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு நாள் சொற்பொழிவு மேடை (மிம்பர்)மீது அமர்ந்தார்கள். நாங்கள் அவர்களைச் சுற்றி அமர்ந்தோம். அத்தியாயம் : 11
+அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ஒரு நாள் சொற்பொழிவு மேடை (மிம்பர்)மீது அமர்ந்தார்கள். நாங்கள் அவர்களைச் சுற்றி அமர்ந்தோம். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>921</td></tr><tr><td>Arabic No</td><td>921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 45</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Saîd el-Hudrî (r.a.)'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem bir gün minber'in üzerine oturdu ve biz de onun çevresine toplanıp oturduk. Tekrar: 1465, 2842 ve 6327
+Ebu Saîd el-Hudrî (r.a.)'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem bir gün minber'in üzerine oturdu ve biz de onun çevresine toplanıp oturduk. Tekrar: 1465, 2842 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>921</td></tr><tr><td>Arabic No</td><td>921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 45</td></tr></tbody></table></div>
 

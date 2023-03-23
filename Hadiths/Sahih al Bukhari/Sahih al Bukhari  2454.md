@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালিম (রহ.)-এর পিতা হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি অন্যায়ভাবে সামান্য পরিমাণ জমিও নিয়ে নিবে, কিয়ামতের দিন তাকে সাত তবক জমিনের নীচ পর্যন্ত ধসিয়ে দেয়া হবে। আবূ ‘আবদুল্লাহ [ইমাম বুখারী (রহ.)] বলেন, ‘আবদুল্লাহ ইবনু মুবারক (রহ.) কর্তৃক খুরাসানে রচিত হাদীসগ্রন্থে এ হাদীসটি নেই। এ হাদীসটি বসরায় লোকজনকে শুনানো হয়েছে। (৩১৯৬) (আধুনিক প্রকাশনীঃ ২২৭৫, ইসলামিক ফাউন্ডেশনঃ ২২৯২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+সালিম (রহ.)-এর পিতা হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি অন্যায়ভাবে সামান্য পরিমাণ জমিও নিয়ে নিবে, কিয়ামতের দিন তাকে সাত তবক জমিনের নীচ পর্যন্ত ধসিয়ে দেয়া হবে। আবূ ‘আবদুল্লাহ [ইমাম বুখারী (রহ.)] বলেন, ‘আবদুল্লাহ ইবনু মুবারক (রহ.) কর্তৃক খুরাসানে রচিত হাদীসগ্রন্থে এ হাদীসটি নেই। এ হাদীসটি বসরায় লোকজনকে শুনানো হয়েছে। (৩১৯৬) (আধুনিক প্রকাশনীঃ ২২৭৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2454</td></tr><tr><td>Arabic No</td><td>2454</td></tr><tr><td>Reference</td><td>Book 46 Hadith 15</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-நபி (ஸல்) அவர்கள்கூறினார்கள்: யார் (அடுத்தவரின்) ஒரு நிலத்திலிருந்து ஒரு பகுதியைத் தமக்கு உரிமையின்றி எடுத்துக்கொண்டாரோ அவர் மறுமை நாளில் ஏழு பூமிகளுக்குக் கீழே அமிழ்த் தப்படுவார். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அபூஅப்தில்லாஹ் (புகாரீ ஆகிய நான்) கூறுகிறேன்: இதன் அறிவிப்பாளர்களில் ஒருவரான அப்துல்லாஹ் பின் அல்முபாரக் (ரஹ்) அவர்கள் குராசானில் தொகுத்த நூலில் இந்த ஹதீஸ் இடம்பெறவில்லை. மாறாக, (இராக்கிலுள்ள) யிபஸ்ரா’வில்தான் இந்த ஹதீஸை மாணவர்களுக்குச் சொல்லிக் கொடுத்தார்.6 அத்தியாயம் : 46
+நபி (ஸல்) அவர்கள்கூறினார்கள்: யார் (அடுத்தவரின்) ஒரு நிலத்திலிருந்து ஒரு பகுதியைத் தமக்கு உரிமையின்றி எடுத்துக்கொண்டாரோ அவர் மறுமை நாளில் ஏழு பூமிகளுக்குக் கீழே அமிழ்த் தப்படுவார். இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அபூஅப்தில்லாஹ் (புகாரீ ஆகிய நான்) கூறுகிறேன்: இதன் அறிவிப்பாளர்களில் ஒருவரான அப்துல்லாஹ் பின் அல்முபாரக் (ரஹ்) அவர்கள் குராசானில் தொகுத்த நூலில் இந்த ஹதீஸ் இடம்பெறவில்லை. மாறாக, (இராக்கிலுள்ள) யிபஸ்ரா’வில்தான் இந்த ஹதீஸை மாணவர்களுக்குச் சொல்லிக் கொடுத்தார்.6 அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2454</td></tr><tr><td>Arabic No</td><td>2454</td></tr><tr><td>Reference</td><td>Book 46 Hadith 15</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Salim kanalıyla babasından r.a. rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem: "Her kim haksız yere bir tarlaya el koyarsa kıyamet günü yedi kat yerin altına geçirilir" buyurmuştur. Firebri şöyle der: Ebu Ca'fer İbn Ebu Hatim Ebu Abdullah'ın şöyle dediğini nakletmiştir: "Bu hadis Horasan'da İbnü'l-Mübarek'in hadis defterlerinde mevcut değildir. Onlara Basra'da yazdırılmıştır." Tekrar: 3196
+Salim kanalıyla babasından r.a. rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem: "Her kim haksız yere bir tarlaya el koyarsa kıyamet günü yedi kat yerin altına geçirilir" buyurmuştur. Firebri şöyle der: Ebu Ca'fer İbn Ebu Hatim Ebu Abdullah'ın şöyle dediğini nakletmiştir: "Bu hadis Horasan'da İbnü'l-Mübarek'in hadis defterlerinde mevcut değildir. Onlara Basra'da yazdırılmıştır." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2454</td></tr><tr><td>Arabic No</td><td>2454</td></tr><tr><td>Reference</td><td>Book 46 Hadith 15</td></tr></tbody></table></div>
 

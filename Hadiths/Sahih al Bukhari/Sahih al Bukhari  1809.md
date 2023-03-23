@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত, তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (হুদাইবিয়াতে) বাধাপ্রাপ্ত হন। তাই তিনি মাথা কামিয়ে নেন। স্ত্রীদের সঙ্গে মিলিত হন এবং প্রেরিত জানোয়ার কুরবানী করেন। অবশেষে পরবর্তী বছর ‘উমরাহ আদায় করেন। (আধুনিক প্রকাশনীঃ ১৬৮০. ইসলামিক ফাউন্ডেশনঃ ১৬৯০)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত, তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (হুদাইবিয়াতে) বাধাপ্রাপ্ত হন। তাই তিনি মাথা কামিয়ে নেন। স্ত্রীদের সঙ্গে মিলিত হন এবং প্রেরিত জানোয়ার কুরবানী করেন। অবশেষে পরবর্তী বছর ‘উমরাহ আদায় করেন। (আধুনিক প্রকাশনীঃ ১৬৮০. ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1809</td></tr><tr><td>Arabic No</td><td>1809</td></tr><tr><td>Reference</td><td>Book 27 Hadith 4</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Muhammad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (கஅபாவிற்குச் செல்ல முடியாமல்) தடுக்கப் பட்டபோது, தமது தலையை மழித்துக் கொண்டு, தம் துணைவியருடன் தாம்பத் திய உறவு கொண்டு, தமது பலிப் பிராணி யையும் அறுத்துப் பலியிட்டார்கள்; அடுத்த ஆண்டு உம்ரா செய்தார்கள். அத்தியாயம் : 27
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (கஅபாவிற்குச் செல்ல முடியாமல்) தடுக்கப் பட்டபோது, தமது தலையை மழித்துக் கொண்டு, தம் துணைவியருடன் தாம்பத் திய உறவு கொண்டு, தமது பலிப் பிராணி யையும் அறுத்துப் பலியிட்டார்கள்; அடுத்த ஆண்டு உம்ரா செய்தார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1809</td></tr><tr><td>Arabic No</td><td>1809</td></tr><tr><td>Reference</td><td>Book 27 Hadith 4</td></tr></tbody></table></div>
 

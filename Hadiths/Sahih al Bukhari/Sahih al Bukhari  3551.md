@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাঝারি গড়নের ছিলেন। তাঁর উভয়ে কাঁধের মধ্যস্থল প্রশস্ত ছিল। তাঁর মাথার চুল দুই কানের লতি পর্যন্ত বিস্তৃত ছিল। আমি তাঁকে লাল ডোরাকাটা জোড় চাদর পরা অবস্থায় দেখেছি। তাঁর চেয়ে বেশি সুন্দর আমি কখনো কাউকে দেখিনি। ইউসুফ ইবনু আবূ ইসহাক তাঁর পিতা হতে হাদীস বর্ণনায় বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মাথার চুল কাঁধ পর্যন্ত বিস্তৃত ছিল। (৫৮৪৮, ৫৯০১) (আধুনিক প্রকাশনীঃ ৩২৮৭, ইসলামিক ফাউন্ডেশনঃ ৩২৯৬)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+বারাআ ইবনু ‘আযিব (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাঝারি গড়নের ছিলেন। তাঁর উভয়ে কাঁধের মধ্যস্থল প্রশস্ত ছিল। তাঁর মাথার চুল দুই কানের লতি পর্যন্ত বিস্তৃত ছিল। আমি তাঁকে লাল ডোরাকাটা জোড় চাদর পরা অবস্থায় দেখেছি। তাঁর চেয়ে বেশি সুন্দর আমি কখনো কাউকে দেখিনি। ইউসুফ ইবনু আবূ ইসহাক তাঁর পিতা হতে হাদীস বর্ণনায় বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মাথার চুল কাঁধ পর্যন্ত বিস্তৃত ছিল। (৫৮৪৮, ৫৯০১) (আধুনিক প্রকাশনীঃ ৩২৮৭, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3551</td></tr><tr><td>Arabic No</td><td>3551</td></tr><tr><td>Reference</td><td>Book 61 Hadith 60</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepada kami [Hafsh bin 'Umar] telah bercerita kepada kami [Syu'b
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் நடுத்தர உயர முடையவர்களாகவும் அகன்ற மார்புடைய வர்களாகவும் இருந்தார்கள். அவர்களின் தலைமுடி அவர்களுடைய காதுகளின் சோணையை எட்டும் அளவிற்கு இருந்தது. அவர்களை நான் சிவப்பு நிற அங்கி ஒன்றில் பார்த்திருக்கிறேன். (அந்த ஆடையில்) நபி (ஸல்) அவர்களைவிட அழகான எவரையும் எப்போதும் நான் கண்டதேயில்லை. இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் ஒரு தொடரில் அபூஇஸ்ஹாக் அஸ்ஸபீஈ (ரஹ்) அவர்கள் கூறுகிறார்கள்: (நபி (ஸல்) அவர்களின் தலைமுடி) அவர்களின் இரு தோள்கள்வரை இருந்தது. அத்தியாயம் : 61
+பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் நடுத்தர உயர முடையவர்களாகவும் அகன்ற மார்புடைய வர்களாகவும் இருந்தார்கள். அவர்களின் தலைமுடி அவர்களுடைய காதுகளின் சோணையை எட்டும் அளவிற்கு இருந்தது. அவர்களை நான் சிவப்பு நிற அங்கி ஒன்றில் பார்த்திருக்கிறேன். (அந்த ஆடையில்) நபி (ஸல்) அவர்களைவிட அழகான எவரையும் எப்போதும் நான் கண்டதேயில்லை. இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. அவற்றில் ஒரு தொடரில் அபூஇஸ்ஹாக் அஸ்ஸபீஈ (ரஹ்) அவர்கள் கூறுகிறார்கள்: (நபி (ஸல்) அவர்களின் தலைமுடி) அவர்களின் இரு தோள்கள்வரை இருந்தது. அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3551</td></tr><tr><td>Arabic No</td><td>3551</td></tr><tr><td>Reference</td><td>Book 61 Hadith 60</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Hafsh bin 'Umar] telah bercerita kepada kami [Syu'b
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bera' bin Azib r.a. dedi ki: "Nebi Sallallahu Aleyhi ve Sellem omuzları arası geniş, uzun’a yakın orta boylu idi. Kulak yumuşaklarına kadar ulaşan saçları vardı. Bir gün onu kırmızı renkli bir hulle giymiş gördüm. Ondan güzel hiçbir şey görmedim." Yusuf bin İshak babasından rivayetle: "(Saçları) omuzlarına kadar (ulaşırdı)" diye rivayet etmiştir. Tekrarı: 5848 ve 5901
+Bera' bin Azib r.a. dedi ki: "Nebi Sallallahu Aleyhi ve Sellem omuzları arası geniş, uzun’a yakın orta boylu idi. Kulak yumuşaklarına kadar ulaşan saçları vardı. Bir gün onu kırmızı renkli bir hulle giymiş gördüm. Ondan güzel hiçbir şey görmedim." Yusuf bin İshak babasından rivayetle: "(Saçları) omuzlarına kadar (ulaşırdı)" diye rivayet etmiştir. Tekrarı: 5848 ve
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3551</td></tr><tr><td>Arabic No</td><td>3551</td></tr><tr><td>Reference</td><td>Book 61 Hadith 60</td></tr></tbody></table></div>
 

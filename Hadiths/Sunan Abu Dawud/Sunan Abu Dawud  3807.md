@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আহমদ ইবন হাম্বল (রহঃ) .... জাবির ইবন আবদিল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিড়াল বিক্রি করে তার মূল্য গ্রহণ করতে নিষেধ করেছেন। রাবী ইবন আবদিল মুলক (রহঃ) বলেনঃ বিড়ালের গোশত খেতে এবং তার বিক্রির মূল্য খেতেও নিষেধ করেছেন।
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিড়ালের গোশত খেতে এবং এর বিক্রয়লব্ধ অর্থ ভোগ করতে নিষেধ করেছেন।[1] দুর্বলঃ ইরওয়া (২৪৮৭)।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>3807</td></tr><tr><td>Reference</td><td>Book 28 Hadith 72</td></tr></tbody></table></div>
 

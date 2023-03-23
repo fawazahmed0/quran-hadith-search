@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-তাউস (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ইবনু ‘আব্বাস (রাঃ)-কে গ্রামবাসীর পক্ষে শহরবাসী বিক্রয় করবে না, এ উক্তির অর্থ কী, তা জিজ্ঞেস করলাম। তিনি বললেন, তার পক্ষে দালালী করবে না। (২১৫৮) (আধুনিক প্রকাশনীঃ ২০১৪, ইসলামিক ফাউন্ডেশনঃ ২০২৯)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+তাউস (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ইবনু ‘আব্বাস (রাঃ)-কে গ্রামবাসীর পক্ষে শহরবাসী বিক্রয় করবে না, এ উক্তির অর্থ কী, তা জিজ্ঞেস করলাম। তিনি বললেন, তার পক্ষে দালালী করবে না। (২১৫৮) (আধুনিক প্রকাশনীঃ ২০১৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2163</td></tr><tr><td>Arabic No</td><td>2163</td></tr><tr><td>Reference</td><td>Book 34 Hadith 114</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada 
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-தாவூஸ் பின் கைசான் (ரஹ்) அவர்கள் கூறியதாவது: நான் இப்னு அப்பாஸ் (ரலி) அவர்களிடம், ‘‘கிராமத்திலிருந்து வருபவருக்காக உள்ளூர்வாசி விற்றுத் தரக் கூடாது என்று நபி (ஸல்) அவர்கள் கூறியதன் பொருள் என்ன?” என்று கேட்டேன். அதற்கு இப்னு அப்பாஸ் (ரலி) அவர்கள் ‘‘இவர் அவருக்கு இடைத்தரகராக இருக்கக் கூடாது” என்றார்கள். அத்தியாயம் : 34
+தாவூஸ் பின் கைசான் (ரஹ்) அவர்கள் கூறியதாவது: நான் இப்னு அப்பாஸ் (ரலி) அவர்களிடம், ‘‘கிராமத்திலிருந்து வருபவருக்காக உள்ளூர்வாசி விற்றுத் தரக் கூடாது என்று நபி (ஸல்) அவர்கள் கூறியதன் பொருள் என்ன?” என்று கேட்டேன். அதற்கு இப்னு அப்பாஸ் (ரலி) அவர்கள் ‘‘இவர் அவருக்கு இடைத்தரகராக இருக்கக் கூடாது” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2163</td></tr><tr><td>Arabic No</td><td>2163</td></tr><tr><td>Reference</td><td>Book 34 Hadith 114</td></tr></tbody></table></div>
 

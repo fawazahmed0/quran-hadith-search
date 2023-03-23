@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-৩৮১৮। উম্মুল মু'মিনীন আয়িশাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, একদিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উসামাহর নাকের শ্লেমা মুছে দেয়ার ইচ্ছা করলেন। আয়িশাহ (রাযিঃ) বলেন, আমাকে অনুমতি দিন আমিই তা মুছে দেই। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে আয়িশাহ! তুমি তাকে মুহাব্বাত করবে, কেননা আমি তাকে মুহাব্বাত করি। সহীহঃ মিশকাত (৬১৭৬)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
+। উম্মুল মু'মিনীন আয়িশাহ (রাযিঃ) হতে বর্ণিত আছে, তিনি বলেন, একদিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উসামাহর নাকের শ্লেমা মুছে দেয়ার ইচ্ছা করলেন। আয়িশাহ (রাযিঃ) বলেন, আমাকে অনুমতি দিন আমিই তা মুছে দেই। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে আয়িশাহ! তুমি তাকে মুহাব্বাত করবে, কেননা আমি তাকে মুহাব্বাত করি। সহীহঃ মিশকাত (৬১৬৭)। আবূ ঈসা বলেন, এ হাদীসটি হাসান গারীব।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3818</td></tr><tr><td>Arabic No</td><td>3818</td></tr><tr><td>Reference</td><td>Book 49 Hadith 218</td></tr></tbody></table></div>
 

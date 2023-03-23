@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘উকবাহ ইবনু ‘আমির (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে একটা রেশমী জুববা হাদিয়া হিসেবে দেয়া হয়েছিল। তিনি তা পরিধান করে সালাত আদায় করলেন। কিন্তু সালাত শেষ হবার সাথে সাথে দ্রুত তা খুলে ফেললেন, যেন তিনি তা পরা অপছন্দ করছিলেন। অতঃপর তিনি বললেনঃ মুত্তাকীদের জন্যে এই পোশাক সমীচীন নয়।* (৫৮০১; মুসলিম ৩৭/২, হাঃ ২০৭৫, আহমাদ ১৭৩৪৮ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ৩৬২, ইসলামিক ফাউন্ডেশনঃ ৩৬৮)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘উকবাহ ইবনু ‘আমির (রাযি.) হতে বর্ণিত। তিনি বলেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে একটা রেশমী জুববা হাদিয়া হিসেবে দেয়া হয়েছিল। তিনি তা পরিধান করে সালাত আদায় করলেন। কিন্তু সালাত শেষ হবার সাথে সাথে দ্রুত তা খুলে ফেললেন, যেন তিনি তা পরা অপছন্দ করছিলেন। অতঃপর তিনি বললেনঃ মুত্তাকীদের জন্যে এই পোশাক সমীচীন নয়।* (৫৮০১; মুসলিম ৩৭/২, হাঃ ২০৭৫, আহমাদ ১৭৩৪৮ দ্রষ্টব্য) (আধুনিক প্রকাশনীঃ ৩৬২, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>375</td></tr><tr><td>Reference</td><td>Book 8 Hadith 27</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-உக்பா பின் ஆமிர் (ரலி) அவர்கள் கூறியதாவது: (ஆண்கள் பட்டு அணிவது தடை செய்யப்படுவதற்கு முன்பு) நபி (ஸல்) அவர்களுக்கு (‘ஃபர்ரூஜ்’ எனும்) பட்டு நீளங்கி ஒன்று அன்பளிப்பாக வழங்கப் பட்டது. அதை அவர்கள் அணிந்துகொண்டார்கள். பிறகு அதை அணிந்தபடியே (மஃக்ரிப் தொழுகை) தொழுதார்கள். பிறகு (தொழுதுவிட்டுத்) திரும்பியதும், அதை வெறுப்பவர்கள் போன்று கடுமையாக (உருவிக்) கழற்றினார்கள். பிறகு, “இது இறையச்சமுடையவர்களுக்கு உகந்ததன்று” எனக் கூறினார்கள். அத்தியாயம் : 8
+உக்பா பின் ஆமிர் (ரலி) அவர்கள் கூறியதாவது: (ஆண்கள் பட்டு அணிவது தடை செய்யப்படுவதற்கு முன்பு) நபி (ஸல்) அவர்களுக்கு (‘ஃபர்ரூஜ்’ எனும்) பட்டு நீளங்கி ஒன்று அன்பளிப்பாக வழங்கப் பட்டது. அதை அவர்கள் அணிந்துகொண்டார்கள். பிறகு அதை அணிந்தபடியே (மஃக்ரிப் தொழுகை) தொழுதார்கள். பிறகு (தொழுதுவிட்டுத்) திரும்பியதும், அதை வெறுப்பவர்கள் போன்று கடுமையாக (உருவிக்) கழற்றினார்கள். பிறகு, “இது இறையச்சமுடையவர்களுக்கு உகந்ததன்று” எனக் கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>375</td></tr><tr><td>Reference</td><td>Book 8 Hadith 27</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ukbe b. Amir'den şöyle nakledilmiştir: "Allah Resulü (Sallallahu aleyhi ve Sellem)'e ipekten dokunmuş bir kaftan hediye edildi. O da, onu giyerek namaz kıldı. Namazını bitirdikten sonra hoşuna gitmemiş gibi ani bir hareketle kaftanı çıkardı ve Bunu kullanmak müttakilere yaraşmaz' buyurdu. Tekrar: 5801
+Ukbe b. Amir'den şöyle nakledilmiştir: "Allah Resulü (Sallallahu aleyhi ve Sellem)'e ipekten dokunmuş bir kaftan hediye edildi. O da, onu giyerek namaz kıldı. Namazını bitirdikten sonra hoşuna gitmemiş gibi ani bir hareketle kaftanı çıkardı ve Bunu kullanmak müttakilere yaraşmaz' buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>375</td></tr><tr><td>Reference</td><td>Book 8 Hadith 27</td></tr></tbody></table></div>
 

@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এক লোক তার লুঙ্গি পায়ের গোড়ালির নীচে ঝুলিয়ে পথ অতিক্রম করছিল। এমন সময় তাকে মাটির নীচে ধ্বসিয়ে দেয়া হল। ক্বিয়ামাত (কিয়ামত) অবধি সে মাটির নীচে ধ্বসে যেতে থাকবে। ইউনুস, যুহরী থেকে এ হাদীস এভাবেই বর্ণনা করেছেন। কিন্তু ‘শুআয়ব একে মারফূ‘ হিসাবে যুহরী থেকে বর্ণনা করেননি। (আধুনিক প্রকাশনী- ৫৩৬৫, ইসলামিক ফাউন্ডেশন- ৫২৬১) জারীর ইবনু যায়দ রাহ.) হতে বর্ণিত। তিনি বলেন, আমি সালিম ইবনু ‘আবদুল্লাহ ইবনু ‘উমারের সঙ্গে তাঁর ঘরের দরজায় ছিলাম, তখন তিনি বলেন, আমি আবূ হুরাইরাহ -কে বলতে শুনেছি যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এ রকমই বলতে শুনেছেন। [৩৪৮৫] (আধুনিক প্রকাশনী- ৫৩৬৬, ইসলামিক ফাউন্ডেশন- ৫২৬২)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এক লোক তার লুঙ্গি পায়ের গোড়ালির নীচে ঝুলিয়ে পথ অতিক্রম করছিল। এমন সময় তাকে মাটির নীচে ধ্বসিয়ে দেয়া হল। ক্বিয়ামাত (কিয়ামত) অবধি সে মাটির নীচে ধ্বসে যেতে থাকবে। ইউনুস, যুহরী থেকে এ হাদীস এভাবেই বর্ণনা করেছেন। কিন্তু ‘শুআয়ব একে মারফূ‘ হিসাবে যুহরী থেকে বর্ণনা করেননি। (আধুনিক প্রকাশনী- ৫৩৬৫, ইসলামিক ফাউন্ডেশন- ৫২৬১) জারীর ইবনু যায়দ রাহ.) হতে বর্ণিত। তিনি বলেন, আমি সালিম ইবনু ‘আবদুল্লাহ ইবনু ‘উমারের সঙ্গে তাঁর ঘরের দরজায় ছিলাম, তখন তিনি বলেন, আমি আবূ হুরাইরাহ -কে বলতে শুনেছি যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এ রকমই বলতে শুনেছেন। [৩৪৮৫] (আধুনিক প্রকাশনী- ৫৩৬৬, ইসলামিক ফাউন্ডেশন)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5790</td></tr><tr><td>Arabic No</td><td>5790</td></tr><tr><td>Reference</td><td>Book 77 Hadith 8</td></tr></tbody></table></div>
 
@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "While a man was dragging his Izar on the ground (behind him), suddenly Allah made him sink into the earth and he will go on sinking into it till the Day of Resurrection." Narrated Abu Huraira: that he heard the Prophet (narrating as above No. 680)
+Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "While a man was dragging his Izar on the ground (behind him), suddenly Allah made him sink into the earth and he will go on sinking into it till the Day of Resurrection." Narrated Abu Huraira: that he heard the Prophet (narrating as above No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5790</td></tr><tr><td>Arabic No</td><td>5790</td></tr><tr><td>Reference</td><td>Book 77 Hadith 8</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Ufair] dia berkata; telah menceritaka
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (முற்காலத்தில்) ஒரு மனிதர் தமது கீழங்கியை (தற்பெருமையுடன் தரை யில்) இழுத்துக்கொண்டு சென்றுகொண்டிருந்தபோது அவரை பூமியில் புதைந்து போகும்படி செய்யப்பட்டது. அவர் அப்படியே (தமது உடல்) குலுங்கியபடி மறுமை நாள்வரை பூமியினுள் அழுந்திச் சென்றுகொண்டேயிருப்பார். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.8 இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது அவற்றில் ஒன்றில் ஜரீர் பின் ஸைத் (ரஹ்) அவர்கள் கூறியிருப்பதாவது: நான் சாலிம் பின் அப்தில்லாஹ் பின் உமர் (ரஹ்) அவர்களுடன் அவர்களது வீட்டு வாசலருகே அமர்ந்திருந்தேன். அப்போது அவர்கள், ‘‘அபூஹுரைரா (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடம் மேற்சொன்ன ஹதீஸைப் போன்று கேட்டதாகக் கூறியதை நான் செவியுற்றேன்” என்றார்கள். அத்தியாயம் : 77
+அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (முற்காலத்தில்) ஒரு மனிதர் தமது கீழங்கியை (தற்பெருமையுடன் தரை யில்) இழுத்துக்கொண்டு சென்றுகொண்டிருந்தபோது அவரை பூமியில் புதைந்து போகும்படி செய்யப்பட்டது. அவர் அப்படியே (தமது உடல்) குலுங்கியபடி மறுமை நாள்வரை பூமியினுள் அழுந்திச் சென்றுகொண்டேயிருப்பார். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள்.8 இந்த ஹதீஸ் நான்கு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது அவற்றில் ஒன்றில் ஜரீர் பின் ஸைத் (ரஹ்) அவர்கள் கூறியிருப்பதாவது: நான் சாலிம் பின் அப்தில்லாஹ் பின் உமர் (ரஹ்) அவர்களுடன் அவர்களது வீட்டு வாசலருகே அமர்ந்திருந்தேன். அப்போது அவர்கள், ‘‘அபூஹுரைரா (ரலி) அவர்கள் நபி (ஸல்) அவர்களிடம் மேற்சொன்ன ஹதீஸைப் போன்று கேட்டதாகக் கூறியதை நான் செவியுற்றேன்” என்றார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5790</td></tr><tr><td>Arabic No</td><td>5790</td></tr><tr><td>Reference</td><td>Book 77 Hadith 8</td></tr></tbody></table></div>
 

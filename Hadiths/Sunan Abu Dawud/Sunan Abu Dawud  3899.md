@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাইওয়া ইবন শুরায়হ (রহঃ) .... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এমন এক ব্যক্তিকে আনা হল, যাকে বিচ্ছু দংশন করেছিল। তখন তিনি বলেন, যদি সে এ দু’আটি পাঠ করতো, তবে তাকে দংশন করতো না বা ক্ষতি করতো না। দু’আটি হলোঃ আউযূ বি-কালিমাতিল্লাহিত তাম্মাতি মিন শাররি মা-খালাকা।’’
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা বিছায় দংশিত এক ব্যক্তিকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আনা হলে তিনি বললেনঃ সে যদি বলতোঃ (অর্থ) ‘‘আমি আল্লাহর পরিপূর্ণ কালামের সাহায্যে তাঁর সৃষ্ট বস্তুর অনিষ্ট থেকে আশ্রয় চাই’’, তাহলে তা তাকে দংশন করতে পারতো না অথবা তার ক্ষতি করতে পারতো না।[1] সনদ দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3899</td></tr><tr><td>Arabic No</td><td>3899</td></tr><tr><td>Reference</td><td>Book 29 Hadith 45</td></tr></tbody></table></div>
 

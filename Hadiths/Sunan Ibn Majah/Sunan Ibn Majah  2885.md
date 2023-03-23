@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২৮৮৫। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, সাহাবীগণ জিজ্ঞেস করেন, হে আল্লাহর রাসূল! প্রতি বছরই কি হজ্জ ফরয? তিনি বলেনঃ আমি যদি বলি হাঁ, তবে তা অবশ্যই ওয়াজিব (ফরয) হতো। আর যদি তা ওয়াজিব হতো তবে তোমরা তা আদায় করতে অক্ষম হয়ে পড়তে। আর তোমরা যদি তা আদায় করতে না পারতে তবে তোমাদের শাস্তি দেয়া হতো।
+। আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, সাহাবীগণ জিজ্ঞেস করেন, হে আল্লাহর রাসূল! প্রতি বছরই কি হজ্জ ফরয? তিনি বলেনঃ আমি যদি বলি হাঁ, তবে তা অবশ্যই ওয়াজিব (ফরয) হতো। আর যদি তা ওয়াজিব হতো তবে তোমরা তা আদায় করতে অক্ষম হয়ে পড়তে। আর তোমরা যদি তা আদায় করতে না পারতে তবে তোমাদের শাস্তি দেয়া হতো।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2885</td></tr><tr><td>Arabic No</td><td>2885</td></tr><tr><td>Reference</td><td>Book 25 Hadith 4</td></tr></tbody></table></div>
 

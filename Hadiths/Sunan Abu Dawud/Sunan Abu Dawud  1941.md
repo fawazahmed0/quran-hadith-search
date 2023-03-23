@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উসমান ইবন আবূ শায়বা (রহঃ) ..... ইবন আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর পরিবারের দুর্বল শ্রেণীকে (নারী ও শিশু) অন্ধকার থাকতে (মুযদালিফা) হতে পাঠিয়ে দিতেন এবং তাদেরকে এরূপ নির্দেশ দিতেন যে, তাঁরা যেন (মিনায় পৌঁছে) সূর্যোদয়ের পূর্বে কংকর নিক্ষেপ না করে।
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর পরিবারের দুর্বল লোকদেরকে রাতের অন্ধকারেই মিনায় প্রেরণ করেন এবং তাদেরকে নির্দেশ দেন, তারা যেন সূর্যোদয়ের পূর্বে জামরায় কংকর নিক্ষেপ না করে।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1941</td></tr><tr><td>Arabic No</td><td>1941</td></tr><tr><td>Reference</td><td>Book 11 Hadith 221</td></tr></tbody></table></div>
 

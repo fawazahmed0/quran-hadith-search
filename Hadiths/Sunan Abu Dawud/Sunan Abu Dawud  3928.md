@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মুসাদ্দাদ (রহঃ) .... উম্মু সালামা (রাঃ) এর মুকাতিব দাস নাবহান থেকে বর্ণিত। তিনি বলেন, আমি উম্মু সালামা (রাঃ)-কে বলতে শুনেছি। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের বলেন, যখন তোমাদের কারো কোন মুকাতিব দাসের নিকট তাঁর বিনিময়ের জন্য দেয় চুক্তির টাকা মওজুদ থাকবে, তখন তাঁর থেকে পর্দা করবে।
+। উম্মু সালামাহ (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের বলেছেনঃ তোমাদের কারো যদি মুকাতাব গোলাম থাকে এবং সে চুক্তিতে আরোপিত মূল্য প্রদানের যোগ্যতা রাখে, তবে তোমরা তার থেকে পর্দা করো।[1] দুর্বল।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3928</td></tr><tr><td>Arabic No</td><td>3928</td></tr><tr><td>Reference</td><td>Book 31 Hadith 3</td></tr></tbody></table></div>
 

@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+(…/...) ‘আমর আন্‌ নাকিদ ও ইবনু রাফি (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে তাদের হাদীসের মর্মের হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৫০৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>2652.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
 

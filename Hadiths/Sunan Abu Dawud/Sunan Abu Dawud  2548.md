@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদুল্লাহ্ ইবন মুহাম্মদ আন নুফায়লী ..... সাহল ইবন হানযালিয়্যা (রাঃ) হতে বর্ণিত। তিনি বলেন, একদা রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন একটি উটের পাশ দিয়ে যাচ্ছিলেন, যার অনাহারে পেট ও পিঠ একত্র হয়ে গিয়েছিল। তা দেখে মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তোমরা এ সকল বোবা পশুদের ব্যাপারে আল্লাহকে ভয় কর। এদরকে দানাপানি দিয়ে সুস্থ সবল রাখ ও সুস্থ সবল পশুর পিঠে আরোহণ কর এবং খাওয়ার সময়ও সুস্থ সবল প্রাণীর গোশত খাও।
+। সাহল ইবনুল হানযালিয়্যাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন একটি উটের কাছ দিয়ে যাচ্ছিলেন যে, অনাহারে উটটির পেট পিঠের সাথে লেগে গিয়েছিলো। তিনি বললেনঃ তোমরা এসব বাকশক্তিহীন পশুর ব্যাপারে আল্লাহকে বয় করো। সুস্থ সবল পশুর পিঠে আরোহণ করবে এবং এদেরকে উত্তমরূপে আহার করাবে।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2548</td></tr><tr><td>Arabic No</td><td>2548</td></tr><tr><td>Reference</td><td>Book 15 Hadith 72</td></tr></tbody></table></div>
 

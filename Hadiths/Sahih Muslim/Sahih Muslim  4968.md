@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদিস একাডেমি নাম্বারঃ ৪৮৬২, আন্তর্জাতিক নাম্বারঃ ৭১৫ ৪৮৬২-(…/…) ইয়াহইয়া ইবনু হাবীব (রহঃ) ..... শু'বাহ (রহঃ) হতে উক্ত সানাদে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৮১৫, ইসলামিক সেন্টার ৪৯১৬)
+(…/…) ইয়াহইয়া ইবনু হাবীব (রহঃ) ..... শু'বাহ (রহঃ) হতে উক্ত সানাদে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৮১৫, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4968</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

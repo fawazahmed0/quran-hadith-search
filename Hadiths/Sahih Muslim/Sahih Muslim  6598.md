@@ -32,7 +32,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... জারীর (রাযিঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি নম্র আচরণ থেকে বঞ্চিত সে প্রকৃত কল্যাণ থেকেই বঞ্চিত। (ইসলামিক ফাউন্ডেশন ৬৩৬২, ইসলামিক সেন্টার)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6598</td></tr><tr><td>Arabic No</td><td>2592.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 96</td></tr></tbody></table></div>
 

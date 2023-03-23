@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হান্নাদ ইবনু স-সারী (রহঃ) ..... যিয়াদ ইবনে সুবাইহ (রহঃ) হতে বর্ণিত। তিনি বলেন, একদা আমি .... ইবনে উমার (রাঃ) এর পিছনে দাঁড়িয়ে নামায পড়ছিলাম। এ সময় আমি আমার হস্তদ্বয়কে কোমরের দুই পাশে স্থাপন করি। এতদ্দর্শনে নামায শেষে তিনি আমাকে বলেন, নামাযের সাথে এরূপ দণ্ডায়মান হওয়া শূলিকাষ্ঠের সাথে সাদৃশ্যপূর্ণ। রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এভাবে দাঁড়াতে নিষেধ করেছেন। (নাসাঈ)।
+। যিয়াদ ইবনু সুবাইহ আল-হানাফী (রহঃ) হতে বর্ণিত। তিনি বলেন, একদা আমি ইবনু ‘উমারের পাশে দাঁড়িয়ে সালাত আদায় করি এবং আমি আমার কোমরের দু’ পার্শ্বের উপর দু’ হাতের ভর করি। সালাত শেষে তিনি আমাকে বললেনঃ এটা হচ্ছে সালাতের শূলী। এমনটি করতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করেছেন।[1] সহীহ।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>903</td></tr><tr><td>Reference</td><td>Book 2 Hadith 513</td></tr></tbody></table></div>
 

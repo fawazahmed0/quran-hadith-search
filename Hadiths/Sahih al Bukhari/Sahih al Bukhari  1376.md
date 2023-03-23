@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-খালিদ ইবনু সাঈদ ইবনু ‘আস (রাঃ) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কবরের শাস্তি হতে আশ্রয় প্রার্থনা করতে শুনেছেন। (৬৩৬৪) (আধুনিক প্রকাশনীঃ ১২৮৫, ইসলামিক ফাউন্ডেশনঃ ১২৯৩)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+খালিদ ইবনু সাঈদ ইবনু ‘আস (রাঃ) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কবরের শাস্তি হতে আশ্রয় প্রার্থনা করতে শুনেছেন। (৬৩৬৪) (আধুনিক প্রকাশনীঃ ১২৮৫, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1376</td></tr><tr><td>Arabic No</td><td>1376</td></tr><tr><td>Reference</td><td>Book 23 Hadith 128</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Mu'allaa] telah menceritakan kepada kami [Wuhaib
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-மூசா பின் உக்பா (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அடக்கத் தலத்தின் (கப்று) வேதனையைவிட்டுப் பாதுகாப்புக் கோரியதைத் தாம் செவியுற்றதாக காலித் பின் சயீத் (ரலி) அவர்களுடைய புதல்வியார் (உம்மு காலித்) கூறுகிறார். அத்தியாயம் : 23
+மூசா பின் உக்பா (ரஹ்) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அடக்கத் தலத்தின் (கப்று) வேதனையைவிட்டுப் பாதுகாப்புக் கோரியதைத் தாம் செவியுற்றதாக காலித் பின் சயீத் (ரலி) அவர்களுடைய புதல்வியார் (உம்மு காலித்) கூறுகிறார். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1376</td></tr><tr><td>Arabic No</td><td>1376</td></tr><tr><td>Reference</td><td>Book 23 Hadith 128</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mu'allaa] telah menceritakan kepada kami [Wuhaib
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ukbe şöyle dedi: Halid İbn Saîd İbnü'l-As'ın kızı bana Nebi Sallallahu Aleyhi ve Sellem'in kabir azabından sığındığını işittiğini söyledi. Tekrar: 6334
+Ukbe şöyle dedi: Halid İbn Saîd İbnü'l-As'ın kızı bana Nebi Sallallahu Aleyhi ve Sellem'in kabir azabından sığındığını işittiğini söyledi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1376</td></tr><tr><td>Arabic No</td><td>1376</td></tr><tr><td>Reference</td><td>Book 23 Hadith 128</td></tr></tbody></table></div>
 

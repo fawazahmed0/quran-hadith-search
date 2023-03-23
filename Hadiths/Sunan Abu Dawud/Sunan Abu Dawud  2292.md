@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সুলায়মান ইবন দাঊদ ..... হিশাম ইবন উরওয়া তাঁর পিতা হতে বর্ণনা করেছেন। তিনি বলেন, আয়েশা (রাঃ) ফাতিমা বিন্ত কায়স বর্ণিত হাদীসকে কঠোরভাবে সমালোচনা করেছেন এবং তিনি বলেছেন, ফাতিমা একটি ভীতিপ্রদ স্থানে বসবাস করতেন, আর তিনি এর আশেপাশের ভীতি সংকুল পরিবেশের জন্য শংকিত ছিলেন। এমতাবস্থায় রাসূলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে এরেূপ অনুমতি প্রদান করেন।
+। হিশাম ইবনু উরওয়াহ (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, ‘আয়িশাহ্ (রাঃ) ফাতিমাহ বিনতু কায়িস বর্ণিত হাদীসের কঠোর সমালোচনা করে বলেন, ফাতিমাহ একটি ভীতিপ্রদ স্থানে বসবাস করতেন, সেখানে তার একাকী অবস্থান নিরাপদ মনে না করায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে অন্যত্র চলে যাওয়ার অনুমতি দিয়েছেন।[1] হাসান।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2292</td></tr><tr><td>Arabic No</td><td>2292</td></tr><tr><td>Reference</td><td>Book 13 Hadith 118</td></tr></tbody></table></div>
 

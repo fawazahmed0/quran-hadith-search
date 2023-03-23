@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুর রহমান ইবনু আবূ বাকর সিদ্দীক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম‘আয়িশাহ (রাঃ)-কে আমার পেছনে বসিয়ে তানয়ীম থেকে ‘উমরাহর ইহরাম করিয়ে আনার জন্য আমাকে নির্দেশ দিয়েছিলেন। (১৭৮৪) (আধুনিক প্রকাশনীঃ ২৭৬৪, ইসলামিক ফাউন্ডেশনঃ ২৭৭৪)
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘আবদুর রহমান ইবনু আবূ বাকর সিদ্দীক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম‘আয়িশাহ (রাঃ)-কে আমার পেছনে বসিয়ে তানয়ীম থেকে ‘উমরাহর ইহরাম করিয়ে আনার জন্য আমাকে নির্দেশ দিয়েছিলেন। (১৭৮৪) (আধুনিক প্রকাশনীঃ ২৭৬৪, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2985</td></tr><tr><td>Arabic No</td><td>2985</td></tr><tr><td>Reference</td><td>Book 56 Hadith 194</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [I
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-அப்துர் ரஹ்மான் பின் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: (என் சகோதரி) ஆயிஷா (ரலி) அவர்களை வாகனத்தில் எனக்குப் பின்னால் உட்கார வைத்துக்கொண்டு, யிதன்யீம்’ என்னுமிடத்திலிருந்து அவர்களை உம்ரா செய்ய அழைத்துச் செல்லும்படி நபி (ஸல்) அவர்கள் எனக்குக் கட்டளையிட் டார்கள். அத்தியாயம் : 56
+அப்துர் ரஹ்மான் பின் அபீபக்ர் (ரலி) அவர்கள் கூறியதாவது: (என் சகோதரி) ஆயிஷா (ரலி) அவர்களை வாகனத்தில் எனக்குப் பின்னால் உட்கார வைத்துக்கொண்டு, யிதன்யீம்’ என்னுமிடத்திலிருந்து அவர்களை உம்ரா செய்ய அழைத்துச் செல்லும்படி நபி (ஸல்) அவர்கள் எனக்குக் கட்டளையிட் டார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2985</td></tr><tr><td>Arabic No</td><td>2985</td></tr><tr><td>Reference</td><td>Book 56 Hadith 194</td></tr></tbody></table></div>
 

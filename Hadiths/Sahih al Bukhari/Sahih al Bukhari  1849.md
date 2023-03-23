@@ -29,8 +29,8 @@
 ## Bengali
 
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
+<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, এক ব্যক্তি ‘আরাফাত ময়দানে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে উকূফ (অবস্থান) করছিলেন। হঠাৎ তিনি তাঁর সওয়ারী হতে পড়ে যান এবং তাঁর ঘাড় ভেঙ্গে যায় অথবা সাওয়ারীটি তাঁর ঘাড় ভেঙ্গে দেয়। এরপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তাকে কুলগাছের পাতা দিয়ে সিদ্ধ পানি দ্বারা গোসল করাও এবং দুই কাপড়ে অথবা বলেন তার পরিধেয় দু’টি কাপড়ে কাফন দাও। তবে তার মাথা ঢেকে দিও না এবং হানূত নামক সুগন্ধিও ব্যবহার কর না। কেননা আল্লাহ তা‘আলা তাকে কিয়ামতের দিনে তালবিয়া পাঠরত অবস্থায় উঠাবেন। (১২৬৫) (আধুনিক প্রকাশনীঃ ১৭১৬, ইসলামিক ফাউন্ডেশনঃ)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1849</td></tr><tr><td>Arabic No</td><td>1849</td></tr><tr><td>Reference</td><td>Book 28 Hadith 29</td></tr></tbody></table></div>
 
@@ -54,7 +54,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களுடன் அரஃபா பெருவெளியில் தங்கியிருந்தார். அப்போது அவர் தமது ஊர்தி ஒட்டகத் திலிருந்து கீழே விழுந்துவிட்டார். ஒட்டகம் அவரது கழுத்தை முறித்துவிட்டது. அப்போது நபி (ஸல்) அவர்கள், “இலந்தை இலை கலந்த தண்ணீரால் இவரை நீராட்டுங்கள்; இரு ஆடைகளில் இவருக்குப் பிரேத ஆடை (கஃபன்) அணிவியுங்கள். இவருக்கு வாசனைத் தூள் போடாதீர்கள்; இவரது தலையை மூடாதீர்கள்! ஏனெனில், இவர் ‘தல்பியா’ சொல்லும் நிலையில் மறுமை நாளில் இவரை அல்லாஹ் எழுப்புவான்” என்று கூறினார்கள். அத்தியாயம் : 28
+இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் நபி (ஸல்) அவர்களுடன் அரஃபா பெருவெளியில் தங்கியிருந்தார். அப்போது அவர் தமது ஊர்தி ஒட்டகத் திலிருந்து கீழே விழுந்துவிட்டார். ஒட்டகம் அவரது கழுத்தை முறித்துவிட்டது. அப்போது நபி (ஸல்) அவர்கள், “இலந்தை இலை கலந்த தண்ணீரால் இவரை நீராட்டுங்கள்; இரு ஆடைகளில் இவருக்குப் பிரேத ஆடை (கஃபன்) அணிவியுங்கள். இவருக்கு வாசனைத் தூள் போடாதீர்கள்; இவரது தலையை மூடாதீர்கள்! ஏனெனில், இவர் ‘தல்பியா’ சொல்லும் நிலையில் மறுமை நாளில் இவரை அல்லாஹ் எழுப்புவான்” என்று கூறினார்கள். அத்தியாயம் :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1849</td></tr><tr><td>Arabic No</td><td>1849</td></tr><tr><td>Reference</td><td>Book 28 Hadith 29</td></tr></tbody></table></div>
 
@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Biri bir başkasının elini ısırdı. Adam elini çekti, ısıran adamın dişi kırıldı. Nebi Sallallahu Aleyhi ve Sellem diyete hükmetmedi. Tekrar: 2265, 2973, 4417, 6893
+Biri bir başkasının elini ısırdı. Adam elini çekti, ısıran adamın dişi kırıldı. Nebi Sallallahu Aleyhi ve Sellem diyete hükmetmedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1849</td></tr><tr><td>Arabic No</td><td>1849</td></tr><tr><td>Reference</td><td>Book 28 Hadith 29</td></tr></tbody></table></div>
 

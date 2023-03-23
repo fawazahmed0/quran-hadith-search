@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-১৭৬৮। উরওয়া ইবনুল মুগীরা ইবনু শুবা (রহঃ) হতে তার বাবার সূত্রে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি রূমী জুব্বা পরেন। এর হাতাদুটি ছিল সংকীর্ণ। সহীহ্, মুখতাসার শামাইল (৫৭),সহীহ্ আবৃদাউদ (১৩৯-১৪০), নাসা-ঈ এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
+। উরওয়া ইবনুল মুগীরা ইবনু শুবা (রহঃ) হতে তার বাবার সূত্রে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি রূমী জুব্বা পরেন। এর হাতাদুটি ছিল সংকীর্ণ। সহীহ্, মুখতাসার শামাইল (৫৭),সহীহ্ আবৃদাউদ (১৩৯-১৪০), নাসা-ঈ এ হাদীসটিকে আবূ ঈসা হাসান সহীহ বলেছেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1768</td></tr><tr><td>Arabic No</td><td>1768</td></tr><tr><td>Reference</td><td>Book 24 Hadith 52</td></tr></tbody></table></div>
 

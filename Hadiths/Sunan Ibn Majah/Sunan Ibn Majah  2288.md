@@ -28,7 +28,7 @@
 
 
 <div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-২/২২৮৮। আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, বদর যুদ্ধের দিন সাদ (রাঃ), আম্মার (রাঃ) ও আমি গানীমাতের মালের ব্যাপারে অংশীদার হই (এই মর্মে যে, আমরা যা পাবো তা তিনজনে ভাগ করে নিবো)। আম্মার ও আমি কিছুই আনতে পারিনি। অবশ্য সাদ (রাঃ) দু’জন যুদ্ধবন্দী নিয়ে আসেন।
+। আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, বদর যুদ্ধের দিন সাদ (রাঃ), আম্মার (রাঃ) ও আমি গানীমাতের মালের ব্যাপারে অংশীদার হই (এই মর্মে যে, আমরা যা পাবো তা তিনজনে ভাগ করে নিবো)। আম্মার ও আমি কিছুই আনতে পারিনি। অবশ্য সাদ (রাঃ) দু’জন যুদ্ধবন্দী নিয়ে আসেন।
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2288</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 12 Hadith 152</td></tr></tbody></table></div>
 
