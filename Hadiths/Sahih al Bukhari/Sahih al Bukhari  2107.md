@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Shadaqah] telah mengabarkan kepada kami ['Abdul 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a., Nebi Sallallahu Aleyhi ve Sellem'den şunu nakletmiştir: "Alıcı ve satıcı birbirinden ayrılmadığı sürece yahut da satım akdini muhayyerlik esasına göre yapmadıkları sürece muhayyerdirler". Nafi' şöyle dedi: İbn Ömer, bir mal satın aldığında ondan hoşlanırsa, satıcının yanından ayrılırdı. Tekrar: 2109, 2111, 2
+İbn Ömer r.a., Nebi Sallallahu Aleyhi ve Sellem'den şunu nakletmiştir: "Alıcı ve satıcı birbirinden ayrılmadığı sürece yahut da satım akdini muhayyerlik esasına göre yapmadıkları sürece muhayyerdirler". Nafi' şöyle dedi: İbn Ömer, bir mal satın aldığında ondan hoşlanırsa, satıcının yanından ayrılırdı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2107</td></tr><tr><td>Arabic No</td><td>2107</td></tr><tr><td>Reference</td><td>Book 34 Hadith 60</td></tr></tbody></table></div>
 

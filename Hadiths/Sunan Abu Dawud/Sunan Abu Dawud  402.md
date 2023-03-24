@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Yazid bin Khalid bin Mauhib Al Hamdani] dan [Qut
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) Peygamber (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: "Sıcak şiddetlendiği zaman namazı serinliğe bırakınız" İbn Mevheb, (rivayetinde Efendimizin sözünü naklederken) عَنْ الصَّلَاةِ yerine بِالصَّلَاةِ kelimesini kullanmış ve: "Muhakkak sıcağın şiddeti cehennemin kükremesindendir" dediğini ilave etmiştir. (Bak:) Şu tahric bilgilerine: Buhari, mevakît; ezan; Müslim, mesacid; Tirmizî, mevakît; Nesai, mevakît; Ahmed b. Hanbel, II, 29, 238, 256
+Ebu Hureyre (r.a.) Peygamber (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: "Sıcak şiddetlendiği zaman namazı serinliğe bırakınız" İbn Mevheb, (rivayetinde Efendimizin sözünü naklederken) عَنْ الصَّلَاةِ yerine بِالصَّلَاةِ kelimesini kullanmış ve: "Muhakkak sıcağın şiddeti cehennemin kükremesindendir" dediğini ilave etmiştir. (Bak:) Şu tahric bilgilerine: Buhari, mevakît; ezan; Müslim, mesacid; Tirmizî, mevakît; Nesai, mevakît; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (536) Sahih Muslim (615)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402</td></tr><tr><td>Arabic No</td><td>402</td></tr><tr><td>Reference</td><td>Book 2 Hadith 12</td></tr></tbody></table></div>
 

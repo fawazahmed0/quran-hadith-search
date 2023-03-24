@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Al-'Ala'] dan [Ibrahim bin Musa] da
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) namazda elbisenin yere sarkıtılması ve erkeğin ağzını örtmesini yasaklamıştır. Ebu Davud dedi ki: Bu hadisi bir de İsa, Ata yoluyla Ebu Hureyre’den "Nebî (s.a.v.) namazda elbiseyi yere sarkıtmaktan nehyetmiştir" şeklinde rivayet etmiştir. Diğer tahric: Tirmizî, salat; Ahmed b. Hanbel,II, 295
+Ebu Hureyre'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) namazda elbisenin yere sarkıtılması ve erkeğin ağzını örtmesini yasaklamıştır. Ebu Davud dedi ki: Bu hadisi bir de İsa, Ata yoluyla Ebu Hureyre’den "Nebî (s.a.v.) namazda elbiseyi yere sarkıtmaktan nehyetmiştir" şeklinde rivayet etmiştir. Diğer tahric: Tirmizî, salat; Ahmed b. Hanbel,II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>643</td></tr><tr><td>Arabic No</td><td>643</td></tr><tr><td>Reference</td><td>Book 2 Hadith 253</td></tr></tbody></table></div>
 

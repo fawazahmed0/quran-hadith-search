@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami ['I
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Ali'nin şöyle dediği nakledilmiştir: Hendek savaşında Resulullah Sallallahu Aleyhi ve Sellem müşriklere şöyle beddua etmişti: "Allahım, bunların evlerini ve kabirlerini ateşle doldur! Onlar güneş batana kadar bizim ikindi namazını (Salatu'l-vusta'yı) kılmamıza engel oldular. " Tekrar: 4
+Hz. Ali'nin şöyle dediği nakledilmiştir: Hendek savaşında Resulullah Sallallahu Aleyhi ve Sellem müşriklere şöyle beddua etmişti: "Allahım, bunların evlerini ve kabirlerini ateşle doldur! Onlar güneş batana kadar bizim ikindi namazını (Salatu'l-vusta'yı) kılmamıza engel oldular. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2931</td></tr><tr><td>Arabic No</td><td>2931</td></tr><tr><td>Reference</td><td>Book 56 Hadith 144</td></tr></tbody></table></div>
 

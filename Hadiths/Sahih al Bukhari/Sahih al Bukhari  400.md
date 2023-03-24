@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Câbir'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem bineği ne tarafa dönerse dönsün onun üzerinde namaz kılardı. Farz namazı kılacağı zaman ise, bineğinden inip kıbleye yönelirdi. Tekrar: 1
+Câbir'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem bineği ne tarafa dönerse dönsün onun üzerinde namaz kılardı. Farz namazı kılacağı zaman ise, bineğinden inip kıbleye yönelirdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 8 Hadith 51</td></tr></tbody></table></div>
 

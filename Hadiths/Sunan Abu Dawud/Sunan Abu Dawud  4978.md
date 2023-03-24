@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Ebu Ümâme İbn Sehl İbn Huneyf'in) babasından (rivayet edildiğine göre); Rasûlullah (s.a.v.) şöyle buyurmuştur: "Sakın hâ!... Biriniz; nefsim habis oldu, demesin. Fakat; nefsim lakis oldu, desin." Diğer Tahric: Buhari, edeb; Müslim, edeb Ahmed b. Hanbel, VI, 51,
+(Ebu Ümâme İbn Sehl İbn Huneyf'in) babasından (rivayet edildiğine göre); Rasûlullah (s.a.v.) şöyle buyurmuştur: "Sakın hâ!... Biriniz; nefsim habis oldu, demesin. Fakat; nefsim lakis oldu, desin." Diğer Tahric: Buhari, edeb; Müslim, edeb Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6180) Sahih Muslim (2251)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4978</td></tr><tr><td>Arabic No</td><td>4978</td></tr><tr><td>Reference</td><td>Book 43 Hadith 206</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayet edildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Canım elinde olan (Allah)'a yemin olsun ki, bir kimse'nin, urganını alıp bununla sırtında odun taşıması, bir kimseye gidip bir şeyler dilenmesinden ister versin ister vermesin- daha hayırlıdır. Tekrarı: 1
+Ebu Hureyre r.a.'den rivayet edildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Canım elinde olan (Allah)'a yemin olsun ki, bir kimse'nin, urganını alıp bununla sırtında odun taşıması, bir kimseye gidip bir şeyler dilenmesinden ister versin ister vermesin- daha hayırlıdır. Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1470</td></tr><tr><td>Arabic No</td><td>1470</td></tr><tr><td>Reference</td><td>Book 24 Hadith 72</td></tr></tbody></table></div>
 

@@ -98,7 +98,7 @@ Telah menceritakan kepada kami ['Amru bin Zurarah] telah mengabarkan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Medine'ye geldiği zaman Medine halkı bir yıl veya iki yıl vade ile meyve selemi yapıyorlardı. -Ravi İsmail, iki veya üç yıl şeklinde tereddütlü bir ifade kullanmıştır.- Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Hurma için selem akdi yapan, miktarını ölçü ve tartı olarak belirleyerek yapsın" buyurmuştur. Tekrar: 2
+İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Medine'ye geldiği zaman Medine halkı bir yıl veya iki yıl vade ile meyve selemi yapıyorlardı. -Ravi İsmail, iki veya üç yıl şeklinde tereddütlü bir ifade kullanmıştır.- Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Hurma için selem akdi yapan, miktarını ölçü ve tartı olarak belirleyerek yapsın" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
 

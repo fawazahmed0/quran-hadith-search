@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik Resûlullah Sallallahu Aleyhi ve Sellem'İn şöyle buyurduğunu nakletmiştir: "Mekke ve Medine dışında Deccal'in ayak basmadığı hiçbir yer kalmayacak. Deccal'in aşmaya çalıştığı her bir gedikte melekler Medine'yi korumak üzere saf tutacaklar. Sonra Medine'de, orada yaşayanları sarsan üç deprem olacak ve Allah Teala bütün kafir ve münafıkları oradan çıkaracak." Tekrar: 7
+Enes İbn Malik Resûlullah Sallallahu Aleyhi ve Sellem'İn şöyle buyurduğunu nakletmiştir: "Mekke ve Medine dışında Deccal'in ayak basmadığı hiçbir yer kalmayacak. Deccal'in aşmaya çalıştığı her bir gedikte melekler Medine'yi korumak üzere saf tutacaklar. Sonra Medine'de, orada yaşayanları sarsan üç deprem olacak ve Allah Teala bütün kafir ve münafıkları oradan çıkaracak." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1881</td></tr><tr><td>Arabic No</td><td>1881</td></tr><tr><td>Reference</td><td>Book 29 Hadith 15</td></tr></tbody></table></div>
 

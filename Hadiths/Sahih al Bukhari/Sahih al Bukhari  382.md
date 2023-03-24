@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [M
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe (r.anha)'den şöyle nakledilmiştir: "Ayaklarımı Allah Resûlü Sallallahu Aleyhi ve Sellem'in secde edeceği yere uzatmış uyuyordum. Secdeye varınca eliyle beni dürttü. Ben de ayaklarımı topladım. Ayağa kalkınca tekrar uzattım. O dönemde evlerde henüz lamba yoktu. Tekrar: 383, 508, 511, 512, 513, 514, 515, 519,
+Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe (r.anha)'den şöyle nakledilmiştir: "Ayaklarımı Allah Resûlü Sallallahu Aleyhi ve Sellem'in secde edeceği yere uzatmış uyuyordum. Secdeye varınca eliyle beni dürttü. Ben de ayaklarımı topladım. Ayağa kalkınca tekrar uzattım. O dönemde evlerde henüz lamba yoktu. Tekrar: 383, 508,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>382</td></tr><tr><td>Arabic No</td><td>382</td></tr><tr><td>Reference</td><td>Book 8 Hadith 34</td></tr></tbody></table></div>
 

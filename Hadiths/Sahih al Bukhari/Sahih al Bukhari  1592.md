@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha) şöyle anlatır: "Müslümanlar, Ramazan orucu farz kılınmadan önce aşure günü oruç tutardı. O gün Kabe'ye örtü örtülürdü. Allah Teala Ramazan orucunu farz kılınca Resul-i Ekrem Sallallahu Aleyhi ve Sellem, "Aşure orucunu artık dileyen tutsun dileyen de tutmasın" buyurmuştur." Tekrar: 1893, 2001, 2
+Aişe (r.anha) şöyle anlatır: "Müslümanlar, Ramazan orucu farz kılınmadan önce aşure günü oruç tutardı. O gün Kabe'ye örtü örtülürdü. Allah Teala Ramazan orucunu farz kılınca Resul-i Ekrem Sallallahu Aleyhi ve Sellem, "Aşure orucunu artık dileyen tutsun dileyen de tutmasın" buyurmuştur." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1592</td></tr><tr><td>Arabic No</td><td>1592</td></tr><tr><td>Reference</td><td>Book 25 Hadith 78</td></tr></tbody></table></div>
 

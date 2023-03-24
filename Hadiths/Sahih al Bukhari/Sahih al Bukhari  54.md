@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah mengabarka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ömer den rivayet edildiğine göre Allah Resulü sallallahu aleyhi ve selem şöyle buyurmuştur: "Ameller niyetlere göredir. Herkes için niyet ettiği(nin karşılığı) vardır. Kimin hicreti Allah'a ve Resulüne ise onun hicreti Allah'a ve Resûlünedir. Kimin de hicreti elde etmek istediği dünya ve nikahlamak istediği bir kadına ise onun hicreti de hicret ettiği şeyedir. Tekrar: 1, 2529, 3898, 5
+Ömer den rivayet edildiğine göre Allah Resulü sallallahu aleyhi ve selem şöyle buyurmuştur: "Ameller niyetlere göredir. Herkes için niyet ettiği(nin karşılığı) vardır. Kimin hicreti Allah'a ve Resulüne ise onun hicreti Allah'a ve Resûlünedir. Kimin de hicreti elde etmek istediği dünya ve nikahlamak istediği bir kadına ise onun hicreti de hicret ettiği şeyedir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Arabic No</td><td>54</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
 

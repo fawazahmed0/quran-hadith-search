@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Usame İbn Zeyd r.a. anlatıyor: "Resûl-i Ekrem Sallallahu Aleyhi ve Sellem Medine surlarından birisine yaklaştığımız bir tepeden bakıp bize: "Benim gördüklerimi görüyor musunuz? Şüphesiz ben fitnelerin evlerinizin çevresine sağanak yağmurlar gibi yağdığı yerleri görüyorum!" buyurdu. Tekrar: 2
+Usame İbn Zeyd r.a. anlatıyor: "Resûl-i Ekrem Sallallahu Aleyhi ve Sellem Medine surlarından birisine yaklaştığımız bir tepeden bakıp bize: "Benim gördüklerimi görüyor musunuz? Şüphesiz ben fitnelerin evlerinizin çevresine sağanak yağmurlar gibi yağdığı yerleri görüyorum!" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 29 Hadith 12</td></tr></tbody></table></div>
 

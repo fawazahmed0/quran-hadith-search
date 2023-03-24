@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe (r.anha)'dan şöyle nakledilmiştir: "Faiz konusunda el-Bakara süresin­deki âyetler nazil olduktan sonra Nebi Sallallahu Aleyhi ve Sellem Mescİd-İ Nebevî'ye çıkıp hemen bu ayetleri ashabına okudu. Sonra da şarap ticaretini haram kıldı. Tekrar: 2084, 2226, 4540, 4
+Âişe (r.anha)'dan şöyle nakledilmiştir: "Faiz konusunda el-Bakara süresin­deki âyetler nazil olduktan sonra Nebi Sallallahu Aleyhi ve Sellem Mescİd-İ Nebevî'ye çıkıp hemen bu ayetleri ashabına okudu. Sonra da şarap ticaretini haram kıldı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>459</td></tr><tr><td>Arabic No</td><td>459</td></tr><tr><td>Reference</td><td>Book 8 Hadith 107</td></tr></tbody></table></div>
 

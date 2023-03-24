@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'dan demiştir ki: Rasûlullah (Sallallahu aleyhi ve Sellem), hayatta ne bir kadın dövmüştür, ne de bir hizmetçi." Tahric edenler: Müslim, fedail; İbn Mace, nikah; Dârîmî, nikâh, Ahmed b. Hanbel, V,32, 2
+Aişe (r.anha)'dan demiştir ki: Rasûlullah (Sallallahu aleyhi ve Sellem), hayatta ne bir kadın dövmüştür, ne de bir hizmetçi." Tahric edenler: Müslim, fedail; İbn Mace, nikah; Dârîmî, nikâh, Ahmed b. Hanbel, V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4786</td></tr><tr><td>Arabic No</td><td>4786</td></tr><tr><td>Reference</td><td>Book 43 Hadith 14</td></tr></tbody></table></div>
 

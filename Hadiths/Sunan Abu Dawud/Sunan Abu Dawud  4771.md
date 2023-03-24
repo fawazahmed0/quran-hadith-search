@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer'den (rivayet edildiğine göre) Nebi (s.a.v.) (şöyle) buyurmuştur: "Malı haksızlıkla elinden alınmak istenen bir kimse malını korumak için mücadeleye girişir de (bu "yüzden) öldürülürse o kimse şehiddir." Tahric edenler: Tirmizi, diyât; Nesâi, tahrimü'd-dem; İbn Mâce, hudûd; Buhari, mezâlim; Müslim, îman; Ahmed b. Hanbel, I, 79, 187, 190, 305; II 163, 193, 194, 205, 206, 210,215,
+Abdullah İbn Ömer'den (rivayet edildiğine göre) Nebi (s.a.v.) (şöyle) buyurmuştur: "Malı haksızlıkla elinden alınmak istenen bir kimse malını korumak için mücadeleye girişir de (bu "yüzden) öldürülürse o kimse şehiddir." Tahric edenler: Tirmizi, diyât; Nesâi, tahrimü'd-dem; İbn Mâce, hudûd; Buhari, mezâlim; Müslim, îman; Ahmed b. Hanbel, I, 79, 187, 190, 305; II 163
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4771</td></tr><tr><td>Arabic No</td><td>4771</td></tr><tr><td>Reference</td><td>Book 42 Hadith 176</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [S
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a. şöyle demiştir: Mescid inşa edilmeden önce Nebi (Sallallahu aleyhi ve Sellem) koyun ağıllarında namaz kılardı. Tekrar: 428, 429, 1868, 2106, 2771, 2
+Enes r.a. şöyle demiştir: Mescid inşa edilmeden önce Nebi (Sallallahu aleyhi ve Sellem) koyun ağıllarında namaz kılardı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 4 Hadith 100</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Bisyir] tela
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sehl b. Hasme'nin şöyle dediği nakledilmiştir: Abdullah İbn Sehl ve Muhayyisa İbn Mes'ud Hayber'e gitmişlerdi. Onların oraya gittikleri gün onlarla aramızda sulh vardı. Tekrar: 3173, 6
+Sehl b. Hasme'nin şöyle dediği nakledilmiştir: Abdullah İbn Sehl ve Muhayyisa İbn Mes'ud Hayber'e gitmişlerdi. Onların oraya gittikleri gün onlarla aramızda sulh vardı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>2702</td></tr><tr><td>Reference</td><td>Book 53 Hadith 12</td></tr></tbody></table></div>
 

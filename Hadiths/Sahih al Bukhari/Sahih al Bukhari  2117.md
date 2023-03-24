@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah bin Ömer'den rivayet edildiğine göre bir adam Nebi Sallallahu Aleyhi ve Sellem'e yaptığı satım akitlerinde aldandığını söyledi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Karşı tarafa: ''Aldatmaca yok!'' de, buyurdu. Tekrar: 2
+Abdullah bin Ömer'den rivayet edildiğine göre bir adam Nebi Sallallahu Aleyhi ve Sellem'e yaptığı satım akitlerinde aldandığını söyledi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Karşı tarafa: ''Aldatmaca yok!'' de, buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2117</td></tr><tr><td>Arabic No</td><td>2117</td></tr><tr><td>Reference</td><td>Book 34 Hadith 70</td></tr></tbody></table></div>
 

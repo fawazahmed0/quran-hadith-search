@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Zaid bin Thabit:Abu Bakr sent for me and said, "You used to write the Divine Revelations for Allah's Messenger (ﷺ) : So you should search for (the Qur'an and collect) it." I started searching for the Qur'an till I found the last two Verses of Surat at-Tauba with Abi Khuza'ima Al-Ansari and I could not find these Verses with anybody other than him. (They were): 'Verily there has come unto you an Apostle (Muhammad) from amongst yourselves. It grieves him that you should receive any injury or difficulty .
+Narrated Zaid bin Thabit:Abu Bakr sent for me and said, "You used to write the Divine Revelations for Allah's Messenger (ﷺ) : So you should search for (the Qur'an and collect) it." I started searching for the Qur'an till I found the last two Verses of Surat at-Tauba with Abi Khuza'ima Al-Ansari and I could not find these Verses with anybody other than him. (They were): 'Verily there has come unto you an Apostle (Muhammad) from amongst yourselves. It grieves him that you should receive any injury or difficulty
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4989</td></tr><tr><td>Arabic No</td><td>4989</td></tr><tr><td>Reference</td><td>Book 66 Hadith 11</td></tr></tbody></table></div>
 

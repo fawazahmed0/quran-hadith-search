@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zührî şöyle demiştir: Enes İbn Mâlik bana şunu haber verdi: Resulullah (Sallallahu aleyhi ve Sellem) minbere çıktı. Abdullah İbn Huzâfe ayağa kalkarak "Benim babam kimdir?" diye sordu. Resûlullah Baban Huzâfe'dir" buyurdu. Sonra Nebi (Sallallahu aleyhi ve Sellem) "Bana sorunuz" sözünü çokça tekrarladı. Bunun üzerine Hz. Ömer dizleri üzerine oturarak şöyle dedi; "Biz Rab olarak Allah'tan, din olarak İslam'dan ve peygamber olarak da Muhammed'den razıyız. Tekrar: 540, 749, 4621, 6362, 6468, 6486, 7089, 7090, 7
+Zührî şöyle demiştir: Enes İbn Mâlik bana şunu haber verdi: Resulullah (Sallallahu aleyhi ve Sellem) minbere çıktı. Abdullah İbn Huzâfe ayağa kalkarak "Benim babam kimdir?" diye sordu. Resûlullah Baban Huzâfe'dir" buyurdu. Sonra Nebi (Sallallahu aleyhi ve Sellem) "Bana sorunuz" sözünü çokça tekrarladı. Bunun üzerine Hz. Ömer dizleri üzerine oturarak şöyle dedi; "Biz Rab olarak Allah'tan, din olarak İslam'dan ve peygamber olarak da Muhammed'den razıyız. Tekrar: 540, 749, 4621, 6
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>93</td></tr><tr><td>Arabic No</td><td>93</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
 

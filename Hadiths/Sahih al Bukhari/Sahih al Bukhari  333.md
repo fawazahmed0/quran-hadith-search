@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Hasan bin Mudrik] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Şeddâd'dan şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem)'in hanımı teyzem Meymûne (r.anha)'dan kendisinin hayız olduğunu, bu yüzden namaz kılmadığını, Nebi Sallallahu Aleyhi ve Sellem'in secdeye gittiği yerin kenarında yattığını ve seccade üzerinde namaz kılan Allah Resûlü (Sallallahu Aleyhi ve Sellem)'in elbisesinin bir tarafının kendisine değdiğini işittim. Tekrar; 379
+Abdullah İbn Şeddâd'dan şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem)'in hanımı teyzem Meymûne (r.anha)'dan kendisinin hayız olduğunu, bu yüzden namaz kılmadığını, Nebi Sallallahu Aleyhi ve Sellem'in secdeye gittiği yerin kenarında yattığını ve seccade üzerinde namaz kılan Allah Resûlü (Sallallahu Aleyhi ve Sellem)'in elbisesinin bir tarafının kendisine değdiğini işittim. Tekrar;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
 

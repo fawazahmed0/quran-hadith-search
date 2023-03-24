@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il bin Abdullah] berkata, telah menceritaka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ubeydullah bin Abdullah bin Utbe bin Mes'ud'un zikrettiğine göre Ab­dullah bin Abbas ona şunu haber vermiştir: "Resulullah sallallahu aleyhi ve sellem bir adam'a mektup göndermiş ve bunu Bahreyn'in büyüğüne (yöneticisine) vermesini emretmiştir. Bahreyn büyüğü de bunu Kisra'ya vermiştir. mektubu okuyunca yırtınıştı. (ibn Müseyyeb'in şöyle dediğini zanne­diyorum) Bunun üzerine Resûlullah (Sallallahu aleyhi ve Sellem) onların (ülke ve yönetimlerinin) parça parça olmaları için beddua etti. Tekrar: 2
+Ubeydullah bin Abdullah bin Utbe bin Mes'ud'un zikrettiğine göre Ab­dullah bin Abbas ona şunu haber vermiştir: "Resulullah sallallahu aleyhi ve sellem bir adam'a mektup göndermiş ve bunu Bahreyn'in büyüğüne (yöneticisine) vermesini emretmiştir. Bahreyn büyüğü de bunu Kisra'ya vermiştir. mektubu okuyunca yırtınıştı. (ibn Müseyyeb'in şöyle dediğini zanne­diyorum) Bunun üzerine Resûlullah (Sallallahu aleyhi ve Sellem) onların (ülke ve yönetimlerinin) parça parça olmaları için beddua etti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Arabic No</td><td>64</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
 

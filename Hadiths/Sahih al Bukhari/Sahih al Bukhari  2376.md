@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya İbn Said, "Enes'i şöyle söylerken işittim" demiştir: Resulullah Sallallahu Aleyhi ve Sellem Bahreyn'in bir kısmını ensarlılara tahsis (ikta') etmek istedi. Bunun üzerine ensarlı müslümanlar, "Bize verdiğin gibi muhacir kardeşlerimize de vermen şartıyla (kabul ederiz)" dediler. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Ben aranızdan ayrıldıktan sonra, insanların ene’ye (bencillik’e) düştüğünü göreceksiniz. Bu durumda bana kavuşana kadar sabredin" buyurmuştur. Tekrar: 2
+Yahya İbn Said, "Enes'i şöyle söylerken işittim" demiştir: Resulullah Sallallahu Aleyhi ve Sellem Bahreyn'in bir kısmını ensarlılara tahsis (ikta') etmek istedi. Bunun üzerine ensarlı müslümanlar, "Bize verdiğin gibi muhacir kardeşlerimize de vermen şartıyla (kabul ederiz)" dediler. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Ben aranızdan ayrıldıktan sonra, insanların ene’ye (bencillik’e) düştüğünü göreceksiniz. Bu durumda bana kavuşana kadar sabredin" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
 

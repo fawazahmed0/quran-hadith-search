@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad Al Ju'fi] berkata, telah 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbâs (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem vefatına kadar süren hastalık günlerinin birinde başına bir bez bağlayarak minber'e çıktı. Allah'a hamd-u senada bulunduktan sonra şöyle buyurdu: İnsanlar içinde Ebu Bekir İbn Ebî Kuhâfe kadar canı ve malıyla yanımda yer alan başka biri olmamıştır. Eğer insanlardan bir dost (halîl) edinecek olsaydım, elbette Ebu Bekir'i dost edinirdim. Ancak İslâm dostluğu ile sevgisi her şeyden üstündür. Ebu Bekir'in kapısı dışında, mescide açılan bütün kapılar kapansın! Tekrar: 3
+İbn Abbâs (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem vefatına kadar süren hastalık günlerinin birinde başına bir bez bağlayarak minber'e çıktı. Allah'a hamd-u senada bulunduktan sonra şöyle buyurdu: İnsanlar içinde Ebu Bekir İbn Ebî Kuhâfe kadar canı ve malıyla yanımda yer alan başka biri olmamıştır. Eğer insanlardan bir dost (halîl) edinecek olsaydım, elbette Ebu Bekir'i dost edinirdim. Ancak İslâm dostluğu ile sevgisi her şeyden üstündür. Ebu Bekir'in kapısı dışında, mescide açılan bütün kapılar kapansın! Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>467</td></tr><tr><td>Arabic No</td><td>467</td></tr><tr><td>Reference</td><td>Book 8 Hadith 115</td></tr></tbody></table></div>
 

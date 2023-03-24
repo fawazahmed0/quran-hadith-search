@@ -62,7 +62,7 @@ Telah berkata, Abu 'Abdullah; Dan berkata, kepadaku [Ibrahim] telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer'in r.a. azatlı kölesi Nafi' şöyle demiştir: "Döllenmiş olan hurma ağacı satıldığı zaman, meyvenin de satıma dahil olduğu söylenmemiş ise meyveler, ağacın döllenmesini sağlayan kimseye ait olur. Malı bulunan kölenin ve ekini bulunan tarlanın satılması da böyledir." Nafi' İbn Cüreyc'e bu üç hususu belirtmiştir. Tekrar: 2204, 2
+İbn Ömer'in r.a. azatlı kölesi Nafi' şöyle demiştir: "Döllenmiş olan hurma ağacı satıldığı zaman, meyvenin de satıma dahil olduğu söylenmemiş ise meyveler, ağacın döllenmesini sağlayan kimseye ait olur. Malı bulunan kölenin ve ekini bulunan tarlanın satılması da böyledir." Nafi' İbn Cüreyc'e bu üç hususu belirtmiştir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2203</td></tr><tr><td>Arabic No</td><td>2203</td></tr><tr><td>Reference</td><td>Book 34 Hadith 149</td></tr></tbody></table></div>
 

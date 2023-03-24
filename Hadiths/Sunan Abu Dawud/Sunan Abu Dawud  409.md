@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ali (r.a.)'den demiştir ki; Peygamber (Sallallahu aleyhi ve Sellem) Hendek günü, "Bizi orta namazından (yani) ikindi namazından alıkoydular. Allah (da) onların evlerine ve kabirlerine ateş doldursun" dedi. Diğer tahric: Buhari, Cihad, meğazi; Müslim mesacid: Tirmizî, tefsir-i sure; İbni Mace, salat; Nesai, salat, Ahmed b. Hanbe!, I, 79
+Ali (r.a.)'den demiştir ki; Peygamber (Sallallahu aleyhi ve Sellem) Hendek günü, "Bizi orta namazından (yani) ikindi namazından alıkoydular. Allah (da) onların evlerine ve kabirlerine ateş doldursun" dedi. Diğer tahric: Buhari, Cihad, meğazi; Müslim mesacid: Tirmizî, tefsir-i sure; İbni Mace, salat; Nesai, salat, Ahmed b. Hanbe!, I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2931) Sahih Muslim (627)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>409</td></tr><tr><td>Arabic No</td><td>409</td></tr><tr><td>Reference</td><td>Book 2 Hadith 19</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah r.a. şöyle dedi: Biz Mina'da bir mağarada Nebi Sallallahu Aleyhi ve Sellem ile birlikteyken kendisine "Mürselat" suresi indirildi. Nebi Sallallahu Aleyhi ve Sellem okuyor, ben de henüz okuması dolayısıyla ağzı kurumadan onun okuduklarını ezberliyordum. Birden üzerimize bir yılan sıçradı. Nebi Sallallahu Aleyhi ve Sellem: "Onu öldürün" buyurdu. Biz onu öldürmek için hemen davrandık ki yılan kaçtı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: "Siz onun şerrinden korunduğunuz gibi o da sizin şerrinizden korundu" buyurdu. Tekrar: 3317, 4
+Abdullah r.a. şöyle dedi: Biz Mina'da bir mağarada Nebi Sallallahu Aleyhi ve Sellem ile birlikteyken kendisine "Mürselat" suresi indirildi. Nebi Sallallahu Aleyhi ve Sellem okuyor, ben de henüz okuması dolayısıyla ağzı kurumadan onun okuduklarını ezberliyordum. Birden üzerimize bir yılan sıçradı. Nebi Sallallahu Aleyhi ve Sellem: "Onu öldürün" buyurdu. Biz onu öldürmek için hemen davrandık ki yılan kaçtı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: "Siz onun şerrinden korunduğunuz gibi o da sizin şerrinizden korundu" buyurdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1830</td></tr><tr><td>Arabic No</td><td>1830</td></tr><tr><td>Reference</td><td>Book 28 Hadith 10</td></tr></tbody></table></div>
 

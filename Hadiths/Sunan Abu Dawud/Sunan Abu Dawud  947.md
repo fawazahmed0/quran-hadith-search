@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Ya'qub bin Ka'b] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) namazda (ihtisâr'dan yani) eli böğüre koymaktan nehyetti. Ebû Dâvûd dedi ki: (İhtisar ile) böğüre el koymayı kastediyor. Diğer tahric: Buhârî, amel fi's-salat; Muslini, mesâcid; Nesâî, iftitâh; Tirmizi, salât; Dârimî, salât , Ahmed b. Hanbel, II, 232, 290
+Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) namazda (ihtisâr'dan yani) eli böğüre koymaktan nehyetti. Ebû Dâvûd dedi ki: (İhtisar ile) böğüre el koymayı kastediyor. Diğer tahric: Buhârî, amel fi's-salat; Muslini, mesâcid; Nesâî, iftitâh; Tirmizi, salât; Dârimî, salât , Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1220) Sahih Muslim (545)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>947</td></tr><tr><td>Arabic No</td><td>947</td></tr><tr><td>Reference</td><td>Book 2 Hadith 558</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Ubaid bin Maimun] telah mengabarka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem mescidde Kur'an okuyan birini duydu ve: "Allah ona merhamet etsin. Bana falanca sureden düşürdüğüm (unuttuğum) şu ayetleri hatırlattı" buyurdu. Abbad b. Abdullah, Aişe'nin şu sözünü de eklemiştir: "Rasulullah benim evimde teheccüd namazı kıldı, o sırada mescitten bir ses işitti. Bana dönüp: Aişe! Bu Abbad'ın sesi mi?" buyurdu. "evet" dedim. "Allahım! Abbad'a merhamet eyle" dedi. Tekrar: 5037, 5
+Aişe r.anha'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem mescidde Kur'an okuyan birini duydu ve: "Allah ona merhamet etsin. Bana falanca sureden düşürdüğüm (unuttuğum) şu ayetleri hatırlattı" buyurdu. Abbad b. Abdullah, Aişe'nin şu sözünü de eklemiştir: "Rasulullah benim evimde teheccüd namazı kıldı, o sırada mescitten bir ses işitti. Bana dönüp: Aişe! Bu Abbad'ın sesi mi?" buyurdu. "evet" dedim. "Allahım! Abbad'a merhamet eyle" dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2655</td></tr><tr><td>Arabic No</td><td>2655</td></tr><tr><td>Reference</td><td>Book 52 Hadith 19</td></tr></tbody></table></div>
 

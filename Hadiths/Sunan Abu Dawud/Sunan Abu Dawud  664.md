@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Hannad bin As-Sariy] dan [Abu 'Ashim bin Jawwas 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-el-Bera b. Azib (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) bir ucdan bir uc'a safların arasına girer, göğüslerimize ve omuzlarımıza dokunarak (bizi doğrultur) ve; "Eğri büğrü olmayınız ki kalbleriniz arasında ihtilaf olmasın, şüphesiz Allah ile melekler ilk saflara rahmet ve istiğfar ederler" buyurdu. Diğer tahric: Nesaî, imame; ezan; îbn Mace, ikame; Ahmed b. Hanbel, IV, 269, 284
+el-Bera b. Azib (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) bir ucdan bir uc'a safların arasına girer, göğüslerimize ve omuzlarımıza dokunarak (bizi doğrultur) ve; "Eğri büğrü olmayınız ki kalbleriniz arasında ihtilaf olmasın, şüphesiz Allah ile melekler ilk saflara rahmet ve istiğfar ederler" buyurdu. Diğer tahric: Nesaî, imame; ezan; îbn Mace, ikame; Ahmed b. Hanbel, IV
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>664</td></tr><tr><td>Arabic No</td><td>664</td></tr><tr><td>Reference</td><td>Book 2 Hadith 274</td></tr></tbody></table></div>
 

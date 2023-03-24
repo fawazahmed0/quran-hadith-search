@@ -52,7 +52,7 @@ Jabir said :when the prophet (ﷺ) became seriously ill, we prayed behind him wh
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) hastalandı, biz de o, oturduğu halde arkasında namaz'a durduk. Ebu Bekr (r.a.) Resul-i Ekrem (Sallallahu aleyhi ve Sellem)'in tekbirini cemaate duyurmak için tekbir getiriyordu." Sonra bir evvelki hadisi aynen nakletti. Diğer tahric: Buharî, salat; ezan; taksiru's-salat; sehv; merza; Müslim, salat; Tirrnizi,salat; Nesaî, eimme; iftitah; tatbik; İbn Mace, ikame; Darimî, salat; Muvatta, nida; cemaa; Ahmed b. Hanbel, II, 230, 314
+Cabir (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) hastalandı, biz de o, oturduğu halde arkasında namaz'a durduk. Ebu Bekr (r.a.) Resul-i Ekrem (Sallallahu aleyhi ve Sellem)'in tekbirini cemaate duyurmak için tekbir getiriyordu." Sonra bir evvelki hadisi aynen nakletti. Diğer tahric: Buharî, salat; ezan; taksiru's-salat; sehv; merza; Müslim, salat; Tirrnizi,salat; Nesaî, eimme; iftitah; tatbik; İbn Mace, ikame; Darimî, salat; Muvatta, nida; cemaa; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (413)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>606</td></tr><tr><td>Arabic No</td><td>606</td></tr><tr><td>Reference</td><td>Book 2 Hadith 216</td></tr></tbody></table></div>
 

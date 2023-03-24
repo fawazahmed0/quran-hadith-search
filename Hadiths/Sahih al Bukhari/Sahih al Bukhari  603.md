@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Imran bin Maisarah] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes (r.a.)'den şöyle nakledilmiştir: İnsanlara namaz vaktinin girdiğini duyurmak için ateş yakılmasını veya çan çalınmasını önerdiler. Bunların Yahudi ve Hıristiyan âdeti olduğu söylenerek bu önerilen reddedildi. Nihayet Bilal, ezanı çifter çifter, kameti de teker teker okumakla emrolundu. Tekrar: 605,
+Enes (r.a.)'den şöyle nakledilmiştir: İnsanlara namaz vaktinin girdiğini duyurmak için ateş yakılmasını veya çan çalınmasını önerdiler. Bunların Yahudi ve Hıristiyan âdeti olduğu söylenerek bu önerilen reddedildi. Nihayet Bilal, ezanı çifter çifter, kameti de teker teker okumakla emrolundu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>603</td></tr><tr><td>Arabic No</td><td>603</td></tr><tr><td>Reference</td><td>Book 10 Hadith 1</td></tr></tbody></table></div>
 

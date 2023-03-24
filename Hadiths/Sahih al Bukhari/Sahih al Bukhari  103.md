@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah mengabarkan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ebi Müleyke'nin belirttiğine göre Nebi (Sallallahu aleyhi ve Sellem)'in eşi Hz. Âişe (r.anha) bir şey duyduğu zaman onu anlamak için mutlaka sözü söyleyene baş vururdu. Nebi (Sallallahu aleyhi ve Sellem) Hesaba çekilene azap edilir" buyurdu. Hz. Âişe diyor ki: Bunun üzerine ben Nebi (Sallallahu aleyhi ve Sellem)'e Yüce Allah "(Amel defterini sağ tarafından alan kişi) yakında kolay bir şekilde hesaba çekilecek [İnşikak, 8] buyurmuyor mu? diye sordum. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Bu, yalnızca arzdır. Kim ince hesaba çekilirse helak olur. Tekrar: 4
+İbn Ebi Müleyke'nin belirttiğine göre Nebi (Sallallahu aleyhi ve Sellem)'in eşi Hz. Âişe (r.anha) bir şey duyduğu zaman onu anlamak için mutlaka sözü söyleyene baş vururdu. Nebi (Sallallahu aleyhi ve Sellem) Hesaba çekilene azap edilir" buyurdu. Hz. Âişe diyor ki: Bunun üzerine ben Nebi (Sallallahu aleyhi ve Sellem)'e Yüce Allah "(Amel defterini sağ tarafından alan kişi) yakında kolay bir şekilde hesaba çekilecek [İnşikak, 8] buyurmuyor mu? diye sordum. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Bu, yalnızca arzdır. Kim ince hesaba çekilirse helak olur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>103</td></tr><tr><td>Reference</td><td>Book 3 Hadith 45</td></tr></tbody></table></div>
 

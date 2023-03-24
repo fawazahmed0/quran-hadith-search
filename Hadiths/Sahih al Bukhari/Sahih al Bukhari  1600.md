@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ebû Evfa şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem umre ve tavaf yaptı. Sonra makam-ı ibrahim'in arkasında iki rekat namaz kıldı. Yanıbaşında kimselerin onu görmemesi için perde vazifesi yapan birisi de vardı." Adamın biri gelip bu şahsa Resulullah Sallallahu Aleyhi ve Sellem'in Kabe'ye girip girmediğini sordu. O da, "hayır" diye cevap verdi. Tekrar: 1
+Abdullah İbn Ebû Evfa şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem umre ve tavaf yaptı. Sonra makam-ı ibrahim'in arkasında iki rekat namaz kıldı. Yanıbaşında kimselerin onu görmemesi için perde vazifesi yapan birisi de vardı." Adamın biri gelip bu şahsa Resulullah Sallallahu Aleyhi ve Sellem'in Kabe'ye girip girmediğini sordu. O da, "hayır" diye cevap verdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1600</td></tr><tr><td>Arabic No</td><td>1600</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
 

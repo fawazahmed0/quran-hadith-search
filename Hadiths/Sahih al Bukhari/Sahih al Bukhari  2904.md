@@ -62,7 +62,7 @@ Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Su
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Ömer'in şöyle dediği nakledilmiştir: "Ben-i Nadir Yahudilerinden alınan malları Allah Teala Resulü’ne herhangi bir savaş olmadan bir ganimet (fey) olarak lutfetti. Müslümanlar bu malları elde etmek için ne at ne de deve koşturmak zorunda kaldılar. İşte bu mallar sırf Resul-i Ekrem Sallallahu Aleyhi ve Sellem'e ait kabul edildi. O da ailesinin bir yıllık nafakasını ayırdı ve kalan kısmı Allah yolunda cihada hazırlık olmak üzere silah alımı ve diğer askerı harcamalar için kullandı. " Tekrar: 3094, 4033, 4885, 5357, 5
+Hz. Ömer'in şöyle dediği nakledilmiştir: "Ben-i Nadir Yahudilerinden alınan malları Allah Teala Resulü’ne herhangi bir savaş olmadan bir ganimet (fey) olarak lutfetti. Müslümanlar bu malları elde etmek için ne at ne de deve koşturmak zorunda kaldılar. İşte bu mallar sırf Resul-i Ekrem Sallallahu Aleyhi ve Sellem'e ait kabul edildi. O da ailesinin bir yıllık nafakasını ayırdı ve kalan kısmı Allah yolunda cihada hazırlık olmak üzere silah alımı ve diğer askerı harcamalar için kullandı. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2904</td></tr><tr><td>Arabic No</td><td>2904</td></tr><tr><td>Reference</td><td>Book 56 Hadith 118</td></tr></tbody></table></div>
 

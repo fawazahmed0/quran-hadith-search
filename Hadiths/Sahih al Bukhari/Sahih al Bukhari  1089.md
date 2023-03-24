@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik (r.a.)'in şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem ile birlikte öğle namazını Medine'de dört, Zülhuleyfe'de ise iki rekat kıldım. Tekrar: 1546-1548, 1551, 1712, 1714, 1
+Enes İbn Malik (r.a.)'in şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem ile birlikte öğle namazını Medine'de dört, Zülhuleyfe'de ise iki rekat kıldım. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 18 Hadith 10</td></tr></tbody></table></div>
 

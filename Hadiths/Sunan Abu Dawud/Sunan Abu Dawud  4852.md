@@ -52,7 +52,7 @@ A similar tradition has been transmitted by Ibn 'Umar through a different chain 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Abdullah) İbn Ömer (radıyallahü anh)'den (rivâyet edildiğine göre) Resûlüllah (sallallahü aleyhi ve sellem) (bir önceki hadisin) bir benzerini ifade buyurmuştur. (Bu rivâyetin ravilerinden) Ebû Salih dedi ki: Ömer'e: (Bu iki kişinin fısıldattığı kişilerin sayısı en az) dört (ise o zaman da fısıldaşmak sakıncalı mıdır?) diye sordum da: (O zaman) " Sana zarar vermez" cevabını verdi. istizan 47; Ahmed b. Hanbel, II, 9, 4
+(Abdullah) İbn Ömer (radıyallahü anh)'den (rivâyet edildiğine göre) Resûlüllah (sallallahü aleyhi ve sellem) (bir önceki hadisin) bir benzerini ifade buyurmuştur. (Bu rivâyetin ravilerinden) Ebû Salih dedi ki: Ömer'e: (Bu iki kişinin fısıldattığı kişilerin sayısı en az) dört (ise o zaman da fısıldaşmak sakıncalı mıdır?) diye sordum da: (O zaman) " Sana zarar vermez" cevabını verdi. istizan 47; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4852</td></tr><tr><td>Arabic No</td><td>4852</td></tr><tr><td>Reference</td><td>Book 43 Hadith 80</td></tr></tbody></table></div>
 

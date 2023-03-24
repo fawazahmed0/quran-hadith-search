@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdurrahman bin Al Mubarak] telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muminlerin annesi Aişe r.anha şöyle demiştir: "Ey Allah'ın Resulü! Biliyoruz ki en faziletli amel cihad'dır. Peki biz cihad edemeyecek miyiz?" Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem), "Hayır, [siz kadınlar için] en faziletli cihad hacc-ı mebrur (kabul olunmuş hac) dır" buyurmuştur. Tekrar: 1861, 2
+Muminlerin annesi Aişe r.anha şöyle demiştir: "Ey Allah'ın Resulü! Biliyoruz ki en faziletli amel cihad'dır. Peki biz cihad edemeyecek miyiz?" Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem), "Hayır, [siz kadınlar için] en faziletli cihad hacc-ı mebrur (kabul olunmuş hac) dır" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 25 Hadith 8</td></tr></tbody></table></div>
 

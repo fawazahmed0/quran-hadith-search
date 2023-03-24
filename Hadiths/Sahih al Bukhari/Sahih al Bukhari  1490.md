@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyd İbn Eslem'in naklettiğine göre babası şöyle anlatır: "Ömer'i şöy­le söylerken işittim: "Allah için bir atı sadaka olarak vermiştim. Alan kimse ata bakamayıp güçsüz bıraktı. Ben de onu satın almak istedim. O kimsenin, İzin alarak sattığını zannettim. Durumu Resûlullah Sallallahu Aleyhi ve Sellem'e sorunca, bana, "Satın alma, onu sana bir dirheme verse bile asla verdiğin sadakaya geri dönme. Çünkü sadakasından geri dönen, kustuğunu geri ağzına alan gibidir" buyurmuştur. Tekrar: 2623, 2
+Zeyd İbn Eslem'in naklettiğine göre babası şöyle anlatır: "Ömer'i şöy­le söylerken işittim: "Allah için bir atı sadaka olarak vermiştim. Alan kimse ata bakamayıp güçsüz bıraktı. Ben de onu satın almak istedim. O kimsenin, İzin alarak sattığını zannettim. Durumu Resûlullah Sallallahu Aleyhi ve Sellem'e sorunca, bana, "Satın alma, onu sana bir dirheme verse bile asla verdiğin sadakaya geri dönme. Çünkü sadakasından geri dönen, kustuğunu geri ağzına alan gibidir" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 24 Hadith 90</td></tr></tbody></table></div>
 

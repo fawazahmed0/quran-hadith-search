@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Ömer r.a.'in naklettiğine göre Hafsa (r.anha) şöyle demiştir: "Ey Allah'ın Resulü! Umre'den sonra ihram'dan çıkanların durumu nedir? halbuki sen umre'den sonra ihram'dan çıkmadın?" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, "Ben saçlarımı dağılmaması için bir madde ile tutturdum ve hedy kurbanıma da gerdanlığını taktım. Bundan dolayı artık kurban kesinceye kadar ihram'dan çıkmayacağım" diye cevap verdi." Tekrar: 1697, 1
+İbn Ömer r.a.'in naklettiğine göre Hafsa (r.anha) şöyle demiştir: "Ey Allah'ın Resulü! Umre'den sonra ihram'dan çıkanların durumu nedir? halbuki sen umre'den sonra ihram'dan çıkmadın?" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, "Ben saçlarımı dağılmaması için bir madde ile tutturdum ve hedy kurbanıma da gerdanlığını taktım. Bundan dolayı artık kurban kesinceye kadar ihram'dan çıkmayacağım" diye cevap verdi." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1566</td></tr><tr><td>Arabic No</td><td>1566</td></tr><tr><td>Reference</td><td>Book 25 Hadith 52</td></tr></tbody></table></div>
 

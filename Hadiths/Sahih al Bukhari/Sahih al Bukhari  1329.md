@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin AL Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a. şöyle dedi: "Yahudiler, kendilerinden zina etmiş olan bir erkek ve kadını Nebi Sallallahu Aleyhi ve Sellem'e getirdiler. Nebi (Sallallahu aleyhi ve Sellem) onların recmedilmesini emretti. Bunun üzerine mescid'de cenazelerin bulunduğu yere yakın bir yerde recmedildiler. Tekrarı: 3635, 4556, 7819, 6
+Abdullah İbn Ömer r.a. şöyle dedi: "Yahudiler, kendilerinden zina etmiş olan bir erkek ve kadını Nebi Sallallahu Aleyhi ve Sellem'e getirdiler. Nebi (Sallallahu aleyhi ve Sellem) onların recmedilmesini emretti. Bunun üzerine mescid'de cenazelerin bulunduğu yere yakın bir yerde recmedildiler. Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1329</td></tr><tr><td>Arabic No</td><td>1329</td></tr><tr><td>Reference</td><td>Book 23 Hadith 84</td></tr></tbody></table></div>
 

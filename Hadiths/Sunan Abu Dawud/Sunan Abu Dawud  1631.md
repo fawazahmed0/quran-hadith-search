@@ -52,7 +52,7 @@ Abu Hurairah reported Messenger of Allah (May peace be upon him) as saying :The 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) şöyle buyurdu: "Miskin, bir iki hurma veya bir-iki lokma ile geri çevrilen (dilenci) değildir. (Asıl) Miskin, insanlardan bir şey istemeyen ve onlar tarafından hali bilinmediği için kendisine (bir şey) verilmeyen kimsedir." Diğer tahric: Buhari, zekât; Müslim, zekât; Nesaî, zekât; Ahmed b. Hanbel, I, 384, 446; II, 260
+Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) şöyle buyurdu: "Miskin, bir iki hurma veya bir-iki lokma ile geri çevrilen (dilenci) değildir. (Asıl) Miskin, insanlardan bir şey istemeyen ve onlar tarafından hali bilinmediği için kendisine (bir şey) verilmeyen kimsedir." Diğer tahric: Buhari, zekât; Müslim, zekât; Nesaî, zekât; Ahmed b. Hanbel, I, 384, 446; II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1631</td></tr><tr><td>Arabic No</td><td>1631</td></tr><tr><td>Reference</td><td>Book 9 Hadith 76</td></tr></tbody></table></div>
 

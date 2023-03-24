@@ -62,7 +62,7 @@ Telah mengabarkan kepada kami [Muhammad Ibnu Salam], Telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Bürde'nin babasından (Ebu Musa el-Eş'ari r.a.) rivayet ettiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Üç kişinin ikişer (iki kat) sevabı vardır: Ehl-i kitaptan (Yahudi ve Hıristiyanlardan) olup, hem kendi Nebilerine hem de Muhammede sallallahu aleyhi ve sellem'e inanan kişi, hem Allah'ın hem de efendilerinin hakkını yerine getiren köle, bir cariyesi olup da onu güzelce terbiye eden ve ona güzelce (İlim) Öğreten sonra da onu azat ederek onunla evlenen kişi. Tekrar: 2544, 2547, 2551, 3
+Ebu Bürde'nin babasından (Ebu Musa el-Eş'ari r.a.) rivayet ettiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Üç kişinin ikişer (iki kat) sevabı vardır: Ehl-i kitaptan (Yahudi ve Hıristiyanlardan) olup, hem kendi Nebilerine hem de Muhammede sallallahu aleyhi ve sellem'e inanan kişi, hem Allah'ın hem de efendilerinin hakkını yerine getiren köle, bir cariyesi olup da onu güzelce terbiye eden ve ona güzelce (İlim) Öğreten sonra da onu azat ederek onunla evlenen kişi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>97</td></tr><tr><td>Arabic No</td><td>97</td></tr><tr><td>Reference</td><td>Book 3 Hadith 39</td></tr></tbody></table></div>
 

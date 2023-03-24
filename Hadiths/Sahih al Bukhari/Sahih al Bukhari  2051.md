@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nu'man İbn Beşîr r.a., Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: "Helal bellidir, haram da bellidir. Bu ikisi arasında şüpheli olan bazı şeyler vardır. Kim günah olup olmadığı şüpheli olan bir şeyi terk ederse, günah olduğu kesin olan bir şeyi daha çok terk eder. Kim günah olup olmadığı şüpheli olan bir şeye karşı cür'et ederse, günah olduğu kesin olan bir şeye düşebilir. Günahlar Allah'ın koruluğudur. Kim koruluğun etrafında koyun otlatırsa çok geçmeden koyunlar koruluğa dalabilir." Tekrar: 2218, 2421, 2533, 2745, 4303, 6749, 6
+Nu'man İbn Beşîr r.a., Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: "Helal bellidir, haram da bellidir. Bu ikisi arasında şüpheli olan bazı şeyler vardır. Kim günah olup olmadığı şüpheli olan bir şeyi terk ederse, günah olduğu kesin olan bir şeyi daha çok terk eder. Kim günah olup olmadığı şüpheli olan bir şeye karşı cür'et ederse, günah olduğu kesin olan bir şeye düşebilir. Günahlar Allah'ın koruluğudur. Kim koruluğun etrafında koyun otlatırsa çok geçmeden koyunlar koruluğa dalabilir." Tekrar: 2218, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2051</td></tr><tr><td>Arabic No</td><td>2051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 5</td></tr></tbody></table></div>
 

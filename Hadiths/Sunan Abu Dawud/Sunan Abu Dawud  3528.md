@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Umâre b. Umeyr'in, halasından rivayet ettiğine göre; o (Umâre'nin halası); Hz. Âişe (r.anha) ya: Kucağımda bir yetim var, onun malından yiyebilir miyim? diye sordu. Âişe (r.anha) de: Rasûlullah (Sallallahu aleyhi ve Sellem): "İnsanın yediği şeylerin en temizi kendi kazancından olanıdır ve kişinin çocuğu onun kazanandandır" buyurdu, dedi. Diğer tahric: Nesai, buyu'; İbn Mace, ticarât; Darimî, buyu'; Ahmed b. Hanbel, VI, 31, 42
+Umâre b. Umeyr'in, halasından rivayet ettiğine göre; o (Umâre'nin halası); Hz. Âişe (r.anha) ya: Kucağımda bir yetim var, onun malından yiyebilir miyim? diye sordu. Âişe (r.anha) de: Rasûlullah (Sallallahu aleyhi ve Sellem): "İnsanın yediği şeylerin en temizi kendi kazancından olanıdır ve kişinin çocuğu onun kazanandandır" buyurdu, dedi. Diğer tahric: Nesai, buyu'; İbn Mace, ticarât; Darimî, buyu'; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3528</td></tr><tr><td>Arabic No</td><td>3528</td></tr><tr><td>Reference</td><td>Book 24 Hadith 113</td></tr></tbody></table></div>
 

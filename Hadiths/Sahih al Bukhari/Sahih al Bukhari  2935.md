@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Ham
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha anlatıyor: Bir defasında Yahudiler Nebi Sallallahu Aleyhi ve Sellem'e gelerek: "Es-Samu Aleyke (= Ölüm senin üzerine olsun)!" dediler. Ben bunu duyunca onlara la'net okumaya başladım. Resulullah Sallallahu Aleyhi ve Sellem bana: "Ne oldu, niye böyle la'net okuyorsun?" deyince ben: "Sen onların ne dediklerini duymadın herhalde!?" dedim. Resulullah Sallallahu Aleyhi ve Sellem da: "Sen de benim dediğimi duymadın galiba. Ben de onlara: "ve alekum (= Sizin üzerinize de)" dedim." Tekrar: 6024, 6030, 6256, 6
+Aişe r.anha anlatıyor: Bir defasında Yahudiler Nebi Sallallahu Aleyhi ve Sellem'e gelerek: "Es-Samu Aleyke (= Ölüm senin üzerine olsun)!" dediler. Ben bunu duyunca onlara la'net okumaya başladım. Resulullah Sallallahu Aleyhi ve Sellem bana: "Ne oldu, niye böyle la'net okuyorsun?" deyince ben: "Sen onların ne dediklerini duymadın herhalde!?" dedim. Resulullah Sallallahu Aleyhi ve Sellem da: "Sen de benim dediğimi duymadın galiba. Ben de onlara: "ve alekum (= Sizin üzerinize de)" dedim." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2935</td></tr><tr><td>Arabic No</td><td>2935</td></tr><tr><td>Reference</td><td>Book 56 Hadith 148</td></tr></tbody></table></div>
 

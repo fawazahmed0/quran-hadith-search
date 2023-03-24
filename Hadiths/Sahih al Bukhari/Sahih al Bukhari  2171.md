@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem müzabeneyi yasakladı. Müzabene, yaş hurma'nın kuru hurma karşılığında ölçekle, yaş üzümün kuru üzüm karşılığında ölçekle satılmasıdır. Tekrar: 2
+Abdullah İbn Ömer r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem müzabeneyi yasakladı. Müzabene, yaş hurma'nın kuru hurma karşılığında ölçekle, yaş üzümün kuru üzüm karşılığında ölçekle satılmasıdır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2171</td></tr><tr><td>Arabic No</td><td>2171</td></tr><tr><td>Reference</td><td>Book 34 Hadith 122</td></tr></tbody></table></div>
 

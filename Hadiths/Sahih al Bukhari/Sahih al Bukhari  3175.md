@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hz. Aişe'nin naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem'e büyü yapılmıştı. Hatta bu yüzden aslında hiç yapmadığı bazı şeyleri yaptığını zannediyordu. Tekrar: 2268, 5763, 5765, 5
+Hz. Aişe'nin naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem'e büyü yapılmıştı. Hatta bu yüzden aslında hiç yapmadığı bazı şeyleri yaptığını zannediyordu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3175</td></tr><tr><td>Arabic No</td><td>3175</td></tr><tr><td>Reference</td><td>Book 58 Hadith 17</td></tr></tbody></table></div>
 

@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) Ebu Bekr, Ömer ve Osman (namazda) kıraata El-hamdulillahi rabbil alemin ile başlarlardı. Diğer tahric: Buharî, ezan; Tirmızî, Mevakît; îbn Ma'ce İkame, Müslim, salat; Darımî, salat; Ahmed b. Hanbel, III, 101
+Enes (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) Ebu Bekr, Ömer ve Osman (namazda) kıraata El-hamdulillahi rabbil alemin ile başlarlardı. Diğer tahric: Buharî, ezan; Tirmızî, Mevakît; îbn Ma'ce İkame, Müslim, salat; Darımî, salat; Ahmed b. Hanbel, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (743) Sahih Muslim (399)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 2 Hadith 392</td></tr></tbody></table></div>
 

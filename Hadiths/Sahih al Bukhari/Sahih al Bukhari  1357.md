@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle demiştir: Ben ve annem müstezaflardan idik. Ben çocuklardan, annem ise kadınlardan (müstezaflardan) idi. Tekrar: 4
+İbn Abbas r.a. şöyle demiştir: Ben ve annem müstezaflardan idik. Ben çocuklardan, annem ise kadınlardan (müstezaflardan) idi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1357</td></tr><tr><td>Arabic No</td><td>1357</td></tr><tr><td>Reference</td><td>Book 23 Hadith 110</td></tr></tbody></table></div>
 

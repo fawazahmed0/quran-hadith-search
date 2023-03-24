@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdurrahman İbn Yezîd şöyle dedi: Abdullah b. Mes'ud, vadinin alt yanından şeytanı taşladı. Ben: Ey Ebu Abdurrahman! İnsanlar vadinin üst tarafından taşlıyor, dedim. Abdullah b. Mes'ud şöyle dedi: Kendisinden başka ilah olmayan Allah'a yemin ederim ki burası el-Bakara suresinin indirildiği yerdir. Tekrar: 1
+Abdurrahman İbn Yezîd şöyle dedi: Abdullah b. Mes'ud, vadinin alt yanından şeytanı taşladı. Ben: Ey Ebu Abdurrahman! İnsanlar vadinin üst tarafından taşlıyor, dedim. Abdullah b. Mes'ud şöyle dedi: Kendisinden başka ilah olmayan Allah'a yemin ederim ki burası el-Bakara suresinin indirildiği yerdir. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1747</td></tr><tr><td>Arabic No</td><td>1747</td></tr><tr><td>Reference</td><td>Book 25 Hadith 225</td></tr></tbody></table></div>
 

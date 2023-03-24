@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bera b. Azib (r.a.) demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem)'e deve yataklarında namaz kılmanın hükmü soruldu. Nebî (Sallallahu aleyhi ve Sellem): "Deve yataklarında namaz kılmayınız. Çünkü develer şeytanlardandır" buyurdu. Koyun ağıllarında namaz kılmanın hükmü sorulunca da: "Oralarda kılınız, çünkü onlar berekettir" karşılığını verdi. Diğer tahric: Müslim, hayz; Ebu Davud, tahare; Ahmed b. Hanbel, IV, 150, 288, 352, V; 57,
+Bera b. Azib (r.a.) demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem)'e deve yataklarında namaz kılmanın hükmü soruldu. Nebî (Sallallahu aleyhi ve Sellem): "Deve yataklarında namaz kılmayınız. Çünkü develer şeytanlardandır" buyurdu. Koyun ağıllarında namaz kılmanın hükmü sorulunca da: "Oralarda kılınız, çünkü onlar berekettir" karşılığını verdi. Diğer tahric: Müslim, hayz; Ebu Davud, tahare; Ahmed b. Hanbel, IV, 150, 288, 352, V;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>493</td></tr><tr><td>Arabic No</td><td>493</td></tr><tr><td>Reference</td><td>Book 2 Hadith 103</td></tr></tbody></table></div>
 

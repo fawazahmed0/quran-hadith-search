@@ -62,7 +62,7 @@ Narrated Aisha:Whoever claimed that (the Prophet) Muhammad saw his Lord, is comm
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe radiyallahu anha'nın şöyle dediği nakledilmiştir: "Kim Muhammed'in, Rabbini gördüğünü ileri sürüyorsa şüphesiz çok aşırı bir düşünceye saplanmıştır. Ancak Resulullah Sallallahu Aleyhi ve Sellem, Cebrail'i bütün bir ufku kaplamış şekilde kendi aslı suretinde ve yaratılışında görmüştür." Tekrar: 4612, 4
+Aişe radiyallahu anha'nın şöyle dediği nakledilmiştir: "Kim Muhammed'in, Rabbini gördüğünü ileri sürüyorsa şüphesiz çok aşırı bir düşünceye saplanmıştır. Ancak Resulullah Sallallahu Aleyhi ve Sellem, Cebrail'i bütün bir ufku kaplamış şekilde kendi aslı suretinde ve yaratılışında görmüştür." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3234</td></tr><tr><td>Arabic No</td><td>3234</td></tr><tr><td>Reference</td><td>Book 59 Hadith 45</td></tr></tbody></table></div>
 

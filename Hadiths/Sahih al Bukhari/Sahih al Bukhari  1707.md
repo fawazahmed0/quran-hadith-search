@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ali radiyallahu anh şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem kestiğim hedy hayvanının üzerinde bulunan heybeyi ve hayvan'ın derisini tasadduk etmemi emretti. Tekrar: 1716,
+Ali radiyallahu anh şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem kestiğim hedy hayvanının üzerinde bulunan heybeyi ve hayvan'ın derisini tasadduk etmemi emretti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1707</td></tr><tr><td>Arabic No</td><td>1707</td></tr><tr><td>Reference</td><td>Book 25 Hadith 185</td></tr></tbody></table></div>
 

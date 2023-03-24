@@ -72,7 +72,7 @@ Dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. Rumh rivayet etti (Dedi ki) Bize Leys, haber verdi. H. Bize Kuteybetüb'nü Saîd de rivayet etti. (Dediki): Bize Leys, Yezld b. Ebi Habib'den, o da Ca'ferden, o da. Irak'dan, o da Urve'den, o da Aişe'den naklen rivayet etti. Ki Aişe söyle demiş: Ümmü Habibe, Resulullah (Sallallahu aleyhi ve Sellem)'e kan'a dair soru sordu. Aişe: Ben onun (içinde yıkandığı) leğenini kanla dolmuş gördüm, dedi. Resulullah (Sallallahu aleyhi ve Sellem) ona: ''4y halin seni alıkoyduğu kadar bir süre bekle sonra guslet ve namaz kıl" buyurdu. Diğer tahric: Ebu Davud, 279; Nesai, 207
+Bize Muhammed b. Rumh rivayet etti (Dedi ki) Bize Leys, haber verdi. H. Bize Kuteybetüb'nü Saîd de rivayet etti. (Dediki): Bize Leys, Yezld b. Ebi Habib'den, o da Ca'ferden, o da. Irak'dan, o da Urve'den, o da Aişe'den naklen rivayet etti. Ki Aişe söyle demiş: Ümmü Habibe, Resulullah (Sallallahu aleyhi ve Sellem)'e kan'a dair soru sordu. Aişe: Ben onun (içinde yıkandığı) leğenini kanla dolmuş gördüm, dedi. Resulullah (Sallallahu aleyhi ve Sellem) ona: ''4y halin seni alıkoyduğu kadar bir süre bekle sonra guslet ve namaz kıl" buyurdu. Diğer tahric: Ebu Davud, 279; Nesai
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>759</td></tr><tr><td>Arabic No</td><td>334.05</td></tr><tr><td>Reference</td><td>Book 3 Hadith 81</td></tr></tbody></table></div>
 

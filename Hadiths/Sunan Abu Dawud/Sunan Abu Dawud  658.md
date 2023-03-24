@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik (r.a.)'den şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem) Ümmü Süleym'i (zaman zaman) ziyaret ederdi, bazan (da bu ziyaret esnasında) namaz (vakti) girerdi. Resul-i Ek­rem (Sallallahu aleyhi ve Sellem) de bize ait ve suyla yıkanmış hasırdan ibaret olan bir sergi üzerine namaz(ını) kılardı. Diğer tahric: Buharî, salat, ezan; Müslim, mesacid; Tirmizî, salat; Nesaî, imame; Darimî, salat; Muvatta', sefer; Ahmed b. Hanbel, III, 131
+Enes b. Malik (r.a.)'den şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem) Ümmü Süleym'i (zaman zaman) ziyaret ederdi, bazan (da bu ziyaret esnasında) namaz (vakti) girerdi. Resul-i Ek­rem (Sallallahu aleyhi ve Sellem) de bize ait ve suyla yıkanmış hasırdan ibaret olan bir sergi üzerine namaz(ını) kılardı. Diğer tahric: Buharî, salat, ezan; Müslim, mesacid; Tirmizî, salat; Nesaî, imame; Darimî, salat; Muvatta', sefer; Ahmed b. Hanbel, III
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>658</td></tr><tr><td>Arabic No</td><td>658</td></tr><tr><td>Reference</td><td>Book 2 Hadith 268</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Narrated Jabir:The Prophet (ﷺ) said, "When nightfalls, then keep your children
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir İbn Abdullah r.a.'ın naklettiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Gece karanlığı bastırınca çocuklarınızı kesinlikle dışarıya bırakmayın! Çünkü bu vakitte şeytanlar cirit atar. Yatsı vaktinin üzerinden bir süre geçince artık çocuklarınızı evde tutun! Besmele çekerek kapınızı kapatın! Besmele çekerek ışığınızı söndürün! Besmele çekerek su kaplarının ağzını kapatın! Ve her ne ile olursa olsun kap kacağın ağzını besmele çekerek örtün!" Tekrar: 3304, 3316, 5623, 5
+Cabir İbn Abdullah r.a.'ın naklettiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Gece karanlığı bastırınca çocuklarınızı kesinlikle dışarıya bırakmayın! Çünkü bu vakitte şeytanlar cirit atar. Yatsı vaktinin üzerinden bir süre geçince artık çocuklarınızı evde tutun! Besmele çekerek kapınızı kapatın! Besmele çekerek ışığınızı söndürün! Besmele çekerek su kaplarının ağzını kapatın! Ve her ne ile olursa olsun kap kacağın ağzını besmele çekerek örtün!" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3280</td></tr><tr><td>Arabic No</td><td>3280</td></tr><tr><td>Reference</td><td>Book 59 Hadith 89</td></tr></tbody></table></div>
 

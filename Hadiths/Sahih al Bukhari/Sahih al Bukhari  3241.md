@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Salm bin
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İmran İbn Husayn r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Ben cenneti gördüm ve oradakilerin çoğunun fakirler olduğunu fark ettim. Cehennemi de gördüm ve oradakilerin çoğunun kadınlar olduğunu gördüm." Tekrar: 5
+İmran İbn Husayn r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Ben cenneti gördüm ve oradakilerin çoğunun fakirler olduğunu fark ettim. Cehennemi de gördüm ve oradakilerin çoğunun kadınlar olduğunu gördüm." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3241</td></tr><tr><td>Arabic No</td><td>3241</td></tr><tr><td>Reference</td><td>Book 59 Hadith 52</td></tr></tbody></table></div>
 

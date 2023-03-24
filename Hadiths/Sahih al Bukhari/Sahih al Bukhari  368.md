@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qabishah bin 'Uqbah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre'den şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) limâs ve nibâz satışı ile sammâ şeklinde örtünmeyi ve insanların bir parça elbise içinde dizlerini kırarak kaba eti üzerine oturmasını yasakladı. Tekrar; 584, 588, 1992, 2145, 2
+Ebu Hureyre'den şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) limâs ve nibâz satışı ile sammâ şeklinde örtünmeyi ve insanların bir parça elbise içinde dizlerini kırarak kaba eti üzerine oturmasını yasakladı. Tekrar;
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>368</td></tr><tr><td>Arabic No</td><td>368</td></tr><tr><td>Reference</td><td>Book 8 Hadith 20</td></tr></tbody></table></div>
 

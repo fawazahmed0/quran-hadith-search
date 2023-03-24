@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir (r.a.) şöyle demiştir: Babam (Uhud savaşında) öldürüldüğünde ben onun yüzünü açıp ağlıyordum, Müslümanlar benim böyle yapmamı engelledikleri halde, Nebi Sallallahu Aleyhi ve Sellem beni engellemiyordu. Halam Fatima ağlıyordu. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Ağlasan da ağlamasan da siz cenazeyi kaldrıncaya kadar melekler onu kanatlarıyla gölgeliyorlar. Tekrar: 1
+Cabir (r.a.) şöyle demiştir: Babam (Uhud savaşında) öldürüldüğünde ben onun yüzünü açıp ağlıyordum, Müslümanlar benim böyle yapmamı engelledikleri halde, Nebi Sallallahu Aleyhi ve Sellem beni engellemiyordu. Halam Fatima ağlıyordu. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Ağlasan da ağlamasan da siz cenazeyi kaldrıncaya kadar melekler onu kanatlarıyla gölgeliyorlar. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1244</td></tr><tr><td>Arabic No</td><td>1244</td></tr><tr><td>Reference</td><td>Book 23 Hadith 7</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepad
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'dan rivayet edilmiştir: Aişe, odasındaki bir raf'a resimli bir perde takmıştı. Hz. Nebi onu yırttı. Bunun üzerine Aişe onun kumaşından iki minder yaptı. O minderler odada dururdu ve Hz. Nebi üzerinde otururdu. Tekrar: 5
+Aişe r.anha'dan rivayet edilmiştir: Aişe, odasındaki bir raf'a resimli bir perde takmıştı. Hz. Nebi onu yırttı. Bunun üzerine Aişe onun kumaşından iki minder yaptı. O minderler odada dururdu ve Hz. Nebi üzerinde otururdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>2479</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle rivayet etmiştir: "Resulullah kurbanlık deve götüren birini gördü. Ona, "Bin o'na" buyurdu. Adam, "O kurbanlık devedir" dedi. Hz. Nebi (tekrar): "Bin ona" buyurdu. Adam yine, "O kurbanlık devedir" dedi. Bunun üzerine Resulullah (Sallallahu aleyhi ve Sellem) ikinci veya üçünjsü defasında, "Yazık sana, bin şu deveye!" buyurdu. Tekrarı : 1
+Ebu Hureyre r.a. şöyle rivayet etmiştir: "Resulullah kurbanlık deve götüren birini gördü. Ona, "Bin o'na" buyurdu. Adam, "O kurbanlık devedir" dedi. Hz. Nebi (tekrar): "Bin ona" buyurdu. Adam yine, "O kurbanlık devedir" dedi. Bunun üzerine Resulullah (Sallallahu aleyhi ve Sellem) ikinci veya üçünjsü defasında, "Yazık sana, bin şu deveye!" buyurdu. Tekrarı :
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 25 Hadith 168</td></tr></tbody></table></div>
 

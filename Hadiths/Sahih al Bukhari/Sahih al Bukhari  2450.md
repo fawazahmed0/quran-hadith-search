@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhamamad] telah mengabarkan kepada kami ['Abdul
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'dan nakledilmiştir: Hz. Aişe, "Eğer bir kadın kocasının geçimsizliğinden veya kendisinden yüz çevirmesinden endişe ederse aralarında bir sulh yapmalarında onlara bir günah yoktur" (Nisa 128) ayetinin iniş sebebi hakkında şöyle demiştir: Evli bir erkek eşiyle aynı evde oturuyordu. Ancak onunla çokça cinsel ilişkiye girmiyor ve ondan ayrılmak istiyordu. Bunun üzerine eşi "Sana kendimle ilgili bütün haklarımı helal ediyorum" demişti. Bunun üzerine bu ayet indi. Tekrar: 2
+Aişe r.anha'dan nakledilmiştir: Hz. Aişe, "Eğer bir kadın kocasının geçimsizliğinden veya kendisinden yüz çevirmesinden endişe ederse aralarında bir sulh yapmalarında onlara bir günah yoktur" (Nisa 128) ayetinin iniş sebebi hakkında şöyle demiştir: Evli bir erkek eşiyle aynı evde oturuyordu. Ancak onunla çokça cinsel ilişkiye girmiyor ve ondan ayrılmak istiyordu. Bunun üzerine eşi "Sana kendimle ilgili bütün haklarımı helal ediyorum" demişti. Bunun üzerine bu ayet indi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2450</td></tr><tr><td>Arabic No</td><td>2450</td></tr><tr><td>Reference</td><td>Book 46 Hadith 11</td></tr></tbody></table></div>
 

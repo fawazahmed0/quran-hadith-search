@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Abdul Malik bin Marwan Al Ahwazi] telah mencerit
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Mes'ud'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem); "Biriniz rüku'a vardığı zaman üç kere "sübhane rabbiyye'l-azîm'' desin. Bu (rükü'daki tesbihin) en aşağısıdır. Secdeye vardığı zaman da üç kere "Sübhane ranbiye'l-a'la" desin. Bu da (secdedeki tesbihin) en aşağısıdır.” Ebu Davud dedi ki: Bu (hadis) mürseldir. (Çünkü) Avn, Abdul­lah ile buluşmamıştır. Diğer tahric: Tirnıızi, mevakit; deavat; İbn Mace, ikame; Darimi, salat; Ahmed b. Hanbel, I, 232, 371; V, 382, 384, 389
+Abdullah b. Mes'ud'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem); "Biriniz rüku'a vardığı zaman üç kere "sübhane rabbiyye'l-azîm'' desin. Bu (rükü'daki tesbihin) en aşağısıdır. Secdeye vardığı zaman da üç kere "Sübhane ranbiye'l-a'la" desin. Bu da (secdedeki tesbihin) en aşağısıdır.” Ebu Davud dedi ki: Bu (hadis) mürseldir. (Çünkü) Avn, Abdul­lah ile buluşmamıştır. Diğer tahric: Tirnıızi, mevakit; deavat; İbn Mace, ikame; Darimi, salat; Ahmed b. Hanbel, I, 232, 371; V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>886</td></tr><tr><td>Arabic No</td><td>886</td></tr><tr><td>Reference</td><td>Book 2 Hadith 496</td></tr></tbody></table></div>
 

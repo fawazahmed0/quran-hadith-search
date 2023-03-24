@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. Hz. Nebi'i Arafatta hutbe okurken işittiğini söylemiştir. Hadisin geçtiği diğer yerler: 1812, 1841, 1
+İbn Abbas r.a. Hz. Nebi'i Arafatta hutbe okurken işittiğini söylemiştir. Hadisin geçtiği diğer yerler:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1740</td></tr><tr><td>Arabic No</td><td>1740</td></tr><tr><td>Reference</td><td>Book 25 Hadith 218</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Juwa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a.'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem bir defasında ayağa kalkıp hitap ederken Hz. Aişe'nin evinin bulunduğu tarafa işaret ederek üç defa şöyle buyurdu: "Fitne işte oralardan, şeytanın taraftarlarının doğduğu yerden ortaya çıkacak. " Tekrar: 3279, 3511, 5
+Abdullah İbn Ömer r.a.'in şöyle dediği nakledilmiştir: "Resulullah Sallallahu Aleyhi ve Sellem bir defasında ayağa kalkıp hitap ederken Hz. Aişe'nin evinin bulunduğu tarafa işaret ederek üç defa şöyle buyurdu: "Fitne işte oralardan, şeytanın taraftarlarının doğduğu yerden ortaya çıkacak. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3104</td></tr><tr><td>Arabic No</td><td>3104</td></tr><tr><td>Reference</td><td>Book 57 Hadith 13</td></tr></tbody></table></div>
 

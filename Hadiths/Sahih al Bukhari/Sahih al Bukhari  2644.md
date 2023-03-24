@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] t
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'dan rivayet edilmiştir: Eflah benim yanıma girmek için müsaade istedi. Ben müsaade vermedim. Bunun üzerine Eflah: "Benden mi saklanıyorsun? Ben senin amcanım" dedi. "Bu nasılolur!" dedim. "Kardeşimin hanım ı seni kardeşimin sütüyle emzirmişti" dedi. Allah Resulü Sallallahu Aleyhi ve Sellem'e bunun doğru olup olmadığını sordum. O da: "Eflah doğru söylüyor, ona müsaade ver" buyurdu. Tekrar 4796, 5103, 5
+Aişe r.anha'dan rivayet edilmiştir: Eflah benim yanıma girmek için müsaade istedi. Ben müsaade vermedim. Bunun üzerine Eflah: "Benden mi saklanıyorsun? Ben senin amcanım" dedi. "Bu nasılolur!" dedim. "Kardeşimin hanım ı seni kardeşimin sütüyle emzirmişti" dedi. Allah Resulü Sallallahu Aleyhi ve Sellem'e bunun doğru olup olmadığını sordum. O da: "Eflah doğru söylüyor, ona müsaade ver" buyurdu. Tekrar
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2644</td></tr><tr><td>Arabic No</td><td>2644</td></tr><tr><td>Reference</td><td>Book 52 Hadith 8</td></tr></tbody></table></div>
 

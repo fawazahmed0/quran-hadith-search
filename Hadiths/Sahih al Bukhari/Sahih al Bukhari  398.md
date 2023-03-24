@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ishaq bin Nashr] berkata, telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Atâ, İbn Abbâs'ın şöyle dediğini nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem Ka'be'ye girince her tarafında dua ederdi. Sonra namaz kılmadan oradan çıkardı. Çıktıktan sonra Ka'be'nin ön tarafında iki rek'at namaz kılardı. Bu, onun kıblesiydi. Tekrar: 1601, 3
+Atâ, İbn Abbâs'ın şöyle dediğini nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem Ka'be'ye girince her tarafında dua ederdi. Sonra namaz kılmadan oradan çıkardı. Çıktıktan sonra Ka'be'nin ön tarafında iki rek'at namaz kılardı. Bu, onun kıblesiydi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>398</td></tr><tr><td>Arabic No</td><td>398</td></tr><tr><td>Reference</td><td>Book 8 Hadith 49</td></tr></tbody></table></div>
 

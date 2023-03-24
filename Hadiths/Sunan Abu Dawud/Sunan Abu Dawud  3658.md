@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre(r.a)'den rivayet olunduğuna göre, Rasulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Bir kimse kendisinden sorulan bir meseleyi gizler de cevap vermezse, Allah, kıyamet gününde ona ateşten bir gem vurur." Diğer tahric: Tirmizî, ilim; İbn Mace, mukaddime; Ahmed b. Hanbel, II, 263, 305
+Ebu Hureyre(r.a)'den rivayet olunduğuna göre, Rasulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Bir kimse kendisinden sorulan bir meseleyi gizler de cevap vermezse, Allah, kıyamet gününde ona ateşten bir gem vurur." Diğer tahric: Tirmizî, ilim; İbn Mace, mukaddime; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3658</td></tr><tr><td>Arabic No</td><td>3658</td></tr><tr><td>Reference</td><td>Book 26 Hadith 18</td></tr></tbody></table></div>
 

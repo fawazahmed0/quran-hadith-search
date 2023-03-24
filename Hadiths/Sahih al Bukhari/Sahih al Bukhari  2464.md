@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin 'Abdur Rahim Abu Yahya] telah menga
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a.'den rivayet edilmiştir: Ebu Talha'nın evinde sakilik yapıyordum. O gün onların şarabı, hurma koruğu şarabıydı. Allah Resulü'nün emri üzerine tellal: "İyi biliniz ki şarap haram kılındı" diye seslendi. Ebu Talha (bana): "Çık ve bu şarabı dök" dedi. Ben de çıkıp döktüm. O gün, Medine sokaklarında şarap selleri aktı. İçimizden bazı kimseler: "İyi ama kimilerimiz karınlarında şarap dolu iken öldürüldü" dediler. Bunun üzerine Allah: "İman eden ve iyi iş yapanlara ... tattıklarından dolayı günah yoktur"[Maide 93] ayetini indirdi. Tekrar: 4617,4620,5580,5572,5583,5584,
+Enes r.a.'den rivayet edilmiştir: Ebu Talha'nın evinde sakilik yapıyordum. O gün onların şarabı, hurma koruğu şarabıydı. Allah Resulü'nün emri üzerine tellal: "İyi biliniz ki şarap haram kılındı" diye seslendi. Ebu Talha (bana): "Çık ve bu şarabı dök" dedi. Ben de çıkıp döktüm. O gün, Medine sokaklarında şarap selleri aktı. İçimizden bazı kimseler: "İyi ama kimilerimiz karınlarında şarap dolu iken öldürüldü" dediler. Bunun üzerine Allah: "İman eden ve iyi iş yapanlara ... tattıklarından dolayı günah yoktur"[Maide 93] ayetini indirdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>2464</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cerir bin Abdullah'ın şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'e namaz kılmak, zekat vermek ve her müslümana (karşı) hayırhah olmak üzere biat ettim. Tekrar: 524, 1401, 2
+Cerir bin Abdullah'ın şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'e namaz kılmak, zekat vermek ve her müslümana (karşı) hayırhah olmak üzere biat ettim. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Arabic No</td><td>57</td></tr><tr><td>Reference</td><td>Book 2 Hadith 50</td></tr></tbody></table></div>
 

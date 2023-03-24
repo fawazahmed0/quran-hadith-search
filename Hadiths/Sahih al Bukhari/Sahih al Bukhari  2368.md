@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah mengabarkan kepada
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'ın naklettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah İsmail'in annesine (Hacer) merhamet etsin. Eğer zemzemi kendi haline bıraksaydı zemzem bir akarsu olacaktı. Cürhümlüler Mekke'ye gelmişler ve Hacer'den, "Burada konaklamamıza izin verir misin?" demişlerdi. Hacer, "Evet, fakat suda mülkiyet hakkınız yoktur" diye cevap verdi. Bunun üzerine Cürhümlüler "evet" diyerek bu şartı kabul etmişlerdir. " Tekrar: 3362, 3
+İbn Abbas r.a.'ın naklettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah İsmail'in annesine (Hacer) merhamet etsin. Eğer zemzemi kendi haline bıraksaydı zemzem bir akarsu olacaktı. Cürhümlüler Mekke'ye gelmişler ve Hacer'den, "Burada konaklamamıza izin verir misin?" demişlerdi. Hacer, "Evet, fakat suda mülkiyet hakkınız yoktur" diye cevap verdi. Bunun üzerine Cürhümlüler "evet" diyerek bu şartı kabul etmişlerdir. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2368</td></tr><tr><td>Arabic No</td><td>2368</td></tr><tr><td>Reference</td><td>Book 42 Hadith 16</td></tr></tbody></table></div>
 

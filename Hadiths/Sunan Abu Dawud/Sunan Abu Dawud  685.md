@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muhammad bin Katsir Al-'Abdi] telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Talha b. Ubeydillah (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) bana hitaben) şöyle buyurdu: "Önüne, semerin arka kemerinin boyu kadar bir şey koyunca önünden geçen kimse sana zarar vermez." Diğer tahric: Müslim, salat; Ebu Davud, salat; Nesaî, kıble; İbn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, I, 121, 162; II, 129; V, 149, 151
+Talha b. Ubeydillah (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) bana hitaben) şöyle buyurdu: "Önüne, semerin arka kemerinin boyu kadar bir şey koyunca önünden geçen kimse sana zarar vermez." Diğer tahric: Müslim, salat; Ebu Davud, salat; Nesaî, kıble; İbn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, I, 121, 162; II, 129; V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (499)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>685</td></tr><tr><td>Arabic No</td><td>685</td></tr><tr><td>Reference</td><td>Book 2 Hadith 295</td></tr></tbody></table></div>
 

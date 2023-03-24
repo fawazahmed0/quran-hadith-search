@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Walid Hisyam bin 'Abdul Malik] berkata, t
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Mâlik r.a. şöyle demiştir: "Nebi Sallallahu aleyhi ve sellem tuvalet ihtiyacını görmek üzere çıkınca ben ve benimle birlikte bir çocuk -tuvalet temizliği için- yanımızda bir su kırbası götürürdük. Tekrar: 151
+Enes İbn Mâlik r.a. şöyle demiştir: "Nebi Sallallahu aleyhi ve sellem tuvalet ihtiyacını görmek üzere çıkınca ben ve benimle birlikte bir çocuk -tuvalet temizliği için- yanımızda bir su kırbası götürürdük. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 4 Hadith 16</td></tr></tbody></table></div>
 

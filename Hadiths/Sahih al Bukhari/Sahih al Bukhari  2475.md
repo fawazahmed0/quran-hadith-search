@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Kişi zina ettiği sırada mu'min olarak zina etmez; içki içtiği sırada mu'min olarak içmez; hırsızlık ettiği sırada mu'min olarak hırsızlık etmez; insanların kendisine baka baka yağma yaptığı sırada mu'min olarak yağma yapmaz." Said'den ve Ebu Seleme’den Ebu Hureyre r.a. kanalıyla Hz. Nebi'in aynen böyle buyurduğu nakledilmiştir. Ancak o rivayette "yağma" maddesi yoktur. Firebri şöyle demiştir: Ebu Cafer'in hattıyla şunu gördüm: Ebu Abdullah şöyle demiştir: "Bunun tefsiri, kişi bunları yaptığı sırada imanının ondan çekilip alınmasıdır. " Tekrar: 5
+Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Kişi zina ettiği sırada mu'min olarak zina etmez; içki içtiği sırada mu'min olarak içmez; hırsızlık ettiği sırada mu'min olarak hırsızlık etmez; insanların kendisine baka baka yağma yaptığı sırada mu'min olarak yağma yapmaz." Said'den ve Ebu Seleme’den Ebu Hureyre r.a. kanalıyla Hz. Nebi'in aynen böyle buyurduğu nakledilmiştir. Ancak o rivayette "yağma" maddesi yoktur. Firebri şöyle demiştir: Ebu Cafer'in hattıyla şunu gördüm: Ebu Abdullah şöyle demiştir: "Bunun tefsiri, kişi bunları yaptığı sırada imanının ondan çekilip alınmasıdır. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2475</td></tr><tr><td>Arabic No</td><td>2475</td></tr><tr><td>Reference</td><td>Book 46 Hadith 36</td></tr></tbody></table></div>
 

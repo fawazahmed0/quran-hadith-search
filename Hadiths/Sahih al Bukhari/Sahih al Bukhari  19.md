@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abdurr
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: "Müslümanın en hayırlı malının koyun olması yakındır. Dağ başlarında ve yağmur suyunun biriktiği yerlerde (vadi ortalarında) onları gezdirir de bu sayede dinini fitnelerden korumuş olur Tekrar: 3300, 3
+Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: "Müslümanın en hayırlı malının koyun olması yakındır. Dağ başlarında ve yağmur suyunun biriktiği yerlerde (vadi ortalarında) onları gezdirir de bu sayede dinini fitnelerden korumuş olur Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>19</td></tr><tr><td>Arabic No</td><td>19</td></tr><tr><td>Reference</td><td>Book 2 Hadith 12</td></tr></tbody></table></div>
 

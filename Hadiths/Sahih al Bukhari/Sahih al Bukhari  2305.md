@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufy
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle anlatır: Bir kimsenin, Resulullah Sallallahu Aleyhi ve Sellem'den, belirli bir yaşta bir deve alacağı vardı. Onu almak üzere geldi. Nebi Sallallahu Aleyhi ve Sellem, "Bunu ona verin" buyurdu. Buldukları develerin tamamı borç olan deveden daha büyük yaşta idi. Nebiimiz Sallallahu Aleyhi ve Sellem, "Bunu (daha büyük yaştaki deveyi) o kimseye verin" buyurdu. Adam, "Sen bana alacağımı fazlasıyla verdin, Allah da sana fazlasıyla versin" dedi. Bunun üzerine Hz. Nebi Sallallahu Aleyhi ve Sellem, "Sizin en hayırlınız (borcunu) en güzel şekilde ödeyeninizdir" buyurdu. Tekrarı: 2306, 2390, 2392, 2393, 2
+Ebu Hureyre r.a. şöyle anlatır: Bir kimsenin, Resulullah Sallallahu Aleyhi ve Sellem'den, belirli bir yaşta bir deve alacağı vardı. Onu almak üzere geldi. Nebi Sallallahu Aleyhi ve Sellem, "Bunu ona verin" buyurdu. Buldukları develerin tamamı borç olan deveden daha büyük yaşta idi. Nebiimiz Sallallahu Aleyhi ve Sellem, "Bunu (daha büyük yaştaki deveyi) o kimseye verin" buyurdu. Adam, "Sen bana alacağımı fazlasıyla verdin, Allah da sana fazlasıyla versin" dedi. Bunun üzerine Hz. Nebi Sallallahu Aleyhi ve Sellem, "Sizin en hayırlınız (borcunu) en güzel şekilde ödeyeninizdir" buyurdu. Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2305</td></tr><tr><td>Arabic No</td><td>2305</td></tr><tr><td>Reference</td><td>Book 40 Hadith 6</td></tr></tbody></table></div>
 

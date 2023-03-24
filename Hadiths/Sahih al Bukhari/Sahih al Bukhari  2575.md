@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] t
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a.'dan rivayet edilmiştir: İbn Abbas'ın teyzesi Ümmü Hufeyd, Nebi Sallallahu Aleyhi ve Sellem'e keş, tereyağı ve birkaç keler hediye etmişti. Nebi Sallallahu Aleyhi ve Sellem keş'i ve tereyağını yedi; kelerleri ise tiksindiğinden dolayı yemedi. İbn Abbas r.a. dedi ki: "Kelerler Hz. Nebi'in sofrasında yeniidi. Haram olsaydı Allah Resulü'nün sofrasında yenilmezdi." Tekrar: 5
+İbn Abbas r.a.'dan rivayet edilmiştir: İbn Abbas'ın teyzesi Ümmü Hufeyd, Nebi Sallallahu Aleyhi ve Sellem'e keş, tereyağı ve birkaç keler hediye etmişti. Nebi Sallallahu Aleyhi ve Sellem keş'i ve tereyağını yedi; kelerleri ise tiksindiğinden dolayı yemedi. İbn Abbas r.a. dedi ki: "Kelerler Hz. Nebi'in sofrasında yeniidi. Haram olsaydı Allah Resulü'nün sofrasında yenilmezdi." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 51 Hadith 10</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Yawning is from Satan and if anyon
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'in naklettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Esnemek şeytandandır. İçinizden birisi esnemesi gelirse gücü ölçüsünce esnememek için kendisini tutsun. Çünkü esnemek üzere ağzınız! açıp hah diyecek olursanız şeytan güler. " Tekrar: 3742, 3743, 3761, 4
+Ebu Hureyre r.a.'in naklettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Esnemek şeytandandır. İçinizden birisi esnemesi gelirse gücü ölçüsünce esnememek için kendisini tutsun. Çünkü esnemek üzere ağzınız! açıp hah diyecek olursanız şeytan güler. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3289</td></tr><tr><td>Arabic No</td><td>3289</td></tr><tr><td>Reference</td><td>Book 59 Hadith 98</td></tr></tbody></table></div>
 

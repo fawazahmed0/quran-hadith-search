@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Bisyir bin Muhammad] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir İbn Abdullah r.a. şöyle demiştir: Bir adam, kendisinin ölümünden sonra kölesini hür kıldı. Daha muhtaç hale geldi. Hz.Nebi, onun kölesini alarak "Bunu kim benden satın alır?" buyurdu. Nuaym İbn Abdullah bunu belirli bir paraya satın aldı. Nebi Sallallahu Aleyhi ve Sellem de köleyi ona verdi. Tekrar: 2230, 2231, 2403, 2415, 2534, 6
+Cabir İbn Abdullah r.a. şöyle demiştir: Bir adam, kendisinin ölümünden sonra kölesini hür kıldı. Daha muhtaç hale geldi. Hz.Nebi, onun kölesini alarak "Bunu kim benden satın alır?" buyurdu. Nuaym İbn Abdullah bunu belirli bir paraya satın aldı. Nebi Sallallahu Aleyhi ve Sellem de köleyi ona verdi. Tekrar: 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2141</td></tr><tr><td>Arabic No</td><td>2141</td></tr><tr><td>Reference</td><td>Book 34 Hadith 93</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'ai
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyd İbn Sabit r.a.'den nakledilmiştir: Bütün Kur'an sahifelerini Mushaflara yazdım. Allah Resulü Sallallahu Aleyhi ve Sellem'i okurken duyduğum bir ayeti yalnızca Huzeyme İbn Sabit el-Ensari'nin yanında buldum. Allah Resulü Sallallahu Aleyhi ve Sellem onun şahitliğini iki kişinin şahitliği yerine koymuştu. Bu ayet "mu'minler içinde Allah'a verdikleri sözü tutan nice erler var" ayetidir. Tekrar 4049, 4679, 4784, 4986, 4988, 4
+Zeyd İbn Sabit r.a.'den nakledilmiştir: Bütün Kur'an sahifelerini Mushaflara yazdım. Allah Resulü Sallallahu Aleyhi ve Sellem'i okurken duyduğum bir ayeti yalnızca Huzeyme İbn Sabit el-Ensari'nin yanında buldum. Allah Resulü Sallallahu Aleyhi ve Sellem onun şahitliğini iki kişinin şahitliği yerine koymuştu. Bu ayet "mu'minler içinde Allah'a verdikleri sözü tutan nice erler var" ayetidir. Tekrar 4
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2807</td></tr><tr><td>Arabic No</td><td>2807</td></tr><tr><td>Reference</td><td>Book 56 Hadith 23</td></tr></tbody></table></div>
 

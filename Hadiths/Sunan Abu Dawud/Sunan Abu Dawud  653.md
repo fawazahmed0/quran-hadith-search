@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr b. Şuayb'in babasından rivayet ettiğine göre dedesi (şöyle) demiştir: "Ben Nebi (Sallallahu aleyhi ve Sellem)'i ayakkabılı da ayakkabısız da namaz kılarken gördüm." Diğer tahric: İbn Mace, ikame; Nesaî, sehv; Ahmed b. Hanbel, II, 174, 178, 179, 190
+Amr b. Şuayb'in babasından rivayet ettiğine göre dedesi (şöyle) demiştir: "Ben Nebi (Sallallahu aleyhi ve Sellem)'i ayakkabılı da ayakkabısız da namaz kılarken gördüm." Diğer tahric: İbn Mace, ikame; Nesaî, sehv; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>653</td></tr><tr><td>Arabic No</td><td>653</td></tr><tr><td>Reference</td><td>Book 2 Hadith 263</td></tr></tbody></table></div>
 

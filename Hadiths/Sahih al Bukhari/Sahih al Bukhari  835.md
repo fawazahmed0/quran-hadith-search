@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah:When we prayed with the Prophet (ﷺ) we used to say, "Peace be on Allah from His slaves and peace be on so and so." The Prophet (ﷺ) said, "Don't say As-Salam be on Allah, for He Himself is As-Salam, but say, at-tahiyatu li l-lahi wa s-salawatu wa t-taiyibat. As-salamu 'alaika aiyuha n-Nabiyu wa rahmatu l-lahi wa barakatuh. As-salamu 'alaina wa 'ala 'ibadi l-lahi s-salihin. (If you say this then it will reach all the slaves in heaven or between heaven and earth). Ash-hadu al la-ilaha illa l-lah, wa ash-hadu anna Muhammadan 'Abduhu wa Rasuluh.' Then select the invocation you like best and recite it." (See Hadith No.)
+Narrated 'Abdullah:When we prayed with the Prophet (ﷺ) we used to say, "Peace be on Allah from His slaves and peace be on so and so." The Prophet (ﷺ) said, "Don't say As-Salam be on Allah, for He Himself is As-Salam, but say, at-tahiyatu li l-lahi wa s-salawatu wa t-taiyibat. As-salamu 'alaika aiyuha n-Nabiyu wa rahmatu l-lahi wa barakatuh. As-salamu 'alaina wa 'ala 'ibadi l-lahi s-salihin. (If you say this then it will reach all the slaves in heaven or between heaven and earth). Ash-hadu al la-ilaha illa l-lah, wa ash-hadu anna Muhammadan 'Abduhu wa Rasuluh.' Then select the invocation you like best and recite it." (See Hadith No)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>835</td></tr><tr><td>Arabic No</td><td>835</td></tr><tr><td>Reference</td><td>Book 10 Hadith 228</td></tr></tbody></table></div>
 

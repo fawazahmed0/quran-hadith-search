@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Sy
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Avn İbn Ebî Cuhayfe şöyle demiştir: Babam, hacamat yapan bir köle satın aldı, onun hacamat yaptığı aletlerin kırılmasını emretti. Bu aletler kırıldı. Ben ona bunun sebebini sorduğumda bana şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem, köpeğin parasını, kan almakdan elde edilen parayı yasakladı. Yine o, dövme yapan ve yaptıranı, faiz yiyeni, yedireni bu işleri yapmaktan alıkoydu. Resim yapan ile dövme yapan ve yaptıranları lanetledi. Tekrar: 2238, 5
+Avn İbn Ebî Cuhayfe şöyle demiştir: Babam, hacamat yapan bir köle satın aldı, onun hacamat yaptığı aletlerin kırılmasını emretti. Bu aletler kırıldı. Ben ona bunun sebebini sorduğumda bana şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem, köpeğin parasını, kan almakdan elde edilen parayı yasakladı. Yine o, dövme yapan ve yaptıranı, faiz yiyeni, yedireni bu işleri yapmaktan alıkoydu. Resim yapan ile dövme yapan ve yaptıranları lanetledi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2086</td></tr><tr><td>Arabic No</td><td>2086</td></tr><tr><td>Reference</td><td>Book 34 Hadith 39</td></tr></tbody></table></div>
 

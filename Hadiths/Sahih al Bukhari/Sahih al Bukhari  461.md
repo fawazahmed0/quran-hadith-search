@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ishaq bin Ibrahim] berkata, telah mengabarkan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Dün gece cinlerden bir ifrit (veya buna benzer bir ifade kutlandı), namazımı bozmak için aniden bana saldırdı. Fakat Rabbim ona karşı beni galip getirdi. Sabahlayınca hepiniz onu göresiniz diye mescidin direklerinden birine bağlamak istedim. Sonra kardeşim Süleyman’ın: "Rabbim! Beni bağışla, bana, benden başka hiç kimsenin ulaşamayacağı bir hükümranlık ver [Sâd, 35] dediğini hatırladım (ve onu tutup bağlamaktan vazgeçtim)." Hadisin ravilerinden Ravh dedi ki: "Sonra Nebi Sallallahu Aleyhi ve Sellem onu kovdu. Tekrar: 1210, 3
+Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Dün gece cinlerden bir ifrit (veya buna benzer bir ifade kutlandı), namazımı bozmak için aniden bana saldırdı. Fakat Rabbim ona karşı beni galip getirdi. Sabahlayınca hepiniz onu göresiniz diye mescidin direklerinden birine bağlamak istedim. Sonra kardeşim Süleyman’ın: "Rabbim! Beni bağışla, bana, benden başka hiç kimsenin ulaşamayacağı bir hükümranlık ver [Sâd, 35] dediğini hatırladım (ve onu tutup bağlamaktan vazgeçtim)." Hadisin ravilerinden Ravh dedi ki: "Sonra Nebi Sallallahu Aleyhi ve Sellem onu kovdu. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>461</td></tr><tr><td>Arabic No</td><td>461</td></tr><tr><td>Reference</td><td>Book 8 Hadith 109</td></tr></tbody></table></div>
 

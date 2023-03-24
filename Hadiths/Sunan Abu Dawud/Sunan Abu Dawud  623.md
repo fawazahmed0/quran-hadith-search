@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.)'den; dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Sizden biriniz başını, imam secdede iken kaldırınca Allah'ın onun başını eşek başına, yahud da [şek raviye aittir] suretini eşek suretine çevireceğinden korkmaz mı?" Diğer tahric: Buharî, ezan; Müslim, salat; Tirmizî, cuma; Nesaî, İkame; İbn Mace, ikame; Darimi, salat; Ahmed b. Hanbel, II, 260, 271,425,456
+Ebu Hureyre (r.a.)'den; dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Sizden biriniz başını, imam secdede iken kaldırınca Allah'ın onun başını eşek başına, yahud da [şek raviye aittir] suretini eşek suretine çevireceğinden korkmaz mı?" Diğer tahric: Buharî, ezan; Müslim, salat; Tirmizî, cuma; Nesaî, İkame; İbn Mace, ikame; Darimi, salat; Ahmed b. Hanbel, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>623</td></tr><tr><td>Arabic No</td><td>623</td></tr><tr><td>Reference</td><td>Book 2 Hadith 233</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Suf
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyneb binti Ebi Seleme şöyle dedi: Ebu Süfyan'ın vefat haberi Şam'dan geldiğinde, üç gün geçtikten sonra Ummü Habîbe r.anha kendisine güzel koku getirilmesini istedi. Bunu yanaklarına ve kollarına sürerek şöyle dedi: "Benim buna ihtiyacım yoktur. Ancak ben Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini işittim: "Allah'a ve ahiret gününe inanan bir kadının, kocası dışında ölen bir kimse için üç günden fazla yas tutması helal değildir. Kocası için ise dört ay on gün yas tutar. Tekrar: 1281, 5
+Zeyneb binti Ebi Seleme şöyle dedi: Ebu Süfyan'ın vefat haberi Şam'dan geldiğinde, üç gün geçtikten sonra Ummü Habîbe r.anha kendisine güzel koku getirilmesini istedi. Bunu yanaklarına ve kollarına sürerek şöyle dedi: "Benim buna ihtiyacım yoktur. Ancak ben Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini işittim: "Allah'a ve ahiret gününe inanan bir kadının, kocası dışında ölen bir kimse için üç günden fazla yas tutması helal değildir. Kocası için ise dört ay on gün yas tutar. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1280</td></tr><tr><td>Arabic No</td><td>1280</td></tr><tr><td>Reference</td><td>Book 23 Hadith 41</td></tr></tbody></table></div>
 

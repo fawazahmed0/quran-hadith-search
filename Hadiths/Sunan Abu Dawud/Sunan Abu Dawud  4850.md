@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah mencerita
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah (İbn Mesud) (r.a)'dan (rivayet edildiğine) Rasûlullah (s.a.v.) şöyle buyurmuştur: "İki kişi, üçüncü bir kimsenin yanında gizli konuşmasın. Çünkü bu o şahsı üzer." Tahric edenler: Buhari, istizan; Müslim, selâm; Tirmizî. edeb; İbn Mâce, tahâre; edeb; Dârimî, istizan; Muvatta, kelam. Ahmed b. Hanbel, I, 431. 460, 464, II, 9, 123
+Abdullah (İbn Mesud) (r.a)'dan (rivayet edildiğine) Rasûlullah (s.a.v.) şöyle buyurmuştur: "İki kişi, üçüncü bir kimsenin yanında gizli konuşmasın. Çünkü bu o şahsı üzer." Tahric edenler: Buhari, istizan; Müslim, selâm; Tirmizî. edeb; İbn Mâce, tahâre; edeb; Dârimî, istizan; Muvatta, kelam. Ahmed b. Hanbel, I, 431. 460, 464, II
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (670)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4850</td></tr><tr><td>Arabic No</td><td>4850</td></tr><tr><td>Reference</td><td>Book 43 Hadith 78</td></tr></tbody></table></div>
 

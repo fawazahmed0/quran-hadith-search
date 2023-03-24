@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Seleme r.anha şöyle demiştir: Ümmü Süleym, Resulullah (Sallallahu aleyhi ve Sellem)'e gelerek şöyle dedi: "Ey Allah'ın Resulü! Allah gerçeği söylemekten haya etmez. Kadın ihtilam olduğunda gusletmesi gerekli midir?" Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Su görünce" dedi. Ümmü Süleym elleriyle yüzünü örttü ve şöyle dedi: "Ey Allah'ın Resulü! Hiç kadın ihtilam olur mu?" Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Evet, Allah hayrını versin! Peki çocuk niçin kadına benziyor (zannedersin). Tekrar: 282, 3
+Ümmü Seleme r.anha şöyle demiştir: Ümmü Süleym, Resulullah (Sallallahu aleyhi ve Sellem)'e gelerek şöyle dedi: "Ey Allah'ın Resulü! Allah gerçeği söylemekten haya etmez. Kadın ihtilam olduğunda gusletmesi gerekli midir?" Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Su görünce" dedi. Ümmü Süleym elleriyle yüzünü örttü ve şöyle dedi: "Ey Allah'ın Resulü! Hiç kadın ihtilam olur mu?" Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Evet, Allah hayrını versin! Peki çocuk niçin kadına benziyor (zannedersin). Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 3 Hadith 72</td></tr></tbody></table></div>
 

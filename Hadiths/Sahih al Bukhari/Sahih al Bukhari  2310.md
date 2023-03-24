@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sehl İbn Sa'd şöyle demiştir: Bir kadın Resulullah Sallallahu Aleyhi ve Sellem'e gelerek, "Ey Allah'ın Resulü! Kendimi sana hibe ettim" dedi. Orada bulunan bir sahabı de Nebi Sallallahu Aleyhi ve Sellem'e, "Onu bana nikahlayınız" dedi. Nebiimiz Sallallahu Aleyhi ve Sellem, "Kur'an'dan bildiğin şeyleri ona öğretmen karşılığında onu sana nikahladık" buyurdu. Tekrar: 5029, 5030, 5087, 5121, 5126, 5132, 5135,5141, 5149, 5
+Sehl İbn Sa'd şöyle demiştir: Bir kadın Resulullah Sallallahu Aleyhi ve Sellem'e gelerek, "Ey Allah'ın Resulü! Kendimi sana hibe ettim" dedi. Orada bulunan bir sahabı de Nebi Sallallahu Aleyhi ve Sellem'e, "Onu bana nikahlayınız" dedi. Nebiimiz Sallallahu Aleyhi ve Sellem, "Kur'an'dan bildiğin şeyleri ona öğretmen karşılığında onu sana nikahladık" buyurdu. Tekrar: 5029, 5030, 5087, 5121,
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2310</td></tr><tr><td>Arabic No</td><td>2310</td></tr><tr><td>Reference</td><td>Book 40 Hadith 10</td></tr></tbody></table></div>
 

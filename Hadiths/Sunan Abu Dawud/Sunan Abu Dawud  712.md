@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha)'den demiştir ki: "Bizi eşeklerle ve köpeklerle bir tutmanız ne çirkindir!...Yemin ederim ki ben, önüne enlemesine uzanıp yatmış olduğum halde Nebi (Sallallahu aleyhi ve Sellem)'in namaz kıldığını gördüm. Secde etmek istediği zaman ayağıma dürterdi. Ben de onları toplardım. Sonra secdeye varırdı." Diğer tahric: Buharî, salat; Müslim, salat; Nesaî. tahare; Muvatta, salatu leyl ; Ahmed b. Hanbel, VI, 44, 55
+Aişe (r.anha)'den demiştir ki: "Bizi eşeklerle ve köpeklerle bir tutmanız ne çirkindir!...Yemin ederim ki ben, önüne enlemesine uzanıp yatmış olduğum halde Nebi (Sallallahu aleyhi ve Sellem)'in namaz kıldığını gördüm. Secde etmek istediği zaman ayağıma dürterdi. Ben de onları toplardım. Sonra secdeye varırdı." Diğer tahric: Buharî, salat; Müslim, salat; Nesaî. tahare; Muvatta, salatu leyl ; Ahmed b. Hanbel, VI
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (519)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>712</td></tr><tr><td>Arabic No</td><td>712</td></tr><tr><td>Reference</td><td>Book 2 Hadith 322</td></tr></tbody></table></div>
 

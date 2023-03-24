@@ -62,7 +62,7 @@ Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ömer İbn Ubeydullah'ın kölesi ve katibi olan Salim Ebu'n-Nadr şöyle demiştir: Abdullah İbn Ebi Evfa bir defasında Ömer İbn Ubeydullah'a mektup yazarak şöyle demiştir: "Resulullah Sallallahu Aleyhi ve Sellem buyurdu ki: "Şunu iyi biliniz ki, cennet kılıçların gölgesi altındadır. " Tekrar: 2833, 2
+Ömer İbn Ubeydullah'ın kölesi ve katibi olan Salim Ebu'n-Nadr şöyle demiştir: Abdullah İbn Ebi Evfa bir defasında Ömer İbn Ubeydullah'a mektup yazarak şöyle demiştir: "Resulullah Sallallahu Aleyhi ve Sellem buyurdu ki: "Şunu iyi biliniz ki, cennet kılıçların gölgesi altındadır. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2818</td></tr><tr><td>Arabic No</td><td>2818</td></tr><tr><td>Reference</td><td>Book 56 Hadith 34</td></tr></tbody></table></div>
 

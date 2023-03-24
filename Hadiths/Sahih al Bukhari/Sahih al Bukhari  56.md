@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Al Hakam bin Nafi'] berkata, telah mengabarkan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sa'd b. Ebî Vakkas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Allah'ın rızasını gözeterek yaptığın her harcamadan dolayı sevap alırsın, hatta eşinin ağzına koyduğun lokmadan bile. Tekrar: 1295, 2742, 2744, 3936, 4409, 5354, 5659, 5
+Sa'd b. Ebî Vakkas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Allah'ın rızasını gözeterek yaptığın her harcamadan dolayı sevap alırsın, hatta eşinin ağzına koyduğun lokmadan bile. Tekrar: 1295, 2742, 2
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
 

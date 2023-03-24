@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ebi Evfa şöyle demiştir: "Nebi Sallallahu Aleyhi ve Sellem Hendek savaşında müşriklere şöyle beddua etmişti: "Ey kitabı indiren, hesabı çok hızlı gören Allahım, çeşitli kabilelerden oluşan şu düşman birliklerini dağıt, onları hezimete uğrat ve sarsıp perişan et!" Tekrar: 2965, 3025, 4
+Abdullah İbn Ebi Evfa şöyle demiştir: "Nebi Sallallahu Aleyhi ve Sellem Hendek savaşında müşriklere şöyle beddua etmişti: "Ey kitabı indiren, hesabı çok hızlı gören Allahım, çeşitli kabilelerden oluşan şu düşman birliklerini dağıt, onları hezimete uğrat ve sarsıp perişan et!" Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2933</td></tr><tr><td>Arabic No</td><td>2933</td></tr><tr><td>Reference</td><td>Book 56 Hadith 146</td></tr></tbody></table></div>
 

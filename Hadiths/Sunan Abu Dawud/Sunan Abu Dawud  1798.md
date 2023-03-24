@@ -52,7 +52,7 @@ Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Vâil'den; demiştir ki: es-Subeyy b. Mâ'bed şöyle dedi: Ben (Hac ile umrenin) ikisine birden niyet et(miş)tim. Ömer bana; "Nebiinin sünnetine uymuşsun" dedi. Şunlar da rivayet etti: Nesâî, menâsik; İbn Mâce, menâsik; Ahmed b. Hanbel, I, 14,
+Ebû Vâil'den; demiştir ki: es-Subeyy b. Mâ'bed şöyle dedi: Ben (Hac ile umrenin) ikisine birden niyet et(miş)tim. Ömer bana; "Nebiinin sünnetine uymuşsun" dedi. Şunlar da rivayet etti: Nesâî, menâsik; İbn Mâce, menâsik; Ahmed b. Hanbel, I
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1798</td></tr><tr><td>Arabic No</td><td>1798</td></tr><tr><td>Reference</td><td>Book 11 Hadith 78</td></tr></tbody></table></div>
 

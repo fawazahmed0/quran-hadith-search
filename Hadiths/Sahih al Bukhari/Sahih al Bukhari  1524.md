@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas r.a. şöyle demiştir: "Nebi Sallallahu Aleyhi ve Sellem, ihrama girme yeri olarak Medineliler için Zu'l-huleyfe'yi, Suriye tarafından gelecekler için Cuhfe'yi, Necidliler için Karnu'l-Menazil'i, Yemenliler için de Yelemlem'i belirlemiştir. Bu yerler, onlar ve oralara gidip de hac ve umre yapmak isteyen ve o bölgelerin ötesinden gelecek diğer hacılar için mîkat bölgeleridir. Bu bölgelerden daha içeride yani Kabeye daha yakın olanlar ise istedikleri yerden ihrama girebilir. Hatta Mekkeliler de Mekke'­den girebilir." Tekrar: 1526, 1
+İbn Abbas r.a. şöyle demiştir: "Nebi Sallallahu Aleyhi ve Sellem, ihrama girme yeri olarak Medineliler için Zu'l-huleyfe'yi, Suriye tarafından gelecekler için Cuhfe'yi, Necidliler için Karnu'l-Menazil'i, Yemenliler için de Yelemlem'i belirlemiştir. Bu yerler, onlar ve oralara gidip de hac ve umre yapmak isteyen ve o bölgelerin ötesinden gelecek diğer hacılar için mîkat bölgeleridir. Bu bölgelerden daha içeride yani Kabeye daha yakın olanlar ise istedikleri yerden ihrama girebilir. Hatta Mekkeliler de Mekke'­den girebilir." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1524</td></tr><tr><td>Arabic No</td><td>1524</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
 

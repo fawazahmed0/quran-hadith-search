@@ -62,7 +62,7 @@ Telah menceritakan kepadaku [Muhammad bin Yusuf] berkata, Telah menceritakan kep
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Mahmûd İbnü'r-Rebi' şöyle demiştir: Nebi (sallallahu aleyhi ve sellem)'in ben beş yaşında iken bir kova daki su'dan ağzına alarak yüzüme püskürttüğünü hatırlıyorum. Tekrar: 189, 839, 1
+Mahmûd İbnü'r-Rebi' şöyle demiştir: Nebi (sallallahu aleyhi ve sellem)'in ben beş yaşında iken bir kova daki su'dan ağzına alarak yüzüme püskürttüğünü hatırlıyorum. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Arabic No</td><td>77</td></tr><tr><td>Reference</td><td>Book 3 Hadith 19</td></tr></tbody></table></div>
 

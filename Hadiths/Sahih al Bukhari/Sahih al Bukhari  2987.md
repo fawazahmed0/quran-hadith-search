@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Qutaibah] telah bercerita kepada kami [Abu Shofwan]
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Usame İbn Zeyd r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem bir merkeple yolculuk yapıyordu. Merkebin semerinin üzerinde kadife bir örtü vardı ve Nebi Sallallahu Aleyhi ve Sellem bu yolculuğu sırasında Usame'yi terkisine aldı. Tekrar: 4566, 5
+Usame İbn Zeyd r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem bir merkeple yolculuk yapıyordu. Merkebin semerinin üzerinde kadife bir örtü vardı ve Nebi Sallallahu Aleyhi ve Sellem bu yolculuğu sırasında Usame'yi terkisine aldı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2987</td></tr><tr><td>Arabic No</td><td>2987</td></tr><tr><td>Reference</td><td>Book 56 Hadith 196</td></tr></tbody></table></div>
 

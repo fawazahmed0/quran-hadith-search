@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Afla
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (r.anha) şöyle demiştir: "Resulullah'ın kurbanının gerdanlığını kendi ellerimle büktüm. Hz. Nebi de onu taktı, kurbana bellik koydu ve gönderdi. Bunu yaptıktan sonra, önceden helal olan şeylerden hiçbiri haram hale gelmedi (yani ihram yasakları başlamadı)". Tekrar: 1698, 1699, 1700, 1701, 1702, 1703, 1704, 1
+Aişe (r.anha) şöyle demiştir: "Resulullah'ın kurbanının gerdanlığını kendi ellerimle büktüm. Hz. Nebi de onu taktı, kurbana bellik koydu ve gönderdi. Bunu yaptıktan sonra, önceden helal olan şeylerden hiçbiri haram hale gelmedi (yani ihram yasakları başlamadı)". Tekrar: 1698, 1699, 1
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1696</td></tr><tr><td>Arabic No</td><td>1696</td></tr><tr><td>Reference</td><td>Book 25 Hadith 174</td></tr></tbody></table></div>
 

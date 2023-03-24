@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe radiyallahu anha'dan şöyle nakledilmiştir: "Ben ve Nebi Sallallahu aleyhi ve sellem farak adı verilen bir kab'dan su alarak ğuslederdik. Tekrar: 261, 263, 273,
+Aişe radiyallahu anha'dan şöyle nakledilmiştir: "Ben ve Nebi Sallallahu aleyhi ve sellem farak adı verilen bir kab'dan su alarak ğuslederdik. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>250</td></tr><tr><td>Arabic No</td><td>250</td></tr><tr><td>Reference</td><td>Book 5 Hadith 3</td></tr></tbody></table></div>
 

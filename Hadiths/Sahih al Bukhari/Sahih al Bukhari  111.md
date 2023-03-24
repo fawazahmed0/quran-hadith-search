@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Cuhayfe şöyle demiştir: Hz. Ali'ye: "Sizin yanınızda bir kitap var mıdır?" diye sordum. O: "Hayır, ancak Allah'ın kitabı, Müslüman bir adam’a verilen kavrama kabiliyeti ve bir de şu sahifedekiler vardır" dedi. Ben: "O sahifede ne var?" diye sordum. Ali: "Diyetler, esirin serbest bırakılması vardır. Bir Müslüman bir kafire karşılık olarak öldürülmez" dedi. Tekrar: 187, 3047, 3172, 3179, 6755, 6
+Ebu Cuhayfe şöyle demiştir: Hz. Ali'ye: "Sizin yanınızda bir kitap var mıdır?" diye sordum. O: "Hayır, ancak Allah'ın kitabı, Müslüman bir adam’a verilen kavrama kabiliyeti ve bir de şu sahifedekiler vardır" dedi. Ben: "O sahifede ne var?" diye sordum. Ali: "Diyetler, esirin serbest bırakılması vardır. Bir Müslüman bir kafire karşılık olarak öldürülmez" dedi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>111</td></tr><tr><td>Arabic No</td><td>111</td></tr><tr><td>Reference</td><td>Book 3 Hadith 53</td></tr></tbody></table></div>
 

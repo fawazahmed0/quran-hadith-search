@@ -52,7 +52,7 @@ Telah menceritakan kepada kami [Zuhair bin harb] telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.)'dan rivayet edildiğine (göre), Nebi (Sallallahu aleyhi ve Sellem) "Rabbinin o çok yüce adını tesbih (ve tenzih) et" (ayet-i kerimesini) okuduğu zaman, yüce olan Rabbimi tesbih (ve tenzih) ederim" derdi. Ebu Davud dedi ki: Bu hadisin rivayetinde Vekî'e muhalefet edildi. (Şöyle ki) Ebu Vekîile Şu'be, bu hadisi Ebu ishak Saîd b. Cübeyr vasıtasıyla İbn Abbas'dan mevkuf olarak rivayet ettiler. Diğer tahric: İbn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, 1-232, 371; V, 382, 384, 38
+İbn Abbas (r.a.)'dan rivayet edildiğine (göre), Nebi (Sallallahu aleyhi ve Sellem) "Rabbinin o çok yüce adını tesbih (ve tenzih) et" (ayet-i kerimesini) okuduğu zaman, yüce olan Rabbimi tesbih (ve tenzih) ederim" derdi. Ebu Davud dedi ki: Bu hadisin rivayetinde Vekî'e muhalefet edildi. (Şöyle ki) Ebu Vekîile Şu'be, bu hadisi Ebu ishak Saîd b. Cübeyr vasıtasıyla İbn Abbas'dan mevkuf olarak rivayet ettiler. Diğer tahric: İbn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, 1-232, 371; V
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>883</td></tr><tr><td>Arabic No</td><td>883</td></tr><tr><td>Reference</td><td>Book 2 Hadith 493</td></tr></tbody></table></div>
 

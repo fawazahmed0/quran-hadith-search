@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [I
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Şihab'dan rivayet edilmiştir: Urve b. Zübeyr bana şöyle anlattı: Mekke'nin fethi sırasında bir kadın hırsızlık etmişti. Allah Resulü'ne getirildi. Nebi Sallallahu Aleyhi ve Sellem'in emri üzerine kadının eli kesildi. Aişe r.anha şöyle demiştir: "O kadın güzel bir tövbe etti ve evlendi. Elinin kesilmesinden sonra bir ihtiyacı olduğunda Nebi Sallallahu Aleyhi ve Sellem’e gelir ve ihtiyacını ona arzederdi." Tekrar: 3475, 3732, 3733, 4
+İbn Şihab'dan rivayet edilmiştir: Urve b. Zübeyr bana şöyle anlattı: Mekke'nin fethi sırasında bir kadın hırsızlık etmişti. Allah Resulü'ne getirildi. Nebi Sallallahu Aleyhi ve Sellem'in emri üzerine kadının eli kesildi. Aişe r.anha şöyle demiştir: "O kadın güzel bir tövbe etti ve evlendi. Elinin kesilmesinden sonra bir ihtiyacı olduğunda Nebi Sallallahu Aleyhi ve Sellem’e gelir ve ihtiyacını ona arzederdi." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 52 Hadith 12</td></tr></tbody></table></div>
 

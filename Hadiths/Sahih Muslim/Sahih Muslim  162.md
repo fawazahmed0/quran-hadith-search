@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Hasan al-Hulwani] dan [Abd bin Humaid] semuanya 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Hasen el-Hulvanî ile Abd b. Humeyd hep birden, Ebu Âsım'dan rivayet ettiler. Abd dedi ki: Bize Ebu Asim, İbn-i Cüreyc'den naklen haber verdi ki, İbnî Cüreyc Ebu'z-Zübeyr'i şöyle der­ken işitmiş: Cabir'i şöyle derken dinledim: Nebi (Sallallahu aleyhi ve Sellem): "Müslüman (diğer Müslümanların) dilinden ve elinden esen kaldığı kimsedir" buyururken dinledim. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 2837
+Bize Hasen el-Hulvanî ile Abd b. Humeyd hep birden, Ebu Âsım'dan rivayet ettiler. Abd dedi ki: Bize Ebu Asim, İbn-i Cüreyc'den naklen haber verdi ki, İbnî Cüreyc Ebu'z-Zübeyr'i şöyle der­ken işitmiş: Cabir'i şöyle derken dinledim: Nebi (Sallallahu aleyhi ve Sellem): "Müslüman (diğer Müslümanların) dilinden ve elinden esen kaldığı kimsedir" buyururken dinledim. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>162</td></tr><tr><td>Arabic No</td><td>41</td></tr><tr><td>Reference</td><td>Book 1 Hadith 69</td></tr></tbody></table></div>
 

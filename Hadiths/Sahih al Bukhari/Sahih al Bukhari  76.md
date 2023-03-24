@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il bin Abu Uwais] berkata, Telah menceritak
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Abbas şöyle demiştir: "İhtilama (buluğ çağına) yaklaştığım bir dönemde, Nebi (Sallallahu Aleyhi ve Sellem) Mina'da bir duvara doğru yönelmediği halde (yani önüne sütre almaksızın) namaz kıldırırken dişi bir eşek üzerinde gelerek safın bir bölümünün önünden geçtim. Eşeği otlaması için salarak saf’a girdim. Benim bu davranışım yadırganmadı". Tekrar: 493,
+Abdullah İbn Abbas şöyle demiştir: "İhtilama (buluğ çağına) yaklaştığım bir dönemde, Nebi (Sallallahu Aleyhi ve Sellem) Mina'da bir duvara doğru yönelmediği halde (yani önüne sütre almaksızın) namaz kıldırırken dişi bir eşek üzerinde gelerek safın bir bölümünün önünden geçtim. Eşeği otlaması için salarak saf’a girdim. Benim bu davranışım yadırganmadı". Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Arabic No</td><td>76</td></tr><tr><td>Reference</td><td>Book 3 Hadith 18</td></tr></tbody></table></div>
 

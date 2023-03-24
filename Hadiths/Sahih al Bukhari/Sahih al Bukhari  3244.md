@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] t
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'in naklettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah Teala şöyle buyuruyor: 'Salih kullarım için hiç bir gözün görmediği, hiç bir kulağın işitmediği ve hiç bir insanın aklına hayaline gelmeyecek nimetler hazırladım.' Bu müjdenin doğruluğunu görmek için isterseniz 'İşte onların dünyada yaptıkları makbul işlere mükafat olarak gözlerini aydın edecek, gönüllerini ferahlatacak hangi sürprizlerin, hangi nimetlerin saklandığını hiç kimse bilemez'[Secde 17] ayetini okuyun. " Tekrar: 4
+Ebu Hureyre r.a.'in naklettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Allah Teala şöyle buyuruyor: 'Salih kullarım için hiç bir gözün görmediği, hiç bir kulağın işitmediği ve hiç bir insanın aklına hayaline gelmeyecek nimetler hazırladım.' Bu müjdenin doğruluğunu görmek için isterseniz 'İşte onların dünyada yaptıkları makbul işlere mükafat olarak gözlerini aydın edecek, gönüllerini ferahlatacak hangi sürprizlerin, hangi nimetlerin saklandığını hiç kimse bilemez'[Secde 17] ayetini okuyun. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3244</td></tr><tr><td>Arabic No</td><td>3244</td></tr><tr><td>Reference</td><td>Book 59 Hadith 55</td></tr></tbody></table></div>
 

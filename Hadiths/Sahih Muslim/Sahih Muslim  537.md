@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Muhammed b. Rafi' tahdis etti. Bize Abdurrezzak b. Hemmam tahdis etti, bize Ma'mer b. Raşid, Vehb b. Münebbih'in kardeşi, Hemmam b. Münebbih'ten tahdis edip dedi ki: Bu bize Ebu Hureyre'nin Resulullah (Sallallahu aleyhi ve Sellem) Muhammed'den tahdis ettikleridir deyip, zikrettiği çeşitli hadisler arasında bu da vardı: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Sizden birinizin abdestini bozan bir hali olursa abdest almadıkça namazı kabul edilmez. " Diğer tahric: Buhari, 135; Ebu Davud, 60; Tirmizi, 76; Tuhfetu'l-Eşraf,
+Bize Muhammed b. Rafi' tahdis etti. Bize Abdurrezzak b. Hemmam tahdis etti, bize Ma'mer b. Raşid, Vehb b. Münebbih'in kardeşi, Hemmam b. Münebbih'ten tahdis edip dedi ki: Bu bize Ebu Hureyre'nin Resulullah (Sallallahu aleyhi ve Sellem) Muhammed'den tahdis ettikleridir deyip, zikrettiği çeşitli hadisler arasında bu da vardı: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Sizden birinizin abdestini bozan bir hali olursa abdest almadıkça namazı kabul edilmez. " Diğer tahric: Buhari, 135; Ebu Davud, 60; Tirmizi, 76; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>537</td></tr><tr><td>Arabic No</td><td>225</td></tr><tr><td>Reference</td><td>Book 2 Hadith 4</td></tr></tbody></table></div>
 

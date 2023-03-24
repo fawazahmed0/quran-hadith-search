@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İshak İbn Abdullah Enes İbn Mâlik'ten şöyle işittiğini nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem'i insanlarla birlikte camide otururken buldum. Bana: 'Seni Ebu Talha mı gönderdi?' diye sordu. Ben: 'Evet' deyince, Yemeğe davet etmen için mi?' diye sordu. Ben yine: 'Evet' dedim. Bunun üzerine beraberindekilere: 'Kalkın gidelim' dedi. Cemaat yürümeye başladı. Ben de önlerinde yürüdüm. Tekrar: 3528,
+İshak İbn Abdullah Enes İbn Mâlik'ten şöyle işittiğini nakletmiştir: "Nebi Sallallahu Aleyhi ve Sellem'i insanlarla birlikte camide otururken buldum. Bana: 'Seni Ebu Talha mı gönderdi?' diye sordu. Ben: 'Evet' deyince, Yemeğe davet etmen için mi?' diye sordu. Ben yine: 'Evet' dedim. Bunun üzerine beraberindekilere: 'Kalkın gidelim' dedi. Cemaat yürümeye başladı. Ben de önlerinde yürüdüm. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>422</td></tr><tr><td>Arabic No</td><td>422</td></tr><tr><td>Reference</td><td>Book 8 Hadith 72</td></tr></tbody></table></div>
 

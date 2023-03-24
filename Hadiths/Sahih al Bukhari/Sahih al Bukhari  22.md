@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Saîd el-Hudrî'den rivayet edildiğine göre Hz. Peygamber şöyle buyurmuştur: "Cennetlikler cennete, cehennemlikler de cehenneme girdikten sonra Allah Teala: 'Kalbinde hardal danesi ağırlığınca imanı olanı (cehennemden) çıkarın!’ buyurur. Bunun üzerine (bu kişiler) cehennem'den kararmış (kömür gibi olmuş) bir halde çıkarılırlar. Sonra haya yahut hayat (şüphe Malik'tendir) nehrine atılırlar. Orada selin uğradığı yerde kalan tohumlar nasıl (çabucak) ayrık otu olarak biterse öyle biterler. Görmez misin, bunlar (ne güzel) sapsarı olarak (ve iki tarafına) salınarak sürer?. Tekrar: 4581, 4919,6560, 6
+Ebu Saîd el-Hudrî'den rivayet edildiğine göre Hz. Peygamber şöyle buyurmuştur: "Cennetlikler cennete, cehennemlikler de cehenneme girdikten sonra Allah Teala: 'Kalbinde hardal danesi ağırlığınca imanı olanı (cehennemden) çıkarın!’ buyurur. Bunun üzerine (bu kişiler) cehennem'den kararmış (kömür gibi olmuş) bir halde çıkarılırlar. Sonra haya yahut hayat (şüphe Malik'tendir) nehrine atılırlar. Orada selin uğradığı yerde kalan tohumlar nasıl (çabucak) ayrık otu olarak biterse öyle biterler. Görmez misin, bunlar (ne güzel) sapsarı olarak (ve iki tarafına) salınarak sürer?. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>22</td></tr><tr><td>Arabic No</td><td>22</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
 

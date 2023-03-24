@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Musa 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Usâme İbn Zeyd r.a. şöyle demiştir: Resûlullah (Sallallahu aleyhi ve Sellem) Arafat'tan dönerken dağdaki yolda inip su döktü. Sonra hafif bir abdest aldı. Ben: "Namaz (mı) ey Allah'ın Resulü?" diye sordum. Nebi (Sallallahu aleyhi ve Sellem) Namaz ileride kılınacak" dedi. Sonra tekrar bineğine bindi. Müzdelife'ye gelince bineğinden indi ve daha uzunca bir abdest aldı. Sonra namaz için kamet getirildi, akşam namazını kıl­dırdı. Sonra herkes devesini durduğu yere çökertti Sonra yatsı için kamet geti­rildi, Hz. Peygamber yatsıyı kıldırdı. Bu iki namaz arasında başka bir namaz kılmadı. Tekrar: 181, 1
+Usâme İbn Zeyd r.a. şöyle demiştir: Resûlullah (Sallallahu aleyhi ve Sellem) Arafat'tan dönerken dağdaki yolda inip su döktü. Sonra hafif bir abdest aldı. Ben: "Namaz (mı) ey Allah'ın Resulü?" diye sordum. Nebi (Sallallahu aleyhi ve Sellem) Namaz ileride kılınacak" dedi. Sonra tekrar bineğine bindi. Müzdelife'ye gelince bineğinden indi ve daha uzunca bir abdest aldı. Sonra namaz için kamet getirildi, akşam namazını kıl­dırdı. Sonra herkes devesini durduğu yere çökertti Sonra yatsı için kamet geti­rildi, Hz. Peygamber yatsıyı kıldırdı. Bu iki namaz arasında başka bir namaz kılmadı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>139</td></tr><tr><td>Arabic No</td><td>139</td></tr><tr><td>Reference</td><td>Book 4 Hadith 5</td></tr></tbody></table></div>
 

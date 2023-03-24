@@ -62,7 +62,7 @@ Narrated Jabir bin 'Abdullah Al-Ansari (while talking about the period of pause 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir b. Abdullah el-Ensari r.a. (O da hadîs-i sâbıkı rivâyet edip) şöyle demiştir: Resulullah sallallahu aleyhi ve sellem fetret-i vahiyden bahsederken söz arasında buyurdu ki: "Ben (bir gün) yürürken birdenbire gökyüzü tarafından bir ses işitttim. Başımı kaldırdım. Bir de baktım ki Hıra'da bana gelen Melek (yâni Cibrîl a.s.) semâ ile arz arasında bir kürsî üzerinde oturmuş. Pek ziyade korktum. (Evime) dönüp: beni örtün, beni örtün, dedim. Bunun üzerine Allahu Teâlâ (Müddessir suresinin ilk dört) ayet-i kerîmesini inzâl etti. Artık vahiy kızıştı da ardı arası kesilmedi. Tekrar:3238, 4922, 4923, 4924, 4925, 4
+Cabir b. Abdullah el-Ensari r.a. (O da hadîs-i sâbıkı rivâyet edip) şöyle demiştir: Resulullah sallallahu aleyhi ve sellem fetret-i vahiyden bahsederken söz arasında buyurdu ki: "Ben (bir gün) yürürken birdenbire gökyüzü tarafından bir ses işitttim. Başımı kaldırdım. Bir de baktım ki Hıra'da bana gelen Melek (yâni Cibrîl a.s.) semâ ile arz arasında bir kürsî üzerinde oturmuş. Pek ziyade korktum. (Evime) dönüp: beni örtün, beni örtün, dedim. Bunun üzerine Allahu Teâlâ (Müddessir suresinin ilk dört) ayet-i kerîmesini inzâl etti. Artık vahiy kızıştı da ardı arası kesilmedi. Tekrar:3
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4</td></tr><tr><td>Arabic No</td><td>4</td></tr><tr><td>Reference</td><td>Book 1 Hadith 4</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ishaq bin Yazid] telah mengabarkan kepada kami [
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Said'den rivayet edildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Beş ukıyyeden daha az (gümüş için) zekat gerekmez. En az üç yaşındaki beş deve'den daha azı için zekat gerekmez. Beş vesk (zirai) mahsül'den daha azı için zekat gerekmez. Tekrar: 1
+Ebu Said'den rivayet edildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Beş ukıyyeden daha az (gümüş için) zekat gerekmez. En az üç yaşındaki beş deve'den daha azı için zekat gerekmez. Beş vesk (zirai) mahsül'den daha azı için zekat gerekmez. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1405</td></tr><tr><td>Arabic No</td><td>1405</td></tr><tr><td>Reference</td><td>Book 24 Hadith 10</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Walid Hisyam bin 'Abdul Malik] berkata, t
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah'tan şöyle nakledilmiştir: Allah Resûlü Sallallahu Aleyhi ve Sellem'e, amellerin hangisinin Allah'a daha sevimli olduğunu sordum. O da, Vaktinde kılınan namaz' diye cevap verdi. 'Sonra hangisi?' diye sordum. Bu defa: 'Ana-baba'ya iyilik etmek' diye cevap verdi. 'Bundan sonra hangisi?' diye sordum. Bu kez, Allah yolunda cihad etmek' diye cevap verdi. Bana bunları anlattı. Eğer daha fazla soru sorsaydım, elbette cevabını verirdi. Tekrar: 2
+Abdullah'tan şöyle nakledilmiştir: Allah Resûlü Sallallahu Aleyhi ve Sellem'e, amellerin hangisinin Allah'a daha sevimli olduğunu sordum. O da, Vaktinde kılınan namaz' diye cevap verdi. 'Sonra hangisi?' diye sordum. Bu defa: 'Ana-baba'ya iyilik etmek' diye cevap verdi. 'Bundan sonra hangisi?' diye sordum. Bu kez, Allah yolunda cihad etmek' diye cevap verdi. Bana bunları anlattı. Eğer daha fazla soru sorsaydım, elbette cevabını verirdi. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>527</td></tr><tr><td>Arabic No</td><td>527</td></tr><tr><td>Reference</td><td>Book 9 Hadith 6</td></tr></tbody></table></div>
 

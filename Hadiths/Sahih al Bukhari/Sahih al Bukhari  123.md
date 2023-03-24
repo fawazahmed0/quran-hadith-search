@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Utsman] berkata, telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Musa r.a. şöyle demiştir: Bir adam Nebi (Sallallahu aleyhi ve Sellem)'e gelerek şöyle dedi: "Ey Allah'ın Resulü! Allah yolunda savaşmak nedir? Birimiz öfkesi sebebiyle savaşıyor, birimiz asabiyetten dolayı savaşıyor". Nebi (Sallallahu aleyhi ve Sellem) başını ona doğru kaldırdı (çünkü adam ayaktaydı) ve şöyle dedi: "Kim Allah'ın kelimesi en yüce olsun diye savaşırsa işte o Allah yolundadır. Tekrar: 2
+Ebu Musa r.a. şöyle demiştir: Bir adam Nebi (Sallallahu aleyhi ve Sellem)'e gelerek şöyle dedi: "Ey Allah'ın Resulü! Allah yolunda savaşmak nedir? Birimiz öfkesi sebebiyle savaşıyor, birimiz asabiyetten dolayı savaşıyor". Nebi (Sallallahu aleyhi ve Sellem) başını ona doğru kaldırdı (çünkü adam ayaktaydı) ve şöyle dedi: "Kim Allah'ın kelimesi en yüce olsun diye savaşırsa işte o Allah yolundadır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>123</td></tr><tr><td>Arabic No</td><td>123</td></tr><tr><td>Reference</td><td>Book 3 Hadith 65</td></tr></tbody></table></div>
 

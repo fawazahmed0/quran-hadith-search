@@ -38,7 +38,7 @@
 
 
 <div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aisha:(when the slanderers said what they said about her): I went to my bed knowing at that time that I was innocent and that Allah would reveal my innocence, but by Allah, I never thought that Allah would reveal in my favor a revelation which would be recited, for I considered myself too unimportant to be talked about by Allah in the Divine Revelation that was to be recited. So Allah revealed the ten Verses (of Surat-an-Nur). 'Those who brought a false charge.....
+Narrated 'Aisha:(when the slanderers said what they said about her): I went to my bed knowing at that time that I was innocent and that Allah would reveal my innocence, but by Allah, I never thought that Allah would reveal in my favor a revelation which would be recited, for I considered myself too unimportant to be talked about by Allah in the Divine Revelation that was to be recited. So Allah revealed the ten Verses (of Surat-an-Nur). 'Those who brought a false charge
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7545</td></tr><tr><td>Arabic No</td><td>7545</td></tr><tr><td>Reference</td><td>Book 97 Hadith 170</td></tr></tbody></table></div>
 

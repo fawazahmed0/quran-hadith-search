@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Câbir bin Abdullah r.a.'dan şöyle nakledilmiştir: "Ömer r.a. Hendek savaşında güneş batmak üzere iken Nebi Sallallahu Aleyhi ve Sellem'in yanına geldi ve Kureyşli kafirlere hakaret etmeye başladı: 'Ey Allah'ın elçisi güneş batmadan neredeyse ikindi namazını kılamayacaktım’ dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Allah'a and olsun ki, ben bile kılmadım' buyurdu. Sonra kalkıp Buthan'a gittik. Rasûlullah Sallallahu Aleyhi ve Sellem namaz kılmak için abdest aldı, biz de abdest aldık. Güneş battıktan sonra ikindi namazını kıldırdı. Ondan sonra da, akşam namazını kıldırdı. Tekrar: 598,
+Câbir bin Abdullah r.a.'dan şöyle nakledilmiştir: "Ömer r.a. Hendek savaşında güneş batmak üzere iken Nebi Sallallahu Aleyhi ve Sellem'in yanına geldi ve Kureyşli kafirlere hakaret etmeye başladı: 'Ey Allah'ın elçisi güneş batmadan neredeyse ikindi namazını kılamayacaktım’ dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Allah'a and olsun ki, ben bile kılmadım' buyurdu. Sonra kalkıp Buthan'a gittik. Rasûlullah Sallallahu Aleyhi ve Sellem namaz kılmak için abdest aldı, biz de abdest aldık. Güneş battıktan sonra ikindi namazını kıldırdı. Ondan sonra da, akşam namazını kıldırdı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>596</td></tr><tr><td>Arabic No</td><td>596</td></tr><tr><td>Reference</td><td>Book 9 Hadith 71</td></tr></tbody></table></div>
 

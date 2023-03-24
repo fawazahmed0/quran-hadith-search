@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nafi’ Abdullah r.a.'den rivayet etmiştir: Nebi Sallallahu Aleyhi ve Sellem "Her kim yemin edecekse Allah adına yemin etsin ya da sussun" buyurmuştur. Tekrar: 3836, 6
+Nafi’ Abdullah r.a.'den rivayet etmiştir: Nebi Sallallahu Aleyhi ve Sellem "Her kim yemin edecekse Allah adına yemin etsin ya da sussun" buyurmuştur. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 52 Hadith 40</td></tr></tbody></table></div>
 

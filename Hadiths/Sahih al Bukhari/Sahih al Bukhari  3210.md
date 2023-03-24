@@ -62,7 +62,7 @@ Telah bercerita kepada kami Muhammad telah bercerita kepada kami [Ibnu Abi Marya
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe (radiyallahu anha)’dan nakledilmiştir: "Resulullah (Sallallahu Aleyhi ve Sellem)’in şunları söylediğini işittim: "Melekler bulut içerisinde inerler ve gökte olacağı yazılan hususları konuşurlar. Şeytanlar da bu konuşulanları duymak için sinsi sinsi hareket ederler. Kimisi duyar ve duyduklarını kahinlere fısıldar. Bu sırada da söylediklerine kendi uydurdukları yüz yalan daha katarlar. " Tekrarı: 3288, 5
+Aişe (radiyallahu anha)’dan nakledilmiştir: "Resulullah (Sallallahu Aleyhi ve Sellem)’in şunları söylediğini işittim: "Melekler bulut içerisinde inerler ve gökte olacağı yazılan hususları konuşurlar. Şeytanlar da bu konuşulanları duymak için sinsi sinsi hareket ederler. Kimisi duyar ve duyduklarını kahinlere fısıldar. Bu sırada da söylediklerine kendi uydurdukları yüz yalan daha katarlar. " Tekrarı:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>3210</td></tr><tr><td>Reference</td><td>Book 59 Hadith 21</td></tr></tbody></table></div>
 

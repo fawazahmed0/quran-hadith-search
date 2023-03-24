@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe r.anha'dan şöyle nakledilmiştir: "Allah Rasulü (Sallallahu aleyhi ve Sellem) ihramlı iken, saçlarının ayrıldığı yere sürülmüş kokunun beyazlığına bakıyordum. Tekrar: 1
+Âişe r.anha'dan şöyle nakledilmiştir: "Allah Rasulü (Sallallahu aleyhi ve Sellem) ihramlı iken, saçlarının ayrıldığı yere sürülmüş kokunun beyazlığına bakıyordum. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 5 Hadith 24</td></tr></tbody></table></div>
 

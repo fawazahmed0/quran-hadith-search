@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah telah mencer
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Bazı melekler gece, bazıları da gündüz nöbetleşe yanınıza gelir. Bunlar, sabah ve ikindi namazlarında bir araya gelirler. Daha sonra gece sizin yanınızda olanlar Hak Teâlâ'nın huzuruna çıkar. Allah Teâlâ kullarını en iyi kendisi bilmesine rağmen yine de onlara 'Kullarımı nasıl bıraktınız?' diye sorar. Onlar da: Yanlarından ayrılırken namaz kılıyorlardı. Yanlarına vardığımızda da namaz kılıyorlardı' diye cevap verirler. Tekrar: 3
+Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Bazı melekler gece, bazıları da gündüz nöbetleşe yanınıza gelir. Bunlar, sabah ve ikindi namazlarında bir araya gelirler. Daha sonra gece sizin yanınızda olanlar Hak Teâlâ'nın huzuruna çıkar. Allah Teâlâ kullarını en iyi kendisi bilmesine rağmen yine de onlara 'Kullarımı nasıl bıraktınız?' diye sorar. Onlar da: Yanlarından ayrılırken namaz kılıyorlardı. Yanlarına vardığımızda da namaz kılıyorlardı' diye cevap verirler. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>555</td></tr><tr><td>Arabic No</td><td>555</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
 

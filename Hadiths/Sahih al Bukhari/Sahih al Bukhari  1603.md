@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Ashbagh bin Al Faraj] telah mengabarkan kepada s
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Salim, babasının şöyle dediğini nakletmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem'in, Mekke'ye geldiği zaman yaptığı her tavaf'ın başında siyah rüknü istilam ettiğini ve yedi şavt'ın ilk üçünde remel yaptığını gördüm." Tekrar: 1604, 1
+Salim, babasının şöyle dediğini nakletmiştir: "Resûlullah Sallallahu Aleyhi ve Sellem'in, Mekke'ye geldiği zaman yaptığı her tavaf'ın başında siyah rüknü istilam ettiğini ve yedi şavt'ın ilk üçünde remel yaptığını gördüm." Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 25 Hadith 89</td></tr></tbody></table></div>
 

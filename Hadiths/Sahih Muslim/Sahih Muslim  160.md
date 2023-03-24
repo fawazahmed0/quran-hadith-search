@@ -72,7 +72,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada ka
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Bize Kuteybe b. Said tahdis etti. Bize Leys tahdis etti (H) ve bize Muhammed b. Rumh el-Muhacir de tahdis edip dedi ki: Leys, Yezid b. Ebu Habib'den bildirdi. O Ebu'l-Hayr (1/65a)'den, o Abdullah b. Amr'dan rivayet ettiğine göre; Bir adam Resulullah (Sallallahu aleyhi ve Sellem)'e: "İslam'ın hangi hasleti daha hayırlıdır" dedi. "Yemeği yedirir, tanıdığın ve tanımadığın herkese selam verirsin" buyurdu. Diğer tahric: Buhari, 12,28,5882; Ebu Davud, 5193; Nesai, 5015; İbn Mace, 3253; Tuhfetu'l-Eşraf, 8927
+Bize Kuteybe b. Said tahdis etti. Bize Leys tahdis etti (H) ve bize Muhammed b. Rumh el-Muhacir de tahdis edip dedi ki: Leys, Yezid b. Ebu Habib'den bildirdi. O Ebu'l-Hayr (1/65a)'den, o Abdullah b. Amr'dan rivayet ettiğine göre; Bir adam Resulullah (Sallallahu aleyhi ve Sellem)'e: "İslam'ın hangi hasleti daha hayırlıdır" dedi. "Yemeği yedirir, tanıdığın ve tanımadığın herkese selam verirsin" buyurdu. Diğer tahric: Buhari, 12,28,5882; Ebu Davud, 5193; Nesai, 5015; İbn Mace, 3253; Tuhfetu'l-Eşraf
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>160</td></tr><tr><td>Arabic No</td><td>39</td></tr><tr><td>Reference</td><td>Book 1 Hadith 67</td></tr></tbody></table></div>
 

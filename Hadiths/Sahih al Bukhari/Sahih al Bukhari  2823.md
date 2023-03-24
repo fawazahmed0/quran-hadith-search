@@ -62,7 +62,7 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Mu'tamir] be
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes İbn Malik'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle demiştir: "Allahım, aciz duruma düşmekten ve tembellikten sana sığınırım. Sana sığınırım Allahım, korkaklıktan ve yaşlılıktan. Allahım, hayatın ve ölümün fitnesinden ve kabir azabından sana sığınırım. " Tekrar: 4
+Enes İbn Malik'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle demiştir: "Allahım, aciz duruma düşmekten ve tembellikten sana sığınırım. Sana sığınırım Allahım, korkaklıktan ve yaşlılıktan. Allahım, hayatın ve ölümün fitnesinden ve kabir azabından sana sığınırım. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2823</td></tr><tr><td>Arabic No</td><td>2823</td></tr><tr><td>Reference</td><td>Book 56 Hadith 39</td></tr></tbody></table></div>
 

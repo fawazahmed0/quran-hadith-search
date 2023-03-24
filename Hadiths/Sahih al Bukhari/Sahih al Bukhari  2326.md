@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer r.a. şöyle anlatır: Nebi Sallallahu Aleyhi ve Sellem, Beni Nadir yahudilerinin Büveyre adlı hurmalığını yaktırıp kestirmişti. Bununla ilgili olarak Hassan şu beyti söylemiştir: "Lüey oğulları, Büveyre hurmalıklarındaki yayılan yangına hiç aldırış etmediler. " Tekrar: 3021, 4
+Abdullah İbn Ömer r.a. şöyle anlatır: Nebi Sallallahu Aleyhi ve Sellem, Beni Nadir yahudilerinin Büveyre adlı hurmalığını yaktırıp kestirmişti. Bununla ilgili olarak Hassan şu beyti söylemiştir: "Lüey oğulları, Büveyre hurmalıklarındaki yayılan yangına hiç aldırış etmediler. " Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2326</td></tr><tr><td>Arabic No</td><td>2326</td></tr><tr><td>Reference</td><td>Book 41 Hadith 7</td></tr></tbody></table></div>
 

@@ -62,7 +62,7 @@ Telah menceritakan kepada saya [Yahya bin Ja'far] telah menceritakan kepada kami
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hemmam, Ebu Hureyre aracılığıyla NebiSallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Kadın, kocasının kazancından (Allah yolunda) kocasının emri olmaksızın infak ederse, bunun ecrinin yarısını alır.” Tekrar: 5
+Hemmam, Ebu Hureyre aracılığıyla NebiSallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: "Kadın, kocasının kazancından (Allah yolunda) kocasının emri olmaksızın infak ederse, bunun ecrinin yarısını alır.” Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2066</td></tr><tr><td>Arabic No</td><td>2066</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
 

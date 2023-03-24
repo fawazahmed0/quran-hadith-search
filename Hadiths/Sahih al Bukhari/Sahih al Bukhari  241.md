@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes r.a.'den rivayet edildiğine göre (Enes r.a. dediki) Nebi (Sallallahu aleyhi ve Sellem) (namazda iken) elbisesin (in için)e tükürdü. Tekrar: 405, 412, 413, 417, 531,
+Enes r.a.'den rivayet edildiğine göre (Enes r.a. dediki) Nebi (Sallallahu aleyhi ve Sellem) (namazda iken) elbisesin (in için)e tükürdü. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>241</td></tr><tr><td>Arabic No</td><td>241</td></tr><tr><td>Reference</td><td>Book 4 Hadith 107</td></tr></tbody></table></div>
 

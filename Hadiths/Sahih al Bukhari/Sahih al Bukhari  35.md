@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Kim inanarak ve sevabını yalnızca Allah'tan umarak Kadir gecesini ihya ederse geçmiş günahlerı bağışlanır. Tekrar: 37, 38, 1901, 2
+Ebu Hureyre r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Kim inanarak ve sevabını yalnızca Allah'tan umarak Kadir gecesini ihya ederse geçmiş günahlerı bağışlanır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Arabic No</td><td>35</td></tr><tr><td>Reference</td><td>Book 2 Hadith 28</td></tr></tbody></table></div>
 

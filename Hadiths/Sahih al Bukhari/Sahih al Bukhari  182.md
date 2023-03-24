@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Amru bin 'Ali] berkata, telah menceritakan kepa
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muğîre İbn Şu'be r.a.'den rivayet edildiğine göre o bir yolculukta Resulullah (Sallallahu aleyhi ve Sellem) ile birlikteydi. Nebi (Sallallahu aleyhi ve Sellem) tuvalet ihtiyacını görmek için gitti. Muğîre Resulullah sallallahu aleyhi ve sellem'in eline su döküyor, o da abdest alıyordu. Nebi s.a.v. yüzünü ve kollarını yıkadı, mestleri üzerine ise mesh etti. Tekrar: 203, 206, 363, 388, 2918, 4
+Muğîre İbn Şu'be r.a.'den rivayet edildiğine göre o bir yolculukta Resulullah (Sallallahu aleyhi ve Sellem) ile birlikteydi. Nebi (Sallallahu aleyhi ve Sellem) tuvalet ihtiyacını görmek için gitti. Muğîre Resulullah sallallahu aleyhi ve sellem'in eline su döküyor, o da abdest alıyordu. Nebi s.a.v. yüzünü ve kollarını yıkadı, mestleri üzerine ise mesh etti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>182</td></tr><tr><td>Reference</td><td>Book 4 Hadith 48</td></tr></tbody></table></div>
 

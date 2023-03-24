@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Musa bin Isma'il] berkata, Telah menceritakan ke
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem)'e hac sırasında "Şeytan taşlamadan önce kurban kestim (benim için bir sorumluluk olur mu?)" diye soruldu, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Adam "Kurban kesmeden önce tıraş oldum" dedi, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Tekrar: 1721, 1722, 1723, 1
+İbn Abbas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem)'e hac sırasında "Şeytan taşlamadan önce kurban kestim (benim için bir sorumluluk olur mu?)" diye soruldu, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Adam "Kurban kesmeden önce tıraş oldum" dedi, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Arabic No</td><td>84</td></tr><tr><td>Reference</td><td>Book 3 Hadith 26</td></tr></tbody></table></div>
 

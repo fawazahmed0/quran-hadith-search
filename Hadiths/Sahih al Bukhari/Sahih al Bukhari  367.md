@@ -62,7 +62,7 @@ Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Saîd el-Hudrî'den şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) insan'ın sammâ türü örtünme ile, , büründüğü kumaşın bir parçasını avret mahalli üzerinde bulundurmaksızın bir tek elbise ile kaba etini yere koyup dizlerini kırarak oturmasını yasaklamıştır. Tekrar: 1991, 2144, 2147, 5
+Ebu Saîd el-Hudrî'den şöyle nakledilmiştir: "Nebi (Sallallahu aleyhi ve Sellem) insan'ın sammâ türü örtünme ile, , büründüğü kumaşın bir parçasını avret mahalli üzerinde bulundurmaksızın bir tek elbise ile kaba etini yere koyup dizlerini kırarak oturmasını yasaklamıştır. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>367</td></tr><tr><td>Arabic No</td><td>367</td></tr><tr><td>Reference</td><td>Book 8 Hadith 19</td></tr></tbody></table></div>
 

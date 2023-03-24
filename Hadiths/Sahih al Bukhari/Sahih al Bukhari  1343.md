@@ -62,7 +62,7 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir İbn Abdullah r.a. şöyle anlatır: Nebi Sallallahu Aleyhi ve Sellem Uhud şehitlerinden ikişer kişiyi bir elbise ile kefenliyor sonra "Bunların hangisi Kur'an'ı daha çok öğrenmiştir?" diye soruyordu. Onlardan birine işaret edilirse onu lahde daha önce koyardı. Nebi Sallallahu Aleyhi ve Sellem daha sonra şöyle buyurdu: "Ben kıyamet gününde bunlara şahidim." Nebi Sallallahu Aleyhi ve Sellem Uhud şehitlerinin kanları ile gömülmesini emretti. Onlar yıkanmadı, namazları da kılınmadı. Tekrar: 1345, 1346, 1347, 1
+Cabir İbn Abdullah r.a. şöyle anlatır: Nebi Sallallahu Aleyhi ve Sellem Uhud şehitlerinden ikişer kişiyi bir elbise ile kefenliyor sonra "Bunların hangisi Kur'an'ı daha çok öğrenmiştir?" diye soruyordu. Onlardan birine işaret edilirse onu lahde daha önce koyardı. Nebi Sallallahu Aleyhi ve Sellem daha sonra şöyle buyurdu: "Ben kıyamet gününde bunlara şahidim." Nebi Sallallahu Aleyhi ve Sellem Uhud şehitlerinin kanları ile gömülmesini emretti. Onlar yıkanmadı, namazları da kılınmadı. Tekrar:
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1343</td></tr><tr><td>Arabic No</td><td>1343</td></tr><tr><td>Reference</td><td>Book 23 Hadith 98</td></tr></tbody></table></div>
 
